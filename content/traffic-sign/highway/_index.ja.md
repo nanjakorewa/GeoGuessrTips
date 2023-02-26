@@ -1,0 +1,15 @@
+---
+title: "国道・州道などの番号表記"
+date: 2023-02-26
+lastmod: 2023-02-26
+weight: 1
+draft: false
+keywords: ["高速道路"]
+sections: [""]
+---
+
+## ヨーロッパ
+### トルコ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677397608691!6m8!1m7!1sijmtpnHOe5Exp6nnWwL--g!2m2!1d40.79507083198259!2d29.43492562901339!3f57.70331698013329!4f9.434500273269634!5f2.9578504551201" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
