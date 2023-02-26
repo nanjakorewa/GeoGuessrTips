@@ -16,8 +16,8 @@
 					var projects = [
 						{{ range $pages }}
 						{
-							value: "{{ .Title }}の比較",
-							label: "{{.Plain}}{{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
+							value: "{{ .Title }}",
+							label: "{{ .Title }} {{range.Params.Keywords}}<p>{{.}}</p>{{end}} {{.Plain}}",
 							url:"{{ .Permalink }}"
 						},
 						{{ end -}}
@@ -26,11 +26,13 @@
 						{{ $temp_keywords := .Params.Keywords -}}
 						{{ $temp_permalink := .Permalink -}}
 						{{range $sec_index, $section_name := .Params.Sections -}}
+						{{ if (ne $section_name "")}}
 						{
 							value: "{{ $temp_title }} > {{ $section_name }}",
 							label: "{{range $temp_keywords}}<p>{{.}}</p>{{end}}<p>{{ $section_name }}</p>",
 							url:"{{ $temp_permalink }}#sec-{{ $sec_index }}"
 						},
+						{{ end -}}
 						{{ end -}}
 						{{ end -}}
 					];
