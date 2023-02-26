@@ -19,9 +19,10 @@ div.googlemap-if div.description{
 }
 
 div.googlemap-if div.description a::before {
-  content: "Link: ";
+  font-family: "Font Awesome 5 Free";
+  content: "\f2d0";
+  margin-right: 0.2em;
 }
-
 
 h3.section-title {
   margin-top: 2em;

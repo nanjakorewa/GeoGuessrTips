@@ -52,7 +52,7 @@ link = "https://github.com/Y-kyoto/UsefulLinks"
 languageName = "ja"
 languageCode = "Ja-jp"
 weight = 1
-copyright = "※個人のブックマーク整理用のリポジトリです。"
+copyright = "個人のブックマーク整理用のリポジトリ。<br/>GeoGuessrで下りた地点付近の地図をメモしたものです。"
 
 # banner
 [Languages.ja.params.banner]

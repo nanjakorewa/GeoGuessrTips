@@ -12,6 +12,8 @@ sections: [""]
 ### イタリア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677410948083!6m8!1m7!1s76MqHFlFPUbThlmT0P_u-g!2m2!1d38.10536186920397!2d13.37534580045851!3f323.87590797615866!4f47.283356514597386!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677422622731!6m8!1m7!1stB8lPwvMDZOcHLaY-rtpCw!2m2!1d45.06875639241206!2d7.667242245217905!3f283.2037858304049!4f0.8758019917420228!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### ポルトガル

@@ -22,6 +22,11 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677407470488!6m8!1m7!1s2RCw297LJyo7RjI49HQGBA!2m2!1d43.29876773163806!2d5.374708989617257!3f129.50203034124914!4f-29.584326962833885!5f0.5872324910380012" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### イタリア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677422710804!6m8!1m7!1s2NeNp4uh4MSnOm1avl4ulQ!2m2!1d45.06868436522225!2d7.66774169313194!3f73.89628670599689!4f-17.66070226339258!5f1.6568206496670523" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ウクライナ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409649017!6m8!1m7!1sr0d46zQQUaJyjxh3UKl3Ng!2m2!1d50.44888187071065!2d30.51240529258574!3f157.28424490133315!4f-21.278001177052147!5f2.23564332320874" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
