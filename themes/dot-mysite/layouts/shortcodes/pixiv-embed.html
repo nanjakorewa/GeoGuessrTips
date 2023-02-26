@@ -1,0 +1,7 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div class="pixiv-embed">
+  <a href="https://www.pixiv.net/artworks/{{ .Get 0 }}" title="{{ .Get 1 }}">
+    <img alt="{{ .Get 1 }}" class="http-image" src="https://embed.pixiv.net/decorate.php?illust_id={{ .Get 0 }}&amp;mode=sns-automator">
+  </a>
+  <a href="https://www.pixiv.net/artworks/{{ .Get 0 }}">「{{ .Get 1 }}」</a>
+</div>

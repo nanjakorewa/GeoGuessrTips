@@ -1,0 +1,2 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<a href="{{ .Get 1 }}" {{ if len .Params | eq 3 }}class="linktype-{{ .Get 2 }}"{{ else }}class="linktype-normal"{{ end }}>{{ .Get 0 }}</a>

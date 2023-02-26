@@ -1,0 +1,103 @@
+################################# Default configuration ###################
+# language
+DefaultContentLanguage = "ja"
+# provide your domain here
+baseURL = "https://nanjakorewa.github.io/PicTipsLinks/"
+# theme
+theme = "dot-mysite"
+# site title
+title = ""
+# disable language
+disableLanguages = []
+# google analytics
+googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+# unsafe html
+[markup.goldmark.renderer]
+unsafe = true
+
+############################# Default Parameters ##########################
+[params]
+# logo is for all page
+logo = ""
+# logo white is for homepage logo, you can use colorful logo too...
+logo_white = ""
+# when logo is empty, it will shown your site title
+
+# customize color
+primary_color = "#264653"
+body_color = "#f0efeb"
+text_color = "#3d405b"
+text_color_dark = "#242738"
+white_color = "#ffffff"
+light_color = "#Copied!"
+
+# font family
+font_family = "M PLUS 1p" # Choose font family from : https://fonts.google.com/
+
+# contact form action
+contact_form_action = "#" # contact form works with : https://formspree.io
+
+
+############################## social links ##############################
+[[params.social]]
+icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
+link = "https://twitter.com/nanjakorewa"
+
+[[params.social]]
+icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
+link = "https://github.com/Y-kyoto/UsefulLinks"
+
+################################ Japanese Language ######################
+[Languages.ja]
+languageName = "ja"
+languageCode = "Ja-jp"
+weight = 1
+copyright = "※個人のブックマーク整理用のリポジトリです。"
+
+# banner
+[Languages.ja.params.banner]
+title = ""
+subtitle = ""
+placeholder = "検索ワードを入力してください。"
+
+# call to action
+[Languages.ja.params.cta]
+enable = true
+title = "Didn't find an answer to your question?"
+content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+# call to action button
+[Languages.ja.params.cta.button]
+enable = true
+label = "contact us"
+link = "contact"
+
+
+################## japanese navigation #################
+[[Languages.ja.menu.main]]
+name = "トップに戻る"
+url = "/"
+weight = 1
+
+# Dropdown menu
+# [[Languages.ja.menu.main]]
+# weight = 4
+# name = "docs"
+# hasChildren = true
+# 
+#   [[Languages.ja.menu.main]]
+#   parent = "docs"
+#   name = "Installation"
+#   url = "installation"
+#   weight = 1
+# 
+#   [[Languages.ja.menu.main]]
+#   parent = "docs"
+#   name = "Billing and Pricing"
+#   url = "billing-pricing"
+#   weight = 2
+# 
+#   [[Languages.ja.menu.main]]
+#   parent = "docs"
+#   name = "Features"
+#   url = "features"
+#   weight = 3
