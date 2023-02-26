@@ -18,3 +18,14 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 {{% ahref "Petrol Ofisi" "https://www.petrolofisi.com.tr/en" %}}
 </div>
 </div>
+
+## アフリカ
+### 南アフリカ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677426337422!6m8!1m7!1s-5hmQPWN_dIB8l5eQ10CyA!2m2!1d-26.14975853959415!2d28.150671607877!3f116.51485416101676!4f10.643596636645924!5f1.9552386657745573" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+サソール社は南アフリカの化学品とエネルギー企業。南アフリカで最大規模の企業であり、世界で7番目に大きな石炭採掘会社でもある。
+{{% ahref "Investor Centre - Sasol" "https://www.sasol.com/investor-centre" %}}
+</div>
+</div>

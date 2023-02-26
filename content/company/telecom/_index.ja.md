@@ -18,8 +18,3 @@ sections: [""]
  - {{% ahref "Coriolis Telecom SAS" "http://www.coriolis.com/" %}}
 </div>
 </div>
-
-
-{{% ahrefs %}}
-{{% ahref "Coriolis Telecom SAS" "http://www.coriolis.com/" %}}
-{{% /ahrefs %}}
