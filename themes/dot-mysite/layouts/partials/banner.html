@@ -16,8 +16,8 @@
 					var projects = [
 						{{ range $pages }}
 						{
-							value: "{{ .Title }}のトップページ",
-							label: "{{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
+							value: "{{ .Title }}の比較",
+							label: "{{.Plain}}{{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
 							url:"{{ .Permalink }}"
 						},
 						{{ end -}}

@@ -2,7 +2,7 @@
 # language
 DefaultContentLanguage = "ja"
 # provide your domain here
-baseURL = "https://nanjakorewa.github.io/PicTipsLinks/"
+baseURL = "https://nanjakorewa.github.io/"
 # theme
 theme = "dot-mysite"
 # site title
