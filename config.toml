@@ -2,7 +2,7 @@
 # language
 DefaultContentLanguage = "ja"
 # provide your domain here
-baseURL = "https://nanjakorewa.github.io/"
+baseURL = "https://nanjakorewa.github.io/GeoGuessrTips/"
 # theme
 theme = "dot-mysite"
 # site title
