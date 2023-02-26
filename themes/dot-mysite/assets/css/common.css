@@ -5,16 +5,17 @@ div.googlemap-if {
 }
 
 div.googlemap-if iframe{
-  margin: 0.1em;
+  margin: 0;
 }
 
 div.googlemap-if div.description{
+  margin: 0;
   padding: 0.5em;
   padding-bottom: 0;
   background-color: #f1f1f1;
   font-size: 0.8em;
-  width: 300px;
-  height: 300px;
+  width: 295px;
+  height: 295px;
 }
 
 div.googlemap-if div.description a::before {

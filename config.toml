@@ -6,7 +6,7 @@ baseURL = "https://nanjakorewa.github.io/GeoGuessrTips/"
 # theme
 theme = "dot-mysite"
 # site title
-title = ""
+title = "GeoGuessr Memo"
 # disable language
 disableLanguages = []
 # google analytics
