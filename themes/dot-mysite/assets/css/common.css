@@ -1,11 +1,26 @@
 div.googlemap-if {
   width: 100% !important;
   display: flex;
+  flex-wrap: wrap;
 }
 
 div.googlemap-if iframe{
-  margin: 0.1em
+  margin: 0.1em;
 }
+
+div.googlemap-if div.description{
+  padding: 0.5em;
+  padding-bottom: 0;
+  background-color: #f1f1f1;
+  font-size: 0.8em;
+  width: 300px;
+  height: 300px;
+}
+
+div.googlemap-if div.description a::before {
+  content: "Link: ";
+}
+
 
 h3.section-title {
   margin-top: 2em;
