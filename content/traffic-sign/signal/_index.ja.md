@@ -8,6 +8,18 @@ keywords: ["シグナル"]
 sections: [""]
 ---
 
+## アジア
+### イスラエル
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677459322625!6m8!1m7!1sHcN3Is61HIY8SESfJrlalA!2m2!1d32.07260367095928!2d34.76578981940682!3f43.1875696095048!4f15.766205975472445!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## オセアニア
+### オーストラリア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677458455688!6m8!1m7!1sIfhGQyxP9E8zId0UpPdZ4w!2m2!1d-35.30912178782938!2d149.1334536857633!3f339.9204004591497!4f8.224625390498133!5f1.7431718349436869" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## ヨーロッパ
 ### イタリア
 <div class="googlemap-if">

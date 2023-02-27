@@ -15,6 +15,13 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+
+### フランス
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677457870777!6m8!1m7!1suk64wn33_cQJD8u22Np8Hg!2m2!1d45.45645565515733!2d9.157319882874031!3f177.08147721451928!4f-26.845487707234398!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ポルトガル
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677410012514!6m8!1m7!1sYlsldybfoDyruz8SsoCY9g!2m2!1d41.14601547862679!2d-8.620101963479444!3f326.0768975008105!4f-37.4325446984132!5f0.9328797725170294" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

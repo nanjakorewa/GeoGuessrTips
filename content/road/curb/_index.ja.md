@@ -9,6 +9,13 @@ sections: [""]
 ---
 
 ## アジア
+### イスラエル
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677459240601!6m8!1m7!1sKzaNL2gPLfulmYdj5Ttfng!2m2!1d32.07251829005475!2d34.76466352452803!3f131.69542916217296!4f-23.314093966316065!5f1.955654522822012" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677459295522!6m8!1m7!1sHcN3Is61HIY8SESfJrlalA!2m2!1d32.07260367095928!2d34.76578981940682!3f64.88275511539939!4f-11.880128793571245!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## オセアニア
 ### インドネシア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409059457!6m8!1m7!1scdQImoXZMPtZb3IkBlfd6g!2m2!1d-5.136744719452558!2d119.4391749107647!3f2.605017825440939!4f-21.634927120503434!5f2.302769238395383" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

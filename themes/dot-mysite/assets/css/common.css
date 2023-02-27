@@ -1,3 +1,7 @@
+.container {
+  max-width: 95% !important;
+}
+
 div.googlemap-if {
   width: 100% !important;
   display: flex;
@@ -18,7 +22,22 @@ div.googlemap-if div.description{
   height: 295px;
 }
 
+div.googlemap-if div.description-wide{
+  margin: 0;
+  padding: 0.5em;
+  padding-bottom: 0;
+  background-color: #f1f1f1;
+  font-size: 0.8em;
+  width: 590px;
+}
+
 div.googlemap-if div.description a::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f2d0";
+  margin-right: 0.2em;
+}
+
+div.googlemap-if div.description-wide a::before {
   font-family: "Font Awesome 5 Free";
   content: "\f2d0";
   margin-right: 0.2em;

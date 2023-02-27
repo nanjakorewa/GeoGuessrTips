@@ -8,6 +8,12 @@ keywords: ["歩道"]
 sections: [""]
 ---
 
+## オセアニア
+### オーストラリア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677458537545!6m8!1m7!1sRDaV25GUvgKCfNUAFCsizg!2m2!1d-35.30871692335814!2d149.1308362290019!3f48.35552332986662!4f-43.67975134911525!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## ヨーロッパ
 ### ウクライナ
 <div class="googlemap-if">

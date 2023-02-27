@@ -37,6 +37,12 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677457155769!6m8!1m7!1s89vbxlrmxhvzfQDD5WDxzA!2m2!1d43.31715165068736!2d21.89799543562292!3f167.33577188898036!4f-14.773736947112269!5f1.7258569190911466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### チェコ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677458178185!6m8!1m7!1siENZhKVfjPuaiCvaIymQSg!2m2!1d50.07254928507611!2d14.4068753915816!3f351.082631060077!4f-21.24815776519668!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ポーランド
 
 <div class="googlemap-if">
