@@ -10,7 +10,6 @@ sections: [""]
 
 ## ヨーロッパ
 ### オランダ
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677410683451!6m8!1m7!1sTRsdKSu7f0qnPXS9OWeCfw!2m2!1d51.91748719707853!2d4.453911586630594!3f322.59336159904353!4f-7.05503474179163!5f1.7435841894606412" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -32,6 +31,11 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409649017!6m8!1m7!1sr0d46zQQUaJyjxh3UKl3Ng!2m2!1d50.44888187071065!2d30.51240529258574!3f157.28424490133315!4f-21.278001177052147!5f2.23564332320874" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### セルビア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677457076665!6m8!1m7!1s5aHrE-drgLrANWW5co2oyw!2m2!1d43.31744546353223!2d21.89862721272998!3f124.18009612378557!4f-9.57842108422517!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677457155769!6m8!1m7!1s89vbxlrmxhvzfQDD5WDxzA!2m2!1d43.31715165068736!2d21.89799543562292!3f167.33577188898036!4f-14.773736947112269!5f1.7258569190911466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### ポーランド
 
