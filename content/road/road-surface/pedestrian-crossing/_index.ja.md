@@ -15,6 +15,12 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+
+### スイス
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677487509810!6m8!1m7!1s-JdjX-w_4Yp3NHyCpEPXHA!2m2!1d46.93660362533046!2d7.432285269557953!3f358.5345530089613!4f-10.6106802709253!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ウクライナ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409596106!6m8!1m7!1sAv2Ehj945_H1VK8W1Y7b-w!2m2!1d50.44921275907773!2d30.51268511028844!3f235.6345771922095!4f-10.062073404065046!5f3.178015629205613" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -45,7 +45,7 @@ link = "https://twitter.com/nanjakorewa"
 
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "https://github.com/Y-kyoto/UsefulLinks"
+link = "https://github.com/nanjakorewa"
 
 ################################ Japanese Language ######################
 [Languages.ja]

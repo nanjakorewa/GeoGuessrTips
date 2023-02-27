@@ -9,6 +9,11 @@ sections: [""]
 ---
 
 ## ヨーロッパ
+### スイス
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677487637263!6m8!1m7!1sncs4D1GfyQuBodWuvFJ_Tg!2m2!1d47.36235861911631!2d8.533020591822275!3f284.05608646200034!4f-12.553080127295075!5f1.7662783704547063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### オランダ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677410683451!6m8!1m7!1sTRsdKSu7f0qnPXS9OWeCfw!2m2!1d51.91748719707853!2d4.453911586630594!3f322.59336159904353!4f-7.05503474179163!5f1.7435841894606412" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

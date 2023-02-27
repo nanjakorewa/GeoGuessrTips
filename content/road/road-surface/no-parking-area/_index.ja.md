@@ -9,19 +9,18 @@ sections: [""]
 ---
 
 ## アジア
+
+### 台湾
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677483238793!6m8!1m7!1smUTWbtL9wo947sSsHYSopg!2m2!1d22.98897703947447!2d120.2086722867736!3f84.74537259555481!4f-23.398701949568277!5f1.5357967638081762" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### スリランカ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677398752163!6m8!1m7!1s-GwHkl6F52Nfu21DtvYBVg!2m2!1d6.932585196184275!2d79.857289100444!3f85.66362969830666!4f-20.881293864489606!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## ヨーロッパ
-
-### フランス
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677457870777!6m8!1m7!1suk64wn33_cQJD8u22Np8Hg!2m2!1d45.45645565515733!2d9.157319882874031!3f177.08147721451928!4f-26.845487707234398!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 ### ポルトガル
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677410012514!6m8!1m7!1sYlsldybfoDyruz8SsoCY9g!2m2!1d41.14601547862679!2d-8.620101963479444!3f326.0768975008105!4f-37.4325446984132!5f0.9328797725170294" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
