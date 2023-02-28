@@ -26,8 +26,6 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677488391005!6m8!1m7!1sWMmgG_Krua3VWFrLvGXOoA!2m2!1d18.51821813330537!2d98.92939196047243!3f295.3964512755014!4f19.843589686605057!5f1.6821050304375973" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
-
 ## オセアニア
 ### オーストラリア
 <div class="googlemap-if">
@@ -35,7 +33,11 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677465211021!6m8!1m7!1sOIwj049q11Bt2sNnXk6vQg!2m2!1d-31.64934709838378!2d116.6753376635603!3f350.8636381592982!4f8.976962704614209!5f1.3977422555279562" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677465250637!6m8!1m7!1sshSil5j_L3dqIlgsNVHmpQ!2m2!1d-20.7234621446844!2d139.4905820642018!3f45.660121416694906!4f5.459360858351587!5f1.9544072375277337" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677465281172!6m8!1m7!1snxXUCShFZNSEmtl0f26q4w!2m2!1d-14.46354358950741!2d132.2655207748224!3f172.490912074645!4f7.694089405950891!5f0.4143964008709521" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
+## ヨーロッパ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677589897735!6m8!1m7!1sMyG2JWVbYU4w20asGa7GuQ!2m2!1d39.65912852629715!2d22.43883724251534!3f284.52148459763606!4f17.54341656304895!5f0.7820865974627469" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## 南米

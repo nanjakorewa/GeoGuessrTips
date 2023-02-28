@@ -11,6 +11,13 @@ sections: [""]
 
 ## 北米
 ### アメリカ
+
+#### ニューヨーク
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677589582064!6m8!1m7!1sijk1jvwLOUkzWdTJn1a71A!2m2!1d40.69127331094853!2d-73.99386185377548!3f4.569770713353476!4f-16.574058705682106!5f3.1081109475692212" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 #### テキサス州
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677484448747!6m8!1m7!1sk572SwNMQpMuy6bMm8Q0kQ!2m2!1d30.26529899636662!2d-97.72982024249937!3f313.3425577802237!4f-23.043100239568204!5f1.8063258670895346" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -34,6 +41,11 @@ sections: [""]
 ### スイス
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677487587474!6m8!1m7!1sncs4D1GfyQuBodWuvFJ_Tg!2m2!1d47.36235861911631!2d8.533020591822275!3f211.2332836765333!4f-41.87963918078732!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### ヨーロッパ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677590071351!6m8!1m7!1sPeEhKZqh85uHy4VDSljmKQ!2m2!1d40.84640663394971!2d25.86297084761416!3f103.39527524440554!4f-15.661830435303301!5f1.9526976194285344" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### フランス

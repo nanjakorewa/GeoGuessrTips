@@ -10,7 +10,6 @@ sections: [""]
 
 ## 北米
 ### アメリカ
-#### 北米
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677423273588!6m8!1m7!1sNaWgBiqOA-RcbD7oS4Ql9g!2m2!1d44.66644026547955!2d-73.501251462635!3f358.83177355080403!4f-11.160501620620806!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -29,5 +28,14 @@ sections: [""]
 <div class="description">
 Whitetail Disposalは米国ペンシルベニア州に本拠を置く廃棄物管理会社。
 {{% ahref "Witetail Disposal" "https://www.whitetaildisposal.com/" %}}
+</div>
+</div>
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677590995360!6m8!1m7!1s7Ged-WdiSP_yi40qwKKThw!2m2!1d32.70892619934644!2d-117.1582923488563!3f314.749552163044!4f-8.776131326089299!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+北米を中心とする廃棄物管理会社。米国〜カナダの2000万人以上の住宅＋産業向けの廃棄サービスを提供する。埋立地処分場・リサイクルプラント・Landfill gasプロジェクト・発電所を保有する。なぜ発電所を有しているかというと、ごみから発生するガスをもとに電力を発電してその電力を供給しているから。WMが何度も買収を繰り返している点からもかなり資本集約的な産業であることがわかる。
+{{% ahref "Waste Management, Inc. " "https://investors.wm.com/" %}}
 </div>
 </div>

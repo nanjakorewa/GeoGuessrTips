@@ -15,7 +15,7 @@ sections: [""]
 
 <div class="description">
 コリオリテレコムSASは、携帯電話通信機器を提供しています。携帯電話、テレフォニープラン、ワイヤレスネットワーク、ブロードバンド設定、アクセサリーを提供しています。コリオリテレコムはフランス国内の顧客にサービスを提供しています。
- - {{% ahref "Coriolis Telecom SAS" "http://www.coriolis.com/" %}}
+ {{% ahref "Coriolis Telecom SAS" "http://www.coriolis.com/" %}}
 </div>
 </div>
 
