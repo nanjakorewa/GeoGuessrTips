@@ -52,3 +52,9 @@ ZVVは鉄道、バス、路面電車、トロリーバス、レイクボート�
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677458127961!6m8!1m7!1sO-_s0Xygx_2KoxyIMfg9sA!2m2!1d50.07253670840898!2d14.40900331196714!3f305.85786271168956!4f-17.983921464169754!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### イタリア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677673957371!6m8!1m7!1sDdPRtErCdSWSMrRHr2KHAg!2m2!1d45.46029528784953!2d9.181334261011648!3f227.20587910827803!4f-2.989348713574998!5f2.384248969230368" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
