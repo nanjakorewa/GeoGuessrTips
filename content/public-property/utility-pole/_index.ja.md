@@ -36,8 +36,14 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+### ギリシャ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677589897735!6m8!1m7!1sMyG2JWVbYU4w20asGa7GuQ!2m2!1d39.65912852629715!2d22.43883724251534!3f284.52148459763606!4f17.54341656304895!5f0.7820865974627469" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### ポーランド
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677632468489!6m8!1m7!1s6RnCqupe8edo1B1P03PrGg!2m2!1d50.12823649781259!2d19.87088067971602!3f314.25574682338157!4f11.296998313606707!5f1.884971071341531" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## 南米

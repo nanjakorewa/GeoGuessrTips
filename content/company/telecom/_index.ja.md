@@ -32,3 +32,13 @@ Millicom International Cellular SA は、ラテンアメリカの新興市場に
 </div>
 </div>
 
+### 南アフリカ共和国
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677591495376!6m8!1m7!1sjRV2oBfBYNpnnkSNo-S7tg!2m2!1d-26.18934668940727!2d28.05771631823907!3f203.70561633241783!4f50.894807020271145!5f3.1716416634382556" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="description">
+ボーダコムは、南アフリカ共和国ハウテン州ヨハネスブルグ市都市圏に本社を置く携帯電話事業を営む企業。
+{{% ahref "Vodacom: Cellphone Deals" "https://www.vodacom.co.za/" %}}
+</div>
+</div>

@@ -38,12 +38,19 @@ sections: [""]
 
 
 ## ヨーロッパ
+
+### ポーランド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677635528067!6m8!1m7!1s1qi9lr6PRvzTufHMCXGRjw!2m2!1d52.40733009536382!2d16.91956253940445!3f38.17397447123452!4f-27.851856894273567!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### スイス
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677487587474!6m8!1m7!1sncs4D1GfyQuBodWuvFJ_Tg!2m2!1d47.36235861911631!2d8.533020591822275!3f211.2332836765333!4f-41.87963918078732!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-### ヨーロッパ
+### ギリシャ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677590071351!6m8!1m7!1sPeEhKZqh85uHy4VDSljmKQ!2m2!1d40.84640663394971!2d25.86297084761416!3f103.39527524440554!4f-15.661830435303301!5f1.9526976194285344" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

@@ -15,6 +15,12 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+
+### ポーランド
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677632357946!6m8!1m7!1sCAoSLEFGMVFpcE1uVHRGVE0xWDZJcEFjNFctQVNtTl9SUDR2eU1EdjE1aTZxclEt!2m2!1d50.064307917158!2d19.938016808106!3f45.14783888054766!4f6.4740643353976!5f3.325193203789971" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### セルビア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677456853184!6m8!1m7!1sRnfGyzw2lXyx26NxKo91rg!2m2!1d43.31857656828732!2d21.89933798331244!3f223.91020222191406!4f-1.6227395889979732!5f3.27268232990212" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

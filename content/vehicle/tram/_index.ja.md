@@ -10,6 +10,12 @@ sections: [""]
 
 ## ヨーロッパ
 
+### ポーランド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677635470164!6m8!1m7!1ssJXnecF5hYPPzLtsiqsH0A!2m2!1d52.4071499224458!2d16.92074969438054!3f230.64545548608157!4f-5.15124202567128!5f1.536207576461131" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### スイス
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677488621810!6m8!1m7!1sdi6bI7202EYoUP3mYucIEQ!2m2!1d47.36684042886989!2d8.542630968049645!3f128.04633746125944!4f-21.883766985500245!5f1.0889863562908408" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
