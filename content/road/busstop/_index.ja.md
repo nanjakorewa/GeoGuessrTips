@@ -8,6 +8,14 @@ keywords: [""]
 sections: [""]
 ---
 
+## アジア
+### 香港
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677661460472!6m8!1m7!1sUy4SjGOeeJ4b3kc1sHa5LA!2m2!1d22.46326094862753!2d114.0040945653404!3f84.53031014836075!4f-15.82405319382103!5f0.8042969497185694" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677661631442!6m8!1m7!1ssLgJvIDevTTNbYUkscxlGg!2m2!1d22.32358062817365!2d114.1684314878722!3f168.4097727056709!4f-5.265831877372193!5f1.6714611477583468" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## ヨーロッパ
 
 ### イギリス

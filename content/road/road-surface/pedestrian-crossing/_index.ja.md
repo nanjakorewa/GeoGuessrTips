@@ -7,6 +7,11 @@ draft: false
 keywords: ["歩道"]
 sections: [""]
 ---
+## アジア
+### 香港
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677661538905!6m8!1m7!1slLu8TkCQotlooIw_Sv-3FQ!2m2!1d22.46413910634135!2d114.0042726988068!3f5.807475999379783!4f-31.898038639200593!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## オセアニア
 ### オーストラリア

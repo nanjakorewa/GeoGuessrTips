@@ -28,7 +28,18 @@ Old National Bancorpはイリノイ州シカゴとインディアナ州エバン
 </div>
 </div>
 
+
 ## アジア
+### インドネシア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677661832331!6m8!1m7!1smRFeQ-FriFX-K1Tgr5v1Nw!2m2!1d6.936618723830088!2d79.85060434987213!3f177.6305932755777!4f3.6468310252471667!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Pan Asia Banking Corporationは、スリランカに設立された公開有限会社。
+{{% ahref "Pan Asia Bank" "https://en.wikipedia.org/wiki/Pan_Asia_Bank" %}}
+</div>
+</div>
+
+## オセアニア
 ### インドネシア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677408394049!6m8!1m7!1sMg-FekMHSHzdEil3nA0tQw!2m2!1d-5.142135664730312!2d119.4390019664933!3f90.90469111026516!4f4.3973993167758465!5f2.900550827576692" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

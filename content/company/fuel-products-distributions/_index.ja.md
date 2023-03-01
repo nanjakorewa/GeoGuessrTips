@@ -26,6 +26,27 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677484793558!6m8!1m7!1sm85hYgfTe-RksRJLUOOonw!2m2!1d48.03408497092917!2d106.9079893286378!3f12.571219132398493!4f1.703989816912241!5f2.7203957188909875" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+## オセアニア
+
+### インドネシア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677665579207!6m8!1m7!1s02fS9adTEaFylODpE2hLYg!2m2!1d-6.196104513806098!2d106.8400834486761!3f89.92869169858399!4f3.0278062707136826!5f1.7796881957292676" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+プルタミナはインドネシア共和国政府が株式を所有する国有の最大手石油・天然ガス関連会社。インドネシア全土に5000以上のガソリンスタンドを保有する。
+{{% ahref "プルタミナ" "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BF%E3%83%9F%E3%83%8A" %}}
+</div>
+</div>
+
+
+### オーストラリア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677665055371!6m8!1m7!1s1CX3pO54r4QGUXHznwS59g!2m2!1d-37.82589618244398!2d145.0000910285516!3f161.95963984119248!4f8.957657254306056!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ブリティッシュペトロリアム（BP p.l.c.）は英系の石油メジャーでありスーパーメジャーの一社（他はXOMなど）。ロンドン証券取引所においてはFTSE100の構成銘柄になっている。
+{{% ahref "BP p.l.c. (BP) " "https://finance.yahoo.com/quote/BP/" %}}
+{{% ahref "bpジャパン株式会社" "https://www.bp.com/ja_jp/japan/home.html" %}}
+</div>
+</div>
 
 ## ヨーロッパ
 ### トルコ
@@ -37,6 +58,7 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 {{% ahref "Petrol Ofisi" "https://www.petrolofisi.com.tr/en" %}}
 </div>
 </div>
+
 
 ## アフリカ
 ### 南アフリカ
