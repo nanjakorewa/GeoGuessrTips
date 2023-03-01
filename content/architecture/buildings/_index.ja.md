@@ -7,6 +7,14 @@ draft: false
 keywords: ["オフィス"]
 ---
 ## ヨーロッパ
+
+### ロシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677670280249!6m8!1m7!1sMwtrtSbX_8Us2AN4WNmk8A!2m2!1d59.92964183435643!2d30.34425651564632!3f7.602037098117716!4f-2.032079458536714!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677670411770!6m8!1m7!1sUcgSaEo5C2cgG55a5Mhmww!2m2!1d59.92845234678766!2d30.35186749373262!3f105.16151560570567!4f12.17512297748138!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### トルコ
 
 <div class="googlemap-if">

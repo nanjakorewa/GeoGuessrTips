@@ -30,6 +30,18 @@ Old National Bancorpはイリノイ州シカゴとインディアナ州エバン
 
 
 ## アジア
+
+
+### マレーシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677670732936!6m8!1m7!1s0doSKvDuXcJIBh-ltfwCAg!2m2!1d3.154627330150657!2d101.6986001394384!3f60.04880925695427!4f7.620974226183705!5f3.182188531620744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Alliance Bank Malaysia Berhadはあらゆるセグメントの顧客に包括的な銀行および金融ソリューションを提供するマレーシアの大手金融機関。
+{{% ahref "Alliance Bank Malaysia Berhad" "https://en.wikipedia.org/wiki/Pan_Asia_Bank" %}}
+</div>
+</div>
+
 ### インドネシア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677661832331!6m8!1m7!1smRFeQ-FriFX-K1Tgr5v1Nw!2m2!1d6.936618723830088!2d79.85060434987213!3f177.6305932755777!4f3.6468310252471667!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

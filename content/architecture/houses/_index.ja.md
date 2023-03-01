@@ -16,3 +16,9 @@ sections: [""]
     <iframe src="https://www.google.com/maps/embed?pb=!4v1677395166642!6m8!1m7!1s2em4dwAoEu5HMKDYmSB-7w!2m2!1d47.33290928316569!2d110.6794113779528!3f123.50778845440978!4f-3.5760620203033824!5f1.6710413906733237" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+## ヨーロッパ
+### イギリス
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677671090311!6m8!1m7!1srhjh_G1qsz-Stw1EUIC3Mw!2m2!1d51.54677375612285!2d-0.1776594417909041!3f211.95812872447297!4f3.541279414326482!5f1.5689463763092348" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

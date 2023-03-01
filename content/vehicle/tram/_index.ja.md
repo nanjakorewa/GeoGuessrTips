@@ -9,6 +9,20 @@ sections: [""]
 ---
 
 ## ヨーロッパ
+### オランダ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677672229893!6m8!1m7!1sNjGSxNeHHYcjvNf7-JacsQ!2m2!1d52.36186500501579!2d4.939634789058652!3f65.94225289908815!4f-20.044811330215694!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+オランダの 公共交通機関で、アムステルダム、ディーメン、アウダー アムステルの自治体の一部であるダイフェンドレヒトの自治体で公共交通機関を提供しています。
+{{% ahref "GVB (Amsterdam)" "https://nl.wikipedia.org/wiki/GVB_(Amsterdam)" %}}
+</div>
+</div>
+
+### ドイツ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677671346772!6m8!1m7!1sd6OETXC7WC2y4BTXaUEipg!2m2!1d48.77383084846816!2d9.186640328475793!3f270.5854988652801!4f-6.699098573626074!5f1.2964924354557958" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### ポーランド
 
