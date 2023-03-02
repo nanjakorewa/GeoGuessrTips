@@ -18,9 +18,15 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677589582064!6m8!1m7!1sijk1jvwLOUkzWdTJn1a71A!2m2!1d40.69127331094853!2d-73.99386185377548!3f4.569770713353476!4f-16.574058705682106!5f3.1081109475692212" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-#### テキサス州
+#### テキサス
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677484448747!6m8!1m7!1sk572SwNMQpMuy6bMm8Q0kQ!2m2!1d30.26529899636662!2d-97.72982024249937!3f313.3425577802237!4f-23.043100239568204!5f1.8063258670895346" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### カナダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677720750331!6m8!1m7!1s_jsb1m5fO0WesB5qKmM1IQ!2m2!1d49.86685045527279!2d-97.1631408249991!3f161.65723812217817!4f-10.873942438297675!5f2.7553679467728194" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## 南米

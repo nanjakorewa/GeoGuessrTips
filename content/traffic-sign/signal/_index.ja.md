@@ -8,6 +8,13 @@ keywords: ["シグナル"]
 sections: [""]
 ---
 
+
+## 北米
+### カナダ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677720798991!6m8!1m7!1s_jsb1m5fO0WesB5qKmM1IQ!2m2!1d49.86685045527279!2d-97.1631408249991!3f139.65423136157767!4f6.879863243625152!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### イスラエル
 <div class="googlemap-if">

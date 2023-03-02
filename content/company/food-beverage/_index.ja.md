@@ -8,6 +8,30 @@ keywords: ["コーラ", "飲食店", "一般消費"]
 sections: [""]
 ---
 
+## アジア
+### フィリピン
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677719234898!6m8!1m7!1sXRRI0ZPD0HVecPilDIzvbw!2m2!1d14.61018214529929!2d121.0053685512792!3f172.94113162802867!4f2.9077667941647007!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ローヤルクラウン・コーラ（RC Cola）は世界シェアがコカ・コーラ、ペプシに続く3位であるコーラ味の飲料水（？）。フィリピンのMacay HoldingsがRC Global Beverages Inc.を買収した関係か、フィリピンでは看板もある。アメリカでも一定数売られているらしい。
+{{% ahref "RC Cola Philippines" "RC Cola Philippines" %}}
+</div>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677719519814!6m8!1m7!1sM5JJ7bBen5hGu9qedtMtMw!2m2!1d14.61042217453185!2d121.0050769710356!3f265.5340837073119!4f-19.588728304062357!5f2.1174224834583755" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+<img src="./2023-03-02-10-16-56.png" />
+</div>
+<div class="description">
+フィリピンのコンビニにはヤクルトとその類似製品が多く並んでいる。カランバとミンダナオ島に工場がある。
+{{% ahref "Yakult Philippines Incorporated" "https://www.yakult.com.ph/" %}}
+{{% ahref "有価証券報告書 - IR情報 - ヤクルト本社" "https://www.yakult.co.jp/company/ir/library/securities.html" %}}
+{{% ahref "[A]有価証券報告書 - IR情報 - ヤクルト本社　2023年第3四半期" "https://www.yakult.co.jp/company/ir/finance/results/" %}}
+</div>
+</div>
+
 ## 南米
 ### メキシコ
 

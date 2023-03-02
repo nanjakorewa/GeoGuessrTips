@@ -5,7 +5,7 @@ lastmod: 2023-02-26
 weight: 1
 draft: false
 keywords: ["ガスステーション", "天然ガス", "石油"]
-sections: [""]
+sections: ["PO", "YPF", "Pertamina", "PEMEX"]
 ---
 
 ## 北米
@@ -29,6 +29,17 @@ Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州�
 <div class="description">
 ペメックスは、メキシコに本社をおく国営石油企業。世界で10番目の売上を持つ石油企業であり、メキシコでガソリンスタンドにガソリンを供給している唯一の企業。
 {{% ahref "Petróleos Mexicanos" "https://www.pemex.com/en/Paginas/default.aspx" %}}
+</div>
+</div>
+
+### アルゼンチン
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677723724232!6m8!1m7!1sA5oqQiF2vpO4BXgECRjA8g!2m2!1d-31.41008131947511!2d-64.17264732646922!3f190.29360218372395!4f2.291322994745002!5f2.366711566105245" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ヤシミエントス・ペトロリフェロス・フィスカレスは、アルゼンチンの国有石油会社であり、アルゼンチンで取れる石油と天然ガスの約1/3を生産している。生産した石油と天然ガスは輸出ではなく国内消費がメイン。
+輸入することによる外貨流出を防ぐためシェール開発を勧めており、アルゼンチン国内のシェール油井の半数はYPFが開発を進めているという。
+{{% ahref "YPF Sociedad Anónima (YPF)" "https://finance.yahoo.com/quote/YPF/" %}}
 </div>
 </div>
 
@@ -74,6 +85,21 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 
 
 ## アフリカ
+### ケニア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677721822597!6m8!1m7!1sck-rB9flf7mUSKX4XPjUgQ!2m2!1d-1.292442796175878!2d36.821372088024!3f100.66136361718628!4f1.7192767983057706!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div>
+<iframe width="560" height="295" src="https://www.youtube.com/embed/EspFw0zKkN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+<div class="description">
+ロイヤル・ダッチ・シェルは欧州最大の石油メジャー。探索から生産・輸送・精製・販売までの全て（アップストリーム・ミッドストリーム・ダウンストリーム）をすべて一社で行う。
+当初はカスピ海から輸入した貝殻加工装飾品の販売から事業を始めたらしい。
+{{% ahref "Shell plc Investor Presentations" "https://www.shell.com/investors/investor-presentations.html" %}}
+{{% ahref "Shell plc (SHEL)" "https://finance.yahoo.com/quote/SHEL/" %}}
+</div>
+</div>
+
 ### 南アフリカ
 
 <div class="googlemap-if">

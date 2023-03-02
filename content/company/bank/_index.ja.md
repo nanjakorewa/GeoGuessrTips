@@ -19,6 +19,15 @@ sections: [""]
 </div>
 </div>
 
+### カナダ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677720937471!6m8!1m7!1sg7VPwoQjeYjBcDlcHj51jg!2m2!1d49.86570078942172!2d-97.16757600428345!3f224.31109516370776!4f1.9609888711333667!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては総資産と時価総額でカナダ国内第2位の規模。TDカナダ・トラストは個人向けの市中銀行、アメリカ東北部ではTDバンク・ノースという名前で運営している。TDアメリトレードはこの銀行のオンライン証券部門。
+{{% ahref "The Toronto-Dominion Bank (TD)" "https://finance.yahoo.com/quote/TD/" %}}
+</div>
+</div>
+
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677468077560!6m8!1m7!1sCkKZam0nB_wjVzrMR_GUKQ!2m2!1d41.86018226462496!2d-87.9785422460124!3f173.07625229450773!4f21.5741888430082!5f1.8845554805162967" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
