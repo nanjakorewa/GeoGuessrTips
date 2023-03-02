@@ -10,6 +10,10 @@ sections: [""]
 
 
 ## ヨーロッパ
+#### スペイン
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677761733052!6m8!1m7!1saQEShauuUzfv2MuKHbcS6w!2m2!1d40.43736357860544!2d-3.639262189494996!3f84.84671048040136!4f-5.816845071389068!5f2.8609201216587317" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### ラトビア
 <div class="googlemap-if">

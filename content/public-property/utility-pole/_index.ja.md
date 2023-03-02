@@ -15,6 +15,13 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677459847279!6m8!1m7!1s__nRyF5aAXJ9Z8gRpnWVmg!2m2!1d42.32482590496088!2d-83.06371713601109!3f356.11491786380947!4f9.892111445694098!5f1.6753972021938361" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+## 南米
+### メキシコ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677759929572!6m8!1m7!1s4LYU7TGKAny2nfiWCnhV_w!2m2!1d19.40851458160972!2d-99.12971960743052!3f293.6864603244119!4f23.590141049018115!5f0.7877473206287153" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### ベトナム
 <div class="googlemap-if">
