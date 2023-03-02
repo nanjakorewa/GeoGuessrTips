@@ -1,0 +1,22 @@
+---
+title: "郵便受け"
+date: 2023-02-26
+lastmod: 2023-02-26
+weight: 1
+draft: false
+keywords: ["ポスト", "メールボックス"]
+sections: [""]
+---
+
+## ヨーロッパ
+### デンマーク
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677753773593!6m8!1m7!1snC0cn2yKahxhTyieR2tVag!2m2!1d55.47560734738231!2d8.458130479319601!3f3.8976044745426113!4f-12.825066149973324!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677753969610!6m8!1m7!1sGqC9bT7Q1mXN9GgWVj_dbw!2m2!1d56.83386888032697!2d9.895537010466764!3f51.25252282672981!4f-7.525991922657369!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677754056739!6m8!1m7!1sEA5WxFI8gpTfQv4nXOuMiQ!2m2!1d56.34870782152683!2d8.626798351138516!3f285.61503260624806!4f-11.031693857773476!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Allux mailboxes - Danish design | Allux.com" "https://allux.com/mailboxes/g/23805" %}}
+{{% ahref "北欧デンマークのデザインポスト　Allux" "https://www.connect-d.com/blog/archives/12159" %}}
+</div>
+</div>

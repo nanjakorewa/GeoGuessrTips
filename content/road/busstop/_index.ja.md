@@ -8,6 +8,17 @@ keywords: [""]
 sections: [""]
 ---
 
+## 北米
+### カナダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677733372442!6m8!1m7!1sdLIOQMGpyAKSVOEIQB6BOw!2m2!1d45.49139325859837!2d-73.56982565280255!3f95.78602859668104!4f-2.3586759170270284!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+STM: Société de transport de Montréalは、カナダ・ケベック州のモントリオール都市圏で路線バスと高速輸送サービスを運営する公共交通機関。
+{{% ahref "STM | Société de transport de Montréal" "https://www.stm.info/en" %}}
+</div>
+</div>
+
 ## アジア
 ### 香港
 
