@@ -30,6 +30,19 @@ CP All PCLはタイでセブンイレブンを直営店およびフランチャ�
 </div>
 </div>
 
+## 南米
+### メキシコ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677756726179!6m8!1m7!1skXbCEDt9NCX0Nt6yvOJ1Ww!2m2!1d19.41873879054791!2d-99.11531202584435!3f278.39277107560457!4f-5.178369001610619!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="description">
+Oxxoはメキシコのコンビニエンス ストアチェーンであり、ラテン アメリカ全体に 21,000 を超える店舗があるラテンアメリカ最大のコンビニチェーン。
+ {{% ahref "OXXO" "https://en.wikipedia.org/wiki/OXXO" %}}
+</div>
+</div>
+
+
 ## オセアニア
 ### インドネシア
 <div class="googlemap-if">

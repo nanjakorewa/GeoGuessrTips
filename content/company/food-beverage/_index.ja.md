@@ -56,3 +56,15 @@ Frikomはセルビアのアイスクリームメーカーで、冷凍の果物�
 {{% ahref "Frikom" "https://en.wikipedia.org/wiki/Frikom" %}}
 </div>
 </div>
+
+### クロアチア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677754454522!6m8!1m7!1sRmDjXV2j8HFd3jBXz772Cw!2m2!1d44.12850153630271!2d15.22381030580157!3f260.30886780380433!4f-12.609291533317432!5f3.1503183707555253" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="description">
+Ledoはクロアチアを拠点とするアイスクリームと冷凍食品のメーカー。南東ヨーロッパで最大の冷凍食品とアイスクリームの生産者の1つ。
+{{% ahref "Ledo (company) - Wikipedia" "https://en.wikipedia.org/wiki/Frikom" %}}
+</div>
+</div>
+
