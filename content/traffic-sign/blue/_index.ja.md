@@ -8,6 +8,12 @@ keywords: [""]
 sections: [""]
 ---
 
+## アジア
+### モンゴル
+<div class="googlemap-if">
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677842541691!6m8!1m7!1sISzFJ2fxxlL3iRjoJilWog!2m2!1d47.91580407528323!2d106.9180618758531!3f51.546643150375765!4f-3.0620156157076934!5f2.9131358656875324" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## ヨーロッパ
 #### スペイン

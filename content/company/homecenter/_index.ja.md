@@ -18,4 +18,9 @@ sections: [""]
 Wickesは英国に本拠を置くリノベーション小売業者およびガーデンセンター。ロンドン証券取引所にて上場している。
 {{% ahref "Wickes - Wikipedia" "https://en.wikipedia.org/wiki/Wickes" %}}
 </div>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677843308735!6m8!1m7!1sEkeFudAfHfeMBfQTeP5jjg!2m2!1d52.63773181606981!2d-1.13069399112191!3f30.599696108268567!4f2.9820979613480745!5f1.6681055020430153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Wilko Ltd.、およびWilkinson Hardware Storesは、家庭用品や家庭用品を販売する英国の小売チェーン。
+</div>
 </div>

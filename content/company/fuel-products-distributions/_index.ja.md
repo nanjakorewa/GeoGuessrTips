@@ -85,6 +85,18 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 
 
 ## アフリカ
+
+### ナイジェリア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677844436438!6m8!1m7!1sdHy50wtlK2MiMNP1R6gPvA!2m2!1d6.344786559502562!2d5.63697504937665!3f209.03277532867125!4f6.89540381708575!5f3.0070644241347466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+トタルエナジーズ は、フランスのパリ近郊ラ・デファンスに本社を置く多国籍企業である。国際石油資本であり、スーパーメジャーの6社の内の一社である。
+{{% ahref "Investors | TotalEnergies.com" "https://totalenergies.com/investors" %}}
+{{% ahref "Total Energy（TTE)" "https://finance.yahoo.com/quote/TTE?p=TTE" %}}
+</div>
+</div>
+
 ### ケニア
 
 <div class="googlemap-if">

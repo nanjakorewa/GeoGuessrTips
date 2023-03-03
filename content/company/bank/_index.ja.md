@@ -19,6 +19,16 @@ sections: [""]
 </div>
 </div>
 
+### 南米
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677841825059!6m8!1m7!1s9SWqAbDYHrvM-3ygrznPtQ!2m2!1d-22.90321372855353!2d-43.17992651479027!3f357.57041515952653!4f-1.1859112340064115!5f1.622063740324848" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+イタウ・ウニバンコ・ホールディングは、ブラジルのサンパウロに本社を置く銀行グループである。
+{{% ahref "Itaú Unibanco Holding S.A. (ITUB)" "https://finance.yahoo.com/quote/ITUB/" %}}
+</div>
+</div>
+
 ### カナダ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677720937471!6m8!1m7!1sg7VPwoQjeYjBcDlcHj51jg!2m2!1d49.86570078942172!2d-97.16757600428345!3f224.31109516370776!4f1.9609888711333667!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

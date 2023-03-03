@@ -8,6 +8,13 @@ keywords: ["taxi"]
 sections: [""]
 ---
 
+## 南米
+### コロンビア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677845939995!6m8!1m7!1s27rM1DjWI_vT3wZ8dqsS8w!2m2!1d4.586515236170113!2d-74.10271330781536!3f215.13559126218388!4f-9.700409636841982!5f2.979005996102688" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アフリカ
 ### ケニア
 <div class="googlemap-if">
