@@ -9,6 +9,12 @@ sections: [""]
 ---
 
 ## アジア
+### タイ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677806587962!6m8!1m7!1s9AMrWCle0sd6YDWXVCplUg!2m2!1d13.78385165527636!2d100.4800355724545!3f268.8760753930231!4f0.21515041073530483!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### モンゴル
 
 <div class="googlemap-if">
@@ -21,4 +27,16 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677671090311!6m8!1m7!1srhjh_G1qsz-Stw1EUIC3Mw!2m2!1d51.54677375612285!2d-0.1776594417909041!3f211.95812872447297!4f3.541279414326482!5f1.5689463763092348" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## アフリカ
+### ガボン
+
+<div class="googlemap-if">
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677806055437!6m8!1m7!1ssQPHZ4LIAHLZiWJTiPEBMw!2m2!1d-24.65149887236554!2d25.89633105059427!3f39.00528969441202!4f-3.768960906802704!5f1.952266474749365" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+公用語はフランス語だが、外国人観光客が多い場所では英語も多い。
+{{% ahref "ガボン生活情報 平成２５年１０月在ガボン日本国大使館" "https://www.ga.emb-japan.go.jp/pdf/seikatsujouhou.pdf" %}}
+</div>
 </div>

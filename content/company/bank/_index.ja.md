@@ -95,3 +95,11 @@ PT Bank Rakyat Indonesia Tbkは、インドネシア最大の銀行の1つ。4,0
 </div>
 </div>
 
+### 北マケドニア共和国
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677813477534!6m8!1m7!1swzgrKeEc9Qgu8V8B4ukwEw!2m2!1d41.9938797394159!2d21.42144766240263!3f53.13395755155391!4f23.961835612990356!5f2.968548517458498" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Halkbankはトルコの元国営銀行。
+{{% ahref "Halkbank - Wikipedia" "https://en.wikipedia.org/wiki/Halkbank" %}}
+</div>
+</div>

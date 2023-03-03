@@ -6,6 +6,18 @@ weight: 100
 draft: false
 keywords: ["オフィス"]
 ---
+
+## 北米
+### アメリカ
+#### マサチューセッツ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677816625839!6m8!1m7!1stMO-QIXaouQQJyFfK81Spg!2m2!1d42.3421862644358!2d-71.0694241182796!3f131.80388701730215!4f2.472892395306033!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ボストンのジョージアン様式と呼ばれる住居の街並みはレンガ造りが続く。
+</div>
+</div>
+
 ## ヨーロッパ
 
 ### ロシア
