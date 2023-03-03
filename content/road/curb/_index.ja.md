@@ -21,6 +21,13 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409059457!6m8!1m7!1scdQImoXZMPtZb3IkBlfd6g!2m2!1d-5.136744719452558!2d119.4391749107647!3f2.605017825440939!4f-21.634927120503434!5f2.302769238395383" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+## ヨーロッパ
+### スペイン
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677856733818!6m8!1m7!1sqGqgmNfR3zaAGBMr4uEuIA!2m2!1d40.45455325707371!2d-3.713051843900113!3f109.94659397354023!4f-15.094667577743238!5f2.7209280147863466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## 南米
 ### チリ
 <div class="googlemap-if">

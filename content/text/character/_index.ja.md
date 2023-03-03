@@ -88,3 +88,14 @@ de（～の、～から）・la（冠詞、代名詞）・que（代名詞、接�
 {{% ahref "インドネシア語 - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E8%AA%9E" %}}
 </div>
 </div>
+
+## ヘブライ語
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677855833758!6m8!1m7!1szWC0f6xqMHpW0XoAoFlNkg!2m2!1d32.07185007573994!2d34.77971483318063!3f273.8752249766466!4f16.800689034381165!5f3.096944489519671" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ヘブライ語は、アフロ・アジア語族のセム語派に属する北西セム諸語の一つ。ヘブル語、ヒブル語とも呼ばれる。
+{{% ahref "ヘブライ語 - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E" %}}
+</div>
+</div>

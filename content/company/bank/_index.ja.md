@@ -113,3 +113,14 @@ Halkbankはトルコの元国営銀行。
 {{% ahref "Halkbank - Wikipedia" "https://en.wikipedia.org/wiki/Halkbank" %}}
 </div>
 </div>
+
+
+## アフリカ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677856417149!6m8!1m7!1sMSVZzouT0jZEKoIsdEWHiA!2m2!1d-33.92340434183568!2d18.42054011320676!3f103.23668036758171!4f10.961774961586428!5f2.9601482820445004" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Nedbank Groupは南アフリカの金融サービス。1888 年にアムステルダムでNederlandsche Bank en Credietvereeniging voor Zuid-Afrika (「南アフリカのオランダ銀行および信用組合」)として設立。
+{{% ahref "Nedbank - Wikipedia" "https://en.wikipedia.org/wiki/Nedbank" %}}
+</div>
+</div>
