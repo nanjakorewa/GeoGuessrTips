@@ -52,6 +52,15 @@ div.googlemap-if div.description-wide a::before {
   margin-right: 0.2em;
 }
 
+div.googlemap-if div.description-youtube {
+  margin: 0;
+  padding: 0;
+  padding-bottom: 0;
+  background-color: #f1f1f1;
+  font-size: 0.8em;
+  width: 590px;
+}
+
 h3.section-title {
   margin-top: 2em;
   padding-left: 0.5em;
