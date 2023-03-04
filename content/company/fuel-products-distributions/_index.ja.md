@@ -44,6 +44,52 @@ Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州�
 </div>
 
 ## アジア
+
+### 香港
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677933644910!6m8!1m7!1swArShOSoxdrrwTd9W3cqWA!2m2!1d22.27382057785737!2d114.2424707569858!3f359.2659282805256!4f5.677822998834259!5f3.1298020156772606" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+シノペックは、中華人民共和国最大規模の石油会社・石油化学工業会社。事業は石油・天然ガスの探索～化学肥料の販売まで、アップストリームからダウンストリームまで手広く行う。
+{{% ahref "中国石油化工集団 - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
+{{% ahref "China Petroleum & Chemical Corporation (0386.HK)" "https://finance.yahoo.com/quote/0386.HK/" %}}
+</div>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677933538062!6m8!1m7!1sjM2FfrUFUSvUE2EYzz3nxw!2m2!1d22.28343957076375!2d114.2219965705417!3f162.54177990331902!4f3.892436916459687!5f1.1162036429924087" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
+{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
+{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
+</div>
+</div>
+
+### タイ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677933388375!6m8!1m7!1srlgR9GSi1pTr29h-_sSdHQ!2m2!1d7.90354046704053!2d98.30587450287413!3f171.94459672376635!4f-0.5865931605873982!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+カルテックスは東南アジア・中東・南アフリカで使用されているシェブロン社の石油ブランド名。星のマークがトレードマーク。
+{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
+{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
+{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
+</div>
+</div>
+
+
+### マレーシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677933442582!6m8!1m7!1sOvvzAcUIh1WmMXEBT-hKGg!2m2!1d14.2973143360927!2d121.0817115497165!3f25.973674083994286!4f0.2405470777819403!5f1.6723009221009915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677933485614!6m8!1m7!1sXCToyUHHVewFkhcEhJSAVA!2m2!1d14.29752407433687!2d121.0818226156711!3f252.31138986666073!4f0.24200544121683265!5f1.7444091566465794" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
+{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
+{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
+</div>
+</div>
+
 ### モンゴル
 
 <div class="googlemap-if">
@@ -101,15 +147,13 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677721822597!6m8!1m7!1sck-rB9flf7mUSKX4XPjUgQ!2m2!1d-1.292442796175878!2d36.821372088024!3f100.66136361718628!4f1.7192767983057706!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div>
-<iframe width="560" height="295" src="https://www.youtube.com/embed/EspFw0zKkN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
 <div class="description">
 ロイヤル・ダッチ・シェルは欧州最大の石油メジャー。探索から生産・輸送・精製・販売までの全て（アップストリーム・ミッドストリーム・ダウンストリーム）をすべて一社で行う。
 当初はカスピ海から輸入した貝殻加工装飾品の販売から事業を始めたらしい。
 {{% ahref "Shell plc Investor Presentations" "https://www.shell.com/investors/investor-presentations.html" %}}
 {{% ahref "Shell plc (SHEL)" "https://finance.yahoo.com/quote/SHEL/" %}}
 </div>
+{{% youtube-desc "EspFw0zKkN0" %}}
 </div>
 
 ### 南アフリカ

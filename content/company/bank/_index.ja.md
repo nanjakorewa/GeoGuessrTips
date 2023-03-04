@@ -19,15 +19,15 @@ sections: [""]
 </div>
 </div>
 
-### 南米
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677841825059!6m8!1m7!1s9SWqAbDYHrvM-3ygrznPtQ!2m2!1d-22.90321372855353!2d-43.17992651479027!3f357.57041515952653!4f-1.1859112340064115!5f1.622063740324848" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677468077560!6m8!1m7!1sCkKZam0nB_wjVzrMR_GUKQ!2m2!1d41.86018226462496!2d-87.9785422460124!3f173.07625229450773!4f21.5741888430082!5f1.8845554805162967" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
-イタウ・ウニバンコ・ホールディングは、ブラジルのサンパウロに本社を置く銀行グループである。
-{{% ahref "Itaú Unibanco Holding S.A. (ITUB)" "https://finance.yahoo.com/quote/ITUB/" %}}
+Old National Bancorpはイリノイ州シカゴとインディアナ州エバンズビルに拠点を置くアメリカの地銀。
+{{% ahref "Old National Bancorp (ONB)" "https://finance.yahoo.com/quote/ONB/" %}}
 </div>
 </div>
+
 
 ### カナダ
 <div class="googlemap-if">
@@ -49,18 +49,20 @@ Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては�
 </div>
 
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677468077560!6m8!1m7!1sCkKZam0nB_wjVzrMR_GUKQ!2m2!1d41.86018226462496!2d-87.9785422460124!3f173.07625229450773!4f21.5741888430082!5f1.8845554805162967" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-Old National Bancorpはイリノイ州シカゴとインディアナ州エバンズビルに拠点を置くアメリカの地銀。
-{{% ahref "Old National Bancorp (ONB)" "https://finance.yahoo.com/quote/ONB/" %}}
-</div>
-</div>
 
+## 南米
+### ブラジル
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677841825059!6m8!1m7!1s9SWqAbDYHrvM-3ygrznPtQ!2m2!1d-22.90321372855353!2d-43.17992651479027!3f357.57041515952653!4f-1.1859112340064115!5f1.622063740324848" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+イタウ・ウニバンコ・ホールディングは、ブラジルのサンパウロに本社を置く銀行グループである。
+{{% ahref "Itaú Unibanco Holding S.A. (ITUB)" "https://finance.yahoo.com/quote/ITUB/" %}}
+</div>
+{{% youtube-desc "jYY2svRFIfg" %}}
+</div>
 
 ## アジア
-
-
 ### マレーシア
 
 <div class="googlemap-if">
@@ -116,6 +118,7 @@ Halkbankはトルコの元国営銀行。
 
 
 ## アフリカ
+### 南アフリカ
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677856417149!6m8!1m7!1sMSVZzouT0jZEKoIsdEWHiA!2m2!1d-33.92340434183568!2d18.42054011320676!3f103.23668036758171!4f10.961774961586428!5f2.9601482820445004" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
