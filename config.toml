@@ -40,12 +40,18 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 
 ############################## social links ##############################
 [[params.social]]
+icon = "ti-game" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.twitch.tv/nanjakorewa"
+
+[[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "https://twitter.com/nanjakorewa"
 
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "https://github.com/nanjakorewa"
+
+
 
 ################################ Japanese Language ######################
 [Languages.ja]
