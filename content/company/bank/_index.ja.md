@@ -57,7 +57,9 @@ Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677841825059!6m8!1m7!1s9SWqAbDYHrvM-3ygrznPtQ!2m2!1d-22.90321372855353!2d-43.17992651479027!3f357.57041515952653!4f-1.1859112340064115!5f1.622063740324848" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 イタウ・ウニバンコ・ホールディングは、ブラジルのサンパウロに本社を置く銀行グループである。
+ちなみにITUBのADRは保有していると配当金が毎月振り込まれる。
 {{% ahref "Itaú Unibanco Holding S.A. (ITUB)" "https://finance.yahoo.com/quote/ITUB/" %}}
+{{% ahref "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares) Dividend" "https://www.nasdaq.com/market-activity/stocks/itub/dividend-history" %}}
 </div>
 {{% youtube-desc "jYY2svRFIfg" %}}
 </div>
