@@ -61,7 +61,7 @@ Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては�
 {{% ahref "Itaú Unibanco Holding S.A. (ITUB)" "https://finance.yahoo.com/quote/ITUB/" %}}
 {{% ahref "Itau Unibanco Banco Holding SA American Depositary Shares (Each repstg 500 Preferred shares) Dividend" "https://www.nasdaq.com/market-activity/stocks/itub/dividend-history" %}}
 </div>
-{{% youtube-desc "jYY2svRFIfg" %}}
+{{% youtube-desc "Z7wjdKVW5Zk" %}}
 </div>
 
 ## アジア
