@@ -8,6 +8,14 @@ keywords: ["高速道路"]
 sections: [""]
 ---
 
+
+## 北米
+### カナダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677903228748!6m8!1m7!1sjXEpqUqPPE46cSYn8thrYg!2m2!1d45.41244575414719!2d-75.68463485375692!3f192.53307585079628!4f11.52201930377197!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## ヨーロッパ
 ### トルコ
 <div class="googlemap-if">

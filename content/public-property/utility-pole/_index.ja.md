@@ -53,6 +53,11 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677632468489!6m8!1m7!1s6RnCqupe8edo1B1P03PrGg!2m2!1d50.12823649781259!2d19.87088067971602!3f314.25574682338157!4f11.296998313606707!5f1.884971071341531" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### イスラエル
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677904170620!6m8!1m7!1smr7W5e5Wo_wxxpZ1BvmvZA!2m2!1d32.0618049425665!2d34.76706395376619!3f294.76259607397606!4f8.37552819163544!5f0.5802039356351761" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## 南米
 
 ### メキシコ

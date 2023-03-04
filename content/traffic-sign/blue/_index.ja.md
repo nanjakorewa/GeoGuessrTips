@@ -49,3 +49,9 @@ sections: [""]
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677721174445!6m8!1m7!1sQ81s8cfpPtE9qt9hl2ueUg!2m2!1d45.75534487499825!2d21.22506862014307!3f311.5219611960536!4f-0.7742123308020155!5f2.8090143440460773" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### ブルガリア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677903471267!6m8!1m7!1sk89_4ch_8sn76c_flHz7dA!2m2!1d42.14698305295038!2d24.74106374013491!3f5.415088120692637!4f4.79015865131926!5f2.86092012205026" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

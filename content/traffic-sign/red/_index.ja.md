@@ -28,6 +28,10 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677456948120!6m8!1m7!1syJy8C_CwuHx3KRGErYX9Sw!2m2!1d43.31821815976792!2d21.8994128718399!3f136.63779741908886!4f-3.080912013199068!5f3.298322843813135" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### イスラエル
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677904092378!6m8!1m7!1sKQmfEbTa999OgUw1mbE-pw!2m2!1d32.06294327722996!2d34.76714597314712!3f28.873821278102053!4f-4.441864363389939!5f2.780186913494874" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### ギリシャ
 <div class="googlemap-if">

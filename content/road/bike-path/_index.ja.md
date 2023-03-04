@@ -72,3 +72,9 @@ sections: [""]
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677422695604!6m8!1m7!1sUap80q2kip13Bfwz-NTlaQ!2m2!1d45.06876944261891!2d7.667505051844127!3f221.6710491643137!4f-18.769794592060734!5f1.5872712333587273" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### アイルランド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677903809267!6m8!1m7!1skK9dSwg8amD5ir7zNSa8aA!2m2!1d51.89507722865747!2d-8.478139521372361!3f273.3492155798323!4f-18.894982549301645!5f1.8136803771621328" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

@@ -7,6 +7,13 @@ draft: false
 keywords: ["歩道"]
 sections: [""]
 ---
+
+## 北米
+### ミズーリ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677902165232!6m8!1m7!1sj_wxu1D4rmJc-CgIj1TShg!2m2!1d39.10224185174696!2d-94.58082312915514!3f307.3286048056046!4f-25.08257679774937!5f0.6968607921460803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### 香港
 <div class="googlemap-if">

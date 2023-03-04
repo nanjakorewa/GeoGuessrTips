@@ -44,3 +44,9 @@ STM: Société de transport de Montréalは、カナダ・ケベック州のモ�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409886721!6m8!1m7!1sdRyGE3vucFiaJa7wV3q7TQ!2m2!1d41.14776970688398!2d-8.622510473147793!3f62.252205092731764!4f-13.60687591564185!5f1.5345647851442772" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### マルタ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677902802438!6m8!1m7!1spSM59-5C8Q5_Fl13RoDaWw!2m2!1d35.90794788648271!2d14.50045007278497!3f84.75614593637711!4f-5.931313302709896!5f2.965219404475359" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

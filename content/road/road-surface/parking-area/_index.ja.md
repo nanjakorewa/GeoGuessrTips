@@ -55,3 +55,9 @@ sections: [""]
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677413128222!6m8!1m7!1sBUM2QdxwQm-Ta0CnGs8OuA!2m2!1d54.35272555233941!2d18.65008061780309!3f38.41387366830295!4f-6.081652336431674!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### スペイン
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677901617107!6m8!1m7!1sapp-KMBYjp26j0kz7Gbn8w!2m2!1d40.40155102544803!2d-3.695563566177779!3f273.37805174674565!4f-9.106676179108561!5f3.1747331751041914" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
