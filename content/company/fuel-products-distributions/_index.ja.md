@@ -15,7 +15,17 @@ sections: ["PO", "YPF", "Pertamina", "PEMEX"]
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677673571683!6m8!1m7!1sD32mHQORE-iY9gK76MZomA!2m2!1d42.32463899171095!2d-83.0616350896024!3f277.83342117598386!4f2.7557862705137666!5f1.8119885857926192" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
-Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州フィンドレーに本社を置く石油精製会社。
+Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州フィンドレーに本社を置く石油精製会社。トロントとケベック周辺に展開する。
+{{% ahref "Ultramar" "https://en.wikipedia.org/wiki/Ultramar" %}}
+</div>
+</div>
+
+### カナダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678008791746!6m8!1m7!1sX9reUxij-KvQ6zqqjWPrHg!2m2!1d44.01106487052348!2d-79.41784108858326!3f318.01409498540625!4f-2.0602523954102026!5f2.3036150215165376" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Ultramarはカナダ東部のガスおよび家庭用燃料の小売業者。
 {{% ahref "マラソン・ペトロリアム" "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%9A%E3%83%88%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%A0" %}}
 {{% ahref "Investor Relations" "https://www.marathonpetroleum.com/Investors/" %}}
 </div>
