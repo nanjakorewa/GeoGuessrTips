@@ -91,11 +91,23 @@ de（～の、～から）・la（冠詞、代名詞）・que（代名詞、接�
 
 ## ヘブライ語
 
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677855833758!6m8!1m7!1szWC0f6xqMHpW0XoAoFlNkg!2m2!1d32.07185007573994!2d34.77971483318063!3f273.8752249766466!4f16.800689034381165!5f3.096944489519671" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 ヘブライ語は、アフロ・アジア語族のセム語派に属する北西セム諸語の一つ。ヘブル語、ヒブル語とも呼ばれる。
 {{% ahref "ヘブライ語 - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%96%E3%83%A9%E3%82%A4%E8%AA%9E" %}}
+</div>
+</div>
+
+## スロヴェニア語
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677991175467!6m8!1m7!1sIF5Vg22noTDnFeFq_qR5Xw!2m2!1d45.52941723294639!2d13.56610776852912!3f102.6566208920861!4f38.700819222098545!5f2.5596749596744406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677991581280!6m8!1m7!1ssqjebH9GrpOcB74O8iArBQ!2m2!1d45.54576647608755!2d13.72711386274212!3f319.5895681609472!4f3.349933865843383!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+スロヴェニアではリュブリャーナ大学などに日本語学科があったりして日本との交流もある。日本からは主に輸送機械、機械、電気機器類、鉄鋼製品を輸入している。
+{{% ahref "スロベニア共和国概況 令和３年６月現在在スロベニア日本国大使館" "https://www.si.emb-japan.go.jp/files/000548377.pdf" %}}
+{{% ahref "スロベニア語会話集" "https://wikitravel.org/ja/%E3%82%B9%E3%83%AD%E3%83%99%E3%83%8B%E3%82%A2%E8%AA%9E%E4%BC%9A%E8%A9%B1%E9%9B%86" %}}
 </div>
 </div>

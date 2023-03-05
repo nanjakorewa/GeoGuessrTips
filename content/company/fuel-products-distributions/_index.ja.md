@@ -96,6 +96,16 @@ Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677484793558!6m8!1m7!1sm85hYgfTe-RksRJLUOOonw!2m2!1d48.03408497092917!2d106.9079893286378!3f12.571219132398493!4f1.703989816912241!5f2.7203957188909875" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### インド
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677998298564!6m8!1m7!1skTjYFs4OghCwelSHsCZeTw!2m2!1d12.21761095314252!2d78.05840535136214!3f239.48878266705393!4f8.465137208656074!5f2.5418452941210736" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Essar Energy plc は、モーリシャスに本拠を置くインドのエネルギー会社で、電力、石油、ガス事業を行う。
+{{% ahref "Essar Energy" "https://en.wikipedia.org/wiki/Essar_Energy" %}}
+{{% ahref "Essar - Businesses Across Energy, Construction, Mining & IT ..." "https://www.essar.com/" %}}
+</div>
+</div>
+
 ## オセアニア
 
 ### インドネシア

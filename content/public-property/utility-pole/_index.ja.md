@@ -23,6 +23,12 @@ sections: [""]
 </div>
 
 ## アジア
+### インド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677998215090!6m8!1m7!1s6wZMqZgh8jmNZAZ3bkzXew!2m2!1d12.22183821299065!2d78.05652262634248!3f182.18274958135896!4f9.683085282872554!5f3.042629062302466" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ベトナム
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677407675344!6m8!1m7!1sCAoSLEFGMVFpcE1MV2Jnd3lOc0dvQWREcklBOWkwS0NrdnhYWVJnS1UydHRzbHRX!2m2!1d10.79285059757339!2d106.6342389199607!3f213.2002563765849!4f19.03815556252087!5f0.7820865974627469" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

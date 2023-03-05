@@ -1,5 +1,5 @@
 ---
-title: "街並み"
+title: "街・都市"
 date: 2023-02-26
 lastmod: 2023-02-26
 weight: 1
