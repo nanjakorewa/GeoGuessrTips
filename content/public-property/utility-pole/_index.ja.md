@@ -15,6 +15,11 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677459847279!6m8!1m7!1s__nRyF5aAXJ9Z8gRpnWVmg!2m2!1d42.32482590496088!2d-83.06371713601109!3f356.11491786380947!4f9.892111445694098!5f1.6753972021938361" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+#### カリフォルニア州
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678194160919!6m8!1m7!1s2ijUQV91vzJfE7uzjMyo1Q!2m2!1d32.70881127075334!2d-117.0494162683665!3f351.6290143437317!4f19.164040770905075!5f0.8577124728143808" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## 南米
 ### メキシコ
 

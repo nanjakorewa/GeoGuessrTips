@@ -38,6 +38,7 @@ Triton International Ltdはコンテナのリース会社。2016年時点で26% 
 </div>
 
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678191682559!6m8!1m7!1seqVq4AvqR6YY_VWzEZvfqg!2m2!1d-22.87127463567389!2d-43.20404751181944!3f126.2515644318789!4f-4.132053497778202!5f2.6595395979260554" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677460919674!6m8!1m7!1smKjGonLhSefa5PCRJzusXw!2m2!1d-6.961661460772471!2d110.4308354482967!3f303.4267063708006!4f-0.8201629172988305!5f1.5556344477360105" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description-wide">
 エバーグリーン・グループは台湾を拠点とする海運会社。世界80か国に展開しており、コンテナ貨物輸送の規模は世界第4位。

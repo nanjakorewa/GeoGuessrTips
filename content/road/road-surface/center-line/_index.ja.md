@@ -8,6 +8,12 @@ keywords: ["白線"]
 sections: [""]
 ---
 
+## 北米
+### アメリカ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678191101013!6m8!1m7!1sGjh2xqUAoD_MXqBc9hWMcQ!2m2!1d41.41055023651615!2d-93.29234429642223!3f125.60807641726106!4f-29.586200094165598!5f1.31577251283024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### 台湾
 <div class="googlemap-if">
