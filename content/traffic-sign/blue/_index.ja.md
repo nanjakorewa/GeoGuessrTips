@@ -16,6 +16,11 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+### オランダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678015919356!6m8!1m7!1sZK4gaKTK0y3gBFDSCm2QSA!2m2!1d52.36106944931201!2d4.908088703649725!3f183.36332230317018!4f23.292723040309227!5f2.9183884557193815" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### リトアニア
 
@@ -27,6 +32,8 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677857321525!6m8!1m7!1soFYwsvhCV1om07U7P3wljw!2m2!1d52.25887627980168!2d21.00273082279482!3f245.9898776440007!4f-1.6574787715527748!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678016444078!6m8!1m7!1sneOgWQI5GK3ejqFmYnfq8g!2m2!1d50.05958136560567!2d19.9327824765771!3f186.3799073922704!4f6.381942125664807!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### スペイン

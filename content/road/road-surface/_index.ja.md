@@ -7,7 +7,20 @@ draft: false
 keywords: ["路上駐車禁止"]
 sections: [""]
 ---
+
+## 南米
+### グアテマラ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678078328122!6m8!1m7!1sGeQAZv532foZAUwFJxoMRA!2m2!1d15.06619386860114!2d-91.83568265042743!3f255.05988468508858!4f-17.16971219226042!5f2.4745771827000027" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## ヨーロッパ
+
+### スペイン
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678068854598!6m8!1m7!1s_I3gX2Bt3JfokR9A4HRilw!2m2!1d40.74828412998497!2d0.6378051528964112!3f227.47287626045528!4f-17.432071602404633!5f1.5459034638732936" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### オランダ
 <div class="googlemap-if">

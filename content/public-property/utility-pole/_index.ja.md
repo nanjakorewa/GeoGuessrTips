@@ -52,6 +52,7 @@ sections: [""]
 ### ギリシャ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677589897735!6m8!1m7!1sMyG2JWVbYU4w20asGa7GuQ!2m2!1d39.65912852629715!2d22.43883724251534!3f284.52148459763606!4f17.54341656304895!5f0.7820865974627469" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678017595958!6m8!1m7!1s84YCYDnEdEbZB8m0Zz0q4A!2m2!1d37.9438854147953!2d23.71950274318123!3f90.24841035327348!4f17.783271294396016!5f1.4677539873574341" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### ポーランド
