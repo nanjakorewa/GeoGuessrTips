@@ -42,6 +42,16 @@ Ultramarはカナダ東部のガスおよび家庭用燃料の小売業者。
 </div>
 </div>
 
+### ウルグアイ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678280602852!6m8!1m7!1sb8EeQB8HkEiO6VOQPfOiTw!2m2!1d-34.87896141111508!2d-55.05215359533884!3f288.4154073396141!4f0.9419419572630829!5f3.1976513705040874" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ANCAP (**A**dministración **N**acional de **C**ombustibles, **A**lcoholes y **P**ortland)はウルグアイの国営企業であり石油製品、ポートランドセメント、アルコール飲料の生産をする。企業信用格付け「BB-」らしい（いつの時点かは不明）。ウルグアイからニューヨーク市場に上場している企業は2022年時点ではDlocalしかないため、ウルグアイ企業について知る機会は少ない。
+{{% ahref "ANCAP - Wikipedia" "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" %}}
+</div>
+</div>
+
 ### アルゼンチン
 
 <div class="googlemap-if">
