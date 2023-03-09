@@ -1,5 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=M+PLUS+1p);
+
+body {
+    font-family: 'M PLUS 1p', sans-serif;
+}
+
+nav.navbar {
+  background-color: #19182a;
+  color:#fff;
+}
+
+nav.navbar a {
+  color:#fff !important;
+}
+
 footer.section div.container {
   background-color: #fff;
+  padding: 0.75em;
 }
 
 footer.section div.container p {
