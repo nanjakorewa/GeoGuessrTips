@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["ドライバルク", "トラック", "コンテナ", "TRITON", "EVERGREEN", "ZIM"]
 sections: [""]
+bg: "bg/container.jpg"
 ---
 
 ## トラック

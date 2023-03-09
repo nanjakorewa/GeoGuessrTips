@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["midstream", "天然ガス", "石油"]
 sections: ["PBA"]
+bg: "bg/pipeline.jpg"
 ---
 
 ## 北米

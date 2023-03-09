@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-3">
-        <div class="sidebar">
+        <div class="sidebar apply-bg">
           <ul class="list-styled">
             {{ $currentNode := . }}
             <a class="back-btn" href="{{ .Site.BaseURL | relLangURL }}"></a>
@@ -17,7 +17,7 @@
       </div>
 
       <div class="col-lg-9">
-        <div class="p-lg-5 p-4 bg-white" style="padding: 1em !important;">
+        <div class="p-lg-5 p-4 bg-white apply-bg" style="padding: 1em !important;">
           <h1 class="mb-5">{{ .Title }}</h1>
           {{ if .Content }}
           {{ partial "share" . }}
@@ -87,7 +87,7 @@
 {{ $currentNodeFileUniqueID := "" }}
 {{ with $currentNode.File }}{{ $currentNodeFileUniqueID = .UniqueID }}{{ end }}
 <li data-nav-id="{{.Permalink}}" title="{{.Title}}" class="sidelist
-  {{if eq $fileUniqueID $currentNodeFileUniqueID}}active{{end}}">
+  {{if eq $fileUniqueID $currentNodeFileUniqueID}}active{{end}} no-dot">
   <a href="{{.Permalink}}">
     {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}
   </a>

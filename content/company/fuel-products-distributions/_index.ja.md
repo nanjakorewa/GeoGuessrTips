@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["ガスステーション", "天然ガス", "石油"]
 sections: ["PO", "YPF", "Pertamina", "PEMEX"]
+bg: "bg/gs.jpg"
 ---
 
 ## 北米

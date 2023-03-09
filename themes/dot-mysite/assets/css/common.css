@@ -4,6 +4,10 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+.apply-bg {
+  background: rgba(255, 255, 255, .85) !important;
+}
+
 nav.navbar {
   background-color: #19182a;
   color:#fff;

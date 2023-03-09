@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["粗大ごみ", "ゴミ箱", "ごみ箱"]
 sections: [""]
+bg: "bg/wm.jpg"
 ---
 
 ## 北米

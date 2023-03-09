@@ -577,6 +577,10 @@ textarea.form-control {
   top: 17px;
 }
 
+a.back-btn + li:before {
+  opacity: 0;
+}
+
 .post-meta {
   color: var(--text-color);
   font-style: italic;
@@ -787,6 +791,8 @@ code {
 
 .back-btn {
   position: relative;
+  list-style: none;
+  display: none;
 }
 
 .back-btn::before {
