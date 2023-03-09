@@ -36,11 +36,11 @@
     background-attachment: fixed;
     background-position: center;
     background-image: url("{{ .Params.bg | absURL }}");
-    animation: image ease-out 0.5s 1 alternate;
+    animation: image ease-out 1.5s 1 alternate;
   }
   @keyframes image {
     0% {
-      background-image: url('{{ "bg/white.jpg" | absURL }}');
+      background-image: url('{{ "bg/default.jpg" | absURL }}');
     }
     100% {
       background-image: url("{{ .Params.bg | absURL }}");
@@ -51,15 +51,15 @@
     background-size: cover;
     background-attachment: fixed;
     background-position: center;
-    background-image: url('{{ "bg/map.jpg" | absURL }}');
-    animation: image ease-out 0.5s 1 alternate;
+    background-image: url('{{ "bg/default.jpg" | absURL }}');
+    animation: image ease-out 1.5s 1 alternate;
   }
   @keyframes image {
     0% {
       background-image: url('{{ "bg/white.jpg" | absURL }}');
     }
     100% {
-      background-image: url('{{ "bg/map.jpg" | absURL }}');
+      background-image: url('{{ "bg/default.jpg" | absURL }}');
     }
   }
   {{ end }}

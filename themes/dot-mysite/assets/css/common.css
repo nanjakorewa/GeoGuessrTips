@@ -2,7 +2,7 @@ footer.section div.container {
   background-color: #fff;
 }
 
-footer.section div.container p{
+footer.section div.container p {
   font-size: 0.8em;
 }
 
@@ -10,7 +10,7 @@ code.language-css {
   line-height: 1em !important;
 }
 
-code.language-css span{
+code.language-css span {
   line-height: 1em !important;
   margin: 0 !important;
 }
@@ -25,11 +25,11 @@ div.googlemap-if {
   flex-wrap: wrap;
 }
 
-div.googlemap-if iframe{
+div.googlemap-if iframe {
   margin: 0;
 }
 
-div.googlemap-if div.description{
+div.googlemap-if div.description {
   margin: 0;
   padding: 0.5em;
   padding-bottom: 0;
@@ -39,7 +39,7 @@ div.googlemap-if div.description{
   height: 295px;
 }
 
-div.googlemap-if div.description-wide{
+div.googlemap-if div.description-wide {
   margin: 0;
   padding: 0.5em;
   padding-bottom: 0;
@@ -79,7 +79,7 @@ h3.section-title:first-letter {
   font-size: 1.2em;
 }
 
-div.twitter-tab > div {
+div.twitter-tab>div {
   margin: 0 auto;
 }
 
@@ -91,7 +91,7 @@ div.youtube-area {
   text-align: center;
 }
 
-div.linklist{
+div.linklist {
   padding: 2em 0 1em 1em;
 }
 
@@ -161,6 +161,7 @@ div.linklist a:after {
 div.linklist a.linktype-pint:after {
   border-left: 12px solid red;
 }
+
 div.linklist a.linktype-pixiv:after {
   border-left: 12px solid #0099FF;
 }
@@ -171,4 +172,97 @@ div.linklist a.linktype-clip:after {
 
 div.linklist a.linktype-amazon:after {
   border-left: 12px solid #000;
+}
+
+
+.sns_parent {
+  text-align: center;
+}
+
+.sns_section {
+  display: inline-block;
+  text-align: left;
+}
+
+.sns_button {
+  float: left;
+  box-shadow: inset 0 0 0 2px #000;
+  border-radius: 10%;
+  -moz-transition: all 0ms ease;
+  -o-transition: all 0ms ease;
+  -webkit-transition: all 0ms ease;
+  transition: all 0ms ease;
+}
+
+.sns_button a {
+  display: table-cell;
+  width: 44px;
+  height: 44px;
+  color: #42464c;
+  text-align: center;
+  vertical-align: middle;
+  -moz-transition: all 0ms ease;
+  -o-transition: all 0ms ease;
+  -webkit-transition: all 0ms ease;
+  transition: all 0ms ease;
+}
+
+.sns_button i {
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+.sns_button:hover {
+  box-shadow: inset 0 0 0 22px #eaeaea;
+}
+
+.sns_button+.sns_button {
+  margin: 0 0 0 12px;
+}
+
+.twitter:hover a {
+  color: #1B95E0;
+}
+
+.facebook:hover a {
+  color: #3B5999;
+}
+
+.google:hover a {
+  color: #dd4b39;
+}
+
+.instagram:hover a {
+  color: #2b5c84;
+}
+
+.pocket:hover a {
+  color: #EE4056;
+}
+
+.hatena:hover a {
+  color: #4BA3D9;
+}
+
+.fa-hatena:before {
+  content: "B!";
+  font-family: Verdana;
+  font-weight: bold
+}
+
+.sns_parent {
+  position: relative;
+  margin-left: 0;
+  margin-bottom: 1em;
+}
+
+.sns_section {
+  position: absolute;
+  display: flex;
+  justify-content:
+  flex-end; 
+}
+
+h1.mb-5 {
+  margin-bottom: 0rem !important;
 }

@@ -20,6 +20,7 @@
         <div class="p-lg-5 p-4 bg-white" style="padding: 1em !important;">
           <h1 class="mb-5">{{ .Title }}</h1>
           {{ if .Content }}
+          {{ partial "share" . }}
           <div class="content">{{.Content}}</div>
           {{ else }}
           <div class="bg-light p-4">
