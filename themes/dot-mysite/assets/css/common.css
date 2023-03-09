@@ -186,12 +186,12 @@ div.linklist a.linktype-amazon:after {
 
 .sns_button {
   float: left;
-  box-shadow: inset 0 0 0 2px #000;
   border-radius: 10%;
   -moz-transition: all 0ms ease;
   -o-transition: all 0ms ease;
   -webkit-transition: all 0ms ease;
   transition: all 0ms ease;
+  background-color: #f0f0f0;
 }
 
 .sns_button a {

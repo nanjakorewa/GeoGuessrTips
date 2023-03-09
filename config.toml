@@ -58,7 +58,7 @@ link = "https://github.com/nanjakorewa"
 languageName = "ja"
 languageCode = "Ja-jp"
 weight = 1
-copyright = "個人のブックマーク整理用のリポジトリ。<br/>GeoGuessrで下りた地点付近のヒントになるかもしれないものをメモしたページです。"
+copyright = "個人のブックマーク整理用のリポジトリ。<br/>GeoGuessrで下りた地点付近のヒントになるかもしれないものをメモしたページです。<br/>©2023 nanjakorewa."
 
 # banner
 [Languages.ja.params.banner]
