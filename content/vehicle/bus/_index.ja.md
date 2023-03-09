@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["バス"]
 sections: [""]
+bg: "bg/bus.jpg"
 ---
 
 ## 南米

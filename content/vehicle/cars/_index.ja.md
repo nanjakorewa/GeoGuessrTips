@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["乗用車"]
 sections: [""]
+bg: "bg/tktk.jpg"
 ---
 
 ## アジア
