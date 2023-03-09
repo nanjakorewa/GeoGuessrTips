@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: [""]
 sections: [""]
+bg: "bg/tf.jpg"
 ---
 
 ## アジア

@@ -29,6 +29,24 @@
     --light-color:{{ .Site.Params.light_color }};
     --font-family:{{ replace .Site.Params.font_family ' ' '+' | title }};
   }
+
+  {{ if .Params.bg }}
+  body {
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    background-image: url("{{ .Params.bg | absURL }}");
+    animation: image ease-out 0.5s 1 alternate;
+  }
+  @keyframes image {
+    0% {
+      background-image: url('{{ "bg/white.jpg" | absURL }}');
+    }
+    100% {
+      background-image: url("{{ .Params.bg | absURL }}");
+    }
+  }
+  {{ end }}
   </style>
 
 {{ "<!-- Main Stylesheet -->" | safeHTML }}

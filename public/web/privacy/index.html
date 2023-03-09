@@ -1,0 +1,65 @@
+<!doctype html><html lang=ja-jp><head><meta charset=utf-8><title>個人情報を隠す</title><meta name=viewport content="width=device-width,initial-scale=1,maximum-scale=1"><meta name=generator content="Hugo 0.109.0"><link rel=stylesheet href=https://nanjakorewa.github.io/GeoGuessrTips/plugins/bootstrap/bootstrap.min.css><link rel=stylesheet href=https://nanjakorewa.github.io/GeoGuessrTips/plugins/themify-icons/themify-icons.css><link rel=icon href=https://nanjakorewa.github.io/GeoGuessrTips/images/favicon.png type=image/x-icon><link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel=stylesheet><link href=https://use.fontawesome.com/releases/v5.6.1/css/all.css rel=stylesheet><style>:root{--primary-color:#264653;--body-color:#f0efeb;--text-color:#3d405b;--text-color-dark:#242738;--white-color:#ffffff;--light-color:#Copied!;--font-family:M PLUS 1p}</style><link href=https://nanjakorewa.github.io/GeoGuessrTips/css/style.min.css rel=stylesheet media=screen><link href=https://nanjakorewa.github.io/GeoGuessrTips/css/common.min.css rel=stylesheet media=screen><script src=https://nanjakorewa.github.io/GeoGuessrTips/plugins/jquery/jquery-1.12.4.js></script>
+<script src=https://nanjakorewa.github.io/GeoGuessrTips/plugins/jquery/jquery-ui.js></script>
+<script src=https://nanjakorewa.github.io/GeoGuessrTips/plugins/bootstrap/bootstrap.min.js></script>
+<script src=https://nanjakorewa.github.io/GeoGuessrTips/plugins/match-height/jquery.matchHeight-min.js></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-1LJGTTHL7E"></script>
+<script>window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag("js",new Date),gtag("config","G-1LJGTTHL7E")</script></head><body><header class="shadow-bottom sticky-top bg-white"><nav class="navbar navbar-expand-md navbar-light"><div class=container><a class="navbar-brand px-2" href=/GeoGuessrTips>GeoGuessr Memo</a>
+<button class="navbar-toggler border-0" type=button data-toggle=collapse data-target=#navigation aria-controls=navigation aria-expanded=false aria-label="Toggle navigation">
+<span class=navbar-toggler-icon></span></button><div class="collapse navbar-collapse text-center" id=navigation><ul class="navbar-nav ml-auto"><li class=nav-item><a class="nav-link text-dark" href=https://nanjakorewa.github.io/GeoGuessrTips/>トップに戻る</a></li></ul></div></div></nav></header><section class="single section-sm pb-0"><div class=container><div class=row><div class=col-lg-3><div class=sidebar><ul class=list-styled><a class=back-btn href=/GeoGuessrTips></a><li data-nav-id=https://nanjakorewa.github.io/GeoGuessrTips/web/ title=役立つページ class=sidelist><a href=https://nanjakorewa.github.io/GeoGuessrTips/web/>役立つページ</a><ul><li data-nav-id=https://nanjakorewa.github.io/GeoGuessrTips/web/useful-website/ title=便利なウェブサイト class=sidelist><a href=https://nanjakorewa.github.io/GeoGuessrTips/web/useful-website/>便利なウェブサイト</a></li><li data-nav-id=https://nanjakorewa.github.io/GeoGuessrTips/web/privacy/ title=個人情報を隠す class="sidelist
+active"><a href=https://nanjakorewa.github.io/GeoGuessrTips/web/privacy/>個人情報を隠す</a></li></ul></li></ul></div></div><div class=col-lg-9><div class="p-lg-5 p-4 bg-white" style=padding:1em!important><h1 class=mb-5>個人情報を隠す</h1><div class=content><p>ほぼ気休め程度ですが、カスタムcssを適用してメールアドレスや電話番号の表示がされる可能性があるボタンを丸ごと非表示にすることで回避できます（2023年1月時点のウェブならば）。もちろんGoogleからログアウトするのも有効。</p><h3 id=カスタムcss例>カスタムcss例</h3><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-css data-lang=css><span style=display:flex><span>@<span style=color:#66d9ef>-moz-document</span> <span style=color:#f92672>domain</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;google.co.jp&#34;</span><span style=color:#f92672>)</span> {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>qLP7kc</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>qWuU9c</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>scene-footer-container</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>bottom</span>: <span style=color:#ae81ff>3</span><span style=color:#66d9ef>em</span> <span style=color:#75715e>!important</span>;
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>right</span>: <span style=color:#ae81ff>10</span><span style=color:#66d9ef>em</span> <span style=color:#75715e>!important</span>;
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>margin-top</span>: <span style=color:#ae81ff>0</span>;
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>transform</span>: scale(<span style=color:#ae81ff>1.5</span>, <span style=color:#ae81ff>1.5</span>);
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>sW9vGe</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>width</span>: <span style=color:#ae81ff>12</span><span style=color:#66d9ef>em</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>img</span>.<span style=color:#a6e22e>gb_h</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>gb_Ef</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>hdeJwf</span>{
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>etWJQ</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><div class=highlight><pre tabindex=0 style=color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4><code class=language-css data-lang=css><span style=display:flex><span>@<span style=color:#66d9ef>-moz-document</span> <span style=color:#f92672>url-prefix</span><span style=color:#f92672>(</span><span style=color:#e6db74>&#34;https://www.google.com/maps/&#34;</span><span style=color:#f92672>)</span> {
+</span></span><span style=display:flex><span>    <span style=color:#f92672>img</span>.<span style=color:#a6e22e>gb_h</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>gb_Ef</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>hdeJwf</span>{
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>    
+</span></span><span style=display:flex><span>    <span style=color:#f92672>div</span>.<span style=color:#a6e22e>etWJQ</span> {
+</span></span><span style=display:flex><span>        <span style=color:#66d9ef>display</span>: <span style=color:#66d9ef>none</span>;
+</span></span><span style=display:flex><span>    }
+</span></span><span style=display:flex><span>}
+</span></span></code></pre></div><h3 id=適用前>適用前</h3><p>右上からメールアドレスと他のアカウントの名前・アドレスを確認できる。
+また、「モバイルデバイスに送信」などをクリックすると電話番号の一部が表示される。</p><p><img src=2023-03-02-12-19-13.png alt></p><h3 id=適用後>適用後</h3><p>ボタン表示エリアごと削除し、場所の説明だけが表示されるようになる。</p><p><img src=2023-03-02-12-16-43.png alt></p></div><p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on 26 Feb 2023</p><nav class="pagination mt-3"><a class="nav nav-prev" href=https://nanjakorewa.github.io/GeoGuessrTips/web/useful-website/><i class="ti-arrow-left mr-2"></i> <span class="d-none d-md-block">便利なウェブサイト</span></a>
+<a class="nav nav-next" href=https://nanjakorewa.github.io/GeoGuessrTips/about/><span class="d-none d-md-block">このページについて</span><i class="ti-arrow-right ml-2"></i></a></nav></div></div></div></div></section><script async src=https://platform.twitter.com/widgets.js></script>
+<script async src=//cdn.embedly.com/widgets/platform.js></script><footer class="section pb-4"><div class=container><div class="row align-items-center"><div class="col-md-8 text-md-left text-center"><p class="mb-md-0 mb-4">個人のブックマーク整理用のリポジトリ。<br>GeoGuessrで下りた地点付近のヒントになるかもしれないものをメモしたページです。</p></div><div class="col-md-4 text-md-right text-center"><ul class=list-inline><li class=list-inline-item><a class="text-color d-inline-block p-2" href=https://www.twitch.tv/nanjakorewa><i class=ti-game></i></a></li><li class=list-inline-item><a class="text-color d-inline-block p-2" href=https://twitter.com/nanjakorewa><i class=ti-twitter-alt></i></a></li><li class=list-inline-item><a class="text-color d-inline-block p-2" href=https://github.com/nanjakorewa><i class=ti-github></i></a></li></ul></div></div></div></footer><script src=https://nanjakorewa.github.io/GeoGuessrTips/js/script.min.js></script></body></html>

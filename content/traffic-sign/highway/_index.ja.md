@@ -4,6 +4,7 @@ date: 2023-02-26
 lastmod: 2023-02-26
 weight: 1
 draft: false
+bg: "bg/highway.jpg"
 keywords: ["高速道路"]
 sections: [""]
 ---
