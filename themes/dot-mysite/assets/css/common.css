@@ -74,6 +74,11 @@ div.googlemap-if div.description a::before {
   margin-right: 0.2em;
 }
 
+
+div.googlemap-if div.imgs a::before {
+  content: "" !important;
+}
+
 div.googlemap-if div.description-wide a::before {
   font-family: "Font Awesome 5 Free";
   content: "\f2d0";

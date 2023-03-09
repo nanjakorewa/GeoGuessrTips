@@ -24,7 +24,7 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677721323215!6m8!1m7!1sTyOY_kAMpa22qQF54wsPiQ!2m2!1d45.73103612140538!2d21.18784703841284!3f180.05939482857062!4f20.732884245429346!5f0.734785256448784" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
+<div class="description imgs">
 <img src="2023-03-02-10-43-13.png" />
 </div>
 <div class="description">
