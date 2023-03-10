@@ -86,6 +86,16 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 
 
 ## アジア
+### ロシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678477731532!6m8!1m7!1s97uJuireKtUnA1BivP2RCw!2m2!1d56.88739119660375!2d60.52842209413554!3f61.90026552296326!4f10.029416900826348!5f1.3623003864927512" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ガスプロムは天然ガスの生産・供給において世界最大の企業である。
+{{% ahref "ガスプロム - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A0" %}}
+</div>
+</div>
+
 
 ### 香港
 

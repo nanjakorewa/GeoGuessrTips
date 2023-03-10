@@ -30,6 +30,12 @@ sections: [""]
 </div>
 
 ## アフリカ
+### ガーナ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678478125367!6m8!1m7!1sCdCsgKiN3JMekOFY91EAhQ!2m2!1d9.300791103887192!2d0.0192295073828421!3f253.48238110154813!4f-2.3334929168116645!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ガボン
 
 <div class="googlemap-if">

@@ -60,6 +60,11 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+### ルーマニア
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678475273406!6m8!1m7!1sx5ADIit-2OU4icoyzIqqNw!2m2!1d46.45385037654135!2d25.43755994847187!3f41.03613815676085!4f19.15392646260429!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ギリシャ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677589897735!6m8!1m7!1sMyG2JWVbYU4w20asGa7GuQ!2m2!1d39.65912852629715!2d22.43883724251534!3f284.52148459763606!4f17.54341656304895!5f0.7820865974627469" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
