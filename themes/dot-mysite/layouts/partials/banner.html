@@ -17,7 +17,7 @@
 						{{ range $pages }}
 						{
 							value: "{{ .Title }}",
-							label: "{{ .Title }} {{range.Params.Keywords}}<p>{{.}}</p>{{end}} {{.Plain}}",
+							label: "【{{ .Title }}】 {{.Plain}} {{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
 							url:"{{ .Permalink }}"
 						},
 						{{ end -}}
@@ -29,7 +29,7 @@
 						{{ if (ne $section_name "")}}
 						{
 							value: "{{ $temp_title }} > {{ $section_name }}",
-							label: "{{range $temp_keywords}}<p>{{.}}</p>{{end}}<p>{{ $section_name }}</p>",
+							label: "<p>{{ $section_name }}</p>{{range $temp_keywords}}<p>{{.}}</p>{{end}}",
 							url:"{{ $temp_permalink }}#sec-{{ $sec_index }}"
 						},
 						{{ end -}}
