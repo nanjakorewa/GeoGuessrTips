@@ -8,6 +8,13 @@ keywords: [""]
 sections: [""]
 ---
 
+## 南米
+
+### ブラジル
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678448956738!6m8!1m7!1sVVi0F8DxeJoHZXUEk31mTA!2m2!1d-10.90014765817453!2d-61.90623450766311!3f25.30363757622058!4f-10.928635251586996!5f0.6632697491677132" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ## アジア
 ### インド

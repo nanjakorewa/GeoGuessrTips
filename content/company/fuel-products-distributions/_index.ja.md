@@ -53,6 +53,16 @@ ANCAP (**A**dministración **N**acional de **C**ombustibles, **A**lcoholes y **P
 </div>
 </div>
 
+### チリ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678450730743!6m8!1m7!1scqlJBi5ANi6alhwIcMKQ-A!2m2!1d-36.81810635494303!2d-72.98961368751648!3f85.20801243275851!4f8.07622833495978!5f1.7448217700337718" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Empresas Copec は、チリ全土に一連のガソリンスタンドを持つチリの エネルギーおよび林業会社です。
+{{% ahref "エンプレサス コペック" "https://en.wikipedia.org/wiki/Empresas_Copec" %}}
+</div>
+</div>
+
 ### アルゼンチン
 
 <div class="googlemap-if">
@@ -63,6 +73,17 @@ ANCAP (**A**dministración **N**acional de **C**ombustibles, **A**lcoholes y **P
 {{% ahref "YPF Sociedad Anónima (YPF)" "https://finance.yahoo.com/quote/YPF/" %}}
 </div>
 </div>
+
+## ヨーロッパ
+### イギリス
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678447892683!6m8!1m7!1sKG74dIKwsmqeof73Vw133A!2m2!1d50.95182080078899!2d-1.295118756084518!3f154.1!4f7.219999999999999!5f2.2309097045259185" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Texaco" "https://www.texaco.com/" %}}
+</div>
+</div>
+
 
 ## アジア
 
