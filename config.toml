@@ -6,11 +6,11 @@ baseURL = "https://nanjakorewa.github.io/GeoGuessrTips/"
 # theme
 theme = "dot-mysite"
 # site title
-title = "GeoGuessr Memo"
+title = "My Geo Pinning"
 # disable language
 disableLanguages = []
 # google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = "G-XR9E0W2YP0" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true

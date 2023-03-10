@@ -36,7 +36,7 @@ sections: [""]
 ### インド
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678451401750!6m8!1m7!1sjmLtIIWzW738J4VGK_Evvg!2m2!1d12.78825131596292!2d77.44585847659019!3f89.79182275598706!4f8.030231420458023!5f1.8278194277814355" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678451401750!6m8!1m7!1sjmLtIIWzW738J4VGK_Evvg!2m2!1d12.78825131596292!2d77.44585847659019!3f89.79182275598706!4f8.030231420458023!5f1.8278194277814355" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677998215090!6m8!1m7!1s6wZMqZgh8jmNZAZ3bkzXew!2m2!1d12.22183821299065!2d78.05652262634248!3f182.18274958135896!4f9.683085282872554!5f3.042629062302466" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
