@@ -81,7 +81,7 @@ Alliance Bank Malaysia Berhadはあらゆるセグメントの顧客に包括的
 </div>
 </div>
 
-### インドネシア
+### スリランカ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677661832331!6m8!1m7!1smRFeQ-FriFX-K1Tgr5v1Nw!2m2!1d6.936618723830088!2d79.85060434987213!3f177.6305932755777!4f3.6468310252471667!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">

@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["コーラ", "飲食店", "一般消費"]
 sections: [""]
+bg: "bg/food.jpg"
 ---
 
 ## アジア
@@ -21,7 +22,7 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677719519814!6m8!1m7!1sM5JJ7bBen5hGu9qedtMtMw!2m2!1d14.61042217453185!2d121.0050769710356!3f265.5340837073119!4f-19.588728304062357!5f2.1174224834583755" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
+<div class="description imgs">
 <img src="./2023-03-02-10-16-56.png" />
 </div>
 <div class="description">

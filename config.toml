@@ -51,6 +51,10 @@ link = "https://twitter.com/nanjakorewa"
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 link = "https://github.com/nanjakorewa"
 
+[[params.social]]
+icon = "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82"
+
 
 
 ################################ Japanese Language ######################

@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["飲食"]
 sections: [""]
+bg: "bg/super.jpg"
 ---
 
 

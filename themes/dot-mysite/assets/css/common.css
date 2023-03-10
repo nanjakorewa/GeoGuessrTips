@@ -291,3 +291,7 @@ div.linklist a.linktype-amazon:after {
 h1.mb-5 {
   margin-bottom: 0rem !important;
 }
+
+li.list-inline-item a {
+  font-size: 2em;
+}
