@@ -62,7 +62,7 @@ link = "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82"
 languageName = "ja"
 languageCode = "Ja-jp"
 weight = 1
-copyright = "個人のブックマーク整理用のリポジトリ。<br/>GeoGuessrで下りた地点付近のヒントになるかもしれないものをメモしたページです。<br/>©2023 nanjakorewa."
+copyright = "個人のブックマーク整理用のリポジトリ。<br/><a href='https://www.geoguessr.com/'><b>GeoGuessr</b></a>で下りた地点付近のヒントになるかもしれないものをメモしたページです。<br/>©2023 nanjakorewa."
 
 # banner
 [Languages.ja.params.banner]
