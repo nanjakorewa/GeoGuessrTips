@@ -194,7 +194,7 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 ### クロアチア
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678555329672!6m8!1m7!1sPM97lU2WkqNtQcWZ_7UIoQ!2m2!1d45.82616488719412!2d16.04453161423169!3f96.10430926538506!4f4.34665116758012!5f1.8035104040625058" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678555329672!6m8!1m7!1sPM97lU2WkqNtQcWZ_7UIoQ!2m2!1d45.82616488719412!2d16.04453161423169!3f96.10430926538506!4f4.34665116758012!5f1.8035104040625058" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 

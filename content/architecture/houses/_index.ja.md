@@ -26,7 +26,7 @@ sections: [""]
 ### ベルギー
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678557094468!6m8!1m7!1sKP65-whUq7db38X7-6wpyA!2m2!1d50.45278245868658!2d4.866271555959639!3f32.604494820724994!4f1.2497344896390956!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678557094468!6m8!1m7!1sKP65-whUq7db38X7-6wpyA!2m2!1d50.45278245868658!2d4.866271555959639!3f32.604494820724994!4f1.2497344896390956!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### イギリス
