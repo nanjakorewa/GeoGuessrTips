@@ -49,7 +49,7 @@ link = "https://twitter.com/nanjakorewa"
 
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
-link = "https://github.com/nanjakorewa"
+link = "https://github.com/nanjakorewa/GeoGuessrTips"
 
 [[params.social]]
 icon = "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
