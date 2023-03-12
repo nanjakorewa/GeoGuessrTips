@@ -10,6 +10,17 @@ bg: "bg/diy.jpg"
 ---
 
 
+## 北米
+### アメリカ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678553723391!6m8!1m7!1srHpPZqdF08eUgrG_gvZh4g!2m2!1d38.8925227177514!2d-77.42695436482619!3f81.7916130978465!4f1.5773613587903412!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ロウズ・カンパニー (Lowe's Companies, Inc.）は、アメリカ合衆国の住宅リフォーム・生活家電チェーン。
+{{% ahref "ロウズ - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%A6%E3%82%BA" %}}
+</div>
+</div>
+
 ## ヨーロッパ
 ### イギリス
 

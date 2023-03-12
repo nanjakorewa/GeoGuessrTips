@@ -19,6 +19,12 @@ bg: "bg/tf.jpg"
 </div>
 </div>
 
+## コロンビア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678557530226!6m8!1m7!1sig-o_oD84P9uDmZRAxV1Aw!2m2!1d7.12602329724662!2d-73.12125748144285!3f177.22876713549743!4f-4.291843064804667!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## ヨーロッパ
 
 ### ポーランド

@@ -14,6 +14,12 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678191101013!6m8!1m7!1sGjh2xqUAoD_MXqBc9hWMcQ!2m2!1d41.41055023651615!2d-93.29234429642223!3f125.60807641726106!4f-29.586200094165598!5f1.31577251283024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+## 南米
+### ブラジル
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678555693038!6m8!1m7!1sfkgoo94XNhDeqsg7Nef2Zw!2m2!1d-23.94709502629673!2d-51.55177705868192!3f310.584043347663!4f-34.541716803255156!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### 台湾
 <div class="googlemap-if">

@@ -9,6 +9,13 @@ sections: [""]
 bg: "bg/tf.jpg"
 ---
 
+## 北米
+### アメリカ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678554840231!6m8!1m7!1sn8FZGSn9k3pcuWOxx2PNaw!2m2!1d41.79896622389165!2d-73.5370470624943!3f86.00113828589477!4f-1.1965888130088018!5f3.3203807827391887" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### モンゴル
 <div class="googlemap-if">
