@@ -11,6 +11,16 @@ sections: [""]
 ## 北米
 ### アメリカ
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678603780992!6m8!1m7!1sm1DrEDElwCwGXc7NMEHCCg!2m2!1d38.47946983949686!2d-122.7319055861927!3f273.3866735276217!4f-7.60970704119481!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Silicon Valley Bankは、カリフォルニア州サンタクララに本拠を置く商業銀行"だった"。
+2023年3月に破綻した時点で、米国で16番目に大きな銀行。2022年の金利上昇と銀行の負債が集中していたテクノロジーセクターの成長率が大幅に低下したことも重なり、時価会計の未実現損失を抱えていた。
+{{% ahref "Silicon Valley Bank - Wikipedia" "https://en.wikipedia.org/wiki/Silicon_Valley_Bank" %}}
+{{% ahref "JPM - Silicon Valley Bank failure(March, 10, 2023)" "https://am.jpmorgan.com/content/dam/jpm-am-aem/global/en/insights/eye-on-the-market/silicon-valley-bank-failure-amv.pdf" %}}
+</div>
+</div>
+
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677411344881!6m8!1m7!1s0SS-nFD1mubBljc6werpLQ!2m2!1d29.72493668513916!2d-95.35050677122688!3f324.93362040637606!4f4.1223034236492!5f3.1604446843679517" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677467327123!6m8!1m7!1s7eruN65dmN-dJD235An_uQ!2m2!1d27.62623395230897!2d-97.22324302056728!3f159.57449963503547!4f6.168784945774092!5f3.2678577881809083" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
