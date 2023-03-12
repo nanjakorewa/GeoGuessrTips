@@ -39,6 +39,25 @@ code.language-css span {
   max-width: 95% !important;
 }
 
+div.main-description {
+  background-color: #fff !important;
+  padding: 1em;
+  width: 100% !important;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+div.main-description li {
+  line-height: 1.2em;
+  margin: 0.1em;
+}
+
+div.main-description li ul {
+  line-height: 1em;
+  margin: 0.1em;
+}
+
+
 div.googlemap-if {
   width: 100% !important;
   display: flex;

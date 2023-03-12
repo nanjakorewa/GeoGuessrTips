@@ -9,14 +9,74 @@ sections: [""]
 bg: "bg/tf.jpg"
 ---
 
+<div class="main-description">
+<ul>
+    <li>STAD
+        <ul>
+            <li>アイルランド</li>
+        </ul>
+    </li>
+    <li>หยุด
+        <ul>
+            <li>タイ</li>
+        </ul>
+    </li>
+    <li>Arrêt
+        <ul>
+            <li>カナダ（ケベック）</li>
+        </ul>
+    </li>
+    <li>STOP(六角形)
+        <ul>
+            <li>ブータン</li>
+        </ul>
+    </li>
+    <li>DUR
+        <ul>
+            <li>トルコ</li>
+        </ul>
+    </li>
+    <li>BERHENTI
+        <ul>
+            <li>マレーシア</li>
+            <li>ブルネイ</li>
+        </ul>
+    </li>
+    <li>ALTO
+        <ul>
+            <li>コスタリカ</li>
+            <li>グアテマラ</li>
+            <li>ホンジュラス</li>
+            <li>メキシコ</li>
+            <li>ニカラグア</li>
+            <li>パナマ</li>
+        </ul>
+    </li>
+    <li>PARE
+        <ul>
+            <li>アルゼンチン</li>
+            <li>ボリビア</li>
+            <li>ブラジル</li>
+            <li>チリ</li>
+            <li>コロンビア</li>
+            <li>ドミニカ共和国</li>
+            <li>エクアドル</li>
+            <li>パラグアイ</li>
+            <li>ペルー</li>
+            <li>ウルグアイ</li>
+            <li>ベネズエラ</li>
+            <li>プエルトリコ</li>
+            <li>キューバ：白い三角</li>
+        </ul>
+    </li>
+</ul>
+</div>
+
 ## 北米
 ### メキシコ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677590496729!6m8!1m7!1sguzKDceUbL4CP9SVjuMjuw!2m2!1d19.41769253521242!2d-99.1308136556745!3f234.66166760658533!4f-2.1389103311812505!5f2.875662862705756" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678017840166!6m8!1m7!1sYZ-eHx3a2l3ksFcbAVnJWw!2m2!1d20.68348284742653!2d-103.2989173310077!3f97.60002042762677!4f-1.6758107561434628!5f3.325193203789971" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-{{% ahref "標識 Wikipedia" "https://ja.wikipedia.org/wiki/%E4%B8%80%E6%99%82%E5%81%9C%E6%AD%A2_(%E9%81%93%E8%B7%AF%E6%A8%99%E8%AD%98)" %}}
-</div>
 </div>
 
 ## コロンビア
