@@ -5,20 +5,20 @@ description: "連絡先・プライバシーポリシー"
 type: "docs"
 weight: 1001
 ---
+## プライバシーポリシー
 
-## お問い合わせ
-<script src="https://ssl.form-mailer.jp/formfiles/js/embed.js"></script>
-<div class="formmailer-embed" data-form-hash="167b8369777173" data-form-host="ssl.form-mailer.jp"></div>
-            
-
-## 免責事項
+### 免責事項
 当サイトに掲載されている情報の正確さには万全を期していますが、利用者が当社Webサイトの情報を用いて行う一切の行為に関して、一切の責任を負わないものとします。
 また、利用者が当社Webサイトを利用したことにより生じた利用者の損害及び利用者が第三者に与えた損害に関して、一切の責任を負わないものとします。
 Webサイト内の文章や画像、すべてのコンテンツは著作権・肖像権等により保護されています。無断での使用や転用は禁止されています。
 
-## Googleアナリティクス等について
+### Googleアナリティクス等について
 Googleを含む広告配信事業者は、Cookie を使用して、ユーザーがそのウェブサイトや他のウェブサイトに過去にアクセスした際の情報に基づいて広告を配信しています。
 この目的は、ユーザーがそのサイトや他のサイトにアクセスした際の情報に基づいて、Google やそのパートナーが適切な広告をユーザーに表示するためです。
 Cookieを無効にする設定およびGoogleアドセンスに関する詳細は「広告 – ポリシーと規約 – Google」をご覧ください。また、パーソナライズ広告を無効にする手続きは「広告設定ーGoogle」からお手続きください。なお、パーソナライズ広告に使われる第三者配信事業者の Cookie を無効にする手続きは「www.aboutads.info」から行うことができます。
 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
+### お問い合わせ
+<script src="https://ssl.form-mailer.jp/formfiles/js/embed.js"></script>
+<div class="formmailer-embed" data-form-hash="167b8369777173" data-form-host="ssl.form-mailer.jp"></div>
+            

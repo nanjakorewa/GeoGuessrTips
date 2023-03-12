@@ -4,6 +4,11 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+.blur-item {
+	-ms-filter: blur(10px);
+	filter: blur(10px);
+}
+
 .apply-bg {
   background: rgba(255, 255, 255, .85) !important;
 }
