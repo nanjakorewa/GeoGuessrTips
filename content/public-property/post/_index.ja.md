@@ -8,6 +8,10 @@ keywords: ["郵便"]
 sections: [""]
 ---
 
+{{% notice note %}}
+家の前の郵便受けは<a href="../../architecture/mailbox/">「郵便受け」</a>にメモします。
+{{% /notice %}}
+
 ## 北米
 ### アメリカ
 <div class="googlemap-if">
