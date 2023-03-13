@@ -33,6 +33,18 @@ Ultramarはカナダ東部のガスおよび家庭用燃料の小売業者。
 </div>
 
 ## 南米
+
+### ブラジル
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678703015887!6m8!1m7!1sBXRjwPp8R2dSonLgPyLcfw!2m2!1d-9.97002062645863!2d-39.16281123550002!3f228.84!4f1.1800000000000068!5f1.530426777971106" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ペトロブラスはラテンアメリカにおいて最大の石油採掘会社であり、1日あたりの石油採掘量は、200万バレルを越える。
+{{% ahref "ペトロブラス" "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AD%E3%83%96%E3%83%A9%E3%82%B9" %}}
+</div>
+</div>
+
+
 ### メキシコ
 
 <div class="googlemap-if">

@@ -8,6 +8,14 @@ keywords: ["ポスト", "メールボックス"]
 sections: [""]
 ---
 
+## 北米
+### カナダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678703640824!6m8!1m7!1see7lbH8z6VlP-kyaCpiG1w!2m2!1d53.48965882370678!2d-113.634464100946!3f226.08441967633695!4f-8.080226562909004!5f3.2514918248733777" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 ## ヨーロッパ
 ### デンマーク
 

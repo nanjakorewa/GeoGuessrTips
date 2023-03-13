@@ -20,6 +20,9 @@ bg: "bg/container.jpg"
 
 
 ## コンテナ
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678702125484!6m8!1m7!1sa-I8SjKj8wZ7aYMcuD6zlA!2m2!1d32.79021691153199!2d34.95891049734592!3f200.1381057375247!4f27.915497585237205!5f0.4772553173285183" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677934499048!6m8!1m7!1sluobIU6IEyt0uRgy7uAJLA!2m2!1d35.40461760905954!2d139.6742706059286!3f116.7242762331013!4f0.37961127070565226!5f3.325193203789971" width="590" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{% youtube-desc "U7UFHi5_EHI?start=210" %}}

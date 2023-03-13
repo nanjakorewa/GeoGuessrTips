@@ -17,19 +17,38 @@ sections: [""]
 
 #### カリフォルニア州
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678194160919!6m8!1m7!1s2ijUQV91vzJfE7uzjMyo1Q!2m2!1d32.70881127075334!2d-117.0494162683665!3f351.6290143437317!4f19.164040770905075!5f0.8577124728143808" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678194160919!6m8!1m7!1s2ijUQV91vzJfE7uzjMyo1Q!2m2!1d32.70881127075334!2d-117.0494162683665!3f351.6290143437317!4f19.164040770905075!5f0.8577124728143808" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## 南米
 ### ブラジル
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678451736427!6m8!1m7!1saaM3vMB3l9hcxGlh-Cxohw!2m2!1d-13.17828958976165!2d-43.52488743890432!3f71.53332668194095!4f2.5998424336328867!5f1.7267266020754497" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678451736427!6m8!1m7!1saaM3vMB3l9hcxGlh-Cxohw!2m2!1d-13.17828958976165!2d-43.52488743890432!3f71.53332668194095!4f2.5998424336328867!5f1.7267266020754497" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### メキシコ
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677759929572!6m8!1m7!1s4LYU7TGKAny2nfiWCnhV_w!2m2!1d19.40851458160972!2d-99.12971960743052!3f293.6864603244119!4f23.590141049018115!5f0.7877473206287153" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677483694957!6m8!1m7!1sBJwhTspUJlQW5DFugSpkuA!2m2!1d19.38463130163664!2d-99.11964142312829!3f59.083357162049154!4f54.57512708808733!5f1.1473844403590623" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677483848433!6m8!1m7!1s_8LNrKyXzIVTzKfKDGX7XQ!2m2!1d19.36343998576718!2d-99.34846165852402!3f343.32396093231694!4f14.226734425585136!5f1.6731410423619746" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### チリ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677483924248!6m8!1m7!1spaqKb2gkxSGPwXyBIyEmlA!2m2!1d-35.42585368286345!2d-71.64993353104096!3f119.35305963765015!4f13.840642764910285!5f0.88534038033281" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677483979799!6m8!1m7!1sYUBG6rrI4RHGvmOA4rXvDQ!2m2!1d-35.42623026619013!2d-71.64999735730025!3f157.8406897880646!4f25.664641871810176!5f0.7409358664403095" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677484031305!6m8!1m7!1sv_0jiS7ocWguDJGiN1IwYg!2m2!1d-41.31803388930057!2d-72.98362906617658!3f225.76721515834882!4f12.705353851661059!5f1.140003632543219" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+### ブラジル
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677407993931!6m8!1m7!1s93zWHu9u6WN4pHP9bOweZw!2m2!1d-12.98865894164982!2d-38.52016214550883!3f4.486008176616038!4f27.14588819344405!5f2.707395114717809" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677408050560!6m8!1m7!1s3sWJiB_0cftrVTo045hzWA!2m2!1d-12.98842754274148!2d-38.52120980385298!3f79.73409563458378!4f17.745142153596106!5f3.1778273020668397" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678704300354!6m8!1m7!1spgz8VSJ1leHZ9iJor8-P9w!2m2!1d-8.598406646558377!2d-38.57935295898832!3f204.5985729320339!4f0.03483234372531285!5f2.8737471878729193" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## アジア
@@ -62,7 +81,7 @@ sections: [""]
 ## ヨーロッパ
 ### ルーマニア
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678475273406!6m8!1m7!1sx5ADIit-2OU4icoyzIqqNw!2m2!1d46.45385037654135!2d25.43755994847187!3f41.03613815676085!4f19.15392646260429!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678475273406!6m8!1m7!1sx5ADIit-2OU4icoyzIqqNw!2m2!1d46.45385037654135!2d25.43755994847187!3f41.03613815676085!4f19.15392646260429!5f0.4000000000000002" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### ギリシャ
@@ -79,27 +98,4 @@ sections: [""]
 ### イスラエル
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677904170620!6m8!1m7!1smr7W5e5Wo_wxxpZ1BvmvZA!2m2!1d32.0618049425665!2d34.76706395376619!3f294.76259607397606!4f8.37552819163544!5f0.5802039356351761" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-## 南米
-
-### メキシコ
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677483694957!6m8!1m7!1sBJwhTspUJlQW5DFugSpkuA!2m2!1d19.38463130163664!2d-99.11964142312829!3f59.083357162049154!4f54.57512708808733!5f1.1473844403590623" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677483848433!6m8!1m7!1s_8LNrKyXzIVTzKfKDGX7XQ!2m2!1d19.36343998576718!2d-99.34846165852402!3f343.32396093231694!4f14.226734425585136!5f1.6731410423619746" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-### チリ
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677483924248!6m8!1m7!1spaqKb2gkxSGPwXyBIyEmlA!2m2!1d-35.42585368286345!2d-71.64993353104096!3f119.35305963765015!4f13.840642764910285!5f0.88534038033281" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677483979799!6m8!1m7!1sYUBG6rrI4RHGvmOA4rXvDQ!2m2!1d-35.42623026619013!2d-71.64999735730025!3f157.8406897880646!4f25.664641871810176!5f0.7409358664403095" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677484031305!6m8!1m7!1sv_0jiS7ocWguDJGiN1IwYg!2m2!1d-41.31803388930057!2d-72.98362906617658!3f225.76721515834882!4f12.705353851661059!5f1.140003632543219" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-### ブラジル
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677407993931!6m8!1m7!1s93zWHu9u6WN4pHP9bOweZw!2m2!1d-12.98865894164982!2d-38.52016214550883!3f4.486008176616038!4f27.14588819344405!5f2.707395114717809" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677408050560!6m8!1m7!1s3sWJiB_0cftrVTo045hzWA!2m2!1d-12.98842754274148!2d-38.52120980385298!3f79.73409563458378!4f17.745142153596106!5f3.1778273020668397" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
