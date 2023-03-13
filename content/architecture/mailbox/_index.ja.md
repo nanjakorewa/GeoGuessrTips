@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["ポスト", "メールボックス"]
 sections: [""]
+bg: "bg/mailbox.jpg"
 ---
 
 ## 北米

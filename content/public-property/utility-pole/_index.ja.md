@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: ["ポール", "電線"]
 sections: [""]
+bg: "bg/up.jpg"
 ---
 
 ## 北米
