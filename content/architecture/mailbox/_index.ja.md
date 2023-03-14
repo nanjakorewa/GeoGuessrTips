@@ -18,6 +18,13 @@ bg: "bg/mailbox.jpg"
 
 
 ## ヨーロッパ
+### フィンランド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678796446546!6m8!1m7!1sTYY_6Kg-JFMKmI39sOMQFw!2m2!1d62.5993058489174!2d29.83295553053044!3f117.95691324192228!4f-21.74142845956169!5f1.7390853202168377" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 ### デンマーク
 
 <div class="googlemap-if">

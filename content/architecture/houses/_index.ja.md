@@ -36,6 +36,16 @@ sections: [""]
 </div>
 
 ## アフリカ
+
+### セネガル
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678795305875!6m8!1m7!1s2RyaX49DVY1aaKV6Y-aT3w!2m2!1d14.13973742263772!2d-15.80403875229427!3f155.35554360779884!4f-2.9031370799852!5f1.3885373026988062" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+セネガルはフランス領時代の遺物やさまざまな自然公園がある、アフリカの西海岸に位置する国です。首都ダカールでは、旧市街メディナや、アフリカのアートを展示しているテオドール モノ アフリカ美術博物館があります。ダカールはまた、現地のンバラ音楽を中心とするナイトスポットでも知られています。かつてフランス領西アフリカの首都だったサンルイには、植民地時代の建物が並ぶ旧市街があります。
+</div>
+</div>
+
 ### ガーナ
 
 <div class="googlemap-if">

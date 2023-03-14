@@ -11,6 +11,7 @@ sections: [""]
 ## 各国のヒント
 - [GeoTips](https://geotips.net/)
 - [GetHints](https://geohints.com/)
+- [Plonk It](https://www.plonkit.net/)
 
 ## 翻訳
 - [Interactive European language map: how does everyone say cat?](https://www.theguardian.com/news/datablog/interactive/2014/jan/15/interactive-european-language-map)
