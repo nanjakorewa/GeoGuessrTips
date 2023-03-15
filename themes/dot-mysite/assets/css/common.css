@@ -4,6 +4,19 @@ body {
     font-family: 'M PLUS 1p', sans-serif;
 }
 
+body::-webkit-scrollbar {
+  width: 10px;
+}
+
+body::-webkit-scrollbar-thumb {
+  background: linear-gradient(0deg,#e4e4e4,#aaacad);
+  border-radius: 4px;
+}
+
+body::-webkit-scrollbar-track {
+  background: rgb(25,24,42,1.0);
+}
+
 .blur-item {
 	-ms-filter: blur(10px);
 	filter: blur(10px);
