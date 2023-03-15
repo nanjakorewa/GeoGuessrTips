@@ -52,7 +52,7 @@ bg: "bg/tf.jpg"
             <li>パナマ</li>
         </ul>
     </li>
-    <li>PARE
+    <li>PARE(スペイン語)
         <ul>
             <li>アルゼンチン</li>
             <li>ボリビア</li>

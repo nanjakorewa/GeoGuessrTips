@@ -87,6 +87,14 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 </div>
 
 ## ヨーロッパ
+
+### トルコ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678880747769!6m8!1m7!1sirmncSvX1a9SHpxF-0WIBg!2m2!1d41.04934897752926!2d29.0765282567033!3f107.64457383975335!4f1.4063985487040753!5f0.9636756255403175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 ### イギリス
 
 <div class="googlemap-if">
