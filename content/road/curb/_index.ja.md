@@ -16,6 +16,12 @@ sections: [""]
 </div>
 
 ## オセアニア
+### マレーシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678982102995!6m8!1m7!1sSWzvX-HEgjmxUa3s3lOhSA!2m2!1d4.584497761922738!2d101.089424990198!3f43.5691182714932!4f-13.340862379883617!5f3.1927166366301285" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### インドネシア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409059457!6m8!1m7!1scdQImoXZMPtZb3IkBlfd6g!2m2!1d-5.136744719452558!2d119.4391749107647!3f2.605017825440939!4f-21.634927120503434!5f2.302769238395383" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

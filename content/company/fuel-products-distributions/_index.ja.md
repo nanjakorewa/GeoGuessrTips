@@ -149,6 +149,9 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 </div>
 </div>
 
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678979989544!6m8!1m7!1sbH3LNi2cRzPJMLsCu0ihMg!2m2!1d16.42958844987766!2d102.8419797897319!3f303.6145103687496!4f1.8759614341229707!5f2.6483313932529993" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### マレーシア
 
