@@ -12,6 +12,14 @@ bg: "bg/city.jpg"
 
 <div class="googlemap-if">
 
-<img src="2023-03-18-01-05-33.png">
-https://commons.wikimedia.org/wiki/File:Map_of_Italy_CAP.png
+<div class="description imgs">
+<img src="2023-03-18-01-05-33.png" style="max-height: 250px !important;" />
+</div>
+
+<div class="description">
+
+{{% ahref "出典" "https://commons.wikimedia.org/wiki/File:Map_of_Italy_CAP.png" %}}
+</div>
+
+
 </div>

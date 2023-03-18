@@ -890,3 +890,16 @@ pre code::-webkit-scrollbar-thumb {
 .code-tabs .nav-tabs .nav-item.active .nav-link {
   color: var(--white-color);
 }
+
+.blurtext {
+  filter: blur(10px);
+}
+
+div#option-area {
+  margin: 1em;
+}
+
+.iframe-blur {
+  -webkit-mask-image: linear-gradient(to bottom, transparent 15%, black 30%);
+  mask-image: linear-gradient(to bottom, transparent 15%, black 30%);
+}

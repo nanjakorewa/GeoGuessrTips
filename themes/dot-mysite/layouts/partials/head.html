@@ -85,6 +85,9 @@
 {{ "<!-- match-height JS -->" | safeHTML }}
 <script src="{{ `plugins/match-height/jquery.matchHeight-min.js` | absURL }}"></script>
 
+{{ "<!-- custom JS -->" | safeHTML }}
+<script defer src="{{ `custom.js` | absURL }}"></script>
+
 {{ template "_internal/google_analytics.html" . }}
 
 <!-- Google tag (gtag.js) -->
