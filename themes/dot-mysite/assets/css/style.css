@@ -892,7 +892,21 @@ pre code::-webkit-scrollbar-thumb {
 }
 
 .blurtext {
-  filter: blur(10px);
+  filter: blur(12px);
+}
+.blurtext::after {
+  content: "アイ亜ウエオ居マ";
+  filter: blur(12px);
+}
+
+.blurtext:hover {
+  filter: blur(0px);
+  transition-duration: 1.5s;
+}
+
+.blurtext:hover::after {
+  transition-duration: 1.5s;
+  opacity: 0;
 }
 
 div#option-area {
