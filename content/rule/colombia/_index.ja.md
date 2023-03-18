@@ -9,6 +9,17 @@ sections: [""]
 bg: "bg/city.jpg"
 ---
 
+<div class="main-desciption">
+    <h2 class="section-title">国判定のルール</h2>
+    <ul class="rule-list">
+        <li>コロンビアのGoogleCarには<span class="quiz">黒い太目のアンテナ</span>がついている時とついていない時がある</li>
+        <li>路側帯は<span class="quiz">白</span>で、中央線は<span class="quiz">黄色</span></li>
+        <li>標識の棒は<span class="quiz">細く白い素材</span>で、看板の背面には<span class="quiz">白色か灰色のクロス</span>が存在する</li>
+        <li>ナンバープレートは<span class="quiz">黄色</span></li>
+        <li>タクシーとトラックの屋根または側面にサイドプレートがあり、<span class="quiz">ナンバーと都市名</span>が書いてある</li>
+        <li>ドメインは<span class="quiz">.co</span></li>
+    </ul>
+</div>
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138121122!6m8!1m7!1s8SXbik_yGaQLNRhtJ09C9w!2m2!1d3.409759690878096!2d-76.34769438237707!3f257.9149055646081!4f-17.67114175853544!5f3.310312940442755" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

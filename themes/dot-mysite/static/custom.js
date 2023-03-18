@@ -140,6 +140,7 @@ window.addEventListener("load", function() {
         addClassToTag('h3', 'blurtext');
         addClassToTag('h4', 'blurtext');
         addClassToTag('iframe', 'iframe-blur');
+        removeClassToClassName('section-title', 'blurtext');
     } else {
         blurCheckbox.checked = false;
         removeClassToTag('h2', 'blurtext');
@@ -155,6 +156,7 @@ window.addEventListener("load", function() {
             addClassToTag('h3', 'blurtext');
             addClassToTag('h4', 'blurtext');
             addClassToTag('iframe', 'iframe-blur');
+            removeClassToClassName('section-title', 'blurtext');
         } else {
             removeClassToTag('h2', 'blurtext');
             removeClassToTag('h3', 'blurtext');
@@ -173,17 +175,21 @@ window.addEventListener("load", function() {
     if (isBlurOn === 'true') {
         blurCheckbox.checked = true;
         addClassToClassName('description', 'blurtext');
+        addClassToTag('span', 'blurtext-2');
     } else {
         blurCheckbox.checked = false;
         removeClassToClassName('description', 'blurtext');
+        removeClassToTag('span', 'blurtext-2');
     }
 
     blurCheckbox.addEventListener('change', function () {
         const isBlurOn = this.checked;
         if (isBlurOn) {
             addClassToClassName('description', 'blurtext');
+            addClassToTag('span', 'blurtext-2');
         } else {
             removeClassToClassName('description', 'blurtext');
+            removeClassToTag('span', 'blurtext-2');
         }
         localStorage.setItem('isBlurOn', isBlurOn);
     });

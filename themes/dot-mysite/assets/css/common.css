@@ -337,3 +337,15 @@ div.footer-fontsize-area {
   margin-top: 1em;
   font-size: 0.9em;
 }
+
+div.main-desciption {
+  margin: 1em;
+  padding: 1em;
+  border-radius: 0.5em;
+  background-color: #ededed;
+}
+
+ul.rule-list {
+  margin: 1em;
+  font-size: 1em;
+}

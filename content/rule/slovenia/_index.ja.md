@@ -10,7 +10,6 @@ bg: "bg/city.jpg"
 ---
 
 
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138698818!6m8!1m7!1s5TF50NN4dniiW4LDAjxgKg!2m2!1d45.55123096653612!2d13.78689096120676!3f358.21382432947024!4f-35.472167997849745!5f2.8532137686573105" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138434405!6m8!1m7!1sglGGvMTeCilnueqYr3bzDw!2m2!1d46.35110703655155!2d14.07708752877551!3f216.71559561158904!4f-5.129340362536212!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
