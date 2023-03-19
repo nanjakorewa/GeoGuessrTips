@@ -10,6 +10,14 @@ bg: "bg/city.jpg"
 ---
 
 
+<div class="main-desciption">
+    <h2 class="section-title">国判定のルール</h2>
+    <ul class="rule-list">
+        <li><span class="quiz">イギリスと同じく左側</span>通行</li>
+        <li>ナンバープレートは<span class="quiz">左側が赤色</span></li>
+        <li>ドメインは<span class="quiz">.im</span></li>
+    </ul>
+</div>
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138991147!6m8!1m7!1siUhod7cCOn5wmNiw_Jsknw!2m2!1d54.15647045019842!2d-4.488897953286526!3f352.13765715083855!4f-24.417657922667786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
