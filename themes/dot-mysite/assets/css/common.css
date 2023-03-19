@@ -78,7 +78,7 @@ div.main-description li ul {
 
 div.googlemap-if {
   width: 100% !important;
-  ka justify-content: center;
+  justify-content: center;
   display: flex;
   flex-wrap: wrap;
 }
