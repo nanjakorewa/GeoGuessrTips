@@ -4,6 +4,19 @@
     <div class="row">
       <div class="col-lg-3">
         <div class="sidebar apply-bg">
+
+          <div id="option-area">
+            <p><b>{{ i18n "display_setting" | safeHTML }}</b></p>
+            <p>
+              <input type="checkbox" id="blur-checkbox">
+              <label for="blur-checkbox">{{ i18n "display_setting_cnt" | safeHTML }}</label>
+            </p>
+            <p>
+              <input type="checkbox" id="blur-text-checkbox">
+              <label for="blur-text-checkbox">{{ i18n "display_setting_desc" | safeHTML }}</label>
+            </p>
+          </div>
+
           <ul class="list-styled">
             {{ $currentNode := . }}
             <a class="back-btn" href="{{ .Site.BaseURL | relLangURL }}"></a>
@@ -13,18 +26,6 @@
               {{ end }}
             {{ end }}
           </ul>
-
-          <div id="option-area">
-            <p><b>表示設定</b></p>
-            <p>
-              <input type="checkbox" id="blur-checkbox">
-              <label for="blur-checkbox">地域・国名をぼかす</label>
-            </p>
-            <p>
-              <input type="checkbox" id="blur-text-checkbox">
-              <label for="blur-text-checkbox">説明をぼかす</label>
-            </p>
-          </div>
         </div>
       </div>
 

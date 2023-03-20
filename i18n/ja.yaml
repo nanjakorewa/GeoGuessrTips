@@ -1,2 +1,8 @@
 - id: topics_title
   translation: ページ一覧
+- id: display_setting
+  translation: 表示設定
+- id: display_setting_cnt
+  translation: 地域・国名をぼかす
+- id: display_setting_desc
+  translation: 説明をぼかす
