@@ -20,3 +20,12 @@ bg: "bg/hotel.jpg"
 {{% ahref "Investor Relations | Marriott International" "https://marriott.gcs-web.com/" %}}
 </div>
 </div>
+
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679316860964!6m8!1m7!1sQ3i-2Edu9RfpoWBHHPd6-w!2m2!1d27.94681851138437!2d-82.45786477723004!3f227.63872262640854!4f13.037866880675978!5f0.6190440471642971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Hilton Worldwide Holdings Inc. (HLT)" "https://finance.yahoo.com/quote/HLT/" %}}
+</div>
+</div>

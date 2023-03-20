@@ -358,3 +358,7 @@ div.dropdown-menu > a.dropdown-link-item {
 a.nav-link:hover {
   color: #ffca2c !important;
 }
+
+div.unclickable {
+  pointer-events: none;
+}

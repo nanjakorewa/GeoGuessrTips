@@ -18,6 +18,15 @@ bg: "bg/tree.jpg"
 </div>
 </div>
 
+
+## アジア
+
+### バングラディシュ
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679316439962!6m8!1m7!1sdmYvG2XkifNSiDi7PAQ0Mw!2m2!1d23.38225915977607!2d90.21923277387768!3f1.1454390496104359!4f-7.479103567159129!5f0.7588358809536506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679316595416!6m8!1m7!1s3pvjovCXZjh_ESZuho9fdw!2m2!1d22.79843207019814!2d89.76526275749954!3f58.94419063637571!4f0.9514579891484374!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## オセアニア
 
 ### オーストラリア

@@ -33,6 +33,11 @@
           <h1 class="mb-5">{{ .Title }}</h1>
           {{ if .Content }}
           {{ partial "share" . }}
+
+          {{ if .Params.flag }}
+          {{ $flag_path := print "flags/" .Params.flag }}
+          <div class="content unclickable"><img src="{{ $flag_path | absURL }}" /></div>
+          {{ end }}
           <div class="content">{{.Content}}</div>
           {{ else }}
           <div class="bg-light p-4">
