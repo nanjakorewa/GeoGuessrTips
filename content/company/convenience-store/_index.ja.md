@@ -19,6 +19,16 @@ sections: [""]
 </div>
 </div>
 
+### SPAR
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679344598364!6m8!1m7!1sksoNxDxOgE1x6k6PhqdZzA!2m2!1d52.35462369937679!2d4.950458885723939!3f217.14070785148394!4f1.6583733925224209!5f1.0291534187334155" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="description">
+SPARの本社はアムステルダムにあり、ヨーロッパのほとんどの国だけでなく、アジア、アフリカ、オセアニアにも進出している。
+ {{% ahref "SPAR" "https://en.wikipedia.org/wiki/Spar_(retailer)" %}}
+</div>
+</div>
+
 ### セブンイレブン
 
 <div class="googlemap-if">

@@ -1,0 +1,31 @@
+---
+title: "ブラジル"
+date: 2023-02-26
+lastmod: 2023-02-26
+weight: 1
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "BR.png"
+---
+
+<div class="main-desciption">
+    <h2 class="section-title">国判定のルール</h2>
+    <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.br</span></li>
+    </ul>
+</div>
+
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345629548!6m8!1m7!1syoDx9M6ChX3eRjwCBaD6oQ!2m2!1d-23.54380237546741!2d-46.64851786115438!3f192.00678710870207!4f8.10194060615342!5f1.3206394100668946" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345555292!6m8!1m7!1sRCX-AjIP6mALMZEXJxOjyw!2m2!1d-23.51248882433141!2d-46.4333177309273!3f119.28300192646884!4f-3.503916504146261!5f3.2981730514139986" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345668084!6m8!1m7!1sItSZMS5bn8SVwviKmCCTog!2m2!1d-23.54380986713103!2d-46.6481307890063!3f135.1041007691992!4f-21.196527222411703!5f2.743654931774224" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679346398289!6m8!1m7!1sxNACA2DxVTxFWRXLNevw6Q!2m2!1d-23.64273615107642!2d-46.73722452008128!3f265.21915958244955!4f-6.108065482019114!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345878164!6m8!1m7!1sFyuf6Y3l37-k9IDTZv2MHA!2m2!1d-23.40838542544481!2d-47.28510953738978!3f255.56022387205553!4f-4.885981234752805!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679346281332!6m8!1m7!1sljLmOPodH_kyNI2rzjnC0A!2m2!1d-12.48580994913519!2d-55.68068354862751!3f54.859726474329456!4f-7.921535112165444!5f3.0982113734503045" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

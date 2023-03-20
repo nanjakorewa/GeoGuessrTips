@@ -25,6 +25,8 @@ bg: "bg/up.jpg"
 ### ブラジル
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678451736427!6m8!1m7!1saaM3vMB3l9hcxGlh-Cxohw!2m2!1d-13.17828958976165!2d-43.52488743890432!3f71.53332668194095!4f2.5998424336328867!5f1.7267266020754497" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345225338!6m8!1m7!1skHowmtAeIcUwdrUHKOmN-w!2m2!1d-23.64251557268115!2d-46.73839379099812!3f309.2149067601107!4f-1.379345500648327!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345284827!6m8!1m7!1sRM7UxgXoCIoSkGzlJaTAxg!2m2!1d-23.51000330851243!2d-46.43516608233779!3f131.77794523227942!4f-9.571047659872221!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### メキシコ

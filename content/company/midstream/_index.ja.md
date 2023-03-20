@@ -1,5 +1,5 @@
 ---
-title: "パイプライン・ミッドストリーム"
+title: "石油探索・ミッドストリーム"
 date: 2023-02-26
 lastmod: 2023-02-26
 weight: 1
@@ -22,4 +22,12 @@ bg: "bg/pipeline.jpg"
 {{% ahref "Investors - Pembina Pipeline" "https://www.pembina.com/investors/" %}}
 {{% ahref "画像の出典(Wikipedia)" "https://en.wikipedia.org/wiki/Pembina_Pipeline#/media/File:This_Is_Oil_Country_..._;-)_(11342951765).jpg" %}}
 </div>
+</div>
+
+## ヨーロッパ
+
+### ノルウェー
+<div class="googlemap-if">
+
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679347648271!6m8!1m7!1sn_JMxQ5lYh3d0tib8DKcuA!2m2!1d60.2975806336154!2d5.286702903069514!3f203.23945497724813!4f1.2874910162939415!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

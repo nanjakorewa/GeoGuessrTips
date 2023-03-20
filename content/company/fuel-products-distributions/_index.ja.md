@@ -44,6 +44,14 @@ Ultramarはカナダ東部のガスおよび家庭用燃料の小売業者。
 </div>
 </div>
 
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679345353451!6m8!1m7!1sIHszdRnNb4dN7ES6HzojLg!2m2!1d-23.51224448446622!2d-46.43348352024394!3f186.4394432660616!4f17.446282658024572!5f2.762273543789324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+Ipirangaはブラジルの燃料会社で、Ultraの子会社。
+{{% ahref "Ipiranga (company)" "https://en.wikipedia.org/wiki/Ipiranga_(company)" %}}
+</div>
+</div>
+
 
 ### メキシコ
 
