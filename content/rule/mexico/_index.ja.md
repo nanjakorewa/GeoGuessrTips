@@ -7,7 +7,15 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
+flag: "MX.png"
 ---
+
+<div class="main-desciption">
+    <h2 class="section-title">国判定のルール</h2>
+    <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.mx</span></li>
+    </ul>
+</div>
 
 
 
