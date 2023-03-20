@@ -132,8 +132,11 @@ function removeClassToClassName(targetClass, classname) {
 
 window.addEventListener("load", function() {
     const blurCheckbox = document.querySelector('#blur-checkbox');
-    console.log("tested", blurCheckbox);
     const isBlurOn = localStorage.getItem('isBlurOn');
+    if (!blurCheckbox) {
+        return;
+    }
+
     if (isBlurOn === 'true') {
         blurCheckbox.checked = true;
         addClassToTag('h2', 'blurtext');
@@ -157,7 +160,7 @@ window.addEventListener("load", function() {
             addClassToTag('h4', 'blurtext');
             addClassToTag('iframe', 'iframe-blur');
             removeClassToClassName('section-title', 'blurtext');
-        } else {
+        } else{
             removeClassToTag('h2', 'blurtext');
             removeClassToTag('h3', 'blurtext');
             removeClassToTag('h4', 'blurtext');
@@ -170,8 +173,11 @@ window.addEventListener("load", function() {
 
 window.addEventListener("load", function() {
     const blurCheckbox = document.querySelector('#blur-text-checkbox');
-    console.log("tested", blurCheckbox);
     const isBlurOn = localStorage.getItem('isBlurOn');
+    if (!blurCheckbox) {
+        return;
+    }
+
     if (isBlurOn === 'true') {
         blurCheckbox.checked = true;
         addClassToClassName('description', 'blurtext');

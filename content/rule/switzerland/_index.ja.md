@@ -13,6 +13,7 @@ bg: "bg/city.jpg"
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>カメラの位置が<span class="quiz">低い！</span></li>
+        <li>ボラードの色は<span class="quiz">白色で、黒いラインが入っている</span></li>
         <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語(by supercat6_9)</li>
     </ul>
 </div>

@@ -350,3 +350,11 @@ ul.rule-list {
   margin: 1em;
   font-size: 1em;
 }
+
+div.dropdown-menu > a.dropdown-link-item {
+  color: #000 !important;
+}
+
+a.nav-link:hover {
+  color: #ffca2c !important;
+}

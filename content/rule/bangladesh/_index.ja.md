@@ -12,8 +12,8 @@ bg: "bg/city.jpg"
 <div class="main-desciption">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
-        <li>バングラディシュのGoogleCarには<span class="quiz">なんかわかりやすい</span></li>
-        <li>インドとバングラディシュの大手通信会社は<span class="quiz">airtel</span></li>
+        <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span></li>
+        <li>インドとバングラディシュの大手通信会社は<span class="quiz">airtel（インドとアフリカに展開している）</span></li>
     </ul>
 </div>
 

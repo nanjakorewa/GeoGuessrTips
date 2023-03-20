@@ -81,33 +81,76 @@ enable = true
 label = "contact us"
 link = "contact"
 
-
-################## japanese navigation #################
+# navigation
 [[Languages.ja.menu.main]]
 name = "トップに戻る"
 url = "/"
 weight = 1
 
-# Dropdown menu
-# [[Languages.ja.menu.main]]
-# weight = 4
-# name = "docs"
-# hasChildren = true
-# 
-#   [[Languages.ja.menu.main]]
-#   parent = "docs"
-#   name = "Installation"
-#   url = "installation"
-#   weight = 1
-# 
-#   [[Languages.ja.menu.main]]
-#   parent = "docs"
-#   name = "Billing and Pricing"
-#   url = "billing-pricing"
-#   weight = 2
-# 
-#   [[Languages.ja.menu.main]]
-#   parent = "docs"
-#   name = "Features"
-#   url = "features"
-#   weight = 3
+# dropdown menu
+[[Languages.ja.menu.main]]
+weight = 4
+name = "メニュー"
+hasChildren = true
+
+  [[Languages.ja.menu.main]]
+  parent = "メニュー"
+  name = "国の判定"
+  url = "rule"
+  weight = 1
+
+  [[Languages.ja.menu.main]]
+  parent = "メニュー"
+  name = "言語"
+  url = "text"
+  weight = 2
+
+
+
+################################ English Language ######################
+[Languages.en]
+languageName = "en"
+languageCode = "en-US"
+weight = 1
+copyright = "GeoGuessrプレイ時のブックマーク整理用のリポジトリです。<a href='https://www.geoguessr.com/'><b>GeoGuessr</b></a>で下りた地点付近のヒントになるかもしれないものをメモしたページです。記載されている会社名・商品・製品・サービス名（ロゴマーク等）は、各社の商標または各権利者の登録商標です。</br>©2023 nanenkorewa. | <a href='https://geopinning.space/about/'>Privacy Policy</a>"
+
+# banner
+[Languages.en.params.banner]
+title = ""
+subtitle = ""
+placeholder = "検索ワードを入力してください。"
+
+# call to action
+[Languages.en.params.cta]
+enable = true
+title = "Didn't find an answer to your question?"
+content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+# call to action button
+[Languages.en.params.cta.button]
+enable = true
+label = "contact us"
+link = "contact"
+
+# navigation
+[[Languages.en.menu.main]]
+name = "トップに戻る"
+url = "/"
+weight = 1
+
+# dropdown menu
+[[Languages.en.menu.main]]
+weight = 4
+name = "メニュー"
+hasChildren = true
+
+  [[Languages.en.menu.main]]
+  parent = "メニュー"
+  name = "国の判定"
+  url = "rule"
+  weight = 1
+
+  [[Languages.en.menu.main]]
+  parent = "メニュー"
+  name = "言語"
+  url = "text"
+  weight = 2
