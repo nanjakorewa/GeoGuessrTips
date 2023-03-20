@@ -36,7 +36,11 @@
 
           {{ if .Params.flag }}
           {{ $flag_path := print "flags/" .Params.flag }}
-          <div class="content unclickable"><img src="{{ $flag_path | absURL }}" /></div>
+            {{ if (eq .Page.Lang "ja" )}}
+            <div class="content unclickable"><img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" /></div>
+            {{ else }}
+            <div class="content unclickable"><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" /></div>
+            {{ end }}
           {{ end }}
           <div class="content">{{.Content}}</div>
           {{ else }}
