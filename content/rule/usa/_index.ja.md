@@ -14,6 +14,8 @@ flag: "US.png"
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
+        <li>ナンバープレートが<span class="quiz">前後に付いているかどうかで</span>地域を絞り込める</li>
+        <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
     </ul>
 </div>
 
