@@ -14,6 +14,7 @@ flag: "MY.png"
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.my</span></li>
+        <li>マレー語で「<span class="quiz">di</span>」は場所や方向を示す前置詞</li>
     </ul>
 </div>
 
