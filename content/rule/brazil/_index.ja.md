@@ -13,6 +13,7 @@ flag: "BR.png"
 <div class="main-desciption">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
+        <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>ドメインは<span class="quiz">.br</span></li>
     </ul>
 </div>
@@ -28,4 +29,5 @@ flag: "BR.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345878164!6m8!1m7!1sFyuf6Y3l37-k9IDTZv2MHA!2m2!1d-23.40838542544481!2d-47.28510953738978!3f255.56022387205553!4f-4.885981234752805!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346281332!6m8!1m7!1sljLmOPodH_kyNI2rzjnC0A!2m2!1d-12.48580994913519!2d-55.68068354862751!3f54.859726474329456!4f-7.921535112165444!5f3.0982113734503045" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679380170608!6m8!1m7!1sAYtt3IP648Vi5g_NEuFhBA!2m2!1d-3.974791767668313!2d-60.53822827895701!3f140.31076529019026!4f-17.67432116537232!5f3.2647986142842362" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
