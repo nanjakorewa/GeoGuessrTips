@@ -13,8 +13,6 @@ flag: "DE.png"
 <div class="main-desciption">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
-        <li>GoogleCarは<span class="quiz">画面に映っていない</span></li>
-        <li>ボラードは<span class="quiz">白と黒</span></li>
         <li>ドメインは<span class="quiz">.de</span></li>
     </ul>
 </div>
