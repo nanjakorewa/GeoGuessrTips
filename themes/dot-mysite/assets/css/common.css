@@ -362,3 +362,7 @@ a.nav-link:hover {
 div.unclickable {
   pointer-events: none;
 }
+
+li.sidelist > a {
+  margin-left: 0;
+}
