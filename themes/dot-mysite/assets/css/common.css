@@ -366,3 +366,7 @@ div.unclickable {
 li.sidelist > a {
   margin-left: 0;
 }
+
+a.hinttext {
+  font-size: 0.8em;
+}

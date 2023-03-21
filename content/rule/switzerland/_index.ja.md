@@ -14,8 +14,8 @@ flag: "CH.png"
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>カメラの位置が<span class="quiz">低い！</span></li>
-        <li>ボラードの色は<span class="quiz">白色で、黒いラインが入っている</span></li>
-        <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語(by supercat6_9)</li>
+        <li>ボラードの色は<span class="quiz">白色で、黒いラインが入っている</span>{{% by %}}</li>
+        <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語 {{% by "supercat6_9" "twitch" %}}</li>
         <li>ドメインは<span class="quiz">.ch</span></li>
     </ul>
 </div>

@@ -1,0 +1,6 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ if eq (.Get 1) "twitch"}}
+<a href="https://www.twitch.tv/{{ .Get 0 }}" class="hinttext by-twitch">(by {{ .Get 0 }} <i class="fab fa-twitch"></i>)</a>
+{{ else }}
+<a href="https://geotips.net/" class="hinttext by-geotips">(by Geotips <i class="fas fa-map-marker-alt"></i>)</a>
+{{ end }}

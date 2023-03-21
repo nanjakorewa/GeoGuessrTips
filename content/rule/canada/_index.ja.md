@@ -13,7 +13,7 @@ flag: "CA.png"
 <div class="main-desciption">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
-        <li>速度表記は<span class="quiz">MAXIMUM</span></li>
+        <li>速度制限の表記は<span class="quiz">MAXIMUM</span></li>
         <li>ドメインは<span class="quiz">.ca</span></li>
     </ul>
 </div>
