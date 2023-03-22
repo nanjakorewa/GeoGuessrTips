@@ -8,3 +8,14 @@
   translation: 説明をぼかす
 - id: display_setting_noevidence
   translation: 不明なルールを隠す
+- id: comment_title
+  translation: コメント欄
+- id: comment_name
+  translation: 名前
+- id: comment_submit
+  translation: コメントを送信する
+- id: comment_notice
+  translation: ※コメントは承認後に表示されます。個人情報は入力しないようにお願いします。
+- id: comment_complete
+  translation: コメントありがとうございます。承認後、コメントが表示されます。
+
