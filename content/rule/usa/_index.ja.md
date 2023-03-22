@@ -16,12 +16,14 @@ flag: "US.png"
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>
         <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
+        <li>WM＝アメリカのゴミ収集の大手、Waste Management</li>
     </ul>
 </div>
 
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679240727926!6m8!1m7!1s6uwzeZk5P3pMHUYe6pLISg!2m2!1d40.75495885181875!2d-73.87389526231001!3f351.5654380718625!4f-13.358760228294258!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption">

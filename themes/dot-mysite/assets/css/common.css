@@ -489,3 +489,9 @@ p#comment-notice {
 pre.comment {
   font-family: 'M PLUS 1p', sans-serif;
 }
+
+textarea#commentTextArea {
+  width: 95%;
+  max-width: 90%;
+  resize: vertical;
+}
