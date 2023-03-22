@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "BD.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span></li>

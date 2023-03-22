@@ -10,17 +10,18 @@ bg: "bg/city.jpg"
 flag: "CA.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>速度制限の表記は<span class="quiz">MAXIMUM</span></li>
+        <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>
         <li>ドメインは<span class="quiz">.ca</span></li>
     </ul>
 </div>
 
 
 <div class="main-desciption">
-    <h2 class="section-title">州判定のルール</h2>
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
     </ul>

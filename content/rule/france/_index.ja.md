@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "FR.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>

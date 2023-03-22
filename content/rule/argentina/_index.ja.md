@@ -10,10 +10,12 @@ bg: "bg/city.jpg"
 flag: "AR.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ar</span></li>
+        <li>ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span></li>
+        <li>ガソリンスタンドに<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス、青色のロゴでアルゼンチンの国有石油会社）</span>のものがある</li>
     </ul>
 </div>
 

@@ -36,3 +36,12 @@ bg: "bg/mailbox.jpg"
 {{% ahref "北欧デンマークのデザインポスト　Allux" "https://www.connect-d.com/blog/archives/12159" %}}
 </div>
 </div>
+
+
+## アジア
+### タイ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679483117864!6m8!1m7!1snIyHHYz8nIMlqXrsF8MlWw!2m2!1d18.80938741814783!2d98.98035012812706!3f112.08656825142937!4f-15.008017535977785!5f3.1908768845567" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+

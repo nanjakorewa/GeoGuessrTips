@@ -10,11 +10,12 @@ bg: "bg/city.jpg"
 flag: "ID.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>ナンバープレートに<span class="quiz">黒い</span>ものがある</li>
+        <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
     </ul>
 </div>
 

@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "PH.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>

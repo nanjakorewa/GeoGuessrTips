@@ -1,7 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=M+PLUS+1p);
 
 body {
-    font-family: 'M PLUS 1p', sans-serif;
+  font-family: 'M PLUS 1p', sans-serif;
 }
 
 body::-webkit-scrollbar {
@@ -9,17 +9,17 @@ body::-webkit-scrollbar {
 }
 
 body::-webkit-scrollbar-thumb {
-  background: linear-gradient(0deg,#e4e4e4,#aaacad);
+  background: linear-gradient(0deg, #e4e4e4, #aaacad);
   border-radius: 4px;
 }
 
 body::-webkit-scrollbar-track {
-  background: rgb(25,24,42,1.0);
+  background: rgb(25, 24, 42, 1.0);
 }
 
 .blur-item {
-	-ms-filter: blur(10px);
-	filter: blur(10px);
+  -ms-filter: blur(10px);
+  filter: blur(10px);
 }
 
 .apply-bg {
@@ -28,11 +28,11 @@ body::-webkit-scrollbar-track {
 
 nav.navbar {
   background-color: #19182a;
-  color:#fff;
+  color: #fff;
 }
 
 nav.navbar a {
-  color:#fff !important;
+  color: #fff !important;
 }
 
 footer.section div.container {
@@ -323,7 +323,7 @@ div.linklist a.linktype-amazon:after {
   position: absolute;
   display: flex;
   justify-content:
-  flex-end; 
+    flex-end;
 }
 
 h1.mb-5 {
@@ -351,7 +351,7 @@ ul.rule-list {
   font-size: 1em;
 }
 
-div.dropdown-menu > a.dropdown-link-item {
+div.dropdown-menu>a.dropdown-link-item {
   color: #000 !important;
 }
 
@@ -363,10 +363,97 @@ div.unclickable {
   pointer-events: none;
 }
 
-li.sidelist > a {
+li.sidelist>a {
   margin-left: 0;
 }
 
 a.hinttext {
   font-size: 0.8em;
+}
+
+ul.rule-list li {
+  margin-bottom: 10px;
+}
+
+ul.rule-list li i {
+  margin-bottom: 0px;
+}
+
+.content ul.rule-list li.no-evidence {
+  list-style: none;
+}
+
+.content ul.rule-list li.no-evidence::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f059";
+  background: rgb(0, 0, 0, 0);
+  margin-top: 0;
+  top: 0em;
+}
+
+a.by-twitch {
+  color: #59005c;
+}
+
+.hide-element {
+  display: none !important;
+}
+
+.blurtext {
+  filter: blur(12px);
+}
+
+.blurtext::after {
+  content: "アイ亜ウエオ居マ";
+  filter: blur(12px);
+}
+
+.blurtext:hover {
+  filter: blur(0px);
+  transition-duration: 1.5s;
+}
+
+.blurtext:hover::after {
+  transition-duration: 1.5s;
+  opacity: 0;
+}
+
+.blurtext-2 {
+  filter: blur(5px);
+}
+
+.blurtext-2::after, .blurtext-2::before {
+  content: "亜";
+  filter: blur(5px);
+}
+
+.blurtext-2:hover {
+  filter: blur(0px);
+  color: #740804;
+  font-weight: bold;
+  transition-duration: 1.0s;
+}
+
+.blurtext-2:hover::after, .blurtext-2:hover::before {
+  transition-duration: 1.0s;
+  opacity: 0;
+}
+
+div#option-area {
+  z-index: 100;
+  margin: 1em;
+  position: sticky;
+  top: 42.5px;
+  background: linear-gradient(rgb(255, 255, 255, 1), rgba(255, 255, 255, 0));
+  opacity: 1;
+}
+
+div#option-area p{
+  margin: 0;
+}
+
+
+.iframe-blur {
+  -webkit-mask-image: linear-gradient(to bottom, transparent 15%, black 30%);
+  mask-image: linear-gradient(to bottom, transparent 15%, black 30%);
 }

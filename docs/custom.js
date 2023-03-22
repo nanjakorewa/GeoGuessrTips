@@ -130,7 +130,7 @@ function removeClassToClassName(targetClass, classname) {
 }
 
 
-window.addEventListener("load", function() {
+window.addEventListener("load", function () {
     const blurCheckbox = document.querySelector('#blur-checkbox');
     const isBlurOn = localStorage.getItem('isBlurOn');
     if (!blurCheckbox) {
@@ -160,7 +160,7 @@ window.addEventListener("load", function() {
             addClassToTag('h4', 'blurtext');
             addClassToTag('iframe', 'iframe-blur');
             removeClassToClassName('section-title', 'blurtext');
-        } else{
+        } else {
             removeClassToTag('h2', 'blurtext');
             removeClassToTag('h3', 'blurtext');
             removeClassToTag('h4', 'blurtext');
@@ -171,7 +171,7 @@ window.addEventListener("load", function() {
 });
 
 
-window.addEventListener("load", function() {
+window.addEventListener("load", function () {
     const blurCheckbox = document.querySelector('#blur-text-checkbox');
     const isBlurOn = localStorage.getItem('isBlurOn');
     if (!blurCheckbox) {
@@ -200,3 +200,35 @@ window.addEventListener("load", function() {
         localStorage.setItem('isBlurOn', isBlurOn);
     });
 });
+
+function addRemoveHandler(idName, localStrageName, addedClsName, targetClassName) {
+    const checkBox = document.querySelector(idName);
+    const isChecked = localStorage.getItem(localStrageName);
+    if (!checkBox) {
+        return;
+    }
+
+    if (isChecked === 'true') {
+        checkBox.checked = true;
+        addClassToClassName(targetClassName, addedClsName);
+    } else {
+        checkBox.checked = false;
+        removeClassToClassName(targetClassName, addedClsName);
+    }
+
+    checkBox.addEventListener('change', function () {
+        const isChecked = this.checked;
+        if (isChecked) {
+            addClassToClassName(targetClassName, addedClsName);
+        } else {
+            removeClassToClassName(targetClassName, addedClsName);
+        }
+        localStorage.setItem(localStrageName, isChecked);
+    });
+}
+
+window.addEventListener("load", function () {
+    // 不明なルールを隠すボタン
+    addRemoveHandler('#hide-unconfindent-checkbox', 'isHideNoEvidenceRules', 'hide-element', 'no-evidence');
+});
+

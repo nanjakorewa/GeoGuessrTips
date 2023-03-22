@@ -6,3 +6,5 @@
   translation: 地域・国名をぼかす
 - id: display_setting_desc
   translation: 説明をぼかす
+- id: display_setting_noevidence
+  translation: 不明なルールを隠す

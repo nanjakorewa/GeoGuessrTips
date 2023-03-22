@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 ---
 
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li><span class="quiz">イギリスと同じく左側</span>通行</li>

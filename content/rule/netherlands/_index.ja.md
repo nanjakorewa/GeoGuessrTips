@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "NL.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ナンバープレートは<span class="quiz">青色と黄色</span></li>

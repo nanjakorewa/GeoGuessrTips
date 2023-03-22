@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "CH.png"
 ---
 
-<div class="main-desciption">
+<div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>カメラの位置が<span class="quiz">低い！</span></li>
