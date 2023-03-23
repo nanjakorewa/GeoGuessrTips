@@ -26,8 +26,3 @@ sections: [""]
 {{% ahref "Highways in Spain" "https://en.wikipedia.org/wiki/Highways_in_Spain" %}}
 </div>
 </div>
-
-### トルコ
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677397608691!6m8!1m7!1sijmtpnHOe5Exp6nnWwL--g!2m2!1d40.79507083198259!2d29.43492562901339!3f57.70331698013329!4f9.434500273269634!5f2.9578504551201" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>

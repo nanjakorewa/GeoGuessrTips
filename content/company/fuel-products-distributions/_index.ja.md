@@ -94,23 +94,6 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 </div>
 </div>
 
-## ヨーロッパ
-
-### トルコ
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678880747769!6m8!1m7!1sirmncSvX1a9SHpxF-0WIBg!2m2!1d41.04934897752926!2d29.0765282567033!3f107.64457383975335!4f1.4063985487040753!5f0.9636756255403175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-### イギリス
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678447892683!6m8!1m7!1sKG74dIKwsmqeof73Vw133A!2m2!1d50.95182080078899!2d-1.295118756084518!3f154.1!4f7.219999999999999!5f2.2309097045259185" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-{{% ahref "Texaco" "https://www.texaco.com/" %}}
-</div>
-</div>
 
 
 ## アジア
@@ -212,6 +195,16 @@ Essar Energy plc は、モーリシャスに本拠を置くインドのエネル
 </div>
 
 ## ヨーロッパ
+
+### イギリス
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678447892683!6m8!1m7!1sKG74dIKwsmqeof73Vw133A!2m2!1d50.95182080078899!2d-1.295118756084518!3f154.1!4f7.219999999999999!5f2.2309097045259185" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Texaco" "https://www.texaco.com/" %}}
+</div>
+</div>
+
 ### トルコ
 
 <div class="googlemap-if">
@@ -220,6 +213,7 @@ Essar Energy plc は、モーリシャスに本拠を置くインドのエネル
 Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、ガソリンスタンドはトルコ全域に存在する。
 {{% ahref "Petrol Ofisi" "https://www.petrolofisi.com.tr/en" %}}
 </div>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678880747769!6m8!1m7!1sirmncSvX1a9SHpxF-0WIBg!2m2!1d41.04934897752926!2d29.0765282567033!3f107.64457383975335!4f1.4063985487040753!5f0.9636756255403175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### クロアチア
