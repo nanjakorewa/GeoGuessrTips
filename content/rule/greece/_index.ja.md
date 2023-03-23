@@ -26,9 +26,16 @@ flag: "GR.png"
 </div>
 
 <div class="main-desciption">
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+
+<div class="main-desciption">
     <h2 class="section-title city-description">都市判定のルール</h2>
     <ul class="rule-list">
-        <li>タクシーにヒントがある</li>
+        <li>タクシーの色が都市ごとに異なる</li>
     </ul>
 </div>
 

@@ -13,7 +13,6 @@ flag: "MX.png"
 <div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
-        <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)</li>
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
         <li>ドメインは<span class="quiz">.mx</span></li>

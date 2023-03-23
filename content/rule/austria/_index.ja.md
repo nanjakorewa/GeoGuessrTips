@@ -20,3 +20,15 @@ flag: "AT.png"
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679348331549!6m8!1m7!1syoCvv9BpJ9Czz68JcdAEzQ!2m2!1d47.81087658514463!2d13.04039569934649!3f61.99143518934463!4f4.631820064219227!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<div class="main-desciption">
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="main-desciption">
+    <h2 class="section-title city-description">都市判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>

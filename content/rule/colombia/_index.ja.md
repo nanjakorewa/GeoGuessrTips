@@ -28,7 +28,11 @@ flag: "CO.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679273454905!6m8!1m7!1sNbvSLGci__6c7tc5-4i_8Q!2m2!1d6.325040789380329!2d-75.66050090983481!3f56.33346978748776!4f-14.952009199111728!5f2.0390632519342096" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
+<div class="main-desciption">
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
 
 <div class="main-desciption">
     <h2 class="section-title city-description">都市判定のルール</h2>

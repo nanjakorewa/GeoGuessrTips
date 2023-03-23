@@ -13,7 +13,8 @@ flag: "BD.png"
 <div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
-        <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span></li>
+        <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
+        <li>車は<span class="quiz">左側</span>通行</li>
         <li>インドとバングラディシュの大手通信会社は<span class="quiz">airtel（インドとアフリカに展開している）</span></li>
     </ul>
 </div>
@@ -26,4 +27,16 @@ flag: "BD.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679316274774!6m8!1m7!1snXq-aZcyDNiSdZAoE-2g4A!2m2!1d23.12548575426592!2d89.29000094720749!3f122.38495290446998!4f-7.833571782505302!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679316439962!6m8!1m7!1sdmYvG2XkifNSiDi7PAQ0Mw!2m2!1d23.38225915977607!2d90.21923277387768!3f1.1454390496104359!4f-7.479103567159129!5f0.7588358809536506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679328504033!6m8!1m7!1s_4Y3m4MCnU6KY_OMabiO_A!2m2!1d23.81222953660417!2d90.42360787687048!3f191.7334373512334!4f5.35054719526714!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="main-desciption">
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="main-desciption">
+    <h2 class="section-title city-description">都市判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
 </div>

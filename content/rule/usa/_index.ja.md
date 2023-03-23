@@ -15,7 +15,6 @@ flag: "US.png"
     <ul class="rule-list">
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>
-        <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
         <li>WM＝アメリカのゴミ収集の大手、Waste Management</li>
     </ul>
 </div>
@@ -28,6 +27,13 @@ flag: "US.png"
 
 <div class="main-desciption">
     <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+        <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
+    </ul>
+</div>
+
+<div class="main-desciption">
+    <h2 class="section-title city-description">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

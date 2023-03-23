@@ -26,3 +26,15 @@ flag: "BO.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679480292575!6m8!1m7!1seLs4yz8MnqT_gIsZX5gKCw!2m2!1d-16.53961761225758!2d-68.15787943380086!3f127.33670665714185!4f7.5888544669105045!5f2.2352124310853334" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679480359158!6m8!1m7!1sAGAD5R6_7G-M_4yNGRDstw!2m2!1d-17.74191350835184!2d-63.15618182467038!3f81.55340430449235!4f1.8284055251925935!5f3.0954258680931925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<div class="main-desciption">
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="main-desciption">
+    <h2 class="section-title city-description">都市判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>

@@ -22,3 +22,15 @@ flag: "SI.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138434405!6m8!1m7!1sglGGvMTeCilnueqYr3bzDw!2m2!1d46.35110703655155!2d14.07708752877551!3f216.71559561158904!4f-5.129340362536212!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138646307!6m8!1m7!1sigm2kBqFS0CrfT26F5FjLw!2m2!1d46.35053836902807!2d14.07531497218139!3f145.14991883388868!4f-30.52069024426052!5f2.881329867151726" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<div class="main-desciption">
+    <h2 class="section-title area-description">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="main-desciption">
+    <h2 class="section-title city-description">都市判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
