@@ -9,6 +9,13 @@ sections: [""]
 ---
 
 ## アジア
+
+### ロシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679574204637!6m8!1m7!1sDJ1z3bpOkteyayBuvEBdDg!2m2!1d63.20508617982585!2d75.4693365969313!3f269.93588402924445!4f-5.097202618980646!5f3.3244282257307107" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### イスラエル
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677459240601!6m8!1m7!1sKzaNL2gPLfulmYdj5Ttfng!2m2!1d32.07251829005475!2d34.76466352452803!3f131.69542916217296!4f-23.314093966316065!5f1.955654522822012" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

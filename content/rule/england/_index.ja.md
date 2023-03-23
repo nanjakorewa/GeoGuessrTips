@@ -36,5 +36,5 @@ flag: "GB.png"
 
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679571437362!6m8!1m7!1sJd8ZnR7mP3RPS7FnYSW9_Q!2m2!1d53.39061787848632!2d-2.927909681070305!3f285.8927513127508!4f-18.067507337726752!5f3.3189598438815993" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679571437362!6m8!1m7!1sJd8ZnR7mP3RPS7FnYSW9_Q!2m2!1d53.39061787848632!2d-2.927909681070305!3f285.8927513127508!4f-18.067507337726752!5f3.3189598438815993" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
