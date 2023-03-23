@@ -130,16 +130,21 @@ function removeClassToClassName(targetClass, classname) {
 }
 
 
-window.addEventListener("load", function() {
+window.addEventListener("load", function () {
     const blurCheckbox = document.querySelector('#blur-checkbox');
-    console.log("tested", blurCheckbox);
     const isBlurOn = localStorage.getItem('isBlurOn');
+    if (!blurCheckbox) {
+        return;
+    }
+
     if (isBlurOn === 'true') {
         blurCheckbox.checked = true;
         addClassToTag('h2', 'blurtext');
         addClassToTag('h3', 'blurtext');
         addClassToTag('h4', 'blurtext');
         addClassToTag('iframe', 'iframe-blur');
+        removeClassToClassName('section-title', 'blurtext');
+        removeClassToClassName('no-blur', 'blurtext');
     } else {
         blurCheckbox.checked = false;
         removeClassToTag('h2', 'blurtext');
@@ -155,6 +160,8 @@ window.addEventListener("load", function() {
             addClassToTag('h3', 'blurtext');
             addClassToTag('h4', 'blurtext');
             addClassToTag('iframe', 'iframe-blur');
+            removeClassToClassName('section-title', 'blurtext');
+            removeClassToClassName('no-blur', 'blurtext');
         } else {
             removeClassToTag('h2', 'blurtext');
             removeClassToTag('h3', 'blurtext');
@@ -166,25 +173,68 @@ window.addEventListener("load", function() {
 });
 
 
-window.addEventListener("load", function() {
+window.addEventListener("load", function () {
     const blurCheckbox = document.querySelector('#blur-text-checkbox');
-    console.log("tested", blurCheckbox);
     const isBlurOn = localStorage.getItem('isBlurOn');
+    if (!blurCheckbox) {
+        return;
+    }
+
     if (isBlurOn === 'true') {
         blurCheckbox.checked = true;
         addClassToClassName('description', 'blurtext');
+        addClassToTag('span', 'blurtext-2');
+        removeClassToClassName('no-blur', 'blurtext-2');
     } else {
         blurCheckbox.checked = false;
         removeClassToClassName('description', 'blurtext');
+        removeClassToTag('span', 'blurtext-2');
     }
 
     blurCheckbox.addEventListener('change', function () {
         const isBlurOn = this.checked;
         if (isBlurOn) {
             addClassToClassName('description', 'blurtext');
+            addClassToTag('span', 'blurtext-2');
+            removeClassToClassName('no-blur', 'blurtext-2');
         } else {
             removeClassToClassName('description', 'blurtext');
+            removeClassToTag('span', 'blurtext-2');
         }
         localStorage.setItem('isBlurOn', isBlurOn);
     });
 });
+
+function addRemoveHandler(idName, localStrageName, addedClsName, targetClassName) {
+    const checkBox = document.querySelector(idName);
+    const isChecked = localStorage.getItem(localStrageName);
+    if (!checkBox) {
+        return;
+    }
+
+    if (isChecked === 'true') {
+        checkBox.checked = true;
+        addClassToClassName(targetClassName, addedClsName);
+        removeClassToClassName('no-blur', 'blurtext');
+    } else {
+        checkBox.checked = false;
+        removeClassToClassName(targetClassName, addedClsName);
+    }
+
+    checkBox.addEventListener('change', function () {
+        const isChecked = this.checked;
+        if (isChecked) {
+            addClassToClassName(targetClassName, addedClsName);
+            removeClassToClassName('no-blur', 'blurtext');
+        } else {
+            removeClassToClassName(targetClassName, addedClsName);
+        }
+        localStorage.setItem(localStrageName, isChecked);
+    });
+}
+
+window.addEventListener("load", function () {
+    // 不明なルールを隠すボタン
+    addRemoveHandler('#hide-unconfindent-checkbox', 'isHideNoEvidenceRules', 'hide-element', 'no-evidence');
+});
+

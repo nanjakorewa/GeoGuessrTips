@@ -144,6 +144,7 @@ window.addEventListener("load", function () {
         addClassToTag('h4', 'blurtext');
         addClassToTag('iframe', 'iframe-blur');
         removeClassToClassName('section-title', 'blurtext');
+        removeClassToClassName('no-blur', 'blurtext');
     } else {
         blurCheckbox.checked = false;
         removeClassToTag('h2', 'blurtext');
@@ -160,6 +161,7 @@ window.addEventListener("load", function () {
             addClassToTag('h4', 'blurtext');
             addClassToTag('iframe', 'iframe-blur');
             removeClassToClassName('section-title', 'blurtext');
+            removeClassToClassName('no-blur', 'blurtext');
         } else {
             removeClassToTag('h2', 'blurtext');
             removeClassToTag('h3', 'blurtext');
@@ -182,6 +184,7 @@ window.addEventListener("load", function () {
         blurCheckbox.checked = true;
         addClassToClassName('description', 'blurtext');
         addClassToTag('span', 'blurtext-2');
+        removeClassToClassName('no-blur', 'blurtext-2');
     } else {
         blurCheckbox.checked = false;
         removeClassToClassName('description', 'blurtext');
@@ -193,6 +196,7 @@ window.addEventListener("load", function () {
         if (isBlurOn) {
             addClassToClassName('description', 'blurtext');
             addClassToTag('span', 'blurtext-2');
+            removeClassToClassName('no-blur', 'blurtext-2');
         } else {
             removeClassToClassName('description', 'blurtext');
             removeClassToTag('span', 'blurtext-2');
@@ -211,6 +215,7 @@ function addRemoveHandler(idName, localStrageName, addedClsName, targetClassName
     if (isChecked === 'true') {
         checkBox.checked = true;
         addClassToClassName(targetClassName, addedClsName);
+        removeClassToClassName('no-blur', 'blurtext');
     } else {
         checkBox.checked = false;
         removeClassToClassName(targetClassName, addedClsName);
@@ -220,6 +225,7 @@ function addRemoveHandler(idName, localStrageName, addedClsName, targetClassName
         const isChecked = this.checked;
         if (isChecked) {
             addClassToClassName(targetClassName, addedClsName);
+            removeClassToClassName('no-blur', 'blurtext');
         } else {
             removeClassToClassName(targetClassName, addedClsName);
         }
