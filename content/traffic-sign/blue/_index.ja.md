@@ -24,6 +24,12 @@ bg: "bg/tf.jpg"
 </div>
 
 ## ヨーロッパ
+### イギリス
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679667080137!6m8!1m7!1seN_9x6JEWZfC7-2MpcoSNg!2m2!1d53.45888091566646!2d-1.166192649675792!3f174.61628598050387!4f-2.741953237639393!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### オランダ
 
 <div class="googlemap-if">
@@ -39,6 +45,7 @@ bg: "bg/tf.jpg"
 ### ポーランド
 
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679666708188!6m8!1m7!1s_r4JrBjwC5o6yWb6HpW9yw!2m2!1d50.24676787900204!2d19.29282019389654!3f167.24643140928265!4f-0.9160282870366103!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677857321525!6m8!1m7!1soFYwsvhCV1om07U7P3wljw!2m2!1d52.25887627980168!2d21.00273082279482!3f245.9898776440007!4f-1.6574787715527748!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678016444078!6m8!1m7!1sneOgWQI5GK3ejqFmYnfq8g!2m2!1d50.05958136560567!2d19.9327824765771!3f186.3799073922704!4f6.381942125664807!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

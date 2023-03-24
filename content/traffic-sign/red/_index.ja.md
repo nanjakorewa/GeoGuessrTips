@@ -89,6 +89,7 @@ bg: "bg/tf.jpg"
 
 ### ポーランド
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679666677538!6m8!1m7!1s7W1_UUYW-gFqi5Xlgzv9XQ!2m2!1d50.24679747818902!2d19.29261358659526!3f193.03043417249978!4f-2.189286291203942!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677632357946!6m8!1m7!1sCAoSLEFGMVFpcE1uVHRGVE0xWDZJcEFjNFctQVNtTl9SUDR2eU1EdjE1aTZxclEt!2m2!1d50.064307917158!2d19.938016808106!3f45.14783888054766!4f6.4740643353976!5f3.325193203789971" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 

@@ -12,4 +12,5 @@ sections: [""]
 ### カナダ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677903141123!6m8!1m7!1spPt84cTXVXJRgjy2T78Pyw!2m2!1d45.41403472393965!2d-75.6871385829125!3f150.02390528753833!4f-0.22091537579363774!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679666207216!6m8!1m7!1sUV6YMTJb1OAU8QJcIXWVuQ!2m2!1d45.49470862110606!2d-73.5685364109791!3f133.69145483687677!4f4.34505589744515!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
