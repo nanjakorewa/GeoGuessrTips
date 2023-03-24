@@ -1,5 +1,5 @@
 ---
-title: "動物"
+title: "動物シリーズ"
 date: 2023-02-26
 lastmod: 2023-02-26
 weight: 1

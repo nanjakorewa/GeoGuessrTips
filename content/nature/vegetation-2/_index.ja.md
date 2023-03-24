@@ -1,23 +1,13 @@
 ---
-title: "木"
+title: "草・植生(2)"
 date: 2023-02-26
 lastmod: 2023-02-26
-weight: 1
+weight: 11
 draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/tree.jpg"
 ---
-
-## 北米
-### アメリカ
-<div class="googlemap-if">
-<div class="description">
-{{% ahref "U.S. FOREST SERVICE Caring for the land and serving people" "https://www.fs.usda.gov/foresthealth/applied-sciences/mapping-reporting/data-app-development.shtml" %}}
-{{% ahref "Steve Nix, 「Maps of Common United States Forest Cover Types Geographic Range Maps of Trees by Timber Type」, Updated April 26, 2019" "https://www.treehugger.com/common-united-states-forest-cover-types-1343033" %}}
-</div>
-</div>
-
 
 ## アジア
 
