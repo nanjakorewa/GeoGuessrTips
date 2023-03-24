@@ -35,6 +35,8 @@ bg: "bg/up.jpg"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677759929572!6m8!1m7!1s4LYU7TGKAny2nfiWCnhV_w!2m2!1d19.40851458160972!2d-99.12971960743052!3f293.6864603244119!4f23.590141049018115!5f0.7877473206287153" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677483694957!6m8!1m7!1sBJwhTspUJlQW5DFugSpkuA!2m2!1d19.38463130163664!2d-99.11964142312829!3f59.083357162049154!4f54.57512708808733!5f1.1473844403590623" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677483848433!6m8!1m7!1s_8LNrKyXzIVTzKfKDGX7XQ!2m2!1d19.36343998576718!2d-99.34846165852402!3f343.32396093231694!4f14.226734425585136!5f1.6731410423619746" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679676109878!6m8!1m7!1sW5HRN0ksQYQkOsUwuQwMcA!2m2!1d19.13211853041982!2d-97.41042606023008!3f359.08094760518736!4f0.38028208558644394!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679676181767!6m8!1m7!1seEpZt9e_Inn3XiTtP6og9Q!2m2!1d19.13241017453172!2d-97.41019343258604!3f57.341693190129824!4f-4.322799304971241!5f3.324385072489276" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### チリ

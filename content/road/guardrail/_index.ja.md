@@ -24,9 +24,21 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679667472287!6m8!1m7!1s3FcnyfKEmBgPz_8v2LtXdQ!2m2!1d57.59064246249697!2d-3.575600463505026!3f192.587047830074!4f-0.5706466671248194!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### イタリア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679675589670!6m8!1m7!1slFVXujC9Op7ThF74FvmasA!2m2!1d37.61081126454783!2d14.24692170987816!3f325.4913999471977!4f-10.111595571096501!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### ノルウェー
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679572368122!6m8!1m7!1seD_jmFvi4yHLLqHszO5Jvw!2m2!1d65.40608887843212!2d21.10593071241713!3f259.75322023280444!4f-26.897065870979546!5f1.7609169587999745" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## アフリカ
+### 南アフリカ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679676937535!6m8!1m7!1sCdeRo_xLzwdO9T6EYChFSw!2m2!1d-28.83509669190495!2d22.06935773244135!3f330.0848882110524!4f-14.409262172016795!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

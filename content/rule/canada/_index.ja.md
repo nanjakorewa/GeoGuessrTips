@@ -19,6 +19,9 @@ flag: "CA.png"
     </ul>
 </div>
 
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679674813294!6m8!1m7!1sDBiGPBxRu5ZY3mWS4wDkpA!2m2!1d52.36294019201046!2d-108.0187601001289!3f258.62238948987203!4f-3.883872587590119!5f3.3240961400029705" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 <div class="main-desciption">
     <h2 class="section-title area-description">州・地域判定のルール</h2>

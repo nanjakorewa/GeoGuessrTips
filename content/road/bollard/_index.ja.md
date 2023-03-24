@@ -18,6 +18,20 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679669115135!6m8!1m7!1s0JpthC3ogzC70nXXdjXB9w!2m2!1d41.44717688485826!2d-100.8657564767679!3f311.6428068295275!4f-5.799111428052072!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+### カナダ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679674626454!6m8!1m7!1sKsvAlGAdlUNDG2K2MjmOwA!2m2!1d45.54181792056146!2d-78.6961612853861!3f140.55180917331873!4f-18.116329786836545!5f3.2478275922819355" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## 南米
+
+### メキシコ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679676286126!6m8!1m7!1sJ7MohxmYl_9njIWbAdqNug!2m2!1d18.2565538884352!2d-97.54426771347538!3f325.7113512089358!4f-19.1617510203708!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## アジア
 ### ロシア
 
@@ -42,4 +56,12 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679667191685!6m8!1m7!1stzUNJgeyhSXxUfcCABuD9A!2m2!1d53.45816716317874!2d-1.169975428590934!3f186.57080581179196!4f-18.171506480954193!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### イタリア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679675424757!6m8!1m7!1sYPJLTYBc1h1hufIIVdyozQ!2m2!1d44.69938287322245!2d8.948909405395149!3f8.997668547664777!4f-14.101818837900879!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679675589670!6m8!1m7!1slFVXujC9Op7ThF74FvmasA!2m2!1d37.61081126454783!2d14.24692170987816!3f325.4913999471977!4f-10.111595571096501!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679677396103!6m8!1m7!1s49jdsi_z0BbIXHlL2ELTzQ!2m2!1d42.38323591985135!2d11.95323039171786!3f146.20036850013696!4f-12.743769259753023!5f3.324813682596279" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
