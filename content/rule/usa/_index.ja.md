@@ -32,6 +32,33 @@ flag: "US.png"
     </ul>
 </div>
 
+<div class="googlemap-if">
+<div class="description-wide">
+<img src="2023-03-25-14-29-11.png" class="img-main">
+</div>
+<div class="description-wide">
+以下のルールは100％すべてに当てはまるわけではないらしい。
+<ul class="rule-list">
+    <li>アメリカ国道（United States numbered highways）
+        <ul>
+            <li>南北の高速道路は奇数であり、東から西に向かって番号が高くなる</li>
+            <li>東西の高速道路は偶数であり、北から南に向かって番号が高くなる</li>
+        </ul>
+    </li>
+    <li>州間高速道路（Dwight David Eisenhower National System of Interstate and Defense Highways）
+        <ul>
+            <li class="no-evidence">南北の高速道路は奇数であり、東から西に向かって番号が低くなる</li>
+            <li class="no-evidence">東西の高速道路は偶数であり、北から南に向かって番号が低くなる</li>
+        </ul>
+    </li>
+</ul>
+
+
+{{% ahref "American Highways 101: Visual Guide to U.S. Road Sign Designs & Numbering Systems" "https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/" %}}
+</div>
+
+</div>
+
 <div class="main-desciption">
     <h2 class="section-title city-description">都市判定のルール</h2>
     <ul class="rule-list">
