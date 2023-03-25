@@ -10,13 +10,24 @@ bg: "bg/food.jpg"
 ---
 
 ## アジア
+### ベトナム
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679751957296!6m8!1m7!1sCAoSLEFGMVFpcFBjNExOd2xnM1g2b1ZRam13dHE4alh6VFRlM2t4Q1M4VjI1Rldt!2m2!1d10.79704975342051!2d106.6307208849383!3f103.87431143436736!4f7.078797100082127!5f3.216840669058476" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ビナミルクは、ベトナムの大手乳製品製造会社。
+{{% ahref "双日、ビナミルクグループとベトナムで同国最大級の牛の肥育農場・食肉加工工場の起工式を実施" "https://prtimes.jp/main/html/rd/p/000000171.000073843.html" %}}
+</div>
+</div>
+
+
 ### フィリピン
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677719234898!6m8!1m7!1sXRRI0ZPD0HVecPilDIzvbw!2m2!1d14.61018214529929!2d121.0053685512792!3f172.94113162802867!4f2.9077667941647007!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 ローヤルクラウン・コーラ（RC Cola）は世界シェアがコカ・コーラ、ペプシに続く3位であるコーラ味の飲料水（？）。フィリピンのMacay HoldingsがRC Global Beverages Inc.を買収した関係か、フィリピンでは看板もある。アメリカでも一定数売られているらしい。
-{{% ahref "RC Cola Philippines" "RC Cola Philippines" %}}
+{{% ahref "RC Cola Philippines" "https://www.youtube.com/c/RCColaPhilippinesOfficial?app=desktop" %}}
 </div>
 </div>
 

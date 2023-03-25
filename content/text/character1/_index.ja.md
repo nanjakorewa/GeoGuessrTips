@@ -1,5 +1,5 @@
 ---
-title: "言語"
+title: "言語①"
 date: 2023-02-26
 lastmod: 2023-02-26
 weight: 1
@@ -12,6 +12,8 @@ bg: "bg/text.jpg"
 ## キリル文字
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677815195282!6m8!1m7!1sGaHEf_XpTPogQnzZopfXHA!2m2!1d48.72192943676878!2d44.53606867827708!3f318.6629661292529!4f13.832913749273303!5f2.7920886062789405" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679752155280!6m8!1m7!1sd1ONtx5kee6Uv-HXDIE6Zw!2m2!1d54.72627645700034!2d55.95785757258799!3f24.13388786245383!4f7.168324648337759!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679752217378!6m8!1m7!1sbdstxCdaehJckNNaYFIcDA!2m2!1d48.39254346618955!2d135.1234206184609!3f231.3571074847148!4f0.49562967016481707!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 キリル文字はブルガリア語やセルビア語など多くの言語で使用されているが、字体は微妙に異なる。
 {{% ahref "キリル文字 - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97" %}}
@@ -22,6 +24,7 @@ bg: "bg/text.jpg"
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677817870664!6m8!1m7!1sYmNa96m_03pCSr2xpBL5Dg!2m2!1d25.0732334932952!2d121.4958190376482!3f51.14005054579093!4f11.404595817531174!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677817982129!6m8!1m7!1scHh1JsLJdR9L48SLfRshOA!2m2!1d24.16861203164657!2d120.6771325845948!3f254.2408676581787!4f14.754189643448953!5f2.861248594828461" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679752516272!6m8!1m7!1sUU5_xOPWsSWsQy0rwtvN0A!2m2!1d24.77918483668523!2d120.9920170087974!3f91.56844629356995!4f-5.197344610705798!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 台湾（繁体字）と大陸側（簡体字）では同じ漢字の表記が違うことがある。
 </div>
@@ -31,6 +34,7 @@ bg: "bg/text.jpg"
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677829518143!6m8!1m7!1spiK_HgjkbXfSD9-w6pRwBg!2m2!1d1.497509279776984!2d103.710747519946!3f348.133961956107!4f6.760369695128688!5f1.8119885863018386" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677829848361!6m8!1m7!1sVkThCEOtCo7B296bY002SA!2m2!1d3.146348782707025!2d101.6936929730666!3f328.21837015938473!4f0.5151959708704226!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679752640449!6m8!1m7!1ss8DL_CPV1cdyc4REtphxaQ!2m2!1d3.090995682368913!2d101.6894107165365!3f337.75462677750795!4f-2.446653700647701!5f2.8139463990791658" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 東南アジアのマレー半島周辺地域で話されるオーストロネシア語族の主要な言語。地元の人たちの会話や看板などはほとんどがマレー語。
 「di」＝場所や方向を示す前置詞、atのような扱い。「ke」＝同じく場所や方向だが遠くに向かう、toのようなイメージ？「dari」は逆に近づく感じ。
@@ -42,6 +46,7 @@ bg: "bg/text.jpg"
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677817128951!6m8!1m7!1s9GVCnvY09qZaM46NRKE_Hw!2m2!1d28.63866356049092!2d-106.0745409031797!3f156.75980672727238!4f2.811035735063669!5f3.1368236627436574" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677817408830!6m8!1m7!1s5PdjTcqcQ7a4GlWuu3yhtw!2m2!1d29.07459628498576!2d-110.9586553246504!3f177.01340904290782!4f4.926979433037545!5f3.1683922109277316" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679752871078!6m8!1m7!1suz_3B-Up8bTdR4Upb9funQ!2m2!1d39.46559898321193!2d-0.3741698822956301!3f85.89097006492175!4f-5.572140368887787!5f3.3097270310034266" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 de（～の、～から）・la（冠詞、代名詞）・que（代名詞、接続詞）・los（冠詞、代名詞）・se（代名詞、再帰代名詞）が多く使用され、さらに「ñ」はスペイン語でのみ出現する。
 </div>
@@ -83,6 +88,7 @@ de（～の、～から）・la（冠詞、代名詞）・que（代名詞、接�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677815778613!6m8!1m7!1sXpnybWlEfcq0l31HlEH6PQ!2m2!1d-0.9457160386043018!2d100.3572606436543!3f314.72601665742303!4f3.090903546960874!5f2.9156246313132983" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677815847895!6m8!1m7!1sXpnybWlEfcq0l31HlEH6PQ!2m2!1d-0.9457160386043018!2d100.3572606436543!3f337.22893532552575!4f18.329188735047268!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679753219475!6m8!1m7!1sHyZkpPXG8hfmVSf-n-Bfgg!2m2!1d-6.868876196810042!2d107.4984685306715!3f234.4682292732307!4f5.878147821350211!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 発音が日本語のローマ字読みに近い読み方でいい。複数形を表現するためにハイフンで区切って言葉を繰り返す（島 pulau → pulau-pulau 島々）。
 「TELP」は電話の意味。
