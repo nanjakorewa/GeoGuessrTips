@@ -36,7 +36,7 @@ flag: "MX.png"
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
-        <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)</li>
+        <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
     </ul>
 </div>
 

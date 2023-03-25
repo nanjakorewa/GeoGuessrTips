@@ -37,3 +37,8 @@ flag: "FR.png"
     <ul class="rule-list">
     </ul>
 </div>
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679759814340!6m8!1m7!1s0rQNq_fO8gB7bszVAGJsyA!2m2!1d48.8047658!2d2.1202258!3f169.26389412089094!4f5.753910367891805!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

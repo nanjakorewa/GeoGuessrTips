@@ -13,6 +13,7 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679668948766!6m8!1m7!1sCmdK8x5XRvgDCh1STuMhfg!2m2!1d41.86312490464449!2d-123.310511631756!3f18.648354665421678!4f-13.744908456549283!5f1.6263727861575448" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679758479507!6m8!1m7!1sXEz4oaM0QAsPDpGrhtEoIA!2m2!1d42.34453556764941!2d-71.46696962825213!3f308.1867750020351!4f-14.106017461753964!5f3.0278678634715415" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## ヨーロッパ
