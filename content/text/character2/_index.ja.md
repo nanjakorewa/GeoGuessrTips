@@ -26,6 +26,5 @@ bg: "bg/text.jpg"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679751902680!6m8!1m7!1sCAoSLEFGMVFpcE05LTBEUGpCZ0puQllZQTRMa2Vnd0hiS3AwVExqb1NWOU5yV0Nq!2m2!1d10.77337356431828!2d106.7053387276325!3f161.37625004246556!4f11.63245378671482!5f3.041252797875277" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679751957296!6m8!1m7!1sCAoSLEFGMVFpcFBjNExOd2xnM1g2b1ZRam13dHE4alh6VFRlM2t4Q1M4VjI1Rldt!2m2!1d10.79704975342051!2d106.6307208849383!3f103.87431143436736!4f7.078797100082127!5f3.216840669058476" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
-台湾（繁体字）と大陸側（簡体字）では同じ漢字の表記が違うことがある。
 </div>
 </div>
