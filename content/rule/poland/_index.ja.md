@@ -24,8 +24,8 @@ flag: "PL.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679666820838!6m8!1m7!1sr1NL1JvrmdjmXM-qmIeanA!2m2!1d50.19073203861156!2d19.16465347013119!3f136.46894915325737!4f-10.402109214901017!5f3.323581772503012" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>
@@ -33,8 +33,8 @@ flag: "PL.png"
 <div class="googlemap-if">
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

@@ -22,15 +22,15 @@ flag: "GB.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679667191685!6m8!1m7!1stzUNJgeyhSXxUfcCABuD9A!2m2!1d53.45816716317874!2d-1.169975428590934!3f186.57080581179196!4f-18.171506480954193!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>道路番号の先頭の数字で地域が分かる{{% by %}}</li>
     </ul>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

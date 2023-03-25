@@ -39,6 +39,7 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679669317135!6m8!1m7!1sevjy8tbKZ6ln2nb5-JUoxA!2m2!1d42.4806247604114!2d47.87391049290576!3f239.13344430166023!4f-11.851493200195563!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+## オセアニア
 
 ### インドネシア
 
@@ -49,6 +50,13 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679582506284!6m8!1m7!1smSjFVVuATXxRfRyyHG_S8Q!2m2!1d-9.735660345083325!2d119.9763596936797!3f26.711770850217384!4f-12.43597065866554!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679582549229!6m8!1m7!1sT3KNnYGl_xHfL-UR95BjTw!2m2!1d-3.978268755081621!2d122.0536118580309!3f271.754447329389!4f-10.360434027996604!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679582869229!6m8!1m7!1s71zAsxGsVg8RK-Bx9xPPbw!2m2!1d0.5337558308809719!2d121.4988708387713!3f51.49127860461904!4f-22.352194095376078!5f2.8345434644366074" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+### ニュージーランド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679741200006!6m8!1m7!1sQMRZd_GXov13-1thE05aLQ!2m2!1d-45.5325181663985!2d170.7404083527265!3f94.67761118201888!4f-15.533336314418278!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679741338839!6m8!1m7!1sdXyFwQaNx5vo229zZ6bU6g!2m2!1d-37.09147098194195!2d174.5935191924935!3f331.4182296388226!4f-30.155359065289595!5f3.2938770011097693" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## ヨーロッパ

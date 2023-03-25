@@ -33,16 +33,16 @@ flag: "MX.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679676346295!6m8!1m7!1sptDPEUGadZCel8Vwz0khJA!2m2!1d18.25720171037926!2d-97.54428259097156!3f113.29189671981759!4f4.696430976423443!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)</li>
     </ul>
 </div>
 
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
         <li>タクシーにヒントがある
             <ul>

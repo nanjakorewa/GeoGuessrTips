@@ -31,3 +31,10 @@ bg: "bg/bird.jpg"
 {{% ahref "画像出典元：BirdLife International - Sulphur-crested Cockatoo Cacatua galerita" "http://datazone.birdlife.org/species/factsheet/sulphur-crested-cockatoo-cacatua-galerita/distribution" %}}
 </div>
 </div>
+
+
+### ニュージーランド
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679741143728!6m8!1m7!1syirZDKaXugQP8U6cAeAMjg!2m2!1d-45.5327278331821!2d170.7398799203575!3f6.855891107297337!4f-12.392879224145844!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

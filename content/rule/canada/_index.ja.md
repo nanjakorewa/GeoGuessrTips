@@ -23,8 +23,8 @@ flag: "CA.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679674813294!6m8!1m7!1sDBiGPBxRu5ZY3mWS4wDkpA!2m2!1d52.36294019201046!2d-108.0187601001289!3f258.62238948987203!4f-3.883872587590119!5f3.3240961400029705" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
     </ul>
@@ -35,8 +35,8 @@ flag: "CA.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679325495940!6m8!1m7!1sP6tJzfv6dXJEdhaE3HiU7A!2m2!1d49.89554770308396!2d-97.1380825935001!3f57.38926885590616!4f-22.369919344490043!5f3.239308231010501" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

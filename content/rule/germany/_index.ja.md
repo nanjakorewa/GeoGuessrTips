@@ -28,8 +28,8 @@ flag: "DE.png"
 </div>
 
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}</li>
     </ul>

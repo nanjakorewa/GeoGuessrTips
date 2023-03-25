@@ -27,8 +27,8 @@ flag: "NO.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347534133!6m8!1m7!1swn_mor6TbJxcF3P8sSNLbg!2m2!1d66.3044505371745!2d14.13711222707041!3f324.89227912253875!4f-16.134774204390254!5f2.8309959544919363" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
         <li>タクシーの側面に<span class="quiz">都市の名前が書いてある</span></li>
     </ul>

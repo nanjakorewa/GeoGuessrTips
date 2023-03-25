@@ -25,8 +25,8 @@ flag: "US.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
     </ul>
@@ -59,8 +59,8 @@ flag: "US.png"
 
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

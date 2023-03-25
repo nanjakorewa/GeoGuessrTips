@@ -31,8 +31,8 @@ flag: "BR.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>道路番号を見ればおよその地域がわかる</li>
     </ul>
@@ -46,8 +46,8 @@ flag: "BR.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679380170608!6m8!1m7!1sAYtt3IP648Vi5g_NEuFhBA!2m2!1d-3.974791767668313!2d-60.53822827895701!3f140.31076529019026!4f-17.67432116537232!5f3.2647986142842362" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

@@ -26,14 +26,14 @@ flag: "SE.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679498521351!6m8!1m7!1s6dOsS8BdZ_T9v2l8G7Dyyg!2m2!1d66.55155599593365!2d22.32995993839439!3f234.6344569386813!4f-8.265704279966542!5f0.8475810262796575" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>

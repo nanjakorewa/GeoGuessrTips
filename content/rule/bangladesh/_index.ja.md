@@ -29,14 +29,14 @@ flag: "BD.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679328504033!6m8!1m7!1s_4Y3m4MCnU6KY_OMabiO_A!2m2!1d23.81222953660417!2d90.42360787687048!3f191.7334373512334!4f5.35054719526714!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title area-description">州・地域判定のルール</h2>
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>
 
-<div class="main-desciption">
-    <h2 class="section-title city-description">都市判定のルール</h2>
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>
