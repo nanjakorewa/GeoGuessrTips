@@ -8,6 +8,17 @@ keywords: ["taxi"]
 sections: [""]
 ---
 
+
+## 北米
+### メキシコ
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679458581944!6m8!1m7!1sofRx7y1WNAprPtaAhdmEqA!2m2!1d19.37148555541399!2d-99.1788575112147!3f153.15458392524835!4f-9.71562876312683!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679458676011!6m8!1m7!1skx4IwvjEl0zBgP-D61qSqA!2m2!1d19.37082017504024!2d-99.17625075855491!3f201.54969317592017!4f-15.039044125137536!5f3.260309308100377" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679458863603!6m8!1m7!1s4RycP9oyVHyyfykYBqOxWw!2m2!1d29.09357410608328!2d-110.984242537779!3f304.3327860034546!4f-17.309773440110092!5f2.8989011536707783" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679459246412!6m8!1m7!1sT-JobBKxcKUJd3JlEPU0UA!2m2!1d25.67772911259084!2d-100.3180719930014!3f74.89862641189546!4f-9.062797298225789!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ## 南米
 
 ### エクアドル
@@ -32,6 +43,7 @@ sections: [""]
 </div>
 
 ## アジア
+### ロシア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678979694609!6m8!1m7!1sV1cZH-12Nb_1CZYshDMWBQ!2m2!1d55.7601998959459!2d37.58513916158419!3f93.17686561022506!4f-15.227920002897449!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

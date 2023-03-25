@@ -17,7 +17,7 @@
 						{{ range $pages }}
 						{
 							value: "{{ .Title }}",
-							label: "【{{ .Title }}】 {{.Plain}} {{range.Params.Keywords}}<p>{{.}}</p>{{end}}",
+							label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
 							url:"{{ .Permalink }}"
 						},
 						{{ end -}}
