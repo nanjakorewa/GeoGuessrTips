@@ -22,7 +22,6 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679667402158!6m8!1m7!1sNGc5Pw0jiu_2j2MA2Wf24Q!2m2!1d57.58620756335244!2d-3.573582216155249!3f231.95354034586214!4f-33.02654280722726!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679667472287!6m8!1m7!1s3FcnyfKEmBgPz_8v2LtXdQ!2m2!1d57.59064246249697!2d-3.575600463505026!3f192.587047830074!4f-0.5706466671248194!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### イタリア
