@@ -1,0 +1,37 @@
+---
+title: "シンガポール"
+date: 2023-02-26
+lastmod: 2023-02-26
+weight: 1
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "SG.png"
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">国判定のルール</h2>
+    <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.sg</span></li>
+        <li>車は<span class="quiz">左側</span>通行</li>
+    </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679852531249!6m8!1m7!1shopsxqe-gcdY5sO_qH8HlA!2m2!1d1.328420203187212!2d103.8172874522778!3f168.9675884512498!4f-35.89432901282702!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679852587557!6m8!1m7!1sW-8wECxIymQyM8fkSxnfaw!2m2!1d1.330416097591386!2d103.81870545294!3f270.7969206612905!4f-12.187423936306587!5f1.5277309468610167" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679852616021!6m8!1m7!1sSAQ-IdU26DpyT3x8uPbghA!2m2!1d1.329655164651806!2d103.8183630017216!3f90.06643982622379!4f4.839235395122827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
