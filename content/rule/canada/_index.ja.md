@@ -20,7 +20,9 @@ flag: "CA.png"
 </div>
 
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679813454687!6m8!1m7!1sSKckCfbCs3buCvjnH8B0lw!2m2!1d49.38014711277113!2d-121.3517914811566!3f163.50216004552928!4f-0.7065718579365665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679674813294!6m8!1m7!1sDBiGPBxRu5ZY3mWS4wDkpA!2m2!1d52.36294019201046!2d-108.0187601001289!3f258.62238948987203!4f-3.883872587590119!5f3.3240961400029705" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679813379068!6m8!1m7!1sxffe9Npl4Zb_UQ3o7tnG7Q!2m2!1d46.79305940703988!2d-71.14459551620541!3f107.19748829321144!4f-4.5030946521382305!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

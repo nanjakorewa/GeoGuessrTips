@@ -17,7 +17,7 @@ flag: "DE.png"
         <li>ドイツ語の母音は「a・i・u・e・o」と<span class="quiz">ウムラウト「ü・ö・ä」</span>の8つ</li>
         <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツ語の冠詞は<span class="quiz">「der・die」（男性名詞・女性名詞で異なる）</span></li>
-        <li>四角いモザイク {{% by "neckoluv" "twitch" %}}</li>
+        <li>四角いモザイク {{% by "neckoluv" "twitch" %}}が多い。移動して急に建物にモザイクがかかるのはドイツかも。</li>
     </ul>
 </div>
 

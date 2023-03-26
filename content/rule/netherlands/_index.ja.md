@@ -13,8 +13,7 @@ flag: "NL.png"
 <div class="main-desciption country-description">
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
-        <li>ナンバープレートは<span class="quiz">青色と黄色</span></li>
-        <li>路側帯は<span class="quiz">白色のダッシュ</span></li>
+        <li>ナンバープレートは<span class="quiz">青色と黄色</span>、前後を見てこの色ならオランダになる</li>
         <li>ドメインは<span class="quiz">.nl</span></li>
         <li>SPARはアムステルダム、オランダに拠点がある小売業者（オランダ以外にもある）</li>
     </ul>

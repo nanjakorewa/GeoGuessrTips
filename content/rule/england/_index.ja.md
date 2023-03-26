@@ -15,6 +15,7 @@ flag: "GB.png"
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.gb</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li>車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span></li>
     </ul>
 </div>
 
