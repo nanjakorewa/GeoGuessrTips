@@ -24,19 +24,21 @@ flag: "MX.png"
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679070838780!6m8!1m7!1sA9V3a30Dr0EnjOmau9I1AA!2m2!1d18.49901018842941!2d-88.29591445194922!3f276.78446690458617!4f-30.315589207481025!5f2.914028439945579" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679326777250!6m8!1m7!1skn9ynKSsGzN2wMNZllFE-w!2m2!1d25.5422824454981!2d-103.4487327092764!3f344.01613267504734!4f10.53583065468203!5f3.323404987284828" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679924764754!6m8!1m7!1s6TijG9FC9B4cSqTkqWcNpQ!2m2!1d27.48668726661807!2d-99.60409102789727!3f208.23375534858917!4f0.2224124591244987!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679326907626!6m8!1m7!1stH4w3qXDcy_mUBDJ-3cWkA!2m2!1d25.56130248702329!2d-103.4463787059128!3f187.61392721068376!4f2.8696246417501925!5f1.613502443314001" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679326979706!6m8!1m7!1sTnKtDpcSLRQ4RjMe4Sjd4g!2m2!1d25.54072681401005!2d-103.6382544135941!3f127.84925597748136!4f-19.074318903338067!5f3.2440693678505452" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679419849107!6m8!1m7!1sZV_KaeCzaBvVPPa7jcJu9w!2m2!1d20.97754453727197!2d-89.64404739333825!3f126.6567340854648!4f-8.093954638797385!5f2.7666196641914813" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679458721193!6m8!1m7!1sFQAmjWC4kJXJQVXRSj8O9Q!2m2!1d29.09338808294169!2d-110.9832428183352!3f344.96123205974897!4f-2.1236912024905195!5f3.0369245761347816" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679459072284!6m8!1m7!1s8PmLY24JPH4SftL8hA2CZA!2m2!1d25.75251926645027!2d-100.3004127618978!3f93.71490274714154!4f-1.98958654281806!5f3.2793573082848697" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679676346295!6m8!1m7!1sptDPEUGadZCel8Vwz0khJA!2m2!1d18.25720171037926!2d-97.54428259097156!3f113.29189671981759!4f4.696430976423443!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 </div>
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
+        <li>State Highway(白色の盾のようなマーク)の看板に道路番号と州の名前が書いてあることがある</li>
     </ul>
 </div>
 

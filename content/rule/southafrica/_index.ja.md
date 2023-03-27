@@ -15,7 +15,7 @@ flag: "ZA.png"
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.za</span></li>
-        <li>Sasolは南アフリカのエネルギー・化学事業の企業</li>
+        <li>Sasolは南アフリカのエネルギー・化学事業の企業、ガソリンスタンドがある。</li>
     </ul>
 </div>
 
