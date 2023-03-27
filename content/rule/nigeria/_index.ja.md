@@ -32,7 +32,7 @@ flag: "NG.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679887228862!6m8!1m7!1sUfpxtTNF_4S8exKiYR8Avg!2m2!1d6.60009298151657!2d3.377843834579361!3f131.48897303132352!4f-41.12882916360397!5f0.6823642230179563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption city-description">
+<div class="main-desciption area-description">
     <h2 class="section-title">都市判定のルール</h2>
         <li>パトカーの赤青の位置で地域を絞り込める、海沿いの地域は赤色のランプが<span class="quiz">右側</span>にある{{% by %}}</li>
     <ul class="rule-list">
