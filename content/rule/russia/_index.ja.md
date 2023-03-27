@@ -15,6 +15,7 @@ flag: "RU.png"
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ru</span></li>
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
+        <li>道路わきの看板の数値は始点と終点の距離を表している</li>
     </ul>
 </div>
 
@@ -23,6 +24,7 @@ flag: "RU.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679574012765!6m8!1m7!1sR8-KOr_YgIRzPFz_zEBCAg!2m2!1d56.73993333236672!2d37.54780178613612!3f309.44431274604256!4f-0.27220425709052165!5f3.319031129903795" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679574031395!6m8!1m7!1skQtKcHHlJLO40HHPNKf8jw!2m2!1d56.73983042158815!2d37.54903639461046!3f115.84508252416973!4f0.909471290727339!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679574074643!6m8!1m7!1sSz3YBGvX_G9GO-3a2kngPw!2m2!1d55.88166998266146!2d37.67769796696383!3f14.66120805391743!4f1.8099190264838256!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679952008394!6m8!1m7!1sKN-3kAd_mxa5SqB13YgGug!2m2!1d54.58244420016089!2d100.3601711274949!3f131.58138593641155!4f-2.7641070240745194!5f3.294422798080353" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

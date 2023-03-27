@@ -92,6 +92,12 @@ bg: "bg/up.jpg"
 
 
 ## ヨーロッパ
+### フランス
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679951676973!6m8!1m7!1sDb8mpzXUjYTWEev5jZpAQw!2m2!1d47.8565726220635!2d-2.40951723824625!3f83.15897273210571!4f-2.295057256956582!5f2.4011815787384854" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### ルーマニア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678475273406!6m8!1m7!1sx5ADIit-2OU4icoyzIqqNw!2m2!1d46.45385037654135!2d25.43755994847187!3f41.03613815676085!4f19.15392646260429!5f0.4000000000000002" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -27,6 +27,7 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679675547999!6m8!1m7!1sXjBirN0KjRv43UsoV0TseA!2m2!1d37.61066408709219!2d14.24705637951201!3f19.79028760073778!4f-16.09977612069892!5f3.144507152724452" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679951074620!6m8!1m7!1sraBOZFgfxQ5JLemLVU0ESg!2m2!1d43.16705853048431!2d12.77781161988071!3f248.2504232080267!4f-0.7558497052979902!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ## アフリカ

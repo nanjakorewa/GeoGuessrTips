@@ -28,6 +28,7 @@ sections: [""]
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679675589670!6m8!1m7!1slFVXujC9Op7ThF74FvmasA!2m2!1d37.61081126454783!2d14.24692170987816!3f325.4913999471977!4f-10.111595571096501!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679951036760!6m8!1m7!1sIEUWD5fYba2gczGTnEEFDw!2m2!1d43.16686727372661!2d12.77751759439546!3f352.6375152704196!4f-18.646676625627762!5f3.1902177612185434" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### ノルウェー
