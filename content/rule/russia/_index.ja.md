@@ -30,7 +30,12 @@ flag: "RU.png"
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
+        <li>電話番号を見れば地域を絞り込むことができる、西から順番に<span class="quiz">4-8-3-4</span>{{% by %}}</li>
     </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680003745664!6m8!1m7!1sjvjcsF72fgVUqCsuPFAgNg!2m2!1d48.76616308343603!2d44.53529709996617!3f182.68809382884308!4f-25.02278107070356!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption city-description">

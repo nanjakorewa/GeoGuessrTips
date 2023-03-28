@@ -44,5 +44,10 @@ flag: "BO.png"
 <div class="main-desciption city-description">
     <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
+        <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
     </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

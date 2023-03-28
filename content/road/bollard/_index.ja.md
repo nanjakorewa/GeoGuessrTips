@@ -12,6 +12,7 @@ sections: [""]
 ### アメリカ
 
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680004554870!6m8!1m7!1skzsyV7yS0N-8pc0Lq2DHQQ!2m2!1d47.25779110056142!2d-117.3615673228675!3f26.680279106853263!4f-5.060031078899939!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679573583026!6m8!1m7!1sV2s0rwkTr-vzl1U5QuwRbA!2m2!1d46.24595817402663!2d-109.8942293545634!3f320.7825889811589!4f-10.719501610942118!5f3.1671814977329493" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679668841183!6m8!1m7!1sJ9TiTJU87Qlcit7a1tboiQ!2m2!1d45.36654562658928!2d-122.6226238858223!3f258.81449215553613!4f-19.847465937137784!5f3.3202884030927327" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679669042479!6m8!1m7!1stBTXPAftiBmZPlsXryL4Vg!2m2!1d41.8662852785204!2d-123.3072177887989!3f124.94357005863893!4f-14.042630182513179!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -25,6 +26,11 @@ sections: [""]
 </div>
 
 ## 南米
+### ボリビア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680005488433!6m8!1m7!1s5FwH1zJOYiVxwWkGdt8h4A!2m2!1d-16.31947805230926!2d-67.93097111220254!3f130.42249240679877!4f-24.887135847730434!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 ### メキシコ
 
