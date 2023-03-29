@@ -101,6 +101,7 @@ bg: "bg/up.jpg"
 ### ルーマニア
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678475273406!6m8!1m7!1sx5ADIit-2OU4icoyzIqqNw!2m2!1d46.45385037654135!2d25.43755994847187!3f41.03613815676085!4f19.15392646260429!5f0.4000000000000002" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680077745806!6m8!1m7!1sevS1CDIFqQeTygUV-hkMrQ!2m2!1d47.18257264018282!2d24.13424782540352!3f90.38747125956644!4f-5.529249321096842!5f1.7108369592371058" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 ### ギリシャ

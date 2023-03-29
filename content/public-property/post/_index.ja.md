@@ -31,3 +31,9 @@ sections: [""]
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679556740976!6m8!1m7!1sqPAXwNHHZMNLtLM3YQtkFw!2m2!1d39.47124124807391!2d-0.385838300193347!3f280.72847340143625!4f-8.296215444139605!5f3.3220638746280917" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+### ルーマニア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680077869555!6m8!1m7!1s8pniW69NpYiPfHCDsN26gw!2m2!1d47.18184264603725!2d24.13340744804076!3f134.30252925366528!4f-18.644864683155404!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
