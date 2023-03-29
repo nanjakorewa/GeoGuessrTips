@@ -57,6 +57,12 @@ bg: "bg/up.jpg"
 </div>
 
 ## アジア
+### ロシア
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680098713633!6m8!1m7!1sHJif8tsD7I0OwOsjMOhoKQ!2m2!1d55.82206253338058!2d61.11119897996274!3f83.86944361300041!4f-5.27806998799403!5f3.3249101881940972" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 ### インド
 
 <div class="googlemap-if">
