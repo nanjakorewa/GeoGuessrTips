@@ -66,6 +66,11 @@ sections: [""]
 </div>
 
 ## ヨーロッパ
+
+<div class="googlemap-if">
+{{% twitter "1641257052873068546" %}}
+</div>
+
 ### イギリス
 
 <div class="googlemap-if">

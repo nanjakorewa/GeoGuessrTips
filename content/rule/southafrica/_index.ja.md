@@ -26,3 +26,22 @@ flag: "ZA.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679676890815!6m8!1m7!1sEiYrCc-EL4OLi2sN4NEygQ!2m2!1d-28.83509760862618!2d22.06982439157163!3f252.8381689731987!4f-8.984915707595178!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679677105343!6m8!1m7!1sHzQ8bmbPPm9pnYOkg83_iw!2m2!1d-33.94114997232529!2d18.60874629092492!3f8.347004415763166!4f2.5505209374776427!5f3.0833772611191104" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="googlemap-if">
+{{% twitter "1640831519643127808" %}}
+</div>
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+<div class="googlemap-if">
+</div>

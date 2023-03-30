@@ -39,3 +39,6 @@ flag: "LK.png"
     <ul class="rule-list">
     </ul>
 </div>
+
+<div class="googlemap-if">
+</div>

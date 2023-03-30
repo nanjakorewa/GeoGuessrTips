@@ -42,6 +42,9 @@ flag: "MX.png"
     </ul>
 </div>
 
+<div class="googlemap-if">
+{{% twitter "1636192764026310656" %}}
+</div>
 
 <div class="main-desciption city-description">
     <h2 class="section-title">都市判定のルール</h2>

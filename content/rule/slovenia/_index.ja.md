@@ -29,8 +29,15 @@ flag: "SI.png"
     </ul>
 </div>
 
+<div class="googlemap-if">
+</div>
+
 <div class="main-desciption city-description">
     <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
 </div>
+
+<div class="googlemap-if">
+</div>
+
