@@ -15,6 +15,7 @@ flag: "SG.png"
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sg</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li>タクシーが<span class="quiz">青い</span>ものが多い</li>
     </ul>
 </div>
 
@@ -22,6 +23,7 @@ flag: "SG.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679852531249!6m8!1m7!1shopsxqe-gcdY5sO_qH8HlA!2m2!1d1.328420203187212!2d103.8172874522778!3f168.9675884512498!4f-35.89432901282702!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679852587557!6m8!1m7!1sW-8wECxIymQyM8fkSxnfaw!2m2!1d1.330416097591386!2d103.81870545294!3f270.7969206612905!4f-12.187423936306587!5f1.5277309468610167" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679852616021!6m8!1m7!1sSAQ-IdU26DpyT3x8uPbghA!2m2!1d1.329655164651806!2d103.8183630017216!3f90.06643982622379!4f4.839235395122827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680189398168!6m8!1m7!1sfORGL1VwUzXzc835FgqzhA!2m2!1d1.345239466604917!2d103.9411126585272!3f177.00259794232878!4f-6.762513167735037!5f3.2674791937915324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

@@ -48,6 +48,12 @@ bg: "bg/bird.jpg"
 
 
 ## ヨーロッパ
+### ガラパゴス
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680191359216!6m8!1m7!1sTPmlAUiSMFvXwo4cyOJUrw!2m2!1d-0.4483616225908932!2d-91.09588717773501!3f180.04840253532655!4f-18.403467122510975!5f2.8629994416221414" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+## ヨーロッパ
 
 ### イギリス
 <div class="googlemap-if">

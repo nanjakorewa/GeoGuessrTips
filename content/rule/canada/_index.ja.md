@@ -50,3 +50,7 @@ flag: "CA.png"
     <ul class="rule-list">
     </ul>
 </div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680191508602!6m8!1m7!1sJI8nq2RINatkw8MzrmI99A!2m2!1d38.73942025882127!2d-27.12283244372979!3f278.9748366311077!4f-13.5202200945307!5f0.9344039572196592" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

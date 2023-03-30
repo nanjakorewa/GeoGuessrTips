@@ -14,6 +14,7 @@ flag: "PL.png"
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pl</span></li>
+        <li>教会の場所も場所を絞り込む上で参考にできる（教会マークがある）</li>
     </ul>
 </div>
 
@@ -23,6 +24,7 @@ flag: "PL.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679573052756!6m8!1m7!1sMACRIDM__EFGk5qNWIk65w!2m2!1d54.03095876476053!2d21.67112053832691!3f277.24051624926057!4f-8.400361874112363!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679666820838!6m8!1m7!1sr1NL1JvrmdjmXM-qmIeanA!2m2!1d50.19073203861156!2d19.16465347013119!3f136.46894915325737!4f-10.402109214901017!5f3.323581772503012" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680102862400!6m8!1m7!1sklY3ICnwX3cheAJbtnhG1A!2m2!1d50.45448291473033!2d18.52204277933721!3f124.85585522795998!4f8.349946974971147!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680187365795!6m8!1m7!1sEVIqENdNb5Zn_d0gD4PNqw!2m2!1d50.97323346407659!2d19.04866347685575!3f1.5789591040383952!4f-7.203666982772006!5f1.779262730331714" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

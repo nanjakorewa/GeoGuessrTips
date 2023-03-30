@@ -30,6 +30,7 @@ flag: "US.png"
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
+        <li>ゴミ箱に州や都市の名前が書いてあることがある、特定の地域のみ事業を展開するゴミ収集業者もある。</li>
         <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
         <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びる。北東ほど数字が大きくなる、詳細は以下の説明参照。</li>
         <li>TxTag=テキサス州、FARM ROADと書かれた看板もテキサス州のみ。</li>
@@ -73,4 +74,21 @@ flag: "US.png"
     <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
     </ul>
+</div>
+
+
+
+<div class="main-desciption other-description">
+    <h2 class="section-title">その他のルール</h2>
+    <ul class="rule-list">
+        <li>分譲住宅が等間隔に並んでいる場所は、地図上で区画整備された綺麗な地域</li>
+    </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680188369521!6m8!1m7!1scS9Z9KMVw4v5g90tFC2Rng!2m2!1d27.06095681344647!2d-82.11647580019648!3f0.4410233468744309!4f-9.147972996849418!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div>
+<img src="./2023-03-31-00-00-46.png">
+</div>
 </div>
