@@ -15,6 +15,11 @@ flag: "PH.png"
     <ul class="rule-list">
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>ドメインは<span class="quiz">.ph</span></li>
+        <li>車は<span class="quiz">右側</span>通行</li>
+        <li>ジプニーとよばれるバスのようなものが主な交通手段、派手な色でカラフル。一回10円～20円で乗れるとか。</li>
+        <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。</li>
+        <li class="no-evidence">標識に赤茶色のポールが多いかも？</li>
+        <li class="no-evidence">味が未知数のローヤルクラウン・コーラが結構人気で売られているという（フィリピンとアメリカのジョージア州で人気らしい）</li>
     </ul>
 </div>
 
@@ -26,12 +31,19 @@ flag: "PH.png"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101597984!6m8!1m7!1sob1T9Xf3nxM5M-uqUiNqXA!2m2!1d7.432173159783827!2d125.8181428566435!3f318.96844721474974!4f-5.298390129420483!5f2.9122508693376283" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101683682!6m8!1m7!1slsjcdrGD_GttzmqXu2Vj5w!2m2!1d7.422663125519563!2d125.7899286558793!3f243.59317188971173!4f16.39801517690954!5f1.5446046745650515" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101739474!6m8!1m7!1sTyeObkPyGj8YuX9dN0z38A!2m2!1d7.422406929066982!2d125.7903360325907!3f239.67141175517145!4f-1.3145434412512884!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680249568006!6m8!1m7!1sk8Jy5kOVDVVSqxH8qcrNXA!2m2!1d8.668231537436485!2d125.8616461585333!3f223.60335544229616!4f-6.8045127009913955!5f3.3068862113781123" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680249674643!6m8!1m7!1styPReco5CCf6mijnlw9zhw!2m2!1d8.667798044980291!2d125.8604272841918!3f43.368190812299964!4f-6.674662938576006!5f3.3022879075983824" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680249781531!6m8!1m7!1sCgLuMD_CQVNlp_5GCdbQuw!2m2!1d8.6718633256141!2d125.8553665045728!3f168.42819800819322!4f-6.48711248298369!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680250202954!6m8!1m7!1s6ZsrvkhrAUsc8NxpRYr6-Q!2m2!1d7.269869013438476!2d125.4470118037702!3f182.72804515039002!4f-2.164321473307922!5f1.4108827045451338" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680250285600!6m8!1m7!1s1RFN8a_PAn3J5U1yCuSRhg!2m2!1d14.68683955964275!2d121.0941749568071!3f114.69822598885298!4f-25.907017105030604!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
+        <li>電話番号でおよその地域が特定できる{{% by %}}</li>
+        <li>トライシクルに都市名が書いてある場合があるが、ぼやけてほぼ読めない</li>
     </ul>
 </div>
 

@@ -32,10 +32,14 @@ flag: "EC.png"
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域判定のルール</h2>
     <ul class="rule-list">
+        <li>ガラパゴス諸島が出ることがある、亀が山の上に居たらガラパゴス。</li>
     </ul>
 </div>
 
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680249153855!6m8!1m7!1sdm_DVRdf9CF5Ss9GE30yNg!2m2!1d-0.4984015770416068!2d-90.24613166043521!3f220.89158686621346!4f-17.528547230976784!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680249221609!6m8!1m7!1sDXZHpH2dI-jl4he017llkw!2m2!1d-0.4162076752774983!2d-91.0768570626588!3f13.734589964879623!4f-6.630947050301344!5f1.6941534706465222" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680249284657!6m8!1m7!1sARTombQFxhFza4Ks_dB8BQ!2m2!1d-1.239974460591865!2d-90.44942957768605!3f195.65312316485995!4f-10.989326523785195!5f1.8777244862158349" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption city-description">
