@@ -34,10 +34,12 @@ flag: "GB.png"
 <div class="main-desciption city-description">
     <h2 class="section-title">都市判定のルール</h2>
     <ul class="rule-list">
+        <li>ゴミ箱に都市名が書いてあることがある。ぼやけて読みづらいことが多いけど意識すれば読めることもある？（紫：リヴァプール、茶：シェフィールド）</li>
     </ul>
 </div>
 
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679571437362!6m8!1m7!1sJd8ZnR7mP3RPS7FnYSW9_Q!2m2!1d53.39061787848632!2d-2.927909681070305!3f285.8927513127508!4f-18.067507337726752!5f3.3189598438815993" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680200757257!6m8!1m7!1sQ2Iqcnxz761OHd2L2SD6rw!2m2!1d53.36407651796604!2d-1.465387540718546!3f18.751888530194126!4f-11.51422017626156!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
