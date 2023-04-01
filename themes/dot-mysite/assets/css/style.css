@@ -899,3 +899,9 @@ p.hidden-display-text {
   overflow: hidden;
   white-space: nowrap;
 }
+
+div.msg-to-gpt {
+  opacity: 0.1;
+  font-size: 0.1em;
+  display: none;
+}
