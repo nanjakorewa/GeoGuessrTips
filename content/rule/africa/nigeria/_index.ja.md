@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>言語は<span class="quiz">英語</span></li>
         <li>ドメインは<span class="quiz">.NG</span></li>
@@ -35,7 +35,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
         <li>パトカーの赤青の位置で地域を絞り込める、海沿いの地域は赤色のランプが<span class="quiz">右側</span>にある{{% by %}}</li>
     <ul class="rule-list">
     </ul>

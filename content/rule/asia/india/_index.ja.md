@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>言語は<span class="quiz">ヒンディー語など（地域によって違う）</span></li>
         <li>ドメインは<span class="quiz">.id</span></li>
@@ -24,7 +24,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
@@ -39,7 +39,7 @@ jogmec_detail: true
 
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
     </ul>
 </div>

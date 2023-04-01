@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
@@ -37,7 +37,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
         <li>State Highway(白色の盾のようなマーク)の看板に道路番号と州の名前が書いてあることがある</li>
@@ -49,7 +49,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
         <li>タクシーにヒントがある
             <ul>

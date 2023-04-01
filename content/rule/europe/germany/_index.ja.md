@@ -12,7 +12,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.de</span></li>
         <li>ドイツ語の母音は「a・i・u・e・o」と<span class="quiz">ウムラウト「ü・ö・ä」</span>の8つ</li>
@@ -30,7 +30,7 @@ jetro_detail: true
 
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}</li>
     </ul>

@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>
@@ -30,7 +30,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>ゴミ箱に州や都市の名前が書いてあることがある、特定の地域のみ事業を展開するゴミ収集業者もある。</li>
         <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
@@ -73,7 +73,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
     </ul>
 </div>

@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>コロンビアのGoogleCarには<span class="quiz">黒い太目のアンテナ</span>がついている時とついていない時がある</li>
         <li>路側帯は<span class="quiz">白</span>で、中央線は<span class="quiz">黄色</span></li>
@@ -31,7 +31,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
     </ul>
 </div>
@@ -43,7 +43,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
         <li>タクシーとトラックの屋根または側面にサイドプレートがあり、<span class="quiz">ナンバーと都市名</span>が書いてある</li>
     </ul>

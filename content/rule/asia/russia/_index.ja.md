@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ru</span>、<span class="quiz">.su</span>を使うこともある（ソ連の国別コードトップレベルドメイン）</li>
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
@@ -35,7 +35,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>電話番号を見れば地域を絞り込むことができる、西から順番に<span class="quiz">4-8-3-4</span>{{% by %}}</li>
         <li>右ハンドルの日本車の割合が余りにも多いなら日本に近い地域かも？{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}</li>
@@ -48,7 +48,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
     </ul>
 </div>

@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.gb</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
@@ -27,14 +27,14 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>道路番号の先頭の数字で地域が分かる{{% by %}}</li>
     </ul>
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
         <li>ゴミ箱に都市名が書いてあることがある。ぼやけて読みづらいことが多いけど意識すれば読めることもある？（紫：リヴァプール、茶：シェフィールド）</li>
     </ul>

@@ -12,7 +12,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>
         <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
@@ -30,7 +30,7 @@ jetro_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の2桁で地域がわかる</li>
         <li>01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
@@ -38,7 +38,7 @@ jetro_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
     </ul>
 </div>

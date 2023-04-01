@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国判定のルール</h2>
+    <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>南米最大規模の銀行、Banco Itaúの<span class="quiz">オレンジ色の看板</span>がたくさんある</li>
@@ -34,7 +34,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域判定のルール</h2>
+    <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>道路番号を見ればおよその地域がわかる、BR-XXXはブラジル国道。</li>
         <li>BAでないものは州の名前を表している、州を特定したらその中で番号を探すと道が見つかる。</li>
@@ -50,7 +50,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市判定のルール</h2>
+    <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
     </ul>
 </div>
