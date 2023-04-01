@@ -8,6 +8,8 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "PH.png"
+jetro_detail: true
+jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">

@@ -47,7 +47,40 @@
             <div class="content unclickable"><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" /></div>
             {{ end }}
           {{ end }}
-          <div class="content">{{.Content}}</div>
+          <div class="content">
+
+          <!-- main information -->
+          {{ if .Params.flag }}
+          {{ $countryName := lower (slicestr .Params.flag 0 2) }}
+          {{ if (eq $countryName "id" )}}{{ $countryName = "idn" }}{{ end }}
+          {{ $worldName := path.Base (path.Dir (path.Dir .File.Dir)) }}
+          {{ if (eq $countryName "ru" )}}{{ $worldName = "russia_cis" }}{{ end }}
+          <div class="main-information">
+              <h4 class="section-title">関連サイト</h2>
+              <ul class="info-list">
+                  <li><a href="https://ja.wikipedia.org/wiki/{{ .Title }}">{{ .Title }} (wikipedia)</a></li>
+                  {{ if not .Params.no_jetro }}
+                  <li>
+                      <a href="https://www.jetro.go.jp/world/{{ $worldName}}/{{$countryName}}/">{{ .Title }}の基本情報</a>
+                      {{ if .Params.jetro_detail }}・
+                      <a href="https://www.jetro.go.jp/world/{{ $worldName }}/{{$countryName}}/basic_01.html">言語・宗教</a>・
+                      <a href="https://www.jetro.go.jp/reportstop/{{ $worldName }}/{{$countryName}}/reports/">調査レポート</a>
+                      {{ end }}(JETRO/独立行政法人日本貿易振興機構)
+                  </li>
+                  {{ if .Params.jogmec_detail }}
+                  <li><a href="https://mric.jogmec.go.jp/country/?c={{$countryName}}">{{ .Title }}の鉱業一般概況 (JOGMEC/独立行政法人エネルギー・金属鉱物資源機構)</a></li>
+                  {{ end }}
+                  <li><a href="https://oilgas-info.jogmec.go.jp/sougou/index.html?cnt=10&pg=1&key={{ .Title }}">{{ .Title }}の記事検索 (JOGMEC 石油・天然ガス資源情報)</a></li>
+                  {{ end }}
+                  {{ if (eq $countryName "idn" )}}{{ $countryName = "id" }}{{ end }}
+                  <li><a href="https://ja.wikipedia.org/wiki/.{{$countryName }}">.{{ $countryName }} (wikipedia)</a></li>
+              </ul>
+          </div>
+          {{ end }}
+          <!-- /main information -->
+
+          {{.Content}}
+        </div>
           {{ else }}
           <div class="bg-light p-4">
             <ul class="page-list">

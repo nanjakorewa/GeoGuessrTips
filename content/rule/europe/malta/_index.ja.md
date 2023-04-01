@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "MT.png"
+jetro_detail: false
 ---
 
 

@@ -1,0 +1,55 @@
+---
+title: "ボリビア"
+date: 2023-02-26
+lastmod: 2023-02-26
+weight: 1
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "BO.png"
+jetro_detail: true
+jogmec_detail: true
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">国判定のルール</h2>
+    <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.bo</span></li>
+        <li>標識を立てる棒が四角い製材（？）なのか、ぱっと見でよくわからない素材でできている</li>
+        <li>ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている</li>
+    </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679137598189!6m8!1m7!1s2eWjw31SO7MsxkgeQdTxsg!2m2!1d-17.49331764844531!2d-67.44580057149!3f2.2754052554731174!4f-9.170003899219893!5f2.6394910242512153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679683485088!6m8!1m7!1sNG6sO-1cHTa0GlS_2uJneA!2m2!1d-16.53816045576946!2d-68.160514917469!3f216.51915282146342!4f5.2207183296746535!5f3.0914199858140696" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679480359158!6m8!1m7!1sAGAD5R6_7G-M_4yNGRDstw!2m2!1d-17.74191350835184!2d-63.15618182467038!3f81.55340430449235!4f1.8284055251925935!5f3.0954258680931925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域判定のルール</h2>
+    <ul class="rule-list">
+        <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
+        <li>スクレのみ条例によって壁を白くすることが義務付けられている</li>
+    </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679813951600!6m8!1m7!1sQJGqwFtDGPzUKSqwJ1QVQA!2m2!1d-17.77139549244364!2d-63.11097934771753!3f253.7606520157439!4f-10.953950473285772!5f1.6485012874313432" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814081593!6m8!1m7!1sZQr3C-bNtD-rL_lC2hXnSg!2m2!1d-17.79584406502019!2d-63.17419938666396!3f116.44482324171602!4f-8.400050107833763!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814032711!6m8!1m7!1sFSki3TR90NUS-SYIVfx1eg!2m2!1d-16.50206580841095!2d-68.19699580026527!3f97.8139935632015!4f1.9383141508718467!5f1.5592948283649846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814195427!6m8!1m7!1sqVq9ioJYAgRYmFLoRyqkoA!2m2!1d-19.04399405020461!2d-65.26165030496426!3f277.81409401247646!4f-1.528780717322391!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">都市判定のルール</h2>
+    <ul class="rule-list">
+        <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
+    </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>

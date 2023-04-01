@@ -80,6 +80,33 @@ div.main-description li ul {
   margin: 0.1em;
 }
 
+div.main-information {
+  margin: 1em;
+  padding: 1em 0em 0em 1em;
+  border: 1px solid rgba(10, 10, 10, .6);
+}
+
+div.main-information li {
+  line-height: 1.2em;
+  margin: 0.1em;
+}
+
+div.main-information li ul {
+  line-height: 1em;
+  margin: 0.1em;
+}
+
+div.main-information a::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f2d0";
+  margin-right: 0.2em;
+}
+
+.content div.main-information ul li::before {
+  position: absolute;
+  content: '';
+  opacity: 0 !important;
+}
 
 div.googlemap-if {
   width: 100% !important;
