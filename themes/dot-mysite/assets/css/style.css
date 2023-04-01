@@ -901,7 +901,7 @@ p.hidden-display-text {
 }
 
 div.msg-to-gpt {
-  opacity: 0.1;
-  font-size: 0.1em;
-  display: none;
+  opacity: 0;
+  font-size: 0.01em;
+  overflow: hidden;
 }
