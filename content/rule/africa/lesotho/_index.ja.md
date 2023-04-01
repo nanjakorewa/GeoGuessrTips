@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "LS.png"
+no_detaile_info: true
 jetro_detail: false
 ---
 

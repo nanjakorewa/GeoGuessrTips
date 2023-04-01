@@ -6,6 +6,7 @@ weight: 1
 draft: false
 keywords: [""]
 sections: [""]
+no_detaile_info: true
 bg: "bg/city.jpg"
 ---
 

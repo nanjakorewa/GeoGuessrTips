@@ -8,7 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "EE.png"
-jetro_detail: true
+jetro_detail: false
 ---
 
 <div class="main-desciption country-description">

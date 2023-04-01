@@ -59,7 +59,7 @@
               <h4 class="section-title">関連サイト</h2>
               <ul class="info-list">
                   <li><a href="https://ja.wikipedia.org/wiki/{{ .Title }}">{{ .Title }} (wikipedia)</a></li>
-                  {{ if not .Params.no_jetro }}
+                  {{ if and (not .Params.no_jetro) (not .Params.no_detaile_info) }}
                   <li>
                       <a href="https://www.jetro.go.jp/world/{{ $worldName}}/{{$countryName}}/">{{ .Title }}の基本情報</a>
                       {{ if .Params.jetro_detail }}・

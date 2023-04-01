@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "SN.png"
+no_detaile_info: true
 jetro_detail: true
 ---
 
