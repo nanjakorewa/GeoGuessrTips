@@ -20,6 +20,7 @@ jetro_detail: false
         <li>ドメインは<span class="quiz">.mt</span></li>
         <li>公用語は<span class="quiz">マルタ語とイギリス英語</span></li>
         <li><span class="quiz">石灰岩の産地</span>であり、家や壁が特徴的</li>
+        <li>マルチーズはマルタ原産であり、世界最古の愛玩犬として知られているという{{% by "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%BC%E3%82%BA" "wiki" "マルチーズ" %}}。ただし現地では少ないらしい（<a href="https://note.interlink.blog/n/ncba2cd9e0679">出典</a>）。</li>
     </ul>
 </div>
 

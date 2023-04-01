@@ -18,6 +18,7 @@ jogmec_detail: true
         <li>ナンバープレートは<span class="quiz">白か緑色</span></li>
         <li>ドメインは<span class="quiz">.no</span></li>
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
+        <li>横断歩道の標識は<span class="quiz">4本</span></li>
     </ul>
 </div>
 
