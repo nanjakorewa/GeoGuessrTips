@@ -32,6 +32,8 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680242775381!6m8!1m7!1sS7ojz8fNEd4k1y8WtcBCxQ!2m2!1d56.51279877239423!2d84.94129512574945!3f306.8842112601572!4f-0.7627465631793484!5f2.401554287260961" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680242929738!6m8!1m7!1smL-G0iSOIEDwAYBsjb5KwA!2m2!1d56.52382737043172!2d84.99348800707942!3f56.94888952577256!4f16.229355744784556!5f3.3105564980525917" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680243782245!6m8!1m7!1skIFZfIqwhKpwqbuCl8aw7w!2m2!1d62.0344257376885!2d129.7166523379148!3f140.010507350756!4f-6.54831422365605!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680355869277!6m8!1m7!1sN8-evwVMWCXiQEgo0CPUiw!2m2!1d47.5727822865945!2d141.9610109896992!3f151.4950361048633!4f18.609496516779558!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680355899521!6m8!1m7!1sN8-evwVMWCXiQEgo0CPUiw!2m2!1d47.5727822865945!2d141.9610109896992!3f172.30429118216085!4f-2.146055457107664!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">
@@ -51,4 +53,8 @@ jogmec_detail: true
     <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
     </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680355956674!6m8!1m7!1swCQyCCLu4h1HGAiEDuR3-A!2m2!1d47.57263938188323!2d141.9614530302049!3f334.5752388113423!4f-17.761464329133247!5f3.309016865185011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
