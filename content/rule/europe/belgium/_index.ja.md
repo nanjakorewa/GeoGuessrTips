@@ -15,7 +15,6 @@ jetro_detail: true
     <h2 class="section-title">国判定のルール</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.be</span></li>
-        <li>ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている</li>
         <li>ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}</li>
     </ul>
 </div>
