@@ -16,6 +16,7 @@ jogmec_detail: false
 <div class="main-desciption country-description">
     <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
+        <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.ug</span></li>
         <li class="no-evidence">家は基本木とレンガでできており、玄関にカーテンがかかっていることが多い</li>
     </ul>

@@ -15,6 +15,7 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
+        <li>車は<span class="quiz">右側</span>通行</li>
         <li>言語は<span class="quiz">英語</span></li>
         <li>ドメインは<span class="quiz">.NG</span></li>
         <li>GoogleCarのバーに<span class="quiz">黄色い縞模様</span>がある時がある{{% by %}}</li>

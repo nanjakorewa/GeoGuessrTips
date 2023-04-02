@@ -15,6 +15,7 @@ jetro_detail: false
 <div class="main-desciption country-description">
     <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
+        <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
         <li><span class="quiz">黄色と黒</span>の色のポールが多い</li>
         <li>道路はざらざらした表面で、路側帯は<span class="quiz">オレンジ</span>（無い場所もある）</li>
