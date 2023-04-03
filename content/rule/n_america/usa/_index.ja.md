@@ -27,6 +27,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679759574224!6m8!1m7!1sMgccsmgA_tiWCtZqR0joxA!2m2!1d47.14515154633965!2d-96.96744816500318!3f304.32657977828984!4f21.139234878225608!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679914196265!6m8!1m7!1ssU7DqHbhwtMlINIkQnqQKg!2m2!1d38.41807861902515!2d-78.81779455870951!3f298.17731970216175!4f-2.153473723218184!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680483536123!6m8!1m7!1sCWzP34xaWEWdoxezFQ0_Ig!2m2!1d38.50743521268857!2d-90.32915889749124!3f36.354531633365504!4f-7.775544757794904!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">
@@ -35,7 +36,6 @@ jogmec_detail: true
         <li>ゴミ箱に州や都市の名前が書いてあることがある、特定の地域のみ事業を展開するゴミ収集業者もある。</li>
         <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
         <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びる。北東ほど数字が大きくなる、詳細は以下の説明参照。</li>
-        <li>TxTag=テキサス州、FARM ROADと書かれた看板もテキサス州のみ。</li>
         <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
     </ul>
 </div>
