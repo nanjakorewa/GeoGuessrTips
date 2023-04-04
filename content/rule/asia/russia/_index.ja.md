@@ -52,9 +52,11 @@ jogmec_detail: true
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
+        <li>above ground metal tubes{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355956674!6m8!1m7!1swCQyCCLu4h1HGAiEDuR3-A!2m2!1d47.57263938188323!2d141.9614530302049!3f334.5752388113423!4f-17.761464329133247!5f3.309016865185011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680568075031!6m8!1m7!1sn0bvWbod7ABKSuhedfxguw!2m2!1d53.18501614053784!2d44.06404540436073!3f277.12844123573996!4f-5.65583935692743!5f2.746292577094953" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

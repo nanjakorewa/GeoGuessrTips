@@ -19,6 +19,7 @@ jogmec_detail: true
         <li>南米最大規模の銀行、Banco Itaúの<span class="quiz">オレンジ色の看板</span>がたくさんある</li>
         <li>ガソリンスタンドに<span class="quiz">南米石油最大手ペトロブラス（緑色のロゴ）</span>のものが多い</li>
         <li>ドメインは<span class="quiz">.br</span></li>
+        <li>家のアンテナが特徴的</li>
     </ul>
 </div>
 
@@ -31,6 +32,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346398289!6m8!1m7!1sxNACA2DxVTxFWRXLNevw6Q!2m2!1d-23.64273615107642!2d-46.73722452008128!3f265.21915958244955!4f-6.108065482019114!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680562511215!6m8!1m7!1sZw0Wa2bHwrVo4G0talSJBg!2m2!1d-4.575281620209909!2d-44.65465530257557!3f114.024883564455!4f-2.6355661063917495!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">
