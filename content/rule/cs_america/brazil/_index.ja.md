@@ -34,6 +34,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346398289!6m8!1m7!1sxNACA2DxVTxFWRXLNevw6Q!2m2!1d-23.64273615107642!2d-46.73722452008128!3f265.21915958244955!4f-6.108065482019114!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680562511215!6m8!1m7!1sZw0Wa2bHwrVo4G0talSJBg!2m2!1d-4.575281620209909!2d-44.65465530257557!3f114.024883564455!4f-2.6355661063917495!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680637937577!6m8!1m7!1sZKmsbK58HOTmE1bnj7hBrQ!2m2!1d-23.09485554905553!2d-46.70334116256849!3f91.89474014812524!4f-8.60513111838037!5f1.7817833542507593" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

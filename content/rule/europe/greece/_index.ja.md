@@ -24,6 +24,7 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679482227397!6m8!1m7!1s-_YX9OU-_d_1nMNO_tmWWw!2m2!1d37.96493530525935!2d23.74940432877799!3f195.2890261192887!4f1.6281484979047463!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679482342135!6m8!1m7!1sNCahtFyPK01XyHFYl-H3rA!2m2!1d39.36258188327933!2d22.957585232472!3f149.00109708999727!4f1.381571271880901!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679482685999!6m8!1m7!1soUArf-gswG0-Nw8gYPhKog!2m2!1d38.23412759263164!2d21.73429625123136!3f296.807109926266!4f25.345858232923504!5f1.6195094948571929" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680635995930!6m8!1m7!1sK5hoPYlWycb9Tki6Xj5VsQ!2m2!1d38.41253682461406!2d23.83558671491464!3f17.12261119782924!4f-3.1687550591802562!5f2.4592743292661545" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

@@ -55,7 +55,7 @@
           {{ if (eq $countryName "id" )}}{{ $countryName = "idn" }}{{ end }}
           {{ $worldName := path.Base (path.Dir (path.Dir .File.Dir)) }}
           {{ if (eq $countryName "ru" )}}{{ $worldName = "russia_cis" }}{{ end }}
-          <div class="main-information">
+          <div class="main-information {{ if .Params.no_rel_site}}noshow-area{{ end }}">
               <h4 class="section-title">関連サイト</h2>
               <ul class="info-list">
                   <li><a href="https://ja.wikipedia.org/wiki/{{ .Title }}">{{ .Title }} (wikipedia)</a></li>

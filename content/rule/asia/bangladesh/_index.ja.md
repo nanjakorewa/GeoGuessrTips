@@ -16,7 +16,10 @@ jetro_detail: true
     <ul class="rule-list">
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li class="no-evidence"><span class="quiz">赤と白の縞模様</span>のボラード、色と形は違うものも存在する</li>
+        <li ><span class="quiz">黒と白の縞模様</span>のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li>インドとバングラディシュの大手通信会社は<span class="quiz">airtel（インドとアフリカに展開している）</span></li>
+        <li>Dhaka bankのロゴがあるかも</li>
     </ul>
 </div>
 
@@ -28,6 +31,9 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679316274774!6m8!1m7!1snXq-aZcyDNiSdZAoE-2g4A!2m2!1d23.12548575426592!2d89.29000094720749!3f122.38495290446998!4f-7.833571782505302!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679316439962!6m8!1m7!1sdmYvG2XkifNSiDi7PAQ0Mw!2m2!1d23.38225915977607!2d90.21923277387768!3f1.1454390496104359!4f-7.479103567159129!5f0.7588358809536506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679328504033!6m8!1m7!1s_4Y3m4MCnU6KY_OMabiO_A!2m2!1d23.81222953660417!2d90.42360787687048!3f191.7334373512334!4f5.35054719526714!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680636634650!6m8!1m7!1sYI0Xa1atrX-Qn1k_ad0AkA!2m2!1d24.64427101999302!2d88.66719083664103!3f193.3258756997445!4f-28.379864056242432!5f2.9252105427836863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680636883546!6m8!1m7!1sPg9qU6trE5lkww7uEB-1nA!2m2!1d24.95523837209997!2d90.06248002367622!3f109.9835643660783!4f-16.711091103752253!5f2.776743398340463" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680636944258!6m8!1m7!1smJsoGdfYYvgB3ENtAEcrDA!2m2!1d24.95523765493552!2d90.06311100033894!3f104.90316314976357!4f-6.4727045617172365!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

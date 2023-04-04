@@ -80,6 +80,11 @@ div.main-description li ul {
   margin: 0.1em;
 }
 
+
+div.noshow-area {
+  display: none !important;
+}
+
 div.main-information {
   margin: 1em;
   padding: 1em 0em 0em 1em;
