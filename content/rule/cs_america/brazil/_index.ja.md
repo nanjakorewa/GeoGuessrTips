@@ -19,7 +19,8 @@ jogmec_detail: true
         <li>南米最大規模の銀行、Banco Itaúの<span class="quiz">オレンジ色の看板</span>がたくさんある</li>
         <li>ガソリンスタンドに<span class="quiz">南米石油最大手ペトロブラス（緑色のロゴ）</span>のものが多い</li>
         <li>ドメインは<span class="quiz">.br</span></li>
-        <li>家のアンテナが特徴的</li>
+        <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ</li>
+        <li>標識の裏側が黒いものが多い</li>
     </ul>
 </div>
 

@@ -18,7 +18,8 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.tz</span></li>
         <li>ザンジバルの場合はZanzibarとカメラの下に書いてある、アフリカ本土のタンガニーカから自治権を確保しているザンジバル革命政府が自治をする地域。水色・黒・緑の旗はこの地域限定の旗。</li>
         <li>ナンバープレートは<span class="quiz">赤色</span></li>
-        <li class="no-evidence">なぜか日本車が多い</li>
+        <li class="no-evidence">なぜか日本車がとても多い</li>
+        <li class="no-evidence">バナナ・ココナッツ・パイナップルが育てられている。バナナは24種類あるとか{{% by "https://lonewolf17.com/spice-farm-in-zanzibar-is-fun" "web" "ザンジバル島の「スパイス農園」が、楽しくて、勉強になった！" %}}。</li>
     </ul>
 </div>
 
@@ -32,6 +33,7 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527766424!6m8!1m7!1sCAoSLEFGMVFpcE9ENElzbmxuNGpmbWZ4WlNVT0kwems2QWxRLU4yZ1ppaHFXNlFD!2m2!1d-5.225206531584002!2d39.77466394768658!3f77.34078804392706!4f-13.272554779346109!5f3.2686841641100943" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527882129!6m8!1m7!1sCAoSLEFGMVFpcE1aQmpaZXNybWpzOGpwa0MtSE92YTBiTUdpUHVrVmZEMVVwRWZt!2m2!1d-5.242579508995839!2d39.76789900412926!3f253.48767241880745!4f-15.592865941354532!5f3.215964657252985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680528215257!6m8!1m7!1sCAoSLEFGMVFpcFB1S2lrZzRNQjEtQmdUVVZEV204TDlYWEpRV1hublczbFNTRnN3!2m2!1d-5.242627143259523!2d39.76787754563919!3f64.56926166628209!4f-22.656535060453365!5f2.7437540294776634" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680576210786!6m8!1m7!1sCAoSLEFGMVFpcE5KZXJ2M2FYWGh2Y0tteXp1STliMEk4RDA3aWdJYldVNnRHdndf!2m2!1d-5.247317166542542!2d39.76974236245915!3f77.23335088781994!4f-18.856992860924464!5f1.6905312204364065" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">
