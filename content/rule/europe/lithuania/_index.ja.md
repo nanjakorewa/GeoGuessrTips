@@ -21,6 +21,7 @@ jetro_detail: false
 
 
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680652596235!6m8!1m7!1s_zKoX9UU4L5P5zNqd1D7DQ!2m2!1d53.99039434428663!2d24.00557897515328!3f147.1423685234637!4f-15.40967135699475!5f3.1714462905675824" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

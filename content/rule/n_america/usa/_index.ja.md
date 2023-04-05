@@ -37,6 +37,7 @@ jogmec_detail: true
         <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
         <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びる。北東ほど数字が大きくなる、詳細は以下の説明参照。</li>
         <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
+        <li><a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる</a>かも{{% by "rumilb" "twitch" %}}</li>
     </ul>
 </div>
 
