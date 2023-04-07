@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "TN.png"
 no_detaile_info: true
 jetro_detail: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">

@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "FI.png"
 jetro_detail: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">

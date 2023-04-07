@@ -74,6 +74,9 @@
                   {{ end }}
                   {{ if (eq $countryName "idn" )}}{{ $countryName = "id" }}{{ end }}
                   <li><a href="https://ja.wikipedia.org/wiki/.{{$countryName }}">.{{ $countryName }} (wikipedia)</a></li>
+                  {{ if .Params.plonkit }}
+                  <li><a href="https://www.plonkit.net/{{ path.Base (.File.Dir ) }}">plonk it</a></li>
+                  {{ end }}
               </ul>
           </div>
           {{ end }}

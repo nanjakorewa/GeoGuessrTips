@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "GB.png"
 jetro_detail: true
 jogmec_detail: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">

@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "BW.png"
 no_detaile_info: true
 jetro_detail: false
+plonkit: true
 ---
 
 <div class="main-desciption country-description">
