@@ -29,6 +29,8 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141478238!6m8!1m7!1sB4GDIhPzJwbSQ52H8g7Sig!2m2!1d51.80858880734058!2d4.703012450152431!3f226.0633701872837!4f-20.003968237083072!5f2.5151455284697817" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344268948!6m8!1m7!1sOmce0ad2XrNd6h0DKLZm4w!2m2!1d52.07884760123279!2d4.812233108178345!3f286.487485256276!4f-11.403886350573686!5f1.5536035670833046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344477467!6m8!1m7!1sksoNxDxOgE1x6k6PhqdZzA!2m2!1d52.35462369937679!2d4.950458885723939!3f221.47995793446393!4f1.1243180771967474!5f2.285106199018506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680776471376!6m8!1m7!1sJfPnL8Hsi0IPghLup8GIzQ!2m2!1d51.60542460100383!2d6.045330555955398!3f158.27245110585704!4f-9.924312843496352!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680776514480!6m8!1m7!1s-7n1VFjx_nAV_qFYYwPqiA!2m2!1d51.60560341247388!2d6.044987637655998!3f263.1800180302207!4f-14.752971452669513!5f3.32234471507444" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="main-desciption area-description">

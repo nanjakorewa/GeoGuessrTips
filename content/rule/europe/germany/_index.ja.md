@@ -19,6 +19,7 @@ jetro_detail: true
         <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツ語の冠詞は<span class="quiz">「der・die」（男性名詞・女性名詞で異なる）</span></li>
         <li>四角いモザイク {{% by "neckoluv" "twitch" %}}が多い。移動して急に建物にモザイクがかかるのはドイツかも。</li>
+        <li>Einbahnstraßeは一方通行の標識</li>
     </ul>
 </div>
 
