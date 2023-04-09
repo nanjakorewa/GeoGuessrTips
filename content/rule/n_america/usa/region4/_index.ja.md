@@ -31,7 +31,7 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "標識・電柱" %}}
+{{% tab "道路・道路際" %}}
 {{% /tab %}}
 {{% tab "建物" %}}
 {{% /tab %}}

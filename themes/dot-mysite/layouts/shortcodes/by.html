@@ -2,7 +2,7 @@
 {{- if eq (.Get 1) "twitch" -}}
 <a href="https://www.twitch.tv/{{ .Get 0 }}" class="hinttext by-twitch">(by {{ .Get 0 }} <i class="fab fa-twitch"></i>)</a>
 {{- else if eq (.Get 1) "wiki" -}}
-<a href="{{ .Get 0 }}" class="hinttext by-wiki">(from Wikipedia <i class="fab fa-wikipedia-w"></i>)</a>
+<a href="{{ .Get 0 }}" class="hinttext by-wiki">(from Wikipedia 『{{ .Get 2 }}』<i class="fab fa-wikipedia-w"></i>)</a>
 {{- else if eq (.Get 1) "web" -}}
 <a href="{{ .Get 0 }}" class="hinttext by-web">(from 『{{ .Get 2 }}』<i class="fab fa-window-maximize"></i>)</a>
 {{- else if eq (.Get 1) "youtube" -}}

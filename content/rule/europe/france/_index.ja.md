@@ -42,7 +42,7 @@ jetro_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "標識・電柱" %}}
+{{% tab "道路・道路際" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499745297!6m8!1m7!1sjhcpN_yf7nbEPTp8ZZzM0A!2m2!1d48.38306966108105!2d-4.527637790167269!3f219.9072758992309!4f4.26856072184178!5f2.885928539097609" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

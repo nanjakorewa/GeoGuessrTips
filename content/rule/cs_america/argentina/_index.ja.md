@@ -43,7 +43,7 @@ plonkit: true
 </div>
 
 {{% /tab %}}
-{{% tab "標識・電柱" %}}
+{{% tab "道路・道路際" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679243304194!6m8!1m7!1shWuhk2-R4aDvj4hjeUfY3w!2m2!1d-38.71909109560899!2d-62.2653046444285!3f88.68167530712972!4f-6.3520060640904035!5f2.8919908027706724" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
