@@ -28,21 +28,3 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680189398168!6m8!1m7!1sfORGL1VwUzXzc835FgqzhA!2m2!1d1.345239466604917!2d103.9411126585272!3f177.00259794232878!4f-6.762513167735037!5f3.2674791937915324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680335960552!6m8!1m7!1s93pxEKwJdbwtfGLLGQsGNg!2m2!1d1.375154243025075!2d103.8320611068703!3f326.4073009331137!4f-11.355978997334716!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-<div class="googlemap-if">
-</div>
-
-<div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-<div class="googlemap-if">
-</div>

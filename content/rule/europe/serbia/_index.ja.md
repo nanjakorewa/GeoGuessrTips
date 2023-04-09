@@ -24,21 +24,3 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679484038664!6m8!1m7!1sg3a68LbDjAXKg7a2inWuPQ!2m2!1d43.84000316236607!2d21.69343511255818!3f355.8746463407556!4f-17.860709868089188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679484104985!6m8!1m7!1sWz8RFN0-CgzApjtxkFwF-w!2m2!1d43.83999275217523!2d21.6932567136369!3f116.84126184225822!4f-17.559530561812622!5f3.281609227185739" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-<div class="googlemap-if">
-</div>
-
-<div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-<div class="googlemap-if">
-</div>
