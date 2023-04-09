@@ -47,7 +47,7 @@ bg: "bg/up.jpg"
 四角いポール。色が塗られているときもある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681038655380!6m8!1m7!1squcIsTa9lAifWBkmwDCUtA!2m2!1d19.48689530196004!2d-70.66121308573531!3f100.52754817554397!4f-3.4878675176739193!5f2.1823840120346865" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681038655380!6m8!1m7!1squcIsTa9lAifWBkmwDCUtA!2m2!1d19.48689530196004!2d-70.66121308573531!3f100.52754817554397!4f-3.4878675176739193!5f2.1823840120346865" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ペルー" %}}
@@ -55,8 +55,8 @@ bg: "bg/up.jpg"
 電柱は道路側に３～４本棒が付きだしているものがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681039719461!6m8!1m7!1syuqvlXBKntGkqLZeKbx08Q!2m2!1d-7.164535948425311!2d-78.46482750393291!3f336.02564457472874!4f18.05477957444974!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681039465332!6m8!1m7!1sqNuqF7FFip7fwhpDk3PSZw!2m2!1d-16.42218377242603!2d-71.56894965143833!3f0.8364414154696647!4f17.91352206758674!5f3.3140961707687007" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681039719461!6m8!1m7!1syuqvlXBKntGkqLZeKbx08Q!2m2!1d-7.164535948425311!2d-78.46482750393291!3f336.02564457472874!4f18.05477957444974!5f3.325193203789971" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681039465332!6m8!1m7!1sqNuqF7FFip7fwhpDk3PSZw!2m2!1d-16.42218377242603!2d-71.56894965143833!3f0.8364414154696647!4f17.91352206758674!5f3.3140961707687007" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -111,7 +111,12 @@ bg: "bg/up.jpg"
 
 {{% tabs  %}}
 {{% tab "フランス" %}}
+{{% notice tip %}}
+<span class="quiz">青いプレート</span>が貼ってあるかも{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}
+{{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681048137991!6m8!1m7!1skN9PPHcI2yjaRk2U6QIhRg!2m2!1d45.0339435257467!2d-0.7395826973967495!3f151.99725813313395!4f-21.08328800397571!5f2.807974713449285" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679951676973!6m8!1m7!1sDb8mpzXUjYTWEev5jZpAQw!2m2!1d47.8565726220635!2d-2.40951723824625!3f83.15897273210571!4f-2.295057256956582!5f2.4011815787384854" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

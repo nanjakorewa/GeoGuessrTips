@@ -26,19 +26,3 @@ jetro_detail: false
 
 {{% twitter "1638018731753496577" %}}
 </div>
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-<div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-
-<div class="googlemap-if">
-</div>
