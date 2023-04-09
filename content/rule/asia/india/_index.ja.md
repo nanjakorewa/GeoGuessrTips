@@ -56,10 +56,14 @@ jogmec_detail: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
+{{% tab "🐮" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680576768727!6m8!1m7!1sCsSa5qjKdB5LG7H7frTarQ!2m2!1d21.59733304072305!2d71.90063518036595!3f173.3701617639863!4f-11.334221154583702!5f2.8168867633906376" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "おまけ" %}}
 <div class="googlemap-if">
 <iframe width="590" height="315" src="https://www.youtube.com/embed/W57wmjn4Zac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680576768727!6m8!1m7!1sCsSa5qjKdB5LG7H7frTarQ!2m2!1d21.59733304072305!2d71.90063518036595!3f173.3701617639863!4f-11.334221154583702!5f2.8168867633906376" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

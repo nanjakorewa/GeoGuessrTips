@@ -21,20 +21,37 @@ plonkit: true
     </ul>
 </div>
 
-
+{{% tabs  %}}
+{{% tab "わかりやすい目印" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+</div>
+{{% /tab %}}
+{{% tab "道路・道路際" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681076154035!6m8!1m7!1snNchDURtOF2Pi8TyFhatdQ!2m2!1d-46.29904350653622!2d168.1016630448194!3f113.5594550555082!4f2.44097960226469!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "乗り物" %}}
+<div class="googlemap-if">
+</div>
+{{% /tab %}}
+{{% tab "建物" %}}
+<div class="googlemap-if">
+</div>
+{{% /tab %}}
+{{% tab "商業施設" %}}
+<div class="googlemap-if">
+</div>
+{{% /tab %}}
+{{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679741730352!6m8!1m7!1s-w4LomdSALY_FPOo0wZJdw!2m2!1d-37.09141488399298!2d174.5943142139898!3f173.92854525093594!4f-25.604961401351787!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
+{{% /tab %}}
+{{% tab "植物" %}}
+<div class="googlemap-if">
 </div>
-
-<div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
+{{% /tab %}}
+{{% /tabs %}}
