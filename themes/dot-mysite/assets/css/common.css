@@ -533,3 +533,7 @@ textarea#commentTextArea {
   max-width: 90%;
   resize: vertical;
 }
+
+.code-tabs {
+  margin: 20px 17px !important;
+}

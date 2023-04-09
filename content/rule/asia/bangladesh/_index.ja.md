@@ -9,9 +9,11 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "BD.png"
 jetro_detail: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">
+
     <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
