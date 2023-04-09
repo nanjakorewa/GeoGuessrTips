@@ -15,7 +15,7 @@ weight: 1000
 - [Highway Route Markers](http://routemarkers.com/)
 - [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html)
 
-<h2 class="no-blur">配信者</h2>
+<h2 class="no-blur">配信者(敬称略)</h2>
 
 ちなみに自分は[GeoGuessr - RTA in Japan Summer 2022](https://www.youtube.com/watch?v=LNRalb3YtSQ)の動画を2023年の正月に見て、そのあと世界が楽しそうで始めた人です。
 
