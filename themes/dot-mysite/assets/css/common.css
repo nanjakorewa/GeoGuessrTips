@@ -537,3 +537,21 @@ textarea#commentTextArea {
 .code-tabs {
   margin: 20px 17px !important;
 }
+
+ol.breadcrumb {
+  padding: 0.5em 0.5em 0.5em 1em;background-color: #fff;
+}
+
+ol.breadcrumb li {
+  display: inline;
+  list-style: none;
+}
+
+ol.breadcrumb li:hover {
+  font-weight: bold;
+}
+
+ol.breadcrumb li:not(:last-child)::after {
+  content: '>';
+  padding: 0 0.5em;
+}

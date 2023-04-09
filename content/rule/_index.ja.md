@@ -6,7 +6,16 @@ type: "docs"
 weight: 1
 ---
 
+## 入門講座
 
 <div class="googlemap-if">
-<iframe src="https://player.twitch.tv/?video=1621039894&parent=geopinning.space" frameborder="0" allowfullscreen="true" scrolling="no" height="378" width="620"></iframe>
+<div id="twitch-embed"></div>
+<script src="https://player.twitch.tv/js/embed/v1.js"></script>
+<script type="text/javascript">
+  new Twitch.Player("twitch-embed", {
+    video: "1621039894",
+    width: "600px",
+    height: "380px",
+  });
+</script>
 </div>

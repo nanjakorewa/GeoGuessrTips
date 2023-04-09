@@ -34,6 +34,9 @@
       </div>
 
       <div class="col-lg-9">
+        <ol class="breadcrumb">
+          {{- template "breadcrumb" (dict "node" . "start" .) }}
+        </ol>
         <div class="p-lg-5 p-4 bg-white apply-bg" style="padding: 1em !important;">
           <h1 class="mb-5">{{ .Title }}</h1>
           {{ if .Content }}
@@ -256,6 +259,20 @@
 </li>
 {{ end }}
 {{ end }}
+
+{{- define "breadcrumb" }}
+  {{- if .node.Parent }}
+    {{- template "breadcrumb" (dict "node" .node.Parent "start" .start) }}
+  {{- else if not .node.IsHome }}
+    {{- template "breadcrumb" (dict "node" .node.Site.Home "start" .start) }}
+  {{- end }}
+
+  {{- if eq .node .start }}
+    <li>{{ .node.LinkTitle }}
+  {{- else }}
+    <li><a href="{{ .node.Permalink }}">{{ .node.LinkTitle }}</a>
+  {{- end }}
+{{- end }}
 
 <!-- embedcode -->
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
