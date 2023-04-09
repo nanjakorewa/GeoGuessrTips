@@ -30,7 +30,7 @@ plonkit: true
 {{% /tab %}}
 {{% tab "道路・道路際" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681076154035!6m8!1m7!1snNchDURtOF2Pi8TyFhatdQ!2m2!1d-46.29904350653622!2d168.1016630448194!3f113.5594550555082!4f2.44097960226469!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681076154035!6m8!1m7!1snNchDURtOF2Pi8TyFhatdQ!2m2!1d-46.29904350653622!2d168.1016630448194!3f113.5594550555082!4f2.44097960226469!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "乗り物" %}}
