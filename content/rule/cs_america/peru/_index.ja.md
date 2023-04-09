@@ -21,7 +21,7 @@ jetro_detail: true
 
 
 {{% tabs  %}}
-{{% tab "重要なヒント" %}}
+{{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">

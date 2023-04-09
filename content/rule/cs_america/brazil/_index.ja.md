@@ -26,7 +26,7 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "重要なヒント" %}}
+{{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
 BR＝ブラジル国道、他の記号＝州の名前を表している。
 {{% /notice %}}

@@ -23,7 +23,7 @@ jetro_detail: false
 </div>
 
 {{% tabs  %}}
-{{% tab "重要なヒント" %}}
+{{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
 Googleカーに黒色の４本のゴムが見える。
 {{% /notice %}}

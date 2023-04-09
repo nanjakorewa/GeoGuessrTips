@@ -24,7 +24,7 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "重要なヒント" %}}
+{{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
 標識の棒は<span class="quiz">細く白い素材</span>で、看板の背面には<span class="quiz">白色か灰色のクロス</span>が存在する
 {{% /notice %}}

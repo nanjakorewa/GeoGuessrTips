@@ -24,7 +24,7 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "重要なヒント" %}}
+{{% tab "わかりやすい目印" %}}
 
 {{% notice tip %}}
 ～MEXと名の付く会社はメキシコの大手企業に多い。OXXOはメキシコの大手コンビニ。

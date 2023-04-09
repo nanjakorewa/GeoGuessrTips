@@ -22,7 +22,7 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "重要なヒント" %}}
+{{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
 ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている。ただし色が違う地域や建物がほぼ無い地域もある。
 {{% /notice %}}
