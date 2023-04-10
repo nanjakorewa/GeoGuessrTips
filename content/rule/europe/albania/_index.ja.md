@@ -8,8 +8,8 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "AL.png"
-jetro_detail: true
-plonkit: true
+jetro_detail: false
+plonkit: false
 ---
 
 <div class="main-desciption country-description">
