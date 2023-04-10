@@ -34,7 +34,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679241217157!6m8!1m7!1sl3OsNKZrdERhKWo0dDIGGA!2m2!1d22.71288525097118!2d90.35422200087513!3f280.85811143171856!4f-39.81621495433588!5f1.5966149083906154" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680636944258!6m8!1m7!1smJsoGdfYYvgB3ENtAEcrDA!2m2!1d24.95523765493552!2d90.06311100033894!3f104.90316314976357!4f-6.4727045617172365!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

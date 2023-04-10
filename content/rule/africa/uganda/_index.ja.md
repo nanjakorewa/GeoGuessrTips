@@ -24,8 +24,21 @@ plonkit: true
 </div>
 
 
+{{% tabs  %}}
+{{% tab "わかりやすい目印" %}}
+{{% notice tip %}}
+家は基本木とレンガでできている
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680370837232!6m8!1m7!1sniqw2yIcTBIRbvWGbFw6Kw!2m2!1d0.3644098926388094!2d32.71017363529652!3f276.54098798599324!4f-46.77109442191421!5f1.3383447699970703" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680370955739!6m8!1m7!1sBYBmqJcFAz2bxpFuXWFyqw!2m2!1d0.3643938375630771!2d32.7102953117997!3f22.88479347658493!4f-6.584644012386065!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680371115114!6m8!1m7!1s2aig28sOTj5Y3ZVSw5ODHQ!2m2!1d0.3619762262639669!2d32.71553725996051!3f32.97001701434404!4f2.565660290074689!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% /tab %}}
+{{% tab "Google Car" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680370837232!6m8!1m7!1sniqw2yIcTBIRbvWGbFw6Kw!2m2!1d0.3644098926388094!2d32.71017363529652!3f276.54098798599324!4f-46.77109442191421!5f1.3383447699970703" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

@@ -31,7 +31,7 @@ Googleカーに黒色の４本のゴムが見える。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681038505133!6m8!1m7!1sHIWY9XdvrtzrqomkjjDP_g!2m2!1d19.48752697663341!2d-70.66124367199151!3f175.0572363472984!4f-86.21107333924112!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681038655380!6m8!1m7!1squcIsTa9lAifWBkmwDCUtA!2m2!1d19.48689530196004!2d-70.66121308573531!3f100.52754817554397!4f-3.4878675176739193!5f2.1823840120346865" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

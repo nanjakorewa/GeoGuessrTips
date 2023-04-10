@@ -31,7 +31,7 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069244382!6m8!1m7!1sKPJ-pcg6EYAyaNIIgXshFw!2m2!1d27.31063317375025!2d89.54815796711539!3f357.54362954656085!4f-7.157381909344238!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069277166!6m8!1m7!1sbs7Os9vHZrMwMSyen7Nipg!2m2!1d27.310067392373!2d89.54804884521509!3f267.0384741855812!4f-16.584560328335442!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

@@ -40,7 +40,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680335960552!6m8!1m7!1s93pxEKwJdbwtfGLLGQsGNg!2m2!1d1.375154243025075!2d103.8320611068703!3f326.4073009331137!4f-11.355978997334716!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069536536!6m8!1m7!1s1OLR5ZqZVol4jHLrP2jkEA!2m2!1d1.345581090275804!2d103.7574597762432!3f176.3366817228929!4f29.828074511044406!5f2.91313586590089" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679852616021!6m8!1m7!1sSAQ-IdU26DpyT3x8uPbghA!2m2!1d1.329655164651806!2d103.8183630017216!3f90.06643982622379!4f4.839235395122827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

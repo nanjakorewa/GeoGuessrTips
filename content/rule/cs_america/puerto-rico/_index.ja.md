@@ -27,7 +27,7 @@ jetro_detail: true
 <div class="googlemap-if"><iframe src="https://www.google.com/maps/embed?pb=!4v1681073805681!6m8!1m7!1sSXC3NjR1gmB4s-EnHU-z3w!2m2!1d18.29687656679984!2d-66.04911133718261!3f79.01839543384352!4f-24.831690071108028!5f2.912250869756515" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 {{% notice tip %}}
 四角い電柱と、メキシコのような八角形のものがある。丸いのもある。
 {{% /notice %}}

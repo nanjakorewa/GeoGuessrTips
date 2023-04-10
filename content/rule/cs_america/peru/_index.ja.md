@@ -27,7 +27,7 @@ jetro_detail: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 {{% notice tip %}}
 電柱は道路側に３～４本棒が付きだしているものがある。
 {{% /notice %}}

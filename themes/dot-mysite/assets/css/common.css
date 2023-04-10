@@ -540,6 +540,7 @@ textarea#commentTextArea {
 
 ol.breadcrumb {
   padding: 0.5em 0.5em 0.5em 1em;background-color: #fff;
+  border-radius: 0;
 }
 
 ol.breadcrumb li {

@@ -32,7 +32,7 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678285338262!6m8!1m7!1sDSFJcsqcxKcFgliN8LRLPQ!2m2!1d14.58797463037846!2d-90.50131445405357!3f21.438612252403026!4f-4.1815581957442305!5f2.780129043384721" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路・道路際" %}}
+{{% tab "道路" %}}
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
