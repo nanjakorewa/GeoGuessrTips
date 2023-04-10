@@ -40,6 +40,5 @@ Googleを含む広告配信事業者は、Cookie を使用して、ユーザー�
 
 <h3 class="no-blur">お問い合わせ</h3>
 
-<script src="https://ssl.form-mailer.jp/formfiles/js/embed.js"></script>
-<div class="formmailer-embed" data-form-hash="167b8369777173" data-form-host="ssl.form-mailer.jp"></div>
+<a href="https://ssl.form-mailer.jp/fms/167b8369777173">こちら</a> or <a href="https://twitter.com/nanjakorewa">twitter</a> にお願いします。
 
