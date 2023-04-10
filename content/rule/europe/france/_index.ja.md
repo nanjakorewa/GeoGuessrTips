@@ -69,10 +69,6 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679380793765!6m8!1m7!1s8ryarpB8PYnYChP5lv4jsQ!2m2!1d43.80164608843641!2d0.05137941076106586!3f175.39096274941411!4f-34.975801139495374!5f1.7103596603011662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 

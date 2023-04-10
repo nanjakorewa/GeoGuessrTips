@@ -53,10 +53,6 @@ jetro_detail: false
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
 <div class="googlemap-if">
 </div>

@@ -40,19 +40,7 @@ jogmec_detail: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
 <div class="googlemap-if">
 </div>
 {{% /tab %}}

@@ -45,33 +45,15 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 </div>
 
 {{% /tab %}}
-{{% tab "道路" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094369461!6m8!1m7!1s1f89tCbGX2xlb3DN55W-FA!2m2!1d5.963005220166914!2d116.0888713263532!3f218.88572302458456!4f-10.665446132156674!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679328011423!6m8!1m7!1srD4Hm8wI6jS1Pi2AU_cwwQ!2m2!1d5.962645935549891!2d116.0887451730778!3f69.01825883200586!4f5.942926533921593!5f2.9467866236777334" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680608840026!6m8!1m7!1sX5lIc524AiJNKc-mfpjJ5w!2m2!1d3.069872218239332!2d101.5488705795945!3f110.14004331524838!4f-3.514524711095703!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
-<div class="googlemap-if">
 </div>
 {{% /tab %}}
 {{% tab "🎥" %}}

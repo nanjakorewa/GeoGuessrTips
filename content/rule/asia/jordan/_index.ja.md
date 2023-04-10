@@ -31,12 +31,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094697072!6m8!1m7!1sd-h5yd0V8XJWn4-ZBJUiSw!2m2!1d31.949280430027!2d35.92735348612007!3f222.53963663389982!4f-10.02674401750987!5f2.807657372735314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680697181749!6m8!1m7!1sj4ryVG2p2VEd1blVPykA8Q!2m2!1d31.92887003707388!2d35.90284423945281!3f87.52964547662853!4f-16.311462691550062!5f2.5433479492835356" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -50,14 +44,6 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
 <div class="googlemap-if">
 </div>
 {{% /tab %}}

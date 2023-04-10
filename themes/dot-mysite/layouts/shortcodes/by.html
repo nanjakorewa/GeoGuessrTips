@@ -7,6 +7,8 @@
 <a href="{{ .Get 0 }}" class="hinttext by-web">(from 『{{ .Get 2 }}』<i class="fab fa-window-maximize"></i>)</a>
 {{- else if eq (.Get 1) "youtube" -}}
 <a href="{{ .Get 0 }}" class="hinttext by-youtube">(from 『{{ .Get 2 }}』<i class="fab fa-youtube"></i>)</a>
+{{- else if eq (.Get 1) "plonkit" -}}
+<a href="{{ .Get 0 }}" class="hinttext by-geotips">(by plonk it<i class="fab fa-map-marker-alt"></i>)</a>
 {{- else -}}
 <a href="https://geotips.net/" class="hinttext by-geotips">(by Geotips <i class="fas fa-map-marker-alt"></i>)</a>
 {{- end -}}

@@ -40,10 +40,6 @@ plonkit: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679482974000!6m8!1m7!1svRV75eB6yqo6wIPK5s7_Nw!2m2!1d13.73218306294083!2d100.4930308782116!3f23.407381485162894!4f17.652667161319812!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -37,19 +37,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680517458421!6m8!1m7!1sj87a2602lDx_7xK8XCx7mA!2m2!1d-41.31807605187193!2d-72.98315785097451!3f143.22033753587303!4f-0.9517441916076734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
 <div class="googlemap-if">
 </div>
 {{% /tab %}}

@@ -76,10 +76,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355956674!6m8!1m7!1swCQyCCLu4h1HGAiEDuR3-A!2m2!1d47.57263938188323!2d141.9614530302049!3f334.5752388113423!4f-17.761464329133247!5f3.309016865185011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">

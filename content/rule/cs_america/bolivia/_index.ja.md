@@ -61,10 +61,6 @@ jogmec_detail: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "🐕" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109923932!6m8!1m7!1s1Ce8WameoVUd_Et1o5fVzw!2m2!1d-16.54057404768015!2d-68.15979677760222!3f292.75122118350356!4f-22.155410825187232!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

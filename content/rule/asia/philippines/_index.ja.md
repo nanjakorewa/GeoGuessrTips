@@ -63,14 +63,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680250285600!6m8!1m7!1s1RFN8a_PAn3J5U1yCuSRhg!2m2!1d14.68683955964275!2d121.0941749568071!3f114.69822598885298!4f-25.907017105030604!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "🐃" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249674643!6m8!1m7!1styPReco5CCf6mijnlw9zhw!2m2!1d8.667798044980291!2d125.8604272841918!3f43.368190812299964!4f-6.674662938576006!5f3.3022879075983824" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

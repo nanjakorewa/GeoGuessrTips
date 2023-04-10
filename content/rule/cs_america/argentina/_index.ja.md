@@ -65,12 +65,4 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679244259499!6m8!1m7!1s7YOnLDg-9zIPrUYAi_cOGw!2m2!1d-34.65176397847728!2d-58.50271265420312!3f266.7517338860435!4f2.96974439297459!5f3.0364993777746148" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% /tabs %}}

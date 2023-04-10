@@ -37,10 +37,6 @@ plonkit: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
 <div class="googlemap-if">
 </div>
@@ -48,10 +44,6 @@ plonkit: true
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679741730352!6m8!1m7!1s-w4LomdSALY_FPOo0wZJdw!2m2!1d-37.09141488399298!2d174.5943142139898!3f173.92854525093594!4f-25.604961401351787!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
-<div class="googlemap-if">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

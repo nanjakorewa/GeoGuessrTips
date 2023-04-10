@@ -32,10 +32,6 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678285338262!6m8!1m7!1sDSFJcsqcxKcFgliN8LRLPQ!2m2!1d14.58797463037846!2d-90.50131445405357!3f21.438612252403026!4f-4.1815581957442305!5f2.780129043384721" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678285133602!6m8!1m7!1svonsqW8I3o_V-H6DqMXfUQ!2m2!1d15.47127207947023!2d-90.37138437853376!3f258.3161581963785!4f-10.2963691260683!5f2.860710194420352" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -43,14 +39,6 @@ jetro_detail: false
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "植物" %}}
 <div class="googlemap-if">
 </div>
 {{% /tab %}}

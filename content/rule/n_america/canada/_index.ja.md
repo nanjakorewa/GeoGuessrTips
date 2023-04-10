@@ -52,10 +52,6 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679325495940!6m8!1m7!1sP6tJzfv6dXJEdhaE3HiU7A!2m2!1d49.89554770308396!2d-97.1380825935001!3f57.38926885590616!4f-22.369919344490043!5f3.239308231010501" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
 
 

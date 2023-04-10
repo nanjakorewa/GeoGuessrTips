@@ -39,15 +39,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681074938332!6m8!1m7!1sEEev1NenouNljoyMkT5XEA!2m2!1d62.87693912536331!2d17.85502265977901!3f119.40501384692917!4f-9.916002951467576!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
