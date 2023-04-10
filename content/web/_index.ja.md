@@ -17,7 +17,7 @@ weight: 1000
 
 <h2 class="no-blur">配信者(敬称略)</h2>
 
-ちなみに自分は[GeoGuessr - RTA in Japan Summer 2022](https://www.youtube.com/watch?v=LNRalb3YtSQ)の動画を2023年の正月に見て、そのあと世界が楽しそうで始めた人です。
+ちなみに自分は[GeoGuessr - RTA in Japan Summer 2022](https://www.youtube.com/watch?v=LNRalb3YtSQ)の動画を2023年の正月に見て、そのあと世界マップをやってみたら楽しかったのが始めたきっかけです。
 
 - [zi8gzag](https://www.youtube.com/@zi8gzag)
 - [Daig_O](https://www.youtube.com/@Daig_O)

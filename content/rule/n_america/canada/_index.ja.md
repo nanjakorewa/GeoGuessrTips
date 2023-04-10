@@ -57,10 +57,24 @@ plonkit: true
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
+
+
+{{% notice tip %}}Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の銀行。Scotiabankもカナダ大手だが、Scotiabankはカナダに限らず世界中に展開している。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681071337234!6m8!1m7!1sBAwKJZdDZfeytTwzATfjmA!2m2!1d43.66975679525978!2d-79.38977140840532!3f165.53120985555373!4f3.1029974488266276!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680092473605!6m8!1m7!1shr6aBl_v5nMjleelgqog1Q!2m2!1d56.23560543688179!2d-120.8634784332044!3f203.7384501628231!4f-2.838224894247233!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
+
+{{% notice tip %}}カナダにはミッドストリーム企業がたくさんある。ただしストリートビューにはほとんどいない（通りから離れた場所にあるため）。Devon・Pembina pipeline・Enbridgeなど。Canadian Natural Resourcesのようなオイルサンド・天然ガスを生産する企業も山奥に行くとあるかも。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680092473605!6m8!1m7!1shr6aBl_v5nMjleelgqog1Q!2m2!1d56.23560543688179!2d-120.8634784332044!3f203.7384501628231!4f-2.838224894247233!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681111205084!6m8!1m7!1s-UxEEFPNNm-mUb8tgXtuwQ!2m2!1d45.64246075442041!2d-73.55239018585368!3f244.4341122162465!4f6.070523922723069!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681111809405!6m8!1m7!1ss1cAilUaSjeVEgdmo6l1Rg!2m2!1d54.39683596741235!2d-113.5005681784792!3f282.61501806102723!4f-6.847783379797136!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681111872260!6m8!1m7!1shGawvDMwNEclk4vVyom39w!2m2!1d56.05702410940899!2d-118.3839628374677!3f35.51577976866718!4f-3.251675013380435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}

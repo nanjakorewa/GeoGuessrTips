@@ -65,8 +65,9 @@ jogmec_detail: true
 <div class="googlemap-if">
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
+{{% tab "🐕" %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681109923932!6m8!1m7!1s1Ce8WameoVUd_Et1o5fVzw!2m2!1d-16.54057404768015!2d-68.15979677760222!3f292.75122118350356!4f-22.155410825187232!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -96,7 +97,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814032711!6m8!1m7!1sFSki3TR90NUS-SYIVfx1eg!2m2!1d-16.50206580841095!2d-68.19699580026527!3f97.8139935632015!4f1.9383141508718467!5f1.5592948283649846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "スクレ" %}}
+{{% tab "スクレ市街地" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814195427!6m8!1m7!1sqVq9ioJYAgRYmFLoRyqkoA!2m2!1d-19.04399405020461!2d-65.26165030496426!3f277.81409401247646!4f-1.528780717322391!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -108,6 +109,7 @@ jogmec_detail: true
     <h2 class="section-title">都市・町の見分け方</h2>
     <ul class="rule-list">
         <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
+        <li>ラパスでは電柱にグレーの服を来た人形（？）が吊られていることがあるが、これは泥棒に対するメッセージらしい（参考：<a href="https://www.ganas.or.jp/20121220bolivia/">『ボリビア・アイマラ族の「泥棒を殺す習慣」、違法とならない理由』</a>）。遠くで少しぼやけていたりモザイクがかかっていたりすると本物の人人間に見えるの配信する時は要注意。</li>
     </ul>
 </div>
 
@@ -117,10 +119,17 @@ jogmec_detail: true
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681046560295!6m8!1m7!1sVw-4cks2I0ZvMgb4e5KRPQ!2m2!1d-17.07892566464851!2d-68.4636347028358!3f330.9684410577023!4f1.4459819110156502!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "ラパス郊外" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681109731885!6m8!1m7!1ssrvcioJMLOUynM77-JzrrQ!2m2!1d-16.53542582994066!2d-68.15984708559827!3f133.39102220908285!4f2.9204123647894704!5f1.9952253012677987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681109654621!6m8!1m7!1sW3spRtpdkhSJWqhNTC45iw!2m2!1d-16.5362588718002!2d-68.15809312899177!3f291.10751381163004!4f3.214739203112188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681109677181!6m8!1m7!1sRwd53ANpqIwKNt8cHE5adg!2m2!1d-16.53997422969349!2d-68.15920490815942!3f262.13941566891765!4f7.282974026463435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
