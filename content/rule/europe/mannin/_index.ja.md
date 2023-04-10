@@ -20,19 +20,35 @@ bg: "bg/city.jpg"
     </ul>
 </div>
 
+{{% tabs  %}}
+{{% tab "わかりやすい目印" %}}
+{{% notice tip %}}
+ドメインは<span class="quiz">.im</span>
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138991147!6m8!1m7!1siUhod7cCOn5wmNiw_Jsknw!2m2!1d54.15647045019842!2d-4.488897953286526!3f352.13765715083855!4f-24.417657922667786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679139053251!6m8!1m7!1sCAoSLEFGMVFpcE1uaFg3R2tOZ283cnFzS0xlazk4d216TVR2aGVEZlM2cUVNVDRh!2m2!1d54.0913714!2d-4.77472946!3f274.00757606980875!4f-63.9691548793417!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681120662965!6m8!1m7!1scNUttxFDxcdhO3wXmhvKIQ!2m2!1d54.15608899105482!2d-4.484807773977987!3f138.27530408702137!4f38.36662671294047!5f1.739781400418705" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681120685127!6m8!1m7!1sZfb1JUJ3o637GLI4WyHZXQ!2m2!1d54.28320202451125!2d-4.352836934724788!3f109.59304114117285!4f45.42570876094314!5f0.8327646399774938" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681121477195!6m8!1m7!1sC7dKsz76ul-WWwqyx9bzoQ!2m2!1d54.15605480381518!2d-4.482523373093878!3f2.6741820632657323!4f35.20678702489258!5f2.20218438606314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681121519535!6m8!1m7!1sH4OgPJsIhTFyYYncZ_W91w!2m2!1d54.18485162935091!2d-4.649980519624544!3f316.5841606986218!4f35.48970650272469!5f2.4183447684454578" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
-    <ul class="rule-list">
-    </ul>
+{{% /tab  %}}
+{{% tab "道路" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681120798065!6m8!1m7!1sC7dKsz76ul-WWwqyx9bzoQ!2m2!1d54.15605480381518!2d-4.482523373093878!3f297.6482744764267!4f-16.201557796995772!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681120817568!6m8!1m7!1sZfb1JUJ3o637GLI4WyHZXQ!2m2!1d54.28320202451125!2d-4.352836934724788!3f129.58044029874645!4f-6.938967329043422!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681120834979!6m8!1m7!1sXXUztVkWn9v2nLpOgTpeLQ!2m2!1d54.15616968154987!2d-4.484852837346635!3f207.15112370663607!4f-13.473047479016998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681121013816!6m8!1m7!1sINP1vGviyfiEfyVnQEGGPg!2m2!1d54.17185978419207!2d-4.614683890626452!3f28.607889377064655!4f-16.79550293682155!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "ボラード" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681121037887!6m8!1m7!1s16LnwMHJjLYrrFhPSU3JGw!2m2!1d54.17153529412187!2d-4.613871803912569!3f113.52714938831821!4f-18.699174265819764!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

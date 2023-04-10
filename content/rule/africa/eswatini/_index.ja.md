@@ -4,7 +4,7 @@ date: 2023-02-26
 lastmod: 2023-02-26
 weight: 1
 draft: false
-keywords: [""]
+keywords: ["スワジランド"]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "SZ.png"
@@ -15,7 +15,7 @@ jetro_detail: false
 <div class="main-desciption country-description">
     <h2 class="section-title">国の見分け方</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.sz</span></li>
+        <li>ドメインは<span class="quiz">.sz（もともとの国名はスワジランドのため）</span></li>
     </ul>
 </div>
 
