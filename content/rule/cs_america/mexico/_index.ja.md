@@ -27,7 +27,7 @@ jogmec_detail: true
 {{% tab "わかりやすい目印" %}}
 
 {{% notice tip %}}
-～MEXと名の付く会社はメキシコの大手企業に多い。OXXOはメキシコの大手コンビニ。
+～MEXと名の付く会社はメキシコの大手企業に多い。OXXOはメキシコの大手コンビニ（ただしチリなどにも多く存在するのでこれだけでこれだけでメキシコと決めてはいけない）。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001692977!6m8!1m7!1sy3XV10a3ClWydhJOF04n1A!2m2!1d27.44458230172642!2d-99.52181982329259!3f236.9881189121672!4f14.192127047255482!5f2.8609201218789653" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
