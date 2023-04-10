@@ -16,6 +16,7 @@ jetro_detail: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li>道端でタバコがよく売られていて、家の前に赤と白の旗があることも{{% by %}}</li>
         <li>ナンバープレートに<span class="quiz">黒い</span>ものがある</li>
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
     </ul>
