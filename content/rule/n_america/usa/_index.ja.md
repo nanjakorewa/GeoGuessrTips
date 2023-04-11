@@ -24,8 +24,8 @@ jogmec_detail: true
 
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
-アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて看板やロゴが街中にある。
 {{% notice tip %}}
+アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて看板やロゴが街中にある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
