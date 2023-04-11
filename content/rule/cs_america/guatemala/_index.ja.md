@@ -25,7 +25,7 @@ jetro_detail: false
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-バスが派手で、屋根の上にも荷物を乗せるためのバーが付いているかも。チキンバスはスペイン語でla camioneta、la burra、またはel busとも。バスでニワトリや動物を運ぶことがあるためチキンバスと呼ぶらしい。屋根の上に荷物を載せるためのスペースがある場合もある。bby{{% ahref "A Traveler’s Guide to the Chicken Bus in Guatemala" "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/" %}}
+バスが派手で、屋根の上にも荷物を乗せるためのバーが付いているかも。チキンバスはスペイン語でla camioneta、la burra、またはel busとも。バスでニワトリや動物を運ぶことがあるためチキンバスと呼ぶらしい。屋根の上に荷物を載せるためのスペースがある場合もある。by{{% ahref "A Traveler’s Guide to the Chicken Bus in Guatemala" "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678285133602!6m8!1m7!1svonsqW8I3o_V-H6DqMXfUQ!2m2!1d15.47127207947023!2d-90.37138437853376!3f258.3161581963785!4f-10.2963691260683!5f2.860710194420352" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
