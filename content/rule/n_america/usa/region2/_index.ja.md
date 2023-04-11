@@ -1,7 +1,7 @@
 ---
 title: "第2地域（中西部）"
 date: 2023-02-26
-lastmod: 2023-02-26
+lastmod: 2023-04-01
 weight: 2
 draft: false
 keywords: [""]

@@ -1,7 +1,7 @@
 ---
 title: "その他"
 date: 2023-02-26
-lastmod: 2023-02-26
+lastmod: 2023-04-01
 weight: 1000
 draft: false
 keywords: [""]

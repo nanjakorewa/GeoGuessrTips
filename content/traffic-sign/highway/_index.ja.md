@@ -1,7 +1,7 @@
 ---
 title: "国道・州道などの番号表記"
 date: 2023-02-26
-lastmod: 2023-02-26
+lastmod: 2023-04-01
 weight: 1
 draft: false
 bg: "bg/highway.jpg"
