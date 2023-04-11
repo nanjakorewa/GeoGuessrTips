@@ -556,3 +556,21 @@ ol.breadcrumb li:not(:last-child)::after {
   content: '>';
   padding: 0 0.5em;
 }
+
+div.div-lb p img {
+  margin-top: 1em;
+  filter: blur(2rem);
+  transition: 0.1s;
+}
+
+div.div-lb p img:hover{
+  margin-top: 1em;
+  filter: blur(0rem);
+  transition: 0.1s;
+}
+
+div.div-lb p:nth-child(2)::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f2d0";
+  margin-right: 0.2em;
+}

@@ -37,6 +37,14 @@ plonkit: true
 </div>
 
 {{% /tab %}}
+{{% tab "乗り物" %}}
+{{% lb %}}
+
+![](2023-04-12-05-56-14.png)
+
+CC 表示-継承 3.0, 欧州連合のナンバープレート. (2022, November 19). In Wikipedia. https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88
+{{% /lb %}}
+{{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
 <div class="googlemap-if">

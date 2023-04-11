@@ -33,8 +33,11 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% tab "乗り物" %}}
-<div class="googlemap-if">
-</div>
+{{% lb %}}
+![](2023-04-12-06-04-24.png)
+
+Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=4482331による
+{{% /lb %}}
 {{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
