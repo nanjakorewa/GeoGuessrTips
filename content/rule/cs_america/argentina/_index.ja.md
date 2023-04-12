@@ -20,6 +20,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.ar</span></li>
         <li>ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span></li>
         <li>ガソリンスタンドに<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス、青色のロゴでアルゼンチンの国有石油会社）</span>のものがある</li>
+        <li>遠くが見えないくらいまっすぐな道が多い</li>
     </ul>
 </div>
 
@@ -47,9 +48,30 @@ By Quilmeño89 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.p
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679244135665!6m8!1m7!1s31HwtGkcb8i-reXo5SdIMw!2m2!1d-34.58693112431686!2d-58.37221917961278!3f259.8517612996338!4f11.104060482651036!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+まっすぐな道
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681308145769!6m8!1m7!1sfApCKRpDOKXqeTUlkpjXYw!2m2!1d-37.00094192414552!2d-63.66678962361176!3f173.36811843486183!4f-7.40867201815955!5f0.7929884876831526" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681308183021!6m8!1m7!1sREC5Fn_ht3PkmGxBwWswqw!2m2!1d-43.48679060841175!2d-65.41795612087964!3f208.14761246508428!4f-2.1900262014030147!5f0.4000000000000002" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681308263098!6m8!1m7!1sREC5Fn_ht3PkmGxBwWswqw!2m2!1d-43.48679060841175!2d-65.41795612087964!3f32.98842378837944!4f-4.975349512993489!5f1.3228429615490531" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "道路" %}}
+
+
+{{% notice tip %}}
+上
+{{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681307974607!6m8!1m7!1sk3pg6PtzLZk7rDk7nRqPcQ!2m2!1d-35.78649077446561!2d-63.71380972493835!3f183.62173532592433!4f5.182801860182508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681308102802!6m8!1m7!1sfApCKRpDOKXqeTUlkpjXYw!2m2!1d-37.00094192414552!2d-63.66678962361176!3f15.588290753224085!4f3.632810557579191!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681308058546!6m8!1m7!1sErkQhnNig6YCAMr4HYd5IQ!2m2!1d-35.78495773091147!2d-63.7145655930146!3f261.2328437577821!4f11.558862341190277!5f1.7438225313974298" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681300058879!6m8!1m7!1sFDXwAgbDbsuahLrHCYG6Hw!2m2!1d-35.78893243795982!2d-63.71259992644372!3f190.54967400534534!4f-9.973109350019143!5f3.324656374180121" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679243304194!6m8!1m7!1shWuhk2-R4aDvj4hjeUfY3w!2m2!1d-38.71909109560899!2d-62.2653046444285!3f88.68167530712972!4f-6.3520060640904035!5f2.8919908027706724" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
