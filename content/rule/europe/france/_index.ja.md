@@ -41,6 +41,20 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681048276254!6m8!1m7!1sOOrM2Me1inplaB-KoJfFOg!2m2!1d44.23389681443417!2d-1.223356535712167!3f342.16!4f-7.489999999999995!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+ナンバープレートは両サイドに青、古いもの（2009年以前のフォーマット）は片方だけ青の場合もある。
+{{% /notice %}}
+{{% lb 50 %}}
+![](2023-04-13-08-21-28.png)
+
+Svbzc - 投稿者自身による著作物, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=6831533による
+{{% /lb %}}
+{{% lb 50 %}}
+![](2023-04-13-08-23-29.png)
+
+CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=329958
+{{% /lb %}}
 {{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
