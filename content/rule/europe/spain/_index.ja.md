@@ -14,7 +14,7 @@ plonkit: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本</li>

@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>

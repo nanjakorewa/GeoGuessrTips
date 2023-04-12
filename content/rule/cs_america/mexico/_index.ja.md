@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>

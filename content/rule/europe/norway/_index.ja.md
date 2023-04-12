@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車、他の国にはない！）</span></li>
         <li>ドメインは<span class="quiz">.no</span></li>

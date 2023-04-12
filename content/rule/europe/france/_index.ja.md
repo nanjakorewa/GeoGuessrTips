@@ -12,7 +12,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>
         <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>

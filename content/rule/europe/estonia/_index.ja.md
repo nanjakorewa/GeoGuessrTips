@@ -12,7 +12,7 @@ jetro_detail: false
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ee</span></li>
         <li>横断歩道は<span class="quiz">３本</span>、<span class="quiz">バスの窓が４つ</span></li>

@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bo</span></li>
         <li>標識を立てる棒が四角い製材（？）なのか、ぱっと見でよくわからない素材でできている</li>

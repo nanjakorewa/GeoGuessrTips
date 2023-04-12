@@ -13,7 +13,7 @@ plonkit: false
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.al</span></li>
         <li>カメラに線が入っている</li>

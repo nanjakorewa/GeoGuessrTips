@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>コロンビアのGoogleCarには<span class="quiz">黒い太目のアンテナ</span>がついている時とついていない時がある</li>
         <li>路側帯は<span class="quiz">白</span>で、中央線は<span class="quiz">黄色</span></li>

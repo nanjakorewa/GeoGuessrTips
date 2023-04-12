@@ -12,7 +12,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.de</span></li>
         <li>ドイツ語の母音は「a・i・u・e・o」と<span class="quiz">ウムラウト「ü・ö・ä」</span>の8つ</li>

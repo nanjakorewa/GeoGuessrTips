@@ -12,7 +12,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pr</span></li>
         <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>

@@ -14,7 +14,7 @@ jetro_detail: false
 
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mk</span></li>
         <li>看板の四隅が<span class="quiz">丸まっていたり、折られている</span>{{% by %}}</li>

@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>言語は<span class="quiz">アラビア語</span></li>
         <li>ドメインは<span class="quiz">.jo</span></li>

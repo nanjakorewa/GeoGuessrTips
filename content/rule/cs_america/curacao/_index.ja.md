@@ -13,7 +13,7 @@ jetro_detail: false
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cw</cw></li>
         <li>オランダ王国を構成する4つの構成国のひとつ</li>

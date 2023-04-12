@@ -13,7 +13,7 @@ jetro_detail: false
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">国の見分け方</h2>
+    <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>言語は<span class="quiz">スペイン語</span></li>
         <li>ドメインは<span class="quiz">.gt</span></li>
