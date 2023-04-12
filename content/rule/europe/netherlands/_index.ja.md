@@ -31,6 +31,10 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141332249!6m8!1m7!1sg1RdmgWjKbdxPkez_SYt5A!2m2!1d52.62806409963211!2d4.757430216332611!3f207.98249979502546!4f-33.31514269239735!5f2.925276879255313" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% lb 50 %}}
+![](2023-04-12-19-03-07.png)
+{{% /lb %}}
 {{% /tab %}}
 {{% tab "乗り物" %}}
 {{% lb %}}
