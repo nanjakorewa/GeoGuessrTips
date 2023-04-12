@@ -23,11 +23,18 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>、これはイタリアとアルバニアのみ。アルバニアは画像を見れば直ぐにわかるので、車があればイタリアがすぐにわかるはず。
+ナンバープレートは<span class="quiz">両サイドに青色</span>、これはイタリアとアルバニアの。アルバニアは画像を見れば直ぐにわかるので、車があればイタリアがすぐにわかるはず。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679812903211!6m8!1m7!1sSMFir_M8O0qVU05WO53LqQ!2m2!1d40.79241710237211!2d16.75499111660603!3f172.19635803893811!4f-18.88659177147491!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{{% lb 50 %}}
+![](2023-04-12-11-23-23.png)
+
+Willtron, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=4619704による
+{{% /lb %}}
+{{% lb 50 %}}
+![](2023-04-12-11-26-18.png)
+
+TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=7116148による
+{{% /lb %}}
 {{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">

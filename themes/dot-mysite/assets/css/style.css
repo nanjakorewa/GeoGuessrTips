@@ -894,6 +894,7 @@ pre code::-webkit-scrollbar-thumb {
 p.no-display-text {
   display: none;
 }
+
 p.hidden-display-text {
   text-overflow: ellipsis;
   overflow: hidden;

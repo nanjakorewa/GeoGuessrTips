@@ -26,12 +26,17 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span>
+ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span>。ただしこのナンバープレートは2016以前の車のみが付けている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681051978952!6m8!1m7!1soZxpXPspMb6iOXVTNGkt9w!2m2!1d-24.18440598366025!2d-65.30833899932463!3f180.20830277081086!4f-7.987064287665206!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679243916537!6m8!1m7!1skXH0ZX2YufIDFeblQjT7lg!2m2!1d-34.61168366232381!2d-58.39474927434688!3f173.2486401138486!4f-20.419799619250938!5f2.9561148475182564" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% lb 50 %}}
+![](2023-04-12-11-42-57.png)
+
+By Quilmeño89 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41806860
+{{% /lb %}}
 
 
 {{% notice tip %}}

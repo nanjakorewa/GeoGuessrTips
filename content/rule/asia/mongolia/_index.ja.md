@@ -19,5 +19,17 @@ jetro_detail: false
     </ul>
 </div>
 
+
+{{% tabs  %}}
+{{% tab "わかりやすい目印" %}}
+{{% notice tip %}}
+{{% /notice %}}
 <div class="googlemap-if">
 </div>
+{{% /tab %}}
+{{% tab "🎥" %}}
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UtvAx9UvgsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

@@ -32,6 +32,14 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679910265333!6m8!1m7!1ssx9zUlN6LPT7xOhGuO7faA!2m2!1d53.80077195835273!2d-1.53210151821876!3f231.25961345054426!4f-8.007779915657679!5f3.3181257949307925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "🎵" %}}
+{{% notice tip %}}
+Alexandra Palace Theatreはロンドンの北側に位置する展示場
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe width="590" height="345" src="https://www.youtube.com/embed/VrP3lO3aGDg?start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">

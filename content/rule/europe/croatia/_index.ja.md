@@ -34,7 +34,6 @@ plonkit: true
 {{% tab "道路" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258046653!6m8!1m7!1sz_Ko13lepvo1V0qtyUrgSA!2m2!1d46.16628380781846!2d16.33491066894853!3f249.3372123596283!4f-0.4557114979888155!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681258046653!6m8!1m7!1sz_Ko13lepvo1V0qtyUrgSA!2m2!1d46.16628380781846!2d16.33491066894853!3f249.3372123596283!4f-0.4557114979888155!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258169334!6m8!1m7!1sWtv3UzevuNk6ol5wav9p7A!2m2!1d46.15639019937519!2d16.33422073954437!3f176.74350738741657!4f-4.1376711223287685!5f3.210837332770033" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

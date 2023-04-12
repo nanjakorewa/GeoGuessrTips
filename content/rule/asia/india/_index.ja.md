@@ -53,6 +53,7 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe width="590" height="315" src="https://www.youtube.com/embed/W57wmjn4Zac" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 <iframe width="590" height="315" src="https://www.youtube.com/embed/rDZ4oudc9y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="590" height="315" src="https://www.youtube.com/embed/8UbKpTwGuSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -561,10 +561,18 @@ div.div-lb p img {
   margin-top: 1em;
   filter: blur(2rem);
   transition: 0.1s;
+  max-width: 80%;
+  transition-property: filter;
+}
+
+div.div-lb p {
+  white-space:nowrap;
+  width:100%;
+  overflow:hidden;
+  text-overflow: ellipsis;
 }
 
 div.div-lb p img:hover{
-  margin-top: 1em;
   filter: blur(0rem);
   transition: 0.1s;
 }
@@ -573,4 +581,8 @@ div.div-lb p:nth-child(2)::before {
   font-family: "Font Awesome 5 Free";
   content: "\f2d0";
   margin-right: 0.2em;
+}
+
+div.size-50 p img {
+  max-width: 50% !important;
 }
