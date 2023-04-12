@@ -15,7 +15,7 @@ jetro_detail: true
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.it</span></li>
-        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>、これはイタリアとアルバニアのみ</li>
+        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>、これはイタリア・フランス・アルバニアなど</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
     </ul>
 </div>
