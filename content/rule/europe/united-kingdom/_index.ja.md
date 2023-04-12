@@ -8,8 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "GB.png"
-jetro_detail: true
-jogmec_detail: true
+jogmec_detail: false
 plonkit: true
 ---
 
@@ -36,6 +35,17 @@ plonkit: true
 ![](2023-04-12-12-06-06.png)
 
 By ZElsb - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107443706
+{{% /lb %}}
+
+{{% /tab %}}
+{{% tab "乗り物" %}}
+{{% notice tip %}}
+2020年以降、ゼロエミッションの車両で緑色のプレートが存在する。Google Map上にはまだいないはず。{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom" "wiki" "Vehicle registration plates of the United Kingdom" %}}
+{{% /notice %}}
+{{% lb 50 %}}
+![](2023-04-13-08-38-32.png)
+
+By ZakNelson1995 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107420456
 {{% /lb %}}
 
 {{% /tab %}}
