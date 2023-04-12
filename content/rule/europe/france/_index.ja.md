@@ -77,6 +77,7 @@ jetro_detail: true
     <ul class="rule-list">
         <li>電話番号の先頭の2桁で地域がわかる</li>
         <li>01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
+        <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
 
