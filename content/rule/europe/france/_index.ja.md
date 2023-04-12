@@ -74,8 +74,14 @@ CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=329958
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
+
+
+{{% notice tip %}}
+Système Uはフランスのスーパーマーケット組合（{{% by "https://en.wikipedia.org/wiki/Syst%C3%A8me_U" "wiki" "Système U" %}}）。強くなるとHyper Uになる。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679380851133!6m8!1m7!1seb5strGIv6GMDtG6tcPu8A!2m2!1d43.29484919391635!2d-0.3242797265581168!3f50.863799117673!4f13.586103203075723!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681342282435!6m8!1m7!1sTFLCBVj_D16Egvy7fCg-iw!2m2!1d46.45146941722496!2d-0.8055775440280517!3f64.28518427305654!4f4.02540626784014!5f3.3141337805568174" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
