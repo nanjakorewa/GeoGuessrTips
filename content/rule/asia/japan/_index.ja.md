@@ -29,6 +29,11 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
+
+{{% notice tip %}}
+<span class="quiz">千葉県長生郡長柄町</span>
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/u1ZB_rGFyeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
