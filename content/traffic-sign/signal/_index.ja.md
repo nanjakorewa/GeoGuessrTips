@@ -42,7 +42,7 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409987738!6m8!1m7!1sDhkXuTDNfIM8OG6ko7Qmyw!2m2!1d41.14633659261528!2d-8.620214707314792!3f138.05279032740367!4f-0.621741441647373!5f3.2276464341090847" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 南米
+## 中南米
 ### チリ
 
 <div class="googlemap-if">

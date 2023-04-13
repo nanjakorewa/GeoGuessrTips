@@ -8,7 +8,7 @@ keywords: ["携帯電話"]
 sections: [""]
 ---
 
-## 南米
+## 中南米
 ### グアテマラ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678078151774!6m8!1m7!1sYBew9eXerxoal_r413JvdA!2m2!1d15.06418303328416!2d-91.8355842761859!3f59.97156991120351!4f-7.4276234480849155!5f3.265693632054433" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

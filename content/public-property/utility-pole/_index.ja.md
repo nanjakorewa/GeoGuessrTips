@@ -9,7 +9,7 @@ sections: [""]
 bg: "bg/up.jpg"
 ---
 
-## 南米
+## 中南米
 
 {{% tabs  %}}
 {{% tab "ブラジル" %}}

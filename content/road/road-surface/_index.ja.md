@@ -8,7 +8,7 @@ keywords: ["路上駐車禁止"]
 sections: [""]
 ---
 
-## 南米
+## 中南米
 ### グアテマラ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678078328122!6m8!1m7!1sGeQAZv532foZAUwFJxoMRA!2m2!1d15.06619386860114!2d-91.83568265042743!3f255.05988468508858!4f-17.16971219226042!5f2.4745771827000027" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,7 +42,7 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677412569254!6m8!1m7!1s67WHbYMXvQdr18rW4Og-og!2m2!1d44.80473154379091!2d20.46546904312122!3f216.81502920345517!4f-51.474293986849894!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 南米
+## 中南米
 ### ブラジル
 
 <div class="googlemap-if">

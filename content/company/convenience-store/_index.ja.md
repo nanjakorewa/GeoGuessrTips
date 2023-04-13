@@ -40,7 +40,7 @@ CP All PCLはタイでセブンイレブンを直営店およびフランチャ�
 </div>
 </div>
 
-## 南米
+## 中南米
 ### メキシコ
 
 <div class="googlemap-if">

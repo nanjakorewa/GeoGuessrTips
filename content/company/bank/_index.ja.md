@@ -66,7 +66,7 @@ Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては�
 </div>
 </div>
 
-## 南米
+## 中南米
 ### ブラジル
 
 <div class="googlemap-if">

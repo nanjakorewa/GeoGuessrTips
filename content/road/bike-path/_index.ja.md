@@ -29,7 +29,7 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677720750331!6m8!1m7!1s_jsb1m5fO0WesB5qKmM1IQ!2m2!1d49.86685045527279!2d-97.1631408249991!3f161.65723812217817!4f-10.873942438297675!5f2.7553679467728194" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 南米
+## 中南米
 ### ブラジル
 
 <div class="googlemap-if">

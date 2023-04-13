@@ -9,7 +9,7 @@ sections: [""]
 bg: "bg/bus.jpg"
 ---
 
-## 南米
+## 中南米
 ### グアテマラ
 
 <div class="googlemap-if">

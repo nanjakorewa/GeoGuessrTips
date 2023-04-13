@@ -25,7 +25,7 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679674626454!6m8!1m7!1sKsvAlGAdlUNDG2K2MjmOwA!2m2!1d45.54181792056146!2d-78.6961612853861!3f140.55180917331873!4f-18.116329786836545!5f3.2478275922819355" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 南米
+## 中南米
 ### ボリビア
 
 <div class="googlemap-if">

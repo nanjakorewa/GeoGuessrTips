@@ -50,7 +50,7 @@ sections: [""]
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677856733818!6m8!1m7!1sqGqgmNfR3zaAGBMr4uEuIA!2m2!1d40.45455325707371!2d-3.713051843900113!3f109.94659397354023!4f-15.094667577743238!5f2.7209280147863466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-## 南米
+## 中南米
 ### チリ
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677410294200!6m8!1m7!1sMQ0VSbKspCmlQ9FwZDGDkA!2m2!1d-33.4446504186324!2d-70.64709028781805!3f224.1011696135387!4f-19.36013259365552!5f3.16005151564223" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
