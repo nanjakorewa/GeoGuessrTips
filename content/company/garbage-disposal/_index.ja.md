@@ -10,8 +10,18 @@ bg: "bg/wm.jpg"
 ---
 
 ## 北米
-### アメリカ
 
+{{% tabs  %}}
+{{% tab "全域" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677590995360!6m8!1m7!1s7Ged-WdiSP_yi40qwKKThw!2m2!1d32.70892619934644!2d-117.1582923488563!3f314.749552163044!4f-8.776131326089299!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+北米を中心とする廃棄物管理会社。米国〜カナダの2000万人以上の住宅＋産業向けの廃棄サービスを提供する。埋立地処分場・リサイクルプラント・Landfill gasプロジェクト・発電所を保有する。なぜ発電所を有しているかというと、ごみから発生するガスをもとに電力を発電してその電力を供給しているから。WMが何度も買収を繰り返している点からもかなり資本集約的な産業であることがわかる。
+{{% ahref "Waste Management, Inc. " "https://investors.wm.com/" %}}
+</div>
+</div>
+{{% /tab %}}
+{{% tab "バーモント" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677423273588!6m8!1m7!1sNaWgBiqOA-RcbD7oS4Ql9g!2m2!1d44.66644026547955!2d-73.501251462635!3f358.83177355080403!4f-11.160501620620806!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -23,7 +33,8 @@ bg: "bg/wm.jpg"
 {{% ahref "Casella Waste Systems, Inc. (CWST)" "https://finance.yahoo.com/quote/CWST?p=CWST&.tsrc=fin-srch" %}}
 </div>
 </div>
-
+{{% /tab %}}
+{{% tab "ペンシルベニア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677425233820!6m8!1m7!1sA0zqLQDb54PyNG1ktuQULQ!2m2!1d40.27562792439603!2d-75.4773449330658!3f159.41903644554586!4f-16.12370082573925!5f3.2327977181570358" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
@@ -31,16 +42,13 @@ Whitetail Disposalは米国ペンシルベニア州に本拠を置く廃棄物�
 {{% ahref "Witetail Disposal" "https://www.whitetaildisposal.com/" %}}
 </div>
 </div>
-
+{{% /tab %}}
+{{% tab "フロリダ" %}}
+{{% notice tip %}}
+ヒルズボロ郡（Hillsborough County）はアメリカ合衆国フロリダ州のフロリダ半島メキシコ湾岸に位置する郡。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678796932925!6m8!1m7!1s2-9wAuuRjX6ZVRHYRL3cXg!2m2!1d27.98047442710257!2d-82.392864659917!3f48.85218533614494!4f-20.77770900360167!5f2.9517370164284555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677590995360!6m8!1m7!1s7Ged-WdiSP_yi40qwKKThw!2m2!1d32.70892619934644!2d-117.1582923488563!3f314.749552163044!4f-8.776131326089299!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-北米を中心とする廃棄物管理会社。米国〜カナダの2000万人以上の住宅＋産業向けの廃棄サービスを提供する。埋立地処分場・リサイクルプラント・Landfill gasプロジェクト・発電所を保有する。なぜ発電所を有しているかというと、ごみから発生するガスをもとに電力を発電してその電力を供給しているから。WMが何度も買収を繰り返している点からもかなり資本集約的な産業であることがわかる。
-{{% ahref "Waste Management, Inc. " "https://investors.wm.com/" %}}
-</div>
-</div>
+{{% /tab %}}
+{{% /tabs %}}

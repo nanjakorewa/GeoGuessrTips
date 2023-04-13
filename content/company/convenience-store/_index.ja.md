@@ -9,17 +9,19 @@ sections: [""]
 ---
 
 ## 世界中
-### サークルK
+
+
+{{% tabs  %}}
+{{% tab "サークルK" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409219722!6m8!1m7!1sr7-wxrVOVmt5vfLo1iKiNw!2m2!1d-5.135465991726019!2d119.4357166061142!3f40.107533050785676!4f11.150599992415607!5f1.801980083803985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 <div class="description">
 サークルKはアメリカ合衆国発祥で世界展開するコンビニエンスストア・ガソリンスタンドのチェーン店のブランドである。ガソリンスタンドが併設されているタイプもある。
  {{% ahref "Coriolis Telecom SAS" "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%ABK" %}}
 </div>
 </div>
-
-### SPAR
+{{% /tab %}}
+{{% tab "SPAR" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344598364!6m8!1m7!1sksoNxDxOgE1x6k6PhqdZzA!2m2!1d52.35462369937679!2d4.950458885723939!3f217.14070785148394!4f1.6583733925224209!5f1.0291534187334155" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -28,9 +30,8 @@ SPARの本社はアムステルダムにあり、ヨーロッパのほとんど�
  {{% ahref "SPAR" "https://en.wikipedia.org/wiki/Spar_(retailer)" %}}
 </div>
 </div>
-
-### セブンイレブン
-
+{{% /tab %}}
+{{% tab "セブンイレブン" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677588243934!6m8!1m7!1sszR46Tx03R0n1CYWf9rmvw!2m2!1d18.28501472813346!2d99.5045251966614!3f110.16569903206297!4f-3.7340399145535486!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -39,10 +40,13 @@ CP All PCLはタイでセブンイレブンを直営店およびフランチャ�
  {{% ahref "CP All" "https://en.wikipedia.org/wiki/CP_All" %}}
 </div>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
 
 ## 中南米
-### メキシコ
 
+{{% tabs  %}}
+{{% tab "メキシコ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677756726179!6m8!1m7!1skXbCEDt9NCX0Nt6yvOJ1Ww!2m2!1d19.41873879054791!2d-99.11531202584435!3f278.39277107560457!4f-5.178369001610619!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -51,10 +55,13 @@ Oxxoはメキシコのコンビニエンス ストアチェーンであり、ラ
  {{% ahref "OXXO" "https://en.wikipedia.org/wiki/OXXO" %}}
 </div>
 </div>
-
+{{% /tab %}}
+{{% /tabs %}}
 
 ## オセアニア
-### インドネシア
+
+{{% tabs  %}}
+{{% tab "インドネシア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677588643610!6m8!1m7!1s0q7YUjYfteEnVF0wxhj69Q!2m2!1d-6.928306181131333!2d107.619460963116!3f107.8426660490983!4f3.6009910400601797!5f3.308422358954514" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -63,4 +70,5 @@ PT Sumber Alfaria Trijaya Tbk または Alfamart は、インドネシアのコ�
  {{% ahref "Alfamart, Minimarket Indonesia - Belanja puas harga pas ..." "https://alfamart.co.id/" %}}
 </div>
 </div>
-
+{{% /tab %}}
+{{% /tabs %}}
