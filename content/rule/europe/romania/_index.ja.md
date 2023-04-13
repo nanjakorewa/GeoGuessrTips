@@ -15,13 +15,14 @@ jetro_detail: true
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ro</span></li>
+        <li>電柱が特徴的。<span class="quiz">大き目の穴が一番下まで空いている、背の高さあたりに黄色いマーカーが付いていることがある</span>。</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-電柱に大き目の穴が空いている、棚にできるレベル。
+電柱に大き目の穴が空いているものがある、腕が通せるレベル。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051740646!6m8!1m7!1sR0EKBpqFlHHHgIDpLz0xXw!2m2!1d46.36414880941727!2d25.80494860732655!3f336.9096727868545!4f-12.312411884499738!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
