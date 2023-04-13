@@ -149,6 +149,7 @@
           {{end}}
 
           <!-- comment -->
+          {{ if .Params.flag }}
           <hr />
           <div id="comment-container">
             <h4 class="no-blur">{{ i18n "comment_title" | safeHTML }}</h4>
@@ -220,6 +221,7 @@
                 </script>
               </div>
           </div>
+          {{ end }}
           <!-- /comment -->
         </div>
       </div>
