@@ -17,6 +17,10 @@ body::-webkit-scrollbar-track {
   background: rgb(25, 24, 42, 1.0);
 }
 
+li a:hover {
+  text-decoration: underline;
+}
+
 .blur-item {
   -ms-filter: blur(10px);
   filter: blur(10px);
