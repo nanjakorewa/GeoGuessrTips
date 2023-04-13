@@ -5,6 +5,8 @@
   <meta name="description" content="{{ .Title }}の判定方法と地域ごとの特徴についてメモしたページ">
   {{ else if (.Params.description)}}
   <meta name="description" content="{{ .Params.description }}">
+  {{ else }}
+  <meta name="description" content="{{ .Title }}についてメモしたページ。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものをメモするページです。">
   {{ end }}
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
