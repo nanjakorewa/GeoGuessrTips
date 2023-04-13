@@ -15,7 +15,7 @@ jetro_detail: true
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ro</span></li>
-        <li>電柱が特徴的。<span class="quiz">大き目の穴が一番下まで空いている、背の高さあたりに黄色いマーカーが付いていることがある</span>。</li>
+        <li>電柱が特徴的。<span class="quiz">大き目の穴が一番下まで空いている、背の高さあたりに黄色いマーカーが付いていることがある</span>。{{% by %}}</li>
     </ul>
 </div>
 
