@@ -51,7 +51,9 @@
             {{ end }}
           {{ end }}
           <div class="content">
+          {{.Content}}
 
+          
           <!-- main information -->
           {{ if .Params.flag }}
           {{ $countryName := lower (slicestr .Params.flag 0 2) }}
@@ -87,8 +89,6 @@
           </div>
           {{ end }}
           <!-- /main information -->
-
-          {{.Content}}
         </div>
           {{ else }}
           <div class="bg-light p-4">
