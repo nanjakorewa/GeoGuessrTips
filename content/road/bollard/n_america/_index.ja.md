@@ -25,6 +25,7 @@ sections: [""]
 {{% tab "白〇" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679669115135!6m8!1m7!1s0JpthC3ogzC70nXXdjXB9w!2m2!1d41.44717688485826!2d-100.8657564767679!3f311.6428068295275!4f-5.799111428052072!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681484718192!6m8!1m7!1sTIG2wI7tKzyiyA6T-WkDDg!2m2!1d41.52530222473108!2d-97.79703661372714!3f95.65450749600384!4f-16.032135944172893!5f3.305109203400886" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "青オレンジ" %}}
