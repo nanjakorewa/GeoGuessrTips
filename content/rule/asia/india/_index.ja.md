@@ -17,7 +17,7 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>言語は<span class="quiz">ヒンディー語など（地域によって違う）</span></li>
         <li>ドメインは<span class="quiz">.id</span></li>
-        <li>インドは都市圏でも住所システムが完全には整備されておらず、商品が届かないことがある（{{% by "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "web" "インドEC市場調査報告書 - 日本貿易振興機構" %}}）。そのため確実に郵便が届くように住所を看板などに明記している店が多い？日本と逆で、末尾ほど大きな地域名。</li>
+        <li>インドは都市圏でも住所システムが完全には整備されておらず、商品が届かないことがある{{% by "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "web" "インドEC市場調査報告書 - 日本貿易振興機構" %}}。そのため確実に郵便が届くように住所を看板などに明記している店が多い？日本と逆で、末尾ほど大きな地域名。</li>
     </ul>
 </div>
 
