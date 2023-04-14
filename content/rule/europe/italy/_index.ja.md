@@ -23,7 +23,7 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>、これはイタリアとアルバニアの。アルバニアは画像を見れば直ぐにわかるので、車があればイタリアがすぐにわかるはず。
+ナンバープレートは<span class="quiz">両サイドに青色</span>。
 {{% /notice %}}
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)
@@ -73,6 +73,18 @@ TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.p
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域の見分け方</h2>
+    <ul class="rule-list">
+        <li>電話番号の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
+    </ul>
+</div>
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Mappa Prefissi telefonici italiani A.png" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
+</div>
 
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の見分け方</h2>

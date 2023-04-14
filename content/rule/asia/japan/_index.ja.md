@@ -28,7 +28,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-市外局番が札幌(`011`)-東京(`03`)～大阪(`06`)～鹿児島(`099`)でなんとなくグラデーションとなっているので大体の位置がわかる(<a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachu - 投稿者自身による著作物, CC0</a>)。
+市外局番が札幌(`011`)-東京(`03`)～大阪(`06`)～鹿児島(`099`)でなんとなくグラデーションとなっているので大体の位置がわかる(<a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachuによる著作物, CC0</a>)。
 {{% /notice %}}
 
 <img src="2023-04-14-21-52-22.png" class="no-click"/>

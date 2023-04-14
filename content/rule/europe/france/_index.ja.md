@@ -25,8 +25,13 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号で地域もわかる。
+電話番号が2桁が5つ並んでいる。はじめの番号で地域もわかる。(画像：CC BY 3.0.
+<a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a> )
 {{% /notice %}}
+<div class="googlemap-if">
+<img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/>
+</div>
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681048066604!6m8!1m7!1sYWHe9Zlc-WPOSc_comFbDA!2m2!1d42.70116600989535!2d2.896681430311358!3f49.92435327323158!4f-6.833316766170071!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
