@@ -25,6 +25,11 @@ weight: 1000
 - [Pitman](https://www.youtube.com/@Pitman_live)
 - [市民ジョン](https://www.twitch.tv/geociviljohn)
 
+<h2 class="no-blur">配信者向けの注意点</h2>
+
+- [配信者&配信視聴者のためのGeoguessrチュートリアル 作:宮前たまき](https://docs.google.com/presentation/d/15DarIhxCCEuk-8w07q9SkL00ZRS4vgHOuBYu55hPavs/edit#slide=id.p)
+
+
 <h2 class="no-blur">翻訳</h2>
 
 - [Interactive European language map: how does everyone say cat?](https://www.theguardian.com/news/datablog/interactive/2014/jan/15/interactive-european-language-map)
