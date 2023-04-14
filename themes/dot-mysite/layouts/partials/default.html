@@ -270,7 +270,11 @@
   {{- if eq .node .start }}
     <li>{{ .node.LinkTitle }}
   {{- else }}
+    {{- if eq .node.LinkTitle site.Title }}
+    <li><a href="{{ .node.Permalink }}">Home</a>
+    {{- else }}
     <li><a href="{{ .node.Permalink }}">{{ .node.LinkTitle }}</a>
+    {{- end }}
   {{- end }}
 {{- end }}
 
