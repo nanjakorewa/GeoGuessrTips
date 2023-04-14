@@ -906,3 +906,11 @@ div.msg-to-gpt {
   font-size: 0.01em;
   overflow: hidden;
 }
+
+img.no-click {
+  pointer-events: none;
+}
+
+a:has(> img.no-click) {
+  pointer-events: none;
+}

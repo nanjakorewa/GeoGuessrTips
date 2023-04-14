@@ -40,12 +40,21 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681477284499!6m8!1m7!1so81hwcW-nANV5GG5wM5DvQ!2m2!1d34.1129498328318!2d132.0033576700296!3f226.73642745995758!4f-9.343796969950645!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+IC・JCTを対象に、起点から終点方向に連番で付番（１、２、３…）。追加になったIC・JCTは、枝番で付番（例：地図内の「3-1」、「5-1」）。画像出典：{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf99/3.pdf" "web" "高速道路ナンバリング検討委員会 高速道路ナンバリングの実現に向けた提言参考資料"%}}
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="2023-04-14-22-35-16.png" class="no-click" width="90%" />
+</div>
+
 {{% notice tip %}}
 作成者不明
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://widgets.scribblemaps.com/sm/?d=true&z=true&l=true&id=3cptmvLxxV&s" allow="geolocation" allowfullscreen width="720" height="550" frameborder="0" title="Japan Prefecture Tips" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "🎵" %}}
 
