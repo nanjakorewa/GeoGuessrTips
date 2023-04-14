@@ -1,5 +1,6 @@
 ---
 title: "このページについて"
+subtitle: "このページについて"
 date: 2023-02-26
 description: "連絡先・プライバシーポリシー"
 type: "docs"

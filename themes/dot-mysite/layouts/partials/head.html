@@ -6,7 +6,7 @@
   {{ else if .Params.subtitle }}
   <title>{{ .Params.subtitle }} - ゲームプレイ記録</title>
   {{ else }}
-  <title>{{ .Title }}について - ゲームプレイ記録</title>
+  <title>{{ .Title }}{{ .Params.title_suffix }}のページ - ゲームプレイ記録</title>
   {{ end }}
 
   {{ if (.Params.flag) }}
