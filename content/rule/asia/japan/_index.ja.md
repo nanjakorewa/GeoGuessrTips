@@ -24,8 +24,10 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
+作成者不明
 {{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://widgets.scribblemaps.com/sm/?d=true&z=true&l=true&id=3cptmvLxxV&s" allow="geolocation" allowfullscreen width="720" height="550" frameborder="0" title="Japan Prefecture Tips" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -40,7 +42,3 @@ jogmec_detail: true
 {{% /tab %}}
 {{% /tabs %}}
 
-
-<div class="googlemap-if">
-<iframe src="https://widgets.scribblemaps.com/sm/?d=true&z=true&l=true&id=3cptmvLxxV&s" allow="geolocation" allowfullscreen width="720" height="550" frameborder="0" title="Japan Prefecture Tips" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-</div>
