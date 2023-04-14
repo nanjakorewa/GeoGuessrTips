@@ -26,7 +26,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線
+<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線（ただしこれだけで確定するわけではないと思う）。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681497389688!6m8!1m7!1s-dCjCDxqAyo0T4HQfiMcsQ!2m2!1d-28.8351143653617!2d22.07029168738174!3f274.42116691885025!4f-1.504176664867643!5f3.325193203789971" width="590" height="180" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
