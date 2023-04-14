@@ -18,6 +18,10 @@ jogmec_detail: true
         <li>言語は<span class="quiz">日本語</span></li>
         <li>ドメインは<span class="quiz">.jp</span></li>
     </ul>
+
+{{% notice info %}}
+日本マップで「コンビニ」のようなたくさんある施設名を検索すると、IPアドレスをもとに家に近い地域が表示されることがあるので配信する時は注意する。Google検索の結果画面の一番下にもIPに基づいた都市名が表示されることがあるので注意する。
+{{% /notice %}}
 </div>
 
 
