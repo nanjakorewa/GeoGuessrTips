@@ -19,7 +19,7 @@ jogmec_detail: true
         <li>ドメインは<span class="quiz">.no</span></li>
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
-    </ul>
+        <li>道路名の標識に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
 </div>
 
 
@@ -32,6 +32,15 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347488341!6m8!1m7!1sMZmWXEPzuCbN3dF6Gdyr7w!2m2!1d61.96676412106132!2d6.52504408141445!3f196.93470035872124!4f-3.271967390227786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+道路名の標識に<span class="quiz">オレンジ</span>の背景が多い
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681501551090!6m8!1m7!1sQMXHhNCCIrFoUa70gCIukw!2m2!1d61.91201314110614!2d5.986817049843358!3f305.9648425558945!4f-0.030381807345932543!5f3.278136263369802" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681501604394!6m8!1m7!1sTd58ze6WBRy5okrIFb2X8g!2m2!1d60.79167134733933!2d6.50808115952408!3f146.87393759850994!4f1.1080848353992252!5f3.0933387812980024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">

@@ -18,11 +18,21 @@ plonkit: true
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.nz</span></li>
+        <li>ボラードが<span class="quiz">赤色で塗られている</span></li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
+{{% notice tip %}}
+ボラードが<span class="quiz">赤色で塗られている</span>
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681502031975!6m8!1m7!1sYOKgISqcrXEMRhe-mijsIQ!2m2!1d-35.7113153978181!2d174.0286454241244!3f162.44117437861425!4f-16.704223171344054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681502073858!6m8!1m7!1sOXkmp_2TGUB7kwVWEuD9Uw!2m2!1d-35.71192710811605!2d174.0293495685181!3f104.94755113407975!4f-9.551590050925654!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% notice tip %}}
 これは道路番号ではなく速度表記
 {{% /notice %}}

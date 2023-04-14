@@ -18,6 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hr</span></li>
         <li>青い消火栓 {{% by %}}</li>
+        <li class="no-evidence">「Ð」の文字がある？</li>
     </ul>
 </div>
 
