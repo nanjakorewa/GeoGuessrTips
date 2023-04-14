@@ -1,0 +1,8 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{- if eq (.Get 0) "twitch" -}}
+<a href="https://www.twitch.tv/{{ .Get 1 }}" class="snsl snsl-twitch"><i class="fab fa-twitch"></i></a>
+{{- else if eq (.Get 0) "youtube" -}}
+<a href="https://www.youtube.com/{{ .Get 1 }}" class="snsl snsl-youtube"><i class="fab fa-youtube"></i></a>
+{{- else -}}
+<a href="https://twitter.com/{{ .Get 1 }}" class="snsl snsl-twitter"><i class="fab fa-twitter"></i></a>
+{{- end -}}

@@ -595,3 +595,24 @@ div.size-50 p img {
 div.div-lb p:nth-child(2) a {
   letter-spacing: 0em;
 }
+
+a.snsl {
+  margin-left: 1em;
+  font-size: 1.1em;
+}
+
+a.snsl-youtube {
+  color: rgb(221, 0, 0);
+}
+
+a.snsl-twitter {
+  color: rgb(0, 186, 199);
+}
+
+a.snsl-twitch {
+  color: rgb(134, 0, 211);
+}
+
+div.content ul > li {
+  margin: 0.2em;
+}
