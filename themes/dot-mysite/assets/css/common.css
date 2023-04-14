@@ -614,5 +614,5 @@ a.snsl-twitch {
 }
 
 div.content ul > li {
-  margin: 0.2em;
+  margin-bottom: 0.2em !important;
 }
