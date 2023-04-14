@@ -15,11 +15,11 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
-        <li>コロンビアのGoogleCarには<span class="quiz">黒い太目のアンテナ</span>がついている時とついていない時がある</li>
         <li>路側帯は<span class="quiz">白</span>で、中央線は<span class="quiz">黄色</span></li>
         <li>標識の棒は<span class="quiz">細く白い素材</span>で、看板の背面には<span class="quiz">白色か灰色のクロス</span>が存在する{{% by %}}</li>
         <li>ナンバープレートは南米で唯一の<span class="quiz">前後共に黄色</span></li>
         <li>ドメインは<span class="quiz">.co</span></li>
+        <li class="no-evidence">コロンビアのGoogleCarは<span class="quiz">赤く、黒い太目のアンテナ</span>がついている</li>
     </ul>
 </div>
 
@@ -47,8 +47,9 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679813576129!6m8!1m7!1slrDq90ex1FOkTtQRvay6uQ!2m2!1d2.457006309841755!2d-76.59672523907327!3f38.54073997962945!4f-8.688211803202734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "Google Car" %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681486519765!6m8!1m7!1sRdSnVHywaNxJmMR2PtEvRg!2m2!1d3.524667352372753!2d-76.60049993454764!3f311.83240210590753!4f-36.121808799917574!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
