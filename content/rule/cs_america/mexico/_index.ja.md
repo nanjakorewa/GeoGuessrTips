@@ -124,13 +124,15 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "キンタナ・ロー付近？" %}}
 {{% notice tip %}}
-アメリカ人が飛行機で観光に来るためこの町付近は英語表記が多いと思われる。赤か黒のラインが横に入っている？
+アメリカ人が飛行機で観光に来るためこの町付近は英語表記が多いと思われる。周りの木が特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681518752662!6m8!1m7!1sq1JD6YllPuwDpK-hhFtyIw!2m2!1d20.48872627072183!2d-87.73574703645542!3f154.46984830417597!4f-10.266765975764741!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681518793448!6m8!1m7!1sS49zrM3k6wyDVxnRlhSFcg!2m2!1d20.48895590159587!2d-87.73685499191618!3f218.53214414047667!4f-11.227785968036827!5f2.955393186790995" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681518865295!6m8!1m7!1sbFiTf-JIQTrv5HAA6ZKI6A!2m2!1d19.58023131640169!2d-88.04407947938945!3f250.2737280606325!4f-6.794132456995868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681518890216!6m8!1m7!1sOJcp20Gwo32Ab1JBXkr2Dw!2m2!1d19.58039234805272!2d-88.04435033656766!3f88.00322871060024!4f-12.04203408332242!5f3.2956246855791425" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681521653514!6m8!1m7!1snQsA3wWRMhphgxov2yxeDQ!2m2!1d20.48897734337829!2d-87.73676355862963!3f346.3457822311292!4f-2.0302656110352473!5f1.7595049067373232" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681521678025!6m8!1m7!1skefQ70DZ1sjJbsREQiNe_A!2m2!1d18.70312141330485!2d-88.3860426309746!3f98.65115043989829!4f1.8309260023130776!5f1.6739744810411215" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
