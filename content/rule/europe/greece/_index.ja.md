@@ -15,7 +15,7 @@ jetro_detail: true
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ギリシャ文字がある</li>
-        <li>Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある。{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}</li>
+        <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}。形は色々ある。</li>
     </ul>
 </div>
 
@@ -31,7 +31,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもある。{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
+Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563099289!6m8!1m7!1soDMcLI8ZKM2Om3RBp7xkUQ!2m2!1d38.16139723115654!2d23.85667398650135!3f256.6425586591691!4f-13.401732960060997!5f3.305055387590511" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
