@@ -563,7 +563,7 @@ ol.breadcrumb li:not(:last-child)::after {
 
 div.div-lb p img {
   margin-top: 1em;
-  filter: blur(2rem);
+  filter: blur(1.25rem);
   transition: 0.1s;
   max-width: 80%;
   transition-property: filter;

@@ -19,6 +19,7 @@ jetro_detail: true
         <li>道端でタバコがよく売られていて、家の前に赤と白の旗があることも{{% by %}}</li>
         <li>ナンバープレートに<span class="quiz">黒い</span>ものがある</li>
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
+        <li>ナンバープレートが三つに分かれて見えるかもしれない（2011-2022のナンバープレート）</li>
     </ul>
 </div>
 
@@ -48,6 +49,20 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123649144!6m8!1m7!1sIfcsuEIlVqEMwkPPYJg9Pw!2m2!1d0.585178825786272!2d101.3853830961266!3f172.409679315489!4f4.21978728436487!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+モザイクのかかり方によってはナンバープレートが三つに分かれて見えるかも...？また白以外にも黄色や赤のナンバープレートも存在する。
+{{% /notice %}}
+
+{{% lb 50 %}}
+![](2023-04-15-09-20-42.png)
+
+By RasyaAbhirama13 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=123241255
+
+![](2023-04-15-09-22-52.png)
+
+By The original uploader was *brew at Indonesian Wikipedia. - Transferred from id.wikipedia to Commons by TheFlyingDutchman., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9367007
+{{% /lb %}}
+
 
 {{% /tab %}}
 {{% tab "乗り物" %}}
@@ -67,7 +82,6 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123756392!6m8!1m7!1s7AEFymYv9-0CFDFOHiegYg!2m2!1d-2.919696522806549!2d104.6328255317319!3f327.70222816854846!4f-4.876997037796414!5f3.0855249455824687" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 {{% notice tip %}}
 コンビニ？
 {{% /notice %}}
