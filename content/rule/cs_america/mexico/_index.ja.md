@@ -19,7 +19,6 @@ jogmec_detail: true
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
         <li>ドメインは<span class="quiz">.mx</span></li>
         <li>電柱は<span class="quiz">8角形</span>のものが多い</li>
-        <li>CocaCola<span class="quiz">MR（marca registrada、商標のポルトガル語）</span>はポルトガル語圏</li>
     </ul>
 </div>
 
@@ -55,7 +54,7 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "商業施設" %}}
 {{% notice tip %}}
-～MEXはメキシコの大手企業に多い。CocaCola MRのような商標の末尾にMRが書いてあるときはポルトガル語圏（marca registrada、商標のポルトガル語）。
+～MEXはメキシコの大手企業に多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
