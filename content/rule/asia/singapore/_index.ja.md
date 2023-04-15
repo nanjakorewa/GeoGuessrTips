@@ -18,8 +18,10 @@ plonkit: true
         <li>ドメインは<span class="quiz">.sg</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>タクシーが<span class="quiz">青い</span>ものが多い</li>
-        <li class="no-evidence">ゴミ箱に分別のルールとかが書かれた大き目のシールが張ってあることが多い</li>
         <li>信号を支えるポールに穴が空いているものが多い</li>
+        <li>公用語は英語・中国語・マレー語・タミル語で、看板などに4言語で表記されている</li>
+        <li>標識の背景が<span class="quiz">四角い白地</span>で固定されている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}</li>
+        <li class="no-evidence">ゴミ箱に分別のルールとかが書かれた大き目のシールが張ってあることが多い</li>
     </ul>
 </div>
 
@@ -31,6 +33,14 @@ plonkit: true
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069552949!6m8!1m7!1s1OLR5ZqZVol4jHLrP2jkEA!2m2!1d1.345581090275804!2d103.7574597762432!3f176.3366817228929!4f29.828074511044406!5f2.91313586590089" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+三角や丸の標識であっても白い四角い形のボードを使用している{{% by "https://www.plonkit.net/singapore" "plonkit" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681580794904!6m8!1m7!1sjSfgVdvPpdFEe0B_LvOjTg!2m2!1d1.352173235165941!2d103.7896267240432!3f271.6715709459954!4f-2.726407484458477!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681580839049!6m8!1m7!1sn6-5o6HTdK7tsOnZRRDmQQ!2m2!1d1.377123256435142!2d103.7515981728854!3f22.941848704645526!4f-0.18501936575790978!5f3.3203146277309257" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
