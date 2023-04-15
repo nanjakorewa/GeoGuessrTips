@@ -79,7 +79,7 @@ jogmec_detail: true
     <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
         <li>州の名前を覚えておくと絞り込みの役に立つ（<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3">Wiki</a>）</li>
-        <li>the Mexican phone numbers closer to America, have American style phone numbers 000-000-0000（100%こうではない）{{% by "twitch" "now_and_jenn" %}}</li>
+        <li>アメリカに近いエリアの電話番号は 000-000-0000 の表記かも（100%ではない）{{% by "twitch" "now_and_jenn" %}}</li>
         <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
         <li>State Highway(白色の盾のようなマーク)の看板に道路番号と州の名前が書いてあることがある</li>
     </ul>
@@ -120,6 +120,17 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679459246412!6m8!1m7!1sT-JobBKxcKUJd3JlEPU0UA!2m2!1d25.67772911259084!2d-100.3180719930014!3f74.89862641189546!4f-9.062797298225789!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679459308499!6m8!1m7!1sNucgw5wKbsBiOUwNE9B3Yw!2m2!1d25.74495341159165!2d-100.3066423200428!3f214.26809021321327!4f-6.221660791867066!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "キンタナ・ロー付近？" %}}
+{{% notice tip %}}
+アメリカ人が飛行機で観光に来るためこの町付近は英語表記が多いと思われる。赤か黒のラインが横に入っている？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681518752662!6m8!1m7!1sq1JD6YllPuwDpK-hhFtyIw!2m2!1d20.48872627072183!2d-87.73574703645542!3f154.46984830417597!4f-10.266765975764741!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681518793448!6m8!1m7!1sS49zrM3k6wyDVxnRlhSFcg!2m2!1d20.48895590159587!2d-87.73685499191618!3f218.53214414047667!4f-11.227785968036827!5f2.955393186790995" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681518865295!6m8!1m7!1sbFiTf-JIQTrv5HAA6ZKI6A!2m2!1d19.58023131640169!2d-88.04407947938945!3f250.2737280606325!4f-6.794132456995868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681518890216!6m8!1m7!1sOJcp20Gwo32Ab1JBXkr2Dw!2m2!1d19.58039234805272!2d-88.04435033656766!3f88.00322871060024!4f-12.04203408332242!5f3.2956246855791425" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
