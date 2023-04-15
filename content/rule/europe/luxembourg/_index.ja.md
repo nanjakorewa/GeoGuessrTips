@@ -17,7 +17,6 @@ jetro_detail: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lu</span></li>
         <li>ナンバープレートは<span class="quiz">黄色</span></li>
-        <li>IMFの統計によると2015年のルクセンブルクのGDPは578億ドルであり、2013年度における日本の岐阜県の経済規模とほぼ同じ{{% by "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF" "wiki" "ルクセンブルク" %}}</li>
     </ul>
 </div>
 
