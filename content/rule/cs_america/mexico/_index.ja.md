@@ -136,4 +136,9 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681521678025!6m8!1m7!1skefQ70DZ1sjJbsREQiNe_A!2m2!1d18.70312141330485!2d-88.3860426309746!3f98.65115043989829!4f1.8309260023130776!5f1.6739744810411215" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "カンクン付近？" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681521880152!6m8!1m7!1sL1iqlazUA4hIFyyhVOjL4A!2m2!1d21.16288078148741!2d-86.85248546837562!3f184.74123425153283!4f-10.372636751105972!5f3.0837205458794528" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
