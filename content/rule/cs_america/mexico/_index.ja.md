@@ -36,11 +36,11 @@ jogmec_detail: true
 </div>
 
 {{% notice tip %}}
-停まれはALTO。標識の線がなんとなく太い。
+<span class="quiz">8角形</span>の電柱が特徴的。停まれはALTO。
 {{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679459072284!6m8!1m7!1s8PmLY24JPH4SftL8hA2CZA!2m2!1d25.75251926645027!2d-100.3004127618978!3f93.71490274714154!4f-1.98958654281806!5f3.2793573082848697" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681001959331!6m8!1m7!1sxAM4-ZNdAtGAwJFYsrGxRQ!2m2!1d27.43836612238844!2d-99.49859360331283!3f213.0166319742502!4f-6.839769541205769!5f3.314171391274682" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
