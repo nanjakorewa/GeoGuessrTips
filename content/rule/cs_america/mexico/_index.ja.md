@@ -33,6 +33,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001692977!6m8!1m7!1sy3XV10a3ClWydhJOF04n1A!2m2!1d27.44458230172642!2d-99.52181982329259!3f236.9881189121672!4f14.192127047255482!5f2.8609201218789653" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001565385!6m8!1m7!1sJYAXaPd2tz8uN_dGZz8Z2Q!2m2!1d27.44986791939745!2d-99.51879027561925!3f347.80626742005916!4f13.635629480031909!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001582971!6m8!1m7!1stum5t4nmHLXc9ze0BzAiog!2m2!1d27.44889898098879!2d-99.51935115950234!3f70.82730241772708!4f-16.24011429841073!5f3.2238639420880415" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681521750363!6m8!1m7!1sPcpR6tpcU1sgf9sNo_4PeQ!2m2!1d18.7015081507322!2d-88.38674114610056!3f263.8729299527826!4f-18.094240210637224!5f0.8164310715774429" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
