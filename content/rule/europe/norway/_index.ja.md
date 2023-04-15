@@ -40,7 +40,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681501551090!6m8!1m7!1sQMXHhNCCIrFoUa70gCIukw!2m2!1d61.91201314110614!2d5.986817049843358!3f305.9648425558945!4f-0.030381807345932543!5f3.278136263369802" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681501604394!6m8!1m7!1sTd58ze6WBRy5okrIFb2X8g!2m2!1d60.79167134733933!2d6.50808115952408!3f146.87393759850994!4f1.1080848353992252!5f3.0933387812980024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 {{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">
@@ -49,6 +48,8 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681520602553!6m8!1m7!1sg9GAkBQjUr27MsQuYYtHFg!2m2!1d58.15387328848371!2d8.08026394501885!3f343.9532758156611!4f-4.209087719251556!5f3.3052706623276027" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681520384556!6m8!1m7!1svp5PWVgFQt8JaXIRzh87cQ!2m2!1d60.14681602455514!2d12.31416882299695!3f68.56023321540164!4f1.3126837180885929!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347534133!6m8!1m7!1swn_mor6TbJxcF3P8sSNLbg!2m2!1d66.3044505371745!2d14.13711222707041!3f324.89227912253875!4f-16.134774204390254!5f2.8309959544919363" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

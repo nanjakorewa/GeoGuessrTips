@@ -19,7 +19,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.se</span></li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本</li>
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
-        <li>2桁は南から9～99 3桁は南から100～400くらい{{% by "syamu_0304" "twitch" %}}</li>
+        <li>看板の矢印の形が鉛筆の先みたいになっている（▶のような塗りつぶしではないということ）{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
     </ul>
 </div>
 
@@ -28,9 +28,19 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
+歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本でスノーポールがある。
 {{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681519754577!6m8!1m7!1s81q_V9Mnf0E-fGxsrIHlUA!2m2!1d63.82607368354748!2d20.25601982362908!3f176.83962024082982!4f-2.1929483768211497!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679498470827!6m8!1m7!1sil0HXQXAK_RVOOP02tSWWA!2m2!1d66.55125093920857!2d22.33149313426502!3f331.9517393338261!4f-10.144669448100515!5f2.961660580419242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+看板の矢印の形が鉛筆の先みたいになっている（▶のような塗りつぶし or 綺麗な▷ではないということ）
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681520120527!6m8!1m7!1s-plX9mxe_3c-75JrMbFwxw!2m2!1d60.19231843145348!2d12.66952427707943!3f150.08783051938525!4f-8.009418602090491!5f2.8630713791201936" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681519941867!6m8!1m7!1s5MKy4UAEyyWWxlEatUFTgQ!2m2!1d60.67461509324035!2d17.10662236796962!3f321.3257127276216!4f0.6031312557307871!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "道路" %}}
@@ -49,3 +59,10 @@ plonkit: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域の見分け方</h2>
+    <ul class="rule-list">
+        <li>道路番号は2桁は南から9～99、3桁は南から100～400くらい{{% by "syamu_0304" "twitch" %}}</li>
+    </ul>
+</div>
