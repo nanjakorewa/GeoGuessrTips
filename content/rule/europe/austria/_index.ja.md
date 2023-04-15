@@ -23,9 +23,10 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-歩行者注意の標識が独特
+<span class="quiz">EINBAHN</span>などの標識
 {{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680775964600!6m8!1m7!1syoCvv9BpJ9Czz68JcdAEzQ!2m2!1d47.81087658514463!2d13.04039569934649!3f43.58011647142097!4f-0.1349558094340182!5f2.9078842684879733" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681157746176!6m8!1m7!1smM2gvwT8Z5ib397dxz_0tg!2m2!1d47.81170494457491!2d13.04180991648901!3f156.54386919456383!4f-5.792545475644886!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
