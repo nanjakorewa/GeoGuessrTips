@@ -49,21 +49,6 @@ Zim Integrated Shipping Services Ltdはイスラエルのコンテナ輸送会�
 {{% /tab %}}
 {{% /tabs %}}
 
-## ヨーロッパ
-
-{{% tabs  %}}
-{{% tab "イスラエル" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678702125484!6m8!1m7!1sa-I8SjKj8wZ7aYMcuD6zlA!2m2!1d32.79021691153199!2d34.95891049734592!3f200.1381057375247!4f27.915497585237205!5f0.4772553173285183" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-Zim Integrated Shipping Services Ltdはイスラエルのコンテナ輸送会社。
-{{% ahref "ZIM - Investor Relations" "https://investors.zim.com/overview/default.aspx" %}}
-{{% ahref "ZIM Integrated Shipping Services Ltd. (ZIM)" "https://finance.yahoo.com/quote/ZIM?p=ZIM&.tsrc=fin-srch" %}}
-</div>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
 ## 北米
 
 {{% tabs  %}}

@@ -20,6 +20,7 @@ jetro_detail: false
         <li>耕作可能な土地は1％しかなく全体的に土が<span class="quiz">黒い</span></li>
         <li>自然状態の植物はコケと針状の草のみ{{% by "https://ngu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=430&item_no=1&page_id=13&block_id=49" "web" "アイスランドの地質学的自然環境学的特質について - 名古屋学院大学論集　人文・自然科学篇" %}}</li>
         <li>溶岩によって作成された地形であり、不規則に川や湿地がある。川岸がまっすぐな川はほぼ無い。</li>
+        <li>ナンバープレートの左側に青のラインが無いので注意</li>
     </ul>
 </div>
 
