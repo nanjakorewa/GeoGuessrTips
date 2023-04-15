@@ -47,18 +47,10 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "建物" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679683485088!6m8!1m7!1sNG6sO-1cHTa0GlS_2uJneA!2m2!1d-16.53816045576946!2d-68.160514917469!3f216.51915282146342!4f5.2207183296746535!5f3.0914199858140696" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679480359158!6m8!1m7!1sAGAD5R6_7G-M_4yNGRDstw!2m2!1d-17.74191350835184!2d-63.15618182467038!3f81.55340430449235!4f1.8284055251925935!5f3.0954258680931925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "商業施設" %}}
-<div class="googlemap-if">
 </div>
 {{% /tab %}}
 {{% tab "🐕" %}}

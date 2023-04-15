@@ -43,8 +43,4 @@ jogmec_detail: true
 
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% /tabs %}}

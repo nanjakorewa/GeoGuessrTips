@@ -36,14 +36,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680577309648!6m8!1m7!1sxphJ4suzq6IyEdQjMvHENA!2m2!1d26.46593307498799!2d80.3005460242372!3f162.2622085832344!4f13.82284962866919!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "🐮" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576768727!6m8!1m7!1sCsSa5qjKdB5LG7H7frTarQ!2m2!1d21.59733304072305!2d71.90063518036595!3f173.3701617639863!4f-11.334221154583702!5f2.8168867633906376" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

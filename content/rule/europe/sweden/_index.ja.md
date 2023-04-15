@@ -49,10 +49,6 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681074938332!6m8!1m7!1sEEev1NenouNljoyMkT5XEA!2m2!1d62.87693912536331!2d17.85502265977901!3f119.40501384692917!4f-9.916002951467576!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "植物" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679498521351!6m8!1m7!1s6dOsS8BdZ_T9v2l8G7Dyyg!2m2!1d66.55155599593365!2d22.32995993839439!3f234.6344569386813!4f-8.265704279966542!5f0.8475810262796575" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -36,14 +36,6 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069277166!6m8!1m7!1sbs7Os9vHZrMwMSyen7Nipg!2m2!1d27.310067392373!2d89.54804884521509!3f267.0384741855812!4f-16.584560328335442!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069224989!6m8!1m7!1slMlmyuPeZjzgtK7amorKnQ!2m2!1d27.30958155983734!2d89.54814911356874!3f272.085583004676!4f-17.14370404396564!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

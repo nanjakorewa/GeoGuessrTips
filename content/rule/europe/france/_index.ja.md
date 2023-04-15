@@ -68,10 +68,6 @@ CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=329958
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681048137991!6m8!1m7!1skN9PPHcI2yjaRk2U6QIhRg!2m2!1d45.0339435257467!2d-0.7395826973967495!3f151.99725813313395!4f-21.08328800397571!5f2.807974713449285" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% tab "建物" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

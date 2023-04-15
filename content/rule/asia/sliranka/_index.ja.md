@@ -41,8 +41,4 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680100301053!6m8!1m7!1sWJn-uobwNvZjZCdh9MQLug!2m2!1d6.897841792425899!2d79.8610422561013!3f245.31013468157033!4f-3.849394447435728!5f2.829064376348808" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
 {{% /tabs %}}
