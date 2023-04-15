@@ -30,14 +30,14 @@ jogmec_detail: true
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680517458421!6m8!1m7!1sj87a2602lDx_7xK8XCx7mA!2m2!1d-41.31807605187193!2d-72.98315785097451!3f143.22033753587303!4f-0.9517441916076734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564909201!6m8!1m7!1sX12oSDuYLiuvWYOCX5t0ig!2m2!1d-36.6096391248477!2d-72.09410614111412!3f129.0225067750198!4f-3.3053151328567054!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681564909201!6m8!1m7!1sX12oSDuYLiuvWYOCX5t0ig!2m2!1d-36.6096391248477!2d-72.09410614111412!3f129.0225067750198!4f-3.3053151328567054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
 チリの大手商用銀行、Banco de Chile。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681565272362!6m8!1m7!1sq_2OKRMWHX8sCxZi8t6dxQ!2m2!1d-33.43036953954903!2d-70.69215439912146!3f146.13802574990763!4f18.063000481558262!5f3.3166181212070036" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681565272362!6m8!1m7!1sq_2OKRMWHX8sCxZi8t6dxQ!2m2!1d-33.43036953954903!2d-70.69215439912146!3f146.13802574990763!4f18.063000481558262!5f3.3166181212070036" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "道路" %}}
@@ -50,9 +50,9 @@ jogmec_detail: true
 タクシーのナンバープレートの色がオレンジか赤のような色
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564988130!6m8!1m7!1sC5l0WwX7oP6qBKLQeWO4Ew!2m2!1d-33.41193253939083!2d-70.58602109747619!3f159.42023351415406!4f-5.660628450123696!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564965492!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f171.5854252441635!4f-10.860510409199591!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564939857!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f65.91892199470567!4f-16.29369329892613!5f3.165364765972633" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681564988130!6m8!1m7!1sC5l0WwX7oP6qBKLQeWO4Ew!2m2!1d-33.41193253939083!2d-70.58602109747619!3f159.42023351415406!4f-5.660628450123696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681564965492!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f171.5854252441635!4f-10.860510409199591!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681564939857!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f65.91892199470567!4f-16.29369329892613!5f3.165364765972633" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
@@ -60,7 +60,7 @@ jogmec_detail: true
 リチウム関連企業（Sociedad Química y Minera de Chile（SOQUIMICH、SQM）、Albemarle）や銅関連の企業の施設があるかも。でもストリートビューで行くことができる場所はほぼ無い。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681566698923!6m8!1m7!1sxaOu6D3hWt1iN_ZoESdjGg!2m2!1d-23.76015486133888!2d-70.31000667891672!3f271.6616207675847!4f-3.6711590364433846!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681566698923!6m8!1m7!1sxaOu6D3hWt1iN_ZoESdjGg!2m2!1d-23.76015486133888!2d-70.31000667891672!3f271.6616207675847!4f-3.6711590364433846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐕" %}}
