@@ -18,7 +18,7 @@ plonkit: false
         <li>ドメインは<span class="quiz">.al</span></li>
         <li>カメラに線が入っている</li>
         <li>イタリアとここのみ<span class="quiz">ナンバープレートの両側に青い線</span>がある、赤い線が入ったものもある</li>
-        <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアには少ない。</li>
+        <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアには少ない？</li>
     </ul>
 </div>
 
