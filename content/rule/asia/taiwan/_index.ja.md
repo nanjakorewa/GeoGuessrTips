@@ -16,6 +16,7 @@ jetro_detail: false
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tw</span></li>
+        <li>日本のファミリーマート同様、看板の隅に店名が書かれている</li>
     </ul>
 </div>
 
