@@ -22,11 +22,11 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-電柱に大き目の穴が一番下まで空いている。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
+電柱に大き目の穴が一番下まで空いている。一番下あたりが白く塗られていることもある。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051740646!6m8!1m7!1sR0EKBpqFlHHHgIDpLz0xXw!2m2!1d46.36414880941727!2d25.80494860732655!3f336.9096727868545!4f-12.312411884499738!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680052327712!6m8!1m7!1sX3qUJE4jDO6wauKKTvKvfw!2m2!1d45.90372033772442!2d22.7911541946363!3f58.16509537206749!4f-8.536626361255415!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681530619286!6m8!1m7!1s1q9X84JbsgqznIsNH4LXLQ!2m2!1d44.70535771556276!2d22.72859302476025!3f63.20555826958801!4f-13.244004319234278!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681428451685!6m8!1m7!1svcUsLU2-7vsSv-Fb9Y--Qw!2m2!1d45.30576948650416!2d27.96870306769869!3f238.60705223321642!4f-4.4349572208697765!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681428585042!6m8!1m7!1sxLqFEEjrMV0YjRbKNKehTQ!2m2!1d44.31980053116936!2d23.82166529419188!3f90.44613057942728!4f-8.9178571359422!5f3.239982218508092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -48,6 +48,7 @@ jetro_detail: true
 {{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680052327712!6m8!1m7!1sX3qUJE4jDO6wauKKTvKvfw!2m2!1d45.90372033772442!2d22.7911541946363!3f58.16509537206749!4f-8.536626361255415!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051957207!6m8!1m7!1sk72UW232R_URq-T1mH85tA!2m2!1d44.33395745364584!2d23.75353429641478!3f242.5296220229377!4f-2.897244409720969!5f2.863979180473083" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
@@ -65,6 +66,11 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681169604287!6m8!1m7!1s2rIRbNb_jHcoWJ-SjV0C4A!2m2!1d46.38157849951282!2d25.82046296270908!3f296.68829503602757!4f-10.314333824360503!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680052230352!6m8!1m7!1sJQWSUM5qIzCkYfvyW4aAFw!2m2!1d45.43029731664291!2d21.33860671505272!3f198.95266563456434!4f-8.491465437613158!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681169663487!6m8!1m7!1sJ435f3MpfNfIGlyD5MVnsA!2m2!1d47.65346971311664!2d26.22823681661291!3f123.26959084398968!4f-18.795209539586224!5f3.30996057280206" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "🦃" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681530525541!6m8!1m7!1scjPMceSjWFpdpA6t3W7bOg!2m2!1d44.70383661002219!2d22.73270512156558!3f223.96349039527334!4f-27.055447129058493!5f1.7562968972076964" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
