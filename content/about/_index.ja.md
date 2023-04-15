@@ -15,7 +15,8 @@ weight: 1001
 
 例）こんにちは{{% by "your-twitch-username" "twitch" %}}。こんばんは{{% by "geotips" %}}。
 
-各画像の `CC-BY-` 表記については以下を参照してください。『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』
+各画像の `CC-BY-` 表記については『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』を参照してください。
+パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。
 
 <br />
 <h2 class="no-blur">プライバシーポリシー</h2>
@@ -34,5 +35,5 @@ Googleを含む広告配信事業者は、Cookie を使用して、ユーザー�
 
 <h3 class="no-blur">お問い合わせ</h3>
 
-<a href="https://ssl.form-mailer.jp/fms/167b8369777173">こちら</a> or <a href="https://twitter.com/nanjakorewa">twitter</a> にお願いします。
+<a href="https://ssl.form-mailer.jp/fms/167b8369777173">こちら</a> or <a href="https://twitter.com/nanjakorewa">twitter</a> or [githubのissues](https://github.com/nanjakorewa/GeoGuessrTips/issues) にお願いします。
 
