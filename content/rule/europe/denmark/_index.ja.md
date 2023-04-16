@@ -28,7 +28,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-Allux社（Odenseの会社）のポストが一般的、おしゃれで丸いふた。
+Allux（Odenseの会社のブランド）のポストが一般的、おしゃれで丸いふた。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680252240556!6m8!1m7!1scMJfq4o9Ennx-m4FxWtSog!2m2!1d55.7974925144466!2d12.48796560612066!3f333.61169084784046!4f-15.085593531181473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

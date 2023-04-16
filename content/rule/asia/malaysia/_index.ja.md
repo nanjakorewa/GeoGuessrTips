@@ -21,7 +21,6 @@ plonkit: true
         <li>電柱に<span class="quiz">黒いラベル</span></li>
         <li>とまれの標識が<span class="quiz">berhenti</span></li>
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
-        <li>マレー語で「<span class="quiz">di</span>」は場所や方向を示す前置詞</li>
         <li>SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味。</li>
     </ul>
 </div>
