@@ -46,6 +46,7 @@ jogmec_detail: true
 {{% /tab %}}
 {{% /tabs %}}
 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
@@ -55,6 +56,10 @@ jogmec_detail: true
         <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
         <li><a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる</a>かも{{% by "rumilb" "twitch" %}}</li>
     </ul>
+</div>
+
+<div class="googlemap-if">
+<iframe width="590" height="335" src="https://www.youtube.com/embed/Q_KB4MP_HZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="googlemap-if">
