@@ -15,7 +15,7 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
-        <li>ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車、他の国にはない！）</span></li>
+        <li>ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span></li>
         <li>ドメインは<span class="quiz">.no</span></li>
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
@@ -26,12 +26,22 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車、他の国にはない）</span>で、横断歩道の標識は<span class="quiz">4本</span>。道端にスノーポールもある。
+ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>。宅配業者のバンなどがこの色になっていることが多いい。横断歩道の標識は<span class="quiz">4本</span>。道端にスノーポールもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347488341!6m8!1m7!1sMZmWXEPzuCbN3dF6Gdyr7w!2m2!1d61.96676412106132!2d6.52504408141445!3f196.93470035872124!4f-3.271967390227786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% lb %}}
+![](2023-04-16-09-11-59.png)
+
+Noorwegen kenteken groen nieuw, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/wiki/File:Norway_licenseplate_green_new.JPG#/media/File:Norway_licenseplate_green_new.JPG">wikipedia commons</a>
+
+![](2023-04-16-09-11-15.png)
+
+By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90954775
+{{% /lb %}}
 
 {{% notice tip %}}
 道路名の標識に<span class="quiz">オレンジ</span>の背景が多い
