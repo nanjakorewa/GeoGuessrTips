@@ -20,7 +20,7 @@ jogmec_detail: false
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
         <li>道路名の標識に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
-        <li><a href="https://en.wikipedia.org/wiki/Posten_Norge">Posten Norge</a>はノルウェー運輸通信省が所有する郵便会社、Postenと書かれた赤いポストがスーパーの壁とかにあるかも。</li>
+        <li><a href="https://en.wikipedia.org/wiki/Posten_Norge">Posten Norge</a>はノルウェー運輸通信省が所有する郵便会社、<span class="quiz">Posten</span>と書かれた赤いポストがスーパーの壁とかにあるかも。</li>
 </div>
 
 
@@ -91,7 +91,7 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
-        <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして反時計回りに数字が大きくなる。画像出典：{{% by "https://en.wikipedia.org/wiki/File:Norway_Telephone_Area_Code.jpg#/media/File:Norway_Telephone_Area_Code.jpg" "wiki" "This is the area code for all landlines in Norway." %}}</li>
+        <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。画像出典：{{% by "https://en.wikipedia.org/wiki/File:Norway_Telephone_Area_Code.jpg#/media/File:Norway_Telephone_Area_Code.jpg" "wiki" "This is the area code for all landlines in Norway." %}}</li>
     </ul>
 </div>
 
