@@ -8,8 +8,8 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "NO.png"
-jetro_detail: true
-jogmec_detail: true
+jetro_detail: false
+jogmec_detail: false
 ---
 
 <div class="main-desciption country-description">
@@ -20,6 +20,7 @@ jogmec_detail: true
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
         <li>道路名の標識に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li><a href="https://en.wikipedia.org/wiki/Posten_Norge">Posten Norge</a>はノルウェー運輸通信省が所有する郵便会社、Postenと書かれた赤いポストがスーパーの壁とかにあるかも。</li>
 </div>
 
 
@@ -59,6 +60,15 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347534133!6m8!1m7!1swn_mor6TbJxcF3P8sSNLbg!2m2!1d66.3044505371745!2d14.13711222707041!3f324.89227912253875!4f-16.134774204390254!5f2.8309959544919363" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604610224!6m8!1m7!1skj76m3KRUAj1eoD6vLHtyQ!2m2!1d58.44212734433167!2d8.742230528086207!3f68.52427692871312!4f1.162632679900426!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "建物" %}}
+{{% notice tip %}}
+ノルウェーの郵便市場の規制緩和が進み、2002年頃にPosten Norgeは株式会社になった。1647年設立らしい（[出典](https://en.wikipedia.org/wiki/Posten_Norge)）。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681609518074!6m8!1m7!1s8p9tt6074u13YcgoKJugpw!2m2!1d59.91376913046805!2d10.78902053673719!3f26.50347827751584!4f-4.808670469837139!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681609628746!6m8!1m7!1s2lE6nEW-KBQaYCx0c-Y4Qg!2m2!1d67.2984460530041!2d14.40417281129192!3f73.20248657899062!4f-1.3876062247384766!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "乗り物" %}}
