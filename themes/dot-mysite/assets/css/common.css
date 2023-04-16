@@ -569,6 +569,12 @@ div.div-lb p img {
   transition-property: filter;
 }
 
+img.resolution-small {
+  filter: blur(1.4rem);
+  max-width: 70%;
+}
+
+
 div.div-lb p {
   white-space:nowrap;
   width:100%;
@@ -580,6 +586,12 @@ div.div-lb p img:hover{
   filter: blur(0rem);
   transition: 0.3s;
 }
+
+img.resolution-small:hover{
+  filter: blur(0rem);
+  transition: 0.3s;
+}
+
 
 div.div-lb p:nth-child(2)::before, div.div-lb p:nth-child(4)::before {
   font-family: "Font Awesome 5 Free";
@@ -615,4 +627,9 @@ a.snsl-twitch {
 
 div.content ul > li {
   margin-bottom: 0.2em !important;
+}
+
+span.quiz {
+  font-weight: bold;
+  color:#2b5c84;
 }

@@ -16,7 +16,7 @@ jetro_detail: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>道端でタバコがよく売られていて、家の前に赤と白の旗があることも{{% by %}}</li>
+        <li>道端で<span class="quiz">タバコ</span>がよく売られていて、家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
         <li>ナンバープレートに<span class="quiz">黒い</span>ものがある</li>
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
         <li>ナンバープレートが三つに分かれて見えるかもしれない（2011-2022のナンバープレート）</li>
@@ -53,14 +53,10 @@ jetro_detail: true
 モザイクのかかり方によってはナンバープレートが三つに分かれて見えるかも...？また白以外にも黄色や赤のナンバープレートも存在する。
 {{% /notice %}}
 
-{{% lb 50 %}}
-![](2023-04-15-09-20-42.png)
+{{% lb 50 small %}}
+<img src="2023-04-15-09-20-42.png" class="resolution-small" />
 
 By RasyaAbhirama13 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=123241255
-
-![](2023-04-15-09-22-52.png)
-
-By The original uploader was *brew at Indonesian Wikipedia. - Transferred from id.wikipedia to Commons by TheFlyingDutchman., CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=9367007
 {{% /lb %}}
 
 
