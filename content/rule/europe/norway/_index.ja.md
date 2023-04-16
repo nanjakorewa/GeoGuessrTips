@@ -48,7 +48,7 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681501551090!6m8!1m7!1sQMXHhNCCIrFoUa70gCIukw!2m2!1d61.91201314110614!2d5.986817049843358!3f305.9648425558945!4f-0.030381807345932543!5f3.278136263369802" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681501604394!6m8!1m7!1sTd58ze6WBRy5okrIFb2X8g!2m2!1d60.79167134733933!2d6.50808115952408!3f146.87393759850994!4f1.1080848353992252!5f3.0933387812980024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681604690032!6m8!1m7!1snz4gKFQvCaRqbRezA2YfEg!2m2!1d58.44621906235802!2d8.741068899004842!3f265.26530061280164!4f-2.732571012207103!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "乗り物" %}}
@@ -63,6 +63,25 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520384556!6m8!1m7!1svp5PWVgFQt8JaXIRzh87cQ!2m2!1d60.14681602455514!2d12.31416882299695!3f68.56023321540164!4f1.3126837180885929!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347534133!6m8!1m7!1swn_mor6TbJxcF3P8sSNLbg!2m2!1d66.3044505371745!2d14.13711222707041!3f324.89227912253875!4f-16.134774204390254!5f2.8309959544919363" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681604610224!6m8!1m7!1skj76m3KRUAj1eoD6vLHtyQ!2m2!1d58.44212734433167!2d8.742230528086207!3f68.52427692871312!4f1.162632679900426!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域の見分け方</h2>
+    <ul class="rule-list">
+        <li>電話番号が<span class="quiz">2～7</span>、数が大きいほど<span class="quiz">北</span>になる。画像出典：{{% by "https://en.wikipedia.org/wiki/File:Norway_Telephone_Area_Code.jpg#/media/File:Norway_Telephone_Area_Code.jpg" "wiki" "This is the area code for all landlines in Norway." %}}</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "道路番号" %}}
+<div class="googlemap-if">
+<img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの電話番号の分布" style="max-width: 80%;"/>
+<div>
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Gyroscopbill212</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Link</a>
+</div>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
