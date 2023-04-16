@@ -563,8 +563,8 @@ ol.breadcrumb li:not(:last-child)::after {
 
 div.div-lb p img {
   margin-top: 1em;
-  filter: blur(1.25rem);
-  transition: 0.1s;
+  filter: blur(2.2rem);
+  transition: 0.3s;
   max-width: 80%;
   transition-property: filter;
 }
@@ -578,7 +578,7 @@ div.div-lb p {
 
 div.div-lb p img:hover{
   filter: blur(0rem);
-  transition: 0.1s;
+  transition: 0.3s;
 }
 
 div.div-lb p:nth-child(2)::before, div.div-lb p:nth-child(4)::before {
