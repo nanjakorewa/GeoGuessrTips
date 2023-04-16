@@ -22,10 +22,10 @@ weight: 1000
 
 ちなみに自分は[GeoGuessr - RTA in Japan Summer 2022](https://www.youtube.com/watch?v=LNRalb3YtSQ)の動画を2023年の正月に見て、そのあと世界マップをやってみたら楽しかったのが始めたきっかけです。
 
-- [zi8gzag](https://www.youtube.com/@zi8gzag) {{% snsl "twitch" "zi8gzag" %}}
+- [zi8gzag](https://www.youtube.com/@zi8gzag) {{% snsl "youtube" "@zi8gzag" %}} {{% snsl "twitch" "zi8gzag" %}}
 - [Daig_O](https://www.youtube.com/@Daig_O) {{% snsl "youtube" "@Daig_O" %}} {{% snsl "twitter" "Daig_O" %}}
 - [Pitman](https://www.youtube.com/@Pitman_live) {{% snsl "youtube" "@Pitman_live" %}} {{% snsl "twitch" "pitman_live" %}} {{% snsl "twitter" "pitman_live" %}}
-- [市民ジョン](https://www.twitch.tv/geociviljohn) {{% snsl "twitch" "geociviljohn" %}} {{% snsl "twitter" "GeoCivilJohn" %}}
+- [市民ジョン](https://www.twitch.tv/geociviljohn) {{% snsl "youtube" "@user-qf7cv9xh9r" %}} {{% snsl "twitch" "geociviljohn" %}} {{% snsl "twitter" "GeoCivilJohn" %}}
 
 <h2 class="no-blur">配信者向けの注意点</h2>
 
