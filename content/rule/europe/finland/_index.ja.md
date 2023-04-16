@@ -48,6 +48,11 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680257878532!6m8!1m7!1si3tQD4fgTg2jpSaX4RTNlg!2m2!1d62.60240319530679!2d22.56829038120098!3f123.10062814551522!4f-7.362185962310448!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "建物" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681603219451!6m8!1m7!1sCAoSLEFGMVFpcE5sV1lxZzJhVmxyV1dlbjdabF9INFM2SGs4QzdZdUJ5cGZqTnpG!2m2!1d66.47400349870854!2d25.77805517560248!3f200.62698346344465!4f5.666424746809113!5f1.6727209384642365" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680257983569!6m8!1m7!1sCAoSK0FGMVFpcE4xSnZfNUY0VUQtOXdHU1BaRmRVcUpndmVjY2RxWUx2MDVZZkU.!2m2!1d64.79049293577131!2d28.86883061036374!3f91.48555917413526!4f-7.18344359100135!5f3.302572108668874" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
