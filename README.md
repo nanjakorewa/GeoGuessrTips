@@ -11,9 +11,11 @@ Pages to note down tips for guessing the country and to compile links to related
 - [アメリカ](https://geopinning.space/rule/cs_america/colombia/)
 - [ポルトガル](https://geopinning.space/rule/europe/portugal/)
 
-## Public Property
+## 見つけたもの
 
-[公共物](https://geopinning.space/public-property/)
+- [公共物（電柱など）](https://geopinning.space/public-property/)
+- [道路標識・信号](https://geopinning.space/traffic-sign/)
+- [路面・道路際（ボラードや縁石など）](https://geopinning.space/road/)
 
 
 # Contact
