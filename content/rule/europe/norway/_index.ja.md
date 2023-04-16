@@ -51,11 +51,6 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604690032!6m8!1m7!1snz4gKFQvCaRqbRezA2YfEg!2m2!1d58.44621906235802!2d8.741068899004842!3f265.26530061280164!4f-2.732571012207103!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679347488341!6m8!1m7!1sMZmWXEPzuCbN3dF6Gdyr7w!2m2!1d61.96676412106132!2d6.52504408141445!3f196.93470035872124!4f-3.271967390227786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604380534!6m8!1m7!1sSlhuKtPUwiPC4ETwfTWwKg!2m2!1d58.43481633781423!2d8.743017858887802!3f138.71623112058222!4f-0.9755656275686562!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -66,12 +61,27 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604610224!6m8!1m7!1skj76m3KRUAj1eoD6vLHtyQ!2m2!1d58.44212734433167!2d8.742230528086207!3f68.52427692871312!4f1.162632679900426!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "乗り物" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679347488341!6m8!1m7!1sMZmWXEPzuCbN3dF6Gdyr7w!2m2!1d61.96676412106132!2d6.52504408141445!3f196.93470035872124!4f-3.271967390227786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "商業施設" %}}
+
+{{% notice tip %}}
+スカンジナビア3国ではセブンイレブンがあるが他のヨーロッパには少ない。サンドイッチやホットドックのコーナーがある。パンが冷凍状態で売られていた（たぶん）。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681605380467!6m8!1m7!1sPQU8Iu6eNooJGvYq1Thyaw!2m2!1d59.91438803655091!2d10.75343980221014!3f58.301939351618536!4f6.275431131297552!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の見分け方</h2>
     <ul class="rule-list">
-        <li>電話番号が<span class="quiz">2～7</span>、数が大きいほど<span class="quiz">北</span>になる。画像出典：{{% by "https://en.wikipedia.org/wiki/File:Norway_Telephone_Area_Code.jpg#/media/File:Norway_Telephone_Area_Code.jpg" "wiki" "This is the area code for all landlines in Norway." %}}</li>
+        <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして反時計回りに数字が大きくなる。画像出典：{{% by "https://en.wikipedia.org/wiki/File:Norway_Telephone_Area_Code.jpg#/media/File:Norway_Telephone_Area_Code.jpg" "wiki" "This is the area code for all landlines in Norway." %}}</li>
     </ul>
 </div>
 
