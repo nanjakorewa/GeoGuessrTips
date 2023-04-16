@@ -94,7 +94,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の2桁で地域がわかる</li>
         <li>ナンバープレートで<span class="quiz">両サイドに青色</span>のものがある</li>
@@ -104,7 +104,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
+    <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
         <li>ヴェルサイユ宮殿の中も出題される</li>
     </ul>

@@ -57,7 +57,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>ナンバーの色で地域が分かるが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
     </ul>

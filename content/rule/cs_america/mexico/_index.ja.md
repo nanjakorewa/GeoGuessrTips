@@ -76,12 +76,12 @@ jogmec_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>州の名前を覚えておくと絞り込みの役に立つ（<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3">Wiki</a>）</li>
-        <li>アメリカに近いエリアの電話番号は 000-000-0000 の表記かも（100%ではない）{{% by "twitch" "now_and_jenn" %}}</li>
-        <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
         <li>State Highway(白色の盾のようなマーク)の看板に道路番号と州の名前が書いてあることがある</li>
+        <li>アメリカに近いエリアの電話番号は 000-000-0000 の表記かも（100%ではない）{{% by "now_and_jenn"  "twitch" %}}</li>
+        <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
     </ul>
 </div>
 
@@ -90,7 +90,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
+    <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
         <li>タクシーにヒントがある
             <ul>

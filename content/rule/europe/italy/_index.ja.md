@@ -76,7 +76,7 @@ TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.p
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
     </ul>
@@ -87,7 +87,7 @@ TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.p
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
+    <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
     </ul>
 </div>

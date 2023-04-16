@@ -84,7 +84,7 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>道路番号を見ればおよその地域がわかる、BR-XXXはブラジル国道。</li>
         <li>BAでないものは州の名前を表している、州を特定したらその中で番号を探すと道が見つかる。</li>

@@ -59,7 +59,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
         <li>環状道路と高速道路には都市を識別する文字が先頭についている。例）BIならばビルバオ付近</li>
         <li>青色でA、APで始まるものはほとんどが都市間の高速道路（Pが付くと有料、アリカンテのみA-7Xで始まる環状道路）{{% by "https://en.wikipedia.org/wiki/Highways_in_Spain" "wiki" %}}</li>
     <ul class="rule-list">

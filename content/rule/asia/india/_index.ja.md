@@ -60,7 +60,7 @@ jogmec_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
         <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが違う場所にもあるので注意</li>

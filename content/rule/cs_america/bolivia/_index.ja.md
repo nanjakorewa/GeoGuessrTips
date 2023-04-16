@@ -64,7 +64,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の見分け方</h2>
+    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
         <li>スクレのみ条例によって壁を白くすることが義務付けられている</li>
@@ -94,7 +94,7 @@ jogmec_detail: true
 
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の見分け方</h2>
+    <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
         <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
         <li>ラパスでは電柱にグレーの服を来た人形（？）が吊られていることがあるが、これは泥棒に対するメッセージらしい（参考：<a href="https://www.ganas.or.jp/20121220bolivia/">『ボリビア・アイマラ族の「泥棒を殺す習慣」、違法とならない理由』</a>）。遠くで少しぼやけていたりモザイクがかかっていたりすると本物の人間に見えるので配信する時は要注意。</li>
