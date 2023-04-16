@@ -50,17 +50,21 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>ゴミ箱に州や都市の名前が書いてあることがある、特定の地域のみ事業を展開するゴミ収集業者もある。</li>
-        <li>州道の看板が<span class="quiz">州の形</span>になっていることがある</li>
-        <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びる。北東ほど数字が大きくなる、詳細は以下の説明参照。</li>
-        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
         <li><a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる</a>かも{{% by "rumilb" "twitch" %}}</li>
+        <li>ゴミ箱に州や都市の名前が書いてあることがある。特定の地域のみ事業を展開するゴミ収集業者もある。</li>
+        <li>郵便局の建物の壁に州と都市名が書いてあることが多い</li>
+        <li>州道の看板で州が特定できる。州道の看板が<span class="quiz">州の形</span>になっていることがある。</li>
+        <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びる。北東ほど数字が大きくなる、詳細は以下の説明参照。</li>
+        <li>3桁の州間高速道路は、下2桁が分岐元の州間高速道路の番号</li>
+        <li>高速道路の出口は「Exit XX」と番号が付いていてズームすると確認できる</li>
+        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
+        <li>電話番号のエリアコードで地域が分かる。すべては覚えられないが、218・406・701・307・605・775・435・928あたりは面積が広い。</li>
     </ul>
 </div>
 
-<div class="googlemap-if">
-<iframe width="590" height="335" src="https://www.youtube.com/embed/Q_KB4MP_HZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
+
+{{% tabs  %}}
+{{% tab "州道の看板" %}}
 
 <div class="googlemap-if">
 <div class="description-wide">
@@ -87,3 +91,19 @@ jogmec_detail: true
 {{% ahref "American Highways 101: Visual Guide to U.S. Road Sign Designs & Numbering Systems" "https://99percentinvisible.org/article/american-highways-101-visual-guide-to-u-s-road-sign-designs-numbering-systems/" %}}
 </div>
 </div>
+{{% /tab %}}
+{{% tab "郵便局の壁" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "動画" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe width="590" height="335" src="https://www.youtube.com/embed/Q_KB4MP_HZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
