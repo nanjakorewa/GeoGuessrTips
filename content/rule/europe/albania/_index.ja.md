@@ -18,7 +18,7 @@ plonkit: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.al</span></li>
         <li>カメラに線が入っている</li>
-        <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、赤い線が入ったものもある</li>
+        <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
         <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアには少ない？</li>
     </ul>
 </div>
@@ -45,7 +45,7 @@ plonkit: false
 </div>
 
 {{% notice tip %}}
-アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。片側・両側に赤色の線がある場合もある。
+アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。
 {{% /notice %}}
 
 {{% lb %}}
