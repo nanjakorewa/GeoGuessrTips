@@ -58,6 +58,7 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 {{% /tab %}}
 {{% tab "道路" %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681604380534!6m8!1m7!1sSlhuKtPUwiPC4ETwfTWwKg!2m2!1d58.43481633781423!2d8.743017858887802!3f138.71623112058222!4f-0.9755656275686562!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520602553!6m8!1m7!1sg9GAkBQjUr27MsQuYYtHFg!2m2!1d58.15387328848371!2d8.08026394501885!3f343.9532758156611!4f-4.209087719251556!5f3.3052706623276027" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520384556!6m8!1m7!1svp5PWVgFQt8JaXIRzh87cQ!2m2!1d60.14681602455514!2d12.31416882299695!3f68.56023321540164!4f1.3126837180885929!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
