@@ -91,7 +91,7 @@ By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。画像出典：{{% by "https://en.wikipedia.org/wiki/File:Norway_Telephone_Area_Code.jpg#/media/File:Norway_Telephone_Area_Code.jpg" "wiki" "This is the area code for all landlines in Norway." %}}</li>
+        <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。</li>
     </ul>
 </div>
 
