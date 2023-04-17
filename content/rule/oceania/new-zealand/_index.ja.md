@@ -18,7 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.nz</span></li>
-        <li>ボラードが<span class="quiz">赤色で塗られている</span></li>
+        <li>ボラードが<span class="quiz">赤色で塗られている</span>。<span class="quiz">赤色</span>がボラードの<span class="quiz">表裏</span>に塗られているが、<span class="quiz">オーストラリア</span>のものは<span class="quiz">片方しか塗られていない</span>ので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
 </div>
 

@@ -19,6 +19,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.au</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ユーカリの木が沢山ある、電柱もユーカリの木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
+        <li><span class="quiz">オーストラリア</span>のものは<span class="quiz">片方しか塗られていない</span>のでニュージーランドと区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
 </div>
 
