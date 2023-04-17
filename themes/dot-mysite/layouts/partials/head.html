@@ -10,11 +10,11 @@
   {{ end }}
 
   {{ if (.Params.flag) }}
-  <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてメモしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものをメモするページです。">
+  <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてメモしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
   {{ else if (.Params.description)}}
-  <meta name="description" content="{{ .Params.description }}。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものをメモするページです。">
+  <meta name="description" content="{{ .Params.description }}。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
   {{ else }}
-  <meta name="description" content="{{ .Title }}についてメモしたページ。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものをメモするページです。">
+  <meta name="description" content="{{ .Title }}についてメモしたページ。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
   {{ end }}
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
