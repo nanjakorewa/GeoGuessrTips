@@ -23,11 +23,21 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも？{{% by %}}
+GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{% by %}}？赤が認識しにくい人は長いアンテナが付いていないことをチェック、長いとロシアかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+<div class="googlemap-if unclickable">
+<img src="2023-04-17-12-54-04.png" width="295px" style="height:300px;margin:0;" />
+<img src="2023-04-17-12-53-48.png" width="295px" style="height:300px;margin:0" />
+<div class="description-wide">
+左がウクライナ、右がロシアの一例（※Chrome開発者ツールから「Enumerate vision deficiencies」で表示設定を変えてます）。
+</div>
+</div>
+
 {{% /tab %}}
 {{% tab "乗り物" %}}
 <div class="googlemap-if">
