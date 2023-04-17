@@ -19,6 +19,12 @@ jetro_detail: false
     </ul>
 </div>
 
-
+{{% tabs  %}}
+{{% tab "わかりやすい目印" %}}
+{{% notice tip %}}
+{{% /notice %}}
 <div class="googlemap-if">
+？
 </div>
+{{% /tab %}}
+{{% /tabs %}}
