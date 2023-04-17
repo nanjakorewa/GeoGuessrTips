@@ -52,17 +52,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
-{{% notice tip %}}
-～MEXはメキシコの大手企業に多い。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679924764754!6m8!1m7!1s6TijG9FC9B4cSqTkqWcNpQ!2m2!1d27.48668726661807!2d-99.60409102789727!3f208.23375534858917!4f0.2224124591244987!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679326907626!6m8!1m7!1stH4w3qXDcy_mUBDJ-3cWkA!2m2!1d25.56130248702329!2d-103.4463787059128!3f187.61392721068376!4f2.8696246417501925!5f1.613502443314001" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679458721193!6m8!1m7!1sFQAmjWC4kJXJQVXRSj8O9Q!2m2!1d29.09338808294169!2d-110.9832428183352!3f344.96123205974897!4f-2.1236912024905195!5f3.0369245761347816" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679326979706!6m8!1m7!1sTnKtDpcSLRQ4RjMe4Sjd4g!2m2!1d25.54072681401005!2d-103.6382544135941!3f127.84925597748136!4f-19.074318903338067!5f3.2440693678505452" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -152,7 +141,7 @@ Public Domain
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679459308499!6m8!1m7!1sNucgw5wKbsBiOUwNE9B3Yw!2m2!1d25.74495341159165!2d-100.3066423200428!3f214.26809021321327!4f-6.221660791867066!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "キンタナ・ロー付近？" %}}
+{{% tab "キンタナ・ロー" %}}
 {{% notice tip %}}
 アメリカ人が飛行機で観光に来るためこの町付近は英語表記が多いと思われる。周りの木が特徴的。
 {{% /notice %}}
@@ -161,7 +150,7 @@ Public Domain
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681518865295!6m8!1m7!1sbFiTf-JIQTrv5HAA6ZKI6A!2m2!1d19.58023131640169!2d-88.04407947938945!3f250.2737280606325!4f-6.794132456995868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "カンクン付近？" %}}
+{{% tab "カンクン" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681521880152!6m8!1m7!1sL1iqlazUA4hIFyyhVOjL4A!2m2!1d21.16288078148741!2d-86.85248546837562!3f184.74123425153283!4f-10.372636751105972!5f3.0837205458794528" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
