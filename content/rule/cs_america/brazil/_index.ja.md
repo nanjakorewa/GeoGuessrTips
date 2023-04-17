@@ -16,8 +16,6 @@ jogmec_detail: true
     <h2 class="section-title">見分け方</h2>
     <ul class="rule-list">
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
-        <li>南米最大規模の銀行、Banco Itaúの<span class="quiz">オレンジ色の看板</span>がたくさんある</li>
-        <li>ガソリンスタンドに<span class="quiz">南米石油最大手ペトロブラス（緑色のロゴ）</span>のものが多い</li>
         <li>ドメインは<span class="quiz">.br</span></li>
         <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
@@ -70,6 +68,11 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
+
+{{% notice tip %}}
+南米最大規模の銀行、Banco Itaúの<span class="quiz">オレンジ色の看板</span>がたくさんある。ガソリンスタンドに<span class="quiz">南米石油最大手ペトロブラス（緑色のロゴ）</span>のものが多い。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345629548!6m8!1m7!1syoDx9M6ChX3eRjwCBaD6oQ!2m2!1d-23.54380237546741!2d-46.64851786115438!3f192.00678710870207!4f8.10194060615342!5f1.3206394100668946" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -86,8 +89,15 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>道路番号を見ればおよその地域がわかる、BR-XXXはブラジル国道。</li>
-        <li>BAでないものは州の名前を表している、州を特定したらその中で番号を探すと道が見つかる。</li>
+        <li>BR-XXXはブラジル国道</li>
+        <li>BAでないものは州の名前かも。州名はマップをズームアウトすると確認できる。</li>
+        <li class="no-evidence">電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
+            <ul>
+                <li>ブラジル電力(Eletrobras)→ブラジル全域どころかアフリカにまで進出している</li>
+                <li>パラナ電力(<span class="quiz">COPEL</span>)→パラナ州</li>
+                <li><a href="https://ri.cemig.com.br/en">ミナスジェライス電力</a>(<span class="quiz">CEMIG</span>)→ミナスジェライス州</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -97,6 +107,14 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346281332!6m8!1m7!1sljLmOPodH_kyNI2rzjnC0A!2m2!1d-12.48580994913519!2d-55.68068354862751!3f54.859726474329456!4f-7.921535112165444!5f3.0982113734503045" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "電柱の文字" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681706413823!6m8!1m7!1s5m1586Xm_Ggnr6D_uzB4hg!2m2!1d-25.55162364193545!2d-49.29453003972265!3f124.95765800905457!4f-7.026184858347619!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">COPEL=パラナ電力の文字がうっすらと刻まれている</div>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681706584402!6m8!1m7!1sKRPJZSznYCA08XGBnX1KgA!2m2!1d-18.92351924835988!2d-48.28486276559771!3f42.54269421184829!4f-6.044292890950359!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">CEMIG=ミナスジェライス電力の文字がパイプに書かれている</div>
 </div>
 {{% /tab %}}
 {{% tab "その他" %}}
