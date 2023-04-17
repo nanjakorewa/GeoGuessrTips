@@ -92,6 +92,7 @@ jogmec_detail: true
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
+        <li>ナンバープレートの色で町が分かることがある</li>
         <li>タクシーにヒントがある
             <ul>
                 <li>メキシコシティのタクシーには<span class="quiz">CDMX</span>と書いてあり<span class="quiz">ピンク色</span></li>
@@ -102,6 +103,35 @@ jogmec_detail: true
     </ul>
 </div>
 
+
+{{% tabs  %}}
+{{% tab "Nayarit" %}}
+{{% lb 50 %}}
+![](2023-04-17-17-02-35.png)
+{{% /lb %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681719067854!6m8!1m7!1sgylLmuJ3IZfTXZ7RMW36sA!2m2!1d21.5163933518265!2d-104.9006927575845!3f48.83007536049431!4f-9.816624964845346!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+右下が赤いナンバープレートはNayarit周辺に多い
+</div>
+</div>
+{{% /tab %}}
+{{% tab "Jalisco" %}}
+{{% lb 50 %}}
+![](2023-04-17-17-15-35.png)
+
+Public Domain
+{{% /lb %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681719352208!6m8!1m7!1spn0dOi8NviCruhvOcfFU6Q!2m2!1d20.66214401084474!2d-103.3539136619186!3f275.4124592924797!4f-6.463612869127061!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+上が黄色で下が水色、ただ他の町にも結構走っている？
+</div>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 
 {{% tabs  %}}
