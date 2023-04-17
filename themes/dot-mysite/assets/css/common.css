@@ -633,3 +633,7 @@ span.quiz {
   font-weight: bold;
   color:#2b5c84;
 }
+
+li.important-rule {
+  font-weight: bold;
+}

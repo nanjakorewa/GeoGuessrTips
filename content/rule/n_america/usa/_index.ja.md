@@ -50,15 +50,16 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li><a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる</a>かも{{% by "rumilb" "twitch" %}}</li>
-        <li>ゴミ箱に州や都市の名前が書いてあることがある。特定の地域のみ事業を展開するゴミ収集業者もある。</li>
-        <li>郵便局の建物の壁に州と都市名が書いてあることが多い</li>
-        <li>州道の看板で州が特定できる。州道の看板が<span class="quiz">州の形</span>になっていることがある。</li>
-        <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びる。北東ほど数字が大きくなる、詳細は以下の説明参照。</li>
-        <li>3桁の州間高速道路は、下2桁が分岐元の州間高速道路の番号</li>
-        <li>高速道路の出口は「Exit XX」と番号が付いていてズームすると確認できる</li>
+        <li class="important-rule"><a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる[資料]</a>かも{{% by "rumilb" "twitch" %}}</li>
+        <li class="important-rule">州道の看板で州が特定できる、州道の看板が州の形になっていることがある</li>
+        <li class="important-rule">郵便局の建物の壁に州と都市名が書いてあることが多い</li>
+        <li class="important-rule">高速道路の出口は"Exit XX"と番号が付いていてズームすると確認できる</li>
         <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
-        <li>電話番号のエリアコードで地域が分かる。すべては覚えられないが、218・406・701・307・605・775・435・928あたりは面積が広い。</li>
+        <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
+        <li>電話番号のエリアコードで地域が分かる（すべては覚えられないが北西の218・406・701・307・605・775・435・928あたりは面積が広い）</li>
+        <li>3桁の州間高速道路は下2桁が分岐元の州間高速道路の番号</li>
+        <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
+        <li>特定の地域のみ事業を展開するゴミ収集業者がある</li>
     </ul>
 </div>
 
