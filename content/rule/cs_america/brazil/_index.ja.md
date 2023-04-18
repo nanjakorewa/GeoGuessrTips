@@ -50,7 +50,7 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 </div>
 
 {{% notice tip %}}
-トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。画像は一部加工あり。
 {{% /notice %}}
 
 <div class="googlemap-if">
