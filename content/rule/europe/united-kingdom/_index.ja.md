@@ -51,7 +51,7 @@ By ZakNelson1995 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index
 {{% /tab %}}
 {{% tab "🎵" %}}
 {{% notice tip %}}
-Alexandra Palace Theatreはロンドンの北側に位置する展示場
+Alexandra Palace Theatreはロンドンの北側にある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe width="590" height="345" src="https://www.youtube.com/embed/VrP3lO3aGDg?start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
