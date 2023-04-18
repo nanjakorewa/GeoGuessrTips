@@ -24,7 +24,7 @@ plonkit: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 青い消火栓 {{% by %}}
 {{% /notice %}}
@@ -32,18 +32,18 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258689669!6m8!1m7!1sa-fSmTwkjECq1AS7ir5yZw!2m2!1d45.80566390255061!2d16.24434144839846!3f89.96653789005501!4f-14.552969839780374!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258046653!6m8!1m7!1sz_Ko13lepvo1V0qtyUrgSA!2m2!1d46.16628380781846!2d16.33491066894853!3f249.3372123596283!4f-0.4557114979888155!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258169334!6m8!1m7!1sWtv3UzevuNk6ol5wav9p7A!2m2!1d46.15639019937519!2d16.33422073954437!3f176.74350738741657!4f-4.1376711223287685!5f3.210837332770033" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258594716!6m8!1m7!1scH_qWffVKqkbPtB1wTfvcA!2m2!1d45.30618341519092!2d18.42418775727738!3f220.04421124735234!4f9.053133271176236!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681257980003!6m8!1m7!1sMsOMB1naVEv1czOvhAtJ3g!2m2!1d45.34458769417302!2d15.37503663079558!3f43.1214049711359!4f-20.64904948311542!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258012669!6m8!1m7!1sqHxbw4HeMmgHJobzL91FrA!2m2!1d45.34482174447255!2d15.37483800339599!3f298.77476173043993!4f-23.468580312565678!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

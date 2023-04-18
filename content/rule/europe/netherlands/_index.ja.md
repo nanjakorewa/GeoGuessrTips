@@ -24,7 +24,7 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">青色と黄色</span>、前後を見てこの色ならオランダになる
 {{% /notice %}}
@@ -36,26 +36,26 @@ jogmec_detail: true
 ![](2023-04-12-19-03-07.png)
 {{% /lb %}}
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 {{% lb %}}
 ![](2023-04-12-06-04-24.png)
 
 Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=4482331による
 {{% /lb %}}
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141570574!6m8!1m7!1sprdJ9xuz_l9p0xCfBazpdA!2m2!1d51.8035704085399!2d4.697570333012825!3f268.4021750511996!4f-13.239676289471817!5f3.2829566151088043" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141478238!6m8!1m7!1sB4GDIhPzJwbSQ52H8g7Sig!2m2!1d51.80858880734058!2d4.703012450152431!3f226.0633701872837!4f-20.003968237083072!5f2.5151455284697817" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344268948!6m8!1m7!1sOmce0ad2XrNd6h0DKLZm4w!2m2!1d52.07884760123279!2d4.812233108178345!3f286.487485256276!4f-11.403886350573686!5f1.5536035670833046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344477467!6m8!1m7!1sksoNxDxOgE1x6k6PhqdZzA!2m2!1d52.35462369937679!2d4.950458885723939!3f221.47995793446393!4f1.1243180771967474!5f2.285106199018506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680776471376!6m8!1m7!1sJfPnL8Hsi0IPghLup8GIzQ!2m2!1d51.60542460100383!2d6.045330555955398!3f158.27245110585704!4f-9.924312843496352!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680776514480!6m8!1m7!1s-7n1VFjx_nAV_qFYYwPqiA!2m2!1d51.60560341247388!2d6.044987637655998!3f263.1800180302207!4f-14.752971452669513!5f3.32234471507444" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

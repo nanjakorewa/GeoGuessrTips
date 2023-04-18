@@ -22,7 +22,7 @@ plonkit: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 車は<span class="quiz">左側</span>通行かつ、車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。ボラードや通り名の看板も多く存在する。
 {{% /notice %}}
@@ -38,7 +38,7 @@ By ZElsb - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?cur
 {{% /lb %}}
 
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 {{% notice tip %}}
 2020年以降、ゼロエミッションの車両で緑色のプレートが存在する。Google Map上にはまだいないはず。{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_United_Kingdom" "wiki" "Vehicle registration plates of the United Kingdom" %}}
 {{% /notice %}}

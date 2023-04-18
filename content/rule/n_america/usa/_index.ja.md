@@ -24,7 +24,7 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">青い</span>ポスト
 {{% /notice %}}

@@ -34,3 +34,25 @@
   translation: Home
 - id: page-title
   translation: My GeoGuessr Memo
+- id: w-etf
+  translation: Easy-to-find
+- id: w-viecle
+  translation: Vehicle
+- id: w-building
+  translation: Building
+- id: w-commercial
+  translation: Commercial Facilities
+- id: w-googlecar
+  translation: Google Car
+- id: w-bollard
+  translation: Bollard
+- id: w-utility-pole
+  translation: Utility Pole
+- id: w-signs
+  translation: Signs
+- id: w-road
+  translation: Road
+- id: w-plant
+  translation: Plant
+- id: w-music
+  translation: 🎵

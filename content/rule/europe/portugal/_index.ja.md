@@ -20,7 +20,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 後ろのナンバープレートは<span class="quiz">右側が黄色</span>
 {{% /notice %}}

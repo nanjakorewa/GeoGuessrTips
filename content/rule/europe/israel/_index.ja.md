@@ -21,7 +21,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ヘブライ語(מְדִינַת יִשְׂרָאֵל)の文字が印象的
 {{% /notice %}}
@@ -30,7 +30,7 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681531125120!6m8!1m7!1s9A-xDlbLm4qRshYAPamDDw!2m2!1d31.80292628397164!2d35.21309927153935!3f255.9978585350116!4f-0.3180185350946658!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 {{% notice tip %}}
 縁石や街頭のポール根本が白黒、縁石は黄・赤や白・赤のものもある。
 {{% /notice %}}

@@ -26,7 +26,7 @@ jetro_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ドイツではストリートビューの導入が進んでおらず、モザイクがかかった建物が多い（<a href="https://bigthink.com/strange-maps/germany-street-view/">FEBRUARY 11, 2022 - Why Germany is a blank spot on Google’s Street View</a>）
 {{% /notice %}}
@@ -34,12 +34,12 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679420140985!6m8!1m7!1sqwKjwVluqLRAgo2ObpAsXA!2m2!1d48.14926892865647!2d11.56215823569409!3f122.32034254578278!4f13.242303538779481!5f1.72032405487214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679315351117!6m8!1m7!1skF_KuUGheUd_XUJlnGeY_A!2m2!1d50.92505140294847!2d6.958498269883926!3f221.1955797434303!4f-2.676596217032184!5f2.8429447685952494" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679315413839!6m8!1m7!1sCAoSLEFGMVFpcE5iN3A2QTBpaW5vcGZHWjVFUXM0eHIteURHbUJhbHA0NzdvX2l4!2m2!1d50.7327359391176!2d6.82996892026819!3f340.44893574166593!4f-7.7953259871863025!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

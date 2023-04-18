@@ -24,7 +24,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">赤色</span>のナンバープレートの日本車が多いならザンジバル周辺？
 {{% /notice %}}
@@ -41,13 +41,13 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576210786!6m8!1m7!1sCAoSLEFGMVFpcE5KZXJ2M2FYWGh2Y0tteXp1STliMEk4RDA3aWdJYldVNnRHdndf!2m2!1d-5.247317166542542!2d39.76974236245915!3f77.23335088781994!4f-18.856992860924464!5f1.6905312204364065" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527621633!6m8!1m7!1sCAoSLEFGMVFpcE5NM2xCaHRGSWNFN2NSaG1yRFdRX3NRMmFKd1JVNl82V1cxRjhk!2m2!1d-6.196238728958734!2d39.37024436406515!3f55.28767997742629!4f-7.690772798393496!5f3.065199942158073" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680528215257!6m8!1m7!1sCAoSLEFGMVFpcFB1S2lrZzRNQjEtQmdUVVZEV204TDlYWEpRV1hublczbFNTRnN3!2m2!1d-5.242627143259523!2d39.76787754563919!3f64.56926166628209!4f-22.656535060453365!5f2.7437540294776634" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "Google Car" %}}
+{{% tab "w-googlecar" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527231651!6m8!1m7!1sCAoSLEFGMVFpcE14ZUNmQ3dXTWZodkE0aU5ack8wUXlWc0tUR28yVnZFYkhicnRM!2m2!1d-6.162393877933622!2d39.18769980767328!3f358.902809115086!4f-89!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

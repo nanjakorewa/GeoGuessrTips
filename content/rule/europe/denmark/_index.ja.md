@@ -26,7 +26,7 @@ plonkit: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 Allux（Odenseの会社のブランド）のポストが一般的、おしゃれで丸いふた。
 {{% /notice %}}
@@ -54,14 +54,14 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681529136084!6m8!1m7!1siM2DF355ERQV2QplCCnYag!2m2!1d55.64427857940704!2d9.56126011846508!3f31.415276981456074!4f-12.93480233938564!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 {{% lb %}}
 ![](2023-04-12-06-08-23.png)
 
 heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=8391465による
 {{% /lb %}}
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681529352556!6m8!1m7!1s83oaGC152849BMDRm4Tv1w!2m2!1d55.71531969436402!2d11.71449237458699!3f142.39484295911498!4f-14.210953665811857!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681529269108!6m8!1m7!1s9wXqSepJFq7qMWz2eBj0DA!2m2!1d55.67537744142326!2d12.5461761217449!3f329.0301666061291!4f-5.404707372620905!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

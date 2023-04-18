@@ -23,7 +23,7 @@ plonkit: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 右前に<span class="quiz">黒いガムテープが巻かれている</span>
 {{% /notice %}}
@@ -40,7 +40,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681666570541!6m8!1m7!1sa1Otndu0bdXnTiycKottgg!2m2!1d5.667500594797818!2d-0.2085374331321987!3f329.64699623682185!4f-30.32426138680553!5f1.5353860270016688" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 {{% notice tip %}}
 タクシーの色の塗り方が独特
 {{% /notice %}}

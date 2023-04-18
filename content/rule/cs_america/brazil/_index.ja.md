@@ -24,7 +24,7 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 BR＝ブラジル国道、他の記号＝州の名前を表している。
 {{% /notice %}}
@@ -49,25 +49,25 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 </div>
 
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345555292!6m8!1m7!1sRCX-AjIP6mALMZEXJxOjyw!2m2!1d-23.51248882433141!2d-46.4333177309273!3f119.28300192646884!4f-3.503916504146261!5f3.2981730514139986" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050536046!6m8!1m7!1smRMyoKfd6IY0l0DIEdotBQ!2m2!1d-23.85497722588457!2d-50.19267091975536!3f193.23191091540886!4f-4.371754820035051!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346398289!6m8!1m7!1sxNACA2DxVTxFWRXLNevw6Q!2m2!1d-23.64273615107642!2d-46.73722452008128!3f265.21915958244955!4f-6.108065482019114!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050497695!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f350.203753617388!4f3.5766795897566936!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680637937577!6m8!1m7!1sZKmsbK58HOTmE1bnj7hBrQ!2m2!1d-23.09485554905553!2d-46.70334116256849!3f91.89474014812524!4f-8.60513111838037!5f1.7817833542507593" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 
 {{% notice tip %}}
 南米最大規模の銀行、Banco Itaúの<span class="quiz">オレンジ色の看板</span>がたくさんある。ガソリンスタンドに<span class="quiz">南米石油最大手ペトロブラス（緑色のロゴ）</span>のものが多い。
@@ -78,7 +78,7 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
+{{% tab "w-plant" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679380170608!6m8!1m7!1sAYtt3IP648Vi5g_NEuFhBA!2m2!1d-3.974791767668313!2d-60.53822827895701!3f140.31076529019026!4f-17.67432116537232!5f3.2647986142842362" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050378082!6m8!1m7!1sZw0Wa2bHwrVo4G0talSJBg!2m2!1d-4.575281620209909!2d-44.65465530257557!3f295.3962809890767!4f1.710183901296503!5f0.7019836349035464" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

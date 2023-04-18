@@ -22,7 +22,7 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている。ただし色が違う地域や建物がほぼ無い地域もある。
 {{% /notice %}}
@@ -41,13 +41,13 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679137598189!6m8!1m7!1s2eWjw31SO7MsxkgeQdTxsg!2m2!1d-17.49331764844531!2d-67.44580057149!3f2.2754052554731174!4f-9.170003899219893!5f2.6394910242512153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679683485088!6m8!1m7!1sNG6sO-1cHTa0GlS_2uJneA!2m2!1d-16.53816045576946!2d-68.160514917469!3f216.51915282146342!4f5.2207183296746535!5f3.0914199858140696" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679480359158!6m8!1m7!1sAGAD5R6_7G-M_4yNGRDstw!2m2!1d-17.74191350835184!2d-63.15618182467038!3f81.55340430449235!4f1.8284055251925935!5f3.0954258680931925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

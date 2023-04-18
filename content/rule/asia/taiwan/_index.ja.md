@@ -22,7 +22,7 @@ jetro_detail: false
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681314309834!6m8!1m7!1sP_k_BCfdWc8-S5XTlns2GQ!2m2!1d25.0451530126308!2d121.5110849874894!3f327.72171944836816!4f10.232984246982681!5f3.214099191520879" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681314351253!6m8!1m7!1s-nb1HBOy1tnC0hxgIPkClQ!2m2!1d25.04409660365155!2d121.5115284120453!3f45.54370317896274!4f0.03562760890490324!5f2.8098801247074485" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

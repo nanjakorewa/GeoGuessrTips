@@ -22,7 +22,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">緑色</span>のボラードがある{{% by %}}
 {{% /notice %}}
@@ -48,13 +48,13 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681292381213!6m8!1m7!1suH79aLwf5wT-dtDeZBZr3A!2m2!1d52.27008385403244!2d-9.703819887934827!3f316.79837317689214!4f-17.086560765260117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681291905389!6m8!1m7!1s2LuTeA6RyStkexIQE9IsWg!2m2!1d51.52761139504072!2d-9.180520821832348!3f137.05206995816414!4f-11.576256709221298!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681291919740!6m8!1m7!1sh6ttUaOPNoSw4TyFSSs2hg!2m2!1d51.5274271714947!2d-9.18037828682735!3f138.14717605261978!4f-11.8304001052512!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680368961126!6m8!1m7!1s95q1IAEVZgFCDKsD3-KnFQ!2m2!1d52.06191499809449!2d-9.520169243547702!3f224.22036044271962!4f8.735745421373252!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680368787675!6m8!1m7!1se9w_1a2gGWaaoZR3hMgtQw!2m2!1d52.2693741624439!2d-8.270517989416232!3f239.77341214193487!4f-15.284802377077725!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

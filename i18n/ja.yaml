@@ -34,3 +34,25 @@
   translation: トップページ
 - id: page-title
   translation: GeoGuessrのメモ
+- id: w-etf
+  translation: わかりやすい目印
+- id: w-viecle
+  translation: 乗り物
+- id: w-building
+  translation: 家・建物
+- id: w-commercial
+  translation: 商業施設
+- id: w-googlecar
+  translation: Google Car
+- id: w-bollard
+  translation: ボラード
+- id: w-utility-pole
+  translation: 電柱
+- id: w-signs
+  translation: 標識
+- id: w-road
+  translation: 道路
+- id: w-plant
+  translation: 植物
+- id: w-music
+  translation: 🎵

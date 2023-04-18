@@ -20,7 +20,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 電柱に大き目の穴が一番下まで空いている。一番下あたりが白く塗られていることもある。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
 {{% /notice %}}
@@ -41,18 +41,18 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681169690078!6m8!1m7!1s1HUpdimAn6LXmnwt6Xy8cQ!2m2!1d47.65316069155358!2d26.22653748095559!3f190.54662613263915!4f-9.818147496222608!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051843421!6m8!1m7!1sktrrpFQaqy8d2D373hZbDQ!2m2!1d44.33371380282227!2d23.75018221923593!3f47.377635133533126!4f-17.754582312025377!5f1.9681746662166355" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680052327712!6m8!1m7!1sX3qUJE4jDO6wauKKTvKvfw!2m2!1d45.90372033772442!2d22.7911541946363!3f58.16509537206749!4f-8.536626361255415!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051957207!6m8!1m7!1sk72UW232R_URq-T1mH85tA!2m2!1d44.33395745364584!2d23.75353429641478!3f242.5296220229377!4f-2.897244409720969!5f2.863979180473083" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 {{% notice tip %}}
 イギリスみたいに通り名が書いてあることが多い
 {{% /notice %}}
@@ -61,7 +61,7 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681169535511!6m8!1m7!1sI3s3HSbsw0r5eue4gQulmA!2m2!1d46.38150520681397!2d25.81949501285196!3f318.58042425032454!4f-18.39379139049862!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681169604287!6m8!1m7!1s2rIRbNb_jHcoWJ-SjV0C4A!2m2!1d46.38157849951282!2d25.82046296270908!3f296.68829503602757!4f-10.314333824360503!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680052230352!6m8!1m7!1sJQWSUM5qIzCkYfvyW4aAFw!2m2!1d45.43029731664291!2d21.33860671505272!3f198.95266563456434!4f-8.491465437613158!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

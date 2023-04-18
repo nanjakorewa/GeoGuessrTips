@@ -20,7 +20,7 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">

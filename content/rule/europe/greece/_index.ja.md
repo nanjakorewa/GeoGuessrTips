@@ -21,7 +21,7 @@ jetro_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ギリシャ文字があり、Σが特徴的。
 {{% /notice %}}
@@ -38,13 +38,13 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563339026!6m8!1m7!1sNXesZKRLgCzcIB8wCp9-iA!2m2!1d37.51537911192707!2d22.33591622603271!3f37.508783116613245!4f-19.415190938025546!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681562784599!6m8!1m7!1sSNeXfdQWlEXj92nCSXjduA!2m2!1d39.83661953176593!2d22.51527738510446!3f32.14116344717707!4f-8.816995597275962!5f2.4387869201840315" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679482227397!6m8!1m7!1s-_YX9OU-_d_1nMNO_tmWWw!2m2!1d37.96493530525935!2d23.74940432877799!3f195.2890261192887!4f1.6281484979047463!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
+{{% tab "w-plant" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563271945!6m8!1m7!1sRBOj8Df-u8IoEDERm8jIRA!2m2!1d38.09957462407244!2d23.65938358353345!3f190.99156130230284!4f-0.4026614639561217!5f0.8570811876639206" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

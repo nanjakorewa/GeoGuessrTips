@@ -21,7 +21,7 @@ bg: "bg/city.jpg"
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ドメインは<span class="quiz">.im</span>
 {{% /notice %}}
@@ -38,7 +38,7 @@ bg: "bg/city.jpg"
 </div>
 
 {{% /tab  %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681120798065!6m8!1m7!1sC7dKsz76ul-WWwqyx9bzoQ!2m2!1d54.15605480381518!2d-4.482523373093878!3f297.6482744764267!4f-16.201557796995772!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681120817568!6m8!1m7!1sZfb1JUJ3o637GLI4WyHZXQ!2m2!1d54.28320202451125!2d-4.352836934724788!3f129.58044029874645!4f-6.938967329043422!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -46,7 +46,7 @@ bg: "bg/city.jpg"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681121013816!6m8!1m7!1sINP1vGviyfiEfyVnQEGGPg!2m2!1d54.17185978419207!2d-4.614683890626452!3f28.607889377064655!4f-16.79550293682155!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681121037887!6m8!1m7!1s16LnwMHJjLYrrFhPSU3JGw!2m2!1d54.17153529412187!2d-4.613871803912569!3f113.52714938831821!4f-18.699174265819764!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

@@ -22,7 +22,7 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 
 
 {{% notice tip %}}
@@ -40,12 +40,12 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681565272362!6m8!1m7!1sq_2OKRMWHX8sCxZi8t6dxQ!2m2!1d-33.43036953954903!2d-70.69215439912146!3f146.13802574990763!4f18.063000481558262!5f3.3166181212070036" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680517576539!6m8!1m7!1sndJAVDfDj-JKbyXtwnkwVA!2m2!1d-23.43415146219303!2d-70.01768832755775!3f240.29393656178658!4f1.8799301606486836!5f1.781896378251084" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 {{% notice tip %}}
 タクシーのナンバープレートの色がオレンジか赤のような色
 {{% /notice %}}
@@ -55,7 +55,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564939857!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f65.91892199470567!4f-16.29369329892613!5f3.165364765972633" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 {{% notice tip %}}
 リチウム関連企業（Sociedad Química y Minera de Chile（SOQUIMICH、SQM）、Albemarle）や銅関連の企業の施設があるかも。でもストリートビューで行くことができる場所はほぼ無い。
 {{% /notice %}}

@@ -19,7 +19,7 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 
 {{% notice tip %}}
 電柱に細い黄色い線が複数あると、カリフォルニアが近い？ハワイのものは太目の一本のみ。
@@ -31,14 +31,14 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 {{% /tab %}}
-{{% tab "植物" %}}
+{{% tab "w-plant" %}}
 {{% /tab %}}
 {{% /tabs %}}

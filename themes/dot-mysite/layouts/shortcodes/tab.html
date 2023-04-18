@@ -1,4 +1,10 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class="tab-pane" title="{{ .Get 0 }}">
+{{- if (hasPrefix (.Get 0) "w-") }}
+<div class="tab-pane" title="{{ i18n (.Get 0) }}">
   {{ .Inner }}
 </div>
+{{- else -}}
+<div class="tab-pane" title="{{(.Get 0)}}">
+  {{ .Inner }}
+</div>
+{{- end -}}

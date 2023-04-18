@@ -28,7 +28,7 @@ plonkit: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 とまれの標識が<span class="quiz">berhenti</span>
 {{% /notice %}}
@@ -46,13 +46,13 @@ plonkit: true
 </div>
 
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094472055!6m8!1m7!1sf9c0dk3547CF6PjuVpGNVw!2m2!1d4.592796990111133!2d101.0845285602888!3f151.5626512868176!4f-20.43834258802022!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094369461!6m8!1m7!1s1f89tCbGX2xlb3DN55W-FA!2m2!1d5.963005220166914!2d116.0888713263532!3f218.88572302458456!4f-10.665446132156674!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 {{% notice tip %}}
 SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /notice %}}

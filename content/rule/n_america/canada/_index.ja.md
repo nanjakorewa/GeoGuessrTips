@@ -23,7 +23,7 @@ plonkit: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識にフランス語があればケベック、黒い背景のkm表記はオンタリオになる。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -40,19 +40,19 @@ plonkit: true
 
 
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679813454687!6m8!1m7!1sSKckCfbCs3buCvjnH8B0lw!2m2!1d49.38014711277113!2d-121.3517914811566!3f163.50216004552928!4f-0.7065718579365665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679813379068!6m8!1m7!1sxffe9Npl4Zb_UQ3o7tnG7Q!2m2!1d46.79305940703988!2d-71.14459551620541!3f107.19748829321144!4f-4.5030946521382305!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680092595275!6m8!1m7!1sRGumoYRqBtdS4eJsJomAYQ!2m2!1d49.73946646190775!2d-95.15079623582932!3f138.27707625215092!4f-4.1814765434312875!5f3.290753496394702" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679325495940!6m8!1m7!1sP6tJzfv6dXJEdhaE3HiU7A!2m2!1d49.89554770308396!2d-97.1380825935001!3f57.38926885590616!4f-22.369919344490043!5f3.239308231010501" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 
 
 {{% notice tip %}}Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の銀行。Scotiabankもカナダ大手だが、Scotiabankはカナダに限らず世界中に展開している。
@@ -73,7 +73,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111872260!6m8!1m7!1shGawvDMwNEclk4vVyom39w!2m2!1d56.05702410940899!2d-118.3839628374677!3f35.51577976866718!4f-3.251675013380435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091505806!6m8!1m7!1s80XZaRJbQMTlgymsTaZiog!2m2!1d49.70470969693102!2d-95.27353130405618!3f310.3793040727623!4f-9.341224490576195!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091818659!6m8!1m7!1s33xVzZIXpqFl4GkWt7MTpg!2m2!1d49.66753515976436!2d-110.8182163056383!3f39.80556761592375!4f-29.34309315720548!5f3.222521272804555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

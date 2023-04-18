@@ -26,7 +26,7 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 市外局番が札幌(`011`)～東京(`03`)～大阪(`06`)～鹿児島(`099`)でなんとなくグラデーションとなっているので大体の位置がわかる(<a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachuによる著作物, CC0</a>)。
 {{% /notice %}}
@@ -34,7 +34,7 @@ jogmec_detail: true
 <img src="2023-04-14-21-52-22.png" class="no-click"/>
 
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 {{% notice tip %}}
 山口県は昭和３８年の山口国体のときにガードレールの色を県特産の「夏みかん」の色にして県特産品のアピールをした。その名残で色が夏みかんの色に。{{% by "https://www.sba-japan.com/about/" "web" "鋼製防護柵協会" %}}
 {{% /notice %}}

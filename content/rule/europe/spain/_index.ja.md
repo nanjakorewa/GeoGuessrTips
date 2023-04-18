@@ -25,7 +25,7 @@ plonkit: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本
 {{% /notice %}}
@@ -40,17 +40,17 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681528750357!6m8!1m7!1s_8wKdM8bkRkvHSQtSpGGRA!2m2!1d40.05964667647117!2d-3.903384302186257!3f81.59363100034489!4f-9.228176314298551!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679835046812!6m8!1m7!1sIcn0WjC0dhsYUkbXlekeCA!2m2!1d36.34072203164956!2d-5.318748757553146!3f351.73030040545405!4f-5.518956432826343!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
+{{% tab "w-plant" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680824185731!6m8!1m7!1spnVmy--ngogKwQ_Hi8i0yQ!2m2!1d41.8500945148585!2d0.7041109059627206!3f63.13679896898764!4f2.430239303916508!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681528750357!6m8!1m7!1s_8wKdM8bkRkvHSQtSpGGRA!2m2!1d40.05964667647117!2d-3.903384302186257!3f81.59363100034489!4f-9.228176314298551!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

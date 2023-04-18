@@ -24,7 +24,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 平均所得は平均的なヨーロッパ人の2.5倍。Volkswagen・Mercedes・Audiがトップの売上（<a href="https://www.focus2move.com/luxembourg-car-market-2022/">Luxembourg 2022. Car Market Closes Year With A 10.7% Loss</a>）。オランダは韓国車KIAやTOYOTAも多い（体感）。
 {{% /notice %}}
@@ -33,14 +33,14 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681214963402!6m8!1m7!1sbpAIMbE2WLSf7I-2GCa0sg!2m2!1d49.80531756965897!2d5.932715871267956!3f312.6156234899913!4f-11.435950789360064!5f3.292224819906798" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 {{% lb %}}
 ![](2023-04-12-06-05-39.png)
 
 Willtron, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=4614844による
 {{% /lb %}}
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681215101775!6m8!1m7!1sxkEiQnUK0bi3YJhH9UuwhA!2m2!1d49.80313831396025!2d5.930719732202099!3f155.74313819335805!4f-4.212427024882885!5f1.7041012638308328" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679851824764!6m8!1m7!1sfUEPtWKYMUxEiFnzRBTkHQ!2m2!1d49.80549947226078!2d5.932658346598799!3f28.037884318494097!4f-20.581478578256963!5f3.137841119237799" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

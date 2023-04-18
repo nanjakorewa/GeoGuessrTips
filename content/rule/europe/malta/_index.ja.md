@@ -26,7 +26,7 @@ jetro_detail: false
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 石灰岩を使った薄い黄土色の壁が島中に存在する
 {{% /notice %}}

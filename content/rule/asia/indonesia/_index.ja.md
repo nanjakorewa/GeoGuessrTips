@@ -24,7 +24,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 家の前や通りに三角の旗が並んでいる。
 {{% /notice %}}
@@ -61,17 +61,17 @@ By RasyaAbhirama13 - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/ind
 
 
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679381467003!6m8!1m7!1s30lzEjzyMKzNlBbXFtGUPA!2m2!1d-5.278066734699592!2d119.4322266927783!3f87.53465278696294!4f-8.242611371803562!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 {{% notice tip %}}
 Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 {{% /notice %}}

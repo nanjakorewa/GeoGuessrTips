@@ -21,7 +21,7 @@ jetro_detail: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">両サイドに青色</span>。
 {{% /notice %}}
@@ -36,24 +36,24 @@ Willtron, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=
 TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=7116148による
 {{% /lb %}}
 {{% /tab %}}
-{{% tab "乗り物" %}}
+{{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679812903211!6m8!1m7!1sSMFir_M8O0qVU05WO53LqQ!2m2!1d40.79241710237211!2d16.75499111660603!3f172.19635803893811!4f-18.88659177147491!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679951036760!6m8!1m7!1sIEUWD5fYba2gczGTnEEFDw!2m2!1d43.16686727372661!2d12.77751759439546!3f352.6375152704196!4f-18.646676625627762!5f3.1902177612185434" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679951074620!6m8!1m7!1sraBOZFgfxQ5JLemLVU0ESg!2m2!1d43.16705853048431!2d12.77781161988071!3f248.2504232080267!4f-0.7558497052979902!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679950794453!6m8!1m7!1shiXAjht1julMhueQUwH3ww!2m2!1d44.32128083606679!2d3.596610744676261!3f85.21357402837904!4f21.072327369524842!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485811397!6m8!1m7!1s0VzIixNAaRRXxFPg16EV6g!2m2!1d44.66233315758485!2d7.423223860663709!3f168.62142812554478!4f13.838600860090068!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679675424757!6m8!1m7!1sYPJLTYBc1h1hufIIVdyozQ!2m2!1d44.69938287322245!2d8.948909405395149!3f8.997668547664777!4f-14.101818837900879!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679677396103!6m8!1m7!1s49jdsi_z0BbIXHlL2ELTzQ!2m2!1d42.38323591985135!2d11.95323039171786!3f146.20036850013696!4f-12.743769259753023!5f3.324813682596279" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -63,7 +63,7 @@ TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.p
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485958478!6m8!1m7!1s_IocCYjic6_W6hsDQpH58A!2m2!1d44.66403017946543!2d7.428443492109739!3f282.61256992869187!4f-22.98695062406398!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "植物" %}}
+{{% tab "w-plant" %}}
 {{% notice tip %}}
 ぶどう畑がおおい
 {{% /notice %}}

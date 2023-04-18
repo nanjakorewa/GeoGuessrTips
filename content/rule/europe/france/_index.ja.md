@@ -23,7 +23,7 @@ jetro_detail: true
 
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。。パリが `01` 。
 {{% /notice %}}
@@ -57,20 +57,20 @@ Svbzc - 投稿者自身による著作物, CC 表示-継承 3.0, https://commons
 CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=329958
 {{% /lb %}}
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499745297!6m8!1m7!1sjhcpN_yf7nbEPTp8ZZzM0A!2m2!1d48.38306966108105!2d-4.527637790167269!3f219.9072758992309!4f4.26856072184178!5f2.885928539097609" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681048137991!6m8!1m7!1skN9PPHcI2yjaRk2U6QIhRg!2m2!1d45.0339435257467!2d-0.7395826973967495!3f151.99725813313395!4f-21.08328800397571!5f2.807974713449285" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "建物" %}}
+{{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499615536!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f199.85492266075627!4f-2.8166128908505357!5f3.276746547678126" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "商業施設" %}}
+{{% tab "w-commercial" %}}
 
 
 {{% notice tip %}}
@@ -81,7 +81,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681342282435!6m8!1m7!1sTFLCBVj_D16Egvy7fCg-iw!2m2!1d46.45146941722496!2d-0.8055775440280517!3f64.28518427305654!4f4.02540626784014!5f3.3141337805568174" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679380793765!6m8!1m7!1s8ryarpB8PYnYChP5lv4jsQ!2m2!1d43.80164608843641!2d0.05137941076106586!3f175.39096274941411!4f-34.975801139495374!5f1.7103596603011662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

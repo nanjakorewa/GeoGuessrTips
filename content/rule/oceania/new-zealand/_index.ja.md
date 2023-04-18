@@ -23,7 +23,7 @@ plonkit: true
 </div>
 
 {{% tabs  %}}
-{{% tab "わかりやすい目印" %}}
+{{% tab "w-etf" %}}
 {{% notice tip %}}
 ボラードが<span class="quiz">赤色で塗られている</span>
 {{% /notice %}}
@@ -49,14 +49,14 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681496740065!6m8!1m7!1szzBYVepmSyiWNjZxtaCA9Q!2m2!1d-44.80105926156972!2d170.8992445413041!3f220.44996479091063!4f4.697819777856196!5f1.878281294742738" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "道路" %}}
+{{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681076154035!6m8!1m7!1snNchDURtOF2Pi8TyFhatdQ!2m2!1d-46.29904350653622!2d168.1016630448194!3f113.5594550555082!4f2.44097960226469!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681336992111!6m8!1m7!1sUDS3uTPqeYFbc5jlX39FeQ!2m2!1d-35.71123567515837!2d174.0285549148809!3f101.16967205607813!4f-5.333791598150327!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681337054675!6m8!1m7!1s5ewSfp9w1hC22QQoXdLfPA!2m2!1d-35.71074414713877!2d174.0279954001939!3f92.99296012164498!4f5.460043835513218!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
+{{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679741730352!6m8!1m7!1s-w4LomdSALY_FPOo0wZJdw!2m2!1d-37.09141488399298!2d174.5943142139898!3f173.92854525093594!4f-25.604961401351787!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
