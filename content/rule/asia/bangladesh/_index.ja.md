@@ -13,7 +13,7 @@ plonkit: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>車は<span class="quiz">左側</span>通行</li>

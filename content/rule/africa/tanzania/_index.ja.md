@@ -13,7 +13,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tz</span></li>
         <li>ザンジバルの場合はZanzibarとカメラの下に書いてある、アフリカ本土のタンガニーカから自治権を確保しているザンジバル革命政府が自治をする地域。水色・黒・緑の旗はこの地域限定の旗。</li>

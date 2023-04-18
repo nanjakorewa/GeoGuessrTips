@@ -14,7 +14,7 @@ plonkit: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>速度制限の表記は<span class="quiz">MAXIMUM</span></li>
         <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>

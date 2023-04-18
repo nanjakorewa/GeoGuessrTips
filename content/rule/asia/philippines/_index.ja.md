@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>ドメインは<span class="quiz">.ph</span></li>

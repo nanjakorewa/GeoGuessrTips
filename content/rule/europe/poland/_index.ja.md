@@ -13,7 +13,7 @@ plonkit: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pl</span></li>
         <li>教会の場所も場所を絞り込む上で参考にできる（教会マークがある）</li>

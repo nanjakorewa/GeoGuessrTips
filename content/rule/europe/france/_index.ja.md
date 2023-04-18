@@ -12,7 +12,7 @@ jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>
         <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
@@ -25,12 +25,8 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。(画像：CC BY 3.0.
-<a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a> )
+電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。。パリが `01` 。
 {{% /notice %}}
-<div class="googlemap-if">
-<img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/>
-</div>
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -48,9 +44,9 @@ jetro_detail: true
 
 
 {{% notice tip %}}
-ナンバープレートは両サイドに青、古いもの（2009年以前のフォーマット）は片方だけ青の場合もある。
+ナンバープレートは両サイドに青の時がたまにある、古いもの（2009年以前のフォーマット）は片方だけ青の場合が多い。
 {{% /notice %}}
-{{% lb 50 %}}
+{{% lb 50 small %}}
 ![](2023-04-13-08-21-28.png)
 
 Svbzc - 投稿者自身による著作物, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=6831533による
@@ -99,19 +95,42 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li>電話番号の先頭の2桁で地域がわかる</li>
         <li>ナンバープレートで<span class="quiz">両サイドに青色</span>のものがある</li>
         <li>01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
-        <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
+
+
+{{% tabs  %}}
+{{% tab "電話番号" %}}
+{{% notice tip %}}
+電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。(画像：CC BY 3.0.
+<a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a> )。パリが `01` で、あとは時計回りなので他の国と比較すると覚えやすい。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
+        <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
         <li>ヴェルサイユ宮殿の中も出題される</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
+{{% tab "パリの区画順" %}}
+{{% notice tip %}}
+パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。（画像の出典：By <a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> added the numbers - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a>）
+{{% /notice %}}
+<div class="googlemap-if">
+<div class="description-wide">
+<a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Paris arr jms-num.gif"></a>
+</div>
+</div>
+{{% /tab %}}
 {{% tab "ヴェルサイユ宮殿" %}}
 {{% notice tip %}}
 {{% /notice %}}

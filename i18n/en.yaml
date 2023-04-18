@@ -18,4 +18,19 @@
   translation: ※Comments will appear after approval. Please do not enter any personal information.
 - id: comment_complete
   translation: Thank you for your comment. Your comment will appear after approval.
-
+- id: size-change
+  translation: Change font size
+- id: size-s
+  translation: small
+- id: size-m
+  translation: normal
+- id: size-l
+  translation: large
+- id: rel-site
+  translation: Related Pages
+- id: how-to-distinguish
+  translation: How to Distinguish
+- id: toppage
+  translation: Home
+- id: page-title
+  translation: My GeoGuessr Memo

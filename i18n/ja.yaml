@@ -18,4 +18,19 @@
   translation: ※コメントは承認後に表示されます。個人情報は入力しないようにお願いします。
 - id: comment_complete
   translation: コメントありがとうございます。承認後、コメントが表示されます。
-
+- id: size-change
+  translation: 文字サイズを変更する
+- id: size-s
+  translation: 小さい
+- id: size-m
+  translation: 標準
+- id: size-l
+  translation: 大きい
+- id: rel-site
+  translation: 関連ページ
+- id: how-to-distinguish
+  translation: 国・地域の見分け方
+- id: toppage
+  translation: トップページ
+- id: page-title
+  translation: GeoGuessrのメモ

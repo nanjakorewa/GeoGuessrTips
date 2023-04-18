@@ -64,7 +64,7 @@
 
           <!-- main information area -->
           <div class="main-information {{ if .Params.no_rel_site}}noshow-area{{ end }}">
-              <h4 class="section-title">関連サイト</h2>
+              <h4 class="section-title">{{ i18n "rel-site" | safeHTML }}</h2>
               <ul class="info-list">
                   <li><a href="https://ja.wikipedia.org/wiki/{{ .Title }}">{{ .Title }} (wikipedia)</a></li>
                   {{ if and (not .Params.no_jetro) (not .Params.no_detaile_info) }}
@@ -271,7 +271,7 @@
     <li>{{ .node.LinkTitle }}
   {{- else }}
     {{- if eq .node.LinkTitle site.Title }}
-    <li><a href="{{ .node.Permalink }}">Geoguessrのメモ</a>
+    <li><a href="{{ .node.Permalink }}">{{ i18n "toppage" | safeHTML }}</a>
     {{- else }}
     <li><a href="{{ .node.Permalink }}">{{ .node.LinkTitle }}</a>
     {{- end }}

@@ -13,10 +13,10 @@
         </ul>
       </div>
       <div class="col-md-8 text-md-left text-center footer-fontsize-area">
-        文字サイズを変更する：
-        <input type="radio" name="font-size" value="22px" onchange="changeFontSize()" />大きい
-        <input type="radio" name="font-size" value="reset" onchange="changeFontSize()" />標準
-        <input type="radio" name="font-size" value="12px" onchange="changeFontSize()" />小さい
+        {{ i18n "size-change" | safeHTML }}：
+        <input type="radio" name="font-size" value="22px" onchange="changeFontSize()" />{{ i18n "size-l" | safeHTML }}
+        <input type="radio" name="font-size" value="reset" onchange="changeFontSize()" />{{ i18n "size-m" | safeHTML }}
+        <input type="radio" name="font-size" value="12px" onchange="changeFontSize()" />{{ i18n "size-s" | safeHTML }}
       </div>
     </div>
   </div>

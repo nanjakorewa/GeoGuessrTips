@@ -13,7 +13,7 @@ jogmec_detail: true
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">見分け方</h2>
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ru</span>、<span class="quiz">.su</span>を使うこともある（ソ連の国別コードトップレベルドメイン）</li>
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
