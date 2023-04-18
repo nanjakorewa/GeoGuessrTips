@@ -30,7 +30,6 @@ jogmec_detail: true
 BR＝ブラジル国道、他の記号＝州の名前を表している。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679345878164!6m8!1m7!1sFyuf6Y3l37-k9IDTZv2MHA!2m2!1d-23.40838542544481!2d-47.28510953738978!3f255.56022387205553!4f-4.885981234752805!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -135,11 +134,6 @@ By Fasouzafreitas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/inde
 <div class="description">COPEL=パラナ電力の文字がうっすらと刻まれている</div>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681706584402!6m8!1m7!1sKRPJZSznYCA08XGBnX1KgA!2m2!1d-18.92351924835988!2d-48.28486276559771!3f42.54269421184829!4f-6.044292890950359!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">CEMIG=ミナスジェライス電力の文字がパイプに書かれている</div>
-</div>
-{{% /tab %}}
-{{% tab "その他" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679345878164!6m8!1m7!1sFyuf6Y3l37-k9IDTZv2MHA!2m2!1d-23.40838542544481!2d-47.28510953738978!3f255.56022387205553!4f-4.885981234752805!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
