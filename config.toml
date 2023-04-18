@@ -22,6 +22,7 @@ logo = ""
 # logo white is for homepage logo, you can use colorful logo too...
 logo_white = ""
 # when logo is empty, it will shown your site title
+is_show_langtab = true
 
 # customize color
 primary_color = "#19182a"
