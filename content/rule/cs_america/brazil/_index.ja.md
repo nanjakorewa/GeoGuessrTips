@@ -19,6 +19,7 @@ jogmec_detail: true
         <li>ドメインは<span class="quiz">.br</span></li>
         <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
+        <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。</li>
     </ul>
 </div>
 
@@ -48,6 +49,25 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681829518321!6m8!1m7!1sJfu3TVGFyyeyUBI2xa-ITA!2m2!1d-5.128418221425581!2d-39.73171069715569!3f307.6402477371886!4f-11.449488560528394!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681829554360!6m8!1m7!1sBlWZSVkCmjnTYeD7wJYx3Q!2m2!1d-23.51352684671102!2d-46.62496679242141!3f31.11382004459029!4f-7.635798052599199!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
+![](2023-04-18-23-40-43.png)
+
+By Olympiobr - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20547078
+
+![](2023-04-18-23-45-06.png)
+
+By Fasouzafreitas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123112729
+
+{{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
