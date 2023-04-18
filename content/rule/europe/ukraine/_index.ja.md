@@ -17,6 +17,7 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.ua</span></li>
         <li>GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも？{{% by %}}</li>
         <li>横断歩道の標識は<span class="quiz">3本</span></li>
+        <li>ナンバープレートの<span class="quiz">左下が黄色い時がある</span></li>
     </ul>
 </div>
 
@@ -28,8 +29,6 @@ GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{%
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-
 <div class="googlemap-if unclickable">
 <img src="2023-04-17-12-54-04.png" width="295px" style="height:300px;margin:0;" />
 <img src="2023-04-17-12-53-48.png" width="295px" style="height:300px;margin:0" />
@@ -37,6 +36,22 @@ GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{%
 左がウクライナ、右がロシアの一例（※Chrome開発者ツールから「Enumerate vision deficiencies」で表示設定を変えてます）。
 </div>
 </div>
+
+{{% notice tip %}}
+ナンバープレートの左下が黄色い時があるが、モザイクが強いとほぼ視認できないかも。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681805615936!6m8!1m7!1syoj7DiLCVVq1Vzrt3NugAw!2m2!1d49.55090212512901!2d25.59325705332986!3f43.186933268865374!4f-18.120414923058107!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681805639737!6m8!1m7!1syoj7DiLCVVq1Vzrt3NugAw!2m2!1d49.55090212512901!2d25.59325705332986!3f332.3586578080156!4f-19.063004617122957!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb %}}
+![](2023-04-18-17-11-36.png)
+
+By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25121030
+{{% /lb %}}
+
 
 {{% /tab %}}
 {{% tab "乗り物" %}}
