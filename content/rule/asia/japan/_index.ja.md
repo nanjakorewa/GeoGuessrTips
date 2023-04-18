@@ -75,6 +75,26 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
 
 
 {{% tabs  %}}
+{{% tab "北海道" %}}
+{{% notice tip %}}
+北海道には灯油タンク（ホームタンクと呼ばれる４９０㍑灯油が保存できるタンク、ほとんど白色で緑・黒・黄・赤のものもある）が家の外にある。道路の上に矢印（スノーポール、視線誘導標）もある。セイコーマートが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681859865264!6m8!1m7!1sh4VbsA_6UZEhyGjkexqrWw!2m2!1d42.84417952008602!2d141.6648383904109!3f221.25908237760473!4f16.44955216675497!5f2.5404173457854635" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681859886520!6m8!1m7!1s-bAJKISeXX9I2EgV0lrVrw!2m2!1d42.84533330722992!2d141.66561898281!3f134.7584640744099!4f-2.197463705254961!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681860585927!6m8!1m7!1sJFV-zkeoWDfSMp9nyGXqAA!2m2!1d43.06600885791498!2d141.3547923887244!3f132.40038779422866!4f7.148383159425123!5f2.8627688976220953" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+屋根からの雪下ろしをしなくてもokなように工夫されてた、遠くからみるとまっ平な屋根に見えるスノーダクト屋根・フラットルーフ屋根が多い。また、誰もいない場所に雪が自然に落ちるように設計された屋根（遠くから見るとへの形）も多い。車庫は耐久性の高いカスケードガレージが使われていることがある（<a href="https://www.s-bic.co.jp/cascade/about.html">出典：@カスケード</a>）。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681860775271!6m8!1m7!1sZCq_ruuFMivTjOoBIcdSlg!2m2!1d43.81272522499885!2d142.448496823835!3f324.5998603746964!4f2.738884001552151!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681860798046!6m8!1m7!1sq87gzwMH3gW7iem6VN69ZQ!2m2!1d43.81286800739591!2d142.4483242167853!3f252.17890284412655!4f0.6251349643517017!5f2.8609201218789653" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "山口県" %}}
 {{% notice tip %}}
 山口県は昭和３８年の山口国体のときにガードレールの色を県特産の「夏みかん」の色にして県特産品のアピールをした。その名残で色が<span class="quiz">夏みかん</span>の色に。{{% by "https://www.sba-japan.com/about/" "web" "鋼製防護柵協会" %}}
@@ -84,4 +104,5 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681477231114!6m8!1m7!1sM1bOX-a5JO9RCjUvwtySpw!2m2!1d34.30446807348519!2d131.5761889631186!3f161.4366904338581!4f-13.368927351182364!5f3.024232545143624" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681477284499!6m8!1m7!1so81hwcW-nANV5GG5wM5DvQ!2m2!1d34.1129498328318!2d132.0033576700296!3f226.73642745995758!4f-9.343796969950645!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
 {{% /tabs %}}

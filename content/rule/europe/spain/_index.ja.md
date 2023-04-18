@@ -48,6 +48,7 @@ plonkit: true
 {{% tab "w-plant" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680824185731!6m8!1m7!1spnVmy--ngogKwQ_Hi8i0yQ!2m2!1d41.8500945148585!2d0.7041109059627206!3f63.13679896898764!4f2.430239303916508!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681858620099!6m8!1m7!1seQqQqypAtNIveawD1pd0rA!2m2!1d37.70081022788887!2d-3.72513131649601!3f190.66304440851425!4f-0.2695959691949099!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
