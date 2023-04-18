@@ -32,7 +32,6 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681502073858!6m8!1m7!1sOXkmp_2TGUB7kwVWEuD9Uw!2m2!1d-35.71192710811605!2d174.0293495685181!3f104.94755113407975!4f-9.551590050925654!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
 {{% notice tip %}}
 これは道路番号ではなく速度表記
 {{% /notice %}}
