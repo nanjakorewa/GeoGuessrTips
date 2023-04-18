@@ -119,7 +119,7 @@ copyright = "This is a repository (almost a diary) for organizing bookmarks when
 [Languages.en.params.banner]
 title = ""
 subtitle = ""
-placeholder = "検索ワードを入力してください。"
+placeholder = "enter search words..."
 
 # call to action
 [Languages.en.params.cta]
@@ -134,24 +134,24 @@ link = "contact"
 
 # navigation
 [[Languages.en.menu.main]]
-name = "トップに戻る"
+name = "Toppage"
 url = "/"
 weight = 1
 
 # dropdown menu
 [[Languages.en.menu.main]]
 weight = 4
-name = "メニュー"
+name = "Menu"
 hasChildren = true
 
   [[Languages.en.menu.main]]
-  parent = "メニュー"
-  name = "国の判定"
+  parent = "Menu"
+  name = "Rules"
   url = "rule"
   weight = 1
 
   [[Languages.en.menu.main]]
-  parent = "メニュー"
-  name = "言語"
+  parent = "Menu"
+  name = "Language"
   url = "text"
   weight = 2
