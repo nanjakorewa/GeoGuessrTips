@@ -56,7 +56,6 @@ jogmec_detail: true
         <li class="important-rule">高速道路の出口は"Exit XX"と番号が付いていてズームすると確認できる</li>
         <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
         <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
-        <li>電話番号のエリアコードで地域が分かる（すべては覚えられないが北西の218・406・701・307・605・775・435・928あたりは面積が広い）</li>
         <li>3桁の州間高速道路は下2桁が分岐元の州間高速道路の番号</li>
         <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
         <li>特定の地域のみ事業を展開するゴミ収集業者がある</li>
