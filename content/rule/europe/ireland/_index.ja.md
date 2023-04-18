@@ -33,7 +33,7 @@ jetro_detail: true
 
 
 {{% notice tip %}}
-<span class="quiz">緑色</span>のポストがある
+<span class="quiz">緑色</span>のポストがある。中国やエジプトも同じ色。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681292108757!6m8!1m7!1shQ4GFBDKdI2rT6lrYpDJ_g!2m2!1d51.54894965380621!2d-9.265640754378312!3f67.08916956102632!4f-13.548506061454404!5f3.0852298048143205" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -41,7 +41,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-⚠️
+⚠️...？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681292503262!6m8!1m7!1srD-0oapr2LZHKS2BiW4Zww!2m2!1d53.29374801008991!2d-6.275638485167696!3f80.36284646319791!4f-14.417894715466488!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

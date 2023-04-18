@@ -1,5 +1,21 @@
 - id: topics_title
-  translation: アクセス回数が多いページ
-  
-- id: send
-  translation: Send
+  translation: Page List
+- id: display_setting
+  translation: Display Settings
+- id: display_setting_cnt
+  translation: Blur region/country
+- id: display_setting_desc
+  translation: Blur descriptions
+- id: display_setting_noevidence
+  translation: Hide unknown rules
+- id: comment_title
+  translation: Comment
+- id: comment_name
+  translation: Name
+- id: comment_submit
+  translation: submit
+- id: comment_notice
+  translation: ※Comments will appear after approval. Please do not enter any personal information.
+- id: comment_complete
+  translation: Thank you for your comment. Your comment will appear after approval.
+

@@ -25,7 +25,7 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "わかりやすい目印" %}}
 {{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号で地域もわかる。(画像：CC BY 3.0.
+電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。(画像：CC BY 3.0.
 <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a> )
 {{% /notice %}}
 <div class="googlemap-if">
