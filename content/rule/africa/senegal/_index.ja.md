@@ -44,13 +44,13 @@ jetro_detail: true
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681835368881!6m8!1m7!1sKQ4UR0CUhsU_Sy1QMafC2A!2m2!1d13.26043255146473!2d-13.20029131486454!3f168.77370843611993!4f-9.016344683879453!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681835207993!6m8!1m7!1swjn3arrydfiaJrtinnHDiA!2m2!1d13.84399691620429!2d-15.85368460957238!3f94.70206149159301!4f-21.360856404783192!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680287264544!6m8!1m7!1sqqxy9vJe3ComN0Qgb9obkQ!2m2!1d14.81934582270155!2d-16.64311183872417!3f100.63270209953455!4f5.15872783914854!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681835368881!6m8!1m7!1sKQ4UR0CUhsU_Sy1QMafC2A!2m2!1d13.26043255146473!2d-13.20029131486454!3f168.77370843611993!4f-9.016344683879453!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
