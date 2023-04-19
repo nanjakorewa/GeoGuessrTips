@@ -18,7 +18,7 @@ plonkit: true
         <li>言語は<span class="quiz">英語</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.gh</span></li>
-        <li>右前に<span class="quiz">黒いガムテープが巻かれている</span></li>
+        <li>右前に<span class="quiz">黒いガムテープが巻かれている</span>、右後ろならばレユニオン島(仏領)になる</li>
     </ul>
 </div>
 
