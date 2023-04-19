@@ -35,7 +35,7 @@ jogmec_detail: true
 </div>
 
 {{% notice tip %}}
-横断歩道の線が３本、道端に距離が書かれた標識がある。
+横断歩道の線が３本、道端に距離が書かれた標識がある。標識に書かれた距離も結構長いことが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679952008394!6m8!1m7!1sKN-3kAd_mxa5SqB13YgGug!2m2!1d54.58244420016089!2d100.3601711274949!3f131.58138593641155!4f-2.7641070240745194!5f3.294422798080353" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

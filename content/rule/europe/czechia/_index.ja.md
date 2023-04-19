@@ -17,7 +17,7 @@ plonkit: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cz</span></li>
-        <li>チェコ語のクロウジェク<span class="quiz">Ů・ů</span>が文字に含まれるかも</li>
+        <li>チェコ語の母音クロウジェク<span class="quiz">Ů・ů</span>が文字に含まれるかも</li>
     </ul>
 </div>
 
