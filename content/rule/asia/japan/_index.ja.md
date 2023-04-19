@@ -69,7 +69,7 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>コンビニに<span class="quiz">セイコーマート</span>がある、道路に<span class="quiz">スノーポール</span>がある、<span class="quiz">屋根が平・カスケード型のガレージ・ホームタンク</span>のある家が目立つなら北海道</li>
+        <li>コンビニに<span class="quiz">セイコーマート</span>がある、道路に<span class="quiz">スノーポール・視線誘導標</span>がある、<span class="quiz">屋根が平・カスケード型のガレージ・ホームタンク</span>のある家が目立つなら北海道</li>
         <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
     </ul>
 </div>
@@ -78,7 +78,7 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
 {{% tabs  %}}
 {{% tab "北海道" %}}
 {{% notice tip %}}
-雪が多い地域は道路の上に矢印（視線誘導標）がある。セイコーマートが多い。
+雪が多い地域は道路の上に矢印（固定式視線誘導柱）がある。あとセイコーマートが多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
