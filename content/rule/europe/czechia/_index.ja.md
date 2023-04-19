@@ -17,13 +17,14 @@ plonkit: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cz</span></li>
+        <li>チェコ語のクロウジェク<span class="quiz">Ů・ů</span>が文字に含まれるかも</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボラードと電柱
+ボラードと電柱。ボラードはスロバキアにも同じものがある。チェコ語の母音クロウジェク（Ů・ů）を探してチェコかどうか区別する。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681941225200!6m8!1m7!1sgsGVwur7pu9QCrrQmpkk9w!2m2!1d49.19184261344255!2d16.87967606635006!3f22.928734736934533!4f-14.406306511799286!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
