@@ -16,6 +16,7 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.kg</span></li>
+        <li>ナンバープレートに<span class="quiz">赤色</span>のラインが入っている</li>
     </ul>
 </div>
 
