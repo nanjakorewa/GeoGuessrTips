@@ -29,4 +29,11 @@ plonkit: true
 ？
 </div>
 {{% /tab %}}
+{{% tab "w-bollard" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682023318612!6m8!1m7!1s84EatgUD0lwZGQzlxBiPNA!2m2!1d42.59806937010458!2d27.35791417684463!3f323.02484627831154!4f-10.720130413835022!5f3.3140585619383063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
