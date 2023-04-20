@@ -638,3 +638,15 @@ span.quiz {
 li.important-rule {
   font-weight: bold;
 }
+
+a.area-link {
+  font-weight: bold;
+}
+
+a.area-link::after {
+  font-weight: normal;
+  font-family: "Font Awesome 5 Free";
+  content: "\f2d2";
+  margin-left: 0.2em;
+  margin-right: 1em;
+}
