@@ -37,8 +37,12 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
+{{% notice tip %}}
+道にトルコテレコム (Türk Telekom)のマンホールがある
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679329287776!6m8!1m7!1sIPLEeCdnpTw7Hzu6TYeM7A!2m2!1d40.98721208726514!2d29.02840835541119!3f149.76546718885277!4f8.68972599622029!5f1.6882423387267758" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682031441972!6m8!1m7!1sl8NfH2SkeanoXn4kc8KiqA!2m2!1d38.47213789505467!2d27.17431140846952!3f87.45727387421763!4f-32.2151327048122!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682031833463!6m8!1m7!1sHhaC_5Le6dC-B6EN0H_sAA!2m2!1d37.02132875326358!2d35.30521034961223!3f288.34749757884776!4f-38.19813486175656!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
