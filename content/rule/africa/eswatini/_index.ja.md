@@ -35,4 +35,12 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681999920956!6m8!1m7!1sGAK055_Ioz1-9askzh09Wg!2m2!1d-26.41212092420997!2d31.74838299925051!3f212.79022166637796!4f-11.383262785014082!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "標高" %}}
+{{% notice tip %}}
+西側が高地（標高1500m）で東側が低地（標高200m）と国全体が斜めになっている。ただ判別には使いにくいかも？
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="2023-04-21-05-06-55.png">
+</div>
+{{% /tab %}}
 {{% /tabs %}}
