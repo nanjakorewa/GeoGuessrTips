@@ -569,12 +569,6 @@ div.div-lb p img {
   transition-property: filter;
 }
 
-img.resolution-small {
-  filter: blur(1.4rem);
-  max-width: 70%;
-}
-
-
 div.div-lb p {
   white-space:nowrap;
   width:100%;
@@ -587,8 +581,14 @@ div.div-lb p img:hover{
   transition: 0.3s;
 }
 
-img.resolution-small:hover{
-  filter: blur(0rem);
+
+div.resolution-small p img, div.resolution-small a img {
+  filter: blur(1.2rem) !important;
+  max-width: 70%;
+}
+
+div.resolution-small p img:hover, div.resolution-small a img:hover{
+  filter: blur(0rem) !important;
   transition: 0.3s;
 }
 

@@ -1,5 +1,6 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class="div-lb {{if .Get 1 }}resolution
--{{ .Get 1 }}{{ end }} {{if .Get 0 }} size-{{ .Get 0 }}{{ end }} ">
+<div class="div-lb {{if .Get 0 }}size-{{ .Get 0 }}{{ end }}">
+{{if .Get 1 }}<div class="resolution-small">{{ end }}
     {{ .Inner }}
+{{if .Get 1 }}</div>{{ end }}
 </div>
