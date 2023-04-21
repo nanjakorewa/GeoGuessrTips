@@ -35,17 +35,6 @@ Googleを含む広告配信事業者は、Cookie を使用して、ユーザー�
 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
 
-
-また、ストリートビューは全てiframeで埋め込む形で使用することにしています。以下、規約より抜粋です。
-
-`
-If you simply need to embed a Street View image or panorama on your website, you don’t need our permission. You’re also welcome to do so with our various APIs for web or mobile.
-... (省略)...You may not screenshot Street View imagery or remove it from embedded sources for any purpose. This ensures that if Google edits or removes imagery in response to user requests, these changes will be reflected in your project too. 
-`
-
-引用元：<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#street-view">Geo Guidelines | Street View</a>
-
-
 <h3 class="no-blur">お問い合わせ</h3>
 
 <a href="https://ssl.form-mailer.jp/fms/167b8369777173">こちら</a> or <a href="https://twitter.com/nanjakorewa">twitter</a> or [githubのissues](https://github.com/nanjakorewa/GeoGuessrTips/issues) にお願いします。
