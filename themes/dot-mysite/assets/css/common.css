@@ -603,6 +603,7 @@ div.div-lb p:nth-child(2)::before, div.div-lb p:nth-child(4)::before {
 div.div-lb p:nth-child(2), div.div-lb p:nth-child(4) {
   letter-spacing: 0em;
   font-size: 80%;
+  text-align: center;
 }
 
 div.size-50 p img {

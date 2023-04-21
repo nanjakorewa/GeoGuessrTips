@@ -17,6 +17,7 @@ weight: 1001
 
 各画像の `CC-BY-` 表記については『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』を参照してください。
 パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。
+
 <h2 class="no-blur">プライバシーポリシー・免責事項</h2>
 
 <br />
@@ -34,14 +35,15 @@ Googleを含む広告配信事業者は、Cookie を使用して、ユーザー�
 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
 
-<h3 class="no-blur">ストリートビューについて</h3>
 
-ストリートビューによってページが重くなることがありますが、以下の規約に基づいて全てiframeで埋め込む形で使用することにしています。
+また、ストリートビューは全てiframeで埋め込む形で使用することにしています。以下、規約より抜粋です。
 
-> If you simply need to embed a Street View image or panorama on your website, you don’t need our permission. You’re also welcome to do so with our various APIs for web or mobile.
-> ... (省略)
-> ...
-> You may not screenshot Street View imagery or remove it from embedded sources for any purpose. This ensures that if Google edits or removes imagery in response to user requests, these changes will be reflected in your project too. (引用元：<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#street-view">Geo Guidelines | Street View</a>)
+`
+If you simply need to embed a Street View image or panorama on your website, you don’t need our permission. You’re also welcome to do so with our various APIs for web or mobile.
+... (省略)...You may not screenshot Street View imagery or remove it from embedded sources for any purpose. This ensures that if Google edits or removes imagery in response to user requests, these changes will be reflected in your project too. 
+`
+
+引用元：<a href="https://about.google/brand-resource-center/products-and-services/geo-guidelines/#street-view">Geo Guidelines | Street View</a>
 
 
 <h3 class="no-blur">お問い合わせ</h3>

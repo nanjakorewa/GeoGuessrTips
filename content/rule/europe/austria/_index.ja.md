@@ -31,7 +31,7 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-ボラードのてっぺんの黒い部分が他と違う {{% by "https://www.plonkit.net/austria" "plonkit" %}}
+ボラードのてっぺんの黒い部分が他と違う {{% by "https://www.plonkit.net/austria" "plonkit" %}}。スロベニアにも同じような形のものがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681945396341!6m8!1m7!1sywIsU8yao38c_DWdiqpCQw!2m2!1d47.58957803486367!2d13.46279454579561!3f105.32022585621853!4f-16.778658749867333!5f3.2609974999179023" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -34,13 +34,6 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144379773!6m8!1m7!1sQrAXG_k-LHGM81s8ddfauw!2m2!1d-28.14631507446814!2d153.4746308070993!3f37.11566763990868!4f3.6636677242403692!5f1.5653628904026031" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-viecle" %}}
-{{% lb %}}
-![](2023-04-12-05-43-30.png)
-
-欧州連合のナンバープレート. (2022, November 19). In Wikipedia. https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88
-{{% /lb %}}
-{{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144431366!6m8!1m7!1shxe_iLl3cJEDiavYyHK4Bw!2m2!1d-28.14627200205117!2d153.4778619605121!3f42.26826729503005!4f6.6985311149348945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -61,5 +54,24 @@ plonkit: true
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>ナンバーの色で地域が分かるが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li>クリスマス島が出題されることがある
+            <ul>
+                <li>Google Carが特徴的で黄色ナンバーが多い</li>
+                <li>クリスマスアカガニが数千万個体いるらしく（<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B">出典</a>）カニに対する注意喚起がある。カニが道をわたることができるような工夫（橋など）もある。落ち葉も食べる。</li>
+            </ul>
+        </li>
     </ul>
 </div>
+
+
+
+{{% tabs  %}}
+{{% tab "クリスマス島" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682062079729!6m8!1m7!1sejxUGBHbNqL-BXXae7Sahw!2m2!1d-10.49155710793352!2d105.6312488363077!3f98.70246294049934!4f-43.500924431281184!5f1.6739744811632447" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682062382933!6m8!1m7!1sSBdKZ40H2M8xPSokxUtPoQ!2m2!1d-10.45355846376693!2d105.704299194019!3f315.6525438055099!4f-8.88735771874778!5f2.807657372735314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682062751295!6m8!1m7!1s35iAZNdV7sPXDC6Adw3aFQ!2m2!1d-10.46446473001514!2d105.7053514791641!3f323.3154578012112!4f-21.45262967455278!5f2.0250071090711597" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682062906190!6m8!1m7!1sZnVGE87HfEM5LVtBiy6ovQ!2m2!1d-10.44703859057434!2d105.6639100514767!3f233.62336730438818!4f3.6153994343963234!5f0.4687534173180097" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

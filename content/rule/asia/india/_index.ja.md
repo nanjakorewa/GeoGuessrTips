@@ -80,13 +80,10 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "カンナダ語" %}}
 {{% notice tip %}}
-画像出典：{{% by "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "wiki" "カンナダ語" %}}
+カルナータカ地方とベンガルール周辺に話者が多い。出典：{{% by "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "wiki" "カンナダ語" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680006555635!6m8!1m7!1s4SEAcMmP8hx87rWxqP9c0A!2m2!1d13.04361154116076!2d77.5474873331359!3f117.50972523192821!4f15.68591794847461!5f2.7914502814668984" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description imgs">
-<img src="2023-04-10-04-29-16.png" style="max-height:250px; margin: 0; padding: 0;">
-</div>
 </div>
 {{% /tab %}}
 {{% tab "ヒンドゥスターニー語" %}}

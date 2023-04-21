@@ -17,7 +17,7 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>ドメインは<span class="quiz">.br</span></li>
-        <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ</li>
+        <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、タイなどにも似たようなものがある</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
         <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。</li>
     </ul>
@@ -34,7 +34,7 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 </div>
 
 {{% notice tip %}}
-家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ
+家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは特定できないと思う
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050515831!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f18.826192035204055!4f11.51661489691665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

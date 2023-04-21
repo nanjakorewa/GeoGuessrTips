@@ -20,7 +20,9 @@ plonkit: true
         <li>ドメインは<span class="quiz">.bw</span></li>
         <li><span class="quiz">黄色と黒</span>の色のポールが多い</li>
         <li>道路はざらざらした表面で、路側帯は<span class="quiz">オレンジ</span>（無い場所もある）</li>
-        <li class="no-evidence">ナンバープレートは白・黄・青が混在しているが、バンには青色が多い（気がする）</li>
+        <li>中央部（中央カラハリ動物保護区、野生でキリンとかライオンとかがいる）は道が無いのでストリートビューが無い</li>
+        <li class="no-evidence">ナンバープレートは白・黄・青が混在している</li>
+        <li class="no-evidence">国土の70%がカラハリ砂漠と重なっていて国土全体が平ら</li>
     </ul>
 </div>
 
@@ -29,7 +31,7 @@ plonkit: true
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-？
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682057668256!6m8!1m7!1sEYfexpG8PHVzjUmurMBtYQ!2m2!1d-21.3137382280993!2d26.18020926861166!3f272.4921094997167!4f-38.40092685149466!5f0.5560172255871597" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
