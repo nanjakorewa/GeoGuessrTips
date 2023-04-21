@@ -59,8 +59,6 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
 
 <div class="googlemap-if">
 <iframe width="590" height="315" src="https://www.youtube.com/embed/u1ZB_rGFyeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681481521752!6m8!1m7!1sARLwLmAu7GLHjy41gGpU4A!2m2!1d35.46985538151866!2d140.2064082561936!3f26.471739142844275!4f-1.4330271834424337!5f1.6130467125026793" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
