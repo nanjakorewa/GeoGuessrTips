@@ -17,7 +17,6 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>ナンバープレートは<span class="quiz">青色と黄色</span>、前後を見てこの色ならオランダになる</li>
         <li>ドメインは<span class="quiz">.nl</span></li>
-        <li>SPARはアムステルダム、オランダに拠点がある小売業者（オランダ以外にもある）</li>
     </ul>
 </div>
 
@@ -34,11 +33,6 @@ jogmec_detail: true
 
 {{% lb 50 %}}
 ![](2023-04-12-19-03-07.png)
-{{% /lb %}}
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-{{% lb %}}
-![](2023-04-12-06-04-24.png)
 
 Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=4482331による
 {{% /lb %}}
@@ -51,6 +45,9 @@ Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wiki
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
+{{% notice tip %}}
+SPARはアムステルダム、オランダに拠点がある小売業者（オランダ以外にもある）
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344477467!6m8!1m7!1sksoNxDxOgE1x6k6PhqdZzA!2m2!1d52.35462369937679!2d4.950458885723939!3f221.47995793446393!4f1.1243180771967474!5f2.285106199018506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
