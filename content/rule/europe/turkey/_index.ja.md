@@ -33,7 +33,6 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679329469044!6m8!1m7!1soqaWbeWVN_QyDyyBVko1dg!2m2!1d41.13248579407155!2d29.2826494663796!3f251.79223067568702!4f2.6623459284602404!5f2.848163953827137" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679329722325!6m8!1m7!1snKzr4d-wPnRhDiJyGkZOow!2m2!1d41.02454667383204!2d29.10670370604684!3f60.71658378554916!4f-10.171697281302357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679329756533!6m8!1m7!1s3vdAuV6OIG7P_HL-nvEdhQ!2m2!1d41.02457377261236!2d29.10650188467225!3f95.93134351157076!4f-10.68951990574837!5f3.278673704854542" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
@@ -51,3 +50,10 @@ jogmec_detail: true
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域の絞り込み</h2>
+    <ul class="rule-list">
+        <li>電話番号は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
+    </ul>
+</div>

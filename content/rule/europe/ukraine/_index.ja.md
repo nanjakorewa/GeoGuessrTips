@@ -24,7 +24,7 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{% by %}}？
+GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{% by %}}？ロシアやベルギーなどにも赤い車がいるので色だけで確定はしない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

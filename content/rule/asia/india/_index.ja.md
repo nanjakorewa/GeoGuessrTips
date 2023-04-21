@@ -94,5 +94,13 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680006391122!6m8!1m7!1sbg2cWdtnCh6ZxAm9tEWftw!2m2!1d28.73735204454535!2d77.21867054352147!3f261.684470921806!4f-0.4273194847891375!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "タミル語" %}}
+{{% notice tip %}}
+スリランカの海岸沿いに多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682101003545!6m8!1m7!1sFb461y1SYMMG6X4Bss19Yg!2m2!1d10.85434123330329!2d78.70991798618508!3f255.947668151077!4f3.4817149585278173!5f1.7113530487541073" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 

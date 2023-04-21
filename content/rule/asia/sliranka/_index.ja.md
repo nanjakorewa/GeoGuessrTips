@@ -23,17 +23,11 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-シンハラ語・タミル語が看板に使われている。（シンハラ文字：සිංහල）
+シンハラ語・タミル語が看板に使われている。（シンハラ文字：සිංහල/タミル語：தமிழ்）
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680257229173!6m8!1m7!1sS7eMz0ujro-QazVzbFef4w!2m2!1d6.784678262371749!2d80.28245215307973!3f263.1638877188747!4f-0.11164537993313672!5f3.0001752530940675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680100340097!6m8!1m7!1sDJ0Ty-iMLWHbEbhMbuTD3w!2m2!1d6.896847909740938!2d79.85988121087101!3f275.495347430142!4f3.1635896951033686!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680100372201!6m8!1m7!1s9ImBM4rUaOw2-uUgfnhREA!2m2!1d6.895164594890765!2d79.86096295068656!3f131.0262173535942!4f-0.9824914193521153!5f2.770642274478493" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680257229173!6m8!1m7!1sS7eMz0ujro-QazVzbFef4w!2m2!1d6.784678262371749!2d80.28245215307973!3f263.1638877188747!4f-0.11164537993313672!5f3.0001752530940675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682100640173!6m8!1m7!1sW2nDYT3OdSiuEKGFoeBAuQ!2m2!1d6.898139546306622!2d80.5926493796953!3f343.9497117643875!4f-0.11594183889829424!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
