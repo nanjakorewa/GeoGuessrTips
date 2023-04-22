@@ -8,8 +8,8 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "JO.png"
-jetro_detail: true
-jogmec_detail: true
+no_detaile_info: true
+jetro_detail: false
 ---
 
 <div class="main-desciption country-description">

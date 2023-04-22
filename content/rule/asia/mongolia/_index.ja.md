@@ -8,8 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "MN.png"
-no_detaile_info: true
-jetro_detail: false
+jetro_detail: true
 ---
 
 <div class="main-desciption country-description">
