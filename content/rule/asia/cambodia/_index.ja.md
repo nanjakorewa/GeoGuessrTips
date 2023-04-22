@@ -18,9 +18,9 @@ plonkit: true
     <ul class="rule-list">
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.kh</span></li>
-        <li>クメール語（ភាសាខ្មែរ）が広く用いられている、都市部では英語も使用される。道端にビン入りの飲み物がよく売られている。</li>
-        <li>カンボジアの農村部は高床式住居が多い。</li>
-        <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。</li>
+        <li><span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられている、都市部では英語も使用される。</li>
+        <li>カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。</li>
+        <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。パラソルの下でビン入りの飲み物がよく売られている。</li>
     </ul>
 </div>
 
