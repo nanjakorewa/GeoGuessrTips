@@ -22,7 +22,7 @@ jetro_detail: false
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱の形が違う
+電柱が丸いものが多い、また電柱の上の部分の形が他と異なる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682139088680!6m8!1m7!1syCfEh53FuZQYpvPLLAM-Ig!2m2!1d56.17473944650655!2d27.20834289119661!3f356.9160279563701!4f21.77269451337706!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
