@@ -651,3 +651,23 @@ a.area-link::after {
   margin-left: 0.2em;
   margin-right: 1em;
 }
+
+table.word-list {
+  max-width: 80%;
+}
+
+table.word-list tr td, table.word-list tr th {
+  text-align: center;
+}
+
+table.word-list tr td span.blurtext-2 {
+  letter-spacing: 0em;
+}
+
+table.word-list tr td span.blurtext-2::before {
+  content: "これは";
+}
+
+table.word-list tr td span.blurtext-2::after {
+  content: "語です";
+}

@@ -29,6 +29,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576614545!6m8!1m7!1sCqX7Zdaaiyw21z6aQ3HtCg!2m2!1d29.87147887963868!2d79.62983076241443!3f139.35104298712295!4f-1.9042464036854057!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680006391122!6m8!1m7!1sbg2cWdtnCh6ZxAm9tEWftw!2m2!1d28.73735204454535!2d77.21867054352147!3f261.684470921806!4f-0.4273194847891375!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -104,3 +105,21 @@ jogmec_detail: true
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>言語名</th> <th>表記</th>
+</tr>
+<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+</table>
+</div>
