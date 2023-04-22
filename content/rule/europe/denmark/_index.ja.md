@@ -37,7 +37,7 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 
 
 {{% notice tip %}}
-丸いカーブのパイプが多い。ポストは上が丸い。通り名の看板も丸い（オランダなどはパイプが四角いことが多い）。
+丸いカーブのパイプが多い。ポストは上が丸くPost Danmark社のロゴがあることもある（現PostNord社）。通り名の看板も丸い（オランダなどはパイプが四角いことが多い）。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681529693548!6m8!1m7!1sQMEH3hnALZnTI58PgPnr9Q!2m2!1d56.03639704937119!2d12.60923869930314!3f273.27617610062356!4f-10.464780989730272!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
