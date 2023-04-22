@@ -4,9 +4,9 @@
   {{ if eq .Title site.Title }}
   <title>{{ .Title }}</title>
   {{ else if .Params.subtitle }}
-  <title>{{ .Params.subtitle }} - ゲームプレイ記録</title>
+  <title>{{ .Params.subtitle }} - ジオゲッサーのプレイ記録</title>
   {{ else }}
-  <title>{{ .Title }}{{ .Params.title_suffix }}のページ - ゲームプレイ記録</title>
+  <title>{{ .Title }}{{ .Params.title_suffix }}のページ - ジオゲッサーのプレイ記録</title>
   {{ end }}
 
   {{ if (.Params.flag) }}
