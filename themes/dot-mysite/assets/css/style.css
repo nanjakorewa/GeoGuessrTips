@@ -649,8 +649,12 @@ tbody {
   margin: 2rem 0;
   position: relative;
 }
+.notices-without-mark {
+  margin: 2rem 1em;
+  position: relative;
+}
 
-.notices p {
+.notices p, .notices-without-mark p {
   padding: 10px;
 }
 
@@ -661,6 +665,15 @@ tbody {
   font-family: "themify";
   font-weight: 900;
   content: "\e717";
+  left: 10px;
+}
+
+.notices-without-mark p::before {
+  position: absolute;
+  top: 2px;
+  color: #fff;
+  font-family: "themify";
+  content: "\e693";
   left: 10px;
 }
 
@@ -676,7 +689,6 @@ tbody {
   color: #fff;
   left: 2rem;
 }
-
 
 .notices.tip p {
   border-top: 30px solid #78C578;
@@ -704,7 +716,6 @@ tbody {
   left: 2rem;
 }
 
-
 .notices.warning p {
   border-top: 30px solid #E06F6C;
   background: #FAE2E2;
@@ -717,6 +728,31 @@ tbody {
   color: #fff;
   left: 2rem;
 }
+
+.notices-without-mark.rel p {
+  border-top: 30px solid #6ab0de;
+  background: #e7f2fa;
+}
+
+.notices-without-mark.rel p::after {
+  content: '近い国・地域';
+  position: absolute;
+  top: 2px;
+  color: #fff;
+  left: 2rem;
+}
+
+.notices-without-mark.rel p a:hover {
+  text-decoration: underline !important;
+}
+
+.notices-without-mark.rel p a::before {
+  font-family: "Font Awesome 5 Free";
+  content: "\f2d0";
+  margin-right: 0.2em;
+}
+
+
 
 /* /single page */
 
