@@ -40,13 +40,10 @@ no_jetro: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681861667297!6m8!1m7!1sjGAkKEr9y77dWbsKinYiaw!2m2!1d42.91935014108762!2d143.1648458073584!3f19.062927759596892!4f-5.865049370800605!5f3.278903256096848" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
 
 {{% notice tip %}}
-交差点付近に砂箱がある。路面が滑りにくくなるようにするための砂が入っている。ご当地砂箱もあるらしい（<a href="https://tokukita.jp/gotouchineta/hokkaido-sunabako.html">出典</a>）。
+北海道以外であまり見られない標識もあるかも
 {{% /notice %}}
-
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682123693559!6m8!1m7!1sWT7Rfzob8uzElJbMdx6-gQ!2m2!1d45.41968945494474!2d141.6749125304475!3f132.90653297959554!4f20.808770336172074!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
