@@ -20,6 +20,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.kh</span></li>
         <li>クメール語（ភាសាខ្មែរ）が広く用いられている、都市部では英語も使用される。道端にビン入りの飲み物がよく売られている。</li>
         <li>カンボジアの農村部は高床式住居が多い。</li>
+        <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。</li>
     </ul>
 </div>
 
