@@ -62,7 +62,7 @@ plonkit: true
 <tr>
     <th>言語名</th> <th>表記</th>
 </tr>
-<tr><td>日本</td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
 <tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
 <tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
 <tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
