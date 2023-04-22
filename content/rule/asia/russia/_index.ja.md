@@ -62,6 +62,7 @@ jogmec_detail: true
 {{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680568075031!6m8!1m7!1sn0bvWbod7ABKSuhedfxguw!2m2!1d53.18501614053784!2d44.06404540436073!3f277.12844123573996!4f-5.65583935692743!5f2.746292577094953" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682205300283!6m8!1m7!1so7nnqQcYEGSdeiukb3SAmA!2m2!1d51.29802272219229!2d37.84326064984084!3f109.30759063511029!4f-6.209895713528667!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
