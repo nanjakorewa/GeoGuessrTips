@@ -20,6 +20,3 @@ plonkit: true
         <li>ドメインは<span class="quiz">.la</span></li>
     </ul>
 </div>
-
-<div class="googlemap-if">
-</div>

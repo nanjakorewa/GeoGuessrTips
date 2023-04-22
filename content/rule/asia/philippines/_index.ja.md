@@ -73,9 +73,6 @@ jogmec_detail: true
 {{% /tab %}}
 {{% /tabs %}}
 
-<div class="googlemap-if">
-</div>
-
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
