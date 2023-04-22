@@ -17,10 +17,9 @@ plonkit: true
     <ul class="rule-list">
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li class="no-evidence"><span class="quiz">赤と白の縞模様</span>のボラード、色と形は違うものも存在する</li>
         <li ><span class="quiz">黒と白の縞模様</span>のポールの標識がある、すぐ近くのブータンも同じ。</li>
-        <li>インドとバングラディシュの大手通信会社は<span class="quiz">airtel（インドとアフリカに展開している）</span></li>
         <li>Dhaka bankのロゴがあるかも</li>
+        <li class="no-evidence"><span class="quiz">赤と白の縞模様</span>のボラード、色と形は違うものも存在する。橋の近くに並んでいることが多い。</li>
     </ul>
 </div>
 
