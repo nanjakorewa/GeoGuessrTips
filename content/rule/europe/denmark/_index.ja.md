@@ -41,9 +41,7 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681529693548!6m8!1m7!1sQMEH3hnALZnTI58PgPnr9Q!2m2!1d56.03639704937119!2d12.60923869930314!3f273.27617610062356!4f-10.464780989730272!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529529715!6m8!1m7!1sbMYyGkfPRycN_1T9OUn9Jw!2m2!1d56.47188011116662!2d10.0253532450717!3f40.10496903926219!4f-9.416251444963521!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681529480549!6m8!1m7!1sWP9soOtPLBI6hcTNbSJElw!2m2!1d56.14558554605149!2d8.968942288805632!3f72.24934595356947!4f-8.918377819728022!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529444364!6m8!1m7!1siXYSj2SPr1bwQ2QKogPUVA!2m2!1d55.71547096278363!2d11.7145379582563!3f101.03000303396436!4f-13.806145714996674!5f2.791722204651075" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
