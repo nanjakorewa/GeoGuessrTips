@@ -61,7 +61,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "電話番号" %}}
 {{% notice tip %}}
-212→イスタンブールかもといった感じで大体の位置推定ができる。
+212→イスタンブールを含む西側かもといった感じで大体の位置推定ができる。ただし05~、08～も多くこれらは場所が分からないかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682124343498!6m8!1m7!1soavtCUP5-jYYp_V2xA792g!2m2!1d41.04250992296203!2d28.98642515603996!3f289.60900622705896!4f3.2878253103013293!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
