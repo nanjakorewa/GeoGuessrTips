@@ -21,7 +21,7 @@ jetro_detail: false
 </div>
 
 {{% tabs  %}}
-{{% tab "Google Cow" %}}
+{{% tab "トレッカー" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682020963172!6m8!1m7!1sm7AX8lqdxkUmpkFY-AhIMQ!2m2!1d-18.92382582069827!2d47.53177034625296!3f66.53231343173096!4f22.835800446454456!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682021034347!6m8!1m7!1svBxu5kas7e10HQwYvjFS6g!2m2!1d-18.92328094594912!2d47.5301458949846!3f277.51162859199894!4f1.5833064148211378!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

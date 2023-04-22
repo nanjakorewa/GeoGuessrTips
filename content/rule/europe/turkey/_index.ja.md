@@ -23,11 +23,20 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üなどが特徴的。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682125696349!6m8!1m7!1sj3lhjc16BvPLpaJU_dkwGg!2m2!1d39.66015996648644!2d27.5249062202322!3f219.61317816768963!4f-13.440804874111492!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682125883074!6m8!1m7!1ssMLpDjbxkytbp4dzehUazA!2m2!1d37.83911543468253!2d40.62687350747372!3f141.53321658111844!4f-3.8276590041543272!5f3.21222294316663" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
 止まれの標識は<span class="quiz">DUR</span>
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679329429724!6m8!1m7!1stlR0bfMutQCq8lt8DCFKrQ!2m2!1d41.13258238720963!2d29.28276451037982!3f258.73513046843476!4f-0.699127415117772!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -37,15 +46,20 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
-道にトルコテレコム (Türk Telekom)のマンホールがある
+道にトルコテレコム (Türk Telekom)のマンホールがある。telefon（トルコ語でのtelephone）の表記もある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682031441972!6m8!1m7!1sl8NfH2SkeanoXn4kc8KiqA!2m2!1d38.47213789505467!2d27.17431140846952!3f87.45727387421763!4f-32.2151327048122!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682031833463!6m8!1m7!1sHhaC_5Le6dC-B6EN0H_sAA!2m2!1d37.02132875326358!2d35.30521034961223!3f288.34749757884776!4f-38.19813486175656!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682032248676!6m8!1m7!1srejQsYOMxfcQDH5vYL1uxA!2m2!1d38.74271029142172!2d35.47934290009136!3f344.04125431552984!4f-23.96399488085622!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "w-bollard" %}}
+{{% notice tip %}}
+片面のみに反射板、とても薄い？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682126276939!6m8!1m7!1szePmi730CADvSN8BXt2KzQ!2m2!1d37.14516048092026!2d34.83534030237135!3f345.4821428952779!4f-8.685966550225672!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682126333722!6m8!1m7!1sQwEYDNiSF8ZmYL1air9PDQ!2m2!1d41.10184696207915!2d34.40714980714959!3f222.69801359444685!4f-17.408307712036475!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
