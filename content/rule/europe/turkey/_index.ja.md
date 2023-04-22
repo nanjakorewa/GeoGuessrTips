@@ -57,3 +57,14 @@ jogmec_detail: true
         <li>電話番号は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
     </ul>
 </div>
+
+
+{{% tabs  %}}
+{{% tab "電話番号" %}}
+{{% notice tip %}}
+0212→イスタンブールかもといった感じで大体の位置推定ができる。
+{{% /notice %}}
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682124343498!6m8!1m7!1soavtCUP5-jYYp_V2xA792g!2m2!1d41.04250992296203!2d28.98642515603996!3f289.60900622705896!4f3.2878253103013293!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682124561524!6m8!1m7!1sKdxQ7eLvYJyjiOcZPrhw6g!2m2!1d41.04363221134001!2d28.98635001306301!3f279.22724503871007!4f-2.0998099344897696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% /tab %}}
+{{% /tabs %}}
