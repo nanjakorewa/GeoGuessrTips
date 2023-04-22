@@ -42,5 +42,12 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681965793866!6m8!1m7!1sCC4gdvMh6mHaHJ4LbinpUw!2m2!1d13.79205738884228!2d107.0446235238677!3f189.80029586278943!4f4.564831644180387!5f1.7504441702702604" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681965922771!6m8!1m7!1sLwHCWLuOuIkAAAQINShrPg!2m2!1d12.46682606828532!2d106.0253300553675!3f351.4900256991656!4f0.6708053189221772!5f1.674384299632421" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+カンボジアで知名度の高い企業が書かれたパラソルや看板が多い。通信はBeeline、清涼飲料水はコカ・コーラ、ビールはLEO・Kingdom・Angkorなど、Angkorのロゴにもアンコールワットが描かれている（<a href="https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php">出典</a>）。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
