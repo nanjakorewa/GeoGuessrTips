@@ -25,10 +25,11 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}ボラードが白黒の角ばった感じ {{% by %}}
+{{% notice tip %}}ボラードが白黒の角ばった感じ {{% by %}}。電柱も角ばっている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679483318952!6m8!1m7!1sokZsKss6tEG30aLxd_JKHw!2m2!1d14.64599789539522!2d98.6995684721261!3f338.6358224624784!4f-9.85447049551665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682253036696!6m8!1m7!1sjnVySIUkGXb5XpEwci1aTA!2m2!1d17.34694015534703!2d102.828123273268!3f78.31588429892301!4f-4.759113999546827!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
