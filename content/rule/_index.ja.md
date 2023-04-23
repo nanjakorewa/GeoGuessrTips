@@ -19,8 +19,8 @@ weight: 1
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
     video: "1621039894",
-    width: "450px",
-    height: "330px",
+    width: "400px",
+    height: "300px",
   });
 </script>
 </div>
