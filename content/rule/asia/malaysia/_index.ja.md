@@ -18,7 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.my</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>電柱に<span class="quiz">黒いラベル</span></li>
+        <li>電柱に<span class="quiz">黒いラベル</span>が付いている時があり、あるならば本土側になる</li>
         <li>とまれの標識が<span class="quiz">berhenti</span></li>
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
         <li>SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味。</li>
