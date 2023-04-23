@@ -675,3 +675,7 @@ table.word-list tr td span.blurtext-2::after {
 span.f-enlarge {
   font-weight: bold;
 }
+
+div.unclickable-area a {
+  pointer-events: none;
+}
