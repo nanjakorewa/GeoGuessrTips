@@ -55,7 +55,8 @@ plonkit: true
 {{% tab "w-commercial" %}}
 
 
-{{% notice tip %}}Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の銀行。Scotiabankもカナダ大手だが、Scotiabankはカナダに限らず世界中に展開している。
+{{% notice tip %}}
+Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の銀行。Scotiabankもカナダ大手だが、Scotiabankはカナダに限らず世界中に展開している。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -99,32 +100,30 @@ plonkit: true
 
 
 {{% tabs  %}}
-{{% tab "西側" %}}
+{{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091505806!6m8!1m7!1s80XZaRJbQMTlgymsTaZiog!2m2!1d49.70470969693102!2d-95.27353130405618!3f310.3793040727623!4f-9.341224490576195!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091818659!6m8!1m7!1s33xVzZIXpqFl4GkWt7MTpg!2m2!1d49.66753515976436!2d-110.8182163056383!3f39.80556761592375!4f-29.34309315720548!5f3.222521272804555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "東側" %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
-
-
-{{% tabs  %}}
 {{% tab "オンタリオ" %}}
+{{% notice tip %}}
+オンタリオのボラードは `km/h` の部分が黒背景になっている。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680092550361!6m8!1m7!1sQbi9zOhBSaKoAR4ljsZv_w!2m2!1d49.73933749078834!2d-95.15201809047014!3f145.05850004916792!4f0.1372081059932384!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "オンタリオじゃない" %}}
+
+{{% notice tip %}}
+オンタリオ州とマニトバ州をつなぐ道路のマニトバ州側の速度表記の看板には黒背景が無い。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
 
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の絞り込み</h2>

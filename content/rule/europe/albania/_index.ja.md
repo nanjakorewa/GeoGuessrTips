@@ -40,7 +40,7 @@ plonkit: false
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681573800997!6m8!1m7!1sCAoSLEFGMVFpcE15dUR6TENLWThzZm5DTDFrcl95QjlZYURnRWtQMTdxSWNIODJr!2m2!1d41.331760053918!2d19.807603671141!3f277.160343055523!4f-14.737075092664028!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682210765274!6m8!1m7!1sfPx3IVhFKkjgHGJeQD0-bw!2m2!1d41.10951712841936!2d20.08314737646181!3f96.7482075422779!4f21.3477726723369!5f2.784325315735024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681574002141!6m8!1m7!1sY_u-CAKrWJi8w7aruEK-mg!2m2!1d40.07775582993001!2d20.13863329250565!3f23.309818986374466!4f-3.165257971056377!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
