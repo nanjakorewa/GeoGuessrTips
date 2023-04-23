@@ -47,11 +47,6 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680092595275!6m8!1m7!1sRGumoYRqBtdS4eJsJomAYQ!2m2!1d49.73946646190775!2d-95.15079623582932!3f138.27707625215092!4f-4.1814765434312875!5f3.290753496394702" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-viecle" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679325495940!6m8!1m7!1sP6tJzfv6dXJEdhaE3HiU7A!2m2!1d49.89554770308396!2d-97.1380825935001!3f57.38926885590616!4f-22.369919344490043!5f3.239308231010501" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-commercial" %}}
 
 
@@ -72,12 +67,6 @@ Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111205084!6m8!1m7!1s-UxEEFPNNm-mUb8tgXtuwQ!2m2!1d45.64246075442041!2d-73.55239018585368!3f244.4341122162465!4f6.070523922723069!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111809405!6m8!1m7!1ss1cAilUaSjeVEgdmo6l1Rg!2m2!1d54.39683596741235!2d-113.5005681784792!3f282.61501806102723!4f-6.847783379797136!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111872260!6m8!1m7!1shGawvDMwNEclk4vVyom39w!2m2!1d56.05702410940899!2d-118.3839628374677!3f35.51577976866718!4f-3.251675013380435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680091505806!6m8!1m7!1s80XZaRJbQMTlgymsTaZiog!2m2!1d49.70470969693102!2d-95.27353130405618!3f310.3793040727623!4f-9.341224490576195!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680091818659!6m8!1m7!1s33xVzZIXpqFl4GkWt7MTpg!2m2!1d49.66753515976436!2d-110.8182163056383!3f39.80556761592375!4f-29.34309315720548!5f3.222521272804555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "景色" %}}
