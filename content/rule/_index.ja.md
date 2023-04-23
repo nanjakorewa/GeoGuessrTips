@@ -14,12 +14,12 @@ weight: 1
 
 
 <div class="googlemap-if">
-<div id="twitch-embed"></div>
+<div id="twitch-embed" style="max-width: 90%;"></div>
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
     video: "1621039894",
-    width: "590px",
+    width: "450px",
     height: "330px",
   });
 </script>
