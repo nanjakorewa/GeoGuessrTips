@@ -14,7 +14,7 @@ no_jetro: true
 {{% tabs  %}}
 {{% tab "北海道全域" %}}
 {{% notice tip %}}
-雪が多い地域は道路の上に矢印（固定式視線誘導柱）がある。あとセイコーマートが多い。
+雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。あとコンビニは<span class="quiz">セイコーマート</span>が特徴的。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -23,7 +23,7 @@ no_jetro: true
 </div>
 
 {{% notice tip %}}
-北海道には灯油タンク（ホームタンクと呼ばれる４９０㍑灯油が保存できるタンク、ほとんど白色で緑・黒・黄・赤のものもある）が家の外にある。屋根からの雪下ろしをしなくても大丈夫なように工夫された、遠くからみるとまっ平な屋根に見えるスノーダクト屋根・フラットルーフ屋根が多い。また、誰もいない場所に雪が自然に落ちるように設計された屋根（遠くから見るとへの形）も多い。車庫は耐久性の高いカスケードガレージが使われていることがある（<a href="https://www.s-bic.co.jp/cascade/about.html">出典：@カスケード</a>）。
+北海道には<span class="quiz">灯油タンク</span>（ホームタンクと呼ばれる４９０㍑灯油が保存できるタンク、ほとんど白色で緑・黒・黄・赤のものもある）が家の外にある。屋根からの雪下ろしをしなくても大丈夫なように工夫された、遠くからみると<span class="quiz">まっ平な屋根に見えるスノーダクト屋根・フラットルーフ</span>屋根が多い。また、誰もいない場所に雪が自然に落ちるように設計された屋根（遠くから見るとへの形）も多い。車庫は<span class="quiz">耐久性の高いカスケードガレージ</span>が使われていることがある（<a href="https://www.s-bic.co.jp/cascade/about.html">出典</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -33,7 +33,7 @@ no_jetro: true
 </div>
 
 {{% notice tip %}}
-交差点付近に砂箱がある。路面が滑りにくくなるようにするための砂が入っている。ご当地砂箱もあるらしい（<a href="https://tokukita.jp/gotouchineta/hokkaido-sunabako.html">出典</a>）。
+交差点付近に<span class="quiz">砂箱が</span>あることも。路面が滑りにくくなるようにするための砂が入っている。ご当地砂箱もあるらしい（<a href="https://tokukita.jp/gotouchineta/hokkaido-sunabako.html">出典</a>）。
 {{% /notice %}}
 
 
@@ -42,7 +42,7 @@ no_jetro: true
 </div>
 
 {{% notice tip %}}
-北海道以外であまり見られない標識もあるかも
+北海道以外であまり見られない標識もあるかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682123693559!6m8!1m7!1sWT7Rfzob8uzElJbMdx6-gQ!2m2!1d45.41968945494474!2d141.6749125304475!3f132.90653297959554!4f20.808770336172074!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

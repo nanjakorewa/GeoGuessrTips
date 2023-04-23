@@ -12,7 +12,7 @@ no_jetro: true
 {{% tabs  %}}
 {{% tab "山口県" %}}
 {{% notice tip %}}
-山口県は昭和３８年の山口国体のときにガードレールの色を県特産の「夏みかん」の色にして県特産品のアピールをした。その名残で色が<span class="quiz">夏みかん</span>の色に。{{% by "https://www.sba-japan.com/about/" "web" "鋼製防護柵協会" %}}
+山口県は昭和３８年の山口国体のときにガードレールの色を県特産の「<span class="quiz">夏みかん</span>」の色にして県特産品のアピールをした。その名残で色が<span class="quiz">夏みかん</span>の色に。{{% by "https://www.sba-japan.com/about/" "web" "鋼製防護柵協会" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
