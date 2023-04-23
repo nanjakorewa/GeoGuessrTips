@@ -54,6 +54,14 @@ plonkit: true
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>ナンバーの色で地域が分かるが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li>電話番号のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
+            <ul>
+                <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
+                <li>03：<span class="quiz">Victoria・タスマニア・メルボルン</span></li>
+                <li>04：<span class="quiz">オーストラリア中の携帯電話、場所指定無し</span></li>
+                <li>07：<span class="quiz">Queensland</span></li>
+                <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
+            </ul>
         <li>クリスマス島が出題されることがある
             <ul>
                 <li>Google Carが特徴的で黄色ナンバーが多い</li>
@@ -66,6 +74,28 @@ plonkit: true
 
 
 {{% tabs  %}}
+{{% tab "w-viecle" %}}
+
+{{% notice tip %}}
+微妙に赤みがある車が多いときは北東か北のエリア（クイーンズランド）かも？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682233517999!6m8!1m7!1sWq0K0pNpxYlUgBtkt3QTIQ!2m2!1d-21.14715132093964!2d149.1849561159643!3f55.12812703334478!4f-18.686872793176335!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682233315360!6m8!1m7!1svv7zLhPdlb_doH4kc-mt1A!2m2!1d-12.52010279062024!2d131.0433048327268!3f122.20094401009418!4f-11.983834788457656!5f3.3203366790792304" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
+
+![](2023-04-23-16-05-30.png)
+
+By NJM2010 - Own work, GFDL, https://commons.wikimedia.org/w/index.php?curid=13768947
+
+![](2023-04-23-16-00-23.png)
+
+By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67572209
+{{% /lb %}}
+{{% /tab %}}
 {{% tab "クリスマス島" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682062079729!6m8!1m7!1sejxUGBHbNqL-BXXae7Sahw!2m2!1d-10.49155710793352!2d105.6312488363077!3f98.70246294049934!4f-43.500924431281184!5f1.6739744811632447" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
