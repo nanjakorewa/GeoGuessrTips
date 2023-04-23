@@ -19,8 +19,8 @@ plonkit: true
         <li>ドメインは<span class="quiz">.au</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ユーカリの木が沢山ある、電柱もユーカリの木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
-        <li>オーストラリアのボラードは片方しか塗られていないのでニュージーランドと区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
-        <li>GIVE WAYが<span class="quiz">黒い</span>色で書かれている</li>
+        <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
+        <li>GIVE WAYが<span class="quiz">黒い</span>色で書かれている{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
 </div>
 
@@ -53,7 +53,7 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>ナンバーの色で地域が分かるが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li>ナンバーの色で地域が分かるかもしれないが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li>電話番号のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
