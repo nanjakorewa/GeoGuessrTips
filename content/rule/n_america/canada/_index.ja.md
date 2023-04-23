@@ -100,6 +100,40 @@ Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の�
 
 
 {{% tabs  %}}
+{{% tab "ナンバープレート" %}}
+{{% notice tip %}}
+マニトバ州はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。
+{{% /notice %}}
+{{% lb 50 %}}
+![](2023-04-23-09-51-56.png)
+
+By Midnightcat1 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118040953
+{{% /lb %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682211476130!6m8!1m7!1sU8QXnhgFgVzFlQhJjTgJ6g!2m2!1d49.84376723274784!2d-99.94971508209314!3f114.48268402600476!4f-9.244021473449664!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682211492857!6m8!1m7!1syDWWT4LimNjLzZBqajDsJQ!2m2!1d49.84376664981337!2d-99.94919460431701!3f109.85711351572195!4f-8.023985168899003!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+オンタリオのナンバープレートは青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。
+{{% /notice %}}
+{{% lb 50 %}}
+![](2023-04-23-10-02-48.png)
+
+By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87142994
+
+![](2023-04-23-10-03-02.png)
+
+By PascalHD - https://www.flickr.com/photos/197171168@N04/52795980745/, CC BY-SA 2.0, https://commons.wikimedia.org/w/index.php?curid=130404425
+{{% /lb %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682211660961!6m8!1m7!1slplskCHX2xOloVckahncAQ!2m2!1d48.38417111480668!2d-89.2511924178898!3f223.93221130024594!4f-23.099235887454768!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682211745921!6m8!1m7!1sJaLfm5FwbzWdGMC4pBLG9w!2m2!1d48.38725651386531!2d-89.25514287694057!3f134.58260895913617!4f-12.26239858658549!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091505806!6m8!1m7!1s80XZaRJbQMTlgymsTaZiog!2m2!1d49.70470969693102!2d-95.27353130405618!3f310.3793040727623!4f-9.341224490576195!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
