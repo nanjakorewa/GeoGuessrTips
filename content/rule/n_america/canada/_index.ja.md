@@ -134,13 +134,7 @@ By PascalHD - https://www.flickr.com/photos/197171168@N04/52795980745/, CC BY-SA
 </div>
 
 {{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680091505806!6m8!1m7!1s80XZaRJbQMTlgymsTaZiog!2m2!1d49.70470969693102!2d-95.27353130405618!3f310.3793040727623!4f-9.341224490576195!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680091818659!6m8!1m7!1s33xVzZIXpqFl4GkWt7MTpg!2m2!1d49.66753515976436!2d-110.8182163056383!3f39.80556761592375!4f-29.34309315720548!5f3.222521272804555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "オンタリオ" %}}
+{{% tab "速度表記" %}}
 {{% notice tip %}}
 オンタリオのボラードは `km/h` の部分が黒背景になっている。
 {{% /notice %}}
@@ -153,6 +147,12 @@ By PascalHD - https://www.flickr.com/photos/197171168@N04/52795980745/, CC BY-SA
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "ボラード" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680091505806!6m8!1m7!1s80XZaRJbQMTlgymsTaZiog!2m2!1d49.70470969693102!2d-95.27353130405618!3f310.3793040727623!4f-9.341224490576195!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680091818659!6m8!1m7!1s33xVzZIXpqFl4GkWt7MTpg!2m2!1d49.66753515976436!2d-110.8182163056383!3f39.80556761592375!4f-29.34309315720548!5f3.222521272804555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
