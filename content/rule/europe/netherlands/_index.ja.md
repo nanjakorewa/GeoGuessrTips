@@ -42,7 +42,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wiki
 
 
 {{% notice tip %}}
-家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に紐をひっかける棒がある。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
+家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に紐をひっかける棒があることも。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682217440981!6m8!1m7!1sShrdegp8jM5kGf45qRbN4Q!2m2!1d51.9121151342119!2d4.446415080678936!3f105.34258501375567!4f15.29181978106989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

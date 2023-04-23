@@ -62,4 +62,28 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679316439962!6m8!1m7!1sdmYvG2XkifNSiDi7PAQ0Mw!2m2!1d23.38225915977607!2d90.21923277387768!3f1.1454390496104359!4f-7.479103567159129!5f0.7588358809536506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "言語" %}}
+{{% notice note %}}
+バングラディシュでは主にベンガル語が使用されている
+{{% /notice %}}
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>言語名</th> <th>表記</th>
+</tr>
+<tr><td>日本</td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+</table>
+</div>
+{{% /tab %}}
 {{% /tabs %}}

@@ -36,8 +36,7 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680100301053!6m8!1m7!1sWJn-uobwNvZjZCdh9MQLug!2m2!1d6.897841792425899!2d79.8610422561013!3f245.31013468157033!4f-3.849394447435728!5f2.829064376348808" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
+{{% tab "言語" %}}
 {{% notice note %}}
 シンハラ語とタミル語が使用されている
 {{% /notice %}}
@@ -47,7 +46,7 @@ jetro_detail: false
 <tr>
     <th>言語名</th> <th>表記</th>
 </tr>
-<tr><td>日本</td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
 <tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
 <tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
 <tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
@@ -60,3 +59,5 @@ jetro_detail: false
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
+{{% /tab %}}
+{{% /tabs %}}

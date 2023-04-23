@@ -51,8 +51,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679762933969!6m8!1m7!1sTZiK569KNLgQoVq-OaTq_Q!2m2!1d17.98157323295765!2d100.0621420808453!3f225.57392523284852!4f-9.089210017500989!5f3.224147385256069" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
+{{% tab "言語" %}}
 {{% notice note %}}
 タイ語が公用語となっている
 {{% /notice %}}
@@ -75,6 +74,9 @@ plonkit: true
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>

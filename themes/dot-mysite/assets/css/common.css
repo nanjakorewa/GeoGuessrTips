@@ -671,3 +671,7 @@ table.word-list tr td span.blurtext-2::before {
 table.word-list tr td span.blurtext-2::after {
   content: "語です";
 }
+
+span.f-enlarge {
+  font-weight: bold;
+}

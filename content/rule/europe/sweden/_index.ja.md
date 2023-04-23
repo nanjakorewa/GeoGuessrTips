@@ -54,7 +54,30 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679498521351!6m8!1m7!1s6dOsS8BdZ_T9v2l8G7Dyyg!2m2!1d66.55155599593365!2d22.32995993839439!3f234.6344569386813!4f-8.265704279966542!5f0.8475810262796575" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "言語" %}}
+
+{{% notice tip %}}
+「ø」の文字はスウェーデンでは使用されない。フィンランド語はウラル語系、スウェーデン・ノルウェー・デンマーク・アイスランドなどはノルド語系の言語。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>言語名</th> <th>表記</th>
+</tr>
+<tr><td><span class="quiz">日本語</span></td><td>ここは一方通行のゾーンです</td></tr>
+<tr><td><span class="quiz">英語</span></td><td>This is a one-way zone.</td></tr>
+<tr><td><span class="quiz">スウェーデン語</span></td><td>Det här är en enkelriktad zon.</td></tr>
+<tr><td><span class="quiz">ノルウェー語</span></td><td>Dette er en enveiskj<span class="f-enlarge">ø</span>ringssone.</td></tr>
+<tr><td><span class="quiz">デンマーク語</span></td><td>Dette er en ensrettet zone.</td></tr>
+<tr><td><span class="quiz">フィンランド語</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
+</table>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>

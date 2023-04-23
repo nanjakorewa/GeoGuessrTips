@@ -51,9 +51,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
-
+{{% tab "言語" %}}
 {{% notice note %}}
 クメール語が公用語となっている
 {{% /notice %}}
@@ -63,7 +61,7 @@ plonkit: true
 <tr>
     <th>言語名</th> <th>表記</th>
 </tr>
-<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
+<tr><td>日本</td><td>日本料理レストラン</td></tr>
 <tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
 <tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
 <tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
@@ -76,6 +74,8 @@ plonkit: true
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
