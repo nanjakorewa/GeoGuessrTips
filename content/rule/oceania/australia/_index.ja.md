@@ -20,6 +20,7 @@ plonkit: true
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ユーカリの木が沢山ある、電柱もユーカリの木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
         <li>オーストラリアのボラードは片方しか塗られていないのでニュージーランドと区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
+        <li>GIVE WAYが<span class="quiz">黒い</span>色で書かれている</li>
     </ul>
 </div>
 
@@ -31,7 +32,6 @@ plonkit: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679372138983!6m8!1m7!1svrdUrpYA0d7urKrX7qG5aw!2m2!1d-31.94187717111961!2d115.7847883593956!3f303.90724474218445!4f10.5337341921975!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679372256766!6m8!1m7!1s0rwDDjT6KvFf3xghBwbRPQ!2m2!1d-31.89526610535338!2d116.0198245833187!3f53.13381424986349!4f4.578646631674644!5f1.7427879092914158" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680144379773!6m8!1m7!1sQrAXG_k-LHGM81s8ddfauw!2m2!1d-28.14631507446814!2d153.4746308070993!3f37.11566763990868!4f3.6636677242403692!5f1.5653628904026031" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

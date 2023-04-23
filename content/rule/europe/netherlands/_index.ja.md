@@ -17,6 +17,9 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>ナンバープレートは<span class="quiz">青色と黄色</span>、前後を見てこの色ならオランダになる</li>
         <li>ドメインは<span class="quiz">.nl</span></li>
+        <li>標高については<span class="quiz">国土の4分の1が海抜0m以下で最高地点も約333m、平らで高い山が無い</span></li>
+        <li>家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に棒や突起物がある時も。</li>
+        <li>自転車を走る道路（Fietspad）が国中に整備されている、茶色っぽい路面か赤レンガで舗装されているケースが多い。</li>
     </ul>
 </div>
 
@@ -36,6 +39,16 @@ jogmec_detail: true
 
 Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=4482331による
 {{% /lb %}}
+
+
+{{% notice tip %}}
+家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に紐をひっかける棒がある。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682217440981!6m8!1m7!1sShrdegp8jM5kGf45qRbN4Q!2m2!1d51.9121151342119!2d4.446415080678936!3f105.34258501375567!4f15.29181978106989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682217832683!6m8!1m7!1sMXt13WzxXVmrgvcBCknubg!2m2!1d51.52462280577394!2d5.968059501168068!3f184.46227696003493!4f1.9262711336245815!5f2.5315311573194337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
