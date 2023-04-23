@@ -16,11 +16,15 @@ jetro_detail: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hu</span></li>
         <li>ダブルアキュートを使う文字が含まれるのはハンガリー語（<span class="quiz">ű・ő</span>）とチュヴァシュ語（ӳ）だが、チュヴァシュ語がロシアのごく一部の領域{{% by "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88" "wiki" "ダブルアキュート" %}}</li>
+        <li><span class="quiz">Utca</span>はハンガリー語でstreetの意味、看板によくある{{% by %}}</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+{{% notice tip %}}
+<span class="quiz">Utca</span>は「St.」「Street」ぐらいの意味で通り名の看板に含まれていることがある
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682250589340!6m8!1m7!1sXwA2tgiKIkUVKs3oofTR2w!2m2!1d47.11560201731825!2d18.8608448437887!3f266.86146272675205!4f-10.388332102668286!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
