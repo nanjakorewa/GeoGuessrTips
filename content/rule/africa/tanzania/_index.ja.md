@@ -16,10 +16,10 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tz</span></li>
-        <li>ザンジバルの場合はZanzibarとカメラの下に書いてある、アフリカ本土のタンガニーカから自治権を確保しているザンジバル革命政府が自治をする地域。水色・黒・緑の旗はこの地域限定の旗。</li>
+        <li>アフリカ本土のタンガニーカから自治権を確保しているザンジバル革命政府が自治をする地域であるザンジバルの場合はZanzibarとカメラの下に書いてある。水色・黒・緑の旗はこの地域限定の旗。</li>
         <li>ナンバープレートは<span class="quiz">赤色</span></li>
         <li class="no-evidence">なぜか日本車がとても多い</li>
-        <li class="no-evidence">バナナ・ココナッツ・パイナップルが育てられている。バナナは24種類あるとか{{% by "https://lonewolf17.com/spice-farm-in-zanzibar-is-fun" "web" "ザンジバル島の「スパイス農園」が、楽しくて、勉強になった！" %}}。</li>
+        <li class="no-evidence">バナナ・ココナッツ・パイナップルが育てられている。{{% by "https://lonewolf17.com/spice-farm-in-zanzibar-is-fun" "web" "ザンジバル島の「スパイス農園」が、楽しくて、勉強になった！" %}}。</li>
     </ul>
 </div>
 
