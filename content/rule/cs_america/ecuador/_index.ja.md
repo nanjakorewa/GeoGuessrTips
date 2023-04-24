@@ -15,7 +15,6 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ec</span></li>
-        <li class="no-evidence">タクシーの前後に赤白のテープが貼ってある率が高い</li>
     </ul>
 </div>
 
