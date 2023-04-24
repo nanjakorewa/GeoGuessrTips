@@ -33,7 +33,7 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-道路沿いに同じ種類の木がまっすぐに植えられている。ウルグアイは山がほぼ無いため風を遮るものが無く、防風林もしくは家畜避難林だと思われる（が明確なソース無し、<a href="http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm">参考文献</a> "<i>牧場では時々来襲する暴風雨から家畜を守るため、放牧地内の所々に家畜避難林や防風林を設定している</i>"）。国土の8割が草原で牛肉の生産に適した環境で、道端に普通に牛がいることもある。
+同じ種類の木がまっすぐに植えられていることがある。もっと大量に植えられた植林地も存在する。ウルグアイは山がほぼ無いため風を遮るものが無く、防風林もしくは家畜避難林だと思われる（が明確なソース無し、<a href="http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm">参考文献</a> "<i>牧場では時々来襲する暴風雨から家畜を守るため、放牧地内の所々に家畜避難林や防風林を設定している</i>"）。そして国土の8割が草原で牛肉の生産に適した環境で、道端に普通に牛がいることもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682333738556!6m8!1m7!1sb0KX-faerKx9c39KTrhVJw!2m2!1d-34.78055765762635!2d-56.24339614965749!3f314.64688175975186!4f8.044034030484823!5f1.4637254092563214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
