@@ -17,6 +17,7 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.uy</span></li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
+        <li>国全域がパンパ（草原地帯）におおわれていて、牛や羊の牧畜が行われている</li>
     </ul>
 </div>
 
@@ -38,6 +39,13 @@ plonkit: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682333738556!6m8!1m7!1sb0KX-faerKx9c39KTrhVJw!2m2!1d-34.78055765762635!2d-56.24339614965749!3f314.64688175975186!4f8.044034030484823!5f1.4637254092563214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682333987485!6m8!1m7!1sLE1D78gSP2-izYXMJdl9hQ!2m2!1d-34.72451194135202!2d-56.25613022568651!3f261.42658543428433!4f-1.9360971244843483!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+🐑...！
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682340986154!6m8!1m7!1si3SsW3QFf0nE5j_4K_fCMQ!2m2!1d-32.39305726837082!2d-55.29410752891511!3f235.91098298390824!4f-11.82168877494233!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
