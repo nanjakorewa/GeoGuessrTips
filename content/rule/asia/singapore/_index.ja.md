@@ -44,7 +44,7 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-ゴミ箱に分別ルールが書かれた大き目のシールが張ってある。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">参考</a>）。
+リサイクル可能なものを収集するゴミ箱に分別ルールが書かれた大き目のシールが張ってあることが多い。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">参考</a>）。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680335960552!6m8!1m7!1s93pxEKwJdbwtfGLLGQsGNg!2m2!1d1.375154243025075!2d103.8320611068703!3f326.4073009331137!4f-11.355978997334716!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
