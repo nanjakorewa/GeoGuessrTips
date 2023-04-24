@@ -54,9 +54,8 @@ plonkit: true
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681069536536!6m8!1m7!1s1OLR5ZqZVol4jHLrP2jkEA!2m2!1d1.345581090275804!2d103.7574597762432!3f176.3366817228929!4f29.828074511044406!5f2.91313586590089" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682378342550!6m8!1m7!1s1OLR5ZqZVol4jHLrP2jkEA!2m2!1d1.345581090275804!2d103.7574597762432!3f191.58225165366395!4f7.9921025053017445!5f2.2801984819872576" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679852616021!6m8!1m7!1sSAQ-IdU26DpyT3x8uPbghA!2m2!1d1.329655164651806!2d103.8183630017216!3f90.06643982622379!4f4.839235395122827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679852587557!6m8!1m7!1sW-8wECxIymQyM8fkSxnfaw!2m2!1d1.330416097591386!2d103.81870545294!3f270.7969206612905!4f-12.187423936306587!5f1.5277309468610167" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
