@@ -16,6 +16,7 @@ plonkit: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.uy</span></li>
+        <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
     </ul>
 </div>
 
