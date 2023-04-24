@@ -18,7 +18,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.sg</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>タクシーが<span class="quiz">青い</span>ものが多い</li>
-        <li>信号を支えるポールに穴が空いているものが多い</li>
+        <li>信号を支えるポールに<span class="quiz">穴が空いている</span>ものが多い</li>
         <li>公用語は英語・中国語・マレー語・タミル語で、看板などに4言語で表記されている</li>
         <li>標識の背景が<span class="quiz">四角い白地</span>で固定されている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}</li>
         <li class="no-evidence">ゴミ箱に分別のルールとかが書かれた大き目のシールが張ってあることが多い</li>
@@ -44,10 +44,11 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-ゴミ箱に分別ルールが書かれた大き目のシールが張ってある。
+ゴミ箱に分別ルールが書かれた大き目のシールが張ってある。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">参考</a>）。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680335960552!6m8!1m7!1s93pxEKwJdbwtfGLLGQsGNg!2m2!1d1.375154243025075!2d103.8320611068703!3f326.4073009331137!4f-11.355978997334716!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682378008819!6m8!1m7!1saepqeqIAvOiqD98oyhetww!2m2!1d1.352440642214918!2d103.7548165554232!3f342.29271663057074!4f-21.906047716257973!5f2.9847061137845445" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

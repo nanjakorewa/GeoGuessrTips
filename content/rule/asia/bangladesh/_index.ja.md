@@ -17,15 +17,24 @@ plonkit: true
     <ul class="rule-list">
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li ><span class="quiz">黒と白の縞模様</span>のポールの標識がある、すぐ近くのブータンも同じ。</li>
+        <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
+        <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
         <li>Dhaka bankのロゴがあるかも</li>
-        <li class="no-evidence"><span class="quiz">赤と白の縞模様</span>のボラード、色と形は違うものも存在する。橋の近くに並んでいることが多い。</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+<span class="quiz">赤と白の縞</span>模様のボラード。橋の近くの道の両サイドにたくさん並んでいることが多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680636634650!6m8!1m7!1sYI0Xa1atrX-Qn1k_ad0AkA!2m2!1d24.64427101999302!2d88.66719083664103!3f193.3258756997445!4f-28.379864056242432!5f2.9252105427836863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% notice tip %}}
 バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある
 {{% /notice %}}
@@ -45,15 +54,7 @@ plonkit: true
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679241627095!6m8!1m7!1saDcTlcKuOv21ubkmL0NnMg!2m2!1d22.71492992896028!2d90.34891965075741!3f17.19168378845718!4f1.238304763492053!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679316122843!6m8!1m7!1s7NODelcZmQOliue6MbeJQw!2m2!1d25.74960717028631!2d89.2547321689566!3f90.48386412384289!4f7.888966373625806!5f3.3087074411670025" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679328504033!6m8!1m7!1s_4Y3m4MCnU6KY_OMabiO_A!2m2!1d23.81222953660417!2d90.42360787687048!3f191.7334373512334!4f5.35054719526714!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680636634650!6m8!1m7!1sYI0Xa1atrX-Qn1k_ad0AkA!2m2!1d24.64427101999302!2d88.66719083664103!3f193.3258756997445!4f-28.379864056242432!5f2.9252105427836863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-plant" %}}
