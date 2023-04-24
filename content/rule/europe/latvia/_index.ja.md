@@ -38,7 +38,7 @@ jetro_detail: false
 </div>
 
 {{% notice tip %}}
-反射板は黄色っぽい時もある、文字が書いてあることもある。
+ボラードは文字が書いてあることもある。上から見ると『）』の形をしている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682138867702!6m8!1m7!1sCjySEHAQVtlm7kQF0NZMXA!2m2!1d57.40380031783754!2d21.67398424510445!3f196.28940141338003!4f-28.927596834406074!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

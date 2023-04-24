@@ -24,7 +24,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行、白色のものも一定数ある。
+ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行、白色のものも一定数ある。またラオス<span class="quiz">右側</span>は通行、タイは<span class="quiz">左側</span>通行な点も違う。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682157009914!6m8!1m7!1seOsSrFv4JQ8AcuvxT5GV4w!2m2!1d18.03822241451435!2d102.598858419547!3f95.53813001439185!4f-19.241897013652135!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
