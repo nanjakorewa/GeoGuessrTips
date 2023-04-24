@@ -36,6 +36,7 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682069218303!6m8!1m7!1sQl7T-nHT7JU7Vrts7zdaFw!2m2!1d41.5174127705636!2d22.12037796058155!3f87.49892042404866!4f-4.326793061584908!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682069352559!6m8!1m7!1sZaJB4S1p5v9aNp6sbyugOw!2m2!1d41.78773844552082!2d22.69066501992727!3f285.4592240749697!4f-7.9942506738721875!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682069425558!6m8!1m7!1sxch9QuPRs9txBMIn309rsQ!2m2!1d41.61231140476448!2d21.91018557755583!3f342.05741096180657!4f-3.6873717910586095!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682316780613!6m8!1m7!1sLlk7prApU7NQXH_7HtrJ1g!2m2!1d42.12134111454024!2d21.66716115375619!3f243.96693159786676!4f24.72639583543966!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}

@@ -66,9 +66,58 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
+        <li>植生が地域ごとに異なる
+            <ul>
+                <li>①南アフリカ共和国の国立公園</li>
+                <li>②サバンナ</li>
+                <li>③Grassland Biome、草がメイン（<a href="http://pza.sanbi.org/vegetation/grassland-biome">SANBI</a>）</li>
+                <li>④Nama Karoo、干ばつが頻繁に発生する低木が生えるエリア</li>
+                <li>⑤Succulent Karoo、多肉植物が多い（<a href="https://pza.sanbi.org/vegetation/succulent-karoo-biome">SANBI</a>）</li>
+                <li>⑥Fynbos、地中海性気候がメインで植生の多くが細い針状の葉を持っている（<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9">Wikipedia『フィンボス』</a>）</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
+{{% tabs %}}
+{{% tab "植生の分布" %}}
+{{% notice tip %}}
+図は自分が雰囲気で着色しただけなので参考程度にお願いします
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="2023-04-24-17-09-12.png" width="500px"/>
+</div>
+{{% /tab %}}
+{{% tab "植物の様子" %}}
+{{% notice tip %}}
+サバンナは北のエリアと海沿いのエリアに存在している
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682324776916!6m8!1m7!1sZOmFN4soZaHUaG9CGKN5_g!2m2!1d-22.62638273245806!2d29.92255684576945!3f7.59092070189236!4f3.5608005488869026!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682324871185!6m8!1m7!1smu_TmRjBfhaPbaksGiEvlg!2m2!1d-33.55789802046195!2d26.55261180328686!3f314.7805053861716!4f0.6774984441135388!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+Grassland Biomeはレソトを取り囲むように分布している
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682324817823!6m8!1m7!1sOFutfihcx9q97V_g33Ipkw!2m2!1d-28.25412312561203!2d29.11684874474553!3f87.63779775519792!4f1.1273752333093796!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682324849001!6m8!1m7!1sRVxuo_RaNJrtu16jhh29lg!2m2!1d-30.44671003955965!2d28.6304976449013!3f128.006031910333!4f5.093105066904158!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+Nama Karooは厳しい環境で場所によっては草も生えていない
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682324991744!6m8!1m7!1sif9NHw31bUnJlPUCKzycjA!2m2!1d-29.85956215669374!2d20.73597370752784!3f115.76188729259206!4f4.829442606227545!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682325086107!6m8!1m7!1sQdpNKOtc8WiQ2kpj0hSEUQ!2m2!1d-28.8076136017554!2d20.44497834268564!3f120.99758362124906!4f-1.4992175063994466!5f0.8742806863926469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "電話番号" %}}
 <div class="googlemap-if">
 {{% twitter "1640831519643127808" %}}
 </div>
+{{% /tab %}}
+{{% /tabs %}}
