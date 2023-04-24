@@ -28,6 +28,15 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+リサイクル可能なものを収集する青いゴミ箱に分別ルールが書かれた大き目のシールが張ってあることが多い。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">参考</a>）。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680335960552!6m8!1m7!1s93pxEKwJdbwtfGLLGQsGNg!2m2!1d1.375154243025075!2d103.8320611068703!3f326.4073009331137!4f-11.355978997334716!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682378008819!6m8!1m7!1saepqeqIAvOiqD98oyhetww!2m2!1d1.352440642214918!2d103.7548165554232!3f342.29271663057074!4f-21.906047716257973!5f2.9847061137845445" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% notice tip %}}
 信号を支えるポールに穴が空いている。
 {{% /notice %}}
@@ -41,14 +50,6 @@ plonkit: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681580794904!6m8!1m7!1sjSfgVdvPpdFEe0B_LvOjTg!2m2!1d1.352173235165941!2d103.7896267240432!3f271.6715709459954!4f-2.726407484458477!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681580839049!6m8!1m7!1sn6-5o6HTdK7tsOnZRRDmQQ!2m2!1d1.377123256435142!2d103.7515981728854!3f22.941848704645526!4f-0.18501936575790978!5f3.3203146277309257" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-リサイクル可能なものを収集するゴミ箱に分別ルールが書かれた大き目のシールが張ってあることが多い。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">参考</a>）。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680335960552!6m8!1m7!1s93pxEKwJdbwtfGLLGQsGNg!2m2!1d1.375154243025075!2d103.8320611068703!3f326.4073009331137!4f-11.355978997334716!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682378008819!6m8!1m7!1saepqeqIAvOiqD98oyhetww!2m2!1d1.352440642214918!2d103.7548165554232!3f342.29271663057074!4f-21.906047716257973!5f2.9847061137845445" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
