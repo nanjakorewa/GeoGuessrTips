@@ -82,7 +82,8 @@ Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の�
     <ul class="rule-list">
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
         <li>速度制限の看板が地域ごとに微妙に異なる。<span class="quiz">フランス語</span>があればケベック、<span class="quiz">黒い背景のkm表記</span>はオンタリオになる。</li>
-        <li class="no-evidence">細くて上に赤い反射板があるボラードはケベック。</li>
+        <li class="no-evidence">細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span>。</li>
+        <li class="no-evidence">左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>、右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの。</li>
     </ul>
 </div>
 
