@@ -44,6 +44,16 @@ plonkit: true
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
+
+{{% notice tip %}}
+北欧であって、速度表記などの背景が白<ならばノルウェーの可能性が高い。オレンジならばスウェーデン・デンマークを検討する。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429528654!6m8!1m7!1sAD3O_TXCyomnqmq7MhnUzQ!2m2!1d60.53187083491797!2d8.198925764370152!3f282.7220076725373!4f3.0788949818889506!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429562575!6m8!1m7!1sCRv89byUwsp3NkEhfyKzlg!2m2!1d59.88946789775908!2d17.67337712443994!3f208.02672178727502!4f-1.1424622837273972!5f3.305055387590511" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429601439!6m8!1m7!1sxZTEAilDXDKggcX87lxyZA!2m2!1d60.57123524898973!2d24.82397245532861!3f61.200242696597066!4f3.1140795134728023!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679326072110!6m8!1m7!1sb5UvJDEylelh20cYts6y7A!2m2!1d55.60786361942763!2d13.00961879039393!3f232.12827964155636!4f1.3543285196388268!5f2.549650980081894" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681074938332!6m8!1m7!1sEEev1NenouNljoyMkT5XEA!2m2!1d62.87693912536331!2d17.85502265977901!3f119.40501384692917!4f-9.916002951467576!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -18,6 +18,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.gb</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span></li>
+        <li>レンガ造りの家が多いならイギリスだが、白っぽい壁が多い場合はアイルランドを検討する</li>
     </ul>
 </div>
 
@@ -36,6 +37,15 @@ plonkit: true
 
 By ZElsb - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107443706
 {{% /lb %}}
+
+{{% tab "w-etf" %}}
+{{% notice tip %}}
+レンガ造りが多いならばイギリスを、白っぽい建物が多いならばアイルランドを検討する（以下の左がイギリス、右がアイルランド）。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429298949!6m8!1m7!1sCfG07BPDdW1kglYmnkoQRA!2m2!1d52.90580107085533!2d-2.485725222078184!3f138.39531165156137!4f7.275689425114649!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429279902!6m8!1m7!1sZ5KG3l87yksk2MTXZd8B9w!2m2!1d52.91395509685891!2d-7.348688994175294!3f15.873384560607029!4f3.497742828224986!5f1.7418997394705245" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% tab "w-viecle" %}}

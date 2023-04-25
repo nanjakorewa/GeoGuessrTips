@@ -19,7 +19,8 @@ jogmec_detail: false
         <li>ドメインは<span class="quiz">.no</span></li>
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
-        <li>道路名の標識に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li>北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から、ノルウェー・スウェーデン・デンマーク。</li>
+        <li>看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li><a href="https://en.wikipedia.org/wiki/Posten_Norge">Posten Norge</a>はノルウェー運輸通信省が所有する郵便会社、<span class="quiz">Posten</span>と書かれた赤いポストがスーパーの壁とかにあるかも。</li>
 </div>
 
@@ -38,28 +39,34 @@ jogmec_detail: false
 ![](2023-04-16-09-11-59.png)
 
 Noorwegen kenteken groen nieuw, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/wiki/File:Norway_licenseplate_green_new.JPG#/media/File:Norway_licenseplate_green_new.JPG">wikipedia commons</a>
-
-![](2023-04-16-09-11-15.png)
-
-By Walser123 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=90954775
 {{% /lb %}}
 
+
 {{% notice tip %}}
-道路名の標識に<span class="quiz">オレンジ</span>の背景が多い
+北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から、ノルウェー・スウェーデン・デンマーク。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429528654!6m8!1m7!1sAD3O_TXCyomnqmq7MhnUzQ!2m2!1d60.53187083491797!2d8.198925764370152!3f282.7220076725373!4f3.0788949818889506!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429562575!6m8!1m7!1sCRv89byUwsp3NkEhfyKzlg!2m2!1d59.88946789775908!2d17.67337712443994!3f208.02672178727502!4f-1.1424622837273972!5f3.305055387590511" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682429601439!6m8!1m7!1sxZTEAilDXDKggcX87lxyZA!2m2!1d60.57123524898973!2d24.82397245532861!3f61.200242696597066!4f3.1140795134728023!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+道路名の看板に<span class="quiz">オレンジ</span>の背景が多い
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681501551090!6m8!1m7!1sQMXHhNCCIrFoUa70gCIukw!2m2!1d61.91201314110614!2d5.986817049843358!3f305.9648425558945!4f-0.030381807345932543!5f3.278136263369802" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604690032!6m8!1m7!1snz4gKFQvCaRqbRezA2YfEg!2m2!1d58.44621906235802!2d8.741068899004842!3f265.26530061280164!4f-2.732571012207103!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604380534!6m8!1m7!1sSlhuKtPUwiPC4ETwfTWwKg!2m2!1d58.43481633781423!2d8.743017858887802!3f138.71623112058222!4f-0.9755656275686562!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520602553!6m8!1m7!1sg9GAkBQjUr27MsQuYYtHFg!2m2!1d58.15387328848371!2d8.08026394501885!3f343.9532758156611!4f-4.209087719251556!5f3.3052706623276027" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681520384556!6m8!1m7!1svp5PWVgFQt8JaXIRzh87cQ!2m2!1d60.14681602455514!2d12.31416882299695!3f68.56023321540164!4f1.3126837180885929!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347534133!6m8!1m7!1swn_mor6TbJxcF3P8sSNLbg!2m2!1d66.3044505371745!2d14.13711222707041!3f324.89227912253875!4f-16.134774204390254!5f2.8309959544919363" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681604610224!6m8!1m7!1skj76m3KRUAj1eoD6vLHtyQ!2m2!1d58.44212734433167!2d8.742230528086207!3f68.52427692871312!4f1.162632679900426!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
