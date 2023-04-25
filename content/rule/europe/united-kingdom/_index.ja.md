@@ -38,7 +38,6 @@ plonkit: true
 By ZElsb - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107443706
 {{% /lb %}}
 
-{{% tab "w-etf" %}}
 {{% notice tip %}}
 レンガ造りが多いならばイギリスを、白っぽい建物が多いならばアイルランドを検討する（以下の左がイギリス、右がアイルランド）。
 {{% /notice %}}
