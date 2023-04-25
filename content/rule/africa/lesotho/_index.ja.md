@@ -24,7 +24,7 @@ jetro_detail: false
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">ドラケンスバーグ山脈の中に国が存在し、ごつごつした隆起や上が平らな山が多い</span>。北西は乾燥しているが、それでも草は生えていて羊や牛などの牧畜がたまに見える。
+<span class="quiz">ドラケンスバーグ山脈の中に国が存在し、ごつごつした隆起や上が平らな山が多い</span>。北西は乾燥しているが、それでも草は生えていて羊や牛などの牧畜がたまに見える。エスワティニも標高が高い場所があるが、エスワティニは標高が高い箇所は林業が盛んで木が多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682390837371!6m8!1m7!1s1W89EC1PLtlTObFXq7zE2g!2m2!1d-29.42822490992072!2d27.8858412246169!3f180.80215623144815!4f7.155903004182491!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
