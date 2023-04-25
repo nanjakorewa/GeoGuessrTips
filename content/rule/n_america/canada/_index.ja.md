@@ -147,6 +147,15 @@ By PascalHD - https://www.flickr.com/photos/197171168@N04/52795980745/, CC BY-SA
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ロードコーン" %}}
+{{% notice tip %}}
+左の黒とオレンジのコーンはモントリオール、右の白とオレンジのコーンはケベックのもの。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682432065632!6m8!1m7!1s_tnrWo6hZCZxIDQ8K4Mf0A!2m2!1d49.02144291015642!2d-88.2895963216308!3f268.6020266512863!4f-3.2304603493074353!5f3.2229282956142877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682432492247!6m8!1m7!1sLO_H97dvPqc3aO3fixvorg!2m2!1d45.49181109498912!2d-73.58142739183401!3f134.36495306086366!4f-5.588569419165907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 
