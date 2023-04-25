@@ -17,8 +17,8 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li><span class="quiz">青い</span>ポスト</li>
-        <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>
         <li>家の前にゴミ箱が並んでいることが多い。WM＝アメリカのゴミ収集の大手、Waste Managementのロゴがあることも。</li>
+        <li>逆▽の看板（「道を譲れ（他の車が優先）」）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
     </ul>
 </div>
 

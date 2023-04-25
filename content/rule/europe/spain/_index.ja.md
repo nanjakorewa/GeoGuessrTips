@@ -17,7 +17,7 @@ plonkit: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
-        <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本</li>
+        <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインとアンドラのみ</li>
         <li>ポストが<span class="quiz">黄色</span>なのは昔はその色の馬車で郵便を運んでいたため{{% by "https://adelante.jp/noticias/blog/el-buzon-amarillo/" "web" "スペインの黄色いポストの秘密" %}}</li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
         <li>道路の線に黄色やオレンジが使用されていない</li>

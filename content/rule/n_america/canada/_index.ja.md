@@ -17,8 +17,8 @@ plonkit: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>速度制限の表記は<span class="quiz">MAXIMUM</span></li>
-        <li>ナンバープレートが前後に付いているかどうかで地域を絞り込める</li>
         <li>ドメインは<span class="quiz">.ca</span></li>
+        <li>逆▽の看板（「道を譲れ（他の車が優先）」）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
     </ul>
 </div>
 
