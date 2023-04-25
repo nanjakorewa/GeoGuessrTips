@@ -19,8 +19,8 @@ plonkit: true
         <li>ドメインは<span class="quiz">.au</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li><span class="quiz">ユーカリ</span>の木が沢山ある、電柱も<span class="quiz">ユーカリ</span>の木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
+        <li>GIVE WAY（「道を譲れ（他の車が優先）」）が黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
         <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
-        <li>GIVE WAYが<span class="quiz">黒い</span>色で書かれている{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
 </div>
 
@@ -64,7 +64,7 @@ plonkit: true
             </ul>
         <li>クリスマス島が出題されることがある
             <ul>
-                <li>Google Carが特徴的で黄色ナンバーが多い</li>
+                <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
                 <li>クリスマスアカガニが数千万個体いるらしく（<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B">出典</a>）カニに対する注意喚起がある。道の上に橋が掛けられていたりして、カニが道をわたることができるような工夫もある。落ち葉も食べる。カニの予感がしたらこの島かも？</li>
             </ul>
         </li>
