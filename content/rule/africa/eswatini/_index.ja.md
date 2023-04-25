@@ -16,7 +16,11 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sz（もともとの国名はスワジランドのため）</span></li>
+        <li>道路番号には<span class="quiz">MR</span>が付いている</li>
         <li>西側が高地（標高1500m）で東側が低地（標高200m）と国全体が斜めになっている。標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる</li>
+        <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
+        <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
+        <li class="no-evidence">西側が高地で東側が低地と国全体が斜めになっている性質状、標高が低いローベルトの道路にいる時は南北方向は遠くまで景色が見えることが多い</li>
     </ul>
 </div>
 
@@ -24,10 +28,22 @@ jetro_detail: false
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
+標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる。ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある。
 {{% /notice %}}
 <div class="googlemap-if">
-？
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682436625448!6m8!1m7!1saJY6MDzb1xARd9CzJv9kxw!2m2!1d-26.76722330154598!2d31.92291092356511!3f53.1599899823355!4f-4.437015220855059!5f2.872764259751242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682438551149!6m8!1m7!1sDF3hfswFXEYScwkJ7fGCcg!2m2!1d-26.8343591585108!2d31.9723227159364!3f255.36907997395818!4f-11.809296463198066!5f1.455857875479618" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する。森林が無くても、森林が伐採された跡があったり遠くに見えたりするかも。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682437918561!6m8!1m7!1su4hFvVYT2FiC5uoEuBVJpg!2m2!1d-26.99985045048718!2d31.24975573404177!3f195.39575852855015!4f4.358548636269049!5f1.5956652534074234" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682437875329!6m8!1m7!1sd8eq9WtszCHu406Awkv2yg!2m2!1d-26.59319998991595!2d30.93987315666483!3f291.904046917961!4f-8.515279937503635!5f3.3241210508286905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
