@@ -60,4 +60,12 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682393167861!6m8!1m7!1sKcUjle2YakromH-2-7BbKQ!2m2!1d-30.89713377546066!2d-56.82236620668786!3f138.70362867210025!4f3.150533778603318!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "地形図" %}}
+{{% notice tip %}}
+ほとんどの領域が標高0～300mの間であり、最高でも513m（パブリックドメインの画像より）。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="2023-04-25-12-33-07.png" />
+</div>
+{{% /tab %}}
 {{% /tabs %}}
