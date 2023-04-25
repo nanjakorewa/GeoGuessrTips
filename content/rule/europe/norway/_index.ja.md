@@ -20,7 +20,7 @@ jogmec_detail: false
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
         <li>北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から、ノルウェー・スウェーデン・デンマーク。</li>
-        <li>看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li><a href="https://en.wikipedia.org/wiki/Posten_Norge">Posten Norge</a>はノルウェー運輸通信省が所有する郵便会社、<span class="quiz">Posten</span>と書かれた赤いポストがスーパーの壁とかにあるかも。</li>
 </div>
 
