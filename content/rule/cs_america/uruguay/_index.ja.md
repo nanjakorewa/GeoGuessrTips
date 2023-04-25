@@ -18,13 +18,14 @@ plonkit: true
         <li>ドメインは<span class="quiz">.uy</span></li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
         <li>国全域がパンパ（草原地帯）におおわれていて、牛や羊の牧畜が行われている</li>
+        <li class="no-evidence">防風林や植林地が散見され同一の種類の木がきれいに植えられていることがある</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-白く塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも白が基調なものが多い、黄色いボラードもあるが側面は白色になっている。
+<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調なものが多い、黄色いボラードもあるが側面は<span class="quiz">白色</span>になっている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682333023613!6m8!1m7!1shSKA102rEVKXuR-vek588A!2m2!1d-33.73973896244041!2d-54.75239398619735!3f182.8487739547804!4f-10.972025016473566!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
