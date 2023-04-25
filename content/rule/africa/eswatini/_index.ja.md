@@ -17,7 +17,7 @@ jetro_detail: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sz（もともとの国名はスワジランドのため）</span></li>
         <li>道路番号には<span class="quiz">MR</span>が付いている</li>
-        <li>電柱・車・人の服装などからオセアニア・南米で無いことを判断する</li>
+        <li>電柱・車・人の服装などからオセアニア・南米で無いことを判断する。ウルグアイも南半球かつ植林が見えることがあるが、ウルグアイは平坦で山がない。</li>
         <li>西側が高地（標高1500m）で東側が低地（標高200m）と国全体が斜めになっている。標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる</li>
         <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
         <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
@@ -48,8 +48,8 @@ jetro_detail: false
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681999644204!6m8!1m7!1sXzqESIg-G3mu9w1-tFY6QQ!2m2!1d-26.71220767795005!2d31.77703608213778!3f34.8394459649339!4f-6.632814100491075!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681999920956!6m8!1m7!1sGAK055_Ioz1-9askzh09Wg!2m2!1d-26.41212092420997!2d31.74838299925051!3f212.79022166637796!4f-11.383262785014082!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682440999935!6m8!1m7!1sGDfHJc0nnrpu67foDQEc1w!2m2!1d-26.84219957385132!2d30.96552003993061!3f280.6662487879977!4f6.783219719504544!5f1.8437648934603765" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682441037874!6m8!1m7!1sLs1icJ_xng-n2EKJZJFYlA!2m2!1d-26.3408159636958!2d31.97036337419647!3f111.3919554764976!4f5.79163102974762!5f1.787292836444836" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "標高" %}}
