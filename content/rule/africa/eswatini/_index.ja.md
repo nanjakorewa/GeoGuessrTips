@@ -17,6 +17,7 @@ jetro_detail: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sz（もともとの国名はスワジランドのため）</span></li>
         <li>道路番号には<span class="quiz">MR</span>が付いている</li>
+        <li>電柱・車・人の服装などからオセアニア・南米で無いことを判断する</li>
         <li>西側が高地（標高1500m）で東側が低地（標高200m）と国全体が斜めになっている。標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる</li>
         <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
         <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
