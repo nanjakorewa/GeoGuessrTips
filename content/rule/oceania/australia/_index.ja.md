@@ -18,7 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.au</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>ユーカリの木が沢山ある、電柱もユーカリの木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
+        <li><span class="quiz">ユーカリ</span>の木が沢山ある、電柱も<span class="quiz">ユーカリ</span>の木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
         <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
         <li>GIVE WAYが<span class="quiz">黒い</span>色で書かれている{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
@@ -27,7 +27,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ユーカリの木が沢山ある、電柱もユーカリの木から作られているものがあり緑色のものがよくある。
+<span class="quiz">ユーカリ</span>の木が沢山ある、電柱も<span class="quiz">ユーカリ</span>の木から作られているものがあり緑色のものがよくある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679372138983!6m8!1m7!1svrdUrpYA0d7urKrX7qG5aw!2m2!1d-31.94187717111961!2d115.7847883593956!3f303.90724474218445!4f10.5337341921975!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -53,7 +53,7 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>ナンバーの色で地域が分かるかもしれないが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li>ナンバープレートの色で地域が分かるかもしれないが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li>電話番号のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
@@ -74,7 +74,7 @@ plonkit: true
 
 
 {{% tabs  %}}
-{{% tab "w-viecle" %}}
+{{% tab "ナンバープレート" %}}
 
 {{% notice tip %}}
 微妙に赤みがある車が多いときは北東か北のエリア（クイーンズランド）かも？
