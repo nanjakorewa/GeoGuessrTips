@@ -61,11 +61,6 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 ![](2023-04-18-23-40-43.png)
 
 By Olympiobr - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=20547078
-
-![](2023-04-18-23-45-06.png)
-
-By Fasouzafreitas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=123112729
-
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -108,8 +103,8 @@ By Fasouzafreitas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/inde
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>BR-XXXはブラジル国道</li>
-        <li>BAでないものは州の名前かも。州名はマップをズームアウトすると確認できる。</li>
+        <li>電話番号のエリアコードで範囲を絞ることができる</li>
+        <li>BR-XXXはブラジル国道。BAでないものは州の名前かも。州名はマップをズームアウトすると確認できる。</li>
         <li class="no-evidence">電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
             <ul>
                 <li>ブラジル電力(Eletrobras)→ブラジル全域どころかアフリカにまで進出している</li>
@@ -122,6 +117,17 @@ By Fasouzafreitas - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/inde
 
 
 {{% tabs  %}}
+{{% tab "電話番号" %}}
+
+{{% notice tip %}}
+1がサンパウロ、2がリオデジャネイロ。（画像出典：By Magno Brasil - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=61641585）
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<img src="2023-04-26-01-07-35.png" />
+</div>
+{{% /tab %}}
 {{% tab "ブラジル国道" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
