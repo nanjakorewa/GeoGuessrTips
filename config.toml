@@ -91,21 +91,56 @@ weight = 1
 # dropdown menu
 [[Languages.ja.menu.main]]
 weight = 4
-name = "メニュー"
+name = "国と地域の判定"
 hasChildren = true
 
   [[Languages.ja.menu.main]]
-  parent = "メニュー"
+  parent = "国と地域の判定"
   name = "国の判定"
   url = "rule"
   weight = 1
 
   [[Languages.ja.menu.main]]
-  parent = "メニュー"
-  name = "言語"
-  url = "text"
+  parent = "国と地域の判定"
+  name = "アジア"
+  url = "rule/asia/"
   weight = 2
 
+  [[Languages.ja.menu.main]]
+  parent = "国と地域の判定"
+  name = "アフリカ"
+  url = "rule/africa/"
+  weight = 3
+
+  [[Languages.ja.menu.main]]
+  parent = "国と地域の判定"
+  name = "オセアニア"
+  url = "rule/oceania/"
+  weight = 4
+
+  [[Languages.ja.menu.main]]
+  parent = "国と地域の判定"
+  name = "ヨーロッパ"
+  url = "rule/europe/"
+  weight = 5
+
+  [[Languages.ja.menu.main]]
+  parent = "国と地域の判定"
+  name = "中東"
+  url = "rule/middle_east/"
+  weight = 6
+
+  [[Languages.ja.menu.main]]
+  parent = "国と地域の判定"
+  name = "中南米"
+  url = "rule/cs_america/"
+  weight = 7
+
+  [[Languages.ja.menu.main]]
+  parent = "国と地域の判定"
+  name = "北米"
+  url = "rule/n_america/"
+  weight = 8
 
 
 ################################ English Language ######################

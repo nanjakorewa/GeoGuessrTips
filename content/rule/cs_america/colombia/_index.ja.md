@@ -17,7 +17,7 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>路側帯は<span class="quiz">白</span>で、中央線は<span class="quiz">黄色</span></li>
         <li>標識の棒は<span class="quiz">細く白い素材</span>で、看板の背面には<span class="quiz">白色か灰色のクロス</span>が存在する{{% by %}}</li>
-        <li>ナンバープレートは南米で唯一の<span class="quiz">前後共に黄色</span></li>
+        <li>ナンバープレートは<span class="quiz">前後共に黄色</span></li>
         <li>ドメインは<span class="quiz">.co</span></li>
         <li class="no-evidence">コロンビアのGoogleCarは<span class="quiz">赤く、黒い太目のアンテナ</span>がついている</li>
     </ul>
@@ -32,6 +32,14 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138005508!6m8!1m7!1sIS7P4fzaicRfinbA0j5TRw!2m2!1d3.396441393668646!2d-76.52339001433994!3f136.71002847658113!4f-4.691034225921541!5f2.908818923327662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679137921739!6m8!1m7!1sTVla3KChW9nZzIzHjNIHlA!2m2!1d2.516340478781876!2d-76.50260350297357!3f38.38964881780703!4f2.329973697644803!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+ナンバープレートは<span class="quiz">前後共に黄色</span>。ペルーにも黄色いものがあるが、コロンビアはすこしオレンジ色に近い。またペルーは他の色（緑・白など）の車も存在する。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682383623508!6m8!1m7!1s29qN_XS1bQGva1Cz1qzQmw!2m2!1d3.397181136965457!2d-76.52331159160653!3f189.20731516405695!4f-5.175574065770988!5f3.165056286722071" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

@@ -15,6 +15,7 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pr</span></li>
+        <li>車のナンバープレートが付いているのは<span class="quiz">後ろだけ</span></li>
         <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>
     </ul>
 </div>

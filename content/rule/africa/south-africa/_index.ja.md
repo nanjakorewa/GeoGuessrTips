@@ -100,10 +100,10 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-Grassland Biomeはレソトを取り囲むように分布している
+Grassland Biomeはレソトを取り囲むように分布している。遠くに上が平らな山（ドラケンスバーグ山脈）が見えるかもしれない。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682324817823!6m8!1m7!1sOFutfihcx9q97V_g33Ipkw!2m2!1d-28.25412312561203!2d29.11684874474553!3f87.63779775519792!4f1.1273752333093796!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682390322048!6m8!1m7!1sCEMHuo-1PnslsmnNs7wpSQ!2m2!1d-28.25428746773927!2d29.11673346402855!3f83.6423064924647!4f-1.9136722496799763!5f1.1566133358301816" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682324849001!6m8!1m7!1sRVxuo_RaNJrtu16jhh29lg!2m2!1d-30.44671003955965!2d28.6304976449013!3f128.006031910333!4f5.093105066904158!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 

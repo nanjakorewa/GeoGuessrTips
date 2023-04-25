@@ -16,17 +16,21 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ls</span></li>
+        <li>地形について、国全体が<span class="quiz">ドラケンスバーグ山脈の中にあり平らな場所が少ない。上が平らな山が多い</span>。木でおおわれた山はおそらく無い。</li>
+        <li>温暖湿潤気候に近く、木がまばらに生えた草原が広がっている。</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-南アフリカの特徴かつ山がちならレソトかも。
+<span class="quiz">ドラケンスバーグ山脈の中に国が存在し、ごつごつした隆起や上が平らな山が多い</span>。北西は乾燥しているが、それでも草は生えていて羊や牛などの牧畜がたまに見える。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681254683309!6m8!1m7!1secoXqGeX9M_FU1icljuXiA!2m2!1d-28.88810715212483!2d28.00361731203152!3f180.42830497162186!4f4.224988132439222!5f1.466569875290776" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682390837371!6m8!1m7!1s1W89EC1PLtlTObFXq7zE2g!2m2!1d-29.42822490992072!2d27.8858412246169!3f180.80215623144815!4f7.155903004182491!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682390713255!6m8!1m7!1sOBzT8IieUADlp3SFLPI0fw!2m2!1d-29.62631625839893!2d27.27334739470709!3f107.07002752967436!4f-16.56492662947666!5f2.5754457711345475" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

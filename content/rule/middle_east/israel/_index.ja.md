@@ -37,7 +37,6 @@ jetro_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681580144448!6m8!1m7!1sMAtaEWsGD74rQk1VrM6eSQ!2m2!1d32.59570958854372!2d34.94919604891632!3f328.89875840248897!4f-16.092416823878523!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681580064224!6m8!1m7!1sS8tRWEHZHgPVwj11oWWxAQ!2m2!1d32.5947257017415!2d34.94869143841581!3f141.61533957771198!4f-13.232745030899054!5f2.8680619965777536" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681580082102!6m8!1m7!1s-JjhFY1JAU74UshaPkrVQg!2m2!1d32.59542962755524!2d34.94903353757822!3f79.2663347234831!4f-11.969766851281264!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "企業" %}}
