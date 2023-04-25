@@ -37,7 +37,7 @@ jetro_detail: false
 
 
 {{% notice tip %}}
-ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する。森林が無くても、森林が伐採された跡があったり遠くに見えたりするかも。
+ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する。森林が無くても、森林が伐採された跡があるかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682437918561!6m8!1m7!1su4hFvVYT2FiC5uoEuBVJpg!2m2!1d-26.99985045048718!2d31.24975573404177!3f195.39575852855015!4f4.358548636269049!5f1.5956652534074234" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
