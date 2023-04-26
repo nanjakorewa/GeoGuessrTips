@@ -61,6 +61,7 @@ TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.p
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485893908!6m8!1m7!1sLMhMnYCsE9WSj6Hdg20lww!2m2!1d44.66366533545654!2d7.427181040851108!3f17.420578906513175!4f-20.476249435785093!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485924542!6m8!1m7!1ss27mXpqJ7MZh1I0e7GrQ-w!2m2!1d44.66380632122473!2d7.427647402490296!3f27.59290653487331!4f-28.999936472781506!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485958478!6m8!1m7!1s_IocCYjic6_W6hsDQpH58A!2m2!1d44.66403017946543!2d7.428443492109739!3f282.61256992869187!4f-22.98695062406398!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682512366090!6m8!1m7!1sWsMmnZSSNzLLtNcU-mOFoQ!2m2!1d38.79698474608492!2d16.29815410007244!3f130.06780539384204!4f-15.740864085791145!5f2.9136532225514973" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-plant" %}}

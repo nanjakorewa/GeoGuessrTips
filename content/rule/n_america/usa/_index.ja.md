@@ -59,6 +59,7 @@ jogmec_detail: true
         <li>3桁の州間高速道路は下2桁が分岐元の州間高速道路の番号</li>
         <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
         <li>特定の地域のみ事業を展開するゴミ収集業者がある</li>
+        <li class="no-evidence">newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
     </ul>
 </div>
 

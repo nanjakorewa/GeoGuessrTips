@@ -26,7 +26,7 @@ plonkit: true
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-？
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682511067405!6m8!1m7!1sgb4VwlSGgJHgQroN2I2Apg!2m2!1d42.99791604547149!2d24.49268838446127!3f52.06292748248172!4f28.74624897010706!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
