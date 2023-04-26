@@ -85,6 +85,10 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% tab "黒色" %}}
+{{% notice tip %}}
+黒土はレグール土とも呼ばれ、綿花の栽培にも向いている。{{% by "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "wiki" "Major soil deposits of India" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682467835049!6m8!1m7!1sAQE1pjOxkCxQGyEeiREzkA!2m2!1d21.83794795470153!2d75.77963971665952!3f156.32961566257794!4f-16.490430386537867!5f1.7890743634877406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682467876025!6m8!1m7!1s3tPGFcFOFS3VxW4LY3-RmQ!2m2!1d22.92992908739189!2d75.85402923206209!3f222.87806813015754!4f-11.71605331265799!5f3.2114390371456225" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -92,7 +96,7 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "alluvial" %}}
 {{% notice tip %}}
-沖積層（alluvial）は、約2万年前の最終氷期最盛期以降に堆積した地層のことを指している。一般的には平坦で湿地が散見され、
+インダス川、ガンジス川によって堆積した沖積層（alluvial）が北部にある。一般的には平坦で湿地が散見され、
 主に固まっていない泥、砂、石から構成される{{% by "https://www.jishin.go.jp/resource/terms/tm_alluvium/" "web" "沖積層" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
