@@ -63,6 +63,7 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
+        <li>土の色が地域ごとに異なる</li>
         <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
         <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが違う場所にもあるので注意</li>
     </ul>
@@ -70,6 +71,63 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
+{{% tab "土の色" %}}
+{{% notice tip %}}
+真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By ncert - http://nroer.in/gstudio/resources/images/show/35270/, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27703297）
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="2023-04-26-09-05-08.png" style="max-width:80%;"/>
+</div>
+
+{{% /tab %}}
+{{% tab "赤色" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682467696860!6m8!1m7!1sOluJZwXC7iXwDtFZiGAuGw!2m2!1d8.84349947702833!2d77.5365639325106!3f225.12623673033116!4f-6.411466212566282!5f3.169518039872058" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682468578442!6m8!1m7!1s9DnaN2OwV_AHzLcAQ85f0w!2m2!1d21.06955355279361!2d84.30525247708368!3f179.4264476922859!4f-19.858869347516674!5f2.9592035569667035" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "黒色" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682467835049!6m8!1m7!1sAQE1pjOxkCxQGyEeiREzkA!2m2!1d21.83794795470153!2d75.77963971665952!3f156.32961566257794!4f-16.490430386537867!5f1.7890743634877406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682467876025!6m8!1m7!1s3tPGFcFOFS3VxW4LY3-RmQ!2m2!1d22.92992908739189!2d75.85402923206209!3f222.87806813015754!4f-11.71605331265799!5f3.2114390371456225" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "alluvial" %}}
+{{% notice tip %}}
+沖積層（alluvial）は、約2万年前の最終氷期最盛期以降に堆積した地層のことを指している。一般的には平坦で湿地が散見され、
+主に固まっていない泥、砂、石から構成される{{% by "https://www.jishin.go.jp/resource/terms/tm_alluvium/" "web" "沖積層" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682468273619!6m8!1m7!1se4CgKszKZKi6alw7JPji7A!2m2!1d29.18795659001541!2d78.19210339952144!3f143.96313802334797!4f-15.105692246985953!5f2.976055030161179" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682468327217!6m8!1m7!1s_xQYI8MT1t4rL3D17_QrNA!2m2!1d26.687065447171!2d83.56086764998268!3f158.54175639985195!4f-11.929120204871097!5f3.2111110012516426" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+{{% tabs  %}}
+{{% tab "言語" %}}
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>言語名</th> <th>表記</th>
+</tr>
+<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+</table>
+</div>
+
+{{% /tab %}}
 {{% tab "グジャラート語" %}}
 {{% notice tip %}}
 アフマダーバード周辺。ちなみに階段井戸もアフマダーバード周辺に多い。
@@ -104,22 +162,3 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
-<div class="googlemap-if">
-<table class="word-list">
-<tr>
-    <th>言語名</th> <th>表記</th>
-</tr>
-<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
-<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
-<tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
-<tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
-<tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
-<tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
-<tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
-<tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
-<tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
-<tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
-<tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
-</table>
-</div>
