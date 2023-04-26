@@ -59,7 +59,6 @@ By Olympiobr - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345555292!6m8!1m7!1sRCX-AjIP6mALMZEXJxOjyw!2m2!1d-23.51248882433141!2d-46.4333177309273!3f119.28300192646884!4f-3.503916504146261!5f3.2981730514139986" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050536046!6m8!1m7!1smRMyoKfd6IY0l0DIEdotBQ!2m2!1d-23.85497722588457!2d-50.19267091975536!3f193.23191091540886!4f-4.371754820035051!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -142,7 +141,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 
 
 <div class="googlemap-if">
-<img src="2023-04-26-01-07-35.png" />
+<img src="2023-04-26-01-07-35.png" style="max-width:80%;"/>
 </div>
 {{% /tab %}}
 {{% tab "ブラジル国道" %}}

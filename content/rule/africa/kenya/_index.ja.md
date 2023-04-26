@@ -39,8 +39,12 @@ plonkit: true
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
+{{% notice tip %}}
+Google Carが特徴的
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681157131804!6m8!1m7!1sGOyh4xXRk_aRcxwYznvcwQ!2m2!1d-1.312968146095767!2d36.82981472799747!3f150.67865147779287!4f-20.34512092537844!5f1.3473814785954303" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682552342053!6m8!1m7!1sGWRmcUYLetMNqlrT5GImVQ!2m2!1d2.755225980074793!2d35.64334290294197!3f349.5697049206935!4f-13.6052621076158!5f1.5080392418408253" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

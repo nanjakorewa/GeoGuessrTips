@@ -38,8 +38,12 @@ jetro_detail: false
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
+{{% notice tip %}}
+Google Carが特徴的
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682515475352!6m8!1m7!1sy1zkYxqM9_0AEEZg32silQ!2m2!1d14.90353348739371!2d-90.6782027447204!3f11.25169269397798!4f-42.191956197052626!5f1.4536773629547506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682552199079!6m8!1m7!1sy1zkYxqM9_0AEEZg32silQ!2m2!1d14.90353348739371!2d-90.6782027447204!3f16.380623089322356!4f-81.3000728772805!5f0.4000000000000002" width="590" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682552243839!6m8!1m7!1stJUNtdBaLxsR8KiHoparxw!2m2!1d16.98835439977972!2d-89.38241670165777!3f52.62549686463521!4f-76.85985011357302!5f0.4000000000000002" width="590" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
