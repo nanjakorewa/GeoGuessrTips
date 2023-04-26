@@ -103,6 +103,15 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682468327217!6m8!1m7!1s_xQYI8MT1t4rL3D17_QrNA!2m2!1d26.687065447171!2d83.56086764998268!3f158.54175639985195!4f-11.929120204871097!5f3.2111110012516426" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "山" %}}
+{{% notice tip %}}
+土が赤くても周りが険しい山で森が多いならばネパールの東西なども検討する。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682469074724!6m8!1m7!1sDoei_ddObvVfnnyYAktCMQ!2m2!1d29.87155990235058!2d79.70757318913535!3f93.56896264013253!4f12.893076847190144!5f1.6592677506386897" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682469213683!6m8!1m7!1sjTU0xex_3iWaHCFMP0H9Kg!2m2!1d26.9355147072377!2d88.44909055797791!3f343.5479801851562!4f6.649843690657178!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 {{% tabs  %}}
