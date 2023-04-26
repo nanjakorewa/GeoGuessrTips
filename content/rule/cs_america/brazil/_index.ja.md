@@ -27,13 +27,6 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-BR＝ブラジル国道、他の記号＝州の名前を表している。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
 家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは特定できないと思う
 {{% /notice %}}
 <div class="googlemap-if">
@@ -45,6 +38,7 @@ BR＝ブラジル国道、他の記号＝州の名前を表している。
 標識の裏側が<span class="quiz">黒い</span>ものが多い
 {{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682551162530!6m8!1m7!1sMk968VRjDczmNQ9PyjQTjw!2m2!1d-9.71648540938991!2d-68.13882693870039!3f255.15618007721577!4f-7.587449892091357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -103,6 +97,16 @@ By Olympiobr - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
+        <li>地域ごとに生態系と土の色が異なる
+            <ul>
+                <li>Amazônia：湿度の高い赤道気候でアマゾンの森林が存在する</li>
+                <li>Cerrado：？？？</li>
+                <li>Mata Atlântica：？？？</li>
+                <li>Caatinga：？？？</li>
+                <li>Pampa：？？？</li>
+                <li>Pantanal：？？？</li>
+            </ul>
+        </li>
         <li>電話番号のエリアコードで範囲を絞ることができる</li>
         <li>BR-XXXはブラジル国道。BAでないものは州の名前かも。州名はマップをズームアウトすると確認できる。</li>
         <li class="no-evidence">電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
@@ -115,6 +119,19 @@ By Olympiobr - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php
     </ul>
 </div>
 
+{{% tabs  %}}
+{{% tab "生態系の種類" %}}
+
+{{% notice tip %}}
+AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が存在する。（画像出典：By Brazil Travel - http://www.braziltourstravel.com/biomes.png, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=53887697）
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<img src="2023-04-27-08-27-15.png" />
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 {{% tabs  %}}
 {{% tab "電話番号" %}}
