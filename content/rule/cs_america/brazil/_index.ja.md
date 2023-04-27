@@ -80,7 +80,7 @@ By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/
                 <li>Mata Atlântica：ブラジルの大西洋の海岸線15州以上に広がって分布する森林</li>
                 <li>Caatinga：乾燥した土壌であり白っぽい土壌が含まれることが多い</li>
                 <li>Pampa：ウルグアイに近い雰囲気で農牧地がある</li>
-                <li>Pantanal：パラグアイ北部の河川による沖積平野</li>
+                <li>Pantanal：パラグアイ北部の河川による沖積平野だが道がほとんど無い</li>
             </ul>
         </li>
     </ul>
@@ -132,6 +132,12 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682560746237!6m8!1m7!1s9dhF35gqnNfT06exQSZq8A!2m2!1d-29.97944047612433!2d-56.54452566178293!3f66.06010993564273!4f-2.148703313678041!5f2.8062917746442597" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682560839626!6m8!1m7!1szmXGuOU-85y4w39NLD_xMg!2m2!1d-31.76440676809355!2d-54.15591499962603!3f222.87300769244834!4f-3.5749410915477!5f2.9377560244887877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Pantanal" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682639619124!6m8!1m7!1s3p5OupPwhc2DiKhsj27uPw!2m2!1d-19.01679467617658!2d-57.53193554803059!3f158.0077363936258!4f-23.38418793810321!5f1.7410521314355352" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682639577855!6m8!1m7!1sCmml6mgQBChhNysXhxcEyA!2m2!1d-19.36288315842267!2d-57.55096809136056!3f219.91708888805192!4f-13.84361818284306!5f2.956808514492435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

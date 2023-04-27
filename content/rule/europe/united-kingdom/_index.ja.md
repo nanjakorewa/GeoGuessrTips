@@ -18,7 +18,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.gb</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span></li>
-        <li>レンガ造りの家が多いならイギリスだが、白っぽい壁が多い場合はアイルランドを検討する{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}</li>
+        <li>レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討する{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}</li>
         <li><span class="quiz">ヘッジロウ（低木や草本類などが植栽された垣根）</span>が道端や家の周りに存在する</li>
     </ul>
 </div>
