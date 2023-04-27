@@ -48,7 +48,7 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li class="important-rule"><a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる[資料]</a>かも{{% by "rumilb" "twitch" %}}</li>
+        <li class="important-rule">ナンバープレートが前についているかと<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる[資料]</a>かも{{% by "rumilb" "twitch" %}}</li>
         <li class="important-rule">州道の看板で州が特定できる、州道の看板が州の形になっていることがある</li>
         <li class="important-rule">郵便局の建物の壁に州と都市名が書いてあることが多い</li>
         <li class="important-rule">高速道路の出口は"Exit XX"と番号が付いていてズームすると確認できる</li>
@@ -63,6 +63,15 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
+{{% tab "ナンバープレート" %}}
+{{% notice tip %}}
+まず、前にナンバープレートを付ける必要がないエリア（黄色のエリア）を覚えてからナンバープレートの色を覚える。テキサスが前にもある点だけ注意（画像出典：By Raccoonny - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）。
+{{% /notice %}}
+<div class="description-wide">
+<a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
+</div>
+
+{{% /tab %}}
 {{% tab "州道の看板" %}}
 
 <div class="googlemap-if">
