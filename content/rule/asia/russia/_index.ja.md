@@ -114,7 +114,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% tab "白樺（Birch・Aspen）" %}}
 
 {{% notice note %}}
-白樺は見て分かりやすいので重要なヒント
+白樺・シラカンバは見て分かりやすいので重要なヒント
 {{% /notice %}}
 
 
@@ -205,8 +205,12 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "Astrakhan" %}}
 
+{{% notice tip %}}
+Astrakhanの周りは土が赤く植生もまばらなので判別は難しくない
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682592891077!6m8!1m7!1s3Ghelp0Obz5R2KILeWJOrQ!2m2!1d47.04539027435337!2d47.28091762127052!3f17.77498916444501!4f-6.324368553552247!5f1.7414758897270306" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682602690530!6m8!1m7!1s3Ghelp0Obz5R2KILeWJOrQ!2m2!1d47.04539027435337!2d47.28091762127052!3f210.63569510311004!4f-18.252173820748624!5f2.4471436518541623" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682602735979!6m8!1m7!1sT1oJCvrVmgxDK39qVsKF-Q!2m2!1d46.25236612969353!2d47.4939079399048!3f1.6490696925354915!4f-9.71037603651537!5f1.742747712528216" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
