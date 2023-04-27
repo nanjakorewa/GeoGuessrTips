@@ -18,8 +18,8 @@ jogmec_detail: true
         <li>ドメインは<span class="quiz">.ru</span>、<span class="quiz">.su</span>を使うこともある（ソ連の国別コードトップレベルドメイン）</li>
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
         <li>道路わきの看板の数値は始点と終点の距離を表している</li>
-        <li>天然ガスの生産が世界最大の企業であるガスプロムのガソリンスタンド、銀行行もしている。青や紺色のロゴで『Газпром』の表記の建物があればたぶんロシア。</li>
-        <li>above ground metal tubes{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>天然ガスの生産が世界最大の企業である<span class="quiz">ガスプロム</span>のガソリンスタンド、銀行行もしている。青や紺色のロゴで『Газпром』の表記の建物があればたぶんロシア。</li>
+        <li>壁や塀の上などにパイプが通っていることが多い{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
 
@@ -46,20 +46,15 @@ jogmec_detail: true
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679952008394!6m8!1m7!1sKN-3kAd_mxa5SqB13YgGug!2m2!1d54.58244420016089!2d100.3601711274949!3f131.58138593641155!4f-2.7641070240745194!5f3.294422798080353" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680099003951!6m8!1m7!1sgZBJzDJj3D54hQIaV3OV4w!2m2!1d55.82373410429764!2d61.10775689484532!3f161.93002022182355!4f-4.079517776302552!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679574012765!6m8!1m7!1sR8-KOr_YgIRzPFz_zEBCAg!2m2!1d56.73993333236672!2d37.54780178613612!3f309.44431274604256!4f-0.27220425709052165!5f3.319031129903795" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679574031395!6m8!1m7!1skQtKcHHlJLO40HHPNKf8jw!2m2!1d56.73983042158815!2d37.54903639461046!3f115.84508252416973!4f0.909471290727339!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680355869277!6m8!1m7!1sN8-evwVMWCXiQEgo0CPUiw!2m2!1d47.5727822865945!2d141.9610109896992!3f151.4950361048633!4f18.609496516779558!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355899521!6m8!1m7!1sN8-evwVMWCXiQEgo0CPUiw!2m2!1d47.5727822865945!2d141.9610109896992!3f172.30429118216085!4f-2.146055457107664!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-viecle" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680243782245!6m8!1m7!1skIFZfIqwhKpwqbuCl8aw7w!2m2!1d62.0344257376885!2d129.7166523379148!3f140.010507350756!4f-6.54831422365605!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-building" %}}
+{{% notice tip %}}
+塀に沿ったパイプ
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680568075031!6m8!1m7!1sn0bvWbod7ABKSuhedfxguw!2m2!1d53.18501614053784!2d44.06404540436073!3f277.12844123573996!4f-5.65583935692743!5f2.746292577094953" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682205300283!6m8!1m7!1so7nnqQcYEGSdeiukb3SAmA!2m2!1d51.29802272219229!2d37.84326064984084!3f109.30759063511029!4f-6.209895713528667!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
