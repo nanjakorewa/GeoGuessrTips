@@ -49,12 +49,12 @@ jetro_detail: true
 {{% lb 50 small %}}
 ![](2023-04-13-08-21-28.png)
 
-Svbzc - 投稿者自身による著作物, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=6831533による
+Svbzc - 投稿者自身による著作物, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=6831533">Wikimedia Commons</a>による
 {{% /lb %}}
 {{% lb 50 %}}
 ![](2023-04-13-08-23-29.png)
 
-CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=329958
+CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=329958">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}

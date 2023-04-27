@@ -28,12 +28,12 @@ jetro_detail: true
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)
 
-Willtron, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=4619704による
+Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4619704">Wikimedia Commons</a>による
 {{% /lb %}}
 {{% lb 50 %}}
 ![](2023-04-12-11-26-18.png)
 
-TheFlyingDutchman, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=7116148による
+TheFlyingDutchman, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=7116148">Wikimedia Commons</a>による
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-viecle" %}}

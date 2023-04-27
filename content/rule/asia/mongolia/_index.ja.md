@@ -39,11 +39,11 @@ Google Carが特徴的
 {{% lb 50 small %}}
 ![](2023-04-21-12-14-43.png)
 
-By Nima Farid - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=46082692
+By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=46082692">Wikimedia Commons</a>
 
 ![](2023-04-21-12-16-01.png)
 
-By Nima Farid - Own work, CC0, https://commons.wikimedia.org/w/index.php?curid=46082692
+By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=46082692">Wikimedia Commons</a>
 {{% /lb %}}
 
 {{% /tab %}}

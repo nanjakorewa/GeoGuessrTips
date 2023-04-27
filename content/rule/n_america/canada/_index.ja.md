@@ -92,7 +92,7 @@ Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の�
 {{% tabs  %}}
 {{% tab "ナンバープレート" %}}
 {{% notice tip %}}
-マニトバ州はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=118040953）
+マニトバ州はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -106,7 +106,7 @@ Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の�
 
 {{% notice tip %}}
 オンタリオのナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。（画像出典：
-By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=87142994）
+By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=87142994">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">

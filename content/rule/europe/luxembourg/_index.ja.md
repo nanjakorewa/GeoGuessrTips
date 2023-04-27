@@ -37,7 +37,7 @@ jetro_detail: true
 {{% lb %}}
 ![](2023-04-12-06-05-39.png)
 
-Willtron, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=4614844による
+Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4614844">Wikimedia Commons</a>による
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}

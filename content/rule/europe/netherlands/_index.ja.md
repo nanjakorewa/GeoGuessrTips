@@ -37,7 +37,7 @@ jogmec_detail: true
 {{% lb 50 %}}
 ![](2023-04-12-19-03-07.png)
 
-Gert Kalkman - Public road, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=4482331による
+Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=4482331">Wikimedia Commons</a>による
 {{% /lb %}}
 
 

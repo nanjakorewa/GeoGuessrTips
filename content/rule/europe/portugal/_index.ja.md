@@ -30,7 +30,7 @@ jetro_detail: true
 {{% lb %}}
 ![](2023-04-12-06-00-36.png)
 
-<a href="//commons.wikimedia.org/wiki/User:Willtron" title="User:Willtron">Willtron</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4614860">Willtron, CC 表示-継承 3.0, https://commons.wikimedia.org/w/index.php?curid=4614860による, </a>による
+<a href="//commons.wikimedia.org/wiki/User:Willtron" title="User:Willtron">Willtron</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4614860">Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4614860">Wikimedia Commons</a>による, </a>による
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-bollard" %}}

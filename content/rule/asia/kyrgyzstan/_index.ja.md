@@ -42,7 +42,7 @@ Google Carが特徴的、かつ周りが山がちで雪の時もある
 {{% lb 50 small %}}
 ![](2023-04-21-05-32-05.png)
 
-By Haghal Jagul - Own work, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25097857
+By Haghal Jagul - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=25097857">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% /tabs %}}

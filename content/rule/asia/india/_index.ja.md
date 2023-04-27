@@ -70,7 +70,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "土の色" %}}
 {{% notice tip %}}
-真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By ncert - http://nroer.in/gstudio/resources/images/show/35270/, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=27703297）
+真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By ncert - http://nroer.in/gstudio/resources/images/show/35270/, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">

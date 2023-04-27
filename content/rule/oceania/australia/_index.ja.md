@@ -89,11 +89,11 @@ plonkit: true
 
 ![](2023-04-23-16-05-30.png)
 
-By NJM2010 - Own work, GFDL, https://commons.wikimedia.org/w/index.php?curid=13768947
+By NJM2010 - Own work, GFDL, <a href="https://commons.wikimedia.org/w/index.php?curid=13768947">Wikimedia Commons</a>
 
 ![](2023-04-23-16-00-23.png)
 
-By EurovisionNim - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=67572209
+By EurovisionNim - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "クリスマス島" %}}

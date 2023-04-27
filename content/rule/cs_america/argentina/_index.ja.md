@@ -36,7 +36,7 @@ plonkit: true
 {{% lb 50 %}}
 ![](2023-04-12-11-42-57.png)
 
-By Quilmeño89 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=41806860
+By Quilmeño89 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=41806860">Wikimedia Commons</a>
 {{% /lb %}}
 
 

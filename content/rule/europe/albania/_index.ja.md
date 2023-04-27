@@ -51,7 +51,7 @@ plonkit: false
 {{% lb %}}
 ![](2023-04-16-10-59-35.png)
 
-By BasilLeaf - CC0, https://commons.wikimedia.org/w/index.php?curid=113059758
+By BasilLeaf - CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113059758">Wikimedia Commons</a>
 
 ![](2023-04-16-11-00-24.png)
 

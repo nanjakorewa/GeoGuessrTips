@@ -48,7 +48,7 @@ jetro_detail: true
 
 ![](2023-04-18-17-11-36.png)
 
-By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=25121030
+By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=25121030">Wikimedia Commons</a>
 {{% /lb %}}
 
 {{% notice tip %}}

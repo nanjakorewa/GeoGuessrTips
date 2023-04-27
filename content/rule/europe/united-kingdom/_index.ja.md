@@ -35,7 +35,7 @@ plonkit: true
 {{% lb 50 %}}
 ![](2023-04-12-12-06-06.png)
 
-By ZElsb - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107443706
+By ZElsb - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=107443706">Wikimedia Commons</a>
 {{% /lb %}}
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ By ZElsb - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?cur
 {{% lb 50 %}}
 ![](2023-04-13-08-38-32.png)
 
-By ZakNelson1995 - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=107420456
+By ZakNelson1995 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=107420456">Wikimedia Commons</a>
 {{% /lb %}}
 
 {{% /tab %}}

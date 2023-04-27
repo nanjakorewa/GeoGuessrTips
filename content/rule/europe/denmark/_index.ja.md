@@ -56,7 +56,7 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 {{% lb %}}
 ![](2023-04-12-06-08-23.png)
 
-heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリック・ドメイン, https://commons.wikimedia.org/w/index.php?curid=8391465による
+heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=8391465">Wikimedia Commons</a>による
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
