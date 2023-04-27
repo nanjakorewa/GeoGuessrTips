@@ -38,7 +38,7 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-電柱に<span class="quiz">黒いラベル</span>
+電柱に<span class="quiz">黒いラベル</span>があるならば離島ではない
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564567186!6m8!1m7!1s8IQ0DD5T-YKqTgePT-TPLQ!2m2!1d3.539932888470982!2d102.0928046091981!3f17.471583236058166!4f-11.74325435836623!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

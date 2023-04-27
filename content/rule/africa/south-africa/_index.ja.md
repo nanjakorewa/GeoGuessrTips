@@ -53,7 +53,6 @@ plonkit: true
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681497450657!6m8!1m7!1sQBI_D7IFkeExseljZ0r6Dw!2m2!1d-34.20021087965176!2d20.02773280801162!3f263.9512532520086!4f-3.9066333107253115!5f0.8134659912944922" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679676855735!6m8!1m7!1s-dCjCDxqAyo0T4HQfiMcsQ!2m2!1d-28.8351143653617!2d22.07029168738174!3f88.3609792735573!4f-10.041765813189983!5f3.305926596708757" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
@@ -68,7 +67,7 @@ plonkit: true
     <ul class="rule-list">
         <li>植生が地域ごとに異なる
             <ul>
-                <li>①南アフリカ共和国の国立公園</li>
+                <li>①国立公園</li>
                 <li>②サバンナ</li>
                 <li>③Grassland Biome、草がメイン（参考文献：<a href="http://pza.sanbi.org/vegetation/grassland-biome">SANBI</a>）</li>
                 <li>④Nama Karoo、干ばつが頻繁に発生する低木が生えるエリア</li>
@@ -89,7 +88,17 @@ plonkit: true
 <img src="2023-04-24-17-09-12.png" width="500px"/>
 </div>
 {{% /tab %}}
-{{% tab "植物の様子" %}}
+{{% tab "①国立公園" %}}
+{{% notice tip %}}
+道路の交差点に独特な石があり自然も豊かだ
+{{% /notice %}}
+
+<div class="googlemap-if"><iframe src="https://www.google.com/maps/embed?pb=!4v1682582507768!6m8!1m7!1sCHLT7b5SxaAn9_Wyw6v5pA!2m2!1d-25.04609924371003!2d31.58888671371989!3f243.67947433702824!4f-5.025104495001926!5f2.8766442269134047" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682582479625!6m8!1m7!1sCAoSLEFGMVFpcFA5OWtpRkxxUUc0c3ZOQ0dLRzhIX3NqcUpNeVZWS3NPcnI1dU1G!2m2!1d-23.92176338810719!2d31.23214666603916!3f11.841535471823875!4f-19.014792492702526!5f2.833727043364251" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "②サバンナ" %}}
 {{% notice tip %}}
 サバンナは北のエリアと海沿いのエリアに存在している
 {{% /notice %}}
@@ -99,6 +108,8 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682324871185!6m8!1m7!1smu_TmRjBfhaPbaksGiEvlg!2m2!1d-33.55789802046195!2d26.55261180328686!3f314.7805053861716!4f0.6774984441135388!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tab %}}
+{{% tab "③Grassland" %}}
 {{% notice tip %}}
 Grassland Biomeはレソトを取り囲むように分布している。遠くに上が平らな山（ドラケンスバーグ山脈）が見えるかもしれない。
 {{% /notice %}}
@@ -107,14 +118,25 @@ Grassland Biomeはレソトを取り囲むように分布している。遠く�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682324849001!6m8!1m7!1sRVxuo_RaNJrtu16jhh29lg!2m2!1d-30.44671003955965!2d28.6304976449013!3f128.006031910333!4f5.093105066904158!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tab %}}
+{{% tab "④Nama Karoo" %}}
 {{% notice tip %}}
-Nama Karooは厳しい環境で場所によっては草も生えていない
+Nama Karooは干ばつも発生することがある厳しい環境で場所によっては草も生えていない
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682324991744!6m8!1m7!1sif9NHw31bUnJlPUCKzycjA!2m2!1d-29.85956215669374!2d20.73597370752784!3f115.76188729259206!4f4.829442606227545!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682325086107!6m8!1m7!1sQdpNKOtc8WiQ2kpj0hSEUQ!2m2!1d-28.8076136017554!2d20.44497834268564!3f120.99758362124906!4f-1.4992175063994466!5f0.8742806863926469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li class="no-evidence">電話番号のエリアコードで地域が分かる？</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "電話番号" %}}
 <div class="googlemap-if">
 {{% twitter "1640831519643127808" %}}

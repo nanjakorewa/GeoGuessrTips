@@ -17,8 +17,8 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li><span class="quiz">青い</span>ポスト</li>
-        <li>家の前にゴミ箱が並んでいることが多い。WM＝アメリカのゴミ収集の大手、Waste Managementのロゴがあることも。</li>
-        <li>逆▽の看板（「道を譲れ（他の車が優先）」）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
     </ul>
 </div>
 
@@ -98,7 +98,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "動画" %}}
+{{% tab "アメリカ攻略講座" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">

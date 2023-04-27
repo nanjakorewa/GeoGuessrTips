@@ -24,14 +24,6 @@ jetro_detail: false
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Google Carが特徴的、かつ周りが山がちで雪の時もある
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682022445489!6m8!1m7!1sC-mhk4-0_HfoO4jKDMc5UA!2m2!1d42.33284933078447!2d73.81670557177138!3f356.02701359632573!4f-89!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682022493009!6m8!1m7!1sKBMjWOzNvv8Lp7XEiPlZHA!2m2!1d42.33294198174527!2d73.81670216124844!3f359.6286987623686!4f-44.63954747174453!5f1.639202319937295" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
 ナンバープレートに赤色のラインが入っている
 {{% /notice %}}
 <div class="googlemap-if">
@@ -44,5 +36,14 @@ Google Carが特徴的、かつ周りが山がちで雪の時もある
 
 By Haghal Jagul - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=25097857">Wikimedia Commons</a>
 {{% /lb %}}
+
+{{% notice tip %}}
+Google Carが特徴的、かつ周りが山がちで雪の時もある
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682022445489!6m8!1m7!1sC-mhk4-0_HfoO4jKDMc5UA!2m2!1d42.33284933078447!2d73.81670557177138!3f356.02701359632573!4f-89!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682022493009!6m8!1m7!1sKBMjWOzNvv8Lp7XEiPlZHA!2m2!1d42.33294198174527!2d73.81670216124844!3f359.6286987623686!4f-44.63954747174453!5f1.639202319937295" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}

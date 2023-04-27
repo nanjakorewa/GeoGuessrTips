@@ -61,14 +61,12 @@ jogmec_detail: true
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>土の色が地域ごとに異なる</li>
-        <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
-        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが違う場所にもあるので注意</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
-{{% tab "土の色" %}}
+{{% tab "土の分布" %}}
 {{% notice tip %}}
 真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By ncert - http://nroer.in/gstudio/resources/images/show/35270/, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
 {{% /notice %}}
@@ -94,7 +92,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682467876025!6m8!1m7!1s3tPGFcFOFS3VxW4LY3-RmQ!2m2!1d22.92992908739189!2d75.85402923206209!3f222.87806813015754!4f-11.71605331265799!5f3.2114390371456225" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "alluvial" %}}
+{{% tab "沖積層" %}}
 {{% notice tip %}}
 インダス川、ガンジス川によって堆積した沖積層（alluvial）が北部にある。一般的には平坦で湿地が散見され、
 主に固まっていない泥、砂、石から構成される{{% by "https://www.jishin.go.jp/resource/terms/tm_alluvium/" "web" "沖積層" %}}。
@@ -104,7 +102,7 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682468327217!6m8!1m7!1s_xQYI8MT1t4rL3D17_QrNA!2m2!1d26.687065447171!2d83.56086764998268!3f158.54175639985195!4f-11.929120204871097!5f3.2111110012516426" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "山" %}}
+{{% tab "森林" %}}
 {{% notice tip %}}
 土が赤くても周りが険しい山で森が多いならばネパールの東西なども検討する。
 {{% /notice %}}
@@ -114,6 +112,15 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
+        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが違う場所にもあるので注意</li>
+    </ul>
+</div>
+
 
 {{% tabs  %}}
 {{% tab "言語" %}}

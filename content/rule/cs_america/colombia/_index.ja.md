@@ -51,7 +51,6 @@ jogmec_detail: true
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138121122!6m8!1m7!1s8SXbik_yGaQLNRhtJ09C9w!2m2!1d3.409759690878096!2d-76.34769438237707!3f257.9149055646081!4f-17.67114175853544!5f3.310312940442755" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679137969933!6m8!1m7!1sXD5mn8ENTU36E8wY6oVgOw!2m2!1d2.459939005594445!2d-76.59373969920176!3f264.4511955614134!4f-29.74845254312335!5f1.9483907551121744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679813576129!6m8!1m7!1slrDq90ex1FOkTtQRvay6uQ!2m2!1d2.457006309841755!2d-76.59672523907327!3f38.54073997962945!4f-8.688211803202734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
@@ -66,16 +65,24 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
+        <li>サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島の一部が出ることがあるので頭の片隅にとどめておく</li>
+        <li>離島でも標識の裏側にクロスがある</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
-{{% tab "離島" %}}
+{{% tab "プロビデンシア" %}}
 {{% notice tip %}}離島がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679757357451!6m8!1m7!1slNIOFbUepcmPWtijHoNbdg!2m2!1d13.3292843138916!2d-81.37835727890173!3f109.6953457816907!4f-38.36080557825743!5f1.401040515686054" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "サン・アンドレス" %}}
+{{% notice tip %}}離島がある。
+{{% /notice %}}
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679757448117!6m8!1m7!1siFw5AEYygAupQsSUeWxnvg!2m2!1d12.5381448985455!2d-81.707718377972!3f11.144275715058827!4f-31.470482776671!5f1.6118947326028952" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
@@ -90,9 +97,11 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "何もない場所" %}}
+{{% tab "タクシー" %}}
+{{% notice tip %}}ステッカーににPOPAYANと書かれている
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680192805971!6m8!1m7!1s-5rm3FHD3F1bKYWwPfqmUA!2m2!1d10.45218087147251!2d-75.04958504969373!3f269.16484869149843!4f-4.047406810805441!5f1.3568067170213425" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679137969933!6m8!1m7!1sXD5mn8ENTU36E8wY6oVgOw!2m2!1d2.459939005594445!2d-76.59373969920176!3f264.4511955614134!4f-29.74845254312335!5f1.9483907551121744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

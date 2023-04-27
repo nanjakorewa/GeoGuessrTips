@@ -17,17 +17,16 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>道端で<span class="quiz">タバコ</span>がよく売られていて、家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
-        <li>ナンバープレートに<span class="quiz">黒い</span>ものがある</li>
+        <li>ナンバープレートに<span class="quiz">黒い</span>ものがある。一部はナンバープレートが三つに分かれて見えるかもしれない。</li>
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
-        <li>ナンバープレートが三つに分かれて見えるかもしれない（2011-2022のナンバープレート）</li>
-        <li>道路の中央分離帯が黄色の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
+        <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-家の前や通りに三角の旗が並んでいる。
+家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗が並んでいる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -35,7 +34,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）などの看板。他にはBank Negara Indonesia Tbk PT・Bank Maybank Indonesia Tbk PTなど。
+<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。他にはBank Negara Indonesia Tbk PT・Bank Maybank Indonesia Tbk PTなど。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -43,7 +42,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-道端でタバコがよく売られている。たばこの絵柄が無くても『18+』と書かれていればたばこの広告。GGSPと書かれたのれんはタバコメーカーGudang Garam Tbk PTのこと。
+道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。GGSPと書かれたのれんは<span class="quiz">タバコ</span>メーカーGudang Garam Tbk PTのこと。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -90,7 +89,7 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li class="no-evidence">地域ごとに土の色が微妙に異なるかも？</li>
+        <li class="no-evidence">地域ごとに土の色が微妙に異なるかもしれないものの参考にできるかは不明</li>
     </ul>
 </div>
 
@@ -117,7 +116,7 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682549757831!6m8!1m7!1snhEq4BhbsjPPuZJ6ONIuMQ!2m2!1d6.743509096518713!2d117.0716160845031!3f99.79404337582251!4f-5.734719200019811!5f3.163675566816853" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "Mollisol" %}}
+{{% tab "Entisol" %}}
 
 {{% notice tip %}}
 {{% by "https://en.wikipedia.org/wiki/Mollisol" "wiki" "Mollisol" %}}

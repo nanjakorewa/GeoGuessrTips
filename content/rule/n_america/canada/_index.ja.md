@@ -18,7 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>速度制限の表記は<span class="quiz">MAXIMUM</span></li>
         <li>ドメインは<span class="quiz">.ca</span></li>
-        <li>逆▽の看板（「道を譲れ（他の車が優先）」）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
     </ul>
 </div>
 
@@ -49,17 +49,7 @@ plonkit: true
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 
-
-{{% notice tip %}}
-Royal Bank of Canada、Tronto Dominion、BMO Canadaなどがカナダ大手の銀行。Scotiabankもカナダ大手だが、Scotiabankはカナダに限らず世界中に展開している。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681071337234!6m8!1m7!1sBAwKJZdDZfeytTwzATfjmA!2m2!1d43.66975679525978!2d-79.38977140840532!3f165.53120985555373!4f3.1029974488266276!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-{{% notice tip %}}カナダにはミッドストリーム企業がたくさんある。ただしストリートビューにはほとんどいない（通りから離れた場所にあるため）。Devon・Pembina pipeline・Enbridgeなど。Canadian Natural Resourcesのようなオイルサンド・天然ガスを生産する企業も山奥に行くとあるかも。
+{{% notice tip %}}カナダには石油や天然ガスのパイプラインを管理するミッドストリーム企業がたくさんある。ただしストリートビューにはほとんどいない（通りから離れた場所にあるため）。Devon・Pembina pipeline・Enbridgeなど。Canadian Natural Resourcesのようなオイルサンド・天然ガスを生産する企業も山奥に行くとあるかも。
 {{% /notice %}}
 
 <div class="googlemap-if">

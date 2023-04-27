@@ -22,29 +22,25 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Google Carが特徴的
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682046777271!6m8!1m7!1sDdizKicdNsjkjx4b6K3Ujw!2m2!1d47.91049922266202!2d106.8945466053571!3f179.1359081904984!4f-37.43053154095747!5f1.2064416766681925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-ナンバープレートの左端に赤い領域があるものが含まれる
+ナンバープレートの左端に赤い領域があるものが含まれる。細いナンバープレートにも左に赤い領域がある。
 {{% /notice %}}
 <div class="googlemap-if">
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682046899112!6m8!1m7!1sKuw22hLewwiyPoPrZTzy6g!2m2!1d47.90930038223645!2d106.8945407917039!3f203.7848512587613!4f-18.274573971809104!5f3.324011130042059" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% lb 50 small %}}
+{{% lb 50 %}}
 ![](2023-04-21-12-14-43.png)
 
 By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=46082692">Wikimedia Commons</a>
-
-![](2023-04-21-12-16-01.png)
-
-By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=46082692">Wikimedia Commons</a>
 {{% /lb %}}
+
+{{% notice tip %}}
+Google Carが特徴的
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682046777271!6m8!1m7!1sDdizKicdNsjkjx4b6K3Ujw!2m2!1d47.91049922266202!2d106.8945466053571!3f179.1359081904984!4f-37.43053154095747!5f1.2064416766681925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}

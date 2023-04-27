@@ -19,7 +19,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.au</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li><span class="quiz">ユーカリ</span>の木が沢山ある、電柱も<span class="quiz">ユーカリ</span>の木からできる箇所が多い（電柱の色は地域によって少し違う、鉄製もある）</li>
-        <li>GIVE WAY（「道を譲れ（他の車が優先）」）が黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
+        <li>GIVE WAY（道を譲れ・他の車が優先）が黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
         <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
 </div>

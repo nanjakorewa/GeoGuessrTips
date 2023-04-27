@@ -19,8 +19,8 @@ jogmec_detail: true
         <li>ドメインは<span class="quiz">.ph</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。</li>
-        <li>ジプニーとよばれるバスのようなものが主な交通手段、派手な色でカラフル。一回10円～20円で乗れるとか。</li>
-        <li class="no-evidence">標識に赤茶色のポールが多いかも？</li>
+        <li>ジプニーとよばれる派手な色のバスが主な交通手段として使用される</li>
+        <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
         <li class="no-evidence">日本では滅多に見ないローヤルクラウン・コーラが結構人気で売られている（フィリピンとアメリカのジョージア州で人気らしい）</li>
     </ul>
 </div>
@@ -37,7 +37,6 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679379166845!6m8!1m7!1srnkhZOXeHFbZ7Pjd5shE3Q!2m2!1d17.6173623409687!2d121.7169211151646!3f43.133701546879564!4f-9.482586871830463!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101739474!6m8!1m7!1sTyeObkPyGj8YuX9dN0z38A!2m2!1d7.422406929066982!2d125.7903360325907!3f239.67141175517145!4f-1.3145434412512884!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249781531!6m8!1m7!1sCgLuMD_CQVNlp_5GCdbQuw!2m2!1d8.6718633256141!2d125.8553665045728!3f168.42819800819322!4f-6.48711248298369!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
