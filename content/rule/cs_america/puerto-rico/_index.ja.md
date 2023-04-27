@@ -29,7 +29,7 @@ jetro_detail: true
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682604395224!6m8!1m7!1s2QsI0KQIKuryNjGXyYLBkw!2m2!1d18.39907123684727!2d-66.17205629042448!3f99.33099251746948!4f-7.640715348930669!5f2.7519584306584073" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681073955287!6m8!1m7!1sUi9fYRhdlcygaDI9HeKNwA!2m2!1d18.43121452444391!2d-66.11418401827083!3f269.3526381626092!4f-13.246521536063696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682604874168!6m8!1m7!1sUi9fYRhdlcygaDI9HeKNwA!2m2!1d18.43121452444391!2d-66.11418401827083!3f166.8293199033518!4f-5.339070193205615!5f3.0300597589774174" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
