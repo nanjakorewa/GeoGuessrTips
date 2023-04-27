@@ -85,8 +85,8 @@ jogmec_detail: true
         <li>植物の分布・地域ごとの優占樹種を把握する必要がある</li>
         <li>樺太にはフキが生えていることが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>電話番号を見れば地域を絞り込むことができる、西から順番に<span class="quiz">4-8-3-4</span>{{% by %}}</li>
-        <li>右ハンドルの日本車の割合が余りにも多いなら日本に近い地域かも？{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}</li>
         <li>マガダンのあたりに葉っぱが針みたいな木が多い（木の種類は不明）{{% by "niwaisound" "twitch"  %}}</li>
+        <li class="no-evidence">右ハンドルの日本車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そしてここだけGoogleCarが白い。</li>
     </ul>
 </div>
 
@@ -95,7 +95,7 @@ jogmec_detail: true
 <div class="googlemap-if unclickable-area" >
 <img src="2023-04-23-19-40-50.png"/>
 <div class="description-wide">
-出典：『序章　国土空間からみた循環と共生の地域づくり』（環境省, https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html, 2023年4月1日に利用）
+この図は松に出典：『序章　国土空間からみた循環と共生の地域づくり』（環境省, https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html, 2023年4月1日に利用）
 </div>
 </div>
 
@@ -109,7 +109,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "カラマツ（Larch）" %}}
 {{% notice tip %}}
-カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる。
+カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる。白樺やカラマツの生え具合を見るのが最優先。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -119,8 +119,11 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 
 {{% /tab %}}
 {{% tab "白樺（Birch・Aspen）" %}}
-{{% notice tip %}}
+
+{{% notice note %}}
+白樺やカラマツの生え具合を見るのが最優先
 {{% /notice %}}
+
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682594848796!6m8!1m7!1sMZMY21mZeQiac3AOHJ66hA!2m2!1d56.16259741807207!2d44.50206519978866!3f34.04439384865009!4f1.5822195022115437!5f3.0936210580770207" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -128,7 +131,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 </div>
 
 {{% /tab %}}
-{{% tab "フキ" %}}
+{{% tab "フキ（Petasites japonicus）" %}}
 {{% notice tip %}}
 日本全体と樺太に生えている。
 {{% /notice %}}
@@ -139,13 +142,20 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 </div>
 
 {{% /tab %}}
-{{% tab "Spruce" %}}
+{{% tab "トウヒ属（Spruce）" %}}
 {{% notice tip %}}
 トウヒ属が北西の山脈付近とその西に多い
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682595179051!6m8!1m7!1sSNeSjsJjaMrMx59gvyxxhA!2m2!1d58.54635104596401!2d59.07142926830635!3f124.64782626011696!4f19.27799105095616!5f2.8736602247007426" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "べニマツ（Siberian Pine）" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682595467571!6m8!1m7!1ssIh3CNvCQ_rE3MOFs-UERg!2m2!1d51.17312579333208!2d95.00948268004689!3f47.65361480221784!4f10.777986690854647!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -157,25 +167,33 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 </div>
 
 {{% /tab %}}
-{{% tab "Siberian Pine" %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682595467571!6m8!1m7!1ssIh3CNvCQ_rE3MOFs-UERg!2m2!1d51.17312579333208!2d95.00948268004689!3f47.65361480221784!4f10.777986690854647!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab %}}
 {{% /tabs %}}
 
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>ロシア中央北部の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>サハ共和国では霧が多い・a lot of fog in sakha republic{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>アストラハンの土は特徴的だ・Astrakhan soil{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>ウクライナからシベリア南部に向けて黒っぽい肥沃な土（チェルノーゼム）が存在していて穀物の生産が盛んだ</li>
+        <li>ロシア中央北部の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>サハ共和国では霧が多い・A lot of fog in sakha republic. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>アストラハンの土は特徴的・Astrakhan soil. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "チェルノーゼム" %}}
+{{% notice tip %}}
+赤色の領域にチェルノーゼムが分布する（画像は国連より、パブリック・ドメイン）。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="2023-04-27-21-39-12.png" />
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682599246779!6m8!1m7!1sZ9wYlmD8TiG4dyEaGXB3bA!2m2!1d47.50763831878064!2d39.026931928816!3f15.043591366922273!4f-7.941320702121743!5f3.2243998610319777" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682599349703!6m8!1m7!1syt7XSrmU-8YTgZslCMYPdg!2m2!1d49.67767810712392!2d39.91601112386116!3f135.79474016511088!4f-9.159626853011702!5f1.7418997399758465" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "道端の砂" %}}
 
 <div class="googlemap-if">
@@ -193,8 +211,6 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 
 {{% /tab %}}
 {{% tab "Astrakhan" %}}
-{{% notice tip %}}
-{{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682592891077!6m8!1m7!1s3Ghelp0Obz5R2KILeWJOrQ!2m2!1d47.04539027435337!2d47.28091762127052!3f17.77498916444501!4f-6.324368553552247!5f1.7414758897270306" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
