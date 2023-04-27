@@ -83,8 +83,10 @@ jogmec_detail: true
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>植物の分布・地域ごとの優占樹種を把握する必要がある</li>
+        <li>樺太にはフキが生えていることが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>電話番号を見れば地域を絞り込むことができる、西から順番に<span class="quiz">4-8-3-4</span>{{% by %}}</li>
         <li>右ハンドルの日本車の割合が余りにも多いなら日本に近い地域かも？{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}</li>
+        <li>マガダンのあたりに葉っぱが針みたいな木が多い（木の種類は不明）{{% by "niwaisound" "twitch"  %}}</li>
     </ul>
 </div>
 
@@ -105,9 +107,123 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 </div>
 
 {{% /tab %}}
-{{% tab "右ハンドル車" %}}
+{{% tab "カラマツ（Larch）" %}}
+{{% notice tip %}}
+カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680244227372!6m8!1m7!1sy7SPWE9MZ0t-WbCMUb374A!2m2!1d43.8120027237237!2d131.9407586850838!3f262.9293494786694!4f-5.71482330447887!5f3.2804874657552077" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682592206635!6m8!1m7!1sSNYaH0zLrVUWR9gWdWq5Cw!2m2!1d57.36629026919018!2d124.9037643309379!3f74.04604514769301!4f0.2758095806179597!5f1.953991665472521" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682592292930!6m8!1m7!1seL2RbhSWmWcLcFZZwVrzZg!2m2!1d52.49489829964376!2d108.0354558955269!3f118.64959651132398!4f9.23832395533951!5f1.5999010019293483" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% /tab %}}
+{{% tab "白樺（Birch・Aspen）" %}}
+{{% notice tip %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682594848796!6m8!1m7!1sMZMY21mZeQiac3AOHJ66hA!2m2!1d56.16259741807207!2d44.50206519978866!3f34.04439384865009!4f1.5822195022115437!5f3.0936210580770207" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682594686946!6m8!1m7!1s-Dgq7K-lR94ahQchEFzurw!2m2!1d58.65181502640926!2d53.78317683309058!3f236.95848262068998!4f9.191659854609739!5f3.0997730227522577" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "フキ" %}}
+{{% notice tip %}}
+日本全体と樺太に生えている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682594046159!6m8!1m7!1sTBzRHSzc6oL-MkueC5uNjA!2m2!1d46.80003013762702!2d142.3447914328627!3f231.67122236492588!4f-11.51948319389885!5f2.147977379602411" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682594097106!6m8!1m7!1sOLWGlGrpf8Tz8t3UtMGJcg!2m2!1d47.24539738065627!2d142.7481767509732!3f310.3697566181694!4f-13.354153958461097!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Spruce" %}}
+{{% notice tip %}}
+トウヒ属が北西の山脈付近とその西に多い
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682595179051!6m8!1m7!1sSNeSjsJjaMrMx59gvyxxhA!2m2!1d58.54635104596401!2d59.07142926830635!3f124.64782626011696!4f19.27799105095616!5f2.8736602247007426" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "マガダンの木" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682595589411!6m8!1m7!1sKhLxRXlHe_4iudNYEVLdGA!2m2!1d59.79274005124346!2d150.952737054086!3f265.52193994456815!4f11.745221259068671!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682595755523!6m8!1m7!1sscOmIl_TTF06pbU0Bh6SpQ!2m2!1d59.6857054558386!2d150.2522404951254!3f212.83042143001356!4f17.988853656241574!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Siberian Pine" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682595467571!6m8!1m7!1ssIh3CNvCQ_rE3MOFs-UERg!2m2!1d51.17312579333208!2d95.00948268004689!3f47.65361480221784!4f10.777986690854647!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>ロシア中央北部の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>サハ共和国では霧が多い・a lot of fog in sakha republic{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>アストラハンの土は特徴的だ・Astrakhan soil{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "道端の砂" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593135403!6m8!1m7!1sAXjiMjz0FuTfXpcgw9QSiA!2m2!1d61.32360648914798!2d73.5004540012826!3f314.6424471983432!4f-22.122936953565286!5f1.4287103789210138" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593189315!6m8!1m7!1sLEOmOMDYwoh-dQfYJGkcIg!2m2!1d62.34034727413466!2d74.38948683224079!3f353.1659907439324!4f-22.317441934895115!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "サハ共和国" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593451775!6m8!1m7!1smvBAq_gq6ACgAET3AiXuTw!2m2!1d62.47217693763402!2d114.0850622327975!3f110.86056678755799!4f-1.1021088798863445!5f1.4289035379558852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593458825!6m8!1m7!1sAnR8gqxaiejy6tovHsYlkQ!2m2!1d62.34972187595334!2d115.138904607782!3f100.82414495778974!4f-5.064470755279899!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Astrakhan" %}}
+{{% notice tip %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682592891077!6m8!1m7!1s3Ghelp0Obz5R2KILeWJOrQ!2m2!1d47.04539027435337!2d47.28091762127052!3f17.77498916444501!4f-6.324368553552247!5f1.7414758897270306" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Murmansk" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593610283!6m8!1m7!1smzT1YFWdJ_pG2lxqHaMOkQ!2m2!1d69.42597249811026!2d32.04024400429769!3f81.04847318323382!4f-21.200387227218627!5f0.9526860404498659" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682592999179!6m8!1m7!1sNCa7SeT4rk0x81tcp5vKzw!2m2!1d68.86960809562187!2d33.16415005037346!3f366.02496324676616!4f-6.2774525857918775!5f3.2134784081065892" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>カムチャッカ半島に来たら火山を見ておよその位置を求められる・kamchatka volcano{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Murmansk" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593816360!6m8!1m7!1s-MmIez1Y25qLaNxd-QLJ8w!2m2!1d53.18769947704592!2d158.4690557423137!3f45.49184001276254!4f4.614983605764024!5f2.822175297043872" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
