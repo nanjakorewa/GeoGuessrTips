@@ -82,11 +82,9 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>植物の分布・地域ごとの優占樹種を把握する必要がある</li>
-        <li>樺太にはフキが生えていることが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>電話番号を見れば地域を絞り込むことができる、西から順番に<span class="quiz">4-8-3-4</span>{{% by %}}</li>
-        <li>マガダンのあたりに葉っぱが針みたいな木が多い（木の種類は不明）{{% by "niwaisound" "twitch"  %}}</li>
-        <li class="no-evidence">右ハンドルの日本車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そしてここだけGoogleCarが白い。</li>
+        <li class="important-rule">植物の分布・地域ごとの優占樹種を把握する必要がある</li>
+        <li>樺太には<span class="quiz">フキ</span>が生えていることが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>マガダンのあたりに葉っぱが<span class="quiz">針みたいな木</span>が多い（木の種類は不明）{{% by "niwaisound" "twitch"  %}}</li>
     </ul>
 </div>
 
@@ -109,7 +107,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "カラマツ（Larch）" %}}
 {{% notice tip %}}
-カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる。白樺やカラマツの生え具合を見るのが最優先。
+カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる。白樺やカラマツの生え具合を見よう。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -172,9 +170,9 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>ウクライナからシベリア南部に向けて黒っぽい肥沃な土（チェルノーゼム）が存在していて穀物の生産が盛んだ</li>
-        <li>ロシア中央北部の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>サハ共和国では霧が多い・A lot of fog in sakha republic. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>ウクライナからシベリア南部に向けて<span class="quiz">黒っぽい肥沃な土（チェルノーゼム）</span>が存在していて穀物の生産が盛んだ</li>
+        <li><span class="quiz">ロシア中央北部</span>の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li><span class="quiz">サハ共和国</span>では霧が多い・A lot of fog in sakha republic. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>アストラハンの土は特徴的・Astrakhan soil. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
     </ul>
 </div>
@@ -182,7 +180,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% tabs %}}
 {{% tab "チェルノーゼム" %}}
 {{% notice tip %}}
-赤色の領域にチェルノーゼムが分布する（画像は国連より、パブリック・ドメイン）。
+赤色の領域に<span class="quiz">チェルノーゼム</span>が分布する（画像は国連より、パブリック・ドメイン）。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="2023-04-27-21-39-12.png" />
@@ -230,12 +228,14 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>カムチャッカ半島に来たら火山を見ておよその位置を求められる・kamchatka volcano{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>カムチャッカ半島は<span class="quiz">火山</span>が特徴的・kamchatka volcano{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>電話番号を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
+        <li class="no-evidence"><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そして恐らくここだけGoogleCarが白い。</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Murmansk" %}}
+{{% tab "カムチャッカ半島" %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682593816360!6m8!1m7!1s-MmIez1Y25qLaNxd-QLJ8w!2m2!1d53.18769947704592!2d158.4690557423137!3f45.49184001276254!4f4.614983605764024!5f2.822175297043872" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
