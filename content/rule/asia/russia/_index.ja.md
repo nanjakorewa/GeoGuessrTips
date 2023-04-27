@@ -88,7 +88,7 @@ jogmec_detail: true
 <div class="googlemap-if unclickable-area" >
 <img src="2023-04-23-19-40-50.png"/>
 <div class="description-wide">
-実際にはこの図ほど単純な分布ではなくグラデーションがあるので注意。出典：『序章　国土空間からみた循環と共生の地域づくり』（環境省, https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html, 2023年4月1日に利用）
+実際にはこの図ほど単純な分布ではなくグラデーションがあるので注意。（出典：『序章　国土空間からみた循環と共生の地域づくり』 環境省, <a href="https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html">出典リンク</a>, 2023年4月1日に利用）
 </div>
 </div>
 
@@ -102,7 +102,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "カラマツ（Larch）" %}}
 {{% notice tip %}}
-カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる。白樺やカラマツの生え具合を見よう。
+カラマツ（下図の茶色の領域、Larch・Sparse Larch）の密度が場所により異なる
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -114,7 +114,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% tab "白樺（Birch・Aspen）" %}}
 
 {{% notice note %}}
-白樺やカラマツの生え具合を見るのが最優先
+白樺は見て分かりやすいので重要なヒント
 {{% /notice %}}
 
 
@@ -126,12 +126,12 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "フキ（Petasites japonicus）" %}}
 {{% notice tip %}}
-日本全体と樺太に生えている。
+日本全体と<span class="quiz">樺太</span>に生えている。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682594046159!6m8!1m7!1sTBzRHSzc6oL-MkueC5uNjA!2m2!1d46.80003013762702!2d142.3447914328627!3f231.67122236492588!4f-11.51948319389885!5f2.147977379602411" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682594097106!6m8!1m7!1sOLWGlGrpf8Tz8t3UtMGJcg!2m2!1d47.24539738065627!2d142.7481767509732!3f310.3697566181694!4f-13.354153958461097!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682601849840!6m8!1m7!1sGK4jajuQrfSbHnyFAC53aQ!2m2!1d47.30874429663321!2d142.804683801699!3f267.3418463132926!4f-2.9183321921497196!5f0.8061760348812113" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
