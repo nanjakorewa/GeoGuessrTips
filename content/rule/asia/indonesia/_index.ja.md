@@ -127,7 +127,7 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682550218436!6m8!1m7!1spEj5g1gAzsO0i0FpqPInZw!2m2!1d3.518168836598841!2d116.9739021223292!3f108.98632185076933!4f-25.726641715706066!5f1.532944057661422" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "Mollisol" %}}
+{{% tab "Inceptisol" %}}
 
 {{% notice tip %}}
 {{% by "https://en.wikipedia.org/wiki/Mollisol" "wiki" "Mollisol" %}}
