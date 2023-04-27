@@ -1,7 +1,7 @@
 ---
 title: "ロシア"
 date: 2023-02-26
-lastmod: 2023-04-01
+lastmod: 2023-04-26
 weight: 1
 draft: false
 keywords: [""]
@@ -88,7 +88,7 @@ jogmec_detail: true
 <div class="googlemap-if unclickable-area" >
 <img src="2023-04-23-19-40-50.png"/>
 <div class="description-wide">
-この図は松に出典：『序章　国土空間からみた循環と共生の地域づくり』（環境省, https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html, 2023年4月1日に利用）
+実際にはこの図ほど単純な分布ではなくグラデーションがあるので注意。出典：『序章　国土空間からみた循環と共生の地域づくり』（環境省, https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html, 2023年4月1日に利用）
 </div>
 </div>
 
