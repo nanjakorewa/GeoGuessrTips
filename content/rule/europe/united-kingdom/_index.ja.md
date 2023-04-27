@@ -29,7 +29,7 @@ plonkit: true
 車は<span class="quiz">左側</span>通行かつ、車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。ボラードや通り名の看板も多く存在する。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682637970837!6m8!1m7!1s6Z8yDl24X515Ibe_ewy76g!2m2!1d50.72347055481205!2d-4.27705684928434!3f318.9857629509309!4f-0.5124029812136968!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679667191685!6m8!1m7!1stzUNJgeyhSXxUfcCABuD9A!2m2!1d53.45816716317874!2d-1.169975428590934!3f186.57080581179196!4f-18.171506480954193!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679910265333!6m8!1m7!1ssx9zUlN6LPT7xOhGuO7faA!2m2!1d53.80077195835273!2d-1.53210151821876!3f231.25961345054426!4f-8.007779915657679!5f3.3181257949307925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -52,7 +52,7 @@ By ZElsb - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/inde
 ヘッジロウ（低木や草本類などが植栽された垣根）が道端や家の周りに存在する{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "ケンブリッジ的環境保全技術 環境保全技術 > 一覧 > 生垣（ヘッジロウ）" %}}。19世紀頃までに植えられたものが多いと考えられているがもっと古いものやちゃんと手入れされていないものも存在する{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682637107563!6m8!1m7!1s8AXiA0n4RKLqBJfl8kping!2m2!1d55.73366727049805!2d-2.28626610043485!3f68.31193629516808!4f-6.788434534796579!5f1.0890532867167337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682637970837!6m8!1m7!1s6Z8yDl24X515Ibe_ewy76g!2m2!1d50.72347055481205!2d-4.27705684928434!3f318.9857629509309!4f-0.5124029812136968!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682637334003!6m8!1m7!1seYUqO6cGbdlKGVOJFGfuZw!2m2!1d55.58927307871352!2d-5.174295574173716!3f25.259086547289854!4f-14.251102487486165!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
