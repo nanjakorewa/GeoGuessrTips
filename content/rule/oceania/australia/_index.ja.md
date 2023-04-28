@@ -53,30 +53,40 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>土の色と木の生え具合で場所を把握する</li>
+        <li>木の生え具合を把握する
+            <ul>
+                <li>濃い緑色：熱帯および亜熱帯の湿った感じの広葉樹林</li>
+                <li>黄色：熱帯および亜熱帯の草原・サバンナ・低木</li>
+                <li>緑：温帯広葉樹など</li>
+                <li>薄緑：温帯の草原・サバンナ</li>
+                <li>ブラウン：地中海性の森林、森林地帯</li>
+                <li>ベージュ：砂漠と乾燥した低木</li>
+            </ul>
+        </li>
+        <li>土の色からおおよその地域を掴む必要がある</li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "土の分布" %}}
+{{% tab "森の分布" %}}
 
 {{% notice tip %}}
-出典：Australia: soil groups, Encyclopædia Britannica, https://www.britannica.com/place/Australia/Soils#/media/1/43654/123689, Access Date 2023年4月28日
+オーストラリア付近の生態系のおおまかな区分け。（出典：By Terpsichores - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=22997727">Wikimedia commons</a>, 2023年4月28日に利用）
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-28-19-37-35.png">
+<img src="2023-04-28-23-57-39.png" />
 </div>
 {{% /tab %}}
-{{% tab "赤色の土（Durisol）" %}}
+{{% tab "西の沿岸部" %}}
 
 {{% notice tip %}}
-図の5番付近は赤色の土が多い。
+西側は赤色の土が多い、半乾燥環境の土壌{{% by "https://en.wikipedia.org/wiki/Durisol" "wiki" "durisol" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682678547620!6m8!1m7!1sdSyQrifAZvrrVJQseFBk4A!2m2!1d-26.3221379505319!2d118.6349257943489!3f106.09729794173133!4f-20.614242839106808!5f0.858093203598099" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682678558450!6m8!1m7!1sliWB1srKiPync5n5eQsFJQ!2m2!1d-26.477363089085!2d115.9399268193992!3f264.55671599679954!4f-23.305116705282316!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682692356525!6m8!1m7!1sSFWggLdCk2-mmChkPI4Zcw!2m2!1d-26.47779180674868!2d115.9399017365674!3f267.54136690904556!4f-26.621673919382616!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "北西の沿岸部" %}}
@@ -86,11 +96,11 @@ plonkit: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682678934701!6m8!1m7!1sI7gCTFFQ-mZNf0JZiwlZ0Q!2m2!1d-19.96454781117666!2d120.3007938169891!3f166.88399217315384!4f-24.007049531348983!5f1.8167948736549362" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682692667454!6m8!1m7!1sh00_BSnhnuX76WKju7wpiA!2m2!1d-20.00120433566302!2d120.0172132646969!3f195.89562580028257!4f-31.187030607802264!5f2.65220710707431" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682678921859!6m8!1m7!1sJ5QY82HFgfdx66Etg6N8tw!2m2!1d-19.05070110448284!2d121.659934079889!3f302.65141637436227!4f-27.636751423319375!5f1.329845553855269" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "白い土" %}}
+{{% tab "中央南部の沿岸部" %}}
 
 {{% notice tip %}}
 中央南部の沿岸部のみ？
@@ -99,6 +109,17 @@ plonkit: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682679216794!6m8!1m7!1suH5_zvXsgfh7bnZ4PEFPzQ!2m2!1d-31.57352676797458!2d130.1460841229353!3f177.85217915532024!4f-4.9949076904402006!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682679224290!6m8!1m7!1swypwCBSrHl0808j0IMVvyw!2m2!1d-31.5756938236704!2d129.909131412087!3f353.93739602189595!4f-5.36576901917185!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "中央部" %}}
+
+{{% notice tip %}}
+西の沿岸部と色がかなり近い気がするが草が違う？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682693579404!6m8!1m7!1stUHzuc7VGY-QRrm4QiQrbQ!2m2!1d-21.52798632796268!2d133.8895219321043!3f111.79219172583102!4f-14.525302929226342!5f2.5709587780876224" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682693611932!6m8!1m7!1sDiOvPS_t4A6dt5ayXSIB7A!2m2!1d-25.8418606083426!2d133.3000334099683!3f343.12215148567066!4f-12.308331787376588!5f1.7427477120226769" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
