@@ -60,13 +60,6 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682205300283!6m8!1m7!1so7nnqQcYEGSdeiukb3SAmA!2m2!1d51.29802272219229!2d37.84326064984084!3f109.30759063511029!4f-6.209895713528667!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-commercial" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679574074643!6m8!1m7!1sSz3YBGvX_G9GO-3a2kngPw!2m2!1d55.88166998266146!2d37.67769796696383!3f14.66120805391743!4f1.8099190264838256!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680242775381!6m8!1m7!1sS7ojz8fNEd4k1y8WtcBCxQ!2m2!1d56.51279877239423!2d84.94129512574945!3f306.8842112601572!4f-0.7627465631793484!5f2.401554287260961" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680242929738!6m8!1m7!1smL-G0iSOIEDwAYBsjb5KwA!2m2!1d56.52382737043172!2d84.99348800707942!3f56.94888952577256!4f16.229355744784556!5f3.3105564980525917" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355956674!6m8!1m7!1swCQyCCLu4h1HGAiEDuR3-A!2m2!1d47.57263938188323!2d141.9614530302049!3f334.5752388113423!4f-17.761464329133247!5f3.309016865185011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
