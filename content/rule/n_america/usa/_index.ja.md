@@ -15,10 +15,10 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li><span class="quiz">青い</span>ポスト</li>
-        <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
+        <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
     </ul>
 </div>
 
@@ -49,14 +49,14 @@ jogmec_detail: true
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li class="important-rule">ナンバープレートが前についているかと<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる[資料]</a>かも{{% by "rumilb" "twitch" %}}</li>
-        <li class="important-rule">州道の看板で州が特定できる、州道の看板が州の形になっていることがある</li>
-        <li class="important-rule">郵便局の建物の壁に州と都市名が書いてあることが多い</li>
+        <li class="important-rule">州道の看板で州が特定できることが多い。また一部の州では州の形がそのまま州道の看板になっている。</li>
         <li class="important-rule">高速道路の出口は"Exit XX"と番号が付いていてズームすると確認できる</li>
-        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
+        <li class="important-rule">郵便局の建物の壁に州と都市名が書いてあることが多い</li>
         <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
         <li>3桁の州間高速道路は下2桁が分岐元の州間高速道路の番号</li>
         <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
         <li>特定の地域のみ事業を展開するゴミ収集業者がある</li>
+        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
         <li class="no-evidence">newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
     </ul>
 </div>

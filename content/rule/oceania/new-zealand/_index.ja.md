@@ -18,7 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.nz</span></li>
-        <li>ボラードが<span class="quiz">赤色で塗られている</span>。<span class="quiz">赤色</span>がボラードの<span class="quiz">表裏</span>に塗られているが、<span class="quiz">オーストラリア</span>のものは<span class="quiz">片方しか塗られていない</span>ので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
+        <li>ボラードの反射板が<span class="quiz">赤色</span>。色がボラードの<span class="quiz">表裏</span>に塗られているが<span class="quiz">オーストラリア</span>のものは<span class="quiz">片方しか塗られていなかったり丸い形だったりする</span>ので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
         <li>GIVE WAY（道を譲れ・他の車が優先）が黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
 </div>

@@ -15,10 +15,10 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
+        <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>Dhaka bankのロゴがあるかも</li>
     </ul>
 </div>

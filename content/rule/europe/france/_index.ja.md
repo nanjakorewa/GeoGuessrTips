@@ -30,7 +30,7 @@ jetro_detail: true
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681048066604!6m8!1m7!1sYWHe9Zlc-WPOSc_comFbDA!2m2!1d42.70116600989535!2d2.896681430311358!3f49.92435327323158!4f-6.833316766170071!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682694839566!6m8!1m7!1s-EOPnKG5ACpPjzixTD-y8A!2m2!1d42.70109595323554!2d2.896447765312585!3f161.64927566749!4f0.6651892620051711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 

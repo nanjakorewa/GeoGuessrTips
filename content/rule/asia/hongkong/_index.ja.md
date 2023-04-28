@@ -25,7 +25,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>。黒いナンバープレートやサイズの異なるプレートを付けている車もいる。
+ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>。背景が黒いナンバープレートならば澳門の可能性を考える。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682669362773!6m8!1m7!1sg7CArHLgvovxhEnlWdkHUg!2m2!1d22.26614345083903!2d114.1798663403918!3f74.35731108111615!4f-12.1637470023567!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

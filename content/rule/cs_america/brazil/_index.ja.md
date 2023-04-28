@@ -15,10 +15,10 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>ドメインは<span class="quiz">.br</span></li>
-        <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、タイなどにも似たようなものがある</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
+        <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、タイなどにも似たようなものがある</li>
+        <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。</li>
     </ul>
 </div>
@@ -26,13 +26,6 @@ jogmec_detail: true
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}
-家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは特定できないと思う
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681050515831!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f18.826192035204055!4f11.51661489691665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680562511215!6m8!1m7!1sZw0Wa2bHwrVo4G0talSJBg!2m2!1d-4.575281620209909!2d-44.65465530257557!3f114.024883564455!4f-2.6355661063917495!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
 標識の裏側が<span class="quiz">黒い</span>ものが多い
@@ -40,6 +33,14 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682551162530!6m8!1m7!1sMk968VRjDczmNQ9PyjQTjw!2m2!1d-9.71648540938991!2d-68.13882693870039!3f255.15618007721577!4f-7.587449892091357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは特定できないと思う
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681050515831!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f18.826192035204055!4f11.51661489691665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680562511215!6m8!1m7!1sZw0Wa2bHwrVo4G0talSJBg!2m2!1d-4.575281620209909!2d-44.65465530257557!3f114.024883564455!4f-2.6355661063917495!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
