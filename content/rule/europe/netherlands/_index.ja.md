@@ -15,9 +15,9 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ナンバープレートは<span class="quiz">青色と黄色</span>、前後を見てこの色ならオランダになる</li>
         <li>ドメインは<span class="quiz">.nl</span></li>
-        <li>標高については<span class="quiz">国土の4分の1が海抜0m以下で最高地点も約333m、平らで高い山が無い</span></li>
+        <li>ナンバープレートは<span class="quiz">黄色</span>、前後を見てこの色ならオランダになる</li>
+        <li>標高について<span class="quiz">国土の4分の1が海抜0m以下で最高地点も約333m、平らで高い山が無い</span></li>
         <li>家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に棒や突起物がある時も。</li>
         <li>自転車を走る道路（Fietspad）が国中に整備されている、茶色っぽい路面か赤レンガで舗装されているケースが多い。</li>
     </ul>
