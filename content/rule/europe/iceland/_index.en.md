@@ -16,10 +16,10 @@ jetro_detail: false
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>There is a yellow bollard {{% by %}}</li>
-        <li>The domain is ".is" </li>
-        <li>Only 1% of the land is arable and the soil is generally black</li>
-        <li>The only vegetation in its natural state is moss and needle grass</li>
+        <li>There is a <span class="quiz">yellow bollard</span> {{% by %}}</li>
+        <li>The domain is <span class="quiz">".is"</span> </li>
+        <li>Only 1% of the land is arable and the soil is generally <span class="quiz">black</span></li>
+        <li>The only vegetation in its natural state is <span class="quiz">moss and needle grass</span></li>
         <li>The topography was created by lava, and there are irregular rivers and wetlands. There are almost no rivers with straight banks.</li>
         <li>Note that there is no blue line on the left side of the license plate.</li>
     </ul>
