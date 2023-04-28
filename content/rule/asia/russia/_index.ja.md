@@ -72,7 +72,7 @@ jogmec_detail: true
     <ul class="rule-list">
         <li class="important-rule">植物の分布・地域ごとの優占樹種を把握する必要がある</li>
         <li>樺太には<span class="quiz">フキ</span>が生えていることが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>マガダンのあたりに葉っぱが<span class="quiz">針みたいな木</span>が多い（木の種類は不明）{{% by "niwaisound" "twitch"  %}}</li>
+        <li>マガダンのあたりに葉っぱが<span class="quiz">針みたいな木</span>が多い{{% by "niwaisound" "twitch"  %}}</li>
     </ul>
 </div>
 
@@ -107,7 +107,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% tab "白樺（Birch・Aspen）" %}}
 
 {{% notice note %}}
-白樺・シラカンバは見て分かりやすいので重要なヒント
+白樺・シラカンバは見て分かりやすいので重要なヒント。
 {{% /notice %}}
 
 
@@ -130,7 +130,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "トウヒ属（Spruce）" %}}
 {{% notice tip %}}
-トウヒ属が北西の山脈付近とその西に多い
+トウヒ属が北西の山脈付近とその西に多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -147,9 +147,23 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 {{% /tab %}}
 {{% tab "マガダン（Магадан）" %}}
 
+{{% notice tip %}}
+マガダンを中心にある程度広い範囲で葉っぱが<span class="quiz">針みたいな木</span>が多いが正確な木の種類は不明。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682595589411!6m8!1m7!1sKhLxRXlHe_4iudNYEVLdGA!2m2!1d59.79274005124346!2d150.952737054086!3f265.52193994456815!4f11.745221259068671!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682595755523!6m8!1m7!1sscOmIl_TTF06pbU0Bh6SpQ!2m2!1d59.6857054558386!2d150.2522404951254!3f212.83042143001356!4f17.988853656241574!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "ダケカンバ（Erman's Birch）" %}}
+
+{{% notice tip %}}
+ダケカンバはカムチャッカ半島に多いらしい。枝の色が白色ならばダケカンバ・黒っぽいなら白樺と見分けられるかも。左はカムチャッカ半島の木で右はシラカンバの木と思われるもの{{% by "https://tozan-syoshinsya.com/difference-dakekanba-sirakanba/" "web" "見分けられる？「ダケカンバ」と「白樺」の違い | 登山初心者.com" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682672594123!6m8!1m7!1s2znEO9jGLNcA-zmrQEMeSA!2m2!1d55.13779347299879!2d159.0039405328214!3f325.9362387031334!4f-2.4417722653859926!5f3.213004958653771" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682672256628!6m8!1m7!1siZxhuDzLoPZuue_wYupEyw!2m2!1d56.16152087883435!2d44.50323908858864!3f108.38233349465402!4f28.37857336559904!5f3.3141713912466595" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
