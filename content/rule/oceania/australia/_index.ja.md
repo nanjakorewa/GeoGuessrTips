@@ -53,7 +53,13 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>ナンバープレートの色で地域が分かるかもしれないが、モザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li>クリスマス島が出題されることがある
+            <ul>
+                <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
+                <li>クリスマスアカガニが数千万個体いるらしく（<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B">出典</a>）カニに対する注意喚起がある。道の上に橋が掛けられていたりして、カニが道をわたることができるような工夫もある。落ち葉も食べる。カニの予感がしたらこの島かも？</li>
+            </ul>
+        </li>
         <li>電話番号のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
@@ -61,11 +67,6 @@ plonkit: true
                 <li>04：<span class="quiz">オーストラリア中の携帯電話、場所指定無し</span></li>
                 <li>07：<span class="quiz">Queensland</span></li>
                 <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
-            </ul>
-        <li>クリスマス島が出題されることがある
-            <ul>
-                <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
-                <li>クリスマスアカガニが数千万個体いるらしく（<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B">出典</a>）カニに対する注意喚起がある。道の上に橋が掛けられていたりして、カニが道をわたることができるような工夫もある。落ち葉も食べる。カニの予感がしたらこの島かも？</li>
             </ul>
         </li>
     </ul>
