@@ -17,7 +17,7 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>道端で<span class="quiz">タバコ</span>がよく売られていて、家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
-        <li>ナンバープレートに<span class="quiz">黒い</span>ものがある。一部はナンバープレートが三つに分かれて見えるかもしれない。</li>
+        <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が三つに分かれて見えるかもしれない</li>
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
         <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
     </ul>
@@ -34,7 +34,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。他にはBank Negara Indonesia Tbk PT・Bank Maybank Indonesia Tbk PTなど。
+<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,7 +42,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。GGSPと書かれたのれんは<span class="quiz">タバコ</span>メーカーGudang Garam Tbk PTのこと。
+道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。GGSPと書かれたのれんは<span class="quiz">タバコ</span>メーカーGudang Garam Tbk PTに関するのれん。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
