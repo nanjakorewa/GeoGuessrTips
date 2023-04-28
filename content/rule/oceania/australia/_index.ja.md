@@ -53,6 +53,59 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
+        <li>土の色と木の生え具合で場所を把握する</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "土の分布" %}}
+
+{{% notice tip %}}
+出典：Australia: soil groups, Encyclopædia Britannica, https://www.britannica.com/place/Australia/Soils#/media/1/43654/123689, Access Date 2023年4月28日
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="2023-04-28-19-37-35.png">
+</div>
+{{% /tab %}}
+{{% tab "赤色の土（Durisol）" %}}
+
+{{% notice tip %}}
+図の5番付近は赤色の土が多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682678547620!6m8!1m7!1sdSyQrifAZvrrVJQseFBk4A!2m2!1d-26.3221379505319!2d118.6349257943489!3f106.09729794173133!4f-20.614242839106808!5f0.858093203598099" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682678558450!6m8!1m7!1sliWB1srKiPync5n5eQsFJQ!2m2!1d-26.477363089085!2d115.9399268193992!3f264.55671599679954!4f-23.305116705282316!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "北西の沿岸部" %}}
+
+{{% notice tip %}}
+北西沿岸部の道は特に赤い土が多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682678934701!6m8!1m7!1sI7gCTFFQ-mZNf0JZiwlZ0Q!2m2!1d-19.96454781117666!2d120.3007938169891!3f166.88399217315384!4f-24.007049531348983!5f1.8167948736549362" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682678921859!6m8!1m7!1sJ5QY82HFgfdx66Etg6N8tw!2m2!1d-19.05070110448284!2d121.659934079889!3f302.65141637436227!4f-27.636751423319375!5f1.329845553855269" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "白い土" %}}
+
+{{% notice tip %}}
+中央南部の沿岸部のみ？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682679216794!6m8!1m7!1suH5_zvXsgfh7bnZ4PEFPzQ!2m2!1d-31.57352676797458!2d130.1460841229353!3f177.85217915532024!4f-4.9949076904402006!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682679224290!6m8!1m7!1swypwCBSrHl0808j0IMVvyw!2m2!1d-31.5756938236704!2d129.909131412087!3f353.93739602189595!4f-5.36576901917185!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域の絞り込み</h2>
+    <ul class="rule-list">
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li>クリスマス島が出題されることがある
             <ul>

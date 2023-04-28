@@ -17,3 +17,8 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     メイン州・ニューハンプシャー州・バーモント州・マサチューセッツ州・ロードアイランド州・コネチカット州・ニューヨーク州・ニュージャージー州・ペンシルベニア州
 </div>
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682682588644!6m8!1m7!1sU9I82vccl0iX_k7WeYRI3g!2m2!1d41.02449166162386!2d-73.66939756248422!3f338.45132945054974!4f-17.650546502736688!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
