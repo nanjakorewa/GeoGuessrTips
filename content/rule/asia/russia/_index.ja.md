@@ -159,8 +159,8 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>ウクライナからシベリア南部に向けて<span class="quiz">黒っぽい肥沃な土（チェルノーゼム）</span>が存在していて穀物の生産が盛んだ</li>
-        <li><span class="quiz">ロシア中央北部</span>の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>アストラハンの土は特徴的・Astrakhan soil. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li><span class="quiz">ロシア中央北部</span>の道沿いには砂が溜まっている{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>アストラハンの土は特徴的 {{% by "sound_of_silence_wl" "twitch"  %}}</li>
     </ul>
 </div>
 
@@ -214,8 +214,8 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>カムチャッカ半島は<span class="quiz">火山</span>が特徴的・kamchatka volcano{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧が多い・A lot of fog in sakha republic. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li>カムチャッカ半島は<span class="quiz">火山</span>が特徴的{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧が多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そして恐らくここだけGoogleCarが白い。</li>
         <li>電話番号を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
     </ul>
