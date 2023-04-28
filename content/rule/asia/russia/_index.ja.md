@@ -152,7 +152,7 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 </div>
 
 {{% /tab %}}
-{{% tab "マガダンの木" %}}
+{{% tab "マガダン（Магадан）" %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682595589411!6m8!1m7!1sKhLxRXlHe_4iudNYEVLdGA!2m2!1d59.79274005124346!2d150.952737054086!3f265.52193994456815!4f11.745221259068671!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -167,7 +167,6 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
     <ul class="rule-list">
         <li>ウクライナからシベリア南部に向けて<span class="quiz">黒っぽい肥沃な土（チェルノーゼム）</span>が存在していて穀物の生産が盛んだ</li>
         <li><span class="quiz">ロシア中央北部</span>の道沿いには砂が溜まっている・The road has sand on the side in the central north provinces of russia. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li><span class="quiz">サハ共和国</span>では霧が多い・A lot of fog in sakha republic. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>アストラハンの土は特徴的・Astrakhan soil. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
     </ul>
 </div>
@@ -192,14 +191,6 @@ Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Ev
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682593135403!6m8!1m7!1sAXjiMjz0FuTfXpcgw9QSiA!2m2!1d61.32360648914798!2d73.5004540012826!3f314.6424471983432!4f-22.122936953565286!5f1.4287103789210138" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682593189315!6m8!1m7!1sLEOmOMDYwoh-dQfYJGkcIg!2m2!1d62.34034727413466!2d74.38948683224079!3f353.1659907439324!4f-22.317441934895115!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab %}}
-{{% tab "サハ共和国" %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682593451775!6m8!1m7!1smvBAq_gq6ACgAET3AiXuTw!2m2!1d62.47217693763402!2d114.0850622327975!3f110.86056678755799!4f-1.1021088798863445!5f1.4289035379558852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682593458825!6m8!1m7!1sAnR8gqxaiejy6tovHsYlkQ!2m2!1d62.34972187595334!2d115.138904607782!3f100.82414495778974!4f-5.064470755279899!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -231,8 +222,9 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>カムチャッカ半島は<span class="quiz">火山</span>が特徴的・kamchatka volcano{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧が多い・A lot of fog in sakha republic. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そして恐らくここだけGoogleCarが白い。</li>
         <li>電話番号を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
-        <li class="no-evidence"><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そして恐らくここだけGoogleCarが白い。</li>
     </ul>
 </div>
 
@@ -241,6 +233,21 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682593816360!6m8!1m7!1s-MmIez1Y25qLaNxd-QLJ8w!2m2!1d53.18769947704592!2d158.4690557423137!3f45.49184001276254!4f4.614983605764024!5f2.822175297043872" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Sakha Republic" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593451775!6m8!1m7!1smvBAq_gq6ACgAET3AiXuTw!2m2!1d62.47217693763402!2d114.0850622327975!3f110.86056678755799!4f-1.1021088798863445!5f1.4289035379558852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682593458825!6m8!1m7!1sAnR8gqxaiejy6tovHsYlkQ!2m2!1d62.34972187595334!2d115.138904607782!3f100.82414495778974!4f-5.064470755279899!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "右ハンドル車" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682640169691!6m8!1m7!1sTVEP6_lqA8s6ypR4NDZZYA!2m2!1d43.12145160217951!2d131.9037337317685!3f31.835350079113184!4f-9.96351995774549!5f3.211570565155801" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
