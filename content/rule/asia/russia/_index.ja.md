@@ -229,7 +229,7 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 </div>
 
 {{% /tab %}}
-{{% tab "Sakha Republic" %}}
+{{% tab "サハ共和国" %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682593451775!6m8!1m7!1smvBAq_gq6ACgAET3AiXuTw!2m2!1d62.47217693763402!2d114.0850622327975!3f110.86056678755799!4f-1.1021088798863445!5f1.4289035379558852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

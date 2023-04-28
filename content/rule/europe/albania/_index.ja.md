@@ -26,16 +26,6 @@ plonkit: false
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ほとんどの地域でカメラに線が入っている
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681170588295!6m8!1m7!1segWVKwWr-SK3D17ZbM-wZA!2m2!1d41.16613852694356!2d20.20041411394961!3f311.52613228878727!4f48.98466247439279!5f1.92064061173707" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681170427184!6m8!1m7!1sdzplAy3rQjkNlhLJ8Nt4zA!2m2!1d40.78765861267236!2d19.83903932072083!3f254.42145253072394!4f8.920585084653908!5f2.134031108121613" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-
-{{% notice tip %}}
 アルバニアでは貯水タンクが屋根の上にあることが多い。多くの家庭ではタンクを屋根に置いており、ポンプで揚水している（[出典：アルバニア共和国ティラナ首都圏下水システム改善計画調査事前調査報告書 調査対象地域の概要](https://openjicareport.jica.go.jp/pdf/11808011_02.pdf)）。
 {{% /notice %}}
 
@@ -45,20 +35,31 @@ plonkit: false
 </div>
 
 {{% notice tip %}}
-アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。
+アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。
 {{% /notice %}}
 
-{{% lb %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682656215454!6m8!1m7!1sjoj8ptYgNoIxwQ2_Wz8sUg!2m2!1d41.10997437521036!2d20.08439876062804!3f316.9439774499205!4f-9.142457873246414!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682656333905!6m8!1m7!1s2ySYWyXEaaHaXvdZa77PUA!2m2!1d41.6628313556615!2d19.67760796400589!3f182.97555447753484!4f-6.567823652036594!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
 ![](2023-04-16-10-59-35.png)
 
 By BasilLeaf - CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113059758">Wikimedia Commons</a>
 
-![](2023-04-16-11-00-24.png)
+![](2023-04-28-13-33-12.png)
 
-CC0, Repetitive registration plate from Albania
-
-
+Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339">Wikimedia Commons</a>
 {{% /lb %}}
+
+{{% notice tip %}}
+ほとんどの地域でカメラに線が入っている
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681170588295!6m8!1m7!1segWVKwWr-SK3D17ZbM-wZA!2m2!1d41.16613852694356!2d20.20041411394961!3f311.52613228878727!4f48.98466247439279!5f1.92064061173707" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681170427184!6m8!1m7!1sdzplAy3rQjkNlhLJ8Nt4zA!2m2!1d40.78765861267236!2d19.83903932072083!3f254.42145253072394!4f8.920585084653908!5f2.134031108121613" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% tab "w-building" %}}
