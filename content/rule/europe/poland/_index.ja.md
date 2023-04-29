@@ -17,6 +17,7 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pl</span></li>
         <li>教会の場所も場所を絞り込む上で参考にできる（教会マークがある）</li>
+        <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}</li>
     </ul>
 </div>
 
@@ -24,6 +25,16 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+ポーランドの横断歩道標識は特徴的
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682772473689!6m8!1m7!1s9xByanNehhydKw-ku1ER3A!2m2!1d50.27154241645962!2d19.01936023777959!3f151.24262167412385!4f4.860677637387511!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% notice tip %}}
 電柱の形が細く、一番下は穴が開いていない。
 {{% /notice %}}

@@ -49,6 +49,13 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123649144!6m8!1m7!1sIfcsuEIlVqEMwkPPYJg9Pw!2m2!1d0.585178825786272!2d101.3853830961266!3f172.409679315489!4f4.21978728436487!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "w-road" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682778342808!6m8!1m7!1sQM84rM9Z5bNVCy3Trd364g!2m2!1d-8.27965791336707!2d118.4407403780819!3f209.7921306950951!4f16.736777405904192!5f2.504720619618973" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% notice tip %}}
 モザイクのかかり方によってはナンバープレートが三つに分かれて見えるかも...？また白以外にも黄色や赤のナンバープレートも存在する。
