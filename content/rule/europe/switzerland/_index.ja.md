@@ -40,6 +40,11 @@ jetro_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681178766716!6m8!1m7!1sqU0RhMQ03W8MoGUaDo-WCw!2m2!1d47.50194796620642!2d8.748133434807883!3f204.86056058662615!4f8.314344385362517!5f2.69298479494764" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "w-road" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682747509558!6m8!1m7!1sGAihb23_lR7kSq6nxjXYKQ!2m2!1d47.02159076020624!2d7.500673381466769!3f158.77670136091865!4f-0.5498775302401384!5f3.293433733170092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679244668707!6m8!1m7!1sHra-7aZpgqLP7iI8XFgXtA!2m2!1d46.43315174679127!2d6.213722842307408!3f45.06237691668897!4f-18.81163556144068!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

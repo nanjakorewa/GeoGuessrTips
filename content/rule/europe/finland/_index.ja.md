@@ -16,8 +16,10 @@ plonkit: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fi</span></li>
+        <li>北欧で横断歩道が<span class="quiz">5</span>本はフィンランド</li>
         <li>標識の背景色に<span class="quiz">オレンジ色</span>が多い{{% by %}}</li>
-        <li>北欧で横断歩道が<span class="quiz">5</span>本はフィンランド。速度標識黄色はフィンとスウェーデン。フィンは速度標識の<span class="quiz">まわりに黄色の細い円</span>あり{{% by "usumdensetu" "twitch" %}}</li>
+        <li>速度標識の背景が<span class="quiz">オレンジ色</span>なのはフィンランドとスウェーデン</li>
+        <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
     </ul>
 </div>
@@ -58,6 +60,11 @@ plonkit: true
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
+
+{{% notice tip %}}
+北欧は濃い赤色（ファールン赤）で塗られたログハウスが特徴的{{% by "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%B3%E8%B5%A4" "wiki" "ファールン赤" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681603219451!6m8!1m7!1sCAoSLEFGMVFpcE5sV1lxZzJhVmxyV1dlbjdabF9INFM2SGs4QzdZdUJ5cGZqTnpG!2m2!1d66.47400349870854!2d25.77805517560248!3f200.62698346344465!4f5.666424746809113!5f1.6727209384642365" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -68,5 +75,27 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680258023177!6m8!1m7!1sCAoSK0FGMVFpcE4xSnZfNUY0VUQtOXdHU1BaRmRVcUpndmVjY2RxWUx2MDVZZkU.!2m2!1d64.79049293577131!2d28.86883061036374!3f37.19906091178483!4f-9.018507226864358!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680258157281!6m8!1m7!1s2yXz9ScGow_kAdVuldyAgA!2m2!1d62.5627184508939!2d22.89723479065259!3f296.6156076712753!4f-20.04210075493647!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "言語" %}}
+
+{{% notice tip %}}
+フィンランド語はウラル語系、スウェーデン・ノルウェー・デンマーク・アイスランドなどはノルド語系の言語。フィンランド語では母音を2つ並べることがある。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>言語名</th> <th>表記</th>
+</tr>
+<tr><td><span class="quiz">日本語</span></td><td>ここは一方通行のゾーンです</td></tr>
+<tr><td><span class="quiz">英語</span></td><td>This is a one-way zone.</td></tr>
+<tr><td><span class="quiz">スウェーデン語</span></td><td>Det här är en enkelriktad zon.</td></tr>
+<tr><td><span class="quiz">ノルウェー語</span></td><td>Dette er en enveiskj<span class="f-enlarge">ø</span>ringssone.</td></tr>
+<tr><td><span class="quiz">デンマーク語</span></td><td>Dette er en ensrettet zone.</td></tr>
+<tr><td><span class="quiz">フィンランド語</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
+</table>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}

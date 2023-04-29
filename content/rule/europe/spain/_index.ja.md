@@ -18,19 +18,20 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインとアンドラのみ</li>
-        <li>ポストが<span class="quiz">黄色</span>なのは昔はその色の馬車で郵便を運んでいたため{{% by "https://adelante.jp/noticias/blog/el-buzon-amarillo/" "web" "スペインの黄色いポストの秘密" %}}</li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
-        <li>道路の線に黄色やオレンジが使用されていない</li>
+        <li>道路の線は基本的に白のみ</li>
+        <li>ポストが<span class="quiz">黄色</span>なのは昔はその色の馬車で郵便を運んでいたため{{% by "https://adelante.jp/noticias/blog/el-buzon-amarillo/" "web" "スペインの黄色いポストの秘密" %}}？</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本
+歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い。また道路の近くに小型の鉄塔のような電柱がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679833645337!6m8!1m7!1sr4npdngJC80p4rFdWKuG6A!2m2!1d40.47024946657344!2d-3.583365310372443!3f127.7556848149795!4f2.493022455824061!5f2.981978623692435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682750246389!6m8!1m7!1sH-kvDZjpYYQA0YgCBpOz1A!2m2!1d38.65002359980011!2d0.05158672956871693!3f249.01813011224797!4f16.516204694038308!5f1.7444091571384015" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% notice tip %}}
 <span class="quiz">黄色</span>の丸いポストが特徴的。ついでにボラードも黄色い。
@@ -43,6 +44,9 @@ plonkit: true
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679835046812!6m8!1m7!1sIcn0WjC0dhsYUkbXlekeCA!2m2!1d36.34072203164956!2d-5.318748757553146!3f351.73030040545405!4f-5.518956432826343!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682750307055!6m8!1m7!1s_PZpttpMCreCdZxd4VymEw!2m2!1d37.67128003375031!2d-1.69700786888118!3f249.2822356783527!4f16.84532252672038!5f1.5201396284276871" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682750523655!6m8!1m7!1s_QeWHES_4wbNUSWBo7hSYA!2m2!1d36.74881842082745!2d-4.719686215448228!3f180.2652948549871!4f8.383923589280442!5f1.7435841889690247" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682750592878!6m8!1m7!1sWECXPFDANMhmof5h5jYjXw!2m2!1d41.62705376780684!2d-4.730796097494013!3f228.18802077947825!4f12.274010679328498!5f1.6723009221009915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -70,8 +74,11 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>環状道路と高速道路には都市を識別する文字が先頭についている。例）BIならばビルバオ付近</li>
-        <li>青色でA、APで始まるものはほとんどが都市間の高速道路（Pが付くと有料、アリカンテのみA-7Xで始まる環状道路）{{% by "https://en.wikipedia.org/wiki/Highways_in_Spain" "wiki" "Highways in Spain" %}}</li>
+        <li>環状道路と高速道路には都市を識別する文字が先頭についていることが多い
+            <ul>
+                <li>例：BIならばビルバオ付近</li>
+            </ul>
+        </li>
         <li>スペイン領カナリア諸島が出る</li>
     </ul>
 </div>

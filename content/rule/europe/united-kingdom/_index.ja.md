@@ -40,7 +40,7 @@ By ZElsb - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/inde
 {{% /lb %}}
 
 {{% notice tip %}}
-レンガ造りが多いならばイギリスを、白っぽい建物が多いならばアイルランドを検討する（以下の左がイギリス、右がアイルランド）{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
+レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討しよう（以下の左がイギリス、右がアイルランド）{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682429298949!6m8!1m7!1sCfG07BPDdW1kglYmnkoQRA!2m2!1d52.90580107085533!2d-2.485725222078184!3f138.39531165156137!4f7.275689425114649!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -49,7 +49,7 @@ By ZElsb - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/inde
 
 
 {{% notice tip %}}
-ヘッジロウ（低木や草本類などが植栽された垣根）が道端や家の周りに存在する{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "ケンブリッジ的環境保全技術 環境保全技術 > 一覧 > 生垣（ヘッジロウ）" %}}。19世紀頃までに植えられたものが多いと考えられているがもっと古いものやちゃんと手入れされていないものも存在する{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}。
+<span class="quiz">ヘッジロウ（低木や草本類などが植栽された垣根）</span>が道端や家の周りに存在する{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "ケンブリッジ的環境保全技術 環境保全技術 > 一覧 > 生垣（ヘッジロウ）" %}}。19世紀より前に作られた古いものやちゃんと手入れされていないものも存在する{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682637970837!6m8!1m7!1s6Z8yDl24X515Ibe_ewy76g!2m2!1d50.72347055481205!2d-4.27705684928434!3f318.9857629509309!4f-0.5124029812136968!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

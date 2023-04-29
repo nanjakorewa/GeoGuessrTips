@@ -19,7 +19,8 @@ plonkit: true
         <li>ドメインは<span class="quiz">.se</span></li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本</li>
         <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
-        <li>看板の矢印の形が鉛筆の先みたいになっている（▶のような塗りつぶしではないということ）{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li>看板の矢印の形が特徴的で綺麗な▷ではない{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある</li>
     </ul>
 </div>
 
@@ -36,7 +37,7 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-看板の矢印の形が鉛筆の先みたいになっている（▶のような塗りつぶし or 綺麗な▷ではないということ）
+看板の矢印の形が特徴的で綺麗な▷ではない{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520120527!6m8!1m7!1s-plX9mxe_3c-75JrMbFwxw!2m2!1d60.19231843145348!2d12.66952427707943!3f150.08783051938525!4f-8.009418602090491!5f2.8630713791201936" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -54,14 +55,15 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682429601439!6m8!1m7!1sxZTEAilDXDKggcX87lxyZA!2m2!1d60.57123524898973!2d24.82397245532861!3f61.200242696597066!4f3.1140795134728023!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679326072110!6m8!1m7!1sb5UvJDEylelh20cYts6y7A!2m2!1d55.60786361942763!2d13.00961879039393!3f232.12827964155636!4f1.3543285196388268!5f2.549650980081894" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681074938332!6m8!1m7!1sEEev1NenouNljoyMkT5XEA!2m2!1d62.87693912536331!2d17.85502265977901!3f119.40501384692917!4f-9.916002951467576!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
-{{% tab "w-plant" %}}
+{{% tab "w-building" %}}
+
+{{% notice tip %}}
+北欧は濃い赤色（ファールン赤）で塗られたログハウスが特徴的{{% by "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%B3%E8%B5%A4" "wiki" "ファールン赤" %}}。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679498521351!6m8!1m7!1s6dOsS8BdZ_T9v2l8G7Dyyg!2m2!1d66.55155599593365!2d22.32995993839439!3f234.6344569386813!4f-8.265704279966542!5f0.8475810262796575" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682745621894!6m8!1m7!1spzanVdstKKkZW_y0rpcj9Q!2m2!1d63.92900687925968!2d19.22055359549862!3f55.37899597670119!4f2.674939345200073!5f1.2106999950302133" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682745757637!6m8!1m7!1sTrcO9gwCCqcPEvPe6IjFww!2m2!1d65.6269717125178!2d22.14486672910409!3f190.66619802913607!4f1.4604768883245072!5f3.314058561927098" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "言語" %}}

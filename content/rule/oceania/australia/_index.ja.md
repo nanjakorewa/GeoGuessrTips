@@ -111,7 +111,7 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682679224290!6m8!1m7!1swypwCBSrHl0808j0IMVvyw!2m2!1d-31.5756938236704!2d129.909131412087!3f353.93739602189595!4f-5.36576901917185!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "中央部" %}}
+{{% tab "内陸の中央部" %}}
 
 {{% notice tip %}}
 西の沿岸部と色がかなり近い気がするが草が違う？

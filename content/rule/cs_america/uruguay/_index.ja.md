@@ -15,6 +15,7 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.uy</span></li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
         <li>国全域がパンパ（草原地帯）におおわれていて、牛や羊の牧畜が行われている</li>

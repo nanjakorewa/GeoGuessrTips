@@ -15,6 +15,7 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
         <li>ドメインは<span class="quiz">.mx</span></li>

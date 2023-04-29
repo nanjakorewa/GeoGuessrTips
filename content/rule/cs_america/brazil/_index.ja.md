@@ -16,6 +16,7 @@ jogmec_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.br</span></li>
+        <li>言語は<span class="quiz">ポルトガル</span>語</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
         <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、タイなどにも似たようなものがある</li>
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>

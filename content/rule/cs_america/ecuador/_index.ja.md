@@ -14,6 +14,7 @@ jetro_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.ec</span></li>
     </ul>
 </div>

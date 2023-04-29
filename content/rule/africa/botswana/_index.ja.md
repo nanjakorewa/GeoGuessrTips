@@ -19,8 +19,8 @@ plonkit: true
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
         <li><span class="quiz">黄色と黒</span>の色のポールが多い</li>
-        <li>道路はざらざらした表面で、路側帯は<span class="quiz">オレンジ</span>（無い場所もある）</li>
-        <li>中央部（中央カラハリ動物保護区、野生でキリンとかライオンとかがいる）は道が無いのでストリートビューが無い</li>
+        <li>道路はざらざらした表面で、路側帯は<span class="quiz">オレンジ</span>色（無い場所もある）</li>
+        <li>中央部は道が無いのでストリートビューが無い</li>
         <li class="no-evidence">ナンバープレートは白・黄・青が混在している</li>
         <li class="no-evidence">国土の70%がカラハリ砂漠と重なっていて国土全体が平ら</li>
     </ul>

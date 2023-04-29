@@ -14,6 +14,7 @@ jetro_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.pe</span></li>
         <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い</li>
         <li class="no-evidence">電柱は<span class="quiz">道路側（同じ向き？）に３～４本棒が付きだしている</span>ものがある。</li>
