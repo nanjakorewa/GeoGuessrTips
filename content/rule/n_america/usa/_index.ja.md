@@ -121,6 +121,7 @@ jogmec_detail: true
     <h2 class="section-title">農業の分布</h2>
     <ul class="rule-list">
         <li>コーンベルトに沿ってコーンの生産が盛ん</li>
+        <li>小麦の画像のみ一部加工あり（他の画像と地図が同じ形になるようにマップを加工）</li>
         <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(USDA)</a></li>
     </ul>
 </div>
