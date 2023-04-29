@@ -48,21 +48,25 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li class="important-rule">ナンバープレートが前についているかと<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を特定できる[資料]</a>かも{{% by "rumilb" "twitch" %}}</li>
-        <li class="important-rule">州道の看板で州が特定できることが多い。また一部の州では州の形がそのまま州道の看板になっている。</li>
-        <li class="important-rule">高速道路の出口は"Exit XX"と番号が付いていてズームすると確認できる</li>
-        <li class="important-rule">郵便局の建物の壁に州と都市名が書いてあることが多い</li>
-        <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
-        <li>3桁の州間高速道路は下2桁が分岐元の州間高速道路の番号</li>
-        <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
-        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
-        <li class="no-evidence">newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
+        <li class="important-rule">① ナンバープレートが前についているかどうか・<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を絞り込める[資料]</a>かも{{% by "rumilb" "twitch" %}}
+            <ul>
+                <li class="no-evidence">newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
+            </ul>
+        </li>
+        <li>② 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
+        <li>③ 州間高速道路と州道の看板を見つけたら位置を絞り込める
+            <ul>
+                <li class="important-rule">州道の看板で州が特定できることが多い。また一部の州では州の形がそのまま
+                <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
+                <li>高速道路の出口は"Exit 1"といった感じで番号が付いていてズームすると確認できる</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
-{{% tab "ナンバープレート" %}}
+{{% tab "①ナンバープレート" %}}
 {{% notice tip %}}
 まず、前にナンバープレートを付ける必要がないエリア（黄色のエリア）を覚えてからナンバープレートの色を覚える。テキサス州が前にもある点、北東のデラウェア州が前に付いていない点が忘れがちなので注意（画像出典：By Raccoonny - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）。
 {{% /notice %}}
@@ -71,7 +75,14 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "州道の看板" %}}
+{{% tab "②郵便局の壁" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "③州道の看板" %}}
 
 <div class="googlemap-if">
 <div class="description-wide">
@@ -99,13 +110,6 @@ jogmec_detail: true
 </div>
 </div>
 {{% /tab %}}
-{{% tab "郵便局の壁" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "アメリカ攻略講座" %}}
 {{% notice tip %}}
 {{% /notice %}}
@@ -120,8 +124,6 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">農業の分布</h2>
     <ul class="rule-list">
-        <li>コーンベルトに沿ってコーンの生産が盛ん</li>
-        <li>小麦の画像のみ一部加工あり（他の画像と地図が同じ形になるようにマップを加工）</li>
         <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(USDA)</a></li>
     </ul>
 </div>
@@ -204,6 +206,17 @@ jogmec_detail: true
 <img src="2023-04-29-12-07-38.png">
 </div>
 
+{{% notice note %}}
+コーンや大豆と地域が重複していない。小麦の画像のみ一部加工しています（他の画像と地図が同じ形になるようにマップを加工）。
+{{% /notice %}}
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">更に細かいヒント</h2>
+    <ul class="rule-list">
+        <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
+        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
+    </ul>
+</div>
