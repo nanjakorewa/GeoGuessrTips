@@ -198,4 +198,11 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
+{{% tab "小麦" %}}
+<div class="googlemap-if">
+<img src="2023-04-29-12-07-38.png">
+</div>
+
+
+{{% /tab %}}
 {{% /tabs %}}
