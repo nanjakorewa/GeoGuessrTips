@@ -72,15 +72,15 @@ plonkit: true
     <ul class="rule-list">
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
         <li>速度制限の看板が地域ごとに微妙に異なる。<span class="quiz">フランス語</span>があればケベック、<span class="quiz">黒い背景のkm表記</span>はオンタリオになる。</li>
-        <li class="no-evidence">細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span>。</li>
-        <li class="no-evidence">左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>、右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの。</li>
+        <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
+        <li>左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
     </ul>
 </div>
 
 
 
 {{% tabs  %}}
-{{% tab "ナンバープレート" %}}
+{{% tab "ナンバープレート(マニトバ)" %}}
 {{% notice tip %}}
 マニトバ州はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
 {{% /notice %}}
@@ -93,6 +93,9 @@ plonkit: true
 {{% lb 50 %}}
 ![](2023-04-23-09-51-56.png)
 {{% /lb %}}
+
+{{% /tab %}}
+{{% tab "ナンバープレート(オンタリオ)" %}}
 
 {{% notice tip %}}
 オンタリオのナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。（画像出典：
@@ -112,11 +115,10 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% /tab %}}
 {{% tab "速度表記" %}}
 {{% notice tip %}}
-オンタリオのボラードは `km/h` の部分が黒背景になっている。またオレンジと黒のカラーで書かれるときもある。ロードコーンも同じ色のものが多い。
+オンタリオ州とマニトバ州をつなぐ道路のオンタリオ側の標識は `km/h` の部分が黒背景になっている。またオレンジと黒のカラーで書かれるときもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680092550361!6m8!1m7!1sQbi9zOhBSaKoAR4ljsZv_w!2m2!1d49.73933749078834!2d-95.15201809047014!3f145.05850004916792!4f0.1372081059932384!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682432065632!6m8!1m7!1s_tnrWo6hZCZxIDQ8K4Mf0A!2m2!1d49.02144291015642!2d-88.2895963216308!3f268.6020266512863!4f-3.2304603493074353!5f3.2229282956142877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -132,15 +134,48 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682765326307!6m8!1m7!1s7gnwFVatHfMuJ1jFG2mgMw!2m2!1d48.39571830923472!2d-71.25217563290403!3f230.9901753934939!4f-6.749220089069581!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ロードコーン" %}}
 {{% notice tip %}}
-左の黒とオレンジのコーンはモントリオール、右の白とオレンジのコーンはケベックのもの。
+左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432065632!6m8!1m7!1s_tnrWo6hZCZxIDQ8K4Mf0A!2m2!1d49.02144291015642!2d-88.2895963216308!3f268.6020266512863!4f-3.2304603493074353!5f3.2229282956142877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432492247!6m8!1m7!1sLO_H97dvPqc3aO3fixvorg!2m2!1d45.49181109498912!2d-73.58142739183401!3f134.36495306086366!4f-5.588569419165907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">農業の分布</h2>
+    <ul class="rule-list">
+        <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(USDA)</a></li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "コーン" %}}
+
+<div class="googlemap-if">
+<img src="2023-04-29-19-35-46.png" />
+</div>
+
+{{% notice note %}}
+大豆とトウモロコシはトロント周辺に多い{{% by "https://ipad.fas.usda.gov/rssiws/al/can_cropprod.aspx" "web" "Canada - Crop Production Maps(USDA)" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682764595902!6m8!1m7!1s-wUG-AnpToNq4Vh74i5-2Q!2m2!1d43.95818152610437!2d-81.57718105212717!3f28.86601260554493!4f-9.820514044298804!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682764683187!6m8!1m7!1s8rDXmLHQC7aYjWgsXBpwzQ!2m2!1d45.71301262218953!2d-72.66900302579654!3f264.0231635834412!4f-8.3041599233093!5f3.0765622637983046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "小麦" %}}
+
+<div class="googlemap-if">
+<img src="2023-04-29-19-45-23.png" />
+</div>
+
 {{% /tabs %}}
