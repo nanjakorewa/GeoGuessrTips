@@ -21,14 +21,18 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">建物</h2>
     <ul class="rule-list">
-        <li class="no-evidence">植え込みの周りの石壁？</li>
+        <li class="no-evidence">石壁で囲われたエリアはニューヨーク周辺で見ることが多い{{% by "now_and_jenn" "twitch" %}}
+        <ul>
+            <li>調べた限り出てきたソース『ニューイングランド州、特にニューヨーク州の謎の一つは、この地域全体を飾る数キロに及ぶ石のフェンスです。...』{{% by "https://www.zmanmagazine.com/PDF/Stone%20Walls.pdf" "web" "New York's Stone Walls" %}}</li>
+        </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "石壁" %}}
 {{% notice tip %}}
-こんなかんじの植え込みの壁はニューヨーク感？
+こんなかんじの石の壁はニューヨーク感？
 {{% /notice %}}
 
 <div class="googlemap-if">
