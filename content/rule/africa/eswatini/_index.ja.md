@@ -22,7 +22,7 @@ jetro_detail: false
         <li>標高によってハイベルト・ミドルベルト・ローベルトに分かれていて農業の形態もそれぞれ異なる</li>
         <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
         <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
-        <li class="no-evidence">地形の形から標高が低いローベルトの道路にいる時は南北方向は遠くまで景色が見えることが多い</li>
+        <li class="no-evidence">標高が低いローベルトは平地が多いかつ国全体が斜めになっているので、道路上にいる時は南北方向は遠くまで景色が見えて東西は遠くまで見えないことが多い</li>
     </ul>
 </div>
 
