@@ -15,10 +15,11 @@ jetro_detail: false
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.sz（もともとの国名はスワジランドのため）</span></li>
+        <li>ドメインは<span class="quiz">.sz</span></li>
         <li>道路番号には<span class="quiz">MR</span>が付いている</li>
+        <li>電柱はこげ茶色っぽい細い木でできていることが多い</li>
         <li>西側が高地（標高1500m）で東側が低地（標高200m）と国全体が斜めになっている</li>
-        <li>標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる</li>
+        <li>標高によってハイベルト・ミドルベルト・ローベルトに分かれていて農業の形態もそれぞれ異なる</li>
         <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
         <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
         <li class="no-evidence">地形の形から標高が低いローベルトの道路にいる時は南北方向は遠くまで景色が見えることが多い</li>
@@ -28,6 +29,15 @@ jetro_detail: false
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+電柱はこげ茶色の細い木でできていて１～３本のコードが張られている
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682821573530!6m8!1m7!1scKYowqlah7eCEnkXE76cqQ!2m2!1d-26.84151182200207!2d30.96616186490692!3f66.72130030000376!4f23.399425204274294!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682821665705!6m8!1m7!1stvXX7dOvI9y9u1ynHviBhQ!2m2!1d-27.02500643545952!2d31.93532396224216!3f344.43606243762974!4f12.645054239222944!5f1.655499308789675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% notice tip %}}
 標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる。ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある。
 {{% /notice %}}

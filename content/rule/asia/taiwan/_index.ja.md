@@ -17,6 +17,7 @@ jetro_detail: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tw</span></li>
         <li>日本のファミリーマート同様、看板の隅に店名が書かれている</li>
+        <li>電話番号は北から南へのグラデーション</li>
     </ul>
 </div>
 
@@ -30,7 +31,7 @@ jetro_detail: false
 {{% /tab %}}
 {{% tab "電話番号" %}}
 {{% notice tip %}}
-電話番号が南に行くほど大きくなる。（画像出典 By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">https://commons.wikimedia.org/w/index.php?curid=68299684</a>）
+電話番号が南に行くほど大きくなる。（画像出典 By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>）
 {{% /notice %}}
 <div class="googlemap-if">
 <a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 &lt;https://creativecommons.org/licenses/by-sa/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="512" alt="Telephone area codes in Taiwan" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>

@@ -52,7 +52,7 @@ jetro_detail: true
 {{% tab "w-road" %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682778342808!6m8!1m7!1sQM84rM9Z5bNVCy3Trd364g!2m2!1d-8.27965791336707!2d118.4407403780819!3f209.7921306950951!4f16.736777405904192!5f2.504720619618973" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682778342808!6m8!1m7!1sQM84rM9Z5bNVCy3Trd364g!2m2!1d-8.27965791336707!2d118.4407403780819!3f209.7921306950951!4f16.736777405904192!5f2.504720619618973" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
