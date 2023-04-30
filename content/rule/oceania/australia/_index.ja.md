@@ -180,3 +180,20 @@ By EurovisionNim - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.or
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">州・地域の絞り込み</h2>
+    <ul class="rule-list">
+        <li>SAの電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "SA" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
