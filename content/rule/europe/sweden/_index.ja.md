@@ -92,7 +92,7 @@ plonkit: true
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>道路番号は2桁は南から9～99、3桁は南から100～400くらい{{% by "syamu_0304" "twitch" %}}</li>
     </ul>

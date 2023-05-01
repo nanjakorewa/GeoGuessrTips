@@ -73,7 +73,7 @@ heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリッ�
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>デンマークの自治領であるグリーンランドが出ることがある</li>
     </ul>

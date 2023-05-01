@@ -73,7 +73,7 @@ By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>地域ごとに生態系と土の色が異なる
             <ul>

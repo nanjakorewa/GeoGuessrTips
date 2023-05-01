@@ -65,7 +65,7 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li><a href="./hokkaido/" class="area-link">北海道</a>
             <ul>

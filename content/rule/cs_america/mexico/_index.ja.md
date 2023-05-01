@@ -74,7 +74,7 @@ jogmec_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>州の名前を覚えておくと絞り込みの役に立つ（<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3">Wiki</a>）</li>
         <li>State Highway(白色の盾のようなマーク)の標識に道路番号と州の名前が書いてあるかも</li>

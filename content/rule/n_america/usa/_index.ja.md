@@ -46,7 +46,7 @@ jogmec_detail: true
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li class="important-rule">① ナンバープレートが前についているかどうか・<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を絞り込める[資料]</a>かも{{% by "rumilb" "twitch" %}}
             <ul>

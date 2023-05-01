@@ -79,7 +79,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% by "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "web" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>

@@ -64,7 +64,7 @@ jogmec_detail: true
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島の一部が出ることがあるので頭の片隅にとどめておく</li>
         <li>離島でも標識の裏側にクロスがある</li>

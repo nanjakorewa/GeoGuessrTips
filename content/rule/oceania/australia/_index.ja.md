@@ -51,7 +51,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>木の生え具合を把握する
             <ul>
@@ -125,7 +125,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li>クリスマス島が出題されることがある

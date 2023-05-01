@@ -64,7 +64,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
         <li>スクレのみ条例によって壁を白くすることが義務付けられている</li>

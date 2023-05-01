@@ -62,7 +62,7 @@ jetro_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ズームすると県境に県名が表示される</li>
         <li>ガラパゴス諸島が出ることがある・亀が山の上に居たらガラパゴス</li>

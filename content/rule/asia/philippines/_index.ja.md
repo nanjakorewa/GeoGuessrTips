@@ -68,7 +68,7 @@ jogmec_detail: true
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号でおよその地域が特定できる{{% by %}}</li>
         <li>トライシクルに都市名が書いてある場合があるが、ぼやけてほぼ読めない</li>

@@ -69,7 +69,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
         <li>速度制限の看板が地域ごとに微妙に異なる。<span class="quiz">フランス語</span>があればケベック、<span class="quiz">黒い背景のkm表記</span>はオンタリオになる。</li>

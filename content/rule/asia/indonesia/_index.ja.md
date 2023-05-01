@@ -94,7 +94,7 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li class="no-evidence">地域ごとに土の色が微妙に異なるかもしれないものの参考にできるかは不明</li>
     </ul>

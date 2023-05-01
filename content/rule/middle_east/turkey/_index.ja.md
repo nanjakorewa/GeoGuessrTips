@@ -69,7 +69,7 @@ jogmec_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
     </ul>

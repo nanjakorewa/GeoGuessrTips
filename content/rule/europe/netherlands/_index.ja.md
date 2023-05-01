@@ -75,7 +75,7 @@ SPARはアムステルダム、オランダに拠点がある小売業者（オ�
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>キュラソー島（カリブ海のオランダ領の島）が出ることがある</li>
     </ul>

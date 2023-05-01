@@ -68,7 +68,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>道路番号の先頭の数字で地域が分かる{{% by %}}。２桁番号は、１桁番号の路線に挟まれるエリア毎に頭の番号を統一して付番。画像出典：{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf01/7.pdf" "web" "高速道路ナンバリング検討委員会" %}}</li>
     </ul>

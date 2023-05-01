@@ -100,7 +100,7 @@ Noorwegen kenteken groen nieuw, CC BY-SA 3.0, <a href="https://commons.wikimedia
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。</li>
     </ul>

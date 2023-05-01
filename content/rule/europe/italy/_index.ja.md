@@ -77,7 +77,7 @@ TheFlyingDutchman, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
     </ul>

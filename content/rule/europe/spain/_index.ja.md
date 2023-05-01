@@ -72,14 +72,14 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>環状道路と高速道路には都市を識別する文字が先頭についていることが多い
             <ul>
-                <li>例：BIならばビルバオ付近</li>
+                <li>例）BIならばビルバオ付近</li>
             </ul>
         </li>
-        <li>スペイン領カナリア諸島が出る</li>
+        <li>スペイン領カナリア諸島が出る。島ごとの植生の違いはよくわからない。</li>
     </ul>
 </div>
 
