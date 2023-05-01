@@ -90,13 +90,31 @@ jogmec_detail: true
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
+        <li>ヤシの木やココナッツの木の密度で場所が変わる</li>
         <li>ナンバープレートの色で町が分かることがある</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
-{{% tab "Nayarit" %}}
+{{% tab "コプラ" %}}
+
+{{% notice tip %}}
+データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX">
+FAS Home / IPAD Home / Country Summary Mexico(U.S. Department of Agriculture)</a>
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-40-28.png" width="90%" />
+</div>
+
+<div class="googlemap-if unclickable">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682944891203!6m8!1m7!1sQTSgniwWjFDeK5aKmKl1XA!2m2!1d16.99165953045512!2d-100.1237792495057!3f86.65871881903603!4f12.885509653288338!5f0.9042402409955568" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% /tab %}}
+{{% tab "Nayaritのナンバープレート" %}}
 {{% lb 50 %}}
 ![](2023-04-17-17-02-35.png)
 {{% /lb %}}
@@ -108,7 +126,7 @@ jogmec_detail: true
 </div>
 </div>
 {{% /tab %}}
-{{% tab "Jalisco" %}}
+{{% tab "Jaliscoのナンバープレート" %}}
 {{% lb 50 %}}
 ![](2023-04-17-17-15-35.png)
 
