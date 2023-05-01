@@ -19,14 +19,23 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">道路</h2>
     <ul class="rule-list">
-        <li>電柱に細い<span class="quiz">黄色い</span>線が<span class="quiz">3</span>本あるとカリフォルニア。ハワイのものは太目の1本。</li>
+        <li>①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも</li>
+        <li>②電柱に細い<span class="quiz">黄色い</span>線が<span class="quiz">3</span>本あるとカリフォルニア。ハワイのものは太目の1本。</li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "電柱" %}}
+{{% tab "①速度制限" %}}
+
+{{% notice tip %}}
+①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/migueltejadaflores/15404863541/in/album-72157635481239731/" title="Speed 5"><img src="https://live.staticflickr.com/2944/15404863541_1f02146f9a_b.jpg" width="70%" alt="Speed 5"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "②電柱" %}}
 
 {{% notice tip %}}
 電柱に細い<span class="quiz">黄色い</span>線が<span class="quiz">3</span>本あるとカリフォルニア。

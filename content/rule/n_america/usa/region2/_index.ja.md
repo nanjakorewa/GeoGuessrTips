@@ -19,8 +19,14 @@ jogmec_detail: true
 </div>
 
 
+<div class="main-desciption country-description">
+    <ul class="rule-list">
+        <li>①ミズーリ州には大文字の英語が書かれた看板がある</li>
+    </ul>
+</div>
+
 {{% tabs  %}}
-{{% tab "看板" %}}
+{{% tab "①看板" %}}
 {{% notice tip %}}
 AやVと書いてある場合ミズーリ州？
 {{% /notice %}}
