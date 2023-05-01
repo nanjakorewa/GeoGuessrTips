@@ -109,7 +109,7 @@ plonkit: true
 {{% tab "コメ" %}}
 
 {{% notice tip %}}
-ヤシの木のようなパームの木がある場合は南の低地を考えてみる
+田んぼはカンボジア・ラオスのある方向に多い
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-18-17.png" width="60%" />
