@@ -90,7 +90,7 @@ jogmec_detail: true
 <div class="main-desciption city-description">
     <h2 class="section-title">都市・町の絞り込み</h2>
     <ul class="rule-list">
-        <li>ヤシの木やココナッツの木の密度で場所が変わる</li>
+        <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
         <li>ナンバープレートの色で町が分かることがある</li>
     </ul>
 </div>
