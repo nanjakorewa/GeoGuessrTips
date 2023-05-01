@@ -19,8 +19,8 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">建物</h2>
     <ul class="rule-list">
+        <li>分数が書かれた標識はウェストバージニア州かも{{% by "now_and_jenn" "twitch" %}}</li>
         <li class="no-evidence">石壁で囲われたエリアはニューヨーク周辺で見ることが多い{{% by "now_and_jenn" "twitch" %}}
         <ul>
             <li>調べた限り出てきたソース『ニューイングランド州、特にニューヨーク州の謎の一つは、この地域全体を飾る数キロに及ぶ石のフェンスです。...』{{% by "https://www.zmanmagazine.com/PDF/Stone%20Walls.pdf" "web" "New York's Stone Walls" %}}</li>
@@ -30,6 +30,14 @@ jogmec_detail: true
 </div>
 
 {{% tabs  %}}
+{{% tab "標識" %}}
+{{% notice tip %}}
+分数が書かれた標識はウェストバージニア州かも。「23/1」は「23」から分岐したひとつ目の道。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia &quot;fractional&quot; county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="West Virginia &quot;fractional&quot; county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
 {{% tab "石壁" %}}
 {{% notice tip %}}
 こんなかんじの石の壁はニューヨーク感？

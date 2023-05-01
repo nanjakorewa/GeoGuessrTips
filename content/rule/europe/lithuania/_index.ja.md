@@ -16,6 +16,7 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lt</span></li>
+        <li>道路に対して<span class="quiz">斜め</span>の標識と<span class="quiz">オレンジ</span>色の反射板のボラード。</li>
     </ul>
 </div>
 
@@ -30,6 +31,15 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682138775957!6m8!1m7!1s-XJC8HbzlPAc1pXfem6Twg!2m2!1d54.46671753809242!2d22.92071943764032!3f41.82909473320008!4f16.0935040115248!5f3.3202390973112452" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682138686422!6m8!1m7!1sbpVYm1v6Af9ERWZb9qUH2Q!2m2!1d54.46618619488959!2d22.91992489201201!3f292.5696348997516!4f20.75041524949897!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+道路に対して斜めの標識とオレンジのボラード。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682949076164!6m8!1m7!1sX2--3B2x0ypd6wvHxwlAEw!2m2!1d55.07419832374426!2d23.88806601016458!3f267.3854888721004!4f-15.01700369565593!5f1.7435841899522568" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "土の色" %}}
 <div class="googlemap-if">

@@ -17,3 +17,18 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     ミシガン州・ウィスコンシン州・オハイオ州・インディアナ州・イリノイ州・ミネソタ州・ノースダコタ州・サウスダコタ州・アイオワ州・ネブラスカ州・ミズーリ州・カンザス州
 </div>
+
+
+{{% tabs  %}}
+{{% tab "看板" %}}
+{{% notice tip %}}
+AやVと書いてある場合ミズーリ州？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682951815780!6m8!1m7!1smQAZkGhnUxTssNNNKSSn0w!2m2!1d39.79674692581477!2d-93.5536819387515!3f35.88565813147459!4f-0.5397171520779835!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}

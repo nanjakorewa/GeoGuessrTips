@@ -15,7 +15,7 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.gb</span></li>
+        <li>ドメインは<span class="quiz">.gb</span>か<span class="quiz">.uk</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span></li>
         <li>レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討する{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}</li>
