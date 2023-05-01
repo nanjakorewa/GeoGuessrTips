@@ -184,16 +184,30 @@ By EurovisionNim - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.or
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
         <li>SAの電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
+        <li>NAの電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li>QLDの電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "SA" %}}
+{{% tab "SA（南オーストラリア州）" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876310366!6m8!1m7!1s0GIbI-sr8Q9l7AYua8OAgw!2m2!1d-33.13255954029371!2d135.5524586341847!3f262.0190664488449!4f-1.0028351410437466!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "NT（ノーザンテリトリー）" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876456537!6m8!1m7!1shd7Z7v-D90HQqyG7kY9b8g!2m2!1d-12.46811351660095!2d130.9896766812721!3f317.6882480346222!4f2.9617063585158974!5f2.8082921195720525" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "QLD（クィーンズランド州）" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876732186!6m8!1m7!1snjlRo8Fc60cTLN9pRE81dw!2m2!1d-20.07820830699489!2d146.2722428898274!3f155.6474440838632!4f-0.44677186382349987!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876857186!6m8!1m7!1sZiEArFwcX5mVwWnxw1OJSA!2m2!1d-24.86242174388364!2d151.1221723471833!3f86.69039348739452!4f1.6710981638525624!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

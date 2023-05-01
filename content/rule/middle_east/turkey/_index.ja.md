@@ -39,9 +39,13 @@ jogmec_detail: true
 
 {{% /tab %}}
 {{% tab "w-road" %}}
+{{% notice tip %}}
+赤白で｜《｜のシェブロンはトルコかも？
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679329469044!6m8!1m7!1soqaWbeWVN_QyDyyBVko1dg!2m2!1d41.13248579407155!2d29.2826494663796!3f251.79223067568702!4f2.6623459284602404!5f2.848163953827137" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679329722325!6m8!1m7!1snKzr4d-wPnRhDiJyGkZOow!2m2!1d41.02454667383204!2d29.10670370604684!3f60.71658378554916!4f-10.171697281302357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682903524808!6m8!1m7!1sCbrphUesjNoUkIvld0DCfw!2m2!1d40.5333547818197!2d36.88345499003033!3f104.66404343620007!4f-4.597505529582904!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682903620129!6m8!1m7!1s-mFYhLLSp-8hx6llTtn9jQ!2m2!1d37.68900546721092!2d43.90937100132399!3f319.51318298801175!4f-1.794511892317189!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
@@ -55,7 +59,7 @@ jogmec_detail: true
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice tip %}}
-片面のみに反射板、とても薄い？
+片面のみに反射板で薄い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682126276939!6m8!1m7!1szePmi730CADvSN8BXt2KzQ!2m2!1d37.14516048092026!2d34.83534030237135!3f345.4821428952779!4f-8.685966550225672!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

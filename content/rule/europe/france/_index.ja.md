@@ -60,8 +60,9 @@ CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=329958">W
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679499745297!6m8!1m7!1sjhcpN_yf7nbEPTp8ZZzM0A!2m2!1d48.38306966108105!2d-4.527637790167269!3f219.9072758992309!4f4.26856072184178!5f2.885928539097609" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681048137991!6m8!1m7!1skN9PPHcI2yjaRk2U6QIhRg!2m2!1d45.0339435257467!2d-0.7395826973967495!3f151.99725813313395!4f-21.08328800397571!5f2.807974713449285" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679499745297!6m8!1m7!1sjhcpN_yf7nbEPTp8ZZzM0A!2m2!1d48.38306966108105!2d-4.527637790167269!3f219.9072758992309!4f4.26856072184178!5f2.885928539097609" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905393199!6m8!1m7!1spuvViFzy7cby3c7YJUVtHw!2m2!1d50.70903062516371!2d3.241730280958023!3f255.50125409265092!4f-4.9258843590848045!5f3.1652909710178734" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -92,10 +93,9 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h2 class="section-title">州・地域の絞り込み</h2>
     <ul class="rule-list">
-        <li>電話番号の先頭の2桁で地域がわかる</li>
-        <li>ナンバープレートで<span class="quiz">両サイドに青色</span>のものがある</li>
-        <li>01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
+        <li>電話番号の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
         <li>ドイツ語が混ざっていたら県境の近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>レンガが多かったらベルギー近くを検討してみる</li>
     </ul>
 </div>
 
@@ -108,6 +108,18 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/>
+</div>
+{{% /tab %}}
+{{% tab "ドイツ付近" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905872096!6m8!1m7!1ssn0pAFtz2m8uMRo79YOTtA!2m2!1d48.84806873294077!2d8.064428634843349!3f282.6398685317409!4f1.8186615655965568!5f2.751626819910011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905891416!6m8!1m7!1sslmY4VH4xt760Q6TrZ5TOQ!2m2!1d48.84827822634963!2d8.063650970856578!3f355.9701997302268!4f0.48247911656135045!5f3.260620295050523" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "ベルギー付近" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905708059!6m8!1m7!1st_XQsB86GM6xCG9IUgjMlQ!2m2!1d50.29450643868056!2d4.08535817500789!3f63.98531563426603!4f-3.263060690475413!5f1.165081858696793" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905789945!6m8!1m7!1sObobzsfl9Eyg1IBdsvVhew!2m2!1d50.48916016063912!2d3.583400011074846!3f168.35502595572592!4f3.8804172341302063!5f1.0879153141619562" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -126,10 +138,8 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% notice tip %}}
 パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。（画像の出典：By <a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> added the numbers - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a>）
 {{% /notice %}}
-<div class="googlemap-if">
-<div class="description-wide">
+<div class="googlemap-if unclickable">
 <a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Paris arr jms-num.gif"></a>
-</div>
 </div>
 {{% /tab %}}
 {{% tab "ヴェルサイユ宮殿" %}}

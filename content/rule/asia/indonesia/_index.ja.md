@@ -151,9 +151,9 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 {{% tab "北スマトラ" %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682865461029!6m8!1m7!1sdUVJnyNGYskJt7xx4cZnPg!2m2!1d2.639741626031388!2d99.60210569795312!3f340.0389955447067!4f3.3477273915920165!5f2.868510574583258" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682865472462!6m8!1m7!1sDYCGQ7PgKyNuDgb93t6toQ!2m2!1d2.330158964064592!2d99.06684637651612!3f312.4040758436815!4f2.0079666651637638!5f2.679065351542484" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682865482145!6m8!1m7!1sNxsLSu6B6OJo2hGOSxHQaw!2m2!1d1.511735731621589!2d99.62633491930364!3f102.98033493792526!4f5.626822411292025!5f1.6723009221009915" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682865461029!6m8!1m7!1sdUVJnyNGYskJt7xx4cZnPg!2m2!1d2.639741626031388!2d99.60210569795312!3f340.0389955447067!4f3.3477273915920165!5f2.868510574583258" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682865472462!6m8!1m7!1sDYCGQ7PgKyNuDgb93t6toQ!2m2!1d2.330158964064592!2d99.06684637651612!3f312.4040758436815!4f2.0079666651637638!5f2.679065351542484" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682865482145!6m8!1m7!1sNxsLSu6B6OJo2hGOSxHQaw!2m2!1d1.511735731621589!2d99.62633491930364!3f102.98033493792526!4f5.626822411292025!5f1.6723009221009915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
