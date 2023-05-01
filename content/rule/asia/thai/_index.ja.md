@@ -82,18 +82,37 @@ plonkit: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>農業や植生の種類が場所によって異なる</li>
+        <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(U.S. Department of Agriculture)</a></li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "標高の低い地域" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679763216561!6m8!1m7!1skm8nyvUs3Vw1Hhz5KAHHzg!2m2!1d9.19895473345908!2d99.63002608705813!3f49.032962415541725!4f14.197888053452274!5f0.4090299691728426" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "コーン" %}}
+
+{{% notice tip %}}
+アメリカなどと同じくコーンと大豆の生産地は基本的にほぼ同じエリア、タイの場合も大豆は北の方のみ。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-15-43.png" width="60%" />
 </div>
 {{% /tab %}}
-{{% tab "標高の高い地域" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679762644988!6m8!1m7!1sXZ4JtVj_U4AD2D2e_ECwug!2m2!1d18.08173217926031!2d100.6532376657783!3f123.43817301426463!4f12.917847900636886!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "パーム" %}}
+
+{{% notice tip %}}
+ヤシの木のようなパームの木がある場合は南の低地を考えてみる
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-17-28.png" width="60%" />
+</div>
+{{% /tab %}}
+{{% tab "コメ" %}}
+
+{{% notice tip %}}
+ヤシの木のようなパームの木がある場合は南の低地を考えてみる
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-18-17.png" width="60%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
