@@ -42,9 +42,6 @@ bg: "bg/tree.jpg"
 
 {{% tabs  %}}
 {{% tab "カリフォルニア" %}}
-{{% notice tip %}}
-カリフォルニアは電柱のラインも特徴的
-{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679681953396!6m8!1m7!1scj8lk8vEp03RPsVFTWcTdA!2m2!1d33.86067228429133!2d-115.7940488779932!3f152.7072055270092!4f6.962312350061822!5f0.46809600461762146" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

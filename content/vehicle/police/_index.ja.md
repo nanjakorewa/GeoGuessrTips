@@ -25,7 +25,7 @@ sections: [""]
 {{% tab "ナイジェリア" %}}
 
 {{% notice tip %}}
-ナイジェリアは地域によってパトカーのランプの色が違う→ <a href="../../rule/africa/nigeria/">ナイジェリア</a>
+Google Carに常にパトカーや車（フォローカー）が付いてくる国がある。ナイジェリアの場合はパトカーが着いてきて、ランプの赤青の付け方で地域が分かる。
 {{% /notice %}}
 
 <div class="googlemap-if">

@@ -23,7 +23,7 @@ bg: "bg/bird.jpg"
 </div>
 <div class="googlemap-if">
 <div class="description imgs">
-キバタンの分布
+▼キバタンの分布
 <img src="2023-03-09-22-47-54.png">
 </div>
 <div class="description">
