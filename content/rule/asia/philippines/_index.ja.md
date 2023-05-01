@@ -18,17 +18,15 @@ jogmec_detail: true
         <li>ドメインは<span class="quiz">.ph</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
-        <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。</li>
-        <li>ジプニーとよばれる派手な色のバスが主な交通手段として使用される</li>
+        <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
         <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
-        <li class="no-evidence">日本では滅多に見ないローヤルクラウン・コーラが結構人気で売られている（フィリピンとアメリカのジョージア州で人気らしい）</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-家の屋根が<span class="quiz">トタン屋根っぽい</span>ものが多い{{% by %}}
+家の屋根が<span class="quiz">トタン屋根っぽい</span>ものが多い{{% by %}}。インドネシアにもトタンの屋根は多いのでこれだけで即決してはいけない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679378905858!6m8!1m7!1sBMNB6Ylb_A1xFaEfer57jg!2m2!1d14.16717986120659!2d121.1187169649861!3f199.0718818648779!4f1.6500290634349!5f2.601513026710907" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,16 +40,27 @@ jogmec_detail: true
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
+{{% notice tip %}}
+トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249568006!6m8!1m7!1sk8Jy5kOVDVVSqxH8qcrNXA!2m2!1d8.668231537436485!2d125.8616461585333!3f223.60335544229616!4f-6.8045127009913955!5f3.3068862113781123" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679379203324!6m8!1m7!1sJZasTD2cg3xxGUMGLGKqPQ!2m2!1d17.61715495611395!2d121.716949295488!3f184.54194726731103!4f-11.023698515978907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+ジプニーとよばれる派手な色のバスが主な交通手段として使用される。後ろに扉が無いことが多い気がする。
+{{% /notice %}}
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679379417549!6m8!1m7!1spKkPfFB75YWxSJSZ5m7iow!2m2!1d14.56162845952863!2d121.0275216928242!3f312.41302218992985!4f-5.2231269855432885!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
+{{% notice tip %}}
+日本では滅多に見ない（買えない？）ローヤルクラウン・コーラが結構人気で売られている。フィリピンとアメリカのジョージア州で人気らしい。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680101683682!6m8!1m7!1slsjcdrGD_GttzmqXu2Vj5w!2m2!1d7.422663125519563!2d125.7899286558793!3f243.59317188971173!4f16.39801517690954!5f1.5446046745650515" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680250285600!6m8!1m7!1s1RFN8a_PAn3J5U1yCuSRhg!2m2!1d14.68683955964275!2d121.0941749568071!3f114.69822598885298!4f-25.907017105030604!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682946461946!6m8!1m7!1smwZ8DwlYbRRabNGEpy0hLQ!2m2!1d14.68757148544302!2d121.0927406841877!3f332.1839963973208!4f9.602176566695576!5f2.779556903615186" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682946632647!6m8!1m7!1sw-y19-rOrEv8i5dry4zPNg!2m2!1d14.69027419123831!2d121.0857564704962!3f109.5246089345366!4f19.01978162440072!5f2.8627688974868883" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐃" %}}
