@@ -16,6 +16,8 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sk</span></li>
+        <li>ボラードは<span class="quiz">黒い領域に反射板が2枚</span></li>
+        <li>チェコとスロバキアのみ使用されているガードレールが周りの国と異なりthin-B profileと呼ばれるタイプを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
     </ul>
 </div>
 

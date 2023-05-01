@@ -15,9 +15,9 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>ドメインは<span class="quiz">.ph</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
+        <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。</li>
         <li>ジプニーとよばれる派手な色のバスが主な交通手段として使用される</li>
         <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
@@ -71,6 +71,38 @@ jogmec_detail: true
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号でおよその地域が特定できる{{% by %}}</li>
-        <li>トライシクルに都市名が書いてある場合があるが、ぼやけてほぼ読めない</li>
+        <li class="no-evidence">トライシクルに都市名が書いてある場合があるがぼやけてほぼ読めない。色による地域性もあるらしい。</li>
     </ul>
 </div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">農業</h2>
+    <ul class="rule-list">
+        <li>農作物の分布が地域ごとに異なる</li>
+        <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RP">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "パーム" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-19-06-07.png" width="70%"/>
+</div>
+{{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-19-06-44.png" width="70%"/>
+</div>
+{{% /tab %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-19-08-10.png" width="70%"/>
+</div>
+{{% /tab %}}
+{{% tab "サトウキビ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-19-13-28.png" width="70%"/>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+

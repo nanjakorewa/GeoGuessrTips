@@ -124,7 +124,7 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">農業の分布</h2>
     <ul class="rule-list">
-        <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(USDA)</a></li>
+        <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(U.S. Department of Agriculture)</a></li>
     </ul>
 </div>
 
