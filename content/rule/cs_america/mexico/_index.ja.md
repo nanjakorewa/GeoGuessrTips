@@ -100,8 +100,7 @@ jogmec_detail: true
 {{% tab "コプラ" %}}
 
 {{% notice tip %}}
-データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX">
-FAS Home / IPAD Home / Country Summary Mexico(U.S. Department of Agriculture)</a>
+Guerreroの海沿いにのみココヤシのプランテーションが存在する。（データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX">FAS Home / IPAD Home / Country Summary Mexico(U.S. Department of Agriculture)</a>）
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
