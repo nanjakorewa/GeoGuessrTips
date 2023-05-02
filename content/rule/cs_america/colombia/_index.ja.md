@@ -74,14 +74,14 @@ jogmec_detail: true
 
 {{% tabs  %}}
 {{% tab "プロビデンシア" %}}
-{{% notice tip %}}離島がある。
+{{% notice tip %}}離島がある。車は<span class="quiz">黒</span>色。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679757357451!6m8!1m7!1slNIOFbUepcmPWtijHoNbdg!2m2!1d13.3292843138916!2d-81.37835727890173!3f109.6953457816907!4f-38.36080557825743!5f1.401040515686054" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "サン・アンドレス" %}}
-{{% notice tip %}}離島がある。
+{{% notice tip %}}離島がある。車は<span class="quiz">白</span>色。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679757448117!6m8!1m7!1siFw5AEYygAupQsSUeWxnvg!2m2!1d12.5381448985455!2d-81.707718377972!3f11.144275715058827!4f-31.470482776671!5f1.6118947326028952" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
