@@ -1,7 +1,7 @@
 ---
 title: "カナダ"
 date: 2023-02-26
-lastmod: 2023-04-01
+lastmod: 2023-04-29
 weight: 1
 draft: false
 keywords: [""]
@@ -157,10 +157,17 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 </div>
 
 {{% tabs  %}}
+{{% tab "小麦" %}}
+
+<div class="googlemap-if">
+<img src="2023-04-29-19-45-23.png" width="70%" />
+</div>
+
+{{% /tab %}}
 {{% tab "コーン" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-35-46.png" />
+<img src="2023-04-29-19-35-46.png" width="70%" />
 </div>
 
 {{% notice note %}}
@@ -173,10 +180,4 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 </div>
 
 {{% /tab %}}
-{{% tab "小麦" %}}
-
-<div class="googlemap-if">
-<img src="2023-04-29-19-45-23.png" />
-</div>
-
 {{% /tabs %}}
