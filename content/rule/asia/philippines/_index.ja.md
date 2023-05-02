@@ -82,7 +82,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 <a href="https://www.nikkei.com/article/DGXZQOUC144W90U1A610C2000000/">ヤクルト、フィリピンに新工場 生産能力7割増（日経新聞）</a>
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682995366529!6m8!1m7!1s-gzdUXLqi4Atkf7YjxncUg!2m2!1d10.31816771884368!2d123.9095651656526!3f206.96585515461604!4f-21.44048400186341!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682995366529!6m8!1m7!1s-gzdUXLqi4Atkf7YjxncUg!2m2!1d10.31816771884368!2d123.9095651656526!3f206.96585515461604!4f-21.44048400186341!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐃" %}}
