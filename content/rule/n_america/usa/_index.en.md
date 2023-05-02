@@ -1,5 +1,5 @@
 ---
-title: "アメリカ"
+title: "United States of America"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -15,10 +15,10 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li><span class="quiz">青い</span>ポスト</li>
-        <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
-        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
-        <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li><span class="quiz">Blue</span> post</li>
+        <li>Speed limit signs are <span class="quiz">SPEED LIMIT</span>.</li>
+        <li>Often there is a row of trash cans in front of the house. There is even a "WM", the logo of Waste Management, a major garbage disposal company in the United States.</li>
+        <li>If the reverse ▽ sign (Yield the Road) sign says YIELD, it is <span class="quiz">USA</span>, if not, it is <span class="quiz">Canada</span>.</li>
     </ul>
 </div>
 
@@ -26,14 +26,14 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">青い</span>ポスト
+<span class="quiz">Blue</span> post
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681568495995!6m8!1m7!1sPmW10yn8ltoYli893GEBDg!2m2!1d40.74137574620001!2d-73.98973810768969!3f342.68093605072727!4f-11.19950492023132!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて、看板やロゴが街中にある。
+There are many large companies based in the United States. Companies like Waste management, Electric Power, and Water Authority are also publicly traded and have signs and logos all over town.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -48,17 +48,17 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="important-rule">① ナンバープレートが前についているかどうか・<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を絞り込める[資料]</a>かも{{% by "rumilb" "twitch" %}}
+        <li class="important-rule">① Maybe you can narrow down the state by whether the license plate is on the front or not and the color of the license plate<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[Materials]</a>{{% by "rumilb" "twitch" %}}.
             <ul>
-                <li class="no-evidence">newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
+                <li class="no-evidence">Are most license plates in states with "new" yellow?{{% by "niwaisound" "twitch" %}}</li>
             </ul>
         </li>
-        <li>② 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
-        <li>③ 州間高速道路と州道の看板を見つけたら位置を絞り込める
+        <li>② Post office buildings often have the state and city name on the wall.</li>
+        <li>③ Once you find the Interstate and State Highway signs, you can narrow down your location.
             <ul>
-                <li class="important-rule">州道の看板で州が特定できることが多い。また一部の州では州の形がそのまま看板の形になっている。</li>
-                <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
-                <li>高速道路の出口は"Exit 1"といった感じで番号が付いていてズームすると確認できる</li>
+                <li class="important-rule">States can often be identified by their state highway signs. In some states, the shape of the state is the shape of the sign.</li>
+                <li>Interstate highways (signs in blue with red hats) with even-numbered roads extending east-west and odd-numbered roads extending north-south, with the northeast having larger numbers.</li>
+                <li>The highway exits are numbered, such as "Exit 1," and can be seen by zooming in.</li>
             </ul>
         </li>
     </ul>
@@ -66,41 +66,41 @@ jogmec_detail: true
 
 
 {{% tabs  %}}
-{{% tab "①ナンバープレート" %}}
+{{% tab "①license plate" %}}
 {{% notice tip %}}
-まず、前にナンバープレートを付ける必要がないエリア（黄色のエリア）を覚えてからナンバープレートの色を覚える。テキサス州が前にもある点、北東のデラウェア州が前に付いていない点が忘れがちなので注意（画像出典：By Raccoonny - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）。
+First, remember the areas that do not require a license plate on the front of the car (yellow areas), then remember the color of the license plate（Image source：By Raccoonny - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）.
 {{% /notice %}}
 <div class="description-wide">
 <a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
 </div>
 
 {{% /tab %}}
-{{% tab "②郵便局の壁" %}}
+{{% tab "②Post Office Wall" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "③州道の看板" %}}
+{{% tab "③Signs of state highways" %}}
 
 <div class="googlemap-if">
 <div class="description-wide">
 <img src="2023-03-25-14-29-11.png" class="img-main">
 </div>
 <div class="description-wide">
-以下のルールは100％すべてに当てはまるわけではないらしい。
+Apparently the following rules do not apply to 100% of all.
 <ul class="rule-list">
-    <li>アメリカ国道（United States numbered highways）
+    <li>United States numbered highways
         <ul>
-            <li>南北の高速道路は奇数であり、東から西に向かって番号が高くなる</li>
-            <li>東西の高速道路は偶数であり、北から南に向かって番号が高くなる</li>
+            <li>North-south highways are oddly numbered, with higher numbers from east to west.</li>
+            <li>East-west highways are even and numbered from north to south.</li>
         </ul>
     </li>
-    <li>州間高速道路（Dwight David Eisenhower National System of Interstate and Defense Highways）
+    <li>Dwight David Eisenhower National System of Interstate and Defense Highways
         <ul>
-            <li class="no-evidence">南北の高速道路は奇数であり、東から西に向かって番号が低くなる</li>
-            <li class="no-evidence">東西の高速道路は偶数であり、北から南に向かって番号が低くなる</li>
+            <li class="no-evidence">North-south highways are oddly numbered, with lower numbers from east to west.</li>
+            <li class="no-evidence">East-west highways are even, with lower numbers from north to south.</li>
         </ul>
     </li>
 </ul>
@@ -110,7 +110,7 @@ jogmec_detail: true
 </div>
 </div>
 {{% /tab %}}
-{{% tab "アメリカ攻略講座" %}}
+{{% tab "Tips (Japanese)" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
@@ -122,21 +122,22 @@ jogmec_detail: true
 
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">農業の分布</h2>
+    <h2 class="section-title">Agricultural Distribution</h2>
     <ul class="rule-list">
-        <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture</a></li>
+        <li>Data Source：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture</a></li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "コーン" %}}
+{{% tab "Cone" %}}
 
 <div class="googlemap-if">
 <img src="2023-04-29-12-03-38.png">
 </div>
 
 {{% notice note %}}
-コーンベルトに沿ってコーンの生産が盛ん{{% by "https://www.nass.usda.gov/Charts_and_Maps/Crops_County/cr-pr.php" "web" "Corn: Production Acreage by County(USDA)" %}}。しかし全米で広く生産されているのでこれだけで中央部とは決まらない。
+Corn production flourishes along the corn belt{{% by "https://www.nass.usda.gov/Charts_and_Maps/Crops_County/cr-pr.php" "web" "Corn: Production Acreage by County(USDA)" %}}.
+However, corn is widely produced throughout the U.S., so the mere fact that a cornfield was found would not be enough to determine that it is in the central part of the country.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -144,24 +145,24 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "大豆" %}}
+{{% tab "Soybean" %}}
 <div class="googlemap-if">
 <img src="2023-04-29-10-49-15.png">
 </div>
 
 {{% notice note %}}
-大豆もコーンに近い分布{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}
+Soybeans are also distributed similarly to corn{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}.
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "コメ" %}}
+{{% tab "Rice" %}}
 
 <div class="googlemap-if">
 <img src="2023-04-29-10-56-56.png">
 </div>
 
 {{% notice note %}}
-田んぼがあるのはカリフォルニアの特定の地域とアーカンソーの川沿い～沿岸部がほとんど{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}。カリフォルニアは電柱のヒントからわかるはず？
+Most of the rice fields are in certain areas of California and along the river to the coast in Arkansas{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}. If it is in California, from the clues on the utility poles, it should be possible to determine that it is in California.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -170,14 +171,14 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "綿花" %}}
+{{% tab "Cotton" %}}
 
 <div class="googlemap-if">
 <img src="2023-04-29-11-29-30.png">
 </div>
 
 {{% notice note %}}
-綿花の様子は見られないが、道端に白い綿が落ちているかも{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}？
+No sign of cotton, but white cotton may have fallen by the roadside.{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}？
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -186,14 +187,14 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "サトウキビ" %}}
+{{% tab "Sugarcane" %}}
 
 <div class="googlemap-if">
 <img src="2023-04-29-12-00-47.png">
 </div>
 
 {{% notice note %}}
-フロリダ周辺の特定の地域のみ、ルイジアナはほぼ道が無い？{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}。
+Specific areas around Florida{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -201,22 +202,22 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
-{{% tab "小麦" %}}
+{{% tab "Wheat" %}}
 <div class="googlemap-if">
 <img src="2023-04-29-12-07-38.png">
 </div>
 
 {{% notice note %}}
-コーンや大豆と地域が重複していない。小麦の画像のみ一部加工しています（他の画像と地図が同じ形になるようにマップを加工）。
+There is no overlap of areas with corn or soybeans.
 {{% /notice %}}
 
 {{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">更に細かいヒント</h2>
+    <h2 class="section-title">Further detailed tips</h2>
     <ul class="rule-list">
-        <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
-        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
+        <li>Sometimes the name of the state or city is written on the trash can.</li>
+        <li>The type of signal could narrow down the state.[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">document</a>]{{% by "syamu_0304" "twitch" %}}</li>
     </ul>
 </div>

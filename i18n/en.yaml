@@ -37,7 +37,7 @@
 - id: page-title
   translation: My GeoGuessr Memo
 - id: w-etf
-  translation: Easy-to-find
+  translation: Easy-to-find landmarks
 - id: w-viecle
   translation: Vehicle
 - id: w-building

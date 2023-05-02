@@ -24,7 +24,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-言語が特徴的なので慣れれば判別できる。都心では看板の下に英語で住所が書いてあることも多い。
+言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576614545!6m8!1m7!1sCqX7Zdaaiyw21z6aQ3HtCg!2m2!1d29.87147887963868!2d79.62983076241443!3f139.35104298712295!4f-1.9042464036854057!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

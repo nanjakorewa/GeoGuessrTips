@@ -1,5 +1,5 @@
 ---
-title: "インドネシア"
+title: "Indonesia"
 date: 2023-02-26
 lastmod: 2023-04-17
 weight: 1
@@ -14,19 +14,19 @@ jetro_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.id</span></li>
-        <li>車は<span class="quiz">左側</span>通行</li>
-        <li>道端で<span class="quiz">タバコ</span>がよく売られていて家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
-        <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が三つに分かれて見えるかもしれない</li>
-        <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
-        <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
+        <li>Domain is <span class="quiz">.id</span></li>
+        <li>Cars drive on the <span class="quiz">left side</span> of the road.</li>
+        <li><span class="quiz">Cigarettes</span> often sold on the street and the <span class="quiz">red and white flags</span> in front of houses{{% by %}}</li>
+        <li>In Indonesia, there are <span class="quiz">black</span> license plates, some of which may appear to have three separate white areas</li>
+        <li>Major banking companies with many ATMs include <span class="quiz">Bank Mandiri (mandiri) and Bank Rakyat Indonesia (BRI) Bank</span> etc.</li>
+        <li class="no-evidence">If the center line of the road is <span class="quiz">yellow</span>, it is more likely to be Indonesia, not Malaysia</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗が並んでいる。
+<span class="quiz">Triangular flags, colored in red and white,</span> line the front of houses and streets.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -34,7 +34,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。
+Signs for <span class="quiz">Alfa Mart</span> (convenience store), <span class="quiz">Mandiri</span> Bank, and Bank Rakyat Indonesia (BRI) can be found even in smaller towns.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,7 +42,7 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。GGSPと書かれたのれんは<span class="quiz">タバコ</span>メーカーGudang Garam Tbk PTに関するのれん。
+<span class="quiz">Cigarettes</span> are often sold on the street. If it says "18+" without a picture of cigarettes, it is an advertisement for cigarettes; if it says "GGSP", it is a goodwill about the cigarette manufacturer Gudang Garam Tbk PT.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -58,7 +58,7 @@ jetro_detail: true
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% notice tip %}}
-モザイクのかかり方によってはナンバープレートが三つに分かれて見えるかも...？また白以外にも黄色や赤のナンバープレートも存在する。
+Depending on the mosaic, the license plate may appear to be divided into three parts...? In addition to white, yellow and red license plates also exist.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -74,13 +74,13 @@ By RasyaAbhirama13 - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
-Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
+Nippon Indosari Corpindo Tbk is an Indonesian bread manufacturer.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123756392!6m8!1m7!1s7AEFymYv9-0CFDFOHiegYg!2m2!1d-2.919696522806549!2d104.6328255317319!3f327.70222816854846!4f-4.876997037796414!5f3.0855249455824687" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% notice tip %}}
-コンビニ？
+Convenience store?
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -96,16 +96,16 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">地域ごとに土の色が微妙に異なるかもしれないものの参考にできるかは不明</li>
+        <li class="no-evidence">It could be used to identify the region, as the soil color varies slightly from region to region. However, it is unclear if it can actually be useful.</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "土の色" %}}
+{{% tab "Soil color" %}}
 
 {{% notice tip %}}
-地域ごとに土壌が異なるものの、それが色の形でハッキリ確認できるかは不明{{% by "https://www.slideshare.net/ExternalEvents/soil-map-information-in-indonesia" "web" "「Soil Map information in Indonesia」by Markus Anda, 2023年4月25日に利用" %}}。
+Although soils vary from region to region, it is not known if the colors are different.{{% by "https://www.slideshare.net/ExternalEvents/soil-map-information-in-indonesia" "web" "「Soil Map information in Indonesia」by Markus Anda, 2023年4月25日に利用" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -148,12 +148,12 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li class="no-evidence">地域ごとに建物が違う{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
+        <li class="no-evidence">Different areas have different roofs on their buildings.{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "ジャワ島" %}}
+{{% tab "Java" %}}
 {{% notice tip %}}
 {{% /notice %}}
 
@@ -161,10 +161,10 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 ？
 </div>
 {{% /tab %}}
-{{% tab "北スマトラ" %}}
+{{% tab "North Sumatra" %}}
 
 {{% notice tip %}}
-屋根の上が︶のようになっている
+The roof is like a "︶".
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -172,7 +172,7 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682938730523!6m8!1m7!1sQd2wepuKWn-I4-eMX7-cyg!2m2!1d2.33148254006605!2d99.09119100972214!3f101.99213106690989!4f9.086701111479059!5f1.5669698120421591" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "バリ島" %}}
+{{% tab "Bali" %}}
 {{% notice tip %}}
 {{% /notice %}}
 
@@ -181,7 +181,7 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682939288898!6m8!1m7!1sc4sZuH8lESb2j9S-5bc0bQ!2m2!1d-8.436997295884588!2d115.60079460991!3f168.5694954711181!4f22.319543357215508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "スラウェン島" %}}
+{{% tab "Sulawen" %}}
 {{% notice tip %}}
 {{% /notice %}}
 
