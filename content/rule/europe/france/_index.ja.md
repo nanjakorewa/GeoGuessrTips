@@ -141,6 +141,16 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="googlemap-if unclickable">
 <a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Paris arr jms-num.gif"></a>
 </div>
+
+{{% notice tip %}}
+通りの交差点近くの建物の壁に『●●ARR, RUE ◆◆』と書かれたプレートが張られている。下のプレートの場合はパリの6番目の区画に行って「RUE ◆◆」の通りを見つければok。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/travelwithmilestogo/5335453320/in/photolist-98tAou-oFM6VH-b8bhRn-CwGSLF-oDztuC-fgYP48-dVihw1-vSczTB-BuQTWb-HDv9D9-N7BNg9-gdgg8M-qu19b6-vdqokq-abpB4v-okn27B-dtDPGh-fngBR4-tsc83P-bn4Q6r-qzKMW7-br7Am9-oHuPgv-9BENyX-bhtLBX-FJdof6-pGrKJY-HVi3qn-asmUPG-4rgcNH-bUqUHP-dhgwjU-B639GC-u86auM-DZrb82-awyiP-b4i9R8-qsjNJD-AxTZGM-MY1Ymo-iJV7RB-7h6Rra-JN8vUJ-PmcXZa-DvNzr2-499zN6-r9HrKj-9s4g8B-a8crwn-qPVSiH" title="Street Sign"><img src="https://live.staticflickr.com/5004/5335453320_fc7564a66f.jpg" width="500" height="334" alt="Street Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
 {{% /tab %}}
 {{% tab "ヴェルサイユ宮殿" %}}
 {{% notice tip %}}
