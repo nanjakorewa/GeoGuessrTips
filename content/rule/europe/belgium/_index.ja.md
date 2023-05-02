@@ -20,8 +20,6 @@ plonkit: true
     </ul>
 </div>
 
-<div class="googlemap-if">
-</div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
