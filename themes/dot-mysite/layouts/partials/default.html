@@ -53,7 +53,7 @@
           <div class="content">
           {{.Content}}
 
-          
+
           <!-- main information -->
           {{ if .Params.flag }}
           {{ $countryName := lower (slicestr .Params.flag 0 2) }}
@@ -63,28 +63,30 @@
           {{ if (eq $countryName "gb" )}}{{ $countryName = "uk" }}{{ end }}
 
           <!-- main information area -->
-          <div class="main-information {{ if .Params.no_rel_site}}noshow-area{{ end }}">
+          <div class="main-information {{ if .Params.no_rel_site }}noshow-area{{ end }}">
               <h4 class="section-title">{{ i18n "rel-site" | safeHTML }}</h2>
               <ul class="info-list">
                   <li><a href="https://ja.wikipedia.org/wiki/{{ .Title }}">{{ .Title }} (wikipedia)</a></li>
                   {{ if and (not .Params.no_jetro) (not .Params.no_detaile_info) }}
                   <li>
-                      <a href="https://www.jetro.go.jp/world/{{ $worldName}}/{{$countryName}}/">{{ .Title }}の基本情報</a>
+                      <a href="https://www.jetro.go.jp/world/{{ $worldName }}/{{ $countryName }}/">{{ .Title }}の基本情報</a>
                       {{ if .Params.jetro_detail }}・
-                      <a href="https://www.jetro.go.jp/world/{{ $worldName }}/{{$countryName}}/basic_01.html">言語・宗教</a>・
-                      <a href="https://www.jetro.go.jp/reportstop/{{ $worldName }}/{{$countryName}}/reports/">調査レポート</a>
+                      <a href="https://www.jetro.go.jp/world/{{ $worldName }}/{{ $countryName }}/basic_01.html">言語・宗教</a>・
+                      <a href="https://www.jetro.go.jp/reportstop/{{ $worldName }}/{{ $countryName }}/reports/">調査レポート</a>
                       {{ end }}(JETRO/独立行政法人日本貿易振興機構)
                   </li>
                   {{ if .Params.jogmec_detail }}
-                  <li><a href="https://mric.jogmec.go.jp/country/?c={{$countryName}}">{{ .Title }}の鉱業一般概況 (JOGMEC/独立行政法人エネルギー・金属鉱物資源機構)</a></li>
+                  <li><a href="https://mric.jogmec.go.jp/country/?c={{ $countryName }}">{{ .Title }}の鉱業一般概況 (JOGMEC/独立行政法人エネルギー・金属鉱物資源機構)</a></li>
                   {{ end }}
                   <li><a href="https://oilgas-info.jogmec.go.jp/sougou/index.html?cnt=10&pg=1&key={{ .Title }}">{{ .Title }}の記事検索 (JOGMEC 石油・天然ガス資源情報)</a></li>
                   {{ end }}
                   {{ if (eq $countryName "idn" )}}{{ $countryName = "id" }}{{ end }}
-                  <li><a href="https://ja.wikipedia.org/wiki/.{{$countryName }}">.{{ $countryName }} (wikipedia)</a></li>
+                  <li><a href="https://ja.wikipedia.org/wiki/.{{ $countryName }}">.{{ $countryName }} (wikipedia)</a></li>
                   {{ if .Params.plonkit }}
                   <li><a href="https://www.plonkit.net/{{ path.Base (.File.Dir ) }}">plonk it</a></li>
                   {{ end }}
+                  {{ $countryName2 := (slicestr .Params.flag 0 2) }}
+                  <li><a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id={{ $countryName2 }}">{{ .Title }}の地域ごとの農業生産データ（U.S. Department of Agriculture）</a></li>
               </ul>
           </div>
           {{ end }}

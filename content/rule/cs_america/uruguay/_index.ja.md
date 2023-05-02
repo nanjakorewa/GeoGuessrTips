@@ -29,9 +29,7 @@ plonkit: true
 <span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調なものが多い、黄色いボラードもあるが側面は<span class="quiz">白色</span>になっている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682333023613!6m8!1m7!1shSKA102rEVKXuR-vek588A!2m2!1d-33.73973896244041!2d-54.75239398619735!3f182.8487739547804!4f-10.972025016473566!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682332868179!6m8!1m7!1s6LzB85dCHz0tTzPHTS1CBw!2m2!1d-31.30368508334028!2d-57.12221402603009!3f47.58188258636387!4f-12.841590975477217!5f2.93994943215001" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682333168466!6m8!1m7!1seqnPNq4Bo11MprLmPYpjQA!2m2!1d-32.89795911070742!2d-57.4287392446015!3f144.63446825037616!4f-9.745212375406169!5f2.8916030077743624" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682333201827!6m8!1m7!1sDdXQEVplcHkEcmZx9V-dPQ!2m2!1d-33.74005485087628!2d-54.75259154103306!3f51.323777092984244!4f-21.72134758846643!5f1.3833405810897672" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -51,6 +49,15 @@ plonkit: true
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
+
+{{% notice tip %}}
+<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調なものが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682333023613!6m8!1m7!1shSKA102rEVKXuR-vek588A!2m2!1d-33.73973896244041!2d-54.75239398619735!3f182.8487739547804!4f-10.972025016473566!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682333168466!6m8!1m7!1seqnPNq4Bo11MprLmPYpjQA!2m2!1d-32.89795911070742!2d-57.4287392446015!3f144.63446825037616!4f-9.745212375406169!5f2.8916030077743624" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% notice tip %}}
 plonk itによるとこの山の形の電柱もウルグアイの特徴らしい{{% by "https://www.plonkit.net/uruguay" "plonkit" %}}。後ろの植林、遠くに見える牛と合わせればウルグアイと判断できるかも。

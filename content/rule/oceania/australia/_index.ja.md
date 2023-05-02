@@ -48,6 +48,11 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144661468!6m8!1m7!1sBApyf10_WfxpO26UJJ3u6w!2m2!1d-29.40199480435424!2d149.9148684407626!3f99.3413713142664!4f-19.826968570449495!5f3.3209542488875803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "w-music" %}}
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HQt6jIKNwgU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
