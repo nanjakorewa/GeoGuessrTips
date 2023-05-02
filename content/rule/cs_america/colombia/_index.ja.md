@@ -15,12 +15,11 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>言語は<span class="quiz">スペイン</span>語</li>
-        <li>路側帯は<span class="quiz">白</span>で、中央線は<span class="quiz">黄色</span></li>
-        <li>標識の棒は<span class="quiz">細く白い素材</span>で、看板の背面には<span class="quiz">白色か灰色のクロス</span>が存在する{{% by %}}</li>
-        <li>ナンバープレートは<span class="quiz">前後共に黄色</span></li>
         <li>ドメインは<span class="quiz">.co</span></li>
-        <li class="no-evidence">コロンビアのGoogleCarは<span class="quiz">赤く、黒い太目のアンテナ</span>がついている</li>
+        <li>言語は<span class="quiz">スペイン</span>語</li>
+        <li>路側帯は<span class="quiz">白</span>で中央線は<span class="quiz">黄色</span></li>
+        <li>ナンバープレートは<span class="quiz">前後共に黄色</span></li>
+        <li>標識の棒は<span class="quiz">細く白い素材</span>で看板の背面には<span class="quiz">クロス</span>が存在する{{% by %}}</li>
     </ul>
 </div>
 
@@ -66,8 +65,8 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島の一部が出ることがあるので頭の片隅にとどめておく</li>
-        <li>離島でも標識の裏側にクロスがある</li>
+        <li>サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島の一部が出ることがある</li>
+        <li>離島でも標識の裏側にクロスがあり車の色で島がわかる</li>
     </ul>
 </div>
 
