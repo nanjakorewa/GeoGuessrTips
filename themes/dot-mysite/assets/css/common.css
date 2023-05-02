@@ -679,3 +679,7 @@ span.f-enlarge {
 div.unclickable-area a {
   pointer-events: none;
 }
+
+span.navbar-toggler-icon {
+  filter: invert(100%);
+}
