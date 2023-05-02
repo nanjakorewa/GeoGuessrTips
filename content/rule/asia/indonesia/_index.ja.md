@@ -153,12 +153,13 @@ Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
 </div>
 
 {{% tabs %}}
-{{% tab "ジャワ島" %}}
-{{% notice tip %}}
+{{% tab "西スマトラ" %}}
+{{% notice tip %}}パダン周辺の伝統的なデザインの家
 {{% /notice %}}
 
 <div class="googlemap-if">
-？
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/6471046661/in/photolist-aRPNJ2-334udn-aRyVGV-gvmWmK-gvm1SG-o2p9pt-gvkJ4m-CuimsE-gvn2Mz-gvmrAF-B188E-o2G8Ni-gvmRV2-gvmVQh-aTeQVv-dfp5Er-6wgbb1-bWd2zL-6f9j32-B1kkC-gvmQEM-6yNJYj-6JKj7j-6iHRfD-254mhRm-Ymqg8k-Ykx93F-ddVd1k-r8H8qV-xTSqeS-rpJBG5-B2vYB-B2w2C-boRffP-B2zpk-rs2qXn-B2vhb-B2w9S-wzoKF-tENHEH-8oMg2L-8oJ5Pi-62k6UD-GRxGtj-8oJ63t-bmYcqB-2nU5qSK-2ovRfLe-3CrJwu-zWoQSL" title="Minangkabau traditional house"><img src="https://live.staticflickr.com/7026/6471046661_3a8150c85c_c.jpg" width="800" height="531" alt="Minangkabau traditional house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "北スマトラ" %}}

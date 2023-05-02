@@ -15,11 +15,11 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.mx</span></li>
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
-        <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
-        <li>ドメインは<span class="quiz">.mx</span></li>
         <li>電柱は<span class="quiz">8角形</span>のものが多い</li>
+        <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
     </ul>
 </div>
 
@@ -155,10 +155,7 @@ Public Domain
 
 {{% tabs  %}}
 {{% tab "メキシコシティ" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679458581944!6m8!1m7!1sofRx7y1WNAprPtaAhdmEqA!2m2!1d19.37148555541399!2d-99.1788575112147!3f153.15458392524835!4f-9.71562876312683!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679458676011!6m8!1m7!1skx4IwvjEl0zBgP-D61qSqA!2m2!1d19.37082017504024!2d-99.17625075855491!3f201.54969317592017!4f-15.039044125137536!5f3.260309308100377" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="DSC08423"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{% /tab %}}
 {{% tab "ソノラ" %}}
 <div class="googlemap-if">
