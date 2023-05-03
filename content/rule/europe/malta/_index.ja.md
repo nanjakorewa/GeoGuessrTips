@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "MT.png"
 no_detaile_info: true
 jetro_detail: false
+dont_show_usda: true
 ---
 
 

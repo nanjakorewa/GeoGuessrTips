@@ -86,7 +86,9 @@
                   <li><a href="https://www.plonkit.net/{{ path.Base (.File.Dir ) }}">plonk it</a></li>
                   {{ end }}
                   {{ $countryName2 := (slicestr .Params.flag 0 2) }}
+                  {{ if not .Params.dont_show_usda }}
                   <li><a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id={{ $countryName2 }}">{{ .Title }}の地域ごとの農業生産データ（U.S. Department of Agriculture）</a></li>
+                  {{ end }}
               </ul>
           </div>
           {{ end }}

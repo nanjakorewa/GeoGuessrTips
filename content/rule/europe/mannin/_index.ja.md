@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 no_detaile_info: true
 bg: "bg/city.jpg"
+dont_show_usda: true
 ---
 
 

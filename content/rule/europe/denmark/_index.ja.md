@@ -11,6 +11,7 @@ flag: "DK.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">

@@ -72,18 +72,20 @@ plonkit: true
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
-        <li>速度制限の看板が地域ごとに微妙に異なる。<span class="quiz">フランス語</span>があればケベック、<span class="quiz">黒い背景のkm表記</span>はオンタリオになる。</li>
+        <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>かも</li>
+        <li>速度制限の看板が地域ごとに微妙に異なる。フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。</li>
         <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
         <li>左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
+        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
     </ul>
 </div>
 
 
 
 {{% tabs  %}}
-{{% tab "ナンバープレート(マニトバ)" %}}
+{{% tab "ナンバープレート(1)" %}}
 {{% notice tip %}}
-マニトバ州はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
+<span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -96,10 +98,10 @@ plonkit: true
 {{% /lb %}}
 
 {{% /tab %}}
-{{% tab "ナンバープレート(オンタリオ)" %}}
+{{% tab "ナンバープレート(2)" %}}
 
 {{% notice tip %}}
-オンタリオのナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。（画像出典：
+<span class="quiz">オンタリオ</span>のナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。（画像出典：
 By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=87142994">Wikimedia Commons</a>）
 {{% /notice %}}
 
@@ -116,14 +118,14 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% /tab %}}
 {{% tab "速度表記" %}}
 {{% notice tip %}}
-オンタリオ州とマニトバ州をつなぐ道路のオンタリオ側の標識は `km/h` の部分が黒背景になっている。またオレンジと黒のカラーで書かれるときもある。
+オンタリオ州とマニトバ州をつなぐ道路の<span class="quiz">オンタリオ</span>側の標識は `km/h` の部分が黒背景になっている。またオレンジと黒のカラーで書かれるときもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680092550361!6m8!1m7!1sQbi9zOhBSaKoAR4ljsZv_w!2m2!1d49.73933749078834!2d-95.15201809047014!3f145.05850004916792!4f0.1372081059932384!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-オンタリオ州とマニトバ州をつなぐ道路のマニトバ州側の速度表記の看板には黒背景が無い。
+オンタリオ州とマニトバ州をつなぐ道路の<span class="quiz">マニトバ州</span>側の速度表記の看板には黒背景が無い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -131,7 +133,7 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% /tab %}}
 {{% tab "ボラード" %}}
 {{% notice tip %}}
-細い、濃い赤色の反射板があるボラードはケベック州。
+細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -145,6 +147,14 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432065632!6m8!1m7!1s_tnrWo6hZCZxIDQ8K4Mf0A!2m2!1d49.02144291015642!2d-88.2895963216308!3f268.6020266512863!4f-3.2304603493074353!5f3.2229282956142877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432492247!6m8!1m7!1sLO_H97dvPqc3aO3fixvorg!2m2!1d45.49181109498912!2d-73.58142739183401!3f134.36495306086366!4f-5.588569419165907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683088341064!6m8!1m7!1sHSAkHzAcEW14USPlrlJKRA!2m2!1d52.36115476111625!2d-107.0386419099979!3f255.28033037458422!4f0.9650869034524447!5f3.325193203789971" width="590" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

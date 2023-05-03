@@ -9,7 +9,6 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "MK.png"
 no_detaile_info: true
-jetro_detail: false
 ---
 
 

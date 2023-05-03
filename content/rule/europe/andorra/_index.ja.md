@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "AD.png"
 jetro_detail: true
 plonkit: true
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">

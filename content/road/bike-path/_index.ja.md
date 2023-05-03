@@ -65,7 +65,6 @@ sections: [""]
 {{% tab "フランス" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677426107398!6m8!1m7!1sKEB0Y2ZG1FUZ9fbhtDeBqg!2m2!1d43.60640496808311!2d3.895164958717825!3f214.9448248296125!4f-36.93131877753579!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677457691464!6m8!1m7!1sR3MQ2OeLuEc-L3suN0zmCA!2m2!1d45.456641273711!2d9.157231211520564!3f130.61370961821606!4f-13.407836832556029!5f1.779255114383084" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677487411010!6m8!1m7!1smLXLkaaXD826eNj0p__TqQ!2m2!1d45.76364058575181!2d4.855994237595096!3f105.1371284584488!4f-24.406244175630178!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

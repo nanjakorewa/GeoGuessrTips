@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "BE.png"
 jetro_detail: true
 plonkit: true
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">
