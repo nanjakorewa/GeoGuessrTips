@@ -81,7 +81,7 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
         <li><a href="./okinawa/" class="area-link">沖縄地方</a>
             <ul>
                 <li>平屋の建物が多い</li>
-                <li>建物に<span class="quiz">白い平らな屋根</span>のものが多い</li>
+                <li>建物に<span class="quiz">白い平らな建物</span>が多い</li>
                 <li>屋根上に<span class="quiz">給水タンク</span>がある</li>
                 <li>壁などに<span class="quiz">「石敢當」</span>と書いてある</li>
             </ul>

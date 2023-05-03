@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "HK.png"
 jetro_detail: true
 jogmec_detail: true
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">
