@@ -16,7 +16,16 @@ weight: 1001
 例）こんにちは{{% by "your-twitch-username" "twitch" %}}。こんばんは{{% by "geotips" %}}。
 
 各画像の `CC-BY-` 表記については『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』を参照してください。`GFDL`は『<a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>』のことを指しています。
-パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。USDA.gov上の画像は<a href="https://www.usda.gov/policies-and-links">『Policies and Links』</a>に基づいてパブリックドメインの情報としてコピーして使用しています。
+パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。USDA.gov上の画像は<a href="https://www.usda.gov/policies-and-links">『Policies and Links』</a>に基づいてパブリックドメインの情報として出典元のリンクを掲載して使用しています。
+
+<h2 class="no-blur">背景画像・使用ツール</h2>
+
+<dlv style="text-align:left;pointer-events:none;">
+<img src="./2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
+<img src="./2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
+</div>
+
+<br />
 
 <h2 class="no-blur">プライバシーポリシー・免責事項</h2>
 

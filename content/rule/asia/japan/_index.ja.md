@@ -1,7 +1,7 @@
 ---
 title: "日本"
 date: 2023-02-26
-lastmod: 2023-04-01
+lastmod: 2023-05-01
 weight: 1
 draft: false
 keywords: [""]
@@ -73,9 +73,17 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
                 <li>道路に<span class="quiz">スノーポール・視線誘導標</span>がある</li>
                 <li><span class="quiz">屋根が平ら・カスケード型のガレージ・ホームタンク</span>のある家が目立つ</li>
             </ul>
-        <li><a href="./tyugoku//" class="area-link">中国地方</a>
+        <li><a href="./tyugoku/" class="area-link">中国地方</a>
             <ul>
                 <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
+            </ul>
+        </li>
+        <li><a href="./okinawa/" class="area-link">沖縄地方</a>
+            <ul>
+                <li>平屋の建物が多い</li>
+                <li>建物に<span class="quiz">白い平らな屋根</span>のものが多い</li>
+                <li>屋根上に<span class="quiz">給水タンク</span>がある</li>
+                <li>壁などに<span class="quiz">「石敢當」</span>と書いてある</li>
             </ul>
         </li>
     </ul>
