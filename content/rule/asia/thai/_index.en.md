@@ -90,30 +90,30 @@ Thai is the official language.
 
 {{% tabs  %}}
 {{% tab "Corn" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-15-43.png" width="60%" />
+</div>
 
 {{% notice tip %}}
 As in the U.S. and other countries, corn and soybean production areas are basically almost the same area. Corn and soybeans are produced mainly in the north.
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-15-43.png" width="60%" />
-</div>
 {{% /tab %}}
 {{% tab "Palm" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-17-28.png" width="60%" />
+</div>
 
 {{% notice tip %}}
 If there are palm trees, consider the area to the south.
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-17-28.png" width="60%" />
-</div>
 {{% /tab %}}
 {{% tab "Rice" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-18-17.png" width="60%" />
+</div>
 
 {{% notice tip %}}
 Rice fields are mostly in the direction where Cambodia and Laos are located.
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-18-17.png" width="60%" />
-</div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -89,30 +89,30 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "コーン" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-15-43.png" width="60%" />
+</div>
 
 {{% notice tip %}}
 アメリカなどと同じくコーンと大豆の生産地は基本的にほぼ同じエリア、タイの場合も大豆は北の方のみ。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-15-43.png" width="60%" />
-</div>
 {{% /tab %}}
 {{% tab "パーム" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-17-28.png" width="60%" />
+</div>
 
 {{% notice tip %}}
 ヤシの木のようなパームの木がある場合は南の低地を考えてみる
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-17-28.png" width="60%" />
-</div>
 {{% /tab %}}
 {{% tab "コメ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-21-18-17.png" width="60%" />
+</div>
 
 {{% notice tip %}}
 田んぼはカンボジア・ラオスのある方向に多い
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-18-17.png" width="60%" />
-</div>
 {{% /tab %}}
 {{% /tabs %}}
