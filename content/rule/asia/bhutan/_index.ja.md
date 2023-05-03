@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "BT.png"
 no_detaile_info: true
 jetro_detail: false
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">

@@ -1,0 +1,89 @@
+---
+title: "Cambodia"
+date: 2023-02-26
+lastmod: 2023-05-01
+weight: 1
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "KH.png"
+no_detaile_info: true
+jetro_detail: false
+plonkit: true
+dont_show_usda: true
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li><span class="quiz">Right-side</span> driving</li>
+        <li>DDomain is <span class="quiz">.kh</span></li>
+        <li><span class="quiz">Khmer (ភាសាខ្មែរ)</span> is widely used; English is also spoken in urban areas.</li>
+        <li>Rural Cambodia has many <span class="quiz">stilt houses</span>.</li>
+        <li>There are logos of the beer brands <span class="quiz">LEO, Kingdom, and Angkor</span> on the parasols, etc. The logo of <span class="quiz">Angkor</span>, the largest company, is of course Angkor Wat.</li>
+        <li class="no-evidence">Bottled drinks are often found for sale under parasols.</li>
+    </ul>
+</div>
+
+
+
+{{% tabs  %}}
+{{% tab "w-etf" %}}
+{{% notice tip %}}
+<span class="quiz"><span class="quiz">Khmer (ភាសាខ្មែរ)</span> is widely used; English is also spoken in urban areas. Bottled drinks are often found for sale under parasols.
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682133209760!6m8!1m7!1syGkYFcgln6xoRiqHaZEhBA!2m2!1d12.40530482325942!2d103.8104081534148!3f153.77553353717212!4f-27.381682905980973!5f3.0896211671220453" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681965574746!6m8!1m7!1shf_gpKCsC1ocl-6MS5vU7A!2m2!1d12.08886236246895!2d105.8990009965259!3f297.59847835993816!4f-11.136309468003518!5f2.557293617021836" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+Rural Cambodia has many <span class="quiz">stilt houses</span>. Cambodia has a <span class="quiz">tropical monsoon</span> climate that is hot and humid throughout the year. The high floors provide protection from the heat during the day and a resting space for cows and buffaloes at night. They also provide protection against flooding from heavy rains during the rainy season（References：<a href="http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf">2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6</a>）.
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681965793866!6m8!1m7!1sCC4gdvMh6mHaHJ4LbinpUw!2m2!1d13.79205738884228!2d107.0446235238677!3f189.80029586278943!4f4.564831644180387!5f1.7504441702702604" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681965922771!6m8!1m7!1sLwHCWLuOuIkAAAQINShrPg!2m2!1d12.46682606828532!2d106.0253300553675!3f351.4900256991656!4f0.6708053189221772!5f1.674384299632421" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+Many parasols and signs with well-known companies in Cambodia. Beeline for telecommunications, Coca-Cola for soft drinks, <span class="quiz">LEO, Kingdom, Angkor</span> for beer, etc. Angkor's logo also has Angkor Wat on it.（<a href="https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php">Source</a>）。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Language" %}}
+{{% notice note %}}
+Khmer is the official language.
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>language-name</th> <th>writing</th>
+</tr>
+<tr><td><span class="quiz">English</span></td><td>Japanese Restaurant</td></tr>
+<tr><td><span class="quiz">Japanese</span></td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">Sinhalese</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">Assamese</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">Kannada</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">Gujarati</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">Tamil</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">Bengali</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">Hindi</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">Khmer</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">Thai</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+</table>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>In Siem Reap, where Angkor Wat is located, bylaws prohibit the construction of tall buildings.{{% by "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "web" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
+    </ul>
+</div>

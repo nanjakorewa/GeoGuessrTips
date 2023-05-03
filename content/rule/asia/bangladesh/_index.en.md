@@ -1,5 +1,5 @@
 ---
-title: "バングラディシュ"
+title: "Bangladesh"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -16,11 +16,11 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>車は<span class="quiz">左側</span>通行</li>
-        <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
-        <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
-        <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
-        <li>Dhaka bankのロゴがあるかも</li>
+        <li><span class="quiz">Left-side</span> driving</li>
+        <li>There's a <span class="quiz">black and white</span> striped pole sign.</li>
+        <li>Many <span class="quiz">red and white striped</span> bollards. They are often lined up near bridges.</li>
+        <li>Google Car in Bangladesh is distinctive.</li>
+        <li>Dhaka bank logo may be seen around town</li>
     </ul>
 </div>
 
@@ -29,7 +29,7 @@ dont_show_usda: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">赤と白の縞</span>模様のボラード。橋の近くの道の両サイドにたくさん並んでいることが多い。
+You may find <span class="quiz">red and white striped</span> bollards. Often many of them line both sides of the road near bridges.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -37,7 +37,7 @@ dont_show_usda: true
 </div>
 
 {{% notice tip %}}
-バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある
+GoogleCar in Bangladesh is distinctive and easily recognizable.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679241217157!6m8!1m7!1sl3OsNKZrdERhKWo0dDIGGA!2m2!1d22.71288525097118!2d90.35422200087513!3f280.85811143171856!4f-39.81621495433588!5f1.5966149083906154" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -66,25 +66,26 @@ dont_show_usda: true
 {{% /tab %}}
 {{% tab "言語" %}}
 {{% notice note %}}
-バングラディシュでは主にベンガル語が使用されている
+Bengali is the main language used in Bangladesh
 {{% /notice %}}
 
 <div class="googlemap-if">
 <table class="word-list">
 <tr>
-    <th>言語名</th> <th>表記</th>
+    <th>language-name</th> <th>writing</th>
 </tr>
-<tr><td>日本</td><td>日本料理レストラン</td></tr>
-<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
-<tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
-<tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
-<tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
-<tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
-<tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
-<tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
-<tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
-<tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
-<tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+<tr><td><span class="quiz">English</span></td><td>Japanese Restaurant</td></tr>
+<tr><td><span class="quiz">Japanese</span></td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">Sinhalese</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">Assamese</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">Kannada</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">Gujarati</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">Tamil</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">Bengali</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">Hindi</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">Khmer</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">Thai</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
 {{% /tab %}}

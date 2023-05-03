@@ -1,5 +1,5 @@
 ---
-title: "香港"
+title: "Hong Kong"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -15,9 +15,9 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.hk</span></li>
-        <li>言語は香港語(広東語の方言)</li>
-        <li>ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span></li>
+        <li>Domain is <span class="quiz">.hk</span></li>
+        <li>Language is Hong Kong (dialect of Cantonese)</li>
+        <li>The license plate is <span class="quiz">white</span> on the front and <span class="quiz">yellow</span> on the back.</li>
     </ul>
 </div>
 
@@ -25,7 +25,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>。背景が黒いナンバープレートならば澳門の可能性を考える。
+The license plate is <span class="quiz">white</span> on the front and <span class="quiz">yellow</span> on the back. If the license plate has a black background, consider the possibility of Macau.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682669362773!6m8!1m7!1sg7CArHLgvovxhEnlWdkHUg!2m2!1d22.26614345083903!2d114.1798663403918!3f74.35731108111615!4f-12.1637470023567!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
