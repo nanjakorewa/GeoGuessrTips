@@ -16,6 +16,7 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tw</span></li>
+        <li>道端に<span class="quiz">赤い●</span>のボラードがある</li>
         <li>日本のファミリーマート同様、看板の隅に店名が書かれている</li>
         <li>電話番号は北から南へのグラデーション</li>
     </ul>
@@ -24,9 +25,12 @@ jetro_detail: false
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+{{% notice tip %}}
+道端に<span class="quiz">赤い●</span>のボラードがある（画像左下のガードレールについている）
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681314309834!6m8!1m7!1sP_k_BCfdWc8-S5XTlns2GQ!2m2!1d25.0451530126308!2d121.5110849874894!3f327.72171944836816!4f10.232984246982681!5f3.214099191520879" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681314351253!6m8!1m7!1s-nb1HBOy1tnC0hxgIPkClQ!2m2!1d25.04409660365155!2d121.5115284120453!3f45.54370317896274!4f0.03562760890490324!5f2.8098801247074485" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mpecero/39302631925/" title="."><img src="https://live.staticflickr.com/4748/39302631925_f221b47277_z.jpg" width="640" height="360" alt="."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "電話番号" %}}
