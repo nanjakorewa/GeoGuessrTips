@@ -53,6 +53,9 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 
 {{% /tab %}}
 {{% tab "w-road" %}}
+{{% notice tip %}}
+赤茶色のポールや留め具が多い気がする
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101739474!6m8!1m7!1sTyeObkPyGj8YuX9dN0z38A!2m2!1d7.422406929066982!2d125.7903360325907!3f239.67141175517145!4f-1.3145434412512884!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249781531!6m8!1m7!1sCgLuMD_CQVNlp_5GCdbQuw!2m2!1d8.6718633256141!2d125.8553665045728!3f168.42819800819322!4f-6.48711248298369!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
