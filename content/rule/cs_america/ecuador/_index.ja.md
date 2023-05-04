@@ -17,13 +17,14 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.ec</span></li>
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>標識の裏が凹凸のないフラットな感じのものが多い{{% by %}}</li>
-        <li class="no-evidence">ボラードが円柱で2つ反射板が巻かれていたらエクアドルかも</li>
+        <li class="no-evidence">ボラードに２つ反射板が巻かれている・２つ反射板が付いているならエクアドルかも</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
+標識の裏がシンプルでフラットな感じ。ボラードはいろいろな種類があるが、２つ反射板が巻かれている見慣れない形のものはエクアドルかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
