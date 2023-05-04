@@ -89,7 +89,12 @@ You rarely find Royal Crown Cola in Japan, but in the Philipines, you can easily
 </div>
 {{% /tab %}}
 {{% tab "🐃" %}}
+{{% notice tip %}}
+Wild dogs are common on the outskirts of the Philippines, as are buffalo.
+{{% /notice %}}
+
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683170588612!6m8!1m7!1sR1HvCC1PofCtZcbM4izrkA!2m2!1d16.31433695443026!2d120.9650755225004!3f32.04945866177463!4f-16.639471984967372!5f3.178138283318091" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249674643!6m8!1m7!1styPReco5CCf6mijnlw9zhw!2m2!1d8.667798044980291!2d125.8604272841918!3f43.368190812299964!4f-6.674662938576006!5f3.3022879075983824" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

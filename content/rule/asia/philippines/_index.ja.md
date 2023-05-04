@@ -100,7 +100,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 {{% /tab %}}
 {{% tab "🐃" %}}
 {{% notice tip %}}
-フィリピンには野犬がよくいる
+フィリピンの郊外には野犬がよくいるし水牛もいる
 {{% /notice %}}
 
 <div class="googlemap-if">
