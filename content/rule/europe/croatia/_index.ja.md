@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "DK.png"
+flag: "HR.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true

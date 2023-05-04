@@ -20,6 +20,7 @@ jetro_detail: true
         <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
         <li>郊外や山間部はほとんど出ない</li>
+        <li>ドイツは第2世代しかない{{% by "neckoluv" "twitch" %}}</li>
     </ul>
 </div>
 
