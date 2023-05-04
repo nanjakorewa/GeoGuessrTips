@@ -24,7 +24,7 @@ dont_show_usda: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üなどが特徴的。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682125696349!6m8!1m7!1sj3lhjc16BvPLpaJU_dkwGg!2m2!1d39.66015996648644!2d27.5249062202322!3f219.61317816768963!4f-13.440804874111492!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -35,7 +35,7 @@ dont_show_usda: true
 止まれの標識は<span class="quiz">DUR</span>
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679329429724!6m8!1m7!1stlR0bfMutQCq8lt8DCFKrQ!2m2!1d41.13258238720963!2d29.28276451037982!3f258.73513046843476!4f-0.699127415117772!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="DUR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}

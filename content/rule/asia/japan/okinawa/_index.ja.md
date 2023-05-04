@@ -12,7 +12,7 @@ no_jetro: true
 {{% tabs  %}}
 {{% tab "沖縄全域" %}}
 {{% notice tip %}}
-建物に<span class="quiz">白い平らな屋根</span>のものが多く、屋根上に<span class="quiz">給水タンク</span>が乗っている家もある。平屋のものがが多い。
+建物に<span class="quiz">白い平らな屋根</span>のものが多く、屋根上に<span class="quiz">給水タンク</span>が乗っている家もある。平屋のものが多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
