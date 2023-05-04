@@ -19,6 +19,7 @@ dont_show_usda: true
         <li>ドメインは<span class="quiz">.ad</span></li>
         <li>道の真ん中や道路際に<span class="quiz">緑色</span>のボラードがある</li>
         <li>左側が<span class="quiz">黄色</span>くなっているナンバープレート</li>
+        <li>周りが山がちで石壁の模様の壁のアパート・マンションが多い</li>
     </ul>
 </div>
 
