@@ -15,11 +15,10 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.de</span></li>
-        <li>ドイツ語の母音は「a・i・u・e・o」と<span class="quiz">ウムラウト「ü・ö・ä」</span>の8つ</li>
-        <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツ語の冠詞は<span class="quiz">「der・die」（男性名詞・女性名詞で異なる）</span></li>
-        <li>四角いモザイク {{% by "neckoluv" "twitch" %}}が多い。移動して急に建物にモザイクがかかるのはドイツかも。</li>
-        <li>Einbahnstraßeは一方通行の標識</li>
+        <li>四角いモザイクが多い{{% by "neckoluv" "twitch" %}}。</li>
+        <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
+        <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
         <li>郊外や山間部はほとんど出ない</li>
     </ul>
 </div>
@@ -33,10 +32,22 @@ jetro_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679420140985!6m8!1m7!1sqwKjwVluqLRAgo2ObpAsXA!2m2!1d48.14926892865647!2d11.56215823569409!3f122.32034254578278!4f13.242303538779481!5f1.72032405487214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
+{{% notice tip %}}
+MAN Truck & Busはバイエルン州のミュンヘンに本社がある
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679315351117!6m8!1m7!1skF_KuUGheUd_XUJlnGeY_A!2m2!1d50.92505140294847!2d6.958498269883926!3f221.1955797434303!4f-2.676596217032184!5f2.8429447685952494" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683185523960!6m8!1m7!1snvYQfP_pgME098dkO1Qt_g!2m2!1d50.92495539690297!2d6.95852656384067!3f322.8118669778739!4f-5.199782705638626!5f2.8953866314678622" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
