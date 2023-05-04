@@ -10,6 +10,8 @@ bg: "bg/city.jpg"
 flag: "FI.png"
 jetro_detail: true
 plonkit: true
+additional_link:
+    - ["Finland Doc for Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
 ---
 
 <div class="main-desciption country-description">
@@ -104,6 +106,7 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>看板に書いてある言語で北か南かを判別できる</li>
     </ul>
 </div>
 
@@ -127,7 +130,7 @@ plonkit: true
 </div>
 
 {{% tabs %}}
-{{% tab "？" %}}
+{{% tab "オーランド諸島" %}}
 
 {{% notice tip %}}
 周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも
