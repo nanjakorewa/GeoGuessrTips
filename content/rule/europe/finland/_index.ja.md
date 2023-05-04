@@ -99,3 +99,43 @@ plonkit: true
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "？" %}}
+
+{{% notice tip %}}
+{{% /notice %}}
+
+<div class="googlemap-if">？
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "？" %}}
+
+{{% notice tip %}}
+周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683169867543!6m8!1m7!1sCRl-TOMzW_bVntP1Odk5bg!2m2!1d60.27417965996465!2d20.07544783402155!3f336.06480769683276!4f-17.737672071745408!5f0.7820865974627469" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}

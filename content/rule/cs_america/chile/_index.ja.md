@@ -71,7 +71,7 @@ jogmec_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>サンティアゴ付近の山が特徴的なので覚えておくと役に立つかも</li>
         <li>雪が積もっている地域と海が北に見える＝<a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"><span class="quiz">プエルト・ウィリアムズ</span></a></span></li>

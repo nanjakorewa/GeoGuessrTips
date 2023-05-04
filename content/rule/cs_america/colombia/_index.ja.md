@@ -97,7 +97,7 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>タクシーとトラックの屋根または側面にサイドプレートがあり、<span class="quiz">ナンバーと都市名</span>が書いてある</li>
     </ul>

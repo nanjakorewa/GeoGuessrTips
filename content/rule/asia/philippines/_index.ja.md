@@ -22,6 +22,7 @@ jogmec_detail: true
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
         <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
         <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
+        <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカだけかも</li>
     </ul>
 </div>
 
@@ -56,6 +57,15 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101739474!6m8!1m7!1sTyeObkPyGj8YuX9dN0z38A!2m2!1d7.422406929066982!2d125.7903360325907!3f239.67141175517145!4f-1.3145434412512884!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249781531!6m8!1m7!1sCgLuMD_CQVNlp_5GCdbQuw!2m2!1d8.6718633256141!2d125.8553665045728!3f168.42819800819322!4f-6.48711248298369!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカだけかも
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683170464065!6m8!1m7!1sxL0zZf0ZouIV1Q1ol6gClg!2m2!1d16.31629957181731!2d120.967650339569!3f36.532556860320405!4f-4.994132390042282!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 
@@ -86,7 +96,12 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 </div>
 {{% /tab %}}
 {{% tab "🐃" %}}
+{{% notice tip %}}
+フィリピンには野犬がよくいる
+{{% /notice %}}
+
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683170588612!6m8!1m7!1sR1HvCC1PofCtZcbM4izrkA!2m2!1d16.31433695443026!2d120.9650755225004!3f32.04945866177463!4f-16.639471984967372!5f3.178138283318091" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249674643!6m8!1m7!1styPReco5CCf6mijnlw9zhw!2m2!1d8.667798044980291!2d125.8604272841918!3f43.368190812299964!4f-6.674662938576006!5f3.3022879075983824" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

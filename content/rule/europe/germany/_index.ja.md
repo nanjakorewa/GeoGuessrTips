@@ -48,7 +48,7 @@ jetro_detail: true
 
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}</li>
     </ul>

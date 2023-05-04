@@ -48,7 +48,7 @@ By Quilmeño89 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/
 </div>
 
 {{% notice tip %}}
-遠くが見えないほどまっすぐな道はアルゼンチンに多い（センターラインは黄色の時も白の時もある）
+遠くが見えないほどまっすぐな道はアルゼンチンに多い。センターラインは黄色１本・２本・ダッシュでない白線の時もある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pniselba/16133378496/in/photolist-22veJeY-NL4zYV-YikzAu-XEDhmZ-qzDMmd-8eBmcv-Ngi9Ay-82jWgf-HgFr2K-S1A2wM-TAAJmU-23JZdjf-xNCJGb-286zEbz-jVMdQ1-ehy5bW-23SA4XK-DfF6E8-DBKzUh-6YFWrb-jHijQq-29c43b3-YijEZC-HYVsBx-25e6nzd-MpNnT7-92C4ot-gRvYA7-BEvNGW-yVpyMi-25sumMo-jHigZL-C6DFNU-SPt6Hm-U7Wg4d-epGcfL-q56HFt-KHDvxp-6Qzxkp-SP8EuY-Tzim5j-6WcSPF-FF52AY-SGeZ2W-epGdbQ-7GxiGW-H5wMds-b7RvTr-7zXKqQ-DCXf1" title="Ruta Pampeana"><img src="https://live.staticflickr.com/7568/16133378496_46623c6250_z.jpg" width="640" height="427" alt="Ruta Pampeana"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -77,7 +77,7 @@ By Quilmeño89 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/
 </div>
 
 {{% notice tip %}}
-ずっと遠くまでまっすくに伸びた道はアルゼンチンによくある道だと思う
+ずっと遠くまでまっすくに伸びた道はアルゼンチンによくある道だと思う。また黄色の２本線（もしくは黄色二本の間に白いダッシュがある線）はアルゼンチンにはあるがウルグアイにはない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681308145769!6m8!1m7!1sfApCKRpDOKXqeTUlkpjXYw!2m2!1d-37.00094192414552!2d-63.66678962361176!3f173.36811843486183!4f-7.40867201815955!5f0.7929884876831526" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

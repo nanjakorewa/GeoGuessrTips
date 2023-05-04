@@ -30,11 +30,10 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-とまれの標識が<span class="quiz">berhenti</span>
+とまれの標識が<span class="quiz">berhenti</span>。白黒や黄色黒のストライプのポールが多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564406978!6m8!1m7!1sOxpaJdY7JhyU0zYv0bsPDg!2m2!1d4.169151459378142!2d102.0313136359225!3f155.53492615597378!4f-4.481221791827053!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564356098!6m8!1m7!1sOQpse3NBJV_q0yZMFeZxtQ!2m2!1d2.659956192609808!2d103.6203495743069!3f279.1735582697709!4f-4.6721728146199695!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/2043kj/6172052664/in/photolist-appoe7-2y63VW-4wMKTv-2heipCK-QaBCuh-2nJHsY-an96DD-27Gh5YW-aiBsQP-27LRC8t-9Dckne-anjNtD-i1QFtH-ansfbj-anbUdC-anbUtb-anpqi6-anpqbr-2h3SYXe-anp476-ajSJrq-anp3KV-anp3Ak-anEwA3-EYFASG-anEwH5-anEw6J-anEvUj-anEwr3-anpqMc-anrRZ7-anrSy5-anseuo-anBJgP-ak3yF3-ansf2S-akjsvm-akjsfQ-214h28Z-2kManEW-2jGzPZ-2kMaNB5-bAdHhN-abVyvJ-CAQxre-ApVUnR-KuWgHC-bsKmzg-f4djxG-MTuH5W" title="！BERHENTI ！"><img src="https://live.staticflickr.com/6169/6172052664_36fa580537_z.jpg" width="640" height="427" alt="！BERHENTI ！"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -45,12 +44,20 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564489299!6m8!1m7!1sOqmiq8rtdUFauyLI3S0ZCg!2m2!1d3.894569593205817!2d101.8966010963362!3f152.40725002372795!4f-13.150668822083759!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% /tab %}}
-{{% tab "w-viecle" %}}
+{{% notice tip %}}
+モザイクのかかり方によってはナンバープレートが３つに分かれて見えるかも、マレーシアなら２つに分かれて見える。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681094472055!6m8!1m7!1sf9c0dk3547CF6PjuVpGNVw!2m2!1d4.592796990111133!2d101.0845285602888!3f151.5626512868176!4f-20.43834258802022!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681094369461!6m8!1m7!1s1f89tCbGX2xlb3DN55W-FA!2m2!1d5.963005220166914!2d116.0888713263532!3f218.88572302458456!4f-10.665446132156674!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683171861035!6m8!1m7!1sYEoHd0EO8M2UlwN_edGegA!2m2!1d3.736140628903989!2d113.780365519882!3f301.0765270440488!4f-12.8065474911877!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% lb 50 large %}}
+<img src="2023-05-04-12-38-44.png" />
+
+By Slleong - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
@@ -58,8 +65,6 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094513055!6m8!1m7!1sYRlhpp1aBIpZxijvoVu0ZA!2m2!1d4.592198714091221!2d101.0844063944407!3f298.35050437596914!4f16.795660891195553!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679328011423!6m8!1m7!1srD4Hm8wI6jS1Pi2AU_cwwQ!2m2!1d5.962645935549891!2d116.0887451730778!3f69.01825883200586!4f5.942926533921593!5f2.9467866236777334" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680608840026!6m8!1m7!1sX5lIc524AiJNKc-mfpjJ5w!2m2!1d3.069872218239332!2d101.5488705795945!3f110.14004331524838!4f-3.514524711095703!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

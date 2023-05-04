@@ -83,7 +83,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ゴミ箱に都市名が書いてあることがある。ぼやけて読みづらいことが多いけど意識すれば読めることもある？（紫：リヴァプール、茶：シェフィールド）</li>
     </ul>

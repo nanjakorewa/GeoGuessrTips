@@ -18,7 +18,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>道端で<span class="quiz">タバコ</span>がよく売られていて家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
-        <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が三つに分かれて見えるかもしれない</li>
+        <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が３つに分かれて見えるかもしれない。マレーシアも黒いが２つに分かれて見える。</li>
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
         <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
     </ul>
@@ -59,7 +59,7 @@ plonkit: true
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% notice tip %}}
-モザイクのかかり方によってはナンバープレートが三つに分かれて見えるかも...？また白以外にも黄色や赤のナンバープレートも存在する。
+モザイクのかかり方によってはナンバープレートが３つに分かれて見えるかも、マレーシアなら２つに分かれて見える。また白以外にも黄色や赤のナンバープレートも存在する。
 {{% /notice %}}
 
 <div class="googlemap-if">

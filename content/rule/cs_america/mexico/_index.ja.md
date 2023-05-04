@@ -88,7 +88,7 @@ jogmec_detail: true
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
         <li>ナンバープレートの色で町が分かることがある</li>

@@ -57,7 +57,7 @@ jogmec_detail: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
         <li>パトカーの赤青の位置で地域を絞り込める、海沿いの地域は赤色のランプが<span class="quiz">右側</span>にある{{% by %}}</li>
     <ul class="rule-list">
     </ul>

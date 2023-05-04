@@ -18,8 +18,8 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.sk</span></li>
         <li>ボラードは<span class="quiz">黒い領域に反射板が2枚</span></li>
         <li>チェコとスロバキアのみ使用されているガードレールが周りの国と異なりthin-B profileと呼ばれるタイプを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
-        <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。</li>
-        <li>チェコかスロバキアのどちらか分からないとき、<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
+        <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
+        <li>チェコかスロバキアのどちらか分からないとき<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
         <li>スロバキアは全体的にタトラ山脈の影響で<span class="quiz">全体的に山がち</span></li>
         <li>ブラチスラバとそれ以外との間に経済的な格差がある。一人当たりGDPがチェコよりも低い（2021年時点でチェコ26,410米ドル・スロバキア21,050米ドル）{{% by "https://www.mofa.go.jp/mofaj/area/slovak/data.html" "web" "外務省 スロバキア共和国 基礎データ" %}}。</li>
     </ul>

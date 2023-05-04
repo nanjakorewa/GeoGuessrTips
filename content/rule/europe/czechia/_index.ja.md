@@ -17,11 +17,11 @@ plonkit: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cz</span></li>
-        <li>チェコ語の母音クロウジェク<span class="quiz">Ů・ů</span>が文字に含まれるかも</li>
         <li>ボラードは<span class="quiz">黒い領域に反射板が2枚</span></li>
+        <li>チェコ語の母音クロウジェク<span class="quiz">Ů・ů</span>が文字に含まれるかも</li>
         <li>チェコとスロバキアのみ使用されているガードレールが周りの国と異なりthin-B profileと呼ばれるタイプを使用する。<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴。{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
-        <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。</li>
-        <li>チェコかスロバキアのどちらか分からないとき、<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
+        <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
+        <li>チェコかスロバキアのどちらか分からないとき<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
     </ul>
 </div>
 

@@ -126,7 +126,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
         <li>ヴェルサイユ宮殿の中も出題される</li>

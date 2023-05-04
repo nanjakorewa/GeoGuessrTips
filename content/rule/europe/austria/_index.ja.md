@@ -16,18 +16,17 @@ plonkit: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.at</span></li>
-        <li>一方通行は<span class="quiz">EINBAHN</span></li>
+        <li>一方通行は<span class="quiz">EINBAHN</span>の標識がありポールに赤と白のペイントがされていることがある</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">EINBAHN</span>などの標識
+<span class="quiz">EINBAHN</span>の標識がありポールに赤と白のペイントがされていることがある
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680775964600!6m8!1m7!1syoCvv9BpJ9Czz68JcdAEzQ!2m2!1d47.81087658514463!2d13.04039569934649!3f43.58011647142097!4f-0.1349558094340182!5f2.9078842684879733" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681157746176!6m8!1m7!1smM2gvwT8Z5ib397dxz_0tg!2m2!1d47.81170494457491!2d13.04180991648901!3f156.54386919456383!4f-5.792545475644886!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/robertwallner/4185324523/in/photolist-cdUXnQ-91Pdae-5e2j9k-iwtLiU-VXStiM-7gdvZN-xxmzSy-2mg64or-2mhVb45-96nVqK-5jBuYS-WRicCj-2fiwSsN-EGJzXj-Xi2FRv-25qLkZq-fXte3S-nazsY-3c3YTN-oH5bTT-Hobenx-naBYH-bFQQk8-aBAfY4-MuWfG-68uu1Y-7wkrTh-gyabZk-7nQTgv-KkTuSq-22QV6ZS-8DhjBX-GtWq8-c4ApLq-qFX4Y2-7nQTRn-b78moT-iJj9E7-7nQTaD-7nUMnb-8EJJdq-81NwNW-7nQTsX-7nQTAp-7nQTCk-7nUMiS-7nUM9N-7nQTjM-r7LtpC-7nUMhE" title="Einbahn_Vorgartenstraße_01"><img src="https://live.staticflickr.com/4041/4185324523_6ec56debe2_z.jpg" width="640" height="480" alt="Einbahn_Vorgartenstraße_01"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}

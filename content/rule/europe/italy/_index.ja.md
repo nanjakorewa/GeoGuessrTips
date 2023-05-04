@@ -88,7 +88,7 @@ TheFlyingDutchman, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
     </ul>
 </div>

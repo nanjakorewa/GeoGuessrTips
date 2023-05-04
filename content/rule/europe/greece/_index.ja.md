@@ -56,7 +56,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">都市・町の絞り込み</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
     </ul>

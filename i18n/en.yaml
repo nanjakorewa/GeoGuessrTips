@@ -31,7 +31,9 @@
 - id: how-to-distinguish
   translation: How to Distinguish
 - id: narrow-down-the-area
-  translation: Narrow down state or region
+  translation: Narrow down state/region
+- id: narrow-down-the-city
+  translation: Narrow down city/town
 - id: toppage
   translation: Home
 - id: page-title

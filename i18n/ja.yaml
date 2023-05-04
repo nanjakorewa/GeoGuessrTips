@@ -34,6 +34,8 @@
   translation: 州・地域の絞り込み
 - id: narrow-down-the-area
   translation: 州・地域の絞り込み
+- id: narrow-down-the-city
+  translation: 都市・町の絞り込み
 - id: toppage
   translation: トップページ
 - id: page-title
