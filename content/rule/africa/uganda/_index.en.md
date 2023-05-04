@@ -1,5 +1,5 @@
 ---
-title: "ウガンダ"
+title: "Uganda"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -38,12 +38,6 @@ Houses are made of wood and brick
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681487465264!6m8!1m7!1sERB4GwItoUiPxb5_GhJpYA!2m2!1d0.2597360773807452!2d32.62400203457052!3f345.6188386334501!4f-5.6955029058065065!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681487552885!6m8!1m7!1sTd2kGulIAr9q98L0Xp8lcg!2m2!1d0.2614485148265462!2d32.62049893724982!3f352.97527258587843!4f-4.419233665414339!5f3.3050553876225863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681487729654!6m8!1m7!1sv2rNc_pGdl9q61moIebPSA!2m2!1d0.3642536362273232!2d32.71063569501585!3f212.79839792487212!4f-0.8681125310646252!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "ボラード？" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681487514437!6m8!1m7!1s4yyy_wchqrpIiZcSzi5LxQ!2m2!1d0.2601541664260471!2d32.62299209357656!3f334.9274336279136!4f-14.051233229001326!5f2.929540560765874" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
