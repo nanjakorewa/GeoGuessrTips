@@ -35,7 +35,7 @@ jogmec_detail: true
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的。停まれはALTO。
+<span class="quiz">8角形</span>の電柱が特徴的、ただしこれだけでは100%確定しないので周りの雰囲気も合わせてメキシコと判断する。停まれはALTO。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

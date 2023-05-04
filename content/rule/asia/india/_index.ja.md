@@ -77,6 +77,9 @@ jogmec_detail: true
 
 {{% /tab %}}
 {{% tab "赤色" %}}
+{{% notice tip %}}
+真っ赤な土は南西か南の可能性があるが範囲は結構広い
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682467696860!6m8!1m7!1sOluJZwXC7iXwDtFZiGAuGw!2m2!1d8.84349947702833!2d77.5365639325106!3f225.12623673033116!4f-6.411466212566282!5f3.169518039872058" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682468578442!6m8!1m7!1s9DnaN2OwV_AHzLcAQ85f0w!2m2!1d21.06955355279361!2d84.30525247708368!3f179.4264476922859!4f-19.858869347516674!5f2.9592035569667035" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -117,7 +120,7 @@ jogmec_detail: true
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
-        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが違う場所にもあるので注意</li>
+        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが複数ある可能性もあるので注意</li>
     </ul>
 </div>
 

@@ -106,7 +106,7 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "タクシー" %}}
-{{% notice tip %}}ステッカーににPOPAYANと書かれている
+{{% notice tip %}}ステッカーにPOPAYANと書かれている
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679137969933!6m8!1m7!1sXD5mn8ENTU36E8wY6oVgOw!2m2!1d2.459939005594445!2d-76.59373969920176!3f264.4511955614134!4f-29.74845254312335!5f1.9483907551121744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
