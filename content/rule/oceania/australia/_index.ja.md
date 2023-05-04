@@ -68,7 +68,7 @@ plonkit: true
                 <li>ベージュ：砂漠と乾燥した低木</li>
             </ul>
         </li>
-        <li>土の色からおおよその地域を掴む必要がある</li>
+        <li>土の色からおおよその地域が分かるときもある</li>
     </ul>
 </div>
 
@@ -130,7 +130,6 @@ plonkit: true
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li>クリスマス島が出題されることがある
