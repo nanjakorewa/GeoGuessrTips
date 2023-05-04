@@ -129,6 +129,37 @@ plonkit: true
 {{% /tab %}}
 {{% /tabs %}}
 
+
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>QLDの電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li>SAの電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
+        <li>NAの電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "QLD（クィーンズランド州）" %}}
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここで現地から <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> の電柱Tips！<br><br>黒く塗られた番号・青くて丸いマーカー・ちょっと上に傾いた横向きの碍子はすべてクイーンズランド州特有なので覚えよう！ <a href="https://t.co/Jbzg4WThyN">pic.twitter.com/Jbzg4WThyN</a></p>&mdash; Daigo ʅ(･Θ･)ʃ (@Daig_O) <a href="https://twitter.com/Daig_O/status/1654019022021881856?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "SA（南オーストラリア州）" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876310366!6m8!1m7!1s0GIbI-sr8Q9l7AYua8OAgw!2m2!1d-33.13255954029371!2d135.5524586341847!3f262.0190664488449!4f-1.0028351410437466!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "NT（ノーザンテリトリー）" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876456537!6m8!1m7!1shd7Z7v-D90HQqyG7kY9b8g!2m2!1d-12.46811351660095!2d130.9896766812721!3f317.6882480346222!4f2.9617063585158974!5f2.8082921195720525" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
@@ -181,36 +212,6 @@ By EurovisionNim - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.or
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682062382933!6m8!1m7!1sSBdKZ40H2M8xPSokxUtPoQ!2m2!1d-10.45355846376693!2d105.704299194019!3f315.6525438055099!4f-8.88735771874778!5f2.807657372735314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682062751295!6m8!1m7!1s35iAZNdV7sPXDC6Adw3aFQ!2m2!1d-10.46446473001514!2d105.7053514791641!3f323.3154578012112!4f-21.45262967455278!5f2.0250071090711597" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682062906190!6m8!1m7!1sZnVGE87HfEM5LVtBiy6ovQ!2m2!1d-10.44703859057434!2d105.6639100514767!3f233.62336730438818!4f3.6153994343963234!5f0.4687534173180097" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
-
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
-        <li>QLDの電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
-        <li>SAの電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
-        <li>NAの電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
-    </ul>
-</div>
-
-{{% tabs  %}}
-{{% tab "QLD（クィーンズランド州）" %}}
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここで現地から <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> の電柱Tips！<br><br>黒く塗られた番号・青くて丸いマーカー・ちょっと上に傾いた横向きの碍子はすべてクイーンズランド州特有なので覚えよう！ <a href="https://t.co/Jbzg4WThyN">pic.twitter.com/Jbzg4WThyN</a></p>&mdash; Daigo ʅ(･Θ･)ʃ (@Daig_O) <a href="https://twitter.com/Daig_O/status/1654019022021881856?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
-{{% /tab %}}
-{{% tab "SA（南オーストラリア州）" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682876310366!6m8!1m7!1s0GIbI-sr8Q9l7AYua8OAgw!2m2!1d-33.13255954029371!2d135.5524586341847!3f262.0190664488449!4f-1.0028351410437466!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "NT（ノーザンテリトリー）" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682876456537!6m8!1m7!1shd7Z7v-D90HQqyG7kY9b8g!2m2!1d-12.46811351660095!2d130.9896766812721!3f317.6882480346222!4f2.9617063585158974!5f2.8082921195720525" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
