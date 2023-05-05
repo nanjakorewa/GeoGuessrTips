@@ -19,8 +19,8 @@ dont_show_usda: true
         <li>ドメインは<span class="quiz">.jo</span></li>
         <li>言語は<span class="quiz">アラビア語</span></li>
         <li>アンマンでは<span class="quiz">黄色と緑</span>のタクシーがたくさん走っている{{% by %}}</li>
-        <li>中東で<span class="quiz">黒い</span>車が走っているのはここだけ{{% by "usumdensetu" "twitch" %}}</li>
         <li>都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える</li>
+        <li>中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
 </div>
 

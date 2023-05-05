@@ -16,7 +16,7 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.rs</span></li>
-        <li>反射板が偏った薄いボラード</li>
+        <li class="important-rule">反射板が偏った薄いボラード</li>
     </ul>
 </div>
 

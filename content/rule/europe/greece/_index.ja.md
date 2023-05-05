@@ -14,7 +14,7 @@ jetro_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ギリシャ文字がある</li>
+        <li class="important-rule">ギリシャ文字がある</li>
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}。形は色々ある。</li>
     </ul>
 </div>
@@ -23,11 +23,10 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ギリシャ文字があり、Σが特徴的。
+ギリシャ文字がありΣやλが特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679482342135!6m8!1m7!1sNCahtFyPK01XyHFYl-H3rA!2m2!1d39.36258188327933!2d22.957585232472!3f149.00109708999727!4f1.381571271880901!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680635995930!6m8!1m7!1sK5hoPYlWycb9Tki6Xj5VsQ!2m2!1d38.41253682461406!2d23.83558671491464!3f17.12261119782924!4f-3.1687550591802562!5f2.4592743292661545" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/carolemage/6914690766/in/photolist-bx2AEj-p4455-PYTD3S-21NmbAS-nWo6iu-8h6h5s-SqtcTm-DHmkGG-71dwZu-bKXwik-68uZVs-2QBXYR-c6WFD7-ksJj3e-f2jQC8-217rUw4-WQfGE2-6bEuM6-2fHP5pN-4mh5H-fCaq16-oxEPSi-5sQ21j-A4mrWa-5aYBjN-nAMzr-nCJusm-nbZro2-fE5KDU-fQPak3-Cjao6N-sMzi6D-a2rb6Y-eLNkqp-8DmGQs-acs4ei-cSZG7S-kvSKo-6vnvGW-dbDe4x-6ZAALD-82xtcC-j5b7hr-8Dn5ZS-7193be-21DTjKS-58ZE8H-aV8BT6-fPavLt-EEJES" title="Pella"><img src="https://live.staticflickr.com/5072/6914690766_8ef9da7d8c_w.jpg" width="400" height="300" alt="Pella"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}

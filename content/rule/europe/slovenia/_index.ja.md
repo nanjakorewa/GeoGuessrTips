@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "SI.png"
 no_detaile_info: true
 jetro_detail: true
+    ["../austria/", "オーストリア"],
 ---
 
 <div class="main-desciption country-description">

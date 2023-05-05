@@ -24,7 +24,8 @@ sc: [
         <li>ドメインは<span class="quiz">.ie</span></li>
         <li><span class="quiz">左側</span>通行</li>
         <li><span class="quiz">緑色</span>のポスト</li>
-        <li>⚠️の中に人がいない</li>
+        <li>イギリスと比較して全体的に建物が白い</li>
+        <li class="no-evidence">⚠️の中に人がいない上、イギリスと比べて街中にたくさん⚠️がある</li>
     </ul>
 </div>
 

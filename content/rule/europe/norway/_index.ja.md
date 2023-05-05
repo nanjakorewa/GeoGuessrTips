@@ -10,6 +10,11 @@ bg: "bg/city.jpg"
 flag: "NO.png"
 jetro_detail: false
 jogmec_detail: false
+sc_title: "間違えやすい国"
+sc: [
+    ["../finland/", "フィンランド"],
+    ["../sweden/", "スウェーデン"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -17,7 +22,7 @@ jogmec_detail: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.no</span></li>
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
-        <li>ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span></li>
+        <li class="important-rule">ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span></li>
         <li>北欧であって速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い</li>
         <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがあり、道端に<span class="quiz">スノーポール</span>もあるかも</li>

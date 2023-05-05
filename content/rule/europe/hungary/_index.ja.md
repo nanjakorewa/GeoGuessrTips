@@ -15,6 +15,7 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hu</span></li>
+        <li class="important-rule">標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}</li>
         <li>ダブルアキュートを使う文字が含まれるのはハンガリー語（<span class="quiz">ű・ő</span>）とチュヴァシュ語（ӳ）だが、チュヴァシュ語がロシアのごく一部の領域{{% by "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88" "wiki" "ダブルアキュート" %}}</li>
         <li><span class="quiz">Utca</span>はハンガリー語でstreetの意味、看板によくある{{% by %}}</li>
         <li>平坦な国で山がほとんど無い</li>
@@ -23,6 +24,16 @@ jetro_detail: false
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。他の国と違い標識の前からネジがハッキリ見える。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tm-tm/4234111136/" title="Hungarian Crossing Man #2, Budapest"><img src="https://live.staticflickr.com/2744/4234111136_43b71e96b1_w.jpg" width="300" height="400" alt="Hungarian Crossing Man #2, Budapest"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tillwe/38356289/" title="Street Sign III: Little Boxes"><img src="https://live.staticflickr.com/31/38356289_3bd505b1bb_w.jpg" width="266" height="400" alt="Street Sign III: Little Boxes"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% notice tip %}}
 <span class="quiz">Utca</span>は「St.」「Street」ぐらいの意味で通り名の看板に含まれていることがある
 {{% /notice %}}

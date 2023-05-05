@@ -9,6 +9,11 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "EE.png"
 jetro_detail: false
+sc_title: "間違えやすい国"
+sc: [
+    ["../latvia/", "ラトビア"],
+    ["../lithuania/", "リトアニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

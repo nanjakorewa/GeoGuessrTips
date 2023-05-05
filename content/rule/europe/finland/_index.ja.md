@@ -10,6 +10,11 @@ bg: "bg/city.jpg"
 flag: "FI.png"
 jetro_detail: true
 plonkit: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../norway/", "ノルウェー"],
+    ["../sweden/", "スウェーデン"],
+    ]
 additional_link:
     - ["Finland Doc for Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
 ---

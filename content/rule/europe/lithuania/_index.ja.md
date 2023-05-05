@@ -10,6 +10,11 @@ bg: "bg/city.jpg"
 flag: "LT.png"
 no_detaile_info: true
 jetro_detail: false
+sc_title: "間違えやすい国"
+sc: [
+    ["../estonia/", "エストニア"],
+    ["../latvia/", "ラトビア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "AT.png"
 jetro_detail: true
 plonkit: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../slovenia/", "スロベニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
