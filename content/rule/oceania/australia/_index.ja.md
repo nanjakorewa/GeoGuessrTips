@@ -42,8 +42,6 @@ sc: [
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144431366!6m8!1m7!1shxe_iLl3cJEDiavYyHK4Bw!2m2!1d-28.14627200205117!2d153.4778619605121!3f42.26826729503005!4f6.6985311149348945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679372256766!6m8!1m7!1s0rwDDjT6KvFf3xghBwbRPQ!2m2!1d-31.89526610535338!2d116.0198245833187!3f53.13381424986349!4f4.578646631674644!5f1.7427879092914158" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680144800044!6m8!1m7!1skSxGUVGbM7u45iInAj7elQ!2m2!1d-12.42537555239413!2d130.8857685554906!3f248.3466251475692!4f5.438852372940119!5f1.760810577586399" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}

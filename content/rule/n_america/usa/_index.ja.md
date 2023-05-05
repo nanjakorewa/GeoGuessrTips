@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "US.png"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../canada/", "カナダ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -17,8 +21,8 @@ jogmec_detail: true
     <ul class="rule-list">
         <li><span class="quiz">青い</span>ポスト</li>
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
-        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
         <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
     </ul>
 </div>
 
@@ -33,7 +37,7 @@ jogmec_detail: true
 </div>
 
 {{% notice tip %}}
-アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて、看板やロゴが街中にある。
+アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて、看板やロゴが街中にある。順番にWaste Management、Home Depot、Tesla、Target。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

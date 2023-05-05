@@ -11,6 +11,10 @@ flag: "CA.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../usa/", "アメリカ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
