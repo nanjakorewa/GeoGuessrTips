@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "SK.png"
 no_detaile_info: true
 jetro_detail: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../czechia", "チェコ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -17,7 +21,7 @@ jetro_detail: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sk</span></li>
         <li>ボラードは<span class="quiz">黒い領域に反射板が2枚</span></li>
-        <li>チェコとスロバキアのみ使用されているガードレールが周りの国と異なりthin-B profileと呼ばれるタイプを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
+        <li>チェコとスロバキアのみthin-B profileと呼ばれるタイプのガードレールを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
         <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
         <li>チェコかスロバキアのどちらか分からないとき<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
         <li>スロバキアは全体的にタトラ山脈の影響で<span class="quiz">全体的に山がち</span></li>

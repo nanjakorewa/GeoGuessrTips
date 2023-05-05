@@ -11,6 +11,10 @@ flag: "AL.png"
 no_detaile_info: true
 jetro_detail: false
 plonkit: false
+sc_title: "間違えやすい国"
+sc: [
+    ["../macedonia/", "北マケドニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

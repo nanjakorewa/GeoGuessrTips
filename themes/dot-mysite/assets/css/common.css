@@ -683,3 +683,66 @@ div.unclickable-area a {
 span.navbar-toggler-icon {
   filter: invert(100%);
 }
+
+.button-sc {
+  border-radius: 4px;
+  border-style: none;
+  box-sizing: border-box;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Haas Grot Text R Web", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: 500;
+  height: 2em;
+  line-height: 20px;
+  list-style: none;
+  margin: 0;
+  outline: none;
+  padding: 5px 16px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: color 100ms;
+  vertical-align: baseline;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.bg-black-button {
+  background-color: #4a4a4a;
+  color: #FFFFFF;
+}
+
+.bg-white-button {
+  background-color: #ffffff;
+  color: #030303;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+
+.button-1:hover,
+.button-1:focus {
+  background-color: #F082AC;
+}
+
+.sc_area {
+  padding: 1em;
+  list-style: none;
+  overflow: hidden;
+}
+
+.sc_area > ul > li.sc-title {
+  pointer-events: none;
+}
+
+.sc_area li {
+  text-align: center;
+  vertical-align: center;
+  float: left;
+  margin-left: 0.5em;
+}
+
+.sc_area li a {
+  text-decoration: none;
+}

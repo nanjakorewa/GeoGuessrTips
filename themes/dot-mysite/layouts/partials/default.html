@@ -50,6 +50,19 @@
             <div class="content unclickable"><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" /></div>
             {{ end }}
           {{ end }}
+
+          {{ if .Params.sc }}
+          <!-- sc_area -->
+          <div class="sc_area">
+            <ul>
+              <li class="sc-title"><button class="button-sc bg-white-button" role="button">{{ .Params.sc_title }}</button></li>
+            {{ range $index, $element := .Params.sc }}
+              <li><a href="{{ (index $element 0) }}"><button class="button-sc bg-black-button" role="button">{{ (index $element 1) }}</button></a></li>
+            {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
           <div class="content">
           {{.Content}}
 

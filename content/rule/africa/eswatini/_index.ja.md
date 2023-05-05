@@ -11,6 +11,11 @@ flag: "SZ.png"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../south-africa/", "南アフリカ"],
+    ["../lesotho/", "レソト"],
+    ]
 ---
 
 <div class="main-desciption country-description">

@@ -11,6 +11,12 @@ flag: "ZA.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../lesotho/", "レソト"],
+    ["../eswatini/", "エスワティニ"],
+    ["../../oceania/australia/", "オーストラリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

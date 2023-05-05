@@ -11,6 +11,11 @@ flag: "AU.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../new-zealand", "ニュージーランド"],
+    ["../../africa/south-africa/", "南アフリカ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
