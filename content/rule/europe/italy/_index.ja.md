@@ -9,13 +9,18 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "IT.png"
 jetro_detail: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../albania/", "アルバニア"],
+    ["../france/", "フランス"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.it</span></li>
-        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>、これはイタリア・フランス・アルバニアなど</li>
+        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
     </ul>
 </div>
@@ -23,7 +28,7 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>。
+ナンバープレートは<span class="quiz">両サイドに青色</span>だが、これだけを見てイタリア確定とはならない。
 {{% /notice %}}
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)

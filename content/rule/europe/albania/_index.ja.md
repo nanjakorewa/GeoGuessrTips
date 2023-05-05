@@ -14,6 +14,7 @@ plonkit: false
 sc_title: "間違えやすい国"
 sc: [
     ["../macedonia/", "北マケドニア"],
+    ["../italy/", "イタリア"],
     ]
 ---
 
