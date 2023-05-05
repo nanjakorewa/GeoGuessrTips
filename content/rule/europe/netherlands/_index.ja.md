@@ -11,6 +11,11 @@ flag: "NL.png"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../belgium/", "ベルギー"],
+    ["../luxembourg/", "ルクセンブルグ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

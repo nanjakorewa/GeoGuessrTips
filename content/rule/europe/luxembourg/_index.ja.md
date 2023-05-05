@@ -11,6 +11,11 @@ flag: "LU.png"
 no_detaile_info: true
 jetro_detail: true
 dont_show_usda: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../netherlands/", "オランダ"],
+    ["../belgium/", "ベルギー"],
+    ]
 ---
 
 <div class="main-desciption country-description">

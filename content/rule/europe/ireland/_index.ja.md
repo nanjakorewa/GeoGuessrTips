@@ -9,6 +9,11 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "IE.png"
 jetro_detail: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../united-kingdom/", "イギリス"],
+    ["../mannin/", "マン島"],
+    ]
 ---
 
 <div class="main-desciption country-description">

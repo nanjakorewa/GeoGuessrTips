@@ -8,7 +8,13 @@ keywords: [""]
 sections: [""]
 no_detaile_info: true
 bg: "bg/city.jpg"
+flag: "IM.png"
 dont_show_usda: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../united-kingdom/", "イギリス"],
+    ["../ireland/", "アイルランド"],
+    ]
 ---
 
 
