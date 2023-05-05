@@ -9,13 +9,16 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "PK.png"
 jetro_detail: true
-jogmec_detail: true
+jogmec_detail: false
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pk</span></li>
+        <li><span class="quiz">ラホール</span>周辺の施設内にストリートビューが多い</li>
+        <li>ウルドゥー語（اردو）が国語であり英語が公用語だが他の言語の話者も多い</li>
+        <li>周りの人の服装・ステップ気候・施設内・ウルドゥー語などの言語が散見される場合はパキスタンかも</li>
     </ul>
 </div>
 
