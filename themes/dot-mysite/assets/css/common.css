@@ -418,6 +418,15 @@ a.hinttext {
   font-size: 0.8em;
 }
 
+a.link-text {
+  font-size: 0.9em;
+}
+
+a.link-color:hover {
+  color: #72b9fc;
+}
+
+
 ul.rule-list li {
   margin-bottom: 10px;
 }
@@ -440,6 +449,10 @@ ul.rule-list li i {
 
 a.by-twitch {
   color: #59005c;
+}
+
+a.link-color {
+  color: #126ec4;
 }
 
 .hide-element {

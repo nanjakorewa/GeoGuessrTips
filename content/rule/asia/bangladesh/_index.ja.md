@@ -11,6 +11,11 @@ flag: "BD.png"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../india/", "インド"],
+    ["../pakistan/", "パキスタン"],
+    ]
 ---
 
 <div class="main-desciption country-description">

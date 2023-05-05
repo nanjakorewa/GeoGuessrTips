@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "IT.png"
+dont_show_usda: true
 jetro_detail: true
 sc_title: "間違えやすい国"
 sc: [

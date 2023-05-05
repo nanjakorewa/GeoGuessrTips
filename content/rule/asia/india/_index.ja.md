@@ -10,6 +10,12 @@ bg: "bg/city.jpg"
 flag: "IN.png"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい国"
+sc: [
+    ["../bangladesh/", "バングラディシュ"],
+    ["../pakistan/", "パキスタン"],
+    ["../sliranka/", "スリランカ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
