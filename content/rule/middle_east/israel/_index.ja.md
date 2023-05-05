@@ -15,9 +15,10 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ヘブライ語(מְדִינַת יִשְׂרָאֵל)の文字が印象的</li>
         <li>ドメインは<span class="quiz">.il</span></li>
-        <li>北は比較的雨が多い地中海性気候、南はほとんど雨が降らない砂漠気候とステップ気候が混ざっている。</li>
+        <li>ヘブライ語<span class="quiz">(מְדִינַת יִשְׂרָאֵל)</span>の文字が印象的</li>
+        <li>縁石や街頭のポール根本が白黒、縁石は黄・赤や白・赤のものもある</li>
+        <li>北は<span class="quiz">比較的雨が多い地中海性</span>気候、南は<span class="quiz">ほとんど雨が降らない砂漠気候とステップ</span>気候が多い</li>
     </ul>
 </div>
 
@@ -27,8 +28,7 @@ dont_show_usda: true
 ヘブライ語(מְדִינַת יִשְׂרָאֵל)の文字が印象的
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681531170359!6m8!1m7!1sbHHSCA3ho41kILqM8Oe7Pg!2m2!1d31.68368127343782!2d34.56125524934821!3f158.80589629491675!4f10.198231201934718!5f3.0926501241038236" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681531125120!6m8!1m7!1s9A-xDlbLm4qRshYAPamDDw!2m2!1d31.80292628397164!2d35.21309927153935!3f255.9978585350116!4f-0.3180185350946658!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/loudestnoise/14922088832/in/photolist-oJBB8E-51KB76-aeKGoV-6zoknP-KcHg5L-i17q8-Mbizw-oSrB2h-5XEbD4-5HaMQb-iitn5-dNTtb-nQeHH2-GJ9JED-bAZV4x-26gcoRs-9MY7CS-4YFKH8-MHJvy-9qbbTx-25Y6bW2-5RYb1B-26r9AKA-dHinH-HTrQeQ-5aDcys-97D7iz-atSjwg-LpTVyx-CJrC6V-aCdQYn-bsQyUT-bAkKf5-LaAZT-dRgUH-5Cuhar-9qfE5P-L4jhR1-aZNLPr-24MrgH6-ZoemGP-ui3Da-9yEsFb-4TqjtJ-o2iBy8-Ri7KJ9-UzQ5oz-89dyic-251U6ht-2kaYWo" title="IMG_0365"><img src="https://live.staticflickr.com/5585/14922088832_6bed66154e.jpg" width="500" height="333" alt="IMG_0365"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

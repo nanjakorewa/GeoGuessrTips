@@ -16,10 +16,11 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>言語は<span class="quiz">アラビア語</span></li>
         <li>ドメインは<span class="quiz">.jo</span></li>
+        <li>言語は<span class="quiz">アラビア語</span></li>
         <li>アンマンでは<span class="quiz">黄色と緑</span>のタクシーがたくさん走っている{{% by %}}</li>
         <li>中東で<span class="quiz">黒い</span>車が走っているのはここだけ{{% by "usumdensetu" "twitch" %}}</li>
+        <li>都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える</li>
     </ul>
 </div>
 
@@ -31,6 +32,14 @@ dont_show_usda: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094697072!6m8!1m7!1sd-h5yd0V8XJWn4-ZBJUiSw!2m2!1d31.949280430027!2d35.92735348612007!3f222.53963663389982!4f-10.02674401750987!5f2.807657372735314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cr01/5211016049/in/photolist-8WtPwi-iHjwYZ-CHuCzv-5jgGYF-2arBFEa-8WtDst-272fAco-24F4Q1J-8TA9ds-8kAcVz-dXdCXB-xSHJ3X-8kA4F2-dXdELB-8WtTS6-2bzi7Kn-tFPytf-dXjkaW-MWNzBR-iHjmca-2bLNiER-291Ljns-7XkjFJ-227XMyP-4nXLxY-dHdrbH-QH2xwU-2bDq9QA-FEm96G-2bGMTpR-yy7u8-2aB6fcL-2ajcTwX-b8BmdD-bWZi2F-qmrPa4-QyRBQb-aorQNx-FEKiX8-FEV2UT-4vBSWq-7r7Q9r-DFf8Xp-Fmu3Sq-2bLNz3V-F1Fsbp-PyL7Sj-FLd2ts-nN1ZUN-LaJ3Ud" title="Amman"><img src="https://live.staticflickr.com/4154/5211016049_9a9ab9571b.jpg" width="500" height="375" alt="Amman"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
