@@ -22,7 +22,9 @@ jetro_detail: false
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if">
-？
+<div class="googlemap-if">
+{{% twitter "1638018731753496577" %}}
+</div>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
