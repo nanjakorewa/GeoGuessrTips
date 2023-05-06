@@ -230,7 +230,8 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
     <ul class="rule-list">
         <li>カムチャッカ半島は<span class="quiz">火山</span>が特徴的{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧が多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？そして恐らくここだけGoogleCarが白い。</li>
+        <li><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？</li>
+        <li>東の方はGoogleCarが白い。</li>
         <li>電話番号を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
     </ul>
 </div>

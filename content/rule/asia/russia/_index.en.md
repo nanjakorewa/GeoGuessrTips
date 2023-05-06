@@ -216,7 +216,7 @@ It seemed to be blackish, but I don't know if it has any characteristics.
     <ul class="rule-list">
         <li>Kamchatka volcano. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>A lot of fog in <span class="quiz">sakha republic</span>. {{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li>If the percentage of <span class="quiz">right-hand drive Japanese</span> cars is too high, the eastern coast may be closer.{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？And probably only in this area GoogleCar is <span class="quiz">white</span>.</li>
+        <li>If the percentage of <span class="quiz">right-hand drive Japanese</span> cars is too high, the eastern coast may be closer{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？</li>
         <li>You can narrow down the area by looking at the phone numbers, the first number in the area code from west to east is <span class="quiz">4-8-3-4</span>.{{% by %}}</li>
     </ul>
 </div>
