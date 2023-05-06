@@ -11,7 +11,7 @@ flag: "SZ.png"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../south-africa/", "南アフリカ"],
     ["../lesotho/", "レソト"],

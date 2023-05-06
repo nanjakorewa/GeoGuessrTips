@@ -12,6 +12,10 @@ no_detaile_info: true
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../middle_east/jordan/", "ヨルダン"],
+    ]
 ---
 
 <div class="main-desciption country-description">

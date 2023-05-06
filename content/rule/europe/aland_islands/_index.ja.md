@@ -12,7 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: false
 dont_show_usda: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../finland/", "フィンランド"],
     ]

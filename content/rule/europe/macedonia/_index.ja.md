@@ -9,7 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "MK.png"
 no_detaile_info: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
     ]

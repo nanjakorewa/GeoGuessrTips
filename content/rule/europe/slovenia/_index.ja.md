@@ -10,7 +10,10 @@ bg: "bg/city.jpg"
 flag: "SI.png"
 no_detaile_info: true
 jetro_detail: true
+sc_title: "間違えやすい地域"
+sc: [
     ["../austria/", "オーストリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

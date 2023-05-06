@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "FI.png"
 jetro_detail: true
 plonkit: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../norway/", "ノルウェー"],
     ["../sweden/", "スウェーデン"],

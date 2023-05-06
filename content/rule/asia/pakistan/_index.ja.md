@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "PK.png"
 jetro_detail: true
 jogmec_detail: false
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド"],
     ]

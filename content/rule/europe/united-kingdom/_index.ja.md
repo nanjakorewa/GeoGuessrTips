@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "GB.png"
 jogmec_detail: false
 plonkit: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../ireland/", "アイルランド"],
     ["../mannin/", "マン島"],

@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "LK.png"
 no_detaile_info: true
 jetro_detail: false
+sc_title: "間違えやすい地域"
+sc: [
+    ["../india/", "インド"],
+    ]
 ---
 
 <div class="main-desciption country-description">

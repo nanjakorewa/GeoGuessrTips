@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "SK.png"
 no_detaile_info: true
 jetro_detail: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../czechia", "チェコ"],
     ]

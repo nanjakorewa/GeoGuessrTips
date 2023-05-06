@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "IT.png"
 dont_show_usda: true
 jetro_detail: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
     ["../france/", "フランス"],

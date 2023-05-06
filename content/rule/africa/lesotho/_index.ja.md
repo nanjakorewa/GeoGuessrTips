@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "LS.png"
 no_detaile_info: true
 jetro_detail: false
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../eswatini/", "エスワティニ"],
     ["../south-africa/", "南アフリカ"],

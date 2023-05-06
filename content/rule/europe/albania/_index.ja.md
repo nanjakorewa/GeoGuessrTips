@@ -11,10 +11,11 @@ flag: "AL.png"
 no_detaile_info: true
 jetro_detail: false
 plonkit: false
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../macedonia/", "北マケドニア"],
     ["../italy/", "イタリア"],
+    ["../montenegro/", "モンテネグロ"],
     ]
 ---
 
@@ -24,7 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.al</span></li>
         <li>カメラに線が入っている</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
-        <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアには少ない？</li>
+        <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアやモンテネグロには少ない。</li>
         <li class="no-evidence">赤茶色の屋根と白い壁の家が多い</li>
     </ul>
 </div>

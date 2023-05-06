@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "US.png"
 jetro_detail: true
 jogmec_detail: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../canada/", "カナダ"],
     ]

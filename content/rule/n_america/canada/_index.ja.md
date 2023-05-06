@@ -11,7 +11,7 @@ flag: "CA.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
-sc_title: "間違えやすい国"
+sc_title: "間違えやすい地域"
 sc: [
     ["../usa/", "アメリカ"],
     ]
