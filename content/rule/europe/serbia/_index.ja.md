@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "RS.png"
 no_detaile_info: true
 jetro_detail: false
+sc_title: "間違えやすい地域"
+sc: [
+    ["../croatia/", "クロアチア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
