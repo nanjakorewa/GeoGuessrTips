@@ -15,12 +15,12 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.de</span></li>
-        <li>ドイツ語の冠詞は<span class="quiz">「der・die」（男性名詞・女性名詞で異なる）</span></li>
         <li>四角いモザイクが多い{{% by "neckoluv" "twitch" %}}。</li>
         <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
+        <li>ドイツ語の冠詞は<span class="quiz">「der・die」（男性名詞・女性名詞で異なる）</span></li>
+        <li>ドイツは第2世代しかない{{% by "neckoluv" "twitch" %}}ので画質が全体的に良くない</li>
         <li>郊外や山間部はほとんど出ない</li>
-        <li>ドイツは第2世代しかない{{% by "neckoluv" "twitch" %}}</li>
     </ul>
 </div>
 

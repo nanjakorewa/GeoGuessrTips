@@ -39,7 +39,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683375129582!6m8!1m7!1semP_84KiWEIu7mvC718wbA!2m2!1d43.15531973831427!2d18.84540853743735!3f160.20233144409028!4f-16.82774804326057!5f3.3170533390180648" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% lb 50 %}}
+{{% lb 50 small %}}
 ![](2023-05-06-21-09-53.png)
 
 By Own work / D. Schneider - D. Schneider, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=10198828">Wikimedia Commons(Link)</a>
