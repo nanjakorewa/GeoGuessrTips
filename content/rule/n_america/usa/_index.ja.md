@@ -52,9 +52,26 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="important-rule">① ナンバープレートが前についているかどうか・<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">ナンバープレートの色で州を絞り込める[資料]</a>かも{{% by "rumilb" "twitch" %}}
+        <li><span style="font-weight: bold;">① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a></span>{{% by "rumilb" "twitch" %}}。覚えやすいものだけはじめに覚える。
             <ul>
-                <li class="no-evidence">newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
+                <li><a href="https://en.wikipedia.org/wiki/United_States_license_plate_designs_and_serial_formats">アメリカのナンバープレート一覧（Wikipedia）</a></li>
+                <li>newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
+                <li>特徴的な色の州
+                    <ul>
+                        <li>全体的に黒→<span class="quiz">Delaware</span></li>
+                        <li>全体的に緑→<span class="quiz">Vermont</span></li>
+                        <li>全体的に濃いオレンジ→<span class="quiz">New York</span></li>
+                        <li>全体的もしくは両サイドが薄い黄色→<span class="quiz">Mississippi</span></li>
+                        <li>白背景で、右半分だけオレンジ→<span class="quiz">Utah</span></li>
+                        <li>白背景で、真ん中にオレンジが描かれている→<span class="quiz">Florida・Georgia</span></li>
+                        <li>白背景で、真ん中に緑の木が描かれている→<span class="quiz">Oregon</span></li>
+                        <li>白背景で、上に赤いライン→<span class="quiz">Ohio</span></li>
+                        <li>白背景で、上に水色のライン→<span class="quiz">Minnesota・Montana・Iowa</span></li>
+                        <li>白背景で、上が青で下が黄色→<span class="quiz">Pennsylvania</span></li>
+                        <li>白背景で、上が赤茶色で下が青色→<span class="quiz">Idaho</span></li>
+                        <li>白背景で、上の真ん中あたりがわずかに赤く数字のエリアが紺色に見える→<span class="quiz">California</span></li>
+                    </ul>
+                </li>
             </ul>
         </li>
         <li>② 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
