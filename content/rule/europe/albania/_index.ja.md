@@ -85,7 +85,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ほとんどの地域でカメラに線が入っているが線が無いならば北の方（Shkodër・Lezhëなど）を探してみる。</li>
+        <li>？</li>
     </ul>
 </div>
 
