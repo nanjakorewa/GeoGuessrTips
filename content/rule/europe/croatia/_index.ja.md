@@ -17,8 +17,10 @@ plonkit: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hr</span></li>
-        <li>青い消火栓 {{% by %}}</li>
-        <li class="no-evidence">「Ð」の文字がある？</li>
+        <li><span class="quiz">青い</span>消火栓 {{% by %}}を見かけるかも</li>
+        <li><span class="quiz">赤い反射板で角張った細い溝のガードレール</span>を使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか</li>
+        <li>「<span class="quiz">Ð</span>」の文字があるかも{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li>2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い</li>
     </ul>
 </div>
 
@@ -26,11 +28,35 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-青い消火栓 {{% by %}}
+赤い反射板で角張った細い溝のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+道端に青い消火栓 {{% by %}}や黒い背景に赤い反射板のボラードがあるとクロアチアの可能性がある。同じボラードは他の国にもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258689669!6m8!1m7!1sa-fSmTwkjECq1AS7ir5yZw!2m2!1d45.80566390255061!2d16.24434144839846!3f89.96653789005501!4f-14.552969839780374!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683332632207!6m8!1m7!1svbQGcNGWD026JDSUl_m1tw!2m2!1d45.90513956997407!2d16.26878377372432!3f178.05899184778676!4f-23.916911433317708!5f2.7910094197426067" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い。枠がかすかに赤く見える時がある気がするけれど、ほとんどの場合は白一色に見える。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683333573775!6m8!1m7!1saGb1klsCp1nKeltiGBK48g!2m2!1d45.8056776473913!2d16.23509100085109!3f331.91894095972526!4f-18.86165878260168!5f2.8783965009453114" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 small %}}
+![](2023-05-06-09-38-47.png)
+
+By TheFlyingDutchman, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=23782215">Wikimedia Commons(Link)</a>
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -38,16 +64,10 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258169334!6m8!1m7!1sWtv3UzevuNk6ol5wav9p7A!2m2!1d46.15639019937519!2d16.33422073954437!3f176.74350738741657!4f-4.1376711223287685!5f3.210837332770033" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-building" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681258594716!6m8!1m7!1scH_qWffVKqkbPtB1wTfvcA!2m2!1d45.30618341519092!2d18.42418775727738!3f220.04421124735234!4f9.053133271176236!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681257980003!6m8!1m7!1sMsOMB1naVEv1czOvhAtJ3g!2m2!1d45.34458769417302!2d15.37503663079558!3f43.1214049711359!4f-20.64904948311542!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258012669!6m8!1m7!1sqHxbw4HeMmgHJobzL91FrA!2m2!1d45.34482174447255!2d15.37483800339599!3f298.77476173043993!4f-23.468580312565678!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681258557340!6m8!1m7!1scH_qWffVKqkbPtB1wTfvcA!2m2!1d45.30618341519092!2d18.42418775727738!3f90.81757197513545!4f-8.079153166258791!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🍄" %}}
