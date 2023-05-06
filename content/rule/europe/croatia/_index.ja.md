@@ -26,6 +26,7 @@ sc: [
         <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか</li>
         <li>「<span class="quiz">Ð</span>」の文字があるかも{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>2016年までは白いナンバープレートだったので青い線が無いものとあるものが混在している</li>
+        <li>横断歩道の標識は５本線でベルトが<span class="quiz">付いている</span>。セルビアはガードレールが同じだが標識にベルトが<span class="quiz">ついていない</span>。</li>
     </ul>
 </div>
 
