@@ -112,17 +112,35 @@ additional_link:
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>看板に書いてある言語で北か南かを判別できる</li>
+        <li>看板に書かれた言語によって地域が分かることがある{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
+            <ul>
+                <li>フィンランド語とスウェーデン語が並んでる場合もしくはスウェーデン語の場合は<span class="quiz">南か南西の海沿い</span></li>
+                <li>北部サーミ語などと並んで書かれている場合は<span class="quiz">最も北のエリア</span></li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "？" %}}
+{{% tab "看板に書かれた言語（スウェーデン語）" %}}
 
 {{% notice tip %}}
+フィンランド語とスウェーデン語が並んでる場合もしくはスウェーデン語の場合は南か南西の海沿い{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
 {{% /notice %}}
 
-<div class="googlemap-if">？
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/22686439@N08/5577106915/in/photolist-9uQ8zM-F5V9Wc-8U4XQF-3TBPf-27aqW2y-ngk1sp-2dgKxNs-XytwVe-F8S6G8-NjRF1u-21MzUPb-2eBqtqr-47bwxj-a7dTei-qF94f5-dwupH6-2e3HDzG-23ekNNz-KHWBiK-TomY9-8pHaHZ-dNsFDF-ivZuhF-4EBx9E-23ZnSbj-JWoPdb-onta7x-216mh7j-bYK7gf-pkgUQA-4QLSd3-4jUKbR-f2MpBM-8ET33-bmSAa1-hKngr9-28ahQic-QdBVLu-dcuws9-o8WbLB-wA5yUC-8mH1uR-othua1-22rfDjd-BDo7C-9k8Ct-5rTZnh-23uui2q-XZWXta-ctmiZ1" title="Finland"><img src="https://live.staticflickr.com/5012/5577106915_ea72e6c853_z.jpg" width="640" height="480" alt="Finland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "看板に書かれた言語（サーミ語）" %}}
+
+{{% notice tip %}}
+北部サーミ語などと並んで書かれている場合は最も北のエリア{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683367980711!6m8!1m7!1s1J0oYD1THBh_-O0oz_Em1A!2m2!1d68.44920612578743!2d22.48414377380987!3f24.98751516452928!4f-3.282087002843099!5f1.7435841893377364" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
