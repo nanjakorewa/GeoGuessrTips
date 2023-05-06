@@ -24,9 +24,6 @@ dont_show_usda: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 
-![]()
-
-
 {{% notice tip %}}
 ナンバープレートは前後についていて<span class="quiz">水</span>色に見える
 {{% /notice %}}

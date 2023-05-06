@@ -12,6 +12,7 @@ jogmec_detail: false
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../jersey/", "ジャージー"],
     ["../ireland/", "アイルランド"],
     ["../mannin/", "マン島"],
     ["../malta/", "マルタ"],
