@@ -19,6 +19,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.th</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ボラードが白黒の角ばった感じ {{% by %}}</li>
+        <li>電柱も角ばった感じ {{% by %}}だがスリランカなど別の場所にも四角い電柱がある</li>
     </ul>
 </div>
 
