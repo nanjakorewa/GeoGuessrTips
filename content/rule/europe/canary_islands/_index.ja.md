@@ -8,9 +8,9 @@ keywords: [""]
 sections: [""]
 bg: "flags/CANA.jpg"
 flag: "CANA.png"
+no_detaile_info: true
 jetro_detail: false
-jogmec_detail: false
-plonkit: false
+dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../spain/", "スペイン"],
