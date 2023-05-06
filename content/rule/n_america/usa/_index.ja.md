@@ -52,7 +52,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li><span style="font-weight: bold;">① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a></span>{{% by "rumilb" "twitch" %}}。覚えやすいものだけはじめに覚える。
+        <li>① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a>{{% by "rumilb" "twitch" %}}。前にあるかどうかだけをはじめに覚えよう。
             <ul>
                 <li><a href="https://en.wikipedia.org/wiki/United_States_license_plate_designs_and_serial_formats">アメリカのナンバープレート一覧（Wikipedia）</a></li>
                 <li>newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
@@ -145,6 +145,8 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">農業の分布</h2>
     <ul class="rule-list">
+        <li>コーンがあるなら中央よりも東側に行くのが無難</li>
+        <li>田んぼは電柱に黄色い線があるならカリフォルニア・無いならばミシシッピ川沿い</li>
         <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture</a></li>
     </ul>
 </div>
