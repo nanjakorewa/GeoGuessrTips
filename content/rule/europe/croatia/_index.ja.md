@@ -23,9 +23,9 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hr</span></li>
         <li><span class="quiz">青い</span>消火栓 {{% by %}}を見かけるかも</li>
-        <li><span class="quiz">赤い反射板で角張った細い溝のガードレール</span>を使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか</li>
+        <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか</li>
         <li>「<span class="quiz">Ð</span>」の文字があるかも{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
-        <li>2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い</li>
+        <li>2016年までは白いナンバープレートだったので青い線が無いものとあるものが混在している</li>
     </ul>
 </div>
 
@@ -33,7 +33,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-赤い反射板で角張った細い溝のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか。
+<span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -49,7 +49,7 @@ sc: [
 
 
 {{% notice tip %}}
-2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い。枠がかすかに赤く見える時がある気がするけれど、ほとんどの場合は白一色に見える。
+2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い。枠がかすかに赤く見える時がある気がするけれど、白一色に見えることも多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
