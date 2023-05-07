@@ -12,6 +12,8 @@ no_detaile_info: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
+    ["../montenegro/", "モンテネグロ"],
+    ["../serbia/", "セルビア"],
     ]
 ---
 
@@ -29,7 +31,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える。青いラインは無い場合もあるので注意。
+ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える。青いラインは無い場合の方が多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683488727497!6m8!1m7!1sEdQUhwPvCEpOWtH0MbnoJQ!2m2!1d41.99091810135219!2d21.46499973341666!3f20.31078082139549!4f-30.592458816852307!5f2.9083554603299264" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
