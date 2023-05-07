@@ -35,26 +35,18 @@ jetro_detail: true
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある
+電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある。横断歩道の標識は腰にベルトを付けている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682929507919!6m8!1m7!1sTVpNv4zs7dn6M11pkdgWCg!2m2!1d38.96112490377647!2d-9.399873449321543!3f343.5869592963145!4f-3.0339231588508966!5f1.7427477115171373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682929606383!6m8!1m7!1s8k-VYpANM2QlvAtx4HP90w!2m2!1d38.71433818759672!2d-9.347199393823699!3f86.72830619852165!4f1.9106617257538971!5f2.8190928971972395" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683425090137!6m8!1m7!1s8k-VYpANM2QlvAtx4HP90w!2m2!1d38.71433818759672!2d-9.347199393823699!3f87.889930860484!4f5.943048382495704!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
-
-{{% notice tip %}}
-腰にベルトを付けている
-{{% /notice %}}
-
 {{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682929399223!6m8!1m7!1s89z9s2oi7YTfcsrJFABu_g!2m2!1d39.35159033489671!2d-9.159463758972032!3f39.27136825747801!4f-3.6997386582285827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
-鶴い街並みの場所にタイルを使用していない石畳が多い気がする
+古い街並みの場所にタイルを使用していない石畳が多い気がする
 {{% /notice %}}
 
 <div class="googlemap-if">
