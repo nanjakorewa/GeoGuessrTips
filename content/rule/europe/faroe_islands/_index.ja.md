@@ -14,6 +14,7 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../iceland/", "アイスランド"],
+    ["../svalbard/", "スヴァールバル諸島"],
     ]
 ---
 
@@ -41,7 +42,7 @@ Google Carが特徴的。白色の家が多く見られ、木が生えず岩場�
 
 
 {{% notice tip %}}
-サッカー場が街中と郊外にある。また羊の放牧が行われているので町の近くでも羊が見られるかも。
+サッカーが人気でサッカー場が街中と郊外に複数ある。大き目のスタジアムか大きい照明が見えたら<a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AB">トースヴェリュール</a>（首都トースハウンにあるサッカー専用スタジアム）。また羊の放牧が行われているので町の近くでも羊が見られるかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683457590384!6m8!1m7!1s6qf2rGfi78Vu3m5YWXIckw!2m2!1d62.01032707197409!2d-6.762129365568686!3f206.10206228334448!4f-6.97613382324171!5f1.6718809919668423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

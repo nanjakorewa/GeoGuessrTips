@@ -11,6 +11,11 @@ flag: "SJ.png"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../faroe_islands/", "フェロー諸島"],
+    ["../../n_america/greenland/", "グリーンランド"],
+    ]
 ---
 
 <div class="main-desciption country-description">
