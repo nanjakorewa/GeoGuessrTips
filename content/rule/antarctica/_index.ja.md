@@ -1,0 +1,36 @@
+---
+title: "南極大陸"
+date: 2023-02-26
+lastmod: 2023-05-01
+weight: 1000
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "AQ.png"
+no_detaile_info: true
+jetro_detail: false
+dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../n_america/greenland/", "グリーンランド"],
+    ]
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.aq</span></li>
+        <li>景色が特徴的</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "w-etf" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683478926683!6m8!1m7!1snecVKY-c-uXULCEIRrAkqA!2m2!1d-77.88742062878194!2d160.580096674986!3f286.37611572715844!4f0.6862787826280083!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683479410808!6m8!1m7!1snPbXUGNsbVy2VbpDThrXZg!2m2!1d-77.7167967869317!2d162.2952866792769!3f99.6294502395842!4f4.428801176600643!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs  %}}
