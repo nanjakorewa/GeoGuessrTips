@@ -75,7 +75,7 @@ By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>地域ごとに生態系と土の色が異なる
+        <li>地域ごとに植生と土の色が異なる
             <ul>
                 <li>Amazônia：湿度の高い赤道気候でアマゾンの森林が存在する</li>
                 <li>Cerrado：畑が多い地域も木がたくさんある地域もあり判別が難しい</li>
@@ -83,6 +83,11 @@ By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/
                 <li>Caatinga：乾燥した土壌であり白っぽい土壌が含まれることが多い</li>
                 <li>Pampa：ウルグアイに近い雰囲気で農牧地がある</li>
                 <li>Pantanal：パラグアイ北部の河川による沖積平野だが道がほとんど無い</li>
+            </ul>
+        </li>
+        <li>特定の地域や州が分かる木
+            <ul>
+                <li>ババスの木：ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
             </ul>
         </li>
     </ul>
@@ -142,6 +147,11 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682639577855!6m8!1m7!1sCmml6mgQBChhNysXhxcEyA!2m2!1d-19.36288315842267!2d-57.55096809136056!3f219.91708888805192!4f-13.84361818284306!5f2.956808514492435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ババスの木" %}}
+<div class="googlemap-if">
+<img src="2023-05-07-20-45-47.png" />
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 
@@ -154,6 +164,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
                 <li>ブラジル電力(Eletrobras)→ブラジル全域どころかアフリカにまで進出している</li>
                 <li>パラナ電力(<span class="quiz">COPEL</span>)→パラナ州</li>
                 <li><a href="https://ri.cemig.com.br/en">ミナスジェライス電力</a>(<span class="quiz">CEMIG</span>)→ミナスジェライス州</li>
+                <li>黄色く塗られた領域がある場合は<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
             </ul>
         </li>
     </ul>

@@ -23,6 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.it</span></li>
         <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
+        <li>通り名の看板に「<span class="quiz">Via</span>」と書いてあればイタリアの可能性が高い</li>
     </ul>
 </div>
 
