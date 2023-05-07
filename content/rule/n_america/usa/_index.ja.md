@@ -70,6 +70,8 @@ sc: [
                         <li>白背景で、上が青で下が黄色→<span class="quiz">Pennsylvania</span></li>
                         <li>白背景で、上が赤茶色で下が青色→<span class="quiz">Idaho</span></li>
                         <li>白背景で、上の真ん中あたりがわずかに赤く数字のエリアが紺色に見える→<span class="quiz">California</span></li>
+                        <li>上半分がハッキリとした青色で、下半分が白→<span class="quiz">Connecticut</span>、Illinoisも似た感じに見えるときがある</li>
+                        <li>上半分が白色で、下半分がうっすらと青→<span class="quiz">Kentucky</span></li>
                     </ul>
                 </li>
             </ul>
