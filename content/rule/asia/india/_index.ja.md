@@ -54,7 +54,7 @@ sc: [
 {{% tab "🎵" %}}
 
 {{% notice tip %}}
-バーンスリーはインドのヒンドゥスターニー音楽でよく使用される楽器。
+バーンスリー
 {{% /notice %}}
 
 <div class="googlemap-if">
