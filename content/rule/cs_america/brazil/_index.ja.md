@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "BR.png"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../paraguay/", "パラグアイ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
