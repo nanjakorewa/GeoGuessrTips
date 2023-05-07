@@ -175,12 +175,12 @@ window.addEventListener("load", function () {
 
 window.addEventListener("load", function () {
     const blurCheckbox = document.querySelector('#blur-text-checkbox');
-    const isBlurOn = localStorage.getItem('isBlurOn');
+    const isBlurTextOn = localStorage.getItem('isBlurTextOn');
     if (!blurCheckbox) {
         return;
     }
 
-    if (isBlurOn === 'true') {
+    if (isBlurTextOn === 'true') {
         blurCheckbox.checked = true;
         addClassToClassName('description', 'blurtext');
         addClassToTag('span', 'blurtext-2');
@@ -192,8 +192,8 @@ window.addEventListener("load", function () {
     }
 
     blurCheckbox.addEventListener('change', function () {
-        const isBlurOn = this.checked;
-        if (isBlurOn) {
+        const isBlurTextOn = this.checked;
+        if (isBlurTextOn) {
             addClassToClassName('description', 'blurtext');
             addClassToTag('span', 'blurtext-2');
             removeClassToClassName('no-blur', 'blurtext-2');
@@ -201,7 +201,7 @@ window.addEventListener("load", function () {
             removeClassToClassName('description', 'blurtext');
             removeClassToTag('span', 'blurtext-2');
         }
-        localStorage.setItem('isBlurOn', isBlurOn);
+        localStorage.setItem('isBlurTextOn', isBlurTextOn);
     });
 });
 

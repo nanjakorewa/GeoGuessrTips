@@ -139,9 +139,9 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>QLDの電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
-        <li>SAの電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
-        <li>NAの電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
+        <li><span class="quiz">NA</span>の電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
     </ul>
 </div>
 
