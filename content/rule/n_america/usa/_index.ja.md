@@ -52,7 +52,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a>{{% by "rumilb" "twitch" %}}。前にあるかどうかだけをはじめに覚えよう。
+        <li>① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a>{{% by "rumilb" "twitch" %}}。前にあるかどうかだけをはじめに覚える。
             <ul>
                 <li><a href="https://en.wikipedia.org/wiki/United_States_license_plate_designs_and_serial_formats">アメリカのナンバープレート一覧（Wikipedia）</a></li>
                 <li>newがつく州のプレートは黄色がち？{{% by "niwaisound" "twitch" %}}</li>
