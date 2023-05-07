@@ -13,6 +13,7 @@ jetro_detail: false
 sc_title: "間違えやすい地域"
 sc: [
     ["../croatia/", "クロアチア"],
+    ["../macedonia/", "北マケドニア"],
     ]
 ---
 
