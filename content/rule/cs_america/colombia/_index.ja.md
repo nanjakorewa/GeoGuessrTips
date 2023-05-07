@@ -11,6 +11,10 @@ flag: "CO.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../puerto-rico/", "プエルトリコ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

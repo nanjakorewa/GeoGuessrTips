@@ -10,13 +10,17 @@ bg: "bg/city.jpg"
 flag: "IL.png"
 jetro_detail: true
 dont_show_usda: true
+sc_title: "関連ページ"
+sc: [
+    ["../palestine/", "パレスチナ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.il</span></li>
-        <li class="no-evidence">ヘブライ語<span class="quiz">(מְדִינַת יִשְׂרָאֵל)</span>の文字が印象的</li>
+        <li>ヘブライ語<span class="quiz">(מְדִינַת יִשְׂרָאֵל)</span>の文字</li>
         <li>縁石や街頭のポール根本が白黒、縁石は黄・赤や白・赤のものもある</li>
         <li>北は<span class="quiz">比較的雨が多い地中海性</span>気候、南は<span class="quiz">ほとんど雨が降らない砂漠気候とステップ</span>気候が多い</li>
     </ul>

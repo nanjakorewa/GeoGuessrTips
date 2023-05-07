@@ -9,6 +9,11 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "PR.png"
 jetro_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../colombia/", "コロンビア"],
+    ["../../oceania/guam/", "グアム"],
+    ]
 ---
 
 <div class="main-desciption country-description">

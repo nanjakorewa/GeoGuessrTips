@@ -12,6 +12,7 @@ dont_show_usda: true
 jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../monaco/", "モナコ"],
     ["../albania/", "アルバニア"],
     ["../france/", "フランス"],
     ]
