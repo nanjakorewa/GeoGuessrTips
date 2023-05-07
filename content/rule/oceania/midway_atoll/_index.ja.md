@@ -16,7 +16,7 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>？</li>
+        <li>クロアシアホウドリやコアホウドリがたくさんいる</li>
     </ul>
 </div>
 
@@ -26,7 +26,8 @@ dont_show_usda: true
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-？
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683461608906!6m8!1m7!1sIK2Cv04xac_xaUDgxZbqow!2m2!1d28.2030524709151!2d-177.3871368786327!3f284.16373001089227!4f-1.3506544901036222!5f1.7431718349436869" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683461677313!6m8!1m7!1sGAdV25u08kU-py4bpjO89g!2m2!1d28.20745709594773!2d-177.3754815916076!3f43.38802899241253!4f-5.838542092352043!5f1.8674666340082728" width="590" height="300 style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
