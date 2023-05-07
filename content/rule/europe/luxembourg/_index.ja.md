@@ -23,6 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lu</span></li>
         <li>ナンバープレートは<span class="quiz">黄色</span></li>
+        <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える</li>
     </ul>
 </div>
 
@@ -38,13 +39,27 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679851762396!6m8!1m7!1sNJ1F5MurR6O35W7zUbj8tg!2m2!1d49.80578058482013!2d5.93221134254947!3f76.29971083603118!4f-17.926196423789023!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681214963402!6m8!1m7!1sbpAIMbE2WLSf7I-2GCa0sg!2m2!1d49.80531756965897!2d5.932715871267956!3f312.6156234899913!4f-11.435950789360064!5f3.292224819906798" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-{{% lb %}}
+{{% lb 50 %}}
 ![](2023-04-12-06-05-39.png)
 
 Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4614844">Wikimedia Commons</a>による
 {{% /lb %}}
+
+
+{{% notice tip %}}
+ルクセンブルグはオランダと比較して建物が全体的に白っぽい。そしてルクセンブルグは少し山がちで起伏があり、一方でオランダは平坦な場所がほとんどで水路がいたるところにある（すべて体感）。上２つがルクセンブルグで下２つがオランダ。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683434330069!6m8!1m7!1ssVm9Cww70uzgqXpjbwQt6w!2m2!1d49.68209834094256!2d6.317010560278868!3f307.2501!4f0!5f0.7820865974627469" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683435121370!6m8!1m7!1sHmGSCGzdY_HkcGKSkV95Nw!2m2!1d49.96778324514281!2d5.935690846746911!3f14.436097007289195!4f-1.244007018556303!5f0.7820865974627469" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683434463539!6m8!1m7!1sFseWjQdrAPP7bTzNA8-GIQ!2m2!1d52.07918016906321!2d5.012722519736225!3f99.99801285043178!4f6.083790045224262!5f0.4023600797274389" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683434768973!6m8!1m7!1sFHdufdWRIuBZBCEYXfP_Jw!2m2!1d51.61001662635626!2d4.783697127008571!3f69.23490907551012!4f-10.18750717407363!5f1.5381176529204632" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
