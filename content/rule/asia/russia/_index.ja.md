@@ -10,6 +10,11 @@ bg: "bg/city.jpg"
 flag: "RU.png"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../europe/ukraine/", "ウクライナ"],
+    ["../kyrgyzstan/", "キルギスタン"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -27,7 +32,7 @@ jogmec_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ガスプロムは天然ガスの生産・供給において世界最大の企業であり、ロシアの国営企業。ノルドストリームもガスプロムが大株主となっている。
+ガスプロムは天然ガスの生産・供給において世界最大の企業であり、ロシアの国営企業。ノルドストリームもガスプロムが大株主となっている。キルギスタンにもガソリンスタンドがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680242775381!6m8!1m7!1sS7ojz8fNEd4k1y8WtcBCxQ!2m2!1d56.51279877239423!2d84.94129512574945!3f306.8842112601572!4f-0.7627465631793484!5f2.401554287260961" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

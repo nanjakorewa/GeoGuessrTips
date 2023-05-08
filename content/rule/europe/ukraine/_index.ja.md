@@ -9,6 +9,10 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "UA.png"
 jetro_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../asia/russia/", "ロシア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
