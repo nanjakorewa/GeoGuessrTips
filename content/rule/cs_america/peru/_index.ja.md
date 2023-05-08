@@ -17,7 +17,7 @@ jetro_detail: true
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.pe</span></li>
         <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い</li>
-        <li class="no-evidence">電柱は<span class="quiz">道路側（同じ向き？）に３～４本棒が付きだしている</span>ものがある。</li>
+        <li>電柱は<span class="quiz">道路側（同じ向き？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
     </ul>
 </div>
 
@@ -50,6 +50,13 @@ jetro_detail: true
 By Zcarstvnz - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=72975002">Wikimedia Commons</a>
 {{% /lb %}}
 
+{{% notice tip %}}
+電柱は<span class="quiz">道路側（同じ向き？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
+{{% /lb %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo?start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
