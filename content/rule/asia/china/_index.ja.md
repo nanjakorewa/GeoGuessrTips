@@ -39,7 +39,9 @@ jogmec_detail: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-LZxk09LNaM?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-LZxk09LNaM?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zy8vTMJtJOQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
