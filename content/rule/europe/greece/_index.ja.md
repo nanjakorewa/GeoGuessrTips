@@ -16,6 +16,7 @@ jetro_detail: true
     <ul class="rule-list">
         <li class="important-rule">ギリシャ文字がある</li>
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}。形は色々ある。</li>
+        <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
     </ul>
 </div>
 
@@ -23,10 +24,15 @@ jetro_detail: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ギリシャ文字がありΣやλが特徴的。
+ギリシャ文字がありΣやλが特徴的。ゴミ箱に都市名が書いてあることがあるのでゴミ箱にギリシャ文字があるか確認して、都市名に見えたらマップで探してみる。左がΚομοτηνή、右がΑθήνα。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/carolemage/6914690766/in/photolist-bx2AEj-p4455-PYTD3S-21NmbAS-nWo6iu-8h6h5s-SqtcTm-DHmkGG-71dwZu-bKXwik-68uZVs-2QBXYR-c6WFD7-ksJj3e-f2jQC8-217rUw4-WQfGE2-6bEuM6-2fHP5pN-4mh5H-fCaq16-oxEPSi-5sQ21j-A4mrWa-5aYBjN-nAMzr-nCJusm-nbZro2-fE5KDU-fQPak3-Cjao6N-sMzi6D-a2rb6Y-eLNkqp-8DmGQs-acs4ei-cSZG7S-kvSKo-6vnvGW-dbDe4x-6ZAALD-82xtcC-j5b7hr-8Dn5ZS-7193be-21DTjKS-58ZE8H-aV8BT6-fPavLt-EEJES" title="Pella"><img src="https://live.staticflickr.com/5072/6914690766_8ef9da7d8c_w.jpg" width="400" height="300" alt="Pella"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683521796853!6m8!1m7!1sjZZ8EXhSjYq8VsHDf7AoVQ!2m2!1d41.12331863689597!2d25.3986589847111!3f269.3300573943943!4f-22.17485408778903!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683521693014!6m8!1m7!1sb0GixXXzrBYEJg5R5TpVmA!2m2!1d38.0235869860223!2d23.74597211421801!3f94.27744211760701!4f-30.305485569166386!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -36,6 +42,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563099289!6m8!1m7!1soDMcLI8ZKM2Om3RBp7xkUQ!2m2!1d38.16139723115654!2d23.85667398650135!3f256.6425586591691!4f-13.401732960060997!5f3.305055387590511" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563339026!6m8!1m7!1sNXesZKRLgCzcIB8wCp9-iA!2m2!1d37.51537911192707!2d22.33591622603271!3f37.508783116613245!4f-19.415190938025546!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
