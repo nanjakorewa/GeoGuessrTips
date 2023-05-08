@@ -16,7 +16,7 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.io</span>でこの周辺に割り当てられていた</li>
+        <li>ドメインである<span class="quiz">.io</span>はこの周辺に割り当てられていたが現在は地域に関係なく一般的に使用される</li>
         <li>チャゴス諸島だけでも60以上の島が存在{{% by "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6" "wiki" "チャゴス諸島" %}}しており遠くに複数の島が複数見えることが多い</li>
     </ul>
 </div>
