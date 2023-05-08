@@ -13,7 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../spain/", "スペイン"],
+    ["../../europe/spain/", "スペイン"],
     ]
 ---
 

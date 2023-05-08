@@ -13,7 +13,7 @@ jogmec_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../canary_islands/", "カナリア諸島"],
+    ["../../africa/canary_islands/", "カナリア諸島"],
     ]
 ---
 
