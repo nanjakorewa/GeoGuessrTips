@@ -14,6 +14,7 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../antarctica/", "南極大陸"],
+    ["../../europe/iceland/", "アイスランド"],
     ]
 ---
 
@@ -33,16 +34,17 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682142831576!6m8!1m7!1si-kAUTnUvEFEdkJdZLc3bA!2m2!1d64.1702562429904!2d-51.7305723944466!3f16.506575931963674!4f-1.138792858281704!5f1.7423236804697373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682142954767!6m8!1m7!1snF7g5zuOZKckbur0hDFH-A!2m2!1d64.17255266735393!2d-51.73684799309885!3f257.2888632187912!4f-1.418847699741022!5f1.675586197166616" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683535499884!6m8!1m7!1sLlUs53Vgkw2lzRPCSf_Vwg!2m2!1d65.86436157616991!2d-37.00791196914184!3f323.4373747952435!4f1.0844861191382478!5f1.3328930899060976" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682143006574!6m8!1m7!1snF7g5zuOZKckbur0hDFH-A!2m2!1d64.17255266735393!2d-51.73684799309885!3f308.01985403760085!4f-6.819207902979159!5f3.325193203789971" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-船に乗っている時は旗が見えることがある。違う船もあるので注意。
+船に乗っている時は旗が見えることがある。旗が無い船・違う船もあるので注意。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683535012250!6m8!1m7!1s5xDOlJ3nRskXTGQQ4zKS3Q!2m2!1d64.40565321485649!2d-50.92878911922284!3f233.90784557155138!4f3.906428992527694!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683535598356!6m8!1m7!1sJWKXNtbZpJL-rPFjVTFcOw!2m2!1d65.65127559241013!2d-37.31975792701175!3f22.734939967993213!4f-35.61737462945672!5f1.7431718349436869" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
