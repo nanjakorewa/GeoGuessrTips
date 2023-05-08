@@ -31,12 +31,12 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。。パリが `01` 。
+電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかりパリが `01`だ。電柱やポールに<span class="quiz">青いプレート</span>が貼ってあることがありこれも特徴的。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682694839566!6m8!1m7!1s-EOPnKG5ACpPjzixTD-y8A!2m2!1d42.70109595323554!2d2.896447765312585!3f161.64927566749!4f0.6651892620051711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
