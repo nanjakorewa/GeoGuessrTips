@@ -56,7 +56,7 @@ Google Carが特徴的
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683544466495!6m8!1m7!1syidsYCGzR_YO6U3miErVIQ!2m2!1d49.52617571143846!2d100.782051413203!3f295.6482329235562!4f-14.513510349539487!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683544466495!6m8!1m7!1syidsYCGzR_YO6U3miErVIQ!2m2!1d49.52617571143846!2d100.782051413203!3f295.6482329235562!4f-14.513510349539487!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
