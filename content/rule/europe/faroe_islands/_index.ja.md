@@ -54,6 +54,7 @@ Google Carが特徴的。白色の家が多く見られ、木が生えず岩場�
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683456940846!6m8!1m7!1s8vt0f0xP1LFMO1NdmGHuWg!2m2!1d62.34167483857214!2d-6.555360000110078!3f30.6085019064917!4f-30.866470462954638!5f3.2887346902936843" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683549317088!6m8!1m7!1sMmn1x_rkCxPM9YqTtrjY8Q!2m2!1d62.05808983564778!2d-6.923287083314774!3f300.6214728933497!4f-37.99380046550717!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

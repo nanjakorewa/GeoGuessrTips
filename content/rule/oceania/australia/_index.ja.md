@@ -182,6 +182,7 @@ sc: [
                 <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
             </ul>
         </li>
+        <li class="no-evidence">信号機付近の機械に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
     </ul>
 </div>
 
@@ -209,5 +210,16 @@ By NJM2010 - Own work, GFDL, <a href="https://commons.wikimedia.org/w/index.php?
 
 By EurovisionNim - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
 {{% /lb %}}
+{{% /tab %}}
+{{% tab "道路施設" %}}
+{{% notice tip %}}
+VicRoads は、オーストラリアのビクトリア州にある政府の合弁会社{{% by "https://en.wikipedia.org/wiki/VicRoads" "wiki" "VicRoads" %}}だが都会以外にあるのかは不明。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683549755809!6m8!1m7!1sKznMQ6nIaTZ0zxeyBAxyRg!2m2!1d-37.81654818313182!2d144.9585520383972!3f245.8544115504683!4f-13.474520449549516!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683550019499!6m8!1m7!1sfPzunmElpDidOg_VUb2ciQ!2m2!1d-37.81457962835244!2d144.9618442307953!3f310.30284468841296!4f-8.920018177956507!5f3.293433733170092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
