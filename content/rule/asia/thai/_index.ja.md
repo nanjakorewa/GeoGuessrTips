@@ -11,6 +11,11 @@ flag: "TH.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../laos/", "ラオス"],
+    ["../sliranka/", "スリランカ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
