@@ -42,10 +42,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い。また道路の近くに小型の鉄塔のような電柱がある。
+船の上に乗る時もあるがよーく見るとスヴァールバル諸島の旗がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683380410562!6m8!1m7!1szv31fCE-N-xzKZk2Y533cQ!2m2!1d79.54462619255476!2d13.49785138825417!3f55.33269265338509!4f-5.4258024073018305!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683534840459!6m8!1m7!1sHa6f6NW3pVHEeWwL5YhBKQ!2m2!1d79.54418535780721!2d13.49684876618249!3f224.48773307977203!4f-11.315566756290295!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
