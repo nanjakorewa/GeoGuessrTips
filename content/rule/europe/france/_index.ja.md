@@ -23,7 +23,7 @@ sc: [
         <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
         <li>電話番号が<span class="quiz">2つの数が5個並んでいる</span></li>
         <li>電柱に<span class="quiz">青いプレート</span>が貼ってあることがある{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}</li>
-        <li>通り名の看板に「<span class="quiz">Rue</span>」と書いてあればフランスの可能性が高い</li>
+        <li>通り名の看板に「<span class="quiz">Rue</span>」と書いてあればフランス語圏の可能性が高い</li>
     </ul>
 </div>
 
