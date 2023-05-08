@@ -8,8 +8,9 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "CIFLAG.png"
-jetro_detail: true
-plonkit: true
+no_detaile_info: true
+jetro_detail: false
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">
