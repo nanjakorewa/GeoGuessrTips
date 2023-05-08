@@ -56,6 +56,7 @@ plonkit: true
 <tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
 <tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
 <tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">テルグ</span></td><td>జపనీస్ రెస్టారెంట్</td></tr>
 <tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
 <tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
 <tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>

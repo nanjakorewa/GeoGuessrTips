@@ -145,6 +145,7 @@ sc: [
 <tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
 <tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
 <tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">テルグ</span></td><td>జపనీస్ రెస్టారెంట్</td></tr>
 <tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
 <tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
 <tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
@@ -185,6 +186,15 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682101003545!6m8!1m7!1sFb461y1SYMMG6X4Bss19Yg!2m2!1d10.85434123330329!2d78.70991798618508!3f255.947668151077!4f3.4817149585278173!5f1.7113530487541073" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "テルグ語" %}}
+{{% notice tip %}}
+テルグ語（తెలుగు）はアーンドラ・プラデーシュ州およびテランガーナ州の公用語。文字の周りにある「つ」「✓」「ｍ」のような形が特徴的。{{% by "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "wiki" "テルグ語" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683536379262!6m8!1m7!1siPrv0pkeitRMVQ8ce8UkRg!2m2!1d14.90588514508056!2d79.86349239934395!3f246.87675993779882!4f9.734625500123414!5f3.139402080150767" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683536507928!6m8!1m7!1sRxKQRYgkNPC6m9Rv2URtsg!2m2!1d17.24747772616979!2d80.14134607062307!3f4.732751074080325!4f12.886439959891234!5f2.832146649303087" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
