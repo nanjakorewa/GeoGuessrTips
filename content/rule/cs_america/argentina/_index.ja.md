@@ -77,12 +77,12 @@ By Quilmeño89 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/
 </div>
 
 {{% notice tip %}}
-ずっと遠くまでまっすくに伸びた道はアルゼンチンによくある道だと思う。また黄色の２本線（もしくは黄色二本の間に白いダッシュがある線）はアルゼンチンにはあるがウルグアイにはない。
+ずっと遠くまでまっすくに伸びた道はアルゼンチンによくある道だと思う。また黄色の２本線（もしくは黄色二本の間に白いダッシュがある線）はアルゼンチンにはあるがウルグアイにはない。道端にたまに黒白の標識がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681308145769!6m8!1m7!1sfApCKRpDOKXqeTUlkpjXYw!2m2!1d-37.00094192414552!2d-63.66678962361176!3f173.36811843486183!4f-7.40867201815955!5f0.7929884876831526" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681308183021!6m8!1m7!1sREC5Fn_ht3PkmGxBwWswqw!2m2!1d-43.48679060841175!2d-65.41795612087964!3f208.14761246508428!4f-2.1900262014030147!5f0.4000000000000002" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681308263098!6m8!1m7!1sREC5Fn_ht3PkmGxBwWswqw!2m2!1d-43.48679060841175!2d-65.41795612087964!3f32.98842378837944!4f-4.975349512993489!5f1.3228429615490531" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683593638082!6m8!1m7!1sawOQVOrIbVx9dTdMCA_m6w!2m2!1d-35.78901239343998!2d-63.71255730834497!3f232.0189803413642!4f-16.349556549135073!5f3.325193203789971" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
