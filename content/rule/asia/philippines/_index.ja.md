@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "PH.png"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../indonesia/", "インドネシア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -23,6 +27,7 @@ jogmec_detail: true
         <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
         <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
         <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカだけかも</li>
+        <li class="no-evidence">ローヤルクラウン・コーラが売られている</li>
     </ul>
 </div>
 
