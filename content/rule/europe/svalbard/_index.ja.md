@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-船の上に乗る時もあるがよーく見るとスヴァールバル諸島の旗がある。
+船の上に乗る時もあるがよーく見るとノルウェーの旗がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683534840459!6m8!1m7!1sHa6f6NW3pVHEeWwL5YhBKQ!2m2!1d79.54418535780721!2d13.49684876618249!3f224.48773307977203!4f-11.315566756290295!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
