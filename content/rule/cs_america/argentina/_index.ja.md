@@ -11,6 +11,11 @@ flag: "AR.png"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../uruguay/", "ウルグアイ"],
+    ["../chile/", "チリ"],
+    ]
 ---
 
 <div class="main-desciption country-description">

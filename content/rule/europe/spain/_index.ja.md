@@ -14,6 +14,8 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/canary_islands/", "カナリア諸島"],
+    ["../italy/", "イタリア"],
+    ["../portugal/", "ポルトガル"],
     ]
 ---
 

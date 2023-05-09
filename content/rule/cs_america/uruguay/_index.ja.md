@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "UY.png"
 jetro_detail: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../argentina/", "アルゼンチン"],
+    ]
 ---
 
 <div class="main-desciption country-description">

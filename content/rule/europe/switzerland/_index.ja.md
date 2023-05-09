@@ -69,7 +69,7 @@ dont_show_usda: true
 オレンジがドイツ語・緑がフランス語・紫がイタリア語。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Map Languages CH.png"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
+<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Map Languages CH.png"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

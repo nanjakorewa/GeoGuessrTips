@@ -13,6 +13,7 @@ jogmec_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../paraguay/", "パラグアイ"],
+    ["../colombia/", "コロンビア"],
     ]
 ---
 
