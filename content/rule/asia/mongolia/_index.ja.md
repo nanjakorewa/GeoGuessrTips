@@ -49,8 +49,8 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 Google Carが特徴的
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682046777271!6m8!1m7!1sDdizKicdNsjkjx4b6K3Ujw!2m2!1d47.91049922266202!2d106.8945466053571!3f179.1359081904984!4f-37.43053154095747!5f1.2064416766681925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683544358882!6m8!1m7!1sNBYunW0vGs0HCeaKFPbQag!2m2!1d47.11802985898382!2d117.215813157299!3f237.8066084902285!4f-11.071281978219758!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683645578424!6m8!1m7!1sLQlGCmJkEJ4vmCkHc8icfg!2m2!1d49.80171646553228!2d107.6689993972046!3f107.57000627590213!4f-58.03443861392079!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
