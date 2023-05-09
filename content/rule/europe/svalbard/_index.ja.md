@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../faroe_islands/", "フェロー諸島"],
     ["../../n_america/greenland/", "グリーンランド"],
+    ["../norway/", "ノルウェー"],
     ]
 ---
 
