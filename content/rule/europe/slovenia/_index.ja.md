@@ -54,6 +54,17 @@ sc: [
 </div>
 
 {{% /tab %}}
+{{% tab "w-road" %}}
+{{% notice tip %}}
+黄色いシール？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682337361603!6m8!1m7!1spjz4QjMKq_gFdCDyqpqR3Q!2m2!1d46.14719906959731!2d13.76840776905096!3f116.33340281396843!4f-6.531777834813354!5f2.8845364049357647" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683612553875!6m8!1m7!1sqkmoCYH7FLVI9jqYirgFLw!2m2!1d46.31489311130071!2d15.47932015215573!3f2.3315421701561263!4f1.2121848942166338!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683612606136!6m8!1m7!1sEY4sCrMYDw7yDJjpzZEJ0g!2m2!1d45.50244180747816!2d13.78590385240943!3f186.9282221576562!4f-7.902578988324919!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683612669705!6m8!1m7!1sh00IsjyCxD9iKeEqssga5Q!2m2!1d46.49371219293226!2d13.75815431957018!3f204.52782577877386!4f-3.1209454404265387!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs  %}}
 
 

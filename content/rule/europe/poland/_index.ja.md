@@ -11,14 +11,19 @@ flag: "PL.png"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../romania/", "ルーマニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pl</span></li>
-        <li>教会の場所も場所を絞り込む上で参考にできる（教会マークがある）</li>
+        <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多い。ルーマニアは<span class="quiz">空いている</span>ことが多い。</li>
         <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}</li>
+        <li>ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていない</li>
     </ul>
 </div>
 
@@ -46,14 +51,28 @@ dont_show_usda: true
 </div>
 
 {{% notice tip %}}
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。またポーランドの赤色のボラードは結構特徴的（赤色の場所にさらに赤色の反射板が貼ってある）なのでポーランド以外はほぼ無いかも？この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "w-building" %}}
+
+{{% notice tip %}}
 POCZTA（ポスト、赤い）
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681293115879!6m8!1m7!1sjns-xRhN_8-7tT-7CU8h8w!2m2!1d50.57988099917564!2d16.50408715260548!3f107.12647794113003!4f-12.497475679292123!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681293618548!6m8!1m7!1ss1s-jYporQe-z_x2KH86wQ!2m2!1d52.65296801196689!2d23.4344196340504!3f11.65144715718616!4f-11.157963904786698!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "w-building" %}}
+
+{{% notice tip %}}
+教会、マップ上に表示されるので位置を探す時に役立つ時がある。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680102862400!6m8!1m7!1sklY3ICnwX3cheAJbtnhG1A!2m2!1d50.45448291473033!2d18.52204277933721!3f124.85585522795998!4f8.349946974971147!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680187365795!6m8!1m7!1sEVIqENdNb5Zn_d0gD4PNqw!2m2!1d50.97323346407659!2d19.04866347685575!3f1.5789591040383952!4f-7.203666982772006!5f1.779262730331714" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

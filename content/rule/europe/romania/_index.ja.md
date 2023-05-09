@@ -9,13 +9,19 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "RO.png"
 jetro_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../poland/", "ポーランド"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ro</span></li>
-        <li>電柱が特徴的で<span class="quiz">大き目の穴が一番下まで空いている、背の高さあたりに黄色いマーカーが付いていることがある</span>。{{% by %}}</li>
+        <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多い。また背の高さあたりに<span class="quiz">黄</span>色のマーカーが付いていることがある。{{% by %}}</li>
+        <li>ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。</li>
+        <li class="no-evidence">家の前に何か箱があって、黄色いパイプが伸びている。</li>
     </ul>
 </div>
 
@@ -30,12 +36,14 @@ jetro_detail: true
 </div>
 
 {{% notice tip %}}
-家の前に何か箱があって、黄色いパイプが伸びている。
+左がポーランド、右がルーマニアのガードレール。ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。
 {{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680051438270!6m8!1m7!1s4_7kQuBhyfEEG7BznIft6Q!2m2!1d45.88085156064941!2d22.89981798653933!3f144.9763646333456!4f-6.68659487612922!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680051447038!6m8!1m7!1svSOBBuZXnvdH0puh5_Qavg!2m2!1d44.93314588924603!2d25.44168581406661!3f328.96174292152114!4f-14.195513926734108!5f3.080649303486044" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -56,11 +64,13 @@ jetro_detail: true
 
 
 {{% notice tip %}}
-謎の箱
+家の前に何か箱があって、黄色いパイプが伸びている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051820686!6m8!1m7!1sZ54VOKNp_U5NgbySWVZtQQ!2m2!1d44.33370267115343!2d23.75005123301861!3f345.2531907157949!4f-18.198736183769995!5f3.3211969354371154" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681169690078!6m8!1m7!1s1HUpdimAn6LXmnwt6Xy8cQ!2m2!1d47.65316069155358!2d26.22653748095559!3f190.54662613263915!4f-9.818147496222608!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680051438270!6m8!1m7!1s4_7kQuBhyfEEG7BznIft6Q!2m2!1d45.88085156064941!2d22.89981798653933!3f144.9763646333456!4f-6.68659487612922!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680051447038!6m8!1m7!1svSOBBuZXnvdH0puh5_Qavg!2m2!1d44.93314588924603!2d25.44168581406661!3f328.96174292152114!4f-14.195513926734108!5f3.080649303486044" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

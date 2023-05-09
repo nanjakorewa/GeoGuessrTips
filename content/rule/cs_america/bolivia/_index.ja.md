@@ -10,13 +10,17 @@ bg: "bg/city.jpg"
 flag: "BO.png"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../peru/", "ペルー"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bo</span></li>
-        <li>標識を立てる棒が四角い製材（？）なのか、ぱっと見でよくわからない素材でできている</li>
+        <li>標識を立てる棒が<span class="quiz">四角い製材（？）なのか、ぱっと見でよくわからない素材</span>でできている。ペルーは標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。</li>
         <li>ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている</li>
     </ul>
 </div>

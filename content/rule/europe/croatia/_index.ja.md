@@ -34,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか。
+<span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">ポーランド</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
