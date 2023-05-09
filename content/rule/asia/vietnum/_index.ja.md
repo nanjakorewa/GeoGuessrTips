@@ -16,8 +16,9 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.vn</span></li>
         <li>出題されない</li>
+        <li>ドメインは<span class="quiz">.vn</span></li>
+        <li>Vinamilk{{% by "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%8A%E3%83%9F%E3%83%AB%E3%82%AF" "wiki" "ビナミルク" %}}が売られている</li>
     </ul>
 </div>
 
