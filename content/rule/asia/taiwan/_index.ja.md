@@ -22,7 +22,8 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tw</span></li>
         <li>道端に<span class="quiz">赤い●</span>のボラードがある</li>
-        <li>日本のファミリーマート同様、看板の隅に店名が書かれている</li>
+        <li>大手コンビニの<span class="quiz">萊爾富便利商店（Hi-Life）</span>がある</li>
+        <li>日本のファミリーマート同様、大湾のファミリーマートである全家便利商店の看板の隅には店名が書かれている</li>
         <li>電話番号は北から南へのグラデーション</li>
     </ul>
 </div>
@@ -37,6 +38,17 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mpecero/39302631925/" title="."><img src="https://live.staticflickr.com/4748/39302631925_f221b47277_z.jpg" width="640" height="360" alt="."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+
+{{% notice tip %}}
+台湾における四大コンビニ（四大超商）の一角、<span class="quiz">萊爾富便利商店（Hi-Life）</span>がある。これもファミリーマート（全家便利商店）と同じく店名が書かれていることが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683723896289!6m8!1m7!1sfwqhRoQNoYPioB__w5d6ow!2m2!1d24.15253874103846!2d120.6595042281571!3f202.88929917811987!4f6.884624551538522!5f1.6557543759161524" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683723930434!6m8!1m7!1sXM1U0p8F0TLPsQ7sQaB9YQ!2m2!1d22.66992270137055!2d120.4894596474883!3f213.01844088705346!4f1.7825809247256927!5f2.798979307272759" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "電話番号" %}}
 {{% notice tip %}}
