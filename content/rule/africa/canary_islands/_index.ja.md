@@ -14,13 +14,15 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/spain/", "スペイン"],
+    ["../../europe/azores/", "アゾレス諸島"],
+    ["../madeira_islands/", "マデイラ諸島"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.es</span></li>
+        <li>スペイン領の離島</li>
     </ul>
 </div>
 
