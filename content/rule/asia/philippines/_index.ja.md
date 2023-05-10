@@ -14,6 +14,10 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../indonesia/", "インドネシア"],
     ]
+map_title: "マップ"
+maps: [
+    ["https://www.geoguessr.com/ja/maps/philippines", "Philippines"],
+    ]
 ---
 
 <div class="main-desciption country-description">

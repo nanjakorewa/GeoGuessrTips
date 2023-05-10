@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "KE.png"
 jetro_detail: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../nigeria/", "ナイジェリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

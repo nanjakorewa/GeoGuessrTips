@@ -711,7 +711,7 @@ span.navbar-toggler-icon {
   list-style: none;
   margin: 0;
   outline: none;
-  padding: 4px 16px;
+  padding: 4px 14px;
   position: relative;
   text-align: center;
   text-decoration: none;
@@ -740,7 +740,7 @@ span.navbar-toggler-icon {
 }
 
 .sc_area {
-  padding: 1em;
+  padding: 0.3em;
   list-style: none;
   overflow: hidden;
 }
@@ -753,9 +753,16 @@ span.navbar-toggler-icon {
   text-align: center;
   vertical-align: center;
   float: left;
-  margin: 0.2em;
+  margin-left: 0.3em;
+  margin-bottom: 1em;
 }
 
 .sc_area li a {
   text-decoration: none;
+}
+
+i.link-title-button {
+  font-size:1em;
+  margin-left: 0.3em;
+  margin-right: 0.2em;
 }

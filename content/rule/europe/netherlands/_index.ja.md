@@ -58,10 +58,25 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 
 {{% /tab %}}
 {{% tab "w-road" %}}
+
+{{% notice tip %}}
+標識を後ろから見たときに表側の色が裏の縁取りに見える。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683705263347!6m8!1m7!1sdfQ4RQxdwuBgXAlU_mi8dA!2m2!1d52.62992420087699!2d4.762074621881681!3f162.7511254720969!4f4.2842253491352835!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683705490118!6m8!1m7!1sBDhlnseXGPxnHXDcZsppmQ!2m2!1d51.24741553750025!2d5.893231231469889!3f104.95455478144709!4f0.5421574830926374!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683705543455!6m8!1m7!1sh3K0tdDQ9gYR7jeaefKuHg!2m2!1d51.61181829030777!2d4.774081036091234!3f241.1098205668238!4f-1.7548572387365198!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+道路番号が書いてある
+{{% /notice %}}
+
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141570574!6m8!1m7!1sprdJ9xuz_l9p0xCfBazpdA!2m2!1d51.8035704085399!2d4.697570333012825!3f268.4021750511996!4f-13.239676289471817!5f3.2829566151088043" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679141478238!6m8!1m7!1sB4GDIhPzJwbSQ52H8g7Sig!2m2!1d51.80858880734058!2d4.703012450152431!3f226.0633701872837!4f-20.003968237083072!5f2.5151455284697817" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679344268948!6m8!1m7!1sOmce0ad2XrNd6h0DKLZm4w!2m2!1d52.07884760123279!2d4.812233108178345!3f286.487485256276!4f-11.403886350573686!5f1.5536035670833046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
