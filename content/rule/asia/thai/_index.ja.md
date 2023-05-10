@@ -89,8 +89,12 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>農業や植生の種類が場所によって異なる</li>
-        <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(U.S. Department of Agriculture)</a></li>
+        <li>農業・植生の種類・土の色が場所によって異なる
+            <ul>
+                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(U.S. Department of Agriculture)</a></li>
+                <li>土壌の分布データ：<a href="https://thailand.opendevelopmentmekong.net/layers/tha-soil-types/">OpenDevelopment Thailand - Dominant Soil Types</a></li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -121,5 +125,37 @@ sc: [
 {{% notice tip %}}
 田んぼはカンボジア・ラオスのある方向に多い
 {{% /notice %}}
+{{% /tab %}}
+{{% tab "土壌" %}}
+{{% notice tip %}}
+北西部・北部
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683736980120!6m8!1m7!1s0uI7PtWbSKIXVm0SmR3hoQ!2m2!1d18.96584434255833!2d98.4136358664289!3f38.68358628315347!4f-22.61383946173538!5f1.8128431045616762" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737003008!6m8!1m7!1sKXTVzkdVkogKKyjFPu56Xg!2m2!1d19.0277826995688!2d100.9330277913495!3f297.06859487798755!4f-12.063548141441146!5f2.630705749529238" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+南東（カンボジアに面する付近）。北部よりも少し赤みがかっている？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737033448!6m8!1m7!1sFutVb3hy3MKzh5qmfXBVAA!2m2!1d14.5596041599467!2d105.1413081521637!3f14.369529567616242!4f-13.411584383112753!5f1.6739744810411215" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737111353!6m8!1m7!1sTPxuoO-FBkaLrQPzeRxQoA!2m2!1d14.47837853907258!2d103.4759445852378!3f234.1305982641108!4f-15.010312687309948!5f1.7431718349436869" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+南部（半島・海沿い）、パームの木も散見される。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737358400!6m8!1m7!1syY4fr47gzSEl5rLW2jxm2Q!2m2!1d9.175093746493182!2d99.55177279971238!3f170.30847121428818!4f-15.579228880848206!5f1.3324292804444646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737385159!6m8!1m7!1syeEFWQGZ0DMfcFfotWMDaQ!2m2!1d8.221852687148221!2d98.35473046739912!3f309.2738817047396!4f-15.069799819329035!5f2.942474199230258" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% /tab %}}
 {{% /tabs %}}
