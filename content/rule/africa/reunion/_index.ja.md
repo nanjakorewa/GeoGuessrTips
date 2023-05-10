@@ -6,8 +6,8 @@ weight: 1
 draft: false
 keywords: [""]
 sections: [""]
-bg: "bg/city.jpg"
-flag: "RE.png"
+bg: "bg/REUN.jpg"
+flag: "REUN.png"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
