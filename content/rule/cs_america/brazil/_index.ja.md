@@ -23,9 +23,10 @@ sc: [
         <li>ドメインは<span class="quiz">.br</span></li>
         <li>言語は<span class="quiz">ポルトガル</span>語</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
-        <li>家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、タイなどにも似たようなものがある</li>
+        <li>家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナ（タイなどにも似たようなものがある）</li>
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
-        <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。</li>
+        <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。</li>
+        <li>電柱の溝に仕切りがあるはしご型電柱を使っている。仕切りが無い場合は<span class="quiz">チリ</span>の可能性が高い。</li>
     </ul>
 </div>
 
@@ -42,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは特定できないと思う
+家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは確定できないと思う
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050515831!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f18.826192035204055!4f11.51661489691665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -63,6 +64,17 @@ sc: [
 
 By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
 {{% /lb %}}
+{{% /tab %}}
+{{% tab "電柱" %}}
+
+{{% notice tip %}}
+左がブラジル、右がチリの電柱。チリの電柱には仕切りが無いことがわかる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683723474024!6m8!1m7!1sd-tSBvfmvd4Mr1jTyE6Vnw!2m2!1d-5.127974437211553!2d-39.73179642457342!3f260.66567805450035!4f1.7126507177242303!5f1.2783372184142916" width="295" height="395" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683723521217!6m8!1m7!1sBpLQCgMYQOLKkCQQt__eew!2m2!1d-33.39051488872208!2d-70.62365152619446!3f336.9659743643225!4f-0.5028511701109579!5f3.325193203789971" width="295" height="395" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 
