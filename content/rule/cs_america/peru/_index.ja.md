@@ -21,7 +21,7 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.pe</span></li>
         <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボリビアはシンプルな製材のことが多い。</li>
-        <li>電柱は<span class="quiz">道路側（同じ向き？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
+        <li>電柱は<span class="quiz">同じ向き（道路側？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
     </ul>
 </div>
 
@@ -55,7 +55,7 @@ By Zcarstvnz - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱は<span class="quiz">道路側（同じ向き？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
+電柱は<span class="quiz">同じ向き（道路側？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
 {{% /lb %}}
 
 <div class="googlemap-if">
