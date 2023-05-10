@@ -26,7 +26,7 @@ sc: [
         <li>家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナ（タイなどにも似たようなものがある）</li>
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。</li>
-        <li>電柱の溝に仕切りがあるはしご型電柱を使っている。仕切りが無い場合は<span class="quiz">チリ</span>の可能性が高い。</li>
+        <li>電柱の溝に仕切りが<span class="quiz">ある</span>電柱を使っている。仕切りが<span class="quiz">ない</span>電柱はチリの可能性が高い。</li>
     </ul>
 </div>
 
