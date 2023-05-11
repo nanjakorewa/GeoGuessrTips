@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "GB.png"
+flag: "GB.svg"
 jogmec_detail: false
 plonkit: true
 sc_title: "間違えやすい地域"
