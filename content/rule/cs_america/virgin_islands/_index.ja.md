@@ -25,11 +25,18 @@ is_has_distinctive_googlecar: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}Google Carが特徴的
+{{% notice tip %}}北側の島
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683844706042!6m8!1m7!1s3oeeosUfFRbfnC2iL9uhSQ!2m2!1d18.34326341799792!2d-64.75771262692705!3f282.7956575283312!4f-56.51068544939114!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+南側の島
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683468608791!6m8!1m7!1sGJvUrqOoZvfGAUkErhCNag!2m2!1d17.73002531779859!2d-64.74026630160122!3f159.42086040351649!4f-23.777725872264767!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683468630595!6m8!1m7!1sDnaDtuUkvFSbifIANbl80w!2m2!1d17.68915204880862!2d-64.86403777173012!3f252.3491155368606!4f-17.452591588437528!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs  %}}
+{{% /tabs %}}
