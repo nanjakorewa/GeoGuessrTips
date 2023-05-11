@@ -60,3 +60,24 @@ Google Carが特徴的
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>砂漠・ステップ・森林と多様な植生が分布している</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "植生" %}}
+<div class="googlemap-if unclickable">
+<img src="map6.gif" />
+<div class="description-wide">
+Legend tour Ltd., INFORMATION FOR TRAVELERS GEOGRAPHICAL FEATURES, <a href="https://www.legendtour.ru/eng/mongolia/informations/geographical_features.shtml">Link</a>, 2023年5月1日に利用.
+</div>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
