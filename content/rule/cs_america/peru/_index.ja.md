@@ -29,11 +29,11 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い
+標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。白黒の小さいボラードのようなものもありこれに「PE36」のような感じで道路番号が書いてあることもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355324177!6m8!1m7!1sjMc4AIk2k4h4P5yyHFaYNA!2m2!1d-15.57276222126613!2d-70.10160266089457!3f34.08290224907924!4f-10.24587940681829!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681947817039!6m8!1m7!1ssDJR5-xqDwEYLhipN4DtKQ!2m2!1d-5.151978147936417!2d-80.69562127290348!3f5.499596320691921!4f-4.5683068369780955!5f2.808609590138996" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683805154435!6m8!1m7!1snwKlkAXGmaC246unAYPSxg!2m2!1d-16.74899137785472!2d-69.71975581616286!3f163.28872844364196!4f-5.286252175117383!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
@@ -74,6 +74,7 @@ By Zcarstvnz - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355234923!6m8!1m7!1sIOKZyXbBZvXeZImXH8GXmw!2m2!1d-15.57786080144935!2d-70.10120163690182!3f296.8561801891278!4f-21.206709910168087!5f3.098953353208563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683805070363!6m8!1m7!1sJ8tkvxtMg35I7ZX48d63Iw!2m2!1d-16.73451805644685!2d-69.71085030545977!3f288.6545619316565!4f-15.673906824009407!5f2.9131358656875324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
