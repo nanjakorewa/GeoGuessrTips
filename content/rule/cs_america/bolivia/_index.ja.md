@@ -45,8 +45,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
-
 {{% notice tip %}}
 ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える。
 {{% /notice %}}
@@ -66,9 +64,13 @@ By EEJCC - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/inde
 
 {{% /tab %}}
 {{% tab "w-road" %}}
+{{% notice tip %}}
+左がボリビア、右がペルー。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679137598189!6m8!1m7!1s2eWjw31SO7MsxkgeQdTxsg!2m2!1d-17.49331764844531!2d-67.44580057149!3f2.2754052554731174!4f-9.170003899219893!5f2.6394910242512153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683845680428!6m8!1m7!1s5-gox7x0_EYAeGhOt4aHYw!2m2!1d-16.51322100294571!2d-68.15693131501548!3f348.0640235857518!4f50.037343677761186!5f1.7414182948674855" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683845709482!6m8!1m7!1saQoGq6TQk0KqXWkmlYQbXg!2m2!1d-18.01084314474321!2d-70.24990259977868!3f319.222788507541!4f14.222415822223638!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
