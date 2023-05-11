@@ -8,9 +8,10 @@ draft: false
 keywords: ["ポール", "電線"]
 sections: [""]
 bg: "bg/up.jpg"
+add_rule_link: true
 ---
 
-## ロシア
+## ロシア 
 
 {{% tabs  %}}
 {{% tab "支えが付いている" %}}

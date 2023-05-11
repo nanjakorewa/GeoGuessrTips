@@ -28,6 +28,8 @@
   translation: 大きい
 - id: rel-site
   translation: 関連ページ
+- id: rule-of-distinguish
+  translation: の国の判別ルール
 - id: how-to-distinguish
   translation: 国・地域の見分け方
 - id: narrow-down-to-region

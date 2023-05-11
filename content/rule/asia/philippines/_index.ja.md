@@ -133,11 +133,24 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
     </ul>
 </div>
 
+
+{{% tabs %}}
+{{% tab "電話番号" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Philippine fixed line area codes.PNG" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard the Duck</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
 <div class="main-desciption area-description">
-    <h2 class="section-title">農業</h2>
     <ul class="rule-list">
-        <li>農作物の分布が地域ごとに異なる</li>
-        <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RP">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
+        <li>農作物の分布が地域ごとに異なる
+            <ul>
+                <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RP">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
+            </ul>
+        </li>
     </ul>
 </div>
 

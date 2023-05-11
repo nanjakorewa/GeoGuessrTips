@@ -7,5 +7,6 @@ weight: 1
 draft: false
 keywords: [""]
 sections: [""]
+add_rule_link: true
 ---
 

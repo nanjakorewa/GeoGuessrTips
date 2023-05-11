@@ -42,6 +42,18 @@
           {{ if .Content }}
           {{ partial "share" . }}
 
+          {{ if .Params.add_rule_link }}
+          {{ $splitPath := split .File.Dir "\\" }}
+          {{ $lastElement := last 2 $splitPath }}
+          {{ $lastElement = index $lastElement 0 }}
+          <div class="sc_area add-space">
+            <ul>
+              <li class="sc-title"><button class="button-sc bg-white-button" role="button"><i class="fas fa-link"></i>{{ i18n "rel-site" | safeHTML }}</button></li>
+              <li><a href="https://geopinning.space/rule/{{ $lastElement }}/"><button class="button-sc bg-black-button" role="button">{{ .Title }}{{ i18n "rule-of-distinguish" | safeHTML }}</button></a></li>
+            </ul>
+          </div>
+          {{ end }}
+
           {{ if .Params.flag }}
           {{ $flag_path := print "flags/" .Params.flag }}
             {{ if (eq .Page.Lang "ja" )}}

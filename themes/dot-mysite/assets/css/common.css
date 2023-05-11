@@ -745,6 +745,12 @@ span.navbar-toggler-icon {
   overflow: hidden;
 }
 
+.add-space {
+  padding: 1em 0 1em 0;
+  position: relative;
+  left: -0.8em;
+}
+
 .sc_area > ul > li.sc-title {
   pointer-events: none;
 }

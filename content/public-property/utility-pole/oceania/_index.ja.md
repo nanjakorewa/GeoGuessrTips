@@ -7,6 +7,7 @@ draft: false
 keywords: ["ポール", "電線"]
 sections: [""]
 bg: "bg/up.jpg"
+add_rule_link: true
 ---
 
 ## オーストラリア

@@ -78,3 +78,48 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>農作物の分布が地域ごとに異なる
+            <ul>
+                <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MY">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "パーム" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-11-14-03-32.png" width="70%"/>
+</div>
+
+{{% notice tip %}}
+赤<span style="color: red;">●</span>のPalm Oil Mill周辺には大規模なパームのプランテーションが広がっていることが多そう
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683781808462!6m8!1m7!1sZaUVLl9S1qZG0kqPOxasPg!2m2!1d5.149618991020001!2d118.2227603125666!3f353.7620043272403!4f2.4044239282482636!5f1.7698202104649674" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-11-14-03-53.png" width="70%"/>
+</div>
+
+{{% notice tip %}}
+田んぼは一番北の地域に多い
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683781975727!6m8!1m7!1sKVRNUq1XkjFkTlt-FWwJ7A!2m2!1d6.257753139942261!2d100.3186941871063!3f100.26260459083646!4f1.0836826427593422!5f1.4588197954522921" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
