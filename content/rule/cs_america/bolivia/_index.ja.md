@@ -38,7 +38,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が木（いつも四角い？）でできていることが多い。
+標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679137598189!6m8!1m7!1s2eWjw31SO7MsxkgeQdTxsg!2m2!1d-17.49331764844531!2d-67.44580057149!3f2.2754052554731174!4f-9.170003899219893!5f2.6394910242512153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
