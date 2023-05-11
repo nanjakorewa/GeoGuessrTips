@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "FR.svg"
 jetro_detail: true
 dont_show_usda: true
+is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../italy/", "イタリア"],

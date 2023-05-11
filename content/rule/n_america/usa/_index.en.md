@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "US.svg"
 jetro_detail: true
 jogmec_detail: true
+is_has_distinctive_bollard: true
 ---
 
 <div class="main-desciption country-description">

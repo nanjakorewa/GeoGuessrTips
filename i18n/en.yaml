@@ -62,3 +62,7 @@
   translation: Plant
 - id: w-music
   translation: 🎵
+- id: has_unique_bollard
+  translation: ""
+- id: has_unique_googlecar
+  translation: distinctive GoogleCar

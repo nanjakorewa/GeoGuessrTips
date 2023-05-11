@@ -11,6 +11,7 @@ flag: "BT.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">
@@ -19,6 +20,7 @@ dont_show_usda: true
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bt</span></li>
         <li>ナンバープレートは<span class="quiz">赤い</span></li>
+        <li>Google Carが<span class="quiz">灰</span>色かつ<span class="quiz">左側</span>通行ならばブータンと確定する{{% by "https://www.plonkit.net/bhutan" "plonkit" %}}</li>
     </ul>
 </div>
 

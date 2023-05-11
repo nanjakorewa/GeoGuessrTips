@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "EC.svg"
 jetro_detail: true
+is_has_distinctive_bollard: true
 ---
 
 <div class="main-desciption country-description">

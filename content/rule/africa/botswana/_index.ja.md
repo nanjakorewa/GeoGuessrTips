@@ -11,6 +11,7 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
+is_has_distinctive_googlecar: true
 ---
 
 <div class="main-desciption country-description">

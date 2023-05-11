@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "IS.svg"
 no_detaile_info: true
 jetro_detail: false
+is_has_distinctive_bollard: true
 ---
 
 

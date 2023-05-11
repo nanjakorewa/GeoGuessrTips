@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "GH.svg"
 jetro_detail: true
 plonkit: true
+is_has_distinctive_googlecar: true
 ---
 
 <div class="main-desciption country-description">

@@ -12,6 +12,7 @@ jetro_detail: true
 jogmec_detail: true
 plonkit: true
 dont_show_usda: true
+is_has_distinctive_bollard: true
 ---
 
 <div class="main-desciption country-description">

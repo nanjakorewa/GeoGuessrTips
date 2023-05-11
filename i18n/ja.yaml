@@ -64,3 +64,7 @@
   translation: 植物
 - id: w-music
   translation: 🎵
+- id: has_unique_bollard
+  translation: ""
+- id: has_unique_googlecar
+  translation: 特徴的なGoogleCarがある

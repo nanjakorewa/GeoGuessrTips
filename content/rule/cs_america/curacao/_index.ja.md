@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "CW.svg"
 no_detaile_info: true
 jetro_detail: false
+is_has_distinctive_googlecar: true
 ---
 
 <div class="main-desciption country-description">

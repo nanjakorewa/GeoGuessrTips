@@ -772,3 +772,14 @@ i.link-title-button {
   margin-left: 0.3em;
   margin-right: 0.2em;
 }
+
+i.i-googlecar {
+  margin-left: 0.2em;
+}
+
+i.i-bollard {
+  opacity: 0;
+  color: black;
+  margin-left: 0.2em;
+  transform: rotate(-45deg);
+}

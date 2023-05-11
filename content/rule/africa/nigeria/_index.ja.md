@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "NG.svg"
 jetro_detail: true
 jogmec_detail: true
+is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../kenya/", "ケニア"],
