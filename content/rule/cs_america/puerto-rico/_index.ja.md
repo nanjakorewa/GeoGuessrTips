@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "PR.png"
+flag: "PR.svg"
 jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [

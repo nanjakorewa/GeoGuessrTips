@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "AX.png"
+flag: "AX.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: false

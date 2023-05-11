@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "BO.png"
+flag: "BO.svg"
 jetro_detail: true
 jogmec_detail: true
 sc_title: "間違えやすい地域"
@@ -20,8 +20,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bo</span></li>
-        <li>標識を立てる棒が<span class="quiz">四角い製材（？）なのか、ぱっと見でよくわからない素材</span>でできている。ペルーは標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。</li>
-        <li>ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている</li>
+        <li>標識を立てる棒が<span class="quiz">四角い製材（？）のようなぱっと見でよくわからない素材</span>でできている。ペルーは標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。</li>
+        <li>ボリビアは木造住宅がほとんどなく<span class="quiz">レンガとセメント</span>でできている</li>
+        <li>ほとんどの車はナンバープレートがうっすらと<span class="quiz">青</span>色に見える</li>
     </ul>
 </div>
 
@@ -43,6 +44,25 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679137598189!6m8!1m7!1s2eWjw31SO7MsxkgeQdTxsg!2m2!1d-17.49331764844531!2d-67.44580057149!3f2.2754052554731174!4f-9.170003899219893!5f2.6394910242512153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+
+{{% notice tip %}}
+ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683774834268!6m8!1m7!1suoXnmS9fLRNADAsmJ7ch8A!2m2!1d-16.51913097011427!2d-68.15622418335899!3f258.72280101310696!4f-18.422465136029203!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683775056915!6m8!1m7!1s94m-_4vpGxvViTQLnWuZhw!2m2!1d-19.02987184753962!2d-65.26318415434697!3f314.9703858494234!4f-13.43839849590482!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
+
+![](2023-05-11-12-11-05.png)
+
+By EEJCC - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=61768590">Wikimedia Commons(Link)</a>
+{{% /lb %}}
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -71,7 +91,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
-        <li>スクレのみ条例によって壁を白くすることが義務付けられている</li>
+        <li>スクレの特定地域のみ条例によって壁を白くすることが義務付けられている</li>
     </ul>
 </div>
 

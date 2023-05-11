@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "LU.png"
+flag: "LU.svg"
 no_detaile_info: true
 jetro_detail: true
 dont_show_usda: true

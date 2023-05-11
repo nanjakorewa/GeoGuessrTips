@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "NL.png"
+flag: "NL.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true

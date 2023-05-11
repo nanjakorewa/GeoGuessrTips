@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "CZ.png"
+flag: "CZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: false

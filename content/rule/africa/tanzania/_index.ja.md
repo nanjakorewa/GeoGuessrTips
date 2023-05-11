@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "TZ.png"
+flag: "TZ.svg"
 no_detaile_info: true
 jetro_detail: true
 ---

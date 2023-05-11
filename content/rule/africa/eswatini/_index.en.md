@@ -7,7 +7,7 @@ draft: false
 keywords: ["スワジランド"]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "SZ.png"
+flag: "SZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true

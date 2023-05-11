@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "SG.png"
+flag: "SG.svg"
 jetro_detail: true
 plonkit: true
 ---

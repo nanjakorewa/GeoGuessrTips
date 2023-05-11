@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/REUN.jpg"
-flag: "REUN.png"
+flag: "REUN.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true

@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "COCR.png"
+flag: "COCR.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true

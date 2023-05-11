@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "flags/MADE.jpg"
-flag: "MADE.png"
+flag: "MADE.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true

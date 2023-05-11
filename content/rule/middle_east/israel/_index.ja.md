@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "IL.png"
+flag: "IL.svg"
 jetro_detail: true
 dont_show_usda: true
 sc_title: "関連ページ"

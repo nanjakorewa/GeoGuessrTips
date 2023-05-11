@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "flags/CANA.jpg"
-flag: "CANA.png"
+flag: "CANA.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true

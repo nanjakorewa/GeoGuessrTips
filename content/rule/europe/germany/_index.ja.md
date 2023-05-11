@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "DE.png"
+flag: "DE.svg"
 jetro_detail: true
 ---
 

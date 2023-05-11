@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "FI.png"
+flag: "FI.svg"
 jetro_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"

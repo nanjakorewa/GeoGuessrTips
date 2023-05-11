@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "MK.png"
+flag: "MK.svg"
 no_detaile_info: true
 sc_title: "間違えやすい地域"
 sc: [

@@ -8,7 +8,7 @@ keywords: [""]
 sections: [""]
 no_detaile_info: true
 bg: "bg/city.jpg"
-flag: "IM.png"
+flag: "IM.svg"
 dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [

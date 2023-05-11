@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "PE.png"
+flag: "PE.svg"
 jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
@@ -18,10 +18,10 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.pe</span></li>
+        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボリビアはシンプルな製材のことが多い。</li>
-        <li>電柱は<span class="quiz">同じ向き（道路側？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
+        <li>電柱は<span class="quiz">同じ</span>向きに<span class="quiz">３</span>本棒が付きだしている{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
     </ul>
 </div>
 
@@ -29,7 +29,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が白黒のストライプの時が多い
+標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355324177!6m8!1m7!1sjMc4AIk2k4h4P5yyHFaYNA!2m2!1d-15.57276222126613!2d-70.10160266089457!3f34.08290224907924!4f-10.24587940681829!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -38,8 +38,8 @@ sc: [
 
 
 {{% notice tip %}}
-蛍光に近い黄色のナンバープレートがある、色の塗られた範囲は上部だけ黄色、全体が黄色など少しバリエーションがある。
-また、タクシーには側面にオレンジ色のステッカーが張ってある。
+<span class="quiz">蛍光に近い黄</span>色のナンバープレートがある、色の塗られた範囲は上部だけ黄色、全体が黄色などバリエーションがある。
+タクシーには側面にオレンジ色のステッカーが張ってあるがボリビアにも貼ってある。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -62,7 +62,7 @@ By Zcarstvnz - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo?start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "電柱" %}}
 {{% notice tip %}}
 電柱は道路側に３～４本棒が付きだしているものがある。
 {{% /notice %}}

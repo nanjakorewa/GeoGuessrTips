@@ -7,12 +7,17 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "US.png"
+flag: "US.svg"
 jetro_detail: true
 jogmec_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../canada/", "カナダ"],
+    ]
+map_title: "マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
+    ["https://www.geoguessr.com/maps/5fb4a16924491b00010c608d", "US State-Specific Clues"],
     ]
 ---
 

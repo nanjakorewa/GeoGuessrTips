@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "BD.png"
+flag: "BD.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true

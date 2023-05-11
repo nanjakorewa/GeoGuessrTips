@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "PL.png"
+flag: "PL.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
@@ -22,7 +22,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pl</span></li>
         <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多い。ルーマニアは<span class="quiz">空いている</span>ことが多い。</li>
-        <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}</li>
+        <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}で線が<span class="quiz">横に1本</span></li>
         <li>ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていない</li>
     </ul>
 </div>
@@ -33,7 +33,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポーランドの横断歩道標識は特徴的
+ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。ルーマニアはよくあるタイプで線画5本ある。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -42,7 +42,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱の形が細く、一番下は穴が開いていない。
+電柱の形が細く一番下は穴が<span class="quiz">空いていない</span>。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。またポーランドの赤色のボラードは結構特徴的（赤色の場所にさらに赤色の反射板が貼ってある）なのでポーランド以外はほぼ無いかも？この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの赤色のボラードは結構特徴的（赤色の場所にさらに赤に近い色の反射板が貼ってある）なのでこれでポーランドか判断できる。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -90,6 +90,7 @@ POCZTA（ポスト、赤い）
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>番号は気合で覚えられる...？</li>
     </ul>
 </div>
 

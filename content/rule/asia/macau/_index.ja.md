@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "MO.png"
+flag: "MO.svg"
 no_detaile_info: true
 jogmec_detail: false
 dont_show_usda: true

@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "MX.png"
+flag: "MX.svg"
 jetro_detail: true
 jogmec_detail: true
 ---
