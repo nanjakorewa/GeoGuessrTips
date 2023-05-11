@@ -504,9 +504,9 @@ div#option-area {
   margin: 1em;
   position: sticky;
   top: 42.5px;
-  background: linear-gradient(to bottom, rgb(255, 255, 255, 1) 60%, rgba(255, 255, 255, 0) 100%);
+  background: linear-gradient(to bottom, rgb(255, 255, 255, 1) 85%, rgba(255, 255, 255, 0) 100%);
   opacity: 1;
-  padding-bottom: 1em;
+  padding-bottom: 2em;
 }
 
 div#option-area p{
@@ -774,12 +774,13 @@ i.link-title-button {
 }
 
 i.i-googlecar {
-  margin-left: 0.2em;
+  color: #555;
+  margin-left: 0.3em;
 }
 
 i.i-bollard {
   opacity: 0;
-  color: black;
-  margin-left: 0.2em;
+  color: #555;
+  margin-left: 0.3em;
   transform: rotate(-45deg);
 }

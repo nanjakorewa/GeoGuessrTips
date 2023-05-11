@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "RS.svg"
 no_detaile_info: true
 jetro_detail: false
+is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../croatia/", "クロアチア"],
