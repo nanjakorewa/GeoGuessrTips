@@ -24,6 +24,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.gb</span>か<span class="quiz">.uk</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li>ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的</li>
         <li>車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span></li>
         <li>レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討する{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}</li>
         <li><span class="quiz">ヘッジロウ（低木や草本類などが植栽された垣根）</span>が道端や家の周りに存在する</li>
@@ -33,11 +34,11 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-車は<span class="quiz">左側</span>通行かつ、車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。ボラードや通り名の看板も多く存在する。
+車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679667191685!6m8!1m7!1stzUNJgeyhSXxUfcCABuD9A!2m2!1d53.45816716317874!2d-1.169975428590934!3f186.57080581179196!4f-18.171506480954193!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679910265333!6m8!1m7!1ssx9zUlN6LPT7xOhGuO7faA!2m2!1d53.80077195835273!2d-1.53210151821876!3f231.25961345054426!4f-8.007779915657679!5f3.3181257949307925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683813476920!6m8!1m7!1sxdfxNylI3AfFR1aqZpE53A!2m2!1d60.41718899287138!2d-1.317587338572286!3f164.9881734823317!4f-20.091395987317455!5f2.3601662284759035" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% lb 50 %}}
