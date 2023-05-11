@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.it</span></li>
         <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
+        <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
         <li>通り名の看板に「<span class="quiz">Via</span>」と書いてあればイタリア語圏の可能性が高い</li>
     </ul>
 </div>
@@ -33,27 +34,15 @@ sc: [
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">両サイドに青色</span>だが、これだけを見てイタリア確定とはならない。
 {{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679812903211!6m8!1m7!1sSMFir_M8O0qVU05WO53LqQ!2m2!1d40.79241710237211!2d16.75499111660603!3f172.19635803893811!4f-18.88659177147491!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)
 
 Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4619704">Wikimedia Commons</a>による
 {{% /lb %}}
-{{% lb 50 %}}
-![](2023-04-12-11-26-18.png)
-
-TheFlyingDutchman, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=7116148">Wikimedia Commons</a>による
-{{% /lb %}}
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679812903211!6m8!1m7!1sSMFir_M8O0qVU05WO53LqQ!2m2!1d40.79241710237211!2d16.75499111660603!3f172.19635803893811!4f-18.88659177147491!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679951036760!6m8!1m7!1sIEUWD5fYba2gczGTnEEFDw!2m2!1d43.16686727372661!2d12.77751759439546!3f352.6375152704196!4f-18.646676625627762!5f3.1902177612185434" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679951074620!6m8!1m7!1sraBOZFgfxQ5JLemLVU0ESg!2m2!1d43.16705853048431!2d12.77781161988071!3f248.2504232080267!4f-0.7558497052979902!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-building" %}}
 <div class="googlemap-if">
@@ -73,12 +62,11 @@ TheFlyingDutchman, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/
 {{% /tab %}}
 {{% tab "w-plant" %}}
 {{% notice tip %}}
-ぶどう畑がおおい
+ぶどう畑が多い
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485704007!6m8!1m7!1sE73J2h_OQM_5UUK4FQWJAQ!2m2!1d44.66060825830753!2d7.418788806567348!3f307.9065571439209!4f-6.184000050369335!5f1.5811581702377921" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681485855636!6m8!1m7!1sIavJSDZugUq7eDePvsOIHQ!2m2!1d44.66308090582659!2d7.425792618854587!3f125.57436424812295!4f-4.254959015940301!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682512366090!6m8!1m7!1sWsMmnZSSNzLLtNcU-mOFoQ!2m2!1d38.79698474608492!2d16.29815410007244!3f130.06780539384204!4f-15.740864085791145!5f2.9136532225514973" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
