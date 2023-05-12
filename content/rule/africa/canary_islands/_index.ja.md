@@ -23,6 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>スペイン領の離島</li>
+        <li>道路番号の頭文字は島の名前から来ている（TF・FV・GC）</li>
     </ul>
 </div>
 

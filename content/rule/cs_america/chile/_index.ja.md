@@ -45,6 +45,7 @@ dont_show_usda: true
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680517576539!6m8!1m7!1sndJAVDfDj-JKbyXtwnkwVA!2m2!1d-23.43415146219303!2d-70.01768832755775!3f240.29393656178658!4f1.8799301606486836!5f1.781896378251084" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683907472964!6m8!1m7!1sLyylaQ3ia5rR7gh2FHmq0w!2m2!1d-42.74865133810841!2d-73.64731447604524!3f322.39507274537885!4f-16.69615091295745!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}

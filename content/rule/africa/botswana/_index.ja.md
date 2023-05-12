@@ -19,21 +19,40 @@ is_has_distinctive_googlecar: true
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
-        <li><span class="quiz">黄色と黒</span>の色のポールが多い</li>
-        <li>道路はざらざらした表面で、路側帯は<span class="quiz">オレンジ</span>色（無い場所もある）</li>
-        <li>中央部は道が無いのでストリートビューが無い</li>
-        <li class="no-evidence">ナンバープレートは白・黄・青が混在している</li>
-        <li class="no-evidence">国土の70%がカラハリ砂漠と重なっていて国土全体が平ら</li>
+        <li>後ろのナンバープレートが<span class="quiz">細い黄</span>色のプレートはアフリカではボリビアの可能性が高い</li>
+        <li>公共交通機関などは後ろのナンバープレートが<span class="quiz">青</span>色</li>
+        <li>標識やガードレールが<span class="quiz">黄色と黒</span>色のストライプのものが多い</li>
+        <li>道路はざらざらした表面で路側帯は<span class="quiz">オレンジ</span>色だが路側帯は無い場所もある</li>
+        <li class="no-evidence">国土の70%がカラハリ砂漠と重なっていて国土全体が平らだ</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
+普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が標識<span class="quiz">黄色と黒</span>色のストライプになっている。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683912190956!6m8!1m7!1s_hF2bGslvpvaZZ7psdj6xQ!2m2!1d-24.64165295690238!2d25.90896005945885!3f261.41986013549393!4f-15.63359083496556!5f1.7439966301749679" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683911985476!6m8!1m7!1s-hsOfiv7Lna0aKPKagstEA!2m2!1d-21.16903091824322!2d27.51087023313817!3f124.44413761855344!4f-13.5940775066058!5f2.604790428006194" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
+![](2023-05-13-02-08-12.png)
+
+By Dickelbers - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>
+{{% /lb %}}
+
+
+{{% notice tip %}}
+Google Carが特徴的
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682057668256!6m8!1m7!1sEYfexpG8PHVzjUmurMBtYQ!2m2!1d-21.3137382280993!2d26.18020926861166!3f272.4921094997167!4f-38.40092685149466!5f0.5560172255871597" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">

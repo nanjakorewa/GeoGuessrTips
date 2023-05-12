@@ -26,13 +26,14 @@ sc: [
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
         <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
         <li>通り名の看板に「<span class="quiz">Via</span>」と書いてあればイタリア語圏の可能性が高い</li>
+        <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>だが、これだけを見てイタリア確定とはならない。
+ナンバープレートは<span class="quiz">両サイドに青色</span>だがこれだけを見てイタリア確定とはならない。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -43,6 +44,21 @@ sc: [
 
 Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4619704">Wikimedia Commons</a>による
 {{% /lb %}}
+
+
+{{% notice tip %}}
+イタリア最大の工業会社のひとつであるEni S.p.A.{{% ref "https://ja.wikipedia.org/wiki/Eni" "Eni" %}}の黄色いガソリンスタンドがある。ロゴがいい。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sharonhahndarlin/52235147537/in/photolist-D8aS2W-28Grax9-2nRExSL-MrPFQK-2b9MBvZ-ivhxRC-ivhneg-2TfieW-idVmCy-idVp8c-2nsDSCC-2mj8Enz-2h9NjQR-2ntwy2c-2nzQMw2-2nkqBrQ" title="Graz, Austria"><img src="https://live.staticflickr.com/65535/52235147537_0db0f8b2a4_z.jpg" width="380px" height="360px" alt="Graz, Austria"/></a>
+<div class="unclickable">
+<img src="Logo_ENI.svg" width="190px" style="margin: 1em"/>
+</div>
+</div>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 <div class="googlemap-if">
@@ -90,13 +106,14 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Veneziaには船にのって移動するエリアがある</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "Venezia" %}}
 {{% notice tip %}}
-船にのって移動するエリアがある
+Veneziaには船にのって移動するエリアがある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680007607808!6m8!1m7!1sTgiMp5dyfyTyjqWYiFsUKw!2m2!1d45.4353144254022!2d12.33380958037088!3f138.24278233222202!4f13.252121456570137!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

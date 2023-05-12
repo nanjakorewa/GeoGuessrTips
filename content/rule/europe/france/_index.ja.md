@@ -21,8 +21,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>
-        <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
         <li>電話番号が<span class="quiz">2つの数が5個並んでいる</span></li>
+        <li>「D653」と言った感じのDで始まる道路番号の黄色いプレートがある</li>
+        <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
         <li>電柱に<span class="quiz">青いプレート</span>が貼ってあることがある{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}</li>
         <li>通り名の看板に「<span class="quiz">Rue</span>」と書いてあればフランス語圏の可能性が高い</li>
     </ul>
@@ -51,17 +52,15 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは両サイドに青の時がたまにある、古いもの（2009年以前のフォーマット）は片方だけ青の場合が多い。
+ナンバープレートは両サイドに青の時がたまにあるが片方だけ青の場合が多い。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
 {{% /notice %}}
-{{% lb 50 small %}}
-![](2023-04-13-08-21-28.png)
 
-Svbzc - 投稿者自身による著作物, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=6831533">Wikimedia Commons</a>による
-{{% /lb %}}
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/countrushmore/49677634267/in/photolist-2iFQRVD-j9gjB2-8fDBXw-woX1Wo-2nQf2Re-2kn9GC2-XwUe4x-2mv3kzj-2ohfVzx-2jSrMDi-eBrbEg-2ohGdL1-2jdGHSf-2nybhQ6-fCBm2D-2jcAK5i-UDsEiX-2nbSZLq-2nxNCPP-2nQ7AJz-2n9DerQ-T6ukpA-2iv3o7d-2dLdjW4-dA5JVj-KW5WC8-2jfMqUA-2jMqsQj-2h9uoMk-yZsqhL-2kih9Q8-WpV4y3-2ocEhNq-2ob8fDT-2euBJNU-23puMxd-ef4dZL-2i2xa4L-2oibZV9-NdngeA-277Rm4c-2jqsxCC-DNKyWm-21kfSVY-SFPW9w-2mMaBcv-or5GW3-2j3HLdL-zkLjDZ-buppJg" title="Just dive !"><img src="https://live.staticflickr.com/65535/49677634267_0e480b0dbb_z.jpg" width="640" height="480" alt="Just dive !"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 {{% lb 50 %}}
-![](2023-04-13-08-23-29.png)
+![](2023-04-13-08-22-03.png)
 
-CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=329958">Wikimedia Commons</a>
+By I, Bzh29, CC BY-SA 2.5, <a href="https://commons.wikimedia.org/w/index.php?curid=2232262">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
