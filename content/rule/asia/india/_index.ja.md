@@ -23,14 +23,13 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>言語は<span class="quiz">ヒンディー語など（地域によって違う）</span></li>
-        <li>インドは都市圏でも住所システムが完全には整備されておらず商品が届かないことがある{{% by "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "web" "インドEC市場調査報告書 - 日本貿易振興機構" %}}</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多い。
+言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いが都市部でさらに絞り込むのは結構難しい。インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% by "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "web" "インドEC市場調査報告書 - 日本貿易振興機構" %}}とか。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576614545!6m8!1m7!1sCqX7Zdaaiyw21z6aQ3HtCg!2m2!1d29.87147887963868!2d79.62983076241443!3f139.35104298712295!4f-1.9042464036854057!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -126,7 +125,7 @@ sc: [
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
-        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込める、ただし同じ名前のセクターが複数ある可能性もあるので注意</li>
+        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込めるが同じ名前のセクターが異なる場所に複数あることもあるので注意</li>
     </ul>
 </div>
 
