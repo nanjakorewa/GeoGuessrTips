@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "TZ.svg"
 no_detaile_info: true
 jetro_detail: true
+sc_title: "関連ページ"
+sc: [
+    ["../zanzibar/", "ザンジバル"],
+    ]
 ---
 
 <div class="main-desciption country-description">

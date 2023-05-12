@@ -138,11 +138,32 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li class="no-evidence">電話番号のエリアコードで地域が分かる？</li>
+        <li>農業の種類で地域がわかることがある
+            <ul>
+                <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span></li>
+                <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
+            </ul>
+        </li>
+        <li class="no-evidence">電話番号のエリアコードで地域が分かる</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "農業" %}}
+<div class="googlemap-if">
+
+<img src="2023-05-12-20-42-15.png" width="90%"/>
+
+<div class="description-wide">
+Waldner, François, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
+</div>
+</div>
+
+{{% notice tip %}}
+Fruitの箇所でぶどうが、東のSugerのエリアでさとうきびが見られる。。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "電話番号" %}}
 <div class="googlemap-if">
 {{% twitter "1640831519643127808" %}}
