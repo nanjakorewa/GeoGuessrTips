@@ -29,7 +29,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いが都市部でさらに絞り込むのは結構難しい。インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% by "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "web" "インドEC市場調査報告書 - 日本貿易振興機構" %}}とか。
+言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いが都市部でさらに絞り込むのは結構難しい。インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}とか。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576614545!6m8!1m7!1sCqX7Zdaaiyw21z6aQ3HtCg!2m2!1d29.87147887963868!2d79.62983076241443!3f139.35104298712295!4f-1.9042464036854057!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -92,7 +92,7 @@ sc: [
 {{% /tab %}}
 {{% tab "黒色" %}}
 {{% notice tip %}}
-黒土はレグール土とも呼ばれ、綿花の栽培にも向いている。{{% by "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "wiki" "Major soil deposits of India" %}}。
+黒土はレグール土とも呼ばれ、綿花の栽培にも向いている。{{% ref "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "Major soil deposits of India" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -165,7 +165,7 @@ sc: [
 {{% /tab %}}
 {{% tab "カンナダ語" %}}
 {{% notice tip %}}
-カルナータカ地方とベンガルール周辺に話者が多い。出典：{{% by "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "wiki" "カンナダ語" %}}
+カルナータカ地方とベンガルール周辺に話者が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "カンナダ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680006555635!6m8!1m7!1s4SEAcMmP8hx87rWxqP9c0A!2m2!1d13.04361154116076!2d77.5474873331359!3f117.50972523192821!4f15.68591794847461!5f2.7914502814668984" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -189,7 +189,7 @@ sc: [
 {{% /tab %}}
 {{% tab "テルグ語" %}}
 {{% notice tip %}}
-テルグ語（తెలుగు）はアーンドラ・プラデーシュ州およびテランガーナ州の公用語。文字の周りにある「つ」「✓」「ｍ」のような形が特徴的。{{% by "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "wiki" "テルグ語" %}}
+テルグ語（తెలుగు）はアーンドラ・プラデーシュ州およびテランガーナ州の公用語。文字の周りにある「つ」「✓」「ｍ」のような形が特徴的{{% ref "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "テルグ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683536379262!6m8!1m7!1siPrv0pkeitRMVQ8ce8UkRg!2m2!1d14.90588514508056!2d79.86349239934395!3f246.87675993779882!4f9.734625500123414!5f3.139402080150767" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

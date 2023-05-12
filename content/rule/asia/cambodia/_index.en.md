@@ -39,7 +39,7 @@ dont_show_usda: true
 </div>
 
 {{% notice tip %}}
-Rural Cambodia has many <span class="quiz">stilt houses</span>. Cambodia has a <span class="quiz">tropical monsoon</span> climate that is hot and humid throughout the year. The high floors provide protection from the heat during the day and a resting space for cows and buffaloes at night. They also provide protection against flooding from heavy rains during the rainy season（References：<a href="http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf">2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6</a>）.
+Rural Cambodia has many <span class="quiz">stilt houses</span>. Cambodia has a <span class="quiz">tropical monsoon</span> climate that is hot and humid throughout the year. The high floors provide protection from the heat during the day and a resting space for cows and buffaloes at night. They also provide protection against flooding from heavy rains during the rainy season{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681965793866!6m8!1m7!1sCC4gdvMh6mHaHJ4LbinpUw!2m2!1d13.79205738884228!2d107.0446235238677!3f189.80029586278943!4f4.564831644180387!5f1.7504441702702604" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -47,7 +47,8 @@ Rural Cambodia has many <span class="quiz">stilt houses</span>. Cambodia has a <
 </div>
 
 {{% notice tip %}}
-Many parasols and signs with well-known companies in Cambodia. Beeline for telecommunications, Coca-Cola for soft drinks, <span class="quiz">LEO, Kingdom, Angkor</span> for beer, etc. Angkor's logo also has Angkor Wat on it.（<a href="https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php">Source</a>）。
+Many parasols and signs with well-known companies in Cambodia. Beeline for telecommunications, Coca-Cola for soft drinks, <span class="quiz">LEO, Kingdom, Angkor</span> for beer, etc. Angkor's logo also has Angkor Wat on it.
+{{% ref "https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php" "カンボジアのビール事情" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -84,6 +85,6 @@ Khmer is the official language.
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>In Siem Reap, where Angkor Wat is located, bylaws prohibit the construction of tall buildings.{{% by "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "web" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
+        <li>In Siem Reap, where Angkor Wat is located, bylaws prohibit the construction of tall buildings.{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>
 </div>

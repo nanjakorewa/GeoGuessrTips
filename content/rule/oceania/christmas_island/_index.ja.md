@@ -23,7 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cx</span></li>
-        <li>クリスマスアカガニが数千万個体いるらしく（<a href="https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B">出典</a>）カニに対する注意喚起がある。道の上に橋が掛けられていたりして、カニが道をわたることができるような工夫もある。落ち葉も食べる。カニの予感がしたらこの島かも？</li>
+        <li>クリスマスアカガニが数千万個体も存在し{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B" "クリスマスアカガニ" %}}、道端に<span class="quiz">カニ</span>に対する注意喚起がある。</li>
         <li><span class="quiz">黄色</span>ナンバーが多い</li>
         <li>Google Carが特徴的</li>
     </ul>
@@ -33,7 +33,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-クリスマスアカガニに対する注意喚起がある。道の上に橋が掛けられていたりして、カニが車にひかれることなく道をわたることができるような工夫もある。
+クリスマスアカガニに対する注意喚起がある。道の上に橋が掛けられていたりして、カニが道をわたることができるような工夫もある。落ち葉も食べる。カニの予感がしたらこの島かも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682062382933!6m8!1m7!1sSBdKZ40H2M8xPSokxUtPoQ!2m2!1d-10.45355846376693!2d105.704299194019!3f315.6525438055099!4f-8.88735771874778!5f2.807657372735314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

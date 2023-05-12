@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ca</span></li>
         <li>速度制限の表記は<span class="quiz">MAXIMUM</span></li>
-        <li>逆▽の看板（道を譲れ・他の車が優先）標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
+        <li>逆▽の看板標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
     </ul>
 </div>
 

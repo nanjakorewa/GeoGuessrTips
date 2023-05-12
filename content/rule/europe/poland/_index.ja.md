@@ -23,7 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.pl</span></li>
         <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多い。ルーマニアは<span class="quiz">空いている</span>ことが多い。</li>
         <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}で線が<span class="quiz">横に1本</span></li>
-        <li>ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていない</li>
+        <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
     </ul>
 </div>
 
@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの赤色のボラードは結構特徴的（赤色の場所にさらに赤に近い色の反射板が貼ってある）なのでこれでポーランドか判断できる。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの赤色のボラードは結構特徴的で赤色の場所にさらに赤に近い色の反射板が貼ってあるのでこれでもポーランドと判断できる。
 {{% /notice %}}
 
 <div class="googlemap-if">

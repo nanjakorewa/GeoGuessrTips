@@ -1,7 +1,7 @@
 ---
 title: "ヨルダン"
 date: 2023-02-26
-lastmod: 2023-04-01
+lastmod: 2023-04-11
 weight: 1
 draft: false
 keywords: [""]
@@ -11,9 +11,12 @@ flag: "JO.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/tunisia/", "チュニジア"],
+    ["../palestine/", "パレスチナ"],
+    ["../qatar/", "カタール"],
     ]
 ---
 
@@ -23,6 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.jo</span></li>
         <li>言語は<span class="quiz">アラビア語</span></li>
         <li>アンマンでは<span class="quiz">黄色と緑</span>のタクシーがたくさん走っている{{% by %}}</li>
+        <li>ナンバープレートの左側が<span class="quiz">緑</span>色の時がある</li>
         <li>都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える</li>
         <li>中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
@@ -31,11 +35,18 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-黄色と緑のタクシー
+<span class="quiz">黄色と緑</span>色のタクシーや黄色のタクシーが多い。またナンバープレートの左側が<span class="quiz">緑</span>色の時がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681094697072!6m8!1m7!1sd-h5yd0V8XJWn4-ZBJUiSw!2m2!1d31.949280430027!2d35.92735348612007!3f222.53963663389982!4f-10.02674401750987!5f2.807657372735314" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683883692963!6m8!1m7!1sPFr_DloBmu_V3fxuu9sBuw!2m2!1d31.96863607728284!2d35.91920486669675!3f272.50907716253903!4f-22.43347618490202!5f2.7049426341867746" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% lb 50 small %}}
+![](2023-05-12-18-24-11.png)
+
+By Dickelbers - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=18916267">Wikimedia Commons(Link)</a>
+{{% /lb %}}
 
 {{% notice tip %}}
 都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える

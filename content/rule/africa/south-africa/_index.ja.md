@@ -75,10 +75,10 @@ sc: [
             <ul>
                 <li>①国立公園</li>
                 <li>②サバンナ</li>
-                <li>③Grassland Biome、草がメイン（参考文献：<a href="http://pza.sanbi.org/vegetation/grassland-biome">SANBI</a>）</li>
+                <li>③Grassland Biome、草がメイン{{% ref "http://pza.sanbi.org/vegetation/grassland-biome" "SAMBI" %}}</li>
                 <li>④Nama Karoo、干ばつが頻繁に発生する低木が生えるエリア</li>
-                <li>⑤Succulent Karoo、多肉植物が多い（参考文献：<a href="https://pza.sanbi.org/vegetation/succulent-karoo-biome">SANBI</a>）</li>
-                <li>⑥Fynbos、地中海性気候がメインで植生の多くが細い針状の葉を持っている（参考文献：<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9">Wikipedia『フィンボス』</a>）</li>
+                <li>⑤Succulent Karoo、多肉植物が多い{{% ref "https://pza.sanbi.org/vegetation/succulent-karoo-biome" "SAMBI" %}}</li>
+                <li>⑥Fynbos、地中海性気候がメインで植生の多くが細い針状の葉を持っている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9" "Wikipedia『フィンボス』" %}}</li>
             </ul>
         </li>
     </ul>
@@ -87,7 +87,7 @@ sc: [
 {{% tabs %}}
 {{% tab "植生の分布" %}}
 {{% notice tip %}}
-図は自分が雰囲気で着色しただけなので参考程度にお願いします
+図は自分が雰囲気で着色しただけなので参考程度にお願いします{{% ref "http://pza.sanbi.org/vegetation" "SAMBI" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">

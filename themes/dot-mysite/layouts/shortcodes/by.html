@@ -4,7 +4,7 @@
 {{- else if eq (.Get 1) "wiki" -}}
 <a href="{{ .Get 0 }}" class="hinttext by-wiki">(from Wikipedia 『{{ .Get 2 }}』<i class="fab fa-wikipedia-w"></i>)</a>
 {{- else if eq (.Get 1) "web" -}}
-<a href="{{ .Get 0 }}" class="hinttext by-web">(from 『{{ .Get 2 }}』<i class="fab fa-window-maximize"></i>)</a>
+(<a href="{{ .Get 0 }}" class="hinttext by-geotips"><i class="fas fa-book-open"></i>{{ i18n "bib" | safeHTML }} {{ .Get 2 }}</a>)
 {{- else if eq (.Get 1) "youtube" -}}
 <a href="{{ .Get 0 }}" class="hinttext by-youtube">(from 『{{ .Get 2 }}』<i class="fab fa-youtube"></i>)</a>
 {{- else if eq (.Get 1) "plonkit" -}}

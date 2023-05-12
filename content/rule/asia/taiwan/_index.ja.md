@@ -22,7 +22,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tw</span></li>
         <li>道端に<span class="quiz">赤い●</span>のボラードがある</li>
-        <li>大手コンビニの<span class="quiz">萊爾富便利商店（Hi-Life）</span>がある</li>
+        <li>大手コンビニの<span class="quiz">萊爾富便利商店（Hi-Life）</span>・OK超商（台湾のサークルK）がある</li>
     </ul>
 </div>
 
@@ -39,7 +39,7 @@ sc: [
 
 
 {{% notice tip %}}
-台湾における四大超商（四大コンビニ）の一角である<span class="quiz">萊爾富便利商店（Hi-Life）</span>があり看板に店名が書かれていることが多くときどき近くの道路名と同じ時がある。同じく四大超商のひとつであるOK超商（台湾のサークルK）もある。
+台湾における四大超商（四大コンビニ）の一角である<span class="quiz">萊爾富便利商店（Hi-Life）</span>があり看板に店名が書かれていることが多い。店名は近くの道路名と同じ時がある。同じく四大超商のひとつであるOK超商（台湾のサークルK）もある。
 {{% /notice %}}
 
 <div class="googlemap-if">

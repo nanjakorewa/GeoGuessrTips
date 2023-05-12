@@ -14,6 +14,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../colombia/", "コロンビア"],
     ["../../oceania/guam/", "グアム"],
+    ["../../oceania/northern_mariana_islands/", "北マリアナ諸島"],
     ]
 ---
 
@@ -23,7 +24,8 @@ sc: [
         <li>ドメインは<span class="quiz">.pr</span></li>
         <li>言語はスペイン語と英語が使用される</li>
         <li>車のナンバープレートが付いているのは<span class="quiz">後ろだけ</span></li>
-        <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}が、コロンビアのプロビデンシア島にも右側のアンテナがあるので景色や標識を見てから判断しよう</li>
+        <li>太目の<span class="quiz">四角</span>の電柱がある</li>
+        <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>
     </ul>
 </div>
 
@@ -41,7 +43,7 @@ sc: [
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
 {{% notice tip %}}
-GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}
+GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}。アンテナはグアムや北マリアナ諸島にもあるので注意。
 {{% /notice %}}
 <div class="googlemap-if"><iframe src="https://www.google.com/maps/embed?pb=!4v1681073805681!6m8!1m7!1sSXC3NjR1gmB4s-EnHU-z3w!2m2!1d18.29687656679984!2d-66.04911133718261!3f79.01839543384352!4f-24.831690071108028!5f2.912250869756515" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

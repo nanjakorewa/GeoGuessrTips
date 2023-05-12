@@ -68,3 +68,5 @@
   translation: ""
 - id: has_unique_googlecar
   translation: 特徴的なGoogleCar
+- id: bib
+  translation: 参考文献

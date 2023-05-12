@@ -418,6 +418,10 @@ a.hinttext {
   font-size: 0.8em;
 }
 
+a.hinttext > i {
+  margin: 0;
+}
+
 a.link-text {
   font-size: 0.9em;
 }

@@ -83,7 +83,7 @@ Bright red soil is southwest or south, blackish color is inland from Delhi to so
 {{% /tab %}}
 {{% tab "Blackish soil" %}}
 {{% notice tip %}}
-Black soil, also called regur soil, is also suitable for growing cotton.{{% by "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "wiki" "Major soil deposits of India" %}}。
+Black soil, also called regur soil, is also suitable for growing cotton.{{% ref "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "Major soil deposits of India" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -93,7 +93,7 @@ Black soil, also called regur soil, is also suitable for growing cotton.{{% by "
 {{% /tab %}}
 {{% tab "Alluvial" %}}
 {{% notice tip %}}
-Alluvium deposited by the Indus and Ganges rivers is located in the northern part. It is generally flat with scattered wetlands, composed mainly of unconsolidated mud, sand, and stone. {{% by "https://www.jishin.go.jp/resource/terms/tm_alluvium/" "web" "沖積層" %}}。
+Alluvium deposited by the Indus and Ganges rivers is located in the northern part. It is generally flat with scattered wetlands, composed mainly of unconsolidated mud, sand, and stone. {{% ref "https://www.jishin.go.jp/resource/terms/tm_alluvium/" "沖積層" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682468273619!6m8!1m7!1se4CgKszKZKi6alw7JPji7A!2m2!1d29.18795659001541!2d78.19210339952144!3f143.96313802334797!4f-15.105692246985953!5f2.976055030161179" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -155,7 +155,7 @@ Ahmadabad area.
 {{% /tab %}}
 {{% tab "Kannada" %}}
 {{% notice tip %}}
-There are many speakers in the Karnataka region and around Bengaluru.{{% by "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "wiki" "Kannada (language)" %}}
+There are many speakers in the Karnataka region and around Bengaluru.{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "Kannada (language)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680006555635!6m8!1m7!1s4SEAcMmP8hx87rWxqP9c0A!2m2!1d13.04361154116076!2d77.5474873331359!3f117.50972523192821!4f15.68591794847461!5f2.7914502814668984" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

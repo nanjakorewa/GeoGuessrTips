@@ -14,6 +14,7 @@ dont_show_usda: true
 sc_title: "関連ページ"
 sc: [
     ["../israel/", "イスラエル"],
+    ["../jordan/", "ヨルダン"],
     ]
 ---
 
