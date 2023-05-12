@@ -41,6 +41,17 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679372138983!6m8!1m7!1svrdUrpYA0d7urKrX7qG5aw!2m2!1d-31.94187717111961!2d115.7847883593956!3f303.90724474218445!4f10.5337341921975!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679372256766!6m8!1m7!1s0rwDDjT6KvFf3xghBwbRPQ!2m2!1d-31.89526610535338!2d116.0198245833187!3f53.13381424986349!4f4.578646631674644!5f1.7427879092914158" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+オーストラリアのボラードの赤い反射板は基本的に片側だけだがニュージーランドは両側に赤い部分があり赤い面積も多い。左がオーストラリア・右がニュージーランド。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680144661468!6m8!1m7!1sBApyf10_WfxpO26UJJ3u6w!2m2!1d-29.40199480435424!2d149.9148684407626!3f99.3413713142664!4f-19.826968570449495!5f3.3209542488875803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681502031975!6m8!1m7!1sYOKgISqcrXEMRhe-mijsIQ!2m2!1d-35.7113153978181!2d174.0286454241244!3f162.44117437861425!4f-16.704223171344054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -51,7 +62,6 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144566252!6m8!1m7!1sB-a1zsMm8gvQEGItXgvsEQ!2m2!1d-28.51919408506439!2d153.1580933788061!3f170.10090920810467!4f-17.90590305808597!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144592493!6m8!1m7!1sLohwHN59698bRKTyVnhH_w!2m2!1d-28.51857188906127!2d153.1582966065746!3f43.64712248469409!4f-11.864931007273896!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680144661468!6m8!1m7!1sBApyf10_WfxpO26UJJ3u6w!2m2!1d-29.40199480435424!2d149.9148684407626!3f99.3413713142664!4f-19.826968570449495!5f3.3209542488875803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-music" %}}
