@@ -28,6 +28,7 @@ sc: [
         <li>通り名の看板に「<span class="quiz">Via</span>」と書いてあればイタリア語圏の可能性が高い</li>
         <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
     </ul>
+    {{% rd europe italy small %}}
 </div>
 
 {{% tabs  %}}
