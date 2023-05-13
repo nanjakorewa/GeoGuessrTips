@@ -27,6 +27,7 @@ sc: [
         <li>電柱に<span class="quiz">青いプレート</span>が貼ってあることがある{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}</li>
         <li>通り名の看板に「<span class="quiz">Rue</span>」と書いてあればフランス語圏の可能性が高い</li>
     </ul>
+    {{% rd europe france %}}
 </div>
 
 

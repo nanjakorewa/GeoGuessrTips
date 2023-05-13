@@ -1,0 +1,8 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $rpth := printf "%s%s/%s/r/" "./content/rule/"  (.Get 0 ) (.Get 1 ) }}
+<div class="sign-area">
+{{ $files := readDir $rpth }}
+{{ range $files }}
+<img src="./r/{{ .Name }}" />
+{{ end }}
+</div>

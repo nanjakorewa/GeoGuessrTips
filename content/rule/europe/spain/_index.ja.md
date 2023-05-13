@@ -28,6 +28,7 @@ sc: [
         <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
         <li>ポストが<span class="quiz">黄色</span>なのは昔はその色の馬車で郵便を運んでいたため{{% by "https://adelante.jp/noticias/blog/el-buzon-amarillo/" "web" "スペインの黄色いポストの秘密" %}}？</li>
         <li>道路の線は基本的に白のみ</li>
+        {{% rd europe spain %}}
     </ul>
 </div>
 

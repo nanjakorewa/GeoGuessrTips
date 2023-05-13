@@ -30,6 +30,7 @@ maps: [
         <li>逆▽の看板標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
         <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
     </ul>
+    {{% rd n_america usa %}}
 </div>
 
 

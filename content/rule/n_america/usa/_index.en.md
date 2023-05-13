@@ -21,6 +21,7 @@ is_has_distinctive_bollard: true
         <li>Often there is a row of trash cans in front of the house. There is even a "WM", the logo of Waste Management, a major garbage disposal company in the United States.</li>
         <li>If the reverse ▽ sign (Yield the Road) sign says YIELD, it is <span class="quiz">USA</span>, if not, it is <span class="quiz">Canada</span>.</li>
     </ul>
+    {{% rd europe france %}}
 </div>
 
 

@@ -27,6 +27,7 @@ sc: [
         <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
         <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
     </ul>
+    {{% rd asia indonesia %}}
 </div>
 
 {{% tabs  %}}
