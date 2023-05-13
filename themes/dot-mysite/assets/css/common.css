@@ -794,6 +794,7 @@ div.sign-area {
   display: flex;
   align-items: center;
   justify-content: center;
+  overflow-x: scroll;
 }
 
 div.sign-area a {
