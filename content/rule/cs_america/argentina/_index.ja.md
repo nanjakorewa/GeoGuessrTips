@@ -25,7 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ar</span></li>
         <li>ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span></li>
         <li>ガソリンスタンドに<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス、青色のロゴでアルゼンチンの国有石油会社）</span>のものがある</li>
-        <li>遠くが見えないくらいまっすぐな道が多い</li>
+        <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
     </ul>
 </div>
 
