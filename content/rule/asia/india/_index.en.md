@@ -18,7 +18,7 @@ jogmec_detail: true
         <li>Domain is <span class="quiz">.id</span></li>
         <li>Languages include <span class="quiz">Hindi, etc. (varies by region)</span>.</li>
     </ul>
-    {{% rd asia india verysmall %}}
+    {{% rd asia india small %}}
 </div>
 
 {{% tabs  %}}

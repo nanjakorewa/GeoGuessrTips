@@ -802,6 +802,12 @@ div.sign-area a {
   margin: 0.5em;
 }
 
+div.sign-area-clickable a {
+  pointer-events: auto;
+  margin: 0em;
+  font-size: 0.8em;
+}
+
 div.sign-area img {
   max-height: 7em;
   max-width: 10em;

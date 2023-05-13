@@ -4,9 +4,19 @@
   {{ if eq .Title site.Title }}
   <title>{{ .Title }}</title>
   {{ else if .Params.subtitle }}
-  <title>{{ .Params.subtitle }} - ジオゲッサーのプレイ記録</title>
+  <title>{{ .Params.subtitle }}</title>
+  {{ else if .Params.flag }}
+    {{ if eq .Page.Lang "ja" }}
+    <title>{{ .Params.title }}について - ジオゲッサーのプレイ記録</title>
+    {{ else }}
+    <title>{{ .Params.title }} - My Geogesser Tips</title>
+    {{ end }}
   {{ else }}
-  <title>{{ .Title }}{{ .Params.title_suffix }}のページ - ジオゲッサーのプレイ記録</title>
+    {{ if eq .Page.Lang "ja" }}
+    <title>{{ .Title }}{{ .Params.title_suffix }}のページ</title>
+    {{ else }}
+    <title>About {{ .Title }}{{ .Params.title_suffix }}</title>
+    {{ end }}
   {{ end }}
 
   {{ if (.Params.flag) }}

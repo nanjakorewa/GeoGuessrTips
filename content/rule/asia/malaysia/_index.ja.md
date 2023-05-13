@@ -27,6 +27,7 @@ sc: [
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
         <li>SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味。</li>
     </ul>
+    {{% rd asia malaysia small %}}
 </div>
 
 

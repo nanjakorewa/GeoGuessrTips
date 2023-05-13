@@ -28,4 +28,9 @@
 {{ end }}
 {{ end }}
 
+<div class="sign-area sign-area-clickable">
+    {{ if (.Get 3) }}
+    <p>{{ .Get 3 }} <a href="{{ .Get 4 }}">Wikimedia Commons(Link)</a></p>
+    {{ end }}
+</div>
 </div>

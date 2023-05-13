@@ -22,7 +22,7 @@ plonkit: true
         <li>Major banking companies with many ATMs include <span class="quiz">Bank Mandiri (mandiri) and Bank Rakyat Indonesia (BRI) Bank</span> etc.</li>
         <li class="no-evidence">If the center line of the road is <span class="quiz">yellow</span>, it is more likely to be Indonesia, not Malaysia</li>
     </ul>
-    {{% rd asia indonesia %}}
+    {{% rd asia indonesia normal "By AdriansyahYS - Own work, CC BY-SA 4.0" "https://commons.wikimedia.org/w/index.php?curid=35833958" %}}
 </div>
 
 {{% tabs  %}}

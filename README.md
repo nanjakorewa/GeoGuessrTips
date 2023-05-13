@@ -14,6 +14,7 @@ Pages to note down tips for guessing the country and to compile links to related
 
 ## コミット時の注意
 - 標識の画像は必ずパブリックドメインの画像に限定する
+  - ニュージーランドの標識の画像は[Sign specifications](https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/)から利用可能と判断
 - ナンバープレートの画像を引用するときは出典を記載する必要がないものであってもライセンス名・引用元を表示する（出典の記載忘れかどうか判断ができなくなるため）
 - Map・ストリートビュー・Earth
   - [Google マップ & Google Earth ガイドライン](https://www.google.com/intl/ja_ALL/permissions/geoguidelines/)

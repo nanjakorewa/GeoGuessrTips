@@ -23,6 +23,7 @@ plonkit: true
         <li>License plate with <span class="quiz">white letters on a black background</span>.</li>
         <li>SDN BHD, BHD means ~company, ~public company in Malaysia.</li>
     </ul>
+    {{% rd asia malaysia small %}}
 </div>
 
 
