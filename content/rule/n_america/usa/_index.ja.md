@@ -28,7 +28,7 @@ maps: [
         <li><span class="quiz">青い</span>ポスト</li>
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>逆▽の看板標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
-        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手、Waste Managementのロゴである『WM』があることも。</li>
+        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手Waste Managementのロゴである『WM』があることも。</li>
     </ul>
     {{% rd n_america usa small %}}
 </div>
@@ -155,7 +155,7 @@ maps: [
     <h2 class="section-title">農業の分布</h2>
     <ul class="rule-list">
         <li>コーンがあるなら中央よりも東側に行くのが無難</li>
-        <li>田んぼは電柱に黄色い線があるならカリフォルニア・無いならばミシシッピ川沿い</li>
+        <li>田んぼは電柱に黄色い線があるならカリフォルニア北部・無いならばミシシッピ川沿い</li>
         <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture</a></li>
     </ul>
 </div>

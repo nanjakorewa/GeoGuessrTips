@@ -30,7 +30,7 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識にフランス語があればケベック、黒い背景のkm表記はオンタリオになる。
+{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識にフランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680092550361!6m8!1m7!1sQbi9zOhBSaKoAR4ljsZv_w!2m2!1d49.73933749078834!2d-95.15201809047014!3f145.05850004916792!4f0.1372081059932384!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -81,7 +81,7 @@ sc: [
         <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>かも</li>
         <li>速度制限の看板が地域ごとに微妙に異なる。フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。</li>
         <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
-        <li>左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
+        <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
         <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
     </ul>
 </div>
@@ -148,7 +148,7 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% /tab %}}
 {{% tab "ロードコーン" %}}
 {{% notice tip %}}
-左の黒とオレンジのコーンは<span class="quiz">モントリオール</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの
+左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432065632!6m8!1m7!1s_tnrWo6hZCZxIDQ8K4Mf0A!2m2!1d49.02144291015642!2d-88.2895963216308!3f268.6020266512863!4f-3.2304603493074353!5f3.2229282956142877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
