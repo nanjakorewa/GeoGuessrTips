@@ -23,11 +23,11 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
+        <li>道路の線は基本的に白のみ</li>
         <li class="important-rule">歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインとアンドラのみ</li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
         <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
         <li>ポストが<span class="quiz">黄色</span>なのは昔はその色の馬車で郵便を運んでいたため{{% by "https://adelante.jp/noticias/blog/el-buzon-amarillo/" "web" "スペインの黄色いポストの秘密" %}}？</li>
-        <li>道路の線は基本的に白のみ</li>
         {{% rd europe spain %}}
     </ul>
 </div>
