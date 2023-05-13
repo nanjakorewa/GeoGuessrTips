@@ -41,7 +41,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682750246389!6m8!1m7!1sH-kvDZjpYYQA0YgCBpOz1A!2m2!1d38.65002359980011!2d0.05158672956871693!3f249.01813011224797!4f16.516204694038308!5f1.7444091571384015" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% notice tip %}}
-<span class="quiz">黄色</span>の丸いポストが特徴的。ついでにボラードも黄色い。
+<span class="quiz">黄色</span>の円柱型のポストがある。ついでにボラードも黄色い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679834601644!6m8!1m7!1sVISWPYmOqXbCgE-j6A6RiQ!2m2!1d36.33689793515558!2d-5.313924773905094!3f90.09664425945807!4f-9.538467184943826!5f3.3133659245927842" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
