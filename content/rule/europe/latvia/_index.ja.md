@@ -23,6 +23,12 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lv</span></li>
     </ul>
+    {{% rd europe latvia small %}}
+    <div class="sign-area sign-area-clickable licence-area">
+        <p>Priority road：By <a href="//commons.wikimedia.org/wiki/User:%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%94%E0%B9%94" title="User:มองโกเลีย๔๔">มองโกเลีย๔๔</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77591741">Link</a></p>
+        <p>青矢印：By <a href="//commons.wikimedia.org/wiki/User:%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%94%E0%B9%94" title="User:มองโกเลีย๔๔">มองโกเลีย๔๔</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90796668">Link</a></p>
+        <p>速度制限：By <a href="//commons.wikimedia.org/wiki/User:%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%94%E0%B9%94" title="User:มองโกเลีย๔๔">มองโกเลีย๔๔</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74819786">Link</a></p>
+    </div>
 </div>
 
 {{% tabs  %}}

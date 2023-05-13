@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ee</span></li>
         <li>横断歩道は<span class="quiz">３本</span>、<span class="quiz">バスの窓が４つ</span></li>
     </ul>
+    {{% rd europe estonia small %}}
 </div>
 
 {{% tabs  %}}
