@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../norway/", "ノルウェー"],
     ["../finland/", "フィンランド"],
+    ["../denmark/", "デンマーク"],
     ]
 ---
 
@@ -27,6 +28,7 @@ sc: [
         <li>看板の矢印の形が特徴的で綺麗な▷ではない{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある</li>
     </ul>
+    {{% rd europe sweden small %}}
 </div>
 
 

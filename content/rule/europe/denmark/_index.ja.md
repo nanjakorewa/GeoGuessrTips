@@ -13,6 +13,10 @@ jogmec_detail: true
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_bollard: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../sweden/", "スウェーデン"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -25,6 +29,7 @@ is_has_distinctive_bollard: true
         <li class="no-evidence">デンマークのポスト業界でシェアの高いAlluxの<span class="quiz">丸いカーブのふた</span>があるポストが家の近くに設置されている。日本でも買える。</li>
         <li>デンマークには高い山は無い</li>
     </ul>
+    {{% rd europe denmark small %}}
 </div>
 
 
