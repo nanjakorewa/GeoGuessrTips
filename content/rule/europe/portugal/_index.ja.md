@@ -67,3 +67,10 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>ナンバー・電柱・標識などがほぼ同じの離島である{{% goto "../../africa/madeira_islands/" "マデイラ諸島" %}}と{{% goto "../azores/" "アゾレス諸島" %}}がある</li>
+    </ul>
+</div>
