@@ -794,7 +794,7 @@ div.sign-area {
   display: flex;
   align-items: center;
   justify-content: center;
-  overflow-x: scroll;
+  flex-wrap: wrap;
 }
 
 div.sign-area a {
@@ -804,5 +804,6 @@ div.sign-area a {
 
 div.sign-area img {
   max-height: 7em;
+  max-width: 6em;
   min-width: 5em;
 }
