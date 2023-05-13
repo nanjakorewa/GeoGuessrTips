@@ -29,6 +29,7 @@ sc: [
         <li>レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討する{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}</li>
         <li><span class="quiz">ヘッジロウ（低木や草本類などが植栽された垣根）</span>が道端や家の周りに存在する</li>
     </ul>
+    {{% rd europe united-kingdom verysmall OGL %}}
 </div>
 
 {{% tabs  %}}
@@ -44,7 +45,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-04-12-12-06-06.png)
 
-By ZElsb - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=107443706">Wikimedia Commons</a>
+By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=107443706">Wikimedia Commons</a>
 {{% /lb %}}
 
 {{% notice tip %}}

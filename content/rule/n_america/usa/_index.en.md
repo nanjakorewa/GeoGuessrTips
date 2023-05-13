@@ -70,7 +70,7 @@ There are many large companies based in the United States. Companies like Waste 
 {{% tabs  %}}
 {{% tab "①license plate" %}}
 {{% notice tip %}}
-First, remember the areas that do not require a license plate on the front of the car (yellow areas), then remember the color of the license plate（Image source：By Raccoonny - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）.
+First, remember the areas that do not require a license plate on the front of the car (yellow areas), then remember the color of the license plate（Image source：By Raccoonny - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）.
 {{% /notice %}}
 <div class="description-wide">
 <a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>

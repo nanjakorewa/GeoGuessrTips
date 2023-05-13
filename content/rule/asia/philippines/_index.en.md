@@ -23,6 +23,7 @@ jogmec_detail: true
         <li><span class="quiz">Buses in flashy colors</span> called "Jeepneys" are also used as the main means of transportation, and the license plate of public transportation such as buses are often <span class="quiz">yellow</span>.</li>
         <li class="no-evidence">You may find the reddish-brown pole sign.</li>
     </ul>
+    {{% rd asia philippines verysmall %}}
 </div>
 
 {{% tabs  %}}

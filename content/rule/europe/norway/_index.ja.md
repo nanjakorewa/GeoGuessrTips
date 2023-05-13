@@ -45,7 +45,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-04-16-09-11-59.png)
 
-Noorwegen kenteken groen nieuw, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/wiki/File:Norway_licenseplate_green_new.JPG#/media/File:Norway_licenseplate_green_new.JPG">wikipedia commons</a>
+Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Norway_licenseplate_green_new.JPG#/media/File:Norway_licenseplate_green_new.JPG">wikipedia commons</a>
 {{% /lb %}}
 
 

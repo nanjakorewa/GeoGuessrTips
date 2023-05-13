@@ -30,6 +30,7 @@ additional_link:
         <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
     </ul>
+    {{% rd europe finland verysmall %}}
 </div>
 
 {{% tabs  %}}

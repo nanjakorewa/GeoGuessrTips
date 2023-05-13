@@ -35,7 +35,7 @@ jogmec_detail: true
 分数が書かれた標識はウェストバージニア州かも。「23/1」は「23」から分岐したひとつ目の道。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia &quot;fractional&quot; county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="West Virginia &quot;fractional&quot; county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia "fractional" county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="West Virginia "fractional" county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "②石壁" %}}

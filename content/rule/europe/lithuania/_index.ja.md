@@ -24,6 +24,11 @@ sc: [
         <li>ドメインは<span class="quiz">.lt</span></li>
         <li>道路に対して<span class="quiz">斜め</span>の標識と<span class="quiz">オレンジ</span>色の反射板のボラード。</li>
     </ul>
+    {{% rd europe lithuania small %}}
+    <div class="sign-area sign-area-clickable licence-area">
+        <p>速度表記：By <a href="//commons.wikimedia.org/w/index.php?title=User:Gigillo83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gigillo83 (page does not exist)">Gigillo83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41042874">Link</a></p>
+        <p>青看板：By <a href="//commons.wikimedia.org/w/index.php?title=User:Gigillo83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gigillo83 (page does not exist)">Gigillo83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41564249">Link</a></p>
+    </div>
 </div>
 
 

@@ -62,7 +62,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-04-18-23-40-43.png)
 
-By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
+By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "電柱" %}}
@@ -114,7 +114,7 @@ By Olympiobr - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/
 {{% tab "生態系の種類" %}}
 
 {{% notice tip %}}
-AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が存在する。（画像出典：By Brazil Travel, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a>）
+AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が存在する。（画像出典：By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a>）
 {{% /notice %}}
 
 
@@ -191,7 +191,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 {{% tab "電話番号" %}}
 
 {{% notice tip %}}
-1がサンパウロ、2がリオデジャネイロ。（画像出典：By Magno Brasil - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons</a>）
+1がサンパウロ、2がリオデジャネイロ。（画像出典：By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons</a>）
 {{% /notice %}}
 
 

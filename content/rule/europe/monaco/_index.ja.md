@@ -50,7 +50,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-05-08-01-03-32.png)
 
-By Dickelbers - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=39303213">Wikimedia Commons(Link)</a>
+By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=39303213">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% /tabs  %}}

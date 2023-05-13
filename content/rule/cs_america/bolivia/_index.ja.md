@@ -58,7 +58,7 @@ sc: [
 
 ![](2023-05-11-12-11-05.png)
 
-By EEJCC - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=61768590">Wikimedia Commons(Link)</a>
+By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61768590">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
 

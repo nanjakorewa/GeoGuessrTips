@@ -42,7 +42,7 @@ sc: [
 {{% lb 50 small %}}
 ![](2023-05-06-21-09-53.png)
 
-By Own work / D. Schneider - D. Schneider, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=10198828">Wikimedia Commons(Link)</a>
+By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10198828">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
 

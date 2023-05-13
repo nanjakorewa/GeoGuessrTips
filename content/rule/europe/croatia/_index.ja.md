@@ -60,7 +60,7 @@ sc: [
 {{% lb 50 small %}}
 ![](2023-05-06-09-38-47.png)
 
-By TheFlyingDutchman, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=23782215">Wikimedia Commons(Link)</a>
+By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23782215">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
 

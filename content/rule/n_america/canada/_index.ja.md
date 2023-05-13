@@ -91,7 +91,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "ナンバープレート(1)" %}}
 {{% notice tip %}}
-<span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
+<span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -108,7 +108,7 @@ sc: [
 
 {{% notice tip %}}
 <span class="quiz">オンタリオ</span>のナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。（画像出典：
-By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=87142994">Wikimedia Commons</a>）
+By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=87142994">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">

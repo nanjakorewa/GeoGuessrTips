@@ -795,6 +795,7 @@ div.sign-area {
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
+  margin-bottom: 0;
 }
 
 div.sign-area a {
@@ -822,6 +823,11 @@ div.sign-area img.small {
 
 div.sign-area img.verysmall {
   max-height: 4.5em;
-  max-width: 4.5em;
+  max-width: 7em;
   min-width: 3.8em;
+}
+
+div.licence-area p {
+  margin-right: 1em;
+  font-size: 0.8em !important;
 }

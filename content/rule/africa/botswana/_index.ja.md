@@ -42,7 +42,7 @@ is_has_distinctive_googlecar: true
 {{% lb 50 %}}
 ![](2023-05-13-02-08-12.png)
 
-By Dickelbers - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>
+By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
 

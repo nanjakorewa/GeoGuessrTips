@@ -93,7 +93,7 @@ sc: [
 {{% tab "森の分布" %}}
 
 {{% notice tip %}}
-オーストラリア付近の生態系のおおまかな区分け。（出典：By Terpsichores - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=22997727">Wikimedia commons</a>, 2023年4月28日に利用）
+オーストラリア付近の生態系のおおまかな区分け。（出典：By Terpsichores - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22997727">Wikimedia commons</a>, 2023年4月28日に利用）
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -220,7 +220,7 @@ By NJM2010 - Own work, GFDL, <a href="https://commons.wikimedia.org/w/index.php?
 
 ![](2023-04-23-16-00-23.png)
 
-By EurovisionNim - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
+By EurovisionNim - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "道路施設" %}}

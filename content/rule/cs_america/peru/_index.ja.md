@@ -51,7 +51,7 @@ sc: [
 
 ![](2023-04-25-09-40-50.png)
 
-By Zcarstvnz - Own work, CC BY-SA 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=72975002">Wikimedia Commons</a>
+By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72975002">Wikimedia Commons</a>
 {{% /lb %}}
 
 {{% notice tip %}}

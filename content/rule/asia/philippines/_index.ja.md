@@ -33,6 +33,7 @@ maps: [
         <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカだけかも</li>
         <li class="no-evidence">ローヤルクラウン・コーラが売られている</li>
     </ul>
+    {{% rd asia philippines verysmall %}}
 </div>
 
 {{% tabs  %}}

@@ -29,7 +29,9 @@
 {{ end }}
 
 <div class="sign-area sign-area-clickable">
-    {{ if (.Get 3) }}
+    {{ if (eq (.Get 3) "OGL") }}
+    <p><a href="http://nationalarchives.gov.uk/doc/open-government-licence/version/1/">Open Government Licence v1.0(Link)</a></p>
+    {{ else if (.Get 3) }}
     <p>{{ .Get 3 }} <a href="{{ .Get 4 }}">Wikimedia Commons(Link)</a></p>
     {{ end }}
 </div>

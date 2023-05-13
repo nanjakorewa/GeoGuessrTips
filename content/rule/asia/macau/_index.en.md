@@ -35,11 +35,11 @@ Most license plates have a <span class="quiz">black</span> background. Bus licen
 {{% lb 50 %}}
 ![](2023-04-28-17-26-53.png)
 
-By Woodennature - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=5951838">Wikimedia Commons</a>, （一部を加工しています）
+By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951838">Wikimedia Commons</a>, （一部を加工しています）
 
 ![](2023-04-28-17-28-36.png)
 
-By Woodennature - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=5951344">Wikimedia Commons</a>, （一部を加工しています）
+By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951344">Wikimedia Commons</a>, （一部を加工しています）
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}

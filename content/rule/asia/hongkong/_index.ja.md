@@ -41,7 +41,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-04-28-17-06-33.png)
 
-By Woodennature - Own work, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=5951198">Wikimedia Commons</a>, 一部加工あり
+By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951198">Wikimedia Commons</a>, 一部加工あり
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
