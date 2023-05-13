@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1021.33mm"
+   height="1021.33mm"
+   viewBox="0 0 1021.33 1021.33"
+   version="1.1"
+   id="svg16"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Yellow Diamond2.svg">
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.0875"
+     inkscape:cx="4262.2688"
+     inkscape:cy="1423.2062"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata13">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,724.32997)">
+    <rect
+       style="fill:#cdff00;fill-opacity:1;stroke:none;stroke-width:0.639399"
+       id="rect18"
+       width="750"
+       height="750"
+       x="137.17851"
+       y="-164.98929"
+       rx="50"
+       ry="50"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.622348"
+       id="rect20"
+       width="730"
+       height="730"
+       x="147.17851"
+       y="-154.98929"
+       rx="40"
+       ry="40"
+       transform="rotate(-45)" />
+    <rect
+       style="fill:#cdff00;fill-opacity:1;stroke:none;stroke-width:0.588247"
+       id="rect22"
+       width="690"
+       height="690"
+       x="167.17851"
+       y="-134.98929"
+       rx="20"
+       ry="20"
+       transform="rotate(-45)" />
+    <path
+       id="path1077"
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.214778"
+       d="m 498.16478,-488.66508 -6.49989,575.000012 h 38.00031 l -6.50042,-575.000012 z m -321.49979,150.0001 -50,199.9997 h 62.9998 l 41,-199.9997 z m 109.0001,0 -33.0001,199.9997 h 62.9998 l 24.0001,-199.9997 z m 109.00012,0 -16.00012,199.9997 h 62.9998 l 7.00011,-199.9997 z m 177.99989,0 7.00011,199.9997 h 62.99977 L 626.665,-338.66498 Z m 109.0001,0 23.99959,199.9997 h 63.00031 l -33.00011,-199.9997 z m 109.00011,0 40.99949,199.9997 h 63.0003 l -50,-199.9997 z" />
+  </g>
+</svg>

@@ -807,3 +807,15 @@ div.sign-area img {
   max-width: 10em;
   min-width: 5em;
 }
+
+div.sign-area img.small {
+  max-height: 6em;
+  max-width: 8em;
+  min-width: 4em;
+}
+
+div.sign-area img.verysmall {
+  max-height: 4.5em;
+  max-width: 4.5em;
+  min-width: 3.8em;
+}

@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>言語は<span class="quiz">ヒンディー語など（地域によって違う）</span></li>
     </ul>
+    {{% rd asia india verysmall %}}
 </div>
 
 {{% tabs  %}}

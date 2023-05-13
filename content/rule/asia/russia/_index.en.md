@@ -21,7 +21,7 @@ jogmec_detail: true
         <li>They are also gas stations and bank lines for <span class="quiz">Gazprom</span>, the world's largest producer of natural gas. If there is a building with a blue or dark blue logo and the sign "Газпром", it is probably Russian.</li>
         <li>Pipes often run over walls, fences, etc.{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
-    {{% rd asia russia %}}
+    {{% rd asia russia small %}}
 </div>
 
 

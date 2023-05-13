@@ -1,8 +1,19 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-{{ $rpth := printf "%s%s/%s/r/" "./content/rule/"  (.Get 0 ) (.Get 1 ) }}
+{{ $rpth := printf "%s%s/%s/r/" "./content/rule/"  (.Get 0) (.Get 1) }}
+{{ $clsname := "normal" }}
+
+{{- if eq (.Get 2) "small" -}}
+{{ $clsname = "small" }}
+{{- else if eq (.Get 2) "verysmall" -}}
+{{ $clsname = "verysmall" }}
+{{ else }}
+{{ $clsname = "normal" }}
+{{ end }}
+
 <div class="sign-area">
 {{ $files := readDir $rpth }}
 {{ range $files }}
-<img src="./r/{{ .Name }}" />
+<img src="./r/{{ .Name }}" class="{{ $clsname }}"/>
 {{ end }}
+
 </div>

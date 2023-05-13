@@ -30,6 +30,7 @@ sc: [
         <li>GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
         <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
+    {{% rd oceania australia verysmall %}}
 </div>
 
 {{% tabs  %}}

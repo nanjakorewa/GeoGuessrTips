@@ -26,6 +26,7 @@ sc: [
         <li>ボラードの反射板が<span class="quiz">赤色</span>。色がボラードの<span class="quiz">表裏</span>に塗られているが<span class="quiz">オーストラリア</span>のものは<span class="quiz">片方しか塗られていなかったり丸い形だったりする</span>ので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
         <li>GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
     </ul>
+    {{% rd oceania new-zealand verysmall %}}
 </div>
 
 {{% tabs  %}}

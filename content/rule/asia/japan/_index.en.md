@@ -18,6 +18,7 @@ jogmec_detail: true
         <li>Language is <span class="quiz">Japanese</span></li>
         <li>Domain is <span class="quiz">.jp</span></li>
     </ul>
+    {{% rd asia japan small %}}
 </div>
 
 

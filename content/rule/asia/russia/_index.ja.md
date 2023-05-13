@@ -26,7 +26,7 @@ sc: [
         <li>天然ガスの生産が世界最大の企業である<span class="quiz">ガスプロム</span>のガソリンスタンド、銀行行もしている。青や紺色のロゴで『Газпром』の表記の建物があればたぶんロシア。</li>
         <li>壁や塀の上などにパイプが通っていることが多い{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
-    {{% rd asia russia %}}
+    {{% rd asia russia small %}}
 </div>
 
 
