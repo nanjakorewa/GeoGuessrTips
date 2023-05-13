@@ -48,7 +48,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-白い壁にカラフルな縁取りの家が多い気がする。また住宅街には高いたてものはほとんどなく平屋も多い。
+白い壁にカラフルな縁取りの家が多い気がする。また住宅街には高い建物はほとんどなく平屋も多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683963487643!6m8!1m7!1sFiDnAseZnm6Ui_6e3EPVrw!2m2!1d38.66517976348365!2d-27.21827223146803!3f108.13412709709209!4f-2.405475486478096!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
