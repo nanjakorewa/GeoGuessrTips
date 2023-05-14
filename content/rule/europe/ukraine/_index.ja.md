@@ -24,6 +24,7 @@ sc: [
         <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。</li>
         <li>ナンバープレートの<span class="quiz">左下が黄色い時がある</span></li>
     </ul>
+    {{% rd europe ukraine verysmall %}}
 </div>
 
 {{% tabs  %}}

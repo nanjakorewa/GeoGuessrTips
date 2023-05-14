@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="700"
+   height="350"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="6.14.1 B.svg">
+  <title
+     id="title3002">6.14.1 Номер маршрута</title>
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="523.70362"
+     inkscape:cy="190.86621"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1024"
+     inkscape:window-x="-4"
+     inkscape:window-y="-4"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>6.14.1 Номер маршрута</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру II</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-702.36218)">
+    <rect
+       y="702.36218"
+       x="0"
+       height="350"
+       width="700"
+       id="rect7193"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="45"
+       ry="45" />
+    <rect
+       y="703.36218"
+       x="1"
+       height="348"
+       width="698"
+       id="rect7101"
+       style="color:#000000;fill:none;stroke:#000000;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="44"
+       ry="44" />
+    <path
+       style="opacity:1;color:#000000;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       d="M 45 10 C 25.61 10 10 25.61 10 45 L 10 305 C 10 324.39 25.61 340 45 340 L 655 340 C 674.39 340 690 324.39 690 305 L 690 45 C 690 25.61 674.39 10 655 10 L 45 10 z M 408.28125 96.34375 C 423.8671 96.897688 436.33584 104.57436 445.6875 119.34375 C 455.03895 134.1134 459.82259 152.66026 460.0625 175 C 459.82259 198.41892 455.03895 217.28669 445.6875 231.59375 C 436.33584 245.90085 423.8671 253.25661 408.28125 253.65625 C 392.69526 253.25661 380.22652 245.90085 370.875 231.59375 C 361.52341 217.28669 356.70851 198.41892 356.46875 175 C 356.70851 151.58123 361.52341 132.71346 370.875 118.40625 C 380.22652 104.09931 392.69526 96.743542 408.28125 96.34375 z M 546.375 96.34375 C 559.28327 96.3439 570.37581 99.69246 579.6875 106.40625 C 588.99899 113.12033 593.87278 123.19724 594.3125 136.625 C 593.98083 145.50598 591.65382 152.48701 587.34375 157.53125 C 583.03346 162.57568 578.74758 166.12722 574.4375 168.1875 C 570.12722 170.24795 567.80022 171.22738 567.46875 171.15625 C 567.84757 171.13265 570.51148 172.48023 575.4375 175.15625 C 580.36332 177.83243 585.26146 181.99624 590.1875 187.65625 C 595.11331 193.31639 597.77721 200.60306 598.15625 209.53125 C 598.39591 219.76205 594.56899 229.50963 586.65625 238.78125 C 578.74329 248.05289 565.31782 253.01683 546.375 253.65625 C 527.43204 253.01683 514.00657 248.05289 506.09375 238.78125 C 498.18087 229.50964 494.3227 219.76205 494.5625 209.53125 C 494.9414 200.60306 497.60531 193.31639 502.53125 187.65625 C 507.45714 181.99624 512.38654 177.83242 517.3125 175.15625 C 522.23838 172.48023 524.87103 171.13265 525.25 171.15625 C 524.9184 171.22737 522.62264 170.24794 518.3125 168.1875 C 514.00228 166.12723 509.68515 162.57568 505.375 157.53125 C 501.06479 152.48701 498.73779 145.50598 498.40625 136.625 C 498.84583 123.19724 503.71963 113.15158 513.03125 106.4375 C 522.3428 99.723712 533.46658 96.343911 546.375 96.34375 z M 151.34375 98.28125 L 182.0625 98.28125 L 231.9375 251.71875 L 203.15625 251.71875 L 193.5625 221.03125 L 139.84375 221.03125 L 130.25 251.71875 L 101.46875 251.71875 L 151.34375 98.28125 z M 287.34375 98.28125 L 310.375 98.28125 L 310.375 251.71875 L 283.5 251.71875 L 283.5 132.8125 L 262.96875 145.6875 L 253.90625 133.90625 L 287.34375 98.28125 z M 546.375 118.28125 C 540.46028 118.20716 535.49634 119.56894 531.5 122.40625 C 527.50355 125.24382 525.40981 129.9854 525.25 136.625 C 526.12915 142.6197 529.658 147.91296 535.8125 152.46875 C 541.96688 157.02473 545.49572 159.41656 546.375 159.65625 C 547.25413 159.41656 550.75173 157.02473 556.90625 152.46875 C 563.06061 147.91297 566.58945 142.6197 567.46875 136.625 C 567.3088 129.9854 565.21506 125.24382 561.21875 122.40625 C 557.22227 119.56894 552.28958 118.20717 546.375 118.28125 z M 408.28125 120.1875 C 400.76797 120.07344 394.74874 124.42681 390.25 133.21875 C 385.75115 142.01093 383.45789 155.93158 383.34375 175 C 383.45789 194.06856 385.75116 207.98922 390.25 216.78125 C 394.74874 225.57334 400.76796 229.9267 408.28125 229.8125 C 415.79439 229.9267 421.78237 225.57334 426.28125 216.78125 C 430.77996 207.98923 433.10447 194.06857 433.21875 175 C 433.10447 155.93158 430.77996 142.01092 426.28125 133.21875 C 421.78237 124.42681 415.79439 120.07345 408.28125 120.1875 z M 166.71875 132.8125 L 147.53125 198.03125 L 185.875 198.03125 L 166.71875 132.8125 z M 546.375 182.6875 C 546.06706 182.79413 543.9085 184.27891 539.90625 187.15625 C 535.90388 190.03372 531.90851 193.66192 527.90625 198.03125 C 523.90389 202.40069 521.74533 206.85501 521.4375 211.4375 C 521.75716 218.11151 524.47832 222.9853 529.59375 226.0625 C 534.70908 229.13975 540.30042 230.66499 546.375 230.625 C 552.44944 230.66498 558.04078 229.13975 563.15625 226.0625 C 568.27155 222.98531 570.9927 218.11151 571.3125 211.4375 C 571.00453 206.25111 568.84597 201.49017 564.84375 197.15625 C 560.84135 192.82244 556.84598 189.34755 552.84375 186.71875 C 548.84136 184.09008 546.6828 182.75862 546.375 182.6875 z "
+       transform="translate(0,702.36218)"
+       id="rect11498" />
+  </g>
+</svg>
