@@ -25,7 +25,7 @@ sc: [
         <li>ナンバープレートは<span class="quiz">黄色</span></li>
         <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える</li>
     </ul>
-    {{% rd europe luxembourg small %}}
+    {{% rd europe luxembourg verysmall %}}
 </div>
 
 <div class="googlemap-if">
