@@ -11,6 +11,11 @@ flag: "SN.svg"
 no_detaile_info: true
 jetro_detail: true
 is_has_distinctive_googlecar: true
+sc_title: "関連ページ"
+sc_icon: rel
+sc: [
+    ["../../europe/france/", "フランス"],
+    ]
 ---
 
 <div class="main-desciption country-description">
