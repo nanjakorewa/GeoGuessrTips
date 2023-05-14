@@ -21,6 +21,7 @@ dont_show_usda: true
         <li>ドメインは<span class="quiz">.ch</span></li>
         <li>横断歩道標識は<span class="quiz">7本</span></li>
     </ul>
+    {{% rd europe switzerland verysmall %}}
 </div>
 
 

@@ -24,6 +24,7 @@ sc: [
         <li>縁石や街頭のポール根本が白黒、縁石は黄・赤や白・赤のものもある</li>
         <li>北は<span class="quiz">比較的雨が多い地中海性</span>気候、南は<span class="quiz">ほとんど雨が降らない砂漠気候とステップ</span>気候が多い</li>
     </ul>
+    {{% rd middle_east israel verysmall %}}
 </div>
 
 {{% tabs  %}}
