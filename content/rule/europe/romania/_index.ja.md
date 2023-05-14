@@ -23,6 +23,7 @@ sc: [
         <li>ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。</li>
         <li class="no-evidence">家の前に何か箱があって、黄色いパイプが伸びている。</li>
     </ul>
+    {{% rd europe romania verysmall %}}
 </div>
 
 {{% tabs  %}}
