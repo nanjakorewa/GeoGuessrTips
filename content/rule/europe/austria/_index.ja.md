@@ -22,6 +22,7 @@ sc: [
         <li>ドメインは<span class="quiz">.at</span></li>
         <li>一方通行は<span class="quiz">EINBAHN</span>の標識がありポールに赤と白のペイントがされていることがある</li>
     </ul>
+    {{% rd europe austria verysmall %}}
 </div>
 
 {{% tabs  %}}

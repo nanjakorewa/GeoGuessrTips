@@ -28,6 +28,7 @@ sc: [
         <li>道路について外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線の場合が多い</li>
         <li><span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業、ガソリンスタンドがある。</li>
     </ul>
+    {{% rd africa south-africa small %}}
 </div>
 
 {{% tabs  %}}

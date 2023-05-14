@@ -26,6 +26,7 @@ sc: [
         <li class="no-evidence">窓辺に植木鉢がありきれいな花が飾られていることが多い</li>
         <li class="no-evidence">標識の裏に黄色いシールが張ってあることがある</li>
     </ul>
+    {{% rd europe slovenia verysmall %}}
 </div>
 
 {{% tabs  %}}

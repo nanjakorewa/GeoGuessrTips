@@ -25,6 +25,7 @@ sc: [
         <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}で線が<span class="quiz">横に1本</span></li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
     </ul>
+    {{% rd europe poland small %}}
 </div>
 
 
