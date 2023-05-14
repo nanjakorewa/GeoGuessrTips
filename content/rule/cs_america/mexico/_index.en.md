@@ -21,6 +21,7 @@ jogmec_detail: true
         <li>Many utility poles are <span class="quiz">octagonal</span>.</li>
         <li>Major Mexican companies are often named ~MEX or ~MX (oil giant PEMEX, cement giant CEMEX, movie theater CINEMEX, etc.)</li>
     </ul>
+    {{% rd cs_america mexico verysmall %}}
 </div>
 
 {{% tabs  %}}

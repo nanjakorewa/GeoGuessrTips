@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.be</span></li>
         <li>ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}</li>
     </ul>
+    {{% rd europe belgium verysmall %}}
 </div>
 
 

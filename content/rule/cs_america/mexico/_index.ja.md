@@ -21,6 +21,7 @@ jogmec_detail: true
         <li>電柱は<span class="quiz">8角形</span>のものが多い</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
     </ul>
+    {{% rd cs_america mexico verysmall %}}
 </div>
 
 {{% tabs  %}}
