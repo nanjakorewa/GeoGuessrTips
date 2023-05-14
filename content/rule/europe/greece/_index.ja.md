@@ -17,6 +17,7 @@ jetro_detail: true
         <li class="important-rule">ギリシャ文字がある</li>
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}。形は色々ある。</li>
     </ul>
+    {{% rd europe greece small %}}
 </div>
 
 

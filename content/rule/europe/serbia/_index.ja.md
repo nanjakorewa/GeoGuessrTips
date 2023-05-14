@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.rs</span></li>
         <li class="important-rule">反射板が偏った薄いボラード</li>
     </ul>
+    {{% rd europe serbia verysmall %}}
 </div>
 
 {{% tabs  %}}
