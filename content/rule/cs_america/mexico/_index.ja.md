@@ -51,6 +51,15 @@ jogmec_detail: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "w-building" %}}
+{{% notice tip %}}
+薄い青のアンテナでVeTVと書いてあることが多い
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684040103096!6m8!1m7!1sJVizNVDgcV900kZKyIHKsg!2m2!1d17.51239783750989!2d-91.99159441195232!3f299.8752202123155!4f4.119409984765227!5f3.2932924915878594" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684040292000!6m8!1m7!1sEmKGN7ptKtolUzxaKbIQxw!2m2!1d25.68334074243041!2d-100.3154806771452!3f249.51757455387454!4f8.032419984405948!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681939768408!6m8!1m7!1sTjIIPhxmYopEa6ZkghhcNQ!2m2!1d25.02755830611226!2d-100.5520773206742!3f196.9516418201439!4f-31.383141622281663!5f3.1991076698735967" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
