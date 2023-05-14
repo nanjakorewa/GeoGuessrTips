@@ -28,6 +28,7 @@ sc: [
         <li>自転車を走る道路（Fietspad）が国中に整備されている、茶色っぽい路面か赤レンガで舗装されているケースが多い。</li>
         <li class="no-evidence">ルクセンブルグと比べ平坦で、水路が多く、家が全体的に赤っぽく、自転車用の道路数が多いように思える</li>
     </ul>
+    {{% rd europe netherlands small %}}
 </div>
 
 
