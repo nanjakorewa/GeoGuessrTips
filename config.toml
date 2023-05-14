@@ -45,6 +45,10 @@ icon = "ti-game" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.twitch.tv/nanjakorewa"
 
 [[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.youtube.com/@nanjakorewa"
+
+[[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 link = "https://twitter.com/nanjakorewa"
 
