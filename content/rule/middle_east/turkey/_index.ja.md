@@ -20,6 +20,7 @@ dont_show_usda: true
         <li class="important-rule">止まれの標識は<span class="quiz">DUR</span></li>
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
     </ul>
+    {{% rd middle_east turkey verysmall %}}
 </div>
 
 {{% tabs  %}}

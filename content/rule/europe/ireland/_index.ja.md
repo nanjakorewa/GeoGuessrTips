@@ -28,6 +28,7 @@ sc: [
         <li>イギリスと比較して全体的に建物が白い</li>
         <li class="no-evidence">⚠️の中に人がいない上、イギリスと比べて街中にたくさん⚠️がある</li>
     </ul>
+    {{% rd europe ireland verysmall %}}
 </div>
 
 {{% tabs  %}}
