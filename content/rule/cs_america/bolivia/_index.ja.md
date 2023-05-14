@@ -24,6 +24,7 @@ sc: [
         <li>ボリビアは木造住宅がほとんどなく<span class="quiz">レンガとセメント</span>でできている</li>
         <li>ほとんどの車はナンバープレートがうっすらと<span class="quiz">青</span>色に見える</li>
     </ul>
+    {{% rd cs_america bolivia verysmall %}}
 </div>
 
 {{% tabs  %}}
