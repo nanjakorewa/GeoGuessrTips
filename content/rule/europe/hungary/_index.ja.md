@@ -20,6 +20,7 @@ jetro_detail: false
         <li><span class="quiz">Utca</span>はハンガリー語でstreetの意味、看板によくある{{% by %}}</li>
         <li>平坦な国で山がほとんど無い</li>
     </ul>
+    {{% rd europe hungary verysmall %}}
 </div>
 
 {{% tabs  %}}
