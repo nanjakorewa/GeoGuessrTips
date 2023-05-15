@@ -28,6 +28,7 @@ sc: [
         <li>2016年までは白いナンバープレートだったので青い線が無いものとあるものが混在している</li>
         <li>横断歩道の標識は５本線でベルトが<span class="quiz">付いている</span>。セルビアはガードレールが同じだが標識にベルトが<span class="quiz">ついていない</span>。</li>
     </ul>
+    {{% rd europe croatia verysmall %}}
 </div>
 
 

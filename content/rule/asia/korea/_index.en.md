@@ -18,6 +18,7 @@ dont_show_usda: true
     <ul class="rule-list">
         <li><span class="quiz">Right-side</span> driving</li>
     </ul>
+    {{% rd europe croatia verysmall %}}
 </div>
 
 

@@ -18,6 +18,7 @@ dont_show_usda: true
     <ul class="rule-list">
         <li>車は<span class="quiz">右側</span>通行</li>
     </ul>
+    {{% rd asia korea verysmall %}}
 </div>
 
 
