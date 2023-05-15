@@ -24,6 +24,7 @@ is_has_distinctive_bollard: true
         <li>The topography was created by lava, and there are irregular rivers and wetlands. There are almost no rivers with straight banks.</li>
         <li>Note that there is no blue line on the left side of the license plate.</li>
     </ul>
+    {{% rd europe croatia verysmall %}}
 </div>
 
 

@@ -23,6 +23,7 @@ is_has_distinctive_bollard: true
         <li>溶岩によって作成された地形であり、<span class="quiz">不規則に川や湿地がある。川岸がまっすぐな川はほぼ無い</span>。</li>
         <li>ナンバープレートの左側に青のラインが無いので注意</li>
     </ul>
+    {{% rd europe iceland verysmall %}}
 </div>
 
 
