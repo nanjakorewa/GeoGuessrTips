@@ -26,6 +26,7 @@ sc: [
         <li>反射板の周りが<span class="quiz">黒</span>色に塗られており<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}</li>
         <li>ガードレールについてセルビアやモンテネグロと異なり丸みを帯びている</li>
     </ul>
+    {{% rd europe macedonia verysmall %}}
 </div>
 
 

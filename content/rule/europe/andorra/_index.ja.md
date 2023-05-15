@@ -21,6 +21,7 @@ dont_show_usda: true
         <li>左側が<span class="quiz">黄色</span>くなっているナンバープレート</li>
         <li>周りが山がちで石壁の模様の壁のアパート・マンションが多い</li>
     </ul>
+    {{% rd europe andorra verysmall %}}
 </div>
 
 {{% tabs  %}}
