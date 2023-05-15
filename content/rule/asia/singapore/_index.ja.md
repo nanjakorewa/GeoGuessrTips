@@ -23,6 +23,7 @@ plonkit: true
         <li>標識の背景が<span class="quiz">四角い白地</span>で固定されている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}</li>
         <li class="no-evidence">ゴミ箱に分別のルールとかが書かれた大き目のシールが張ってあることが多い</li>
     </ul>
+    {{% rd asia singapore verysmall %}}
 </div>
 
 

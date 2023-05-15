@@ -20,6 +20,7 @@ plonkit: true
         <li><span class="quiz">Left-side</span> driving.</li>
         <li><span class="quiz">Black-and-white</span> striped, angular-looking bollards are found. {{% by %}}</li>
     </ul>
+    {{% rd asia thai verysmall %}}
 </div>
 
 
