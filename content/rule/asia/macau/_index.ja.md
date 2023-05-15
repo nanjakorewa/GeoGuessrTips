@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.mo</span></li>
         <li>ナンバープレートは<span class="quiz">黒</span>背景のものが多い。バスのナンバープレートは文字が<span class="quiz">黄色</span>で書かれている。</li>
     </ul>
+    {{% rd asia macau small %}}
 </div>
 
 

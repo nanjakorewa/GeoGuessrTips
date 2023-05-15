@@ -19,6 +19,7 @@ jetro_detail: false
         <li>Like FamilyMart in Japan, the store's name is written in the corner of the signboard.</li>
         <li>The area code is a gradient from north to south.</li>
     </ul>
+    {{% rd asia taiwan small %}}
 </div>
 
 

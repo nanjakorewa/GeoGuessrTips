@@ -20,6 +20,7 @@ dont_show_usda: true
         <li>Language is Hong Kong (dialect of Cantonese)</li>
         <li>The license plate is <span class="quiz">white</span> on the front and <span class="quiz">yellow</span> on the back.</li>
     </ul>
+    {{% rd asia hongkong small %}}
 </div>
 
 

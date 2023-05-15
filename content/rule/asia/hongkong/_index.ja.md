@@ -25,6 +25,7 @@ sc: [
         <li>言語は香港語(広東語の方言)</li>
         <li>ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span></li>
     </ul>
+    {{% rd asia hongkong small %}}
 </div>
 
 

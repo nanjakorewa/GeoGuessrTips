@@ -19,6 +19,7 @@ dont_show_usda: true
         <li>Domain is <span class="quiz">.mo</span></li>
         <li>Most license plates have a <span class="quiz">black</span> background. Bus license plates have the letters in <span class="quiz">yellow</span>.</li>
     </ul>
+    {{% rd asia macau small %}}
 </div>
 
 

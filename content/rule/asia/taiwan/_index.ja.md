@@ -24,6 +24,7 @@ sc: [
         <li>道端に<span class="quiz">赤い●</span>のボラードがある</li>
         <li>大手コンビニの<span class="quiz">萊爾富便利商店（Hi-Life）</span>・OK超商（台湾のサークルK）がある</li>
     </ul>
+    {{% rd asia taiwan small %}}
 </div>
 
 
