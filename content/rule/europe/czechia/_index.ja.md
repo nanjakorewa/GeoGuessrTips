@@ -27,6 +27,7 @@ sc: [
         <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
         <li>チェコかスロバキアのどちらか分からないとき<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
     </ul>
+    {{% rd europe czechia verysmall %}}
 </div>
 
 {{% tabs  %}}

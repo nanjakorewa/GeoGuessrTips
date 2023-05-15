@@ -27,6 +27,7 @@ sc: [
         <li>スロバキアは全体的にタトラ山脈の影響で<span class="quiz">全体的に山がち</span></li>
         <li>ブラチスラバとそれ以外との間に経済的な格差がある。一人当たりGDPがチェコよりも低い（2021年時点でチェコ26,410米ドル・スロバキア21,050米ドル）{{% by "https://www.mofa.go.jp/mofaj/area/slovak/data.html" "web" "外務省 スロバキア共和国 基礎データ" %}}。</li>
     </ul>
+    {{% rd europe slovakia verysmall %}}
 </div>
 
 {{% tabs  %}}
