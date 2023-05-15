@@ -18,6 +18,7 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bg</span></li>
     </ul>
+    {{% rd europe bulgaria verysmall %}}
 </div>
 
 
