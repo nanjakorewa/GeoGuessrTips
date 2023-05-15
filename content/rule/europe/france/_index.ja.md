@@ -61,7 +61,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-04-13-08-22-03.png)
 
-By I, Bzh29, CC BY-SA 2.5, <a href="https://commons.wikimedia.org/w/index.php?curid=2232262">Wikimedia Commons</a>
+By I, Bzh29, <a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2232262">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
