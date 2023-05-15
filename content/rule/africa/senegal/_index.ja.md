@@ -28,6 +28,7 @@ sc: [
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
         <li>フランスと同じく通り名に「RUE」と書かれている</li>
     </ul>
+    {{% rd africa senegal verysmall %}}
 </div>
 
 

@@ -30,6 +30,7 @@ sc: [
         <li>都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える</li>
         <li>中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
+    {{% rd middle_east jordan verysmall %}}
 </div>
 
 {{% tabs  %}}

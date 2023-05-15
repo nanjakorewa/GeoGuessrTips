@@ -23,6 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.qa</span></li>
         <li>Google Carが特徴的</li>
     </ul>
+    {{% rd middle_east qatar small %}}
 </div>
 
 {{% tabs  %}}

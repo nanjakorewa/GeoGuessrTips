@@ -22,6 +22,7 @@ jetro_detail: true
         <li>ドイツは第2世代しかない{{% by "neckoluv" "twitch" %}}ので画質が全体的に良くない</li>
         <li>郊外や山間部はほとんど出ない</li>
     </ul>
+    {{% rd europe germany verysmall %}}
 </div>
 
 

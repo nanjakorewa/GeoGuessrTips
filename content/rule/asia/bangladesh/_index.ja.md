@@ -26,6 +26,7 @@ sc: [
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>Dhaka bankのロゴがあるかも</li>
     </ul>
+    {{% rd asia bangladesh small %}}
 </div>
 
 

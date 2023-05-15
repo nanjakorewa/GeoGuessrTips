@@ -28,6 +28,7 @@ sc: [
         <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアやモンテネグロには少ない。</li>
         <li class="no-evidence">赤茶色の屋根と白い壁の家が多い</li>
     </ul>
+    {{% rd europe albania verysmall %}}
 </div>
 
 {{% tabs  %}}

@@ -26,6 +26,7 @@ sc: [
         <li><span class="quiz">黄</span>色のガードレールが山中に多くありその多くがかなり錆びている</li>
         <li>画像に切れ目があることが多い</li>
     </ul>
+    {{% rd europe montenegro verysmall %}}
 </div>
 
 {{% tabs  %}}

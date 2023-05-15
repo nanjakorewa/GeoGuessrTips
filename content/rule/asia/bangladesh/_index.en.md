@@ -22,6 +22,7 @@ dont_show_usda: true
         <li>Google Car in Bangladesh is distinctive.</li>
         <li>Dhaka bank logo may be seen around town</li>
     </ul>
+    {{% rd asia bangladesh small %}}
 </div>
 
 
