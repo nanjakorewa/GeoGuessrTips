@@ -68,3 +68,5 @@
   translation: distinctive GoogleCar
 - id: has_unique_googlecar
   translation: References
+- id: findable-road-sign
+  translation: Signs you can find

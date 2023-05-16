@@ -25,6 +25,7 @@ plonkit: true
         <li class="no-evidence">In the Highveld, <span class="quiz">pine and eucalyptus forestry is practiced and plantation forests</span> exist.</li>
         <li class="no-evidence">When you're in the Lowveld, you can often see the landscape far to the north and south, but not far enough to the east and west.</li>
     </ul>
+    {{% rd cs_america chile verysmall %}}
 </div>
 
 

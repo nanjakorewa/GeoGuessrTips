@@ -28,6 +28,7 @@ sc: [
         <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。</li>
         <li>電柱の溝に仕切りが<span class="quiz">ある</span>電柱を使っている。仕切りが<span class="quiz">ない</span>電柱はチリの可能性が高い。</li>
     </ul>
+    {{% rd cs_america brazil verysmall %}}
 </div>
 
 

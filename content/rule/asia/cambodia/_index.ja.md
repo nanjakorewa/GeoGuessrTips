@@ -24,6 +24,7 @@ dont_show_usda: true
         <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。</li>
         <li class="no-evidence">パラソルの下でビン入りの飲み物がよく売られている。</li>
     </ul>
+    {{% rd asia cambodia verysmall %}}
 </div>
 
 

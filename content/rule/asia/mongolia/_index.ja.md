@@ -17,6 +17,7 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.mn</span></li>
         <li><span class="quiz">ゲル</span>が遠くに見えるかも</li>
     </ul>
+    {{% rd asia mongolia verysmall %}}
 </div>
 
 

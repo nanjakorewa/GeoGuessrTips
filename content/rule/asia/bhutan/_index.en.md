@@ -20,6 +20,7 @@ dont_show_usda: true
         <li>Domain is <span class="quiz">.bt</span></li>
         <li>License plate is <span class="quiz">red</span>.</li>
     </ul>
+    {{% rd asia bhutan verysmall %}}
 </div>
 
 

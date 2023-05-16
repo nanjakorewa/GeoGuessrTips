@@ -30,6 +30,7 @@ sc: [
         <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
         <li class="no-evidence">標高が低いローベルトは平地が多いかつ国全体が斜めになっているので、道路上にいる時は南北方向は遠くまで景色が見えて東西は遠くまで見えないことが多い</li>
     </ul>
+    {{% rd africa eswatini verysmall %}}
 </div>
 
 

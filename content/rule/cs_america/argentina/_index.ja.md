@@ -27,6 +27,7 @@ sc: [
         <li>ガソリンスタンドに<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス、青色のロゴでアルゼンチンの国有石油会社）</span>のものがある</li>
         <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
     </ul>
+    {{% rd cs_america argentina verysmall %}}
 </div>
 
 {{% tabs  %}}

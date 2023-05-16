@@ -26,6 +26,7 @@ sc: [
         <li>ナンバープレートは<span class="quiz">前後共に黄色</span></li>
         <li>標識の棒は<span class="quiz">細く白い素材</span>で看板の背面には<span class="quiz">クロス</span>が存在する{{% by %}}</li>
     </ul>
+    {{% rd cs_america colombia verysmall %}}
 </div>
 
 {{% tabs  %}}

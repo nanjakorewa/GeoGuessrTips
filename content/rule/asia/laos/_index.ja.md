@@ -23,6 +23,7 @@ sc: [
         <li>ナンバープレートは<span class="quiz">黄色</span>が多い</li>
         <li>ドメインは<span class="quiz">.la</span></li>
     </ul>
+    {{% rd asia laos verysmall %}}
 </div>
 
 {{% tabs  %}}

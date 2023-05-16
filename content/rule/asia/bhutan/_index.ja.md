@@ -22,6 +22,7 @@ plonkit: true
         <li>ナンバープレートは<span class="quiz">赤い</span></li>
         <li>Google Carが<span class="quiz">灰</span>色かつ<span class="quiz">左側</span>通行ならばブータンと確定する{{% by "https://www.plonkit.net/bhutan" "plonkit" %}}</li>
     </ul>
+    {{% rd asia bhutan verysmall %}}
 </div>
 
 

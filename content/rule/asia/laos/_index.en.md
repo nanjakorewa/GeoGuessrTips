@@ -19,6 +19,7 @@ plonkit: true
         <li>License plates are often <span class="quiz">yellow</span>.</li>
         <li>Domain is <span class="quiz">.la</span></li>
     </ul>
+    {{% rd asia laos verysmall %}}
 </div>
 
 {{% tabs  %}}

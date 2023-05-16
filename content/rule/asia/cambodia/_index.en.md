@@ -24,6 +24,7 @@ dont_show_usda: true
         <li>There are logos of the beer brands <span class="quiz">LEO, Kingdom, and Angkor</span> on the parasols, etc. The logo of <span class="quiz">Angkor</span>, the largest company, is of course Angkor Wat.</li>
         <li class="no-evidence">Bottled drinks are often found for sale under parasols.</li>
     </ul>
+    {{% rd asia cambodia verysmall %}}
 </div>
 
 

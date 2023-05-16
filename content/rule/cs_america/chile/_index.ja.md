@@ -20,6 +20,7 @@ dont_show_usda: true
         <li>ドメインは<span class="quiz">.cl</span></li>
         <li>電柱の真ん中が<span class="quiz">へこんでる領域が長く区切りがない</span>{{% by %}}</li>
     </ul>
+    {{% rd cs_america chile verysmall %}}
 </div>
 
 

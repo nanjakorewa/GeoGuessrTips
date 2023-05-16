@@ -27,6 +27,7 @@ sc: [
         <li>太目の<span class="quiz">四角</span>の電柱がある</li>
         <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>
     </ul>
+    {{% rd cs_america puerto-rico verysmall %}}
 </div>
 
 
