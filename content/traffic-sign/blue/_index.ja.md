@@ -15,7 +15,7 @@ bg: "bg/tf.jpg"
 {{% tabs  %}}
 {{% tab "モンゴル" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677842541691!6m8!1m7!1sISzFJ2fxxlL3iRjoJilWog!2m2!1d47.91580407528323!2d106.9180618758531!3f51.546643150375765!4f-3.0620156157076934!5f2.9131358656875324" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677842541691!6m8!1m7!1sISzFJ2fxxlL3iRjoJilWog!2m2!1d47.91580407528323!2d106.9180618758531!3f51.546643150375765!4f-3.0620156157076934!5f2.9131358656875324" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -46,7 +46,7 @@ bg: "bg/tf.jpg"
 {{% /tab %}}
 {{% tab "ハンガリー" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677720534817!6m8!1m7!1s0bA9Lv7660Q4nQPUFiELEQ!2m2!1d46.07256417323016!2d18.22450604155695!3f329.9062910747134!4f0.19468244080650265!5f3.325193203789971" width="150" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677720534817!6m8!1m7!1s0bA9Lv7660Q4nQPUFiELEQ!2m2!1d46.07256417323016!2d18.22450604155695!3f329.9062910747134!4f0.19468244080650265!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ルーマニア" %}}
