@@ -11,6 +11,12 @@ bg: "bg/up.jpg"
 add_rule_link: true
 ---
 
+## 動画解説
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 ## ブラジル
 
 {{% tabs  %}}
