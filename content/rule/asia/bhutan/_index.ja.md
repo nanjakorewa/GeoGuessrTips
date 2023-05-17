@@ -21,6 +21,7 @@ plonkit: true
         <li>ドメインは<span class="quiz">.bt</span></li>
         <li>ナンバープレートは<span class="quiz">赤い</span></li>
         <li>Google Carが<span class="quiz">灰</span>色かつ<span class="quiz">左側</span>通行ならばブータンと確定する{{% by "https://www.plonkit.net/bhutan" "plonkit" %}}</li>
+        <li>窓がたくさん規則的に並んだ建物がある</li>
     </ul>
     {{% rd asia bhutan verysmall %}}
 </div>
@@ -28,12 +29,21 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}
+{{% notice tip %}}ナンバープレートは<span class="quiz">赤い</span>
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069123072!6m8!1m7!1snsis-0O5B_NplMNhDK8WUQ!2m2!1d27.21655889960072!2d89.50131637523377!3f337.8340097333948!4f-6.702168017769921!5f3.324277194873118" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069244382!6m8!1m7!1sKPJ-pcg6EYAyaNIIgXshFw!2m2!1d27.31063317375025!2d89.54815796711539!3f357.54362954656085!4f-7.157381909344238!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}窓がたくさん規則的に並んだ建物がある
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/nagarjun/15662531378/" title="Valley houses"><img src="https://live.staticflickr.com/7575/15662531378_1cd88ca808_z.jpg" width="640" height="400" alt="Valley houses"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
