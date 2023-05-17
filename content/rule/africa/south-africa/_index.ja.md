@@ -28,7 +28,7 @@ sc: [
         <li>道路について外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線の場合が多い</li>
         <li><span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業、ガソリンスタンドがある。</li>
     </ul>
-    {{% rd africa south-africa small %}}
+    {{% rd africa south-africa verysmall %}}
 </div>
 
 {{% tabs  %}}
@@ -51,10 +51,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業。
+<span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業{{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if" style="align-items: center;">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679677105343!6m8!1m7!1sHzQ8bmbPPm9pnYOkg83_iw!2m2!1d-33.94114997232529!2d18.60874629092492!3f8.347004415763166!4f2.5505209374776427!5f3.0833772611191104" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./Sasol_Limited_-_Logo.svg.png" width="290px">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
