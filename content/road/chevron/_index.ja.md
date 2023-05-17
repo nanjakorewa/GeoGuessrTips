@@ -8,17 +8,6 @@ keywords: ["シェブロン"]
 sections: [""]
 ---
 
-## 北米
-
-{{% tabs  %}}
-{{% tab "黄黒" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679668744014!6m8!1m7!1s7u524D9mu2l_-Kh_leJxkA!2m2!1d45.36640298003154!2d-122.6224868977959!3f21.332574939317098!4f-8.814036259385333!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
-
 ## ヨーロッパ
 
 {{% tabs  %}}
