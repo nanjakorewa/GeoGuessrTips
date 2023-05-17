@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "MX.svg"
 jetro_detail: true
 jogmec_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../colombia/", "コロンビア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -20,6 +24,7 @@ jogmec_detail: true
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
         <li>電柱は<span class="quiz">8角形</span>のものが多い</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
+        <li>VeTVと書いてある<span class="quiz">青</span>色のアンテナが家に付いていることがある</li>
     </ul>
     {{% rd cs_america mexico verysmall %}}
 </div>
