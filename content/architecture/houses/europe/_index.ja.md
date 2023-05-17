@@ -19,7 +19,7 @@ add_rule_link: true
 {{% /tab %}}
 {{% /tabs %}}
 
-## アフリカ
+## イギリス
 
 {{% tabs  %}}
 {{% tab "ロンドン" %}}
