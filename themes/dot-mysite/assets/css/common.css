@@ -21,6 +21,11 @@ li a:hover {
   text-decoration: underline;
 }
 
+h2[id] {
+  padding-top: 60px;
+  margin-top:-60px;
+}
+
 .blur-item {
   -ms-filter: blur(10px);
   filter: blur(10px);
@@ -792,6 +797,16 @@ i.i-bollard {
   color: #555;
   margin-left: 0.3em;
   transform: rotate(-45deg);
+}
+
+i.i-bollard2 {
+  color: #000;
+  transform: rotate(-45deg);
+  margin: 0;
+}
+
+a.bollard-link {
+  font-weight: bold;
 }
 
 div.sign-area {
