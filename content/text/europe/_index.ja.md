@@ -1,5 +1,5 @@
 ---
-title: "言語①"
+title: "ヨーロッパの言語"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -9,7 +9,23 @@ sections: [""]
 bg: "bg/text.jpg"
 ---
 
-## ヨーロッパ
+## 北欧
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr>
+    <th>言語名</th> <th>表記</th>
+</tr>
+<tr><td><span class="quiz">日本語</span></td><td>ここは一方通行のゾーンです</td></tr>
+<tr><td><span class="quiz">英語</span></td><td>This is a one-way zone.</td></tr>
+<tr><td><span class="quiz">スウェーデン語</span></td><td>Det här är en enkelriktad zon.</td></tr>
+<tr><td><span class="quiz">ノルウェー語</span></td><td>Dette er en enveiskj<span class="f-enlarge">ø</span>ringssone.</td></tr>
+<tr><td><span class="quiz">デンマーク語</span></td><td>Dette er en ensrettet zone.</td></tr>
+<tr><td><span class="quiz">フィンランド語</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
+</table>
+</div>
+
+## その他
 
 {{% tabs  %}}
 {{% tab "キリル文字" %}}

@@ -13,7 +13,7 @@ sections: [""]
 {{% tabs  %}}
 {{% tab "メキシコ" %}}
 {{% notice tip %}}
-タクシーの色で都市が分かる → <a href="../../rule/cs_america/mexico/">メキシコ</a>
+タクシーの色で都市が分かる → {{% goto "../../rule/cs_america/mexico/" "メキシコ" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679458581944!6m8!1m7!1sofRx7y1WNAprPtaAhdmEqA!2m2!1d19.37148555541399!2d-99.1788575112147!3f153.15458392524835!4f-9.71562876312683!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
