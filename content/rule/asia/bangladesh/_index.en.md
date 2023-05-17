@@ -43,7 +43,7 @@ You may find <span class="quiz">red and white striped</span> bollards. Often man
 You can find <span class="quiz">green</span> licence plate
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684362900275!6m8!1m7!1spqc77shjNJOAzOR25_qyJA!2m2!1d23.89851390469957!2d90.4078777153086!3f144.4737785337015!4f-23.315713498161287!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb small %}}
