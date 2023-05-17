@@ -26,9 +26,10 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.au</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li><span class="quiz">ユーカリ</span>の木が沢山ある、電柱も<span class="quiz">ユーカリ</span>の木からできることが多い</li>
-        <li>GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
+        <li><span class="quiz">ユーカリ</span>の木が沢山あり電柱も<span class="quiz">ユーカリ</span>の木からできることが多い</li>
+        <li>GIVE WAYが黒い文字ならば<span class="quiz">オーストラリア</span>・赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}</li>
         <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
+        <li>「M1」のような道路番号はオーストラリアにもあるけれどフォントが異なる</li>
     </ul>
     {{% rd oceania australia verysmall %}}
 </div>
