@@ -17,6 +17,7 @@ dont_show_usda: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li><span class="quiz">Left-side</span> driving</li>
+        <li>You can find <span class="quiz">green</span> licence plate</li>
         <li>There's a <span class="quiz">black and white</span> striped pole sign.</li>
         <li>Many <span class="quiz">red and white striped</span> bollards. They are often lined up near bridges.</li>
         <li>Google Car in Bangladesh is distinctive.</li>
@@ -36,6 +37,18 @@ You may find <span class="quiz">red and white striped</span> bollards. Often man
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680636634650!6m8!1m7!1sYI0Xa1atrX-Qn1k_ad0AkA!2m2!1d24.64427101999302!2d88.66719083664103!3f193.3258756997445!4f-28.379864056242432!5f2.9252105427836863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+You can find <span class="quiz">green</span> licence plate
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684362900275!6m8!1m7!1spqc77shjNJOAzOR25_qyJA!2m2!1d23.89851390469957!2d90.4078777153086!3f144.4737785337015!4f-23.315713498161287!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb small %}}
+![](2023-05-18-07-41-41.png)
+{{% /lb %}}
 
 {{% notice tip %}}
 GoogleCar in Bangladesh is distinctive and easily recognizable.

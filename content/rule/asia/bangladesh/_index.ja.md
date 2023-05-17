@@ -21,6 +21,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li><span class="quiz">緑</span>色のナンバープレートがある</li>
         <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
@@ -39,6 +40,17 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680636634650!6m8!1m7!1sYI0Xa1atrX-Qn1k_ad0AkA!2m2!1d24.64427101999302!2d88.66719083664103!3f193.3258756997445!4f-28.379864056242432!5f2.9252105427836863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+<span class="quiz">緑</span>色のナンバープレートがある
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684362900275!6m8!1m7!1spqc77shjNJOAzOR25_qyJA!2m2!1d23.89851390469957!2d90.4078777153086!3f144.4737785337015!4f-23.315713498161287!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb small %}}
+![](2023-05-18-07-41-41.png)
+{{% /lb %}}
 
 {{% notice tip %}}
 バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある
