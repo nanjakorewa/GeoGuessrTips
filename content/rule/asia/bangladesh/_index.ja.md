@@ -24,7 +24,7 @@ sc: [
         <li><span class="quiz">緑</span>色のナンバープレートがある</li>
         <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
-        <li><span class="quiz">CNG（タイにおけるトゥクトゥクのような車）</span>や<span class="quiz">リキシャ（人力車みたいな乗り物）</span>が走っている</li>
+        <li><span class="quiz">CNG（タイにおけるトゥクトゥクのような車）</span>やオートリキシャが走っている</li>
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>Dhaka bankのロゴがあるかも</li>
     </ul>
