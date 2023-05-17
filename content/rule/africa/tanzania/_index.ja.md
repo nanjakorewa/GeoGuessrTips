@@ -28,7 +28,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">赤色</span>のナンバープレートの日本車が多いならザンジバル周辺？
+共通点が少ない上に場所がとびとびなので当てるためには覚える必要がありそう
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683885355279!6m8!1m7!1sA2y-b-21Zkn6sZ2JBGk87A!2m2!1d-4.654000294359702!2d29.62562291526737!3f163.65790877772505!4f4.34280492373189!5f0.9490199121367272" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
