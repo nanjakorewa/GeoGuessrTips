@@ -62,7 +62,7 @@ sc: [
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144566252!6m8!1m7!1sB-a1zsMm8gvQEGItXgvsEQ!2m2!1d-28.51919408506439!2d153.1580933788061!3f170.10090920810467!4f-17.90590305808597!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680144592493!6m8!1m7!1sLohwHN59698bRKTyVnhH_w!2m2!1d-28.51857188906127!2d153.1582966065746!3f43.64712248469409!4f-11.864931007273896!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684350092139!6m8!1m7!1sftI2P1c5dNmhsiIBHCVHRg!2m2!1d-32.05654720091714!2d151.6860635019022!3f270.4329617609021!4f-31.78218974106587!5f2.9682701783188015" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-music" %}}
@@ -154,6 +154,7 @@ sc: [
         <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
         <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">NA</span>の電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li><span class="quiz">WAとVIC</span>の電柱には山の形のものがある</li>
     </ul>
 </div>
 
@@ -175,7 +176,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "？" %}}
+{{% tab "WAとVIC" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684320660884!6m8!1m7!1sFu3-CS2FUj_3wQ6YwqFK3Q!2m2!1d-28.75661025818507!2d114.6165293377311!3f311.9909758373502!4f28.478450815917896!5f3.3203146277309257" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -185,6 +186,7 @@ sc: [
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li class="no-evidence">信号機付近の機械に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
         <li>クリスマス島が出題されることがある{{% goto "../christmas_island/" "クリスマス島" %}}
             <ul>
                 <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
@@ -199,7 +201,6 @@ sc: [
                 <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
             </ul>
         </li>
-        <li class="no-evidence">信号機付近の機械に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
     </ul>
 </div>
 

@@ -23,6 +23,7 @@ sc: [
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>車の後ろナンバーが<span class="quiz">大き目の黄色</span></li>
         <li>ドメインは<span class="quiz">.ke</span></li>
+        <li>Google Carが特徴的</li>
     </ul>
 </div>
 
@@ -42,8 +43,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681156819029!6m8!1m7!1s_zk0DXg5G2KTHmmqajac0g!2m2!1d-1.312932447867278!2d36.82958261882765!3f344.3071636505832!4f5.597152900617999!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681156601869!6m8!1m7!1sFzzhfKKYdTuKuHRt91tTDw!2m2!1d-1.286406038743243!2d36.8280811193266!3f329.15201408064127!4f9.7236776257745!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "w-googlecar" %}}
+
 {{% notice tip %}}
 Google Carが特徴的
 {{% /notice %}}
