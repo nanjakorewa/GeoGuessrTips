@@ -66,7 +66,7 @@ sc: [
 </div>
 
 {{% lb 50 small %}}
-<img src="2023-04-15-09-20-42.png" class="resolution-small" />
+<img src="2023-04-15-09-20-42.png" class="resolution-small" width="50%" />
 
 By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123241255">Wikimedia Commons</a>
 {{% /lb %}}

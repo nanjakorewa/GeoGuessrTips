@@ -42,4 +42,20 @@ add_rule_link: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684235918773!6m8!1m7!1sS8scdEs-ozyWYWVqPjvtQw!2m2!1d53.45815088485895!2d-1.170147627808297!3f112.57071987641456!4f-11.588397003040456!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "白赤" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684320325087!6m8!1m7!1s-XmG1Ud5SwPSJ42bx2yJww!2m2!1d56.259023568906!2d-2.7268946362317!3f243.4400609150221!4f-19.690911157766536!5f2.9046987489043916" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684324219696!6m8!1m7!1sznvGXUDMZh3_SCKhv_uqcQ!2m2!1d56.25913612559033!2d-2.727014723457081!3f175.0805768463083!4f-13.017484766461138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+## ポーランド
+
+{{% tabs  %}}
+{{% tab "白赤" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
