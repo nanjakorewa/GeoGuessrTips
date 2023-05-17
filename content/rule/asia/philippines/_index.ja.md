@@ -28,9 +28,10 @@ maps: [
         <li>英語とフィリピン語が公用語</li>
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
-        <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
+        <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用されバスのような公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
+        <li class="no-evidence">道路がコンクリートでできているのはフィリピン・タイ・コロンビア・ペルー・エクアドルに多い</li>
+        <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカ</li>
         <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
-        <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカだけかも</li>
         <li class="no-evidence">ローヤルクラウン・コーラが売られている</li>
     </ul>
     {{% rd asia philippines verysmall %}}

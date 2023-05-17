@@ -25,6 +25,7 @@ sc: [
         <li>道路わきの看板の数値は始点と終点の距離を表している</li>
         <li>天然ガスの生産が世界最大の企業である<span class="quiz">ガスプロム</span>のガソリンスタンド、銀行行もしている。青や紺色のロゴで『Газпром』の表記の建物があればたぶんロシア。</li>
         <li>壁や塀の上などにパイプが通っていることが多い{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>交差点や道路の合流地点にボラードが沢山ある{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。</li>
     </ul>
     {{% rd asia russia small %}}
 </div>
@@ -32,6 +33,15 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+交差点や道路の合流地点にボラードが沢山ある{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684299677832!6m8!1m7!1s_rUu-YhYJ4NGCjnRiHmdtA!2m2!1d52.55770818253806!2d104.4457571572049!3f18.037961606465192!4f-2.813607116195655!5f3.0429976113777246" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% notice tip %}}
 ガスプロムは天然ガスの生産・供給において世界最大の企業であり、ロシアの国営企業。ノルドストリームもガスプロムが大株主となっている。キルギスタンにもガソリンスタンドがある。
 {{% /notice %}}
