@@ -90,7 +90,6 @@ Many Mexican companies have MEX at the end of their names.
 </div>
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">Narrow down cities and towns</h2>
     <ul class="rule-list">
         <li>Coconut palm plantations exist along the coast of Guerrero</li>
         <li>Sometimes you can tell a town by the color of the license plate.</li>
