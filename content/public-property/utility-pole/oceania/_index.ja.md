@@ -12,17 +12,36 @@ add_rule_link: true
 
 ## オーストラリア
 
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
+        <li><span class="quiz">NA</span>の電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li><span class="quiz">WAとVIC</span>の電柱には山の形のものがある</li>
+    </ul>
+</div>
+
 {{% tabs  %}}
-{{% tab "木製" %}}
+{{% tab "QLD（クィーンズランド州）" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677465144517!6m8!1m7!1s1u02LZqnhxYWufCuUKLTxw!2m2!1d-27.46579027473859!2d153.0344105158709!3f284.7672240473443!4f9.346962925447926!5f0.5748498410384651" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677465211021!6m8!1m7!1sOIwj049q11Bt2sNnXk6vQg!2m2!1d-31.64934709838378!2d116.6753376635603!3f350.8636381592982!4f8.976962704614209!5f1.3977422555279562" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677465250637!6m8!1m7!1sshSil5j_L3dqIlgsNVHmpQ!2m2!1d-20.7234621446844!2d139.4905820642018!3f45.660121416694906!4f5.459360858351587!5f1.9544072375277337" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここで現地から <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> の電柱Tips！<br><br>黒く塗られた番号・青くて丸いマーカー・ちょっと上に傾いた横向きの碍子はすべてクイーンズランド州特有なので覚えよう！ <a href="https://t.co/Jbzg4WThyN">pic.twitter.com/Jbzg4WThyN</a></p>&mdash; Daigo ʅ(･Θ･)ʃ (@Daig_O) <a href="https://twitter.com/Daig_O/status/1654019022021881856?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-{{% tab "鉄製" %}}
+{{% tab "SA（南オーストラリア州）" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677465281172!6m8!1m7!1snxXUCShFZNSEmtl0f26q4w!2m2!1d-14.46354358950741!2d132.2655207748224!3f172.490912074645!4f7.694089405950891!5f0.4143964008709521" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876310366!6m8!1m7!1s0GIbI-sr8Q9l7AYua8OAgw!2m2!1d-33.13255954029371!2d135.5524586341847!3f262.0190664488449!4f-1.0028351410437466!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "NT（ノーザンテリトリー）" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876456537!6m8!1m7!1shd7Z7v-D90HQqyG7kY9b8g!2m2!1d-12.46811351660095!2d130.9896766812721!3f317.6882480346222!4f2.9617063585158974!5f2.8082921195720525" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "WAとVIC" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684320660884!6m8!1m7!1sFu3-CS2FUj_3wQ6YwqFK3Q!2m2!1d-28.75661025818507!2d114.6165293377311!3f311.9909758373502!4f28.478450815917896!5f3.3203146277309257" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
