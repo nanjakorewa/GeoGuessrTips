@@ -138,6 +138,11 @@ div.googlemap-if div.description {
   height: 295px;
 }
 
+div.googlemap-if div.description p, div.googlemap-if div.description-wide p {
+  margin: 0;
+}
+
+
 div.googlemap-if div.description-wide {
   margin: 0;
   padding: 0.5em;

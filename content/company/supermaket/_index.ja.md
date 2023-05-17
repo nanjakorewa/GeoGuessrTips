@@ -28,7 +28,7 @@ bg: "bg/super.jpg"
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678069646710!6m8!1m7!1sZudn9xETzx2FRhxpeyw9lA!2m2!1d43.54998917532347!2d5.183959639991214!3f229.38331015879308!4f2.854264612576074!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678069804229!6m8!1m7!1sY8L8JMA8lLfOQzKH88VS2w!2m2!1d43.69475562945016!2d5.492010073531223!3f271.8250102946492!4f15.361124525501097!5f2.964537198710692" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
+<div class="description-wide">
 Système Uは、フランスのランジスが拠点のスーパー、フランスで 6 番目に大きな小売グループ。Hyper UはSuper Uの上位互換（だと思う）。
 {{% ahref "Système U - Wikipedia" "https://en.wikipedia.org/wiki/Tesco" %}}
 </div>

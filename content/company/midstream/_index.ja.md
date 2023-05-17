@@ -18,7 +18,6 @@ bg: "bg/pipeline.jpg"
 <div class="description">
 ペンビナ・パイプライン (Pembina Pipeline Corporation)はカナダのミッドストリーム企業。毎月配当がもらえる数少ない企業だが、毎月固定で配当を払えるのはその事業形態（固定かつ長期の契約が多い）による安定した収入があることを示している。パイプラインが埋まっている箇所には看板がある。
 {{% ahref "Investors - Pembina Pipeline" "https://www.pembina.com/investors/" %}}
-{{% ahref "画像の出典(Wikipedia)" "https://en.wikipedia.org/wiki/Pembina_Pipeline#/media/File:This_Is_Oil_Country_..._;-)_(11342951765).jpg" %}}
 </div>
 </div>
 {{% /tab %}}

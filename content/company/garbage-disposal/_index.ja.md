@@ -27,7 +27,7 @@ bg: "bg/wm.jpg"
 
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677424210486!6m8!1m7!1s5sPA2cyvGaPXejw48MIr9Q!2m2!1d42.43064011108702!2d-76.51020788742116!3f243.39228874593942!4f-8.39562044222832!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<div class="description">
+<div class="description-wide">
 キャセラ・ウェイスト・システムズは米国バーモント州ラトランドに本拠を置く廃棄物管理会社。バーモント州、ニューハンプシャー州、ニューヨーク州、マサチューセッツ州、コネチカット州、メイン州、ペンシルバニア州など北米に拠点がある。
 {{% ahref "Casella Waste Systems" "https://www.casella.com/our-locations" %}}・
 {{% ahref "Casella Waste Systems, Inc. (CWST)" "https://finance.yahoo.com/quote/CWST?p=CWST&.tsrc=fin-srch" %}}
@@ -41,14 +41,6 @@ bg: "bg/wm.jpg"
 Whitetail Disposalは米国ペンシルベニア州に本拠を置く廃棄物管理会社。
 {{% ahref "Witetail Disposal" "https://www.whitetaildisposal.com/" %}}
 </div>
-</div>
-{{% /tab %}}
-{{% tab "フロリダ" %}}
-{{% notice tip %}}
-ヒルズボロ郡（Hillsborough County）はアメリカ合衆国フロリダ州のフロリダ半島メキシコ湾岸に位置する郡。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678796932925!6m8!1m7!1s2-9wAuuRjX6ZVRHYRL3cXg!2m2!1d27.98047442710257!2d-82.392864659917!3f48.85218533614494!4f-20.77770900360167!5f2.9517370164284555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

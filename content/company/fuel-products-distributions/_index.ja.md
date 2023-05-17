@@ -9,6 +9,43 @@ sections: ["PO", "YPF", "Pertamina", "PEMEX"]
 bg: "bg/gs.jpg"
 ---
 
+## 世界中
+
+{{% tabs %}}
+{{% tab "Shell" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677721822597!6m8!1m7!1sck-rB9flf7mUSKX4XPjUgQ!2m2!1d-1.292442796175878!2d36.821372088024!3f100.66136361718628!4f1.7192767983057706!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ロイヤル・ダッチ・シェルは欧州最大の石油メジャー。探索から生産・輸送・精製・販売までの全て（アップストリーム・ミッドストリーム・ダウンストリーム）をすべて一社で行う。
+当初はカスピ海から輸入した貝殻加工装飾品の販売から事業を始めたらしい。
+{{% ahref "Shell plc Investor Presentations" "https://www.shell.com/investors/investor-presentations.html" %}}
+</div>
+{{% youtube-desc "EspFw0zKkN0" %}}
+</div>
+{{% /tab %}}
+{{% tab "Total" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677844436438!6m8!1m7!1sdHy50wtlK2MiMNP1R6gPvA!2m2!1d6.344786559502562!2d5.63697504937665!3f209.03277532867125!4f6.89540381708575!5f3.0070644241347466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+トタルエナジーズ は、フランスのパリ近郊ラ・デファンスに本社を置く多国籍企業である。国際石油資本であり、スーパーメジャーの6社の内の一社である。
+{{% ahref "Investors | TotalEnergies.com" "https://totalenergies.com/investors" %}}
+{{% ahref "Total Energy（TTE)" "https://finance.yahoo.com/quote/TTE?p=TTE" %}}
+</div>
+</div>
+{{% /tab %}}
+{{% tab "BP" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677665055371!6m8!1m7!1s1CX3pO54r4QGUXHznwS59g!2m2!1d-37.82589618244398!2d145.0000910285516!3f161.95963984119248!4f8.957657254306056!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ブリティッシュペトロリアム（BP p.l.c.）は英系の石油メジャーでありスーパーメジャーの一社（他はXOMなど）。ロンドン証券取引所においてはFTSE100の構成銘柄になっている。
+{{% ahref "BP p.l.c. (BP) " "https://finance.yahoo.com/quote/BP/" %}}
+{{% ahref "bpジャパン株式会社" "https://www.bp.com/ja_jp/japan/home.html" %}}
+</div>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
 ## 北米
 
 {{% tabs  %}}
@@ -172,20 +209,6 @@ Essar Energy plc は、モーリシャスに本拠を置くインドのエネル
 {{% ahref "プルタミナ" "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BF%E3%83%9F%E3%83%8A" %}}
 </div>
 </div>
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-</div>
-{{% /tab %}}
-{{% tab "オーストラリア" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677665055371!6m8!1m7!1s1CX3pO54r4QGUXHznwS59g!2m2!1d-37.82589618244398!2d145.0000910285516!3f161.95963984119248!4f8.957657254306056!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-ブリティッシュペトロリアム（BP p.l.c.）は英系の石油メジャーでありスーパーメジャーの一社（他はXOMなど）。ロンドン証券取引所においてはFTSE100の構成銘柄になっている。
-{{% ahref "BP p.l.c. (BP) " "https://finance.yahoo.com/quote/BP/" %}}
-{{% ahref "bpジャパン株式会社" "https://www.bp.com/ja_jp/japan/home.html" %}}
-</div>
-</div>
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -193,14 +216,6 @@ Essar Energy plc は、モーリシャスに本拠を置くインドのエネル
 
 
 {{% tabs  %}}
-{{% tab "イギリス" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678447892683!6m8!1m7!1sKG74dIKwsmqeof73Vw133A!2m2!1d50.95182080078899!2d-1.295118756084518!3f154.1!4f7.219999999999999!5f2.2309097045259185" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-{{% ahref "Texaco" "https://www.texaco.com/" %}}
-</div>
-</div>
-{{% /tab %}}
 {{% tab "トルコ" %}}
 <div class="googlemap-if">
     <iframe src="https://www.google.com/maps/embed?pb=!4v1677397319842!6m8!1m7!1sadep_n1rT1y0BgIfAxrtIw!2m2!1d40.79530568693797!2d29.43614397282826!3f223.39075567437916!4f7.5657404803663155!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -208,7 +223,6 @@ Essar Energy plc は、モーリシャスに本拠を置くインドのエネル
 Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、ガソリンスタンドはトルコ全域に存在する。
 {{% ahref "Petrol Ofisi" "https://www.petrolofisi.com.tr/en" %}}
 </div>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678880747769!6m8!1m7!1sirmncSvX1a9SHpxF-0WIBg!2m2!1d41.04934897752926!2d29.0765282567033!3f107.64457383975335!4f1.4063985487040753!5f0.9636756255403175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "クロアチア" %}}
@@ -228,28 +242,6 @@ Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、�
 サソール社は南アフリカの化学品とエネルギー企業。南アフリカで最大規模の企業であり、世界で7番目に大きな石炭採掘会社でもある。
 {{% ahref "Investor Centre - Sasol" "https://www.sasol.com/investor-centre" %}}
 </div>
-</div>
-{{% /tab %}}
-{{% tab "ナイジェリア" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677844436438!6m8!1m7!1sdHy50wtlK2MiMNP1R6gPvA!2m2!1d6.344786559502562!2d5.63697504937665!3f209.03277532867125!4f6.89540381708575!5f3.0070644241347466" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-トタルエナジーズ は、フランスのパリ近郊ラ・デファンスに本社を置く多国籍企業である。国際石油資本であり、スーパーメジャーの6社の内の一社である。
-{{% ahref "Investors | TotalEnergies.com" "https://totalenergies.com/investors" %}}
-{{% ahref "Total Energy（TTE)" "https://finance.yahoo.com/quote/TTE?p=TTE" %}}
-</div>
-</div>
-{{% /tab %}}
-{{% tab "ケニア" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677721822597!6m8!1m7!1sck-rB9flf7mUSKX4XPjUgQ!2m2!1d-1.292442796175878!2d36.821372088024!3f100.66136361718628!4f1.7192767983057706!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-ロイヤル・ダッチ・シェルは欧州最大の石油メジャー。探索から生産・輸送・精製・販売までの全て（アップストリーム・ミッドストリーム・ダウンストリーム）をすべて一社で行う。
-当初はカスピ海から輸入した貝殻加工装飾品の販売から事業を始めたらしい。
-{{% ahref "Shell plc Investor Presentations" "https://www.shell.com/investors/investor-presentations.html" %}}
-{{% ahref "Shell plc (SHEL)" "https://finance.yahoo.com/quote/SHEL/" %}}
-</div>
-{{% youtube-desc "EspFw0zKkN0" %}}
 </div>
 {{% /tab %}}
 {{% /tabs %}}
