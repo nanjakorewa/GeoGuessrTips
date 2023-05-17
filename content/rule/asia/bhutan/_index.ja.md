@@ -36,6 +36,11 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681069244382!6m8!1m7!1sKPJ-pcg6EYAyaNIIgXshFw!2m2!1d27.31063317375025!2d89.54815796711539!3f357.54362954656085!4f-7.157381909344238!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% lb 50 %}}
+![](2023-05-18-06-22-20.png)
+
+By Cfynn - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35901900">Wikimedia Commons(Link)</a>
+{{% /lb %}}
 
 {{% notice tip %}}窓がたくさん規則的に並んだ建物がある
 {{% /notice %}}
