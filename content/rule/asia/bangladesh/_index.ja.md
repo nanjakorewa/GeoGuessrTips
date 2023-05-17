@@ -24,7 +24,7 @@ sc: [
         <li><span class="quiz">緑</span>色のナンバープレートがある</li>
         <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
-        <li><span class="quiz">CNG（タイにおけるトゥクトゥクのような車）</span>やオートリキシャが走っている</li>
+        <li><span class="quiz">CNGリキシャ（タイにおけるトゥクトゥクのような車）</span>やオートリキシャが走っている{{% ref "https://www.jftc.jp/monthly/overseas/entry-1748.html" "日本貿易会月報オンライン - バングラデシュの交通事情変革期" %}}</li>
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>Dhaka bankのロゴがあるかも</li>
     </ul>
@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">緑</span>色のナンバープレートがある。後ろにいる<span class="quiz">CNG</span>も<span class="quiz">緑</span>色のナンバープレートを付けている。
+<span class="quiz">緑</span>色のナンバープレートがある。後ろにいる<span class="quiz">CNGリキシャ</span>も<span class="quiz">緑</span>色のナンバープレートを付けている。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
