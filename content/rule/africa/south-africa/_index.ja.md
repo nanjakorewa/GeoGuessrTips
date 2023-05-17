@@ -162,7 +162,7 @@ Waldner, François, et al. "National-scale cropland mapping based on spectral-te
 </div>
 
 {{% notice tip %}}
-Fruitの箇所でぶどうが、東のSugerのエリアでさとうきびが見られる。。
+Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリアでさとうきびが見られる。
 {{% /notice %}}
 
 {{% /tab %}}
