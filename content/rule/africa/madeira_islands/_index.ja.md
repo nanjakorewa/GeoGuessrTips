@@ -23,7 +23,10 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ポルトガル領の離島でナンバープレート・標識・電柱はポルトガルと共通している</li>
+        <li>島の海岸線は海食崖の岩場が多く綺麗な海が見えるのに海水浴場が無い</li>
+        <li>コンクリート製の欄干やボラードがある</li>
         <li>エリアコードは<span class="quiz">291</span></li>
+        <li class="no-evidence">海上の湿った空気と貿易風がぶつかることで霧が発生しやすい</li>
     </ul>
 </div>
 
@@ -45,11 +48,12 @@ sc: [
 
 
 {{% notice tip %}}
-エリアコードは<span class="quiz">291</span>
+コンクリート製の橋の欄干やボラードがある。また霧がかかっているエリアも多い。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683963007289!6m8!1m7!1soCn9MRAtA-K_CHyFWUAoWA!2m2!1d32.64847916047501!2d-16.90342338061261!3f178.15947766634014!4f13.635505896472566!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684420167787!6m8!1m7!1sxRT9P8dkWIAOaPkejbCMSg!2m2!1d32.69898201241671!2d-16.83927795438327!3f336.2484225772838!4f-5.376528525409341!5f1.666429744125736" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684420266366!6m8!1m7!1sYWcfW0A_ZzJ6mHRbwVRC1Q!2m2!1d32.78799821857791!2d-17.12725137504941!3f191.9792348464448!4f-7.377721746054391!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
