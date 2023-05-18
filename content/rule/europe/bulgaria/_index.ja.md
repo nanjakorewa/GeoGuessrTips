@@ -47,7 +47,7 @@ plonkit: true
 {{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも。VというロゴかVivacomという文字が描かれている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684399779397!6m8!1m7!1sLD0DHiT-1i4jqbCVXxk63w!2m2!1d42.69950587131878!2d27.25164082781438!3f16.383765654691565!4f15.205967588369205!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684400159136!6m8!1m7!1sLD0DHiT-1i4jqbCVXxk63w!2m2!1d42.69950587131878!2d27.25164082781438!3f17.68116711905936!4f15.48665152349841!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684400001761!6m8!1m7!1shPOyaH5BZ64DVmA8SFNXcA!2m2!1d43.98994940591337!2d22.86801721751684!3f296.6047001377266!4f30.046607751578037!5f3.323506360847502" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
