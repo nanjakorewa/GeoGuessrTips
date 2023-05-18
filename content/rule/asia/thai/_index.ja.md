@@ -92,7 +92,7 @@ sc: [
     <ul class="rule-list">
         <li>農業・植生の種類・土の色が場所によって異なる
             <ul>
-                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(U.S. Department of Agriculture)</a></li>
+                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
                 <li>土壌の分布データ：<a href="https://thailand.opendevelopmentmekong.net/layers/tha-soil-types/">OpenDevelopment Thailand - Dominant Soil Types</a></li>
             </ul>
         </li>

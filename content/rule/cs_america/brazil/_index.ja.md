@@ -52,12 +52,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り、文字が<span class="quiz">赤</span>かったりする。最近の車ほど上が青いことが多い。画像は一部加工あり。
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。BR（南米石油最大手ペトロブラス）のガソリンスタンドや電気自動車の充電施設もあるかも。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681829518321!6m8!1m7!1sJfu3TVGFyyeyUBI2xa-ITA!2m2!1d-5.128418221425581!2d-39.73171069715569!3f307.6402477371886!4f-11.449488560528394!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681829554360!6m8!1m7!1sBlWZSVkCmjnTYeD7wJYx3Q!2m2!1d-23.51352684671102!2d-46.62496679242141!3f31.11382004459029!4f-7.635798052599199!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Nissan Leaf taxi Rio de Janeiro"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}

@@ -108,3 +108,14 @@ add_rule_link: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+## インド
+
+{{% tabs %}}
+{{% tab "白黒" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684385714449!6m8!1m7!1sCBeFZK0393yL2E0zUBkAdg!2m2!1d15.75767018116273!2d75.09175429432712!3f60.82737882603913!4f-4.87167443996816!5f2.5285204746600263" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

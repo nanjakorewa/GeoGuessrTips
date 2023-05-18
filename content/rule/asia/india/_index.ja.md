@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>言語は<span class="quiz">ヒンディー語など（地域によって違う）</span></li>
     </ul>
-    {{% rd asia india small %}}
+    {{% rd asia india verysmall %}}
 </div>
 
 {{% tabs  %}}
@@ -74,11 +74,11 @@ sc: [
 {{% tabs  %}}
 {{% tab "土の分布" %}}
 {{% notice tip %}}
-真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By ncert - http://nroer.in/gstudio/resources/images/show/35270/, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
+真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-09-05-08.png" style="max-width:80%;"/>
+<img src="2023-04-26-09-05-08.png" style="max-width:60%;"/>
 </div>
 
 {{% /tab %}}
@@ -125,8 +125,7 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>地域ごとに言語が違うので文字の形で見分けられる{{% by "usumdensetu" "twitch" %}}</li>
-        <li>デリーなどの都心はセクターやブロックの名前でさらに地域を絞り込めるが同じ名前のセクターが異なる場所に複数あることもあるので注意</li>
+        <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
 </div>
 
@@ -195,6 +194,48 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683536379262!6m8!1m7!1siPrv0pkeitRMVQ8ce8UkRg!2m2!1d14.90588514508056!2d79.86349239934395!3f246.87675993779882!4f9.734625500123414!5f3.139402080150767" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683536507928!6m8!1m7!1sRxKQRYgkNPC6m9Rv2URtsg!2m2!1d17.24747772616979!2d80.14134607062307!3f4.732751074080325!4f12.886439959891234!5f2.832146649303087" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>農業が場所によって異なる
+            <ul>
+                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=IN">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "パーム" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-18-13-47-23.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+南全域に存在しており、とりわけ南東側に多い。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "菜種" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-18-14-03-20.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+北の方の特に乾燥した地域周辺に多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684386132338!6m8!1m7!1s6H7XGG6zf5BRQZTgWOIOBg!2m2!1d27.09125165384609!2d72.24390807022428!3f210.5965039749511!4f-8.053181292628878!5f0.7820865974627469" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-18-14-07-10.png" width="60%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

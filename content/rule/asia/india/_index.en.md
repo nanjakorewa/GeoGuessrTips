@@ -18,7 +18,7 @@ jogmec_detail: true
         <li>Domain is <span class="quiz">.id</span></li>
         <li>Languages include <span class="quiz">Hindi, etc. (varies by region)</span>.</li>
     </ul>
-    {{% rd asia india small %}}
+    {{% rd asia india verysmall %}}
 </div>
 
 {{% tabs  %}}
@@ -68,7 +68,7 @@ Bansuri is an instrument commonly used in Indian Hindustani music.
 {{% tabs  %}}
 {{% tab "Soil distribution" %}}
 {{% notice tip %}}
-Bright red soil is southwest or south, blackish color is inland from Delhi to south, and silky white soil is north?（Image source：By ncert - http://nroer.in/gstudio/resources/images/show/35270/, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
+Bright red soil is southwest or south, blackish color is inland from Delhi to south, and silky white soil is north?（Image source：By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -116,7 +116,6 @@ Even if the soil is red, if there are steep mountains and forests all around, co
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>Different regions have different languages, which can be distinguished by the shape of the letters.{{% by "usumdensetu" "twitch" %}}</li>
-        <li>Urban centers such as Delhi can be further narrowed down to areas by sector or block name, but note that there are sectors with the same name in different locations.</li>
     </ul>
 </div>
 
