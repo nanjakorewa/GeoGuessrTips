@@ -18,7 +18,8 @@ plonkit: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bg</span></li>
         <li>横断歩道の標識の線の数は<span class="quiz">4</span>本</li>
-        <li>ブリキ製のようなゴミ箱が通りや家の前に置いてある</li>
+        <li><span class="quiz">ブリキ製のような</span>ゴミ箱が通りや家の前に置いてある</li>
+        <li>ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも</li>
     </ul>
     {{% rd europe bulgaria verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -41,6 +42,13 @@ plonkit: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684397297573!6m8!1m7!1sijk15BjtkjhARpFpQuDMGw!2m2!1d41.55520583327546!2d23.27139179633965!3f90.89721846934577!4f-19.704997173911366!5f3.2025102608093046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684397406967!6m8!1m7!1sUPLtg7HroIVen5_oVH1Tzg!2m2!1d42.70149352505604!2d27.25106514590047!3f317.99502161880133!4f-21.334557205798646!5f1.5382304235558601" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも。VというロゴかVivacomという文字が描かれている。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684399779397!6m8!1m7!1sLD0DHiT-1i4jqbCVXxk63w!2m2!1d42.69950587131878!2d27.25164082781438!3f16.383765654691565!4f15.205967588369205!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684400001761!6m8!1m7!1shPOyaH5BZ64DVmA8SFNXcA!2m2!1d43.98994940591337!2d22.86801721751684!3f296.6047001377266!4f30.046607751578037!5f3.323506360847502" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
