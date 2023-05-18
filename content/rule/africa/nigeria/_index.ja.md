@@ -126,6 +126,16 @@ sc: [
 何種類かあるらしいけれど画質のせいで違いがわからなかった。乾燥した熱帯のエリアで育てられる？
 {{% /notice %}}
 {{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-19-08-43-21.png" width="90%" />
+</div>
+
+{{% notice tip %}}
+中央から北部にかけて多いが海沿い以外はどこでも存在する可能性あり
+{{% /notice %}}
+{{% /tab %}}
+
 {{% tab "パトカー" %}}
 
 {{% notice tip %}}
