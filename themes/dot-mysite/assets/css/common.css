@@ -39,7 +39,6 @@ h2[id] {
   background: rgba(255, 255, 255, 1) !important;
 }
 
-
 nav.navbar {
   background-color: #19182a;
   color: #fff;
@@ -69,6 +68,18 @@ code.language-css span {
 
 .container {
   max-width: 95% !important;
+}
+
+div.update-area {
+  padding: 0.4em;
+}
+
+div.update-area a {
+  text-decoration: underline black;
+}
+
+div.update-area a:hover {
+  font-weight: bold;
 }
 
 div.main-description {
