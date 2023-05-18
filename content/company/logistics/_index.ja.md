@@ -9,19 +9,20 @@ sections: [""]
 bg: "bg/container.jpg"
 ---
 
-以下は本社がある地域。コンテナやトラックは違う国でも普通に見られるのでジオゲッサーをする上ではほとんど参考にならない。
+以下は本社がある地域。コンテナやトラックは本社がある国以外の地域でも普通に見られるのでジオゲッサーをする上ではほとんど参考にならない。
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## アジア
 
 {{% tabs  %}}
 {{% tab "日本" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677934499048!6m8!1m7!1sluobIU6IEyt0uRgy7uAJLA!2m2!1d35.40461760905954!2d139.6742706059286!3f116.7242762331013!4f0.37961127070565226!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/19leergut46/50258850507/in/photolist-2jzcKgi-2ogmTQy-2nYyxsB-2nPfUd3-2of2nUg-2nsuBZR-2ok1VNg-2cSWRhc-2n7Hz1D-2mLqmoW-2kHp9PP-ZCqJfH-2odzxeK-2mJiP4V-8sDAUb-KjpMHX-2mJbi8w-2nfT6Sc-2ozn57r-2oAd1Kh-STKuji-2mz4PHb-Naw2BW-2iZ39LZ-2n6jFHn-2j4qoVX-2n1fq78-2k39rDd-DCScSH-2iQWwPF-V9yZ4g-2iaB3sQ-2oxR15m-KaNZ65-F9qFef-2k8qv1q-2mRYdnb-2jjShYw-2mWMFAb-2nkvd5q-2nezgUY-2kLEYvH-2iRczTb-2nG8Qoj-2mWMTAg-K1V2UL-2jybKwr-2nCze7F-2ohNj64-CHUDf" title="One Hannover (2)"><img src="https://live.staticflickr.com/65535/50258850507_3104c17fe8_z.jpg" width="590" height="390" alt="One Hannover (2)"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/155757043@N05/45865143615/in/photolist-2cSWRhc-2n7Hz1D-2mLqmoW-2kHp9PP-ZCqJfH-2odzxeK-2mJiP4V-8sDAUb-KjpMHX-2mJbi8w-2nfT6Sc-2ozn57r-2oAd1Kh-STKuji-2mz4PHb-Naw2BW-2iZ39LZ-2n6jFHn-2j4qoVX-2n1fq78-2k39rDd-DCScSH-2iQWwPF-V9yZ4g-2iaB3sQ-2oxR15m-KaNZ65-F9qFef-2k8qv1q-2mRYdnb-2jjShYw-2mWMFAb-2nkvd5q-2nezgUY-2kLEYvH-2iRczTb-2nG8Qoj-2mWMTAg-K1V2UL-2jybKwr-2nCze7F-2ohNj64-CHUDf-2mS4S5u-2mvth1K-2emMZnE-2FfQSF-2oequZR-2kYptkk-2m2GXuW" title="Hamburg, Container One Reederei"><img src="https://live.staticflickr.com/7901/45865143615_9a5a8c5ef4_z.jpg" width="590" height="427" alt="Hamburg, Container One Reederei"/></a>
 {{% youtube-desc "U7UFHi5_EHI?start=210" %}}
 <div class="description-wide">
 オーシャン ネットワーク エクスプレス ホールディングスは、日本の海運業者。
 {{% ahref "ONE - one-line.com" "https://www.one-line.com/ja" %}}
-{{% ahref "オーシャン ネットワーク エクスプレス ホールディングス - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3_%E3%83%8D%E3%83%83%E3%83%88%E3%83%AF%E3%83%BC%E3%82%AF_%E3%82%A8%E3%82%AF%E3%82%B9%E3%83%97%E3%83%AC%E3%82%B9_%E3%83%9B%E3%83%BC%E3%83%AB%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B9" %}}
 </div>
 </div>
 {{% /tab %}}
@@ -39,6 +40,15 @@ bg: "bg/container.jpg"
 ## ヨーロッパ
 
 {{% tabs  %}}
+{{% tab "ドイツ" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pillenman23/52766004156/in/photolist-2ooKyGm-GEVdon-2o4k2vs-S45Lxi-24vpTM9-DMkcxH-2kW6HRC-Tyf3wS-2je5MPt-2kW4qRp-n8Qkz-2nHybCi-hxcFw-2kWxts2-2iwffdc-2op7dvW-2kwb3cv-2omeKEw-2kb4nPS-2kBmDB5-2kkAqMR-2dkBRkJ-NiuJnC-JJz5i7-2mSKTCf-23QMhT4-2ojURE1-2of9CAC-CRvBfd-r9f9vf-2iNAfGH-2k36Eha-2kkEJrz-2noYiUy-LSdsLk-2jjVqSB-61FADf-9feL6K-Yu68Bj-2kAn39A-2oyGaFp-2mNzxPv-2nH3uoE-2okCx2w-2nAYLbF-2ongYoe-2nr7or5-2o2UR92-2ksp3AR-fz9YiR" title="HLBU 3403468 Hapag Lloyd"><img src="https://live.staticflickr.com/65535/52766004156_e7e2a5635f_z.jpg" width="640" height="333" alt="HLBU 3403468 Hapag Lloyd"/></a>
+<div class="description-wide">
+Hapag-Lloydはドイツのハンブルクに本社を置くコンテナ運送会社。オレンジ色のビビットカラーが印象的。
+{{% ahref "Hapag-Lloyd - Investor Relations" "https://www.hapag-lloyd.com/en/company/ir.html" %}}
+</div>
+</div>
+{{% /tab %}}
 {{% tab "イスラエル" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678702125484!6m8!1m7!1sa-I8SjKj8wZ7aYMcuD6zlA!2m2!1d32.79021691153199!2d34.95891049734592!3f200.1381057375247!4f27.915497585237205!5f0.4772553173285183" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

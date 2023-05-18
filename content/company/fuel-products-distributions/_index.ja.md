@@ -54,7 +54,8 @@ bg: "bg/gs.jpg"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677673571683!6m8!1m7!1sD32mHQORE-iY9gK76MZomA!2m2!1d42.32463899171095!2d-83.0616350896024!3f277.83342117598386!4f2.7557862705137666!5f1.8119885857926192" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州フィンドレーに本社を置く石油精製会社。トロントとケベック周辺に展開する。
-{{% ahref "Ultramar" "https://en.wikipedia.org/wiki/Ultramar" %}}
+{{% ahref "マラソン・ペトロリアム" "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%9A%E3%83%88%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%A0" %}}
+{{% ahref "Investor Relations" "https://www.marathonpetroleum.com/Investors/" %}}
 </div>
 </div>
 {{% /tab %}}
@@ -63,8 +64,7 @@ Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678008791746!6m8!1m7!1sX9reUxij-KvQ6zqqjWPrHg!2m2!1d44.01106487052348!2d-79.41784108858326!3f318.01409498540625!4f-2.0602523954102026!5f2.3036150215165376" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
 Ultramarはカナダ東部のガスおよび家庭用燃料の小売業者。
-{{% ahref "マラソン・ペトロリアム" "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%82%BD%E3%83%B3%E3%83%BB%E3%83%9A%E3%83%88%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%A0" %}}
-{{% ahref "Investor Relations" "https://www.marathonpetroleum.com/Investors/" %}}
+{{% ahref "Ultramar" "https://en.wikipedia.org/wiki/Ultramar" %}}
 </div>
 </div>
 {{% /tab %}}
@@ -131,6 +131,16 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 ## アジア
 
 {{% tabs  %}}
+{{% tab "東南アジア全域" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677933538062!6m8!1m7!1sjM2FfrUFUSvUE2EYzz3nxw!2m2!1d22.28343957076375!2d114.2219965705417!3f162.54177990331902!4f3.892436916459687!5f1.1162036429924087" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
+{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
+{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
+</div>
+</div>
+{{% /tab %}}
 {{% tab "ロシア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678477731532!6m8!1m7!1s97uJuireKtUnA1BivP2RCw!2m2!1d56.88739119660375!2d60.52842209413554!3f61.90026552296326!4f10.029416900826348!5f1.3623003864927512" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -147,37 +157,6 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 シノペックは、中華人民共和国最大規模の石油会社・石油化学工業会社。事業は石油・天然ガスの探索～化学肥料の販売まで、アップストリームからダウンストリームまで手広く行う。
 {{% ahref "中国石油化工集団 - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
 {{% ahref "China Petroleum & Chemical Corporation (0386.HK)" "https://finance.yahoo.com/quote/0386.HK/" %}}
-</div>
-</div>
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677933538062!6m8!1m7!1sjM2FfrUFUSvUE2EYzz3nxw!2m2!1d22.28343957076375!2d114.2219965705417!3f162.54177990331902!4f3.892436916459687!5f1.1162036429924087" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
-{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
-{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
-</div>
-</div>
-{{% /tab %}}
-{{% tab "タイ" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677933388375!6m8!1m7!1srlgR9GSi1pTr29h-_sSdHQ!2m2!1d7.90354046704053!2d98.30587450287413!3f171.94459672376635!4f-0.5865931605873982!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-カルテックスは東南アジア・中東・南アフリカで使用されているシェブロン社の石油ブランド名。星のマークがトレードマーク。
-{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
-{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
-{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
-</div>
-</div>
-{{% /tab %}}
-{{% tab "マレーシア" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677933442582!6m8!1m7!1sOvvzAcUIh1WmMXEBT-hKGg!2m2!1d14.2973143360927!2d121.0817115497165!3f25.973674083994286!4f0.2405470777819403!5f1.6723009221009915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677933485614!6m8!1m7!1sXCToyUHHVewFkhcEhJSAVA!2m2!1d14.29752407433687!2d121.0818226156711!3f252.31138986666073!4f0.24200544121683265!5f1.7444091566465794" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-{{% ahref "Caltex - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
-{{% ahref "Quality Fuels & Petrol Stations with Techron® | Caltex Australia" "https://www.caltex.com/au/en.html" %}}
-{{% ahref "Yahoo! - Chevron Corporation (CVX)" "https://finance.yahoo.com/quote/CVX" %}}
 </div>
 </div>
 {{% /tab %}}
