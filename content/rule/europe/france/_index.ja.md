@@ -103,6 +103,12 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li>電話番号の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
         <li>ドイツ語が混ざっていたら県境の近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
         <li>レンガが多かったらベルギー近くを検討してみる</li>
+        <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
+            <ul>
+                <li class="no-evidence">黄色い花の畑があるなら北部かも</li>
+                <li class="no-evidence">ひまわりの畑があるなら南西部かも</li>
+            </ul>
+        </li>
     </ul>
 </div>
 

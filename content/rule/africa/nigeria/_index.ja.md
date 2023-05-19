@@ -83,7 +83,7 @@ sc: [
         <li>農業や植生が場所によって異なる
             <ul>
                 <li>パームの木は海沿いの領域に多い</li>
-                <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(U.S. Department of Agriculture)</a>・マップのサイズが一致するように一部画像加工あり</li>
+                <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(USDA)</a>・マップのサイズが一致するように一部画像加工あり</li>
             </ul>
         </li>
         <li>パトカーの赤青の位置で地域を絞り込める{{% by %}}
@@ -135,7 +135,6 @@ sc: [
 中央から北部にかけて多いが海沿い以外はどこでも存在する可能性あり
 {{% /notice %}}
 {{% /tab %}}
-
 {{% tab "パトカー" %}}
 
 {{% notice tip %}}

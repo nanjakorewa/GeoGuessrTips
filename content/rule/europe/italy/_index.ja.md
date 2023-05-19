@@ -93,6 +93,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
+        <li>田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
 

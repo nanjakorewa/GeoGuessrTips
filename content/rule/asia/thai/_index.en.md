@@ -85,7 +85,7 @@ Thai is the official language.
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>Agriculture and vegetation types vary from place to place</li>
-        <li>Data Source：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(U.S. Department of Agriculture)</a></li>
+        <li>Data Source：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(USDA)</a></li>
     </ul>
 </div>
 
