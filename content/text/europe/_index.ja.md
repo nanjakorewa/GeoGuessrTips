@@ -7,6 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/text.jpg"
+add_rule_link: true
 ---
 
 ## 北欧

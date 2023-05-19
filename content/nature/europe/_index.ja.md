@@ -7,9 +7,8 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/tree.jpg"
+add_rule_link: true
 ---
-
-<br />
 
 ## 農業分布
 
