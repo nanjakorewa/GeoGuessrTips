@@ -107,7 +107,7 @@ sc: [
 
 {{% tabs %}}
 {{% tab "ひまわり畑" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684470352192!6m8!1m7!1sjbXvrKql7rKvUppx5CIKlQ!2m2!1d44.99873497073138!2d28.26096536490912!3f233.57437776441674!4f-2.810643552049882!5f1.5504235819947265" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
