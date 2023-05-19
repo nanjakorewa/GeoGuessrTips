@@ -105,8 +105,8 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li>レンガが多かったらベルギー近くを検討してみる</li>
         <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
             <ul>
-                <li class="no-evidence">黄色い花の畑があるなら北部かも</li>
-                <li class="no-evidence">ひまわりの畑があるなら南西部かも</li>
+                <li class="no-evidence">菜種の畑は北部に多い</li>
+                <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
     </ul>

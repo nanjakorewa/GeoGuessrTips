@@ -16,6 +16,9 @@ bg: "bg/tree.jpg"
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>データの出典：<a href="https://ipad.fas.usda.gov/rssiws/al/europe_cropprod.aspx">Europe - Crop Production Maps - U.S. Department of Agriculture(USDA)</a></li>
+        <li>菜種は北部側に多い</li>
+        <li>コメは地中海側の沿岸部に多い</li>
+        <li>コーンは広く分布しているが北欧やイギリスには少ない</li>
     </ul>
 </div>
 
