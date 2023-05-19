@@ -95,3 +95,24 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>ひまわりは東側で多く栽培されている {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ひまわり畑" %}}
+<div class="googlemap-if unclickable">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684470352192!6m8!1m7!1sjbXvrKql7rKvUppx5CIKlQ!2m2!1d44.99873497073138!2d28.26096536490912!3f233.57437776441674!4f-2.810643552049882!5f1.5504235819947265" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+東側に多いが西にも無いわけではないので参考程度
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}
