@@ -129,3 +129,17 @@ add_rule_link: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+## ラオス
+
+{{% tabs %}}
+{{% tab "w-bollard" %}}
+{{% notice tip %}}
+タイと似た、角ばった白黒のボラードがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682156065057!6m8!1m7!1s_GOrlJ6qlmll5JcU5-8N2Q!2m2!1d17.89566739608804!2d102.7204188911393!3f307.13405333819395!4f-26.016123257733646!5f3.2201248475094664" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
