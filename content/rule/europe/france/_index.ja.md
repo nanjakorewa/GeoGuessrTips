@@ -149,10 +149,11 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% tabs  %}}
 {{% tab "パリの区画順" %}}
 {{% notice tip %}}
-パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。（画像の出典：By <a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> added the numbers - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a>）
+パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Paris arr jms-num.gif"></a>
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Paris arr jms-num.gif"></a></p>
+<p><a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> added the numbers - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a></p>
 </div>
 
 {{% notice tip %}}

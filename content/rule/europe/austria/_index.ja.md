@@ -61,3 +61,29 @@ CC 表示-継承 3.0, 欧州連合のナンバープレート. (2022, November 1
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>ウィーン（Wien）ならば区画からさらに絞り込める</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ウィーン（Wien）の区画" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Vienna,_administrative_divisions_-_Nmbrs.svg#/media/File:Vienna,_administrative_divisions_-_Nmbrs.svg"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vienna%2C_administrative_divisions_-_Nmbrs.svg/1200px-Vienna%2C_administrative_divisions_-_Nmbrs.svg.png" alt="Vienna, administrative divisions - Nmbrs.svg"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:TUBS" title="User:TUBS">TUBS</a><a href="//commons.wikimedia.org/wiki/User_talk:TUBS" title="User talk:TUBS"></a> <a href="http://toolserver.org/~daniel/WikiSense/Gallery.php?wikifam=commons.wikimedia.org&amp;amp;img_user_text=TUBS" title="Gallery" rel="nofollow"></a> - <a href="//commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg" title="File:Austria Vienna location map.svg">Austria Vienna location map.svg</a> by <a href="//commons.wikimedia.org/wiki/User:Rosso_Robot" title="User:Rosso Robot">Rosso Robot</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14738296">Link</a></p>
+</div>
+
+{{% notice tip %}}
+標識の先頭にある数字の場所に飛んでみる。左なら23、右なら14。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684552267989!6m8!1m7!1sY5tuMECD0Pv57yzMeQ41cw!2m2!1d48.14282552288263!2d16.2614027052338!3f340.4112081192979!4f14.179402179313868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684552314584!6m8!1m7!1sqVli53Ce0j9HyzaNa7pSlQ!2m2!1d48.2184028421123!2d16.24799151902054!3f157.35703030857397!4f-0.020192066234500317!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
