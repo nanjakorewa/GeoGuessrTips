@@ -167,3 +167,22 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>フィリピンの大手銀行であるBDO Unibank・Bank of the Philippine Islands・MetrobankなどのATMの看板に町名や地域名が書いてある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "電話番号" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684613115605!6m8!1m7!1sgYhEbSkYtZglu0eGhSo_5w!2m2!1d9.651275028314991!2d124.3675177738041!3f22.109517723482682!4f15.679024661251503!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684613494892!6m8!1m7!1sGWIk8ge4a6kDWBBcqBZ12Q!2m2!1d7.448201417512792!2d125.8078175429974!3f352.9976618878443!4f27.00491909189968!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% notice tip %}}
+これ以外でも普通の店の看板に住所が書かれていることも結構多い気がする
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}
