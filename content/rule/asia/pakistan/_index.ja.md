@@ -33,7 +33,7 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684550627801!6m8!1m7!1sU-5QOP9vUg8AAAQukBRKjA!2m2!1d31.58808604166319!2d74.31002418694766!3f70.22626083101393!4f4.78963295005471!5f0.5063285044776071" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684550762160!6m8!1m7!1sWcguB6ViYvQvPTFo06TWww!2m2!1d31.59079833884302!2d74.31179939928606!3f45.96078242241242!4f-2.95278584577747!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684551320065!6m8!1m7!1sEixJovdDJncAAAQumpZFVQ!2m2!1d31.56736192644422!2d74.30767880065218!3f266.48307652830204!4f-2.714063802057808!5f1.421265950990649" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
