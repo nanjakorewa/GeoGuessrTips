@@ -80,7 +80,7 @@ Alexandra Palace Theatreはロンドンの北側にある
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>道路番号の先頭の数字で地域が分かる{{% by %}}。２桁番号は、１桁番号の路線に挟まれるエリア毎に頭の番号を統一して付番。画像出典：{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf01/7.pdf" "web" "高速道路ナンバリング検討委員会" %}}</li>
-        <li>菜種の生産は南東を中心に多い{{% goto "../../../nature/europe/" "ヨーロッパの農業分布" %}}</li>
+        <li class="no-evidence">菜種の生産は南東を中心に多い{{% goto "../../../nature/europe/" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
 
@@ -94,5 +94,8 @@ Alexandra Palace Theatreはロンドンの北側にある
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684569216795!6m8!1m7!1sw8Awq84Ne-0ufWNVXCf0Cg!2m2!1d52.66179235114208!2d0.3351630211269436!3f332.6578965340652!4f-4.955434271809068!5f2.9119385570937717" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% notice tip %}}
+道端に黄色い花が生えていたら南の方に行ってみる？
+{{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
