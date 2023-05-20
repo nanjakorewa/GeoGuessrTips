@@ -28,6 +28,7 @@ sc: [
         <li>数字が書かれた標識が道路に対して<span class="quiz">平行</span></li>
         <li>ボラードを真上から見ると<span class="quiz">）の形</span></li>
         <li>リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span></li>
+        <li class="no-evidence">土の色で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}
     </ul>
     {{% rd europe latvia small %}}
     <div class="sign-area sign-area-clickable licence-area">
