@@ -20,18 +20,36 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pk</span></li>
+        <li><span class="quiz">ウルドゥー</span>語（اردو）が国語であり英語が公用語だが他の言語の話者も多い</li>
         <li><span class="quiz">ラホール</span>周辺の施設内にストリートビューが多い</li>
-        <li>ウルドゥー語（اردو）が国語であり英語が公用語だが他の言語の話者も多い</li>
-        <li>周りの人の服装・ステップ気候・施設内・ウルドゥー語などの言語が散見される場合はパキスタンかも</li>
+        <li>地域ごとにナンバープレートの色が違うらしくラホールのあるパンジャーブ州はナンバープレートの左が<span class="quiz">緑</span>色</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
+ラホール周辺の施設の中が多い
 {{% /notice %}}
 <div class="googlemap-if">
-？
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684550627801!6m8!1m7!1sU-5QOP9vUg8AAAQukBRKjA!2m2!1d31.58808604166319!2d74.31002418694766!3f70.22626083101393!4f4.78963295005471!5f0.5063285044776071" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684550762160!6m8!1m7!1sWcguB6ViYvQvPTFo06TWww!2m2!1d31.59079833884302!2d74.31179939928606!3f45.96078242241242!4f-2.95278584577747!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+地域ごとにナンバープレートの色が違うらしくラホールのあるパンジャーブ州はナンバープレートの左が緑色
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684550958377!6m8!1m7!1si6ei0FutVdBkWRIY2CJQCQ!2m2!1d31.59070531980286!2d74.31181661492661!3f204.82231478045858!4f-11.93349372259668!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684551025241!6m8!1m7!1sducxiNfZglH9whwIpDq8uQ!2m2!1d31.59057091096063!2d74.31184452979!3f114.36213992211827!4f-8.854489095957703!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% lb 50 %}}
+![](2023-05-20-11-52-41.png)
+
+By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=88001443">Wikimedia Commons(Link)</a>
+{{% /lb %}}
+
 {{% /tab %}}
 {{% /tabs %}}
