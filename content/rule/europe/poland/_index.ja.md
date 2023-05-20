@@ -34,21 +34,11 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。ルーマニアはよくあるタイプで線画5本ある。
+ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682772473689!6m8!1m7!1s9xByanNehhydKw-ku1ER3A!2m2!1d50.27154241645962!2d19.01936023777959!3f151.24262167412385!4f4.860677637387511!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-{{% notice tip %}}
-電柱の形が細く一番下は穴が<span class="quiz">空いていない</span>。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681293027670!6m8!1m7!1sGkslot7rWFpS3_JT4o2sxw!2m2!1d50.60404061914759!2d16.55451303948736!3f269.6979917414665!4f-11.211483955743546!5f2.9658942845817897" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681293509446!6m8!1m7!1sbMwMJ92tQ_DWt7jguOy-RQ!2m2!1d52.72908873889056!2d23.58089105350904!3f199.49395263483189!4f-15.783121652007296!5f2.7707900088579467" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Child Crossing sign?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
