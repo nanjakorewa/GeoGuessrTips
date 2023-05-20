@@ -17,6 +17,10 @@ add_rule_link: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でラテンアメリカ見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/aBkR9c2J7c">pic.twitter.com/aBkR9c2J7c</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1636943294969307137?ref_src=twsrc%5Etfw">March 18, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 ## ブラジル
 
 {{% tabs  %}}

@@ -76,12 +76,12 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681528750357!6m8!1m7!1s_8wKdM8bkRkvHSQtSpGGRA!2m2!1d40.05964667647117!2d-3.903384302186257!3f81.59363100034489!4f-9.228176314298551!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>電話番号の9XXの数字で地域を絞り込める</li>
         <li>環状道路と高速道路には都市を識別する文字が先頭についていることが多い
             <ul>
                 <li>例）BIならばビルバオ付近</li>
@@ -90,3 +90,12 @@ sc: [
         <li>スペイン領カナリア諸島が出る。道路番号の頭文字は島の名前になっている。{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}</li>
     </ul>
 </div>
+
+
+{{% tabs  %}}
+{{% tab "電話番号" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg#/media/File:Prefijos_telefónicos_en_España.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg/1200px-Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg.png" alt="Prefijos telefónicos en España.svg"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Albertocsc&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Albertocsc (page does not exist)">Albertocsc</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24333469">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

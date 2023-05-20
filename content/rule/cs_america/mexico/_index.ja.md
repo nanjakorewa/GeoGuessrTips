@@ -99,7 +99,7 @@ sc: [
 </div>
 
 <div class="googlemap-if">
-{{% twitter "1636192764026310656" %}}
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚で国１こ覚えたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <br>その③　メキシコ <a href="https://t.co/KeTRiY67Lj">pic.twitter.com/KeTRiY67Lj</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1636192764026310656?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="main-desciption city-description">

@@ -60,6 +60,9 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684549238949!6m8!1m7!1s4W9cFaQMc_ek9GGig9Phcw!2m2!1d58.35948426936434!2d24.57032239016301!3f166.07829051421828!4f6.553574384305179!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684549427861!6m8!1m7!1sZQzayB7wC0UbW2V1waLYSg!2m2!1d58.38554624317938!2d26.7243602941676!3f49.48841726999512!4f0.30752187369996875!5f3.0892742262860935" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
