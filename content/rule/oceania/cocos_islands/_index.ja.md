@@ -11,6 +11,7 @@ flag: "CC.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+is_has_many_trekker: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
@@ -23,7 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cc</span></li>
-        <li><span class="quiz">ココナッツ</span>の木がどこでも栽培されており道端に実か殻のようなものも落ちている</li>
+        <li><span class="quiz">ココヤシ</span>の木がどこでも栽培されており道端に実か殻のようなものも落ちている</li>
         <li>Google Carが特徴的で右前になにか付いている</li>
     </ul>
 </div>
@@ -32,7 +33,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">ココナッツ</span>の木がどこでも栽培されており道端に実か殻のようなものも落ちていることも多い
+<span class="quiz">ココヤシ</span>の木がどこでも栽培されており道端にココナッツの実か殻のようなものも落ちていることも多い
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683433598868!6m8!1m7!1sycnQFzQdbcFsWllGLAuFiA!2m2!1d-12.11766154167351!2d96.89932052224016!3f170.26168778733225!4f8.718708329610706!5f1.536207576461131" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
