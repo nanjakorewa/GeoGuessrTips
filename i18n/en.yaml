@@ -66,6 +66,8 @@
   translation: ""
 - id: has_unique_googlecar
   translation: distinctive GoogleCar
+- id: has_trekker
+  translation: many trekker
 - id: has_unique_googlecar
   translation: References
 - id: findable-road-sign

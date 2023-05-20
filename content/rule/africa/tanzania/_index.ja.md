@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "TZ.svg"
+is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
 sc_title: "関連ページ"

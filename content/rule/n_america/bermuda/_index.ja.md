@@ -12,6 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+is_has_many_trekker: true
 ---
 
 <div class="main-desciption country-description">

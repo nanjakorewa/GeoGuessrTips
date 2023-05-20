@@ -68,6 +68,8 @@
   translation: ""
 - id: has_unique_googlecar
   translation: 特徴的なGoogleCar
+- id: has_trekker
+  translation: トレッカーが多い
 - id: bib
   translation: 参考文献
 - id: findable-road-sign

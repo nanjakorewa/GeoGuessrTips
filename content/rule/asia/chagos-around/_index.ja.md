@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "CIFLAG.svg"
 no_detaile_info: true
+is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
 ---
