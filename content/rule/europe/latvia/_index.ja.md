@@ -22,6 +22,12 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lv</span></li>
+        <li>横断歩道は<span class="quiz">５</span>本</li>
+        <li>バスの窓が<span class="quiz">５</span>つ</li>
+        <li>標識に縁が<span class="quiz">ある</span></li>
+        <li>数字が書かれた標識が道路に対して<span class="quiz">平行</span></li>
+        <li>ボラードを真上から見ると<span class="quiz">）の形</span></li>
+        <li>リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span></li>
     </ul>
     {{% rd europe latvia small %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -33,27 +39,27 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱が丸いものが多い、また電柱の上の部分の形が他と異なる。
+電柱が丸いものが多い、また電柱の上の部分にフックみたいな形のものがついている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682139088680!6m8!1m7!1syCfEh53FuZQYpvPLLAM-Ig!2m2!1d56.17473944650655!2d27.20834289119661!3f356.9160279563701!4f21.77269451337706!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682139088680!6m8!1m7!1syCfEh53FuZQYpvPLLAM-Ig!2m2!1d56.17473944650655!2d27.20834289119661!3f356.9160279563701!4f21.77269451337706!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684548569834!6m8!1m7!1sGVYvMAUOXswk7Y2KshL-3g!2m2!1d57.67250500176147!2d22.32489573780233!3f326.8197589765102!4f24.038563745982486!5f3.3139613063297606" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-バルト三国の中ではラトビアのみ横断歩道の線の数が5本。バスの窓も5個。そして道路の横の標識の向きが道路に平行。
+バルト三国の中ではラトビアのみ横断歩道の線の数が<span class="quiz">５</span>本でバスの窓も<span class="quiz">５</span>個。そして道路の横の標識の向きが道路に<span class="quiz">平行</span>。また、リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682139140189!6m8!1m7!1sQ44pXnCdMKfoQ6mYzVg-LQ!2m2!1d57.16053116935004!2d25.66467784623676!3f317.0552855598667!4f2.3242360614535613!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682139984879!6m8!1m7!1sIoDGkAcx8rfu6fTqmaqOPw!2m2!1d56.88005581365701!2d23.94593725380232!3f359.10728356432753!4f-2.423590490463141!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682139835613!6m8!1m7!1sRhVGCShQ3Nh9Myo-WYpXOA!2m2!1d56.87767937065944!2d23.95010806710927!3f51.45830234076903!4f-4.1330615800655295!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682139835613!6m8!1m7!1sRhVGCShQ3Nh9Myo-WYpXOA!2m2!1d56.87767937065944!2d23.95010806710927!3f51.45830234076903!4f-4.1330615800655295!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684548682141!6m8!1m7!1sE2olbUf_MX8Dtd80USAUuw!2m2!1d57.2426324834745!2d22.58205771468572!3f47.6898017674211!4f-1.0838543320001008!5f3.293292491503678" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
 ボラードは文字が書いてあることもある。上から見ると『）』の形をしている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682138867702!6m8!1m7!1sCjySEHAQVtlm7kQF0NZMXA!2m2!1d57.40380031783754!2d21.67398424510445!3f196.28940141338003!4f-28.927596834406074!5f3.325193203789971" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682139184799!6m8!1m7!1sEDwX7_d80I6fYZPEGEwr4Q!2m2!1d57.1598411500236!2d25.66467565188463!3f29.479555750198628!4f-21.68328790100243!5f3.164365768781499" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682138867702!6m8!1m7!1sCjySEHAQVtlm7kQF0NZMXA!2m2!1d57.40380031783754!2d21.67398424510445!3f196.28940141338003!4f-28.927596834406074!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682139184799!6m8!1m7!1sEDwX7_d80I6fYZPEGEwr4Q!2m2!1d57.1598411500236!2d25.66467565188463!3f29.479555750198628!4f-21.68328790100243!5f3.164365768781499" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "土の色" %}}
