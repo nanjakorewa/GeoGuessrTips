@@ -42,7 +42,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684548910900!6m8!1m7!1sbf96ov07ReZpD0SKEheWeA!2m2!1d59.37684172767825!2d27.89843847287929!3f166.20028344309202!4f-22.312461237142173!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% tab "w-etf" %}}
 {{% notice tip %}}
 電柱の形が特徴的。
 {{% /notice %}}
@@ -52,7 +51,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684549789125!6m8!1m7!1sUK09eoFtGbyzqxhEKnzbMA!2m2!1d58.82859579738559!2d22.77281356132972!3f222.06544992607115!4f35.6061724790744!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% tab "w-etf" %}}
 {{% notice tip %}}
 横断歩道は<span class="quiz">３</span>本で標識に縁が<span class="quiz">ない</span>。斜めから見ると外側の厚みが縁にも見えるので注意する。
 {{% /notice %}}
