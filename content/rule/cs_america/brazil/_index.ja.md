@@ -65,6 +65,12 @@ sc: [
 By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
 {{% /lb %}}
 {{% /tab %}}
+{{% tab "攻略動画" %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kges-ekKMI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
 {{% tab "電柱" %}}
 
 {{% notice tip %}}
