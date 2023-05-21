@@ -45,6 +45,15 @@ add_rule_link: true
 ## カナダ
 
 {{% tabs  %}}
+{{% tab "細い赤色" %}}
+{{% notice tip %}}
+細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682765326307!6m8!1m7!1s7gnwFVatHfMuJ1jFG2mgMw!2m2!1d48.39571830923472!2d-71.25217563290403!3f230.9901753934939!4f-6.749220089069581!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "白緑" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679674626454!6m8!1m7!1sKsvAlGAdlUNDG2K2MjmOwA!2m2!1d45.54181792056146!2d-78.6961612853861!3f140.55180917331873!4f-18.116329786836545!5f3.2478275922819355" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
