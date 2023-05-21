@@ -112,9 +112,10 @@ add_rule_link: true
 ## ブータン
 
 {{% tabs %}}
-{{% tab "白黒" %}}
+{{% tab "白" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681069277166!6m8!1m7!1sbs7Os9vHZrMwMSyen7Nipg!2m2!1d27.310067392373!2d89.54804884521509!3f267.0384741855812!4f-16.584560328335442!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684660333941!6m8!1m7!1stFckHbcZ8ppW-swAPr2Ddg!2m2!1d27.31034596886908!2d89.54814220348217!3f222.44783226346777!4f-9.5571271965635!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684660383981!6m8!1m7!1slMlmyuPeZjzgtK7amorKnQ!2m2!1d27.30958155983734!2d89.54814911356874!3f267.32755121290234!4f-20.194886493981727!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
