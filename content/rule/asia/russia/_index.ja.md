@@ -283,3 +283,17 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "解説動画" %}}
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lqkY8gRcWKU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
