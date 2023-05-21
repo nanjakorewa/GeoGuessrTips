@@ -14,7 +14,30 @@ add_rule_link: true
 
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>　
+
+{{% tabs  %}}
+{{% tab "エストニア" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684548865123!6m8!1m7!1ss2eRa4sqGznaQedLsvXiMQ!2m2!1d59.37685549321069!2d27.89913102016457!3f105.52049170390629!4f-7.112191365266568!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684548910900!6m8!1m7!1sbf96ov07ReZpD0SKEheWeA!2m2!1d59.37684172767825!2d27.89843847287929!3f166.20028344309202!4f-22.312461237142173!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "リトアニア" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684548111398!6m8!1m7!1sX2--3B2x0ypd6wvHxwlAEw!2m2!1d55.07419832374426!2d23.88806601016458!3f269.9736975604096!4f-11.313811105808895!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "ラトビア" %}}
+{{% notice tip %}}
+上から見ると『）』の形をしている。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682138867702!6m8!1m7!1sCjySEHAQVtlm7kQF0NZMXA!2m2!1d57.40380031783754!2d21.67398424510445!3f196.28940141338003!4f-28.927596834406074!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682139184799!6m8!1m7!1sEDwX7_d80I6fYZPEGEwr4Q!2m2!1d57.1598411500236!2d25.66467565188463!3f29.479555750198628!4f-21.68328790100243!5f3.164365768781499" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 ## アイスランド
 
