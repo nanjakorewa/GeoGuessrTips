@@ -22,6 +22,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>道の片側・両側に低い<span class="quiz">石壁</span>があることが多い</li>
+        <li><span class="quiz">カタルーニャ</span>語とカスティーリャ語の二言語が公用語となっている</li>
     </ul>
 </div>
 
