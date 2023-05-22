@@ -25,11 +25,12 @@ maps: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ph</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
-        <li>英語とフィリピン語が公用語</li>
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
+        <li>英語とフィリピン語が公用語</li>
+        <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い</li>
         <li>フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある</li>
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
-        <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用されバスのような公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
+        <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>が交通手段として使用され公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
         <li class="no-evidence">道路がコンクリートでできているのはフィリピン・タイ・コロンビア・ペルー・エクアドルに多い</li>
         <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカ</li>
         <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
