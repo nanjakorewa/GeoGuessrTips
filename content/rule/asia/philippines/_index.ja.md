@@ -65,7 +65,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 
 
 {{% notice tip %}}
-フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある。
+フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある{{% ref "https://www.jollibee.com.ph/investors/" "Jollibee Foods Corporation Group of Companies" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
