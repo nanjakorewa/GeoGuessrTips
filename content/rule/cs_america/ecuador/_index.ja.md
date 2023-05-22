@@ -68,6 +68,7 @@ is_has_distinctive_bollard: true
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ズームすると県境に県名が表示される</li>
+        <li>アブラヤシのプランテーションがあるのは南の方に限られる</li>
         <li>ガラパゴス諸島が出ることがある・亀が山の上に居たらガラパゴス{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}</li>
     </ul>
 </div>
@@ -79,6 +80,18 @@ is_has_distinctive_bollard: true
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-04-30-11-08-50.png" />
+</div>
+{{% /tab %}}
+{{% tab "アブラヤシ" %}}
+{{% notice tip %}}
+赤い丸の箇所にはパームの木のプランテーションがあるかも。特にコロンビア国境付近の道は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-23-04-26-04.png" width="90%">
+</div>
+
+<div class="googlemap-if unclickable">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684783638204!6m8!1m7!1sDA2RicV2JwheAUEG73JZZg!2m2!1d1.256459675985798!2d-78.74124942090808!3f150.86690501682244!4f-0.1798337100882037!5f2.748077413619822" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
