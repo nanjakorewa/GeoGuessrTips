@@ -93,3 +93,19 @@ POCZTA（ポスト、赤い）
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>ポーランド国立銀行（Narodowy Bank Polski; NBP）などの看板に町名が書いてある</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "銀行の看板" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684771455460!6m8!1m7!1seNPF9moNK_wzQ3K4aO-_2Q!2m2!1d53.1238343942832!2d18.00483358680646!3f188.31443418332057!4f4.297202766436001!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684771474132!6m8!1m7!1szMBZyBcrNmg55ccg0J1Giw!2m2!1d53.42884941284893!2d14.55893363530574!3f40.929378529452876!4f-0.5034453860421166!5f3.304918830400852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
