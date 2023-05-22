@@ -24,8 +24,8 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.je</span></li>
         <li>ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}</li>
-        <li>そこまで都会ではないのにATMではない大手銀行の建物がある</li>
-        <li>Gen2であり画質が悪い。白い家が多くて画質が良いならばアイルランドも検討する。</li>
+        <li>そこまで都会ではないのに大手銀行の建物がある</li>
+        <li>画質が悪い（Gen2）。白い家が多くて画質が良いならばアイルランドも検討する。</li>
     </ul>
 </div>
 
