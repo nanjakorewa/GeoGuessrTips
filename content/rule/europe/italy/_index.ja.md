@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.it</span></li>
+        <li>上が黒い▼の形のボラードがある</li>
         <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
         <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
@@ -33,6 +34,17 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+
+{{% notice tip %}}
+上が黒い▼の形のボラード
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684781847387!6m8!1m7!1sg2a_sg1xtv-pZml_SnE_3g!2m2!1d42.38315303134821!2d11.95336231066084!3f285.1041020936369!4f-18.86543346022023!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684781887459!6m8!1m7!1s49jdsi_z0BbIXHlL2ELTzQ!2m2!1d42.38323591985135!2d11.95323039171786!3f153.31535718862642!4f-11.278665653244673!5f3.0385414622584728" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">両サイドに青色</span>だがこれだけを見てイタリア確定とはならない。
 {{% /notice %}}
@@ -109,6 +121,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Veneziaには船にのって移動するエリアがある</li>
+        <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}</li>
     </ul>
 </div>
 
@@ -119,6 +132,14 @@ Veneziaには船にのって移動するエリアがある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680007607808!6m8!1m7!1sTgiMp5dyfyTyjqWYiFsUKw!2m2!1d45.4353144254022!2d12.33380958037088!3f138.24278233222202!4f13.252121456570137!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Sardegna" %}}
+{{% notice tip %}}
+サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがまだ自分がどういうものか理解していない。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684782046965!6m8!1m7!1sP4IFKQU5BK6CS_BFMSzkhQ!2m2!1d39.43199430857938!2d9.018000990198715!3f351.49282198311755!4f-27.57935045494488!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

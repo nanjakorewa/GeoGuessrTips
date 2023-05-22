@@ -870,3 +870,7 @@ div.licence-area a {
   color: #444;
   font-size: 0.8em !important;
 }
+
+i.fa-map-signs {
+  margin-bottom: 0;
+}
