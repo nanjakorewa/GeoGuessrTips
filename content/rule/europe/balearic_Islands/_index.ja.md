@@ -8,8 +8,9 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "BLLS.svg"
-jetro_detail: true
-jogmec_detail: true
+no_detaile_info: true
+jetro_detail: false
+dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../spain/", "スペイン本土"],
