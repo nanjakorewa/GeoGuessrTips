@@ -23,7 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.gi</span></li>
-        <li><span class="quiz">右</span>側通行</li>
+        <li><span class="quiz">右</span>側通行だがイギリスは<span class="quiz">左</span>側通行</li>
         <li>後ろのナンバープレートは前が白で後ろが<span class="quiz">黄</span></li>
         <li>白い岩肌が家の近くまで迫っている</li>
         <li>Google Carのアンテナが<span class="quiz">白</span>い</li>
