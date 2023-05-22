@@ -16,7 +16,7 @@ sc: [
     ["../../africa/canary_islands/", "カナリア諸島"],
     ["../italy/", "イタリア"],
     ["../portugal/", "ポルトガル"],
-    ["../balearic_islands/", "バレアレス諸島"]
+    ["../balearic-islands/", "バレアレス諸島"]
     ]
 ---
 
