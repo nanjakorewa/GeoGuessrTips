@@ -183,7 +183,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>フィリピンの大手銀行であるBDO Unibank・Bank of the Philippine Islands・MetrobankなどのATMの看板に町名や地域名が書いてある</li>
+        <li>フィリピンの大手銀行であるBDO Unibank・Bank of the Philippine Islands・MetrobankなどのATMの看板にはいつも町名や地域名が書いてある。</li>
     </ul>
 </div>
 
