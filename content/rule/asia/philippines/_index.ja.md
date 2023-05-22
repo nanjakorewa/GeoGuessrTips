@@ -27,6 +27,7 @@ maps: [
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>英語とフィリピン語が公用語</li>
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
+        <li>フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある</li>
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
         <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用されバスのような公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
         <li class="no-evidence">道路がコンクリートでできているのはフィリピン・タイ・コロンビア・ペルー・エクアドルに多い</li>
@@ -62,6 +63,15 @@ maps: [
 By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Link(Wikimedia commons)</a>
 {{% /lb %}}
 
+
+{{% notice tip %}}
+フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/25379667@N07/2420842438/in/photolist-4FVs7J-8xTPU-7LDTwQ-4Y9PsR-2K3bgW-7wvKqK-J4LPh-5fj9FF-nzeNcJ-4FxNTL-4evQ3q-4FtAiM-4FxLF5-3jJtpK-4FtBT2-4FxKR3-4FtwFc-4FxMyd-7EFDPm-4FtCpK-4erR9e-4Ftv3k-4FtvD4-7EHAdP-7EHD9c-4FtzPg-7EMqJ9-7EHBAF-4FtyaM-7EMv4m-5fj3Me-7EBNrM-7EFBK1-pdoCTX-4FxJbA-7EFjsQ-rntv9G-Ak1CWd-qHfp8v-K9aiN1-e49k8g-8pFphF-7GUsZF-c3QKuW-6uBt3d-otxmDw-5ZSAe5-9ctXuD-M7cc5-pyL9md" title="Jollibee Thank You Sign"><img src="https://live.staticflickr.com/3228/2420842438_708606ea34.jpg" width="500" height="375" alt="Jollibee Thank You Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
@@ -91,6 +101,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682995096232!6m8!1m7!1sHHe2LKmE_X5YxA3OyzVPeQ!2m2!1d14.56206716258762!2d121.0254233316108!3f102.31921952386864!4f-12.20461197764817!5f3.0970576775658447" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682995146362!6m8!1m7!1sjijVgDOnCrPSf0oUVSuAgg!2m2!1d10.31578039693279!2d123.9137359406412!3f9.69339182213827!4f-5.4011174881681825!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 
 {{% /tab %}}
 {{% tab "w-commercial" %}}
