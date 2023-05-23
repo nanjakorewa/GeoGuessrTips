@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-⚠️の中に人が描かれていたらイギリスかも。アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする。
+アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681292503262!6m8!1m7!1srD-0oapr2LZHKS2BiW4Zww!2m2!1d53.29374801008991!2d-6.275638485167696!3f80.36284646319791!4f-14.417894715466488!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

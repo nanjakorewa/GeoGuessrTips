@@ -47,10 +47,10 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 
 
 {{% notice tip %}}
-Google Carが特徴的
+Google Carが特徴的。周りを見渡すと平らな景色がほとんどで低木や草がまばらに広がっている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682057668256!6m8!1m7!1sEYfexpG8PHVzjUmurMBtYQ!2m2!1d-21.3137382280993!2d26.18020926861166!3f272.4921094997167!4f-38.40092685149466!5f0.5560172255871597" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684805452552!6m8!1m7!1sEYfexpG8PHVzjUmurMBtYQ!2m2!1d-21.3137382280993!2d26.18020926861166!3f267.8107859325802!4f-17.97470861705574!5f0.4000000000000002" width="580" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
