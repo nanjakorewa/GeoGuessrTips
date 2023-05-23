@@ -19,7 +19,7 @@ dont_show_usda: true
     <ul class="rule-list">
         <li>ドメインである<span class="quiz">.io</span>はこの周辺に割り当てられていたが現在は地域に関係なく一般的に使用される</li>
         <li>チャゴス諸島だけでも60以上の島が存在{{% by "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6" "wiki" "チャゴス諸島" %}}しており遠くに複数の島が複数見えることが多い</li>
-        <li class="no-evidence">黄緑色の端か丸く反り返った葉っぱの低木が多くの島で生えている</li>
+        <li class="no-evidence">黄緑色の端が丸く反り返った葉っぱの低木が多くの島で生えている</li>
     </ul>
 </div>
 
@@ -27,7 +27,7 @@ dont_show_usda: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄緑色の端か丸く反り返った葉っぱの低木が多くの島で生えている気がする。島によって景色が異なるが海岸に出れば遠くに島が見えることが多い。ほとんどの島は砂浜が綺麗な白色をしている。
+黄緑色の端が丸く反り返った葉っぱの低木が多くの島で生えている気がする。島によって景色が異なるが海岸に出れば遠くに島が見えることが多い。ほとんどの島は砂浜が綺麗な白色をしている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684827392557!6m8!1m7!1sy8RlAYyXvsBm8tV4qN_dmQ!2m2!1d-5.423322242950213!2d71.82924608825161!3f134.55018584499248!4f-12.90580202514046!5f3.323443999519975" width="200" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
