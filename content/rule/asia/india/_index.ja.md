@@ -242,8 +242,7 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li class="no-evidence">オート・リクシャー(auto-rickshaw)の色が上下ともに黄色の時は南東（Telanana・Tamil Nadu）に行ってみる</li>
-        <li class="no-evidence">真っ暗な場所がある</li>
+        <li class="no-evidence">リクシャー（rickshaw）の色が上下ともに黄色の時は南東（Telanana・Tamil Nadu）に行ってみる</li>
     </ul>
 </div>
 
