@@ -46,3 +46,40 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>農作物の生産は北部に多い
+            <ul>
+                <li>データ提供元：<a href="https://ipad.fas.usda.gov/rssiws/al/europe_cropprod.aspx">Europe - Crop Production Maps(U.S. Department of Agriculture)</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ひまわり" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-23-12-58-45.png" width="50%"/>
+</div>
+
+{{% notice tip %}}
+90%が北部に集中している
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684814260255!6m8!1m7!1sdCRRSekGYnJaxb9EO9y16Q!2m2!1d44.80272179830468!2d21.10631427113424!3f350.50688575763337!4f-3.942378894542756!5f3.165673307578776" width="400" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-23-12-55-04.png" width="50%"/>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684814125370!6m8!1m7!1sLUHQtDAW8O4qYtTEqsPcPw!2m2!1d45.76833028335478!2d19.19222245694041!3f183.39320962680003!4f-6.913770601882405!5f1.6846646614112646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684814132818!6m8!1m7!1sdjmwDMwJXQMraELdW6rsjg!2m2!1d45.78952535461075!2d19.97861671609926!3f188.596094617829!4f-2.7633637452743613!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
