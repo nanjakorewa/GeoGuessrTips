@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.me</span></li>
+        <li>公用語はモンテネグロ語（Црногорски језик）でキリル文字を使用する</li>
         <li>ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span></li>
         <li><span class="quiz">黄</span>色のガードレールが山中に多くありその多くがかなり錆びている</li>
         <li>画像に切れ目があることが多い</li>

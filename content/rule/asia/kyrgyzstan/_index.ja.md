@@ -1,5 +1,5 @@
 ---
-title: "キルギスタン"
+title: "キルギス共和国"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.kg</span></li>
+        <li>公用語はキルギス語とロシア語でキリル文字を使用する</li>
         <li>ナンバープレートに<span class="quiz">赤色</span>のラインが入っている</li>
     </ul>
 </div>

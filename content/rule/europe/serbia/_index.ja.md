@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.rs</span></li>
+        <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
         <li class="important-rule">反射板が偏った薄いボラード</li>
     </ul>
     {{% rd europe serbia verysmall %}}
@@ -52,6 +53,7 @@ sc: [
     <ul class="rule-list">
         <li>農作物の生産は北部に多い
             <ul>
+                <li>ひまわりの畑があるのはほとんど北部</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/rssiws/al/europe_cropprod.aspx">Europe - Crop Production Maps(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>

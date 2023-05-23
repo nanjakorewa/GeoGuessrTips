@@ -23,6 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.al</span></li>
+        <li>公用語はアルバニア語（Shqip）</li>
         <li>カメラに線が入っている</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
         <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアやモンテネグロには少ない。</li>

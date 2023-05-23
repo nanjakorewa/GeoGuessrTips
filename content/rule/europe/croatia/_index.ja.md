@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hr</span></li>
+        <li>公用語はクロアチア語（hrvatski）</li>
         <li><span class="quiz">青い</span>消火栓 {{% by %}}を見かけるかも</li>
         <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・ポーランド・セルビア・モンテネグロ・トルコのどれか</li>
         <li>「<span class="quiz">Ð</span>」の文字があるかも{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
