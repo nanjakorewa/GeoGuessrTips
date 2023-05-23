@@ -239,3 +239,26 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li class="no-evidence">オート・リクシャー(auto-rickshaw)の色が上下ともに黄色の時は南東（Telanana・Tamil Nadu）に行ってみる</li>
+        <li class="no-evidence">真っ暗な場所がある</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "上下が黄色" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "上が黄色・下が黒色" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684852502687!6m8!1m7!1sSf8IBUZan8UhvlTzXwMA-w!2m2!1d19.09539450557661!2d72.88765818145981!3f240.59013499580814!4f-10.012702144705429!5f2.478965690316117" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% notice tip %}}
+ムンバイなどの西側（未確認）？
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}
