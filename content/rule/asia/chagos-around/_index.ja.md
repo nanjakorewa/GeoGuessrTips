@@ -37,7 +37,7 @@ dont_show_usda: true
 
 
 {{% notice tip %}}
-太陽に照らされる人と、それを見つめる鳥がいる孤島もある
+太陽に照らされる人と、それを見つめる鳥
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684828100537!6m8!1m7!1s_mAFTYEEyFSxw0vWGwA0rg!2m2!1d-5.427784761980635!2d71.88081937822534!3f80.48614014107085!4f20.034012209677343!5f1.0624369115918713" width="550" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
