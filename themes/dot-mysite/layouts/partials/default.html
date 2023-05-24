@@ -129,7 +129,7 @@
         </div>
           {{ else }}
           <div class="bg-light p-4">
-              {{ if eq .RelPermalink "/rule/" }}
+              {{ if in .Permalink "/rule/" }}
               <ul class="flag-list">
               {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
               </ul>
