@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 is_has_distinctive_googlecar: true
+sc_title: "間違えやすいページ"
+sc_icon: rel
+sc: [
+    ["../south-africa/", "南アフリカ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -19,8 +24,8 @@ is_has_distinctive_googlecar: true
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
-        <li>後ろのナンバープレートが<span class="quiz">細い黄</span>色のプレートはアフリカではボリビアの可能性が高い</li>
-        <li>公共交通機関などは後ろのナンバープレートが<span class="quiz">青</span>色</li>
+        <li>後ろのナンバープレートが<span class="quiz">細い黄</span>色</li>
+        <li>公共交通機関などは後ろのナンバープレートが<span class="quiz">青</span>色。あまりにもこの色が多いなら{{% goto "../senegal/" "セネガル" %}}かも。</li>
         <li>標識やガードレールが<span class="quiz">黄色と黒</span>色のストライプのものが多い</li>
         <li>道路はざらざらした表面で路側帯は<span class="quiz">オレンジ</span>色だが路側帯は無い場所もある</li>
         <li class="no-evidence">国土の70%がカラハリ砂漠と重なっていて国土全体が平らだ</li>

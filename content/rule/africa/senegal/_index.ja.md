@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sn</span></li>
         <li>言語は<span class="quiz">フランス語、ウォロフ語</span></li>
-        <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色</li>
+        <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色。後ろが黄色い場合は{{% goto "../botswana/" "ボツワナ" %}}かも。</li>
         <li>空に<span class="quiz">ひびのような線が入っている</span>ことが多い</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
         <li>フランスと同じく通り名に「RUE」と書かれている</li>
