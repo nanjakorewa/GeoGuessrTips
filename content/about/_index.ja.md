@@ -13,7 +13,7 @@ weight: 1001
 間違っている点やコメントあればコメント欄かgithubのissueにて指摘していただけると幸いです。
 出典のページもコメントに付けて頂けると嬉しいです（以下のような形で出典として記載します）。あと、ジオゲッサー関係ないこともメモするかもしれません。
 
-例）こんにちは{{% by "your-twitch-username" "twitch" %}}。こんばんは{{% by "geotips" %}}。
+例）こんにちは{{% by "nanjakorewa" "twitch" %}}。こんばんは{{% by "geotips" %}}。
 
 各画像の `CC-BY-` 表記については『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』を参照してください。`GFDL`は『<a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>』のことを指しています。
 パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。USDA.gov上の画像は<a href="https://www.usda.gov/policies-and-links">『Policies and Links』</a>に基づいてパブリックドメインの情報として出典元のリンクを掲載して使用しています。
