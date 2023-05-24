@@ -25,6 +25,7 @@ sc: [
         <li><span class="quiz">ラホール</span>周辺の施設内にストリートビューが多い</li>
         <li>地域ごとにナンバープレートの色が違うらしくラホールのあるパンジャーブ州はナンバープレートの左が<span class="quiz">緑</span>色</li>
     </ul>
+    {{% rd asia pakistan verysmall %}}
 </div>
 
 {{% tabs  %}}
