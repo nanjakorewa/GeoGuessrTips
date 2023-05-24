@@ -129,9 +129,15 @@
         </div>
           {{ else }}
           <div class="bg-light p-4">
-            <ul class="page-list">
+              {{ if eq .RelPermalink "/rule/" }}
+              <ul class="flag-list">
+              {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
+              </ul>
+              {{ else }}
+              <ul class="page-list">
               {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
-            </ul>
+              </ul>
+              {{ end }}
           </div>
           {{ end }}
           <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on {{ .Lastmod.Format "02 Jan 2006" }}</p>
@@ -289,6 +295,38 @@
         {{ if and .Params.hidden (not $.showhidden) }}
         {{else}}
           {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+        {{end}}
+      {{end}}
+    </ul>
+  {{ end }}
+</li>
+{{ end }}
+{{ end }}
+
+<!-- templates -->
+{{ define "section-tree-nav2" }}
+{{ $showvisitedlinks := .showvisitedlinks }}
+{{ $currentNode := .currentnode }}
+{{with .sect}}
+{{safeHTML .Params.head}}
+{{ $fileUniqueID := "" }}
+{{ with .File }}{{ $fileUniqueID = .UniqueID }}{{ end }}
+{{ $currentNodeFileUniqueID := "" }}
+{{ with $currentNode.File }}{{ $currentNodeFileUniqueID = .UniqueID }}{{ end }}
+<li data-nav-id="{{.Permalink}}" title="{{.Title}}">
+  {{ $flag_path := print "flags/" .Params.flag }}
+  <a href="{{.Permalink}}" class="flag-link">
+    {{ if .Params.flag }}<img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" class="flag-img-link" oncontextmenu="return false;"/>{{ end }}<br/>
+    {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}<br/>
+    {{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}
+  </a>
+  {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
+  {{ if ne $numberOfPages 0 }}
+    <ul class="flag-list">
+      {{ range .Pages.ByWeight }}
+        {{ if and .Params.hidden (not $.showhidden) }}
+        {{else}}
+          {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
         {{end}}
       {{end}}
     </ul>

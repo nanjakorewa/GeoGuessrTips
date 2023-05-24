@@ -200,6 +200,35 @@ div.googlemap-if div.description-youtube {
   width: 590px;
 }
 
+ul.flag-list {
+  background:rgba(55, 110, 120, 0.15);
+  width: 100%;
+  display: flex;
+  flex-wrap        : wrap;
+  justify-content: center;
+  padding: 0;
+}
+
+ul.flag-list li {
+  float: left;
+  list-style: none;
+  padding: 10px;
+  text-align: center;
+  font-size: 1.1em;
+  font-weight: bold;
+}
+
+a.flag-link {
+  max-width: 100px;
+  height: 120px;
+  inline-size: 150px;
+  overflow-wrap: break-word;
+}
+
+img.flag-img-link {
+  width: 140px;
+}
+
 h3.section-title {
   margin-top: 2em;
   padding-left: 0.5em;
