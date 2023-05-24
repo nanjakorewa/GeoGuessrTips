@@ -15,7 +15,8 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mn</span></li>
-        <li><span class="quiz">ゲル</span>が遠くに見えるかも</li>
+        <li><span class="quiz">ゲル</span>やレンガの家が見えるかも</li>
+        <li>Google Carが特徴的</li>
     </ul>
     {{% rd asia mongolia verysmall %}}
 </div>

@@ -13,7 +13,6 @@ bg: "bg/bird.jpg"
 
 ## オセアニア
 
-
 {{% tabs  %}}
 {{% tab "オーストラリア" %}}
 <div class="googlemap-if">
@@ -21,16 +20,6 @@ bg: "bg/bird.jpg"
 <div class="description">
 ヤブツカツクリは、キジ目ツカツクリ科に分類される鳥類の一種。オーストラリア北東部から東部。海岸に沿った地域の森林や低木林に生息する。住宅地でもよく見かけ、あまり人を恐れず、時にはテーブルなどにある人の食物を奪うこともある。
 {{% ahref "Australian brushturkey" "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%83%96%E3%83%84%E3%82%AB%E3%83%84%E3%82%AF%E3%83%AA" %}}
-</div>
-</div>
-<div class="googlemap-if">
-<div class="description imgs">
-▼キバタンの分布
-<img src="2023-03-09-22-47-54.png">
-</div>
-<div class="description">
-キバタンはオーストラリア、及びパプアニューギニアに分布する大型のオウムの一種。パースとニュージーランドにも持ち込まれている。
-{{% ahref "画像出典元：BirdLife International - Sulphur-crested Cockatoo Cacatua galerita" "http://datazone.birdlife.org/species/factsheet/sulphur-crested-cockatoo-cacatua-galerita/distribution" %}}
 </div>
 </div>
 {{% /tab %}}
