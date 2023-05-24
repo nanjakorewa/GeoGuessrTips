@@ -69,7 +69,7 @@ add_rule_link: true
 スペイン・フランス・ルーマニア付近に多い。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684467389092!6m8!1m7!1s7wcV-KGOUJrI-FVkKuen4g!2m2!1d42.26803244530361!2d-4.959664382599334!3f286.39343776806163!4f-7.1569512598281335!5f2.845416800929829" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684467401725!6m8!1m7!1sm_2-hKEYncxnb42xUcnetw!2m2!1d46.20466499330326!2d-0.3591168113380334!3f184.85!4f-5.609999999999999!5f3.22183129603009" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
