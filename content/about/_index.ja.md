@@ -7,16 +7,16 @@ type: "docs"
 weight: 1001
 ---
 
-ジオゲッサーを2023年の2月からはじめました。
-
-このページではプレイ中に気になった物や面白そうな物の場所をスクショ替わりに保存してます。
+ジオゲッサーを2023年の2月からはじめました。このページではプレイ中に気になった物や面白そうな物の場所をスクショ替わりに保存してます。
 間違っている点やコメントあればコメント欄かgithubのissueにて指摘していただけると幸いです。
-出典のページもコメントに付けて頂けると嬉しいです（以下のような形で出典として記載します）。あと、ジオゲッサー関係ないこともメモするかもしれません。
+出典のページもコメントに付けて頂けると嬉しいです（以下のような形で出典として記載します）。
 
-例）こんにちは{{% by "nanjakorewa" "twitch" %}}。こんばんは{{% by "geotips" %}}。
+例）こんにちは{{% by "nanjakorewa" "twitch" %}}。こんばんは{{% by "geotips" %}}。さようなら{{% ref "https://www.weblio.jp/content/%E5%B7%A6%E6%A7%98%E3%81%AA%E3%82%89" "『左様なら』" %}}。
 
 各画像の `CC-BY-` 表記については『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』を参照してください。`GFDL`は『<a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>』のことを指しています。
 パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。USDA.gov上の画像は<a href="https://www.usda.gov/policies-and-links">『Policies and Links』</a>に基づいてパブリックドメインの情報として出典元のリンクを掲載して使用しています。
+
+あと、ジオゲッサー関係ないこともメモするかもしれません。
 
 <h2 class="no-blur">背景画像・使用ツール</h2>
 
