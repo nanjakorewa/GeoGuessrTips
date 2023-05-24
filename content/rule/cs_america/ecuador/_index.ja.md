@@ -20,6 +20,7 @@ is_has_distinctive_bollard: true
         <li>標識の裏が凹凸のないフラットな感じのものが多い{{% by %}}</li>
         <li class="no-evidence">ボラードに２つ反射板が巻かれている・２つ反射板が付いているならエクアドルかも</li>
     </ul>
+    {{% rd cs_america ecuador verysmall %}}
 </div>
 
 {{% tabs  %}}
@@ -90,7 +91,7 @@ is_has_distinctive_bollard: true
 <img src="2023-05-23-04-26-04.png" width="90%">
 </div>
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684783638204!6m8!1m7!1sDA2RicV2JwheAUEG73JZZg!2m2!1d1.256459675985798!2d-78.74124942090808!3f150.86690501682244!4f-0.1798337100882037!5f2.748077413619822" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
