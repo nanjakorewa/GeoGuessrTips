@@ -50,11 +50,14 @@
           {{ $splitPath := split .File.Dir "\\" }}
           {{ $lastElement := last 2 $splitPath }}
           {{ $lastElement = index $lastElement 0 }}
+          {{ $title_string := .Title }}
+          {{ $title_string = (replace $title_string "①" "") }}
+          {{ $title_string = (replace $title_string "②" "") }}
           {{ if in $lastElement "-" }}{{ $lastElement = (index (split $lastElement "-") 0) }}{{ end }}
           <div class="sc_area add-space">
             <ul>
               <li class="sc-title"><button class="button-sc bg-white-button" role="button"><i class="fas fa-link"></i>{{ i18n "rel-site" | safeHTML }}</button></li>
-              <li><a href="https://geopinning.space/rule/{{ $lastElement }}/"><button class="button-sc bg-black-button" role="button">{{ .Title }}{{ i18n "rule-of-distinguish" | safeHTML }}</button></a></li>
+              <li><a href="https://geopinning.space/rule/{{ $lastElement }}/"><button class="button-sc bg-black-button" role="button">{{ $title_string }}{{ i18n "rule-of-distinguish" | safeHTML }}</button></a></li>
             </ul>
           </div>
           {{ end }}

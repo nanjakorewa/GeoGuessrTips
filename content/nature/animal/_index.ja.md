@@ -1,13 +1,15 @@
 ---
-title: "動物シリーズ"
+title: "？"
 date: 2023-02-26
 lastmod: 2023-04-01
-weight: 1
+weight: 1000
 draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/bird.jpg"
 ---
+
+動物を張るページです。
 
 ## オセアニア
 
