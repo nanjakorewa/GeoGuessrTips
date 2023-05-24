@@ -45,6 +45,10 @@ add_rule_link: true
 {{% notice tip %}}
 {{% /notice %}}
 
+{{% notice tip %}}
+てっぺんの形が特徴的
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682939247795!6m8!1m7!1s7DpyPTNh5Dro9QxQG6qcoA!2m2!1d-8.605628700896254!2d115.2385447357305!3f325.0256058635984!4f22.07131117405868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682939288898!6m8!1m7!1sc4sZuH8lESb2j9S-5bc0bQ!2m2!1d-8.436997295884588!2d115.60079460991!3f168.5694954711181!4f22.319543357215508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -52,6 +56,7 @@ add_rule_link: true
 {{% /tab %}}
 {{% tab "南スラウェシ" %}}
 {{% notice tip %}}
+クロスがあり分かりやすい
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -79,7 +84,7 @@ add_rule_link: true
 
 
 {{% tabs  %}}
-{{% tab "トタンの屋根" %}}
+{{% tab "トタン" %}}
 {{% notice tip %}}
 家の屋根が<span class="quiz">トタン屋根っぽい</span>ものが多い{{% by %}}。インドネシアにもトタンの屋根は多いのでこれだけで即決してはいけない。
 {{% /notice %}}
@@ -94,7 +99,7 @@ add_rule_link: true
 ## ブータン
 
 {{% tabs  %}}
-{{% tab "伝統的" %}}
+{{% tab "伝統的なデザイン" %}}
 
 {{% notice tip %}}窓がたくさん規則的に並んだ建物がある
 {{% /notice %}}
@@ -108,9 +113,7 @@ add_rule_link: true
 ## カンボジア
 
 {{% tabs  %}}
-{{% tab "伝統的" %}}
-
-
+{{% tab "高床式" %}}
 {{% notice tip %}}
 カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
 {{% /notice %}}
