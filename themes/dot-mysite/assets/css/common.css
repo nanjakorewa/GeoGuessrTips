@@ -225,8 +225,15 @@ a.flag-link {
   overflow-wrap: break-word;
 }
 
-img.flag-img-link {
-  width: 140px;
+@media (max-width: 800px) {
+  img.flag-img-link {
+    width: 50px;
+  }
+}
+@media (min-width: 800px) {
+  img.flag-img-link {
+    width: 140px;
+  }
 }
 
 h3.section-title {
