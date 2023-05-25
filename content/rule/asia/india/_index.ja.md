@@ -282,14 +282,14 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li class="no-evidence">黄色いタンクがある場合おそらくベンガル―ルかチェンナイになる</li>
+        <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>か<span class="quiz">チェンナイ</span>になる</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "黄色いタンク" %}}
 {{% notice tip %}}
-黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ルかチェンナイ</span>になる
+黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>か<span class="quiz">チェンナイ</span>になる
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684973330166!6m8!1m7!1spMA27OJFQ6ZRt1ub9nkTIw!2m2!1d12.84251651601305!2d77.61203290485112!3f97.71301123418844!4f7.309838716057598!5f3.3051630211484837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
