@@ -246,7 +246,7 @@ sc: [
     <ul class="rule-list">
         <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違う
             <ul>
-                <li>上が黄色・下が緑色：全域で見られるが<span class="quiz">南</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
+                <li>上が黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
                 <li>上が黄色・下が黄色：<span class="quiz">南東（Telanana・Tamil Nadu）</span>に行ってみる？</li>
                 <li>上が黄色・下が黒色：<span class="quiz">ムンバイなどのマハーラーシュトラ</span>の都市に多め？</li>
             </ul>
@@ -257,7 +257,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "上が黄色・下が緑" %}}
 {{% notice tip %}}
-全域で見られるが南部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
+全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dalbera/8480534886/" title="Rickshaws au centre de New Delhi"><img src="https://live.staticflickr.com/8391/8480534886_fa96259976_z.jpg" width="640" height="427" alt="Rickshaws au centre de New Delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
