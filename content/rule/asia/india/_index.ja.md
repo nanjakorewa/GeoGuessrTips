@@ -284,7 +284,7 @@ sc: [
     <ul class="rule-list">
         <li class="no-evidence">電柱の上に何か穴があるなら<span class="quiz">Panjab</span>の街</li>
         <li>Panjabの電柱があり、なおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-        <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+        <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
         <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
     </ul>
 </div>
@@ -301,7 +301,7 @@ sc: [
 {{% /tab %}}
 {{% tab "Chandigarh" %}}
 {{% notice tip %}}
-パンジャーブの電柱かつポールに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。
+パンジャーブの電柱かつポールに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017635429!6m8!1m7!1sLSusVuCf5i6InxvkLJQdrA!2m2!1d30.73506894391728!2d76.71726833211416!3f218.9772218253303!4f-16.149046405219508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -323,7 +323,7 @@ sc: [
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような柱に仕切りのある電柱はGujaratに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" %}}。
+電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような柱に仕切りのある電柱はGujaratに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
