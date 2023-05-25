@@ -244,11 +244,3 @@ maps: [
 
 {{% /tab %}}
 {{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">更に細かいヒント</h2>
-    <ul class="rule-list">
-        <li>ゴミ箱に州や都市の名前が書いてあることがある</li>
-        <li>信号の種類で州が絞り込めるかも[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">資料</a>]{{% by "syamu_0304" "twitch" %}}</li>
-    </ul>
-</div>

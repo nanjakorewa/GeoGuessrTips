@@ -215,11 +215,3 @@ There is no overlap of areas with corn or soybeans.
 
 {{% /tab %}}
 {{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">Further detailed tips</h2>
-    <ul class="rule-list">
-        <li>Sometimes the name of the state or city is written on the trash can.</li>
-        <li>The type of signal could narrow down the state.[<a href="https://docs.google.com/spreadsheets/d/1nNwxiXr1L0NnZWrK5NDbccorawjq_ObjhNpYwySF-M8/edit#gid=2027359894">document</a>]{{% by "syamu_0304" "twitch" %}}</li>
-    </ul>
-</div>
