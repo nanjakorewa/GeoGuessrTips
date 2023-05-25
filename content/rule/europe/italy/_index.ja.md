@@ -13,6 +13,7 @@ jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../monaco/", "モナコ"],
+    ["../san-marino/", "サンマリノ"],
     ["../albania/", "アルバニア"],
     ["../france/", "フランス"],
     ]
