@@ -258,7 +258,7 @@ sc: [
 全域で見られるが南部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684971968776!6m8!1m7!1slEkH8uUswWTGKe3BxrZdTg!2m2!1d23.0373908364648!2d72.55931012360139!3f154.19057916397284!4f-13.082587117728735!5f3.2132966416033772" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dalbera/8480534886/" title="Rickshaws au centre de New Delhi"><img src="https://live.staticflickr.com/8391/8480534886_fa96259976_z.jpg" width="640" height="427" alt="Rickshaws au centre de New Delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "上が黄色・下が黄色" %}}

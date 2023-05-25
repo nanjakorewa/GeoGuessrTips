@@ -16,6 +16,7 @@ dont_show_usda: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>言語は韓国語</li>
         <li>車は<span class="quiz">右側</span>通行</li>
     </ul>
     {{% rd asia korea verysmall %}}
@@ -33,3 +34,11 @@ dont_show_usda: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>表札の数字は通りからの距離を表していて道路名と建物番号が書かれている{{% ref "https://www.konest.com/contents/korean_life_detail.html?id=6616" "道路名住所の表記方法" %}}</li>
+    </ul>
+</div>

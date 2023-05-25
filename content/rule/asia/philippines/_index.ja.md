@@ -154,22 +154,30 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 {{% tabs %}}
 {{% tab "パーム" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="70%"/>
+<img src="2023-05-01-19-06-07.png" width="50%"/>
 </div>
-{{% /tab %}}
-{{% tab "コーン" %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="70%"/>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684979157020!6m8!1m7!1sYUOAIn2vLry73pTz3Ido8A!2m2!1d6.621556822152089!2d124.0659036884216!3f170.08973009900976!4f2.3140351886677877!5f2.815832230270974" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="70%"/>
+<img src="2023-05-01-19-08-10.png" width="50%"/>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684979247036!6m8!1m7!1soyuS4DwL0rkYlKqevHRoDQ!2m2!1d17.553618532952!2d121.7830887444396!3f356.5108621104542!4f-16.385164862101306!5f1.4009779281897492" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-19-06-44.png" width="50%"/>
 </div>
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="70%"/>
+<img src="2023-05-01-19-13-28.png" width="50%"/>
 </div>
 {{% /tab %}}
 {{% tab "電話番号" %}}

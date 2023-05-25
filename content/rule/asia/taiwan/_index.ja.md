@@ -54,6 +54,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>電柱に書かれた英語がAに近ければ北でWに近ければ南</li>
         <li>電話番号は北から南へのグラデーションになっている</li>
     </ul>
 </div>
@@ -61,6 +62,15 @@ sc: [
 
 
 {{% tabs  %}}
+{{% tab "電柱の記号" %}}
+{{% notice tip %}}
+英語がAに近ければ北でWに近ければ南。左はB、右はW。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684977129315!6m8!1m7!1sF1asnkhfjT52Upac2PhN8w!2m2!1d25.28095634995292!2d121.6066368358743!3f251.24177456847417!4f0.18153726931252834!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684977319312!6m8!1m7!1s2hYGZ0cc2crw4Bjt_-pONQ!2m2!1d22.02566589452465!2d121.552108654172!3f341.08414540287384!4f3.172597637980317!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "電話番号" %}}
 {{% notice tip %}}
 電話番号が南に行くほど大きくなる。（画像出典 By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>）
