@@ -128,6 +128,7 @@
           <!-- /main information -->
         </div>
           {{ else }}
+          {{ partial "share" . }}
           <div class="bg-light p-4">
               {{ if in .Permalink "/rule/" }}
               <ul class="flag-list">
