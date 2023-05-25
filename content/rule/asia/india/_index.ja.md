@@ -282,17 +282,21 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li class="no-evidence">電柱の上に何か穴があるなら<span class="quiz">Panjab</span>の街</li>
-        <li>Panjabの電柱があり、なおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-        <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-        <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
+        <li>電柱の形が場所によって異なる
+            <ul>
+                <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の街</li>
+                <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "Panjab" %}}
 {{% notice tip %}}
-電柱の上に<span class="quiz">何か穴がある</span>ならPanjabの街
+電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685016269943!6m8!1m7!1sjSOyYVSvLqichVCDATUsYQ!2m2!1d30.86611341091101!2d76.00847477658051!3f329.72196298953145!4f29.199951858946775!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
