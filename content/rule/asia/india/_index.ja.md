@@ -38,7 +38,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。
+電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような柱に仕切りのある電柱はグジャラートに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -242,22 +242,58 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li class="no-evidence">リクシャー（rickshaw）の色が上下ともに黄色の時は南東（Telanana・Tamil Nadu）に行ってみる</li>
+        <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違う
+            <ul>
+                <li>上が黄色・下が緑色：全域で見られるが<span class="quiz">南</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
+                <li>上が黄色・下が黄色：<span class="quiz">南東（Telanana・Tamil Nadu）</span>に行ってみる？</li>
+                <li>上が黄色・下が黒色：<span class="quiz">ムンバイなどのマハーラーシュトラ</span>の都市に多め？</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "上下が黄色" %}}
+{{% tab "上が黄色・下が緑" %}}
+{{% notice tip %}}
+全域で見られるが南部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684971968776!6m8!1m7!1slEkH8uUswWTGKe3BxrZdTg!2m2!1d23.0373908364648!2d72.55931012360139!3f154.19057916397284!4f-13.082587117728735!5f3.2132966416033772" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "上が黄色・下が黄色" %}}
+{{% notice tip %}}
+黄色の時は南東（Telanana・Tamil Nadu）に行ってみる
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "上が黄色・下が黒色" %}}
+{{% notice tip %}}
+ムンバイなどのマハーラーシュトラに多め（未確認）？
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684852502687!6m8!1m7!1sSf8IBUZan8UhvlTzXwMA-w!2m2!1d19.09539450557661!2d72.88765818145981!3f240.59013499580814!4f-10.012702144705429!5f2.478965690316117" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li class="no-evidence">黄色いタンクがある場合おそらくベンガル―ルかチェンナイになる</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "黄色いタンク" %}}
 {{% notice tip %}}
-ムンバイなどの西側（未確認）？
+黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ルかチェンナイ</span>になる
 {{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684973330166!6m8!1m7!1spMA27OJFQ6ZRt1ub9nkTIw!2m2!1d12.84251651601305!2d77.61203290485112!3f97.71301123418844!4f7.309838716057598!5f3.3051630211484837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684973453205!6m8!1m7!1sZqiS9qJORZQNgq1x6OA7EQ!2m2!1d12.86061497985437!2d80.10779040369978!3f342.390770110837!4f8.583777873640258!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
