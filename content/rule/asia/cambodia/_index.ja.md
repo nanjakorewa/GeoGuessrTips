@@ -19,9 +19,11 @@ dont_show_usda: true
     <ul class="rule-list">
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.kh</span></li>
+        <li>仏教に関係する建築物が多い</li>
         <li><span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられている、都市部では英語も使用される。</li>
         <li>カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。</li>
         <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。</li>
+        <li class="no-evidence">ちいさな祠のようなものがあって家のある方角に向かって置かれていることが多い</li>
         <li class="no-evidence">パラソルの下でビン入りの飲み物がよく売られている。</li>
     </ul>
     {{% rd asia cambodia verysmall %}}
@@ -52,6 +54,28 @@ dont_show_usda: true
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685045093972!6m8!1m7!1sQoqx432_yP9HJJqV1cmIIA!2m2!1d13.64469096453368!2d103.044546375599!3f97.60171841276211!4f-7.9978384380278555!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685045139272!6m8!1m7!1swLycVmmbXZEfvdfm9MwpCw!2m2!1d13.72672320398144!2d105.7748318091747!3f56.50465763287239!4f-6.941266939778117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "w-bollard" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685044091087!6m8!1m7!1sAt387u07pq7aJNKqmErlqw!2m2!1d12.70821286561157!2d104.8898551407847!3f200.02702936503258!4f-7.168271965540711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684254045514!6m8!1m7!1sErF7a24_8RyWGg6U3ijWKw!2m2!1d13.65262687825233!2d103.4924319634894!3f271.81491037276805!4f-16.097221250085084!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "電柱" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685044814257!6m8!1m7!1si-78QwO_iKOMXyiMLwNzew!2m2!1d13.76922262904847!2d107.1069109919508!3f103.00534981500141!4f28.146258250937777!5f3.278551436969423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685044835167!6m8!1m7!1suH6OG4Ha9xwaFAPfBThrJQ!2m2!1d12.41728366552385!2d107.2859087365276!3f20.129394367842494!4f15.107400733079174!5f1.8063258670895346" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "言語" %}}

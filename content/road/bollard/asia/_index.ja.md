@@ -68,6 +68,7 @@ add_rule_link: true
 {{% tab "赤白1" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682133209760!6m8!1m7!1syGkYFcgln6xoRiqHaZEhBA!2m2!1d12.40530482325942!2d103.8104081534148!3f153.77553353717212!4f-27.381682905980973!5f3.0896211671220453" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685044091087!6m8!1m7!1sAt387u07pq7aJNKqmErlqw!2m2!1d12.70821286561157!2d104.8898551407847!3f200.02702936503258!4f-7.168271965540711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "赤白2" %}}

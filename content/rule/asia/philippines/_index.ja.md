@@ -25,15 +25,13 @@ maps: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ph</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
-        <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>英語とフィリピン語が公用語</li>
-        <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い</li>
+        <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある</li>
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
         <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>が交通手段として使用され公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
         <li class="no-evidence">道路がコンクリートでできているのはフィリピン・タイ・コロンビア・ペルー・エクアドルに多い</li>
         <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカ</li>
-        <li class="no-evidence">標識に赤茶色のポールが多いかも</li>
         <li class="no-evidence">ローヤルクラウン・コーラが売られている</li>
     </ul>
     {{% rd asia philippines verysmall %}}
@@ -141,6 +139,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い</li>
         <li>農作物の分布が地域ごとに異なる
             <ul>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RP">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
