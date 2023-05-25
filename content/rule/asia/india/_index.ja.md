@@ -365,7 +365,7 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684973330166!6m8!1m7!1spMA27OJFQ6ZRt1ub9nkTIw!2m2!1d12.84251651601305!2d77.61203290485112!3f97.71301123418844!4f7.309838716057598!5f3.3051630211484837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684973453205!6m8!1m7!1sZqiS9qJORZQNgq1x6OA7EQ!2m2!1d12.86061497985437!2d80.10779040369978!3f342.390770110837!4f8.583777873640258!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685057238683!6m8!1m7!1sVq2_OxPrxv5kAwxKy9lpKQ!2m2!1d12.82124623460106!2d80.20650617072832!3f118.47452465387406!4f4.776067349847821!5f3.278551436969423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
