@@ -11,6 +11,7 @@ flag: "SM.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすいページ"
 sc_icon: rel
 sc: [
@@ -26,6 +27,7 @@ sc: [
         <li>ナンバープレートは前後についていて<span class="quiz">水</span>色に見える</li>
         <li class="no-evidence">青くて角が丸い線で囲われた通り名の看板が使われている</li>
     </ul>
+    {{% rd europe san-marino verysmall %}}
 </div>
 
 {{% tabs  %}}
