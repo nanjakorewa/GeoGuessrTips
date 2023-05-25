@@ -26,8 +26,8 @@ sc: [
         <li>公用語はアルバニア語（Shqip）</li>
         <li>カメラに線が入っている</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
-        <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い。たぶん北マケドニアやモンテネグロには少ない。</li>
-        <li class="no-evidence">赤茶色の屋根と白い壁の家が多い</li>
+        <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い</li>
+        <li class="no-evidence">メルセデスベンツをはじめとしたドイツブランドの車の割合が高い</li>
     </ul>
     {{% rd europe albania verysmall %}}
 </div>
@@ -80,6 +80,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683205004490!6m8!1m7!1sGViVJH9Mk8RpyMbkvs7MfA!2m2!1d42.26324816088299!2d19.42909205651487!3f51.75123322663632!4f-17.89478618479052!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684997109452!6m8!1m7!1sMiycnc--d4eQyaVwe0r11g!2m2!1d40.55132552831947!2d19.58848873300386!3f192.33262664265703!4f-17.056627440759414!5f3.320239097401282" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

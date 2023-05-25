@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "LK.svg"
 no_detaile_info: true
 jetro_detail: false
+is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド"],
@@ -24,6 +25,7 @@ sc: [
         <li>シンハラ語（සිංහල）とタミル語（தமிழ்）が使用される</li>
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
         <li>後ろのナンバープレートは<span class="quiz">黄</span>色</li>
+        <li>水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}標識も<span class="quiz">白黒のストライプ</span>のものが多い</li>
     </ul>
 </div>
 
@@ -36,6 +38,17 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680100340097!6m8!1m7!1sDJ0Ty-iMLWHbEbhMbuTD3w!2m2!1d6.896847909740938!2d79.85988121087101!3f275.495347430142!4f3.1635896951033686!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682100640173!6m8!1m7!1sW2nDYT3OdSiuEKGFoeBAuQ!2m2!1d6.898139546306622!2d80.5926493796953!3f343.9497117643875!4f-0.11594183889829424!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+大き目の穴が空いた電柱がある。水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684987607615!6m8!1m7!1sdIFugZIz-18TgDF0vVdcrQ!2m2!1d6.742845899138011!2d80.82898977983052!3f213.867865126139!4f-2.7445998801381535!5f3.1642101542204055" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684988210384!6m8!1m7!1srWru9p5T5gXY-ML1eTu9qw!2m2!1d9.383750066503243!2d80.40839656446202!3f309.5032342322923!4f-8.17461887515313!5f2.32202148121378" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
