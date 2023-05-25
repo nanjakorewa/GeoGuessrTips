@@ -27,7 +27,7 @@ is_has_many_trekker: true
 
 
 {{% notice tip %}}
-前を歩いてくれる人
+前を歩いてくれる案内人。ありがとう。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685047835470!6m8!1m7!1sCF3_VNzlSKEYZUF37FzpLw!2m2!1d-16.26153953219388!2d168.1865441090426!3f9.824664345565452!4f-16.996343372250365!5f0.7237900267763412" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -306,7 +306,7 @@ sc: [
 {{% /tab %}}
 {{% tab "Chandigarh" %}}
 {{% notice tip %}}
-パンジャーブの電柱かつポールに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。
+Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。ただし歩いてみた感じ貼ってないポールも結構あるように見える。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017635429!6m8!1m7!1sLSusVuCf5i6InxvkLJQdrA!2m2!1d30.73506894391728!2d76.71726833211416!3f218.9772218253303!4f-16.149046405219508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
