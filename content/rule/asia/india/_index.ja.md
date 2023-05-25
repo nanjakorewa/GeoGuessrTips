@@ -67,6 +67,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>州ごとに異なる旗がある</li>
         <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
 </div>
@@ -285,7 +286,7 @@ sc: [
         <li>電柱の形が場所によって異なる
             <ul>
                 <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の街</li>
-                <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
             </ul>
