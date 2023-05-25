@@ -209,6 +209,10 @@ ul.flag-list {
   padding: 0;
 }
 
+div.bg-light ul.flag-list:first-child{
+  background:rgba(55, 110, 120, 0);
+}
+
 ul.flag-list li {
   float: left;
   list-style: none;
