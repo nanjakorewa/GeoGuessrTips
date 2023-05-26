@@ -100,3 +100,20 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>地図上で白い場所はビニールハウスがいっぱいある（南東の海の近く）</li>
+    </ul>
+</div>
+
+
+{{% tabs  %}}
+{{% tab "ビニールハウス" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685107158837!6m8!1m7!1sovSpeRMTQKQHbPLqSBlesw!2m2!1d36.72286755824907!2d-2.732846079631473!3f84.57255273429367!4f-0.06178768076840413!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685107186572!6m8!1m7!1sh5F90Tjr5g98NL60dhqPmw!2m2!1d36.78696191764914!2d-2.731803850520842!3f308.7175461880648!4f0.14534750498542337!5f2.8605917192670196" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
