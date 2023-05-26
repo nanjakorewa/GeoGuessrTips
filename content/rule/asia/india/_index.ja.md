@@ -246,16 +246,16 @@ sc: [
     <ul class="rule-list">
         <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違う
             <ul>
-                <li>上が黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
-                <li>上が黄色・下が黄色：<span class="quiz">南東（Telanana・Tamil Nadu）</span>に行ってみる？</li>
-                <li>上が黄色・下が黒色：<span class="quiz">ムンバイなどのマハーラーシュトラ</span>の都市に多め？</li>
+                <li>窓の周りが黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
+                <li>窓の周りが黄色・下が黄色：<span class="quiz">南東（Telanana・Tamil Nadu）</span>に行ってみる？</li>
+                <li>窓の周りが黄色・下が黒色：<span class="quiz">ムンバイなどのマハーラーシュトラ</span>の都市に多め？{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
             </ul>
         </li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "上が黄色・下が緑" %}}
+{{% tab "黄色・緑" %}}
 {{% notice tip %}}
 全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
@@ -263,21 +263,30 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dalbera/8480534886/" title="Rickshaws au centre de New Delhi"><img src="https://live.staticflickr.com/8391/8480534886_fa96259976_z.jpg" width="640" height="427" alt="Rickshaws au centre de New Delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-{{% tab "上が黄色・下が黄色" %}}
+{{% tab "黄色・黄色" %}}
 {{% notice tip %}}
-黄色の時は南東（Telanana・Tamil Nadu）に行ってみる
+黄色の時は南東（Telanana・Tamil Nadu）に行ってみる？
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
-{{% tab "上が黄色・下が黒色" %}}
+{{% tab "黄色・黒色" %}}
 {{% notice tip %}}
-ムンバイなどのマハーラーシュトラに多め（未確認）？
+ムンバイなどのマハーラーシュトラに多め{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}？
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684852502687!6m8!1m7!1sSf8IBUZan8UhvlTzXwMA-w!2m2!1d19.09539450557661!2d72.88765818145981!3f240.59013499580814!4f-10.012702144705429!5f2.478965690316117" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685128103000!6m8!1m7!1sV2mAVbnto9vw5UeIgQIR7g!2m2!1d19.09521757724435!2d72.88762212756531!3f332.48927903939085!4f-10.15448843502621!5f1.5526628961370816" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+ただし似た雰囲気のものは東海岸の街にもあったので明確な判断基準なのかは不明。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685128260587!6m8!1m7!1sMynsRgxqocRxrdZUemCdZQ!2m2!1d19.80653467636733!2d85.83721433799168!3f26.824904239981084!4f-8.188162902118862!5f2.7673678437924703" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
