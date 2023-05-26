@@ -290,13 +290,36 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+
 <div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "黄色いタンク" %}}
+{{% notice tip %}}
+黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684973330166!6m8!1m7!1spMA27OJFQ6ZRt1ub9nkTIw!2m2!1d12.84251651601305!2d77.61203290485112!3f97.71301123418844!4f7.309838716057598!5f3.3051630211484837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685057238683!6m8!1m7!1sVq2_OxPrxv5kAwxKy9lpKQ!2m2!1d12.82124623460106!2d80.20650617072832!3f118.47452465387406!4f4.776067349847821!5f3.278551436969423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>電柱の形が場所によって異なる
             <ul>
                 <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の街</li>
                 <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-                <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
+                <li class="no-evidence">区切りのあるポール（セクションポール）があるのはHyderabad{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
             </ul>
         </li>
@@ -338,11 +361,21 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-いわゆるホーリーポール{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。
+いわゆるホーリーポール{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Hyderabad" %}}
+
+{{% notice tip %}}
+区切りのあるポール（セクションポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685131807317!6m8!1m7!1sEsD63pL45V0NThU-AZh4pA!2m2!1d17.47859170633478!2d78.56369474671776!3f345.7309758033879!4f-0.6858934272780033!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685131881912!6m8!1m7!1sUo5VrDL-DpjCXt8hfKOZGg!2m2!1d17.36418399104977!2d78.39518238708081!3f89.58715191863472!4f-4.965387103125224!5f1.6747942011608603" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "Madhya Pradesh" %}}
@@ -361,21 +394,3 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% /tab %}}
 {{% /tabs %}}
 
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
-        <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街</li>
-    </ul>
-</div>
-
-{{% tabs  %}}
-{{% tab "黄色いタンク" %}}
-{{% notice tip %}}
-黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684973330166!6m8!1m7!1spMA27OJFQ6ZRt1ub9nkTIw!2m2!1d12.84251651601305!2d77.61203290485112!3f97.71301123418844!4f7.309838716057598!5f3.3051630211484837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685057238683!6m8!1m7!1sVq2_OxPrxv5kAwxKy9lpKQ!2m2!1d12.82124623460106!2d80.20650617072832!3f118.47452465387406!4f4.776067349847821!5f3.278551436969423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
