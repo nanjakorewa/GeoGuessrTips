@@ -310,6 +310,7 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017635429!6m8!1m7!1sLSusVuCf5i6InxvkLJQdrA!2m2!1d30.73506894391728!2d76.71726833211416!3f218.9772218253303!4f-16.149046405219508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685127033966!6m8!1m7!1sknl-t0wkwFgojFD1Li_EIA!2m2!1d30.74445892352363!2d76.75443150868492!3f56.55242380054385!4f-8.401383113064256!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="googlemap-if unclickable">
@@ -318,11 +319,11 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
 {{% notice tip %}}
-黄色い長方形のステッカー？破れたり上から紙を張られたりして視認しにくいため、確実に正解できるわけではなさそう。
+黄色い長方形のステッカーがあり{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい上、他の地域にも似たようなものがある気もする。確実に正解できるわけではなさそう。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017265153!6m8!1m7!1sCtlTLbuLlXjZ0nABa7u9sw!2m2!1d26.85363595356742!2d80.89094687365599!3f163.78688405149154!4f-10.371778711174414!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685017304035!6m8!1m7!1sDgzVKQHdQ8LlSIFqIu2QMw!2m2!1d26.85273857816189!2d80.89049736559522!3f242.39996963703348!4f-11.178712435847885!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685127193780!6m8!1m7!1sMSJUA6WJHctwAWyPPUTiLw!2m2!1d26.85172705528472!2d80.88918174857687!3f141.65999264133143!4f-2.186885653060486!5f2.808609590138996" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
