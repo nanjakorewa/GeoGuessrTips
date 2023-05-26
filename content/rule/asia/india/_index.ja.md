@@ -313,14 +313,14 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>電柱の形が場所によって異なる
+        <li>電柱の形が州や街によって異なる
             <ul>
-                <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の街</li>
+                <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街</li>
                 <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-                <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-                <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
-                <li class="no-evidence">区切りのあるポール（セクションポール）があるのはHyderabad{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？</li>
-                <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
+                <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
+                <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Hyderabad</span>{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？</li>
+                <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
             </ul>
         </li>
     </ul>
