@@ -319,7 +319,7 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
 {{% notice tip %}}
-黄色い長方形のステッカーがあり{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい上、他の地域にも似たようなものがある気もする。確実に正解できるわけではなさそう。
+黄色い長方形のステッカーがある{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい上、他の地域にも似たようなものがある気もする。確実に正解できるわけではなさそう。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017265153!6m8!1m7!1sCtlTLbuLlXjZ0nABa7u9sw!2m2!1d26.85363595356742!2d80.89094687365599!3f163.78688405149154!4f-10.371778711174414!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
