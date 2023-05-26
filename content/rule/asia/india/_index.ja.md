@@ -38,7 +38,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような柱に仕切りのある電柱はグジャラートに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" %}}。
+電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような穴の開いている電柱（ホーリーポール）はグジャラートに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -338,7 +338,7 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような柱に仕切りのある電柱はGujaratに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。
+いわゆるホーリーポール{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
