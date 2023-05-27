@@ -46,7 +46,7 @@ sc: [
 <span class="quiz">緑色</span>のポストがある。中国やエジプトも同じ色。形はいろいろバリエーションがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/infomatique/25985190851/in/photolist-2XGGiU-FDMrqb-QDhUTy-ELCDXh-ELPZYM-Q8wP5q-ELDmAb-FxU4J3-nhLhoz-FG5gpT-FAdTVV-2kNBnEC-25nFmvT-7GvfHv-2j59zMu" title="GREEN PILLAR BOX [ AT THE END OF KILDARE STREET]-112769"><img src="https://live.staticflickr.com/1700/25985190851_56cfb3e1db_z.jpg" width="640" height="514" alt="GREEN PILLAR BOX [ AT THE END OF KILDARE STREET]-112769"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/infomatique/25985190851/in/photolist-2XGGiU-FDMrqb-QDhUTy-ELCDXh-ELPZYM-Q8wP5q-ELDmAb-FxU4J3-nhLhoz-FG5gpT-FAdTVV-2kNBnEC-25nFmvT-7GvfHv-2j59zMu" title="GREEN PILLAR BOX [ AT THE END OF KILDARE STREET]-112769"><img src="https://live.staticflickr.com/1700/25985190851_56cfb3e1db_z.jpg" width="440" height="514" alt="GREEN PILLAR BOX [ AT THE END OF KILDARE STREET]-112769"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
