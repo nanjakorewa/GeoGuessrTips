@@ -13,13 +13,19 @@ add_rule_link: true
 
 ## インド
 
-
 <div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の街</li>
-        <li>Panjabの電柱があり、なおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-        <li>黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-        <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>かも？</li>
+        <li>電柱の形が州や街によって異なる
+            <ul>
+                <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街</li>
+                <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+                <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
+                <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Hyderabad</span>{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？</li>
+                <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -35,10 +41,11 @@ add_rule_link: true
 {{% /tab %}}
 {{% tab "Chandigarh" %}}
 {{% notice tip %}}
-パンジャーブの電柱かつポールに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。
+Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。ただし歩いてみた感じ貼ってないポールも結構あるように見える。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017635429!6m8!1m7!1sLSusVuCf5i6InxvkLJQdrA!2m2!1d30.73506894391728!2d76.71726833211416!3f218.9772218253303!4f-16.149046405219508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685127033966!6m8!1m7!1sknl-t0wkwFgojFD1Li_EIA!2m2!1d30.74445892352363!2d76.75443150868492!3f56.55242380054385!4f-8.401383113064256!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="googlemap-if unclickable">
@@ -47,21 +54,31 @@ add_rule_link: true
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
 {{% notice tip %}}
-黄色い長方形のステッカー？破れたり上から紙を張られたりして視認しにくいため、確実に正解できるわけではなさそう。
+黄色い長方形のステッカーがある{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい上、他の地域にも似たようなものがある気もする。確実に正解できるわけではなさそう。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017265153!6m8!1m7!1sCtlTLbuLlXjZ0nABa7u9sw!2m2!1d26.85363595356742!2d80.89094687365599!3f163.78688405149154!4f-10.371778711174414!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685017304035!6m8!1m7!1sDgzVKQHdQ8LlSIFqIu2QMw!2m2!1d26.85273857816189!2d80.89049736559522!3f242.39996963703348!4f-11.178712435847885!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685127193780!6m8!1m7!1sMSJUA6WJHctwAWyPPUTiLw!2m2!1d26.85172705528472!2d80.88918174857687!3f141.65999264133143!4f-2.186885653060486!5f2.808609590138996" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような柱に仕切りのある電柱はGujaratに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。
+いわゆるホーリーポール{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Hyderabad" %}}
+
+{{% notice tip %}}
+区切りのあるポール（セクションポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685131807317!6m8!1m7!1sEsD63pL45V0NThU-AZh4pA!2m2!1d17.47859170633478!2d78.56369474671776!3f345.7309758033879!4f-0.6858934272780033!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685131881912!6m8!1m7!1sUo5VrDL-DpjCXt8hfKOZGg!2m2!1d17.36418399104977!2d78.39518238708081!3f89.58715191863472!4f-4.965387103125224!5f1.6747942011608603" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "Madhya Pradesh" %}}
@@ -79,6 +96,8 @@ add_rule_link: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
 
 ## タイ
 
