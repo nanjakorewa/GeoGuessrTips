@@ -13,12 +13,16 @@ add_rule_link: true
 ## メキシコ
 
 {{% tabs  %}}
-{{% tab "白黒" %}}
+{{% tab "白黒1" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679676286126!6m8!1m7!1sJ7MohxmYl_9njIWbAdqNug!2m2!1d18.2565538884352!2d-97.54426771347538!3f325.7113512089358!4f-19.1617510203708!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679326979706!6m8!1m7!1sTnKtDpcSLRQ4RjMe4Sjd4g!2m2!1d25.54072681401005!2d-103.6382544135941!3f127.84925597748136!4f-19.074318903338067!5f3.2440693678505452" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "白黒2" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685209543304!6m8!1m7!1syT8DDh66oQSMU3VG5Mb_0g!2m2!1d18.44814562957685!2d-101.9283554764391!3f208.0800050189052!4f-10.889184058225851!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% tab "白黒黄" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684289664058!6m8!1m7!1sAyl14rwgp1X84i04pDeTHA!2m2!1d25.02750650322944!2d-100.5520063215663!3f282.6428695478101!4f-15.21699523769611!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
