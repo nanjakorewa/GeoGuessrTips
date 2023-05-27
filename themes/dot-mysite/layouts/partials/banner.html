@@ -16,9 +16,21 @@
 					var projects = [
 						{{ range $pages }}
 						{
+							{{ if (eq .Page.Lang "ja" )}}
+								{{ if (in .Permalink "rule" )}}
+								value: "{{ .Title }}の見分け方",
+								label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
+								url:"{{ .Permalink }}"
+								{{ else }}
+								value: "{{ .Title }}",
+								label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
+								url:"{{ .Permalink }}"
+								{{ end }}
+							{{ else }}
 							value: "{{ .Title }}",
 							label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
 							url:"{{ .Permalink }}"
+							{{ end }}
 						},
 						{{ end -}}
 						{{ range $pages -}}
