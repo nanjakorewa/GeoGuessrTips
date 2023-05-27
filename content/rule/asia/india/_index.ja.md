@@ -98,6 +98,13 @@ sc: [
 </div>
 
 {{% /tab %}}
+{{% tab "言語の分布" %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/India?src=hash&amp;ref_src=twsrc%5Etfw">#India</a>&#39;s 22 scheduled <a href="https://twitter.com/hashtag/languages?src=hash&amp;ref_src=twsrc%5Etfw">#languages</a> by the name of the script they use <a href="https://t.co/PBDqehiogD">pic.twitter.com/PBDqehiogD</a></p>&mdash; India in Pixels by Ashris (@indiainpixels) <a href="https://twitter.com/indiainpixels/status/1350804912100179970?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
 {{% tab "グジャラート語" %}}
 {{% notice tip %}}
 アフマダーバード周辺。ちなみに階段井戸もアフマダーバード周辺に多い。
