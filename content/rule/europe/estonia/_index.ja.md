@@ -61,6 +61,15 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684549427861!6m8!1m7!1sZQzayB7wC0UbW2V1waLYSg!2m2!1d58.38554624317938!2d26.7243602941676!3f49.48841726999512!4f0.30752187369996875!5f3.0892742262860935" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "商業施設" %}}
+{{% notice tip %}}
+エストニア発のユニコーン、BOLTの車を見かけるかもしれない。ただしBoltの車はラトビアなどでも見かける。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685192555626!6m8!1m7!1sBhGvr1FQ-BFtvlK7Z0QBXA!2m2!1d59.43305375768256!2d24.74544828658941!3f185.63236484192078!4f-6.356764414259473!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="googlemap-if">
