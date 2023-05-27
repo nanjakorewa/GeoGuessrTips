@@ -50,3 +50,35 @@ Google Carが特徴的
 {{% tab "w-googlecar" %}}
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>農業や周りが山がちかどうかが場所によって異なる
+            <ul>
+                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=GT">Guatemala Production - U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "パーム" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-27-19-08-14.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+グアテマラでパームオイルの生産が多いのは中央と東の海岸。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685182034939!6m8!1m7!1stetn6Ojd5QIM9vNqf7PUBQ!2m2!1d16.14055322806418!2d-90.18063088457873!3f86.6838692644644!4f-3.2878926522082708!5f0.7725546915467838" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685182084492!6m8!1m7!1siXRysI1lRdYhkzRw4BIfKA!2m2!1d15.61112876200453!2d-88.47185409306853!3f177.1729930044097!4f3.731704273373353!5f0.8119852830719789" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}

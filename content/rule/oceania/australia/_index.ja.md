@@ -148,8 +148,6 @@ sc: [
 {{% /tabs %}}
 
 
-
-
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
