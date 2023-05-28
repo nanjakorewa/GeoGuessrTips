@@ -11,6 +11,7 @@ flag: "LK.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_googlecar: true
+dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド"],

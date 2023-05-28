@@ -15,6 +15,7 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../finland/", "フィンランド"],
+    ["../../n_america/saint-pierre-miquelon/", "サンピエール島およびミクロン島"],
     ]
 ---
 
