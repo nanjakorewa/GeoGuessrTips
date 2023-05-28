@@ -326,7 +326,7 @@ sc: [
                 <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
-                <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Hyderabad</span>{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？</li>
+                <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Hyderabad</span>？</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
             </ul>
         </li>
@@ -378,7 +378,7 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% tab "Hyderabad" %}}
 
 {{% notice tip %}}
-区切りのあるポール（セクションポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？
+区切りのあるポール（セクションポール）がある？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685131807317!6m8!1m7!1sEsD63pL45V0NThU-AZh4pA!2m2!1d17.47859170633478!2d78.56369474671776!3f345.7309758033879!4f-0.6858934272780033!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
