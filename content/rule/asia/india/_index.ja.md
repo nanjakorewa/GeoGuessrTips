@@ -325,7 +325,7 @@ sc: [
                 <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街</li>
                 <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-                <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
+                <li class="no-evidence">穴のあるポール（ホーリーポール）があるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
                 <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Hyderabad</span>？</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
             </ul>
@@ -368,7 +368,7 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-いわゆるホーリーポール{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
+穴のあるポール（ホーリーポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
