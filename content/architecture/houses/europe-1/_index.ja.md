@@ -88,7 +88,7 @@ add_rule_link: true
 {{% /tab %}}
 {{% tab "屋根が平ら" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685277272011!6m8!1m7!1shnJTwK5lyKLFrph9zU9BHg!2m2!1d42.62927646518973!2d23.30853855298601!3f25.154376498287945!4f6.78741799512386!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685277272011!6m8!1m7!1shnJTwK5lyKLFrph9zU9BHg!2m2!1d42.62927646518973!2d23.30853855298601!3f25.154376498287945!4f6.78741799512386!5f0.7820865974627469" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
