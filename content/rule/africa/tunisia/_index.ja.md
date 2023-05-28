@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.tn</span></li>
         <li><span class="quiz">鮮やかな水色と白</span>が基調の建物が多い</li>
         <li><span class="quiz">黒</span>色のナンバープレートがある</li>
+        <li>後ろに車がついてくる</li>
         <li class="no-evidence">道端に水色の袋が棄てられていることが多い？</li>
     </ul>
 </div>
@@ -42,8 +43,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。
+<span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。そして後ろに車が付いてくることが多い。
 {{% /notice %}}
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685283054269!6m8!1m7!1sgH2xB2SWvbAuWt5JYrRvBw!2m2!1d36.74354439221794!2d10.22877848313951!3f147.74397571933963!4f-5.01514964376284!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 
 {{% lb 50 %}}
 ![](2023-05-28-23-08-36.png)
