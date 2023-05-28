@@ -37,11 +37,16 @@ plonkit: true
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも。VというロゴかVivacomという文字が描かれている。
+{{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも。VというロゴかVivacomという文字が描かれている。都市部には店も多く存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684400159136!6m8!1m7!1sLD0DHiT-1i4jqbCVXxk63w!2m2!1d42.69950587131878!2d27.25164082781438!3f17.68116711905936!4f15.48665152349841!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684400001761!6m8!1m7!1shPOyaH5BZ64DVmA8SFNXcA!2m2!1d43.98994940591337!2d22.86801721751684!3f296.6047001377266!4f30.046607751578037!5f3.323506360847502" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="2023-05-28-21-42-59.png" width="70%">
 </div>
 
 {{% notice tip %}}ブリキ製のような丸いふたのゴミ箱が通りや家の前に置いてあるが他の国にもあるときはあるので即決はできない
