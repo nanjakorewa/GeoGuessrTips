@@ -23,6 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tn</span></li>
         <li><span class="quiz">鮮やかな水色と白</span>が基調の建物が多い</li>
+        <li><span class="quiz">黒</span>色のナンバープレートがある</li>
         <li class="no-evidence">道端に水色の袋が棄てられていることが多い？</li>
     </ul>
 </div>
@@ -39,6 +40,16 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681952644120!6m8!1m7!1sjbW2GNADpmWgQaXTohSADg!2m2!1d33.79207476536821!2d10.92917167393205!3f151.494872864849!4f-5.7632847952252035!5f1.603712625060913" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955756400!6m8!1m7!1socughxy28q_lu5624j4Zhg!2m2!1d33.39373736558044!2d10.7492652958513!3f251.62461596347816!4f-4.165839557067343!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+<span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。
+{{% /notice %}}
+
+{{% lb 50 %}}
+![](2023-05-28-23-08-36.png)
+
+CCC0
+{{% /lb %}}
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}
