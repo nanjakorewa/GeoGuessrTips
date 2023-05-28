@@ -27,6 +27,7 @@ sc: [
         <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
         <li>アルゼンチンと異なりナンバープレートは黒くない</li>
         <li class="no-evidence">防風林や植林地が散見され同一の種類の木がきれいに植えられていることがある</li>
+        <li class="no-evidence">道路の中央線に黄色い二本の線があり間に白い線が等間隔である</li>
     </ul>
 </div>
 
@@ -44,8 +45,8 @@ sc: [
 同じ種類の木がまっすぐに植えられていることがある。もっと大量に植えられた植林地も存在する。ウルグアイは山がほぼ無いため風を遮るものが無く、防風林もしくは家畜避難林だと思われるが明確なソース無し。 "<i>牧場では時々来襲する暴風雨から家畜を守るため、放牧地内の所々に家畜避難林や防風林を設定している</i>{{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "ウルグアイの生活を振り返って" %}}"。そして国土の8割が草原で牛肉の生産に適した環境で、道端に普通に牛がいることもある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682333738556!6m8!1m7!1sb0KX-faerKx9c39KTrhVJw!2m2!1d-34.78055765762635!2d-56.24339614965749!3f314.64688175975186!4f8.044034030484823!5f1.4637254092563214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682392952333!6m8!1m7!1suNoQPxA_0jtb5aa98W6AQw!2m2!1d-32.8964482447165!2d-57.43116366730344!3f325.66859655782974!4f4.272476070208683!5f1.6126820017845147" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685254991409!6m8!1m7!1sUOiitP7qH6GBggTvmb0Wug!2m2!1d-34.12346065396341!2d-55.6720927660824!3f203.6559584591058!4f-11.775103413966363!5f1.5349753674630002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685254826464!6m8!1m7!1srTqUqt0zOGgRLS7_W7mPRQ!2m2!1d-31.85590142097197!2d-54.71309876343062!3f306.72612449953994!4f0.14263049488664592!5f1.7616111927914884" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
