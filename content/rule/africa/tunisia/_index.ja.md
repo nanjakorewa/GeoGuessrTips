@@ -65,17 +65,9 @@ CC0
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955716287!6m8!1m7!1sPEGqq1AsrBhy0D_9ZufIfQ!2m2!1d36.50897427774278!2d10.56847932526787!3f82.34708398462853!4f-13.113885457952321!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-googlecar" %}}
-{{% notice tip %}}
-後ろから車が付いてくることがある
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681953144950!6m8!1m7!1sISZGTSH7TgrxciWKcrUvWA!2m2!1d33.39320568258737!2d10.75218447008934!3f98.0390695491718!4f1.5038326870629959!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "水色の袋" %}}
 {{% notice tip %}}
-道端に水色の袋かビニールテープ（？）が棄てられていることが多い？
+道端に水色の袋かビニールテープ（？）が棄てられていることが多い
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955649216!6m8!1m7!1snS76sg90peo5e0VgN0M4ZQ!2m2!1d36.50387532440455!2d10.57159934591823!3f264.17253394104546!4f-2.1982196308240702!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
