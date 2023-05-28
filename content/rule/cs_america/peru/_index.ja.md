@@ -22,6 +22,7 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボリビアはシンプルな製材のことが多い。</li>
         <li>電柱は<span class="quiz">同じ</span>向きに<span class="quiz">３</span>本棒が付きだしている{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
+        <li class="no-evidence">ガードレールに黄色と黒のストライプがある</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
 </div>
