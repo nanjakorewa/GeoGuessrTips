@@ -101,7 +101,11 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電話番号の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？</li>
+        <li>電話番号の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？
+            <ul>
+                <li>`02 9x`は半島部 (by ギガバイトさん@コメ欄)</li>
+            </ul>
+        </li>
         <li>ドイツ語が混ざっていたら県境の近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
         <li>レンガが多かったらベルギー近くを検討してみる</li>
         <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
