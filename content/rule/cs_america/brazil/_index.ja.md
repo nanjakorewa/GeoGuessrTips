@@ -108,11 +108,6 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
                 <li>Pantanal：パラグアイ北部の河川による沖積平野だが道がほとんど無い</li>
             </ul>
         </li>
-        <li>特定の地域や州が分かる木
-            <ul>
-                <li>ババスの木：ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
-            </ul>
-        </li>
     </ul>
 </div>
 
@@ -170,10 +165,38 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682639577855!6m8!1m7!1sCmml6mgQBChhNysXhxcEyA!2m2!1d-19.36288315842267!2d-57.55096809136056!3f219.91708888805192!4f-13.84361818284306!5f2.956808514492435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>特定の地域や州が分かる木
+            <ul>
+                <li>パラナ松：パラナ松{{% ref "https://en.wikipedia.org/wiki/Araucaria_angustifolia" "Araucaria angustifolia" %}}は<span class="quiz">パラナ</span>州周辺{{% by "neckoluv" "twitch" %}}</li>
+                <li>ババスの木：ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "パラナ松" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="&quot;Araucaria angustifolia&quot; &quot;Araucaria brasiliense&quot; &quot;Brazilian pine&quot; Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="&quot;Araucaria angustifolia&quot; &quot;Araucaria brasiliense&quot; &quot;Brazilian pine&quot; Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+この木は<span class="quiz">パラナ</span>州周辺{{% by "neckoluv" "twitch" %}}
+{{% /notice %}}
+{{% /tab %}}
 {{% tab "ババスの木" %}}
 <div class="googlemap-if">
 <img src="2023-05-07-20-45-47.png" />
 </div>
+
+{{% notice tip %}}
+ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}
+{{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
 
