@@ -39,6 +39,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679484038664!6m8!1m7!1sg3a68LbDjAXKg7a2inWuPQ!2m2!1d43.84000316236607!2d21.69343511255818!3f355.8746463407556!4f-17.860709868089188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+Delhaize Serbiaというスーパーマーケットチェーンがある。ロゴにMAXIと書いてある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685415870248!6m8!1m7!1sEe8WGNKb6X255jnGHmS0bg!2m2!1d44.81713681257121!2d20.45879195550254!3f94.74359819015304!4f9.387140177821493!5f2.4612856431912924" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

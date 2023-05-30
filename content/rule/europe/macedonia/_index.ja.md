@@ -14,6 +14,7 @@ sc: [
     ["../albania/", "アルバニア"],
     ["../montenegro/", "モンテネグロ"],
     ["../serbia/", "セルビア"],
+    ["../bulgaria/", "ブルガリア"],
     ]
 ---
 
@@ -22,7 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mk</span></li>
-        <li>公用語はマケドニア語（македонски јазик）でキリル文字を使用する</li>
+        <li>公用語はマケドニア語（македонски јазик）でキリル文字を使用<span class="quiz">する</span></li>
         <li>ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える</li>
         <li>反射板の周りが<span class="quiz">黒</span>色に塗られており<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}</li>
         <li>ガードレールについてセルビアやモンテネグロと異なり丸みを帯びている</li>

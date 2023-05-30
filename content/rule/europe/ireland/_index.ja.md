@@ -56,6 +56,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685216287384!6m8!1m7!1s6vhDzf7GwjB54VMnWx4RHQ!2m2!1d52.34498049329078!2d-8.977990093250444!3f296.53485888864986!4f-8.268882013562873!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681292381213!6m8!1m7!1suH79aLwf5wT-dtDeZBZr3A!2m2!1d52.27008385403244!2d-9.703819887934827!3f316.79837317689214!4f-17.086560765260117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+イギリスかどうか分からないとき黄色の点線があるならアイルランド{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685413411571!6m8!1m7!1sZA3M_YuaJljvNQs49exU1Q!2m2!1d53.20922257627343!2d-6.708624526087777!3f254.1490726175612!4f-10.407247295680193!5f1.5374242984310151" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
@@ -79,7 +87,7 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">石がたくさんある地域ではDry stone{{% by "https://en.wikipedia.org/wiki/Dry_stone" "wiki" "Dry stone" %}}を使って作られた石壁が多い（西の方のBurren周辺など）</li>
+        <li class="no-evidence">石がたくさんある地域ではDry stone{{% by "https://en.wikipedia.org/wiki/Dry_stone" "wiki" "Dry stone" %}}を使って作られた石壁が多い。たとえば西の方のBurren周辺など。</li>
     </ul>
 </div>
 
