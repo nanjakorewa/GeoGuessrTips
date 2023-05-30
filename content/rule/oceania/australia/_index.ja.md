@@ -154,6 +154,7 @@ sc: [
         <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
         <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">NA</span>の電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
+        <li><span class="quiz">TAZ</span>の電柱には緑色の何かが巻いてある</li>
         <li><span class="quiz">WAとVIC</span>の電柱には山の形のものがある</li>
     </ul>
 </div>
@@ -174,6 +175,12 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682876456537!6m8!1m7!1shd7Z7v-D90HQqyG7kY9b8g!2m2!1d-12.46811351660095!2d130.9896766812721!3f317.6882480346222!4f2.9617063585158974!5f2.8082921195720525" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "TAZ（タスマニア）" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685404001233!6m8!1m7!1s0Vn_4N358KlMjKjwH83vNQ!2m2!1d-41.41784987221105!2d147.2802834785233!3f119.25273213616062!4f7.71036244768473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685404021090!6m8!1m7!1sRYO6uPlcnWbLGRP_1jiaFw!2m2!1d-41.09903761842133!2d145.7259489172317!3f128.13946562875705!4f19.612412263962952!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "WAとVIC" %}}

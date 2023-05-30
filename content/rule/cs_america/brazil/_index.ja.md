@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "BR.svg"
 jetro_detail: true
 jogmec_detail: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../paraguay/", "パラグアイ"],
@@ -173,7 +174,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
         <li>特定の地域や州が分かる木
             <ul>
                 <li>パラナ松：パラナ松{{% ref "https://en.wikipedia.org/wiki/Araucaria_angustifolia" "Araucaria angustifolia" %}}は<span class="quiz">パラナ</span>州周辺{{% by "neckoluv" "twitch" %}}</li>
-                <li>ババスの木：ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
+                <li>ババスの木：ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}、それ以外でも南側全域で見られる</li>
             </ul>
         </li>
     </ul>
@@ -195,7 +196,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 </div>
 
 {{% notice tip %}}
-ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}
+ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}に多く、それ以外でも南側全域で見られる
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
