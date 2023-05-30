@@ -174,6 +174,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
         <li>特定の地域や州が分かる木
             <ul>
                 <li>パラナ松：パラナ松{{% ref "https://en.wikipedia.org/wiki/Araucaria_angustifolia" "Araucaria angustifolia" %}}は<span class="quiz">パラナ</span>州周辺{{% by "neckoluv" "twitch" %}}</li>
+                <li>ブラジルロウヤシ：<span class="quiz">セアラー</span>州を中心とした北東部</li>
                 <li>ババスの木：ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}、それ以外でも南側全域で見られる</li>
             </ul>
         </li>
@@ -190,8 +191,17 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 この木は<span class="quiz">パラナ</span>州周辺{{% by "neckoluv" "twitch" %}}
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "ババスの木" %}}
+{{% tab "ブラジルロウヤシ" %}}
 <div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Carnauba.jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Link</a></p>
+</div>
+
+{{% notice tip %}}
+この木は<span class="quiz">セアラー</span>州周辺
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "ババスの木" %}}
+<div class="googlemap-if unclickable">
 <img src="2023-05-07-20-45-47.png" />
 </div>
 
