@@ -69,14 +69,23 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">コシツェ（Košice）はバスが<span class="quiz">が黄色と水色</span></li>
+        <li class="no-evidence">Košiceはバスが<span class="quiz">が黄色と水色</span></li>
     </ul>
 </div>
 
 {{% tabs  %}}
-{{% tab "コシツェ（Košice）" %}}
+{{% tab "Žilina" %}}
 {{% notice tip %}}
-全体的に黄色と水色（？）
+全体的に黄色と緑色
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685439314254!6m8!1m7!1sfbkFN7iO6IiQme1OyOblMQ!2m2!1d49.21990563561668!2d18.74878171570621!3f300.2983318816846!4f-4.259156806879972!5f3.108740984799686" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685439295221!6m8!1m7!1sFhAC3_v24c5xWFj1n7n8Wg!2m2!1d49.22061930786143!2d18.74535392772265!3f236.22017763439084!4f-2.9957731734657216!5f3.0279931666712927" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Košice" %}}
+{{% notice tip %}}
+全体的に黄色と水色（？）だけどポールは周りの町にも同じ色のものが結構あるらしかった。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439075492!6m8!1m7!1sn9C3ZGquFFRDUV3naf2jFg!2m2!1d48.71932860313007!2d21.26469050469173!3f56.40935971111108!4f-9.629869768487197!5f0.7820865974627469" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
