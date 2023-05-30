@@ -64,3 +64,24 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">コシツェ（Košice）はバスが<span class="quiz">が黄色と水色</span></li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "コシツェ（Košice）" %}}
+{{% notice tip %}}
+全体的に黄色と水色（？）
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685439075492!6m8!1m7!1sn9C3ZGquFFRDUV3naf2jFg!2m2!1d48.71932860313007!2d21.26469050469173!3f56.40935971111108!4f-9.629869768487197!5f0.7820865974627469" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685439090006!6m8!1m7!1sHqIs0KoLS6pOip-uAb5UYA!2m2!1d48.62731385184814!2d21.70709577744244!3f24.522011659814055!4f-14.424229268256127!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685439115279!6m8!1m7!1sm90w-mNPyV5wCEXW81Hrtw!2m2!1d48.71807235897145!2d21.26508792237363!3f53.858294504185764!4f-5.925298793927638!5f2.578828786716657" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs  %}}

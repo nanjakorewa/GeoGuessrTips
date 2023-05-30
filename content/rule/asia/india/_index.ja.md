@@ -254,7 +254,7 @@ sc: [
         <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違う
             <ul>
                 <li>窓の周りが黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
-                <li>窓の周りが黄色・下が黄色：<span class="quiz">南東（Telanana・Tamil Nadu）</span>に行ってみる？</li>
+                <li>窓の周りが黄色・下が黄色：<span class="quiz">南</span>に行ってみる？</li>
                 <li>窓の周りが黄色・下が黒色：<span class="quiz">ムンバイなどのマハーラーシュトラ</span>の都市に多め？{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
             </ul>
         </li>
@@ -272,10 +272,12 @@ sc: [
 {{% /tab %}}
 {{% tab "黄色・黄色" %}}
 {{% notice tip %}}
-黄色の時は南東（Telanana・Tamil Nadu）に行ってみる？
+黄色の時は<span class="quiz">南</span>に行ってみる？
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685423440831!6m8!1m7!1sR9f3YlIxYbfb7PmyuLdViA!2m2!1d9.916791413045814!2d78.11770567763391!3f299.8459638803495!4f-7.552750161315913!5f3.2000641429283365" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685423663844!6m8!1m7!1sX7oLEp8Z_YYY29EctqxHbw!2m2!1d14.44073365883778!2d79.99211186913298!3f10.504973534499292!4f-10.28303530448666!5f2.807657372073357" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -288,7 +290,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ただし似た雰囲気のものは東海岸の街にもあったので明確な判断基準なのかは不明。
+ただし似た雰囲気のものは東海岸の街にもあったので100%ではなさそう。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685128260587!6m8!1m7!1sMynsRgxqocRxrdZUemCdZQ!2m2!1d19.80653467636733!2d85.83721433799168!3f26.824904239981084!4f-8.188162902118862!5f2.7673678437924703" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
