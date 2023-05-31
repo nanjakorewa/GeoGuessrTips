@@ -160,11 +160,12 @@ sc: [
 {{% tabs  %}}
 {{% tab "土の分布" %}}
 {{% notice tip %}}
-真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？（画像出典：By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a>）
+真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="2023-04-26-09-05-08.png" style="max-width:60%;"/>
+<p>By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a></p>
 </div>
 
 {{% /tab %}}
