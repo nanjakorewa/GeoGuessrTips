@@ -100,6 +100,9 @@ div.main-description li ul {
   margin: 0.1em;
 }
 
+a.important-card {
+  font-weight: bold;
+}
 
 div.noshow-area {
   display: none !important;

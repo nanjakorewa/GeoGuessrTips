@@ -8,8 +8,12 @@
         </div>
         {{ "<!-- topic-item -->" | safeHTML }}
         {{ range (where .Site.Pages "Type" "docs") }}
+        {{ if eq .Params.weight 1 }}
+        <div class="col-lg-8 col-sm-3 mb-3">
+        {{ else }}
         <div class="col-lg-4 col-sm-3 mb-3">
-          <a href="{{ .Permalink }}" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
+        {{ end }}
+          <a href="{{ .Permalink }}" class="px-3 py-2 bg-white shadow d-block match-height apply-bg {{ if eq .Params.weight 1 }}important-card{{ end }}">
             <!--<i class="{{ .Params.Icon }} icon text-primary d-block mb-4"></i>-->
             <h3 class="mb-3 mt-0">{{ .Title }}</h3>
             <p class="mb-0">{{ .Params.Description }}</p>
