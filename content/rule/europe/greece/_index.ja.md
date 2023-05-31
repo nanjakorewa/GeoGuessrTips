@@ -60,7 +60,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>2から始まる市外局番が書いてあるならば場所を絞り込める</li>
-        <li>トルコの近くの離島もギリシャ領</li>
+        <li>トルコの近くの離島もぎりぎりギリシャ領</li>
     </ul>
 </div>
 
