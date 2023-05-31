@@ -124,7 +124,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 </div>
 
 {{% notice tip %}}
-南側でだけパームの生産が多いらしい。ただし木自体はダカールやゴレ島のような場所でも生えている。
+南側でだけパームオイルの生産が多いらしい。ただし木自体はダカールのような場所にもたまに生えているっぽい。
 {{% /notice %}}
 
 {{% /tab %}}

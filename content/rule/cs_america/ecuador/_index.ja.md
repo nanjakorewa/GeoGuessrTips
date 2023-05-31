@@ -18,6 +18,7 @@ is_has_distinctive_bollard: true
         <li>ドメインは<span class="quiz">.ec</span></li>
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>標識の裏が凹凸のないフラットな感じのものが多い{{% by %}}</li>
+        <li>タクシーやバスのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色</li>
         <li class="no-evidence">ボラードに２つ反射板が巻かれている・２つ反射板が付いているならエクアドルかも</li>
     </ul>
     {{% rd cs_america ecuador verysmall %}}
@@ -32,6 +33,22 @@ is_has_distinctive_bollard: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819722721!6m8!1m7!1sFYmTuXWCsTDkTu4RxpEy0Q!2m2!1d-3.471245261520406!2d-79.15938137617697!3f267.14150262468917!4f-3.4847043387237306!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+タクシーやバスのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680194991910!6m8!1m7!1sUFMWj1-bzvML0e3eoXRPvQ!2m2!1d-0.1818819719714762!2d-78.4755667768945!3f155.24823829202202!4f-4.463244081889812!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680195049997!6m8!1m7!1sqd2PX8ip1eNeZcc9r-jjIg!2m2!1d-3.987951235198076!2d-79.20535577616626!3f15.603256886714536!4f-12.127605371331938!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
+![](2023-06-01-07-55-51.png)
+
+By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">Zcarstvnz</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72312390">Link</a>
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -39,12 +56,6 @@ is_has_distinctive_bollard: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682820181570!6m8!1m7!1sMB6hh_C1Vr9n-Ndt7PEwqQ!2m2!1d-1.593348468378649!2d-77.86203050487869!3f156.68857236027182!4f-14.639443130724871!5f1.6116789078129292" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682820070069!6m8!1m7!1sKLcFpIheXqFf79Iz08ks0w!2m2!1d-1.540436530922929!2d-79.52829212492459!3f36.23106651111989!4f-4.678056091155824!5f3.2786393840952575" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682820343449!6m8!1m7!1sw6N8TpIkM_d115ZuRsT7tg!2m2!1d-1.602807909622897!2d-77.85391960097269!3f131.72274571232944!4f-1.799478332475374!5f2.9525475507117247" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680194991910!6m8!1m7!1sUFMWj1-bzvML0e3eoXRPvQ!2m2!1d-0.1818819719714762!2d-78.4755667768945!3f155.24823829202202!4f-4.463244081889812!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680195049997!6m8!1m7!1sqd2PX8ip1eNeZcc9r-jjIg!2m2!1d-3.987951235198076!2d-79.20535577616626!3f15.603256886714536!4f-12.127605371331938!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
