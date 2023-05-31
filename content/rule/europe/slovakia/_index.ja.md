@@ -69,11 +69,27 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">Košiceはバスが<span class="quiz">が黄色と水色</span></li>
+        <li>おそらく都市の旗に合わせた色のバスやポールがある
+            <ul>
+                <li class="no-evidence">Košiceはバスが<span class="quiz">が黄色と水色</span></li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs  %}}
+{{% tab "Bratislava" %}}
+{{% notice tip %}}
+全体的に赤色のバスが多い
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/129661548@N06/42080443314/in/photolist-277vgJJ-25rTQWQ-Hgy94w-L4Xieh-25pjgei-25rTQSm-JxZpLi-27CjCAf-277vgAC-JxZomp-JxZpzg-JxZoJ8-28HR2PP-JxZoiP-JxZoeF-FK5HvV-277vh4w-JxZpfZ-25rTS3h-L4Xhm5-28DpAvY-28HR2Hr-25rTRjJ-277vguA-JxZpvi-Hgy9pG-JxZpBR-27CjCEU-JxZpte-277vgTm-JxZpmk-27CjCBN-27kXmFi-JxZp22-L4Xi2U-277vhbf-JxZpf8-JxZpRP-JxZpH2-28HR2Ka-JxZp8z-28HR2Ng-25rTQU5-JxZp4g-JxZoPZ-eyxtbn-eeeAVp-eekizu-eLeh2G-eek4id" title="SOR NB18, #2246, DP Bratislava"><img src="https://live.staticflickr.com/880/42080443314_5a2bfcdfd9_z.jpg" width="640" height="480" alt="SOR NB18, #2246, DP Bratislava"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="cityflag/Coat_of_Arms_of_Bratislava.svg" width="200px">
+</div>
+{{% /tab %}}
 {{% tab "Žilina" %}}
 {{% notice tip %}}
 全体的に黄色と緑色
@@ -82,15 +98,44 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439314254!6m8!1m7!1sfbkFN7iO6IiQme1OyOblMQ!2m2!1d49.21990563561668!2d18.74878171570621!3f300.2983318816846!4f-4.259156806879972!5f3.108740984799686" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439295221!6m8!1m7!1sFhAC3_v24c5xWFj1n7n8Wg!2m2!1d49.22061930786143!2d18.74535392772265!3f236.22017763439084!4f-2.9957731734657216!5f3.0279931666712927" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+<div class="googlemap-if unclickable">
+<img src="cityflag/Coat_of_Arms_of_Žilina.svg" width="40%">
+</div>
+{{% /tab %}}
+{{% tab "Nitra" %}}
+{{% notice tip %}}
+全体的に青色
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685567673093!6m8!1m7!1s-iwGZvFAUyO8D7LmSld9vA!2m2!1d48.30724296112083!2d18.08553697367951!3f125.8031835780313!4f-4.928507275795425!5f1.6739744815296138" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="googlemap-if unclickable">
+<img src="cityflag/Coat_of_Arms_of_Nitra.svg" width="40%">
+</div>
 {{% /tab %}}
 {{% tab "Košice" %}}
 {{% notice tip %}}
-全体的に黄色と水色（？）だけどポールは周りの町にも同じ色のものが結構あるらしかった。
+全体的に黄色と青色だけどポールは周りの町にも同じ色のものが結構あるらしかった。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439075492!6m8!1m7!1sn9C3ZGquFFRDUV3naf2jFg!2m2!1d48.71932860313007!2d21.26469050469173!3f56.40935971111108!4f-9.629869768487197!5f0.7820865974627469" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439090006!6m8!1m7!1sHqIs0KoLS6pOip-uAb5UYA!2m2!1d48.62731385184814!2d21.70709577744244!3f24.522011659814055!4f-14.424229268256127!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439115279!6m8!1m7!1sm90w-mNPyV5wCEXW81Hrtw!2m2!1d48.71807235897145!2d21.26508792237363!3f53.858294504185764!4f-5.925298793927638!5f2.578828786716657" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="googlemap-if unclickable">
+<img src="cityflag/Flag_of_Košice.png" width="40%">
+</div>
+{{% /tab %}}
+{{% tab "Banská Bystrica" %}}
+{{% notice tip %}}
+赤白？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685567849461!6m8!1m7!1sLLxqWnD_8slsBDhfIkOYog!2m2!1d48.73344303192824!2d19.14955639344997!3f344.1531892650964!4f-16.25832495199269!5f1.426259876124274" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685568029013!6m8!1m7!1szYgFZCZPCHxs8tdasbJE0g!2m2!1d48.7415384793235!2d19.17507602397361!3f205.2811025282949!4f-20.920188390277985!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="googlemap-if unclickable">
+<img src="cityflag/Coat_of_Arms_of_Banská_Bystrica.svg" width="40%">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
