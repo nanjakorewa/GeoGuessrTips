@@ -57,12 +57,10 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 <div class="main-desciption city-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>2から始まる市外局番が書いてあるならば場所を絞り込める</li>
         <li>トルコの近くの離島もギリシャ領</li>
-        <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
-        <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
     </ul>
 </div>
 
@@ -78,6 +76,18 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/hoVOxtPQlH">pic.twitter.com/hoVOxtPQlH</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1664031998334353408?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
+        <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "ゴミ箱" %}}
 {{% notice tip %}}
 ゴミ箱に都市名が書いてあることがあるのでゴミ箱にギリシャ文字があるか確認して、都市名に見えたらマップで探してみる。左がΚομοτηνή、右がΑθήνα。
