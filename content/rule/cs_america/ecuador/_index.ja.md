@@ -39,8 +39,7 @@ is_has_distinctive_bollard: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680194991910!6m8!1m7!1sUFMWj1-bzvML0e3eoXRPvQ!2m2!1d-0.1818819719714762!2d-78.4755667768945!3f155.24823829202202!4f-4.463244081889812!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680195049997!6m8!1m7!1sqd2PX8ip1eNeZcc9r-jjIg!2m2!1d-3.987951235198076!2d-79.20535577616626!3f15.603256886714536!4f-12.127605371331938!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bartlinssen/27492854789/" title="Untitled"><img src="https://live.staticflickr.com/4634/27492854789_3fb1d86769_z.jpg" width="640" height="480" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
