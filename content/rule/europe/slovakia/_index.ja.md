@@ -80,7 +80,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "Bratislava" %}}
 {{% notice tip %}}
-全体的に赤色のバスが多い
+全体的に赤色のバスが多い。赤の黄色のポールもあったけれど他の地域にあるのかは確認してない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/129661548@N06/42080443314/in/photolist-277vgJJ-25rTQWQ-Hgy94w-L4Xieh-25pjgei-25rTQSm-JxZpLi-27CjCAf-277vgAC-JxZomp-JxZpzg-JxZoJ8-28HR2PP-JxZoiP-JxZoeF-FK5HvV-277vh4w-JxZpfZ-25rTS3h-L4Xhm5-28DpAvY-28HR2Hr-25rTRjJ-277vguA-JxZpvi-Hgy9pG-JxZpBR-27CjCEU-JxZpte-277vgTm-JxZpmk-27CjCBN-27kXmFi-JxZp22-L4Xi2U-277vhbf-JxZpf8-JxZpRP-JxZpH2-28HR2Ka-JxZp8z-28HR2Ng-25rTQU5-JxZp4g-JxZoPZ-eyxtbn-eeeAVp-eekizu-eLeh2G-eek4id" title="SOR NB18, #2246, DP Bratislava"><img src="https://live.staticflickr.com/880/42080443314_5a2bfcdfd9_z.jpg" width="640" height="480" alt="SOR NB18, #2246, DP Bratislava"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
