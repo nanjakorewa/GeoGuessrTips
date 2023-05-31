@@ -21,6 +21,9 @@ dont_show_usda: true
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
     </ul>
     {{% rd middle_east turkey verysmall %}}
+    <div class="sign-area sign-area-clickable licence-area">
+        <p>一方通行の標識：By <a href="//commons.wikimedia.org/w/index.php?title=User:Gigillo83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gigillo83 (page does not exist)">Gigillo83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=38084412">Link</a></p>
+    </div>
 </div>
 
 {{% tabs  %}}
@@ -72,7 +75,7 @@ dont_show_usda: true
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685525130633!6m8!1m7!1szsgAi1332XofCDcxT9x2Mw!2m2!1d38.51278890871632!2d43.37550402100663!3f96.35953036792128!4f-1.3619215079950067!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685525130633!6m8!1m7!1szsgAi1332XofCDcxT9x2Mw!2m2!1d38.51278890871632!2d43.37550402100663!3f96.35953036792128!4f-1.3619215079950067!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685558331143!6m8!1m7!1sbSkoKu-v3HC4r8gs3_yuow!2m2!1d40.32365767153342!2d36.55327961996957!3f204.9768397483041!4f1.4712670917911908!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -88,11 +91,34 @@ dont_show_usda: true
 {{% tabs  %}}
 {{% tab "電話番号" %}}
 {{% notice tip %}}
-212→イスタンブールを含む西側かもといった感じで大体の位置推定ができる。ただし05~、08～も多くこれらは場所が分からないかも。
+212→イスタンブールを含む西側かもといった感じで大体の位置推定ができる。ただし05~、08～も多くこれらは場所が分からない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682124343498!6m8!1m7!1soavtCUP5-jYYp_V2xA792g!2m2!1d41.04250992296203!2d28.98642515603996!3f289.60900622705896!4f3.2878253103013293!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682124561524!6m8!1m7!1sKdxQ7eLvYJyjiOcZPrhw6g!2m2!1d41.04363221134001!2d28.98635001306301!3f279.22724503871007!4f-2.0998099344897696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>通り名の看板？</li>
+    </ul>
+</div>
+
+
+{{% tabs  %}}
+{{% tab "Ankara" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685557155453!6m8!1m7!1sLfjXwZTZQL1lSd7LpucFVQ!2m2!1d39.94464225500045!2d32.85448713564772!3f213.22166493493947!4f0.035134921699167876!5f2.674553034047748" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685557199306!6m8!1m7!1sE5j4dX6IU_ruh1bW9GpERA!2m2!1d39.97582411991183!2d32.90342327960887!3f198.02468006957434!4f0.349870839121607!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Antalya" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685557386082!6m8!1m7!1sFg5rSs_8ZTRJc7JpNKghBA!2m2!1d36.9557033940079!2d30.72367396314874!3f105.63881546455217!4f0.6160411884917494!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685557415778!6m8!1m7!1s8fnLobboHQrnzk_eTwCsHg!2m2!1d36.9766508496169!2d30.70234610257211!3f137.77209324666765!4f-0.8109974591268099!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

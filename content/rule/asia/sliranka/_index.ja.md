@@ -27,6 +27,7 @@ sc: [
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
         <li>後ろのナンバープレートは<span class="quiz">黄</span>色</li>
         <li>水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}標識も<span class="quiz">白黒のストライプ</span>のものが多い</li>
+        <li>一部で青・白・赤のGoogleCarが見られる{{% by %}}</li>
     </ul>
 </div>
 
@@ -79,6 +80,12 @@ sc: [
 <tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
+</div>
+{{% /tab %}}
+{{% tab "w-googlecar" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685558545219!6m8!1m7!1suYZVUguOqtLX3aqwH41Jzw!2m2!1d6.790834621766157!2d81.3302666882394!3f333.53313405477843!4f-34.961461072681836!5f2.9541794563692" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685558599916!6m8!1m7!1sj04lg2pP6meeFG5l-Uf-rQ!2m2!1d8.015481193317576!2d80.02533829118133!3f148.27437639995975!4f-30.12850269686998!5f2.0161286555061033" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
