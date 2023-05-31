@@ -60,6 +60,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>2から始まる市外局番が書いてあるならば場所を絞り込める</li>
+        <li>トルコの近くの離島もギリシャ領</li>
         <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
         <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
     </ul>
@@ -70,6 +71,11 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Greek_landline_area_codes_map.png#/media/File:Greek_landline_area_codes_map.png"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Greek_landline_area_codes_map.png/1200px-Greek_landline_area_codes_map.png" alt="Greek landline area codes map.png"></a></p>
 <p>By <a href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7%CF%82:244wiki" class="extiw" title="el:Χρήστης:244wiki">244wiki</a> - <span class="int-own-work" lang="en">Own work</span>, Attribution, <a href="https://commons.wikimedia.org/w/index.php?curid=93910931">Link</a>（<a href="https://de.m.wikipedia.org/wiki/Datei:Greek_landline_area_codes_map.png">ライセンスの詳細</a>）</p>
+</div>
+{{% /tab %}}
+{{% tab "トルコの近くの離島" %}}
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/hoVOxtPQlH">pic.twitter.com/hoVOxtPQlH</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1664031998334353408?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "ゴミ箱" %}}
