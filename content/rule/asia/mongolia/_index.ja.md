@@ -75,8 +75,8 @@ Google Carが特徴的
 
 {{% tabs %}}
 {{% tab "植生" %}}
-<div class="googlemap-if unclickable">
-<img src="map6.gif" />
+<div class="googlemap-if">
+<div class="unclickable"><img src="map6.gif" /></div>
 <div class="description-wide">
 Legend tour Ltd., INFORMATION FOR TRAVELERS GEOGRAPHICAL FEATURES, <a href="https://www.legendtour.ru/eng/mongolia/informations/geographical_features.shtml">Link</a>, 2023年5月1日に利用.
 </div>
