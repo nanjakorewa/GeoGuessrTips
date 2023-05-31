@@ -55,4 +55,11 @@ jogmec_detail: true
 </div>
 
 {{% /tab %}}
+{{% tab "③消火栓にスノーポール" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685535877955!6m8!1m7!1sWaUj-BGIY9CK6RIANORv6w!2m2!1d60.47818140419869!2d-151.0787955517697!3f138.96030170298064!4f-6.293789384101572!5f3.1842454057249845" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685536006213!6m8!1m7!1s2NFMwLkwPDNmSh02GK_tIA!2m2!1d61.22606668836757!2d-149.7972196084691!3f289.99894358196974!4f-18.40390705950165!5f1.6697826361213726" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
