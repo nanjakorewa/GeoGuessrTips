@@ -52,20 +52,15 @@ add_rule_link: true
 ## エクアドル
 
 {{% tabs  %}}
-{{% tab "赤２つ" %}}
+{{% tab "赤２つ①" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819722721!6m8!1m7!1sFYmTuXWCsTDkTu4RxpEy0Q!2m2!1d-3.471245261520406!2d-79.15938137617697!3f267.14150262468917!4f-3.4847043387237306!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
-## ボリビア
-
-{{% tabs  %}}
-{{% tab "白オレンジ" %}}
+{{% tab "赤２つ②" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680005488433!6m8!1m7!1s5FwH1zJOYiVxwWkGdt8h4A!2m2!1d-16.31947805230926!2d-67.93097111220254!3f130.42249240679877!4f-24.887135847730434!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685524453632!6m8!1m7!1soV_-jea16iZ_LCBlrGb6JA!2m2!1d-2.052585962945459!2d-79.87120668824369!3f209.86688513219138!4f-10.076193261762015!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

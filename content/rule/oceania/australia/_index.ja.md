@@ -30,7 +30,7 @@ sc: [
         <li><span class="quiz">ユーカリ</span>の木が沢山あり電柱も<span class="quiz">ユーカリ</span>の木からできることが多い</li>
         <li>GIVE WAYが黒い文字ならば<span class="quiz">オーストラリア</span>・赤い文字ならば<span class="quiz">ニュージーランド</span>{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}</li>
         <li>オーストラリアのボラードはニュージーランドのようにぐるりと表裏にかけて塗られているわけではないので区別がつく{{% by "https://www.plonkit.net/new-zealand" "plonkit" %}}。</li>
-        <li>「M1」のような道路番号はオーストラリアにもあるけれどフォントが異なる</li>
+        <li>「M1」のような道路番号は{{% goto "../../africa/south-africa/" "南アフリカ共和国" %}}にもあるけれどフォントが異なる</li>
     </ul>
     {{% rd oceania australia verysmall %}}
 </div>
