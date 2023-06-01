@@ -71,10 +71,18 @@ plonkit: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564988130!6m8!1m7!1sC5l0WwX7oP6qBKLQeWO4Ew!2m2!1d-33.41193253939083!2d-70.58602109747619!3f159.42023351415406!4f-5.660628450123696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564965492!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f171.5854252441635!4f-10.860510409199591!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% lb 50 %}}
+![](2023-06-01-19-14-51.png)
+
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Apino (page does not exist)">Apino</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4404415">Link</a>, 画像はオリジナルから加工しています
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
-リチウム関連企業（Sociedad Química y Minera de Chile（SOQUIMICH、SQM）、Albemarle）や銅関連の企業の施設があるかも。でもストリートビューで行くことができる場所はほぼ無い。
+リチウム関連企業（Sociedad Química y Minera de Chile；いわゆるSOQUIMICH・SQM、Albemarle）や銅関連の企業の施設があるかも。でも都会には拠点が無いのでストリートビューで行くことができる場所は限定されているかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681566698923!6m8!1m7!1sxaOu6D3hWt1iN_ZoESdjGg!2m2!1d-23.76015486133888!2d-70.31000667891672!3f271.6616207675847!4f-3.6711590364433846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
