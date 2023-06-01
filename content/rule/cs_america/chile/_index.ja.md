@@ -40,7 +40,7 @@ plonkit: true
 
 
 {{% notice tip %}}
-標識の棒の溝 {{% by "https://www.plonkit.net/chile" "plonkit" %}} <span style="font-size: small">とコメントで教えてもらいました</span>
+標識の棒にも電柱のような感じの溝がある（{{% by "https://www.plonkit.net/chile" "plonkit" %}} <span style="font-size: small">とコメントで教えてもらいました</span>）
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685613779031!6m8!1m7!1sQGpNknTcuFVD8u9JUTPXPA!2m2!1d-33.92383950201787!2d-71.2492240456672!3f238.21972308875198!4f-12.230186575228657!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
