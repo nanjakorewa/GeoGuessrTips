@@ -66,7 +66,7 @@ is_has_distinctive_googlecar: true
 </div>
 
 {{% tabs %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="./20230522-palm.png" width="40%" />
 </div>

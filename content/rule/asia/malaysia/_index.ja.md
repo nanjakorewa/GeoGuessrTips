@@ -94,7 +94,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 </div>
 
 {{% tabs %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-11-14-03-32.png" width="70%"/>
 </div>

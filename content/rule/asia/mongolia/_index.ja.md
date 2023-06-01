@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "MN.svg"
 jetro_detail: true
+dont_show_usda: true
 ---
 
 <div class="main-desciption country-description">
@@ -69,6 +70,12 @@ Google Carが特徴的
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>砂漠・ステップ・森林と多様な植生が分布している</li>
+        <li>{{% goto "https://docs.google.com/document/d/1W_QK69BXMHUZXI5VdNH93_aLhTd9SQzNYhRLrh_-ZVA/mobilebasic#h.yw3fyiefi6c0" "The Mongolian Meta" %}}が素晴らしくまとまっているのでこれを見る
+            <ul>
+                <li>written by @ kommu # 0807</li>
+                <li>translated by dylan2dank (DyIan#0001)</li>
+                <li style="opacity: 0.3;">Bonne continuation,</li>
+            </ul>
     </ul>
 </div>
 

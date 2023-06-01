@@ -151,7 +151,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="http
 </div>
 
 {{% tabs %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-19-06-07.png" width="50%"/>
 </div>

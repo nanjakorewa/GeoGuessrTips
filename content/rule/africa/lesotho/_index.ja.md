@@ -34,9 +34,15 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682390837371!6m8!1m7!1s1W89EC1PLtlTObFXq7zE2g!2m2!1d-29.42822490992072!2d27.8858412246169!3f180.80215623144815!4f7.155903004182491!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682390713255!6m8!1m7!1sOBzT8IieUADlp3SFLPI0fw!2m2!1d-29.62631625839893!2d27.27334739470709!3f107.07002752967436!4f-16.56492662947666!5f2.5754457711345475" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685602996939!6m8!1m7!1szkNKD4ImceqLOggcfbwSqw!2m2!1d-29.28763903914886!2d29.04408772065672!3f334.9581609737825!4f-6.393755020269111!5f1.5341542795083254" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+伝統的な形の家がある
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="500" height="333" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

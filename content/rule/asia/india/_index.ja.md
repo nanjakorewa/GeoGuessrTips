@@ -220,7 +220,7 @@ sc: [
 </div>
 
 {{% tabs  %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-18-13-47-23.png" width="60%" />
 </div>

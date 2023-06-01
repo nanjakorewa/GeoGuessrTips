@@ -97,12 +97,10 @@ sc: [
 </div>
 
 {{% tabs %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-10-15-44-28.png" width="90%" />
 </div>
-
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/satanoid/4185133978/in/photolist-7nPUwo-8cxqVh-7fH3h-7fH2s-5fdnVH-FEc7up-61TVqz-7dEYU-5fdnRX-dxcGdD-7dF68-GHmuwV-aFFQ5v-aFErXZ-2mfYTfr-2mg54Ub-2mfUrp7-2mg34qy-2mfZMuZ-2mfUKZZ-aFc5ww-2mfV5rt-2mfV5rd-hDf8QY-2mfYTfb-2mfYTeE-2mg4PJh-2mfYD8t-4sLEJJ-daEHXP-tUJxv9-2mg3GRq-2mg57Rt-2mg54UB-2mfZBEt-2mfZwTz-2mfUc81-2mg3ndN-2mg4PEV-2mfY93Q-2mfYD6u-2mg388J-2mfYjTc-hjcQCu-hjcd3z-tkVvEg-fzxr7M-CDopZ7-ZF9SSS-2mfYjSR" title="IMG_0636"><img src="https://live.staticflickr.com/2503/4185133978_9788e6f211_w.jpg" width="400" height="300" alt="IMG_0636"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 {{% notice tip %}}
 アブラヤシは海沿いのエリアだけにある

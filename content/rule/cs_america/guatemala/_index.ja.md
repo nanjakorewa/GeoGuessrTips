@@ -65,7 +65,7 @@ Google Carが特徴的
 </div>
 
 {{% tabs %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-27-19-08-14.png" width="60%" />
 </div>

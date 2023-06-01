@@ -109,7 +109,7 @@ sc: [
 アメリカなどと同じくコーンと大豆の生産地は基本的にほぼ同じエリア、タイの場合も大豆は北の方のみ。
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "パーム" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-17-28.png" width="60%" />
 </div>
