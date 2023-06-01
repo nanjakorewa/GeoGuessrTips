@@ -12,6 +12,7 @@ jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../poland/", "ポーランド"],
+    ["../bulgaria/", "ブルガリア"],
     ]
 ---
 
@@ -19,6 +20,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ro</span></li>
+        <li>公用語はルーマニア語でラテン文字を使用する</li>
         <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多い。また背の高さあたりに<span class="quiz">黄</span>色のマーカーが付いていることがある。{{% by %}}</li>
         <li>ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。</li>
         <li class="no-evidence">家の前に何か箱があって、黄色いパイプが伸びている。</li>

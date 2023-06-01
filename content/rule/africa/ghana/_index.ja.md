@@ -51,3 +51,27 @@ is_has_distinctive_googlecar: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>農業や植生が場所によって異なる
+            <ul>
+                <li>アブラヤシやバナナの木は南部に多い</li>
+                <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=GH">Ghana Country Summary - U.S. Department of Agriculture(USDA)</a>・一部画像を加工しています</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "パーム" %}}
+<div class="googlemap-if unclickable">
+<img src="./20230522-palm.png" width="40%" />
+</div>
+{{% notice tip %}}
+アブラヤシやバナナの木は南部に多い
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}

@@ -95,7 +95,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 {{% notice tip %}}
-赤い丸の箇所にはパームの木のプランテーションがあるかも。特にコロンビア国境付近の道は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
+赤い丸の箇所にはアブラヤシのプランテーションがあるかも。特にコロンビア国境付近の道は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-23-04-26-04.png" width="90%">

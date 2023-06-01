@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hr</span></li>
         <li>公用語はクロアチア語（hrvatski）</li>
-        <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
+        <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% by "https://www.plonkit.net/croatia" "plonkit" %}}{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
         <li><span class="quiz">青い</span>消火栓 {{% by %}}を見かけるかも</li>
         <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・セルビア・モンテネグロ・トルコ・ポーランドのどれか</li>
         <li>「<span class="quiz">Ð</span>」の文字があるかも{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
@@ -39,19 +39,19 @@ sc: [
 
 
 {{% notice tip %}}
-<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンで都市部のほぼ全域に展開するがセルビア二も少し存在する。規模が大きくなるとKonzum→Konzum Maxi→Super Konzumと名前がかわるらしい。
+<span class="quiz">Tisak plus doo</span>はタバコ製品のクロアチア最大の販売代理店であり約850店舗以上存在する。
+<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある。規模が大きくなるとKonzum→Konzum Maxi→Super Konzumと名前がか変わるらしい。
 {{% /notice %}}
 
+
+<div class="googlemap-if">
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kaminskimateusz/43873050604" title="_DSC2315.jpg"><img src="https://live.staticflickr.com/1859/43873050604_5f01442a63_w.jpg" width="400" height="266" alt="_DSC2315.jpg"/></a>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685589718299!6m8!1m7!1svOW8VzK4E5SVBK6Ec4yVgw!2m2!1d43.51426562739039!2d16.43182698284475!3f352.251586271742!4f-5.24297329778031!5f2.66377219812185" width="230" height="266" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hile/27023806014/in/photolist-7jCuyg-WZkQKu-59yxc7-9b24Mr-Hb152U-4Qvnvc-5RDxaF-8qzBDb-6N2enw-2jJQd5B-2nAfamo-2nAkaEt-2jJR1d9-2jJLC74-2jJLC8g-2jJR1zw-2jJLCcE-2jJQd9z-2jJQdeE-2jJQdmZ-2jJLCiS-2jJLCjD-2jJLBTU-2jJLCgx-2jJQdTW-2jJR2mS-2jJLDBZ-2jJQenr-2jJR2NJ-2jJQduz-2jJR2ET-2jJQevs-2jJQcYz-2jJR2ov-2jJQdW1-2jJQe4f-2jJR33b-2jJQe6j-2jJR29c-2jJQeyy-2jJQdFw-2jJR2S1-2jJQdxF-2jJQefY-2jJLDbP-2jJR2fj-2jJLCBC-2jJQdAg-2jJQeBj-2jJR2bX" title="WP_20160612_21_07_39_Rich"><img src="https://live.staticflickr.com/7092/27023806014_a0254234a4_z.jpg" width="640" height="360" alt="WP_20160612_21_07_39_Rich"/></a>
-</div>
-
-{{% notice tip %}}
-<span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">ポーランド</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -77,6 +77,12 @@ sc: [
 By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23782215">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
+{{% notice tip %}}
+<span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a>
+</div>
 
 {{% /tab %}}
 {{% tab "w-road" %}}

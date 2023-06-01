@@ -40,11 +40,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Delhaize Serbiaというスーパーマーケットチェーンがある。ロゴにMAXIと書いてある。
+Delhaize Serbiaというスーパーマーケットチェーンがある。ロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685415870248!6m8!1m7!1sEe8WGNKb6X255jnGHmS0bg!2m2!1d44.81713681257121!2d20.45879195550254!3f94.74359819015304!4f9.387140177821493!5f2.4612856431912924" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/paul-mcclure/50147242083/" title="Maxi supermarket, brutalist commercial building, Aranđelovac, Serbia"><img src="https://live.staticflickr.com/65535/50147242083_dd515a43a7.jpg" width="500" height="400" alt="Maxi supermarket, brutalist commercial building, Aranđelovac, Serbia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}

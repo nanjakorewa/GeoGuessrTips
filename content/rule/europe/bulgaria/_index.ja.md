@@ -11,13 +11,17 @@ flag: "BG.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../romania/", "ルーマニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bg</span></li>
-        <li>公用語はブルガリア語（български）でキリル文字を使用する</li>
+        <li>公用語はブルガリア語（български）でキリル文字を使用<span class="quiz">する</span></li>
         <li>横断歩道の標識の線の数は<span class="quiz">4</span>本</li>
         <li>ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも</li>
         <li class="no-evidence"><span class="quiz">ブリキ製のような</span>ゴミ箱が通りや家の前に置いてある{{% by %}}</li>
