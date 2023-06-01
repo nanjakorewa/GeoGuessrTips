@@ -11,6 +11,7 @@ flag: "CL.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">
@@ -19,6 +20,7 @@ dont_show_usda: true
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.cl</span></li>
         <li>電柱の真ん中が<span class="quiz">へこんでる領域が長く区切りがない</span>{{% by %}}</li>
+        <li>標識の棒の溝 {{% by "https://www.plonkit.net/chile" "plonkit" %}}</li>
     </ul>
     {{% rd cs_america chile verysmall %}}
 </div>
@@ -34,6 +36,15 @@ dont_show_usda: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680517458421!6m8!1m7!1sj87a2602lDx_7xK8XCx7mA!2m2!1d-41.31807605187193!2d-72.98315785097451!3f143.22033753587303!4f-0.9517441916076734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564909201!6m8!1m7!1sX12oSDuYLiuvWYOCX5t0ig!2m2!1d-36.6096391248477!2d-72.09410614111412!3f129.0225067750198!4f-3.3053151328567054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+標識の棒の溝 {{% by "https://www.plonkit.net/chile" "plonkit" %}} <span style="font-size: small">とコメントで教えてもらいました</span>
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685613779031!6m8!1m7!1sQGpNknTcuFVD8u9JUTPXPA!2m2!1d-33.92383950201787!2d-71.2492240456672!3f238.21972308875198!4f-12.230186575228657!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685613868452!6m8!1m7!1snI-nNoViEQq43Iw0xEVPjQ!2m2!1d-44.32534202588542!2d-72.55720184855173!3f348.06433912694047!4f-4.991914717093707!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
