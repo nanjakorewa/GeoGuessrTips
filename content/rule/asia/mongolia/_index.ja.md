@@ -74,7 +74,7 @@ Google Carが特徴的
             <ul>
                 <li>written by @ kommu # 0807</li>
                 <li>translated by dylan2dank (DyIan#0001)</li>
-                <li style="opacity: 0.3;">Bonne continuation,</li>
+                <li style="opacity: 0.2;transition: all 0.5s 0s ease;" class="hover-opacity-1">Bonne continuation,</li>
             </ul>
     </ul>
 </div>

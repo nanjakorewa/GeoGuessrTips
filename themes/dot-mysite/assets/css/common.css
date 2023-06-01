@@ -917,3 +917,8 @@ div.licence-area a {
 i.fa-map-signs {
   margin-bottom: 0;
 }
+
+.hover-opacity-1:hover {
+  transition: all 0.5s 0s ease;
+  opacity: 1 !important;
+}
