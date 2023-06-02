@@ -32,7 +32,7 @@ sc: [
         <li>Ļ・ļの文字が特徴的。Ł・łならば{{% goto "../poland/" "ポーランド" %}}かも。</li>
         <li class="no-evidence">土の雰囲気で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}</li>
     </ul>
-    {{% rd europe latvia small %}}
+    {{% rd "europe/baltic-state" latvia small %}}
     <div class="sign-area sign-area-clickable licence-area">
         <p>Priority road：By <a href="//commons.wikimedia.org/wiki/User:%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%94%E0%B9%94" title="User:มองโกเลีย๔๔">มองโกเลีย๔๔</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77591741">Link</a></p>
         <p>速度制限：By <a href="//commons.wikimedia.org/wiki/User:%E0%B8%A1%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%81%E0%B9%80%E0%B8%A5%E0%B8%B5%E0%B8%A2%E0%B9%94%E0%B9%94" title="User:มองโกเลีย๔๔">มองโกเลีย๔๔</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74819786">Link</a></p>
@@ -75,8 +75,3 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
-
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>

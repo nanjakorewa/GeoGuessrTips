@@ -82,7 +82,19 @@
             </ul>
           </div>
           {{ end }}
-
+          {{ if .Params.add_flagindex }}
+            <div class="bg-light p-4">
+              {{ if in .Permalink "/rule/" }}
+              <ul class="flag-list">
+              {{ template "section-tree-nav2" dict "sect" . "currentnode" $currentNode }}
+              </ul>
+              {{ else }}
+              <ul class="page-list">
+              {{ template "section-tree-nav" dict "sect" . "currentnode" $currentNode }}
+              </ul>
+              {{ end }}
+            </div>
+          {{ end }}
           <div class="content">
           {{.Content}}
 

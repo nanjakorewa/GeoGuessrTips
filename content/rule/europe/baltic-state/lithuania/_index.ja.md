@@ -32,7 +32,7 @@ sc: [
         <li>ラトビアと速度上限の標識などを比較したとき赤い線が<span class="quiz">細い</span></li>
         <li class="no-evidence">土の雰囲気で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}
     </ul>
-    {{% rd europe lithuania small %}}
+    {{% rd "europe/baltic-state" lithuania small %}}
     <div class="sign-area sign-area-clickable licence-area">
         <p>速度表記：By <a href="//commons.wikimedia.org/w/index.php?title=User:Gigillo83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gigillo83 (page does not exist)">Gigillo83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41042874">Link</a></p>
         <p>青看板：By <a href="//commons.wikimedia.org/w/index.php?title=User:Gigillo83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gigillo83 (page does not exist)">Gigillo83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41564249">Link</a></p>
@@ -70,7 +70,3 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
-
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>
