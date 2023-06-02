@@ -11,6 +11,7 @@ flag: "LV.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../estonia/", "エストニア"],
