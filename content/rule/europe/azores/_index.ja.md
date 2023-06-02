@@ -24,7 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ポルトガル領の離島でナンバープレート・標識・電柱はポルトガルと共通している</li>
-        <li><span class="quiz">テルセイラ島 (Ilha Terceira)</span>しかストリートビューがない</li>
+        <li><span class="quiz">テルセイラ</span>島と<span class="quiz">サンミゲル</span>島にストリートビューがある</li>
         <li class="no-evidence">白い壁にカラフルな縁取りの家が多い気がする</li>
         <li class="no-evidence">標識の棒がピンクのストライプの時がある</li>
     </ul>
@@ -48,21 +48,19 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-白い壁にカラフルな縁取りの家が多い気がする。また住宅街には高い建物はほとんどなく平屋も多い。
+白い壁の低い家やカラフルな縁取りの家が多い気がする。また住宅街には高い建物はほとんどなく平屋も多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683963487643!6m8!1m7!1sFiDnAseZnm6Ui_6e3EPVrw!2m2!1d38.66517976348365!2d-27.21827223146803!3f108.13412709709209!4f-2.405475486478096!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683963780675!6m8!1m7!1sremIfuDbmWalGIKBTjKivA!2m2!1d38.67007298609807!2d-27.25227159930157!3f356.2550419252415!4f-4.228255989906202!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% /tab %}}
-{{% tab "w-road" %}}
 {{% notice tip %}}
-標識の棒がピンクのストライプの時がある
+石壁とアジサイのような花がたくさん見られる
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683963896283!6m8!1m7!1smgL0I2glLUW9QueYskU6bg!2m2!1d38.65547957528934!2d-27.21517103100384!3f261.4704169532518!4f-12.105539896726825!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683963999004!6m8!1m7!1szS-_8s3xn7FAJXNwci3kng!2m2!1d38.79988593977416!2d-27.25870102255386!3f220.6031497799294!4f-5.576512645759408!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685749853745!6m8!1m7!1svmPlBMaG46BJY0bpNvh_rA!2m2!1d37.84864655863466!2d-25.84207319976016!3f259.97059142551706!4f-2.8238452582651092!5f1.53702134643046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685749880450!6m8!1m7!1sh1a9yeuzm3sEuWufIFIe_A!2m2!1d37.80502457107251!2d-25.70088024104551!3f19.641001348998394!4f-24.053433207392345!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
