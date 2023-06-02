@@ -29,6 +29,14 @@ plonkit: true
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}ルンタと呼ばれる経文が書かれたカラフルな祈祷旗やダルシン（死者を弔うための白い長い旗）が見られる{{% ref "https://dragontours.jp/about_religion.html" "ブータンの宗教について - ブータン旅行専門・ドラゴンツアーズ" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/rjsvlajean/5438968413/" title="108 Flags"><img src="https://live.staticflickr.com/5295/5438968413_7eced571ae_z.jpg" width="640" height="428" alt="108 Flags"/></a>
+<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% notice tip %}}ナンバープレートは<span class="quiz">赤い</span>
 {{% /notice %}}
 <div class="googlemap-if">
@@ -45,9 +53,8 @@ By Cfynn - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% notice tip %}}窓がたくさん規則的に並んだ建物がある
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nagarjun/15662531378/" title="Valley houses"><img src="https://live.staticflickr.com/7575/15662531378_1cd88ca808_z.jpg" width="640" height="400" alt="Valley houses"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/nagarjun/15662531378/" title="Valley houses"><img src="https://live.staticflickr.com/7575/15662531378_1cd88ca808_z.jpg" width="640" height="400" alt="Valley houses"/></a>
 </div>
-
 
 {{% /tab %}}
 {{% tab "w-road" %}}
