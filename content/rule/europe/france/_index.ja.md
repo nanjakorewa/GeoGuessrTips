@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../italy/", "イタリア"],
     ["../../n_america/saint-pierre-miquelon/", "サンピエール島およびミクロン島"],
+    ["../../africa/reunion/", "レユニオン"],
     ]
 ---
 

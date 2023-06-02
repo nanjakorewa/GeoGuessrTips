@@ -14,7 +14,8 @@ dont_show_usda: true
 is_has_many_trekker: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../../oceania/cocos_islands/", "ココス諸島"],
+    ["../../europe/france/", "フランス"],
+    ["../../africa/reunion/", "レユニオン"],
     ]
 ---
 
