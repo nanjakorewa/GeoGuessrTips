@@ -246,5 +246,8 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683550019499!6m8!1m7!1sfPzunmElpDidOg_VUb2ciQ!2m2!1d-37.81457962835244!2d144.9618442307953!3f310.30284468841296!4f-8.920018177956507!5f3.293433733170092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<div class="googlemap-if">
+<img src="VicRoads_Logo_2009.gif" width="200px" />
+</div>
 {{% /tab %}}
 {{% /tabs %}}

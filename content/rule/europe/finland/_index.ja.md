@@ -27,6 +27,7 @@ additional_link:
         <li>北欧で横断歩道が<span class="quiz">5</span>本はフィンランド</li>
         <li>標識の背景色に<span class="quiz">オレンジ色</span>が多い{{% by %}}</li>
         <li>速度標識の背景が<span class="quiz">オレンジ色</span>なのはフィンランドとスウェーデン</li>
+        <li>通り名に<span class="quiz">～tie</span>が多い</li>
         <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
     </ul>

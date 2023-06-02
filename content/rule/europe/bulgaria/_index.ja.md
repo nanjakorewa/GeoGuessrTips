@@ -25,6 +25,7 @@ sc: [
         <li>横断歩道の標識の線の数は<span class="quiz">4</span>本</li>
         <li>ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも</li>
         <li class="no-evidence"><span class="quiz">ブリキ製のような</span>ゴミ箱が通りや家の前に置いてある{{% by %}}</li>
+        <li class="no-evidence">なんか全体的に天気が曇りっぽい</li>
     </ul>
     {{% rd europe bulgaria verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -45,7 +46,7 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684400159136!6m8!1m7!1sLD0DHiT-1i4jqbCVXxk63w!2m2!1d42.69950587131878!2d27.25164082781438!3f17.68116711905936!4f15.48665152349841!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684400001761!6m8!1m7!1shPOyaH5BZ64DVmA8SFNXcA!2m2!1d43.98994940591337!2d22.86801721751684!3f296.6047001377266!4f30.046607751578037!5f3.323506360847502" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685686655089!6m8!1m7!1su5zi8GmsgBuZIxewtTzs5g!2m2!1d41.56858956631142!2d23.28066910976967!3f293.5192064772966!4f13.9036952889889!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 </div>
 
@@ -53,10 +54,10 @@ sc: [
 <img src="2023-05-28-21-42-59.png" width="70%">
 </div>
 
-{{% notice tip %}}ブリキ製のような丸いふたのゴミ箱が通りや家の前に置いてあるが他の国にもあるときはあるので即決はできない
+{{% notice tip %}}ブリキ製のような丸いふたのゴミ箱が通りや家の前に置いてある{{% by %}}が他の国にもあるときはあるので即決はできない
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684397297573!6m8!1m7!1sijk15BjtkjhARpFpQuDMGw!2m2!1d41.55520583327546!2d23.27139179633965!3f90.89721846934577!4f-19.704997173911366!5f3.2025102608093046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685686163453!6m8!1m7!1sNgqFjDmRQ29seLGnHAi_bg!2m2!1d43.41874758508143!2d24.61598884902133!3f296.7048354527468!4f-9.382264656808559!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684397406967!6m8!1m7!1sUPLtg7HroIVen5_oVH1Tzg!2m2!1d42.70149352505604!2d27.25106514590047!3f317.99502161880133!4f-21.334557205798646!5f1.5382304235558601" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -66,6 +67,14 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682023318612!6m8!1m7!1s84EatgUD0lwZGQzlxBiPNA!2m2!1d42.59806937010458!2d27.35791417684463!3f323.02484627831154!4f-10.720130413835022!5f3.3140585619383063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+{{% goto "../latvia/" "ラトビア" %}}にありそうな電柱の形{{% by "niwaisound" "twitch"  %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685686910810!6m8!1m7!1shexgeXnetxnr4JyPRjDooA!2m2!1d41.5752929120124!2d23.72656361007507!3f145.48466580573879!4f28.782738965011276!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "標識" %}}

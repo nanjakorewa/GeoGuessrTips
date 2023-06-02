@@ -20,6 +20,7 @@ plonkit: true
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bt</span></li>
         <li>ナンバープレートは<span class="quiz">赤い</span></li>
+        <li>特徴的な旗が見られる{{% ref "https://dragontours.jp/about_religion.html" "ブータンの宗教について" %}}</li>
         <li>Google Carが<span class="quiz">灰</span>色かつ<span class="quiz">左側</span>通行ならばブータンと確定する{{% by "https://www.plonkit.net/bhutan" "plonkit" %}}</li>
         <li>窓がたくさん規則的に並んだ建物がある</li>
     </ul>

@@ -126,14 +126,24 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 {{% tabs  %}}
-{{% tab "電話番号" %}}
-{{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。(画像：CC BY 3.0.
-<a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a> )。パリが `01` で、あとは時計回りなので他の国と比較すると覚えやすい。
-{{% /notice %}}
+{{% tab "電話番号①" %}}
 <div class="googlemap-if">
-<img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/>
+<p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
+<p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a></p>
 </div>
+
+{{% notice tip %}}
+電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。パリが `01` で、あとは時計回りなので他の国と比較すると覚えやすい。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "電話番号②" %}}
+<div class="googlemap-if">
+<p><img src="./clip/FR-area-code.png" width="60%" class="no-click"/></p>
+<p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a>を加工しています</p>
+</div>
+{{% notice info %}}
+コメントで教えてもらったついでに作ってみた図
+{{% /notice %}}
 {{% /tab %}}
 {{% tab "ドイツ付近" %}}
 <div class="googlemap-if">

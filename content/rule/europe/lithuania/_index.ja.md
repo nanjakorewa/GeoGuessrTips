@@ -25,6 +25,7 @@ sc: [
         <li>横断歩道は<span class="quiz">３</span>本</li>
         <li>バスの窓が<span class="quiz">４</span>つ</li>
         <li>標識に縁が<span class="quiz">ある</span></li>
+        <li>通り名の看板に「<span class="quiz">～g.・～tak.</span>」と書いてある</li>
         <li>数字が書かれた標識が道路に対して<span class="quiz">斜め</span></li>
         <li>ボラードを真上から見ると<span class="quiz">すこし厚みがある</span>、
         反射板が<span class="quiz">オレンジ</span>色のものが多い</li>
