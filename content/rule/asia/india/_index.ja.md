@@ -22,7 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.id</span></li>
-        <li>言語は<span class="quiz">ヒンディー語など（地域によって違う）</span></li>
+        <li>言語は<span class="quiz">ヒンディー語など地域によって異なる</span></li>
     </ul>
     {{% rd asia india verysmall %}}
 </div>
