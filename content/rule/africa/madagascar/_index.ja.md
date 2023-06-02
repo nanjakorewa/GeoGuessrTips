@@ -18,7 +18,7 @@ is_has_many_trekker: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mg</span></li>
-        <li>車の場所が無いので覚える</li>
+        <li>車の場所が無く場所も限定されているので覚える必要がある</li>
     </ul>
 </div>
 
