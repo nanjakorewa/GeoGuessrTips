@@ -85,3 +85,17 @@ heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリッ�
         <li>デンマークの自治領であるグリーンランドが出ることがある{{% goto "../../n_america/greenland/" "グリーンランド" %}}</li>
     </ul>
 </div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>レス島{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "Læsø" %}}</li>
+    </ul>
+</div>
+{{% tabs %}}
+{{% tab "レス島の伝統的な木造建築" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685715672800!6m8!1m7!1sk7YWZkBYx1AzkLEjDoGVMg!2m2!1d57.26311626119966!2d11.03311029395011!3f281.53783425047243!4f0.3680693973414719!5f1.4939587085738273" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
