@@ -56,4 +56,10 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 </div>
 
 {{% /tab %}}
+{{% tab "w-bollard" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685810064268!6m8!1m7!1s9q_1BHSiQT377kWoLuKM7g!2m2!1d30.13776765375484!2d35.43563941409148!3f256.1131613575126!4f-8.037278360732032!5f3.2127736195138263" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685810139820!6m8!1m7!1sOhc_B3zlVkx2wLHvnCF3xA!2m2!1d30.13759226648691!2d35.43545368386853!3f14.49744529294755!4f-10.915381696443362!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}

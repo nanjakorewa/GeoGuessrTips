@@ -94,6 +94,12 @@ sc: [
 <tr><td><span class="quiz">フィンランド語</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
 </table>
 </div>
+{{% /tab %}}
+{{% tab "ボラード" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685811235797!6m8!1m7!1sN5M5hsx-3IXnRqd5iujZRA!2m2!1d57.88939488932365!2d11.66873519759119!3f347.7985702376789!4f-39.055390607055905!5f1.641423031961403" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}

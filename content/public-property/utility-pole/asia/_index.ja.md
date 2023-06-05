@@ -14,15 +14,14 @@ add_rule_link: true
 ## インド
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>電柱の形が州や街によって異なる
             <ul>
                 <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街</li>
                 <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-                <li class="no-evidence">いわゆるホーリーポールがあるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
-                <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Hyderabad</span>{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？</li>
+                <li class="no-evidence">穴のあるポール（ホーリーポール）があるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
+                <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Telangana・Andhra Pradesh</span>？</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
             </ul>
         </li>
@@ -64,17 +63,17 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-いわゆるホーリーポール{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
+穴のあるポール（ホーリーポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "Hyderabad" %}}
+{{% tab "Telangana・Andhra Pradesh" %}}
 
 {{% notice tip %}}
-区切りのあるポール（セクションポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}？
+Hyderabadなどに区切りのあるポール（セクションポール）がある？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685131807317!6m8!1m7!1sEsD63pL45V0NThU-AZh4pA!2m2!1d17.47859170633478!2d78.56369474671776!3f345.7309758033879!4f-0.6858934272780033!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -89,13 +88,13 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 </div>
 {{% /tab %}}
 {{% tab "Goa" %}}
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685018435595!6m8!1m7!1sItWlaAlStjLL4HsKHIxrTQ!2m2!1d15.57571962522207!2d73.8064451970202!3f336.98921646158215!4f11.233819098714903!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685018471524!6m8!1m7!1seog0QbfNFOP_MLnDvzaSew!2m2!1d15.57629639932401!2d73.80632555324496!3f329.6543764276662!4f36.130238701409496!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
 
 
 

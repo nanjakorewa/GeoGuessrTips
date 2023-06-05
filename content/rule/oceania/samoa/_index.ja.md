@@ -17,8 +17,8 @@ is_has_distinctive_googlecar: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.ws</span></li>
         <li>Google Carが特徴的</li>
+        <li>ドメインは.ws・.asだが.asはサモア以外でも使用される（事実上gTLD扱いとなっている{{% goto "../../asia/chagos-around/" ".io" %}}のような感じ）</li>
     </ul>
 </div>
 
