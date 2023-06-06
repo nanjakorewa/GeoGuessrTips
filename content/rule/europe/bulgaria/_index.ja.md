@@ -54,7 +54,7 @@ sc: [
 <img src="2023-05-28-21-42-59.png" width="70%">
 </div>
 
-{{% notice tip %}}ブリキ製のような丸いふたのゴミ箱が通りや家の前に置いてある{{% by %}}が他の国にもあるときはあるので即決はできない
+{{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% by %}}が他の国にもあるときはあるので即決はできない
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685686163453!6m8!1m7!1sNgqFjDmRQ29seLGnHAi_bg!2m2!1d43.41874758508143!2d24.61598884902133!3f296.7048354527468!4f-9.382264656808559!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

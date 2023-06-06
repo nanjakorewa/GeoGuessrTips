@@ -47,8 +47,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681496656303!6m8!1m7!1sMvrvIoDgf11CwsP2DaMU2Q!2m2!1d-46.09596398009934!2d169.0981582589376!3f313.4346910719182!4f-2.991900285962771!5f2.693329635910985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681496740065!6m8!1m7!1szzBYVepmSyiWNjZxtaCA9Q!2m2!1d-44.80105926156972!2d170.8992445413041!3f220.44996479091063!4f4.697819777856196!5f1.878281294742738" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-
 
 {{% notice tip %}}
 電柱の上のほうにシルバーの何かが巻かれている。色が異なる時もある。
@@ -56,8 +54,9 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dcysurfer/9769291354/in/photolist-fThaXQ-6JjaDX-hKZ3yv-osHuf9-6Ka9Yb-x5KHPq-x5M9Ws-6KF9hw-qQPaDB-hK2PXZ-sck8rC-hK1JWa-bjcmzi-2kWpJEn-oxghqg-5r9euK-hKZ4Yp-hKYmKf-hK2gvs-bLs7NV-hK2hgL-SgwxfB-3asFAA-q8vhFy-Qq2m9z-hK2gTS-EoVuzA-2kD8iPJ-2vSceT-hKYKWy-outiGm-9DMYvT-hK2P6P-pJ7FDp-381PEQ-ankD1-nnVFYk-4jKQBA-2itE7Gs-MUP3Dj-xh5PP6-7G2Cxg-6NVyDC-9DVQpy-6GMFEM-xhqs34-eeYHMz-9DSos5-pUTbZw-9DRV8d" title="mobile home"><img src="https://live.staticflickr.com/7354/9769291354_aecfbc9e8f_z.jpg" width="640" height="360" alt="mobile home"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-{{% tab "w-road" %}}
 
+{{% /tab %}}
+{{% tab "w-road" %}}
 {{% notice tip %}}
 これは道路番号ではなく速度表記
 {{% /notice %}}
@@ -67,14 +66,12 @@ sc: [
 </div>
 
 
+{{% notice tip %}}
+電柱の例
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681076154035!6m8!1m7!1snNchDURtOF2Pi8TyFhatdQ!2m2!1d-46.29904350653622!2d168.1016630448194!3f113.5594550555082!4f2.44097960226469!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681337054675!6m8!1m7!1s5ewSfp9w1hC22QQoXdLfPA!2m2!1d-35.71074414713877!2d174.0279954001939!3f92.99296012164498!4f5.460043835513218!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679741730352!6m8!1m7!1s-w4LomdSALY_FPOo0wZJdw!2m2!1d-37.09141488399298!2d174.5943142139898!3f173.92854525093594!4f-25.604961401351787!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -84,6 +81,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}</li>
+        <li>本当からかなり離れた場所に{{% goto ""%}}があってペンギンやオットセイがいる</li>
     </ul>
 </div>
 
@@ -92,6 +90,13 @@ sc: [
 {{% tab "解説動画" %}}
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% tab "アンティポディーズ諸島" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686016237001!6m8!1m7!1sjFIqn_wpN6TeaSed4rWP1Q!2m2!1d-49.66705117502639!2d178.8068568545037!3f235.9588452113889!4f12.306707860320401!5f1.3125468221226764" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686016324028!6m8!1m7!1sOPqVxyV5i8eq61cGe6hH-A!2m2!1d-49.66764652722949!2d178.8095245679632!3f249.3772578266898!4f-16.00629238161912!5f2.9901147302254083" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686016479347!6m8!1m7!1sKM0BwGlWcI7AlrmhLaKS8g!2m2!1d-49.67314782316515!2d178.7985411588788!3f138.1891585565086!4f-11.047218584269856!5f0.4003652160435086" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

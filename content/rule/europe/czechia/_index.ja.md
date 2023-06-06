@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "CZ.svg"
 no_detaile_info: true
 jetro_detail: false
-plonkit: false
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../slovakia", "スロバキア"],
