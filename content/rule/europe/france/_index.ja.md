@@ -23,7 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>
-        <li>電話番号が<span class="quiz">2つの数が5個並んでいる</span></li>
+        <li>市外局番が<span class="quiz">2つの数が5個並んでいる</span></li>
         <li>「D653」と言った感じのDで始まる道路番号の黄色いプレートがある</li>
         <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
         <li>電柱に<span class="quiz">青いプレート</span>が貼ってあることがある{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}</li>
@@ -36,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかりパリが `01`だ。電柱やポールに<span class="quiz">青いプレート</span>が貼ってあることがありこれも特徴的。
+市外局番が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかりパリが `01`だ。電柱やポールに<span class="quiz">青いプレート</span>が貼ってあることがありこれも特徴的。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -102,7 +102,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電話番号の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？
+        <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？
             <ul>
                 <li>`02 9x`は半島部 (by ギガバイトさん@コメ欄)</li>
             </ul>
@@ -127,17 +127,17 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 {{% tabs  %}}
-{{% tab "電話番号①" %}}
+{{% tab "市外局番①" %}}
 <div class="googlemap-if">
 <p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a></p>
 </div>
 
 {{% notice tip %}}
-電話番号が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。パリが `01` で、あとは時計回りなので他の国と比較すると覚えやすい。
+市外局番が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかる。パリが `01` で、あとは時計回りなので他の国と比較すると覚えやすい。
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "電話番号②" %}}
+{{% tab "市外局番②" %}}
 <div class="googlemap-if">
 <p><img src="./clip/FR-area-code.png" width="60%" class="no-click"/></p>
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a>を加工しています</p>

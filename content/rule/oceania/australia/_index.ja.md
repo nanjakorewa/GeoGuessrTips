@@ -199,7 +199,7 @@ sc: [
                 <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
             </ul>
         </li>
-        <li>電話番号のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
+        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
                 <li>03：<span class="quiz">Victoria・タスマニア・メルボルン</span></li>

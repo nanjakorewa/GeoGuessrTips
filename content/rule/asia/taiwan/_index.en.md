@@ -30,7 +30,7 @@ jetro_detail: false
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681314351253!6m8!1m7!1s-nb1HBOy1tnC0hxgIPkClQ!2m2!1d25.04409660365155!2d121.5115284120453!3f45.54370317896274!4f0.03562760890490324!5f2.8098801247074485" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "電話番号" %}}
+{{% tab "市外局番" %}}
 {{% notice tip %}}
 The area code gets larger the further south you go（Image source By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>）.
 {{% /notice %}}

@@ -93,8 +93,8 @@ sc: [
     <ul class="rule-list">
         <li>州の名前を覚えておくと絞り込みの役に立つ（<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3">Wiki</a>）</li>
         <li>State Highway(白色の盾のようなマーク)の標識に道路番号と州の名前が書いてあるかも</li>
-        <li>電話番号の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
-        <li class="no-evidence">アメリカに近いエリアの電話番号は 000-000-0000 の表記かも{{% by "now_and_jenn"  "twitch" %}}</li>
+        <li>市外局番の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
+        <li class="no-evidence">アメリカに近いエリアの市外局番は 000-000-0000 の表記かも{{% by "now_and_jenn"  "twitch" %}}</li>
     </ul>
 </div>
 

@@ -248,7 +248,7 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
         <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧が多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？</li>
         <li>東の方はGoogleCarが白い。</li>
-        <li>電話番号を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
+        <li>市外局番を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
     </ul>
 </div>
 
@@ -275,7 +275,7 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 </div>
 
 {{% /tab %}}
-{{% tab "電話番号" %}}
+{{% tab "市外局番" %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682681113075!6m8!1m7!1souIIF4onvrkP1z580bc6HQ!2m2!1d51.84317873985413!2d107.5809184361163!3f61.89255685940866!4f13.82091494564385!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

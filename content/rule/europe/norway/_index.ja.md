@@ -111,14 +111,14 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電話番号が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。</li>
+        <li>市外局番が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "道路番号" %}}
 <div class="googlemap-if">
-<img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの電話番号の分布" style="max-width: 80%;"/>
+<img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>
 <div>
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Gyroscopbill212</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Link</a>
 </div>

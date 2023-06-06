@@ -148,7 +148,7 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
                 <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
             </ul>
         </li>
-        <li class="no-evidence">電話番号のエリアコードで地域が分かる</li>
+        <li class="no-evidence">市外局番のエリアコードで地域が分かる</li>
     </ul>
 </div>
 
@@ -168,7 +168,7 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "電話番号" %}}
+{{% tab "市外局番" %}}
 <div class="googlemap-if">
 {{% twitter "1640831519643127808" %}}
 </div>

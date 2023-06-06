@@ -111,7 +111,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>気候が南部と北部で異なり南部は熱帯・北部は乾燥した気候</li>
-        <li>電話番号が<span class="quiz">33-8XX</span>となっているならばダカール</li>
+        <li>市外局番が<span class="quiz">33-8XX</span>となっているならばダカール</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
     </ul>
 </div>
@@ -128,7 +128,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "電話番号" %}}
+{{% tab "市外局番" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683958577593!6m8!1m7!1sXTwQJE5sURXgiPj8iSxEOA!2m2!1d14.72305671153571!2d-17.44921992681162!3f184.68361384051596!4f20.05433262695442!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

@@ -83,13 +83,13 @@ dont_show_usda: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電話番号は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
+        <li>市外局番は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
-{{% tab "電話番号" %}}
+{{% tab "市外局番" %}}
 {{% notice tip %}}
 212→イスタンブールを含む西側かもといった感じで大体の位置推定ができる。ただし05~、08～も多くこれらは場所が分からない。
 {{% /notice %}}

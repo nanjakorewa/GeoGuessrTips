@@ -214,7 +214,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>電話番号のエリアコードで範囲を絞ることができる</li>
+        <li>市外局番のエリアコードで範囲を絞ることができる</li>
         <li>BR-XXXはブラジル国道。BAでないものは州の名前かも。州名はマップをズームアウトすると確認できる。</li>
         <li class="no-evidence">電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
             <ul>
@@ -229,7 +229,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 </div>
 
 {{% tabs  %}}
-{{% tab "電話番号" %}}
+{{% tab "市外局番" %}}
 
 {{% notice tip %}}
 1がサンパウロ、2がリオデジャネイロ。（画像出典：By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons</a>）
