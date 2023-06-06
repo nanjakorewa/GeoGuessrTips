@@ -224,6 +224,7 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
                 <li>黄色く塗られた領域がある場合は<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
             </ul>
         </li>
+        <li>フェルナンド・デ・ノローニャという離島がある</li>
     </ul>
 </div>
 
@@ -251,6 +252,15 @@ AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が
 <div class="description">COPEL=パラナ電力の文字がうっすらと刻まれている</div>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681706584402!6m8!1m7!1sKRPJZSznYCA08XGBnX1KgA!2m2!1d-18.92351924835988!2d-48.28486276559771!3f42.54269421184829!4f-6.044292890950359!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">CEMIG=ミナスジェライス電力の文字がパイプに書かれている</div>
+</div>
+{{% /tab %}}
+{{% tab "フェルナンド・デ・ノローニャ" %}}
+{{% notice tip %}}
+電柱に穴が開いている。岩場が多く船に乗る場所もある。凄く特徴的な岩があるのでそれで分かるかも。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686046713870!6m8!1m7!1s_WfUf4zAA9WsR-vAgAtksw!2m2!1d-3.840033795944048!2d-32.40598143746431!3f40.56232607939012!4f-4.906072740501031!5f2.725273780824893" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686047006287!6m8!1m7!1sGQW9MCup8BPejz2Ng7i5Jw!2m2!1d-3.852986505136147!2d-32.4322301568117!3f49.20721600710126!4f7.004833829500242!5f3.312572759260453" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
