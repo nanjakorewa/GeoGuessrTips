@@ -321,7 +321,6 @@ sc: [
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>電柱の形が州や街によって異なる
             <ul>

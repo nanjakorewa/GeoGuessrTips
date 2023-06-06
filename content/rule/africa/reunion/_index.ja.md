@@ -42,18 +42,18 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で右後ろに黒いテープが巻いてある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686044630522!6m8!1m7!1sAXol-Yi0wMSrQCLjDYZ5kg!2m2!1d-21.21776473792954!2d55.56099119881759!3f7.073825579935257!4f-89!5f0.41939995202028907" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
 フランスと同じボラードや電柱がある。ナンバープレートも左側が青い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686044741021!6m8!1m7!1sBN5J320t63fnrM-JZqpKjQ!2m2!1d-21.21867564825087!2d55.56046464817234!3f245.47227312512706!4f-13.360776108813525!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686044863141!6m8!1m7!1s6IF3uunGdeuvR1J0dTaC8Q!2m2!1d-21.16129927968705!2d55.59289919651007!3f283.89801107081695!4f7.970975926932809!5f2.7512952801286747" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+Google Carが特徴的で右後ろに黒いテープが巻いてある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686044630522!6m8!1m7!1sAXol-Yi0wMSrQCLjDYZ5kg!2m2!1d-21.21776473792954!2d55.56099119881759!3f7.073825579935257!4f-89!5f0.41939995202028907" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
