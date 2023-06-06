@@ -1,5 +1,6 @@
 ---
-title: "チャゴス諸島周辺"
+title: "チャゴス諸島"
+title_suffix: "とその周辺"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -12,13 +13,17 @@ no_detaile_info: true
 is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../oceania/cocos_islands/", "ココス諸島"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインである<span class="quiz">.io</span>はこの周辺に割り当てられていたが現在は地域に関係なく一般的に使用される</li>
-        <li>チャゴス諸島だけでも60以上の島が存在{{% by "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6" "wiki" "チャゴス諸島" %}}しており遠くに複数の島が複数見えることが多い</li>
+        <li>ドメインである<span class="quiz">.io</span>はこの地域に関係なく一般的に使用される</li>
+        <li>チャゴス諸島だけでも60以上の島が存在{{% by "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6" "wiki" "チャゴス諸島" %}}しており遠くに複数の島が複数見えるかも</li>
         <li class="no-evidence">黄緑色の端が丸く反り返った葉っぱの低木が多くの島で生えている</li>
     </ul>
 </div>
@@ -37,7 +42,7 @@ dont_show_usda: true
 
 
 {{% notice tip %}}
-太陽に照らされる人と、それを見つめる鳥
+太陽に照らされる人と、それを見つめる鳥がいる
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684828100537!6m8!1m7!1s_mAFTYEEyFSxw0vWGwA0rg!2m2!1d-5.427784761980635!2d71.88081937822534!3f80.48614014107085!4f20.034012209677343!5f1.0624369115918713" width="550" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

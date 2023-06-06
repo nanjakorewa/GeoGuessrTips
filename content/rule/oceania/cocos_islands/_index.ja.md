@@ -18,6 +18,7 @@ sc: [
     ["../christmas_island/", "クリスマス島"],
     ["../australia/", "オーストラリア"],
     ["../../cs_america/martinique/", "マルティニーク"],
+    ["../../asia/chagos-around/", "チャゴス諸島"],
     ]
 ---
 

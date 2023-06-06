@@ -1,5 +1,6 @@
 ---
 title: "アラブ首長国連邦"
+title_suffix: "（UAE）"
 date: 2023-02-26
 lastmod: 2023-05-01
 weight: 1

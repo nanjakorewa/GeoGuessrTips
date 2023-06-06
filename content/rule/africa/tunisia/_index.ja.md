@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tn</span></li>
+        <li>アラビア語が公用語だが<span class="quiz">フランス</span>語も広く使用されている</li>
         <li><span class="quiz">鮮やかな水色と白</span>が基調の建物が多い</li>
         <li><span class="quiz">黒</span>色のナンバープレートがある</li>
         <li>後ろに車がついてくる</li>

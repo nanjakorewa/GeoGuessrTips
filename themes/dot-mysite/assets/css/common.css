@@ -922,3 +922,7 @@ i.fa-map-signs {
   transition: all 0.5s 0s ease;
   opacity: 1 !important;
 }
+
+span.small-title {
+  font-size: 0.7em;
+}
