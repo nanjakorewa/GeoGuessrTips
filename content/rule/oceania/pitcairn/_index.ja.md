@@ -17,7 +17,7 @@ is_has_many_trekker: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>イギリスの海外領土でありピトケアン島のアダムスタウン以外は人がいない{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%80%E3%83%A0%E3%82%BA_(%E3%83%90%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E5%8F%B7)" "ジョン・アダムズ (バウンティ号)" %}}</li>
+        <li>イギリスの海外領土でありピトケアン島のアダムスタウン以外は人がいない{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%80%E3%83%A0%E3%82%B9%E3%82%BF%E3%82%A6%E3%83%B3_(%E3%83%94%E3%83%88%E3%82%B1%E3%82%A2%E3%83%B3)" "アダムスタウン" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E5%8F%B7%E3%81%AE%E5%8F%8D%E4%B9%B1" "バウンティ号の反乱" %}}</li>
     </ul>
 </div>
 
