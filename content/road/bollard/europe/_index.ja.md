@@ -12,10 +12,6 @@ add_rule_link: true
 
 ## バルト三国
 
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-</div>　
-
 {{% tabs  %}}
 {{% tab "エストニア" %}}
 <div class="googlemap-if">
@@ -25,7 +21,7 @@ add_rule_link: true
 {{% /tab %}}
 {{% tab "リトアニア" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684548111398!6m8!1m7!1sX2--3B2x0ypd6wvHxwlAEw!2m2!1d55.07419832374426!2d23.88806601016458!3f269.9736975604096!4f-11.313811105808895!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686241225024!6m8!1m7!1sX2--3B2x0ypd6wvHxwlAEw!2m2!1d55.07419832374426!2d23.88806601016458!3f265.01!4f-19.430000000000007!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ラトビア" %}}
@@ -64,16 +60,19 @@ add_rule_link: true
 ## イギリス
 
 {{% tabs  %}}
+{{% tab "白赤" %}}
+{{% notice tip %}}
+北部のスコットランドには白と赤のフランスのものに似た形のボラードがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684320325087!6m8!1m7!1s-XmG1Ud5SwPSJ42bx2yJww!2m2!1d56.259023568906!2d-2.7268946362317!3f243.4400609150221!4f-19.690911157766536!5f2.9046987489043916" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684324219696!6m8!1m7!1sznvGXUDMZh3_SCKhv_uqcQ!2m2!1d56.25913612559033!2d-2.727014723457081!3f175.0805768463083!4f-13.017484766461138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "白黒" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679667191685!6m8!1m7!1stzUNJgeyhSXxUfcCABuD9A!2m2!1d53.45816716317874!2d-1.169975428590934!3f186.57080581179196!4f-18.171506480954193!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684235918773!6m8!1m7!1sS8scdEs-ozyWYWVqPjvtQw!2m2!1d53.45815088485895!2d-1.170147627808297!3f112.57071987641456!4f-11.588397003040456!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "白赤" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684320325087!6m8!1m7!1s-XmG1Ud5SwPSJ42bx2yJww!2m2!1d56.259023568906!2d-2.7268946362317!3f243.4400609150221!4f-19.690911157766536!5f2.9046987489043916" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684324219696!6m8!1m7!1sznvGXUDMZh3_SCKhv_uqcQ!2m2!1d56.25913612559033!2d-2.727014723457081!3f175.0805768463083!4f-13.017484766461138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -84,6 +83,20 @@ add_rule_link: true
 {{% tab "白赤" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+## ルクセンブルグ
+
+{{% tabs %}}
+{{% tab "白赤" %}}
+{{% notice tip %}}
+ボラードの反射板が<span class="quiz">白（灰）</span>色で赤やオレンジの反射板がない
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686236522105!6m8!1m7!1snTB986lVwfGWa-nqsQK_Dg!2m2!1d49.81912692745507!2d6.022866344321538!3f39.79841549537231!4f-37.2073336218013!5f3.2430872075935557" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
