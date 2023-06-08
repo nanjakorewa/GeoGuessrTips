@@ -365,14 +365,25 @@ div.linklist a.linktype-amazon:after {
   -o-transition: all 0ms ease;
   -webkit-transition: all 0ms ease;
   transition: all 0ms ease;
-  background-color: #f0f0f0;
+}
+
+.sns_button.twitter {
+  background-color: #00acee;
+}
+
+.sns_button.hatena {
+  background-color: #01a5df;
+}
+
+.sns_button.pocket {
+  background-color: #E33D52;
 }
 
 .sns_button a {
   display: table-cell;
   width: 44px;
   height: 44px;
-  color: #42464c;
+  color: #fff;
   text-align: center;
   vertical-align: middle;
   -moz-transition: all 0ms ease;
