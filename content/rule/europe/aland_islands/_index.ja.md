@@ -22,9 +22,9 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>公用語としてスウェーデン語を使う</li>
         <li>ドメインは<span class="quiz">.ax</span></li>
-        <li>周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも</li>
+        <li>公用語として<span class="quiz">スウェーデン</span>語を使う</li>
+        <li>周りが平坦で路面が<span class="quiz">赤</span>色っぽいならばオーランド諸島かも</li>
         <li>ナンバープレートに青い線が無いので注意する</li>
     </ul>
 </div>
