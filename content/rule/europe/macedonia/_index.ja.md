@@ -24,6 +24,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mk</span></li>
         <li>公用語はマケドニア語（македонски јазик）でキリル文字を使用<span class="quiz">する</span></li>
+        <li>「<span class="quiz">Ќ・ќ</span>」と「<span class="quiz">Ѓ・ѓ</span>」は北マケドニア以外では使用されない</li>
         <li>ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える</li>
         <li>反射板の周りが<span class="quiz">黒</span>色に塗られており<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}</li>
         <li>ガードレールについてセルビアやモンテネグロと異なり丸みを帯びている</li>
@@ -56,5 +57,14 @@ By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680354200981!6m8!1m7!1s8JLCET6LHx4XwuR--1pHzQ!2m2!1d41.77445223781045!2d20.86258415029428!3f244.64759863711743!4f-8.894598659661781!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683615532981!6m8!1m7!1sr3Dzyrpr3vs--ICyGtvqiw!2m2!1d41.94006930540755!2d21.6245100111042!3f243.73111582914936!4f-13.738625160745897!5f3.0989617672262404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+「<span class="quiz">Ќ・ќ</span>」と「<span class="quiz">Ѓ・ѓ</span>」の文字がある（真ん中の黒い看板にЌの文字がある）。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/marcmatter/24811858157/" title="Skopje - ТЕАТАР КОМЕДИЈА"><img src="https://live.staticflickr.com/4615/24811858157_ed741ba4fb_z.jpg" width="640" height="427" alt="Skopje - ТЕАТАР КОМЕДИЈА"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
