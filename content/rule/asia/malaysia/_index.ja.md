@@ -22,10 +22,10 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.my</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>電柱に<span class="quiz">黒いラベル</span>が付いている時があり、あるならば本土側になる</li>
         <li>とまれの標識が<span class="quiz">berhenti</span></li>
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
-        <li>SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味。</li>
+        <li>電柱に<span class="quiz">黒いラベル</span>が付いているならば本土側になる</li>
+        <li>SDN BHD・BHDはマレーシアでは～会社・～公開会社の意味</li>
     </ul>
     {{% rd asia malaysia small %}}
 </div>
@@ -57,8 +57,8 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683171861035!6m8!1m7!1sYEoHd0EO8M2UlwN_edGegA!2m2!1d3.736140628903989!2d113.780365519882!3f301.0765270440488!4f-12.8065474911877!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% lb 50 large %}}
-<img src="2023-05-04-12-38-44.png" />
+{{% lb 50 small %}}
+<img src="2023-05-04-12-38-44.png" width="50%"/>
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
