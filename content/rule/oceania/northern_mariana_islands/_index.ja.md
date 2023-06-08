@@ -40,7 +40,7 @@ Google Carの右前に長いアンテナがある
 </div>
 
 {{% notice tip %}}
-日本人を対象にした観光業であり観光客の半分以上が日本人だという。そのため店の看板や旗に日本語が見つかるときがある。
+観光客の半分以上が日本人で構成されているという。そのため店の看板や旗に日本語が見つかるときがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686243885053!6m8!1m7!1seaVLciIGU5mpcKTYXM5kCA!2m2!1d15.21213187044444!2d145.7186659689378!3f311.95996391668405!4f-0.6473844945225977!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
