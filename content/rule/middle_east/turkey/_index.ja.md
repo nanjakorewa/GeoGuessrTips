@@ -103,7 +103,7 @@ dont_show_usda: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>通り名の看板？</li>
+        <li>通り名の看板が都市によって異なる</li>
     </ul>
 </div>
 

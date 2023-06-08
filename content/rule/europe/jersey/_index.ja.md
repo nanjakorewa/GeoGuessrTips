@@ -24,6 +24,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.je</span></li>
         <li>ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}</li>
+        <li>路側帯の線が黄色の場所が多く停止線・指導停止線と思われる線も<span class="quiz">黄</span>色で描かれている</li>
         <li>そこまで都会ではないのに大手銀行の建物がある</li>
         <li>画質が悪い（Gen2）。白い家が多くて画質が良いならばアイルランドも検討する。</li>
     </ul>
@@ -32,7 +33,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}
+ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}。左側が少し赤みがかって見える。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683431760115!6m8!1m7!1sCAoSLEFGMVFpcE1sU2xxOEJ2ZHlzTXhZLW1CM24zMUlCOGFLX3ViQXNsVTRtT1Jp!2m2!1d49.19024100381638!2d-2.111558188325187!3f10.477115159725365!4f-14.006521160790072!5f1.5382304242767262" width="520" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -43,6 +44,14 @@ sc: [
 
 By Willtron, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="hhttps://commons.wikimedia.org/w/index.php?curid=8474147">Wikimedia Commons(Link)</a>による
 {{% /lb %}}
+
+{{% notice tip %}}
+路側帯の線が黄色の場所が多く停止線・指導停止線と思われる線も<span class="quiz">黄</span>色で描かれている
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686245940178!6m8!1m7!1s3qjWE3cE5gBlAQfHGehyig!2m2!1d49.1944431910344!2d-2.113460101491273!3f194.94413311331212!4f-10.838173015884891!5f2.6349741861968248" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686246036272!6m8!1m7!1sbpQs9f1jPi4_Z3fxqyvNjw!2m2!1d49.2269650574782!2d-2.145468534781537!3f238.08837338275168!4f-18.718414304017344!5f1.5357967635633352" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% notice tip %}}
 そこまで都会ではないのに銀行の建物がたくさんある。Citi・RBC（Royal Bank of Canada）。Citiのとなりにもロゴは無いが銀行があり、RBCの右隣と郵便局をはさんだ左隣にも銀行がある。
