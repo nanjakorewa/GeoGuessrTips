@@ -11,6 +11,7 @@ flag: "LU.svg"
 no_detaile_info: true
 jetro_detail: true
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../netherlands/", "オランダ"],
@@ -23,7 +24,8 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lu</span></li>
         <li>ナンバープレートは<span class="quiz">黄色</span></li>
-        <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える</li>
+        <li>ボラードの反射板が<span class="quiz">白（灰）</span>色で赤やオレンジの反射板がない</li>
+        <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える{{% goto "../../../architecture/houses/europe-1/#ルクセンブルグ" "家の見た目 > ルクセンブルグ" %}}</li>
     </ul>
     {{% rd europe luxembourg verysmall %}}
 </div>
@@ -48,17 +50,20 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-ルクセンブルグはオランダと比較して建物が全体的に白っぽい。そしてルクセンブルグは少し山がちで起伏があり、一方でオランダは平坦な場所がほとんどで水路がいたるところにある（すべて体感）。上２つがルクセンブルグで下２つがオランダ。
+ボラードの反射板が<span class="quiz">白（灰）</span>色で赤やオレンジの反射板がない
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683434330069!6m8!1m7!1ssVm9Cww70uzgqXpjbwQt6w!2m2!1d49.68209834094256!2d6.317010560278868!3f307.2501!4f0!5f0.7820865974627469" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683435121370!6m8!1m7!1sHmGSCGzdY_HkcGKSkV95Nw!2m2!1d49.96778324514281!2d5.935690846746911!3f14.436097007289195!4f-1.244007018556303!5f0.7820865974627469" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686236522105!6m8!1m7!1snTB986lVwfGWa-nqsQK_Dg!2m2!1d49.81912692745507!2d6.022866344321538!3f39.79841549537231!4f-37.2073336218013!5f3.2430872075935557" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
+{{% notice tip %}}
+黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい（左の～RUEと書かれた小さい看板）{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683434463539!6m8!1m7!1sFseWjQdrAPP7bTzNA8-GIQ!2m2!1d52.07918016906321!2d5.012722519736225!3f99.99801285043178!4f6.083790045224262!5f0.4023600797274389" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683434768973!6m8!1m7!1sFHdufdWRIuBZBCEYXfP_Jw!2m2!1d51.61001662635626!2d4.783697127008571!3f69.23490907551012!4f-10.18750717407363!5f1.5381176529204632" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./r/Luxembourg_road_sign_diagram_E_1_a1.gif" width="317px" />
 </div>
 
 {{% /tab %}}
