@@ -67,7 +67,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 </div>
 
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "標識" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681215101775!6m8!1m7!1sxkEiQnUK0bi3YJhH9UuwhA!2m2!1d49.80313831396025!2d5.930719732202099!3f155.74313819335805!4f-4.212427024882885!5f1.7041012638308328" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679851824764!6m8!1m7!1sfUEPtWKYMUxEiFnzRBTkHQ!2m2!1d49.80549947226078!2d5.932658346598799!3f28.037884318494097!4f-20.581478578256963!5f3.137841119237799" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
