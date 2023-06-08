@@ -22,7 +22,7 @@ sc: [
         <li>ドメインは<span class="quiz">.si</span></li>
         <li>オーストリアと見た目が似ているボラードがある</li>
         <li>オーストリアはZONEだがスロベニアは<span class="quiz">CONA</span></li>
-        <li><span class="quiz">オレンジの鉛筆</span>の形の看板がある。道端に道路番号が書かれた<span class="quiz">白く小さい</span>看板がある。</li>
+        <li>道端に道路番号が書かれた<span class="quiz">白く小さい</span>看板がある。</li>
         <li class="no-evidence">窓辺に植木鉢がありきれいな花が飾られていることが多い</li>
         <li class="no-evidence">標識の裏に黄色いシールが張ってあることがある</li>
     </ul>
@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ルクセンブルグにあるようなデザインの、オレンジの鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板がある。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -72,7 +72,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>カルスト地形がスロベニア西南部からイタリアにかけて広がっている。岩肌が見えたら山がちな西南部に置いてみる？</li>
+        <li>カルスト地形がスロベニア西南部からイタリアにかけて広がっている</li>
         <li>全方位に山が無いならば東側かも</li>
     </ul>
 </div>
