@@ -15,12 +15,10 @@ jetro_detail: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.de</span></li>
-        <li>四角いモザイクが多い{{% by "neckoluv" "twitch" %}}。</li>
-        <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
+        <li>四角いモザイクが多い{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
-        <li>ドイツ語の冠詞は<span class="quiz">「der・die」（男性名詞・女性名詞で異なる）</span></li>
-        <li>ドイツは第2世代しかない{{% by "neckoluv" "twitch" %}}ので画質が全体的に良くない</li>
-        <li>郊外や山間部はほとんど出ない</li>
+        <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
+        <li>ドイツは第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
     </ul>
     {{% rd europe germany verysmall %}}
 </div>
