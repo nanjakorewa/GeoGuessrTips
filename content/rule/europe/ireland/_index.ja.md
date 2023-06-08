@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-イギリスかどうか分からないとき黄色の点線があるならアイルランド{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}
+イギリスかどうか分からないとき黄色の点線があるならアイルランド{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。停止線が黄色ならば{{% goto "../jersey/" "ジャージー" %}}の可能性が高い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685413411571!6m8!1m7!1sZA3M_YuaJljvNQs49exU1Q!2m2!1d53.20922257627343!2d-6.708624526087777!3f254.1490726175612!4f-10.407247295680193!5f1.5374242984310151" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

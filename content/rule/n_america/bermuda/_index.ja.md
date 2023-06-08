@@ -20,7 +20,7 @@ is_has_many_trekker: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bm</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>Google Carが特徴的</li>
+        <li>Google Carが特徴的でトレッカーの場所には独特な形のぼかしがある</li>
     </ul>
 </div>
 
@@ -28,7 +28,7 @@ is_has_many_trekker: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Google Carが特徴的
+Google Carが特徴的でトレッカーの場所には独特な形のぼかしがある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683467821168!6m8!1m7!1sc83mWC9O9BNuxBni8eYE4A!2m2!1d32.29257540872071!2d-64.78199819199413!3f257.974943079478!4f-32.12176255062474!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

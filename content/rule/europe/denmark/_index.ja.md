@@ -82,15 +82,14 @@ heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリッ�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>デンマークの自治領であるグリーンランドが出ることがある{{% goto "../../n_america/greenland/" "グリーンランド" %}}</li>
-        <li>デンマークの自治領であるフェロー諸島が出ることがある{{% goto "../faroe_islands/" "フェロー諸島" %}}</li>
+        <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
     </ul>
 </div>
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>レス島{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "Læsø" %}}</li>
+        <li>レス島{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "Læsø" %}}という離島がある</li>
     </ul>
 </div>
 {{% tabs %}}

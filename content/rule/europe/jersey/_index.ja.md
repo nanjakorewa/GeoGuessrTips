@@ -54,7 +54,7 @@ By Willtron, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC
 </div>
 
 {{% notice tip %}}
-そこまで都会ではないのに銀行の建物がたくさんある。Citi・RBC（Royal Bank of Canada）。Citiのとなりにもロゴは無いが銀行があり、RBCの右隣と郵便局をはさんだ左隣にも銀行がある。
+そこまで都会ではないのに銀行の建物がたくさんある。以下はCiti BankとRoyal Bank of Canada{{% ref "https://www.citigroup.jp/jp/index.html" "Citi - Japan" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683432426752!6m8!1m7!1sEf09tRvJJ3ERHyPKH8MrwA!2m2!1d49.18500186671962!2d-2.112332031066294!3f17.462404572326715!4f0.12119351323100602!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

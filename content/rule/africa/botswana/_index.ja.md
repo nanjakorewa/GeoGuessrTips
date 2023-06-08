@@ -24,8 +24,7 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
-        <li>後ろのナンバープレートが<span class="quiz">細い黄</span>色</li>
-        <li>公共交通機関などは後ろのナンバープレートが<span class="quiz">青</span>色。あまりにもこの色が多いなら{{% goto "../senegal/" "セネガル" %}}かも。</li>
+        <li>赤・白・青・黄のナンバープレートがある</li>
         <li>標識やガードレールが<span class="quiz">黄色と黒</span>色のストライプのものが多い</li>
         <li>道路はざらざらした表面で路側帯は<span class="quiz">オレンジ</span>色だが路側帯は無い場所もある</li>
         <li class="no-evidence">国土の70%がカラハリ砂漠と重なっていて国土全体が平らだ</li>
@@ -35,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が標識<span class="quiz">黄色と黒</span>色のストライプになっている。
+赤・白・青・黄のナンバープレートがある。普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が<span class="quiz">黄</span>色と<span class="quiz">黒</span>色のストライプになっている。
 {{% /notice %}}
 
 
@@ -52,7 +51,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 
 
 {{% notice tip %}}
-Google Carが特徴的。周りを見渡すと平らな景色がほとんどで低木や草がまばらに広がっている。
+カラハリ砂漠があり周りを見渡すと平らな景色が広がっている。ほとんどの地域で低木や草がまばらに広がっている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684805452552!6m8!1m7!1sEYfexpG8PHVzjUmurMBtYQ!2m2!1d-21.3137382280993!2d26.18020926861166!3f267.8107859325802!4f-17.97470861705574!5f0.4000000000000002" width="580" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

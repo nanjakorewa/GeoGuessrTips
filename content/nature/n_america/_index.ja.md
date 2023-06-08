@@ -13,7 +13,6 @@ add_rule_link: true
 ## 農業分布
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">農業の分布</h2>
     <ul class="rule-list">
         <li>コーンがあるなら中央よりも東側に行くのが無難</li>
         <li>田んぼは電柱に黄色い線があるならカリフォルニア北部・無いならばミシシッピ川沿い</li>

@@ -22,7 +22,7 @@ sc: [
         <li>GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも？{{% by %}}</li>
         <li>横断歩道の標識は<span class="quiz">3本</span></li>
         <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。</li>
-        <li>ナンバープレートの<span class="quiz">左下が黄色い時がある</span></li>
+        <li>ナンバープレートの左が<span class="quiz">水色と黄色</span></li>
     </ul>
     {{% rd europe ukraine verysmall %}}
 </div>
@@ -41,7 +41,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートの左下が黄色い時があるが、モザイクが強いと視認が難しい。
+ナンバープレートの左が<span class="quiz">水色と黄色</span>になっているものが多いがモザイクが強いと視認が難しい。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -57,7 +57,7 @@ By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader,
 {{% /lb %}}
 
 {{% notice tip %}}
-GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{% by %}}？ロシアやベルギーなどにも赤い車がいるので色だけで確定はしない。
+GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{% by %}}？ただしロシアやベルギーなどにも赤い車がいるので色だけで確定はしない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

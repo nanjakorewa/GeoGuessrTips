@@ -23,11 +23,10 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.se</span></li>
+        <li>道路の路側帯の破線が<span class="quiz">短い</span>{{% goto "../../../road/road-surface/sidestrip/#北欧３国" "北欧の路側帯" %}}</li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本</li>
-        <li>道端に<span class="quiz">スノーポール</span>があるかも</li>
-        <li>看板の矢印の形が特徴的で綺麗な▷ではない{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある</li>
-        <li>道路の路側帯の破線が短い{{% goto "../../../road/road-surface/sidestrip/#北欧３国" "北欧の路側帯" %}}</li>
+        <li>看板の矢印の形が特徴的で<span class="quiz">綺麗な▷ではない</span>{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
     </ul>
     {{% rd europe sweden small %}}
 </div>
