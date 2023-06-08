@@ -22,6 +22,8 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも</li>
         <li>②電柱に細い<span class="quiz">黄色い</span>線が<span class="quiz">3</span>本あるとカリフォルニア。ハワイのものは太目の1本。</li>
+        <li>③？</li>
+        <li>④アラスカ州のウナラクリートでは帽子が見える</li>
     </ul>
 </div>
 
@@ -60,6 +62,13 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685535877955!6m8!1m7!1sWaUj-BGIY9CK6RIANORv6w!2m2!1d60.47818140419869!2d-151.0787955517697!3f138.96030170298064!4f-6.293789384101572!5f3.1842454057249845" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685536006213!6m8!1m7!1s2NFMwLkwPDNmSh02GK_tIA!2m2!1d61.22606668836757!2d-149.7972196084691!3f289.99894358196974!4f-18.40390705950165!5f1.6697826361213726" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "④ウナラクリート" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686245099455!6m8!1m7!1sjkFELdwd1XW5sr_56n5IaQ!2m2!1d63.87446118866169!2d-160.789903048111!3f345.06731165755303!4f-8.73234172381315!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686245129302!6m8!1m7!1s9NRErfz7eaaMGdb0FRRVCA!2m2!1d63.87834246866177!2d-160.7921398328468!3f174.01267664820776!4f-11.466387670195616!5f1.0570056916623791" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
