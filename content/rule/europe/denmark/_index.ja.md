@@ -83,6 +83,7 @@ heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリッ�
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>デンマークの自治領であるグリーンランドが出ることがある{{% goto "../../n_america/greenland/" "グリーンランド" %}}</li>
+        <li>デンマークの自治領であるフェロー諸島が出ることがある{{% goto "../faroe_islands/" "フェロー諸島" %}}</li>
     </ul>
 </div>
 
