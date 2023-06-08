@@ -49,21 +49,5 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewmilligansumo/48354921272/in/photolist-2gEXBrb-2g7ns4Q-nyMxV-2gEXF1u-CiRNs7-2gEX3jU-2g6RtNM-2g6RciT-2gEXHdg-BMGX2H-CiStCG-2gEWXUG-2gEWXgn-2g7qHLy-AG85yM-BoFd7j-2g6K9AW-CiUgHW-2g7nifC-2gEY7tE-2gEXEgo-CiTn2y-2g6RC2K-2g6R3io-2g7nPd1-2g7mX3i-2g7mLgD-2g7mWEj-2g7n3mh-2g7mKVU-2g7mXmE-2gEXGX1-2g7mY8x-2g7mKh4-2g7pkDR-2g7mXFY-2g7mJci-2g7mNyy-2g7mMro-2g7mLHu-2g7mXEZ-BU9GzQ-2g7nhZC-2g7nzpK-2g7tcdj-2gEY2i4-2gGx1Nu-2gEXsda-2gGwkPr-2g6RATd" title="Triq Sarria, Floriana, Malta"><img src="https://live.staticflickr.com/65535/48354921272_452815e7f7_z.jpg" width="640" height="427" alt="Triq Sarria, Floriana, Malta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-
-
-{{% notice tip %}}
-ナンバープレートはEUによくある背景白で左側が青いものが多い。トレーラーや一部の車両はナンバープレートが太く左上だけが青い。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684784650741!6m8!1m7!1sr_gAazl4CG3VjnFA9q8XqA!2m2!1d35.90692738013305!2d14.48001084286474!3f30.936217141816787!4f-12.293292751863092!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684784796318!6m8!1m7!1sku5JXGS88qVO1byoMi6-EA!2m2!1d35.84203185210171!2d14.54634755571434!3f36.37530519310954!4f-9.733667515294911!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% lb 50 %}}
-![](2023-05-23-04-47-51.png)
-
-By <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=84401176">Link</a>
-{{% /lb %}}
-
 {{% /tab %}}
 {{% /tabs %}}
