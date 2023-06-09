@@ -1,5 +1,6 @@
 ---
 title: "オセアニア"
+title_suffix: "の電柱"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1

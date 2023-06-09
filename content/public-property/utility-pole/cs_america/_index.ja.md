@@ -89,7 +89,7 @@ add_rule_link: true
 四角いポール。色が塗られているときもある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681038655380!6m8!1m7!1squcIsTa9lAifWBkmwDCUtA!2m2!1d19.48689530196004!2d-70.66121308573531!3f100.52754817554397!4f-3.4878675176739193!5f2.1823840120346865" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686280753504!6m8!1m7!1sDJbWKhRwa6KHiFD89E62qg!2m2!1d19.48679119115415!2d-70.66180330030124!3f267.62568913611426!4f-6.852100317358193!5f1.7590233225213745" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
