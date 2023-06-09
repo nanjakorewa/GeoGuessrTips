@@ -7,6 +7,7 @@ flag: "YTICON.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+mapname: "usa"
 ---
 
 ## 入門講座

@@ -122,7 +122,11 @@
 {{ "<!-- ** JS Plugins Needed for the Project ** -->" | safeHTML }}
 
 {{ "<!-- jquiry -->" | safeHTML }}
+{{ if .Params.mapname }}
+<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+{{ else }}
 <script src="{{ `plugins/jquery/jquery-1.12.4.js` | absURL }}"></script>
+{{ end }}
 
 {{ "<!-- jquary ui -->" | safeHTML }}
 <script src="{{ `plugins/jquery/jquery-ui.js`| absURL }}"></script>
