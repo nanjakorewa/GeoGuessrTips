@@ -320,7 +320,7 @@ window.JSMaps.maps.europe = {
 		},
 		{
 			"enable": true,
-			"name": "Albania",
+			"name": "アルバニア",
 			"abbreviation": "",
 			"textX": 0,
 			"textY": 0,

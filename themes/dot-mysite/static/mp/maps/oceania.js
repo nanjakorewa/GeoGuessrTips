@@ -76,7 +76,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Albania",
+            "name": "アルバニア",
             "abbreviation": "AL",
             "textX": 0,
             "textY": 0,
@@ -115,7 +115,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Argentina",
+            "name": "アルゼンチン",
             "abbreviation": "AR",
             "textX": 0,
             "textY": 0,
@@ -128,7 +128,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": true,
-            "name": "American Samoa",
+            "name": "アメリカ領サモア",
             "abbreviation": "AS",
             "textX": 0,
             "textY": 0,
@@ -362,7 +362,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Bermuda",
+            "name": "バミューダ",
             "abbreviation": "BM",
             "textX": 0,
             "textY": 0,
@@ -414,7 +414,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Bhutan",
+            "name": "ブータン",
             "abbreviation": "BT",
             "textX": 0,
             "textY": 0,
@@ -479,7 +479,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Canada",
+            "name": "カナダ",
             "abbreviation": "CA",
             "textX": 0,
             "textY": 0,
@@ -492,7 +492,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Cocos  (Keeling)  Islands",
+            "name": "ココス諸島",
             "abbreviation": "CC",
             "textX": 0,
             "textY": 0,
@@ -609,7 +609,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "China",
+            "name": "中国",
             "abbreviation": "CN",
             "textX": 0,
             "textY": 0,
@@ -635,7 +635,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Costa Rica",
+            "name": "コスタリカ",
             "abbreviation": "CR",
             "textX": 0,
             "textY": 0,
@@ -674,7 +674,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Curaçao",
+            "name": "キュラソー",
             "abbreviation": "CW",
             "textX": 0,
             "textY": 0,
@@ -687,7 +687,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": true,
-            "name": "Christmas Island",
+            "name": "クリスマス島",
             "abbreviation": "CX",
             "textX": 0,
             "textY": 0,
@@ -778,7 +778,7 @@ window.JSMaps.maps.oceania = {
         },
         {
             "enable": false,
-            "name": "Dominican Republic",
+            "name": "ドミニカ共和国",
             "abbreviation": "DO",
             "textX": 0,
             "textY": 0,

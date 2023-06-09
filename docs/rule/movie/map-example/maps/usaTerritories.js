@@ -722,7 +722,7 @@ window.JSMaps.maps.usaTerritories = {
 		},
 		{
 			"enable": true,
-			"name": "American Samoa",
+			"name": "アメリカ領サモア",
 			"abbreviation": "AS",
 			"textX": 520,
 			"textY": 575,

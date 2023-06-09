@@ -74,7 +74,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Canada",
+			"name": "カナダ",
 			"abbreviation": "CA",
 			"textX": 0,
 			"textY": 0,
@@ -295,7 +295,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Dominican Republic",
+			"name": "ドミニカ共和国",
 			"abbreviation": "DO",
 			"textX": 0,
 			"textY": 0,
@@ -347,7 +347,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Costa Rica",
+			"name": "コスタリカ",
 			"abbreviation": "CR",
 			"textX": 0,
 			"textY": 0,

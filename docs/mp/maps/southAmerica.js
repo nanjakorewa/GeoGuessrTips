@@ -59,7 +59,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Argentina",
+			"name": "アルゼンチン",
 			"abbreviation": "AR",
 			"textX": 180,
 			"textY": 472,

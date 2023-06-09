@@ -46,7 +46,7 @@ window.JSMaps.maps.caribbean = {
 		},
 		{
 			"enable": true,
-			"name": "Dominican Republic",
+			"name": "ドミニカ共和国",
 			"abbreviation": "DO",
 			"textX": 495,
 			"textY": 300,
@@ -371,7 +371,7 @@ window.JSMaps.maps.caribbean = {
 		},
 		{
 			"enable": true,
-			"name": "Curaçao",
+			"name": "キュラソー",
 			"abbreviation": "CU",
 			"textX": 548,
 			"textY": 511,
@@ -423,7 +423,7 @@ window.JSMaps.maps.caribbean = {
 		},
 		{
 			"enable": true,
-			"name": "Costa Rica",
+			"name": "コスタリカ",
 			"abbreviation": "CR",
 			"textX": 43,
 			"textY": 594,

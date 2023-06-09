@@ -33,7 +33,7 @@ window.JSMaps.maps.centralAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Costa Rica",
+			"name": "コスタリカ",
 			"abbreviation": "CR",
 			"textX": 378,
 			"textY": 395,

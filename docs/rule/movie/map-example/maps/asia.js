@@ -152,7 +152,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "China",
+			"name": "中国",
 			"abbreviation": "CN",
 			"textX": 343,
 			"textY": 324,
@@ -347,7 +347,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Bhutan",
+			"name": "ブータン",
 			"abbreviation": "BT",
 			"textX": 294,
 			"textY": 417,
