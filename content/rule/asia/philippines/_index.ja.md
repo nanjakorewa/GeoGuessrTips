@@ -129,9 +129,15 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativeco
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249674643!6m8!1m7!1styPReco5CCf6mijnlw9zhw!2m2!1d8.667798044980291!2d125.8604272841918!3f43.368190812299964!4f-6.674662938576006!5f3.3022879075983824" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "建物" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686312815558!6m8!1m7!1sc4bbwiNwIrL25eTxrDThrA!2m2!1d14.6809432108563!2d121.012136568304!3f9.03!4f-8.519999999999996!5f2.963732902151527" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "🙌" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680101597984!6m8!1m7!1sob1T9Xf3nxM5M-uqUiNqXA!2m2!1d7.432173159783827!2d125.8181428566435!3f318.96844721474974!4f-5.298390129420483!5f2.9122508693376283" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686312852768!6m8!1m7!1sgcqUGOCmbLYI84Ztf7xUqg!2m2!1d7.191696996355934!2d125.4523221327875!3f325.7213129758706!4f-3.487704331270592!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
