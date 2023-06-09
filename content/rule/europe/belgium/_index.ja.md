@@ -9,8 +9,8 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "BE.svg"
 jetro_detail: true
-plonkit: true
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../netherlands/", "オランダ"],

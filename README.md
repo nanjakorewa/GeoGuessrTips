@@ -1,25 +1,25 @@
 # [My Geo Pinning](https://geopinning.space/)
 
-Personalized Google Street View pinning page.
+Personalized Google Street View pinning page(since 2023/02). / ジオゲッサーのメモを記録するリポジトリです(2023年2月～)。
 
 ## Collection of tips for guessing the country
 Pages to note down tips for guessing the country and to compile links to related sites.
 
-- [日本](https://geopinning.space/rule/asia/japan/)
-- [イギリス](https://geopinning.space/rule/europe/united-kingdom/)
-- [コロンビア](https://geopinning.space/rule/cs_america/colombia/)
-- [アメリカ](https://geopinning.space/rule/n_america/usa/)
-- [ポルトガル](https://geopinning.space/rule/europe/portugal/)
+- [Japan](https://geopinning.space/rule/asia/japan/)
+- [United Kingdom](https://geopinning.space/rule/europe/united-kingdom/)
+- Colombia](https://geopinning.space/rule/cs_america/colombia/)
+- United States](https://geopinning.space/rule/n_america/usa/)
+- [Portugal](https://geopinning.space/rule/europe/portugal/)
 
 
-## コミット時の注意
-- 標識の画像は必ずパブリックドメインの画像に限定する
-  - ニュージーランドの標識の画像は[Sign specifications](https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/)から利用可能と判断
-- ナンバープレートの画像を引用するときは出典を記載する必要がないものであってもライセンス名・引用元を表示する（出典の記載忘れかどうか判断ができなくなるため）
-- Map・ストリートビュー・Earth
-  - [Google マップ & Google Earth ガイドライン](https://www.google.com/intl/ja_ALL/permissions/geoguidelines/)
-  - Google Street Viewのスクリーンショットは使用しない
-  - Google Mapを引用する場合は必ず画像の近くに出典を書く
+## Attention when committing
+- Images of signs must be in the public domain only.
+  - Images of New Zealand signs are available from [Sign specifications](https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/) ().
+- When citing license plate images, indicate the license name and the source of the citation even if the source does not need to be indicated (because it will be difficult to determine whether the source was forgotten).
+- Maps, Street View, Earth
+  - [Google Maps & Google Earth Guidelines](https://www.google.com/intl/ja_ALL/permissions/geoguidelines/)
+  - Do not use Google Street View screenshots
+  - When citing Google Maps, always write the source near the image.
 
 # Contact
 

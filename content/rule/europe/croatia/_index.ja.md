@@ -9,7 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "HR.svg"
 jetro_detail: true
-jogmec_detail: true
+dont_show_usda: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
@@ -24,14 +24,13 @@ sc: [
         <li>ドメインは<span class="quiz">.hr</span></li>
         <li>公用語はクロアチア語が用いられており<span class="quiz">ラテン</span>文字を使用する
             <ul>
-                <li>「<span class="quiz">Đ・đ</span>」はクロアチア語・サーミ語・ベトナム語でのみ使用される文字</li>
+                <li>「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}。他に使用されるのはサーミ語・ベトナム語など。</li>
                 <li>「Ž・ž」「Č・č」「Š・š」の文字はクロアチア・チェコ・スロバキア・スロベニア・バルト三国に見られて上にハーチェクやキャロンと呼ばれるｖのような形が付いているのが特徴的</li>
             </ul>
         </li>
         <li><span class="quiz">青い</span>消火栓 {{% by %}}を見かけるかも</li>
         <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
         <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・セルビア・モンテネグロ・トルコ・ポーランド</li>
-        <li>「<span class="quiz">Ð</span>」の文字があるかも{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>クロアチアの横断歩道の標識は５本線でベルトが<span class="quiz">ついている</span>がセルビアはベルトが<span class="quiz">ついていない</span></li>
     </ul>
     {{% rd europe croatia verysmall %}}

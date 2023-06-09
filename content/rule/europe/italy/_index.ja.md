@@ -51,7 +51,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679812903211!6m8!1m7!1sSMFir_M8O0qVU05WO53LqQ!2m2!1d40.79241710237211!2d16.75499111660603!3f172.19635803893811!4f-18.88659177147491!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686290445541!6m8!1m7!1sTkWVasKYvU3xFM8rGEQR8g!2m2!1d40.79212934353908!2d16.75382540674629!3f355.06020422260343!4f-31.081497714001436!5f2.7516268202064618" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)
@@ -61,7 +61,15 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-イタリア最大の工業会社のひとつであるEni S.p.A.{{% ref "https://ja.wikipedia.org/wiki/Eni" "Eni" %}}の黄色いガソリンスタンドがある。ロゴがいい。
+通り名の看板に「<span class="quiz">Via</span>」と書いてある。白い板に青い線の縁取りがある看板が多く、同じ看板は{{% goto "../san-marino/" "サンマリノ" %}}でも見られる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/elgrandee/1820694486/" title="G. Rizzardi Street Sign"><img src="https://live.staticflickr.com/2369/1820694486_f3c78df6f5_w.jpg" width="400" height="300" alt="G. Rizzardi Street Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+イタリア最大の工業会社のひとつであるEni S.p.A.{{% ref "https://ja.wikipedia.org/wiki/Eni" "Eni" %}}の黄色いガソリンスタンドがある。ロゴが良すぎる。
 {{% /notice %}}
 
 
