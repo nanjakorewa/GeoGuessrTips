@@ -48,7 +48,7 @@ A tricycle, a combination of a motorcycle and a cart/chair, is used as a cab. Th
 {{% lb %}}
 ![](2023-05-02-11-44-19.png)
 
-By Christian Razukas from Honolulu, Hawaii - Flickr, CC BY-SA 2.0, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Link(Wikimedia commons)</a>
+By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Link(Wikimedia commons)</a>
 {{% /lb %}}
 
 {{% /tab %}}

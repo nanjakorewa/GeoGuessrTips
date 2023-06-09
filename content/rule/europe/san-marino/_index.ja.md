@@ -42,7 +42,7 @@ sc: [
 {{% lb 50 %}}
 ![](2023-05-06-01-53-39.png)
 
-By Seth Schoenderivative work: TheFlyingDutchman (talk) - San_Marino_license_plate.jpg, CC BY-SA 2.0, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
+By Seth Schoenderivative work: TheFlyingDutchman (talk) - San_Marino_license_plate.jpg, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
 {{% /lb %}}
 
 {{% /tab %}}
