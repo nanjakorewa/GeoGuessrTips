@@ -69,10 +69,13 @@ By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index
 
 
 {{% notice tip %}}
-TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/Tinex" "wikipedia - tinex" %}}。
+TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/Tinex" "wikipedia - tinex" %}}。なぜかスコピエにたくさんある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686315288931!6m8!1m7!1srTCpo9hVCHjwqxsLsg_27g!2m2!1d41.97510302684993!2d21.45374083354337!3f213.89959290203691!4f9.107857485123375!5f1.6351547338655483" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686315288931!6m8!1m7!1srTCpo9hVCHjwqxsLsg_27g!2m2!1d41.97510302684993!2d21.45374083354337!3f213.89959290203691!4f9.107857485123375!5f1.6351547338655483" width="530" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="unclickable">
+<img src="2023-06-09-23-16-18.png" width="530">
+</div>
 </div>
 
 {{% /tab %}}
