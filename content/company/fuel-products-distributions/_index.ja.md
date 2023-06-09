@@ -48,7 +48,9 @@ bg: "bg/gs.jpg"
 
 ## 北米
 
-{{% tabs  %}}
+### アメリカ
+
+{{% tabs %}}
 {{% tab "アメリカ全域" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677673571683!6m8!1m7!1sD32mHQORE-iY9gK76MZomA!2m2!1d42.32463899171095!2d-83.0616350896024!3f277.83342117598386!4f2.7557862705137666!5f1.8119885857926192" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -59,7 +61,12 @@ Marathon Petroleum Corporation (MPC)は、アメリカ合衆国オハイオ州�
 </div>
 </div>
 {{% /tab %}}
-{{% tab "カナダ東部" %}}
+{{% /tabs %}}
+
+### カナダ
+
+{{% tabs %}}
+{{% tab "東部" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678008791746!6m8!1m7!1sX9reUxij-KvQ6zqqjWPrHg!2m2!1d44.01106487052348!2d-79.41784108858326!3f318.01409498540625!4f-2.0602523954102026!5f2.3036150215165376" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
@@ -73,6 +80,16 @@ Ultramarはカナダ東部のガスおよび家庭用燃料の小売業者。
 ## 中南米
 
 {{% tabs  %}}
+{{% tab "アルゼンチン" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1677723724232!6m8!1m7!1sA5oqQiF2vpO4BXgECRjA8g!2m2!1d-31.41008131947511!2d-64.17264732646922!3f190.29360218372395!4f2.291322994745002!5f2.366711566105245" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ヤシミエントス・ペトロリフェロス・フィスカレスは、アルゼンチンの国有石油会社であり、アルゼンチンで取れる石油と天然ガスの約1/3を生産している。生産した石油と天然ガスは輸出ではなく国内消費がメイン。
+輸入することによる外貨流出を防ぐためシェール開発を勧めており、アルゼンチン国内のシェール油井の半数はYPFが開発を進めているという。
+{{% ahref "YPF Sociedad Anónima (YPF)" "https://finance.yahoo.com/quote/YPF/" %}}
+</div>
+</div>
+{{% /tab %}}
 {{% tab "ブラジル" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678703015887!6m8!1m7!1sBXRjwPp8R2dSonLgPyLcfw!2m2!1d-9.97002062645863!2d-39.16281123550002!3f228.84!4f1.1800000000000068!5f1.530426777971106" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -102,7 +119,7 @@ Ipirangaはブラジルの燃料会社で、Ultraの子会社。
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678280602852!6m8!1m7!1sb8EeQB8HkEiO6VOQPfOiTw!2m2!1d-34.87896141111508!2d-55.05215359533884!3f288.4154073396141!4f0.9419419572630829!5f3.1976513705040874" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="description">
-ANCAP (**A**dministración **N**acional de **C**ombustibles, **A**lcoholes y **P**ortland)はウルグアイの国営企業であり石油製品、ポートランドセメント、アルコール飲料の生産をする。企業信用格付け「BB-」らしい（いつの時点かは不明）。ウルグアイからニューヨーク市場に上場している企業は2022年時点ではDlocalしかないため、ウルグアイ企業について知る機会は少ない。
+ANCAP (Administración Nacional de Combustibles, Alcoholes y Portland)はウルグアイの国営企業であり石油製品、ポートランドセメント、アルコール飲料の生産をする。企業信用格付け「BB-」らしい（いつの時点かは不明）。ウルグアイからニューヨーク市場に上場している企業は2022年時点ではDlocalしかないため、ウルグアイ企業について知る機会は少ない。
 {{% ahref "ANCAP - Wikipedia" "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" %}}
 </div>
 </div>
@@ -113,16 +130,6 @@ ANCAP (**A**dministración **N**acional de **C**ombustibles, **A**lcoholes y **P
 <div class="description">
 Empresas Copec は、チリ全土に一連のガソリンスタンドを持つチリの エネルギーおよび林業会社です。
 {{% ahref "エンプレサス コペック" "https://en.wikipedia.org/wiki/Empresas_Copec" %}}
-</div>
-</div>
-{{% /tab %}}
-{{% tab "アルゼンチン" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677723724232!6m8!1m7!1sA5oqQiF2vpO4BXgECRjA8g!2m2!1d-31.41008131947511!2d-64.17264732646922!3f190.29360218372395!4f2.291322994745002!5f2.366711566105245" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-ヤシミエントス・ペトロリフェロス・フィスカレスは、アルゼンチンの国有石油会社であり、アルゼンチンで取れる石油と天然ガスの約1/3を生産している。生産した石油と天然ガスは輸出ではなく国内消費がメイン。
-輸入することによる外貨流出を防ぐためシェール開発を勧めており、アルゼンチン国内のシェール油井の半数はYPFが開発を進めているという。
-{{% ahref "YPF Sociedad Anónima (YPF)" "https://finance.yahoo.com/quote/YPF/" %}}
 </div>
 </div>
 {{% /tab %}}
@@ -141,15 +148,6 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 </div>
 </div>
 {{% /tab %}}
-{{% tab "ロシア" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678477731532!6m8!1m7!1s97uJuireKtUnA1BivP2RCw!2m2!1d56.88739119660375!2d60.52842209413554!3f61.90026552296326!4f10.029416900826348!5f1.3623003864927512" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-ガスプロムは天然ガスの生産・供給において世界最大の企業である。
-{{% ahref "ガスプロム - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A0" %}}
-</div>
-</div>
-{{% /tab %}}
 {{% tab "香港" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677933644910!6m8!1m7!1swArShOSoxdrrwTd9W3cqWA!2m2!1d22.27382057785737!2d114.2424707569858!3f359.2659282805256!4f5.677822998834259!5f3.1298020156772606" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -157,6 +155,15 @@ Empresas Copec は、チリ全土に一連のガソリンスタンドを持つ�
 シノペックは、中華人民共和国最大規模の石油会社・石油化学工業会社。事業は石油・天然ガスの探索～化学肥料の販売まで、アップストリームからダウンストリームまで手広く行う。
 {{% ahref "中国石油化工集団 - Wikipedia" "https://en.wikipedia.org/wiki/Caltex" %}}
 {{% ahref "China Petroleum & Chemical Corporation (0386.HK)" "https://finance.yahoo.com/quote/0386.HK/" %}}
+</div>
+</div>
+{{% /tab %}}
+{{% tab "ロシア" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1678477731532!6m8!1m7!1s97uJuireKtUnA1BivP2RCw!2m2!1d56.88739119660375!2d60.52842209413554!3f61.90026552296326!4f10.029416900826348!5f1.3623003864927512" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="description">
+ガスプロムは天然ガスの生産・供給において世界最大の企業である。
+{{% ahref "ガスプロム - Wikipedia" "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%B9%E3%83%97%E3%83%AD%E3%83%A0" %}}
 </div>
 </div>
 {{% /tab %}}
@@ -202,11 +209,6 @@ Essar Energy plc は、モーリシャスに本拠を置くインドのエネル
 Petrol Ofisiは、トルコの燃料製品の販売および潤滑油会社、ガソリンスタンドはトルコ全域に存在する。
 {{% ahref "Petrol Ofisi" "https://www.petrolofisi.com.tr/en" %}}
 </div>
-</div>
-{{% /tab %}}
-{{% tab "クロアチア" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678555329672!6m8!1m7!1sPM97lU2WkqNtQcWZ_7UIoQ!2m2!1d45.82616488719412!2d16.04453161423169!3f96.10430926538506!4f4.34665116758012!5f1.8035104040625058" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

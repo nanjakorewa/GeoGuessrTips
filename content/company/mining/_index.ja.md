@@ -8,6 +8,8 @@ keywords: ["鉄鉱石", "プラチナ"]
 sections: [""]
 ---
 
+## アフリカ
+
 {{% tabs  %}}
 {{% tab "南アフリカ共和国" %}}
 <div class="googlemap-if">

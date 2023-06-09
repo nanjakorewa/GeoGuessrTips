@@ -9,7 +9,12 @@ sections: [""]
 bg: "bg/container.jpg"
 ---
 
-以下は本社がある地域。コンテナやトラックは本社がある国以外の地域でも普通に見られるのでジオゲッサーをする上ではほとんど参考にならない。
+
+{{% notice note %}}
+コンテナやトラックは本社がある国以外の地域でも普通に見られるのでジオゲッサーをする上ではほとんど参考にならない。
+{{% /notice %}}
+
+
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## アジア
@@ -18,7 +23,6 @@ bg: "bg/container.jpg"
 {{% tab "日本" %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/19leergut46/50258850507/in/photolist-2jzcKgi-2ogmTQy-2nYyxsB-2nPfUd3-2of2nUg-2nsuBZR-2ok1VNg-2cSWRhc-2n7Hz1D-2mLqmoW-2kHp9PP-ZCqJfH-2odzxeK-2mJiP4V-8sDAUb-KjpMHX-2mJbi8w-2nfT6Sc-2ozn57r-2oAd1Kh-STKuji-2mz4PHb-Naw2BW-2iZ39LZ-2n6jFHn-2j4qoVX-2n1fq78-2k39rDd-DCScSH-2iQWwPF-V9yZ4g-2iaB3sQ-2oxR15m-KaNZ65-F9qFef-2k8qv1q-2mRYdnb-2jjShYw-2mWMFAb-2nkvd5q-2nezgUY-2kLEYvH-2iRczTb-2nG8Qoj-2mWMTAg-K1V2UL-2jybKwr-2nCze7F-2ohNj64-CHUDf" title="One Hannover (2)"><img src="https://live.staticflickr.com/65535/50258850507_3104c17fe8_z.jpg" width="590" height="390" alt="One Hannover (2)"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/155757043@N05/45865143615/in/photolist-2cSWRhc-2n7Hz1D-2mLqmoW-2kHp9PP-ZCqJfH-2odzxeK-2mJiP4V-8sDAUb-KjpMHX-2mJbi8w-2nfT6Sc-2ozn57r-2oAd1Kh-STKuji-2mz4PHb-Naw2BW-2iZ39LZ-2n6jFHn-2j4qoVX-2n1fq78-2k39rDd-DCScSH-2iQWwPF-V9yZ4g-2iaB3sQ-2oxR15m-KaNZ65-F9qFef-2k8qv1q-2mRYdnb-2jjShYw-2mWMFAb-2nkvd5q-2nezgUY-2kLEYvH-2iRczTb-2nG8Qoj-2mWMTAg-K1V2UL-2jybKwr-2nCze7F-2ohNj64-CHUDf-2mS4S5u-2mvth1K-2emMZnE-2FfQSF-2oequZR-2kYptkk-2m2GXuW" title="Hamburg, Container One Reederei"><img src="https://live.staticflickr.com/7901/45865143615_9a5a8c5ef4_z.jpg" width="590" height="427" alt="Hamburg, Container One Reederei"/></a>
 {{% youtube-desc "U7UFHi5_EHI?start=210" %}}
 <div class="description-wide">
 オーシャン ネットワーク エクスプレス ホールディングスは、日本の海運業者。
