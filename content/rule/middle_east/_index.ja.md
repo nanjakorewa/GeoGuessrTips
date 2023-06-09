@@ -4,5 +4,5 @@ date: 2023-02-26
 description: "中東の国"
 weight: 30
 map_index: "middleEast"
-additional_map_class: "middle-map"
+additional_map_class: "narrow2-map"
 ---

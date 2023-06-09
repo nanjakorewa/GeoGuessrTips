@@ -15,7 +15,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Johnson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M652.0,152.4 L651.4,131.4 L651.1,123.8 L654.3,121.6 L661.0,123.2 L664.6,122.3 L667.7,114.2 L674.0,115.8 L692.0,115.1 L692.9,142.5 L693.2,151.0 L673.3,151.7 Z"
 		},
@@ -28,7 +28,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Douglas</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M651.1,123.8 L651.4,131.4 L652.0,152.4 L620.3,153.4 L611.1,153.6 L611.0,147.4 L610.7,138.2 L610.7,138.2 L610.4,124.6 L610.2,116.3 L617.5,114.8 L624.9,118.8 L628.7,117.4 L638.9,116.9 L639.3,126.3 L641.2,124.2 L648.6,127.2 L648.3,124.1 Z"
 		},
@@ -41,7 +41,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Rush</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M285.5,161.2 L286.0,161.2 L285.6,192.0 L285.6,202.1 L265.5,201.6 L234.4,201.3 L234.8,170.5 L235.1,160.5 L274.4,161.0 L285.1,161.2 Z"
 		},
@@ -54,7 +54,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Ellis</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M285.5,161.2 L274.4,161.0 L235.1,160.5 L233.9,160.5 L233.9,160.5 L234.8,129.6 L235.4,109.3 L271.5,109.7 L285.2,109.9 L286.1,109.9 L285.6,139.8 L285.1,161.2 Z"
 		},
@@ -67,7 +67,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Trego</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M233.9,160.5 L192.9,159.7 L182.8,159.3 L182.8,159.3 L182.8,159.3 L183.4,138.8 L184.5,108.2 L188.2,108.4 L234.2,109.2 L235.2,109.3 L235.4,109.3 L234.8,129.6 L233.9,160.5 Z M182.8,159.3 L182.8,159.3 L182.8,159.3 Z"
 		},
@@ -80,7 +80,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Wilson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M571.9,300.0 L571.8,288.1 L571.6,276.2 L571.5,272.7 L598.6,272.2 L612.1,271.9 L612.9,299.4 L613.2,312.9 L608.8,313.0 L572.8,313.6 L572.3,313.6 L572.3,313.6 L572.3,313.6 Z"
 		},
@@ -93,7 +93,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Montgomery</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M572.3,313.6 L608.8,313.0 L613.2,312.9 L613.4,312.9 L613.6,312.9 L614.3,328.4 L614.7,358.1 L577.3,359.0 L573.1,359.1 L572.8,347.8 L572.3,323.9 L572.0,313.6 L572.3,313.6 L572.3,313.6 Z"
 		},
@@ -106,7 +106,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Norton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M182.8,57.1 L184.1,6.0 L184.2,6.0 L217.2,6.8 L234.2,7.0 L233.8,18.8 L233.0,58.1 L210.2,57.7 L184.5,57.1 L183.4,57.1 Z"
 		},
@@ -119,7 +119,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Graham</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M183.9,77.6 L184.5,57.1 L210.2,57.7 L233.0,58.1 L233.7,58.1 L235.4,58.1 L235.0,77.6 L234.2,109.2 L188.2,108.4 L184.5,108.2 L183.1,108.2 L183.0,108.2 L183.0,108.2 Z"
 		},
@@ -132,7 +132,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Sheridan</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M183.9,77.6 L183.1,108.2 L183.0,108.2 L183.0,108.2 L159.2,107.5 L132.0,106.7 L132.3,98.1 L133.7,55.6 L173.3,56.8 L182.8,57.1 L183.4,57.1 L184.5,57.1 Z"
 		},
@@ -145,7 +145,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Harvey</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M408.8,223.2 L417.3,223.1 L439.4,223.0 L459.7,222.7 L459.8,233.0 L460.0,249.4 L460.0,253.5 L410.2,253.9 L408.9,253.9 L408.9,254.0 L408.8,241.9 Z M408.9,253.9 L408.9,253.9 L408.9,253.7 L408.9,253.9 Z"
 		},
@@ -158,7 +158,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Reno</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M408.8,223.2 L408.9,253.7 L408.9,253.9 L408.9,253.9 L408.9,254.0 L409.2,274.7 L399.1,274.9 L365.3,275.0 L337.7,274.9 L337.8,264.2 L337.1,264.1 L337.2,253.3 L337.2,223.2 L361.1,223.2 L361.1,225.0 L367.9,224.9 L367.9,223.2 L388.3,223.2 L397.7,223.2 Z"
 		},
@@ -171,7 +171,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Ellsworth</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.7,141.2 L387.7,161.7 L388.0,171.9 L388.0,176.9 L388.1,182.2 L384.9,182.2 L336.8,182.2 L336.9,161.6 L336.3,161.6 L336.4,154.9 L336.6,141.2 L357.0,141.2 L387.7,141.2 Z"
 		},
@@ -184,7 +184,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Lincoln</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.7,141.2 L357.0,141.2 L336.6,141.2 L336.8,110.4 L336.3,110.4 L336.3,103.5 L336.3,100.1 L364.9,100.3 L387.5,100.3 L387.6,112.2 L387.7,131.0 L387.7,139.5 L387.7,141.2 L387.7,141.2 Z"
 		},
@@ -197,7 +197,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Cowley</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M519.9,344.7 L520.1,355.7 L520.2,360.2 L500.3,360.4 L461.5,360.9 L460.8,323.2 L460.4,304.9 L489.4,304.5 L519.2,304.1 L519.5,316.8 L519.6,324.5 Z"
 		},
@@ -210,7 +210,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Chautauqua</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M519.9,344.7 L519.7,330.3 L519.6,324.5 L551.4,324.1 L572.3,323.9 L572.8,347.8 L573.1,359.1 L539.7,359.8 L520.2,360.2 L520.2,360.2 L520.1,355.7 Z"
 		},
@@ -223,7 +223,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Gove</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M182.8,159.3 L177.4,159.1 L174.2,159.0 L145.3,158.0 L133.6,157.7 L127.9,157.5 L121.5,157.3 L122.2,140.2 L123.8,106.4 L123.8,106.4 L128.8,106.6 L132.0,106.7 L159.2,107.5 L183.0,108.2 L183.0,108.2 L183.1,108.2 L184.5,108.2 L183.4,138.8 L182.8,159.3 L182.8,159.3 L182.8,159.3 Z"
 		},
@@ -236,7 +236,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Logan</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M123.8,106.4 L122.2,140.2 L121.5,157.3 L110.1,157.1 L93.0,156.3 L80.3,155.8 L60.3,155.2 L61.0,140.8 L62.8,104.1 L66.8,104.3 L70.7,104.4 L103.2,105.8 L123.8,106.4 Z"
 		},
@@ -249,7 +249,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Ness</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M182.8,159.3 L192.9,159.7 L233.9,160.5 L233.9,160.5 L235.1,160.5 L234.8,170.5 L234.4,201.3 L234.4,204.9 L234.3,211.5 L195.7,210.9 L174.7,210.3 L173.9,210.3 L173.1,210.2 L173.9,165.9 L174.2,159.0 L177.4,159.1 L182.8,159.3 Z"
 		},
@@ -262,7 +262,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Sherman</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M70.6,53.4 L71.5,53.5 L72.9,53.5 L71.6,83.3 L70.7,104.4 L66.8,104.3 L62.8,104.1 L30.7,103.0 L10.8,102.2 L11.9,73.9 L12.8,51.1 L47.0,52.5 Z"
 		},
@@ -275,7 +275,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Rawlins</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M72.9,53.5 L71.5,53.5 L70.6,53.4 L72.1,22.8 L72.8,2.5 L80.5,2.7 L133.5,4.6 L132.8,24.8 L131.8,55.6 L122.4,55.3 Z"
 		},
@@ -288,7 +288,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Cheyenne</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M72.1,22.8 L70.6,53.4 L47.0,52.5 L12.8,51.1 L14.9,0.0 L72.8,2.5 Z"
 		},
@@ -301,7 +301,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Pawnee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M285.6,202.1 L285.5,212.4 L296.5,212.5 L296.2,243.2 L286.0,243.1 L255.5,242.6 L255.7,232.4 L235.3,232.1 L235.6,211.6 L234.3,211.5 L234.4,204.9 L234.4,201.3 L265.5,201.6 Z"
 		},
@@ -314,7 +314,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Barton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M296.5,212.5 L285.5,212.4 L285.6,202.1 L285.6,192.0 L286.0,161.2 L316.5,161.5 L336.3,161.6 L336.9,161.6 L336.8,182.2 L336.7,199.3 L336.6,212.9 L314.5,212.7 Z"
 		},
@@ -327,7 +327,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Jewell</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.3,59.5 L360.3,59.4 L336.8,59.3 L335.4,59.3 L335.1,59.3 L335.4,29.5 L335.5,8.2 L356.3,8.2 L387.3,8.3 L387.1,28.8 L387.3,49.3 L387.3,56.1 L387.3,58.3 Z"
 		},
@@ -340,7 +340,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Mitchell</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.6,90.1 L387.4,93.5 L387.5,100.3 L364.9,100.3 L336.3,100.1 L336.5,78.6 L336.8,59.3 L360.3,59.4 L387.3,59.5 L387.3,59.5 L387.6,59.5 Z"
 		},
@@ -353,7 +353,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Cloud</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.6,90.1 L387.3,59.5 L387.3,59.5 L387.3,56.1 L387.3,49.3 L417.5,49.2 L438.5,49.0 L438.5,51.0 L438.6,59.3 L438.6,76.0 L438.7,89.9 L433.8,89.9 Z"
 		},
@@ -366,7 +366,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Ottawa</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.5,100.3 L387.4,93.5 L387.6,90.1 L433.8,89.9 L438.7,89.9 L438.6,105.3 L438.7,110.4 L438.8,124.0 L438.8,130.9 L400.4,131.0 L387.7,131.0 L387.6,112.2 Z"
 		},
@@ -379,7 +379,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Greeley</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M50.6,206.2 L30.9,205.5 L6.4,204.4 L7.0,190.1 L8.7,153.3 L32.5,154.3 L52.7,154.9 L51.9,174.7 Z"
 		},
@@ -392,7 +392,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Hamilton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M30.9,205.5 L50.6,206.2 L51.3,206.2 L52.9,206.3 L50.9,257.4 L52.4,257.5 L51.9,268.2 L31.0,267.3 L3.9,265.9 L5.0,237.0 L6.4,204.4 Z"
 		},
@@ -405,7 +405,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Dickinson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M438.8,130.9 L438.8,124.0 L438.7,110.4 L454.5,110.1 L476.0,110.0 L476.2,129.7 L479.6,128.0 L479.7,140.8 L483.1,140.7 L483.2,147.6 L479.8,147.6 L479.8,171.4 L459.4,171.6 L439.0,171.8 L438.8,136.0 Z"
 		},
@@ -418,7 +418,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Nemaha</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M559.8,57.6 L551.9,57.8 L541.3,58.0 L541.1,47.8 L540.3,6.9 L561.0,6.5 L581.1,6.1 L581.7,34.4 L582.0,46.9 L582.2,57.1 Z"
 		},
@@ -431,7 +431,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Pottawatomie</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M541.3,58.0 L551.9,57.8 L559.8,57.6 L560.4,79.9 L560.7,98.7 L560.9,108.9 L560.6,109.3 L556.1,106.3 L558.8,105.6 L556.4,101.5 L547.7,102.1 L547.6,100.5 L542.6,99.6 L539.0,103.5 L537.1,101.7 L534.3,102.8 L533.8,106.0 L528.5,104.5 L522.2,102.5 L522.0,105.1 L516.8,104.9 L516.8,103.0 L513.0,103.6 L514.0,100.5 L512.5,96.7 L510.8,97.6 L505.4,90.7 L502.6,84.9 L497.2,77.8 L498.9,71.0 L502.5,69.3 L504.5,64.2 L509.2,61.2 L510.1,58.5 L517.6,58.4 Z"
 		},
@@ -444,7 +444,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Brown</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M622.8,45.8 L608.0,46.2 L602.4,46.4 L587.2,46.7 L582.0,46.9 L581.7,34.4 L581.1,6.1 L603.3,5.5 L621.6,5.0 L622.0,16.7 Z"
 		},
@@ -457,7 +457,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Atchison</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M602.4,46.4 L608.0,46.2 L622.8,45.8 L643.2,45.2 L644.9,48.9 L648.9,49.4 L648.8,53.5 L645.6,53.6 L643.7,56.2 L644.8,59.2 L649.7,63.3 L651.4,67.5 L655.4,69.1 L657.4,72.2 L657.2,72.3 L638.1,72.8 L612.6,73.4 L602.6,73.9 L602.1,56.6 Z"
 		},
@@ -470,7 +470,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Morris</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M532.7,155.4 L533.0,170.6 L533.1,180.9 L522.8,181.1 L490.1,181.5 L479.9,181.6 L479.8,171.4 L479.8,147.6 L483.2,147.6 L483.1,140.7 L500.1,140.5 L518.8,140.3 L518.9,145.4 L529.1,145.3 L529.3,155.5 Z"
 		},
@@ -483,7 +483,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Lyon</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M533.1,180.9 L533.0,170.6 L532.7,155.4 L541.2,155.3 L570.2,154.6 L570.0,159.8 L570.6,190.5 L571.1,211.0 L570.3,211.0 L570.5,221.4 L570.5,221.4 L570.5,221.4 L570.5,221.4 L570.3,221.4 L542.8,221.8 L533.5,222.0 L533.5,211.6 Z"
 		},
@@ -496,7 +496,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Greenwood</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M533.5,222.0 L542.8,221.8 L570.5,221.4 L570.5,221.4 L570.5,221.4 L570.7,231.6 L570.8,236.8 L570.8,236.8 L571.5,262.4 L571.5,272.7 L571.6,276.2 L571.8,288.1 L547.1,288.3 L519.0,288.7 L518.6,266.1 L518.3,232.4 L533.6,232.2 Z M570.5,221.4 L570.5,221.4 L570.5,221.4 Z"
 		},
@@ -509,7 +509,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Riley</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M528.5,104.5 L528.6,119.7 L518.5,119.8 L518.4,116.4 L499.7,116.7 L499.6,114.5 L486.3,115.0 L488.1,109.0 L486.4,109.1 L486.3,99.7 L476.1,99.7 L475.8,74.1 L475.8,59.0 L482.6,58.9 L489.7,58.8 L503.3,58.6 L510.1,58.5 L509.2,61.2 L504.5,64.2 L502.5,69.3 L498.9,71.0 L497.2,77.8 L502.6,84.9 L505.4,90.7 L510.8,97.6 L512.5,96.7 L514.0,100.5 L513.0,103.6 L516.8,103.0 L516.8,104.9 L522.0,105.1 L522.2,102.5 Z"
 		},
@@ -522,7 +522,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Wabaunsee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M518.5,119.8 L528.6,119.7 L528.5,104.5 L533.8,106.0 L534.3,102.8 L537.1,101.7 L539.0,103.5 L542.6,99.6 L547.6,100.5 L547.7,102.1 L556.4,101.5 L558.8,105.6 L556.1,106.3 L560.6,109.3 L569.1,112.4 L569.8,139.2 L569.8,142.7 L570.2,154.6 L541.2,155.3 L532.7,155.4 L529.3,155.5 L529.1,145.3 L518.9,145.4 L518.8,140.3 L518.6,128.3 Z"
 		},
@@ -535,7 +535,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Geary</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M518.5,119.8 L518.6,128.3 L518.8,140.3 L500.1,140.5 L483.1,140.7 L479.7,140.8 L479.6,128.0 L476.2,129.7 L476.0,110.0 L476.2,110.0 L476.1,99.7 L486.3,99.7 L486.4,109.1 L488.1,109.0 L486.3,115.0 L499.6,114.5 L499.7,116.7 L518.4,116.4 Z"
 		},
@@ -548,7 +548,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Marion</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M479.8,171.4 L479.9,181.6 L490.1,181.5 L490.4,202.0 L488.7,202.0 L488.8,232.9 L480.6,233.0 L459.8,233.0 L459.7,222.7 L439.4,223.0 L439.2,195.1 L439.0,171.8 L459.4,171.6 Z"
 		},
@@ -561,7 +561,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Kingman</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M348.3,316.0 L337.5,315.9 L337.6,305.7 L337.6,288.3 L337.7,274.9 L365.3,275.0 L399.1,274.9 L399.0,285.1 L399.1,305.4 L399.2,312.2 L399.2,315.8 L367.1,316.0 Z"
 		},
@@ -574,7 +574,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Osborne</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M286.1,109.9 L285.2,109.9 L285.8,79.3 L286.1,58.8 L329.4,59.2 L335.1,59.3 L335.4,59.3 L336.8,59.3 L336.8,59.3 L336.5,78.6 L336.3,100.1 L336.3,103.5 L336.3,110.4 L315.5,110.2 Z"
 		},
@@ -587,7 +587,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Jackson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M602.4,46.4 L602.1,56.6 L602.6,73.9 L600.9,73.9 L601.5,97.8 L598.2,97.8 L560.7,98.7 L560.4,79.9 L559.8,57.6 L582.2,57.1 L582.0,46.9 L587.2,46.7 Z"
 		},
@@ -600,7 +600,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Crawford</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M655.6,316.8 L655.5,311.6 L654.2,311.7 L653.8,298.0 L653.1,277.5 L658.1,277.3 L697.1,276.2 L697.9,296.5 L698.5,315.5 L671.2,316.3 Z"
 		},
@@ -613,7 +613,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Labette</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M654.2,311.7 L655.5,311.6 L655.6,316.8 L656.1,328.3 L657.1,356.8 L648.4,357.1 L614.7,358.1 L614.3,328.4 L613.6,312.9 L650.0,311.8 Z"
 		},
@@ -626,7 +626,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Elk</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M572.3,313.6 L572.0,313.6 L572.3,323.9 L551.4,324.1 L519.6,324.5 L519.5,316.8 L519.2,304.1 L519.1,301.3 L519.0,288.7 L547.1,288.3 L571.8,288.1 L571.9,300.0 L572.3,313.6 L572.3,313.6 L572.3,313.6 Z"
 		},
@@ -639,7 +639,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Neosho</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M613.6,312.9 L613.4,312.9 L613.2,312.9 L612.9,299.4 L612.1,271.9 L645.3,270.9 L652.9,270.7 L653.1,275.8 L653.1,277.5 L653.8,298.0 L654.2,311.7 L650.0,311.8 Z"
 		},
@@ -652,7 +652,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Ford</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M234.9,252.6 L234.7,262.9 L235.6,262.9 L235.5,273.5 L235.5,285.9 L235.3,305.0 L214.8,304.6 L183.7,303.1 L182.1,303.0 L173.5,302.8 L174.7,261.5 L173.5,261.4 L173.7,251.2 L173.7,251.2 L193.3,251.8 Z"
 		},
@@ -665,7 +665,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Edwards</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M235.5,273.5 L235.6,262.9 L234.7,262.9 L234.9,252.6 L235.1,245.5 L235.3,232.1 L255.7,232.4 L255.5,242.6 L286.0,243.1 L285.8,263.6 L286.6,263.6 L286.5,271.4 L286.5,274.5 L254.2,274.0 Z"
 		},
@@ -678,7 +678,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Pratt</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M337.1,264.1 L337.8,264.2 L337.7,274.9 L337.6,288.3 L337.6,305.7 L320.4,305.7 L286.2,305.4 L286.2,285.0 L286.5,274.5 L286.5,271.4 L286.6,263.6 L308.3,263.9 Z"
 		},
@@ -691,7 +691,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Saline</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.7,139.5 L387.7,131.0 L400.4,131.0 L438.8,130.9 L438.8,136.0 L439.0,171.8 L411.5,172.0 L388.0,171.9 L387.7,161.7 L387.7,141.2 L387.7,141.2 L387.7,141.2 Z"
 		},
@@ -704,7 +704,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>McPherson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M388.1,182.2 L388.0,176.9 L388.0,171.9 L411.5,172.0 L439.0,171.8 L439.2,195.1 L439.4,223.0 L417.3,223.1 L408.8,223.2 L397.7,223.2 L388.3,223.2 L388.0,213.0 Z"
 		},
@@ -717,7 +717,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Wichita</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M52.9,206.3 L51.3,206.2 L50.6,206.2 L51.9,174.7 L52.7,154.9 L54.9,155.0 L60.3,155.2 L80.3,155.8 L93.0,156.3 L92.0,187.9 L91.5,207.5 L71.0,206.9 Z"
 		},
@@ -730,7 +730,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Russell</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M286.0,161.2 L285.5,161.2 L285.1,161.2 L285.6,139.8 L286.1,109.9 L315.5,110.2 L336.3,110.4 L336.8,110.4 L336.6,141.2 L336.4,154.9 L336.3,161.6 L316.5,161.5 Z"
 		},
@@ -743,7 +743,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Rooks</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M235.4,109.3 L235.2,109.3 L234.2,109.2 L235.0,77.6 L235.4,58.1 L252.9,58.4 L284.1,58.8 L285.2,58.8 L286.1,58.8 L285.8,79.3 L285.2,109.9 L271.5,109.7 Z"
 		},
@@ -756,7 +756,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Bourbon</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M653.1,277.5 L653.1,275.8 L652.9,270.7 L652.6,260.4 L653.4,260.4 L652.7,234.8 L664.5,234.5 L695.8,233.4 L696.6,264.0 L697.1,276.2 L658.1,277.3 Z"
 		},
@@ -769,7 +769,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Finney</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M173.1,210.2 L173.9,210.3 L174.7,210.3 L174.4,230.8 L174.0,241.0 L133.4,239.7 L132.7,260.1 L133.9,260.1 L133.6,271.0 L103.0,270.0 L92.7,269.7 L93.1,258.8 L91.8,258.8 L93.6,207.6 L111.9,208.1 L132.4,208.9 L154.7,209.7 Z"
 		},
@@ -782,7 +782,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Hodgeman</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M234.3,211.5 L235.6,211.6 L235.3,232.1 L235.1,245.5 L234.9,252.6 L193.3,251.8 L173.7,251.2 L173.7,251.2 L173.9,245.4 L174.0,241.0 L174.4,230.8 L174.7,210.3 L195.7,210.9 Z"
 		},
@@ -795,7 +795,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Decatur</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M133.7,55.6 L133.3,55.6 L131.8,55.6 L132.8,24.8 L133.5,4.6 L155.5,5.2 L184.1,6.0 L183.4,31.3 L182.8,57.1 L173.3,56.8 Z"
 		},
@@ -808,7 +808,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Thomas</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M131.8,55.6 L133.3,55.6 L133.7,55.6 L132.3,98.1 L132.0,106.7 L128.8,106.6 L123.8,106.4 L123.8,106.4 L103.2,105.8 L70.7,104.4 L71.6,83.3 L72.9,53.5 L122.4,55.3 Z"
 		},
@@ -821,7 +821,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Phillips</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M235.4,58.1 L233.7,58.1 L233.0,58.1 L233.8,18.8 L234.2,7.0 L262.7,7.5 L284.6,7.7 L284.4,34.0 L284.1,58.8 L252.9,58.4 Z"
 		},
@@ -834,7 +834,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Gray</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M173.7,251.2 L173.5,261.4 L174.7,261.5 L173.5,302.8 L157.9,302.4 L132.6,301.7 L133.1,287.5 L133.6,271.0 L133.9,260.1 L132.7,260.1 L133.4,239.7 L174.0,241.0 L173.9,245.4 L173.7,251.2 Z"
 		},
@@ -847,7 +847,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Seward</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M132.3,312.0 L134.1,312.0 L133.0,342.7 L132.8,357.6 L123.3,357.4 L92.0,356.5 L92.5,336.3 L93.4,310.7 L99.4,310.9 Z"
 		},
@@ -860,7 +860,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Meade</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M173.5,302.8 L182.1,303.0 L183.7,303.1 L183.5,313.4 L184.9,313.4 L184.1,358.7 L163.5,358.2 L132.8,357.6 L133.0,342.7 L134.1,312.0 L132.3,312.0 L132.3,312.0 L132.4,310.3 L132.6,301.7 L157.9,302.4 Z"
 		},
@@ -873,7 +873,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Haskell</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M132.6,301.7 L132.4,310.3 L132.3,312.0 L99.4,310.9 L93.4,310.7 L92.4,310.7 L91.3,310.7 L92.2,282.8 L92.7,269.7 L103.0,270.0 L133.6,271.0 L133.1,287.5 Z"
 		},
@@ -886,7 +886,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Barber</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M337.6,305.7 L337.5,315.9 L348.3,316.0 L348.3,316.0 L348.3,316.0 L348.3,319.8 L348.3,333.1 L348.3,335.0 L348.3,340.6 L348.4,361.3 L305.9,360.9 L286.8,360.7 L287.2,315.5 L286.2,315.5 L286.3,310.0 L286.2,305.4 L320.4,305.7 Z"
 		},
@@ -899,7 +899,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Leavenworth</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M664.6,122.3 L661.0,123.2 L654.3,121.6 L651.1,123.8 L648.3,124.1 L648.6,127.2 L641.2,124.2 L639.3,126.3 L638.9,116.9 L638.5,107.0 L639.2,106.9 L638.1,72.8 L657.2,72.3 L657.4,72.2 L660.0,75.6 L664.8,75.1 L665.8,77.0 L663.0,80.0 L664.3,86.2 L671.0,91.7 L670.7,95.7 L675.9,97.3 L664.5,97.4 L664.1,106.2 Z"
 		},
@@ -912,7 +912,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Kearny</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M91.5,207.5 L92.8,207.6 L93.6,207.6 L91.8,258.8 L93.1,258.8 L92.7,269.7 L71.8,269.0 L51.9,268.2 L52.4,257.5 L50.9,257.4 L52.9,206.3 L71.0,206.9 Z"
 		},
@@ -925,7 +925,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Scott</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M93.6,207.6 L92.8,207.6 L91.5,207.5 L92.0,187.9 L93.0,156.3 L110.1,157.1 L121.5,157.3 L127.9,157.5 L133.6,157.7 L132.9,187.5 L132.4,208.9 L111.9,208.1 Z"
 		},
@@ -938,7 +938,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Shawnee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M560.6,109.3 L560.9,108.9 L560.7,98.7 L598.2,97.8 L601.5,97.8 L601.8,108.0 L601.3,115.6 L605.7,115.0 L610.2,116.3 L610.4,124.6 L610.7,138.2 L583.5,139.0 L569.8,139.2 L569.1,112.4 Z"
 		},
@@ -951,7 +951,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Stanton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M50.5,309.1 L48.8,309.0 L47.6,309.0 L36.9,308.5 L2.1,307.0 L2.9,289.8 L3.9,265.9 L31.0,267.3 L51.9,268.2 L51.6,279.0 Z"
 		},
@@ -964,7 +964,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Stevens</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M47.6,309.0 L48.8,309.0 L50.5,309.1 L67.1,309.8 L91.3,310.7 L92.4,310.7 L93.4,310.7 L92.5,336.3 L92.0,356.5 L81.3,356.3 L45.9,355.2 L47.0,326.6 Z"
 		},
@@ -977,7 +977,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Coffey</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M570.7,231.6 L570.5,221.4 L570.5,221.4 L570.5,221.4 L570.5,221.4 L570.5,221.4 L570.3,211.0 L571.1,211.0 L570.6,190.5 L585.9,190.2 L611.4,189.5 L611.5,191.2 L611.6,194.6 L612.1,210.0 L611.2,210.0 L611.7,236.0 L594.7,236.3 L570.8,236.8 L570.8,236.8 Z"
 		},
@@ -990,7 +990,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Franklin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M611.6,194.6 L611.5,191.2 L611.4,189.5 L610.6,158.8 L611.1,153.6 L620.3,153.4 L652.0,152.4 L651.3,157.6 L652.5,193.4 L633.7,194.0 Z"
 		},
@@ -1003,7 +1003,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Woodson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M570.8,236.8 L570.8,236.8 L594.7,236.3 L611.7,236.0 L612.4,261.6 L612.1,271.9 L598.6,272.2 L571.5,272.7 L571.5,262.4 Z"
 		},
@@ -1016,7 +1016,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Osage</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M570.2,154.6 L569.8,142.7 L569.8,139.2 L583.5,139.0 L610.7,138.2 L611.0,147.4 L611.1,153.6 L610.6,158.8 L611.4,189.5 L585.9,190.2 L570.6,190.5 L570.0,159.8 Z"
 		},
@@ -1029,7 +1029,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Smith</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M286.1,58.8 L285.2,58.8 L284.1,58.8 L284.4,34.0 L284.6,7.7 L329.1,8.1 L335.5,8.2 L335.4,29.5 L335.1,59.3 L329.4,59.2 Z"
 		},
@@ -1042,7 +1042,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Wallace</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M60.3,155.2 L54.9,155.0 L52.7,154.9 L32.5,154.3 L8.7,153.3 L9.5,134.6 L10.8,102.2 L30.7,103.0 L62.8,104.1 L61.0,140.8 Z"
 		},
@@ -1055,7 +1055,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Sedgwick</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M408.9,253.9 L410.2,253.9 L440.2,253.7 L460.0,253.5 L460.0,263.8 L460.4,304.9 L440.2,304.9 L399.1,305.4 L399.0,285.1 L399.1,274.9 L409.2,274.7 L408.9,254.0 L408.9,253.9 Z"
 		},
@@ -1068,7 +1068,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Harper</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M348.4,361.3 L348.4,361.3 L348.3,340.6 L348.3,333.1 L348.3,322.5 L348.3,319.8 L348.3,316.0 L348.3,316.0 L348.3,316.0 L348.3,316.0 L348.3,316.0 L367.1,316.0 L399.2,315.8 L399.7,336.3 L399.8,361.3 L352.8,361.4 Z"
 		},
@@ -1081,7 +1081,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Sumner</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M461.5,360.9 L431.8,361.2 L399.8,361.3 L399.7,336.3 L399.2,315.8 L399.2,312.2 L399.1,305.4 L440.2,304.9 L460.4,304.9 L460.8,323.2 Z"
 		},
@@ -1094,7 +1094,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Allen</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M652.9,270.7 L645.3,270.9 L612.1,271.9 L612.4,261.6 L611.7,236.0 L628.6,235.5 L652.7,234.8 L653.4,260.4 L652.6,260.4 Z"
 		},
@@ -1107,7 +1107,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Miami</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M652.5,193.4 L651.3,157.6 L652.0,152.4 L673.3,151.7 L693.2,151.0 L693.5,166.6 L694.3,192.1 L672.3,192.9 Z"
 		},
@@ -1120,7 +1120,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Cherokee</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M655.6,316.8 L671.2,316.3 L698.5,315.5 L700.0,355.4 L657.1,356.8 L656.1,328.3 Z"
 		},
@@ -1133,7 +1133,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Comanche</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M286.8,360.7 L243.8,360.2 L235.8,360.0 L235.9,336.9 L236.3,315.1 L258.0,315.3 L286.2,315.5 L287.2,315.5 Z"
 		},
@@ -1146,7 +1146,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Stafford</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M337.1,264.1 L308.3,263.9 L286.6,263.6 L285.8,263.6 L286.0,243.1 L296.2,243.2 L296.5,212.5 L314.5,212.7 L336.6,212.9 L337.3,212.9 L337.2,223.2 L337.2,253.3 Z"
 		},
@@ -1159,7 +1159,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Rice</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M388.3,223.2 L367.9,223.2 L367.9,224.9 L361.1,225.0 L361.1,223.2 L337.2,223.2 L337.3,212.9 L336.6,212.9 L336.7,199.3 L336.8,182.2 L384.9,182.2 L388.1,182.2 L388.0,213.0 Z"
 		},
@@ -1172,7 +1172,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Marshall</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M540.3,6.9 L541.1,47.8 L541.3,58.0 L517.6,58.4 L510.1,58.5 L503.3,58.6 L489.7,58.8 L489.4,37.2 L489.1,7.7 L520.0,7.3 Z"
 		},
@@ -1185,7 +1185,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Butler</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M519.2,304.1 L489.4,304.5 L460.4,304.9 L460.0,263.8 L460.0,253.5 L460.0,249.4 L459.8,233.0 L480.6,233.0 L488.8,232.9 L507.1,232.5 L518.3,232.4 L518.6,266.1 L519.0,288.7 L519.1,301.3 Z"
 		},
@@ -1198,7 +1198,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Chase</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M518.3,232.4 L507.1,232.5 L488.8,232.9 L488.7,202.0 L490.4,202.0 L490.1,181.5 L522.8,181.1 L533.1,180.9 L533.5,211.6 L533.5,222.0 L533.6,232.2 Z"
 		},
@@ -1211,7 +1211,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Doniphan</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M622.8,45.8 L622.0,16.7 L621.6,5.0 L624.4,4.9 L629.9,10.8 L634.0,11.7 L634.3,15.7 L639.5,15.7 L640.1,18.5 L645.1,20.5 L649.6,19.9 L651.8,15.8 L656.7,15.5 L659.3,17.2 L658.3,21.3 L664.2,24.8 L663.9,27.4 L659.1,30.5 L661.8,32.0 L665.0,30.3 L666.0,32.5 L662.2,36.2 L658.1,33.8 L656.0,36.2 L656.3,40.3 L651.4,43.1 L648.9,49.4 L644.9,48.9 L643.2,45.2 Z"
 		},
@@ -1224,7 +1224,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Linn</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M652.5,193.4 L672.3,192.9 L694.3,192.1 L695.1,211.9 L695.8,233.4 L664.5,234.5 L652.7,234.8 L652.1,208.9 L653.1,208.8 Z"
 		},
@@ -1237,7 +1237,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Republic</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M387.3,8.3 L403.9,8.3 L438.1,8.1 L438.3,26.9 L438.5,49.0 L417.5,49.2 L387.3,49.3 L387.1,28.8 Z"
 		},
@@ -1250,7 +1250,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Kiowa</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M235.5,273.5 L254.2,274.0 L286.5,274.5 L286.2,285.0 L286.2,305.4 L286.3,310.0 L286.2,315.5 L258.0,315.3 L236.3,315.1 L235.2,315.1 L235.3,305.0 L235.5,285.9 Z"
 		},
@@ -1263,7 +1263,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Grant</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M51.9,268.2 L71.8,269.0 L92.7,269.7 L92.2,282.8 L91.3,310.7 L67.1,309.8 L50.5,309.1 L51.6,279.0 Z"
 		},
@@ -1276,7 +1276,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Morton</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M45.9,355.2 L0.0,353.5 L2.1,307.0 L36.9,308.5 L47.6,309.0 L47.0,326.6 Z"
 		},
@@ -1289,7 +1289,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Clark</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M236.3,315.1 L235.9,336.9 L235.8,360.0 L204.3,359.2 L184.1,358.7 L184.9,313.4 L183.5,313.4 L183.7,303.1 L214.8,304.6 L235.3,305.0 L235.2,315.1 Z"
 		},
@@ -1302,7 +1302,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Anderson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M611.6,194.6 L633.7,194.0 L652.5,193.4 L653.1,208.8 L652.1,208.9 L652.7,234.8 L628.6,235.5 L611.7,236.0 L611.2,210.0 L612.1,210.0 Z"
 		},
@@ -1315,7 +1315,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Wyandotte</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M692.0,115.1 L674.0,115.8 L667.7,114.2 L664.6,122.3 L664.1,106.2 L664.5,97.4 L675.9,97.3 L678.1,100.4 L683.9,99.0 L687.6,102.3 L693.2,102.5 L691.7,106.9 Z"
 		},
@@ -1328,7 +1328,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Clay</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M475.8,59.0 L475.8,74.1 L476.1,99.7 L476.2,110.0 L476.0,110.0 L454.5,110.1 L438.7,110.4 L438.6,105.3 L438.7,89.9 L438.6,76.0 L438.6,59.3 L452.3,59.2 Z"
 		},
@@ -1341,7 +1341,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Jefferson</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M638.1,72.8 L639.2,106.9 L638.5,107.0 L638.9,116.9 L628.7,117.4 L624.9,118.8 L617.5,114.8 L610.2,116.3 L605.7,115.0 L601.3,115.6 L601.8,108.0 L601.5,97.8 L600.9,73.9 L602.6,73.9 L612.6,73.4 Z"
 		},
@@ -1354,7 +1354,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Washington</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M438.5,49.0 L438.3,26.9 L438.1,8.1 L460.2,7.9 L489.1,7.7 L489.4,37.2 L489.7,58.8 L482.6,58.9 L475.8,59.0 L452.3,59.2 L438.6,59.3 L438.5,51.0 Z"
 		},
@@ -1367,7 +1367,7 @@ window.JSMaps.maps.kansas = {
 			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io/",
+			"url": "#",
 			"text": "<h1>Lane</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M133.6,157.7 L145.3,158.0 L174.2,159.0 L173.9,165.9 L173.1,210.2 L154.7,209.7 L132.4,208.9 L132.9,187.5 Z"
 		}
