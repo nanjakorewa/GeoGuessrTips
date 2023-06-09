@@ -96,34 +96,6 @@
             </div>
           {{ end }}
 
-          {{ if .Params.mapName }}
-          <div class="map-container">
-            <div class="jsmaps-wrapper" id="world-map"></div>
-          </div>
-
-          <script type="text/javascript">
-          $(function() {
-              $('#world-map').JSMaps({
-              map: '{{ .Params.mapName }}',
-              stateClickAction: 'text',
-              textPosition: 'right',
-              displayAbbreviations: true,
-              disableTooltip: true,
-              selectElement: false,
-              pinSize: 0,
-              });
-          });
-          </script>
-
-          {{ $temp_path := slice "mp/maps/" (.Params.mapName) ".js" }}
-          {{ $temp_path = delimit $temp_path "" }}
-          <script src="{{ `mp/jsmaps/jsmaps-libs.js` | absURL }}" type="text/javascript"></script>
-          <script src="{{ `mp/jsmaps/jsmaps-panzoom.js` | absURL }}"></script>
-          <script src="{{ `mp/jsmaps/jsmaps.min.js` | absURL }}" type="text/javascript"></script>
-          <script src="{{ $temp_path  | absURL }}" type="text/javascript"></script>
-          {{ end }}
-
-
           <div class="content">
           {{.Content}}
 
@@ -170,6 +142,31 @@
         </div>
           {{ else }}
           {{ partial "share" . }}
+          {{ if .Params.map_index }}
+            <div class="map-container">
+                <div class="jsmaps-wrapper" id="world-map"></div>
+            </div>
+            <script type="text/javascript">
+            $(function() {
+                $('#world-map').JSMaps({
+                map: '{{ .Params.map_index }}',
+                stateClickAction: 'url',
+                disableTooltip: true,
+                selectElement: false,
+                displayAbbreviations: true,
+                hrefTarget: "_self",
+                pinSize: 0,
+                displayAbbreviationOnDisabledStates: true,
+                });
+            });
+            </script>
+            {{ $temp_path := slice "mp/maps/" .Params.map_index ".js" }}
+            {{ $temp_path = delimit $temp_path "" }}
+            <script src="{{ `mp/jsmaps/jsmaps-libs.js` | absURL }}" type="text/javascript"></script>
+            <script src="{{ `mp/jsmaps/jsmaps-panzoom.js` | absURL }}"></script>
+            <script src="{{ `mp/jsmaps/jsmaps.min.js` | absURL }}" type="text/javascript"></script>
+          <script src="{{ $temp_path  | absURL }}" type="text/javascript"></script>
+          {{ end }}
           <div class="bg-light p-4">
               {{ if in .Permalink "/rule/" }}
               <ul class="flag-list">
