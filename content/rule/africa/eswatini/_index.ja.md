@@ -51,6 +51,20 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682821665705!6m8!1m7!1stvXX7dOvI9y9u1ynHviBhQ!2m2!1d-27.02500643545952!2d31.93532396224216!3f344.43606243762974!4f12.645054239222944!5f1.655499308789675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+ナンバープレートが白と黄緑色に見える
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686315521446!6m8!1m7!1sx2W_8QdSo1XWfGZuW7m0rw!2m2!1d-26.38619079032152!2d31.17023469102327!3f68.27969989031288!4f-27.929373629586024!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% lb 50 %}}
+![](2023-06-09-22-00-36.png)
+
+By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers">Dickelbers</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45400340">Link</a>
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

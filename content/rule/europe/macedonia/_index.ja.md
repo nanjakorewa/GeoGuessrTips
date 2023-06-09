@@ -66,5 +66,14 @@ By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/marcmatter/24811858157/" title="Skopje - ТЕАТАР КОМЕДИЈА"><img src="https://live.staticflickr.com/4615/24811858157_ed741ba4fb_z.jpg" width="640" height="427" alt="Skopje - ТЕАТАР КОМЕДИЈА"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
+
+{{% notice tip %}}
+TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/Tinex" "wikipedia - tinex" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686315288931!6m8!1m7!1srTCpo9hVCHjwqxsLsg_27g!2m2!1d41.97510302684993!2d21.45374083354337!3f213.89959290203691!4f9.107857485123375!5f1.6351547338655483" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}

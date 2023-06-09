@@ -9,6 +9,8 @@
 <a href="{{ .Get 0 }}" class="hinttext by-youtube">(from 『{{ .Get 2 }}』<i class="fab fa-youtube"></i>)</a>
 {{- else if eq (.Get 1) "plonkit" -}}
 <a href="{{ .Get 0 }}" class="hinttext by-geotips">(by plonk it <i class="fas fa-map-marker-alt"></i>)</a>
+{{- else if eq (.Get 1) "youcome" -}}
+<a href="{{ .Get 0 }}" class="hinttext by-youcome">(by youtubeのコメント欄 <i class="far fa-comment"></i> {{ .Get 2 }}さん</a>)
 {{- else -}}
 <a href="https://geotips.net/" class="hinttext by-geotips">(by Geotips <i class="fas fa-map-marker-alt"></i>)</a>
 {{- end -}}

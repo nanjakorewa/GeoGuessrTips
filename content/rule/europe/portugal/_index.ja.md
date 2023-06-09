@@ -23,6 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.pt</span></li>
         <li>後ろのナンバープレートは<span class="quiz">右側が黄色</span></li>
         <li>電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
+        <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
     </ul>
     {{% rd europe portugal small %}}
 </div>

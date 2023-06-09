@@ -60,6 +60,15 @@ dont_show_usda: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682903524808!6m8!1m7!1sCbrphUesjNoUkIvld0DCfw!2m2!1d40.5333547818197!2d36.88345499003033!3f104.66404343620007!4f-4.597505529582904!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682903620129!6m8!1m7!1s-mFYhLLSp-8hx6llTtn9jQ!2m2!1d37.68900546721092!2d43.90937100132399!3f319.51318298801175!4f-1.794511892317189!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+いろんな電柱
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686317290862!6m8!1m7!1sG5mJ6cnsSX6U8x8XMwKd5w!2m2!1d39.73949932417848!2d32.75341222632087!3f95.78482578423227!4f6.296244921273754!5f1.6739744811632447" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
