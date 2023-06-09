@@ -36,12 +36,11 @@ sc: [
 家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗が並んでいる。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681123169184!6m8!1m7!1s6inKIZzEa3NfnGLkKd3SHA!2m2!1d-7.437631598558037!2d111.2137910224957!3f175.5818389161207!4f13.847072777968094!5f2.748336797787689" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="525" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。
+<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -55,15 +54,10 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123649144!6m8!1m7!1sIfcsuEIlVqEMwkPPYJg9Pw!2m2!1d0.585178825786272!2d101.3853830961266!3f172.409679315489!4f4.21978728436487!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-{{% notice tip %}}
-モザイクのかかり方によってはナンバープレートが３つに分かれて見えるかも、マレーシアなら２つに分かれて見える。また白以外にも黄色や赤のナンバープレートも存在する。
-{{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679381467003!6m8!1m7!1s30lzEjzyMKzNlBbXFtGUPA!2m2!1d-5.278066734699592!2d119.4322266927783!3f87.53465278696294!4f-8.242611371803562!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{{% notice tip %}}
+ナンバープレートは<span class="quiz">黒</span>色のものが多くモザイクのかかり方によっては３つに分かれて見えるかも、{{% goto "../malaysia/" "マレーシア" %}}なら２つに分かれて見える。また黄色や赤色といった他の色のナンバープレートも存在する。
+{{% /notice %}}
 
 {{% lb 50 small %}}
 <img src="2023-04-15-09-20-42.png" class="resolution-small" width="50%" />
@@ -80,17 +74,12 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
-Nippon Indosari Corpindo Tbkはインドネシアのパンメーカー。
+ニッポン・インドサリ・コーピンド（Nippon Indosari Corpindo Tbk）はインドネシアのパンメーカー{{% ref "https://www.sariroti.com/id" "オフィシャルサイト" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123756392!6m8!1m7!1s7AEFymYv9-0CFDFOHiegYg!2m2!1d-2.919696522806549!2d104.6328255317319!3f327.70222816854846!4f-4.876997037796414!5f3.0855249455824687" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% notice tip %}}
-コンビニ？
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+
 {{% /tab %}}
 {{% tab "🎵" %}}
 <div class="googlemap-if">
