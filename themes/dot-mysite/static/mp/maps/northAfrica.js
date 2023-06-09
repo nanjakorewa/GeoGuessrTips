@@ -60,7 +60,7 @@ window.JSMaps.maps.northAfrica = {
 		},
 		{
 			"enable": true,
-			"name": "Tunisia",
+			"name": "チュニジア",
 			"abbreviation": "TN",
 			"textX": 0,
 			"textY": 0,

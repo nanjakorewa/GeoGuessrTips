@@ -8,7 +8,7 @@ window.JSMaps.maps.europeanUnion = {
 	"paths": [
 		{
 			"enable": true,
-			"name": "Austria",
+			"name": "オーストリア",
 			"abbreviation": "AT",
 			"textX": 0,
 			"textY": 0,
@@ -21,7 +21,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Belgium",
+			"name": "ベルギー",
 			"abbreviation": "BE",
 			"textX": 0,
 			"textY": 0,
@@ -34,7 +34,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Bulgaria",
+			"name": "ブルガリア",
 			"abbreviation": "BG",
 			"textX": 0,
 			"textY": 0,
@@ -47,7 +47,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Croatia",
+			"name": "クロアチア",
 			"abbreviation": "HR",
 			"textX": 0,
 			"textY": 0,
@@ -73,7 +73,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Czech Republic",
+			"name": "チェコ",
 			"abbreviation": "CZ",
 			"textX": 0,
 			"textY": 0,
@@ -86,7 +86,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Denmark",
+			"name": "デンマーク",
 			"abbreviation": "DK",
 			"textX": 0,
 			"textY": 0,
@@ -99,7 +99,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Estonia",
+			"name": "エストニア",
 			"abbreviation": "EE",
 			"textX": 0,
 			"textY": 0,
@@ -112,7 +112,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Finland",
+			"name": "フィンランド",
 			"abbreviation": "FI",
 			"textX": 0,
 			"textY": 0,
@@ -125,7 +125,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "France",
+			"name": "フランス",
 			"abbreviation": "FR",
 			"textX": 0,
 			"textY": 0,
@@ -138,7 +138,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Germany",
+			"name": "ドイツ",
 			"abbreviation": "DE",
 			"textX": 0,
 			"textY": 0,
@@ -151,7 +151,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Greece",
+			"name": "ギリシャ",
 			"abbreviation": "GR",
 			"textX": 0,
 			"textY": 0,
@@ -177,7 +177,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Ireland",
+			"name": "アイルランド",
 			"abbreviation": "IE",
 			"textX": 0,
 			"textY": 0,
@@ -203,7 +203,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Latvia",
+			"name": "ラトビア",
 			"abbreviation": "LV",
 			"textX": 0,
 			"textY": 0,
@@ -216,7 +216,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Lithuania",
+			"name": "リトアニア",
 			"abbreviation": "LT",
 			"textX": 0,
 			"textY": 0,
@@ -229,7 +229,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Luxembourg",
+			"name": "ルクセンブルグ",
 			"abbreviation": "LU",
 			"textX": 0,
 			"textY": 0,
@@ -242,7 +242,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Malta",
+			"name": "マルタ",
 			"abbreviation": "MT",
 			"textX": 0,
 			"textY": 0,
@@ -268,7 +268,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Poland",
+			"name": "ポーランド",
 			"abbreviation": "PL",
 			"textX": 0,
 			"textY": 0,
@@ -281,7 +281,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Portugal",
+			"name": "ポルトガル",
 			"abbreviation": "PT",
 			"textX": 0,
 			"textY": 0,
@@ -294,7 +294,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Romania",
+			"name": "ルーマニア",
 			"abbreviation": "RO",
 			"textX": 0,
 			"textY": 0,
@@ -307,7 +307,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Slovakia",
+			"name": "スロバキア",
 			"abbreviation": "SK",
 			"textX": 0,
 			"textY": 0,
@@ -320,7 +320,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Slovenia",
+			"name": "スロベニア",
 			"abbreviation": "SI",
 			"textX": 0,
 			"textY": 0,
@@ -333,7 +333,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Spain",
+			"name": "スペイン",
 			"abbreviation": "ES",
 			"textX": 0,
 			"textY": 0,
@@ -346,7 +346,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Sweden",
+			"name": "スウェーデン",
 			"abbreviation": "SE",
 			"textX": 0,
 			"textY": 0,

@@ -163,7 +163,7 @@ window.JSMaps.maps.uk = {
 		},
 		{
 			"enable": false,
-			"name": "Isle of Man",
+			"name": "マン島",
 			"abbreviation": "IM",
 			"textX": 307,
 			"textY": 368,
@@ -176,7 +176,7 @@ window.JSMaps.maps.uk = {
 		},
 		{
 			"enable": false,
-			"name": "Ireland",
+			"name": "アイルランド",
 			"abbreviation": "IR",
 			"textX": 140,
 			"textY": 586,

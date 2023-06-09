@@ -86,7 +86,7 @@
         {
             "enable": true,
             "abbreviation": "WLX",
-            "name": "Luxembourg",
+            "name": "ルクセンブルグ",
             "textX": 572,
             "textY": 458,
 			"color": "#5E90B3",

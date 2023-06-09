@@ -217,7 +217,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Russia",
+			"name": "ロシア",
 			"abbreviation": "RU",
 			"textX": 329,
 			"textY": 154,
@@ -386,7 +386,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Israel",
+			"name": "イスラエル",
 			"abbreviation": "IL",
 			"textX": 29,
 			"textY": 362,
@@ -399,7 +399,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Palestine",
+			"name": "パレスチナ",
 			"abbreviation": "PS",
 			"textX": 12,
 			"textY": 374,
@@ -425,7 +425,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Jordan",
+			"name": "ヨルダン",
 			"abbreviation": "JO",
 			"textX": 29,
 			"textY": 374,
@@ -503,7 +503,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "United Arab Emirates",
+			"name": "アラブ首長国連邦",
 			"abbreviation": "AE",
 			"textX": 172,
 			"textY": 407,
@@ -542,7 +542,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Qatar",
+			"name": "カタール",
 			"abbreviation": "QA",
 			"textX": 172,
 			"textY": 395,
@@ -555,7 +555,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Turkey",
+			"name": "トルコ",
 			"abbreviation": "TR",
 			"textX": 43,
 			"textY": 316,

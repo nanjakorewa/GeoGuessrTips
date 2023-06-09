@@ -34,7 +34,7 @@ window.JSMaps.maps.luxembourg = {
 		},
 		{
 			"enable": true,
-			"name": "Luxembourg",
+			"name": "ルクセンブルグ",
 			"abbreviation": "LU",
 			"textX": 214,
 			"textY": 515,

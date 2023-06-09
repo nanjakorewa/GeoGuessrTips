@@ -139,7 +139,7 @@ window.JSMaps.maps.illinois = {
 		},
 		{
 			"enable": true,
-			"name": "Jersey",
+			"name": "ジャージー",
 			"abbreviation": "JE",
 			"textX": 0,
 			"textY": 0,

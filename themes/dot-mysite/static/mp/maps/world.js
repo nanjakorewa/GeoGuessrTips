@@ -11,7 +11,7 @@ window.JSMaps.maps.world = {
     "paths": [
         {
             "enable": true,
-            "name": "Andorra",
+            "name": "アンドラ",
             "abbreviation": "AD",
             "textX": 0,
             "textY": 0,
@@ -24,7 +24,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "United Arab Emirates",
+            "name": "アラブ首長国連邦",
             "abbreviation": "AE",
             "textX": 0,
             "textY": 0,
@@ -141,7 +141,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Austria",
+            "name": "オーストリア",
             "abbreviation": "AT",
             "textX": 0,
             "textY": 0,
@@ -245,7 +245,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Belgium",
+            "name": "ベルギー",
             "abbreviation": "BE",
             "textX": 0,
             "textY": 0,
@@ -271,7 +271,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Bulgaria",
+            "name": "ブルガリア",
             "abbreviation": "BG",
             "textX": 0,
             "textY": 0,
@@ -349,7 +349,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Bolivia",
+            "name": "ボリビア",
             "abbreviation": "BO",
             "textX": 0,
             "textY": 0,
@@ -388,7 +388,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Brazil",
+            "name": "ブラジル",
             "abbreviation": "BR",
             "textX": 0,
             "textY": 0,
@@ -440,7 +440,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Botswana",
+            "name": "ボツワナ",
             "abbreviation": "BW",
             "textX": 0,
             "textY": 0,
@@ -453,7 +453,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Belarus",
+            "name": "ベラルーシ",
             "abbreviation": "BY",
             "textX": 0,
             "textY": 0,
@@ -544,7 +544,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Switzerland",
+            "name": "スイス",
             "abbreviation": "CH",
             "textX": 0,
             "textY": 0,
@@ -583,7 +583,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Chile",
+            "name": "チリ",
             "abbreviation": "CL",
             "textX": 0,
             "textY": 0,
@@ -622,7 +622,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Colombia",
+            "name": "コロンビア",
             "abbreviation": "CO",
             "textX": 0,
             "textY": 0,
@@ -713,7 +713,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Czech Republic",
+            "name": "チェコ",
             "abbreviation": "CZ",
             "textX": 0,
             "textY": 0,
@@ -726,7 +726,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Germany",
+            "name": "ドイツ",
             "abbreviation": "DE",
             "textX": 0,
             "textY": 0,
@@ -752,7 +752,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Denmark",
+            "name": "デンマーク",
             "abbreviation": "DK",
             "textX": 0,
             "textY": 0,
@@ -804,7 +804,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Ecuador",
+            "name": "エクアドル",
             "abbreviation": "EC",
             "textX": 0,
             "textY": 0,
@@ -830,7 +830,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Estonia",
+            "name": "エストニア",
             "abbreviation": "EE",
             "textX": 0,
             "textY": 0,
@@ -869,7 +869,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Spain",
+            "name": "スペイン",
             "abbreviation": "ES",
             "textX": 0,
             "textY": 0,
@@ -895,7 +895,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Finland",
+            "name": "フィンランド",
             "abbreviation": "FI",
             "textX": 0,
             "textY": 0,
@@ -921,7 +921,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Falkland Islands",
+            "name": "フォークランド諸島",
             "abbreviation": "FK",
             "textX": 0,
             "textY": 0,
@@ -947,7 +947,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Faroe Islands",
+            "name": "フェロー諸島",
             "abbreviation": "FO",
             "textX": 0,
             "textY": 0,
@@ -960,7 +960,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "France",
+            "name": "フランス",
             "abbreviation": "FR",
             "textX": 0,
             "textY": 0,
@@ -1051,7 +1051,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Ghana",
+            "name": "ガーナ",
             "abbreviation": "GH",
             "textX": 0,
             "textY": 0,
@@ -1155,7 +1155,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Greece",
+            "name": "ギリシャ",
             "abbreviation": "GR",
             "textX": 0,
             "textY": 0,
@@ -1272,7 +1272,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Croatia",
+            "name": "クロアチア",
             "abbreviation": "HR",
             "textX": 0,
             "textY": 0,
@@ -1324,7 +1324,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Ireland",
+            "name": "アイルランド",
             "abbreviation": "IE",
             "textX": 0,
             "textY": 0,
@@ -1337,7 +1337,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Israel",
+            "name": "イスラエル",
             "abbreviation": "IL",
             "textX": 0,
             "textY": 0,
@@ -1350,7 +1350,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Isle of Man",
+            "name": "マン島",
             "abbreviation": "IM",
             "textX": 0,
             "textY": 0,
@@ -1415,7 +1415,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Iceland",
+            "name": "アイスランド",
             "abbreviation": "IS",
             "textX": 0,
             "textY": 0,
@@ -1441,7 +1441,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Jersey",
+            "name": "ジャージー",
             "abbreviation": "JE",
             "textX": 0,
             "textY": 0,
@@ -1467,7 +1467,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Jordan",
+            "name": "ヨルダン",
             "abbreviation": "JO",
             "textX": 0,
             "textY": 0,
@@ -1506,7 +1506,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Kenya",
+            "name": "ケニア",
             "abbreviation": "KE",
             "textX": 0,
             "textY": 0,
@@ -1740,7 +1740,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Lesotho",
+            "name": "レソト",
             "abbreviation": "LS",
             "textX": 0,
             "textY": 0,
@@ -1753,7 +1753,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Lithuania",
+            "name": "リトアニア",
             "abbreviation": "LT",
             "textX": 0,
             "textY": 0,
@@ -1766,7 +1766,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Luxembourg",
+            "name": "ルクセンブルグ",
             "abbreviation": "LU",
             "textX": 0,
             "textY": 0,
@@ -1779,7 +1779,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Latvia",
+            "name": "ラトビア",
             "abbreviation": "LV",
             "textX": 0,
             "textY": 0,
@@ -1844,7 +1844,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Madagascar",
+            "name": "マダガスカル",
             "abbreviation": "MG",
             "textX": 0,
             "textY": 0,
@@ -1857,7 +1857,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Montenegro",
+            "name": "モンテネグロ",
             "abbreviation": "ME",
             "textX": 0,
             "textY": 0,
@@ -1909,7 +1909,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Mali",
+            "name": "マリ",
             "abbreviation": "ML",
             "textX": 0,
             "textY": 0,
@@ -2013,7 +2013,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Malta",
+            "name": "マルタ",
             "abbreviation": "MT",
             "textX": 0,
             "textY": 0,
@@ -2156,7 +2156,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Nigeria",
+            "name": "ナイジェリア",
             "abbreviation": "NG",
             "textX": 0,
             "textY": 0,
@@ -2195,7 +2195,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Norway",
+            "name": "ノルウェー",
             "abbreviation": "NO",
             "textX": 0,
             "textY": 0,
@@ -2286,7 +2286,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Peru",
+            "name": "ペルー",
             "abbreviation": "PE",
             "textX": 0,
             "textY": 0,
@@ -2351,7 +2351,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Poland",
+            "name": "ポーランド",
             "abbreviation": "PL",
             "textX": 0,
             "textY": 0,
@@ -2416,7 +2416,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Portugal",
+            "name": "ポルトガル",
             "abbreviation": "PT",
             "textX": 0,
             "textY": 0,
@@ -2455,7 +2455,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Qatar",
+            "name": "カタール",
             "abbreviation": "QA",
             "textX": 0,
             "textY": 0,
@@ -2481,7 +2481,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Romania",
+            "name": "ルーマニア",
             "abbreviation": "RO",
             "textX": 0,
             "textY": 0,
@@ -2494,7 +2494,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Serbia",
+            "name": "セルビア",
             "abbreviation": "RS",
             "textX": 0,
             "textY": 0,
@@ -2507,7 +2507,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Russia",
+            "name": "ロシア",
             "abbreviation": "RU",
             "textX": 0,
             "textY": 0,
@@ -2520,7 +2520,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Rwanda",
+            "name": "ルワンダ",
             "abbreviation": "RW",
             "textX": 0,
             "textY": 0,
@@ -2585,7 +2585,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Sweden",
+            "name": "スウェーデン",
             "abbreviation": "SE",
             "textX": 0,
             "textY": 0,
@@ -2624,7 +2624,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Slovenia",
+            "name": "スロベニア",
             "abbreviation": "SI",
             "textX": 0,
             "textY": 0,
@@ -2650,7 +2650,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Slovakia",
+            "name": "スロバキア",
             "abbreviation": "SK",
             "textX": 0,
             "textY": 0,
@@ -2689,7 +2689,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Senegal",
+            "name": "セネガル",
             "abbreviation": "SN",
             "textX": 0,
             "textY": 0,
@@ -2923,7 +2923,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Tunisia",
+            "name": "チュニジア",
             "abbreviation": "TN",
             "textX": 0,
             "textY": 0,
@@ -2949,7 +2949,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Turkey",
+            "name": "トルコ",
             "abbreviation": "TR",
             "textX": 0,
             "textY": 0,
@@ -3001,7 +3001,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Tanzania",
+            "name": "タンザニア",
             "abbreviation": "TZ",
             "textX": 0,
             "textY": 0,
@@ -3014,7 +3014,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Ukraine",
+            "name": "ウクライナ",
             "abbreviation": "UA",
             "textX": 0,
             "textY": 0,
@@ -3027,7 +3027,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Uganda",
+            "name": "ウガンダ",
             "abbreviation": "UG",
             "textX": 0,
             "textY": 0,
@@ -3131,7 +3131,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Uruguay",
+            "name": "ウルグアイ",
             "abbreviation": "UY",
             "textX": 0,
             "textY": 0,
@@ -3300,7 +3300,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "South Africa",
+            "name": "南アフリカ共和国",
             "abbreviation": "ZA",
             "textX": 0,
             "textY": 0,

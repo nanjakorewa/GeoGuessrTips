@@ -997,7 +997,7 @@ window.JSMaps.maps.indiana = {
 		},
 		{
 			"enable": true,
-			"name": "Switzerland",
+			"name": "スイス",
 			"abbreviation": "SW",
 			"textX": 0,
 			"textY": 0,

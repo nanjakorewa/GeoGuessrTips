@@ -399,7 +399,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": false,
-			"name": "Palestine",
+			"name": "パレスチナ",
 			"abbreviation": "PS",
 			"textX": 12,
 			"textY": 374,
@@ -425,7 +425,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": false,
-			"name": "Jordan",
+			"name": "ヨルダン",
 			"abbreviation": "JO",
 			"textX": 29,
 			"textY": 374,
@@ -503,7 +503,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": false,
-			"name": "United Arab Emirates",
+			"name": "アラブ首長国連邦",
 			"abbreviation": "AE",
 			"textX": 172,
 			"textY": 407,
@@ -542,7 +542,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": false,
-			"name": "Qatar",
+			"name": "カタール",
 			"abbreviation": "QA",
 			"textX": 172,
 			"textY": 395,
@@ -555,7 +555,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": false,
-			"name": "Turkey",
+			"name": "トルコ",
 			"abbreviation": "TR",
 			"textX": 43,
 			"textY": 316,

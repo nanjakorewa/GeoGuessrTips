@@ -72,7 +72,7 @@ window.JSMaps.maps.middleEast = {
 		},
 		{
 			"enable": true,
-			"name": "Israel",
+			"name": "イスラエル",
 			"abbreviation": "IL",
 			"textX": 245,
 			"textY": 270,
@@ -85,7 +85,7 @@ window.JSMaps.maps.middleEast = {
 		},
 		{
 			"enable": true,
-			"name": "Jordan",
+			"name": "ヨルダン",
 			"abbreviation": "JO",
 			"textX": 304,
 			"textY": 330,
@@ -137,7 +137,7 @@ window.JSMaps.maps.middleEast = {
 		},
 		{
 			"enable": true,
-			"name": "Qatar",
+			"name": "カタール",
 			"abbreviation": "QA",
 			"textX": 725,
 			"textY": 490,
@@ -176,7 +176,7 @@ window.JSMaps.maps.middleEast = {
 		},
 		{
 			"enable": true,
-			"name": "Turkey",
+			"name": "トルコ",
 			"abbreviation": "TR",
 			"textX": 274,
 			"textY": 93,
@@ -189,7 +189,7 @@ window.JSMaps.maps.middleEast = {
 		},
 		{
 			"enable": true,
-			"name": "United Arab Emirates",
+			"name": "アラブ首長国連邦",
 			"abbreviation": "AE",
 			"textX": 768,
 			"textY": 537,

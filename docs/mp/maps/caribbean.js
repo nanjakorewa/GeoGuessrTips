@@ -163,7 +163,7 @@ window.JSMaps.maps.caribbean = {
 		},
 		{
 			"enable": true,
-			"name": "Colombia",
+			"name": "コロンビア",
 			"abbreviation": "CO",
 			"textX": 372,
 			"textY": 606,

@@ -7,7 +7,7 @@ window.JSMaps.maps.southAmerica = {
 	"paths": [
 		{
 			"enable": true,
-			"name": "Brazil",
+			"name": "ブラジル",
 			"abbreviation": "BR",
 			"textX": 292,
 			"textY": 239,
@@ -20,7 +20,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Ecuador",
+			"name": "エクアドル",
 			"abbreviation": "EC",
 			"textX": 27,
 			"textY": 157,
@@ -46,7 +46,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Chile",
+			"name": "チリ",
 			"abbreviation": "CL",
 			"textX": 137,
 			"textY": 367,
@@ -72,7 +72,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Peru",
+			"name": "ペルー",
 			"abbreviation": "PE",
 			"textX": 63,
 			"textY": 238,
@@ -85,7 +85,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Uruguay",
+			"name": "ウルグアイ",
 			"abbreviation": "UY",
 			"textX": 250,
 			"textY": 459,
@@ -111,7 +111,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Bolivia",
+			"name": "ボリビア",
 			"abbreviation": "BO",
 			"textX": 179,
 			"textY": 302,
@@ -163,7 +163,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Falkland Islands",
+			"name": "フォークランド諸島",
 			"abbreviation": "FK",
 			"textX": 224,
 			"textY": 652,
@@ -176,7 +176,7 @@ window.JSMaps.maps.southAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Colombia",
+			"name": "コロンビア",
 			"abbreviation": "CO",
 			"textX": 78,
 			"textY": 96,

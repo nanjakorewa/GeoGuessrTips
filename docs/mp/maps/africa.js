@@ -33,7 +33,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Madagascar",
+			"name": "マダガスカル",
 			"abbreviation": "MG",
 			"textX": 865,
 			"textY": 780,
@@ -85,7 +85,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Botswana",
+			"name": "ボツワナ",
 			"abbreviation": "BW",
 			"textX": 596,
 			"textY": 817,
@@ -98,7 +98,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Kenya",
+			"name": "ケニア",
 			"abbreviation": "KE",
 			"textX": 763,
 			"textY": 508,
@@ -124,7 +124,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Mali",
+			"name": "マリ",
 			"abbreviation": "ML",
 			"textX": 288,
 			"textY": 262,
@@ -176,7 +176,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Ghana",
+			"name": "ガーナ",
 			"abbreviation": "GH",
 			"textX": 290,
 			"textY": 408,
@@ -189,7 +189,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Uganda",
+			"name": "ウガンダ",
 			"abbreviation": "UG",
 			"textX": 704,
 			"textY": 492,
@@ -332,7 +332,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Nigeria",
+			"name": "ナイジェリア",
 			"abbreviation": "NG",
 			"textX": 402,
 			"textY": 386,
@@ -345,7 +345,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Tunisia",
+			"name": "チュニジア",
 			"abbreviation": "TN",
 			"textX": 414,
 			"textY": 52,
@@ -371,7 +371,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "South Africa",
+			"name": "南アフリカ共和国",
 			"abbreviation": "ZA",
 			"textX": 592,
 			"textY": 918,
@@ -397,7 +397,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Tanzania",
+			"name": "タンザニア",
 			"abbreviation": "TZ",
 			"textX": 728,
 			"textY": 605,
@@ -423,7 +423,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Lesotho",
+			"name": "レソト",
 			"abbreviation": "LS",
 			"textX": 639,
 			"textY": 925,
@@ -475,7 +475,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Rwanda",
+			"name": "ルワンダ",
 			"abbreviation": "RW",
 			"textX": 669,
 			"textY": 544,
@@ -488,7 +488,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Senegal",
+			"name": "セネガル",
 			"abbreviation": "SN",
 			"textX": 127,
 			"textY": 312,
