@@ -14,7 +14,7 @@ dont_show_usda: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../../cs_america/puerto-rico/", "プエルトリコ"],
+    ["../../n_america/puerto-rico/", "プエルトリコ"],
     ["../northern_mariana_islands/", "北マリアナ諸島"],
     ["../../cs_america/colombia/", "コロンビア"],
     ]

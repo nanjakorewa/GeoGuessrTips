@@ -12,7 +12,7 @@ jetro_detail: true
 jogmec_detail: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../colombia/", "コロンビア"],
+    ["../../cs_america/colombia/", "コロンビア"],
     ]
 ---
 
@@ -26,7 +26,7 @@ sc: [
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
         <li>VeTVと書いてある<span class="quiz">青</span>色のアンテナが家に付いていることがある</li>
     </ul>
-    {{% rd cs_america mexico verysmall %}}
+    {{% rd n_america mexico verysmall %}}
 </div>
 
 {{% tabs  %}}

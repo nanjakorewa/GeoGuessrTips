@@ -873,7 +873,7 @@ window.JSMaps.maps.southDakota = {
 			"color": "#ffc90e",
 			"hoverColor": "#3D6F7A",
 			"selectedColor": "#E06026",
-			"url": "https://jsmaps.io",
+			"url": "#",
 			"text": "<h1>Sample pin</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>"
 		}
 	]

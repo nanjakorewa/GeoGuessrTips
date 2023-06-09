@@ -15,7 +15,7 @@ is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../guam/", "グアム"],
-    ["../../cs_america/puerto-rico/", "プエルトリコ"],
+    ["../../n_america/puerto-rico/", "プエルトリコ"],
     ]
 ---
 

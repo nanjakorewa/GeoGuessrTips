@@ -14,7 +14,7 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../laos/", "ラオス"],
-    ["../sliranka/", "スリランカ"],
+    ["../srilanka/", "スリランカ"],
     ]
 ---
 

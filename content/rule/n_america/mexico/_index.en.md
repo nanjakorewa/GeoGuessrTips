@@ -22,7 +22,7 @@ jogmec_detail: true
         <li>Major Mexican companies are often named ~MEX or ~MX (oil giant PEMEX, cement giant CEMEX, movie theater CINEMEX, etc.)</li>
         <li>You can find a blue antenna attached to the house that says VeTV.</li>
     </ul>
-    {{% rd cs_america mexico verysmall %}}
+    {{% rd n_america mexico verysmall %}}
 </div>
 
 {{% tabs  %}}

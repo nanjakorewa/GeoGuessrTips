@@ -945,7 +945,7 @@ div.map-container {
 
 @media screen and (min-width: 800px) {
   div.jsmaps {
-    max-width: 50% !important;
+    max-width: 100% !important;
     max-height: 600px !important;
     margin: 0;
   }
@@ -965,8 +965,6 @@ div.map-container {
   }
 
   div.jsmaps-wrapper {
-    display: flex;
-    justify-content: center;
     max-height: 600px !important;
   }
 }
@@ -975,4 +973,27 @@ div.map-container {
   div.map-container {
     display: none;
   }
+}
+
+div.map-container-2 {
+  display: flex;
+  justify-content: center;
+  width: 97%;
+  margin: auto;
+}
+
+div.map-container-2 div.jsmaps-wrapper {
+  margin: auto !important;
+}
+
+div.map-container-2.narrow-map div.jsmaps-wrapper {
+  width: 60% !important;
+}
+
+div.map-container-2.middle-map div.jsmaps-wrapper {
+  width: 90% !important;
+}
+
+div.map-container, div.map-container-2 {
+  display: none !important;
 }
