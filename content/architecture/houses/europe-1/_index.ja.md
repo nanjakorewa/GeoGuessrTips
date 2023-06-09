@@ -1,5 +1,7 @@
 ---
-title: "ヨーロッパ①"
+title: "ヨーロッパ"
+title_suffix: "の家①"
+page_no: "①"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 30

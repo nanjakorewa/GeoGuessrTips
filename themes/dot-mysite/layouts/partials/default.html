@@ -299,7 +299,7 @@
 <li data-nav-id="{{.Permalink}}" title="{{.Title}}" class="sidelist
   {{if eq $fileUniqueID $currentNodeFileUniqueID}}active{{end}} no-dot">
   <a href="{{.Permalink}}">
-    {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}{{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}
+    {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}{{ if .Params.page_no }}{{.Params.page_no}}{{ end }}{{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}
   </a>
   {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
   {{ if ne $numberOfPages 0 }}
