@@ -86,7 +86,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="important-rule">植物の分布・地域ごとの優占樹種を把握する必要がある</li>
+        <li>植物の分布・地域ごとの優占樹種を把握する必要がある</li>
         <li>樺太には<span class="quiz">フキ</span>が生えていることが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>マガダンのあたりに葉っぱが<span class="quiz">針みたいな木</span>が多い{{% by "niwaisound" "twitch"  %}}</li>
     </ul>

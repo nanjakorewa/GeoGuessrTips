@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.rs</span></li>
         <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
-        <li class="important-rule">反射板が偏った薄いボラード</li>
+        <li>反射板が偏った薄いボラード</li>
     </ul>
     {{% rd europe serbia verysmall %}}
 </div>

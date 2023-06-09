@@ -50,7 +50,7 @@ There are many large companies based in the United States. Companies like Waste 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="important-rule">① Maybe you can narrow down the state by whether the license plate is on the front or not and the color of the license plate<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[Materials]</a>{{% by "rumilb" "twitch" %}}.
+        <li>① Maybe you can narrow down the state by whether the license plate is on the front or not and the color of the license plate<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[Materials]</a>{{% by "rumilb" "twitch" %}}.
             <ul>
                 <li class="no-evidence">Are most license plates in states with "new" yellow?{{% by "niwaisound" "twitch" %}}</li>
             </ul>
@@ -58,7 +58,7 @@ There are many large companies based in the United States. Companies like Waste 
         <li>② Post office buildings often have the state and city name on the wall.</li>
         <li>③ Once you find the Interstate and State Highway signs, you can narrow down your location.
             <ul>
-                <li class="important-rule">States can often be identified by their state highway signs. In some states, the shape of the state is the shape of the sign.</li>
+                <li>States can often be identified by their state highway signs. In some states, the shape of the state is the shape of the sign.</li>
                 <li>Interstate highways (signs in blue with red hats) with even-numbered roads extending east-west and odd-numbered roads extending north-south, with the northeast having larger numbers.</li>
                 <li>The highway exits are numbered, such as "Exit 1," and can be seen by zooming in.</li>
             </ul>

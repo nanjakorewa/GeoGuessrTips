@@ -23,11 +23,11 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fo</span></li>
-        <li>岩場が多く木が<span class="quiz">ほとんど生えていない</span></li>
-        <li>サッカー場が街中にある</li>
-        <li><span class="quiz">羊</span>の放牧が行われている</li>
-        <li>白色の家が多く見られる</li>
         <li>Google Carが特徴的</li>
+        <li>サッカー場が街中にある</li>
+        <li>岩場が多く木が<span class="quiz">ほとんど生えていない</span></li>
+        <li><span class="quiz">羊</span>の放牧が行われている</li>
+        <li>「Ð・ð」の文字はフェロー諸島と<span class="quiz">アイスランド</span>でのみ使用される</li>
     </ul>
 </div>
 

@@ -25,7 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>道路の線は基本的に白のみ</li>
-        <li class="important-rule">歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインとアンドラのみ</li>
+        <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインとアンドラのみ</li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
         <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
         <li><span class="quiz">黄色</span>の円柱型のポストがありCorreos社のロゴが描かれているポストがある</li>

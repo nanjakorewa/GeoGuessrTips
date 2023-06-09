@@ -11,16 +11,21 @@ flag: "IS.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../faroe_islands/", "フェロー諸島"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.is</span></li>
-        <li class="important-rule">耕作可能な土地は1％しかなく全体的に土が<span class="quiz">黒い</span></li>
-        <li class="important-rule"><span class="quiz">黄色</span>のボラードがある{{% by %}}</li>
+        <li><span class="quiz">黄色</span>のボラードがある{{% by %}}</li>
+        <li>耕作可能な土地は1％しかなく全体的に土が<span class="quiz">黒い</span></li>
         <li>自然状態の植物は<span class="quiz">コケと針状の草</span>のみ{{% by "https://ngu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=430&item_no=1&page_id=13&block_id=49" "web" "アイスランドの地質学的自然環境学的特質について - 名古屋学院大学論集　人文・自然科学篇" %}}</li>
-        <li>溶岩によって作成された地形であり、<span class="quiz">不規則に川や湿地がある。川岸がまっすぐな川はほぼ無い</span>。</li>
+        <li>溶岩によって作成された地形であり<span class="quiz">不規則に川や湿地がある</span></li>
+        <li>「Ð・ð」の文字は<span class="quiz">フェロー諸島</span>とアイスランドでのみ使用される</li>
         <li>ナンバープレートの左側に青のラインが無いので注意</li>
     </ul>
     {{% rd europe iceland verysmall %}}

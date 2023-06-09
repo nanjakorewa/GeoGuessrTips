@@ -22,7 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li class="important-rule">ナンバープレートは<span class="quiz">左側が赤色</span></li>
+        <li>ナンバープレートは<span class="quiz">左側が赤色</span></li>
         <li>ドメインは<span class="quiz">.im</span></li>
     </ul>
 </div>

@@ -23,6 +23,7 @@ sc: [
         <li>公用語はルーマニア語でラテン文字を使用する</li>
         <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多く<span class="quiz">黄</span>色のマーカーが付いていることがある{{% by %}}</li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
+        <li>「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」はルーマニアとモルドバで使用されるがモルドバは出題されないのでルーマニアとなる</li>
         <li class="no-evidence">家の前に何か箱があって黄色いパイプが伸びている</li>
         <li class="no-evidence">横断歩道の標識が黄色の反射板で囲まれていてなおかつ標識の裏側が黒色ならルーマニアかも</li>
     </ul>

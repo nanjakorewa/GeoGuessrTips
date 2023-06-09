@@ -71,7 +71,7 @@ Pipes are stretched along the fence.
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="important-rule">Need to determine plant distribution and dominant tree species by region</li>
+        <li>Need to determine plant distribution and dominant tree species by region</li>
         <li><span class="quiz">Japanese butterbur・Petasites japonicus</span> growing in Sakhalin.{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li>Many trees with <span class="quiz">needle-like leaves</span> around Magadan (not sure what kind of trees){{% by "niwaisound" "twitch"  %}}</li>
     </ul>

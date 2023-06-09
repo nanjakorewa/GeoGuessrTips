@@ -15,7 +15,7 @@ jetro_detail: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hu</span></li>
-        <li class="important-rule">標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}</li>
+        <li>標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}</li>
         <li>ダブルアキュートを使う文字が含まれるのはハンガリー語（<span class="quiz">ű・ő</span>）とチュヴァシュ語（ӳ）だが、チュヴァシュ語がロシアのごく一部の領域{{% by "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88" "wiki" "ダブルアキュート" %}}</li>
         <li><span class="quiz">Utca</span>はハンガリー語でstreetの意味、看板によくある{{% by %}}</li>
         <li>平坦な国で山がほとんど無い</li>

@@ -17,7 +17,7 @@ dont_show_usda: true
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.tr</span></li>
-        <li class="important-rule">止まれの標識は<span class="quiz">DUR</span></li>
+        <li>止まれの標識は<span class="quiz">DUR</span></li>
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
     </ul>
     {{% rd middle_east turkey verysmall %}}
