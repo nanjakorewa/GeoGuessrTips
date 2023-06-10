@@ -951,7 +951,7 @@ div.map-container {
   }
 
   div.jsmaps svg {
-    max-height: 600px !important;
+    max-height: 90% !important;
   }
 
   div.jsmaps-text {
@@ -975,23 +975,64 @@ div.map-container {
   }
 }
 
-div.map-container-2 {
+div.areamap-container.narrow-map div.jsmaps {
+  width: 100% !important;
   display: flex;
   justify-content: center;
-  width: 97%;
-  margin: auto;
 }
 
-div.jsmaps-wrapper {
+div.areamap-container.narrow-map div.jsmaps svg {
+  max-width: 400px !important;
+  max-height: 600px !important;
+  margin: 0 auto !important;
+}
+
+
+div.areamap-container.wide-map div.jsmaps {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+}
+
+div.areamap-container.wide-map div.jsmaps svg {
+  max-width: 85% !important;
+  max-height: 700px !important;
+  margin: 0 auto !important;
+  padding-left: 4%;
+}
+
+div.areamap-container.wide-map2 div.jsmaps {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
+}
+
+div.areamap-container.wide-map2 div.jsmaps svg {
+  max-width: 700px !important;
+  max-height: 600px !important;
   margin: auto !important;
+  padding-left: 8%;
 }
 
-div.jsmaps svg {
-  margin: auto;
-  max-width: 900px;
+div.areamap-container.wide-map3 div.jsmaps {
+  width: 100% !important;
+  display: flex;
+  justify-content: center;
 }
 
-div.map-container, div.map-container-2 {
+div.areamap-container.wide-map3 div.jsmaps svg {
+  max-width: 750px !important;
+  max-height: 700px !important;
+  margin: 0 auto !important;
+  padding-left: 4%;
+}
+
+div.areamap-container {
+  min-height: 500px;
+}
+
+
+div.map-container, div.areamap-container {
   /* 開発用の設定 */
-  display: none;
+  /* display: none; */
 }

@@ -139,7 +139,7 @@ window.JSMaps.maps.guatemala = {
 		},
 		{
 			"enable": true,
-			"name": "Guatemala",
+			"name": "グアテマラ",
 			"abbreviation": "GU",
 			"textX": 0,
 			"textY": 0,

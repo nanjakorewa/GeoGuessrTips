@@ -346,7 +346,7 @@ window.JSMaps.maps.china = {
 		},
 		{
 			"enable": true,
-			"name": "Taiwan",
+			"name": "台湾",
 			"abbreviation": "",
 			"textX": 0,
 			"textY": 0,

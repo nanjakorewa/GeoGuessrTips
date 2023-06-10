@@ -154,7 +154,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Australia",
+            "name": "オーストラリア",
             "abbreviation": "AU",
             "textX": 0,
             "textY": 0,
@@ -986,7 +986,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "United Kingdom",
+            "name": "イギリス",
             "abbreviation": "GB",
             "textX": 0,
             "textY": 0,
@@ -1064,7 +1064,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Gibraltar",
+            "name": "ジブラルタル",
             "abbreviation": "GI",
             "textX": 0,
             "textY": 0,
@@ -1077,7 +1077,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Greenland",
+            "name": "グリーンランド",
             "abbreviation": "GL",
             "textX": 0,
             "textY": 0,
@@ -1181,7 +1181,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Guatemala",
+            "name": "グアテマラ",
             "abbreviation": "GT",
             "textX": 0,
             "textY": 0,
@@ -1233,7 +1233,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Hong Kong",
+            "name": "香港",
             "abbreviation": "HK",
             "textX": 0,
             "textY": 0,
@@ -1298,7 +1298,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Hungary",
+            "name": "ハンガリー",
             "abbreviation": "HU",
             "textX": 0,
             "textY": 0,
@@ -1311,7 +1311,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Indonesia",
+            "name": "インドネシア",
             "abbreviation": "ID",
             "textX": 0,
             "textY": 0,
@@ -1363,7 +1363,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "India",
+            "name": "インド",
             "abbreviation": "IN",
             "textX": 0,
             "textY": 0,
@@ -1428,7 +1428,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Italy",
+            "name": "イタリア",
             "abbreviation": "IT",
             "textX": 0,
             "textY": 0,
@@ -1480,7 +1480,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Japan",
+            "name": "日本",
             "abbreviation": "JP",
             "textX": 0,
             "textY": 0,
@@ -1519,7 +1519,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Kyrgyzstan",
+            "name": "キルギスタン",
             "abbreviation": "KG",
             "textX": 0,
             "textY": 0,
@@ -1532,7 +1532,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Cambodia",
+            "name": "カンボジア",
             "abbreviation": "KH",
             "textX": 0,
             "textY": 0,
@@ -1584,7 +1584,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "North Korea",
+            "name": "韓国",
             "abbreviation": "KP",
             "textX": 0,
             "textY": 0,
@@ -1662,7 +1662,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Lao People's Democratic Republic",
+            "name": "ラオス",
             "abbreviation": "LA",
             "textX": 0,
             "textY": 0,
@@ -1714,7 +1714,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Sri Lanka",
+            "name": "スリランカ",
             "abbreviation": "LK",
             "textX": 0,
             "textY": 0,
@@ -1818,7 +1818,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Monaco",
+            "name": "モナコ",
             "abbreviation": "MC",
             "textX": 0,
             "textY": 0,
@@ -1896,7 +1896,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Macedonia",
+            "name": "北マケドニア",
             "abbreviation": "MK",
             "textX": 0,
             "textY": 0,
@@ -1922,7 +1922,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Macau",
+            "name": "マカオ",
             "abbreviation": "MO",
             "textX": 0,
             "textY": 0,
@@ -1948,7 +1948,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Mongolia",
+            "name": "モンゴル",
             "abbreviation": "MN",
             "textX": 0,
             "textY": 0,
@@ -1974,7 +1974,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Martinique",
+            "name": "マルティニーク",
             "abbreviation": "MQ",
             "textX": 0,
             "textY": 0,
@@ -2065,7 +2065,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Mexico",
+            "name": "メキシコ",
             "abbreviation": "MX",
             "textX": 0,
             "textY": 0,
@@ -2078,7 +2078,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Malaysia",
+            "name": "マレーシア",
             "abbreviation": "MY",
             "textX": 0,
             "textY": 0,
@@ -2182,7 +2182,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Netherlands",
+            "name": "オランダ",
             "abbreviation": "NL",
             "textX": 0,
             "textY": 0,
@@ -2247,7 +2247,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "New Zealand",
+            "name": "ニュージーランド",
             "abbreviation": "NZ",
             "textX": 0,
             "textY": 0,
@@ -2325,7 +2325,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Philippines",
+            "name": "フィリピン",
             "abbreviation": "PH",
             "textX": 0,
             "textY": 0,
@@ -2338,7 +2338,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Pakistan",
+            "name": "パキスタン",
             "abbreviation": "PK",
             "textX": 0,
             "textY": 0,
@@ -2377,7 +2377,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Pitcairn Islands",
+            "name": "ピトケアン諸島",
             "abbreviation": "PN",
             "textX": 0,
             "textY": 0,
@@ -2390,7 +2390,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Puerto Rico",
+            "name": "プエルトリコ",
             "abbreviation": "PR",
             "textX": 0,
             "textY": 0,
@@ -2403,7 +2403,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Palestinian Territories",
+            "name": "パレスチナ",
             "abbreviation": "PS",
             "textX": 0,
             "textY": 0,
@@ -2468,7 +2468,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Reunion",
+            "name": "レユニオン",
             "abbreviation": "RE",
             "textX": 0,
             "textY": 0,
@@ -2598,7 +2598,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Singapore",
+            "name": "シンガポール",
             "abbreviation": "SG",
             "textX": 0,
             "textY": 0,
@@ -2637,7 +2637,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Svalbard and Jan Mayen",
+            "name": "スヴァールバル諸島",
             "abbreviation": "SJ",
             "textX": 0,
             "textY": 0,
@@ -2676,7 +2676,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "San Marino",
+            "name": "サンマリノ",
             "abbreviation": "SM",
             "textX": 0,
             "textY": 0,
@@ -2793,7 +2793,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Swaziland",
+            "name": "エスワティニ",
             "abbreviation": "SZ",
             "textX": 0,
             "textY": 0,
@@ -2858,7 +2858,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Thailand",
+            "name": "タイ",
             "abbreviation": "TH",
             "textX": 0,
             "textY": 0,
@@ -2988,7 +2988,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Taiwan",
+            "name": "台湾",
             "abbreviation": "TW",
             "textX": 0,
             "textY": 0,
@@ -3092,7 +3092,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Midway Islands",
+            "name": "ミッドウェー島",
             "abbreviation": "UM-MQ",
             "textX": 0,
             "textY": 0,
@@ -3118,7 +3118,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "United States",
+            "name": "アメリカ",
             "abbreviation": "US",
             "textX": 0,
             "textY": 0,
@@ -3209,7 +3209,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "US Virgin Islands",
+            "name": "アメリカ領ヴァージン諸島",
             "abbreviation": "VI",
             "textX": 0,
             "textY": 0,
@@ -3235,7 +3235,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Vanuatu",
+            "name": "バヌアツ",
             "abbreviation": "VU",
             "textX": 0,
             "textY": 0,

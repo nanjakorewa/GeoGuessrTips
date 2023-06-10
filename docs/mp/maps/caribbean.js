@@ -7,7 +7,7 @@ window.JSMaps.maps.caribbean = {
 	"paths": [
 		{
 			"enable": true,
-			"name": "United States of America",
+			"name": "アメリカ",
 			"abbreviation": "US",
 			"textX": 179,
 			"textY": 46,
@@ -72,7 +72,7 @@ window.JSMaps.maps.caribbean = {
 		},
 		{
 			"enable": true,
-			"name": "Puerto Rico",
+			"name": "プエルトリコ",
 			"abbreviation": "PR",
 			"textX": 632,
 			"textY": 328,
@@ -254,7 +254,7 @@ window.JSMaps.maps.caribbean = {
 		},
 		{
 			"enable": true,
-			"name": "Martinique",
+			"name": "マルティニーク",
 			"abbreviation": "MQ",
 			"textX": 842,
 			"textY": 445,

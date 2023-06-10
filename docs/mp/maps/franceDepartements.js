@@ -1295,7 +1295,7 @@ window.JSMaps.maps.franceDepartements = {
 		},
 		{
 			"enable": true,
-			"name": "Martinique",
+			"name": "マルティニーク",
 			"abbreviation": "MQ",
 			"textX": 0,
 			"textY": 0,

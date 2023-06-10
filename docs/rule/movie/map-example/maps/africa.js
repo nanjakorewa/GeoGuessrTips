@@ -631,7 +631,7 @@ window.JSMaps.maps.africa = {
 		},
 		{
 			"enable": true,
-			"name": "Swaziland",
+			"name": "エスワティニ",
 			"abbreviation": "SZ",
 			"textX": 679,
 			"textY": 884,

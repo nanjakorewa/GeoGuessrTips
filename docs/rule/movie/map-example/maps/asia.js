@@ -22,7 +22,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Philippines",
+			"name": "フィリピン",
 			"abbreviation": "PH",
 			"textX": 472,
 			"textY": 435,
@@ -48,7 +48,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Japan",
+			"name": "日本",
 			"abbreviation": "JP",
 			"textX": 517,
 			"textY": 315,
@@ -61,7 +61,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Thailand",
+			"name": "タイ",
 			"abbreviation": "TH",
 			"textX": 350,
 			"textY": 421,
@@ -100,7 +100,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "India",
+			"name": "インド",
 			"abbreviation": "IN",
 			"textX": 243,
 			"textY": 393,
@@ -191,7 +191,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Indonesia",
+			"name": "インドネシア",
 			"abbreviation": "ID",
 			"textX": 409,
 			"textY": 495,
@@ -204,7 +204,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Singapore",
+			"name": "シンガポール",
 			"abbreviation": "SG",
 			"textX": 376,
 			"textY": 485,
@@ -243,7 +243,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Malaysia",
+			"name": "マレーシア",
 			"abbreviation": "MY",
 			"textX": 355,
 			"textY": 474,
@@ -334,7 +334,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Cambodia",
+			"name": "カンボジア",
 			"abbreviation": "KH",
 			"textX": 365,
 			"textY": 434,
@@ -464,7 +464,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Mongolia",
+			"name": "モンゴル",
 			"abbreviation": "MN",
 			"textX": 351,
 			"textY": 264,
@@ -529,7 +529,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Pakistan",
+			"name": "パキスタン",
 			"abbreviation": "PK",
 			"textX": 198,
 			"textY": 360,
@@ -594,7 +594,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "North Korea",
+			"name": "韓国",
 			"abbreviation": "KP",
 			"textX": 460,
 			"textY": 298,
@@ -646,7 +646,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Taiwan",
+			"name": "台湾",
 			"abbreviation": "TW",
 			"textX": 452,
 			"textY": 380,
@@ -672,7 +672,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Sri Lanka",
+			"name": "スリランカ",
 			"abbreviation": "LK",
 			"textX": 272,
 			"textY": 460,
@@ -685,7 +685,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "Kyrgyzstan",
+			"name": "キルギスタン",
 			"abbreviation": "KG",
 			"textX": 225,
 			"textY": 296,

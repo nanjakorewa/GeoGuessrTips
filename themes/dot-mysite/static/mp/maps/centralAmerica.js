@@ -72,7 +72,7 @@ window.JSMaps.maps.centralAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Guatemala",
+			"name": "グアテマラ",
 			"abbreviation": "GT",
 			"textX": 86,
 			"textY": 141,

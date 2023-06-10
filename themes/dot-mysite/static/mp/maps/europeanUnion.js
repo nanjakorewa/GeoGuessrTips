@@ -164,7 +164,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Hungary",
+			"name": "ハンガリー",
 			"abbreviation": "HU",
 			"textX": 0,
 			"textY": 0,
@@ -190,7 +190,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Italy",
+			"name": "イタリア",
 			"abbreviation": "IT",
 			"textX": 0,
 			"textY": 0,
@@ -255,7 +255,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "Netherlands",
+			"name": "オランダ",
 			"abbreviation": "NL",
 			"textX": 0,
 			"textY": 0,
@@ -359,7 +359,7 @@ window.JSMaps.maps.europeanUnion = {
 		},
 		{
 			"enable": true,
-			"name": "United Kingdom",
+			"name": "イギリス",
 			"abbreviation": "GB",
 			"textX": 0,
 			"textY": 0,

@@ -735,7 +735,7 @@ window.JSMaps.maps.usaTerritories = {
 		},
 		{
 			"enable": true,
-			"name": "Puerto Rico",
+			"name": "プエルトリコ",
 			"abbreviation": "PR",
 			"textX": 575,
 			"textY": 534,

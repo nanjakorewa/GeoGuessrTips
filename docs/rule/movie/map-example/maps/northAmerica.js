@@ -9,7 +9,7 @@ window.JSMaps.maps.northAmerica = {
 	"paths": [
 		{
 			"enable": true,
-			"name": "Greenland",
+			"name": "グリーンランド",
 			"abbreviation": "GL",
 			"textX": 0,
 			"textY": 0,
@@ -48,7 +48,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "United States of America",
+			"name": "アメリカ",
 			"abbreviation": "US",
 			"textX": 0,
 			"textY": 0,
@@ -61,7 +61,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "United States Virgin Islands",
+			"name": "アメリカ領ヴァージン諸島",
 			"abbreviation": "VI",
 			"textX": 0,
 			"textY": 0,
@@ -308,7 +308,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Mexico",
+			"name": "メキシコ",
 			"abbreviation": "MX",
 			"textX": 0,
 			"textY": 0,
@@ -334,7 +334,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Guatemala",
+			"name": "グアテマラ",
 			"abbreviation": "GT",
 			"textX": 0,
 			"textY": 0,
@@ -360,7 +360,7 @@ window.JSMaps.maps.northAmerica = {
 		},
 		{
 			"enable": true,
-			"name": "Puerto Rico",
+			"name": "プエルトリコ",
 			"abbreviation": "PR",
 			"textX": 0,
 			"textY": 0,

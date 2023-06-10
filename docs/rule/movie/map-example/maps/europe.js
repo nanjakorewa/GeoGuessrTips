@@ -359,7 +359,7 @@ window.JSMaps.maps.europe = {
 		},
 		{
 			"enable": true,
-			"name": "Macedonia",
+			"name": "北マケドニア",
 			"abbreviation": "",
 			"textX": 0,
 			"textY": 0,
