@@ -14,12 +14,14 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../spain/", "スペイン本土"],
+    ["../malta/", "マルタ"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>車は右側通行</li>
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>道の片側・両側に低い<span class="quiz">石壁</span>があることが多い</li>
         <li><span class="quiz">カタルーニャ</span>語とカスティーリャ語の二言語が公用語となっている</li>

@@ -14,7 +14,8 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../united-kingdom/", "イギリス"],
-    ["../ireland/", "アイルランド"],
+    ["../italy/", "イタリア"],
+    ["../balearic-islands/", "バレアレス諸島"],
     ]
 ---
 
@@ -27,7 +28,6 @@ sc: [
         <li>通り名の看板に<span class="quiz">TRIQ</span>と書いてある</li>
         <li>公用語は<span class="quiz">マルタ語とイギリス英語</span></li>
         <li><span class="quiz">石灰岩の産地</span>であり家や壁が特徴的。薄い黄土色の石壁が島中に存在する。</li>
-        <li>ナンバープレートはEUによくある背景白で左側が青いものが多い</li>
         <li>マルチーズはマルタ原産であり世界最古の愛玩犬として知られているという{{% by "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%81%E3%83%BC%E3%82%BA" "wiki" "マルチーズ" %}}。ただし現地にはほぼいないらしい（<a href="https://note.interlink.blog/n/ncba2cd9e0679">出典</a>）...。</li>
     </ul>
 </div>
@@ -36,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-石灰岩を使った薄い黄土色の壁が島中に存在する
+石灰岩を使った薄い黄土色の壁が島中に存在する。見た目が似ている石壁は{{% goto "../italy/" "イタリア南部" %}}や{{% goto "../balearic-islands/" "バレアレス諸島" %}}にも見られるので<span class="quiz">左側</span>通行であることも確認する。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679668368631!6m8!1m7!1szvW6wnu1XpdR1QvIMk99Rg!2m2!1d35.8560548181086!2d14.41273861118275!3f276.1221585632379!4f0.29597480058619396!5f3.325193203789971" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

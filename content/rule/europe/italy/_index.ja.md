@@ -16,14 +16,16 @@ sc: [
     ["../san-marino/", "サンマリノ"],
     ["../albania/", "アルバニア"],
     ["../france/", "フランス"],
+    ["../malta/", "マルタ"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>車は右側通行</li>
         <li>ドメインは<span class="quiz">.it</span></li>
-        <li>上が黒い▼の形のボラードがある</li>
+        <li>上から見たら黒い▼の形のボラードがある</li>
         <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
         <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
