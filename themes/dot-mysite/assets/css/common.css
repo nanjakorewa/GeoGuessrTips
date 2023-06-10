@@ -1034,8 +1034,16 @@ div.areamap-container.wide-map3 div.jsmaps svg {
   padding-left: 4%;
 }
 
-div.areamap-container {
-  min-height: 500px;
+
+@media screen and (min-width: 800px) {
+  div.areamap-container {
+    min-height: 500px;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  div.areamap-container {
+  }
 }
 
 
