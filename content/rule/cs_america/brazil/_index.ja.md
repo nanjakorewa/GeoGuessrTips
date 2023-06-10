@@ -113,16 +113,17 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 </div>
 
 {{% tabs  %}}
-{{% tab "生態系の種類" %}}
-
-{{% notice tip %}}
-AmazôniaとPantanalは道が少ないけれど、他の地域は多くの道が存在する。（画像出典：By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a>）
-{{% /notice %}}
-
+{{% tab "植生" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-27-08-27-15.png" />
+<div class="unclickable"><img src="2023-04-27-08-27-15.png" /></div>
+<div class="googlemap-if" style="font-size:0.8em;">画像出典：By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9PebEV7j3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "Amazônia" %}}
 <div class="googlemap-if">
