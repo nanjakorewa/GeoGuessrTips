@@ -1,3 +1,6 @@
 [submodule "themes/slate"]
 	path = themes/slate
 	url = https://github.com/gesquive/slate.git
+[submodule "themes/dot-mysite/static/mp"]
+	path = themes/dot-mysite/static/mp
+	url = git@github.com:nanjakorewa/mapjs.git
