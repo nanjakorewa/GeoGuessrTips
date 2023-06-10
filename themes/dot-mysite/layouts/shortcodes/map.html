@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class=" map-container">
+<div class="map-container {{ if (.Get 1) }}width-{{(.Get 1)}}{{ end }}">
     <div class="container">
     <div class="jsmaps-wrapper" id="world-map"></div>
     </div>

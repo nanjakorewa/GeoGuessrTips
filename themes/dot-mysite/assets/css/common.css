@@ -1051,3 +1051,7 @@ div.map-container, div.areamap-container {
   /* 開発用の設定 */
   /* display: none; */
 }
+
+div.width-90 {
+  max-width: 90%;
+}
