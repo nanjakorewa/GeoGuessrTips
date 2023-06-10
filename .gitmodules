@@ -3,4 +3,4 @@
 	url = https://github.com/gesquive/slate.git
 [submodule "themes/dot-mysite/static/mp"]
 	path = themes/dot-mysite/static/mp
-	url = git@github.com:nanjakorewa/mapjs.git
+	url = git@github.com:nanjakorewa/SvgData.git
