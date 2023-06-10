@@ -485,6 +485,13 @@ div.unclickable {
   pointer-events: none;
 }
 
+/* 画面が狭い時はメニューを消す */
+@media screen and (max-width: 1000px) {
+  ul.list-styled {
+    display: none;
+  }
+}
+
 li.sidelist>a {
   margin-left: 0;
 }
