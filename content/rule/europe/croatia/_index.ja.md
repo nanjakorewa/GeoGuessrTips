@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.hr</span></li>
         <li>公用語はクロアチア語が用いられており<span class="quiz">ラテン</span>文字を使用する
             <ul>
-                <li>「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}。他に使用されるのはサーミ語・ベトナム語など。</li>
+                <li>「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字{{% by "https://youtu.be/HgPymmvsq8c?t=1281" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}。他に使用されるのはサーミ語・ベトナム語。</li>
                 <li>「Ž・ž」「Č・č」「Š・š」の文字はクロアチア・チェコ・スロバキア・スロベニア・バルト三国に見られて上にハーチェクやキャロンと呼ばれるｖのような形が付いているのが特徴的</li>
             </ul>
         </li>
@@ -43,7 +43,7 @@ sc: [
 
 {{% notice tip %}}
 <span class="quiz">Tisak plus doo</span>はタバコ製品のクロアチア最大の販売代理店であり約850店舗以上存在する。
-<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある。規模が大きくなるとKonzum→Konzum Maxi→Super Konzumと名前がか変わるらしい。
+<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある。規模が大きくなるとKonzum→Konzum Maxi→Super Konzumと名前が変わるらしい。
 {{% /notice %}}
 
 
