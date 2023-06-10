@@ -39,12 +39,18 @@ import_jquery_36: true
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>表札の数字は通りからの距離を表していて道路名と建物番号が書かれている{{% ref "https://www.konest.com/contents/korean_life_detail.html?id=6616" "道路名住所の表記方法" %}}</li>
         <li>市外局番である程度範囲を絞り込むことができる{{% ref "https://colnect.com/en/phonecards/phonecard/60989-Telephone_Area_Code-Maps-Korea_Telecom-Korea_South" "Phonecard › Telephone Area Code" %}}。以下のマップの番号が市外局番。</li>
     </ul>
 </div>
 
 
 {{% map southKoreaNumber 90 %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>表札の数字は通りからの距離を表していて道路名と建物番号が書かれている{{% ref "https://www.konest.com/contents/korean_life_detail.html?id=6616" "道路名住所の表記方法" %}}</li>
+    </ul>
+</div>
