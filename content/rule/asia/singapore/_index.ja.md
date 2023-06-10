@@ -18,7 +18,6 @@ dont_show_usda: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sg</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>タクシーが<span class="quiz">青い</span>ものが多い</li>
         <li>信号を支えるポールに<span class="quiz">穴が空いている</span>ものが多い</li>
         <li>公用語は英語・中国語・マレー語・タミル語で、看板などに4言語で表記されている</li>
         <li>標識の背景が<span class="quiz">四角い白地</span>で固定されている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}</li>
