@@ -25,7 +25,7 @@ maps: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li><span class="quiz">青い</span>ポスト</li>
+        <li><span class="quiz">青い</span>ポストがある</li>
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>逆▽の看板標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>、書いてないならば<span class="quiz">カナダ</span>になる</li>
         <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手Waste Managementのロゴである『WM』があることも。</li>
