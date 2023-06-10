@@ -48,5 +48,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683535598356!6m8!1m7!1sJWKXNtbZpJL-rPFjVTFcOw!2m2!1d65.65127559241013!2d-37.31975792701175!3f22.734939967993213!4f-35.61737462945672!5f1.7431718349436869" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+Google Carが特徴的
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686390451593!6m8!1m7!1siqs6NGkbB7O4Px9s_ct61Q!2m2!1d64.16964879365322!2d-51.73017917481543!3f359.41528509947415!4f-41.78736194440895!5f1.5120995218794824" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}

@@ -115,7 +115,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
-        <li>フランスの海外県が出ることがありそこでもEUと同じ左側が青いナンバープレートを見ることがある
+        <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
                 <li>{{% goto "../../africa/reunion/" "レユニオン" %}}</li>

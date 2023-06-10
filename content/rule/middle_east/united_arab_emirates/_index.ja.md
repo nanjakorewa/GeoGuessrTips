@@ -13,6 +13,10 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../qatar/", "カタール"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -33,8 +37,8 @@ is_has_distinctive_googlecar: true
 Google Carが特徴的で白い屋根が見える。また標識や道路番号の記号が独特。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684960080815!6m8!1m7!1sGQ3S5W1V0Lo1zmI1OefMbQ!2m2!1d25.21206239468591!2d55.25751655870031!3f351.0919701070735!4f4.131664332129915!5f2.1129157670205068" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684958803956!6m8!1m7!1sxSvV8BnLUB3MuV2kl9Rc8A!2m2!1d25.40734473322975!2d55.51560890219447!3f220.07052663744926!4f-49.21446602119926!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684960080815!6m8!1m7!1sGQ3S5W1V0Lo1zmI1OefMbQ!2m2!1d25.21206239468591!2d55.25751655870031!3f351.0919701070735!4f4.131664332129915!5f2.1129157670205068" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 
