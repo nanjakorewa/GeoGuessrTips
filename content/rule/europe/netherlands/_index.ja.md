@@ -25,8 +25,8 @@ sc: [
         <li>ナンバープレートは<span class="quiz">黄色</span>、前後を見てこの色ならオランダになる</li>
         <li>標高について<span class="quiz">国土の4分の1が海抜0m以下で最高地点も約333m、平らで高い山が無い</span></li>
         <li>家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に棒や突起物がある時も。</li>
-        <li>自転車を走る道路（Fietspad）が国中に整備されている、茶色っぽい路面か赤レンガで舗装されているケースが多い。</li>
-        <li class="no-evidence">ルクセンブルグと比べ平坦で、水路が多く、家が全体的に赤っぽく、自転車用の道路数が多いように思える</li>
+        <li>自転車を走る道路（Fietspad）が国中に整備されていて茶色っぽい路面か赤レンガで舗装されているケースが多い。</li>
+        <li class="no-evidence">ルクセンブルグと比べ平坦で、水路が多く、家が全体的に赤っぽく、自転車用の道路数が多いように思える{{% goto "../../../architecture/houses/europe-1/#オランダ" "家の見た目 > オランダ" %}}</li>
     </ul>
     {{% rd europe netherlands verysmall %}}
 </div>
@@ -36,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">青色と黄色</span>、前後を見てこの色ならオランダになる
+ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>であり前後を見てこの色ならオランダになる
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141332249!6m8!1m7!1sg1RdmgWjKbdxPkez_SYt5A!2m2!1d52.62806409963211!2d4.757430216332611!3f207.98249979502546!4f-33.31514269239735!5f2.925276879255313" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -50,11 +50,11 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 
 
 {{% notice tip %}}
-家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に紐をひっかける棒があることも。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
+家が<span class="quiz">レンガ造り</span>のものが多く、稀に最上階付近の壁に紐をひっかける棒があることもある。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682217440981!6m8!1m7!1sShrdegp8jM5kGf45qRbN4Q!2m2!1d51.9121151342119!2d4.446415080678936!3f105.34258501375567!4f15.29181978106989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682217832683!6m8!1m7!1sMXt13WzxXVmrgvcBCknubg!2m2!1d51.52462280577394!2d5.968059501168068!3f184.46227696003493!4f1.9262711336245815!5f2.5315311573194337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682217440981!6m8!1m7!1sShrdegp8jM5kGf45qRbN4Q!2m2!1d51.9121151342119!2d4.446415080678936!3f105.34258501375567!4f15.29181978106989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -82,7 +82,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
-SPARはアムステルダム、オランダに拠点がある小売業者（オランダ以外にもある）
+SPARはアムステルダムに拠点がある小売業者（店自体はオランダ以外にもある）
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679344477467!6m8!1m7!1sksoNxDxOgE1x6k6PhqdZzA!2m2!1d52.35462369937679!2d4.950458885723939!3f221.47995793446393!4f1.1243180771967474!5f2.285106199018506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
