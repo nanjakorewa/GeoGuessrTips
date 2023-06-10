@@ -46,7 +46,7 @@ import_jquery_36: true
 </div>
 
 
-{{% map southKoreaNumber 90 %}}
+{{% map southKoreaNumber 95 %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
