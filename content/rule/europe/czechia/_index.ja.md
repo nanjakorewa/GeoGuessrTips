@@ -57,6 +57,15 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683137810610!6m8!1m7!1sf_HTmx1eNXak41Ns48K5EA!2m2!1d49.83283880873212!2d18.28161402132868!3f179.98836807707247!4f-0.09167264981728351!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+こんな感じの標識を使用する<span style="font-size: 0.8em">（パブリックドメインの画像より）</span>。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-11-00-12-31.png" width="70%"/>
+<img src="2023-06-11-00-16-23.png" width="80%"/>
+</div>
+
 
 {{% /tab %}}
 {{% /tabs %}}
