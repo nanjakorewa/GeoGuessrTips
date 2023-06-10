@@ -26,7 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ng</span></li>
         <li><span class="quiz">黄色</span>の小型タクシーが町を走っている</li>
         <li><span class="quiz">パトカー</span>が付いてくることが多くランプを見ると地域もわかる{{% by %}}</li>
-        <li>GoogleCarのバーに<span class="quiz">黄色い縞模様</span>がある時がある{{% by %}}</li>
+        <li>GoogleCarのバーに<span class="quiz">黒と黄色</span>の縞模様がある時がある{{% by %}}</li>
         <li>セブンアップが人気{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}</li>
     </ul>
     {{% rd africa nigeria verysmall %}}
