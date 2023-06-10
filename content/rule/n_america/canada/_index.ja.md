@@ -166,8 +166,9 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% /tabs %}}
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">農業の分布</h2>
+    <h4 class="section-title">農業の分布</h4>
     <ul class="rule-list">
+        <li>トウモロコシはトロント周辺に多い</li>
         <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(USDA)</a></li>
     </ul>
 </div>
