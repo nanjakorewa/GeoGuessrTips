@@ -45,7 +45,7 @@ sc: [
 
 
 {{% notice tip %}}
-Go🦀ogle Carが特🦀徴的
+Go🦀ogle Carが特徴的でトラックの荷台のようなも🦀のが見える
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682062079729!6m8!1m7!1sejxUGBHbNqL-BXXae7Sahw!2m2!1d-10.49155710793352!2d105.6312488363077!3f98.70246294049934!4f-43.500924431281184!5f1.6739744811632447" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
