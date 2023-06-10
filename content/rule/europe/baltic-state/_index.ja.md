@@ -6,14 +6,14 @@ weight: 1
 add_flagindex: True
 ---
 
-{{% notice info %}}
-見分け方
-{{% /notice %}}
-
+## 見分け方
 
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+
+## 共通であるもの
 
 {{% notice tip %}}
 どの国にも、特にエストニアにOmniva（エストニア郵便、Eesti Post）のオレンジ色のロッカーが街中にある。以前の名前であるEesti Postと書かれていることもあるけれどそれでもオレンジ色で目立つ。
