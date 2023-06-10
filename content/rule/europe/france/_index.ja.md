@@ -17,7 +17,6 @@ sc: [
     ["../../n_america/saint-pierre-miquelon/", "サンピエール島およびミクロン島"],
     ["../../africa/reunion/", "レユニオン"],
     ]
-mapName: "france"
 ---
 
 <div class="main-desciption country-description">
