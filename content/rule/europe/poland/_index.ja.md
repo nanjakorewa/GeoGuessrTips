@@ -25,6 +25,7 @@ sc: [
         <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}で線が<span class="quiz">横に1本</span></li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
         <li>Ł・łの文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../latvia/" "ラトビア" %}}かも。</li>
+        <li>反射板が<span class="quiz">赤</span>色のボラードがある</li>
         <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
     </ul>
     {{% rd europe poland small %}}
@@ -44,7 +45,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの赤色のボラードは結構特徴的で赤色の場所にさらに赤に近い色の反射板が貼ってあるのでこれでもポーランドと判断できる。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい。
 {{% /notice %}}
 
 <div class="googlemap-if">
