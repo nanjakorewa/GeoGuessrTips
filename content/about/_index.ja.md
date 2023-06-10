@@ -14,7 +14,7 @@ weight: 1001
 例）こんにちは{{% by "nanjakorewa" "twitch" %}}。こんばんは{{% by "geotips" %}}。さようなら{{% ref "https://www.weblio.jp/content/%E5%B7%A6%E6%A7%98%E3%81%AA%E3%82%89" "『左様なら』" %}}。
 
 各画像の `CC-BY-` 表記については『<a href="https://creativecommons.jp/licenses/">クリエイティブ・コモンズ・ライセンスとは</a>』を参照してください。`GFDL`は『<a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>』のことを指しています。
-パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。USDA.gov上の画像は<a href="https://www.usda.gov/policies-and-links">『Policies and Links』</a>に基づいてパブリックドメインの情報として出典元のリンクを掲載して使用しています。一部のページで企業の製品や企業ロゴを記載することがありますが指名的フェアユース（つまり商標権者の商品や店舗を参照するための使用でありそのスポンサーシップや推奨を示唆するものではない）の範囲と判断しています。問題のある使い方にお気づきの場合はお手数ですがお問い合わせやコメント欄にてご連絡ください。可能な限り速やかに修正します。
+パブリックドメインの画像以外で出典が記載されていないものを見つけたらお手数ですが[こちら](https://github.com/nanjakorewa/GeoGuessrTips/issues)にご指摘お願いします。USDA.gov上の画像は<a href="https://www.usda.gov/policies-and-links">『Policies and Links』</a>に基づいてパブリックドメインの情報として出典元のリンクを掲載して使用しています。標識はほとんどのページでパブリックドメインの画像を記載していますが<a href="https://geopinning.space/rule/europe/baltic-state/latvia/">ラトビア</a>など一部のページでのみ出典ありの引用があります。企業の製品や企業ロゴを記載することがありますが指名的フェアユース（つまり商標権者の商品や店舗を参照するための使用でありそのスポンサーシップや推奨を示唆するものではない）の範囲と判断しています。問題のある使い方にお気づきの場合はお手数ですがお問い合わせやコメント欄にてご連絡ください。可能な限り速やかに修正します。
 
 あと、あくまで自分用のメモなのでジオゲッサー関係ないこともメモするかもしれません。
 
