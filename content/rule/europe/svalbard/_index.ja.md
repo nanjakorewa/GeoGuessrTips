@@ -11,7 +11,7 @@ flag: "SJ.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-is_has_distinctive_googlecar: true
+is_has_many_trekker: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../faroe_islands/", "フェロー諸島"],
@@ -34,19 +34,28 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ナンバープレートが<span class="quiz">黒背景にオレンジ色</span>がうっすらと見える。非常に寒いツンドラ気候なので{{% goto "../../n_america/greenland/" "グリーンランド" %}}のように地面に直接家を立てるのではなく地面と家の床の間に隙間があることが多い。
+非常に寒いツンドラ気候なので{{% goto "../../n_america/greenland/" "グリーンランド" %}}のように地面に直接家を立てるのではなく地面と家の床の間に隙間があることが多い。針状の短い草しか生えておらず木が育つのも厳しい環境。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683380604908!6m8!1m7!1s39SmFAyxzzl2Nht0IshIRQ!2m2!1d78.22409211782694!2d15.63796797600673!3f35.42896380071371!4f-15.668135505178128!5f2.8250272445652915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683380794693!6m8!1m7!1s2CnWYpFXiIkYa9-mZo1N3Q!2m2!1d78.21615498652524!2d15.63422913983318!3f118.46309589545005!4f9.068087069865896!5f1.4720554450926473" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686408468199!6m8!1m7!1s3nN7ZzwYPL5dj7EXIc4bPw!2m2!1d78.21977697889058!2d15.66017009688236!3f202.43020656801798!4f9.424491471442053!5f1.677990570525187" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-船の上に乗る時もあるがよーく見るとノルウェーの旗がある。
+車のナンバープレートは<span class="quiz">黒背景にオレンジ色</span>の文字がうっすらと見える。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683380604908!6m8!1m7!1s39SmFAyxzzl2Nht0IshIRQ!2m2!1d78.22409211782694!2d15.63796797600673!3f35.42896380071371!4f-15.668135505178128!5f2.8250272445652915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+船の上に乗る時もあるがよーく見るとノルウェーの旗があるかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683534840459!6m8!1m7!1sHa6f6NW3pVHEeWwL5YhBKQ!2m2!1d79.54418535780721!2d13.49684876618249!3f224.48773307977203!4f-11.315566756290295!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686408554105!6m8!1m7!1sdnxN7d1-HtMH-6PcsxXFnQ!2m2!1d79.61560130633005!2d11.49966117670627!3f116.89106314355992!4f-20.872647719244156!5f1.8136803769151784" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

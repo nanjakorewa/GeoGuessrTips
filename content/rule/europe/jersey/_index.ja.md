@@ -14,6 +14,7 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../united-kingdom/", "イギリス"],
+    ["../mannin/", "マン島"],
     ["../ireland/", "アイルランド"],
     ["../france/", "フランス"],
     ]
@@ -26,7 +27,7 @@ sc: [
         <li>ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}</li>
         <li>路側帯の線が黄色の場所が多く停止線・指導停止線と思われる線も<span class="quiz">黄</span>色で描かれている</li>
         <li>そこまで都会ではないのに大手銀行の建物がある</li>
-        <li>画質が悪い（Gen2）。白い家が多くて画質が良いならばアイルランドも検討する。</li>
+        <li>画質が悪い（Gen2）</li>
     </ul>
 </div>
 
