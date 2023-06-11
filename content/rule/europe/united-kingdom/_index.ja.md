@@ -68,7 +68,7 @@ By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-黒背景に白色のシェブロンを使う。アイルランドは背景が黄色。
+黒背景に白色のシェブロンを使う。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./r/UK_traffic_sign_515.svg" width="322px" style="margin-right:1em;">
