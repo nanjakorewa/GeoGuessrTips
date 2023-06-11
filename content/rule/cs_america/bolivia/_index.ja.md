@@ -94,7 +94,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
-        <li>スクレの特定地域のみ条例によって壁を白くすることが義務付けられている</li>
+        <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
     </ul>
 </div>
 
@@ -112,9 +112,12 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814032711!6m8!1m7!1sFSki3TR90NUS-SYIVfx1eg!2m2!1d-16.50206580841095!2d-68.19699580026527!3f97.8139935632015!4f1.9383141508718467!5f1.5592948283649846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "スクレ市街地" %}}
+{{% tab "チチカカ湖周辺" %}}
+{{% notice tip %}}
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679814195427!6m8!1m7!1sqVq9ioJYAgRYmFLoRyqkoA!2m2!1d-19.04399405020461!2d-65.26165030496426!3f277.81409401247646!4f-1.528780717322391!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681046560295!6m8!1m7!1sVw-4cks2I0ZvMgb4e5KRPQ!2m2!1d-17.07892566464851!2d-68.4636347028358!3f330.9684410577023!4f1.4459819110156502!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -123,19 +126,16 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
+        <li>スクレの特定地域のみ条例によって壁を白くすることが義務付けられている</li>
         <li>ラパスでは電柱にグレーの服を来た人形（？）が吊られていることがあるが、これは泥棒に対するメッセージらしい（参考：<a href="https://www.ganas.or.jp/20121220bolivia/">『ボリビア・アイマラ族の「泥棒を殺す習慣」、違法とならない理由』</a>）。遠くで少しぼやけていたりモザイクがかかっていたりすると本物の人間に見えるので配信する時は要注意。</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
-{{% tab "チチカカ湖周辺" %}}
-{{% notice tip %}}
-{{% /notice %}}
+{{% tab "スクレ市街地" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046560295!6m8!1m7!1sVw-4cks2I0ZvMgb4e5KRPQ!2m2!1d-17.07892566464851!2d-68.4636347028358!3f330.9684410577023!4f1.4459819110156502!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814195427!6m8!1m7!1sqVq9ioJYAgRYmFLoRyqkoA!2m2!1d-19.04399405020461!2d-65.26165030496426!3f277.81409401247646!4f-1.528780717322391!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ラパス郊外" %}}
