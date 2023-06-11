@@ -24,8 +24,9 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fo</span></li>
         <li>Google Carが特徴的</li>
-        <li>サッカー場が街中にある</li>
+        <li><span class="quiz">黄色と赤</span>色のボラードがある</li>
         <li>岩場が多く木が<span class="quiz">ほとんど生えていない</span></li>
+        <li>サッカー場が街中にある</li>
         <li><span class="quiz">羊</span>の放牧が行われている</li>
         <li>「ð」の文字はフェロー諸島と<span class="quiz">アイスランド</span>でのみ使用される</li>
     </ul>
@@ -34,13 +35,12 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Google Carが特徴的。白色の家が多く見られ、木が生えず岩場が多い様子が確認できる。
+<span class="quiz">黄色と赤</span>色のボラード。Google Carが映っているのも特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683456581209!6m8!1m7!1sgh2as2An3RaKihb4hcIZQA!2m2!1d62.09891070016452!2d-6.739733555675411!3f343.9702944133251!4f-54.84570438247961!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683456802067!6m8!1m7!1sgh2as2An3RaKihb4hcIZQA!2m2!1d62.09891070016452!2d-6.739733555675411!3f303.879542509415!4f-2.3911229444069733!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686522276340!6m8!1m7!1sQpvdcmcJRmmnSc0nSNG5Vg!2m2!1d62.19685372054629!2d-7.009582268255052!3f238.3021315836842!4f-36.868432339819364!5f1.6057699554093054" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686522177547!6m8!1m7!1sLjkag8HlvXjT-XU7XEmHTw!2m2!1d62.27730718813169!2d-6.523590840672942!3f223.8866249376807!4f-38.692126244982276!5f1.8145091978729981" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 
 {{% notice tip %}}
 サッカーが人気でサッカー場が街中と郊外に複数ある。大き目のスタジアムか大きい照明が見えたら<a href="https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%AA%E3%83%A5%E3%83%BC%E3%83%AB">トースヴェリュール</a>（首都トースハウンにあるサッカー専用スタジアム）。また羊の放牧が行われているので町の近くでも羊が見られるかも。
