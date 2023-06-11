@@ -66,6 +66,15 @@ By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682637334003!6m8!1m7!1seYUqO6cGbdlKGVOJFGfuZw!2m2!1d55.58927307871352!2d-5.174295574173716!3f25.259086547289854!4f-14.251102487486165!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+黒背景に白色のシェブロンを使う。アイルランドは背景が黄色。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./r/UK_traffic_sign_515.svg" width="322px" style="margin-right:1em;">
+<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px">
+</div>
+
 {{% /tab %}}
 {{% tab "🎵" %}}
 {{% notice tip %}}

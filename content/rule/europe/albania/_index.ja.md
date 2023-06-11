@@ -64,7 +64,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 {{% /lb %}}
 
 {{% notice tip %}}
-土地がつながっている地域で背景が黒いシェブロンを使うのはギリシャのみ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+黒背景に白い矢印のシェブロンを使う。アルバニアに直接隣接している国ではギリシャだけが黒背景に白い矢印のシェブロンを使う{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
