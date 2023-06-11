@@ -49,7 +49,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 {{% /lb %}}
 
 {{% notice tip %}}
-フランスにある電柱とおなじ形の電柱（左の奥に見える電柱）がある。また通り名のプレートもフランスと似たような形のものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった。
+フランスにある電柱とおなじ形の電柱（左の奥に見える電柱など）がある。また通り名のプレートもフランスと似たようなものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684782890693!6m8!1m7!1sCVRmk1YCW7NbX7IkeSsarg!2m2!1d16.2549968607461!2d-15.79538308364135!3f145.7599727344226!4f-0.5979499095297598!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
