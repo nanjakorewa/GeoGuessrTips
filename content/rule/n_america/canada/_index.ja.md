@@ -28,13 +28,19 @@ sc: [
     {{% rd n_america canada verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
+
 {{% tab "w-etf" %}}
-{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識にフランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。
+{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識にフランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。{{% goto "../usa/" "アメリカ" %}}は<span class="quiz">SPEED LIMIT</span>。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680092550361!6m8!1m7!1sQbi9zOhBSaKoAR4ljsZv_w!2m2!1d49.73933749078834!2d-95.15201809047014!3f145.05850004916792!4f0.1372081059932384!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<div class="googlemap-if" style="margin:7px;">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg"width="80px"  style="margin:7px">
+<img src="./CA-QC_road_sign_P-070-4-40.svg"width="80px"  style="margin:7px">
+<img src="./r/sp-on.svg"width="80px"  style="margin:7px 40px 7px 7px">
+<img src="../usa/r/MUTCD_R2-1.svg"width="80px"  style="margin:7px 7px 7px 40px">
+<img src="../usa/r/sp-oregon.png"width="80px"  style="margin:7px">
+</div>
 </div>
 
 {{% notice tip %}}TDと書かれた銀行はトロント・ドミニオン銀行の系列。RBCはRoyal Bank of Canadaの略。それぞれ国内２位と１位の資産規模。
@@ -91,7 +97,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "ナンバープレート(1)" %}}
 {{% notice tip %}}
-<span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。（画像出典：By Midnightcat1 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Wikimedia Commons</a>）
+<span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -101,14 +107,15 @@ sc: [
 
 {{% lb 50 %}}
 ![](2023-04-23-09-51-56.png)
+
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Midnightcat1&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Midnightcat1 (page does not exist)">Midnightcat1</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=118040953">Link</a>
 {{% /lb %}}
 
 {{% /tab %}}
 {{% tab "ナンバープレート(2)" %}}
 
 {{% notice tip %}}
-<span class="quiz">オンタリオ</span>のナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。（画像出典：
-By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020 Ontario license plate., <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=87142994">Wikimedia Commons</a>）
+<span class="quiz">オンタリオ</span>のナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -119,6 +126,7 @@ By Vaselineeeeeeee - Image taken in a parking lot in Coboconk, Ontario of a 2020
 {{% lb 50 %}}
 ![](2023-04-23-10-02-48.png)
 
+By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vaselineeeeeeee">Vaselineeeeeeee</a> - Image taken in a parking lot in Coboconk, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=87142994">Link</a>
 {{% /lb %}}
 
 {{% /tab %}}

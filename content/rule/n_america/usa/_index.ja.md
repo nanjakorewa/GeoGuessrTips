@@ -36,6 +36,20 @@ maps: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% tab "w-etf" %}}
+{{% notice tip %}}速度制限の表記は<span class="quiz">SPEED LIMIT</span>。ただしSPEEDしか書かれていないときは<span class="quiz">オレゴン</span>州。{{% goto "../canada/" "カナダ" %}}は<span class="quiz">MAXIMUM</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<div class="googlemap-if" style="margin:7px;">
+<img src="r/MUTCD_R2-1.svg"width="80px"  style="margin:7px 7px 7px 40px">
+<img src="r/sp-oregon.png"width="80px"  style="margin:7px 40px 7px 7px">
+<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg"width="80px"  style="margin:7px">
+<img src="../canada/CA-QC_road_sign_P-070-4-40.svg"width="80px"  style="margin:7px">
+<img src="../canada/r/sp-on.svg"width="80px"  style="margin:7px">
+</div>
+</div>
+
 {{% notice tip %}}
 <span class="quiz">青い</span>ポスト
 {{% /notice %}}
