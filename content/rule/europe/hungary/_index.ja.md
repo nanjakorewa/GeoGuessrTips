@@ -9,6 +9,10 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "HU.svg"
 jetro_detail: false
+sc_title: "間違えやすい地域"
+sc: [
+    ["../bulgaria/", "ブルガリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">

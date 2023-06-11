@@ -13,10 +13,9 @@ jogmec_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../../n_america/puerto-rico/", "プエルトリコ"],
-    ["../../n_america/mexico/", "メキシコ"],
     ["../brazil/", "ブラジル"],
     ["../ecuador/", "エクアドル"],
+    ["../../n_america/mexico/", "メキシコ"],
     ]
 ---
 

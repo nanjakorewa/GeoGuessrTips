@@ -59,6 +59,16 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679677105343!6m8!1m7!1sHzQ8bmbPPm9pnYOkg83_iw!2m2!1d-33.94114997232529!2d18.60874629092492!3f8.347004415763166!4f2.5505209374776427!5f3.0833772611191104" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <img src="./Sasol_Limited_-_Logo.svg.png" width="290px">
 </div>
+
+{{% notice tip %}}
+道路番号のフォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="align-items: center;">
+<img src="./r/M4.png" width="70px" style="margin:10px">
+<img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

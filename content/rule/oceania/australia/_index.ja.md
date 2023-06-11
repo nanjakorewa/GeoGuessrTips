@@ -15,10 +15,10 @@ dont_show_usda: true
 is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../../africa/south-africa/", "南アフリカ"],
     ["../new-zealand", "ニュージーランド"],
     ["../christmas_island/", "クリスマス島"],
     ["../cocos_islands/", "ココス諸島"],
-    ["../../africa/south-africa/", "南アフリカ"],
     ]
 ---
 
@@ -53,6 +53,15 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144661468!6m8!1m7!1sBApyf10_WfxpO26UJJ3u6w!2m2!1d-29.40199480435424!2d149.9148684407626!3f99.3413713142664!4f-19.826968570449495!5f3.3209542488875803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681502031975!6m8!1m7!1sYOKgISqcrXEMRhe-mijsIQ!2m2!1d-35.7113153978181!2d174.0286454241244!3f162.44117437861425!4f-16.704223171344054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+道路番号のフォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="align-items: center;">
+<img src="../../africa/south-africa/r/M4.png" width="70px" style="margin:10px">
+<img src="./r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
 
 {{% /tab %}}
