@@ -26,6 +26,7 @@ sc: [
         <li>電柱は<span class="quiz">8角形</span>のものが多い</li>
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
         <li>VeTVと書いてある<span class="quiz">青</span>色のアンテナが家に付いていることがある</li>
+        <li>とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}</li>
     </ul>
     {{% rd n_america mexico verysmall %}}
 </div>
@@ -42,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的、ただしこれだけでは100%確定しないので周りの雰囲気も合わせてメキシコと判断する。停まれはALTO。
+<span class="quiz">8角形</span>の電柱が特徴的、ただしこれだけでは100%確定しないので周りの雰囲気も合わせてメキシコと判断する。とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

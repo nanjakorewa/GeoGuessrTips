@@ -20,6 +20,7 @@ is_has_distinctive_googlecar: true
         <li>ドメインは<span class="quiz">.gt</span></li>
         <li>バスが派手で、屋根の上にも荷物を乗せるためのバーが付いているかも。</li>
         <li>Google Carが特徴的</li>
+        <li>とまれが「<span class="quiz">ALTO</span>」は{{% goto "../mexico/" "メキシコ" %}}かグアテマラ</li>
     </ul>
 </div>
 
