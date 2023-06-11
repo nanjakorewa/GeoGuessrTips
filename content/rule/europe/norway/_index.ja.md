@@ -52,12 +52,13 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 
 {{% notice tip %}}
-北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から、ノルウェー・スウェーデン・デンマーク。
+北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682429528654!6m8!1m7!1sAD3O_TXCyomnqmq7MhnUzQ!2m2!1d60.53187083491797!2d8.198925764370152!3f282.7220076725373!4f3.0788949818889506!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682429562575!6m8!1m7!1sCRv89byUwsp3NkEhfyKzlg!2m2!1d59.88946789775908!2d17.67337712443994!3f208.02672178727502!4f-1.1424622837273972!5f3.305055387590511" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682429601439!6m8!1m7!1sxZTEAilDXDKggcX87lxyZA!2m2!1d60.57123524898973!2d24.82397245532861!3f61.200242696597066!4f3.1140795134728023!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="../finland/NO_road_sign_362.100.svg" width="150px" style="margin:10px;" />
+<img src="../finland/Sweden_road_sign_C31-10.svg" width="150px" style="margin:10px;" />
+<img src="../finland/Finland_road_sign_C32-100.svg" width="150px" style="margin:10px;" />
 </div>
 
 {{% notice tip %}}
