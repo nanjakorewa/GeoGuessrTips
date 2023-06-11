@@ -12,6 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: true
+is_has_distinctive_googlecar: true
 ---
 
 <div class="main-desciption country-description">

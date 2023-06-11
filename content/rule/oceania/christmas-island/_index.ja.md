@@ -19,6 +19,7 @@ sc: [
     ["../australia/", "オーストラ🦀リア"],
     ["../cocos_islands/", "コ🦀コス諸島"],
     ]
+additional_icon: "🦀"
 ---
 
 <div class="main-desciption country-description">
