@@ -24,6 +24,7 @@ sc: [
         <li>後ろのナンバープレートは<span class="quiz">右側が黄色</span></li>
         <li>電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
         <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
+        <li><span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の矢印のシェブロンがある</li>
     </ul>
     {{% rd europe portugal small %}}
 </div>
@@ -49,6 +50,16 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682929507919!6m8!1m7!1sTVpNv4zs7dn6M11pkdgWCg!2m2!1d38.96112490377647!2d-9.399873449321543!3f343.5869592963145!4f-3.0339231588508966!5f1.7427477115171373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683425090137!6m8!1m7!1s8k-VYpANM2QlvAtx4HP90w!2m2!1d38.71433818759672!2d-9.347199393823699!3f87.889930860484!4f5.943048382495704!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。右ふたつはスペインのもの、自分で塗ったので厳密な色・形ではないです。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./r/xv-portugal.png" width="100px" style="margin:10px">
+<img src="../spain/r/sc-spain-1.png" width="100px" style="margin:10px 10px 10px 50px;">
+<img src="../spain/r/xv-spain-2.png" width="100px" style="margin:10px">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
