@@ -50,6 +50,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520120527!6m8!1m7!1s-plX9mxe_3c-75JrMbFwxw!2m2!1d60.19231843145348!2d12.66952427707943!3f150.08783051938525!4f-8.009418602090491!5f2.8630713791201936" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681519941867!6m8!1m7!1s5MKy4UAEyyWWxlEatUFTgQ!2m2!1d60.67461509324035!2d17.10662236796962!3f321.3257127276216!4f0.6031312557307871!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+国旗の色に近い色のシェブロンがある。ノルウェー・フィンランドは黒背景に黄色なので区別が付く{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px">
+<img src="./r/Swedish_road_sign_7_1_1.svg" width="300px" style="margin: 10px">
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -61,7 +69,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682429562575!6m8!1m7!1sCRv89byUwsp3NkEhfyKzlg!2m2!1d59.88946789775908!2d17.67337712443994!3f208.02672178727502!4f-1.1424622837273972!5f3.305055387590511" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682429601439!6m8!1m7!1sxZTEAilDXDKggcX87lxyZA!2m2!1d60.57123524898973!2d24.82397245532861!3f61.200242696597066!4f3.1140795134728023!5f3.325193203789971" width="190" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 {{% /tab %}}
 {{% tab "w-building" %}}
 

@@ -25,6 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.sm</span></li>
         <li>言語はイタリア語</li>
         <li>ナンバープレートは前後についていて<span class="quiz">水</span>色に見える</li>
+        <li>サンマリノのシェブロンは<span class="quiz">赤で背景がオレンジ</span>だがイタリアは<span class="quiz">白で背景が黒</span></li>
         <li class="no-evidence">青くて角が丸い線で囲われた通り名の看板が使われている</li>
     </ul>
     {{% rd europe san-marino verysmall %}}
@@ -44,6 +45,16 @@ sc: [
 
 By Seth Schoenderivative work: TheFlyingDutchman (talk) - San_Marino_license_plate.jpg, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
 {{% /lb %}}
+
+{{% notice tip %}}
+シェブロンの色がイタリアと異なる。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/output.jpg" width="104px" style="margin:10px">
+<img src="../italy/r/2023-05-14 041948.png" width="100px" style="margin:10px">
+</div>
+
 
 {{% /tab %}}
 {{% /tabs  %}}
