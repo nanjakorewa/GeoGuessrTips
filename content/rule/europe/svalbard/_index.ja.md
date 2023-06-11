@@ -26,7 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.sj</span></li>
         <li>ナンバープレートが<span class="quiz">黒背景にオレンジ色</span>がうっすらと見える</li>
         <li>家の建築や家の色が寒い地域特有のものになっている</li>
-        <li>Google Carが特徴的で船に乗る場所もある</li>
+        <li>船に乗る場所が多い</li>
     </ul>
 </div>
 
