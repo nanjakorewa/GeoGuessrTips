@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "MN.svg"
 jetro_detail: true
 dont_show_usda: true
+is_has_distinctive_googlecar: true
 ---
 
 <div class="main-desciption country-description">
