@@ -27,7 +27,7 @@ sc: [
         <li>言語は<span class="quiz">アラビア語</span></li>
         <li>アンマンでは<span class="quiz">黄色と緑</span>のタクシーがたくさん走っている{{% by %}}</li>
         <li>タクシーのナンバープレートの左側が<span class="quiz">緑</span>色のことが多い</li>
-        <li>都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える</li>
+        <li>都会ならばアンマンが多く丘の斜面に白い建物がびっしりと並んで見える</li>
         <li>中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
     {{% rd middle_east jordan verysmall %}}
