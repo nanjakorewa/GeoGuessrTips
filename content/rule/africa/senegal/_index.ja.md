@@ -61,7 +61,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがかなり大きいときがある。
 {{% /notice %}}
 <div class="googlemap-if">
-
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686446534206!6m8!1m7!1selo9Ar26uD_-wLGcOHucEg!2m2!1d14.08048083376086!2d-12.97505287100254!3f250.06515007223288!4f-17.27047137495677!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680287431312!6m8!1m7!1s0VMJLt0-4tIFwFVvixfCWw!2m2!1d14.75093555778545!2d-17.35376756308375!3f80.50105210742223!4f-31.91313279331974!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
