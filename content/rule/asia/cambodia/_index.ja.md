@@ -21,11 +21,11 @@ is_has_distinctive_googlecar: true
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.kh</span></li>
         <li>仏教に関係する建築物が多い</li>
-        <li><span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられている、都市部では英語も使用される。</li>
-        <li>カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。</li>
+        <li><span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられている</li>
+        <li>カンボジアの農村部は<span class="quiz">高床式住居</span>が多い</li>
         <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。</li>
         <li class="no-evidence">ちいさな祠のようなものがあって家のある方角に向かって置かれていることが多い</li>
-        <li class="no-evidence">パラソルの下でビン入りの飲み物がよく売られている。</li>
+        <li class="no-evidence">パラソルの下でビン入りの飲み物がよく売られている</li>
     </ul>
     {{% rd asia cambodia verysmall %}}
 </div>
