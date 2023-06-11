@@ -55,12 +55,18 @@ sc: [
 </div>
 
 {{% notice tip %}}
-反射板が<span class="quiz">オレンジ</span>色で、数字が書かれた標識が道路に対して<span class="quiz">斜め</span>になっている。横断歩道は<span class="quiz">３</span>本で赤い標識に<span class="quiz">白色の縁がある</span>ことがわかる。そして{{% goto "../latvia/" "ラトビア" %}}と比較すると赤い線が<span class="quiz">細い</span>感じ。
+反射板が<span class="quiz">オレンジ</span>色で、数字が書かれた標識が道路に対して<span class="quiz">斜め</span>になっている。横断歩道は<span class="quiz">３</span>本で赤い標識に<span class="quiz">白色の縁がある</span>ことがわかる。そして{{% goto "../latvia/" "ラトビア" %}}と比較すると赤い線が<span class="quiz">細い</span>感じ。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684548111398!6m8!1m7!1sX2--3B2x0ypd6wvHxwlAEw!2m2!1d55.07419832374426!2d23.88806601016458!3f269.9736975604096!4f-11.313811105808895!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684548291091!6m8!1m7!1sNK597vnzr5_GRD56IJm5Rw!2m2!1d55.88786437731212!2d21.23447715248939!3f4.833360311408367!4f4.567423297826153!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
+<img src="../Estonia_road_sign_311a.svg" width="120px" style="margin:10px;" />
+<img src="../Latvia_road_sign_302.svg" width="120px" style="margin:10px;" />
+<img src="../Lithuania_background.png" width="120px" style="margin:10px;" />
 </div>
 
 {{% /tab %}}

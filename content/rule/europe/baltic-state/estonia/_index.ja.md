@@ -56,13 +56,21 @@ sc: [
 </div>
 
 {{% notice tip %}}
-横断歩道は<span class="quiz">３</span>本で標識に縁が<span class="quiz">ない</span>。斜めから見ると外側の厚みが縁にも見えるので注意する。
+横断歩道は<span class="quiz">３</span>本で標識に縁が<span class="quiz">ない</span>。斜めから見ると外側の厚みが縁にも見えるので注意する。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684549238949!6m8!1m7!1s4W9cFaQMc_ek9GGig9Phcw!2m2!1d58.35948426936434!2d24.57032239016301!3f166.07829051421828!4f6.553574384305179!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684549427861!6m8!1m7!1sZQzayB7wC0UbW2V1waLYSg!2m2!1d58.38554624317938!2d26.7243602941676!3f49.48841726999512!4f0.30752187369996875!5f3.0892742262860935" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
+<img src="../Estonia_road_sign_311a.svg" width="120px" style="margin:10px;" />
+<img src="../Latvia_road_sign_302.svg" width="120px" style="margin:10px;" />
+<img src="../Lithuania_background.png" width="120px" style="margin:10px;" />
+</div>
+
 {{% /tab %}}
 {{% tab "商業施設" %}}
 {{% notice tip %}}

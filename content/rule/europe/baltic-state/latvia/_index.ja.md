@@ -52,11 +52,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-バルト三国の中ではラトビアのみ横断歩道の線の数が<span class="quiz">５</span>本でバスの窓も<span class="quiz">５</span>個。そして道路の横の標識の向きが道路に<span class="quiz">平行</span>。また、リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>
+バルト三国の中ではラトビアのみ横断歩道の線の数が<span class="quiz">５</span>本でバスの窓も<span class="quiz">５</span>個。そして道路の横の標識の向きが道路に<span class="quiz">平行</span>。また、リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682139835613!6m8!1m7!1sRhVGCShQ3Nh9Myo-WYpXOA!2m2!1d56.87767937065944!2d23.95010806710927!3f51.45830234076903!4f-4.1330615800655295!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684548682141!6m8!1m7!1sE2olbUf_MX8Dtd80USAUuw!2m2!1d57.2426324834745!2d22.58205771468572!3f47.6898017674211!4f-1.0838543320001008!5f3.293292491503678" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
+<img src="../Estonia_road_sign_311a.svg" width="120px" style="margin:10px;" />
+<img src="../Latvia_road_sign_302.svg" width="120px" style="margin:10px;" />
+<img src="../Lithuania_background.png" width="120px" style="margin:10px;" />
 </div>
 
 {{% notice tip %}}
