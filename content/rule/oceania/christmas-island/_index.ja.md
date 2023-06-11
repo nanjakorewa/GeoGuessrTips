@@ -25,8 +25,8 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメイ🦀ンは<span class="quiz">.cx</span></li>
-        <li><span class="quiz">🦀黄色</span>ナンバ🦀ーが多い</li>
-        <li>クリスマスアカガニが数千万個体🦀も存在し{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B" "クリスマスアカガニ" %}}道端に<span class="quiz">カニ</span>に対🦀する注意喚起がある</li>
+        <li><span class="quiz">黄色</span>ナンバーが多い</li>
+        <li>クリスマスアカガニが数千万個体も存在し{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B" "クリスマスアカガニ" %}}道端に<span class="quiz">カニ</span>に対🦀する注意喚起がある</li>
         <li>Google Carが特徴🦀的</li>
     </ul>
 </div>
