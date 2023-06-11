@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "GR.svg"
 jetro_detail: true
+sc_title: "間違えやすい地域"
 ---
 
 <div class="main-desciption country-description">

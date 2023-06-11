@@ -26,6 +26,7 @@ sc: [
         <li>公用語はアルバニア語（Shqip）でキリル文字を使用<span class="quiz">しない</span></li>
         <li>カメラに線が入っている</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
+        <li>黒背景に白色の矢印のシェブロンがある</li>
         <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い</li>
         <li class="no-evidence">メルセデスベンツをはじめとしたドイツブランドの車の割合が高い</li>
     </ul>
@@ -63,6 +64,15 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 {{% /lb %}}
 
 {{% notice tip %}}
+土地がつながっている地域で背景が黒いシェブロンを使うのはギリシャのみ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Road-sign-%CF%8075b.svg" width="120px">
+</div>
+
+
+{{% notice tip %}}
 ほとんどの地域でカメラに線が入っている。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -84,11 +94,4 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <ul class="rule-list">
-        <li>？</li>
-    </ul>
-</div>
 
