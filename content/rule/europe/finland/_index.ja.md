@@ -55,16 +55,18 @@ additional_link:
 {{% notice tip %}}
 フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
 {{% /notice %}}
-<div class="googlemap-if unclickable" style="background-color:#222; padding-top:30px;margin-bottom:0;">
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
+<div class="googlemap-if unclickable" style="margin-bottom:0;">
 <img src="./r/Finland_road_sign_A15.svg" width="150px" style="margin:10px;" />
 <img src="./r/Finland_road_sign_B5.svg" width="150px" style="margin:10px;" />
 <img src="./r/Finland_road_sign_C32-60.svg" width="150px" style="margin:10px;" />
 </div>
 
-<div class="googlemap-if unclickable" style="background-color:#222; padding-top:30px; margin-top:0;">
+<div class="googlemap-if unclickable" style="margin-top:0;">
 <img src="./Sweden_road_sign_B1.svg" width="150px" style="margin:10px;" />
 <img src="./Sweden_road_sign_C31-10.svg" width="150px" style="margin:10px;" />
 <img src="./NO_road_sign_362.100.svg" width="150px" style="margin:10px;" />
+</div>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
