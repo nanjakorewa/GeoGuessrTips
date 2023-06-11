@@ -14,6 +14,8 @@ Example: Hello {{% by "nanjakorewa" "twitch" %}}. Good evening {{% by "geotips" 
 
 Regarding the "CC-BY-" notation for each image, please refer to "<a href="https://creativecommons.org/">Creative Commons</a>" for more information. "GFDL" refers to the "<a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>." If you find any images without a source citation other than public domain images, please kindly report them here. The images from USDA.gov are used as public domain information with reference links based on "<a href="https://www.usda.gov/policies-and-links">Policies and Links</a>." While some pages may include company products or logos, it is considered nominative fair use, meaning the use is within the scope of referencing trademarked goods or establishments without implying sponsorship or endorsement. Please contact me through the inquiry or comments section if you notice any problematic use. We will make corrections as soon as possible.
 
+The maps shown may not depict remote islands or detailed areas for display reasons. Also, the map may not depict places not visited by Street View. Therefore, the actual shape may differ.
+
 Also, since this is primarily for my notes, I may include unrelated information.
 
 <h2 class="no-blur">Background Images and Tools</h2>
