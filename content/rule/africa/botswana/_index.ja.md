@@ -44,6 +44,10 @@ sc: [
 </div>
 
 {{% lb 50 %}}
+![](2023-05-11-09-34-02.png)
+
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Vicbrumby&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Vicbrumby (page does not exist)">Vicbrumby</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=5534911">Link</a>
+
 ![](2023-05-13-02-08-12.png)
 
 By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>

@@ -4,16 +4,16 @@ body {
   font-family: 'M PLUS 1p', sans-serif;
 }
 
-body::-webkit-scrollbar {
+body::-webkit-scrollbar, div.jsmaps-text::-webkit-scrollbar {
   width: 10px;
 }
 
-body::-webkit-scrollbar-thumb {
+body::-webkit-scrollbar-thumb, div.jsmaps-text::-webkit-scrollbar-thumb {
   background: linear-gradient(0deg, #e4e4e4, #aaacad);
   border-radius: 4px;
 }
 
-body::-webkit-scrollbar-track {
+body::-webkit-scrollbar-track, div.jsmaps-text::-webkit-scrollbar-track {
   background: rgb(25, 24, 42, 1.0);
 }
 
@@ -963,16 +963,16 @@ div.map-container {
 
   div.jsmaps-text {
     margin-top: 0 !important;
-    margin-left: 2em;
+    margin-left: 0em;
     padding: 1em;
     background-color: rgba(255, 255, 255, 0.5);
     z-index: 1000;
-    width: 30% !important;
-    max-height: 600px !important;
+    width: 50% !important;
+    max-height: 630px !important;
   }
 
   div.jsmaps-wrapper {
-    max-height: 600px !important;
+    max-height: 640px !important;
   }
 }
 
