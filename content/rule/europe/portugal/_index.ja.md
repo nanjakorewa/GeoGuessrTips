@@ -52,12 +52,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。右ふたつはスペインのもの、自分で塗ったので厳密な色・形ではないです。
+暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
-<img src="../spain/r/sc-spain-1.png" width="100px" style="margin:10px 10px 10px 50px;">
-<img src="../spain/r/xv-spain-2.png" width="100px" style="margin:10px">
 </div>
 
 
