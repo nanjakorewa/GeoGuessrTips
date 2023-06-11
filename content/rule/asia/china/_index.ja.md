@@ -11,6 +11,11 @@ flag: "CN.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+sc_title: "関連ページ"
+sc: [
+    ["../macau/", "澳門"],
+    ["../hongkong/", "香港"],
+    ]
 ---
 
 <div class="main-desciption country-description">
