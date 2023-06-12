@@ -45,6 +45,10 @@ sections: [""]
 
 ## 北欧３国
 
+{{% notice tip %}}
+路側帯が長いとノルウェー・短いとスウェーデン。真ん中に黄色の線があり白の破線が隣り合っているならばフィンランド。{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}
+{{% /notice %}}
+
 {{% tabs  %}}
 {{% tab "ノルウェー" %}}
 <div class="googlemap-if">
@@ -60,7 +64,7 @@ sections: [""]
 {{% /tab %}}
 {{% tab "フィンランド" %}}
 <div class="googlemap-if">
-？
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686603776939!6m8!1m7!1sCAoSK0FGMVFpcFBWT3U3cUU1RXlfREFfenNldkZSMV9YamNyWXZhTXE4bHQxWDQ.!2m2!1d61.63615656962822!2d24.19091283503242!3f206.91423935701403!4f-15.386464534950733!5f1.2908389722642994" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
