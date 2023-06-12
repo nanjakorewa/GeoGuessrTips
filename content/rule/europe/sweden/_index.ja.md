@@ -37,12 +37,14 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本でスノーポールがある。
+横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681519754577!6m8!1m7!1s81q_V9Mnf0E-fGxsrIHlUA!2m2!1d63.82607368354748!2d20.25601982362908!3f176.83962024082982!4f-2.1929483768211497!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679498470827!6m8!1m7!1sil0HXQXAK_RVOOP02tSWWA!2m2!1d66.55125093920857!2d22.33149313426502!3f331.9517393338261!4f-10.144669448100515!5f2.961660580419242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
 </div>
+
 
 {{% notice tip %}}
 看板の矢印の形が特徴的で綺麗な▷ではない{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}
@@ -65,9 +67,9 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/NO_road_sign_362.100.svg" width="150px" style="margin:10px;" />
-<img src="../finland/Sweden_road_sign_C31-10.svg" width="150px" style="margin:10px;" />
-<img src="../finland/Finland_road_sign_C32-100.svg" width="150px" style="margin:10px;" />
+<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
+<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
+<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}

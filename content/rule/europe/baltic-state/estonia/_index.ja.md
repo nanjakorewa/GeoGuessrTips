@@ -66,9 +66,9 @@ sc: [
 
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="../Estonia_road_sign_311a.svg" width="120px" style="margin:10px;" />
-<img src="../Latvia_road_sign_302.svg" width="120px" style="margin:10px;" />
-<img src="../Lithuania_background.png" width="120px" style="margin:10px;" />
+<img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
+<img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
+<img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
 </div>
 
 {{% /tab %}}

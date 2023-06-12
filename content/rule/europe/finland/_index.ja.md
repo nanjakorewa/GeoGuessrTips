@@ -45,11 +45,13 @@ additional_link:
 </div>
 
 {{% notice tip %}}
-北欧で横断歩道が<span class="quiz">5</span>本はフィンランド
+北欧で横断歩道が<span class="quiz">5</span>本はフィンランド。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span><span class="quiz">スウェーデン</span>。
 {{% /notice %}}
-<div class="googlemap-if">
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681520866970!6m8!1m7!1spcBwIaJsc2QaQ6RVOE0oqQ!2m2!1d62.31801452761126!2d27.85956453519352!3f196.22264853165746!4f-6.127584696527521!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
 </div>
 
 {{% notice tip %}}
@@ -57,15 +59,15 @@ additional_link:
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
 <div class="googlemap-if unclickable" style="margin-bottom:0;">
-<img src="./r/Finland_road_sign_A15.svg" width="150px" style="margin:10px;" />
-<img src="./r/Finland_road_sign_B5.svg" width="150px" style="margin:10px;" />
-<img src="./r/Finland_road_sign_C32-60.svg" width="150px" style="margin:10px;" />
+<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
+<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
+<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:0;">
-<img src="./Sweden_road_sign_B1.svg" width="150px" style="margin:10px;" />
-<img src="./Sweden_road_sign_C31-10.svg" width="150px" style="margin:10px;" />
-<img src="./NO_road_sign_362.100.svg" width="150px" style="margin:10px;" />
+<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
+<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
+<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
 </div>
 </div>
 {{% /tab %}}

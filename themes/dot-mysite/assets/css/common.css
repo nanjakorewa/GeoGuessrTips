@@ -1055,3 +1055,11 @@ div.map-container, div.areamap-container {
 div.width-90 {
   max-width: 90%;
 }
+
+img.margin-ten-px {
+  margin: 10px;
+}
+
+img.width150 {
+  width: 140px;
+}

@@ -27,8 +27,8 @@ sc: [
         <li>北欧であって速度表記の背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い</li>
         <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスやスノーポールが多い</li>
         <li>道路の路側帯の破線がスウェーデンと比較して<span class="quiz">長い</span>{{% goto "../../../road/road-surface/sidestrip/#北欧３国" "北欧の路側帯" %}}</li>
-        <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
         <li>「Ø・ø」の文字は<span class="quiz">デンマーク</span>とノルウェーでのみ使用される</li>
+        <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
     </ul>
     {{% rd europe norway small %}}
 </div>
@@ -36,11 +36,12 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>。宅配業者のバンなどがこの色になっていることが多い。横断歩道の標識は<span class="quiz">4本（たまに5本のものもある）</span>。道端にスノーポールもある。
 {{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681604690032!6m8!1m7!1snz4gKFQvCaRqbRezA2YfEg!2m2!1d58.44621906235802!2d8.741068899004842!3f265.26530061280164!4f-2.732571012207103!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -50,33 +51,35 @@ sc: [
 Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/wiki/File:Norway_licenseplate_green_new.JPG#/media/File:Norway_licenseplate_green_new.JPG">wikipedia commons</a>
 {{% /lb %}}
 
+{{% notice tip %}}
+横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+</div>
+
 
 {{% notice tip %}}
 北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/NO_road_sign_362.100.svg" width="150px" style="margin:10px;" />
-<img src="../finland/Sweden_road_sign_C31-10.svg" width="150px" style="margin:10px;" />
-<img src="../finland/Finland_road_sign_C32-100.svg" width="150px" style="margin:10px;" />
+<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
+<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
+<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
 </div>
 
 {{% notice tip %}}
-道路名の看板に<span class="quiz">オレンジ</span>の背景が多い
+道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681501551090!6m8!1m7!1sQMXHhNCCIrFoUa70gCIukw!2m2!1d61.91201314110614!2d5.986817049843358!3f305.9648425558945!4f-0.030381807345932543!5f3.278136263369802" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./r/1920px-Norwegian-road-sign-713.png" width="295px" style="margin:40px 0 0 10px;" />
 </div>
 
 
-{{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681604380534!6m8!1m7!1sSlhuKtPUwiPC4ETwfTWwKg!2m2!1d58.43481633781423!2d8.743017858887802!3f138.71623112058222!4f-0.9755656275686562!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681520602553!6m8!1m7!1sg9GAkBQjUr27MsQuYYtHFg!2m2!1d58.15387328848371!2d8.08026394501885!3f343.9532758156611!4f-4.209087719251556!5f3.3052706623276027" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679347466281!6m8!1m7!1s15_cJ-nrWeREO6hnjzdmdA!2m2!1d61.96712040031104!2d6.525144068432134!3f46.72153939861174!4f4.596703912050998!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679347534133!6m8!1m7!1swn_mor6TbJxcF3P8sSNLbg!2m2!1d66.3044505371745!2d14.13711222707041!3f324.89227912253875!4f-16.134774204390254!5f2.8309959544919363" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}
@@ -101,7 +104,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 {{% tab "w-commercial" %}}
 
 {{% notice tip %}}
-スカンジナビア3国ではセブンイレブンがあるが他のヨーロッパには少ない。サンドイッチやホットドックのコーナーがある。パンが冷凍状態で売られていた（たぶん）。
+スカンジナビア3国ではセブンイレブンがあるが他のヨーロッパには少ない。サンドイッチやホットドックのコーナーがある。パンが冷凍状態で売られていた記憶（たぶん）。
 {{% /notice %}}
 
 <div class="googlemap-if">
