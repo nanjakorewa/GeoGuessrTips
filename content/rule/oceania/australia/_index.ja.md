@@ -13,6 +13,7 @@ jogmec_detail: true
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_bollard: true
+import_jquery_36: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/south-africa/", "南アフリカ"],
