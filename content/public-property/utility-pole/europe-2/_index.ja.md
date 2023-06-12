@@ -29,3 +29,31 @@ add_rule_link: true
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+## チェコ・スロバキア
+
+
+{{% tabs  %}}
+{{% tab "まっすぐな鉄の棒" %}}
+{{% notice tip %}}
+チェコとスロバキアで共通の電柱が見つかる。コの字型っぽい棒に上下にコイルが刺さっている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686594386635!6m8!1m7!1sxH6l7uYoKzjXj28AC1K9pQ!2m2!1d49.38437426271587!2d15.36905043271308!3f44.10100217882954!4f29.88161714379865!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686594548149!6m8!1m7!1sXNYT_36W9Z5DDiGTZ3S2Mw!2m2!1d49.70806573351916!2d13.41885583096088!3f191.27219417026123!4f37.06150617937257!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="../../../rule/europe/czechia/bar.png" width="300px">
+</div>
+{{% /tab %}}
+{{% tab "２つ並んだ棒" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686595475450!6m8!1m7!1s6TWCtY6MYfHQD4_CG75V3A!2m2!1d49.18196165848737!2d16.48964443755139!3f44.432808772408805!4f29.841552503123765!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686595823142!6m8!1m7!1suzL342DLxTlHpBt6_vc6PA!2m2!1d49.12844432927459!2d16.6558420676652!3f149.51272206811763!4f39.53331163003605!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
