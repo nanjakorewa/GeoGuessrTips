@@ -84,9 +84,9 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>標高によってハイベルト・ミドルベルト・ローベルトに分かれていて農業の形態もそれぞれ異なる</li>
+        <li>標高によって標高の高いハイベルト・中間のミドルベルト・標高の低いローベルトに分かれていて農業の形態もそれぞれ異なる</li>
         <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
-        <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する</li>
+        <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており植林による森林</span>が存在する</li>
     </ul>
 </div>
 
@@ -96,7 +96,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 {{% tab "ローベルト" %}}
 
 {{% notice tip %}}
-標高によってハイベルト・ミドルベルト・ローベルトに分かれていて、農業の形態もそれぞれ異なる。ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある。
+標高によってハイベルト・ミドルベルト・ローベルトに分かれていて農業の形態もそれぞれ異なる。ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682436625448!6m8!1m7!1saJY6MDzb1xARd9CzJv9kxw!2m2!1d-26.76722330154598!2d31.92291092356511!3f53.1599899823355!4f-4.437015220855059!5f2.872764259751242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
