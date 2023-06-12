@@ -12,6 +12,10 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../united_arab_emirates/", "アラブ首長国連邦"],
+    ]
 ---
 
 <div class="main-desciption country-description">
