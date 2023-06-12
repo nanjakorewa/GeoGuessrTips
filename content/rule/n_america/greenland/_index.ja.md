@@ -31,7 +31,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-グリーンランドは先住民が８割以上を占めていて、公用語はグリーンランド語。永久凍土の混じった領域は夏に氷が溶けることで地面が凹み、逆に冬は再び凍り地面が盛り上がる。そのためその影響を受けないように岩などの上に家を立てているケースが多いという。その影響で道路もまっ平ではないことが多いという（<a href="http://chikyunokurashi.com/greenland/ordinarylifeingreenland/">出典</a>）。平坦かどうかは横断歩道を見ないと分かりづらいかも？
+グリーンランドは先住民が８割以上を占めていて、公用語はグリーンランド語。永久凍土の混じった領域は夏に氷が溶けることで地面が凹み、逆に冬は再び凍り地面が盛り上がる。そのためその影響を受けないように岩などの上に家を立てているケースが多いという。家の土台に隙間があったりコンクリートで固められていた李する。寒さの影響で道路もまっ平ではないことが多いという（<a href="http://chikyunokurashi.com/greenland/ordinarylifeingreenland/">出典</a>）。平坦かどうかは横断歩道を見ないと分かりづらいかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682142831576!6m8!1m7!1si-kAUTnUvEFEdkJdZLc3bA!2m2!1d64.1702562429904!2d-51.7305723944466!3f16.506575931963674!4f-1.138792858281704!5f1.7423236804697373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
