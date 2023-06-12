@@ -44,6 +44,29 @@ additional_link:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681520812940!6m8!1m7!1sw7scIOEgw4bALWEf_gj3Pg!2m2!1d61.16324049244532!2d24.00394720990714!3f218.6219097770722!4f-7.579038098574443!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<div class="googlemap-if">
+    <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
+        <div class="googlemap-if unclickable">
+            <img src="../sweden/r/Sweden_road_sign_F5.svg">
+            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+        </div>
+        <p><span class="quiz">スウェーデン</span></p>
+    </div>
+    <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
+        <div class="googlemap-if unclickable">
+            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
+            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+        </div>
+        <p><span class="quiz">フィンランド</span></p>
+    </div>
+    <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
+        <div class="googlemap-if unclickable">
+            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+        </div>
+        <p><span class="quiz">ノルウェー</span></p>
+    </div>
+</div>
+
 {{% notice tip %}}
 北欧で横断歩道が<span class="quiz">5</span>本はフィンランド。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span><span class="quiz">スウェーデン</span>。
 {{% /notice %}}

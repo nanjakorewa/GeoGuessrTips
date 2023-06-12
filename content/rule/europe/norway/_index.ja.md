@@ -79,6 +79,28 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 <img src="./r/1920px-Norwegian-road-sign-713.png" width="295px" style="margin:40px 0 0 10px;" />
 </div>
 
+<div class="googlemap-if">
+    <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
+        <div class="googlemap-if unclickable">
+            <img src="../sweden/r/Sweden_road_sign_F5.svg">
+            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+        </div>
+        <p><span class="quiz">スウェーデン</span></p>
+    </div>
+    <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
+        <div class="googlemap-if unclickable">
+            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
+            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+        </div>
+        <p><span class="quiz">フィンランド</span></p>
+    </div>
+    <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
+        <div class="googlemap-if unclickable">
+            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+        </div>
+        <p><span class="quiz">ノルウェー</span></p>
+    </div>
+</div>
 
 {{% /tab %}}
 {{% tab "w-building" %}}
