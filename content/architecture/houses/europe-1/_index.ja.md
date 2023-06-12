@@ -82,12 +82,6 @@ add_rule_link: true
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fran001/16464711225/in/photolist-r5VX2t-5ie8Ua-chJf4j-aiyG3Y-k9RxE-bX9nv2-f4NaAZ-D2e7VF-vmZ3MD-5d2eY5-jiLQu-HQBqhr-i6koD-fjhovY-4qijGJ-chJdwL-fjhoPq-fjhx5E-fj33jZ-sDrgnZ-aRVV8P-c8SFMh-fjhwhY-aEANpj-6b9hSh-fj7y7H-agokd1-5EjLvn-egPPt3-6b59mZ-aEwZcK-hGZJNB-4q9K4o-48jY2k-EcygQ-4uVsjQ-4q9HKS-5iibRJ-6b59Mx-eS93Md-Ecyrt-aEAQvm-286zmN7-6b9idm-4SGa1M-4q5xVr-24uqw1s-Ecyzt-4q9AYG-fj3kZn" title="Bulgarian houses"><img src="https://live.staticflickr.com/7446/16464711225_c2109fe186_z.jpg" width="640" height="426" alt="Bulgarian houses"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-{{% tab "屋根が平らじゃない" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684914245999!6m8!1m7!1sKQHwyArw5_S3xQkLrgTZhg!2m2!1d42.16891494162241!2d27.84198253306513!3f245.4897421644279!4f5.152673042292406!5f1.8053575084789473" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684914284484!6m8!1m7!1si-rRPfVjQ46qBt0pjED4UQ!2m2!1d42.19321091725239!2d26.92392223215542!3f130.18197708471183!4f3.972542595505658!5f1.4218470228453088" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "屋根が平ら" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685277272011!6m8!1m7!1shnJTwK5lyKLFrph9zU9BHg!2m2!1d42.62927646518973!2d23.30853855298601!3f25.154376498287945!4f6.78741799512386!5f0.7820865974627469" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
