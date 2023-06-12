@@ -25,8 +25,8 @@ sc: [
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
         <li>家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナ（タイなどにも似たようなものがある）</li>
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
-        <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。</li>
-        <li>電柱の溝に仕切りが<span class="quiz">ある</span>電柱を使っている。仕切りが<span class="quiz">ない</span>電柱はチリの可能性が高い。</li>
+        <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤</span>色</li>
+        <li>電柱の溝に仕切りが<span class="quiz">ある</span>電柱を使っている</li>
     </ul>
     {{% rd cs_america brazil verysmall %}}
 </div>
@@ -44,7 +44,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-家のアンテナが特徴的、<span class="quiz">透明</span>なパラボラアンテナ、ただしこれだけでは確定できないと思う
+家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナを使う。ただしこれだけでは確定できないと思う。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681050515831!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f18.826192035204055!4f11.51661489691665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -52,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。BR（南米石油最大手ペトロブラス）のガソリンスタンドや電気自動車の充電施設もあるかも。
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。BR（南米石油最大手ペトロブラス）のガソリンスタンドもあるかも。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -64,6 +64,20 @@ sc: [
 
 By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
 {{% /lb %}}
+
+
+{{% notice tip %}}
+Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/categorias/solucoes-fortlev-caixa-dagua-pequenos-volumes/" "Soluções Fortlev Caixa d'Água Pequenos Volumes" %}}。色はいくつか種類があるが形が特徴的。屋根の上に乗っているのがわかる。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wolever/2622433346/" title="My View 2"><img src="https://live.staticflickr.com/3019/2622433346_c36b1b64d7_z.jpg" width="640" height="427" alt="My View 2"/></a>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-13-03-04-56.png" >
+<img src="2023-06-13-03-05-06.png" >
+</div>
+
 {{% /tab %}}
 {{% tab "攻略動画" %}}
 
@@ -215,8 +229,9 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>市外局番のエリアコードで範囲を絞ることができる</li>
-        <li>BR-XXXはブラジル国道。BAでないものは州の名前かも。州名はマップをズームアウトすると確認できる。</li>
-        <li class="no-evidence">電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
+        <li>Código de Endereçamento Postal（CEP）で範囲を絞ることができる{{% ref "https://en.wikipedia.org/wiki/C%C3%B3digo_de_Endere%C3%A7amento_Postal" "Código de Endereçamento Postal" %}}</li>
+        <li>ブラジル国道の看板にBA-XXXと道路番号が書かれている</li>
+        <li>電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
             <ul>
                 <li>ブラジル電力(Eletrobras)→ブラジル全域どころかアフリカにまで進出している</li>
                 <li>パラナ電力(<span class="quiz">COPEL</span>)→パラナ州</li>
@@ -232,15 +247,30 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 {{% tab "市外局番" %}}
 
 {{% notice tip %}}
-1がサンパウロ、2がリオデジャネイロ。（画像出典：By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons</a>）
+1がサンパウロ、2がリオデジャネイロ。
 {{% /notice %}}
-
 
 <div class="googlemap-if">
 <img src="2023-04-26-01-07-35.png" style="max-width:80%;"/>
+<p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
+</div>
+{{% /tab %}}
+{{% tab "郵便番号" %}}
+
+{{% notice tip %}}
+CEP XXXXX-XXXの形で記載されている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:2_digit_postcode_brazil.png#/media/File:2_digit_postcode_brazil.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2_digit_postcode_brazil.png" alt="2 digit postcode brazil.png" width="80%"></a></p>
+<p>By Gerrit Schreiber - GfK GeoMarketing, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15041032">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "ブラジル国道" %}}
+
+{{% notice tip %}}
+ブラジル国道の看板にBA-XXXと道路番号が書かれている。BAでないものは州の名前かも。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679346281332!6m8!1m7!1sljLmOPodH_kyNI2rzjnC0A!2m2!1d-12.48580994913519!2d-55.68068354862751!3f54.859726474329456!4f-7.921535112165444!5f3.0982113734503045" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
