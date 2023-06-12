@@ -22,8 +22,8 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cz</span></li>
         <li>ボラードは<span class="quiz">黒い領域に反射板が2枚</span></li>
-        <li>チェコ語の母音クロウジェク<span class="quiz">Ů・ů</span>が文字に含まれるかも</li>
-        <li>チェコとスロバキアのみthin-B profileと呼ばれるガードレールを使用する。<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴。{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
+        <li>チェコ語の母音クロウジェク<span class="quiz">「Ů・ů」</span>が文字に含まれる</li>
+        <li>チェコとスロバキアのみthin-B profileと呼ばれるガードレールを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
         <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
         <li>チェコかスロバキアのどちらか分からないとき<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
     </ul>
@@ -33,7 +33,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボラードとガードレールと電柱。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ありガードレールは<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的。ボラードとガードレールはスロバキアにも同じものがある。
+ボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的。ボラードとガードレールはスロバキアにも同じものがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682936914809!6m8!1m7!1smVbj2pA5JV1ghMU170T-MA!2m2!1d49.18506314402373!2d16.75742697472375!3f13.65489772609046!4f-16.051398238411295!5f2.6800695378815926" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -64,6 +64,30 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="2023-06-11-00-12-31.png" width="70%"/>
 <img src="2023-06-11-00-16-23.png" width="80%"/>
+</div>
+
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+チェコとスロバキアで共通の電柱が見つかる。コの字型っぽい棒に上下にコイルが刺さっている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686594386635!6m8!1m7!1sxH6l7uYoKzjXj28AC1K9pQ!2m2!1d49.38437426271587!2d15.36905043271308!3f44.10100217882954!4f29.88161714379865!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686594548149!6m8!1m7!1sXNYT_36W9Z5DDiGTZ3S2Mw!2m2!1d49.70806573351916!2d13.41885583096088!3f191.27219417026123!4f37.06150617937257!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./bar.png" width="300px">
+</div>
+
+{{% notice tip %}}
+形が異なっていたり複雑になったりしても、コの字型っぽい棒が使用されている時が多いように思う。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686595475450!6m8!1m7!1s6TWCtY6MYfHQD4_CG75V3A!2m2!1d49.18196165848737!2d16.48964443755139!3f44.432808772408805!4f29.841552503123765!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686595823142!6m8!1m7!1suzL342DLxTlHpBt6_vc6PA!2m2!1d49.12844432927459!2d16.6558420676652!3f149.51272206811763!4f39.53331163003605!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
