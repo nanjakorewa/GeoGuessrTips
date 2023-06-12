@@ -24,7 +24,7 @@ sc: [
         <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多い。ルーマニアは<span class="quiz">空いている</span>ことが多い。</li>
         <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}で線が<span class="quiz">横に1本</span></li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
-        <li>Ł・łの文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../latvia/" "ラトビア" %}}かも。</li>
+        <li>「<span class="quiz">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../latvia/" "ラトビア" %}}かも。</li>
         <li>反射板が<span class="quiz">赤</span>色のボラードがある</li>
         <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span></li>
         <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
