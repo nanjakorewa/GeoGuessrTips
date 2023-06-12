@@ -29,6 +29,7 @@ sc: [
         <li>車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span></li>
         <li>レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討する{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}</li>
         <li><span class="quiz">ヘッジロウ（低木や草本類などが植栽された垣根）</span>が道端や家の周りに存在する</li>
+        <li><span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う</li>
     </ul>
     {{% rd europe united-kingdom verysmall OGL %}}
 </div>
@@ -68,7 +69,7 @@ By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-黒背景に白色のシェブロンを使う。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使い北海周辺の寒い地域で同じ色の国はない（ヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など）。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/UK_traffic_sign_515.svg" width="322px" style="margin-right:1em;">
