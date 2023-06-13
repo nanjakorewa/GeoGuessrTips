@@ -154,6 +154,14 @@ maps: [
 </div>
 </div>
 {{% /tab %}}
+{{% tab "車のシール" %}}
+{{% notice tip %}}
+いくつかの州は車の車検のシールで判別できるかも
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686697089977!6m8!1m7!1scNsmawQmXIHwhM2LgvJ8Sw!2m2!1d29.77205520001398!2d-95.85548442263284!3f213.64170150512496!4f-24.867341361566673!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "アメリカ攻略講座" %}}
 {{% notice tip %}}
 {{% /notice %}}

@@ -29,6 +29,7 @@ sc: [
         <li>通り名の看板に「<span class="quiz">～tee</span>」と書いてある</li>
         <li>数字が書かれた標識が道路に対して<span class="quiz">垂直</span></li>
         <li>ボラードを真上から見ると<span class="quiz">丸い</span></li>
+        <li>ZONAの表記がエストニアのみ<span class="quiz">ALA</span></li>
         <li>{{% goto "../../baltic-state/#見分け方" "バルト三国の見分け方" %}}</li>
         <li class="no-evidence">土の雰囲気で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}
     </ul>
