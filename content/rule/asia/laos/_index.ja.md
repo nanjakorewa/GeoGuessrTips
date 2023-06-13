@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "LA.svg"
 jetro_detail: true
 plonkit: true
+is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../thai/", "タイ"],
@@ -22,6 +23,8 @@ sc: [
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ナンバープレートは<span class="quiz">黄色</span>が多い</li>
         <li>ドメインは<span class="quiz">.la</span></li>
+        <li>看板の裏側が<span class="quiz">水</span>色のことがある</li>
+        <li class="no-evidence">ビエンチャン以外ではいつも車が見える</li>
     </ul>
     {{% rd asia laos verysmall %}}
 </div>
@@ -49,6 +52,15 @@ sc: [
 <tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
+</div>
+
+
+{{% notice tip %}}
+ビエンチャン以外では車が見える
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686681996128!6m8!1m7!1skKjEXMjlcxLLxw7alD_-iA!2m2!1d19.89297895778401!2d102.139081518515!3f133.37511689777247!4f-89!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -83,6 +95,50 @@ sc: [
 <tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">通りの看板？</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ビエンチャン" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tigertraillaos/16227618552/in/photolist-qHYMCL-eKp32y-FL3W1C-f4kDBT-kt81PR-q2ViyM-bWbDNY-9jgM5v-bVqVeg-zhwqjQ-7YEAyp-9ktK7q-mvN8ma-q2X2fm-dUJfkx-82Nh98-9ea6Em-bWbzYN-a7PTjH-9desNB-psZmsY-p1A4Uy-pezcin-e1rVnD-q1Phe1-o8vh99-nR88ia-8j2N3q-brRuTi-5NJMNr-7naoKt-peBvkW-f4A5ih-j1EfGQ-55XdSn-o6Drfm-dXtLcz-kDGeiU-aqh24U-dWeFsK-c97dmd-anXwRj-68JHMi-dWkkjd-dUJ3zR-oG4xWA-AGwbpx-a9oNbU-qaEtBF-Cepnkp" title="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"><img src="https://live.staticflickr.com/8576/16227618552_bd37d6d2d8.jpg" width="500" height="333" alt="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "ルアンパバーン" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686683910958!6m8!1m7!1s54i3lPxhz8wrm93-DQs5LA!2m2!1d19.88538315585645!2d102.1368704792641!3f226.7199194703969!4f-10.959218382083236!5f3.3141337805568174" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "サワンナケート" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686683686473!6m8!1m7!1sLI50TkU7-7CKi1-dA7imJA!2m2!1d16.55840340475947!2d104.7496955558114!3f313.9022413503186!4f-4.245691810731117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "ヴァンヴィエン" %}}
+{{% notice tip %}}
+ルアンパバーンと見た目が同じだけど右下が番号になっている（たぶんいつも）
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686684022096!6m8!1m7!1sXuv5OscM3dhGjcSj7t64uA!2m2!1d18.91971609057496!2d102.4483848353054!3f20.904230773404873!4f-19.806052191080013!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "パークセー" %}}
+{{% notice tip %}}
+他の地域より看板が少ない気がする。金色の頭の看板を運よく見つけたら。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686684707027!6m8!1m7!1sWRLjjKdIrjGe20wwdautCQ!2m2!1d15.12167617277633!2d105.8017633474254!3f44.920309591713874!4f-9.301377899545201!5f3.325193203789971" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686685119713!6m8!1m7!1sv3c01DN3dIAqEQSqaxdSpg!2m2!1d15.11719182863964!2d105.8064755975009!3f202.58384227119325!4f-9.89541873920571!5f3.325193203789971" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686685178258!6m8!1m7!1sv_A8sElkA9JWfuo7-xFpjA!2m2!1d15.11849950747342!2d105.8044653882287!3f99.01356437804438!4f-9.175144438084999!5f3.325193203789971" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

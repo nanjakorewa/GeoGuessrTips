@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.rs</span></li>
         <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
         <li>反射板が偏った薄いボラード</li>
+        <li>「Ћ・ћ」はセルビア・クロアチア語にのみ登場するキリル文字{{% ref "https://ja.wiktionary.org/wiki/%D1%9B" "ћ - Wikipedia" %}}で看板などで見かけるのはセルビアのみ（ボスニア・ヘルツェゴビナはストリートビューが無い）</li>
     </ul>
     {{% rd europe serbia verysmall %}}
 </div>
@@ -37,6 +38,15 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679484005514!6m8!1m7!1sWz8RFN0-CgzApjtxkFwF-w!2m2!1d43.83999275217523!2d21.6932567136369!3f99.09302692952393!4f-9.091950867102014!5f3.2939988331476435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679484038664!6m8!1m7!1sg3a68LbDjAXKg7a2inWuPQ!2m2!1d43.84000316236607!2d21.69343511255818!3f355.8746463407556!4f-17.860709868089188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+「Ћ」の文字でストリートビューがあるのはセルビアのみ。頻度は多くないのと太字のフォントだと小文字の「ћ」の斜線が見にくいことがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Emilijana_Josimovica_03.jpg#/media/File:Emilijana_Josimovica_03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emilijana_Josimovica_03.jpg/1200px-Emilijana_Josimovica_03.jpg" alt="Emilijana Josimovica 03.jpg" width="500px"></a></p>
+<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:11sasapus11&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:11sasapus11 (page does not exist)">11sasapus11</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=85021744">Link</a></p>
 </div>
 
 {{% notice tip %}}
