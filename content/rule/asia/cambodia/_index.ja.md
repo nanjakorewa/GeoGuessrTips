@@ -114,3 +114,14 @@ is_has_distinctive_googlecar: true
         <li>アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>
 </div>
+
+{{% tabs %}}
+{{% tab "湖の上" %}}
+{{% notice note %}}
+湖の上も出ることがある
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686665924475!6m8!1m7!1seCLxYxO1olREocoS2zgIDA!2m2!1d12.51447248869762!2d104.447153870721!3f82.30284137401792!4f-27.012955072008616!5f0.5542794894395264" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% /tab %}}
+{{% /tabs %}}

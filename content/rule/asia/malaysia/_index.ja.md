@@ -124,3 +124,26 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるとき、半島側の北部か南部の可能性がある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ジャウィ文字" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-11-14-03-53.png" width="70%"/>
+</div>
+
+{{% notice tip %}}
+半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/acordova/2191949322/in/photolist-2t1PYP-rvhDGS-4HJmgb-97YPuu-7JeZJt-4pM9M-2hEaarp-vpF9F-4kGjaG-nYa617-7Nv2wh-sugew-bUzDZm-82NpqC-as4dpt-2qX7Cz-2qX6VT-4Kz8iw-ndrQaU-8aVwF9-7JZ5jT-bV93Y9-vpEZZ-jjWmG6-7RpQJC-71TcH3-65Y3NB-bV8WKY-LL3dP2-c8ZFhy-eaAm3-XMx74W-LL4yKc-LD6pYD-LL4zx4-LD6rAX-LD6r32-LL4BDP-LL4Azz-2imtXdn-yfmTLE" title="Signpost in Jawi and Latin scripts"><img src="https://live.staticflickr.com/2360/2191949322_0ca0eb325f.jpg" width="500" height="375" alt="Signpost in Jawi and Latin scripts"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
