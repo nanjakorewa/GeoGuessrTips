@@ -24,7 +24,7 @@ sc: [
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>とまれの標識が<span class="quiz">berhenti</span></li>
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
-        <li>電柱に<span class="quiz">黒いラベル</span>が付いているならば本土側になる</li>
+        <li>電柱に<span class="quiz">黒いラベル</span>が付いているならば本土側になる{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
         <li>SDN BHD・BHDはマレーシアでは～会社・～公開会社の意味</li>
     </ul>
     {{% rd asia malaysia small %}}
@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱に<span class="quiz">黒いラベル</span>があるならば離島ではない
+電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681564567186!6m8!1m7!1s8IQ0DD5T-YKqTgePT-TPLQ!2m2!1d3.539932888470982!2d102.0928046091981!3f17.471583236058166!4f-11.74325435836623!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
