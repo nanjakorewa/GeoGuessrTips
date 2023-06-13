@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-こんな感じの標識を使用する<span style="font-size: 0.8em">（パブリックドメインの画像より）</span>。
+こんな感じの標識を使用する<span style="font-size: 0.8em">（パブリックドメインの画像より）</span>。スロバキアは矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
