@@ -127,16 +127,12 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるとき、半島側の北部か南部の可能性がある</li>
+        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるときは半島側の北部か南部の可能性が高い{{% ref "https://en.wikipedia.org/wiki/Jawi_script" "Jawi script" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "ジャウィ文字" %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-53.png" width="70%"/>
-</div>
-
 {{% notice tip %}}
 半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い。
 {{% /notice %}}
