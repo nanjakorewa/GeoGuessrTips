@@ -38,25 +38,23 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682877916254!6m8!1m7!1sSsph6IlCDLalfC82SiXhGQ!2m2!1d14.64339940767677!2d98.69383419317019!3f272.2330816685183!4f-9.492207784541847!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682253036696!6m8!1m7!1sjnVySIUkGXb5XpEwci1aTA!2m2!1d17.34694015534703!2d102.828123273268!3f78.31588429892301!4f-4.759113999546827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "w-road" %}}
+
+{{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は白色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多いがたまに他の色の車もある。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679762814938!6m8!1m7!1s_Tg_zv5hWT8DJHv9lqEDUw!2m2!1d17.98130118012293!2d100.0629101957747!3f72.15605038034752!4f-6.286483384892833!5f3.2676880359687828" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/philiproeland/6253320512/in/photolist-awzUjU-qzUoGX-5SpoqY-DeTAyc-LAthQD-C4dYhC-WMvBuQ-fj9ZJe-BQ6gX-9aWCno-fjrY2V-24cWoth-6teWZF-nYxoji-9brPtZ-8kTBA-a28bL9-qq5Smz-9wAFFY-bAniuU-6czkMy-Le6K-9bGFFi-VJjWQj-9cHSVU-6aEYxk-4sdk3K-9ffWtX-d3oT9G-9SAojz-8er4o-9bhpgY-8vpfL8-8Ayxqt-f9iXUP-9SDmSA-VCUqq3-6zAWYH-xJGxT-GX8Gd-tV8QjN-9SDmtC-b6hfg-7C3WS8-PeVA2i-NRwSP3-64TvLW-dJ2PcK-8kTvX-4XmMEB" title="Bangkok taxi"><img src="https://live.staticflickr.com/6019/6253320512_ab85ace276.jpg" width="500" height="282" alt="Bangkok taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-{{% /tab %}}
-{{% tab "w-commercial" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679482974000!6m8!1m7!1svRV75eB6yqo6wIPK5s7_Nw!2m2!1d13.73218306294083!2d100.4930308782116!3f23.407381485162894!4f17.652667161319812!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+
+{{% lb 50 %}}
+![](2023-06-13-14-17-00.png)
+
+Public Domain
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679483318952!6m8!1m7!1sokZsKss6tEG30aLxd_JKHw!2m2!1d14.64599789539522!2d98.6995684721261!3f338.6358224624784!4f-9.85447049551665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-plant" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679762933969!6m8!1m7!1sTZiK569KNLgQoVq-OaTq_Q!2m2!1d17.98157323295765!2d100.0621420808453!3f225.57392523284852!4f-9.089210017500989!5f3.224147385256069" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "言語" %}}
@@ -118,6 +116,15 @@ sc: [
 ヤシの木のようなアブラヤシがある場合は南の低地を考えてみる
 {{% /notice %}}
 {{% /tab %}}
+{{% tab "ゴム" %}}
+<div class="googlemap-if unclickable">
+<img src="rubber-tree-distribution.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+参考文献：<a href="https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708">Wongsapai, Wongkot, et al. "Biomass supply chain for power generation in southern part of Thailand." Energy Reports 6 (2020): 221-227.</a>
+{{% /notice %}}
+{{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-18-17.png" width="60%" />
@@ -157,23 +164,5 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683737385159!6m8!1m7!1syeEFWQGZ0DMfcFfotWMDaQ!2m2!1d8.221852687148221!2d98.35473046739912!3f309.2738817047396!4f-15.069799819329035!5f2.942474199230258" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
-{{% /tab %}}
-{{% tab "コイル" %}}
-{{% notice tip %}}
-北？
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685559692228!6m8!1m7!1sgnSDqACEMvq9oeSq7EUxfA!2m2!1d13.99062306297968!2d100.644151270851!3f295.09142244274426!4f23.392237345949823!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685559852209!6m8!1m7!1s3g0P33i-XJUmeeVmp4xseA!2m2!1d18.82611258211828!2d99.01227644581381!3f158.2386968620722!4f40.043942911677505!5f3.297553870944245" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-南？
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685559492110!6m8!1m7!1s8fALj0Xj2b2uMT73TGlRsQ!2m2!1d9.13654188865326!2d99.33115385050478!3f241.40541795198536!4f29.29816097121912!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685559622061!6m8!1m7!1sQm76cS5bWNHLfoXYJ5CReA!2m2!1d7.915268522658122!2d98.39340649534148!3f323.0011273861799!4f52.43269463438898!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -65,6 +65,20 @@ sc: [
 <img src="./r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
 
+
+{{% notice tip %}}
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+    <img src="../australia/r/AU-speed-limit.svg" class="margin-ten-px width100" />
+    <img src="../australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0"/>
+    <img src="../new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

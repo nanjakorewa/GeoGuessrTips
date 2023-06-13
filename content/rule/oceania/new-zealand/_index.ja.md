@@ -55,6 +55,20 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dcysurfer/9769291354/in/photolist-fThaXQ-6JjaDX-hKZ3yv-osHuf9-6Ka9Yb-x5KHPq-x5M9Ws-6KF9hw-qQPaDB-hK2PXZ-sck8rC-hK1JWa-bjcmzi-2kWpJEn-oxghqg-5r9euK-hKZ4Yp-hKYmKf-hK2gvs-bLs7NV-hK2hgL-SgwxfB-3asFAA-q8vhFy-Qq2m9z-hK2gTS-EoVuzA-2kD8iPJ-2vSceT-hKYKWy-outiGm-9DMYvT-hK2P6P-pJ7FDp-381PEQ-ankD1-nnVFYk-4jKQBA-2itE7Gs-MUP3Dj-xh5PP6-7G2Cxg-6NVyDC-9DVQpy-6GMFEM-xhqs34-eeYHMz-9DSos5-pUTbZw-9DRV8d" title="mobile home"><img src="https://live.staticflickr.com/7354/9769291354_aecfbc9e8f_z.jpg" width="640" height="360" alt="mobile home"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
+{{% notice tip %}}
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+    <img src="../australia/r/AU-speed-limit.svg" class="margin-ten-px width100" />
+    <img src="../australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0"/>
+    <img src="../new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
