@@ -1067,3 +1067,8 @@ img.width150 {
 img.width100 {
   width: 100px;
 }
+
+img.maxheight150 {
+  height: 140px;
+  max-height: 140px;
+}

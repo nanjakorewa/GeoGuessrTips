@@ -52,6 +52,24 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683087734594!6m8!1m7!1sEvItyxQT9-Y8fxl3dxkcXw!2m2!1d49.10310522107545!2d18.93303207261095!3f291.853768146102!4f4.042097994797658!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+主に色が付いている看板について、<span class="quiz">チェコ</span>の標識は背景色と同じ縁がある時が多いが<span class="quiz">スロバキア</span>はない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
+上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
+<div class="googlemap-if unclickable" style="margin-bottom:0;">
+<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" />
+</div>
+
+<div class="googlemap-if unclickable" style="margin-top:0;">
+<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
+</div>
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}

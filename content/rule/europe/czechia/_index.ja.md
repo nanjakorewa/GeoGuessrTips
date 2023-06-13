@@ -66,6 +66,24 @@ sc: [
 <img src="2023-06-11-00-16-23.png" width="80%"/>
 </div>
 
+{{% notice tip %}}
+主に色が付いている看板について、<span class="quiz">チェコ</span>の標識は背景色と同じ縁がある時が多いが<span class="quiz">スロバキア</span>はない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
+上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
+<div class="googlemap-if unclickable" style="margin-bottom:0;">
+<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" />
+</div>
+
+<div class="googlemap-if unclickable" style="margin-top:0;">
+<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
+</div>
+</div>
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
@@ -89,7 +107,5 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686595475450!6m8!1m7!1s6TWCtY6MYfHQD4_CG75V3A!2m2!1d49.18196165848737!2d16.48964443755139!3f44.432808772408805!4f29.841552503123765!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686595823142!6m8!1m7!1suzL342DLxTlHpBt6_vc6PA!2m2!1d49.12844432927459!2d16.6558420676652!3f149.51272206811763!4f39.53331163003605!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-
 {{% /tab %}}
 {{% /tabs %}}
