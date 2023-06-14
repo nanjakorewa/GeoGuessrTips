@@ -25,6 +25,7 @@ sc: [
         <li>横断歩道の標識の線の数は<span class="quiz">4</span>本</li>
         <li>公用語はブルガリア語（български）でキリル文字を使用<span class="quiz">する</span></li>
         <li>ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも</li>
+        <li>「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}</li>
         <li class="no-evidence"><span class="quiz">ブリキ製のような</span>ゴミ箱が通りや家の前に置いてある{{% by %}}</li>
         <li class="no-evidence">なんか全体的に天気が曇りっぽい</li>
     </ul>
@@ -60,6 +61,12 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685686163453!6m8!1m7!1sNgqFjDmRQ29seLGnHAi_bg!2m2!1d43.41874758508143!2d24.61598884902133!3f296.7048354527468!4f-9.382264656808559!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684397406967!6m8!1m7!1sUPLtg7HroIVen5_oVH1Tzg!2m2!1d42.70149352505604!2d27.25106514590047!3f317.99502161880133!4f-21.334557205798646!5f1.5382304235558601" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/georgivar/1178973351/in/photolist-8iniKQ-aoMjp5-2NbxGK-7rCe7U-mRAte" title="Асансьорът на Шиндлер"><img src="https://live.staticflickr.com/1314/1178973351_5b8a142434_w.jpg" width="400" height="300" alt="Асансьорът на Шиндлер"/></a>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
