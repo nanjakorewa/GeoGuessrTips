@@ -59,7 +59,7 @@ maps: [
 
 
 {{% notice tip %}}
-トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。<span class="quiz">右側</span>通行かつ乗り物が独特ならフィリピンかも。
+トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249568006!6m8!1m7!1sk8Jy5kOVDVVSqxH8qcrNXA!2m2!1d8.668231537436485!2d125.8616461585333!3f223.60335544229616!4f-6.8045127009913955!5f3.3068862113781123" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -71,6 +71,21 @@ maps: [
 
 By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Link(Wikimedia commons)</a>
 {{% /lb %}}
+
+
+{{% notice tip %}}
+一般乗用車は白色か薄い緑色のものが多い。<span class="quiz">右側</span>通行・乗り物が独特・ナンバーが黄・白・薄緑ならフィリピン。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./car-blar-image.png" width="400px">
+</div>
+
+{{% lb 50 %}}
+![](private-licence-plate-cc0.png)
+
+CC0画像を加工
+{{% /lb %}}
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}

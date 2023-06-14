@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "JE.svg"
+plonkit: true
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
@@ -60,6 +61,17 @@ By Willtron, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683432426752!6m8!1m7!1sEf09tRvJJ3ERHyPKH8MrwA!2m2!1d49.18500186671962!2d-2.112332031066294!3f17.462404572326715!4f0.12119351323100602!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683432984340!6m8!1m7!1siDU8G1f4gNa9M4j15wjmaA!2m2!1d49.18436002675839!2d-2.107901829769607!3f268.9482352125647!4f2.8719295601191703!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+島の形に自転車マークが描かれた看板が道端にある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:Cycle_route_signs_in_St_Peter%27s_valley.jpg#/media/File:Cycle_route_signs_in_St_Peter's_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cycle_route_signs_in_St_Peter%27s_valley.jpg" alt="Cycle route signs in St Peter's valley.jpg" width="70%"></a></p>
+</div>
+<div class="googlemap-if">
+<p>By <a href="//commons.wikimedia.org/wiki/User:Danrok" title="User:Danrok">Danrok</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90584925">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
