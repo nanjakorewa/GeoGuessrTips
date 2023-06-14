@@ -15,9 +15,9 @@ weight: 1000
 - [GeoTips](https://geotips.net/)
 - [GetHints](https://geohints.com/)
 - [Plonk It](https://www.plonkit.net/)
+- [GeoGuessr - wiki reddit archive](https://www.reddit.com/r/geoguessr/wiki/index/#wiki_reddit_archive)
 - [Highway Route Markers](http://routemarkers.com/)
 - [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
-- [GeoGuessr - wiki reddit archive](https://www.reddit.com/r/geoguessr/wiki/index/#wiki_reddit_archive)
 
 <h2 class="no-blur">配信者</h2>
 
