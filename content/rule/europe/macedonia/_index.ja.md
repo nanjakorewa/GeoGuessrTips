@@ -44,7 +44,7 @@ sc: [
 </div>
 
 {{% lb 50 %}}
-![](2023-05-08-04-43-36.png)
+![](2023-06-15-01-21-09.png)
 
 By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=77624620">Wikipedia Commons(Link)</a>
 {{% /lb %}}
