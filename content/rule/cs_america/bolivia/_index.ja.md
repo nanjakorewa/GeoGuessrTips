@@ -143,7 +143,6 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109731885!6m8!1m7!1ssrvcioJMLOUynM77-JzrrQ!2m2!1d-16.53542582994066!2d-68.15984708559827!3f133.39102220908285!4f2.9204123647894704!5f1.9952253012677987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109654621!6m8!1m7!1sW3spRtpdkhSJWqhNTC45iw!2m2!1d-16.5362588718002!2d-68.15809312899177!3f291.10751381163004!4f3.214739203112188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681109677181!6m8!1m7!1sRwd53ANpqIwKNt8cHE5adg!2m2!1d-16.53997422969349!2d-68.15920490815942!3f262.13941566891765!4f7.282974026463435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
