@@ -26,6 +26,7 @@ sc: [
         <li>道の真ん中や道路際に<span class="quiz">緑色</span>のボラードがある</li>
         <li>左側が<span class="quiz">黄色</span>くなっているナンバープレート</li>
         <li>周りが山がちで石壁の模様の壁のアパート・マンションが多い</li>
+        <li>横断歩道の標識の棒が{{% goto "../spain/" "スペイン" %}}と同じ8本である点だけ注意</li>
     </ul>
     {{% rd europe andorra verysmall %}}
 </div>
@@ -49,7 +50,7 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
-道の真ん中や道路際に<span class="quiz">緑色</span>のボラードがある。ほぼ同じものが{{% goto "../spain/" "スペイン" %}}や{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}にもあるがナンバープレートが違うので判別がつくはず。
+道の真ん中や道路際に<span class="quiz">緑色</span>のボラードがある。同じものが{{% goto "../spain/" "スペイン" %}}や{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}にもあるがナンバープレートが違うので判別がつくはず。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682727790100!6m8!1m7!1sNq0XruSiR_PXPSAhgA-Kug!2m2!1d42.53517362834788!2d1.581372641366805!3f110.57199857848678!4f-23.872131066662078!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
