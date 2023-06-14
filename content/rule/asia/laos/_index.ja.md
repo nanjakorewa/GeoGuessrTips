@@ -23,7 +23,7 @@ sc: [
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ナンバープレートは<span class="quiz">黄色</span>が多い</li>
         <li>ドメインは<span class="quiz">.la</span></li>
-        <li>看板の裏側が<span class="quiz">水</span>色のことがある</li>
+        <li>看板の裏側が<span class="quiz">水</span>色のときがある</li>
         <li class="no-evidence">ビエンチャン以外ではいつも車が見える</li>
     </ul>
     {{% rd asia laos verysmall %}}
@@ -133,7 +133,7 @@ sc: [
 {{% /tab %}}
 {{% tab "パークセー" %}}
 {{% notice tip %}}
-他の地域より看板が少ない気がする。金色の頭の看板を運よく見つけたら。
+他の地域より看板が少ない気がするけれど、たまに金色の頭がついた看板がある。観光地なので看板やホテル名を見ても英語で『Pakse』と書いてあり、看板を見つけなくてもいいかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686684707027!6m8!1m7!1sWRLjjKdIrjGe20wwdautCQ!2m2!1d15.12167617277633!2d105.8017633474254!3f44.920309591713874!4f-9.301377899545201!5f3.325193203789971" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
