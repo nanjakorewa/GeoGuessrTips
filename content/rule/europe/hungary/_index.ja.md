@@ -31,19 +31,18 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。他の国と違い標識の前からネジがハッキリ見える。
+標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。他の国と違い標識の前からネジがハッキリ見えることがわかる。また、<span class="quiz">Utca</span>はハンガリー語でstreetの意味。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tm-tm/4234111136/" title="Hungarian Crossing Man #2, Budapest"><img src="https://live.staticflickr.com/2744/4234111136_43b71e96b1_w.jpg" width="300" height="400" alt="Hungarian Crossing Man #2, Budapest"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tillwe/38356289/" title="Street Sign III: Little Boxes"><img src="https://live.staticflickr.com/31/38356289_3bd505b1bb_w.jpg" width="266" height="400" alt="Street Sign III: Little Boxes"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/in/photolist-p73Dbb-2gUhDiR" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Puskin Utca."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
-<span class="quiz">Utca</span>は「St.」「Street」ぐらいの意味で通り名の看板に含まれていることがある
+<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682250589340!6m8!1m7!1sXwA2tgiKIkUVKs3oofTR2w!2m2!1d47.11560201731825!2d18.8608448437887!3f266.86146272675205!4f-10.388332102668286!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./route.png" width="240px">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
