@@ -36,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">黄色と緑</span>色のタクシーや黄色のタクシーが多い。またナンバープレートの左側が<span class="quiz">緑</span>色の時がある。
+<span class="quiz">黄色と緑</span>色のタクシーや黄色のタクシーが多い。またナンバープレートの左側が<span class="quiz">緑</span>色の時がある。よく見ると側面に地名が書いてあることがあり、上の写真の黄色のタクシーにはAmman・緑のタクシーにはAqabaと書いてある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/149417353@N02/30528609207" title="DSC_8639 Amman Taxis"><img src="https://live.staticflickr.com/1951/30528609207_a3f65baa58.jpg" width="500" height="333" alt="DSC_8639 Amman Taxis"/></a>
