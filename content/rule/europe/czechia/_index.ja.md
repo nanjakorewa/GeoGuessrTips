@@ -49,7 +49,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。いつも存在するわけではないので、見つけたらばチェコにする。
+チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。いつも存在するわけではないので、見つけたらば<span class="quiz">チェコ</span>にする。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-こんな感じの標識を使用する<span style="font-size: 0.8em">（パブリックドメインの画像より）</span>。スロバキアは矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。
+こんな感じの標識を使用する（パブリックドメインの画像より）。スロバキアは矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

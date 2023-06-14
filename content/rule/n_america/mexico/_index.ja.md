@@ -123,7 +123,7 @@ sc: [
 {{% tab "コプラ" %}}
 
 {{% notice tip %}}
-Guerreroの海沿いにのみココヤシのプランテーションが存在する。（データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX">FAS Home / IPAD Home / Country Summary Mexico(U.S. Department of Agriculture)</a>）
+Guerreroの海沿いにのみココヤシのプランテーションが存在する。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX" "FAS Home / IPAD Home / Country Summary Mexico - U.S. Department of Agriculture" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

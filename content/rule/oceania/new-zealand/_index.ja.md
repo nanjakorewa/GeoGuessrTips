@@ -95,7 +95,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}</li>
-        <li>本当からかなり離れた場所に{{% goto ""%}}があってペンギンやオットセイがいる</li>
+        <li>本島からかなり離れた場所にアンティポディーズ諸島があってペンギンやオットセイがいる</li>
     </ul>
 </div>
 
