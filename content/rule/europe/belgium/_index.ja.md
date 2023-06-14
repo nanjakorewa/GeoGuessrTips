@@ -31,10 +31,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}
+ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}ものがある。周りの国のナンバーも見られる。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680256225624!6m8!1m7!1sOcPKaqC6v7JRBmDKxtTrRA!2m2!1d49.79434639013381!2d5.648667141433947!3f54.353382109476904!4f-9.389960731050238!5f3.2156589644055837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686781763883!6m8!1m7!1sjGQoSMncdFmLv_X-mMRDtg!2m2!1d50.00212844820196!2d5.717291282505589!3f259.8504663401784!4f-3.2784055178747877!5f1.8828745806696512" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-05-43-30.png)
@@ -61,6 +61,31 @@ sc: [
 {{% tab "🐕" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680256190360!6m8!1m7!1sBrzsbaS47qe-iYiScsR5kA!2m2!1d49.79542153759303!2d5.649031676532882!3f142.52182699555263!4f-25.823480803518507!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>通り名や町の境界にある看板のロゴ・使われている言語を見たら地域がわかることがある
+            <ul>
+                <li>北のフラマン語共同体は<span class="quiz">オランダ</span>語を使い、ロゴにブラバント公の紋章がある</li>
+                <li>南の<span class="quiz">フランス</span>語共同体は<span class="quiz">フランス</span>語を使い、ロゴに雄鶏の紋章がある</li>
+                <li>図にはないがLiègeの最も東の地域にある<span class="quiz">ドイツ</span>語共同体はリプアーリ語を使う{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%97%E3%82%A2%E3%83%BC%E3%83%AA%E8%AA%9E" "リプアーリ語" %}}</li>
+                <li>{{% ref "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "看板のロゴ" %}}
+{{% notice tip %}}
+ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-en.svg#/media/ファイル:Provinces_of_Belgium_with_CoA-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Provinces_of_Belgium_with_CoA-en.svg/1200px-Provinces_of_Belgium_with_CoA-en.svg.png" alt="Provinces of Belgium with CoA-en.svg" width="80%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Lordsutch" title="User:Lordsutch">Lordsutch</a>, based on Greek version by <a href="//commons.wikimedia.org/wiki/User:Wikibelgiaan" title="User:Wikibelgiaan">Wikibelgiaan</a> - <a href="//commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-el.svg" title="File:Provinces of Belgium with CoA-el.svg">File:Provinces_of_Belgium_with_CoA-el.svg</a>, </p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60005619">（Link）</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
