@@ -41,7 +41,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがある。
+「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがある。
 {{% /notice %}}
 
 <div class="googlemap-if">
