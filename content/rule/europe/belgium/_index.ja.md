@@ -43,7 +43,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-通り名の看板にブラバント公の紋章に似たロゴが看板に書かれているときがある{{% goto "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}。
+通り名の看板にブラバント公の紋章に似たロゴが看板に書かれているときがある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="Coat_of_arms_of_Brabant.svg" width="200px">
