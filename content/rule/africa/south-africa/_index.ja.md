@@ -70,16 +70,6 @@ sc: [
 </div>
 
 {{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681497450657!6m8!1m7!1sQBI_D7IFkeExseljZ0r6Dw!2m2!1d-34.20021087965176!2d20.02773280801162!3f263.9512532520086!4f-3.9066333107253115!5f0.8134659912944922" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-googlecar" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679676830010!6m8!1m7!1sXcIGunHbTgZn-HxRfrO_jA!2m2!1d-25.96186494385497!2d27.20759987944646!3f292.80799325093903!4f-34.067985552451546!5f2.2618638942268636" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
