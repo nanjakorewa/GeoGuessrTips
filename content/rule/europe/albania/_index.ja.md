@@ -26,9 +26,15 @@ sc: [
         <li>公用語はアルバニア語（Shqip）でキリル文字を使用<span class="quiz">しない</span></li>
         <li>カメラに線が入っている</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
+        <li>「<span class="quiz">Ë・ë</span>」を使う国が近くにない
+            <ul>
+                <li>アルバニアの他はフランス語・オランダ語・ハンガリー語・ルクセンブルク語</li>
+                <li>参考文献『<a href="https://ja.wikipedia.org/wiki/%C3%8B">Ë - Weblio辞書』</a></li>
+            </ul>
+        </li>
         <li>黒背景に白色の矢印のシェブロンがある</li>
         <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い</li>
-        <li class="no-evidence">メルセデスベンツをはじめとしたドイツブランドの車の割合が高い</li>
+        <li class="no-evidence">メルセデスベンツなどのドイツブランドの車の割合が高い</li>
     </ul>
     {{% rd europe albania verysmall %}}
 </div>
@@ -47,11 +53,6 @@ sc: [
 {{% notice tip %}}
 アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。
 {{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682656215454!6m8!1m7!1sjoj8ptYgNoIxwQ2_Wz8sUg!2m2!1d41.10997437521036!2d20.08439876062804!3f316.9439774499205!4f-9.142457873246414!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682656333905!6m8!1m7!1s2ySYWyXEaaHaXvdZa77PUA!2m2!1d41.6628313556615!2d19.67760796400589!3f182.97555447753484!4f-6.567823652036594!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% lb 50 %}}
 ![](2023-04-16-10-59-35.png)

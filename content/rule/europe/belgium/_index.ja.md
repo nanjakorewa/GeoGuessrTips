@@ -41,6 +41,16 @@ sc: [
 
 <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC 表示-継承 3.0</a>, 欧州連合のナンバープレート. (2022, November 19). In Wikipedia. <a href="https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88">(Link)</a>
 {{% /lb %}}
+
+{{% notice tip %}}
+通り名の看板にブラバント公の紋章に似たロゴが看板に書かれているときがある{{% goto "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="Coat_of_arms_of_Brabant.svg" width="200px">
+<img src="2023-06-15-00-30-33.png" width="200px">
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
