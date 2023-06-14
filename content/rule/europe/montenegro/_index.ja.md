@@ -9,6 +9,7 @@ sections: [""]
 no_detaile_info: true
 bg: "bg/city.jpg"
 flag: "ME.svg"
+plonkit: true
 dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
@@ -26,7 +27,6 @@ sc: [
         <li>公用語はモンテネグロ語（Црногорски језик）でキリル文字を使用<span class="quiz">する</span></li>
         <li>ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span></li>
         <li><span class="quiz">黄</span>色のガードレールが山中に多くありその多くがかなり錆びている</li>
-        <li>画像に切れ目があることが多い</li>
     </ul>
     {{% rd europe montenegro verysmall %}}
 </div>
@@ -57,8 +57,32 @@ By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/aligatorpics/9317602276/in/photolist-fcn9x7-ocLbjX-Kb5i2n-xJ1h74-27Ey42H-KcHkQh-2cagJCG-LUNha7-8wKEFe-vM8F6k-2eDVutw-2bfSFwb-AypzQk-8AckMD-gaFt4n-NNHX44-2a4M1yr-dvL5PM-xcwWjQ-YxbXyx-NsJk5n-BVodTG-2575Rw7-NZJhqt-cmXotU-eytPkb-afLJr3-27EyHm8-aaQ5hM-25Y1cte-eNXS1e-28KTxK4-K8ikdB-ZAhhgk-22mg2Nm-8VXvkL-wVG9rE-eysjh6-EQGbvF-eNXRSi-mmDss8-KyKxVG-26dqMkg-23Xaf2n-G6KRCR-HDCabR-YDeYDt-ekhC7D-CsGbJH-24RtYKx" title="Sharp turn ahead"><img src="https://live.staticflickr.com/2852/9317602276_4e5038b97a_z.jpg" width="640" height="428" alt="Sharp turn ahead"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
+
+
 {{% notice tip %}}
-画像に切れ目があることが多い
+{{% goto "../serbia/" "セルビア" %}}とモンテネグロ全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="../serbia/idea.png" width="400px">
+</div>
+
+{{% /tab  %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li><span class="quiz">内陸</span>側は画像に切れ目があることが多い{{% by "https://www.plonkit.net/montenegro" "plonkit" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "画像の裂け目" %}}
+{{% notice tip %}}
+<span class="quiz">内陸</span>側は画像に切れ目があることが多い{{% by "https://www.plonkit.net/montenegro" "plonkit" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">

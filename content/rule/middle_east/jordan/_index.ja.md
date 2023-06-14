@@ -39,7 +39,8 @@ sc: [
 <span class="quiz">黄色と緑</span>色のタクシーや黄色のタクシーが多い。またナンバープレートの左側が<span class="quiz">緑</span>色の時がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/149417353@N02/30528609207/in/photolist-NvH6Va-8kAmiV-2os1txv-2nJZQuT-2o2USmx-Q3oBFh-2bbGAVi-29u8Wjw-2drg4oi-a5oxmz-8se2YW-a5rphs-2neSqir-2hpsGVr-tZ1Fmc-2ok2RKv-PBNQUT-9kTGTr-RH3yHi-DgPAW-2c7YgT7-rknk2U-a5owm6-2bZj6SK-4U4S9L-2mLKibF-23Qc9pX-tGqy4L-tGyxFV-2nQjVBr-bAYhHf-2mYB34s-2nhFwLo-2khcX2c-2kGZJus-2mucmdL-Zf3WxV-2a351ms-7gC82-EdQmD4-a5rnQj-2nLtpp5-8XbwDy-N5e5N-7Vt8sa-8dQgpM-HNLHbA-4m7t8Z-VtN3sE-LmrvQ6" title="DSC_8639 Amman Taxis"><img src="https://live.staticflickr.com/1951/30528609207_a3f65baa58_z.jpg" width="640" height="427" alt="DSC_8639 Amman Taxis"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/149417353@N02/30528609207" title="DSC_8639 Amman Taxis"><img src="https://live.staticflickr.com/1951/30528609207_a3f65baa58.jpg" width="500" height="333" alt="DSC_8639 Amman Taxis"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jasab/4542400121/in/photolist-7VoZit-2nTMPat-29QBrJz-kjL4Ht-7EwJZS-bc9DKt-dYX2Hn-2nJSky4-4s97BT-bc9qeK-bc9vAt-bc9rKV-bc9tLp-bc9o66-bc9yTx-bc9xd4-8CLYM-3bjhd-bxojc9-bc9AuT-5M8JU3-bc9GqK-bc9BPv-bc8Y66-bc9Kvi-bc9F82-9PoLGb-4FujFg-bc92yz-aZ6Nnt-bc9J5F-bc9afp-bc9eeB-aZ5haH-62rCQB-62vSWA-bc95La-8XFv8N-bc9LF4-2oBE5P4-bc9hrT-bc9g92-bc9ctz-gaK7y-6v3oxD-7vfBfT-2od3r98-2od8i7e-dcJohz-7kaLF2" title="Jasab—5328"><img src="https://live.staticflickr.com/4029/4542400121_0384a80903.jpg" width="500" height="375" alt="Jasab—5328"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 small %}}
@@ -55,6 +56,11 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/cr01/5211016049/in/photolist-8WtPwi-iHjwYZ-CHuCzv-5jgGYF-2arBFEa-8WtDst-272fAco-24F4Q1J-8TA9ds-8kAcVz-dXdCXB-xSHJ3X-8kA4F2-dXdELB-8WtTS6-2bzi7Kn-tFPytf-dXjkaW-MWNzBR-iHjmca-2bLNiER-291Ljns-7XkjFJ-227XMyP-4nXLxY-dHdrbH-QH2xwU-2bDq9QA-FEm96G-2bGMTpR-yy7u8-2aB6fcL-2ajcTwX-b8BmdD-bWZi2F-qmrPa4-QyRBQb-aorQNx-FEKiX8-FEV2UT-4vBSWq-7r7Q9r-DFf8Xp-Fmu3Sq-2bLNz3V-F1Fsbp-PyL7Sj-FLd2ts-nN1ZUN-LaJ3Ud" title="Amman"><img src="https://live.staticflickr.com/4154/5211016049_9a9ab9571b.jpg" width="500" height="375" alt="Amman"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686721751254!6m8!1m7!1sX85VIowtViJab75MmUsKnw!2m2!1d30.10541326031539!2d35.59332678661352!3f221.85901888975042!4f-31.232270970073003!5f2.683378308805699" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">

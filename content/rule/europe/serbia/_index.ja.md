@@ -23,8 +23,8 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.rs</span></li>
         <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
-        <li>反射板が偏った薄いボラード</li>
-        <li>「Ћ・ћ」はセルビア・クロアチア語にのみ登場するキリル文字{{% ref "https://ja.wiktionary.org/wiki/%D1%9B" "ћ - Wikipedia" %}}で看板などで見かけるのはセルビアのみ（ボスニア・ヘルツェゴビナはストリートビューが無い）</li>
+        <li>反射板が<span class="quiz">偏った薄い</span>ボラード</li>
+        <li>「<span class="quiz">Ћ・ћ</span>」はセルビア・クロアチア語にのみ登場するキリル文字{{% ref "https://ja.wiktionary.org/wiki/%D1%9B" "ћ - Wikipedia" %}}で看板などで見かけるのはセルビアのみ（ボスニア・ヘルツェゴビナはストリートビューが無い）</li>
     </ul>
     {{% rd europe serbia verysmall %}}
 </div>
@@ -50,12 +50,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Delhaize Serbiaというスーパーマーケットチェーンがある。ロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。
+セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。また、セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/paul-mcclure/50147242083/" title="Maxi supermarket, brutalist commercial building, Aranđelovac, Serbia"><img src="https://live.staticflickr.com/65535/50147242083_dd515a43a7.jpg" width="500" height="400" alt="Maxi supermarket, brutalist commercial building, Aranđelovac, Serbia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="idea.png" width="500px">
 </div>
+<div class="googlemap-if unclickable">
+<img src="./Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px">
+<img src="./maxi.svg" width="190px" style="margin-left:20px">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
