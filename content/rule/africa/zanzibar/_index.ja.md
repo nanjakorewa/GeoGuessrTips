@@ -38,15 +38,12 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "人々" %}}
+{{% notice tip %}}
+沿岸地域はイスラム教徒が多いがキリスト教徒も多く複数の宗教が分布する。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527408826!6m8!1m7!1sCAoSLEFGMVFpcFBKeEJFTzFDWEZCSEZuc09TT3pZRlJKWml5OVpTVTJUMHNkbVh1!2m2!1d-5.246945421739359!2d39.76931674121288!3f11.493215953810735!4f-4.637225026354926!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680576210786!6m8!1m7!1sCAoSLEFGMVFpcE5KZXJ2M2FYWGh2Y0tteXp1STliMEk4RDA3aWdJYldVNnRHdndf!2m2!1d-5.247317166542542!2d39.76974236245915!3f77.23335088781994!4f-18.856992860924464!5f1.6905312204364065" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680527621633!6m8!1m7!1sCAoSLEFGMVFpcE5NM2xCaHRGSWNFN2NSaG1yRFdRX3NRMmFKd1JVNl82V1cxRjhk!2m2!1d-6.196238728958734!2d39.37024436406515!3f55.28767997742629!4f-7.690772798393496!5f3.065199942158073" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680528215257!6m8!1m7!1sCAoSLEFGMVFpcFB1S2lrZzRNQjEtQmdUVVZEV204TDlYWEpRV1hublczbFNTRnN3!2m2!1d-5.242627143259523!2d39.76787754563919!3f64.56926166628209!4f-22.656535060453365!5f2.7437540294776634" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
