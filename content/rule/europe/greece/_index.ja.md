@@ -61,7 +61,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>2から始まる市外局番が書いてあるならば場所を絞り込める</li>
-        <li>トルコの近くの離島もぎりぎりギリシャ領</li>
+        <li>トルコの近くの離島も<span class="quiz">ぎりぎりギリシャ領</span></li>
     </ul>
 </div>
 
@@ -73,6 +73,9 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 {{% /tab %}}
 {{% tab "トルコの近くの離島" %}}
+{{% notice info %}}
+トルコの近くの離島も<span class="quiz">ぎりぎりギリシャ領</span>
+{{% /notice %}}
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/hoVOxtPQlH">pic.twitter.com/hoVOxtPQlH</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1664031998334353408?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
