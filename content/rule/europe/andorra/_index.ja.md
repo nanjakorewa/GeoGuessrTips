@@ -61,18 +61,9 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 周りが山がちで石壁の模様の壁のアパート・マンションが多い。恐らくどこにいたとしても建物の隙間や通りから山の斜面が見える。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="500" height="375" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="600" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% /tab %}}
-{{% tab "w-building" %}}
-{{% notice tip %}}
-周りが山がちで石壁の模様の壁のアパート・マンションが多い。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683082299994!6m8!1m7!1s8TbqX8oQcGDil0fA5BCCNw!2m2!1d42.46165511734775!2d1.488639127183163!3f324.45601179014636!4f9.447478902995243!5f1.5382304245170149" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683082338929!6m8!1m7!1sFzDiCwMCtCdQoHYhyenbEQ!2m2!1d42.54232367447579!2d1.733097542070016!3f109.24678879707952!4f8.419238264232078!5f2.8615595643766327" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice tip %}}
