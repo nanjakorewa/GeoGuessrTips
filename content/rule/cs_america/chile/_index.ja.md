@@ -55,8 +55,8 @@ sc: [
 {{% notice tip %}}
 チリの大手商用銀行、Banco de Chile。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681565272362!6m8!1m7!1sq_2OKRMWHX8sCxZi8t6dxQ!2m2!1d-33.43036953954903!2d-70.69215439912146!3f146.13802574990763!4f18.063000481558262!5f3.3166181212070036" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="Banco_de_Chile_logo.svg" />
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
