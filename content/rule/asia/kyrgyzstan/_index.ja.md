@@ -23,8 +23,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.kg</span></li>
-        <li>公用語はキルギス語とロシア語でキリル文字を使用する</li>
-        <li>ナンバープレートに<span class="quiz">赤色</span>のラインが入っている</li>
+        <li>ドメインは<span class="quiz">.kg</span></li>
+        <li><span class="quiz">白くて四角い棒</span>に黒の模様が入ったボラード</li>
+        <li>ナンバープレートに<span class="quiz">赤</span>色のラインが入っている</li>
     </ul>
 </div>
 
@@ -32,7 +33,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートに赤色のラインが入っている
+<span class="quiz">白くて四角い棒</span>に黒の模様が入ったボラードがある。ナンバープレートに<span class="quiz">赤</span>色のラインが入っている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682022573057!6m8!1m7!1sYAN0qakLuNXnccDyczr5ow!2m2!1d42.05071604401322!2d75.68110216519702!3f348.3846244306702!4f-19.363391412491637!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

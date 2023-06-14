@@ -55,6 +55,14 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682727790100!6m8!1m7!1sNq0XruSiR_PXPSAhgA-Kug!2m2!1d42.53517362834788!2d1.581372641366805!3f110.57199857848678!4f-23.872131066662078!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682727919095!6m8!1m7!1sBeKKxSvTdvqqxqiCKtusiw!2m2!1d42.55073839781397!2d1.695846565481723!3f165.21716310853563!4f-4.172480745179101!5f3.314171391291496" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+周りが山がちで石壁の模様の壁のアパート・マンションが多い。恐らくどこにいたとしても建物の隙間や通りから山の斜面が見える。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="500" height="375" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}
