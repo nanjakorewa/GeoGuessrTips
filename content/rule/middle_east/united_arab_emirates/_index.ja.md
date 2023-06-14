@@ -51,7 +51,7 @@ Google Carが特徴的で白い屋根が見える。また標識や道路番号�
 </div>
 
 {{% notice tip %}}
-ナンバープレートは基本白で地域ごとに模様が少し異なる。ドバイには後ろの左側が<span class="quiz">赤</span>色のものがある。上側が赤いタイプもある。
+ナンバープレートは基本白で地域ごとに模様が少し異なる。ドバイの車には後ろの左側が<span class="quiz">赤</span>色のものがあるが{{% goto "../qatar/" "カタール" %}}も似たような色に見えるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684959157047!6m8!1m7!1sPQj0LN7XouPlw5tkfAHM3g!2m2!1d25.18771953062483!2d55.23996758161233!3f255.68509126538822!4f-9.342566374465719!5f1.514539245167219" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
