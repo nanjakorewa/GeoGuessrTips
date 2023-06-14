@@ -20,10 +20,10 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li class="no-evidence">公式ストリートビューは無い</li>
         <li>ドメインは<span class="quiz">.tz</span>でタンザニア連合共和国に属する</li>
         <li>ナンバープレートは<span class="quiz">赤色</span></li>
-        <li class="no-evidence">なぜか日本車がとても多い</li>
-        <li class="no-evidence">バナナ・ココナッツ・パイナップルが育てられている{{% by "https://lonewolf17.com/spice-farm-in-zanzibar-is-fun" "web" "ザンジバル島の「スパイス農園」が、楽しくて、勉強になった！" %}}。</li>
+        <li>なぜか日本車がとても多い</li>
     </ul>
 </div>
 
@@ -34,8 +34,6 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527478873!6m8!1m7!1sCAoSLEFGMVFpcE5fYnBWcnpicnVBd0w0TmotVFBqNzRINkJBOU1tRE9yLVBweTNq!2m2!1d-5.245772456308569!2d39.76819274101717!3f179.59092317321551!4f-12.329262287670431!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680527577696!6m8!1m7!1sCAoSLEFGMVFpcE1fVDl2NGZSVmtMX1IyN2FGY19XOTBmQTEtTGR5cEY2ZTg2LU9W!2m2!1d-5.244072680210863!2d39.76724408447122!3f178.892942891207!4f-28.385270832446487!5f3.10082024557414" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680527766424!6m8!1m7!1sCAoSLEFGMVFpcE9ENElzbmxuNGpmbWZ4WlNVT0kwems2QWxRLU4yZ1ppaHFXNlFD!2m2!1d-5.225206531584002!2d39.77466394768658!3f77.34078804392706!4f-13.272554779346109!5f3.2686841641100943" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527882129!6m8!1m7!1sCAoSLEFGMVFpcE1aQmpaZXNybWpzOGpwa0MtSE92YTBiTUdpUHVrVmZEMVVwRWZt!2m2!1d-5.242579508995839!2d39.76789900412926!3f253.48767241880745!4f-15.592865941354532!5f3.215964657252985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
