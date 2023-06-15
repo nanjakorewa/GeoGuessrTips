@@ -1,4 +1,4 @@
-# [My Geo Pinning](https://geopinning.space/)
+# [geopinning.space](https://geopinning.space/)
 
 Personalized Google Street View pinning page(since 2023/02). / ジオゲッサーのメモを記録するリポジトリです(2023年2月～)。
 

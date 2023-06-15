@@ -28,6 +28,7 @@ sc: [
         <li>反射板が<span class="quiz">赤</span>色のボラードがある</li>
         <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span></li>
         <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
+        <li class="no-evidence">tの上が斜め</li>
     </ul>
     {{% rd europe poland verysmall %}}
 </div>
@@ -44,14 +45,33 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Child Crossing sign?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+<div class="googlemap-if unclickable">
+<img src="./w1.svg" width="90px" style="margin:0 5px 0 5px">
+<img src="./w2.svg" width="90px" style="margin:0 5px 0 5px">
+<img src="./w3.svg" width="90px" style="margin:0 5px 0 5px">
+</div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。この細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。またポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="googlemap-if unclickable">
+<img src="./b1.svg" width="20px" style="margin-right:30px">
+<img src="./b2.svg" width="20px" style="margin-left:30px">
+</div>
+
+
+{{% notice tip %}}
+「<span class="quiz">Ł・ł</span>」の文字がある。「ｔ」のフォントの上の部分が斜めになっている（確証なし）？
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Znak_E-2c.svg" width="260px" style="margin-right:10px">
+<img src="./r/PL_road_sign_T-28.svg" width="260px" style="margin-left:10px">
 </div>
 
 {{% notice tip %}}
