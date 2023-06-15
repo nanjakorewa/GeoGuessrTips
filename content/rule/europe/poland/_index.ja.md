@@ -26,7 +26,7 @@ sc: [
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
         <li>「<span class="quiz">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../latvia/" "ラトビア" %}}かも。</li>
         <li>反射板が<span class="quiz">赤</span>色のボラードがある</li>
-        <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span></li>
+        <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}</li>
         <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
         <li class="no-evidence">tの上が斜め</li>
     </ul>
@@ -75,7 +75,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}。
+オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
