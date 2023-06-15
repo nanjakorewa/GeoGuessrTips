@@ -57,7 +57,7 @@ sc: [
 
 
 {{% notice tip %}}
-GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">

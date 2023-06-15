@@ -19,6 +19,7 @@ dont_show_usda: true
         <li>ドメインは<span class="quiz">.tr</span></li>
         <li>止まれの標識は<span class="quiz">DUR</span></li>
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
+        <li class="no-evidence">標識の棒に小さな穴がたくさん空いている</li>
     </ul>
     {{% rd middle_east turkey verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -29,11 +30,11 @@ dont_show_usda: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的。また、標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682125696349!6m8!1m7!1sj3lhjc16BvPLpaJU_dkwGg!2m2!1d39.66015996648644!2d27.5249062202322!3f219.61317816768963!4f-13.440804874111492!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682125883074!6m8!1m7!1ssMLpDjbxkytbp4dzehUazA!2m2!1d37.83911543468253!2d40.62687350747372!3f141.53321658111844!4f-3.8276590041543272!5f3.21222294316663" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="2023-06-16-06-39-55.png" width="350px">
+<img src="2023-06-16-06-36-19.png" width="258px">
 </div>
 
 {{% notice tip %}}
@@ -41,6 +42,11 @@ dont_show_usda: true
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="DUR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/Turkish_Stop_Sign.svg" width="130px">
+<img src="./r/Turkey_road_sign_B-16.svg" width="200px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
@@ -65,7 +71,6 @@ dont_show_usda: true
 いろんな電柱
 {{% /notice %}}
 
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686317290862!6m8!1m7!1sG5mJ6cnsSX6U8x8XMwKd5w!2m2!1d39.73949932417848!2d32.75341222632087!3f95.78482578423227!4f6.296244921273754!5f1.6739744811632447" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
@@ -77,14 +82,6 @@ dont_show_usda: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682031441972!6m8!1m7!1sl8NfH2SkeanoXn4kc8KiqA!2m2!1d38.47213789505467!2d27.17431140846952!3f87.45727387421763!4f-32.2151327048122!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682032248676!6m8!1m7!1srejQsYOMxfcQDH5vYL1uxA!2m2!1d38.74271029142172!2d35.47934290009136!3f344.04125431552984!4f-23.96399488085622!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "標識" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685525130633!6m8!1m7!1szsgAi1332XofCDcxT9x2Mw!2m2!1d38.51278890871632!2d43.37550402100663!3f96.35953036792128!4f-1.3619215079950067!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685558331143!6m8!1m7!1sbSkoKu-v3HC4r8gs3_yuow!2m2!1d40.32365767153342!2d36.55327961996957!3f204.9768397483041!4f1.4712670917911908!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -117,17 +114,25 @@ dont_show_usda: true
 </div>
 
 
-{{% tabs  %}}
-{{% tab "Ankara" %}}
+{{% tabs %}}
+{{% tab "Konya" %}}
+{{% notice tip %}}
+上の円形のマークの違いを見る必要がある
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685557155453!6m8!1m7!1sLfjXwZTZQL1lSd7LpucFVQ!2m2!1d39.94464225500045!2d32.85448713564772!3f213.22166493493947!4f0.035134921699167876!5f2.674553034047748" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685557199306!6m8!1m7!1sE5j4dX6IU_ruh1bW9GpERA!2m2!1d39.97582411991183!2d32.90342327960887!3f198.02468006957434!4f0.349870839121607!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="2023-06-16-06-32-12.png" width="500px">
 </div>
 {{% /tab %}}
 {{% tab "Antalya" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685557386082!6m8!1m7!1sFg5rSs_8ZTRJc7JpNKghBA!2m2!1d36.9557033940079!2d30.72367396314874!3f105.63881546455217!4f0.6160411884917494!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685557415778!6m8!1m7!1s8fnLobboHQrnzk_eTwCsHg!2m2!1d36.9766508496169!2d30.70234610257211!3f137.77209324666765!4f-0.8109974591268099!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Ankara" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685557155453!6m8!1m7!1sLfjXwZTZQL1lSd7LpucFVQ!2m2!1d39.94464225500045!2d32.85448713564772!3f213.22166493493947!4f0.035134921699167876!5f2.674553034047748" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685557199306!6m8!1m7!1sE5j4dX6IU_ruh1bW9GpERA!2m2!1d39.97582411991183!2d32.90342327960887!3f198.02468006957434!4f0.349870839121607!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

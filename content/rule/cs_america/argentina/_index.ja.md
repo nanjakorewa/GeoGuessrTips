@@ -69,6 +69,7 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 アルゼンチンで見ることができる電柱
 {{% /notice %}}
 <div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686861875714!6m8!1m7!1s4hRqrWRh-yXvwGuSRXTBYQ!2m2!1d-26.74627600416227!2d-65.16441350002685!3f313.3235749790858!4f32.468871465170395!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681307974607!6m8!1m7!1sk3pg6PtzLZk7rDk7nRqPcQ!2m2!1d-35.78649077446561!2d-63.71380972493835!3f183.62173532592433!4f5.182801860182508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681308058546!6m8!1m7!1sErkQhnNig6YCAMr4HYd5IQ!2m2!1d-35.78495773091147!2d-63.7145655930146!3f261.2328437577821!4f11.558862341190277!5f1.7438225313974298" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683132354977!6m8!1m7!1sBvVHim4tKcmaLtg6z1YIGw!2m2!1d-40.8067417265152!2d-63.00686275203125!3f101.81726267490271!4f9.368904176268913!5f3.268473291118386" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
