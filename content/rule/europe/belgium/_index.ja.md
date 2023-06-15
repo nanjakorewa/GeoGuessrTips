@@ -82,7 +82,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "看板のロゴ" %}}
 {{% notice tip %}}
-ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}
+オランダ語が使われていたら<span class="quiz">北</span>へ、雄鶏が描かれたロゴがあったりフランス語が使われていたら<span class="quiz">南</span>へ行ってみる。ドイツ語なら<span class="quiz">東</span>の端へ。
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-en.svg#/media/ファイル:Provinces_of_Belgium_with_CoA-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Provinces_of_Belgium_with_CoA-en.svg/1200px-Provinces_of_Belgium_with_CoA-en.svg.png" alt="Provinces of Belgium with CoA-en.svg" width="80%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Lordsutch" title="User:Lordsutch">Lordsutch</a>, based on Greek version by <a href="//commons.wikimedia.org/wiki/User:Wikibelgiaan" title="User:Wikibelgiaan">Wikibelgiaan</a> - <a href="//commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-el.svg" title="File:Provinces of Belgium with CoA-el.svg">File:Provinces_of_Belgium_with_CoA-el.svg</a>, </p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60005619">（Link）</a></p>
