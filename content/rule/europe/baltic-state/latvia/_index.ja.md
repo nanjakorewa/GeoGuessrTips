@@ -30,7 +30,7 @@ sc: [
         <li>数字が書かれた標識が道路に対して<span class="quiz">平行</span></li>
         <li>ボラードを真上から見ると<span class="quiz">）の形</span></li>
         <li>リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span></li>
-        <li>Ļ・ļの文字が特徴的。Ł・łならば{{% goto "../poland/" "ポーランド" %}}かも。</li>
+        <li>Ļ・ļの文字が特徴的。Ł・łならば{{% goto "../../poland/" "ポーランド" %}}かも。</li>
         <li>{{% goto "../../baltic-state/#見分け方" "バルト三国の見分け方" %}}</li>
         <li class="no-evidence">土の雰囲気で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}</li>
     </ul>
@@ -44,7 +44,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱が丸いものが多く電柱の上の部分にフックみたいな形のものがついている。似たような形の電柱は{{% goto "../bulgaria/" "ブルガリア" %}}にもある。
+電柱が丸いものが多く電柱の上の部分にフックみたいな形のものがついている。似たような形の電柱は{{% goto "../../bulgaria/" "ブルガリア" %}}にもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682139088680!6m8!1m7!1syCfEh53FuZQYpvPLLAM-Ig!2m2!1d56.17473944650655!2d27.20834289119661!3f356.9160279563701!4f21.77269451337706!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
