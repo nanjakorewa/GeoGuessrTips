@@ -28,7 +28,7 @@ sc: [
                 <li>「Ž・ž」「Č・č」「Š・š」の文字はクロアチア・チェコ・スロバキア・スロベニア・バルト三国に見られて上にハーチェクやキャロンと呼ばれるｖのような形が付いているのが特徴的</li>
             </ul>
         </li>
-        <li><span class="quiz">青い</span>消火栓 {{% by %}}を見かけるかも</li>
+        <li><span class="quiz">青</span>色の消火栓 {{% by %}}を見かけるかも</li>
         <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
         <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・セルビア・モンテネグロ・トルコ・ポーランド</li>
         <li>クロアチアの横断歩道の標識は５本線でベルトが<span class="quiz">ついている</span>がセルビアはベルトが<span class="quiz">ついていない</span></li>
@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端に青い消火栓 {{% by %}}や黒い背景に赤い反射板のボラードがあるとクロアチアの可能性がある。同じボラードは他の国にもある。
+道端に<span class="quiz">青</span>色の消火栓 {{% by %}}や黒い背景に赤い反射板のボラードがあるとクロアチアの可能性がある。同じボラードは他の国にもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258689669!6m8!1m7!1sa-fSmTwkjECq1AS7ir5yZw!2m2!1d45.80566390255061!2d16.24434144839846!3f89.96653789005501!4f-14.552969839780374!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
