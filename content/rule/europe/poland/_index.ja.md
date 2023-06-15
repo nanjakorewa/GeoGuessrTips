@@ -21,14 +21,14 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pl</span></li>
-        <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多い。ルーマニアは<span class="quiz">空いている</span>ことが多い。</li>
-        <li>ポーランドの横断歩道標識は特徴的{{% by "niwaisound" "twitch" %}}で線が<span class="quiz">横に1本</span></li>
-        <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
-        <li>「<span class="quiz">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../latvia/" "ラトビア" %}}かも。</li>
         <li>反射板が<span class="quiz">赤</span>色のボラードがある</li>
+        <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多いが{{% goto "../romania/" "ルーマニア" %}}は<span class="quiz">空いている</span>ことが多い</li>
+        <li>ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>{{% by "niwaisound" "twitch" %}}</li>
+        <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
+        <li>「<span class="quiz">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}かも。</li>
         <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}</li>
         <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
-        <li class="no-evidence">tの上が斜め</li>
+        <li class="no-evidence">標識の「t」のフォントの縦棒の上が斜めになっている</li>
     </ul>
     {{% rd europe poland verysmall %}}
 </div>
@@ -127,7 +127,7 @@ POCZTA（ポスト、赤い）
 {{% tabs  %}}
 {{% tab "市外局番" %}}
 {{% notice tip %}}
-2Xがワルシャワ付近しか頭に入らない。
+2Xがワルシャワ付近しか頭に入らない。全体的に平坦な国でどのあたりかも分からないので、番号がなかったり地名が見つからなかったら真ん中にピンをとりあえず置く？
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p>By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
