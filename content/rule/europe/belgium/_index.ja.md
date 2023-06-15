@@ -32,7 +32,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}ものがある。周りの国のナンバーも見られる。
+ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}ものがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686781763883!6m8!1m7!1sjGQoSMncdFmLv_X-mMRDtg!2m2!1d50.00212844820196!2d5.717291282505589!3f259.8504663401784!4f-3.2784055178747877!5f1.8828745806696512" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
