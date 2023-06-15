@@ -75,7 +75,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>。上の段はポーランド・下の段はギリシャ{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}。
+オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
