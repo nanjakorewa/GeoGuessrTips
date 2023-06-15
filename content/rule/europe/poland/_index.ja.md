@@ -70,8 +70,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Znak_E-2c.svg" width="260px" style="margin-right:10px">
-<img src="./r/PL_road_sign_T-28.svg" width="260px" style="margin-left:10px">
+<img src="./r/Znak_E-2c.svg" width="240px" style="margin-right:10px">
+<img src="./r/PL_road_sign_T-28.svg" width="260px" style="margin:13px">
 </div>
 
 {{% notice tip %}}
