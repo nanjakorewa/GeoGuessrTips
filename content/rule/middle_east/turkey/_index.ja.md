@@ -38,15 +38,16 @@ dont_show_usda: true
 </div>
 
 {{% notice tip %}}
-止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。
+止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="DUR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-<div class="googlemap-if unclickable">
-<img src="./r/Turkish_Stop_Sign.svg" width="130px">
-<img src="./r/Turkey_road_sign_B-16.svg" width="200px" style="margin:30px">
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="./r/Turkish_Stop_Sign.svg" width="120px">
+<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
+<img src="./r/175104.png" width="110px" style="margin:5px">
 </div>
 
 {{% notice tip %}}
@@ -58,15 +59,6 @@ dont_show_usda: true
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
-{{% notice tip %}}
-赤白で｜《｜のシェブロン（矢印の先端に余白がある）はトルコかも？
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682903524808!6m8!1m7!1sCbrphUesjNoUkIvld0DCfw!2m2!1d40.5333547818197!2d36.88345499003033!3f104.66404343620007!4f-4.597505529582904!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682903620129!6m8!1m7!1s-mFYhLLSp-8hx6llTtn9jQ!2m2!1d37.68900546721092!2d43.90937100132399!3f319.51318298801175!4f-1.794511892317189!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% notice tip %}}
 いろんな電柱
 {{% /notice %}}

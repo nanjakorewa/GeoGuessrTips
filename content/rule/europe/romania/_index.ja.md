@@ -22,12 +22,16 @@ sc: [
         <li>ドメインは<span class="quiz">.ro</span></li>
         <li>公用語はルーマニア語でラテン文字を使用する</li>
         <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多く<span class="quiz">黄</span>色のマーカーが付いていることがある{{% by %}}</li>
+        <li>「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」はルーマニアとモルドバで使用される</li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
-        <li>「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」はルーマニアとモルドバで使用されるがモルドバは出題されないのでルーマニアとなる</li>
+        <li>ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>の標識</li>
         <li class="no-evidence">家の前に何か箱があって黄色いパイプが伸びている</li>
-        <li class="no-evidence">横断歩道の標識が黄色の反射板で囲まれていてなおかつ標識の裏側が黒色ならルーマニアかも</li>
+        <li class="no-evidence">横断歩道の標識が黄色の反射板で囲まれていてなおかつ標識の裏側が黒色のものがあるならルーマニアかも</li>
     </ul>
     {{% rd europe romania verysmall %}}
+    <div class="sign-area sign-area-clickable licence-area">
+        <p>横断歩道標識：By <a href="//commons.wikimedia.org/w/index.php?title=User:Gigillo83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gigillo83 (page does not exist)">Gigillo83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40504943">Link</a></p>
+    </div>
 </div>
 
 {{% tabs  %}}
@@ -49,6 +53,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+ヨーロッパの中で圧倒的に太い▽{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。そして横断歩道の標識が黄色い線で囲まれていることがある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/triangle.png" width="130px" style="margin:13px">
+<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
