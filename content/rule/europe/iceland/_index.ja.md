@@ -47,8 +47,7 @@ sc: [
 <span class="quiz">黄色</span>のボラードがある
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046956101!6m8!1m7!1sXI7bCDrVgXTsV76DWrdw1g!2m2!1d64.47615465744332!2d-14.49622641512799!3f303.33023648981043!4f-14.483354070616116!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046784166!6m8!1m7!1slS3ha32HmGjhVi9gyQWoiw!2m2!1d64.66931737758954!2d-21.68751606949348!3f9.923307920669943!4f-28.405388925058112!5f2.91162630827399" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/ramona_muntean/32694619890/in/photolist-RP7tqW-XcZHVq-iucKap-Ydw2Cz-DBUi4Q-2ccSLp5-wevh6J-RGga47-ogApam-ZWzscu-7dQDcK-ab449P-C1vXZk-2b3azZJ-JdNHrR-JWbsNs-VLqCzo-Xxd4Tb-21EEaBi-MHq6HL-fLdJ8N-872WjC-28Czfvb-21C3Nqh-2citSLd-XXqtKJ-23rsMVh-26K66oy-M7UE3f-dmd8MQ-LRdoEu-ZGWuZU-vXxhFw-KVHymC-LNdnAb-29g5CeQ-MKqspm-2csK6Pd-2bPEBcT-jkzHKz-RpirUi-J66oJy-21kHhxo-LRzPek-KGQSUn-25uDKvV-RTvdjr-SxvLCf-76edeU-JwSxgi" title="On the road (Iceland)"><img src="https://live.staticflickr.com/2516/32694619890_183450c963_z.jpg" width="640" height="360" alt="On the road (Iceland)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
