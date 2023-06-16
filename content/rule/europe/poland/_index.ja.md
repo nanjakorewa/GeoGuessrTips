@@ -28,7 +28,7 @@ sc: [
         <li>「<span class="quiz">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}かも。</li>
         <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}</li>
         <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
-        <li class="no-evidence">標識の「t」のフォントの縦棒の上が斜めになっている</li>
+        <li class="no-evidence">標識の「t」のフォントの縦棒の両端が斜めになっている</li>
     </ul>
     {{% rd europe poland verysmall %}}
 </div>
@@ -66,7 +66,7 @@ sc: [
 
 
 {{% notice tip %}}
-「<span class="quiz">Ł・ł</span>」の文字がある。また、標識などの「ｔ」のフォントの上の部分が斜めになっている（確証なし）？
+「<span class="quiz">Ł・ł</span>」の文字がある。また、標識などの「ｔ」のフォントの両端が斜めになっている（確証なし）？
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

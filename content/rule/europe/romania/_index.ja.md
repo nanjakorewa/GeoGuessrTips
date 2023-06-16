@@ -67,6 +67,18 @@ sc: [
 <img src="./t/france.png" width="130px" style="margin:10px">
 <img src="./r/triangle.png" width="130px" style="margin:13px">
 </div>
+
+{{% notice tip %}}
+「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」のような下に点（コンマビロー）が付いたSとTはルーマニアとモルドバで使用されるが、モルドバにはストリートビューがない。「Ļ・ļ」ならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./route/routeA.png" width="240px" style="margin:10px">
+<img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
+</div>
+
+
+
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}
