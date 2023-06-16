@@ -59,6 +59,7 @@ sc: [
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679854562480!6m8!1m7!1syiEjGBhayoOdpLrXFIOsag!2m2!1d6.67266544030606!2d3.312221930570927!3f188.50999469130915!4f-8.341239190692107!5f1.6021556725762478" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686927253225!6m8!1m7!1s1M70fWp0fJw_8P-adNJrpA!2m2!1d6.474586597493951!2d3.562058211014273!3f282.62577029999335!4f3.2687283677445436!5f1.3205476195043677" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
