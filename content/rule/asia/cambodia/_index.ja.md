@@ -46,8 +46,7 @@ is_has_distinctive_googlecar: true
 カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681965793866!6m8!1m7!1sCC4gdvMh6mHaHJ4LbinpUw!2m2!1d13.79205738884228!2d107.0446235238677!3f189.80029586278943!4f4.564831644180387!5f1.7504441702702604" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681965922771!6m8!1m7!1sLwHCWLuOuIkAAAQINShrPg!2m2!1d12.46682606828532!2d106.0253300553675!3f351.4900256991656!4f0.6708053189221772!5f1.674384299632421" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Cambodia Rural House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -66,6 +65,13 @@ is_has_distinctive_googlecar: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685045093972!6m8!1m7!1sQoqx432_yP9HJJqV1cmIIA!2m2!1d13.64469096453368!2d103.044546375599!3f97.60171841276211!4f-7.9978384380278555!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685045139272!6m8!1m7!1swLycVmmbXZEfvdfm9MwpCw!2m2!1d13.72672320398144!2d105.7748318091747!3f56.50465763287239!4f-6.941266939778117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+こういう感じの木がある。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bdmoore1/23893604966" title="Sugar Palm Trees"><img src="https://live.staticflickr.com/5789/23893604966_d0cd88935b_z.jpg" width="640" height="394" alt="Sugar Palm Trees"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -115,13 +121,20 @@ is_has_distinctive_googlecar: true
     </ul>
 </div>
 
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>トンレ・サップ湖を船で渡る場所がある</li>
+    </ul>
+</div>
+
 {{% tabs %}}
 {{% tab "湖の上" %}}
 {{% notice note %}}
-湖の上も出ることがある
+トンレ・サップ湖の上も出ることがある
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686665924475!6m8!1m7!1seCLxYxO1olREocoS2zgIDA!2m2!1d12.51447248869762!2d104.447153870721!3f82.30284137401792!4f-27.012955072008616!5f0.5542794894395264" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686665924475!6m8!1m7!1seCLxYxO1olREocoS2zgIDA!2m2!1d12.51447248869762!2d104.447153870721!3f82.30284137401792!4f-27.012955072008616!5f0.5542794894395264" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 {{% /tab %}}
 {{% /tabs %}}

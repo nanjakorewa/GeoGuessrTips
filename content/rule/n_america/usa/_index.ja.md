@@ -164,6 +164,14 @@ maps: [
 </div>
 </div>
 {{% /tab %}}
+{{% tab "④ガソリンスタンド" %}}
+{{% notice tip %}}
+自作なので正しくないかも
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./gas_station.png" width="90%">
+</div>
+{{% /tab %}}
 {{% tab "車のシール" %}}
 {{% notice tip %}}
 いくつかの州は車の車検のシールで判別できるかも
@@ -173,8 +181,6 @@ maps: [
 </div>
 {{% /tab %}}
 {{% tab "アメリカ攻略講座" %}}
-{{% notice tip %}}
-{{% /notice %}}
 <div class="googlemap-if">
 <iframe width="590" height="335" src="https://www.youtube.com/embed/Q_KB4MP_HZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
