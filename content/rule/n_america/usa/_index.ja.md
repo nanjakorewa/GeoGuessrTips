@@ -105,7 +105,15 @@ maps: [
                 <li>高速道路の出口は"Exit 1"といった感じで番号が付いていてズームすると確認できる</li>
             </ul>
         </li>
-        <li>④ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}</li>
+        <li class="no-evidence">④ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}
+            <ul>
+                <li>Chevron→南の海沿いの州か西海岸の州</li>
+                <li>Citgo→東側の州</li>
+                <li>Phillips→内陸の州</li>
+                <li>Murphy USA→東側の州</li>
+                <li>Texaco→南の海沿いの州か西海岸の州</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
