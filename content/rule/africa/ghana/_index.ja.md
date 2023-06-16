@@ -11,6 +11,10 @@ flag: "GH.svg"
 jetro_detail: true
 plonkit: true
 is_has_distinctive_googlecar: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../reunion/", "レユニオン"],
+    ]
 ---
 
 <div class="main-desciption country-description">
