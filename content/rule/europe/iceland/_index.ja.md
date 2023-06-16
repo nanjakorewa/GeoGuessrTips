@@ -50,6 +50,13 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/ramona_muntean/32694619890/in/photolist-RP7tqW-XcZHVq-iucKap-Ydw2Cz-DBUi4Q-2ccSLp5-wevh6J-RGga47-ogApam-ZWzscu-7dQDcK-ab449P-C1vXZk-2b3azZJ-JdNHrR-JWbsNs-VLqCzo-Xxd4Tb-21EEaBi-MHq6HL-fLdJ8N-872WjC-28Czfvb-21C3Nqh-2citSLd-XXqtKJ-23rsMVh-26K66oy-M7UE3f-dmd8MQ-LRdoEu-ZGWuZU-vXxhFw-KVHymC-LNdnAb-29g5CeQ-MKqspm-2csK6Pd-2bPEBcT-jkzHKz-RpirUi-J66oJy-21kHhxo-LRzPek-KGQSUn-25uDKvV-RTvdjr-SxvLCf-76edeU-JwSxgi" title="On the road (Iceland)"><img src="https://live.staticflickr.com/2516/32694619890_183450c963_z.jpg" width="640" height="360" alt="On the road (Iceland)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}
+横断歩道の標識が黄色い。ただ都心部以外はあまり見つからないかも。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./r/Iceland_road_sign_D02.11.svg" width="190px">
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
