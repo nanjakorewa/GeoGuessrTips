@@ -47,6 +47,13 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681122823859!6m8!1m7!1s7byCkW0xEA5uzEdbFRHuPg!2m2!1d-7.277122663255537!2d112.8048891220813!3f14.541064942612202!4f5.241205322196677!5f3.1190796277333193" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px">
+<img src="./c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px">
+<img src="./c/BRI_2020.svg" width="170px" style="margin:10px">
+</div>
+
+
 {{% notice tip %}}
 道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。GGSPと書かれたのれんは<span class="quiz">タバコ</span>メーカーGudang Garam Tbk PTに関するのれん。
 {{% /notice %}}
