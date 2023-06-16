@@ -56,13 +56,14 @@ maps: [
 </div>
 
 {{% notice tip %}}
-アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて、看板やロゴが街中にある。順番にWaste Management、Home Depot、Tesla、Target。
+アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて、看板やロゴが街中にある。順番にWaste ManagementとRepublic Services（廃棄物収集業者でゴミ箱にロゴがある）・ChevronとCitgo(ガソリンスタンド)・Target（小売）など。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679500169876!6m8!1m7!1sPZq6sgqnfJR05EFwokhvdw!2m2!1d35.03033535580299!2d-110.7120324141037!3f240.45588519171642!4f-10.845926098660556!5f3.3031406727473978" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681568462715!6m8!1m7!1sPKqMbO7lDtKE9PGHUs_XSw!2m2!1d40.74214014071776!2d-73.99103169731926!3f268.2398095804339!4f7.099516766554316!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680483536123!6m8!1m7!1sCWzP34xaWEWdoxezFQ0_Ig!2m2!1d38.50743521268857!2d-90.32915889749124!3f36.354531633365504!4f-7.775544757794904!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681256541373!6m8!1m7!1sj09-kZVbz0dQ5mpPGgQf-w!2m2!1d39.71647180511258!2d-104.8225030302597!3f129.1590060215013!4f19.60124204073361!5f3.304990000730533" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./w/Waste_Management_logo.svg" width="220px" style="margin:10px"/>
+<img src="./w/Republic_Services_logo.svg" width="220px" style="margin:10px"/>
+<img src="./w/Chevron_Logo.svg" width="130px" style="margin:10px"/>
+<img src="./w/Citgo_logo.svg" width="130px" style="margin:10px"/>
+<img src="./w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px"/>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -104,6 +105,7 @@ maps: [
                 <li>高速道路の出口は"Exit 1"といった感じで番号が付いていてズームすると確認できる</li>
             </ul>
         </li>
+        <li>④ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}</li>
     </ul>
 </div>
 
