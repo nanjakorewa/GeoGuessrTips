@@ -50,6 +50,10 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684296168432!6m8!1m7!1sPZNqQq6iQOPN36--TJsdBg!2m2!1d22.66491782705087!2d120.4812188706366!3f118.41292082212668!4f16.58351271508947!5f3.1649087322015723" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./ok-logo.png" width="500px">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
