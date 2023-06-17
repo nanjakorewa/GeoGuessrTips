@@ -39,7 +39,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-お店で登山用グッズを売っていて現在地点の高さが看板に書いてある
+お店で登山用グッズを売っていて現在地点の高さが看板に書いてある。周りの人たちも登山用のバッグを背負っている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686658052117!6m8!1m7!1st-wsY4WjE6IwVyCOz04stw!2m2!1d27.85695534168585!2d86.78823890552593!3f91.57823355735472!4f14.889785014200825!5f1.537021344989522" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
