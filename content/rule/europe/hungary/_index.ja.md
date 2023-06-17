@@ -48,6 +48,7 @@ sc: [
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682251138077!6m8!1m7!1sRq8aJtGNlxSwzyDKjqxCbg!2m2!1d46.04804810344586!2d17.8129322438962!3f27.155988151462118!4f3.488141970875162!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687008901401!6m8!1m7!1sqdA3au4nYH6415Q0gPQU9w!2m2!1d46.62870406899184!2d20.49117329350692!3f267.75931609256736!4f13.799765658890848!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
