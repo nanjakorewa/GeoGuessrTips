@@ -20,7 +20,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ro</span></li>
-        <li>公用語はルーマニア語でラテン文字を使用する</li>
+        <li>公用語はルーマニア語で<span class="quiz">ラテン</span>文字を使用する</li>
         <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多く<span class="quiz">黄</span>色のマーカーが付いていることがある{{% by %}}</li>
         <li>「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」はルーマニアとモルドバで使用される</li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
@@ -37,7 +37,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱に大き目の穴が一番下まで空いている。一番下あたりが白く塗られていることもある。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
+電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>。一番下あたりが白く塗られていることもある。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681530619286!6m8!1m7!1s1q9X84JbsgqznIsNH4LXLQ!2m2!1d44.70535771556276!2d22.72859302476025!3f63.20555826958801!4f-13.244004319234278!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -45,7 +45,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左がポーランド、右がルーマニアのガードレール。ポーランドのガードレールは角ばっているが、ルーマニアは角ばっていないことが多い。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い。
 {{% /notice %}}
 
 <div class="googlemap-if">

@@ -48,7 +48,7 @@ sc: [
 
 
 {{% notice tip %}}
-オーストラリアのボラードの赤い反射板は基本的に片側だけだがニュージーランドは両側に赤い部分があり赤い面積も多い。左がオーストラリア・右がニュージーランド。
+オーストラリアのボラードの赤い反射板は基本的に片側だけだがニュージーランドは両側に赤い部分があり赤い面積も多い。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路番号のフォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。
+道路番号のフォントがオーストラリアと異なる。左が<span class="quiz">南アフリカ</span>・右が<span class="quiz">オーストラリア</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
@@ -228,7 +228,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
             </ul>
         </li>
-        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。でもあまり見かけない上に街中でないと見つけられないので優先度低。
+        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。あまり見かけない上に街中でないと見つけられないため、ブラジルの電話番号と比較するとあまり重要ではない。
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
                 <li>03：<span class="quiz">Victoria・タスマニア・メルボルン</span></li>

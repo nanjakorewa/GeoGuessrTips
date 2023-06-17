@@ -30,7 +30,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいときがある。
+言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
