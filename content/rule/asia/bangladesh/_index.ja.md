@@ -107,3 +107,30 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>わからない</li>
+    </ul>
+</div>
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならば大ヒントになる時がある。</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "Dhaka Bank" %}}
+
+{{% notice tip %}}
+Dhaka BankやDutch-Bangla Bankの看板があるとき、表裏のどちらかに町名が<b>英語</b>で書いてあるので読むことができるはず。もう片面はベンガル語なので読むのは難しい。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686994393766!6m8!1m7!1sAKCMZ849l84xlLXb9UkmLA!2m2!1d22.34095927213221!2d91.78218672196242!3f61.96411249464136!4f9.877375231188637!5f3.2406016393794856" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
