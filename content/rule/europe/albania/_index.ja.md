@@ -83,12 +83,6 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 </div>
 
 {{% /tab %}}
-{{% tab "w-building" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681573981084!6m8!1m7!1sNjm8q8OGRsK5Kzi42M8DYg!2m2!1d40.08299859056847!2d20.1431476244435!3f335.5508730015449!4f17.148339677604824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681574059733!6m8!1m7!1sjuoI5ULhGI9Bxfaa6hpIXg!2m2!1d42.19514608905921!2d19.45282564159973!3f84.54159727997028!4f5.130768384931599!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683205004490!6m8!1m7!1sGViVJH9Mk8RpyMbkvs7MfA!2m2!1d42.26324816088299!2d19.42909205651487!3f51.75123322663632!4f-17.89478618479052!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

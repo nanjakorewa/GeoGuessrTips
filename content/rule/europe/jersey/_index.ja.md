@@ -68,9 +68,7 @@ By Willtron, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<p><a href="https://commons.wikimedia.org/wiki/File:Cycle_route_signs_in_St_Peter%27s_valley.jpg#/media/File:Cycle_route_signs_in_St_Peter's_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cycle_route_signs_in_St_Peter%27s_valley.jpg" alt="Cycle route signs in St Peter's valley.jpg" width="70%"></a></p>
-</div>
-<div class="googlemap-if">
+<p style="margin-bottom:0"><a href="https://commons.wikimedia.org/wiki/File:Cycle_route_signs_in_St_Peter%27s_valley.jpg#/media/File:Cycle_route_signs_in_St_Peter's_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cycle_route_signs_in_St_Peter%27s_valley.jpg" alt="Cycle route signs in St Peter's valley.jpg" width="70%"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Danrok" title="User:Danrok">Danrok</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90584925">Link</a></p>
 </div>
 {{% /tab %}}

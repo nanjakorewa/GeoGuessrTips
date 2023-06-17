@@ -52,9 +52,6 @@ sc: [
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/kaminskimateusz/43873050604" title="_DSC2315.jpg"><img src="https://live.staticflickr.com/1859/43873050604_5f01442a63_w.jpg" width="400" height="266" alt="_DSC2315.jpg"/></a>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685589718299!6m8!1m7!1svOW8VzK4E5SVBK6Ec4yVgw!2m2!1d43.51426562739039!2d16.43182698284475!3f352.251586271742!4f-5.24297329778031!5f2.66377219812185" width="230" height="266" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-<div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hile/27023806014/in/photolist-7jCuyg-WZkQKu-59yxc7-9b24Mr-Hb152U-4Qvnvc-5RDxaF-8qzBDb-6N2enw-2jJQd5B-2nAfamo-2nAkaEt-2jJR1d9-2jJLC74-2jJLC8g-2jJR1zw-2jJLCcE-2jJQd9z-2jJQdeE-2jJQdmZ-2jJLCiS-2jJLCjD-2jJLBTU-2jJLCgx-2jJQdTW-2jJR2mS-2jJLDBZ-2jJQenr-2jJR2NJ-2jJQduz-2jJR2ET-2jJQevs-2jJQcYz-2jJR2ov-2jJQdW1-2jJQe4f-2jJR33b-2jJQe6j-2jJR29c-2jJQeyy-2jJQdFw-2jJR2S1-2jJQdxF-2jJQefY-2jJLDbP-2jJR2fj-2jJLCBC-2jJQdAg-2jJQeBj-2jJR2bX" title="WP_20160612_21_07_39_Rich"><img src="https://live.staticflickr.com/7092/27023806014_a0254234a4_z.jpg" width="640" height="360" alt="WP_20160612_21_07_39_Rich"/></a>
 </div>
 

@@ -46,7 +46,7 @@ sc: [
 <img src="./route.png" width="240px">
 </div>
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "電柱" %}}
 {{% notice tip %}}
 ハンガリーっぽい電柱。
 {{% /notice %}}

@@ -58,7 +58,7 @@ dont_show_usda: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682126333722!6m8!1m7!1sQwEYDNiSF8ZmYL1air9PDQ!2m2!1d41.10184696207915!2d34.40714980714959!3f222.69801359444685!4f-17.408307712036475!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "電柱" %}}
 {{% notice tip %}}
 いろんな電柱
 {{% /notice %}}

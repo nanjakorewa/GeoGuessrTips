@@ -80,11 +80,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 
 {{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680144431366!6m8!1m7!1shxe_iLl3cJEDiavYyHK4Bw!2m2!1d-28.14627200205117!2d153.4778619605121!3f42.26826729503005!4f6.6985311149348945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680144566252!6m8!1m7!1sB-a1zsMm8gvQEGItXgvsEQ!2m2!1d-28.51919408506439!2d153.1580933788061!3f170.10090920810467!4f-17.90590305808597!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
