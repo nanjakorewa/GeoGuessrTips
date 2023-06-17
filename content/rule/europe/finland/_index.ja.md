@@ -188,10 +188,6 @@ additional_link:
 フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimilappalainen/16928553334/in/photolist-rMVg8d-51XvP3-JK3yQ-8peix2-8npUvR-2ji5yym-8penvc-52Bwpb-8pe7Ai-2ojrywq-8pear2-8p4CMv-KwcLNE-bZJMCs-t8L1nM-co42x9-8pe7zT-7jEstv-hymVYM-cg1zTQ-8peixD-51XvQy-8jf5dV-7er4ET-7KyMyn-8penvX-7jJm9d-H2xf3Y-bZKBSA-8nt34s-2onBLpe-8peeYc-8peaqT-8peiwT-stogtp-LGFHHC-8pe7A8-8pear4-8peeY4-8peiwz-8peeXT-8peark-8peeXt-2ofjGuW-8npUEH-8peare-264pNoY-8pe7zZ-8peeXP-25J13uG" title="Äänekoski"><img src="https://live.staticflickr.com/7717/16928553334_3c62c84f04_z.jpg" width="640" height="427" alt="Äänekoski"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
 <div class="googlemap-if unclickable">
 <img src="2023-06-17-13-12-50.png" width="570px"/>
 </div>
