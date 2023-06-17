@@ -120,7 +120,7 @@ sc: [
 {{% tab "大豆" %}}
 
 {{% notice tip %}}
-大豆なのか草なのかわからないが大豆の90%以上はこの地域で作られている
+（これが大豆である確証はないけれど）大豆の90%以上はこの地域で作られている
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686997224332!6m8!1m7!1smbgUH_ld56nAP0CX86OYyQ!2m2!1d22.89854130233651!2d91.01574225907122!3f168.52047113755174!4f-12.702088935898928!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -133,7 +133,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならばヒントになる時がある。</li>
+        <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならばヒントになる。</li>
     </ul>
 </div>
 
