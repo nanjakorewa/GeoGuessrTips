@@ -85,6 +85,19 @@ code.language-css span {
   margin-right: 1em;
 }
 
+div[title="わかりやすい目印"] div.notices {
+  margin: 1em 0 0 0!important;
+}
+
+div[title="わかりやすい目印"] div.googlemap-if {
+  margin-bottom: 3em;
+}
+
+div[title="わかりやすい目印"] div.notices p {
+  margin-bottom: 1em !important;
+}
+
+
 div.update-area {
   padding: 0.4em;
 }
