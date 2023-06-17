@@ -13,10 +13,7 @@ jogmec_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../indonesia/", "インドネシア"],
-    ]
-map_title: "マップ"
-maps: [
-    ["https://www.geoguessr.com/ja/maps/philippines", "Philippines"],
+    ["../thai/", "タイ"],
     ]
 ---
 
@@ -28,11 +25,12 @@ maps: [
         <li>英語とフィリピン語が公用語</li>
         <li>家の屋根が<span class="quiz">トタン屋根っぽい</span>{{% by %}}</li>
         <li>フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある</li>
-        <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる</li>
-        <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>が交通手段として使用され公共交通機関のナンバーは<span class="quiz">黄</span>色が多い</li>
-        <li class="no-evidence">道路がコンクリートでできているのはフィリピン・タイ・コロンビア・ペルー・エクアドルに多い</li>
+        <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシーとして使われる</li>
+        <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>が交通手段として使用される</li>
+        <li>ジプニーなどの公共交通機関のナンバーは<span class="quiz">黄</span>色・一般車は<span class="quiz">緑</span>色が多い</li>
         <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカ</li>
         <li class="no-evidence">ローヤルクラウン・コーラが売られている</li>
+        <li class="no-evidence">後ろに扉が無い乗り物を見たらほぼフィリピン</li>
     </ul>
     {{% rd asia philippines verysmall %}}
 </div>

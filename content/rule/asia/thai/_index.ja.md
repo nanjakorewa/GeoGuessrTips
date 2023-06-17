@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../laos/", "ラオス"],
     ["../srilanka/", "スリランカ"],
+    ["../philippines/", "フィリピン"],
     ]
 ---
 
@@ -23,8 +24,9 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.th</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li>タイ語（ภาษาไทยกลาง）が一般的に使用される</li>
         <li>ボラードが白黒の角ばった感じ {{% by %}}</li>
-        <li>電柱も角ばった感じ {{% by %}}だがスリランカなど別の場所にも四角い電柱がある</li>
+        <li>電柱も角ばった感じ{{% by %}}だがこれだけでタイを押してはいけない</li>
     </ul>
     {{% rd asia thai verysmall %}}
 </div>
@@ -32,17 +34,17 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}ボラードが白黒の角ばった感じ {{% by %}}で電柱も角ばっている。角ばりを感じたらタイかも。
+{{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも。ただし似たようなボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../philippines/" "フィリピン" %}}と{{% goto "../srilanka/" "スリランカ" %}}にもあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682877916254!6m8!1m7!1sSsph6IlCDLalfC82SiXhGQ!2m2!1d14.64339940767677!2d98.69383419317019!3f272.2330816685183!4f-9.492207784541847!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682253036696!6m8!1m7!1sjnVySIUkGXb5XpEwci1aTA!2m2!1d17.34694015534703!2d102.828123273268!3f78.31588429892301!4f-4.759113999546827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は白色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多いがたまに他の色の車もある。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
+{{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/philiproeland/6253320512/in/photolist-awzUjU-qzUoGX-5SpoqY-DeTAyc-LAthQD-C4dYhC-WMvBuQ-fj9ZJe-BQ6gX-9aWCno-fjrY2V-24cWoth-6teWZF-nYxoji-9brPtZ-8kTBA-a28bL9-qq5Smz-9wAFFY-bAniuU-6czkMy-Le6K-9bGFFi-VJjWQj-9cHSVU-6aEYxk-4sdk3K-9ffWtX-d3oT9G-9SAojz-8er4o-9bhpgY-8vpfL8-8Ayxqt-f9iXUP-9SDmSA-VCUqq3-6zAWYH-xJGxT-GX8Gd-tV8QjN-9SDmtC-b6hfg-7C3WS8-PeVA2i-NRwSP3-64TvLW-dJ2PcK-8kTvX-4XmMEB" title="Bangkok taxi"><img src="https://live.staticflickr.com/6019/6253320512_ab85ace276.jpg" width="500" height="282" alt="Bangkok taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/75992994@N05/45648761545/" title="Where Rambuttri Alley meets the Chakrabongse Road"><img src="https://live.staticflickr.com/7858/45648761545_b96440615c_z.jpg" width="640" height="427" alt="Where Rambuttri Alley meets the Chakrabongse Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
