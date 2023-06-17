@@ -190,9 +190,14 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 </div>
 {{% /tab %}}
 {{% tab "SA（南オーストラリア州）" %}}
+
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682860956772!6m8!1m7!1svyXcNwin0VGrd2f1hbHaAg!2m2!1d-33.73293852674076!2d138.5605087780714!3f212.78003010968123!4f-2.1193123909354767!5f2.9760514761786894" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682876310366!6m8!1m7!1s0GIbI-sr8Q9l7AYua8OAgw!2m2!1d-33.13255954029371!2d135.5524586341847!3f262.0190664488449!4f-1.0028351410437466!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+<div class="googlemap-if">
+{{% goto "https://www.natori.co.jp/products_search/cheese/cod?" "なとり ＞ 商品検索 ＞ チーズ ＞ 「チーズ鱈」" %}}
 </div>
 {{% /tab %}}
 {{% tab "NT（ノーザンテリトリー）" %}}
