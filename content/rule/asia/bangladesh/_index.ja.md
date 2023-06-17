@@ -119,7 +119,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならば大ヒントになる時がある。</li>
+        <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならばヒントになる時がある。</li>
     </ul>
 </div>
 

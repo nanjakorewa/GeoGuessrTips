@@ -60,11 +60,10 @@ is_has_distinctive_googlecar: true
 
 
 {{% notice tip %}}
-仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。
+仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685045093972!6m8!1m7!1sQoqx432_yP9HJJqV1cmIIA!2m2!1d13.64469096453368!2d103.044546375599!3f97.60171841276211!4f-7.9978384380278555!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685045139272!6m8!1m7!1swLycVmmbXZEfvdfm9MwpCw!2m2!1d13.72672320398144!2d105.7748318091747!3f56.50465763287239!4f-6.941266939778117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Cambodian house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -117,9 +116,23 @@ is_has_distinctive_googlecar: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>ボラードを見つけて道路番号を探したあとで両面に書いてある町名を探す。そのあと距離の比率をみておよその地域を絞り込む。</li>
         <li>アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>
 </div>
+
+
+{{% tabs %}}
+{{% tab "ボラード" %}}
+{{% notice tip %}}
+ボラードの側面に道路番号が、両面に町までの距離が書いてある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686995164145!6m8!1m7!1sgxiJZFUJ1xWlNagYzwPu7w!2m2!1d13.69204686393151!2d106.9415696528579!3f2.7114850261543806!4f-10.653833189576332!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
@@ -130,11 +143,12 @@ is_has_distinctive_googlecar: true
 
 {{% tabs %}}
 {{% tab "湖の上" %}}
-{{% notice note %}}
+{{% notice tip %}}
 トンレ・サップ湖の上も出ることがある
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686665924475!6m8!1m7!1seCLxYxO1olREocoS2zgIDA!2m2!1d12.51447248869762!2d104.447153870721!3f82.30284137401792!4f-27.012955072008616!5f0.5542794894395264" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
