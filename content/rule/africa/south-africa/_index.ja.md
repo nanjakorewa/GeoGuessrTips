@@ -36,13 +36,16 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-防犯対策として<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>が付いていることが多い。また、柵をよく見るとエレクトリックワイヤーが張られていることも多い。
+防犯対策として<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>が付いていることが多い。また、柵をよく見るとエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「SOS」と書かれたセキュリティ会社のシールが貼ってあることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682283657883!6m8!1m7!1sPV4BSoKJSpk2SBwFfdJxtA!2m2!1d-34.04342394372563!2d18.51732175162858!3f13.819907395205497!4f-3.8715017447142372!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682284165694!6m8!1m7!1seXuNZyme4Cy2mWT7ORBV1Q!2m2!1d-29.83016438817616!2d31.01121558441056!3f170.21138774432524!4f6.853126215654527!5f1.8029387404032464" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./adt.png" width="80px">
+</div>
 
 {{% notice tip %}}
 <span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線（ただしこれだけで確定するわけではないと思う）。
