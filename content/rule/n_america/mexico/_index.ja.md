@@ -45,8 +45,7 @@ sc: [
 <span class="quiz">8角形</span>の電柱が特徴的、ただしこれだけでは100%確定しないので周りの雰囲気も合わせてメキシコと判断する。とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679459072284!6m8!1m7!1s8PmLY24JPH4SftL8hA2CZA!2m2!1d25.75251926645027!2d-100.3004127618978!3f93.71490274714154!4f-1.98958654281806!5f3.2793573082848697" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686968476108!6m8!1m7!1sTFInio-SlXCJKGkmSOrU9w!2m2!1d27.44366976390157!2d-99.52641789158689!3f54.69255634713712!4f-6.965929188309502!5f2.8177842970614426" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
