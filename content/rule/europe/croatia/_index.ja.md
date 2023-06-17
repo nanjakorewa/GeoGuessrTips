@@ -32,6 +32,7 @@ sc: [
         <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
         <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・セルビア・モンテネグロ・トルコ・ポーランド</li>
         <li>クロアチアの横断歩道の標識は５本線でベルトが<span class="quiz">ついている</span>がセルビアはベルトが<span class="quiz">ついていない</span></li>
+        <li>クロアチアの旗のチェックボード柄の模様のロゴや看板を見かけることがある</li>
     </ul>
     {{% rd europe croatia verysmall %}}
 </div>

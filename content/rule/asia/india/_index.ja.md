@@ -30,19 +30,17 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いが都市部でさらに絞り込むのは結構難しい。インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}とか。
+言語が特徴的なので慣れれば判別できる。デリーのような都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいときがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680576614545!6m8!1m7!1sCqX7Zdaaiyw21z6aQ3HtCg!2m2!1d29.87147887963868!2d79.62983076241443!3f139.35104298712295!4f-1.9042464036854057!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682469802588!6m8!1m7!1sdud8_9E_fzA4BL2i3j9CRA!2m2!1d28.65780207700633!2d77.23522014625584!3f52.38936005181625!4f11.563453983215112!5f1.6008206138207792" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
-電柱の形が特徴的で、また配線が綺麗に整備されていない場合も多い。そして左のような穴の開いている電柱（ホーリーポール）はグジャラートに多いらしい{{% ref "https://youtu.be/3KSsNoeen_U?t=855" "youtube" %}}。
+電柱の配線が綺麗に整備されていない場合も多い。そして特徴的な形の電柱も多い（{{% goto "#電柱の形" "インドの電柱" %}}）。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680577309648!6m8!1m7!1sxphJ4suzq6IyEdQjMvHENA!2m2!1d26.46593307498799!2d80.3005460242372!3f162.2622085832344!4f13.82284962866919!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tlinn/40549983514/" title="Hauz Qazi Substation 1953 | Old Delhi, India"><img src="https://live.staticflickr.com/876/40549983514_b44e94db9d_z.jpg" width="640" height="427" alt="Hauz Qazi Substation 1953 | Old Delhi, India"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "🎥" %}}
@@ -321,6 +319,7 @@ sc: [
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title" id="電柱の形">電柱の形</h4>
     <ul class="rule-list">
         <li>電柱の形が州や街によって異なる
             <ul>

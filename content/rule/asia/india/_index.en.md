@@ -27,8 +27,7 @@ jogmec_detail: true
 The language is distinctive and can be identified once you get used to it. In the city center, addresses are often written in English under signs.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680576614545!6m8!1m7!1sCqX7Zdaaiyw21z6aQ3HtCg!2m2!1d29.87147887963868!2d79.62983076241443!3f139.35104298712295!4f-1.9042464036854057!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682469802588!6m8!1m7!1sdud8_9E_fzA4BL2i3j9CRA!2m2!1d28.65780207700633!2d77.23522014625584!3f52.38936005181625!4f11.563453983215112!5f1.6008206138207792" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
