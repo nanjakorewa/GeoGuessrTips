@@ -145,6 +145,7 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
+        <li>レソト周辺はナンバープレートが緑色っぽい{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_South_Africa" "南アフリカの州ごとのナンバープレート" %}}</li>
         <li>農業の種類で地域がわかることがある
             <ul>
                 <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span></li>
@@ -156,6 +157,19 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 </div>
 
 {{% tabs %}}
+{{% tab "ナンバープレート" %}}
+
+{{% notice tip %}}
+North West Province・Free State Province・Eastern Cape Provinceは草原が描かれていて緑色。
+{{% /notice %}}
+
+{{% lb 50 %}}
+![](2023-06-17-09-35-33.png)
+
+Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373">Link</a>
+{{% /lb %}}
+
+{{% /tab %}}
 {{% tab "農業" %}}
 <div class="googlemap-if">
 

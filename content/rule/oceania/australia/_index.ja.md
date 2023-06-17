@@ -223,7 +223,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
             </ul>
         </li>
-        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}
+        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。でもあまり見かけない上に街中でないと見つけられないので優先度低。
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
                 <li>03：<span class="quiz">Victoria・タスマニア・メルボルン</span></li>

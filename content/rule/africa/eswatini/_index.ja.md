@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.sz</span></li>
         <li>道路番号には<span class="quiz">MR</span>が付いている</li>
         <li>電柱はこげ茶色っぽい細い木でできていることが多い</li>
+        <li>ナンバープレートの下が黄緑色に見える</li>
         <li class="no-evidence">標高が低いローベルトは平地が多いかつ国全体が斜めになっているので、ローベルトの道路上にいる時は南北方向は遠くまで景色が見えて東西は遠くまで見えないことが多い</li>
     </ul>
     {{% rd africa eswatini verysmall %}}
@@ -51,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートが白と黄緑色に見える
+ナンバープレートが白と黄緑色に見える。{{% goto "../south-africa/" "南アフリカ" %}}の中央部で使われるナンバープレートも同じような色に見えるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686315521446!6m8!1m7!1sx2W_8QdSo1XWfGZuW7m0rw!2m2!1d-26.38619079032152!2d31.17023469102327!3f68.27969989031288!4f-27.929373629586024!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
