@@ -10,6 +10,9 @@ bg: "bg/city.jpg"
 flag: "GR.svg"
 jetro_detail: true
 sc_title: "間違えやすい地域"
+sc: [
+    ["../albania/", "アルバニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
