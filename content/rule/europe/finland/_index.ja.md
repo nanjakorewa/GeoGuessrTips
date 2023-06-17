@@ -30,6 +30,7 @@ additional_link:
         <li>通り名に<span class="quiz">～tie</span>が多い</li>
         <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li class="no-evidence">アーネコスキの直ぐ上にピンを指すとフィンランドで安定した点（4385点）が取れるかも</li>
     </ul>
     {{% rd europe finland verysmall %}}
 </div>
@@ -93,6 +94,17 @@ additional_link:
 <img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
 </div>
 </div>
+
+
+{{% notice tip %}}
+フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-17-13-12-50.png" width="570px"/>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 
@@ -145,6 +157,7 @@ additional_link:
                 <li>北部サーミ語などと並んで書かれている場合は<span class="quiz">最も北のエリア</span></li>
             </ul>
         </li>
+        <li>周りが平坦で路面が赤っぽいならば{{% goto "../aland_islands/" "オーランド諸島" %}}かも</li>
     </ul>
 </div>
 
@@ -168,28 +181,6 @@ additional_link:
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683367980711!6m8!1m7!1s1J0oYD1THBh_-O0oz_Em1A!2m2!1d68.44920612578743!2d22.48414377380987!3f24.98751516452928!4f-3.282087002843099!5f1.7435841893377364" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab %}}
-{{% /tabs %}}
-
-<div class="main-desciption country-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-        <li>周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも{{% goto "../aland_islands/" "オーランド諸島" %}}</li>
-        <li class="no-evidence">アーネコスキの直ぐ上にピンを指すとフィンランドで安定した点（4385点）が取れるかも</li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "アーネコスキ" %}}
-
-{{% notice tip %}}
-フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="2023-06-17-13-12-50.png" width="570px"/>
 </div>
 
 {{% /tab %}}
