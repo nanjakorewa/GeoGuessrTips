@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "HU.svg"
 jetro_detail: false
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../bulgaria/", "ブルガリア"],
@@ -39,7 +40,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。
+<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。斜めの点がふたつついていたらハンガリーと覚えておく。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./route.png" width="240px">

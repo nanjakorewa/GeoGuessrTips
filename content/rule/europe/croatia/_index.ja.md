@@ -44,7 +44,7 @@ sc: [
 
 {{% notice tip %}}
 <span class="quiz">Tisak plus doo</span>はタバコ製品のクロアチア最大の販売代理店であり約850店舗以上存在する。
-<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある。規模が大きくなるとKonzum→Konzum Maxi→Super Konzumと名前が変わるらしい。
+<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある。他に見かけるのはクロアチア最大手銀行のZagrebačka bankaや小売で100店舗前後あるとおもわれるPlodineなど{{% ref "https://zse.hr/en" "Zagreb Stock Exchange" %}}。
 {{% /notice %}}
 
 
@@ -59,11 +59,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端に<span class="quiz">青</span>色の消火栓 {{% by %}}や黒い背景に赤い反射板のボラードがあるとクロアチアの可能性がある。同じボラードは他の国にもある。
+道端に以下の2つの形の<span class="quiz">青</span>色の消火栓 {{% by %}}がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681258689669!6m8!1m7!1sa-fSmTwkjECq1AS7ir5yZw!2m2!1d45.80566390255061!2d16.24434144839846!3f89.96653789005501!4f-14.552969839780374!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683332632207!6m8!1m7!1svbQGcNGWD026JDSUl_m1tw!2m2!1d45.90513956997407!2d16.26878377372432!3f178.05899184778676!4f-23.916911433317708!5f2.7910094197426067" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/in/photolist-KnNTBE-j7kkQ7-fP2JyW-TjEWVE-5tA7Xm-2mVquNr-8oXmDw-5pRahN-2pu3vZ-5pLNcZ-vV3u3H-yKGD4-yKGUG-yKGC9-yKGCM-yKGBN-yKGUk-yKGTX-yKGVn-yKGV1-yKGTq-6tzUdb-2o3BeQt-J6WkYY-5pR6Hs-ecTwKC-27f3Ymt-2ht24qe-9kUEq9-iQJ4fU-5Ry88-xKKFq-xKL1p-xKKZS-xKCTp-xKKEJ-xKKFN-yKGST-xKKGP-yKGCz-pdE4E8-xKKZg-27YGGSy" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Croatia fire hydrant"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 

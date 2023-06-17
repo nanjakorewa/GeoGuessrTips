@@ -21,7 +21,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.br</span></li>
-        <li>言語は<span class="quiz">ポルトガル</span>語</li>
+        <li>言語は<span class="quiz">ポルトガル</span>語であり「<span class="quiz">Ã・ã</span>」の文字が特徴的</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
         <li>家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナ（タイなどにも似たようなものがある）</li>
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
@@ -34,6 +34,13 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+言語は<span class="quiz">ポルトガル</span>語であり「<span class="quiz">Ã・ã</span>」の文字が特徴的
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./st/Placa_rod_f_dias.png"width="440xp">
+</div>
 
 {{% notice tip %}}
 標識の裏側が<span class="quiz">黒い</span>ものが多い
@@ -52,11 +59,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。BR（南米石油最大手ペトロブラス）のガソリンスタンドもあるかも。
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。南米石油最大手ペトロブラスのガソリンスタンドもあるかも。ヴァーレは見つからないけど大企業{{% ref "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AC" "ヴァーレ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Nissan Leaf taxi Rio de Janeiro"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
+<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
+<img src="./cmp/Vale_logo.svg" width="170px" style="margin:10px">
 </div>
 
 {{% lb 50 %}}

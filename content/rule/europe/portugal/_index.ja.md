@@ -25,6 +25,7 @@ sc: [
         <li>電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
         <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
         <li><span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の矢印のシェブロンがある</li>
+        <li>「Ã・ã」の文字が特徴的で南米では{{% goto "../../cs_america/brazil/" "ブラジル" %}}で使用される</li>
     </ul>
     {{% rd europe portugal small %}}
 </div>
