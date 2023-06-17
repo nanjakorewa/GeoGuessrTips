@@ -63,8 +63,6 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 
 {{% /tab %}}
 {{% tab "w-road" %}}
-
-
 {{% notice tip %}}
 アルゼンチンで見ることができる電柱
 {{% /notice %}}
@@ -109,6 +107,23 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679244135665!6m8!1m7!1s31HwtGkcb8i-reXo5SdIMw!2m2!1d-34.58693112431686!2d-58.37221917961278!3f259.8517612996338!4f11.104060482651036!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679244259499!6m8!1m7!1s7YOnLDg-9zIPrUYAi_cOGw!2m2!1d-34.65176397847728!2d-58.50271265420312!3f266.7517338860435!4f2.96974439297459!5f3.0364993777746148" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>ブエノスアイレスで「GCBA（Gobierno de la Ciudad de Buenos Aires＝ブエノスアイレス市政府の略？）」と書かれた紺色と黄色のタクシーが走っている{{% ref "https://buenosaires.gob.ar/taxis" "Buenos Aires Jefatura de Gabinete Movilidad" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs  %}}
+{{% tab "タクシー" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/riveranotario/45976752282/in/photolist-2d3NSDy-9Go4Co-Lzh53z-Ws7BLU-2aRzgdy-G8WQxG-22KUc9m-9nqcyL-7kwjgP-7kAjgs-7kwmbk-7HHJn9-epnFi-3rvdTF-cBgdo-RaLBfP-56L1Sn-PjVZfP-8JnaEC-2jcxrds-21zoscZ-65Nedh-65HWGT-2ddhaDC-7KB2vb-6EmDEC-VzKC2m-29mLvHJ-2mnUTPm-9Y7foB-2dQmz3v-SsWEZS-bkrkok-5cxceB-xbHF8-6CyvNX-4boV6X-zLJDz7-2nhTvxx-2jeCLvY-ZvtW9-9jZSB1-xiPQF-6oh7dm-22PwZma-2oiFzVn-2jfPw8G-7YoZcp-218dFeg-6QxPgH" title="Renault Fluence Taxi Buenos Aires"><img src="https://live.staticflickr.com/4828/45976752282_a4941a046b_z.jpg" width="640" height="427" alt="Renault Fluence Taxi Buenos Aires"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
