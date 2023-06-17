@@ -41,8 +41,7 @@ Many Philippine houses have <span class="quiz">tin roofs</span>. However, since 
 A tricycle, a combination of a motorcycle and a cart/chair, is used as a cab. There are also pedicabs, a combination of a bicycle and a motorcycle. Buses in flashy colors called jeepneys are also used as the main means of transportation, and public transportation such as buses have yellow license plates. If you drive on the right side of the road and the vehicles are unique, you may be in the Philippines.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680249568006!6m8!1m7!1sk8Jy5kOVDVVSqxH8qcrNXA!2m2!1d8.668231537436485!2d125.8616461585333!3f223.60335544229616!4f-6.8045127009913955!5f3.3068862113781123" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682994935867!6m8!1m7!1saaJQAmIci09v27mQe2GCAw!2m2!1d14.56183385615822!2d121.0265902394818!3f248.1058496236337!4f-9.163173430641706!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/lornick_imaging_of_london/34292275280/in/photolist-UfhSHw-2TTpZ-2n6CDLs-2nkeTpK-UA14bb-ZSJnxR-2jBNTuL-jfXkw2-WMLhBw-2n6Hf2L-2jdh1au-2omnuZ3-QxvGM8-TxRSWG-5w5tfg-Lq2E1S-2n5yHZR-9DqEpg-TxRSKj-UA13Xq-YN5HGu-jfZnE5-QnTj1H-WkLHEG-4sPeZ5-2ocXT5o-2n4nM7P-Mw5vfX-2x5GVD-5bTVPQ-2nrfo4o-2n4ANiC-HrTC6T-2i8Zhuj-pC5rHQ-Xsr1cN-UA14K7-2g8meJv-jfY6Vk-8Gzybu-dv9WrB-qqGcK-UA143q-aYEnsv-bSiCGv-TbUSTo-zBvZCM-28NmoG2-N2puAx-ULGHUN" title="Philippines"><img src="https://live.staticflickr.com/4162/34292275280_d25efc56b0_z.jpg" width="640" height="427" alt="Philippines"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb %}}
