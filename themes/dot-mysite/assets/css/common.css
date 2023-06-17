@@ -70,6 +70,21 @@ code.language-css span {
   max-width: 95% !important;
 }
 
+.code-tabs {
+  border: 0 !important;
+}
+
+.nav-tabs {
+  border-bottom: 0 !important;
+}
+
+.code-tabs .nav-tabs .nav-item {
+  border-right: 0 !important;
+  background-color: #ddd;
+  border-radius: 20px;
+  margin-right: 1em;
+}
+
 div.update-area {
   padding: 0.4em;
 }
