@@ -102,17 +102,6 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 </div>
 
 {{% /tab %}}
-{{% tab "電柱" %}}
-
-{{% notice tip %}}
-左がブラジル、右がチリの電柱。チリの電柱には仕切りが無いことがわかる。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683723474024!6m8!1m7!1sd-tSBvfmvd4Mr1jTyE6Vnw!2m2!1d-5.127974437211553!2d-39.73179642457342!3f260.66567805450035!4f1.7126507177242303!5f1.2783372184142916" width="295" height="395" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683723521217!6m8!1m7!1sBpLQCgMYQOLKkCQQt__eew!2m2!1d-33.39051488872208!2d-70.62365152619446!3f336.9659743643225!4f-0.5028511701109579!5f3.325193203789971" width="295" height="395" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-commercial" %}}
 
 {{% notice tip %}}
