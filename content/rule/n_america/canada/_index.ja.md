@@ -35,12 +35,16 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg"width="80px"  style="margin:7px">
-<img src="./CA-QC_road_sign_P-070-4-40.svg"width="80px"  style="margin:7px">
-<img src="./r/sp-on.svg"width="80px"  style="margin:7px 40px 7px 7px">
-<img src="../usa/r/MUTCD_R2-1.svg"width="80px"  style="margin:7px 7px 7px 40px">
-<img src="../usa/r/sp-oregon.png"width="80px"  style="margin:7px">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
+<img src="./r/sp-on.svg" width="80px" style="margin:7px 40px 7px 7px">
+<img src="../usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
+<img src="../usa/r/sp-oregon.png" width="80px" style="margin:7px">
 </div>
+</div>
+<div class="googlemap-if unclickable">
+<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
+<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
 </div>
 
 {{% notice tip %}}TDと書かれた銀行はトロント・ドミニオン銀行の系列。RBCはRoyal Bank of Canadaの略。それぞれ国内２位と１位の資産規模。
@@ -52,17 +56,9 @@ sc: [
 
 
 {{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682830753560!6m8!1m7!1sJC5z5d1U4w32mgp7DOny9g!2m2!1d47.37176774608738!2d-68.15118718275794!3f228.57178545908826!4f-1.4660344883768914!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679813379068!6m8!1m7!1sxffe9Npl4Zb_UQ3o7tnG7Q!2m2!1d46.79305940703988!2d-71.14459551620541!3f107.19748829321144!4f-4.5030946521382305!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680092595275!6m8!1m7!1sRGumoYRqBtdS4eJsJomAYQ!2m2!1d49.73946646190775!2d-95.15079623582932!3f138.27707625215092!4f-4.1814765434312875!5f3.290753496394702" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682832613893!6m8!1m7!1smunpMLwg0WewDEaWeGCLeA!2m2!1d44.342885060564!2d-78.74735436866493!3f141.0920820116229!4f21.843646521305175!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-commercial" %}}
 
-{{% notice tip %}}カナダには石油や天然ガスのパイプラインを管理するミッドストリーム企業がたくさんある。ただしストリートビューにはほとんどいない（通りから離れた場所にあるため）。Devon・Pembina pipeline・Enbridgeなど。Canadian Natural Resourcesのようなオイルサンド・天然ガスを生産する企業も山奥に行くとあるかも。
+{{% notice tip %}}カナダには石油や天然ガスのパイプラインを管理するミッドストリーム企業がたくさんある。ただしストリートビューにはほとんどいない（通りから離れた場所にあるため）。代表的な企業はたとえばDevon・Pembina pipeline・Enbridgeなど。Canadian Natural Resourcesのようなオイルサンド・天然ガスを生産する企業も山奥に行くとあるかも。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -70,12 +66,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111205084!6m8!1m7!1s-UxEEFPNNm-mUb8tgXtuwQ!2m2!1d45.64246075442041!2d-73.55239018585368!3f244.4341122162465!4f6.070523922723069!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111809405!6m8!1m7!1ss1cAilUaSjeVEgdmo6l1Rg!2m2!1d54.39683596741235!2d-113.5005681784792!3f282.61501806102723!4f-6.847783379797136!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111872260!6m8!1m7!1shGawvDMwNEclk4vVyom39w!2m2!1d56.05702410940899!2d-118.3839628374677!3f35.51577976866718!4f-3.251675013380435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "景色" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679674813294!6m8!1m7!1sDBiGPBxRu5ZY3mWS4wDkpA!2m2!1d52.36294019201046!2d-108.0187601001289!3f258.62238948987203!4f-3.883872587590119!5f3.3240961400029705" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
 </div>
 {{% /tab %}}
 {{% /tabs %}}

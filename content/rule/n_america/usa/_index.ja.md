@@ -40,12 +40,16 @@ maps: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="r/MUTCD_R2-1.svg"width="80px"  style="margin:7px 7px 7px 40px">
-<img src="r/sp-oregon.png"width="80px"  style="margin:7px 40px 7px 7px">
-<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg"width="80px"  style="margin:7px">
-<img src="../canada/CA-QC_road_sign_P-070-4-40.svg"width="80px"  style="margin:7px">
-<img src="../canada/r/sp-on.svg"width="80px"  style="margin:7px">
+<img src="r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
+<img src="r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px">
+<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
+<img src="../canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
+<img src="../canada/r/sp-on.svg" width="80px" style="margin:7px">
 </div>
+</div>
+<div class="googlemap-if unclickable">
+<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
+<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px">
 </div>
 
 {{% notice tip %}}
