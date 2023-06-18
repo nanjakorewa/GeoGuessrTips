@@ -224,6 +224,10 @@ maps: [
 <img src="2023-04-29-10-49-15.png">
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="2023-06-19-08-54-17.png" width="90%">
+</div>
+
 {{% notice note %}}
 大豆もコーンに近い分布{{% by "https://ipad.fas.usda.gov/rssiws/al/us_cropprod.aspx" "web" "Crop Production Maps(USDA)" %}}
 {{% /notice %}}
