@@ -61,18 +61,16 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
+{{% notice tip %}}
+<span class="quiz">黒と白の縞</span>模様のポールの標識がある。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680636944258!6m8!1m7!1smJsoGdfYYvgB3ENtAEcrDA!2m2!1d24.95523765493552!2d90.06311100033894!3f104.90316314976357!4f-6.4727045617172365!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679241582191!6m8!1m7!1s6iXV90VDdr7OJA-SkG_2Vw!2m2!1d22.71565999752092!2d90.34815033393228!3f122.80913832733765!4f-5.318716883276579!5f2.895806465883662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-commercial" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679316122843!6m8!1m7!1s7NODelcZmQOliue6MbeJQw!2m2!1d25.74960717028631!2d89.2547321689566!3f90.48386412384289!4f7.888966373625806!5f3.3087074411670025" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679241582191!6m8!1m7!1s6iXV90VDdr7OJA-SkG_2Vw!2m2!1d22.71565999752092!2d90.34815033393228!3f122.80913832733765!4f-5.318716883276579!5f2.895806465883662" width="595" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-plant" %}}
@@ -120,7 +118,7 @@ sc: [
 {{% tab "大豆" %}}
 
 {{% notice tip %}}
-（これが大豆である確証はないけれど）大豆の90%以上はこの地域で作られている
+（これが大豆である確証はないけれど）大豆の90%以上はダッカとチッタゴンの間の地域で作られている
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686997224332!6m8!1m7!1smbgUH_ld56nAP0CX86OYyQ!2m2!1d22.89854130233651!2d91.01574225907122!3f168.52047113755174!4f-12.702088935898928!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
