@@ -42,7 +42,7 @@ sc: [
 
 
 {{% notice tip %}}
-ArequipaやTacnaのタクシーが屋根の上に看板を乗せている。ナンバープレートは色々あるがたとえばバスは上が<span class="quiz">緑</span>色のナンバープレート・トラックは<span class="quiz">黄色の蛍光</span>色のナンバープレート{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
+ArequipaやTacnaのタクシーは屋根の上に看板を乗せている。ナンバープレートは色々ある。たとえばバスは上が<span class="quiz">緑</span>色のナンバープレート、トラックは全体的に<span class="quiz">黄色の蛍光</span>色のナンバープレート{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -104,7 +104,7 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 </div>
 
 {{% notice tip %}}
-図だとアレキパ全体でコメの生産があるように見えるが、実際は川沿いの水が得られる地域鹿田んぼがない。見た目がかなり特徴的なのでわかりやすい。
+図だとアレキパ全体でコメの生産があるように見えるが、実際は川沿いの水が得られる地域しか田んぼがない。見た目がかなり特徴的なのでわかりやすい。
 {{% /notice %}}
 
 <div class="googlemap-if">
