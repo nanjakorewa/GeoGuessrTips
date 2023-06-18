@@ -29,6 +29,7 @@ sc: [
         <li>道路の路側帯の破線がスウェーデンと比較して<span class="quiz">長い</span>{{% goto "../../../road/road-surface/sidestrip/#北欧３国" "北欧の路側帯" %}}</li>
         <li>「Ø・ø」の文字は<span class="quiz">デンマーク</span>とノルウェーでのみ使用される</li>
         <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
+        <li class="no-evidence">なぜか京成電鉄の大株主にノルウェー政府がいる{{% ref "https://www.keisei.co.jp/keisei/ir/stock/stockinfo.html" "京成電鉄 > 株式の状況@2023年6月" %}}</li>
     </ul>
     {{% rd europe norway small %}}
 </div>
@@ -112,8 +113,6 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681609628746!6m8!1m7!1s2lE6nEW-KBQaYCx0c-Y4Qg!2m2!1d67.2984460530041!2d14.40417281129192!3f73.20248657899062!4f-1.3876062247384766!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
-
 {{% notice tip %}}
 北欧は濃い赤色（ファールン赤）で塗られたログハウスが特徴的{{% by "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%B3%E8%B5%A4" "wiki" "ファールン赤" %}}。
 {{% /notice %}}
@@ -131,6 +130,16 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681605380467!6m8!1m7!1sPQU8Iu6eNooJGvYq1Thyaw!2m2!1d59.91438803655091!2d10.75343980221014!3f58.301939351618536!4f6.275431131297552!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "京成電鉄" %}}
+
+{{% notice tip %}}
+なぜか京成電鉄の大株主にノルウェー政府がいる{{% ref "https://www.keisei.co.jp/keisei/ir/stock/stockinfo.html" "京成電鉄 > 株式の状況（2023年6月時点のデータ）" %}}。画像は2023年6月のもの。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-18-12-11-36.png" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
