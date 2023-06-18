@@ -20,9 +20,11 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pe</span></li>
         <li>言語は<span class="quiz">スペイン</span>語</li>
-        <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボリビアはシンプルな製材のことが多い。</li>
+        <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い</li>
         <li>電柱は<span class="quiz">同じ</span>向きに<span class="quiz">３</span>本棒が付きだしている{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
-        <li>Google Carが<span class="quiz">黒</span>色の時がある。南米では他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../uruguay/" "ウルグアイ" %}}も同じ色のGoogle Car{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}。</li>
+        <li>Google Carが<span class="quiz">黒</span>色の時がある。南米では他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../uruguay/" "ウルグアイ" %}}も同じ色のGoogle Carを使う{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}。</li>
+        <li>都市部のバスのナンバープレートは上側が<span class="quiz">緑</span>色のときがある</li>
+        <li>トラックのナンバープレートが<span class="quiz">黄</span>色のときがある</li>
         <li class="no-evidence">ガードレールに黄色と黒のストライプがある</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
@@ -32,22 +34,19 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。白黒の小さいボラードのようなものもありこれに「PE36」のような感じで道路番号が書いてあることもある。
+標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボラードは黄色に塗られている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680355324177!6m8!1m7!1sjMc4AIk2k4h4P5yyHFaYNA!2m2!1d-15.57276222126613!2d-70.10160266089457!3f34.08290224907924!4f-10.24587940681829!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683805154435!6m8!1m7!1snwKlkAXGmaC246unAYPSxg!2m2!1d-16.74899137785472!2d-69.71975581616286!3f163.28872844364196!4f-5.286252175117383!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155/" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="520" height="336" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
 {{% notice tip %}}
-<span class="quiz">蛍光に近い黄</span>色のナンバープレートがある、色の塗られた範囲は上部だけ黄色、全体が黄色などバリエーションがある。
-タクシーには側面にオレンジ色のステッカーが張ってあるがボリビアにも貼ってある。
+ArequipaやTacnaのタクシーが屋根の上に看板を乗せている。ナンバープレートは色々あるがたとえばバスは上が<span class="quiz">緑</span>色のナンバープレート・トラックは<span class="quiz">黄色の蛍光</span>色のナンバープレート{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682383349408!6m8!1m7!1sTCHMU4z6G8lQjE1fEjaatw!2m2!1d-11.94904797911199!2d-77.07034700589297!3f190.2118151613256!4f-9.601137434260238!5f3.2287431766290653" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682383519368!6m8!1m7!1sHtSGrg_0bRgnIoH1O4eGCw!2m2!1d-12.04659026982752!2d-77.00212976572396!3f116.78366614843557!4f-37.226187432899344!5f3.314246615600738" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/buda56/5716794587/" title="tuor arequipa 2009-12-12 058"><img src="https://live.staticflickr.com/3116/5716794587_1a066b886c_z.jpg" width="640" height="480" alt="tuor arequipa 2009-12-12 058"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb %}}
@@ -87,6 +86,29 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355234923!6m8!1m7!1sIOKZyXbBZvXeZImXH8GXmw!2m2!1d-15.57786080144935!2d-70.10120163690182!3f296.8561801891278!4f-21.206709910168087!5f3.098953353208563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683805070363!6m8!1m7!1sJ8tkvxtMg35I7ZX48d63Iw!2m2!1d-16.73451805644685!2d-69.71085030545977!3f288.6545619316565!4f-15.673906824009407!5f2.9131358656875324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685255452553!6m8!1m7!1sV_m0TM24-U1jJUfGnok18w!2m2!1d-11.55895048087308!2d-69.28771986328607!3f148.5534550784995!4f-10.90553675857818!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>アレキパは川沿いにのみ田んぼが存在する</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if">
+<img src="2023-06-18-20-15-15.png" width="500px">
+</div>
+
+{{% notice tip %}}
+図だとアレキパ全体でコメの生産があるように見えるが、実際は川沿いの水が得られる地域鹿田んぼがない。見た目がかなり特徴的なのでわかりやすい。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687087013599!6m8!1m7!1szdThFhmkSMAXRLeHBqHITA!2m2!1d-16.28263616318466!2d-73.13247816266673!3f211.18179943152083!4f1.0585904043393555!5f0.4000000000000002" width="550" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -134,4 +134,9 @@ dont_show_usda: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685557199306!6m8!1m7!1sE5j4dX6IU_ruh1bW9GpERA!2m2!1d39.97582411991183!2d32.90342327960887!3f198.02468006957434!4f0.349870839121607!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "Gemlik" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687076922343!6m8!1m7!1sIz08YzBo99ikRzQd85zDsA!2m2!1d40.42906283036037!2d29.15618602091844!3f137.97625133540433!4f-0.8359732760743412!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
