@@ -32,7 +32,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}ルワンダの2大携帯キャリアのMTNはいろんな場所でテントを掲げた出張所を設けている。「MTN MoMo」と書かれた小さな小屋みたいなものも点在しており、ATMや電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。
+{{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている。「MTN MoMo」と書かれた小さな小屋みたいなものも点在している。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
