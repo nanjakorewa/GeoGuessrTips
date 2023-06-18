@@ -73,6 +73,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>ナンバープレートを前後に付ける州とつけない州がある</li>
         <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
         <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>かも</li>
         <li>速度制限の看板が地域ごとに微妙に異なる。フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。</li>
@@ -85,7 +86,16 @@ sc: [
 
 
 {{% tabs  %}}
-{{% tab "ナンバープレート(1)" %}}
+{{% tab "ナンバープレートを前後に付けるエリア" %}}
+
+{{% notice tip %}}
+緑色の領域はナンバープレートが前後に必要
+{{% /notice %}}
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/MapPorn/comments/3txlm0/canadian_provincial_territorial_licence_plate/">Canadian Provincial &amp; Territorial Licence Plate Requirements [1000x858] [OC]</a><br> by      <a href="https://www.reddit.com/user/bryan89wr">u/bryan89wr</a> in      <a href="https://www.reddit.com/r/MapPorn/">MapPorn</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+{{% /tab %}}
+{{% tab "ナンバープレート(マニトバ)" %}}
 {{% notice tip %}}
 <span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。
 {{% /notice %}}
@@ -102,7 +112,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Midnightcat1&amp;amp;
 {{% /lb %}}
 
 {{% /tab %}}
-{{% tab "ナンバープレート(2)" %}}
+{{% tab "ナンバープレート(オンタリオ)" %}}
 
 {{% notice tip %}}
 <span class="quiz">オンタリオ</span>のナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。
