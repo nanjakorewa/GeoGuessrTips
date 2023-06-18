@@ -65,18 +65,17 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Nissan Leaf taxi Rio de Janeiro"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+{{% lb 50 %}}
+![](2023-04-18-23-40-43.png)
+
+By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
+{{% /lb %}}
 
 <div class="googlemap-if unclickable">
 <img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
 <img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
 <img src="./cmp/Vale_logo.svg" width="170px" style="margin:10px">
 </div>
-
-{{% lb 50 %}}
-![](2023-04-18-23-40-43.png)
-
-By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
-{{% /lb %}}
 
 
 {{% notice tip %}}
@@ -97,6 +96,11 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kges-ekKMI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9PebEV7j3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 
@@ -145,11 +149,6 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <div class="unclickable"><img src="2023-04-27-08-27-15.png" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">画像出典：By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
-
-<div class="googlemap-if">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n9PebEV7j3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
 {{% /tab %}}
 {{% tab "Amazônia" %}}
 <div class="googlemap-if">
