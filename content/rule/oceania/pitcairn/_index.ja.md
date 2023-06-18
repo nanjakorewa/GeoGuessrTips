@@ -31,7 +31,6 @@ is_has_many_trekker: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686243336699!6m8!1m7!1srB-tDITjl13wqClfLnCOIQ!2m2!1d-25.06645814621521!2d-130.100565056316!3f258.72096873700417!4f-18.92261508317442!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686017788019!6m8!1m7!1sEoNne5DJvhdNkbzxzWPMyQ!2m2!1d-25.06773286507657!2d-130.1080771747584!3f149.957325685363!4f-7.513617136418134!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
 
 {{% notice tip %}}車が特徴的？赤いバギーのようなものしか使われていない。
 {{% /notice %}}

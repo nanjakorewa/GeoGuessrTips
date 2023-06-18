@@ -58,18 +58,9 @@ sc: [
 </div>
 
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "標識" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681046931645!6m8!1m7!1sh2wQaymPMFFX85UI1Ob6TQ!2m2!1d64.47604090738368!2d-14.49618073734571!3f158.88383826148194!4f-3.0972084823761037!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-plant" %}}
-{{% notice tip %}}
-自然状態の植物は<span class="quiz">コケと針状の草</span>のみ{{% by "https://ngu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=430&item_no=1&page_id=13&block_id=49" "web" "アイスランドの地質学的自然環境学的特質について - 名古屋学院大学論集　人文・自然科学篇" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046894334!6m8!1m7!1sRzTciVgx26gnHPgfNmPCOQ!2m2!1d65.4814547383635!2d-20.44760663786336!3f332.34064822768033!4f-11.309445519364033!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
