@@ -135,7 +135,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 {{% tab "京成電鉄" %}}
 
 {{% notice tip %}}
-なぜか京成電鉄の大株主にノルウェー政府がいる{{% ref "https://www.keisei.co.jp/keisei/ir/stock/stockinfo.html" "京成電鉄 > 株式の状況（2023年6月時点のデータ）" %}}。画像は2023年6月のもの。
+なぜか京成電鉄の大株主にノルウェー政府がいる{{% ref "https://www.keisei.co.jp/keisei/ir/stock/stockinfo.html" "京成電鉄 > 株式の状況" %}}。画像は2023年3月のもの。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
