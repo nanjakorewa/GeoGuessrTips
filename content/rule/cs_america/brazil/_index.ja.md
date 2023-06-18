@@ -242,7 +242,6 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>市外局番のエリアコードで範囲を絞ることができる</li>
-        <li>Código de Endereçamento Postal（CEP）で範囲を絞ることができる{{% ref "https://en.wikipedia.org/wiki/C%C3%B3digo_de_Endere%C3%A7amento_Postal" "Código de Endereçamento Postal" %}}</li>
         <li>ブラジル国道の看板にBA-XXXと道路番号が書かれている</li>
         <li>電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
             <ul>
@@ -266,17 +265,6 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <div class="googlemap-if">
 <img src="2023-04-26-01-07-35.png" style="max-width:80%;"/>
 <p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
-</div>
-{{% /tab %}}
-{{% tab "郵便番号" %}}
-
-{{% notice tip %}}
-CEP XXXXX-XXXの形で記載されている。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:2_digit_postcode_brazil.png#/media/File:2_digit_postcode_brazil.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2_digit_postcode_brazil.png" alt="2 digit postcode brazil.png" width="80%"></a></p>
-<p>By Gerrit Schreiber - GfK GeoMarketing, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15041032">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "ブラジル国道" %}}
