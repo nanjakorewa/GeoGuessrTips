@@ -31,7 +31,8 @@ is_has_distinctive_bollard: true
 <span class="quiz">Blue</span> post
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681568495995!6m8!1m7!1sPmW10yn8ltoYli893GEBDg!2m2!1d40.74137574620001!2d-73.98973810768969!3f342.68093605072727!4f-11.19950492023132!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="2023-06-18-09-00-28.png" width="184px">
+<img src="2023-06-18-09-02-09.png" width="420px">
 </div>
 
 {{% notice tip %}}
