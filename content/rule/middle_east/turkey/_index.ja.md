@@ -19,6 +19,7 @@ dont_show_usda: true
         <li>ドメインは<span class="quiz">.tr</span></li>
         <li>止まれの標識は<span class="quiz">DUR</span></li>
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
+        <li>「sokak」はトルコ語で通りの意味</li>
         <li class="no-evidence">標識の棒に小さな穴がたくさん空いている</li>
     </ul>
     {{% rd middle_east turkey verysmall %}}

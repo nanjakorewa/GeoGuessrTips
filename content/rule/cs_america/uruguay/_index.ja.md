@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.uy</span></li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
         <li>国全域がパンパ（草原地帯）におおわれていて牛や羊の牧畜が行われている</li>
-        <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
+        <li>Google Carが<span class="quiz">黒</span>色なのは南米ではウルグアイの他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../peru/" "ペルー" %}}がありえる{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
         <li>アルゼンチンと異なりナンバープレートは黒くない</li>
         <li class="no-evidence">防風林や植林地が散見され同一の種類の木がきれいに植えられていることがある</li>
         <li class="no-evidence">道路の中央線に黄色い二本の線があり間に白い線が等間隔である</li>
