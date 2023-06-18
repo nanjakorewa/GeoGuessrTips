@@ -24,9 +24,9 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.ug</span></li>
-        <li>車の後ろに<span class="quiz">大きめの黄色い</span>ナンバープレートがある。黄色だが細い場合はルワンダも考えてみる。</li>
+        <li>車の後ろに<span class="quiz">大きめの黄色い</span>ナンバープレートがある</li>
         <li>Google Carが特徴的</li>
-        <li class="no-evidence">家は基本木とレンガでできており、玄関にカーテンがかかっていることが多い</li>
+        <li class="no-evidence">家は基本木とレンガでできており玄関にカーテンがかかっていることが多い</li>
         <li class="no-evidence">電柱に☠のマークがある</li>
     </ul>
 </div>
@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "電柱" %}}
 
 {{% notice tip %}}
 電柱に☠のマークがある
