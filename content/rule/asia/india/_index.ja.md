@@ -23,6 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>言語は<span class="quiz">ヒンディー語など地域によって異なる</span></li>
+        <li>特徴的な形の電柱が多い（{{% goto "#電柱の形" "インドの電柱" %}}）</li>
     </ul>
     {{% rd asia india verysmall %}}
 </div>
