@@ -214,8 +214,8 @@ maps: [
 コーンベルトに沿ってコーンの生産が盛ん{{% by "https://www.nass.usda.gov/Charts_and_Maps/Crops_County/cr-pr.php" "web" "Corn: Production Acreage by County(USDA)" %}}。しかし全米で広く生産されているのでこれだけで中央部とは決まらない。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682733134448!6m8!1m7!1sdy4W4vPozx8ohCgjQeTPZw!2m2!1d41.176852598073!2d-87.79877689286823!3f271.2171390393599!4f-5.1519386637587985!5f1.5047631167738094" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="2023-06-19-20-02-41.png" width="80%">
 </div>
 
 {{% /tab %}}
