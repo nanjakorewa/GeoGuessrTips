@@ -26,7 +26,7 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>路側帯は<span class="quiz">白</span>で中央線は<span class="quiz">黄色</span></li>
         <li>ナンバープレートは<span class="quiz">前後共に黄色</span></li>
-        <li>標識の棒は<span class="quiz">細く白い素材</span>で看板の背面には<span class="quiz">クロス</span>が存在する{{% by %}}</li>
+        <li>標識の背面には<span class="quiz">クロス</span>が存在する{{% by %}}</li>
     </ul>
     {{% rd cs_america colombia verysmall %}}
 </div>
@@ -34,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒は<span class="quiz">細く白い素材</span>で、看板の背面には<span class="quiz">白色か灰色のクロス</span>が存在する
+標識の背面には<span class="quiz">クロス</span>が存在する
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679138005508!6m8!1m7!1sIS7P4fzaicRfinbA0j5TRw!2m2!1d3.396441393668646!2d-76.52339001433994!3f136.71002847658113!4f-4.691034225921541!5f2.908818923327662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>。ペルーにも黄色いものがあるが、コロンビアはすこしオレンジ色に近い。またペルーは他の色（緑・白など）の車も存在する。
+ナンバープレートは<span class="quiz">前後共に黄色</span>。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。またペルーは他の色（緑・白）の車も存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682383623508!6m8!1m7!1s29qN_XS1bQGva1Cz1qzQmw!2m2!1d3.397181136965457!2d-76.52331159160653!3f189.20731516405695!4f-5.175574065770988!5f3.165056286722071" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
