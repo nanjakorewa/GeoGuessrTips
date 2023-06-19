@@ -49,8 +49,7 @@ sc: [
 ボラードは丸く太い。赤と白のものがあり、先がとがっている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679380793765!6m8!1m7!1s8ryarpB8PYnYChP5lv4jsQ!2m2!1d43.80164608843641!2d0.05137941076106586!3f175.39096274941411!4f-34.975801139495374!5f1.7103596603011662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681048276254!6m8!1m7!1sOOrM2Me1inplaB-KoJfFOg!2m2!1d44.23389681443417!2d-1.223356535712167!3f342.16!4f-7.489999999999995!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/26605560@N08/30274383808/" title="La belle France ... not so much a zebra crossing as &#x27;sheep crossing&#x27;"><img src="https://live.staticflickr.com/1857/30274383808_7d4aeb9611_c.jpg" width="800" height="210" alt="La belle France ... not so much a zebra crossing as &#x27;sheep crossing&#x27;"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
