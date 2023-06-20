@@ -24,6 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>イスラム教徒が本土よりも多く見える</li>
     </ul>
+    {{% rd africa ceuta mall %}}
     <div class="sign-area sign-area-clickable licence-area">
         <p>国旗画像：<a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3951546">リンク</a>より引用</p>
     </div>
@@ -50,11 +51,11 @@ sc: [
 
 
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲われている
+横断歩道の標識が黄色い線で囲われているものがある。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687271724499!6m8!1m7!1sR9aAhfr2XBx_CX7iMf07tg!2m2!1d35.89436515859775!2d-5.336690030951915!3f333.2148589090348!4f-2.368025352012083!5f3.0860171643592267" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687271777083!6m8!1m7!1sh386jDl2rtN8RE9SwC2xBQ!2m2!1d35.91604990962547!2d-5.372883457247563!3f279.2579608207225!4f-0.06919820907791063!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./r/walk1.png" width="100px" style="margin:10px">
+<img src="./r/walk2.png" width="110px" style="margin:5px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
