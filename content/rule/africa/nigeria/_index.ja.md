@@ -163,7 +163,7 @@ sc: [
 
 {{% tabs %}}
 {{% tab "Zuma Rock" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683703599781!6m8!1m7!1sIL9gtFb98rQaxvLGktbiug!2m2!1d9.118350051846292!2d7.226724651359519!3f23.021970081735958!4f7.23442942873308!5f1.1660916192715458" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
