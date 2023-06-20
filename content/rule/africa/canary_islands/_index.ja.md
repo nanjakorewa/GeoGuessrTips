@@ -16,6 +16,7 @@ sc: [
     ["../../europe/spain/", "スペイン"],
     ["../../europe/azores/", "アゾレス諸島"],
     ["../madeira_islands/", "マデイラ諸島"],
+    ["../ceuta/", "セウタ"],
     ]
 ---
 
