@@ -77,6 +77,18 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682138867702!6m8!1m7!1sCjySEHAQVtlm7kQF0NZMXA!2m2!1d57.40380031783754!2d21.67398424510445!3f196.28940141338003!4f-28.927596834406074!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682139184799!6m8!1m7!1sEDwX7_d80I6fYZPEGEwr4Q!2m2!1d57.1598411500236!2d25.66467565188463!3f29.479555750198628!4f-21.68328790100243!5f3.164365768781499" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+
+{{% notice tip %}}
+シェブロンの色や枠がバルト三国で異なる。下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
+<img src="../estonia/r/ar.png" width="120px" class="margin-ten-px" />
+<img src="../latvia/r/ar.png" width="120px" class="margin-ten-px" />
+<img src="../lithuania/r/ar.png" width="120px" class="margin-ten-px" />
+</div>
+
 {{% /tab %}}
 {{% tab "土の色" %}}
 {{% notice tip %}}

@@ -82,14 +82,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-シェブロンが赤色の背景なのはバルト三国ではエストニアだけ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+シェブロンが赤色の背景なのはバルト三国ではエストニアだけ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。右ふたつは<span class="quiz">ラトビア</span>と<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 
-
-<div class="googlemap-if unclickable">
-<img src="./r/Estonia_road_sign_682.svg" width="520px">
+<div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
+<img src="../estonia/r/ar.png" width="120px" class="margin-ten-px" />
+<img src="../latvia/r/ar.png" width="120px" class="margin-ten-px" />
+<img src="../lithuania/r/ar.png" width="120px" class="margin-ten-px" />
 </div>
-
 {{% /tab %}}
 {{% tab "商業施設" %}}
 {{% notice tip %}}
