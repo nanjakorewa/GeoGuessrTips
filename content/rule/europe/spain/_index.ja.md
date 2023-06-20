@@ -1,5 +1,6 @@
 ---
 title: "スペイン"
+title_suffix: "本土側"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -16,7 +17,9 @@ sc: [
     ["../../africa/canary_islands/", "カナリア諸島"],
     ["../italy/", "イタリア"],
     ["../portugal/", "ポルトガル"],
-    ["../balearic-islands/", "バレアレス諸島"]
+    ["../balearic-islands/", "バレアレス諸島"],
+    ["../../africa/melilla/", "メリリャ"],
+    ["../../africa/ceuta/", "セウタ"],
     ]
 ---
 
