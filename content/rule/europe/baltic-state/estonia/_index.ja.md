@@ -72,6 +72,24 @@ sc: [
 <img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
 </div>
 
+{{% notice tip %}}
+オレンジ色の「EESTI POST（現Omniva社）」と書かれたポストがある。ロッカータイプはバルト三国全体にあるけれどポストは他の国に少ない気がする。参考として右はラトビアの郵便会社のポスト。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/155936862@N04/33126641618" title="Mailbox"><img src="https://live.staticflickr.com/4827/33126641618_b684e65d5b_w.jpg" width="300" height="400" alt="Mailbox"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/30386147@N00/4368867588/in/photolist-7heUwb-7E4A8f-2dpCPx9-9ogzhC-8zbtcT-QytDxD-RdKYNj-pS68oS-mnZSMX-mo1CxF-mnZSVc-pcEAx5-mo2KV5-RdKZos-mo1CDc-mo2KRh-RBs9uc-2h3wAY4-oULNbH-2h3wAeJ-mo1CA6-mo1CwP-mo1CCF-2h3xiFN-nSoADM-2h3wAo1-q3i1gt-2h3wAtm-2h3xiXE-2h3xj9b-2h3xjaJ-2h3wAWq-2h3xje6-2h3wALa-RdKZxA-fxYTYv-2h3xjgL-2h3xjj6-4qFn9L-RNezR8-f6MGFd-oL6qme-o7QyQs-o9zEEM-RNez4g-RdKYzo-RdKYZm-RyKveJ-RyKuS1-RyKuZ5/" title="Latvija"><img src="https://live.staticflickr.com/2770/4368867588_2e244b0360.jpg" width="300" alt="Latvija"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+シェブロンが赤色の背景なのはバルト三国ではエストニアだけ{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable">
+<img src="./r/Estonia_road_sign_682.svg" width="520px">
+</div>
+
 {{% /tab %}}
 {{% tab "商業施設" %}}
 {{% notice tip %}}
