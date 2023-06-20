@@ -35,11 +35,18 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">黄色と赤</span>色のボラード。Google Carが映っているのも特徴的。
+<span class="quiz">黄色と赤</span>色のボラードが多いけれど色が薄れていたり少し色が違うときもある。Google Carが映っているのも特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686522276340!6m8!1m7!1sQpvdcmcJRmmnSc0nSNG5Vg!2m2!1d62.19685372054629!2d-7.009582268255052!3f238.3021315836842!4f-36.868432339819364!5f1.6057699554093054" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686522177547!6m8!1m7!1sLjkag8HlvXjT-XU7XEmHTw!2m2!1d62.27730718813169!2d-6.523590840672942!3f223.8866249376807!4f-38.692126244982276!5f1.8145091978729981" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+都心以外はこんな感じの雰囲気で木が生えていない。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/isabel_lucena/36702442524/" title="Faroe Islands, Eysturoy L1000403"><img src="https://live.staticflickr.com/4383/36702442524_6cd50405a8_z.jpg" width="640" height="427" alt="Faroe Islands, Eysturoy L1000403"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -49,7 +56,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683457590384!6m8!1m7!1s6qf2rGfi78Vu3m5YWXIckw!2m2!1d62.01032707197409!2d-6.762129365568686!3f206.10206228334448!4f-6.97613382324171!5f1.6718809919668423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683457548991!6m8!1m7!1siPD5edNyvBSc0xOc8AsiXA!2m2!1d62.00537450983068!2d-6.788489508875637!3f86.24270163998844!4f-12.133047025273129!5f2.7792260170849925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}

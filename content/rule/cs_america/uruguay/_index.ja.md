@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ウルグアイの国営企業ANCAPが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP (Uruguay)" %}}。
+ウルグアイの国営企業ANCAPが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}。ウルグアイは石油を輸入している国で、石油産業のほとんどは国営のANCAPが管理している。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

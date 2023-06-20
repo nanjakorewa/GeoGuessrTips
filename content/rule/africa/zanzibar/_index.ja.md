@@ -37,7 +37,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680527882129!6m8!1m7!1sCAoSLEFGMVFpcE1aQmpaZXNybWpzOGpwa0MtSE92YTBiTUdpUHVrVmZEMVVwRWZt!2m2!1d-5.242579508995839!2d39.76789900412926!3f253.48767241880745!4f-15.592865941354532!5f3.215964657252985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "人々" %}}
+{{% tab "街中" %}}
 {{% notice tip %}}
 沿岸地域はイスラム教徒が多いがキリスト教徒も多く複数の宗教が分布する。
 {{% /notice %}}

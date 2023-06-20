@@ -25,7 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.al</span></li>
         <li>公用語はアルバニア語（Shqip）でキリル文字を使用<span class="quiz">しない</span></li>
-        <li>カメラに線が入っている</li>
+        <li>カメラに線が入っていることがある</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
         <li>「<span class="quiz">Ë・ë</span>」を使う国が近くにない
             <ul>
@@ -55,6 +55,10 @@ sc: [
 アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。
 {{% /notice %}}
 
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/32322040@N06/42828759925/in/photolist-28fCAcg-HbVMLJ-f6u84S-Kz6jhg-LTMsA5-4Agg2H-27rHGey-ahS8Co-s2Aa45-6FqawM-29tkvQs-jHCCoe-DvhmPk-HzpD3v-DvhvhT-29qHedU-859o9n-8iUmE9-DvhLZK-21z2usP-PQKDGQ-28bAxYb-Uywgvc-G8s7mS-MwBJD4-HzpDyR-L9S3Go-26CNo3s-Htdx5T-y84RwW-JvHcWu-JrViwH-3kDhMh-24Ah6dL-Pz7hpD-KVGqbq-2aWxWiZ-2aE7Cs4-2aS7RGE-F6KJmu-2aWxWCB-orSKzS-Z6yTE7-25wgvCW-y7PFL1-CTA7Xk-8tF1yv-71b6AW-PvyFF7-28yospm" title="Irisbus Agora"><img src="https://live.staticflickr.com/856/42828759925_c8260667fa_z.jpg" width="640" height="480" alt="Irisbus Agora"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% lb 50 %}}
 ![](2023-04-16-10-59-35.png)
 
@@ -75,7 +79,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 
 
 {{% notice tip %}}
-ほとんどの地域でカメラに線が入っている。
+カメラに線が入っていることがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681170588295!6m8!1m7!1segWVKwWr-SK3D17ZbM-wZA!2m2!1d41.16613852694356!2d20.20041411394961!3f311.52613228878727!4f48.98466247439279!5f1.92064061173707" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

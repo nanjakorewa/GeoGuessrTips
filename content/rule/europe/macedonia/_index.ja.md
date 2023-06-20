@@ -27,7 +27,7 @@ sc: [
         <li>「<span class="quiz">Ќ・ќ</span>」と「<span class="quiz">Ѓ・ѓ</span>」は北マケドニア以外では使用されない</li>
         <li>ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える</li>
         <li>反射板の周りが<span class="quiz">黒</span>色に塗られており<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}</li>
-        <li>ガードレールについてセルビアやモンテネグロと異なり丸みを帯びている</li>
+        <li>ガードレールはセルビアやモンテネグロと異なり丸みを帯びている</li>
     </ul>
     {{% rd europe macedonia verysmall %}}
 </div>
@@ -69,7 +69,7 @@ By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index
 
 
 {{% notice tip %}}
-TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/Tinex" "wikipedia - tinex" %}}。なぜかスコピエにたくさんある。
+TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/Tinex" "wikipedia - tinex" %}}。なぜかスコピエにすごく集中して出店している。ドミナント戦略？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686315288931!6m8!1m7!1srTCpo9hVCHjwqxsLsg_27g!2m2!1d41.97510302684993!2d21.45374083354337!3f213.89959290203691!4f9.107857485123375!5f1.6351547338655483" width="530" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -33,7 +33,6 @@ sc: [
 右前に<span class="quiz">黒いガムテープが巻かれている</span>
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681665960722!6m8!1m7!1sUISYMWVFR72G953lSkdRPA!2m2!1d8.35099525755042!2d-2.136184461486237!3f4.601655300198786!4f-89!5f0.4000000000000002" width="495" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681665981309!6m8!1m7!1shaITls7uxrh3qVzZh0K-vw!2m2!1d6.622455959978123!2d0.4687056585658413!3f190.94845211908063!4f-89!5f0.7820865974627469" width="495" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
