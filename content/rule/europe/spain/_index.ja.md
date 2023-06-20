@@ -28,9 +28,10 @@ sc: [
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインと{{% goto "../andorra/" "アンドラ" %}}のみ</li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
         <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
+        <li>黒・白と青・白のシェブロンがある</li>
         <li><span class="quiz">黄色</span>の円柱型のポストがありCorreos社のロゴが描かれているポストがある</li>
     </ul>
-    {{% rd europe spain small %}}
+    {{% rd europe spain verysmall %}}
 </div>
 
 {{% tabs  %}}
@@ -52,6 +53,15 @@ sc: [
 
 <div class="googlemap-if unclickable">
 <img src="./Logo_Correos_2019.svg.png" width="100px">
+</div>
+
+{{% notice tip %}}
+黒と青のシェブロンがある。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/chv.png" width="200px">
+<img src="./r/chv-b.png" width="200px">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
