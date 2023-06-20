@@ -66,17 +66,13 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/countrushmore/49677634267/in/photolist-2iFQRVD-j9gjB2-8fDBXw-woX1Wo-2nQf2Re-2kn9GC2-XwUe4x-2mv3kzj-2ohfVzx-2jSrMDi-eBrbEg-2ohGdL1-2jdGHSf-2nybhQ6-fCBm2D-2jcAK5i-UDsEiX-2nbSZLq-2nxNCPP-2nQ7AJz-2n9DerQ-T6ukpA-2iv3o7d-2dLdjW4-dA5JVj-KW5WC8-2jfMqUA-2jMqsQj-2h9uoMk-yZsqhL-2kih9Q8-WpV4y3-2ocEhNq-2ob8fDT-2euBJNU-23puMxd-ef4dZL-2i2xa4L-2oibZV9-NdngeA-277Rm4c-2jqsxCC-DNKyWm-21kfSVY-SFPW9w-2mMaBcv-or5GW3-2j3HLdL-zkLjDZ-buppJg" title="Just dive !"><img src="https://live.staticflickr.com/65535/49677634267_0e480b0dbb_z.jpg" width="640" height="480" alt="Just dive !"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{% /tab %}}
 {{% tab "w-road" %}}
+
+{{% notice tip %}}
+青いプレートのついたポール。区切りのある電柱もある。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682929162635!6m8!1m7!1sE1ZXfxQOLd-lfQKH9ofWkQ!2m2!1d50.70769720416337!2d3.237928549124723!3f55.427386238882775!4f24.44474103657889!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679499745297!6m8!1m7!1sjhcpN_yf7nbEPTp8ZZzM0A!2m2!1d48.38306966108105!2d-4.527637790167269!3f219.9072758992309!4f4.26856072184178!5f2.885928539097609" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905393199!6m8!1m7!1spuvViFzy7cby3c7YJUVtHw!2m2!1d50.70903062516371!2d3.241730280958023!3f255.50125409265092!4f-4.9258843590848045!5f3.1652909710178734" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-building" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679812478530!6m8!1m7!1sZ4yDy1eOwJD9eD_9-4jNXA!2m2!1d48.38573952136643!2d-4.489652245502031!3f326.77275279375493!4f-13.373393826588455!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679499615536!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f199.85492266075627!4f-2.8166128908505357!5f3.276746547678126" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
