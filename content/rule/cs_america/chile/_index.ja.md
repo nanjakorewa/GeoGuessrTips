@@ -25,7 +25,8 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.cl</span></li>
         <li>電柱の真ん中が<span class="quiz">へこんでる領域が長く区切りがない</span>{{% by %}}</li>
-        <li>標識の棒の溝 {{% by "https://www.plonkit.net/chile" "plonkit" %}}</li>
+        <li>標識の棒に溝がある {{% by "https://www.plonkit.net/chile" "plonkit" %}}</li>
+        <li>ルピナス属の<span class="quiz">紫</span>色や白色の花が道沿いに生えていることがある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E5%B1%9E" "ルピナス属" %}}</li>
     </ul>
     {{% rd cs_america chile verysmall %}}
 </div>
@@ -50,6 +51,13 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685613779031!6m8!1m7!1sQGpNknTcuFVD8u9JUTPXPA!2m2!1d-33.92383950201787!2d-71.2492240456672!3f238.21972308875198!4f-12.230186575228657!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685613868452!6m8!1m7!1snI-nNoViEQq43Iw0xEVPjQ!2m2!1d-44.32534202588542!2d-72.55720184855173!3f348.06433912694047!4f-4.991914717093707!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+ルピナス属の植物が道沿いに生えていることがある。紫色や白の花{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E5%B1%9E" "ルピナス属" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sergioavelino/4354399332/in/photolist-2ejFjj6-5Ky7wc-2eyGHWv-fqSLBJ-GEiSt5-2g2taCf-okXtsh-ts9U9g-2bKtZUU-tvrKkQ-2dRir4z-tt599F-tRw47c-2ibDkJt-qAhZ8x-deVNZY-sUhTFs-g5NFHN-tsZVzV-g5NLU7-c3eegJ-5HEphG-9G7WoE-EuQypy-7ZVHif-tbpfD7-sv8TE1-svjfi4-EuPEJ9-ts8SSR-wZmqy-taxsou-251wv1j-AdWtg-r4BzdH-eWBWvQ-btkrso-7syBaP-2icUCY2-7CMrdy-61FQWx-qr9YqR-H412R1-TGbx3U-HZHEpn-9EBQpT-cz1TBy-XFZhtu-7CMpbE-7CJgHY" title="VIAGEM AO FIM DO MUNDO"><img src="https://live.staticflickr.com/4056/4354399332_6c15690db7_z.jpg" width="640" height="427" alt="VIAGEM AO FIM DO MUNDO"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
