@@ -26,7 +26,7 @@ sc: [
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
         <li>ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>の標識がある</li>
         <li class="no-evidence">家の前に何か箱があって黄色いパイプが伸びている</li>
-        <li class="no-evidence"><span class="quiz">ひまわりの種</span>の生産が多く周辺のセルビア・ウクライナ・ブルガリア・ハンガリーもルーマニアの国境に近いエリアでひまわりの畑が多い気がする{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
+        <li class="no-evidence"><span class="quiz">ひまわりの種</span>の生産が多く周辺のセルビア・ウクライナ・ブルガリア・ハンガリーもルーマニアに近いエリアでひまわりの畑が多い気がする{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
     {{% rd europe romania verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
