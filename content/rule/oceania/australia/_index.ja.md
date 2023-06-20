@@ -18,7 +18,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/south-africa/", "南アフリカ"],
     ["../new-zealand", "ニュージーランド"],
-    ["../christmas_island/", "クリスマス島"],
+    ["../christmas-island/", "クリスマス島"],
     ["../cocos_islands/", "ココス諸島"],
     ]
 ---
@@ -218,7 +218,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     <ul class="rule-list">
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li class="no-evidence">信号機付近の機械や看板に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
-        <li>クリスマス島が出題されることがある{{% goto "../christmas_island/" "クリスマス島" %}}
+        <li>クリスマス島が出題されることがある{{% goto "../christmas-island/" "クリスマス島" %}}
             <ul>
                 <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
             </ul>

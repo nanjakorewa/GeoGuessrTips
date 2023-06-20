@@ -15,7 +15,7 @@ is_has_many_trekker: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../christmas_island/", "クリスマス島"],
+    ["../christmas-island/", "クリスマス島"],
     ["../australia/", "オーストラリア"],
     ["../../cs_america/martinique/", "マルティニーク"],
     ["../../asia/chagos-around/", "チャゴス諸島"],
