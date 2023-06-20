@@ -54,7 +54,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲まれていることがある。ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。下は太さの比較例。左：一般的な太さ・中央：ヨーロッパで二番目に太いと思われるフランス・右：ルーマニア。
+横断歩道の標識が黄色い線で囲まれていることがある。ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。下は太さの比較例。左：一般的な太さ・中央：ヨーロッパで二番目に太いと思われるフランス・右：ルーマニア。また、標識の裏側が黒っぽい色のときがある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
