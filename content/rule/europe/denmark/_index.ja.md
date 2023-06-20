@@ -45,7 +45,7 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 
 
 {{% notice tip %}}
-丸いカーブのパイプが多い。通り名の看板も丸いパイプ。オランダなどはパイプが四角いことが多い。～vejはデンマーク語で～通りの意味{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}。
+丸いカーブのパイプが多い。通り名の看板も丸いパイプ。オランダなどはパイプが四角いことが多い。<span class="quiz">～vej</span>はデンマーク語で～通りの意味{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="800" height="545" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -60,20 +60,25 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
-{{% lb %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687243145363!6m8!1m7!1s75soIt96ZVDBqEJanm4L8A!2m2!1d55.79755335445569!2d12.48826550699288!3f127.54765328126601!4f-16.294961800278315!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
 ![](2023-04-12-06-08-23.png)
 
 heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=8391465">Wikimedia Commons</a>による
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
+
+{{% notice tip %}}
+丸いカーブのパイプが多い。また横断歩道の標識の雰囲気が他と違う。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529352556!6m8!1m7!1s83oaGC152849BMDRm4Tv1w!2m2!1d55.71531969436402!2d11.71449237458699!3f142.39484295911498!4f-14.210953665811857!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529269108!6m8!1m7!1s9wXqSepJFq7qMWz2eBj0DA!2m2!1d55.67537744142326!2d12.5461761217449!3f329.0301666061291!4f-5.404707372620905!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680252533397!6m8!1m7!1szJwK4228OQW7qruVjlwg7A!2m2!1d55.79383105783973!2d12.49307101820776!3f74.12992142560944!4f-11.176095709834996!5f2.9137086992824384" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680252562741!6m8!1m7!1sZWJhmh_4nqfjNA9AtQnDOQ!2m2!1d55.79352258936748!2d12.49210912176099!3f271.2037104269405!4f-10.76706602482001!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680252582279!6m8!1m7!1snWlXLFx1EGjSLhIwboHCOg!2m2!1d55.79340002013565!2d12.49141446024509!3f211.88190720125897!4f5.226000330268334!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680252996524!6m8!1m7!1skOqtBG_hODNv_g94YWMJAg!2m2!1d56.26979639627368!2d10.30672361127087!3f246.10395800086403!4f-17.422590650500155!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

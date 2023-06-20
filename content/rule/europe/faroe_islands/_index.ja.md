@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-都心以外はこんな感じの雰囲気で木が生えていない。
+都心以外はこんな感じの雰囲気で木が生えていない。また断熱のために草屋根（屋根の上に土をのせて草を生やしたもの）がある家が散見されるのも特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/isabel_lucena/36702442524/" title="Faroe Islands, Eysturoy L1000403"><img src="https://live.staticflickr.com/4383/36702442524_6cd50405a8_z.jpg" width="640" height="427" alt="Faroe Islands, Eysturoy L1000403"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

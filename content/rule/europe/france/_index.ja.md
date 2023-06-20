@@ -37,10 +37,16 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど、特徴的な形なのでわかるはず。
+ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/26605560@N08/30274383808/" title="La belle France ... not so much a zebra crossing as &#x27;sheep crossing&#x27;"><img src="https://live.staticflickr.com/1857/30274383808_7d4aeb9611_c.jpg" width="800" height="210" alt="La belle France ... not so much a zebra crossing as &#x27;sheep crossing&#x27;"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./b1.png" width="400px">
+</div>
+<div class="googlemap-if">
+<p>※By <a href="//commons.wikimedia.org/wiki/User:Lionel_Allorge" title="User:Lionel Allorge">Lionel Allorge</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36181681">（Link）</a>を加工しており左は合成画像です</p>
+</div>
+
 </div>
 
 
@@ -54,16 +60,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは両サイドに青の時と片方だけ青の時がある。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
+ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
 {{% /notice %}}
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/countrushmore/49677634267/in/photolist-2iFQRVD-j9gjB2-8fDBXw-woX1Wo-2nQf2Re-2kn9GC2-XwUe4x-2mv3kzj-2ohfVzx-2jSrMDi-eBrbEg-2ohGdL1-2jdGHSf-2nybhQ6-fCBm2D-2jcAK5i-UDsEiX-2nbSZLq-2nxNCPP-2nQ7AJz-2n9DerQ-T6ukpA-2iv3o7d-2dLdjW4-dA5JVj-KW5WC8-2jfMqUA-2jMqsQj-2h9uoMk-yZsqhL-2kih9Q8-WpV4y3-2ocEhNq-2ob8fDT-2euBJNU-23puMxd-ef4dZL-2i2xa4L-2oibZV9-NdngeA-277Rm4c-2jqsxCC-DNKyWm-21kfSVY-SFPW9w-2mMaBcv-or5GW3-2j3HLdL-zkLjDZ-buppJg" title="Just dive !"><img src="https://live.staticflickr.com/65535/49677634267_0e480b0dbb_z.jpg" width="640" height="480" alt="Just dive !"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-{{% lb 50 %}}
-![](2023-04-13-08-22-03.png)
-
-By I, Bzh29, <a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2232262">Wikimedia Commons</a>
-{{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">

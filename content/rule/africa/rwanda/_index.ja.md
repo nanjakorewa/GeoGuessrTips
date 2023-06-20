@@ -23,7 +23,7 @@ sc: [
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.rw</span></li>
         <li>ナンバープレートは細目で前が<span class="quiz">白</span>色で後ろが<span class="quiz">黄</span>色</span></li>
-        <li>モバイルペイメントが普及しておりMTMのような事業者の出張所が街中に見られる</li>
+        <li>モバイルペイメントが普及しておりMTNのような事業者の出張所が街中に見られる</li>
         <li>四角い電柱がある</li>
         <li>Google Carが特徴的</li>
     </ul>
@@ -32,7 +32,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。車のナンバープレートは細目の<span class="quiz">黄</span>色か白色のナンバープレートが見つかる。
+{{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。同じパラソルは{{% goto "../ghana/" "ガーナ" %}}や{{% goto "../uganda/" "ウガンダ" %}}にもあるけれど、ルワンダほどは多くない気がする。車のナンバープレートは細目の<span class="quiz">黄</span>色か白色のナンバープレートが見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if">

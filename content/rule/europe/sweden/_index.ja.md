@@ -49,10 +49,6 @@ sc: [
 {{% notice tip %}}
 看板の矢印の形が特徴的で綺麗な▷ではない{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681520120527!6m8!1m7!1s-plX9mxe_3c-75JrMbFwxw!2m2!1d60.19231843145348!2d12.66952427707943!3f150.08783051938525!4f-8.009418602090491!5f2.8630713791201936" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681519941867!6m8!1m7!1s5MKy4UAEyyWWxlEatUFTgQ!2m2!1d60.67461509324035!2d17.10662236796962!3f321.3257127276216!4f0.6031312557307871!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">

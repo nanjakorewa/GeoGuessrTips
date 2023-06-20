@@ -25,6 +25,7 @@ sc: [
         <li>Google Carが<span class="quiz">黒</span>色の時がある。南米では他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../uruguay/" "ウルグアイ" %}}も同じ色のGoogle Carを使う{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}。</li>
         <li>都市部のバスのナンバープレートは上側が<span class="quiz">緑</span>色のときがある</li>
         <li>トラックのナンバープレートが<span class="quiz">黄</span>色のときがある</li>
+        <li class="no-evidence">ボラードは<span class="quiz">黄</span>色に塗られていることが多い</li>
         <li class="no-evidence">ガードレールに黄色と黒のストライプがある</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
@@ -34,10 +35,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボラードは黄色に塗られている。
+標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155/" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="520" height="336" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="520" height="336" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -99,7 +100,7 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 
 {{% tabs %}}
 {{% tab "コメ" %}}
-<div class="googlemap-if">
+<div class="googlemap-if unclickable">
 <img src="2023-06-18-20-15-15.png" width="500px">
 </div>
 

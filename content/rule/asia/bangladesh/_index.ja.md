@@ -11,6 +11,7 @@ flag: "BD.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
+is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド"],
