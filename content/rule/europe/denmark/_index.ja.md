@@ -45,11 +45,10 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 
 
 {{% notice tip %}}
-丸いカーブのパイプが多い。ポストは上が丸くPost Danmark社のロゴがあることもある（現PostNord社）。通り名の看板も丸い（オランダなどはパイプが四角いことが多い）。
+丸いカーブのパイプが多い。通り名の看板も丸いパイプ。オランダなどはパイプが四角いことが多い。～vejはデンマーク語で～通りの意味{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529693548!6m8!1m7!1sQMEH3hnALZnTI58PgPnr9Q!2m2!1d56.03639704937119!2d12.60923869930314!3f273.27617610062356!4f-10.464780989730272!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529480549!6m8!1m7!1sWP9soOtPLBI6hcTNbSJElw!2m2!1d56.14558554605149!2d8.968942288805632!3f72.24934595356947!4f-8.918377819728022!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="800" height="545" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}

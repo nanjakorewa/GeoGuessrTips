@@ -13,6 +13,7 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../slovenia/", "スロベニア"],
+    ["../germany/", "ドイツ"],
     ]
 ---
 
@@ -20,6 +21,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.at</span></li>
+        <li><span class="quiz">ドイツ</span>語が公用語になっている</li>
         <li>一方通行は<span class="quiz">EINBAHN</span>の標識がありポールに赤と白のペイントがされていることがある</li>
     </ul>
     {{% rd europe austria verysmall %}}
@@ -41,6 +43,15 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681945396341!6m8!1m7!1sywIsU8yao38c_DWdiqpCQw!2m2!1d47.58957803486367!2d13.46279454579561!3f105.32022585621853!4f-16.778658749867333!5f3.2609974999179023" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681158229108!6m8!1m7!1s7bvE-BvQyNUuEQpMjNzdiA!2m2!1d47.55036127886682!2d14.93573644850267!3f14.20263664834302!4f-21.935997945926587!5f3.227515404800811" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+ö・üやä・ßのようなドイツ語に見られる文字がある。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./s/Hinweiszeichen_13a_groß.svg" width="280px">
+<img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-viecle" %}}

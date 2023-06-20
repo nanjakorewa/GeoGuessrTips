@@ -50,11 +50,22 @@ sc: [
 </div>
 
 {{% notice tip %}}
+ウルグアイの国営企業ANCAPが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP (Uruguay)" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="unclickable">
+<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
+</div>
+</div>
+
+{{% notice tip %}}
 🐑...！
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682340986154!6m8!1m7!1si3SsW3QFf0nE5j_4K_fCMQ!2m2!1d-32.39305726837082!2d-55.29410752891511!3f235.91098298390824!4f-11.82168877494233!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 

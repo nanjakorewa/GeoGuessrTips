@@ -9,6 +9,10 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "DE.svg"
 jetro_detail: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../austria/", "オーストリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -17,7 +21,7 @@ jetro_detail: true
         <li>ドメインは<span class="quiz">.de</span></li>
         <li>四角いモザイクが多い{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
-        <li>エスツェット「<span class="quiz">ß</span>」を文字として使う</li>
+        <li>ドイツ語はエスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツは第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
     </ul>
     {{% rd europe germany verysmall %}}
