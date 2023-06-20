@@ -24,9 +24,9 @@ sc: [
         <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多く<span class="quiz">黄</span>色のマーカーが付いていることがある{{% by %}}</li>
         <li>「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」はルーマニアとモルドバで使用される</li>
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
-        <li>ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>の標識</li>
+        <li>ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>の標識がある</li>
         <li class="no-evidence">家の前に何か箱があって黄色いパイプが伸びている</li>
-        <li class="no-evidence">横断歩道の標識が黄色の反射板で囲まれていてなおかつ標識の裏側が黒色のものがあるならルーマニアかも</li>
+        <li class="no-evidence"><span class="quiz">ひまわりの種</span>の生産が多く周辺のセルビア・ウクライナ・ブルガリア・ハンガリーもルーマニアの国境に近いエリアでひまわりの畑が多い気がする{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
     {{% rd europe romania verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
