@@ -63,7 +63,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白背景に黒の矢印のシェブロンはセルビア以外はほぼ無い。
+白背景に黒の矢印のシェブロンはセルビア。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
