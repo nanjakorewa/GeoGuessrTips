@@ -26,6 +26,7 @@ sc: [
         <li>道の真ん中や道路際に<span class="quiz">緑色</span>のボラードがある</li>
         <li>左側が<span class="quiz">黄色</span>くなっているナンバープレート</li>
         <li>周りが山がちで石壁の模様の壁のアパート・マンションが多い</li>
+        <li>スノーポールと思われる棒が道沿いに並んでいる</li>
         <li>横断歩道の標識の棒が{{% goto "../spain/" "スペイン" %}}と同じ8本である点だけ注意</li>
     </ul>
     {{% rd europe andorra verysmall %}}
@@ -33,6 +34,13 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+周りが山がちで石壁の模様の壁のアパート・マンションが多い。恐らくどこにいたとしても建物の隙間や通りから山の斜面が見える。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="600" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 {{% notice tip %}}
 左側が<span class="quiz">黄色</span>くなっているナンバープレート。
@@ -50,6 +58,17 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
+上が赤いスノーポールと思われる棒が道沿いに並んでいることがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682728113889!6m8!1m7!1s7WLj4-jayJXhapmxHv6v4g!2m2!1d42.55142990357371!2d1.69555676370839!3f108.63773427036575!4f0.05181551999385192!5f3.092724019543342" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682728167712!6m8!1m7!1ssploRULJx7wdbQjV4PHIfQ!2m2!1d42.53724880624625!2d1.482400077206912!3f238.81965791421123!4f-7.334172044997871!5f3.0932692594735425" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "w-bollard" %}}
+
+{{% notice tip %}}
 道の真ん中や道路際に<span class="quiz">緑色</span>のボラードがある。同じものが{{% goto "../spain/" "スペイン" %}}や{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}にもあるがナンバープレートが違うので判別がつくはず。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -57,21 +76,5 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682727919095!6m8!1m7!1sBeKKxSvTdvqqxqiCKtusiw!2m2!1d42.55073839781397!2d1.695846565481723!3f165.21716310853563!4f-4.172480745179101!5f3.314171391291496" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-周りが山がちで石壁の模様の壁のアパート・マンションが多い。恐らくどこにいたとしても建物の隙間や通りから山の斜面が見える。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="600" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-{{% notice tip %}}
-上が赤いポールが道沿いに並んでいることがある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682728113889!6m8!1m7!1s7WLj4-jayJXhapmxHv6v4g!2m2!1d42.55142990357371!2d1.69555676370839!3f108.63773427036575!4f0.05181551999385192!5f3.092724019543342" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682728167712!6m8!1m7!1ssploRULJx7wdbQjV4PHIfQ!2m2!1d42.53724880624625!2d1.482400077206912!3f238.81965791421123!4f-7.334172044997871!5f3.0932692594735425" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% /tabs %}}
