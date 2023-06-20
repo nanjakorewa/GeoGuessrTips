@@ -16,6 +16,14 @@ add_flagindex: True
 ## 共通であるもの
 
 {{% notice tip %}}
+小さい白い花
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/babakotoeu/11999786185/" title="Driving through rural Latvia [Latvia]"><img src="https://live.staticflickr.com/5480/11999786185_8bb12ee655_z.jpg" width="640" height="424" alt="Driving through rural Latvia [Latvia]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
 どの国にも、特にエストニアにOmniva（エストニア郵便、Eesti Post）のオレンジ色のロッカーが街中にある。以前の名前であるEesti Postと書かれていることもあるけれどそれでもオレンジ色で目立つ。
 {{% /notice %}}
 
