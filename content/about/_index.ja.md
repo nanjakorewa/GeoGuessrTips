@@ -22,9 +22,11 @@ weight: 1001
 
 <h2 class="no-blur">背景画像・使用ツール</h2>
 
-<dlv style="text-align:left;pointer-events:none;">
-<img src="./2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
-<img src="./2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
+<div class="googlemap-if unclickable">
+<img src="./2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" >
+<img src="./2023-04-15-23-01-05.png" width="200px" style="margin:34px;" >
+<img src="./Flickr_wordmark.svg" width="180px" style="margin:34px;" >
+<img src="./Google_Maps_Logo.svg" width="250px" style="margin:34px;" >
 </div>
 
 <br />
