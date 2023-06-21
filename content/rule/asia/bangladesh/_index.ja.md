@@ -25,7 +25,7 @@ sc: [
         <li><span class="quiz">緑</span>色のナンバープレートがある</li>
         <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
-        <li><span class="quiz">ベイビータクシー</span>やCNGリキシャ（タイにおけるトゥクトゥクのような車）が走っている{{% ref "https://www.jftc.jp/monthly/overseas/entry-1748.html" "日本貿易会月報オンライン - バングラデシュの交通事情変革期" %}}</li>
+        <li>ベイビータクシーやCNGリキシャ（タイにおけるトゥクトゥクのような車）が走っている{{% ref "https://www.jftc.jp/monthly/overseas/entry-1748.html" "日本貿易会月報オンライン - バングラデシュの交通事情変革期" %}}</li>
         <li>バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある</li>
         <li>Dhaka bankのロゴがあるかも</li>
     </ul>

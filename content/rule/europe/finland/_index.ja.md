@@ -30,6 +30,7 @@ additional_link:
         <li>通り名に<span class="quiz">～tie</span>が多い</li>
         <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
+        <li>会社名に株式会社という意味である「<span class="quiz">Oy</span>（osakeyhtiöの略）」と付いている</li>
         <li class="no-evidence">アーネコスキの直ぐ上にピンを指すとフィンランドで安定した点（4385点）が取れるかも</li>
     </ul>
     {{% rd europe finland verysmall %}}
