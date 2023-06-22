@@ -16,6 +16,7 @@ is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../sweden/", "スウェーデン"],
+    ["../netherlands/", "オランダ"],
     ]
 ---
 
