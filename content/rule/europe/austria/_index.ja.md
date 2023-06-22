@@ -45,13 +45,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ö・üやä・ßのようなドイツ語に見られる文字がある。
+同じドイツ語圏である{{% goto "../germany/" "ドイツ" %}}と共通点が多く、ö・üやä・ßのようなドイツ語に見られる文字がある。また下のようなHaltestelleの看板が路面電車などの停留所にあるのもドイツと共通している。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./s/Hinweiszeichen_13a_groß.svg" width="280px">
 <img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px">
 </div>
 
+
+<div class="googlemap-if unclickable">
+<img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px">
+</div>
 
 {{% /tab %}}
 {{% tab "w-viecle" %}}

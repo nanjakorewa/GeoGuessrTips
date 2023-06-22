@@ -23,6 +23,7 @@ sc: [
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
         <li>ドイツ語はエスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツは第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
+        <li>バスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）/span>』のマークがある</li>
     </ul>
     {{% rd europe germany verysmall %}}
 </div>
@@ -43,6 +44,20 @@ sc: [
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある。
+横長の看板にバス停の名前が書かれていることもある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/30845644@N04/8368869923/" title="Haltestelle"><img src="https://live.staticflickr.com/8185/8368869923_8a1e1ed8d3_z.jpg" width="640" height="480" alt="Haltestelle"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px">
+<img src="./r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px">
 </div>
 
 {{% /tab %}}

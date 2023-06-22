@@ -57,15 +57,19 @@ By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/aligatorpics/9317602276/in/photolist-fcn9x7-ocLbjX-Kb5i2n-xJ1h74-27Ey42H-KcHkQh-2cagJCG-LUNha7-8wKEFe-vM8F6k-2eDVutw-2bfSFwb-AypzQk-8AckMD-gaFt4n-NNHX44-2a4M1yr-dvL5PM-xcwWjQ-YxbXyx-NsJk5n-BVodTG-2575Rw7-NZJhqt-cmXotU-eytPkb-afLJr3-27EyHm8-aaQ5hM-25Y1cte-eNXS1e-28KTxK4-K8ikdB-ZAhhgk-22mg2Nm-8VXvkL-wVG9rE-eysjh6-EQGbvF-eNXRSi-mmDss8-KyKxVG-26dqMkg-23Xaf2n-G6KRCR-HDCabR-YDeYDt-ekhC7D-CsGbJH-24RtYKx" title="Sharp turn ahead"><img src="https://live.staticflickr.com/2852/9317602276_4e5038b97a_z.jpg" width="640" height="428" alt="Sharp turn ahead"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-
-
-
 {{% notice tip %}}
 {{% goto "../serbia/" "セルビア" %}}とモンテネグロ全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="../serbia/idea.png" width="400px">
+</div>
+
+{{% /tab  %}}
+{{% tab "電柱" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687410851957!6m8!1m7!1sdXaLWQxvfPXilYIjRrm6RQ!2m2!1d42.44425415784994!2d18.68941268106376!3f266.9131462613896!4f25.278302749869994!5f3.3038691676053533" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687411037267!6m8!1m7!1sTO1rwlsI1cr8jiIUDlRqig!2m2!1d42.78007458146075!2d18.9535588031351!3f213.31042868716264!4f24.79054008447116!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab  %}}

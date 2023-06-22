@@ -28,11 +28,12 @@ sc: [
                 <li>「Ž・ž」「Č・č」「Š・š」の文字はクロアチア・チェコ・スロバキア・スロベニア・バルト三国に見られて上にハーチェクやキャロンと呼ばれるｖのような形が付いているのが特徴的</li>
             </ul>
         </li>
-        <li><span class="quiz">青</span>色の消火栓 {{% by %}}を見かけるかも</li>
+        <li><span class="quiz">青</span>色の消火栓 {{% by %}}を見かける</li>
         <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
-        <li><span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのはクロアチア・セルビア・モンテネグロ・トルコ・ポーランド</li>
-        <li>クロアチアの横断歩道の標識は５本線でベルトが<span class="quiz">ついている</span>がセルビアはベルトが<span class="quiz">ついていない</span></li>
-        <li>クロアチアの旗のチェックボード柄の模様のロゴや看板を見かけることがある</li>
+        <li>赤い反射板で角張った細い溝のガードレールを使うのはクロアチア・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・ポーランド</li>
+        <li>クロアチアの横断歩道の標識は５本線でベルトが<span class="quiz">ついている</span></li>
+        <li>国旗のチェックボード柄の模様のロゴや看板を見かけることがある</li>
+        <li class="no-evidence">赤い色の矢印が電力計の扉にある</li>
     </ul>
     {{% rd europe croatia verysmall %}}
 </div>
@@ -50,8 +51,7 @@ sc: [
 
 <div class="googlemap-if">
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/kaminskimateusz/43873050604" title="_DSC2315.jpg"><img src="https://live.staticflickr.com/1859/43873050604_5f01442a63_w.jpg" width="400" height="266" alt="_DSC2315.jpg"/></a>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685589718299!6m8!1m7!1svOW8VzK4E5SVBK6Ec4yVgw!2m2!1d43.51426562739039!2d16.43182698284475!3f352.251586271742!4f-5.24297329778031!5f2.66377219812185" width="230" height="266" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kaminskimateusz/43873050604" title="_DSC2315.jpg"><img src="https://live.staticflickr.com/1859/43873050604_5f01442a63_w.jpg" width="640" alt="_DSC2315.jpg"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/hile/27023806014/in/photolist-7jCuyg-WZkQKu-59yxc7-9b24Mr-Hb152U-4Qvnvc-5RDxaF-8qzBDb-6N2enw-2jJQd5B-2nAfamo-2nAkaEt-2jJR1d9-2jJLC74-2jJLC8g-2jJR1zw-2jJLCcE-2jJQd9z-2jJQdeE-2jJQdmZ-2jJLCiS-2jJLCjD-2jJLBTU-2jJLCgx-2jJQdTW-2jJR2mS-2jJLDBZ-2jJQenr-2jJR2NJ-2jJQduz-2jJR2ET-2jJQevs-2jJQcYz-2jJR2ov-2jJQdW1-2jJQe4f-2jJR33b-2jJQe6j-2jJR29c-2jJQeyy-2jJQdFw-2jJR2S1-2jJQdxF-2jJQefY-2jJLDbP-2jJR2fj-2jJLCBC-2jJQdAg-2jJQeBj-2jJR2bX" title="WP_20160612_21_07_39_Rich"><img src="https://live.staticflickr.com/7092/27023806014_a0254234a4_z.jpg" width="640" height="360" alt="WP_20160612_21_07_39_Rich"/></a>
 </div>
 
@@ -79,10 +79,18 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 {{% /lb %}}
 
 {{% notice tip %}}
-<span class="quiz">赤い反射板で角張った細い溝</span>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
+<b>赤い反射板で角張った細い溝</b>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a>
+</div>
+
+{{% notice tip %}}
+クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする。電球のポールにも貼ってあることがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./danger.png" width="200px" style="margin:40px">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687420541262!6m8!1m7!1sRyu6joCRwmzAD3KGWEXAng!2m2!1d45.1776553685094!2d18.02067469498351!3f267.7560786542673!4f-11.752237957176746!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

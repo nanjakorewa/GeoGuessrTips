@@ -27,6 +27,7 @@ sc: [
         <li>ナンバープレートは基本白でドバイのみ後ろの左側が<span class="quiz">赤</span>色</li>
         <li>ドバイは高層ビルが見えることが多い</li>
         <li>Google Carが特徴的</li>
+        <li class="no-evidence">緑色の上が折れ曲がったパイプのフェンスをよく見かける</li>
     </ul>
     {{% rd middle_east united_arab_emirates verysmall %}}
 </div>
@@ -38,15 +39,27 @@ sc: [
 Google Carが特徴的で白い屋根が見える。また標識や道路番号の記号が独特。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684958803956!6m8!1m7!1sxSvV8BnLUB3MuV2kl9Rc8A!2m2!1d25.40734473322975!2d55.51560890219447!3f220.07052663744926!4f-49.21446602119926!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684960080815!6m8!1m7!1sGQ3S5W1V0Lo1zmI1OefMbQ!2m2!1d25.21206239468591!2d55.25751655870031!3f351.0919701070735!4f4.131664332129915!5f2.1129157670205068" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/in/photolist-wyGdPm-oPynvW-DoFbTC-7GTDLs-9y8ieS-2o5zk21-2M7154-fps7A-oPAcnD-cWfvK-oPA9Dc-oQDWHm-Dz8zwm-7NhZmt-2MboiE-2M6Zk8-ox751t-oNE13o-4Zh2w6-H5X2xc-iRn1cC-wjf4EC-ox6oQg-4ZmfoS-wjpkoL-oQq1Vg-oMyoNw-28TYE8B-oPA7fe-n1H1Zu-ox71nB-ox6iFP-4z1wd8-oPjiaZ-oMyk6w-wyxwSJ-5QxvkZ-wjw72R-RbWHgp-8ZLEWx-wBjDUT-4z5Lvo-7AmnLg-kKw3Fq-ktU6X7-gAP6T8-MgDPy-2dRoXc9-6rjqi7-7MR4Cm" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Dubai roads"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div class="googlemap-if unclickable">
+<img src="./r/052314.png" width="106px" style="margin:0px">
+<img src="./r/52350.png" width="100px" style="margin:10px">
+<img src="./r/UAE_D97.svg" width="70px" style="margin:10px">
+<img src="./r/UAE_E99.svg" width="70px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
-都心部は高層ビルが見えて建設中のものも多い
+緑色の上が折れ曲がったパイプのフェンスをよく見かけるように思う。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684960121984!6m8!1m7!1shWqHqLm4CV2RoroPqHtn8g!2m2!1d25.21055265073919!2d55.25629528365307!3f137.2500727439078!4f7.9444647788023275!5f2.53988720102434" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687411500200!6m8!1m7!1suZK3sDeXC8UF4v_D6hEbhA!2m2!1d25.24510459078181!2d55.87447802030222!3f138.93547886260473!4f-7.297505525298462!5f1.7400781784336394" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+都心部に高層ビルが見える。建設中のものも多く存在する。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/144729932@N02/43815135115/in/photolist-29KN2b4-tQVc2o-24NqNFo-VRLCig-24Bdr1n-K2mDPA-VBRGii-GFoK1D-28ZdJ8m-DLF1MB-2afYTH9-24pzqSy-QoJgkM-xgyDbu-4Yxv9c-riMhG3-25rFJFw-egP65j-YMita9-Xrn1BT-ptKpU7-DoZkZm-YJ5wQf-xyM9i4-DN64ue-fxNsbC-21gUQcz-egP6td-CVfha8-kt8xmU-kJ8yeg-BNVGtm-2duYBKb-rutyb8-2cCcgN8-Sb3PH5-pETzzr-2648XMR-oxejxD-24UFHZq-BjqEqX-264vA7i-KAGC2Q-T63sp2-QoAWfr-egHkHM-22Z65ci-27eUfR4-4jQWxu-DUTgAh" title="Sheikh Zayed Road"><img src="https://live.staticflickr.com/1893/43815135115_5c00ee55a1_z.jpg" width="640" height="416" alt="Sheikh Zayed Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -58,5 +71,14 @@ Google Carが特徴的で白い屋根が見える。また標識や道路番号�
 {{% lb 50 %}}
 ![](2023-05-25-05-13-29.png)
 {{% /lb %}}
+{{% /tab %}}
+{{% tab "Google Car" %}}
+
+{{% notice tip %}}
+Google Carが特徴的で白い屋根が見えることがある。屋根が見えないとしても基本的に白色の車。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684958803956!6m8!1m7!1sxSvV8BnLUB3MuV2kl9Rc8A!2m2!1d25.40734473322975!2d55.51560890219447!3f220.07052663744926!4f-49.21446602119926!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
