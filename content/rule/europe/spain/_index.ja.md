@@ -27,13 +27,13 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.es</span></li>
-        <li>道路の線は基本的に白のみ</li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインと{{% goto "../andorra/" "アンドラ" %}}のみ</li>
         <li>赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無い</span></li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
         <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
-        <li>黒・白と青・白のシェブロンがある</li>
+        <li>背景色が黒色・<span class="quiz">青</span>色のシェブロンがある</li>
         <li><span class="quiz">黄色</span>の円柱型のポストがありCorreos社のロゴが描かれているポストがある</li>
+        <li class="no-evidence">道路の線は基本的に白が多いけれど稀に黄色もある</li>
     </ul>
     {{% rd europe spain verysmall %}}
 </div>
@@ -79,12 +79,10 @@ sc: [
 </div>
 
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "電柱" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679835046812!6m8!1m7!1sIcn0WjC0dhsYUkbXlekeCA!2m2!1d36.34072203164956!2d-5.318748757553146!3f351.73030040545405!4f-5.518956432826343!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682750307055!6m8!1m7!1s_PZpttpMCreCdZxd4VymEw!2m2!1d37.67128003375031!2d-1.69700786888118!3f249.2822356783527!4f16.84532252672038!5f1.5201396284276871" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682750523655!6m8!1m7!1s_QeWHES_4wbNUSWBo7hSYA!2m2!1d36.74881842082745!2d-4.719686215448228!3f180.2652948549871!4f8.383923589280442!5f1.7435841889690247" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682750592878!6m8!1m7!1sWECXPFDANMhmof5h5jYjXw!2m2!1d41.62705376780684!2d-4.730796097494013!3f228.18802077947825!4f12.274010679328498!5f1.6723009221009915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -99,11 +97,6 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680824185731!6m8!1m7!1spnVmy--ngogKwQ_Hi8i0yQ!2m2!1d41.8500945148585!2d0.7041109059627206!3f63.13679896898764!4f2.430239303916508!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681858620099!6m8!1m7!1seQqQqypAtNIveawD1pd0rA!2m2!1d37.70081022788887!2d-3.72513131649601!3f190.66304440851425!4f-0.2695959691949099!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681528750357!6m8!1m7!1s_8wKdM8bkRkvHSQtSpGGRA!2m2!1d40.05964667647117!2d-3.903384302186257!3f81.59363100034489!4f-9.228176314298551!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
