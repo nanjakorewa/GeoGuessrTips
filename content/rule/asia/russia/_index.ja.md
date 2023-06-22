@@ -46,8 +46,11 @@ sc: [
 ガスプロムは天然ガスの生産・供給において世界最大の企業であり、ロシアの国営企業。ノルドストリームもガスプロムが大株主となっている。キルギスタンにもガソリンスタンドがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680242775381!6m8!1m7!1sS7ojz8fNEd4k1y8WtcBCxQ!2m2!1d56.51279877239423!2d84.94129512574945!3f306.8842112601572!4f-0.7627465631793484!5f2.401554287260961" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680242929738!6m8!1m7!1smL-G0iSOIEDwAYBsjb5KwA!2m2!1d56.52382737043172!2d84.99348800707942!3f56.94888952577256!4f16.229355744784556!5f3.3105564980525917" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Газпром"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./Gazprom_Avia_Logo.svg" width="400px">
 </div>
 
 {{% notice tip %}}

@@ -29,6 +29,7 @@ sc: [
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>道路の線は基本的に白のみ</li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインと{{% goto "../andorra/" "アンドラ" %}}のみ</li>
+        <li>赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無い</span></li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
         <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
         <li>黒・白と青・白のシェブロンがある</li>
@@ -39,23 +40,33 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
-歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い。また道路の近くに小型の鉄塔のような電柱がある。
+<span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれているポストがある{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。右の青いのよりも左の黄色のものが多く、街中でも目立っているように思う。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679833645337!6m8!1m7!1sr4npdngJC80p4rFdWKuG6A!2m2!1d40.47024946657344!2d-3.583365310372443!3f127.7556848149795!4f2.493022455824061!5f2.981978623692435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682750246389!6m8!1m7!1sH-kvDZjpYYQA0YgCBpOz1A!2m2!1d38.65002359980011!2d0.05158672956871693!3f249.01813011224797!4f16.516204694038308!5f1.7444091571384015" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% notice tip %}}
-<span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれているポストがある{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。ついでにボラードも黄色い。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679834601644!6m8!1m7!1sVISWPYmOqXbCgE-j6A6RiQ!2m2!1d36.33689793515558!2d-5.313924773905094!3f90.09664425945807!4f-9.538467184943826!5f3.3133659245927842" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681528750357!6m8!1m7!1s_8wKdM8bkRkvHSQtSpGGRA!2m2!1d40.05964667647117!2d-3.903384302186257!3f81.59363100034489!4f-9.228176314298551!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/193588695@N06/51977346993/" title="Buzón de Correos España ( Madrid )  Spanish Mailbox"><img src="https://live.staticflickr.com/65535/51977346993_7063c9a2a9.jpg" width="500" height="438" alt="Buzón de Correos España ( Madrid )  Spanish Mailbox"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
 <img src="./Logo_Correos_2019.svg.png" width="100px">
+</div>
+
+{{% notice tip %}}
+歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い。赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無く</span>、また細い長方形型の鉄のパイプを使って標識が建てられていることが多い気がする。裏側から見た画像は{{% goto "https://goo.gl/maps/9FCkMexLvbz1up1N8" "これ" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/elliotmoore/336339535/" title="pasear"><img src="https://live.staticflickr.com/138/336339535_7e925403b7_w.jpg" width="268" height="400" alt="pasear"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Road Junction Sign (Barcelona Province, Spain)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% notice tip %}}
+ポストのついでにボラードも黄色い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687397522343!6m8!1m7!1sJC4zYcUNcpoPG1zWObrpaA!2m2!1d39.40606734647674!2d-1.10423888633146!3f49.16700666596726!4f-23.187441516952347!5f2.9959483791944774" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687397449754!6m8!1m7!1sT8sD09rcDMwme1l4brV2OA!2m2!1d39.40463305513521!2d-1.103759764589018!3f188.85760436942286!4f-8.442252123183891!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -66,6 +77,7 @@ sc: [
 <img src="./r/chv.png" width="200px">
 <img src="./r/chv-b.png" width="200px">
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
@@ -105,7 +117,7 @@ sc: [
                 <li>例）BIならばビルバオ付近</li>
             </ul>
         </li>
-        <li>スペイン領カナリア諸島が出る。道路番号の頭文字は島の名前になっている。{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}</li>
+        <li>スペイン領{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}が出る。島の名前の頭文字から道路番号が付けられている。</li>
     </ul>
 </div>
 
@@ -121,7 +133,8 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>地図上で白い場所はビニールハウスがいっぱいある（南東の海の近く）</li>
+        <li>南東の海の近くの地図上で白い場所はビニールハウスがいっぱいある</li>
+        <li>アフリカ大陸の北岸にスペインの自治都市である{{% goto "../../africa/melilla/" "メリリャ" %}}と{{% goto "../../africa/ceuta/" "セウタ" %}}がある</li>
     </ul>
 </div>
 
@@ -129,8 +142,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "ビニールハウス" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685107158837!6m8!1m7!1sovSpeRMTQKQHbPLqSBlesw!2m2!1d36.72286755824907!2d-2.732846079631473!3f84.57255273429367!4f-0.06178768076840413!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685107186572!6m8!1m7!1sh5F90Tjr5g98NL60dhqPmw!2m2!1d36.78696191764914!2d-2.731803850520842!3f308.7175461880648!4f0.14534750498542337!5f2.8605917192670196" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687397601451!6m8!1m7!1sovSpeRMTQKQHbPLqSBlesw!2m2!1d36.72286755824907!2d-2.732846079631473!3f339.7845202954766!4f0.5416594652036792!5f0.4032702287058389" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

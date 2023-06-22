@@ -103,6 +103,16 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
     </div>
 </div>
 
+
+{{% notice tip %}}
+道路の路側帯の破線が<span class="quiz">長い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="../sweden/road.png" width="90%">
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}

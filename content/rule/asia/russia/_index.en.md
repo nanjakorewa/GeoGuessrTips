@@ -39,8 +39,7 @@ Gazprom is the world's largest producer and supplier of natural gas and is a Rus
 Crosswalk signs have three lines painted on them, and there are signs with distances written on the side of the road. The distances written on the signs are often quite long.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679952008394!6m8!1m7!1sKN-3kAd_mxa5SqB13YgGug!2m2!1d54.58244420016089!2d100.3601711274949!3f131.58138593641155!4f-2.7641070240745194!5f3.294422798080353" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679574012765!6m8!1m7!1sR8-KOr_YgIRzPFz_zEBCAg!2m2!1d56.73993333236672!2d37.54780178613612!3f309.44431274604256!4f-0.27220425709052165!5f3.319031129903795" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Газпром"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

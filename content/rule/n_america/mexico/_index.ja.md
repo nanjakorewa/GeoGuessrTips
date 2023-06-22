@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}。
+<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とりわけ電柱が黒と黄色で塗られていたらコロンビアを考えてみる。とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686968476108!6m8!1m7!1sTFInio-SlXCJKGkmSOrU9w!2m2!1d27.44366976390157!2d-99.52641789158689!3f54.69255634713712!4f-6.965929188309502!5f2.8177842970614426" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

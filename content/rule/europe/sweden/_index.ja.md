@@ -77,7 +77,7 @@ sc: [
 {{% notice tip %}}
 国旗の色に近い色のシェブロンがある。ノルウェー・フィンランドは黒背景に黄色なので区別が付く{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="./r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px">
 <img src="./r/Swedish_road_sign_7_1_1.svg" width="300px" style="margin: 10px;">
 </div>
@@ -91,6 +91,15 @@ sc: [
 <img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
 <img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
 </div>
+
+{{% notice tip %}}
+道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./road.png" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 
