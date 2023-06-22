@@ -32,10 +32,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ドイツではストリートビューの導入が進んでおらず、モザイクがかかった建物が多い（<a href="https://bigthink.com/strange-maps/germany-street-view/">FEBRUARY 11, 2022 - Why Germany is a blank spot on Google’s Street View</a>）
+ドイツではストリートビューの導入が進んでおらず、モザイクがかかった建物が多い{{% ref "https://bigthink.com/strange-maps/germany-street-view/" "FEBRUARY 11, 2022 - Why Germany is a blank spot on Google’s Street View" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679420140985!6m8!1m7!1sqwKjwVluqLRAgo2ObpAsXA!2m2!1d48.14926892865647!2d11.56215823569409!3f122.32034254578278!4f13.242303538779481!5f1.72032405487214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687475334816!6m8!1m7!1sIt4SAoSy_oXuXPb6wP29wQ!2m2!1d48.14951863838093!2d11.56125745379438!3f145.03604721959022!4f16.955834646279712!5f0.7820865974627469" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
