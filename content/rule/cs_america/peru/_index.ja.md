@@ -27,6 +27,7 @@ sc: [
         <li>トラックのナンバープレートが<span class="quiz">黄</span>色のときがある</li>
         <li class="no-evidence">ボラードは<span class="quiz">黄</span>色に塗られていることが多い</li>
         <li class="no-evidence">ガードレールに黄色と黒のストライプがある</li>
+        <li class="no-evidence">壁に細長い箱が埋め込まれていたり、外についていたりする</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
 </div>
@@ -64,6 +65,18 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo?start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+
+{{% notice tip %}}
+壁に埋め込まれた細長い箱？
+{{% /lb %}}
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687405941718!6m8!1m7!1sj2j2OmgVQ9liiXCPem0aPw!2m2!1d-11.99979523780639!2d-77.05149792975354!3f207.20135005809732!4f-13.403045634823357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687406013160!6m8!1m7!1s8iaz3NzSwxLWgkgOYbLZ0Q!2m2!1d-17.64026220130956!2d-71.32706660113355!3f65.24242672393657!4f-7.735547419482401!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "道路" %}}
 {{% notice tip %}}
