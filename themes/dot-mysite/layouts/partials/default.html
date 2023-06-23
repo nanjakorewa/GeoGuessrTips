@@ -157,7 +157,11 @@
                   {{ if (eq $countryName "idn" )}}{{ $countryName = "id" }}{{ end }}
                   <li><a href="https://ja.wikipedia.org/wiki/.{{ $countryName }}">.{{ $countryName }} (wikipedia)</a></li>
                   {{ if .Params.plonkit }}
-                  <li><a href="https://www.plonkit.net/{{ path.Base (.File.Dir ) }}">plonk it</a></li>
+                    {{ if .Params.plonkit_url }}
+                    <li><a href="https://www.plonkit.net/{{ .Params.plonkit_url }}">plonk it</a></li>
+                    {{ else }}
+                    <li><a href="https://www.plonkit.net/{{ path.Base (.File.Dir ) }}">plonk it</a></li>
+                    {{ end }}
                   {{ end }}
                   {{ $countryName2 := (slicestr .Params.flag 0 2) }}
                   {{ if not .Params.dont_show_usda }}

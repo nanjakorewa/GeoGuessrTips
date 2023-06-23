@@ -38,20 +38,24 @@ dont_show_usda: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682378008819!6m8!1m7!1saepqeqIAvOiqD98oyhetww!2m2!1d1.352440642214918!2d103.7548165554232!3f342.29271663057074!4f-21.906047716257973!5f2.9847061137845445" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
 {{% notice tip %}}
-信号を支えるポールに穴が空いている。
+三角や丸の標識であっても白い四角い形のボードを使用している。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681069552949!6m8!1m7!1s1OLR5ZqZVol4jHLrP2jkEA!2m2!1d1.345581090275804!2d103.7574597762432!3f176.3366817228929!4f29.828074511044406!5f2.91313586590089" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="./r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" />
+<img src="./r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" />
+<img src="./r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" />
 </div>
 
 {{% notice tip %}}
-三角や丸の標識であっても白い四角い形のボードを使用している{{% by "https://www.plonkit.net/singapore" "plonkit" %}}。
+信号を支えるポールに穴が空いている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}。緑色の通り名の看板もよく見る。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681580794904!6m8!1m7!1sjSfgVdvPpdFEe0B_LvOjTg!2m2!1d1.352173235165941!2d103.7896267240432!3f271.6715709459954!4f-2.726407484458477!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681580839049!6m8!1m7!1sn6-5o6HTdK7tsOnZRRDmQQ!2m2!1d1.377123256435142!2d103.7515981728854!3f22.941848704645526!4f-0.18501936575790978!5f3.3203146277309257" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><a href="https://commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG#/media/File:Shenton_Way_2,_Jan_06.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Shenton_Way_2%2C_Jan_06.JPG" alt="Shenton Way 2, Jan 06.JPG" width="90%"></a></p><p>By <a href="https://en.wikipedia.org/wiki/User:Sengkang" class="extiw" title="en:User:Sengkang">User:Sengkang</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="//commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG" title="Copyrighted free use">Copyrighted free use</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=759583">Link</a></p>
 </div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
