@@ -35,7 +35,7 @@ is_has_distinctive_bollard: true
 </div>
 
 {{% notice tip %}}
-タクシーやバスのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色
+タクシーやバスのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色。緑色のステッカーがあると<span class="quiz">キト</span>（by ギガバイトさん）。
 {{% /notice %}}
 
 <div class="googlemap-if">
