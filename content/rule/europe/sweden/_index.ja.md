@@ -29,7 +29,7 @@ sc: [
         <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある</li>
         <li>看板の矢印の形が特徴的で<span class="quiz">綺麗な▷ではない</span>{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
     </ul>
-    {{% rd europe sweden small %}}
+    {{% rd europe sweden verysmall %}}
 </div>
 
 

@@ -40,11 +40,10 @@ additional_link:
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-看板の矢印の形が▶のような塗りつぶし or 綺麗な▷になっている
+地域名が書かれた看板の矢印の形が▶のような塗りつぶし or 綺麗な▷になっている。また<span class="quiz">～tie</span>という通り名をよく見かける。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681521009779!6m8!1m7!1sWYvzEQCpe57sx0aVfgUUbw!2m2!1d62.23007740605037!2d25.90092329265511!3f312.7352315887596!4f-3.3257226229518437!5f2.9534892011313096" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681520812940!6m8!1m7!1sw7scIOEgw4bALWEf_gj3Pg!2m2!1d61.16324049244532!2d24.00394720990714!3f218.6219097770722!4f-7.579038098574443!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sanue/4677517675/in/photolist-88kv3t-joKr4m-dpxeB8-2jFfxth-Dngn5f-kLXhk-6gno9S-6dANPE-CEUHPG-TrrQhA-KxozeL-9mPHha-9PtGZv-2npgBoC-W8WYnu-9HguN-59Xrfq-2j3Nb62-qkqqF-mdJ2hs-LjUsmA-2kgZKkZ-9P9BRA-NrWQyP-5QL3Qk-fEcw5Q-9H6mVx-DnRuGN-gPsfG7-2mWaff-fmXgcH-hJ7T4p-pvgkLK-dw5fCC-59Xtm9-8WYrME-dkZsG5-JQaPRe-2ejA9UU-8WYeky-2mX3XbN-cuTA2b-bNbLga-bNbLi2-oU4qgA-9GGuWa-eVXJfN-qksAD-djbqti-2kHQFLi" title="The road sign / Touring to Porvoo"><img src="https://live.staticflickr.com/4033/4677517675_4a294a54e3_z.jpg" width="640" height="480" alt="The road sign / Touring to Porvoo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if">
@@ -109,13 +108,21 @@ additional_link:
 
 
 {{% notice tip %}}
+中央の線に<span class="quiz">黄</span>色と白の破線が使われる。左から<span class="quiz">フィンランド</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
+</div>
+
+
+{{% notice tip %}}
 フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="2023-06-17-13-12-50.png" width="570px"/>
 </div>
-
 
 {{% /tab %}}
 {{% tab "w-building" %}}
