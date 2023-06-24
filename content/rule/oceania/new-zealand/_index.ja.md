@@ -110,7 +110,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686016237001!6m8!1m7!1sjFIqn_wpN6TeaSed4rWP1Q!2m2!1d-49.66705117502639!2d178.8068568545037!3f235.9588452113889!4f12.306707860320401!5f1.3125468221226764" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686016324028!6m8!1m7!1sOPqVxyV5i8eq61cGe6hH-A!2m2!1d-49.66764652722949!2d178.8095245679632!3f249.3772578266898!4f-16.00629238161912!5f2.9901147302254083" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686016479347!6m8!1m7!1sKM0BwGlWcI7AlrmhLaKS8g!2m2!1d-49.67314782316515!2d178.7985411588788!3f138.1891585565086!4f-11.047218584269856!5f0.4003652160435086" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

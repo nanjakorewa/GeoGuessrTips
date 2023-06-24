@@ -232,7 +232,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Bangladesh",
+            "name": "バングラディシュ",
             "abbreviation": "BD",
             "textX": 0,
             "textY": 0,
@@ -817,7 +817,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Egypt",
+            "name": "エジプト",
             "abbreviation": "EG",
             "textX": 0,
             "textY": 0,
@@ -1389,7 +1389,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Iraq",
+            "name": "イラク",
             "abbreviation": "IQ",
             "textX": 0,
             "textY": 0,
@@ -2208,7 +2208,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "Nepal",
+            "name": "ネパール",
             "abbreviation": "NP",
             "textX": 0,
             "textY": 0,
