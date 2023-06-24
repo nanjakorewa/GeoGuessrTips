@@ -145,31 +145,18 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>レソト周辺はナンバープレートが緑色っぽい{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_South_Africa" "南アフリカの州ごとのナンバープレート" %}}</li>
         <li>農業の種類で地域がわかることがある
             <ul>
                 <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span></li>
                 <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
             </ul>
         </li>
-        <li class="no-evidence">市外局番のエリアコードで地域が分かる</li>
+        <li>市外局番のエリアコードで地域が分かる</li>
+        <li>レソト周辺はナンバープレートが緑色っぽい{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_South_Africa" "南アフリカの州ごとのナンバープレート" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "ナンバープレート" %}}
-
-{{% notice tip %}}
-North West Province・Free State Province・Eastern Cape Provinceは草原が描かれていて緑色。
-{{% /notice %}}
-
-{{% lb 50 %}}
-![](2023-06-17-09-35-33.png)
-
-Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373">Link</a>
-{{% /lb %}}
-
-{{% /tab %}}
 {{% tab "農業" %}}
 <div class="googlemap-if">
 
@@ -187,7 +174,20 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
-{{% twitter "1640831519643127808" %}}
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Petite map des téléphones fixes d&#39;Afrique du Sud que j&#39;ai faite pour devenir meilleure à <a href="https://twitter.com/geoguessr?ref_src=twsrc%5Etfw">@geoguessr</a> 😍 <a href="https://t.co/A4DJEFwLMv">pic.twitter.com/A4DJEFwLMv</a></p>&mdash; Armire 🌸 (@Armire) <a href="https://twitter.com/Armire/status/1640831519643127808?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+{{% /tab %}}
+{{% tab "ナンバープレート" %}}
+
+{{% notice tip %}}
+North West Province・Free State Province・Eastern Cape Provinceは草原が描かれていて緑色。
+{{% /notice %}}
+
+{{% lb 50 %}}
+![](2023-06-17-09-35-33.png)
+
+Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373">Link</a>
+{{% /lb %}}
+
 {{% /tab %}}
 {{% /tabs %}}
