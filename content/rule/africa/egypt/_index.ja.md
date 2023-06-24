@@ -37,8 +37,7 @@ is_has_many_trekker: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687074463755!6m8!1m7!1sHytVcOnabPsQfDp8FmLpfA!2m2!1d29.97738017044581!2d31.13260510047675!3f100.00210645043855!4f-11.15775011339558!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687086378574!6m8!1m7!1sJqq-FTOesdNYYg5PxaDxBA!2m2!1d31.21306825679974!2d29.88558643287604!3f234.71335312175418!4f-8.832019420030619!5f2.9589357242327683" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/51437989@N06/15982577198/" title="Cairo, Egypt"><img src="https://live.staticflickr.com/7472/15982577198_c92e865274_z.jpg" width="640" height="480" alt="Cairo, Egypt"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}

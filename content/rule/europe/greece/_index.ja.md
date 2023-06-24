@@ -44,13 +44,18 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジなのは北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。
+看板の背景がオレンジなのは北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。矢印はアルバニアと同じく黒背景に白矢印が多く（例<a href="https://goo.gl/maps/GSDxZX4vo9HZRHRE8">①</a>）赤白のものもある（例<a href="https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7">①</a>・<a href="https://goo.gl/maps/md7cEoNdNBSKD13S7">②</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
+</div>
+
+<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
+<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
+<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
 </div>
 
 {{% /tab %}}
