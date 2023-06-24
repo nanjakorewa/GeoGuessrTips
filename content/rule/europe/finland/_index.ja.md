@@ -31,6 +31,7 @@ additional_link:
         <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>会社名に株式会社という意味である「<span class="quiz">Oy</span>（osakeyhtiöの略）」と付いている</li>
+        <li>Passing place（車の待避所）の看板がフィンランドだけ<span class="quiz">矢印</span></li>
         <li class="no-evidence">アーネコスキの直ぐ上にピンを指すとフィンランドで安定した点（4385点）が取れるかも</li>
     </ul>
     {{% rd europe finland verysmall %}}
@@ -94,6 +95,16 @@ additional_link:
 <img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
 <img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
 </div>
+</div>
+
+
+{{% notice tip %}}
+北欧の狭い道にあるPassing place（車の待避所）の看板がフィンランドだけ矢印（例<a href="https://goo.gl/maps/22aeWZvbBynbwaXh6">①</a>・<a href="https://goo.gl/maps/HmKuBQafiJcTDvku9">②</a>）。左から純に<span class="quiz">フィンランド</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
+<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
+<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
+<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
 </div>
 
 
