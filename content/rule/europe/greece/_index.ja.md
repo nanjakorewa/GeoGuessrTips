@@ -20,6 +20,7 @@ sc: [
     <ul class="rule-list">
         <li>ギリシャ文字がある</li>
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}</li>
+        <li>警告看板がオレンジ背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
     </ul>
     {{% rd europe greece small %}}
 </div>
@@ -28,10 +29,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ギリシャ文字がありΣやλが特徴的。
+ギリシャ文字がありΣやλが特徴的。青背景や茶色背景に黄色い文字が書かれている看板もギリシャ以外ではあまり見かけない。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/carolemage/6914690766/in/photolist-bx2AEj-p4455-PYTD3S-21NmbAS-nWo6iu-8h6h5s-SqtcTm-DHmkGG-71dwZu-bKXwik-68uZVs-2QBXYR-c6WFD7-ksJj3e-f2jQC8-217rUw4-WQfGE2-6bEuM6-2fHP5pN-4mh5H-fCaq16-oxEPSi-5sQ21j-A4mrWa-5aYBjN-nAMzr-nCJusm-nbZro2-fE5KDU-fQPak3-Cjao6N-sMzi6D-a2rb6Y-eLNkqp-8DmGQs-acs4ei-cSZG7S-kvSKo-6vnvGW-dbDe4x-6ZAALD-82xtcC-j5b7hr-8Dn5ZS-7193be-21DTjKS-58ZE8H-aV8BT6-fPavLt-EEJES" title="Pella"><img src="https://live.staticflickr.com/5072/6914690766_8ef9da7d8c_w.jpg" width="400" height="300" alt="Pella"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -40,6 +41,16 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563099289!6m8!1m7!1soDMcLI8ZKM2Om3RBp7xkUQ!2m2!1d38.16139723115654!2d23.85667398650135!3f256.6425586591691!4f-13.401732960060997!5f3.305055387590511" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563339026!6m8!1m7!1sNXesZKRLgCzcIB8wCp9-iA!2m2!1d37.51537911192707!2d22.33591622603271!3f37.508783116613245!4f-19.415190938025546!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+看板の背景がオレンジなのは北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
+<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
+<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
 </div>
 
 {{% /tab %}}

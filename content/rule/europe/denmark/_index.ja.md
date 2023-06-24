@@ -49,7 +49,7 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 丸いカーブのパイプが多い。通り名の看板も丸いパイプ。オランダなどはパイプが四角いことが多い。<span class="quiz">～vej</span>はデンマーク語で～通りの意味{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="800" height="545" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="80%" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
