@@ -25,10 +25,10 @@ additional_link:
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fi</span></li>
         <li>北欧で横断歩道が<span class="quiz">5</span>本はフィンランド</li>
-        <li>標識の背景色に<span class="quiz">オレンジ色</span>が多い{{% by %}}</li>
-        <li>速度標識の背景が<span class="quiz">オレンジ色</span>なのはフィンランドとスウェーデン</li>
+        <li>標識の背景色に<span class="quiz">オレンジ</span>色が多い{{% by %}}</li>
+        <li>北欧で速度標識の背景がオレンジ色なのはフィンランドと<span class="quiz">スウェーデン</span></li>
         <li>通り名に<span class="quiz">～tie</span>が多い</li>
-        <li>フィンランドは速度標識の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}</li>
+        <li>フィンランドは標識に黄色の細い縁が<span class="quiz">ある</span>{{% by "usumdensetu" "twitch" %}}</li>
         <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
         <li>会社名に株式会社という意味である「<span class="quiz">Oy</span>（osakeyhtiöの略）」と付いている</li>
         <li>Passing place（車の待避所）の看板がフィンランドだけ<span class="quiz">矢印</span></li>
