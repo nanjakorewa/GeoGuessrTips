@@ -106,3 +106,10 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>タクシーに緑色のステッカーがあると<span class="quiz">キト</span>かも（by ギガバイトさん）</li>
+    </ul>
+</div>
