@@ -22,8 +22,9 @@ jogmec_detail: true
     <ul class="rule-list">
         <li>①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも</li>
         <li>②電柱に細い<span class="quiz">黄色い</span>線が<span class="quiz">3</span>本あるとカリフォルニア。ハワイのものは太目の1本。</li>
-        <li>③？</li>
+        <li>③アラスカ州を含む寒い地域では消火栓にスノーポールがありがち</li>
         <li>④アラスカ州のウナラクリートでは帽子が見える</li>
+        <li>⑤アラスカ州のノームでも帽子が見える</li>
     </ul>
 </div>
 
@@ -69,6 +70,13 @@ jogmec_detail: true
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686245099455!6m8!1m7!1sjkFELdwd1XW5sr_56n5IaQ!2m2!1d63.87446118866169!2d-160.789903048111!3f345.06731165755303!4f-8.73234172381315!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686245129302!6m8!1m7!1s9NRErfz7eaaMGdb0FRRVCA!2m2!1d63.87834246866177!2d-160.7921398328468!3f174.01267664820776!4f-11.466387670195616!5f1.0570056916623791" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "⑤ノーム" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687660334794!6m8!1m7!1sfFDREttJlBnjAIEuqwI2mA!2m2!1d64.49894292088125!2d-165.3920272980475!3f29.096187983306532!4f-25.581801942066647!5f0.6855177162278969" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687660441729!6m8!1m7!1sAbTBOCmLUTGF4ek9H4ekiQ!2m2!1d64.50217182732673!2d-165.3977989531481!3f265.6990036459445!4f-17.77386952578705!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
