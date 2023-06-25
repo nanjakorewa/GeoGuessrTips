@@ -215,13 +215,31 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 この木は<span class="quiz">セアラー</span>州周辺
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "ババスの木" %}}
+{{% tab "ババス" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-07-20-45-47.png" />
 </div>
 
 {{% notice tip %}}
 ピアウイ州と<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}に多く、それ以外でも南側全域で見られる
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "シアグルス・コロナタ" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Syagrus coronata 12zz.jpg" width="70%"></a></p><p>By Photo by David J. Stang - source: David Stang. First published at ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Link</a></p>
+</div>
+
+{{% notice tip %}}
+Syagrus coronataはペルナンブコ州の南部からバイーア州に分布する、ブラジル東部で見ることができる木。バイーアが多いかも。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "アサイー" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Euterpe precatoria (19866677541).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> from Gibsons, B.C., Canada - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Link</a></p>
+</div>
+
+{{% notice tip %}}
+アサイゼイロ(açaizeiro)はパラ―州に多い{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}。特にアマゾン川流域やマラジョー島の周りに多いらしい{{% ref "https://acaibowl.theshop.jp/blog/2015/10/23/165319" "アサイーボウル専門店　EMPORIO EXPRESS代官山" %}}。
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
