@@ -69,7 +69,7 @@ By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使い北海周辺の寒い地域で同じ色の国はない（ヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など）。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で同じ色の国はない（同じ色の国はヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など）。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/UK_traffic_sign_515.svg" width="322px" style="margin-right:1em;">
