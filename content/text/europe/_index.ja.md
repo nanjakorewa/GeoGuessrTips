@@ -11,7 +11,6 @@ bg: "bg/text.jpg"
 add_rule_link: true
 ---
 
-## 北欧
 
 <div class="googlemap-if">
 <table class="word-list">

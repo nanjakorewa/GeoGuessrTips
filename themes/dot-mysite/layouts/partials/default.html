@@ -174,6 +174,19 @@
         </div>
           {{ else }}
           {{ partial "share" . }}
+
+          <!-- sc_area -->
+          {{ if .Params.sc }}
+          <div class="sc_area">
+            <ul>
+              <li class="sc-title"><button class="button-sc bg-white-button" role="button"><i class="far fa-question-circle link-title-button"></i>{{ .Params.sc_title }}</button></li>
+            {{ range $index, $element := .Params.sc }}
+              <li><a href="{{ (index $element 0) }}"><button class="button-sc bg-black-button" role="button">{{ (index $element 1) }}</button></a></li>
+            {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
           {{ if .Params.map_index }}
           <div class="areamap-container {{ .Params.additional_map_class }}">
             <div class="container">

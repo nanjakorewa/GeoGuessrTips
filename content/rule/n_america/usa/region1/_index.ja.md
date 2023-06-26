@@ -21,7 +21,7 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <ul class="rule-list">
         <li>①分数が書かれた標識はウェストバージニア州かも{{% by "now_and_jenn" "twitch" %}}</li>
-        <li class="no-evidence">②石壁で囲われたエリアはニューヨーク周辺で見ることが多い{{% by "now_and_jenn" "twitch" %}}
+        <li class="no-evidence">②石壁で囲われたエリアはニューイングランド州、特にニューヨーク周辺で見ることが多い{{% by "now_and_jenn" "twitch" %}}
         <ul>
             <li>調べた限り出てきたソース『ニューイングランド州、特にニューヨーク州の謎の一つは、この地域全体を飾る数キロに及ぶ石のフェンスです。...』{{% by "https://www.zmanmagazine.com/PDF/Stone%20Walls.pdf" "web" "New York's Stone Walls" %}}</li>
         </ul>

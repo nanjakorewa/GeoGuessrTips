@@ -11,7 +11,8 @@ bg: "bg/st.jpg"
 
 <br />
 
-## 表記の種類
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/yo1hkz/i_made_a_resource_for_words_and_suffixes_that_you/">I made a resource for words and suffixes that you see on street signs across Europe. Please comment any corrections or additions you think I should make. Thanks!</a><br> by      <a href="https://www.reddit.com/user/MikeKrombopulos">u/MikeKrombopulos</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 <div class="main-description">
 <ul>
