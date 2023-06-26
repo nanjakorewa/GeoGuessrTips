@@ -37,7 +37,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず。
+ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず。ただしごく稀に{{% goto "../greece/" "ギリシャ" %}}でも見かける（例：<a href="https://goo.gl/maps/FJayswExjMNisNedA">①</a>）。
 {{% /notice %}}
 <div class="googlemap-if">
 <div class="googlemap-if unclickable">
