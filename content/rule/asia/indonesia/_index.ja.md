@@ -119,7 +119,6 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682938301102!6m8!1m7!1sdYEeE8gVCRptDkjFd5fe9Q!2m2!1d2.662348501697962!2d98.93671843359715!3f133.78090796184347!4f9.592033970520475!5f1.6742346439568223" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682938730523!6m8!1m7!1sQd2wepuKWn-I4-eMX7-cyg!2m2!1d2.33148254006605!2d99.09119100972214!3f101.99213106690989!4f9.086701111479059!5f1.5669698120421591" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
