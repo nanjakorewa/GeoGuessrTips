@@ -42,27 +42,26 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とりわけ電柱が黒と黄色で塗られていたらコロンビアを考えてみる。とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}。
+<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とりわけ電柱が黒と黄色で塗られていたらコロンビアを考えてみる。画像は<a href="https://commons.wikimedia.org/wiki/Category:Utility_poles_in_Quintana_Roo#/media/File:Mucho_OXXO_-_Playa_del_Carmen_QR_-_Nov_2020.jpg">ここ</a>のCC0画像。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686968476108!6m8!1m7!1sTFInio-SlXCJKGkmSOrU9w!2m2!1d27.44366976390157!2d-99.52641789158689!3f54.69255634713712!4f-6.965929188309502!5f2.8177842970614426" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./pole.png" width="90%">
 </div>
 
 {{% notice tip %}}
-矢印がなんか太い気がする（自作なので正確な図ではないです）。
+とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}。また矢印がなんか太い気がする（自作なので正確な図ではないです）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/arrow.png" width="90px">
+<img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
+<img src="./r/arrow.png" width="90px" style="margin-left:20px">
 </div>
 
 
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681038190947!6m8!1m7!1s9nAl0N31Ju0CBkdr4voz_A!2m2!1d21.87217575161593!2d-102.3095089272366!3f242.0139138779507!4f-14.54817443941107!5f1.606254004703728" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679459072284!6m8!1m7!1s8PmLY24JPH4SftL8hA2CZA!2m2!1d25.75251926645027!2d-100.3004127618978!3f93.71490274714154!4f-1.98958654281806!5f3.2793573082848697" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681001959331!6m8!1m7!1sxAM4-ZNdAtGAwJFYsrGxRQ!2m2!1d27.43836612238844!2d-99.49859360331283!3f213.0166319742502!4f-6.839769541205769!5f3.314171391274682" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681001887650!6m8!1m7!1sm37ENm7cZoTUk_9QmdELmg!2m2!1d27.44392882621393!2d-99.52223275917264!3f200.2997580111676!4f-7.532300258326686!5f1.208598839741584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}

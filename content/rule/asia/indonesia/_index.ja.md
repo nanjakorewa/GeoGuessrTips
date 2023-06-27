@@ -99,6 +99,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li class="no-evidence">地域ごとに建物が違う{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
+        <li>{{% goto "https://www.plonkit.net/indonesia" "plonkitのインドネシアのページ" %}}が詳しいのでこれを見る</li>
     </ul>
 </div>
 
