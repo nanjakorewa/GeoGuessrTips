@@ -46,15 +46,6 @@ sc: [
 </div>
 
 {{% /tab %}}
-{{% tab "w-viecle" %}}
-{{% notice tip %}}
-タクシーの色の塗り方が独特
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681666201990!6m8!1m7!1s0PySAhagHJmpd_odmIB2sQ!2m2!1d5.613260567372168!2d-0.1899246145681508!3f200.86865644773536!4f-6.427197233007831!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681666174380!6m8!1m7!1s3JVfKT1FhkpfejQXYlClHQ!2m2!1d5.615006024678369!2d-0.1910441047751256!3f251.94097163297292!4f-30.137321628737517!5f1.4059493736242406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 
@@ -73,7 +64,7 @@ sc: [
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="./20230522-palm.png" width="40%" />
+<img src="./20230522-palm.png" width="70%" />
 </div>
 {{% notice tip %}}
 アブラヤシやバナナの木は南部に多い

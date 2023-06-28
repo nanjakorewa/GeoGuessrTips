@@ -22,10 +22,11 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cz</span></li>
         <li>ボラードは<span class="quiz">黒い領域に反射板が2枚</span></li>
-        <li>チェコ語の母音クロウジェク<span class="quiz">「Ů・ů」</span>が文字に含まれる</li>
+        <li>チェコ語の母音クロウジェク<span class="quiz">「Ů・ů」</span>があるならチェコ</li>
+        <li>「<b>Ř</b>」なら<span class="quiz">チェコ</span>・「<b>Ŕ</b>」なら<span class="quiz">スロバキア</span></li>
         <li>チェコとスロバキアのみthin-B profileと呼ばれるガードレールを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
+        <li>チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップが<span class="quiz">ある</span>ならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
         <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
-        <li>チェコかスロバキアのどちらか分からないとき<span class="quiz">標識のポールに黒いキャップ</span>があったならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
         <li>チェコと{{% goto "../slovakia/" "スロバキア" %}}は２本の電柱をひとつにまとめた電柱がある</li>
     </ul>
     {{% rd europe czechia verysmall %}}
@@ -59,7 +60,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-こんな感じの標識を使用する（パブリックドメインの画像より）。スロバキアは矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。
+こんな感じの標識を使用する（パブリックドメインの画像より）。スロバキアは矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -68,10 +69,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-主に色が付いている看板について、<span class="quiz">チェコ</span>の標識は背景色と同じ縁がある時が多いが<span class="quiz">スロバキア</span>はない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
+主に色が付いている看板について、チェコの標識は背景色と同じ縁がある時が多いがスロバキアはない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
 上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>。
 {{% /notice %}}
-<div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
+<div class="googlemap-if unclickable" style="background-color:#444; padding-top:35px;margin-bottom:0;;border-radius:20px;">
 <div class="googlemap-if unclickable" style="margin-bottom:0;">
 <img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
 <img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />

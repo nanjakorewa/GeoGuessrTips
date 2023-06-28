@@ -60,16 +60,21 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい（左の～RUEと書かれた小さい看板）{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。
+黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい（左の～RUEと書かれた小さい看板）{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う。自作の図なので縮尺・フォントは正確でないかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="unclickable"><img src="./r/Luxembourg_road_sign_diagram_E_1_a1.gif" width="317px" /></div>
 </div>
+<div class="googlemap-if unclickable">
+<img src="./r/lx-routesign.png" width="150px"/>
+<img src="./r/route-sign-2.png" width="200px" style="margin:3px" />
+</div>
+
 
 
 {{% notice tip %}}
-隣接している国で<span class="quiz">黄</span>色のシェブロンを使う国がない。ベルギー・オランダ・ルクセンブルグで迷っているときに<span class="quiz">黒</span>背景に<span class="quiz">黄</span>色のシェブロンをみたらルクセンブルグの可能性が高い。左がルクセンブルグ、右の赤白が{{% goto "../belgium" "ベルギー" %}}・{{% goto "../netherlands/" "オランダ" %}}など。フランスには白赤のほかに青白のものもある。
+隣接している国で<span class="quiz">黄</span>色のシェブロンを使う国がない。ベルギー・オランダ・ルクセンブルグで迷っているときに暗い色の背景色に<span class="quiz">黄</span>色のシェブロンをみたらルクセンブルグの可能性が高い。左２つがルクセンブルグ、右の赤白が{{% goto "../belgium" "ベルギー" %}}・{{% goto "../netherlands/" "オランダ" %}}など。フランスには白赤のほかに青白のものもある{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#555;padding-top:30px;margin-bottom:0;border-radius:20px">
 <img src="./r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:10px">
