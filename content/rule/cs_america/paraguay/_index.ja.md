@@ -21,7 +21,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.py</span></li>
-        <li class="no-evidence">出題されない</li>
+        <li class="no-evidence">Google公式のカバレッジは国境ギリギリでパラグアイ側の道路を走った場合を除いて無い</li>
     </ul>
 </div>
 
@@ -31,6 +31,7 @@ sc: [
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683487192052!6m8!1m7!1sIRbpuu_Sa_eR0eKVHsykOw!2m2!1d-25.40866026457559!2d-54.58955083357984!3f270.35716398823723!4f8.433285000610212!5f1.4070310657499792" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687922020436!6m8!1m7!1sSVDJ3vfvRoHYrFTwyMWFgw!2m2!1d-22.53828353996352!2d-55.73145416857376!3f154.8663524677843!4f-11.101388746016667!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
