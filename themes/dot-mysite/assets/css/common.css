@@ -89,6 +89,10 @@ div.notices:first-child {
   margin: 0 !important;
 }
 
+div.notices a:hover {
+  text-decoration: underline !important;
+}
+
 div[title="わかりやすい目印"] div.notices {
   margin: 4em 0 0 0!important;
 }
@@ -1107,4 +1111,12 @@ img.width100 {
 img.maxheight150 {
   height: 140px;
   max-height: 140px;
+}
+
+
+a.a-openmap::after {
+  font-family: "Font Awesome 5 Free";
+  content: "\f279";
+  margin-left: 0.2em;
+  margin-right: 0.1em;
 }

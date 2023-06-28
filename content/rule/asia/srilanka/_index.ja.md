@@ -85,3 +85,29 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">シンハラ語・タミル語の使われ方でおよその地域が分かるかも</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "言語の分布" %}}
+{{% notice tip %}}お店の広告看板や電話番号付近の連絡先などが書かれた場所でタミル語・シンハラ語のどちらかしか書かれていない時（例<a href="https://goo.gl/maps/47BE1r4MRMJFBihJ6" class="a-openmap">①シンハラ語/一番南部</a>・<a href="https://goo.gl/maps/ArY7zHhPXyXmsjNu5" class="a-openmap">②タミル語/一番北部</a>）、その言語がよく使われる地域の可能性がある。下の図の赤・黄がタミル、紫がシンハラ語圏。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p style="pointer-events: none;"><a href="https://commons.wikimedia.org/wiki/File:Sri_Lanka_-_Ethnicity_2012.png#/media/File:Sri_Lanka_-_Ethnicity_2012.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sri_Lanka_-_Ethnicity_2012.png" alt="Sri Lanka - Ethnicity 2012.png" width="70%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24581132">画像のソース(Link)</a></p>
+</div>
+
+<div class="googlemap-if">
+<table class="word-list">
+<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
+<tr><td><span style="color:red;font-weight:bold;">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span style="color:purple;font-weight:bold;">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+</table>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

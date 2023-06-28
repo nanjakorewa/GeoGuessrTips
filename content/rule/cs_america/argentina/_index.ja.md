@@ -113,6 +113,21 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>アルゼンチンの最も北東の角と最も北西の角はブラジルっぽい</li>
+    </ul>
+</div>
+
+
+{{% tabs  %}}
+{{% tab "タクシー" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/riveranotario/45976752282/in/photolist-2d3NSDy-9Go4Co-Lzh53z-Ws7BLU-2aRzgdy-G8WQxG-22KUc9m-9nqcyL-7kwjgP-7kAjgs-7kwmbk-7HHJn9-epnFi-3rvdTF-cBgdo-RaLBfP-56L1Sn-PjVZfP-8JnaEC-2jcxrds-21zoscZ-65Nedh-65HWGT-2ddhaDC-7KB2vb-6EmDEC-VzKC2m-29mLvHJ-2mnUTPm-9Y7foB-2dQmz3v-SsWEZS-bkrkok-5cxceB-xbHF8-6CyvNX-4boV6X-zLJDz7-2nhTvxx-2jeCLvY-ZvtW9-9jZSB1-xiPQF-6oh7dm-22PwZma-2oiFzVn-2jfPw8G-7YoZcp-218dFeg-6QxPgH" title="Renault Fluence Taxi Buenos Aires"><img src="https://live.staticflickr.com/4828/45976752282_a4941a046b_z.jpg" width="640" height="427" alt="Renault Fluence Taxi Buenos Aires"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>

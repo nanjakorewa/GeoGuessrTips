@@ -43,8 +43,7 @@ sc: [
 <span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679418739199!6m8!1m7!1s8LPLnNIXlbAhWGe6igV6LA!2m2!1d0.499575846590895!2d101.4575006937433!3f73.38401826115813!4f7.14178486471836!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681122823859!6m8!1m7!1s7byCkW0xEA5uzEdbFRHuPg!2m2!1d-7.277122663255537!2d112.8048891220813!3f14.541064942612202!4f5.241205322196677!5f3.1190796277333193" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Jakarta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
@@ -140,5 +139,56 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683548263543!6m8!1m7!1sxFmhhcGFOCSgqWTF7jUwjg!2m2!1d-5.067845559846503!2d119.5146085088659!3f232.43175755263172!4f9.15217011915395!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683548328370!6m8!1m7!1st81tpun3GGHYbd9D_HOimw!2m2!1d-5.116586927731915!2d120.2633975944878!3f0.471829259376808!4f32.39688387127845!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>農作物の分布が地域ごとに異なる
+            <ul>
+                <li>コメ：確率的にはジャワ島（50％超）だが全域に見られる</li>
+                <li>コーン：田んぼとコーン畑が同時にあるならキットジャワ島に行っていいと思う</li>
+                <li>アブラヤシ：南側・スラウェシ島にはプランテーションが無い</li>
+                <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=ID">U.S. Indonesia Production Country Summary(U.S. Department of Agriculture)</a></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-06-29-00-47-26.png" width="90%"/>
+</div>
+
+{{% notice tip %}}
+確率的にはジャワ島（50％超）だが全域に見られる。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-06-29-00-49-42.png" width="90%"/>
+</div>
+
+{{% notice tip %}}
+田んぼとコーン畑が同時にあるならキットジャワ島に行っていいと思う。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687967345178!6m8!1m7!1sslYJglqC9bYjTlFKjuqV0A!2m2!1d-7.573964609193962!2d112.3082058903186!3f86.78796272542473!4f-8.161422261641235!5f1.7448217700337718" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "アブラヤシ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-06-29-00-50-42.png" width="90%"/>
+</div>
+
+{{% notice tip %}}
+南側・スラウェシ島にはプランテーションが無い。プランテーションと合わせてジャウィ文字があったならばリアウ州に行ってみる？
+{{% /notice %}}
+
 {{% /tab %}}
 {{% /tabs %}}
