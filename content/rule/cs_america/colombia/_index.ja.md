@@ -42,10 +42,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。またペルーは他の色（緑・白）の車も存在する。
+ナンバープレートは<span class="quiz">前後共に黄色</span>。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。またペルーは他の色（緑・白）の車も存在する。道端の有刺鉄線が3～4本張られた木の柵も多く見られる。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682383623508!6m8!1m7!1s29qN_XS1bQGva1Cz1qzQmw!2m2!1d3.397181136965457!2d-76.52331159160653!3f189.20731516405695!4f-5.175574065770988!5f3.165056286722071" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/padawan72/3780843859/" title="Antioquia"><img src="https://live.staticflickr.com/3465/3780843859_c8d80e4f11_z.jpg" width="640" height="480" alt="Antioquia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
