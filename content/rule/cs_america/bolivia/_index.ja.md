@@ -50,8 +50,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683774834268!6m8!1m7!1suoXnmS9fLRNADAsmJ7ch8A!2m2!1d-16.51913097011427!2d-68.15622418335899!3f258.72280101310696!4f-18.422465136029203!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683775056915!6m8!1m7!1s94m-_4vpGxvViTQLnWuZhw!2m2!1d-19.02987184753962!2d-65.26318415434697!3f314.9703858494234!4f-13.43839849590482!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/147702203@N06/31566518493/in/photolist-Q6qEbR-5KgsLY-n7SDy7-EJsqo9-9vnsjx-7fa5R-c3zEnG-cUVQd-JUhBt-e3jSxs-R8nv4n-21Ga8JQ-BMyySC-gJJ1Wg-qQYYSN-sarZiv-YAwYgS-kqY1bi-2cFZyy2-drFzXP-2cYNfRh-PeWTQS-EKFT64-qsvNe1-p2GKve-Qjwg6M-3kcewF-85NQT5-at42ow-ddwTdJ-dKPpZe-bzEusq-717UGP-216ewiv-H5hnpt-zVuUxs-bzEu1w-accaUu-pt2ARA-24XMhQ9-86bY3s-du3Hkn-bQ4zgF-qWQc3w-dz2HDW-bp1cQL-Q3CxsW-po7Nrq-868Fmg-aT2WiK" title="La Paz - Bolivia"><img src="https://live.staticflickr.com/518/31566518493_c9d54c7c4c_z.jpg" width="640" height="480" alt="La Paz - Bolivia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}

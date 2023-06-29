@@ -112,12 +112,11 @@ sc: [
 <div class="main-desciption city-description">
     <ul class="rule-list">
         <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
-        <li>ナンバープレートの色で町が分かることがある</li>
     </ul>
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "コプラ" %}}
 
 {{% notice tip %}}
@@ -134,7 +133,34 @@ Guerreroの海沿いにのみココヤシのプランテーションが存在す
 
 
 {{% /tab %}}
-{{% tab "Nayaritのナンバープレート" %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>ナンバープレートの色で町が分かることがある
+            <ul>
+                <li>Jalisco：上が黄色で下が<span class="quiz">水</span>色</li>
+                <li>Nayarit：右下が<span class="quiz">赤</span>色</li>
+                <li>Chiapas：真ん中が<span class="quiz">橙</span>色</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Jalisco" %}}
+{{% lb 50 %}}
+![](2023-04-17-17-15-35.png)
+
+Public Domain
+{{% /lb %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/irvmark/273366334/in/photolist-qa5hE-pnxCv-qaa9G-qa7tC-dHmjnJ-f54uhn-23jMwsv-q9RYN-aSpcNH-qvnkBH-aSo66v-aSghV4-4SPnzY-aSg3ip-aSo1dk-aSg5GF-M1cdkh-dHgiFa-6sjFss-2fmSGaf-aSg9tM-dHhaCt-aSgiZx-QTbBa4-dHnAC7-MvQjqz-4xDjtV-q5i2K2-pFo7G-qaeR7-rNmYf-qabud-dHmUbo-qaqJY-5NkZbY-q9TV1-ejX2wq-f5zyK6-5hDw98-pFqPK-pyBrKp-pFRvdt-qa9h3-pFBNip-vP7m5D-bLnYoi-bqB1pm-28sym39-oK12ed-8SsZ1j" title="Expo 2006"><img src="https://live.staticflickr.com/106/273366334_8f2030bf93.jpg" width="500" height="375" alt="Expo 2006"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "Nayarit" %}}
 {{% lb 50 %}}
 ![](2023-04-17-17-02-35.png)
 {{% /lb %}}
@@ -146,18 +172,9 @@ Guerreroの海沿いにのみココヤシのプランテーションが存在す
 </div>
 </div>
 {{% /tab %}}
-{{% tab "Jaliscoのナンバープレート" %}}
-{{% lb 50 %}}
-![](2023-04-17-17-15-35.png)
-
-Public Domain
-{{% /lb %}}
-
+{{% tab "Chiapas" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681719352208!6m8!1m7!1spn0dOi8NviCruhvOcfFU6Q!2m2!1d20.66214401084474!2d-103.3539136619186!3f275.4124592924797!4f-6.463612869127061!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">
-上が黄色で下が水色、ただ他の町にも結構走っている？
-</div>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688040917873!6m8!1m7!1sit7obQ-mnLT8XqT1rr5Bsg!2m2!1d15.34044894635397!2d-92.99091741501793!3f66.65401088740333!4f-8.327155137592257!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
