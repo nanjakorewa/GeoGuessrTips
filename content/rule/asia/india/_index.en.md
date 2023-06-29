@@ -129,17 +129,19 @@ Even if the soil is red, if there are steep mountains and forests all around, co
     <th>language-name</th> <th>writing</th>
 </tr>
 <tr><td><span class="quiz">English</span></td><td>Japanese Restaurant</td></tr>
-<tr><td><span class="quiz">Japanese</span></td><td>日本料理レストラン</td></tr>
-<tr><td><span class="quiz">Sinhalese</span></td><td>ජපන් අවන්හල</td></tr>
 <tr><td><span class="quiz">Assamese</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
 <tr><td><span class="quiz">Kannada</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
 <tr><td><span class="quiz">Gujarati</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
 <tr><td><span class="quiz">Tamil</span></td><td>ஜப்பானிய உணவகம்</td></tr>
 <tr><td><span class="quiz">Bengali</span></td><td>জাপানি রেস্তোরা</td></tr>
 <tr><td><span class="quiz">Hindi</span></td><td>जापानी रेस्टोरेंट</td></tr>
-<tr><td><span class="quiz">Khmer</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
-<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
-<tr><td><span class="quiz">Thai</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+<tr><td><span class="quiz">Telugu</span></td><td>జపనీస్ రెస్టారెంట్</td></tr>
+<tr><td>---</td><td>---</td></tr>
+<tr><td>Japanese</td><td>日本料理レストラン</td></tr>
+<tr><td>Thai</td><td>ร้านอาหารญี่ปุ่น</td></tr>
+<tr><td>Sinhalese</td><td>ජපන් අවන්හල</td></tr>
+<tr><td>Lao</td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td>Khmer</td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
 </table>
 </div>
 

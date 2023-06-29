@@ -1113,10 +1113,53 @@ img.maxheight150 {
   max-height: 140px;
 }
 
-
 a.a-openmap::after {
   font-family: "Font Awesome 5 Free";
   content: "\f279";
   margin-left: 0.2em;
   margin-right: 0.1em;
+}
+
+img.img-top-slider {
+  height: 80px;
+  margin: 5px;
+}
+
+@keyframes infinity-scroll-left {
+  from {
+    transform: translateX(0%);
+  }
+  to {
+    transform: translateX(-90%);
+  }
+}
+
+_:-ms-lang(x)::-ms-backdrop,
+.d-demo {
+  display: -ms-grid;
+  overflow: hidden;
+}
+
+.flag-scroller__wrap {
+  display: flex;
+  overflow: hidden;
+}
+
+.flag-scroller__list {
+  display: flex;
+  list-style: none;
+  align-items: center;
+  margin-bottom: 13px;
+}
+
+.flag-scroller__list{
+animation :infinity-scroll-left 180s infinite linear 0.5s both;
+}
+
+.demo__wrap:hover .flag-scroller__list{
+  animation-play-state: paused;
+}
+
+.flag-scroller__item {
+  width: calc(100vw / 6);
 }

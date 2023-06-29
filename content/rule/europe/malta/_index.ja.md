@@ -51,3 +51,41 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>通り名のプレートにある紋章を見れば地域が分かるけれど小さい国なので覚えるメリットは少ない</li>
+        <li>基本的に西の標高が高く東の標高が低い</li>
+        <li>港に多く船が泊まっているならば恐らく東側の港</li>
+        <li>最南部のBirżebbuġaあたりはコンテナやタンクが多い{{% ref "https://en.wikipedia.org/wiki/Bir%C5%BCebbu%C4%A1a" "Wikipedia - Birżebbuġa" %}}</li>
+    </ul>
+</div>
+
+
+
+{{% tabs  %}}
+{{% tab "通り名の紋章" %}}
+{{% notice tip %}}
+Rabatの町の紋章
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688016496533!6m8!1m7!1s6wNHZYY4zm1wKWBe2t6Uvg!2m2!1d35.87682620465242!2d14.39919741634585!3f35.53437489022956!4f12.242743299431226!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div style="margin:30px;pointer-events:none;">
+<img src="malta-cityflag.png" width="275px">
+</div>
+</div>
+{{% /tab %}}
+{{% tab "標高図" %}}
+{{% notice tip %}}
+船が港にたくさん停まっている→東側。コンテナターミナルがあるなら南部のBirżebbuġa周り。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:General_map_of_Malta.svg#/media/ファイル:General_map_of_Malta.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/General_map_of_Malta.svg" alt="General map of Malta.svg" height="433" width="502"></a></p><p style="font-size:0.7em"><a href="//commons.wikimedia.org/wiki/File:Location_Malta_EU_Europe.svg" title="File:Location Malta EU Europe.svg">Location_Malta_EU_Europe.svg</a>: *<a href="//commons.wikimedia.org/wiki/File:Location_Malta_EU_Europe.png" title="File:Location Malta EU Europe.png">Location_Malta_EU_Europe.png</a>: <a href="https://en.wikipedia.org/wiki/en:User:3meandEr" class="extiw" title="w:en:User:3meandEr">User:3meandEr</a>
+derivative work: <a href="//commons.wikimedia.org/wiki/User:Trex" title="User:Trex">Trex</a> (<a href="//commons.wikimedia.org/wiki/User_talk:Trex" title="User talk:Trex"><span class="signature-talk">talk</span></a>)
+derivative work: <a href="//commons.wikimedia.org/wiki/User:Bjankuloski06en" title="User:Bjankuloski06en">Bjankuloski06en</a> - このファイルの派生元： <a href="//commons.wikimedia.org/wiki/File:Location_Malta_EU_Europe.svg" title="File:Location Malta EU Europe.svg">Location Malta EU Europe.svg</a>:&amp;nbsp;<a href="//commons.wikimedia.org/wiki/File:Location_Malta_EU_Europe.svg" class="image"></a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25170149">リンク</a>による</p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

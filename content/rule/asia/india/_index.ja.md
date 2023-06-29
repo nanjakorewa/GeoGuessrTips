@@ -80,7 +80,6 @@ sc: [
 <tr>
     <th>言語名</th> <th>表記</th>
 </tr>
-<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
 <tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
 <tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
 <tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
@@ -90,6 +89,7 @@ sc: [
 <tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
 <tr><td>---</td><td>---</td></tr>
 <tr><td>日本</td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
 <tr><td>クメール</td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
 <tr><td>ラオ</td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
 <tr><td>タイ</td><td>ร้านอาหารญี่ปุ่น</td></tr>

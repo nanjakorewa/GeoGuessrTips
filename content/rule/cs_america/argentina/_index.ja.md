@@ -17,7 +17,6 @@ sc: [
     ["../chile/", "チリ"],
     ["../brazil/", "ブラジル"],
     ["../../n_america/usa/", "アメリカ"],
-    ["../bolivia/", "ボリビア"],
     ]
 ---
 
@@ -26,7 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>言語は<span class="quiz">スペイン語</span></li>
         <li>ドメインは<span class="quiz">.ar</span></li>
-        <li>ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span></li>
+        <li>ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span></li>
         <li>ガソリンスタンドに<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス、青色のロゴでアルゼンチンの国有石油会社）</span>のものがある</li>
         <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
     </ul>
@@ -36,13 +35,12 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">モザイクがかかった時に真ん中が黒っぽくなる</span>。
+ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681051978952!6m8!1m7!1soZxpXPspMb6iOXVTNGkt9w!2m2!1d-24.18440598366025!2d-65.30833899932463!3f180.20830277081086!4f-7.987064287665206!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679243916537!6m8!1m7!1skXH0ZX2YufIDFeblQjT7lg!2m2!1d-34.61168366232381!2d-58.39474927434688!3f173.2486401138486!4f-20.419799619250938!5f2.9561148475182564" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alejandrorecio/4609508428/in/photolist-82jWgf-DGigvC-2e19T8j-LhUi3y-2cUM5Wy-28dDCqp-Zwxotd-23K44z1-ZFGRrm-2cVHBzQ-2e6ag3z-24dFu8Q-YTRkdc-2cYGY99-2cQGMj1-23cQDQ9-2e19S9f-ZwzTMm-2cbsTGz-2dTtb2C-SCiMhU-JnbEe1-QjsPjH-DrBVEX-PCWxA2-2bKhfBf-2abhuEC-2cbheFq-rsSGBH-2e19bxw-2cQGLc1-2b9vLub-28MeL3C-YknxfV-s7LtRz-2cFWagM-26NzMDm-TCMjkb-22t5mdL-ZCA7t5-QjsQZX-CgtXbs-ZAqg4o-2bWYDws-22zaVeS-HpmiCi-2cYJhNS-RAAx9s-2ekqFkZ-27QQhBH" title="argentina"><img src="https://live.staticflickr.com/1415/4609508428_1af109dbce_z.jpg" width="640" height="427" alt="argentina"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-{{% lb 50 %}}
+{{% lb 50 small %}}
 ![](2023-04-12-11-42-57.png)
 
 By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41806860">Wikimedia Commons</a>
@@ -122,9 +120,10 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 
 
 {{% tabs  %}}
-{{% tab "タクシー" %}}
+{{% tab "北東と北西の角" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/riveranotario/45976752282/in/photolist-2d3NSDy-9Go4Co-Lzh53z-Ws7BLU-2aRzgdy-G8WQxG-22KUc9m-9nqcyL-7kwjgP-7kAjgs-7kwmbk-7HHJn9-epnFi-3rvdTF-cBgdo-RaLBfP-56L1Sn-PjVZfP-8JnaEC-2jcxrds-21zoscZ-65Nedh-65HWGT-2ddhaDC-7KB2vb-6EmDEC-VzKC2m-29mLvHJ-2mnUTPm-9Y7foB-2dQmz3v-SsWEZS-bkrkok-5cxceB-xbHF8-6CyvNX-4boV6X-zLJDz7-2nhTvxx-2jeCLvY-ZvtW9-9jZSB1-xiPQF-6oh7dm-22PwZma-2oiFzVn-2jfPw8G-7YoZcp-218dFeg-6QxPgH" title="Renault Fluence Taxi Buenos Aires"><img src="https://live.staticflickr.com/4828/45976752282_a4941a046b_z.jpg" width="640" height="427" alt="Renault Fluence Taxi Buenos Aires"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688026210276!6m8!1m7!1syVGw6km5sYPb2ZoI-NmLNA!2m2!1d-22.19959572732366!2d-63.65727912927424!3f266.3008796403948!4f0.3376384477199821!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688026231569!6m8!1m7!1srf2TnRyJlxILs8ceAblHfQ!2m2!1d-27.01061822806514!2d-54.52182362922331!3f244.9897857196307!4f2.6680916931539542!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
