@@ -11,7 +11,6 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-is_has_distinctive_googlecar: true
 sc_title: "間違えやすいページ"
 sc_icon: rel
 sc: [
