@@ -37,11 +37,17 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りが無い。
+電柱のへこんでいる領域に区切りが無いか、ひとつだけ下の方に区切りがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680517458421!6m8!1m7!1sj87a2602lDx_7xK8XCx7mA!2m2!1d-41.31807605187193!2d-72.98315785097451!3f143.22033753587303!4f-0.9517441916076734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564909201!6m8!1m7!1sX12oSDuYLiuvWYOCX5t0ig!2m2!1d-36.6096391248477!2d-72.09410614111412!3f129.0225067750198!4f-3.3053151328567054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="unclickable">
+<img src="./pole-example.png" width="199px" height="640px">
+</div>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="IMG_8443"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if" style="font-size:0.8em; margin-top:0; padding-top:0;">
+左側画像：By <a rel="nofollow" class="external text" href="https://www.panoramio.com/user/jorgebarrios">Jorge Barrios</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9625972">Link</a>より, 一部加工あり.
 </div>
 
 
