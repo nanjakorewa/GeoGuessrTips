@@ -21,7 +21,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ua</span></li>
         <li>横断歩道の標識は<span class="quiz">3本</span></li>
         <li>GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも？{{% by %}}</li>
-        <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。</li>
+        <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い。逆にёはロシア語にはあるがウクライナ語にはない。</li>
         <li>ナンバープレートの左が<span class="quiz">水色と黄色</span></li>
     </ul>
     {{% rd europe ukraine verysmall %}}

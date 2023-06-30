@@ -36,7 +36,7 @@ sc: [
 後ろのナンバープレートは<span class="quiz">右側が黄色</span>
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680190151176!6m8!1m7!1sLLYA62S1F9vPgw8V8BJ3FQ!2m2!1d38.84109123563934!2d-9.102250880253743!3f6.690803991970208!4f-10.020837888203957!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/skateboy075/15721632063/in/photolist-pXgttM-9rRX7F-2o7Da8s-2hB4vuV-V98gib-Dsvxo7-JAvJRi-27apmrJ-2nB6Tz1-2jiF9yy-XbRNau-5Vn7in-2d3R7zA-zcG3Sj-2mkMWA1-2htQJiV-23XQ3ym-2jgcbqs-5vpY63-2n1Z1bB-2nStz51-2nusnn7-FBktfd-2hB4vtT-H92Z86-vNArwW-2ntceEJ-2nZtLEm-2mj5deM-E2eQgr-2aNPngq-2nvuLpc-2fYmpmD-2jGSiun-2iRk4X4-2m88kpe-2eVt9vt-2nAhJVG-2iTpjPP-2jqv3zv-Kgewku-29UhgQM-2jGP1ya-2ed9Lz6-Li62nf-xuxELC-H9SWhu-JtTodw-2nG5y6w-2kAFWop" title="2401 - ponta delgada, portugal"><img src="https://live.staticflickr.com/8592/15721632063_efcfcd707c_z.jpg" width="90%" alt="2401 - ponta delgada, portugal"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-00-36.png)
