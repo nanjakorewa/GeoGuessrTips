@@ -44,7 +44,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。矢印はアルバニアと同じく黒背景に白矢印が多く（例<a href="https://goo.gl/maps/GSDxZX4vo9HZRHRE8">①</a>）赤白のものもある（例<a href="https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7">①</a>・<a href="https://goo.gl/maps/md7cEoNdNBSKD13S7">②</a>）。
+看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。ただし一時的に設置した看板などでオレンジ背景のものは他の国でも見られるのでオレンジだからと即決はできないと思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -52,6 +52,10 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
 </div>
+
+{{% notice tip %}}
+矢印はアルバニアと同じく黒背景に白矢印が多く（例<a href="https://goo.gl/maps/GSDxZX4vo9HZRHRE8">①</a>）赤白のものもある（例<a href="https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7">①</a>・<a href="https://goo.gl/maps/md7cEoNdNBSKD13S7">②</a>）。
+{{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
 <img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
@@ -70,12 +74,17 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679482227397!6m8!1m7!1s-_YX9OU-_d_1nMNO_tmWWw!2m2!1d37.96493530525935!2d23.74940432877799!3f195.2890261192887!4f1.6281484979047463!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ボラード" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688107287211!6m8!1m7!1sHdi9HUClHPbNuAzlaXse3A!2m2!1d40.40659520651187!2d21.32464355017767!3f253.07489613825066!4f-34.212844418528455!5f2.8722551534471177" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688107152207!6m8!1m7!1sCcML3GNqdlwlkSt5YCaFBQ!2m2!1d41.28769137666923!2d22.93970614357949!3f57.35025114807158!4f-9.105558133964138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "w-plant" %}}
-{{% notice tip %}}
-オリーブ？
-{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681563271945!6m8!1m7!1sRBOj8Df-u8IoEDERm8jIRA!2m2!1d38.09957462407244!2d23.65938358353345!3f190.99156130230284!4f-0.4026614639561217!5f0.8570811876639206" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688107444382!6m8!1m7!1s6Prr51HExKppM8weWumh7g!2m2!1d37.08004996507277!2d25.54043620673971!3f255.69523454910913!4f-5.993340603505331!5f1.0003527211606977" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

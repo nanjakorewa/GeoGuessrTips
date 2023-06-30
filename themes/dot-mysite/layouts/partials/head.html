@@ -46,7 +46,10 @@
   {{ "<!-- fonts -->" | safeHTML }}
   <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet">
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
+
+  {{ if .Params.flag }}
   <script src="https://www.google.com/recaptcha/api.js?render=6LePkSElAAAAAJUYutRMNkNu0S7jNVhjTD4dHy1V"></script>
+  {{ end }}
 
   <style>
   :root{

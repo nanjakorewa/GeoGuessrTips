@@ -44,11 +44,10 @@ sc: [
 
 
 {{% notice tip %}}
-大き目の穴が空いた電柱がある。水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。
+水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。大き目の穴が空いた電柱がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684987607615!6m8!1m7!1sdIFugZIz-18TgDF0vVdcrQ!2m2!1d6.742845899138011!2d80.82898977983052!3f213.867865126139!4f-2.7445998801381535!5f3.1642101542204055" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684988210384!6m8!1m7!1srWru9p5T5gXY-ML1eTu9qw!2m2!1d9.383750066503243!2d80.40839656446202!3f309.5032342322923!4f-8.17461887515313!5f2.32202148121378" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688100035822!6m8!1m7!1svKZ1LZAISHtXxxH-m0QN5Q!2m2!1d8.946198956561048!2d79.92337812619381!3f15.549198534843864!4f-10.503286587022998!5f1.2071605491286992" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
@@ -95,7 +94,7 @@ sc: [
 
 {{% tabs %}}
 {{% tab "言語の分布" %}}
-{{% notice tip %}}お店の広告看板や電話番号付近の連絡先などが書かれた場所でタミル語・シンハラ語のどちらかしか書かれていない時（例<a href="https://goo.gl/maps/47BE1r4MRMJFBihJ6" class="a-openmap">①シンハラ語/一番南部</a>・<a href="https://goo.gl/maps/ArY7zHhPXyXmsjNu5" class="a-openmap">②タミル語/一番北部</a>）、その言語がよく使われる地域の可能性がある。下の図の赤・黄がタミル、紫がシンハラ語圏。
+{{% notice tip %}}お店の広告看板や電話番号付近の連絡先などが書かれた場所でタミル語・シンハラ語のどちらかしか書かれていない時（例<a href="https://goo.gl/maps/ArY7zHhPXyXmsjNu5" class="a-openmap" style="color:#ab1500">①タミル語/一番北部</a>・<a href="https://goo.gl/maps/47BE1r4MRMJFBihJ6" class="a-openmap" style="color:#7b36ff">②シンハラ語/一番南部</a>）、その言語がよく使われる地域の可能性がある。下の図の<span style="color:#ab1500">赤</span>・<span style="color:#686622">黄</span>が<span style="color:#ab1500">タミル語</span>、<span style="color:#7b36ff">紫がシンハラ語</span>圏。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -105,8 +104,8 @@ sc: [
 <div class="googlemap-if">
 <table class="word-list">
 <tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
-<tr><td><span style="color:red;font-weight:bold;">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
-<tr><td><span style="color:purple;font-weight:bold;">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span style="font-weight:bold;color:#ab1500;">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span style="font-weight:bold;color:#7b36ff;">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
 </table>
 </div>
 {{% /tab %}}

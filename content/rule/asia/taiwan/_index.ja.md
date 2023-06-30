@@ -34,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-道端に<span class="quiz">赤い●</span>のボラードがある（画像左下のガードレールについている）
+道端に<span class="quiz">赤い●</span>の反射板がある（例<a href="https://goo.gl/maps/ZFN7ioutx1c4HszW6">①</a>・<a href="https://goo.gl/maps/BHo9r4ZFXroc1Uxm7">②</a>・<a href="https://goo.gl/maps/vN4fPEkpVW8CHPUu7">③</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">

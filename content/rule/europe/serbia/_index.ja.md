@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.rs</span></li>
         <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
         <li>反射板が<span class="quiz">偏った薄い</span>ボラード</li>
-        <li>「<span class="quiz">Ћ・ћ</span>」はセルビア・クロアチア語にのみ登場するキリル文字{{% ref "https://ja.wiktionary.org/wiki/%D1%9B" "ћ - Wikipedia" %}}だが、ボスニア・ヘルツェゴビナはストリートビューが無いため街中でこの文字を見かけたならばセルビアの可能性が高い</li>
+        <li>「<span class="quiz">Ћ・ћ</span>」の文字を街中で見かけたならばセルビアの可能性が高い</li>
         <li>ヨーロッパで<span class="quiz">白</span>背景に<span class="quiz">黒</span>の矢印のシェブロンを使うのはここだけ</li>
     </ul>
     {{% rd europe serbia verysmall %}}
@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがある。
+「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがある。一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -63,7 +63,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白背景に黒の矢印のシェブロンはセルビア。
+白背景に黒の矢印のシェブロンはセルビアに多い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
