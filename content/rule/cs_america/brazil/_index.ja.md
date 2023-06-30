@@ -162,7 +162,6 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 地域ごとに植物も異なる。海から吹く湿った風の影響を受ける。他の地域とは森の見た目が異なる。ヤシや松のようなものが見える時がある気がする。{{% by "https://www.jifpro.or.jp/cgi-bin/ntr/documents/NET8421.pdf" "web" "ブラジル大西洋岸森林（マタ・アトランティカ）の生態及び保全" %}}。
 {{% /notice %}}
 
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682560156122!6m8!1m7!1swa_zmjlH2gqBQ2oabyLhSA!2m2!1d-22.0252523845475!2d-41.07132487765809!3f264.15454414488715!4f-1.6958916170852945!5f1.5378273234838713" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682559846434!6m8!1m7!1sEZrg2IvmS_Dpo40Li5NgwA!2m2!1d-12.27769993257875!2d-37.8820651128763!3f359.89142704476234!4f4.171539727133862!5f1.5135439780731126" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -239,6 +238,15 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 
 {{% notice tip %}}
 アサイゼイロ(açaizeiro)はパラ―州に多い{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}。特にアマゾン川流域やマラジョー島の周りに多いらしい{{% ref "https://acaibowl.theshop.jp/blog/2015/10/23/165319" "アサイーボウル専門店　EMPORIO EXPRESS代官山" %}}。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "Eucalyptus Grandis" %}}
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Eucalyptus grandis Kerewong State Forest 55 metres tall.jpg" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Link</a></p>
+</div>
+
+{{% notice tip %}}
+サンパウロ～リオグランデ・ド・スル州の沿岸付近の地域を中心にまばらに分布している{{% ref "https://www.inaturalist.org/observations?nelat=5.270047696693523&nelng=-28.65054299369068&place_id=any&subview=map&swlat=-34.08909995749887&swlng=-73.98281703987209&taxon_id=135371" "iNaturalist - Eucalyptus grandis" %}}。
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}

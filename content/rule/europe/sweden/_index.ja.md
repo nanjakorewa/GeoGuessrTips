@@ -29,6 +29,7 @@ sc: [
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本</li>
         <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある</li>
         <li>看板の矢印の形が特徴的で<span class="quiz">綺麗な▷ではない</span>{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
+        <li>通り名に<span class="quiz">gatan</span>（通り）・vägen（道）が付いている</li>
     </ul>
     {{% rd europe sweden verysmall %}}
 </div>
