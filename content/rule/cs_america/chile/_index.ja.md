@@ -52,11 +52,10 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒にも電柱のような感じの溝がある（{{% by "https://www.plonkit.net/chile" "plonkit" %}} <span style="font-size: small">とコメントで教えてもらいました</span>）
+標識の棒にも電柱のような感じの溝がある（<span style="font-size: small">コメントで教えてもらいました</span>）
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685613779031!6m8!1m7!1sQGpNknTcuFVD8u9JUTPXPA!2m2!1d-33.92383950201787!2d-71.2492240456672!3f238.21972308875198!4f-12.230186575228657!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685613868452!6m8!1m7!1snI-nNoViEQq43Iw0xEVPjQ!2m2!1d-44.32534202588542!2d-72.55720184855173!3f348.06433912694047!4f-4.991914717093707!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimsawthat/52631472071/in/photolist-2obS3ZD-2gUkuH9-2gmg3Bq-7HHjqD-iJdnC-iLodA-2gUjzG8-7JiP1j-7ky9PS-huVxio-tXnMgD-9syDuM-8HariF-9nySVZ-5T3UZX-2ik3fpa-2gUksrv-2gUjz9e-dVjypd-sbY8tX-6UZ3fR-5VLnaa-o3k7Gu-88uJxR-o3m6qZ-rwq1WL-7zKU2k-DhyaUm-5Q9TD2-sr8B4S-9XBB9F-9XBBj4-5LMLC3-ojMwKA-4Aceg7-sbY8Lk-bFHMdV-djnnX3-o3m6Uz-9XEuwJ-aeV2dU-9fcSht-2hBcACz-7pw9G5-5wjkWh-stqCLc-9XBB6t-64umfb-9XBBd8-5EjFhV" title="Pare"><img src="https://live.staticflickr.com/65535/52631472071_4a49f15368_z.jpg" width="640" height="480" alt="Pare"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
