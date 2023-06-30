@@ -43,11 +43,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の裏側が<span class="quiz">黒い</span>ものが多い
+標識の裏側が<span class="quiz">黒い</span>ものが多い（背景画像は<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">こちら</a>のものを使用, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>）。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682551162530!6m8!1m7!1sMk968VRjDczmNQ9PyjQTjw!2m2!1d-9.71648540938991!2d-68.13882693870039!3f255.15618007721577!4f-7.587449892091357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679345733355!6m8!1m7!1saXaImge9nJr-0Rhjkc0LNg!2m2!1d-23.28528423081526!2d-47.18912282227104!3f207.86566128400275!4f-3.5040994452348855!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./traffic-sign-example.png" width="90%">
 </div>
 
 {{% notice tip %}}
