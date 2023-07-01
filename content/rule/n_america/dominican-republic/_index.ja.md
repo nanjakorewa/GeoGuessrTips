@@ -57,3 +57,11 @@ Googleカーに黒色の４本のゴムが見える。
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">北東の方が山がち・全体的に山がちで電柱が地味な色ならサンチアゴかも</li>
+        <li class="no-evidence">逆に北東の方が平ら・電柱が派手な色・タクシーの広告が電柱にたくさん貼ってあるならサントドミンゴかも</li>
+    </ul>
+</div>
