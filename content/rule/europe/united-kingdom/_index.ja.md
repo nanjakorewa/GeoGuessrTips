@@ -91,6 +91,7 @@ Alexandra Palace Theatreはロンドンの北側にある
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>道路番号の先頭の数字で地域が分かる{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf01/7.pdf" "web" "高速道路ナンバリング検討委員会" %}}</li>
+        <li>Passing placeは<span class="quiz">スコットランド</span>に多い</li>
         <li>白と赤のボラードは<span class="quiz">スコットランド</span>に多い</li>
         <li class="no-evidence">菜種の生産は南東を中心に多い{{% goto "../../../nature/europe/" "ヨーロッパの農業分布" %}}</li>
     </ul>
@@ -100,6 +101,15 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% tab "道路番号" %}}
 <div class="googlemap-if">
 <img class="no-click" src="2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
+</div>
+{{% /tab %}}
+{{% tab "Passing place" %}}
+{{% notice tip %}}
+黒い輪郭は無い時もある、地域ごとに傾向があるのかはわからない。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688227126921!6m8!1m7!1syofFVgdq1-fd9DGss0iduA!2m2!1d58.44655991316099!2d-3.893121403030823!3f322.36298640402805!4f-5.778153559772477!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688227164609!6m8!1m7!1s7YQ74A3AAU4Q2xHvEjy7YQ!2m2!1d59.11186451519226!2d-3.116200828392647!3f294.6126345763391!4f-16.277346726225005!5f3.0286041996955686" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
