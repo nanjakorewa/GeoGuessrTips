@@ -47,9 +47,17 @@ maps: [
 <img src="../canada/r/sp-on.svg" width="80px" style="margin:7px">
 </div>
 </div>
+
+
+{{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字がある。左がアメリカ・右がカナダ。
+{{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
 <img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px">
+</div>
+<div class="googlemap-if unclickable">
+<img src="../usa/r/oneway.svg" width="100px" style="margin-right:100px">
+<img src="../canada/r/oneway.svg" width="100px" style="margin-left:100px">
 </div>
 
 {{% notice tip %}}

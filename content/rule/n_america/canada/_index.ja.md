@@ -45,11 +45,15 @@ sc: [
 
 </div>
 
-{{% notice tip %}}カナダはYEILDの看板に文字が無い。
+{{% notice tip %}}カナダはYEILDやONEWAYの看板に文字が無い。左がカナダ・右がアメリカ。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
 <img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
+</div>
+<div class="googlemap-if unclickable">
+<img src="../canada/r/oneway.svg" width="100px" style="margin-right:100px">
+<img src="../usa/r/oneway.svg" width="100px" style="margin-left:100px">
 </div>
 
 {{% notice tip %}}こういう感じのポストが多い。右上にCANADA POSTと書いてある。
