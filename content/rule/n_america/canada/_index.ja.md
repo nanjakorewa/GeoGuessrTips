@@ -65,10 +65,13 @@ sc: [
 {{% notice tip %}}TDと書かれた銀行はトロント・ドミニオン銀行の系列。RBCはRoyal Bank of Canadaの略。それぞれ国内２位と１位の資産規模。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681071337234!6m8!1m7!1sBAwKJZdDZfeytTwzATfjmA!2m2!1d43.66975679525978!2d-79.38977140840532!3f165.53120985555373!4f3.1029974488266276!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681071508647!6m8!1m7!1sT6ana2XQKiK-iD60e3Ni2A!2m2!1d43.66124322906803!2d-79.4289145824623!3f302.6450827202927!4f9.516511632349719!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/57156785@N02/44243680621/in/photolist-2apEqPF-2k3u5Vp-2k5nE34-2iy4iAq-zfK741-2b4g1hd-8ofxdx-6pVbre-6pZkMh-2ozianU-2oc7xSn-zyqpEn-LopPat-2oG9Ts8-55vEAe-fDKLZx-LW1i9o-e4oo6a-rv5Mn1-2mWAKXU-2osbwHd-2oHCBFQ-5S6fjC-2i6uvpG-vypsm-GTJfmt-sv4XYe-2nUZ1mo-FonQSJ-6HHYJw-PykKLu-D2W89U-2nb4t6W-2nGHSa8-2o1pQuT-egNVbc-9BfMp3-FZTzNH-2okTm7A-2ntWgkb-2nwCtgd-DfXeo-hpY92-2nwpGeS-2mXGC7H-2nXgvAB-cMyfLJ-2iETZYD-2nFKhBN-2m7gnDm" title="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"><img src="https://live.staticflickr.com/1868/44243680621_598b1c2477_z.jpg" width="640" height="396" alt="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px">
+<img src="./RBC_Royal_Bank.svg" width="100px" style="margin-left:100px">
+</div>
 
 {{% /tab %}}
 {{% tab "w-commercial" %}}
