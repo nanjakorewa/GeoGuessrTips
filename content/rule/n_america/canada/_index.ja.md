@@ -31,17 +31,22 @@ sc: [
 {{% tabs %}}
 
 {{% tab "w-etf" %}}
-{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識にフランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。{{% goto "../usa/" "アメリカ" %}}は<span class="quiz">SPEED LIMIT</span>。
+{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識に白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span>、フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。{{% goto "../usa/" "アメリカ" %}}は<span class="quiz">SPEED LIMIT</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
 <img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
+<img src="./r/canada-sp-bc.png" width="80px" style="margin:7px">
 <img src="./CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
 <img src="./r/sp-on.svg" width="80px" style="margin:7px 40px 7px 7px">
 <img src="../usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
 <img src="../usa/r/sp-oregon.png" width="80px" style="margin:7px">
 </div>
+
 </div>
+
+{{% notice tip %}}カナダはYEILDの看板に文字が無い。
+{{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
 <img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
@@ -73,13 +78,12 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ナンバープレートを前後に付ける州とつけない州がある</li>
-        <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
-        <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>かも</li>
-        <li>速度制限の看板が地域ごとに微妙に異なる。フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。</li>
-        <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
-        <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
-        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
+        <li>ナンバープレートを前後に付ける州とつけない州がある
+            <ul>
+                <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
+                <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>かも</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -130,6 +134,34 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 {{% /lb %}}
 
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption country-description">
+    <h4 class="section-title">道路にあるもの</h4>
+    <ul class="rule-list">
+        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
+        <li>速度制限の看板が地域ごとに微妙に異なる
+            <ul>
+                <li>白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span></li>
+                <li>フランス語があれば<span class="quiz">ケベック</span></li>
+                <li>黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。</li>
+            </ul>
+        </li>
+        <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
+        <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683088341064!6m8!1m7!1sHSAkHzAcEW14USPlrlJKRA!2m2!1d52.36115476111625!2d-107.0386419099979!3f255.28033037458422!4f0.9650869034524447!5f3.325193203789971" width="590" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "速度表記" %}}
 {{% notice tip %}}
 オンタリオ州とマニトバ州をつなぐ道路の<span class="quiz">オンタリオ</span>側の標識は `km/h` の部分が黒背景になっている。またオレンジと黒のカラーで書かれるときもある。
@@ -145,13 +177,10 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "ボラード" %}}
-{{% notice tip %}}
-細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。
-{{% /notice %}}
+{{% tab "ランプ" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682765326307!6m8!1m7!1s7gnwFVatHfMuJ1jFG2mgMw!2m2!1d48.39571830923472!2d-71.25217563290403!3f230.9901753934939!4f-6.749220089069581!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688194481220!6m8!1m7!1sE2tMoBGmDU8h-hPklPQtVw!2m2!1d45.04539402267391!2d-63.58207986510813!3f347.98628370681354!4f17.581990047851534!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688194489780!6m8!1m7!1sk35dR-h_P81v9eFn0IWTOQ!2m2!1d45.28727647879248!2d-66.04170670988759!3f70.67517204626664!4f15.700334599913589!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ロードコーン" %}}
@@ -163,12 +192,24 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432492247!6m8!1m7!1sLO_H97dvPqc3aO3fixvorg!2m2!1d45.49181109498912!2d-73.58142739183401!3f134.36495306086366!4f-5.588569419165907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "電柱" %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h4 class="section-title">ボラード</h4>
+    <ul class="rule-list">
+        <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ボラード" %}}
 {{% notice tip %}}
-２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
+細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683088341064!6m8!1m7!1sHSAkHzAcEW14USPlrlJKRA!2m2!1d52.36115476111625!2d-107.0386419099979!3f255.28033037458422!4f0.9650869034524447!5f3.325193203789971" width="590" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682765326307!6m8!1m7!1s7gnwFVatHfMuJ1jFG2mgMw!2m2!1d48.39571830923472!2d-71.25217563290403!3f230.9901753934939!4f-6.749220089069581!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
