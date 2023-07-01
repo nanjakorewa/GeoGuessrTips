@@ -94,7 +94,8 @@ sc: [
         <li>ナンバープレートを前後に付ける州とつけない州がある
             <ul>
                 <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
-                <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>かも</li>
+                <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>の可能性がある</li>
+                <li>左下が赤っぽいのは<span class="quiz">Prince Edward Island州</span>{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Prince_Edward_Island" "Vehicle registration plates of Prince Edward Island" %}}</li>
             </ul>
         </li>
     </ul>
@@ -112,7 +113,7 @@ sc: [
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/MapPorn/comments/3txlm0/canadian_provincial_territorial_licence_plate/">Canadian Provincial &amp; Territorial Licence Plate Requirements [1000x858] [OC]</a><br> by      <a href="https://www.reddit.com/user/bryan89wr">u/bryan89wr</a> in      <a href="https://www.reddit.com/r/MapPorn/">MapPorn</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 
 {{% /tab %}}
-{{% tab "ナンバープレート(マニトバ)" %}}
+{{% tab "マニトバ" %}}
 {{% notice tip %}}
 <span class="quiz">マニトバ州</span>はかなり視認しやすく、両サイドが緑で真ん中が白に見える。前後両方にナンバープレートがある。
 {{% /notice %}}
@@ -129,7 +130,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Midnightcat1&amp;amp;
 {{% /lb %}}
 
 {{% /tab %}}
-{{% tab "ナンバープレート(オンタリオ)" %}}
+{{% tab "オンタリオ" %}}
 
 {{% notice tip %}}
 <span class="quiz">オンタリオ</span>のナンバープレートは複数種類あるもののどれも少し青っぽく見える。Nova Scotiaのものも青っぽく見えるので注意。
@@ -147,13 +148,31 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 {{% /lb %}}
 
 {{% /tab %}}
+{{% tab "Prince Edward Island" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688211502472!6m8!1m7!1sXIfg_z3j-0O6mtvVLWtOIg!2m2!1d46.43787475338756!2d-63.63769148853987!3f99.97510847573899!4f-5.725019218377454!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 %}}
+![](2023-07-01-20-36-02.png)
+
+By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;User:Awmcphee&quot;>Awmcphee</a> - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48413066">Link</a>
+{{% /lb %}}
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption country-description">
     <h4 class="section-title">道路にあるもの</h4>
     <ul class="rule-list">
-        <li>◆のプレートがあるのは<span class="quiz">オンタリオ</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
-        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
+        <li>STOPの看板が地域ごとに微妙に異なる
+            <ul>
+                <li>Inuktitut（イヌクティトット語）が見られるのはヌナブト準州のイルカルイト（例<a href="https://goo.gl/maps/gmn7Rgg4ojx2TBCg6">①</a>）</li>
+                <li>ARRETは<span class="quiz">ケベック</span></li>
+                <li class="no-evidence">STOPとARRET併記は<span class="quiz">オンタリオ</span>？</li>
+            </ul>
+        </li>
         <li>速度制限の看板が地域ごとに微妙に異なる
             <ul>
                 <li>白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span></li>
@@ -161,6 +180,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
                 <li>黒い背景のkm表記は<span class="quiz">オンタリオ</span></li>
             </ul>
         </li>
+        <li>◆のプレートがあるのは<span class="quiz">オンタリオ</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
         <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
         <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
     </ul>
@@ -168,18 +188,15 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 
 
 {{% tabs %}}
-{{% tab "◆のプレート" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688194680751!6m8!1m7!1s67cxOWY5jKmWodnleg05sA!2m2!1d49.04608186779922!2d-90.6204380212422!3f117.51831448775125!4f-5.780874631208945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "電柱" %}}
+{{% tab "STOP" %}}
 {{% notice tip %}}
-２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683088341064!6m8!1m7!1sHSAkHzAcEW14USPlrlJKRA!2m2!1d52.36115476111625!2d-107.0386419099979!3f255.28033037458422!4f0.9650869034524447!5f3.325193203789971" width="590" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px">
+<img src="./r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px">
+<img src="./r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px">
 </div>
+
 {{% /tab %}}
 {{% tab "速度表記" %}}
 {{% notice tip %}}
@@ -194,6 +211,11 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "◆" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688194680751!6m8!1m7!1s67cxOWY5jKmWodnleg05sA!2m2!1d49.04608186779922!2d-90.6204380212422!3f117.51831448775125!4f-5.780874631208945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ランプ" %}}
@@ -215,6 +237,24 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 
 
 <div class="main-desciption country-description">
+    <h4 class="section-title">電柱</h4>
+    <ul class="rule-list">
+        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "サスカチュワン" %}}
+{{% notice tip %}}
+２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683088341064!6m8!1m7!1sHSAkHzAcEW14USPlrlJKRA!2m2!1d52.36115476111625!2d-107.0386419099979!3f255.28033037458422!4f0.9650869034524447!5f3.325193203789971" width="590" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption country-description">
     <h4 class="section-title">ボラード</h4>
     <ul class="rule-list">
         <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
@@ -222,7 +262,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 </div>
 
 {{% tabs %}}
-{{% tab "ボラード" %}}
+{{% tab "ケベック" %}}
 {{% notice tip %}}
 細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。
 {{% /notice %}}
