@@ -152,13 +152,13 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 <div class="main-desciption country-description">
     <h4 class="section-title">道路にあるもの</h4>
     <ul class="rule-list">
-        <li>◆のプレートがある{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
+        <li>◆のプレートがあるのは<span class="quiz">オンタリオ</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
         <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
         <li>速度制限の看板が地域ごとに微妙に異なる
             <ul>
                 <li>白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span></li>
                 <li>フランス語があれば<span class="quiz">ケベック</span></li>
-                <li>黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。</li>
+                <li>黒い背景のkm表記は<span class="quiz">オンタリオ</span></li>
             </ul>
         </li>
         <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
