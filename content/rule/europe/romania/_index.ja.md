@@ -40,8 +40,11 @@ sc: [
 電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>。一番下あたりが白く塗られていることもある。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681530619286!6m8!1m7!1s1q9X84JbsgqznIsNH4LXLQ!2m2!1d44.70535771556276!2d22.72859302476025!3f63.20555826958801!4f-13.244004319234278!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681428451685!6m8!1m7!1svcUsLU2-7vsSv-Fb9Y--Qw!2m2!1d45.30576948650416!2d27.96870306769869!3f238.60705223321642!4f-4.4349572208697765!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688184557687!6m8!1m7!1s1q9X84JbsgqznIsNH4LXLQ!2m2!1d44.70535771556276!2d22.72859302476025!3f63.657922468801544!4f-11.33467294366821!5f3.1482143679014967" width="250" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><a href="https://commons.wikimedia.org/wiki/File:Cigognes_Vladeni_Roumanie.jpg#/media/File:Cigognes_Vladeni_Roumanie.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cigognes_Vladeni_Roumanie.jpg" alt="Cigognes Vladeni Roumanie.jpg" height="550" width="365"></a>
+</div>
+
+<div class="googlemap-if" style="padding:0;font-size:0.8em;">By Photo: <a href="//commons.wikimedia.org/wiki/User:Myrabella" title="User:Myrabella">Myrabella</a>&nbsp;/&nbsp;<a href="//commons.wikimedia.org/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20712710">Link</a>
 </div>
 
 {{% notice tip %}}
