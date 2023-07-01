@@ -11,6 +11,10 @@ flag: "TR.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../europe/macedonia/", "北マケドニア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
