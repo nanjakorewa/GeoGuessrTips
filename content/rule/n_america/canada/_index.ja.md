@@ -139,6 +139,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 <div class="main-desciption country-description">
     <h4 class="section-title">道路にあるもの</h4>
     <ul class="rule-list">
+        <li>◆のプレートがある{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
         <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
         <li>速度制限の看板が地域ごとに微妙に異なる
             <ul>
@@ -148,12 +149,17 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
             </ul>
         </li>
         <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
-        <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの</li>
+        <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
+{{% tab "◆のプレート" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688194680751!6m8!1m7!1s67cxOWY5jKmWodnleg05sA!2m2!1d49.04608186779922!2d-90.6204380212422!3f117.51831448775125!4f-5.780874631208945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
 ２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
@@ -226,14 +232,14 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 {{% tab "小麦" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-45-23.png" width="70%" />
+<img src="2023-04-29-19-45-23.png" width="80%" />
 </div>
 
 {{% /tab %}}
 {{% tab "コーン" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-35-46.png" width="70%" />
+<img src="2023-04-29-19-35-46.png" width="80%" />
 </div>
 
 {{% notice note %}}
