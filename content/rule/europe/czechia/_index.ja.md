@@ -25,7 +25,7 @@ sc: [
         <li>チェコ語の母音クロウジェク<span class="quiz">「Ů・ů」</span>があるならチェコ</li>
         <li>「<b>Ř</b>」なら<span class="quiz">チェコ</span>・「<b>Ŕ</b>」なら<span class="quiz">スロバキア</span></li>
         <li>チェコとスロバキアのみthin-B profileと呼ばれるガードレールを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
-        <li>チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップが<span class="quiz">ある</span>ならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}</li>
+        <li>チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップが<span class="quiz">ある</span>ならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}の可能性が高いが100%ではない</li>
         <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
         <li>チェコと{{% goto "../slovakia/" "スロバキア" %}}は２本の電柱をひとつにまとめた電柱がある</li>
     </ul>
@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。いつも存在するわけではないので、見つけたらば<span class="quiz">チェコ</span>にする。
+チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。見つけたらば<span class="quiz">チェコ</span>も考えてみるが<b>100%ではない</b>ので注意。
 {{% /notice %}}
 
 <div class="googlemap-if">
