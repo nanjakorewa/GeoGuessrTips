@@ -53,7 +53,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

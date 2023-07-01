@@ -33,7 +33,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-反射板が偏った薄いボラード。あとセルビアはガードレールが角ばっているが北マケドニアは角ばっていない。
+反射板が偏った薄いボラード。あとセルビアはガードレールが角ばっているが北マケドニアは角ばっていない{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。
 {{% /notice %}}
 
 <div class="googlemap-if">

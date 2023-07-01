@@ -151,7 +151,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Vaselineeeeeeee" title="User:Vasel
 {{% tab "Prince Edward Island" %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688211502472!6m8!1m7!1sXIfg_z3j-0O6mtvVLWtOIg!2m2!1d46.43787475338756!2d-63.63769148853987!3f99.97510847573899!4f-5.725019218377454!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688211502472!6m8!1m7!1sXIfg_z3j-0O6mtvVLWtOIg!2m2!1d46.43787475338756!2d-63.63769148853987!3f99.97510847573899!4f-5.725019218377454!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% lb 50 %}}
