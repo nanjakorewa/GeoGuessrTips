@@ -67,6 +67,11 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/countrushmore/49677634267/in/photolist-2iFQRVD-j9gjB2-8fDBXw-woX1Wo-2nQf2Re-2kn9GC2-XwUe4x-2mv3kzj-2ohfVzx-2jSrMDi-eBrbEg-2ohGdL1-2jdGHSf-2nybhQ6-fCBm2D-2jcAK5i-UDsEiX-2nbSZLq-2nxNCPP-2nQ7AJz-2n9DerQ-T6ukpA-2iv3o7d-2dLdjW4-dA5JVj-KW5WC8-2jfMqUA-2jMqsQj-2h9uoMk-yZsqhL-2kih9Q8-WpV4y3-2ocEhNq-2ob8fDT-2euBJNU-23puMxd-ef4dZL-2i2xa4L-2oibZV9-NdngeA-277Rm4c-2jqsxCC-DNKyWm-21kfSVY-SFPW9w-2mMaBcv-or5GW3-2j3HLdL-zkLjDZ-buppJg" title="Just dive !"><img src="https://live.staticflickr.com/65535/49677634267_0e480b0dbb_z.jpg" width="640" height="480" alt="Just dive !"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% lb 50 small %}}
+![](2023-07-01-23-56-53.png)
+
+By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/24736216@N07">Roger</a> from Sarasota, Florida, U.S.A. - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/24736216@N07/8912170510/">Marigot - St. Martin License Plates</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40704190">Link</a>
+{{% /lb %}}
 
 {{% notice tip %}}
 青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
