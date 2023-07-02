@@ -127,6 +127,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
                 <li>{{% goto "../../africa/reunion/" "レユニオン" %}}</li>
                 <li>{{% goto "../../cs_america/martinique/" "マルティニーク" %}}</li>
+                <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
             </ul>
         </li>
     </ul>
