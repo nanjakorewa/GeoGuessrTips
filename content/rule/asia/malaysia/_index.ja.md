@@ -63,6 +63,18 @@ sc: [
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
+
+{{% notice tip %}}
+マレーシアの石油及びガスの供給を行う大手国営企業ペトロナスが運営するペトロナス・ガス（Petronas Gas Bhd）があり看板に場所が書いてある{{% ref "https://www.petronas.com/pgb/" "PETRONAS Gas Berhad (PGB)" %}}。以下の例はLunduのガソリンスタンド。
+{{% /notice %}}
+
+
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/billygabriel/5372224046/in/photolist-9bJ43w-8QpZKL-9bEzdg-nvL2xS-bUgAbT-2mE8sjh-fFKs4Q-2mE44z8-RUaAcE-8uFLKU-bVcaJ4-PNvA1o-R15Md1-ccz1kq-2mYYVcq-nEiFFQ-nEiF6m-nJ8Miz-ccyAPA-2mE5bwz-bVcDNz-A4v46-ABPw3d-2jAjDCf-5CnER3-cbgDSy-SWMWF1-5FLWJU-6M2N3M-6M2Rz6-6M2PzF-PkiP4-5FLWJW-RUayRU-ecEScJ-p5s4es-SWMY8Q-ccA7Tu-8t4eri-2e6Ddew-NgZr15-5FS3JF-2kA1huM-Bzm6yx-21rD6FW-V9Z17Z-Nkdag4-2dNGFdZ-8t7c9m-2mE44jd" title="Petronas Gas station"><img src="https://live.staticflickr.com/5003/5372224046_a878d9b0a2_z.jpg" width="640" height="480" alt="Petronas Gas station"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
@@ -85,6 +97,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>『<a href="https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit">The Malaysia Doc by zi8gzag</a>』が詳しいのでこれを参照する</li>
         <li>農作物の分布が地域ごとに異なる
             <ul>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MY">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
@@ -134,7 +147,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% tabs %}}
 {{% tab "ジャウィ文字" %}}
 {{% notice tip %}}
-半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い。インドネシアのリアウ州やリアウ諸島（＝<span class="quiz">ジョホール</span>州周辺）でもこの文字がある。
+半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い{{% ref "https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit" "The Malaysia Doc by zi8gzag" %}}。インドネシアのリアウ州やリアウ諸島（＝<span class="quiz">ジョホール</span>州周辺）でもこの文字がある。
 {{% /notice %}}
 
 <div class="googlemap-if">
