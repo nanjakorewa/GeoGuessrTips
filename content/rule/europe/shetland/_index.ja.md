@@ -40,7 +40,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Cattle Gridと呼ばれる羊や牛がエリアから外に逃げないような工夫を取り入れた金属棒を平行に並べた橋がある{{% ref "https://en.wikipedia.org/wiki/Cattle_grid" "Cattle grid" %}}。羊や牛の牧畜が一般的な場所ならどこでもあると思われるがシェットランド諸島はこれが多いように思う(例<a href="https://goo.gl/maps/q6wJJ7gYiXbnie7x6">①</a>・<a href="https://goo.gl/maps/NpvFXScYFSmwmu4x8">②</a>・<a href="https://goo.gl/maps/cw7DPJTFpF1H16Sf8">③</a>)。
+Cattle Gridと呼ばれる金属棒を平行に並べた橋がある{{% ref "https://en.wikipedia.org/wiki/Cattle_grid" "Cattle grid" %}}。こうすることで羊や牛がエリアから外に逃げないようになる。牧畜が一般的な場所ならどこでもあると思われるがシェットランド諸島はこれが多いように思う(例<a href="https://goo.gl/maps/q6wJJ7gYiXbnie7x6">①</a>・<a href="https://goo.gl/maps/NpvFXScYFSmwmu4x8">②</a>・<a href="https://goo.gl/maps/cw7DPJTFpF1H16Sf8">③</a>)。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/falkirkbairn/47849548081/in/photolist-2mJ9s7W-2fUirAi-QFNUw8-qDPhiB-cG6B5-9FkiGt-voKnmA-weXbyM-2mJbGJD-28xe9-2wmcFR-9PJtwz-etMVu9-35PNRR-etJxHR-2gjgvqi/" title="Cattle Grid"><img src="https://live.staticflickr.com/65535/47849548081_8a69c6beb4_z.jpg" width="640" height="459" alt="Cattle Grid"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
