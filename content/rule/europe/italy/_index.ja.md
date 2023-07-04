@@ -29,7 +29,7 @@ sc: [
         <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
         <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
-        <li>通り名の看板に「<span class="quiz">Via</span>」と書いてあればイタリア語圏の可能性が高い</li>
+        <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
         <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
     </ul>
     {{% rd europe italy small %}}

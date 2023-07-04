@@ -110,14 +110,14 @@ maps: [
                 </li>
             </ul>
         </li>
-        <li>② 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
-        <li>③ 州間高速道路と州道の看板を見つけたら位置を絞り込める
+        <li>② 州間高速道路と州道の看板を見つけたら位置を絞り込める
             <ul>
                 <li>州道の看板で州が特定できることが多い。また一部の州では州の形がそのまま看板の形になっている。</li>
                 <li>州間高速道路（青色に赤い帽子を被った看板）は偶数番号の道路が東西に、奇数番号の道路は南北に伸びていて、北東ほど数字が大きくなる</li>
                 <li>高速道路の出口は"Exit 1"といった感じで番号が付いていてズームすると確認できる</li>
             </ul>
         </li>
+        <li>③ 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
         <li class="no-evidence">④ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}
             <ul>
                 <li>Chevron→南の海沿いの州か西海岸の州</li>
@@ -141,15 +141,12 @@ maps: [
 <p>By Raccoonny - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a></p>
 </div>
 
-{{% /tab %}}
-{{% tab "②郵便局の壁" %}}
-{{% notice tip %}}
-{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/kop8sr/theyre_blurred_but_the_colors_might_be_helpful/">They’re blurred but the colors might be helpful</a><br> by      <a href="https://www.reddit.com/user/untoasted-bread69">u/untoasted-bread69</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 </div>
+
 {{% /tab %}}
-{{% tab "③州道の看板" %}}
+{{% tab "②州道の看板" %}}
 
 <div class="googlemap-if">
 <div class="description-wide">
@@ -177,6 +174,13 @@ maps: [
 </div>
 </div>
 {{% /tab %}}
+{{% tab "③郵便局の壁" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "④ガソリンスタンド" %}}
 {{% notice tip %}}
 自作なので正しくないかも
@@ -185,17 +189,12 @@ maps: [
 <img src="./gas_station.png" width="90%">
 </div>
 {{% /tab %}}
-{{% tab "車のシール" %}}
+{{% tab "⑤車のシール" %}}
 {{% notice tip %}}
 いくつかの州は車の車検のシールで判別できるかも
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686697089977!6m8!1m7!1scNsmawQmXIHwhM2LgvJ8Sw!2m2!1d29.77205520001398!2d-95.85548442263284!3f213.64170150512496!4f-24.867341361566673!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "アメリカ攻略講座" %}}
-<div class="googlemap-if">
-<iframe width="590" height="335" src="https://www.youtube.com/embed/Q_KB4MP_HZo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

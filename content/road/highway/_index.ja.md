@@ -9,7 +9,11 @@ sections: [""]
 bg: "bg/tf.jpg"
 ---
 
-## 路線のシンボル
+## ヨーロッパ
+
+<div class="googlemap-if">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/mmopv3/road_numbering_schemes_and_signage_around_europe/">Road numbering schemes and signage around Europe</a><br> by      <a href="https://www.reddit.com/user/Melongated">u/Melongated</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
 
 <div class="googlemap-if">
 <img src="2023-04-14-22-27-37.png" width="80%" class="no-click" />

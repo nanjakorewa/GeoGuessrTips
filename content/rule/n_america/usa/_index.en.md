@@ -77,6 +77,9 @@ First, remember the areas that do not require a license plate on the front of th
 <a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
 </div>
 
+<div class="googlemap-if">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/kop8sr/theyre_blurred_but_the_colors_might_be_helpful/">They’re blurred but the colors might be helpful</a><br> by      <a href="https://www.reddit.com/user/untoasted-bread69">u/untoasted-bread69</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
 {{% /tab %}}
 {{% tab "②Post Office Wall" %}}
 {{% notice tip %}}

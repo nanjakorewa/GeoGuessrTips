@@ -14,6 +14,8 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../colombia/", "コロンビア"],
+    ["../argentina/", "アルゼンチン北部"],
+    ["../paraguay/", "パラグアイ"],
     ]
 ---
 

@@ -23,7 +23,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>車は<span class="quiz">左側</span>通行</li>
+        <li>車は<span class="quiz">左側</span>通行であり日本車が多くみられる</li>
         <li>ドメインは<span class="quiz">.mt</span></li>
         <li>通り名の看板に<span class="quiz">TRIQ</span>と書いてある</li>
         <li>公用語は<span class="quiz">マルタ語とイギリス英語</span></li>

@@ -15,8 +15,8 @@ sc: [
     ["../jersey/", "ジャージー"],
     ["../ireland/", "アイルランド"],
     ["../mannin/", "マン島"],
-    ["../malta/", "マルタ"],
     ["../gibraltar/", "ジブラルタル"],
+    ["../shetland/", "シェットランド諸島"],
     ]
 ---
 
@@ -91,8 +91,8 @@ Alexandra Palace Theatreはロンドンの北側にある
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>道路番号の先頭の数字で地域が分かる{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf01/7.pdf" "web" "高速道路ナンバリング検討委員会" %}}</li>
-        <li>Passing placeは<span class="quiz">スコットランド</span>に多い</li>
         <li>白と赤のボラードは<span class="quiz">スコットランド</span>に多い</li>
+        <li>Passing placeは{{% goto "../shetland/" "シェットランド諸島" %}}を含む<span class="quiz">スコットランド</span>全域に多い</li>
         <li class="no-evidence">菜種の生産は南東を中心に多い{{% goto "../../../nature/europe/" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
@@ -103,6 +103,15 @@ Alexandra Palace Theatreはロンドンの北側にある
 <img class="no-click" src="2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
 </div>
 {{% /tab %}}
+{{% tab "白と赤のボラード" %}}
+{{% notice tip %}}
+白と赤のボラードは<span class="quiz">スコットランド</span>に多い
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684320325087!6m8!1m7!1s-XmG1Ud5SwPSJ42bx2yJww!2m2!1d56.259023568906!2d-2.7268946362317!3f243.4400609150221!4f-19.690911157766536!5f2.9046987489043916" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684324219696!6m8!1m7!1sznvGXUDMZh3_SCKhv_uqcQ!2m2!1d56.25913612559033!2d-2.727014723457081!3f175.0805768463083!4f-13.017484766461138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "Passing place" %}}
 {{% notice tip %}}
 黒い輪郭は無い時もある、地域ごとに傾向があるのかはわからない。
@@ -110,15 +119,6 @@ Alexandra Palace Theatreはロンドンの北側にある
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688227126921!6m8!1m7!1syofFVgdq1-fd9DGss0iduA!2m2!1d58.44655991316099!2d-3.893121403030823!3f322.36298640402805!4f-5.778153559772477!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688227164609!6m8!1m7!1s7YQ74A3AAU4Q2xHvEjy7YQ!2m2!1d59.11186451519226!2d-3.116200828392647!3f294.6126345763391!4f-16.277346726225005!5f3.0286041996955686" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-{{% notice tip %}}
-白と赤のボラードは<span class="quiz">スコットランド</span>に多い
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684320325087!6m8!1m7!1s-XmG1Ud5SwPSJ42bx2yJww!2m2!1d56.259023568906!2d-2.7268946362317!3f243.4400609150221!4f-19.690911157766536!5f2.9046987489043916" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684324219696!6m8!1m7!1sznvGXUDMZh3_SCKhv_uqcQ!2m2!1d56.25913612559033!2d-2.727014723457081!3f175.0805768463083!4f-13.017484766461138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "菜種" %}}
