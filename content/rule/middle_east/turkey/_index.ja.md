@@ -92,12 +92,21 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>キロメートルマーカーから道路番号が読み取れる{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。</li>
         <li>市外局番は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
+{{% tab "道路番号" %}}
+{{% notice tip %}}
+キロメートルマーカーから道路番号が読み取れる{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./r/km.png" width="200px">
+</div>
+{{% /tab %}}
 {{% tab "市外局番" %}}
 {{% notice tip %}}
 212→イスタンブールを含む西側かもといった感じで大体の位置推定ができる。ただし05~、08～も多くこれらは場所が分からない。

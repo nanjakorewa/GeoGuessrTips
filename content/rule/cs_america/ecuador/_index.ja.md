@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "EC.svg"
+plonkit: true
 jetro_detail: true
 is_has_distinctive_bollard: true
 ---
@@ -27,7 +28,7 @@ is_has_distinctive_bollard: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の裏がシンプルでフラットな感じ。ボラードはいろいろな種類があるが、２つ反射板が巻かれている見慣れない形のものはエクアドルかも？
+標識の裏がシンプルでフラットな感じ。ボラードはいろいろな種類があるが、２つ反射板が付いている見慣れない形のものはエクアドルかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -53,7 +54,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819900218!6m8!1m7!1svPGkvywZLkfsLfGZ3NF-NA!2m2!1d-0.1863655275116668!2d-79.20092795534029!3f58.20714407058763!4f-3.4386814217635617!5f2.9597408896438306" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682820181570!6m8!1m7!1sMB6hh_C1Vr9n-Ndt7PEwqQ!2m2!1d-1.593348468378649!2d-77.86203050487869!3f156.68857236027182!4f-14.639443130724871!5f1.6116789078129292" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682820070069!6m8!1m7!1sKLcFpIheXqFf79Iz08ks0w!2m2!1d-1.540436530922929!2d-79.52829212492459!3f36.23106651111989!4f-4.678056091155824!5f3.2786393840952575" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688554857213!6m8!1m7!1sQINqKYFmaWIBxPkbHg1EVA!2m2!1d-2.780357066564007!2d-79.22983423827924!3f116.23847544825263!4f-15.115099249889852!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682820343449!6m8!1m7!1sw6N8TpIkM_d115ZuRsT7tg!2m2!1d-1.602807909622897!2d-77.85391960097269!3f131.72274571232944!4f-1.799478332475374!5f2.9525475507117247" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

@@ -106,12 +106,20 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。</li>
         <li>タクシーとトラックの屋根または側面にサイドプレートがあり、<span class="quiz">ナンバーと都市名</span>が書いてある</li>
     </ul>
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
+{{% tab "ボラード" %}}
+{{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./r/bollard.png" width="70px">
+</div>
+{{% /tab %}}
 {{% tab "タクシー" %}}
 {{% notice tip %}}ステッカーにPOPAYANと書かれている
 {{% /notice %}}
