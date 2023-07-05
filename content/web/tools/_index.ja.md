@@ -9,17 +9,25 @@ keywords: ["Daig_Oさんの配信で使ってるアレ", "バックグラウン�
 sections: [""]
 ---
 
-
-<div class="googlemap-if button-list">
-<button id="startButton" class="buttonRound" onclick="startGacha()" disabled>スタート</button>
-<button id="stopButton" class="buttonRound" onclick="stopGacha()" disabled>ストップ</button>
-</div>
 <br><br>
+<span style="font-size:1.5em;">今からGeoGuessrで遊ぶ国は...</span>
+<br>
 
 <div style="width:100%;height:400px;">
 <p><a id="gachaLink1" href="#" target="_blank"><img id="gachaImage" src="https://geopinning.space/flags/JP.svg" alt="ガチャ画像"></a></p>
 <p id="gachaText"><a id="gachaLink2" href="https://geopinning.space/rule/asia/japan/" target="_blank">日本</a></p>
 </div>
+
+<div class="googlemap-if button-list">
+<button id="startButton" class="buttonRound" onclick="startGacha()" disabled>スタート</button>
+<button id="stopButton" class="buttonRound" onclick="stopGacha()" disabled>ストップ</button>
+</div>
+
+<div class="googlemap-if button-list">
+<button id="tweetButton" class="buttonRound" onclick="tweetResult()" disabled>結果をツイートする</button>
+</div>
+
+<br><br>
 
 <script>
 var items = [
@@ -27,7 +35,14 @@ var items = [
     { image: "https://geopinning.space/flags/JP.svg", text: "日本", link: "https://geopinning.space/rule/asia/japan/" },
     { image: "https://geopinning.space/flags/US.svg", text: "アメリカ", link: "https://geopinning.space/rule/n_america/usa/" },
     { image: "https://geopinning.space/flags/AR.svg", text: "アルゼンチン", link: "https://geopinning.space/rule/cs_america/argentina/" },
-    { image: "https://geopinning.space/flags/ID.svg", text: "インドネシア", link: "https://geopinning.space/rule/asia/indonesia/" }
+    { image: "https://geopinning.space/flags/ID.svg", text: "インドネシア", link: "https://geopinning.space/rule/asia/indonesia/" },
+    { image: "https://geopinning.space/flags/CA.svg", text: "カナダ", link: "https://geopinning.space/rule/n_america/canada/" },
+    { image: "https://geopinning.space/flags/BT.svg", text: "ブータン", link: "https://geopinning.space/rule/asia/bhutan/" },
+    { image: "https://geopinning.space/flags/RU.svg", text: "ロシア", link: "https://geopinning.space/rule/asia/russia/" },
+    { image: "https://geopinning.space/flags/ML.svg", text: "マリ共和国", link: "https://geopinning.space/rule/africa/mali/" },
+    { image: "https://geopinning.space/flags/BR.svg", text: "ブラジル", link: "https://geopinning.space/rule/cs_america/brazil/" },
+    { image: "https://geopinning.space/flags/MX.svg", text: "メキシコ", link: "https://geopinning.space/rule/n_america/mexico/" },
+    { image: "https://geopinning.space/flags/MX.svg", text: "メキシコ", link: "https://geopinning.space/rule/n_america/mexico/" },
 ];
 
 var intervalId;
@@ -37,29 +52,40 @@ var gachaLink1 = document.getElementById("gachaLink1");
 var gachaLink2 = document.getElementById("gachaLink2");
 var startButton = document.getElementById("startButton");
 var stopButton = document.getElementById("stopButton");
+var tweetButton = document.getElementById("tweetButton");
 startButton.disabled = false;
 stopButton.disabled = true;
+var currentIndex = 0;
 
-function startGacha() {
+function startGacha(forceChangeImg = false) {
     startButton.disabled = true;
     stopButton.disabled = false;
-    var currentIndex = 0;
     intervalId = setInterval(function() {
     currentIndex = (currentIndex + 1) % items.length;
-    gachaImage.src = items[currentIndex].image;
+    if (Math.floor(Math.random() * 10)%10 == 0) {
+        gachaImage.src = items[currentIndex].image;
+    }
     gachaLink1.href = items[currentIndex].link;
     gachaLink2.href = items[currentIndex].link;
     gachaLink2.textContent = items[currentIndex].text;
     }, 20);
 }
 function stopGacha() {
+    gachaImage.src = items[currentIndex].image;
     startButton.disabled = false;
     stopButton.disabled = true;
+    tweetButton.disabled = false;
     clearInterval(intervalId);
+}
+
+function tweetResult() {
+    var text = encodeURIComponent("ガチャの結果: " + gachaText.textContent);
+    //var url = encodeURIComponent(gachaLink1.href);
+    var url = encodeURIComponent("https://geopinning.space/web/tools/");
+    var tweetUrl = "https://twitter.com/intent/tweet?text=" + text + "&url=" + url;
+    window.open(tweetUrl);
 }
 </script>
 
 #### 注意点
-<span style="font-weight:bold;color:#990000;">画面の点滅が苦手な人は注意してください。</span>
-GeoGuesserで出る可能性がある国限定のガチャ。自分用、作成途中だけど寝たいのでコミット。仮実装で5か国のみ表示されます。
-パラグアイは出現しないです。オーランド諸島のような離島は選択される可能性があります。
+<span style="font-weight:bold;color:#990000;">画面の点滅が苦手な人は注意してください。</span>過剰な点滅を抑えるために画像の切り替わり回数を減らしていますが、内部的にはこの10倍のスピードでガチャしています。作成途中だけど寝たいのでコミット、仮実装で10か国のみ表示されます。

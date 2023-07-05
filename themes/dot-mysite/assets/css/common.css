@@ -1175,7 +1175,9 @@ img#gachaImage {
 }
 
 .buttonRound {
-  height: 64px;
-  border-radius: 32px;
+  height: 34px;
+  border-radius: 5px;
   margin: 10px;
+  font-size: 1em;
+  font-weight: bold;
 }
