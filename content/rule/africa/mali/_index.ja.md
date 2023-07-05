@@ -19,7 +19,6 @@ is_has_many_trekker: true
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.ml</span></li>
         <li>言語は<span class="quiz">フランス語</span>と地域固有の言語</li>
-        <li>Great Mosque of Nionoの周辺にストリートビューがある</li>
         <li>マリでは<span class="quiz">泥</span>を使った建築物が多く見た目も特徴的</li>
     </ul>
 </div>
@@ -30,8 +29,23 @@ is_has_many_trekker: true
 マリでは<span class="quiz">泥</span>を使った建築物が多く見た目も特徴的
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682996699515!6m8!1m7!1sRl2vNY1Z88oAAARAtEa5Lw!2m2!1d14.25153063068922!2d-5.982247884864459!3f17.454910882013834!4f-2.2105516005307777!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682997009688!6m8!1m7!1sVkpQDZHJIuUAAARAtEa4_g!2m2!1d14.2516732101491!2d-5.982243907660171!3f82.98202598208255!4f3.830603770739174!5f1.606770479697472" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hypostylin/3159048225/in/photolist-5P9WYH-4RiNmt-8eVDUa-pxypWB-bvcM7W-cza2U-bJi4gP-aY6Nat-dNmHa-7jRuWJ-dNmjR-9Vc7Rs-5NHAEp-49jxCE-5Pc25B-5NRXfM-5PnAkm-hnxsBq-4jWPGz-7jG2G4-4k1SNo-4aBo9i-556phb-bM1tpi-t2jt3-4jXy5u-2iDR5AB-fLKLk-9iQKU-ab6NVn-4jv7eR-3jDTXp-bdQaMv-9eDKxy-4mFNqX-i9UcV-87auFa-6byWcZ-87auxT-5P6tpg-7uptap-iaqkd-7fabbk-7htqkM-mKxQL-bcAiwi-dNmZZ-5NHAE6-xMfQCs-wRekbt" title="Djenné, Mali"><img src="https://live.staticflickr.com/3132/3159048225_be7b2477ee_z.jpg" width="640" height="480" alt="Djenné, Mali"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+日乾しレンガと泥で家ができている。雨が少なくどの建物も屋根が平ら。壁から棒やパイプが突き出していることが多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688521977138!6m8!1m7!1smVNiYnDAJ6AAAAQrDHXENQ!2m2!1d16.77232234075917!2d-3.00729498034412!3f300.48440977362475!4f5.467004481388543!5f1.5532465485659146" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688522019153!6m8!1m7!1sh3rQcf3CY40AAAQrDHXERQ!2m2!1d16.77204745534441!2d-3.006978738626176!3f78.8750793097445!4f8.031079187174996!5f1.8111344477272997" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+都市部から離れた非常に小さな範囲にストリートビューがあるけれど、Geoguessrのduelなどに出題されるかは不明。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688522144918!6m8!1m7!1sMrJ_ojUOEXsAAARAtEXY_A!2m2!1d14.42944800418333!2d-3.324941502121589!3f27.876063363255415!4f-1.354899924180799!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688522373672!6m8!1m7!1scOBCe4lh2pMAAARAtEXZUg!2m2!1d14.42812232927654!2d-3.326045518655271!3f30.53419523751926!4f2.7603598909542058!5f0.651292440192828" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

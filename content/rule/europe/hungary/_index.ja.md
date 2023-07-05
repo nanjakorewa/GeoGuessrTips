@@ -32,7 +32,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。他の国と違い標識の前からネジがハッキリ見えることがわかる。また、<span class="quiz">Utca</span>はハンガリー語でstreetの意味。
+標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。また、<span class="quiz">Utca</span>はハンガリー語でstreetの意味。
 {{% /notice %}}
 
 <div class="googlemap-if">

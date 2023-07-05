@@ -34,13 +34,14 @@ sc: [
 {{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識に白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span>、フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。{{% goto "../usa/" "アメリカ" %}}は<span class="quiz">SPEED LIMIT</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<div class="googlemap-if" style="margin:7px;">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
-<img src="./r/canada-sp-bc.png" width="80px" style="margin:7px">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
-<img src="./r/sp-on.svg" width="80px" style="margin:7px 40px 7px 7px">
-<img src="../usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
-<img src="../usa/r/sp-oregon.png" width="80px" style="margin:7px">
+<div class="googlemap-if" style="margin:5px;">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
+<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
+<img src="./r/sp-on.svg" width="66px" style="margin:5px">
+<img src="./canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px">
+<img src="../usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px">
+<img src="../usa/r/sp-oregon.png" width="66px" style="margin:5px">
 </div>
 
 </div>
@@ -180,7 +181,6 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
                 <li>黒い背景のkm表記は<span class="quiz">オンタリオ</span></li>
             </ul>
         </li>
-        <li>◆のプレートがあるのは<span class="quiz">オンタリオ</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
         <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
         <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
     </ul>
@@ -199,6 +199,16 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
 
 {{% /tab %}}
 {{% tab "速度表記" %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
+<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
+<img src="./r/sp-on.svg" width="66px" style="margin:5px">
+<img src="./canada-sp-nu.png" width="66px" style="margin:5px">
+</div>
+
+
 {{% notice tip %}}
 オンタリオ州とマニトバ州をつなぐ道路の<span class="quiz">オンタリオ</span>側の標識は `km/h` の部分が黒背景になっている。またオレンジと黒のカラーで書かれるときもある。
 {{% /notice %}}
@@ -211,11 +221,6 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680091669251!6m8!1m7!1s4SuXJP7m_ct16ebj318vxQ!2m2!1d49.73906045156971!2d-95.15518707897421!3f298.17287454440634!4f-3.983277349376138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "◆" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688194680751!6m8!1m7!1s67cxOWY5jKmWodnleg05sA!2m2!1d49.04608186779922!2d-90.6204380212422!3f117.51831448775125!4f-5.780874631208945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ランプ" %}}
@@ -258,6 +263,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
     <h4 class="section-title">ボラード</h4>
     <ul class="rule-list">
         <li>細くて上に赤い反射板があるボラードは<span class="quiz">ケベック</span></li>
+        <li>◆のプレートがあるのは<span class="quiz">オンタリオ</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
     </ul>
 </div>
 
@@ -269,6 +275,14 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682765326307!6m8!1m7!1s7gnwFVatHfMuJ1jFG2mgMw!2m2!1d48.39571830923472!2d-71.25217563290403!3f230.9901753934939!4f-6.749220089069581!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "オンタリオ" %}}
+{{% notice tip %}}
+オンタリオ州に多い。色が付いていないものもある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688194680751!6m8!1m7!1s67cxOWY5jKmWodnleg05sA!2m2!1d49.04608186779922!2d-90.6204380212422!3f117.51831448775125!4f-5.780874631208945!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
