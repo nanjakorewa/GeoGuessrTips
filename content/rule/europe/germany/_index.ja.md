@@ -24,6 +24,7 @@ sc: [
         <li>ドイツ語はエスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツは第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
         <li>バスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）/span>』のマークがある</li>
+        <li>有限会社という意味の『GmbH』が看板に書かれているときがある</li>
     </ul>
     {{% rd europe germany verysmall %}}
 </div>
@@ -60,6 +61,14 @@ sc: [
 <img src="./r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px">
 </div>
 
+{{% notice tip %}}
+石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業が多く、郊外に工場らしきものが見える（例<a href="https://goo.gl/maps/52RWqCop67xJMW8x6">①</a>・<a href="https://goo.gl/maps/1zUtgj3jRH2aKg3t6">②</a>）ことがあるけれどGeoguessrで役に立ったことはない{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="Aral.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% notice tip %}}
@@ -86,6 +95,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
                 <li><span class="quiz">ミュンヘン</span>：四隅に凹みがあり点がある・青い背景でプレートが平らではない</li>
                 <li><span class="quiz">フランクフルト</span>：太目のフォントを使用している。ミュンヘンと違いSやAにはねが無くフォントが異なる。</li>
                 <li><span class="quiz">ケルン</span>：シンプルな白いプレートだ</li>
+                <li>他は『<a href="https://docs.google.com/document/d/1uIKgS-bxcTJ2kPNcuwVdw_1608QuHohbgbDLrti6Vjo/edit#heading=h.kj2u3acdnyg1">A GeoGuessr guide to Germany (written by Steve)</a>』を参照</li>
             </ul>
         </li>
     </ul>

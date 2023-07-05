@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "MK.svg"
+plonkit: true
 plonkit_url: "north-macedonia"
 no_detaile_info: true
 sc_title: "間違えやすい地域"
