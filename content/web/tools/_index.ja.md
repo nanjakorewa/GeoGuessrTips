@@ -1,11 +1,11 @@
 ---
-title: "ランダムガチャ"
+title: "ランダム地域選択"
 subtitle: ""
 date: 2023-07-03
 lastmod: 2023-07-03
 weight: 100
 draft: false
-keywords: ["Daig_Oさんの配信で使ってるアレ", "バックグラウンド", "音楽"]
+keywords: ["ガチャ", "ランダム", "選択"]
 sections: [""]
 ---
 
