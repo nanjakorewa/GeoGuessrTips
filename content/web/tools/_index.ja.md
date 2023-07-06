@@ -183,7 +183,7 @@ function startGacha(forceChangeImg = false) {
     stopButton.disabled = false;
     tweetButton.disabled = true;
     intervalId = setInterval(function() {
-    currentIndex = (currentIndex + 1 + Math.floor(0.3 * Math.random() * itemLen)) % itemLen;
+    currentIndex = (currentIndex + 1 + Math.floor(0.5 * Math.random() * itemLen)) % itemLen;
     if (Math.floor(Math.random() * 20)%20 === 0) {
         gachaImage.src = items[currentIndex].image;
     }
