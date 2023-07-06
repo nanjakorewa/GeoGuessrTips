@@ -172,7 +172,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
             <ul>
                 <li>Inuktitut（イヌクティトット語）が見られるのはヌナブト準州のイルカルイト（例<a href="https://goo.gl/maps/gmn7Rgg4ojx2TBCg6">①</a>）</li>
                 <li>ARRETは<span class="quiz">ケベック</span></li>
-                <li class="no-evidence">STOPとARRET併記は<span class="quiz">オンタリオ</span>？</li>
+                <li class="no-evidence">STOPとARRET併記は<span class="quiz">ニューブランズウィック</span>と<span class="quiz">オンタリオ</span></li>
             </ul>
         </li>
         <li>速度制限の看板が地域ごとに微妙に異なる
