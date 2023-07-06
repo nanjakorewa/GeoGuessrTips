@@ -1175,9 +1175,30 @@ img#gachaImage {
 }
 
 .buttonRound {
-  height: 34px;
+  height: 44px;
+  width: 200px;
   border-radius: 5px;
+  margin: 10px;
+  font-size: 1.2em;
+  border-width: 1px;
+  font-weight: bold;
+  background-color: #fff;
+}
+
+.buttonRound:hover {
+  background-color: #ffe187;
+}
+
+.buttonRound-tweet {
+  height: 34px;
+  width: 200px;
+  border-width: 1px;
+  border-radius: 15px;
   margin: 10px;
   font-size: 1em;
   font-weight: bold;
+  background-color: #fff;
+}
+.buttonRound-tweet:hover {
+  background-color: #baf9ff;
 }
