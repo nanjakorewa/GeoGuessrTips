@@ -3,17 +3,29 @@
   <link rel="icon" href="favicon.ico">
   {{ if eq .Title site.Title }}
   <title>{{ .Title }}</title>
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="og:title" content="{{ .Title }}">
+  <meta property="og:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
+  <meta name="twitter:title" content="{{ .Title }}">
+  <meta name="twitter:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
   {{ else if .Params.subtitle }}
   <title>{{ .Params.subtitle }}</title>
   {{ else if .Params.flag }}
     {{ if eq .Page.Lang "ja" }}
     <title>{{ .Params.title }}を見分ける - ジオゲッサーの攻略メモ</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="{{ .Params.title }}を見分ける - ジオゲッサーのメモ">
+    <meta property="og:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
+    <meta name="twitter:title" content="{{ .Params.title }}を見分ける - ジオゲッサーのメモ">
+    <meta name="twitter:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
     {{ else }}
     <title>{{ .Params.title }} - My Geogesser Tips</title>
     {{ end }}
   {{ else }}
     {{ if eq .Page.Lang "ja" }}
     <title>{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーの攻略メモ</title>
+    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーのメモ">
+    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーのメモ">
     {{ else }}
     <title>About {{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips</title>
     {{ end }}
@@ -22,6 +34,8 @@
   {{ if (.Params.flag) }}
   <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてメモしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
   {{ else if (.Params.description)}}
+  <meta property="og:description" content="{{ .Params.description }}">
+  <meta name="twitter:description" content="{{ .Params.description }}">
   <meta name="description" content="{{ .Params.description }}。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
   {{ else if (.IsHome)}}
   <meta name="description" content="勉強を兼ねてGeoGuessrの国ごとのヒントや攻略Tipsをメモしているページです。">
@@ -48,7 +62,10 @@
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
 
   {{ if .Params.flag }}
+  {{ $flagUrl_card := print "flags/" .Params.flag }}
   <script src="https://www.google.com/recaptcha/api.js?render=6LePkSElAAAAAJUYutRMNkNu0S7jNVhjTD4dHy1V"></script>
+  <meta property="og:image" content="{{ $flagUrl_card | absURL }}">
+  <meta name="twitter:image" content="{{ $flagUrl_card | absURL }}">
   {{ end }}
 
   <style>
