@@ -1165,7 +1165,7 @@ animation :infinity-scroll-left 180s infinite linear 0.5s both;
 }
 
 img#gachaImage {
-  max-height:350px;
+  max-height:300px;
 }
 
 #gachaText {
@@ -1199,6 +1199,7 @@ img#gachaImage {
   font-weight: bold;
   background-color: #fff;
 }
+
 .buttonRound-tweet:hover {
   background-color: #baf9ff;
 }

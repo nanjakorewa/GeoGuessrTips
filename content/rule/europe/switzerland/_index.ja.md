@@ -16,11 +16,11 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>ドメインは<span class="quiz">.ch</span></li>
         <li>カメラの位置が<span class="quiz">低い</span></li>
         <li>ボラードの色は<span class="quiz">白色で、黒いラインが入っている</span>{{% by %}}</li>
         <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語 {{% by "supercat6_9" "twitch" %}}</li>
         <li>ナンバープレートは特徴的だがモザイクが強くわかりにくい</li>
-        <li>ドメインは<span class="quiz">.ch</span></li>
         <li>横断歩道標識は<span class="quiz">7本</span></li>
         <li>消火栓が灰色で上の部分が赤い</li>
     </ul>
