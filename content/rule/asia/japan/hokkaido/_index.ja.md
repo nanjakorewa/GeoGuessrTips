@@ -14,13 +14,21 @@ no_jetro: true
 {{% tabs  %}}
 {{% tab "北海道全域" %}}
 {{% notice tip %}}
-雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。あとコンビニは<span class="quiz">セイコーマート</span>が特徴的。
+雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681859865264!6m8!1m7!1sh4VbsA_6UZEhyGjkexqrWw!2m2!1d42.84417952008602!2d141.6648383904109!3f221.25908237760473!4f16.44955216675497!5f2.5404173457854635" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681860585927!6m8!1m7!1sJFV-zkeoWDfSMp9nyGXqAA!2m2!1d43.06600885791498!2d141.3547923887244!3f132.40038779422866!4f7.148383159425123!5f2.8627688976220953" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="Kōnomai02.jpg" width="80%">
 </div>
+
+{{% notice tip %}}
+コンビニは<span class="quiz">セイコーマート</span>が特徴的。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="Akan_bus_Akan01.jpg" width="80%">
+</div>
+
 
 {{% notice tip %}}
 北海道には<span class="quiz">灯油タンク</span>（ホームタンクと呼ばれる４９０㍑灯油が保存できるタンク、ほとんど白色で緑・黒・黄・赤のものもある）が家の外にある。屋根からの雪下ろしをしなくても大丈夫なように工夫された、遠くからみると<span class="quiz">まっ平な屋根に見えるスノーダクト屋根・フラットルーフ</span>屋根が多い。また、誰もいない場所に雪が自然に落ちるように設計された屋根（遠くから見るとへの形）も多い。車庫は<span class="quiz">耐久性の高いカスケードガレージ</span>が使われていることがある（<a href="https://www.s-bic.co.jp/cascade/about.html">出典</a>）。

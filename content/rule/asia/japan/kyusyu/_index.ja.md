@@ -13,7 +13,7 @@ flag: "JP.svg"
 {{% tabs  %}}
 {{% tab "指宿市" %}}
 {{% notice tip %}}
-イーブイすき
+ごく稀にイーブイのマンホールがある。
 {{% /notice %}}
 
 <div class="googlemap-if">

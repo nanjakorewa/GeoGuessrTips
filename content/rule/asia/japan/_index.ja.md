@@ -27,17 +27,31 @@ import_jquery_36: true
 {{% /notice %}}
 
 
+{{% tabs  %}}
+{{% tab "w-etf" %}}
+{{% notice tip %}}
+電柱に縦の縞模様がある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/124982286@N08/52965926190/" title="A Street In Izushi Town"><img src="https://live.staticflickr.com/65535/52965926190_ca12a58331_z.jpg" width="640" height="427" alt="A Street In Izushi Town"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+道端にオレンジの反射板（デリネーター）がある{{% ref "https://www.shisenyuudou.jp/" "日本視線誘導標協会" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/yorozuna/24211912034/in/photolist-CTwnVd-nvKsya-2kJnmeU-nzbDNL-daoBVs-6t6LGZ-gR32GT-zGhCVc-GftizY-LctdpP-oRywSY-opstGN-24qJHTY-n9SuyP-XtPB8p-2hbTVSn-ZFune9-qfURKd-2ma5uSE-2kDmouC-qXQU9a-dH1sws-chhP6w-mDvHcc-nENWEg-XpQPgq-q3jREQ-qxqjs6-2iA6r1u-bzJa2c-Ut93tZ-shTHVU-gKvbTv-xCkR43-2kxptKc-fiQHTU-jD3kZ2-E3s9F1-2kkVMbM-FP8R4t-kYbtS8-H4DoY1-nic9SX-7VSuKU-mzbAqt-2jCnmvQ-JvUKAw-hzVt26-pNenTE-2kkVLuS" title="熱波と爽風の交わり"><img src="https://live.staticflickr.com/1619/24211912034_ec20fef3d1_z.jpg" width="640" height="427" alt="熱波と爽風の交わり"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電話番号でおよその地域がわかる</li>
-        <li>電柱のプレートやポールトップが異なる{{% ref "https://docs.google.com/document/d/16lVvh3sLCnHLh_itpEsvXrHHCR_EPzArBmb4bg6TUTU/edit#" "Guide to Regional Plates on Japanese Utility Pole" %}}{{% ref "https://docs.google.com/document/d/1Pm4qV16U5Yp4xMP4PnR_AUY4Td1aB0kPoCEzNRN2ESU/edit" "A Japan guide by Fanty" %}}
-            <ul>
-                <li class="no-evidence">北陸・東北の寒い地域は横向きのプレートがありえる</li>
-            </ul>
-        </li>
+        <li>電話番号の市外局番でおよその地域がわかる</li>
         <li><a href="./hokkaido/" class="area-link">北海道</a>
             <ul>
                 <li>コンビニに<span class="quiz">セイコーマート</span>がある</li>
@@ -47,7 +61,14 @@ import_jquery_36: true
         </li>
         <li><a href="./tyugoku/" class="area-link">中国地方</a>
             <ul>
+                <li>石州瓦を用いた家が東広島を中心に山陰地方にあり屋根が<span class="quiz">赤</span>色っぽい</li>
                 <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
+            </ul>
+        </li>
+        <li><a href="./tyugoku/" class="area-link">九州地方</a>
+            <ul>
+                <li class="no-evidence"><span class="quiz">ススキ</span>が多い</li>
+                <li class="no-evidence" style="opacity:0.4">路面の『止まれ』の文字の『れ』の縦棒が他の地域と長さが違う？</li>
             </ul>
         </li>
         <li><a href="./okinawa/" class="area-link">沖縄地方</a>
@@ -62,7 +83,7 @@ import_jquery_36: true
 </div>
 
 {{% tabs  %}}
-{{% tab "w-etf" %}}
+{{% tab "市外局番" %}}
 {{% notice tip %}}
 市外局番が札幌(`011`)～東京(`03`)～大阪(`06`)～鹿児島(`099`)でなんとなくグラデーションとなっているので大体の位置がわかる。
 {{% /notice %}}
@@ -73,27 +94,24 @@ import_jquery_36: true
 </div>
 
 {{% /tab %}}
-{{% tab "🎵" %}}
-
-{{% notice tip %}}
-<span class="quiz">千葉県長生郡長柄町</span>
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe width="590" height="315" src="https://www.youtube.com/embed/u1ZB_rGFyeU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>北海道や東北などの寒い地域
+        <li>北海道や東北などの寒い地域特有のものがある
             <ul>
                 <li>スノーポールがあることが多く灯油タンクも散見される</li>
                 <li>雪対策として信号機が<span class="quiz">縦</span>になっていることがある</li>
                 <li>雪対策として電話ボックスの屋根が平らじゃないことがある</li>
                 <li class="no-evidence">配線に<span class="quiz">ねじれ防止ダンパー</span>がある{{% ref "https://www.hepco.co.jp/network/stable_supply/efforts/snow_prevention/index.html" "雪による停電を防ぐ設備" %}}</li>
             </ul>
+        </li>
+        <li>電柱のプレートや電柱のてっぺんの形が地域によって異なる{{% ref "https://docs.google.com/document/d/16lVvh3sLCnHLh_itpEsvXrHHCR_EPzArBmb4bg6TUTU/edit#" "Guide to Regional Plates on Japanese Utility Pole" %}}{{% ref "https://docs.google.com/document/d/1Pm4qV16U5Yp4xMP4PnR_AUY4Td1aB0kPoCEzNRN2ESU/edit" "A Japan guide by Fanty" %}}
+            <ul>
+                <li class="no-evidence">北陸・東北の寒い地域は横向きのプレートがありえる</li>
+            </ul>
+        </li>
+        <li>電柱のガイワイヤー（Guy-wire・支線）が地域によって異なる{{% ref "https://docs.google.com/document/d/18s_xdyXfVpBNHzwn8PtC9otpIwAJNWXjeeWg2egVd4U/edit" "Regional Differences in Guy-Wires for utility poles in Japan" %}}
         </li>
 </div>
