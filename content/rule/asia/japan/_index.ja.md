@@ -69,6 +69,8 @@ import_jquery_36: true
             <ul>
                 <li class="no-evidence"><span class="quiz">ススキ</span>が多い</li>
                 <li class="no-evidence" style="opacity:0.4">路面の『止まれ』の文字の『れ』の縦棒が他の地域と長さが違う？</li>
+                <li>熊本の標識には赤いテープが巻いてある</li>
+                <li>宮崎の標識には黄色いテープが巻いてある</li>
             </ul>
         </li>
         <li><a href="./okinawa/" class="area-link">沖縄地方</a>

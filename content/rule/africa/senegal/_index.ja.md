@@ -15,6 +15,7 @@ sc_title: "関連ページ"
 sc_icon: rel
 sc: [
     ["../../europe/france/", "フランス"],
+    ["../kenya/", "ケニア"],
     ]
 ---
 
