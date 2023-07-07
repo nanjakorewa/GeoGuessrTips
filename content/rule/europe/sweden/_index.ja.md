@@ -148,7 +148,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>標識についている番号は道路番号{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る" %}}
+        <li>標識についている番号は道路番号{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る -【GeoGuessr】気づきにくい道路番号を読み取る" %}}
             <ul>
                 <li>道路番号は2桁は南から9～99、3桁は南から100～400くらい{{% by "syamu_0304" "twitch" %}}</li>
             </ul>
@@ -159,7 +159,7 @@ sc: [
 {{% tabs %}}
 {{% tab "標識についている番号" %}}
 
-{{% notice tip %}}標識についている番号は道路番号{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る" %}}
+{{% notice tip %}}標識についている番号は道路番号{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る -【GeoGuessr】気づきにくい道路番号を読み取る" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
