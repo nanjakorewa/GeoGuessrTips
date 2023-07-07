@@ -44,7 +44,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多く海沿いの地域は赤色のランプが<span class="quiz">右</span>側にある。南西のラゴス周辺ではパトカーがいないこともあるので注意。
+<span class="quiz">パトカー</span>が付いてくることが多い。南西のラゴス周辺ではパトカーがいないこともあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683692834092!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.04290114587546!2d8.553268243877477!3f21.608577852446587!4f-8.27794757499612!5f3.1261648081652695" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -87,7 +87,7 @@ sc: [
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(USDA)</a>・マップのサイズが一致するように一部画像加工あり</li>
             </ul>
         </li>
-        <li>パトカーの赤青の位置で地域を絞り込める{{% by %}}
+        <li>パトカーの赤青の位置で地域を絞り込める{{% by %}}。しかし100%ではないように思うので周りの景色も見て判断する。
             <ul>
                 <li>内陸側・アブジャ周辺地域は赤色のランプが<span class="quiz">左側</span>にある</li>
                 <li>海沿いの地域は赤色のランプが<span class="quiz">右側</span>にある</li>
