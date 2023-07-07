@@ -84,6 +84,20 @@ maps: [
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title">アメリカが関係する離島</h2>
+    <ul class="rule-list">
+        <li>アメリカ本土から離れた場所にアメリカ領の離島やアメリカが関係する場所が存在する
+            <ul>
+                <li>{{% goto "./region4/" "ハワイ・ハワイ諸島" %}}</li>
+                <li>{{% goto "../../oceania/samoa/" "アメリカ領サモア" %}}</li>
+                <li>{{% goto "../virgin_islands/" "アメリカ領ヴァージン諸島" %}}</li>
+                <li>{{% goto "../../oceania/midway_atoll/" "ミッドウェー島" %}}</li>
+                <li>{{% goto "../../oceania/northern_mariana_islands/" "北マリアナ諸島" %}}</li>
+                <li>{{% goto "../puerto-rico/" "プエルトリコ" %}}（アメリカ合衆国の自治的・未編入領域）</li>
+            </ul>
+        </li>
+    </ul>
+    <h4 class="section-title">重要なルール</h2>
     <ul class="rule-list">
         <li>① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a>{{% by "rumilb" "twitch" %}}。前にあるかどうかだけはじめに覚える。
             <ul>
@@ -118,15 +132,6 @@ maps: [
             </ul>
         </li>
         <li>③ 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
-        <li class="no-evidence">④ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}
-            <ul>
-                <li>Chevron→南の海沿いの州か西海岸の州</li>
-                <li>Citgo→東側の州</li>
-                <li>Phillips→内陸の州</li>
-                <li>Murphy USA→東側の州</li>
-                <li>Texaco→南の海沿いの州か西海岸の州</li>
-            </ul>
-        </li>
     </ul>
 </div>
 
@@ -134,7 +139,7 @@ maps: [
 {{% tabs  %}}
 {{% tab "①ナンバープレート" %}}
 {{% notice tip %}}
-まず、前にナンバープレートを付ける必要がないエリア（黄色のエリア）を覚えてからナンバープレートの色を覚える。テキサス州が前にもある点、北東のデラウェア州が前に付いていない点が忘れがちなので注意。
+まず、前にナンバープレートを付ける必要がないエリア（黄色のエリア）を覚えてからナンバープレートの色を覚える。光の当たり方や角度で少し違った色に見えることも多く何回も練習して慣れる必要がある。もちろん車は動くのでナンバーで100%州が当たるわけではない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
@@ -179,22 +184,6 @@ maps: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "④ガソリンスタンド" %}}
-{{% notice tip %}}
-自作なので正しくないかも
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="./gas_station.png" width="90%">
-</div>
-{{% /tab %}}
-{{% tab "⑤車のシール" %}}
-{{% notice tip %}}
-いくつかの州は車の車検のシールで判別できるかも
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686697089977!6m8!1m7!1scNsmawQmXIHwhM2LgvJ8Sw!2m2!1d29.77205520001398!2d-95.85548442263284!3f213.64170150512496!4f-24.867341361566673!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -296,5 +285,42 @@ maps: [
 コーンや大豆と地域が重複していない。他のデータと地図が同じ形になるように縮尺や色を加工しています。
 {{% /notice %}}
 
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h4 class="section-title">その他</h4>
+    <ul class="rule-list">
+        <li class="no-evidence">ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}
+            <ul>
+                <li>Chevron→南の海沿いの州か西海岸の州</li>
+                <li>Citgo→東側の州</li>
+                <li>Phillips→内陸の州</li>
+                <li>Murphy USA→東側の州</li>
+                <li>Texaco→南の海沿いの州か西海岸の州</li>
+            </ul>
+        </li>
+        <li class="no-evidence">車の車検のシールで州がわかることがある</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "ガソリンスタンド" %}}
+{{% notice tip %}}
+自作なので正しくないかも
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./gas_station.png" width="90%">
+</div>
+{{% /tab %}}
+{{% tab "車のシール" %}}
+{{% notice tip %}}
+いくつかの州は車の車検のシールで判別できるかも
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686697089977!6m8!1m7!1scNsmawQmXIHwhM2LgvJ8Sw!2m2!1d29.77205520001398!2d-95.85548442263284!3f213.64170150512496!4f-24.867341361566673!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
