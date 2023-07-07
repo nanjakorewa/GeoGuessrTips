@@ -63,6 +63,7 @@
 
   {{ if .Params.flag }}
   {{ $flagUrl_card := print "flags/" .Params.flag }}
+  {{ $flagUrl_card = replace $flagUrl_card ".svg" ".png" }}
   <script src="https://www.google.com/recaptcha/api.js?render=6LePkSElAAAAAJUYutRMNkNu0S7jNVhjTD4dHy1V"></script>
   <meta property="og:image" content="{{ $flagUrl_card | absURL }}">
   <meta name="twitter:image" content="{{ $flagUrl_card | absURL }}">
