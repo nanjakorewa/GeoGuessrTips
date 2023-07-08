@@ -27,7 +27,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ピラミッドやカーイト・ベイの要塞のような観光地が出る。左右対称で日干しレンガと石で作られた建築物が多い。
+ピラミッドやカーイト・ベイの要塞のような観光地が出る。左右対称な形が多く、日干しレンガと石で作られた建築物が多い。『王の権威や神秘性を高める宗教的要素が重んじられ、それ故にシンメトリー（左右対称性）や一本の長い軸により連続的に空間に秩序付けする方法が発達した』らしい{{% ref "https://www.news-digest.co.uk/news/index.php?cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "エジプト建築" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687074150020!6m8!1m7!1s5VSLyH9gUpMjOzJbRVnnTA!2m2!1d29.98040893145138!2d31.13534148259916!3f213.32940028359056!4f19.06443668414819!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
