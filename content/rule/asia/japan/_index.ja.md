@@ -56,7 +56,13 @@ import_jquery_36: true
             <ul>
                 <li>コンビニに<span class="quiz">セイコーマート</span>がある</li>
                 <li>道路に<span class="quiz">スノーポール・視線誘導標</span>がある</li>
-                <li><span class="quiz">屋根が平ら・カスケード型のガレージ・ホームタンク</span>のある家が目立つ</li>
+                <li>寒い地域特有の家が多い
+                    <ul>
+                        <li>屋根が<span class="quiz">平ら</span></li>
+                        <li>カスケード型のガレージがある</li>
+                        <li>ホームタンクと呼ばれる<span class="quiz">灯油タンク</span>のある家が目立つ{{% ref "http://www.sundia.co.jp/product/home_equipment/home-tank-main/" "サンダイヤオイルタンク" %}}</li>
+                    </ul>
+                </li>
             </ul>
         </li>
         <li><a href="./tyugoku/" class="area-link">中国地方</a>
@@ -100,10 +106,11 @@ import_jquery_36: true
 
 
 <div class="main-desciption area-description">
+    <h4>電柱や標識</h4>
     <ul class="rule-list">
         <li>北海道や東北などの寒い地域特有のものがある
             <ul>
-                <li>スノーポールがあることが多く灯油タンクも散見される</li>
+                <li class="no-evidence">「停止線」の標識がある</li>
                 <li>雪対策として信号機が<span class="quiz">縦</span>になっていることがある</li>
                 <li>雪対策として電話ボックスの屋根が平らじゃないことがある</li>
                 <li class="no-evidence">配線に<span class="quiz">ねじれ防止ダンパー</span>がある{{% ref "https://www.hepco.co.jp/network/stable_supply/efforts/snow_prevention/index.html" "雪による停電を防ぐ設備" %}}</li>

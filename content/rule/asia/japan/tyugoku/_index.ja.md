@@ -10,7 +10,26 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>石州瓦を用いた家が東広島を中心に山陰地方にあり屋根が<span class="quiz">赤</span>色っぽい</li>
+        <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
+    </ul>
+</div>
+
+
 {{% tabs  %}}
+{{% tab "石州瓦" %}}
+{{% notice tip %}}
+石州瓦は島根県の石見地方で生産されている粘土瓦。山陰地方で広く使われていて、赤茶色であるのが特徴的。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/phimee/52872530308/in/photolist-2gQeCSG-3TYvb-dyi7aW-dyi6T1-oWRn8W-2ggaKFS-aHmRVx-2oyaxd9" title="6D0_9930"><img src="https://live.staticflickr.com/65535/52872530308_d759a19711_z.jpg" width="640" height="426" alt="6D0_9930"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
 {{% tab "山口県" %}}
 {{% notice tip %}}
 山口県は昭和３８年の山口国体のときにガードレールの色を県特産の「<span class="quiz">夏みかん</span>」の色にして県特産品のアピールをした。その名残で色が<span class="quiz">夏みかん</span>の色に。{{% by "https://www.sba-japan.com/about/" "web" "鋼製防護柵協会" %}}
