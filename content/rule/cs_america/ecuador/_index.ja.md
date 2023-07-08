@@ -67,11 +67,18 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680195196270!6m8!1m7!1svtwMPkjHFvS6XpjnAsY6Dg!2m2!1d-0.332809350620797!2d-78.20154205749002!3f141.7641883233853!4f-10.418206871649673!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680195243205!6m8!1m7!1sXLKz6wP93UFe2YDt-MAmIw!2m2!1d-0.02970552552317805!2d-78.75886554902458!3f342.9268428942793!4f-10.588056665345405!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819356117!6m8!1m7!1sbDWW7_m7JikpU0tXyfYT4A!2m2!1d-0.1851809444121328!2d-79.2016505031237!3f63.95128590678875!4f-11.298108485216616!5f3.323547605148729" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688829859128!6m8!1m7!1s9eX9rIO8mrszxmDFDZROzQ!2m2!1d-0.2555755127413128!2d-80.2917374954958!3f166.07825354074004!4f-18.22402579755061!5f3.2783501803562594" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
+{{% notice tip %}}
+赤や白のぼかしにアンテナがちょっと見える。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680194683604!6m8!1m7!1sMtvT_41CB0goCdpzCRdhXg!2m2!1d-0.1714598883614303!2d-78.48973907581545!3f101.51991125706458!4f-33.7065829871796!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688829681459!6m8!1m7!1sQYt95CAnpw3B_HsOIe4l3g!2m2!1d-3.770267940009595!2d-78.73940872974077!3f229.7554627436984!4f-32.261134461991354!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688829813109!6m8!1m7!1szqCFrptSmdrg3vyvWCfqPQ!2m2!1d0.2375373675010081!2d-78.34631228360985!3f189.40816902643556!4f-36.76574430592228!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688829875622!6m8!1m7!1s9eX9rIO8mrszxmDFDZROzQ!2m2!1d-0.2555755127413128!2d-80.2917374954958!3f223.2545471736234!4f-33.08495663102262!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
