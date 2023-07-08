@@ -42,7 +42,7 @@ is_has_many_trekker: true
 </div>
 
 {{% notice tip %}}
-都市部から離れた非常に小さな範囲にバンディアガラの断崖がある。Geoguessrのduelなどに出題されるかは不明。
+都市部から離れた非常に小さな範囲にバンディアガラの断崖がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688522144918!6m8!1m7!1sMrJ_ojUOEXsAAARAtEXY_A!2m2!1d14.42944800418333!2d-3.324941502121589!3f27.876063363255415!4f-1.354899924180799!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
