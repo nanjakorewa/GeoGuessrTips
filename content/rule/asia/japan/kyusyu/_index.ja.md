@@ -10,13 +10,36 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list">
+                <li><span class="quiz">ススキ</span>が多い{{% ref "https://www.city.fukuoka.lg.jp/data/open/cnt/3/65125/1/H30sizenmatome.pdf?20210628182402" "福岡市の自然-山編-" %}}</li>
+                <li>熊本の標識には赤いテープが巻いてある</li>
+                <li>宮崎の標識には黄色いテープが巻いてある</li>
+                <li class="no-evidence" style="opacity:0.4">路面の『止まれ』の文字の『れ』の縦棒が他の地域と長さが違う？</li>
+    </ul>
+</div>
+
 {{% tabs  %}}
-{{% tab "指宿市" %}}
+{{% tab "ススキ" %}}
 {{% notice tip %}}
-ごく稀にイーブイのマンホールがある。
+道端にススキが生えているイメージがある。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684577201308!6m8!1m7!1sA6EONgJrB0Eet_GpWKceQw!2m2!1d31.23828113691104!2d130.6449401141606!3f110.44184210147529!4f-23.09108495641989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684577217854!6m8!1m7!1sKtC1Y7jYHYZZP5_aVdbf3A!2m2!1d31.23682677085272!2d130.6421129666188!3f97.09721690287545!4f-13.046497895182952!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/songmatin/52581761712/" title="波戸岬｜Cape Hado"><img src="https://live.staticflickr.com/65535/52581761712_3605d34359_z.jpg" width="640" height="427" alt="波戸岬｜Cape Hado"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% /tab %}}
+{{% tab "『止まれ』の文字の『れ』" %}}
+{{% notice tip %}}
+100%ではなさそうな上に正しいかわからないが、れが長く感じる。右が熊本や長崎にありそうな『れ』。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./tomare.png" width="90%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}

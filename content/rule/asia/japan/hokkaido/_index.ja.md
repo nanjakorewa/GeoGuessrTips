@@ -14,7 +14,7 @@ no_jetro: true
 {{% tabs  %}}
 {{% tab "北海道全域" %}}
 {{% notice tip %}}
-雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。
+雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。北海道以外でも雪が多い地域に同じものがある（例<a href="https://goo.gl/maps/RTeMj4iZoyZ7C5v67">①</a>）ので他の要素と合わせて北海道と判断する。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
