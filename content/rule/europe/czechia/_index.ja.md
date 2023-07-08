@@ -117,3 +117,24 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>標識に道路番号が書いてある{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "道路番号" %}}
+{{% notice tip %}}
+道路番号が看板に書いてある{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る" %}}。他にも書いてあるケースあり、リンク先参照。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./roadsign.png" width="80%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
