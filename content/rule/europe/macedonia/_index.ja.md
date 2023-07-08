@@ -32,6 +32,7 @@ sc: [
         <li>ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える</li>
         <li>反射板の周りが<span class="quiz">黒</span>色に塗られており<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}</li>
         <li>ガードレールはセルビアやモンテネグロと異なり丸みを帯びている</li>
+        <li>Google Carのアンテナが見えないことが多い</li>
     </ul>
     {{% rd europe macedonia verysmall %}}
 </div>

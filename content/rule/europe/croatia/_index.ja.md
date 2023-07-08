@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../serbia/", "セルビア"],
     ["../montenegro/", "モンテネグロ"],
+    ["../slovenia/", "スロベニア"],
     ]
 ---
 
@@ -91,6 +92,16 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 <div class="googlemap-if">
 <img src="./danger.png" width="200px" style="margin:40px">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687420541262!6m8!1m7!1sRyu6joCRwmzAD3KGWEXAng!2m2!1d45.1776553685094!2d18.02067469498351!3f267.7560786542673!4f-11.752237957176746!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+クロアチアの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">スロベニア</span>・<span class="quiz">ハンガリー</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
+<img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
 
 {{% /tab %}}

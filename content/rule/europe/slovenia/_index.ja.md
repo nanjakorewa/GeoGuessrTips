@@ -14,6 +14,7 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../austria/", "オーストリア"],
+    ["../croatia/", "クロアチア"],
     ]
 ---
 
@@ -24,6 +25,7 @@ sc: [
         <li>オーストリアと見た目が似ているボラードがある</li>
         <li>オーストリアはZONEだがスロベニアは<span class="quiz">CONA</span></li>
         <li>道端に道路番号が書かれた<span class="quiz">白く小さい</span>看板がある。</li>
+        <li>「Č・č」はオーストリアでは使われない{{% ref "https://ja.wikipedia.org/wiki/%C4%8C" "Č" %}}</li>
         <li class="no-evidence">窓辺に植木鉢がありきれいな花が飾られていることが多い</li>
         <li class="no-evidence">標識の裏に黄色いシールが張ってあることがある</li>
     </ul>
@@ -33,7 +35,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-オーストリアと見た目が似ているボラードがある
+{{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682337109400!6m8!1m7!1sahs5Fan5kesxOhnOTKQoEw!2m2!1d46.62237614902449!2d16.21391446134908!3f91.85589159128051!4f-14.14110736434948!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -41,18 +43,27 @@ sc: [
 </div>
 
 {{% notice tip %}}
-窓辺に植木鉢があり花が飾られている。2階よりも高い場所にも置いてあることがある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683357423357!6m8!1m7!1smXlQofPLqwXVG40XOlT-cw!2m2!1d46.54343847896519!2d15.65664575055611!3f274.5442973094061!4f-0.8964263945268272!5f3.305109203400886" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683357348162!6m8!1m7!1s0ZF5DG0ElpotnKNPsL-WcA!2m2!1d46.54329923880041!2d15.65802801061761!3f298.5911233644874!4f-2.881815226217981!5f3.314209002950368" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
 ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+{{% goto "../croatia/" "クロアチア" %}}と異なり横断歩道の看板にベルトが無い。左から<span class="quiz">スロベニア</span>・<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+窓辺に植木鉢があり花が飾られている？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683357423357!6m8!1m7!1smXlQofPLqwXVG40XOlT-cw!2m2!1d46.54343847896519!2d15.65664575055611!3f274.5442973094061!4f-0.8964263945268272!5f3.305109203400886" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683357348162!6m8!1m7!1s0ZF5DG0ElpotnKNPsL-WcA!2m2!1d46.54329923880041!2d15.65802801061761!3f298.5911233644874!4f-2.881815226217981!5f3.314209002950368" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
