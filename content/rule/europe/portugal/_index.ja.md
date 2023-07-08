@@ -45,7 +45,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある。横断歩道の標識は腰にベルトを付けている。
+電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682929507919!6m8!1m7!1sTVpNv4zs7dn6M11pkdgWCg!2m2!1d38.96112490377647!2d-9.399873449321543!3f343.5869592963145!4f-3.0339231588508966!5f1.7427477115171373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

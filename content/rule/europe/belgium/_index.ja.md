@@ -22,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.be</span></li>
+        <li>レンガで作られた建築物が多い</li>
         <li>ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}</li>
         <li>白い棒に<span class="quiz">黄</span>色の長方形の反射板があるボラード</li>
     </ul>
@@ -31,6 +32,16 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+レンガで作られた建築物が多い
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/gonzo_pz/10827116965/" title="Leuven"><img src="https://live.staticflickr.com/5484/10827116965_3d4929a99f_z.jpg" width="640" height="428" alt="Leuven"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
 {{% notice tip %}}
 ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}ものがある。
 {{% /notice %}}
