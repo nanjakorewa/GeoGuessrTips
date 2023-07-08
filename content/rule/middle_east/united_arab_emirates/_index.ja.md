@@ -26,7 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ae</span></li>
         <li>ナンバープレートは基本白でドバイのみ後ろの左側が<span class="quiz">赤</span>色</li>
         <li>ドバイは高層ビルが見えることが多い</li>
-        <li>Google Carが特徴的</li>
+        <li>Google Carが特徴的で基本的に<span class="quiz">白</span>色</li>
         <li class="no-evidence">緑色の上が折れ曲がったパイプのフェンスをよく見かける</li>
     </ul>
     {{% rd middle_east united_arab_emirates verysmall %}}
