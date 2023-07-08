@@ -20,7 +20,7 @@ is_has_many_trekker: true
         <li>ドメインは<span class="quiz">.ml</span></li>
         <li>言語は<span class="quiz">フランス語</span>と地域固有の言語</li>
         <li>マリでは<span class="quiz">泥</span>を使った建築物が多く見た目も特徴的{{% ref "http://www.kamit.jp/27_mali/mali.htm" "西アフリカの イスラｰム建築" %}}</li>
-        <li>世界遺産である{{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "ジェンネ旧市街" %}}・{{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "アスキアの墓" %}} ・{{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "バンディアガラの断崖" %}}・{{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "トンブクトゥ" %}}付近にストリートビューがある</li>
+        <li>世界遺産である{{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "ジェンネ旧市街" %}}・{{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "アスキアの墓" %}} ・{{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "バンディアガラの断崖" %}}・{{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "トンブクトゥ" %}}付近にストリートビューが多くこれ以外にも小さな点が複数ある</li>
     </ul>
 </div>
 
