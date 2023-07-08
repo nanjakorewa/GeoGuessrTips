@@ -11,13 +11,15 @@ flag: "EG.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_many_trekker: true
+plonkit: true
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.eg</span></li>
-        <li>ピラミッドやカーイト・ベイの要塞が見える</li>
+        <li>ピラミッドやカーイト・ベイの要塞のような観光地が多い</li>
+        <li>日干しレンガや白い石でできた左右対称の建物が多い</li>
         <li>一般車のナンバープレートの上が<span class="quiz">水</span>色</li>
     </ul>
 </div>
@@ -25,11 +27,13 @@ is_has_many_trekker: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ピラミッドかカーイト・ベイの要塞が見えるはず。
+ピラミッドやカーイト・ベイの要塞のような観光地が出る。左右対称で日干しレンガと石で作られた建築物が多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687074150020!6m8!1m7!1s5VSLyH9gUpMjOzJbRVnnTA!2m2!1d29.98040893145138!2d31.13534148259916!3f213.32940028359056!4f19.06443668414819!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687086418598!6m8!1m7!1stno5NLJlsCNekfMVKHIn3w!2m2!1d31.21362287911513!2d29.88600059673334!3f316.03813673587365!4f4.855447608306946!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688790252839!6m8!1m7!1slMyWT6KdlKsSr9m5nbzBUw!2m2!1d30.02951612069242!2d31.26102349615607!3f61.714884153398124!4f18.340014211500417!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688790383511!6m8!1m7!1sPxuQ5rCWs0GAacYhbGKqMA!2m2!1d30.00809127391321!2d31.23067608216505!3f118.08698210685318!4f7.038745332678047!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}

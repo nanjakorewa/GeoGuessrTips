@@ -13,6 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/france/", "フランス"],

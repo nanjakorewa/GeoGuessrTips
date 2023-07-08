@@ -11,6 +11,7 @@ flag: "RW.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_googlecar: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../uganda/", "ウガンダ"],
