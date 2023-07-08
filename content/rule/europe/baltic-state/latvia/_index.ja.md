@@ -30,8 +30,10 @@ sc: [
         <li>数字が書かれた標識が道路に対して<span class="quiz">平行</span></li>
         <li>ボラードを真上から見ると<span class="quiz">）の形</span></li>
         <li>リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span></li>
-        <li>Ļ・ļの文字が特徴的 
+        <li>言語に特徴がある
             <ul>
+                <li>Ļ・ļの文字が特徴的 </li>
+                <li>「Rīga」の「<b>ī</b>」のように母音に￣の記号が付いている </li>
                 <li>Ł・łならば{{% goto "../../poland/" "ポーランド" %}}かも</li>
                 <li>Ș・șならば{{% goto "../../romania/" "ルーマニア" %}}かも</li>
             </ul>

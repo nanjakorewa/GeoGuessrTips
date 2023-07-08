@@ -29,6 +29,7 @@ sc: [
         <li>道路について外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線の場合が多い</li>
         <li><span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業、ガソリンスタンドがある</li>
         <li>「M1」のような道路番号はオーストラリアにもあるけれどフォントが異なる</li>
+        <li>地域名に二重母音（「oo」「ee」といった綴り）が見られる</li>
     </ul>
     {{% rd africa south-africa verysmall %}}
 </div>
@@ -36,10 +37,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-防犯対策として<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>が付いていることが多い。また、柵をよく見るとエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「SOS」と書かれたセキュリティ会社のシールが貼ってあることが多い。
+防犯対策として窓の内側に<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>があったり、柵に有刺鉄線が付いていることが多い。また、柵にエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「SOS」と書かれたセキュリティ会社のシールが貼ってあることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682283657883!6m8!1m7!1sPV4BSoKJSpk2SBwFfdJxtA!2m2!1d-34.04342394372563!2d18.51732175162858!3f13.819907395205497!4f-3.8715017447142372!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688805820460!6m8!1m7!1ssmZgrjGt7TWWCYoCbRESTA!2m2!1d-34.04274032697883!2d18.51497407381557!3f247.6366493219555!4f-2.532564184131985!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682284165694!6m8!1m7!1seXuNZyme4Cy2mWT7ORBV1Q!2m2!1d-29.83016438817616!2d31.01121558441056!3f170.21138774432524!4f6.853126215654527!5f1.8029387404032464" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -48,7 +49,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線（ただしこれだけで確定するわけではないと思う）。
+<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線が多い。ただしこれだけで確定するわけではないと思う。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681497389688!6m8!1m7!1s-dCjCDxqAyo0T4HQfiMcsQ!2m2!1d-28.8351143653617!2d22.07029168738174!3f274.42116691885025!4f-1.504176664867643!5f3.325193203789971" width="590" height="180" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -64,13 +65,18 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路番号のフォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。
+道路番号のフォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。また地名に二重母音が見られる点も珍しいと思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
 <img src="./r/M4.png" width="70px" style="margin:10px">
 <img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
+
+<div class="googlemap-if" style="margin:0; padding:0;">
+<p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="South Africa-N10-001 (cropped).jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
+</div>
+
 
 {{% /tab %}}
 {{% /tabs %}}

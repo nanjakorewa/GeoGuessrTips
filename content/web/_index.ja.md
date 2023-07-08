@@ -12,6 +12,7 @@ weight: 1000
 
 <h2 class="no-blur">各国のヒント</h2>
 
+- [r/geoguessr Wiki](https://www.reddit.com/r/geoguessr/wiki/index/)
 - [GeoTips](https://geotips.net/)
 - [GetHints](https://geohints.com/)
 - [Plonk It](https://www.plonkit.net/)
