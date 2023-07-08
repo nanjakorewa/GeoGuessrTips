@@ -51,11 +51,12 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 
 {{% /tab %}}
 {{% tab "w-road" %}}
+{{% notice tip %}}
+シェブロン＞＜
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819900218!6m8!1m7!1svPGkvywZLkfsLfGZ3NF-NA!2m2!1d-0.1863655275116668!2d-79.20092795534029!3f58.20714407058763!4f-3.4386814217635617!5f2.9597408896438306" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682820181570!6m8!1m7!1sMB6hh_C1Vr9n-Ndt7PEwqQ!2m2!1d-1.593348468378649!2d-77.86203050487869!3f156.68857236027182!4f-14.639443130724871!5f1.6116789078129292" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688554857213!6m8!1m7!1sQINqKYFmaWIBxPkbHg1EVA!2m2!1d-2.780357066564007!2d-79.22983423827924!3f116.23847544825263!4f-15.115099249889852!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682820343449!6m8!1m7!1sw6N8TpIkM_d115ZuRsT7tg!2m2!1d-1.602807909622897!2d-77.85391960097269!3f131.72274571232944!4f-1.799478332475374!5f2.9525475507117247" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688830096697!6m8!1m7!1sh_ePbw0-JgFQ3kNLvLp0rA!2m2!1d-1.593389265546191!2d-77.86196299354462!3f221.96955632470147!4f-9.625053183363818!5f2.9562547951755676" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
@@ -68,6 +69,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680195243205!6m8!1m7!1sXLKz6wP93UFe2YDt-MAmIw!2m2!1d-0.02970552552317805!2d-78.75886554902458!3f342.9268428942793!4f-10.588056665345405!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819356117!6m8!1m7!1sbDWW7_m7JikpU0tXyfYT4A!2m2!1d-0.1851809444121328!2d-79.2016505031237!3f63.95128590678875!4f-11.298108485216616!5f3.323547605148729" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688829859128!6m8!1m7!1s9eX9rIO8mrszxmDFDZROzQ!2m2!1d-0.2555755127413128!2d-80.2917374954958!3f166.07825354074004!4f-18.22402579755061!5f3.2783501803562594" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688554857213!6m8!1m7!1sQINqKYFmaWIBxPkbHg1EVA!2m2!1d-2.780357066564007!2d-79.22983423827924!3f116.23847544825263!4f-15.115099249889852!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
