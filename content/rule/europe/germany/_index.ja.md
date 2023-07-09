@@ -12,6 +12,7 @@ jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../austria/", "オーストリア"],
+    ["../luxembourg/", "ルクセンブルグ"],
     ]
 ---
 
@@ -62,7 +63,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業が多く、郊外に工場らしきものが見える（例<a href="https://goo.gl/maps/52RWqCop67xJMW8x6">①</a>・<a href="https://goo.gl/maps/1zUtgj3jRH2aKg3t6">②</a>）ことがあるけれどGeoguessrで役に立ったことはない{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}。
+石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業が多く{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}、郊外に工場らしきものが見える（例<a href="https://goo.gl/maps/52RWqCop67xJMW8x6">①</a>・<a href="https://goo.gl/maps/1zUtgj3jRH2aKg3t6">②</a>）ことがあるけれどGeoguessrでは使えないかも。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
