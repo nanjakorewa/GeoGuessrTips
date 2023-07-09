@@ -21,6 +21,7 @@ sc: [
         <li>ギリシャ文字がある</li>
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}</li>
         <li>警告看板がオレンジ背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
+        <li>電柱が木でできていることが多い</li>
     </ul>
     {{% rd europe greece small %}}
 </div>
@@ -60,6 +61,14 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
 <img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
 <img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
+</div>
+
+{{% notice tip %}}
+電柱が木でできていることが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/nfabiox85/11537079763/in/photolist-izuxSk-223oBxL-24fihpt-25CGsqf-223uRh7-23vfaCR-GEytU3-dDrnPv-cy1DUY-28WWADs-qXPgAD-FdhHjV-22yPfJc-bMH4ng-Ki9Mhv-ZXMvLJ-ZXMvPj-8yeDuX-HBWuHp-i69LKq-8jgmSP-Grqgne-9vvE4p-23N5iP7-24Q11Ti-byNqHs-SDFvMd-8iwvqt-kehk7P-8ba9Jq-dJnRY4-i6ahok-YUspcj-23H9ZK1-G7qWp5-23apd81-8cvB1p-qbJhp4-2234X23-24SkhpP-FdfvRZ-24SmDc8-28WWAK9-F9p8rK-EzXJoc-223mKay-24osm5h-23qSGG2-GEudhu-24SnpDz" title="Kerkini Village and Stork nesting"><img src="https://live.staticflickr.com/3762/11537079763_56185928d8_z.jpg" width="640" height="426" alt="Kerkini Village and Stork nesting"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
