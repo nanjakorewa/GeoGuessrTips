@@ -12,6 +12,7 @@ jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../bolivia/", "ボリビア"],
+    ["../ecuador/", "エクアドル"],
     ["../../asia/", "東南アジアの田舎"],
     ]
 ---
