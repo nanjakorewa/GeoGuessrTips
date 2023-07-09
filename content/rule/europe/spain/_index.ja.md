@@ -105,6 +105,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番の9XXの数字で地域を絞り込める</li>
+        <li>ガリシア州や北の沿岸は緑が多い</li>
         <li>環状道路と高速道路には都市を識別する文字が先頭についていることが多い
             <ul>
                 <li>例）BIならばビルバオ付近</li>
@@ -119,6 +120,12 @@ sc: [
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg#/media/File:Prefijos_telefónicos_en_España.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg/1200px-Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg.png" alt="Prefijos telefónicos en España.svg"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Albertocsc&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Albertocsc (page does not exist)">Albertocsc</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24333469">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "ガリシア州" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688877950578!6m8!1m7!1sIDwO-Ds9OGzQ3CMc5PWSjw!2m2!1d43.33149691344886!2d-7.75082183319832!3f163.81277390334435!4f-3.738804773705425!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688878210185!6m8!1m7!1sUMxBEAtMYQ81OgRsDWfImg!2m2!1d43.24795337485552!2d-7.965328632639515!3f176.7064228052981!4f-8.633655468871538!5f0.814479964799036" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
