@@ -27,3 +27,15 @@ If you notice a problem, please report it via issue. I appreciate any help you c
 
 - [twitter](https://twitter.com/nanjakorewa)
 - [twitch](https://www.twitch.tv/nanjakorewa)
+
+# 画像のソース
+ナンバープレートは基本的にWikimediaより引用しています。各ページ上に表示されている出典を確認してください。
+
+
+標識について、ウェブ上に出典の記載がないものはCC0・パブリックドメイン・自分が編集し自作した画像のいずれかです。各国の名前が付いたフォルダ以下の「r」というフォルダ以下に標識の画像があります。
+
+**保存先のフォルダの例**
+
+- スウェーデン：[content/rule/europe/sweden/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/europe/sweden/r)
+- 香港：[content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
+

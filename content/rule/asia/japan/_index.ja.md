@@ -110,9 +110,9 @@ import_jquery_36: true
     <ul class="rule-list">
         <li>北海道や東北などの寒い地域特有のものがある
             <ul>
-                <li class="no-evidence">「停止線」の標識がある</li>
                 <li>雪対策として信号機が<span class="quiz">縦</span>になっていることがある</li>
                 <li>雪対策として電話ボックスの屋根が平らじゃないことがある</li>
+                <li class="no-evidence">「停止線」の標識がある</li>
                 <li class="no-evidence">配線に<span class="quiz">ねじれ防止ダンパー</span>がある{{% ref "https://www.hepco.co.jp/network/stable_supply/efforts/snow_prevention/index.html" "雪による停電を防ぐ設備" %}}</li>
             </ul>
         </li>
