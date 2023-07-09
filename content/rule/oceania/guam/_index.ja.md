@@ -25,6 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.gu</span></li>
         <li>Google Carが特徴的で長いアンテナが右前にある。左後ろにわずかに金属が見える。</li>
+        <li>{{% goto "../northern_mariana_islands/" "北マリアナ諸島" %}}と同じく観光地であるため日本語や韓国語が見つかる</li>
     </ul>
 </div>
 
@@ -41,7 +42,7 @@ Google Carが特徴的で長いアンテナが右前にある。左後ろにわ�
 
 
 {{% notice tip %}}
-家の前に何かが生えている？
+家の前や道端に何かが生えている？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685047436940!6m8!1m7!1srmYA6GBHyUHyAdlbKoOH5Q!2m2!1d13.52094131423855!2d144.8373787535323!3f1.0157292059205054!4f-16.32673677660253!5f3.3141337806016518" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
