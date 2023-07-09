@@ -67,7 +67,7 @@ is_has_distinctive_googlecar: true
 </div>
 
 {{% notice tip %}}
-こういう感じの木がある。
+こういう感じの木がある。カンボジア以外だと{{% goto "../../africa/uganda/" "ウガンダ" %}}の国立公園内や{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た見た目の木がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bdmoore1/23893604966" title="Sugar Palm Trees"><img src="https://live.staticflickr.com/5789/23893604966_d0cd88935b_z.jpg" width="640" height="394" alt="Sugar Palm Trees"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
