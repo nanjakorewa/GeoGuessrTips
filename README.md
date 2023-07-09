@@ -1,6 +1,7 @@
 # [geopinning.space](https://geopinning.space/)
 
-Personalized Google Street View pinning page(since 2023/02). / ジオゲッサーのメモを記録するリポジトリです(2023年2月～)。
+Personalized Google Street View pinning page(since 2023/02).
+
 
 ## Collection of tips for guessing the country
 Pages to note down tips for guessing the country and to compile links to related sites.
@@ -28,10 +29,13 @@ If you notice a problem, please report it via issue. I appreciate any help you c
 - [twitter](https://twitter.com/nanjakorewa)
 - [twitch](https://www.twitch.tv/nanjakorewa)
 
-# リポジトリ内の画像について
+<hr />
+
+# [GeoGuessrのメモ](https://geopinning.space/)
+ジオゲッサーのメモを記録するリポジトリです(2023年2月～)。
+## リポジトリ内の画像について
 
 ナンバープレートは基本的にWikimediaより引用しています。各ページ上に表示されている出典を確認してください。
-
 
 標識について、ウェブ上に出典の記載がないものはCC0・パブリックドメイン・自分が編集し自作した画像のいずれかです。各国の名前が付いたフォルダ以下の「r」というフォルダ以下に標識の画像があります。
 
@@ -40,3 +44,10 @@ If you notice a problem, please report it via issue. I appreciate any help you c
 - スウェーデンの標識：[content/rule/europe/sweden/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/europe/sweden/r)
 - 香港の標識：[content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
 - カナダの標識：[content/rule/n_america/canada/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/n_america/canada/r)
+
+## 連絡先
+
+問題点やミスを見つけた場合、issueを立てていただけると嬉しいです。また連絡はissueかSNSのDMなどで受け付けています。
+
+- [twitter](https://twitter.com/nanjakorewa)
+- [twitch](https://www.twitch.tv/nanjakorewa)
