@@ -96,6 +96,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
                 <li>02X：西</li>
             </ul>
         </li>
+        <li class="no-evidence">標高の高い場所に生える花がある？{{% ref "https://nihonkaiplant.shakunage.net/sw/book.html" "『スイスアルプスの植物』の紹介ページ" %}}</li>
     </ul>
 </div>
 
@@ -107,7 +108,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 オレンジがドイツ語・緑がフランス語・紫がイタリア語。
 {{% /notice %}}
 <div class="googlemap-if">
-<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Map Languages CH.png"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
+<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Map Languages CH.png" width="90%"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
@@ -115,7 +116,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 072～079は携帯などで使われている点のみ注意する（街中での例<a href="https://goo.gl/maps/Nwu6Mjty1aUw99Ft9">①</a>）。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Schweiz.png#/media/File:Karte_Telefonvorwahlen_Schweiz.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Karte_Telefonvorwahlen_Schweiz.png" alt="Karte Telefonvorwahlen Schweiz.png" height="1798" width="2806"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - Own work using: <a href="//commons.wikimedia.org/wiki/File:Switzerland_location_map.svg" title="File:Switzerland location map.svg">Switzerland_location_map.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77552482">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Schweiz.png#/media/File:Karte_Telefonvorwahlen_Schweiz.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Karte_Telefonvorwahlen_Schweiz.png" alt="Karte Telefonvorwahlen Schweiz.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - Own work using: <a href="//commons.wikimedia.org/wiki/File:Switzerland_location_map.svg" title="File:Switzerland location map.svg">Switzerland_location_map.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77552482">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
