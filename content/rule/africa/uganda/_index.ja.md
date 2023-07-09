@@ -62,13 +62,39 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
+{{% notice tip %}}
+白い車か金属製のバーが見える車。バーが見える場合は首都以外の郊外（国立公園内部）。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680370837232!6m8!1m7!1sniqw2yIcTBIRbvWGbFw6Kw!2m2!1d0.3644098926388094!2d32.71017363529652!3f276.54098798599324!4f-46.77109442191421!5f1.3383447699970703" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688884915957!6m8!1m7!1sJ0aANAxcmOhkPb969Ioaew!2m2!1d3.736418720814267!2d33.72957892182205!3f10.991069524961084!4f-28.11935280492407!5f2.7220566599232603" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐂" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681487668046!6m8!1m7!1sERo5d2iy8FvClP61TVNhfQ!2m2!1d0.3643418975956897!2d32.70939083483952!3f122.7602210273356!4f-0.018391763474141953!5f1.6034337806231873" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>国立公園にはチュウテンカクの木みたいなものが生えていたりシロアリ塚が道端にあったりする{{% ref "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%82%A6%E3%83%86%E3%83%B3%E3%82%AB%E3%82%AF" "チュウテンカク" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs  %}}
+{{% tab "チュウテンカク" %}}
+{{% notice tip %}}
+クイーン・エリザベス国立公園のGoogle Carが見えないエリアにある木。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688885206715!6m8!1m7!1sKL9FCTP6_e-wjQKwqxLJxg!2m2!1d-0.03777098871096483!2d30.12299596300772!3f63.88779375600909!4f6.907681112732348!5f2.5751274424462403" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688885260634!6m8!1m7!1sRo1Qwq0nIYF0pDA8Bt2CcQ!2m2!1d-0.01265178544167805!2d30.07721139434796!3f345.19214966510174!4f11.394588309873626!5f1.2593329712322463" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
