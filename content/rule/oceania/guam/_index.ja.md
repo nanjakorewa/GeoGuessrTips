@@ -16,7 +16,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../n_america/puerto-rico/", "プエルトリコ"],
     ["../northern_mariana_islands/", "北マリアナ諸島"],
-    ["../../cs_america/colombia/", "コロンビア"],
+    ["../../cs_america/colombia/", "コロンビアの離島"],
     ]
 ---
 
