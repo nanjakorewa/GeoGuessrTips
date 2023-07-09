@@ -14,7 +14,7 @@ dont_show_usda: true
 plonkit: false
 sc_title: "間違えやすい地域"
 sc: [
-    ["../united-kingdom/", "スコットランド"],
+    ["../united-kingdom/", "スコットランド本土"],
     ]
 ---
 
