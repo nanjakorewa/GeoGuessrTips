@@ -130,6 +130,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
             </ul>
         </li>
+        <li>コルシカ島が出ることがある</li>
     </ul>
 </div>
 
@@ -164,6 +165,13 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905708059!6m8!1m7!1st_XQsB86GM6xCG9IUgjMlQ!2m2!1d50.29450643868056!2d4.08535817500789!3f63.98531563426603!4f-3.263060690475413!5f1.165081858696793" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905789945!6m8!1m7!1sObobzsfl9Eyg1IBdsvVhew!2m2!1d50.48916016063912!2d3.583400011074846!3f168.35502595572592!4f3.8804172341302063!5f1.0879153141619562" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "コルシカ島" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688877265462!6m8!1m7!1sN-zBY6XiS79lA7szMHLDPw!2m2!1d42.14843993472712!2d8.645999840211816!3f129.09214081582718!4f2.347489205054373!5f1.7132837378709147" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1688877515838!6m8!1m7!1sWvb2ZEs0MJaRbzy8shbsTQ!2m2!1d41.44247447561785!2d9.122261868519647!3f336.88801311118243!4f-8.90065353686576!5f0.9955305005643589" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
