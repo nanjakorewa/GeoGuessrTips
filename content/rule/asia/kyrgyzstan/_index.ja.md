@@ -23,7 +23,6 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.kg</span></li>
-        <li>ドメインは<span class="quiz">.kg</span></li>
         <li><span class="quiz">白くて四角い棒</span>に黒の模様が入ったボラード</li>
         <li>ナンバープレートに<span class="quiz">赤</span>色のラインが入っている</li>
     </ul>

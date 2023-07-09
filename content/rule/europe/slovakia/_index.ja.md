@@ -81,6 +81,15 @@ sc: [
 </div>
 
 
+{{% notice tip %}}
+{{% goto "../czechia/" "チェコ" %}}とスロバキアの平坦な場所はこんな感じの並木道が見られる（例<a href="https://goo.gl/maps/6hymKRijkvboMRaq7">①</a>）。片側だけの場合もある（例<a href="https://goo.gl/maps/MeoR99KZkJBwU8Hn6">①</a>・<a href="https://goo.gl/maps/wTeST8grYsbvRq8v9">②</a>）。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jdavis-photos/1429428634/" title="SlovakiaByBike-113"><img src="https://live.staticflickr.com/1333/1429428634_7db3f2c32a_z.jpg" width="640" height="427" alt="SlovakiaByBike-113"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">

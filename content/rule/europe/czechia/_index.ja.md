@@ -40,6 +40,16 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+こんな感じの看板を使用する。スロバキアの看板は矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。「<span class="quiz">Ů・ů</span>」がある場合もチェコになる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-11-00-12-31.png" width="70%"/>
+<img src="2023-06-11-00-16-23.png" width="80%"/>
+</div>
+
 {{% notice tip %}}
 ボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的。ボラードとガードレールはスロバキアにも同じものがある。
 {{% /notice %}}
@@ -57,7 +67,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。見つけたらば<span class="quiz">チェコ</span>も考えてみるが<b>100%ではない</b>ので注意。
+チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}を考えてみる。ただし<b>100%チェコというわけではない</b>ので注意。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -65,14 +75,15 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683137810610!6m8!1m7!1sf_HTmx1eNXak41Ns48K5EA!2m2!1d49.83283880873212!2d18.28161402132868!3f179.98836807707247!4f-0.09167264981728351!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
 {{% notice tip %}}
-こんな感じの標識を使用する（パブリックドメインの画像より）。スロバキアは矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。
+チェコと{{% goto "../slovakia/" "スロバキア" %}}の平坦な場所はこんな感じの並木道が見られる。木の種類や太さはいろいろ（例<a href="https://goo.gl/maps/CXuYgmh8nRACLPbQ6">①</a>・<a href="https://goo.gl/maps/nYTwesnaUY9dPRhKA">②</a>・<a href="https://goo.gl/maps/9thttoGvmmfoAgbs7">③</a>）。片側だけの場合もある。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
-<img src="2023-06-11-00-12-31.png" width="70%"/>
-<img src="2023-06-11-00-16-23.png" width="80%"/>
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jeremycaney/31073301447/" title="Rural Czechia I"><img src="https://live.staticflickr.com/4846/31073301447_32f66b3dfb_z.jpg" width="640" height="427" alt="Rural Czechia I"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
 
 {{% notice tip %}}
 主に色が付いている看板について、チェコの標識は背景色と同じ縁がある時が多いがスロバキアはない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
