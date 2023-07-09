@@ -148,7 +148,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
         <li>農作物の分布が地域ごとに異なる
             <ul>
                 <li>コメ：確率的にはジャワ島（50％超）だが全域に見られる</li>
-                <li>コーン：田んぼとコーン畑が同時にあるならキットジャワ島に行っていいと思う</li>
+                <li>コーン：田んぼとコーン畑が同時にあるならジャワ島に行っていいと思う</li>
                 <li>アブラヤシ：南側・スラウェシ島にはプランテーションが無い</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=ID">U.S. Indonesia Production Country Summary(U.S. Department of Agriculture)</a></li>
             </ul>
@@ -173,7 +173,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 </div>
 
 {{% notice tip %}}
-田んぼとコーン畑が同時にあるならキットジャワ島に行っていいと思う。
+田んぼとコーン畑が同時にあるならジャワ島に行っていいと思う。
 {{% /notice %}}
 
 <div class="googlemap-if">
