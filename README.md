@@ -28,7 +28,8 @@ If you notice a problem, please report it via issue. I appreciate any help you c
 - [twitter](https://twitter.com/nanjakorewa)
 - [twitch](https://www.twitch.tv/nanjakorewa)
 
-# 画像のソース
+# リポジトリ内の画像について
+
 ナンバープレートは基本的にWikimediaより引用しています。各ページ上に表示されている出典を確認してください。
 
 
@@ -36,6 +37,6 @@ If you notice a problem, please report it via issue. I appreciate any help you c
 
 **保存先のフォルダの例**
 
-- スウェーデン：[content/rule/europe/sweden/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/europe/sweden/r)
-- 香港：[content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
-
+- スウェーデンの標識：[content/rule/europe/sweden/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/europe/sweden/r)
+- 香港の標識：[content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
+- カナダの標識：[content/rule/n_america/canada/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/n_america/canada/r)
