@@ -52,7 +52,7 @@ By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /lb %}}
 
 {{% notice tip %}}
-レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討しよう（以下の左がイギリス、右がアイルランド）{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
+レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討してみる。以下の左がイギリス、右がアイルランド{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682429298949!6m8!1m7!1sCfG07BPDdW1kglYmnkoQRA!2m2!1d52.90580107085533!2d-2.485725222078184!3f138.39531165156137!4f7.275689425114649!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -70,7 +70,7 @@ By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で同じ色の国はない（同じ色の国はヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など）。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で同じ色の国はない。同じ色のものを用いるのはヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/UK_traffic_sign_515.svg" width="322px" style="margin-right:1em;">

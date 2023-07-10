@@ -23,8 +23,8 @@ sc: [
         <li>ドメインは<span class="quiz">.id</span></li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>道端で<span class="quiz">タバコ</span>がよく売られていて家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
-        <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が３つに分かれて見えるかもしれない。マレーシアも黒いが２つに分かれて見える。</li>
-        <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）銀行</span>など</li>
+        <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が３つに分かれて見えるかもしれない</li>
+        <li>銀行大手でATMが多いのは<span class="quiz">バンク・マンディリ（Mandiri）、バンク・ラクヤット・インドネシア銀行（BRI）</span>など</li>
         <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
     </ul>
     {{% rd asia indonesia small "By AdriansyahYS - Own work, CC BY-SA 4.0" "https://commons.wikimedia.org/w/index.php?curid=35833958" %}}
@@ -40,7 +40,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート（コンビニ）、マンディリ銀行、バンク・ラクヤット・インドネシア（BRI）</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという。
+<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Jakarta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -54,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。GGSPと書かれたのれんは<span class="quiz">タバコ</span>メーカーGudang Garam Tbk PTに関するのれん。
+道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
