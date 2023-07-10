@@ -33,7 +33,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Google Carが特徴的で長いアンテナが右前にある。左後ろにわずかに金属が見える（見えない場所もある）。
+Google Carが特徴的で長いアンテナが右前にある。左後ろにわずかに金属が見えることが多い。ただし見えない時もある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683472584933!6m8!1m7!1sdEZoGOru-GFkj3C8nyX61Q!2m2!1d13.35562096234083!2d144.6520598201832!3f155.2014085480648!4f-17.561906953218127!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

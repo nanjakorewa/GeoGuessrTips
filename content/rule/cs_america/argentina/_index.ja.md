@@ -25,7 +25,7 @@ sc: [
         <li>言語は<span class="quiz">スペイン語</span></li>
         <li>ドメインは<span class="quiz">.ar</span></li>
         <li>ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span></li>
-        <li>ガソリンスタンドに<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス、青色のロゴでアルゼンチンの国有石油会社）</span>のものがある</li>
+        <li>ガソリンスタンドにアルゼンチンの国有石油会社であるYPFの青色のロゴがある</li>
         <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
     </ul>
     {{% rd cs_america argentina %}}
@@ -54,12 +54,15 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 </div>
 
 {{% notice tip %}}
-遠くが見えないほどまっすぐな道はアルゼンチンに多い。センターラインは黄色１本・２本・ダッシュでない白線の時もある。
+遠くが見えないほどまっすぐな道はアルゼンチンに多い。センターラインは黄色１本・２本・ダッシュでない白線の時もある。道端に道路番号が書かれた小さい看板があるかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pniselba/16133378496/in/photolist-22veJeY-NL4zYV-YikzAu-XEDhmZ-qzDMmd-8eBmcv-Ngi9Ay-82jWgf-HgFr2K-S1A2wM-TAAJmU-23JZdjf-xNCJGb-286zEbz-jVMdQ1-ehy5bW-23SA4XK-DfF6E8-DBKzUh-6YFWrb-jHijQq-29c43b3-YijEZC-HYVsBx-25e6nzd-MpNnT7-92C4ot-gRvYA7-BEvNGW-yVpyMi-25sumMo-jHigZL-C6DFNU-SPt6Hm-U7Wg4d-epGcfL-q56HFt-KHDvxp-6Qzxkp-SP8EuY-Tzim5j-6WcSPF-FF52AY-SGeZ2W-epGdbQ-7GxiGW-H5wMds-b7RvTr-7zXKqQ-DCXf1" title="Ruta Pampeana"><img src="https://live.staticflickr.com/7568/16133378496_46623c6250_z.jpg" width="640" height="427" alt="Ruta Pampeana"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./r/road-sign.png" width="170px">
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
@@ -130,7 +133,11 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ブエノスアイレスで「GCBA（Gobierno de la Ciudad de Buenos Aires＝ブエノスアイレス市政府の略？）」と書かれた紺色と黄色のタクシーが走っている{{% ref "https://buenosaires.gob.ar/taxis" "Buenos Aires Jefatura de Gabinete Movilidad" %}}</li>
+        <li>ブエノスアイレスで「GCBA（Gobierno de la Ciudad de Buenos Aires＝ブエノスアイレス市政府？）」と書かれた紺色と黄色のタクシーが走っている{{% ref "https://buenosaires.gob.ar/taxis" "Buenos Aires Jefatura de Gabinete Movilidad" %}}
+            <ul>
+                <li>一覧が{{% goto "https://www.plonkit.net/argentina" "plonk itにまとめられていた" %}}ので他はそれを見る</li>
+            </ul>
+        </li>
     </ul>
 </div>
 

@@ -25,7 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.lu</span></li>
         <li>ナンバープレートは前後が<span class="quiz">黄色</span></li>
-        <li>ボラードの反射板が<span class="quiz">白（灰）</span>色で赤やオレンジの反射板がない</li>
+        <li>ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない</li>
         <li class="no-evidence"><span class="quiz">黒</span>色の背景に<span class="quiz">黄</span>色のシェブロンが多い</li>
         <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える{{% goto "../../../architecture/houses/europe-1/#ルクセンブルグ" "家の見た目 > ルクセンブルグ" %}}</li>
     </ul>
@@ -38,7 +38,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは前後が<span class="quiz">黄色</span>。平均所得は平均的なヨーロッパ人の2.5倍。Volkswagen・Mercedes・Audiがトップの売上（<a href="https://www.focus2move.com/luxembourg-car-market-2022/">Luxembourg 2022. Car Market Closes Year With A 10.7% Loss</a>）。オランダは韓国車KIAやTOYOTAも多い（体感）。
+ナンバープレートは前後が<span class="quiz">黄色</span>。平均所得は平均的なヨーロッパ人の2.5倍であり、Volkswagen・Mercedes・Audiの売上が多い{{% ref "https://www.focus2move.com/luxembourg-car-market-2022/" "Luxembourg 2022. Car Market Closes Year With A 10.7% Loss" %}}。オランダは韓国車KIAやTOYOTAも多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679851762396!6m8!1m7!1sNJ1F5MurR6O35W7zUbj8tg!2m2!1d49.80578058482013!2d5.93221134254947!3f76.29971083603118!4f-17.926196423789023!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -52,7 +52,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-ボラードの反射板が<span class="quiz">白（灰）</span>色で赤やオレンジの反射板がない
+ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -61,7 +61,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい（左の～RUEと書かれた小さい看板）{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う。自作の図なので縮尺・フォントは正確でないかも。
+黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。左下のような看板が多いように思う。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う。自作の図なので縮尺・フォントは正確でないかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
