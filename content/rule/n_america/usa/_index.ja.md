@@ -79,6 +79,16 @@ maps: [
 <img src="./w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px"/>
 </div>
 {{% /tab %}}
+
+
+{{% notice tip %}}
+州間高速道路などの看板であり、数字が2桁以下のものは東西・南北である程度順番に並んでいるのがマップを見ると分かる。数字が2桁で5の倍数の道は非常に距離が長い。数字が3桁の道路（Three-digit Interstate）のものは派生元の道路番号に100の倍数を加算したもので場所によってはとても短い{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}ので、先に下二桁の道路番号を探してみるのも手。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="I-80.svg" width="120px" style="margin:10px">
+<img src="./route-example.svg" width="157px" style="margin:10px">
+</div>
+
 {{% /tabs %}}
 
 
@@ -139,7 +149,7 @@ maps: [
 {{% tabs  %}}
 {{% tab "①ナンバープレート" %}}
 {{% notice tip %}}
-まず、前にナンバープレートを付ける必要がないエリア（黄色のエリア）を覚えてからナンバープレートの色を覚える。光の当たり方や角度で少し違った色に見えることも多く何回も練習して慣れる必要がある。もちろん車は動くのでナンバーで100%州が当たるわけではない。
+まず、前にナンバープレートを付ける必要がないエリア（<span style="color:#B1AF0D;font-weight:bold;">黄色のエリア</span>）を覚えてからナンバープレートの色を覚える。光の当たり方や角度で少し違った色に見えることも多く何回も練習して慣れる必要がある。もちろん車は動くのでナンバーで100%州が当たるわけではない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
