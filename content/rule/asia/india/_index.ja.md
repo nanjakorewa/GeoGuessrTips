@@ -43,6 +43,21 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/tlinn/40549983514/" title="Hauz Qazi Substation 1953 | Old Delhi, India"><img src="https://live.staticflickr.com/876/40549983514_b44e94db9d_z.jpg" width="640" height="427" alt="Hauz Qazi Substation 1953 | Old Delhi, India"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+
+{{% notice tip %}}
+ナンバーは白・黄・黒色など複数存在する。EUのナンバーに見えるタイプのみ間違えないように注意{{% ref "https://www.mysmartprice.com/gear/different-types-of-number-plates-in-india-meaning/" "Different Types of Number Plates in India, their Meaning, Usages and More" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689072559136!6m8!1m7!1safd2f2VgriHB1IqAeeiMVw!2m2!1d23.23867177230191!2d77.38986018900181!3f57.85938112510194!4f-6.020780724911873!5f3.293292491545769" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% lb 50 small %}}
+![](lc.png)
+
+自作、大まかな形で正確な形状ではないです
+{{% /lb %}}
+
 {{% /tab %}}
 {{% tab "🎥" %}}
 <div class="googlemap-if">

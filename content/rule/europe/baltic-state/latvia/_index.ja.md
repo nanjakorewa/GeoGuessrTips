@@ -39,7 +39,6 @@ sc: [
             </ul>
         </li>
         <li>{{% goto "../../baltic-state/#見分け方" "バルト三国の見分け方" %}}</li>
-        <li class="no-evidence">土の雰囲気で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}</li>
     </ul>
     {{% rd "europe/baltic-state" latvia small %}}
     <div class="sign-area sign-area-clickable licence-area">

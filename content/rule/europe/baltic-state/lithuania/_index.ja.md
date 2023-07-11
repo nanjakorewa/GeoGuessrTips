@@ -32,8 +32,6 @@ sc: [
         反射板が<span class="quiz">オレンジ</span>色のものが多い</li>
         <li>ラトビアと速度上限の標識などを比較したとき赤い線が<span class="quiz">細い</span></li>
         <li>「<span class="quiz">Ė・ė</span>」の文字はリトアニアの可能性が高い{{% ref "https://ja.wikipedia.org/wiki/%C4%96" "Ė" %}}</li>
-        <li>{{% goto "../../baltic-state/#見分け方" "バルト三国の見分け方" %}}</li>
-        <li class="no-evidence">土の雰囲気で地域が分かるときがあるらしい{{% goto "../../../nature/europe/baltic-states/" "土の色" %}}
     </ul>
     {{% rd "europe/baltic-state" lithuania small %}}
     <div class="sign-area sign-area-clickable licence-area">
