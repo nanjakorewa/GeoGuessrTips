@@ -24,11 +24,11 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.dk</span></li>
-        <li>ナンバープレートは<span class="quiz">白か黄色（黄色は商業車）</span>{{% by %}}</li>
+        <li>ナンバープレートは<span class="quiz">白か黄色</span>{{% by %}}</li>
         <li>ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある</li>
+        <li>「Ø・ø」の文字はデンマークと<span class="quiz">ノルウェー</span>でのみ使用される</li>
         <li class="no-evidence">通り名に<span class="quiz">haven・vej・høje</span>が多い（英語ではgarden・road・mound/庭・道・山）？</li>
         <li class="no-evidence">デンマークのポスト業界でシェアの高いAlluxの<span class="quiz">丸いカーブのふた</span>があるポストが家の近くに設置されている。日本でも買える。</li>
-        <li>「Ø・ø」の文字はデンマークと<span class="quiz">ノルウェー</span>でのみ使用される</li>
     </ul>
     {{% rd europe denmark small %}}
 </div>

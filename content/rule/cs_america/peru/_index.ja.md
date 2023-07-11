@@ -24,12 +24,11 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い</li>
         <li>電柱は<span class="quiz">同じ</span>向きに<span class="quiz">３</span>本棒が付きだしている{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}</li>
+        <li>タクシーやトラックのナンバープレートが<span class="quiz">蛍光に近い黄</span>色のときがある</li>
         <li>Google Carが<span class="quiz">黒</span>色の時がある。南米では他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../uruguay/" "ウルグアイ" %}}も同じ色のGoogle Carを使う{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}。</li>
-        <li>都市部のバスのナンバープレートは上側が<span class="quiz">緑</span>色のときがある</li>
-        <li>トラックのナンバープレートが<span class="quiz">黄</span>色のときがある</li>
         <li class="no-evidence">ボラードは<span class="quiz">黄</span>色に塗られていることが多い</li>
         <li class="no-evidence">ガードレールに黄色と黒のストライプがある</li>
-        <li class="no-evidence">壁に細長い箱が埋め込まれていたり、外についていたりする</li>
+        <li class="no-evidence">細長い箱が家の壁に埋め込まれていたり外についていたりする</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
 </div>
@@ -41,12 +40,21 @@ sc: [
 標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="520" height="336" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="600" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
 {{% notice tip %}}
-ArequipaやTacnaのタクシーは屋根の上に看板を乗せている。ナンバープレートは色々ある。たとえばバスは上が<span class="quiz">緑</span>色のナンバープレート、トラックは全体的に<span class="quiz">黄色の蛍光</span>色のナンバープレート{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
+根本をコンクリートで固めているパターンも良く見かける（例<a href="https://goo.gl/maps/N4VzoAkjxwaP1RECA">①</a>・<a href="https://goo.gl/maps/GHJwvhWMtToGL2ex6">②</a>）。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/live2bnomad/395831375/in/photolist-AYJST-9vm9F9-2jj93ZY-U8SU55-fSsH8d-7LJfU8-iDt2Jc-7VTsYo-WRWuJL-2mYyEfa-B2QArt-DVsTYm-GrW1XG-dsTqpS-29jAUwb-P38pD1-2gvTEnt-BoSBAR-aVsXGk-zUL6SG-u4wDuR-bpXA5b-5pdNuy-23J9r2s-276nEhP-224nRF2-CjpqcG-2fu8vjz-dDFv7b-SBv9Hf-5Wch65-neNWky-4CjWQv-MXknvU-4adcR-rWhX8-93Aus8-anjCsU-9SMtbp-5bGtKK-FU9yCR-22QUJCm-gomrd8-7MT8Qn-7MT8SV-97xzC6-99fRZR-cYimSC-7MT8MV-bwps6o" title="A road sign"><img src="https://live.staticflickr.com/144/395831375_fce7f762f6_z.jpg" width="640" height="428" alt="A road sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
+
+{{% notice tip %}}
+ArequipaやTacnaのタクシーは屋根の上に看板を乗せている。ナンバープレートは色々ある。タクシーとトラックは<span class="quiz">黄色の蛍光</span>色のナンバープレート・バスは上が<span class="quiz">緑</span>色のナンバープレート{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -54,6 +62,9 @@ ArequipaやTacnaのタクシーは屋根の上に看板を乗せている。ナ�
 </div>
 
 {{% lb %}}
+![](2023-07-11-17-27-03.png)
+
+By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">Zcarstvnz</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72974999">Link</a>
 
 ![](2023-04-25-09-40-50.png)
 
@@ -61,22 +72,11 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱は<span class="quiz">同じ向き（道路側？）に３本棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
+電柱は<span class="quiz">同じ向きに棒が付きだしている</span>ものがある{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
 {{% /lb %}}
 
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo?start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-
-
-{{% notice tip %}}
-壁に埋め込まれた細長い箱？
-{{% /lb %}}
-
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687405941718!6m8!1m7!1sj2j2OmgVQ9liiXCPem0aPw!2m2!1d-11.99979523780639!2d-77.05149792975354!3f207.20135005809732!4f-13.403045634823357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687406013160!6m8!1m7!1s8iaz3NzSwxLWgkgOYbLZ0Q!2m2!1d-17.64026220130956!2d-71.32706660113355!3f65.24242672393657!4f-7.735547419482401!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -90,11 +90,11 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
-電柱は道路側に３～４本棒が付きだしているものがある。
+電柱は同じ方向に3本ほど棒が付きだしているものがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681039719461!6m8!1m7!1syuqvlXBKntGkqLZeKbx08Q!2m2!1d-7.164535948425311!2d-78.46482750393291!3f336.02564457472874!4f18.05477957444974!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681039465332!6m8!1m7!1sqNuqF7FFip7fwhpDk3PSZw!2m2!1d-16.42218377242603!2d-71.56894965143833!3f0.8364414154696647!4f17.91352206758674!5f3.3140961707687007" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689063313770!6m8!1m7!1sHGPJVOJv-NSaqCyXlLh2CQ!2m2!1d-12.13578785884225!2d-76.8077639891435!3f81.28270024151131!4f33.197897697403874!5f3.3248611522391367" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
@@ -102,6 +102,18 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355234923!6m8!1m7!1sIOKZyXbBZvXeZImXH8GXmw!2m2!1d-15.57786080144935!2d-70.10120163690182!3f296.8561801891278!4f-21.206709910168087!5f3.098953353208563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683805070363!6m8!1m7!1sJ8tkvxtMg35I7ZX48d63Iw!2m2!1d-16.73451805644685!2d-69.71085030545977!3f288.6545619316565!4f-15.673906824009407!5f2.9131358656875324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685255452553!6m8!1m7!1sV_m0TM24-U1jJUfGnok18w!2m2!1d-11.55895048087308!2d-69.28771986328607!3f148.5534550784995!4f-10.90553675857818!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "家" %}}
+
+{{% notice tip %}}
+壁に埋め込まれた細長い箱？
+{{% /lb %}}
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687405941718!6m8!1m7!1sj2j2OmgVQ9liiXCPem0aPw!2m2!1d-11.99979523780639!2d-77.05149792975354!3f207.20135005809732!4f-13.403045634823357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687406013160!6m8!1m7!1s8iaz3NzSwxLWgkgOYbLZ0Q!2m2!1d-17.64026220130956!2d-71.32706660113355!3f65.24242672393657!4f-7.735547419482401!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -43,12 +43,28 @@ sc: [
 </div>
 
 {{% notice tip %}}
-速度上限
+速度上限の看板が特徴的
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683906381638!6m8!1m7!1sfPmaXdtycn45jy612nHwfg!2m2!1d18.03137968400637!2d-66.44481015794771!3f109.54592196416473!4f0.6618905401964383!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/auvet/34731690652/" title="Autopista Route 66 Sign"><img src="https://live.staticflickr.com/4202/34731690652_ec2911e679_z.jpg" width="640" height="480" alt="Autopista Route 66 Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/MUTCD_R2-1_PR.svg" width="100px">
+<img src="./r/MUTCD-PR_R2-2a.svg" width="100px">
+</div>
+
+{{% notice tip %}}
+高速道路の看板が数種類あり、特に〇の形の看板は基本的に100番～9999番の間で数が大きい{{% ref "https://en.wikipedia.org/wiki/List_of_highways_in_Puerto_Rico" "プエルトリコの高速道路のリスト" %}}。例<a href="https://goo.gl/maps/FBNxfJep3sqSPaza8">①</a>・<a href="https://goo.gl/maps/E5GJDqvzPaXCzHy59">②</a>
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable">
+<img src="./r/869.png" width="100px">
+<img src="./r/970.png" width="80px">
+</div>
+
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
 {{% notice tip %}}

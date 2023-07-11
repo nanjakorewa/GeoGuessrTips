@@ -25,7 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.br</span></li>
         <li>言語は<span class="quiz">ポルトガル</span>語であり「<span class="quiz">Ã・ã</span>」の文字が特徴的</li>
         <li>標識の裏側が<span class="quiz">黒い</span>ものが多い</li>
-        <li>家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナ（タイなどにも似たようなものがある）</li>
+        <li>家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナが多い</li>
         <li>ナンバープレートの上側が<span class="quiz">青色</span>の時がある{{% by %}}</li>
         <li>トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤</span>色</li>
         <li>電柱の溝に仕切りが<span class="quiz">ある</span>電柱を使っている</li>
@@ -258,7 +258,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
     <ul class="rule-list">
         <li>市外局番のエリアコードで範囲を絞ることができる</li>
         <li>ブラジル国道の看板にBA-XXXと道路番号が書かれている</li>
-        <li>電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名（？）な会社は以下３つ。
+        <li>電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名な会社は以下３つ。
             <ul>
                 <li>ブラジル電力(Eletrobras)→ブラジル全域どころかアフリカにまで進出している</li>
                 <li>パラナ電力(<span class="quiz">COPEL</span>)→パラナ州</li>

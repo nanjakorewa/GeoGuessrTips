@@ -25,7 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.fr</span></li>
         <li>市外局番が<span class="quiz">2つの数が5個並んでいる</span></li>
         <li>「D653」と言った感じのDで始まる道路番号の黄色いプレートがある</li>
-        <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>とアクサンテギュ<span class="quiz">（「e」に点をつけた文字）</span>が特徴的</li>
+        <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>と「é」の文字が多く見つかる</li>
         <li>電柱に<span class="quiz">青いプレート</span>が貼ってあることがある{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}</li>
         <li>通り名の看板に「<span class="quiz">Rue</span>」と書いてあればフランス語圏の可能性が高い</li>
     </ul>
@@ -51,7 +51,7 @@ sc: [
 
 
 {{% notice tip %}}
-市外局番が2桁が5つ並んでいる。はじめの番号（いわゆる市外局番に相当するもの）で地域もわかりパリが `01`だ。電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる。
+市外局番が2桁が5つ並んでいる。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -109,7 +109,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>、あとは時計回り。離島（コルス島）は<span class="quiz">04</span>を覚えておけば気合で思い出せる？
+        <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
                 <li>`02 9x`は半島部 (by ギガバイトさん@コメ欄)</li>
             </ul>

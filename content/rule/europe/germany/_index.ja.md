@@ -24,7 +24,7 @@ sc: [
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
         <li>ドイツ語はエスツェット「<span class="quiz">ß</span>」を文字として使う</li>
         <li>ドイツは第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
-        <li>バスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）/span>』のマークがある</li>
+        <li>バスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある</li>
         <li>有限会社という意味の『GmbH』が看板に書かれているときがある</li>
     </ul>
     {{% rd europe germany verysmall %}}

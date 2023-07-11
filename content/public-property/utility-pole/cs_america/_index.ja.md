@@ -45,26 +45,6 @@ add_rule_link: true
 {{% /tab %}}
 {{% /tabs %}}
 
-## メキシコ
-
-{{% tabs  %}}
-{{% tab "八角形" %}}
-{{% notice tip %}}
-木製のもの or 八角形のものが多い。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677483694957!6m8!1m7!1sBJwhTspUJlQW5DFugSpkuA!2m2!1d19.38463130163664!2d-99.11964142312829!3f59.083357162049154!4f54.57512708808733!5f1.1473844403590623" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677483848433!6m8!1m7!1s_8LNrKyXzIVTzKfKDGX7XQ!2m2!1d19.36343998576718!2d-99.34846165852402!3f343.32396093231694!4f14.226734425585136!5f1.6731410423619746" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679676181767!6m8!1m7!1seEpZt9e_Inn3XiTtP6og9Q!2m2!1d19.13241017453172!2d-97.41019343258604!3f57.341693190129824!4f-4.322799304971241!5f3.324385072489276" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "木製" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677759929572!6m8!1m7!1s4LYU7TGKAny2nfiWCnhV_w!2m2!1d19.40851458160972!2d-99.12971960743052!3f293.6864603244119!4f23.590141049018115!5f0.7877473206287153" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
 ## チリ
 
 {{% tabs  %}}
@@ -81,19 +61,6 @@ add_rule_link: true
 {{% /tab %}}
 {{% /tabs %}}
 
-## ドミニカ共和国
-
-{{% tabs  %}}
-{{% tab "四角・色無し" %}}
-{{% notice tip %}}
-四角いポール。色が塗られているときもある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686280753504!6m8!1m7!1sDJbWKhRwa6KHiFD89E62qg!2m2!1d19.48679119115415!2d-70.66180330030124!3f267.62568913611426!4f-6.852100317358193!5f1.7590233225213745" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
 ## ペルー
 
 {{% tabs  %}}
@@ -103,7 +70,7 @@ add_rule_link: true
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681039719461!6m8!1m7!1syuqvlXBKntGkqLZeKbx08Q!2m2!1d-7.164535948425311!2d-78.46482750393291!3f336.02564457472874!4f18.05477957444974!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681039465332!6m8!1m7!1sqNuqF7FFip7fwhpDk3PSZw!2m2!1d-16.42218377242603!2d-71.56894965143833!3f0.8364414154696647!4f17.91352206758674!5f3.3140961707687007" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689063313770!6m8!1m7!1sHGPJVOJv-NSaqCyXlLh2CQ!2m2!1d-12.13578785884225!2d-76.8077639891435!3f81.28270024151131!4f33.197897697403874!5f3.3248611522391367" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

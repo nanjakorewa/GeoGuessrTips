@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端に以下の2つの形の<span class="quiz">青</span>色の消火栓 {{% by %}}がある。
+道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓 {{% by %}}がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
@@ -96,11 +96,11 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 
 
 {{% notice tip %}}
-クロアチアの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">スロベニア</span>・<span class="quiz">ハンガリー</span>。
+クロアチアの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
+<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px">
 <img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
 

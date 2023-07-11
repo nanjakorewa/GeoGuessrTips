@@ -20,10 +20,10 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>ドメインは<span class="quiz">.uy</span></li>
+        <li>言語は<span class="quiz">スペイン</span>語</li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
-        <li>国全域がパンパ（草原地帯）におおわれていて牛や羊の牧畜が行われている</li>
+        <li>国全域がパンパと呼ばれる草原地帯におおわれていて牛や羊の牧畜が行われている</li>
         <li>Google Carが<span class="quiz">黒</span>色なのは南米ではウルグアイの他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../peru/" "ペルー" %}}がありえる{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
         <li>アルゼンチンと異なりナンバープレートは黒くない</li>
         <li class="no-evidence">防風林や植林地が散見され同一の種類の木がきれいに植えられていることがある</li>
