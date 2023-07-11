@@ -94,6 +94,7 @@ Alexandra Palace Theatreはロンドンの北側にある
         <li>道路番号の先頭の数字で地域が分かる{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf01/7.pdf" "web" "高速道路ナンバリング検討委員会" %}}</li>
         <li>白と赤のボラードは<span class="quiz">スコットランド</span>に多い</li>
         <li>Passing placeは{{% goto "../shetland/" "シェットランド諸島" %}}を含む<span class="quiz">スコットランド</span>全域に多い</li>
+        <li>市外局番が都市ごとに異なる</li>
         <li class="no-evidence">菜種の生産は南東を中心に多い{{% goto "../../../nature/europe/" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
@@ -120,6 +121,14 @@ Alexandra Palace Theatreはロンドンの北側にある
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688227126921!6m8!1m7!1syofFVgdq1-fd9DGss0iduA!2m2!1d58.44655991316099!2d-3.893121403030823!3f322.36298640402805!4f-5.778153559772477!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688227164609!6m8!1m7!1s7YQ74A3AAU4Q2xHvEjy7YQ!2m2!1d59.11186451519226!2d-3.116200828392647!3f294.6126345763391!4f-16.277346726225005!5f3.0286041996955686" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "市外局番" %}}
+{{% notice tip %}}
+020はロンドン。画像が非常に細かいのでオリジナル画像を要参照。
+{{% /notice %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png#/media/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png" alt="Map of the Telephone Dialling Codes in the United Kingdom.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79071050">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "菜種" %}}
