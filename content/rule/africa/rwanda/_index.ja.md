@@ -67,7 +67,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>キガリ周辺のみにストリートビューがある</li>
-        <li class="no-evidence">KK・KG・KNみたいな通り名が地域ごとに分かれているのでおよそ地域がわかる</li>
+        <li class="no-evidence">通り名にKK・KN・KGといった頭文字がついており、KNの180番以降の数を見かけたら南西に行っていいと思う</li>
         <li class="no-evidence">通り看板が見つからなかったり大学や空港が見えたら東側な感じがする</li>
     </ul>
 </div>
