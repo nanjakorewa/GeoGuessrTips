@@ -113,6 +113,19 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>特徴的な植物がたくさんあるので植物をみたら南北の位置がわかるかも
+            <ul>
+                <li>Chilean rhubarbが生えている地域が限定されている{{% by "https://www.plonkit.net/chile" "plonkit" %}}</li>
+                <li>{{% ref "http://www.chileflora.com/Florachilena/FloraJapanese/JPlantdbase.php" "チリ植物オンラインデータベース" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
