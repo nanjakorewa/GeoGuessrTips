@@ -82,7 +82,7 @@ maps: [
 
 
 {{% notice tip %}}
-州間高速道路などの看板であり、数字が2桁以下のものは東西・南北である程度順番に並んでいるのがマップを見ると分かる。数字が2桁で5の倍数の道は非常に距離が長い。数字が3桁の道路（Three-digit Interstate）のものは派生元の道路番号に100の倍数を加算したもので場所によってはとても短い{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}ので、先に下二桁の道路番号を探してみるのも手。
+州間高速道路などの看板であり、数字が2桁以下のものは東西・南北である程度順番に並んでいるのがマップを見ると分かる。数字が5の倍数の道は他と比べると距離が長いことが多い。数字が3桁の道路（Three-digit Interstate）のものは派生元の道路番号に100の倍数を加算したもので場所によってはとても短い{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}ので、先に下二桁の道路番号を探してみるのも手。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="I-80.svg" width="120px" style="margin:10px">
