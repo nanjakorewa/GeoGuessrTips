@@ -513,6 +513,20 @@ ul.rule-list {
   font-size: 1em;
 }
 
+ul.rule-list-none {
+  font-size: 1em;
+  list-style: none;
+}
+
+ul.rule-list-none li {
+  list-style: none;
+}
+
+ul.rule-list-none li::before {
+  content: "" !important;
+  width: 0px;
+}
+
 div.dropdown-menu>a.dropdown-link-item {
   color: #000 !important;
 }
@@ -1202,4 +1216,14 @@ img#gachaImage {
 
 .buttonRound-tweet:hover {
   background-color: #baf9ff;
+}
+
+.mymemo {
+  opacity: 0;
+  pointer-events: none;
+}
+
+.mymemo.mymemo-show {
+  opacity: 1;
+  pointer-events: initial;
 }

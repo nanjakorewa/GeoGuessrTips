@@ -79,6 +79,15 @@ sc: [
 
 
 {{% /tab %}}
+{{% tab "w-mymemo-wrong-cn" %}}
+
+<div>
+    <ul class="rule-list-none">
+        <li>{{% googlemap "https://goo.gl/maps/4vaXFMxN4xkMVH4a6" %}}</li>
+    </ul>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">

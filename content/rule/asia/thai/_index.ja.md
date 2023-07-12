@@ -84,6 +84,15 @@ Public Domain
 </table>
 </div>
 {{% /tab %}}
+{{% tab "w-mymemo-wrong-cn" %}}
+
+<div>
+    <ul class="rule-list-none">
+        <li>{{% googlemap "https://goo.gl/maps/wVB6XqZhagWQzZPg6" %}}</li>
+    </ul>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 

@@ -72,3 +72,7 @@
   translation: References
 - id: findable-road-sign
   translation: Signs you can find
+- id: w-mymemo-wrong-cn
+  translation: Difficult place
+- id: show_mymemo_button
+  translation: Display personal memo

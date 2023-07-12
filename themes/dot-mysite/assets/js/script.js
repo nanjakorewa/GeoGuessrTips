@@ -91,7 +91,12 @@
   $('.tab-content').find('.tab-pane').each(function (idx, item) {
     var navTabs = $(this).closest('.code-tabs').find('.nav-tabs'),
       title = $(this).attr('title');
-    navTabs.append('<li class="nav-item"><a class="nav-link" href="#">' + title + '</a></li>');
+    if (title === "国を間違えたポイント") {
+      navTabs.append('<li class="nav-item mymemo"><a class="nav-link" href="#">' + title + '</a></li>');
+    }
+    else {
+      navTabs.append('<li class="nav-item"><a class="nav-link" href="#">' + title + '</a></li>');
+    }
   });
 
   $('.code-tabs ul.nav-tabs').each(function () {

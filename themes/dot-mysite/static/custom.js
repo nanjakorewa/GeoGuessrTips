@@ -168,3 +168,8 @@ window.addEventListener("load", function () {
     addRemoveHandler('#hide-unconfindent-checkbox', 'isHideNoEvidenceRules', 'hide-element', 'no-evidence');
 });
 
+window.addEventListener("load", function () {
+    // 自分用のメモを表示するボタン
+    addRemoveHandler('#show-mymemo-checkbox', 'isShowMymemo', 'mymemo-show', 'mymemo');
+    console.log("$$$");
+});
