@@ -69,11 +69,6 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
-
-{{% notice tip %}}
-バーンスリー
-{{% /notice %}}
-
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NfbT1Rgos4I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
