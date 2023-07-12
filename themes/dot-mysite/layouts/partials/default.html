@@ -42,7 +42,7 @@
           {{- template "breadcrumb" (dict "node" . "start" .) }}
         </ol>
         <div class="p-lg-5 p-4 bg-white apply-bg" style="padding: 1em !important;">
-          <h1 class="mb-5">{{ .Title }}{{ if .Params.title_suffix }}<span class="small-title">{{ .Params.title_suffix }}</span>{{ end }}</h1>
+          <h1 class="mb-5">{{ if .Params.title_prefix }}<span class="small-title">{{ .Params.title_prefix }}</span>{{ end }}{{ .Title }}{{ if .Params.title_suffix }}<span class="small-title">{{ .Params.title_suffix }}</span>{{ end }}</h1>
           {{ if .Content }}
           {{ partial "share" . }}
 

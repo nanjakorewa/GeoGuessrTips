@@ -13,6 +13,10 @@ jetro_detail: false
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../cs_america/brazil/", "ブラジル"],
+    ]
 ---
 
 <div class="main-desciption country-description">

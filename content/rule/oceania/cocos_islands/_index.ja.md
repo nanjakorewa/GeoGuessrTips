@@ -1,5 +1,7 @@
 ---
 title: "ココス諸島"
+title_suffix: "🌴"
+additional_icon: "🌴"
 date: 2023-02-26
 lastmod: 2023-05-01
 weight: 1
