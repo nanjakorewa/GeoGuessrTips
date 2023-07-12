@@ -115,6 +115,15 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "w-mymemo-wrong-cn" %}}
+
+<div>
+    <ul class="rule-list-none">
+        <li>{{% googlemap "https://goo.gl/maps/wnDprFHoaj1iUvRn8" %}}</li>
+    </ul>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">

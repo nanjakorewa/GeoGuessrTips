@@ -52,15 +52,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。また、セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。
+セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。他に街中でよく見るロゴはFricomやJelenなど（例<a href="https://goo.gl/maps/DjLNsVvDLbJCqYqV6">①</a>・<a href="https://goo.gl/maps/nJyL3T1FLVhc96Dq7">②</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="idea.png" width="500px">
+<img src="./Jelen_pivo.png" width="95px" style="margin:5px">
 </div>
 <div class="googlemap-if unclickable">
 <img src="./Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px">
 <img src="./maxi.svg" width="190px" style="margin-left:20px">
+<img src="./Frikom-logo.jpg" width="190px" style="margin-left:20px">
 </div>
 
 {{% notice tip %}}

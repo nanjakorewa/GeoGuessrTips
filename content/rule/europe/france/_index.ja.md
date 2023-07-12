@@ -103,6 +103,15 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681342282435!6m8!1m7!1sTFLCBVj_D16Egvy7fCg-iw!2m2!1d46.45146941722496!2d-0.8055775440280517!3f64.28518427305654!4f4.02540626784014!5f3.3141337805568174" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "w-mymemo-wrong-cn" %}}
+
+<div>
+    <ul class="rule-list-none">
+        <li>{{% googlemap "https://goo.gl/maps/mSD9uZXUbptkjLcUA" %}}</li>
+    </ul>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 
