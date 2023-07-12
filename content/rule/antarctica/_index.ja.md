@@ -31,7 +31,7 @@ sc: [
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683478926683!6m8!1m7!1snecVKY-c-uXULCEIRrAkqA!2m2!1d-77.88742062878194!2d160.580096674986!3f286.37611572715844!4f0.6862787826280083!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683479410808!6m8!1m7!1snPbXUGNsbVy2VbpDThrXZg!2m2!1d-77.7167967869317!2d162.2952866792769!3f99.6294502395842!4f4.428801176600643!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689175653070!6m8!1m7!1scq2Iyn0cSXsmSi1UxusnDQ!2m2!1d-77.84540478270755!2d166.6689789596019!3f119.29814077742884!4f5.137151765766106!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
