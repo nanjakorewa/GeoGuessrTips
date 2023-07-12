@@ -107,7 +107,7 @@ maps: [
             </ul>
         </li>
     </ul>
-    <h4 class="section-title">重要なルール</h2>
+    <h4 class="section-title">州を絞り込むヒント</h2>
     <ul class="rule-list">
         <li>① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a>{{% by "rumilb" "twitch" %}}。前にあるかどうかだけはじめに覚える。
             <ul>
