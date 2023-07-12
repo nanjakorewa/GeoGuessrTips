@@ -44,16 +44,7 @@ sc: [
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684548865123!6m8!1m7!1ss2eRa4sqGznaQedLsvXiMQ!2m2!1d59.37685549321069!2d27.89913102016457!3f105.52049170390629!4f-7.112191365266568!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684548910900!6m8!1m7!1sbf96ov07ReZpD0SKEheWeA!2m2!1d59.37684172767825!2d27.89843847287929!3f166.20028344309202!4f-22.312461237142173!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-電柱の形が特徴的。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684549021500!6m8!1m7!1stbZuP6koBaeDo8e3cl_DkA!2m2!1d58.93504701494305!2d23.54464915487738!3f201.21315628958942!4f12.229153390006445!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684549789125!6m8!1m7!1sUK09eoFtGbyzqxhEKnzbMA!2m2!1d58.82859579738559!2d22.77281356132972!3f222.06544992607115!4f35.6061724790744!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689164219918!6m8!1m7!1sDjT-SaPbfiSX9J-KU32QvA!2m2!1d58.90230248324077!2d22.78975689759678!3f0.49609568359306877!4f-3.5385327151698647!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -90,6 +81,16 @@ sc: [
 <img src="../latvia/r/ar.png" width="120px" class="margin-ten-px" />
 <img src="../lithuania/r/ar.png" width="120px" class="margin-ten-px" />
 </div>
+
+{{% notice tip %}}
+電柱の形が特徴的。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684549021500!6m8!1m7!1stbZuP6koBaeDo8e3cl_DkA!2m2!1d58.93504701494305!2d23.54464915487738!3f201.21315628958942!4f12.229153390006445!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684549789125!6m8!1m7!1sUK09eoFtGbyzqxhEKnzbMA!2m2!1d58.82859579738559!2d22.77281356132972!3f222.06544992607115!4f35.6061724790744!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "商業施設" %}}
 {{% notice tip %}}

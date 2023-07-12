@@ -110,11 +110,22 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 壁に埋め込まれた細長い箱？
 {{% /lb %}}
 
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687405941718!6m8!1m7!1sj2j2OmgVQ9liiXCPem0aPw!2m2!1d-11.99979523780639!2d-77.05149792975354!3f207.20135005809732!4f-13.403045634823357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687406013160!6m8!1m7!1s8iaz3NzSwxLWgkgOYbLZ0Q!2m2!1d-17.64026220130956!2d-71.32706660113355!3f65.24242672393657!4f-7.735547419482401!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "Google Car" %}}
+
+{{% notice tip %}}
+黒や白のGoogle Carが見られる。しかしアジアでも黒いGoogle Carを使うので色だけで南米に飛ぶと間違える時がある。右はペルーではなくインドネシア。
+{{% /lb %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689164645139!6m8!1m7!1szQDgI-2g9EZX7W2bfK0a6Q!2m2!1d-4.917720938064438!2d-80.84123537673362!3f277.2642709679733!4f-31.950433040985388!5f2.5783706818300063"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689164856256!6m8!1m7!1s7XN7wrREmw-2ltuDbTCOEw!2m2!1d0.6767604395880494!2d120.0338201672312!3f175.91998162017126!4f-31.709438222891443!5f1.9526976194285344"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
