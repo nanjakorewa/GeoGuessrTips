@@ -171,5 +171,4 @@ window.addEventListener("load", function () {
 window.addEventListener("load", function () {
     // 自分用のメモを表示するボタン
     addRemoveHandler('#show-mymemo-checkbox', 'isShowMymemo', 'mymemo-show', 'mymemo');
-    console.log("$$$");
 });

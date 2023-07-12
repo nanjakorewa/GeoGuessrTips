@@ -91,7 +91,10 @@
   $('.tab-content').find('.tab-pane').each(function (idx, item) {
     var navTabs = $(this).closest('.code-tabs').find('.nav-tabs'),
       title = $(this).attr('title');
-    if (title === "国を間違えたポイント") {
+    if (title === "国を間違えそうなポイント") {
+      navTabs.append('<li class="nav-item mymemo"><a class="nav-link" href="#">' + title + '</a></li>');
+    }
+    else if (title === "Difficult place") {
       navTabs.append('<li class="nav-item mymemo"><a class="nav-link" href="#">' + title + '</a></li>');
     }
     else {
