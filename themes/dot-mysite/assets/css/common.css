@@ -1227,3 +1227,12 @@ img#gachaImage {
   opacity: 1;
   pointer-events: initial;
 }
+
+.hidden-setting {
+  opacity: 0;
+  transition: 15s;
+}
+
+.hidden-setting:hover {
+  opacity: 1;
+}
