@@ -52,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。他に街中でよく見るロゴはFricomやJelenなど（例<a href="https://goo.gl/maps/DjLNsVvDLbJCqYqV6">①</a>・<a href="https://goo.gl/maps/nJyL3T1FLVhc96Dq7">②</a>）。
+セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。他に街中でよく見るロゴはFricomやJelenなど（例<a href="https://goo.gl/maps/nJyL3T1FLVhc96Dq7">①</a>・<a href="https://goo.gl/maps/DjLNsVvDLbJCqYqV6">②</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
