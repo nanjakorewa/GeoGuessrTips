@@ -79,9 +79,6 @@ sc: [
 <img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
 </div>
 
-
-
-
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}
@@ -140,6 +137,26 @@ sc: [
 
 {{% notice tip %}}
 東側に多いが西にも無いわけではないので参考程度。ひまわり畑があるとき、周辺のブルガリア・セルビア・ハンガリー・ウクライナのどこかにいるならばルーマニアの近くに寄せるのはアリな気がする。
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>首都周りの環状線は「DNCB」と名前が付いていてボラードに「CB」と書いてある。ボラードを見つけたら角度と地名でかなり近づけるはず。</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "DNCB" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689253543807!6m8!1m7!1sAMy-_76RH-zXlP6rR6Of3A!2m2!1d44.33533224361797!2d26.11264253598017!3f57.39231935195243!4f-10.58605503694369!5f3.325193203789971" width="300" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+「CB」を見たら首都の周りに行ってみる。道路がほぼ円形の形なので、この例だと道路の角度で北・南側のどちらかになる。そこから付近の地名を探して南側の場所だと絞り込める。
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
