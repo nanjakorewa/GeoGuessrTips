@@ -15,10 +15,10 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../canada/", "カナダ"],
     ]
-map_title: "マップ"
+map_title: "練習用マップ"
 maps: [
-    ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
     ["https://www.geoguessr.com/maps/5fb4a16924491b00010c608d", "US State-Specific Clues"],
+    ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
     ]
 ---
 
