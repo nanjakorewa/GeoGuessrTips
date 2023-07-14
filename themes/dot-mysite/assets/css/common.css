@@ -902,7 +902,7 @@ span.navbar-toggler-icon {
   text-align: center;
   vertical-align: center;
   float: left;
-  margin: 0 0 0.4em 0.3em;
+  margin: 0.5em 0 0.4em 0.3em;
 }
 
 .sc_area li a {
@@ -910,9 +910,8 @@ span.navbar-toggler-icon {
 }
 
 i.link-title-button {
-  font-size:1em;
-  margin-left: 0.3em;
-  margin-right: 0.2em;
+  font-size: 1.1em;
+  margin: 0 0.2em 0 0.3em;
 }
 
 i.i-googlecar {

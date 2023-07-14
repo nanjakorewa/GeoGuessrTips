@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "MX.svg"
 jetro_detail: true
 jogmec_detail: true
-map_title: "マップ"
+map_title: "メキシコかコロンビアしか出ないマップ"
 maps: [
     ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co(Created by niwai)"],
     ]
