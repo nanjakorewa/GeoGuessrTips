@@ -48,7 +48,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683488890983!6m8!1m7!1sgKxdD1yXh9tNwo2deS3DqA!2m2!1d41.99081838903857!2d21.46518823099309!3f202.19367154038568!4f-10.387930909500298!5f3.3140154436533846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% lb 50 %}}
+{{% lb 50 small %}}
 ![](2023-06-15-01-21-09.png)
 
 By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=77624620">Wikipedia Commons(Link)</a>
