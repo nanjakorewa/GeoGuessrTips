@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "MX.svg"
 jetro_detail: true
 jogmec_detail: true
+map_title: "マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co(Created by niwai)"],
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../../cs_america/colombia/", "コロンビア"],

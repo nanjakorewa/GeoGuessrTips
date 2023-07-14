@@ -502,7 +502,7 @@ div.footer-fontsize-area {
 }
 
 div.main-desciption {
-  margin: 3em 1em 0.5em 1em;
+  margin: 2.5em 1em 0.5em 1em;
   padding: 1em;
   border-radius: 0.5em;
   background-color: #ededed;
@@ -880,7 +880,8 @@ span.navbar-toggler-icon {
 }
 
 .sc_area {
-  padding: 0.3em;
+  padding: 0 0 0 0.3em ;
+  margin: 0 0 0 0 ;
   list-style: none;
   overflow: hidden;
 }
@@ -893,14 +894,15 @@ span.navbar-toggler-icon {
 
 .sc_area > ul > li.sc-title {
   pointer-events: none;
+  margin-bottom: 0;
+  padding-bottom: 0;
 }
 
 .sc_area li {
   text-align: center;
   vertical-align: center;
   float: left;
-  margin-left: 0.3em;
-  margin-bottom: 1em;
+  margin: 0 0 0.4em 0.3em;
 }
 
 .sc_area li a {

@@ -100,6 +100,18 @@
             </div>
           {{ end }}
 
+          <!-- map_area -->
+          {{ if .Params.maps }}
+          <div class="sc_area">
+            <ul>
+              <li class="sc-title"><button class="button-sc bg-white-button" role="button"><i class="far fa-question-circle link-title-button"></i>{{ .Params.map_title }}</button></li>
+            {{ range $index, $element := .Params.maps }}
+              <li><a href="{{ (index $element 0) }}"><button class="button-sc bg-black-button" role="button">{{ (index $element 1) }}</button></a></li>
+            {{ end }}
+            </ul>
+          </div>
+          {{ end }}
+
           {{ if .Params.mapName }}
           <div class="map-container">
             <div class="container">
