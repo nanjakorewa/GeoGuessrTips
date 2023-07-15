@@ -12,6 +12,10 @@ jetro_detail: true
 jogmec_detail: true
 plonkit: true
 is_has_distinctive_bollard: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/61067f9608061c000157a851", "A Balanced Canada"],
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../usa/", "アメリカ"],
