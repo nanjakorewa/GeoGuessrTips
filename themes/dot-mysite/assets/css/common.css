@@ -610,11 +610,11 @@ a.link-color {
 
 .blurtext:hover {
   filter: blur(0px);
-  transition-duration: 1.5s;
+  transition-duration: 0.1s;
 }
 
 .blurtext:hover::after {
-  transition-duration: 1.5s;
+  transition-duration: 0.1s;
   opacity: 0;
 }
 
@@ -631,11 +631,11 @@ a.link-color {
   filter: blur(0px);
   color: #740804;
   font-weight: bold;
-  transition-duration: 1.0s;
+  transition-duration: 0.1s;
 }
 
 .blurtext-2:hover::after, .blurtext-2:hover::before {
-  transition-duration: 1.0s;
+  transition-duration: 0.1s;
   opacity: 0;
 }
 
@@ -1231,7 +1231,7 @@ img#gachaImage {
 
 .hidden-setting {
   opacity: 0;
-  transition: 15s;
+  transition: 0s;
 }
 
 .hidden-setting:hover {
