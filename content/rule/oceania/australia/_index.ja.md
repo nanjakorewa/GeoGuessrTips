@@ -274,4 +274,9 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
 <img src="VicRoads_Logo_2009.gif" width="200px" />
 </div>
 {{% /tab %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/glf854/area_codes_of_australia/">Area Codes of Australia</a><br> by      <a href="https://www.reddit.com/user/cmzraxsn">u/cmzraxsn</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
