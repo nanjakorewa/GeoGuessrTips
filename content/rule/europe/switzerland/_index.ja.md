@@ -58,8 +58,6 @@ plonkit: true
 </div>
 
 
-
-
 {{% notice tip %}}
 ナンバープレートは特徴的だがモザイクが強くわかりにくい。ほとんどの車は青い線がない。
 {{% /notice %}}
@@ -77,7 +75,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 {{% /notice %}}
 
 <div class="googlemap-if">
-<p style="margin:0;padding:0"><a href="https://commons.wikimedia.org/wiki/File:Trockenwiese_Platti,_B%C3%BCrglern_UR_20230629-jag9889.jpg#/media/File:Trockenwiese_Platti,_Bürglern_UR_20230629-jag9889.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Trockenwiese_Platti%2C_B%C3%BCrglern_UR_20230629-jag9889.jpg" alt="Trockenwiese Platti, Bürglern UR 20230629-jag9889.jpg" width="90%"></a></p>
+<a href="https://commons.wikimedia.org/wiki/File:Trockenwiese_Platti,_B%C3%BCrglern_UR_20230629-jag9889.jpg#/media/File:Trockenwiese_Platti,_Bürglern_UR_20230629-jag9889.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Trockenwiese_Platti%2C_B%C3%BCrglern_UR_20230629-jag9889.jpg" alt="Trockenwiese Platti, Bürglern UR 20230629-jag9889.jpg" height="720" width="960"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Jag9889" title="User:Jag9889">Jag9889</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=133815213">Link</a></p>
 </div>
 
