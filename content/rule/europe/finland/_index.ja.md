@@ -178,6 +178,7 @@ additional_link:
             </ul>
         </li>
         <li>周りが平坦で路面が赤っぽいならば{{% goto "../aland_islands/" "オーランド諸島" %}}かも</li>
+        <li>市外局番が地域ごとに異なる</li>
     </ul>
 </div>
 
@@ -204,4 +205,11 @@ additional_link:
 </div>
 
 {{% /tab %}}
+{{% tab "市外局番" %}}
+
+<div class="googlemap-if unclickable">
+<p><img src="Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></a></p>
+<p>Public domain</p>
+</div>
+
 {{% /tabs %}}

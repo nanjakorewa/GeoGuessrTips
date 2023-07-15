@@ -177,3 +177,18 @@ Public Domain
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>市外局番で地域がわかるかもしれない</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Thailand telephone area codes.svg" height="720" width="409"></a>
+</p><p>By <a href="//commons.wikimedia.org/wiki/User:Ponpan" title="User:Ponpan">Ponpan</a> - This <a href="https://en.wikipedia.org/wiki/vector_image" class="extiw" title="w:vector image">vector image</a> includes elements that have been taken or adapted from this file.</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79476331">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

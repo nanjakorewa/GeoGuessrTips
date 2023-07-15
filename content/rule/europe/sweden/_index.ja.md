@@ -153,6 +153,7 @@ sc: [
                 <li>道路番号は2桁は南から9～99、3桁は南から100～400くらい{{% by "syamu_0304" "twitch" %}}</li>
             </ul>
         </li>
+        <li>市外局番で地域がわかることがある</li>
     </ul>
 </div>
 
@@ -164,6 +165,14 @@ sc: [
 
 <div class="googlemap-if unclickable">
 <img src="./r/Sweden_road_sign_F14-3.svg" width="100px">
+</div>
+
+{{% /tab %}}
+{{% tab "市外局番" %}}
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:SWE_Areacodes.svg#/media/File:SWE_Areacodes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SWE_Areacodes.svg" alt="SWE Areacodes.svg" height="580" width="255"></a></p><p>By derivative work: <a href="//commons.wikimedia.org/w/index.php?title=User:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Coffeeshivers (page does not exist)">Coffeeshivers</a> (<a href="//commons.wikimedia.org/w/index.php?title=User_talk:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User talk:Coffeeshivers (page does not exist)">talk</a>)
+<a href="//commons.wikimedia.org/wiki/File:SWE-Map_Rike.svg" title="File:SWE-Map Rike.svg">SWE-Map_Rike.svg</a>: <a href="//commons.wikimedia.org/wiki/User:Lokal_Profil" title="User:Lokal Profil">Lokal_Profil</a> - <a href="//commons.wikimedia.org/wiki/File:SWE-Map_Rike.svg" title="File:SWE-Map Rike.svg">SWE-Map_Rike.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4487871">Link</a></p>
 </div>
 
 {{% /tab %}}

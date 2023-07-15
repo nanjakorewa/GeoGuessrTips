@@ -88,6 +88,22 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 
 
 <div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>市外局番で地域がわかるかもしれない</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Karte Telefonvorwahlen Deutschland.png" height="1080" width="814"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}

@@ -96,6 +96,15 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     <ul class="rule-list">
         <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}</li>
         <li>本島からかなり離れた場所にアンティポディーズ諸島があってペンギンやオットセイがいる</li>
+        <li>市外局番が北から南へと小さくなっていく
+            <ul>
+                <li>09：最北のエリア（<span class="quiz">オークランド</span>付近とそれより北）</li>
+                <li>07：北島の上半分～<span class="quiz">オークランド</span></li>
+                <li>06：北島の下半分～<span class="quiz">ウェリントン</span>以外</li>
+                <li>04：北島の最南端の<span class="quiz">ウェリントン</span>付近</li>
+                <li>03：南島全域</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
