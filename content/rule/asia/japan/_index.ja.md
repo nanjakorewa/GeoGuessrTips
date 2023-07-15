@@ -11,6 +11,12 @@ flag: "JP.svg"
 jetro_detail: true
 jogmec_detail: true
 import_jquery_36: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/631a309ba54a618fca31960a", "A Balanced Japan"],
+    ["https://www.geoguessr.com/maps/615877afcbf30d0001bee009", "日本の市街地"],
+    ["https://www.geoguessr.com/maps/59cf49695d2de4db80351e6e", "Japan • 日本 60k+"],
+    ]
 ---
 
 <div class="main-desciption country-description">

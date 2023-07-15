@@ -11,6 +11,10 @@ flag: "BR.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c", "A Balanced Brazil"],
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../colombia/", "コロンビア"],

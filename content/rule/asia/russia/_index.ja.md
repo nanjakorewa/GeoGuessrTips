@@ -13,6 +13,7 @@ jogmec_detail: true
 map_title: "練習用マップ"
 maps: [
     ["https://www.geoguessr.com/maps/6447040b0517cbd5807a5145", "A Learnable Russia"],
+    ["https://www.geoguessr.com/maps/62e309bfac02fca31aa404b8", "A Balanced Russia"],
     ]
 sc_title: "間違えやすい地域"
 sc: [

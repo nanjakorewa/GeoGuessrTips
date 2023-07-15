@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "IN.svg"
 jetro_detail: true
 jogmec_detail: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/62e10035c97fc44e29bd8e0e", "A Balanced AI Generated India"],
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../bangladesh/", "バングラディシュ"],

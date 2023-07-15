@@ -10,6 +10,10 @@ bg: "bg/city.jpg"
 flag: "ID.svg"
 jetro_detail: true
 plonkit: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/619086606e5572000185a1db", "AI gen - Indonesia"],
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../malaysia/", "マレーシア"],
