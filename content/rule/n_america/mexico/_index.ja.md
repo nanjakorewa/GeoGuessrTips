@@ -29,7 +29,8 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li><span class="quiz">OXXO</span>はメキシコのコンビニ</li>
         <li>電柱は<span class="quiz">8角形</span>のものが多い</li>
-        <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い（石油大手PEMEX、セメント大手CEMEX、映画館CINEMEX等）</li>
+        <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い</li>
+        <li><span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある</li>
         <li>VeTVと書いてある<span class="quiz">青</span>色のアンテナが家に付いていることがある</li>
         <li>とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}</li>
     </ul>
@@ -40,7 +41,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-～MEXと名の付く会社はメキシコの大手企業に多い。OXXOはメキシコの大手コンビニ（ただしチリなどにも多く存在する）。
+～MEXと名の付く会社はメキシコの大手企業に多い。石油大手Pemex・通信大手telmex・セメント大手Cemexなど。OXXOはメキシコの大手コンビニで街中に多く見かける。ただしOXXOは{{% goto "../../cs_america/chile/" "チリ" %}}の都市部にも店がある点に注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Nuevo Vallarta Mexico"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -59,6 +60,14 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
 <img src="./r/arrow.png" width="90px" style="margin-left:20px">
+</div>
+
+{{% notice tip %}}
+<span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<p><div class="unclickable"><img src="./bollard.png" width="90%"></div></p>
+<p>By <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
 

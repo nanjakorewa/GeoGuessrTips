@@ -94,7 +94,11 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}</li>
+        <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}
+            <ul>
+                <li>画質が悪く砂利の道が多い場合はオークランドの北に行ってみる</li>
+            </ul>
+        </li>
         <li>本島からかなり離れた場所にアンティポディーズ諸島があってペンギンやオットセイがいる</li>
         <li>市外局番が北から南へと小さくなっていく
             <ul>
