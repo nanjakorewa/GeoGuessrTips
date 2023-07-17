@@ -27,7 +27,7 @@ sc: [
         <li>ドメインは<span class="quiz">.gu</span></li>
         <li>Google Carが特徴的で<span class="quiz">長いアンテナ</span>が右前にあり左後ろにわずかに金属が見えることがある</li>
         <li>{{% goto "../northern_mariana_islands/" "北マリアナ諸島" %}}と同じく観光地であるため日本語や韓国語が見つかる</li>
-        <li>砂浜の上を歩く場所があり、高層の観光ホテルが見えることが多い</li>
+        <li>砂浜の上を歩く場所があり高層の観光ホテルが見えることが多い</li>
     </ul>
 </div>
 
@@ -35,7 +35,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Google Carが特徴的で長いアンテナが右前にある。左後ろにわずかに金属が見えることが多い。ただし見えない時もある。
+Google Carが特徴的で長いアンテナが右前にある。{{% goto "../northern_mariana_islands/" "北マリアナ諸島" %}}と異なり左後ろにわずかに金属が見えることが多い。ただし見えない時もある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683472584933!6m8!1m7!1sdEZoGOru-GFkj3C8nyX61Q!2m2!1d13.35562096234083!2d144.6520598201832!3f155.2014085480648!4f-17.561906953218127!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -52,7 +52,7 @@ Google Carが特徴的で長いアンテナが右前にある。左後ろにわ�
 </div>
 
 {{% notice tip %}}
-砂浜の上を歩く場所があり、高層の観光ホテルが見えることが多い
+砂浜の上を歩く場所があり高層の観光ホテルが見えることが多い
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689605355126!6m8!1m7!1sQlmS-stPc4Z8hGyPJfRSmQ!2m2!1d13.51956638117299!2d144.8062833044895!3f324.09276927033267!4f-1.1611460097838204!5f0.8473096448948793"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

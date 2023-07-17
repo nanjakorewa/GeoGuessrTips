@@ -32,7 +32,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Google Carの右前に長いアンテナがある
+Google Carの右前に長いアンテナがある。{{% goto "../guam/" "グアム" %}}や{{% goto "../../n_america/puerto-rico/" "プエルトリコ" %}}にもアンテナがあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683473042222!6m8!1m7!1safrS82f1nqI__b_6b6fQDw!2m2!1d15.21143473229066!2d145.7537668222292!3f169.99762325557893!4f-24.22246046686091!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
