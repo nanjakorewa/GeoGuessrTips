@@ -14,6 +14,10 @@ plonkit: true
 dont_show_usda: true
 is_has_distinctive_bollard: true
 import_jquery_36: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/60afb9b2dcdbe60001438fa6", "A Balanced Australia"]
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/south-africa/", "南アフリカ"],

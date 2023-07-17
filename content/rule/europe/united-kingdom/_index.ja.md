@@ -11,6 +11,10 @@ bg: "bg/city.jpg"
 flag: "GB.svg"
 jogmec_detail: false
 plonkit: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/5ba862d12c0173524cd9327a", "AI Generated United Kingdom"]
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../jersey/", "ジャージー"],
