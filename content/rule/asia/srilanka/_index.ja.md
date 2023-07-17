@@ -44,7 +44,7 @@ sc: [
 
 
 {{% notice tip %}}
-水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。大き目の穴が空いた電柱がある。
+水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688100035822!6m8!1m7!1svKZ1LZAISHtXxxH-m0QN5Q!2m2!1d8.946198956561048!2d79.92337812619381!3f15.549198534843864!4f-10.503286587022998!5f1.2071605491286992" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
