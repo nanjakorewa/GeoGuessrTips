@@ -53,4 +53,9 @@ Google Carが特徴的
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682552342053!6m8!1m7!1sGWRmcUYLetMNqlrT5GImVQ!2m2!1d2.755225980074793!2d35.64334290294197!3f349.5697049206935!4f-13.6052621076158!5f1.5080392418408253" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ボラード" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689602344627!6m8!1m7!1skDJpJQE9Q3f5-Fu3WcGH_Q!2m2!1d-1.896337136460409!2d36.29041041792873!3f340.1124427594091!4f0.2480216390300427!5f2.950964112637595"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}

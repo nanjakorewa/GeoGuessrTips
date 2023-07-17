@@ -108,7 +108,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 {{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689596428727!6m8!1m7!1s-0TcU12wSJ298X8KfERlKg!2m2!1d-26.76299323362851!2d-70.74143127543985!3f8.62858392710753!4f-12.305980848488176!5f3.325193203789971" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689596428727!6m8!1m7!1s-0TcU12wSJ298X8KfERlKg!2m2!1d-26.76299323362851!2d-70.74143127543985!3f8.62858392710753!4f-12.305980848488176!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐕" %}}
