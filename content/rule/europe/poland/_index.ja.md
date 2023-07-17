@@ -72,7 +72,7 @@ sc: [
 
 
 {{% notice tip %}}
-「<span class="quiz">Ł・ł</span>」の文字がある。また、標識などの「ｔ」のフォントの両端が斜めになっている（確証なし）？
+「<span class="quiz">Ł・ł</span>」の文字がある。また「ｔ」のフォントも特徴的（これは確証なし）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
