@@ -34,7 +34,7 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも。ただし似たようなボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../philippines/" "フィリピン" %}}と{{% goto "../srilanka/" "スリランカ" %}}にもあるので注意。
+{{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも。ただし似たようなボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682877916254!6m8!1m7!1sSsph6IlCDLalfC82SiXhGQ!2m2!1d14.64339940767677!2d98.69383419317019!3f272.2330816685183!4f-9.492207784541847!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
