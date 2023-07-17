@@ -25,8 +25,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.gu</span></li>
-        <li>Google Carが特徴的で長いアンテナが右前にある。左後ろにわずかに金属が見える。</li>
+        <li>Google Carが特徴的で<span class="quiz">長いアンテナ</span>が右前にあり左後ろにわずかに金属が見えることがある</li>
         <li>{{% goto "../northern_mariana_islands/" "北マリアナ諸島" %}}と同じく観光地であるため日本語や韓国語が見つかる</li>
+        <li>砂浜の上を歩く場所があり、高層の観光ホテルが見えることが多い</li>
     </ul>
 </div>
 
@@ -46,9 +47,16 @@ Google Carが特徴的で長いアンテナが右前にある。左後ろにわ�
 家の前や道端に何かが生えている？
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685047436940!6m8!1m7!1srmYA6GBHyUHyAdlbKoOH5Q!2m2!1d13.52094131423855!2d144.8373787535323!3f1.0157292059205054!4f-16.32673677660253!5f3.3141337806016518" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685047367536!6m8!1m7!1sOay3oORuLk_aZdXmjyLT9Q!2m2!1d13.4591290552049!2d144.6839708813716!3f285.972866570056!4f-39.64110568638057!5f2.8760264216443843" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685047375292!6m8!1m7!1sykU26gDQdelnV_4S285D8g!2m2!1d13.30972381492467!2d144.7631331510336!3f277.39420596574723!4f-15.930525718495772!5f3.304918830400852" width="195" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685047436940!6m8!1m7!1srmYA6GBHyUHyAdlbKoOH5Q!2m2!1d13.52094131423855!2d144.8373787535323!3f1.0157292059205054!4f-16.32673677660253!5f3.3141337806016518" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685047367536!6m8!1m7!1sOay3oORuLk_aZdXmjyLT9Q!2m2!1d13.4591290552049!2d144.6839708813716!3f285.972866570056!4f-39.64110568638057!5f2.8760264216443843" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+砂浜の上を歩く場所があり、高層の観光ホテルが見えることが多い
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689605355126!6m8!1m7!1sQlmS-stPc4Z8hGyPJfRSmQ!2m2!1d13.51956638117299!2d144.8062833044895!3f324.09276927033267!4f-1.1611460097838204!5f0.8473096448948793"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689605395062!6m8!1m7!1s8Aj4UQYkavoCwh6ot4EVpA!2m2!1d13.48239779994021!2d144.7701175075356!3f6.036586572029697!4f1.4791176919620312!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
