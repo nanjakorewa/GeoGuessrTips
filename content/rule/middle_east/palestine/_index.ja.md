@@ -22,7 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ps</span></li>
-        <li>ヘブライ語<span class="quiz">(מְדִינַת יִשְׂרָאֵל)</span>の文字</li>
+        <li>アラビア語（اللغة العربية）やヘブライ語（עברית）の文字がある</li>
         <li>ナンバープレートに<span class="quiz">白</span>背景に<span class="quiz">緑</span>文字のものがあるがほとんどがイスラエルと同じ黄色</li>
     </ul>
 </div>
