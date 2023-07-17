@@ -23,7 +23,7 @@ sc: [
         <li>言語は<span class="quiz">英語</span></li>
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.gh</span></li>
-        <li>右前に<span class="quiz">黒いガムテープが巻かれている</span>、右後ろならばレユニオン島(仏領)になる</li>
+        <li>右前に<span class="quiz">黒いガムテープが巻かれている</span></li>
     </ul>
 </div>
 
@@ -39,7 +39,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-右前に<span class="quiz">黒いガムテープが巻かれている</span>
+右前に<span class="quiz">黒いガムテープが巻かれている</span>。テープがあって場所が右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681665981309!6m8!1m7!1shaITls7uxrh3qVzZh0K-vw!2m2!1d6.622455959978123!2d0.4687056585658413!3f190.94845211908063!4f-89!5f0.7820865974627469" width="495" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

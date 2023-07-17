@@ -28,7 +28,7 @@ sc: [
         <li>ドメインは<span class="quiz">.re</span></li>
         <li><span class="quiz">サトウキビ</span>が育てられている</li>
         <li>フランスと同じボラードや電柱がある</li>
-        <li>Google Carが特徴的</li>
+        <li>Google Carが特徴的で<span class="quiz">右後ろ</span>に黒いテープが巻いてある</li>
     </ul>
 </div>
 
@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で右後ろに黒いテープが巻いてある。
+Google Carが特徴的で<span class="quiz">右後ろ</span>に黒いテープが巻いてある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686044630522!6m8!1m7!1sAXol-Yi0wMSrQCLjDYZ5kg!2m2!1d-21.21776473792954!2d55.56099119881759!3f7.073825579935257!4f-89!5f0.41939995202028907" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
