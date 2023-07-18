@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "BE.svg"
 jetro_detail: true
 dont_show_usda: true
+flag_height: 600px;
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [

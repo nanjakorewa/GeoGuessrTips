@@ -59,6 +59,13 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682217440981!6m8!1m7!1sShrdegp8jM5kGf45qRbN4Q!2m2!1d51.9121151342119!2d4.446415080678936!3f105.34258501375567!4f15.29181978106989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+自転車を走る道路（Fietspad）が国中に整備されていている。写真の左側のレーンが自転車用の道路。また、ルクセンブルグと比べ平坦で水路が多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/meteorry/51314358579/" title="Nieuwe Gouw - Amsterdam (Netherlands)"><img src="https://live.staticflickr.com/65535/51314358579_a64b6d05a3_z.jpg" width="640" height="426" alt="Nieuwe Gouw - Amsterdam (Netherlands)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -72,11 +79,9 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683705543455!6m8!1m7!1sh3K0tdDQ9gYR7jeaefKuHg!2m2!1d51.61181829030777!2d4.774081036091234!3f241.1098205668238!4f-1.7548572387365198!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
 {{% notice tip %}}
 道路番号が書いてある
 {{% /notice %}}
-
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141570574!6m8!1m7!1sprdJ9xuz_l9p0xCfBazpdA!2m2!1d51.8035704085399!2d4.697570333012825!3f268.4021750511996!4f-13.239676289471817!5f3.2829566151088043" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
