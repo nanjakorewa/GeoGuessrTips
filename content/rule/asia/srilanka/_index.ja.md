@@ -77,6 +77,21 @@ sc: [
 </table>
 </div>
 {{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689693387172!6m8!1m7!1s5dTN9clLupvcUxciDG80hA!2m2!1d8.918141925114986!2d80.82820935152041!3f301.84932017712123!4f36.30017760225044!5f3.325193203789971" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}電柱は穴があるものと四角いものがある。四角だけを見てタイに行かないように。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689696319066!6m8!1m7!1sypMLkuKCeXAX74k_3MmosQ!2m2!1d8.657135222825307!2d80.68889865657874!3f253.81983536675153!4f-1.8165144304921625!5f1.6537555048095185"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689696400427!6m8!1m7!1sAR5Ea-BIRZd6le9GMdMVlg!2m2!1d8.918007600594635!2d80.82875374288504!3f68.8236013564671!4f-4.9122300085523705!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "w-googlecar" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685558545219!6m8!1m7!1suYZVUguOqtLX3aqwH41Jzw!2m2!1d6.790834621766157!2d81.3302666882394!3f333.53313405477843!4f-34.961461072681836!5f2.9541794563692" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
