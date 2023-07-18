@@ -40,7 +40,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>。
+ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>ことが多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
