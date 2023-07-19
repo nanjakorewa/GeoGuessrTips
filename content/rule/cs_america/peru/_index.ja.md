@@ -9,6 +9,10 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "PE.svg"
 jetro_detail: true
+map_title: "練習用マップ"
+maps: [
+    ["https://www.geoguessr.com/maps/64b7d73dda09bd9071e66719", "peru vs bolivia vs chile(Created by niwai)"],
+    ]
 sc_title: "間違えやすい地域"
 sc: [
     ["../bolivia/", "ボリビア"],
