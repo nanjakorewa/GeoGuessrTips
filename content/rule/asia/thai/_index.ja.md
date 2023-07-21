@@ -84,6 +84,14 @@ Public Domain
 </table>
 </div>
 {{% /tab %}}
+{{% tab "商業施設" %}}
+{{% notice note %}}
+北陸地方でよく見られる8番ラーメンは今タイで人気チェーンになりつつある{{% ref "https://www.hachiban.co.jp/business/abroad/" "海外事業 | 野菜らーめんの8番らーめん" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689962335010!6m8!1m7!1sSkClzCE-6UtCLfD7L2PNjQ!2m2!1d13.7613527806081!2d100.4995412365237!3f212.95609704824895!4f1.5404108846140332!5f2.7203736392567532"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
 
 <div>
