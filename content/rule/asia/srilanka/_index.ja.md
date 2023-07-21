@@ -131,4 +131,25 @@ sc: [
 </table>
 </div>
 {{% /tab %}}
+{{% tab "田んぼ" %}}
+<div class="googlemap-if unclickable">
+<img src="./rice.png" width="400px">
+</div>
+{{% notice tip %}}どちらかというと北東側に多いがやはり全域にあるので参考程度。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "ヤシの木" %}}
+<div class="googlemap-if unclickable">
+<img src="./palm.png" width="400px">
+</div>
+{{% notice tip %}}木自体はまばらに全域にあるような気もするけれど、商業的なレベルでの生産のうちの半分は中央西部の特定から。図が雑ですいません。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "お茶・ゴム" %}}
+<div class="googlemap-if unclickable">
+<img src="./tea.png" width="400px">
+</div>
+{{% notice tip %}}南西に多い、plonkitにも記載があったのと参考文献から確からしい。ゴムの木も似たような分布になっている。
+{{% /notice %}}
+{{% /tab %}}
 {{% /tabs %}}
