@@ -77,10 +77,17 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if unclickable">
 <img src="./r/xcv.png" width="200px">
 </div>
 
+{{% notice tip %}}
+区切りのある電柱ポールがある。また同じような形の電柱がフランスに関係のある{{% goto "../../africa/senegal/" "セネガル" %}}や{{% goto "../../africa/reunion/" "レユニオン島" %}}にも存在する。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./utylity-pole.png" width="70%" alt="フランスの電柱">
+</div>
 
 {{% /tab %}}
 {{% tab "w-road" %}}

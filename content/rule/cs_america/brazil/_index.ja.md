@@ -292,7 +292,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-01-07-35.png" style="max-width:80%;"/>
+<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
 <p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
 </div>
 {{% /tab %}}

@@ -11,10 +11,8 @@ flag: "SN.svg"
 no_detaile_info: true
 jetro_detail: true
 is_has_distinctive_googlecar: true
-sc_title: "関連ページ"
-sc_icon: rel
+sc_title: "間違えやすい地域"
 sc: [
-    ["../../europe/france/", "フランス"],
     ["../kenya/", "ケニア"],
     ]
 ---
@@ -23,11 +21,11 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sn</span></li>
-        <li>言語は<span class="quiz">フランス語、ウォロフ語</span></li>
-        <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色。後ろが黄色い場合は{{% goto "../botswana/" "ボツワナ" %}}かも。</li>
+        <li>言語は<span class="quiz">フランス語</span>とウォロフ語が使われる</li>
+        <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色が多い</li>
         <li>空に<span class="quiz">ひびのような線が入っている</span>ことが多い</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
-        <li>フランスと同じく通り名に「RUE」と書かれている</li>
+        <li>{{% goto "../../europe/france/" "フランス" %}}と同じく通り名に「RUE」と書かれている</li>
     </ul>
     {{% rd africa senegal verysmall %}}
 </div>
@@ -50,10 +48,10 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 {{% /lb %}}
 
 {{% notice tip %}}
-フランスにある電柱とおなじ形の電柱（左の奥に見える電柱など）がある。また通り名のプレートもフランスと似たようなものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった。
+{{% goto "../../europe/france/" "フランス" %}}にある電柱とおなじ形の電柱（左の奥に見える電柱など）がある。また通り名のプレートもフランスと似たようなものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684782890693!6m8!1m7!1sCVRmk1YCW7NbX7IkeSsarg!2m2!1d16.2549968607461!2d-15.79538308364135!3f145.7599727344226!4f-0.5979499095297598!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689904523916!6m8!1m7!1ssB6m6dY7gMC4tuhbnljpaw!2m2!1d16.25490530805905!2d-15.79537753038563!3f116.8511106242806!4f3.235587138574587!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683957920812!6m8!1m7!1sauiScdo2WauA8rWdctcjhA!2m2!1d14.73037964932632!2d-17.47083687516089!3f346.3709277196887!4f4.374441865386004!5f3.2786393840952575" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
@@ -63,7 +61,7 @@ Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがか
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686446534206!6m8!1m7!1selo9Ar26uD_-wLGcOHucEg!2m2!1d14.08048083376086!2d-12.97505287100254!3f250.06515007223288!4f-17.27047137495677!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680287431312!6m8!1m7!1s0VMJLt0-4tIFwFVvixfCWw!2m2!1d14.75093555778545!2d-17.35376756308375!3f80.50105210742223!4f-31.91313279331974!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689904309887!6m8!1m7!1sACuSw69jdwZG7RlLyPbWAg!2m2!1d14.78783752954959!2d-12.43782828662209!3f193.91743027508875!4f-24.507410395603088!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

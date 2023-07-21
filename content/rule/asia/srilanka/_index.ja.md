@@ -103,7 +103,14 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">シンハラ語・タミル語の使われ方でおよその地域が分かるかも</li>
+        <li>シンハラ語・タミル語の使われ方でおよその地域が分かるかも</li>
+        <li class="no-evidence">ゴム・お茶・ココヤシ・田んぼの分布が異なる
+            <ul>
+                <li>田んぼ：南西に少ない{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CE" "USDA" %}}</li>
+                <li>ココヤシ：Kutunegalaが50%・残りもその付近の海岸沿い{{% ref "https://www.researchgate.net/figure/Distribution-of-coconut-cultivation-by-districts-in-Sri-Lanka_fig1_347625806" "Distribution of coconut cultivation by districts in Sri Lanka." %}}</li>
+                <li>お茶・ゴム：南西の海岸{{% ref "https://paofceylon.org/Tea.htm" "the planter's association of Caylon" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
