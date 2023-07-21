@@ -18,6 +18,7 @@ weight: 1000
 - [Plonk It](https://www.plonkit.net/)
 - [GeoGuessr - wiki reddit archive](https://www.reddit.com/r/geoguessr/wiki/index/#wiki_reddit_archive)
 - [Highway Route Markers](http://routemarkers.com/)
+- [Street View Map](https://sv-map.netlify.app/#base=roadmap&cov=official&zoom=2&center=0%2C0)：Googleの公式ストリートビューがある地域を確認できるWebアプリ
 - [日本語] [Geoguessr Japan wiki](https://wikiwiki.jp/geoguessr/)
 - [日本語] [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
 

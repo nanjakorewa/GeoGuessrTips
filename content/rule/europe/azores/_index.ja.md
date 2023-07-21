@@ -24,7 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ポルトガル領の離島でナンバープレート・標識・電柱はポルトガルと共通している</li>
-        <li><span class="quiz">テルセイラ</span>島と<span class="quiz">サンミゲル</span>島にストリートビューがある</li>
+        <li><span class="quiz">テルセイラ</span>島と<span class="quiz">サンミゲル</span>島にストリートビューが多い</li>
         <li class="no-evidence">白い壁にカラフルな縁取りの家が多い気がする</li>
         <li class="no-evidence">標識の棒がピンクのストライプの時がある</li>
     </ul>
@@ -61,6 +61,15 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685749853745!6m8!1m7!1svmPlBMaG46BJY0bpNvh_rA!2m2!1d37.84864655863466!2d-25.84207319976016!3f259.97059142551706!4f-2.8238452582651092!5f1.53702134643046" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685749880450!6m8!1m7!1sh1a9yeuzm3sEuWufIFIe_A!2m2!1d37.80502457107251!2d-25.70088024104551!3f19.641001348998394!4f-24.053433207392345!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+ファイアル島のカルデア周辺（例<a href="https://goo.gl/maps/gHtAQBujS4immsA59">①</a>・<a href="https://goo.gl/maps/eS45ZPWE1MQMHywG7">②</a>）にのみ少しだけストリートビューがある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AB%E5%B3%B6" "ファイアル島" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<!-- 画像ソース：Public Domain https://en.wikipedia.org/wiki/Faial_Island#/media/File:Caldeira_faial.jpg -->
+<img src="2023-07-21-06-30-38.png" alt="ファイアル島のカルデア"/>
 </div>
 
 {{% /tab %}}
