@@ -106,7 +106,7 @@ sc: [
         <li>シンハラ語・タミル語の使われ方でおよその地域が分かるかも</li>
         <li class="no-evidence">農業の分布に偏りがある
             <ul>
-                <li>田んぼ：南西に少ない{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CE" "USDA" %}}</li>
+                <li>田んぼ：南西に<b>少ない</b>{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CE" "USDA" %}}</li>
                 <li>ココヤシ：中央西部のKutunegalaが50%・残りもその付近の西の海岸沿いが多い{{% ref "https://www.researchgate.net/figure/Distribution-of-coconut-cultivation-by-districts-in-Sri-Lanka_fig1_347625806" "Distribution of coconut cultivation by districts in Sri Lanka." %}}</li>
                 <li>お茶・ゴム：南西の海岸{{% ref "https://paofceylon.org/Tea.htm" "the planter's association of Caylon" %}}</li>
             </ul>
