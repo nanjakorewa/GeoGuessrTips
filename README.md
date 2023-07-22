@@ -1,7 +1,17 @@
 
 # [GeoGuessrのメモ](https://geopinning.space/)
 
-ジオゲッサーのメモを記録するリポジトリです。[GeoGuessrのメモ](https://geopinning.space/)のソースコードと画像です。
+ジオゲッサーのメモを記録するリポジトリ。[GeoGuessrのメモ](https://geopinning.space/)のソースコードと画像です。
+
+## 国と地域の判定メモ
+
+国と地域を当てるためのヒントをメモしたり、関連サイトへのリンクをまとめたりするページです。
+
+- [イギリス](https://geopinning.space/rule/europe/united-kingdom/)
+- [コロンビア](https://geopinning.space/rule/cs_america/colombia/)
+- [アメリカ](https://geopinning.space/rule/n_america/usa/)
+- [ポルトガル](https://geopinning.space/rule/europe/portugal/)
+
 ## リポジトリ内の画像について
 
 ナンバープレートは基本的にWikimediaより引用しています。各ページ上に表示されている出典を確認してください。
