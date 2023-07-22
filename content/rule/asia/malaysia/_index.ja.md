@@ -65,7 +65,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 
 
 {{% notice tip %}}
-マレーシアの石油及びガスの供給を行う大手国営企業ペトロナスが運営するペトロナス・ガス（Petronas Gas Bhd）があり看板に場所が書いてある{{% ref "https://www.petronas.com/pgb/" "PETRONAS Gas Berhad (PGB)" %}}。以下の例はLunduのガソリンスタンド。ペトロ🍆。
+マレーシアの石油及びガスの供給を行う大手国営企業ペトロナスが運営するペトロナス・ガス（Petronas Gas Bhd）があり看板に場所が書いてある{{% ref "https://www.petronas.com/pgb/" "PETRONAS Gas Berhad (PGB)" %}}。以下の例は{{% goto "https://goo.gl/maps/uwDiMQXYg3BihAjSA" "Lundu" %}}のガソリンスタンド。ペトロ🍆。
 {{% /notice %}}
 
 
