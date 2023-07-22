@@ -25,7 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.es</span></li>
         <li>イスラム教徒が本土よりも多く見える</li>
     </ul>
-    {{% rd africa ceuta mall %}}
+    {{% rd africa ceuta small %}}
     <div class="sign-area sign-area-clickable licence-area">
         <p>国旗画像：<a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3951546">リンク</a>より引用</p>
     </div>
