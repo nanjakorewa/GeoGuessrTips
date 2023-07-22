@@ -24,9 +24,10 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sm</span></li>
         <li>言語はイタリア語</li>
-        <li>ナンバープレートは前後についていて<span class="quiz">水</span>色に見える</li>
+        <li>ナンバープレートは前後についていて<span class="quiz">薄い水</span>色に見える</li>
         <li>サンマリノのシェブロンは<span class="quiz">赤で背景がオレンジ</span>だがイタリアは<span class="quiz">白で背景が黒</span></li>
-        <li class="no-evidence">青くて角が丸い線で囲われた通り名の看板が使われている</li>
+        <li>{{% goto "../italy/" "イタリア" %}}と同じ通り看板が使われていて、青くて角が丸い線で囲われている</li>
+        <li class="no-evidence">全体的に山がちできれいな直線の道路があまりない</li>
     </ul>
     {{% rd europe san-marino verysmall %}}
 </div>
@@ -35,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ナンバープレートは前後についていて<span class="quiz">水</span>色に見える
+ナンバープレートは前後についていて<span class="quiz">水</span>色に見える。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}などを一度考えてみる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683305747381!6m8!1m7!1sqLHEp9hIIZUfWX8n_9_raw!2m2!1d43.94710449247932!2d12.45571351902688!3f170.13147030316836!4f-12.825422101072931!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -47,7 +48,7 @@ By Seth Schoenderivative work: TheFlyingDutchman (talk) - San_Marino_license_pla
 {{% /lb %}}
 
 {{% notice tip %}}
-シェブロンの色がイタリアと異なる。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+シェブロンの色がイタリアと異なる（例<a href="https://goo.gl/maps/tjT4TpDZhg9ZEtY79">①</a>・<a href="https://goo.gl/maps/YgYyFGWcZ9VSxcSz6">②</a>）。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
