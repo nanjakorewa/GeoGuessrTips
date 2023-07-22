@@ -61,12 +61,11 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Road Junction Sign (Barcelona Province, Spain)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% notice tip %}}
-ポストのついでにボラードも黄色い。
+ポストのついでにボラードも黄色い（ズームした画像の例<a href="https://goo.gl/maps/RwKuScqsWDDdAGea8">①</a>・<a href="https://goo.gl/maps/PmCdvxhtwnVD9KNa7">②</a>）。この画像の「N-502」の看板のように、道端に赤や黄色の小さい看板があって道路番号が書かれていることも多い（例<a href="https://goo.gl/maps/YqHtFfZnWDhx5t18A">①</a>・<a href="https://goo.gl/maps/n4VXrPbKSobWS8NF9">②</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687397522343!6m8!1m7!1sJC4zYcUNcpoPG1zWObrpaA!2m2!1d39.40606734647674!2d-1.10423888633146!3f49.16700666596726!4f-23.187441516952347!5f2.9959483791944774" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687397449754!6m8!1m7!1sT8sD09rcDMwme1l4brV2OA!2m2!1d39.40463305513521!2d-1.103759764589018!3f188.85760436942286!4f-8.442252123183891!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/waltercallens/29821485954/in/photolist-MrdUNW-o4G3KM-tYuRGk-ZHJS8V-Di7pZL-Np4EDg-AaiK5G-MpZRkh-p9eFan-JDWTvM-pDvCp-21ZspSg-Fg9qfg-7tQJG4-bgq9oV-2cQFSV1-28uLL6-9KzzCA-doUqxR-U21R-22yQ9T-q2kPEA-aksFDz-4Pk5ud-nJyUAB-aV27jg-259AgWZ-G85ig-WP6yq2-9pHY7N-297fwga-228o5VZ-nui7nK-dEGwnS-25UeLFE-LjifRY-Jm8hzm-cddea-ZFN3m2-czthW3-EDKP1t-np9Uyh-mMqk35-azhYQH-dNuTYg-P6jriB-5CWYPr-NtWar4-QuHxnf-gRW1RT" title="spain - sierra de gredos"><img src="https://live.staticflickr.com/5562/29821485954_015d2748fb_z.jpg" width="640" height="427" alt="spain - sierra de gredos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
