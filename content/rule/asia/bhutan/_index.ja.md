@@ -61,6 +61,12 @@ By Cfynn - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/nagarjun/15662531378/" title="Valley houses"><img src="https://live.staticflickr.com/7575/15662531378_1cd88ca808_z.jpg" width="640" height="400" alt="Valley houses"/></a>
 </div>
 
+{{% notice tip %}}Google Carが<span class="quiz">灰</span>色。Google Carの縁が<span class="quiz">灰</span>色っぽい・周りが山がち・道路際に白色のブロックやボラードがあるとブータンっぽさがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690000575305!6m8!1m7!1sU14SHQl8JbREV-vGtQcc2A!2m2!1d27.53941853330359!2d90.17930204298476!3f316.1298778808055!4f-28.874410185283708!5f1.3356361664500493" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
