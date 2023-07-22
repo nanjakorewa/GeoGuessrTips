@@ -40,12 +40,12 @@ sc: [
 ナンバープレートは前後についていて<span class="quiz">水</span>色に見える。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}などを一度考えてみる。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683305747381!6m8!1m7!1sqLHEp9hIIZUfWX8n_9_raw!2m2!1d43.94710449247932!2d12.45571351902688!3f170.13147030316836!4f-12.825422101072931!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/152930510@N02/38349966675/in/photolist-21qRAZZ-L3NYZd-ZD49xD-fgTPqf-pRFwL4-RhdpRS-KuWNz3-QLJ6Kn-2aJ4bXn-YNYuRo-oJYPNr-XLTz9o-47Gqau-dhZWy6-2aA6icQ-P4TyGp-f4nMwX-27BwZVD-L5iLnL-YMnT3N-868XAx-M9Eq44-8LJyeU-23EQBwi-2aRqFCv-63hTnk-26mb5Ct-ix7cbC-21ebmNs-L8Mf6s-4LsVrD-2ak8QqD-71Qj3F-TDZXNY-2eyFrdn-RBqcme-M9P4me-29win7H-2d9ffJP-MYADyK-29PmMqU-NhsCzV-29uvRBr-apJcAg-KsU6bp-Lo9xvF-29PmNKC-21gddB7-21gdd7u-2es1LCz" title="VW Transporter San Marino plate"><img src="https://live.staticflickr.com/4732/38349966675_8dda328c21.jpg" width="500" height="375" alt="VW Transporter San Marino plate"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% lb 50 %}}
 ![](2023-05-06-01-53-39.png)
 
-By Seth Schoenderivative work: TheFlyingDutchman (talk) - San_Marino_license_plate.jpg, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
+By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
 {{% /lb %}}
 
 {{% notice tip %}}
