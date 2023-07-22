@@ -11,6 +11,7 @@ flag: "SM.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+flag_height: 500px;
 plonkit: true
 sc_title: "間違えやすいページ"
 sc_icon: rel
