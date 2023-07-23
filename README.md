@@ -5,12 +5,11 @@
 
 ## 国と地域の判定メモ
 
-国と地域を当てるためのヒントをメモしたり、関連サイトへのリンクをまとめたりするページです。
+国と地域を当てるためのヒントをメモしたり、関連サイトへのリンクをまとめたりするページです。以下はページ例です。
 
-- [イギリス](https://geopinning.space/rule/europe/united-kingdom/)
+- [スウェーデン](https://geopinning.space/rule/europe/finland/)
 - [コロンビア](https://geopinning.space/rule/cs_america/colombia/)
 - [アメリカ](https://geopinning.space/rule/n_america/usa/)
-- [ポルトガル](https://geopinning.space/rule/europe/portugal/)
 
 ## リポジトリ内の画像について
 
@@ -19,16 +18,17 @@
 
 **保存先のフォルダの例**
 
-- スウェーデンの標識：[content/rule/europe/sweden/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/europe/sweden/r)
-- 香港の標識：[content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
-- カナダの標識：[content/rule/n_america/canada/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/n_america/canada/r)
+- [スウェーデンの標識：content/rule/europe/sweden/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/europe/sweden/r)
+- [香港の標識：content/rule/asia/hongkong/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/asia/hongkong/r)
+- [カナダの標識：content/rule/n_america/canada/r](https://github.com/nanjakorewa/GeoGuessrTips/tree/main/content/rule/n_america/canada/r)
 
 ## コミット時の注意点
 
 - 標識の画像はパブリックドメイン・CC0・国ごとのライセンス的にokなものに限定する
   - ニュージーランド：[Sign specifications](https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/)
   - イギリス：[Open Government Licence v1.0](http://nationalarchives.gov.uk/doc/open-government-licence/version/1/)
-- ナンバープレートの画像を引用する場合は、出典を示す必要がないとしても、ライセンスと出典を示すこと（ライセンスを書き忘れたかどうかを判断するのが難しくなるため）。
+- ナンバープレートの画像を引用する場合は、**出典を示す必要がないとしても**ライセンスと出典を示すこと
+  - ライセンスを書き忘れたかどうかを後から判断するのが難しくなるため
 - Google Map・Street View
   - [Google マップ & Google Earth ガイドライン](https://www.google.com/intl/ja_ALL/permissions/geoguidelines/)
   - Googleストリートビューのスクリーンショットは使用しないこと
@@ -52,15 +52,13 @@ Pages to note down tips for guessing the country and to compile links to related
 - [Japan](https://geopinning.space/rule/asia/japan/)
 - [United Kingdom](https://geopinning.space/rule/europe/united-kingdom/)
 - [Colombia](https://geopinning.space/rule/cs_america/colombia/)
-- [United States](https://geopinning.space/rule/n_america/usa/)
-- [Portugal](https://geopinning.space/rule/europe/portugal/)
-
 
 ## Attention when committing
 
 - Images of signs must be in the public domain only.
   - Images of New Zealand signs are available from [Sign specifications](https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/).
-- When citing license plate images, indicate the license name and the source of the citation even if the source does not need to be indicated (because it will be difficult to determine whether I forgot to write license).
+- When citing license plate images, indicate the license name and the source of the citation even if the source does not need to be indicated.
+  - in order to determine whether I forgot to write license name.
 - Maps, Street View, Earth
   - [Google Maps & Google Earth Guidelines](https://www.google.com/intl/ja_ALL/permissions/geoguidelines/)
   - Do **NOT** use Google Street View screenshots
