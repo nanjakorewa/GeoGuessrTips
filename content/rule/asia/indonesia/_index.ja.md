@@ -197,3 +197,26 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li class="no-evidence">市外局番が見つかり一緒に地名も見つかることが多い
+            <ul>
+                <li>街中で見かける08XXは場所がわからない。番号を探すために全ての看板を見るのは止めた方が良いように思う。電話番号・地名がセットで見つかることが多いので地名を覚えた方がいいように思う。</li>
+                <li>0380：{{% goto "https://goo.gl/maps/uyBSVg1FvLe9E4qp9" "Kupang" %}}</li>
+                <li>0751：{{% goto "https://goo.gl/maps/GJ4K6EK44PCbv7o56" "Padang" %}}</li>
+                <li>{{% ref "https://en.m.wikipedia.org/wiki/Telephone_numbers_in_Indonesia" "Telephone numbers in Indonesia" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+
+<div class="googlemap-if unclickable">
+<img src="tlp.png" width="90%"/>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
