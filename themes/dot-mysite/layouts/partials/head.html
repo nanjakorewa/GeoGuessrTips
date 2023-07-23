@@ -172,6 +172,37 @@
 {{ "<!-- Clarity tracking code for https://geopinning.space/ -->" | safeHTML }}
 <script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "gpnb8ov9hi");</script>
 
+{{ if .Params.use_polish_font }}
+<link href="https://db.onlinewebfonts.com/c/0a8c122cb58b382103d4963a79da3c30?family=Drogowskaz" rel="stylesheet">
+
+<style>
+@font-face {
+    font-family: "Drogowskaz";
+    src: url("https://db.onlinewebfonts.com/t/0a8c122cb58b382103d4963a79da3c30.eot");
+    src: url("https://db.onlinewebfonts.com/t/0a8c122cb58b382103d4963a79da3c30.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/0a8c122cb58b382103d4963a79da3c30.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/0a8c122cb58b382103d4963a79da3c30.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/0a8c122cb58b382103d4963a79da3c30.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/0a8c122cb58b382103d4963a79da3c30.svg#Drogowskaz")format("svg");
+    unicode-range: U+0000-007F, U+0041-005A, U+0061-007A;
+}
+
+body {
+  font-family: "Drogowskaz";
+}
+
+.polish-font {
+  font-family: "Drogowskaz" !important;
+}
+
+button {
+  font-family: "Drogowskaz" !important;
+  font-size: 1.3em !important;
+}
+
+</style>
+{{ end }}
+
 {{ template "_internal/google_analytics.html" . }}
 
 <!-- Google tag (gtag.js) -->

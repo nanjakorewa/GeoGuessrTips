@@ -11,25 +11,26 @@ flag: "PL.svg"
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
+use_polish_font: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../romania/", "ルーマニア"],
-    ["../ukraine/", "ウクライナ"],
+    ["../romania/", "Romania"],
+    ["../ukraine/", "Ukraine"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.pl</span></li>
+        <li>ドメインは<span class="quiz polish-font">.pl</span></li>
         <li>反射板が<span class="quiz">赤</span>色のボラードがある</li>
-        <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多いが{{% goto "../romania/" "ルーマニア" %}}は<span class="quiz">空いている</span>ことが多い</li>
+        <li>電柱の一番下に穴が<span class="quiz">空いていない</span>ことが多い</li>
         <li>ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>{{% by "niwaisound" "twitch" %}}</li>
-        <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
-        <li>「<span class="quiz">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない。Ļ・ļならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}かも。</li>
+        <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span></li>
+        <li>「<span class="quiz polish-font">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない</li>
         <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}</li>
-        <li>ulicaはスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
-        <li class="no-evidence">標識の「t」のフォントの縦棒の両端が斜めになっている</li>
+        <li><span  class="polish-font">ulica</span>はスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
+        <li class="no-evidence">標識のフォントが特徴的</li>
     </ul>
     {{% rd europe poland verysmall %}}
 </div>
@@ -53,7 +54,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">ポーランド</span>・<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>が、ルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・<span class="quiz">トルコ</span>で使われることがある{{% by "https://www.plonkit.net/poland" "plonkit" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -72,12 +73,19 @@ sc: [
 
 
 {{% notice tip %}}
-「<span class="quiz">Ł・ł</span>」の文字がある。また「ｔ」のフォントも特徴的（これは確証なし）。
+「<span class="quiz polish-font">Ł・ł</span>」の文字がある。道路標識用にデザインされた専用のフォントを利用していて「<span class="polish-font">t</span>」の形が特徴的{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}。以下のフォント名はDrogowskaz。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./r/Znak_E-2c.svg" width="240px" style="margin-right:10px">
 <img src="./r/PL_road_sign_T-28.svg" width="260px" style="margin:13px">
+</div>
+
+<div class="googlemap-if">
+<span style="font-weight:bold; font-size:3em;">
+abcćdefghijklł<br/>
+mnoprstuwyzźż
+</span>
 </div>
 
 {{% notice tip %}}
@@ -133,10 +141,10 @@ POCZTA（ポスト、赤い）
 {{% tabs  %}}
 {{% tab "市外局番" %}}
 {{% notice tip %}}
-22●がワルシャワ付近だが正確に覚えるのは難しい。８を無視して数が大きいほど北西と覚えている。全体的に平坦な国で景色を見てもどのあたりか分からない気がするので、番号・地名・道路番号がわからなかったら真ん中に行くことが多い。地域が全然違った場合は携帯番号かどうか確認してみる{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}。
+22xがワルシャワ付近だが正確に覚えるのは難しい。8を無視して数が大きいほど北西と覚えている。全体的に平坦な国で景色を見てもどのあたりか分からない気がするので、番号・地名・道路番号がわからなかったら真ん中に行くことが多い。携帯に使われる番号も存在しているので7を見ただけで左下に行かないように注意{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p>By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p style="font-size:1.2em">By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -153,7 +161,7 @@ POCZTA（ポスト、赤い）
 {{% tab "看板" %}}
 
 {{% notice tip %}}
-「w」が英語での「in」の意味なのでｗのあとの名前を地図で探してみる
+「w」が英語での「in」の意味なのでwのあとの名前を地図で探してみる
 {{% /notice %}}
 
 <div class="googlemap-if">
