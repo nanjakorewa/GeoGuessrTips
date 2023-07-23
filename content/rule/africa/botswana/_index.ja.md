@@ -91,3 +91,21 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">気候にグラデーションがあり北部は熱帯気候・それ以外は内陸砂漠気候。北に行くほど針状でない草や背の高い植物が増えるように思う。</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "植物" %}}
+<ul class="rule-list">
+    <li>北部：<a href="https://goo.gl/maps/xDypw1pxj9FieAQx5">①</a>・<a href="https://goo.gl/maps/PTfy1xea9egS4CUv8">②</a></li>
+    <li>中央部：<a href="https://goo.gl/maps/oHTTa3eHKyZZjhTW6">①</a>・<a href="https://goo.gl/maps/oHTTa3eHKyZZjhTW6">②</a>・<a href="https://goo.gl/maps/W8gn45LvfnXzRnYJA">③</a></li>
+    <li>南部：<a href="https://goo.gl/maps/y4jftPwapCE9qg9L6">①</a>・<a href="https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6">③</a></li>
+</ul>
+{{% /tab %}}
+{{% /tabs %}}
