@@ -88,7 +88,6 @@ maps: [
 <img src="I-80.svg" width="120px" style="margin:10px">
 <img src="./route-example.svg" width="157px" style="margin:10px">
 </div>
-
 {{% /tabs %}}
 
 
@@ -108,6 +107,7 @@ maps: [
         </li>
     </ul>
     <h4 class="section-title">州を絞り込むヒント</h2>
+    <p>離島かどうかを判断した上で、ナンバープレート・州道の看板・山や植物の様子・土地が平坦かどうか・家の周りの雰囲気を見て場所を絞り込んでいく。地域がかなり絞り込めるヒントも州によっては存在する。</p>
     <ul class="rule-list">
         <li>① ナンバープレートが前についているかどうか・ナンバープレートの色で州を絞り込める<a href="https://docs.google.com/spreadsheets/d/1P7LRYb13phYIYWlu4KSXxTosMGV44tHFU_EgqQvEXVQ/edit#gid=0">[資料]</a>{{% by "rumilb" "twitch" %}}。前にあるかどうかだけはじめに覚える。
             <ul>
