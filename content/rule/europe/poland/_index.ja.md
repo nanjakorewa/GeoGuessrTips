@@ -14,8 +14,8 @@ dont_show_usda: true
 use_polish_font: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../romania/", "Romania"],
-    ["../ukraine/", "Ukraine"],
+    ["../romania/", "Rumunia"],
+    ["../ukraine/", "Ukraina"],
     ]
 ---
 

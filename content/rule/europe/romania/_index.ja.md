@@ -23,7 +23,7 @@ sc: [
         <li>公用語はルーマニア語で<span class="quiz">ラテン</span>文字を使用する</li>
         <li>電柱の一番下に穴が<span class="quiz">空いている</span>ことが多く<span class="quiz">黄</span>色のマーカーが付いていることがある{{% by %}}</li>
         <li>「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」はルーマニアとモルドバで使用される</li>
-        <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span>がルーマニアは角ばって<span class="quiz">いない</span></li>
+        <li>ルーマニアのガードレールは角ばって<span class="quiz">いない</span></li>
         <li>ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>の標識がある</li>
         <li class="no-evidence">家の前に何か箱があって黄色いパイプが伸びている</li>
         <li class="no-evidence"><span class="quiz">ひまわりの種</span>の生産が多く周辺のセルビア・ウクライナ・ブルガリア・ハンガリーもルーマニアに近いエリアでひまわりの畑が多い気がする{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
