@@ -37,11 +37,13 @@ sc: [
 
 
 {{% notice tip %}}
-こんな感じの細い草がたくさん生えている
+こんな感じの細い草がたくさん生えている（例<a href="https://goo.gl/maps/QDByu9vY3rrunwQt9">①</a>・<a href="https://goo.gl/maps/mYrQDMMd5k9Beikn9">②</a>）
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684566091199!6m8!1m7!1sTh8SCvZTHPRMcvdzkDdYzA!2m2!1d-27.20986729897808!2d31.54829060946855!3f128.54751234488702!4f-7.374941439116782!5f3.325193203789971" width="500" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><div class="unclickable"><img src="./road.png" /></div></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>
+Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
 </div>
 
 {{% notice tip %}}
