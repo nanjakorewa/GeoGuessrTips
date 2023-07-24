@@ -29,7 +29,7 @@ sc: [
         <li>ポーランドのガードレールは角ばって<span class="quiz">いる</span></li>
         <li>「<span class="quiz polish-font">Ł・ł</span>」の文字はポーランド以外ではほとんど見られない</li>
         <li>オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}</li>
-        <li><span  class="polish-font">ulica</span>はスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
+        <li><span  class="polish-font">Ulica</span>はスロバキア・スロベニア・セルビア・ポーランドで通りの意味</li>
         <li class="no-evidence">標識で使われるDrogowskazというフォントが特徴的</li>
     </ul>
     {{% rd europe poland verysmall %}}
