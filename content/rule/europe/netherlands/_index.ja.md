@@ -24,12 +24,12 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.nl</span></li>
-        <li>ナンバープレートは<span class="quiz">黄色</span>であり前後を見てこの色ならオランダの可能性が高い</li>
-        <li>国土の4分の1が海抜0m以下で最高地点も約333mしかない。平らで高い山が無い。</li>
-        <li>家が<span class="quiz">レンガ造り</span>のものが多く、最上階付近の壁に棒や突起物がある時も。</li>
-        <li>自転車を走る道路（Fietspad）が国中に整備されていて茶色っぽい路面か赤レンガで舗装されているケースが多い。</li>
-        <li class="no-evidence">ルクセンブルグと比べ平坦で、水路が多く、家が全体的に赤っぽく、自転車用の道路数が多いように思える{{% goto "../../../architecture/houses/europe-1/#オランダ" "家の見た目 > オランダ" %}}</li>
+        <li>ナンバープレートは<span class="quiz">黄色</span></li>
+        <li>平らで高い山が無い</li>
+        <li>家が<span class="quiz">レンガ造り</span>のものが多い</li>
+        <li><span class="quiz">自転車を走る道路</span>が国中に整備されていて茶色っぽい路面か赤レンガで舗装されている</li>
         <li>「weg」と付いた通り名が多い{{% ref "https://dictionary.cambridge.org/dictionary/dutch-english/weg" "weg - Cambridge Dictionary" %}}</li>
+        <li class="no-evidence">ルクセンブルグと比べ平坦で、水路が多く、家が全体的に赤っぽく、自転車用の道路数が多いように思える{{% goto "../../../architecture/houses/europe-1/#オランダ" "家の見た目 > オランダ" %}}</li>
     </ul>
     {{% rd europe netherlands verysmall %}}
 </div>
@@ -42,7 +42,7 @@ sc: [
 ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>であり前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679141332249!6m8!1m7!1sg1RdmgWjKbdxPkez_SYt5A!2m2!1d52.62806409963211!2d4.757430216332611!3f207.98249979502546!4f-33.31514269239735!5f2.925276879255313" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dutchemergencyphotos/32732231697/in/photolist-RSrf7n-qVcRkT-FdrLTs-21RtiJY-tSRwrc-kemB9G-Cv5Dyo-85G6Xy-N5MhcA-cs7wE9-2bC8Nt1-K3i2rX-sy3jtz-r3Fg6J-2dYvZos-27G1Lxr-ksxUUH-2a4VT68-myxfbK-2ekrdk3-27DuUBz-2e59tpA-ryy3jJ-22XiD7e-28UowUK-Rr9Z86-qHNvi4-pR9YQJ-qLzpsP-27mytXY-ZiKkNi-2b4AFhj-sS7vkV-LyWdes-26JJy1D-27rTY8Y-8zx2Vt-26AkxD9-MDCGew-NJ7uiT-27JPh1k-xzp6nQ-SKa5mV-do5aAm-Pn6T7x-VDjmt7-26eVQ4w-2a57PaS-KB17Zf-29y1p1d" title="Dutch police Volkswagen Touran"><img src="https://live.staticflickr.com/65535/32732231697_229e7e3b16_z.jpg" width="640" height="393" alt="Dutch police Volkswagen Touran"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -61,7 +61,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 </div>
 
 {{% notice tip %}}
-自転車を走る道路（Fietspad）が国中に整備されていている。写真の左側のレーンが自転車用の道路。また、ルクセンブルグと比べ平坦で水路が多い。
+自転車を走る道路（Fietspad）が国中に整備されていている。写真の左側のレーンが自転車用の道路。また、ルクセンブルグと比べ平坦で水路が多い。オランダは平らで高い山が無く、国土の4分の1が海抜0m以下で最高地点も約333mしかない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/meteorry/51314358579/" title="Nieuwe Gouw - Amsterdam (Netherlands)"><img src="https://live.staticflickr.com/65535/51314358579_a64b6d05a3_z.jpg" width="640" height="426" alt="Nieuwe Gouw - Amsterdam (Netherlands)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -108,6 +108,24 @@ SPARはアムステルダムに拠点がある小売業者（店自体はオラ�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>倉庫やコンテナを多く見かけるならアムステルダムかロッテルダムの近くの運河沿いに行ってみる</li>
         <li>カリブ海のオランダ領の島である{{% goto "../../cs_america/curacao/" "キュラソー島" %}}が出ることがある</li>
     </ul>
 </div>
+
+
+{{% tabs %}}
+{{% tab "倉庫" %}}
+{{% notice tip %}}
+アルミ製の壁でフラットな建造物は倉庫であることが多いので運河近くに行ってみる。日本企業の倉庫もいくつか見つかる{{%  ref "https://www.mol.co.jp/en/services/logistics/" "Mitsui O.S.K.Lines" %}}。画像は<a href="https://www.mol.co.jp/en/services/container/">MOL Logistics Netherlands</a>より引用。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690199782462!6m8!1m7!1sZXnBztr5Uzf0TAiV6Xj2_g!2m2!1d52.40373286074148!2d4.749969538076793!3f19.895877507970635!4f2.8884534735692853!5f0.7820865974627469" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="unclickable">
+<img src="mol.jpg" width="600px" />
+</div>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
