@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲まれていることがある（例<a href="https://goo.gl/maps/dQsU4LB5nK6ohVxEA">①</a>）。ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。またルーマニアと{{% goto "../macedonia/" "北マケドニア" %}}は標識の裏側が黒っぽい時が多いように思う（例<a href="https://goo.gl/maps/K73aTYQpJxKeq7s17">①</a>・<a href="https://goo.gl/maps/yzZQrPFvCboNYo1h9">②</a>・<a href="https://goo.gl/maps/pQJi43V1uycmSFWV9">③</a>）。
+ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。横断歩道の標識が黄色い線で囲まれていることがある（例<a href="https://goo.gl/maps/dQsU4LB5nK6ohVxEA">①</a>）。またルーマニアと{{% goto "../macedonia/" "北マケドニア" %}}は標識の裏側が黒っぽい時が多いように思う（例<a href="https://goo.gl/maps/K73aTYQpJxKeq7s17">①</a>・<a href="https://goo.gl/maps/yzZQrPFvCboNYo1h9">②</a>・<a href="https://goo.gl/maps/pQJi43V1uycmSFWV9">③</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
