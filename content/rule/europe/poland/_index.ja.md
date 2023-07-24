@@ -139,14 +139,21 @@ POCZTA（ポスト、赤い）
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>市外局番は気合で覚えられる...？<b>72</b>・45・88などマップに載っていないものは携帯に使われているので要注意。</li>
+        <li>市外局番は気合で覚えられる...？<b>72</b>・45・88などマップに載っていないものは携帯に使われているので要注意。たくさん見つかるわけではない。
+            <ul style="font-size:1.1em !important;margin-top:0.1em;">
+                <li>22x：{{% goto "https://goo.gl/maps/2gEuWpjCscZTgikg6" "Warszawa" %}}</li>
+                <li>71x：{{% goto "https://goo.gl/maps/YW4AuTFs3xFxrXtN9" "Wrocław" %}}</li>
+                <li>85x：{{% goto "https://goo.gl/maps/31QkU9HQFjbx5dAa9" "Białystok" %}}</li>
+                <li>91x：{{% goto "https://goo.gl/maps/YgXSH5vpicCVJ3scA" "Szczecin" %}}</a></li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "市外局番" %}}
 {{% notice tip %}}
-22xがワルシャワ付近。8を無視して数が大きいほど北西と覚えている。全体的に平坦な国で景色を見てもどのあたりか分からない気がするので、道路番号・地名・市外局番がわからなかったら、個人的にはとりあえず真ん中に行くことが多い。携帯に使われる番号も存在しているので7を見ただけで左下に行かないように注意{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}。
+22xがWarszawa付近。8を無視して数が大きいほど北西と覚えている。全体的に平坦な国で景色を見てもどのあたりか分からない気がするので、道路番号・地名・市外局番がわからなかったら、個人的にはとりあえず真ん中に行くことが多い。携帯に使われる番号も存在しているので先頭の数字だけで地域を決めないように注意{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p style="font-size:1.2em">By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
