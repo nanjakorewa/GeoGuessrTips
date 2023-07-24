@@ -107,6 +107,14 @@ mnoprstuwyzźż
 {{% tab "w-building" %}}
 
 {{% notice tip %}}
+教会、マップ上に表示されるので位置を探す時に役立つ時がある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680102862400!6m8!1m7!1sklY3ICnwX3cheAJbtnhG1A!2m2!1d50.45448291473033!2d18.52204277933721!3f124.85585522795998!4f8.349946974971147!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680187365795!6m8!1m7!1sEVIqENdNb5Zn_d0gD4PNqw!2m2!1d50.97323346407659!2d19.04866347685575!3f1.5789591040383952!4f-7.203666982772006!5f1.779262730331714" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
 POCZTA（ポスト、赤い）
 {{% /notice %}}
 <div class="googlemap-if">
@@ -114,15 +122,12 @@ POCZTA（ポスト、赤い）
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681293618548!6m8!1m7!1ss1s-jYporQe-z_x2KH86wQ!2m2!1d52.65296801196689!2d23.4344196340504!3f11.65144715718616!4f-11.157963904786698!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-教会、マップ上に表示されるので位置を探す時に役立つ時がある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680102862400!6m8!1m7!1sklY3ICnwX3cheAJbtnhG1A!2m2!1d50.45448291473033!2d18.52204277933721!3f124.85585522795998!4f8.349946974971147!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680187365795!6m8!1m7!1sEVIqENdNb5Zn_d0gD4PNqw!2m2!1d50.97323346407659!2d19.04866347685575!3f1.5789591040383952!4f-7.203666982772006!5f1.779262730331714" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
+
+{{% notice tip %}}
+赤いボラード
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679572981868!6m8!1m7!1sMACRIDM__EFGk5qNWIk65w!2m2!1d54.03095876476053!2d21.67112053832691!3f223.8432749865922!4f-13.592109168118768!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681292910021!6m8!1m7!1slw6hjshIioZ5JieekP0UTw!2m2!1d50.4543722305596!2d18.52206990031654!3f110.72667255028875!4f-9.010097359194944!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
