@@ -45,7 +45,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。ただし数が少ないというだけでオレンジ背景の看板を使う可能性はゼロではないので参考程度に。
+看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。ただし他の国でもたまにオレンジ背景の看板はある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
