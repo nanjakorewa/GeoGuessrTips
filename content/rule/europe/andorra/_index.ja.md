@@ -57,11 +57,10 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
-上が赤いスノーポールと思われる棒が道沿いに並んでいることがある。
+上が赤いスノーポールと思われる棒が道沿いに並んでいることがある（例<a href="https://goo.gl/maps/huZ9YVp5iVenzPF7A">①</a>・<a href="https://goo.gl/maps/xewVBquNDc6utbbZ8">②</a>）。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682728113889!6m8!1m7!1s7WLj4-jayJXhapmxHv6v4g!2m2!1d42.55142990357371!2d1.69555676370839!3f108.63773427036575!4f0.05181551999385192!5f3.092724019543342" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682728167712!6m8!1m7!1ssploRULJx7wdbQjV4PHIfQ!2m2!1d42.53724880624625!2d1.482400077206912!3f238.81965791421123!4f-7.334172044997871!5f3.0932692594735425" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/azariel_de_lunivers/44442988031/" title="Road and cows."><img src="https://live.staticflickr.com/1844/44442988031_40d6508556_z.jpg" width="640" height="427" alt="Road and cows."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
