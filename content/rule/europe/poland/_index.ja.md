@@ -140,7 +140,7 @@ POCZTA（ポスト、赤い）
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番は気合で覚えられる...？<b>72</b>・45・88などマップに載っていないものは携帯に使われているので要注意。たくさん見つかるわけではない。
-            <ul style="font-size:1.1em !important;margin-top:0.1em;">
+            <ul style="font-size:1.05em !important;margin-top:0.1em;">
                 <li>22x：{{% goto "https://goo.gl/maps/2gEuWpjCscZTgikg6" "Warszawa" %}}</li>
                 <li>71x：{{% goto "https://goo.gl/maps/YW4AuTFs3xFxrXtN9" "Wrocław" %}}</li>
                 <li>85x：{{% goto "https://goo.gl/maps/31QkU9HQFjbx5dAa9" "Białystok" %}}</li>
