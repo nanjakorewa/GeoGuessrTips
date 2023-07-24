@@ -49,7 +49,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>だがこれだけを見てイタリア確定とはならない。
+ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if">
