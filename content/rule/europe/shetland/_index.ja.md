@@ -33,7 +33,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-低木も含め木が存在しない。本土側のスコットランドのようにPassing placeの看板が散見される。
+低木も含め木が存在しない。本土側のスコットランドのようにPassing placeの看板が散見される。{{% goto "https://goo.gl/maps/KoisKnBkeSPZSgL77" "ここ" %}}のように岩肌がたくさん見える感じならば本土側に行っていいと思う。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/flambard/26650992864/" title="Shetland"><img src="https://live.staticflickr.com/7303/26650992864_2b9ec21988_z.jpg" width="640" height="428" alt="Shetland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
