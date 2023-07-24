@@ -89,6 +89,16 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 <img src="./utylity-pole.png" width="70%" alt="フランスの電柱">
 </div>
 
+
+{{% notice tip %}}
+通り名の看板が建物の壁に貼ってあることがあり、「<span class="quiz">Rue</span>」と書かれている。他言語のプレートが並んでいることもある。以下は<a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Toulouse市</a>の看板。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-07-24-12-29-20.png" width="320px"/>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -127,7 +137,8 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
     <ul class="rule-list">
         <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
-                <li>`02 9x`は半島部 (by ギガバイトさん@コメ欄)</li>
+                <li>『<span class="quiz">02 9x</span>』は半島部 (by ギガバイトさん@コメ欄)</li>
+                <li>『04 95』は離島だが、そこまで都会ではないので電話番号を見つけるのは難しいかも</li>
             </ul>
         </li>
         <li>ドイツ語が混ざっていたら県境の近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
