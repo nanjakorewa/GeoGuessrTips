@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白やオレンジの反射板のボラードと２つの地名が書かれた看板がある（例<a href="https://goo.gl/maps/3Pos6NyBRkgZdVoK8">①</a>・<a href="https://goo.gl/maps/5K2XdQHcvzZEEnXy5">②</a>）。
+白やオレンジの反射板のボラードと２つの地名が書かれた看板がある（例<a href="https://goo.gl/maps/3Pos6NyBRkgZdVoK8">①</a>・<a href="https://goo.gl/maps/5K2XdQHcvzZEEnXy5">②</a>・<a href="https://goo.gl/maps/KqKs9U1df8EnXm7E8">③</a>）。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
