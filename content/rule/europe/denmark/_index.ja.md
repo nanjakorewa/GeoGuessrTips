@@ -12,6 +12,7 @@ jetro_detail: true
 jogmec_detail: true
 plonkit: true
 dont_show_usda: true
+flag_height: 500px;
 is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
@@ -62,14 +63,18 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687243145363!6m8!1m7!1s75soIt96ZVDBqEJanm4L8A!2m2!1d55.79755335445569!2d12.48826550699288!3f127.54765328126601!4f-16.294961800278315!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{{% notice tip %}}
+ナンバープレートは黄色も存在するので{{% goto "../netherlands/" "オランダ" %}}と間違えないように注意。
+{{% /notice %}}
 
 {{% lb 50 %}}
 ![](2023-04-12-06-08-23.png)
 
-heb@Wikimedia Commons (mail) - 投稿者自身による著作物, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=8391465">Wikimedia Commons</a>による
+public domain, <a href="https://commons.wikimedia.org/w/index.php?curid=8391465">Wikimedia Commons</a>による
+
+![](DK_van_plate_1976.svg)
+
+public domain
 {{% /lb %}}
 {{% /tab %}}
 {{% tab "w-road" %}}

@@ -11,6 +11,7 @@ flag: "NL.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../belgium/", "ベルギー"],
@@ -38,7 +39,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>であり前後を見てこの色ならオランダになる
+ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>であり前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679141332249!6m8!1m7!1sg1RdmgWjKbdxPkez_SYt5A!2m2!1d52.62806409963211!2d4.757430216332611!3f207.98249979502546!4f-33.31514269239735!5f2.925276879255313" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
