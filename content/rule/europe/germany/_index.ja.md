@@ -20,12 +20,12 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.de</span></li>
-        <li>四角いモザイクが多い{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">Einbahnstraße</span>は一方通行の標識</li>
         <li>ドイツ語はエスツェット「<span class="quiz">ß</span>」を文字として使う</li>
-        <li>ドイツは第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
+        <li><span class="quiz">白</span>や<span class="quiz">オレンジ</span>の反射板のボラードがある</li>
         <li>バスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある</li>
         <li>有限会社という意味の『GmbH』が看板に書かれているときがある</li>
+        <li>四角いモザイクが多く第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
     </ul>
     {{% rd europe germany verysmall %}}
 </div>
@@ -33,12 +33,6 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}
-ドイツではストリートビューの導入が進んでおらず、モザイクがかかった建物が多い{{% ref "https://bigthink.com/strange-maps/germany-street-view/" "FEBRUARY 11, 2022 - Why Germany is a blank spot on Google’s Street View" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687475334816!6m8!1m7!1sIt4SAoSy_oXuXPb6wP29wQ!2m2!1d48.14951863838093!2d11.56125745379438!3f145.03604721959022!4f16.955834646279712!5f0.7820865974627469" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
 エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ。
@@ -49,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある。
+ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある（例<a href="https://goo.gl/maps/ZF1BE14mpH7cxhbr6">①</a>・<a href="https://goo.gl/maps/1eFfB8kZFr7w65Jy7">②</a>）。
 横長の看板にバス停の名前が書かれていることもある。
 {{% /notice %}}
 
@@ -60,6 +54,16 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="./r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px">
 <img src="./r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+白やオレンジの反射板のボラードと２つの地名が書かれた看板がある（例<a href="https://goo.gl/maps/3Pos6NyBRkgZdVoK8">①</a>・<a href="https://goo.gl/maps/5K2XdQHcvzZEEnXy5">②</a>）。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./bollard.png" width="150px">
+<img src="./bollard2.png" width="150px">
+<img src="./r/route-sign.svg" width="200px" style="margin:30px">
 </div>
 
 {{% notice tip %}}

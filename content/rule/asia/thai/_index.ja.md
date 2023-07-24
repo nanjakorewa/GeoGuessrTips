@@ -152,6 +152,13 @@ Public Domain
 {{% notice tip %}}
 田んぼはカンボジア・ラオスのある方向に多い
 {{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690214603213!6m8!1m7!1scjU-7iTKb1mcFGFejuRbsg!2m2!1d14.47294410737073!2d103.9361488515747!3f77.1541714660306!4f-6.558555970551055!5f0.4000000000000002" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+
 {{% /tab %}}
 {{% tab "土壌" %}}
 {{% notice tip %}}
