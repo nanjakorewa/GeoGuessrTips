@@ -71,3 +71,27 @@ sc: [
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>一応市外局番で地域が分かることがあるらしい
+            <ul>
+                <li>030：{{% goto "https://goo.gl/maps/Bc3AgoBwfVqxFiAX9" "アクラ" map %}}</li>
+                <li>031：{{% goto "https://goo.gl/maps/6hbLhfo6vwKkwpBN7" "セコンディ・タコラディ" map %}}</li>
+                <li>032：{{% goto "https://goo.gl/maps/k9MbbESbqpcmh8A76" "クマシ" map %}}</li>
+                <li>037：{{% goto "https://goo.gl/maps/AQjBPcq9p8Dp1UHK8" "タマレ" map %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if unclickable">
+<img src="./ghana_regional_phone_codes.jpg" alt="ガーナの市外局番" width="70%" />
+</div>
+{{% notice tip %}}
+覚えるに越したことはないけれど街中以外では見つからない可能性が高い上に携帯が多いので、都市名と地域ごとの植生や雰囲気を覚えることを優先した方がいいように思う。たまたまFAXの番号を見かけたら参考にしてみる。
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}
