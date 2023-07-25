@@ -52,7 +52,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない
+ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない。{{% goto "../germany/" "ドイツ" %}}のボラードと見た目が似ているので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -89,6 +89,26 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681215101775!6m8!1m7!1sxkEiQnUK0bi3YJhH9UuwhA!2m2!1d49.80313831396025!2d5.930719732202099!3f155.74313819335805!4f-4.212427024882885!5f1.7041012638308328" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679851824764!6m8!1m7!1sfUEPtWKYMUxEiFnzRBTkHQ!2m2!1d49.80549947226078!2d5.932658346598799!3f28.037884318494097!4f-20.581478578256963!5f3.137841119237799" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">道端のブロックやボラードにCR～と書いてあるならばマップの黄色い番号の道路を見てみる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "道路番号" %}}
+
+{{% notice tip %}}
+道端のブロックやボラードにCR～と書いてあるならばマップの黄色い番号の道路を見てみる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Luxembourg_road_sign_E,21dc_(CR225).jpg#/media/File:Luxembourg_road_sign_E,21dc_(CR225).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_E%2C21dc_%28CR225%29.jpg" alt="Luxembourg road sign E,21dc (CR225).jpg" height="720" width="650"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GilPe" title="User:GilPe">GilPe</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89262230">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
