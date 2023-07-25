@@ -22,6 +22,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.uy</span></li>
         <li>言語は<span class="quiz">スペイン</span>語</li>
+        <li>ナンバープレートは<span class="quiz">白</span>色</li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
         <li>国全域がパンパと呼ばれる草原地帯におおわれていて牛や羊の牧畜が行われている</li>
         <li>Google Carが<span class="quiz">黒</span>色なのは南米ではウルグアイの他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../peru/" "ペルー" %}}がありえる{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
@@ -50,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ウルグアイの国営企業ANCAPが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}。ウルグアイは石油を輸入している国で、石油産業のほとんどは国営のANCAPが管理している。
+ウルグアイの国営企業ANCAPが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}。ウルグアイは石油を輸入している国で、石油産業のほとんどは国営のANCAPが管理している。また車のナンバープレートが<span class="quiz">白</span>色に近い点が{{% goto "../argentina/" "アルゼンチン" %}}と異なる。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -58,6 +59,12 @@ sc: [
 <img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
 </div>
 </div>
+
+{{% lb 50 small %}}
+![](2023-07-25-23-44-23.png)
+
+By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wikipedia:User:Qqqqqq">Qqqqqq</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12766727">Link</a>
+{{% /lb %}}
 
 {{% notice tip %}}
 🐑...！
