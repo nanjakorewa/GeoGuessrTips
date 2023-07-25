@@ -22,10 +22,11 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pt</span></li>
         <li>後ろのナンバープレートは<span class="quiz">右側が黄色</span></li>
-        <li>電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
-        <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
+        <li>電柱に<span class="quiz">仕切り</span>があり<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
         <li><span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の矢印のシェブロンがある</li>
         <li>ポルトガル語は「Ã・ã」の文字が特徴的で南米では{{% goto "../../cs_america/brazil/" "ブラジル" %}}で使用される</li>
+        <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
+        <li class="no-evidence">石畳の道が都心部以外にも存在する</li>
     </ul>
     {{% rd europe portugal small %}}
 </div>
@@ -53,10 +54,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ。ほかはアイスランド・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}</span>・{{% goto "../norway/" "ノルウェー" %}}・<span class="quiz">{{% goto "../finland/" "フィンランド" %}}</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ（{{% goto "https://goo.gl/maps/Bnh3aPP8joznfXTb9" "1" ex %}}）。ほかはアイスランド・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}</span>・{{% goto "../norway/" "ノルウェー" %}}・<span class="quiz">{{% goto "../finland/" "フィンランド" %}}</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+古い石畳の道があったり歩道が石畳だったりする（{{% goto "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "1" ex%}}{{% goto "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" ex %}}{{% goto "https://goo.gl/maps/ncWNxF3cF7evXUNW8" "3" ex %}}）。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sizun_eye/29113284957/in/photolist-LmDcjV-2ikbkHB-2kR1Thm-2na14J1-2meKp1f-DiToFK-2acCiAb-22d8v17-TsMJ1V-L8sKt-2g5yR4B-2ikdPaV-dtADFE-L8dnU-TB2ciQ-2ip8Z33-2opZAtD-LLUWPB-2kfGidD-CrZ36H-2kssHgv-2m8TQAy-fc792E-JKi2hx-2d4VhHN-L8diQ-Myge4-2m6iXc-2maEkY-Tqmj9u-RjqNFA-2kvKxeu-2ns4nhN-2m6iKZ-2o5xhR4-L8dty-vd2wGk-2d5JtsG-L8dos-5Lh2Rt-2knQgpr-L8daY-L8sQD-2nBA2nu-VAU7qB-9VbNoH-L8ddE-2nD53z4-L8dc1-2kpGGJ2" title="Old street"><img src="https://live.staticflickr.com/1811/29113284957_57b7ae31bd_z.jpg" width="640" height="440" alt="Old street"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
