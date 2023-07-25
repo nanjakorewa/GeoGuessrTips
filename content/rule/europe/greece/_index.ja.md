@@ -105,15 +105,27 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>2から始まる市外局番が書いてあるならば場所を絞り込める</li>
-        <li>トルコの近くの離島も<span class="quiz">ぎりぎりギリシャ領</span></li>
+        <li>2から始まる市外局番が書いてあるならば場所を絞り込める
+            <ul>
+                <li><span class="quiz">21</span>：{{% goto "https://goo.gl/maps/neMQxf2D9KDjXG1N8" "アテネ（Αθήνα）" %}}</li>
+                <li><span class="quiz">23</span>：{{% goto "https://goo.gl/maps/wJchBWm331VJ6Rzr7" "テッサロニキ（Θεσσαλονίκη）" %}}</li>
+                <li><span class="quiz">26</span>：{{% goto "https://goo.gl/maps/ZnqoTq8fSezAjGrJ9" "ケルキラ（Κέρκυρα）" %}}</li>
+                <li><span class="quiz">28</span>：{{% goto "https://goo.gl/maps/BiNMK4GZz6K6Fw616" "クリティ（Κρήτη）島" %}}</li>
+            </ul>
+        </li>
+        <li>トルコの近くの離島もぎりぎり<span class="quiz">ギリシャ</span>領</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "市外局番" %}}
+
+{{% notice tip %}}
+ほぼ班時計周り。<span class="quiz">28</span>なら離島へ行ってみる。・
+{{% /notice %}}
+
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Greek_landline_area_codes_map.png#/media/File:Greek_landline_area_codes_map.png"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Greek_landline_area_codes_map.png/1200px-Greek_landline_area_codes_map.png" alt="Greek landline area codes map.png"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Greek_landline_area_codes_map.png#/media/File:Greek_landline_area_codes_map.png"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Greek_landline_area_codes_map.png/1200px-Greek_landline_area_codes_map.png" alt="ギリシャの市外局番"></a></p>
 <p>By <a href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7%CF%82:244wiki" class="extiw" title="el:Χρήστης:244wiki">244wiki</a> - <span class="int-own-work" lang="en">Own work</span>, Attribution, <a href="https://commons.wikimedia.org/w/index.php?curid=93910931">Link</a>（<a href="https://de.m.wikipedia.org/wiki/Datei:Greek_landline_area_codes_map.png">ライセンスの詳細</a>）</p>
 </div>
 {{% /tab %}}
