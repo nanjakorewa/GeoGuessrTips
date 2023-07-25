@@ -1,2 +1,9 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
+{{ if eq (.Get 2) "map" -}}
+<a href="{{ .Get 0 }}" class="link-text link-color">{{ .Get 1 }}<i class="fas fa-map-marked-alt i-enlarge"></i></a>
+{{ else if eq (.Get 2) "ex" -}}
+<a href="{{ .Get 0 }}" class="link-text link-color"><i class="fas fa-map-marked-alt i-ensmall"></i></a>
+{{- else -}}
 <i class="fas fa-map-signs"></i><a href="{{ .Get 0 }}" class="link-text link-color">{{ .Get 1 }}</a>
+{{- end -}}
+

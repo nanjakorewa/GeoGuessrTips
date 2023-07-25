@@ -133,11 +133,11 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
     <ul class="rule-list">
         <li>街中ならば市外局番から地域が分かることがある。「0XX」のフォーマット。
             <ul>
-                <li>01x：{{% goto "https://goo.gl/maps/i3Nyem6V6EjqYRqh9" "Zagreb" %}}, 見つけるのは難しい</li>
+                <li>01x：{{% goto "https://goo.gl/maps/i3Nyem6V6EjqYRqh9" "Zagreb" map %}}, 見つけるのは難しい</li>
                 <li>020：Dubrovnik, 見つけられなかった</li>
-                <li>021：{{% goto "https://goo.gl/maps/CCt8pwdTgwfgWkqAA" "Split" %}}</li>
-                <li>023：{{% goto "https://goo.gl/maps/u7T7EiN1DYRfWziX9" "Zadar" %}}</li>
-                <li>051：{{% goto "https://goo.gl/maps/VZ8V5GAc5m7YsewKA" "Rijeka" %}}</li>
+                <li>021：{{% goto "https://goo.gl/maps/CCt8pwdTgwfgWkqAA" "Split" map %}}</li>
+                <li>023：{{% goto "https://goo.gl/maps/u7T7EiN1DYRfWziX9" "Zadar" map %}}</li>
+                <li>051：{{% goto "https://goo.gl/maps/VZ8V5GAc5m7YsewKA" "Rijeka" map %}}</li>
             </ul>
         </li>
     </ul>

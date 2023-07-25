@@ -102,7 +102,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">地域ごとに建物が違う{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
+        <li>地域ごとに建物が違う{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
         <li>{{% goto "https://www.plonkit.net/indonesia" "plonkitのインドネシアのページ" %}}が詳しいのでこれを見る</li>
     </ul>
 </div>
@@ -168,7 +168,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 </div>
 
 {{% notice tip %}}
-確率的にはジャワ島（50％超）だが全域に見られる。
+確率的にはジャワ島（50％超）だが全域に見られる。田んぼが広がっているならばジャワ島の中央から東よりの平坦な部分かスラウェシ島の南を考えてみる？
 {{% /notice %}}
 
 {{% /tab %}}
@@ -205,12 +205,12 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
                 <li>街中で見かける08XXは場所がわからない。番号を探すために全ての看板を見るのは止めた方が良いように思う。電話番号・地名がセットで見つかることが多いので地名を覚えた方がいいように思う。</li>
                 <li>08は無視してジャカルタをスタートとして反時計回りに増える感じで覚えている</li>
                 <li><b>03x：東ジャワ</b></li>
-                <li style="margin-left:1em;">031x：{{% goto "https://goo.gl/maps/Wcg6zh1Exxy8ibg9A" "Surabaya" %}}</li>
+                <li style="margin-left:1em;">031x：{{% goto "https://goo.gl/maps/Wcg6zh1Exxy8ibg9A" "Surabaya" map %}}</li>
                 <li><b>036x：バリ島</b></li>
-                <li style="margin-left:1em;">0361：{{% goto "https://goo.gl/maps/7hSeoTe9KvBojq648" "Denpasar" %}}</li>
-                <li style="margin-left:1em;">0380：{{% goto "https://goo.gl/maps/uyBSVg1FvLe9E4qp9" "Kupang" %}}</li>
+                <li style="margin-left:1em;">0361：{{% goto "https://goo.gl/maps/7hSeoTe9KvBojq648" "Denpasar" map %}}</li>
+                <li style="margin-left:1em;">0380：{{% goto "https://goo.gl/maps/uyBSVg1FvLe9E4qp9" "Kupang" map %}}</li>
                 <li><b>07x：南スマトラ</b></li>
-                <li style="margin-left:1em;">0751：{{% goto "https://goo.gl/maps/GJ4K6EK44PCbv7o56" "Padang" %}}</li>
+                <li style="margin-left:1em;">0751：{{% goto "https://goo.gl/maps/GJ4K6EK44PCbv7o56" "Padang" map %}}</li>
                 <li>{{% ref "https://en.m.wikipedia.org/wiki/Telephone_numbers_in_Indonesia" "Telephone numbers in Indonesia" %}}</li>
             </ul>
         </li>

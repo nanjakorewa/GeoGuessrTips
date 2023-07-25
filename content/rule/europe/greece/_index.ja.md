@@ -20,8 +20,8 @@ sc: [
     <ul class="rule-list">
         <li>ギリシャ文字がある</li>
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}</li>
-        <li>警告看板がオレンジ背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
-        <li>電柱が木でできていることが多い</li>
+        <li>警告看板が<span class="quiz">オレンジ</span>背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
+        <li>電柱が<span class="quiz">木</span>でできていることが多い</li>
     </ul>
     {{% rd europe greece small %}}
 </div>
@@ -55,7 +55,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-矢印はアルバニアと同じく黒背景に白矢印が多く（例<a href="https://goo.gl/maps/GSDxZX4vo9HZRHRE8">①</a>）赤白のものもある（例<a href="https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7">①</a>・<a href="https://goo.gl/maps/md7cEoNdNBSKD13S7">②</a>）。
+矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く（例<a href="https://goo.gl/maps/GSDxZX4vo9HZRHRE8">①</a>）赤白のものもある（例<a href="https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7">①</a>・<a href="https://goo.gl/maps/md7cEoNdNBSKD13S7">②</a>）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
@@ -107,10 +107,10 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <ul class="rule-list">
         <li>2から始まる市外局番が書いてあるならば場所を絞り込める
             <ul>
-                <li><span class="quiz">21</span>：{{% goto "https://goo.gl/maps/neMQxf2D9KDjXG1N8" "アテネ（Αθήνα）" %}}</li>
-                <li><span class="quiz">23</span>：{{% goto "https://goo.gl/maps/wJchBWm331VJ6Rzr7" "テッサロニキ（Θεσσαλονίκη）" %}}</li>
-                <li><span class="quiz">26</span>：{{% goto "https://goo.gl/maps/ZnqoTq8fSezAjGrJ9" "ケルキラ（Κέρκυρα）" %}}</li>
-                <li><span class="quiz">28</span>：{{% goto "https://goo.gl/maps/BiNMK4GZz6K6Fw616" "クリティ（Κρήτη）島" %}}</li>
+                <li><span class="quiz">21</span>：{{% goto "https://goo.gl/maps/neMQxf2D9KDjXG1N8" "アテネ(Αθήνα)" map %}}</li>
+                <li><span class="quiz">23</span>：{{% goto "https://goo.gl/maps/wJchBWm331VJ6Rzr7" "テッサロニキ(Θεσσαλονίκη)" map %}}</li>
+                <li><span class="quiz">26</span>：{{% goto "https://goo.gl/maps/ZnqoTq8fSezAjGrJ9" "ケルキラ(Κέρκυρα)" map %}}</li>
+                <li><span class="quiz">28</span>：{{% goto "https://goo.gl/maps/x2o2UyxK7xiTuDfA9" "クリティ(Κρήτη)島" map %}}</li>
             </ul>
         </li>
         <li>トルコの近くの離島もぎりぎり<span class="quiz">ギリシャ</span>領</li>
