@@ -121,7 +121,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% tab "市外局番" %}}
 
 {{% notice tip %}}
-ほぼ班時計周り。<span class="quiz">28</span>なら離島へ行ってみる。・
+ほぼ反時計周り。<span class="quiz">28</span>なら離島へ行ってみる。・
 {{% /notice %}}
 
 <div class="googlemap-if">
