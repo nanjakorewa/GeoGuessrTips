@@ -29,7 +29,7 @@ sc: [
                 <li>「Ž・ž」「Č・č」「Š・š」の文字はクロアチア・チェコ・スロバキア・スロベニア・バルト三国に見られて上にハーチェクやキャロンと呼ばれるｖのような形が付いているのが特徴的</li>
             </ul>
         </li>
-        <li><span class="quiz">青</span>色の消火栓 {{% by %}}を見かける</li>
+        <li><span class="quiz">青</span>色の消火栓を見かける{{% by %}}</li>
         <li><span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーン{{% ref "https://en.wikipedia.org/wiki/Konzum" "Wikipedia - Konzum" %}}</li>
         <li>赤い反射板で角張った細い溝のガードレールを使うのはクロアチア・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・ポーランド</li>
         <li>クロアチアの横断歩道の標識は５本線でベルトが<span class="quiz">ついている</span></li>
@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓 {{% by %}}がある。
+道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある（例<a href="https://goo.gl/maps/eYjfXEc6J9LdLNzQ9">①</a>・<a href="https://goo.gl/maps/4bZdWCQskrcwxcjZ7">②</a>） {{% by %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
@@ -86,13 +86,6 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a>
 </div>
 
-{{% notice tip %}}
-クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする。電球のポールにも貼ってあることがある。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./danger.png" width="200px" style="margin:40px">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687420541262!6m8!1m7!1sRyu6joCRwmzAD3KGWEXAng!2m2!1d45.1776553685094!2d18.02067469498351!3f267.7560786542673!4f-11.752237957176746!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 
 {{% notice tip %}}
@@ -104,6 +97,13 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 <img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
 
+{{% notice tip %}}
+クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする（例<a href="https://goo.gl/maps/Pg3Mp4mHMZPCboZ89">①</a>・<a href="https://goo.gl/maps/KwSMnjmejChxYidG7">②</a>・<a href="https://goo.gl/maps/9XZ7cu3oHN1ajyy58">③</a>・<a href="https://goo.gl/maps/z38EvsekK8QiSMs19">④</a>・<a href="https://goo.gl/maps/h6QDFvwjY4gWgKBL9">⑤</a>）。電球のポールにも貼ってあることがある。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./danger.png" width="200px" style="margin:40px">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1687420541262!6m8!1m7!1sRyu6joCRwmzAD3KGWEXAng!2m2!1d45.1776553685094!2d18.02067469498351!3f267.7560786542673!4f-11.752237957176746!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -123,6 +123,35 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 {{% tab "🍄" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681258464332!6m8!1m7!1sAw8lcQqLTGYHVMAEKqb2Gw!2m2!1d45.30784246950383!2d18.42113629874204!3f34.46953077869004!4f-14.946028716990526!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>街中ならば市外局番から地域が分かることがある。「0XX」のフォーマット。
+            <ul>
+                <li>01x：{{% goto "https://goo.gl/maps/i3Nyem6V6EjqYRqh9" "Zagreb" %}}, 見つけるのは難しい</li>
+                <li>020：Dubrovnik, 見つけられなかった</li>
+                <li>021：{{% goto "https://goo.gl/maps/CCt8pwdTgwfgWkqAA" "Split" %}}</li>
+                <li>022：</li>
+                <li>023：{{% goto "https://goo.gl/maps/u7T7EiN1DYRfWziX9" "Zadar" %}}</li>
+                <li>051：{{% goto "https://goo.gl/maps/VZ8V5GAc5m7YsewKA" "Rijeka" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "市外局番" %}}
+{{% notice note %}}
+街中を歩いてみた体感として地名を見る回数の方がずっと多いかも。
+{{% /notice %}}
+<div class="googlemap-if">
+<p><div class="unclickable"><img src="areacode.png" /></div></p>
+<p>出典：<a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom - Međunarodni promet</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
