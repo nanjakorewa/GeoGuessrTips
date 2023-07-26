@@ -35,7 +35,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調なものが多い、黄色いボラードもあるが側面は<span class="quiz">白色</span>になっている。
+<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682332868179!6m8!1m7!1s6LzB85dCHz0tTzPHTS1CBw!2m2!1d-31.30368508334028!2d-57.12221402603009!3f47.58188258636387!4f-12.841590975477217!5f2.93994943215001" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-同じ種類の木がまっすぐに植えられている植林地も存在する。ウルグアイは山がほぼ無いため風を遮るものが無く、防風林もしくは家畜避難林だと思われるが明確なソース無し。 "<i>牧場では時々来襲する暴風雨から家畜を守るため、放牧地内の所々に家畜避難林や防風林を設定している</i>{{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "ウルグアイの生活を振り返って" %}}"。道路の中央線も特徴的。
+同じ種類の木がまっすぐに植えられている植林地が点在する。ウルグアイは山がほぼ無いため風を遮るものが無く、防風林もしくは家畜避難林だと思われるが明確なソース無し。 "<i>牧場では時々来襲する暴風雨から家畜を守るため、放牧地内の所々に家畜避難林や防風林を設定している</i>{{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "ウルグアイの生活を振り返って" %}}"。道路の中央線も特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685254991409!6m8!1m7!1sUOiitP7qH6GBggTvmb0Wug!2m2!1d-34.12346065396341!2d-55.6720927660824!3f203.6559584591058!4f-11.775103413966363!5f1.5349753674630002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ウルグアイの国営企業ANCAPが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}。ウルグアイは石油を輸入している国で、石油産業のほとんどは国営のANCAPが管理している。また車のナンバープレートが<span class="quiz">白</span>色に近い点が{{% goto "../argentina/" "アルゼンチン" %}}と異なる。
+ウルグアイは石油を輸入している国で、石油産業のほとんどは国営のANCAPが管理している。そのためANCAPのガソリンスタンドが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}。また車のナンバープレートが<span class="quiz">白</span>色に近い。一方で、{{% goto "../argentina/" "アルゼンチン" %}}の国有石油会社はYPFであり、ナンバープレートの中央部分は<b>黒</b>色に見える。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
