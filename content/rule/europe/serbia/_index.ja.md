@@ -34,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-反射板が偏った薄いボラード。あとセルビアはガードレールが角ばっているが北マケドニアは角ばっていない{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。
+<b>反射板が偏った薄い</b>ボラード。またセルビアはガードレールが角ばっている{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。ただし岩肌が見えていたりGoogle Carのアンテナが見えているならば{{% goto "../montenegro/" "モンテネグロ" %}}を考えてみる。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがある。一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
+「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがあるので注意。この文字はセルビアの一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
 {{% /notice %}}
 
 <div class="googlemap-if">

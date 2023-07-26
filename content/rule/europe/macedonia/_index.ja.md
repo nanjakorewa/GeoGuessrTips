@@ -32,7 +32,7 @@ sc: [
         <li>ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える</li>
         <li>反射板の周りが<span class="quiz">黒</span>色に塗られており<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}</li>
         <li>ガードレールはセルビアやモンテネグロと異なり丸みを帯びている</li>
-        <li>Google Carのアンテナが見えないことが多い</li>
+        <li class="no-evidence">Google Carのアンテナが見えないことが多い</li>
     </ul>
     {{% rd europe macedonia verysmall %}}
 </div>
@@ -40,6 +40,16 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+基本的に反射板の周りが黒く塗られており、角ばったボラードと<span class="quiz">細く丸い</span>ボラードがある。またガードレールは角ばっておらず、Google Carのアンテナも見えないはず。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680354200981!6m8!1m7!1s8JLCET6LHx4XwuR--1pHzQ!2m2!1d41.77445223781045!2d20.86258415029428!3f244.64759863711743!4f-8.894598659661781!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683615532981!6m8!1m7!1sr3Dzyrpr3vs--ICyGtvqiw!2m2!1d41.94006930540755!2d21.6245100111042!3f243.73111582914936!4f-13.738625160745897!5f3.0989617672262404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% notice tip %}}
 ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える。青いラインは無い場合の方が多い。
 {{% /notice %}}
@@ -53,15 +63,6 @@ sc: [
 
 By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=77624620">Wikipedia Commons(Link)</a>
 {{% /lb %}}
-
-
-{{% notice tip %}}
-基本的に反射板の周りが黒く塗られており、角ばったボラードと<span class="quiz">細く丸い</span>ボラードがある{{% by "https://www.plonkit.net/north-macedonia" "plonkit" %}}。またガードレールが角ばっていない。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680354200981!6m8!1m7!1s8JLCET6LHx4XwuR--1pHzQ!2m2!1d41.77445223781045!2d20.86258415029428!3f244.64759863711743!4f-8.894598659661781!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683615532981!6m8!1m7!1sr3Dzyrpr3vs--ICyGtvqiw!2m2!1d41.94006930540755!2d21.6245100111042!3f243.73111582914936!4f-13.738625160745897!5f3.0989617672262404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 
 {{% notice tip %}}
