@@ -13,6 +13,7 @@ jetro_detail: false
 is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../montenegro/", "モンテネグロ"],
     ["../croatia/", "クロアチア"],
     ["../macedonia/", "北マケドニア"],
     ]
@@ -25,7 +26,6 @@ sc: [
         <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
         <li>反射板が<span class="quiz">偏った薄い</span>ボラード</li>
         <li>「<span class="quiz">Ћ・ћ</span>」の文字を街中で見かけたならばセルビアの可能性が高い</li>
-        <li>ヨーロッパで<span class="quiz">白</span>背景に<span class="quiz">黒</span>の矢印のシェブロンを使うのはここだけ</li>
         <li class="no-evidence">Google Carのアンテナが見えないことが多い</li>
     </ul>
     {{% rd europe serbia verysmall %}}
@@ -34,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<b>反射板が偏った薄い</b>ボラード。またセルビアはガードレールが角ばっている{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。ただし岩肌が見えていたりGoogle Carのアンテナが見えているならば{{% goto "../montenegro/" "モンテネグロ" %}}を考えてみる。
+<b>反射板が偏った薄い</b>ボラード。またセルビアはガードレールが角ばっている{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。ただし岩肌が見えていたりGoogle Carのアンテナが見えているならば{{% goto "../montenegro/" "モンテネグロ" %}}を考えてみる。モンテネグロにもセルビアに似たボラードがたまに見つかる（{{% goto "https://goo.gl/maps/wPyH8fRT6s2EdRMG9" "1" ex %}}）。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -66,7 +66,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白背景に黒の矢印のシェブロンはセルビアに多い。
+<b>白</b>背景に<b>黒</b>の矢印のシェブロンはセルビア・{{% goto "../montenegro/" "モンテネグロ" %}}・{{% goto "../slovenia/" "スロベニア" %}}以外はあまり見かけないように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
@@ -102,7 +102,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-90%が北部に集中している
+90%が北部に集中している。フランスやスペインではないと分かっていてひまわり畑がたくさんあるならば、基本的にルーマニア周辺と考えて良いと思う。
 {{% /notice %}}
 
 <div class="googlemap-if">
