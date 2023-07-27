@@ -94,10 +94,11 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>かなり大きな潅水装置や大規模な防風林など灌漑農業をしている雰囲気があるならばカンタベリー平野{{% ex "https://goo.gl/maps/Ho4ypjhBcnQJA1PK8" "https://goo.gl/maps/ViDwwptpjr8RQAN19" "https://goo.gl/maps/z9NMph5Pkf23vWFX8" "https://goo.gl/maps/vUh5Ak6155z9f7KD7" %}}</li>
         <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}
             <ul>
-                <li>画質が悪く砂利の道が多い場合はオークランドの北に行ってみる</li>
-                <li>雪山や木の電柱が多い場合は南の島を考えてみる</li>
+                <li>画質が悪く砂利の道が多い場合は<span class="quiz">オークランドの北</span>に行ってみる</li>
+                <li>雪山や木の電柱が多い場合は<span class="quiz">南</span>の島を考えてみる</li>
             </ul>
         </li>
         <li>市外局番が北から南へと小さくなっていく
@@ -106,7 +107,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>07：北島の上半分～<span class="quiz">オークランド</span></li>
                 <li>06：北島の下半分～<span class="quiz">ウェリントン</span>以外</li>
                 <li>04：北島の最南端の<span class="quiz">ウェリントン</span>付近</li>
-                <li>03：南島全域（{{% goto "https://goo.gl/maps/qFFgygxtmGS4QvG49" "1" ex %}}{{% goto "https://goo.gl/maps/1GUQwNrkY6idSG3o7" "2" ex %}}）</li>
+                <li>03：南島全域{{% ex "https://goo.gl/maps/qFFgygxtmGS4QvG49" "https://goo.gl/maps/1GUQwNrkY6idSG3o7" "https://goo.gl/maps/Fw7SsCEmw8oe9cg4A" %}}</li>
             </ul>
         </li>
         <li>本島からかなり離れた場所にアンティポディーズ諸島があってペンギンやオットセイがいる</li>
@@ -115,6 +116,17 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 
 {{% tabs  %}}
+{{% tab "カンタベリー平野" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Windbreak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+クライストチャーチを中心として全体的に平坦で高い防風林が多い{{% ref "https://ir.canterbury.ac.nz/handle/10092/11294" "カンタベリー大学" %}}。
+{{% /notice %}}
+
+
+{{% /tab %}}
 {{% tab "解説動画" %}}
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

@@ -36,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-シンハラ語・タミル語が看板に使われている。（シンハラ文字：සිංහල/タミル語：தமிழ்）
+シンハラ語（සිංහල）とタミル語（தமிழ்）が公用語として使用されている
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="four corners"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

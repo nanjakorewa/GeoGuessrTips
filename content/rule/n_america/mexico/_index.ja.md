@@ -126,6 +126,7 @@ sc: [
 <div class="main-desciption city-description">
     <ul class="rule-list">
         <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
+        <li>Chiapasと186号線沿いにアブラヤシのプランテーションがある</li>
     </ul>
 </div>
 
@@ -133,16 +134,34 @@ sc: [
 {{% tabs %}}
 {{% tab "コプラ" %}}
 
+<div class="googlemap-if unclickable">
+<img src="copra.png" width="90%" />
+</div>
+
 {{% notice tip %}}
 Guerreroの海沿いにのみココヤシのプランテーションが存在する。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX" "FAS Home / IPAD Home / Country Summary Mexico - U.S. Department of Agriculture" %}}
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-21-40-28.png" width="90%" />
-</div>
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682944891203!6m8!1m7!1sQTSgniwWjFDeK5aKmKl1XA!2m2!1d16.99165953045512!2d-100.1237792495057!3f86.65871881903603!4f12.885509653288338!5f0.9042402409955568" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% /tab %}}
+{{% tab "アブラヤシ" %}}
+
+
+<div class="googlemap-if unclickable">
+<img src="./palm-oil.png" width="90%" />
+</div>
+
+{{% notice tip %}}
+Guerreroの海沿いにのみココヤシのプランテーションが存在する。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX" "FAS Home / IPAD Home / Country Summary Mexico - U.S. Department of Agriculture" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690446541147!6m8!1m7!1sSn59mD6hE2I-vtQMM4vLrA!2m2!1d18.30187402088926!2d-91.25097875805089!3f310.3095166079618!4f-8.212093973636826!5f1.2699771960987585"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690446551389!6m8!1m7!1sE0GcvOybQUjOOGcWprsEBQ!2m2!1d15.25871209385946!2d-92.85380372736698!3f71.19773244831516!4f1.8473922982750821!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 

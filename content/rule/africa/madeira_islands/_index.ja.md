@@ -48,7 +48,7 @@ sc: [
 
 
 {{% notice tip %}}
-橋の欄干や道の柵がコンクリート製。
+橋の欄干や道の柵がコンクリート製{{% ex "https://goo.gl/maps/88uj9a5MpYrr6RyV6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -58,7 +58,7 @@ sc: [
 
 
 {{% notice tip %}}
-コンクリート製と思われる特徴的な見た目のボラードがある。また霧が発生しやすく遠くが見えないときがある（例<a href="https://goo.gl/maps/qQkm7RzSZNvGK6zt8">①</a>・<a href="https://goo.gl/maps/oZyC4YBXzjSV3U2g6">②</a>）。違うタイプのボラードもたまにある（例<a href="https://goo.gl/maps/6Q7JaVE2myNiNdpS6">①</a>）。
+コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -67,7 +67,7 @@ sc: [
 
 
 {{% notice tip %}}
-こんな感じの紫や白の花が咲いている（例<a href="https://goo.gl/maps/qkRLY1n3cw3H5FQg9">①</a>・<a href="https://goo.gl/maps/8xyNB8wwyNSEnxqW8">②</a>）。
+こんな感じの紫や白の花が咲いている{{% ex "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

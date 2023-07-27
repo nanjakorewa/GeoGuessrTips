@@ -37,7 +37,7 @@ sc: [
 
 
 {{% notice tip %}}
-こんな感じの細い草がたくさん生えている（例<a href="https://goo.gl/maps/QDByu9vY3rrunwQt9">①</a>・<a href="https://goo.gl/maps/mYrQDMMd5k9Beikn9">②</a>）
+こんな感じの細い草がたくさん生えている{{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">

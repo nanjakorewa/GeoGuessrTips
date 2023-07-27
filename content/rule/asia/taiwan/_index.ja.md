@@ -34,7 +34,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-道端に<span class="quiz">赤い●</span>の反射板がある（例<a href="https://goo.gl/maps/ZFN7ioutx1c4HszW6">①</a>・<a href="https://goo.gl/maps/BHo9r4ZFXroc1Uxm7">②</a>・<a href="https://goo.gl/maps/vN4fPEkpVW8CHPUu7">③</a>）
+道端に<span class="quiz">赤い●</span>の反射板がある{{% ex "https://goo.gl/maps/ZFN7ioutx1c4HszW6" "https://goo.gl/maps/BHo9r4ZFXroc1Uxm7" "https://goo.gl/maps/vN4fPEkpVW8CHPUu7" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -52,7 +52,7 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./ok-logo.png" width="500px">
+<img src="./ok-logo.png" width="500px" alt="台湾のコンビニのロゴ" >
 </div>
 
 {{% /tab %}}
@@ -61,7 +61,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電柱に書かれた英語がAに近ければ北でWに近ければ南</li>
+        <li>電柱に書かれた英語がAに近ければ<span class="quiz">北</span>でWに近ければ<span class="quiz">南</span></li>
         <li>市外局番は北から南へのグラデーションになっている</li>
         <li>ヤシの木がたくさん生えている時は南部に行ってみる</li>
     </ul>
@@ -84,7 +84,7 @@ sc: [
 市外局番が南に行くほど大きくなる。（画像出典 By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>）
 {{% /notice %}}
 <div class="googlemap-if">
-<a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="70%" alt="Telephone area codes in Taiwan" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
+<a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="70%" alt="Telephone area codes in Taiwan, 台湾の市外局番" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
 </div>
 {{% /tab %}}
 {{% tab "ヤシの木" %}}

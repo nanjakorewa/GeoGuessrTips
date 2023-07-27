@@ -103,9 +103,9 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 {{% tabs %}}
 {{% tab "植物" %}}
 <ul class="rule-list">
-    <li>北部：<a href="https://goo.gl/maps/xDypw1pxj9FieAQx5">①</a>・<a href="https://goo.gl/maps/PTfy1xea9egS4CUv8">②</a></li>
-    <li>中央部：<a href="https://goo.gl/maps/oHTTa3eHKyZZjhTW6">①</a>・<a href="https://goo.gl/maps/oHTTa3eHKyZZjhTW6">②</a>・<a href="https://goo.gl/maps/W8gn45LvfnXzRnYJA">③</a></li>
-    <li>南部：<a href="https://goo.gl/maps/y4jftPwapCE9qg9L6">①</a>・<a href="https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6">③</a></li>
+    <li>北部：{{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
+    <li>中部：{{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
+    <li>南部：{{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
 </ul>
 {{% /tab %}}
 {{% /tabs %}}
