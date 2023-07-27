@@ -149,14 +149,12 @@ Guerreroの海沿いにのみココヤシのプランテーションが存在す
 
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
-
-
 <div class="googlemap-if unclickable">
 <img src="./palm-oil.png" width="90%" />
 </div>
 
 {{% notice tip %}}
-Guerreroの海沿いにのみココヤシのプランテーションが存在する。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX" "FAS Home / IPAD Home / Country Summary Mexico - U.S. Department of Agriculture" %}}
+分布上はたくさんあるように見えるけれど、実際には道路が少ないのでゲーム上で遭遇するのは稀かも。
 {{% /notice %}}
 
 <div class="googlemap-if">
