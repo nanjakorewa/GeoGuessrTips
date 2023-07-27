@@ -13,9 +13,10 @@ dont_show_usda: true
 is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../belgium/", "ベルギー"],
     ["../italy/", "イタリア"],
-    ["../../n_america/saint-pierre-miquelon/", "サンピエール島およびミクロン島"],
     ["../../africa/reunion/", "レユニオン"],
+    ["../../n_america/saint-pierre-miquelon/", "サンピエール島"],
     ]
 ---
 
