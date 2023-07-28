@@ -34,11 +34,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">緑色</span>のボラードがある{{% by %}}
+<span class="quiz">緑色</span>のボラードがある{{% ex "https://goo.gl/maps/TsXkH3751vxJH2xe8" "https://goo.gl/maps/8qZiGUqUbmZQrCzE8" %}}{{% by %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680369087645!6m8!1m7!1sQiCyaQB_HjAOCmRmHNhWrw!2m2!1d53.94275825022988!2d-9.105032066273541!3f352.1700259421891!4f-24.077572614485618!5f2.9505292836958805" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681292742044!6m8!1m7!1s_mu-8hUunJn5Mh0URcMV5w!2m2!1d53.96796503681288!2d-7.231789306137854!3f0.6727123734271458!4f-10.174244955340882!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./green-bollard.png" width="95%" alt="アイルランドのボラード" />
 </div>
 
 
@@ -60,11 +59,20 @@ sc: [
 </div>
 
 {{% notice tip %}}
-イギリスかどうか分からないとき黄色の点線があるならアイルランド{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。停止線が黄色ならば{{% goto "../jersey/" "ジャージー" %}}の可能性が高い。
+イギリスかどうか分からないとき黄色の点線があるならアイルランド{{% ex "https://goo.gl/maps/TpiTmP97DT8SnKge9" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。停止線が黄色ならば{{% goto "../jersey/" "ジャージー" %}}の可能性が高い。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685413411571!6m8!1m7!1sZA3M_YuaJljvNQs49exU1Q!2m2!1d53.20922257627343!2d-6.708624526087777!3f254.1490726175612!4f-10.407247295680193!5f1.5374242984310151" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./ireland-road-yellowline.png" width="95%" alt="アイルランドの路面の黄色線" />
 </div>
+
+
+{{% notice tip %}}
+道路番号の頭文字がR・N・M。イギリスはB・A・M。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-07-29-00-32-37.png" width="590px" alt="アイルランドの看板" />
+</div>
+
 
 {{% /tab %}}
 {{% /tabs %}}
