@@ -34,11 +34,14 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも。ただし似たようなボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。
+{{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも{{% ex "https://goo.gl/maps/YCvG3ETrNSGQFakq6" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。
 {{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./road.png" width="90%" alt="タイのボラード" />
+</div>
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682877916254!6m8!1m7!1sSsph6IlCDLalfC82SiXhGQ!2m2!1d14.64339940767677!2d98.69383419317019!3f272.2330816685183!4f-9.492207784541847!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682253036696!6m8!1m7!1sjnVySIUkGXb5XpEwci1aTA!2m2!1d17.34694015534703!2d102.828123273268!3f78.31588429892301!4f-4.759113999546827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99817864">Link</a>, 画像を一部加工
 </div>
 
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。

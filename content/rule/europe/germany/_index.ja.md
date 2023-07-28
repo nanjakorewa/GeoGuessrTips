@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある（例<a href="https://goo.gl/maps/ZF1BE14mpH7cxhbr6">①</a>・<a href="https://goo.gl/maps/1eFfB8kZFr7w65Jy7">②</a>）。
+ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある{{% ex "https://goo.gl/maps/ZF1BE14mpH7cxhbr6" "https://goo.gl/maps/1eFfB8kZFr7w65Jy7" %}}。
 横長の看板にバス停の名前が書かれていることもある。
 {{% /notice %}}
 
@@ -65,7 +65,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白やオレンジの反射板のボラードと２つの地名が書かれた看板がある（例<a href="https://goo.gl/maps/3Pos6NyBRkgZdVoK8">①</a>・<a href="https://goo.gl/maps/5K2XdQHcvzZEEnXy5">②</a>・<a href="https://goo.gl/maps/KqKs9U1df8EnXm7E8">③</a>）。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
+白やオレンジの反射板のボラードと２つの地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -75,7 +75,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業がルール工業地域に多く{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}郊外に工場らしきものが見える（例<a href="https://goo.gl/maps/52RWqCop67xJMW8x6">①</a>・<a href="https://goo.gl/maps/1zUtgj3jRH2aKg3t6">②</a>）ことがあるけれどGeoguessrでは使えないかも。
+石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業がルール工業地域に多く{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}郊外に工場らしきものが見える{{% ex "https://goo.gl/maps/52RWqCop67xJMW8x6" "https://goo.gl/maps/1zUtgj3jRH2aKg3t6" %}}ことがあるけれどGeoguessrでは使えないかも。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
