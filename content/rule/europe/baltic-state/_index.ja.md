@@ -24,7 +24,7 @@ add_flagindex: True
 </div>
 
 {{% notice tip %}}
-どの国にも、特にエストニアにOmniva（エストニア郵便、Eesti Post）のオレンジ色のロッカーが街中にある。以前の名前であるEesti Postと書かれていることもあるけれどそれでもオレンジ色で目立つ。
+どの国にも、特にエストニアにOmniva（エストニア郵便、Eesti Post）のオレンジ色のロッカーが街中にある。
 {{% /notice %}}
 
 <div class="googlemap-if">

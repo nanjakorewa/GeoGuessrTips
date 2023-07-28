@@ -45,16 +45,17 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
-電柱の形。上に鳥が巣を作れるような網が付いているタイプもある。
+ボラードにオレンジ色の反射板がある。他の国であっても色が付いた反射板が付いていることもあるが棒の形は国ごとに違う。下の図は左から<span class="quiz">リトアニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">エストニア</span>{{% ref "https://twitter.com/meine_geo/status/1638018731753496577" "画像１枚でバルト三国見分けたい" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682138253548!6m8!1m7!1sNHOzDYUUQiKWwkHJ9xSQbQ!2m2!1d55.58854106587684!2d26.5763660164371!3f196.77812147844165!4f25.487494572591473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682138686422!6m8!1m7!1sbpVYm1v6Af9ERWZb9qUH2Q!2m2!1d54.46618619488959!2d22.91992489201201!3f292.5696348997516!4f20.75041524949897!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="googlemap-if unclickable">
+<img src="./bollar-li-la-es.png" width="590px"/>
 </div>
 
 {{% notice tip %}}
-反射板が<span class="quiz">オレンジ</span>色で、数字が書かれた標識が道路に対して<span class="quiz">斜め</span>になっている。横断歩道は<span class="quiz">３</span>本で赤い標識に<span class="quiz">白色の縁がある</span>ことがわかる。そして{{% goto "../latvia/" "ラトビア" %}}と比較すると赤い線が<span class="quiz">細い</span>感じ。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
+数字が書かれた標識が道路に対して<span class="quiz">斜め</span>になっている。横断歩道は<span class="quiz">３</span>本で赤い標識に<span class="quiz">白色の縁がある</span>ことがわかる。そして{{% goto "../latvia/" "ラトビア" %}}と比較すると赤い線が<span class="quiz">細い</span>感じ。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -66,6 +67,14 @@ sc: [
 <img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
 <img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
 <img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
+</div>
+
+{{% notice tip %}}
+電柱の形。上に鳥が巣を作れるような網が付いているタイプもある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682138253548!6m8!1m7!1sNHOzDYUUQiKWwkHJ9xSQbQ!2m2!1d55.58854106587684!2d26.5763660164371!3f196.77812147844165!4f25.487494572591473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682138686422!6m8!1m7!1sbpVYm1v6Af9ERWZb9qUH2Q!2m2!1d54.46618619488959!2d22.91992489201201!3f292.5696348997516!4f20.75041524949897!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}

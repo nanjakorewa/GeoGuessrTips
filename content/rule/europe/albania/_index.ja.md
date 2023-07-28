@@ -70,7 +70,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 {{% /lb %}}
 
 {{% notice tip %}}
-黒背景に白い矢印のシェブロンを使う。アルバニアに直接隣接している国ではギリシャだけが黒背景に白い矢印のシェブロンを使う{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+黒背景に白い矢印のシェブロンを使う。アルバニアに直接隣接している国ではギリシャも黒背景に白い矢印のシェブロンを使うことが多い{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -79,7 +79,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 
 
 {{% notice tip %}}
-カメラに線が入っていることがある。
+カメラに亀裂が入っていることがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681170588295!6m8!1m7!1segWVKwWr-SK3D17ZbM-wZA!2m2!1d41.16613852694356!2d20.20041411394961!3f311.52613228878727!4f48.98466247439279!5f1.92064061173707" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

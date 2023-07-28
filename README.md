@@ -27,16 +27,16 @@
 - 標識の画像はパブリックドメイン・CC0・国ごとのライセンス的にokなものに限定する
   - ニュージーランド：[Sign specifications](https://www.nzta.govt.nz/resources/traffic-control-devices-manual/sign-specifications/)
   - イギリス：[Open Government Licence v1.0](http://nationalarchives.gov.uk/doc/open-government-licence/version/1/)
-- ナンバープレートの画像を引用する場合は、**出典を示す必要がないとしても**ライセンスと出典を示すこと
+- ナンバープレートの画像を引用する場合は**出典を示す必要がないとしても**ライセンスと出典を示すこと
   - ライセンスを書き忘れたかどうかを後から判断するのが難しくなるため
 - Google Map・Street View
   - [Google マップ & Google Earth ガイドライン](https://www.google.com/intl/ja_ALL/permissions/geoguidelines/)
   - Googleストリートビューのスクリーンショットは使用しないこと
-  - Google Mapsを引用する場合は、**必ず画像の近くにソースへのリンクを貼ること**
+  - Google Mapsを引用する場合は**必ず画像の近くにソースへのリンクを貼ること**
 
 ## 連絡先
 
-問題点やミスを見つけた場合、issueを立てていただけると嬉しいです。また連絡はissueか[twitter](https://twitter.com/nanjakorewa)のDMなどで受け付けています。
+問題点やミスを見つけた場合はissueを立てていただけると嬉しいです。また連絡はissueか[twitter](https://twitter.com/nanjakorewa)のDMなどで受け付けています。
 
 <hr />
 
