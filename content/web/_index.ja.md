@@ -12,6 +12,13 @@ weight: 1000
 
 <h2 class="no-blur">各国のヒント</h2>
 
+### 日本語サイト
+
+- [Geoguessr Japan wiki](https://wikiwiki.jp/geoguessr/)
+- [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
+
+### 英語サイト
+
 - [r/geoguessr Wiki](https://www.reddit.com/r/geoguessr/wiki/index/)
 - [GeoTips](https://geotips.net/)
 - [GetHints](https://geohints.com/)
@@ -19,8 +26,6 @@ weight: 1000
 - [GeoGuessr - wiki reddit archive](https://www.reddit.com/r/geoguessr/wiki/index/#wiki_reddit_archive)
 - [Highway Route Markers](http://routemarkers.com/)
 - [Street View Map](https://sv-map.netlify.app/#base=roadmap&cov=official&zoom=2&center=0%2C0)：Googleの公式ストリートビューがある地域を確認できるWebアプリ
-- [日本語] [Geoguessr Japan wiki](https://wikiwiki.jp/geoguessr/)
-- [日本語] [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
 
 <h2 class="no-blur">配信者</h2>
 
@@ -31,6 +36,7 @@ weight: 1000
 - [Pitman](https://www.youtube.com/@Pitman_live) {{% snsl "youtube" "@Pitman_live" %}} {{% snsl "twitch" "pitman_live" %}} {{% snsl "twitter" "pitman_live" %}}
 - [市民ジョン](https://www.twitch.tv/geociviljohn) {{% snsl "youtube" "@user-qf7cv9xh9r" %}} {{% snsl "twitch" "geociviljohn" %}} {{% snsl "twitter" "GeoCivilJohn" %}}
 - [【GeoGuessr】おおさかふみん【翻訳】](https://www.youtube.com/channel/UC0txqnWQzEgPk8md5dB8nSw) {{% snsl "youtube" "@geoguessrjp" %}}
+
 
 <h2 class="no-blur">配信者向けの注意点</h2>
 
