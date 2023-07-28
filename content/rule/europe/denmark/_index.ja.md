@@ -54,11 +54,10 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 </div>
 
 {{% notice tip %}}
-ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある。上の線は色がはがれていることもあるので注意。
+ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある。上の線は色がはがれていることもあるので注意{{% imref %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529019124!6m8!1m7!1sAoZCF2oVYZA0L7nRlVVnwg!2m2!1d55.64288374332646!2d9.562363417512655!3f14.227552778994985!4f-6.810539373896333!5f2.7962596766358367" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681529136084!6m8!1m7!1siM2DF355ERQV2QplCCnYag!2m2!1d55.64427857940704!2d9.56126011846508!3f31.415276981456074!4f-12.93480233938564!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./bollards.png" width="90%" alt="デンマークのボラード" />
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
@@ -92,6 +91,7 @@ public domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>地域ごとに明確な違いがあるのか正直わからない</li>
         <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
     </ul>
 </div>
@@ -109,3 +109,16 @@ public domain
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+
+<li>ボラードの画像は以下の画像を加工しています
+    <ul>
+        <li>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/84554176@N00">Guillaume Baviere</a> from Copenhagen, Denmark - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/84554176@N00/16997362030/">2015-04-11</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74159251">Link</a>
+        </li>
+        <li>
+        By © 2009 by <a href="//commons.wikimedia.org/wiki/User:Tsca" title="User:Tsca">Tomasz Sienicki</a> <span style="color:grey">[user: <a href="//commons.wikimedia.org/wiki/User:Tsca" title="User:Tsca">tsca</a>, mail: tomasz.sienicki at gmail.com]</span> - Photograph by <a href="//commons.wikimedia.org/wiki/User:Tsca" title="User:Tsca">Tomasz Sienicki</a> (<span class="int-own-work" lang="en">Own work</span>), <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7691913">Link</a>
+        </li>
+    </ul>
+</li>
+{{% /imgref %}}
