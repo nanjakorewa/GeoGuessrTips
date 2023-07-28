@@ -46,11 +46,15 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。またペルーは他の色（緑・白）の車も存在する。道端の有刺鉄線が3～4本張られた木の柵も多く見られる。
+ナンバープレートは<span class="quiz">前後共に黄色</span>。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/padawan72/3780843859/" title="Antioquia"><img src="https://live.staticflickr.com/3465/3780843859_c8d80e4f11_z.jpg" width="640" height="480" alt="Antioquia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% lb 50 %}}
+![コロンビアのナンバープレート](./licenceplate.png)
+{{% /lb %}}
 
 {{% /tab %}}
 {{% tab "w-road" %}}
