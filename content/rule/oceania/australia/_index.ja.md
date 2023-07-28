@@ -220,13 +220,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
-        <li class="no-evidence">信号機付近の機械や看板に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
-        <li>クリスマス島が出題されることがある{{% goto "../christmas-island/" "クリスマス島" %}}
-            <ul>
-                <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
-            </ul>
-        </li>
         <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。あまり見かけない上に街中でないと見つけられないため、ブラジルの電話番号と比較するとあまり重要ではない。
             <ul>
                 <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
@@ -236,12 +229,24 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
             </ul>
         </li>
+        <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
+        <li class="no-evidence">信号機付近の機械や看板に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
+        <li>クリスマス島が出題されることがある{{% goto "../christmas-island/" "クリスマス島" %}}
+            <ul>
+                <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 
 
 {{% tabs  %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/glf854/area_codes_of_australia/">Area Codes of Australia</a><br> by      <a href="https://www.reddit.com/user/cmzraxsn">u/cmzraxsn</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+{{% /tab %}}
 {{% tab "ナンバープレート" %}}
 
 {{% notice tip %}}
@@ -276,11 +281,6 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
 
 <div class="googlemap-if">
 <img src="VicRoads_Logo_2009.gif" width="200px" />
-</div>
-{{% /tab %}}
-{{% tab "市外局番" %}}
-<div class="googlemap-if">
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/glf854/area_codes_of_australia/">Area Codes of Australia</a><br> by      <a href="https://www.reddit.com/user/cmzraxsn">u/cmzraxsn</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
