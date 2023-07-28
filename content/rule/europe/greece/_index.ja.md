@@ -45,7 +45,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}がほとんど。ただし他の国でもたまにオレンジ背景の看板はある。
+看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -75,7 +75,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% tab "標識" %}}
 
 {{% notice tip %}}
-{{% goto "../macedonia/" "北マケドニア" %}}は速度表示の看板の背景がオレンジのことが多いけれど、ギリシャは白が多いと思う。
+{{% goto "../macedonia/" "北マケドニア" %}}は速度表示の看板の背景がオレンジのことが多いけれど、ギリシャは白が多い。
 {{% /notice %}}
 
 <div class="googlemap-if">

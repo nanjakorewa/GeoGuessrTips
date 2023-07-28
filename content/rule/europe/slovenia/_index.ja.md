@@ -35,11 +35,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-{{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある
+{{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682337109400!6m8!1m7!1sahs5Fan5kesxOhnOTKQoEw!2m2!1d46.62237614902449!2d16.21391446134908!3f91.85589159128051!4f-14.14110736434948!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682337190500!6m8!1m7!1sUkUrkI05qpvCLnzLD5N_EQ!2m2!1d46.62197815133978!2d16.2178345745643!3f269.0778038800857!4f-16.86636481715267!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./bollard.png" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -47,6 +46,11 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./routesign.png" width="300px" style="margin:15px"/>
+<img src="./r/Slovenia_road_sign_III-105.svg" width="130px" />
 </div>
 
 {{% notice tip %}}

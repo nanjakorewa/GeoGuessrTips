@@ -15,8 +15,6 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
     ["../montenegro/", "モンテネグロ"],
-    ["../serbia/", "セルビア"],
-    ["../bulgaria/", "ブルガリア"],
     ["../greece/", "ギリシャ"],
     ["../../middle_east/turkey/", "トルコ"],
     ]

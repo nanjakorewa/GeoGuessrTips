@@ -56,7 +56,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686236522105!6m8!1m7!1snTB986lVwfGWa-nqsQK_Dg!2m2!1d49.81912692745507!2d6.022866344321538!3f39.79841549537231!4f-37.2073336218013!5f3.2430872075935557" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="unclickable"><img src="./lx-borllard.png" width="170px" style="margin:30px" /></div>
 </div>
 
 
