@@ -57,26 +57,15 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。横断歩道の標識が黄色い線で囲まれていることがある（例<a href="https://goo.gl/maps/dQsU4LB5nK6ohVxEA">①</a>）。またルーマニアと{{% goto "../macedonia/" "北マケドニア" %}}は標識の裏側が黒っぽい時が多いように思う（例<a href="https://goo.gl/maps/K73aTYQpJxKeq7s17">①</a>・<a href="https://goo.gl/maps/yzZQrPFvCboNYo1h9">②</a>・<a href="https://goo.gl/maps/pQJi43V1uycmSFWV9">③</a>）。
+ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。左から順番に一番細い{{% goto "../poland/" "ポーランド" %}}、まあまあ太いと思われる{{% goto "../france/" "フランス" %}}、そしてルーマニア。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/triangle.png" width="130px" style="margin:13px">
-<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
-<img src="./r/ps1.png" width="120px" style="margin:15px">
-<img src="./sign-bg.png" width="110px" style="margin:21px">
-</div>
-
-
-{{% notice tip %}}
-太さの比較例。一般的な太さ（左）・ヨーロッパで二番目に太いと思われるフランス（中央）・ルーマニア（右）。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./t/austria.svg" width="125px" style="margin:13px">
+<img src="../poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px">
 <img src="./t/france.png" width="130px" style="margin:10px">
 <img src="./r/triangle.png" width="130px" style="margin:13px">
 </div>
+
 
 {{% notice tip %}}
 「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」のような下に点（コンマビロー）が付いたSとTはルーマニアとモルドバで使用されるが、モルドバにはストリートビューがない。「Ļ・ļ」ならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}。
@@ -86,6 +75,15 @@ sc: [
 <img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
 </div>
 
+
+{{% notice tip %}}
+横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニアと{{% goto "../macedonia/" "北マケドニア" %}}は標識の裏側が黒っぽい時が多いように思う{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
+<img src="./sign-bg.png" width="110px" style="margin:21px">
+</div>
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}
