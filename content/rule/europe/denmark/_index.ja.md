@@ -54,7 +54,7 @@ Allux（Odenseの会社のブランド）のポストが一般的、おしゃれ
 </div>
 
 {{% notice tip %}}
-ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある。上の線は色がはがれていることもあるので注意{{% imref %}}。
+ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある{{% ex "https://goo.gl/maps/go3gDCpJTiSecArf7" "https://goo.gl/maps/AJpWxsWiskTXCnyv8" %}}。上部のオレンジ色のテープは色がはがれていることもあるので注意{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollards.png" width="90%" alt="デンマークのボラード" />

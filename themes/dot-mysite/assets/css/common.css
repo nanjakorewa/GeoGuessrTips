@@ -1250,3 +1250,7 @@ i.i-enlarge {
 i.i-ensmall {
   margin: 0 0.2em 0 0;
 }
+
+a.imgref-text {
+  font-size: 0.8em;
+}
