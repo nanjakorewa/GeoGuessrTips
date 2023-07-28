@@ -27,6 +27,7 @@ sc: [
         <li>ナンバープレートは<span class="quiz">黄色</span></li>
         <li>平らで高い山が無い</li>
         <li>家が<span class="quiz">レンガ造り</span>のものが多い</li>
+        <li>ボラードは<span class="quiz">白</span>色</li>
         <li><span class="quiz">自転車を走る道路</span>が国中に整備されていて茶色っぽい路面か赤レンガで舗装されている</li>
         <li>「weg」と付いた通り名が多い{{% ref "https://dictionary.cambridge.org/dictionary/dutch-english/weg" "weg - Cambridge Dictionary" %}}</li>
         <li class="no-evidence">ルクセンブルグと比べ平坦で、水路が多く、家が全体的に赤っぽく、自転車用の道路数が多いように思える{{% goto "../../../architecture/houses/europe-1/#オランダ" "家の見た目 > オランダ" %}}</li>
@@ -63,10 +64,18 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 {{% notice tip %}}
 自転車を走る道路（Fietspad）が国中に整備されていている。写真の左側のレーンが自転車用の道路。また、ルクセンブルグと比べ平坦で水路が多い。オランダは平らで高い山が無く、国土の4分の1が海抜0m以下で最高地点も約333mしかない。
 {{% /notice %}}
+
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/meteorry/51314358579/" title="Nieuwe Gouw - Amsterdam (Netherlands)"><img src="https://live.staticflickr.com/65535/51314358579_a64b6d05a3_z.jpg" width="640" height="426" alt="Nieuwe Gouw - Amsterdam (Netherlands)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}
+道端に<span class="quiz">白</span>色のボラードがある。大き目の道路には道端に道路番号が書かれた緑色の看板がある<span style="font-size:0.8em">（ボラード画像のみ<a href="https://commons.wikimedia.org/wiki/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg#/media/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg">ここ</a>より引用）</span>。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./road.png" width="90%">
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 
