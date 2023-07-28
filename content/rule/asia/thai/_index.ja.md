@@ -37,11 +37,11 @@ sc: [
 {{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも{{% ex "https://goo.gl/maps/YCvG3ETrNSGQFakq6" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.png" width="90%" alt="タイのボラード" />
+<img src="./road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
 </div>
 
-<div class="googlemap-if">
-By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99817864">Link</a>, 画像を一部加工
+<div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
+By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99817864">Link</a>, 画像にパブリックドメイン画像を重ねています
 </div>
 
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
