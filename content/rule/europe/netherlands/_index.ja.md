@@ -73,7 +73,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 道端に<span class="quiz">白</span>色のボラードがある。大き目の道路には道端に道路番号が書かれた緑色の看板がある<span style="font-size:0.8em">（ボラード画像のみ<a href="https://commons.wikimedia.org/wiki/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg#/media/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg">ここ</a>より引用）</span>。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if unclickable">
 <img src="./road.png" width="90%">
 </div>
 {{% /tab %}}
