@@ -51,7 +51,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bollar-li-la-es.png" width="590px"/>
+<img src="./bollar-li-la-es.png" width="590px" alt="バルト三国のボラード" />
 </div>
 
 {{% notice tip %}}

@@ -42,7 +42,7 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <div class="googlemap-if unclickable">
-<img src="./b1.png" width="400px">
+<img src="./b1.png" width="400px" alt="フランスのボラード" />
 </div>
 <div class="googlemap-if">
 <p>※By <a href="//commons.wikimedia.org/wiki/User:Lionel_Allorge" title="User:Lionel Allorge">Lionel Allorge</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36181681">（Link）</a>を加工しており左は加工画像です</p>

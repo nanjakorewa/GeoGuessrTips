@@ -70,7 +70,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./spain-bollard.png" width="180px">
+<img src="./spain-bollard.png" width="180px" alt="スペインのボラード" />
 </div>
 
 {{% notice tip %}}

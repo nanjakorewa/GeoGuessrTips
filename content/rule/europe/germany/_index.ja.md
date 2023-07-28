@@ -69,8 +69,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bollard.png" width="150px">
-<img src="./bollard2.png" width="150px">
+<img src="./bollard.png" width="150px" alt="ドイツのボラード" />
+<img src="./bollard2.png" width="150px" alt="Germany bollard" >
 <img src="./r/route-sign.svg" width="200px" style="margin:30px">
 </div>
 

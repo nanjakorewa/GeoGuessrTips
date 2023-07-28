@@ -85,7 +85,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../lithuania/bollar-li-la-es.png" width="590px"/>
+<img src="../lithuania/bollar-li-la-es.png" width="590px" alt="バルト三国のボラード" />
 </div>
 
 
