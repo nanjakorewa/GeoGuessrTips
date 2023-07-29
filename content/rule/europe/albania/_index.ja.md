@@ -25,7 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.al</span></li>
         <li>公用語はアルバニア語（Shqip）でキリル文字を使用<span class="quiz">しない</span></li>
-        <li>カメラに線が入っていることがある</li>
+        <li>カメラに線が入っていることがある{{% by %}}</li>
         <li>ナンバープレートの<span class="quiz">両側に青い線</span>がある、<span class="quiz">赤い</span>ナンバープレートもある</li>
         <li>「<span class="quiz">Ë・ë</span>」を使う国が近くにない
             <ul>
@@ -82,7 +82,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 </div>
 
 {{% notice tip %}}
-カメラに亀裂が入っていることがある。
+カメラに亀裂が入っていることがある{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681170588295!6m8!1m7!1segWVKwWr-SK3D17ZbM-wZA!2m2!1d41.16613852694356!2d20.20041411394961!3f311.52613228878727!4f48.98466247439279!5f1.92064061173707" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
