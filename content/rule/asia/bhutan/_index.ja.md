@@ -43,7 +43,7 @@ sc: [
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}ナンバープレートは<span class="quiz">赤い</span>
+{{% notice tip %}}ほとんどの車はナンバープレートは<span class="quiz">赤</span>色。タクシーと思われる車は黄色であることもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/rachelc/45877047731/in/photolist-2cTZRXz-dQoxko-6rsjq-29hnGDw-27Dfm6u-q7JopP-9NrQ2n-27Gq7nE-cJLbNq-P8Tfgc-7tk6mF-q1vqA1-7H2L94-24QjBbo-76XzMz-6YYjTW-dKwjsU-dKqQ1i-dKqQ7H-qkQUun-22drHMq-K6hrKv-bfPTDx-82t5YN-P8Tfsz-23uRTFj-7sAzQV-dKweHf-yGNcK-djaeZv-v9TUvf-Yq9eB4-bjhNkH-oNDRzk-21e6msY-dnmV1A-5zcexF-5GEZuU-XYVK8A-5uwsV6-6m7sq-Z1S9mL-dZrQJK-apEWJA-YxyKDi-aLXjGv-2cPJCuY-Hs8dEt-77s4VT-Yxzr4k" title="Thimphu, Bhutan"><img src="https://live.staticflickr.com/4905/45877047731_fe08d41ee7_z.jpg" width="640" height="427" alt="Thimphu, Bhutan"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -53,6 +53,10 @@ sc: [
 ![](2023-05-18-06-22-20.png)
 
 By Cfynn - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35901900">Wikimedia Commons(Link)</a>
+
+![](2023-07-29-14-29-55.png)
+
+By <a href="//commons.wikimedia.org/wiki/User:Cfynn" class="mw-redirect" title="User:Cfynn">Christopher J. Fynn</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36512152">Link</a>
 {{% /lb %}}
 
 {{% notice tip %}}窓がたくさん規則的に並んだ建物がある
