@@ -95,6 +95,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
         <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
         <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
     </ul>
@@ -102,6 +103,16 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% tabs  %}}
+{{% tab "RN4の東側" %}}
+{{% notice tip %}}
+範囲はかなり狭いけれど何回か出て毎回どこかわからなかったのでメモ{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<p><div class="unclickable"><img src="./rn4-east.png" width="90%" /></div></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, 加工あり</p>
+</div>
+{{% /tab %}}
 {{% tab "標高が低い場所" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679813951600!6m8!1m7!1sQJGqwFtDGPzUKSqwJ1QVQA!2m2!1d-17.77139549244364!2d-63.11097934771753!3f253.7606520157439!4f-10.953950473285772!5f1.6485012874313432" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
