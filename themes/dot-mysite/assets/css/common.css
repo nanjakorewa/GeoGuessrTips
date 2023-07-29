@@ -535,7 +535,7 @@ a.nav-link:hover {
   color: #ffca2c !important;
 }
 
-div.unclickable {
+div.unclickable, p.unclickable {
   pointer-events: none;
 }
 

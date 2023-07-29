@@ -42,12 +42,14 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的。
+ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的{{% ex "https://goo.gl/maps/QrmZubBeiPU8u8Uc8" %}}。車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679910265333!6m8!1m7!1ssx9zUlN6LPT7xOhGuO7faA!2m2!1d53.80077195835273!2d-1.53210151821876!3f231.25961345054426!4f-8.007779915657679!5f3.3181257949307925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683813476920!6m8!1m7!1sxdfxNylI3AfFR1aqZpE53A!2m2!1d60.41718899287138!2d-1.317587338572286!3f164.9881734823317!4f-20.091395987317455!5f2.3601662284759035" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="googlemap-if no-margin">
+<p class="unclickable"><img src="./uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
+<p>By Maxwell Hamilton, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52560349">Link</a>, 画像加工あり</p>
 </div>
+<br />
 
 {{% lb 50 %}}
 ![](2023-04-12-12-06-06.png)
