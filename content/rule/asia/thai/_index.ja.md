@@ -44,6 +44,14 @@ sc: [
 By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99817864">Link</a>, 画像にパブリックドメイン画像を重ねています
 </div>
 
+{{% notice tip %}}
+白いボラードがあり、これを使って場所も絞り込める{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【5k戦略】気づきにくい道路番号を読み取る【GeoGuessr】" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./thailand-milestone.png" width="90%" alt="タイのボラード" />
+</div>
+
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
 {{% /notice %}}
 <div class="googlemap-if">
