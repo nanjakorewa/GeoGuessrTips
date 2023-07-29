@@ -48,24 +48,6 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./romania-bollards.png" width="90%">
-</div>
-
-
-{{% notice tip %}}
 ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。左から順番に一番細い{{% goto "../poland/" "ポーランド" %}}、まあまあ太いと思われる{{% goto "../france/" "フランス" %}}、そしてルーマニア。
 {{% /notice %}}
 
@@ -77,6 +59,14 @@ sc: [
 
 
 {{% notice tip %}}
+ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./romania-bollards.png" width="90%" alt="ルーマニアのボラード" />
+</div>
+
+{{% notice tip %}}
 「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」のような下に点（コンマビロー）が付いたSとTはルーマニアとモルドバで使用されるが、モルドバにはストリートビューがない。「Ļ・ļ」ならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
@@ -84,7 +74,14 @@ sc: [
 <img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
 </div>
 
+{{% notice tip %}}
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
+{{% /notice %}}
 
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% notice tip %}}
 横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニアと{{% goto "../macedonia/" "北マケドニア" %}}は標識の裏側が黒っぽい時が多いように思う{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}。
 {{% /notice %}}
