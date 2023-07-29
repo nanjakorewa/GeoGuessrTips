@@ -37,7 +37,7 @@ sc: [
 ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/zM7va5ddu2HANQgV6" "https://goo.gl/maps/Vo6Fg3yDTVFhosdKA" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./nz-bollard.png" width="95%" >
+<img src="./nz-bollard.png" width="95%" alt="ニュージーランドのボラード" />
 </div>
 
 
@@ -45,7 +45,7 @@ sc: [
 電柱の上のほうにシルバーの何かが巻かれている。色が異なる時もある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="90%"/>
+<img src="./poles.png" width="90%" alt="ニュージーランドの電柱" />
 </div>
 
 {{% notice tip %}}
