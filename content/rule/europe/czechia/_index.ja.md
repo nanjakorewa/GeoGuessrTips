@@ -84,25 +84,6 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jeremycaney/31073301447/" title="Rural Czechia I"><img src="https://live.staticflickr.com/4846/31073301447_32f66b3dfb_z.jpg" width="640" height="427" alt="Rural Czechia I"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-
-{{% notice tip %}}
-主に色が付いている看板について、チェコの標識は背景色と同じ縁がある時が多いがスロバキアはない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
-上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>。
-{{% /notice %}}
-<div class="googlemap-if unclickable" style="background-color:#444; padding-top:35px;margin-bottom:0;;border-radius:20px;">
-<div class="googlemap-if unclickable" style="margin-bottom:0;">
-<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
-<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />
-<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" />
-</div>
-
-<div class="googlemap-if unclickable" style="margin-top:0;">
-<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" />
-<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" />
-<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
-</div>
-</div>
-
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
