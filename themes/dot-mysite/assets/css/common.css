@@ -1254,3 +1254,8 @@ i.i-ensmall {
 a.imgref-text {
   font-size: 0.8em;
 }
+
+div.no-margin p {
+  margin: 0;
+  padding: 0;
+}

@@ -26,6 +26,7 @@ sc: [
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
         <li>電柱に<span class="quiz">黒いラベル</span>が付いているならば本土側になる{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
         <li>SDN BHD・BHDはマレーシアでは～会社・～公開会社の意味</li>
+        <li>道路がアスファルトでできていてコンクリート製ではない</li>
     </ul>
     {{% rd asia malaysia small %}}
 </div>
@@ -42,11 +43,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
+電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564567186!6m8!1m7!1s8IQ0DD5T-YKqTgePT-TPLQ!2m2!1d3.539932888470982!2d102.0928046091981!3f17.471583236058166!4f-11.74325435836623!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564489299!6m8!1m7!1sOqmiq8rtdUFauyLI3S0ZCg!2m2!1d3.894569593205817!2d101.8966010963362!3f152.40725002372795!4f-13.150668822083759!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
+<p>By Ardeka Balian Aga Fo…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=56022236">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -54,7 +55,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683171861035!6m8!1m7!1sYEoHd0EO8M2UlwN_edGegA!2m2!1d3.736140628903989!2d113.780365519882!3f301.0765270440488!4f-12.8065474911877!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683171861035!6m8!1m7!1sYEoHd0EO8M2UlwN_edGegA!2m2!1d3.736140628903989!2d113.780365519882!3f301.0765270440488!4f-12.8065474911877!5f3.325193203789971" width="575" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% lb 50 small %}}
@@ -63,12 +64,22 @@ sc: [
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
+{{% notice tip %}}
+アスファルトの道路が多くコンクリート道路が少ない。{{% goto "../thai/" "タイ" %}}・{{% goto "../philippines/" "フィリピン" %}}はコンクリートが多く{{% goto "../indonesia/" "インドネシア" %}}もたまにコンクリートがある。マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./road-surface.png" width="90%">
+<div class="googlemap-if unclickable">
+<img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" />
+<img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" />
+</div>
+</div>
+
 
 {{% notice tip %}}
 マレーシアの石油及びガスの供給を行う大手国営企業ペトロナスが運営するペトロナス・ガス（Petronas Gas Bhd）があり看板に場所が書いてある{{% ref "https://www.petronas.com/pgb/" "PETRONAS Gas Berhad (PGB)" %}}。以下の例は{{% goto "https://goo.gl/maps/uwDiMQXYg3BihAjSA" "Lundu" %}}のガソリンスタンド。ペトロ🍆。
 {{% /notice %}}
-
-
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/billygabriel/5372224046/in/photolist-9bJ43w-8QpZKL-9bEzdg-nvL2xS-bUgAbT-2mE8sjh-fFKs4Q-2mE44z8-RUaAcE-8uFLKU-bVcaJ4-PNvA1o-R15Md1-ccz1kq-2mYYVcq-nEiFFQ-nEiF6m-nJ8Miz-ccyAPA-2mE5bwz-bVcDNz-A4v46-ABPw3d-2jAjDCf-5CnER3-cbgDSy-SWMWF1-5FLWJU-6M2N3M-6M2Rz6-6M2PzF-PkiP4-5FLWJW-RUayRU-ecEScJ-p5s4es-SWMY8Q-ccA7Tu-8t4eri-2e6Ddew-NgZr15-5FS3JF-2kA1huM-Bzm6yx-21rD6FW-V9Z17Z-Nkdag4-2dNGFdZ-8t7c9m-2mE44jd" title="Petronas Gas station"><img src="https://live.staticflickr.com/5003/5372224046_a878d9b0a2_z.jpg" width="640" height="480" alt="Petronas Gas station"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -109,7 +120,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-32.png" width="70%"/>
+<img src="2023-05-11-14-03-32.png" width="90%"/>
 </div>
 
 {{% notice tip %}}
@@ -124,7 +135,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-53.png" width="70%"/>
+<img src="2023-05-11-14-03-53.png" width="90%"/>
 </div>
 
 {{% notice tip %}}
