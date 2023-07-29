@@ -37,17 +37,16 @@ sc: [
 {{% notice tip %}}
 溶岩によって作成された地形であり土が黒く針状の草のみが自生する。不規則に川や湿地がある。川岸がまっすぐな川はほぼ無い。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046894334!6m8!1m7!1sRzTciVgx26gnHPgfNmPCOQ!2m2!1d65.4814547383635!2d-20.44760663786336!3f332.34064822768033!4f-11.309445519364033!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046715413!6m8!1m7!1s15ngz1DaHwg6Fxgz_Sn9rg!2m2!1d65.03385533950039!2d-14.60018371978511!3f267.4992336347642!4f-10.343061182729315!5f1.5162039588915905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./iceland-road.png" width="95%">
 </div>
 
 
 {{% notice tip %}}
 <span class="quiz">黄色</span>のボラードがある
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/ramona_muntean/32694619890/in/photolist-RP7tqW-XcZHVq-iucKap-Ydw2Cz-DBUi4Q-2ccSLp5-wevh6J-RGga47-ogApam-ZWzscu-7dQDcK-ab449P-C1vXZk-2b3azZJ-JdNHrR-JWbsNs-VLqCzo-Xxd4Tb-21EEaBi-MHq6HL-fLdJ8N-872WjC-28Czfvb-21C3Nqh-2citSLd-XXqtKJ-23rsMVh-26K66oy-M7UE3f-dmd8MQ-LRdoEu-ZGWuZU-vXxhFw-KVHymC-LNdnAb-29g5CeQ-MKqspm-2csK6Pd-2bPEBcT-jkzHKz-RpirUi-J66oJy-21kHhxo-LRzPek-KGQSUn-25uDKvV-RTvdjr-SxvLCf-76edeU-JwSxgi" title="On the road (Iceland)"><img src="https://live.staticflickr.com/2516/32694619890_183450c963_z.jpg" width="640" height="360" alt="On the road (Iceland)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./iceland-bollard.png" width="95%" alt="アイスランドのボラード" />
 </div>
 
 {{% notice tip %}}
