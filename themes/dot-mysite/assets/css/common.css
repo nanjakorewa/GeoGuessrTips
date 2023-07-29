@@ -1259,3 +1259,10 @@ div.no-margin p {
   margin: 0;
   padding: 0;
 }
+
+@media (max-width: 800px) {
+  p.mobile-noshow { display: none; }
+}
+@media (min-width: 800px) {
+  p.mobile-noshow { display: default; }
+}
