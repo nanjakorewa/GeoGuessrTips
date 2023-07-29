@@ -35,7 +35,7 @@ sc: [
         </li>
         <li>黒背景に白色の矢印のシェブロンがある</li>
         <li class="no-evidence">アルバニアでは<span class="quiz">貯水タンク</span>が屋根の上にあることが多い</li>
-        <li class="no-evidence">メルセデスベンツなどのドイツブランドの車の割合が高い</li>
+        <li class="no-evidence">メルセデスベンツなどのドイツブランドの車の割合が高い{{% ref "https://www.cardekho.com/india-car-news/heres-why-mercedesbenz-accounts-for-nearly-30-percent-of-total-vehicles-registered-in-albania-30499.htm" "Here’s Why Mercedes-Benz Accounts For Nearly 30 Percent Of Total Vehicles Registered In Albania" %}}</li>
     </ul>
     {{% rd europe albania verysmall %}}
 </div>
@@ -52,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。
+アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。また過去の歴史からアルバニアの車の1/3はメルセデス・ベンツになっている{{% ref "https://www.cardekho.com/india-car-news/heres-why-mercedesbenz-accounts-for-nearly-30-percent-of-total-vehicles-registered-in-albania-30499.htm" "Here’s Why Mercedes-Benz Accounts For Nearly 30 Percent Of Total Vehicles Registered In Albania" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

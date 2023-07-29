@@ -52,9 +52,9 @@ sc: [
 <br />
 
 {{% lb 50 %}}
-![](2023-04-12-12-06-06.png)
+![](2023-07-30-04-12-22.png)
 
-By ZElsb - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=107443706">Wikimedia Commons</a>
+Public Domain
 {{% /lb %}}
 
 {{% notice tip %}}
