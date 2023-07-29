@@ -32,29 +32,21 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}
-ボラードが<span class="quiz">赤色で塗られている</span>
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681502031975!6m8!1m7!1sYOKgISqcrXEMRhe-mijsIQ!2m2!1d-35.7113153978181!2d174.0286454241244!3f162.44117437861425!4f-16.704223171344054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681502073858!6m8!1m7!1sOXkmp_2TGUB7kwVWEuD9Uw!2m2!1d-35.71192710811605!2d174.0293495685181!3f104.94755113407975!4f-9.551590050925654!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
-ニュージーランドは国土の40%以上が牧草地。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある。{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}
+ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/zM7va5ddu2HANQgV6" "https://goo.gl/maps/Vo6Fg3yDTVFhosdKA" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681496656303!6m8!1m7!1sMvrvIoDgf11CwsP2DaMU2Q!2m2!1d-46.09596398009934!2d169.0981582589376!3f313.4346910719182!4f-2.991900285962771!5f2.693329635910985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681496740065!6m8!1m7!1szzBYVepmSyiWNjZxtaCA9Q!2m2!1d-44.80105926156972!2d170.8992445413041!3f220.44996479091063!4f4.697819777856196!5f1.878281294742738" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./nz-bollard.png" width="95%" >
 </div>
+
 
 {{% notice tip %}}
 電柱の上のほうにシルバーの何かが巻かれている。色が異なる時もある。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/dcysurfer/9769291354/in/photolist-fThaXQ-6JjaDX-hKZ3yv-osHuf9-6Ka9Yb-x5KHPq-x5M9Ws-6KF9hw-qQPaDB-hK2PXZ-sck8rC-hK1JWa-bjcmzi-2kWpJEn-oxghqg-5r9euK-hKZ4Yp-hKYmKf-hK2gvs-bLs7NV-hK2hgL-SgwxfB-3asFAA-q8vhFy-Qq2m9z-hK2gTS-EoVuzA-2kD8iPJ-2vSceT-hKYKWy-outiGm-9DMYvT-hK2P6P-pJ7FDp-381PEQ-ankD1-nnVFYk-4jKQBA-2itE7Gs-MUP3Dj-xh5PP6-7G2Cxg-6NVyDC-9DVQpy-6GMFEM-xhqs34-eeYHMz-9DSos5-pUTbZw-9DRV8d" title="mobile home"><img src="https://live.staticflickr.com/7354/9769291354_aecfbc9e8f_z.jpg" width="640" height="360" alt="mobile home"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./poles.png" width="90%"/>
 </div>
-
 
 {{% notice tip %}}
 GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
@@ -68,6 +60,13 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
 </div>
 
+{{% notice tip %}}
+ニュージーランドは国土の40%以上が牧草地。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある。{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681496656303!6m8!1m7!1sMvrvIoDgf11CwsP2DaMU2Q!2m2!1d-46.09596398009934!2d169.0981582589376!3f313.4346910719182!4f-2.991900285962771!5f2.693329635910985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681496740065!6m8!1m7!1szzBYVepmSyiWNjZxtaCA9Q!2m2!1d-44.80105926156972!2d170.8992445413041!3f220.44996479091063!4f4.697819777856196!5f1.878281294742738" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% tab "w-road" %}}
