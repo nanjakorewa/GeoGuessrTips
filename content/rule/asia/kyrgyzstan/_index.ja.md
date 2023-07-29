@@ -52,14 +52,21 @@ Google Carが特徴的、かつ周りが山がちで雪の時もある
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682022445489!6m8!1m7!1sC-mhk4-0_HfoO4jKDMc5UA!2m2!1d42.33284933078447!2d73.81670557177138!3f356.02701359632573!4f-89!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682022493009!6m8!1m7!1sKBMjWOzNvv8Lp7XEiPlZHA!2m2!1d42.33294198174527!2d73.81670216124844!3f359.6286987623686!4f-44.63954747174453!5f1.639202319937295" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
 
 
-{{% notice info %}}
-攻略動画
-{{% /notice %}}
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>動画を見る</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "攻略動画" %}}
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DXqa1V1vFDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
-
 {{% /tab %}}
 {{% /tabs %}}
