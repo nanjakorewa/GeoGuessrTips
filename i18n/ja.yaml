@@ -78,3 +78,5 @@
   translation: 国を間違えそうなポイント
 - id: show_mymemo_button
   translation: 個人用メモを表示
+- id: display_meaning
+  translation: アイコンの意味

@@ -76,3 +76,5 @@
   translation: Difficult place
 - id: show_mymemo_button
   translation: Display personal memo
+- id: display_meaning
+  translation: icon
