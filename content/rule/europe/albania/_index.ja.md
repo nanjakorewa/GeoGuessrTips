@@ -70,13 +70,16 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 {{% /lb %}}
 
 {{% notice tip %}}
-黒背景に白い矢印のシェブロンを使う。アルバニアに直接隣接している国ではギリシャも黒背景に白い矢印のシェブロンを使うことが多い{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+アルバニアの主要な貿易相手国のひとつである{{% goto "../italy/" "イタリア" %}}と共通点が多く、イタリアとほとんど同じ形の通り看板・ボラード・シェブロンを使っている{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。言語は明確に異なるので看板を見ればイタリアでないことは分かるはず。通りや大通りはイタリア語では「via・viale」だがアルバニア語では「rruga」。
 {{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./street-sign.png" width="90%" />
+</div>
 
 <div class="googlemap-if unclickable">
 <img src="./r/Road-sign-%CF%8075b.svg" width="120px">
 </div>
-
 
 {{% notice tip %}}
 カメラに亀裂が入っていることがある。
