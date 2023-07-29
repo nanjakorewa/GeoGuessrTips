@@ -57,6 +57,15 @@ sc: [
 </div>
 
 {{% notice tip %}}
+ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./romania-bollards.png" width="90%">
+</div>
+
+
+{{% notice tip %}}
 ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。左から順番に一番細い{{% goto "../poland/" "ポーランド" %}}、まあまあ太いと思われる{{% goto "../france/" "フランス" %}}、そしてルーマニア。
 {{% /notice %}}
 
@@ -165,3 +174,9 @@ sc: [
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+<li>By <a href="//commons.wikimedia.org/wiki/User:-wuppertaler" title="User:-wuppertaler">-wuppertaler</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=121271756">Link</a></li>
+<li>By <a href="//commons.wikimedia.org/wiki/User:Aisano" class="mw-redirect" title="User:Aisano">Aisano</a> - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=38136117">Link</a></li>
+<li>By <a href="//commons.wikimedia.org/wiki/User:AleXXw" title="User:AleXXw">AleXXw</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55018177">Link</a></li>
+{{% /imgref %}}
