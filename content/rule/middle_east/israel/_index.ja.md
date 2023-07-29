@@ -42,6 +42,10 @@ sc: [
 イスラエルのナンバープレートは<span class="quiz">黄色</span>のものが多い
 {{% /notice %}}
 
+<div class="googlemap-if unclickable">
+<img src="2023-07-30-03-02-13.png" width="95%">
+</div>
+
 {{% lb 50 %}}
 
 ![](2023-05-18-22-02-59.png)
