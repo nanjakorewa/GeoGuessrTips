@@ -96,8 +96,9 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
-        <li>標高が高いほどシンプルなレンガ造り、低い場所にはセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
-        <li>木が無くて、周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
+        <li>標高が低い場所は家の壁にセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
+        <li>標高が高いほどシンプルなレンガ造りが多い</li>
+        <li>木が無くて周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
     </ul>
 </div>
 
