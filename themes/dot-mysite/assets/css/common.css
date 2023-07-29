@@ -727,6 +727,7 @@ div.div-lb p {
   width:100%;
   overflow:hidden;
   text-overflow: ellipsis;
+  margin: 0;
 }
 
 div.div-lb p img:hover{

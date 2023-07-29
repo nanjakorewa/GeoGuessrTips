@@ -38,6 +38,11 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686408771771!6m8!1m7!1sdXwoDTwpfKlnDt50JtrbjA!2m2!1d54.0898233912842!2d-4.74449622545797!3f342.8958615801431!4f-13.305441297488485!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% lb 50 %}}
+![](2023-07-30-04-06-05.png)
+
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Lalpino&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Lalpino (page does not exist)">Lalpino</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=88521143">Link</a>
+{{% /lb %}}
 {{% notice tip %}}
 白色の停止線が見られるが{{% goto "../jersey/" "ジャージー島" %}}では<span class="quiz">黄</span>色で描かれている。
 {{% /notice %}}
