@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアと{{% goto "../croatia/" "クロアチア" %}}しかない。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアと{{% goto "../croatia/" "クロアチア" %}}のどちらかの可能性大。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
