@@ -70,6 +70,13 @@ sc: [
 <p>By <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
+{{% notice tip %}}
+<span class="quiz">円</span>形の電力計がある{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。また<span class="quiz">水</span>色のアンテナがある。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./house.png" width="90%">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
