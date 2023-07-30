@@ -62,8 +62,8 @@ SP・SSなどの道路番号と八角形のAの道路番号はイタリア特有
 ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686290445541!6m8!1m7!1sTkWVasKYvU3xFM8rGEQR8g!2m2!1d40.79212934353908!2d16.75382540674629!3f355.06020422260343!4f-31.081497714001436!5f2.7516268202064618" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./car.png" width="90%" alt="イタリアのナンバープレート例" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)
