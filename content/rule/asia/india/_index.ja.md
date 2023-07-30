@@ -26,7 +26,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.id</span></li>
+        <li>ドメインは<span class="quiz">.in</span></li>
         <li>言語は<span class="quiz">ヒンディー語など地域によって異なる</span></li>
         <li>特徴的な形の電柱が多い（{{% goto "#電柱の形" "インドの電柱" %}}）</li>
     </ul>

@@ -15,7 +15,7 @@ jogmec_detail: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domain is <span class="quiz">.id</span></li>
+        <li>Domain is <span class="quiz">.in</span></li>
         <li>Languages include <span class="quiz">Hindi, etc. (varies by region)</span>.</li>
     </ul>
     {{% rd asia india verysmall %}}
