@@ -36,11 +36,10 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">赤と白の縞</span>模様のボラード。橋の近くの道の両サイドにたくさん並んでいることが多い。
+<span class="quiz">赤と白の縞</span>模様のボラード。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680636634650!6m8!1m7!1sYI0Xa1atrX-Qn1k_ad0AkA!2m2!1d24.64427101999302!2d88.66719083664103!3f193.3258756997445!4f-28.379864056242432!5f2.9252105427836863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./bollards.png" width="90%" alt="バングラディシュのボラード" />
 </div>
 
 {{% notice tip %}}
@@ -153,3 +152,8 @@ Dhaka BankやDutch-Bangla Bankの看板があるとき、表裏のどちらか�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+{{% imgref %}}
+<li>By <a href="https://en.wikipedia.org/wiki/User:TawsifSalam" class="extiw" title="wikipedia:User:TawsifSalam">Mohammed Tawsif Salam</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=7990579">Link</a></li>
+{{% /imgref %}}
