@@ -26,6 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.lu</span></li>
         <li>ナンバープレートは前後が<span class="quiz">黄色</span></li>
         <li>ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない</li>
+        <li>看板にフランス語が併記されていることがある</li>
         <li class="no-evidence"><span class="quiz">黒</span>色の背景に<span class="quiz">黄</span>色のシェブロンが多い</li>
         <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える{{% goto "../../../architecture/houses/europe-1/#ルクセンブルグ" "家の見た目 > ルクセンブルグ" %}}</li>
     </ul>
