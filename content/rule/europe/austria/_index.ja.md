@@ -92,12 +92,11 @@ CC 表示-継承 3.0, 欧州連合のナンバープレート. (2022, November 1
 </div>
 
 {{% notice tip %}}
-標識の先頭にある数字の場所に飛んでみる。左なら23、右なら14。数字が小さいなら真ん中へ行ってみる。
+標識の先頭にある数字の場所に飛んでみる。左なら22、右なら1。数字が小さいなら真ん中へ行ってみる。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684552267989!6m8!1m7!1sY5tuMECD0Pv57yzMeQ41cw!2m2!1d48.14282552288263!2d16.2614027052338!3f340.4112081192979!4f14.179402179313868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684552314584!6m8!1m7!1sqVli53Ce0j9HyzaNa7pSlQ!2m2!1d48.2184028421123!2d16.24799151902054!3f157.35703030857397!4f-0.020192066234500317!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="wien-sign.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
