@@ -1256,9 +1256,9 @@ a.imgref-text {
   font-size: 0.8em;
 }
 
-div.no-margin p {
-  margin: 0;
-  padding: 0;
+div.no-margin p, div.no-margin a {
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
 @media (max-width: 800px) {
