@@ -113,6 +113,16 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 </div>
 
 
+{{% notice tip %}}
+左が<span class="quiz">ノルウェー</span>、右が<span class="quiz">スウェーデン</span>。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<img src="../sweden/road-2.png" width="90%">
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 {{% notice tip %}}

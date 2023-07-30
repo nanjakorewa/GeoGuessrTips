@@ -95,12 +95,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：<a href="https://goo.gl/maps/5PTmRrVGdskKPT44A">①</a>・<a href="https://goo.gl/maps/obpEjC4DxLNPgdMSA">②</a> - エストニアの例：<a href="https://goo.gl/maps/9qw7x5NHHR3mrELHA">①</a>・<a href="https://goo.gl/maps/H59sMJ9t6eADQuVFA">②</a>）。
+道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：<a href="https://goo.gl/maps/5PTmRrVGdskKPT44A">①</a>・<a href="https://goo.gl/maps/obpEjC4DxLNPgdMSA">②</a> - エストニアの例：<a href="https://goo.gl/maps/9qw7x5NHHR3mrELHA">①</a>・<a href="https://goo.gl/maps/H59sMJ9t6eADQuVFA">②</a>）。下の実例は左が<span class="quiz">ノルウェー</span>、右が<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="./road.png" width="90%">
 </div>
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-2.png" width="90%">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-building" %}}
