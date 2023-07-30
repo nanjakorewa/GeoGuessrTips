@@ -61,14 +61,14 @@ By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader,
 GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{% by %}}？ただし{{% goto "../../asia/russia/" "ロシア" %}}や{{% goto "../belgium/" "ベルギー" %}}にも赤い車がいるのと、アンテナが短いときもある気がするのでこの情報に依存しすぎないほうがいいかも。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-04-17-12-54-04.png" width="295px" style="height:300px;margin:0;" />
-<img src="2023-04-17-12-53-48.png" width="295px" style="height:300px;margin:0" />
+<img src="2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" />
+<img src="2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" />
 <div class="description-wide">
-左がウクライナ、右がロシアの一例（※Chrome開発者ツールから「Enumerate vision deficiencies」で表示設定を変えてます）。赤が認識しづらい人はほぼ参考にならない。
+左がウクライナ、右がロシアの一例（※Chrome開発者ツールから「Enumerate vision deficiencies」で表示設定を変えてます）。赤が認識しづらい人はほぼ参考にならないので他のヒントを探してみる。
 </div>
 </div>
 
