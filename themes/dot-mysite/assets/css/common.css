@@ -1267,3 +1267,9 @@ div.no-margin p {
 @media (min-width: 800px) {
   p.mobile-noshow { display: default; }
 }
+
+span.miss-text {
+  font-size: 0.5em;
+  margin-left: 0.5em;
+  color: #777;
+}

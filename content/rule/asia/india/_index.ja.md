@@ -26,8 +26,8 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.in</span></li>
-        <li>言語は<span class="quiz">ヒンディー語など地域によって異なる</span></li>
+        <li>ドメインは<span class="quiz">.in</span><span class="miss-text">(2023/7/31修正、コメントご指摘ありがとうございます)</span></li>
+        <li>言語は<span class="quiz">ヒンディー語など多数の言語が存在</span>し地域によって異なる</li>
         <li>特徴的な形の電柱が多い（{{% goto "#電柱の形" "インドの電柱" %}}）</li>
     </ul>
     {{% rd asia india verysmall %}}
