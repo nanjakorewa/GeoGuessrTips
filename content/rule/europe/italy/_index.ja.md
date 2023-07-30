@@ -40,12 +40,21 @@ sc: [
 
 
 {{% notice tip %}}
-上が黒い▼の形のボラード
+上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/DuSPdfP9aiSWEUCf7" "https://goo.gl/maps/KcqbxFgEQUNsGSrr9" %}}。{{% goto "../albania/" "アルバニア" %}}にも似た形のボラードが見つかる。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684781847387!6m8!1m7!1sg2a_sg1xtv-pZml_SnE_3g!2m2!1d42.38315303134821!2d11.95336231066084!3f285.1041020936369!4f-18.86543346022023!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684781887459!6m8!1m7!1s49jdsi_z0BbIXHlL2ELTzQ!2m2!1d42.38323591985135!2d11.95323039171786!3f153.31535718862642!4f-11.278665653244673!5f3.0385414622584728" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="googlemap-if unclickable">
+<img src="./bollard.png" width="90%" alt="イタリアのボラード" />
+</div>
+
+{{% notice tip %}}
+SP・SSなどの道路番号と八角形のAの道路番号はイタリア特有。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable">
+<img src="./road-sign.png" width="90%" alt="イタリアの高速道路標識" />
 </div>
 
 {{% notice tip %}}
