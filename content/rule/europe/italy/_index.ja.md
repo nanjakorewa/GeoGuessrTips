@@ -31,6 +31,7 @@ sc: [
         <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
         <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
         <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
+        <li>シェブロンは{{% goto "../albania/" "アルバニア" %}}と同じく<span class="quiz">黒</span>背景に白矢印が多い</li>
     </ul>
     {{% rd europe italy small %}}
 </div>
