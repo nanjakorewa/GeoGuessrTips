@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "UA.svg"
 jetro_detail: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../asia/russia/", "ロシア"],
@@ -22,7 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ua</span></li>
         <li>横断歩道の標識は<span class="quiz">3本</span></li>
         <li>GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも？{{% by %}}</li>
-        <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い。逆にёはロシア語にはあるがウクライナ語にはない。</li>
+        <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い</li>
         <li>ナンバープレートの左が<span class="quiz">水色と黄色</span></li>
     </ul>
     {{% rd europe ukraine verysmall %}}
@@ -33,7 +34,7 @@ sc: [
 
 
 {{% notice tip %}}
-<span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。
+<span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるが{{% goto "../../asia/russia/" "ロシア"  %}}語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682127124387!6m8!1m7!1s7phCvKMFQkaP4MP4h-ZgqA!2m2!1d50.43962636201115!2d30.35756628098528!3f15.13235220885578!4f20.804524714932057!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -58,7 +59,7 @@ By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader,
 {{% /lb %}}
 
 {{% notice tip %}}
-GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも{{% by %}}？ただしロシアやベルギーなどにも赤い車がいるのと、アンテナが短いときもある気がするのでこの情報に依存しすぎないほうがいいかも。
+GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{% by %}}？ただし{{% goto "../../asia/russia/" "ロシア" %}}や{{% goto "../belgium/" "ベルギー" %}}にも赤い車がいるのと、アンテナが短いときもある気がするのでこの情報に依存しすぎないほうがいいかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
