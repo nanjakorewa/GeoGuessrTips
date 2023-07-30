@@ -16,6 +16,7 @@ sc: [
     ["../uruguay/", "ウルグアイ"],
     ["../chile/", "チリ"],
     ["../brazil/", "ブラジル"],
+    ["../peru/", "ペルー"],
     ]
 ---
 
@@ -63,6 +64,14 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 <div class="googlemap-if unclickable">
 <img src="./r/road-sign.png" width="170px">
 </div>
+
+{{% notice tip %}}
+南米でGoogle Carが<span class="quiz">黒</span>色なのはアルゼンチン・{{% goto "../uruguay/" "ウルグアイ" %}}・{{% goto "../peru/" "ペルー" %}}が多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690704372717!6m8!1m7!1s1hpbawvlNEnp5cZVoWQckw!2m2!1d-49.63118633707697!2d-69.44449948838371!3f120.31252016988394!4f-31.67891953122966!5f2.8590369400489437" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
