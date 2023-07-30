@@ -37,7 +37,7 @@ sc: [
 <span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるが{{% goto "../../asia/russia/" "ロシア"  %}}語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682127124387!6m8!1m7!1s7phCvKMFQkaP4MP4h-ZgqA!2m2!1d50.43962636201115!2d30.35756628098528!3f15.13235220885578!4f20.804524714932057!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/in/photolist-8yiWpr-ZzBSxm-bPno8B-EosEkc-8phymC-eQjoqy-Eo88JS-YY3xER-6GupeL-nGkTSB-LP76A1-XqcWu9-25Bus3S-WG7FPr-7rgyWR-nrHHme-ZddSSR-WP71Pe-WKyGA1-oJpiHZ-Rx8fKy-24itCXC-8Z74Jn-fNHsYY-SJGfFN-nbkKXq-aAJGa-6MctQE-g8UGyf-XqTrZk-79wLF9-JgBKbn-kXZRMe-2a7EjRy-23a4FWD-29prkMd-7X1cm9-Q9r6Dk-gTe1t9-g9Z35c-VBd9vT-7E6bC-4YZVc-VuEBNC-9DCkrX-nLQxTZ-qncFYw-282CSjQ-Gc6t94-ftbZ16" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Kiev/Ukraine (09/2010)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -46,9 +46,8 @@ sc: [
 ナンバープレートの左が<span class="quiz">水色と黄色</span>になっているものが多いがモザイクが強いと視認が難しい。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681805615936!6m8!1m7!1syoj7DiLCVVq1Vzrt3NugAw!2m2!1d49.55090212512901!2d25.59325705332986!3f43.186933268865374!4f-18.120414923058107!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681805639737!6m8!1m7!1syoj7DiLCVVq1Vzrt3NugAw!2m2!1d49.55090212512901!2d25.59325705332986!3f332.3586578080156!4f-19.063004617122957!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="2023-07-30-18-58-19.png" width="95%" />
 </div>
 
 {{% lb 50 %}}
@@ -87,3 +86,26 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>北部及び西部は<span class="quiz">冷帯湿潤大陸性気候（Dfb）</span>で比較的降水量が多く，南東部は<span class="quiz">乾燥したステップ気候（BS）</span>。そのため北西部ほど木の密度が高く木の背も高い。南東部ほど畑が多く木の密度も薄く背も低いイメージ{{% ref "https://www.ua.emb-japan.go.jp/jpn/info_ua/overview/1general.html" "在ウクライナ日本国大使館 - ウクライナ情報＞ ウクライナ概観" %}}。</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "気候の違い" %}}
+
+{{% notice tip %}}
+北と南の道路。ただし北でも木があまり生えてない場所もある。町の中だと正直違いは判らなかった。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690710477346!6m8!1m7!1shhb-KAgb4Ris5LhVZpn34Q!2m2!1d51.29377393912948!2d26.80427695640606!3f121.7882933483822!4f2.9500286648700325!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690710532220!6m8!1m7!1su9dCNzhy3SgGgw8v5_e0Ag!2m2!1d46.9045723925484!2d31.46296796845545!3f203.70834828386205!4f3.210290488874108!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
