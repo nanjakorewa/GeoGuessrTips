@@ -26,7 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.be</span></li>
         <li>レンガで作られた建築物が多い</li>
         <li>ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}</li>
-        <li>白い棒に<span class="quiz">黄</span>色の長方形の反射板があるボラード</li>
+        <li><span class="quiz">白</span>い棒に黄色の長方形の反射板があるボラード</li>
     </ul>
     {{% rd europe belgium verysmall %}}
 </div>
@@ -64,6 +64,13 @@ sc: [
 <img src="2023-06-15-00-30-33.png" width="200px">
 </div>
 
+
+{{% notice tip %}}
+<span class="quiz">白</span>いシンプルなボラード
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Heerweg.jpg#/media/File:Heerweg.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Heerweg.jpg" alt="Heerweg.jpg" width="90%"></a></p><p>By <a href="https://nl.wikipedia.org/wiki/User:Paul_Hermans" class="extiw" title="nl:User:Paul Hermans">Paul Hermans</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1807458">Link</a></p>
+</div>
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}
