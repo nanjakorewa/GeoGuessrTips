@@ -16,7 +16,6 @@ flag: "JP.svg"
     <ul class="rule-list">
                 <li><span class="quiz">ススキ</span>が多い{{% ref "https://www.city.fukuoka.lg.jp/data/open/cnt/3/65125/1/H30sizenmatome.pdf?20210628182402" "福岡市の自然-山編-" %}}</li>
                 <li>熊本の標識には赤いテープが巻いてある</li>
-                <li>宮崎の標識には黄色いテープが巻いてある</li>
                 <li class="no-evidence" style="opacity:0.4">路面の『止まれ』の文字の『れ』の縦棒が他の地域と長さが違う？</li>
     </ul>
 </div>
