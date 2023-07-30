@@ -36,8 +36,8 @@ sc: [
 {{% notice tip %}}
 後ろのナンバープレートは<span class="quiz">右側が黄色</span>
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/skateboy075/15721632063/in/photolist-pXgttM-9rRX7F-2o7Da8s-2hB4vuV-V98gib-Dsvxo7-JAvJRi-27apmrJ-2nB6Tz1-2jiF9yy-XbRNau-5Vn7in-2d3R7zA-zcG3Sj-2mkMWA1-2htQJiV-23XQ3ym-2jgcbqs-5vpY63-2n1Z1bB-2nStz51-2nusnn7-FBktfd-2hB4vtT-H92Z86-vNArwW-2ntceEJ-2nZtLEm-2mj5deM-E2eQgr-2aNPngq-2nvuLpc-2fYmpmD-2jGSiun-2iRk4X4-2m88kpe-2eVt9vt-2nAhJVG-2iTpjPP-2jqv3zv-Kgewku-29UhgQM-2jGP1ya-2ed9Lz6-Li62nf-xuxELC-H9SWhu-JtTodw-2nG5y6w-2kAFWop" title="2401 - ponta delgada, portugal"><img src="https://live.staticflickr.com/8592/15721632063_efcfcd707c_z.jpg" width="90%" alt="2401 - ponta delgada, portugal"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./car.jpg" width="90%" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-00-36.png)
@@ -54,7 +54,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ（{{% goto "https://goo.gl/maps/Bnh3aPP8joznfXTb9" "1" ex %}}）。ほかはアイスランド・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}</span>・{{% goto "../norway/" "ノルウェー" %}}・<span class="quiz">{{% goto "../finland/" "フィンランド" %}}</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ（{{% goto "https://goo.gl/maps/Bnh3aPP8joznfXTb9" "1" ex %}}）。ほかはアイスランド・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
@@ -63,8 +63,8 @@ sc: [
 {{% notice tip %}}
 古い石畳の道があったり歩道が石畳だったりする（{{% goto "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "1" ex%}}{{% goto "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" ex %}}{{% goto "https://goo.gl/maps/ncWNxF3cF7evXUNW8" "3" ex %}}）。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sizun_eye/29113284957/in/photolist-LmDcjV-2ikbkHB-2kR1Thm-2na14J1-2meKp1f-DiToFK-2acCiAb-22d8v17-TsMJ1V-L8sKt-2g5yR4B-2ikdPaV-dtADFE-L8dnU-TB2ciQ-2ip8Z33-2opZAtD-LLUWPB-2kfGidD-CrZ36H-2kssHgv-2m8TQAy-fc792E-JKi2hx-2d4VhHN-L8diQ-Myge4-2m6iXc-2maEkY-Tqmj9u-RjqNFA-2kvKxeu-2ns4nhN-2m6iKZ-2o5xhR4-L8dty-vd2wGk-2d5JtsG-L8dos-5Lh2Rt-2knQgpr-L8daY-L8sQD-2nBA2nu-VAU7qB-9VbNoH-L8ddE-2nD53z4-L8dc1-2kpGGJ2" title="Old street"><img src="https://live.staticflickr.com/1811/29113284957_57b7ae31bd_z.jpg" width="640" height="440" alt="Old street"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./street.png" width="90%">
 </div>
 
 

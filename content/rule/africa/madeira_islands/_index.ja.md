@@ -48,12 +48,11 @@ sc: [
 
 
 {{% notice tip %}}
-橋の欄干や道の柵がコンクリート製{{% ex "https://goo.gl/maps/88uj9a5MpYrr6RyV6" %}}。
+橋の欄干や道の柵がコンクリート製で白いブロックが乗っている{{% ex "https://goo.gl/maps/88uj9a5MpYrr6RyV6" "https://goo.gl/maps/6xjAAiUsv8iJd9DR8" "https://goo.gl/maps/3Lak7jmVyja7YouT6" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688634784805!6m8!1m7!1sA6xk1FbQOLx__reFFnTxjg!2m2!1d32.69980063989387!2d-16.83963915254297!3f94.33555976725812!4f-34.50823924429391!5f1.5345647851442772" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688634706553!6m8!1m7!1sag9YWP69_cWKwj-spE_21g!2m2!1d32.81347317321428!2d-17.07250692519493!3f356.46293422061945!4f-4.100461639281633!5f0.7402106321190973" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./road.png" width="95%">
 </div>
 
 
