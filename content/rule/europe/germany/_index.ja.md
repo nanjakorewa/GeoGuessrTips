@@ -26,6 +26,7 @@ sc: [
         <li>バスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある</li>
         <li>有限会社という意味の『GmbH』が看板に書かれているときがある</li>
         <li>四角いモザイクが多く第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
+        <li class="no-evidence">番号が書かれた白いプレートや黒いQRコードが書かれたプレートが木製の電柱に多く付いている</li>
     </ul>
     {{% rd europe germany verysmall %}}
 </div>
@@ -81,6 +82,17 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="Aral.jpg" width="90%">
 </div>
+
+{{% notice tip %}}
+番号が書かれた白いプレートや黒いQRコードが書かれたプレートが木製の電柱に多く付いている{{% ex "https://goo.gl/maps/HCDxPEw2JVAbqQ5dA" "https://goo.gl/maps/uiMGX52jddHQddyT6" "https://goo.gl/maps/yRaoDQGYirVFiMAP9" "https://goo.gl/maps/pyDSPCRMaYwdVy3j8" "https://goo.gl/maps/YnW51dEjnmbKtTFy9" "https://goo.gl/maps/HMhBQZ4xoXG1KbpD6" "https://goo.gl/maps/wDBbY3NPDJdD1pPN7" %}}のを良く見かける{{% imref %}}。数字の色がはがれていることがある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./up.png" width="90%">
+</div>
+
+
+
 
 {{% /tab %}}
 {{% tab "w-viecle" %}}
@@ -171,3 +183,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+<li>右側の電柱画像の出典：By <a href="//commons.wikimedia.org/w/index.php?title=User:Ralf_Krebs&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Ralf Krebs (page does not exist)">Ralf Krebs</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=124966897">Link</a></li>
+{{% /imgref %}}
