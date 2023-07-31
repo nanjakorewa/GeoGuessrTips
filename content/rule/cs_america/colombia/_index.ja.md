@@ -124,6 +124,11 @@ sc: [
 {{% tab "ボラード" %}}
 {{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
 <div class="googlemap-if unclickable">
 <img src="./r/bollard.png" width="70px">
 </div>
