@@ -42,8 +42,8 @@ sc: [
 ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>。宅配業者のバンなどがこの色になっていることが多い。横断歩道の標識は<span class="quiz">4本（たまに5本のものもある）</span>。道端にスノーポールもある。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681604690032!6m8!1m7!1snz4gKFQvCaRqbRezA2YfEg!2m2!1d58.44621906235802!2d8.741068899004842!3f265.26530061280164!4f-2.732571012207103!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./car.png" width="90%" alt="ノルウェーのガソリンスタンド">
 </div>
 
 {{% lb 50 %}}

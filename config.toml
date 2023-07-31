@@ -19,9 +19,9 @@ unsafe = true
 [params]
 # update
 update_message = "最近の更新"
-update_date = "2023/07/28"
-page_title = "リトアニア"
-page_link = "https://geopinning.space/rule/europe/baltic-state/lithuania/"
+update_date = "2023/07/30"
+page_title = "ノルウェー"
+page_link = "https://geopinning.space/rule/europe/norway/"
 
 # logo is for all page
 logo = ""
