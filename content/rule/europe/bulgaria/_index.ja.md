@@ -46,7 +46,7 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多く、みんな煙突がついている。{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある。
+{{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多く、みんな煙突がついている。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -61,11 +61,10 @@ sc: [
 <img src="2023-07-23-10-23-12.png" width="310px"/>
 </div>
 
-{{% notice tip %}}電柱に黄色いペイントがありそこにキリル文字が書いてある。
+{{% notice tip %}}電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の" %}}。{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% by "niwaisound" "twitch"  %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687584319063!6m8!1m7!1sRhAYtm6G-kd8hreCNW-_mA!2m2!1d41.90738061112708!2d25.6307618487015!3f227.57872876235513!4f-9.868909946670044!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687583950010!6m8!1m7!1siUSwmqHJgMzp16O9-pXUJA!2m2!1d43.69999984811523!2d28.02531801299698!3f356.64185124483834!4f-6.210186520311055!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./bulgaria-road.png" width="90%">
 </div>
 
 {{% notice tip %}}「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}
@@ -96,14 +95,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682023318612!6m8!1m7!1s84EatgUD0lwZGQzlxBiPNA!2m2!1d42.59806937010458!2d27.35791417684463!3f323.02484627831154!4f-10.720130413835022!5f3.3140585619383063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "電柱" %}}
-{{% notice tip %}}
-{{% goto "../latvia/" "ラトビア" %}}にありそうな電柱の形{{% by "niwaisound" "twitch"  %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685686910810!6m8!1m7!1shexgeXnetxnr4JyPRjDooA!2m2!1d41.5752929120124!2d23.72656361007507!3f145.48466580573879!4f28.782738965011276!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "標識" %}}
 {{% notice tip %}}なんか後ろに赤●のシールがある地域がある
 {{% /notice %}}
@@ -113,3 +104,8 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+<li>By <a href="//commons.wikimedia.org/wiki/User:Edal" title="User:Edal">Edal Anton Lefterov</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15140198">Link</a></li>
+<li>By Vislupus - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=77437940</li>
+{{% /imgref %}}
