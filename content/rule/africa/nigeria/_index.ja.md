@@ -25,7 +25,7 @@ sc: [
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.ng</span></li>
         <li><span class="quiz">黄色</span>の小型タクシーが町を走っている</li>
-        <li><span class="quiz">パトカー</span>が付いてくることが多くランプを見ると地域もわかる{{% by %}}</li>
+        <li><span class="quiz">パトカー</span>が付いてくることが多い{{% by %}}</li>
         <li>GoogleCarのバーに<span class="quiz">黒と黄色</span>の縞模様がある時がある{{% by %}}</li>
         <li>セブンアップが人気{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}</li>
     </ul>
@@ -87,13 +87,8 @@ sc: [
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(USDA)</a>・マップのサイズが一致するように一部画像加工あり</li>
             </ul>
         </li>
-        <li>パトカーの赤青の位置で地域を絞り込める{{% by %}}。しかし100%ではないように思うので周りの景色も見て判断する。
-            <ul>
-                <li>内陸側・アブジャ周辺地域は赤色のランプが<span class="quiz">左側</span>にある</li>
-                <li>海沿いの地域は赤色のランプが<span class="quiz">右側</span>にある</li>
-            </ul>
-        </li>
-        <li>通り名の看板の色などで地域を絞り込める{{% by %}}</li>
+        <li>通り名の看板で地域を絞り込める{{% by %}}</li>
+        <li class="no-evidence">パトカーのランプの色で地域を絞り込める{{% by %}}らしいが確度は高くないように思う。周りの景色を信用した方がいいかも。</li>
     </ul>
 </div>
 
@@ -133,22 +128,6 @@ sc: [
 {{% notice tip %}}
 中央から北部にかけて多いが海沿い以外はどこでも存在する可能性あり
 {{% /notice %}}
-{{% /tab %}}
-{{% tab "パトカー" %}}
-
-{{% notice tip %}}
-内陸側・アブジャ周辺地域は赤色のランプが<span class="quiz">左側</span>にある
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854604578!6m8!1m7!1sIbtn_hh28I3seC5VOCXAow!2m2!1d6.461801928976917!2d7.492853186719853!3f112.06265632990616!4f-1.4060578138013966!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-海沿いの地域は赤色のランプが<span class="quiz">右側</span>にある
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854692183!6m8!1m7!1sOUR2680RCbRRcDeWV5XoNQ!2m2!1d6.555013827268335!2d3.354199058602835!3f233.21468368134293!4f-16.002231117022035!5f2.3386167093053194" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% /tabs %}}
 
