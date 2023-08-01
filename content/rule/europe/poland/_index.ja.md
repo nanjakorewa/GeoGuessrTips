@@ -67,6 +67,10 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
+<img src="poland-bollards.png" width="95%">
+</div>
+
+<div class="googlemap-if unclickable">
 <img src="./b1.svg" width="30px" style="margin-right:30px">
 <img src="./b2.svg" width="30px" style="margin-left:30px">
 </div>
