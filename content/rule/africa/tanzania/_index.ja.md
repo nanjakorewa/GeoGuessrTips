@@ -25,6 +25,7 @@ sc: [
         <li>ドメインは<span class="quiz">.tz</span></li>
         <li>ナンバープレートは<span class="quiz">赤色</span></li>
         <li>ゴンベ渓流国立公園付近とそれ以外にところどころストリートビューがある</li>
+        <li>タンザニアと{{% goto "../../europe/gibraltar/" "ジブラルタル" %}}以外では猿はほとんど見かけない</li>
     </ul>
 </div>
 
