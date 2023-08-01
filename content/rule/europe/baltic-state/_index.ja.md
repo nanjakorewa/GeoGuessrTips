@@ -12,6 +12,19 @@ add_flagindex: True
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="Liothuania-Latvia-Estonia.png" width="90%" alt="Geoguessrでのバルト三国の見分け方" />
+</div>
+
+
+<div class="main-desciption country-description">
+    <h4>左から<span class="quiz">リトアニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">エストニア</span></h4>
+    <ul class="rule-list">
+        <li><span class="quiz">リトアニア</span>：オレンジのボラード・斜めの距離看板・縁のあるシェブロン</li>
+        <li><span class="quiz">ラトビア</span>：縁のないシェブロン・道路に平行な距離看板・「ī」の文字</li>
+        <li><span class="quiz">エストニア</span>：縁のない速度制限の看板</li>
+    </ul>
+</div>
 
 ## 共通であるもの
 

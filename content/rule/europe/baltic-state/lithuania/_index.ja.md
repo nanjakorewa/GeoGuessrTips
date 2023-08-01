@@ -69,13 +69,6 @@ sc: [
 <img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
 </div>
 
-{{% notice tip %}}
-電柱の形。上に鳥が巣を作れるような網が付いているタイプもある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682138253548!6m8!1m7!1sNHOzDYUUQiKWwkHJ9xSQbQ!2m2!1d55.58854106587684!2d26.5763660164371!3f196.77812147844165!4f25.487494572591473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682138686422!6m8!1m7!1sbpVYm1v6Af9ERWZb9qUH2Q!2m2!1d54.46618619488959!2d22.91992489201201!3f292.5696348997516!4f20.75041524949897!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
 シェブロンの色や枠がバルト三国で異なる。下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}。
@@ -86,6 +79,15 @@ sc: [
 <img src="../lithuania/r/ar.png" width="120px" class="margin-ten-px" />
 </div>
 
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+電柱の形。上に鳥が巣を作れるような網が付いているタイプもある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682138253548!6m8!1m7!1sNHOzDYUUQiKWwkHJ9xSQbQ!2m2!1d55.58854106587684!2d26.5763660164371!3f196.77812147844165!4f25.487494572591473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682138686422!6m8!1m7!1sbpVYm1v6Af9ERWZb9qUH2Q!2m2!1d54.46618619488959!2d22.91992489201201!3f292.5696348997516!4f20.75041524949897!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "土の色" %}}
 <div class="googlemap-if">

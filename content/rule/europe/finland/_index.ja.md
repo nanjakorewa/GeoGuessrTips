@@ -116,6 +116,10 @@ additional_link:
 <img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
 </div>
 
+<div class="googlemap-if unclickable no-margin">
+<img src="road.png" width="90%" />
+</div>
+
 
 {{% notice tip %}}
 フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。

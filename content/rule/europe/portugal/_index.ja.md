@@ -46,11 +46,10 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている。
+電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている{{% imref %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682929507919!6m8!1m7!1sTVpNv4zs7dn6M11pkdgWCg!2m2!1d38.96112490377647!2d-9.399873449321543!3f343.5869592963145!4f-3.0339231588508966!5f1.7427477115171373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683425090137!6m8!1m7!1s8k-VYpANM2QlvAtx4HP90w!2m2!1d38.71433818759672!2d-9.347199393823699!3f87.889930860484!4f5.943048382495704!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./up.png" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -94,3 +93,10 @@ sc: [
         <li>ナンバー・電柱・標識などがほぼ同じの離島である{{% goto "../../africa/madeira_islands/" "マデイラ諸島" %}}と{{% goto "../azores/" "アゾレス諸島" %}}がある</li>
     </ul>
 </div>
+
+{{% imgref %}}
+<li>同一作者によるEN 247 roadの写真、加工あり<li>
+<li>By <a href="//commons.wikimedia.org/w/index.php?title=User:R%C3%BAdisicyon&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Rúdisicyon (page does not exist)">Rúdisicyon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=75659957">Link</a></li>
+<li>By <a href="//commons.wikimedia.org/w/index.php?title=User:R%C3%BAdisicyon&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Rúdisicyon (page does not exist)">Rúdisicyon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=75659958">Link</a></li>
+<li>By <a href="//commons.wikimedia.org/w/index.php?title=User:R%C3%BAdisicyon&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Rúdisicyon (page does not exist)">Rúdisicyon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=75635277">Link</a></li>
+{{% /imgref %}}
