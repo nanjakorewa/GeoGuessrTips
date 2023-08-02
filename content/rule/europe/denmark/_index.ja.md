@@ -38,11 +38,11 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Allux（Odenseの会社のブランド）のポストが一般的、おしゃれで丸いふた。
+デンマークのOdenseにある会社のAlluxというブランドのポストが一般的、おしゃれで丸いふた{{% ex "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680252240556!6m8!1m7!1scMJfq4o9Ennx-m4FxWtSog!2m2!1d55.7974925144466!2d12.48796560612066!3f333.61169084784046!4f-15.085593531181473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680252388775!6m8!1m7!1scSwGPs87GXQJTxq-z22WFw!2m2!1d55.79752284606685!2d12.48811557848189!3f111.40579599018069!4f-12.380030948961917!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/135489065@N08/20511021461/" title="Mailbox 98a"><img src="https://live.staticflickr.com/265/20511021461_3f577b8a1b_n.jpg" width="240" height="320" alt="Mailbox 98a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tvis/38264653191/in/photolist-21ijmgR-76yRys-Esd99K-P3MGR5-cvim2N-4waJor-df8UaR-6QpGBa-b6wR62-56BUVu-56xKsz-wjEax-4Q21e5-8tyZaa-5BJ3BZ-9YqUJt-a1r9NP-21RusW3-7tC7Ea-XLPvf-TwHxwQ-MD8a2i-o2Wz-suYq7a-WtAywK-2ij1i4s-XtbMNy-6Txh26-7LZqE6-222SZHs-24J5AK5-2375rkF-e4oxAT-Yf4siA-2QL43V-exS1Vo-EPb47T-xM3yF-7jPoVp-J71wA-24J5DDG-4Jr9Xa-2375tsr-6SZATy-KLTMm-9iopHe-bCbnte-8woqgm-hMsDkW-KTvM3G" title="Mailbox - Danish standard"><img src="https://live.staticflickr.com/4549/38264653191_8d6686645a_n.jpg" width="290" height="320" alt="Mailbox - Danish standard"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -93,16 +93,22 @@ public domain
     <ul class="rule-list">
         <li>地域ごとに明確な違いがあるのか正直わからない</li>
         <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
-    </ul>
-</div>
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-        <li>レス島{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "Læsø" %}}という離島がある</li>
+        <li>ボーンホルム島の看板は『Nexø』か『Rønne』までの距離が書かれているケースが多い{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
+        <li>レス島という離島がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}</li>
     </ul>
 </div>
 {{% tabs %}}
+{{% tab "ボーンホルム島" %}}
+
+{{% notice tip %}}
+『Nexø』と『Rønne』のどちらかが書いてある看板がほとんど。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691005725372!6m8!1m7!1strmPFlCuFC45oLK3wHu6Yw!2m2!1d55.07397758171165!2d14.92096067249546!3f41.08030279379204!4f-10.843329437286414!5f3.0113340896155862" width="600" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "レス島の伝統的な木造建築" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685715672800!6m8!1m7!1sk7YWZkBYx1AzkLEjDoGVMg!2m2!1d57.26311626119966!2d11.03311029395011!3f281.53783425047243!4f0.3680693973414719!5f1.4939587085738273" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
