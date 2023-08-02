@@ -31,7 +31,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-道の片側・両側に低い石壁があることが多く、赤い土が多い。
+道の片側・両側に低い石壁があることが多く{{% ex "https://goo.gl/maps/e1RimpMxwcjmQqur7" "https://goo.gl/maps/n6WVz6Wz1z6uwVuE9" "https://goo.gl/maps/SByeiBeevimNzo5y8" "https://goo.gl/maps/NzjnMLeQjAV4RJwc9" %}}、赤い土が多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684725860793!6m8!1m7!1s79w0l5tfgFUVkBipMSUOWQ!2m2!1d39.38366676959773!2d3.088187420240456!3f36.96903601419408!4f-12.040924665143763!5f1.535386027491259" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
