@@ -22,6 +22,7 @@ sc: [
         <li>Kandylakiaと呼ばれる<span class="quiz">小さなチャペルのようなモニュメント</span>が道端に多くある{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}</li>
         <li>警告看板が<span class="quiz">オレンジ</span>背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
         <li>電柱が<span class="quiz">木</span>でできていることが多い</li>
+        <li><span class="quiz">白黒</span>のシェブロンが多い</li>
     </ul>
     {{% rd europe greece small %}}
 </div>
@@ -37,11 +38,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
+Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある{{% ex "https://goo.gl/maps/U9Rgfqc3egWGzzkQA" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681563099289!6m8!1m7!1soDMcLI8ZKM2Om3RBp7xkUQ!2m2!1d38.16139723115654!2d23.85667398650135!3f256.6425586591691!4f-13.401732960060997!5f3.305055387590511" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681563339026!6m8!1m7!1sNXesZKRLgCzcIB8wCp9-iA!2m2!1d37.51537911192707!2d22.33591622603271!3f37.508783116613245!4f-19.415190938025546!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg#/media/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg" alt="Proskynetarion on roadside of provincial Road Pilonas - Katavias on Rhodes 5 September 2017.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:PjotrMahh1&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:PjotrMahh1 (page does not exist)">Pjotr Mahhonin</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100208787">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -70,6 +70,24 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="googlemap-if unclickable">
 <img src="pole.png" width="95%" />
 </div>
+
+
+{{% notice tip %}}
+ギリシャは日差しが強い地域が多い影響で白い壁の建物が多い。屋根は赤褐色の色が多い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="house.png" width="95%" />
+</div>
+
+{{% notice tip %}}
+オリーブの木が多くある
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="olive.png" width="95%" />
+</div>
+
 
 {{% /tab %}}
 {{% tab "標識" %}}
