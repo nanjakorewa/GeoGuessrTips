@@ -57,11 +57,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業{{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}。
+<span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業{{% ex "https://goo.gl/maps/R7Ek9LtT8Tvia73X8" "https://goo.gl/maps/Pm8tQTMhCJFkCVxY7" "https://goo.gl/maps/3Y27t6nanUNVcadb7" "https://goo.gl/maps/UA9BDJE4QzBMjDfZ8" "https://goo.gl/maps/LQKAeDgaGDM4pck4A" %}}{{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}。
 {{% /notice %}}
-<div class="googlemap-if" style="align-items: center;">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679677105343!6m8!1m7!1sHzQ8bmbPPm9pnYOkg83_iw!2m2!1d-33.94114997232529!2d18.60874629092492!3f8.347004415763166!4f2.5505209374776427!5f3.0833772611191104" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<img src="./Sasol_Limited_-_Logo.svg.png" width="290px">
+
+<div class="googlemap-if no-margin unclickable" style="align-items: center;">
+<img src="2023-08-03-02-58-40.png" width="90%" />
 </div>
 
 {{% notice tip %}}

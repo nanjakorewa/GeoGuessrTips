@@ -60,7 +60,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路番号のフォントがオーストラリアと異なる。左が<span class="quiz">南アフリカ</span>・右が<span class="quiz">オーストラリア</span>。
+道路番号のフォントがオーストラリアと異なる。左が<span class="quiz">南アフリカ</span>・右が<span class="quiz">オーストラリア</span>。{{% goto "../../africa/south-africa/" "南アフリカ" %}}は「oo」「ee」といった文字が地名に含まれることが多いのと看板が角張っていることが多いので慣れるとすぐ判別できるはず。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
@@ -68,6 +68,9 @@ sc: [
 <img src="./r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="2023-08-03-02-54-05.png" width="80%">
+</div>
 
 {{% notice tip %}}
 GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
