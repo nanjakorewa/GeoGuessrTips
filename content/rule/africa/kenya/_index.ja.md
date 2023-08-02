@@ -37,6 +37,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681156929947!6m8!1m7!1s_zk0DXg5G2KTHmmqajac0g!2m2!1d-1.312932447867278!2d36.82958261882765!3f185.2784271540958!4f-13.958963918602223!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% lb 50 %}}
+![](lp-kenya.png)
+
+By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyanmagazine.co.ke/wp-content/uploads/2022/08/20220830_191002.jpg">オリジナル画像</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125713405">Link</a> を加工しています
+{{% /lb %}}
+
+
 {{% notice tip %}}
 <a href="https://www.jetro.go.jp/ext_images/_Reports/01/550ee35766919b1d/20160137_09franchise.pdf">JETRO</a>などによると、STEERS(ファストフード)、Safaricom（通信）、Java（コーヒーブランド？）などが大き目の現地企業。歩いていると見かけるかも？
 {{% /notice %}}
