@@ -34,11 +34,11 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色。白色に見えるプレートもある。
+ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。白色に見えるプレートもある。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683956701529!6m8!1m7!1shPRg4cgm1REFX1iacrtCjw!2m2!1d14.74975137113205!2d-17.45198782391854!3f268.7817645726306!4f-21.08960964386729!5f1.9780957654729643" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./car.png" width="90%">
 </div>
 
 {{% lb 50 %}}
