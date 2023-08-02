@@ -45,7 +45,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジなのはギリシャの他は北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
+看板の背景がオレンジのことが多い{{% ex "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -55,7 +55,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く（例<a href="https://goo.gl/maps/GSDxZX4vo9HZRHRE8">①</a>）赤白のものもある（例<a href="https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7">①</a>・<a href="https://goo.gl/maps/md7cEoNdNBSKD13S7">②</a>）。
+矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}赤白のものもある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
@@ -64,11 +64,11 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-電柱が木でできていることが多い。
+電柱が木でできていることが多い{{% ex "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8" "https://goo.gl/maps/wV34ViijQUgqnapj7" "https://goo.gl/maps/QNw2GFSAJTRfC8Lq6" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nfabiox85/11537079763/in/photolist-izuxSk-223oBxL-24fihpt-25CGsqf-223uRh7-23vfaCR-GEytU3-dDrnPv-cy1DUY-28WWADs-qXPgAD-FdhHjV-22yPfJc-bMH4ng-Ki9Mhv-ZXMvLJ-ZXMvPj-8yeDuX-HBWuHp-i69LKq-8jgmSP-Grqgne-9vvE4p-23N5iP7-24Q11Ti-byNqHs-SDFvMd-8iwvqt-kehk7P-8ba9Jq-dJnRY4-i6ahok-YUspcj-23H9ZK1-G7qWp5-23apd81-8cvB1p-qbJhp4-2234X23-24SkhpP-FdfvRZ-24SmDc8-28WWAK9-F9p8rK-EzXJoc-223mKay-24osm5h-23qSGG2-GEudhu-24SnpDz" title="Kerkini Village and Stork nesting"><img src="https://live.staticflickr.com/3762/11537079763_56185928d8_z.jpg" width="640" height="426" alt="Kerkini Village and Stork nesting"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="pole.png" width="95%" />
 </div>
 
 {{% /tab %}}

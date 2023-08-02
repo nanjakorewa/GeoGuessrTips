@@ -82,6 +82,11 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679480359158!6m8!1m7!1sAGAD5R6_7G-M_4yNGRDstw!2m2!1d-17.74191350835184!2d-63.15618182467038!3f81.55340430449235!4f1.8284055251925935!5f3.0954258680931925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ボラード" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690950653550!6m8!1m7!1sMKAfnNhiu5MErBEOWy6iVg!2m2!1d-18.22299960360435!2d-67.46592076207261!3f254.55778961686912!4f-14.860009177622445!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "🐕" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109923932!6m8!1m7!1s1Ce8WameoVUd_Et1o5fVzw!2m2!1d-16.54057404768015!2d-68.15979677760222!3f292.75122118350356!4f-22.155410825187232!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -142,6 +147,8 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
     <ul class="rule-list">
         <li>スクレの特定地域のみ条例によって壁を白くすることが義務付けられている</li>
         <li>ラパスでは電柱にグレーの服を来た人形（？）が吊られていることがあるが、これは泥棒に対するメッセージらしい（参考：<a href="https://www.ganas.or.jp/20121220bolivia/">『ボリビア・アイマラ族の「泥棒を殺す習慣」、違法とならない理由』</a>）。遠くで少しぼやけていたりモザイクがかかっていたりすると本物の人間に見えるので配信する時は要注意。</li>
+        <li>サハマ国立公園ではGoogle Carが見える</li>
+        <li>列車の墓場に徒歩で歩く場所がある{{% ref "https://es.wikipedia.org/wiki/Cementerio_de_trenes" "Cementerio de trenes" %}}</li>
     </ul>
 </div>
 
@@ -158,6 +165,21 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109731885!6m8!1m7!1ssrvcioJMLOUynM77-JzrrQ!2m2!1d-16.53542582994066!2d-68.15984708559827!3f133.39102220908285!4f2.9204123647894704!5f1.9952253012677987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109654621!6m8!1m7!1sW3spRtpdkhSJWqhNTC45iw!2m2!1d-16.5362588718002!2d-68.15809312899177!3f291.10751381163004!4f3.214739203112188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "サハマ国立公園" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690950945936!6m8!1m7!1sUvSxlwAciOFl061i6nukRQ!2m2!1d-18.02373946727298!2d-68.86927020749451!3f236.1966662827813!4f-19.410384200029867!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690950854463!6m8!1m7!1seBn3MtOB1GrRv29X5zu1Hw!2m2!1d-18.04740964397054!2d-68.93421804302564!3f265.6203827246685!4f-55.52318026121894!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "列車の墓場" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690951135822!6m8!1m7!1s1Dp-H-8Zx8WltcIOJAsLnQ!2m2!1d-20.4817219334578!2d-66.83781490586628!3f58.461437537922116!4f-5.574524061122403!5f0.7862468789425522" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
