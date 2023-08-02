@@ -66,13 +66,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白やオレンジの反射板のボラードと２つの地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
+白やオレンジの反射板のボラードがある。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./bollard.png" width="150px" alt="ドイツのボラード" />
 <img src="./bollard2.png" width="150px" alt="Germany bollard" >
-<img src="./r/route-sign.svg" width="200px" style="margin:30px">
+<img src="./r/route-sign.svg" width="150px" style="margin:55px 0 0 0">
+<img src="./town-enter.svg" width="150px" style="margin:55px 0 0 10px">
 </div>
 
 {{% notice tip %}}
