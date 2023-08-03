@@ -37,7 +37,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>。一番下あたりが白く塗られていることもある。細いものや丸いものもある、黄色いマーカーが付いていることが多い。
+電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://goo.gl/maps/TsgCod5xnuJ6opAo8" "https://goo.gl/maps/Bjv2u3tXA8y1C32NA" "https://goo.gl/maps/KZVNk6yYXjjAhKLGA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688184557687!6m8!1m7!1s1q9X84JbsgqznIsNH4LXLQ!2m2!1d44.70535771556276!2d22.72859302476025!3f63.657922468801544!4f-11.33467294366821!5f3.1482143679014967" width="250" height="550" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
