@@ -33,23 +33,14 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}
-水色と白が基調の建物が多い
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681952455065!6m8!1m7!1so4kSWTxnKva8rIjEjtaAQw!2m2!1d36.81898453666751!2d10.17841320812088!3f136.14983967697648!4f12.291043087516428!5f1.673141042236761" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681952554454!6m8!1m7!1s9B993r6Wu66BpAKhsLnsFA!2m2!1d33.73194343164884!2d10.86552639695403!3f328.94639747780155!4f-6.93048257637227!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681952644120!6m8!1m7!1sjbW2GNADpmWgQaXTohSADg!2m2!1d33.79207476536821!2d10.92917167393205!3f151.494872864849!4f-5.7632847952252035!5f1.603712625060913" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681955756400!6m8!1m7!1socughxy28q_lu5624j4Zhg!2m2!1d33.39373736558044!2d10.7492652958513!3f251.62461596347816!4f-4.165839557067343!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
-<span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。そして後ろに車が付いてくることが多い。
+<span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。そしてGoogle Carの後ろに黒っぽい色の車が付いてくることが多い{{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref "画像出典 - 画像加工あり" %}}。
 {{% /notice %}}
 
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685283054269!6m8!1m7!1sgH2xB2SWvbAuWt5JYrRvBw!2m2!1d36.74354439221794!2d10.22877848313951!3f147.74397571933963!4f-5.01514964376284!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./car.png" width="95%">
 </div>
 
 
@@ -58,6 +49,25 @@ sc: [
 
 CC0
 {{% /lb %}}
+
+{{% notice tip %}}
+水色と白が基調の建物が多い{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}。縁石やシェブロンも白と水色の組合せ{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./house.png" width="90%">
+</div>
+
+
+{{% notice tip %}}
+特徴的な形の電柱がある{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691034582806!6m8!1m7!1s6pfFY0fxPp7DQ4DCObWJPw!2m2!1d34.41795011414693!2d8.784803930790263!3f73.89126476951427!4f18.394098215577486!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691034460708!6m8!1m7!1sxFwEKIkh1gbhDaGgEqvLmA!2m2!1d34.38272769386393!2d7.933106456537871!3f316.0875552465727!4f27.500450130729263!5f3.2491148336711095"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}
@@ -78,3 +88,7 @@ CC0
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+<li>By Wicem Kerkeni - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50338695">Link</a></li>
+{{% /imgref %}}
