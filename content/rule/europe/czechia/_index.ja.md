@@ -42,20 +42,19 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
+{{% goto "../slovakia/" "スロバキア" %}}と同じボラードとガードレール{{% ex "https://goo.gl/maps/pePJXWZS165TbMNW6" "https://goo.gl/maps/wjzGxpyYa7UJ2cY18" %}}。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./bollrad.jpg" width="90%" />
+</div>
+
+{{% notice tip %}}
 こんな感じの看板を使用する。スロバキアの看板は矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。「<span class="quiz">Ů・ů</span>」がある場合もチェコになる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="2023-06-11-00-12-31.png" width="70%"/>
 <img src="2023-06-11-00-16-23.png" width="80%"/>
-</div>
-
-{{% notice tip %}}
-ボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的。ボラードとガードレールはスロバキアにも同じものがある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682936914809!6m8!1m7!1smVbj2pA5JV1ghMU170T-MA!2m2!1d49.18506314402373!2d16.75742697472375!3f13.65489772609046!4f-16.051398238411295!5f2.6800695378815926" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686404835713!6m8!1m7!1s9k-yEUpcSKPpDjlDt5sBYg!2m2!1d50.21223825702709!2d12.91789875724614!3f326.1518798228631!4f-25.31182555592214!5f2.9332278547999198" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
