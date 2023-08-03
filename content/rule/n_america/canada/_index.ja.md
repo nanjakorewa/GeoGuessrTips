@@ -92,6 +92,13 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681111872260!6m8!1m7!1shGawvDMwNEclk4vVyom39w!2m2!1d56.05702410940899!2d-118.3839628374677!3f35.51577976866718!4f-3.251675013380435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "🐋" %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M7pTe8AWvgg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
@@ -102,6 +109,7 @@ sc: [
                 <li>ナンバープレートが両サイド緑なのは<span class="quiz">マニトバ州</span></li>
                 <li>全体的に青いナンバープレートは<span class="quiz">オンタリオ州</span>の可能性がある</li>
                 <li>左下が赤っぽいのは<span class="quiz">Prince Edward Island州</span>{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Prince_Edward_Island" "Vehicle registration plates of Prince Edward Island" %}}</li>
+                <li>{{% goto "https://www.plonkit.net/canada" "plonkitのCanadaのページ"%}}が新しく追加され良くまとまっているので残りはこれを参照</li>
             </ul>
         </li>
     </ul>
