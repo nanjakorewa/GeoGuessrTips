@@ -37,18 +37,21 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">ココヤシ</span>の木がどこでも栽培されており道端にココナッツの実か殻のようなものも落ちていることも多い
+<span class="quiz">ココヤシ</span>の木がどこでも栽培されており道端にココナッツの実か殻のようなものも落ちていることも多い{{% ex "https://goo.gl/maps/kAW6XTsMUuD5WrtcA" "https://goo.gl/maps/E5Ty7yijWQM4ipF56" "https://goo.gl/maps/4Rea5AMbHtUQ5Tr7A" "https://goo.gl/maps/1cWwoR6eRBqYBwYC7" "https://goo.gl/maps/2HVRm5CE8mQEkuAx7" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683433598868!6m8!1m7!1sycnQFzQdbcFsWllGLAuFiA!2m2!1d-12.11766154167351!2d96.89932052224016!3f170.26168778733225!4f8.718708329610706!5f1.536207576461131" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683433701357!6m8!1m7!1s2ZkWNpu0REMuQkXHWWH9gQ!2m2!1d-12.15443198755341!2d96.82479744032698!3f1.9966655877416493!4f-29.190134344538343!5f1.8132661007384248" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="cocos-tree.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で右前になにか付いていて特徴的だがすべての場所でこれが見えるわけではないので注意。
+Google Carが特徴的で右前になにか付いていて特徴的{{% ex "https://goo.gl/maps/f6jFjQHZSXZifEun6" "https://goo.gl/maps/RA6cu78PhQd6wFks5" "https://goo.gl/maps/5UDvrCChANf8uzGG7" %}}。ただしすべての場所でこれが見えるわけではないので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683433736164!6m8!1m7!1s2ZkWNpu0REMuQkXHWWH9gQ!2m2!1d-12.15443198755341!2d96.82479744032698!3f115.07805190299995!4f-37.61774122681439!5f3.0119252385875366" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683433736164!6m8!1m7!1s2ZkWNpu0REMuQkXHWWH9gQ!2m2!1d-12.15443198755341!2d96.82479744032698!3f115.07805190299995!4f-37.61774122681439!5f3.0119252385875366" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+<div class="googlemap-if unclickable">
+<img src="cocos-gc.png" width="60%">
+</div>
+
 {{% /tab %}}
 {{% /tabs  %}}
