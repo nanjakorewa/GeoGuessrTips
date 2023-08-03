@@ -58,29 +58,35 @@ Public Domain
 {{% /lb %}}
 
 {{% notice tip %}}
-レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが、白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討してみる。以下の左がイギリス、右がアイルランド{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682429298949!6m8!1m7!1sCfG07BPDdW1kglYmnkoQRA!2m2!1d52.90580107085533!2d-2.485725222078184!3f138.39531165156137!4f7.275689425114649!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682429279902!6m8!1m7!1sZ5KG3l87yksk2MTXZd8B9w!2m2!1d52.91395509685891!2d-7.348688994175294!3f15.873384560607029!4f3.497742828224986!5f1.7418997394705245" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-{{% notice tip %}}
-<span class="quiz">ヘッジロウ（低木や草本類などが植栽された垣根）</span>が道端や家の周りに存在する{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "ケンブリッジ的環境保全技術 環境保全技術 > 一覧 > 生垣（ヘッジロウ）" %}}。19世紀より前に作られた古いものやちゃんと手入れされていないものも存在する{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682637970837!6m8!1m7!1s6Z8yDl24X515Ibe_ewy76g!2m2!1d50.72347055481205!2d-4.27705684928434!3f318.9857629509309!4f-0.5124029812136968!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682637334003!6m8!1m7!1seYUqO6cGbdlKGVOJFGfuZw!2m2!1d55.58927307871352!2d-5.174295574173716!3f25.259086547289854!4f-14.251102487486165!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-{{% notice tip %}}
-<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で同じ色の国はない。同じ色のものを用いるのはヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討してみる。以下の左がアイルランド{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}、右がイギリス{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/UK_traffic_sign_515.svg" width="322px" style="margin-right:1em;">
-<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px">
+<img src="./uk-street.jpg" width="85%" />
+</div>
+
+
+{{% notice tip %}}
+<span class="quiz">ヘッジロウと呼ばれる低木や草本類などが植栽された垣根</span>が道端や家の周りに存在する{{% ex "https://goo.gl/maps/GbJsgrJg9qL7k63F8" "https://goo.gl/maps/XVp6A4R4SjfNu2jM7" "https://goo.gl/maps/4q7cqszzA1KGDpBs8" "https://goo.gl/maps/pvQbAXWRvLZiD95R9" "https://goo.gl/maps/5osd6kkFRYC7aqBU8" %}}{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "ケンブリッジ的環境保全技術 環境保全技術 > 一覧 > ヘッジロウ" %}}。19世紀より前に作られた古いものやちゃんと手入れされていないものも存在する{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./hedge.jpg" width="85%" alt="イギリスの生垣・ヘッジロウ" />
+</div>
+
+
+{{% notice tip %}}
+この図は左が<span class="quiz">アイルランド</span>で右が<span class="quiz">イギリス</span>。
+<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で同じ色の国はない。同じ色のものを用いるのはヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など。アイルランドは背景が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable">
+<img src="./cevron.jpg" width="85%" />
+</div>
+
+
+<div class="googlemap-if unclickable">
+<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
+<img src="./r/UK_traffic_sign_515.svg" width="322px" />
 </div>
 
 {{% /tab %}}
