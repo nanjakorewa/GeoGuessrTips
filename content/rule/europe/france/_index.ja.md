@@ -50,13 +50,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682694839566!6m8!1m7!1s-EOPnKG5ACpPjzixTD-y8A!2m2!1d42.70109595323554!2d2.896447765312585!3f161.64927566749!4f0.6651892620051711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682694839566!6m8!1m7!1s-EOPnKG5ACpPjzixTD-y8A!2m2!1d42.70109595323554!2d2.896447765312585!3f161.64927566749!4f0.6651892620051711!5f3.325193203789971" width="395" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
 {{% notice tip %}}
-電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる{{% imref "左側の電柱画像の出典" %}}。
+電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的{{% ex "https://goo.gl/maps/Q4t2DqQBjik94eGm9" %}}。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる{{% imref "左側の電柱画像の出典" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
