@@ -39,7 +39,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>。宅配業者のバンなどがこの色になっていることが多い。横断歩道の標識は<span class="quiz">4本（たまに5本のものもある）</span>。道端にスノーポールもある。
+ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>。宅配業者のバンなどがこの色になっていることが多い。道端にスノーポールもある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -53,7 +53,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 {{% /lb %}}
 
 {{% notice tip %}}
-横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
+横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/eUDy4FaK6PGdGcdE6" %}}・<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
@@ -73,12 +73,8 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 </div>
 
 {{% notice tip %}}
-道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
+道路名の看板に<span class="quiz">オレンジ</span>の背景が多い{{% ex "https://goo.gl/maps/D9e1TsktHEB72j9z6" "https://goo.gl/maps/ZxhqqbtPhgxhLfdX8" %}} {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681501551090!6m8!1m7!1sQMXHhNCCIrFoUa70gCIukw!2m2!1d61.91201314110614!2d5.986817049843358!3f305.9648425558945!4f-0.030381807345932543!5f3.278136263369802" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<img src="./r/1920px-Norwegian-road-sign-713.png" width="295px" style="margin:40px 0 0 10px;" />
-</div>
 
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
@@ -101,6 +97,10 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
         </div>
         <p><span class="quiz">ノルウェー</span></p>
     </div>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="2023-08-03-19-04-51.png" width="90%" />
 </div>
 
 

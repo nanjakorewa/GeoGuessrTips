@@ -58,20 +58,20 @@ sc: [
             <img src="../sweden/r/Sweden_road_sign_F5.svg">
             <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
-        <p><span class="quiz">スウェーデン</span></p>
+        <p><span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/pugV8oV2wAyHqJDP8" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
             <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
             <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
-        <p><span class="quiz">フィンランド</span></p>
+        <p><span class="quiz">フィンランド</span>{{% ex "https://goo.gl/maps/jpm3KFZeFmTGzw1X6" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
             <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
         </div>
-        <p><span class="quiz">ノルウェー</span></p>
+        <p><span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/XqwC943TgqGuDHaDA" %}}</p>
     </div>
 </div>
 
@@ -85,7 +85,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-北欧であって速度表記に<span class="quiz">背景がオレンジで縁に細い黄色線がない</span>ならばスウェーデンの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。
+北欧であって速度表記に<span class="quiz">背景がオレンジで縁に細い黄色線がない</span>ならばスウェーデンの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/WEAxgAcGKMc7ifB48" %}}・<span class="quiz">フィンランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -95,12 +95,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：<a href="https://goo.gl/maps/5PTmRrVGdskKPT44A">①</a>・<a href="https://goo.gl/maps/obpEjC4DxLNPgdMSA">②</a> - エストニアの例：<a href="https://goo.gl/maps/9qw7x5NHHR3mrELHA">①</a>・<a href="https://goo.gl/maps/H59sMJ9t6eADQuVFA">②</a>）。下の実例は左が<span class="quiz">ノルウェー</span>、右が<span class="quiz">スウェーデン</span>。
+道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/zxV4mR31aRSZnCHD7" %}}・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：{{% ex "https://goo.gl/maps/FhzZyYimTep8WGML7" "https://goo.gl/maps/5PTmRrVGdskKPT44A" "https://goo.gl/maps/obpEjC4DxLNPgdMSA" %}} vs エストニアの例：{{% ex "https://goo.gl/maps/9qw7x5NHHR3mrELHA" "https://goo.gl/maps/H59sMJ9t6eADQuVFA" %}}）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.png" width="90%">
 </div>
+
+
+{{% notice tip %}}
+左が<span class="quiz">ノルウェー</span>、右が<span class="quiz">スウェーデン</span>。
+{{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
 <img src="./road-2.png" width="90%">

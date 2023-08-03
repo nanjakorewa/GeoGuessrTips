@@ -99,7 +99,7 @@ additional_link:
 
 
 {{% notice tip %}}
-北欧の狭い道にあるPassing place（車の待避所）の看板がフィンランドだけ矢印（例<a href="https://goo.gl/maps/22aeWZvbBynbwaXh6">①</a>・<a href="https://goo.gl/maps/HmKuBQafiJcTDvku9">②</a>）。舗装されておらず家も見当たらない場所でヒントになることがある。左から<span class="quiz">フィンランド</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>。
+北欧の狭い道にあるPassing place（車の待避所）の看板がフィンランドだけ矢印。舗装されておらず家も見当たらない場所でヒントになることがある。左から<span class="quiz">フィンランド</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
 <img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
