@@ -38,27 +38,32 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず。ただしごく稀に{{% goto "../greece/" "ギリシャ" %}}でも見かける（例：<a href="https://goo.gl/maps/FJayswExjMNisNedA">①</a>）。
+ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<div class="googlemap-if unclickable">
-<img src="./b1.png" width="400px" alt="フランスのボラード" />
-</div>
-<div class="googlemap-if">
-<p>※By <a href="//commons.wikimedia.org/wiki/User:Lionel_Allorge" title="User:Lionel Allorge">Lionel Allorge</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36181681">（Link）</a>を加工しており左は加工画像です</p>
-</div>
-
+<div class="googlemap-if no-margin unclickable">
+<img src="./b2.png" width="90%" alt="フランスのボラード" />
 </div>
 
 
 {{% notice tip %}}
-市外局番が2桁が5つ並んでいる。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる。
+市外局番が2桁が5つ並んでいる。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682694839566!6m8!1m7!1s-EOPnKG5ACpPjzixTD-y8A!2m2!1d42.70109595323554!2d2.896447765312585!3f161.64927566749!4f0.6651892620051711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679499555256!6m8!1m7!1s1s6iwfSSHnzzn-W_5ApFOQ!2m2!1d49.58687382021852!2d2.292816456709319!3f15.68954378050926!4f-7.759508438445337!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
+{{% notice tip %}}
+電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる{{% imref "左側の電柱画像の出典" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./blue-plate.png" width="90%" alt="フランスの電柱" />
+</div>
+
+
 
 {{% notice tip %}}
 ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
@@ -79,7 +84,10 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/xcv.png" width="200px">
+<img src="./arrow.png" width="85%">
+</div>
+<div class="googlemap-if unclickable">
+<img src="./r/xcv.png" width="150px">
 </div>
 
 {{% notice tip %}}
@@ -241,3 +249,8 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+{{% imgref %}}
+<li>By <a href="//commons.wikimedia.org/wiki/User:Chabe01" title="User:Chabe01">Chabe01</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59212980">Link</a></li>
+{{% /imgref %}}

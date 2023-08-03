@@ -62,7 +62,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 </div>
 
 {{% notice tip %}}
-自転車を走る道路（Fietspad）が国中に整備されていている。写真の左側のレーンが自転車用の道路。また、ルクセンブルグと比べ平坦で水路が多い。オランダは平らで高い山が無く、国土の4分の1が海抜0m以下で最高地点も約333mしかない。
+自転車を走る道路（Fietspad）が国中に整備されていている{{% ex "https://goo.gl/maps/DmzAayCPHyJf9Twz9" "https://goo.gl/maps/U7Jr2KNKMTF23f1t6" "https://goo.gl/maps/HJgrAsAvztc1PxHU8" %}}。写真の左側のレーンが自転車用の道路。また、ルクセンブルグと比べ平坦で水路が多い。オランダは平らで高い山が無く、国土の4分の1が海抜0m以下で最高地点も約333mしかない。
 {{% /notice %}}
 
 <div class="googlemap-if">
