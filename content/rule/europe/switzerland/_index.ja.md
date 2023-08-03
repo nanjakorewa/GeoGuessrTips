@@ -33,12 +33,17 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>。ボラード・ガードレールとかがなんとなく大きく感じる。
+カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。下はスイスとフィンランドのGoogle Carの比較。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688536382796!6m8!1m7!1sA-rIrs21pa0ekJ-YHu7SnQ!2m2!1d46.43383991913235!2d6.215215268258848!3f157.76770648389746!4f-33.79244601960761!5f0.8730100523556503" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688537425174!6m8!1m7!1sZNeonKyMgEdaXWkAW4-qeg!2m2!1d46.65922460124699!2d7.48270704685697!3f60.4807308280999!4f-15.262300202814501!5f3.012833196053655" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<div class="googlemap-if">
+<img src="googlecar.png" width="500px">
+</div>
+
 
 {{% notice tip %}}
 横断歩道標識は<span class="quiz">7本</span>。標識がパイプで囲われていることが多い。右の場合『limite générale』はフランス語なのでフランス付近だと想像できる。
