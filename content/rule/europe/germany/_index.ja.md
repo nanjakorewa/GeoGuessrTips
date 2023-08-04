@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ。また駐車禁止だが待機ができるゾーンに矢印つきのNo Parkingの看板を良く見かける。
+エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}。また駐車禁止だが待機ができるゾーンに矢印つきのNo Parkingの看板を良く見かける{{% ex "https://goo.gl/maps/Byun9Gu4M7ZXhKDf6" %}}。
 
 {{% /notice %}}
 
@@ -51,8 +51,23 @@ sc: [
 <img src="Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px">
 </div>
 
+
+
 {{% notice tip %}}
-ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある{{% ex "https://goo.gl/maps/ZF1BE14mpH7cxhbr6" "https://goo.gl/maps/1eFfB8kZFr7w65Jy7" %}}。
+オレンジ背景で矢印の先に番号が書かれた道路看板がある{{% ex "https://goo.gl/maps/WSbgRzWJGWH8zm499" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/EnKQb9jXrnYZFwMn6" "https://goo.gl/maps/ohLRtSMpm1L5cc487" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/ALoiF4H53WEcrG5NA" "https://goo.gl/maps/6U9mdfSMpB3PT77C6" "https://goo.gl/maps/rHnSKBBK62eXjC7g7" %}}。白背景の場合も黒い線の輪郭がある。{{% goto "../luxembourg/" "ルクセンブルグ" %}}と間違えないように。橋の上にいるときなどでも看板が特徴的なので看板の違いでルクセンブルグとドイツの国境だとわかる{{% ex "https://goo.gl/maps/Y9pyFhzPJVuRFNPx6" "https://goo.gl/maps/swsX747LgrLBTmGQ9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px">
+<img src="./rs3.svg" width="250px" style="margin:10px">
+</div>
+<div class="googlemap-if unclickable no-margin">
+<img src="./rs2.svg" width="250px" style="margin:10px">
+</div>
+
+
+{{% notice tip %}}
+ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある{{% ex "https://goo.gl/maps/ZF1BE14mpH7cxhbr6" "https://goo.gl/maps/1eFfB8kZFr7w65Jy7" "https://goo.gl/maps/LGLMGfEa3J2nzWZr9" %}}。
 横長の看板にバス停の名前が書かれていることもある。
 {{% /notice %}}
 
@@ -66,7 +81,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白やオレンジの反射板のボラードがある。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
+白やオレンジの反射板のボラードがある{{% ex "https://goo.gl/maps/7yND6Q4vTcujDY3j7" "https://goo.gl/maps/erc84T8ZBAf7BWGaA" "https://goo.gl/maps/bpnFa6UKkR3pvDby5" "https://goo.gl/maps/j5ULZdFXTLsj9t1X9" %}}。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -85,7 +100,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-番号が書かれた白いプレートや黒いQRコードが書かれたプレートが木製の電柱に多く付いている{{% ex "https://goo.gl/maps/HCDxPEw2JVAbqQ5dA" "https://goo.gl/maps/uiMGX52jddHQddyT6" "https://goo.gl/maps/yRaoDQGYirVFiMAP9" "https://goo.gl/maps/pyDSPCRMaYwdVy3j8" "https://goo.gl/maps/YnW51dEjnmbKtTFy9" "https://goo.gl/maps/HMhBQZ4xoXG1KbpD6" "https://goo.gl/maps/wDBbY3NPDJdD1pPN7" %}}のを良く見かける{{% imref %}}。数字の色がはがれていることがある。
+番号が書かれた白いプレートや黒いQRコードが書かれたプレートが木製の電柱に多く付いている{{% ex "https://goo.gl/maps/Jh6KDWyDhDaJspuC6" "https://goo.gl/maps/HCDxPEw2JVAbqQ5dA" "https://goo.gl/maps/uiMGX52jddHQddyT6" "https://goo.gl/maps/yRaoDQGYirVFiMAP9" "https://goo.gl/maps/pyDSPCRMaYwdVy3j8" "https://goo.gl/maps/YnW51dEjnmbKtTFy9" "https://goo.gl/maps/HMhBQZ4xoXG1KbpD6" "https://goo.gl/maps/wDBbY3NPDJdD1pPN7" %}}のを良く見かける{{% imref %}}。数字の色がはがれていることがある。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
