@@ -36,10 +36,6 @@ sc: [
 {{% notice tip %}}
 ポルトガル領の離島でナンバープレート・標識・電柱はポルトガルと共通している
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683963269741!6m8!1m7!1sZn6Gy6-b4fjTH4GAY-95eA!2m2!1d38.73107164520029!2d-27.05957648602339!3f63.844462480250584!4f-17.015624475325254!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 
 {{% lb 50 %}}
 ![](../portugal/2023-04-12-06-00-36.png)
