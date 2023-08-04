@@ -101,7 +101,7 @@ public domain
 {{% tab "ボーンホルム島" %}}
 
 {{% notice tip %}}
-『Nexø』と『Rønne』のどちらかが書いてある看板がほとんど。小さめの自転車ルートの看板にも書いてある。
+『Nexø』と『Rønne』のどちらかが書いてある看板がほとんど。小さめの自転車ルートの看板にも書いてある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%8D" "『Rønne - Wikipedia』" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
