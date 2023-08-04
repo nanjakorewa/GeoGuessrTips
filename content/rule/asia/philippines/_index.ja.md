@@ -40,14 +40,6 @@ sc: [
 
 
 {{% notice tip %}}
-フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある。{{% ref "https://www.jollibee.com.ph/investors/" "Jollibee Foods Corporation Group of Companies" %}}{{% ref "https://asia.nikkei.com/Business/Companies/Asian-fast-food-giant-Jollibee-eyes-doubling-sales-in-5-years" "フィリピン外食のジョリビー海外で攻勢 CEO「事業規模5年で2倍」世界1万店に" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/25379667@N07/2420842438/in/photolist-4FVs7J-8xTPU-7LDTwQ-4Y9PsR-2K3bgW-7wvKqK-J4LPh-5fj9FF-nzeNcJ-4FxNTL-4evQ3q-4FtAiM-4FxLF5-3jJtpK-4FtBT2-4FxKR3-4FtwFc-4FxMyd-7EFDPm-4FtCpK-4erR9e-4Ftv3k-4FtvD4-7EHAdP-7EHD9c-4FtzPg-7EMqJ9-7EHBAF-4FtyaM-7EMv4m-5fj3Me-7EBNrM-7EFBK1-pdoCTX-4FxJbA-7EFjsQ-rntv9G-Ak1CWd-qHfp8v-K9aiN1-e49k8g-8pFphF-7GUsZF-c3QKuW-6uBt3d-otxmDw-5ZSAe5-9ctXuD-M7cc5-pyL9md" title="Jollibee Thank You Sign"><img src="https://live.staticflickr.com/3228/2420842438_708606ea34.jpg" width="500" height="375" alt="Jollibee Thank You Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-{{% notice tip %}}
 家の屋根が<span class="quiz">トタン屋根っぽい</span>ものが多い{{% by %}}。インドネシアにもトタンの屋根は多いのでこれだけで即決してはいけない。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -55,12 +47,19 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680250202954!6m8!1m7!1s6ZsrvkhrAUsc8NxpRYr6-Q!2m2!1d7.269869013438476!2d125.4470118037702!3f182.72804515039002!4f-2.164321473307922!5f1.4108827045451338" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+路面がコンクリートの時が多い。体感でコンクリートが多いのはフィリピン・{{% goto "../thai/" "タイ" %}}で次に{{% goto "../indonesia/" "インドネシア" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./road.jpg" width="95%">
+</div>
+
 
 {{% notice tip %}}
 トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。以下はトライシクル（右）とジプニー（左）。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/lornick_imaging_of_london/34292275280/in/photolist-UfhSHw-2TTpZ-2n6CDLs-2nkeTpK-UA14bb-ZSJnxR-2jBNTuL-jfXkw2-WMLhBw-2n6Hf2L-2jdh1au-2omnuZ3-QxvGM8-TxRSWG-5w5tfg-Lq2E1S-2n5yHZR-9DqEpg-TxRSKj-UA13Xq-YN5HGu-jfZnE5-QnTj1H-WkLHEG-4sPeZ5-2ocXT5o-2n4nM7P-Mw5vfX-2x5GVD-5bTVPQ-2nrfo4o-2n4ANiC-HrTC6T-2i8Zhuj-pC5rHQ-Xsr1cN-UA14K7-2g8meJv-jfY6Vk-8Gzybu-dv9WrB-qqGcK-UA143q-aYEnsv-bSiCGv-TbUSTo-zBvZCM-28NmoG2-N2puAx-ULGHUN" title="Philippines"><img src="https://live.staticflickr.com/4162/34292275280_d25efc56b0_z.jpg" width="640" height="427" alt="Philippines"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./car.jpg" width="80%">
 </div>
 
 {{% lb %}}
@@ -82,6 +81,14 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativeco
 
 CC0画像を加工
 {{% /lb %}}
+
+{{% notice tip %}}
+フィリピンのファーストフードチェーン店大手の<span class="quiz">ジョリビー（Jollibee）</span>の看板がある。{{% ref "https://www.jollibee.com.ph/investors/" "Jollibee Foods Corporation Group of Companies" %}}{{% ref "https://asia.nikkei.com/Business/Companies/Asian-fast-food-giant-Jollibee-eyes-doubling-sales-in-5-years" "フィリピン外食のジョリビー海外で攻勢 CEO「事業規模5年で2倍」世界1万店に" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/25379667@N07/2420842438/in/photolist-4FVs7J-8xTPU-7LDTwQ-4Y9PsR-2K3bgW-7wvKqK-J4LPh-5fj9FF-nzeNcJ-4FxNTL-4evQ3q-4FtAiM-4FxLF5-3jJtpK-4FtBT2-4FxKR3-4FtwFc-4FxMyd-7EFDPm-4FtCpK-4erR9e-4Ftv3k-4FtvD4-7EHAdP-7EHD9c-4FtzPg-7EMqJ9-7EHBAF-4FtyaM-7EMv4m-5fj3Me-7EBNrM-7EFBK1-pdoCTX-4FxJbA-7EFjsQ-rntv9G-Ak1CWd-qHfp8v-K9aiN1-e49k8g-8pFphF-7GUsZF-c3QKuW-6uBt3d-otxmDw-5ZSAe5-9ctXuD-M7cc5-pyL9md" title="Jollibee Thank You Sign"><img src="https://live.staticflickr.com/3228/2420842438_708606ea34.jpg" width="500" height="375" alt="Jollibee Thank You Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 
 {{% /tab %}}

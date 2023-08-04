@@ -34,11 +34,8 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ポルトガル領の離島でナンバープレート・標識・電柱はポルトガルと共通している
+{{% goto "../../europe/portugal/" "ポルトガル" %}}領の離島でナンバープレート・標識・電柱{{% ex "https://goo.gl/maps/5PquD26xeVwrvJi18" "https://goo.gl/maps/SAPSg5oGDkzLx2jS8" %}}はポルトガルと共通している
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683962648449!6m8!1m7!1s0TQTed0G3BcqOql7gtZU5g!2m2!1d32.65206268123055!2d-16.90189128524855!3f142.4363356333071!4f-6.763505395204604!5f3.1984375830501204" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% lb 50 %}}
 ![](../../europe/portugal/2023-04-12-06-00-36.png)
@@ -48,7 +45,7 @@ sc: [
 
 
 {{% notice tip %}}
-橋の欄干や道の柵がコンクリート製で白いブロックが乗っている{{% ex "https://goo.gl/maps/88uj9a5MpYrr6RyV6" "https://goo.gl/maps/6xjAAiUsv8iJd9DR8" "https://goo.gl/maps/3Lak7jmVyja7YouT6" %}}。
+橋の欄干や道の柵がコンクリート製で白いブロックが乗っている{{% ex "https://goo.gl/maps/T9mGEeKdhA261G36A" "https://goo.gl/maps/88uj9a5MpYrr6RyV6" "https://goo.gl/maps/6xjAAiUsv8iJd9DR8" "https://goo.gl/maps/3Lak7jmVyja7YouT6" "https://goo.gl/maps/WYLtsiXLBstZXtA37" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -57,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
+コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -66,7 +63,7 @@ sc: [
 
 
 {{% notice tip %}}
-こんな感じの紫や白の花が咲いている{{% ex "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
+こんな感じの紫や白の花が咲いている{{% ex "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

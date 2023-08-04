@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという。
+<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという{{% ex "https://goo.gl/maps/5j8rXouHLyBRe8RN8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Jakarta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -60,7 +60,7 @@ sc: [
 
 
 {{% notice tip %}}
-道端で<span class="quiz">タバコ</span>がよく売られている。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。
+道端で<span class="quiz">タバコ</span>がよく売られている{{% ex "https://goo.gl/maps/famuKArJo35iqqTf6" "https://goo.gl/maps/r1YhkdzHhBrUChEVA" "https://goo.gl/maps/2NxrDJLbyFLVCvML9" %}}。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -68,7 +68,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">黒</span>色のものが多くモザイクのかかり方によっては３つに分かれて見えるかも、{{% goto "../malaysia/" "マレーシア" %}}なら２つに分かれて見える。また黄色や赤色といった他の色のナンバープレートも存在する。
+ナンバープレートは<span class="quiz">黒</span>色のものが多くモザイクのかかり方によっては３つに分かれて見えるかも{{% ex "https://goo.gl/maps/9sWe9AK8WpCuyftt5" "https://goo.gl/maps/ERLLkHeJiiAHk8UD7" %}}。{{% goto "../malaysia/" "マレーシア" %}}なら２つに分かれて見える。また黄色や赤色といった他の色のナンバープレートも存在する{{% ex "https://goo.gl/maps/s78ERyMGoTBxS23f9" "https://goo.gl/maps/xjSqLiUo6ugZ8uc48" %}}。
 {{% /notice %}}
 
 {{% lb 50 small %}}

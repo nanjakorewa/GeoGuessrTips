@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}
+電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。ただしインドネシアのリアウ諸島にある黒いラベルっぽいもの{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" "https://goo.gl/maps/V7NQ3cQ7iNcsRhYo9" "https://goo.gl/maps/uNXGqp71ukNz9UgZ9" %}}で国を外したことがあるので周りもちゃんと見る。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
