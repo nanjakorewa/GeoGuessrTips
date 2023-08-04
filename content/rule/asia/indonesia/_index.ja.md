@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという{{% ex "https://goo.gl/maps/5j8rXouHLyBRe8RN8" %}}。
+<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという{{% ex "https://goo.gl/maps/5j8rXouHLyBRe8RN8" "https://goo.gl/maps/3Li5RfHzMijgQ8417" "https://goo.gl/maps/CDL8LAmhee6bKPkc8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Jakarta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
