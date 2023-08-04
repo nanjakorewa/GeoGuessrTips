@@ -39,14 +39,14 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗が並んでいる。
+家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗{{% ex "https://goo.gl/maps/QF7ttzg7fWna6QbM6" "https://goo.gl/maps/1unn5tAUEMRCgbBo7" %}}やカラフルな旗{{% ex "https://goo.gl/maps/FG82oDNXkTxkYN5w8" "https://goo.gl/maps/tVLNrpfpdTRTzdVM7" %}}が並んでいる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="525" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという{{% ex "https://goo.gl/maps/5j8rXouHLyBRe8RN8" "https://goo.gl/maps/3Li5RfHzMijgQ8417" "https://goo.gl/maps/CDL8LAmhee6bKPkc8" %}}。
+<span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという{{% ex "https://goo.gl/maps/5j8rXouHLyBRe8RN8" "https://goo.gl/maps/3Li5RfHzMijgQ8417" "https://goo.gl/maps/CDL8LAmhee6bKPkc8" "https://goo.gl/maps/rHbSACuZBqzsjypw6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Jakarta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
