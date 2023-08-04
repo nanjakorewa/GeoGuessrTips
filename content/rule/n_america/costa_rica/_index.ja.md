@@ -19,8 +19,9 @@ is_has_many_trekker: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.co.cr</span></li>
         <li>後ろのナンバープレートが<span class="quiz">白</span>背景に<span class="quiz">青</span>文字</li>
-        <li><span class="quiz">徒歩</span>のカバレッジしかない</li>
+        <li><span class="quiz">徒歩</span>での撮影ばかりでありサン・ホセ周辺が多い</li>
         <li>とまれが「<span class="quiz">ALTO</span>」はコスタリカ・{{% goto "../mexico/" "メキシコ" %}}・{{% goto "../guatemala/" "グアテマラ" %}}のどれか</li>
+        <li>暗い色の砂浜の上を歩いている</li>
     </ul>
 </div>
 
@@ -28,11 +29,10 @@ is_has_many_trekker: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-後ろのナンバープレートが白背景に青文字が多い
+後ろのナンバープレートが白背景に青文字が多い{{% ex "https://goo.gl/maps/s64SxiuWMRpySiP36" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/gGGogQKkGbfVVv4E7" "https://goo.gl/maps/AeiypzDff9piNJtd6" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683473242501!6m8!1m7!1s-l14hEozEW4XbgR1iRjiJg!2m2!1d9.93861012011926!2d-84.05332299756108!3f222.66308981840044!4f-8.527545045709047!5f3.322991764740751" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683473418926!6m8!1m7!1sC1vUIUhR1yfi_xpRB6GaaA!2m2!1d9.936497147946236!2d-84.05415914176896!3f231.74213196001486!4f-17.543890324728594!5f3.0934274439057368" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./car.jpg" width="450px" />
 </div>
 
 
@@ -41,5 +41,26 @@ is_has_many_trekker: true
 
 By Zcarstvnz - This file has been extracted from another file, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=92156353">Wikimedia Commons(Link)</a>
 {{% /lb %}}
+
+
+{{% notice tip %}}
+少し黒い色の砂浜の上を歩いている{{% ex "https://goo.gl/maps/bgvHTPim84tpDgVE9" "https://goo.gl/maps/ErpF9xwi6YTwUBWp8" "https://goo.gl/maps/KUxVKAC39XEUrwCe8" "https://goo.gl/maps/3PrEtxerg9emYpE3A" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/ox5mvmcrrJNtxqQz9" "https://goo.gl/maps/ik2xgcXVJtEjDdzZ8" %}}
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="beach.png" width="85%" />
+</div>
+
+
+{{% notice tip %}}
+火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌の森を歩いている{{% ex "https://goo.gl/maps/UKV26kpZ8pjHvVkT7" "https://goo.gl/maps/aYpeGc3Y3wmyV8Vo9" "https://goo.gl/maps/aFSZofb14GS42cHh6" "https://goo.gl/maps/fEbjVCbJgmBbeU6c9" "https://goo.gl/maps/4agyXkga9cRC8G2y8" %}}。国内のいろいろな場所で歩いている。流石に場所の特定まではできなさそう。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691135863911!6m8!1m7!1s4A491mfkE-ygbyDihV6Y5Q!2m2!1d10.04795779370162!2d-84.26533057901426!3f218.11185127833681!4f-34.2005562834801!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691135888151!6m8!1m7!1sHcqUiR80wEA-mSAbO-4nqQ!2m2!1d9.599395818759914!2d-84.5498971608399!3f319.0751696401205!4f-10.457491498395328!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% /tab %}}
 {{% /tabs  %}}

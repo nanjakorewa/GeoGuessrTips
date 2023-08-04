@@ -61,7 +61,7 @@ sc: [
 <img src="2023-07-23-10-23-12.png" width="310px"/>
 </div>
 
-{{% notice tip %}}電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の" %}}。{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% by "niwaisound" "twitch"  %}}。あとこの画像のような曇りっぽい天気が多いように思う。
+{{% notice tip %}}電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% by "niwaisound" "twitch"  %}}。あとこの画像のような曇りっぽい天気が多いように思う。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bulgaria-road.png" width="90%">

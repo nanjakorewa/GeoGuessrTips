@@ -26,7 +26,8 @@ sc: [
         <li>自然状態の植物は<span class="quiz">コケと針状の草</span>のみ{{% by "https://ngu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=430&item_no=1&page_id=13&block_id=49" "web" "アイスランドの地質学的自然環境学的特質について - 名古屋学院大学論集　人文・自然科学篇" %}}</li>
         <li>溶岩によって作成された地形であり<span class="quiz">不規則に川や湿地がある</span></li>
         <li>「ð」の文字は<span class="quiz">フェロー諸島</span>とアイスランドでのみ使用される</li>
-        <li>ナンバープレートの左側に青のラインが無いので注意</li>
+        <li>ナンバープレートの左側に青のラインが<b>無い</b>ので注意</li>
+        <li class="no-no-evidence">北欧にある木製のロッジのような家は存在せず窓が大きい</li>
     </ul>
     {{% rd europe iceland verysmall %}}
 </div>
@@ -35,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-溶岩によって作成された地形であり土が黒く針状の草のみが自生する。不規則に川や湿地がある。川岸がまっすぐな川はほぼ無い。
+溶岩によって作成された地形であり土が黒く針状の草のみが自生する。その性質上、不規則に川や湿地があり、川岸がまっすぐな川はほぼ存在しない。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./iceland-road.png" width="95%">
@@ -43,11 +44,20 @@ sc: [
 
 
 {{% notice tip %}}
-<span class="quiz">黄色</span>のボラードがある
+<span class="quiz">黄色</span>のボラードがある{{% ex "https://goo.gl/maps/YufFHvRNSy98MUSt9" "https://goo.gl/maps/xVKs6YeD8Hu6uC8g6" "https://goo.gl/maps/6Bp8nSZan47y3pP77" "https://goo.gl/maps/UJsQoZL2FwLCKUMf6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./iceland-bollard.png" width="95%" alt="アイスランドのボラード" />
 </div>
+
+
+{{% notice tip %}}
+寒いアイスランドでは部屋の温度を下げないように日光を取り入れる窓がたくさんがあるように見える{{% ex "https://goo.gl/maps/QmqcLmurwQDMfmjk7" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}。また、北欧と異なり木が生えない環境なので木製の壁や屋根はほとんどないように見える{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="iceland-house.jpg" width="95%" />
+</div>
+
 
 {{% notice tip %}}
 横断歩道の標識が黄色い。ただ都心部以外はあまり見つからないかも。

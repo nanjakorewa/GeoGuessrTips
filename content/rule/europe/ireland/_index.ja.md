@@ -49,13 +49,13 @@ sc: [
 </div>
 
 {{% notice tip %}}
-アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
+アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://goo.gl/maps/JmSFuVkugqPPRhBg9" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681292381213!6m8!1m7!1suH79aLwf5wT-dtDeZBZr3A!2m2!1d52.27008385403244!2d-9.703819887934827!3f316.79837317689214!4f-17.086560765260117!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="unclickable">
-<img src="ie.png" width="220px" style="margin:40px">
+<div class="googlemap-if unclickable no-margin">
+<img src="warning-sign.jpg" width="90%" />
 </div>
+<div class="googlemap-if unclickable no-margin">
+<img src="ie.png" width="120px">
 </div>
 
 {{% notice tip %}}
@@ -82,15 +82,37 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">石がたくさんある地域ではDry stone{{% by "https://en.wikipedia.org/wiki/Dry_stone" "wiki" "Dry stone" %}}を使って作られた石壁が多い。たとえば西の方のBurren周辺など。</li>
+        <li class="no-evidence">石がたくさんある地域ではDry stone{{% by "https://en.wikipedia.org/wiki/Dry_stone" "wiki" "Dry stone" %}}を使って作られた石壁が多い。たとえば西の方のBurren周辺など{{% ex "https://goo.gl/maps/BhuZqWU662ib4AR97" "https://goo.gl/maps/yB2aCSD15FwvsX4m6" %}}。</li>
     </ul>
 </div>
 
 {{% tabs  %}}
 {{% tab "石壁" %}}
+<div class="googlemap-if unclickable" width="95%">
+<img src="./burren.jpg">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">石油の備蓄タンクやコンテナターミナルが見えたならDublinに行ってみる{{% ex "https://goo.gl/maps/x5qrfJSjtDDqqkcR9" %}}</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "Dublin" %}}
+
+{{% notice tip %}}
+一般にこういうものが見えたらその国で一番重要な港がありそうな場所に行っていいと思う。
+ウルグアイ→モンテビデオ{{% ex "https://goo.gl/maps/7MwvWEhjtZRwJt6R7" %}}、アイスランド→レイキャビク{{% ex "https://goo.gl/maps/285DwsMHB9jJ21iB9" %}}、マルタ→一番南の港{{% ex "https://goo.gl/maps/5zWnirLqPhXsjuaC9" %}}など。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685218075082!6m8!1m7!1sJWzA_C-TslGYQCfC_LTWfQ!2m2!1d53.05007205762681!2d-9.341449344165868!3f167.12447129330266!4f-9.054853694897432!5f3.152407917821099" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685218299474!6m8!1m7!1s0eEYNMc-QgeN40qg5Ajt_A!2m2!1d52.94580678260273!2d-9.463946449417733!3f58.83014621643022!4f-10.218705873414734!5f2.499413826432943" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691131476876!6m8!1m7!1sZxa0KRI4JRiRb8Ey9EAOGw!2m2!1d53.35200880179976!2d-6.214987220605945!3f191.397382832162!4f3.0574230638863895!5f0.7820865974627469" width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
