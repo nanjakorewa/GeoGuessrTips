@@ -40,7 +40,7 @@ sc: [
 
 
 {{% notice tip %}}
-イスラエルのナンバープレートは<span class="quiz">黄色</span>のものが多い
+イスラエルのナンバープレートは<span class="quiz">黄色</span>のものが多い{{% ex "https://goo.gl/maps/7M4eqVSavYNDkrTV6" "https://goo.gl/maps/w2B9H64Q1c7h2awJ6" "https://goo.gl/maps/hTXDxJnzQrYVPYMU9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -55,7 +55,7 @@ By <a href="//commons.wikimedia.org/wiki/User:%D0%AE%D0%BA%D0%B0%D1%82%D0%B0%D0%
 {{% /lb %}}
 
 {{% notice tip %}}
-鉄塔のようなものが街中に多く存在する
+鉄塔のようなものが街中に多く存在する{{% ex "https://goo.gl/maps/6XejRDAZwEsLcckf6" "https://goo.gl/maps/D3rhzFnwY6bQVTW86" "https://goo.gl/maps/aEqhgYkomroe4cp99" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
