@@ -91,17 +91,17 @@ public domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>地域ごとに明確な違いがあるのか正直わからない</li>
-        <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
         <li>ボーンホルム島の看板は『Nexø』か『Rønne』までの距離が書かれているケースが多い{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
         <li>レス島という離島がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}</li>
+        <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
+        <li>率直に言って本島にて地域ごとに明確な違いがあるのかわからない</li>
     </ul>
 </div>
 {{% tabs %}}
 {{% tab "ボーンホルム島" %}}
 
 {{% notice tip %}}
-『Nexø』と『Rønne』のどちらかが書いてある看板がほとんど。
+『Nexø』と『Rønne』のどちらかが書いてある看板がほとんど。小さめの自転車ルートの看板にも書いてある。
 {{% /notice %}}
 
 <div class="googlemap-if">
