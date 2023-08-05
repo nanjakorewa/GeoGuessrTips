@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "IE.svg"
 jetro_detail: true
 is_has_distinctive_bollard: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../united-kingdom/", "イギリス"],
@@ -49,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://goo.gl/maps/JmSFuVkugqPPRhBg9" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
+アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://goo.gl/maps/JmSFuVkugqPPRhBg9" "https://goo.gl/maps/svmH5kVVS9wMmmCF8" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="warning-sign.jpg" width="90%" />
@@ -82,7 +83,7 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">石がたくさんある地域ではDry stone{{% by "https://en.wikipedia.org/wiki/Dry_stone" "wiki" "Dry stone" %}}を使って作られた石壁が多い。たとえば西の方のBurren周辺など{{% ex "https://goo.gl/maps/BhuZqWU662ib4AR97" "https://goo.gl/maps/yB2aCSD15FwvsX4m6" %}}。</li>
+        <li class="no-evidence">石がたくさんある地域ではDry stone{{% by "https://en.wikipedia.org/wiki/Dry_stone" "wiki" "Dry stone" %}}を使って作られた石壁が多い。たとえば西の方のBurren周辺{{% ex "https://goo.gl/maps/BhuZqWU662ib4AR97" "https://goo.gl/maps/yB2aCSD15FwvsX4m6" %}}や西の海側{{% ex "https://goo.gl/maps/zxf8hU5uSippdVUW9" "https://goo.gl/maps/enugNbchRBYvRiJh7" "https://goo.gl/maps/QdQPy5CdSfnony4o7" "https://goo.gl/maps/tX8YbfkCHtdMbcgc6" %}}。</li>
     </ul>
 </div>
 
