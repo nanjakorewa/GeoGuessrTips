@@ -30,11 +30,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ドラケンスバーグ山脈の中に国が存在し全体的に標高が高く<span class="quiz">ごつごつした隆起や上が平らな山が多い</span>。草は生えていて羊や牛などの牧畜がたまに見える。{{% goto "../eswatini/" "エスワティニ" %}}も標高が高い場所があるがエスワティニの標高が高い場所では林業が盛んで木が多い。一方でレソトは木が生えていないことが多い。
+ドラケンスバーグ山脈の中に国が存在し全体的に標高が高く<span class="quiz">ごつごつした隆起や上が平らな山が多い</span>{{% ex "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" %}}。草は生えていて羊や牛などの牧畜がたまに見える。{{% goto "../eswatini/" "エスワティニ" %}}も標高が高い場所があるがエスワティニの標高が高い場所では林業が盛んで木が多い。一方でレソトは木が生えていないことが多い。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682390837371!6m8!1m7!1s1W89EC1PLtlTObFXq7zE2g!2m2!1d-29.42822490992072!2d27.8858412246169!3f180.80215623144815!4f7.155903004182491!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685602996939!6m8!1m7!1szkNKD4ImceqLOggcfbwSqw!2m2!1d-29.28763903914886!2d29.04408772065672!3f334.9581609737825!4f-6.393755020269111!5f1.5341542795083254" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./mountain.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
