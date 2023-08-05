@@ -51,12 +51,11 @@ sc: [
 
 
 {{% notice tip %}}
-オーストラリアのボラードの赤い反射板は基本的に片側だけだがニュージーランドは両側に赤い部分があり赤い面積も多い。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
+オーストラリアのボラードの赤い反射板は基本的に片側だけで赤い領域も小さい{{% ex "https://goo.gl/maps/idzrG3yGRe6DJHZZ9" %}}。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680144661468!6m8!1m7!1sBApyf10_WfxpO26UJJ3u6w!2m2!1d-29.40199480435424!2d149.9148684407626!3f99.3413713142664!4f-19.826968570449495!5f3.3209542488875803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681502031975!6m8!1m7!1sYOKgISqcrXEMRhe-mijsIQ!2m2!1d-35.7113153978181!2d174.0286454241244!3f162.44117437861425!4f-16.704223171344054!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./bollard.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
