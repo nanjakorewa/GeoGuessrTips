@@ -64,6 +64,14 @@ sc: [
 <div class="unclickable"><img src="2023-06-09-01-40-05.png" width="590"/></div>
 </div>
 
+{{% notice note %}}
+頑張って取り寄せました。めちゃおいしかった！！！！
+{{% /notice %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">あとで飲みます <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/e0vByRVm5y">pic.twitter.com/e0vByRVm5y</a></p>&mdash; nanja (@nanjakorewa) <a href="https://twitter.com/nanjakorewa/status/1675089909256970241?ref_src=twsrc%5Etfw">July 1, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
 
 {{% notice tip %}}
 仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
