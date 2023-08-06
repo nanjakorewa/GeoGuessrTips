@@ -128,6 +128,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
                 <li>{{% ref "http://www.chileflora.com/Florachilena/FloraJapanese/JPlantdbase.php" "チリ植物オンラインデータベース" %}}</li>
             </ul>
         </li>
+        <li class="no-evidence">クリコ{{% ex "https://goo.gl/maps/QVKhctJjCnaLE19j6" %}}より北では雪山はほぼ無い</li>
     </ul>
 </div>
 
