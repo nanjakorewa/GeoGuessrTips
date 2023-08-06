@@ -406,6 +406,10 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% /tab %}}
 {{% tab "Madhya Pradesh" %}}
 
+{{% notice tip %}}
+この山のような形の電柱はどこにでもあるように思うが、下の部分に▽があるのが特徴的かもしれない。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685018079861!6m8!1m7!1snAg_kJHTKmx2pcQ__xrJrA!2m2!1d23.89388214738087!2d76.89253305767144!3f248.11187586331368!4f40.08550799520157!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685018153925!6m8!1m7!1s4IZRg8Z_Jz-HoII4iunIoQ!2m2!1d23.07019340926012!2d77.62068318788117!3f286.91972497971676!4f24.919263281942648!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
