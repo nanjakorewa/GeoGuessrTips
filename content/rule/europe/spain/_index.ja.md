@@ -74,13 +74,18 @@ sc: [
 </div>
 
 {{% notice tip %}}
-黒と青のシェブロンがある。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+<b>白黒</b>と<b>白青</b>のシェブロンがある。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。この画像のようにシェブロンが<b>白黒</b>でガードレールやボラードの反射板が黄色だったり標識やシェブロンの棒が四角い長方形ならばスペインか{{% goto "../andorra/" "アンドラ" %}}を考えてみて良いと思う。
 {{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-08-06-14-45-27.png" width="90%" />
+</div>
 
 <div class="googlemap-if unclickable">
 <img src="./r/chv.png" width="200px">
 <img src="./r/chv-b.png" width="200px">
 </div>
+
 
 {{% /tab %}}
 {{% tab "電柱" %}}
