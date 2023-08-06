@@ -27,6 +27,7 @@ sc: [
         <li>周りが山がちで石壁の模様の壁のアパート・マンションが多い</li>
         <li>スノーポールと思われる棒が道沿いに並んでいる</li>
         <li>横断歩道の標識の棒が{{% goto "../spain/" "スペイン" %}}と同じ8本である点だけ注意</li>
+        <li>スキーをしていることが多い{{% ex "https://goo.gl/maps/v1yo8Q4Umb3RA3JR8" "https://goo.gl/maps/7jyT3MVvjAWxjXaN6" "https://goo.gl/maps/WD6r8gtptfgGwsGx8" "https://goo.gl/maps/AshXK6YnGBBWq2rz7" %}}</li>
     </ul>
     {{% rd europe andorra verysmall %}}
 </div>
@@ -35,19 +36,33 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-周りが山がちで石壁の模様のアパート・マンションが多い。恐らくどこにいたとしても建物の隙間や通りから山の斜面が見える。イタリア西部の山の中でも石壁模様の家が多い（例<a href="https://goo.gl/maps/uSRbQsrbskQkajcb6">①</a>）ので間違えないように注意する。
+周りが山がちで石壁の模様のアパート・マンションが多い。恐らくどこにいたとしても建物の隙間や通りから山の斜面が見える{{% ex "https://goo.gl/maps/HTiQdHf8CtJ7q3RD7" "https://goo.gl/maps/uCdX73HmturK9a467" "https://goo.gl/maps/1gnf9YFxHNpJjxCd6" %}}。イタリア西部の山の中でも石壁模様の家が多い{{% ex "https://goo.gl/maps/uSRbQsrbskQkajcb6" %}}ので間違えないように注意する。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="600" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
-左側が<span class="quiz">黄色</span>くなっているナンバープレート。
+上が赤いスノーポールと思われる棒が道沿いに並んでいることがある（例{{% ex "https://goo.gl/maps/baQkrBMDPfZGeUDJ8" "https://goo.gl/maps/XeZRokF82ZP5d3Yt6" "https://goo.gl/maps/2RkJ61FbyVF2mdcv7" "https://goo.gl/maps/huZ9YVp5iVenzPF7A" "https://goo.gl/maps/xewVBquNDc6utbbZ8" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/azariel_de_lunivers/44442988031/" title="Road and cows."><img src="https://live.staticflickr.com/1844/44442988031_40d6508556_z.jpg" width="640" height="427" alt="Road and cows."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
+{{% notice tip %}}
+「CS」や「CG」の道路番号{{% ex "https://goo.gl/maps/qnec2sM37NcgWVyj7" "https://goo.gl/maps/tLoLdtWhcvsGm1i78" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./roadsign.jpg" width="75%" />
+</div>
+
+{{% notice tip %}}
+左側が<span class="quiz">黄色</span>くなっているナンバープレート{{% ex "https://goo.gl/maps/JhDjV8WTrV98oNMr7" %}}。ただしEUの青いプレートの車も多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682728451969!6m8!1m7!1sr4xRNB7a7XWyDDU4OugpXA!2m2!1d42.51030774674885!2d1.532758286313359!3f195.26953968399744!4f-25.806117153738768!5f3.2892781648653573" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682728479441!6m8!1m7!1sn78dv8pfDdGKghkDtRDvMw!2m2!1d42.50880618965034!2d1.542596154036255!3f238.31564151689977!4f-27.934108154346717!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682728451969!6m8!1m7!1sr4xRNB7a7XWyDDU4OugpXA!2m2!1d42.51030774674885!2d1.532758286313359!3f195.26953968399744!4f-25.806117153738768!5f3.2892781648653573" width="395" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% lb 50 %}}
@@ -56,12 +71,6 @@ sc: [
 By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36942968">Link - Wikimedia Commons</a>
 {{% /lb %}}
 
-{{% notice tip %}}
-上が赤いスノーポールと思われる棒が道沿いに並んでいることがある（例<a href="https://goo.gl/maps/huZ9YVp5iVenzPF7A">①</a>・<a href="https://goo.gl/maps/xewVBquNDc6utbbZ8">②</a>）。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/azariel_de_lunivers/44442988031/" title="Road and cows."><img src="https://live.staticflickr.com/1844/44442988031_40d6508556_z.jpg" width="640" height="427" alt="Road and cows."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}
@@ -72,6 +81,13 @@ By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/d
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682727790100!6m8!1m7!1sNq0XruSiR_PXPSAhgA-Kug!2m2!1d42.53517362834788!2d1.581372641366805!3f110.57199857848678!4f-23.872131066662078!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682727919095!6m8!1m7!1sBeKKxSvTdvqqxqiCKtusiw!2m2!1d42.55073839781397!2d1.695846565481723!3f165.21716310853563!4f-4.172480745179101!5f3.314171391291496" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+普通のボラード
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691299293827!6m8!1m7!1sObJnpf64z1Imw_ocs2e6aw!2m2!1d42.55798467643363!2d1.588847768975983!3f219.53496910417147!4f-10.763485870289799!5f3.253823129479834"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
