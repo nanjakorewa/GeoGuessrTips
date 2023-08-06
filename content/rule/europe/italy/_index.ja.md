@@ -124,7 +124,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
-        <li class="no-evidence">地中海側はサボテンや石垣が多い{{% ex "https://goo.gl/maps/b8rbfdnaKGL1Pijm9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
+        <li class="no-evidence">地中海側はサボテンや石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
         <li class="no-evidence">田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
