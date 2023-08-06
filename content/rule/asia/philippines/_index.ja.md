@@ -28,7 +28,7 @@ sc: [
         <li>トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシーとして使われる</li>
         <li>ジプニーとよばれる<span class="quiz">派手な色のバス</span>が交通手段として使用される</li>
         <li>ジプニーなどの公共交通機関のナンバーは<span class="quiz">黄</span>色・一般車は<span class="quiz">緑</span>色が多い</li>
-        <li class="no-evidence">アジアで赤と白のシェブロンが見られるのはフィリピンとスリランカ</li>
+        <li class="no-evidence">アジアで赤白のシェブロンがあるならフィリピンと{{% goto "../srilanka/" "スリランカ" %}}の可能性大</li>
         <li class="no-evidence">ローヤルクラウン・コーラが売られている</li>
         <li class="no-evidence">後ろに扉が無い乗り物を見たらほぼフィリピン</li>
     </ul>
