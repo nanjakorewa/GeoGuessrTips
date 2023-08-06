@@ -53,14 +53,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ（{{% goto "https://goo.gl/maps/Bnh3aPP8joznfXTb9" "1" ex %}}）。ほかはアイスランド・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% goto "https://goo.gl/maps/Bnh3aPP8joznfXTb9" "1" ex %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
-古い石畳の道があったり歩道が石畳だったりする（{{% goto "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "1" ex%}}{{% goto "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" ex %}}{{% goto "https://goo.gl/maps/ncWNxF3cF7evXUNW8" "3" ex %}}）。
+古い石畳の道があったり歩道が石畳だったりする{{% goto "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "1" ex%}}{{% goto "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" ex %}}{{% goto "https://goo.gl/maps/ncWNxF3cF7evXUNW8" "3" ex %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./street.png" width="90%">
