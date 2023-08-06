@@ -38,15 +38,19 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の背面には<span class="quiz">クロス</span>が存在する
+標識の背面には<span class="quiz">クロス</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" %}}。{{% imref %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679138005508!6m8!1m7!1sIS7P4fzaicRfinbA0j5TRw!2m2!1d3.396441393668646!2d-76.52339001433994!3f136.71002847658113!4f-4.691034225921541!5f2.908818923327662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679137921739!6m8!1m7!1sTVla3KChW9nZzIzHjNIHlA!2m2!1d2.516340478781876!2d-76.50260350297357!3f38.38964881780703!4f2.329973697644803!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-sign-example.jpg" width="85%" />
 </div>
 
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-sign.jpg" width="85%" />
+</div>
+
+
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる。
+ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/Jw89zbqj9B89ikJn9" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://goo.gl/maps/v4J84W4YFW6ri5jA6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/padawan72/3780843859/" title="Antioquia"><img src="https://live.staticflickr.com/3465/3780843859_c8d80e4f11_z.jpg" width="640" height="480" alt="Antioquia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -54,6 +58,8 @@ sc: [
 
 {{% lb 50 %}}
 ![コロンビアのナンバープレート](./licenceplate.png)
+
+自作
 {{% /lb %}}
 
 {{% /tab %}}
@@ -87,10 +93,10 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "メデジン" %}}
-{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある
+{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://goo.gl/maps/J2Zrg6PmJLiXF6276" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679273454905!6m8!1m7!1sNbvSLGci__6c7tc5-4i_8Q!2m2!1d6.325040789380329!2d-75.66050090983481!3f56.33346978748776!4f-14.952009199111728!5f2.0390632519342096" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="2023-08-06-19-01-33.png" width="80%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -100,6 +106,7 @@ sc: [
     <ul class="rule-list">
         <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。</li>
         <li>タクシーとトラックの屋根または側面にサイドプレートがあり、<span class="quiz">ナンバーと都市名</span>が書いてある</li>
+        <li>ゴルゴナ島という離島がある</li>
     </ul>
 </div>
 
@@ -123,5 +130,17 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679137969933!6m8!1m7!1sXD5mn8ENTU36E8wY6oVgOw!2m2!1d2.459939005594445!2d-76.59373969920176!3f264.4511955614134!4f-29.74845254312335!5f1.9483907551121744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ゴルゴナ島" %}}
+{{% notice tip %}}ゴルゴナ島という離島がある、車や標識はなく知らなければ置くのは難しい。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691324544096!6m8!1m7!1sva7Z7ZrXNwu3BHfEkplsaw!2m2!1d2.964943901338966!2d-78.17279365172386!3f327.48204039154035!4f3.629358793575335!5f0.7626066508291676"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
+{{% imgref %}}
+<li>◆ともに加工あり・標識部分のみ切り出し</li>
+<li>By <a href="//commons.wikimedia.org/wiki/User:EEIM" title="User:EEIM">EEIM</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63840438">Link</a></li>
+<li>By hfb21, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52811696">Link</a></li>
+{{% /imgref %}}
