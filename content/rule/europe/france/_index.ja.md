@@ -187,7 +187,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a>を加工しています</p>
 </div>
 {{% notice info %}}
-コメントで教えてもらったついでに作ってみた図
+コメントで教えてもらったついでに作ってみた図。なんとなく `02 9x` で半島に、`05 4x` で結構北に、`04 7x` かどうかで海沿いに行くか行かないか決めるのが役立つ気がする。もちろんすべての地域の４桁目まで覚えられるのが理想かもしれないが個人的にはこの３つ以外覚えるのは無理。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "ドイツ付近" %}}
