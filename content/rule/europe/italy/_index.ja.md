@@ -41,7 +41,7 @@ sc: [
 
 
 {{% notice tip %}}
-上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/DuSPdfP9aiSWEUCf7" "https://goo.gl/maps/KcqbxFgEQUNsGSrr9" %}}。{{% goto "../albania/" "アルバニア" %}}にも似た形のボラードが見つかる。
+上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/DuSPdfP9aiSWEUCf7" "https://goo.gl/maps/Kw2HLvLByHQvFZmh7" "https://goo.gl/maps/KcqbxFgEQUNsGSrr9" %}}。{{% goto "../albania/" "アルバニア" %}}にも似た形のボラードが見つかる。
 {{% /notice %}}
 
 
@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-SP・SSなどの道路番号と八角形のAの道路番号はイタリア特有。
+SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.gl/maps/hvoi3NdSTojafJ7eA" %}}はイタリア特有。
 {{% /notice %}}
 
 
@@ -59,7 +59,7 @@ SP・SSなどの道路番号と八角形のAの道路番号はイタリア特有
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
+ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -73,7 +73,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-通り名の看板に「<span class="quiz">Via</span>」と書いてある。白い板に青い線の縁取りがある看板が多く、同じ看板は{{% goto "../san-marino/" "サンマリノ" %}}でも見られる。
+通り名の看板に「<span class="quiz">Via</span>」と書いてある{{% ex "https://goo.gl/maps/P6HAct9Q6e9GcePy8" "https://goo.gl/maps/mf66QrHV4ECYAFFU7" "https://goo.gl/maps/Y7DX7mQHE4AUKZKa6" %}}。白い板に青い線の縁取りがある看板が多く{{% ex "https://goo.gl/maps/dLBCkMsRZmDcwgcX7" "https://goo.gl/maps/LMpRA1Hf7YsMGwYg9" %}}、同じ看板は{{% goto "../san-marino/" "サンマリノ" %}}でも見られる。
 {{% /notice %}}
 
 <div class="googlemap-if">
