@@ -35,7 +35,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的。また、標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。また、標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-06-16-06-39-55.png" width="350px">
@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴。
+止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="DUR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -56,7 +56,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードは<span class="quiz">片</span>面に反射板があり薄い
+ボラードは<span class="quiz">片</span>面に反射板があり薄い{{% ex "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682126276939!6m8!1m7!1szePmi730CADvSN8BXt2KzQ!2m2!1d37.14516048092026!2d34.83534030237135!3f345.4821428952779!4f-8.685966550225672!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
