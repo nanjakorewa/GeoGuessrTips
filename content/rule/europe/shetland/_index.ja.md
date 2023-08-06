@@ -21,10 +21,10 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>場所は{{% goto "https://goo.gl/maps/xYGRhBCP378DnE41A" "イギリスの最北部" %}}</li>
+        <li>場所はイギリスの最北部{{% ex "https://goo.gl/maps/xYGRhBCP378DnE41A"%}}</li>
         <li>車は<span class="quiz">左側</span>通行</li>
-        <li>基本的にはイギリス本土と同じ特徴を持っているが生垣（ヘッジロウ）はほとんど無い</li>
-        <li>気候は曇りの日が一般的{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6" "シェトランド諸島#気候" %}}</li>
+        <li>基本的にはイギリス本土と同じ特徴を持っているが生垣はほとんど無い</li>
+        <li class="no-evidence">気候は曇りの日が一般的でストリートビューも雲が多い時がある{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6" "シェトランド諸島#気候" %}}</li>
         <li class="no-evidence">土着の樹木は崖や離島以外は存在しない</li>
     </ul>
     {{% rd europe shetland verysmall OGL %}}

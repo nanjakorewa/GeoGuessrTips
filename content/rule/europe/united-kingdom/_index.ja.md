@@ -75,7 +75,7 @@ Public Domain
 
 {{% notice tip %}}
 この図は左が<span class="quiz">アイルランド</span>で右が<span class="quiz">イギリス</span>。
-<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で同じ色の国はない。同じ色のものを用いるのはヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}など。アイルランドは矢印が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+<span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う。北海周辺の寒い地域で白黒のシェブロンを使う国はない。同じ色のものを用いるのはヨーロッパでは{{% goto "../switzerland/" "スイス" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../greece/" "ギリシャ" %}}・{{% goto "../albania/" "アルバニア" %}}が多い。{{% goto "../ireland/" "アイルランド" %}}は矢印が黄色{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 
 
