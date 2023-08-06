@@ -38,7 +38,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の背面には<span class="quiz">クロス</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" %}}{{% imref %}}。ポールや裏面は白が多い印象。
+標識の背面には<span class="quiz">クロス</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road-sign-example.jpg" width="85%" />
@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/Jw89zbqj9B89ikJn9" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://goo.gl/maps/v4J84W4YFW6ri5jA6" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
+ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/Jw89zbqj9B89ikJn9" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}でバイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://goo.gl/maps/v4J84W4YFW6ri5jA6" "https://goo.gl/maps/51tyTHc4yQPBZNGT6" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/padawan72/3780843859/" title="Antioquia"><img src="https://live.staticflickr.com/3465/3780843859_c8d80e4f11_z.jpg" width="640" height="480" alt="Antioquia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -93,7 +93,7 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "メデジン" %}}
-{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://goo.gl/maps/J2Zrg6PmJLiXF6276" %}}
+{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-08-06-19-01-33.png" width="80%" />
