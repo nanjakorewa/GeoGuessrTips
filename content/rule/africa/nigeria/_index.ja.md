@@ -44,7 +44,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多い。南西のラゴス周辺ではパトカーがいないこともあるので注意。
+<span class="quiz">パトカー</span>が付いてくることが多い。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683692834092!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.04290114587546!2d8.553268243877477!3f21.608577852446587!4f-8.27794757499612!5f3.1261648081652695" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -87,8 +87,8 @@ sc: [
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(USDA)</a>・マップのサイズが一致するように一部画像加工あり</li>
             </ul>
         </li>
-        <li>通り名の看板で地域を絞り込める{{% by %}}</li>
         <li class="no-evidence">パトカーのランプの色で地域を絞り込める{{% by %}}らしいが確度は高くないように思う。周りの景色を信用した方がいいかも。</li>
+        <li class="no-evidence">北東にパトカー大名行列エリアがある？</li>
     </ul>
 </div>
 
@@ -128,6 +128,13 @@ sc: [
 {{% notice tip %}}
 中央から北部にかけて多いが海沿い以外はどこでも存在する可能性あり
 {{% /notice %}}
+{{% /tab %}}
+{{% tab "パトカー大名行列" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691359795933!6m8!1m7!1sFBcB-g-4s1prm6_hAwDR_w!2m2!1d11.60834041871638!2d11.12985903867848!3f121.80223521874404!4f1.5224488571058856!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691359890645!6m8!1m7!1sXHL-Fy1sG7rpeQ0VEFsbHw!2m2!1d11.43123830596603!2d11.26341542505516!3f169.39863020596815!4f-2.248012237078896!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
