@@ -64,7 +64,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 </div>
 
 {{% notice tip %}}
-道路番号に「<span class="quiz">A</span>」や「B」が付いている。道路が少ないので看板と交差点があれば5000点が狙えるかも？
+道路番号に「<span class="quiz">A</span>」や「B」が付いている。{{% goto "../lesotho/" "レソト" %}}も同様の道路番号だがレソトと違いボツワナはかなり平坦。道路が少ないので看板と交差点があれば5000点が狙えるかも？
 {{% /notice %}}
 
 <div class="googlemap-if">
