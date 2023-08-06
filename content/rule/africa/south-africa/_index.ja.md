@@ -79,6 +79,16 @@ sc: [
 
 
 {{% /tab %}}
+{{% tab "ボラード" %}}
+{{% notice tip %}}
+P522と書かれているのは道路番号なので見逃さないように。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691333114238!6m8!1m7!1sqbUYq9H933ZeNE74Ilm42A!2m2!1d-27.07231948524053!2d32.19892102941815!3f317.05305350744254!4f-20.371161840810743!5f1.6580457275036493"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
 
 <div>
