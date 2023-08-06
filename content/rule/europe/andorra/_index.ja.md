@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-上が赤いスノーポールと思われる棒が道沿いに並んでいることがある（例{{% ex "https://goo.gl/maps/baQkrBMDPfZGeUDJ8" "https://goo.gl/maps/XeZRokF82ZP5d3Yt6" "https://goo.gl/maps/2RkJ61FbyVF2mdcv7" "https://goo.gl/maps/huZ9YVp5iVenzPF7A" "https://goo.gl/maps/xewVBquNDc6utbbZ8" %}}。
+上が赤いスノーポールと思われる棒が道沿いに並んでいることがある{{% ex "https://goo.gl/maps/baQkrBMDPfZGeUDJ8" "https://goo.gl/maps/XeZRokF82ZP5d3Yt6" "https://goo.gl/maps/2RkJ61FbyVF2mdcv7" "https://goo.gl/maps/huZ9YVp5iVenzPF7A" "https://goo.gl/maps/xewVBquNDc6utbbZ8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/azariel_de_lunivers/44442988031/" title="Road and cows."><img src="https://live.staticflickr.com/1844/44442988031_40d6508556_z.jpg" width="640" height="427" alt="Road and cows."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

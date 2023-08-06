@@ -49,7 +49,7 @@ sc: [
 
 
 {{% notice tip %}}
-ハンガリーの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>・<span class="quiz">ラトビア</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
+ハンガリーの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>・<span class="quiz">ラトビア</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。足の形が「ハ」ならハンガリーで、「く」ならクロアチア（強引）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
