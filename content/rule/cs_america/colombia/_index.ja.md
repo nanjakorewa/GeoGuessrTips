@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/Jw89zbqj9B89ikJn9" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}でバイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://goo.gl/maps/v4J84W4YFW6ri5jA6" "https://goo.gl/maps/51tyTHc4yQPBZNGT6" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
+ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://goo.gl/maps/Jw89zbqj9B89ikJn9" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}でバイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://goo.gl/maps/v4J84W4YFW6ri5jA6" "https://goo.gl/maps/51tyTHc4yQPBZNGT6" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/padawan72/3780843859/" title="Antioquia"><img src="https://live.staticflickr.com/3465/3780843859_c8d80e4f11_z.jpg" width="640" height="480" alt="Antioquia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

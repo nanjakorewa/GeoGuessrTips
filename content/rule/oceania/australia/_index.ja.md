@@ -43,7 +43,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">ユーカリ</span>の木が沢山ある。電柱は緑色の木製のものやシロアリ対策で鉄でできたものがある{{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}。
+<span class="quiz">ユーカリ</span>の木が沢山ある。電柱は緑色の木製のもの{{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}}やシロアリ対策で鉄でできたものがある{{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./up.png" width="95%" alt="オーストラリアの電柱" />
@@ -51,7 +51,7 @@ sc: [
 
 
 {{% notice tip %}}
-オーストラリアのボラードの赤い反射板は基本的に片側だけで赤い領域も小さい{{% ex "https://goo.gl/maps/idzrG3yGRe6DJHZZ9" %}}。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
+オーストラリアのボラードの赤い反射板は基本的に片側だけで赤い領域も小さい{{% ex "https://goo.gl/maps/2K2TyPVPmxuwJXvi7" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -72,7 +72,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>{{% ex "https://goo.gl/maps/dUzu2ABtosfx4QxcA" %}}、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている{{% ex "https://goo.gl/maps/a7wJbZuqPMnB6mbc9" %}}。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -176,7 +176,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
-        <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% by "neckoluv" "twitch" %}}</li>
+        <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% ex "https://goo.gl/maps/vstKe9SH58xW61vu5" %}}{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">NA</span>の電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
         <li><span class="quiz">TAZ</span>の電柱には緑色の何かが巻いてある</li>
         <li><span class="quiz">WAとVIC</span>の電柱には山の形のものがある</li>
