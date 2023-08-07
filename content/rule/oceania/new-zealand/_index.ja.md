@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/zM7va5ddu2HANQgV6" "https://goo.gl/maps/Vo6Fg3yDTVFhosdKA" %}}
+ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./nz-bollard.png" width="95%" alt="ニュージーランドのボラード" />
@@ -42,14 +42,14 @@ sc: [
 
 
 {{% notice tip %}}
-電柱の上のほうにシルバーの何かが巻かれている。色が異なる時もある。
+電柱の上のほうに何かが巻かれている{{% ex "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./poles.png" width="90%" alt="ニュージーランドの電柱" />
 </div>
 
 {{% notice tip %}}
-GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% ex "https://goo.gl/maps/g6VVwybuoqED18VN6" %}}。また、オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -109,6 +109,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>03：南島全域{{% ex "https://goo.gl/maps/qFFgygxtmGS4QvG49" "https://goo.gl/maps/1GUQwNrkY6idSG3o7" "https://goo.gl/maps/Fw7SsCEmw8oe9cg4A" %}}</li>
             </ul>
         </li>
+        <li>北島の上の部分にホワイト島という離島がある</li>
         <li>本島からかなり離れた場所にアンティポディーズ諸島があってペンギンやオットセイがいる</li>
     </ul>
 </div>
@@ -129,6 +130,11 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% tab "解説動画" %}}
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% tab "ホワイト島" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691432535398!6m8!1m7!1sGdtuSKH1KMDIfTuCjlcEog!2m2!1d-37.52660445699151!2d177.192104170664!3f332.97430522396576!4f-7.641840402404128!5f0.7820865974627469" width="550" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "アンティポディーズ諸島" %}}
