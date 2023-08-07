@@ -12,6 +12,8 @@ jetro_detail: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
+    ["../croatia/", "クロアチアの地中海側の離島"],
+    ["../spain/", "スペイン"],
     ]
 ---
 
@@ -106,6 +108,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688107287211!6m8!1m7!1sHdi9HUClHPbNuAzlaXse3A!2m2!1d40.40659520651187!2d21.32464355017767!3f253.07489613825066!4f-34.212844418528455!5f2.8722551534471177" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688107152207!6m8!1m7!1sCcML3GNqdlwlkSt5YCaFBQ!2m2!1d41.28769137666923!2d22.93970614357949!3f57.35025114807158!4f-9.105558133964138!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691366944201!6m8!1m7!1s8eDq34C8WRBC7UTNpgItTA!2m2!1d41.68721343979372!2d26.2682746052514!3f336.6749127515674!4f-13.13221868370941!5f1.155086221189392"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-plant" %}}
