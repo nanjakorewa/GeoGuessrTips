@@ -40,10 +40,9 @@ sc: [
 こんな感じの細い草がたくさん生えている{{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}
 {{% /notice %}}
 
-<div class="googlemap-if">
-<p><div class="unclickable"><img src="./road.png" /></div></p>
-<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>
-Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
+<div class="googlemap-if no-margin">
+<p><img src="./road.png" /></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
 </div>
 
 {{% notice tip %}}
