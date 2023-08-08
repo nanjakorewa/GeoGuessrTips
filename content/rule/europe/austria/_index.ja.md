@@ -41,7 +41,6 @@ sc: [
 <img src="./r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;">
 <img src="./r/ende.png" width="105px">
 </div>
-</div>
 
 {{% notice tip %}}
 ボラードのてっぺんの黒い部分が他と違う {{% by "https://www.plonkit.net/austria" "plonkit" %}}。スロベニアにも同じような形のものがある。
