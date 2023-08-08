@@ -1273,3 +1273,23 @@ span.miss-text {
   margin-left: 0.5em;
   color: #777;
 }
+
+.rum {
+	width: 300px;
+}
+
+.rum:hover{
+	animation: rumble 0.12s linear infinite;
+}
+
+@keyframes rumble{
+	0%	{transform:rotate(0deg)	translate(0,0);}
+	12.5%	{transform:rotate(0.4deg)	translate(1px,-1px);}
+	25%	{transform:rotate(1deg)	translate(0px,1px);}
+	37.5%	{transform:rotate(0.4deg)	translate(-1px,0);}
+	50%	{transform:rotate(0deg)	translate(0,0);}
+	62.5%	{transform:rotate(-0.4deg)	translate(1px,0);}
+	75%	{transform:rotate(-0.8deg)	translate(0,3px);}
+	87.5%	{transform:rotate(-0.4deg)	translate(-1px,-1px);}
+	100%	{transform:rotate(0deg)	translate(0,0);}
+}

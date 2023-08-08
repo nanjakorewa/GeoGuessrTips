@@ -41,7 +41,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>ことが多い。
+ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>ことが多い{{% ex "https://goo.gl/maps/fMMbguvwvq1HdZ3C9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -62,7 +62,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい。{{% goto "../ukraine/" "ウクライナ" %}}にも稀に見た目がそっくりなボラードがあるのでウクライナでないことだけ確認する。
+ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい{{% ex "https://goo.gl/maps/yBcn1ba5JVzWiDnr6" %}}。{{% goto "../ukraine/" "ウクライナ" %}}にも稀に見た目がそっくりなボラードがあるのでウクライナでないことだけ確認する。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -76,7 +76,7 @@ sc: [
 
 
 {{% notice tip %}}
-「<span class="quiz polish-font">Ł・ł</span>」の文字がある。道路標識用にデザインされた専用のフォントを利用していて「<span class="polish-font">t</span>」の形が特徴的{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}。以下のフォント名はDrogowskaz。
+「<span class="quiz polish-font">Ł・ł</span>」の文字がある。道路標識用にデザインされた専用のフォントを利用していて「<span class="polish-font">t</span>」の形が特徴的{{% ex "https://goo.gl/maps/D1dwcNT7sTpvPnb56" %}}{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}。以下のフォント名はDrogowskaz。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -92,7 +92,7 @@ mnoprstuwyzźż
 </div>
 
 {{% notice tip %}}
-オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}。
+オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ex "https://goo.gl/maps/E7XU6y6RVThhEC4J9" %}}。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

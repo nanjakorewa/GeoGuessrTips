@@ -25,6 +25,7 @@ sc: [
         <li>警告看板が<span class="quiz">オレンジ</span>背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
         <li>電柱が<span class="quiz">木</span>でできていることが多い</li>
         <li><span class="quiz">白黒</span>のシェブロンが多い</li>
+        <li>黒背景に赤色の反射板のボラードがある{{% ex "https://goo.gl/maps/SMkqd1qb4HzYM42Z9" %}}</li>
     </ul>
     {{% rd europe greece small %}}
 </div>
@@ -40,14 +41,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある{{% ex "https://goo.gl/maps/U9Rgfqc3egWGzzkQA" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
+Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある{{% ex "https://goo.gl/maps/yiwG1f12ZZGN94Xs9" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg#/media/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg" alt="Proskynetarion on roadside of provincial Road Pilonas - Katavias on Rhodes 5 September 2017.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:PjotrMahh1&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:PjotrMahh1 (page does not exist)">Pjotr Mahhonin</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100208787">Link</a></p>
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジのことが多い{{% ex "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
+看板の背景がオレンジのことが多い{{% ex "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -66,7 +67,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-電柱が木でできていることが多い{{% ex "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8" "https://goo.gl/maps/wV34ViijQUgqnapj7" "https://goo.gl/maps/QNw2GFSAJTRfC8Lq6" %}}。
+電柱が木でできていることが多い{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc8zc6" "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8" "https://goo.gl/maps/wV34ViijQUgqnapj7" "https://goo.gl/maps/QNw2GFSAJTRfC8Lq6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -75,7 +76,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 {{% notice tip %}}
-ギリシャは日差しが強い地域が多い影響で白い壁の建物が多い。屋根は赤褐色の色が多い。
+ギリシャは日差しが強い地域が多い影響で白い壁の建物が多い。屋根は赤褐色の色が多い{{% ex "https://goo.gl/maps/aAT78wvhF1zRu12S7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -83,7 +84,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-オリーブの木が多くある
+オリーブの木が多くある{{% ex "https://goo.gl/maps/VwEkiYGU25hSdt7v8" "https://goo.gl/maps/JCNSvFpZ6oEVNhyt6" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
