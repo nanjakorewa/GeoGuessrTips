@@ -61,7 +61,7 @@ sc: [
 
 
 {{% notice tip %}}
-ファイアル島はカルデア周辺にのみ少しだけストリートビューがある{{% ex "https://goo.gl/maps/gHtAQBujS4immsA59" "https://goo.gl/maps/eS45ZPWE1MQMHywG7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AB%E5%B3%B6" "ファイアル島" %}}。
+ファイアル島はカルデア周辺にのみ少しだけストリートビューがある{{% ex "https://goo.gl/maps/RtEuRRoeTTTcxet19" "https://goo.gl/maps/XNyPji2XP73kyZsn6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AB%E5%B3%B6" "ファイアル島" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <!-- 画像ソース：Public Domain https://en.wikipedia.org/wiki/Faial_Island#/media/File:Caldeira_faial.jpg -->

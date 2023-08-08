@@ -30,10 +30,15 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">EINBAHN</span>の標識がありポールに赤と白のペイントがされていることがある
+<span class="quiz">EINBAHN</span>の標識があり{{% ex "https://goo.gl/maps/NKpazZJhZbTRv4MH7" %}}ポールに赤と白のペイントがされていることがある。またANFANGと書かれた看板がある{{% ex "https://goo.gl/maps/wKefKBh1CUr6hDsH6" "https://goo.gl/maps/CGYY7wJoAT9rVoXY9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/robertwallner/4185324523/in/photolist-cdUXnQ-91Pdae-5e2j9k-iwtLiU-VXStiM-7gdvZN-xxmzSy-2mg64or-2mhVb45-96nVqK-5jBuYS-WRicCj-2fiwSsN-EGJzXj-Xi2FRv-25qLkZq-fXte3S-nazsY-3c3YTN-oH5bTT-Hobenx-naBYH-bFQQk8-aBAfY4-MuWfG-68uu1Y-7wkrTh-gyabZk-7nQTgv-KkTuSq-22QV6ZS-8DhjBX-GtWq8-c4ApLq-qFX4Y2-7nQTRn-b78moT-iJj9E7-7nQTaD-7nUMnb-8EJJdq-81NwNW-7nQTsX-7nQTAp-7nQTCk-7nUMiS-7nUM9N-7nQTjM-r7LtpC-7nUMhE" title="Einbahn_Vorgartenstraße_01"><img src="https://live.staticflickr.com/4041/4185324523_6ec56debe2_z.jpg" width="640" height="480" alt="Einbahn_Vorgartenstraße_01"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/Hinweiszeichen_10_links.svg" width="220px" style="margin:20px">
+<img src="./r/anfang.png" width="105px">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-同じドイツ語圏である{{% goto "../germany/" "ドイツ" %}}と共通点が多く、ö・üやä・ßのようなドイツ語に見られる文字がある。また下のようなHaltestelleの看板が路面電車などの停留所にあるのもドイツと共通している。
+同じドイツ語圏である{{% goto "../germany/" "ドイツ" %}}と共通点が多く、ö・üやä・ßのようなドイツ語に見られる文字がある{{% ex "https://goo.gl/maps/FbMy3NsXoQMCfDM69" %}}。また下のようなHaltestelleの看板が路面電車などの停留所にある{{% ex "https://goo.gl/maps/nJNCN9EVVd2VWg9N8" %}}のもドイツと共通している。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./s/Hinweiszeichen_13a_groß.svg" width="280px">
