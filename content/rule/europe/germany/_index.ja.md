@@ -54,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-オレンジ背景で矢印の先に番号が書かれた道路看板がある{{% ex "https://goo.gl/maps/WSbgRzWJGWH8zm499" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/EnKQb9jXrnYZFwMn6" "https://goo.gl/maps/ohLRtSMpm1L5cc487" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/ALoiF4H53WEcrG5NA" "https://goo.gl/maps/6U9mdfSMpB3PT77C6" "https://goo.gl/maps/rHnSKBBK62eXjC7g7" %}}。白背景の場合も黒い線の輪郭がある。橋の上にいるときなどでも看板が特徴的なので看板の違いでルクセンブルグとドイツの国境だとわかる{{% ex "https://goo.gl/maps/Y9pyFhzPJVuRFNPx6" "https://goo.gl/maps/swsX747LgrLBTmGQ9" %}}。
+オレンジ背景で矢印の先に番号が書かれた道路看板がある{{% ex "https://goo.gl/maps/WSbgRzWJGWH8zm499" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/EnKQb9jXrnYZFwMn6" "https://goo.gl/maps/ohLRtSMpm1L5cc487" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/ALoiF4H53WEcrG5NA" "https://goo.gl/maps/6U9mdfSMpB3PT77C6" "https://goo.gl/maps/rHnSKBBK62eXjC7g7" %}}。白背景の場合も黒い線の輪郭がある。看板の違いを見れば国境にある橋だとわかることも{{% ex "https://goo.gl/maps/Y9pyFhzPJVuRFNPx6" "https://goo.gl/maps/swsX747LgrLBTmGQ9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

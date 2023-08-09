@@ -44,12 +44,26 @@ sc: [
 
 
 {{% notice tip %}}
-水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある。
+水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688100035822!6m8!1m7!1svKZ1LZAISHtXxxH-m0QN5Q!2m2!1d8.946198956561048!2d79.92337812619381!3f15.549198534843864!4f-10.503286587022998!5f1.2071605491286992" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。車の後ろのナンバープレートは<span class="quiz">黄</span>色。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./road.jpg" width="90%" />
+</div>
+
+{{% lb 50 %}}
+![](2023-08-10-08-02-06.png)
+
+By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-Elle</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24443217">Link</a>
+{{% /lb %}}
 
 {{% /tab %}}
 {{% tab "言語" %}}
@@ -153,3 +167,7 @@ sc: [
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+<li>By Vincent van Zeijst - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45956971">Link</a>, 加工あり</li>
+{{% /imgref %}}
