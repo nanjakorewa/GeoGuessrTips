@@ -73,7 +73,7 @@ sc: [
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
-黄色いシール？
+黄色いシール？個人的にはこれがあったらオーストリアでなくスロベニアでいいと思っている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682337361603!6m8!1m7!1spjz4QjMKq_gFdCDyqpqR3Q!2m2!1d46.14719906959731!2d13.76840776905096!3f116.33340281396843!4f-6.531777834813354!5f2.8845364049357647" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
