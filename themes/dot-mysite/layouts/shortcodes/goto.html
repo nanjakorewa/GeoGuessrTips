@@ -1,5 +1,5 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-{{ if in (.Get 0) "goo.gl" -}}}
+{{ if in (.Get 0) "goo.gl" -}}
 <a href="{{ .Get 0 }}" class="link-text link-color">{{ .Get 1 }}<i class="fas fa-map-marked-alt i-enlarge"></i></a>
 {{ else if eq (.Get 2) "map" -}}
 <a href="{{ .Get 0 }}" class="link-text link-color">{{ .Get 1 }}<i class="fas fa-map-marked-alt i-enlarge"></i></a>
