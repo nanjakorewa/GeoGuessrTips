@@ -78,7 +78,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-06-14-45-27.png" width="90%" />
+<img src="road.jpg" width="90%" />
 </div>
 
 <div class="googlemap-if unclickable">

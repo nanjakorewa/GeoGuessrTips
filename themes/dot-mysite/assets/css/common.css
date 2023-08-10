@@ -1265,6 +1265,11 @@ div.no-margin p, div.no-margin a {
   padding: 0 !important;
 }
 
+div.no-margin p, div.no-margin a img {
+  margin-bottom: 0 !important;
+}
+
+
 @media (max-width: 800px) {
   p.mobile-noshow { display: none; }
 }

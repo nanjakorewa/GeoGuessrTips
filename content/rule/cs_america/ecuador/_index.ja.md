@@ -32,11 +32,22 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の裏がシンプルでフラットな感じ。ボラードはいろいろな種類があるが、２つ反射板が付いている見慣れない形のものはエクアドルかも？
+ボラードはいろいろな種類があり一貫性がない。反射板が付いている見慣れない形のものはエクアドルかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819722721!6m8!1m7!1sFYmTuXWCsTDkTu4RxpEy0Q!2m2!1d-3.471245261520406!2d-79.15938137617697!3f267.14150262468917!4f-3.4847043387237306!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/uB4AugGHwxeTsJcT6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% by %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./road.jpg" width="90%" />
+</div>
+<div class="googlemap-if no-margin" style="font-size:0.8em;">
+By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, 画像加工あり
 </div>
 
 {{% notice tip %}}
@@ -55,6 +66,15 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 
 {{% /tab %}}
 {{% tab "w-road" %}}
+
+{{% notice tip %}}
+コンクリート製の道路も比較的多く見られる{{% ex "https://goo.gl/maps/uDwxRdCZBV5vcdd69" %}}{{% by %}}
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-08-10-18-12-48.png" width="90%">
+</div>
+
 {{% notice tip %}}
 シェブロン＞＜
 {{% /notice %}}
