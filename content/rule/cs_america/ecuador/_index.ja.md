@@ -68,7 +68,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% tab "w-road" %}}
 
 {{% notice tip %}}
-コンクリート製の道路も比較的多く見られる{{% ex "https://goo.gl/maps/u7io5hHdQcqUcSnH7" "https://goo.gl/maps/uDwxRdCZBV5vcdd69" %}}{{% by %}}
+コンクリート製の道路も比較的多く見られる{{% ex "https://goo.gl/maps/u7io5hHdQcqUcSnH7" "https://goo.gl/maps/uDwxRdCZBV5vcdd69" %}}{{% by %}}。しかし{{% goto "../brazil/" "ブラジル" %}}など他の国でもコンクリートの道路はたまにある{{% ex "https://goo.gl/maps/JSweZsHyLczgQTHa7" %}}のでコンクリート→エクアドルと判断してはいけない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

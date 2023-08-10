@@ -62,7 +62,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電柱に書かれた英語がAに近ければ<span class="quiz">北</span>でWに近ければ<span class="quiz">南</span></li>
+        <li>電柱に書かれた英語がAに近ければ<span class="quiz">北</span>でWに近ければ<span class="quiz">南</span>{{% ex "https://goo.gl/maps/q5a4X2ioDfHNKMmj9" %}}</li>
         <li>市外局番は北から南へのグラデーションになっている</li>
         <li>ヤシの木がたくさん生えている時は南部に行ってみる</li>
     </ul>

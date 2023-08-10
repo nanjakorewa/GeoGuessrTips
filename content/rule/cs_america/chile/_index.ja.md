@@ -37,7 +37,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りが無いかひとつだけ下の方に区切りがある。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}{{% ex "https://goo.gl/maps/9891gRKRFrG6nHfS8" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}{{% ex "https://goo.gl/maps/SvLCzi3PdDfoUi6cA" "https://goo.gl/maps/wuek6wKxgxELTv996" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
+電柱のへこんでいる領域に区切りがない電柱が多くたまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}{{% ex "https://goo.gl/maps/9891gRKRFrG6nHfS8" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}{{% ex "https://goo.gl/maps/SvLCzi3PdDfoUi6cA" "https://goo.gl/maps/wuek6wKxgxELTv996" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
 {{% /notice %}}
 <div class="googlemap-if">
 <div class="unclickable">

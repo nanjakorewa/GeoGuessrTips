@@ -37,7 +37,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">赤と白の縞</span>模様のボラード。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
+<span class="quiz">赤と白の縞</span>模様のボラード{{% ex "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" %}}。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollards.png" width="90%" alt="バングラディシュのボラード" />
