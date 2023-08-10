@@ -71,7 +71,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>{{% ex "https://goo.gl/maps/SvTXmwLjfegxqqsCA" %}}。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
+リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>{{% ex "https://goo.gl/maps/SvTXmwLjfegxqqsCA" "https://goo.gl/maps/qWuxXY6SUxrxFW9s7" %}}。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">

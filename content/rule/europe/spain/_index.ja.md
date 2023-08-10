@@ -30,7 +30,7 @@ sc: [
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本なのはスペインと{{% goto "../andorra/" "アンドラ" %}}のみ</li>
         <li>赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無い</span></li>
         <li>ボラードの反射板が<span class="quiz">黄色</span>のものがある</li>
-        <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味</li>
+        <li>「<span class="quiz">calle</span>」はスペイン語で通り・街路の意味{{% ex "https://goo.gl/maps/L2XtnNo1EPSo3YUp8" %}}</li>
         <li>背景色が黒色・<span class="quiz">青</span>色のシェブロンがある</li>
         <li><span class="quiz">黄色</span>の円柱型のポストがありCorreos社のロゴが描かれているポストがある</li>
         <li class="no-evidence">道路の線は基本的に白が多いけれど稀に黄色もある</li>

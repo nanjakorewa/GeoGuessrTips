@@ -75,7 +75,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ex "https://goo.gl/maps/BEaYk26gUVQqwpLK6" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
