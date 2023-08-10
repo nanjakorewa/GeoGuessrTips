@@ -41,7 +41,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" %}}の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
+標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" %}}の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="600" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -97,7 +97,6 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 電柱は同じ方向に3本ほど棒が付きだしているものがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681039719461!6m8!1m7!1syuqvlXBKntGkqLZeKbx08Q!2m2!1d-7.164535948425311!2d-78.46482750393291!3f336.02564457472874!4f18.05477957444974!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689063313770!6m8!1m7!1sHGPJVOJv-NSaqCyXlLh2CQ!2m2!1d-12.13578785884225!2d-76.8077639891435!3f81.28270024151131!4f33.197897697403874!5f3.3248611522391367" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

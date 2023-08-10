@@ -40,7 +40,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/uB4AugGHwxeTsJcT6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% by %}}。
+標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% by %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -68,7 +68,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% tab "w-road" %}}
 
 {{% notice tip %}}
-コンクリート製の道路も比較的多く見られる{{% ex "https://goo.gl/maps/uDwxRdCZBV5vcdd69" %}}{{% by %}}
+コンクリート製の道路も比較的多く見られる{{% ex "https://goo.gl/maps/u7io5hHdQcqUcSnH7" "https://goo.gl/maps/uDwxRdCZBV5vcdd69" %}}{{% by %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -95,6 +95,17 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688829859128!6m8!1m7!1s9eX9rIO8mrszxmDFDZROzQ!2m2!1d-0.2555755127413128!2d-80.2917374954958!3f166.07825354074004!4f-18.22402579755061!5f3.2783501803562594" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688554857213!6m8!1m7!1sQINqKYFmaWIBxPkbHg1EVA!2m2!1d-2.780357066564007!2d-79.22983423827924!3f116.23847544825263!4f-15.115099249889852!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "電柱" %}}
+
+{{% notice tip %}}
+いろいろな電柱がある
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691661123114!6m8!1m7!1s2_dOhWgaNkyXHsHpIHJaeQ!2m2!1d-0.8777083116457083!2d-77.75222161426548!3f46.3772863707097!4f10.942318336843329!5f1.674384299632421"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691661680705!6m8!1m7!1sED-w-mnYhm8EnkN4TeQZpA!2m2!1d-1.965576244689675!2d-79.78130534272393!3f130.69418924095467!4f4.335944244635783!5f1.5867020340990017"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% tab "w-googlecar" %}}
 {{% notice tip %}}
