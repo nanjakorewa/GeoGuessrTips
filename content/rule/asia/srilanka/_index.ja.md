@@ -53,7 +53,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。穴の開いた電柱はアジアではスリランカと{{% goto "../india/" "インド" %}}のグジャラート州{{% ex "https://goo.gl/maps/rQe8iiBXR3FVNtxJA" "https://goo.gl/maps/bZ86pYGkzTfdfoiV6" %}}以外ではあまり見かけないかも。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色。
+電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
