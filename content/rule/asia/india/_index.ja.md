@@ -43,10 +43,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱の配線が綺麗に整備されていない場合も多い。そして特徴的な形の電柱も多い（{{% goto "#電柱の形" "インドの電柱" %}}）。
+電柱の配線が綺麗に整備されていない場合も多い。そして特徴的な形の電柱も多い（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/tlinn/40549983514/" title="Hauz Qazi Substation 1953 | Old Delhi, India"><img src="https://live.staticflickr.com/876/40549983514_b44e94db9d_z.jpg" width="640" height="427" alt="Hauz Qazi Substation 1953 | Old Delhi, India"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable no-margin">
+<img src="pole.jpg" width="90%" alt="インドの電柱" />
 </div>
 
 {{% /tab %}}
