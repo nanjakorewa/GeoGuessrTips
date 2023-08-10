@@ -12,7 +12,7 @@ jetro_detail: true
 jogmec_detail: true
 plonkit: true
 dont_show_usda: true
-flag_height: 500px;
+flag_height: "530px"
 is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [

@@ -8,7 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "CH.svg"
-flag_height: 600px;
+flag_height: "650px"
 jetro_detail: true
 dont_show_usda: true
 plonkit: true

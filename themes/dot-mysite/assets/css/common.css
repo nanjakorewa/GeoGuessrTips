@@ -148,6 +148,10 @@ div.noshow-area {
   display: none !important;
 }
 
+div.top-flagarea {
+  height: 500px;
+}
+
 div.main-information {
   margin: 1em;
   padding: 1em 0em 0em 1em;

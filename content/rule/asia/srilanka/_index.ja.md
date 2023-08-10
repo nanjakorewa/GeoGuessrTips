@@ -27,9 +27,10 @@ sc: [
         <li>ドメインは<span class="quiz">.lk</span></li>
         <li>シンハラ語（සිංහල）とタミル語（தமிழ்）が使用される</li>
         <li>後ろのナンバープレートは<span class="quiz">黄</span>色</li>
-        <li>標識は<span class="quiz">白黒のストライプ</span>のものが多い</li>
+        <li>標識のポールは<span class="quiz">白黒のストライプ</span>のものが多い</li>
         <li>水路や交差点沿いに<span class="quiz">白黒のブロック</span>がある{{% by "" "plonkit" %}}</li>
         <li>一部で青・白・赤のGoogleCarが見られる{{% by %}}</li>
+        <li>電柱は四角いものや大きい穴が空いたものがありコイルが大きい</li>
     </ul>
 </div>
 
@@ -52,7 +53,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。車の後ろのナンバープレートは<span class="quiz">黄</span>色。
+電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。穴の開いた電柱はアジアではスリランカと{{% goto "../india/" "インド" %}}のグジャラート州{{% ex "https://goo.gl/maps/rQe8iiBXR3FVNtxJA" "https://goo.gl/maps/bZ86pYGkzTfdfoiV6" %}}以外ではあまり見かけないかも。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">

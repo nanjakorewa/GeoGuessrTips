@@ -69,9 +69,9 @@
           {{ if .Params.flag }}
           {{ $flag_path := print "flags/" .Params.flag }}
             {{ if (eq .Page.Lang "ja" )}}
-            <div class="content unclickable" style="height:{{ if .Params.flag_height }}{{ .Params.flag_height }}{{ else }}500px{{ end }}"><img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" width="680px" height="500px"/></div>
+            <div class="content unclickable {{ if not .Params.flag_height }}top-flagarea{{ end }}" {{ if .Params.flag_height }}style="height:{{ .Params.flag_height }};"{{ end }}><img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" width="680px" height="500px"/></div>
             {{ else }}
-            <div class="content unclickable" style="height:{{ if .Params.flag_height }}{{ .Params.flag_height }}{{ else }}500px{{ end }}"><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" width="680px" height="500px"/></div>
+            <div class="content unclickable {{ if not .Params.flag_height }}top-flagarea{{ end }}" {{ if .Params.flag_height }}style="height:{{ .Params.flag_height }};"{{ end }}><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" width="680px" height="500px"/></div>
             {{ end }}
           {{ end }}
 
