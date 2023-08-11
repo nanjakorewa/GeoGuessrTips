@@ -33,7 +33,6 @@ sc: [
         <li>チェコとスロバキアのみthin-B profileと呼ばれるガードレールを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
         <li>チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップが<span class="quiz">ある</span>ならばチェコ{{% by "https://www.plonkit.net/czechia" "plonkit" %}}の可能性が高いが100%ではない</li>
         <li>家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
-        <li>チェコと{{% goto "../slovakia/" "スロバキア" %}}は２本の電柱をひとつにまとめた電柱がある</li>
     </ul>
     {{% rd europe czechia verysmall %}}
 </div>
@@ -103,7 +102,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-形が異なっていたり複雑になったりしても、コの字型っぽい棒が使用されている時が多いように思う。
+形が異なっていたり複雑になったりしても、コの字型っぽい棒が使用されている時が多いように思う。二本の電柱がくっついている形の電柱も多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
