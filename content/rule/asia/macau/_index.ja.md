@@ -23,7 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mo</span></li>
-        <li>ナンバープレートは<span class="quiz">黒</span>背景のものが多い。バスのナンバープレートは文字が<span class="quiz">黄色</span>で書かれている。</li>
+        <li>ナンバープレートは<span class="quiz">黒</span>背景のものが多い</li>
     </ul>
     {{% rd asia macau small %}}
 </div>
@@ -56,6 +56,27 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688094397504!6m8!1m7!1sjhi0wmOlIe-PbabtodLADA!2m2!1d22.11620515769555!2d113.5532590190688!3f249.60700589086787!4f18.48411418011284!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>範囲が非常に狭いので道路の角度で地域を絞り込めば動かずに5000点が狙えるかも</li>
+    </ul>
+</div>
+
+{{% tabs  %}}
+{{% tab "w-etf" %}}
+{{% notice tip %}}
+たとえば<a href="https://goo.gl/maps/jXJoypUyjaNigz699">ここ</a>{{% ex "https://goo.gl/maps/jXJoypUyjaNigz699" %}}の場合、南が開けて山が見えないので海沿いと考えてみる。そのあと真下を向いて道路の角度を見ると同じような角度のエリアは右下（画像のピンを指している箇所周辺）の部分しかないため、場所がほとんど絞り込める。最後は道路の別れ方と交差点の位置などを見て位置調整すればOK<span style="font-size:0.8em">（画像出典：<a href="https://goo.gl/maps/aprSygQosB8xyGCo9">Google Map</a>）</span>。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<img src="2023-08-12-04-35-46.png" width="90%">
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
