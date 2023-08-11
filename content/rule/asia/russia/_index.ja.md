@@ -31,6 +31,7 @@ sc: [
         <li>天然ガスの生産が世界最大の企業である<span class="quiz">ガスプロム</span>のガソリンスタンド、銀行行もしている。青や紺色のロゴで『Газпром』の表記の建物があればたぶんロシア。</li>
         <li>壁や塀の上などにパイプが通っていることが多い{{% by "now_and_jenn" "twitch" %}}</li>
         <li>交差点や道路の合流地点にボラードが沢山ある{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。</li>
+        <li class="no-evidence">最終的には植生だけでなく車のアンテナの分布も覚える必要がある</li>
     </ul>
     {{% rd asia russia small %}}
 </div>

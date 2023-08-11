@@ -131,6 +131,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番で地域がわかるかもしれない</li>
+        <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
     </ul>
 </div>
 
@@ -138,7 +139,20 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 {{% tabs %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Karte Telefonvorwahlen Deutschland.png" height="1080" width="814"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Karte Telefonvorwahlen Deutschland.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "工業の分布" %}}
+
+{{% notice tip %}}
+1,000人あたりの産業企業で働く従業員の数は地域によってかなり偏りがある{{% ref "https://www.gfk.com/insights/mom-0116" "Map of the month: Industrial density, Germany. Illustration: GfK" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./201601_mom.webp" width="600px"></p>
+</div>
+<div class="googlemap-if no-margin">
+<p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
