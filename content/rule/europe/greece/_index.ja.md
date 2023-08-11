@@ -146,7 +146,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 ほぼ反時計周り。<span class="quiz">28</span>なら離島へ行ってみる。・
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Greek_landline_area_codes_map.png#/media/File:Greek_landline_area_codes_map.png"><img width="95%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Greek_landline_area_codes_map.png/1200px-Greek_landline_area_codes_map.png" alt="ギリシャの市外局番"></a></p>
 <p>By <a href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7%CF%82:244wiki" class="extiw" title="el:Χρήστης:244wiki">244wiki</a> - <span class="int-own-work" lang="en">Own work</span>, Attribution, <a href="https://commons.wikimedia.org/w/index.php?curid=93910931">Link</a>（<a href="https://de.m.wikipedia.org/wiki/Datei:Greek_landline_area_codes_map.png">ライセンスの詳細</a>）</p>
 </div>
