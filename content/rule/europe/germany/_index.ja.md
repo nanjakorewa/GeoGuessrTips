@@ -155,6 +155,17 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>
 </div>
 {{% /tab %}}
+{{% tab "菜種" %}}
+
+{{% notice tip %}}
+北の半島近くや北東？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691739906314!6m8!1m7!1s9T2SdmE7nsWg0WG0OLwctg!2m2!1d54.66792947597245!2d9.169040278201713!3f58.212510993484585!4f-2.763962543996115!5f1.5127468040509835"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691739926333!6m8!1m7!1sHfl0KQi00d2IQNksAovkKw!2m2!1d54.04221896671441!2d11.8653657170168!3f141.7447266347252!4f-10.086491840332585!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
