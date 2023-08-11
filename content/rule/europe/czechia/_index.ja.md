@@ -58,15 +58,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}が100%いつもそうとは限らない。
+家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも{{% ex "https://goo.gl/maps/ay9WVcyu21ew4Y7N8" "https://goo.gl/maps/xqTW3un3G9nvGKBX6" %}}。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}が100%いつもそうとは限らない。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681946473677!6m8!1m7!1slXLE8i4WNVdBo9Zjwf9RTw!2m2!1d50.07301695432118!2d14.43958934522536!3f342.61217010079974!4f-1.1447244747842404!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683087636537!6m8!1m7!1sWTxf4o5bBQPCzyVBCFuyLg!2m2!1d49.74095887592078!2d13.39276455890356!3f53.125790524204945!4f5.342234466501495!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./czechia.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}を考えてみる。ただし<b>100%チェコというわけではない</b>ので注意。
+チェコかスロバキアのどちらか分からないとき標識のポールに黒いキャップがあったならば<span class="quiz">チェコ</span>{{% by "https://www.plonkit.net/czechia" "plonkit" %}}を考えてみる。ただしこれも<b>100%チェコというわけではない</b>ので注意。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -83,15 +82,20 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jeremycaney/31073301447/" title="Rural Czechia I"><img src="https://live.staticflickr.com/4846/31073301447_32f66b3dfb_z.jpg" width="640" height="427" alt="Rural Czechia I"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
-チェコとスロバキアで共通の電柱が見つかる。コの字型っぽい棒に上下にコイルが刺さっている。
+チェコとスロバキアで共通の電柱が見つかる。コの字型っぽい棒に上下にコイルが刺さっている。また円形の電柱が多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686594386635!6m8!1m7!1sxH6l7uYoKzjXj28AC1K9pQ!2m2!1d49.38437426271587!2d15.36905043271308!3f44.10100217882954!4f29.88161714379865!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686594548149!6m8!1m7!1sXNYT_36W9Z5DDiGTZ3S2Mw!2m2!1d49.70806573351916!2d13.41885583096088!3f191.27219417026123!4f37.06150617937257!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="../czechia/road.jpg" width="90%" />
 </div>
 
 <div class="googlemap-if unclickable">

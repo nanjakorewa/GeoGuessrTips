@@ -52,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。また過去の歴史からアルバニアの車の1/3はメルセデス・ベンツになっている{{% ref "https://www.cardekho.com/india-car-news/heres-why-mercedesbenz-accounts-for-nearly-30-percent-of-total-vehicles-registered-in-albania-30499.htm" "Here’s Why Mercedes-Benz Accounts For Nearly 30 Percent Of Total Vehicles Registered In Albania" %}}。
+アルバニアのナンバープレートは<span class="quiz">両側に青い線</span>がある{{% ex "https://goo.gl/maps/R6qhHWq6FU8CqALJ9" %}}。<span class="quiz">赤い</span>ナンバープレートもある。両サイドが<span class="quiz">赤い</span>ものや黄色いものもある。また過去の歴史からアルバニアの車の1/3はメルセデス・ベンツになっている{{% ref "https://www.cardekho.com/india-car-news/heres-why-mercedesbenz-accounts-for-nearly-30-percent-of-total-vehicles-registered-in-albania-30499.htm" "Here’s Why Mercedes-Benz Accounts For Nearly 30 Percent Of Total Vehicles Registered In Albania" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

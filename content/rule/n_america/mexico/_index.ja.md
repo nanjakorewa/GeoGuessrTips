@@ -55,7 +55,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか。また矢印がなんか太い気がする（自作なので正確な図ではないです）。
+とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか。また矢印がなんか太い気がする（自作なので正確な図ではないです）{{% ex "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">

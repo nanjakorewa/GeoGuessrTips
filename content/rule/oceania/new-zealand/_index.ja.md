@@ -42,7 +42,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱の上のほうに何かが巻かれている{{% ex "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" %}}。
+電柱の上のほうに何かが巻かれている{{% ex "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./poles.png" width="90%" alt="ニュージーランドの電柱" />
