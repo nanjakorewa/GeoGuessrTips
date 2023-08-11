@@ -75,6 +75,10 @@ sc: [
     </div>
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./swedish_countryside.jpg" width="480px">
+</div>
+
 
 {{% notice tip %}}
 国旗の色に近い色のシェブロンがある。ノルウェー・フィンランドは黒背景に黄色なので区別が付く{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
@@ -88,11 +92,16 @@ sc: [
 北欧であって速度表記に<span class="quiz">背景がオレンジで縁に細い黄色線がない</span>ならばスウェーデンの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/WEAxgAcGKMc7ifB48" %}}・<span class="quiz">フィンランド</span>。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
 <img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
 <img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
 <img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./road.jpg" width="90%">
+</div>
+
 
 {{% notice tip %}}
 道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/zxV4mR31aRSZnCHD7" %}}・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：{{% ex "https://goo.gl/maps/FhzZyYimTep8WGML7" "https://goo.gl/maps/5PTmRrVGdskKPT44A" "https://goo.gl/maps/obpEjC4DxLNPgdMSA" %}} vs エストニアの例：{{% ex "https://goo.gl/maps/9qw7x5NHHR3mrELHA" "https://goo.gl/maps/H59sMJ9t6eADQuVFA" %}}）。
