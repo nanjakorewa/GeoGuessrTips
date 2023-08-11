@@ -132,6 +132,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
     <ul class="rule-list">
         <li>市外局番で地域がわかるかもしれない</li>
         <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
+        <li class="no-evidence">黄色い花の畑は北東に多いかも</li>
     </ul>
 </div>
 
