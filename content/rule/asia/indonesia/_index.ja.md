@@ -103,29 +103,65 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>地域ごとに建物が違う{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>
-        <li>{{% goto "https://www.plonkit.net/indonesia" "plonkitのインドネシアのページ" %}}が詳しいのでこれを見る</li>
+        <li>インドネシアには多数の民族があり文化や民族によって建物の見た目が異なる{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}{{% ref "https://id.wikipedia.org/wiki/Kategori:Rumah_adat_di_Indonesia" "インドネシアの伝統家屋一覧 / Rumah adat di Indonesia" %}}</li>
+        <li>{{% goto "https://www.plonkit.net/indonesia" "plonkitのインドネシアのページ" %}}が詳しいのでこれを見る
+            <ul>
+                <li><b>西スマトラ</b>：屋根がそり曲がった感じのミナンカバウ族の伝統的なデザインの家</li>
+                <li><b>北スマトラ</b>：バタック人文化の特徴的なデザインの屋根がある{{% ex "https://goo.gl/maps/8LaAytkBfHv2o1DBA" %}}</li>
+                <li><b>リアウ州</b>：Lontiokと呼ばれる湾曲した屋根・高床式・入口までの奇数ステップの階段が特徴的な家がある{{%ref "https://id.wikipedia.org/wiki/Lontiok" "Lontiok" %}}</li>
+                <li><b>バンテン州</b>：Sulah nyandaと呼ばれるSuku Baduiの伝統的ない家がある{{% ex "https://goo.gl/maps/Hwvy4wQpRBkR6kF56" %}}{{% ref "https://id.wikipedia.org/wiki/Sulah_nyanda" "Sulah nyanda" %}}</li>
+                <li><b>スンバ島</b>：ウマ・マラプと呼ばれる高く突き出た屋根の家がある{{% ex "https://goo.gl/maps/rPLYWYCVZSh4Ud3q6" %}}{{% ref "https://www.sumai.org/asia/refer/kimin74.htm" "巨大なとんがり屋根の謎スンバ島の家屋【続・穀倉に住む】佐藤浩司＋小池誠" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "西スマトラ" %}}
-{{% notice tip %}}パダン周辺の伝統的なデザインの家
+{{% notice tip %}}西スマトラ州にあるミナンカバウ族の伝統的なデザインの家{{% ref "https://en.wikipedia.org/wiki/Rumah_Gadang" "Rumah Gadang" %}}。母系社会であるミナンカバウでは母から娘へこの家が受け継がれるらしい。
 {{% /notice %}}
 
-<div class="googlemap-if">
-
+<div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/6471046661/in/photolist-aRPNJ2-334udn-aRyVGV-gvmWmK-gvm1SG-o2p9pt-gvkJ4m-CuimsE-gvn2Mz-gvmrAF-B188E-o2G8Ni-gvmRV2-gvmVQh-aTeQVv-dfp5Er-6wgbb1-bWd2zL-6f9j32-B1kkC-gvmQEM-6yNJYj-6JKj7j-6iHRfD-254mhRm-Ymqg8k-Ykx93F-ddVd1k-r8H8qV-xTSqeS-rpJBG5-B2vYB-B2w2C-boRffP-B2zpk-rs2qXn-B2vhb-B2w9S-wzoKF-tENHEH-8oMg2L-8oJ5Pi-62k6UD-GRxGtj-8oJ63t-bmYcqB-2nU5qSK-2ovRfLe-3CrJwu-zWoQSL" title="Minangkabau traditional house"><img src="https://live.staticflickr.com/7026/6471046661_3a8150c85c_c.jpg" width="800" height="531" alt="Minangkabau traditional house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% notice tip %}}
+一般的な家やホールだけでなく、大規模な公共施設も同様のデザインになっていることがある。画像はミナンカバウ国際空港。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable">
+<img src="2023-08-12-02-14-06.png" width="90%" />
+</div>
+
 {{% /tab %}}
 {{% tab "北スマトラ" %}}
 
 {{% notice tip %}}
-屋根の上が︶のようになっている
+スマトラ島北部の高地に居住しているバタック族の家は屋根の上が︶のようになっていることがある{{% ex "https://goo.gl/maps/8LaAytkBfHv2o1DBA" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682938730523!6m8!1m7!1sQd2wepuKWn-I4-eMX7-cyg!2m2!1d2.33148254006605!2d99.09119100972214!3f101.99213106690989!4f9.086701111479059!5f1.5669698120421591" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Old_Batak_Village,_Samosir_Island,_North_Sumatra.jpg#/media/File:Old_Batak_Village,_Samosir_Island,_North_Sumatra.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Old_Batak_Village%2C_Samosir_Island%2C_North_Sumatra.jpg" alt="Old Batak Village, Samosir Island, North Sumatra.jpg" height="395" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9508280@N07">Dan Lundberg</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9508280@N07/5069459588/">2000 #310-19 Sumatra Samosir Island old Batak village</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11857562">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "バンテン州" %}}
+{{% notice tip %}}
+街中ではほぼ見ないように思うのでジオゲッサーのヒントとしては活用しづらいかも。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Barisan_Pemukiman_Suku_Baduy_Luar.jpg#/media/File:Barisan_Pemukiman_Suku_Baduy_Luar.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Barisan_Pemukiman_Suku_Baduy_Luar.jpg" alt="Barisan Pemukiman Suku Baduy Luar.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fitri_Penyalai" title="User:Fitri Penyalai">Fitri Penyalai</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74817920">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "リアウ州" %}}
+{{% notice tip %}}
+Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先端にはクロスが付いていることもある{{%ref "https://id.wikipedia.org/wiki/Lontiok" "Lontiok" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Rumah_Lontiok.jpg#/media/File:Rumah_Lontiok.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Rumah_Lontiok.jpg" alt="Rumah Lontiok.jpg" height="427" width="640"></a></p>
+<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Hermadiyansyah_Putra_St_Bagindo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Hermadiyansyah Putra St Bagindo (page does not exist)">Hermadiyansyah Putra St Bagindo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112008242">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "バリ島" %}}
@@ -144,6 +180,15 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683548263543!6m8!1m7!1sxFmhhcGFOCSgqWTF7jUwjg!2m2!1d-5.067845559846503!2d119.5146085088659!3f232.43175755263172!4f9.15217011915395!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683548328370!6m8!1m7!1st81tpun3GGHYbd9D_HOimw!2m2!1d-5.116586927731915!2d120.2633975944878!3f0.471829259376808!4f32.39688387127845!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "スンバ島" %}}
+{{% notice tip %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Houses_in_Tarung,_Waitabar,_Sumba.jpg#/media/File:Houses_in_Tarung,_Waitabar,_Sumba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Houses_in_Tarung%2C_Waitabar%2C_Sumba.jpg" alt="Houses in Tarung, Waitabar, Sumba.jpg" height="591" width="787"></a></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/9942231@N07">monica renata</a> from jakarta - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9942231@N07/2851068736/">Tarung-Waitabar</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10201081">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
