@@ -34,7 +34,7 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}ボラードと電柱が角ばっているので角ばりを感じたらタイかも{{% ex "https://goo.gl/maps/YCvG3ETrNSGQFakq6" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車の後ろナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
+{{% notice tip %}}ボラード{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車の後ろナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
