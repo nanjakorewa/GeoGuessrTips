@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。ただしインドネシアのリアウ諸島にある黒いラベルっぽいもの{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" "https://goo.gl/maps/V7NQ3cQ7iNcsRhYo9" "https://goo.gl/maps/uNXGqp71ukNz9UgZ9" %}}で国を外したことがあるので周りもちゃんと見る。
+電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。ただしインドネシアのリアウ諸島にある黒いラベルっぽいもの{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" %}}で国を外したことがあるので周りもちゃんと見る。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
@@ -80,7 +80,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
-アスファルトの道路が多くコンクリート道路が少ない。{{% goto "../thai/" "タイ" %}}・{{% goto "../philippines/" "フィリピン" %}}はコンクリートが多く、稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/FGQ53d6gS7hvCdHk7" "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}や{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}もたまにコンクリートがある。でもマレーシアではコンクリートは本当に少なく、Pulau Tiomanという離島{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/BeeS6nv6QApGXEAJ7" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
+アスファルトの道路が多くコンクリート道路が少ない。{{% goto "../thai/" "タイ" %}}・{{% goto "../philippines/" "フィリピン" %}}はコンクリートが多く、稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/FGQ53d6gS7hvCdHk7" "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}や{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}もコンクリートがある。でもマレーシアではPulau Tiomanという離島{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/BeeS6nv6QApGXEAJ7" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
