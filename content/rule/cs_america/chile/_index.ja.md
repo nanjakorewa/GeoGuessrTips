@@ -132,6 +132,18 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
     </ul>
 </div>
 
+{{% tabs  %}}
+{{% tab "サンティアゴ" %}}
+{{% notice tip %}}
+分布はplonkitなどを参照{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./chilean_rhubarb_rhubarb_598355.jpg" width="80%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
