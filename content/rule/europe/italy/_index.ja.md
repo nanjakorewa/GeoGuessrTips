@@ -59,7 +59,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
+ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -124,6 +124,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
+        <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる</li>
         <li class="no-evidence">地中海側はサボテンや石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
         <li class="no-evidence">田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
@@ -133,6 +134,24 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Mappa Prefissi telefonici italiani A.png" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5"><a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a></a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "西部の山岳地帯" %}}
+{{% notice tip %}}
+町によっては石壁模様じゃないところもあり。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691810889121!6m8!1m7!1saHGb6IwLM5Px4lGzXkHcZw!2m2!1d45.78989392770293!2d6.972546145677878!3f231.56342264796746!4f-6.765814239929341!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691811174264!6m8!1m7!1s0C_36eJOGZt46UuC6GSD0w!2m2!1d44.04376379129428!2d7.720899640947964!3f271.70588990021815!4f5.818231171632846!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "地中海側" %}}
+{{% notice tip %}}
+オリーブやサボテンなどがあり{{% goto "../greece/" "ギリシャ" %}}・{{% goto "../croatia/" "クロアチア" %}}・{{% goto "../spain/" "スペイン" %}}などに似た雰囲気のところもある。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691811399647!6m8!1m7!1sJxcrTpTPlrUU-i8QbgzqJA!2m2!1d43.79185684091036!2d7.561474432794951!3f196.95859422055136!4f0.8004641186715702!5f0.49098104251056895"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691811509870!6m8!1m7!1sdE8k6vUimKSFs5NV3_wTZg!2m2!1d37.92976853603578!2d12.29821741847973!3f1.707977352151886!4f2.864350915826492!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
