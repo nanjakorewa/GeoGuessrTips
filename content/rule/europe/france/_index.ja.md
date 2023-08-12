@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
+ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./b2.png" width="90%" alt="フランスのボラード" />
@@ -65,7 +65,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
+ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -79,7 +79,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /lb %}}
 
 {{% notice tip %}}
-青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
+青・白のシェブロンがある{{% ex "https://goo.gl/maps/YcTm296DMLyVxRRg6" %}}。青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -215,6 +215,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
+        <li class="no-evidence">地中海側にPorquerollesという離島があり舗装されていない道がや黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
         <li>ヴェルサイユ宮殿の中も出題される</li>
     </ul>
 </div>
@@ -239,6 +240,13 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 
+{{% /tab %}}
+{{% tab "Porquerolles" %}}
+{{% notice tip %}}舗装されていない道がや黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
+</div>
 {{% /tab %}}
 {{% tab "ヴェルサイユ宮殿" %}}
 {{% notice tip %}}
