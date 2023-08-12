@@ -142,6 +142,7 @@ maps: [
             </ul>
         </li>
         <li>③ 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
+        <li>④ハワイ諸島にもストリートビューがあり黒土や赤土が特徴的{{% ex "https://goo.gl/maps/jtYyZC2QNiC829Hn6" "https://goo.gl/maps/P7nuAhYyR9LTpAxh9" %}}</li>
     </ul>
 </div>
 
@@ -195,6 +196,16 @@ maps: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "④ハワイ" %}}
+{{% notice tip %}}
+地名が特徴的で、土の色も黒っぽかったり赤色に近い色が多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691858062776!6m8!1m7!1sPYugKXOVUcX1-hJy4TZ5tg!2m2!1d20.24482224228152!2d-155.8840741655078!3f-5.088449531737773!4f-3.270031217481801!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

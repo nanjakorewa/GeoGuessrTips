@@ -74,7 +74,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<b>白黒</b>と<b>白青</b>のシェブロンがある。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。この画像のようにシェブロンが<b>白黒</b>でガードレールやボラードの反射板が黄色だったり標識やシェブロンの棒が四角い長方形ならばスペインか{{% goto "../andorra/" "アンドラ" %}}を考えてみて良いと思う。
+<b>白黒</b>と<b>白青</b>のシェブロンがある{{% ex "https://goo.gl/maps/dBKCTwGGCZLsYNcs6" %}}。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。この画像のようにシェブロンが<b>白黒</b>でガードレールやボラードの反射板が黄色だったり標識やシェブロンの棒が四角い長方形ならばスペインか{{% goto "../andorra/" "アンドラ" %}}を考えてみて良いと思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
