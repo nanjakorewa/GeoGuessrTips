@@ -58,7 +58,7 @@ By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/
 
 
 {{% notice tip %}}
-<span class="quiz">黄</span>色のガードレールが山中に多くありその多くがかなり錆びている{{% ex "https://goo.gl/maps/d27p5FfRpx8QAFTk8" "https://goo.gl/maps/TD44zHJh8nz8QsQXA" %}}。<span class="quiz">黄</span>色ではないガードレールも存在する{{% ex "https://goo.gl/maps/Ao3EvBtpXxNa5Dni8" %}}。また、ボスニア・ヘルツェゴビナに隣接する国では角張ったガードレールもあり得る（{{% goto "https://goo.gl/maps/9eWYqZ3nkCpXyzWw6" "1" ex %}}）。
+<span class="quiz">黄</span>色のガードレールが山中に多くありその多くがかなり錆びている{{% ex "https://goo.gl/maps/d27p5FfRpx8QAFTk8" "https://goo.gl/maps/TD44zHJh8nz8QsQXA" %}}。<span class="quiz">黄</span>色ではないガードレールも存在する{{% ex "https://goo.gl/maps/Ao3EvBtpXxNa5Dni8" %}}。また、ボスニア・ヘルツェゴビナに隣接する国では角張ったガードレールもあり得る{{% ex "https://goo.gl/maps/9eWYqZ3nkCpXyzWw6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
