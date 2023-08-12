@@ -127,7 +127,7 @@ sc: [
 
 {{% tabs  %}}
 {{% tab "市外局番" %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg#/media/File:Prefijos_telefónicos_en_España.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg/1200px-Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg.png" alt="Prefijos telefónicos en España.svg"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Albertocsc&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Albertocsc (page does not exist)">Albertocsc</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24333469">Link</a></p>
 </div>
 {{% /tab %}}

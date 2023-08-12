@@ -52,7 +52,7 @@ dont_show_usda: true
 {{% notice tip %}}
 信号を支えるポールに穴が空いている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}。緑色の通り名の看板もよく見る。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG#/media/File:Shenton_Way_2,_Jan_06.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Shenton_Way_2%2C_Jan_06.JPG" alt="Shenton Way 2, Jan 06.JPG" width="90%"></a></p><p>By <a href="https://en.wikipedia.org/wiki/User:Sengkang" class="extiw" title="en:User:Sengkang">User:Sengkang</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="//commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG" title="Copyrighted free use">Copyrighted free use</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=759583">Link</a></p>
 </div>
 

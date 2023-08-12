@@ -108,7 +108,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 道端のブロックやボラードにCR～と書いてあるならばマップの黄色い番号の道路を見てみる。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Luxembourg_road_sign_E,21dc_(CR225).jpg#/media/File:Luxembourg_road_sign_E,21dc_(CR225).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_E%2C21dc_%28CR225%29.jpg" alt="Luxembourg road sign E,21dc (CR225).jpg" height="720" width="650"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GilPe" title="User:GilPe">GilPe</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89262230">Link</a></p>
 </div>
 {{% /tab %}}
