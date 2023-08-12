@@ -40,6 +40,11 @@ sc: [
 黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。
 {{% /notice %}}
 
+
+<div class="googlemap-if unclickable no-margin">
+<img src="2023-08-12-20-24-34.png" width="80%" />
+</div>
+
 <div class="googlemap-if unclickable">
 <img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" />
 <img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" />
