@@ -112,8 +112,7 @@ sc: [
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681169604287!6m8!1m7!1s2rIRbNb_jHcoWJ-SjV0C4A!2m2!1d46.38157849951282!2d25.82046296270908!3f296.68829503602757!4f-10.314333824360503!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680052230352!6m8!1m7!1sJQWSUM5qIzCkYfvyW4aAFw!2m2!1d45.43029731664291!2d21.33860671505272!3f198.95266563456434!4f-8.491465437613158!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691922555134!6m8!1m7!1s-HaDwQkAZNU0kKr3_fY3XQ!2m2!1d44.08537370293369!2d23.25785996474632!3f262.9994857988307!4f-8.812591107665511!5f2.755649721040019" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "標高" %}}
