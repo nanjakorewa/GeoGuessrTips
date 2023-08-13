@@ -84,7 +84,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニア・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}は標識の裏側が黒っぽい時が多いように思う{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}。
+横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニア{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}は標識の裏側が黒っぽい時が多いように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
