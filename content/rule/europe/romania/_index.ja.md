@@ -60,7 +60,7 @@ sc: [
 
 
 {{% notice tip %}}
-ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。ちっちゃいバージョンもある{{ ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" }}。
+ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。ちっちゃいバージョンもある{{% ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
