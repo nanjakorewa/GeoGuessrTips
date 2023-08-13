@@ -66,22 +66,6 @@ sc: [
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=GH">Ghana Country Summary - U.S. Department of Agriculture(USDA)</a>・一部画像を加工しています</li>
             </ul>
         </li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "アブラヤシ" %}}
-<div class="googlemap-if unclickable">
-<img src="./20230522-palm.png" width="70%" />
-</div>
-{{% notice tip %}}
-アブラヤシやバナナの木は南部に多い。これらの木がないならば北部に置いてみる。
-{{% /notice %}}
-{{% /tab %}}
-{{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
         <li>一応市外局番で地域が分かることがあるらしい
             <ul>
                 <li>030：{{% goto "https://goo.gl/maps/Bc3AgoBwfVqxFiAX9" "アクラ" map %}}</li>
@@ -94,6 +78,14 @@ sc: [
 </div>
 
 {{% tabs %}}
+{{% tab "アブラヤシ" %}}
+<div class="googlemap-if unclickable">
+<img src="./20230522-palm.png" width="70%" />
+</div>
+{{% notice tip %}}
+アブラヤシやバナナの木は南部に多い。これらの木がないならば北部に置いてみる。
+{{% /notice %}}
+{{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if unclickable">
 <img src="./ghana_regional_phone_codes.jpg" alt="ガーナの市外局番" width="70%" />
@@ -103,3 +95,4 @@ sc: [
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
+
