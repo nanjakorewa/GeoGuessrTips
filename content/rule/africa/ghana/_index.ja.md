@@ -21,7 +21,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>言語は<span class="quiz">英語</span></li>
-        <li>車は<span class="quiz">右側</span>通行</li>
+        <li>車は<span class="quiz">右側</span>通行でタクシーは<span class="quiz">黄</span>色ナンバー</li>
         <li>ドメインは<span class="quiz">.gh</span></li>
         <li>右前に<span class="quiz">黒いガムテープが巻かれている</span></li>
     </ul>
@@ -31,19 +31,18 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-タクシーの色の塗り方が独特？タクシーは料金メーターが付いていない、料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
+タクシーの色の塗り方が独特{{% ex "https://goo.gl/maps/VHdy9LdK68cffo2v8" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681666113868!6m8!1m7!1sK-PSgzwQIN-J2G849BGrtw!2m2!1d6.622970271909867!2d0.468224269665873!3f314.75423976509046!4f-14.55464626930626!5f2.796118802699555" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681666570541!6m8!1m7!1sa1Otndu0bdXnTiycKottgg!2m2!1d5.667500594797818!2d-0.2085374331321987!3f329.64699623682185!4f-30.32426138680553!5f1.5353860270016688" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./mitsubishi_taxi_ghana.jpg" width="70%" />
 </div>
 
 {{% notice tip %}}
-右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}。テープがあって場所が右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/dwUgzWcX33xYJ2XH8" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
+右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}様子が確認できる。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/dwUgzWcX33xYJ2XH8" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691935516274!6m8!1m7!1shaITls7uxrh3qVzZh0K-vw!2m2!1d6.622455959978123!2d0.4687056585658413!3f190.75261667476025!4f-89!5f0.5970117501821992"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691935525110!6m8!1m7!1sf91hZQBg6Ii0wBRnLO9r8A!2m2!1d6.224885110430931!2d-1.671665271595103!3f342.98980005980593!4f-89!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691936131460!6m8!1m7!1sgAvxIUWO5pIl0fftp9X35Q!2m2!1d4.911854235499209!2d-2.292108674069918!3f106.90794429100063!4f-89!5f0.4000000000000002"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691936074659!6m8!1m7!1sbWjAaSiNj0iNokuIWgBQpA!2m2!1d7.193594791103338!2d-0.1592029517019!3f176.3866237572617!4f-5.728917588183265!5f1.6483086962926574"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
