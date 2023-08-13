@@ -38,7 +38,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
+右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
