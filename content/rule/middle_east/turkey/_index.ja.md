@@ -59,7 +59,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}
+ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}。一番見た目が似ているのは{{% goto "../romania" "ルーマニア" %}}のボラード{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollard.jpg" width="85%" alt="トルコのボラード" />

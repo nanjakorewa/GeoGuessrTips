@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "RO.svg"
 jetro_detail: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../poland/", "ポーランド"],
@@ -59,7 +60,7 @@ sc: [
 
 
 {{% notice tip %}}
-ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。
+ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。ちっちゃいバージョンもある{{ ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" }}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -102,7 +103,7 @@ sc: [
 
 
 {{% notice tip %}}
-家の前に何か箱があって、黄色いパイプが伸びている。
+家の前に何か箱があって、黄色いパイプが伸びている{{% ex "https://goo.gl/maps/XGe3hTFC6Ekn2x5H8" "https://goo.gl/maps/d9wtLqhJkDW4nFgb7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680051820686!6m8!1m7!1sZ54VOKNp_U5NgbySWVZtQQ!2m2!1d44.33370267115343!2d23.75005123301861!3f345.2531907157949!4f-18.198736183769995!5f3.3211969354371154" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -136,7 +137,13 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ひまわりは東側で多く栽培されている {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}</li>
+        <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}
+            <ul>
+                <li>ひまわりは東側で多く栽培されている</li>
+                <li>コーンや菜種はカララシ県の周辺のフラットな地域で多く栽培されている{{% ex "https://goo.gl/maps/HEpByYWS1sTh8dLi7" "https://goo.gl/maps/iZo3PQ3smUJ3gbo9A" "https://goo.gl/maps/ieUvrPCecxXHCQ1Z8" "https://goo.gl/maps/fUS1N5LgsTUzfiYi8" %}}</li>
+            </ul>
+        </li>
+        <li class="no-evidence">野生の赤い花は南東？{{% ex "https://goo.gl/maps/odpUJ1fYeXgXdvyj9" "https://goo.gl/maps/er4oqE2PLw39bnp86" %}}{{% ref "https://www.inaturalist.org/observations?nelat=48.58595803845408&nelng=29.77840000841969&place_id=any&subview=map&swlat=40.31978622121842&swlng=16.746134097615524&taxon_id=520910" "イトバシャクヤク - iNaturalist" %}}</li>
     </ul>
 </div>
 
