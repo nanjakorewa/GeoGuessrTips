@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-路面がコンクリートの時が多い{{% ex "https://goo.gl/maps/ZCYsP4JWnz8kWkpc9" %}}。アジアでコンクリート道路が多いのは体感だとフィリピン・{{% goto "../thai/" "タイ" %}}。稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}・{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}・{{% goto "../malaysia/" "マレーシア" %}}の離島。
+路面がコンクリートの時が多い{{% ex "https://goo.gl/maps/ZCYsP4JWnz8kWkpc9" %}}。アジアでコンクリート道路が多いのは体感だとフィリピン・{{% goto "../thai/" "タイ" %}}。稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}・{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}・{{% goto "../malaysia/" "マレーシア" %}}の離島{{% ex "https://goo.gl/maps/feg378a9tSKSHBmy6" %}}など。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road.jpg" width="95%">
