@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-とまれの標識が<span class="quiz">berhenti</span>。
+とまれの標識が<span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/2043kj/6172052664/in/photolist-appoe7-2y63VW-4wMKTv-2heipCK-QaBCuh-2nJHsY-an96DD-27Gh5YW-aiBsQP-27LRC8t-9Dckne-anjNtD-i1QFtH-ansfbj-anbUdC-anbUtb-anpqi6-anpqbr-2h3SYXe-anp476-ajSJrq-anp3KV-anp3Ak-anEwA3-EYFASG-anEwH5-anEw6J-anEvUj-anEwr3-anpqMc-anrRZ7-anrSy5-anseuo-anBJgP-ak3yF3-ansf2S-akjsvm-akjsfQ-214h28Z-2kManEW-2jGzPZ-2kMaNB5-bAdHhN-abVyvJ-CAQxre-ApVUnR-KuWgHC-bsKmzg-f4djxG-MTuH5W" title="！BERHENTI ！"><img src="https://live.staticflickr.com/6169/6172052664_36fa580537_z.jpg" width="640" height="427" alt="！BERHENTI ！"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -80,7 +80,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
-アスファルトの道路が多くコンクリート道路が少ない。{{% goto "../thai/" "タイ" %}}・{{% goto "../philippines/" "フィリピン" %}}はコンクリートが多く、稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/FGQ53d6gS7hvCdHk7" "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}や{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}もコンクリートがある。でもマレーシアでは離島{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/sEo5nN4GpnKS7YBp8" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
+アスファルトの道路が多くコンクリート道路が少ない。離島などの極端な場所{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/sEo5nN4GpnKS7YBp8" "https://goo.gl/maps/iwpVBePBdapZv4w56" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
