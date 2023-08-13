@@ -41,8 +41,12 @@ sc: [
 右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google StreetView driving in Ghana started today. <a href="https://twitter.com/hashtag/MoreVim?src=hash&amp;ref_src=twsrc%5Etfw">#MoreVim</a>! <a href="https://t.co/q8w9GL1mi1">pic.twitter.com/q8w9GL1mi1</a></p>&mdash; Mgwili Sibanda (@fortune_sibanda) <a href="https://twitter.com/fortune_sibanda/status/693167610054250496?ref_src=twsrc%5Etfw">January 29, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable no-margin">
+<img src="./google-car.jpg" width="90%">
+</div>
+
+<div class="googlemap-if" style="font-size:0.8em;">
+<a href="https://twitter.com/fortune_sibanda">@fortune_sibanda のツイート</a>より（本人に掲載確認済み*）
 </div>
 
 {{% /tab %}}
@@ -95,4 +99,8 @@ sc: [
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+<li><a href="https://twitter.com/fortune_sibanda/status/693167610054250496?s=20">*オリジナルのツイート『Google StreetView driving in Ghana started today. #MoreVim! from @fortune_sibanda』</a></li>
+{{% /imgref %}}
 
