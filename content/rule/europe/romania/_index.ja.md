@@ -164,6 +164,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>首都周りの環状線は「DNCB」と名前が付いていてボラードに「CB」と書いてある。ボラードを見つけたら角度と地名でかなり近づけるはず。</li>
+        <li class="no-evidence">観光地でもある暖かそうな港町で電柱下半分に色が塗られている{{% ref "https://en.wikipedia.org/wiki/Constan%C8%9Ba" "コンスタンツァ" %}}</li>
     </ul>
 </div>
 
@@ -177,10 +178,26 @@ sc: [
 「CB」を見たら首都の周りに行ってみる。道路がほぼ円形の形なので、この例だと道路の角度で北・南側のどちらかになる。そこから付近の地名を探して南側の場所だと絞り込める。
 {{% /notice %}}
 {{% /tab %}}
+{{% tab "コンスタンツァ" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691913337071!6m8!1m7!1ssdnyvplPOQNIvfaq0yN4xA!2m2!1d44.22487704598667!2d28.6284569131045!3f264.2490233992116!4f2.6447174271606144!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691913444951!6m8!1m7!1sS-X41jFN33k_K0ZVZ3aXPw!2m2!1d44.18015270430237!2d28.63585817879827!3f107.30356722506777!4f1.9108977231148145!5f0.7670595936560078"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./Flag_of_Constanta,_Romania.svg" width="300px">
+</div>
+
+{{% notice tip %}}
+タクシーの扉に市の紋章（二人の間に赤い旗があるマーク）があるかも？
+{{% /notice %}}
+{{% /tab %}}
 {{% /tabs %}}
+
 
 {{% imgref %}}
 <li>By <a href="//commons.wikimedia.org/wiki/User:-wuppertaler" title="User:-wuppertaler">-wuppertaler</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=121271756">Link</a></li>
 <li>By <a href="//commons.wikimedia.org/wiki/User:Aisano" class="mw-redirect" title="User:Aisano">Aisano</a> - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=38136117">Link</a></li>
 <li>By <a href="//commons.wikimedia.org/wiki/User:AleXXw" title="User:AleXXw">AleXXw</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55018177">Link</a></li>
 {{% /imgref %}}
+
