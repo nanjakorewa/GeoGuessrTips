@@ -130,6 +130,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>コーン畑や田んぼは東側と海沿いにはほとんど存在しない{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CB" "USDA Cambodia Production" %}}</li>
         <li>ボラードを見つけて道路番号を探したあとで両面に書いてある町名を探す。そのあと距離の比率をみておよその地域を絞り込む。</li>
         <li>アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>
@@ -137,6 +138,15 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "農業の分布" %}}
+{{% notice tip %}}
+コーン畑や田んぼは東側（7番の道路の東側）と海沿いにはほとんど存在しない{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CB" "USDA Cambodia Production" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Cambodia_Rice.png" width="600px">
+</div>
+{{% /tab %}}
 {{% tab "ボラード" %}}
 {{% notice tip %}}
 ボラードの側面に道路番号が、両面に町までの距離が書いてある。

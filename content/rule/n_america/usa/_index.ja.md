@@ -118,6 +118,7 @@ maps: [
                         <li>全体的に黒→<span class="quiz">Delaware</span></li>
                         <li>全体的に緑→<span class="quiz">Vermont</span></li>
                         <li>全体的に濃いオレンジ→<span class="quiz">New York</span></li>
+                        <li>全体的に黄色→<span class="quiz">アラスカ</span></li>
                         <li>全体的もしくは両サイドが薄い黄色→<span class="quiz">Mississippi</span></li>
                         <li>白背景で、右半分だけオレンジ→<span class="quiz">Utah</span></li>
                         <li>白背景で、真ん中にオレンジが描かれている→<span class="quiz">Florida・Georgia</span></li>
