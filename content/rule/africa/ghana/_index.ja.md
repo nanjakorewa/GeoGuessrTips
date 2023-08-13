@@ -44,6 +44,10 @@ sc: [
 <div class="googlemap-if unclickable no-margin">
 <img src="./google-car.jpg" width="90%">
 </div>
+<div class="googlemap-if unclickable no-margin">
+<img src="./gc-bar.jpg" width="60%">
+</div>
+
 
 <div class="googlemap-if" style="font-size:0.8em;">
 <a href="https://twitter.com/fortune_sibanda">@fortune_sibanda のツイート</a>より（本人に掲載確認済み*）
