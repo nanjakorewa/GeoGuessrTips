@@ -80,7 +80,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
-アスファルトの道路が多くコンクリート道路が少ない。{{% goto "../thai/" "タイ" %}}・{{% goto "../philippines/" "フィリピン" %}}はコンクリートが多く、稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/FGQ53d6gS7hvCdHk7" "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}や{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}もコンクリートがある。でもマレーシアではPulau Tiomanという離島{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/BeeS6nv6QApGXEAJ7" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
+アスファルトの道路が多くコンクリート道路が少ない。{{% goto "../thai/" "タイ" %}}・{{% goto "../philippines/" "フィリピン" %}}はコンクリートが多く、稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/FGQ53d6gS7hvCdHk7" "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}や{{% goto "../srilanka/" "スリランカ" %}}の田舎{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}もコンクリートがある。でもマレーシアでは離島{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/sEo5nN4GpnKS7YBp8" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -125,6 +125,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MY">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
+        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるときは半島側の北部か南部の可能性がある{{% ref "https://en.wikipedia.org/wiki/Jawi_script" "Jawi script" %}}。</li>
     </ul>
 </div>
 
@@ -157,16 +158,6 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683781975727!6m8!1m7!1sKVRNUq1XkjFkTlt-FWwJ7A!2m2!1d6.257753139942261!2d100.3186941871063!3f100.26260459083646!4f1.0836826427593422!5f1.4588197954522921" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
-        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるときは半島側の北部か南部の可能性が高い{{% ref "https://en.wikipedia.org/wiki/Jawi_script" "Jawi script" %}}</li>
-    </ul>
-</div>
-
-{{% tabs %}}
 {{% tab "ジャウィ文字" %}}
 {{% notice tip %}}
 半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い{{% ref "https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit" "The Malaysia Doc by zi8gzag" %}}。インドネシアのリアウ州やリアウ諸島（＝<span class="quiz">ジョホール</span>州周辺）でもこの文字がある。
@@ -178,3 +169,28 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>マブール島というスキューバダイビングができるリゾート地がある{{% ex "https://goo.gl/maps/RB8M8NmTHae4sWGp9" "https://goo.gl/maps/otfpmTA2xywn9AuA8" %}}</li>
+        <li>ティオマン島は運転手の手が映っている</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "マブール島" %}}
+{{% notice tip %}}
+場所はマレーシアの最も東の場所{{% ex "https://goo.gl/maps/RB8M8NmTHae4sWGp9" "https://goo.gl/maps/otfpmTA2xywn9AuA8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./mabul_island_semporna_sabah.jpg" wdith="90%" />
+</div>
+{{% /tab %}}
+{{% tab "ティオマン島" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691904266081!6m8!1m7!1s4XDQlxUS-63_ZoeO0ifCLg!2m2!1d2.815183796206949!2d104.1546025502086!3f255.77!4f-24.680000000000007!5f0.4000000000000002" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
