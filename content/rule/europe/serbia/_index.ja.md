@@ -93,6 +93,7 @@ sc: [
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/rssiws/al/europe_cropprod.aspx">Europe - Crop Production Maps(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
+        <li class="no-evidence">{{% goto "../romania/" "ルーマニア" %}}との国境付近で船に乗っている</li>
     </ul>
 </div>
 
@@ -118,6 +119,13 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684814125370!6m8!1m7!1sLUHQtDAW8O4qYtTEqsPcPw!2m2!1d45.76833028335478!2d19.19222245694041!3f183.39320962680003!4f-6.913770601882405!5f1.6846646614112646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684814132818!6m8!1m7!1sdjmwDMwJXQMraELdW6rsjg!2m2!1d45.78952535461075!2d19.97861671609926!3f188.596094617829!4f-2.7633637452743613!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "船に乗る" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691914855034!6m8!1m7!1sUVyZmOvSRh_kVumzN0M6Dw!2m2!1d44.7148547637965!2d21.61693049607871!3f316.9846939829781!4f-2.7427556711320165!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691914877088!6m8!1m7!1sxUTI9drLZ9Lc9nBZ3yrQ_Q!2m2!1d44.80846527260069!2d21.29538709381765!3f324.0864587494088!4f0.39796924493845154!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
