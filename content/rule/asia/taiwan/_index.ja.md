@@ -27,6 +27,9 @@ sc: [
         <li>ドメインは<span class="quiz">.tw</span></li>
         <li>道端に<span class="quiz">赤い●</span>のボラードがある{{% by %}}</li>
         <li>大手コンビニの<span class="quiz">萊爾富便利商店（Hi-Life）</span>・OK超商（台湾のサークルK）がある</li>
+        <li><span class="quiz">赤</span>や<b>黄色</b>の線が道路で使用される</li>
+        <li><span class="quiz">斜め</span>のストライプ柄の電柱がある</li>
+        <li>コンクリートのブロックでできた壁や擁壁が見られる</li>
     </ul>
     {{% rd asia taiwan small %}}
 </div>
@@ -44,16 +47,32 @@ sc: [
 
 
 {{% notice tip %}}
-台湾における四大コンビニの一角である<span class="quiz">萊爾富便利商店（Hi-Life）</span>があり看板に店名が書かれていることが多い。Family Mart（全家便利商店）にも日本と同じように店名が書いてあることがある{{% ref "https://ja.wikipedia.org/wiki/%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97" "全家便利商店" %}}。店名は地域名＋町名や地域名＋道路名の時があるので見つけたらかなり場所が絞れる時がある。台中忠誠→台中の忠誠街、屏東建欣→屏東など。同じく四大超商のひとつであるOK超商も台湾だと分かる。
+台湾における四大コンビニの一角である<span class="quiz">萊爾富便利商店（Hi-Life）</span>やFamily Martにも日本と同じように店名が書いてある{{% ref "https://ja.wikipedia.org/wiki/%E5%85%A8%E5%AE%B6%E4%BE%BF%E5%88%A9%E5%95%86%E5%BA%97" "全家便利商店" %}}。店名は地域名＋町名や地域名＋道路名の時があるので見つけたらかなり場所が絞れる時がある{{% ex "https://goo.gl/maps/xqcQ6UMib9mDP4Qz6" "https://goo.gl/maps/xqcQ6UMib9mDP4Qz6" %}}。同じく四大超商のひとつであるOK超商も台湾だと分かる。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683723896289!6m8!1m7!1sfwqhRoQNoYPioB__w5d6ow!2m2!1d24.15253874103846!2d120.6595042281571!3f202.88929917811987!4f6.884624551538522!5f1.6557543759161524" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684296168432!6m8!1m7!1sPZNqQq6iQOPN36--TJsdBg!2m2!1d22.66491782705087!2d120.4812188706366!3f118.41292082212668!4f16.58351271508947!5f3.1649087322015723" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./hilife.jpg" width="90%">
 </div>
 
 <div class="googlemap-if unclickable">
 <img src="./ok-logo.png" width="500px" alt="台湾のコンビニのロゴ" >
+</div>
+
+{{% notice tip %}}
+<span class="quiz">赤</span>や<b>黄色</b>の線が道路で使用される{{% ex "https://goo.gl/maps/tfuXScYU6YTRni2A7" "https://goo.gl/maps/bF8k3R4LcViK7na18" %}}。{{% goto "../korea/" "韓国" %}}と同じく<span class="quiz">斜め</span>のストライプ柄の電柱を使う{{% ex "https://goo.gl/maps/AYtR8bcAX6rfiapf8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./road.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+道端にコンクリートブロックの壁{{% ex "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や擁壁{{% ex "https://goo.gl/maps/cT7Hkxukx9giFFLW8" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。ブロックに反射板が付いていることが多い{{% ex "https://goo.gl/maps/Wcm4WPb25LsiJRxSA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg#/media/File:刘澳村_-_Liu'ao_Village_-_2014.09_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg" alt="刘澳村 - Liu'ao Village - 2014.09 - panoramio.jpg" width="90%"></a></p><p>By rheins, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59092839">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -62,7 +81,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>電柱に書かれた英語がAに近ければ<span class="quiz">北</span>でWに近ければ<span class="quiz">南</span>{{% ex "https://goo.gl/maps/q5a4X2ioDfHNKMmj9" %}}</li>
+        <li>電柱に書かれた英語がAに近ければ<span class="quiz">北</span>でWに近ければ<span class="quiz">南</span>{{% ex "https://goo.gl/maps/WZt2wngR4nQeEpHr5" "https://goo.gl/maps/q5a4X2ioDfHNKMmj9" %}}</li>
         <li>市外局番は北から南へのグラデーションになっている</li>
         <li>ヤシの木がたくさん生えている時は南部に行ってみる</li>
     </ul>
