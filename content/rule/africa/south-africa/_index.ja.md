@@ -90,7 +90,7 @@ P522と書かれているのは道路番号なので見逃さないように。
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
-たまににありそうな電柱が見つかる。
+たまに{{% goto "../../cs_america/chile/" "チリ" %}}にありそうな電柱が見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if">
