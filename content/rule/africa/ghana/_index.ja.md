@@ -42,7 +42,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./google-car.jpg" width="90%">
+<img src="./google-car.jpg" width="90%" alt="ガーナのGoogle Car" />
 </div>
 <div class="googlemap-if unclickable no-margin">
 <img src="./gc-bar.jpg" width="60%">
