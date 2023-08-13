@@ -41,11 +41,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられている、都市部では英語も使用される。道端にビン入りの飲み物がよく売られている。
+<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられているが都市部では英語も使用され、これらの言語でボラードに地名が書いてある。白と赤に塗られたボラードがある。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682133209760!6m8!1m7!1syGkYFcgln6xoRiqHaZEhBA!2m2!1d12.40530482325942!2d103.8104081534148!3f153.77553353717212!4f-27.381682905980973!5f3.0896211671220453" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681965574746!6m8!1m7!1shf_gpKCsC1ocl-6MS5vU7A!2m2!1d12.08886236246895!2d105.8990009965259!3f297.59847835993816!4f-11.136309468003518!5f2.557293617021836" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -56,7 +55,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-カンボジアで知名度の高い企業が書かれたパラソルや看板が多い。通信はBeeline、清涼飲料水はコカ・コーラ、ビールは<span class="quiz">LEO・Kingdom・Angkor</span>など、<span class="quiz">Angkor</span>のロゴにもアンコールワットが描かれている{{% ref "https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php" "カンボジアのビール事情" %}}。
+カンボジアで知名度の高い企業が書かれたパラソルや看板が多い。通信はBeeline、清涼飲料水はコカ・コーラ、ビールは<span class="quiz">LEO・Kingdom・Angkor</span>など、<span class="quiz">Angkor</span>のロゴにもアンコールワットが描かれている{{% ref "https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php" "カンボジアのビール事情" %}}。郊外ではこのようなパラソルの下で瓶入りの飲み物が売られていることが多い{{% ex "https://goo.gl/maps/Gq4nqv7iWcHiJLoE8" "https://goo.gl/maps/nPdyAPubroFLr7ET8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -65,7 +64,7 @@ sc: [
 </div>
 
 {{% notice note %}}
-頑張って取り寄せました。めちゃおいしかった！！！！
+取り寄せました。めちゃおいしかったです。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -83,15 +82,15 @@ sc: [
 {{% notice tip %}}
 こういう感じの木がある。カンボジア以外だと{{% goto "../../africa/uganda/" "ウガンダ" %}}の国立公園内・{{% goto "../../cs_america/brazil/" "ブラジル" %}}・{{% goto "../../africa/senegal/" "セネガル" %}}など暖かい地域に似た見た目の木がある。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/bdmoore1/23893604966" title="Sugar Palm Trees"><img src="https://live.staticflickr.com/5789/23893604966_d0cd88935b_z.jpg" width="640" height="394" alt="Sugar Palm Trees"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./cambodia_asia_siem_reap.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685044091087!6m8!1m7!1sAt387u07pq7aJNKqmErlqw!2m2!1d12.70821286561157!2d104.8898551407847!3f200.02702936503258!4f-7.168271965540711!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684254045514!6m8!1m7!1sErF7a24_8RyWGg6U3ijWKw!2m2!1d13.65262687825233!2d103.4924319634894!3f271.81491037276805!4f-16.097221250085084!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691944135005!6m8!1m7!1s9hoObewX_doWZ9po1Ckb5A!2m2!1d11.3991074139315!2d105.3399754115344!3f225.58918200222195!4f-11.519781482054654!5f0.6782675877063269" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "電柱" %}}
