@@ -68,7 +68,7 @@ sc: [
 
 
 {{% notice tip %}}
-道端にコンクリートブロック{{% ex "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や壁{{% ex "https://goo.gl/maps/Lzh1B1996w7c7QEW9" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。ブロックには反射板が付いていることも多い{{% ex "https://goo.gl/maps/Wcm4WPb25LsiJRxSA" %}}。
+道端にコンクリートブロック{{% ex "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や壁{{% ex "https://goo.gl/maps/Lzh1B1996w7c7QEW9" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
