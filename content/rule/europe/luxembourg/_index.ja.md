@@ -62,7 +62,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。左下のような看板が多いように思う。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う。自作の図なので縮尺・フォントは正確でないかも。
+黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う。自作の図なので縮尺・フォントは正確でないかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
