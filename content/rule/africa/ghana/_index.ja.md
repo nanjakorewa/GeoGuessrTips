@@ -39,10 +39,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-右前に<span class="quiz">黒いガムテープが巻かれている</span>。テープがあって場所が右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。
+右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}。テープがあって場所が右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/dwUgzWcX33xYJ2XH8" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681665981309!6m8!1m7!1shaITls7uxrh3qVzZh0K-vw!2m2!1d6.622455959978123!2d0.4687056585658413!3f190.94845211908063!4f-89!5f0.7820865974627469" width="495" height="255" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691935516274!6m8!1m7!1shaITls7uxrh3qVzZh0K-vw!2m2!1d6.622455959978123!2d0.4687056585658413!3f190.75261667476025!4f-89!5f0.5970117501821992"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691935525110!6m8!1m7!1sf91hZQBg6Ii0wBRnLO9r8A!2m2!1d6.224885110430931!2d-1.671665271595103!3f342.98980005980593!4f-89!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
