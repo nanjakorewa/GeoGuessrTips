@@ -32,6 +32,7 @@ sc: [
         <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
         <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
         <li>シェブロンは{{% goto "../albania/" "アルバニア" %}}と同じく<span class="quiz">黒</span>背景に白矢印が多い</li>
+        <li>標識の裏側が<span class="quiz">黒色や灰</span>色の時が多い</li>
     </ul>
     {{% rd europe italy small %}}
 </div>
@@ -41,21 +42,36 @@ sc: [
 
 
 {{% notice tip %}}
-上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/DuSPdfP9aiSWEUCf7" "https://goo.gl/maps/Kw2HLvLByHQvFZmh7" "https://goo.gl/maps/KcqbxFgEQUNsGSrr9" %}}。{{% goto "../albania/" "アルバニア" %}}にも似た形のボラードが見つかる。
+上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/ucGr2wUojQ2PVZEG6" "https://goo.gl/maps/DhwPhZ5AwBJuK9D6A" "https://goo.gl/maps/ckJ6A2rtWimmfEaBA" "https://goo.gl/maps/Kw2HLvLByHQvFZmh7" %}}。{{% goto "../albania/" "アルバニア" %}}にも似た形のボラードが見つかる。
 {{% /notice %}}
 
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="./bollard.png" width="90%" alt="イタリアのボラード" />
+</div>
+
+<div class="googlemap-if unclickable no-margin">
+<img src="2023-08-13-17-45-16.png" width="90%" alt="イタリアのボラード" />
+</div>
+
+<div class="googlemap-if no-margin" style="font-size:0.8em">
+<a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2046554">Link</a>, 加工あり
 </div>
 
 {{% notice tip %}}
 SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.gl/maps/hvoi3NdSTojafJ7eA" %}}はイタリア特有。
 {{% /notice %}}
 
-
 <div class="googlemap-if unclickable">
 <img src="./road-sign.png" width="90%" alt="イタリアの高速道路標識" />
+</div>
+
+{{% notice tip %}}
+そして、道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./road-sign-from-behind.jpg" width="90%" alt="イタリアの高速道路標識の裏側" />
 </div>
 
 {{% notice tip %}}
