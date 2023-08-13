@@ -49,11 +49,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線が多い。ただしこれだけで確定するわけではないと思う。
+<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線{{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" "https://goo.gl/maps/xEQoTHcWvEnZh6Bd8" "https://goo.gl/maps/nJU7oiYVaPU8rz6TA" "https://goo.gl/maps/XXRkvuhtqLF4tJjD9" %}}。両サイドのラインは描かれていない場合もある{{% ex "https://goo.gl/maps/YTXuR5d5ReaxKZFv8" "https://goo.gl/maps/4kMfS3xsCy9mtxBz9" %}}。稀に赤い線もある{{% ex "https://goo.gl/maps/3BxszCAmoMUFka9X7" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681497389688!6m8!1m7!1s-dCjCDxqAyo0T4HQfiMcsQ!2m2!1d-28.8351143653617!2d22.07029168738174!3f274.42116691885025!4f-1.504176664867643!5f3.325193203789971" width="590" height="180" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681497502939!6m8!1m7!1sohuHnrUkThIaOfY4ee-AyQ!2m2!1d-31.42812277158556!2d28.86063351376403!3f13.063523379820015!4f-7.908401570996617!5f1.6032970719897364" width="590" height="180" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./road.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -65,7 +64,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路番号のフォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。また地名に「oo」「ee」といった二重母音が見られる点も珍しいと思う。
+道路番号が書かれた緑の看板があり{{% ex "https://goo.gl/maps/t8cf6hp3hxonZgjR9" %}}、フォントがオーストラリアと異なる。左が南アフリカ・右がオーストラリア。また地名に「oo」「ee」といった二重母音が見られる点も珍しいと思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
@@ -73,7 +72,7 @@ sc: [
 <img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
 
-<div class="googlemap-if" style="margin:0; padding:0;">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="South Africa-N10-001 (cropped).jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
 </div>
 
@@ -86,6 +85,17 @@ P522と書かれているのは道路番号なので見逃さないように。
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691333114238!6m8!1m7!1sqbUYq9H933ZeNE74Ilm42A!2m2!1d-27.07231948524053!2d32.19892102941815!3f317.05305350744254!4f-20.371161840810743!5f1.6580457275036493"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+たまににありそうな電柱が見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691925054654!6m8!1m7!1so1U2Ncm265NuXQ-KsiV-fQ!2m2!1d-33.85840379099375!2d25.59696089827398!3f176.98485009684794!4f2.039602716233631!5f1.135691616221461"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691925156805!6m8!1m7!1s7WgsGzxMK0L7jjSog1m0Vw!2m2!1d-27.09846567738325!2d32.16040662690096!3f90.0132052925046!4f1.2467609132495312!5f1.7435841889690247"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
