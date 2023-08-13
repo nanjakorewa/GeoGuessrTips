@@ -23,7 +23,7 @@ sc: [
         <li>言語は<span class="quiz">英語</span></li>
         <li>車は<span class="quiz">右側</span>通行でタクシーは<span class="quiz">黄</span>色ナンバー</li>
         <li>ドメインは<span class="quiz">.gh</span></li>
-        <li>右前に<span class="quiz">黒いガムテープが巻かれている</span></li>
+        <li>右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% by %}}</li>
     </ul>
 </div>
 
@@ -38,7 +38,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}様子が確認できる。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/dwUgzWcX33xYJ2XH8" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
+右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691936131460!6m8!1m7!1sgAvxIUWO5pIl0fftp9X35Q!2m2!1d4.911854235499209!2d-2.292108674069918!3f106.90794429100063!4f-89!5f0.4000000000000002"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
