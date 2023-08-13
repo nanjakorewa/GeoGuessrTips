@@ -40,6 +40,14 @@ sc: [
 {{% notice tip %}}
 右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" "https://goo.gl/maps/vH4cSjqaLTreERBc7" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google StreetView driving in Ghana started today. <a href="https://twitter.com/hashtag/MoreVim?src=hash&amp;ref_src=twsrc%5Etfw">#MoreVim</a>! <a href="https://t.co/q8w9GL1mi1">pic.twitter.com/q8w9GL1mi1</a></p>&mdash; Mgwili Sibanda (@fortune_sibanda) <a href="https://twitter.com/fortune_sibanda/status/693167610054250496?ref_src=twsrc%5Etfw">January 29, 2016</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "Google Car" %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691936131460!6m8!1m7!1sgAvxIUWO5pIl0fftp9X35Q!2m2!1d4.911854235499209!2d-2.292108674069918!3f106.90794429100063!4f-89!5f0.4000000000000002"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691936074659!6m8!1m7!1sbWjAaSiNj0iNokuIWgBQpA!2m2!1d7.193594791103338!2d-0.1592029517019!3f176.3866237572617!4f-5.728917588183265!5f1.6483086962926574"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
