@@ -79,9 +79,8 @@ sc: [
 左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ex "https://goo.gl/maps/BEaYk26gUVQqwpLK6" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683613478709!6m8!1m7!1sPVigjwAp5S3gCNlZJbfhTQ!2m2!1d52.20967082688648!2d21.52991635008977!3f159.22898006509783!4f-17.195021662538068!5f2.9699259630373165" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683613717127!6m8!1m7!1s3NelLW7o7JW1fKrmYdyLIA!2m2!1d44.53170434169891!2d26.06915494078406!3f135.95469358806545!4f-11.458334055778366!5f3.305163021116406" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="../poland/guardrail.png" width="90%">
 </div>
 {{% notice tip %}}
 横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニア{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}は標識の裏側が黒っぽい時が多いように思う。
@@ -165,6 +164,7 @@ sc: [
     <ul class="rule-list">
         <li>首都周りの環状線は「DNCB」と名前が付いていてボラードに「CB」と書いてある。ボラードを見つけたら角度と地名でかなり近づけるはず。</li>
         <li class="no-evidence">観光地でもある暖かそうな港町で電柱下半分に色が塗られている{{% ref "https://en.wikipedia.org/wiki/Constan%C8%9Ba" "コンスタンツァ" %}}</li>
+        <li class="no-evidence">{{% goto "../serbia/" "セルビア" %}}・{{% goto "../bulgaria/" "ブルガリア" %}}との国境付近と北東のエリアで船に乗っている</li>
     </ul>
 </div>
 
@@ -191,6 +191,13 @@ sc: [
 {{% notice tip %}}
 タクシーの扉に市の紋章（二人の間に赤い旗があるマーク）があるかも？
 {{% /notice %}}
+{{% /tab %}}
+{{% tab "船に乗る" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691914547080!6m8!1m7!1sT1Yxm5lwiEyFsPYYxPdm5g!2m2!1d43.80474330320947!2d23.72309009075511!3f96.21002723590657!4f-5.4056404449595306!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691914416912!6m8!1m7!1sdTJheMLqJUwsPGOhOInC3g!2m2!1d45.18594866576051!2d28.78978232589126!3f332.57048214215274!4f-7.446934373909983!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
