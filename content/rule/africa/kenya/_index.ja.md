@@ -34,7 +34,7 @@ sc: [
 車の後ろナンバーが大き目の黄色
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681156929947!6m8!1m7!1s_zk0DXg5G2KTHmmqajac0g!2m2!1d-1.312932447867278!2d36.82958261882765!3f185.2784271540958!4f-13.958963918602223!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691900665768!6m8!1m7!1snoD__qTK73KSPwSsPRVGdQ!2m2!1d-2.075259901465407!2d37.45373699945315!3f129.56162285927007!4f-3.834603814749684!5f2.7388556867907417" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
@@ -54,11 +54,11 @@ By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyan
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的
+Google Carが特徴的で何種類か存在する{{% ex "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" %}}。Google Carが映っていない時もある{{% ex "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681157131804!6m8!1m7!1sGOyh4xXRk_aRcxwYznvcwQ!2m2!1d-1.312968146095767!2d36.82981472799747!3f150.67865147779287!4f-20.34512092537844!5f1.3473814785954303" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682552342053!6m8!1m7!1sGWRmcUYLetMNqlrT5GImVQ!2m2!1d2.755225980074793!2d35.64334290294197!3f349.5697049206935!4f-13.6052621076158!5f1.5080392418408253" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691900712224!6m8!1m7!1sPx04A8yDcWhGRszKlP-5JQ!2m2!1d0.006519696753752837!2d37.07153199464223!3f125.96459081419796!4f-43.08072906549327!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
