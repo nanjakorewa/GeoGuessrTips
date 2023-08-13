@@ -60,7 +60,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-古い石畳の道があったり歩道が石畳だったりする{{% goto "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "1" ex%}}{{% goto "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" ex %}}{{% goto "https://goo.gl/maps/ncWNxF3cF7evXUNW8" "3" ex %}}。
+古い石畳の道があったり歩道が石畳だったりする{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./street.png" width="90%">
