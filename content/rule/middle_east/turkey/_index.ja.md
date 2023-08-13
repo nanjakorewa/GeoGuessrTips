@@ -41,6 +41,9 @@ sc: [
 <img src="2023-06-16-06-39-55.png" width="350px">
 <img src="2023-06-16-06-36-19.png" width="258px">
 </div>
+<div class="googlemap-if unclickable">
+<img src="./pole.png" width="85%" />
+</div>
 
 {{% notice tip %}}
 止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。
@@ -56,11 +59,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードは<span class="quiz">片</span>面に反射板があり薄い{{% ex "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}
+ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682126276939!6m8!1m7!1szePmi730CADvSN8BXt2KzQ!2m2!1d37.14516048092026!2d34.83534030237135!3f345.4821428952779!4f-8.685966550225672!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682126333722!6m8!1m7!1sQwEYDNiSF8ZmYL1air9PDQ!2m2!1d41.10184696207915!2d34.40714980714959!3f222.69801359444685!4f-17.408307712036475!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./bollard.jpg" width="85%" alt="トルコのボラード" />
 </div>
 {{% /tab %}}
 {{% tab "電柱" %}}
