@@ -21,7 +21,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.my</span></li>
+        <li>公用語はマレー語や英語など</li>
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li><span class="quiz">黄</span>色の6角形の道路番号</li>
         <li>とまれの標識が<span class="quiz">berhenti</span></li>
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
         <li>電柱に<span class="quiz">黒いラベル</span>が付いているならば本土側になる{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
@@ -37,7 +39,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。
+黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。また、標識や看板は白黒のストライプのポールが使われている。
 {{% /notice %}}
 
 
