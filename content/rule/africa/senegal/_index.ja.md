@@ -23,7 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.sn</span></li>
         <li>言語は<span class="quiz">フランス語</span>とウォロフ語が使われる</li>
         <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色が多い</li>
-        <li>空に<span class="quiz">ひびのような線が入っている</span>ことが多い</li>
+        <li>空に<span class="quiz">ひびのような線が入っている</span>ことが多い{{% ex "https://goo.gl/maps/7nwXozV3Yv5RvAph6" "https://goo.gl/maps/XqTzitvRPXjxrjEJ6" %}}</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
         <li>{{% goto "../../europe/france/" "フランス" %}}と同じく通り名に「RUE」と書かれている</li>
     </ul>
