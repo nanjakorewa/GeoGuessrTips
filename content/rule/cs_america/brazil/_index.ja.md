@@ -96,6 +96,19 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <img src="2023-06-13-03-05-06.png" >
 </div>
 
+
+{{% notice tip %}}
+ブラジルの電柱は溝に仕切りが<span class="quiz">ある</span>。一方で{{% goto "../chile/" "チリ" %}}は仕切りが<span class="quiz">無い</span>。円形の電柱も見られる。また、道端にBRと書かれた看板も見られる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./pole.jpg" width="90%" />
+</div>
+
+
+
+
+
 {{% /tab %}}
 {{% tab "攻略動画" %}}
 
