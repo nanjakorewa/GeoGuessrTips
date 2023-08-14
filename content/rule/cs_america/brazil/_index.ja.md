@@ -98,16 +98,12 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 
 
 {{% notice tip %}}
-ブラジルの電柱は溝に仕切りが<span class="quiz">ある</span>。一方で{{% goto "../chile/" "チリ" %}}は仕切りが<span class="quiz">無い</span>。円形の電柱も見られる。また、道端にBRと書かれた看板も見られる。
+ブラジルの電柱は溝に仕切りが<span class="quiz">ある</span>。一方で{{% goto "../chile/" "チリ" %}}は仕切りが<span class="quiz">無い</span>{{% imref %}}。円形の電柱も見られる。また、道端にBRと書かれた看板も見られる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./pole.jpg" width="90%" />
 </div>
-
-
-
-
 
 {{% /tab %}}
 {{% tab "攻略動画" %}}
@@ -226,7 +222,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% tabs %}}
 {{% tab "パラナ松" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="&quot;Araucaria angustifolia&quot; &quot;Araucaria brasiliense&quot; &quot;Brazilian pine&quot; Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="&quot;Araucaria angustifolia&quot; &quot;Araucaria brasiliense&quot; &quot;Brazilian pine&quot; Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title=""Araucaria angustifolia" "Araucaria brasiliense" "Brazilian pine" Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt=""Araucaria angustifolia" "Araucaria brasiliense" "Brazilian pine" Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -338,3 +334,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /tab %}}
 {{% /tabs %}}
 
+{{% imgref %}}
+<li>左から二番目の電柱画像のみ以下の画像から抜粋しています</li>
+<li>　By <a href="https://www.wikidata.org/wiki/Q57979330" class="extiw" title="d:Q57979330"><span title="librarian in Chicago, Illinois">Paul R. Burley</span></a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74494644">Link</a></li>
+{{% /imgref %}}
