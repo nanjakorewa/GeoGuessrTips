@@ -54,7 +54,7 @@ By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyan
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で何種類か存在する{{% ex "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" %}}。Google Carが映っていない時もある{{% ex "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}。
+Google Carが特徴的で何種類か存在する{{% ex "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" %}}。シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていることが多い。Google Carが映っていない時もある{{% ex "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681157131804!6m8!1m7!1sGOyh4xXRk_aRcxwYznvcwQ!2m2!1d-1.312968146095767!2d36.82981472799747!3f150.67865147779287!4f-20.34512092537844!5f1.3473814785954303" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
