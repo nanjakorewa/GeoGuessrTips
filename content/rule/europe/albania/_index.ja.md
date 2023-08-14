@@ -70,15 +70,16 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 {{% /lb %}}
 
 {{% notice tip %}}
-アルバニアの主要な貿易相手国のひとつである{{% goto "../italy/" "イタリア" %}}と共通点が多く、イタリアとほとんど同じ形の通り看板{{% ex "https://goo.gl/maps/R2wzdbFMHPenWBg1A" "https://goo.gl/maps/QbBhYdkEDRdD6rF87" %}}・ボラード{{% ex "https://goo.gl/maps/ESN9zYisLL9suCVW7" %}}・シェブロン{{% ex "https://goo.gl/maps/NU4wkS9w85YpKVmJ7" "https://goo.gl/maps/AYsyfPP3tX8U3kNu6" "https://goo.gl/maps/YBGES158QLufLdPe8" "https://goo.gl/maps/62eUutNv4Bap4MNz5" %}}を使っている{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。言語は明確に異なるので看板を見ればイタリアでないことは分かるはず。通りや大通りはイタリア語では「via・viale」だがアルバニア語では「rruga」。
+アルバニアの主要な貿易相手国のひとつである{{% goto "../italy/" "イタリア" %}}と共通点が多い。イタリアと同じくナンバーが両サイドが青色・イタリアとそっくりな形の通り看板{{% ex "https://goo.gl/maps/R2wzdbFMHPenWBg1A" "https://goo.gl/maps/QbBhYdkEDRdD6rF87" %}}・ボラード{{% ex "https://goo.gl/maps/YSJcZFY1WgHc9bHU9" "https://goo.gl/maps/ESN9zYisLL9suCVW7" %}}・シェブロン{{% ex "https://goo.gl/maps/WdA6F96J7rGnBT6V9" "https://goo.gl/maps/62eUutNv4Bap4MNz5" %}}を使っている{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。看板の裏側が黒っぽいことが多い{{% ex "https://goo.gl/maps/v4ETt8wVLeW4V7qNA" "https://goo.gl/maps/BHErUyD6QQX1v4jB8" %}}のもイタリアと同じ。言語は明確に異なるので看板を見ればイタリアでないことは分かるはず。下の通り看板は左が<b>イタリア</b>、右が<b>アルバニア</b>。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="./street-sign.png" width="90%" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Road-sign-%CF%8075b.svg" width="120px">
+<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px">
+<img src="./sign-bg.png" width="120px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -98,5 +99,11 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690660982616!6m8!1m7!1sVKrpT66tbw2o7-joLV705A!2m2!1d40.60891237431336!2d21.01763627538937!3f259.0676906079011!4f-13.73738535758558!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "電柱" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-08-14-17-20-33.png" width="400px" />
+</div>
+{{% /tab %}}
+
 {{% /tabs %}}
 
