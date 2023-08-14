@@ -55,7 +55,7 @@ By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyan
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で何種類か存在する{{% ex "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" %}}。シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていることが多い。Google Carが映っていない時もある{{% ex "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}。
+Google Carが特徴的で何種類か存在する。車の屋根が見えたり{{% ex "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}、シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていたり{{% ex "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" %}}、サイドミラーが見えたりする{{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}。稀にGoogle Carがモザイクになっていたり{{% ex "https://goo.gl/maps/w1JyoUimwnwk6AbL8" %}}映っていない時もある{{% ex "https://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}ので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681157131804!6m8!1m7!1sGOyh4xXRk_aRcxwYznvcwQ!2m2!1d-1.312968146095767!2d36.82981472799747!3f150.67865147779287!4f-20.34512092537844!5f1.3473814785954303" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
