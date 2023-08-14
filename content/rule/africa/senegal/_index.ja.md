@@ -23,9 +23,9 @@ sc: [
         <li>ドメインは<span class="quiz">.sn</span></li>
         <li>言語は<span class="quiz">フランス語</span>とウォロフ語が使われる</li>
         <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色が多い</li>
-        <li>空に<span class="quiz">ひびのような線が入っている</span>ことが多い{{% ex "https://goo.gl/maps/7nwXozV3Yv5RvAph6" "https://goo.gl/maps/XqTzitvRPXjxrjEJ6" %}}</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
         <li>{{% goto "../../europe/france/" "フランス" %}}と同じく通り名に「RUE」と書かれている</li>
+        <li class="no-evidence">2015年に撮影されたものは空に<span class="quiz">ひびのような線が入っている</span>ことが多い{{% ex "https://goo.gl/maps/7nwXozV3Yv5RvAph6" "https://goo.gl/maps/XqTzitvRPXjxrjEJ6" %}}</li>
     </ul>
     {{% rd africa senegal verysmall %}}
 </div>
@@ -67,7 +67,7 @@ Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがか
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
-フランスにある電柱とおなじ形の電柱がある。左がセネガル・右がフランス。
+{{% goto "../../europe/france/" "フランス" %}}にある電柱とおなじ形の電柱がある。左がセネガル・右がフランス。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681095856290!6m8!1m7!1s5EwrHrgPBzAoWGoF_284SQ!2m2!1d14.76226054372536!2d-17.03057564757381!3f300.5303852228069!4f5.375461255524556!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -77,11 +77,20 @@ Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがか
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice tip %}}
-これら以外にも色々な種類がある
+これら以外にも色々な種類がある。よーく見ると{{% goto "../../europe/france/" "フランス" %}}のボラードをもとに改造しているような気もする。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683957678326!6m8!1m7!1sK1BBH07meJRr_mWI5_VAlw!2m2!1d13.26041584753564!2d-13.20021350290872!3f225.3122269191634!4f-4.818052002369882!5f3.1080304056684427" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692012478025!6m8!1m7!1sK1BBH07meJRr_mWI5_VAlw!2m2!1d13.26041584753564!2d-13.20021350290872!3f138.63360919790412!4f-4.1284630349873765!5f3.3221390690389803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681835207993!6m8!1m7!1swjn3arrydfiaJrtinnHDiA!2m2!1d13.84399691620429!2d-15.85368460957238!3f94.70206149159301!4f-21.360856404783192!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "画面のひび割れ" %}}
+{{% notice tip %}}
+２０１５年に撮影されたもの以外はほとんど存在しないかも？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692012662707!6m8!1m7!1scu1qjyHoaY1F6k8s6UfefA!2m2!1d13.26051391427934!2d-13.20068697708838!3f183.4930880493612!4f22.76138321538771!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692012726491!6m8!1m7!1sF_AiYoLouIWUwSG0skgK5w!2m2!1d13.7808603746642!2d-16.46893062524738!3f143.80734407158656!4f30.16737601839891!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🥜" %}}
