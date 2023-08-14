@@ -50,18 +50,18 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/MUTCD_R2-1_PR.svg" width="100px">
-<img src="./r/MUTCD-PR_R2-2a.svg" width="100px">
+<img src="./r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px">
+<img src="./r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
-高速道路の看板が数種類あり、特に〇の形の看板は基本的に100番～9999番の間で数が大きい{{% ref "https://en.wikipedia.org/wiki/List_of_highways_in_Puerto_Rico" "プエルトリコの高速道路のリスト" %}}。例<a href="https://goo.gl/maps/FBNxfJep3sqSPaza8">①</a>・<a href="https://goo.gl/maps/E5GJDqvzPaXCzHy59">②</a>
+高速道路の看板が数種類あり、特に〇の形の看板は基本的に100番～9999番の間で数が大きい{{% ex "https://goo.gl/maps/FBNxfJep3sqSPaza8" "https://goo.gl/maps/E5GJDqvzPaXCzHy59" %}}{{% ref "https://en.wikipedia.org/wiki/List_of_highways_in_Puerto_Rico" "プエルトリコの高速道路のリスト" %}}。
 {{% /notice %}}
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/869.png" width="100px">
-<img src="./r/970.png" width="80px">
+<img src="./r/869.png" width="100px" style="margin:10px">
+<img src="./r/970.png" width="80px" style="margin:10px">
 </div>
 
 {{% /tab %}}
