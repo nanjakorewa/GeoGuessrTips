@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../nigeria/", "ナイジェリア"],
     ["../senegal/", "セネガル"],
+    ["../../cs_america/curacao/", "キュラソー"],
     ]
 ---
 
@@ -31,10 +32,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-車の後ろナンバーが大き目の黄色
+車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691900665768!6m8!1m7!1snoD__qTK73KSPwSsPRVGdQ!2m2!1d-2.075259901465407!2d37.45373699945315!3f129.56162285927007!4f-3.834603814749684!5f2.7388556867907417" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691999031048!6m8!1m7!1snoD__qTK73KSPwSsPRVGdQ!2m2!1d-2.075259901465407!2d37.45373699945315!3f127.79717617921!4f-8.046265341484869!5f2.04356627114321" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
