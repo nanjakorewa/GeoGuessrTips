@@ -35,11 +35,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートが<span class="quiz">前に付いていない</span>車しかない。真四角の電柱があり、下の方が塗られていることが多い。
+ナンバープレートが<span class="quiz">前に付いていない</span>車しかない。四角の電柱があり、下の方に色が付いていることもある{{% ex "https://goo.gl/maps/wyhythJmQaioo75m7" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682604395224!6m8!1m7!1s2QsI0KQIKuryNjGXyYLBkw!2m2!1d18.39907123684727!2d-66.17205629042448!3f99.33099251746948!4f-7.640715348930669!5f2.7519584306584073" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682604874168!6m8!1m7!1sUi9fYRhdlcygaDI9HeKNwA!2m2!1d18.43121452444391!2d-66.11418401827083!3f166.8293199033518!4f-5.339070193205615!5f3.0300597589774174" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./road.jpg" width="90%" >
 </div>
 
 {{% notice tip %}}
