@@ -27,8 +27,9 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ru</span>、<span class="quiz">.su</span>を使うこともある（ソ連の国別コードトップレベルドメイン）</li>
         <li>横断歩道の標識の線は<span class="quiz">3本</span></li>
-        <li>道路わきの看板の数値は始点と終点の距離を表している</li>
-        <li>天然ガスの生産が世界最大の企業である<span class="quiz">ガスプロム</span>のガソリンスタンド、銀行行もしている。青や紺色のロゴで『Газпром』の表記の建物があればたぶんロシア。</li>
+        <li>道路わきに数字が書かれた看板があり、数値は始点と終点の距離を表している</li>
+        <li>『<span class="quiz">Ы</span>』はロシア語・{{% goto "../../europe/belarus/" "ベラルーシ" %}}語にはあるが{{% goto "../../europe/ukraine/" "ウクライナ" %}}語にはない</li>
+        <li>ロシア大手企業の<span class="quiz">ガスプロム（Газпром）</span>のガソリンスタンドや銀行がある</li>
         <li>壁や塀の上などにパイプが通っていることが多い{{% by "now_and_jenn" "twitch" %}}</li>
         <li>交差点や道路の合流地点にボラードが沢山ある{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。</li>
         <li class="no-evidence">最終的には植生だけでなく車のアンテナの分布も覚える必要がある</li>
