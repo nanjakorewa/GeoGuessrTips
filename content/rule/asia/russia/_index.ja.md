@@ -32,7 +32,7 @@ sc: [
         <li>ロシア大手企業の<span class="quiz">ガスプロム（Газпром）</span>のガソリンスタンドや銀行がある</li>
         <li>壁や塀の上などにパイプが通っていることが多い{{% by "now_and_jenn" "twitch" %}}</li>
         <li>交差点や道路の合流地点にボラードが沢山ある{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。</li>
-        <li class="no-evidence">最終的には植生だけでなく車のアンテナの分布も覚える必要がある</li>
+        <li class="no-evidence">最終的には植生だけでなくGoogle Carのアンテナの分布も覚える必要がある</li>
     </ul>
     {{% rd asia russia small %}}
 </div>
@@ -42,15 +42,19 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-交差点や道路の合流地点にボラードが沢山ある{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。
+交差点や道路の合流地点にボラードが沢山ある{{% ex "https://goo.gl/maps/iThzpuc9huhvD5ux5" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=1941" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684299677832!6m8!1m7!1s_rUu-YhYJ4NGCjnRiHmdtA!2m2!1d52.55770818253806!2d104.4457571572049!3f18.037961606465192!4f-2.813607116195655!5f3.0429976113777246" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin unclickable">
+<img src="./intersection.jpg" width="90%">
+</div>
+
+<div class="googlemap-if no-margin" style="font-size: 0.8em;" >
+By <a href="//commons.wikimedia.org/w/index.php?title=User:A._L._(loading)&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:A. L. (loading) (page does not exist)">A. L. (loading)</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63893508">Link</a>, 加工あり
 </div>
 
 {{% notice tip %}}
-ガスプロムは天然ガスの生産・供給において世界最大の企業であり、ロシアの国営企業。ノルドストリームもガスプロムが大株主となっている。キルギスタンにもガソリンスタンドがある。
+ガスプロムは天然ガスの生産・供給において世界最大の企業であり、ロシアの国営企業。ノルドストリームもガスプロムが大株主となっている。{{% goto "../kyrgyzstan/" "キルギスタン" %}}にもガソリンスタンドがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Газпром"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -255,7 +259,7 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>カムチャッカ半島は<span class="quiz">火山</span>が特徴的{{% by "sound_of_silence_wl" "twitch"  %}}</li>
-        <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧が多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
+        <li><span class="quiz">サハ共和国（Sakha Republic）</span>では霧・煙のようなものが多い{{% by "sound_of_silence_wl" "twitch"  %}}</li>
         <li><span class="quiz">右ハンドルの日本</span>車の割合が余りにも多いなら日本に近い地域かも{{% by "https://sputniknews.jp/20220912/12882373.html" "web" "日本の中古車天国ウラジオストク、対露制裁後の変化　現地社長に聞く日本車需要の展望" %}}？</li>
         <li>東の方はGoogleCarが白い。</li>
         <li>市外局番を見れば地域を絞り込むことができる、西から順番に先頭は<span class="quiz">4-8-3-4</span>{{% by %}}</li>
@@ -271,6 +275,10 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 
 {{% /tab %}}
 {{% tab "サハ共和国" %}}
+
+{{% notice tip %}}
+山火事の煙？
+{{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682593451775!6m8!1m7!1smvBAq_gq6ACgAET3AiXuTw!2m2!1d62.47217693763402!2d114.0850622327975!3f110.86056678755799!4f-1.1021088798863445!5f1.4289035379558852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
