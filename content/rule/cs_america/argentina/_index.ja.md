@@ -66,7 +66,7 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 </div>
 
 {{% notice tip %}}
-Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSeVCCxtVciN6" "https://goo.gl/maps/ScEzxHXZeN2oBnJRA" "https://goo.gl/maps/eVdWUqpSMJShg8cQ9" "https://goo.gl/maps/zt5NJph2AzA3R6uH6" "https://goo.gl/maps/7T28LJExsyAQQ2CMA" "https://goo.gl/maps/X7bDpqUNQhSytDoA7" %}}。南米でGoogle Carが<span class="quiz">黒</span>色なのはアルゼンチン・{{% goto "../uruguay/" "ウルグアイ" %}}・{{% goto "../peru/" "ペルー" %}}が多い。
+Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSeVCCxtVciN6" "https://goo.gl/maps/ScEzxHXZeN2oBnJRA" "https://goo.gl/maps/eVdWUqpSMJShg8cQ9" "https://goo.gl/maps/zt5NJph2AzA3R6uH6" "https://goo.gl/maps/7T28LJExsyAQQ2CMA" "https://goo.gl/maps/X7bDpqUNQhSytDoA7" %}}。南米でGoogle Carが<span class="quiz">黒</span>色なのはアルゼンチン・{{% goto "../uruguay/" "ウルグアイ" %}}・{{% goto "../peru/" "ペルー" %}}が多い。ただし車が見えないこともある{{% ex "https://goo.gl/maps/wWa5mSSQNnQU1eDD7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690704372717!6m8!1m7!1s1hpbawvlNEnp5cZVoWQckw!2m2!1d-49.63118633707697!2d-69.44449948838371!3f120.31252016988394!4f-31.67891953122966!5f2.8590369400489437" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
