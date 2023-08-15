@@ -11,6 +11,10 @@ flag: "GT.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_googlecar: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../asia/laos/", "ラオス"],
+    ]
 ---
 
 <div class="main-desciption country-description">
