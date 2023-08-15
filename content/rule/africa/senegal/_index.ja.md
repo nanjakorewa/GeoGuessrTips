@@ -10,10 +10,12 @@ bg: "bg/city.jpg"
 flag: "SN.svg"
 no_detaile_info: true
 jetro_detail: true
+plonkit: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../kenya/", "ケニア"],
+    ["../nigeria/", "ナイジェリア"],
     ]
 ---
 
@@ -34,10 +36,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。白色に見えるプレートもある。
+ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。白色に見えるプレートもある。<span class="quiz">青</span>色ナンバーは{{% goto "../botswana/" "ボツワナ" %}}にもある点に注意。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="./car.png" width="90%">
 </div>
 
