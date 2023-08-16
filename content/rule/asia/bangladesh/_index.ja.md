@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ベンガル語（বাংলা লিপি）が見られる。◁の形が特徴的。</li>
-        <li><span class="quiz">緑</span>色のナンバープレートがある</li>
+        <li>商用車に<span class="quiz">緑</span>色のナンバープレートがある</li>
         <li><span class="quiz">黒と白の縞</span>模様のポールの標識がある、すぐ近くのブータンも同じ。</li>
         <li><span class="quiz">赤と白の縞</span>模様のボラードが多い。橋の近くに並んでいることが多い。</li>
         <li>ベイビータクシーやCNGリキシャが走っている{{% ref "https://www.jftc.jp/monthly/overseas/entry-1748.html" "日本貿易会月報オンライン - バングラデシュの交通事情変革期" %}}{{% ref "https://www2.kaiyodai.ac.jp/~hyodo/Dhaka200903.html" "東京海洋大学 - 兵藤哲朗のページ" %}}</li>
@@ -37,14 +37,14 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">赤と白の縞</span>模様のボラード{{% ex "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" %}}。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
+<span class="quiz">赤と白の縞</span>模様のボラード{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" %}}。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollards.png" width="90%" alt="バングラディシュのボラード" />
 </div>
 
 {{% notice tip %}}
-<span class="quiz">緑</span>色のナンバープレートがある。後ろにいるトゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も<span class="quiz">緑</span>色のナンバープレートを付けている。
+商用車は<span class="quiz">緑</span>色のナンバープレートで一般乗用車は白色{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" %}}。トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的で、これも<span class="quiz">緑</span>色のナンバープレートを付けている。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -139,6 +139,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならばヒントになる。</li>
+        <li>St. Martin's Islandは警備員が帯同していて、人力車とコンクリート道路が見られる</li>
     </ul>
 </div>
 
@@ -150,6 +151,16 @@ Dhaka BankやDutch-Bangla Bankの看板があるとき、表裏のどちらか�
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686994393766!6m8!1m7!1sAKCMZ849l84xlLXb9UkmLA!2m2!1d22.34095927213221!2d91.78218672196242!3f61.96411249464136!4f9.877375231188637!5f3.2406016393794856" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "St. Martin's Island" %}}
+
+{{% notice tip %}}
+Wikipediaにあるように、島内は人力車以外の交通手段が見られない{{% ref "https://en.wikipedia.org/wiki/St._Martin%27s_Island" "St. Martin's Island" %}}。警備員が見えない場所でも人力車でコンクリート道路しかないならばこの島の可能性大。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692119000479!6m8!1m7!1spNqROJ_V9GROmW5qH7_vkQ!2m2!1d20.62803158382999!2d92.32095957462462!3f226.65849236850536!4f-8.690996371538347!5f1.0879153149066227" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692119206688!6m8!1m7!1so5SpRVfebhPluF1xb_clbQ!2m2!1d20.63363305789751!2d92.32847888487527!3f327.4734011505491!4f1.0684169611689498!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

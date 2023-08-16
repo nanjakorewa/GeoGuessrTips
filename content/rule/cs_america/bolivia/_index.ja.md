@@ -17,6 +17,7 @@ maps: [
 sc_title: "間違えやすい地域"
 sc: [
     ["../peru/", "ペルー"],
+    ["../../n_america/usa/", "アメリカ"],
     ]
 ---
 
@@ -42,11 +43,11 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い。
+標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い{{% ex "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679137598189!6m8!1m7!1s2eWjw31SO7MsxkgeQdTxsg!2m2!1d-17.49331764844531!2d-67.44580057149!3f2.2754052554731174!4f-9.170003899219893!5f2.6394910242512153" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679814484293!6m8!1m7!1s5Mn9eJl-7H0CIf19LoVOxw!2m2!1d-17.34400815999613!2d-64.10684806671792!3f262.5466902567375!4f-6.943808984176286!5f3.263075176639002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692146804574!6m8!1m7!1s3zEEQWLDevyVIy_djhbT1g!2m2!1d-17.84582091422054!2d-60.7186226828565!3f103.57525907010798!4f-3.6784987817571846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692146694686!6m8!1m7!1sXnzEf7FrmX1a05VCjdNm1g!2m2!1d-20.13407612568305!2d-66.30037406860966!3f107.86431653858813!4f-5.540462812632825!5f1.7957222405339484" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -85,6 +86,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690950653550!6m8!1m7!1sMKAfnNhiu5MErBEOWy6iVg!2m2!1d-18.22299960360435!2d-67.46592076207261!3f254.55778961686912!4f-14.860009177622445!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692146912222!6m8!1m7!1sMIgZCqzzVPLJPdyeyCfodg!2m2!1d-18.04905447549599!2d-67.18229814475399!3f241.00829859732468!4f-1.6955006042338425!5f3.1283258822188063" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐕" %}}
@@ -101,6 +103,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
+        <li>RN6・RN9道路の舗装も近いRN4に近い景色で、赤と白のボラード・路側帯付近に反射板がある</li>
         <li>標高が低い場所は家の壁にセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
         <li>標高が高いほどシンプルなレンガ造りが多い</li>
         <li>木が無くて周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
@@ -109,14 +112,24 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% tabs  %}}
-{{% tab "RN4の東側" %}}
+{{% tab "Ruta 4" %}}
 {{% notice tip %}}
-範囲はかなり狭いけれど何回か出て毎回どこかわからなかったのでメモ{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。
+範囲はかなり狭いけれど何回か出て毎回どこかわからなかったのでメモ{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><div class="unclickable"><img src="./rn4-east.png" width="90%" /></div></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, 加工あり</p>
+</div>
+{{% /tab %}}
+{{% tab "Ruta 9" %}}
+
+{{% notice tip %}}
+ボリビアのラパス周辺とは全く違った景色なので注意。赤と白のボラード・路側帯付近に反射板・中央線はオレンジ{{% ex "https://goo.gl/maps/S3gDjg46zrcVeA298" "https://goo.gl/maps/YwXdd9yw8Jac6Pdu9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_9,_Bolivia.JPG#/media/File:Ruta_9,_Bolivia.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta_9%2C_Bolivia.JPG" alt="Ruta 9, Bolivia.JPG" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Grullab" title="User:Grullab">Grullab</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99513764">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "標高が低い場所" %}}
