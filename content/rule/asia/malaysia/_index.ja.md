@@ -28,6 +28,7 @@ sc: [
         <li>ナンバープレートが<span class="quiz">黒地に白文字</span></li>
         <li>電柱に<span class="quiz">黒いラベル</span>が付いているならば本土側になる{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
         <li>SDN BHD・BHDはマレーシアでは～会社・～公開会社の意味</li>
+        <li>標識や看板は白黒のストライプのポールが使われている</li>
         <li>道路がアスファルトでできていてコンクリート製ではない</li>
     </ul>
     {{% rd asia malaysia small %}}
@@ -39,16 +40,17 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。また、標識や看板は白黒のストライプのポールが使われている。
+黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインは必ず<span class="quiz">白</span>色。
 {{% /notice %}}
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-08-12-20-24-34.png" width="80%" />
+<img src="road.jpg" width="80%" />
 </div>
 
 <div class="googlemap-if unclickable">
 <img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" />
+<img src="Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" />
 <img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" />
 </div>
 
