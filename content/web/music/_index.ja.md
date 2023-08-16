@@ -12,6 +12,17 @@ sections: [""]
 <br />
 
 配信や動画で使用しているbgmの配布サイトへのリンク集です。
+各動画では以下のどちらかの素材を使用しています。
+
+## 株式会社ピクセル
+
+- 音楽素材提供：Music-Note.jp
+- URL：[http://www.music-note.jp/](http://www.music-note.jp/)
+- 運営：株式会社ピクセル
+- URL：[http://pixel-co.com/](http://pixel-co.com/)
+- 利用規約：[https://www.music-note.jp/terms/index.html](https://www.music-note.jp/terms/index.html)
+
+## DOVA-SYNDROME
 
 - [アトリエと電脳世界](https://dova-s.jp/bgm/play10018.html)
 - [Cassette Tape Dream written](https://dova-s.jp/bgm/play13982.html)
