@@ -28,6 +28,7 @@ sc: [
         <li>標識を立てる棒が<span class="quiz">四角い製材（？）のようなぱっと見でよくわからない素材</span>でできている。ペルーは標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。</li>
         <li>ボリビアは木造住宅がほとんどなく<span class="quiz">レンガとセメント</span>でできている</li>
         <li>ほとんどの車はナンバープレートがうっすらと<span class="quiz">青</span>色に見える</li>
+        <li>ウィファラと呼ばれるカラフルな旗がある</li>
     </ul>
     {{% rd cs_america bolivia verysmall %}}
 </div>
@@ -35,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている。ただし色が違う地域や建物がほぼ無い地域もある。
+ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている{{% ex "https://goo.gl/maps/V7tThyT58FpS6jwX9" "https://goo.gl/maps/ATSqSW7wcN4Z1PhR9" "https://goo.gl/maps/EiEju5W7oxK3tmyb7" %}}。ただし色が違う地域や建物がほぼ無い地域もある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/txmx-2/31546038578/in/photolist-Q4BGdS-NwABE7-nAy112-CAGk9R-oJky3W-R9tvYz-2fcPuzR-HPnnQj-2cYNdWq-ZGQUUv-263YEpC-ARtLV4-yXQqKz-251ZxZd-YvWRwh-2cFZAKM-Yb1j3W-FqDEYZ-Gr3d1L-23tnUNz-2cYNghN-jWBpJZ-bALs1W-2cYNjKE-F9iKHa-yFbTfq-23tnVvr-aUQKNK-5WVaG2-bzuBUi-dZxfJm-71Csd-G6aLMz-yFjjFk-aUQHix-24BUKTz-aRT82v-99XKrH-9grn6i-H9G7mR-SGNbYU-99XZtk-o9MgqJ-yFedeU-233Wr6L-9vnD2Z-4pPPS1-pDK2Dv-fPRTgp-2fC1Cow" title="-"><img src="https://live.staticflickr.com/65535/31546038578_d2db67d211_c.jpg" width="800" height="287" alt="-"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -65,12 +66,17 @@ sc: [
 By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61768590">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
-
 {{% /tab %}}
 {{% tab "w-building" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679683485088!6m8!1m7!1sNG6sO-1cHTa0GlS_2uJneA!2m2!1d-16.53816045576946!2d-68.160514917469!3f216.51915282146342!4f5.2207183296746535!5f3.0914199858140696" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679480359158!6m8!1m7!1sAGAD5R6_7G-M_4yNGRDstw!2m2!1d-17.74191350835184!2d-63.15618182467038!3f81.55340430449235!4f1.8284055251925935!5f3.0954258680931925" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+
+{{% notice tip %}}
+ウィファラの旗やロゴがある{{% ex "https://goo.gl/maps/1fehegC65KMp4KVX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%95%E3%82%A1%E3%83%A9" "ウィファラ - Wikimedia" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Banner_of_the_Qulla_Suyu.svg" width="500px">
+</div>
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
