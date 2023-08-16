@@ -54,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い{{% ex "https://goo.gl/maps/38pCS6p63QMBLC2HA" "https://goo.gl/maps/grNrZEVhiEBurcZH9" %}}{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。100%当たるわけではない。
+家の番地が<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。一方で<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。{{% ex "https://goo.gl/maps/38pCS6p63QMBLC2HA" "https://goo.gl/maps/grNrZEVhiEBurcZH9" %}}{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。100%当たるわけではない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
