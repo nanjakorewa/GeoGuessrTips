@@ -81,7 +81,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /tab %}}
 {{% tab "企業" %}}
 {{% notice tip %}}
-Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産をするボリビア最大級の企業{{% ref "https://en.wikipedia.org/wiki/YPFB" "YPFB" %}}。よく見るとたまにロゴが見つかる{{% ex "https://goo.gl/maps/SS9fXv4tRPozGrhYA" "https://goo.gl/maps/Ynib632rfF8o1RYZ7" "https://goo.gl/maps/S7MyWKVLM81nzwdK7" "https://goo.gl/maps/g2vNjcrHfXG4rxMz6" "https://goo.gl/maps/3USXVrgB6SyQYFyQ7" "https://goo.gl/maps/tnPKCF9maDbtQbN87" %}}。
+Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産をするボリビア最大級の企業{{% ref "https://en.wikipedia.org/wiki/YPFB" "YPFB" %}}。よく見るとたまにひし形のロゴが見つかる{{% ex "https://goo.gl/maps/Rf27qetsfuAR9cu59" "https://goo.gl/maps/SS9fXv4tRPozGrhYA" "https://goo.gl/maps/Ynib632rfF8o1RYZ7" "https://goo.gl/maps/S7MyWKVLM81nzwdK7" "https://goo.gl/maps/g2vNjcrHfXG4rxMz6" "https://goo.gl/maps/3USXVrgB6SyQYFyQ7" "https://goo.gl/maps/tnPKCF9maDbtQbN87" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
