@@ -84,7 +84,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /lb %}}
 
 {{% notice tip %}}
-アスファルトの道路が多くコンクリート道路が少ない。離島などの極端な場所{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/sEo5nN4GpnKS7YBp8" "https://goo.gl/maps/iwpVBePBdapZv4w56" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
+アスファルトの道路が多くコンクリート道路が少ない。コンクリート道路は離島などの極端な場所{{% ex "https://goo.gl/maps/mp53Cutjb9t8TXfx7" "https://goo.gl/maps/sEo5nN4GpnKS7YBp8" "https://goo.gl/maps/iwpVBePBdapZv4w56" %}}以外ではあまり見ない。また、マレーシアの道端の看板やボラードには地名と道路番号が書いてあることが多い{{% ex "https://goo.gl/maps/DTB8z4GMhRH92Nbe9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
