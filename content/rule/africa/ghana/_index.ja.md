@@ -47,6 +47,17 @@ sc: [
 <a href="https://twitter.com/fortune_sibanda">@fortune_sibanda のツイート</a>より（本人に掲載確認済み*）
 </div>
 
+{{% notice note %}}
+下を向けば右前に<span class="quiz">黒いガムテープが巻かれている</span>のが見つかるはず。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691936131460!6m8!1m7!1sgAvxIUWO5pIl0fftp9X35Q!2m2!1d4.911854235499209!2d-2.292108674069918!3f106.90794429100063!4f-89!5f0.4000000000000002"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+
 {{% notice tip %}}
 タクシーの色の塗り方が独特{{% ex "https://goo.gl/maps/VHdy9LdK68cffo2v8" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
 {{% /notice %}}
@@ -58,7 +69,6 @@ sc: [
 {{% tab "Google Car" %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691936131460!6m8!1m7!1sgAvxIUWO5pIl0fftp9X35Q!2m2!1d4.911854235499209!2d-2.292108674069918!3f106.90794429100063!4f-89!5f0.4000000000000002"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691936074659!6m8!1m7!1sbWjAaSiNj0iNokuIWgBQpA!2m2!1d7.193594791103338!2d-0.1592029517019!3f176.3866237572617!4f-5.728917588183265!5f1.6483086962926574"width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
