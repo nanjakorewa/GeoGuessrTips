@@ -25,7 +25,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.bo</span></li>
-        <li>標識を立てる棒が<span class="quiz">四角い製材（？）のようなぱっと見でよくわからない素材</span>でできている。ペルーは標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。</li>
+        <li>標識を立てる棒が<span class="quiz">四角い製材のようなぱっと見でよくわからない素材</span>でできている。ペルーは標識の棒が<span class="quiz">白黒のストライプ</span>の時が多い。</li>
         <li>ボリビアは木造住宅がほとんどなく<span class="quiz">レンガとセメント</span>でできている</li>
         <li>ほとんどの車はナンバープレートがうっすらと<span class="quiz">青</span>色に見える</li>
         <li>ウィファラと呼ばれるカラフルな旗がある</li>
@@ -44,11 +44,14 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い{{% ex "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
+標識の棒が<span class="quiz">太くて四角い棒</span>でできていることが多い{{% ex "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692146804574!6m8!1m7!1s3zEEQWLDevyVIy_djhbT1g!2m2!1d-17.84582091422054!2d-60.7186226828565!3f103.57525907010798!4f-3.6784987817571846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692146694686!6m8!1m7!1sXnzEf7FrmX1a05VCjdNm1g!2m2!1d-20.13407612568305!2d-66.30037406860966!3f107.86431653858813!4f-5.540462812632825!5f1.7957222405339484" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin unclickable">
+<img src="./roadsign.jpg" width="90%">
+</div>
+
+<div class="googlemap-if no-margin" style="font-size:0.8em;">
+By Pavel Špindler, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54417023">Link</a>
 </div>
 
 {{% notice tip %}}
