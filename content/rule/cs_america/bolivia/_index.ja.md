@@ -77,7 +77,6 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <div class="googlemap-if unclickable">
 <img src="./Banner_of_the_Qulla_Suyu.svg" width="500px">
 </div>
-</div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
