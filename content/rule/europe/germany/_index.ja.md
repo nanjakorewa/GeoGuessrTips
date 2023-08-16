@@ -173,6 +173,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>ドイツ北部の離島である北フリジア諸島は平坦で木がほとんどない</li>
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}
             <ul>
                 <li><span class="quiz">ベルリン</span>：白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い</li>
@@ -187,22 +188,26 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 
 
 {{% tabs  %}}
-{{% tab "ベルリン / ミュンヘン" %}}
+{{% tab "北フリジア諸島" %}}
+
+{{% notice tip %}}
+北フリジア諸島は平坦で木がほとんどない。ジルト島が最大の島{{% ex "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%88%E5%B3%B6" "ジルト島" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692219540950!6m8!1m7!1snTd4UrXjkuDKPX6uD4tU7w!2m2!1d54.78098350541362!2d8.285718825872765!3f205.60706130387996!4f-5.705054014426992!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692219739016!6m8!1m7!1svWIt_2sgsWSdXgcc41uMQg!2m2!1d54.7365023946165!2d8.511315706504387!3f297.0553739559364!4f-3.839852356543304!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "ベルリン" %}}
 {{% notice tip %}}
 <span class="quiz">ベルリン</span>は白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/49811573@N06/7166338292/in/photolist-bVgmGL-9xYQPA-GeKNsK-d1xu1Y-qXfUKq-26eKgeK-NLykdv-22dtngd-GWW6p-7F15EQ-qjXoSL-NxGLX8-9qirJe-8LPzai-RnsZ8e-e2eGu6-245bTJK-26WtptJ-GoGSex-28AFv2u-LAgBfq-6fkAHd-6wARQH-ZbbTwS-29LbLPC-22T54EV-FTpBH8-ax485i-EvJU8x-meJddk-pKGTch-gV5rVV-8c2PXW-kRshb4-2b19euF-AF4Ja4-aXjqtK-CdDaFF-AorUGu-25Q34Tf-28NN7RD-21k9kAJ-Sx5JuD-MDLaFs-bCzCnk-22PZoBX-8Dvjrh-goswaa-qqs84E-rpYSCi" title="Berlin - April, 2012"><img src="https://live.staticflickr.com/7217/7166338292_45ae24cb4a.jpg" width="500" height="375" alt="Berlin - April, 2012"/></a>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692219579214!6m8!1m7!1sRSd--X2sO7iLwf9-8wpAQw!2m2!1d52.50789754695823!2d13.41422605682538!3f52.791105021141895!4f6.313852675606768!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-<span class="quiz">ミュンヘン</span>は四隅に凹みがあり濃いめの青の背景
-{{% /notice %}}
-
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/62140256@N04/6725018009/in/photolist-bfgtyn-26uFDjk-7akPn-tmhuX1-2afBBmg-tDbK5v-qJboKq-qYcSQH-PQLJFU-cuMsr9-22YJSpr-4aBQfH-9qmvMo-29LbWYA-Tah3Aw-29LbXeq-bmfh2x-6pPCxz-8XeTKb-deJ3S4-8VUvVy-GwS5H1-MuJw4U-6v96tS-nrqdmq-nPvR4p-23ayeKG-MD1sfb-2b957AF-29FYbDn-29FYerX-21k2rsf-29TkV1H-UHf6gx-2ehhMyJ-26W9uLd-299mKZx-nMLmwS-23Fw5ZY-nPNVrT-YAGPq1-r3HFfa-GYScuX-p1FXqn-Hj45Hp-2cwQ5R6-8JqMWT-GMnGb6-7qNQuG-ZvoTZH" title="kia kaha te whanau"><img src="https://live.staticflickr.com/7008/6725018009_b52f7cacca.jpg" width="500" height="375" alt="kia kaha te whanau"/></a>
-</div>
 {{% /tab %}}
 {{% tab "フランクフルト" %}}
 
