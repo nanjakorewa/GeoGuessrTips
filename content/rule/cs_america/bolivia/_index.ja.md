@@ -86,7 +86,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690950653550!6m8!1m7!1sMKAfnNhiu5MErBEOWy6iVg!2m2!1d-18.22299960360435!2d-67.46592076207261!3f254.55778961686912!4f-14.860009177622445!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692146912222!6m8!1m7!1sMIgZCqzzVPLJPdyeyCfodg!2m2!1d-18.04905447549599!2d-67.18229814475399!3f241.00829859732468!4f-1.6955006042338425!5f3.1283258822188063" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692146912222!6m8!1m7!1sMIgZCqzzVPLJPdyeyCfodg!2m2!1d-18.04905447549599!2d-67.18229814475399!3f241.00829859732468!4f-1.6955006042338425!5f3.1283258822188063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "🐕" %}}
