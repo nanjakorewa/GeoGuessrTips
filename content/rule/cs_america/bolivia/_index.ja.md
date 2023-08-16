@@ -44,7 +44,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い{{% ex "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}けれどかなり稀。
+標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い{{% ex "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692146804574!6m8!1m7!1s3zEEQWLDevyVIy_djhbT1g!2m2!1d-17.84582091422054!2d-60.7186226828565!3f103.57525907010798!4f-3.6784987817571846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
