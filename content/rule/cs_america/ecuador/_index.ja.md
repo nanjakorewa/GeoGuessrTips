@@ -40,7 +40,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% by %}}。
+標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -141,10 +141,11 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% tabs  %}}
 {{% tab "マップのズーム" %}}
 {{% notice tip %}}
-看板などから県名が見つかったら県名で場所を絞り込めるかも（画像出典：<a href="https://www.google.com/maps/@-2.409844,-78.918238,15.25z">©2023 Google Map, 2023/4/28に利用</a>, <a href="https://www.google.com/intl/ja/permissions/geoguidelines/">Google マップ 一般的なガイドライン</a>）
+看板などから県名が見つかったら県名で場所を絞り込めるかも。たまに県名が書かれた看板がある{{% ex "https://goo.gl/maps/o3TSqkqDJrPSfUxR9" %}}。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-04-30-11-08-50.png" />
+<div class="googlemap-if no-margin">
+<p><img src="2023-04-30-11-08-50.png" /></p>
+<p>画像出典：<a href="https://www.google.com/maps/@-2.409844,-78.918238,15.25z">©2023 Google Map, 2023/4/28に利用</a>, <a href="https://www.google.com/intl/ja/permissions/geoguidelines/">Google マップ 一般的なガイドライン</a></p>
 </div>
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}

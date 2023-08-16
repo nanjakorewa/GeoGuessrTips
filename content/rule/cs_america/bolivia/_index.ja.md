@@ -43,7 +43,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い{{% ex "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" %}}。
+標識の棒が<span class="quiz">木（いつも四角い？）</span>でできていることが多い{{% ex "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}けれどかなり稀。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692146804574!6m8!1m7!1s3zEEQWLDevyVIy_djhbT1g!2m2!1d-17.84582091422054!2d-60.7186226828565!3f103.57525907010798!4f-3.6784987817571846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -67,16 +67,6 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% /tab %}}
-{{% tab "w-road" %}}
-{{% notice tip %}}
-左がボリビア、右がペルー。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683845680428!6m8!1m7!1s5-gox7x0_EYAeGhOt4aHYw!2m2!1d-16.51322100294571!2d-68.15693131501548!3f348.0640235857518!4f50.037343677761186!5f1.7414182948674855" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683845709482!6m8!1m7!1saQoGq6TQk0KqXWkmlYQbXg!2m2!1d-18.01084314474321!2d-70.24990259977868!3f319.222788507541!4f14.222415822223638!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-building" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679683485088!6m8!1m7!1sNG6sO-1cHTa0GlS_2uJneA!2m2!1d-16.53816045576946!2d-68.160514917469!3f216.51915282146342!4f5.2207183296746535!5f3.0914199858140696" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -87,6 +77,15 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690950653550!6m8!1m7!1sMKAfnNhiu5MErBEOWy6iVg!2m2!1d-18.22299960360435!2d-67.46592076207261!3f254.55778961686912!4f-14.860009177622445!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692146912222!6m8!1m7!1sMIgZCqzzVPLJPdyeyCfodg!2m2!1d-18.04905447549599!2d-67.18229814475399!3f241.00829859732468!4f-1.6955006042338425!5f3.1283258822188063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "企業" %}}
+{{% notice tip %}}
+Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産をするボリビア最大級の企業{{% ref "https://en.wikipedia.org/wiki/YPFB" "YPFB" %}}。よく見るとたまにロゴが見つかる{{% ex "https://goo.gl/maps/SS9fXv4tRPozGrhYA" "https://goo.gl/maps/Ynib632rfF8o1RYZ7" "https://goo.gl/maps/S7MyWKVLM81nzwdK7" "https://goo.gl/maps/g2vNjcrHfXG4rxMz6" "https://goo.gl/maps/3USXVrgB6SyQYFyQ7" "https://goo.gl/maps/tnPKCF9maDbtQbN87" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./YPFB_Logo.svg" width="300px">
 </div>
 {{% /tab %}}
 {{% tab "🐕" %}}

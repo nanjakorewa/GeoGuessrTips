@@ -48,14 +48,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とりわけ電柱が黒と黄色で塗られていたらコロンビアを考えてみる。画像は<a href="https://commons.wikimedia.org/wiki/Category:Utility_poles_in_Quintana_Roo#/media/File:Mucho_OXXO_-_Playa_del_Carmen_QR_-_Nov_2020.jpg">ここ</a>のCC0画像。
+<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とりわけ電柱が黒と黄色で塗られていたら{{% goto "../../cs_america/colombia/" "コロンビア" %}}を考えてみる。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./pole.png" width="90%">
 </div>
 
 {{% notice tip %}}
-とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか。また矢印がなんか太い気がする（自作なので正確な図ではないです）{{% ex "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
+とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。何もないところで矢印の太さでメキシコと分かる場合が結構多いように思う。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
@@ -65,7 +65,7 @@ sc: [
 {{% notice tip %}}
 <span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><div class="unclickable"><img src="./bollard.png" width="90%"></div></p>
 <p>By <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>

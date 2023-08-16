@@ -37,7 +37,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りがない電柱が多くたまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}・{{% goto "../../asia/indonesia/" "インドネシア" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
+電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}・{{% goto "../../asia/indonesia/" "インドネシア" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
 {{% /notice %}}
 <div class="googlemap-if">
 <div class="unclickable">
@@ -52,18 +52,27 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒にも電柱のような感じの溝がある（<span style="font-size: small">コメントで教えてもらいました</span>）
+標識の棒にも電柱のような感じの溝がある（<span style="font-size: small">コメントで教えてもらいました</span>）{{% ex "https://goo.gl/maps/oEiAR6xyXpHYt9A97" "https://goo.gl/maps/gNq2VccEBkkiG6Qs8" "https://goo.gl/maps/ZKCD6sTEe75qoGRMA" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jimsawthat/52631472071/in/photolist-2obS3ZD-2gUkuH9-2gmg3Bq-7HHjqD-iJdnC-iLodA-2gUjzG8-7JiP1j-7ky9PS-huVxio-tXnMgD-9syDuM-8HariF-9nySVZ-5T3UZX-2ik3fpa-2gUksrv-2gUjz9e-dVjypd-sbY8tX-6UZ3fR-5VLnaa-o3k7Gu-88uJxR-o3m6qZ-rwq1WL-7zKU2k-DhyaUm-5Q9TD2-sr8B4S-9XBB9F-9XBBj4-5LMLC3-ojMwKA-4Aceg7-sbY8Lk-bFHMdV-djnnX3-o3m6Uz-9XEuwJ-aeV2dU-9fcSht-2hBcACz-7pw9G5-5wjkWh-stqCLc-9XBB6t-64umfb-9XBBd8-5EjFhV" title="Pare"><img src="https://live.staticflickr.com/65535/52631472071_4a49f15368_z.jpg" width="640" height="480" alt="Pare"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
-ルピナス属の植物が道沿いに生えていることがある。紫色や白の花（例<a href="https://goo.gl/maps/8YjiaAFhTiTy4BcMA">①</a>・<a href="https://goo.gl/maps/JkrswTKHvyZGdQ46A">③</a>）{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E5%B1%9E" "ルピナス属" %}}。
+ルピナス属の植物が道沿いに生えていることがある。紫色や白の花{{% ex "https://goo.gl/maps/8YjiaAFhTiTy4BcMA" "https://goo.gl/maps/JkrswTKHvyZGdQ46A" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E5%B1%9E" "ルピナス属" %}}。こういう黄色のコンクリ道路はかなり南のイメージ。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sergioavelino/4354399332/in/photolist-2ejFjj6-5Ky7wc-2eyGHWv-fqSLBJ-GEiSt5-2g2taCf-okXtsh-ts9U9g-2bKtZUU-tvrKkQ-2dRir4z-tt599F-tRw47c-2ibDkJt-qAhZ8x-deVNZY-sUhTFs-g5NFHN-tsZVzV-g5NLU7-c3eegJ-5HEphG-9G7WoE-EuQypy-7ZVHif-tbpfD7-sv8TE1-svjfi4-EuPEJ9-ts8SSR-wZmqy-taxsou-251wv1j-AdWtg-r4BzdH-eWBWvQ-btkrso-7syBaP-2icUCY2-7CMrdy-61FQWx-qr9YqR-H412R1-TGbx3U-HZHEpn-9EBQpT-cz1TBy-XFZhtu-7CMpbE-7CJgHY" title="VIAGEM AO FIM DO MUNDO"><img src="https://live.staticflickr.com/4056/4354399332_6c15690db7_z.jpg" width="640" height="427" alt="VIAGEM AO FIM DO MUNDO"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% notice tip %}}
+そして道路に赤い反射板がある。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><img src="./road.jpg" width="90%" /></p>
+<p>By [-_-] JORGE - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/graficmedia/27486177645/">https://www.flickr.com/photos/graficmedia/27486177645/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100162985">Link</a></p>
+</div>
+
 
 {{% notice tip %}}
 チリの大手商用銀行、Banco de Chile。
@@ -83,11 +92,10 @@ sc: [
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% notice tip %}}
-タクシーのナンバープレートの色がオレンジか赤のような色
+タクシーのナンバープレートの色がオレンジか赤のような色。しかし白・赤・オレンジ・緑など複数の色があるのでナンバー単体では判別しにくい。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564988130!6m8!1m7!1sC5l0WwX7oP6qBKLQeWO4Ew!2m2!1d-33.41193253939083!2d-70.58602109747619!3f159.42023351415406!4f-5.660628450123696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681564965492!6m8!1m7!1sl7NoYyqlTRdGGBI3PMPVHQ!2m2!1d-36.60891228931357!2d-72.09311583971876!3f171.5854252441635!4f-10.860510409199591!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692166749202!6m8!1m7!1sIdhZ8ACciZIxpVULvNV1FQ!2m2!1d-53.12382706737735!2d-70.89607506801812!3f223.1374297210024!4f-4.946093561937602!5f1.8943177283881312" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
@@ -133,12 +141,21 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 </div>
 
 {{% tabs  %}}
-{{% tab "サンティアゴ" %}}
+{{% tab "サラダ" %}}
 {{% notice tip %}}
 分布はplonkitなどを参照{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./chilean_rhubarb_rhubarb_598355.jpg" width="80%">
+</div>
+
+{{% /tab %}}
+{{% tab "サボテン" %}}
+{{% notice tip %}}
+E-375道路がある緯度付近。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692168171171!6m8!1m7!1sFhtFCCbsa6vMRFRUmvkjRw!2m2!1d-32.31163704925859!2d-70.80982020342161!3f313.85445377340886!4f9.51749813098266!5f1.6672674510265906" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -165,7 +182,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 {{% /tab %}}
 {{% tab "プエルト・ウィリアムズ" %}}
 {{% notice tip %}}
-雪が積もっている地域と海が北に見える＝<a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"><span class="quiz">プエルト・ウィリアムズ</span></a></span>
+雪が積もっている地域と海が北に見える＝<a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"><span class="quiz">プエルト・ウィリアムズ</span></a></span>。稀にトラックのような車が見えることもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680528610024!6m8!1m7!1senXCQJxObSJCvy4a4nZO3w!2m2!1d-54.93243233821228!2d-67.59691137517112!3f349.08918895182273!4f3.715111457463024!5f3.325193203789971" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
