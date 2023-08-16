@@ -119,7 +119,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /tab %}}
 {{% tab "白と赤のボラード" %}}
 {{% notice tip %}}
-白と赤のボラードは<span class="quiz">スコットランド</span>に多いが全域には無いと思われ、{{% goto "../shetland/" "シェットランド諸島" %}}を含む離島にはないように思う。
+白と赤のボラードは<span class="quiz">スコットランド</span>に多いが全域には無いと思われ、{{% goto "../shetland/" "シェットランド諸島" %}}などの離島にはないように思う。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684320325087!6m8!1m7!1s-XmG1Ud5SwPSJ42bx2yJww!2m2!1d56.259023568906!2d-2.7268946362317!3f243.4400609150221!4f-19.690911157766536!5f2.9046987489043916" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
