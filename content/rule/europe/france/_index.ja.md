@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色はたまに違うものもあるけれど特徴的な形なのでわかるはず{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
+ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" %}}や消しゴムみたいな形のものもある{{% ex "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./b2.png" width="90%" alt="フランスのボラード" />

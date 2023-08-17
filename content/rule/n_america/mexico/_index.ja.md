@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}や{{% goto "../../cs_america/uruguay/" "ウルグアイ" %}}などにもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する。とりわけ電柱が黒と黄色で塗られていたら{{% goto "../../cs_america/colombia/" "コロンビア" %}}を考えてみる。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
+<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。とりわけ電柱が黒と黄色で塗られていたら{{% goto "../../cs_america/colombia/" "コロンビア" %}}を考えてみる。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./pole.png" width="90%">
