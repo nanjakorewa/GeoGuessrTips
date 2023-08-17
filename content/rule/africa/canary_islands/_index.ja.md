@@ -41,15 +41,19 @@ sc: [
 </div>
 
 {{% notice tip %}}
-サボテンやヤシの木などいろいろな植物が入り混じっている。場所によって植生も全然違う。{{% ex "https://goo.gl/maps/gjwJbFNgrxDLRgFw9" "https://goo.gl/maps/AuwEHXqgXoihj1dz6" "https://goo.gl/maps/2D9bXz36fxctcLHn6" %}}
+サボテン・ヤシの木・竜血樹{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%A5%E3%82%A6%E3%82%B1%E3%83%84%E3%82%B8%E3%83%A5" "リュウケツジュ" %}}などいろいろな植物が入り混じっている。場所によって植生も全然違う{{% ex "https://goo.gl/maps/gjwJbFNgrxDLRgFw9" "https://goo.gl/maps/AuwEHXqgXoihj1dz6" "https://goo.gl/maps/2D9bXz36fxctcLHn6" %}}。{{% goto "../../europe/spain/" "スペイン本土" %}}と同じく黄色い反射板のボラードとガードレールがある。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/chrisvankan/41005937414/" title="Gran Canaria Road, Spain"><img src="https://live.staticflickr.com/872/41005937414_1083bd0282_z.jpg" width="640" height="328" alt="Gran Canaria Road, Spain"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/chrisvankan/41005937414/" title="Gran Canaria Road, Spain"><img src="https://live.staticflickr.com/872/41005937414_1083bd0282_z.jpg" width="610px" alt="Gran Canaria Road, Spain"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if no-margin unclickable">
+<img src="village_icod_de_los.jpg" width="607px" >
 </div>
 
 
 {{% notice tip %}}
-山がなんだか丸みを帯びているときがある？{{% ex "https://goo.gl/maps/8NXZkYvbWTU7Fq3A9" "https://goo.gl/maps/BRBSXVZSQoxvtcPY9" "https://goo.gl/maps/SFecAx5xcNUW4UwP7" "https://goo.gl/maps/wT4zDtvESE34nEpJ9" "https://goo.gl/maps/NP7WpcZ5Cv57j9LP6" %}}
+山がなんだか丸みを帯びているときがある{{% ex "https://goo.gl/maps/8NXZkYvbWTU7Fq3A9" "https://goo.gl/maps/BRBSXVZSQoxvtcPY9" "https://goo.gl/maps/SFecAx5xcNUW4UwP7" "https://goo.gl/maps/wT4zDtvESE34nEpJ9" %}}？また火山でできた島であり土が黒いところがある{{% ex "https://goo.gl/maps/dC2XaE7HtwnafV5U8" "https://goo.gl/maps/saVrkLuJSnvsLXUV9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2%E8%AB%B8%E5%B3%B6" "カナリア諸島" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/11261062@N00/32302160525/in/photolist-Rdr1Wa-21dZfZd-Qkv7ZD-GaQ1rE-E8R9t1-QMWonJ-F7scvC-KmQ17f-HGWpxE-TDQe61-R17ZxT-MhmnRX-WS4kzi-FreDks-2biT9mo-288upDQ-29YBjkU-KmQ1ZC-nvWys7-bfy9Qg-242Ergp-NYBJ8y-KmPXhN-Qx6BMD-nfW8RR-nvnPZu-KmPV8C-DbZ2XC-KmQ2nm-KmPXxh-KtoWDL-KmQ1hL-HGUj3e-JD8y3R-N1jEUk-B8Fsk4-JBo2N8-23N1o7w-92dNMG-hsW9k-K69VQq-o6jfD7-29Zt8ZJ-P3a4rF-25Hsmbm-KtoWUA-KLcGve-KmPVS3-KmQ37C-2aYxeUQ" title="Lanzarote"><img src="https://live.staticflickr.com/683/32302160525_831acf3a88_z.jpg" width="640" height="427" alt="Lanzarote"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
