@@ -37,7 +37,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}。また駐車禁止だが待機ができるゾーンに矢印つきのNo Parkingの看板を良く見かける{{% ex "https://goo.gl/maps/Byun9Gu4M7ZXhKDf6" %}}。
+エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}。また駐車禁止だが待機ができるゾーンに矢印つきのNo Parkingの看板を良く見かける{{% ex "https://goo.gl/maps/jErDcP5ZEDAtdyp28" "https://goo.gl/maps/byvBdT99cUgVzss79" %}}。
 
 {{% /notice %}}
 
@@ -68,7 +68,7 @@ sc: [
 
 
 {{% notice tip %}}
-ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある{{% ex "https://goo.gl/maps/ZF1BE14mpH7cxhbr6" "https://goo.gl/maps/1eFfB8kZFr7w65Jy7" "https://goo.gl/maps/LGLMGfEa3J2nzWZr9" %}}。
+ドイツや{{% goto "../austria/" "オーストリア" %}}のようなドイツ語圏にはバスや電車の停留所に『<span class="quiz">H（Haltestelleの頭文字）</span>』のマークがある{{% ex "https://goo.gl/maps/qkUNiFvn9DSBhELK6" "https://goo.gl/maps/1eFfB8kZFr7w65Jy7" "https://goo.gl/maps/LGLMGfEa3J2nzWZr9" %}}。
 横長の看板にバス停の名前が書かれていることもある。
 {{% /notice %}}
 
@@ -82,7 +82,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白やオレンジの反射板のボラードがある{{% ex "https://goo.gl/maps/7yND6Q4vTcujDY3j7" "https://goo.gl/maps/erc84T8ZBAf7BWGaA" "https://goo.gl/maps/bpnFa6UKkR3pvDby5" "https://goo.gl/maps/j5ULZdFXTLsj9t1X9" %}}。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
+白やオレンジの反射板のボラードがある{{% ex "https://goo.gl/maps/oAqKAnyqKh2TiRsGA" "https://goo.gl/maps/7yND6Q4vTcujDY3j7" "https://goo.gl/maps/erc84T8ZBAf7BWGaA" "https://goo.gl/maps/bpnFa6UKkR3pvDby5" %}}。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -173,7 +173,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ドイツ北部の離島である北フリジア諸島は平坦で木がほとんどない</li>
+        <li>ジルト島は平坦で木がほとんどない場所がある</li>
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}
             <ul>
                 <li><span class="quiz">ベルリン</span>：白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い</li>
@@ -188,15 +188,14 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 
 
 {{% tabs  %}}
-{{% tab "北フリジア諸島" %}}
+{{% tab "ジルト島" %}}
 
 {{% notice tip %}}
-北フリジア諸島は平坦で木がほとんどない。ジルト島が最大の島{{% ex "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%88%E5%B3%B6" "ジルト島" %}}。
+ジルト島は木が全く生えていない場所がある{{% ex "https://goo.gl/maps/wFYycBKzt8NkduzF7" "https://goo.gl/maps/HscUhbVHEXjX44Fb6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%88%E5%B3%B6" "ジルト島" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692219540950!6m8!1m7!1snTd4UrXjkuDKPX6uD4tU7w!2m2!1d54.78098350541362!2d8.285718825872765!3f205.60706130387996!4f-5.705054014426992!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692219739016!6m8!1m7!1svWIt_2sgsWSdXgcc41uMQg!2m2!1d54.7365023946165!2d8.511315706504387!3f297.0553739559364!4f-3.839852356543304!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./sylt_dunes_nature_landscape.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
