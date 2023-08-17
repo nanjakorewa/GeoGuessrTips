@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ua</span></li>
         <li>横断歩道の標識は<span class="quiz">3本</span></li>
         <li>GoogleCarは<span class="quiz">赤色</span>がぼんやりと見えるかも？{{% by %}}</li>
-        <li><span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるがロシア語には無い</li>
+        <li><span class="quiz">i・ Ї ・є</span>・Ґなどの文字はウクライナ語にはあるがロシア語には無い</li>
         <li>ナンバープレートの左が<span class="quiz">水色と黄色</span></li>
     </ul>
     {{% rd europe ukraine verysmall %}}
@@ -35,7 +35,7 @@ sc: [
 
 
 {{% notice tip %}}
-<span class="quiz">i・ Ї ・Ґ</span>などの文字はウクライナ語にはあるが{{% goto "../../asia/russia/" "ロシア"  %}}語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。
+<span class="quiz">i・ Ї </span>・є・Ґなどの文字はウクライナ語にはあるが{{% goto "../../asia/russia/" "ロシア"  %}}語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/in/photolist-8yiWpr-ZzBSxm-bPno8B-EosEkc-8phymC-eQjoqy-Eo88JS-YY3xER-6GupeL-nGkTSB-LP76A1-XqcWu9-25Bus3S-WG7FPr-7rgyWR-nrHHme-ZddSSR-WP71Pe-WKyGA1-oJpiHZ-Rx8fKy-24itCXC-8Z74Jn-fNHsYY-SJGfFN-nbkKXq-aAJGa-6MctQE-g8UGyf-XqTrZk-79wLF9-JgBKbn-kXZRMe-2a7EjRy-23a4FWD-29prkMd-7X1cm9-Q9r6Dk-gTe1t9-g9Z35c-VBd9vT-7E6bC-4YZVc-VuEBNC-9DCkrX-nLQxTZ-qncFYw-282CSjQ-Gc6t94-ftbZ16" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Kiev/Ukraine (09/2010)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
