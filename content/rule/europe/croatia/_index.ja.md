@@ -90,7 +90,7 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 
 
 {{% notice tip %}}
-クロアチアの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。足の形が「く」ならクロアチアで「ハ」ならハンガリー。{{% goto "../portugal/" "ポルトガル" %}}もベルトを付けている点に注意。
+クロアチアの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。足の形が「く」ならクロアチアで「ハ」ならハンガリー。{{% goto "../portugal/" "ポルトガル" %}}や{{% goto "../germany/" "ドイツ" %}}もベルトを付けている点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
