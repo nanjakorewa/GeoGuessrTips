@@ -194,7 +194,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 ジルト島は木が全く生えていない場所がある{{% ex "https://goo.gl/maps/wFYycBKzt8NkduzF7" "https://goo.gl/maps/HscUhbVHEXjX44Fb6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%AB%E3%83%88%E5%B3%B6" "ジルト島" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if unclickable">
 <img src="./sylt_dunes_nature_landscape.jpg" width="90%" />
 </div>
 
@@ -225,8 +225,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <span class="quiz">ケルン</span>はシンプルな白いプレートだ
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679420669101!6m8!1m7!1sQrzpoIdLhpyBj2X7WhSZ_Q!2m2!1d50.96195311460543!2d6.921252247984377!3f160.56204986744783!4f1.4959776138107799!5f3.325193203789971" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683183593027!6m8!1m7!1sXlTF7Y8ui1gh3efsbH-gCA!2m2!1d50.97362520064448!2d7.012388600509781!3f238.62683440263206!4f0.25072637737952164!5f3.325193203789971" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692249685942!6m8!1m7!1sM4HPmr8PIjG8GKRFbqwk3g!2m2!1d50.97358254838189!2d7.012341618275182!3f260.56219276860475!4f8.89480565272649!5f1.679402548558337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
