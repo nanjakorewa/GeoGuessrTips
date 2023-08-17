@@ -215,8 +215,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683183283371!6m8!1m7!1s26xOKC0QgOrvYADBTrv8UQ!2m2!1d50.11839071648642!2d8.685527282540612!3f284.328087279669!4f8.477032225173815!5f3.3043171645708016" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683183157628!6m8!1m7!1sM34SkSbbBpDcaVQKffhrcw!2m2!1d50.14479086155589!2d8.726754428120737!3f344.04036845588325!4f5.289756406750016!5f3.325193203789971" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692249732699!6m8!1m7!1s7EI_lgOLvfjN702YVjANdA!2m2!1d50.14479020128885!2d8.726758982779089!3f340.8232292343601!4f3.5624982743045024!5f1.7053417015434689" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ケルン" %}}
