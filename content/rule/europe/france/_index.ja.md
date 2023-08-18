@@ -46,11 +46,11 @@ sc: [
 
 
 {{% notice tip %}}
-市外局番が2桁が5つ並んでいる。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。
+市外局番が2桁が5つ並んでいる{{% ex "https://goo.gl/maps/uzvutjapziBd1BgB7" %}}。半角スペースか「.」で区切られて書かれていることが多い。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682694839566!6m8!1m7!1s-EOPnKG5ACpPjzixTD-y8A!2m2!1d42.70109595323554!2d2.896447765312585!3f161.64927566749!4f0.6651892620051711!5f3.325193203789971" width="395" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./phonenumber.jpg" width="90%">
 </div>
 
 
@@ -108,7 +108,16 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 
 
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "家" %}}
+
+{{% notice tip %}}
+フランス以外ではこの形のポストは見かけないように思う。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./mailboxes_post_france_letter.jpg" width="500px">
+</div>
+{{% /tab %}}
+{{% tab "電柱" %}}
 
 {{% notice tip %}}
 青いプレートのついたポール。区切りのある電柱もある。
