@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。また、<span class="quiz">Utca</span>はハンガリー語でstreetの意味。
+標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -47,6 +47,15 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="./route.png" width="240px">
 </div>
+
+{{% notice tip %}}
+<span class="quiz">Utca</span>はハンガリー語でstreetの意味。また『´』が付いた文字は{{% goto "../romania/" "ルーマニア" %}}語では使用しない{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88" "アクサンテギュ" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./micimacko_utca.jpg" width="500px">
+</div>
+
 
 
 {{% notice tip %}}
