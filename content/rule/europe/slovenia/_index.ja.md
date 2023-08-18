@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアと{{% goto "../croatia/" "クロアチア" %}}のどちらかの可能性大。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアが一番多い印象。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -62,16 +62,8 @@ sc: [
 <img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
 
-{{% notice tip %}}
-窓辺に植木鉢があり花が飾られている？
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683357423357!6m8!1m7!1smXlQofPLqwXVG40XOlT-cw!2m2!1d46.54343847896519!2d15.65664575055611!3f274.5442973094061!4f-0.8964263945268272!5f3.305109203400886" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683357348162!6m8!1m7!1s0ZF5DG0ElpotnKNPsL-WcA!2m2!1d46.54329923880041!2d15.65802801061761!3f298.5911233644874!4f-2.881815226217981!5f3.314209002950368" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "標識" %}}
 {{% notice tip %}}
 黄色いシール？個人的にはこれがあったらオーストリアでなくスロベニアでいいと思っている。
 {{% /notice %}}
@@ -80,6 +72,16 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683612553875!6m8!1m7!1sqkmoCYH7FLVI9jqYirgFLw!2m2!1d46.31489311130071!2d15.47932015215573!3f2.3315421701561263!4f1.2121848942166338!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683612606136!6m8!1m7!1sEY4sCrMYDw7yDJjpzZEJ0g!2m2!1d45.50244180747816!2d13.78590385240943!3f186.9282221576562!4f-7.902578988324919!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683612669705!6m8!1m7!1sh00IsjyCxD9iKeEqssga5Q!2m2!1d46.49371219293226!2d13.75815431957018!3f204.52782577877386!4f-3.1209454404265387!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "家" %}}
+
+{{% notice tip %}}
+窓辺に植木鉢があり花が飾られている？
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683357423357!6m8!1m7!1smXlQofPLqwXVG40XOlT-cw!2m2!1d46.54343847896519!2d15.65664575055611!3f274.5442973094061!4f-0.8964263945268272!5f3.305109203400886" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683357348162!6m8!1m7!1s0ZF5DG0ElpotnKNPsL-WcA!2m2!1d46.54329923880041!2d15.65802801061761!3f298.5911233644874!4f-2.881815226217981!5f3.314209002950368" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
