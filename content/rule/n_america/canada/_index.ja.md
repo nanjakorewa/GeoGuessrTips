@@ -298,7 +298,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
 {{% tabs %}}
 {{% tab "ケベック" %}}
 {{% notice tip %}}
-細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。
+細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。{{% goto "../usa/" "アメリカ" %}}にも似たようなボラードがある{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}点にのみ注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
