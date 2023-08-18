@@ -28,6 +28,7 @@ sc: [
         <li>反射板が<span class="quiz">偏った薄い</span>ボラード</li>
         <li>「<span class="quiz">Ћ・ћ</span>」の文字を街中で見かけたならばセルビアの可能性が高い</li>
         <li class="no-evidence">Google Carのアンテナが見えないことが多い</li>
+        <li class="no-evidence">{{% goto "../hungary/" "ハンガリー" %}}や{{% goto "../romania/" "ルーマニア" %}}より丸い電柱が多い</li>
     </ul>
     {{% rd europe serbia verysmall %}}
 </div>
