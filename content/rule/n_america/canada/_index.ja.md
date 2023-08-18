@@ -68,6 +68,19 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/emrold/52477582659/in/photolist-2nXgk2V-2miss6z-NuFN56-2kmY7Es-2o8gC64-NXz2Vc-JnWREj-PT4PgX-2onieXj-DLFBtk-2ncTSy1-2jitdGs-2nREVqU-9NGzLR-2fr9nJF-2h1mR3E-2nLKjmK-b9hAtz-2LK8Vx-7FLqDy-2g7BreD-bkoWe1-saeN45-nvB6-2k6xMGz-2jHxRzZ-22uHMBo-ftTDm8-2oGuLzJ-22GYtTw-PANUKK-dGoiGE-8PY5DX-H5aQp4-2kxmXhz-2nSPW1L-2kuhp7X-PFg61D-bVMgSA-2hAdTSJ-c3DjSw-BHcmsf-pegnRG-2jrX2pn-FuDLKJ-7bCfo1-2bxoeNT-2eTDU8w-dA5CZK-cimT" title="059x : Sign of the times"><img src="https://live.staticflickr.com/65535/52477582659_440801ce70_z.jpg" width="640" height="427" alt="059x : Sign of the times"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}チェッカーボードのような看板がある{{% ex "https://goo.gl/maps/H4Cp8txV2x2FRdxa6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./opeongo_road_signs.jpg" width="90%" />
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px">
+<img src="./Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px">
+<img src="./Ontario_Wa-8R.svg" width="130px" style="margin-right:20px">
+</div>
+
 {{% notice tip %}}TDと書かれた銀行はトロント・ドミニオン銀行の系列。RBCはRoyal Bank of Canadaの略。それぞれ国内２位と１位の資産規模。
 {{% /notice %}}
 <div class="googlemap-if">
