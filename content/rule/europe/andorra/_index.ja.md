@@ -39,7 +39,7 @@ sc: [
 周りが山がちで石壁の模様の建物が多い{{% ex "https://goo.gl/maps/HTiQdHf8CtJ7q3RD7" "https://goo.gl/maps/1gnf9YFxHNpJjxCd6" %}}。街中であったとしても建物の隙間や通りから山の斜面が見える{{% ex "https://goo.gl/maps/uCdX73HmturK9a467" %}}。イタリア西部の山の中でも石壁模様の家が多い{{% ex "https://goo.gl/maps/uSRbQsrbskQkajcb6" %}}ので間違えないように注意する。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/alexanderkanenkov/15476710872/" title="#Andorra"><img src="https://live.staticflickr.com/3934/15476710872_55c82eaef3.jpg" width="600" alt="#Andorra"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./building.jpg" alt="アンドラの建物" width="95%" />
 </div>
 
 {{% notice tip %}}

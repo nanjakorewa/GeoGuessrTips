@@ -42,18 +42,24 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれているポストがある{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。右の青いのよりも左の黄色のものが多く、街中でも目立っているように思う。
+<span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれているポストがある{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/193588695@N06/51977346993/" title="Buzón de Correos España ( Madrid )  Spanish Mailbox"><img src="https://live.staticflickr.com/65535/51977346993_7063c9a2a9.jpg" width="500" height="438" alt="Buzón de Correos España ( Madrid )  Spanish Mailbox"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable">
+<img src="./post.jpg" width="70%">
 </div>
 
-<div class="googlemap-if unclickable">
-<img src="./Logo_Correos_2019.svg.png" width="100px">
-</div>
 
 {{% notice tip %}}
-歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い{{% ex "https://goo.gl/maps/ATGCJqxmWvukMzFH7" "https://goo.gl/maps/qwLftThihrR8Av9r6" "https://goo.gl/maps/XSA94y7vMYu8gRkw7" %}}。赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無く</span>{{% ex "https://goo.gl/maps/kJNQ2eareCtjNVCh9" %}}、また細い長方形型の鉄のパイプを使って標識が建てられている{{% ex "https://goo.gl/maps/AE5WCMZD4fKpouGc8" "https://goo.gl/maps/AE5WCMZD4fKpouGc8" %}}ことが多い気がする。裏側から見た画像は{{% goto "https://goo.gl/maps/9FCkMexLvbz1up1N8" "これ" %}}。
+『<span class="quiz">CALLE</span>』はスペイン語で通り・街路の意味。カタルーニャ語を使う地域では『CARRER』と書かれていることも。以下の右はカタルーニャにあるFree Software Streetの看板{{% ref "https://en.wikipedia.org/wiki/Free_Software_Street" "Free Software Street" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./street.jpg" width="90%">
+</div>
+
+
+
+{{% notice tip %}}
+歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い{{% ex "https://goo.gl/maps/ATGCJqxmWvukMzFH7" "https://goo.gl/maps/qwLftThihrR8Av9r6" "https://goo.gl/maps/XSA94y7vMYu8gRkw7" %}}。赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無く</span>{{% ex "https://goo.gl/maps/kJNQ2eareCtjNVCh9" %}}、また細い長方形型の鉄のパイプを使って標識が建てられている{{% ex "https://goo.gl/maps/AE5WCMZD4fKpouGc8" "https://goo.gl/maps/AE5WCMZD4fKpouGc8" %}}ことが多い。裏側から見た画像は{{% goto "https://goo.gl/maps/9FCkMexLvbz1up1N8" "これ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
