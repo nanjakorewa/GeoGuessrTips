@@ -197,7 +197,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
     <ul class="rule-list">
         <li>STOPの看板が地域ごとに微妙に異なる
             <ul>
-                <li>Inuktitut（イヌクティトット語）が見られるのはヌナブト準州のイルカルイト（例<a href="https://goo.gl/maps/gmn7Rgg4ojx2TBCg6">①</a>）</li>
+                <li>Inuktitut（イヌクティトット語）が見られるのはヌナブト準州のイルカルイト{{% ex "https://goo.gl/maps/gmn7Rgg4ojx2TBCg6" %}}</li>
                 <li>ARRETは<span class="quiz">ケベック</span></li>
                 <li class="no-evidence">STOPとARRET併記は<span class="quiz">ニューブランズウィック</span>と<span class="quiz">オンタリオ</span></li>
             </ul>
@@ -210,7 +210,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
             </ul>
         </li>
         <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
-        <li>左の黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・右の白とオレンジのコーンは<span class="quiz">ケベック</span>のもの{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
+        <li>黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・白とオレンジのコーンは<span class="quiz">ケベック</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
     </ul>
 </div>
 
@@ -298,11 +298,10 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
 {{% tabs %}}
 {{% tab "ケベック" %}}
 {{% notice tip %}}
-細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。{{% goto "../usa/" "アメリカ" %}}にも似たようなボラードがある{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}点にのみ注意。
+細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州{{% ex "https://goo.gl/maps/goHrTyUv3ALQ8DLt5" "https://goo.gl/maps/RYguMToduYg11Cfe8" %}}。{{% goto "../usa/" "アメリカ" %}}にも似たようなボラードがある{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}点にのみ注意。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682431749080!6m8!1m7!1sgSw1a0pgeHS34wFuoDqaPQ!2m2!1d47.23894588616943!2d-71.22878166509145!3f312.502497038676!4f-11.773281361269824!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682765326307!6m8!1m7!1s7gnwFVatHfMuJ1jFG2mgMw!2m2!1d48.39571830923472!2d-71.25217563290403!3f230.9901753934939!4f-6.749220089069581!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./a20_ouest_km143.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "オンタリオ" %}}
