@@ -35,7 +35,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<b>反射板が偏った薄い</b>ボラード。またセルビアはガードレールが角ばっている{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。ただし岩肌が見えていたりGoogle Carのアンテナが見えているならば{{% goto "../montenegro/" "モンテネグロ" %}}を考えてみる。モンテネグロにもセルビアに似たボラードがたまに見つかる（{{% goto "https://goo.gl/maps/wPyH8fRT6s2EdRMG9" "1" ex %}}）。
+<b>反射板が偏った薄い</b>ボラード。またセルビアはガードレールが角ばっている{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。ただし岩肌が見えていたりGoogle Carのアンテナが見えているならば{{% goto "../montenegro/" "モンテネグロ" %}}を考えてみる。モンテネグロにもセルビアに似たボラードがたまに見つかる{{% ex "https://goo.gl/maps/wPyH8fRT6s2EdRMG9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -47,13 +47,13 @@ sc: [
 「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがあるので注意。この文字はセルビアの一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Emilijana_Josimovica_03.jpg#/media/File:Emilijana_Josimovica_03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emilijana_Josimovica_03.jpg/1200px-Emilijana_Josimovica_03.jpg" alt="Emilijana Josimovica 03.jpg" width="500px"></a></p>
 <p>By <a href="//commons.wikimedia.org/w/index.php?title=User:11sasapus11&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:11sasapus11 (page does not exist)">11sasapus11</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=85021744">Link</a></p>
 </div>
 
 {{% notice tip %}}
-セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。他に街中でよく見るロゴはFricomやJelenなど（例<a href="https://goo.gl/maps/nJyL3T1FLVhc96Dq7">①</a>・<a href="https://goo.gl/maps/DjLNsVvDLbJCqYqV6">②</a>）。
+セルビアと{{% goto "../montenegro/" "モンテネグロ" %}}全域にIDEAというスーパーマーケットがある{{% ref "https://en.wikipedia.org/wiki/Idea_(supermarkets)#" "IDEA" %}}。セルビアにのみDelhaize SerbiaというスーパーマーケットチェーンがありロゴにMAXIと書いてある{{% by "https://en.wikipedia.org/wiki/Maxi_(Serbian_supermarket)" "wiki" "Maxi (Serbian supermarket)" %}}。他に街中でよく見るロゴはFricomやJelenなど{{% ex "https://goo.gl/maps/nJyL3T1FLVhc96Dq7" "https://goo.gl/maps/DjLNsVvDLbJCqYqV6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
