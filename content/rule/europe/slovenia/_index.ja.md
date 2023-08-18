@@ -54,6 +54,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
+『ZONE』の表記が『<span class="quiz">CONA</span>』ならばスロベニア確定。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px">
+</div>
+
+
+
+
+{{% notice tip %}}
 {{% goto "../croatia/" "クロアチア" %}}と異なり横断歩道の看板にベルトが無い。左から<span class="quiz">スロベニア</span>・<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
