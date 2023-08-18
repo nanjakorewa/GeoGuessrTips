@@ -65,7 +65,7 @@ sc: [
 
 
 {{% notice tip %}}
-{{% goto "../croatia/" "クロアチア" %}}と異なり横断歩道の看板にベルトが無い。左から<span class="quiz">スロベニア</span>・<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>。
+隣接している{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../hungary/" "ハンガリー" %}}と異なり横断歩道の看板にベルトが無い。左から<span class="quiz">スロベニア</span>・<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
