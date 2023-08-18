@@ -24,7 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.fr</span></li>
-        <li>市外局番が<span class="quiz">2つの数が5個並んでいる</span></li>
+        <li>電話番号は<span class="quiz">2つの数が5個並んでいる</span></li>
         <li>「D653」と言った感じのDで始まる道路番号の黄色いプレートがある</li>
         <li>フランス語の<span class="quiz">「â，î，û，ê，ô」</span>と「é」の文字が多く見つかる</li>
         <li>電柱に<span class="quiz">青いプレート</span>が貼ってあることがある{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}</li>
@@ -46,7 +46,7 @@ sc: [
 
 
 {{% notice tip %}}
-市外局番が2桁が5つ並んでいる{{% ex "https://goo.gl/maps/uzvutjapziBd1BgB7" %}}。半角スペースか「.」で区切られて書かれていることが多い。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。
+電話番号は2桁の数字が5つ並んでいるフォーマット{{% ex "https://goo.gl/maps/uzvutjapziBd1BgB7" %}}。半角スペースか「.」で区切られて書かれていることが多い。はじめの2桁で地域もわかりパリが `01`。そのあとの2桁も絞り込みに使える。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

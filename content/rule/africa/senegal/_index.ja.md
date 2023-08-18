@@ -50,7 +50,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 {{% /lb %}}
 
 {{% notice tip %}}
-{{% goto "../../europe/france/" "フランス" %}}にある電柱とおなじ形の電柱（左の奥に見える電柱など）がある。また通り名のプレートもフランスと似たようなものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった。
+{{% goto "../../europe/france/" "フランス" %}}にある電柱とおなじ形の電柱（左の奥に見える電柱など）がある。また通り名のプレートもフランスと似たようなものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "アフリカ分割" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689904523916!6m8!1m7!1ssB6m6dY7gMC4tuhbnljpaw!2m2!1d16.25490530805905!2d-15.79537753038563!3f116.8511106242806!4f3.235587138574587!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
