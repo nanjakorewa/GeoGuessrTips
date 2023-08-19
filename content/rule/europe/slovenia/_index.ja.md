@@ -54,14 +54,23 @@ sc: [
 </div>
 
 {{% notice tip %}}
-『ZONE』の表記が『<span class="quiz">CONA</span>』ならばスロベニア確定。
+『ZONE』の表記が『<span class="quiz">CONA</span>』ならばスロベニア確定。標識の裏は{{% goto "../italy/" "イタリア" %}}と違い黒色ではなく、黄色いシールが貼ってあることが多いイメージ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px">
+<img src="./sign-behind.png" width="145px" style="margin:10px">
 </div>
 
 
+
+{{% notice tip %}}
+赤い花が飾られた家。もちろん100%ではないです。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./house.jpg" width="90%" />
+</div>
 
 
 {{% notice tip %}}
