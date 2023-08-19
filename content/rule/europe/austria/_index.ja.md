@@ -63,6 +63,26 @@ sc: [
 <img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px">
 </div>
 
+
+{{% notice note %}}
+{{% goto "../slovenia/" "スロベニア" %}}や{{% goto "../germany/" "ドイツ" %}}は町や村の境界で黄色い看板を使うけれどオーストリアは青色。オーストリアと他の国で迷っている時にヒントになるかも。上が{{% goto "../slovenia/" "スロベニア" %}}、下が{{% goto "../germany/" "ドイツ" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable">
+
+<div class="googlemap-if" style="background-color:#eee; margin:0px 100px 0 100px;padding-top:35px;border-radius:10px;">
+<img src="../slovenia/r/Slovenia_road_sign_III-84.svg" width="160px">
+<img src="../slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px">
+</div>
+
+<div class="googlemap-if" style="background-color:#eee; margin:10px 100px 0 100px;padding-top:35px;border-radius:10px;">
+<img src="../germany/r/route-sign.svg" width="150px">
+<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px">
+</div>
+
+</div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% lb %}}
