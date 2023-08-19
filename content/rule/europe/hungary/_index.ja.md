@@ -70,7 +70,7 @@ sc: [
 
 
 {{% notice tip %}}
-郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋か二階建ての家が多い。また、古い家の中にはHungarian Cubesと呼ばれているらしい特徴的な塗装の家があるらしい{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
+郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋か二階建ての家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <p style="margin:0;padding:0;"><a href="https://commons.wikimedia.org/wiki/File:Dr%C3%A1vatam%C3%A1si,_f%C5%91utca_2021_01.jpg#/media/File:Drávatamási,_főutca_2021_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Dr%C3%A1vatam%C3%A1si%2C_f%C5%91utca_2021_01.jpg" alt="Drávatamási, főutca 2021 01.jpg" width="80%"></a></p><p style="margin:0;padding:0;">By <a href="//commons.wikimedia.org/wiki/User:Pasztilla" title="User:Pasztilla">Pasztilla aka Attila Terbócs</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105729346">Link</a></p>
