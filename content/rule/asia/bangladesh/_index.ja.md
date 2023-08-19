@@ -44,14 +44,13 @@ sc: [
 </div>
 
 {{% notice tip %}}
-商用車は<span class="quiz">緑</span>色のナンバープレートで一般乗用車は白色{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" %}}。トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的で、これも<span class="quiz">緑</span>色のナンバープレートを付けている。
+商用車は<span class="quiz">緑</span>色のナンバープレートで一般乗用車は白色。トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的で、これも<span class="quiz">緑</span>色のナンバープレートを付けている{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sabahkamal/1977350422/in/photolist-41JroE-R7aBQs-2my9Cm4-9KP2d4-2j9ewVg-umd23h-nSL5fG-oyjzEr-yP8dSY-bk2RCw-MsrHRn-o3HEkP-ChYRh-A126LU-EcLcZW-sZB4G-3bFswR-umdsJ7-nDjkZ7-bNAzQ-qsPWau-MfmgB-6eSqAX-3vLx-dtYzv9-du3whJ-7B1eEP-pg9TVt-H661Ci-kBcGHn-VpZcy9-ixE8qt-2k6dNC2-q6ZLZg-WuzvQM-5oRV5c-FsJfAG-5B988A-pwZfF-e4FDSp-AygotX-h4cfFP-ovNX6-5QpXY6-DHPQqE-btpRSB-jU7eMB-fE5eT-zNc953-2mKwxf5" title="CNG Rickshaw"><img src="https://live.staticflickr.com/2137/1977350422_4ce514803a_z.jpg" width="640" height="481" alt="CNG Rickshaw"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% lb small %}}
+{{% lb 50 small %}}
 ![](2023-05-18-07-41-41.png)
 {{% /lb %}}
 
