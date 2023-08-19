@@ -33,11 +33,10 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行、白色のものも一定数ある。またラオス<span class="quiz">右側</span>は通行、タイは<span class="quiz">左側</span>通行な点も違う。
+ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}。一方で{{% goto "../thai/" "タイ" %}}は<span class="quiz">左側</span>通行。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682157009914!6m8!1m7!1seOsSrFv4JQ8AcuvxT5GV4w!2m2!1d18.03822241451435!2d102.598858419547!3f95.53813001439185!4f-19.241897013652135!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682157081387!6m8!1m7!1sw4IH7v9MAleGq74LclGP9w!2m2!1d18.03709081130868!2d102.5998904063604!3f295.58001414684395!4f-22.06078559163727!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./car.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}

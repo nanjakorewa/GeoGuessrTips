@@ -66,7 +66,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-そして道路に赤い反射板がある。
+そして道路に赤い反射板がある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><img src="./road.jpg" width="90%" /></p>
@@ -83,7 +83,7 @@ sc: [
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
-道路に赤い反射板がある時がある
+道路に赤い反射板がある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685263976721!6m8!1m7!1sQGpNknTcuFVD8u9JUTPXPA!2m2!1d-33.92383950201787!2d-71.2492240456672!3f335.5104874503583!4f-56.182447229729505!5f1.566519561426944" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
