@@ -113,7 +113,7 @@ sc: [
         <li class="no-evidence">周辺国の文化が混在し地域ごとに家屋が異なる{{% ref "http://www2.arnes.si/~jjakon/HGH/houses/Houses%20in%20Slovenia_3.pdf" "Traditional houses in Slovenia" %}}
             <ul>
                 <li>石灰石の家：Štanjel{{% ex "https://goo.gl/maps/UsCSKGtSGNjcF261A" %}}やCerknica{{% ex "https://goo.gl/maps/dAivpo1HJBYPiBPN9" %}}など真ん中よりも西部側に多い？</li>
-                <li>アルプスの家：Kranjska gora{{% ex "https://goo.gl/maps/2RzUji3iXN2NPv31A" %}}など北西部の山岳地帯</li>
+                <li>アルプスの家：TržičやKranjska gora{{% ex "https://goo.gl/maps/2RzUji3iXN2NPv31A" %}}など北西部の山岳地帯</li>
                 <li>藁ぶき屋根の家：Gorišnicaなどパンノニア低地（東部の平野）に多いらしい。ストリートビューで見つけるのは難しい？</li>
             </ul>
         </li>
