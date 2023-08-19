@@ -58,9 +58,14 @@ sc: [
 {{% notice tip %}}
 バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679241217157!6m8!1m7!1sl3OsNKZrdERhKWo0dDIGGA!2m2!1d22.71288525097118!2d90.35422200087513!3f280.85811143171856!4f-39.81621495433588!5f1.5966149083906154" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679241217157!6m8!1m7!1sl3OsNKZrdERhKWo0dDIGGA!2m2!1d22.71288525097118!2d90.35422200087513!3f280.85811143171856!4f-39.81621495433588!5f1.5966149083906154" width="400px" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./gc.jpg" width="400px">
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
