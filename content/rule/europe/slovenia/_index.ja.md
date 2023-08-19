@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアが一番多い印象。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも存在する。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアが一番多い。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -101,13 +101,35 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>カルスト地形がスロベニア西南部からイタリアにかけて広がっている</li>
-        <li>全方位に山が無いならば東側かも</li>
+        <li class="no-evidence">周辺国の文化が混在し地域ごとに家屋が異なる{{% ref "http://www2.arnes.si/~jjakon/HGH/houses/Houses%20in%20Slovenia_3.pdf" "Traditional houses in Slovenia" %}}
+            <ul>
+                <li>石灰石の家：Štanjel{{% ex "https://goo.gl/maps/UsCSKGtSGNjcF261A" %}}やCerknica{{% ex "https://goo.gl/maps/dAivpo1HJBYPiBPN9" %}}など真ん中よりも西部側に多い？</li>
+                <li>アルプスの家：Kranjska gora{{% ex "https://goo.gl/maps/2RzUji3iXN2NPv31A" %}}など北西部の山岳地帯</li>
+                <li>藁ぶき屋根の家：Gorišnicaなどパンノニア低地（東部の平野）に多いらしい。ストリートビューで見つけるのは難しい？</li>
+            </ul>
+        </li>
+        <li class="no-evidence">カルスト地形がスロベニア南西部からイタリアにかけて広がっている</li>
+        <li class="no-evidence">全方位に山が無いならば東側かも</li>
     </ul>
 </div>
 
 
 {{% tabs  %}}
+{{% tab "Cerknicaの家" %}}
+<div class="googlemap-if unclickable">
+<img src="./cerknica_udovic_r_hisa.jpg" width="370px" >
+</div>
+{{% /tab %}}
+{{% tab "Tržičの家" %}}
+<div class="googlemap-if unclickable">
+<img src="./trzic2_kurnikovahisa.jpg" width="370px" >
+</div>
+{{% /tab %}}
+{{% tab "Gorišnicaの家" %}}
+<div class="googlemap-if unclickable">
+<img src="./gorisnica_dominkovadomacija.jpg" width="550px" >
+</div>
+{{% /tab %}}
 {{% tab "カルスト地形" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683358678599!6m8!1m7!1srP-4D1rna8kWjojjFqsuXg!2m2!1d46.27916041461864!2d13.55426806357821!3f165.0419528242373!4f-0.2806715501310464!5f0.4000000000000002" width="580" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
