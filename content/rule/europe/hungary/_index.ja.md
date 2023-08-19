@@ -21,10 +21,11 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.hu</span></li>
-        <li>ハンガリー語を使いキリル文字は使用しない{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E" "ハンガリー語" %}}</li>
+        <li>ハンガリー語を使いキリル文字は使用<span class="quiz">しない</span>{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E" "ハンガリー語" %}}</li>
         <li>標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}</li>
         <li>ダブルアキュートを使う文字が含まれるのはハンガリー語（<span class="quiz">ű・ő</span>）とロシアのチュヴァシュ語（ӳ）{{% by "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%96%E3%83%AB%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88" "wiki" "ダブルアキュート" %}}</li>
-        <li><span class="quiz">Utca</span>はハンガリー語でstreetの意味、看板によくある{{% by %}}</li>
+        <li><span class="quiz">Utca</span>はハンガリー語でstreetの意味{{% by %}}</li>
+        <li>ハンガリーの横断歩道の中の人はベルトを付けて<span class="quiz">いる</span></li>
         <li>平坦な国で山がほとんど無い</li>
     </ul>
     {{% rd europe hungary verysmall %}}
