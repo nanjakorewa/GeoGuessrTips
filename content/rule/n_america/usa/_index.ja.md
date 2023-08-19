@@ -121,8 +121,8 @@ maps: [
                         <li>全体的に黄色→<span class="quiz">アラスカ</span></li>
                         <li>全体的もしくは両サイドが薄い黄色→<span class="quiz">Mississippi</span></li>
                         <li>白背景で、右半分だけオレンジ→<span class="quiz">Utah</span></li>
-                        <li>白背景で、真ん中にオレンジが描かれている→<span class="quiz">Florida・Georgia</span></li>
-                        <li>白背景で、真ん中に緑の木が描かれている→<span class="quiz">Oregon</span></li>
+                        <li>白背景で、真ん中に🍊が描かれている→<span class="quiz">Florida・Georgia</span></li>
+                        <li>白背景で、真ん中に緑の🌲描かれている→<span class="quiz">Oregon</span></li>
                         <li>白背景で、上に赤いライン→<span class="quiz">Ohio</span></li>
                         <li>白背景で、上に水色のライン→<span class="quiz">Minnesota・Montana・Iowa</span></li>
                         <li>白背景で、上が青で下が黄色→<span class="quiz">Pennsylvania</span></li>
@@ -131,6 +131,7 @@ maps: [
                         <li>上半分がハッキリとした青色で、下半分が白→<span class="quiz">Connecticut</span>、Illinoisも似た感じに見えるときがある</li>
                         <li>上半分が白色で、下半分がうっすらと青→<span class="quiz">Kentucky</span></li>
                         <li class="no-evidence">上がうっすらと黄色・下がうっすらと青→<span class="quiz">ワシントン？</span></li>
+                        <li>前が付いていて🌈が描かれている→<span class="quiz">ハワイ</span></li>
                     </ul>
                 </li>
             </ul>
