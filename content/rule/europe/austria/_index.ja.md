@@ -22,7 +22,9 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.at</span></li>
         <li><span class="quiz">ドイツ</span>語が公用語になっている</li>
-        <li>一方通行は<span class="quiz">EINBAHN</span>の標識がありポールに赤と白のペイントがされていることがある</li>
+        <li>一方通行は<span class="quiz">EINBAHN</span>の標識がある</li>
+        <li>標識のポールに赤と白のペイントがされていることがある</li>
+        <li>縁や背景が<span class="quiz">青</span>色の看板を使うことが多い</li>
     </ul>
     {{% rd europe austria verysmall %}}
 </div>
