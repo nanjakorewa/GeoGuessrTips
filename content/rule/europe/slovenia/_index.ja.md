@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../austria/", "オーストリア"],
     ["../croatia/", "クロアチア"],
+    ["../montenegro/", "モンテネグロ"],
     ]
 ---
 
@@ -35,7 +36,7 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-{{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}
+{{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}。たまに{{% goto "../montenegro/" "モンテネグロ" %}}にも似た見た目のボラードが存在する{{% ex "https://goo.gl/maps/Chrh7DMo5qQ2EBz26" %}}ため注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollard.png" width="90%">

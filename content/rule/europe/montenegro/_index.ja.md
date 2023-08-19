@@ -27,6 +27,7 @@ sc: [
         <li>公用語はモンテネグロ語（Црногорски језик）でキリル文字を使用<span class="quiz">する</span></li>
         <li>ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span></li>
         <li><span class="quiz">黄</span>色のガードレールが山中に多くありその多くがかなり錆びている</li>
+        <li>内陸では画像に亀裂があるエリアが多い{{% by "https://www.plonkit.net/montenegro" "plonkit" %}}</li>
     </ul>
     {{% rd europe montenegro verysmall %}}
 </div>
@@ -50,7 +51,7 @@ By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/
 
 
 {{% notice tip %}}
-白いごつごつした岩肌が見える{{% ex "https://goo.gl/maps/Y2WLPsoVLHYdNXP69" "https://goo.gl/maps/LZMThQnCMUmBZNzL7" "https://goo.gl/maps/qkbt4fm4LvtgcTEw8" %}}。周りの国のボラードが混ざって存在するのでボラードだけ見ると国を間違えがち。
+白いごつごつした岩肌が見える{{% ex "https://goo.gl/maps/Y2WLPsoVLHYdNXP69" "https://goo.gl/maps/LZMThQnCMUmBZNzL7" "https://goo.gl/maps/qkbt4fm4LvtgcTEw8" %}}。周りの国のボラードが混ざって存在するのでボラードだけ見ると国を間違えがち。画像に亀裂があるか・ナンバーに赤い場所があるかを確認する。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Montenegro_46.jpg#/media/File:Montenegro_46.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Montenegro_46.jpg" alt="Montenegro 46.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Oktoober&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Oktoober (page does not exist)">Oktoober</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=114381873">Link</a></p>
