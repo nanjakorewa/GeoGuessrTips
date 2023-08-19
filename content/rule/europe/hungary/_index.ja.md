@@ -49,7 +49,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">Utca</span>はハンガリー語でstreetの意味。また『´』が付いた文字は{{% goto "../romania/" "ルーマニア" %}}語では使用しない{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88" "アクサンテギュ" %}}。
+<span class="quiz">Utca</span>はハンガリー語でstreetの意味。また『´』が付いた文字は隣接する{{% goto "../romania/" "ルーマニア" %}}語では使用せず{{% goto "../slovenia/" "スロベニア" %}}・{{% goto "../serbia/" "セルビア" %}}・{{% goto "../croatia/" "クロアチア" %}}でも正書法上は使用されない{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%88%E3%83%BB%E3%82%A2%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%88" "アクサンテギュ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
