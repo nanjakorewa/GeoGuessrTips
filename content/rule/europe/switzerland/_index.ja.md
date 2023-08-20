@@ -40,7 +40,7 @@ plonkit: true
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
-{{% notice tip %}}
+{{% notice note %}}
 スイスとフィンランドのGoogle Carの比較。
 {{% /notice %}}
 
