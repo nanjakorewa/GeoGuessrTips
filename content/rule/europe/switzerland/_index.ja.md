@@ -54,11 +54,15 @@ sc: [
 
 
 {{% notice tip %}}
-横断歩道標識は<span class="quiz">7本</span>。標識がパイプで囲われていることが多い。右の場合『limite générale』はフランス語なのでフランス付近だと想像できる。
+横断歩道標識は<span class="quiz">7本</span>。標識がパイプで囲われていることが多い。『limite générale』はフランス語なのでフランス付近だと想像できる。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/movaxdx/16899224155/" title="_MG_9926"><img src="https://live.staticflickr.com/65535/16899224155_6fa83be305_w.jpg" width="267" height="400" alt="_MG_9926"/></a>
+<div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jag9889/52689283729/" title="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"><img src="https://live.staticflickr.com/65535/52689283729_53353d9cda_w.jpg" width="300" height="400" alt="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Ammerswil_vilagheniro_291.jpg#/media/File:Ammerswil_vilagheniro_291.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ammerswil_vilagheniro_291.jpg" alt="Ammerswil vilagheniro 291.jpg" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:DidiWeidmann" title="User:DidiWeidmann">Dietrich Michael Weidmann</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9476824">Link</a></p>
 </div>
 
 
@@ -74,6 +78,11 @@ sc: [
 {{% notice tip %}}
 ナンバープレートは特徴的だがモザイクが強くわかりにくい。ほとんどの車は青い線がない。
 {{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:A1_-_Geroldswil_IMG_6109.JPG#/media/File:A1_-_Geroldswil_IMG_6109.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/A1_-_Geroldswil_IMG_6109.JPG" alt="A1 - Geroldswil IMG 6109.JPG" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Roland_zh" title="User:Roland zh">Roland zh</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10029775">Link</a></p>
+</div>
 
 {{% lb 50 %}}
 ![](Switzerland_licence_plate_2007_from_Sankt_Gallen_canton.jpg)
