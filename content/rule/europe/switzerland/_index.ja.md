@@ -36,8 +36,7 @@ plonkit: true
 カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。下はスイスとフィンランドのGoogle Carの比較。景色を見てカメラが低いか判別するのは慣れが必要で自分もできていない。個人的には『真下を向いて一回だけズーム』→『カメラをぐるぐる回す』→『ぼかされていないエリアが画面端などに一回も表示されなければカメラが低い可能性あり』という判断をしているけど正しいかは不明。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688536382796!6m8!1m7!1sA-rIrs21pa0ekJ-YHu7SnQ!2m2!1d46.43383991913235!2d6.215215268258848!3f157.76770648389746!4f-33.79244601960761!5f0.8730100523556503" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688537425174!6m8!1m7!1sZNeonKyMgEdaXWkAW4-qeg!2m2!1d46.65922460124699!2d7.48270704685697!3f60.4807308280999!4f-15.262300202814501!5f3.012833196053655" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 <div class="googlemap-if">
