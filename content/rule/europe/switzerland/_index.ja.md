@@ -8,10 +8,14 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "CH.svg"
-flag_height: "650px"
+flag_height: "700px"
 jetro_detail: true
 dont_show_usda: true
 plonkit: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../austria/", "オーストリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -34,7 +38,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。景色を見てカメラが低いか判別するのは慣れが必要で自分もできていない。個人的には『真下を向いて一回だけズーム』→『カメラをぐるぐる回す』→『ぼかされていないエリアが画面端などに一回も表示されなければカメラが低い可能性あり』という判断をしているけど正しいかは不明。
+カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。景色を見てカメラが低いか判別するのは慣れが必要で自分もできていない。個人的には『一回だけズーム』→『真下を向いてカメラをぐるぐる回す』→『常に全画面ぼやけているならばカメラが低い可能性あり』という判断をしているけど正しいかは不明。カメラが高いと画面端にぼやけていないエリアがあるはず。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -88,11 +92,6 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 <p>By <a href="//commons.wikimedia.org/wiki/User:Jag9889" title="User:Jag9889">Jag9889</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=133815213">Link</a></p>
 </div>
 
-{{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682747509558!6m8!1m7!1sGAihb23_lR7kSq6nxjXYKQ!2m2!1d47.02159076020624!2d7.500673381466769!3f158.77670136091865!4f-0.5498775302401384!5f3.293433733170092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 
