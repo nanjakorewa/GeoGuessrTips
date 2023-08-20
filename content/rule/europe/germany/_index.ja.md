@@ -132,7 +132,49 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>市外局番で地域がわかるかもしれない</li>
+        <li class="no-evidence">レンガの家は北西側のオランダ周辺に多い</li>
+        <li class="no-evidence">大規模な集合住宅が集まった通りは東側に多い？</li>
+        <li class="no-evidence">白い壁と🍊の屋根は中部～南部に多め？</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "レンガの家" %}}
+
+{{% notice tip %}}
+写真はStellichteの町{{% ex "https://goo.gl/maps/9rK6VkLzAaN7efsG8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./stellichte_germany_village_town.jpg" width="600px"></p>
+</div>
+{{% /tab %}}
+{{% tab "集合住宅" %}}
+
+{{% notice tip %}}
+写真はホイエルスヴェルダ（Hoyerswerda）の町{{% ex "https://goo.gl/maps/aaHQ3A1HjsXDo1m87" %}}。労働者居住区として「社会主義者ニュータウン」が作られた歴史がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A4%E3%82%A8%E3%83%AB%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%80" "Hoyerswerda" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./hy_hufelandstr36_46wohnhaus.jpg" width="600px"></p>
+</div>
+{{% /tab %}}
+{{% tab "中部の家" %}}
+
+{{% notice tip %}}
+写真はBurglauerの町{{% ex "https://goo.gl/maps/xomxhZ4wN97RjXJbA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./burglauer_germany_landscape_town.jpg" width="600px"></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>市外局番で地域がわかる</li>
         <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
         <li class="no-evidence">黄色い花の畑は北東に多いかも</li>
         <li class="no-evidence">南東にカメラが汚れている地域がある？{{% ex "https://goo.gl/maps/utLP5i2Ke8Tq8sy69" "https://goo.gl/maps/PU6rhmbHx7do1T7L8" "https://goo.gl/maps/pWMtcoZQXsFpjAVC6" "https://goo.gl/maps/wvph1jL4bFqwxLvA9" "https://goo.gl/maps/nzEWpeqxegfRwok86" %}}</li>
