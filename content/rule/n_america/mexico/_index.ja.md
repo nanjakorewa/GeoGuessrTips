@@ -119,16 +119,32 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>州の名前を覚えておくと絞り込みの役に立つ（<a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3">Wiki</a>）</li>
-        <li>State Highway(白色の盾のようなマーク)の標識に道路番号と州の名前が書いてあるかも</li>
         <li>市外局番の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
         <li class="no-evidence">アメリカに近いエリアの市外局番は 000-000-0000 の表記かも{{% by "now_and_jenn"  "twitch" %}}</li>
     </ul>
 </div>
 
+{{% tabs %}}
+{{% tab "市外局番" %}}
+
+{{% notice tip %}}
+『55』はメキシコシティ。タクシーの模様も重要なヒント。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚で国１こ覚えたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <br>その③　メキシコ <a href="https://t.co/KeTRiY67Lj">pic.twitter.com/KeTRiY67Lj</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1636192764026310656?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
+
+{{% /tab %}}
+{{% tab "市外局番６のエリア" %}}
+<div class="googlemap-if">
+
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">メキシコのエリアコード600番台のmapを作成しました <a href="https://t.co/CjgrxbuEGL">pic.twitter.com/CjgrxbuEGL</a></p>&mdash; niwai (@niwai725) <a href="https://twitter.com/niwai725/status/1693241714545508850?ref_src=twsrc%5Etfw">August 20, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
