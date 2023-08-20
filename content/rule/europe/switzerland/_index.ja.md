@@ -33,7 +33,7 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。下はスイスとフィンランドのGoogle Carの比較。
+カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。下はスイスとフィンランドのGoogle Carの比較。景色を見てカメラが低いか判別するのは慣れが必要で自分もできていない。個人的には『真下を向いて一回だけズーム』→『カメラをぐるぐる回す』→『ぼかされていないエリアが画面端などに一回も表示されなければカメラが低い可能性あり』という判断をしているけど正しいかは不明。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688536382796!6m8!1m7!1sA-rIrs21pa0ekJ-YHu7SnQ!2m2!1d46.43383991913235!2d6.215215268258848!3f157.76770648389746!4f-33.79244601960761!5f0.8730100523556503" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
