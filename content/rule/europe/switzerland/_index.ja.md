@@ -44,7 +44,7 @@ plonkit: true
 スイスとフィンランドのGoogle Carの比較。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if unclickable">
 <img src="googlecar.png" width="500px">
 </div>
 
