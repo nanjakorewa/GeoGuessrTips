@@ -23,6 +23,7 @@ plonkit: true
         <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語 {{% by "supercat6_9" "twitch" %}}</li>
         <li>ナンバープレートは特徴的だがモザイクが強くわかりにくい</li>
         <li>横断歩道標識は<span class="quiz">7本</span></li>
+        <li>白黒で円柱型の丸い頭のボラードがある</li>
         <li>消火栓が灰色で上の部分が赤い</li>
     </ul>
     {{% rd europe switzerland verysmall %}}
@@ -94,9 +95,12 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
+
+{{% notice tip %}}
+形は丸いもの・角張っているもの・斜めに切られているのもなどバリエーションあり。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679244668707!6m8!1m7!1sHra-7aZpgqLP7iI8XFgXtA!2m2!1d46.43315174679127!2d6.213722842307408!3f45.06237691668897!4f-18.81163556144068!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679244792427!6m8!1m7!1sPMHwcoh2VoA8blwhGaoToQ!2m2!1d46.43273244754971!2d6.213203270503473!3f227.8736036904779!4f-3.4794664452782627!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692512272659!6m8!1m7!1sTCLOeaGU-CpSXjJAk62b_g!2m2!1d46.54291377319805!2d6.34447016736597!3f328.7635107216829!4f-1.0726181584187486!5f0.7971086293441451" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
