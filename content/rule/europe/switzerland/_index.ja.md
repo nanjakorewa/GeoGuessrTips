@@ -33,11 +33,15 @@ plonkit: true
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。下はスイスとフィンランドのGoogle Carの比較。景色を見てカメラが低いか判別するのは慣れが必要で自分もできていない。個人的には『真下を向いて一回だけズーム』→『カメラをぐるぐる回す』→『ぼかされていないエリアが画面端などに一回も表示されなければカメラが低い可能性あり』という判断をしているけど正しいかは不明。
+カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。景色を見てカメラが低いか判別するのは慣れが必要で自分もできていない。個人的には『真下を向いて一回だけズーム』→『カメラをぐるぐる回す』→『ぼかされていないエリアが画面端などに一回も表示されなければカメラが低い可能性あり』という判断をしているけど正しいかは不明。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+{{% notice tip %}}
+スイスとフィンランドのGoogle Carの比較。
+{{% /notice %}}
 
 <div class="googlemap-if">
 <img src="googlecar.png" width="500px">
