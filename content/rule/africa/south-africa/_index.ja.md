@@ -37,15 +37,16 @@ sc: [
 {{% tabs  %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-防犯対策として窓の内側に<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>があったり、柵に有刺鉄線が付いていることが多い。また、柵にエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「SOS」と書かれたセキュリティ会社のシールが貼ってあることが多い{{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}。
+防犯対策として窓の内側に<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>があったり、柵に有刺鉄線が付いていることが多い。また、柵にエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「BLUE」と書かれたセキュリティ会社のシールが貼ってあることが多い{{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688805820460!6m8!1m7!1ssmZgrjGt7TWWCYoCbRESTA!2m2!1d-34.04274032697883!2d18.51497407381557!3f247.6366493219555!4f-2.532564184131985!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682284165694!6m8!1m7!1seXuNZyme4Cy2mWT7ORBV1Q!2m2!1d-29.83016438817616!2d31.01121558441056!3f170.21138774432524!4f6.853126215654527!5f1.8029387404032464" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692589305891!6m8!1m7!1s7__QvM3p0BexflDHhBUVGw!2m2!1d-29.83013406863737!2d31.01124104828757!3f304.8106288063212!4f-1.2051125449800253!5f1.559993401296524" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./adt.png" width="80px">
+<img src="./adt.png" width="80px" style="margin:10px">
+<img src="./blue.png" width="82px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
