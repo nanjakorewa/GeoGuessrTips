@@ -155,7 +155,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
                 <li>『<span class="quiz">02 9x</span>』は半島部 (by ギガバイトさん@コメ欄)</li>
-                <li>『04 95』は離島だが、そこまで都会ではないので電話番号を見つけるのは難しいかも</li>
+                <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
             </ul>
         </li>
         <li>ドイツ語が混ざっていたら県境の近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
@@ -173,7 +173,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}</li>
             </ul>
         </li>
-        <li>コルシカ島が市外局番が『04 95』でコルシカ語との二言語表記の看板がある</li>
+        <li>コルシカ島は市外局番が『04 95』でコルシカ語との二言語表記の看板がある</li>
         <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
