@@ -158,8 +158,8 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
             </ul>
         </li>
-        <li>ドイツ語が混ざっていたら県境の近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
-        <li>レンガが多かったらベルギー近くを検討してみる</li>
+        <li>ドイツ語が混ざっていたら{{% goto "../germany/" "ドイツ" %}}の国境近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>レンガが多かったら{{% goto "../belgium/" "ベルギー" %}}近くを検討してみる{{% by "now_and_jenn" "twitch" %}}{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
         <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
             <ul>
                 <li class="no-evidence">菜種の畑は北部に多い</li>
