@@ -15,7 +15,7 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../netherlands/", "オランダ"],
-    ["../france/", "ドイツ"],
+    ["../germany/", "ドイツ"],
     ["../france/", "フランス"],
     ["../luxembourg/", "ルクセンブルグ"],
     ["../portugal/", "ポルトガル"],
