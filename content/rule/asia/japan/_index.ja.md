@@ -77,7 +77,7 @@ maps: [
                 <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
             </ul>
         </li>
-        <li><a href="./tyugoku/" class="area-link">九州地方</a>
+        <li><a href="./kyusyu/" class="area-link">九州地方</a>
             <ul>
                 <li><span class="quiz">ススキ</span>が多い{{% ref "https://www.city.fukuoka.lg.jp/data/open/cnt/3/65125/1/H30sizenmatome.pdf?20210628182402" "福岡市の自然-山編-" %}}</li>
                 <li>熊本の標識には赤いテープが巻いてある</li>
@@ -119,7 +119,7 @@ maps: [
                 <li>雪対策として信号機が<span class="quiz">縦</span>になっていることがある</li>
                 <li>雪対策として電話ボックスの屋根が平らじゃないことがある</li>
                 <li class="no-evidence">「停止線」の標識がある</li>
-                <li class="no-evidence">配線に<span class="quiz">ねじれ防止ダンパー</span>がある{{% ref "https://www.hepco.co.jp/network/stable_supply/efforts/snow_prevention/index.html" "雪による停電を防ぐ設備" %}}</li>
+                <li class="no-evidence">配線にねじれ防止ダンパーがある{{% ref "https://www.hepco.co.jp/network/stable_supply/efforts/snow_prevention/index.html" "雪による停電を防ぐ設備" %}}</li>
             </ul>
         </li>
         <li>電柱のプレートや電柱のてっぺんの形が地域によって異なる{{% ref "https://docs.google.com/document/d/16lVvh3sLCnHLh_itpEsvXrHHCR_EPzArBmb4bg6TUTU/edit#" "Guide to Regional Plates on Japanese Utility Pole" %}}{{% ref "https://docs.google.com/document/d/1Pm4qV16U5Yp4xMP4PnR_AUY4Td1aB0kPoCEzNRN2ESU/edit" "A Japan guide by Fanty" %}}

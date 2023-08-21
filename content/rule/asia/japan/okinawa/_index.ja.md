@@ -10,8 +10,17 @@ no_jetro: true
 flag: "OKINAWA.svg"
 ---
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list">
+        <li>平屋の建物が多く屋根上に<span class="quiz">給水タンク</span>がある</li>
+        <li>建物に<span class="quiz">白い平らな建物</span>が多い</li>
+        <li>壁などに<span class="quiz">「石敢當」</span>と書いてある</li>
+    </ul>
+</div>
+
 {{% tabs  %}}
-{{% tab "沖縄全域" %}}
+{{% tab "平屋と給水タンク" %}}
 {{% notice tip %}}
 建物に<span class="quiz">白い平らな屋根</span>のものが多く、屋根上に<span class="quiz">給水タンク</span>が乗っている家もある。平屋のものが多い。
 {{% /notice %}}
@@ -21,6 +30,8 @@ flag: "OKINAWA.svg"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683083410905!6m8!1m7!1snqMY0g7WGxcjpbI9xMJz2Q!2m2!1d26.60338043034416!2d127.9813056125943!3f205.77416744581558!4f17.297234583707507!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tab %}}
+{{% tab "石敢當" %}}
 
 {{% notice tip %}}
 壁などに<span class="quiz">「石敢當（いしがんとう）」</span>と書いてある{{% by "https://ja.wikipedia.org/wiki/%E7%9F%B3%E6%95%A2%E7%95%B6" "wiki" "石敢當" %}}。日本では沖縄県に多く分布するが本州でもたまに見つかる。
@@ -30,6 +41,9 @@ flag: "OKINAWA.svg"
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683083747455!6m8!1m7!1sXHZ0XCHlIw6xTkkGbgs0Sg!2m2!1d26.60253532362954!2d127.9788960388839!3f275.76262759443347!4f-21.70337315607435!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683083847336!6m8!1m7!1sXVX5xguWxqhSrK5i3IFfag!2m2!1d26.16008713631775!2d127.7925042947905!3f80.85335976852608!4f-12.546076375350623!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% /tab %}}
+{{% tab "シーサー" %}}
 
 {{% notice tip %}}
 シーサーもいる
