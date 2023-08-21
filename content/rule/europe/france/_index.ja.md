@@ -173,7 +173,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}</li>
             </ul>
         </li>
-        <li>コルシカ島が出ることがある</li>
+        <li>コルシカ島が市外局番`04 95`でコルシカ語との二言語表記の看板がある</li>
         <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
@@ -233,7 +233,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688877265462!6m8!1m7!1sN-zBY6XiS79lA7szMHLDPw!2m2!1d42.14843993472712!2d8.645999840211816!3f129.09214081582718!4f2.347489205054373!5f1.7132837378709147" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688877515838!6m8!1m7!1sWvb2ZEs0MJaRbzy8shbsTQ!2m2!1d41.44247447561785!2d9.122261868519647!3f336.88801311118243!4f-8.90065353686576!5f0.9955305005643589" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692629650660!6m8!1m7!1srJthFn4o9yYPWXYwUFkvCA!2m2!1d42.90951934065625!2d9.353296019088097!3f113.23500089739929!4f8.917850287137597!5f1.7040834416099337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
