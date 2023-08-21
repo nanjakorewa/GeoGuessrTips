@@ -166,6 +166,13 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
+        <li>粘板岩（Slate）という素材が手に入りやすい地域ほど家の屋根が黒っぽく一般的に北西に黒い屋根が多い
+            <ul>
+                <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
+                <li>{{% ref "Francepixel" "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" %}}</li>
+            </ul>
+        </li>
+        <li>コルシカ島が出ることがある</li>
         <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
@@ -174,7 +181,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
             </ul>
         </li>
-        <li>コルシカ島が出ることがある</li>
     </ul>
 </div>
 
@@ -206,9 +212,20 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 {{% /tab %}}
 {{% tab "ベルギー付近" %}}
+{{% notice tip %}}
+レンガばかりで全然違う地域のときもある。
+{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905708059!6m8!1m7!1st_XQsB86GM6xCG9IUgjMlQ!2m2!1d50.29450643868056!2d4.08535817500789!3f63.98531563426603!4f-3.263060690475413!5f1.165081858696793" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905789945!6m8!1m7!1sObobzsfl9Eyg1IBdsvVhew!2m2!1d50.48916016063912!2d3.583400011074846!3f168.35502595572592!4f3.8804172341302063!5f1.0879153141619562" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "黒い屋根" %}}
+{{% notice tip %}}
+調べた限りだとSlateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北部は黒い屋根が多く、ブルターニュは石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていたピレネー山脈付近・北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}は黒い屋根が多いはずでそれは『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の情報と一致していると思う。他の地域は地中海によくある感じのオレンジ色の屋根。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "コルシカ島" %}}
