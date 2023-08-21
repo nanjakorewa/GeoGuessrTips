@@ -20,8 +20,8 @@ unsafe = true
 # update
 update_message = "最近の更新"
 update_date = "2023/08/15"
-page_title = "フランス"
-page_link = "https://geopinning.space/rule/europe/france/"
+page_title = "ドイツ"
+page_link = "https://geopinning.space/rule/europe/germany/"
 
 # logo is for all page
 logo = ""
