@@ -169,7 +169,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li class="no-evidence">粘板岩（Slate）という素材が手に入りやすい地域ほど家の屋根が黒っぽく一般的に北西に黒い屋根が多い
             <ul>
                 <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
-                <li>{{% ref "Francepixel" "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" %}}</li>
+                <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
                 <li>主なSlate生産地はピレネー山脈付近・北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}など</li>
             </ul>
         </li>
