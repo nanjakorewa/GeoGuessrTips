@@ -225,6 +225,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
     <ul class="rule-list">
         <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
         <li class="no-evidence">地中海側にPorquerollesという離島があり舗装されていない道がや黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
+        <li>ノワールムティエ島という平坦な湿地地帯がある</li>
         <li>ヴェルサイユ宮殿の中も出題される</li>
     </ul>
 </div>
@@ -251,10 +252,17 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 {{% /tab %}}
 {{% tab "Porquerolles" %}}
-{{% notice tip %}}舗装されていない道がや黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}
+{{% notice tip %}}舗装されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}。地中海性気候で周りの木も暖かい感じ{{% ref "https://en.wikipedia.org/wiki/Porquerolles" "Porquerolles" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
+</div>
+{{% /tab %}}
+{{% tab "ノワールムティエ島" %}}
+{{% notice tip %}}ラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692614376283!6m8!1m7!1sn6LRIEsbIuamkZZp6xfbOw!2m2!1d46.99568616024985!2d-2.264597446409267!3f38.669831510508494!4f1.7217861008224702!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ヴェルサイユ宮殿" %}}

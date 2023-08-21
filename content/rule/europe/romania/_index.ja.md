@@ -163,7 +163,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>首都周りの環状線は「DNCB」と名前が付いていてボラードに「CB」と書いてある。ボラードを見つけたら角度と地名でかなり近づけるはず。</li>
-        <li class="no-evidence">観光地でもある暖かそうな港町で電柱下半分に色が塗られている{{% ref "https://en.wikipedia.org/wiki/Constan%C8%9Ba" "コンスタンツァ" %}}</li>
+        <li class="no-evidence">コンスタンツァはhu観光地でもある暖かそうな港町で電柱下半分に色が塗られている{{% ref "https://en.wikipedia.org/wiki/Constan%C8%9Ba" "コンスタンツァ" %}}</li>
         <li class="no-evidence">{{% goto "../serbia/" "セルビア" %}}・{{% goto "../bulgaria/" "ブルガリア" %}}との国境付近と北東のエリアで船に乗っている</li>
     </ul>
 </div>
