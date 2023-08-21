@@ -166,11 +166,11 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
-        <li class="no-evidence">粘板岩（Slate）という素材が手に入りやすい地域ほど家の屋根が黒っぽく一般的に北西に黒い屋根が多い
+        <li class="no-evidence">粘板岩（Slate）という黒色の板状の素材が手に入りやすい地域ほど家の屋根が黒っぽい？
             <ul>
                 <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
                 <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
-                <li>主なSlate生産地はピレネー山脈付近・北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}など</li>
+                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}・など</li>
             </ul>
         </li>
         <li>コルシカ島が出ることがある</li>
