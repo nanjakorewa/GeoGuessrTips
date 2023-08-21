@@ -120,7 +120,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番の9XXの数字で地域を絞り込める</li>
-        <li>ガリシア州や北の沿岸は緑が多い</li>
+        <li>ガリシア州{{% ex "https://goo.gl/maps/M4KYonGMcfZLk6cg9" %}}や北の沿岸付近{{% ex "https://goo.gl/maps/NvHo5UvaWDgFp7FR9" %}}は緑が多い</li>
         <li>環状道路と高速道路には都市を識別する文字が先頭についていることが多い
             <ul>
                 <li>例）BIならばビルバオ付近</li>
