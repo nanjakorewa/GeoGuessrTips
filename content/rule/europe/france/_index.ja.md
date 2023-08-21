@@ -259,7 +259,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 {{% /tab %}}
 {{% tab "ノワールムティエ島" %}}
-{{% notice tip %}}ラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。
+{{% notice tip %}}ラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。オレロン島{{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}}やレ島{{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}のような他の西側の島にも似た景色がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692614376283!6m8!1m7!1sn6LRIEsbIuamkZZp6xfbOw!2m2!1d46.99568616024985!2d-2.264597446409267!3f38.669831510508494!4f1.7217861008224702!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
