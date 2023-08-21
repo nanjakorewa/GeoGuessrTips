@@ -32,7 +32,7 @@ is_has_distinctive_googlecar: true
 </div>
 
 {{% notice tip %}}
-南側の島
+南側の島。道路を見て斜めで直線的な道路ならば南側に行ってみる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683468608791!6m8!1m7!1sGJvUrqOoZvfGAUkErhCNag!2m2!1d17.73002531779859!2d-64.74026630160122!3f159.42086040351649!4f-23.777725872264767!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

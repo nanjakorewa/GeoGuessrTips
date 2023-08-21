@@ -80,7 +80,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-こういう感じの木がある。カンボジア以外だと{{% goto "../../africa/uganda/" "ウガンダ" %}}の国立公園内・{{% goto "../../cs_america/brazil/" "ブラジル" %}}・{{% goto "../../africa/senegal/" "セネガル" %}}など暖かい地域に似た見た目の木がある。
+こういう感じの木がある。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./cambodia_asia_siem_reap.jpg" width="90%" />

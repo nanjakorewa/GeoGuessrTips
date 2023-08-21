@@ -134,7 +134,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
     <ul class="rule-list">
         <li class="no-evidence">レンガの家は北西側のオランダ周辺に多い</li>
         <li class="no-evidence">大規模な集合住宅が集まった通りは東側に多い？</li>
-        <li class="no-evidence">白い壁と🍊の屋根は中部～南部に多め？</li>
+        <li class="no-evidence">白い壁とオレンジ色の屋根は中部～南部に多め？</li>
     </ul>
 </div>
 
