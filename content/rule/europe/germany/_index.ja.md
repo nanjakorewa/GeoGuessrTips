@@ -174,7 +174,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 {{% tab "西部の家" %}}
 
 {{% notice tip %}}
-黒い石が手に入る地域では屋根が黒いのかも。{{% goto "../france/" "フランス" %}}もSlateがある地域が屋根が黒い。その地域で安く手に入る材料を元に家が作られていたのかもしれない。写真は鉱山（Fell Exhibition Slate Mine）の周りにあるBurgenとTrierの街並み。
+黒い石が手に入る地域では屋根が黒いのかも。{{% goto "../france/" "フランス" %}}もSlateがある地域は屋根が黒い。その地域で安く手に入る材料を元に家が作られていたのかもしれない。写真は鉱山（Fell Exhibition Slate Mine）の周りにあるBurgenとTrierの街並み。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
