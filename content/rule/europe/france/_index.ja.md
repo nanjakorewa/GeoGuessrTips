@@ -170,7 +170,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
             <ul>
                 <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
                 <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
-                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}</li>
+                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
             </ul>
         </li>
         <li>コルシカ島は市外局番が『04 95』でコルシカ語との二言語表記の看板がある</li>
