@@ -53,16 +53,15 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない。{{% goto "../germany/" "ドイツ" %}}のボラードと見た目が似ているので注意。
+ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない。{{% goto "../germany/" "ドイツ" %}}のボラードと見た目が似ているけれど反射板のネジの位置が違うように見えるので近くに寄れば見分けられるかも（100％正しいかはまだ調べてないです）？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="unclickable"><img src="./lx-borllard.png" width="170px" style="margin:30px" /></div>
 </div>
 
-
 {{% notice tip %}}
-黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う。自作の図なので縮尺・フォントは正確でないかも。
+黄色い矢印の形の看板に地名が書かれている。通り名の看板の背景が白いことが多いらしい{{% by "plonkit" "https://www.plonkit.net/luxembourg" %}}。またフランス語・ドイツ語を併記した案内板がある。下に示したような八角形に囲まれた通り看板が多いように思う{{% ex "https://goo.gl/maps/9f4GVJita4fJx9t88" %}}。自作の図なので縮尺・フォントは正確でないかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
