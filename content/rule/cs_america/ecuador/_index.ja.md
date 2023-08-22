@@ -133,8 +133,9 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ズームすると県境に県名が表示される</li>
-        <li>アブラヤシのプランテーションがあるのは北の方に限られる</li>
+        <li>アブラヤシのプランテーションがあるのは北の方に限られる{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}</li>
         <li>ガラパゴス諸島が出ることがある・亀が山の上に居たら{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}</li>
+        <li class="no-evidence">田んぼはグアヤキルに流れ込む川沿いに多い{{% ex "https://goo.gl/maps/PGuRCKXj3J6Kkm6M9" "https://goo.gl/maps/8s4iDPMAxAHzCTUF7" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}</li>
     </ul>
 </div>
 
@@ -158,6 +159,16 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684783638204!6m8!1m7!1sDA2RicV2JwheAUEG73JZZg!2m2!1d1.256459675985798!2d-78.74124942090808!3f150.86690501682244!4f-0.1798337100882037!5f2.748077413619822" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "田んぼ" %}}
+{{% notice tip %}}
+田んぼはグアヤキル付近のババアヨ川などの流域に多い{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692719967982!6m8!1m7!1sRjN-isIfvuIRa2x5GTUTgA!2m2!1d-1.932792645599542!2d-79.57847241999976!3f234.46984036457994!4f-2.7189998492245167!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692720076805!6m8!1m7!1sPGAX8ECHF1sA2VeTpehmJg!2m2!1d-1.926990012630441!2d-80.00626544396032!3f229.5363084482948!4f-2.385672741419924!5f1.6960280271771726" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
