@@ -26,6 +26,7 @@ weight: 1000
 - [GeoGuessr - wiki reddit archive](https://www.reddit.com/r/geoguessr/wiki/index/#wiki_reddit_archive)
 - [Highway Route Markers](http://routemarkers.com/)
 - [Street View Map](https://sv-map.netlify.app/#base=roadmap&cov=official&zoom=2&center=0%2C0)：Googleの公式ストリートビューがある地域を確認できるWebアプリ
+- [LICENSE PLATES OF THE WORLD By Michael Kustermann](http://www.worldlicenseplates.com/hp.html)
 
 <h2 class="no-blur">配信者</h2>
 

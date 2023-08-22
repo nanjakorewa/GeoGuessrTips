@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ch</span></li>
         <li>カメラの位置が<span class="quiz">低い</span></li>
         <li>ボラードの色は<span class="quiz">白色で、黒いラインが入っている</span>{{% by %}}</li>
-        <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語 {{% by "supercat6_9" "twitch" %}}</li>
+        <li>スイスの西は{{% goto "../france/" "フランス" %}}語、北と中央は{{% goto "../germany/" "ドイツ" %}}語、南は{{% goto "../italy/" "イタリア" %}}語 {{% by "supercat6_9" "twitch" %}}</li>
         <li>ナンバープレートは特徴的だがモザイクが強くわかりにくい</li>
         <li>横断歩道標識は<span class="quiz">7本</span></li>
         <li>白黒で円柱型の丸い頭のボラードがある</li>
@@ -116,7 +116,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>スイスの西はフランス語、北と中央はドイツ語、南はイタリア語 {{% by "supercat6_9" "twitch" %}}</li>
+        <li>スイスの西は{{% goto "../france/" "フランス" %}}語、北と中央は{{% goto "../germany/" "ドイツ" %}}語、南は{{% goto "../italy/" "イタリア" %}}語 {{% by "supercat6_9" "twitch" %}}</li>
         <li>あまり見かけないものの電話番号の市外局番で地域が分かる。以下はおおまかな範囲。
             <ul>
                 <li>08X～09Xと071：東</li>
