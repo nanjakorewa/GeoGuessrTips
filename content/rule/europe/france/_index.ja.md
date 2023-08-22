@@ -242,7 +242,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
-        <li class="no-evidence">地中海側にPorquerollesという離島があり舗装されていない道がや黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
+        <li class="no-evidence">地中海側にPorquerollesという離島があり舗装されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
         <li>ノワールムティエ島という平坦な湿地地帯がある</li>
         <li>ヴェルサイユ宮殿の中も出題される</li>
     </ul>
