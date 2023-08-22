@@ -148,6 +148,12 @@ sc: [
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
+        <li>さまざまな種類の植生が存在する
+            <ul>
+                <li>バハ・カリフォルニア、バハ・カリフォルニア・スルと北東部には低木が分布する<li>
+                <li>{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a><li>
+            </ul>
+        </li>
         <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
         <li>Chiapasと186号線沿いにアブラヤシのプランテーションがある</li>
     </ul>
@@ -155,6 +161,21 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "植生と土の分布" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./distribution.png" width="540px" />
+</div>
+<div class="googlemap-if no-margin" style="font-size:0.8em">
+画像出典：<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html">参考文献より</a>, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>
+</div>
+
+{{% notice tip %}}
+後日追記する予定です{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}。
+{{% /notice %}}
+
+
+{{% /tab %}}
 {{% tab "コプラ" %}}
 
 <div class="googlemap-if unclickable">
