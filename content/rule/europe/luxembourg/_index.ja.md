@@ -78,8 +78,8 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 隣接している国で<span class="quiz">黄</span>色のシェブロンを使う国がない。ベルギー・オランダ・ルクセンブルグで迷っているときに暗い色の背景色に<span class="quiz">黄</span>色のシェブロンをみたらルクセンブルグの可能性が高い。左２つがルクセンブルグ、右の赤白が{{% goto "../belgium" "ベルギー" %}}・{{% goto "../netherlands/" "オランダ" %}}。フランスには白赤のほかに青白のものもある{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#555;padding-top:30px;margin-bottom:0;border-radius:20px">
-<img src="./r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:10px">
-<img src="./r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:60px">
+<img src="./r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:10px">
+<img src="./r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:100px">
 <img src="../belgium/r/xv.png" width="100px" style="margin-right:10px">
 <img src="../france/r/xcv.png" width="100px">
 </div>
