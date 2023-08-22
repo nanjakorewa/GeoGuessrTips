@@ -133,7 +133,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>ズームすると県境に県名が表示される</li>
-        <li>アブラヤシのプランテーションがあるのは南の方に限られる</li>
+        <li>アブラヤシのプランテーションがあるのは北の方に限られる</li>
         <li>ガラパゴス諸島が出ることがある・亀が山の上に居たら{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}</li>
     </ul>
 </div>
@@ -150,7 +150,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 {{% notice tip %}}
-赤い丸の箇所にはアブラヤシのプランテーションがあるかも。特にコロンビア国境付近の道は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
+赤い丸の箇所にはアブラヤシのプランテーションがある。特にコロンビア国境付近の道{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" %}}やE20の道路{{% ex "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-23-04-26-04.png" width="90%">
