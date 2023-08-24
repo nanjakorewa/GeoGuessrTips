@@ -75,13 +75,13 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-隣接している国で<span class="quiz">黄</span>色のシェブロンを使う国がない。ベルギー・オランダ・ルクセンブルグで迷っているときに暗い色の背景色に<span class="quiz">黄</span>色のシェブロンをみたらルクセンブルグの可能性が高い。左２つがルクセンブルグ、右の赤白が{{% goto "../belgium" "ベルギー" %}}・{{% goto "../netherlands/" "オランダ" %}}。フランスには白赤のほかに青白のものもある{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+隣接している国で黒背景に<span class="quiz">黄</span>色のシェブロン{{% ex "https://goo.gl/maps/M8vSk9tBJow9bK7Z8" %}}を使う国がない。ベルギー・オランダ・ルクセンブルグで迷っているときに暗い色の背景色に<span class="quiz">黄</span>色のシェブロンをみたらルクセンブルグの可能性が高い。左２つがルクセンブルグ、右の赤白が{{% goto "../belgium" "ベルギー" %}}・{{% goto "../netherlands/" "オランダ" %}}。フランスには白赤のほかに青白のものもある{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#555;padding-top:30px;margin-bottom:0;border-radius:20px">
-<img src="./r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:10px">
+<img src="./r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:10px" alt="ルクセンブルグのシェブロン">
 <img src="./r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:100px">
-<img src="../belgium/r/xv.png" width="100px" style="margin-right:10px">
-<img src="../france/r/xcv.png" width="100px">
+<img src="../belgium/r/xv.png" width="100px" style="margin-right:10px" alt="ベルギーのシェブロン">
+<img src="../france/r/xcv.png" width="100px" alt="フランスのシェブロン">
 </div>
 
 {{% /tab %}}
@@ -104,7 +104,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% tab "道路番号" %}}
 
 {{% notice tip %}}
-道端のブロックやボラードにCR～と書いてあるならばマップの黄色い番号の道路を見てみる。
+道端のブロックやボラードにCR～と書いてあるならばマップの黄色い番号の道路を見てみる。N～と書いてある{{% ex "https://goo.gl/maps/tSRi7j1HTHCWh79d6" %}}なら赤い道路番号を見る。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
