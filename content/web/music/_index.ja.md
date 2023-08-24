@@ -32,3 +32,12 @@ sections: [""]
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4a4hwDRKBJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+## 騒音のない世界
+
+- [騒音のない世界](https://noiselessworld.net/)
+- [楽曲の利用規約](https://noiselessworld.net/terms#terms_of_use)
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c0-RxvwPjWs?si=hTdjQxsS3BFrf_3J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
