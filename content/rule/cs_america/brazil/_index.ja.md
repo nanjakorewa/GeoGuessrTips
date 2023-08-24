@@ -65,7 +65,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。南米石油最大手ペトロブラスのガソリンスタンドもあるかも。ヴァーレは見つからないけど大企業{{% ref "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AC" "ヴァーレ" %}}。
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。南米石油最大手ペトロブラスのガソリンスタンドもあるかも。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -80,7 +80,6 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 <div class="googlemap-if unclickable">
 <img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
 <img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
-<img src="./cmp/Vale_logo.svg" width="170px" style="margin:10px">
 </div>
 
 
