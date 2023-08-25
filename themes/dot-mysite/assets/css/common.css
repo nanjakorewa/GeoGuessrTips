@@ -1302,3 +1302,17 @@ span.miss-text {
 	87.5%	{transform:rotate(-0.4deg)	translate(-1px,-1px);}
 	100%	{transform:rotate(0deg)	translate(0,0);}
 }
+
+.streaming-status-disp {
+  transition: margin-right 4s 1s;
+}
+
+.streaming-status-area-title {
+  opacity: 0;
+}
+.streaming-status-area-img {
+  display: none;
+}
+.streaming-status-area-img-dummy {
+  opacity: 0;
+}

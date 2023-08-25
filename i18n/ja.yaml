@@ -80,3 +80,5 @@
   translation: 個人用メモを表示
 - id: display_meaning
   translation: アイコンの意味
+- id: streaming_status
+  translation: 配信ステータス

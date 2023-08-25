@@ -78,3 +78,5 @@
   translation: Display personal memo
 - id: display_meaning
   translation: icon
+- id: streaming_status
+  translation: streaming status
