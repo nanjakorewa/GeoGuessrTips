@@ -1316,3 +1316,8 @@ span.miss-text {
 .streaming-status-area-img-dummy {
   opacity: 0;
 }
+
+.streaming-status-area-streming-title {
+  font-weight: bold;
+  font-size: 0.8em;
+}

@@ -33,12 +33,16 @@ d3.csv('https://docs.google.com/spreadsheets/d/1wRzEFe1kQKQl8flRhe0V5gJTRD-XVO_U
       areaTitle.className = areaTitle.className.replace("streaming-status-area-title", "");
       var ytTitle = document.getElementById("youtube-button-streaming");
       ytTitle.className = ytTitle.className.replace("streaming-status-area", "");
+      var stTitle = document.getElementById("streaming-title");
+      stTitle.innerHTML = data[0].StreamingTitle;
     }
     else if (media==="twitch"){
       var areaTitle = document.getElementById("streaming-status-area");
       areaTitle.className = areaTitle.className.replace("streaming-status-area-title", "");
       var twTitle = document.getElementById("twitch-button-streaming");
       twTitle.className = twTitle.className.replace("streaming-status-area-img", "");
+      var stTitle = document.getElementById("streaming-title");
+      stTitle.innerHTML = data[0].StreamingTitle;
     }
 });
 </script>
