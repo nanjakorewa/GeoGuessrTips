@@ -69,7 +69,7 @@ Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがか
 {{% /tab %}}
 {{% tab "画面のひび割れ" %}}
 {{% notice tip %}}
-2015年に撮影されたもの以外はほとんど存在しないかも？『亀裂が無いからセネガルではない』という判断はしてはいけない。
+2015年に撮影されたものに亀裂が入っていることが多い。亀裂や車が映っていない場所も多いので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692012662707!6m8!1m7!1scu1qjyHoaY1F6k8s6UfefA!2m2!1d13.26051391427934!2d-13.20068697708838!3f183.4930880493612!4f22.76138321538771!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
