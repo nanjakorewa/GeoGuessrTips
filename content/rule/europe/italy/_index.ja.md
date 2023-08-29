@@ -67,7 +67,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% notice tip %}}
-そして、道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。
+そして、道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。ちなみにイタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
