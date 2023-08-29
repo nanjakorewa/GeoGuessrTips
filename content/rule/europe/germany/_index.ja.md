@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-エスツェット「<span class="quiz">ß</span>」を文字として使い、<span class="quiz">Einbahnstraße</span>の標識があればドイツ{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}。また駐車禁止だが待機ができるゾーンに矢印つきのNo Parkingの看板を良く見かける{{% ex "https://goo.gl/maps/hqpXZohCSRdPsmkg6" "https://goo.gl/maps/jErDcP5ZEDAtdyp28" "https://goo.gl/maps/byvBdT99cUgVzss79" %}}。
+<span class="quiz">Einbahnstraße</span>の標識があればドイツ{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}で<b>EINBAHN</b>だと{{% goto "../austria/" "オーストリア" %}}。また駐車禁止だが待機ができるゾーンに矢印つきのNo Parkingの看板を良く見かける{{% ex "https://goo.gl/maps/hqpXZohCSRdPsmkg6" "https://goo.gl/maps/jErDcP5ZEDAtdyp28" "https://goo.gl/maps/byvBdT99cUgVzss79" %}}。ドイツ語圏ではエスツェット「<span class="quiz">ß</span>」を文字として使う。
 
 {{% /notice %}}
 
@@ -48,7 +48,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="220px" style="margin:10px">
+<img src="./r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px">
 <img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px">
 <img src="Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px">
 </div>

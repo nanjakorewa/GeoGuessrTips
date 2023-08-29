@@ -101,6 +101,11 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
+
+{{% notice tip %}}
+ボラードには何個かバリエーションがあるものの、白色に黄色のペイントがされたデザインはペルー以外ではまず見ない。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355234923!6m8!1m7!1sIOKZyXbBZvXeZImXH8GXmw!2m2!1d-15.57786080144935!2d-70.10120163690182!3f296.8561801891278!4f-21.206709910168087!5f3.098953353208563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683805070363!6m8!1m7!1sJ8tkvxtMg35I7ZX48d63Iw!2m2!1d-16.73451805644685!2d-69.71085030545977!3f288.6545619316565!4f-15.673906824009407!5f2.9131358656875324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
