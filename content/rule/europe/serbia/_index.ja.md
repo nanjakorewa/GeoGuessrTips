@@ -11,6 +11,7 @@ flag: "RS.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../montenegro/", "モンテネグロ"],
@@ -88,9 +89,11 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>農作物の生産は北部に多い
+        <li>農作物の生産は平坦な場所が多い北部に多い
             <ul>
-                <li>ひまわりの畑があるのはほとんど北部</li>
+                <li>ひまわりの畑があるのはほとんど北部にある</li>
+                <li>コーンもひまわりと同様で北部に多い</li>
+                <li>南部のほとんどの地域は山がち{{% ex "https://goo.gl/maps/RN791fP9Fyf85Voi8" "https://goo.gl/maps/p1roa7C4zXCfQxCH8" %}}で生産できる場所は限られている</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/rssiws/al/europe_cropprod.aspx">Europe - Crop Production Maps(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
@@ -105,7 +108,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-90%が北部に集中している。フランスやスペインではないと分かっていてひまわり畑がたくさんあるならば、基本的にルーマニア周辺と考えて良いと思う。
+90%が平坦で農業がしやすい北部に集中している。フランスやスペインではないと分かっていてひまわり畑がたくさんあるならば、基本的にルーマニア周辺と考えて良いと思う。
 {{% /notice %}}
 
 <div class="googlemap-if">
