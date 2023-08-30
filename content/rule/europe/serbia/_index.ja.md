@@ -27,7 +27,7 @@ sc: [
         <li>ドメインは<span class="quiz">.rs</span></li>
         <li>セルビア語（српски језик）が公用語でキリル文字とラテン文字が混ざっている</li>
         <li>反射板が<span class="quiz">偏った薄い</span>ボラード</li>
-        <li>「<span class="quiz">Ћ・ћ</span>」の文字を街中で見かけたならばセルビアの可能性が高い</li>
+        <li>「<span class="quiz">Ђ・ђ・Ћ・ћ</span>」の文字を街中で見かけたならばセルビアの可能性が高い</li>
         <li class="no-evidence">Google Carのアンテナが見えないことが多い</li>
         <li class="no-evidence">{{% goto "../hungary/" "ハンガリー" %}}や{{% goto "../romania/" "ルーマニア" %}}より丸い電柱が多い</li>
     </ul>
@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがあるので注意。この文字はセルビアの一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
+「<span class="quiz">Ђ</span>」や「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ{{% ref "https://ja.wikipedia.org/wiki/%D0%82" "Ђ" %}}。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがあるので注意。この文字はセルビアの一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
