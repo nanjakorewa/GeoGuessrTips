@@ -24,6 +24,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sn</span></li>
         <li>言語は<span class="quiz">フランス語</span>とウォロフ語が使われる</li>
+        <li>フランスと同じく<span class="quiz">右側</span>通行</li>
         <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色が多い</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
         <li>{{% goto "../../europe/france/" "フランス" %}}と同じく通り名に「RUE」と書かれている</li>

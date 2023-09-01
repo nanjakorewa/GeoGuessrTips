@@ -45,7 +45,6 @@ sc: [
 ![](2023-05-22-19-50-24.png)
 {{% /lb %}}
 {{% /tab %}}
-{{% /tabs  %}}
 
 {{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている{{% ex "https://goo.gl/maps/kNyPDJYbE6SAivS69" "https://goo.gl/maps/F16NsV6qzHpeSFZr9" %}}。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。
 {{% /notice %}}
@@ -62,13 +61,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683478674761!6m8!1m7!1sB8a53z_-9mYxUzV0Q52jcA!2m2!1d-1.941815097077175!2d30.13047435388365!3f323.03495285680117!4f-12.788419732450919!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tabs  %}}
 
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>キガリ周辺のみにストリートビューがある</li>
-        <li class="no-evidence">通り名にKK・KN・KGといった頭文字がついており、KNの180番以降の数を見かけたら南西に行っていいと思う</li>
+        <li class="no-evidence">通り名にKK・KN・KGといった頭文字がついている。KNの180番以降の数を見かけたら南西。</li>
         <li class="no-evidence">通り看板が見つからなかったり大学や空港が見えたら東側な感じがする{{% ex "https://goo.gl/maps/Pua6pL1A7NxzTyC27" %}}</li>
     </ul>
 </div>
