@@ -77,6 +77,14 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="South Africa-N10-001 (cropped).jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
 </div>
 
+{{% notice tip %}}
+タクシーが特徴的でバン(van)型の車をよく見かける。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050535).jpg#/media/File:Wikimania_2018,_Cape_Town_(P1050535).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wikimania_2018%2C_Cape_Town_%28P1050535%29.jpg" alt="Wikimania 2018, Cape Town (P1050535).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:MB-one" title="User:MB-one">Matti Blume</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70971749">Link</a></p>
+</div>
+
 
 {{% /tab %}}
 {{% tab "ボラード" %}}

@@ -66,7 +66,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-そして道路に赤い反射板がある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" %}}。
+そして南米で道路に赤い反射板がある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" %}}のはチリ。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><img src="./road.jpg" width="90%" /></p>
