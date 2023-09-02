@@ -157,12 +157,17 @@ sc: [
     <ul class="rule-list">
         <li>さまざまな種類の植生が存在する
             <ul>
-                <li>バハ・カリフォルニア、バハ・カリフォルニア・スルと北東部には低木が分布する</li>
+                <li>カリフォルニア湾の一番奥は平坦で木もほとんど生えてない地域</li>
+                <li>東側の海沿いの平坦な地域では農業が行われている</li>
                 <li>{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a></li>
             </ul>
         </li>
-        <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
-        <li>Chiapasと186号線沿いにアブラヤシのプランテーションがある</li>
+        <li>農業の分布に地域性がある
+            <ul>
+                <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
+                <li>Chiapasと186号線沿いにアブラヤシのプランテーションがある</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -181,6 +186,42 @@ sc: [
 後日追記する予定です{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}。
 {{% /notice %}}
 
+
+{{% /tab %}}
+{{% tab "カリフォルニア湾の一番奥" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/others.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+木もサボテンも生えてなさそう。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693626484622!6m8!1m7!1sVqhLtXFAYj1jbAx6bDnhjA!2m2!1d31.43251402318006!2d-115.0494189216987!3f339.79149413735803!4f12.036253423230406!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693626537768!6m8!1m7!1scSpRv3Ee1iMvHoX4xWrGYQ!2m2!1d31.70903597829781!2d-113.988204754503!3f44.6851294319801!4f9.662115747257076!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "東側の農業" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/agriculture.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+平坦で農業の様子が見えて、遠くにごつごつした山が見えることもある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693625456231!6m8!1m7!1sL5030LLa9Cb9v5E5wmVvVQ!2m2!1d25.67353871014984!2d-108.5132607199848!3f22.793154759996895!4f1.6604236576202709!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693625533960!6m8!1m7!1smsTcVRrQw-dbic9Hb9LeSw!2m2!1d25.02883549800032!2d-107.8239421155597!3f73.08712019573166!4f-5.359408887550231!5f0.975039551555405" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+後日追記する予定です{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}。
+{{% /notice %}}
 
 {{% /tab %}}
 {{% tab "コプラ" %}}
