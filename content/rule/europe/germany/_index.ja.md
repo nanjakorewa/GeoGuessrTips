@@ -241,6 +241,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ジルト島は平坦で木がほとんどない場所がある</li>
+        <li class="no-evidence">ハンブルグはレンガ造りの倉庫や家が多く見られる</li>
         <li>都市ごとに通りを示す看板の形が異なる {{% by "neckoluv" "twitch" %}}
             <ul>
                 <li><span class="quiz">ベルリン</span>：白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い</li>
@@ -265,6 +266,15 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <img src="./sylt_dunes_nature_landscape.jpg" width="90%" />
 </div>
 
+{{% /tab %}}
+{{% tab "ハンブルグ" %}}
+{{% notice tip %}}
+川沿いにレンガの建物が並んで見える{{% ex "https://goo.gl/maps/Q8HuMRd2AhMpQeHC9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF" "ハンブルグ" %}}。見れる場所はそこまで多くない。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./speicherstadt_hamburg_brick_1095857.jpg" width="80%" />
+</div>
 {{% /tab %}}
 {{% tab "ベルリン" %}}
 {{% notice tip %}}

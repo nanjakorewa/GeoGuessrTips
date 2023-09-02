@@ -93,6 +93,7 @@ sc: [
                 <li>037：{{% goto "https://goo.gl/maps/AQjBPcq9p8Dp1UHK8" "タマレ" map %}}</li>
             </ul>
         </li>
+        <li>南へ行くほどヤシの木があり木の密度も高い。北はサバンナ気候の場所が多い。</li>
     </ul>
 </div>
 
@@ -111,6 +112,15 @@ sc: [
 </div>
 {{% notice tip %}}
 覚えるに越したことはないけれど街中以外では見つからない可能性が高い上に携帯が多いので、都市名と地域ごとの植生や雰囲気を覚えることを優先した方がいいように思う。たまたまFAXの番号を見かけたら参考にしてみる。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "植生" %}}
+<div class="googlemap-if unclickable">
+<img src="./2023-09-02-20-28-52.png" alt="ガーナの植生" width="500px" />
+</div>
+
+{{% notice tip %}}
+自分の場合は地面が露出している場所が多かったり低木が多いならば上半分のサバンナ気候の場所に行ってみることが多い{{% ref "https://d1wqtxts1xzle7.cloudfront.net/57120260/Land_Use_and_Misuse_Human_Appropriation_20180802-5137-92o7ak-libre.pdf?1533217497=&response-content-disposition=inline%3B+filename%3DLand_Use_and_Misuse_Human_Appropriation.pdf&Expires=1693657799&Signature=EPz7LUYs-Gph~ht6xfQIYrg2~RCzjdm2R3cTQxBmzPU61diG~82GbDe3X~s21V~N9hSVDFCxND4FEIF~R58Mx6HaxFCpIvziLzQ6S5Fk9FH4WE4KINyoxz82kD6McTR0ksBqZ5ftFv~Sog~2svocE6Q1LCFXEPby6Rh2Lz0Fh6hHjMvTUWsycsxTzVmHb-P1Xr94mVN9maqkpMMCIa5rMwwAm2hVeJUCM4aPKq6Z1xR79HFC574wFF~daGENtBk-iQQeU6D5VJGGjgNmvYv6bQ1DqCiwNx~sZfjViro7MgPlGvK4AWHEY7p-pW~SUEslBtqfrbDTjRAxJNPkEqhBcg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" "Appiah, Divine Odame, Balikisu Osman, and James Boafo. 『Land use and misuse; Human appropriation of land ecosystems services in Ghana.』 International Journal of Ecosystem 4.1 (2014): 24-33." %}}。画像は参考文献より引用。
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
