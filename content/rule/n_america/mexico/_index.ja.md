@@ -119,8 +119,15 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>市外局番の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ</li>
-        <li class="no-evidence">アメリカに近いエリアの市外局番は 000-000-0000 の表記かも{{% by "now_and_jenn"  "twitch" %}}</li>
+        <li>市外局番の先頭の数字でおよその地域が特定できる(2~9)、偶数は上・奇数は下のイメージ
+            <ul>
+                <li><span class="quiz">55</span>：メキシコシティ{{% ex "https://goo.gl/maps/p49bh8pfzd8YDKXb6" %}}</li>
+                <li><span class="quiz">614</span>：チワワ（Chihuahua）{{% ex "https://goo.gl/maps/pAAQSW5yEdkTvBNa7" %}}</li>
+                <li><span class="quiz">656</span>：シウダー・フアレス（Ciudad Juárez）{{% ex "https://goo.gl/maps/7Z2irAk2QCcD8cha8" %}}</li>
+                <li><span class="quiz">663・664</span>：ティフアナ（Tijuana）{{% ex "https://goo.gl/maps/x8jo1zW64VvTDQmi9" %}}</li>
+                <li><span class="quiz">686</span>：メヒカリ（Mexicali）{{% ex "https://goo.gl/maps/yyFsgPQSjtJbpEiaA" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -150,8 +157,8 @@ sc: [
     <ul class="rule-list">
         <li>さまざまな種類の植生が存在する
             <ul>
-                <li>バハ・カリフォルニア、バハ・カリフォルニア・スルと北東部には低木が分布する<li>
-                <li>{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a><li>
+                <li>バハ・カリフォルニア、バハ・カリフォルニア・スルと北東部には低木が分布する</li>
+                <li>{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a></li>
             </ul>
         </li>
         <li>Guerreroの海沿いにはココヤシのプランテーションが存在する</li>
