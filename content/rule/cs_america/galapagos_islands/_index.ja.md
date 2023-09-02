@@ -21,7 +21,7 @@ is_has_many_trekker: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680249153855!6m8!1m7!1sdm_DVRdf9CF5Ss9GE30yNg!2m2!1d-0.4984015770416068!2d-90.24613166043521!3f220.89158686621346!4f-17.528547230976784!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

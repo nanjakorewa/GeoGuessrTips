@@ -12,7 +12,7 @@ bg: "bg/hotel.jpg"
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アメリカ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677591109448!6m8!1m7!1sP_eQf7U2CqTXoi8RsXdfCA!2m2!1d32.70832504638567!2d-117.1582919898597!3f310.1517542464105!4f22.24476097473118!5f2.8592788054898683" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

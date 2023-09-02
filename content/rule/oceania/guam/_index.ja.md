@@ -31,7 +31,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

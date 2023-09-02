@@ -40,7 +40,7 @@ sc: [
     {{% rd europe albania verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 アルバニアでは貯水タンクが屋根の上にあることが多い。多くの家庭ではタンクを屋根に置いており、ポンプで揚水している{{% ref "https://openjicareport.jica.go.jp/pdf/11808011_02.pdf" "アルバニア共和国ティラナ首都圏下水システム改善計画調査事前調査報告書 調査対象地域の概要" %}}。

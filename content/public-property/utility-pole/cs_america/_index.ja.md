@@ -23,7 +23,7 @@ add_rule_link: true
 
 ## ブラジル
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "丸・白塗り" %}}
 {{% notice tip %}}
 四角と丸の電柱。下が白色に塗られているものがある。四角い電柱の区切り位置は広め。
@@ -47,7 +47,7 @@ add_rule_link: true
 
 ## チリ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "穴なし" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677483979799!6m8!1m7!1sYUBG6rrI4RHGvmOA4rXvDQ!2m2!1d-35.42623026619013!2d-71.64999735730025!3f157.8406897880646!4f25.664641871810176!5f0.7409358664403095" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -63,7 +63,7 @@ add_rule_link: true
 
 ## ペルー
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "片方突き出し" %}}
 {{% notice tip %}}
 電柱は道路側に３～４本棒が付きだしているものがある。

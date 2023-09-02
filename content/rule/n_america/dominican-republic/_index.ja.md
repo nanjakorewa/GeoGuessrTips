@@ -28,7 +28,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Googleカーに黒色の４本のゴムが見える。

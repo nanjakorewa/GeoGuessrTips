@@ -21,7 +21,7 @@ flag: "JP.svg"
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ススキ" %}}
 {{% notice tip %}}
 道端にススキが生えているイメージがある。

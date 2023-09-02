@@ -32,7 +32,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートが<span class="quiz">前に付いていない</span>車しかない。四角の電柱があり、下の方に色が付いていることもある{{% ex "https://goo.gl/maps/wyhythJmQaioo75m7" %}}。

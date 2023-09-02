@@ -20,7 +20,7 @@ add_rule_link: true
 
 ## フランス
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "青いラベル" %}}
 {{% notice tip %}}
 <span class="quiz">青いプレート</span>が貼ってあるかも{{% by "https://youtu.be/LxWFy5o3dDg?t=138" "youtube" "Geoguessr Tips: Guide to European Utility Poles" %}}
@@ -39,7 +39,7 @@ add_rule_link: true
 
 ## ルーマニア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "細い・穴あり" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678475273406!6m8!1m7!1sx5ADIit-2OU4icoyzIqqNw!2m2!1d46.45385037654135!2d25.43755994847187!3f41.03613815676085!4f19.15392646260429!5f0.4000000000000002" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -59,7 +59,7 @@ add_rule_link: true
 
 ## ギリシャ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "木製" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677589897735!6m8!1m7!1sMyG2JWVbYU4w20asGa7GuQ!2m2!1d39.65912852629715!2d22.43883724251534!3f284.52148459763606!4f17.54341656304895!5f0.7820865974627469" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -74,7 +74,7 @@ add_rule_link: true
 
 ## ポーランド
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "細い・穴あり" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677632468489!6m8!1m7!1s6RnCqupe8edo1B1P03PrGg!2m2!1d50.12823649781259!2d19.87088067971602!3f314.25574682338157!4f11.296998313606707!5f1.884971071341531" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -85,7 +85,7 @@ add_rule_link: true
 
 ## イスラエル
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "鉄製" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677904170620!6m8!1m7!1smr7W5e5Wo_wxxpZ1BvmvZA!2m2!1d32.0618049425665!2d34.76706395376619!3f294.76259607397606!4f8.37552819163544!5f0.5802039356351761" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

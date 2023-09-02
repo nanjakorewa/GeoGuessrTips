@@ -30,7 +30,7 @@ sc: [
     {{% rd middle_east qatar small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 

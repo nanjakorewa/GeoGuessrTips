@@ -22,7 +22,7 @@ dont_show_usda: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

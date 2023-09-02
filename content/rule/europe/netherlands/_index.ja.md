@@ -37,7 +37,7 @@ sc: [
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>であり前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。

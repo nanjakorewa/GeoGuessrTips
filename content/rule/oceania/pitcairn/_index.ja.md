@@ -22,7 +22,7 @@ is_has_many_trekker: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}赤茶色の土が多い。あとトレッカーを持っている人の頭が下に映っている。

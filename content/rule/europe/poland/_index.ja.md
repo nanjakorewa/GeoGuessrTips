@@ -37,7 +37,7 @@ sc: [
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -153,7 +153,7 @@ POCZTA（ポスト、赤い）
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "市外局番" %}}
 {{% notice tip %}}
 22xがWarszawa付近。8を無視して数が大きいほど北西と覚えている。全体的に平坦な国で景色を見てもどのあたりか分からない気がするので、道路番号・地名・市外局番がわからなかったら、個人的にはとりあえず真ん中に行くことが多い。携帯に使われる番号も存在しているので先頭の数字だけで地域を決めないように注意{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}。
@@ -172,7 +172,7 @@ POCZTA（ポスト、赤い）
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "看板" %}}
 
 {{% notice tip %}}

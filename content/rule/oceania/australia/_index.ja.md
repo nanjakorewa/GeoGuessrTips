@@ -40,7 +40,7 @@ sc: [
     {{% rd oceania australia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">ユーカリ</span>の木が沢山ある。電柱は緑色の木製のもの{{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}}やシロアリ対策で鉄でできたものがある{{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}。
@@ -115,7 +115,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "森の分布" %}}
 
 {{% notice tip %}}
@@ -183,7 +183,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "QLD（クィーンズランド州）" %}}
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここで現地から <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> の電柱Tips！<br><br>黒く塗られた番号・青くて丸いマーカー・ちょっと上に傾いた横向きの碍子はすべてクイーンズランド州特有なので覚えよう！ <a href="https://t.co/Jbzg4WThyN">pic.twitter.com/Jbzg4WThyN</a></p>&mdash; Daigo ʅ(･Θ･)ʃ (@Daig_O) <a href="https://twitter.com/Daig_O/status/1654019022021881856?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -242,7 +242,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/glf854/area_codes_of_australia/">Area Codes of Australia</a><br> by      <a href="https://www.reddit.com/user/cmzraxsn">u/cmzraxsn</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>

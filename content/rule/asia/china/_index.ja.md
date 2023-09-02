@@ -28,7 +28,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 施設の内部や観光スポットが出題される

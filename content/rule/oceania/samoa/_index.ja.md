@@ -23,7 +23,7 @@ is_has_distinctive_googlecar: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}Fatu Rockが描かれており全体的に<span class="quiz">青と緑</span>色に見える{{% ref "https://en.wikipedia.org/wiki/Fatu_Rock" "Fatu Rock" %}}
 {{% /notice %}}

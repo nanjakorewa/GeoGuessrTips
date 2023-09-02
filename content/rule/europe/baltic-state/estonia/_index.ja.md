@@ -36,7 +36,7 @@ sc: [
     {{% rd "europe/baltic-state" estonia small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 数字が書かれた標識が道路に対して<span class="quiz">垂直</span>で数字が見やすい。ボラードを真上から見ると<span class="quiz">丸い</span>がラトビア・リトアニアは丸くない。

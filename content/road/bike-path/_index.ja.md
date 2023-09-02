@@ -10,7 +10,7 @@ sections: [""]
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アメリカ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677589582064!6m8!1m7!1sijk1jvwLOUkzWdTJn1a71A!2m2!1d40.69127331094853!2d-73.99386185377548!3f4.569770713353476!4f-16.574058705682106!5f3.1081109475692212" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -26,7 +26,7 @@ sections: [""]
 ## 中南米
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ブラジル" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677485018398!6m8!1m7!1seNdchqfBTu9XylTiu8s1-Q!2m2!1d-8.058358348378162!2d-34.88558229197243!3f137.55931852722267!4f-17.89557080985969!5f2.554144743564594" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -36,7 +36,7 @@ sections: [""]
 
 ## アジア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "イスラエル" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677459188175!6m8!1m7!1sZ1fNzrh6riN7I_Md20QscQ!2m2!1d32.07215088451053!2d34.76437076049962!3f13.850801110094862!4f-36.24573511285321!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -46,7 +46,7 @@ sections: [""]
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ポーランド" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677635528067!6m8!1m7!1s1qi9lr6PRvzTufHMCXGRjw!2m2!1d52.40733009536382!2d16.91956253940445!3f38.17397447123452!4f-27.851856894273567!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

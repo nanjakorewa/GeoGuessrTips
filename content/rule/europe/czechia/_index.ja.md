@@ -37,7 +37,7 @@ sc: [
     {{% rd europe czechia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

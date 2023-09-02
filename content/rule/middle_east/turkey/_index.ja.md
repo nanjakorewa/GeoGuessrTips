@@ -32,7 +32,7 @@ sc: [
     </div>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。また、標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
@@ -100,7 +100,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "道路番号" %}}
 {{% notice tip %}}
 キロメートルマーカーから道路番号が読み取れる{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。

@@ -9,7 +9,7 @@ keywords: ["ウォータータワー"]
 ## 中南米
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ブラジル" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677664406594!6m8!1m7!1s8-Dbck1PqYBagkl_bYXxjA!2m2!1d-22.90203766441071!2d-47.08138396056928!3f172.4428937662592!4f21.828248495953616!5f1.4385607468062207" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -21,7 +21,7 @@ keywords: ["ウォータータワー"]
 
 ## アフリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ケニア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677664797708!6m8!1m7!1shLZP2NGvsi8BFxN1XRJMcg!2m2!1d-1.152262415404232!2d36.80692513594656!3f191.09597662918665!4f8.922021816354047!5f2.897966238401244" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

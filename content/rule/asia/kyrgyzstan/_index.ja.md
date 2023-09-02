@@ -30,7 +30,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">白くて四角い棒</span>に黒の模様が入ったボラードがある。ナンバープレートに<span class="quiz">赤</span>色のラインが入っている。

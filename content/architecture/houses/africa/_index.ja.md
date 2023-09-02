@@ -13,7 +13,7 @@ add_rule_link: true
 
 ## チュニジア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白と青" %}}
 {{% notice tip %}}
 明るい水色が家・縁石・矢印（シェブロン）などに使われている。
@@ -26,7 +26,7 @@ add_rule_link: true
 
 ## セネガル
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "わらの屋根" %}}
 {{% notice tip %}}
 {{% /notice %}}
@@ -38,7 +38,7 @@ add_rule_link: true
 
 ## ウガンダ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "レンガの壁" %}}
 {{% notice tip %}}
 レンガの壁で入口にカーテンのようなものが掛かっていることが多い気がする
@@ -51,7 +51,7 @@ add_rule_link: true
 
 ## 南アフリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "普通の家" %}}
 {{% notice tip %}}
 防犯対策として<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>が付いていることが多い。また、柵をよく見るとエレクトリックワイヤーが張られていることも多い。

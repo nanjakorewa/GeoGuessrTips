@@ -35,7 +35,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -171,7 +171,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "道路番号" %}}
 <div class="googlemap-if">
 <img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>

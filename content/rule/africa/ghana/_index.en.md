@@ -23,7 +23,7 @@ is_has_distinctive_googlecar: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">Black duct tape wrapped around the front right</span>.

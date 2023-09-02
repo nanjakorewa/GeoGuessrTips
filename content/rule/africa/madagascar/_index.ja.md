@@ -23,7 +23,7 @@ plonkit: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "トレッカー" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682020963172!6m8!1m7!1sm7AX8lqdxkUmpkFY-AhIMQ!2m2!1d-18.92382582069827!2d47.53177034625296!3f66.53231343173096!4f22.835800446454456!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

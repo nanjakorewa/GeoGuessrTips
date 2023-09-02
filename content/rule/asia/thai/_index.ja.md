@@ -32,7 +32,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}ボラード{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車の後ろナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
 {{% /notice %}}
@@ -127,7 +127,7 @@ Public Domain
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-15-43.png" width="60%" />

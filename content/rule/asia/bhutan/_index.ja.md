@@ -34,7 +34,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}ルンタと呼ばれる経文が書かれたカラフルな祈祷旗{{% ex "https://goo.gl/maps/rCK7Yjq2GoNUYLZd6" %}}やダルシン（死者を弔うための白い長い旗）{{% ex "https://goo.gl/maps/WZLSW3eeaL3P4YiJ6" "https://goo.gl/maps/6sDELBRoLvbCV3iN6" %}}が見られる{{% ref "https://dragontours.jp/about_religion.html" "ブータンの宗教について - ブータン旅行専門・ドラゴンツアーズ" %}}。
@@ -94,7 +94,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Cfynn" class="mw-redirect" title="
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ゲレフー" %}}
 
 {{% notice tip %}}平地であっても家の前にルンタの旗はある。車も灰色。

@@ -38,7 +38,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -106,7 +106,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:A._L._(loading)&amp;a
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "優占樹種" %}}
 <div class="googlemap-if unclickable-area" >
 <img src="2023-04-23-19-40-50.png"/>

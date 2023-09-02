@@ -34,7 +34,7 @@ sc: [
     {{% rd europe serbia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <b>反射板が偏った薄い</b>ボラード。またセルビアはガードレールが角ばっている{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。ボスニア・ヘルツェゴビナに隣接している国は角張っていると頭に入れておく。ただし岩肌が見えていたりGoogle Carのアンテナが見えているならば{{% goto "../montenegro/" "モンテネグロ" %}}を考えてみる。モンテネグロにもセルビアに似たボラードがたまに見つかる{{% ex "https://goo.gl/maps/wPyH8fRT6s2EdRMG9" %}}。

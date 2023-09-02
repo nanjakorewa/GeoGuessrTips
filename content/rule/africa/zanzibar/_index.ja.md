@@ -27,7 +27,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">赤色</span>のナンバープレートの日本車が多いならザンジバル周辺？

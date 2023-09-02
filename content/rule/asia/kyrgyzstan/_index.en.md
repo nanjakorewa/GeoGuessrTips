@@ -23,7 +23,7 @@ is_has_distinctive_googlecar: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Red line on the license plate.

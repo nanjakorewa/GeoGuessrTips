@@ -39,7 +39,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -154,7 +154,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "植生" %}}
 
 <div class="googlemap-if">
@@ -292,7 +292,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "市外局番" %}}
 
 {{% notice tip %}}

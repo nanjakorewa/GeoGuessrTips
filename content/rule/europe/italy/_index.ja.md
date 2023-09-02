@@ -37,7 +37,7 @@ sc: [
     {{% rd europe italy small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 
@@ -146,7 +146,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Mappa Prefissi telefonici italiani A.png" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5"><a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a></a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
@@ -182,7 +182,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Pantelleria" %}}
 {{% notice tip %}}
 パンテッレリーア島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い。ストリートビューの例<a href="https://goo.gl/maps/DBMbksyBRYUx1tLKA">①</a>・<a href="https://goo.gl/maps/95SL83VW7JgrG1Pz7">②</a>。

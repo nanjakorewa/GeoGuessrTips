@@ -132,7 +132,7 @@ sc: [
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ナンバープレートを前後に付けるエリア" %}}
 
 {{% notice tip %}}
@@ -322,7 +322,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "小麦" %}}
 
 <div class="googlemap-if">

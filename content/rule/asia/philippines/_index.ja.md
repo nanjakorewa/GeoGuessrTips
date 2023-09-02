@@ -35,7 +35,7 @@ sc: [
     {{% rd asia philippines verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 

@@ -33,7 +33,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 石灰岩を使った薄い黄土色の壁が島中に存在する。見た目が似ている石壁は{{% goto "../italy/" "イタリア南部" %}}や{{% goto "../balearic-islands/" "バレアレス諸島" %}}にも見られるので<span class="quiz">左側</span>通行であることも確認する。
@@ -65,7 +65,7 @@ sc: [
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "通り名の紋章" %}}
 {{% notice tip %}}
 Rabatの町の紋章

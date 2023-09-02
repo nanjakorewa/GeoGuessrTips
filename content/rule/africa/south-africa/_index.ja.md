@@ -34,7 +34,7 @@ sc: [
     {{% rd africa south-africa verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 防犯対策として窓の内側に<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>があったり、柵に有刺鉄線が付いていることが多い。また、柵にエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「BLUE」と書かれたセキュリティ会社のシールが貼ってあることが多い{{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}。

@@ -31,7 +31,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 {{% goto "../../europe/portugal/" "ポルトガル" %}}領の離島でナンバープレート・標識・電柱{{% ex "https://goo.gl/maps/5PquD26xeVwrvJi18" "https://goo.gl/maps/SAPSg5oGDkzLx2jS8" %}}はポルトガルと共通している

@@ -15,7 +15,7 @@ add_rule_link: true
 
 ## イギリス
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "見た目" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-24-13-33-38.png" width="90%">
@@ -76,7 +76,7 @@ add_rule_link: true
 
 ## ブルガリア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "見た目" %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/fran001/16464711225/in/photolist-r5VX2t-5ie8Ua-chJf4j-aiyG3Y-k9RxE-bX9nv2-f4NaAZ-D2e7VF-vmZ3MD-5d2eY5-jiLQu-HQBqhr-i6koD-fjhovY-4qijGJ-chJdwL-fjhoPq-fjhx5E-fj33jZ-sDrgnZ-aRVV8P-c8SFMh-fjhwhY-aEANpj-6b9hSh-fj7y7H-agokd1-5EjLvn-egPPt3-6b59mZ-aEwZcK-hGZJNB-4q9K4o-48jY2k-EcygQ-4uVsjQ-4q9HKS-5iibRJ-6b59Mx-eS93Md-Ecyrt-aEAQvm-286zmN7-6b9idm-4SGa1M-4q5xVr-24uqw1s-Ecyzt-4q9AYG-fj3kZn" title="Bulgarian houses"><img src="https://live.staticflickr.com/7446/16464711225_c2109fe186_z.jpg" width="640" height="426" alt="Bulgarian houses"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -91,7 +91,7 @@ add_rule_link: true
 
 ## アンドラ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "石壁の模様" %}}
 {{% notice tip %}}
 周りが山がちで石壁の模様の壁のアパート・マンションが多い。

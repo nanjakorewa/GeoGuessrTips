@@ -25,7 +25,7 @@ plonkit: true
     {{% rd asia indonesia small "By AdriansyahYS - Own work, CC BY-SA 4.0" "https://commons.wikimedia.org/w/index.php?curid=35833958" %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">Triangular flags, colored in red and white,</span> line the front of houses and streets.

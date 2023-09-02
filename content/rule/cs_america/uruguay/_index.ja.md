@@ -32,7 +32,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。またウルグアイの車のナンバープレートは<span class="quiz">白</span>色に近いが、{{% goto "../argentina/" "アルゼンチン" %}}は真ん中が黒く見える。

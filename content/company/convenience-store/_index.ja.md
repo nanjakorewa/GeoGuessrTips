@@ -11,7 +11,7 @@ sections: [""]
 ## 世界中
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "サークルK" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677409219722!6m8!1m7!1sr7-wxrVOVmt5vfLo1iKiNw!2m2!1d-5.135465991726019!2d119.4357166061142!3f40.107533050785676!4f11.150599992415607!5f1.801980083803985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -44,7 +44,7 @@ SPARの本社はアムステルダムにあり、ヨーロッパのほとんど�
 
 ## 中南米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "メキシコ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677756726179!6m8!1m7!1skXbCEDt9NCX0Nt6yvOJ1Ww!2m2!1d19.41873879054791!2d-99.11531202584435!3f278.39277107560457!4f-5.178369001610619!5f1.6735612318444537" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -59,7 +59,7 @@ Oxxoはメキシコのコンビニエンス ストアチェーンであり、ラ
 
 ## オセアニア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "インドネシア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677588643610!6m8!1m7!1s0q7YUjYfteEnVF0wxhj69Q!2m2!1d-6.928306181131333!2d107.619460963116!3f107.8426660490983!4f3.6009910400601797!5f3.308422358954514" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

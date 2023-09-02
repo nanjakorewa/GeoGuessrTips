@@ -38,7 +38,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" %}}の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。

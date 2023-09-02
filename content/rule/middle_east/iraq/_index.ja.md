@@ -22,7 +22,7 @@ is_has_many_trekker: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 <div class="googlemap-if">

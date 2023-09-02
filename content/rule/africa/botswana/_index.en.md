@@ -32,7 +32,7 @@ sc: [
     {{% rd africa botswana small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 There are white, blue, and yellow number plates. Ordinary vehicles have numbers in <span class="quiz">yellow</span>, while some public service vehicles and taxis have rear plates in <span class="quiz">blue</span>. Additionally, some guardrails and sign poles have <span class="quiz">yellow</span> and <span class="quiz">black</span> stripes.

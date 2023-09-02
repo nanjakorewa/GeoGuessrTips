@@ -31,7 +31,7 @@ sc: [
     {{% rd europe portugal small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 後ろのナンバープレートは<span class="quiz">右側が黄色</span>

@@ -11,7 +11,7 @@ bg: "bg/pipeline.jpg"
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "カナダ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678281259970!6m8!1m7!1svTjbqOlqnB8Uzrp_DJLtEg!2m2!1d42.90064294764043!2d-82.41383973283051!3f279.34233687733166!4f-3.0928858055765573!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -25,7 +25,7 @@ bg: "bg/pipeline.jpg"
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ノルウェー" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679347648271!6m8!1m7!1sn_JMxQ5lYh3d0tib8DKcuA!2m2!1d60.2975806336154!2d5.286702903069514!3f203.23945497724813!4f1.2874910162939415!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

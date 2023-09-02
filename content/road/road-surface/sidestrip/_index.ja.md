@@ -9,7 +9,7 @@ sections: [""]
 ---
 
 ## アジア
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "台湾" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677483443217!6m8!1m7!1s1EaWFgxYC_ADwnzbti9Yjg!2m2!1d22.98782331239459!2d120.2065365812571!3f313.7436509411491!4f-22.50799509221025!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -26,7 +26,7 @@ sections: [""]
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アイルランド" %}}
 {{% notice tip %}}
 イギリスかどうか分からないとき黄色の点線があるならアイルランド
@@ -49,7 +49,7 @@ sections: [""]
 路側帯が長いとノルウェー・短いとスウェーデン。真ん中に黄色の線があり白の破線が隣り合っているならばフィンランド。{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}
 {{% /notice %}}
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ノルウェー" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685412927485!6m8!1m7!1sAh4avToikEBVOgwSRlW2Zw!2m2!1d63.33135131282907!2d8.569432367746968!3f171.26082139759268!4f-25.986673055357514!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

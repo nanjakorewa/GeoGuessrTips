@@ -22,7 +22,7 @@ add_rule_link: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "QLD（クィーンズランド州）" %}}
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここで現地から <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> の電柱Tips！<br><br>黒く塗られた番号・青くて丸いマーカー・ちょっと上に傾いた横向きの碍子はすべてクイーンズランド州特有なので覚えよう！ <a href="https://t.co/Jbzg4WThyN">pic.twitter.com/Jbzg4WThyN</a></p>&mdash; Daigo ʅ(･Θ･)ʃ (@Daig_O) <a href="https://twitter.com/Daig_O/status/1654019022021881856?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -49,7 +49,7 @@ add_rule_link: true
 
 ## ニュージーランド
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "何か巻かれている" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679741424948!6m8!1m7!1sG-3bdoxPpFZwe7SgdgyWaA!2m2!1d-37.10627379170301!2d174.6385742334121!3f222.89038208022873!4f10.128979394943798!5f1.667641253469637" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

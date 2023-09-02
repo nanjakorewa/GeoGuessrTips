@@ -32,7 +32,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}。左側が少し赤みがかって見える。

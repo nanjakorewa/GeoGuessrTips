@@ -34,7 +34,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "看板のロゴ" %}}
 {{% notice tip %}}
 オランダ語が使われていたら<span class="quiz">北</span>へ、雄鶏が描かれたロゴがあったりフランス語が使われていたら<span class="quiz">南</span>へ行ってみる。ドイツ語なら<span class="quiz">東</span>の端へ。

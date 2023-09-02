@@ -32,7 +32,7 @@ sc: [
     {{% rd middle_east united_arab_emirates verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

@@ -28,7 +28,7 @@ sc: [
     {{% rd asia pakistan verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ラホール周辺の施設の中が多い

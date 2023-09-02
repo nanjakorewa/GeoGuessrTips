@@ -28,7 +28,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートの左下に赤い領域がある{{% ex "https://goo.gl/maps/xovGCT2QUUKsECGr6" "https://goo.gl/maps/qNhRkm5svpa6eqX76" %}}。細いナンバープレートにも左に赤い領域がある。

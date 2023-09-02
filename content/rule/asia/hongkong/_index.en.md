@@ -24,7 +24,7 @@ dont_show_usda: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 The license plate is <span class="quiz">white</span> on the front and <span class="quiz">yellow</span> on the back. If the license plate has a black background, consider the possibility of Macau.

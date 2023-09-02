@@ -32,7 +32,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 
@@ -140,7 +140,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "サラダ" %}}
 {{% notice tip %}}
 分布はplonkitなどを参照{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
@@ -170,7 +170,7 @@ E-375道路がある緯度付近。
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "サンティアゴ" %}}
 {{% notice tip %}}
 サンティアゴ・デ・チレ付近にある木や草がまばらに生えた山が印象的

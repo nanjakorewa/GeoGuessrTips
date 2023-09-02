@@ -77,7 +77,7 @@ bg: "bg/tf.jpg"
 </div>
 
 ## 北米
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "メキシコ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678017840166!6m8!1m7!1sYZ-eHx3a2l3ksFcbAVnJWw!2m2!1d20.68348284742653!2d-103.2989173310077!3f97.60002042762677!4f-1.6758107561434628!5f3.325193203789971" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -92,7 +92,7 @@ bg: "bg/tf.jpg"
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ポーランド" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679666677538!6m8!1m7!1s7W1_UUYW-gFqi5Xlgzv9XQ!2m2!1d50.24679747818902!2d19.29261358659526!3f193.03043417249978!4f-2.189286291203942!5f3.325193203789971" width="295" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

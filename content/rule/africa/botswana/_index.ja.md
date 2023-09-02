@@ -33,7 +33,7 @@ sc: [
     {{% rd africa botswana small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 赤・白・青・黄のナンバープレートがある。普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が<span class="quiz">黄</span>色と<span class="quiz">黒</span>色のストライプになっている。

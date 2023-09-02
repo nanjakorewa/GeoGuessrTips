@@ -30,7 +30,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}キガリの大き目の道路は赤いヘルメットを付けたバイクが走っている{{% ex "https://goo.gl/maps/qmZFNBoLJeySYjYW6" "https://goo.gl/maps/E1xfd2c3wo91f2JS9" "" %}}。そして車が<span class="quiz">右</span>側通行である点がウガンダと異なる。車のナンバープレートは細目の<span class="quiz">黄</span>色か白色のナンバープレートが見つかる。
 {{% /notice %}}

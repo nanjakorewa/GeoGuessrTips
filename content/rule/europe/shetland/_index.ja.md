@@ -30,7 +30,7 @@ sc: [
     {{% rd europe shetland verysmall OGL %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 低木も含め野生の木がほぼ存在しない{{% ex "https://goo.gl/maps/rxQ3kGiEsjgKVVPE6" "https://goo.gl/maps/bCSF9qFXTTjDXiER9" %}}。本土側のスコットランドのようにPassing placeの看板が散見される。{{% goto "https://goo.gl/maps/KoisKnBkeSPZSgL77" "ここ" %}}のように岩肌がたくさん見える感じならば本土側に行っていいと思う。

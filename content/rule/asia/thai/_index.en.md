@@ -24,7 +24,7 @@ plonkit: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}<span class="quiz">Black-and-white</span> striped, angular-looking bollards are found {{% by %}}. Utility poles in Thailand are also angular.
 {{% /notice %}}
@@ -89,7 +89,7 @@ Thai is the official language.
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-15-43.png" width="60%" />

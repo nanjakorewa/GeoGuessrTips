@@ -29,7 +29,7 @@ sc: [
     {{% rd cs_america ecuador verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ボラードはいろいろな種類があり一貫性がない。反射板が付いている見慣れない形のものはエクアドルかも？
@@ -139,7 +139,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "マップのズーム" %}}
 {{% notice tip %}}
 看板などから県名が見つかったら県名で場所を絞り込めるかも。たまに県名が書かれた看板がある{{% ex "https://goo.gl/maps/o3TSqkqDJrPSfUxR9" %}}。

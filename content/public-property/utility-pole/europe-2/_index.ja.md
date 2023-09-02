@@ -15,7 +15,7 @@ add_rule_link: true
 
 ## セルビア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "鉄塔" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686308074970!6m8!1m7!1sP77Cl5MhZDIdPzBvLDCd4A!2m2!1d45.37508093988659!2d20.06254718369127!3f28.67917983132158!4f0.3532942720845398!5f2.5103856977597823" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -33,7 +33,7 @@ add_rule_link: true
 ## チェコ・スロバキア
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "まっすぐな鉄の棒" %}}
 {{% notice tip %}}
 チェコとスロバキアで共通の電柱が見つかる。コの字型っぽい棒に上下にコイルが刺さっている。

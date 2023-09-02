@@ -31,7 +31,7 @@ sc: [
     {{% rd europe hungary verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

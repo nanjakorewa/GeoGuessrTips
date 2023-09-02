@@ -34,7 +34,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -255,7 +255,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ジルト島" %}}
 
 {{% notice tip %}}

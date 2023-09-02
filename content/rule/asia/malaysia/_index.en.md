@@ -28,7 +28,7 @@ plonkit: true
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 The stop sign is <span class="quiz">Berhenti</span>.

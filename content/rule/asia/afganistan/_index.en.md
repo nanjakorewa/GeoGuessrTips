@@ -23,7 +23,7 @@ is_has_many_trekker: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Example of Street View" %}}
 
 <div class="googlemap-if">

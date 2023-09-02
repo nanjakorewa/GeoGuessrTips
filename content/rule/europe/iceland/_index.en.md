@@ -28,7 +28,7 @@ is_has_distinctive_bollard: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 The terrain was created by lava, and the soil is black and only needle grass grows wild. There are irregular rivers and wetlands. There are almost no rivers with straight banks.

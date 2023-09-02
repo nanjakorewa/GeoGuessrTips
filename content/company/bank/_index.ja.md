@@ -12,7 +12,7 @@ sections: [""]
 
 ### アメリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "テキサス" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677411344881!6m8!1m7!1s0SS-nFD1mubBljc6werpLQ!2m2!1d29.72493668513916!2d-95.35050677122688!3f324.93362040637606!4f4.1223034236492!5f3.1604446843679517" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -64,7 +64,7 @@ Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては�
 
 ## 中南米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ブラジル" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677841825059!6m8!1m7!1s9SWqAbDYHrvM-3ygrznPtQ!2m2!1d-22.90321372855353!2d-43.17992651479027!3f357.57041515952653!4f-1.1859112340064115!5f1.622063740324848" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -81,7 +81,7 @@ Toronto-Dominion Bankはカナダ五大銀行のひとつ。銀行としては�
 
 ## アジア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "マレーシア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677670732936!6m8!1m7!1s0doSKvDuXcJIBh-ltfwCAg!2m2!1d3.154627330150657!2d101.6986001394384!3f60.04880925695427!4f7.620974226183705!5f3.182188531620744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -104,7 +104,7 @@ Pan Asia Banking Corporationは、スリランカに設立された公開有限�
 
 ## オセアニア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "インドネシア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677408394049!6m8!1m7!1sMg-FekMHSHzdEil3nA0tQw!2m2!1d-5.142135664730312!2d119.4390019664933!3f90.90469111026516!4f4.3973993167758465!5f2.900550827576692" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -124,7 +124,7 @@ PT Bank Rakyat Indonesia Tbkは、インドネシア最大の銀行の1つ。4,0
 ## ヨーロッパ
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ポーランド" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677635341696!6m8!1m7!1sdiO72Wxvi6P3K0emccIc_g!2m2!1d52.40696729294944!2d16.92204048928423!3f358.3583691399621!4f1.4102887723564095!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -147,7 +147,7 @@ Halkbankはトルコの元国営銀行。
 
 ## アフリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "南アフリカ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677856417149!6m8!1m7!1sMSVZzouT0jZEKoIsdEWHiA!2m2!1d-33.92340434183568!2d18.42054011320676!3f103.23668036758171!4f10.961774961586428!5f2.9601482820445004" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

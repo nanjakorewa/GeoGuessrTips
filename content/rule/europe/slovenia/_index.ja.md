@@ -33,7 +33,7 @@ sc: [
     {{% rd europe slovenia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 {{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}。たまに{{% goto "../montenegro/" "モンテネグロ" %}}にも似た見た目のボラードが存在する{{% ex "https://goo.gl/maps/Chrh7DMo5qQ2EBz26" %}}ため注意。
@@ -124,7 +124,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Cerknicaの家" %}}
 <div class="googlemap-if unclickable">
 <img src="./cerknica_udovic_r_hisa.jpg" width="370px" >

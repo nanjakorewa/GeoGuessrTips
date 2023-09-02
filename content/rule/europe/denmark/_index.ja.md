@@ -35,7 +35,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 デンマークのOdenseにある会社のAlluxというブランドのポストが一般的、おしゃれで丸いふた{{% ex "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。

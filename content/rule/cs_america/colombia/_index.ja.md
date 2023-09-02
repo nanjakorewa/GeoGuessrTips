@@ -35,7 +35,7 @@ sc: [
     {{% rd cs_america colombia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 標識の背面には<span class="quiz">クロス（いわゆるコロンビアンクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。稀にクロスっぽいものが{{% goto "../ecuador/" "エクアドル" %}}にもある点のみ注意{{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}。
@@ -91,7 +91,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "メデジン" %}}
 {{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}

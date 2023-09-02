@@ -33,7 +33,7 @@ sc: [
     {{% rd asia bangladesh small %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "大豆" %}}
 
 {{% notice tip %}}
@@ -147,7 +147,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Dhaka Bank" %}}
 
 {{% notice tip %}}

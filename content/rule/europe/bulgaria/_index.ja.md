@@ -38,7 +38,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}横断歩道の標識の線の数は<span class="quiz">4</span>本
 {{% /notice %}}

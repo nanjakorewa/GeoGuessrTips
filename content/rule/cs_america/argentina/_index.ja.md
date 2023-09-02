@@ -32,7 +32,7 @@ sc: [
     {{% rd cs_america argentina %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>。
@@ -130,7 +130,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "北東と北西の角" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688026210276!6m8!1m7!1syVGw6km5sYPb2ZoI-NmLNA!2m2!1d-22.19959572732366!2d-63.65727912927424!3f266.3008796403948!4f0.3376384477199821!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -151,7 +151,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "タクシー" %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/riveranotario/45976752282/in/photolist-2d3NSDy-9Go4Co-Lzh53z-Ws7BLU-2aRzgdy-G8WQxG-22KUc9m-9nqcyL-7kwjgP-7kAjgs-7kwmbk-7HHJn9-epnFi-3rvdTF-cBgdo-RaLBfP-56L1Sn-PjVZfP-8JnaEC-2jcxrds-21zoscZ-65Nedh-65HWGT-2ddhaDC-7KB2vb-6EmDEC-VzKC2m-29mLvHJ-2mnUTPm-9Y7foB-2dQmz3v-SsWEZS-bkrkok-5cxceB-xbHF8-6CyvNX-4boV6X-zLJDz7-2nhTvxx-2jeCLvY-ZvtW9-9jZSB1-xiPQF-6oh7dm-22PwZma-2oiFzVn-2jfPw8G-7YoZcp-218dFeg-6QxPgH" title="Renault Fluence Taxi Buenos Aires"><img src="https://live.staticflickr.com/4828/45976752282_a4941a046b_z.jpg" width="640" height="427" alt="Renault Fluence Taxi Buenos Aires"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

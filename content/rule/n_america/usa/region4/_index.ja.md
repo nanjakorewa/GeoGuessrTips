@@ -28,7 +28,7 @@ jogmec_detail: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "①速度制限" %}}
 
 {{% notice tip %}}

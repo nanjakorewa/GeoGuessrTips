@@ -25,7 +25,7 @@ is_has_distinctive_bollard: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">Blue</span> post
@@ -68,7 +68,7 @@ There are many large companies based in the United States. Companies like Waste 
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "①license plate" %}}
 {{% notice tip %}}
 First, remember the areas that do not require a license plate on the front of the car (yellow areas), then remember the color of the license plate（Image source：By Raccoonny - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a>）.
@@ -134,7 +134,7 @@ Apparently the following rules do not apply to 100% of all.
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Cone" %}}
 
 <div class="googlemap-if">

@@ -10,7 +10,7 @@ sections: [""]
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アメリカ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680004554870!6m8!1m7!1skzsyV7yS0N-8pc0Lq2DHQQ!2m2!1d47.25779110056142!2d-117.3615673228675!3f26.680279106853263!4f-5.060031078899939!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -22,7 +22,7 @@ sections: [""]
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "イギリス" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679667402158!6m8!1m7!1sNGc5Pw0jiu_2j2MA2Wf24Q!2m2!1d57.58620756335244!2d-3.573582216155249!3f231.95354034586214!4f-33.02654280722726!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -43,7 +43,7 @@ sections: [""]
 
 ## アフリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "南アフリカ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679676937535!6m8!1m7!1sCdeRo_xLzwdO9T6EYChFSw!2m2!1d-28.83509669190495!2d22.06935773244135!3f330.0848882110524!4f-14.409262172016795!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

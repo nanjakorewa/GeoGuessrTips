@@ -28,7 +28,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "プロビデンシア" %}}
 {{% notice tip %}}車は<span class="quiz">黒</span>色。
 {{% /notice %}}

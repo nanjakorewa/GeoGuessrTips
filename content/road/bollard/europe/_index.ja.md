@@ -19,7 +19,7 @@ add_rule_link: true
 
 ## バルト三国
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "エストニア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684548865123!6m8!1m7!1ss2eRa4sqGznaQedLsvXiMQ!2m2!1d59.37685549321069!2d27.89913102016457!3f105.52049170390629!4f-7.112191365266568!5f3.325193203789971" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -42,7 +42,7 @@ add_rule_link: true
 
 ## アイスランド
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "黄色" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681046956101!6m8!1m7!1sXI7bCDrVgXTsV76DWrdw1g!2m2!1d64.47615465744332!2d-14.49622641512799!3f303.33023648981043!4f-14.483354070616116!5f3.325193203789971" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -52,7 +52,7 @@ add_rule_link: true
 
 ## アイルランド
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "緑" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680369087645!6m8!1m7!1sQiCyaQB_HjAOCmRmHNhWrw!2m2!1d53.94275825022988!2d-9.105032066273541!3f352.1700259421891!4f-24.077572614485618!5f2.9505292836958805" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -62,7 +62,7 @@ add_rule_link: true
 
 ## イギリス
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白赤" %}}
 {{% notice tip %}}
 北部のスコットランドには白と赤のフランスのものに似た形のボラードがある。

@@ -29,7 +29,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 道の片側・両側に低い石壁があることが多く{{% ex "https://goo.gl/maps/e1RimpMxwcjmQqur7" "https://goo.gl/maps/n6WVz6Wz1z6uwVuE9" "https://goo.gl/maps/SByeiBeevimNzo5y8" "https://goo.gl/maps/NzjnMLeQjAV4RJwc9" %}}、赤い土が多い。

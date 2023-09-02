@@ -23,7 +23,7 @@ is_has_distinctive_googlecar: true
     {{% rd asia laos verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 License plates are also <span class="quiz">yellow</span> for ordinary cars, and they drive on the right side of the road. There are also a certain number of cars with white license plates. Laos traffic is on the <span class="quiz">right</span> side and Thailand is on the <span class="quiz">left</span>.

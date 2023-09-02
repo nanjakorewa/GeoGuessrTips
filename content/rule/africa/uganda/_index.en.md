@@ -25,7 +25,7 @@ is_has_distinctive_googlecar: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Houses are made of wood and brick

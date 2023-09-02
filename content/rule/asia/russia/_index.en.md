@@ -25,7 +25,7 @@ jogmec_detail: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Gazprom is the world's largest producer and supplier of natural gas and is a Russian state-owned company. Nord Stream is also a major shareholder in Gazprom.
@@ -76,7 +76,7 @@ Pipes are stretched along the fence.
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Dominant species" %}}
 <div class="googlemap-if unclickable-area" >
 <img src="2023-04-23-19-40-50.png"/>

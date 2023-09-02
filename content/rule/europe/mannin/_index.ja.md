@@ -28,7 +28,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ドメインは<span class="quiz">.im</span>。後ろが黄色いナンバープレートで左側に<span class="quiz">赤</span>色のラインがある。

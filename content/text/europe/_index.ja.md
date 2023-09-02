@@ -28,7 +28,7 @@ add_rule_link: true
 
 ## 北欧以外
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "キリル文字" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677815195282!6m8!1m7!1sGaHEf_XpTPogQnzZopfXHA!2m2!1d48.72192943676878!2d44.53606867827708!3f318.6629661292529!4f13.832913749273303!5f2.7920886062789405" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -24,7 +24,7 @@ is_has_many_trekker: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ストリートビューの例" %}}
 
 <div class="googlemap-if">

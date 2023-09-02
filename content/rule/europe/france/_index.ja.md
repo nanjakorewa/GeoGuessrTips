@@ -34,7 +34,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -192,7 +192,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "市外局番①" %}}
 <div class="googlemap-if">
 <p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
@@ -255,7 +255,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "パリの区画順" %}}
 {{% notice tip %}}
 パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。

@@ -19,7 +19,7 @@ flag: "OKINAWA.svg"
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "平屋と給水タンク" %}}
 {{% notice tip %}}
 建物に<span class="quiz">白い平らな屋根</span>のものが多く、屋根上に<span class="quiz">給水タンク</span>が乗っている家もある。平屋のものが多い。

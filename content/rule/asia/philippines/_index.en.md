@@ -26,7 +26,7 @@ jogmec_detail: true
     {{% rd asia philippines verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Many Philippine houses have <span class="quiz">tin roofs</span>. However, since there are many tin roofs in Indonesia, you should not immediately assume that you are in the Philippines only by looking at the roofs.

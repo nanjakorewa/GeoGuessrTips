@@ -32,7 +32,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">黄色と赤</span>色のボラードが多いけれど色が薄れていたり少し色が違うときもある。Google Carが映っているのも特徴的。

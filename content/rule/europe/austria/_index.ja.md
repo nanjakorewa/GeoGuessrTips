@@ -30,7 +30,7 @@ sc: [
     {{% rd europe austria verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">EINBAHN</span>の標識がある点が{{% goto "../germany/" "ドイツ" %}}と明確に違う。{{% ex "https://goo.gl/maps/Tk9wTitkT15y5wvy7" "https://goo.gl/maps/kwHeeyruGhB5nGbr7" %}}ポールに赤と白のペイントがされていることがある。またANFANGやENDEと書かれた看板がある{{% ex "https://goo.gl/maps/ougJbaAVvy3rNCr18" "https://goo.gl/maps/ZajkmfdXc85JZzFDA" %}}。

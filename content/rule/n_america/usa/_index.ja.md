@@ -34,7 +34,7 @@ maps: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}速度制限の表記は<span class="quiz">SPEED LIMIT</span>。ただしSPEEDしか書かれていないときは<span class="quiz">オレゴン</span>州。{{% goto "../canada/" "カナダ" %}}は<span class="quiz">MAXIMUM</span>。
 {{% /notice %}}
@@ -149,7 +149,7 @@ maps: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "①ナンバープレート" %}}
 {{% notice tip %}}
 まず、前にナンバープレートを付ける必要がないエリア（<span style="color:#B1AF0D;font-weight:bold;">黄色のエリア</span>）を覚えてからナンバープレートの色を覚える。光の当たり方や角度で少し違った色に見えることも多く何回も練習して慣れる必要がある。もちろん車は動くのでナンバーで100%州が当たるわけではない。
@@ -222,7 +222,7 @@ maps: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "コーン" %}}
 
 <div class="googlemap-if">

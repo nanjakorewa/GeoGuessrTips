@@ -24,7 +24,7 @@ add_rule_link: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Panjab" %}}
 {{% notice tip %}}
 電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街
@@ -96,7 +96,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 
 ## タイ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "四角い" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679762814938!6m8!1m7!1s_Tg_zv5hWT8DJHv9lqEDUw!2m2!1d17.98130118012293!2d100.0629101957747!3f72.15605038034752!4f-6.286483384892833!5f3.2676880359687828" width="250" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -109,7 +109,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 
 ## マレーシア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "黒いラベル" %}}
 {{% notice tip %}}
 電柱に<span class="quiz">黒いラベル</span>があるならば離島ではない

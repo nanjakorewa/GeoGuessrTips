@@ -36,7 +36,7 @@ sc: [
     {{% rd asia indonesia small "By AdriansyahYS - Own work, CC BY-SA 4.0" "https://commons.wikimedia.org/w/index.php?curid=35833958" %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗{{% ex "https://goo.gl/maps/QF7ttzg7fWna6QbM6" "https://goo.gl/maps/1unn5tAUEMRCgbBo7" %}}やカラフルな旗{{% ex "https://goo.gl/maps/FG82oDNXkTxkYN5w8" "https://goo.gl/maps/tVLNrpfpdTRTzdVM7" %}}が並んでいる。

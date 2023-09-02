@@ -30,7 +30,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">黒</span>背景のものが多い。バスのナンバープレートは<span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の文字が書かれている{{% ex "https://goo.gl/maps/L615rL4m95zS1FcM6" %}}。ナンバープレートで前後が黒色の場合は{{% goto "../hongkong/" "香港" %}}ではなく澳門かも。{{% goto "../singapore/" "シンガポール" %}}も同じ色のナンバープレートがあるので注意。
@@ -68,7 +68,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "5000点を狙う" %}}
 {{% notice tip %}}
 たとえば<a href="https://goo.gl/maps/jXJoypUyjaNigz699">ここ</a>{{% ex "https://goo.gl/maps/jXJoypUyjaNigz699" %}}の場合、南が開けて山が見えないので海沿いと考えてみる。そのあと真下を向いて道路の角度を見ると同じような角度のエリアは右下（画像のピンを指している箇所周辺）の部分しかないため、場所がほとんど絞り込める。最後は道路の別れ方と交差点の位置などを見て位置調整すればOK<span style="font-size:0.8em">（画像出典：<a href="https://goo.gl/maps/aprSygQosB8xyGCo9">Google Map</a>）</span>。

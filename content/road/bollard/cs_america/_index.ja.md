@@ -12,7 +12,7 @@ add_rule_link: true
 
 ## メキシコ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白黒1" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679676286126!6m8!1m7!1sJ7MohxmYl_9njIWbAdqNug!2m2!1d18.2565538884352!2d-97.54426771347538!3f325.7113512089358!4f-19.1617510203708!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -51,7 +51,7 @@ add_rule_link: true
 
 ## エクアドル
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "赤２つ①" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

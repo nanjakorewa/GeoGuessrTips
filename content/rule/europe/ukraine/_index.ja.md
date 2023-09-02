@@ -30,7 +30,7 @@ sc: [
     {{% rd europe ukraine verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 

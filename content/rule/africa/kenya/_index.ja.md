@@ -29,7 +29,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。

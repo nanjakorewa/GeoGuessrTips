@@ -10,7 +10,7 @@ sections: [""]
 
 ## アフリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "南アフリカ共和国" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677591917040!6m8!1m7!1saivakX3HciAeUhdzF5TKLg!2m2!1d-26.36385338113757!2d27.47033371140126!3f69.32311929404811!4f-5.637996779351013!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

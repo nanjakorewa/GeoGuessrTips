@@ -11,7 +11,7 @@ bg: "bg/mailbox.jpg"
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "カナダ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678703640824!6m8!1m7!1see7lbH8z6VlP-kyaCpiG1w!2m2!1d53.48965882370678!2d-113.634464100946!3f226.08441967633695!4f-8.080226562909004!5f3.2514918248733777" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -23,7 +23,7 @@ bg: "bg/mailbox.jpg"
 ## ヨーロッパ
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "デンマーク" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677753969610!6m8!1m7!1sGqC9bT7Q1mXN9GgWVj_dbw!2m2!1d56.83386888032697!2d9.895537010466764!3f51.25252282672981!4f-7.525991922657369!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -68,7 +68,7 @@ add_rule_link: true
 
 ## モンゴル
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ゲル" %}}
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bryantighe/5963650821/in/photolist-a5ZgBT-87yVq-87yJX-87yNt-285KEah-25XSBH-oaR3xA-6ADQTK-86FFw-6y3rcF-MxkGqY-a5Zfm8-txKfh-CDc5oT-v1yFa9-oqQ9e9-oqQgYL-2a9AQK-87yM4-NHFhsW-8iNPwm-aeStAh-3gkRjc-8AJkeA-2nuG7jG-cjLvf3-pzseMS-q4R6V1-b6STPr-acpBoT-oH46Di-ueHM87-6y7uUS-8iNMMm-2aLcVXQ-3WNsB-hFtTiD-dcDqMX-dcDsvm-5jU4cM-oSnyyq-dcDsej-87yC9-oH43Kn-oHjRGT-oqQGjt-oaRkcY-oq8Qov-u9EQ4Y-8iKxTV" title="Ger"><img src="https://live.staticflickr.com/6026/5963650821_b7a123d825_z.jpg" width="640" height="427" alt="Ger"/></a>
 {{% /tab %}}
@@ -83,7 +83,7 @@ add_rule_link: true
 ## フィリピン
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "トタン" %}}
 {{% notice tip %}}
 家の屋根が<span class="quiz">トタン屋根っぽい</span>ものが多い{{% by %}}。インドネシアにもトタンの屋根は多いのでこれだけで即決してはいけない。
@@ -98,7 +98,7 @@ add_rule_link: true
 
 ## ブータン
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "伝統的なデザイン" %}}
 
 {{% notice tip %}}窓がたくさん規則的に並んだ建物がある
@@ -112,7 +112,7 @@ add_rule_link: true
 
 ## カンボジア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "高床式" %}}
 {{% notice tip %}}
 カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。

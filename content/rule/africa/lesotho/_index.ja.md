@@ -27,7 +27,7 @@ sc: [
     {{% rd africa lesotho verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ドラケンスバーグ山脈の中に国が存在し全体的に標高が高く<span class="quiz">ごつごつした隆起や上が平らな山が多い</span>{{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}。草は生えていて羊や牛などの牧畜がたまに見える。{{% goto "../eswatini/" "エスワティニ" %}}も標高が高い場所があるがエスワティニの標高が高い場所では林業が盛んで木が多い。一方でレソトは木が生えていないことが多い。

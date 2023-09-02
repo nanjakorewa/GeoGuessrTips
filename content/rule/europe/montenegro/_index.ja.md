@@ -32,7 +32,7 @@ sc: [
     {{% rd europe montenegro verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span>ので中央部分が少しだけ赤く見えることがある

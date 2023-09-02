@@ -39,7 +39,7 @@ sc: [
     {{% rd europe united-kingdom verysmall OGL %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的{{% ex "https://goo.gl/maps/QrmZubBeiPU8u8Uc8" %}}。車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。
@@ -111,7 +111,7 @@ Alexandra Palace Theatreはロンドンの北側にある
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "道路番号" %}}
 <div class="googlemap-if">
 <img class="no-click" src="2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />

@@ -12,7 +12,7 @@ bg: "bg/diy.jpg"
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アメリカ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1678553723391!6m8!1m7!1srHpPZqdF08eUgrG_gvZh4g!2m2!1d38.8925227177514!2d-77.42695436482619!3f81.7916130978465!4f1.5773613587903412!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -25,7 +25,7 @@ bg: "bg/diy.jpg"
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "イギリス" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677760478165!6m8!1m7!1s1DxZflfZfBEB9qChHDz2ww!2m2!1d53.37559043496722!2d-1.47620012744859!3f147.2024378883245!4f1.5357451606549546!5f2.751626820305279" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

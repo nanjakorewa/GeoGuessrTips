@@ -12,7 +12,7 @@ bg: "bg/food.jpg"
 ## アジア
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ベトナム" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679751957296!6m8!1m7!1sCAoSLEFGMVFpcFBjNExOd2xnM1g2b1ZRam13dHE4alh6VFRlM2t4Q1M4VjI1Rldt!2m2!1d10.79704975342051!2d106.6307208849383!3f103.87431143436736!4f7.078797100082127!5f3.216840669058476" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -48,7 +48,7 @@ bg: "bg/food.jpg"
 
 ## 中南米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "メキシコ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677590662224!6m8!1m7!1soOw-ms97E42K-OYYWvcglA!2m2!1d19.41771037263682!2d-99.1310003470417!3f16.406711929618382!4f3.4760229556364237!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -65,7 +65,7 @@ Mexican Cokeのロゴの末尾のMRは”marca registrada”の省略形。Mexic
 ## ヨーロッパ
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "セルビア" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677456670237!6m8!1m7!1svvCQNNDfVQxdXz7c0sTkYg!2m2!1d43.31884589466517!2d21.89954152225962!3f333.088020712717!4f-7.293999454183336!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

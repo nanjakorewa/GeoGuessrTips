@@ -33,7 +33,7 @@ sc: [
     {{% rd cs_america bolivia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている{{% ex "https://goo.gl/maps/V7tThyT58FpS6jwX9" "https://goo.gl/maps/ATSqSW7wcN4Z1PhR9" "https://goo.gl/maps/EiEju5W7oxK3tmyb7" %}}。ただし色が違う地域や建物がほぼ無い地域もある。
@@ -118,7 +118,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Ruta 4" %}}
 {{% notice tip %}}
 範囲はかなり狭いけれど何回か出て毎回どこかわからなかったのでメモ{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
@@ -173,7 +173,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "スクレ市街地" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679814195427!6m8!1m7!1sqVq9ioJYAgRYmFLoRyqkoA!2m2!1d-19.04399405020461!2d-65.26165030496426!3f277.81409401247646!4f-1.528780717322391!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

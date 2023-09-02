@@ -22,7 +22,7 @@ jogmec_detail: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 The area code is a gradation from Sapporo (`011`) to Tokyo (`03`) to Osaka (`06`) to Kagoshima (`099`), so you can roughly find the location(<a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Image source, CC0</a>).

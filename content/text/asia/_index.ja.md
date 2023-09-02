@@ -30,7 +30,7 @@ add_rule_link: true
 </table>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "グジャラート語" %}}
 {{% notice tip %}}
 アフマダーバード周辺。ちなみに階段井戸もアフマダーバード周辺に多い。
@@ -91,7 +91,7 @@ add_rule_link: true
 </table>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "クメール語" %}}
 {{% notice tip %}}
 {{% /notice %}}

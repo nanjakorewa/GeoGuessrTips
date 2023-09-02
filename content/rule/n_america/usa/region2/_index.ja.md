@@ -25,7 +25,7 @@ jogmec_detail: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "①看板" %}}
 {{% notice tip %}}
 AやVと書いてある場合ミズーリ州？

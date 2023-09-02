@@ -30,7 +30,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>。背景が黒いナンバープレートならば澳門の可能性を考える。

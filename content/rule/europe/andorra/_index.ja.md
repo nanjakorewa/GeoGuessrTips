@@ -32,7 +32,7 @@ sc: [
     {{% rd europe andorra verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

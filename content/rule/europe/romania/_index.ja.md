@@ -36,7 +36,7 @@ sc: [
     </div>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://goo.gl/maps/TsgCod5xnuJ6opAo8" "https://goo.gl/maps/Bjv2u3tXA8y1C32NA" "https://goo.gl/maps/KZVNk6yYXjjAhKLGA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。黄色いマーカーが付いていることが多い。

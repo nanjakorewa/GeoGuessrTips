@@ -30,7 +30,7 @@ sc: [
     {{% rd asia laos verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}。一方で{{% goto "../thai/" "タイ" %}}は<span class="quiz">左側</span>通行。

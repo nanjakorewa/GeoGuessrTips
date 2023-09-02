@@ -23,7 +23,7 @@ dont_show_usda: true
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Most license plates have a <span class="quiz">black</span> background. Bus license plates have the letters in <span class="quiz">yellow</span>. If the front license plate is colored instead of white, it may be Macau, not Hong Kong.

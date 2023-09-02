@@ -37,7 +37,7 @@ sc: [
     {{% rd n_america mexico verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -308,7 +308,7 @@ Public Domain
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "メキシコシティ" %}}
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="DSC08423"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{% /tab %}}

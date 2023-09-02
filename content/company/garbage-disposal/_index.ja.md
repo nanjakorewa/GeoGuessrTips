@@ -11,7 +11,7 @@ bg: "bg/wm.jpg"
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "全域" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677590995360!6m8!1m7!1s7Ged-WdiSP_yi40qwKKThw!2m2!1d32.70892619934644!2d-117.1582923488563!3f314.749552163044!4f-8.776131326089299!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

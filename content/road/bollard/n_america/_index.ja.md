@@ -12,7 +12,7 @@ add_rule_link: true
 
 ## アメリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白□" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680004554870!6m8!1m7!1skzsyV7yS0N-8pc0Lq2DHQQ!2m2!1d47.25779110056142!2d-117.3615673228675!3f26.680279106853263!4f-5.060031078899939!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -44,7 +44,7 @@ add_rule_link: true
 
 ## カナダ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "細い赤色" %}}
 {{% notice tip %}}
 細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州。

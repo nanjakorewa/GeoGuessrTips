@@ -35,7 +35,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 道端に<span class="quiz">赤い●</span>の反射板がある{{% ex "https://goo.gl/maps/ZFN7ioutx1c4HszW6" "https://goo.gl/maps/BHo9r4ZFXroc1Uxm7" "https://goo.gl/maps/vN4fPEkpVW8CHPUu7" %}}
@@ -89,7 +89,7 @@ sc: [
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "電柱の記号" %}}
 {{% notice tip %}}
 プレート下部に書かれた英語の先頭の文字がAに近ければ北でWに近ければ南。左はB、右はW。

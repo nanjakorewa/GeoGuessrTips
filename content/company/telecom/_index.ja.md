@@ -10,7 +10,7 @@ sections: [""]
 
 ## 中南米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "中南米全域" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677462071366!6m8!1m7!1swYFQBrslJ2cfJpxVOtFAEg!2m2!1d6.692917797069954!2d-1.622077409676407!3f276.7722025364622!4f-13.784673934113556!5f2.9858464428048155" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -34,7 +34,7 @@ Claro Mexico は、メキシコの電気通信グループであるAmérica Móv
 
 ## アフリカ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アフリカ全域" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677913325386!6m8!1m7!1s566c9QI7aQZGUE-Yu8fUtQ!2m2!1d6.514146885971278!2d3.35676863552664!3f183.8477371905649!4f-0.23733045349406723!5f3.1491133933760214" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

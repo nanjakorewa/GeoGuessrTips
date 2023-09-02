@@ -32,7 +32,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 
@@ -95,7 +95,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "ローベルト" %}}
 
 {{% notice tip %}}

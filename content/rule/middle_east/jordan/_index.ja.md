@@ -33,7 +33,7 @@ sc: [
     {{% rd middle_east jordan verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">黄色と緑</span>色のタクシーや黄色のタクシーが多い。また商用車はナンバープレートの左側が<span class="quiz">緑</span>色。よく見ると側面に地名が書いてあることがあり、上の写真の黄色のタクシーにはAmman・緑のタクシーにはAqabaと書いてある。

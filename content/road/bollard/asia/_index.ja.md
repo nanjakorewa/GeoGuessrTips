@@ -13,7 +13,7 @@ add_rule_link: true
 
 ## ロシア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白黒" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679669317135!6m8!1m7!1sevjy8tbKZ6ln2nb5-JUoxA!2m2!1d42.4806247604114!2d47.87391049290576!3f239.13344430166023!4f-11.851493200195563!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -23,7 +23,7 @@ add_rule_link: true
 
 ## インドネシア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白黒１" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679582549229!6m8!1m7!1sT3KNnYGl_xHfL-UR95BjTw!2m2!1d-3.978268755081621!2d122.0536118580309!3f271.754447329389!4f-10.360434027996604!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -54,7 +54,7 @@ add_rule_link: true
 
 ## タイ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "白黒" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682877916254!6m8!1m7!1sSsph6IlCDLalfC82SiXhGQ!2m2!1d14.64339940767677!2d98.69383419317019!3f272.2330816685183!4f-9.492207784541847!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -64,7 +64,7 @@ add_rule_link: true
 
 ## カンボジア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "赤白1" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682133209760!6m8!1m7!1syGkYFcgln6xoRiqHaZEhBA!2m2!1d12.40530482325942!2d103.8104081534148!3f153.77553353717212!4f-27.381682905980973!5f3.0896211671220453" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -80,7 +80,7 @@ add_rule_link: true
 
 ## マレーシア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "赤白" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684253885103!6m8!1m7!1s3uEUW2gXFuqrPTBF82sO1w!2m2!1d2.865138978404367!2d103.4163499181757!3f7.017767191270073!4f-11.305454924503238!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -101,7 +101,7 @@ add_rule_link: true
 
 ## バングラディシュ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "赤白" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682025900517!6m8!1m7!1srai2GMmarBxqpDB6Rd5ffQ!2m2!1d25.4998980340656!2d88.95274550466877!3f165.85266263139553!4f-27.69488847832332!5f2.779446439116543" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

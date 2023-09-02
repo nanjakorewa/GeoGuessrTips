@@ -32,7 +32,7 @@ sc: [
     {{% rd europe ireland verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz">緑色</span>のボラードがある{{% ex "https://goo.gl/maps/TsXkH3751vxJH2xe8" "https://goo.gl/maps/8qZiGUqUbmZQrCzE8" %}}{{% by %}}
@@ -87,7 +87,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "石壁" %}}
 <div class="googlemap-if unclickable" width="95%">
 <img src="./burren.jpg">
@@ -104,7 +104,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Dublin" %}}
 
 {{% notice tip %}}

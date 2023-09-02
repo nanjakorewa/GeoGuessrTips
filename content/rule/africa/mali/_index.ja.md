@@ -24,7 +24,7 @@ is_has_many_trekker: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 マリでは<span class="quiz">泥</span>を使った建築物が多く見た目も特徴的。壁からはヤシの木でできた棒（トロンと呼ばれる）やパイプが突き出していることが多い{{% ref "https://skyticket.jp/guide/90245" "伝統的な泥建築の国、マリ共和国" %}}。

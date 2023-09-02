@@ -36,7 +36,7 @@ sc: [
 <div class="googlemap-if">
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは前後が<span class="quiz">黄色</span>。平均所得は平均的なヨーロッパ人の2.5倍であり、Volkswagen・Mercedes・Audiの売上が多い{{% ref "https://www.focus2move.com/luxembourg-car-market-2022/" "Luxembourg 2022. Car Market Closes Year With A 10.7% Loss" %}}。オランダは韓国車KIAやTOYOTAも多い。

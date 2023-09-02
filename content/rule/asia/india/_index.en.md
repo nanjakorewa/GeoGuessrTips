@@ -21,7 +21,7 @@ jogmec_detail: true
     {{% rd asia india verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 The language is distinctive and can be identified once you get used to it. In the city center, addresses are often written in English under signs.
@@ -64,7 +64,7 @@ Bansuri is an instrument commonly used in Indian Hindustani music.
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Soil distribution" %}}
 {{% notice tip %}}
 Bright red soil is southwest or south, blackish color is inland from Delhi to south, and silky white soil is north?
@@ -120,7 +120,7 @@ Even if the soil is red, if there are steep mountains and forests all around, co
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Language" %}}
 
 <div class="googlemap-if">

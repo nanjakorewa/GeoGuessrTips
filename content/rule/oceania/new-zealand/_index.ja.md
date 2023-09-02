@@ -30,7 +30,7 @@ sc: [
     {{% rd oceania new-zealand verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -115,7 +115,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "カンタベリー平野" %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Windbreak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

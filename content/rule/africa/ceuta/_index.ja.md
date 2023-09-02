@@ -31,7 +31,7 @@ sc: [
     </div>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 車が砂で汚れていることが多い

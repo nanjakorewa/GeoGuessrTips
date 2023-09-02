@@ -33,7 +33,7 @@ sc: [
     {{% rd asia india verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 言語が特徴的なので慣れれば判別できる。また都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い{{% ex "https://goo.gl/maps/AXZgXsD1KL6caRtU9" "https://goo.gl/maps/EYZo8wfHJXYWEuH29" "https://goo.gl/maps/gsG8oJJ1MGaMb1we8" "https://goo.gl/maps/L1EM1YBtwkMqfDDK9" %}}。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいかも。
@@ -93,7 +93,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "言語" %}}
 
 <div class="googlemap-if">
@@ -177,7 +177,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "土の分布" %}}
 {{% notice tip %}}
 真っ赤な土は南西か南、黒っぽい色はデリーから南の内陸、サラサラの白っぽい土は北の方のイメージ？
@@ -239,7 +239,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-18-13-47-23.png" width="60%" />
@@ -282,7 +282,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "黄色・緑" %}}
 {{% notice tip %}}
 全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
@@ -327,7 +327,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "黄色いタンク" %}}
 {{% notice tip %}}
 黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街。ハイデラバードより北の家にこのタンクがたくさん乗っているイメージはない。
@@ -356,7 +356,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Panjab" %}}
 {{% notice tip %}}
 電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街

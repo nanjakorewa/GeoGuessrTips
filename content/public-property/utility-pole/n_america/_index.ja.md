@@ -53,7 +53,7 @@ add_rule_link: true
 
 ## ドミニカ共和国
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "四角・色無し" %}}
 {{% notice tip %}}
 四角いポール。色が塗られているときもある。
@@ -66,7 +66,7 @@ add_rule_link: true
 
 ## メキシコ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "八角形" %}}
 {{% notice tip %}}
 木製のもの or 八角形のものが多い。

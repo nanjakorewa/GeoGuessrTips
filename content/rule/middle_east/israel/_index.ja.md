@@ -29,7 +29,7 @@ sc: [
     {{% rd middle_east israel verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ヘブライ語(מְדִינַת יִשְׂרָאֵל)の文字が印象的

@@ -32,7 +32,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 家は木やレンガでできている
@@ -84,7 +84,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "チュウテンカク" %}}
 {{% notice tip %}}
 クイーン・エリザベス国立公園のGoogle Carが見えないエリアにある木。

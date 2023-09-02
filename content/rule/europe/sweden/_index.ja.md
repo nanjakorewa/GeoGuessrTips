@@ -36,7 +36,7 @@ sc: [
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。

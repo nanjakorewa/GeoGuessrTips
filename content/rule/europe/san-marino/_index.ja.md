@@ -33,7 +33,7 @@ sc: [
     {{% rd europe san-marino verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}

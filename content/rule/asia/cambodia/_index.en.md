@@ -30,7 +30,7 @@ is_has_distinctive_googlecar: true
 
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 <span class="quiz"><span class="quiz">Khmer (ភាសាខ្មែរ)</span> is widely used; English is also spoken in urban areas. Bottled drinks are often found for sale under parasols.

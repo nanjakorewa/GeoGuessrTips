@@ -41,7 +41,7 @@ sc: [
 </div>
 
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 
@@ -144,7 +144,7 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "市外局番" %}}
 {{% notice note %}}
 街中を歩いてみた体感として地名を見る回数の方がずっと多いかも。

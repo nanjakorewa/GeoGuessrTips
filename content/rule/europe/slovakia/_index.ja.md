@@ -41,7 +41,7 @@ sc: [
     {{% rd europe slovakia verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ sc: [
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "Bratislava" %}}
 {{% notice tip %}}
 全体的に赤色のバスが多い。赤の黄色のポールもあったけれど他の地域にあるのかは確認してない。

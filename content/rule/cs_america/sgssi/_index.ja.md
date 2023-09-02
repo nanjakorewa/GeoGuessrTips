@@ -24,7 +24,7 @@ dont_show_usda: true
     </ul>
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683479220659!6m8!1m7!1sQUgKRAQZ1LkZR7Pv6b6xPg!2m2!1d-54.00933842518771!2d-37.69855939135337!3f311.80679669338366!4f-16.739629842855834!5f1.5390368472570861" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

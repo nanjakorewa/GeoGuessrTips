@@ -38,7 +38,7 @@ additional_link:
     {{% rd europe finland verysmall %}}
 </div>
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 地域名が書かれた看板の矢印の形が▶のような塗りつぶし or 綺麗な▷になっている。また<span class="quiz">～tie</span>という通り名をよく見かける。

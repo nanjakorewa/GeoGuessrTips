@@ -10,7 +10,7 @@ sections: [""]
 
 ## 北米
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "カナダ" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677733372442!6m8!1m7!1sdLIOQMGpyAKSVOEIQB6BOw!2m2!1d45.49139325859837!2d-73.56982565280255!3f95.78602859668104!4f-2.3586759170270284!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -24,7 +24,7 @@ STM: Société de transport de Montréalは、カナダ・ケベック州のモ�
 
 ## アジア
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "香港" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677661460472!6m8!1m7!1sUy4SjGOeeJ4b3kc1sHa5LA!2m2!1d22.46326094862753!2d114.0040945653404!3f84.53031014836075!4f-15.82405319382103!5f0.8042969497185694" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -35,7 +35,7 @@ STM: Société de transport de Montréalは、カナダ・ケベック州のモ�
 
 ## ヨーロッパ
 
-{{% tabs  %}}
+{{% tabs %}}
 {{% tab "イギリス" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1677488894945!6m8!1m7!1sb3GEsdjFUS22Q8_qYKyqqQ!2m2!1d51.54344060486591!2d-0.05691645868739027!3f50.90252607607288!4f-11.584674072192783!5f2.0119739583243934" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
