@@ -219,10 +219,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1693625533960!6m8!1m7!1smsTcVRrQw-dbic9Hb9LeSw!2m2!1d25.02883549800032!2d-107.8239421155597!3f73.08712019573166!4f-5.359408887550231!5f0.975039551555405" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-後日追記する予定です{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}。
-{{% /notice %}}
-
 {{% /tab %}}
 {{% tab "コプラ" %}}
 
@@ -238,7 +234,6 @@ Guerreroの海沿いにのみココヤシのプランテーションが存在す
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682944891203!6m8!1m7!1sQTSgniwWjFDeK5aKmKl1XA!2m2!1d16.99165953045512!2d-100.1237792495057!3f86.65871881903603!4f12.885509653288338!5f0.9042402409955568" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
@@ -253,7 +248,6 @@ Guerreroの海沿いにのみココヤシのプランテーションが存在す
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690446541147!6m8!1m7!1sSn59mD6hE2I-vtQMM4vLrA!2m2!1d18.30187402088926!2d-91.25097875805089!3f310.3095166079618!4f-8.212093973636826!5f1.2699771960987585"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690446551389!6m8!1m7!1sE0GcvOybQUjOOGcWprsEBQ!2m2!1d15.25871209385946!2d-92.85380372736698!3f71.19773244831516!4f1.8473922982750821!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 
 {{% /tab %}}
 {{% /tabs %}}
