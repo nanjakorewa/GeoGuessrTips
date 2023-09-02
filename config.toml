@@ -157,7 +157,7 @@ hasChildren = true
 [Languages.en]
 languageName = "en"
 languageCode = "en-US"
-weight = 1
+weight = 2
 copyright = "This is a repository (almost a diary) for organizing bookmarks when playing GeoGuessr. All company, product, and service names (logos, etc.) mentioned herein are trademarks or registered trademarks of their respective owners. You can hide some of the text by clicking on the display settings in the upper left corner (a feature I created for my own study).</br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Privacy Policy・About this page</a>"
 
 # banner
@@ -196,6 +196,54 @@ hasChildren = true
   weight = 1
 
   [[Languages.en.menu.main]]
+  parent = "Menu"
+  name = "Language"
+  url = "text"
+  weight = 2
+
+################################ Indonesia Language ######################
+[Languages.id]
+languageName = "id"
+languageCode = "id"
+weight = 3
+copyright = "This is a repository (almost a diary) for organizing bookmarks when playing GeoGuessr. All company, product, and service names (logos, etc.) mentioned herein are trademarks or registered trademarks of their respective owners. You can hide some of the text by clicking on the display settings in the upper left corner (a feature I created for my own study).</br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Privacy Policy・About this page</a>"
+
+# banner
+[Languages.id.params.banner]
+title = ""
+subtitle = ""
+placeholder = "enter search words..."
+
+# call to action
+[Languages.id.params.cta]
+enable = true
+title = "Didn't find an answer to your question?"
+content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+# call to action button
+[Languages.id.params.cta.button]
+enable = true
+label = "contact us"
+link = "contact"
+
+# navigation
+[[Languages.id.menu.main]]
+name = "Toppage"
+url = "/"
+weight = 1
+
+# dropdown menu
+[[Languages.id.menu.main]]
+weight = 4
+name = "Menu"
+hasChildren = true
+
+  [[Languages.id.menu.main]]
+  parent = "Menu"
+  name = "Rules"
+  url = "rule"
+  weight = 1
+
+  [[Languages.id.menu.main]]
   parent = "Menu"
   name = "Language"
   url = "text"

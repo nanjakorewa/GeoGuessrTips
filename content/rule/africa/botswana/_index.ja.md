@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
-        <li>赤・白・青・黄のナンバープレートがある</li>
+        <li>白・青・黄のナンバープレートがある</li>
         <li>道路番号の頭文字が「<span class="quiz">A</span>」や「B」</li>
         <li>標識やガードレールが<span class="quiz">黄色と黒</span>色のストライプのものが多い</li>
         <li>道路はざらざらした表面で路側帯は<span class="quiz">オレンジ</span>色だが路側帯は無い場所もある</li>

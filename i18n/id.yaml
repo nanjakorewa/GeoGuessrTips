@@ -1,0 +1,82 @@
+- id: topics_title
+  translation: Daftar Halaman
+- id: display_setting
+  translation: Pengaturan Tampilan
+- id: display_setting_cnt
+  translation: Blur region/country
+- id: display_setting_desc
+  translation: Blur descriptions
+- id: display_setting_noevidence
+  translation: Hide unknown rules
+- id: comment_title
+  translation: Comment
+- id: comment_name
+  translation: Name
+- id: comment_submit
+  translation: submit
+- id: comment_notice
+  translation: ※Comments will appear after approval. Please do not enter any personal information.
+- id: comment_complete
+  translation: Thank you for your comment. Your comment will appear after approval.
+- id: size-change
+  translation: Change font size
+- id: size-s
+  translation: small
+- id: size-m
+  translation: normal
+- id: size-l
+  translation: large
+- id: rel-site
+  translation: Related Pages
+- id: rule-of-distinguish
+  translation: How to identify countries and regions in 
+- id: how-to-distinguish
+  translation: How to Distinguish
+- id: narrow-down-the-area
+  translation: Narrow down state/region
+- id: narrow-down-the-city
+  translation: Narrow down city/town
+- id: toppage
+  translation: Home
+- id: page-title
+  translation: My GeoGuessr Memo
+- id: w-etf
+  translation: Easy-to-find landmarks
+- id: w-viecle
+  translation: Vehicle
+- id: w-building
+  translation: Building
+- id: w-commercial
+  translation: Commercial Facilities
+- id: w-googlecar
+  translation: Google Car
+- id: w-bollard
+  translation: Bollard
+- id: w-utility-pole
+  translation: Utility Pole
+- id: w-signs
+  translation: Signs
+- id: w-road
+  translation: Road
+- id: w-plant
+  translation: Plant
+- id: w-music
+  translation: 🎵
+- id: has_unique_bollard
+  translation: ""
+- id: has_unique_googlecar
+  translation: distinctive GoogleCar
+- id: has_trekker
+  translation: many trekker
+- id: has_unique_googlecar
+  translation: References
+- id: findable-road-sign
+  translation: Signs you can find
+- id: w-mymemo-wrong-cn
+  translation: Difficult place
+- id: show_mymemo_button
+  translation: Display personal memo
+- id: display_meaning
+  translation: icon
+- id: streaming_status
+  translation: streaming status
