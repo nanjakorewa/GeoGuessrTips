@@ -79,7 +79,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 
 
 {{% notice tip %}}
-インドネシア最大手の石油・天然ガス会社であるPT Pertaminaがあり看板に書いてある番号から地域もわかる{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BF%E3%83%9F%E3%83%8A" "Pertamina" %}}。
+インドネシア最大手の石油・天然ガス会社であるPT Pertaminaがあり看板に書いてある番号から地域もわかる{{% ref "https://www.pertamina.com/en/Investor-relations" "Pertamina" %}}。
 {{% /notice %}}
 
 

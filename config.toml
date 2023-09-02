@@ -158,7 +158,7 @@ hasChildren = true
 languageName = "en"
 languageCode = "en-US"
 weight = 2
-copyright = "This is a repository (almost a diary) for organizing bookmarks when playing GeoGuessr. All company, product, and service names (logos, etc.) mentioned herein are trademarks or registered trademarks of their respective owners. You can hide some of the text by clicking on the display settings in the upper left corner (a feature I created for my own study).</br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Privacy Policy・About this page</a>"
+copyright = "This is a repository (almost a diary) for organizing bookmarks when playing GeoGuessr. All company, product, and service names (logos, etc.) mentioned herein are trademarks or registered trademarks of their respective owners. You can hide some of the text by clicking on the display settings in the upper left corner.</br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Privacy Policy・About this page</a>"
 
 # banner
 [Languages.en.params.banner]

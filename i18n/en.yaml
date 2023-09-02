@@ -67,9 +67,9 @@
 - id: has_unique_googlecar
   translation: distinctive GoogleCar
 - id: has_trekker
-  translation: many trekker
+  translation: Many Trekker
 - id: has_unique_googlecar
-  translation: References
+  translation: Unique Google Car
 - id: findable-road-sign
   translation: Signs you can find
 - id: w-mymemo-wrong-cn
@@ -77,6 +77,6 @@
 - id: show_mymemo_button
   translation: Display personal memo
 - id: display_meaning
-  translation: icon
+  translation: Icon
 - id: streaming_status
   translation: streaming status

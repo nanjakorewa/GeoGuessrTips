@@ -40,7 +40,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインはほとんどが<span class="quiz">白</span>色。
+黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインはほとんどが<span class="quiz">白</span>色で、画像のように中央に２本の<span class="quiz">白</span>線がある道はマレーシア以外あまり見かけない。
 {{% /notice %}}
 
 
