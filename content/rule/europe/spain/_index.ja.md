@@ -121,7 +121,10 @@ sc: [
     <ul class="rule-list">
         <li>複数言語が使用されている
             <ul>
-                <li>東側ではカタルーニャ語が使用されおり通りが『CARRER』</li>
+                <li>東側ではカタルーニャ語が使用されおり通りが『<span class="quiz">CARRER</span>』</li>
+                <li>西側ではガリシア語が使用されおり通りが『<span class="quiz">RÚA</span>』</li>
+                <li>北側の一部ではバスク語が使用されおり通りが『<span class="quiz">KALEA</span>』</li>
+                <li>最も一般的に見られる通り名は『<span class="quiz">CALLE</span>』</li>
             </ul>
         </li>
         <li>市外局番の9XXの数字で地域を絞り込める</li>

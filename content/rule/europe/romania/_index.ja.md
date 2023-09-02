@@ -77,6 +77,15 @@ sc: [
 </div>
 
 {{% notice tip %}}
+道路番号の形が特徴的
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/ROU_DN6.svg" width="70px" style="margin:10px">
+<img src="./r/DJ609B-RO.svg" width="70px" style="margin:20px">
+</div>
+
+{{% notice tip %}}
 左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ex "https://goo.gl/maps/BEaYk26gUVQqwpLK6" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
 {{% /notice %}}
 

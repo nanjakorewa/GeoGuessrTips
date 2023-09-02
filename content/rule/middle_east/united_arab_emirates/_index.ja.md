@@ -27,7 +27,6 @@ sc: [
         <li>ナンバープレートは基本白でドバイのみ後ろの左側が<span class="quiz">赤</span>色</li>
         <li>ドバイは高層ビルが見えることが多い</li>
         <li>Google Carが特徴的で基本的に<span class="quiz">白</span>色</li>
-        <li class="no-evidence">緑色の上が折れ曲がったパイプのフェンスをよく見かける</li>
     </ul>
     {{% rd middle_east united_arab_emirates verysmall %}}
 </div>
@@ -46,13 +45,6 @@ Google Carが特徴的で白い屋根が見える。また標識や道路番号�
 <img src="./r/52350.png" width="100px" style="margin:10px">
 <img src="./r/UAE_D97.svg" width="70px" style="margin:10px">
 <img src="./r/UAE_E99.svg" width="70px" style="margin:10px">
-</div>
-
-{{% notice tip %}}
-緑色の上が折れ曲がったパイプのフェンスをよく見かけるように思う。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687411500200!6m8!1m7!1suZK3sDeXC8UF4v_D6hEbhA!2m2!1d25.24510459078181!2d55.87447802030222!3f138.93547886260473!4f-7.297505525298462!5f1.7400781784336394" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
