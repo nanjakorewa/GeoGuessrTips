@@ -119,25 +119,50 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>複数言語が使用されている
+            <ul>
+                <li>東側ではカタルーニャ語が使用されおり通りが『CARRER』</li>
+            </ul>
+        </li>
         <li>市外局番の9XXの数字で地域を絞り込める</li>
-        <li>ガリシア州{{% ex "https://goo.gl/maps/M4KYonGMcfZLk6cg9" %}}や北の沿岸付近{{% ex "https://goo.gl/maps/NvHo5UvaWDgFp7FR9" %}}は緑が多い</li>
+        <li>ガリシア州{{% ex "https://goo.gl/maps/M4KYonGMcfZLk6cg9" %}}や北の沿岸付近は緑が多い</li>
         <li>環状道路と高速道路には都市を識別する文字が先頭についていることが多い
             <ul>
                 <li>例）BIならばビルバオ付近</li>
             </ul>
         </li>
-        <li>スペイン領{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}が出る。島の名前の頭文字から道路番号が付けられている。</li>
+        <li>スペイン領{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}にもスペインの標識とボラードがある</li>
     </ul>
 </div>
 
-
 {{% tabs %}}
+{{% tab "言語の分布" %}}
+<div class="googlemap-if no-margin unclickable">
+<img src="./Spain_languages.svg" width="500px">
+</div>
+
+<div class="googlemap-if">
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #2b83ba; color:black; font-size:100%; text-align:center;" title="#2b83ba">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%AA%E3%82%B7%E3%82%A2%E8%AA%9E" class="extiw" title="ja:ガリシア語">ガリシア語</a></b></div>
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #91cba8; color:black; font-size:100%; text-align:center;" title="#91cba8">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%83%88%E3%82%A5%E3%83%AA%E3%82%A2%E3%82%B9%E8%AA%9E" class="extiw" title="ja:アストゥリアス語">アストゥリアス語</a></b></div>
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #ddf1b4; color:black; font-size:100%; text-align:center;" title="#ddf1b4">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E8%AA%9E" class="extiw" title="ja:スペイン語">スペイン語</a></b></div>
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #fede99; color:black; font-size:100%; text-align:center;" title="#fede99">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%82%B4%E3%83%B3%E8%AA%9E" class="extiw" title="ja:アラゴン語">アラゴン語</a></b></div>
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #f59053; color:black; font-size:100%; text-align:center;" title="#f59053">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%AB%E3%83%BC%E3%83%8B%E3%83%A3%E8%AA%9E" class="extiw" title="ja:カタルーニャ語">カタルーニャ語</a></b></div>
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #d7191c; color:black; font-size:100%; text-align:center;" title="#d7191c">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%83%E3%82%AF%E8%AA%9E" class="extiw" title="ja:オック語">オック語</a></b></div>
+<div class="legend" style="margin-right:1em;"><span class="legend-color" style="display:inline-block; width:1.5em; height:1.5em; margin:1px 0; border:1px solid black; background-color: #808080; color:black; font-size:100%; text-align:center;" title="#808080">&nbsp;</span>&nbsp;<b><a href="https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B9%E3%82%AF%E8%AA%9E" class="extiw" title="ja:バスク語">バスク語</a></b></div>
+</div>
+
+
+{{% notice tip %}}
+カタルーニャ語を使う地域では通り看板が『CARRER』と書かれている
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg#/media/File:Prefijos_telefónicos_en_España.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg/1200px-Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg.png" alt="Prefijos telefónicos en España.svg"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Albertocsc&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Albertocsc (page does not exist)">Albertocsc</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24333469">Link</a></p>
 </div>
 {{% /tab %}}
-{{% tab "ガリシア州" %}}
+{{% tab "ガリシア州の道" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688877950578!6m8!1m7!1sIDwO-Ds9OGzQ3CMc5PWSjw!2m2!1d43.33149691344886!2d-7.75082183319832!3f163.81277390334435!4f-3.738804773705425!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688878210185!6m8!1m7!1sUMxBEAtMYQ81OgRsDWfImg!2m2!1d43.24795337485552!2d-7.965328632639515!3f176.7064228052981!4f-8.633655468871538!5f0.814479964799036" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
