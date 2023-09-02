@@ -77,6 +77,21 @@ sc: [
 By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123241255">Wikimedia Commons</a>
 {{% /lb %}}
 
+
+{{% notice tip %}}
+インドネシア最大手の石油・天然ガス会社であるPT Pertaminaがあり看板に書いてある番号から地域もわかる{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BF%E3%83%9F%E3%83%8A" "Pertamina" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Pertamina_filling_station,_Bali,_Indonesia.jpg#/media/File:Pertamina_filling_station,_Bali,_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Pertamina_filling_station%2C_Bali%2C_Indonesia.jpg" alt="Pertamina filling station, Bali, Indonesia.jpg" width="90%"></a></p>
+<p>By Yoshi Canopus - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9435271">Link</a></p>
+</div>
+
+
+
+
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice note %}}
@@ -258,6 +273,13 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
                 <li><b>07x：南スマトラ</b></li>
                 <li style="margin-left:1em;">0751：{{% goto "https://goo.gl/maps/GJ4K6EK44PCbv7o56" "Padang" map %}}</li>
                 <li>{{% ref "https://en.m.wikipedia.org/wiki/Telephone_numbers_in_Indonesia" "Telephone numbers in Indonesia" %}}</li>
+            </ul>
+        </li>
+        <li>Pertaminaのガソリンスタンドの看板に書いてある番号から地域もわかる
+            <ul>
+                <li>1x~5x：番号が小さいほど北</li>
+                <li>6x：カリマンタン島</li>
+                <li>7x：スラウェシ島</li>
             </ul>
         </li>
     </ul>
