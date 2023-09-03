@@ -123,6 +123,14 @@ sc: [
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691922555134!6m8!1m7!1s-HaDwQkAZNU0kKr3_fY3XQ!2m2!1d44.08537370293369!2d23.25785996474632!3f262.9994857988307!4f-8.812591107665511!5f2.755649721040019"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693753420485!6m8!1m7!1sLZJ8bWrNsu2ZM3grKGoYZg!2m2!1d44.88543285626029!2d25.63793520577835!3f344.8247273492445!4f-1.6894219920764186!5f1.591437045702341" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "電柱" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693753340530!6m8!1m7!1sLuY844Tkugn586mTqt9jYw!2m2!1d44.81517233163134!2d25.69458425900886!3f242.37262305312188!4f4.948132299859822!5f2.6360318257588844" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693753689286!6m8!1m7!1s07KoPHx0iKjn6Atq3OmcuA!2m2!1d46.15997827917551!2d28.09812776159574!3f87.97544027911947!4f2.094039384254529!5f2.361157493803028" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693753723050!6m8!1m7!1soWF0C5PNxqN6QXSiTjvRew!2m2!1d45.26867958493148!2d28.49525301320358!3f107.50781636354786!4f0.904070128791389!5f2.3580607011440367" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "標高" %}}
