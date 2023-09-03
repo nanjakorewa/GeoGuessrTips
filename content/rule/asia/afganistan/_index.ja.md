@@ -13,13 +13,19 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../india/", "インド"],
+    ["../pakistan/", "パキスタン"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li class="no-evidence">出題されない</li>
-        <li class="no-evidence">カブール周辺の施設にのみわずかにストリートビューがある</li>
+        <li>公用語はダリー語（دری）やパシュトー語（پښتو）</li>
+        <li>カブール周辺の施設にのみわずかにストリートビューがある</li>
     </ul>
 </div>
 
