@@ -165,12 +165,23 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>イドラ島は条例で自動車が禁止されておりトレッカーのみが存在する{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%89%E3%83%A9%E5%B3%B6" "イドラ島" %}}</li>
         <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
         <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "イドラ島" %}}
+{{% notice tip %}}
+島は自動車乗り入れ禁止となっており、交通手段は徒歩かロバのどちらか。そのためストリートビューもトレッカー以外存在しない{{% ex "https://goo.gl/maps/YJnzhRBZwws9AjPg7" "https://goo.gl/maps/nAXN6n6LeJeuzfqt9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Idra_180_40,_Greece_-_panoramio.jpg#/media/File:Idra_180_40,_Greece_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Idra_180_40%2C_Greece_-_panoramio.jpg" alt="Idra 180 40, Greece - panoramio.jpg" width="90%"></a></p>
+<p>By theusmanmali, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53642795">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "ゴミ箱" %}}
 {{% notice tip %}}
 ゴミ箱に都市名が書いてあることがあるのでゴミ箱にギリシャ文字があるか確認して、都市名に見えたらマップで探してみる。左がΚομοτηνή、右がΑθήνα。
