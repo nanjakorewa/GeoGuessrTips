@@ -11,7 +11,7 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "間違えやすいページ"
+sc_title: "wilayah serupa"
 sc_icon: rel
 sc: [
     ["../south-africa/", "SSouth Africa"],
@@ -21,13 +21,13 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Cars drive on the <span class="quiz">left</span> side</li>
-        <li>Domain is <span class="quiz">.bw</span></li>
-        <li>Roads with initials "A" or "B" in their road numbers</li>
-        <li>Signs and guardrails with <span class="quiz">yellow and black</span> stripes are common</li>
-        <li>Roads have a rough surface, and the roadside is <span class="quiz">orange</span></li>
-        <li class="no-evidence">70% of the country's land overlaps with the Kalahari Desert, making the entire country flat</li>
-        <li class="no-evidence">Some old signs have a <span class="quiz">blue</span> background color</li>
+        <li>Mobil melaju di sisi <span class="quiz">kiri</span>.</li>
+        <li>Domain adalah <span class="quiz">.bw</span></li>
+        <li>Jalan dengan inisial "A" atau "B" pada nomor jalannya</li>
+        <li>Jalan memiliki permukaan yang kasar, dan pinggir jalan berwarna <span class="quiz">jingga</span></li>
+        <li></li>
+        <li class="no-evidence">70% daratan negara ini tumpang tindih dengan Gurun Kalahari, membuat seluruh negara ini datar</li>
+        <li class="no-evidence">Beberapa rambu lama memiliki warna latar belakang <span class="quiz">biru</span>.</li>
     </ul>
     {{% rd africa botswana small %}}
 </div>
@@ -56,14 +56,14 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 
 
 {{% notice tip %}}
-There is the Kalahari Desert and a flat landscape all around. Most areas are sparsely populated with shrubs and grasses. Few trees grow on either side of the paved roads.
+Terdapat Gurun Kalahari dan lanskap datar di sekelilingnya. Sebagian besar wilayahnya jarang ditumbuhi semak dan rerumputan. Hanya sedikit pohon yang tumbuh di kedua sisi jalan beraspal.
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Trans-Kalahari Highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
-Road numbers with "<span class="quiz">A</span>" or "B". {{% goto ". /lesotho/" "Lesotho" %}} has similar road numbers, but unlike Lesotho, Botswana is quite flat. There are not many roads, so if there are signs and intersections, you might be able to score 5,000 points.
+Nomor jalan dengan "<span class="quiz">A</span>" atau "B". {{% goto ". /lesotho/" "Lesotho"%}} memiliki nomor jalan yang serupa, tetapi tidak seperti Lesotho, Botswana cukup datar. Tidak banyak jalan, jadi jika ada rambu-rambu dan persimpangan, Anda mungkin bisa mendapatkan 5.000 poin.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -95,16 +95,16 @@ Road numbers with "<span class="quiz">A</span>" or "B". {{% goto ". /lesotho/" "
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">There is a gradation of climate: tropical in the north and inland desert climate in the rest of the country. The further north one goes, the more non-needle grasses and taller plants grow.</li>
+        <li class="no-evidence">Terdapat gradasi iklim, tropis di bagian utara dan iklim gurun pedalaman di bagian lainnya. Tampaknya semakin jauh ke utara, semakin banyak rumput non-jarum dan tanaman yang lebih tinggi. </li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Plant" %}}
+{{% tab "Tanaman" %}}
 <ul class="rule-list">
-    <li>North：{{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
-    <li>Central：{{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
-    <li>South：{{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
+    <li>Utara：{{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
+    <li>Tengah：{{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
+    <li>Selatan：{{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
 </ul>
 {{% /tab %}}
 {{% /tabs %}}
