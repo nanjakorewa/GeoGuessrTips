@@ -27,14 +27,22 @@ sc: [
         <li>言語はイタリア語</li>
         <li>ナンバープレートは前後についていて<span class="quiz">薄い水</span>色に見える</li>
         <li>サンマリノのシェブロンは<span class="quiz">赤で背景がオレンジ</span>だがイタリアは<span class="quiz">白で背景が黒</span></li>
-        <li>{{% goto "../italy/" "イタリア" %}}と同じ通り看板が使われていて、青くて角が丸い線で囲われている</li>
-        <li class="no-evidence">全体的に山がちできれいな直線の道路があまりない</li>
+        <li>{{% goto "../italy/" "イタリア" %}}と同じ通り看板が使われている</li>
     </ul>
     {{% rd europe san-marino verysmall %}}
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+シェブロンの色がイタリアと異なる{{% ex "https://goo.gl/maps/wgN8i7tiaDbrrRAV6" "https://goo.gl/maps/tjT4TpDZhg9ZEtY79" "https://goo.gl/maps/YgYyFGWcZ9VSxcSz6" %}}。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/output.jpg" width="104px" style="margin:10px">
+<img src="../italy/r/2023-05-14 041948.png" width="100px" style="margin:10px">
+</div>
 
 {{% notice tip %}}
 ナンバープレートは前後についていて<span class="quiz">水</span>色に見える。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}などを一度考えてみる。
@@ -49,12 +57,11 @@ By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-
 {{% /lb %}}
 
 {{% notice tip %}}
-シェブロンの色がイタリアと異なる（例<a href="https://goo.gl/maps/tjT4TpDZhg9ZEtY79">①</a>・<a href="https://goo.gl/maps/YgYyFGWcZ9VSxcSz6">②</a>）。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+平坦な場所が無く、まっすぐな道もほとんど存在しない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/output.jpg" width="104px" style="margin:10px">
-<img src="../italy/r/2023-05-14 041948.png" width="100px" style="margin:10px">
+<img src="./Valdragone,_San_Marino.jpg" width="90%">
 </div>
 
 
