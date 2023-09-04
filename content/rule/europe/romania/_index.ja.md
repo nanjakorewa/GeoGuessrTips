@@ -93,7 +93,7 @@ sc: [
 <img src="../poland/guardrail.png" width="90%">
 </div>
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニア{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}は標識の裏側が黒っぽい時が多いように思う。
+横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニア{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../san-marino/" "サンマリノ" %}}・{{% goto "../germany/" "ドイツ" %}}は標識の裏側が黒っぽい時が多い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
