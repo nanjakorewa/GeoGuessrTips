@@ -140,7 +140,7 @@ Alexandra Palace Theatreはロンドンの北側にある
             <ul>
                 <li>イングランド：全体的に平坦でウォッシュ湾{{% ex "https://goo.gl/maps/3XmDgz5WDJVKXHLA6" %}}周りに農地が広がる</li>
                 <li>スコットランド：都市部以外は岩場や牧畜が見られる。スコットランド・ゲール語が見つかる。</li>
-                <li>ウェールズ：かつての工業地域であり農業はあまり行われていない。ウェールズの標識があるかも。</li>
+                <li>ウェールズ：かつての工業地域であり農業はあまり行われていない。ウェールズ語の標識があるかも。</li>
             </ul>
         </li>
         <li>白と赤のボラードは<span class="quiz">本土側のスコットランド</span>に多い</li>
@@ -163,7 +163,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /tab %}}
 {{% tab "ウェールズの看板" %}}
 {{% notice tip %}}
-英語で発音できないような綴りなのでわかりやすい。
+英語で発音できないような綴りなのでわかりやすい{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "ウェールズ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road-sign-w.jpg" width="70%">
