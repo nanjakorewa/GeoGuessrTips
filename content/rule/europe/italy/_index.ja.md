@@ -169,7 +169,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 {{% tabs %}}
 {{% tab "市外局番" %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Mappa Prefissi telefonici italiani A.png" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5"><a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a></a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
 </div>
 {{% /tab %}}
