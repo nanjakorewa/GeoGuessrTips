@@ -99,7 +99,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 
 
 {{% notice tip %}}
-通り名の看板が建物の壁に貼ってあることがあり、「<span class="quiz">Rue</span>」と書かれている。他言語のプレートが並んでいることもある。以下は<a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Toulouse市</a>の看板。
+通り名の看板が建物の壁に貼ってあることがあり、「<span class="quiz">Rue</span>」と書かれている。オック語のような他言語のプレートが並んでいることもある。以下は<a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Toulouse市</a>の看板。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -158,34 +158,26 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
             </ul>
         </li>
-        <li>ドイツ語が混ざっていたら{{% goto "../germany/" "ドイツ" %}}の国境近くを検討してみる{{% by "now_and_jenn" "twitch" %}}</li>
-        <li>レンガが多かったら{{% goto "../belgium/" "ベルギー" %}}近くを検討してみる{{% by "now_and_jenn" "twitch" %}}{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
-        <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
+        <li class="no-evidence">Slate{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材が手に入りやすい地域ほど家の屋根が黒っぽい？
             <ul>
-                <li class="no-evidence">菜種の畑は北部に多い</li>
-                <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
-            </ul>
-        </li>
-        <li class="no-evidence">粘板岩（Slate）{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材が手に入りやすい地域ほど家の屋根が黒っぽい？
-            <ul>
+                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
                 <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
                 <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
-                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
             </ul>
         </li>
-        <li>町の名前で地域が分かることがある
-            <ul>
-                <li>ドイツに近い場所では町名に「ett」「heim」といった文字が付いている</li>
-                <li>南西部では町名が「ac」で終わることが多い</li>
-            </ul>
-        </li>
-        <li>コルシカ島は市外局番が『04 95』でコルシカ語との二言語表記の看板がある</li>
+        <li>レンガが多かったら{{% goto "../belgium/" "ベルギー" %}}近くを検討してみる{{% by "now_and_jenn" "twitch" %}}{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
         <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
                 <li>{{% goto "../../africa/reunion/" "レユニオン" %}}</li>
                 <li>{{% goto "../../cs_america/martinique/" "マルティニーク" %}}</li>
                 <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
+            </ul>
+        </li>
+        <li>農業に若干の地域性がある {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
+            <ul>
+                <li class="no-evidence">菜種の畑は北部に多い</li>
+                <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
     </ul>
@@ -212,27 +204,66 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 コメントで教えてもらったついでに作ってみた図。なんとなく `02 9x` で半島に、`05 4x` で結構北に、`04 7x` かどうかで海沿いに行くか行かないか決めるのが役立つ気がする。もちろんすべての地域の４桁目まで覚えられるのが理想かもしれないが個人的にはこの３つ以外覚えるのは無理。
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "ドイツ付近" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682905872096!6m8!1m7!1ssn0pAFtz2m8uMRo79YOTtA!2m2!1d48.84806873294077!2d8.064428634843349!3f282.6398685317409!4f1.8186615655965568!5f2.751626819910011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682905891416!6m8!1m7!1sslmY4VH4xt760Q6TrZ5TOQ!2m2!1d48.84827822634963!2d8.063650970856578!3f355.9701997302268!4f0.48247911656135045!5f3.260620295050523" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "黒い屋根" %}}
+{{% notice tip %}}
+調べた限りだとSlateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていた北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "ベルギー付近" %}}
 {{% notice tip %}}
-レンガばかりで全然違う地域のときもある。
+レンガだけでベルギー近くに寄せた結果、全然違う地域のときもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905708059!6m8!1m7!1st_XQsB86GM6xCG9IUgjMlQ!2m2!1d50.29450643868056!2d4.08535817500789!3f63.98531563426603!4f-3.263060690475413!5f1.165081858696793" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682905789945!6m8!1m7!1sObobzsfl9Eyg1IBdsvVhew!2m2!1d50.48916016063912!2d3.583400011074846!3f168.35502595572592!4f3.8804172341302063!5f1.0879153141619562" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "黒い屋根" %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">言語</h4>
+    <ul class="rule-list">
+        <li>オック語の表記があるならばフランス南部に行ってみる</li>
+        <li>町の名前で地域が分かることがある
+            <ul>
+                <li>ドイツに近い場所では町名に「ett」「heim」といった文字が付いている</li>
+                <li>南西部では町名が「ac」で終わることが多い{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
+            </ul>
+        </li>
+        <li>コルシカ島は市外局番が『04 95』でコルシカ語との二言語表記の看板がある</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "オック語" %}}
+
 {{% notice tip %}}
-調べた限りだとSlateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北部は黒い屋根が多く、特に北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていたピレネー山脈付近・北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
+以下は<a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Toulouse市</a>の看板で下がオック語の表記。
 {{% /notice %}}
+
 <div class="googlemap-if unclickable">
-<img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
+<img src="2023-07-24-12-29-20.png" width="320px"/>
+</div>
+
+
+{{% /tab %}}
+{{% tab "ドイツ付近" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905872096!6m8!1m7!1ssn0pAFtz2m8uMRo79YOTtA!2m2!1d48.84806873294077!2d8.064428634843349!3f282.6398685317409!4f1.8186615655965568!5f2.751626819910011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682905891416!6m8!1m7!1sslmY4VH4xt760Q6TrZ5TOQ!2m2!1d48.84827822634963!2d8.063650970856578!3f355.9701997302268!4f0.48247911656135045!5f3.260620295050523" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "南西部" %}}
+{{% notice tip %}}
+～acという地域名
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693810546357!6m8!1m7!1sGAzcEFoPMQmVb3wh3WySgg!2m2!1d44.88017599483278!2d-0.2953448979698522!3f216.5017906791591!4f1.6717209751151074!5f3.027885662065404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "コルシカ島" %}}

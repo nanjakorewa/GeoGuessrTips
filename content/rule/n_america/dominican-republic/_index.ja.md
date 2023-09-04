@@ -23,8 +23,8 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.do</span></li>
         <li>言語は<span class="quiz">スペイン語</span></li>
+        <li>Googleカーに<span class="quiz">黒色のゴム</span>が見える{{% by %}}</li>
         <li>電柱は<span class="quiz">四角い</span>{{% by %}}</li>
-        <li>Googleカーに<span class="quiz">黒色の４本のゴム</span>が見える{{% by %}}</li>
     </ul>
 </div>
 
@@ -39,8 +39,8 @@ Googleカーに黒色の４本のゴムが見える。
 
 
 {{% notice tip %}}
-見たことある色をメモしていたけれどどうやら自分の家の前の電柱を自分の家の壁と同じ色にすることが多いらしい。
-なので都市ごとの傾向がはっきりあるのか不明だが、サントドミンゴはオレンジやピンクのような派手な色の電柱が多くタクシーの広告がよく貼られているように思う。一応左がサントドミンゴ・右がサンチアゴで見た電柱。
+どうやら自分の家の前の電柱を自分の家の壁と同じ色にすることが多いらしい。
+なので都市ごとの傾向がはっきりあるのか不明。体感ではサントドミンゴはオレンジやピンクのような派手な色の電柱が多くタクシーの広告がよく貼られているように思う。左がサントドミンゴ・右がサンチアゴで見た電柱。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./poles.png" width="100%">
@@ -52,9 +52,6 @@ Googleカーに黒色の４本のゴムが見える。
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681038655380!6m8!1m7!1squcIsTa9lAifWBkmwDCUtA!2m2!1d19.48689530196004!2d-70.66121308573531!3f100.52754817554397!4f-3.4878675176739193!5f2.1823840120346865" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% /tab %}}
 {{% /tabs %}}
@@ -62,7 +59,7 @@ Googleカーに黒色の４本のゴムが見える。
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">北東の方が山がち・全体的に山がちで電柱が地味な色ならサンチアゴかも</li>
-        <li class="no-evidence">逆に北東の方が平ら・電柱が派手な色・タクシーの広告が電柱にたくさん貼ってあるならサントドミンゴかも</li>
+        <li class="no-evidence">周りが山がち・全体的に山がちで電柱が地味な色ならサンチアゴ</li>
+        <li class="no-evidence">周りが平ら・電柱が派手な色・タクシーの広告が電柱にたくさん貼ってあるならサントドミンゴ</li>
     </ul>
 </div>

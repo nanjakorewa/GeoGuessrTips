@@ -210,7 +210,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
                 <li>黒い背景のkm表記は<span class="quiz">オンタリオ</span></li>
             </ul>
         </li>
-        <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い</li>
+        <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
         <li>黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・白とオレンジのコーンは<span class="quiz">ケベック</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
     </ul>
 </div>
@@ -318,8 +318,8 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Awmcphee&quot; title=&quot;Us
 <div class="main-desciption country-description">
     <h4 class="section-title">農業の分布</h4>
     <ul class="rule-list">
-        <li>トウモロコシはトロント周辺に多い</li>
-        <li>データ提供元：<a href="https://www.usda.gov/policies-and-links">U.S. Department of Agriculture(USDA)</a></li>
+        <li>サスカチュワンやアルバータには平らな小麦畑が広がっている</li>
+        <li>トウモロコシはトロント周辺に多い{{% ref "https://www.usda.gov/policies-and-links" "U.S. Department of Agriculture(USDA)" %}}</li>
     </ul>
 </div>
 

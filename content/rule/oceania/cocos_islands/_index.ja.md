@@ -40,7 +40,7 @@ sc: [
 <span class="quiz">ココヤシ</span>の木がどこでも栽培されており道端にココナッツの実か殻のようなものも落ちていることも多い{{% ex "https://goo.gl/maps/kAW6XTsMUuD5WrtcA" "https://goo.gl/maps/E5Ty7yijWQM4ipF56" "https://goo.gl/maps/4Rea5AMbHtUQ5Tr7A" "https://goo.gl/maps/1cWwoR6eRBqYBwYC7" "https://goo.gl/maps/2HVRm5CE8mQEkuAx7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="cocos-tree.png" width="60%" />
+<img src="cocos-tree.png" width="80%" />
 </div>
 
 {{% notice tip %}}
@@ -51,6 +51,14 @@ Google Carが特徴的で右前になにか付いていて特徴的{{% ex "https
 </div>
 <div class="googlemap-if unclickable">
 <img src="cocos-gc.png" width="60%">
+</div>
+
+{{% notice tip %}}
+大型車両はほとんど存在せずバギーのような乗り物が多い。離島であるカリフォルニア州のサンタ・カタリナ島{{% ex "https://goo.gl/maps/qdMFme7wb49LS8b89" %}}や{{% goto "../pitcairn/" "ピトケアン諸島" %}}もバギーが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693802173605!6m8!1m7!1s0MbiYFIp0B9KFSNVk7k6BA!2m2!1d-12.11801584447531!2d96.89675621233285!3f82.80349905893745!4f9.378870757304867!5f0.4000000000000002" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
