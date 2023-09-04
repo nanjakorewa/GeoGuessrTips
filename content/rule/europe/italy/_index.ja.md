@@ -26,7 +26,8 @@ sc: [
         <li>車は右側通行</li>
         <li>ドメインは<span class="quiz">.it</span></li>
         <li>上から見たら黒い▼の形のボラードがある</li>
-        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアなどにある。</li>
+        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアにある</li>
+        <li>角張った板に丸い縁取りの線が描かれた標識が多い</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
         <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
         <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
@@ -58,21 +59,6 @@ sc: [
 <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2046554">Link</a>, 加工あり
 </div>
 
-{{% notice tip %}}
-SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.gl/maps/hvoi3NdSTojafJ7eA" %}}はイタリア特有。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./road-sign.png" width="90%" alt="イタリアの高速道路標識" />
-</div>
-
-{{% notice tip %}}
-そして、道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。イタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./road-sign-from-behind.jpg" width="90%" alt="イタリアの高速道路標識の裏側" />
-</div>
 
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
@@ -87,6 +73,41 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4619704">Wikimedia Commons</a>による
 {{% /lb %}}
 
+
+{{% notice tip %}}
+角張った板に丸い縁取りの線が描かれた標識が多い。道路番号や通り名の看板も同様です。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
+<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
+<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
+<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
+<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
+<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.gl/maps/hvoi3NdSTojafJ7eA" %}}はイタリア特有。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./road-sign.png" width="90%" alt="イタリアの高速道路標識" />
+</div>
+
+
+<div class="googlemap-if unclickable">
+<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
+<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
+</div>
+
+{{% notice tip %}}
+そして、道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。イタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./road-sign-from-behind.jpg" width="90%" alt="イタリアの高速道路標識の裏側" />
+</div>
 
 {{% notice tip %}}
 通り名の看板に「<span class="quiz">Via</span>」と書いてある{{% ex "https://goo.gl/maps/P6HAct9Q6e9GcePy8" "https://goo.gl/maps/Y7DX7mQHE4AUKZKa6" %}}。白い板に青い線の縁取りがある看板が多く{{% ex "https://goo.gl/maps/dLBCkMsRZmDcwgcX7" "https://goo.gl/maps/LMpRA1Hf7YsMGwYg9" %}}、同じ看板は{{% goto "../san-marino/" "サンマリノ" %}}でも見られる。

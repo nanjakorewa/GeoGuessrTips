@@ -77,7 +77,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道路番号の形が特徴的
+道路番号の形が特徴的{{% ex "https://goo.gl/maps/kuWmdS6NhDiQ96L97" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

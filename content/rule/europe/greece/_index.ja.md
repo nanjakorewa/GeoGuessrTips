@@ -58,15 +58,6 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}赤白のものもある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
-<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
-<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
-</div>
-
-{{% notice tip %}}
 電柱が木でできていることが多い{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc8zc6" "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8" "https://goo.gl/maps/wV34ViijQUgqnapj7" "https://goo.gl/maps/QNw2GFSAJTRfC8Lq6" %}}。
 {{% /notice %}}
 
@@ -91,6 +82,15 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <img src="olive.png" width="95%" />
 </div>
 
+
+{{% notice tip %}}
+矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}、稀に赤白のものもある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
+<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
+<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
+</div>
 
 {{% /tab %}}
 {{% tab "標識" %}}
