@@ -3,21 +3,21 @@
 - id: display_setting
   translation: Pengaturan Tampilan
 - id: display_setting_cnt
-  translation: Blur region/country
+  translation: Menerapkan keburaman ke wilayah dan negara
 - id: display_setting_desc
-  translation: Blur descriptions
+  translation: Menerapkan keburaman ke deskripsi
 - id: display_setting_noevidence
-  translation: Hide unknown rules
+  translation: Menyembunyikan aturan yang tidak diketahui
 - id: comment_title
-  translation: Comment
+  translation: Komentar
 - id: comment_name
-  translation: Name
+  translation: Nama
 - id: comment_submit
-  translation: submit
+  translation: kirimkan
 - id: comment_notice
-  translation: ※Comments will appear after approval. Please do not enter any personal information.
+  translation: ※Komentar akan muncul setelah disetujui. Mohon jangan memasukkan informasi pribadi apa pun.
 - id: comment_complete
-  translation: Thank you for your comment. Your comment will appear after approval.
+  translation: Terima kasih atas komentar Anda. Komentar Anda akan muncul setelah disetujui.
 - id: size-change
   translation: Change font size
 - id: size-s
@@ -27,56 +27,54 @@
 - id: size-l
   translation: large
 - id: rel-site
-  translation: Related Pages
+  translation: Halaman Terkait
 - id: rule-of-distinguish
-  translation: How to identify countries and regions in 
+  translation: Cara mengidentifikasi negara dan wilayah
 - id: how-to-distinguish
-  translation: How to Distinguish
+  translation: Bagaimana Membedakan
 - id: narrow-down-the-area
-  translation: Narrow down state/region
+  translation: Mempersempit status dan wilayah panah
 - id: narrow-down-the-city
-  translation: Narrow down city/town
+  translation: Mempersempit kota
 - id: toppage
-  translation: Home
+  translation: Beranda
 - id: page-title
-  translation: My GeoGuessr Memo
+  translation: Memo GeoGuessr saya
 - id: w-etf
-  translation: Easy-to-find landmarks
+  translation: Tengara yang mudah ditemukan
 - id: w-viecle
-  translation: Vehicle
+  translation: Kendaraan
 - id: w-building
   translation: Building
 - id: w-commercial
-  translation: Commercial Facilities
+  translation: Bangunan
 - id: w-googlecar
-  translation: Google Car
+  translation: Mobil Google
 - id: w-bollard
   translation: Bollard
 - id: w-utility-pole
-  translation: Utility Pole
+  translation: Tiang Utilitas
 - id: w-signs
-  translation: Signs
+  translation: Tanda-tanda
 - id: w-road
-  translation: Road
+  translation: Jalan
 - id: w-plant
-  translation: Plant
+  translation: Tanaman
 - id: w-music
   translation: 🎵
 - id: has_unique_bollard
   translation: ""
 - id: has_unique_googlecar
-  translation: distinctive GoogleCar
+  translation: GoogleCar yang khas
 - id: has_trekker
-  translation: many trekker
-- id: has_unique_googlecar
-  translation: References
+  translation: banyak trekker
 - id: findable-road-sign
-  translation: Signs you can find
+  translation: Tanda-tanda yang dapat Anda temukan
 - id: w-mymemo-wrong-cn
   translation: Difficult place
 - id: show_mymemo_button
   translation: Display personal memo
 - id: display_meaning
-  translation: icon
+  translation: arti ikon
 - id: streaming_status
-  translation: streaming status
+  translation: status streaming
