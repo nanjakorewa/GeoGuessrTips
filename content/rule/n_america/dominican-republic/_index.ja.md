@@ -45,14 +45,6 @@ Googleカーに黒色の４本のゴムが見える。
 <div class="googlemap-if unclickable">
 <img src="./poles.png" width="100%">
 </div>
-
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688184946199!6m8!1m7!1szUGf2oX2VYrx4wGl4_T7fA!2m2!1d18.49617685482304!2d-69.90707459329121!3f23.727634144042035!4f-9.094777794373243!5f3.0913181505019067" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-road" %}}
-
 {{% /tab %}}
 {{% /tabs %}}
 
