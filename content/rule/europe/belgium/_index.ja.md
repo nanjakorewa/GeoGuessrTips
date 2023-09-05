@@ -96,7 +96,7 @@ sc: [
     <ul class="rule-list">
         <li>通り名や町の境界にある看板のロゴ・使われている言語を見たら地域がわかることがある
             <ul>
-                <li>北のフラマン語共同体は<span class="quiz">オランダ</span>語を使い、ロゴにブラバント公の紋章がある</li>
+                <li>北のフラマン語共同体は<span class="quiz">オランダ</span>語を使い、ロゴにブラバント公の紋章がある。南にもブラバント公の紋章がある。</li>
                 <li>南の<span class="quiz">フランス</span>語共同体は<span class="quiz">フランス</span>語を使い、ロゴに雄鶏の紋章がある</li>
                 <li>図にはないがLiègeの最も東の地域にある<span class="quiz">ドイツ</span>語共同体はリプアーリ語を使う{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%97%E3%82%A2%E3%83%BC%E3%83%AA%E8%AA%9E" "リプアーリ語" %}}</li>
                 <li>{{% ref "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}</li>
@@ -112,6 +112,26 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-en.svg#/media/ファイル:Provinces_of_Belgium_with_CoA-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Provinces_of_Belgium_with_CoA-en.svg/1200px-Provinces_of_Belgium_with_CoA-en.svg.png" alt="Provinces of Belgium with CoA-en.svg" width="80%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Lordsutch" title="User:Lordsutch">Lordsutch</a>, based on Greek version by <a href="//commons.wikimedia.org/wiki/User:Wikibelgiaan" title="User:Wikibelgiaan">Wikibelgiaan</a> - <a href="//commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-el.svg" title="File:Provinces of Belgium with CoA-el.svg">File:Provinces_of_Belgium_with_CoA-el.svg</a>, </p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60005619">（Link）</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>通り名や町の境界にある看板に自治体名も書かれていることがある{{% ex "https://goo.gl/maps/tEWSjB5SCj5B6dUw5" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "看板のロゴ" %}}
+{{% notice tip %}}
+小さく書いてあるので見えないことも多い。左の看板の場合、右上のロゴから南の地域と分かる。地名の『Martelange{{% ex "https://goo.gl/maps/2vZj9M9wfCjH6UAs6" %}}』を見つけられればさらに絞り込める。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./martelange_streetsign_umfockeknapp.jpg" width="307px">
+<img src="./plaque_rue_etterbeek_boileau.jpg" width="310px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
