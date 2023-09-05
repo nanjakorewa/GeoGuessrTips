@@ -206,7 +206,7 @@ hasChildren = true
 languageName = "id"
 languageCode = "id"
 weight = 3
-copyright = "Ini adalah tempat penyimpanan (hampir seperti buku harian) untuk mengatur penanda ketika bermain GeoGuessr. Semua nama perusahaan, produk, dan layanan (logo, dll.) yang disebutkan di sini adalah merek dagang atau merek dagang terdaftar dari masing-masing pemiliknya. Anda dapat mengubah beberapa teks dengan mengeklik pengaturan tampilan di sudut kiri atas. </br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Kebijakan Privasi・Tentang halaman ini</a>"
+copyright = "Ini adalah tempat penyimpanan (hampir seperti buku harian) untuk mengatur penanda ketika bermain GeoGuessr. Semua nama perusahaan, produk, dan layanan (logo, dll.) yang disebutkan di sini adalah merek dagang atau merek dagang terdaftar dari masing-masing pemiliknya. Anda dapat mengubah beberapa teks dengan mengeklik pengaturan tampilan di sudut kiri atas. </br>©2023 nanenkorewa. | <a href='https://geopinning.space/id/about/'>Kebijakan Privasi・Tentang halaman ini</a>"
 
 # banner
 [Languages.id.params.banner]
@@ -255,7 +255,7 @@ hasChildren = true
 languageName = "es"
 languageCode = "es"
 weight = 4
-copyright = "Se trata de un repositorio (casi un diario) para organizar los marcadores cuando se juega a GeoGuessr. Todos los nombres de empresas, productos y servicios (logotipos, etc.) aquí mencionados son marcas comerciales o marcas registradas de sus respectivos propietarios. Puede hese parte del texto haciendo clic en los ajustes de visualización de la esquina superior izquierda. </br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Política de privacidad・Acerca de esta página</a>"
+copyright = "Se trata de un repositorio (casi un diario) para organizar los marcadores cuando se juega a GeoGuessr. Todos los nombres de empresas, productos y servicios (logotipos, etc.) aquí mencionados son marcas comerciales o marcas registradas de sus respectivos propietarios. Puede hese parte del texto haciendo clic en los ajustes de visualización de la esquina superior izquierda. </br>©2023 nanenkorewa. | <a href='https://geopinning.space/es/about/'>Política de privacidad・Acerca de esta página</a>"
 
 # banner
 [Languages.es.params.banner]
