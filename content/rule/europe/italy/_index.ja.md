@@ -206,7 +206,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tabs %}}
 {{% tab "Pantelleria" %}}
 {{% notice tip %}}
-パンテッレリーア島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い。ストリートビューの例<a href="https://goo.gl/maps/DBMbksyBRYUx1tLKA">①</a>・<a href="https://goo.gl/maps/95SL83VW7JgrG1Pz7">②</a>。
+パンテッレリーア島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/piedozzino/300904439/in/photolist-sAdpz-4baGzJ-4b6Cet-4baF97-4bb4xU-4b79J8-SAihPE-4b7cgP-4b6Sp8-yZEVDt-jeDJd-4b6Zfg-4JQF3g-4b72ra-4bazcL-4bb2tW-4b6xec-4b6Dv2-4b6JAF-4b778z-6HtsHg-4b6tji-4b74B2-4baZ2U-4b6rVe-4baXoJ-4baSr9-4b6T8Z-4baBw7-4b7buT-4b7146-5hRmkR-4bas3E-4b6zir-SsCnSk-4b6U2V-4bayAL-SqawJL-4baxky-SAii9Y-4bawFj-SAigwj-SDYmED-oQxwy-4JQEQ6-4baHVQ-sAdr1-4JQEyz-32CoDE-4JQGh8" title="pantelleria"><img src="https://live.staticflickr.com/107/300904439_4790b43ae6_z.jpg" width="640" height="426" alt="pantelleria"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
