@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボラードはいろいろな種類があり一貫性がない。反射板がふたつ付いている見慣れない形のもの{{% ex "https://goo.gl/maps/2qLweYvAgDvTPg7E8" "https://goo.gl/maps/EPQUsyFNjLWHbqEC6" %}}はエクアドルかも？
+ボラードはいろいろな種類があり一貫性がない。反射板がふたつ付いている見慣れない形のもの{{% ex "https://goo.gl/maps/PsSdjnqAVBVKiffVA" "https://goo.gl/maps/2qLweYvAgDvTPg7E8" %}}はエクアドルかも？
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
