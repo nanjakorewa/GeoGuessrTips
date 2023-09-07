@@ -31,7 +31,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-歩道を歩ている感じの場所が多い。ナンバープレートは参考文献にあるようにさまざまな色がある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Lebanon" "Vehicle registration plates of Lebanon" %}}けれど基本はEUにあるような青色。
+歩道や大学構内を歩ていることが多い。ナンバープレートは参考文献にあるようにさまざまな色がある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Lebanon" "Vehicle registration plates of Lebanon" %}}けれど基本はEUにあるような青色{{% ex "https://goo.gl/maps/pZy2ZrSFj8sEzxGz7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

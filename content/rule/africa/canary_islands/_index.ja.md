@@ -53,7 +53,7 @@ sc: [
 
 
 {{% notice tip %}}
-山がなんだか丸みを帯びているときがある{{% ex "https://goo.gl/maps/8NXZkYvbWTU7Fq3A9" "https://goo.gl/maps/BRBSXVZSQoxvtcPY9" "https://goo.gl/maps/SFecAx5xcNUW4UwP7" "https://goo.gl/maps/wT4zDtvESE34nEpJ9" %}}？また火山でできた島であり土が黒いところがある{{% ex "https://goo.gl/maps/dC2XaE7HtwnafV5U8" "https://goo.gl/maps/saVrkLuJSnvsLXUV9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2%E8%AB%B8%E5%B3%B6" "カナリア諸島" %}}。
+山がなんだか丸みを帯びているときがある{{% ex "https://goo.gl/maps/8NXZkYvbWTU7Fq3A9" "https://goo.gl/maps/BRBSXVZSQoxvtcPY9" "https://goo.gl/maps/SFecAx5xcNUW4UwP7" "https://goo.gl/maps/wT4zDtvESE34nEpJ9" %}}？また火山でできた島であり土が黒いことが多い{{% ex "https://goo.gl/maps/TgtopsQNoJhLaKNy5" "https://goo.gl/maps/dC2XaE7HtwnafV5U8" "https://goo.gl/maps/saVrkLuJSnvsLXUV9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2%E8%AB%B8%E5%B3%B6" "カナリア諸島" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/11261062@N00/32302160525/in/photolist-Rdr1Wa-21dZfZd-Qkv7ZD-GaQ1rE-E8R9t1-QMWonJ-F7scvC-KmQ17f-HGWpxE-TDQe61-R17ZxT-MhmnRX-WS4kzi-FreDks-2biT9mo-288upDQ-29YBjkU-KmQ1ZC-nvWys7-bfy9Qg-242Ergp-NYBJ8y-KmPXhN-Qx6BMD-nfW8RR-nvnPZu-KmPV8C-DbZ2XC-KmQ2nm-KmPXxh-KtoWDL-KmQ1hL-HGUj3e-JD8y3R-N1jEUk-B8Fsk4-JBo2N8-23N1o7w-92dNMG-hsW9k-K69VQq-o6jfD7-29Zt8ZJ-P3a4rF-25Hsmbm-KtoWUA-KLcGve-KmPVS3-KmQ37C-2aYxeUQ" title="Lanzarote"><img src="https://live.staticflickr.com/683/32302160525_831acf3a88_z.jpg" width="640" height="427" alt="Lanzarote"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

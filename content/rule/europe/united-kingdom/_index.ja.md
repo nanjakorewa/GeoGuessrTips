@@ -90,6 +90,14 @@ Public Domain
 </div>
 
 {{% /tab %}}
+{{% tab "道路" %}}
+{{% notice tip %}}
+イギリスと{{% goto "../ireland/" "アイルランド" %}}は道路にキャッツアイが多い{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}。1934 年にイギリスで発明され、イギリス・アイルランド・ニュージーランドなどで使用される。しかし他のヨーロッパの国ではほとんど使用されない{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "キャッツアイ（道路）" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./640px-LIGHTDOME.jpg">
+</div>
+{{% /tab %}}
 {{% tab "🎵" %}}
 {{% notice tip %}}
 Alexandra Palace Theatreはロンドンの北側にある
