@@ -4,7 +4,7 @@ date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
 draft: false
-keywords: ["スワジランド"]
+keywords: ["Swaziland"]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "SZ.svg"
@@ -16,21 +16,29 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domain is <span class="quiz">.sz</span></li>
-        <li>Road numbers are marked with <span class="quiz">MR</span>.</li>
-        <li>Poles are often made of dark brownish thin wood.</li>
-        <li>The entire country is slanted with highlands (1500m elevation) in the west and lowlands (200m elevation) in the east.</li>
-        <li>Eswatini is divided into High Belt, Middle Belt, and Low Belt according to altitude, with different forms of agriculture.</li>
-        <li class="no-evidence">Sometimes <span class="quiz">sugar cane</span> is grown in the Lowveld.</li>
-        <li class="no-evidence">In the Highveld, <span class="quiz">pine and eucalyptus forestry is practiced and plantation forests</span> exist.</li>
-        <li class="no-evidence">When you're in the Lowveld, you can often see the landscape far to the north and south, but not far enough to the east and west.</li>
+        <li>The domain is <span class="quiz">.sz</span>.</li>
+        <li>Road numbers are <span class="quiz">MR</span>.</li>
+        <li>Poles are often made of dark brownish thin wood</li>
+        <li>The lower half of the license plate appears yellowish green.</li>
+        <li class="no-evidence">With its low elevation, the Lowveld is flat and the entire country is slanted, so when you are on a road in the Lowveld, you can often see far to the north and south, but not far to the east and west.</li>
+        <li class="no-no-evidence">Unlike {{% goto ". /lesotho/" "レソト" %}}, forestry is done at higher elevations and you should be able to see plantations.</li>
     </ul>
-    {{% rd cs_america chile verysmall %}}
+    {{% rd africa eswatini verysmall %}}
 </div>
 
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+
+{{% notice tip %}}
+Eswatini has a lot of thin grass like this{{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><img src="./road.png" /></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
+</div>
 
 {{% notice tip %}}
 The poles are made of dark brown thin wood, strung with one to three cords.
@@ -41,21 +49,18 @@ The poles are made of dark brown thin wood, strung with one to three cords.
 </div>
 
 {{% notice tip %}}
-It is divided into High Belt, Middle Belt, and Low Belt according to elevation, each with different forms of agriculture. Sugarcane may be grown in the Low Belt.
+The license plate appears to be white and yellowish-green. Note that license plates used in central {{% goto "../south-africa/" "South Africa" %}} also appear to be the same color.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682436625448!6m8!1m7!1saJY6MDzb1xARd9CzJv9kxw!2m2!1d-26.76722330154598!2d31.92291092356511!3f53.1599899823355!4f-4.437015220855059!5f2.872764259751242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682438551149!6m8!1m7!1sDF3hfswFXEYScwkJ7fGCcg!2m2!1d-26.8343591585108!2d31.9723227159364!3f255.36907997395818!4f-11.809296463198066!5f1.455857875479618" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686315521446!6m8!1m7!1sx2W_8QdSo1XWfGZuW7m0rw!2m2!1d-26.38619079032152!2d31.17023469102327!3f68.27969989031288!4f-27.929373629586024!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
-{{% notice tip %}}
-Pine and eucalyptus forestry is practiced in the Highveld and plantations exist. Even if there is no forest, there may be evidence of deforestation.
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682437918561!6m8!1m7!1su4hFvVYT2FiC5uoEuBVJpg!2m2!1d-26.99985045048718!2d31.24975573404177!3f195.39575852855015!4f4.358548636269049!5f1.5956652534074234" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682437875329!6m8!1m7!1sd8eq9WtszCHu406Awkv2yg!2m2!1d-26.59319998991595!2d30.93987315666483!3f291.904046917961!4f-8.515279937503635!5f3.3241210508286905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{{% lb 50 %}}
+![](2023-06-09-22-00-36.png)
+
+By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers">Dickelbers</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45400340">Link</a>
+{{% /lb %}}
 
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -66,10 +71,45 @@ Pine and eucalyptus forestry is practiced in the Highveld and plantations exist.
 {{% /tab %}}
 {{% tab "Elevation" %}}
 {{% notice tip %}}
-西側が高地（標高1500m）で東側が低地（標高200m）と国全体が斜めになっている。
+The entire country is slanted, with the highlands (1,500 meters above sea level) in the west and the lowlands (200 meters above sea level) in the east.
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="2023-04-21-05-06-55.png">
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>The area is divided into the Lowveld, Midveld, and Highveld according to elevation, with different types of agriculture.</li>
+        <li class="no-evidence">Sometimes <span class="quiz">sugar cane</span> is grown in the Lowveld.</li>
+        <li class="no-evidence">In the Highveld, pine and eucalyptus forestry is practiced and plantation forests exist.</li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "Lowveld" %}}
+
+{{% notice tip %}}
+The area is divided into the Lowveld, Midveld, and Highveld according to elevation, with different types of agriculture. Sometimes <span class="quiz">sugar cane</span> is grown in the Lowveld.
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682436625448!6m8!1m7!1saJY6MDzb1xARd9CzJv9kxw!2m2!1d-26.76722330154598!2d31.92291092356511!3f53.1599899823355!4f-4.437015220855059!5f2.872764259751242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682438551149!6m8!1m7!1sDF3hfswFXEYScwkJ7fGCcg!2m2!1d-26.8343591585108!2d31.9723227159364!3f255.36907997395818!4f-11.809296463198066!5f1.455857875479618" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Highveld" %}}
+{{% notice tip %}}
+In the Highveld, pine and eucalyptus forestry is practiced and plantation forests exist.
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682437918561!6m8!1m7!1su4hFvVYT2FiC5uoEuBVJpg!2m2!1d-26.99985045048718!2d31.24975573404177!3f195.39575852855015!4f4.358548636269049!5f1.5956652534074234" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682437875329!6m8!1m7!1sd8eq9WtszCHu406Awkv2yg!2m2!1d-26.59319998991595!2d30.93987315666483!3f291.904046917961!4f-8.515279937503635!5f3.3241210508286905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
