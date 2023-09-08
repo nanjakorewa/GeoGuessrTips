@@ -51,6 +51,10 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683963780675!6m8!1m7!1sremIfuDbmWalGIKBTjKivA!2m2!1d38.67007298609807!2d-27.25227159930157!3f356.2550419252415!4f-4.228255989906202!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Town_of_Sete_Cidades,_S%C3%A3o_Miguel_island,_Azores_(Portugal).jpg#/media/File:Town_of_Sete_Cidades,_São_Miguel_island,_Azores_(Portugal).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Town_of_Sete_Cidades%2C_S%C3%A3o_Miguel_island%2C_Azores_%28Portugal%29.jpg" alt="Town of Sete Cidades, São Miguel island, Azores (Portugal).jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Goooncalo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Goooncalo (page does not exist)">Gonçalo Torres</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=107232536">Link</a></p>
+</div>
+
 {{% notice tip %}}
 石壁とアジサイのような花がたくさん見られる{{% ex "https://goo.gl/maps/wu3pzy517qpZ37dZ7" "https://goo.gl/maps/aXg4GMMNF37erStv7" "https://goo.gl/maps/RvA1S8VT8s3DghFu6" "https://goo.gl/maps/zGmRQnYLoZGdg1F58" "https://goo.gl/maps/iSvTtk9k2qxKod5f6" "https://goo.gl/maps/SUvfjQZWKoPZBAHq7" "https://goo.gl/maps/wcWVpPCxzjET4ghw5" %}}
 {{% /notice %}}
