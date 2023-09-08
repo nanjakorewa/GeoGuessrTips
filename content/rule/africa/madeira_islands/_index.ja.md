@@ -27,6 +27,7 @@ sc: [
         <li>コンクリート製の特徴的な見た目の欄干やボラードがある</li>
         <li>エリアコードは<span class="quiz">291</span></li>
         <li class="no-evidence">海上の湿った空気と貿易風がぶつかることで霧が発生しやすい</li>
+        <li class="no-evidence">{{% goto "../../europe/azores/" "アゾレス諸島" %}}よりも起伏が激しい</li>
     </ul>
 </div>
 
@@ -54,7 +55,7 @@ sc: [
 
 
 {{% notice tip %}}
-コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
+コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -63,11 +64,22 @@ sc: [
 
 
 {{% notice tip %}}
-こんな感じの紫や白の花が咲いている{{% ex "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
+こんな感じの紫や白の花が咲いている{{% ex "https://goo.gl/maps/GRGteJ8Bc1GmtFZu5" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/136921721@N07/43735686211/in/photolist-29CLPMn-Zq6ZJQ-RHrAZt-27K6F1h-QPdRqW-28z77wj-25uUdzW-YrHqVz-PJ9ZBU-K3hNcQ-PJ9ZCf-H5GPCk-29Aww88-R1voDx-eck3pc-28ndCuY-coYWTG-ad1eeF-26uEK3s-J9ofyR-iKNDfi-coYYhf-2fxEqUx-szPwpw-coYVCY-coYZw7-2364inF-9nXCFZ-JsGuAK-DRpPTd-KHQwHW-27EsKfB-77FP6Z-VwK7nf-byRYXc-V5cZGJ-FjGUjf-coZ3c3-2a8EVGA-VpSNtu-pKfDzz-E1hfex-R1v6Yi-VwK7fb-ATRCEB-xCf4Zz-SYrrE7-LP1PY9-EXrFDU-eAyWHG" title="Madeira"><img src="https://live.staticflickr.com/940/43735686211_3bf78d82b8_z.jpg" width="640" height="427" alt="Madeira"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
+
+
+{{% notice tip %}}
+他の写真からも分かるように、島は風化や侵食により形成された丘と谷があり地形が平坦ではない{{% ex "https://goo.gl/maps/H9tLit1jECWetWL3A" "https://goo.gl/maps/1gtjrgFsn98fgXVU8" "https://goo.gl/maps/cxfQRS4j7nKCrVQ47" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6" "マデイラ諸島" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./madeira_funchal_panorama_647920.jpg" width="95%">
+</div>
+
+
 {{% /tabs %}}

@@ -44,7 +44,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-白い壁の低い家・パステルカラーの壁・濃い緑色のドアや窓の家が多い気がする{{% ex "https://goo.gl/maps/P2NLdeEh6YNjjBU47" "https://goo.gl/maps/aegQdPQdkA5wSKQv8" "https://goo.gl/maps/uWR4D7WNamyrbJUT6" "https://goo.gl/maps/A2H59zJVj2prYSxKA" "https://goo.gl/maps/CbN2mvVxh2hGpWKS7" "https://goo.gl/maps/rZ99n4gzmTCHUTNb9" %}}。また住宅街には高い建物はほとんどなく平屋も多い。
+白い壁の低い家・パステルカラーの家が多い気がする{{% ex "https://goo.gl/maps/P2NLdeEh6YNjjBU47" "https://goo.gl/maps/aegQdPQdkA5wSKQv8" "https://goo.gl/maps/uWR4D7WNamyrbJUT6" "https://goo.gl/maps/A2H59zJVj2prYSxKA" "https://goo.gl/maps/CbN2mvVxh2hGpWKS7" "https://goo.gl/maps/rZ99n4gzmTCHUTNb9" %}}。住宅街には高い建物はほとんどなく平屋も多い。また、アゾレス諸島と{{% goto "../africa/madeira_islands/" "マデイラ諸島" %}}は濃い緑色のドアや窓の家が多いように思う。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683963487643!6m8!1m7!1sFiDnAseZnm6Ui_6e3EPVrw!2m2!1d38.66517976348365!2d-27.21827223146803!3f108.13412709709209!4f-2.405475486478096!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
