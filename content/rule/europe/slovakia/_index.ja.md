@@ -54,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-家の番地が<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。一方で<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも。{{% ex "https://goo.gl/maps/38pCS6p63QMBLC2HA" "https://goo.gl/maps/grNrZEVhiEBurcZH9" %}}{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。100%当たるわけではない。
+家の番地が<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い。一方で<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも{{% ex "https://goo.gl/maps/38pCS6p63QMBLC2HA" "https://goo.gl/maps/grNrZEVhiEBurcZH9" %}}{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。100%当たるわけではない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -62,9 +62,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-主に色が付いている看板について、<span class="quiz">チェコ</span>の標識は背景色と同じ縁がある時が多いが<span class="quiz">スロバキア</span>はない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
-上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>。
+いくつかの看板は<span class="quiz">チェコ</span>の標識は背景色と同じ縁がある時が多いが<span class="quiz">スロバキア</span>はない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
+上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>{{% ex "https://goo.gl/maps/Pav9NKUHbtZ7G9W98" %}}。
 {{% /notice %}}
+
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
 <div class="googlemap-if unclickable" style="margin-bottom:0;">
 <img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
@@ -79,9 +80,44 @@ sc: [
 </div>
 </div>
 
+<div class="googlemap-if no-margin">
+    <table class="compare-table">
+        <tr>
+            <td>看板の種類</td>
+            <td>チェコ</td>
+            <td>スロバキア</td>
+        </tr>
+        <tr>
+            <td>町の出入り口</td>
+            <td>{{% ex "https://goo.gl/maps/k4XobNGjzneCvVYz5" "https://goo.gl/maps/Hv89ZwMiRmLAcMzc6" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/Pav9NKUHbtZ7G9W98" "https://goo.gl/maps/Jp4m77EggKmJfQHR9" %}}</td>
+        </tr>
+        <tr>
+            <td>横断歩道</td>
+            <td>{{% ex "https://goo.gl/maps/Ux8gQ9hug4LuXHXH6" "https://goo.gl/maps/yT4f15LYfeSAuVj59" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/dxmfAofe4Sxr1bkw5" "https://goo.gl/maps/4W25mARVPosmwXvg7" %}}</td>
+        </tr>
+        <tr>
+            <td>ZONE</td>
+            <td>{{% ex "https://goo.gl/maps/Ah2PQvPyw5QA5BU76" "https://goo.gl/maps/t2r19f3rSEQ7FcLQ8" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/wpsw2wpdXHCTq9wo8" %}}</td>
+        </tr>
+        <tr>
+            <td>道路案内の看板</td>
+            <td>{{% ex "https://goo.gl/maps/SuCVQYd6exfiy3Kb8" "https://goo.gl/maps/WAfnhg8PahR6JHgz9" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/BNVFf3SHX8NptyvL6" "https://goo.gl/maps/tUCsBHEt5dti6gh46" %}}</td>
+        </tr>
+        <tr>
+            <td>道路番号</td>
+            <td>{{% ex "https://goo.gl/maps/8RQjEuU5XtvdHQSL6" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/V51ghp1TZdiAiz9v9" "https://goo.gl/maps/SiMAJgRD2KgavPEu8" %}}</td>
+        </tr>
+    </table>
+</div>
+
 
 {{% notice tip %}}
-{{% goto "../czechia/" "チェコ" %}}とスロバキアの平坦な場所はこんな感じの並木道が見られる（例<a href="https://goo.gl/maps/6hymKRijkvboMRaq7">①</a>）。片側だけの場合もある（例<a href="https://goo.gl/maps/MeoR99KZkJBwU8Hn6">①</a>・<a href="https://goo.gl/maps/wTeST8grYsbvRq8v9">②</a>）。
+{{% goto "../czechia/" "チェコ" %}}とスロバキアの平坦な場所はこんな感じの並木道が見られる{{% ex "https://goo.gl/maps/6hymKRijkvboMRaq7" %}}。片側だけの場合もある{{% ex "https://goo.gl/maps/MeoR99KZkJBwU8Hn6" "https://goo.gl/maps/wTeST8grYsbvRq8v9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

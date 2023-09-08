@@ -1321,3 +1321,13 @@ span.miss-text {
   font-weight: bold;
   font-size: 0.8em;
 }
+
+table.compare-table {
+  margin-top:1em;
+  width: 90%;
+}
+
+table.compare-table tr td {
+  font-size: 0.8em;
+  text-align: center;
+}

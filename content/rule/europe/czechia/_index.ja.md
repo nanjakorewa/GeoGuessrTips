@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-チェコの道路案内の看板はこんな感じの看板を使用する。{{% goto "../slovakia/" "スロバキア" %}}の看板は矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。「<span class="quiz">Ů・ů</span>」がある場合もチェコになる。
+チェコの道路案内の看板はこんな感じの看板を使用する{{% ex "https://goo.gl/maps/vxMweJojW93h89p69" %}}。{{% goto "../slovakia/" "スロバキア" %}}の看板は矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。「<span class="quiz">Ů・ů</span>」がある場合もチェコになる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
