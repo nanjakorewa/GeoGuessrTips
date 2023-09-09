@@ -658,7 +658,19 @@ tbody {
   padding: 10px;
 }
 
+/*
 .notices p::before {
+  position: absolute;
+  top: 2px;
+  color: #fff;
+  font-family: "themify";
+  font-weight: 900;
+  content: "\e717";
+  left: 10px;
+}
+*/
+
+.notices.info p::before, .notices.warning p::before, .notices.denger p::before {
   position: absolute;
   top: 2px;
   color: #fff;
@@ -691,10 +703,13 @@ tbody {
 }
 
 .notices.tip p {
-  border-top: 30px solid #78C578;
-  background: #E6F9E6;
+  background: #F0F0F0;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #4F709C;
 }
 
+/*
 .notices.tip p::after {
   content: 'Tip';
   position: absolute;
@@ -702,6 +717,7 @@ tbody {
   color: #fff;
   left: 2rem;
 }
+*/
 
 .notices.info p {
   border-top: 30px solid #F0B37E;

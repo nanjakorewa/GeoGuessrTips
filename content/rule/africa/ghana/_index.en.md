@@ -53,7 +53,6 @@ If you look down you will find <span class="quiz">black gummed tape wrapped</spa
 </div>
 
 
-
 {{% notice tip %}}
 The cabs are painted in a unique {{% ex "https://goo.gl/maps/VHdy9LdK68cffo2v8" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}} and <span class="quiz">yellow</span> color license plate numbers. Cabs are not equipped with a fare meter, and the fare is determined by negotiation at the time of boarding (however, if you use Uber, the fare is determined in advance).
 {{% /notice %}}
@@ -102,7 +101,7 @@ The cabs are painted in a unique {{% ex "https://goo.gl/maps/VHdy9LdK68cffo2v8" 
 Oil palm and banana trees are common in the south. If these trees are not available, try to place them in the north.
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "市外局番" %}}
+{{% tab "Area code" %}}
 <div class="googlemap-if unclickable">
 <img src="./ghana_regional_phone_codes.jpg" alt="ガーナの市外局番" width="70%" />
 </div>

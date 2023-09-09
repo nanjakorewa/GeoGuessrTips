@@ -85,6 +85,28 @@ code.language-css span {
   margin-right: 1em;
 }
 
+.code-tabs-colored .nav-tabs .nav-item:nth-child(1) {
+  background-color: #1D5B79;
+}
+.code-tabs-colored .nav-tabs .nav-item:nth-child(2) {
+  background-color: #EF6262;
+}
+.code-tabs-colored .nav-tabs .nav-item:nth-child(3) {
+  background-color: #85A389;
+}
+.code-tabs-colored .nav-tabs .nav-item:nth-child(4) {
+  background-color: #068DA9;
+}
+.code-tabs-colored .nav-tabs .nav-item:nth-child(5) {
+  background-color: #F29727;
+}
+.code-tabs-colored .nav-tabs .nav-item:nth-child(6) {
+  background-color: #EF6262;
+}
+.code-tabs-colored .nav-tabs .nav-item:nth-child(7) {
+  background-color: #EF6262;
+}
+
 div.notices:first-child {
   margin: 0 !important;
 }
@@ -94,7 +116,7 @@ div.notices a:hover {
 }
 
 div[title="わかりやすい目印"] div.notices {
-  margin: 4em 0 0 0!important;
+  margin: 2em 0 0 0!important;
 }
 
 div[title="わかりやすい目印"] div.notices:first-child {
@@ -517,6 +539,49 @@ ul.rule-list {
   font-size: 1em;
 }
 
+ul.rule-list li::before{
+  height: 10px;
+  width: 10px;
+  opacity: 0.3;
+}
+
+ul.rule-list-colored li::before{
+  height: 10px;
+  width: 10px;
+  opacity: 1;
+}
+
+ul.rule-list-colored > li:nth-child(1)::before{
+  background: #1D5B79 !important;
+}
+ul.rule-list-colored > li:nth-child(2)::before{
+  background: #EF6262 !important;
+}
+ul.rule-list-colored > li:nth-child(3)::before{
+  background: #85A389 !important;
+}
+ul.rule-list-colored > li:nth-child(4)::before{
+  background: #068DA9 !important;
+}
+ul.rule-list-colored > li:nth-child(5)::before{
+  background: #F29727 !important;
+}
+ul.rule-list-colored > li:nth-child(6)::before{
+  background: #1D5B79 !important;
+}
+ul.rule-list-colored > li:nth-child(7)::before{
+  background: #1D5B79 !important;
+}
+
+ul.rule-list-colored li > ul li::before{
+  height: 10px;
+  width: 10px;
+  opacity: 0.3;
+  background: #000 !important;
+  border-radius: 0;
+}
+
+
 ul.rule-list-none {
   font-size: 1em;
   list-style: none;
@@ -583,13 +648,13 @@ ul.rule-list li i {
   list-style: none;
 }
 
+/*
 .content ul.rule-list li.no-evidence::before {
   font-family: "Font Awesome 5 Free";
   content: "\f059";
   background: rgb(0, 0, 0, 0);
-  margin-top: 0;
-  top: 0em;
 }
+*/
 
 a.by-twitch {
   color: #59005c;
