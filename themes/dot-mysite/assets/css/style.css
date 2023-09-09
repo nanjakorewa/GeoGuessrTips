@@ -670,7 +670,7 @@ tbody {
 }
 */
 
-.notices.info p::before, .notices.warning p::before, .notices.denger p::before {
+.notices.info p::before, .notices.warning p::before, .notices.denger p::before, .notices.note p::before {
   position: absolute;
   top: 2px;
   color: #fff;
