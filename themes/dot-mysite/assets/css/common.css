@@ -116,7 +116,11 @@ div.notices a:hover {
 }
 
 div[title="わかりやすい目印"] div.notices {
-  margin: 2em 0 0 0!important;
+  margin: 3.0em 0 0 0!important;
+}
+
+div[title="わかりやすい目印"] div.notices.info {
+  margin: 0 0 3.5em 0!important;
 }
 
 div[title="わかりやすい目印"] div.notices:first-child {

@@ -41,7 +41,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
+標識の裏が<b>フラットな感じ</b>{{% ex "https://goo.gl/maps/Zr4StyUdtfZ5TYQHA" "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -51,8 +51,13 @@ sc: [
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, 画像加工あり
 </div>
 
+{{% notice info %}}
+{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
+{{% /notice %}}
+
+
 {{% notice tip %}}
-タクシーやバスのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}。
+タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
