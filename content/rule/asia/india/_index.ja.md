@@ -6,7 +6,8 @@ weight: 1
 draft: false
 keywords: [""]
 sections: [""]
-bg: "bg/city.jpg"
+bg: "bgf/ID.png"
+bgf-tentative: "bgf/ID.jpg"
 flag: "IN.svg"
 jetro_detail: true
 jogmec_detail: true
