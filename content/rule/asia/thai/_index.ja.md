@@ -34,6 +34,14 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+中央タイ語が公用語となっている。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
+</div>
+
 {{% notice tip %}}ボラード{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車の後ろナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
@@ -64,11 +72,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 Public Domain
 {{% /lb %}}
 
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679483318952!6m8!1m7!1sokZsKss6tEG30aLxd_JKHw!2m2!1d14.64599789539522!2d98.6995684721261!3f338.6358224624784!4f-9.85447049551665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "言語" %}}
 {{% notice note %}}
