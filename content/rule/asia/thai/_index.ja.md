@@ -72,6 +72,16 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 Public Domain
 {{% /lb %}}
 
+
+{{% notice tip %}}
+{{% goto "../philippines/" "フィリピン" %}}と同じくコンクリート製の道路が多い{{% ex "https://goo.gl/maps/r13uzRvMa4tviaBd7" "https://goo.gl/maps/iX5PYuWwGEbDj8fv8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Main road in Ko Lanta (5).jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
+</div>
+
+
 {{% /tab %}}
 {{% tab "言語" %}}
 {{% notice note %}}
