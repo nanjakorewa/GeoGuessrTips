@@ -13,7 +13,7 @@ jogmec_detail: true
 plonkit: true
 map_title: "練習用マップ"
 maps: [
-    ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co(Created by niwai)"],
+    ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co"],
     ]
 sc_title: "間違えやすい地域"
 sc: [

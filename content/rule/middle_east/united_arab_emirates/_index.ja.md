@@ -48,7 +48,7 @@ Google Carが特徴的で白い屋根が見える。また標識や道路番号�
 </div>
 
 {{% notice tip %}}
-都心部に高層ビルが見える。建設中のものも多く存在する。
+都心部に高層ビルが見える{{% ex "https://goo.gl/maps/BJY8k6btibxfwC9z8" %}}。建設中のものも多く存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/144729932@N02/43815135115/in/photolist-29KN2b4-tQVc2o-24NqNFo-VRLCig-24Bdr1n-K2mDPA-VBRGii-GFoK1D-28ZdJ8m-DLF1MB-2afYTH9-24pzqSy-QoJgkM-xgyDbu-4Yxv9c-riMhG3-25rFJFw-egP65j-YMita9-Xrn1BT-ptKpU7-DoZkZm-YJ5wQf-xyM9i4-DN64ue-fxNsbC-21gUQcz-egP6td-CVfha8-kt8xmU-kJ8yeg-BNVGtm-2duYBKb-rutyb8-2cCcgN8-Sb3PH5-pETzzr-2648XMR-oxejxD-24UFHZq-BjqEqX-264vA7i-KAGC2Q-T63sp2-QoAWfr-egHkHM-22Z65ci-27eUfR4-4jQWxu-DUTgAh" title="Sheikh Zayed Road"><img src="https://live.staticflickr.com/1893/43815135115_5c00ee55a1_z.jpg" width="640" height="416" alt="Sheikh Zayed Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
