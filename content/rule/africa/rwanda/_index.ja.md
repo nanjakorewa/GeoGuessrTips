@@ -46,7 +46,7 @@ sc: [
 {{% /lb %}}
 {{% /tab %}}
 
-{{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている{{% ex "https://goo.gl/maps/kNyPDJYbE6SAivS69" "https://goo.gl/maps/F16NsV6qzHpeSFZr9" %}}。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。
+{{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている{{% ex "https://goo.gl/maps/kNyPDJYbE6SAivS69" "https://goo.gl/maps/F16NsV6qzHpeSFZr9" %}}。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。{{% goto "../uganda/" "ウガンダ" %}}や{{% goto "../ghana/" "ガーナ" %}}でも事業をしている。
 {{% /notice %}}
 
 <div class="googlemap-if">
