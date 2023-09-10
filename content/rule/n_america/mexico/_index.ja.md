@@ -48,14 +48,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的、ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。とりわけ電柱が黒と黄色で塗られていたら{{% goto "../../cs_america/colombia/" "コロンビア" %}}を考えてみる。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
+<span class="quiz">8角形</span>の電柱が特徴的{{% ex "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}。ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./pole.png" width="90%">
 </div>
 
 {{% notice tip %}}
-とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。何もないところで矢印の太さでメキシコと分かる場合が結構多いように思う。
+とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか{{% ex "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}。またメキシコの矢印はなんか太い気がする{{% ex "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
@@ -71,7 +71,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">円</span>形の電力計がある{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。また<span class="quiz">水</span>色のアンテナがある。
+<span class="quiz">円</span>形の電力計がある{{% ex "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。また<span class="quiz">水</span>色のアンテナがある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
