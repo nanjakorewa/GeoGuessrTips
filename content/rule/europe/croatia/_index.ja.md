@@ -109,10 +109,10 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 {{% tab "w-road" %}}
 
 {{% notice tip %}}
-横断歩道の標識は５本線でベルトが付いている。セルビアはガードレールが同じだが標識にベルトはついていない。
+黄色と赤のシェブロンがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683334118865!6m8!1m7!1se3KqZB_Xl2a1keX5KKBFlg!2m2!1d45.80361558998992!2d16.23716031831727!3f114.56854305328751!4f-35.6333756170246!5f2.956065355432672" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694314678924!6m8!1m7!1s8XipuyeQ6lop-HBkQEsGLw!2m2!1d45.47253516983014!2d18.91674277445001!3f193.25744698733536!4f-2.5463749573817154!5f1.5389236508821318" width="590" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
