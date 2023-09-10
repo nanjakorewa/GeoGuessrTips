@@ -42,7 +42,7 @@ maps: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}速度制限の表記は<span class="quiz">SPEED LIMIT</span>。ただしSPEEDしか書かれていないときは<span class="quiz">オレゴン</span>州。{{% goto "../canada/" "カナダ" %}}は<span class="quiz">MAXIMUM</span>。
+{{% notice tip %}}速度制限の表記は<span class="quiz">SPEED LIMIT</span>{{% ex "https://goo.gl/maps/8FZ2uBojRTixFCfi9" "https://goo.gl/maps/GJ8DQzv6QrE7Yy2z7" %}}。ただしSPEEDしか書かれていないときは<span class="quiz">オレゴン</span>州。{{% goto "../canada/" "カナダ" %}}は<span class="quiz">MAXIMUM</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
@@ -55,7 +55,7 @@ maps: [
 </div>
 
 
-{{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字が<span class="quiz">ある</span>。左が<span class="quiz">アメリカ</span>・右が<span class="quiz">カナダ</span>。
+{{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字が<span class="quiz">ある</span>{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}。左が<span class="quiz">アメリカ</span>・右が<span class="quiz">カナダ</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
@@ -96,10 +96,18 @@ maps: [
 
 
 {{% notice tip %}}
-アメリカは制限速度が<span class="quiz">MPH</span>表記{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}のことがあり、看板の裏がフラットなことが多い。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}。
+アメリカは制限速度が<span class="quiz">MPH</span>表記{{% ex "https://goo.gl/maps/vcwKHErYu6Xx1EZQ8" "https://goo.gl/maps/vpashJNQHUoztL7c8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}のことがあり、看板の裏がフラットなことが多い{{% ex "https://goo.gl/maps/JywpMP1MHHBXz9ep7" "https://goo.gl/maps/yNeLFP4fnqJPTkbZ7" "https://goo.gl/maps/S29z9ZMXBLuDqFxP8" %}}。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}{{% ex "https://goo.gl/maps/SYKoBHzdzWe6oJeH9" "https://goo.gl/maps/EoGT7scWMXCzRTZp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="road-sign-warning.jpg" width="80%">
+</div>
+
+
+{{% notice tip %}}
+アメリカやカナダは国旗がよく掲げられているので移動すれば旗が見つかることが多い{{% ex "https://goo.gl/maps/SxDicYpNYXxbHiay5" "https://goo.gl/maps/uT6GaU5cCpxcc24M7" "https://goo.gl/maps/e113PgcFh2Qx6sBT8" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./sunset_utah_city_offices.jpg" width="80%">
 </div>
 
 {{% /tab %}}
