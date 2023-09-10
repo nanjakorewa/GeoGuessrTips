@@ -68,7 +68,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">黒</span>色のものが多くモザイクのかかり方によっては３つに分かれて見えるかも{{% ex "https://goo.gl/maps/9sWe9AK8WpCuyftt5" "https://goo.gl/maps/ERLLkHeJiiAHk8UD7" %}}。{{% goto "../malaysia/" "マレーシア" %}}なら２つに分かれて見える。また黄色や赤色といった他の色のナンバープレートも存在する{{% ex "https://goo.gl/maps/s78ERyMGoTBxS23f9" "https://goo.gl/maps/xjSqLiUo6ugZ8uc48" %}}。マレーシアと迷っている時、モザイクが３つに分かれていたりバイクのフロントにもナンバープレートがあれば{{% ex "https://goo.gl/maps/tZbSuiobMJUSM9Ee6" "https://goo.gl/maps/v6vNfiPCbMPbRJVu8" %}}インドネシアになる。
+ナンバープレートは<span class="quiz">黒</span>色のものが多くモザイクのかかり方によっては３つに分かれて見えるかも{{% ex "https://goo.gl/maps/kGgSi7gazXGMBopz9" "https://goo.gl/maps/9sWe9AK8WpCuyftt5" "https://goo.gl/maps/ERLLkHeJiiAHk8UD7" %}}。{{% goto "../malaysia/" "マレーシア" %}}なら２つに分かれて見える。また黄色や赤色といった他の色のナンバープレートも存在する{{% ex "https://goo.gl/maps/s78ERyMGoTBxS23f9" "https://goo.gl/maps/xjSqLiUo6ugZ8uc48" %}}。マレーシアと迷っている時、モザイクが３つに分かれていたりバイクのフロントにもナンバープレートがあれば{{% ex "https://goo.gl/maps/tZbSuiobMJUSM9Ee6" "https://goo.gl/maps/v6vNfiPCbMPbRJVu8" %}}インドネシアになる。
 {{% /notice %}}
 
 {{% lb 50 small %}}
