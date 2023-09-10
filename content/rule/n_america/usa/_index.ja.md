@@ -79,7 +79,6 @@ maps: [
 <img src="./w/Citgo_logo.svg" width="130px" style="margin:10px"/>
 <img src="./w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px"/>
 </div>
-{{% /tab %}}
 
 
 {{% notice tip %}}
@@ -89,6 +88,16 @@ maps: [
 <img src="I-80.svg" width="120px" style="margin:10px">
 <img src="./route-example.svg" width="157px" style="margin:10px">
 </div>
+
+
+{{% notice tip %}}
+アメリカはMPH表記{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}で看板の裏がフラットなことが多い。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="road-sign-warning.jpg" width="80%">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 
