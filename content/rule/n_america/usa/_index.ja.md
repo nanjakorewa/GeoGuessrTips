@@ -29,7 +29,12 @@ maps: [
         <li><span class="quiz">青い</span>ポストがある</li>
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>逆▽の看板標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>・書いてないならば<span class="quiz">カナダ</span>になる</li>
-        <li>家の前にゴミ箱が並んでいることが多い。アメリカのゴミ収集の大手Waste Managementのロゴである『WM』があることも。</li>
+        <li>家の前にゴミ箱が並んでいることが多い
+            <ul>
+                <li>アメリカのゴミ収集の大手Waste Managementのロゴである『WM』があることも。</li>
+            </ul>
+        </li>
+        <li>アメリカは制限速度が<span class="quiz">MPH</span>表記のことがある</li>
     </ul>
     {{% rd n_america usa small %}}
 </div>
@@ -50,7 +55,7 @@ maps: [
 </div>
 
 
-{{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字がある。左がアメリカ・右がカナダ。
+{{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字が<span class="quiz">ある</span>。左が<span class="quiz">アメリカ</span>・右が<span class="quiz">カナダ</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
@@ -62,7 +67,7 @@ maps: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">青い</span>ポスト
+<span class="quiz">青い</span>ポスト。一方でカナダは赤い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-06-18-09-00-28.png" width="184px">
@@ -82,7 +87,7 @@ maps: [
 
 
 {{% notice tip %}}
-州間高速道路などの看板であり、数字が2桁以下のものは東西・南北である程度順番に並んでいるのがマップを見ると分かる。数字が5の倍数の道は他と比べると距離が長いことが多い。数字が3桁の道路（Three-digit Interstate）のものは派生元の道路番号に100の倍数を加算したもので場所によってはとても短い{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}ので、先に下二桁の道路番号を探してみるのも手。
+州間高速道路などの看板であり、数字が2桁以下のものは東西・南北である程度順番に並んでいるのがマップを見ると分かる。数字が<span class="quiz">5</span>の倍数の道は他と比べると距離が長いことが多い。数字が3桁の道路（Three-digit Interstate）のものは派生元の道路番号に<span class="quiz">100</span>の倍数を加算したもので場所によってはとても短い{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}ので、先に下2桁の道路番号を探してみるのも手。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="I-80.svg" width="120px" style="margin:10px">
@@ -91,7 +96,7 @@ maps: [
 
 
 {{% notice tip %}}
-アメリカはMPH表記{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}で看板の裏がフラットなことが多い。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}。
+アメリカは制限速度が<span class="quiz">MPH</span>表記{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}のことがあり、看板の裏がフラットなことが多い。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="road-sign-warning.jpg" width="80%">
