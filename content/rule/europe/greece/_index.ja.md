@@ -61,8 +61,12 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 電柱が木でできていることが多い{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc8zc6" "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8" "https://goo.gl/maps/wV34ViijQUgqnapj7" "https://goo.gl/maps/QNw2GFSAJTRfC8Lq6" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="pole.png" width="95%" />
+</div>
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Holidays_Greece_-_panoramio_(488).jpg#/media/File:Holidays_Greece_-_panoramio_(488).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Holidays_Greece_-_panoramio_%28488%29.jpg" alt="Holidays Greece - panoramio (488).jpg" width="70%"></a></p><p>By Roton Piotr, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57792716">Link</a></p>
 </div>
 
 
