@@ -19,6 +19,7 @@ sc: [
     ["../malaysia/", "マレーシア"],
     ["../philippines/", "フィリピン"],
     ["../../cs_america/peru/", "ペルー"],
+    ["../cambodia/", "カンボジア"],
     ]
 ---
 
