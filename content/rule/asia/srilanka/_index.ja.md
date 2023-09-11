@@ -29,7 +29,7 @@ sc: [
         <li>後ろのナンバープレートは<span class="quiz">黄</span>色</li>
         <li>標識のポールは<span class="quiz">白黒のストライプ</span>のものが多い</li>
         <li>水路や交差点沿いに<span class="quiz">白黒のブロック</span>がある{{% by "" "plonkit" %}}</li>
-        <li>一部で青・白・赤のGoogleCarが見られる{{% by %}}</li>
+        <li>一部で青・白・赤のGoogleCarが見られる{{% ex "https://goo.gl/maps/9AsYHm8rCHKYtHjq7" %}}{{% by %}}</li>
         <li>電柱は四角いものや大きい穴が空いたものがありコイルが大きい</li>
     </ul>
 </div>
@@ -37,7 +37,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-シンハラ語（සිංහල）とタミル語（தமிழ்）が公用語として使用されている
+シンハラ語（සිංහල）{{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "https://goo.gl/maps/Nou5G3kNf3MB6RQ9A" %}}とタミル語（தமிழ்）{{% ex "https://goo.gl/maps/S7EkpiGtvFaRWHhB6" %}}が公用語として使用されている
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="four corners"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -53,7 +53,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色。
+電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% ex "https://goo.gl/maps/9s4rAXAHp3F3ZqLb9" %}}{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}{{% ex "https://goo.gl/maps/Qf3vovR1Ei8R29zC9" "https://goo.gl/maps/xGBhCk1cQTyRukrW9" %}}。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色{{% ex "https://goo.gl/maps/RoZ5JZxoSvS1wszg7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
