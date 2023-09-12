@@ -26,14 +26,15 @@ sc: [
         <li>車は右側通行</li>
         <li>ドメインは<span class="quiz">.it</span></li>
         <li>上から見たら黒い▼の形のボラードがある</li>
-        <li>ナンバープレートは<span class="quiz">両サイドに青色</span>でこれはイタリア・フランス・アルバニアにある</li>
+        <li>ナンバープレートは<span class="quiz">両サイドに青色</span></li>
         <li>角張った板に丸い縁取りの線が描かれた標識が多い</li>
         <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
-        <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位。フランスとスペインも生産量が多い。</li>
+        <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位</li>
         <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
-        <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
         <li>シェブロンは{{% goto "../albania/" "アルバニア" %}}と同じく<span class="quiz">黒</span>背景に白矢印が多い</li>
         <li>標識の裏側が<span class="quiz">黒色や灰</span>色の時が多い</li>
+        <li>イタリアのタバコの販売店には多くの場合「T」と書かれた看板が付いている{{% ref "https://theryugaku.jp/2574/" "イタリア版個人商店？イタリアで良く見かけるTabacchiとは？" %}}</li>
+        <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
     </ul>
     {{% rd europe italy small %}}
 </div>
@@ -132,10 +133,15 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 {{% /tab %}}
 {{% tab "w-building" %}}
+
+{{% notice tip %}}
+イタリアのタバコや切手の販売店には多くの場合「T」と書かれた看板が付いている{{% ref "https://theryugaku.jp/2574/" "イタリア版個人商店？イタリアで良く見かけるTabacchi（タバッキ）とは？" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679950794453!6m8!1m7!1shiXAjht1julMhueQUwH3ww!2m2!1d44.32128083606679!2d3.596610744676261!3f85.21357402837904!4f21.072327369524842!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485811397!6m8!1m7!1s0VzIixNAaRRXxFPg16EV6g!2m2!1d44.66233315758485!2d7.423223860663709!3f168.62142812554478!4f13.838600860090068!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./sali_e_tabacchi.jpg" width="80%">
 </div>
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
@@ -163,6 +169,12 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
         <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる</li>
         <li class="no-evidence">地中海側はサボテンや石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
+        <li>サルデーニャ島
+            <ul>
+                <li>イタリアで唯一アウトストラーダが存在しない州なので大きい道路であっても緑の八角形のマーク（A1～A91）は無い</li>
+                <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
+            </ul>
+        </li>
         <li class="no-evidence">田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
@@ -191,13 +203,28 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691811509870!6m8!1m7!1sdE8k6vUimKSFs5NV3_wTZg!2m2!1d37.92976853603578!2d12.29821741847973!3f1.707977352151886!4f2.864350915826492!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "サルデーニャ島" %}}
+{{% notice tip %}}
+街中ならATMを見ると「Banco di Sardegna」と書いてあることが多い。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./Banco_di_Sardegna.svg" width="500px">
+</div>
+
+{{% notice tip %}}
+サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがまだ自分がどういうものか理解していない。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1684782046965!6m8!1m7!1sP4IFKQU5BK6CS_BFMSzkhQ!2m2!1d39.43199430857938!2d9.018000990198715!3f351.49282198311755!4f-27.57935045494488!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li class="no-evidence">パンテッレリーア島は黒っぽい石の石垣が多い</li>
-        <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}</li>
         <li class="no-evidence">トスカーナ群島は松の木が生えている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8A%E7%BE%A4%E5%B3%B6" "トスカーナ群島" %}}。
         <li>Veneziaには船にのって移動するエリアがある</li>
     </ul>
@@ -210,14 +237,6 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/piedozzino/300904439/in/photolist-sAdpz-4baGzJ-4b6Cet-4baF97-4bb4xU-4b79J8-SAihPE-4b7cgP-4b6Sp8-yZEVDt-jeDJd-4b6Zfg-4JQF3g-4b72ra-4bazcL-4bb2tW-4b6xec-4b6Dv2-4b6JAF-4b778z-6HtsHg-4b6tji-4b74B2-4baZ2U-4b6rVe-4baXoJ-4baSr9-4b6T8Z-4baBw7-4b7buT-4b7146-5hRmkR-4bas3E-4b6zir-SsCnSk-4b6U2V-4bayAL-SqawJL-4baxky-SAii9Y-4bawFj-SAigwj-SDYmED-oQxwy-4JQEQ6-4baHVQ-sAdr1-4JQEyz-32CoDE-4JQGh8" title="pantelleria"><img src="https://live.staticflickr.com/107/300904439_4790b43ae6_z.jpg" width="640" height="426" alt="pantelleria"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-{{% /tab %}}
-{{% tab "Sardegna" %}}
-{{% notice tip %}}
-サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがまだ自分がどういうものか理解していない。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684782046965!6m8!1m7!1sP4IFKQU5BK6CS_BFMSzkhQ!2m2!1d39.43199430857938!2d9.018000990198715!3f351.49282198311755!4f-27.57935045494488!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "Toscano" %}}
