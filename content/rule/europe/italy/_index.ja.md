@@ -171,7 +171,8 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
         <li class="no-evidence">地中海側はサボテンや石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
         <li>サルデーニャ島
             <ul>
-                <li>イタリアで唯一アウトストラーダが存在しない州なので大きい道路であっても緑の八角形のマーク（A1～A91）は無い</li>
+                <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
+                <li>イタリアで唯一アウトストラーダが存在しない州なので緑の八角形のマークは無い</li>
                 <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
             </ul>
         </li>
@@ -204,6 +205,24 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 {{% /tab %}}
 {{% tab "サルデーニャ島" %}}
+
+{{% notice tip %}}
+サルデーニャ語との２言語表記の看板が見つかるが頻度は高くない。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a href="https://commons.wikimedia.org/wiki/File:Segnaletica_bilingue_Sardegna.gif#/media/File:Segnaletica_bilingue_Sardegna.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Segnaletica_bilingue_Sardegna.gif" alt="Segnaletica bilingue Sardegna.gif" height="312" width="665"></a></p>
+</div>
+
+{{% notice tip %}}
+アウトストラーダのマークがある場合はサルデーニャ島<span style="color:red;font-weight:bold">でない</span>可能性が高い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./milano_cartelli_piazza_luigi.jpg">
+</div>
+
+
 {{% notice tip %}}
 街中ならATMを見ると「Banco di Sardegna」と書いてあることが多い。
 {{% /notice %}}
