@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}
+ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./nz-bollard.png" width="95%" alt="ニュージーランドのボラード" />
@@ -42,7 +42,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱の上のほうに何かが巻かれている{{% ex "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}。
+電柱の上のほうに何かが巻かれている{{% ex "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./poles.png" width="90%" alt="ニュージーランドの電柱" />
