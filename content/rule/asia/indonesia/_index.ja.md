@@ -154,7 +154,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 {{% tab "北スマトラ" %}}
 
 {{% notice tip %}}
-スマトラ島北部の高地に居住しているバタック族の家は屋根の上が︶のようになっていることがある{{% ex "https://goo.gl/maps/8LaAytkBfHv2o1DBA" %}}。
+スマトラ島北部の高地に居住しているバタック族の家は屋根の上が︶のようになっていることがある{{% ex "https://goo.gl/maps/XdkCqzAktZRhkRhz9" "https://goo.gl/maps/8LaAytkBfHv2o1DBA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -181,7 +181,9 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 </div>
 {{% /tab %}}
 {{% tab "バリ島" %}}
+
 {{% notice tip %}}
+ジャワ島では赤茶色の瓦屋根の家が多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -216,7 +218,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
             <ul>
                 <li>コメ：確率的にはジャワ島（50％超）だが全域に見られる</li>
                 <li>コーン：田んぼとコーン畑が同時にあるならジャワ島に行っていいと思う</li>
-                <li>アブラヤシ：南側・スラウェシ島にはプランテーションが無い</li>
+                <li>アブラヤシ：北スマトラ{{% ex "https://goo.gl/maps/g5TZA8w9K4MARXKT9" "https://goo.gl/maps/jvHhYTFSme1iUzH69" %}}やカリマンタン島{{% ex "https://goo.gl/maps/trdvRPKcV9DpQfLNA" "https://goo.gl/maps/Nv3fMFTjBtp12aQZ8" %}}に多い</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=ID">U.S. Indonesia Production Country Summary(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
@@ -230,7 +232,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 </div>
 
 {{% notice tip %}}
-確率的にはジャワ島（50％超）だが全域に見られる。田んぼが広がっているならばジャワ島の中央から東よりの平坦な部分かスラウェシ島の南を考えてみる？
+確率的にはジャワ島（50％超）だが全域に見られる。田んぼが広がっているならばジャワ島の中央から東よりの平坦な部分{{% ex "https://goo.gl/maps/ywSJaGQkxdGFVCMq5" "https://goo.gl/maps/dhdJJXTcynTS9Xyc7" %}}かスラウェシ島の南{{% ex "https://goo.gl/maps/acTdwJyag92oSmKN9" "https://goo.gl/maps/kb5q1BJLww3gqmsv6" %}}を考えてみる？
 {{% /notice %}}
 
 {{% /tab %}}

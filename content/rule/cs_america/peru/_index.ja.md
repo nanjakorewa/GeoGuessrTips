@@ -140,7 +140,7 @@ By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>アレキパは川沿いにのみ田んぼが存在する{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=PE" "USDA Country Summary - Peru" %}}</li>
+        <li>アレキパは川沿いにのみ田んぼが存在する{{% ex "https://goo.gl/maps/AE2AE4jm1zRuiuRp7" "https://goo.gl/maps/yFV5AWKFEedt1dXC9" %}}{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=PE" "USDA Country Summary - Peru" %}}</li>
     </ul>
 </div>
 

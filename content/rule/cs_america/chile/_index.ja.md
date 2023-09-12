@@ -37,7 +37,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}・{{% goto "../../asia/indonesia/" "インドネシア" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
+電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}・{{% goto "../../asia/indonesia/" "インドネシア" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <div class="unclickable">
@@ -66,7 +66,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-そして南米で道路に赤い反射板がある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" %}}のはチリ。
+そして南米で道路に赤い反射板がある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}のはチリ。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><img src="./road.jpg" width="90%" /></p>
