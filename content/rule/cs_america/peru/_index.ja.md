@@ -58,30 +58,35 @@ sc: [
 
 
 {{% notice tip %}}
-ArequipaやTacnaのタクシーは屋根の上に看板を乗せている。ナンバープレートは色々ある。タクシーとトラックは<span class="quiz">黄色の蛍光</span>色のナンバープレート{{% ex "https://goo.gl/maps/iDhgexqddRXEabYS9" "https://goo.gl/maps/AKKV6fvSMryDSJwj7" %}}・バスは上が<span class="quiz">緑</span>色のナンバープレート{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
+タクシーとトラックは<span class="quiz">黄色の蛍光</span>色のナンバープレート{{% ex "https://goo.gl/maps/iDhgexqddRXEabYS9" "https://goo.gl/maps/AKKV6fvSMryDSJwj7" %}}・バスは上が<span class="quiz">緑</span>色のナンバープレートをつけていることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。白いもの多い。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/buda56/5716794587/" title="tuor arequipa 2009-12-12 058"><img src="https://live.staticflickr.com/3116/5716794587_1a066b886c_z.jpg" width="640" height="480" alt="tuor arequipa 2009-12-12 058"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if unclickable no-margin">
+<img src="./Ciclovía_Invadida_por_un_taxista.jpg" width="590px">
 </div>
 
 {{% lb %}}
-![](2023-07-11-17-27-03.png)
+![](lc-small.png)
 
-By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">Zcarstvnz</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72974999">Link</a>
-
-![](2023-04-25-09-40-50.png)
-
-By Zcarstvnz - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72975002">Wikimedia Commons</a>
+CC0
 {{% /lb %}}
 
 {{% notice tip %}}
 電柱は<span class="quiz">同じ向きに棒が付きだしている</span>ものがある{{% ex "https://goo.gl/maps/p6WcpvcTMqyZgnpq9" "https://goo.gl/maps/TSB1ccCDYaCt8n886" %}}{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
-{{% /lb %}}
+{{% /notice %}}
 
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/bmcAybbzBLo?start=204" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+{{% notice tip %}}
+道端に道路番号が書かれた白黒のボラードがある。黒い部分に道路番号が書かれていることがあるが、読みにくいので注意。これは『08B』の道。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p style="width:100%;"><a href="https://commons.wikimedia.org/wiki/File:Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quil%C3%B2metre_261_de_la_carretera_8b.jpg#/media/File:Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quilòmetre_261_de_la_carretera_8b.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quil%C3%B2metre_261_de_la_carretera_8b.jpg" alt="Riu Utcubamba entre Yerbabuena i Limatambo al districte de Mariscal Castilla al quilòmetre 261 de la carretera 8b.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pitxiquin" title="User:Pitxiquin">Pitxiquin</a>- <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59879412">Link</a></p>
+</div>
+
 
 {{% /tab %}}
 {{% tab "道路" %}}
