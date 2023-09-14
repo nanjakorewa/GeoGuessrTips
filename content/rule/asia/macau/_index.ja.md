@@ -24,6 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mo</span></li>
+        <li>中国語と<span class="quiz">ポルトガル</span>語が公用語となっている</li>
         <li>ナンバープレートは<span class="quiz">黒</span>背景のものが多い</li>
     </ul>
     {{% rd asia macau small %}}
@@ -32,6 +33,15 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+{{% notice tip %}}
+白い陶器製のタイルのようなものに通り名が書かれていることが多い{{% ex "https://goo.gl/maps/mLTm8P2y6z5TJkbSA" "https://goo.gl/maps/5h9qXYTs5uq49Vtw6" %}}。２言語で書かれている点も特徴的。
+{{% /notice %}}
+<div class="googlemap-if no-margin unclickable">
+<img src="./roadsign1.jpg" width="300px">
+<img src="./roadsign2.jpg" width="300px">
+</div>
+
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">黒</span>背景のものが多い。バスのナンバープレートは<span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の文字が書かれている{{% ex "https://goo.gl/maps/L615rL4m95zS1FcM6" %}}。ナンバープレートで前後が黒色の場合は{{% goto "../hongkong/" "香港" %}}ではなく澳門かも。{{% goto "../singapore/" "シンガポール" %}}も同じ色のナンバープレートがあるので注意。
 {{% /notice %}}
@@ -48,6 +58,14 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 
 By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951344">Wikimedia Commons</a>, （一部を加工しています）
 {{% /lb %}}
+
+{{% notice tip %}}
+路上に駐車エリアが多く独特な形のメーターが多い{{% ex "https://goo.gl/maps/5gVcu8XkR735DdHh8" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:MacauParkingMeter.jpg#/media/File:MacauParkingMeter.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/MacauParkingMeter.jpg" alt="MacauParkingMeter.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:ATR50&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:ATR50 (page does not exist)">ATR50</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15054264">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
@@ -56,7 +74,6 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688094397504!6m8!1m7!1sjhi0wmOlIe-PbabtodLADA!2m2!1d22.11620515769555!2d113.5532590190688!3f249.60700589086787!4f18.48411418011284!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
 
 {{% /tab %}}
 {{% /tabs %}}
