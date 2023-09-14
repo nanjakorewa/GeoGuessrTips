@@ -72,6 +72,21 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
+バイクやトゥクトゥクに似た形の乗り物はナンバープレートが<span class="quiz">水</span>色{{% ex "https://goo.gl/maps/oyD4AQYFdKahCkdDA" %}}のことがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Catacaos,_Peru.jpg#/media/File:Catacaos,_Peru.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Catacaos%2C_Peru.jpg" alt="Catacaos, Peru.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard Gagnon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=46911639">Link</a></p>
+</div>
+
+{{% lb %}}
+![](2023-09-14-20-43-28.png)
+
+By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;User:Zcarstvnz&quot;>Zcarstvnz</a> - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72974996">Link</a>
+{{% /lb %}}
+
+
+{{% notice tip %}}
 電柱は<span class="quiz">同じ向きに棒が付きだしている</span>ものがある{{% ex "https://goo.gl/maps/p6WcpvcTMqyZgnpq9" "https://goo.gl/maps/TSB1ccCDYaCt8n886" %}}{{% by "https://youtu.be/bmcAybbzBLo?t=205" "youtube" "【geoguessr攻略】国あてに使える中米、南米の電柱を徹底解説！ by まさむね" %}}
 {{% /notice %}}
 
