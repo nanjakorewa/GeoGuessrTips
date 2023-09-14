@@ -37,6 +37,14 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
+ベンガル文字が使用されている{{% ex "https://goo.gl/maps/XUX4RcEE7e95n92p9" "https://goo.gl/maps/C7f2o91a5uMWn767A" "https://goo.gl/maps/usA58XxrK8wDMeXKA" "https://goo.gl/maps/4SB5xm8To6LYMp3H9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./lawachara_national_park_srimongol_11.jpg">
+</div>
+
+{{% notice tip %}}
 <span class="quiz">赤と白の縞</span>模様のボラード{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
@@ -44,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-商用車は<span class="quiz">緑</span>色のナンバープレートで一般乗用車は白色。トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的で、これも<span class="quiz">緑</span>色のナンバープレートを付けている{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" %}}。
+商用車は<span class="quiz">緑</span>色のナンバープレート{{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" %}}で一般乗用車は白色。トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的で、これも<span class="quiz">緑</span>色のナンバープレートを付けている{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -55,14 +63,10 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-バングラディシュのGoogleCarは<span class="quiz">外が赤色で鏡に緑色が映っている</span>ことがある
+バングラディシュのGoogleCarは<span class="quiz">赤色のミラーが映っている</span>ことがある{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}（例を参照してください）
 {{% /notice %}}
-<div class="googlemap-if no-margin">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679241217157!6m8!1m7!1sl3OsNKZrdERhKWo0dDIGGA!2m2!1d22.71288525097118!2d90.35422200087513!3f280.85811143171856!4f-39.81621495433588!5f1.5966149083906154" width="400px" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc.jpg" width="400px">
+<img src="./gc.jpg" width="600px">
 </div>
 
 {{% /tab %}}
