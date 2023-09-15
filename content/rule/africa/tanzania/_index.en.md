@@ -1,5 +1,5 @@
 ---
-title: "タンザニア"
+title: "Tanzania"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -12,27 +12,27 @@ is_has_many_trekker: true
 no_detaile_info: true
 jetro_detail: true
 plonkit: true
-sc_title: "関連ページ"
+sc_title: "Similar regions"
 sc: [
-    ["../madagascar/", "マダガスカル"],
-    ["../zanzibar/", "ザンジバル"],
+    ["../madagascar/", "Madagascar"],
+    ["../zanzibar/", "Zanzibar"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.tz</span></li>
-        <li>ナンバープレートは<span class="quiz">赤色</span></li>
-        <li>ゴンベ渓流国立公園付近とそれ以外にところどころストリートビューがある</li>
-        <li>タンザニア・{{% goto "../../europe/gibraltar/" "ジブラルタル" %}}・{{% goto "../../asia/thai/" "タイ" %}}以外では猿は非常に稀と思われる</li>
+        <li>The domain is <span class="quiz">.tz</span>.</li>
+        <li>License plates are <span class="quiz">red</span>.</li>
+        <li>Street view was taken in Gombe Stream National Park{{% ref "https://en.wikipedia.org/wiki/Gombe_Stream_National_Park" "Gombe Stream National Park" %}}.</li>
+        <li>Apart from Tanzania, {{% goto "... /... /europe/gibraltar/" "Gibraltar" %}}, and {{% goto "... /... /asia/thai/" "Thailand" %}}, monkeys are rarely seen.</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-共通点が少ない上に場所がとびとびなので当てるためには覚える必要がありそう。とりあえず動物がいたら北西の国立公園が可能性高い？
+Since there is little in common between locations, it is necessary to memorize where Street View is located.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687222166237!6m8!1m7!1sHpICDVPg0AxGBxOAqNx9dA!2m2!1d-4.669323783113501!2d29.62333506254922!3f244.8795270430562!4f-26.238762274455702!5f2.3535105869069004" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

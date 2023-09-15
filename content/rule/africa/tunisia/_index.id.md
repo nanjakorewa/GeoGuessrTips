@@ -21,12 +21,11 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>The domain is <span class="quiz">.tn</span>.</li>
-        <li>Arabic is the official language, but <span class="quiz">French</span> is also widely used</li>
-        <li>Many buildings are painted in <span class="quiz">bright sky blue and white</span>.</li>
-        <li><span class="quiz">Black</span> colored license plates.</li>
-        <li>There's a follow car.</li>
-        <li class="no-evidence">Light blue garbage bags may be dumped on the side of the road.</li>
+        <li>Domainnya adalah <span class="quiz">.tn</span>.</li>
+        <li>Bahasa Arab adalah bahasa resmi, tetapi <span class="quiz">Prancis</span> juga digunakan secara luas.</li>
+        <li>Many buildings are painted in bright sky blue and white.</li>
+        <li>Pelat nomor berwarna <span class="quiz">Hitam</span>.</li>
+        <li>Mungkin ada kendaraan keamanan di belakang Google Car.</li>
     </ul>
 </div>
 
@@ -35,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-There are <span class="quiz">black</span> colored license plates, but there are also a certain number of other colors. And often a black-colored car follows behind a Google Car {{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref " Image source - image manipulated" %}}.
+Ada pelat nomor berwarna <span class="quiz">hitam</span>, tetapi ada juga sejumlah warna lain. Dan sering kali mobil berwarna hitam mengikuti di belakang Google Car {{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref "Sumber gambar - gambar dimanipulasi" %}}.
 {{% /notice %}}
 
 
@@ -51,7 +50,7 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-Many buildings are light blue and white{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}. The curbs and chevrons are also painted white and light blue.{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}.
+Banyak bangunan berwarna biru muda dan putih{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}. Pinggiran jalan dan chevron juga dicat putih dan biru muda.{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
@@ -59,7 +58,7 @@ Many buildings are light blue and white{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9
 
 
 {{% notice tip %}}
-There are poles with distinctive shapes{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}.
+Ada tiang-tiang dengan bentuk yang berbeda{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691034582806!6m8!1m7!1s6pfFY0fxPp7DQ4DCObWJPw!2m2!1d34.41795011414693!2d8.784803930790263!3f73.89126476951427!4f18.394098215577486!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -73,9 +72,9 @@ There are poles with distinctive shapes{{% ex "https://goo.gl/maps/mnT52prUXvG1M
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955716287!6m8!1m7!1sPEGqq1AsrBhy0D_9ZufIfQ!2m2!1d36.50897427774278!2d10.56847932526787!3f82.34708398462853!4f-13.113885457952321!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "Light blue plastic bags" %}}
+{{% tab "Kantong plastik biru muda" %}}
 {{% notice tip %}}
-Light blue plastic bags or plastic tape (?) on the side of the road are often discarded.
+Kantong plastik biru muda atau selotip plastik (?) di pinggir jalan sering kali dibuang begitu saja.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955649216!6m8!1m7!1snS76sg90peo5e0VgN0M4ZQ!2m2!1d36.50387532440455!2d10.57159934591823!3f264.17253394104546!4f-2.1982196308240702!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
