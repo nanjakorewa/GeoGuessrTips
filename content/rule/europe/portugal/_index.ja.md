@@ -21,12 +21,12 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pt</span></li>
-        <li>後ろのナンバープレートは<span class="quiz">右側が黄色</span></li>
+        <li>ナンバープレートは<span class="quiz">右側が黄色</span></li>
         <li>電柱に<span class="quiz">仕切り</span>があり<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
         <li><span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の矢印のシェブロンがある</li>
         <li>ポルトガル語は「Ã・ã」の文字が特徴的で南米では{{% goto "../../cs_america/brazil/" "ブラジル" %}}で使用される</li>
         <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
-        <li class="no-evidence">石畳の道が都心部以外にも存在する</li>
+        <li class="no-evidence">郊外に石畳の道が見つかる</li>
     </ul>
     {{% rd europe portugal small %}}
 </div>

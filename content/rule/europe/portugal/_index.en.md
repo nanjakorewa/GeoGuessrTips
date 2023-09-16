@@ -1,5 +1,5 @@
 ---
-title: "ポルトガル"
+title: "Portugal"
 date: 2023-02-26
 lastmod: 2023-04-01
 weight: 1
@@ -9,24 +9,24 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "PT.svg"
 jetro_detail: true
-sc_title: "間違えやすい地域"
+sc_title: "Similar regions"
 sc: [
-    ["../spain/", "スペイン"],
-    ["../azores/", "アゾレス諸島"],
-    ["../../africa/madeira_islands/", "マデイラ諸島"],
+    ["../spain/", "Spain"],
+    ["../azores/", "Azores Isrands"],
+    ["../../africa/madeira_islands/", "Madeira Islands"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.pt</span></li>
-        <li>後ろのナンバープレートは<span class="quiz">右側が黄色</span></li>
-        <li>電柱に<span class="quiz">仕切り</span>があり<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
-        <li><span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の矢印のシェブロンがある</li>
-        <li>ポルトガル語は「Ã・ã」の文字が特徴的で南米では{{% goto "../../cs_america/brazil/" "ブラジル" %}}で使用される</li>
-        <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
-        <li class="no-evidence">石畳の道が都心部以外にも存在する</li>
+        <li>The domain is <span class="quiz">.pt</span></li>
+        <li>License plate is <span class="quiz">yellow on the right side</span>.</li>
+        <li>Some poles have partitions and holes in them.{{% by %}}</li>
+        <li><span class="quiz">Black</span> background with <span class="quiz">yellow</span> colored arrow chevrons</li>
+        <li>Portuguese is characterized by the letter 『Ã』and『ã』.</li>
+        <li>The sky is beautiful in the gen4 area of Portugal.{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
+        <li class="no-evidence">Cobblestone streets exist in the suburbs.</li>
     </ul>
     {{% rd europe portugal small %}}
 </div>
@@ -34,7 +34,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-後ろのナンバープレートは<span class="quiz">右側が黄色</span>
+License plate is <span class="quiz">yellow on the right side</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./car.jpg" width="90%" />
@@ -46,21 +46,24 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている{{% imref %}}。
+Some poles have partitions and holes in them{{% ex "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}.
+Note that Utility poles in  {{% goto "../belgium/" "Belgium" %}} can also have holes in them. Also, crosswalk signs have belts on their waists{{% imref %}}.
 {{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./up.png" width="90%">
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+Only Portugal uses yellow chevrons on a black background in warmer parts of Europe{{% ex "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}. If it looks cold, consider {{% goto "../ireland/" "Iceland" %}}, {{% goto "../ireland/" "Ireland" %}}, {{% goto "../norway/" "Norway" %}}, or {{% goto "../finland/" "Finland" %}}; if not, consider {{% goto "../luxembourg/" "Luxembourg" %}}{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}.
 {{% /notice %}}
+
 <div class="googlemap-if unclickable">
-<img src="./r/xv-portugal.png" width="100px" style="margin:10px">
+<img src="./xv-portugal.png" width="100px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
-古い石畳の道があったり歩道が石畳だったりする{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}。
+There are old cobblestone streets and sidewalks sometimes made of cobblestones{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./street.png" width="90%">
@@ -90,7 +93,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ナンバー・電柱・標識などがほぼ同じの離島である{{% goto "../../africa/madeira_islands/" "マデイラ諸島" %}}と{{% goto "../azores/" "アゾレス諸島" %}}がある</li>
+        <li>You can find the same poles and license plates in Portuguese territories {{% goto "../../africa/madeira_islands/" "Madeira" %}} and {{% goto "../azores/" "Azores" %}} islands.</li>
     </ul>
 </div>
 
