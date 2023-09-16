@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bgf/ID.png"
-bgf-tentative: "bgf/ID.jpg"
+bgf: "bgf/ID.jpg"
 flag: "IN.svg"
 jetro_detail: true
 jogmec_detail: true

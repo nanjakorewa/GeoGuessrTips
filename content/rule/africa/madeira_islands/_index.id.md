@@ -22,12 +22,12 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>A remote island in {{% goto "../../europe/portugal/" "Portuguese territory" %}}, with license plates, signs, and utility poles similar to those found on the Portuguese mainland</li>
-        <li>The island's coastline is dominated by rocky sea cliffs.</li>
-        <li>There are distinctive-looking parapets and bollards made of concrete.</li>
-        <li>The area code is <span class="quiz">291</span></li>
-        <li class="no-evidence">Fog tends to form when moist air from the sea meets the trade winds</li>
-        <li class="no-evidence">More rugged than {{% goto "../../europe/azores/" "the Azores" %}}.</li>
+        <li>Pulau terpencil di wilayah Portugis, dengan pelat nomor, rambu-rambu, dan tiang listrik yang mirip dengan yang ditemukan di daratan Portugis.</li>
+        <li>Garis pantai pulau ini didominasi oleh tebing-tebing laut berbatu.</li>
+        <li>Terdapat tembok pembatas dan tonggak-tonggak yang tampak khas yang terbuat dari beton.</li>
+        <li>Kode area adalah <span class="quiz">291</span></li>
+        <li class="no-evidence">Kabut cenderung terbentuk ketika udara lembap dari laut bertemu dengan angin perdagangan</li>
+        <li class="no-evidence">Lebih tangguh daripada {{% goto "../../europe/azores/" "Azores" %}}.</li>
     </ul>
 </div>
 
@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-License plates, signs, and utility poles similar to those found on the {{% goto "../../europe/portugal/" "Portugal" %}} mainland{{% ex "https://goo.gl/maps/5PquD26xeVwrvJi18" "https://goo.gl/maps/SAPSg5oGDkzLx2jS8" %}}.
+Pelat nomor, rambu-rambu dan ting listrik yang mirip dengan yang ditemukan di {{% goto "../../europe/portugal/" "Portugal" %}}{{% ex "https://goo.gl/maps/5PquD26xeVwrvJi18" "https://goo.gl/maps/SAPSg5oGDkzLx2jS8" %}}.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -55,8 +55,8 @@ Bridge parapets and road fences are made of concrete, sometimes with white block
 
 
 {{% notice tip %}}
-There is a distinctive-looking bollard that appears to be made of concrete{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}.
-Also, fog tends to occur, and sometimes it is difficult to see in the distance{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}.
+Terdapat tonggak yang tampak khas yang tampaknya terbuat dari beton{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}.
+Selain itu, kabut cenderung muncul, dan terkadang sulit untuk melihat di kejauhan{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -65,7 +65,7 @@ Also, fog tends to occur, and sometimes it is difficult to see in the distance{{
 
 
 {{% notice tip %}}
-You can find purple and white flowers like this{{% ex "https://goo.gl/maps/GRGteJ8Bc1GmtFZu5" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}.
+Anda dapat menemukan bunga berwarna ungu dan putih seperti ini{{% ex "https://goo.gl/maps/GRGteJ8Bc1GmtFZu5" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -75,7 +75,7 @@ You can find purple and white flowers like this{{% ex "https://goo.gl/maps/GRGte
 
 
 {{% notice tip %}}
-As can be seen from other photos, the island is not flat in topography with hills and valleys formed by weathering and erosion{{% ex "https://goo.gl/maps/H9tLit1jECWetWL3A" "https://goo.gl/maps/1gtjrgFsn98fgXVU8" "https://goo.gl/maps/cxfQRS4j7nKCrVQ47" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6" "Madeira Islands" %}}.
+Seperti yang dapat dilihat dari foto-foto lain, pulau ini tidak datar dalam topografi dengan bukit-bukit dan lembah-lembah yang terbentuk oleh pelapukan dan erosi{{% ex "https://goo.gl/maps/H9tLit1jECWetWL3A" "https://goo.gl/maps/1gtjrgFsn98fgXVU8" "https://goo.gl/maps/cxfQRS4j7nKCrVQ47" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6" "Madeira Islands" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
