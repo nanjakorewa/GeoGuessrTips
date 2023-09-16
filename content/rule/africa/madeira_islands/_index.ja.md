@@ -23,7 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li><span class="quiz">ポルトガル</span>領の離島でナンバープレート・標識・電柱も本土と共通している</li>
-        <li>島の海岸線は海食崖の岩場が多く綺麗な海が見えるのに海水浴場が無い</li>
+        <li>島の海岸線は海食崖の岩場が多い</li>
         <li>コンクリート製の特徴的な見た目の欄干やボラードがある</li>
         <li>エリアコードは<span class="quiz">291</span></li>
         <li class="no-evidence">海上の湿った空気と貿易風がぶつかることで霧が発生しやすい</li>
