@@ -27,7 +27,8 @@ sc: [
         <li><span class="quiz">黄色</span>の小型タクシーが町を走っている</li>
         <li><span class="quiz">パトカー</span>が付いてくることが多い{{% by %}}</li>
         <li>GoogleCarのバーに<span class="quiz">黒と黄色</span>の縞模様がある時がある{{% by %}}</li>
-        <li>セブンアップが人気{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}</li>
+        <li>人口の 50％がイスラム教徒</li>
+        <li>セブンアップが人気らしい{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}</li>
     </ul>
     {{% rd africa nigeria verysmall %}}
 </div>
@@ -37,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄色の小型タクシーが町を走っていて看板は英語で書かれている
+黄色の小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/pL3LJBCYcEJu7Bii6" %}}。看板は英語で書かれている。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -52,7 +53,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-仕切りのある電柱がある。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%">

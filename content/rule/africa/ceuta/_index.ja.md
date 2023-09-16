@@ -52,7 +52,7 @@ sc: [
 
 
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲われているものがある。
+横断歩道の標識が黄色い線で囲われているときがある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/walk1.png" width="100px" style="margin:10px">
