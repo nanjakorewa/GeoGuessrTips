@@ -50,6 +50,22 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683692834092!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.04290114587546!2d8.553268243877477!3f21.608577852446587!4f-8.27794757499612!5f3.1261648081652695" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683692852401!6m8!1m7!1sdkDo3hFFTT14sqKOp0ZSFA!2m2!1d4.630061104105782!2d7.85497291168204!3f296.0734997554572!4f-7.9355447339893175!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% notice tip %}}
+仕切りのある電柱がある。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% goto "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./road.jpg" width="90%">
+</div>
+
+{{% lb 50 %}}
+![](./НІГЕРІЯ_НОМЕР_2012.gif)
+
+By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Phedmose (page does not exist)">Pharm Ede Moses</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47463054">Link</a>
+{{% /lb %}}
+
+
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
