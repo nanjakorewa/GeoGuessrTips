@@ -52,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-仕切りのある電柱がある。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% goto "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+仕切りのある電柱がある。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%">
