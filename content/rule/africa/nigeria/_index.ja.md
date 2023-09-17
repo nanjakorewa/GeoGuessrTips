@@ -116,7 +116,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 </div>
 
 {{% notice tip %}}
-{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "『Kurowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).』 Sustainability 14.3 (2022): 1160." %}}
+基本的に北に行くほど乾燥して木が少なくなる。Abujaの北東とJos周辺には高原が分布していている。{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "『Kurowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).』 Sustainability 14.3 (2022): 1160." %}}
 {{% /notice %}}
 
 {{% /tab %}}
