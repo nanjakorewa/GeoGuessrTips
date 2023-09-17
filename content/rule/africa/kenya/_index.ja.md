@@ -87,8 +87,7 @@ Google Carが特徴的で何種類か存在する。車の屋根が見えたり{
 <img src="./vegitation.jpg" width="90%" />
 </div>
 
-{{% notice tip %}}
-基本的に北に行くほど乾燥して木が少なくなる。Abujaの北東とJos周辺には高原が分布していている。{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 『A review of Kenya’s national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.』 (2014)." %}}
+{{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 『A review of Kenya’s national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.』 (2014)." %}}
 {{% /notice %}}
 
 {{% /tab %}}
