@@ -28,7 +28,6 @@ sc: [
         <li><span class="quiz">パトカー</span>が付いてくることが多い{{% by %}}</li>
         <li>GoogleCarのバーに<span class="quiz">黒と黄色</span>の縞模様がある時がある{{% by %}}</li>
         <li>人口の 50％がイスラム教徒</li>
-        <li>セブンアップが人気らしい{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}</li>
     </ul>
     {{% rd africa nigeria verysmall %}}
 </div>
@@ -72,13 +71,18 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679854349351!6m8!1m7!1sVEmCuj_hJ169SRu1sEqsuA!2m2!1d6.460371642532762!2d7.493418113273444!3f23.871891209378983!4f-10.141513841761409!5f3.3246080442816175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "電柱" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679854562480!6m8!1m7!1syiEjGBhayoOdpLrXFIOsag!2m2!1d6.67266544030606!2d3.312221930570927!3f188.50999469130915!4f-8.341239190692107!5f1.6021556725762478" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686927253225!6m8!1m7!1s1M70fWp0fJw_8P-adNJrpA!2m2!1d6.474586597493951!2d3.562058211014273!3f282.62577029999335!4f3.2687283677445436!5f1.3205476195043677" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
+
+{{% notice tip %}}
+セブンアップが人気らしい{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679887010318!6m8!1m7!1sE_F2ShVxPyhM75vdTArfRg!2m2!1d6.59987404201229!2d3.375620061922172!3f338.51068283511484!4f1.650537544582619!5f1.5380782434409297" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
