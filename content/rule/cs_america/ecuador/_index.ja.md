@@ -138,7 +138,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ズームすると県境に県名が表示される</li>
         <li>アブラヤシのプランテーションがあるのは北の方に限られる{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}</li>
         <li>ガラパゴス諸島が出ることがある・亀が山の上に居たら{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}</li>
         <li class="no-evidence">田んぼはグアヤキルに流れ込む川沿いに多い{{% ex "https://goo.gl/maps/PGuRCKXj3J6Kkm6M9" "https://goo.gl/maps/8s4iDPMAxAHzCTUF7" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}</li>
@@ -146,15 +145,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 </div>
 
 {{% tabs %}}
-{{% tab "マップのズーム" %}}
-{{% notice tip %}}
-看板などから県名が見つかったら県名で場所を絞り込めるかも。たまに県名が書かれた看板がある{{% ex "https://goo.gl/maps/o3TSqkqDJrPSfUxR9" %}}。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><img src="2023-04-30-11-08-50.png" /></p>
-<p>画像出典：<a href="https://www.google.com/maps/@-2.409844,-78.918238,15.25z">©2023 Google Map, 2023/4/28に利用</a>, <a href="https://www.google.com/intl/ja/permissions/geoguidelines/">Google マップ 一般的なガイドライン</a></p>
-</div>
-{{% /tab %}}
 {{% tab "アブラヤシ" %}}
 {{% notice tip %}}
 赤い丸の箇所にはアブラヤシのプランテーションがある。特にコロンビア国境付近の道{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" %}}やE20の道路{{% ex "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
