@@ -54,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-横断歩道標識は<span class="quiz">7本</span>。標識がパイプで囲われていることが多い。『limite générale』はフランス語なのでフランス付近だと想像できる。
+横断歩道標識は<span class="quiz">7本</span>。標識がパイプで囲われていることが多い。上の『limite générale』はフランス語なのでフランス付近だと想像できる。下の『Generell』はドイツ語なのでドイツ付近の可能性がある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jag9889/52689283729/" title="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"><img src="https://live.staticflickr.com/65535/52689283729_53353d9cda_w.jpg" width="300" height="400" alt="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
