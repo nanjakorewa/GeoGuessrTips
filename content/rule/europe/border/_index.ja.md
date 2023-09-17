@@ -9,9 +9,9 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "border.jpg"
 flag_height: "700px"
-is_has_many_trekker: true
 no_detaile_info: true
-jetro_detail: true
+jetro_detail: false
+no_rel_info: true
 ---
 
 <div class="main-desciption country-description">

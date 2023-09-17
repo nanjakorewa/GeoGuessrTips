@@ -105,6 +105,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
             <ul>
                 <li>海沿い：海沿いの浸水林（Swamp Forest）のエリアは都市周辺以外は道がほとんど存在しない</li>
                 <li>南東部：アブラヤシが多く生えている</li>
+                <li>南西部：背の高い木が多く生えていて遠くを見渡すのは難しい</li>
                 <li>中央部：草や低木が一面を覆っている</li>
                 <li>Jos周辺：標高が高くごつごつした岩や小さな山のようなものが見える</li>
                 <li>最北部：郊外は草がほとんど生えていない</li>
@@ -120,7 +121,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 </div>
 
 {{% notice tip %}}
-基本的に北に行くほど乾燥して木が少なくなる。Abujaの北東とJos周辺には高原が分布していている。{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "『Kurowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).』 Sustainability 14.3 (2022): 1160." %}}
+基本的に北に行くほど乾燥して木が少なくなる。Abujaの北東とJos周辺には高原が分布していている{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "『Kurowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).』 Sustainability 14.3 (2022): 1160." %}}。
 {{% /notice %}}
 
 {{% /tab %}}
@@ -197,7 +198,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-10-15-44-28.png" width="97%" />
 </div>
 
@@ -206,7 +207,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "コメ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-10-15-49-07.png" width="90%" />
 </div>
 
@@ -215,7 +216,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "キビ・アワ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-10-15-53-56.png" width="90%" />
 </div>
 
