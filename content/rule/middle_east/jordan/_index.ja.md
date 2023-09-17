@@ -14,9 +14,8 @@ dont_show_usda: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../../africa/tunisia/", "チュニジア"],
+    ["../../cs_america/argentina/", "アルゼンチン"],
     ["../palestine/", "パレスチナ"],
-    ["../qatar/", "カタール"],
     ]
 ---
 

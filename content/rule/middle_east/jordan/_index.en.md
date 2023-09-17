@@ -12,12 +12,6 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: true
-sc_title: "Similar Regions"
-sc: [
-    ["../../africa/tunisia/", "Tunisia"],
-    ["../palestine/", "Palestine"],
-    ["../qatar/", "Qatar"],
-    ]
 ---
 
 <div class="main-desciption country-description">

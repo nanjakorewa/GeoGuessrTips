@@ -12,12 +12,6 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: true
-sc_title: "間違えやすい地域"
-sc: [
-    ["../../africa/tunisia/", "チュニジア"],
-    ["../palestine/", "パレスチナ"],
-    ["../qatar/", "カタール"],
-    ]
 ---
 
 <div class="main-desciption country-description">
