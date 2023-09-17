@@ -116,7 +116,13 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>スイスの西は{{% goto "../france/" "フランス" %}}語、北と中央は{{% goto "../germany/" "ドイツ" %}}語、南は{{% goto "../italy/" "イタリア" %}}語 {{% by "supercat6_9" "twitch" %}}</li>
+        <li>スイスの西は{{% goto "../france/" "フランス" %}}語、北と中央は{{% goto "../germany/" "ドイツ" %}}語、南は{{% goto "../italy/" "イタリア" %}}語 {{% by "supercat6_9" "twitch" %}}
+            <ul>
+                <li>Limite générale：{{% goto "../france/" "フランス" %}}語{{% ex "https://maps.app.goo.gl/qJhoL4hZTLXaVmF4A" %}}</li>
+                <li>GENERELL：{{% goto "../germany/" "ドイツ" %}}語</li>
+                <li>Limite generale：{{% goto "../italy/" "イタリア" %}}語{{% ex "https://maps.app.goo.gl/qhgE2u1ZWF5nWJDS9" %}}</li>
+            </ul>
+        </li>
         <li>あまり見かけないものの電話番号の市外局番で地域が分かる。以下はおおまかな範囲。
             <ul>
                 <li>08X～09Xと071：東</li>
@@ -139,6 +145,13 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 <div class="googlemap-if no-margin">
 <p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Map Languages CH.png" width="90%"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./speed/fr.svg" width="120px" style="margin:10px" />
+<img src="./speed/ge.svg" width="120px" style="margin:10px" />
+<img src="./speed/it.svg" width="120px" style="margin:10px" />
+<img src="./speed/ch.svg" width="120px" style="margin:10px" />
+</div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
 {{% notice tip %}}
@@ -147,5 +160,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Schweiz.png#/media/File:Karte_Telefonvorwahlen_Schweiz.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Karte_Telefonvorwahlen_Schweiz.png" alt="Karte Telefonvorwahlen Schweiz.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - Own work using: <a href="//commons.wikimedia.org/wiki/File:Switzerland_location_map.svg" title="File:Switzerland location map.svg">Switzerland_location_map.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77552482">Link</a></p>
 </div>
+
+
 {{% /tab %}}
 {{% /tabs %}}
