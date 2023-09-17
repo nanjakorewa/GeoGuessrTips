@@ -198,7 +198,7 @@ Sudan Zone（灰色の部分）は郊外は草がほとんど生えていない�
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-10-15-44-28.png" width="90%" />
+<img src="2023-05-10-15-44-28.png" width="97%" />
 </div>
 
 {{% notice tip %}}
@@ -245,15 +245,15 @@ Sudan Zone（灰色の部分）は郊外は草がほとんど生えていない�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Zuma Rockがあるのは<span class="quiz">アブジャ</span></li>
+        <li>Zuma Rockがあるのは<span class="quiz">アブジャ</span>{{% ex "https://maps.app.goo.gl/CSSH2288dfrFUE7G9" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
 {{% tab "Zuma Rock" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683703599781!6m8!1m7!1sIL9gtFb98rQaxvLGktbiug!2m2!1d9.118350051846292!2d7.226724651359519!3f23.021970081735958!4f7.23442942873308!5f1.1660916192715458" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:The_incredible_rock._Zuma_Rock_(cropped).jpg#/media/File:The_incredible_rock._Zuma_Rock_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/The_incredible_rock._Zuma_Rock_%28cropped%29.jpg" alt="The incredible rock. Zuma Rock (cropped).jpg" height="420" width="710"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:3.29Fatima&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:3.29Fatima (page does not exist)">Fatima </a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=86993524">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
