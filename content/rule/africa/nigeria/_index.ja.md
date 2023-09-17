@@ -45,11 +45,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多い。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
+<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683692834092!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.04290114587546!2d8.553268243877477!3f21.608577852446587!4f-8.27794757499612!5f3.1261648081652695" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683692852401!6m8!1m7!1sdkDo3hFFTT14sqKOp0ZSFA!2m2!1d4.630061104105782!2d7.85497291168204!3f296.0734997554572!4f-7.9355447339893175!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694922144280!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f14.22689415263525!4f11.713617318725227!5f0.4000000000000002" width="500" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -100,7 +99,8 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
     <ul class="rule-list">
         <li>植生が場所によって異なる
             <ul>
-                <li>Swamp Forest（浸水林）：道がほとんど存在しない</li>
+                <li>海沿い：海沿いの浸水林（Swamp Forest）のエリアは都市周辺以外は道がほとんど存在しない</li>
+                <li>南東部：アブラヤシが多く生えている</li>
                 <li>中央部：草や低木が一面を覆っている</li>
                 <li>Jos周辺：標高が高くごつごつした岩や小さな山のようなものが見える</li>
                 <li>最北部：郊外は草がほとんど生えていない</li>
@@ -117,6 +117,28 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 
 {{% notice tip %}}
 {{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "『Kurowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).』 Sustainability 14.3 (2022): 1160." %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "南西部" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694922659581!6m8!1m7!1s8Ow3R10tby2art2YesIBlw!2m2!1d6.757971852293207!2d4.072611256527883!3f287.1758311113074!4f2.552881295514595!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694922815201!6m8!1m7!1sALfyi8fAIXmXQDaY8JO52w!2m2!1d7.326160575887643!2d5.117616271521185!3f116.83449045305156!4f8.98622789867845!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+北と比較すると木が多く生え、遠くを見渡すことはほとんどできない。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "南東部" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694922465819!6m8!1m7!1s5D-67W3qJx_B47R8ojyqlA!2m2!1d4.957508083081821!2d7.795402982020307!3f356.1577924893183!4f1.1070556752259932!5f0.43104953548325736" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694922582144!6m8!1m7!1sJVoWS-1saoouj4S6wi9R6g!2m2!1d5.754522304901496!2d6.833269569646347!3f214.18065068166888!4f5.041693218708318!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+アブラヤシが多く分布する。図の黄緑色のエリア（Uyo～Onitsha）の間は郊外ならばプランテーションも見られるっぽい、
 {{% /notice %}}
 
 {{% /tab %}}
