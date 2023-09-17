@@ -160,13 +160,63 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>植生は8つの自然地域に分かれていてどれも南北に広く分布している{{% ref "https://en.wikipedia.org/wiki/Life_zones_of_Peru" "Life zones of Peru" %}}
+            <ul>
+                <li>Chala：海沿いの砂漠地域で木は生えていない{{% ex "https://maps.app.goo.gl/QfKnbskJYuyDw5vi6" %}}</li>
+                <li>Omagua：東側にあるジャングルがある地域</li>
+                <li>Puna：南側に広がる標高の高い草原</li>
+            </ul>
+        </li>
         <li>アレキパは川沿いにのみ田んぼが存在する{{% ex "https://goo.gl/maps/AE2AE4jm1zRuiuRp7" "https://goo.gl/maps/yFV5AWKFEedt1dXC9" %}}{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=PE" "USDA Country Summary - Peru" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "植生" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Regiones_naturales_del_Per%C3%BA.png#/media/File:Regiones_naturales_del_Perú.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Regiones_naturales_del_Per%C3%BA.png" alt="Regiones naturales del Perú.png" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Maulucioni" title="User:Maulucioni">Maulucioni</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77347972">Link</a></p>
+</div>
+
+{{% notice tip %}}
+南北に幅広く同じ植生が分布しており、周りの雰囲気だけで正確に場所を当てるのは難しいかも。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Chala" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954427421!6m8!1m7!1sYRBgYEO_Hauwu__b-Impyg!2m2!1d-3.669475383772703!2d-80.65905703271574!3f221.22314863540285!4f14.177925774359352!5f0.4972770115773346" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954277000!6m8!1m7!1sjaFBjj1bkUnMVrtp_AqKsw!2m2!1d-17.88986023182197!2d-70.98021447268056!3f302.3579840456051!4f8.437947742727431!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+海沿いには砂漠地帯で南北に広く分布する。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Omagua" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954824725!6m8!1m7!1suG8SC5qJ23P4a1ilsI6sJQ!2m2!1d-3.895239762919755!2d-73.34812831159923!3f332.37632527962785!4f5.422851224529879!5f1.2261179511485731" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954696747!6m8!1m7!1sQr-5thv_vXgRqTH9d6k6ng!2m2!1d-4.502937002489709!2d-73.58783347444972!3f279.5257612027989!4f10.058378887811998!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+北東はIquitos～Nauta間の道路にストリートビューがある。Wikiによるとヤシの木のような木が生えている。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Puna" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954030467!6m8!1m7!1s8EX7pBcGWvmfD86JleyBOw!2m2!1d-17.62872463190553!2d-69.81458697141962!3f186.52993147504796!4f5.478800255050089!5f0.6353179651854127" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694955372843!6m8!1m7!1sWnMDD9I0qfH0COlCgu3WIQ!2m2!1d-16.75042262370041!2d-69.72140039221048!3f72.52584462673587!4f12.572861764910215!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+南側の高原に広がる低木や草以外ほとんど存在しない地域。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "コメ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-06-18-20-15-15.png" width="500px">
 </div>
 
