@@ -121,6 +121,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
                 <li>Limite générale：{{% goto "../france/" "フランス" %}}語{{% ex "https://maps.app.goo.gl/qJhoL4hZTLXaVmF4A" %}}</li>
                 <li>GENERELL：{{% goto "../germany/" "ドイツ" %}}語</li>
                 <li>Limite generale：{{% goto "../italy/" "イタリア" %}}語{{% ex "https://maps.app.goo.gl/qhgE2u1ZWF5nWJDS9" %}}</li>
+                <li>Limita generala：ロマンシュ語{{% ex "https://maps.app.goo.gl/oRo6K4Y7j1MifxCX9" %}}</li>
             </ul>
         </li>
         <li>あまり見かけないものの電話番号の市外局番で地域が分かる。以下はおおまかな範囲。
