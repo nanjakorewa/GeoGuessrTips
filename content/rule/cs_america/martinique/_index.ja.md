@@ -32,7 +32,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-熱帯の感じがある砂浜・森の中・町の中を歩いている。
+暖かい雰囲気があり、砂浜・森の中・町の中を歩いている。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -46,7 +46,7 @@ EUのナンバープレートがある
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685645524413!6m8!1m7!1s7XW4u4MFqwtANW4JN_UILQ!2m2!1d14.60216878941573!2d-60.90663776041595!3f24.978742355715667!4f-3.0705780442675916!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694927920634!6m8!1m7!1s8IR7yMgvomfs1FS7_30bLQ!2m2!1d14.60224895167704!2d-60.90668647277003!3f56.62764566815802!4f-3.650750730837032!5f2.6800523807148364" width="590" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -175,7 +175,7 @@ Southern Guinea Zone（オレンジ色）の部分は草で地面が覆われて
 </div>
 
 {{% notice tip %}}
-Sudan Zone（灰色の部分）は郊外は草がほとんど生えていない。
+Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /notice %}}
 
 {{% /tab %}}
