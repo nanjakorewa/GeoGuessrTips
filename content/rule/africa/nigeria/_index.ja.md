@@ -48,7 +48,7 @@ sc: [
 <span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694922144280!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f14.22689415263525!4f11.713617318725227!5f0.4000000000000002" width="500" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
@@ -138,7 +138,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 </div>
 
 {{% notice tip %}}
-アブラヤシが多く分布する。図の黄緑色のエリア（Uyo～Onitsha）の間は郊外ならばプランテーションも見られるっぽい、
+アブラヤシが多く分布する。図の黄緑色のエリア（Uyo～Onitsha）の間は郊外ならばプランテーションも見られるっぽい。
 {{% /notice %}}
 
 {{% /tab %}}
