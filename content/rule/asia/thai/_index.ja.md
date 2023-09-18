@@ -142,7 +142,7 @@ Public Domain
 
 {{% tabs %}}
 {{% tab "コーン" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-01-21-15-43.png" width="60%" />
 </div>
 
@@ -151,7 +151,7 @@ Public Domain
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-01-21-17-28.png" width="60%" />
 </div>
 
@@ -160,16 +160,20 @@ Public Domain
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "ゴム" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="rubber-tree-distribution.png" width="60%" />
 </div>
 
+<div class="googlemap-if unclickable no-margin">
+<img src="./rubberwood.jpg">
+</div>
+
 {{% notice tip %}}
-参考文献：<a href="https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708">Wongsapai, Wongkot, et al. "Biomass supply chain for power generation in southern part of Thailand." Energy Reports 6 (2020): 221-227.</a>
+ゴムの木は一般には南の半島側に多いが北にもバラバラに分布していて、100%南というわけではない{{% ref "https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708" "Wongsapai, Wongkot, et al. 『Biomass supply chain for power generation in southern part of Thailand.』 Energy Reports 6 (2020): 221-227." %}}。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "コメ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-01-21-18-17.png" width="60%" />
 </div>
 

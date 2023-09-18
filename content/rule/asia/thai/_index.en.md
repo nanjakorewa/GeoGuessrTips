@@ -147,13 +147,13 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 If oil palm can be found, consider the lowlands to the south.
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "Gum tree" %}}
+{{% tab "Rubberwood" %}}
 <div class="googlemap-if unclickable">
 <img src="rubber-tree-distribution.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-参考文献：<a href="https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708">Wongsapai, Wongkot, et al. "Biomass supply chain for power generation in southern part of Thailand." Energy Reports 6 (2020): 221-227.</a>
+<a href="https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708">Wongsapai, Wongkot, et al. "Biomass supply chain for power generation in southern part of Thailand." Energy Reports 6 (2020): 221-227.</a>
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Rice" %}}

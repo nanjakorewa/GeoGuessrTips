@@ -37,16 +37,14 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}・{{% goto "../../asia/indonesia/" "インドネシア" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
+電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../africa/south-africa/" "南アフリカ" %}}・{{% goto "../../asia/indonesia/" "インドネシア" %}}にもあるけれど、これらは左側通行で景色も大きく異なるので間違える心配は少ないはず。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<div class="unclickable">
 <img src="./pole-example.png" width="199px" height="640px">
-</div>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="IMG_8443"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-<div class="googlemap-if" style="font-size:0.8em; margin-top:0; padding-top:0;">
+<div class="googlemap-if no-margin" style="font-size:0.8em; margin-top:0; padding-top:0;">
 左側画像：By <a rel="nofollow" class="external text" href="https://www.panoramio.com/user/jorgebarrios">Jorge Barrios</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9625972">Link</a>より, 一部加工あり.
 </div>
 
@@ -130,6 +128,8 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>中央北部ではワインの生産が盛ん{{% ex "https://maps.app.goo.gl/HLnoDnAaDocKa8WA6" "https://maps.app.goo.gl/CFVpyN4HRnAXsQ217" %}}</li>
+        <li>Maule～O'Higginsではコーン畑が見つかる{{% ex "https://maps.app.goo.gl/AQhcLKfKneZumvew5" "https://maps.app.goo.gl/HLnoDnAaDocKa8WA6" "https://maps.app.goo.gl/PSWDcvyoXLeXA1ca7" %}}{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CI" "USDA Chile Production" %}}。</li>
         <li>特徴的な植物がたくさんあるので植物をみたら南北の位置がわかるかも
             <ul>
                 <li>Chilean rhubarbが生えている地域が限定されている{{% by "https://www.plonkit.net/chile" "plonkit" %}}</li>
@@ -141,6 +141,28 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 </div>
 
 {{% tabs %}}
+{{% tab "ブドウ" %}}
+{{% notice tip %}}
+赤枠が最もワインの生産が多い地域で、ブドウ畑自体はもう少し南部まで存在する{{% ref "https://en.wikipedia.org/wiki/Chilean_wine" "Chilean wine" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Chile_map2_with_wine_regions_highlighted.JPG#/media/File:Chile_map2_with_wine_regions_highlighted.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chile_map2_with_wine_regions_highlighted.JPG" alt="Chile map2 with wine regions highlighted.JPG" height="599" width="141"></a></p><p>By <a href="https://en.wikipedia.org/wiki/User:Agne27" class="extiw" title="en:User:Agne27">Agne27</a> at the <a href="https://en.wikipedia.org/wiki/" class="extiw" title="w:">English-language Wikipedia</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4168333">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "コーン" %}}
+{{% notice tip %}}
+数は多くないように思う{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CI" "USDA Chile Production" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin unclickable">
+<img src="./Chile_Corn.png" width="500px">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695057655215!6m8!1m7!1syxRHCHhHi2aq8BpRL54viA!2m2!1d-34.6532909694409!2d-71.34359535287379!3f41.41045646923763!4f2.1243299678251333!5f0.5174171369211525" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "サラダ" %}}
 {{% notice tip %}}
 分布はplonkitなどを参照{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
