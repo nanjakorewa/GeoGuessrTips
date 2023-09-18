@@ -60,7 +60,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 {{% /lb %}}
 
 {{% notice tip %}}
-路上に駐車エリアが多く独特な形のメーターが多い{{% ex "https://goo.gl/maps/5gVcu8XkR735DdHh8" %}}。
+路上に駐車エリアが多く独特な形のメーターが多い{{% ex "https://goo.gl/maps/5gVcu8XkR735DdHh8" "https://maps.app.goo.gl/Yogx9c5L2JX96bu79" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:MacauParkingMeter.jpg#/media/File:MacauParkingMeter.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/MacauParkingMeter.jpg" alt="MacauParkingMeter.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:ATR50&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:ATR50 (page does not exist)">ATR50</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15054264">Link</a></p>

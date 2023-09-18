@@ -13,12 +13,15 @@ jogmec_detail: true
 plonkit: true
 ---
 
+
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domain is <span class="quiz">.th</span></li>
-        <li><span class="quiz">Left-side</span> driving.</li>
-        <li><span class="quiz">Black-and-white</span> striped, angular-looking bollards are found. {{% by %}}</li>
+        <li>The domain is <span class="quiz">.th</span></li>
+        <li>Car drives on the <span class="quiz">left</span> side</li>
+        <li>Thai (ภาษาไทยกลาง) is the official language</li>
+        <li>Bollards are black and white and angular.{{% by %}}</li>
+        <li>The utility poles also look angular, but this alone should not be taken as a definite indication of Thailand.</li>
     </ul>
     {{% rd asia thai verysmall %}}
 </div>
@@ -26,57 +29,97 @@ plonkit: true
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}<span class="quiz">Black-and-white</span> striped, angular-looking bollards are found {{% by %}}. Utility poles in Thailand are also angular.
+
+{{% notice tip %}}
+Central Thai is the official language{{% ex "https://goo.gl/maps/42vxjK3DUGysPFVBA" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
+</div>
+
+{{% notice tip %}}
+If the bollards{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}} and utility poles{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}} are angular, it may be Thailand. However, please note that similar angular bollards can be found in Laos, and you can find angular utility poles in {{% goto "../srilanka/" "Sri Lanka" %}} and the {{% goto "../philippines/" "Philippines" %}}. If the license plate is yellow, the coils on the utility poles are large, or there are holey poles, you may be thinking of Sri Lanka, and if your car has a greenish license plate number or a unique-shaped vehicle, you may be thinking of the Philippines.
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
+</div>
+
+<div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
+By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99817864">Link</a>, 画像にパブリックドメイン画像を重ねています
+</div>
+
+{{% notice tip %}}
+There are white bollards, which can also be used to narrow down the location{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【5k戦略】気づきにくい道路番号を読み取る【GeoGuessr】" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./thailand-milestone.png" width="90%" alt="タイのボラード" />
+</div>
+
+{{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682877916254!6m8!1m7!1sSsph6IlCDLalfC82SiXhGQ!2m2!1d14.64339940767677!2d98.69383419317019!3f272.2330816685183!4f-9.492207784541847!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682253036696!6m8!1m7!1sjnVySIUkGXb5XpEwci1aTA!2m2!1d17.34694015534703!2d102.828123273268!3f78.31588429892301!4f-4.759113999546827!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/75992994@N05/45648761545/" title="Where Rambuttri Alley meets the Chakrabongse Road"><img src="https://live.staticflickr.com/7858/45648761545_b96440615c_z.jpg" width="640" height="427" alt="Where Rambuttri Alley meets the Chakrabongse Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-{{% /tab %}}
-{{% tab "w-road" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679762814938!6m8!1m7!1s_Tg_zv5hWT8DJHv9lqEDUw!2m2!1d17.98130118012293!2d100.0629101957747!3f72.15605038034752!4f-6.286483384892833!5f3.2676880359687828" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+{{% lb 50 %}}
+![](2023-06-13-14-17-00.png)
+
+Public Domain
+{{% /lb %}}
+
+
+{{% notice tip %}}
+As in the Philippines, many roads are made of concrete{{% ex "https://goo.gl/maps/r13uzRvMa4tviaBd7" "https://goo.gl/maps/iX5PYuWwGEbDj8fv8" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Main road in Ko Lanta (5).jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
 </div>
+
+
 {{% /tab %}}
-{{% tab "w-commercial" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679482974000!6m8!1m7!1svRV75eB6yqo6wIPK5s7_Nw!2m2!1d13.73218306294083!2d100.4930308782116!3f23.407381485162894!4f17.652667161319812!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679483318952!6m8!1m7!1sokZsKss6tEG30aLxd_JKHw!2m2!1d14.64599789539522!2d98.6995684721261!3f338.6358224624784!4f-9.85447049551665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-plant" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679762933969!6m8!1m7!1sTZiK569KNLgQoVq-OaTq_Q!2m2!1d17.98157323295765!2d100.0621420808453!3f225.57392523284852!4f-9.089210017500989!5f3.224147385256069" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "Language" %}}
+{{% tab "言語" %}}
 {{% notice note %}}
-Thai is the official language.
+タイ語が公用語となっている
 {{% /notice %}}
 
 <div class="googlemap-if">
 <table class="word-list">
 <tr>
-    <th>language-name</th> <th>writing</th>
+    <th>言語名</th> <th>表記</th>
 </tr>
-<tr><td><span class="quiz">English</span></td><td>Japanese Restaurant</td></tr>
-<tr><td><span class="quiz">Japanese</span></td><td>日本料理レストラン</td></tr>
-<tr><td><span class="quiz">Sinhalese</span></td><td>ජපන් අවන්හල</td></tr>
-<tr><td><span class="quiz">Assamese</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
-<tr><td><span class="quiz">Kannada</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
-<tr><td><span class="quiz">Gujarati</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
-<tr><td><span class="quiz">Tamil</span></td><td>ஜப்பானிய உணவகம்</td></tr>
-<tr><td><span class="quiz">Bengali</span></td><td>জাপানি রেস্তোরা</td></tr>
-<tr><td><span class="quiz">Hindi</span></td><td>जापानी रेस्टोरेंट</td></tr>
-<tr><td><span class="quiz">Khmer</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
-<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
-<tr><td><span class="quiz">Thai</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
+<tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
+<tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">アッサム</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">カンナダ</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">グジャラート</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">タミル</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">テルグ</span></td><td>జపనీస్ రెస్టారెంట్</td></tr>
+<tr><td><span class="quiz">ベンガル</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">ヒンディー</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">クメール</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
+{{% /tab %}}
+{{% tab "商業施設" %}}
+{{% notice note %}}
+北陸地方でよく見られる8番ラーメンは今タイで人気チェーンになりつつある{{% ref "https://www.hachiban.co.jp/business/abroad/" "海外事業 | 野菜らーめんの8番らーめん" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689962335010!6m8!1m7!1sSkClzCE-6UtCLfD7L2PNjQ!2m2!1d13.7613527806081!2d100.4995412365237!3f212.95609704824895!4f1.5404108846140332!5f2.7203736392567532"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "w-mymemo-wrong-cn" %}}
+
+<div>
+    <ul class="rule-list-none">
+        <li>{{% googlemap "https://goo.gl/maps/wVB6XqZhagWQzZPg6" %}}</li>
+    </ul>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -84,37 +127,103 @@ Thai is the official language.
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>Agriculture and vegetation types vary from place to place</li>
-        <li>Data Source：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. Department of Agriculture(USDA)</a></li>
+        <li>農業・植生の種類・土の色が場所によって異なる
+            <ul>
+                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
+                <li>土壌の分布データ：<a href="https://thailand.opendevelopmentmekong.net/layers/tha-soil-types/">OpenDevelopment Thailand - Dominant Soil Types</a></li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Corn" %}}
+{{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-15-43.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-As in the U.S. and other countries, corn and soybean production areas are basically almost the same area. Corn and soybeans are produced mainly in the north.
+As in the U.S. and other countries, corn and soybean production areas are almost the same area, and in the case of Thailand, soybeans are only produced in the northern part of the country.
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "Palm" %}}
+{{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-17-28.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-If there are palm trees, consider the area to the south.
+ヤシの木のようなアブラヤシがある場合は南の低地を考えてみる
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "Rice" %}}
+{{% tab "ゴム" %}}
+<div class="googlemap-if unclickable">
+<img src="rubber-tree-distribution.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+参考文献：<a href="https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708">Wongsapai, Wongkot, et al. "Biomass supply chain for power generation in southern part of Thailand." Energy Reports 6 (2020): 221-227.</a>
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-18-17.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-Rice fields are mostly in the direction where Cambodia and Laos are located.
+田んぼはカンボジア・ラオスのある方向に多い
 {{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1690214603213!6m8!1m7!1scjU-7iTKb1mcFGFejuRbsg!2m2!1d14.47294410737073!2d103.9361488515747!3f77.1541714660306!4f-6.558555970551055!5f0.4000000000000002" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+
+{{% /tab %}}
+{{% tab "土壌" %}}
+{{% notice tip %}}
+北西部・北部
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683736980120!6m8!1m7!1s0uI7PtWbSKIXVm0SmR3hoQ!2m2!1d18.96584434255833!2d98.4136358664289!3f38.68358628315347!4f-22.61383946173538!5f1.8128431045616762" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737003008!6m8!1m7!1sKXTVzkdVkogKKyjFPu56Xg!2m2!1d19.0277826995688!2d100.9330277913495!3f297.06859487798755!4f-12.063548141441146!5f2.630705749529238" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+南東（カンボジアに面する付近）。北部よりも少し赤みがかっている？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737033448!6m8!1m7!1sFutVb3hy3MKzh5qmfXBVAA!2m2!1d14.5596041599467!2d105.1413081521637!3f14.369529567616242!4f-13.411584383112753!5f1.6739744810411215" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737111353!6m8!1m7!1sTPxuoO-FBkaLrQPzeRxQoA!2m2!1d14.47837853907258!2d103.4759445852378!3f234.1305982641108!4f-15.010312687309948!5f1.7431718349436869" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% notice tip %}}
+南部（半島・海沿い）、アブラヤシも散見される。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737358400!6m8!1m7!1syY4fr47gzSEl5rLW2jxm2Q!2m2!1d9.175093746493182!2d99.55177279971238!3f170.30847121428818!4f-15.579228880848206!5f1.3324292804444646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683737385159!6m8!1m7!1syeEFWQGZ0DMfcFfotWMDaQ!2m2!1d8.221852687148221!2d98.35473046739912!3f309.2738817047396!4f-15.069799819329035!5f2.942474199230258" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>You can narrow down the area by area-code.</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Area-code" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Thailand telephone area codes.svg" height="720" width="409"></a>
+</p><p>By <a href="//commons.wikimedia.org/wiki/User:Ponpan" title="User:Ponpan">Ponpan</a> - This <a href="https://en.wikipedia.org/wiki/vector_image" class="extiw" title="w:vector image">vector image</a> includes elements that have been taken or adapted from this file.</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79476331">Link</a></p>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
