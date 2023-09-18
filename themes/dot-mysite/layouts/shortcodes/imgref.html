@@ -1,7 +1,13 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
 <!-- main img-ref area -->
 <div class="main-information">
+{{ if (eq .Site.Language.Lang "ja") -}}
 <h4 class="section-title" id="imgrefarea">オリジナル画像の出典</h2>
+{{ else if (eq .Site.Language.Lang "en") -}}
+<h4 class="section-title" id="imgrefarea">Original image source</h2>
+{{ else if (eq .Site.Language.Lang "id") -}}
+<h4 class="section-title" id="imgrefarea">Sumber gambar asli</h2>
+    {{ end -}}
     <ul class="info-list">
         {{ .Inner | markdownify }}
     </ul>

@@ -56,7 +56,7 @@ There are white bollards, which can also be used to narrow down the location{{% 
 <img src="./thailand-milestone.png" width="90%" alt="タイのボラード" />
 </div>
 
-{{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
+{{% notice tip %}}In Thailand, driving is on the left side of the road. Most ordinary passenger cars have white license plates, and cabs have yellow license plates. In Laos, standard cars are yellow and drive on the right side of the road.
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/75992994@N05/45648761545/" title="Where Rambuttri Alley meets the Chakrabongse Road"><img src="https://live.staticflickr.com/7858/45648761545_b96440615c_z.jpg" width="640" height="427" alt="Where Rambuttri Alley meets the Chakrabongse Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -79,15 +79,15 @@ As in the Philippines, many roads are made of concrete{{% ex "https://goo.gl/map
 
 
 {{% /tab %}}
-{{% tab "言語" %}}
+{{% tab "Language" %}}
 {{% notice note %}}
-タイ語が公用語となっている
+Thai is the official language.
 {{% /notice %}}
 
 <div class="googlemap-if">
 <table class="word-list">
 <tr>
-    <th>言語名</th> <th>表記</th>
+    <th>Language</th> <th>Example</th>
 </tr>
 <tr><td><span class="quiz">日本</span></td><td>日本料理レストラン</td></tr>
 <tr><td><span class="quiz">シンハラ</span></td><td>ජපන් අවන්හල</td></tr>
@@ -102,14 +102,6 @@ As in the Philippines, many roads are made of concrete{{% ex "https://goo.gl/map
 <tr><td><span class="quiz">ラオ</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
-</div>
-{{% /tab %}}
-{{% tab "商業施設" %}}
-{{% notice note %}}
-北陸地方でよく見られる8番ラーメンは今タイで人気チェーンになりつつある{{% ref "https://www.hachiban.co.jp/business/abroad/" "海外事業 | 野菜らーめんの8番らーめん" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689962335010!6m8!1m7!1sSkClzCE-6UtCLfD7L2PNjQ!2m2!1d13.7613527806081!2d100.4995412365237!3f212.95609704824895!4f1.5404108846140332!5f2.7203736392567532"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -127,17 +119,17 @@ As in the Philippines, many roads are made of concrete{{% ex "https://goo.gl/map
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>農業・植生の種類・土の色が場所によって異なる
+        <li>Agriculture, vegetation type, and soil color vary from place to place
             <ul>
-                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
-                <li>土壌の分布データ：<a href="https://thailand.opendevelopmentmekong.net/layers/tha-soil-types/">OpenDevelopment Thailand - Dominant Soil Types</a></li>
+                <li>Crop Distribution Data Source.：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=TH">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
+                <li>Soil distribution data：<a href="https://thailand.opendevelopmentmekong.net/layers/tha-soil-types/">OpenDevelopment Thailand - Dominant Soil Types</a></li>
             </ul>
         </li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "コーン" %}}
+{{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-15-43.png" width="60%" />
 </div>
@@ -146,16 +138,16 @@ As in the Philippines, many roads are made of concrete{{% ex "https://goo.gl/map
 As in the U.S. and other countries, corn and soybean production areas are almost the same area, and in the case of Thailand, soybeans are only produced in the northern part of the country.
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "アブラヤシ" %}}
+{{% tab "Oil palms" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-17-28.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-ヤシの木のようなアブラヤシがある場合は南の低地を考えてみる
+If oil palm can be found, consider the lowlands to the south.
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "ゴム" %}}
+{{% tab "Gum tree" %}}
 <div class="googlemap-if unclickable">
 <img src="rubber-tree-distribution.png" width="60%" />
 </div>
@@ -164,25 +156,23 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 参考文献：<a href="https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708">Wongsapai, Wongkot, et al. "Biomass supply chain for power generation in southern part of Thailand." Energy Reports 6 (2020): 221-227.</a>
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "コメ" %}}
+{{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-21-18-17.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-田んぼはカンボジア・ラオスのある方向に多い
+Rice fields are mainly in the direction where Cambodia and Laos are located.
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690214603213!6m8!1m7!1scjU-7iTKb1mcFGFejuRbsg!2m2!1d14.47294410737073!2d103.9361488515747!3f77.1541714660306!4f-6.558555970551055!5f0.4000000000000002" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
-
 {{% /tab %}}
-{{% tab "土壌" %}}
+{{% tab "Soil color" %}}
 {{% notice tip %}}
-北西部・北部
+Northwest/North
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -192,7 +182,7 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 
 
 {{% notice tip %}}
-南東（カンボジアに面する付近）。北部よりも少し赤みがかっている？
+Southeast (near facing Cambodia). A little more reddish than the north?
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -202,7 +192,7 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 
 
 {{% notice tip %}}
-南部（半島・海沿い）、アブラヤシも散見される。
+Southern (peninsula and seacoast), oil palm is also scattered.
 {{% /notice %}}
 
 <div class="googlemap-if">

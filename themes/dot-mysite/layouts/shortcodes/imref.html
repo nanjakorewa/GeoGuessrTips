@@ -1,1 +1,4 @@
-<a href="#imgrefarea" class="imgref-text">({{if (.Get 0)}}{{(.Get 0)}}{{ else }}画像出典{{ end }})</a>
+{{ if (eq .Site.Language.Lang "ja") }}<a href="#imgrefarea" class="imgref-text">({{if (.Get 0)}}{{(.Get 0)}}{{ else }}画像出典{{ end }})</a>
+{{ else if (eq .Site.Language.Lang "en") }}<a href="#imgrefarea" class="imgref-text">({{if (.Get 0)}}{{(.Get 0)}}{{ else }}Image Source{{ end }})</a>
+{{ else if (eq .Site.Language.Lang "id")  }}<a href="#imgrefarea" class="imgref-text">({{if (.Get 0)}}{{(.Get 0)}}{{ else }}Sumber gambar{{ end }})</a>
+{{ end -}}
