@@ -14,13 +14,6 @@ jetro_detail: false
 no_rel_info: true
 ---
 
-<div class="main-desciption country-description">
-    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
-    <ul class="rule-list">
-        <li>EU圏は国境に専用の看板が建っていることが多い</li>
-    </ul>
-</div>
-
 
 {{% notice tip %}}
 国境によくある青い看板{{% ex "https://maps.app.goo.gl/nbZmWeEHDDFKiGfg9" "https://maps.app.goo.gl/jpfAw9GGW56DAmmS8" %}}
