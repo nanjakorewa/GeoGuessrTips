@@ -80,6 +80,12 @@ sc: [
 道路番号の形が特徴的{{% ex "https://goo.gl/maps/kuWmdS6NhDiQ96L97" %}}
 {{% /notice %}}
 
+<div class="googlemap-if no-margin">
+<p><img src="./road.jpg" width="590px"></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Nenea_hartia" title="User:Nenea hartia">Nenea hartia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49508175">Link</a></p>
+</div>
+
+
 <div class="googlemap-if unclickable">
 <img src="./r/ROU_DN6.svg" width="70px" style="margin:10px">
 <img src="./r/DJ609B-RO.svg" width="70px" style="margin:20px">

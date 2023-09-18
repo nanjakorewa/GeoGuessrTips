@@ -81,10 +81,10 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 {{% /lb %}}
 
 {{% notice tip %}}
-<b>赤い反射板で角張った細い溝</b>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。こんな感じのガードレールを見てポーランドやトルコではないと思ったならボスニア・ヘルツェゴビナに隣接している<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>を考えてみる。
+「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字。また<b>赤い反射板で角張った細い溝</b>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。こんな感じのガードレールを見てポーランドやトルコではないと思ったならボスニア・ヘルツェゴビナに隣接している<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>を考えてみる。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/robrocke/27963653927/in/photolist-P7Cw2r-PWrVA5-JB435g-oRdqyR-5qqbp3" title="IMG_1212"><img src="https://live.staticflickr.com/892/27963653927_47ea860b67_z.jpg" width="640" height="480" alt="IMG_1212"/></a>
+<div class="googlemap-if unclickable">
+<img src="./autocesta_a5_hrvatska_003.jpg" width="540px">
 </div>
 
 
