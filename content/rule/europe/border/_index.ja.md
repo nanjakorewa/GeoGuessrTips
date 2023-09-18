@@ -45,3 +45,18 @@ no_rel_info: true
 <div class="googlemap-if unclickable">
 <img src="./fronteira_entre_portugal_e.jpg" width="400px">
 </div>
+
+
+{{% notice tip %}}
+国境を超えた先の都市名が書いてある看板では楕円型のマークが書いてあることが多い。楕円型のマークは車にも付いている{{% ref "https://en.wikipedia.org/wiki/International_vehicle_registration_code" "International vehicle registration code" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./highway_roadway_autos_streets_0.jpg" width="580px">
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./oval/fin.png" width="100px" style="margin:10px">
+<img src="./oval/lt.jpg" width="100px" style="margin:10px">
+</div>
+
+

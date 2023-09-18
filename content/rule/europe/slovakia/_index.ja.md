@@ -45,7 +45,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ありガードレールは<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的{{% ex "https://goo.gl/maps/RhrcTQhFEksTA9co6" %}}。ボラードとガードレールは{{% goto "../czechia/" "チェコ" %}}にも同じものがある。
+ボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ありガードレールは<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的{{% ex "https://maps.app.goo.gl/EXAxnENat8Ushxhj8" "https://goo.gl/maps/RhrcTQhFEksTA9co6" %}}。ボラードとガードレールは{{% goto "../czechia/" "チェコ" %}}にも同じものがある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
