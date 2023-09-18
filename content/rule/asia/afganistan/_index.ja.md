@@ -23,9 +23,9 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">出題されない</li>
+        <li class="no-evidence">出題されないと思われる</li>
         <li>公用語はダリー語（دری）やパシュトー語（پښتو）</li>
-        <li>カブール周辺の施設にのみわずかにストリートビューがある</li>
+        <li>カブール周辺の施設にのみわずかに公式のストリートビューがある</li>
     </ul>
 </div>
 
