@@ -207,11 +207,11 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% tab "Puna" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1694954030467!6m8!1m7!1s8EX7pBcGWvmfD86JleyBOw!2m2!1d-17.62872463190553!2d-69.81458697141962!3f186.52993147504796!4f5.478800255050089!5f0.6353179651854127" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694955372843!6m8!1m7!1sWnMDD9I0qfH0COlCgu3WIQ!2m2!1d-16.75042262370041!2d-69.72140039221048!3f72.52584462673587!4f12.572861764910215!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695036239900!6m8!1m7!1sWnMDD9I0qfH0COlCgu3WIQ!2m2!1d-16.75042262370041!2d-69.72140039221048!3f141.2455810615358!4f-5.091791609383847!5f1.9030724617911075" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-南側の高原に広がる低木や草以外ほとんど存在しない地域。
+南側の高原に広がる低木や草以外ほとんど存在しない地域。地面に薄い緑や黄色っぽい短い草が生えていて、木がほとんど見えない。
 {{% /notice %}}
 
 {{% /tab %}}
