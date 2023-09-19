@@ -19,7 +19,7 @@ unsafe = true
 [params]
 # update
 update_message = "最近の更新"
-update_date = "2023/09/15"
+update_date = "2023/09/13"
 page_title = "ナイジェリア"
 page_link = "https://geopinning.space/rule/africa/nigeria/"
 
