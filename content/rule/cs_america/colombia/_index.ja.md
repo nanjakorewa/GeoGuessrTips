@@ -86,6 +86,36 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>北東の内陸：サバンナ</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "植生" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./pone.0043943.g001.png" width="80%" />
+</div>
+
+{{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "サバンナ" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695092936550!6m8!1m7!1sKtVNpYqAChwVIbS9NVQzUA!2m2!1d4.862449440287744!2d-71.72632279124731!3f164.5840677597434!4f0.5640005247158371!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695093011695!6m8!1m7!1sYS6llO69H9wDnK4lXZMVjg!2m2!1d4.62827564681296!2d-71.51255306646532!3f98.38560507105616!4f9.95777762781087!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
         <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
         <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
     </ul>
