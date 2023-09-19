@@ -46,7 +46,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている{{% imref %}}。
+電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./up.png" width="90%">

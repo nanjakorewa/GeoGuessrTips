@@ -45,8 +45,12 @@ sc: [
 {{% notice tip %}}
 <span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。斜めの点がふたつついていたらハンガリーと覚えておく。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="./route.png" width="240px">
+</div>
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg" alt="M9 autóút vége.jpg" width="500px"></a></p><p>By Anomália - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -56,7 +60,6 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="./micimacko_utca.jpg" width="500px">
 </div>
-
 
 
 {{% notice tip %}}
@@ -72,7 +75,7 @@ sc: [
 {{% notice tip %}}
 郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋か二階建ての家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p style="margin:0;padding:0;"><a href="https://commons.wikimedia.org/wiki/File:Dr%C3%A1vatam%C3%A1si,_f%C5%91utca_2021_01.jpg#/media/File:Drávatamási,_főutca_2021_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Dr%C3%A1vatam%C3%A1si%2C_f%C5%91utca_2021_01.jpg" alt="Drávatamási, főutca 2021 01.jpg" width="80%"></a></p><p style="margin:0;padding:0;">By <a href="//commons.wikimedia.org/wiki/User:Pasztilla" title="User:Pasztilla">Pasztilla aka Attila Terbócs</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105729346">Link</a></p>
 </div>
 
