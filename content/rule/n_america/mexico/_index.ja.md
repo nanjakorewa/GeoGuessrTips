@@ -158,7 +158,8 @@ sc: [
         <li>さまざまな種類の植生が存在する
             <ul>
                 <li>カリフォルニア湾の一番奥は平坦で木もほとんど生えてない地域</li>
-                <li>東側の海沿いの平坦な地域では農業が行われている</li>
+                <li>西側の海沿いの平坦な地域では農業が行われていて東側に山が見える</li>
+                <li>北東側の海沿いの平坦な地域でも農業が行われている</li>
                 <li>{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a></li>
             </ul>
         </li>
@@ -199,12 +200,28 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693626484622!6m8!1m7!1sVqhLtXFAYj1jbAx6bDnhjA!2m2!1d31.43251402318006!2d-115.0494189216987!3f339.79149413735803!4f12.036253423230406!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693626537768!6m8!1m7!1scSpRv3Ee1iMvHoX4xWrGYQ!2m2!1d31.70903597829781!2d-113.988204754503!3f44.6851294319801!4f9.662115747257076!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693626484622!6m8!1m7!1sVqhLtXFAYj1jbAx6bDnhjA!2m2!1d31.43251402318006!2d-115.0494189216987!3f339.79149413735803!4f12.036253423230406!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693626537768!6m8!1m7!1scSpRv3Ee1iMvHoX4xWrGYQ!2m2!1d31.70903597829781!2d-113.988204754503!3f44.6851294319801!4f9.662115747257076!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
-{{% tab "東側の農業" %}}
+{{% tab "バハ・カリフォルニア半島" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/wast-p.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+TODO / サボテンが生えている場所がある。図は単純化しすぎていてもっと多様な景色がある。平坦で無い場所や山が見える場所も多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695099852437!6m8!1m7!1sSX2crZ-cbVTPzOMPt0Tt6Q!2m2!1d29.30878750069611!2d-114.2653475136884!3f129.8092330983428!4f1.0680303811966354!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695100351900!6m8!1m7!1stZdRGDvrNGVqrz3c2PqMVA!2m2!1d29.78458588295717!2d-114.7754242379417!3f138.04706614348635!4f12.232374602247774!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "西側の農業" %}}
 
 <div class="googlemap-if unclickable no-margin">
 <img src="./veg/agriculture.jpg" width="540px" />
@@ -215,8 +232,58 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693625456231!6m8!1m7!1sL5030LLa9Cb9v5E5wmVvVQ!2m2!1d25.67353871014984!2d-108.5132607199848!3f22.793154759996895!4f1.6604236576202709!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693625533960!6m8!1m7!1smsTcVRrQw-dbic9Hb9LeSw!2m2!1d25.02883549800032!2d-107.8239421155597!3f73.08712019573166!4f-5.359408887550231!5f0.975039551555405" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695100585196!6m8!1m7!1sgnR0ThW9LriHZf2ismYuMg!2m2!1d25.75834060328217!2d-108.4804244715005!3f0.2889402842183242!4f4.0167329823510585!5f0.7820865974627469" width="590" height="280"  style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1693625533960!6m8!1m7!1smsTcVRrQw-dbic9Hb9LeSw!2m2!1d25.02883549800032!2d-107.8239421155597!3f73.08712019573166!4f-5.359408887550231!5f0.975039551555405" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "西部の山岳地帯" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/west-mt.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+TODO
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695099994452!6m8!1m7!1ssT__3344dVUf2G1NT3CBrg!2m2!1d23.72838020305813!2d-105.6870084989594!3f222.12693664333545!4f11.93615461207888!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695100043283!6m8!1m7!1svqDU40uYNat_seoefe1f0g!2m2!1d22.17378617618213!2d-104.7232251441188!3f236.13489289229855!4f4.035154462213086!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "中央部分" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/center.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+TODO
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695100091063!6m8!1m7!1seFkNElCGa4jatE7pEn2VpA!2m2!1d23.73146232120942!2d-101.856355821498!3f55.82928223841073!4f5.57932098338955!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695100128619!6m8!1m7!1sk7tTTJqsoJtPMKeWEgyjfA!2m2!1d26.21404802676051!2d-102.7235106603036!3f213.66394949584793!4f5.258364191502423!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "東側の農業" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/east-agri.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+東側とおなじくこちらでも農業が行われるが、山は見えないと思われる。
+{{% /notice %}}
+
+
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695098429484!6m8!1m7!1ss3QDPfzgdXgNrhdeOsK9ww!2m2!1d25.67704690448053!2d-97.5946512078193!3f120.54146700617399!4f2.0649412659985558!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695098483111!6m8!1m7!1sGjevq5dHoqEu7KzUCugYIQ!2m2!1d25.18339534118774!2d-97.95522199861607!3f317.4655134838271!4f14.367468771543756!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
