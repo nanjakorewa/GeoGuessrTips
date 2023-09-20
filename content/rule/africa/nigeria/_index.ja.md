@@ -138,7 +138,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 {{% /tab %}}
 {{% tab "南東部" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694922465819!6m8!1m7!1s5D-67W3qJx_B47R8ojyqlA!2m2!1d4.957508083081821!2d7.795402982020307!3f356.1577924893183!4f1.1070556752259932!5f0.43104953548325736" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695252147503!6m8!1m7!1s36X-W0ChJInHCYvwoN2D0A!2m2!1d4.958050878271112!2d7.795387802213218!3f55.895625547781535!4f9.452990883534213!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1694922582144!6m8!1m7!1sJVoWS-1saoouj4S6wi9R6g!2m2!1d5.754522304901496!2d6.833269569646347!3f214.18065068166888!4f5.041693218708318!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
