@@ -160,7 +160,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>植生は8つの自然地域に分かれていてどれも南北に広く分布している{{% ref "https://en.wikipedia.org/wiki/Life_zones_of_Peru" "Life zones of Peru" %}}
+        <li>植生は8つの自然地域に分かれていて一部は南北に広く分布している{{% ref "https://en.wikipedia.org/wiki/Life_zones_of_Peru" "Life zones of Peru" %}}
             <ul>
                 <li>Chala：一番北の海沿いの砂漠地域で白っぽい砂にわずかに低木が生えている</li>
                 <li>Omagua：東側にあるジャングルがある地域</li>
