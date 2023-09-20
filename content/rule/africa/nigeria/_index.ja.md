@@ -117,7 +117,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 {{% tabs %}}
 {{% tab "植生と標高" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="90%" />
+<img src="./vegitation.jpg" width="95%" />
 </div>
 
 {{% notice tip %}}
