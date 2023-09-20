@@ -47,12 +47,10 @@ Google Carが特徴的
 </div>
 
 {{% /tab %}}
-{{% tab "w-road" %}}
+{{% tab "ガードレール" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682515539101!6m8!1m7!1sfrLINfz-3GOinrlXBbvleA!2m2!1d14.90488787304172!2d-90.67940776587537!3f240.5911790134093!4f-17.908893700407873!5f1.7758818387440702" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-{{% /tab %}}
-{{% tab "w-googlecar" %}}
 {{% /tab %}}
 {{% /tabs %}}
 
