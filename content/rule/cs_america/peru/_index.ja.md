@@ -162,7 +162,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
     <ul class="rule-list">
         <li>植生は8つの自然地域に分かれていてどれも南北に広く分布している{{% ref "https://en.wikipedia.org/wiki/Life_zones_of_Peru" "Life zones of Peru" %}}
             <ul>
-                <li>Chala：海沿いの砂漠地域で木は生えていない{{% ex "https://maps.app.goo.gl/Uz8AbRPSrM8svwDR9" "https://maps.app.goo.gl/QfKnbskJYuyDw5vi6" %}}</li>
+                <li>Chala：一番北の海沿いの砂漠地域で白っぽい砂にわずかに低木が生えている</li>
                 <li>Omagua：東側にあるジャングルがある地域</li>
                 <li>Puna：南側に広がる標高の高い草原</li>
             </ul>
@@ -184,12 +184,12 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /tab %}}
 {{% tab "Chala" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694954427421!6m8!1m7!1sYRBgYEO_Hauwu__b-Impyg!2m2!1d-3.669475383772703!2d-80.65905703271574!3f221.22314863540285!4f14.177925774359352!5f0.4972770115773346" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695252503367!6m8!1m7!1sdrx7Q_tbgd8oyq5kflGY9A!2m2!1d-5.887379278650156!2d-80.92389528314368!3f328.024104910878!4f-3.400881131295975!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1695156762707!6m8!1m7!1s5NLiGPQZvhKxpSybd_PoLg!2m2!1d-4.640991899439817!2d-81.25009950188556!3f4.949927613862663!4f6.215098194581998!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-海沿いには砂漠地帯で南北に広く分布する。
+最も北の海沿いには白っぽい砂漠地帯がある。
 {{% /notice %}}
 
 {{% /tab %}}
