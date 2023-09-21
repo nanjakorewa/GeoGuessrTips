@@ -158,23 +158,33 @@ CC0画像を加工
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い</li>
+        <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AC%E3%83%AD%E3%82%B0%E8%AA%9E" "タガログ語" %}}</li>
         <li>市外局番でおよその地域が特定できる{{% by %}}</li>
-        <li class="no-evidence">新しめのバイクのナンバープレートの色を見れば地域がわかることも{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_Philippines#Motorcycle_Classification_by_Color_Strip_and_Position" "Motorcycle Classification by Color Strip and Position" %}}</li>
+        <li class="no-evidence">新しめのバイクのナンバープレートの色を見れば地域がわかることも</li>
         <li class="no-evidence">トライシクルに都市名が書いてある場合があり見た目による地域性もあるらしい</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "タガログ語" %}}
+<div class="googlemap-if unclickable">
+<img src="./fri03sep2004_chinatown_to_gastown.jpg">
+</div>
+
+{{% notice tip %}}
+正確な分布は{{% goto "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AC%E3%83%AD%E3%82%B0%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Katagalugan.png" "これ" %}}を参照。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Philippine fixed line area codes.PNG" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard the Duck</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Link</a></p>
 </div>
 {{% /tab %}}
-{{% tab "バイクのナンバープレート" %}}
+{{% tab "二輪車のナンバープレート" %}}
 
 {{% notice tip %}}
-おそらく2020年以降に撮影された地域でないとこのナンバープレートは発見できない。
+おそらく2020年以降に撮影された地域でないとこのナンバープレートは発見できないのであまり重要ではない。どの色がどの地域に対応しているかは参考文献を参照してください{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_Philippines#Motorcycle_Classification_by_Color_Strip_and_Position" "Motorcycle Classification by Color Strip and Position" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -221,11 +231,6 @@ CC0画像を加工
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-01-19-13-28.png" width="50%"/>
-</div>
-{{% /tab %}}
-{{% tab "市外局番" %}}
-<div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Philippine fixed line area codes.PNG" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard the Duck</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
