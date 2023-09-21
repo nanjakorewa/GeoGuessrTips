@@ -166,9 +166,17 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>海沿いは日照時間が長くサボテンが生えている
+            <ul>
+                <li>プーリア地方の海沿い{{% ex "https://maps.app.goo.gl/JCUi7zHpeqBVnT79A" "https://maps.app.goo.gl/TSCbPDFHU6WkChFj9" %}}</li>
+                <li>トスカーナ群島{{% ex "https://maps.app.goo.gl/2vKm3dPiEZdXdATE7" "https://maps.app.goo.gl/1Dp2TtZQwxBAj5ws9" %}}</li>
+                <li>シチリア島{{% ex "https://maps.app.goo.gl/KTA8qCDpSJu3wuS4A" %}}</li>
+                <li>サルデーニャ島{{% ex "https://maps.app.goo.gl/4YFYbwEhLou5oFk66" "https://maps.app.goo.gl/dwGeJCfKM2b6jTi7A" %}}</li>
+            </ul>
+        </li>
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
         <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる</li>
-        <li class="no-evidence">地中海側はサボテンや石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
+        <li class="no-evidence">地中海側は石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
         <li>サルデーニャ島
             <ul>
                 <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
@@ -181,6 +189,16 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% tabs %}}
+{{% tab "気候" %}}
+<div class="googlemap-if no-margin unclickable">
+<img src="./Eliofania.png" width="500px">
+</div>
+
+{{% notice tip %}}
+赤に近いほど日照時間が長く暖かそうな地域{{% ref "https://en.wikipedia.org/wiki/Climate_of_Italy" "Climate of Italy" %}}。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Mappa Prefissi telefonici italiani A.png" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5"><a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a></a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
