@@ -159,6 +159,13 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>ざっくりと北西にむかうほど裕福で地方ごとに伝統的な家がある{{% ref "https://en.wikipedia.org/wiki/Romanian_architecture" "Romanian architecture" %}}{{% ref "https://roofingmagazine.com/roofing-romania-part-ii-past-prologue/" "Roofing in Romania, Part II: Past as Prologue" %}}
+            <ul>
+                <li>北西<span style="color:#80FF25">■</span><span style="color:#33C933">■</span>：</li>
+                <li>北東<span style="color:#32A7C3">■</span>：</li>
+                <li>南<span style="color:#FF5454">■</span><span style="color:#E89156">■</span><span style="color:#D48E5F">■</span>：</li>
+            </ul>
+        </li>
         <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}
             <ul>
                 <li>ひまわりは東側で多く栽培されている</li>
@@ -170,6 +177,55 @@ sc: [
 </div>
 
 {{% tabs %}}
+{{% tab "地域の分かれ方" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./1213px-RomanianTerritories.png" width="90%">
+</div>
+{{% notice tip %}}
+{{% ref "https://en.wikipedia.org/wiki/File:RomanianTerritories.png#/media/File:RomanianTerritories.png" "Territories with historic significance for Romanian people." %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500"><a href="https://www.reddit.com/r/MapPorn/comments/3c59qn/percentage_of_romanian_homes_with_a_toilet_inside/">Percentage of Romanian homes with a toilet inside them [OC][1210x900]</a><br> by<a href="https://www.reddit.com/user/Bezbojnicul/">u/Bezbojnicul</a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+
+{{% notice tip %}}
+トイレが屋内にある地域（北西）と屋外にある地域（南東）には経済的な差がある？
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "北西" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./arc/960px-Brasov_From_White_Tower.jpg" width="500px">
+<img src="./arc/Viscri2.jpg" width="500px">
+</div>
+{{% notice tip %}}
+TODO / 赤茶色の屋根や水色の壁？{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2" "トランシルヴァニア" %}}。
+{{% /notice %}}
+{{% /tab %}}
+
+
+{{% tab "北東" %}}
+<div class="googlemap-if unclickable no-margin">
+<p><img src="./arc/640px-thumbnail.jpg" width="550px"></p>
+<p><img src="./arc/640px-thumbnail (1).jpg" width="550px"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Biserica de lemn din Dărmăneşti2.jpg" width="550px"></a></p><p>一番下の画像：By Cezar Suceveanu - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Link</a></p>
+</div>
+{{% notice tip %}}
+TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/32-bucovina/" "32. to Bucovina" %}}。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "南・南東" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><img src="./arc/609px-Arhitectură-dobrogeană.jpg" width="550px"></p>
+</div>
+
+{{% notice tip %}}
+TODO / ブルガリアっぽい建物があるかも。
+{{% /notice %}}
+{{% /tab %}}
 {{% tab "ひまわり畑" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684470352192!6m8!1m7!1sjbXvrKql7rKvUppx5CIKlQ!2m2!1d44.99873497073138!2d28.26096536490912!3f233.57437776441674!4f-2.810643552049882!5f1.5504235819947265" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

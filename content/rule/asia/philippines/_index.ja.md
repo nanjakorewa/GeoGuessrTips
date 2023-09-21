@@ -159,13 +159,38 @@ CC0画像を加工
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い</li>
+        <li>市外局番でおよその地域が特定できる{{% by %}}</li>
+        <li class="no-evidence">新しめのバイクのナンバープレートの色を見れば地域がわかることも{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_the_Philippines#Motorcycle_Classification_by_Color_Strip_and_Position" "Motorcycle Classification by Color Strip and Position" %}}</li>
+        <li class="no-evidence">トライシクルに都市名が書いてある場合があり見た目による地域性もあるらしい</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Philippine fixed line area codes.PNG" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard the Duck</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "バイクのナンバープレート" %}}
+
+{{% notice tip %}}
+おそらく2020年以降に撮影された地域でないとこのナンバープレートは発見できない。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695255302278!6m8!1m7!1si8ig9GkEKo-c1TZU72IreA!2m2!1d16.0455703930407!2d120.3433047965388!3f42.07442059423329!4f-24.316664187553883!5f3.325193203789971" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
         <li>農作物の分布が地域ごとに異なる
             <ul>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RP">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
-        <li>市外局番でおよその地域が特定できる{{% by %}}</li>
-        <li class="no-evidence">トライシクルに都市名が書いてある場合がある、見た目による地域性もあるらしい。</li>
     </ul>
 </div>
 
