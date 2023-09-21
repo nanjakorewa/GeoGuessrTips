@@ -161,9 +161,9 @@ sc: [
     <ul class="rule-list">
         <li>ざっくりと北西にむかうほど裕福で地方ごとに伝統的な家がある{{% ref "https://en.wikipedia.org/wiki/Romanian_architecture" "Romanian architecture" %}}{{% ref "https://roofingmagazine.com/roofing-romania-part-ii-past-prologue/" "Roofing in Romania, Part II: Past as Prologue" %}}
             <ul>
-                <li>北西<span style="color:#80FF25">■</span><span style="color:#33C933">■</span>：</li>
-                <li>北東<span style="color:#32A7C3">■</span>：</li>
-                <li>南<span style="color:#FF5454">■</span><span style="color:#E89156">■</span><span style="color:#D48E5F">■</span>：</li>
+                <li>北西<span style="color:#80FF25">■</span><span style="color:#33C933">■</span>：？？？</li>
+                <li>北東<span style="color:#32A7C3">■</span>：？？？</li>
+                <li>南<span style="color:#FF5454">■</span><span style="color:#E89156">■</span><span style="color:#D48E5F">■</span>：？？？</li>
             </ul>
         </li>
         <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}
