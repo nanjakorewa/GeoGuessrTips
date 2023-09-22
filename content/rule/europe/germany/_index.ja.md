@@ -135,7 +135,7 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
         <li class="no-evidence">レンガの家は北西側のオランダ周辺に多い</li>
         <li class="no-evidence">大規模な集合住宅が集まった通りは東側に多い？</li>
         <li class="no-evidence">白い壁とオレンジ色の屋根は中部～南部に多め？</li>
-        <li class="no-evidence">西のスレート鉱山周辺は黒い家の屋根が多いかも（衛星写真{{% ex "https://www.google.com/maps/@49.82393,6.7464958,1598m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7412276,6.8039102,611m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.738088,6.8475731,943m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7506867,6.6360939,933m/data=!3m1!1e3?entry=ttu" "" %}}）{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}</li>
+        <li class="no-evidence">中部のスレート鉱山周辺は黒い家の屋根が多いかも（衛星写真{{% ex "https://www.google.com/maps/@49.82393,6.7464958,1598m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7412276,6.8039102,611m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.738088,6.8475731,943m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7506867,6.6360939,933m/data=!3m1!1e3?entry=ttu" "" %}}）{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}</li>
     </ul>
 </div>
 
@@ -171,10 +171,10 @@ MAN Truck & Busはバイエルン州のミュンヘンに本社がある
 <p><img src="./burglauer_germany_landscape_town.jpg" width="600px"></p>
 </div>
 {{% /tab %}}
-{{% tab "西部の家" %}}
+{{% tab "中部の家" %}}
 
 {{% notice tip %}}
-黒い石が手に入る地域では屋根が黒いのかも。{{% goto "../france/" "フランス" %}}もSlateがある地域は屋根が黒い。その地域で安く手に入る材料を元に家が作られていたのかもしれない。写真は鉱山（Fell Exhibition Slate Mine）の周りにあるBurgenとTrierの街並み。
+黒い石が手に入る地域では屋根が黒いのかも。{{% goto "../france/" "フランス" %}}もSlateがある地域は屋根が黒い。その地域で安く手に入る材料を元に家が作られていたのかもしれない。写真は中部の鉱山（Fell Exhibition Slate Mine）の周りにあるBurgenとTrierの街並み。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
