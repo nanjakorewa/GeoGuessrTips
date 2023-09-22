@@ -305,6 +305,7 @@ Astrakhanの周りは土が赤く植生もまばらなので判別は難しく�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>『<a href="https://docs.google.com/document/d/1drp1udLAXFNOMDvU0V6pLS2wLakmXujMepTUlkIbc_k/edit#heading=h.xu6byjwpm9nv">A Learnable Russia: Supplementary Guide</a>』を読みつつ『<a href="https://www.geoguessr.com/maps/6447040b0517cbd5807a5145">A Learnable Russia</a>{{% ex "https://www.geoguessr.com/maps/6447040b0517cbd5807a5145" %}}』を練習する</li>
     </ul>
 </div>
 

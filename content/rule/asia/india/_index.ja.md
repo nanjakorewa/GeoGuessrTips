@@ -360,9 +360,14 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 </div>
 {{% /tab %}}
 {{% tab "Goa" %}}
+
+{{% notice tip %}}
+『キ』の電柱
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685018435595!6m8!1m7!1sItWlaAlStjLL4HsKHIxrTQ!2m2!1d15.57571962522207!2d73.8064451970202!3f336.98921646158215!4f11.233819098714903!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685018471524!6m8!1m7!1seog0QbfNFOP_MLnDvzaSew!2m2!1d15.57629639932401!2d73.80632555324496!3f329.6543764276662!4f36.130238701409496!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695368856803!6m8!1m7!1sI14s7i-mvSB-ekHbtHp53Q!2m2!1d15.57625692905384!2d73.80637384158902!3f186.04!4f6.780000000000001!5f3.1422555315175162" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

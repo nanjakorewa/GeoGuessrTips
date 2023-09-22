@@ -184,7 +184,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-後日追記する予定です{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}。
+{{% ref "https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html" "Gomez Diaz, Jesus David, et al. 『Soil moisture regimes in Mexico in a global 1.5 C warming scenario.』 International Journal of Climate Change Strategies and Management 11.4 (2019): 465-482." %}}。
 {{% /notice %}}
 
 
@@ -212,7 +212,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-TODO / サボテンが生えている場所がある。図は単純化しすぎていてもっと多様な景色がある。平坦で無い場所や山が見える場所も多い。
+サボテンが生えている場所がある。図は単純化しすぎていてもっと多様な景色がある。平坦で無い場所や山が見える場所も多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -244,7 +244,7 @@ TODO / サボテンが生えている場所がある。図は単純化しすぎ�
 </div>
 
 {{% notice tip %}}
-TODO
+？？？
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -260,7 +260,7 @@ TODO
 </div>
 
 {{% notice tip %}}
-TODO
+？？？
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -279,11 +279,57 @@ TODO
 東側とおなじくこちらでも農業が行われるが、山は見えないと思われる。
 {{% /notice %}}
 
-
-
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1695098429484!6m8!1m7!1ss3QDPfzgdXgNrhdeOsK9ww!2m2!1d25.67704690448053!2d-97.5946512078193!3f120.54146700617399!4f2.0649412659985558!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1695098483111!6m8!1m7!1sGjevq5dHoqEu7KzUCugYIQ!2m2!1d25.18339534118774!2d-97.95522199861607!3f317.4655134838271!4f14.367468771543756!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "ベラクルス～タバスコ" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/grassland.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+？？？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695368270633!6m8!1m7!1s8FQIdoSW00FfWEe1jRNbRg!2m2!1d18.15102722612788!2d-94.85487590642649!3f172.9412612348174!4f1.2244506430221236!5f0.7820865974627469" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695368407843!6m8!1m7!1sNfAeaEUXKBd5yR2yv0RBhA!2m2!1d18.13649866512451!2d-93.73460114699523!3f342.9002307005016!4f4.121700914993099!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "ユカタン半島北" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/tropical-dry.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+？？？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695367608806!6m8!1m7!1sZa_AxfgA21-vSkfmyQ68pA!2m2!1d19.50941907777958!2d-90.1728950075663!3f255.8818506293013!4f5.752925120443237!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695367581208!6m8!1m7!1sjlOQ6z3Ck5uAr2ZxGy80Tg!2m2!1d21.17306115082154!2d-88.46647526330227!3f174.15311130611744!4f10.702779210455049!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "ユカタン半島南" %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./veg/tropical-humid.jpg" width="540px" />
+</div>
+
+{{% notice tip %}}
+？？？
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695367862691!6m8!1m7!1sLW0mTSbrz8PqRwhrHFkcDg!2m2!1d19.80282261103021!2d-87.47777332081064!3f349.86543260293314!4f14.601799178475872!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695367758795!6m8!1m7!1s4pMEFHrulQSK24_Wu9WVQA!2m2!1d18.54207712533977!2d-88.46735425629878!3f318.3980474971268!4f9.819858013687366!5f0.4000000000000002" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

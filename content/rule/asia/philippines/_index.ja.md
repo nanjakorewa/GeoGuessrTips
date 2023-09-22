@@ -193,6 +193,51 @@ CC0画像を加工
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption area-description">
+    <h4 class="section-title">トライシクル</h4>
+    <ul class="rule-list">
+        <li class="no-evidence">Motorelaはミンダナオ島北部に多い{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}</li>
+        <li class="no-evidence">屋根がフラットだと南部・段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Motorela" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Motorela"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+後ろに席があり普通のトライシクルと比較すると多くの客を乗せることができる{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "北部" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="bike/n1.jpg" width="500px"/>
+<img src="bike/n2.jpg" width="500px"/>
+</div>
+
+{{% notice tip %}}
+屋根に段差がある。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "南部" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="bike/s1.jpg" width="500px"/>
+<img src="bike/s2.jpg" width="500px"/>
+<img src="bike/s3.jpg" width="500px"/>
+</div>
+
+{{% notice tip %}}
+屋根に段差が無い。画像はPanglao IslandとTagbilaran{{% ex "https://maps.app.goo.gl/F5pwC7hprrJ3UDFB8" %}}のもの。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
