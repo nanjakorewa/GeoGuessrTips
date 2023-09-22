@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "DE.svg"
 jetro_detail: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../austria/", "オーストリア"],

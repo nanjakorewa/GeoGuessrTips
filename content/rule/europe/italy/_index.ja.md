@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "IT.svg"
 dont_show_usda: true
 jetro_detail: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../monaco/", "モナコ"],
