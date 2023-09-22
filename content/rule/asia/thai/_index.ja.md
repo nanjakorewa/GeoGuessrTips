@@ -53,11 +53,11 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 </div>
 
 {{% notice tip %}}
-白いボラードがあり、これを使って場所も絞り込める{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【5k戦略】気づきにくい道路番号を読み取る【GeoGuessr】" %}}。
+白いボラードがあり、これを使って場所も絞り込める{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【5k戦略】気づきにくい道路番号を読み取る【GeoGuessr】" %}}。上のシンボルが黒塗りならばprovincial road（マップ上の紺色のマークの道）に行ってみる{{% by "sound_of_silence_wl" "twitch" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./thailand-milestone.png" width="90%" alt="タイのボラード" />
+<img src="./thailand-milestone.jpg" width="90%" alt="タイのボラード" />
 </div>
 
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
