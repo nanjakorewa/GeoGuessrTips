@@ -141,11 +141,11 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
             </ul>
         </li>
         <li>トルコの近くの離島もぎりぎり<span class="quiz">ギリシャ</span>領</li>
-        <li>平地と傾斜のある場所では農業のタイプが異なる
+        <li>平地と傾斜のある場所では農業のタイプが異なる{{% ref "http://leddris.aegean.gr/characteristics-1986/141-characteristics-of-cropland-in-messara-valley.html" "Characteristics of cropland: Crete and Messara Valley" %}}
             <ul>
                 <li>本土側の平地はコットンや灌漑農業が多い</li>
                 <li>本土側の傾斜がある場所や離島ではオリーブやベリーの畑が多い</li>
-                <li>{{% ref "http://leddris.aegean.gr/characteristics-1986/141-characteristics-of-cropland-in-messara-valley.html" "Characteristics of cropland: Crete and Messara Valley" %}}</li>
+                <li>ブドウ畑が全域にありワインが輸出されている{{% ref "https://vineyards.com/wine-map/greece" "Wine map regions of Greece" %}}</li>
             </ul>
         </li>
     </ul>
@@ -199,7 +199,6 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 {{% /tab %}}
 {{% /tabs %}}
-
 
 
 <div class="main-desciption city-description">
