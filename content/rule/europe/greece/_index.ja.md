@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "GR.svg"
 jetro_detail: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
@@ -140,6 +141,13 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
             </ul>
         </li>
         <li>トルコの近くの離島もぎりぎり<span class="quiz">ギリシャ</span>領</li>
+        <li>平地と傾斜のある場所では農業のタイプが異なる
+            <ul>
+                <li>本土側の平地はコットンや灌漑農業が多い</li>
+                <li>本土側の傾斜がある場所や離島ではオリーブやベリーの畑が多い</li>
+                <li>{{% ref "http://leddris.aegean.gr/characteristics-1986/141-characteristics-of-cropland-in-messara-valley.html" "Characteristics of cropland: Crete and Messara Valley" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -163,7 +171,35 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/hoVOxtPQlH">pic.twitter.com/hoVOxtPQlH</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1664031998334353408?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
+{{% tab "綿花" %}}
+
+{{% notice tip %}}
+平地でしか生産できないのでこれ以外の地域は平坦ではないことが多い。道端に白い綿が落ちていることがある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./agri/cotton.jpg" width="95%">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695436860859!6m8!1m7!1sYCcLreNqkCbWp9ASyOYaTg!2m2!1d41.61008497824488!2d26.37303509511274!3f104.67495531720185!4f-18.79687181152761!5f1.4631854376318079" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695437326716!6m8!1m7!1sasLY_iJPt55r6rizwZDvHw!2m2!1d39.62315994246634!2d21.6777329565599!3f79.77645508445318!4f8.192077905081149!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "観光地" %}}
+
+{{% notice tip %}}
+青いエリアは観光が盛ん{{% ref "https://www.researchgate.net/figure/Classification-of-rural-areas-Cluster-Analysis_fig6_241768983" "Polixeni Iliopoulou, Panagiotis Stratakis.『Aspects of Rural Development in Greece: Indicators, Policies and New Opportunities』" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./agri/rural-area.jpg" width="95%">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
+
 
 
 <div class="main-desciption city-description">
