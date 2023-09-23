@@ -111,13 +111,23 @@ Alexandra Palace Theatreはロンドンの北側にある
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>耕作地は南東に広がっている</li>
         <li>道路番号の先頭の数字で地域が分かる{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf01/7.pdf" "web" "高速道路ナンバリング検討委員会" %}}</li>
         <li>市外局番で地域がわかるがかなり複雑なので覚えるのは難しい</li>
-        <li class="no-evidence">菜種の生産は南東を中心に多い{{% goto "../../../nature/europe/" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "農業と植物の分布" %}}
+<div class="googlemap-if no-margin unclickable">
+<img src="./veg_image_large.png" width="90%">
+</div>
+
+{{% notice tip %}}
+耕作地は南東に広がっている{{% ref "https://www.eea.europa.eu/data-and-maps/figures/land-cover-2006-and-changes/united-kingdom" "Land cover 2006 and changes country analysis - United Kingdom@European Environment Agency" %}}。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "道路番号" %}}
 <div class="googlemap-if">
 <img class="no-click" src="2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
@@ -129,14 +139,6 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png#/media/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png" alt="Map of the Telephone Dialling Codes in the United Kingdom.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79071050">Link</a></p>
-</div>
-{{% /tab %}}
-{{% tab "菜種" %}}
-{{% notice tip %}}
-道端に黄色い花が生えていたら南東の方に行ってみる？北は寒く、西のウェールズは耕作に適した土壌ではないためこのような畑はあまり存在しない。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684569216795!6m8!1m7!1sw8Awq84Ne-0ufWNVXCf0Cg!2m2!1d52.66179235114208!2d0.3351630211269436!3f332.6578965340652!4f-4.955434271809068!5f2.9119385570937717" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
