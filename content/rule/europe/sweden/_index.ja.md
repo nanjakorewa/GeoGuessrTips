@@ -195,4 +195,11 @@ sc: [
 </div>
 
 {{% /tab %}}
+{{% tab "植生" %}}
+
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Sweden_Vegetation_Zones.jpg#/media/File:Sweden_Vegetation_Zones.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Sweden_Vegetation_Zones.jpg" alt="Sweden Vegetation Zones.jpg" height="869" width="600"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Boeing720" title="User:Boeing720">Boeing720</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63284022">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}

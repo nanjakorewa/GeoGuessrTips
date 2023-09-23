@@ -168,16 +168,31 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>市外局番が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。</li>
+        <li>南には森林があるが最北エリアでは岩肌が多く見えることがある。</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "道路番号" %}}
+{{% tab "市外局番" %}}
 <div class="googlemap-if">
+<p>
 <img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>
-<div>
-By <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Gyroscopbill212</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Link</a>
+</p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Gyroscopbill212</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Link</a></p>
 </div>
+{{% /tab %}}
+{{% tab "植生" %}}
+<div class="googlemap-if">
+<p><img class="no-click" src="Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="ノルウェーの植生" style="max-width: 80%;"/></p>
+<p><a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Panitz, Sina, et al. "Climate variability and long-term expansion of peatlands in Arctic Norway during the late Pliocene (ODP Site 642, Norwegian Sea)." Climate of the Past 12.4 (2016): 1043-1060.</a>, <a href="https://creativecommons.org/licenses/by/3.0/">表示 3.0 未移植 (CC BY 3.0)</a></p>
+</div>
+
+{{% notice tip %}}
+以下は最北のエリア。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695490545547!6m8!1m7!1seE_PC-8Y5MaNOrB4EBzESQ!2m2!1d70.56821007191164!2d23.56538438044841!3f28.774511950547584!4f9.321345598562914!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695490631867!6m8!1m7!1s4K3IqcH1RvXcvtIJI3VNxQ!2m2!1d68.21151970287742!2d14.30093525890373!3f51.38196891481299!4f8.426436722203775!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
