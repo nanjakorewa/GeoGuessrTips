@@ -122,7 +122,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
 {{% /tab %}}
 {{% /tabs %}}
 
-<div class="main-desciption city-description">
+<div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>アルゼンチンの最も北東の角と最も北西の角はブラジルっぽい</li>
@@ -131,11 +131,79 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
 
 
 {{% tabs %}}
-{{% tab "北東と北西の角" %}}
+{{% tab "植生の分布" %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_Argentina_Vegetaci%C3%B3n.svg#/media/File:Mapa_Argentina_Vegetación.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mapa_Argentina_Vegetaci%C3%B3n.svg" alt="Mapa Argentina Vegetación.svg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Someone83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Someone83 (page does not exist)">Someone83</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4560348">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "北東部" %}}
+<div class="googlemap-if unclickable">
+<img src="./v/2.jpg" width="350px">
+</div>
+
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688026210276!6m8!1m7!1syVGw6km5sYPb2ZoI-NmLNA!2m2!1d-22.19959572732366!2d-63.65727912927424!3f266.3008796403948!4f0.3376384477199821!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688026231569!6m8!1m7!1srf2TnRyJlxILs8ceAblHfQ!2m2!1d-27.01061822806514!2d-54.52182362922331!3f244.9897857196307!4f2.6680916931539542!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% /tab %}}
+{{% tab "中央北部" %}}
+<div class="googlemap-if unclickable">
+<img src="./v/1.jpg" width="350px">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475196557!6m8!1m7!1suWa8hF8lmQblkExdc1Ky8Q!2m2!1d-24.09681080488632!2d-61.45661006359634!3f126.26750005653528!4f5.704118236355768!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475157315!6m8!1m7!1sx-j2NIOt19LcJEL6ZSboVQ!2m2!1d-29.34660581743527!2d-62.43280514858617!3f317.90422036742865!4f8.260574035554725!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "フフイ州付近" %}}
+<div class="googlemap-if unclickable">
+<img src="./v/6.jpg" width="350px">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475442860!6m8!1m7!1st8VQzqEZyN6rNG9fYYFjWg!2m2!1d-22.03299319359667!2d-65.97434696450324!3f298.222961832195!4f1.0039284252522407!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475495018!6m8!1m7!1s4F0Y8wkDOgmTLM3wxCL5qA!2m2!1d-23.39978561081391!2d-66.36767999875447!3f187.1212325368053!4f13.349579303691144!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "チリ国境付近" %}}
+<div class="googlemap-if unclickable">
+<img src="./v/4.jpg" width="350px">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475608668!6m8!1m7!1scWvLMaBf-LC5CVh4WUqPlA!2m2!1d-39.60571822989126!2d-71.38286578206605!3f61.01008167757068!4f10.466885624953122!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475670183!6m8!1m7!1sQ_5nVnavQaIRRsSdSJWA1A!2m2!1d-49.9134308419014!2d-72.73941443319791!3f271.38269978778465!4f2.527335192403129!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "中央東部" %}}
+<div class="googlemap-if unclickable">
+<img src="./v/5.jpg" width="350px">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475831091!6m8!1m7!1sx0zBpq6GGsFwDc6dgrQYuA!2m2!1d-38.7166518222373!2d-61.19218644166997!3f265.54400651548406!4f5.961209459531432!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475870506!6m8!1m7!1syWPo8CFFGSshcFtSKwBT0g!2m2!1d-34.38072972397562!2d-60.01292180428341!3f288.91771789593065!4f4.38912086817065!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "南部" %}}
+<div class="googlemap-if unclickable">
+<img src="./v/3.jpg" width="350px">
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475732528!6m8!1m7!1s7S-uHmT6vqNnZKu6sMS3tw!2m2!1d-48.86692615804154!2d-70.90883213540693!3f55.47476742623165!4f11.350618516393695!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695475702606!6m8!1m7!1sIMXlMnzorgVfFb-RydDBOw!2m2!1d-50.28256326664331!2d-69.16584827063312!3f222.00459833535876!4f10.728831160398471!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

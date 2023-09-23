@@ -88,7 +88,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686925262715!6m8!1m7!1szVcsZ4Bhw1F5Ijw_LaZQCA!2m2!1d40.30921951700285!2d40.98824819170338!3f69.80166315020313!4f-14.277059747114663!5f3.050611078327584" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
@@ -116,6 +115,11 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682124343498!6m8!1m7!1soavtCUP5-jYYp_V2xA792g!2m2!1d41.04250992296203!2d28.98642515603996!3f289.60900622705896!4f3.2878253103013293!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682124561524!6m8!1m7!1sKdxQ7eLvYJyjiOcZPrhw6g!2m2!1d41.04363221134001!2d28.98635001306301!3f279.22724503871007!4f-2.0998099344897696!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "気候区分" %}}
+<div class="googlemap-if">
+<p><a href="https://commons.wikimedia.org/wiki/File:Koppen-Geiger_Map_TUR_present.svg#/media/File:Koppen-Geiger_Map_TUR_present.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Koppen-Geiger_Map_TUR_present.svg" alt="Koppen-Geiger Map TUR present.svg" height="599" width="1280"></a></p><p>By Beck, H.E., Zimmermann, N. E., McVicar, T. R., Vergopolan, N., Berg, A., Wood, E. F. - "Present and future Köppen-Geiger climate classification maps at 1-km resolution". Nature Scientific Data. <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="w:Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038/sdata.2018.214">10.1038/sdata.2018.214</a>., <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74674127">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
