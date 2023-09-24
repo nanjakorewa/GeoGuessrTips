@@ -59,7 +59,7 @@ sc: [
 
 
 {{% notice tip %}}
-歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い{{% ex "https://goo.gl/maps/ATGCJqxmWvukMzFH7" "https://goo.gl/maps/qwLftThihrR8Av9r6" "https://goo.gl/maps/XSA94y7vMYu8gRkw7" %}}。赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無く</span>{{% ex "https://goo.gl/maps/kJNQ2eareCtjNVCh9" %}}、また細い長方形型の鉄のパイプを使って標識が建てられている{{% ex "https://goo.gl/maps/AE5WCMZD4fKpouGc8" "https://goo.gl/maps/AE5WCMZD4fKpouGc8" %}}ことが多い。裏側から見た画像は{{% goto "https://goo.gl/maps/9FCkMexLvbz1up1N8" "これ" %}}。
+歩行者注意の看板は横断歩道の縞々が<span class="quiz">8</span>本のものが多い{{% ex "https://goo.gl/maps/ATGCJqxmWvukMzFH7" "https://goo.gl/maps/qwLftThihrR8Av9r6" "https://goo.gl/maps/XSA94y7vMYu8gRkw7" %}}。赤い警告看板はSTOPの看板以外は縁が<span class="quiz">無く</span>{{% ex "https://goo.gl/maps/kJNQ2eareCtjNVCh9" %}}、また細い長方形型の鉄のパイプを使って標識が建てられている{{% ex "https://goo.gl/maps/AE5WCMZD4fKpouGc8" "https://maps.app.goo.gl/Z8o3M3p1P5ivDM657" %}}ことが多い。裏側から見た画像は{{% goto "https://goo.gl/maps/9FCkMexLvbz1up1N8" "これ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -93,7 +93,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-鉄塔がありがち。根本がコンクリートで固められていることも多い。
+鉄塔がありがち{{% ex "https://maps.app.goo.gl/NCsaLMGyGs3GGm7r5" "https://maps.app.goo.gl/1xGAHErGqryqYMzg8" "https://maps.app.goo.gl/dBSE4QBsqVNYWJdt6" %}}。根本がコンクリートで固められていることも多い。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
