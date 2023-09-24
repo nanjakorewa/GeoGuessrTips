@@ -41,7 +41,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-～MEXと名の付く会社はメキシコの大手企業に多い。石油大手Pemex・通信大手telmex・セメント大手Cemexなど。OXXOはメキシコの大手コンビニで街中に多く見かける。ただしOXXOは{{% goto "../../cs_america/chile/" "チリ" %}}の都市部にも店がある点に注意。
+～MEXと名の付く会社はメキシコの大手企業に多い{{% ex "https://maps.app.goo.gl/gNra8Maea9uZVtbq6" "https://maps.app.goo.gl/8KFUqaVqer1kcotr5" %}}。石油大手Pemex・通信大手telmex・セメント大手Cemexなど。OXXOはメキシコの大手コンビニで街中に多く見かける。ただしOXXOは{{% goto "../../cs_america/chile/" "チリ" %}}の都市部にも店がある点に注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Nuevo Vallarta Mexico"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -77,6 +77,12 @@ sc: [
 <img src="./house.png" width="90%">
 </div>
 
+{{% notice tip %}}
+メキシコのビール醸造所であるGrupo Modeloが製造するコロナビール{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "コロナビール" %}}のロゴが見られる{{% ex "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./bottle_beer_beach_drink.jpg" width="90%">
+</div>
 
 {{% /tab %}}
 {{% tab "w-road" %}}
