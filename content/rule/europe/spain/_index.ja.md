@@ -92,12 +92,18 @@ sc: [
 <img src="./r/chv-b.png" width="200px">
 </div>
 
+{{% notice tip %}}
+鉄塔がありがち。根本がコンクリートで固められていることも多い。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Forn_d%27Alcedo._Avinguda_Karl_Marx.JPG#/media/File:Forn_d'Alcedo._Avinguda_Karl_Marx.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Forn_d%27Alcedo._Avinguda_Karl_Marx.JPG" alt="Forn d'Alcedo. Avinguda Karl Marx.JPG" width="510px"></a></p><p>By Enrique Íñiguez Rodríguez (<a href="//commons.wikimedia.org/wiki/User:Qoan" title="User:Qoan">Qoan</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10603026">Link</a></p>
+</div>
 
 {{% /tab %}}
 {{% tab "電柱" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682750307055!6m8!1m7!1s_PZpttpMCreCdZxd4VymEw!2m2!1d37.67128003375031!2d-1.69700786888118!3f249.2822356783527!4f16.84532252672038!5f1.5201396284276871" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682750523655!6m8!1m7!1s_QeWHES_4wbNUSWBo7hSYA!2m2!1d36.74881842082745!2d-4.719686215448228!3f180.2652948549871!4f8.383923589280442!5f1.7435841889690247" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./cc0-poles.jpg">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
