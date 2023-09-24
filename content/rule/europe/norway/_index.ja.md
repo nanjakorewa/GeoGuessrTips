@@ -63,7 +63,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 
 {{% notice tip %}}
-北欧であって、速度表記などの背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。ノルウェーとスウェーデンの国境で看板の色が変わることが分かる{{% ex "https://goo.gl/maps/NiMZkTWQ871oqeXZ6" %}}。
+北欧であって、速度表記などの警告看板の背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。ノルウェーとスウェーデンの国境で看板の色が変わることが分かる{{% ex "https://goo.gl/maps/NiMZkTWQ871oqeXZ6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">

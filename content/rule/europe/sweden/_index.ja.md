@@ -89,7 +89,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-北欧であって速度表記に<span class="quiz">背景がオレンジで縁に細い黄色線がない</span>ならばスウェーデンの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/WEAxgAcGKMc7ifB48" %}}・<span class="quiz">フィンランド</span>。
+北欧であって警告看板の<span class="quiz">背景がオレンジで縁に細い黄色線がない</span>ならばスウェーデンの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/WEAxgAcGKMc7ifB48" %}}・<span class="quiz">フィンランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
