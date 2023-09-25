@@ -112,7 +112,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い
+2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い（以下はイメージ図）
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
