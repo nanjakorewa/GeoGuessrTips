@@ -13,7 +13,8 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../romania/", "ルーマニア"],
-    ["../bulgaria/", "ブルガリア"],
+    ["../serbia/", "セルビア"],
+    ["../croatia/", "クロアチア"],
     ]
 ---
 

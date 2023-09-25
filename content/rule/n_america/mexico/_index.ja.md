@@ -120,6 +120,15 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685121404728!6m8!1m7!1syPURJXcwbJVqYCIg3eZXgQ!2m2!1d19.11496650661053!2d-98.64331097224446!3f154.51219893435274!4f-74.2594996313238!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "📽" %}}
+{{% notice tip %}}
+バハ・カリフォルニア州
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4mP2DbESxGo?si=PvEVlU3WN4OI2SNK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
