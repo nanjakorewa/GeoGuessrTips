@@ -81,7 +81,7 @@ additional_link:
 </div>
 
 {{% notice tip %}}
-フィンランドは警告看板の<span class="quiz">まわりに黄色の細い円</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
+フィンランドは警告看板の<span class="quiz">まわりに黄色の細い縁</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:10px;;border-radius:20px;">
 <img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />

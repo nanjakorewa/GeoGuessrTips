@@ -93,7 +93,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-鉄塔がありがち{{% ex "https://maps.app.goo.gl/NCsaLMGyGs3GGm7r5" "https://maps.app.goo.gl/1xGAHErGqryqYMzg8" "https://maps.app.goo.gl/dBSE4QBsqVNYWJdt6" %}}。根本がコンクリートで固められていることも多い。
+鉄塔がありがち{{% ex "https://maps.app.goo.gl/NCsaLMGyGs3GGm7r5" "https://maps.app.goo.gl/1xGAHErGqryqYMzg8" "https://maps.app.goo.gl/dBSE4QBsqVNYWJdt6" "https://maps.app.goo.gl/tchDGcGU2AvXar9Z9" %}}。根本がコンクリートで固められていることも多い。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
