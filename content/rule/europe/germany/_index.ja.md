@@ -30,6 +30,7 @@ sc: [
         <li>四角いモザイクが多く第2世代しかなかった{{% by "neckoluv" "twitch" %}}が2023年7月以降は新しいストリートビューが追加される予定なので注意{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
         <li class="no-evidence">番号が書かれた白いプレートや黒いQRコードが書かれたプレートが木製の電柱に多く付いている</li>
         <li class="no-evidence">都市部や住宅地は電柱が少ない{{% ref "https://shizen-hatch.net/2022/03/17/telephone-pole/" "電柱の整備状況と地中化に向けた国内外の取り組み" %}}</li>
+        <li>2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い</li>
     </ul>
     {{% rd europe germany verysmall %}}
 </div>
@@ -110,7 +111,13 @@ sc: [
 <img src="./up.png" width="90%">
 </div>
 
+{{% notice tip %}}
+2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い
+{{% /notice %}}
 
+<div class="googlemap-if no-margin unclickable">
+<img src="./copyright.jpg" width="400px">
+</div>
 
 
 {{% /tab %}}
