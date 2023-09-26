@@ -25,17 +25,15 @@ is_has_many_trekker: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}赤茶色の土が多い。あとトレッカーを持っている人の頭が下に映っている。
+{{% notice tip %}}赤茶色の土が多い{{% ex "https://maps.app.goo.gl/GSmnTeyuXpV2k27m8" %}}。トレッカーを持っている人の頭や帽子が下に映っていることがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686243336699!6m8!1m7!1srB-tDITjl13wqClfLnCOIQ!2m2!1d-25.06645814621521!2d-130.100565056316!3f258.72096873700417!4f-18.92261508317442!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686017788019!6m8!1m7!1sEoNne5DJvhdNkbzxzWPMyQ!2m2!1d-25.06773286507657!2d-130.1080771747584!3f149.957325685363!4f-7.513617136418134!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695731793381!6m8!1m7!1sEoNne5DJvhdNkbzxzWPMyQ!2m2!1d-25.06773286507657!2d-130.1080771747584!3f145.27646300043733!4f-52.96307466727981!5f0.4000000000000002" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}車が特徴的？赤いバギーのようなものしか使われていない。
+{{% notice tip %}}乗り物として赤いバギーのようなものが使われている{{% ex "https://maps.app.goo.gl/paYGi6WRhwBrShSe8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686018097559!6m8!1m7!1sHUnTIUrPku2TLYpy9WzJ-g!2m2!1d-25.06538126430362!2d-130.1027196175138!3f238.6379168132249!4f-9.957657023882604!5f1.9388460418781412" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686018117236!6m8!1m7!1sRP1OlgvCG-yBATpiP4zzgQ!2m2!1d-25.06878019670753!2d-130.0960184171982!3f232.26171080623598!4f-16.976671611022482!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686018117236!6m8!1m7!1sRP1OlgvCG-yBATpiP4zzgQ!2m2!1d-25.06878019670753!2d-130.0960184171982!3f232.26171080623598!4f-16.976671611022482!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tabs  %}}

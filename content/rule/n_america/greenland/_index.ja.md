@@ -31,12 +31,11 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-グリーンランドは先住民が８割以上を占めていて、公用語はグリーンランド語。永久凍土の混じった領域は夏に氷が溶けることで地面が凹み、逆に冬は再び凍り地面が盛り上がる。そのためその影響を受けないように岩などの上に家を立てているケースが多いという。家の土台に隙間があったりコンクリートで固められていた李する。寒さの影響で道路もまっ平ではないことが多いという（<a href="http://chikyunokurashi.com/greenland/ordinarylifeingreenland/">出典</a>）。平坦かどうかは横断歩道を見ないと分かりづらいかも？
+グリーンランドは先住民が８割以上を占めていて、公用語はグリーンランド語。永久凍土の混じった領域は夏に氷が溶けることで地面が凹み、逆に冬は再び凍り地面が盛り上がる。そのためその影響を受けないように岩などの上に家を立てているケースが多いという。家の土台に隙間があったりコンクリートで固められていたりする{{% ex "https://maps.app.goo.gl/RJ9MNRwS8cwdsfu69" "https://maps.app.goo.gl/HRUqsMZjoXRTRCHc9" "https://maps.app.goo.gl/gz9J7etmTHdc5oba9" %}}。寒さの影響で道路もまっ平ではないことが多いという{{% ref "http://chikyunokurashi.com/greenland/ordinarylifeingreenland/" "グリーンランド人の日常生活" %}}）。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682142831576!6m8!1m7!1si-kAUTnUvEFEdkJdZLc3bA!2m2!1d64.1702562429904!2d-51.7305723944466!3f16.506575931963674!4f-1.138792858281704!5f1.7423236804697373" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683535820349!6m8!1m7!1sGpoqz2ghezNGQdR1IE1BfA!2m2!1d65.88839111292849!2d-37.77969416423746!3f9.80313209708379!4f5.263630162747248!5f1.536207576461131" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682143006574!6m8!1m7!1snF7g5zuOZKckbur0hDFH-A!2m2!1d64.17255266735393!2d-51.73684799309885!3f308.01985403760085!4f-6.819207902979159!5f3.325193203789971" width="590" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin unclickable">
+<img src="./tasiilaq_greenland_01.jpg" width="550px">
+<img src="./tasiilaq_greenland_east_greenland.jpg" width="550px">
 </div>
 
 {{% notice tip %}}
@@ -44,8 +43,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683535012250!6m8!1m7!1s5xDOlJ3nRskXTGQQ4zKS3Q!2m2!1d64.40565321485649!2d-50.92878911922284!3f233.90784557155138!4f3.906428992527694!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683535598356!6m8!1m7!1sJWKXNtbZpJL-rPFjVTFcOw!2m2!1d65.65127559241013!2d-37.31975792701175!3f22.734939967993213!4f-35.61737462945672!5f1.7431718349436869" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683535598356!6m8!1m7!1sJWKXNtbZpJL-rPFjVTFcOw!2m2!1d65.65127559241013!2d-37.31975792701175!3f22.734939967993213!4f-35.61737462945672!5f1.7431718349436869" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
@@ -54,7 +52,7 @@ Google Carが特徴的
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686390451593!6m8!1m7!1siqs6NGkbB7O4Px9s_ct61Q!2m2!1d64.16964879365322!2d-51.73017917481543!3f359.41528509947415!4f-41.78736194440895!5f1.5120995218794824" width="400" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686390451593!6m8!1m7!1siqs6NGkbB7O4Px9s_ct61Q!2m2!1d64.16964879365322!2d-51.73017917481543!3f359.41528509947415!4f-41.78736194440895!5f1.5120995218794824" width="490" height="330" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

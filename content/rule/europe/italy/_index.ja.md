@@ -178,7 +178,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
         <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる</li>
         <li class="no-evidence">地中海側は石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
-        <li>サルデーニャ島
+        <li>サルデーニャ島{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
             <ul>
                 <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
                 <li>イタリアで唯一アウトストラーダが存在しない州なので緑の八角形のマークは無い</li>
