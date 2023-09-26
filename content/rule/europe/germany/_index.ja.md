@@ -95,13 +95,6 @@ sc: [
 <img src="./town-enter.svg" width="150px" style="margin:55px 0 0 10px">
 </div>
 
-{{% notice tip %}}
-石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業がルール工業地域に多く{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}郊外に工場らしきものが見える{{% ex "https://goo.gl/maps/52RWqCop67xJMW8x6" "https://goo.gl/maps/1zUtgj3jRH2aKg3t6" %}}ことがあるけれどGeoguessrでは使えないかも。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="Aral.jpg" width="90%">
-</div>
 
 {{% notice tip %}}
 番号が書かれた白いプレートや黒いQRコードが書かれたプレートが木製の電柱に多く付いている{{% ex "https://goo.gl/maps/Jh6KDWyDhDaJspuC6" "https://goo.gl/maps/HCDxPEw2JVAbqQ5dA" "https://goo.gl/maps/uiMGX52jddHQddyT6" "https://goo.gl/maps/yRaoDQGYirVFiMAP9" "https://goo.gl/maps/pyDSPCRMaYwdVy3j8" "https://goo.gl/maps/YnW51dEjnmbKtTFy9" "https://goo.gl/maps/HMhBQZ4xoXG1KbpD6" "https://goo.gl/maps/wDBbY3NPDJdD1pPN7" %}}のを良く見かける{{% imref %}}。数字の色がはがれていることがある。
@@ -121,13 +114,34 @@ sc: [
 
 
 {{% /tab %}}
-{{% tab "w-viecle" %}}
+{{% tab "商業施設" %}}
 {{% notice tip %}}
-MAN Truck & Busはバイエルン州のミュンヘンに本社がある
+薬局に赤いロゴがある{{% ref "https://de.wikipedia.org/wiki/Apotheke" "Apotheke" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683185523960!6m8!1m7!1snvYQfP_pgME098dkO1Qt_g!2m2!1d50.92495539690297!2d6.95852656384067!3f322.8118669778739!4f-5.199782705638626!5f2.8953866314678622" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./c/apotheke.jpg" width="500px">
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./c/Deutsche_Apotheke_Logo.svg" width="150px">
+</div>
+
+{{% notice tip %}}
+ドイツのボンに本社を置く運送会社であるDHLグループのトラックやポストがある{{% ref "https://en.wikipedia.org/wiki/DHL_Group" "DHLグループ" %}}。DHLはロジスティクス業界ではヨーロッパ最大規模の会社であり、どの国にもトラックが走っている。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./c/deutsche_post_ag_technischer_0.jpg" width="500px">
+<img src="./c/dhl_rad_tu_darmstadt.jpg" width="500px">
+</div>
+
+{{% notice tip %}}
+石油製品を販売するAralがある{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}。またBASFを代表とした化学系の企業がルール工業地域に多く{{% ref "https://ja.wikipedia.org/wiki/BASF" "BASF" %}}郊外に工場らしきものが見える{{% ex "https://goo.gl/maps/52RWqCop67xJMW8x6" "https://goo.gl/maps/1zUtgj3jRH2aKg3t6" %}}ことがあるけれどGeoguessrでは使えないかも。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="Aral.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">

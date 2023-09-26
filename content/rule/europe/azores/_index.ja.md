@@ -25,7 +25,7 @@ sc: [
     <ul class="rule-list">
         <li>ポルトガル領の離島でナンバープレート・標識・電柱はポルトガルと共通している</li>
         <li><span class="quiz">テルセイラ</span>島と<span class="quiz">サンミゲル</span>島にストリートビューが多い</li>
-        <li class="no-evidence">白い壁にカラフルな縁取りの家が多い気がする</li>
+        <li>石壁とアジサイのような花がたくさん見られる</li>
         <li class="no-evidence">標識の棒が色付きのストライプの時がある{{% ex "https://goo.gl/maps/i1SXNKjqfAxMaUFi8" "https://goo.gl/maps/z5FwdCL7hSqChGyZ9" %}}</li>
     </ul>
 </div>
