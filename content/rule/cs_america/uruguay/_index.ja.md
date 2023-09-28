@@ -25,7 +25,7 @@ sc: [
         <li>ナンバープレートは<span class="quiz">白</span>色</li>
         <li><span class="quiz">白色</span>に塗られた製材で標識が立てられている、ボラードも同じく<span class="quiz">白色</span>が多い</li>
         <li>国全域がパンパと呼ばれる草原地帯におおわれていて牛や羊の牧畜が行われている</li>
-        <li>Google Carが<span class="quiz">黒</span>色なのは南米ではウルグアイの他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../peru/" "ペルー" %}}がありえる{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
+        <li>Google Carが<span class="quiz">黒</span>く見える</li>
         <li>アルゼンチンと異なりナンバープレートは黒くない</li>
         <li class="no-evidence">防風林や植林地が散見され同一の種類の木がきれいに植えられていることがある</li>
         <li class="no-evidence">道路の中央線に黄色い二本の線があり間に白い線が等間隔である</li>
@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。またウルグアイの車のナンバープレートは<span class="quiz">白</span>色に近いが、{{% goto "../argentina/" "アルゼンチン" %}}は真ん中が黒く見える。
+<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い{{% ex "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。またウルグアイの車のナンバープレートは<span class="quiz">白</span>色に近い{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}が、{{% goto "../argentina/" "アルゼンチン" %}}は真ん中が黒く見える。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road.jpg" width="90%" alt="ウルグアイの標識" >
@@ -48,11 +48,11 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 {{% /lb %}}
 
 {{% notice tip %}}
-道路の中央線も特徴的。また、同じ種類の木がまっすぐに植えられている植林地が点在する。ウルグアイは山がほぼ無い平坦な国なので風を遮るものが無い。これらは防風林もしくは家畜避難林だと思われるけれど明確なソース無し。 "<i>牧場では時々来襲する暴風雨から家畜を守るため、放牧地内の所々に家畜避難林や防風林を設定している</i>{{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "ウルグアイの生活を振り返って" %}}"。
+道路の中央線が特徴的{{% ex "https://maps.app.goo.gl/seXU3MXkz3NFSpE3A" %}}。また同じ種類の木が植えられている植林地が点在する{{% ex "https://maps.app.goo.gl/3SHSy4SYnA84L6bp9" %}}。ウルグアイは山がほぼ無い平坦な国なので風を遮るものが無い。これらは防風林もしくは家畜避難林だと思われる {{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "ウルグアイの生活を振り返って" %}}"。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685254991409!6m8!1m7!1sUOiitP7qH6GBggTvmb0Wug!2m2!1d-34.12346065396341!2d-55.6720927660824!3f203.6559584591058!4f-11.775103413966363!5f1.5349753674630002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685254826464!6m8!1m7!1srTqUqt0zOGgRLS7_W7mPRQ!2m2!1d-31.85590142097197!2d-54.71309876343062!3f306.72612449953994!4f0.14263049488664592!5f1.7616111927914884" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Ruta30accesoaTranqueras.jpg" height="432" width="640"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:CITY_MVD" title="User:CITY MVD">CITY MVD</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98375088">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -63,6 +63,13 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 <div class="unclickable">
 <img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
 </div>
+</div>
+
+{{% notice tip %}}
+Google Carが<span class="quiz">黒</span>く見える。Google Carが<span class="quiz">黒</span>色なのは南米ではウルグアイの他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../peru/" "ペルー" %}}がありえる{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695876040129!6m8!1m7!1sNdow-PSRQ6CjuxTyg5HhaQ!2m2!1d-34.91562658275524!2d-55.04692623037403!3f352.6281620226613!4f-31.395691309478167!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
