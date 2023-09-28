@@ -124,12 +124,10 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688829875622!6m8!1m7!1s9eX9rIO8mrszxmDFDZROzQ!2m2!1d-0.2555755127413128!2d-80.2917374954958!3f223.2545471736234!4f-33.08495663102262!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-mymemo-wrong-cn" %}}
+{{% tab "🎶" %}}
 
-<div>
-    <ul class="rule-list-none">
-        <li>{{% googlemap "https://goo.gl/maps/GenXMQanMSXWMaj5A" %}}</li>
-    </ul>
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5TC7FQe1yE8?si=OaM0NZPCnSa598Yf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 
 {{% /tab %}}

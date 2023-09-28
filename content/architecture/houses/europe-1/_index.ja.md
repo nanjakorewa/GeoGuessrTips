@@ -17,14 +17,20 @@ add_rule_link: true
 
 {{% tabs %}}
 {{% tab "見た目" %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-24-13-33-38.png" width="90%">
+<div class="googlemap-if unclickable no-margin">
+<img src="./uk/houses_street_osiedle_little.jpg" width="590px">
 </div>
 {{% /tab %}}
 {{% tab "ロンドン" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684902709178!6m8!1m7!1smN3Lim3_IaJoFue8qcZgCQ!2m2!1d51.36626435422079!2d-0.2233215462554021!3f36.09478204124618!4f1.611996076416773!5f1.5345647851442772" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1677671090311!6m8!1m7!1srhjh_G1qsz-Stw1EUIC3Mw!2m2!1d51.54677375612285!2d-0.1776594417909041!3f211.95812872447297!4f3.541279414326482!5f1.5689463763092348" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable no-margin">
+<img src="./uk/london_england_united_kingdom.jpg" width="590px">
+<img src="./uk/london_united_kingdom_england_11.jpg" width="590px">
+</div>
+{{% /tab %}}
+{{% tab "エディンバラ" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./uk/ashley_terrace_shandon_edinburgh.jpg" width="590px">
+<img src="./uk/john_knox_house_royal.jpg" width="590px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -38,10 +44,9 @@ add_rule_link: true
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/thomissen/7103147257/" title="Belgium House Design"><img src="https://live.staticflickr.com/7067/7103147257_108f2f555e_z.jpg" width="640" height="499" alt="Belgium House Design"/></a>
 </div>
 {{% /tab %}}
-{{% tab "ナミュール" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1678557094468!6m8!1m7!1sKP65-whUq7db38X7-6wpyA!2m2!1d50.45278245868658!2d4.866271555959639!3f32.604494820724994!4f1.2497344896390956!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684902464540!6m8!1m7!1sR1AebAe72R7CSYULJopcCA!2m2!1d50.46516680411996!2d4.867990042154711!3f43.799675760245556!4f0.009978603370569772!5f1.7184454225620502" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "ブリュッセル" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./be/grand_place_northwest_brussels.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
