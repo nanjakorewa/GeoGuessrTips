@@ -74,6 +74,7 @@
         <div class="col-12">
           <div class="bg-white update-area">
             <b>{{ .Site.Params.update_message }}</b> <a href="{{ .Site.Params.page_link }}">{{ .Site.Params.page_title }}@{{ .Site.Params.update_date }}</a>
+            {{ if .Site.Params.page_link2 }}・<a href="{{ .Site.Params.page_link2 }}">{{ .Site.Params.page_title2 }}@{{ .Site.Params.update_date2 }}</a>{{ end }}</b>
           </div>
         </div>
       </div>
