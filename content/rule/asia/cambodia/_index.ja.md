@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-カンボジアの農村部は<span class="quiz">高床式住居</span>が多い。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
+カンボジアの農村部は<span class="quiz">高床式住居</span>が多い{{% ex "https://maps.app.goo.gl/NrkRT5tKkQj4GMXYA" %}}。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Cambodia Rural House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -57,10 +57,9 @@ sc: [
 {{% notice tip %}}
 カンボジアで知名度の高い企業が書かれたパラソルや看板が多い。通信はBeeline、清涼飲料水はコカ・コーラ、ビールは<span class="quiz">LEO・Kingdom・Angkor</span>など、<span class="quiz">Angkor</span>のロゴにもアンコールワットが描かれている{{% ref "https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php" "カンボジアのビール事情" %}}。郊外ではこのようなパラソルの下で瓶入りの飲み物が売られていることが多い{{% ex "https://goo.gl/maps/Gq4nqv7iWcHiJLoE8" "https://goo.gl/maps/nPdyAPubroFLr7ET8" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-<div class="unclickable"><img src="2023-06-09-01-40-05.png" width="590"/></div>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/okalbum/7690023076/in/photolist-rChgvg-9m3pPe-Fz5tqD-9BekZs-8C6uN7-cHxnWL-66bLSv-9323af-NxtQRA-bQJxNP-cMqJqW-CHNoEW-cYNZLL-4BEpon-kB5qEL-7iqRBq-dTDy2D-nABqRp-De1aMq-7uBM8E-bT2BYT-85NGPU-7jpkGQ-xMPCMt-8XmG73-4bkuk7-6DLum2-HzutyZ-8NDZKY-oKqsSC-9W4SSH-c73HWJ-mbBeF-7QrSj3-rkQ5it-dUGhmZ-yQzur-9iLfJc-cwidz5-9mXGUX-gH55qW-8dkwKD-roYXT-88Hxgy-4UibN8-odi3e-nc94FV-ELR6wg-9VbxYz-dSvZ5A" title="cambodian beer"><img src="https://live.staticflickr.com/8167/7690023076_10c9899b8d_z.jpg" width="590" alt="cambodian beer"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice note %}}
@@ -80,7 +79,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-こういう感じの木がある。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
+こういう感じの木がある{{% ex "https://maps.app.goo.gl/m83DoPtVyRVGZcmt7" %}}。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./cambodia_asia_siem_reap.jpg" width="90%" />
@@ -136,7 +135,7 @@ sc: [
                 <li>畑が少ない海沿いの地域{{% ex "https://goo.gl/maps/XtiR5EAN1rehcqF2A" "https://goo.gl/maps/C2eicQGgyGToDbxS7" %}}</li>
             </ul>
         </li>
-        <li>ボラードを見つけて道路番号を探したあとで両面に書いてある町名を探す。そのあと距離の比率をみておよその地域を絞り込む。</li>
+        <li>ボラードを見つけて道路番号を探したあとで両面に書いてある町名を探す{{% ex "https://maps.app.goo.gl/tNSmfsf1YdgsCcfp8" %}}。そのあと距離の比率をみておよその地域を絞り込む。</li>
         <li>アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>
 </div>
