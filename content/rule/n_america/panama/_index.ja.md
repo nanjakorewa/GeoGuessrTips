@@ -36,5 +36,10 @@ is_has_many_trekker: true
 {{% notice tip %}}
 ナンバープレートの上部に緑や赤などの色が付いている{{% ref "http://www.worldlicenseplates.com/world/CE_PANA.html" "Vehicle registration plates of Panama" %}}。全体が青色や緑色の時もある。
 {{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:El_Mara%C3%B1%C3%B3n,_Panam%C3%A1,_Panama_-_panoramio.jpg#/media/File:El_Marañón,_Panamá,_Panama_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/El_Mara%C3%B1%C3%B3n%2C_Panam%C3%A1%2C_Panama_-_panoramio.jpg" alt="El Marañón, Panamá, Panama - panoramio.jpg" width="90%"></a></p><p>By Fernandofrancisco, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57072713">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% /tabs  %}}
