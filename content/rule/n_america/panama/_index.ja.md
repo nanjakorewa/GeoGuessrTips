@@ -42,7 +42,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:El_Mara%C3%B1%C3%B3n,_Panam%C3%A1,_Panama_-_panoramio.jpg#/media/File:El_Marañón,_Panamá,_Panama_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/El_Mara%C3%B1%C3%B3n%2C_Panam%C3%A1%2C_Panama_-_panoramio.jpg" alt="El Marañón, Panamá, Panama - panoramio.jpg" width="90%"></a></p><p>By Fernandofrancisco, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57072713">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Iglesia_Nuestra_Se%C3%B1ora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg#/media/File:Iglesia_Nuestra_Señora_del_Carmen_en_ciudad_de_Panamá.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Iglesia_Nuestra_Se%C3%B1ora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg" alt="Iglesia Nuestra Señora del Carmen en ciudad de Panamá.jpg" height="720" width="540"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:JAVR2020&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:JAVR2020 (page does not exist)">JAVR2020</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112377174">Link</a></p>
 </div>
 
 {{% /tab %}}
