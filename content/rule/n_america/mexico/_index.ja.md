@@ -18,6 +18,7 @@ maps: [
 sc_title: "間違えやすい地域"
 sc: [
     ["../../cs_america/colombia/", "コロンビア"],
+    ["../panama/", "パナマ"],
     ["../usa/", "アメリカ"],
     ]
 ---
@@ -32,7 +33,7 @@ sc: [
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い</li>
         <li><span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある</li>
         <li>VeTVと書いてある<span class="quiz">青</span>色のアンテナが家に付いていることがある</li>
-        <li>とまれが「<span class="quiz">ALTO</span>」はメキシコか{{% goto "../guatemala/" "グアテマラ" %}}</li>
+        <li>とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../panama/" "パナマ" %}}</li>
     </ul>
     {{% rd n_america mexico verysmall %}}
 </div>
@@ -55,7 +56,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}のどれか{{% ex "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}。またメキシコの矢印はなんか太い気がする{{% ex "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
+とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか{{% ex "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}。またメキシコの矢印はなんか太い気がする{{% ex "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">

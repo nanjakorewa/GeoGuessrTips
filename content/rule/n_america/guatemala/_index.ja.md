@@ -24,7 +24,7 @@ sc: [
         <li>ドメインは<span class="quiz">.gt</span></li>
         <li>バスが派手で、屋根の上にも荷物を乗せるためのバーが付いているかも。</li>
         <li>Google Carが特徴的</li>
-        <li>とまれが「<span class="quiz">ALTO</span>」は{{% goto "../mexico/" "メキシコ" %}}かグアテマラ</li>
+        <li>とまれが「<span class="quiz">ALTO</span>」は{{% goto "../mexico/" "メキシコ" %}}・{{% goto "../panama/" "パナマ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・グアテマラ</li>
     </ul>
 </div>
 

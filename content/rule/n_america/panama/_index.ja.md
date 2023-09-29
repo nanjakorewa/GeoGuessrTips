@@ -11,12 +11,16 @@ flag: "PA.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-is_has_many_trekker: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../mexico/", "メキシコ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>公用語はスペイン語</li>
         <li>ドメインは<span class="quiz">.pa</span></li>
         <li>白いGoogle Carが見える。太目のアンテナが付いていることがある。</li>
         <li>ナンバープレートの上部に緑や赤などの色が付いている</li>
