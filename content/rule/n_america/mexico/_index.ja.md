@@ -33,7 +33,7 @@ sc: [
         <li>メキシコの大手企業は～MEXや～MXと名前が付いていることが多い</li>
         <li><span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある</li>
         <li>VeTVと書いてある<span class="quiz">青</span>色のアンテナが家に付いていることがある</li>
-        <li>とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../panama/" "パナマ" %}}</li>
+        <li>とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../panama/" "パナマ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}</li>
     </ul>
     {{% rd n_america mexico verysmall %}}
 </div>

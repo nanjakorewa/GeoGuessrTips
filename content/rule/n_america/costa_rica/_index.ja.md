@@ -20,7 +20,7 @@ is_has_many_trekker: true
         <li>ドメインは<span class="quiz">.co.cr</span></li>
         <li>後ろのナンバープレートが<span class="quiz">白</span>背景に<span class="quiz">青</span>文字</li>
         <li><span class="quiz">徒歩</span>での撮影ばかりでありサン・ホセ周辺が多い</li>
-        <li>とまれが「<span class="quiz">ALTO</span>」はコスタリカ・{{% goto "../mexico/" "メキシコ" %}}・{{% goto "../guatemala/" "グアテマラ" %}}のどれか</li>
+        <li>とまれが「<span class="quiz">ALTO</span>」はコスタリカ・{{% goto "../mexico/" "メキシコ" %}}・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか</li>
         <li>暗い色の砂浜の上を歩いている</li>
     </ul>
 </div>
