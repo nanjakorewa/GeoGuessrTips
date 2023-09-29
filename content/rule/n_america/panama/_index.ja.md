@@ -66,4 +66,44 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
 </div>
 
 {{% /tab %}}
+{{% tab "家" %}}
+{{% notice tip %}}
+藁ぶき屋根の小屋がある{{% ex "https://maps.app.goo.gl/wXHLgp28ux8MqYVx8" "https://maps.app.goo.gl/tntSYNASwkq9LdmG6" %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./panama_beach_seaside_holiday.jpg" width="590px">
+</div>
+
+{{% /tab %}}
 {{% /tabs  %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>西側に山脈がある
+            <ul>
+                <li>北西：降水量が多く南側に山が見える{{% ex "https://maps.app.goo.gl/sK3FnERp8S6zqdqo9" "https://maps.app.goo.gl/eD1iRtVXa4sCYpqf6" %}}
+                <li>西：すこし乾燥していて北に山脈が見える{{% ex "https://maps.app.goo.gl/gx5pSsmrUrv6daZG6" "https://maps.app.goo.gl/oEJXT681a375hjoK8" "https://maps.app.goo.gl/R4H5KdhWdanYY3MZA" "https://maps.app.goo.gl/U7sLGo9NzSm1JQAf6" "https://maps.app.goo.gl/3SXr3AkBnEkBEPCW8" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "標高" %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Panama_Topography.png#/media/File:Panama_Topography.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Panama_Topography.png" alt="Panama Topography.png" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2763803">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "植生" %}}
+
+<div class="googlemap-if no-margin">
+<img src="./Panama_veg_1981.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
