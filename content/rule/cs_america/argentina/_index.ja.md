@@ -126,6 +126,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>アルゼンチンの最も北東の角と最も北西の角はブラジルっぽい</li>
+        <li>最も農業が盛んな地域はCordoba州</li>
     </ul>
 </div>
 
@@ -202,6 +203,15 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1695475732528!6m8!1m7!1s7S-uHmT6vqNnZKu6sMS3tw!2m2!1d-48.86692615804154!2d-70.90883213540693!3f55.47476742623165!4f11.350618516393695!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1695475702606!6m8!1m7!1sIMXlMnzorgVfFb-RydDBOw!2m2!1d-50.28256326664331!2d-69.16584827063312!3f222.00459833535876!4f10.728831160398471!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "Cordoba" %}}
+
+{{% notice tip %}}以下はコーンが生産されている地域のマップ{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Argentina_Corn.png" width="90%">
 </div>
 
 {{% /tab %}}

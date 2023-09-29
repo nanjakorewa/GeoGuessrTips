@@ -72,7 +72,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">円</span>形の電力計がある{{% ex "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。また<span class="quiz">水</span>色のアンテナがある。
+<span class="quiz">円</span>形の電力計がある{{% ex "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
