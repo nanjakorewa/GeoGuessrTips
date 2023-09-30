@@ -263,12 +263,12 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% notice tip %}}
 シチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}
 {{% /notice %}}
-{{% /tab %}}
 
 <div class="googlemap-if unclickable">
 <img src="./Sicilian_Flag.svg" width="500px">
 </div>
 
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
