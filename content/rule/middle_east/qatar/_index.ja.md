@@ -26,6 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.qa</span></li>
         <li>ナンバープレートの左側が<span class="quiz">あずき色</span></li>
         <li>Google Carが特徴的</li>
+        <li>周りに平坦な砂漠が広がっている</li>
     </ul>
     {{% rd middle_east qatar small %}}
 </div>
@@ -56,12 +57,19 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 {{% /lb %}}
 
 
-{{% notice tip %}}Google Carが特徴的で標識も特有のものが多い。{{% goto "../united_arab_emirates/" "アラブ首長国連邦" %}}も似た見た目なので注意。右がアラブ首長国連邦。
+{{% notice tip %}}Google Carが特徴的で標識も特有のものが多い。白い屋根が見えたり、左前にアンテナが見えたりする。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687827551792!6m8!1m7!1sm_0E-7kek0LrHoCF3cdgww!2m2!1d25.32439721993444!2d51.35161953558839!3f226.8670241269839!4f-32.44312003721448!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687827520671!6m8!1m7!1sxSvV8BnLUB3MuV2kl9Rc8A!2m2!1d25.40734473322975!2d55.51560890219447!3f224.367490569436!4f-48.1502334285031!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1696115165271!6m8!1m7!1sY7a3asTUkj-bzCob5j4mkg!2m2!1d25.18043970522174!2d51.25268641241778!3f56.6950030535649!4f-9.045193071424933!5f1.5362075765835743" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}周りに平坦な砂漠が広がっている。国土の大部分は平坦な砂地で最も高い地点でも標高は約100ｍしかない。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Service_road_near_Dukhan_Highway.jpg#/media/File:Service_road_near_Dukhan_Highway.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Service_road_near_Dukhan_Highway.jpg" alt="Service road near Dukhan Highway.jpg" width="95%"></a></p><p>By Alex Sergeev - <a rel="nofollow" class="external free" href="http://www.asergeev.com/pictures/archives/compress/2015/1692/01.htm">www.asergeev.com, Service road near Dukhan Highway</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70134445">Link</a></p>
 </div>
 
 
