@@ -185,6 +185,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
                 <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
             </ul>
         </li>
+        <li>シチリア島ではシチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}</li>
         <li class="no-evidence">田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
@@ -257,6 +258,17 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% /tab %}}
+{{% tab "シチリア島" %}}
+
+{{% notice tip %}}
+シチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}
+{{% /notice %}}
+{{% /tab %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Sicilian_Flag.svg" width="500px">
+</div>
+
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
