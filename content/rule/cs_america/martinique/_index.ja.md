@@ -24,6 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>徒歩で撮影されている</li>
+        <li>フランスの海外県の1つでありフランス語が見つかる</li>
         <li>EUのナンバープレートがある</li>
     </ul>
 </div>
