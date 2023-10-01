@@ -65,7 +65,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 <iframe src="https://www.google.com/maps/embed?pb=!4v1696115165271!6m8!1m7!1sY7a3asTUkj-bzCob5j4mkg!2m2!1d25.18043970522174!2d51.25268641241778!3f56.6950030535649!4f-9.045193071424933!5f1.5362075765835743" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}周りに平坦な砂漠が広がっている。国土の大部分は平坦な砂地で最も高い地点でも標高は約100ｍしかない。
+{{% notice tip %}}周りに平坦な砂漠が広がっている{{% ex "https://maps.app.goo.gl/a43UjDVjkPTqQkWj7" "https://maps.app.goo.gl/3SJqibYX4CU1Gg5e7" %}}。国土の大部分は平坦な砂地で最も高い地点でも標高は約100ｍしかない。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
