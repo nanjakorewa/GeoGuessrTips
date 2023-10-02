@@ -23,6 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.co</span></li>
         <li>標識の背面には{{% goto "../../cs_america/colombia/" "コロンビア" %}}と同じく<span class="quiz">クロス</span>が存在する</li>
+        <li>コロンビア領なのでナンバーは黄色{{% ex "https://maps.app.goo.gl/HpCBNAtMMByqqyMNA" %}}</li>
         <li>Google Carが黒色ならば<span class="quiz">プロビデンシア</span></li>
         <li>Google Carが白色ならば<span class="quiz">サン・アンドレス</span></li>
     </ul>
