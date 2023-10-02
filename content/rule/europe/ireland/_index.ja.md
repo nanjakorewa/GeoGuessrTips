@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://goo.gl/maps/JmSFuVkugqPPRhBg9" "https://goo.gl/maps/svmH5kVVS9wMmmCF8" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
+アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://maps.app.goo.gl/uG7UKmob7apuVTik6" "https://goo.gl/maps/JmSFuVkugqPPRhBg9" "https://goo.gl/maps/svmH5kVVS9wMmmCF8" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="warning-sign.jpg" width="90%" />

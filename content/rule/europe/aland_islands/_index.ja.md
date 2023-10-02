@@ -33,7 +33,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも。家も北欧でよく見られる<span class="quiz">濃い赤色（ファールン赤）</span>で塗られた木造の家が多い。
+周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも{{% ex "https://maps.app.goo.gl/eBRqq3qmB6it12C67" "https://maps.app.goo.gl/KwwfSwccfqvRX4vW6" "https://maps.app.goo.gl/PsfhcsPgbiJHCpcS9" %}}。家も北欧でよく見られる<span class="quiz">濃い赤色（ファールン赤）</span>で塗られた木造の家が多い。
 {{% /notice %}}
 
 <div class="googlemap-if">

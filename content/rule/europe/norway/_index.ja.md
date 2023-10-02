@@ -39,7 +39,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>。宅配業者のバンなどがこの色になっていることが多い{{% ex "https://goo.gl/maps/h5yfGpJVvfrQSYes7" "https://goo.gl/maps/wYECssLY6SG71GXJ9" %}}。道端にスノーポールもある。
+ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>{{% ex "https://maps.app.goo.gl/etwNBScxxzdjm3XH6" "https://maps.app.goo.gl/PqBYhZcGeJewmhrt8" "https://maps.app.goo.gl/dSeJ1cbCAr75bDDW8" %}}。宅配業者のバンなどがこの色になっていることが多い{{% ex "https://goo.gl/maps/h5yfGpJVvfrQSYes7" "https://goo.gl/maps/wYECssLY6SG71GXJ9" %}}。道端にスノーポールもある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -105,7 +105,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 
 {{% notice tip %}}
-道路の路側帯の破線が<span class="quiz">長い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ノルウェーの線の例はこれ{{% ex "https://goo.gl/maps/CU1tH5BmLmc5pYMR6" "https://goo.gl/maps/3VZKNN2DBhjjhTBc8" %}}。ノルウェーとスウェーデンの国境でも線がはっきりと変わっている{{% ex "https://goo.gl/maps/1pMiizyiZn97ytxT8" %}}。
+道路の路側帯の破線が<span class="quiz">長い</span>{{% ex "https://maps.app.goo.gl/xR7RoC8mFWA3Qi9w5" %}}。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ノルウェーの線の例はこれ{{% ex "https://goo.gl/maps/CU1tH5BmLmc5pYMR6" "https://goo.gl/maps/3VZKNN2DBhjjhTBc8" %}}。ノルウェーとスウェーデンの国境でも線がはっきりと変わっている{{% ex "https://goo.gl/maps/1pMiizyiZn97ytxT8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

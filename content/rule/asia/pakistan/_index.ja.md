@@ -39,19 +39,23 @@ sc: [
 </div>
 
 {{% notice tip %}}
-地域ごとにナンバープレートの色が違うらしくラホールのあるパンジャーブ州はナンバープレートの左が緑色
+地域ごとにナンバープレートの色が違うらしくラホールのあるパンジャーブ州はナンバープレートの左が緑色{{% ex "https://maps.app.goo.gl/7GHd13JpBzcMms7k7" "https://maps.app.goo.gl/FLQpa5vqh7vv47cA9" %}}。全体が黄色に見えるプレートもある。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684550958377!6m8!1m7!1si6ei0FutVdBkWRIY2CJQCQ!2m2!1d31.59070531980286!2d74.31181661492661!3f204.82231478045858!4f-11.93349372259668!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684551025241!6m8!1m7!1sducxiNfZglH9whwIpDq8uQ!2m2!1d31.59057091096063!2d74.31184452979!3f114.36213992211827!4f-8.854489095957703!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 
 {{% lb 50 %}}
 ![](2023-05-20-11-52-41.png)
 
 By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=88001443">Wikimedia Commons(Link)</a>
 {{% /lb %}}
+
+
+{{% notice tip %}}
+<span class="quiz">ウルドゥー</span>語（اردو）が見つかる
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1696236848299!6m8!1m7!1sIt1hKG8l-ZgDwaqukEHK_Q!2m2!1d33.87391295864897!2d73.45867704256679!3f282.8618768441299!4f-24.776500330715322!5f3.325193203789971" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}

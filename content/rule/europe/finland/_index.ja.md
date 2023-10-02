@@ -71,7 +71,7 @@ additional_link:
 </div>
 
 {{% notice tip %}}
-北欧で横断歩道が<span class="quiz">5</span>本はフィンランド。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
+北欧で横断歩道が<span class="quiz">5</span>本はフィンランド{{% ex "https://maps.app.goo.gl/u497VBFVPcqcCWvC7" %}}。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
