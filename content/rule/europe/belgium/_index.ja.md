@@ -47,10 +47,18 @@ sc: [
 
 
 {{% notice tip %}}
+横断歩道の標識が破線になっている
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:20170624_019_chaudfontaine.jpg#/media/File:20170624_019_chaudfontaine.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/20170624_019_chaudfontaine.jpg" alt="20170624 019 chaudfontaine.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Jeanhousen" title="User:Jeanhousen">Jean Housen</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60350131">Link</a></p>
+</div>
+
+{{% notice tip %}}
 ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}ものがある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686781763883!6m8!1m7!1sjGQoSMncdFmLv_X-mMRDtg!2m2!1d50.00212844820196!2d5.717291282505589!3f259.8504663401784!4f-3.2784055178747877!5f1.8828745806696512" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686781763883!6m8!1m7!1sjGQoSMncdFmLv_X-mMRDtg!2m2!1d50.00212844820196!2d5.717291282505589!3f259.8504663401784!4f-3.2784055178747877!5f1.8828745806696512" width="540" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-05-43-30.png)
