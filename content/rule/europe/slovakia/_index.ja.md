@@ -79,7 +79,6 @@ sc: [
 <img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
 </div>
 </div>
-
 <div class="googlemap-if no-margin">
     <table class="compare-table">
         <tr>
@@ -111,6 +110,11 @@ sc: [
             <td>道路番号</td>
             <td>{{% ex "https://goo.gl/maps/8RQjEuU5XtvdHQSL6" %}}</td>
             <td>{{% ex "https://goo.gl/maps/V51ghp1TZdiAiz9v9" "https://goo.gl/maps/SiMAJgRD2KgavPEu8" %}}</td>
+        </tr>
+        <tr>
+            <td>角の画像の例</td>
+            <td style="background-color:#413F40;"><img src="./corner.jpg" width="100px"></td>
+            <td style="background-color:#413F40;"><img src="./corner2.jpg" width="100px"></td>
         </tr>
     </table>
 </div>
