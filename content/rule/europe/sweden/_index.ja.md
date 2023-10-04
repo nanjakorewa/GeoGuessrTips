@@ -104,7 +104,7 @@ sc: [
 
 
 {{% notice tip %}}
-道路の路側帯の破線が<span class="quiz">短い</span>。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/zxV4mR31aRSZnCHD7" %}}・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：{{% ex "https://goo.gl/maps/FhzZyYimTep8WGML7" "https://goo.gl/maps/5PTmRrVGdskKPT44A" "https://goo.gl/maps/obpEjC4DxLNPgdMSA" %}} vs エストニアの例：{{% ex "https://goo.gl/maps/9qw7x5NHHR3mrELHA" "https://goo.gl/maps/H59sMJ9t6eADQuVFA" %}}）。
+道路の路側帯の破線が<span class="quiz">短い</span>{{% ex "https://maps.app.goo.gl/kahZRcUcQFm6m2R78" "https://maps.app.goo.gl/ZyqsKLceRqF2bysk8" "https://maps.app.goo.gl/YxB11SX4V7fJRYjg6" %}}。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/zxV4mR31aRSZnCHD7" %}}・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ただし同じような破線は{{% goto "../baltic-state/estonia/" "エストニア" %}}にもあるので平地である場合は道路以外の要素も要チェック（スウェーデンの例：{{% ex "https://goo.gl/maps/FhzZyYimTep8WGML7" "https://goo.gl/maps/5PTmRrVGdskKPT44A" "https://goo.gl/maps/obpEjC4DxLNPgdMSA" %}} vs エストニアの例：{{% ex "https://goo.gl/maps/9qw7x5NHHR3mrELHA" "https://goo.gl/maps/H59sMJ9t6eADQuVFA" %}}）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
