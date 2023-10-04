@@ -609,7 +609,7 @@ a.nav-link:hover {
 }
 
 div.unclickable, p.unclickable {
-  pointer-events: none;
+  /* pointer-events: none; */
 }
 
 /* 画面が狭い時はメニューを消す */
