@@ -66,6 +66,13 @@ sc: [
 <img src="./street.png" width="90%">
 </div>
 
+{{% notice tip %}}
+『RUA ～』『～ DE ～』といった感じの通り名が多い。{{% goto "../spain/" "スペイン" %}}語ならば『CALLE』になるはず。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./roadsign.jpg" width="90%">
+</div>
 
 {{% /tab %}}
 {{% tab "w-road" %}}
