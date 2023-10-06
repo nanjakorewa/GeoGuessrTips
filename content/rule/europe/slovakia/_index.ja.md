@@ -128,6 +128,15 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jdavis-photos/1429428634/" title="SlovakiaByBike-113"><img src="https://live.staticflickr.com/1333/1429428634_7db3f2c32a_z.jpg" width="640" height="427" alt="SlovakiaByBike-113"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}
+スロバキアは円形の標識の一部にすごい太いフォントを使用していることがある
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./r/Dopravn%c3%a1_zna%c4%8dka_B31a.svg" width="120px" style="margin-right:10px;">
+<img src="./r/Dopravná_značka_B25.svg" width="120px">
+</div>
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">

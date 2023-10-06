@@ -68,8 +68,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686496418723!6m8!1m7!1sO5qJ5InUvoKgiHD8Z4asyQ!2m2!1d50.100065094337!2d14.46705044268807!3f48.60841767080781!4f7.219742086950248!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683137810610!6m8!1m7!1sf_HTmx1eNXak41Ns48K5EA!2m2!1d49.83283880873212!2d18.28161402132868!3f179.98836807707247!4f-0.09167264981728351!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./roadsign.jpg" width="85%">
 </div>
 
 
