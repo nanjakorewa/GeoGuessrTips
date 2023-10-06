@@ -63,7 +63,7 @@ sc: [
 
 {{% notice tip %}}
 いくつかの看板は<span class="quiz">チェコ</span>の標識は背景色と同じ縁がある時が多いが<span class="quiz">スロバキア</span>はない時が多い{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
-上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>{{% ex "https://goo.gl/maps/Pav9NKUHbtZ7G9W98" %}}。
+上が<span class="quiz">チェコ</span>、下が<span class="quiz">スロバキア</span>{{% ex "https://goo.gl/maps/Pav9NKUHbtZ7G9W98" %}}。ただし一部の看板に例外あり。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
