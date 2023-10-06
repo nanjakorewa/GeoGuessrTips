@@ -93,7 +93,7 @@ sc: [
         </tr>
         <tr>
             <td>横断歩道</td>
-            <td>{{% ex "https://goo.gl/maps/Ux8gQ9hug4LuXHXH6" "https://goo.gl/maps/yT4f15LYfeSAuVj59" %}}</td>
+            <td>{{% ex "https://maps.app.goo.gl/rEs3QKazj9oH2ngw5" "https://goo.gl/maps/Ux8gQ9hug4LuXHXH6" "https://goo.gl/maps/yT4f15LYfeSAuVj59" %}}</td>
             <td>{{% ex "https://goo.gl/maps/dxmfAofe4Sxr1bkw5" "https://goo.gl/maps/4W25mARVPosmwXvg7" %}}</td>
         </tr>
         <tr>
@@ -108,8 +108,18 @@ sc: [
         </tr>
         <tr>
             <td>道路番号</td>
-            <td>{{% ex "https://goo.gl/maps/8RQjEuU5XtvdHQSL6" %}}</td>
-            <td>{{% ex "https://goo.gl/maps/V51ghp1TZdiAiz9v9" "https://goo.gl/maps/SiMAJgRD2KgavPEu8" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/8RQjEuU5XtvdHQSL6" "https://maps.app.goo.gl/Zk4EjkNfv5r6QnAW6" %}}</td>
+            <td>{{% ex "https://goo.gl/maps/V51ghp1TZdiAiz9v9" "https://goo.gl/maps/SiMAJgRD2KgavPEu8" "https://maps.app.goo.gl/XV9JqdvoJXn3PStr9" %}}</td>
+        </tr>
+        <tr>
+            <td>通り抜け不可</td>
+            <td>{{% ex "https://maps.app.goo.gl/2PEKg1casLpLEtFj9" %}}</td>
+            <td>{{% ex "https://maps.app.goo.gl/rkEDbTsq1ZtfEaWH7" %}}</td>
+        </tr>
+        <tr>
+            <td>駐車エリア(P)</td>
+            <td>{{% ex "https://maps.app.goo.gl/kC7bYT78VgBPejBE8" "https://maps.app.goo.gl/7tfjKcWuUy3F4VfeA" %}}</td>
+            <td>{{% ex "https://maps.app.goo.gl/y1oeAb7GbXsFfMPs6" %}}</td>
         </tr>
         <tr>
             <td>角の画像の例</td>
@@ -129,7 +139,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-スロバキアは円形の標識の一部にすごい太いフォントを使用していることがある
+スロバキアは円形の標識の一部にすごい太いフォントを使用していることがある{{% ex "https://maps.app.goo.gl/QDsGzdv2kPadoHAG9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
