@@ -41,6 +41,7 @@ sc: [
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/in/photolist-p73Dbb-2gUhDiR" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Puskin Utca."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./sign.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -77,7 +78,7 @@ sc: [
 郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋か二階建ての家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p style="margin:0;padding:0;"><a href="https://commons.wikimedia.org/wiki/File:Dr%C3%A1vatam%C3%A1si,_f%C5%91utca_2021_01.jpg#/media/File:Drávatamási,_főutca_2021_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Dr%C3%A1vatam%C3%A1si%2C_f%C5%91utca_2021_01.jpg" alt="Drávatamási, főutca 2021 01.jpg" width="80%"></a></p><p style="margin:0;padding:0;">By <a href="//commons.wikimedia.org/wiki/User:Pasztilla" title="User:Pasztilla">Pasztilla aka Attila Terbócs</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105729346">Link</a></p>
+<img src="./dolnjisenik1.jpg" width="90%">
 </div>
 
 <div class="googlemap-if">
@@ -90,10 +91,19 @@ sc: [
 ハンガリーっぽい電柱。
 {{% /notice %}}
 <div class="googlemap-if">
+<img src="./up.jpg" width="90%">
+</div>
+
+<div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687035524432!6m8!1m7!1sSXAh9cKg2YVhk7Ej1CZqbg!2m2!1d46.62878782208853!2d20.49102787512574!3f191.53646895915023!4f18.202057858923425!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
+
+<div class="googlemap-if">
+<img src="./road_edge_region_landscape.jpg" width="500px">
+</div>
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682250665332!6m8!1m7!1shUF-N7g2fWOkI2VWUYroKg!2m2!1d46.00918856548847!2d18.21112981205877!3f213.46592080762417!4f-15.275643775147572!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682250691940!6m8!1m7!1sFjqPVzeRTe7QU8CJNULeuA!2m2!1d46.00959533689232!2d18.2114822354293!3f341.89808076402284!4f-21.776482310074897!5f3.304918830400852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
