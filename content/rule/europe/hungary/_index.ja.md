@@ -109,4 +109,10 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682250691940!6m8!1m7!1sFjqPVzeRTe7QU8CJNULeuA!2m2!1d46.00959533689232!2d18.2114822354293!3f341.89808076402284!4f-21.776482310074897!5f3.304918830400852" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "路面" %}}
+
+<div class="googlemap-if">
+<img src="./road.jpg" width="90%">
+</div>
+{{% /tab %}}
 {{% /tabs %}}
