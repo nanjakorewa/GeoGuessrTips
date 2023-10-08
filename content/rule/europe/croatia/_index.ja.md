@@ -110,7 +110,6 @@ CC0</a>
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./danger.png" width="200px" style="margin:40px">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687420541262!6m8!1m7!1sRyu6joCRwmzAD3KGWEXAng!2m2!1d45.1776553685094!2d18.02067469498351!3f267.7560786542673!4f-11.752237957176746!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
