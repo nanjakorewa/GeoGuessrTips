@@ -67,17 +67,17 @@ sc: [
 
 
 {{% notice tip %}}
-2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い。枠がかすかに赤く見える時がある気がするけれど、白一色に見えることも多い。
+2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い{{% ex "https://maps.app.goo.gl/4UrGHQ9JTgKQ3byCA" %}}。枠がかすかに赤く見える時がある気がするけれど、白一色に見えることも多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683333573775!6m8!1m7!1saGb1klsCp1nKeltiGBK48g!2m2!1d45.8056776473913!2d16.23509100085109!3f331.91894095972526!4f-18.86165878260168!5f2.8783965009453114" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./car-example.jpg" width="500px">
 </div>
 
 {{% lb 50 small %}}
-![](2023-05-06-09-38-47.png)
+![](car_plate_ogulin.jpg)
 
-By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23782215">Wikimedia Commons(Link)</a>
+CC0</a>
 {{% /lb %}}
 
 {{% notice tip %}}
@@ -99,7 +99,14 @@ By TheFlyingDutchman, <a href="https://creativecommons.org/licenses/by-sa/3.0/de
 </div>
 
 {{% notice tip %}}
-クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする（例<a href="https://goo.gl/maps/Pg3Mp4mHMZPCboZ89">①</a>・<a href="https://goo.gl/maps/KwSMnjmejChxYidG7">②</a>・<a href="https://goo.gl/maps/9XZ7cu3oHN1ajyy58">③</a>・<a href="https://goo.gl/maps/z38EvsekK8QiSMs19">④</a>・<a href="https://goo.gl/maps/h6QDFvwjY4gWgKBL9">⑤</a>）。電球のポールにも貼ってあることがある。
+黄色と赤のシェブロンがある
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./arrow.jpg" width="500px">
+</div>
+
+{{% notice tip %}}
+クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./danger.png" width="200px" style="margin:40px">

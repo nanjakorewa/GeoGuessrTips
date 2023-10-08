@@ -69,6 +69,11 @@ add_rule_link: true
 
 {{% tabs %}}
 {{% tab "見た目" %}}
+<div class="googlemap-if">
+<img src="./ne/netherlands_landscape_house_home.jpg" width="90%">
+</div>
+{{% /tab %}}
+{{% tab "レンガの家" %}}
 {{% notice tip %}}
 ルクセンブルグより赤っぽく、全体が平らで、自転車の道が整備されていて、水路が多く存在する。
 {{% /notice %}}
@@ -97,6 +102,11 @@ add_rule_link: true
 ## アンドラ
 
 {{% tabs %}}
+{{% tab "見た目" %}}
+<div class="googlemap-if">
+<img src="./ad/hpim0307.jpg" width="90%">
+</div>
+{{% /tab %}}
 {{% tab "石壁の模様" %}}
 {{% notice tip %}}
 周りが山がちで石壁の模様の壁のアパート・マンションが多い。
