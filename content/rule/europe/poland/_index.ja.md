@@ -41,25 +41,20 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>ことが多い{{% ex "https://goo.gl/maps/fMMbguvwvq1HdZ3C9" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Child Crossing sign?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-<div class="googlemap-if unclickable">
-<img src="./w1.svg" width="90px" style="margin:0 5px 0 5px">
-<img src="./w2.svg" width="90px" style="margin:0 5px 0 5px">
-<img src="./w3.svg" width="90px" style="margin:0 5px 0 5px">
-</div>
-
-{{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>がルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコで使われることがある{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
+オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ex "https://goo.gl/maps/E7XU6y6RVThhEC4J9" %}}。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./guardrail.png" width="90%" />
+<img src="./r/PL_road_sign_A-7.svg" width="100px" style="margin:10px">
+<img src="./PL_road_sign_A-16.svg" width="100px" style="margin:10px">
+<img src="./PL_road_sign_A-8.svg" width="100px" style="margin:10px">
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./Greek-Road-sign-k01.svg" width="100px" style="margin:10px">
+<img src="./Greek-Road-sign-k30.svg" width="100px" style="margin:10px">
+</div>
+
 
 {{% notice tip %}}
 ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい{{% ex "https://goo.gl/maps/yBcn1ba5JVzWiDnr6" %}}。{{% goto "../ukraine/" "ウクライナ" %}}にも稀に見た目がそっくりなボラードがあるのでウクライナでないことだけ確認する。
@@ -91,19 +86,26 @@ mnoprstuwyzźż
 </span>
 </div>
 
+
 {{% notice tip %}}
-オレンジ色の警告看板があり外枠の赤線が<span class="quiz">とても細い</span>{{% ex "https://goo.gl/maps/E7XU6y6RVThhEC4J9" %}}。上の段はポーランド・下の段は{{% goto "../greece/" "ギリシャ" %}}。
+ポーランドの横断歩道標識は特徴的で線が<span class="quiz">横に1本</span>しかない。また、電柱の一番下は穴が<span class="quiz">空いていない</span>ことが多い{{% ex "https://goo.gl/maps/fMMbguvwvq1HdZ3C9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Child Crossing sign?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+<div class="googlemap-if unclickable">
+<img src="./w1.svg" width="90px" style="margin:0 5px 0 5px">
+<img src="./w2.svg" width="90px" style="margin:0 5px 0 5px">
+<img src="./w3.svg" width="90px" style="margin:0 5px 0 5px">
+</div>
+
+{{% notice tip %}}
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。ポーランドのガードレールは<span class="quiz">角ばっている</span>がルーマニアは<span class="quiz">角ばっていない</span>ことが多い。ポーランドのような細い角ばった溝で赤い反射板のガードレールは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコで使われることがある{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/PL_road_sign_A-7.svg" width="100px" style="margin:10px">
-<img src="./PL_road_sign_A-16.svg" width="100px" style="margin:10px">
-<img src="./PL_road_sign_A-8.svg" width="100px" style="margin:10px">
-</div>
-
-<div class="googlemap-if unclickable">
-<img src="./Greek-Road-sign-k01.svg" width="100px" style="margin:10px">
-<img src="./Greek-Road-sign-k30.svg" width="100px" style="margin:10px">
+<img src="./guardrail.png" width="90%" />
 </div>
 
 {{% /tab %}}
