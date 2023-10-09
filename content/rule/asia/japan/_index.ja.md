@@ -50,6 +50,14 @@ maps: [
 <div class="googlemap-if unclickable">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/yorozuna/24211912034/in/photolist-CTwnVd-nvKsya-2kJnmeU-nzbDNL-daoBVs-6t6LGZ-gR32GT-zGhCVc-GftizY-LctdpP-oRywSY-opstGN-24qJHTY-n9SuyP-XtPB8p-2hbTVSn-ZFune9-qfURKd-2ma5uSE-2kDmouC-qXQU9a-dH1sws-chhP6w-mDvHcc-nENWEg-XpQPgq-q3jREQ-qxqjs6-2iA6r1u-bzJa2c-Ut93tZ-shTHVU-gKvbTv-xCkR43-2kxptKc-fiQHTU-jD3kZ2-E3s9F1-2kkVMbM-FP8R4t-kYbtS8-H4DoY1-nic9SX-7VSuKU-mzbAqt-2jCnmvQ-JvUKAw-hzVt26-pNenTE-2kkVLuS" title="熱波と爽風の交わり"><img src="https://live.staticflickr.com/1619/24211912034_ec20fef3d1_z.jpg" width="640" height="427" alt="熱波と爽風の交わり"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% notice tip %}}
+白いガードレールがある
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./rural_unpaved_road_waving.jpg" width="90%">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
