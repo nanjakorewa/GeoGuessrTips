@@ -193,10 +193,10 @@ sc: [
 <p><img src="./burglauer_germany_landscape_town.jpg" width="600px"></p>
 </div>
 {{% /tab %}}
-{{% tab "中部の家" %}}
+{{% tab "西部～中部の家" %}}
 
 {{% notice tip %}}
-黒い石が手に入る地域では屋根が黒いのかも。{{% goto "../france/" "フランス" %}}もSlateがある地域は屋根が黒い。その地域で安く手に入る材料を元に家が作られていたのかもしれない。写真は中部の鉱山（Fell Exhibition Slate Mine）の周りにあるBurgenとTrierの街並み。
+黒い石が手に入る地域では屋根が黒いのかも。{{% goto "../france/" "フランス" %}}もSlateがある地域は屋根が黒い。その地域で安く手に入る材料を元に家が作られていたのかもしれない。写真は中部の鉱山{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}の周りにあるBurgenとTrierの街並み。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
