@@ -173,6 +173,14 @@ sc: [
             </ul>
         </li>
         <li>市外局番で地域がわかることがある</li>
+        <li>植生や土の色が地域によって異なる
+            <ul>
+                <li>最南部<span style="color:#00FF02">■</span>：平坦で農業も行われる{{% ex "https://maps.app.goo.gl/uPfxXVCZjkRrEZDd6" "https://maps.app.goo.gl/NgTA3bPKxihvrT3B6" %}}</li>
+                <li>南部の針葉樹林地帯<span style="color:#025D00">■</span><span style="color:#005E00">■</span>：針葉樹が生えているがブナやオークのような上が丸い木も生えている</li>
+                <li>北部<span style="color:#427D85">■</span>：針葉樹が大勢を占めていて広葉樹は少なくなる{{% ex "https://maps.app.goo.gl/ZYEcjJbGPLXGpgYs5" "https://maps.app.goo.gl/BCVzGTTPYQpqhkot8" %}}</li>
+                <li>北部の国境付近<span style="color:#7D827C">■</span>：岩肌が見えたり雪で覆われていたりする{{% ex "https://maps.app.goo.gl/KCY6jBNYKFv89bVu6" "https://maps.app.goo.gl/i7aPdBnwJQJseDJy6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
