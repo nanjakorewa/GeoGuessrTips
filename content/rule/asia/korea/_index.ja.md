@@ -97,7 +97,7 @@ import_jquery_36: true
 {{% /tab %}}
 {{% tab "済州島" %}}
 {{% notice tip %}}
-楕円形をした火山島で同じく火山島である{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}のように土が黒っぽいことが多い。中央に最高峰があり道の両側に高い山がある場合（{{% ex "https://maps.app.goo.gl/5anuUrSviB9TsaBJA" "https://maps.app.goo.gl/eqQt8jNo5RB8D4UE7" %}}のような場所）は恐らく済州島ではない。
+楕円形をした火山島で同じく火山島である{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}のように土が黒っぽいことが多い。中央に最高峰がひとつあるだけなので、道が山に挟まれていることはほぼありえない。道の両側に高い山がある場合（{{% ex "https://maps.app.goo.gl/5anuUrSviB9TsaBJA" "https://maps.app.goo.gl/eqQt8jNo5RB8D4UE7" %}}のような場所）は恐らく済州島ではない。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
