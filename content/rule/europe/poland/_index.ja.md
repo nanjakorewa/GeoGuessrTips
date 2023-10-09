@@ -71,7 +71,7 @@ sc: [
 
 
 {{% notice tip %}}
-「<span class="quiz polish-font">Ł・ł</span>」の文字がある{{% ex "https://goo.gl/maps/NqvjhHWYFviHDpJ37" %}}。道路標識用にデザインされた専用のフォントを利用していて「<span class="polish-font">t</span>」の形が特徴的{{% ex "https://goo.gl/maps/D1dwcNT7sTpvPnb56" %}}{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}。以下のフォント名はDrogowskaz。
+「<span class="quiz polish-font">Ł・ł</span>」の文字がある{{% ex "https://goo.gl/maps/NqvjhHWYFviHDpJ37" %}}。道路標識用にデザインされた専用のフォントを利用していて、ポーランドだけでしかこのフォントは使用されていない。「<span class="polish-font">t</span>」の形が特徴的{{% ex "https://goo.gl/maps/D1dwcNT7sTpvPnb56" %}}{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}。フォント名はDrogowskaz。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
