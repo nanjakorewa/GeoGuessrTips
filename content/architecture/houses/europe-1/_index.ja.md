@@ -3,7 +3,7 @@ title: "ヨーロッパ"
 title_suffix: "の家①"
 page_no: "①"
 date: 2023-02-26
-lastmod: 2023-04-01
+lastmod: 2023-07-01
 weight: 30
 draft: false
 keywords: ["家屋", "ハウス"]
