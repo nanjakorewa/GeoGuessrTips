@@ -127,7 +127,12 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ゴミ箱に都市名が書いてあることがある{{% ex "https://maps.app.goo.gl/EhLAUJ151dSU9pmg8" %}}</li>
+        <li>ゴミ箱に地方行政区画名や都市名が書いてあることがある。『●× BELEDiYESi』の●×が地名。
+            <ul>
+                <li>Nevşehir{{% ex "https://maps.app.goo.gl/zctGpS4Xa7uvMtwP7" %}}</li>
+                <li>Cizre{{% ex "https://maps.app.goo.gl/S7TVNuyRRw5CBvqUA" %}}</li>
+            </ul>
+        </li>
         <li>通り名の看板が都市によって異なる</li>
     </ul>
 </div>
@@ -135,6 +140,11 @@ sc: [
 
 {{% tabs %}}
 {{% tab "ゴミ箱" %}}
+
+{{% notice tip %}}
+市外局番が『4』なのでトルコの中央の地域あたり。『Ortahisar』が町名{{% ex "https://maps.app.goo.gl/EhLAUJ151dSU9pmg8" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Trabzon_Apr_2020.jpeg#/media/File:Trabzon_Apr_2020.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Trabzon_Apr_2020.jpeg" alt="Trabzon Apr 2020.jpeg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Robot8A" title="User:Robot8A">Robot8A</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97957044">Link</a></p>
 </div>

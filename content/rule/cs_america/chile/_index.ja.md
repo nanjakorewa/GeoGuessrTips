@@ -64,15 +64,6 @@ sc: [
 </div>
 
 {{% notice tip %}}
-そして南米で道路に赤い反射板がある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}のはチリ。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><img src="./road.jpg" width="90%" /></p>
-<p>By [-_-] JORGE - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/graficmedia/27486177645/">https://www.flickr.com/photos/graficmedia/27486177645/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100162985">Link</a></p>
-</div>
-
-
-{{% notice tip %}}
 チリの大手商用銀行、Banco de Chile。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
@@ -80,13 +71,15 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
+
 {{% notice tip %}}
-道路に赤い反射板がある
+チリや{{% goto "../bolivia/" "ボリビア" %}}では道路に赤い反射板がついていることがある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685263976721!6m8!1m7!1sQGpNknTcuFVD8u9JUTPXPA!2m2!1d-33.92383950201787!2d-71.2492240456672!3f335.5104874503583!4f-56.182447229729505!5f1.566519561426944" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683907472964!6m8!1m7!1sLyylaQ3ia5rR7gh2FHmq0w!2m2!1d-42.74865133810841!2d-73.64731447604524!3f322.39507274537885!4f-16.69615091295745!5f3.325193203789971" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><img src="./road.jpg" width="90%" /></p>
+<p>By [-_-] JORGE - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/graficmedia/27486177645/">https://www.flickr.com/photos/graficmedia/27486177645/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100162985">Link</a></p>
 </div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% notice tip %}}
