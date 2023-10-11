@@ -12,6 +12,10 @@ no_detaile_info: true
 is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../sgssi/", "サウスジョージア・サウスサンドウィッチ諸島"],
+    ]
 ---
 
 <div class="main-desciption country-description">

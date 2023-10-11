@@ -117,3 +117,25 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>フローレス島という離島がある{{% ref "https://en.wikipedia.org/wiki/Isla_de_Flores" "Isla de Flores" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Isla de Flores" %}}
+
+{{% notice tip %}}
+徒歩での撮影であり大きな灯台がある{{% ex "https://maps.app.goo.gl/yUneXHrd9KEDHHHt7" %}}
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Faro Isla de Flores y construcciones. 02.JPG" height="640" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
