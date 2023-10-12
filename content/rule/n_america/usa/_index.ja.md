@@ -11,6 +11,8 @@ flag: "US.svg"
 jetro_detail: true
 jogmec_detail: true
 is_has_distinctive_bollard: true
+plonkit: true
+plonkit_url: "united-states"
 sc_title: "間違えやすい地域"
 sc: [
     ["../canada/", "カナダ"],

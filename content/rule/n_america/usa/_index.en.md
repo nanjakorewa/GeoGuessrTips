@@ -11,6 +11,8 @@ flag: "US.svg"
 jetro_detail: true
 jogmec_detail: true
 is_has_distinctive_bollard: true
+plonkit: true
+plonkit_url: "united-states"
 ---
 
 <div class="main-desciption country-description">
