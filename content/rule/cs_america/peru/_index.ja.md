@@ -41,7 +41,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" %}}の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
+標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" "https://maps.app.goo.gl/XCC7YEhn9tQ4nVCCA" %}}の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="600" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -72,7 +72,7 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-バイクやトゥクトゥクに似た形の乗り物はナンバープレートが<span class="quiz">水</span>色{{% ex "https://goo.gl/maps/oyD4AQYFdKahCkdDA" %}}のことがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
+バイクやトゥクトゥクに似た形の乗り物はナンバープレートが<span class="quiz">水</span>色{{% ex "https://goo.gl/maps/oyD4AQYFdKahCkdDA" "https://maps.app.goo.gl/quiwrniJCgDvg9Ru6" %}}のことがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -114,7 +114,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
-電柱は同じ方向に3本ほど棒が付きだしているものがある。
+電柱は同じ方向に3本ほど棒が付きだしているものがある{{% ex "https://maps.app.goo.gl/8Pki4o9z6uLVNxEd6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689063313770!6m8!1m7!1sHGPJVOJv-NSaqCyXlLh2CQ!2m2!1d-12.13578785884225!2d-76.8077639891435!3f81.28270024151131!4f33.197897697403874!5f3.3248611522391367" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -226,6 +226,27 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687087013599!6m8!1m7!1szdThFhmkSMAXRLeHBqHITA!2m2!1d-16.28263616318466!2d-73.13247816266673!3f211.18179943152083!4f1.0585904043393555!5f0.4000000000000002" width="550" height="200" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>マチュピチュ付近ではGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "マチュピチュ付近" %}}
+
+{{% notice tip %}}
+マチュピチュやAguas Calientes駅付近は山に囲まれている。また特徴的なGoogle Carがはっきりと見えることが多い{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}。歩いて撮影している場所も多い。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./aguas_calientes_2_0.jpg" width="80%">
+<img src="./machu_picchu_peru_inca_6.jpg" width="80%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
