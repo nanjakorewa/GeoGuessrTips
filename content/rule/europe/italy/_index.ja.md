@@ -277,6 +277,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
         <li class="no-evidence">パンテッレリーア島は黒っぽい石の石垣が多い</li>
         <li class="no-evidence">トスカーナ群島は松の木が生えている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8A%E7%BE%A4%E5%B3%B6" "トスカーナ群島" %}}。
         <li>Veneziaには船にのって移動するエリアがある</li>
+        <li>{{% goto "../switzerland/" "スイス" %}}に囲まれたイタリアの飛び地であるCampione d'Italia町はカメラが低い</li>
     </ul>
 </div>
 
@@ -303,6 +304,15 @@ Veneziaには船にのって移動するエリアがある
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680007607808!6m8!1m7!1sTgiMp5dyfyTyjqWYiFsUKw!2m2!1d45.4353144254022!2d12.33380958037088!3f138.24278233222202!4f13.252121456570137!5f0.4000000000000002" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Campione d'Italia" %}}
+{{% notice tip %}}
+町の通貨はスイス・フランでカメラも低いがナンバーや標識はイタリア。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1697113513213!6m8!1m7!1s-GsScTEQUXEt-skbp8aQHA!2m2!1d45.96405788174396!2d8.969423409115834!3f26.386871860734875!4f-13.646092540524307!5f1.4102657176074715" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1697113589943!6m8!1m7!1sSRNscs_-sXyeCFmObS79cg!2m2!1d45.97326055783069!2d8.974055455777467!3f315.12637288040565!4f-33.36230251643603!5f0.4000000000000002" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
