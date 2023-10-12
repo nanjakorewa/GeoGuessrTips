@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある（例<a href="https://goo.gl/maps/eYjfXEc6J9LdLNzQ9">①</a>・<a href="https://goo.gl/maps/4bZdWCQskrcwxcjZ7">②</a>） {{% by %}}。
+道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある{{% ex "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
@@ -106,7 +106,7 @@ CC0</a>
 </div>
 
 {{% notice tip %}}
-クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。
+クロアチアに確定するかはわからないけれどこんな感じの赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://maps.app.goo.gl/WPiySja6gVUH2FVn6" "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./danger.png" width="200px" style="margin:40px">

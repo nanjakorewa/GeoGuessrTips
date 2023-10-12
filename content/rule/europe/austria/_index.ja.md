@@ -46,26 +46,30 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードのてっぺんの黒い部分が他と違う {{% by "https://www.plonkit.net/austria" "plonkit" %}}。スロベニアにも同じような形のものがある。
+ボラードのてっぺんの黒い部分が他と違う{{% ex "https://maps.app.goo.gl/VSWummPcFCib5ppq7" %}}{{% by "https://www.plonkit.net/austria" "plonkit" %}}。スロベニアにも同じような形のものがある。
 {{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681945396341!6m8!1m7!1sywIsU8yao38c_DWdiqpCQw!2m2!1d47.58957803486367!2d13.46279454579561!3f105.32022585621853!4f-16.778658749867333!5f3.2609974999179023" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687231537645!6m8!1m7!1sNYgDjbINvLbpFV0cY1jvvQ!2m2!1d47.54140917397525!2d14.92015329335696!3f76.43018437308963!4f-9.546862376592514!5f2.9244829166712583" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./bollard.jpg" width="90%">
 </div>
+
 
 {{% notice tip %}}
 同じドイツ語圏である{{% goto "../germany/" "ドイツ" %}}と共通点が多く、ö・üやä・ßのようなドイツ語に見られる文字がある{{% ex "https://goo.gl/maps/8RBYaaz9P57cNdtd7" %}}。また下のようなHaltestelleの看板が路面電車などの停留所にある{{% ex "https://goo.gl/maps/nJNCN9EVVd2VWg9N8" %}}のもドイツと共通している。
 {{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-sign.jpg" width="95%">
+</div>
+
 <div class="googlemap-if unclickable">
 <img src="./s/Hinweiszeichen_13a_groß.svg" width="280px">
 <img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px">
 </div>
 
-
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px">
 </div>
-
 
 {{% notice note %}}
 {{% goto "../slovenia/" "スロベニア" %}}や{{% goto "../germany/" "ドイツ" %}}は町や村の境界で黄色い看板を使うけれどオーストリアは青色。オーストリアと他の国で迷っている時にヒントになるかも。上が{{% goto "../slovenia/" "スロベニア" %}}、下が{{% goto "../germany/" "ドイツ" %}}。

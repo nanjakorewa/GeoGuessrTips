@@ -33,17 +33,13 @@ sc: [
     {{% rd europe luxembourg verysmall %}}
 </div>
 
-<div class="googlemap-if">
-</div>
-
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 ナンバープレートは前後が<span class="quiz">黄色</span>。平均所得は平均的なヨーロッパ人の2.5倍であり、Volkswagen・Mercedes・Audiの売上が多い{{% ref "https://www.focus2move.com/luxembourg-car-market-2022/" "Luxembourg 2022. Car Market Closes Year With A 10.7% Loss" %}}。オランダは韓国車KIAやTOYOTAも多い。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679851762396!6m8!1m7!1sNJ1F5MurR6O35W7zUbj8tg!2m2!1d49.80578058482013!2d5.93221134254947!3f76.29971083603118!4f-17.926196423789023!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681214963402!6m8!1m7!1sbpAIMbE2WLSf7I-2GCa0sg!2m2!1d49.80531756965897!2d5.932715871267956!3f312.6156234899913!4f-11.435950789360064!5f3.292224819906798" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./car.jpg" width="600px"/>
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-05-39.png)
@@ -56,8 +52,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない{{% ex "https://goo.gl/maps/QESb1y9SiZrtD3MUA" %}}。{{% goto "../germany/" "ドイツ" %}}のボラードと見た目が似ているけれど反射板のネジの位置が違うように見えるので近くに寄れば見分けられるかも（100％正しいかはまだ調べてないです）？
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686236362880!6m8!1m7!1sByQZDxlUGGlCHHOAYU1rFg!2m2!1d49.81912512580827!2d6.022727753759718!3f304.40229747452463!4f-26.774301882268375!5f3.308143229618082" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="unclickable"><img src="./lx-borllard.png" width="170px" style="margin:30px" /></div>
+<img src="./lx-borllard.png" width="170px"/>
 </div>
 
 {{% notice tip %}}
