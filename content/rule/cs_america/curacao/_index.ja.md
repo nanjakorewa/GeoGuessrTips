@@ -33,14 +33,14 @@ is_has_distinctive_googlecar: true
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で黒い車体やバーが見える{{% ex "https://maps.app.goo.gl/R18p7DJjrGEsM3SK6" %}}
+Google Carが特徴的で黒い車体やバーが見える{{% ex "https://maps.app.goo.gl/k7s2WSK6Xxyqe1Ex8" "https://maps.app.goo.gl/R18p7DJjrGEsM3SK6" "https://maps.app.goo.gl/jSqG6P5ErB99Eq5E8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697191993295!6m8!1m7!1s8GTiYuK9tcUWb9c2BroPZw!2m2!1d12.13275059710606!2d-68.89906008491423!3f355.5673252515921!4f-56.327811134298955!5f0.4000000000000002" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
-藁でできたパラソルがビーチにある{{% ex "https://maps.app.goo.gl/EDzumPkno3Dwytez8" "https://maps.app.goo.gl/ag2hThmTBT2YcBxf7" "https://maps.app.goo.gl/murYXZfkz7vah7ed6" "https://maps.app.goo.gl/E22HHRbRFfiSTF4t5" "https://maps.app.goo.gl/BZXriPrHYUhcN2HA8" %}}
+藁でできたパラソルがビーチにある{{% ex "https://maps.app.goo.gl/wZRikHB6fkCySM5c6" "https://maps.app.goo.gl/EDzumPkno3Dwytez8" "https://maps.app.goo.gl/ag2hThmTBT2YcBxf7" "https://maps.app.goo.gl/murYXZfkz7vah7ed6" "https://maps.app.goo.gl/E22HHRbRFfiSTF4t5" "https://maps.app.goo.gl/BZXriPrHYUhcN2HA8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./curacao_beach_sea_tropical.jpg" width="90%">
