@@ -35,7 +35,7 @@ sc: [
 ヘブライ語(מְדִינַת יִשְׂרָאֵל)の文字が印象的
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/loudestnoise/14922088832/in/photolist-oJBB8E-51KB76-aeKGoV-6zoknP-KcHg5L-i17q8-Mbizw-oSrB2h-5XEbD4-5HaMQb-iitn5-dNTtb-nQeHH2-GJ9JED-bAZV4x-26gcoRs-9MY7CS-4YFKH8-MHJvy-9qbbTx-25Y6bW2-5RYb1B-26r9AKA-dHinH-HTrQeQ-5aDcys-97D7iz-atSjwg-LpTVyx-CJrC6V-aCdQYn-bsQyUT-bAkKf5-LaAZT-dRgUH-5Cuhar-9qfE5P-L4jhR1-aZNLPr-24MrgH6-ZoemGP-ui3Da-9yEsFb-4TqjtJ-o2iBy8-Ri7KJ9-UzQ5oz-89dyic-251U6ht-2kaYWo" title="IMG_0365"><img src="https://live.staticflickr.com/5585/14922088832_6bed66154e.jpg" width="500" height="333" alt="IMG_0365"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./roadsign.jpg" width="95%">
 </div>
 
 
