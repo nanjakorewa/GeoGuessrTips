@@ -34,8 +34,17 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。また、標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
+</div>
+
+{{% notice tip %}}
+標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-06-16-06-39-55.png" width="350px">
@@ -74,7 +83,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686317290862!6m8!1m7!1sG5mJ6cnsSX6U8x8XMwKd5w!2m2!1d39.73949932417848!2d32.75341222632087!3f95.78482578423227!4f6.296244921273754!5f1.6739744811632447" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-commercial" %}}
+{{% tab "道路" %}}
+{{% notice tip %}}
+こんな感じの路面が多い
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./road-surface.jpg">
+</div>
+
 {{% notice tip %}}
 道にトルコテレコム (Türk Telekom)のマンホールがある。telefon（トルコ語でのtelephone）の表記もある。
 {{% /notice %}}
