@@ -25,6 +25,7 @@ sc: [
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
         <li>「sokak」はトルコ語で通りの意味</li>
         <li class="no-evidence">標識の棒に小さな穴がたくさん空いている</li>
+        <li class="no-evidence">赤白シェブロンの矢印の先に隙間がある</li>
     </ul>
     {{% rd middle_east turkey verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -44,7 +45,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い気がする。
+標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-06-16-06-39-55.png" width="350px">
@@ -54,8 +55,22 @@ sc: [
 <img src="./pole.png" width="85%" />
 </div>
 
+
 {{% notice tip %}}
-止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/EAeRM1T1PMwqJJpa9" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。
+シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/EAeRM1T1PMwqJJpa9" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./road-arrow.jpg" width="550px" alt="トルコのシェブロン" />
+</div>
+
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<img src="./r/175104.png" width="150px" style="margin:15px">
+<img src="./r/ar-bc.jpg" width="110px" style="margin:15px">
+</div>
+
+{{% notice tip %}}
+止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="DUR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -64,15 +79,16 @@ sc: [
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="./r/Turkish_Stop_Sign.svg" width="120px">
 <img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
-<img src="./r/175104.png" width="110px" style="margin:5px">
 </div>
 
 {{% notice tip %}}
-ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}。一番見た目が似ているのは{{% goto "../../europe/romania" "ルーマニア" %}}のボラード{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}。
+ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://maps.app.goo.gl/NPE3hwnbV7NoxJUh7" "https://maps.app.goo.gl/P4LwZrxFabNPMnCEA" "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}。一番見た目が似ているのは{{% goto "../../europe/romania" "ルーマニア" %}}のボラード{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollard.jpg" width="85%" alt="トルコのボラード" />
 </div>
+
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
@@ -85,7 +101,7 @@ sc: [
 {{% /tab %}}
 {{% tab "道路" %}}
 {{% notice tip %}}
-こんな感じの路面が多い
+こんな感じの路面が多い{{% ex "https://maps.app.goo.gl/rgxVhwx5M35xr3kc7" "https://maps.app.goo.gl/9FaVARUKRWWeYqpa9" "https://maps.app.goo.gl/Jr6PTgWtX1UUBmW66" "https://maps.app.goo.gl/kTeW4GfdBA5qvBfK8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./road-surface.jpg">
@@ -145,6 +161,7 @@ sc: [
     <ul class="rule-list">
         <li>ゴミ箱に地方行政区画名や都市名が書いてあることがある。『●× BELEDiYESi』の●×が地名。
             <ul>
+                <li>Arsuz{{% ex "https://maps.app.goo.gl/GacYR2R17TuQy6SZ7" %}}</li>
                 <li>Nevşehir{{% ex "https://maps.app.goo.gl/zctGpS4Xa7uvMtwP7" %}}</li>
                 <li>Cizre{{% ex "https://maps.app.goo.gl/S7TVNuyRRw5CBvqUA" %}}</li>
             </ul>
