@@ -48,6 +48,12 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Nuevo Vallarta Mexico"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+<div class="googlemap-if">
+<img src="./c/Oxxo_Logo.svg" width="160px" style="margin:10px">
+<img src="./c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px">
+<img src="./c/Comex.png" width="180px" style="margin:30px 0 0 10px">
+</div>
+
 {{% notice tip %}}
 <span class="quiz">8角形</span>の電柱が特徴的{{% ex "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}。ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
