@@ -45,8 +45,12 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。斜めの点がふたつついていたらハンガリーと覚えておく。
+<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。斜めの点がふたつついていたらハンガリーと覚えておく。また緑色の独特な形の道路番号がある。
 {{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg" alt="M9 autóút vége.jpg" width="90%"></a></p><p>By Anomália - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
+</div>
 
 <div class="googlemap-if unclickable no-margin">
 <img src="./route.png" width="400px">
@@ -60,9 +64,6 @@ sc: [
 <img src="./micimacko_utca.jpg" width="500px">
 </div>
 
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg" alt="M9 autóút vége.jpg" width="90%"></a></p><p>By Anomália - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
-</div>
 
 {{% notice tip %}}
 ハンガリーの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>・<span class="quiz">ラトビア</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。足の形が「ハ」ならハンガリーで、「く」ならクロアチア（強引）。
