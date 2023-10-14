@@ -174,6 +174,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">電柱</h4>
     <ul class="rule-list">
         <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
         <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% ex "https://goo.gl/maps/vstKe9SH58xW61vu5" %}}{{% by "neckoluv" "twitch" %}}</li>
@@ -220,6 +221,38 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">標識・ボラード</h4>
+    <ul class="rule-list">
+        <li>西オーストラリア州では黄色いポールが標識に使用されている</li>
+        <li class="no-evidence">信号機付近の機械や看板に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "黄色いポール" %}}
+<div class="googlemap-if">
+<img src="./yellow-pole.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "VicRoads" %}}
+{{% notice tip %}}
+VicRoads は、オーストラリアのビクトリア州にある政府の合弁会社{{% by "https://en.wikipedia.org/wiki/VicRoads" "wiki" "VicRoads" %}}だがビクトリア州以外にあるのかは不明。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1685179864469!6m8!1m7!1sG6T35xH2DvZQ1DVxlOYPzA!2m2!1d-35.50314630170574!2d142.8495718157322!3f124.03577012416878!4f-2.037183444451685!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683550019499!6m8!1m7!1sfPzunmElpDidOg_VUb2ciQ!2m2!1d-37.81457962835244!2d144.9618442307953!3f310.30284468841296!4f-8.920018177956507!5f3.293433733170092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+<div class="googlemap-if">
+<img src="VicRoads_Logo_2009.gif" width="200px" />
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">その他</h4>
     <ul class="rule-list">
         <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。あまり見かけない上に街中でないと見つけられないため、ブラジルの電話番号と比較するとあまり重要ではない。
             <ul>
@@ -231,7 +264,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
             </ul>
         </li>
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
-        <li class="no-evidence">信号機付近の機械や看板に張ってあるシールに「VicRoads」とあればビクトリア州？</li>
         <li>クリスマス島が出題されることがある{{% goto "../christmas-island/" "クリスマス島" %}}
             <ul>
                 <li>Google Carが特徴的で<span class="quiz">黄色</span>ナンバーが多い</li>
@@ -269,19 +301,5 @@ By NJM2010 - Own work, GFDL, <a href="https://commons.wikimedia.org/w/index.php?
 
 By EurovisionNim - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
 {{% /lb %}}
-{{% /tab %}}
-{{% tab "道路施設" %}}
-{{% notice tip %}}
-VicRoads は、オーストラリアのビクトリア州にある政府の合弁会社{{% by "https://en.wikipedia.org/wiki/VicRoads" "wiki" "VicRoads" %}}だがビクトリア州以外にあるのかは不明。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685179864469!6m8!1m7!1sG6T35xH2DvZQ1DVxlOYPzA!2m2!1d-35.50314630170574!2d142.8495718157322!3f124.03577012416878!4f-2.037183444451685!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683550019499!6m8!1m7!1sfPzunmElpDidOg_VUb2ciQ!2m2!1d-37.81457962835244!2d144.9618442307953!3f310.30284468841296!4f-8.920018177956507!5f3.293433733170092" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-<div class="googlemap-if">
-<img src="VicRoads_Logo_2009.gif" width="200px" />
-</div>
 {{% /tab %}}
 {{% /tabs %}}

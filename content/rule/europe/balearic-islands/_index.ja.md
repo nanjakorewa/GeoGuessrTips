@@ -32,11 +32,19 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-道の片側・両側に低い石壁があることが多く{{% ex "https://goo.gl/maps/e1RimpMxwcjmQqur7" "https://goo.gl/maps/n6WVz6Wz1z6uwVuE9" "https://goo.gl/maps/SByeiBeevimNzo5y8" "https://goo.gl/maps/NzjnMLeQjAV4RJwc9" %}}、赤い土が多い。
+道の片側・両側に低い石壁があることが多い{{% ex "https://maps.app.goo.gl/1nZ7MxWGeRx7BdGr9" "https://maps.app.goo.gl/kcGcXQnCPmmCk4sJ8" "https://maps.app.goo.gl/JmNA1Nr7ShkH98fa9" "https://maps.app.goo.gl/uAZkEAKPmVxbKSyR8" "https://maps.app.goo.gl/gzVkQYJ1nkDmVP278" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684725860793!6m8!1m7!1s79w0l5tfgFUVkBipMSUOWQ!2m2!1d39.38366676959773!2d3.088187420240456!3f36.96903601419408!4f-12.040924665143763!5f1.535386027491259" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684725880744!6m8!1m7!1sGuxY6eFmbFHwpyjfFLFoNw!2m2!1d39.68119245115109!2d2.84078729508377!3f146.63982141865128!4f-11.187636220314502!5f2.529895123884778" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./stonewall.jpg" width="95%">
+<img src="./lighthouse_mallorca_balearic_islands.jpg" width="95%">
 </div>
+
+{{% notice tip %}}
+赤っぽい土が多い。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./redsoil.jpg" width="95%">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
