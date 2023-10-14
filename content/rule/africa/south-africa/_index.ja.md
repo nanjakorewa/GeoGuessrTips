@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業{{% ex "https://goo.gl/maps/R7Ek9LtT8Tvia73X8" "https://goo.gl/maps/Pm8tQTMhCJFkCVxY7" "https://goo.gl/maps/3Y27t6nanUNVcadb7" "https://goo.gl/maps/UA9BDJE4QzBMjDfZ8" "https://goo.gl/maps/LQKAeDgaGDM4pck4A" %}}{{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}。
+<span class="quiz">Sasol</span>は南アフリカのエネルギー・化学事業の企業{{% ex "https://goo.gl/maps/R7Ek9LtT8Tvia73X8" "https://goo.gl/maps/Pm8tQTMhCJFkCVxY7" "https://goo.gl/maps/3Y27t6nanUNVcadb7" "https://goo.gl/maps/UA9BDJE4QzBMjDfZ8" "https://goo.gl/maps/LQKAeDgaGDM4pck4A" %}}{{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}。世界で7番目に大きい石炭採掘会社であり、関連する化学物質や石油製品も販売する。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable" style="align-items: center;">
