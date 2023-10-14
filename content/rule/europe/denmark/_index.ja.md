@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-デンマークのOdenseにある会社のAlluxというブランドのポストが一般的、おしゃれで丸いふた{{% ex "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。
+デンマークのOdenseにある会社のAlluxというブランドのポストが一般的、おしゃれで丸いふた{{% ex "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/135489065@N08/20511021461/" title="Mailbox 98a"><img src="https://live.staticflickr.com/265/20511021461_3f577b8a1b_n.jpg" width="240" height="320" alt="Mailbox 98a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -64,7 +64,7 @@ sc: [
 {{% tab "w-viecle" %}}
 
 {{% notice tip %}}
-ナンバープレートは黄色も存在するので{{% goto "../netherlands/" "オランダ" %}}と間違えないように注意。
+ナンバープレートは黄色も存在するので{{% goto "../netherlands/" "オランダ" %}}と間違えないように注意{{% ex "https://maps.app.goo.gl/gpW89FJrneegRSGK7" %}}。
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -92,10 +92,10 @@ public domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ボーンホルム島の看板は『Nexø』か『Rønne』までの距離が書かれているケースが多い{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
-        <li>レス島という離島がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}</li>
+        <li>ボーンホルム島の看板では『Nexø』か『Rønne』までの距離が書かれているケースがほとんど{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
+        <li>レス島という離島に伝統的な木造建築がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}</li>
+        <li>アンホルト島という離島があり東側は灯台の燃料として木を伐採した結果として砂地が広がっている。道端にも砂がたまっていることがわかる{{% ref "https://en.wikipedia.org/wiki/Anholt_(Denmark)" "Anholt (Denmark)" %}}。</li>
         <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
-        <li>率直に言って本島にて地域ごとに明確な違いがあるのかわからない</li>
     </ul>
 </div>
 {{% tabs %}}
@@ -111,8 +111,24 @@ public domain
 
 {{% /tab %}}
 {{% tab "レス島の伝統的な木造建築" %}}
+
+{{% notice tip %}}
+レス島という離島に伝統的な木造建築がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}。『Byrum』・『Vesterø Havn』・『Østerby Havn』などの地名が看板に見つかる{{% ex "https://maps.app.goo.gl/vF1e42chkdK6ep1U9" "https://maps.app.goo.gl/1utGCN35cuz7bnxB7" %}}ならレス島に行ってみる。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685715672800!6m8!1m7!1sk7YWZkBYx1AzkLEjDoGVMg!2m2!1d57.26311626119966!2d11.03311029395011!3f281.53783425047243!4f0.3680693973414719!5f1.4939587085738273" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "アンホルト島の砂地" %}}
+
+{{% notice tip %}}
+アンホルト島の東側は砂地が広がっていて道はほとんど無い{{% ex "https://maps.app.goo.gl/CLhRgZd6abC2CCfC6" "https://maps.app.goo.gl/v8kQnsvA3AuM7Z6r8" %}}。道のある場所でも道端に砂がたまっていたり砂みたいな道路だったりする{{% ex "https://maps.app.goo.gl/v8kQnsvA3AuM7Z6r8" "https://maps.app.goo.gl/X6dEikSEQALMDUMc7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./Anholt_island_view_2005.jpg" width="95%">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1697261565914!6m8!1m7!1sja229-1LQr8vmd1-vK0EtQ!2m2!1d56.71580830041433!2d11.54309706651893!3f339.80967863425553!4f-2.5571449070028933!5f0.4000000000000002" width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
