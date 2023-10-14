@@ -94,7 +94,7 @@ public domain
     <ul class="rule-list">
         <li>ボーンホルム島の看板では『Nexø』か『Rønne』までの距離が書かれているケースがほとんど{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
         <li>レス島という離島に伝統的な木造建築がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}</li>
-        <li>アンホルト島という離島があり東側は灯台の燃料として木を伐採した結果として砂地が広がっている。道端にも砂がたまっていることがわかる{{% ref "https://en.wikipedia.org/wiki/Anholt_(Denmark)" "Anholt (Denmark)" %}}。</li>
+        <li>アンホルト島という離島がある。島の東側は灯台の燃料として木を伐採した結果として砂地が広がっている。道端にも砂がたまっていることがわかる{{% ref "https://en.wikipedia.org/wiki/Anholt_(Denmark)" "Anholt (Denmark)" %}}。</li>
         <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
     </ul>
 </div>
