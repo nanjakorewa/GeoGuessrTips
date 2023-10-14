@@ -39,15 +39,15 @@ sc: [
 石灰岩を使った薄い黄土色の壁が島中に存在する。見た目が似ている石壁は{{% goto "../italy/" "イタリア南部" %}}や{{% goto "../balearic-islands/" "バレアレス諸島" %}}にも見られるので<span class="quiz">左側</span>通行であることも確認する。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679668368631!6m8!1m7!1szvW6wnu1XpdR1QvIMk99Rg!2m2!1d35.8560548181086!2d14.41273861118275!3f276.1221585632379!4f0.29597480058619396!5f3.325193203789971" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679668368631!6m8!1m7!1szvW6wnu1XpdR1QvIMk99Rg!2m2!1d35.8560548181086!2d14.41273861118275!3f276.1221585632379!4f0.29597480058619396!5f3.325193203789971" width="90%" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}
 通り名の看板に<span class="quiz">TRIQ</span>と書いてある（画像右端）
 {{% /notice %}}
 
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrewmilligansumo/48354921272/in/photolist-2gEXBrb-2g7ns4Q-nyMxV-2gEXF1u-CiRNs7-2gEX3jU-2g6RtNM-2g6RciT-2gEXHdg-BMGX2H-CiStCG-2gEWXUG-2gEWXgn-2g7qHLy-AG85yM-BoFd7j-2g6K9AW-CiUgHW-2g7nifC-2gEY7tE-2gEXEgo-CiTn2y-2g6RC2K-2g6R3io-2g7nPd1-2g7mX3i-2g7mLgD-2g7mWEj-2g7n3mh-2g7mKVU-2g7mXmE-2gEXGX1-2g7mY8x-2g7mKh4-2g7pkDR-2g7mXFY-2g7mJci-2g7mNyy-2g7mMro-2g7mLHu-2g7mXEZ-BU9GzQ-2g7nhZC-2g7nzpK-2g7tcdj-2gEY2i4-2gGx1Nu-2gEXsda-2gGwkPr-2g6RATd" title="Triq Sarria, Floriana, Malta"><img src="https://live.staticflickr.com/65535/48354921272_452815e7f7_z.jpg" width="640" height="427" alt="Triq Sarria, Floriana, Malta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Triq_Vincenzo_Bugeja,_Floriana,_Malta.jpg#/media/File:Triq_Vincenzo_Bugeja,_Floriana,_Malta.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Triq_Vincenzo_Bugeja%2C_Floriana%2C_Malta.jpg" alt="Triq Vincenzo Bugeja, Floriana, Malta.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pygar1954" title="User:Pygar1954">Pygar1954</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=118184266">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
