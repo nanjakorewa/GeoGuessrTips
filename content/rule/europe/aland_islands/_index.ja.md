@@ -36,8 +36,8 @@ sc: [
 周りが平坦で路面が赤っぽいならば<span class="quiz">オーランド諸島</span>かも{{% ex "https://maps.app.goo.gl/eBRqq3qmB6it12C67" "https://maps.app.goo.gl/KwwfSwccfqvRX4vW6" "https://maps.app.goo.gl/PsfhcsPgbiJHCpcS9" %}}。家も北欧でよく見られる<span class="quiz">濃い赤色（ファールン赤）</span>で塗られた木造の家が多い。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683304964827!6m8!1m7!1sokFpcohpdGeZkJRKW_YHtw!2m2!1d60.27129339194121!2d20.0907481656607!3f79.11308737205576!4f-0.6450475577199626!5f1.575228518286084" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:2018-08-30_%C3%85land_by_Olaf_Kosinsky_7815.jpg#/media/File:2018-08-30_Åland_by_Olaf_Kosinsky_7815.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/2018-08-30_%C3%85land_by_Olaf_Kosinsky_7815.jpg" alt="2018-08-30 Åland by Olaf Kosinsky 7815.jpg" width="95%"></a></p><p>By <a href="https://www.wikidata.org/wiki/Q30108329" class="extiw" title="d:Q30108329"><span title="German photographer">Olaf Kosinsky</span></a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en" title="Creative Commons Attribution-Share Alike 3.0 de">CC BY-SA 3.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=75350844">Link</a></p>
 </div>
 
 {{% notice tip %}}
