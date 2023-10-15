@@ -33,11 +33,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボラードはいろいろな種類があり一貫性がない。反射板がふたつ付いている見慣れない形のもの{{% ex "https://goo.gl/maps/PsSdjnqAVBVKiffVA" "https://goo.gl/maps/2qLweYvAgDvTPg7E8" %}}はエクアドルかも？
+ボラードはいろいろな種類があり一貫性がない。反射板がふたつ付いている見慣れない形のもの{{% ex "https://maps.app.goo.gl/4HUoPNSFyvTw9MYN6" "https://maps.app.goo.gl/wVYdUu4AKc4AEfEc8" "https://goo.gl/maps/PsSdjnqAVBVKiffVA" "https://goo.gl/maps/2qLweYvAgDvTPg7E8" %}}はエクアドルかも？
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682819743188!6m8!1m7!1soEsqfwy9dg1wyJv25NaW2A!2m2!1d-0.1870776588134144!2d-79.20063605961644!3f129.86151527941817!4f-4.46110271071808!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682819722721!6m8!1m7!1sFYmTuXWCsTDkTu4RxpEy0Q!2m2!1d-3.471245261520406!2d-79.15938137617697!3f267.14150262468917!4f-3.4847043387237306!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:LIMITE_-_panoramio.jpg#/media/File:LIMITE_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/LIMITE_-_panoramio.jpg" alt="LIMITE - panoramio.jpg" width="95%"></a></p><p>By DIOHER_PAVAL, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60614574">Link</a></p>
 </div>
 
 {{% notice tip %}}

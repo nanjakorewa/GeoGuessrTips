@@ -27,10 +27,11 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.kh</span></li>
+        <li><span class="quiz">白と赤</span>に塗られたボラードがある</li>
         <li>仏教に関係する建築物が多い</li>
         <li><span class="quiz">クメール語（ភាសាខ្មែរ）</span>が広く用いられている</li>
         <li>カンボジアの農村部は<span class="quiz">高床式住居</span>が多い</li>
-        <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある。最大手である<span class="quiz">Angkor</span>のロゴはもちろんアンコールワット。</li>
+        <li>パラソルなどにビールブランドの<span class="quiz">LEO・Kingdom・Angkor</span>のロゴがある</li>
         <li class="no-evidence">ちいさな祠のようなものがあって家のある方角に向かって置かれていることが多い</li>
         <li class="no-evidence">パラソルの下でビン入りの飲み物がよく売られている</li>
     </ul>
@@ -42,7 +43,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。白と赤に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" %}}。
+<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。<span class="quiz">白と赤</span>に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
@@ -129,7 +130,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>コーン畑や田んぼは東側と海沿いにはほとんど存在しない{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CB" "USDA Cambodia Production" %}}
+        <li>コーン畑や田んぼは<span class="quiz">東側と海沿い</span>にはほとんど存在しない{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CB" "USDA Cambodia Production" %}}
             <ul>
                 <li>畑が少ない北や東の地域{{% ex "https://goo.gl/maps/bRZ1rdpYyfYZ4JwV8" "https://goo.gl/maps/CLHCty7fGqk2yUz97" %}}</li>
                 <li>畑のある中央地域{{% ex "https://goo.gl/maps/Bf9pDGLiYbvdA5P66" %}}</li>
@@ -165,10 +166,10 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Tonlé Sap湖ではボートハウスの村がある{{% ex "https://maps.app.goo.gl/aV1SmCeEiddHj4aY9" "https://maps.app.goo.gl/SFphWJpVPbiAH4QGA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97" "បឹងទន្លេសាប" %}}</li>
-        <li>Kampot旧市街にはフランス植民地時代の建築が多く残っている{{% ex "https://maps.app.goo.gl/XDXgvWGtqesJvqF78" "https://maps.app.goo.gl/YStuFmXXkxznr9V99" %}}{{% ref "https://en.wikipedia.org/wiki/Kampot_(city)" "カンポット" %}}</li>
-        <li>Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "https://maps.app.goo.gl/gyt6aZqaBXw2RaPi8" %}}</li>
-        <li>Preăh Seihânŭは輸出入の拠点。中国からの投資もあり発展している{{% ref "https://en.wikipedia.org/wiki/Preah_Sihanouk_province" "Preah Sihanouk province" %}}。高い建物も存在する{{% ex "https://maps.app.goo.gl/79CgruYVEDT2juHL8" %}}。</li>
+        <li><span class="quiz">Tonlé Sap湖</span>ではボートハウスの村がある{{% ex "https://maps.app.goo.gl/aV1SmCeEiddHj4aY9" "https://maps.app.goo.gl/SFphWJpVPbiAH4QGA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97" "បឹងទន្លេសាប" %}}</li>
+        <li><span class="quiz">Kampot</span>旧市街には{{% goto "../../europe/france/" "フランス" %}}植民地時代の建築が多く残っている{{% ex "https://maps.app.goo.gl/XDXgvWGtqesJvqF78" "https://maps.app.goo.gl/YStuFmXXkxznr9V99" %}}{{% ref "https://en.wikipedia.org/wiki/Kampot_(city)" "カンポット" %}}</li>
+        <li><span class="quiz">Siem Reap</span>にはアンコールワットやバイヨン寺院がある{{% ex "https://maps.app.goo.gl/gyt6aZqaBXw2RaPi8" %}}</li>
+        <li><span class="quiz">Preăh Seihânŭ</span>は輸出入の拠点であり中国からの投資により発展している{{% ref "https://en.wikipedia.org/wiki/Preah_Sihanouk_province" "Preah Sihanouk province" %}}。高い建物も存在する{{% ex "https://maps.app.goo.gl/79CgruYVEDT2juHL8" %}}。</li>
     </ul>
 </div>
 

@@ -27,7 +27,7 @@ sc: [
         <li>ドメインは<span class="quiz">.dk</span></li>
         <li>ナンバープレートは<span class="quiz">白か黄色</span>{{% by %}}</li>
         <li>ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある</li>
-        <li>丸いカーブのパイプで作られた道路看板がある</li>
+        <li><span class="quiz">丸いカーブのパイプ</span>で作られた道路看板がある</li>
         <li>「Ø・ø」の文字はデンマークと<span class="quiz">ノルウェー</span>でのみ使用される</li>
         <li class="no-evidence">通り名に<span class="quiz">haven・vej・høje</span>が多い（英語ではgarden・road・mound/庭・道・山）？</li>
         <li class="no-evidence">デンマークのポスト業界でシェアの高いAlluxの<span class="quiz">丸いカーブのふた</span>があるポストが家の近くに設置されている</li>
@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-デンマークのOdenseにある会社のAlluxというブランドのポストが一般的、おしゃれで丸いふた{{% ex "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。
+デンマークのOdenseにある会社のAlluxというブランドのポストが一般的。おしゃれで丸いふた{{% ex "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/135489065@N08/20511021461/" title="Mailbox 98a"><img src="https://live.staticflickr.com/265/20511021461_3f577b8a1b_n.jpg" width="240" height="320" alt="Mailbox 98a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -48,7 +48,7 @@ sc: [
 
 
 {{% notice tip %}}
-丸いカーブのパイプが多い。通り名の看板も丸いパイプ。オランダなどはパイプが四角いことが多い。<span class="quiz">～vej</span>はデンマーク語で～通りの意味{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}。
+<span class="quiz">丸いカーブのパイプ</span>が多い。通り名の看板も丸いパイプ。オランダなどはパイプが四角いことが多い。<span class="quiz">～vej</span>はデンマーク語で～通りの意味{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="80%" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -92,9 +92,14 @@ public domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ボーンホルム島の看板では『Nexø』か『Rønne』までの距離が書かれているケースがほとんど{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
+        <li>ボーンホルム島の看板では『<span class="quiz">Nexø</span>』か『<span class="quiz">Rønne</span>』までの距離が書かれているケースがほとんど{{% ex "https://goo.gl/maps/AaA292UvuzZmYiEo6" "https://goo.gl/maps/aDJ7AxW2wrjWRW6r9" "https://goo.gl/maps/69rTo4Bsd59Xao8R6" "https://goo.gl/maps/7zuWmXYcwsUDgVfRA" "https://goo.gl/maps/gjMtiYCZsHe8WEY97" "https://goo.gl/maps/rQ64zpbCLMmedBvz9" %}}{{% by "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B9%E5%B3%B6" "wiki" "ボーンホルム島" %}}</li>
         <li>レス島という離島に伝統的な木造建築がある{{% by "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%AB%E3%83%A0%E5%B3%B6" "wiki" "Læsø" %}}</li>
-        <li>アンホルト島という離島がある。島の東側は灯台の燃料として木を伐採した結果として砂地が広がっている。道端にも砂がたまっていることがわかる{{% ref "https://en.wikipedia.org/wiki/Anholt_(Denmark)" "Anholt (Denmark)" %}}。</li>
+        <li>アンホルト島という離島がある
+            <ul>
+                <li>島の東側は灯台の燃料として木を伐採してしまったため<span class="quiz">砂地</span>が広がっている</li>
+                <li>道端にも<span class="quiz">砂</span>がたまっていることがわかる{{% ref "https://en.wikipedia.org/wiki/Anholt_(Denmark)" "Anholt (Denmark)" %}}</li>
+            </ul>
+        </li>
         <li>デンマークの自治領である{{% goto "../../n_america/greenland/" "グリーンランド" %}}・{{% goto "../faroe_islands/" "フェロー諸島" %}}が出ることがある</li>
     </ul>
 </div>
