@@ -42,7 +42,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。都市部では英語も使用される。これらの言語でボラードに地名が書いてある。白と赤に塗られたボラードがある。
+<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。白と赤に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
@@ -166,8 +166,9 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Tonlé Sap湖ではボートハウスの村がある{{% ex "https://maps.app.goo.gl/aV1SmCeEiddHj4aY9" "https://maps.app.goo.gl/SFphWJpVPbiAH4QGA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97" "បឹងទន្លេសាប" %}}</li>
-        <li>Kampot旧市街にはフランス植民地時代の建築が多く残っている{{% ref "https://en.wikipedia.org/wiki/Kampot_(city)" "カンポット" %}}</li>
+        <li>Kampot旧市街にはフランス植民地時代の建築が多く残っている{{% ex "https://maps.app.goo.gl/XDXgvWGtqesJvqF78" "https://maps.app.goo.gl/YStuFmXXkxznr9V99" %}}{{% ref "https://en.wikipedia.org/wiki/Kampot_(city)" "カンポット" %}}</li>
         <li>Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "https://maps.app.goo.gl/gyt6aZqaBXw2RaPi8" %}}</li>
+        <li>Preăh Seihânŭは輸出入の拠点。中国からの投資もあり発展している{{% ref "https://en.wikipedia.org/wiki/Preah_Sihanouk_province" "Preah Sihanouk province" %}}。高い建物も存在する{{% ex "https://maps.app.goo.gl/79CgruYVEDT2juHL8" %}}。</li>
     </ul>
 </div>
 
@@ -198,6 +199,15 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 <div class="googlemap-if no-margin">
 <img src="./angkor_wat_cambodia_angkor.jpg" width="95%">
 <img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Preăh Seihânŭ" %}}
+{{% notice tip %}}
+アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}一方でPreăh Seihânŭは４階建て以上の建物が存在する{{% ex "https://maps.app.goo.gl/79CgruYVEDT2juHL8" %}}。石油ターミナルもあり物流拠点になっている。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:All_Sihanoukville_2014_year.jpg#/media/File:All_Sihanoukville_2014_year.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/All_Sihanoukville_2014_year.jpg" alt="All Sihanoukville 2014 year.jpg" height="720" width="1071"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78794523">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
