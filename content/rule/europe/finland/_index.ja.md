@@ -80,6 +80,15 @@ additional_link:
 <img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
 </div>
 
+
+{{% notice tip %}}
+『～tie』や『～gatan』といった通り名が多い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./streetsign.jpg" width="95%">
+</div>
+
 {{% notice tip %}}
 フィンランドは警告看板の<span class="quiz">まわりに黄色の細い縁</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
 {{% /notice %}}
