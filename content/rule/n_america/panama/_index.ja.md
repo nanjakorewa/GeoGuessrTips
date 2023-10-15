@@ -82,6 +82,13 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>電柱のプレートが横向きならパナマより西へ、縦向きなら東へ向かう{{% ref "https://www.youtube.com/watch?v=soivPL9Z1dM&ab_channel=zi8gzag" "I Learned Geoguessr’s NEWEST Country for the World Cup" %}}
+            <ul>
+                <li>パナマ市より西{{% ex "https://maps.app.goo.gl/idj2PvuigiN3pKNq8" "https://maps.app.goo.gl/Z6sA2bBj4iLd2hV99"  "https://maps.app.goo.gl/R1QQbA2dXtFwQA6v5" %}}</li>
+                <li>パナマ市より東{{% ex "https://maps.app.goo.gl/LpTcfHyYruK1PNGn6" "https://maps.app.goo.gl/cHXvmRioaeigbvSR8" %}}</li>
+                <li>パナマ市の北のコロン市周辺{{% ex "https://maps.app.goo.gl/wh52veZwxnQ7BidR8" "https://maps.app.goo.gl/mk1xPvZuJ1CFQaEy9" "https://maps.app.goo.gl/ZrGjg5BXpK1abznh6" "https://maps.app.goo.gl/gatP3mB4XoDn5yHw8" %}}（動画では言及されていないけれど恐らく縦が多いので注意）
+            </ul>
+        </li>
         <li>西側に山脈がある
             <ul>
                 <li>北西：降水量が多く南側に山が見える{{% ex "https://maps.app.goo.gl/sK3FnERp8S6zqdqo9" "https://maps.app.goo.gl/eD1iRtVXa4sCYpqf6" %}}
