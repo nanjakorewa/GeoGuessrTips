@@ -73,7 +73,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 {{% notice tip %}}
-ギリシャは日差しが強く石灰も多いため、白い壁の建物が多い。屋根は赤褐色の色が多い{{% ex "https://goo.gl/maps/aAT78wvhF1zRu12S7" %}}。
+ギリシャは日差しが強く石灰も多いため白い壁の建物が多い。屋根は赤褐色の色が多い{{% ex "https://goo.gl/maps/aAT78wvhF1zRu12S7" %}}。ただし離島や一部地域では赤褐色の瓦が一切使用されず平らな屋根の時も多い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -157,7 +157,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% tab "市外局番" %}}
 
 {{% notice tip %}}
-ほぼ反時計周り。<span class="quiz">28</span>なら離島へ行ってみる。・
+ほぼ反時計周り。<span class="quiz">28</span>なら離島へ行ってみる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
