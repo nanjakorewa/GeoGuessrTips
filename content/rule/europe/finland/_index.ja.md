@@ -127,15 +127,6 @@ additional_link:
 <img src="road.png" width="90%" />
 </div>
 
-
-{{% notice tip %}}
-フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="2023-06-17-13-12-50.png" width="570px"/>
-</div>
-
 {{% /tab %}}
 {{% tab "w-building" %}}
 
@@ -173,6 +164,17 @@ additional_link:
 <tr><td><span class="quiz">デンマーク語</span></td><td>Dette er en ensrettet zone.</td></tr>
 <tr><td><span class="quiz">フィンランド語</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
 </table>
+</div>
+
+{{% /tab %}}
+{{% tab "ピンを置く最適なポイント" %}}
+
+{{% notice tip %}}
+フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-17-13-12-50.png" width="570px"/>
 </div>
 
 {{% /tab %}}
