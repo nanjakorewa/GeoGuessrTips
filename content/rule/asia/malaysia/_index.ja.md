@@ -123,24 +123,35 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>『<a href="https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit">The Malaysia Doc by zi8gzag</a>』が詳しいのでこれを参照する</li>
-        <li>農作物の分布が地域ごとに異なる
+        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるときは半島側の北部か南部の可能性がある{{% ref "https://en.wikipedia.org/wiki/Jawi_script" "Jawi script" %}}。</li>
+        <li>農業分布に偏りがある
             <ul>
+                <li>アブラヤシのプランテーションは本土東側とSabah周辺に多い</li>
+                <li>田んぼがある場合は本土の北部側のケースが多い</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MY">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
-        <li>ジャウィ文字の表記が通り名やスーパーの看板にあるときは半島側の北部か南部の可能性がある{{% ref "https://en.wikipedia.org/wiki/Jawi_script" "Jawi script" %}}。</li>
+        <li>『<a href="https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit">The Malaysia Doc by zi8gzag</a>』が詳しいのでこれを参照する</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "ジャウィ文字" %}}
+{{% notice tip %}}
+半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い{{% ref "https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit" "The Malaysia Doc by zi8gzag" %}}。インドネシアのリアウ州やリアウ諸島でもこの文字がある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./signboard_with_islamic_calligraphy.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-11-14-03-32.png" width="90%"/>
 </div>
 
 {{% notice tip %}}
-赤<span style="color: red;">●</span>のPalm Oil Mill周辺には大規模なパームのプランテーションが広がっていることが多そう
+赤<span style="color: red;">●</span>のPalm Oil Mill周辺には大規模なパームのプランテーションが広がっていることが多い。Sarawakの中部は道路があまりないので、大規模なプランテーションがある場合はSabahの東側に寄せてみる？
 {{% /notice %}}
 
 
@@ -160,15 +171,6 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683781975727!6m8!1m7!1sKVRNUq1XkjFkTlt-FWwJ7A!2m2!1d6.257753139942261!2d100.3186941871063!3f100.26260459083646!4f1.0836826427593422!5f1.4588197954522921" width="590" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "ジャウィ文字" %}}
-{{% notice tip %}}
-半島北部（トレンガヌ州・クランタン州・ケダ州・プルリス州）と半島南部（ジョホール州、シンガポールに一番近い州）でよく使用される。ただしこの看板が黄色ならば<span class="quiz">ジョホール</span>州である可能性が高い{{% ref "https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit" "The Malaysia Doc by zi8gzag" %}}。インドネシアのリアウ州やリアウ諸島（＝<span class="quiz">ジョホール</span>州周辺）でもこの文字がある。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/acordova/2191949322/in/photolist-2t1PYP-rvhDGS-4HJmgb-97YPuu-7JeZJt-4pM9M-2hEaarp-vpF9F-4kGjaG-nYa617-7Nv2wh-sugew-bUzDZm-82NpqC-as4dpt-2qX7Cz-2qX6VT-4Kz8iw-ndrQaU-8aVwF9-7JZ5jT-bV93Y9-vpEZZ-jjWmG6-7RpQJC-71TcH3-65Y3NB-bV8WKY-LL3dP2-c8ZFhy-eaAm3-XMx74W-LL4yKc-LD6pYD-LL4zx4-LD6rAX-LD6r32-LL4BDP-LL4Azz-2imtXdn-yfmTLE" title="Signpost in Jawi and Latin scripts"><img src="https://live.staticflickr.com/2360/2191949322_0ca0eb325f.jpg" width="500" height="375" alt="Signpost in Jawi and Latin scripts"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -193,6 +195,11 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 </div>
 {{% /tab %}}
 {{% tab "ティオマン島" %}}
+
+{{% notice tip %}}
+マレーシアでは非常に珍しいコンクリート道路。一般に重機が持ち込めない離島のような辺鄙な場所はコンクリート道路が多い。アスファルトを均等に圧延できない斜面が多い場所もコンクリート道路が多い。山が多いタイ、離島が多いフィリピン{{% ex "https://maps.app.goo.gl/siH6NTBD1aNM3XDj8" %}}、コロンビアの山間部{{% ex "https://maps.app.goo.gl/cayVSUSkmX24XTLB8" %}}などもコンクリート道路が見られる。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691904266081!6m8!1m7!1s4XDQlxUS-63_ZoeO0ifCLg!2m2!1d2.815183796206949!2d104.1546025502086!3f255.77!4f-24.680000000000007!5f0.4000000000000002" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
