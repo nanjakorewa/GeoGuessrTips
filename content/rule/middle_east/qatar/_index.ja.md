@@ -61,8 +61,8 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687827551792!6m8!1m7!1sm_0E-7kek0LrHoCF3cdgww!2m2!1d25.32439721993444!2d51.35161953558839!3f226.8670241269839!4f-32.44312003721448!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1696115165271!6m8!1m7!1sY7a3asTUkj-bzCob5j4mkg!2m2!1d25.18043970522174!2d51.25268641241778!3f56.6950030535649!4f-9.045193071424933!5f1.5362075765835743" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1697359826764!6m8!1m7!1sC47tlpQ3JyrpVgqghWa6Lw!2m2!1d25.30624053439427!2d51.55374164565995!3f70.14004298144707!4f1.1100448708696717!5f0.7820865974627469" width="47%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1697359686568!6m8!1m7!1sPzRiYIpuk3U7Hxa6Y_JTbQ!2m2!1d25.57816549545542!2d51.49583103885215!3f90.82664649310988!4f-0.6260879082174569!5f1.2082391987296366" width="47%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% notice tip %}}周りに平坦な砂漠が広がっている{{% ex "https://maps.app.goo.gl/a43UjDVjkPTqQkWj7" "https://maps.app.goo.gl/3SJqibYX4CU1Gg5e7" %}}。国土の大部分は平坦な砂地で最も高い地点でも標高は約100ｍしかない。
