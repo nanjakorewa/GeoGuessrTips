@@ -73,7 +73,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 {{% notice tip %}}
-ギリシャは日差しが強く石灰も多いため白い壁の建物が多い。屋根は赤褐色の色が多い{{% ex "https://goo.gl/maps/aAT78wvhF1zRu12S7" %}}。ただし離島や一部地域では赤褐色の瓦が一切使用されず平らな屋根の時も多い。
+ギリシャは日差しが強く石灰も多いため白い壁の建物が多い。屋根は赤褐色の色が多い{{% ex "https://goo.gl/maps/aAT78wvhF1zRu12S7" %}}。ただし離島や一部地域では赤褐色の瓦が一切使用されず平らな屋根の時も多い（{{% goto "#sifnos" "シフノス島" %}}）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -203,7 +203,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /tabs %}}
 
 
-<div class="main-desciption city-description">
+<div class="main-desciption city-description" id="sifnos">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>イドラ島は条例で自動車が禁止されておりトレッカーのみが存在する{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%89%E3%83%A9%E5%B3%B6" "イドラ島" %}}</li>
