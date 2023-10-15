@@ -137,7 +137,6 @@ sc: [
             </ul>
         </li>
         <li>ボラードを見つけて道路番号を探したあとで両面に書いてある町名を探す{{% ex "https://maps.app.goo.gl/tNSmfsf1YdgsCcfp8" %}}。そのあと距離の比率をみておよその地域を絞り込む。</li>
-        <li>アンコールワットのあるシェムリアップでは条例により高い建物は作れない{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館" %}}</li>
     </ul>
 </div>
 
@@ -154,7 +153,7 @@ sc: [
 {{% /tab %}}
 {{% tab "ボラード" %}}
 {{% notice tip %}}
-ボラードの側面に道路番号が、両面に町までの距離が書いてある。
+ボラードの側面に道路番号が、両面に町までの距離が書いてある。運よく見つけられたらかなり距離を詰めることができる。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -166,18 +165,39 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>トンレ・サップ湖を船で渡る場所がある</li>
+        <li>Tonlé Sap湖ではボートハウスの村がある{{% ex "https://maps.app.goo.gl/aV1SmCeEiddHj4aY9" "https://maps.app.goo.gl/SFphWJpVPbiAH4QGA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97" "បឹងទន្លេសាប" %}}</li>
+        <li>Kampot旧市街にはフランス植民地時代の建築が多く残っている{{% ref "https://en.wikipedia.org/wiki/Kampot_(city)" "カンポット" %}}</li>
+        <li>Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "https://maps.app.goo.gl/gyt6aZqaBXw2RaPi8" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "湖の上" %}}
+{{% tab "Tonlé Sap" %}}
 {{% notice tip %}}
-トンレ・サップ湖の上も出ることがある
+トンレ・サップ湖の上も出ることがある。ボートハウスの村が湖面にあり独特な建築が見られる{{% ex "https://maps.app.goo.gl/wWqjaQjPWA25Dxzs9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686665924475!6m8!1m7!1seCLxYxO1olREocoS2zgIDA!2m2!1d12.51447248869762!2d104.447153870721!3f82.30284137401792!4f-27.012955072008616!5f0.5542794894395264" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./kompong_phluk_kompong_tour_2.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Kampot" %}}
+{{% notice tip %}}
+カンボジアの都市部ではフランス植民地時代の建築が多くみられる。Kampotは重要な港町で特に多く洋風の建築が残っている。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Kampot_20110429-050.JPG#/media/File:Kampot_20110429-050.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kampot_20110429-050.JPG" alt="Kampot 20110429-050.JPG" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Haros" title="User:Haros">Hans A. Rosbach</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15165246">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Siem Reap" %}}
+{{% notice tip %}}
+Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "https://maps.app.goo.gl/AoDNEJjyd9kH4bPc9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./angkor_wat_cambodia_angkor.jpg" width="95%">
+<img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
