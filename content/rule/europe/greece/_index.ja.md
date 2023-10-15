@@ -146,6 +146,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
             <ul>
                 <li>本土側の平地はコットンや灌漑農業が多い</li>
                 <li>本土側の傾斜がある場所や離島ではオリーブやベリーの畑が多い</li>
+                <li>クリティ(Κρήτη)島もオリーブのプランテーションが多い{{% ex "https://maps.app.goo.gl/Epf77rN5RqxJUT1B6" "https://maps.app.goo.gl/xx3SgMUUCvDoZv6y5" "https://maps.app.goo.gl/YPuvwS7Q71UqvM7x8" %}}</li>
                 <li>ブドウ畑が全域にありワインが輸出されている{{% ref "https://vineyards.com/wine-map/greece" "Wine map regions of Greece" %}}</li>
             </ul>
         </li>
@@ -206,6 +207,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>イドラ島は条例で自動車が禁止されておりトレッカーのみが存在する{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%89%E3%83%A9%E5%B3%B6" "イドラ島" %}}</li>
+        <li>シフノス島は港以外は観光地化が進んでおらず遺跡や教会が多くある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "Sifnos" %}}。赤い屋根の家が全く無い。</li>
         <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
         <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
     </ul>
@@ -221,6 +223,17 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <p><a href="https://commons.wikimedia.org/wiki/File:Idra_180_40,_Greece_-_panoramio.jpg#/media/File:Idra_180_40,_Greece_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Idra_180_40%2C_Greece_-_panoramio.jpg" alt="Idra 180 40, Greece - panoramio.jpg" width="90%"></a></p>
 <p>By theusmanmali, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53642795">Link</a></p>
 </div>
+{{% /tab %}}
+{{% tab "シフノス島" %}}
+{{% notice tip %}}
+赤い屋根の家が全く無いことが写真からわかる。遺跡や教会{{% ex "https://maps.app.goo.gl/vR9eZsEPs9mCj6ZF7" "https://maps.app.goo.gl/TnA5tKK1tLJ93snh9" "https://maps.app.goo.gl/ef9W7dZ4i6ew9nQF6" %}}が多く見つかる。教会は島の中に300箇所以上ある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "シフノス島" %}}。観光地化は進んでおらず、舗装されていない道を歩くことも多い{{% ex "https://maps.app.goo.gl/KfGbWEcnbgGvQtgF7" "https://maps.app.goo.gl/dHgBDc9qkRt2Stph8" %}}。陶芸が盛んらしい。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./chrisopigi_monastery_monastery_greek.jpg" width="90%">
+<img src="./apollonia_on_sifnos.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "ゴミ箱" %}}
 {{% notice tip %}}
