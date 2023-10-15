@@ -99,6 +99,12 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
 </div>
 
 {{% tabs %}}
+{{% tab "電柱のプレート" %}}
+<div class="googlemap-if no-margin">
+<p><img src="2023-10-15-15-37-08.png" width="90%"></p>
+<p>以下より切り抜き：By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132545975@N04">Melissa McMasters</a> from Memphis, TN, United States - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cricketsblog/52729221354/">La Mesa, Panama</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=129314200">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "標高" %}}
 
 <div class="googlemap-if no-margin">
