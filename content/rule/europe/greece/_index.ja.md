@@ -207,7 +207,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>イドラ島は条例で自動車が禁止されておりトレッカーのみが存在する{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%89%E3%83%A9%E5%B3%B6" "イドラ島" %}}</li>
-        <li>シフノス島は港以外は観光地化が進んでおらず遺跡や教会が多くある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "Sifnos" %}}。赤い屋根の家が全く無い{{% ex "https://maps.app.goo.gl/RJ8NbAQwphoHwN7z9" "https://maps.app.goo.gl/CrCeUojDniaYZhmKA" "https://maps.app.goo.gl/BE2xMLbJMoARjKbx5" "https://maps.app.goo.gl/kPCgQwRjeCTzdVEe7" "https://maps.app.goo.gl/s4Ds5xGPNyRi8dwQ7" %}}。</li>
+        <li>シフノス島は港以外は観光地化が進んでおらず遺跡や教会が多くある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "Sifnos" %}}。</li>
         <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
         <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
     </ul>
@@ -226,7 +226,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /tab %}}
 {{% tab "シフノス島" %}}
 {{% notice tip %}}
-赤い屋根の家が全く無いことが写真からわかる。遺跡や教会{{% ex "https://maps.app.goo.gl/vR9eZsEPs9mCj6ZF7" "https://maps.app.goo.gl/TnA5tKK1tLJ93snh9" "https://maps.app.goo.gl/ef9W7dZ4i6ew9nQF6" %}}が多く見つかる。教会は島の中に300箇所以上ある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "シフノス島" %}}。観光地化は進んでおらず、舗装されていない道を歩くことも多い{{% ex "https://maps.app.goo.gl/KfGbWEcnbgGvQtgF7" "https://maps.app.goo.gl/dHgBDc9qkRt2Stph8" %}}。陶芸が盛んらしい。
+遺跡や教会{{% ex "https://maps.app.goo.gl/vR9eZsEPs9mCj6ZF7" "https://maps.app.goo.gl/TnA5tKK1tLJ93snh9" "https://maps.app.goo.gl/ef9W7dZ4i6ew9nQF6" %}}が多く見つかる。教会は島の中に300箇所以上ある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "シフノス島" %}}。観光地化は進んでおらず、舗装されていない道を歩くことも多い{{% ex "https://maps.app.goo.gl/KfGbWEcnbgGvQtgF7" "https://maps.app.goo.gl/dHgBDc9qkRt2Stph8" %}}。陶芸が盛んらしい。赤い屋根の家が無いのも離島感がある{{% ex "https://maps.app.goo.gl/RJ8NbAQwphoHwN7z9" "https://maps.app.goo.gl/CrCeUojDniaYZhmKA" "https://maps.app.goo.gl/BE2xMLbJMoARjKbx5" "https://maps.app.goo.gl/kPCgQwRjeCTzdVEe7" "https://maps.app.goo.gl/s4Ds5xGPNyRi8dwQ7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
