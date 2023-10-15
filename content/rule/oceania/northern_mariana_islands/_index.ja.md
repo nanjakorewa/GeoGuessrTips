@@ -12,6 +12,8 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+plonkit: true
+plonkit_url: "northern-mariana-islands"
 sc_title: "間違えやすい地域"
 sc: [
     ["../guam/", "グアム"],

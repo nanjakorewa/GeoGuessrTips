@@ -10,6 +10,8 @@ bg: "bg/city.jpg"
 flag: "PR.svg"
 jetro_detail: true
 is_has_distinctive_googlecar: true
+plonkit: true
+plonkit_url: "puerto-rico"
 sc_title: "間違えやすい地域"
 sc: [
     ["../colombia/", "コロンビア"],
