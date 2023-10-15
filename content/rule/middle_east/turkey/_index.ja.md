@@ -175,7 +175,7 @@ sc: [
 {{% tab "ゴミ箱" %}}
 
 {{% notice tip %}}
-市外局番が『4』なのでトルコの中央の地域あたり。『Ortahisar』が町名{{% ex "https://maps.app.goo.gl/EhLAUJ151dSU9pmg8" %}}。
+『Ortahisar』が町名{{% ex "https://maps.app.goo.gl/EhLAUJ151dSU9pmg8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
