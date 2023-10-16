@@ -44,7 +44,7 @@ sc: [
 
 
 <div class="googlemap-if" style="font-size:0.8em;">
-<a href="https://twitter.com/fortune_sibanda">@fortune_sibanda のツイート</a>より（本人に掲載確認済み*）
+<a href="https://twitter.com/fortune_sibanda">@fortune_sibanda のツイート</a>より
 </div>
 
 {{% notice note %}}
@@ -126,6 +126,6 @@ sc: [
 {{% /tabs %}}
 
 {{% imgref %}}
-<li><a href="https://twitter.com/fortune_sibanda/status/693167610054250496?s=20">*オリジナルのツイート『Google StreetView driving in Ghana started today. #MoreVim! from @fortune_sibanda』</a></li>
+<li><a href="https://twitter.com/fortune_sibanda/status/693167610054250496?s=20">*オリジナルのツイート『Google StreetView driving in Ghana started today. #MoreVim! from @fortune_sibanda』</a>, 本人に掲載許可頂いてます.</li>
 {{% /imgref %}}
 

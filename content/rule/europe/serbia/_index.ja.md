@@ -41,8 +41,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679484005514!6m8!1m7!1sWz8RFN0-CgzApjtxkFwF-w!2m2!1d43.83999275217523!2d21.6932567136369!3f99.09302692952393!4f-9.091950867102014!5f3.2939988331476435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679484038664!6m8!1m7!1sg3a68LbDjAXKg7a2inWuPQ!2m2!1d43.84000316236607!2d21.69343511255818!3f355.8746463407556!4f-17.860709868089188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./bollar.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -50,8 +49,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Emilijana_Josimovica_03.jpg#/media/File:Emilijana_Josimovica_03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Emilijana_Josimovica_03.jpg/1200px-Emilijana_Josimovica_03.jpg" alt="Emilijana Josimovica 03.jpg" width="500px"></a></p>
-<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:11sasapus11&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:11sasapus11 (page does not exist)">11sasapus11</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=85021744">Link</a></p>
+<img src="./Bulevar_NoviSad.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
