@@ -93,7 +93,8 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>かなり大きな潅水装置や大規模な防風林など灌漑農業をしている雰囲気があるならばカンタベリー平野{{% ex "https://goo.gl/maps/Ho4ypjhBcnQJA1PK8" "https://goo.gl/maps/ViDwwptpjr8RQAN19" "https://goo.gl/maps/z9NMph5Pkf23vWFX8" "https://goo.gl/maps/vUh5Ak6155z9f7KD7" %}}</li>
+        <li>南島のカンタベリー平野ではかなり大きな潅水装置や大規模な防風林があり灌漑農業をしている{{% ex "https://goo.gl/maps/Ho4ypjhBcnQJA1PK8" "https://goo.gl/maps/ViDwwptpjr8RQAN19" "https://goo.gl/maps/z9NMph5Pkf23vWFX8" "https://goo.gl/maps/vUh5Ak6155z9f7KD7" %}}</li>
+        <li>北島のベイ・オブ・プレンティ地方も防風林がありキウイの生産が盛ん{{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}</li>
         <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}
             <ul>
                 <li>画質が悪く砂利の道が多い場合は<span class="quiz">オークランドの北</span>に行ってみる</li>
@@ -109,8 +110,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>03：南島全域{{% ex "https://goo.gl/maps/qFFgygxtmGS4QvG49" "https://goo.gl/maps/1GUQwNrkY6idSG3o7" "https://goo.gl/maps/Fw7SsCEmw8oe9cg4A" %}}</li>
             </ul>
         </li>
-        <li>北島の上の部分にホワイト島という離島がある</li>
-        <li>本島からかなり離れた場所にアンティポディーズ諸島があってペンギンやオットセイがいる</li>
     </ul>
 </div>
 
@@ -125,6 +124,15 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 クライストチャーチを中心として全体的に平坦で高い防風林が多い{{% ref "https://ir.canterbury.ac.nz/handle/10092/11294" "カンタベリー大学" %}}。
 {{% /notice %}}
 
+{{% /tab %}}
+{{% tab "ベイ・オブ・プレンティ地方" %}}
+<div class="googlemap-if no-margin">
+<img src="./wv_banner_bay_plenty.jpg">
+</div>
+
+{{% notice tip %}}
+海からの風から農作物を守るために防風林が散見されるがカンタベリー平野ほど多くの防風林はない{{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}。
+{{% /notice %}}
 
 {{% /tab %}}
 {{% tab "解説動画" %}}
@@ -132,15 +140,31 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>スチュアート島は人が住んでいる島の中では最も南。森に囲まれた入江がある{{% ex "https://maps.app.goo.gl/Ltcpv9LQXcP9Apk2A" "https://maps.app.goo.gl/PwwVFKTJsoXpoH7w9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E5%B3%B6" "スチュアート島" %}}。</li>
+        <li>ホワイト島という離島が北島の上にある{{% ex "https://maps.app.goo.gl/iz9sKhNpVtBCxkoX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E5%B3%B6" "ホワイト島" %}}</li>
+        <li>アンティポディーズ諸島にはペンギンやオットセイがいる{{% ex "https://maps.app.goo.gl/7AcmQ9Kgxs8Aph3A9" "https://maps.app.goo.gl/vbqGVhydUFoQqRBo8" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "スチュアート島" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Rainbow after rain in Oban, Stewart Island - panoramio.jpg" width="95%"></a></p><p>By Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "ホワイト島" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691432535398!6m8!1m7!1sGdtuSKH1KMDIfTuCjlcEog!2m2!1d-37.52660445699151!2d177.192104170664!3f332.97430522396576!4f-7.641840402404128!5f0.7820865974627469" width="550" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./derelict_sulphur_factory_building.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "アンティポディーズ諸島" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686016237001!6m8!1m7!1sjFIqn_wpN6TeaSed4rWP1Q!2m2!1d-49.66705117502639!2d178.8068568545037!3f235.9588452113889!4f12.306707860320401!5f1.3125468221226764" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686016324028!6m8!1m7!1sOPqVxyV5i8eq61cGe6hH-A!2m2!1d-49.66764652722949!2d178.8095245679632!3f249.3772578266898!4f-16.00629238161912!5f2.9901147302254083" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./antipodes_penguin.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
