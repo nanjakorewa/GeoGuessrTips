@@ -153,6 +153,11 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 {{% tabs %}}
 {{% tab "スチュアート島" %}}
+
+{{% notice tip %}}
+黒っぽい砂浜がある。スチュアート島は南島の最南端と同じく穴の開いた電柱が多い{{% ex "https://maps.app.goo.gl/chrMpj1b2BE9Thin6" "https://maps.app.goo.gl/mUNQipuddAJmZYuM8" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Rainbow after rain in Oban, Stewart Island - panoramio.jpg" width="95%"></a></p><p>By Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Link</a></p>
 </div>
