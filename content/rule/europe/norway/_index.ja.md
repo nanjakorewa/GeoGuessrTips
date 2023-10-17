@@ -25,11 +25,10 @@ sc: [
         <li>横断歩道の標識は<span class="quiz">4本</span></li>
         <li>ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span></li>
         <li>北欧であって速度表記の背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い</li>
-        <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスやスノーポールが多い</li>
+        <li>北欧は<span class="quiz">濃い赤色</span>で塗られたログハウスが多い</li>
         <li>道路の路側帯の破線がスウェーデンと比較して<span class="quiz">長い</span>{{% goto "../../../road/road-surface/sidestrip/#北欧３国" "北欧の路側帯" %}}</li>
         <li>「Ø・ø」の文字は<span class="quiz">デンマーク</span>とノルウェーでのみ使用される</li>
         <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
-        <li class="no-evidence">なぜか京成電鉄の大株主にノルウェー政府がいる{{% ref "https://www.keisei.co.jp/keisei/ir/stock/stockinfo.html" "京成電鉄 > 株式の状況@2023年6月" %}}</li>
     </ul>
     {{% rd europe norway small %}}
 </div>
@@ -37,6 +36,11 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+{{% notice tip %}}{{% goto "../sweden/" "スウェーデン" %}}やノルウェーなどの北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある{{% ex "https://maps.app.goo.gl/SKSgwansDsmD87sbA" "https://maps.app.goo.gl/AZUo6n8WAZGq13ze7" "https://maps.app.goo.gl/S4i7fZAx8ctvsLHc7" "https://maps.app.goo.gl/i9759EsyfhsCMgYFA" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./sweden_home_red_stone.jpg" width="95%">
+</div>
 
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>{{% ex "https://maps.app.goo.gl/etwNBScxxzdjm3XH6" "https://maps.app.goo.gl/PqBYhZcGeJewmhrt8" "https://maps.app.goo.gl/dSeJ1cbCAr75bDDW8" %}}。宅配業者のバンなどがこの色になっていることが多い{{% ex "https://goo.gl/maps/h5yfGpJVvfrQSYes7" "https://goo.gl/maps/wYECssLY6SG71GXJ9" %}}。道端にスノーポールもある。

@@ -27,7 +27,7 @@ sc: [
         <li>ドメインは<span class="quiz">.se</span></li>
         <li>道路の路側帯の破線が<span class="quiz">短い</span>{{% goto "../../../road/road-surface/sidestrip/#北欧３国" "北欧の路側帯" %}}</li>
         <li>歩行者注意の看板は横断歩道の縞々が<span class="quiz">4</span>本</li>
-        <li>北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある</li>
+        <li>北欧は<span class="quiz">濃い赤色</span>で塗られたログハウスがある</li>
         <li>看板の矢印の形が特徴的で<span class="quiz">綺麗な▷ではない</span>{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
         <li>通り名に<span class="quiz">gatan</span>（通り）・vägen（道）が付いている</li>
     </ul>
@@ -38,6 +38,14 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+{{% notice tip %}}スウェーデンや{{% goto "../norway/" "ノルウェー" %}}などの北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある{{% ex "https://maps.app.goo.gl/DDaBMG5S2Tma2CgL8" "https://maps.app.goo.gl/qgRpGixPyfFBmDE86" "https://maps.app.goo.gl/PCSpkUeWkpB7QH4A6" "https://maps.app.goo.gl/HAjex6Vyf6Et6PsF8" "https://maps.app.goo.gl/aDFG4HedRMTHdmoe8" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./sweden_home_red_stone.jpg" width="95%">
+</div>
+
+
+
 {{% notice tip %}}
 横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
