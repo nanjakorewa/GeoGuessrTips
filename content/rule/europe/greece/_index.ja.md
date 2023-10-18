@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ギリシャ文字がありΣやλが特徴的{{% ex "https://maps.app.goo.gl/PSWxN4u8ijmYEkfE9" %}}。青背景や茶色背景に黄色い文字が書かれている看板もギリシャ以外ではあまり見かけない{{% ex "https://goo.gl/maps/DfDBCCfbDGLPquCd8" "https://goo.gl/maps/jnkdhhmFNQrZncZK9" %}}。
+ギリシャ文字がありΣやλが特徴的{{% ex "https://maps.app.goo.gl/EjzAaMvvQGA6QsY38" "https://maps.app.goo.gl/PSWxN4u8ijmYEkfE9" %}}。青背景や茶色背景に黄色い文字が書かれている看板もギリシャ以外ではあまり見かけない{{% ex "https://goo.gl/maps/DfDBCCfbDGLPquCd8" "https://goo.gl/maps/jnkdhhmFNQrZncZK9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./roadsign.jpg" width="640">
@@ -68,7 +68,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Holidays_Greece_-_panoramio_(488).jpg#/media/File:Holidays_Greece_-_panoramio_(488).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Holidays_Greece_-_panoramio_%28488%29.jpg" alt="Holidays Greece - panoramio (488).jpg" width="70%"></a></p><p>By Roton Piotr, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57792716">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Holidays_Greece_-_panoramio_(488).jpg#/media/File:Holidays_Greece_-_panoramio_(488).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Holidays_Greece_-_panoramio_%28488%29.jpg" alt="Holidays Greece - panoramio (488).jpg" width="95%"></a></p><p>By Roton Piotr, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57792716">Link</a></p>
 </div>
 
 
@@ -98,6 +98,17 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
 </div>
 
+
+
+{{% notice tip %}}
+ギリシャ・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../montenegro/" "モンテネグロ" %}}・{{% goto "../croatia/" "クロアチア" %}}・{{% goto "../slovenia/" "スロベニア" %}}・{{% goto "../italy/" "イタリア" %}}にはカルスト地形が多く分布しており白い岩が見える場所が多い{{% ex "https://maps.app.goo.gl/ASnXSmRxPkxM3teT8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./road/20150522_144002lc.jpg" width="300px" />
+<img src="./road/mountain_trail_dirt_road.jpg" width="300px" />
+</div>
+
 {{% /tab %}}
 {{% tab "標識" %}}
 
@@ -125,9 +136,6 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
-<div class="googlemap-if">
-</div>
 
 
 <div class="main-desciption city-description">

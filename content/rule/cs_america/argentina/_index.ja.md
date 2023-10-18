@@ -46,30 +46,18 @@ sc: [
 By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41806860">Wikimedia Commons</a>
 {{% /lb %}}
 
-
-{{% notice tip %}}
-アルゼンチン内で多くのシェール油田を保有する<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス）</span>のガソリンスタンド。名前が長すぎて逆に覚えられるかも。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mendozaeconomico/9293000638/in/photolist-fac4jW-8evaqx-2nsDjT7-z1hheP-VaP83Y-521Kia-2ogLxzx-dw1Fqy-BgSS7u-6YcGCS-dvV718-2kd8j6Z-Gu6AJ2-4pcQLU-4ZZoxu-a3sSjx-9Hqhhc-4GYk9s-9ytLML-b8SnBz-qrjCrS-vZBNS2-gSFvQN-63iTBN-oJ4ceb-9b6pwn-E3eQfa-BN2H2g-7K7K6t-8W2eBJ-2Nze5q-5qLfG1-7H1H5P-4UUgZT-QxE3g5-9Luxp1-Q4MVKd-25wQL4m-obadBf-amQH42-8ToXF8-CaJxtm-7D8GJj-5QjZy1-bPRThn-2kd8Jxk-ds4oLu-gCGPJX-D9bUZb-vu6qkM" title="ARGENTINA YPF"><img src="https://live.staticflickr.com/7287/9293000638_4b09a34f2c_z.jpg" width="640" height="412" alt="ARGENTINA YPF"/></a>
-</div>
-
-{{% notice tip %}}
-遠くが見えないほどまっすぐな道はアルゼンチンに多い。センターラインは黄色１本・２本・ダッシュでない白線の時もある。道端に道路番号が書かれた小さい看板があるかも。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/pniselba/16133378496/in/photolist-22veJeY-NL4zYV-YikzAu-XEDhmZ-qzDMmd-8eBmcv-Ngi9Ay-82jWgf-HgFr2K-S1A2wM-TAAJmU-23JZdjf-xNCJGb-286zEbz-jVMdQ1-ehy5bW-23SA4XK-DfF6E8-DBKzUh-6YFWrb-jHijQq-29c43b3-YijEZC-HYVsBx-25e6nzd-MpNnT7-92C4ot-gRvYA7-BEvNGW-yVpyMi-25sumMo-jHigZL-C6DFNU-SPt6Hm-U7Wg4d-epGcfL-q56HFt-KHDvxp-6Qzxkp-SP8EuY-Tzim5j-6WcSPF-FF52AY-SGeZ2W-epGdbQ-7GxiGW-H5wMds-b7RvTr-7zXKqQ-DCXf1" title="Ruta Pampeana"><img src="https://live.staticflickr.com/7568/16133378496_46623c6250_z.jpg" width="640" height="427" alt="Ruta Pampeana"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-<div class="googlemap-if unclickable">
-<img src="./r/road-sign.png" width="170px">
-</div>
-
 {{% notice tip %}}
 Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSeVCCxtVciN6" "https://goo.gl/maps/ScEzxHXZeN2oBnJRA" "https://goo.gl/maps/eVdWUqpSMJShg8cQ9" "https://goo.gl/maps/zt5NJph2AzA3R6uH6" "https://goo.gl/maps/7T28LJExsyAQQ2CMA" "https://goo.gl/maps/X7bDpqUNQhSytDoA7" %}}。南米でGoogle Carが<span class="quiz">黒</span>色なのはアルゼンチン・{{% goto "../uruguay/" "ウルグアイ" %}}・{{% goto "../peru/" "ペルー" %}}が多い。ただし車が見えないこともある{{% ex "https://goo.gl/maps/wWa5mSSQNnQU1eDD7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690704372717!6m8!1m7!1s1hpbawvlNEnp5cZVoWQckw!2m2!1d-49.63118633707697!2d-69.44449948838371!3f120.31252016988394!4f-31.67891953122966!5f2.8590369400489437" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+アルゼンチンや{{% goto "../uruguay/" "ウルグアイ" %}}にありそうな通り名看板。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./road-sign.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -102,6 +90,24 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://goo.gl/maps/uQ62eSe
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683593638082!6m8!1m7!1sawOQVOrIbVx9dTdMCA_m6w!2m2!1d-35.78901239343998!2d-63.71255730834497!3f232.0189803413642!4f-16.349556549135073!5f3.325193203789971" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+アルゼンチン内で多くのシェール油田を保有する<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス）</span>のガソリンスタンド。名前が長すぎて逆に覚えられるかも。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./junin_ypf_aca.jpg" width="95%" />
+</div>
+
+{{% notice tip %}}
+遠くが見えないほどまっすぐな道はアルゼンチンに多い。センターラインは黄色１本・２本・ダッシュでない白線の時もある。道端に道路番号が書かれた小さい看板があるかも。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./ruta_fortin_olavarria_trenque_73.jpg" width="95%">
+<img src="./2011_101_18_140540.jpg" width="95%" />
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/road-sign.png" width="170px">
+</div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
