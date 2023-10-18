@@ -37,7 +37,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ベンガル文字が使用されている{{% ex "https://goo.gl/maps/XUX4RcEE7e95n92p9" "https://goo.gl/maps/C7f2o91a5uMWn767A" "https://goo.gl/maps/usA58XxrK8wDMeXKA" "https://goo.gl/maps/4SB5xm8To6LYMp3H9" %}}。
+ベンガル文字が使用されている{{% ex "https://goo.gl/maps/XUX4RcEE7e95n92p9" "https://goo.gl/maps/C7f2o91a5uMWn767A" "https://goo.gl/maps/usA58XxrK8wDMeXKA" "https://goo.gl/maps/4SB5xm8To6LYMp3H9" %}}。『বাং』のように◁の形が特徴的。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
+{{% goto "../../europe/united-kingdom/" "イギリス" %}}と同じようにナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./hongkong-car.jpg" width="95%">
@@ -48,23 +48,39 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 {{% /lb %}}
 
 {{% notice tip %}}
-2言語で書かれた白黒の通り看板{{% ex "https://maps.app.goo.gl/xzmHtCuCiS1fAP5x7" %}}。{{% goto "../../europe/united-kingdom/" "イギリス" %}}にありそうな看板も見受けられる（下はイギリスの看板の例）{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" %}}。
+2言語で書かれた白黒の通り看板{{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}。{{% goto "../../europe/united-kingdom/" "イギリス" %}}にありそうな看板も見受けられる{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./hk_syp_western_street_0.jpg" width="90%">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./r/Wan_King_Path_sign.jpg" width="240px" style="margin:10px">
-<img src="./r/Hong_Kong_road_sign_417.svg" width="110px">
+<img src="./r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px">
+<img src="./r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px">
+<img src="./r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px">
 </div>
 
+{{% notice note %}}
+{{% goto "../../europe/united-kingdom/" "イギリス" %}}にある看板の例
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="./uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px">
 <img src="./uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px">
 </div>
 
+{{% notice tip %}}
+開発が進んでいない地域{{% ex "https://maps.app.goo.gl/7ewfQF1wTo6Egyo49" "https://maps.app.goo.gl/om8kUBQ3zgDfUu6Y8" %}}・離島{{% ex "https://maps.app.goo.gl/gKnZ476SQr3b7roCA" "https://maps.app.goo.gl/R2oeyasTXRVyiFcD8" %}}・登山道{{% ex "https://maps.app.goo.gl/enfWoMmsdHW1YXFu5" "https://maps.app.goo.gl/5bJeyaNbNAQXHBQw6" %}}にもストリートビューがある。{{% goto "../japan/" "日本" %}}や{{% goto "../taiwan/" "台湾" %}}でなさそうなアジアの道路は香港かも。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./road/entrance_victorias_harbour_seen.jpg" width="303px">
+<img src="./road/hongkong2006_56.jpg" width="340px">
+</div>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Fu Tei Ha Tsuen 01.jpg" width="643px"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Underwaterbuffalo" title="User:Underwaterbuffalo">Underwaterbuffalo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71727971">Link</a></p>
+</div>
 
 
 {{% notice tip %}}
