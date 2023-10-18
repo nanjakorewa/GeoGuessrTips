@@ -25,6 +25,8 @@ sc: [
         <li>ドメインは<span class="quiz">.hk</span></li>
         <li>言語は広東語の方言である香港語</li>
         <li>ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span></li>
+        <li>２言語で書かれた白黒の通り看板や標識がある</li>
+        <li>コンクリート舗装された田舎や山道を歩いている</li>
     </ul>
     {{% rd asia hongkong small %}}
 </div>
@@ -33,11 +35,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://goo.gl/maps/vgTN6CQQDHW11s5B9" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
+ナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682669362773!6m8!1m7!1sg7CArHLgvovxhEnlWdkHUg!2m2!1d22.26614345083903!2d114.1798663403918!3f74.35731108111615!4f-12.1637470023567!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682669333572!6m8!1m7!1sg7CArHLgvovxhEnlWdkHUg!2m2!1d22.26614345083903!2d114.1798663403918!3f230.1920490960269!4f-4.607441132189777!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./hongkong-car.jpg" width="95%">
 </div>
 
 {{% lb 50 %}}
@@ -45,6 +46,31 @@ sc: [
 
 By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951198">Wikimedia Commons</a>, 一部加工あり
 {{% /lb %}}
+
+{{% notice tip %}}
+2言語で書かれた白黒の通り看板{{% ex "https://maps.app.goo.gl/xzmHtCuCiS1fAP5x7" %}}。{{% goto "../../europe/united-kingdom/" "イギリス" %}}にありそうな看板も見受けられる（下はイギリスの看板の例）{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./hk_syp_western_street_0.jpg" width="90%">
+</div>
+
+<div class="googlemap-if no-margin">
+<img src="./r/Wan_King_Path_sign.jpg" width="240px" style="margin:10px">
+<img src="./r/Hong_Kong_road_sign_417.svg" width="110px">
+</div>
+
+
+<div class="googlemap-if no-margin">
+<img src="./uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px">
+<img src="./uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px">
+</div>
+
+
+
+{{% notice tip %}}
+{{% /notice %}}
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
