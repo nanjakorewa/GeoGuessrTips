@@ -43,10 +43,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアが一番多い。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある{{% ex "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアが一番多い。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683357828395!6m8!1m7!1sJRpX6bvOw6mEQnWZ3pkzag!2m2!1d46.56622161705025!2d15.94286329009644!3f342.54349243980585!4f-9.747063589557555!5f2.7512952801286747" width="500" height="280" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./baskagrapa3.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable">
@@ -55,14 +55,13 @@ sc: [
 </div>
 
 {{% notice tip %}}
-『ZONE』の表記が『<span class="quiz">CONA</span>』ならばスロベニア確定。標識の裏は{{% goto "../italy/" "イタリア" %}}と違い黒色ではなく、黄色いシールが貼ってあることが多いイメージ。
+『ZONE』の表記が『<span class="quiz">CONA</span>』ならばスロベニア確定。標識の裏は{{% goto "../italy/" "イタリア" %}}と違い黒色ではなく、黄色いシールが貼ってあることが多いイメージ{{% ex "https://maps.app.goo.gl/GMpN6o1en6GEXSRD6" "https://maps.app.goo.gl/pfPfR7UXGzLgv53h6" "https://maps.app.goo.gl/muxgPzDw9LyWoUDF6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px">
 <img src="./sign-behind.png" width="145px" style="margin:10px">
 </div>
-
 
 
 {{% notice tip %}}
@@ -114,7 +113,7 @@ sc: [
         <li class="no-evidence">周辺国の文化が混在し地域ごとに家屋が異なる{{% ref "http://www2.arnes.si/~jjakon/HGH/houses/Houses%20in%20Slovenia_3.pdf" "Traditional houses in Slovenia" %}}
             <ul>
                 <li>石灰石の家：Štanjel{{% ex "https://goo.gl/maps/UsCSKGtSGNjcF261A" %}}やCerknica{{% ex "https://goo.gl/maps/dAivpo1HJBYPiBPN9" %}}など真ん中よりも西部側に多い？</li>
-                <li>アルプスの家：TržičやKranjska gora{{% ex "https://goo.gl/maps/2RzUji3iXN2NPv31A" %}}など北西部の山岳地帯</li>
+                <li>アルプスの家：TržičやKranjska gora{{% ex "https://goo.gl/maps/2RzUji3iXN2NPv31A" "https://maps.app.goo.gl/eHotkXkMfDzU6f997" %}}など北西部の山岳地帯</li>
                 <li>藁ぶき屋根の家：Gorišnicaなどパンノニア低地（東部の平野）に多いらしい。ストリートビューで見つけるのは難しい？</li>
             </ul>
         </li>
