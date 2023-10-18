@@ -104,15 +104,6 @@ sc: [
 <img src="./up.png" width="90%">
 </div>
 
-{{% notice tip %}}
-2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い（以下はイメージ図）
-{{% /notice %}}
-
-<div class="googlemap-if no-margin unclickable">
-<img src="./copyright.jpg" width="400px">
-</div>
-
-
 {{% /tab %}}
 {{% tab "商業施設" %}}
 {{% notice tip %}}
@@ -147,6 +138,18 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679315413839!6m8!1m7!1sCAoSLEFGMVFpcE5iN3A2QTBpaW5vcGZHWjVFUXM0eHIteURHbUJhbHA0NzdvX2l4!2m2!1d50.7327359391176!2d6.82996892026819!3f340.44893574166593!4f-7.7953259871863025!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "@2023Google" %}}
+
+{{% notice tip %}}
+2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い（以下はイメージ図）。しかし{{% goto "../luxembourg/" "ルクセンブルグ" %}}を含む周辺国でも2023年に撮影されたエリアは存在するのでこれだけでドイツには行かないようにしたい。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./copyright.jpg" width="400px">
+</div>
+
+
 {{% /tab %}}
 {{% /tabs %}}
 

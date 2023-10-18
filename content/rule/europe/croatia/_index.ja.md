@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある{{% ex "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}。
+道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある{{% ex "https://maps.app.goo.gl/AMmHBiaDFtHiP4HH6" "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
@@ -101,7 +101,8 @@ CC0</a>
 {{% notice tip %}}
 黄色と赤のシェブロンがある
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
+<img src="./road-example.png" width="95%">
 <img src="./arrow.jpg" width="500px">
 </div>
 
