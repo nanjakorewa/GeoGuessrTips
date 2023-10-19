@@ -39,7 +39,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-英語で書かれた看板がある。
+英語で書かれた看板がある{{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road-sign1.jpg" width="90%">
