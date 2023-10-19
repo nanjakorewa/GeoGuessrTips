@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://goo.gl/maps/ZCYsP4JWnz8kWkpc9" %}}。
+路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://maps.app.goo.gl/ZrZbR5Y8Ztcidivk8" %}}。
 {{% /notice %}}
 
 {{% notice note %}}

@@ -111,10 +111,6 @@ div.notices:first-child {
   margin: 0 !important;
 }
 
-div.notices .note {
-  margin: 3.0em 0 0 0!important;
-}
-
 div.notices a:hover {
   text-decoration: underline !important;
 }
@@ -139,6 +135,9 @@ div[title="わかりやすい目印"] div.notices p {
   margin-bottom: 1em !important;
 }
 
+div.tip + div.note {
+  margin: 0 0 0 0 !important;
+}
 
 div.update-area {
   padding: 0.4em;
