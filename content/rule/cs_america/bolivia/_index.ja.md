@@ -165,21 +165,26 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>スクレの特定地域のみ条例によって壁を白くすることが義務付けられている</li>
-        <li>ラパスでは電柱にグレーの服を来た人形（？）が吊られていることがあるが、これは泥棒に対するメッセージらしい（参考：<a href="https://www.ganas.or.jp/20121220bolivia/">『ボリビア・アイマラ族の「泥棒を殺す習慣」、違法とならない理由』</a>）。遠くで少しぼやけていたりモザイクがかかっていたりすると本物の人間に見えるので配信する時は要注意。</li>
-        <li>サハマ国立公園ではGoogle Carが見える</li>
-        <li>列車の墓場に徒歩で歩く場所がある{{% ref "https://es.wikipedia.org/wiki/Cementerio_de_trenes" "Cementerio de trenes" %}}</li>
+        <li>ラパス
+            <ul>
+                <li>すり鉢状の地形であり断崖が見えることも{{% ex "https://maps.app.goo.gl/goLFDjg72FDfBN3D7" "https://maps.app.goo.gl/hoiVcprn9VUdXzbx8" %}}</li>
+                <li>電柱にグレーの服を来た人形が吊られていることがあるがこれは泥棒に対するメッセージらしい{{% ref  "https://www.ganas.or.jp/20121220bolivia/" "『ボリビア・アイマラ族の「泥棒を殺す習慣」、違法とならない理由』" %}}</li>
+            </ul>
+        </li>
+        <li>スクレの特定地域のみ条例によって壁を白くすることが義務付けられている{{% ex "https://maps.app.goo.gl/7t1X4yYTLQ9i5VY66" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "スクレ市街地" %}}
+{{% tab "ラパス" %}}
+{{% notice tip %}}
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679814195427!6m8!1m7!1sqVq9ioJYAgRYmFLoRyqkoA!2m2!1d-19.04399405020461!2d-65.26165030496426!3f277.81409401247646!4f-1.528780717322391!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./la_paz_andes_south.jpg" width="550px">
 </div>
 {{% /tab %}}
-{{% tab "ラパス郊外" %}}
+{{% tab "吊るされた人形" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
@@ -187,19 +192,43 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681109654621!6m8!1m7!1sW3spRtpdkhSJWqhNTC45iw!2m2!1d-16.5362588718002!2d-68.15809312899177!3f291.10751381163004!4f3.214739203112188!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "サハマ国立公園" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1690950945936!6m8!1m7!1sUvSxlwAciOFl061i6nukRQ!2m2!1d-18.02373946727298!2d-68.86927020749451!3f236.1966662827813!4f-19.410384200029867!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1690950854463!6m8!1m7!1seBn3MtOB1GrRv29X5zu1Hw!2m2!1d-18.04740964397054!2d-68.93421804302564!3f265.6203827246685!4f-55.52318026121894!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "スクレ" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:BO_Sucre_1207_(19)_(17202714556).jpg#/media/File:BO_Sucre_1207_(19)_(17202714556).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/BO_Sucre_1207_%2819%29_%2817202714556%29.jpg" alt="BO Sucre 1207 (19) (17202714556).jpg" height="535" width="800"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/120935793@N02">Diego Tirira</a> from Quito, Ecuador - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/diegotirira/17202714556/">BO Sucre 1207 (19)</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=126285368">Link</a></p>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>列車の墓場を徒歩で歩いている{{% ex "https://maps.app.goo.gl/nWheRwfzobFVo9E48" %}}{{% ref "https://es.wikipedia.org/wiki/Cementerio_de_trenes" "Cementerio de trenes" %}}</li>
+        <li>サハマ国立公園ではサハマ山が見えてなおかつGoogle Carが見える</li>
+        <li>Ojos del Salarという塩原の中にストリートビューがある{{% ex "https://maps.app.goo.gl/MN43sGe156LZHQ878" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "列車の墓場" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1690951135822!6m8!1m7!1s1Dp-H-8Zx8WltcIOJAsLnQ!2m2!1d-20.4817219334578!2d-66.83781490586628!3f58.461437537922116!4f-5.574524061122403!5f0.7862468789425522" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "サハマ国立公園" %}}
+{{% notice tip %}}
+GoogleCarが特徴的{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}。山もかなり特徴的。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./sajama_bolivia_volcano_way.jpg" width="95%" />
+</div>
+{{% /tab %}}
+{{% tab "Ojos del Salar" %}}
+{{% notice tip %}}
+ストリートビューがあるが出題されたことはない{{% ex "https://maps.app.goo.gl/1rqb1hjS5EAsPvRL8" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./salt_salar_landscape_salar.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
