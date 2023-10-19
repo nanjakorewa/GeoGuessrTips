@@ -91,8 +91,21 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/25379667@N07/2420842438/in/photolist-4FVs7J-8xTPU-7LDTwQ-4Y9PsR-2K3bgW-7wvKqK-J4LPh-5fj9FF-nzeNcJ-4FxNTL-4evQ3q-4FtAiM-4FxLF5-3jJtpK-4FtBT2-4FxKR3-4FtwFc-4FxMyd-7EFDPm-4FtCpK-4erR9e-4Ftv3k-4FtvD4-7EHAdP-7EHD9c-4FtzPg-7EMqJ9-7EHBAF-4FtyaM-7EMv4m-5fj3Me-7EBNrM-7EFBK1-pdoCTX-4FxJbA-7EFjsQ-rntv9G-Ak1CWd-qHfp8v-K9aiN1-e49k8g-8pFphF-7GUsZF-c3QKuW-6uBt3d-otxmDw-5ZSAe5-9ctXuD-M7cc5-pyL9md" title="Jollibee Thank You Sign"><img src="https://live.staticflickr.com/3228/2420842438_708606ea34.jpg" width="500" height="375" alt="Jollibee Thank You Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" />
 </div>
+
+{{% notice tip %}}
+アジアにおいて赤白のシェブロンはフィリピンと{{% goto "../srilanka/" "スリランカ" %}}以外ではほとんど見かけないかも（確証なし）。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./arrow.jpg" width="95%">
+</div>
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px">
+</div>
+
 
 
 {{% /tab %}}
