@@ -1,7 +1,7 @@
 ---
 title: "パナマ"
-date: 2023-02-26
-lastmod: 2023-05-01
+date: 2023-10-13
+lastmod: 2023-10-17
 weight: 1
 draft: false
 keywords: [""]
