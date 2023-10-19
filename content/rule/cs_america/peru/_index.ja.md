@@ -233,15 +233,26 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>マチュピチュ付近ではGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}</li>
+        <li>最南端に砂漠に囲まれたTacnaという商業都市がある{{% ref "https://en.wikipedia.org/wiki/Tacna" "タクナ" %}}</li>
+        <li>Machu Picchu付近ではGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5" "マチュ・ピチュ" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "マチュピチュ付近" %}}
+{{% tab "Tacna" %}}
 
 {{% notice tip %}}
-マチュピチュやAguas Calientes駅付近は山に囲まれている。また特徴的なGoogle Carがはっきりと見えることが多い{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}。歩いて撮影している場所も多い。
+郊外はかなり独特な景色が広がっている{{% ex "https://maps.app.goo.gl/KhsTptkRrkBAcaMx6" "https://maps.app.goo.gl/j4KJefBfJyd1Eapt5" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cesar091/14467938062/in/photolist-o3tXVY-nL72tg-r2aukg-QQjL8G-2mTuWrF-Rt2G2T-R67iyW-R67idA-RpHpMT-Ybpoe-RpHpDB-4qSZxv-rFoKsy-ReD4vW-YfFrj-9dDhbf-RpHpuP-Rjoy5H-YbJm8-Yc75D-QTB78G-Q8cGwh-YbJkc-YbpmX-R67iSS-RpHpGn-QQjxZy-85YaFu-r1XviJ-R8LFhr-R8LFEF-YbJk4-QQjxYS-RfVNUf-R8LG3V-9sDZpS-YfFts-Ybps4-YbJkp-Ybpnx-YfFsh-YfFsw-bsia4m-23HphpA-621bek-621c94-QQjy4S-geWzri-2m9Q6Ku-ZdtCZz" title="Tacna"><img src="https://live.staticflickr.com/2900/14467938062_62211ed517_z.jpg" width="640" height="424" alt="Tacna"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "Machu Picchu" %}}
+
+{{% notice tip %}}
+Machu PicchuやAguas Calientes駅付近は山に囲まれている。また特徴的なGoogle Carがはっきりと見えることが多い{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}。歩いて撮影している場所も多い。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

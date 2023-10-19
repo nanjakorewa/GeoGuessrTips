@@ -134,8 +134,8 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。</li>
-        <li>タクシーとトラックの屋根または側面にサイドプレートがあり、<span class="quiz">ナンバーと都市名</span>が書いてある</li>
+        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
+        <li>タクシーとトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある</li>
         <li>ゴルゴナ島という離島がある</li>
     </ul>
 </div>
@@ -154,17 +154,17 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "タクシー" %}}
-{{% notice tip %}}ステッカーにPOPAYANと書かれている
+{{% notice tip %}}ステッカーにCARTAGENAと書かれている
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679137969933!6m8!1m7!1sXD5mn8ENTU36E8wY6oVgOw!2m2!1d2.459939005594445!2d-76.59373969920176!3f264.4511955614134!4f-29.74845254312335!5f1.9483907551121744" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./colombia_kartagena_south_america.jpg">
 </div>
 {{% /tab %}}
 {{% tab "ゴルゴナ島" %}}
 {{% notice tip %}}ゴルゴナ島という離島がある、車や標識はなく知らなければ置くのは難しい。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691324544096!6m8!1m7!1sva7Z7ZrXNwu3BHfEkplsaw!2m2!1d2.964943901338966!2d-78.17279365172386!3f327.48204039154035!4f3.629358793575335!5f0.7626066508291676"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691324544096!6m8!1m7!1sva7Z7ZrXNwu3BHfEkplsaw!2m2!1d2.964943901338966!2d-78.17279365172386!3f327.48204039154035!4f3.629358793575335!5f0.7626066508291676"width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

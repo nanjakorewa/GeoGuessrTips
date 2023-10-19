@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "MT.svg"
+plonkit: true
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
@@ -38,12 +39,21 @@ sc: [
 {{% notice tip %}}
 石灰岩を使った薄い黄土色の壁が島中に存在する。見た目が似ている石壁は{{% goto "../italy/" "イタリア南部" %}}や{{% goto "../balearic-islands/" "バレアレス諸島" %}}にも見られるので<span class="quiz">左側</span>通行であることも確認する。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679668368631!6m8!1m7!1szvW6wnu1XpdR1QvIMk99Rg!2m2!1d35.8560548181086!2d14.41273861118275!3f276.1221585632379!4f0.29597480058619396!5f3.325193203789971" width="90%" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg#/media/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Unnamed_Road%2C_Siggiewi%2C_Malta_-_panoramio_%2883%29.jpg" alt="Unnamed Road, Siggiewi, Malta - panoramio (83).jpg" width="90%"></a></p>
+<p>By Alan C. Bonnici, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59000215">Link</a></p>
 </div>
 
 {{% notice tip %}}
-通り名の看板に<span class="quiz">TRIQ</span>と書いてある（画像右端）
+白っぽい石でできた特徴的な建物が立ち並ぶ。バロック様式の建築が見られる{{% ref "https://en.wikipedia.org/wiki/Architecture_of_Malta" "マルタの建築" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./malta_alley_house_street.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+通り名の看板に<span class="quiz">TRIQ</span>と書いてある
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

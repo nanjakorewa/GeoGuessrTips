@@ -179,28 +179,28 @@ E-375道路がある緯度付近。
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>サンティアゴ付近の山が特徴的なので覚えておくと役に立つかも</li>
-        <li>雪が積もっている地域と海が北に見える＝<a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"><span class="quiz">プエルト・ウィリアムズ</span></a></span></li>
+        <li>Santiago付近の山が特徴的なので覚えておくと役に立つかも</li>
+        <li>Puerto Williamsでは雪が積もっている山と海が北に見える{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" "https://maps.app.goo.gl/T8fzni8uWhZWtTwQ8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA" "プエルト・ウィリアムズ" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "サンティアゴ" %}}
+{{% tab "Santiago" %}}
 {{% notice tip %}}
-サンティアゴ・デ・チレ付近にある木や草がまばらに生えた山が印象的
+Santiago de Chile付近にある木や草がまばらに生えた山が印象的{{% ex "https://maps.app.goo.gl/dVSxxebR5NrCaQAF9" "https://maps.app.goo.gl/qJGQoxvp5ZQ4CF3s9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682319020365!6m8!1m7!1sWaYu1VBEoWqDCyuPq7vSyg!2m2!1d-32.95547998959191!2d-70.82215045009526!3f271.5435062159679!4f11.257439414295973!5f2.1783148187435164" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./santiago_chile_trekking_mountains.jpg">
 </div>
 
 {{% /tab %}}
-{{% tab "プエルト・ウィリアムズ" %}}
+{{% tab "Puerto Williams" %}}
 {{% notice tip %}}
-雪が積もっている地域と海が北に見える＝<a href="https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA"><span class="quiz">プエルト・ウィリアムズ</span></a></span>。稀にトラックのような車が見えることもある。
+雪が積もっている地域と海が北に見える。稀にトラックのような車が見えることもある{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680528610024!6m8!1m7!1senXCQJxObSJCvy4a4nZO3w!2m2!1d-54.93243233821228!2d-67.59691137517112!3f349.08918895182273!4f3.715111457463024!5f3.325193203789971" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./puerto_williams_3.jpg">
 </div>
 
 {{% /tab %}}
