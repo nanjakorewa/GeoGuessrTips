@@ -46,8 +46,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-路面がコンクリートの時が多い{{% ex "https://goo.gl/maps/ZCYsP4JWnz8kWkpc9" %}}。アジアでコンクリート道路が多いのは体感だとフィリピン・{{% goto "../thai/" "タイ" %}}。その他では{{% goto "../taiwan/" "台湾" %}}・稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}・{{% goto "../srilanka/" "スリランカ" %}}{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}・{{% goto "../malaysia/" "マレーシア" %}}{{% ex "https://goo.gl/maps/feg378a9tSKSHBmy6" %}}にもある。
+路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://goo.gl/maps/ZCYsP4JWnz8kWkpc9" %}}。
 {{% /notice %}}
+
+{{% notice note %}}
+アジアでコンクリート道路が多いのは体感だとフィリピン・{{% goto "../thai/" "タイ" %}}。その他では{{% goto "../taiwan/" "台湾" %}}・稀に{{% goto "../indonesia/" "インドネシア" %}}{{% ex "https://goo.gl/maps/hMgA6SCqW8jEe4AM6" %}}・{{% goto "../srilanka/" "スリランカ" %}}{{% ex "https://goo.gl/maps/h4i8YbRjgNDwqZHh9" %}}・{{% goto "../malaysia/" "マレーシア" %}}{{% ex "https://goo.gl/maps/feg378a9tSKSHBmy6" %}}にもある。
+{{% /notice %}}
+
+
 <div class="googlemap-if unclickable">
 <img src="./road.jpg" width="95%">
 </div>
@@ -68,7 +74,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativeco
 
 
 {{% notice tip %}}
-一般乗用車は白色か薄い緑色のものが多い。<span class="quiz">右側</span>通行・乗り物が独特・ナンバーが黄・白・薄緑ならフィリピン。
+一般乗用車は白色か薄い緑色のものが多い{{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}。<span class="quiz">右側</span>通行・乗り物が独特・ナンバーが黄・白・薄緑ならフィリピン。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./car-blar-image.png" width="400px">

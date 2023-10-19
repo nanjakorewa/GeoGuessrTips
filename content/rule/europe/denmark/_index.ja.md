@@ -29,7 +29,7 @@ sc: [
         <li>ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある</li>
         <li><span class="quiz">丸いカーブのパイプ</span>で作られた道路看板がある</li>
         <li>「Ø・ø」の文字はデンマークと<span class="quiz">ノルウェー</span>でのみ使用される</li>
-        <li class="no-evidence">通り名に<span class="quiz">haven・vej・høje</span>が多い（英語ではgarden・road・mound/庭・道・山）？</li>
+        <li class="no-evidence">通り名に<span class="quiz">vej</span>・høje・havenが多い（英語ではroad・mound・garden/道・山・庭）？</li>
         <li class="no-evidence">デンマークのポスト業界でシェアの高いAlluxの<span class="quiz">丸いカーブのふた</span>があるポストが家の近くに設置されている</li>
     </ul>
     {{% rd europe denmark small %}}
@@ -55,11 +55,20 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある{{% ex "https://goo.gl/maps/go3gDCpJTiSecArf7" "https://goo.gl/maps/AJpWxsWiskTXCnyv8" %}}。上部のオレンジ色のテープは色がはがれていることもあるので注意{{% imref %}}。
+ボラードには<span class="quiz">黄色の反射板と赤色の線</span>がある{{% ex "https://maps.app.goo.gl/9aokZujn399n7AJt9" "https://goo.gl/maps/go3gDCpJTiSecArf7" "https://goo.gl/maps/AJpWxsWiskTXCnyv8" %}}。上部のオレンジ色のテープは色がはがれていることもあるので注意{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollards.png" width="90%" alt="デンマークのボラード" />
 </div>
+
+
+{{% notice tip %}}
+通り名に<span class="quiz">vej</span>・høje・havenが多い{{% ex "https://maps.app.goo.gl/3jLBjRir1QwGqp1HA" "https://maps.app.goo.gl/PS5i5Ev2ixegsPdt8" "https://maps.app.goo.gl/7jpPBxtWTta6aEn2A" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./street-sign.jpg" width="95%">
+</div>
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 
@@ -86,6 +95,7 @@ public domain
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680252562741!6m8!1m7!1sZWJhmh_4nqfjNA9AtQnDOQ!2m2!1d55.79352258936748!2d12.49210912176099!3f271.2037104269405!4f-10.76706602482001!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680252582279!6m8!1m7!1snWlXLFx1EGjSLhIwboHCOg!2m2!1d55.79340002013565!2d12.49141446024509!3f211.88190720125897!4f5.226000330268334!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

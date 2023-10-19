@@ -111,6 +111,10 @@ div.notices:first-child {
   margin: 0 !important;
 }
 
+div.notices .note {
+  margin: 3.0em 0 0 0!important;
+}
+
 div.notices a:hover {
   text-decoration: underline !important;
 }
