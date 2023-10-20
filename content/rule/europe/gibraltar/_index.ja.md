@@ -34,11 +34,10 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-いわゆるThe Rock（一枚岩の巨大な石灰岩）があり、白い岩肌が家の近くまで迫っている。
+いわゆるThe Rock（一枚岩の巨大な石灰岩）があり、白い岩肌が家の近くまで迫っている{{% ex "https://maps.app.goo.gl/f2xuSjBFS9fgZtAD6" "https://maps.app.goo.gl/8ttDiLvZ4rF6SPGSA" "https://maps.app.goo.gl/je2FQvmN3EWyYVMT6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683628922719!6m8!1m7!1sAN7rFtyOdZjSfwKujsPFfg!2m2!1d36.14404321833828!2d-5.340260408821029!3f259.4984366862694!4f41.76178286128214!5f0.4020098938862506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683629262279!6m8!1m7!1s3nLmQgoykG0F6ifMd1b62g!2m2!1d36.11245014754778!2d-5.344842599642488!3f359.2395861554312!4f27.97409693508216!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./gibraltar_rock_british_890293.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
