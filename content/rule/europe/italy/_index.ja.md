@@ -274,8 +274,8 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">パンテッレリーア島は黒っぽい石の石垣が多い</li>
-        <li class="no-evidence">トスカーナ群島は松の木が生えている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8A%E7%BE%A4%E5%B3%B6" "トスカーナ群島" %}}。
+        <li class="no-evidence">Pantelleria島は黒っぽい石の石垣が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%86%E3%83%83%E3%83%AC%E3%83%AA%E3%83%BC%E3%82%A2%E5%B3%B6" "パンテッレリーア島" %}}</li>
+        <li class="no-evidence">Toscano群島は松の木が生えている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8A%E7%BE%A4%E5%B3%B6" "トスカーナ群島" %}}。
         <li>Veneziaには船にのって移動するエリアがある</li>
         <li>{{% goto "../switzerland/" "スイス" %}}に囲まれたイタリアの飛び地であるCampione d'Italia町はカメラが低い</li>
     </ul>
@@ -284,10 +284,10 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tabs %}}
 {{% tab "Pantelleria" %}}
 {{% notice tip %}}
-パンテッレリーア島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
+Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/piedozzino/300904439/in/photolist-sAdpz-4baGzJ-4b6Cet-4baF97-4bb4xU-4b79J8-SAihPE-4b7cgP-4b6Sp8-yZEVDt-jeDJd-4b6Zfg-4JQF3g-4b72ra-4bazcL-4bb2tW-4b6xec-4b6Dv2-4b6JAF-4b778z-6HtsHg-4b6tji-4b74B2-4baZ2U-4b6rVe-4baXoJ-4baSr9-4b6T8Z-4baBw7-4b7buT-4b7146-5hRmkR-4bas3E-4b6zir-SsCnSk-4b6U2V-4bayAL-SqawJL-4baxky-SAii9Y-4bawFj-SAigwj-SDYmED-oQxwy-4JQEQ6-4baHVQ-sAdr1-4JQEyz-32CoDE-4JQGh8" title="pantelleria"><img src="https://live.staticflickr.com/107/300904439_4790b43ae6_z.jpg" width="640" height="426" alt="pantelleria"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="city/dammuso.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Toscano" %}}
@@ -300,10 +300,10 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /tab %}}
 {{% tab "Venezia" %}}
 {{% notice tip %}}
-Veneziaには船にのって移動するエリアがある
+Veneziaには船にのって移動するエリアがある{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680007607808!6m8!1m7!1sTgiMp5dyfyTyjqWYiFsUKw!2m2!1d45.4353144254022!2d12.33380958037088!3f138.24278233222202!4f13.252121456570137!5f0.4000000000000002" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./city/venezia_water_passages_275518.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Campione d'Italia" %}}
