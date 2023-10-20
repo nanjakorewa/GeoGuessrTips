@@ -473,3 +473,25 @@ Public Domain
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>Popocatépetl山付近の国立公園でGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/bxPQ1dF77uXhVFFQ7" "https://maps.app.goo.gl/5RhK5xX5r6z9Ta496" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Popocatépetl " %}}
+
+{{% notice tip %}}
+曇っていて山はほぼ見えないけれどGoogle Carが見える{{% ex "https://maps.app.goo.gl/5RhK5xX5r6z9Ta496" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="volcano_snow_nature_950313.jpg" width="95%"/>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
