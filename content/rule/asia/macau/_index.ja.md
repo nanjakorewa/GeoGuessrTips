@@ -45,7 +45,9 @@ sc: [
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">黒</span>背景のものが多い{{% ex "https://maps.app.goo.gl/WSD67pzb5atjCqSg9" "https://maps.app.goo.gl/hsFefUrgh4xFdgWw8" "https://maps.app.goo.gl/hsFefUrgh4xFdgWw8" %}}。バスのナンバープレートは<span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の文字が書かれている{{% ex "https://goo.gl/maps/L615rL4m95zS1FcM6" %}}。ナンバープレートで前後が黒色の場合は{{% goto "../hongkong/" "香港" %}}ではなく澳門かも。{{% goto "../singapore/" "シンガポール" %}}も同じ色のナンバープレートがあるので注意。
 {{% /notice %}}
-<div class="googlemap-if">
+
+<div class="googlemap-if no-margin">
+<img src="./macautrafficlightoutoforder.jpg" width="640">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/130438292@N02/30768906232/in/photolist-NSWFRj-aY4obg-bCti-5txTHd-7QMaqq-hdw3T-fk7mHV-25cBX-huVJVw-5N8S83-7DVVdo-6wzYXg-476N5P-6RuE3-2KFDaS-2nDsdnA-2hDA1xQ-2nfh9Jz-2ogozTg-KxkD4-2hxfXzV-2hiMsUK-2oe3hnJ-2g7yjGy-2gJJyra-axKahY-GKWqv7-2hgSA21-bW9ZY-4DFYQB-6kSrvH-6kSkpz-axK9gj-2hiJHy1-2xxHX-2xxJm-8zxaCr-2hmAwR5-tQBFq-2hDCNfA-e5Mbx-2gAXDxy-2ipTXeu-2g7Axvj-2hiMtfQ-2hDSduw-2hEaknk-2h4jSBX-avbDZA-xgtefu" title="Macau Taxi"><img src="https://live.staticflickr.com/5629/30768906232_be3aeb8327_z.jpg" width="640" height="427" alt="Macau Taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
