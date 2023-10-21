@@ -95,7 +95,7 @@ CC0画像を加工
 </div>
 
 {{% notice tip %}}
-アジアにおいて赤白のシェブロンはフィリピンと{{% goto "../srilanka/" "スリランカ" %}}以外ではほとんど見かけないかも（確証なし）。
+アジアにおいて赤白のシェブロンはフィリピンと{{% goto "../srilanka/" "スリランカ" %}}以外ではほとんど見かけないかも（確証なし）{{% ex "https://maps.app.goo.gl/mjKDiehDBHWMb8uY8" "https://maps.app.goo.gl/Z4YkDmkv6fnRoZLn9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
