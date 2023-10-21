@@ -66,3 +66,18 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">Caleta de Seboという集落は白い平屋が並んでいる{{% ex "https://maps.app.goo.gl/oxVAjVJKmynPKUtk9" "https://maps.app.goo.gl/9J1dPvNkqWMmm38L9" "https://maps.app.goo.gl/Fpo5MFAsm7bapKaBA" %}}{{% ref "https://en.wikipedia.org/wiki/Caleta_de_Sebo" "Caleta de Sebo" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Caleta de Sebo" %}}
+<div class="googlemap-if no-margin">
+<img src="./isla_de_la_graciosa.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
