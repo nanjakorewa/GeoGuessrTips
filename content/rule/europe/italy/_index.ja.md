@@ -278,6 +278,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
         <li>Egadi諸島にいる時はサンタカテリーナ城が目印になる{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/B4uKpr3jxNkoVUUSA" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}{{% ref "https://www.mareandmoretour.it/eng/da-non-perdere/favignana-castello-caterina-17" "CASTLE OF SANTA CATERINA FAVIGNANA" %}}</li>
         <li>Veneziaには船にのって移動するエリアがある</li>
         <li>Lampedusa島は看板やバス停に島名が書いてある{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}</li>
+        <li>San domino島は石畳の場所が多くフェリーが泊っている{{% ex "https://maps.app.goo.gl/spBTAd9TedmzDtRV8" "https://maps.app.goo.gl/yi9AS8xfHbhrF5G47" "" %}}</li>
         <li>{{% goto "../switzerland/" "スイス" %}}に囲まれたイタリアの飛び地であるCampione d'Italia町はカメラが低い</li>
     </ul>
 </div>
@@ -309,10 +310,18 @@ Veneziaには船にのって移動するエリアがある{{% ex "https://maps.a
 {{% /tab %}}
 {{% tab "Lampedusa島" %}}
 {{% notice tip %}}
-本土からかなり離れた離島{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}。バギーが多い{{% ex "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}}のは{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}や{{% goto "../../oceania/" "ココス諸島"  %}}のような離島の共通点。初見で当てるのは難しい。
+本土からかなり離れた離島{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}。バギーが多い{{% ex "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}}のは{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}や{{% goto "../../oceania/cocos_islands/" "ココス諸島"  %}}のような離島の共通点。初見で当てるのは難しい。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./isola_dei_conigli.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "San domino島" %}}
+{{% notice tip %}}
+画質が悪く石畳の場所が多い{{% ex "https://maps.app.goo.gl/spBTAd9TedmzDtRV8" %}}。港にはこの写真のフェリーが泊っている{{% ex "https://maps.app.goo.gl/yi9AS8xfHbhrF5G47" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" alt="Porto - San Domino Island, Tremiti, Foggia, Italy - August 20, 2013 02.jpg" height="720" width="720"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Campione d'Italia" %}}
