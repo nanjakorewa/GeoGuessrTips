@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある{{% ex "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}。道端に道路番号が書かれた白く小さい看板があり、このタイプの看板はスロベニアが一番多い。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある{{% ex "https://maps.app.goo.gl/tW5xrsJtV8xPYkig6" "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}。道端に道路番号が書かれた白く小さい看板があり{{% ex "https://maps.app.goo.gl/rvRWmDMvbSqpR3uG7" %}}、このタイプの看板はスロベニアが一番多い。{{% goto "https://maps.app.goo.gl/nERo62nz2hHNYNyJ6" "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./baskagrapa3.jpg" width="95%">
@@ -65,7 +65,7 @@ sc: [
 
 
 {{% notice tip %}}
-赤い花が飾られた家。もちろん100%ではないです。
+赤い花が飾られた家{{% ex "https://maps.app.goo.gl/TeTP31CvSXzZB82w9" %}}。もちろん100%ではないです。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -81,6 +81,17 @@ sc: [
 <img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
 <img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
+
+{{% notice tip %}}
+ユーゴスラビア内で一番進んだ工業地域であった過去から工業が栄えている。ユーゴスラビア周辺国の中で他よりも群を抜いて一人当たりGDPが高い（スロベニア：約30,000ドル、セルビア：7,400ドル）{{% ref "https://datacommons.org/place/country/SVN?hl=ja" "プレイス エクスプローラ" %}}。同じ色のシェブロンを使う国は周辺にたくさんあるものの、家や車が新しいならばスロベニアの可能性が高くなる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。また、{{% goto "../austria/" "オーストリア" %}}は<b>背景に色が付いている</b>のも国を間違えないヒントになる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" />
+<img src=".//r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" />
+</div>
+
+
 
 {{% /tab %}}
 {{% tab "標識" %}}
