@@ -31,11 +31,8 @@ maps: [
         <li><span class="quiz">青い</span>ポストがある</li>
         <li>速度制限の看板が<span class="quiz">SPEED LIMIT</span></li>
         <li>逆▽の看板標識にYIELDと書いてあれば<span class="quiz">アメリカ</span>・書いてないならば<span class="quiz">カナダ</span>になる</li>
-        <li>家の前にゴミ箱が並んでいることが多い
-            <ul>
-                <li>アメリカのゴミ収集の大手Waste Managementのロゴである『WM』があることも。</li>
-            </ul>
-        </li>
+        <li>アメリカやカナダでは中央線として<span class="quiz">2</span>本の黄色ラインが使われることが多い</li>
+        <li>家の前にゴミ箱が並んでいることが多い</li>
         <li>アメリカは制限速度が<span class="quiz">MPH</span>表記のことがある</li>
     </ul>
     {{% rd n_america usa small %}}
@@ -56,6 +53,12 @@ maps: [
 </div>
 </div>
 
+{{% notice tip %}}
+アメリカや{{% goto "../canada/" "カナダ" %}}では中央線として2本の黄色ラインが使われることが多い。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./roadline.jpg" width="95%">
+</div>
 
 {{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字が<span class="quiz">ある</span>{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}。左が<span class="quiz">アメリカ</span>・右が<span class="quiz">カナダ</span>。
 {{% /notice %}}
