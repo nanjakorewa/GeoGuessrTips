@@ -182,23 +182,30 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ピコス・デ・エウロパ国立公園付近に石灰岩の山塊に挟まれた集落ど道路がある{{% ex "https://maps.app.goo.gl/1pARkTttLmhumauz9" "https://maps.app.goo.gl/wmnQEBgnoNEzQ2WP9" "https://maps.app.goo.gl/RhxMjnHbH7gL3Xwm9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A8%E3%82%A6%E3%83%AD%E3%83%91%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92" "ピコス・デ・エウロパ国立公園" %}}</li>
-        <li>南東の海の近くの地図上で白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}</li>
+        <li>アルメリア県では温室農業が盛んであり、とりわけ南東の海岸付近の白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}</li>
+        <li>ピコス・デ・エウロパ国立公園付近に石灰岩の山塊に挟まれた集落と道路がある{{% ex "https://maps.app.goo.gl/1pARkTttLmhumauz9" "https://maps.app.goo.gl/wmnQEBgnoNEzQ2WP9" "https://maps.app.goo.gl/RhxMjnHbH7gL3Xwm9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A8%E3%82%A6%E3%83%AD%E3%83%91%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92" "ピコス・デ・エウロパ国立公園" %}}</li>
         <li>アフリカ大陸の北岸にスペインの自治都市である{{% goto "../../africa/melilla/" "メリリャ" %}}と{{% goto "../../africa/ceuta/" "セウタ" %}}がある</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "Ruta del Cares" %}}
+{{% tab "アルメリア県" %}}
+
+{{% notice tip %}}
+アルメリア県では温室農業が盛んであり、とりわけ南東の海岸付近の白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}。プラスチックの海と呼ばれているらしい{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%AA%E3%82%A2%E7%9C%8C" "アルメリア県" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%">
+<img src="./Invernaderos_el_ejido.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "ピコス・デ・エウロパ国立公園" %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Ruta_del_Cares_Puente.jpg#/media/Archivo:Ruta_del_Cares_Puente.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ruta_del_Cares_Puente.jpg" alt="Ruta del Cares Puente.jpg" width="95%"></a></p>
 <p>De El Jim - <a rel="nofollow" class="external free" href="https://flic.kr/p/4Kwtmh">https://flic.kr/p/4Kwtmh</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36668829">Enlace</a></p>
-</div>
-{{% /tab %}}
-{{% tab "ビニールハウス" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687397601451!6m8!1m7!1sovSpeRMTQKQHbPLqSBlesw!2m2!1d36.72286755824907!2d-2.732846079631473!3f339.7845202954766!4f0.5416594652036792!5f0.4032702287058389" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
