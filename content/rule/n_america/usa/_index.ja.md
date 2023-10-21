@@ -102,7 +102,7 @@ maps: [
 
 
 {{% notice tip %}}
-アメリカは制限速度が<span class="quiz">MPH</span>表記{{% ex "https://goo.gl/maps/vcwKHErYu6Xx1EZQ8" "https://goo.gl/maps/vpashJNQHUoztL7c8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}のことがあり、看板の裏がフラットなことが多い{{% ex "https://goo.gl/maps/JywpMP1MHHBXz9ep7" "https://goo.gl/maps/yNeLFP4fnqJPTkbZ7" "https://goo.gl/maps/S29z9ZMXBLuDqFxP8" %}}。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}{{% ex "https://goo.gl/maps/SYKoBHzdzWe6oJeH9" "https://goo.gl/maps/EoGT7scWMXCzRTZp8" %}}。
+アメリカは制限速度が<span class="quiz">MPH</span>表記{{% ex "https://goo.gl/maps/vcwKHErYu6Xx1EZQ8" "https://goo.gl/maps/vpashJNQHUoztL7c8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}。そして看板の裏がフラットなことが多い{{% ex "https://goo.gl/maps/JywpMP1MHHBXz9ep7" "https://goo.gl/maps/yNeLFP4fnqJPTkbZ7" "https://goo.gl/maps/S29z9ZMXBLuDqFxP8" %}}。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}{{% ex "https://goo.gl/maps/SYKoBHzdzWe6oJeH9" "https://goo.gl/maps/EoGT7scWMXCzRTZp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="road-sign-warning.jpg" width="80%">
