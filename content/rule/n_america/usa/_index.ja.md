@@ -72,11 +72,12 @@ maps: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">青い</span>ポスト。一方でカナダは赤い。
+<span class="quiz">青い</span>ポスト。一方でカナダは赤い。郵便局である場合、建物の壁や看板に州と都市名が書いてあることが多いので確認してみる。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-06-18-09-00-28.png" width="184px">
 <img src="2023-06-18-09-02-09.png" width="420px">
+<img src="pleasant_hall_pa_post.jpg" width="604px">
 </div>
 
 {{% notice tip %}}
@@ -171,8 +172,7 @@ maps: [
                 <li>高速道路の出口は"Exit 1"といった感じで番号が付いていてズームすると確認できる</li>
             </ul>
         </li>
-        <li>③ 郵便局の建物の壁に州と都市名が書いてあることが多い</li>
-        <li>④ハワイ諸島にもストリートビューがあり黒土や赤土が特徴的{{% ex "https://goo.gl/maps/jtYyZC2QNiC829Hn6" "https://goo.gl/maps/P7nuAhYyR9LTpAxh9" %}}</li>
+        <li>③ハワイ諸島にもストリートビューがあり黒土や赤土が特徴的{{% ex "https://goo.gl/maps/jtYyZC2QNiC829Hn6" "https://goo.gl/maps/P7nuAhYyR9LTpAxh9" %}}</li>
     </ul>
 </div>
 
@@ -220,14 +220,7 @@ maps: [
 </div>
 </div>
 {{% /tab %}}
-{{% tab "③郵便局の壁" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681687672403!6m8!1m7!1sr2fYXxuXlaBALYa-378jPA!2m2!1d37.68900621611955!2d-97.13520247827725!3f272.14006136701346!4f3.8147606970918275!5f3.325193203789971" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "④ハワイ" %}}
+{{% tab "③ハワイ" %}}
 {{% notice tip %}}
 地名が特徴的で、土の色も黒っぽかったり赤色に近い色が多い。
 {{% /notice %}}
