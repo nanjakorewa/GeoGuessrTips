@@ -77,7 +77,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号や通り名の看板も同様。
+角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号や通り名の看板も同様。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -104,7 +104,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% notice tip %}}
-道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。{{% goto "../san-marino/" "サンマリノ" %}}も裏側が黒く、イタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。{{% goto "../germany/" "ドイツ" %}}も黒っぽく見えることが多い。
+道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://maps.app.goo.gl/MY9pUPqrv4hbkdE39" "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。{{% goto "../san-marino/" "サンマリノ" %}}も裏側が黒く、イタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。{{% goto "../germany/" "ドイツ" %}}も黒っぽく見えることが多い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -112,7 +112,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% notice tip %}}
-通り名の看板に「<span class="quiz">Via</span>」と書いてある{{% ex "https://goo.gl/maps/P6HAct9Q6e9GcePy8" "https://goo.gl/maps/Y7DX7mQHE4AUKZKa6" %}}。白い板に青い線の縁取りがある看板が多く{{% ex "https://goo.gl/maps/dLBCkMsRZmDcwgcX7" "https://goo.gl/maps/LMpRA1Hf7YsMGwYg9" %}}、同じ看板は{{% goto "../san-marino/" "サンマリノ" %}}でも見られる。
+通り名の看板に「<span class="quiz">Via</span>」と書いてある{{% ex "https://maps.app.goo.gl/6WgPfWBMiQBxxMwB6" "https://goo.gl/maps/P6HAct9Q6e9GcePy8" "https://goo.gl/maps/Y7DX7mQHE4AUKZKa6" %}}。白い板に青い線の縁取りがある看板が多く{{% ex "https://goo.gl/maps/dLBCkMsRZmDcwgcX7" "https://goo.gl/maps/LMpRA1Hf7YsMGwYg9" %}}、同じ看板は{{% goto "../san-marino/" "サンマリノ" %}}でも見られる。
 {{% /notice %}}
 
 <div class="googlemap-if">
