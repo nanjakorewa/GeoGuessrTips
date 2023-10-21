@@ -77,7 +77,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-角張った板に丸い縁取りの線が描かれた標識が多い。道路番号や通り名の看板も同様です。
+角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号や通り名の看板も同様。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -275,14 +275,15 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li class="no-evidence">Pantelleria島は黒っぽい石の石垣が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%86%E3%83%83%E3%83%AC%E3%83%AA%E3%83%BC%E3%82%A2%E5%B3%B6" "パンテッレリーア島" %}}</li>
-        <li class="no-evidence">Toscano群島は松の木が生えている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8A%E7%BE%A4%E5%B3%B6" "トスカーナ群島" %}}。
+        <li>Egadi諸島にいる時はサンタカテリーナ城が目印になる{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/B4uKpr3jxNkoVUUSA" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}{{% ref "https://www.mareandmoretour.it/eng/da-non-perdere/favignana-castello-caterina-17" "CASTLE OF SANTA CATERINA FAVIGNANA" %}}</li>
         <li>Veneziaには船にのって移動するエリアがある</li>
+        <li>Lampedusa島は看板やバス停に島名が書いてある{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}</li>
         <li>{{% goto "../switzerland/" "スイス" %}}に囲まれたイタリアの飛び地であるCampione d'Italia町はカメラが低い</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Pantelleria" %}}
+{{% tab "Pantelleria島" %}}
 {{% notice tip %}}
 Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
 {{% /notice %}}
@@ -290,12 +291,12 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 <img src="city/dammuso.jpg">
 </div>
 {{% /tab %}}
-{{% tab "Toscano" %}}
+{{% tab "Egadi諸島" %}}
 {{% notice tip %}}
-松の木が生えている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%82%B9%E3%82%AB%E3%83%BC%E3%83%8A%E7%BE%A4%E5%B3%B6" "トスカーナ群島" %}}。
+岩でできた山のてっぺんに城が見える。街中で家に視界を遮られないかぎり大体この城が見えるっぽい{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692586996308!6m8!1m7!1sZic3oM_JMRIrLc9dwKxzvw!2m2!1d42.79193095479819!2d10.20662480828561!3f10.989831177043527!4f-4.035775962542573!5f0.4000000000000002" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./favignana_island_sea_sicily.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Venezia" %}}
@@ -304,6 +305,14 @@ Veneziaには船にのって移動するエリアがある{{% ex "https://maps.a
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./city/venezia_water_passages_275518.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Lampedusa島" %}}
+{{% notice tip %}}
+本土からかなり離れた離島{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}。バギーが多い{{% ex "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}}のは{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}や{{% goto "../../oceania/" "ココス諸島"  %}}のような離島の共通点。初見で当てるのは難しい。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./isola_dei_conigli.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Campione d'Italia" %}}
