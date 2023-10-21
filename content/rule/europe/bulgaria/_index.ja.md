@@ -49,7 +49,8 @@ sc: [
 {{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多く、みんな煙突がついている。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
+<img src="./bulgaria_village_cart_wooden.jpg" width="640">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/38056840695/" title="Bulgaria, along the Sofia-Plovdiv railway"><img src="https://live.staticflickr.com/4536/38056840695_926a544073_z.jpg" width="640" height="424" alt="Bulgaria, along the Sofia-Plovdiv railway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 

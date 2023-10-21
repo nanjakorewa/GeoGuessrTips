@@ -47,7 +47,7 @@ By Haghal Jagul - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 {{% /lb %}}
 
 {{% notice tip %}}
-Google Carが特徴的、かつ周りが山がちで雪の時もある
+Google Carが特徴的{{% ex "https://maps.app.goo.gl/UvuwiFXFcgGPvFRp9" "https://maps.app.goo.gl/HPEzczuHeDmtzXPp8" %}}。かつ周りが山がちで雪の時が多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682022445489!6m8!1m7!1sC-mhk4-0_HfoO4jKDMc5UA!2m2!1d42.33284933078447!2d73.81670557177138!3f356.02701359632573!4f-89!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
