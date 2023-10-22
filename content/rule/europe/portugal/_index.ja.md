@@ -34,8 +34,17 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
-後ろのナンバープレートは<span class="quiz">右側が黄色</span>
+ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./ruaseixo.jpg" width="80%">
+</div>
+
+
+{{% notice tip %}}
+ナンバープレートは<span class="quiz">右側が黄色</span>{{% ex "https://maps.app.goo.gl/5pSZeVPDXLF97bak8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./car.jpg" width="90%" />
@@ -47,14 +56,14 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている{{% imref %}}。
+電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://maps.app.goo.gl/F3S8Z9NacfsTSGoUA" "https://maps.app.goo.gl/fhcRFZBCRgbxDvF39" "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}の電柱も穴が空いていることがある点に注意。横断歩道の標識は腰にベルトを付けている{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./up.png" width="90%">
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
@@ -101,6 +110,41 @@ sc: [
         <li>ナンバー・電柱・標識などがほぼ同じの離島である{{% goto "../../africa/madeira_islands/" "マデイラ諸島" %}}と{{% goto "../azores/" "アゾレス諸島" %}}がある</li>
     </ul>
 </div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>リスボンではCarrisの路面電車を見かけるかも</li>
+        <li>ベルレンガ群島という離島があり17世紀に建てられた要塞が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}{{% ref "https://en.wikipedia.org/wiki/Berlengas" "Berlengas" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "リスボン" %}}
+
+{{% notice tip %}}
+1873年に運行を開始したCarris（Companhia Carris de Ferro de Lisboa）の路面電車を見かけるかも。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./city/lisbon_old_town_tram_0.jpg" width="95%">
+</div>
+
+{{% /tab %}}
+{{% tab "ベルレンガ群島" %}}
+
+{{% notice tip %}}
+要塞か灯台が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}。人口30人で人の生活感は無い。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="./city/berlenga_fort.jpg" width="310px">
+<img src="./city/berlenga_island_bay.jpg" width="310px">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 {{% imgref %}}
 <li>同一作者によるEN 247 roadの写真、加工あり<li>
