@@ -35,16 +35,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-リサイクル可能なものを収集する青いゴミ箱に分別ルールが書かれた大き目のシールが張ってあることが多い{{% ex "https://maps.app.goo.gl/HhPNxCevFz8n9MSR7" "https://maps.app.goo.gl/XfERTZ7dPkHar34C8" "https://maps.app.goo.gl/SwyiCexKXMmXycz56" %}}。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">画像出典</a>）。
-{{% /notice %}}
-
-<div class="googlemap-if" style="pointer-events:none;">
-<img src="./img-recycle.jpg" width="500px">
-</div>
-
-
-{{% notice tip %}}
-三角や丸の標識であっても白い四角い形のボードを使用している。
+三角や丸の標識であっても白い四角い形のボードを使用している{{% ex "https://maps.app.goo.gl/Yks9UauHVAYJ4hUL8" "https://maps.app.goo.gl/sJEsdJnvuMkiXCyJ7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -54,11 +45,29 @@ sc: [
 </div>
 
 {{% notice tip %}}
+リサイクル可能なものを収集する青いゴミ箱に分別ルールが書かれた大き目のシールが張ってあることが多い{{% ex "https://maps.app.goo.gl/HhPNxCevFz8n9MSR7" "https://maps.app.goo.gl/XfERTZ7dPkHar34C8" "https://maps.app.goo.gl/SwyiCexKXMmXycz56" %}}。他の地域でこのような大きいシールが張ってあるものはあまり見ない気がする（<a href="https://www.nea.gov.sg/our-services/waste-management/3r-programmes-and-resources/waste-minimisation-and-recycling">画像出典</a>）。
+{{% /notice %}}
+
+<div class="googlemap-if" style="pointer-events:none;">
+<img src="./img-recycle.jpg" width="500px">
+</div>
+
+
+
+{{% notice tip %}}
 信号を支えるポールに穴が空いている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}。緑色の通り名の看板もよく見る。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG#/media/File:Shenton_Way_2,_Jan_06.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Shenton_Way_2%2C_Jan_06.JPG" alt="Shenton Way 2, Jan 06.JPG" width="90%"></a></p><p>By <a href="https://en.wikipedia.org/wiki/User:Sengkang" class="extiw" title="en:User:Sengkang">User:Sengkang</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="//commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG" title="Copyrighted free use">Copyrighted free use</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=759583">Link</a></p>
 </div>
+
+{{% notice tip %}}
+英語・中国語・マレー語・タミル語の4言語で表記された看板がある{{% ex "https://maps.app.goo.gl/eWXodbYft29KcsiL7" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./danger_keep_out_sign_6.jpg" width="90%">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
