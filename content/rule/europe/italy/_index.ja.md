@@ -176,7 +176,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
             </ul>
         </li>
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
-        <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる</li>
+        <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる{{% ex "https://maps.app.goo.gl/we11oKEKLT82uacY9" "" %}}</li>
         <li class="no-evidence">田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
@@ -187,8 +187,12 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <img src="./Eliofania.png" width="500px">
 </div>
 
+<div class="googlemap-if no-margin unclickable">
+<img src="prickly_pear_cactus_plant_0.jpg">
+</div>
+
 {{% notice tip %}}
-赤に近いほど日照時間が長く暖かそうな地域{{% ref "https://en.wikipedia.org/wiki/Climate_of_Italy" "Climate of Italy" %}}。
+赤に近いほど日照時間が長く暖かそうな地域{{% ref "https://en.wikipedia.org/wiki/Climate_of_Italy" "Climate of Italy" %}}。サボテンが生えていることが多い。
 {{% /notice %}}
 
 {{% /tab %}}
@@ -199,22 +203,11 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /tab %}}
 {{% tab "西部の山岳地帯" %}}
 {{% notice tip %}}
-町によっては石壁模様じゃないところもあり。
+{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家が見つかるので国を間違えないように注意{{% ex "https://maps.app.goo.gl/AkQY1NarcrMtJ74v7" "https://maps.app.goo.gl/we11oKEKLT82uacY9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691810889121!6m8!1m7!1saHGb6IwLM5Px4lGzXkHcZw!2m2!1d45.78989392770293!2d6.972546145677878!3f231.56342264796746!4f-6.765814239929341!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691811174264!6m8!1m7!1s0C_36eJOGZt46UuC6GSD0w!2m2!1d44.04376379129428!2d7.720899640947964!3f271.70588990021815!4f5.818231171632846!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./viapedonale.jpg">
 </div>
-{{% /tab %}}
-{{% tab "地中海側" %}}
-{{% notice tip %}}
-オリーブやサボテンなどがあり{{% goto "../greece/" "ギリシャ" %}}・{{% goto "../croatia/" "クロアチア" %}}・{{% goto "../spain/" "スペイン" %}}などに似た雰囲気のところもある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691811399647!6m8!1m7!1sJxcrTpTPlrUU-i8QbgzqJA!2m2!1d43.79185684091036!2d7.561474432794951!3f196.95859422055136!4f0.8004641186715702!5f0.49098104251056895"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691811509870!6m8!1m7!1sdE8k6vUimKSFs5NV3_wTZg!2m2!1d37.92976853603578!2d12.29821741847973!3f1.707977352151886!4f2.864350915826492!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -236,7 +229,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tabs %}}
 {{% tab "カラブリア州" %}}
 {{% notice tip %}}
-カラブリア州は観光以外の産業が発達しておらず自然も多い{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}。若者の失業率が50%近くあり、他の州とは経済的な格差が残っている地域で古い感じの建物も多い{{% ex "https://maps.app.goo.gl/C3aQohxoLDeqeqRR7" "https://maps.app.goo.gl/YWKRNsnQciiHa7LM7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%96%E3%83%AA%E3%82%A2%E5%B7%9E" "カラブリア州" %}}。</li>
+カラブリア州は観光以外の産業が発達しておらず自然も多い{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}。若者の失業率が50%近くあり、他の州とは経済的な格差が残っている。古い感じの建物も多い{{% ex "https://maps.app.goo.gl/C3aQohxoLDeqeqRR7" "https://maps.app.goo.gl/YWKRNsnQciiHa7LM7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%96%E3%83%AA%E3%82%A2%E5%B7%9E" "カラブリア州" %}}。</li>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
