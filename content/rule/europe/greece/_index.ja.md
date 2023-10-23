@@ -26,6 +26,7 @@ sc: [
         <li>警告看板が<span class="quiz">オレンジ</span>背景{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}</li>
         <li>電柱が<span class="quiz">木</span>でできていることが多い</li>
         <li><span class="quiz">白黒</span>のシェブロンが多い</li>
+        <li><span class="quiz">白の2本線</span>の中央分離帯が多い{{% ref "https://www.plonkit.net/greece" "plonkit" %}}</li>
         <li>黒背景に赤色の反射板のボラードがある{{% ex "https://goo.gl/maps/SMkqd1qb4HzYM42Z9" %}}</li>
     </ul>
     {{% rd europe greece small %}}
@@ -90,7 +91,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 {{% notice tip %}}
-矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}、稀に赤白のものもある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
+矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}、稀に赤白のものもある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。そして<span class="quiz">白の2本線</span>の中央分離帯が多い{{% ref "https://www.plonkit.net/greece" "plonkit" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
@@ -98,6 +99,9 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
 </div>
 
+<div class="googlemap-if unclickable" style="margin:1em;">
+<img src="./a8_greece.jpg" width="600px">
+</div>
 
 
 {{% notice tip %}}
