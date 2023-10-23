@@ -63,7 +63,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/zNnAqNoDe5kMsjPR7" "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
@@ -116,6 +116,7 @@ sc: [
     <ul class="rule-list">
         <li>リスボンではCarrisの路面電車を見かけるかも</li>
         <li>ベルレンガ群島という離島があり17世紀に建てられた要塞が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}{{% ref "https://en.wikipedia.org/wiki/Berlengas" "Berlengas" %}}</li>
+        <li>エストレーラ山脈はスノーポールが道端にある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" "https://maps.app.goo.gl/FL2dHXntciZUaC4VA" %}}{{% ref "https://pt.wikipedia.org/wiki/Serra_da_Estrela" "Serra da Estrela" %}}</li>
     </ul>
 </div>
 
@@ -141,6 +142,18 @@ sc: [
 <div class="googlemap-if no-margin">
 <img src="./city/berlenga_fort.jpg" width="310px">
 <img src="./city/berlenga_island_bay.jpg" width="310px">
+</div>
+
+{{% /tab %}}
+{{% tab "エストレーラ山脈" %}}
+
+{{% notice tip %}}
+ポルトガル唯一のスキー場がありスノーポールが建っている道路もある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" %}}。こんな感じの岩が道端に多く分布している{{% ex "https://maps.app.goo.gl/F4McqZCPwP89sQQk8" "https://maps.app.goo.gl/BfuCzSJrLkQSYPHQA" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="./city/cantaromagro.jpg">
 </div>
 
 {{% /tab %}}

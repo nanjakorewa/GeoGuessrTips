@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">黒</span>背景のものが多い{{% ex "https://maps.app.goo.gl/WSD67pzb5atjCqSg9" "https://maps.app.goo.gl/hsFefUrgh4xFdgWw8" "https://maps.app.goo.gl/hsFefUrgh4xFdgWw8" %}}。バスのナンバープレートは<span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の文字が書かれている{{% ex "https://goo.gl/maps/L615rL4m95zS1FcM6" %}}。ナンバープレートで前後が黒色の場合は{{% goto "../hongkong/" "香港" %}}ではなく澳門かも。{{% goto "../singapore/" "シンガポール" %}}も同じ色のナンバープレートがあるので注意。
+ナンバープレートは<span class="quiz">黒</span>背景のものが多い{{% ex "https://maps.app.goo.gl/iRSqSUjEvxGoQ3vM8" "https://maps.app.goo.gl/WSD67pzb5atjCqSg9" "https://maps.app.goo.gl/hsFefUrgh4xFdgWw8" "https://maps.app.goo.gl/hsFefUrgh4xFdgWw8" %}}。バスのナンバープレートは<span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の文字が書かれている{{% ex "https://goo.gl/maps/L615rL4m95zS1FcM6" %}}。ナンバープレートで前後が黒色の場合は{{% goto "../hongkong/" "香港" %}}ではなく澳門かも。{{% goto "../singapore/" "シンガポール" %}}も同じ色のナンバープレートがあるので注意。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
