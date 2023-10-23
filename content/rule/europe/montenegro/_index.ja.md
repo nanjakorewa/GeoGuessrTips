@@ -35,18 +35,16 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span>ので中央部分が少しだけ赤く見えることがある
+ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span>ので中央部分が少しだけ赤く見えることがある。真っ白なプレートの車も一定数ある。
 {{% /notice %}}
 <div class="googlemap-if">
-
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683375084514!6m8!1m7!1s-vh25d1nILMywS8MZtJjjw!2m2!1d42.44529716251037!2d19.25800556113811!3f247.13416297673677!4f-16.92737782336809!5f3.0278388476668896" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683375129582!6m8!1m7!1semP_84KiWEIu7mvC718wbA!2m2!1d43.15531973831427!2d18.84540853743735!3f160.20233144409028!4f-16.82774804326057!5f3.3170533390180648" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%">
 </div>
 
 {{% lb 50 small %}}
-![](2023-05-06-21-09-53.png)
+![](car_plate_kolasin.jpg)
 
-By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10198828">Wikimedia Commons(Link)</a>
+CC0
 {{% /lb %}}
 
 
@@ -73,6 +71,25 @@ By Own work / D. Schneider - D. Schneider, <a href="https://creativecommons.org/
 
 <div class="googlemap-if unclickable">
 <img src="../serbia/idea.png" width="400px">
+</div>
+
+
+{{% notice tip %}}
+白い壁の家と白い岩肌の山が見える{{% ex "https://maps.app.goo.gl/B4LoGFdWPQ7EViEN8" "https://maps.app.goo.gl/pEmLh9pX59Fy4P497" "https://maps.app.goo.gl/6RSTA3yYSmF2TK6VA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./montenegro_rijeka_crnojevica_1230321.jpg" width="95%">
+</div>
+
+{{% /tab  %}}
+{{% tab "商業施設" %}}
+{{% notice tip %}}
+{{% goto "../greece/" "ギリシャ" %}}～モンテネグロらへんにありがちなガソリンスタンド
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./fuel_station_eko_pic2.jpg">
 </div>
 
 {{% /tab  %}}
