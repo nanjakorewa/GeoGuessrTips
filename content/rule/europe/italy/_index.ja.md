@@ -177,15 +177,6 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
         </li>
         <li>市外局番の先頭の数字でおよその地域が特定できる、北西から南にかけて１～９。</li>
         <li class="no-evidence">{{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家やスノーポールが多いなら西部の山岳地帯に行ってみる</li>
-        <li class="no-evidence">地中海側は石垣が多い{{% ex "https://goo.gl/maps/RcbvyEz1DUV54DaH9" "https://goo.gl/maps/7tL5tEu6eTAApcWz6" "https://goo.gl/maps/XpcFY9w9WSc2gv1w6" "https://goo.gl/maps/iaFSWmB6fppotbFG9" "https://goo.gl/maps/onLzMX8DE42SHU6q7" %}}</li>
-        <li>サルデーニャ島{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
-            <ul>
-                <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
-                <li>イタリアで唯一アウトストラーダが存在しない州なので緑の八角形のマークは無い</li>
-                <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
-            </ul>
-        </li>
-        <li>シチリア島ではシチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}</li>
         <li class="no-evidence">田んぼやコーン畑があるなら北部かも{{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}</li>
     </ul>
 </div>
@@ -223,8 +214,38 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691811399647!6m8!1m7!1sJxcrTpTPlrUU-i8QbgzqJA!2m2!1d43.79185684091036!2d7.561474432794951!3f196.95859422055136!4f0.8004641186715702!5f0.49098104251056895"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691811509870!6m8!1m7!1sdE8k6vUimKSFs5NV3_wTZg!2m2!1d37.92976853603578!2d12.29821741847973!3f1.707977352151886!4f2.864350915826492!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
-{{% tab "サルデーニャ島" %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>カラブリア州{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}</li>
+        <li>サルデーニャ{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
+            <ul>
+                <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
+                <li>イタリアで唯一アウトストラーダが存在しない州なので緑の八角形のマークは無い</li>
+                <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
+            </ul>
+        </li>
+        <li>シチリアではシチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "カラブリア州" %}}
+{{% notice tip %}}
+カラブリア州は観光以外の産業が発達しておらず自然も多い{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}。若者の失業率が50%近くあり、他の州とは経済的な格差が残っている地域で古い感じの建物も多い{{% ex "https://maps.app.goo.gl/C3aQohxoLDeqeqRR7" "https://maps.app.goo.gl/YWKRNsnQciiHa7LM7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%96%E3%83%AA%E3%82%A2%E5%B7%9E" "カラブリア州" %}}。</li>
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><img src="./trail_caria_tropea01.jpg" width="590"></img>
+<p><a href="https://commons.wikimedia.org/wiki/File:Gariglione.jpg#/media/File:Gariglione.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gariglione.jpg" alt="Gariglione.jpg" width="590"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:GeorgeOrwell1984&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:GeorgeOrwell1984 (page does not exist)">GeorgeOrwell1984</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90559600">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "サルデーニャ州" %}}
 
 {{% notice tip %}}
 サルデーニャ語との２言語表記の看板が見つかるが頻度は高くない。
@@ -258,7 +279,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% /tab %}}
-{{% tab "シチリア島" %}}
+{{% tab "シチリア州" %}}
 
 {{% notice tip %}}
 シチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}
