@@ -213,70 +213,41 @@ sc: [
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
+        <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
         <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違う
             <ul>
                 <li>窓の周りが黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
                 <li>窓の周りが黄色・下が黄色：<span class="quiz">南</span>に行ってみる？</li>
-                <li>窓の周りが黄色・下が黒色：<span class="quiz">ムンバイなどのマハーラーシュトラ</span>の都市に多め？{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
             </ul>
         </li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "黄色いタンク" %}}
+{{% notice tip %}}
+黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}。ハイデラバードより北の家にこのタンクがたくさん乗っているイメージはない。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/scalino/10798845626/in/photolist-hsfUzy-roCaoo-hsgvT7-4uoKsi-8wCDBf-AiyM6u-vXybJ8-bkYtBd-86338a-g8JUQ-tpUrV-9tRbFC-bW9EZd-aK54he-eVqxZu-aGRWAX-BWUuWD-aK571X-6kXHRg-aK9aga-DoB8b7-fDD8yM-EqRqcY-9WSJDM-aK55Kr-245ArW-9qRM3c-bEGnco-9RNir2-ajpsfp-ty1EC7-aK568p-DRoHNC-D99WE-Hpz1Fa-gR4jxp-NoZWy-fDVhR9-gmKBzW-5waGzd-9YYMXc-AHkUc-5kFjBw-5Ripeh-sbuLy-6cPnsU-2r79Gi-mxjTS-67n7tq-LLRGNG" title="Blue &amp; orange house"><img src="https://live.staticflickr.com/3724/10798845626_c8cba1937b_z.jpg" width="640" height="427" alt="Blue &amp; orange house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
 {{% tab "黄色・緑" %}}
 {{% notice tip %}}
 全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/dalbera/8480534886/" title="Rickshaws au centre de New Delhi"><img src="https://live.staticflickr.com/8391/8480534886_fa96259976_z.jpg" width="640" height="427" alt="Rickshaws au centre de New Delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="auto_rickshaw_vehicles_automobiles.jpg">
 </div>
 {{% /tab %}}
 {{% tab "黄色・黄色" %}}
 {{% notice tip %}}
 黄色の時は<span class="quiz">南</span>に行ってみる？
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684852247634!6m8!1m7!1s8D07DUXd-aJ-IPNNtC0a2g!2m2!1d17.35619275969182!2d78.45450118244464!3f239.04023894286564!4f-5.286728959196893!5f3.0944092122296905" width="590" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685423440831!6m8!1m7!1sR9f3YlIxYbfb7PmyuLdViA!2m2!1d9.916791413045814!2d78.11770567763391!3f299.8459638803495!4f-7.552750161315913!5f3.2000641429283365" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685423663844!6m8!1m7!1sX7oLEp8Z_YYY29EctqxHbw!2m2!1d14.44073365883778!2d79.99211186913298!3f10.504973534499292!4f-10.28303530448666!5f2.807657372073357" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Autoyercaud.jpg#/media/File:Autoyercaud.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Autoyercaud.jpg" alt="Autoyercaud.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Sathiyajith&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Sathiyajith (page does not exist)">Sathiyajith</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=94119078">Link</a></p>
 </div>
 
-{{% /tab %}}
-{{% tab "黄色・黒色" %}}
-{{% notice tip %}}
-ムンバイなどのマハーラーシュトラに多め{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}？
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685128103000!6m8!1m7!1sV2mAVbnto9vw5UeIgQIR7g!2m2!1d19.09521757724435!2d72.88762212756531!3f332.48927903939085!4f-10.15448843502621!5f1.5526628961370816" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-ただし似た雰囲気のものは東海岸の街にもあったので100%ではなさそう。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685128260587!6m8!1m7!1sMynsRgxqocRxrdZUemCdZQ!2m2!1d19.80653467636733!2d85.83721433799168!3f26.824904239981084!4f-8.188162902118862!5f2.7673678437924703" width="520" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
-        <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街</li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "黄色いタンク" %}}
-{{% notice tip %}}
-黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街。ハイデラバードより北の家にこのタンクがたくさん乗っているイメージはない。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684973330166!6m8!1m7!1spMA27OJFQ6ZRt1ub9nkTIw!2m2!1d12.84251651601305!2d77.61203290485112!3f97.71301123418844!4f7.309838716057598!5f3.3051630211484837" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685057238683!6m8!1m7!1sVq2_OxPrxv5kAwxKy9lpKQ!2m2!1d12.82124623460106!2d80.20650617072832!3f118.47452465387406!4f4.776067349847821!5f3.278551436969423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -286,7 +257,7 @@ sc: [
     <ul class="rule-list">
         <li>電柱の形が州や街によって異なる
             <ul>
-                <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街</li>
+                <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}</li>
                 <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">穴のあるポール（ホーリーポール）があるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
@@ -301,11 +272,10 @@ sc: [
 {{% tabs %}}
 {{% tab "Panjab" %}}
 {{% notice tip %}}
-電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街
+電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685016269943!6m8!1m7!1sjSOyYVSvLqichVCDATUsYQ!2m2!1d30.86611341091101!2d76.00847477658051!3f329.72196298953145!4f29.199951858946775!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685016518227!6m8!1m7!1s6r5ccDbTkhAirxe710Nc6w!2m2!1d30.75416268602017!2d76.75385228486779!3f277.1610299346416!4f24.561473566273776!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="pole2.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Chandigarh" %}}
