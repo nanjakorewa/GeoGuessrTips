@@ -214,15 +214,19 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>カラブリア州{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}</li>
-        <li>サルデーニャ{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
+        <li>カラブリア州{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}
+            <ul>
+                <li>？？？</li>
+            </ul>
+        </li>
+        <li>サルデーニャ州{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
             <ul>
                 <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
                 <li>イタリアで唯一アウトストラーダが存在しない州なので緑の八角形のマークは無い</li>
                 <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
             </ul>
         </li>
-        <li>シチリアではシチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}</li>
+        <li>シチリア州ではシチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}</li>
     </ul>
 </div>
 
