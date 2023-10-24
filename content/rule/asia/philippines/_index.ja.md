@@ -180,7 +180,6 @@ CC0画像を加工
         <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AC%E3%83%AD%E3%82%B0%E8%AA%9E" "タガログ語" %}}</li>
         <li>市外局番でおよその地域が特定できる{{% by %}}</li>
         <li class="no-evidence">新しめのバイクのナンバープレートの色を見れば地域がわかることも</li>
-        <li class="no-evidence">トライシクルに都市名が書いてある場合があり見た目による地域性もあるらしい</li>
     </ul>
 </div>
 
