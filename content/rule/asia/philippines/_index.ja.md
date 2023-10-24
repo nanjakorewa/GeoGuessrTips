@@ -262,6 +262,8 @@ CC0画像を加工
     <ul class="rule-list">
         <li>農作物の分布が地域ごとに異なる
             <ul>
+                <li>アブラヤシは南の島に多い{{% ex "https://maps.app.goo.gl/XYpP6hz6DMq8mS5D6" %}}</li>
+                <li>サトウキビは{{% goto "https://maps.app.goo.gl/aurJrXkk51y1bJZd8" "ネグロス島" %}}を中心に多く分布する{{% ex "https://maps.app.goo.gl/Aigu23s77eCKHY4MA" %}}</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=RP">U.S. Philippines Production Country Summary(U.S. Department of Agriculture)</a></li>
             </ul>
         </li>
@@ -271,16 +273,23 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="50%"/>
+<img src="2023-05-01-19-06-07.png" width="550px"/>
 </div>
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684979157020!6m8!1m7!1sYUOAIn2vLry73pTz3Ido8A!2m2!1d6.621556822152089!2d124.0659036884216!3f170.08973009900976!4f2.3140351886677877!5f2.815832230270974" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% /tab %}}
+{{% tab "サトウキビ" %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-01-19-13-28.png" width="550px"/>
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./agriculture_sugar_cane_crop.jpg" width="400px">
+</div>
+
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="50%"/>
+<img src="2023-05-01-19-08-10.png" width="550px"/>
 </div>
 
 <div class="googlemap-if">
@@ -289,12 +298,7 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="50%"/>
-</div>
-{{% /tab %}}
-{{% tab "サトウキビ" %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="50%"/>
+<img src="2023-05-01-19-06-44.png" width="550px"/>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -334,8 +338,8 @@ CC0画像を加工
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Sabtang島周辺では石造りの家がある{{% ex "https://maps.app.goo.gl/pi8dXU5y2hgF6w1v9" %}}{{% ref "https://en.wikipedia.org/wiki/Sabtang" "Sabtang" %}}</li>
         <li>コレヒドール島は第二次大戦中の兵舎やトンネルが廃墟として残っていている{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AC%E3%83%92%E3%83%89%E3%83%BC%E3%83%AB%E5%B3%B6" "コレヒドール島" %}}。GoogleCarが見える。</li>
         <li>1991年に大噴火を起こしたピナトゥボ山への道がある{{% ex "https://maps.app.goo.gl/gDRm77HupFi2Skaj8" "https://maps.app.goo.gl/yktjimUEinNvHmiz6" "https://maps.app.goo.gl/uhAEfZuf21dXr71L9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%8A%E3%83%88%E3%82%A5%E3%83%9C%E5%B1%B1" "ピナトゥボ山" %}}</li>
     </ul>
@@ -344,6 +348,14 @@ CC0画像を加工
 
 
 {{% tabs %}}
+{{% tab "Sabtang島" %}}
+{{% notice tip %}}
+本島と台湾の間の島{{% ex "https://maps.app.goo.gl/5CepKwzoyG8XXp2k9" "https://maps.app.goo.gl/YoMUtJLL9qtiSEwJ6" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg#/media/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sumnanga_Village%2C_Sabtang_Island%2C_Batanes.jpg" alt="Sumnanga Village, Sabtang Island, Batanes.jpg" height="720" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Jeremy.alinea&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Jeremy.alinea (page does not exist)">Jeremy.alinea</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78822611">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "コレヒドール島" %}}
 {{% notice tip %}}
 GoogleCarが見える{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}。
