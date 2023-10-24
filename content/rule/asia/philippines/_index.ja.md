@@ -305,7 +305,6 @@ CC0画像を加工
     <ul class="rule-list">
         <li>工事中の看板がよくあり都市名が書かれていることが多い</li>
         <li>大手銀行のATMの看板にはいつも町名や地域名が書いてある</li>
-        <li>1991年に大噴火を起こしたピナトゥボ山への道がある{{% ex "https://maps.app.goo.gl/gDRm77HupFi2Skaj8" "https://maps.app.goo.gl/yktjimUEinNvHmiz6" "https://maps.app.goo.gl/uhAEfZuf21dXr71L9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%8A%E3%83%88%E3%82%A5%E3%83%9C%E5%B1%B1" "ピナトゥボ山" %}}</li>
     </ul>
 </div>
 
@@ -328,6 +327,29 @@ CC0画像を加工
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684613115605!6m8!1m7!1sgYhEbSkYtZglu0eGhSo_5w!2m2!1d9.651275028314991!2d124.3675177738041!3f22.109517723482682!4f15.679024661251503!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684613494892!6m8!1m7!1sGWIk8ge4a6kDWBBcqBZ12Q!2m2!1d7.448201417512792!2d125.8078175429974!3f352.9976618878443!4f27.00491909189968!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>コレヒドール島は第二次大戦中の兵舎やトンネルが廃墟として残っていている{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AC%E3%83%92%E3%83%89%E3%83%BC%E3%83%AB%E5%B3%B6" "コレヒドール島" %}}。GoogleCarが見える。</li>
+        <li>1991年に大噴火を起こしたピナトゥボ山への道がある{{% ex "https://maps.app.goo.gl/gDRm77HupFi2Skaj8" "https://maps.app.goo.gl/yktjimUEinNvHmiz6" "https://maps.app.goo.gl/uhAEfZuf21dXr71L9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%8A%E3%83%88%E3%82%A5%E3%83%9C%E5%B1%B1" "ピナトゥボ山" %}}</li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "コレヒドール島" %}}
+{{% notice tip %}}
+GoogleCarが見える{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./corregidor_dn_st_86.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "ピナトゥボ山" %}}
