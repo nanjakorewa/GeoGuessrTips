@@ -49,12 +49,19 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
-電柱が丸いものが多く電柱の上の部分にフックみたいな形のものがついている。似たような形の電柱は{{% goto "../../bulgaria/" "ブルガリア" %}}にもある。
+「<b>ī</b>」のように母音に￣の記号が付いている文字。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682139088680!6m8!1m7!1syCfEh53FuZQYpvPLLAM-Ig!2m2!1d56.17473944650655!2d27.20834289119661!3f356.9160279563701!4f21.77269451337706!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684548569834!6m8!1m7!1sGVYvMAUOXswk7Y2KshL-3g!2m2!1d57.67250500176147!2d22.32489573780233!3f326.8197589765102!4f24.038563745982486!5f3.3139613063297606" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./p70_36km.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+電柱が丸いものが多く電柱の上の部分にフックみたいな形のものがついている{{% ex "https://maps.app.goo.gl/wzoAPg8X4r7mw2Nm7" "https://maps.app.goo.gl/C98cL4W8A77vyNk28" %}}。似たような形の電柱は{{% goto "../../bulgaria/" "ブルガリア" %}}にもある。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./pole.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -71,13 +78,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>{{% ex "https://goo.gl/maps/SvTXmwLjfegxqqsCA" "https://goo.gl/maps/qWuxXY6SUxrxFW9s7" %}}。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
+リトアニアと速度上限の標識などを比較したとき赤い線が<span class="quiz">太い</span>{{% ex "https://maps.app.goo.gl/KQkA67Y4cy9fxBHx6" "https://goo.gl/maps/SvTXmwLjfegxqqsCA" "https://goo.gl/maps/qWuxXY6SUxrxFW9s7" %}}。縁だけ比較した下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
 <img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
 <img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
 <img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="pagrieziens_uz_zalvi.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
