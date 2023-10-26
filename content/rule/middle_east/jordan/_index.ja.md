@@ -52,7 +52,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/cr01/5211016049/in/photolist-8WtPwi-iHjwYZ-CHuCzv-5jgGYF-2arBFEa-8WtDst-272fAco-24F4Q1J-8TA9ds-8kAcVz-dXdCXB-xSHJ3X-8kA4F2-dXdELB-8WtTS6-2bzi7Kn-tFPytf-dXjkaW-MWNzBR-iHjmca-2bLNiER-291Ljns-7XkjFJ-227XMyP-4nXLxY-dHdrbH-QH2xwU-2bDq9QA-FEm96G-2bGMTpR-yy7u8-2aB6fcL-2ajcTwX-b8BmdD-bWZi2F-qmrPa4-QyRBQb-aorQNx-FEKiX8-FEV2UT-4vBSWq-7r7Q9r-DFf8Xp-Fmu3Sq-2bLNz3V-F1Fsbp-PyL7Sj-FLd2ts-nN1ZUN-LaJ3Ud" title="Amman"><img src="https://live.staticflickr.com/4154/5211016049_9a9ab9571b.jpg" width="500" height="375" alt="Amman"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./amman_jordan_citadel_hill.jpg" width="95%">
 </div>
 
 {{% notice tip %}}中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ{{% ex "https://goo.gl/maps/sXpE66c2PbeKgpzo6" "https://goo.gl/maps/5cPqpoiFsjKHfi2g8" %}}

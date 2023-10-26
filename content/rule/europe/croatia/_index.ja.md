@@ -46,8 +46,8 @@ sc: [
 
 
 {{% notice tip %}}
-<span class="quiz">Tisak plus doo</span>はタバコ製品のクロアチア最大の販売代理店であり約850店舗以上存在する。
-<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある。他に見かけるのはクロアチア最大手銀行のZagrebačka bankaや小売で100店舗前後あるとおもわれるPlodineなど{{% ref "https://zse.hr/en" "Zagreb Stock Exchange" %}}。
+<span class="quiz">Tisak plus doo</span>はタバコ製品のクロアチア最大の販売代理店であり約850店舗以上存在する{{% ex "https://maps.app.goo.gl/eXbixEAXY4tfUnWh8" "https://maps.app.goo.gl/4jWwmqtZvMryjGCy8" "https://maps.app.goo.gl/wPHeRt4KyzUCGJUg6" %}}。
+<span class="quiz">KONZUM</span>はクロアチア最大のスーパーマーケットチェーンでクロアチア国内におよそ700店舗ある{{% ex "https://maps.app.goo.gl/EJJ27U6jAo9mrMZCA" %}}。他に見かけるのはクロアチア最大手銀行のZagrebačka banka{{% ex "https://maps.app.goo.gl/sFVBd9YVw51CkwW66" %}}や小売で100店舗前後あるとおもわれるPlodineなど{{% ref "https://zse.hr/en" "Zagreb Stock Exchange" %}}。
 {{% /notice %}}
 
 
@@ -90,7 +90,7 @@ CC0</a>
 
 
 {{% notice tip %}}
-クロアチアの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。足の形が「く」ならクロアチアで「ハ」ならハンガリー。{{% goto "../portugal/" "ポルトガル" %}}や{{% goto "../germany/" "ドイツ" %}}もベルトを付けている点に注意。
+クロアチアの横断歩道の中の人はベルトを付けている{{% ex "https://maps.app.goo.gl/DFqnqwPTuUpDzUmu6" "https://maps.app.goo.gl/5mTEP7ZJz6BHkYsQ7" %}}。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。足の形が「く」ならクロアチアで「ハ」ならハンガリー。{{% goto "../portugal/" "ポルトガル" %}}や{{% goto "../germany/" "ドイツ" %}}もベルトを付けている点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">

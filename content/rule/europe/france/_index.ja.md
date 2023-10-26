@@ -234,7 +234,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>南西部では町名が「ac」で終わることが多い{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
             </ul>
         </li>
-        <li>コルシカ島は市外局番が『04 95』でコルシカ語との二言語表記の看板がある</li>
+        <li>コルシカ島は市外局番が『04 95』{{% ex "https://maps.app.goo.gl/VSnx1J4v1n89Lp3FA" %}}。コルシカ語との二言語表記の看板があることも。</li>
     </ul>
 </div>
 
