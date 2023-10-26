@@ -226,7 +226,7 @@ sc: [
 {{% tabs %}}
 {{% tab "黄色いタンク" %}}
 {{% notice tip %}}
-黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}。ハイデラバードより北の家にこのタンクがたくさん乗っているイメージはない。
+黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}。ただし北東の方でもたまに見かけるので100%ではない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/scalino/10798845626/in/photolist-hsfUzy-roCaoo-hsgvT7-4uoKsi-8wCDBf-AiyM6u-vXybJ8-bkYtBd-86338a-g8JUQ-tpUrV-9tRbFC-bW9EZd-aK54he-eVqxZu-aGRWAX-BWUuWD-aK571X-6kXHRg-aK9aga-DoB8b7-fDD8yM-EqRqcY-9WSJDM-aK55Kr-245ArW-9qRM3c-bEGnco-9RNir2-ajpsfp-ty1EC7-aK568p-DRoHNC-D99WE-Hpz1Fa-gR4jxp-NoZWy-fDVhR9-gmKBzW-5waGzd-9YYMXc-AHkUc-5kFjBw-5Ripeh-sbuLy-6cPnsU-2r79Gi-mxjTS-67n7tq-LLRGNG" title="Blue &amp; orange house"><img src="https://live.staticflickr.com/3724/10798845626_c8cba1937b_z.jpg" width="640" height="427" alt="Blue &amp; orange house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
