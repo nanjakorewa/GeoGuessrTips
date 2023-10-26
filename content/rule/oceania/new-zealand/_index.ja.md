@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}
+ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./nz-bollard.png" width="95%" alt="ニュージーランドのボラード" />
@@ -116,23 +116,26 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 {{% tabs %}}
 {{% tab "カンタベリー平野" %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Windbreak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
 
 {{% notice tip %}}
 クライストチャーチを中心として全体的に平坦で高い防風林が多い{{% ref "https://ir.canterbury.ac.nz/handle/10092/11294" "カンタベリー大学" %}}。
 {{% /notice %}}
 
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Windbreak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
 {{% /tab %}}
 {{% tab "ベイ・オブ・プレンティ地方" %}}
-<div class="googlemap-if no-margin">
-<img src="./wv_banner_bay_plenty.jpg">
-</div>
 
 {{% notice tip %}}
 海からの風から農作物を守るために防風林が散見されるがカンタベリー平野ほど多くの防風林はない{{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}。
 {{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./wv_banner_bay_plenty.jpg">
+</div>
 
 {{% /tab %}}
 {{% tab "解説動画" %}}
@@ -145,6 +148,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>南島にOtago Central Rail Trailと呼ばれる約150キロメートルのウォーキング・サイクリングロードがある{{% ref "https://en.wikipedia.org/wiki/Otago_Central_Rail_Trail" "Otago Central Rail Trail" %}}。赤いバッグのようなものが見える。</li>
         <li>スチュアート島は人が住んでいる島の中では最も南。森に囲まれた入江がある{{% ex "https://maps.app.goo.gl/Ltcpv9LQXcP9Apk2A" "https://maps.app.goo.gl/PwwVFKTJsoXpoH7w9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E5%B3%B6" "スチュアート島" %}}。</li>
         <li>ホワイト島という離島が北島の上にある{{% ex "https://maps.app.goo.gl/iz9sKhNpVtBCxkoX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E5%B3%B6" "ホワイト島" %}}</li>
         <li>アンティポディーズ諸島にはペンギンやオットセイがいる{{% ex "https://maps.app.goo.gl/7AcmQ9Kgxs8Aph3A9" "https://maps.app.goo.gl/vbqGVhydUFoQqRBo8" %}}</li>
@@ -152,6 +156,16 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 </div>
 
 {{% tabs %}}
+{{% tab "Otago Central Rail Trail" %}}
+
+{{% notice tip %}}
+とても長いサイクリングロード。赤い何かが見えることが多い{{% ex "https://maps.app.goo.gl/J4ho5qEkRmBfyi7bA" "https://maps.app.goo.gl/2hrjmWbYRNvauiiw5" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./rail_trail_going_north_0.jpg">
+</div>
+{{% /tab %}}
 {{% tab "スチュアート島" %}}
 
 {{% notice tip %}}

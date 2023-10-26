@@ -60,6 +60,9 @@ sc: [
 {{% notice tip %}}
 オレンジ背景で矢印の先に番号が書かれた道路看板がある{{% ex "https://goo.gl/maps/WSbgRzWJGWH8zm499" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/EnKQb9jXrnYZFwMn6" "https://goo.gl/maps/ohLRtSMpm1L5cc487" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/ALoiF4H53WEcrG5NA" "https://goo.gl/maps/6U9mdfSMpB3PT77C6" "https://goo.gl/maps/rHnSKBBK62eXjC7g7" %}}。白背景の場合も黒い線の輪郭がある。看板の違いを見れば国境にある橋だとわかることも{{% ex "https://goo.gl/maps/Y9pyFhzPJVuRFNPx6" "https://goo.gl/maps/swsX747LgrLBTmGQ9" %}}。
 {{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./junction_traffic_island_road.jpg" width="95%">
+</div>
 
 <div class="googlemap-if unclickable">
 <img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px">
@@ -76,7 +79,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/30845644@N04/8368869923/" title="Haltestelle"><img src="https://live.staticflickr.com/8185/8368869923_8a1e1ed8d3_z.jpg" width="640" height="480" alt="Haltestelle"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./bushaltestelle_nvv_rothenberg.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable">
@@ -87,6 +90,9 @@ sc: [
 {{% notice tip %}}
 白やオレンジの反射板のボラードがある{{% ex "https://goo.gl/maps/oAqKAnyqKh2TiRsGA" "https://goo.gl/maps/7yND6Q4vTcujDY3j7" "https://goo.gl/maps/erc84T8ZBAf7BWGaA" "https://goo.gl/maps/bpnFa6UKkR3pvDby5" %}}。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./steeple_road_fog_fog_0.jpg" width="90%">
+</div>
 
 <div class="googlemap-if unclickable">
 <img src="./bollard.png" width="150px" alt="ドイツのボラード" />
