@@ -32,21 +32,20 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-
 {{% notice tip %}}
-Google Carの右前に長いアンテナがある。{{% goto "../guam/" "グアム" %}}や{{% goto "../../n_america/puerto-rico/" "プエルトリコ" %}}にもアンテナがあるので注意。
+観光客の半分以上が日本人で構成されているという。そのため店の看板や旗に日本語が見つかるときがある{{% ex "https://maps.app.goo.gl/QRcQhgy8FGDyCMAHA" "https://maps.app.goo.gl/sE22VvQ9QR7z6PTe8" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683473042222!6m8!1m7!1safrS82f1nqI__b_6b6fQDw!2m2!1d15.21143473229066!2d145.7537668222292!3f169.99762325557893!4f-24.22246046686091!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683473070469!6m8!1m7!1s2xecjquaWafeamDwL4-hoA!2m2!1d15.1290838366527!2d145.710794200048!3f73.60467558506429!4f-26.3891850886774!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="960px-Hafa-Adai_Shopping_Center.jpg" width="95%">
+<img src="./960px-I_Love_Saipan.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
-観光客の半分以上が日本人で構成されているという。そのため店の看板や旗に日本語が見つかるときがある。
+Google Carの右前に長いアンテナがある{{% ex "https://maps.app.goo.gl/CtvQ3CWNaKSv92zp7" "https://maps.app.goo.gl/5GaZdPk3xco3unRe9" %}}。{{% goto "../guam/" "グアム" %}}や{{% goto "../../n_america/puerto-rico/" "プエルトリコ" %}}にもアンテナがあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686243885053!6m8!1m7!1seaVLciIGU5mpcKTYXM5kCA!2m2!1d15.21213187044444!2d145.7186659689378!3f311.95996391668405!4f-0.6473844945225977!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686243910182!6m8!1m7!1s3ZPrGnYwlcGzabqtIJsqiQ!2m2!1d15.21275439598329!2d145.7185270201655!3f10.587695245830737!4f5.253451041455747!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683473042222!6m8!1m7!1safrS82f1nqI__b_6b6fQDw!2m2!1d15.21143473229066!2d145.7537668222292!3f169.99762325557893!4f-24.22246046686091!5f3.325193203789971" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
 {{% /tab %}}
 {{% /tabs  %}}
