@@ -89,10 +89,6 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <p>By Yoshi Canopus - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9435271">Link</a></p>
 </div>
 
-
-
-
-
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice note %}}
@@ -137,17 +133,8 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 {{% notice tip %}}西スマトラ州にあるミナンカバウ族の伝統的なデザインの家{{% ref "https://en.wikipedia.org/wiki/Rumah_Gadang" "Rumah Gadang" %}}。母系社会であるミナンカバウでは母から娘へこの家が受け継がれるらしい。
 {{% /notice %}}
 
-<div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/6471046661/in/photolist-aRPNJ2-334udn-aRyVGV-gvmWmK-gvm1SG-o2p9pt-gvkJ4m-CuimsE-gvn2Mz-gvmrAF-B188E-o2G8Ni-gvmRV2-gvmVQh-aTeQVv-dfp5Er-6wgbb1-bWd2zL-6f9j32-B1kkC-gvmQEM-6yNJYj-6JKj7j-6iHRfD-254mhRm-Ymqg8k-Ykx93F-ddVd1k-r8H8qV-xTSqeS-rpJBG5-B2vYB-B2w2C-boRffP-B2zpk-rs2qXn-B2vhb-B2w9S-wzoKF-tENHEH-8oMg2L-8oJ5Pi-62k6UD-GRxGtj-8oJ63t-bmYcqB-2nU5qSK-2ovRfLe-3CrJwu-zWoQSL" title="Minangkabau traditional house"><img src="https://live.staticflickr.com/7026/6471046661_3a8150c85c_c.jpg" width="800" height="531" alt="Minangkabau traditional house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-{{% notice tip %}}
-一般的な家やホールだけでなく、大規模な公共施設も同様のデザインになっていることがある。画像はミナンカバウ国際空港。
-{{% /notice %}}
-
-
 <div class="googlemap-if unclickable">
-<img src="2023-08-12-02-14-06.png" width="90%" />
+<img src="2023-08-12-02-14-06.png" width="95%" />
 </div>
 
 {{% /tab %}}
@@ -227,7 +214,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 {{% tabs %}}
 {{% tab "コメ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-06-29-00-47-26.png" width="90%"/>
 </div>
 
@@ -237,7 +224,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 {{% /tab %}}
 {{% tab "コーン" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-06-29-00-49-42.png" width="90%"/>
 </div>
 
@@ -251,7 +238,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-06-29-00-50-42.png" width="90%"/>
 </div>
 
@@ -293,6 +280,27 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 <div class="googlemap-if unclickable">
 <img src="tlp.png" width="90%"/>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Kabupatenや都市名を覚える{{% ref "https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia" "List of regencies and cities of Indonesia" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Kabupaten" %}}
+
+{{% notice tip %}}
+「KAB」と略されることもある。この看板はCepuの地域{{% ref "https://id.wikipedia.org/wiki/Cepu,_Blora" "Cepu, Blora" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:00_Papan_Nama_Terminal_Cepu_(1).jpg#/media/File:00_Papan_Nama_Terminal_Cepu_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/00_Papan_Nama_Terminal_Cepu_%281%29.jpg" alt="00 Papan Nama Terminal Cepu (1).jpg" height="288" width="640"></a></p><p>By <a href="https://id.wikipedia.org/wiki/User:Mujionomaruf" class="extiw" title="id:User:Mujionomaruf">id:User:Mujionomaruf</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105505116">Link</a></p>
 </div>
 
 {{% /tab %}}
