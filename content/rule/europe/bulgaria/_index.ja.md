@@ -74,14 +74,6 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/georgivar/1178973351/in/photolist-8iniKQ-aoMjp5-2NbxGK-7rCe7U-mRAte" title="Асансьорът на Шиндлер"><img src="https://live.staticflickr.com/1314/1178973351_5b8a142434_w.jpg" width="493" alt="Асансьорът на Шиндлер"/></a>
 </div>
 
-{{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも（例<a href="https://www.google.com/maps/@42.6995059,27.2516408,0a,17y,17.68h,105.49t/data=!3m4!1e1!3m2!1sLD0DHiT-1i4jqbCVXxk63w!2e0?source=apiv3">①</a>・<a href="https://goo.gl/maps/7xKpoFArC89Vmygu5">②</a>）。VというロゴかVivacomという文字が描かれている。都市部には店も多く存在する。Bulsatcomのアンテナもある。
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-05-28-21-42-59.png" width="90%">
-<img src="2023-06-24-14-11-26.png" width="100px">
-<img src="Bulsatcom.svg" width="300px" style="margin:20px">
-</div>
-
 {{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% by %}}が他の国にもあるときはあるので即決はできないかも。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -104,7 +96,39 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687582463889!6m8!1m7!1sMFUtF3wNV7c3hvmawsRZew!2m2!1d43.63553990209944!2d27.15682607109606!3f150.38357125903192!4f-4.646535777799954!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "商業施設" %}}
+
+{{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも（例<a href="https://www.google.com/maps/@42.6995059,27.2516408,0a,17y,17.68h,105.49t/data=!3m4!1e1!3m2!1sLD0DHiT-1i4jqbCVXxk63w!2e0?source=apiv3">①</a>・<a href="https://goo.gl/maps/7xKpoFArC89Vmygu5">②</a>）。VというロゴかVivacomという文字が描かれている。都市部には店も多く存在する。Bulsatcomのアンテナもある。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-05-28-21-42-59.png" width="90%">
+<img src="2023-06-24-14-11-26.png" width="100px">
+<img src="Bulsatcom.svg" width="300px" style="margin:20px">
+</div>
+{{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>中央バルカン国立公園のBotev山の山頂にはテレビ塔がある{{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}{{% ref "https://en.wikipedia.org/wiki/Botev_Peak" "Botev Peak" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Botev Peak" %}}
+{{% notice tip %}}
+初見では無理{{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./botev_peak.jpg">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
 
 {{% imgref %}}
 <li>By <a href="//commons.wikimedia.org/wiki/User:Edal" title="User:Edal">Edal Anton Lefterov</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15140198">Link</a></li>
