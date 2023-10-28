@@ -31,8 +31,7 @@ plonkit: true
 <span class="quiz">Triangular flags, colored in red and white,</span> line the front of houses and streets.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681123169184!6m8!1m7!1s6inKIZzEa3NfnGLkKd3SHA!2m2!1d-7.437631598558037!2d111.2137910224957!3f175.5818389161207!4f13.847072777968094!5f2.748336797787689" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><a href="https://commons.wikimedia.org/wiki/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg#/media/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Independence_Day_Canival_in_Bantul_Indonesia.jpg" alt="Independence Day Canival in Bantul Indonesia.jpg" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8360434@N06">Yan Arief Purwanto</a> from Yogyakarta, Indonesia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8360434@N06/1180032144/">IMG_9328</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8456692">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -46,9 +45,8 @@ Signs for <span class="quiz">Alfa Mart</span> (convenience store), <span class="
 {{% notice tip %}}
 <span class="quiz">Cigarettes</span> are often sold on the street. If it says "18+" without a picture of cigarettes, it is an advertisement for cigarettes; if it says "GGSP", it is a goodwill about the cigarette manufacturer Gudang Garam Tbk PT.
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681123649144!6m8!1m7!1sIfcsuEIlVqEMwkPPYJg9Pw!2m2!1d0.585178825786272!2d101.3853830961266!3f172.409679315489!4f4.21978728436487!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if" style="pointer-events:none;">
+<img src="./adv.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

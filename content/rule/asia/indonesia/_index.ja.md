@@ -42,8 +42,15 @@ sc: [
 {{% notice tip %}}
 家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗{{% ex "https://maps.app.goo.gl/gk6Zdq6fbeT6XWoy8" "https://goo.gl/maps/QF7ttzg7fWna6QbM6" "https://goo.gl/maps/1unn5tAUEMRCgbBo7" %}}やカラフルな旗{{% ex "https://goo.gl/maps/FG82oDNXkTxkYN5w8" "https://goo.gl/maps/tVLNrpfpdTRTzdVM7" %}}が並んでいる。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679418842058!6m8!1m7!1sDkOms0nwM3VLcLulen7Q9A!2m2!1d-7.138642207851226!2d112.0839182746857!3f73.27854046841789!4f0.17932380137330028!5f3.3209763096529796" width="525" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg#/media/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Independence_Day_Canival_in_Bantul_Indonesia.jpg" alt="Independence Day Canival in Bantul Indonesia.jpg" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8360434@N06">Yan Arief Purwanto</a> from Yogyakarta, Indonesia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8360434@N06/1180032144/">IMG_9328</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8456692">Link</a></p>
+</div>
+
+{{% notice tip %}}
+瓦やトタンの屋根が多い。北ほどトタンの割合が高い。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./house.jpg">
 </div>
 
 {{% notice tip %}}
@@ -63,9 +70,8 @@ sc: [
 {{% notice tip %}}
 道端で<span class="quiz">タバコ</span>がよく売られている{{% ex "https://goo.gl/maps/famuKArJo35iqqTf6" "https://goo.gl/maps/r1YhkdzHhBrUChEVA" "https://goo.gl/maps/2NxrDJLbyFLVCvML9" %}}。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681123521434!6m8!1m7!1swbWijWsNKQOs7wVYQszpxw!2m2!1d-6.580673973100997!2d106.0645476758596!3f175.45875597700655!4f-0.27278946161943907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681123649144!6m8!1m7!1sIfcsuEIlVqEMwkPPYJg9Pw!2m2!1d0.585178825786272!2d101.3853830961266!3f172.409679315489!4f4.21978728436487!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if" style="pointer-events:none;">
+<img src="./adv.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
