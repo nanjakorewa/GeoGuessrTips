@@ -166,21 +166,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>IquitosとNautaの主な交通手段はリキシャ（Rickshaws）{{% ex "https://maps.app.goo.gl/abhZuGXxhQnGXYxL7" "https://maps.app.goo.gl/jZGHodnwsToffUdQ8" %}}</li>
         <li>タクシーに緑色のステッカーがあると<span class="quiz">キト</span>かも{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}</li>
     </ul>
 </div>
-
-
-{{% tabs %}}
-{{% tab "Iquitos" %}}
-{{% notice tip %}}
-Iquitosは外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。25,000台以上のオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またヨーロッパ風の建築が多い。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<img src="iquitosmoto.jpg" width="90%">
-<img src="iron_house_iquitos.jpg" width="90%">
-</div>
-
-{{% /tab %}}
-{{% /tabs %}}
