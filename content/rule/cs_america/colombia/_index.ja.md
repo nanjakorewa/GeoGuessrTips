@@ -86,7 +86,13 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>北東の内陸：サバンナ</li>
+        <li>植生の分布
+            <ul>
+                <li>北東の内陸{{% color "#BDAA60" %}}メタ側沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
+                <li>北の海沿い{{% color "#FFF4CE" %}}砂漠があるエリア{{% ex "https://maps.app.goo.gl/oYEpDuVgXBMZHi4z5" %}}</li>
+            </ul>
+        </li>
+        <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
     </ul>
 </div>
 
@@ -101,23 +107,31 @@ sc: [
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "サバンナ" %}}
+{{% tab "北東の内陸" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695092936550!6m8!1m7!1sKtVNpYqAChwVIbS9NVQzUA!2m2!1d4.862449440287744!2d-71.72632279124731!3f164.5840677597434!4f0.5640005247158371!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695093011695!6m8!1m7!1sYS6llO69H9wDnK4lXZMVjg!2m2!1d4.62827564681296!2d-71.51255306646532!3f98.38560507105616!4f9.95777762781087!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698477978676!6m8!1m7!1sJ7PxXLjpjpVyDVlXzarldg!2m2!1d5.83751805366215!2d-71.56842506393753!3f96.78577479284539!4f-4.90967899975233!5f0.4000000000000002" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695093011695!6m8!1m7!1sYS6llO69H9wDnK4lXZMVjg!2m2!1d4.62827564681296!2d-71.51255306646532!3f98.38560507105616!4f9.95777762781087!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
+{{% notice tip %}}同じく平坦な場所が西の10番道路沿いに広がっているけれど、10番道路沿いは気候が異なり雨が多く振る。木の密度は全然違う{{% ex "https://maps.app.goo.gl/PjorPi5GVgMNDuHq7" "https://maps.app.goo.gl/8GPCYkGV9GXnvefL7" %}}。
 {{% /notice %}}
+
+{{% /tab %}}
+{{% tab "北の海沿い" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698478231917!6m8!1m7!1sXYa1y5q7TWzM83XW_5REOQ!2m2!1d12.22138283185131!2d-72.00399523440888!3f159.2251834180408!4f8.102522936338175!5f0.4466155912658266" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698478274621!6m8!1m7!1s7UcHWQsa0hieX278UgxqWQ!2m2!1d11.99291092021987!2d-72.13943591872511!3f198.742220149102!4f-0.7741004515764303!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
 
 
 <div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
-        <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
+        <li>ゴルゴナ島という離島がある</li>
     </ul>
 </div>
 
@@ -129,14 +143,21 @@ sc: [
 <img src="2023-08-06-19-01-33.png" width="80%" />
 </div>
 {{% /tab %}}
+{{% tab "ゴルゴナ島" %}}
+{{% notice tip %}}ゴルゴナ島という離島がある、車や標識はなく知らなければ置くのは難しい。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1691324544096!6m8!1m7!1sva7Z7ZrXNwu3BHfEkplsaw!2m2!1d2.964943901338966!2d-78.17279365172386!3f327.48204039154035!4f3.629358793575335!5f0.7626066508291676"width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
+
+
 <div class="main-desciption city-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
         <li>タクシーとトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある</li>
-        <li>ゴルゴナ島という離島がある</li>
     </ul>
 </div>
 
@@ -158,13 +179,6 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./colombia_kartagena_south_america.jpg">
-</div>
-{{% /tab %}}
-{{% tab "ゴルゴナ島" %}}
-{{% notice tip %}}ゴルゴナ島という離島がある、車や標識はなく知らなければ置くのは難しい。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691324544096!6m8!1m7!1sva7Z7ZrXNwu3BHfEkplsaw!2m2!1d2.964943901338966!2d-78.17279365172386!3f327.48204039154035!4f3.629358793575335!5f0.7626066508291676"width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
