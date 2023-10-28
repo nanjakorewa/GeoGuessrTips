@@ -38,11 +38,12 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-レンガで作られた建築物が多い
+レンガで作られた建築物が多い。下の写真はネアンデルタール人の化石が発見されたSchmerling洞窟周辺{{% ref "https://en.wikipedia.org/wiki/Schmerling_Caves" "Schmerling Caves" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/gonzo_pz/10827116965/" title="Leuven"><img src="https://live.staticflickr.com/5484/10827116965_3d4929a99f_z.jpg" width="640" height="428" alt="Leuven"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<img src="./belgium_bruges_middle_ages_2.jpg" width="95%">
+<img src="schmerling_caves03.jpg" width="95%" />
 </div>
 
 
@@ -55,10 +56,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}ものがある。
+ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}が、はっきりと見えないことも多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686781763883!6m8!1m7!1sjGQoSMncdFmLv_X-mMRDtg!2m2!1d50.00212844820196!2d5.717291282505589!3f259.8504663401784!4f-3.2784055178747877!5f1.8828745806696512" width="540" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./porsche_brugge_street_car.jpg" width="95%">
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-05-43-30.png)
@@ -110,6 +111,12 @@ sc: [
                 <li>{{% ref "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}</li>
             </ul>
         </li>
+        <li>南の方は{{% goto "../luxembourg/" "ルクセンブルグ" %}}や{{% goto "../germany/" "ドイツ" %}}西部などの家に似て屋根が黒いことが多い
+            <ul>
+                <li>南{{% ex "https://maps.app.goo.gl/z8y9qGrVTaeyBNc36" %}}</li>
+                <li>北～中央付近{{% ex "https://maps.app.goo.gl/kHu4PajzgrVHjBBp6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -120,6 +127,22 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-en.svg#/media/ファイル:Provinces_of_Belgium_with_CoA-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Provinces_of_Belgium_with_CoA-en.svg/1200px-Provinces_of_Belgium_with_CoA-en.svg.png" alt="Provinces of Belgium with CoA-en.svg" width="80%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Lordsutch" title="User:Lordsutch">Lordsutch</a>, based on Greek version by <a href="//commons.wikimedia.org/wiki/User:Wikibelgiaan" title="User:Wikibelgiaan">Wikibelgiaan</a> - <a href="//commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-el.svg" title="File:Provinces of Belgium with CoA-el.svg">File:Provinces_of_Belgium_with_CoA-el.svg</a>, </p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60005619">（Link）</a></p>
+</div>
+{{% /tab %}}
+{{% tab "家の見た目" %}}
+{{% notice tip %}}
+南の町の家{{% ex "https://maps.app.goo.gl/nF72GGgq7AFQ5UFw8" %}}
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./moulin_soulme2.jpg" width="90%">
+</div>
+<br />
+
+{{% notice tip %}}
+中央付近の町の家
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./eizer_f.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -134,7 +157,7 @@ sc: [
 {{% tabs %}}
 {{% tab "看板のロゴ" %}}
 {{% notice tip %}}
-小さく書いてあるので見えないことも多い。左の看板の場合、右上のロゴから南の地域と分かる。地名の『Martelange{{% ex "https://goo.gl/maps/2vZj9M9wfCjH6UAs6" %}}』を見つけられればさらに絞り込める。
+小さく書いてあるので見えないことも多い。左の看板の場合、右上のロゴやフランス語の表記から南の地域と分かる。地名の『Martelange{{% ex "https://goo.gl/maps/2vZj9M9wfCjH6UAs6" %}}』を見つけられればさらに絞り込める。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
