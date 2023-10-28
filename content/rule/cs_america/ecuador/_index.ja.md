@@ -136,8 +136,8 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>アブラヤシのプランテーションがあるのは北の方に限られる{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}</li>
-        <li>ガラパゴス諸島が出ることがある・亀が山の上に居たら{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}</li>
         <li class="no-evidence">田んぼはグアヤキルに流れ込む川沿いに多い{{% ex "https://goo.gl/maps/PGuRCKXj3J6Kkm6M9" "https://goo.gl/maps/8s4iDPMAxAHzCTUF7" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}</li>
+        <li>{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}が出ることがある</li>
     </ul>
 </div>
 
@@ -150,9 +150,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <img src="2023-05-23-04-26-04.png" width="90%">
 </div>
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684783638204!6m8!1m7!1sDA2RicV2JwheAUEG73JZZg!2m2!1d1.256459675985798!2d-78.74124942090808!3f150.86690501682244!4f-0.1798337100882037!5f2.748077413619822" width="550" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "田んぼ" %}}
 {{% notice tip %}}
@@ -169,6 +166,21 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>IquitosとNautaの主な交通手段はリキシャ（Rickshaws）{{% ex "https://maps.app.goo.gl/abhZuGXxhQnGXYxL7" "https://maps.app.goo.gl/jZGHodnwsToffUdQ8" %}}</li>
         <li>タクシーに緑色のステッカーがあると<span class="quiz">キト</span>かも{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}</li>
     </ul>
 </div>
+
+
+{{% tabs %}}
+{{% tab "Iquitos" %}}
+{{% notice tip %}}
+Iquitosは外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。25,000台以上のオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またヨーロッパ風の建築が多い。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="iquitosmoto.jpg" width="90%">
+<img src="iron_house_iquitos.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
