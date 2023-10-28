@@ -89,7 +89,8 @@ sc: [
         <li>植生の分布
             <ul>
                 <li>北東の内陸{{% color "#BDAA60" %}}メタ側沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
-                <li>北の海沿い{{% color "#FFF4CE" %}}砂漠があるエリア{{% ex "https://maps.app.goo.gl/oYEpDuVgXBMZHi4z5" %}}</li>
+                <li>最北の海沿い{{% color "#FFF4CE" %}}砂漠があるエリア{{% ex "https://maps.app.goo.gl/oYEpDuVgXBMZHi4z5" %}}</li>
+                <li>北の海沿い{{% color "#FFD37F" %}}白い砂が見えたり街中の道路の角に砂がたまっていることがある{{% ex "https://maps.app.goo.gl/kHgoHB4fA9Dmq6xw7" "https://maps.app.goo.gl/ntuZu5v7CPgBsBGSA" %}}
             </ul>
         </li>
         <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
@@ -117,11 +118,20 @@ sc: [
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "北の海沿い" %}}
+{{% tab "最北の海沿い" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1698478231917!6m8!1m7!1sXYa1y5q7TWzM83XW_5REOQ!2m2!1d12.22138283185131!2d-72.00399523440888!3f159.2251834180408!4f8.102522936338175!5f0.4466155912658266" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1698478274621!6m8!1m7!1s7UcHWQsa0hieX278UgxqWQ!2m2!1d11.99291092021987!2d-72.13943591872511!3f198.742220149102!4f-0.7741004515764303!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+{{% /tab %}}
+{{% tab "北の海沿い" %}}
+<div class="googlemap-if no-margin">
+<img src="./barranquilla_autopista_al_mar.jpg">
+</div>
+
+{{% notice tip %}}写真は恐らくバランキージャ周辺の道路{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B8%E3%83%A3" "バランキージャ" %}}。
+{{% /notice %}}
 
 {{% /tab %}}
 {{% /tabs %}}
@@ -140,7 +150,7 @@ sc: [
 {{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-08-06-19-01-33.png" width="80%" />
+<img src="ar236201.jpg" width="80%" />
 </div>
 {{% /tab %}}
 {{% tab "ゴルゴナ島" %}}
