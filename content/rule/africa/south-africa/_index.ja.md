@@ -17,6 +17,7 @@ sc: [
     ["../lesotho/", "レソト"],
     ["../eswatini/", "エスワティニ"],
     ["../../oceania/australia/", "オーストラリア"],
+    ["../botswana/", "ボツワナ"],
     ]
 ---
 
