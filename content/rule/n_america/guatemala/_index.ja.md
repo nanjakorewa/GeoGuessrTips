@@ -119,8 +119,9 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 世界遺産であるティカルの遺跡を歩いている{{% ex "https://maps.app.goo.gl/2PxHKTUMz8AyYWVi6" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
-<img src="Castillo_De_San_Felipe.jpg" width="90%" />
+<div class="googlemap-if unclickable no-margin">
+<img src="guatemala_tikal_maya_civilization.jpg" width="90%">
+<img src="mayan_pyramid_guatemala.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
