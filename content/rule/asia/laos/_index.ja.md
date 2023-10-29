@@ -99,11 +99,24 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
-
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">通りの看板？</li>
+        <li class="no-evidence">ヴァンヴィエンでは石灰石の山が見える{{% ex "https://maps.app.goo.gl/NPGHX2T8LUJg8KhY7" "https://maps.app.goo.gl/9kmaAuPP1NbnF5vMA" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ヴァンヴィエン" %}}
+<div class="googlemap-if">
+<img src="./laos_vang_vieng_river.jpg">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li class="no-evidence">通りの看板が町ごとに異なる</li>
     </ul>
 </div>
 
