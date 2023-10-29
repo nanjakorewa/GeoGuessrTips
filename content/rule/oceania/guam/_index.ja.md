@@ -45,11 +45,10 @@ Google Carが特徴的で長いアンテナが右前にある。{{% goto "../nor
 
 
 {{% notice tip %}}
-砂浜の上を歩く場所があり高層の観光ホテルが見えることが多い
+砂浜の上を歩く場所があり高層の観光ホテルが見えることが多い{{% ex "https://maps.app.goo.gl/VfVdmZoRViGfFB9V6" "https://maps.app.goo.gl/iesPnEJB7xNqa5Mv6" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689605355126!6m8!1m7!1sQlmS-stPc4Z8hGyPJfRSmQ!2m2!1d13.51956638117299!2d144.8062833044895!3f324.09276927033267!4f-1.1611460097838204!5f0.8473096448948793"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689605395062!6m8!1m7!1s8Aj4UQYkavoCwh6ot4EVpA!2m2!1d13.48239779994021!2d144.7701175075356!3f6.036586572029697!4f1.4791176919620312!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./hotel_nikko_guam.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "家" %}}
