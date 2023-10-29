@@ -36,13 +36,12 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-赤・白・青・黄のナンバープレートがある。普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が<span class="quiz">黄</span>色と<span class="quiz">黒</span>色のストライプになっている。
+赤・白・青・黄のナンバープレートがある{{% ex "https://maps.app.goo.gl/vW2UDexepSRXxtdT6" %}}。普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が<span class="quiz">黄</span>色と<span class="quiz">黒</span>色のストライプになっている{{% ex "https://maps.app.goo.gl/1pUjkwCxyRGCYcGH7" %}}。以下は首都ハボローネ（Gaborone）の街並み。
 {{% /notice %}}
 
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683912190956!6m8!1m7!1s_hF2bGslvpvaZZ7psdj6xQ!2m2!1d-24.64165295690238!2d25.90896005945885!3f261.41986013549393!4f-15.63359083496556!5f1.7439966301749679" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683911985476!6m8!1m7!1s-hsOfiv7Lna0aKPKagstEA!2m2!1d-21.16903091824322!2d27.51087023313817!3f124.44413761855344!4f-13.5940775066058!5f2.604790428006194" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./gaboronestreetscene.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -57,10 +56,11 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 
 
 {{% notice tip %}}
-カラハリ砂漠があり周りを見渡すと平らな景色が広がっている。ほとんどの地域で低木や草がまばらに広がっている。舗装された道路の両サイドには木はほとんど生えていない。
+カラハリ砂漠があり周りを見渡すと平らな景色が広がっている。ほとんどの地域で低木や草がまばらに広がっている。舗装された道路の両サイドには木はほとんど生えていない{{% ex "https://maps.app.goo.gl/gR9ALGNrNKVTfJZY9" "https://maps.app.goo.gl/Ln49sP8VrhzCwLVr9" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Trans-Kalahari Highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./botswana_elephant_road_1653101.jpg" width="640">
 </div>
 
 {{% notice tip %}}
