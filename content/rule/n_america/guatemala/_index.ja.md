@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "GT.svg"
 no_detaile_info: true
 jetro_detail: false
+plonkit: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
@@ -83,11 +84,24 @@ Google Carが特徴的
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>LívingstonはGarifunaの文化が残っており街の雰囲気が他のちがう{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3_(%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9)" "リビングストン" %}}</li>
         <li>Castillo de San Felipe de Laraへの道がある{{% ex "https://maps.app.goo.gl/2fYj5rd6J1SAMqJz5" "https://maps.app.goo.gl/1EgttnsqdoQYKBcCA" %}}</li>
+        <li>Tikalにはマヤの大都市の遺跡が残っている{{% ex "https://maps.app.goo.gl/Uce3KYL35V6k49sY9" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Lívingston" %}}
+
+{{% notice tip %}}
+Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木が多く北に海が見える{{% ex "https://maps.app.goo.gl/2683y3HP3uyh6k94A" "https://maps.app.goo.gl/xQPhksQLPC55ZxKi9" %}}。赤いトゥクトゥクが多い気がする{{% ex "https://maps.app.goo.gl/vx9RaMDEHX56QqJ2A" %}}。チキンバスは見られない。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./livingston_guatemala.jpg" width="95%">
+</div>
+
+{{% /tab %}}
 {{% tab "Castillo de San Felipe de Lara" %}}
 
 {{% notice tip %}}
@@ -99,4 +113,16 @@ Google Carが特徴的
 </div>
 
 {{% /tab %}}
+{{% tab "Tikal" %}}
+
+{{% notice tip %}}
+世界遺産であるティカルの遺跡を歩いている{{% ex "https://maps.app.goo.gl/2PxHKTUMz8AyYWVi6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="Castillo_De_San_Felipe.jpg" width="90%" />
+</div>
+
+{{% /tab %}}
+
 {{% /tabs %}}
