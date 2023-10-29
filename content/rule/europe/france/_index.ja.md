@@ -65,7 +65,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある。
+ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/i1umiKo5td1rHBTs8" "https://maps.app.goo.gl/V5cCue1NdtqRg3Y16" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
