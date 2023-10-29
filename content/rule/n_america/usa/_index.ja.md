@@ -336,6 +336,11 @@ maps: [
 <div class="main-desciption country-description">
     <h4 class="section-title">その他</h4>
     <ul class="rule-list">
+        <li>迷路のような住宅街からスタートするときはSTOPの看板の裏側が見える道を避けると大き目の道路に出られるかも{{% ref "https://www.twitch.tv/saclearchan" "第一回GeoGuessrピンポイント学会_ダッシュ操作テクニック、アメリカの州道標識暗記法、CoopAOW25kSpeedrun" %}}
+            <ul>
+                <li>{{% goto "https://maps.app.goo.gl/MwTvTegi9C3M5nr38" "具体例" %}} 南西以外はSTOP看板の裏面や「NO OUTLET」の看板が見える。南西に向かうと東にSTOP看板の表が見えるのでそちらに移動すると大きい道路に出ることができる。</li>
+            </ul>
+        </li>
         <li class="no-evidence">ガソリンスタンドの分布が会社ごとに違う{{% ref "https://www.scrapehero.com/location-reports/10-largest-gas-stations-in-the-usa/#3143" "10 Largest gas stations in the United States in 2023" %}}
             <ul>
                 <li>Chevron→南の海沿いの州か西海岸の州</li>
@@ -351,6 +356,23 @@ maps: [
 
 
 {{% tabs %}}
+{{% tab "STOP" %}}
+{{% notice tip %}}
+STOPは基本的に細い道から太い道に出る場合に立てられている。そのためSTOP看板の裏側が見える道に入ろうとする＝より細い道に入ろうとしている。STOP看板の表が見える＝より太い道に入ろうとしている。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./stop_sign_united_states.jpg">
+</div>
+
+{{% notice tip %}}
+NO OUTLET(出口なし)やDEAD END(行き止まり)の看板がある道も入るべきではない。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./no_outlet_sign_1.jpg" width="300px">
+<img src="./quot_dead_end_quot.jpg" width="335px">
+</div>
+
+{{% /tab %}}
 {{% tab "ガソリンスタンド" %}}
 {{% notice tip %}}
 自作なので正しくないかも
