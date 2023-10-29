@@ -90,7 +90,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 </div>
 
 {{% notice tip %}}
-区切りのある電柱ポールがある。また同じような形の電柱がフランスに関係のある{{% goto "../../africa/senegal/" "セネガル" %}}や{{% goto "../../africa/reunion/" "レユニオン島" %}}にも存在する。
+区切りのある電柱ポールがある。また同じような形の電柱がフランスに関係のある{{% goto "../../africa/senegal/" "セネガル" %}}や{{% goto "../../africa/reunion/" "レユニオン島" %}}にも存在する。隣国の{{% goto "../spain/" "スペイン" %}}でも仕切りのある電柱が見つかるので周りの景色も確認する。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
