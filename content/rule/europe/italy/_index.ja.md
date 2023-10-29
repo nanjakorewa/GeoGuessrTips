@@ -260,6 +260,14 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <img src="./milano_cartelli_piazza_luigi.jpg">
 </div>
 
+{{% notice tip %}}
+岩肌が見える山やてっぺんのみ木が生えていない山が見られる{{% ex "https://maps.app.goo.gl/FoAmcHSU5GbW2qyR6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Monte_Albo_(04).JPG#/media/File:Monte_Albo_(04).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Monte_Albo_%2804%29.JPG" alt="Monte Albo (04).JPG" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Discanto" title="User:Discanto">Gianni Careddu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35013305">Link</a></p>
+</div>
+
 
 {{% notice tip %}}
 街中ならATMを見ると「Banco di Sardegna」と書いてあることが多い。
