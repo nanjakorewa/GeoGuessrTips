@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../thai/", "タイ"],
     ["../cambodia/", "カンボジア"],
+    ["../../n_america/guatemala/", "グアテマラ"],
     ]
 ---
 
