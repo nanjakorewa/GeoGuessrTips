@@ -255,7 +255,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /tab %}}
 {{% tab "Iquitos" %}}
 {{% notice tip %}}
-Iquitosは外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。25,000台以上のオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またヨーロッパ風の建築が多い。
+Iquitosは外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。25,000台以上のオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またヨーロッパ風の建築が多い。同じような陸路でアクセスできない都市の例としては{{% goto "../../n_america/guatemala/#narrowdown-city" "グアテマラのLívingston" %}}などがある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="iquitosmoto.jpg" width="90%">

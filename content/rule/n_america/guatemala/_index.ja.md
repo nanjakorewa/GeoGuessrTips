@@ -81,7 +81,7 @@ Google Carが特徴的
 {{% /tabs %}}
 
 
-<div class="main-desciption area-description">
+<div class="main-desciption area-description" id="narrowdown-city">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>LívingstonはGarifunaの文化が残っており街の雰囲気が他のちがう{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%83%B3%E3%82%B0%E3%82%B9%E3%83%88%E3%83%B3_(%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9)" "リビングストン" %}}</li>
