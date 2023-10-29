@@ -46,18 +46,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱はこげ茶色の細い木でできていて１～３本のコードが張られている
+ナンバープレートが白と黄緑色に見える{{% ex "https://maps.app.goo.gl/EehLxYAT59kXPhS29" %}}。{{% goto "../south-africa/" "南アフリカ" %}}の中央部で使われるナンバープレートも同じような色に見えるので注意。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682821573530!6m8!1m7!1scKYowqlah7eCEnkXE76cqQ!2m2!1d-26.84151182200207!2d30.96616186490692!3f66.72130030000376!4f23.399425204274294!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682821665705!6m8!1m7!1stvXX7dOvI9y9u1ynHviBhQ!2m2!1d-27.02500643545952!2d31.93532396224216!3f344.43606243762974!4f12.645054239222944!5f1.655499308789675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-ナンバープレートが白と黄緑色に見える。{{% goto "../south-africa/" "南アフリカ" %}}の中央部で使われるナンバープレートも同じような色に見えるので注意。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686315521446!6m8!1m7!1sx2W_8QdSo1XWfGZuW7m0rw!2m2!1d-26.38619079032152!2d31.17023469102327!3f68.27969989031288!4f-27.929373629586024!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg#/media/File:SZ-manzini-zufahrt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg" alt="SZ-manzini-zufahrt.jpg" width="95%"></a></p><p>By User: Bgabel at wikivoyage shared, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22958562">Link</a></p>
 </div>
 
 
