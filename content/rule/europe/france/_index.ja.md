@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" %}}や消しゴムみたいな形のものもある{{% ex "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
+ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://maps.app.goo.gl/qzkn8MagASXKwpau6" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" %}}や消しゴムみたいな形のものもある{{% ex "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./b2.png" width="90%" alt="フランスのボラード" />
@@ -65,7 +65,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/i1umiKo5td1rHBTs8" "https://maps.app.goo.gl/V5cCue1NdtqRg3Y16" %}}。
+ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/i1umiKo5td1rHBTs8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
