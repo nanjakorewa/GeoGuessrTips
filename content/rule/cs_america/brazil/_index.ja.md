@@ -57,15 +57,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナを使う。ただしこれだけでは確定できないと思う。
+家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナを使う{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}。ただしこれだけでは確定できない。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681050515831!6m8!1m7!1sR4yRqn1b6KjOTq2N3d71yg!2m2!1d-23.85584902304706!2d-50.19166538759058!3f18.826192035204055!4f11.51661489691665!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680562511215!6m8!1m7!1sZw0Wa2bHwrVo4G0talSJBg!2m2!1d-4.575281620209909!2d-44.65465530257557!3f114.024883564455!4f-2.6355661063917495!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./house.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
-トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。南米石油最大手ペトロブラスのガソリンスタンドもあるかも。
+トラック・バス・タクシーの車両のナンバープレートが<span class="quiz">赤かった</span>り文字が<span class="quiz">赤</span>かったりする。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -77,9 +76,17 @@ sc: [
 By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
 {{% /lb %}}
 
+
+{{% notice tip %}}
+南米石油最大手ペトロブラスのロゴがある{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./petrobras_no_b_laranjeiras.jpg" width="95%">
+</div>
+
 <div class="googlemap-if unclickable">
-<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
 <img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
 </div>
 
 
@@ -123,8 +130,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682559270498!6m8!1m7!1sl4rG3sImY4tXAM7Xo3DQbQ!2m2!1d-23.68681761845187!2d-46.55962297720377!3f271.48628413029036!4f9.5232445040877!5f3.200937495267487" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679461245782!6m8!1m7!1sd9-lA_bvuBlj__yNbzrreg!2m2!1d-15.82481714082121!2d-47.91748284148251!3f11.314792930822987!4f7.602114101704018!5f1.795700616901987" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./banco_itau_agencia_leblon.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -140,6 +146,51 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>市外局番のエリアコードで範囲を絞ることができる</li>
+        <li>「BR XX」と道路番号が書かれた看板が道端に立っている</li>
+        <li>Florianópolis{{% ex "https://maps.app.goo.gl/UYoZ3wNXEkQd2csS6" %}}を中心に{{% goto "../../europe/azores/" "アゾレス諸島" %}}からの移民の影響を受けたヨーロッパ風の建築が見られる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+
+{{% notice tip %}}
+1がサンパウロ、2がリオデジャネイロ。基本的に東から西へと数字が大きくなる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
+<p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
+</div>
+{{% /tab %}}
+{{% tab "BRの看板" %}}
+
+{{% notice tip %}}
+いきなり道路番号を探すのはかなり難しいので周りの雰囲気から地域を絞り込んだ上で探してみる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./rodovia_br460_carmo_de.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Florianópolis周辺" %}}
+
+{{% notice tip %}}
+建設時に{{% goto "../../europe/azores/" "アゾレス諸島" %}}出身のポルトガル人が多く入植した影響でヨーロッパ系移民を先祖に持つ市民が多くを占めている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B9" "フロリアノーポリス" %}}。ドイツ系とイタリア系の移民が多く、建築もヨーロッパ風のものが多い。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Arauc%C3%A1ria_-_centro_-_panoramio.jpg#/media/File:Araucária_-_centro_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arauc%C3%A1ria_-_centro_-_panoramio.jpg" alt="Araucária - centro - panoramio.jpg" height="720" width="90%"></a></p><p>By dnsilva1, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53785493">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">植生</h4>
     <ul class="rule-list">
         <li>地域ごとに植生と土の色が異なる
             <ul>
@@ -207,6 +258,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">特徴的な植物</h4>
     <ul class="rule-list">
         <li>特定の地域や州が分かる木
             <ul>
@@ -220,8 +272,8 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 
 {{% tabs %}}
 {{% tab "パラナ松" %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title=""Araucaria angustifolia" "Araucaria brasiliense" "Brazilian pine" Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt=""Araucaria angustifolia" "Araucaria brasiliense" "Brazilian pine" Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="Araucaria angustifolia　Araucaria brasiliense　Brazilian pine Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="Araucaria angustifolia Araucaria brasiliense Brazilian pine Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -229,7 +281,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "ブラジルロウヤシ" %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Carnauba.jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Link</a></p>
 </div>
 
@@ -238,7 +290,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "ババス" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="2023-05-07-20-45-47.png" />
 </div>
 
@@ -247,7 +299,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "シアグルス・コロナタ" %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Syagrus coronata 12zz.jpg" width="70%"></a></p><p>By Photo by David J. Stang - source: David Stang. First published at ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Link</a></p>
 </div>
 
@@ -256,7 +308,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "アサイー" %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Euterpe precatoria (19866677541).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> from Gibsons, B.C., Canada - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Link</a></p>
 </div>
 
@@ -265,7 +317,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Eucalyptus Grandis" %}}
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Eucalyptus grandis Kerewong State Forest 55 metres tall.jpg" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Link</a></p>
 </div>
 
@@ -275,60 +327,30 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /tab %}}
 {{% /tabs %}}
 
-
 <div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>市外局番のエリアコードで範囲を絞ることができる</li>
-        <li>ブラジル国道の看板にBA-XXXと道路番号が書かれている</li>
-        <li>電柱にブラジルの電力会社名が書かれていることがある。ニューヨーク証券取引所に上場しているある程度有名な会社は以下３つ。
-            <ul>
-                <li>ブラジル電力(Eletrobras)→ブラジル全域どころかアフリカにまで進出している</li>
-                <li>パラナ電力(<span class="quiz">COPEL</span>)→パラナ州</li>
-                <li><a href="https://ri.cemig.com.br/en">ミナスジェライス電力</a>(<span class="quiz">CEMIG</span>)→ミナスジェライス州</li>
-                <li>黄色く塗られた領域がある場合は<span class="quiz">マラニョン</span>州{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "【Geo Cup】日本最強による大会フル解説！！【翻訳】【Geoguessr】" %}}</li>
-            </ul>
-        </li>
-        <li>フェルナンド・デ・ノローニャという離島がある</li>
+        <li>フェルナンド・デ・ノローニャという離島がある{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}</li>
+        <li>ロカス環礁にストリートビューがあり灯台の跡やサンゴ礁が見える{{% ex "https://maps.app.goo.gl/ZZ9eoijN1rTtvQ1y5" "https://maps.app.goo.gl/w3qMUGwSkTzzn3qJ9" %}}</li>
     </ul>
 </div>
 
+
 {{% tabs %}}
-{{% tab "市外局番" %}}
-
-{{% notice tip %}}
-1がサンパウロ、2がリオデジャネイロ。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
-<p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
-</div>
-{{% /tab %}}
-{{% tab "ブラジル国道" %}}
-
-{{% notice tip %}}
-ブラジル国道の看板にBA-XXXと道路番号が書かれている。BAでないものは州の名前かも。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679346036684!6m8!1m7!1ssS7fc0aZdkd5U_qPGGSyVg!2m2!1d-5.093068168242144!2d-39.71072825091151!3f83.11515931234229!4f-3.8813157179055224!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679346281332!6m8!1m7!1sljLmOPodH_kyNI2rzjnC0A!2m2!1d-12.48580994913519!2d-55.68068354862751!3f54.859726474329456!4f-7.921535112165444!5f3.0982113734503045" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "電柱の文字" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681706413823!6m8!1m7!1s5m1586Xm_Ggnr6D_uzB4hg!2m2!1d-25.55162364193545!2d-49.29453003972265!3f124.95765800905457!4f-7.026184858347619!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">COPEL=パラナ電力の文字がうっすらと刻まれている</div>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681706584402!6m8!1m7!1sKRPJZSznYCA08XGBnX1KgA!2m2!1d-18.92351924835988!2d-48.28486276559771!3f42.54269421184829!4f-6.044292890950359!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="description">CEMIG=ミナスジェライス電力の文字がパイプに書かれている</div>
-</div>
-{{% /tab %}}
 {{% tab "フェルナンド・デ・ノローニャ" %}}
 {{% notice tip %}}
-電柱に穴が開いている。岩場が多く船に乗る場所もある。凄く特徴的な岩があるのでそれで分かるかも。
+電柱に穴が開いている。岩場が多く船に乗る場所もある。凄く特徴的な岩があるのでそれで分かるかも{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686046713870!6m8!1m7!1s_WfUf4zAA9WsR-vAgAtksw!2m2!1d-3.840033795944048!2d-32.40598143746431!3f40.56232607939012!4f-4.906072740501031!5f2.725273780824893" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686047006287!6m8!1m7!1sGQW9MCup8BPejz2Ng7i5Jw!2m2!1d-3.852986505136147!2d-32.4322301568117!3f49.20721600710126!4f7.004833829500242!5f3.312572759260453" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./brazil_1091369.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "ロカス環礁" %}}
+{{% notice tip %}}
+世界遺産{{% ex "https://maps.app.goo.gl/ZZ9eoijN1rTtvQ1y5" "https://maps.app.goo.gl/w3qMUGwSkTzzn3qJ9" %}}。道が無いためピンポイントで当てるのは難しい。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Atol_das_Rocas.jpg#/media/File:Atol_das_Rocas.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Atol_das_Rocas.jpg" alt="Atol das Rocas.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Rodrigonavy&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Rodrigonavy (page does not exist)">Rodrigo Pereira Barbosa</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60490963">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
