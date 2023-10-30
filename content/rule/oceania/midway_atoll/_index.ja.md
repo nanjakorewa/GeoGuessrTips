@@ -29,10 +29,11 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
+ほとんどの場合、見た瞬間ミッドウェー島と分かる{{% ex "https://maps.app.goo.gl/qbg1tR8KdCrJmzhG7" "https://maps.app.goo.gl/SocqFQcJpfixw3r88" "https://maps.app.goo.gl/DCFp5oQHmHfdSbGx5" %}}。鳥がたくさんいる島がミッドウェー島以外にもある点に注意{{% ex "https://maps.app.goo.gl/V4cbS1MmndTwDMzJ6" "https://maps.app.goo.gl/qK2WCEAYbvYYkKfb8" "https://maps.app.goo.gl/n7k78mdDSKCBAwhy5" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683461677313!6m8!1m7!1sGAdV25u08kU-py4bpjO89g!2m2!1d28.20745709594773!2d-177.3754815916076!3f43.38802899241253!4f-5.838542092352043!5f1.8674666340082728" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683536141530!6m8!1m7!1sK3_AsS83cBx-DZZ_z1UwYg!2m2!1d28.2094455263436!2d-177.3316860010156!3f243.81716253024513!4f-3.5497236992323877!5f0.4000000000000002" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./us_navy_100602_n_2.jpg" width="91%">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683461677313!6m8!1m7!1sGAdV25u08kU-py4bpjO89g!2m2!1d28.20745709594773!2d-177.3754815916076!3f43.38802899241253!4f-5.838542092352043!5f1.8674666340082728" width="90%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
