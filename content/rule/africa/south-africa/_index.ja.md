@@ -38,16 +38,15 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-防犯対策として窓の内側に<span class="quiz">バーグラーバー（Burglar Bars、鉄格子）</span>があったり、柵に有刺鉄線が付いていることが多い。また、柵にエレクトリックワイヤーが張られていることも多い。また玄関に「ADT」や「BLUE」と書かれたセキュリティ会社のシールが貼ってあることが多い{{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}。
+防犯対策として窓の外側や内側に<span class="quiz">バーグラーバー（Burglar Bars：鉄格子）</span>があったり{{% ex "https://maps.app.goo.gl/3sAmaBPytGD2pRkq5" %}}、柵に有刺鉄線が付いていることが多い{{% ex "https://maps.app.goo.gl/SkP6HyzgqXHVL7ZFA" "https://maps.app.goo.gl/hvENC5MAjubpHpzLA" %}}。また、柵にエレクトリックワイヤーが張られていることも多い{{% ex "https://maps.app.goo.gl/mtNUMtnxrEoTUPTr5" "https://maps.app.goo.gl/oLkkzAg1gpjK6kbQ6" "" %}}。また玄関に「ADT」や「BLUE」と書かれたセキュリティ会社のシールが貼ってあることが多い{{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}。以下の家は画質が低くわかりにくいが、ADTのシールが貼ってあり、柵の上にワイヤー・窓の内側に鉄格子が設置されている。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688805820460!6m8!1m7!1ssmZgrjGt7TWWCYoCbRESTA!2m2!1d-34.04274032697883!2d18.51497407381557!3f247.6366493219555!4f-2.532564184131985!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692589305891!6m8!1m7!1s7__QvM3p0BexflDHhBUVGw!2m2!1d-29.83013406863737!2d31.01124104828757!3f304.8106288063212!4f-1.2051125449800253!5f1.559993401296524" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG#/media/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Moerdyk_House%2C_274_Pomona_Street%2C_Muckleneuk%2C_Pretoria.JPG" alt="Moerdyk House, 274 Pomona Street, Muckleneuk, Pretoria.JPG" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21203696">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./adt.png" width="80px" style="margin:10px">
-<img src="./blue.png" width="82px" style="margin:10px">
+<img src="./adt.png" width="150px" style="margin:10px">
+<img src="./blue.png" width="150px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
