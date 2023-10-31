@@ -488,7 +488,7 @@ Public Domain
 {{% tab "Isla Mujeres" %}}
 
 {{% notice tip %}}
-カンクン付近にある離島。{{% goto "../../europe/italy/#Lampedusa" "イタリアのLampedusa島" %}}と同じようにバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}。
+カンクン付近にある離島。{{% goto "../../europe/italy/#Lampedusa" "イタリアのLampedusa島" %}}と同じようにバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}。写真右奥の色のバギーをよく見る。
 {{% /notice %}}
 
 <div class="googlemap-if">
