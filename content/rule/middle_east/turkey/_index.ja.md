@@ -125,8 +125,14 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>キロメートルマーカーから道路番号が読み取れる{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。</li>
-        <li>市外局番は西から東へ02（Istanbul、Izmir）～03（Ankara）～04（Şırnak、Ardahan）のイメージ？{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}</li>
+        <li>キロメートルマーカーから道路番号が読み取れる{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
+        <li>市外局番は西から東へ02～03～04のイメージ{{% by "https://en.wikipedia.org/wiki/Telephone_numbers_in_Turkey" "wiki" "Telephone numbers in Turkey" %}}
+            <ul>
+                <li>02（Istanbul・Izmirなど）{{% ex "https://maps.app.goo.gl/tpecL7t3x3D4miARA" %}}</li>
+                <li>03（Ankara・Adanaなど）{{% ex "https://maps.app.goo.gl/tQeJuMDnEwBih1GC9" %}}
+                <li>04（Şırnak・Ardahanなど）{{% ex "https://maps.app.goo.gl/a17zntH5rp4jpDXo7" "https://maps.app.goo.gl/RUPfaxRfyX1W7sxp7" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
