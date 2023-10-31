@@ -479,12 +479,23 @@ Public Domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>ユカタン半島の東にある離島にCozumelという観光地がある{{% ex "https://maps.app.goo.gl/GE3E3aSZt9Wo7Cmb7" "https://maps.app.goo.gl/CgVVq7L3ypZLgdEx7" %}}</li>
         <li>カンクン付近にIsla Mujeresという離島の観光地がありバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}</li>
         <li>Popocatépetl山付近の国立公園でGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/bxPQ1dF77uXhVFFQ7" "https://maps.app.goo.gl/5RhK5xX5r6z9Ta496" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Cozumel" %}}
+
+{{% notice tip %}}
+ユカタン半島の東にある離島の観光地。こんな感じのタクシーが多く、地名が書いてあることも{{% ex "https://maps.app.goo.gl/GE3E3aSZt9Wo7Cmb7" "https://maps.app.goo.gl/h8wqWiJfLsQc4oBz8" %}}。真っ白な砂浜が海沿いに広がっている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%"/>
+</div>
+{{% /tab %}}
 {{% tab "Isla Mujeres" %}}
 
 {{% notice tip %}}
