@@ -35,10 +35,10 @@ is_has_many_trekker: true
 </div>
 
 {{% notice tip %}}
-溶岩が見える場所もある
+火口を歩いており溶岩や煙が見える場所がある{{% ex "https://maps.app.goo.gl/Sz4bx9qWaYPkMzfU6" "https://maps.app.goo.gl/ZZMYZUsf8g1yuJDB7" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685047592676!6m8!1m7!1sI7dkBzQBmoQKp16LZc39LA!2m2!1d-16.2495099359778!2d168.1369455049903!3f161.01541138181707!4f-4.887378712484974!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="marum_sept_2009.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

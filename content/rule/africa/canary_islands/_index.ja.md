@@ -23,9 +23,10 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>スペイン領の離島</li>
+        <li><span class="quiz">スペイン</span>領の離島であり、標識のポール・ガードレール・シェブロンは本土と共通している</li>
         <li>道路番号の頭文字は島の名前から来ている（LP・TF・FV・GC・LZ・HI）</li>
         <li>ごつごつした岩肌が見える山や丸みを帯びた山がある</li>
+        <li>火山由来の島であり土が<span class="quiz">黒</span>いことが多い</li>
     </ul>
 </div>
 

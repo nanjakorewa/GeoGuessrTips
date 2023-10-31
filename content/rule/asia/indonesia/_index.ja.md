@@ -18,6 +18,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../malaysia/", "マレーシア"],
     ["../philippines/", "フィリピン"],
+    ["../../cs_america/brazil/", "ブラジル"],
     ["../../cs_america/peru/", "ペルー"],
     ["../cambodia/", "カンボジア"],
     ]

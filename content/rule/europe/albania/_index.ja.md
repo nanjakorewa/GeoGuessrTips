@@ -43,12 +43,11 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-アルバニアでは貯水タンクが屋根の上にあることが多い。多くの家庭ではタンクを屋根に置いており、ポンプで揚水している{{% ref "https://openjicareport.jica.go.jp/pdf/11808011_02.pdf" "アルバニア共和国ティラナ首都圏下水システム改善計画調査事前調査報告書 調査対象地域の概要" %}}。
+アルバニアでは貯水タンクが屋根の上にあることが多い{{% ex "https://maps.app.goo.gl/771Zx1ktEmsZRF7j9" "https://maps.app.goo.gl/kC49MYU6fuHG3bPe6" %}}。多くの家庭ではタンクを屋根に置いており、ポンプで揚水している{{% ref "https://openjicareport.jica.go.jp/pdf/11808011_02.pdf" "アルバニア共和国ティラナ首都圏下水システム改善計画調査事前調査報告書 調査対象地域の概要" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682210765274!6m8!1m7!1sfPx3IVhFKkjgHGJeQD0-bw!2m2!1d41.10951712841936!2d20.08314737646181!3f96.7482075422779!4f21.3477726723369!5f2.784325315735024" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681574002141!6m8!1m7!1sY_u-CAKrWJi8w7aruEK-mg!2m2!1d40.07775582993001!2d20.13863329250565!3f23.309818986374466!4f-3.165257971056377!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./house.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
