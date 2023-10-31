@@ -479,7 +479,7 @@ Public Domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>カンクン付近にIsla Mujeresという離島の観光地がある</li>
+        <li>カンクン付近にIsla Mujeresという離島の観光地がありバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}</li>
         <li>Popocatépetl山付近の国立公園でGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/bxPQ1dF77uXhVFFQ7" "https://maps.app.goo.gl/5RhK5xX5r6z9Ta496" %}}</li>
     </ul>
 </div>
