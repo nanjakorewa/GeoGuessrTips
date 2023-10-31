@@ -170,20 +170,20 @@ POCZTA（ポスト、赤い）
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>銀行（Narodowy Bank Polski; NBP）などの看板に町名が書いてある</li>
+        <li>Bank spółdzielczyやNarodowy Bank Polskiのような銀行の看板に町名が書いてあることが多い{{% ex "https://maps.app.goo.gl/gBhvQn9hBvKsMNMg8" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "看板" %}}
+{{% tab "銀行の看板" %}}
 
 {{% notice tip %}}
-「w」が英語での「in」の意味なのでwのあとの名前を地図で探してみる
+「w」が英語での「in」の意味なのでwのあとの名前を地図で探してみる{{% ex "" "" %}}
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684771455460!6m8!1m7!1seNPF9moNK_wzQ3K4aO-_2Q!2m2!1d53.1238343942832!2d18.00483358680646!3f188.31443418332057!4f4.297202766436001!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686480305658!6m8!1m7!1s2CINlyHuUSlKw4QRSZMmIA!2m2!1d51.13528305656072!2d16.78075545086447!3f38.62322934299134!4f5.110820825259609!5f3.2078174678824656" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./ilawa_ab_1167.jpg" width="95%">
+<img src="./miastko_039.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

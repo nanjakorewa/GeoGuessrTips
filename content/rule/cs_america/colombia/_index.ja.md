@@ -86,6 +86,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
         <li>植生の分布
             <ul>
                 <li>北東の内陸{{% color "#BDAA60" %}}メタ側沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
@@ -99,6 +100,18 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "ボラード" %}}
+{{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/bollard.png" width="70px">
+</div>
+{{% /tab %}}
 {{% tab "植生" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./pone.0043943.g001.png" width="80%" />
@@ -141,7 +154,8 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
-        <li>ゴルゴナ島という離島がある</li>
+        <li>ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}</li>
+        <li>{{% goto "../brazil/" "ブラジル" %}}と{{% goto "../peru/" "ペルー" %}}の国境付近にLeticiaという町がありGoogle Carが見える{{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
     </ul>
 </div>
 
@@ -154,10 +168,18 @@ sc: [
 </div>
 {{% /tab %}}
 {{% tab "ゴルゴナ島" %}}
-{{% notice tip %}}ゴルゴナ島という離島がある、車や標識はなく知らなければ置くのは難しい。
+{{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。車や標識はなく知らなければ置くのは難しい。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691324544096!6m8!1m7!1sva7Z7ZrXNwu3BHfEkplsaw!2m2!1d2.964943901338966!2d-78.17279365172386!3f327.48204039154035!4f3.629358793575335!5f0.7626066508291676"width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="hotel_in_gorgona.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Leticia" %}}
+{{% notice tip %}}
+陸路でつながっているブラジルのTabatingaと経済的な結び付きが強い{{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}。電柱もブラジルにあるような仕切りのある電柱が見られる{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}。観光地として栄えておりタクシーや観光客が多く見つかる。特徴的なGoogle Carが見られる{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -166,24 +188,11 @@ sc: [
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
-        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
         <li>タクシーとトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "ボラード" %}}
-{{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-<div class="googlemap-if unclickable">
-<img src="./r/bollard.png" width="70px">
-</div>
-{{% /tab %}}
 {{% tab "タクシー" %}}
 {{% notice tip %}}ステッカーにCARTAGENAと書かれている
 {{% /notice %}}

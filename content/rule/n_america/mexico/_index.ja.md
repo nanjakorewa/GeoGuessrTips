@@ -477,13 +477,24 @@ Public Domain
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>カンクン付近にIsla Mujeresという離島の観光地がある</li>
         <li>Popocatépetl山付近の国立公園でGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/bxPQ1dF77uXhVFFQ7" "https://maps.app.goo.gl/5RhK5xX5r6z9Ta496" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Isla Mujeres" %}}
+
+{{% notice tip %}}
+カンクン付近にある離島。{{% goto "../../europe/italy/#Lampedusa" "イタリアのLampedusa島" %}}と同じようにバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="la_noruega_009.jpg" width="95%"/>
+</div>
+{{% /tab %}}
 {{% tab "Popocatépetl " %}}
 
 {{% notice tip %}}
