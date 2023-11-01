@@ -100,11 +100,33 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Inishturkという離島では赤い何かが見える{{% ex "https://maps.app.goo.gl/j8DxHPDAx5dc9jK57" "https://maps.app.goo.gl/8hp2Z88SXzV4BEVi7" %}}</li>
+        <li>Inishbofinはリュックのようなものが見える{{% ex "https://maps.app.goo.gl/ZwY69ptQdXsLhfuq7" "https://maps.app.goo.gl/gtPSa1p14RA8CcjN7" %}}{{% ref "https://en.wikipedia.org/wiki/Inishbofin,_County_Galway" "イニシュボフィン" %}}</li>
         <li class="no-evidence">石油の備蓄タンクやコンテナターミナルが見えたならDublinに行ってみる{{% ex "https://goo.gl/maps/x5qrfJSjtDDqqkcR9" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Inishturk" %}}
+
+{{% notice tip %}}
+赤い何かが見える{{% ex "https://maps.app.goo.gl/j8DxHPDAx5dc9jK57" "https://maps.app.goo.gl/8hp2Z88SXzV4BEVi7" %}}。人口50人前後の島。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./inishturk_north.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Inishbofin" %}}
+
+{{% notice tip %}}
+<a href="https://www.inishbofin.com/">島の公式ホームページ</a>から分かるように観光がメインの産業。リュックのようなものが見える{{% ex "https://maps.app.goo.gl/ZwY69ptQdXsLhfuq7" "https://maps.app.goo.gl/gtPSa1p14RA8CcjN7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./inishturk_north.jpg">
+</div>
+{{% /tab %}}
 {{% tab "Dublin" %}}
 
 {{% notice tip %}}
