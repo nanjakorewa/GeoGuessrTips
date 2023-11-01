@@ -14,7 +14,6 @@ plonkit: true
 plonkit_url: "puerto-rico"
 sc_title: "間違えやすい地域"
 sc: [
-    ["../colombia/", "コロンビア"],
     ["../dominican-republic/", "ドミニカ共和国"],
     ["../../oceania/guam/", "グアム"],
     ["../../oceania/northern_mariana_islands/", "北マリアナ諸島"],
