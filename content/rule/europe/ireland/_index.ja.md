@@ -124,7 +124,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./inishturk_north.jpg">
+<img src="./inishbofin_fort.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Dublin" %}}
