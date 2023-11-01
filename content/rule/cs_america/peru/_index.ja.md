@@ -165,6 +165,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
     <ul class="rule-list">
         <li>植生は8つの自然地域に分かれていて一部は南北に広く分布している{{% ref "https://en.wikipedia.org/wiki/Life_zones_of_Peru" "Life zones of Peru" %}}
             <ul>
+                <li>Janca：非常に急峻な山がある地域で雪山が見える。アンカシュ県の内陸の方など{{% ex "https://maps.app.goo.gl/w8PqfkCeaAneRp3Y7" "https://maps.app.goo.gl/MCQKaJnpGgDna1sz6" %}}。
                 <li>Chala：一番北の海沿いの砂漠地域で白っぽい砂にわずかに低木が生えている</li>
                 <li>Omagua：東側にあるジャングルがある地域</li>
                 <li>Puna：南側に広がる標高の高い草原</li>
@@ -185,37 +186,50 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "Chala" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695252503367!6m8!1m7!1sdrx7Q_tbgd8oyq5kflGY9A!2m2!1d-5.887379278650156!2d-80.92389528314368!3f328.024104910878!4f-3.400881131295975!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695156762707!6m8!1m7!1s5NLiGPQZvhKxpSybd_PoLg!2m2!1d-4.640991899439817!2d-81.25009950188556!3f4.949927613862663!4f6.215098194581998!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{{% tab "Janca" %}}
 
 {{% notice tip %}}
-最も北の海沿いには白っぽい砂漠地帯がある。
+非常に標高が高い山がある場所がいくつかあり、ひとつめはアンカシュ県の内陸。地球上で熱帯地域での最高峰であるワスカランがある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%B9%E3%82%AB%E3%83%A9%E3%83%B3" "ワスカラン" %}}。熱帯の雰囲気なのに雪山が見えることがある{{% ex "https://maps.app.goo.gl/BmceQDndotmuY6yu7" "https://maps.app.goo.gl/w8PqfkCeaAneRp3Y7" %}}。
 {{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./paisaje_en_chiquian_bolognesi.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "Chala" %}}
+
+{{% notice tip %}}
+最も北の海沿いには白っぽい砂漠地帯がある。写真の{{% ref "https://maps.app.goo.gl/tXUVNUPNQXKgfC6X6" "Tambo Grande地域" %}}は内陸にあり木が少し生えている{{% ex "https://maps.app.goo.gl/gSyBUYfrmMEndxtS8" "https://maps.app.goo.gl/WbgVnqmtXB1zWTuB7" %}}が、海沿いは全く木が無い場所も多い{{% ex "https://maps.app.goo.gl/C7GWJrdn5rUYgFE1A" "https://maps.app.goo.gl/2VzwvJfGmr7fVYYt6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Poblaci%C3%B3_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg#/media/File:Població_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Poblaci%C3%B3_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg" alt="Població del desert al districte de Tambo Grande des de la Panamericana Norte02.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pitxiquin" title="User:Pitxiquin">Pitxiquin</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60318672">Link</a></p>
+</div>
+
 
 {{% /tab %}}
 {{% tab "Omagua" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694954824725!6m8!1m7!1suG8SC5qJ23P4a1ilsI6sJQ!2m2!1d-3.895239762919755!2d-73.34812831159923!3f332.37632527962785!4f5.422851224529879!5f1.2261179511485731" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694954696747!6m8!1m7!1sQr-5thv_vXgRqTH9d6k6ng!2m2!1d-4.502937002489709!2d-73.58783347444972!3f279.5257612027989!4f10.058378887811998!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% notice tip %}}
 北東はIquitos～Nauta間の道路にストリートビューがある。Wikiによるとヤシの木のような木が生えている。
 {{% /notice %}}
 
-{{% /tab %}}
-{{% tab "Puna" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694954030467!6m8!1m7!1s8EX7pBcGWvmfD86JleyBOw!2m2!1d-17.62872463190553!2d-69.81458697141962!3f186.52993147504796!4f5.478800255050089!5f0.6353179651854127" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695036239900!6m8!1m7!1sWnMDD9I0qfH0COlCgu3WIQ!2m2!1d-16.75042262370041!2d-69.72140039221048!3f141.2455810615358!4f-5.091791609383847!5f1.9030724617911075" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954824725!6m8!1m7!1suG8SC5qJ23P4a1ilsI6sJQ!2m2!1d-3.895239762919755!2d-73.34812831159923!3f332.37632527962785!4f5.422851224529879!5f1.2261179511485731" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694954696747!6m8!1m7!1sQr-5thv_vXgRqTH9d6k6ng!2m2!1d-4.502937002489709!2d-73.58783347444972!3f279.5257612027989!4f10.058378887811998!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tab %}}
+{{% tab "Puna" %}}
+
 {{% notice tip %}}
-南側の高原に広がる低木や草以外ほとんど存在しない地域。地面に薄い緑や黄色っぽい短い草が生えていて、木がほとんど見えない。
+南側の高原に広がる低木や草以外ほとんど存在しない地域。地面に薄い緑や黄色っぽい短い草が生えていて、木がほとんど見えない{{% ex "https://maps.app.goo.gl/mB6XESSGgN6EhjLY9" "https://maps.app.goo.gl/9R9B9FrNDXoaxo5o6" %}}。
 {{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Salinas_and_Aguada_Blanca_Misti_Chachani.jpg#/media/File:Salinas_and_Aguada_Blanca_Misti_Chachani.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Salinas_and_Aguada_Blanca_Misti_Chachani.jpg" alt="Salinas and Aguada Blanca Misti Chachani.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Max_nr_323" title="User:Max nr 323">Max Berger</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49901987">Link</a></p>
+</div>
 
 {{% /tab %}}
 {{% tab "コメ" %}}
