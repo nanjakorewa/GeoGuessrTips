@@ -31,11 +31,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ドメインは<span class="quiz">.im</span>。後ろが黄色いナンバープレートで左側に<span class="quiz">赤</span>色のラインがある。
+ドメインは<span class="quiz">.im</span>。後ろが黄色いナンバープレートで左側に<span class="quiz">赤</span>色のラインがある{{% ex "https://maps.app.goo.gl/ASa155LZoJGF6dEZ8" "https://maps.app.goo.gl/GjKsEdbgDfCKhrk47" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679138991147!6m8!1m7!1siUhod7cCOn5wmNiw_Jsknw!2m2!1d54.15647045019842!2d-4.488897953286526!3f352.13765715083855!4f-24.417657922667786!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686408771771!6m8!1m7!1sdXwoDTwpfKlnDt50JtrbjA!2m2!1d54.0898233912842!2d-4.74449622545797!3f342.8958615801431!4f-13.305441297488485!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./640px-Ford_Focus_illa_de_Man.jpg">
 </div>
 
 {{% lb 50 %}}
