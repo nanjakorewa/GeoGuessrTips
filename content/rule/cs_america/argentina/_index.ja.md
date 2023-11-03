@@ -35,10 +35,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>。
+ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>{{% ex "https://maps.app.goo.gl/ADfX7zA42cWjV7QJ7" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/alejandrorecio/4609508428/in/photolist-82jWgf-DGigvC-2e19T8j-LhUi3y-2cUM5Wy-28dDCqp-Zwxotd-23K44z1-ZFGRrm-2cVHBzQ-2e6ag3z-24dFu8Q-YTRkdc-2cYGY99-2cQGMj1-23cQDQ9-2e19S9f-ZwzTMm-2cbsTGz-2dTtb2C-SCiMhU-JnbEe1-QjsPjH-DrBVEX-PCWxA2-2bKhfBf-2abhuEC-2cbheFq-rsSGBH-2e19bxw-2cQGLc1-2b9vLub-28MeL3C-YknxfV-s7LtRz-2cFWagM-26NzMDm-TCMjkb-22t5mdL-ZCA7t5-QjsQZX-CgtXbs-ZAqg4o-2bWYDws-22zaVeS-HpmiCi-2cYJhNS-RAAx9s-2ekqFkZ-27QQhBH" title="argentina"><img src="https://live.staticflickr.com/1415/4609508428_1af109dbce_z.jpg" width="640" height="427" alt="argentina"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<img src="./taxi.jpg" width="90%">
 </div>
 {{% lb 50 small %}}
 ![](2023-04-12-11-42-57.png)

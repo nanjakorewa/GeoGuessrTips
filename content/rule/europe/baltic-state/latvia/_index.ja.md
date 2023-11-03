@@ -58,7 +58,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱が丸いものが多く電柱の上の部分にフックみたいな形のものがついている{{% ex "https://maps.app.goo.gl/wzoAPg8X4r7mw2Nm7" "https://maps.app.goo.gl/C98cL4W8A77vyNk28" %}}。似たような形の電柱は{{% goto "../../bulgaria/" "ブルガリア" %}}にもある。
+電柱が丸いものが多く電柱の上の部分にフックみたいな形のものがついている{{% ex "https://maps.app.goo.gl/wzoAPg8X4r7mw2Nm7" "https://maps.app.goo.gl/C98cL4W8A77vyNk28" %}}。似たような形の電柱は{{% goto "../../bulgaria/" "ブルガリア" %}}や{{% goto "../../croatia/" "クロアチア" %}}にもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./pole.jpg" width="90%">
