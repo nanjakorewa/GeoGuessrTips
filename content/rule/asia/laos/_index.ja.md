@@ -68,6 +68,14 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686681996128!6m8!1m7!1skKjEXMjlcxLLxw7alD_-iA!2m2!1d19.89297895778401!2d102.139081518515!3f133.37511689777247!4f-89!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+ラオスの看板の裏側が<span class="quiz">水</span>色のときがある。同じ色の看板は{{% goto "../../cs_america/ecuador/" "エクアドル" %}}でも見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./roadsign.jpg" width="85%">
+</div>
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice tip %}}

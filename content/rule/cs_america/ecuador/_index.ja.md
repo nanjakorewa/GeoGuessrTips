@@ -25,7 +25,7 @@ sc: [
         <li>言語は<span class="quiz">スペイン</span>語</li>
         <li>標識の裏が凹凸のないフラットな感じのものが多い{{% by %}}</li>
         <li>タクシーやバスのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色</li>
-        <li class="no-evidence">ボラードに２つ反射板が巻かれている・２つ反射板が付いているならエクアドルかも</li>
+        <li class="no-evidence">ボラードに２つ反射板が巻かれている・２つ反射板が付いている</li>
     </ul>
     {{% rd cs_america ecuador verysmall %}}
 </div>
