@@ -59,6 +59,9 @@ sc: [
 <img src="./r/triangle.png" width="130px" style="margin:13px">
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./roadsign.jpg" width="90%">
+</div>
 
 {{% notice tip %}}
 ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。ちっちゃいバージョンもある{{% ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" %}}。
