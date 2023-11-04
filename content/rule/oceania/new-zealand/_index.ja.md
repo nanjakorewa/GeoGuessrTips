@@ -148,14 +148,22 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>富士山みたいな山が見えたら北島の南西の角にある国立公園周辺にいる{{% ex "https://maps.app.goo.gl/yrQRQLfaqrbJvAjM9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%8A%E3%82%AD%E5%B1%B1" "タラナキ山" %}}</li>
         <li>南島にOtago Central Rail Trailと呼ばれる約150キロメートルのウォーキング・サイクリングロードがある{{% ref "https://en.wikipedia.org/wiki/Otago_Central_Rail_Trail" "Otago Central Rail Trail" %}}。赤いバッグのようなものが見える。</li>
-        <li>スチュアート島は人が住んでいる島の中では最も南。森に囲まれた入江がある{{% ex "https://maps.app.goo.gl/Ltcpv9LQXcP9Apk2A" "https://maps.app.goo.gl/PwwVFKTJsoXpoH7w9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E5%B3%B6" "スチュアート島" %}}。</li>
-        <li>ホワイト島という離島が北島の上にある{{% ex "https://maps.app.goo.gl/iz9sKhNpVtBCxkoX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E5%B3%B6" "ホワイト島" %}}</li>
-        <li>アンティポディーズ諸島にはペンギンやオットセイがいる{{% ex "https://maps.app.goo.gl/7AcmQ9Kgxs8Aph3A9" "https://maps.app.goo.gl/vbqGVhydUFoQqRBo8" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "タラナキ山" %}}
+
+{{% notice tip %}}
+富士山みたいな山が見えたら北島の南西の角にある国立公園周辺にいる{{% ex "https://maps.app.goo.gl/yrQRQLfaqrbJvAjM9" "https://maps.app.goo.gl/E6weNYSojL2a5j8Q7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%A9%E3%83%8A%E3%82%AD%E5%B1%B1" "タラナキ山" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./mountain_mt_egmont_mt.jpg">
+</div>
+{{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
 
 {{% notice tip %}}
@@ -166,6 +174,18 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <img src="./rail_trail_going_north_0.jpg">
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">離島</h4>
+    <ul class="rule-list">
+        <li>スチュアート島は人が住んでいる島の中では最も南。森に囲まれた入江がある{{% ex "https://maps.app.goo.gl/Ltcpv9LQXcP9Apk2A" "https://maps.app.goo.gl/PwwVFKTJsoXpoH7w9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%81%E3%83%A5%E3%82%A2%E3%83%BC%E3%83%88%E5%B3%B6" "スチュアート島" %}}。</li>
+        <li>ホワイト島という離島が北島の上にある{{% ex "https://maps.app.goo.gl/iz9sKhNpVtBCxkoX6" %}}</li>
+        <li>アンティポディーズ諸島にはペンギンやオットセイがいる{{% ex "https://maps.app.goo.gl/7AcmQ9Kgxs8Aph3A9" "https://maps.app.goo.gl/vbqGVhydUFoQqRBo8" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "スチュアート島" %}}
 
 {{% notice tip %}}
@@ -177,11 +197,21 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 </div>
 {{% /tab %}}
 {{% tab "ホワイト島" %}}
+
+{{% notice tip %}}
+硫黄生産跡地があるが火山による災害により放棄された{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E5%B3%B6" "ホワイト島" %}}。現在は入ることができないらしい。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <img src="./derelict_sulphur_factory_building.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "アンティポディーズ諸島" %}}
+
+{{% notice tip %}}
+ペンギンのコロニーがある世界遺産。一般人は入ることができないエリア。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <img src="./antipodes_penguin.jpg" width="90%">
 </div>

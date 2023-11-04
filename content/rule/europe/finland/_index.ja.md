@@ -186,8 +186,8 @@ additional_link:
     <ul class="rule-list">
         <li>看板に書かれた言語によって地域が分かることがある{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
             <ul>
-                <li>フィンランド語とスウェーデン語が並んでる場合もしくはスウェーデン語の場合は<span class="quiz">南か南西の海沿い</span></li>
-                <li>北部サーミ語などと並んで書かれている場合は<span class="quiz">最も北のエリア</span></li>
+                <li>フィンランド語とスウェーデン語が並んでる場合は<span class="quiz">南か南西の海沿い</span></li>
+                <li>北部サーミ語と並んで書かれている場合は<span class="quiz">最も北のエリア</span></li>
             </ul>
         </li>
         <li>周りが平坦で路面が赤っぽいならば{{% goto "../aland_islands/" "オーランド諸島" %}}かも</li>
