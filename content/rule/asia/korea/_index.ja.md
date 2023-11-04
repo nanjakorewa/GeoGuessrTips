@@ -131,10 +131,3 @@ import_jquery_36: true
 </div>
 
 {{% map southKoreaNumber 95 %}}
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-        <li>表札の数字は通りからの距離を表していて道路名と建物番号が書かれている{{% ref "https://www.konest.com/contents/korean_life_detail.html?id=6616" "道路名住所の表記方法" %}}</li>
-    </ul>
-</div>

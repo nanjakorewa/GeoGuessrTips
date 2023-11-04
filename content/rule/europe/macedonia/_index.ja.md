@@ -40,11 +40,10 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-基本的に反射板の周りが黒く塗られており、角ばったボラードと<span class="quiz">細く丸い</span>ボラードがある。またガードレールは角ばっておらず、Google Carのアンテナも見えないはず。
+基本的に反射板の周りが黒く塗られており、角ばったボラード{{% ex "https://maps.app.goo.gl/RuyiCWAvX8V6sRmW6" %}}と<span class="quiz">細く丸い</span>ボラード{{% ex "https://maps.app.goo.gl/mNSyLvjRxym8jeKn7" "https://maps.app.goo.gl/Uj4iPzQtRj87AkQt7" %}}がある。またガードレールは角ばっておらず、Google Carのアンテナも見えないはず。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680354200981!6m8!1m7!1s8JLCET6LHx4XwuR--1pHzQ!2m2!1d41.77445223781045!2d20.86258415029428!3f244.64759863711743!4f-8.894598659661781!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683615532981!6m8!1m7!1sr3Dzyrpr3vs--ICyGtvqiw!2m2!1d41.94006930540755!2d21.6245100111042!3f243.73111582914936!4f-13.738625160745897!5f3.0989617672262404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:R._of_Macedonia_,_%D0%A0.%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_-_panoramio_(38).jpg#/media/File:R._of_Macedonia_,_Р.Македонија_-_panoramio_(38).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/R._of_Macedonia_%2C_%D0%A0.%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_-_panoramio_%2838%29.jpg" alt="R. of Macedonia , Р.Македонија - panoramio (38).jpg" height="720" width="960"></a></p><p>METOKARA, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC 表示-継承 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=56952790">リンク</a>による</p>
 </div>
 
 

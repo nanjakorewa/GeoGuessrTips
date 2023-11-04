@@ -44,7 +44,11 @@ sc: [
 ラオ語が公用語となっておりとまれの標識も特徴的
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
+<img src="./960px-Fari-Wechsel.jpg" width="90%">
+</div>
+
+<div class="googlemap-if no-margin">
 <table class="word-list">
 <tr>
     <th>言語名</th> <th>表記</th>
