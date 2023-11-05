@@ -39,14 +39,6 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685298840878!6m8!1m7!1s1D21RBuT9gnehw3KsV-OzQ!2m2!1d47.10031448871037!2d-56.37845346361914!3f288.01953695996787!4f-0.6350714048017778!5f1.676844943359507" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}謎の箱
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685298927463!6m8!1m7!1sXxwRm7bmXf7ln_ktGA-hEA!2m2!1d47.10099511987085!2d-56.37928168083472!3f272.0023036851661!4f-8.087795330919391!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685298954622!6m8!1m7!1sg9eT3UWKV3_tTnHe9cG74w!2m2!1d47.10046095263064!2d-56.37863561623395!3f190.04828890022577!4f-11.9980389893568!5f3.0403369939997162" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
 {{% notice tip %}}Google Carが特徴的で道路が全体的に赤く染まって見える
 {{% /notice %}}
 <div class="googlemap-if">
