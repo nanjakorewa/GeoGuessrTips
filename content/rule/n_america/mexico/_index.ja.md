@@ -479,6 +479,7 @@ Public Domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Holboxという町は本土から離れているため車が少なくゴルフカートが多い{{% ex "https://maps.app.goo.gl/Ymr3LouvcNNwkbmd7" %}}</li>
         <li>ユカタン半島の東にある離島にCozumelという観光地がある{{% ex "https://maps.app.goo.gl/GE3E3aSZt9Wo7Cmb7" "https://maps.app.goo.gl/CgVVq7L3ypZLgdEx7" %}}</li>
         <li>カンクン付近にIsla Mujeresという離島の観光地がありバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}</li>
         <li>Popocatépetl山付近の国立公園でGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/bxPQ1dF77uXhVFFQ7" "https://maps.app.goo.gl/5RhK5xX5r6z9Ta496" %}}</li>
@@ -486,6 +487,16 @@ Public Domain
 </div>
 
 {{% tabs %}}
+{{% tab "Holbox" %}}
+
+{{% notice tip %}}
+ユカタン半島の北海岸にある島。環境保護の観点からホルボックスへの車両の進入は禁止されているため、ゴルフカートやバギーのような車しかいない{{% ex "https://maps.app.goo.gl/NKT5inXXhk1bjizm7" %}}{{% ref "https://en.wikipedia.org/wiki/Isla_Holbox" "Isla Holbox" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg#/media/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Golfcar_Holbox_island_Mexico_%2820153467086%29.jpg" alt="Golfcar Holbox island Mexico (20153467086).jpg" height="720" width="540"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/132646954@N02/20153467086/">golfcar Holbox island Mexico</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45111266">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "Cozumel" %}}
 
 {{% notice tip %}}

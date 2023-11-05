@@ -411,3 +411,23 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Danushkodi周辺の道{{% ex "https://maps.app.goo.gl/p7Z6VBBmXUTj3BgD7" %}}のような、両サイドに海が広がる道が何か所かある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "森林" %}}
+{{% notice tip %}}
+Danushkodi周辺の道{{% ex "https://maps.app.goo.gl/p7Z6VBBmXUTj3BgD7" "https://maps.app.goo.gl/3cDFWU6D1uGsYGNx8" %}}のような、両サイドに海が広がる道が何か所かある。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Danushkodi_Bus_Stop.jpg#/media/File:Danushkodi_Bus_Stop.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Danushkodi_Bus_Stop.jpg" alt="Danushkodi Bus Stop.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kondephy" title="User:Kondephy">Kondephy</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113087363">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
