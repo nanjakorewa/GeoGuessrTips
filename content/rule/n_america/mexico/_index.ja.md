@@ -490,7 +490,7 @@ Public Domain
 {{% tab "Holbox" %}}
 
 {{% notice tip %}}
-ユカタン半島の北海岸にある島。環境保護の観点からホルボックスへの車両の進入は禁止されているため、ゴルフカートやバギーのような車しかいない{{% ex "https://maps.app.goo.gl/NKT5inXXhk1bjizm7" %}}{{% ref "https://en.wikipedia.org/wiki/Isla_Holbox" "Isla Holbox" %}}。
+ユカタン半島の北海岸にある島。希少な生物が多く動植物保護区に指定されている。環境保護の観点からホルボックスへの車両の進入は禁止されていて舗装もされてない。そのためゴルフカートやバギーのような車がほとんどで車は稀{{% ex "https://maps.app.goo.gl/zx7U4FJbAF8GDfKB8" "https://maps.app.goo.gl/NKT5inXXhk1bjizm7" %}}{{% ref "https://en.wikipedia.org/wiki/Isla_Holbox" "Isla Holbox" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

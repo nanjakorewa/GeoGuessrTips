@@ -421,7 +421,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 </div>
 
 {{% tabs %}}
-{{% tab "森林" %}}
+{{% tab "Danushkodi" %}}
 {{% notice tip %}}
 Danushkodi周辺の道{{% ex "https://maps.app.goo.gl/p7Z6VBBmXUTj3BgD7" "https://maps.app.goo.gl/3cDFWU6D1uGsYGNx8" %}}のような、両サイドに海が広がる道が何か所かある。
 {{% /notice %}}
