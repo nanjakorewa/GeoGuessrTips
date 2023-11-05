@@ -46,5 +46,12 @@ sc: [
 <img src="./redsoil.jpg" width="95%">
 </div>
 
+{{% notice tip %}}
+{{% goto "../spain/" "スペイン" %}}領であり、スペイン本土と同じ電柱・ボラード・標識・シェブロンが見られる{{% ex "https://maps.app.goo.gl/yG2t32avoQZ5HC1eA" "https://maps.app.goo.gl/Utt6K2KxMH4YXTT69" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./road.jpg" width="95%">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
