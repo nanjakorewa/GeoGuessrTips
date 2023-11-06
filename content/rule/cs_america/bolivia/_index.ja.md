@@ -201,6 +201,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
+        <li>インカ帝国の発祥の地と言われる太陽の島がある{{% ex "https://maps.app.goo.gl/RC9JDSft8S2NEwWy6" "https://maps.app.goo.gl/4esYJCPpcBqDumqUA" %}}{{% ref "https://en.wikipedia.org/wiki/Isla_del_Sol" "太陽の島" %}}</li>
         <li>列車の墓場を徒歩で歩いている{{% ex "https://maps.app.goo.gl/nWheRwfzobFVo9E48" %}}{{% ref "https://es.wikipedia.org/wiki/Cementerio_de_trenes" "Cementerio de trenes" %}}</li>
         <li>サハマ国立公園ではサハマ山が見えてなおかつGoogle Carが見える</li>
         <li>Ojos del Salarという塩原の中にストリートビューがある{{% ex "https://maps.app.goo.gl/MN43sGe156LZHQ878" %}}</li>
@@ -208,6 +209,14 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 </div>
 
 {{% tabs %}}
+{{% tab "太陽の島" %}}
+{{% notice tip %}}
+インカ時代の遺跡がたくさんある。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./ilha_do_sol14.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "列車の墓場" %}}
 {{% notice tip %}}
 {{% /notice %}}
