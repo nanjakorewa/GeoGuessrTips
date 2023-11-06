@@ -82,3 +82,26 @@ NASDAQ上場企業数、年間のスタートアップ数が高い。ヘルス�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>最北～最南までIsrael National Trailというハイキングのルートがあり徒歩でのカバレッジになっている{{% ex "https://maps.app.goo.gl/tUMcF6ej1TihbJd37" "https://maps.app.goo.gl/1q4hFyxuFeqdb5Y79" %}}{{% ref "https://www.israeltrail.net/maps-wait-they-dont-love-you-like-i-love-you" "Israel National Trail " %}}</li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "Israel National Trail" %}}
+{{% notice tip %}}
+国の最北～最南までIsrael National Trailというハイキングのルートがあり徒歩でのカバレッジになっている。たまに帽子が見える{{% ex "https://maps.app.goo.gl/tUMcF6ej1TihbJd37" "https://maps.app.goo.gl/1q4hFyxuFeqdb5Y79" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./Israel_National_Trail_Locator_map.png" width="155px">
+<img src="./israel_national_trail_part_8.jpg" width="500px">
+<img src="./israel_national_trail_east.jpg" width="655px">
+</div>
+{{% /tab %}}
+{{% /tabs %}}

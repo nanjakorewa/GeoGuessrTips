@@ -154,7 +154,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
     <ul class="rule-list">
         <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
-                <li>『<span class="quiz">02 9x</span>』は半島部 (by ギガバイトさん@コメ欄)</li>
+                <li>『<span class="quiz">02 9x</span>』は半島部 (by 市民ジョンさん@コメ欄)</li>
                 <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
             </ul>
         </li>

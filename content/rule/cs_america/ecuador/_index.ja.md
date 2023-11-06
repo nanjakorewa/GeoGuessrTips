@@ -56,7 +56,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 
 
 {{% notice tip %}}
-タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}。
+タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -166,6 +166,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>タクシーに緑色のステッカーがあると<span class="quiz">キト</span>かも{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}</li>
+        <li>タクシーに緑色のステッカーがあると<span class="quiz">キト</span>かも{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}</li>
     </ul>
 </div>

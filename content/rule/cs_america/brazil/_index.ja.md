@@ -314,7 +314,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 </div>
 
 {{% notice tip %}}
-アサイゼイロ(açaizeiro)はパラ―州に多い{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "ギガバイト" %}}。特にアマゾン川流域やマラジョー島の周りに多いらしい{{% ref "https://acaibowl.theshop.jp/blog/2015/10/23/165319" "アサイーボウル専門店　EMPORIO EXPRESS代官山" %}}。
+アサイゼイロ(açaizeiro)はパラ―州に多い{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。特にアマゾン川流域やマラジョー島の周りに多いらしい{{% ref "https://acaibowl.theshop.jp/blog/2015/10/23/165319" "アサイーボウル専門店　EMPORIO EXPRESS代官山" %}}。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Eucalyptus Grandis" %}}
