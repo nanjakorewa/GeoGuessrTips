@@ -39,7 +39,7 @@ sc: [
 
 
 {{% notice tip %}}
-仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%">
@@ -52,7 +52,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 {{% /lb %}}
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
+<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/34QEVYLS3HAVGFd2A" "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
