@@ -55,7 +55,7 @@ sc: [
 </div>
 </div>
 
-{{% notice tip %}}Google Carが特徴的。ただし見えないときもある{{% ex "https://goo.gl/maps/mTw1XkGeJkVqLsxU8" %}}。
+{{% notice tip %}}Google Carが特徴的{{% ex "https://maps.app.goo.gl/Bqp7fuYgZov4RkJD6" "https://maps.app.goo.gl/2Uhh25DhJewmtJxz7" %}}。ただし見えないときもある{{% ex "https://maps.app.goo.gl/2FqppL8ioKU8X8Cm6" "https://goo.gl/maps/mTw1XkGeJkVqLsxU8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683478674761!6m8!1m7!1sB8a53z_-9mYxUzV0Q52jcA!2m2!1d-1.941815097077175!2d30.13047435388365!3f323.03495285680117!4f-12.788419732450919!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

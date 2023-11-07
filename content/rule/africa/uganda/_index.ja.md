@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-白い車か金属製のバーが見える車。バーが見える場合は首都以外の郊外（国立公園内部）。
+白い車{{% ex "https://maps.app.goo.gl/hggDiqcw488CZ2D89" "https://maps.app.goo.gl/Pp8s4sAmcyPwSRom6" %}}か金属製のバーが見える車。バーが見える場合は首都以外の郊外（国立公園内部）。
 {{% /notice %}}
 
 <div class="googlemap-if">
