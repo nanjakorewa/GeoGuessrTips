@@ -32,7 +32,7 @@ sc: [
 
 
 {{% notice tip %}}
-右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://goo.gl/maps/1PADCFCebEXHmqFx5" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
+右前に<span class="quiz">黒いガムテープが巻かれている</span>{{% ex "https://maps.app.goo.gl/JXkSR6KYYczBg2K97" "https://maps.app.goo.gl/RaceisEBLYLqyf2EA" %}}様子が確認できる{{% by %}}。テープが右後ろならば{{% goto "../../africa/reunion/" "レユニオン島" %}}になる点に注意。また、稀に車が見えない時や葉っぱで隠れている時もある{{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -59,7 +59,7 @@ sc: [
 
 
 {{% notice tip %}}
-タクシーの色の塗り方が独特{{% ex "https://goo.gl/maps/VHdy9LdK68cffo2v8" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
+タクシーの色の塗り方が独特{{% ex "https://maps.app.goo.gl/zModPxBNsSaL1E5U6" "https://maps.app.goo.gl/36beJJUuYoXJtTT67" "https://maps.app.goo.gl/qF9yVfgunmUfd5pa9" "https://maps.app.goo.gl/kuyBAsBKBjKmrXaM9" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./mitsubishi_taxi_ghana.jpg" width="70%" />
