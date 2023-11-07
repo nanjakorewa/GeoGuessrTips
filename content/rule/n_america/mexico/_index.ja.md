@@ -282,7 +282,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-？？？
+？？？/メキシコ高原があり平坦な台地が広がっていている。道の両サイドや全方向に山があることが多い。TODO：もっと細かく分けるべき。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -314,7 +314,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-？？？
+？？？/コロンビアっぽい場所や赤っぽい土がある。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -330,7 +330,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-？？？
+？？？/南と比較するとすこし感想した感じがする。白い砂が多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -346,7 +346,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-？？？
+？？？/ 北よりも湿度が高い感じがあるけれど、場所によってはまったく見分けがつかない。白い砂が多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
