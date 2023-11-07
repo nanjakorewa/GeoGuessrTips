@@ -36,22 +36,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}
-黄色の小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/pL3LJBCYcEJu7Bii6" %}}。看板は英語で書かれている。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
+
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%">
@@ -63,7 +51,19 @@ sc: [
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Phedmose (page does not exist)">Pharm Ede Moses</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47463054">Link</a>
 {{% /lb %}}
 
+{{% notice tip %}}
+<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
+{{% notice tip %}}
+黄色の小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/pL3LJBCYcEJu7Bii6" %}}。看板は英語で書かれている。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 {{% /tab %}}
 {{% tab "w-viecle" %}}
@@ -107,7 +107,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
                 <li>南東部：アブラヤシが多く生えている</li>
                 <li>南西部：背の高い木が多く生えていて遠くを見渡すのは難しい</li>
                 <li>中央部：草や低木が一面を覆っている</li>
-                <li>Jos周辺：標高が高くごつごつした岩や小さな山のようなものが見える</li>
+                <li>Jos周辺：標高が高くごつごつした岩や小さな山のようなものが見える{{% ex "https://maps.app.goo.gl/YKLmLtjEh7RE5HpLA" %}}</li>
                 <li>最北部：郊外は草がほとんど生えていない</li>
             </ul>
         </li>

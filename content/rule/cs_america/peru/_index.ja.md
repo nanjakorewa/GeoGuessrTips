@@ -251,7 +251,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>最南端に砂漠に囲まれたTacnaという商業都市がある{{% ref "https://en.wikipedia.org/wiki/Tacna" "タクナ" %}}</li>
-        <li>IquitosとNautaの主な交通手段はリキシャ（Rickshaws）{{% ex "https://maps.app.goo.gl/abhZuGXxhQnGXYxL7" "https://maps.app.goo.gl/jZGHodnwsToffUdQ8" %}}</li>
+        <li>{{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}}や{{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}の主な交通手段はリキシャ（Rickshaws）{{% ex "https://maps.app.goo.gl/abhZuGXxhQnGXYxL7" "https://maps.app.goo.gl/jZGHodnwsToffUdQ8" %}}</li>
         <li>Machu Picchu付近ではGoogle Carが見えることがある{{% ex "https://maps.app.goo.gl/F9rHT8umug6Vm4ww9" "https://maps.app.goo.gl/aEZr67pbzKitNBzE8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5" "マチュ・ピチュ" %}}</li>
     </ul>
 </div>
@@ -269,7 +269,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /tab %}}
 {{% tab "Iquitos" %}}
 {{% notice tip %}}
-Iquitosは外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。25,000台以上のオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またヨーロッパ風の建築が多い。同じような陸路でアクセスできない都市の例としては{{% goto "../../n_america/guatemala/#narrowdown-city" "グアテマラのLívingston" %}}などがある。
+{{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}}は外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。Iquitosや{{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}のような都市部からはなれた場所ではオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またIquitosはヨーロッパ風の建築が多い。同じような陸路でアクセスできない都市の例としては{{% goto "../../n_america/guatemala/#narrowdown-city" "グアテマラのLívingston" %}}などがある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="iquitosmoto.jpg" width="90%">
