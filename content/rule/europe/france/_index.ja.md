@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://maps.app.goo.gl/qzkn8MagASXKwpau6" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" %}}や消しゴムみたいな形のものもある{{% ex "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
+ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://maps.app.goo.gl/qzkn8MagASXKwpau6" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" "https://maps.app.goo.gl/wtDVvGYfJ3Ve5Qt48" %}}や消しゴムみたいな形のものもある{{% ex "https://maps.app.goo.gl/vzAwrbDqgRGeafnM8" "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただしごく稀に同じボラードを{{% goto "../greece/" "ギリシャ" %}}でも見かける{{% ex "https://goo.gl/maps/FJayswExjMNisNedA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./b2.png" width="90%" alt="フランスのボラード" />
@@ -65,7 +65,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは両サイドが青色のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/i1umiKo5td1rHBTs8" %}}。
+ナンバープレートは両サイドが青色{{% ex "https://maps.app.goo.gl/9kJoe1aa3egCJtdg9" %}}のものと左側だけ青色のものがあり、全体が黄色いものもある{{% ex "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}。「D653」と言った感じのDで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/RYnDJGGYdMZ9Wvfa6" "https://maps.app.goo.gl/i1umiKo5td1rHBTs8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -79,7 +79,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /lb %}}
 
 {{% notice tip %}}
-青・白のシェブロンがある{{% ex "https://goo.gl/maps/YcTm296DMLyVxRRg6" %}}。青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
+青・白のシェブロンがある{{% ex "https://maps.app.goo.gl/6t494vsvpc9zMZUG7" "https://goo.gl/maps/YcTm296DMLyVxRRg6" %}}。青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -278,30 +278,38 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>パリの場合は区画の番号が時計回り、店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}</li>
-        <li class="no-evidence">地中海側のイエール諸島にPorquerollesという離島があり整備されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
-        <li>ノワールムティエ島という平坦な湿地地帯がある</li>
-        <li>ヴェルサイユ宮殿の中も出題される</li>
+        <li>ノワールムティエ島という平坦な湿地地帯がある{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}</li>
+        <li>パリは区画の番号が時計回り。店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}。</li>
+        <li class="no-evidence">地中海側のイエール諸島にPorquerollesという離島があり舗装されていない道が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
+        <li>ヴェルサイユ宮殿の中もストリートビューがある{{% ex "https://maps.app.goo.gl/KUJYNdtk92GZVm5x7" %}}</li>
+        <li>フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "パリの区画順" %}}
+{{% tab "ノワールムティエ島" %}}
+{{% notice tip %}}ラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。オレロン島{{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}}やレ島{{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}のような他の西側の島にも似た景色がある。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./salt_marshes_salt_noirmoutier.jpg">
+</div>
+{{% /tab %}}
+{{% tab "パリの区画" %}}
 {{% notice tip %}}
 パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Paris arr jms-num.gif"></a></p>
 <p><a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> added the numbers - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a></p>
 </div>
 
 {{% notice tip %}}
-通りの交差点近くの建物の壁に『●●ARR, RUE ◆◆』と書かれたプレートが張られている。下のプレートの場合はパリの6番目の区画に行って「RUE ◆◆」の通りを見つければok。
+通りの交差点近くの建物の壁に『●●ARR, RUE ◆◆』と書かれたプレートが張られている。下のプレートの場合はパリの8番目の区画に行く。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/travelwithmilestogo/5335453320/in/photolist-98tAou-oFM6VH-b8bhRn-CwGSLF-oDztuC-fgYP48-dVihw1-vSczTB-BuQTWb-HDv9D9-N7BNg9-gdgg8M-qu19b6-vdqokq-abpB4v-okn27B-dtDPGh-fngBR4-tsc83P-bn4Q6r-qzKMW7-br7Am9-oHuPgv-9BENyX-bhtLBX-FJdof6-pGrKJY-HVi3qn-asmUPG-4rgcNH-bUqUHP-dhgwjU-B639GC-u86auM-DZrb82-awyiP-b4i9R8-qsjNJD-AxTZGM-MY1Ymo-iJV7RB-7h6Rra-JN8vUJ-PmcXZa-DvNzr2-499zN6-r9HrKj-9s4g8B-a8crwn-qPVSiH" title="Street Sign"><img src="https://live.staticflickr.com/5004/5335453320_fc7564a66f.jpg" width="500" height="334" alt="Street Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./avenue_sign_street_signs.jpg" width="80%">
 </div>
 
 
@@ -313,18 +321,20 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
 </div>
 {{% /tab %}}
-{{% tab "ノワールムティエ島" %}}
-{{% notice tip %}}ラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。オレロン島{{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}}やレ島{{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}のような他の西側の島にも似た景色がある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692614376283!6m8!1m7!1sn6LRIEsbIuamkZZp6xfbOw!2m2!1d46.99568616024985!2d-2.264597446409267!3f38.669831510508494!4f1.7217861008224702!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "ヴェルサイユ宮殿" %}}
 {{% notice tip %}}
+
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679759814340!6m8!1m7!1s0rQNq_fO8gB7bszVAGJsyA!2m2!1d48.8047658!2d2.1202258!3f169.26389412089094!4f5.753910367891805!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./versailles_paris_france_palace.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Aiguille de la Grande Sassière" %}}
+{{% notice tip %}}
+初見ではフランスとわからなかったのでメモ{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

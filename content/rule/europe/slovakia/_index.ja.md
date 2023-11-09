@@ -169,7 +169,7 @@ sc: [
     <ul class="rule-list">
         <li>おそらく都市の旗に合わせた色のバスやポールがある
             <ul>
-                <li class="no-evidence">Košiceはバスが<span class="quiz">が黄色と水色</span></li>
+                <li class="no-evidence">Košiceはバスが<span class="quiz">黄色と水色</span></li>
                 <li class="no-evidence">西ほど赤に近い色で東ほど水色に近い色が出る印象？</li>
             </ul>
         </li>
