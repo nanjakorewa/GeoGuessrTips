@@ -75,9 +75,9 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679813576129!6m8!1m7!1slrDq90ex1FOkTtQRvay6uQ!2m2!1d2.457006309841755!2d-76.59672523907327!3f38.54073997962945!4f-8.688211803202734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-googlecar" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681486519765!6m8!1m7!1sRdSnVHywaNxJmMR2PtEvRg!2m2!1d3.524667352372753!2d-76.60049993454764!3f311.83240210590753!4f-36.121808799917574!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% tab "youtube" %}}
+<div class="googlemap-if youtube-short">
+<iframe width="300" height="533" src="https://www.youtube.com/embed/HPA9Df2Pt5k" title="移動せずに国を当てられる？パート3 #geoguesser #ジオゲッサー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
