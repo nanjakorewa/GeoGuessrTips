@@ -65,9 +65,14 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Nyungwe National Parkという国立公園があり町は見えず周りが山がち{{% ex "https://maps.app.goo.gl/wWS3snpnY1PWyzhk8" "https://maps.app.goo.gl/oYctELzAXvRkCwjk7" %}}</li>
+        <li>国立公園の中にストリートビューが何か所かある
+            <ul>
+                <li>Akagera National Park：赤っぽい土{{% ex "https://maps.app.goo.gl/fb9NHvkV46oEkNo7A" "https://maps.app.goo.gl/h9drieGi27ApJhVK8" "https://maps.app.goo.gl/c7dbxs6f7fGhRaDE9" %}}</li>
+                <li>Nyungwe National Park：町は見えず周りが山がち{{% ex "https://maps.app.goo.gl/wWS3snpnY1PWyzhk8" "https://maps.app.goo.gl/oYctELzAXvRkCwjk7" %}}</li>
+            </ul>
+        </li>
         <li>Butareは大学が多く石畳の道が多く{{% ex "https://maps.app.goo.gl/tJQD9kfn15ojWPet6" %}}『SH』で始まる通り名{{% ex "https://maps.app.goo.gl/M7E39xuoaG6u3qE18" %}}</li>
-        <li>Kibehoという町にもカバレッジがある{{% ex "https://maps.app.goo.gl/xPjdZSMNztc97pmb8" "https://maps.app.goo.gl/KmduEKAsw2pfrXTx5" %}}{{% ref "https://ocw.u-tokyo.ac.jp/lecture_files/gf_05/11/notes/ja/GFK2007sb11.pdf" "ルワンダの虐殺" %}}</li>
+        <li>Kibeho{{% ex "https://maps.app.goo.gl/xPjdZSMNztc97pmb8" "https://maps.app.goo.gl/KmduEKAsw2pfrXTx5" %}}・最北のエリア{{% ex "https://maps.app.goo.gl/SgKok5bWWjbeBQi29" %}}
     </ul>
 </div>
 

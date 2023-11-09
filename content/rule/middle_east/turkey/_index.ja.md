@@ -37,7 +37,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/YiE9jtgn6vwXf4GJ6" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -167,6 +167,7 @@ sc: [
     <ul class="rule-list">
         <li>ゴミ箱に地方行政区画名や都市名が書いてあることがある。『●× BELEDiYESi』の●×が地名。
             <ul>
+                <li>Gökçeada{{% ex "https://maps.app.goo.gl/4rUJKh8VZoj18Rvt7" %}}という離島の地区がある{{% ref "https://en.wikipedia.org/wiki/G%C3%B6k%C3%A7eada_District" "Gökçeada District" %}}
                 <li>Arsuz{{% ex "https://maps.app.goo.gl/GacYR2R17TuQy6SZ7" %}}</li>
                 <li>Nevşehir{{% ex "https://maps.app.goo.gl/zctGpS4Xa7uvMtwP7" %}}</li>
                 <li>Cizre{{% ex "https://maps.app.goo.gl/S7TVNuyRRw5CBvqUA" %}}</li>

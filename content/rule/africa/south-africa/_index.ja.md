@@ -191,7 +191,7 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
     <ul class="rule-list">
         <li>農業の種類で地域がわかることがある
             <ul>
-                <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span></li>
+                <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
                 <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
             </ul>
         </li>

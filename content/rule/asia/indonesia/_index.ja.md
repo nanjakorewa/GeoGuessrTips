@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-瓦やトタンの屋根が多い。北ほどトタンの割合が高い。
+瓦{{% ex "https://maps.app.goo.gl/U2HCP3pi4acVz8Sh7" "https://maps.app.goo.gl/ZYHgQLzqLhZ3z5h8A" %}}やトタンの屋根{{% ex "https://maps.app.goo.gl/K28C4C6htnALA5ti7" "https://maps.app.goo.gl/nvEZz49vQTwt8MNY9" %}}が多い。北ほどトタンの割合が高い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./house.jpg">
