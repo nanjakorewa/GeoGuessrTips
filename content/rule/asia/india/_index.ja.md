@@ -96,13 +96,12 @@ sc: [
 
 {{% tabs %}}
 {{% tab "言語の分布" %}}
-
 <div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">インドの主要な言語の分布と、その見分け方について解説しました！<a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/NL4wmCBzcz">pic.twitter.com/NL4wmCBzcz</a></p>&mdash; LAKE TOUYA / とうや (@geotouya) <a href="https://twitter.com/geotouya/status/1721112634144285157?ref_src=twsrc%5Etfw">November 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/India?src=hash&amp;ref_src=twsrc%5Etfw">#India</a>&#39;s 22 scheduled <a href="https://twitter.com/hashtag/languages?src=hash&amp;ref_src=twsrc%5Etfw">#languages</a> by the name of the script they use <a href="https://t.co/PBDqehiogD">pic.twitter.com/PBDqehiogD</a></p>&mdash; India in Pixels by Ashris (@indiainpixels) <a href="https://twitter.com/indiainpixels/status/1350804912100179970?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/India?src=hash&amp;ref_src=twsrc%5Etfw">#India</a>&#39;s 22 scheduled <a href="https://twitter.com/hashtag/languages?src=hash&amp;ref_src=twsrc%5Etfw">#languages</a> by the name of the script they use <a href="https://t.co/PBDqehiogD">pic.twitter.com/PBDqehiogD</a></p>&mdash; India in Pixels by Ashris (@indiainpixels) <a href="https://twitter.com/indiainpixels/status/1350804912100179970?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">インドの主要な言語の分布と、その見分け方について解説しました！<a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/NL4wmCBzcz">pic.twitter.com/NL4wmCBzcz</a></p>&mdash; LAKE TOUYA / とうや (@geotouya) <a href="https://twitter.com/geotouya/status/1721112634144285157?ref_src=twsrc%5Etfw">November 5, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -112,6 +111,14 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Building_at_Patasa_pol_-_2.JPG#/media/File:Building_at_Patasa_pol_-_2.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Building_at_Patasa_pol_-_2.JPG" alt="Building at Patasa pol - 2.JPG" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Aksi_great" title="User:Aksi great">Aksi great</a>, Dipan Shukla - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3323700">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "ベンガリ語" %}}
+{{% notice tip %}}
+◁の形が文字中に散見される。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./shambhunath_pundit_hospital_kolkata.jpg">
 </div>
 {{% /tab %}}
 {{% tab "カンナダ語" %}}
@@ -144,6 +151,14 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./apsrtc_bus_stop_zahirabad.jpg">
+</div>
+{{% /tab %}}
+{{% tab "マラヤーラム語" %}}
+{{% notice tip %}}
+ケーララ州で使用されている言語{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "マラヤーラム語" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./Varandarappilly_grama_panchayath_office.JPG">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
