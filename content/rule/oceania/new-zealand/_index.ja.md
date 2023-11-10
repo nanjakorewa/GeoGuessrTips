@@ -64,8 +64,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 ニュージーランドは国土の40%以上が牧草地。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある。{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681496656303!6m8!1m7!1sMvrvIoDgf11CwsP2DaMU2Q!2m2!1d-46.09596398009934!2d169.0981582589376!3f313.4346910719182!4f-2.991900285962771!5f2.693329635910985" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681496740065!6m8!1m7!1szzBYVepmSyiWNjZxtaCA9Q!2m2!1d-44.80105926156972!2d170.8992445413041!3f220.44996479091063!4f4.697819777856196!5f1.878281294742738" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./img_1492_27.jpg" width="95%">
 </div>
 
 {{% /tab %}}
