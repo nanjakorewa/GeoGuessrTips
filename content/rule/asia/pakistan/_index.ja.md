@@ -50,11 +50,11 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 
 
 {{% notice tip %}}
-<span class="quiz">ウルドゥー</span>語（اردو）が見つかる
+<span class="quiz">ウルドゥー</span>語（اردو）が見つかる{{% ex "https://maps.app.goo.gl/zn4J9dn2q7SiDGEq7" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1696236848299!6m8!1m7!1sIt1hKG8l-ZgDwaqukEHK_Q!2m2!1d33.87391295864897!2d73.45867704256679!3f282.8618768441299!4f-24.776500330715322!5f3.325193203789971" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./jamamasjidsouthentrance.jpg" width="95%" />
 </div>
 
 {{% /tab %}}
