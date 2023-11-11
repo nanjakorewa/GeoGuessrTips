@@ -11,6 +11,7 @@ flag: "MC.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../italy/", "イタリア"],
@@ -21,6 +22,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mc</span></li>
+        <li>公用語はフランス語</li>
         <li><span class="quiz">赤</span>色の線が2本入ったボラードがある{{% by %}}</li>
         <li><span class="quiz">青</span>色がうっすらと見える小さめのナンバープレートがあるがイタリアの車も多い</li>
         <li>海沿いで3階建て以上の建物が多い</li>
@@ -32,25 +34,32 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">赤</span>色の線が2本入ったボラードがある
+<span class="quiz">水</span>色がうっすらと見える小さめのナンバープレートがあるがほぼ白に見える{{% ex "https://maps.app.goo.gl/zGiWyQRtH3EY122g6" %}}。バイクも同様{{% ex "https://maps.app.goo.gl/octPu9LQAsFQFbU28" %}}。隣国の{{% goto "../france/" "フランス" %}}のナンバーも見つかる。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683475123481!6m8!1m7!1sKTE_SssPkNGndxuB92W80A!2m2!1d43.7394699611709!2d7.424997220101958!3f44.97533773086599!4f-21.19068351228877!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683475286495!6m8!1m7!1s-eKsaO1W_2YrTeXGgsPa4A!2m2!1d43.73436739739547!2d7.419634295240349!3f342.2420025831073!4f-13.168711744452622!5f3.108740985536613" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-
-{{% notice tip %}}
-<span class="quiz">青</span>色がうっすらと見える小さめのナンバープレートがあるがイタリアの車も多い
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683475506058!6m8!1m7!1s6F9G23x-cDl6FrIJ5RUTGw!2m2!1d43.73426752921175!2d7.418582551156104!3f12.59902611214238!4f-11.405020416087055!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./road.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
-![](2023-05-08-01-03-32.png)
+![](lp.jpg)
 
-By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=39303213">Wikimedia Commons(Link)</a>
+Public domain
 {{% /lb %}}
+
+
+{{% notice tip %}}
+世界で最も人口密度の高い主権国家であり、高層マンションがとても多い。また農地は一切存在しない。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./monaco_monte_carlo_mediterranean.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+赤いシェアサイクル（Monabike）を止める場所が町中に見つかる{{% ex "https://maps.app.goo.gl/kvuuJVTr3RueQbk16" "https://maps.app.goo.gl/2K9qJmn6SUn7AcbG7" "https://maps.app.goo.gl/XJ4Vc84Ug2asLKer5" %}}。また<span class="quiz">赤</span>色の線が2本入ったボラードがある{{% ex "https://maps.app.goo.gl/mxqcuKsk3MVtr5gE8" "https://maps.app.goo.gl/aELPbMRAE5g7L68DA" "https://maps.app.goo.gl/ArWqgQFq8pCnGtxg9" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./952px-Station_MonaBike_(Grimaldi_Forum)_en_novembre_2021.jpg" width="95%">
+</div>
+
 {{% /tab %}}
 {{% /tabs  %}}
