@@ -55,7 +55,7 @@ sc: [
 </div>
 
 
-{{% notice tip %}}地域名の看板が基本的に２言語で書かれている。
+{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-07-23-10-25-46.png" width="278px"/>
@@ -74,10 +74,10 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/georgivar/1178973351/in/photolist-8iniKQ-aoMjp5-2NbxGK-7rCe7U-mRAte" title="Асансьорът на Шиндлер"><img src="https://live.staticflickr.com/1314/1178973351_5b8a142434_w.jpg" width="493" alt="Асансьорът на Шиндлер"/></a>
 </div>
 
-{{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% by %}}が他の国にもあるときはあるので即決はできないかも。
+{{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% ex "https://maps.app.goo.gl/ejG2nFsCEzaYQGwR9" "https://maps.app.goo.gl/4iof8PhKqFXvWZKB9" "https://maps.app.goo.gl/uC3rzE7GAo2CRd696" %}}{{% by %}}。他の国にもあるときはあるので即決はできないかも。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684397406967!6m8!1m7!1sUPLtg7HroIVen5_oVH1Tzg!2m2!1d42.70149352505604!2d27.25106514590047!3f317.99502161880133!4f-21.334557205798646!5f1.5382304235558601" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="gb.jpg" width="95%">
 </div>
 
 {{% /tab %}}
