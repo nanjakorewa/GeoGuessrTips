@@ -10,12 +10,13 @@ weight: 1000
 参考にしたウェブサイトや見させてもらってる配信者など（敬称略）。
 
 
-<h2 class="no-blur">各国のヒント</h2>
+<h2 class="no-blur">各国のヒントなど</h2>
 
 ### 日本語サイト
 
 - [Geoguessr Japan wiki](https://wikiwiki.jp/geoguessr/)
 - [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
+- [Geoguessr App Japanese Rankings](https://ggapp-daig-o.cloud.okteto.net/)
 
 ### 英語サイト
 
