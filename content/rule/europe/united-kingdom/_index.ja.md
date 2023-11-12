@@ -106,6 +106,11 @@ Alexandra Palace Theatreはロンドンの北側にある
 <iframe width="590" height="345" src="https://www.youtube.com/embed/VrP3lO3aGDg?start=300" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
+{{% tab "youtube" %}}
+<div class="googlemap-if">
+<iframe width="434" height="772" src="https://www.youtube.com/embed/S3MbvP_vvOQ" title="動かずに場所を当ててみよう！パート5 #ジオゲッサー #geoguesser #googlemaps" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
