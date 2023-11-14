@@ -209,8 +209,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /tab %}}
 {{% tab "TAZ（タスマニア）" %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685404001233!6m8!1m7!1s0Vn_4N358KlMjKjwH83vNQ!2m2!1d-41.41784987221105!2d147.2802834785233!3f119.25273213616062!4f7.71036244768473!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685404021090!6m8!1m7!1sRYO6uPlcnWbLGRP_1jiaFw!2m2!1d-41.09903761842133!2d145.7259489172317!3f128.13946562875705!4f19.612412263962952!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./spring_street_sheffield_20070422.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "WAとVIC" %}}

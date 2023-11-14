@@ -62,7 +62,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか{{% ex "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}。またメキシコの矢印はなんか太い気がする{{% ex "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
+とまれが「<span class="quiz">ALTO</span>」{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
@@ -78,14 +78,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">円</span>形の電力計がある{{% ex "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける。
+<span class="quiz">円</span>形の電力計がある{{% ex "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
 </div>
 
 {{% notice tip %}}
-メキシコのビール醸造所であるGrupo Modeloが製造するコロナビール{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "コロナビール" %}}のロゴが見られる{{% ex "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}。
+メキシコのビール醸造所であるGrupo Modeloが製造するコロナビール{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "コロナビール" %}}のロゴが見られる{{% ex "https://maps.app.goo.gl/TdTohN8oujw4QT9r8" "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bottle_beer_beach_drink.jpg" width="90%">
