@@ -37,7 +37,7 @@ sc: [
 {{% tabs %}}
 
 {{% tab "w-etf" %}}
-{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>。その標識に白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span>、フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。{{% goto "../usa/" "アメリカ" %}}は<span class="quiz">SPEED LIMIT</span>。
+{{% notice tip %}}速度制限の表記は<span class="quiz">MAXIMUM</span>{{% ex "https://maps.app.goo.gl/qwce1gNYhXFNcLpU6" "https://maps.app.goo.gl/B4sWw3ZT9vYULc8eA" %}}。その標識に白背景のkm/h表記があれば<span class="quiz">ブリティッシュコロンビア</span>、フランス語があれば<span class="quiz">ケベック</span>、黒い背景のkm表記は<span class="quiz">オンタリオ</span>になる。{{% goto "../usa/" "アメリカ" %}}は<span class="quiz">SPEED LIMIT</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:5px;">
