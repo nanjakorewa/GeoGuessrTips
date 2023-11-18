@@ -158,7 +158,7 @@ sc: [
 ケーララ州で使用されている言語{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "マラヤーラム語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Varandarappilly_grama_panchayath_office.JPG">
+<img src="./thirunelli_temple_frontview.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
