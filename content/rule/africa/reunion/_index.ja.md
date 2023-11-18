@@ -44,7 +44,7 @@ Google Carが特徴的で<span class="quiz">右後ろ</span>に黒いテープ�
 </div>
 
 {{% notice tip %}}
-フランスと同じボラードや電柱がある{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}。電柱も青いプレートが付いている{{% ex "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}。
+フランスと同じボラードや電柱がある{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}。電柱も青いプレートが付いている{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="b2.jpg" width="90%">
