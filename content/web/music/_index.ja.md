@@ -14,6 +14,17 @@ sections: [""]
 配信や動画で使用しているbgmの配布サイトへのリンク集です。
 各動画では以下のどれかの素材を使用しています。どの素材を使用しているかは動画の概要欄を確認してください。
 
+## [KYATTOWORKS](https://kyattoworks.com/kagura/)
+
+- [エミャージェンシー](https://kyattoworks.com/emyaagency/)
+- [KAGURA](https://kyattoworks.com/kagura/)
+- [SEEKER](https://kyattoworks.com/seeker/)
+- [GAMERS](https://kyattoworks.com/gamers/)
+- [SHOOTING STAR](https://kyattoworks.com/shootingstar/)
+- [MOONSIDE HOWL](https://kyattoworks.com/moonsidehowl/)
+- [FAVORITE THINGS](https://kyattoworks.com/favoritethings/)
+
+
 ## DOVA-SYNDROME
 
 - [アトリエと電脳世界](https://dova-s.jp/bgm/play10018.html)
