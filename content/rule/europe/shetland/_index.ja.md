@@ -46,6 +46,13 @@ Cattle Gridと呼ばれる金属棒を平行に並べた橋がある{{% ref "htt
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/falkirkbairn/47849548081/in/photolist-2mJ9s7W-2fUirAi-QFNUw8-qDPhiB-cG6B5-9FkiGt-voKnmA-weXbyM-2mJbGJD-28xe9-2wmcFR-9PJtwz-etMVu9-35PNRR-etJxHR-2gjgvqi/" title="Cattle Grid"><img src="https://live.staticflickr.com/65535/47849548081_8a69c6beb4_z.jpg" width="640" height="459" alt="Cattle Grid"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}
+シェトランド・シープがいる{{% ex "https://maps.app.goo.gl/jVbxVRcWWLD3mwCP9" "https://maps.app.goo.gl/oGmNgvnhFBFjmE2K9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%97" "シェットランドシープ" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./960px-OvellasShetland.jpg" width="95%">
+</div>
+
 
 {{% /tab %}}
 {{% /tabs %}}
