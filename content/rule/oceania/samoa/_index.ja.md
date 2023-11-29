@@ -51,11 +51,10 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689181679474!6m8!1m7!1sxVD4ee76dyrL_RGgU9lthQ!2m2!1d-14.18077710201051!2d-169.6215019226212!3f169.21572252276042!4f-35.78019326894807!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}ローズ環礁がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%BC%E3%82%BA%E7%92%B0%E7%A4%81" "ローズ環礁" %}}。アメリカ合衆国の領土のうちで最南端の場所。
+{{% notice tip %}}アメリカ領サモアに所属している島が、サモア本当の東の方にも存在する{{% ex "https://maps.app.goo.gl/LsC1twu5U19neeqz6" "https://maps.app.goo.gl/CYg7qaYAPMMJLeef8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%EF%BC%9D%E3%82%AA%E3%83%AD%E3%82%BB%E3%82%AC%E5%B3%B6" "オフ＝オロセガ島" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689181857488!6m8!1m7!1sTCiQW84h8SL6WXIiUcN8tA!2m2!1d-14.53633081044816!2d-168.1510589499278!3f193.71594662849276!4f-1.856130367900704!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689181887890!6m8!1m7!1sxKnpUj4WcXuQ5Nmpk9T9bA!2m2!1d-14.54844054705358!2d-168.1444021735183!3f45.68349330346174!4f-2.2055474292601644!5f0.8741720002879085" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="960px-Ofu_Olosega_NPS.jpg" width="95%"/>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
