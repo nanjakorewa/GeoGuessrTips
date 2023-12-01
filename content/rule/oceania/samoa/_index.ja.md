@@ -51,7 +51,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689181679474!6m8!1m7!1sxVD4ee76dyrL_RGgU9lthQ!2m2!1d-14.18077710201051!2d-169.6215019226212!3f169.21572252276042!4f-35.78019326894807!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}アメリカ領サモアに所属している島が、サモア本当の東の方にも存在する{{% ex "https://maps.app.goo.gl/LsC1twu5U19neeqz6" "https://maps.app.goo.gl/CYg7qaYAPMMJLeef8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%EF%BC%9D%E3%82%AA%E3%83%AD%E3%82%BB%E3%82%AC%E5%B3%B6" "オフ＝オロセガ島" %}}。
+{{% notice tip %}}アメリカ領サモアに所属している島が、サモア本島の東の方にも存在する{{% ex "https://maps.app.goo.gl/LsC1twu5U19neeqz6" "https://maps.app.goo.gl/CYg7qaYAPMMJLeef8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%EF%BC%9D%E3%82%AA%E3%83%AD%E3%82%BB%E3%82%AC%E5%B3%B6" "オフ＝オロセガ島" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="960px-Ofu_Olosega_NPS.jpg" width="95%"/>
