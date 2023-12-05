@@ -44,7 +44,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-速度上限の看板が特徴的
+速度上限の看板が特徴的{{% ex "https://maps.app.goo.gl/yCeskaZbva61uYKJA" "https://maps.app.goo.gl/hhkfNPNh8QjKMmiS6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -67,7 +67,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電話番号は『<span class="quiz">787</span>』から始まることが多い{{% ex "https://maps.app.goo.gl/Q3jawMC379iy1Qqj9" %}}。
+電話番号は『<span class="quiz">787</span>』から始まることが多い{{% ex "https://maps.app.goo.gl/Q3jawMC379iy1Qqj9" "https://maps.app.goo.gl/f5QjjGZbvTP9hH9d9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
