@@ -23,9 +23,10 @@ sc: [
         <li>ドメインは<span class="quiz">.tr</span></li>
         <li>止まれの標識は<span class="quiz">DUR</span></li>
         <li>ボラードは<span class="quiz">片</span>面に反射板があり薄い</li>
-        <li>「sokak」はトルコ語で通りの意味</li>
+        <li>「<span class="quiz">sokak</span>」はトルコ語で通りの意味</li>
         <li class="no-evidence">標識の棒に小さな穴がたくさん空いている</li>
         <li class="no-evidence">赤白シェブロンの矢印の先に隙間がある</li>
+        <li><span class="quiz">🧵</span>の形のタイルが歩道などにありがち</li>
     </ul>
     {{% rd middle_east turkey verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -82,11 +83,20 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://maps.app.goo.gl/NPE3hwnbV7NoxJUh7" "https://maps.app.goo.gl/P4LwZrxFabNPMnCEA" "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}。一番見た目が似ているのは{{% goto "../../europe/romania" "ルーマニア" %}}のボラード{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}。
+ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://maps.app.goo.gl/2B9saQ9LE8CkXHm8A" "https://maps.app.goo.gl/P4LwZrxFabNPMnCEA" "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}。一番見た目が似ているのは{{% goto "../../europe/romania" "ルーマニア" %}}のボラード{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollard.jpg" width="85%" alt="トルコのボラード" />
 </div>
+
+
+{{% notice tip %}}
+🧵の形のタイルが歩道などにありがち{{% ex "https://maps.app.goo.gl/Nrc6LexVuUGrRKUs5" "https://maps.app.goo.gl/6w1kiajoLA5CdCAS8" "https://maps.app.goo.gl/6Vk7UFCwYJ1cZFMP7" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
+</div>
+
 
 
 {{% /tab %}}
