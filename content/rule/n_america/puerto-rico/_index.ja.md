@@ -28,6 +28,7 @@ sc: [
         <li>車のナンバープレートが付いているのは<span class="quiz">後ろだけ</span></li>
         <li>太目の<span class="quiz">四角</span>の電柱がある</li>
         <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>
+        <li>電話番号は『<span class="quiz">787</span>』から始まる</li>
     </ul>
     {{% rd n_america puerto-rico verysmall %}}
 </div>
@@ -63,6 +64,14 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="./r/869.png" width="100px" style="margin:10px">
 <img src="./r/970.png" width="80px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+電話番号は『<span class="quiz">787</span>』から始まることが多い{{% ex "https://maps.app.goo.gl/Q3jawMC379iy1Qqj9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel,_Ponce,_Puerto_Rico_(DSC04941).jpg#/media/File:Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel,_Ponce,_Puerto_Rico_(DSC04941).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel%2C_Ponce%2C_Puerto_Rico_%28DSC04941%29.jpg" alt="Letrero Industrias Vassallo en Barrio Coto Laurel, Ponce, Puerto Rico (DSC04941).jpg"  width="90%"></a></p><p>By Roca Ruiz - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/roca-ruiz/6687927479/">https://www.flickr.com/photos/roca-ruiz/6687927479/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30928121">Link</a></p>
 </div>
 
 {{% /tab %}}
