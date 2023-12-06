@@ -41,14 +41,14 @@ import_jquery_36: true
 松の木が多い{{% ex "https://goo.gl/maps/3zTkaxuoTkprerHk6" "https://goo.gl/maps/ZesPrE19f3cJ8rDu9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./republic_korea_stone_wall.jpg" width="80%">
+<img src="./republic_korea_stone_wall.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 特徴的な形のボラードがある
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_roadside_in_mountainous.jpg" width="80%">
+<img src="./korean_roadside_in_mountainous.jpg" width="90%">
 </div>
 
 
@@ -131,3 +131,21 @@ import_jquery_36: true
 </div>
 
 {{% map southKoreaNumber 95 %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Udo（牛島）が済州島の東にあり雰囲気も済州島に似ている{{% ex "https://maps.app.goo.gl/f3UtUoxF6taAgRP17" %}}。肥沃な台地なので農業や家畜が盛んで開拓されていない森がほぼ無い。</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Udo" %}}
+{{% notice tip %}}
+南東の道がほぼ無いエリア以外はほとんど畑になっている。済州島のように土が黒く黒い石垣も多いが、森はほとんど無く高い山もない{{% ex "https://maps.app.goo.gl/V4yAFVSjnbBf1JKbA" "https://maps.app.goo.gl/kYEQHvdxcrT731FW7" "https://maps.app.goo.gl/BuNwwejxvTr4YZN88" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./jeju_island_nature_korea.jpg">
+</div>
+{{% /tab %}}
