@@ -40,7 +40,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>であり前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。
+ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/gq6cPnGT9ZrJGz9V9" %}}。前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dutchemergencyphotos/32732231697/in/photolist-RSrf7n-qVcRkT-FdrLTs-21RtiJY-tSRwrc-kemB9G-Cv5Dyo-85G6Xy-N5MhcA-cs7wE9-2bC8Nt1-K3i2rX-sy3jtz-r3Fg6J-2dYvZos-27G1Lxr-ksxUUH-2a4VT68-myxfbK-2ekrdk3-27DuUBz-2e59tpA-ryy3jJ-22XiD7e-28UowUK-Rr9Z86-qHNvi4-pR9YQJ-qLzpsP-27mytXY-ZiKkNi-2b4AFhj-sS7vkV-LyWdes-26JJy1D-27rTY8Y-8zx2Vt-26AkxD9-MDCGew-NJ7uiT-27JPh1k-xzp6nQ-SKa5mV-do5aAm-Pn6T7x-VDjmt7-26eVQ4w-2a57PaS-KB17Zf-29y1p1d" title="Dutch police Volkswagen Touran"><img src="https://live.staticflickr.com/65535/32732231697_229e7e3b16_z.jpg" width="640" height="393" alt="Dutch police Volkswagen Touran"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -54,11 +54,10 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 
 
 {{% notice tip %}}
-家が<span class="quiz">レンガ造り</span>のものが多く、稀に最上階付近の壁に紐をひっかける棒があることもある。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
+家が<span class="quiz">レンガ造り</span>のものが多く{{% ex "https://maps.app.goo.gl/upSSbDuAiszRfgEN8" %}}、稀に最上階付近の壁に紐をひっかける棒があることもある。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている{{% ex "https://maps.app.goo.gl/FZmHPz41uv2tSn1FA" %}}。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682217832683!6m8!1m7!1sMXt13WzxXVmrgvcBCknubg!2m2!1d51.52462280577394!2d5.968059501168068!3f184.46227696003493!4f1.9262711336245815!5f2.5315311573194337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682217440981!6m8!1m7!1sShrdegp8jM5kGf45qRbN4Q!2m2!1d51.9121151342119!2d4.446415080678936!3f105.34258501375567!4f15.29181978106989!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./middelburg_netherlands_zealand_718385.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -70,12 +69,27 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 </div>
 
 {{% notice tip %}}
-道端に<span class="quiz">白</span>色のボラードがある。大き目の道路には道端に道路番号が書かれた緑色の看板がある<span style="font-size:0.8em">（ボラード画像のみ<a href="https://commons.wikimedia.org/wiki/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg#/media/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg">ここ</a>より引用）</span>。
+道端に<span class="quiz">白</span>色のボラードがある。大き目の道路には道端に道路番号が書かれた緑色の看板がある<span style="font-size:0.8em">{{% ex "https://maps.app.goo.gl/zK13iboRy6CGCug3A" %}}（ボラード画像のみ<a href="https://commons.wikimedia.org/wiki/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg#/media/File:Fietsers_oversteken_sign,_Wedderveer_(2020)_02.jpg">ここ</a>より引用）</span>。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <img src="./road.png" width="90%">
 </div>
+<div class="googlemap-if unclickable">
+<img src="./hectoreflecto_n276.jpg" width="169px">
+<img src="./hectoreflecto_n276_limburg.jpg" width="169px">
+<img src="./wildspiegel_collage.jpg" width="300px">
+</div>
+
+
+{{% notice tip %}}
+標識を後ろや横から見たときに側面も色が塗られている{{% ex "https://maps.app.goo.gl/j9KWUnYNY2dVAG8t9" "https://maps.app.goo.gl/4SP4Q1qaTHHT3LVBA" "https://maps.app.goo.gl/xmgaptyKTrz7Joaa9" "https://maps.app.goo.gl/GJ9RxQPjA39rBUCFA" "https://maps.app.goo.gl/ov8XjxvajC4UhJbo7" "https://maps.app.goo.gl/SXxe5BNVSR7kSQLYA" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-sign.jpg" width="90%">
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -89,13 +103,6 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683705543455!6m8!1m7!1sh3K0tdDQ9gYR7jeaefKuHg!2m2!1d51.61181829030777!2d4.774081036091234!3f241.1098205668238!4f-1.7548572387365198!5f3.325193203789971" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-道路番号が書いてある
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679141570574!6m8!1m7!1sprdJ9xuz_l9p0xCfBazpdA!2m2!1d51.8035704085399!2d4.697570333012825!3f268.4021750511996!4f-13.239676289471817!5f3.2829566151088043" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
