@@ -73,6 +73,13 @@ sc: [
 {{% tab "w-road" %}}
 
 {{% notice tip %}}
+ボラードやガードレールの反射板が黄色{{% ex "https://maps.app.goo.gl/MDnjhyhUKNu4Y7zy9" %}}であるときがあり{{% goto "../../europe/spain/" "スペイン" %}}と間違えやすいので注意。速度表記の縁が無い点もスペインに似ている。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./chile_panamericana_road_landscape.jpg" width="95%">
+</div>
+
+{{% notice tip %}}
 チリや{{% goto "../bolivia/" "ボリビア" %}}では道路に赤い反射板がついていることがある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
@@ -103,16 +110,6 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681566698923!6m8!1m7!1sxaOu6D3hWt1iN_ZoESdjGg!2m2!1d-23.76015486133888!2d-70.31000667891672!3f271.6616207675847!4f-3.6711590364433846!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "ボラード" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689596428727!6m8!1m7!1s-0TcU12wSJ298X8KfERlKg!2m2!1d-26.76299323362851!2d-70.74143127543985!3f8.62858392710753!4f-12.305980848488176!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "🐕" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680528791187!6m8!1m7!1s1rHB8stDQ66Sas8taI_BWQ!2m2!1d-54.93519505315864!2d-67.60323955353884!3f286.7245678587484!4f-14.221568029275005!5f3.0118685857498058" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
