@@ -55,7 +55,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的{{% ex "https://goo.gl/maps/Q4t2DqQBjik94eGm9" %}}。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる{{% imref "左側の電柱画像の出典" %}}。
+電柱やポールに<span class="quiz">青</span>いプレートが貼ってあることがありこれも特徴的{{% ex "https://maps.app.goo.gl/YNHnBJe3nFrgpx2V8" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}。<span class="quiz">青</span>いプレートはフランス海外県の{{% goto "../../africa/reunion/" "レユニオン" %}}でも見つかる{{% imref "左側の電柱画像の出典" %}}。プレートが白い場合は{{% goto "../italy/" "イタリア" %}}{{% ex "https://maps.app.goo.gl/PaecbuzW4KX4nHBv7" "https://maps.app.goo.gl/ctwTHRCysLdPv81D9" %}}や{{% goto "../germany/" "ドイツ" %}}{{% ex "https://maps.app.goo.gl/VBjUNyp4uC4APeJJ8" %}}を考えてみる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">

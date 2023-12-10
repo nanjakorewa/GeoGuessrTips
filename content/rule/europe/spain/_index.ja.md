@@ -15,11 +15,10 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../africa/canary_islands/", "カナリア諸島"],
+    ["../../cs_america/chile/", "チリ"],
     ["../italy/", "イタリア"],
     ["../portugal/", "ポルトガル"],
     ["../balearic-islands/", "バレアレス諸島"],
-    ["../../africa/melilla/", "メリリャ"],
-    ["../../africa/ceuta/", "セウタ"],
     ]
 ---
 
