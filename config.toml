@@ -94,6 +94,12 @@ link = "contact"
 
 # navigation
 [[Languages.ja.menu.main]]
+name = "twitch"
+url = "https://www.twitch.tv/nanjakorewa"
+weight = 1
+iconname = ""
+
+[[Languages.ja.menu.main]]
 name = "トップに戻る"
 url = "/"
 weight = 1
