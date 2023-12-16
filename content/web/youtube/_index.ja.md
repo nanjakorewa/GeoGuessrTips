@@ -9,3 +9,14 @@ keywords: ["マリオカート"]
 sections: [""]
 sumnail_mk: True
 ---
+
+## youtubeへのリダイレクト
+
+<div class="googlemap-if">
+<p>3秒後にyoutubeへジャンプします。ジャンプしない場合は、以下のURLをクリックしてください。</p>
+<p><a href="https://www.youtube.com/@nanjakorewa">youtube</a></p>
+</div>
+
+<div class="googlemap-if">
+<p><a href="https://www.youtube.com/@nanjakorewa"><img src="OP-MKnora.jpg"></a></p>
+</div>
