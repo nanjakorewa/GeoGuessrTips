@@ -256,7 +256,7 @@ sc: [
                 <li class="no-evidence">穴のあるポール（ホーリーポール）があるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
                 <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Telangana・Andhra Pradesh</span>？</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
-                <li>『キ』の電柱がGoaにある</li>
+                <li>『キ』や『干』の電柱がGoaにある</li>
             </ul>
         </li>
     </ul>
@@ -327,7 +327,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% tab "Goa" %}}
 
 {{% notice tip %}}
-『キ』の電柱
+『キ』や『干』の電柱、かなり当たる印象。
 {{% /notice %}}
 
 <div class="googlemap-if">

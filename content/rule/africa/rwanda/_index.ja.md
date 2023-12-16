@@ -45,7 +45,7 @@ sc: [
 ![](2023-05-22-19-50-24.png)
 {{% /lb %}}
 
-{{% notice tip %}}ルワンダの2大携帯キャリアのひとつであるMTNはいろんな場所でパラソルやテントを使って出張所を設けている{{% ex "https://maps.app.goo.gl/h1UEax3LcZENDM5U9" "https://goo.gl/maps/kNyPDJYbE6SAivS69" "https://goo.gl/maps/F16NsV6qzHpeSFZr9" %}}。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。{{% goto "../uganda/" "ウガンダ" %}}や{{% goto "../ghana/" "ガーナ" %}}でも事業をしている。
+{{% notice tip %}}ルワンダの携帯キャリアであるMTNやairtelはいろんな場所でパラソルを使って出張所を設けている{{% ex "https://maps.app.goo.gl/h1UEax3LcZENDM5U9" "https://maps.app.goo.gl/wdb8vjUUVTStK96F9" "https://goo.gl/maps/F16NsV6qzHpeSFZr9" %}}。またMTNやairtelのロゴも町中で見かける{{% ex "https://maps.app.goo.gl/NXTC4LaLemnRpetk6" %}}。この場所はATMのような役割を果たしており電子マネーのやり取りができるらしい{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}。{{% goto "../uganda/" "ウガンダ" %}}や{{% goto "../ghana/" "ガーナ" %}}でも事業をしている。
 {{% /notice %}}
 
 <div class="googlemap-if">

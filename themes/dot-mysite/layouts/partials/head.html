@@ -68,7 +68,10 @@
   <meta property="og:image" content="{{ $flagUrl_card | absURL }}">
   <meta name="twitter:image" content="{{ $flagUrl_card | absURL }}">
   {{ end }}
-
+  {{ if .Params.sumnail_mk }}
+  <meta property="og:image" content="{{ "sns/OP-MKnora.jpg" | absURL }}">
+  <meta name="twitter:image" content="{{ "sns/OP-MKnora.jpg" | absURL }}">
+  {{ end }}
   <style>
   :root{
     --primary-color:{{ .Site.Params.primary_color }};
