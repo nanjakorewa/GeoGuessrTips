@@ -14,6 +14,7 @@ is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../peru/", "ペルー"],
+    ["../colombia/", "コロンビア"],
     ["../../asia/india/", "インド"],
     ]
 ---
@@ -55,12 +56,24 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 {{% /notice %}}
 
 
+
 {{% notice tip %}}
-タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。
+細かい仕切りや穴がある電柱は南米ではエクアドル以外ほとんど見かけない{{% ex "https://maps.app.goo.gl/tdGZWyxepCNtt7LE7" "https://maps.app.goo.gl/FMn4jfvTZ6NDkvQe7" "https://maps.app.goo.gl/BDXPzA6KPDPSedwi8" "https://maps.app.goo.gl/rHXE1sJTRZvDvmTy7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
+<img src="pole.jpg" width="95%" />
+</div>
+
+
+
+{{% notice tip %}}
+タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。道のタイルも特徴的{{% ref "https://www.plonkit.net/ecuador" "plonkit" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bartlinssen/27492854789/" title="Untitled"><img src="https://live.staticflickr.com/4634/27492854789_3fb1d86769_z.jpg" width="640" height="480" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./tile.jpg" width="640" >
 </div>
 
 {{% lb 50 %}}
@@ -68,6 +81,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 
 By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">Zcarstvnz</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72312390">Link</a>
 {{% /lb %}}
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -111,17 +125,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691661680705!6m8!1m7!1sED-w-mnYhm8EnkN4TeQZpA!2m2!1d-1.965576244689675!2d-79.78130534272393!3f130.69418924095467!4f4.335944244635783!5f1.5867020340990017"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% /tab %}}
-{{% tab "w-googlecar" %}}
-{{% notice tip %}}
-赤や白のぼかしにアンテナがちょっと見える。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680194683604!6m8!1m7!1sMtvT_41CB0goCdpzCRdhXg!2m2!1d-0.1714598883614303!2d-78.48973907581545!3f101.51991125706458!4f-33.7065829871796!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688829681459!6m8!1m7!1sQYt95CAnpw3B_HsOIe4l3g!2m2!1d-3.770267940009595!2d-78.73940872974077!3f229.7554627436984!4f-32.261134461991354!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688829813109!6m8!1m7!1szqCFrptSmdrg3vyvWCfqPQ!2m2!1d0.2375373675010081!2d-78.34631228360985!3f189.40816902643556!4f-36.76574430592228!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688829875622!6m8!1m7!1s9eX9rIO8mrszxmDFDZROzQ!2m2!1d-0.2555755127413128!2d-80.2917374954958!3f223.2545471736234!4f-33.08495663102262!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "🎶" %}}
 
