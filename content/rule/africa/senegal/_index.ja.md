@@ -24,10 +24,11 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.sn</span></li>
         <li>言語は<span class="quiz">フランス語</span>とウォロフ語が使われる</li>
+        <li>{{% goto "../../europe/france/" "フランス" %}}と同じく通り名に「RUE」と書かれている</li>
         <li>フランスと同じく<span class="quiz">右側</span>通行</li>
+        <li>フランスで使用されるボラードや電柱が見つかる</li>
         <li>ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色が多い</li>
         <li>トラックの屋根が映っている場所が多くその種類で地域まで分かる{{% by %}}</li>
-        <li>{{% goto "../../europe/france/" "フランス" %}}と同じく通り名に「RUE」と書かれている</li>
         <li class="no-evidence">2015年に撮影されたものは空に<span class="quiz">ひびのような線が入っている</span>ことが多い{{% ex "https://goo.gl/maps/7nwXozV3Yv5RvAph6" "https://goo.gl/maps/XqTzitvRPXjxrjEJ6" %}}</li>
     </ul>
     {{% rd africa senegal verysmall %}}
@@ -37,7 +38,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。白色に見えるプレートもある。<span class="quiz">青</span>色ナンバーは{{% goto "../botswana/" "ボツワナ" %}}にもある点に注意。
+ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://maps.app.goo.gl/87kW1myfKvJKkVGQ9" "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。白色に見えるプレートもある。<span class="quiz">青</span>色ナンバーは{{% goto "../botswana/" "ボツワナ" %}}にもある点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -51,20 +52,37 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 {{% /lb %}}
 
 {{% notice tip %}}
-{{% goto "../../europe/france/" "フランス" %}}にある電柱とおなじ形の電柱（左の奥に見える電柱など）がある。また通り名のプレートもフランスと似たようなものを使っていて通り名に「RUE」と書かれている。1960年にフランスから独立するまではフランス植民地だった{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "アフリカ分割" %}}。
+{{% goto "../../europe/france/" "フランス" %}}とおなじ形の電柱{{% ex "https://maps.app.goo.gl/RQH5CAecC1NTwaix9" "https://maps.app.goo.gl/cbM26qhvAKLT3KmM6" %}}やボラード{{% ex "https://maps.app.goo.gl/FysAh8ZqfYedmFhf7" %}}がある。また通り名に「RUE」と書かれていることも。1960年にフランスから独立するまではフランス植民地だった{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "アフリカ分割" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689904523916!6m8!1m7!1ssB6m6dY7gMC4tuhbnljpaw!2m2!1d16.25490530805905!2d-15.79537753038563!3f116.8511106242806!4f3.235587138574587!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683957920812!6m8!1m7!1sauiScdo2WauA8rWdctcjhA!2m2!1d14.73037964932632!2d-17.47083687516089!3f346.3709277196887!4f4.374441865386004!5f3.2786393840952575" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350">
+<img src="./640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350">
 </div>
 
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_à_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" alt="Climat chimique à MBORO.jpg" width="700"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Princesssenegal&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Princesssenegal (page does not exist)">Princesssenegal</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130830873">Link</a></p>
+</div>
 
 {{% notice tip %}}
-Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがかなり大きいときがある{{% ex "https://maps.app.goo.gl/rw25br33hC6TZQAC8" %}}。
+郊外に藁ぶき屋根の家が見つかることも{{% ex "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}。
 {{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+セネガルや{{% goto "../botswana/" "ボツワナ" %}}・{{% goto "../madagascar/" "マダガスカル" %}}のようなサバンナ地帯ではバオバブの木が見つかる{{% ex "https://maps.app.goo.gl/x4JLyv1HUNxqwyKT9" "https://maps.app.goo.gl/Tc2Ej1t8ASYqMrjx5" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./960px-Senegal_011.jpg" width="80%">
+</div>
+
+{{% notice tip %}}
+Google Carの屋根が見えたり{{% ex "https://maps.app.goo.gl/XUf7dYrPKNdZykNC9" "https://maps.app.goo.gl/E7GbCvjw3oTyimgq7" %}}Google Carを隠すためのモザイクがかなり大きいときがある{{% ex "https://maps.app.goo.gl/5xfemDEezFwaTt9V6" %}}。ルーフレールが見えることもある{{% ex "https://maps.app.goo.gl/tyJo2kA4UR8vCbPs9" "https://maps.app.goo.gl/RBsT1j2oMSfWRo99A" "https://maps.app.goo.gl/QySDxofaV96B1jrc6" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686446534206!6m8!1m7!1selo9Ar26uD_-wLGcOHucEg!2m2!1d14.08048083376086!2d-12.97505287100254!3f250.06515007223288!4f-17.27047137495677!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689904309887!6m8!1m7!1sACuSw69jdwZG7RlLyPbWAg!2m2!1d14.78783752954959!2d-12.43782828662209!3f193.91743027508875!4f-24.507410395603088!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686446534206!6m8!1m7!1selo9Ar26uD_-wLGcOHucEg!2m2!1d14.08048083376086!2d-12.97505287100254!3f250.06515007223288!4f-17.27047137495677!5f0.7820865974627469" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
@@ -89,7 +107,7 @@ Google Carの屋根が見えたりGoogle Carを隠すためのモザイクがか
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice tip %}}
-これら以外にも色々な種類がある。{{% goto "../../europe/france/" "フランス" %}}のボラードをもとに改造しているような気もする。
+これら以外にも色々な種類があるが、見た目は{{% goto "../../europe/france/" "フランス" %}}のボラードに似ている。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692012478025!6m8!1m7!1sK1BBH07meJRr_mWI5_VAlw!2m2!1d13.26041584753564!2d-13.20021350290872!3f138.63360919790412!4f-4.1284630349873765!5f3.3221390690389803" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
