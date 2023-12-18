@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-そして特徴的な形の電柱も多い{{% ex "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
+他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -59,7 +59,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
