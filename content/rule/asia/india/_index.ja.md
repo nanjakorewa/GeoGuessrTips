@@ -37,7 +37,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-言語が特徴的なので慣れれば判別できる。また都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い{{% ex "https://goo.gl/maps/AXZgXsD1KL6caRtU9" "https://goo.gl/maps/EYZo8wfHJXYWEuH29" "https://goo.gl/maps/gsG8oJJ1MGaMb1we8" "https://goo.gl/maps/L1EM1YBtwkMqfDDK9" %}}。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいかも。
+言語が特徴的{{% ex "https://maps.app.goo.gl/yes28VrDXMdyNT9h8" %}}で英語のみの時もある{{% ex "https://maps.app.goo.gl/6DfxqiyTBBA1BxWL9" %}}。また都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い{{% ex "https://goo.gl/maps/AXZgXsD1KL6caRtU9" "https://goo.gl/maps/EYZo8wfHJXYWEuH29" "https://goo.gl/maps/gsG8oJJ1MGaMb1we8" "https://goo.gl/maps/L1EM1YBtwkMqfDDK9" %}}。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -59,7 +59,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
