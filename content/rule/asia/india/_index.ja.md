@@ -44,14 +44,26 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱の配線が綺麗に整備されていない場合も多い。そして特徴的な形の電柱も多い（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱。
+電柱の配線が綺麗に整備されていない場合も多い。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tlinn/40549983514/" title="Hauz Qazi Substation 1953 | Old Delhi, India"><img src="https://live.staticflickr.com/876/40549983514_b44e94db9d_z.jpg" width="640" height="427" alt="Hauz Qazi Substation 1953 | Old Delhi, India"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<img src="./delhi_road_india_chaos.jpg" width="80%">
 </div>
+
+{{% notice tip %}}
+そして特徴的な形の電柱も多い{{% ex "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
+{{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
 <img src="pole.jpg" width="90%" alt="インドの電柱" />
+</div>
+
+{{% notice tip %}}
+インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./bollard.jpg" width="80%">
 </div>
 
 {{% /tab %}}
@@ -286,21 +298,19 @@ Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
 {{% notice tip %}}
-黄色い長方形のステッカーがある{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい。
+黄色い長方形のステッカーがある{{% ex "https://maps.app.goo.gl/n8SAL2DoJua6JGMo6" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685017265153!6m8!1m7!1sCtlTLbuLlXjZ0nABa7u9sw!2m2!1d26.85363595356742!2d80.89094687365599!3f163.78688405149154!4f-10.371778711174414!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685127193780!6m8!1m7!1sMSJUA6WJHctwAWyPPUTiLw!2m2!1d26.85172705528472!2d80.88918174857687!3f141.65999264133143!4f-2.186885653060486!5f2.808609590138996" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./flood_water_street_disaster.jpg" width="600">
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
 
 {{% notice tip %}}
-穴のあるポール（ホーリーポール）がある{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
+穴のあるポール（ホーリーポール）がある{{% ex "https://maps.app.goo.gl/cstGEuPUV8Xe6xHe7" %}}{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685017943221!6m8!1m7!1s0lohNstRjUjPP3fq1troew!2m2!1d22.71400338506187!2d70.77935616191202!3f43.196157962068376!4f1.7352542985658914!5f3.1080304053464243" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680576816311!6m8!1m7!1sqGG73951gMN6Ai7KuDktng!2m2!1d21.81631263462618!2d69.52585548531856!3f298.1681275967205!4f15.406022583345504!5f3.324875573278878" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./telnargaam.jpg" width="600" />
 </div>
 {{% /tab %}}
 {{% tab "Telangana・Andhra Pradesh" %}}
