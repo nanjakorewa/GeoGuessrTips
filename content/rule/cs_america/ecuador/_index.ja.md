@@ -68,7 +68,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 
 
 {{% notice tip %}}
-タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。道のタイルも特徴的{{% ref "https://www.plonkit.net/ecuador" "plonkit" %}}。
+タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://goo.gl/maps/QH4iWoXip8BKtLS1A" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。道のタイルも特徴的{{% ref "https://www.plonkit.net/ecuador" "plonkit" %}}だけれど、他の国でもたまに見つかる（{{% goto "../../n_america/mexico/" "メキシコ" %}}の例{{% ex "https://maps.app.goo.gl/7HMyKTjibtQV5hkR8" "https://maps.app.goo.gl/LYthgJHkwnc2HCAY7" %}}）ので周りの様子も合わせてエクアドルと判断する。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

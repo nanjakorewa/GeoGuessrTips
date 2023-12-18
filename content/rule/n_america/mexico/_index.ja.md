@@ -55,7 +55,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">8角形</span>の電柱が特徴的{{% ex "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}。ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
+<span class="quiz">8角形</span>の電柱が特徴的{{% ex "https://maps.app.goo.gl/KzddnjrWnkGvxGSz8" "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}。ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./pole.png" width="90%">
@@ -78,7 +78,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">円</span>形の電力計がある{{% ex "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}。
+<span class="quiz">円</span>形の電力計がある{{% ex "https://maps.app.goo.gl/vq4ZQzWQm1JA16nf7" "https://maps.app.goo.gl/3tpvyCGuuz7hytbw9" "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
