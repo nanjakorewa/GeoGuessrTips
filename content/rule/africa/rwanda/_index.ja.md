@@ -65,23 +65,30 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>国立公園の中にストリートビューが何か所かある
-            <ul>
-                <li>Akagera National Park：赤っぽい土{{% ex "https://maps.app.goo.gl/fb9NHvkV46oEkNo7A" "https://maps.app.goo.gl/h9drieGi27ApJhVK8" "https://maps.app.goo.gl/c7dbxs6f7fGhRaDE9" %}}</li>
-                <li>Nyungwe National Park：町は見えず周りが山がち{{% ex "https://maps.app.goo.gl/wWS3snpnY1PWyzhk8" "https://maps.app.goo.gl/oYctELzAXvRkCwjk7" %}}</li>
-            </ul>
-        </li>
-        <li>Butareは大学が多く石畳の道が多く{{% ex "https://maps.app.goo.gl/tJQD9kfn15ojWPet6" %}}『SH』で始まる通り名{{% ex "https://maps.app.goo.gl/M7E39xuoaG6u3qE18" %}}</li>
-        <li>Kibeho{{% ex "https://maps.app.goo.gl/xPjdZSMNztc97pmb8" "https://maps.app.goo.gl/KmduEKAsw2pfrXTx5" %}}・最北のエリア{{% ex "https://maps.app.goo.gl/SgKok5bWWjbeBQi29" %}}
+        <li>西のコンゴ民主共和国側のキブ湖沿いに街と道路がある{{% ex "https://maps.app.goo.gl/ZcYG1qAoUR63Mf867" "https://maps.app.goo.gl/sU2kpL1uezPnfFvs8" %}}{{% ref "https://en.wikipedia.org/wiki/Lake_Kivu" "Lake Kivu" %}}</li>
+        <li>Butareは大学が多く石畳の道が多い{{% ex "https://maps.app.goo.gl/tJQD9kfn15ojWPet6" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "Nyungwe National Park" %}}
+{{% tab "キブ湖" %}}
+
+{{% notice tip %}}アフリカ五大湖のひとつ{{% ex "https://maps.app.goo.gl/sU2kpL1uezPnfFvs8" "https://maps.app.goo.gl/ZcYG1qAoUR63Mf867" %}}。
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Nyungwe.jpg#/media/File:Nyungwe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c0/Nyungwe.jpg" alt="Nyungwe.jpg" height="720" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Jnshuti&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Jnshuti (page does not exist)">Jnshuti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=106032692">Link</a></p>
+<img src="./home_st_jean_view.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "Butare" %}}
+
+{{% notice tip %}}通り名はSHが多い{{% ex "https://maps.app.goo.gl/qhcjmQXN7Wb1kuqe6" "https://maps.app.goo.gl/Amr7HGzNQomLgPWQ7" %}}？
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_(3).jpg#/media/File:National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_(3).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_%283%29.jpg" alt="National Museum of Rwanda - Butare - Flickr - Dave Proffer (3).jpg" height="2592" width="3872"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/23442653@N00">Dave Proffer</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/deepphoto/463798066/">National Museum of Rwanda - Butare</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=18113056">Link</a></p>
 </div>
 
 {{% /tab %}}

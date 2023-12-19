@@ -29,20 +29,27 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+{{% notice tip %}}
+ヒマラヤ登山の拠点であるNamche Bazaar（नाम्चे बजार）にストリートビューがある{{% ex "https://maps.app.goo.gl/y76kixzaKfVDn1s17" "https://maps.app.goo.gl/vQeiU8gnXyiWr17S8" %}}{{% ref "https://en.wikipedia.org/wiki/Namche_Bazaar" "Namche Bazaar" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Namche_Bazaar_(38474411691).jpg#/media/File:Namche_Bazaar_(38474411691).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Namche_Bazaar_%2838474411691%29.jpg" alt="Namche Bazaar (38474411691).jpg" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/57527070@N06">Lenny K Photography</a> from Sydney, Australia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/lennykphotography/38474411691/">Namche Bazaar</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=134167077">Link</a></p>
+</div>
+
 
 {{% notice tip %}}
-エベレストのふもとの山岳地帯を歩いている
+エベレストのふもとの山岳地帯を歩いている{{% ex "https://maps.app.goo.gl/SfvTeL7S6MtpJdeT9" "https://maps.app.goo.gl/BH56QX51AvmnjBy48" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686657602661!6m8!1m7!1s6Q8MqNeGyiS5ZExp8a8yNA!2m2!1d27.9294764463558!2d86.70796646760141!3f17.6235971642649!4f-9.440507387898023!5f1.1010294940374616" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686657646181!6m8!1m7!1sJcwwvOOhF6NrnAy9mSm0Qg!2m2!1d27.80525973425062!2d86.70938802980334!3f115.1028091116936!4f-20.710835787913553!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./mountains_mount_everest_base_0.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
-お店で登山用グッズを売っていて現在地点の高さが看板に書いてある。周りの人たちも登山用のバッグを背負っている。
+{{% goto "../bhutan/" "ブータン" %}}と同じく旗が見られる{{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}。お店で登山用グッズを売っていて現在地点の高さが看板に書いてある。周りの人たちも登山用のバッグを背負っている。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686658052117!6m8!1m7!1st-wsY4WjE6IwVyCOz04stw!2m2!1d27.85695534168585!2d86.78823890552593!3f91.57823355735472!4f14.889785014200825!5f1.537021344989522" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./nepal_annapurna_himalayas_trekking.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

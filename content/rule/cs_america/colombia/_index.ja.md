@@ -38,7 +38,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の背面には<span class="quiz">クロス（いわゆるコロンビアンクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。稀にクロスっぽいものが{{% goto "../ecuador/" "エクアドル" %}}にもある点のみ注意{{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}。
+標識の背面には<span class="quiz">クロス（いわゆるコロンビアンクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。稀にクロスっぽいものが{{% goto "../ecuador/" "エクアドル" %}}にもある点のみ注意{{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road-sign-example.jpg" width="85%" />
@@ -153,7 +153,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
+        <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" %}}{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
         <li>ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}</li>
         <li>{{% goto "../brazil/" "ブラジル" %}}と{{% goto "../peru/" "ペルー" %}}の国境付近にLeticiaという町がありGoogle Carが見える{{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
     </ul>
@@ -161,7 +161,7 @@ sc: [
 
 {{% tabs %}}
 {{% tab "メデジン" %}}
-{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
+{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="ar236201.jpg" width="80%" />
