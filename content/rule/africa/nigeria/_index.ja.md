@@ -52,17 +52,25 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 {{% /lb %}}
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/34QEVYLS3HAVGFd2A" "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。南西のラゴス周辺ではパトカーがいないことやパトカーでない車{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}もあるので注意。Google Carも見えることが多い{{% ex "https://maps.app.goo.gl/8tK6GLpPioxb5yeT7" "https://maps.app.goo.gl/Ei4mHBtc1W2pSFvD7" "https://maps.app.goo.gl/2A5FTL2MVrPuWfZJ8" "https://maps.app.goo.gl/38nBvtGx18G6uLgF7" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-黄色の小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/pL3LJBCYcEJu7Bii6" %}}。看板は英語で書かれている。
+黄色の小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/vhSrUtLNmUuY82Re6" "https://maps.app.goo.gl/Hp6pHKWFxHNdADWJ8" "https://maps.app.goo.gl/EAouojKtiqBWbjTCA" %}}。看板は英語で書かれている。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+こんな感じの金属の屋根がついた平屋の家が多い{{% ex "https://maps.app.goo.gl/68fdWw1ryGnP4MwcA" "https://maps.app.goo.gl/Rs9chhraNPo674JKA" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/34QEVYLS3HAVGFd2A" "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}がパトカーでない車が付いてくる{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}こともある。また、パトカーがいないことも多い{{% ex "https://maps.app.goo.gl/pKuP9QTmhX6GYLUA9" "https://maps.app.goo.gl/hKiZzhn5CszTnSw86" %}}。Google Carも見えることが多い{{% ex "https://maps.app.goo.gl/8tK6GLpPioxb5yeT7" "https://maps.app.goo.gl/Ei4mHBtc1W2pSFvD7" "https://maps.app.goo.gl/2A5FTL2MVrPuWfZJ8" "https://maps.app.goo.gl/38nBvtGx18G6uLgF7" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

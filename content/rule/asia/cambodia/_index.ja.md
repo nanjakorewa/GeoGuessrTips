@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-カンボジアの農村部は<span class="quiz">高床式住居</span>が多い{{% ex "https://maps.app.goo.gl/NrkRT5tKkQj4GMXYA" %}}。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
+カンボジアの農村部は<span class="quiz">高床式住居</span>が多い{{% ex "https://maps.app.goo.gl/NS8Y5VjjarYJP3WSA" "https://maps.app.goo.gl/ouBZ6L8qeNAssnS4A" "https://maps.app.goo.gl/NrkRT5tKkQj4GMXYA" %}}。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Cambodia Rural House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -74,7 +74,7 @@ sc: [
 
 
 {{% notice tip %}}
-仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
+仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ex "https://maps.app.goo.gl/XPStXnx9kYFC9GJT6" "https://maps.app.goo.gl/5WMreVZxQ9ejkumf7" "https://maps.app.goo.gl/MrQZBDy2Pox44tRw5" "https://maps.app.goo.gl/DewXDHptMKeZGDCv5" %}}{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Cambodian house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
