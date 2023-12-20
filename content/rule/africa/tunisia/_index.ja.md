@@ -34,6 +34,15 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
+
+{{% notice tip %}}
+特徴的な網目のある電柱が見つかる{{% ex "https://maps.app.goo.gl/hqXfjySphhMKgX5BA" "https://maps.app.goo.gl/6FCynZ4NfJy7T5828" "https://maps.app.goo.gl/NvMPNpqyVML678oj9" "https://maps.app.goo.gl/dcHxnvg6oJpsGxYA9" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:El_kantara-stegop-03.jpg#/media/File:El_kantara-stegop-03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/El_kantara-stegop-03.jpg" alt="El kantara-stegop-03.jpg" width="95%"></a></p><p>By © Jose Mario Pires, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20885309">Link</a></p>
+</div>
+
+
 {{% notice tip %}}
 <span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。そしてGoogle Carの後ろに黒っぽい色の車が付いてくることが多い{{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref "画像出典 - 画像加工あり" %}}。
 {{% /notice %}}
@@ -56,16 +65,6 @@ CC0
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
 </div>
-
-
-{{% notice tip %}}
-特徴的な形の電柱がある{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691034582806!6m8!1m7!1s6pfFY0fxPp7DQ4DCObWJPw!2m2!1d34.41795011414693!2d8.784803930790263!3f73.89126476951427!4f18.394098215577486!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691034460708!6m8!1m7!1sxFwEKIkh1gbhDaGgEqvLmA!2m2!1d34.38272769386393!2d7.933106456537871!3f316.0875552465727!4f27.500450130729263!5f3.2491148336711095"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 
 
 
