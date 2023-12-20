@@ -36,7 +36,7 @@ sc: [
 
 
 {{% notice tip %}}
-特徴的な網目のある電柱が見つかる{{% ex "https://maps.app.goo.gl/hqXfjySphhMKgX5BA" "https://maps.app.goo.gl/6FCynZ4NfJy7T5828" "https://maps.app.goo.gl/NvMPNpqyVML678oj9" "https://maps.app.goo.gl/dcHxnvg6oJpsGxYA9" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
+特徴的な網目のある電柱が見つかる{{% ex "https://maps.app.goo.gl/hqXfjySphhMKgX5BA" "https://maps.app.goo.gl/EFV8RDZC1zBjY2WVA" "https://maps.app.goo.gl/6FCynZ4NfJy7T5828" "https://maps.app.goo.gl/NvMPNpqyVML678oj9" "https://maps.app.goo.gl/dcHxnvg6oJpsGxYA9" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:El_kantara-stegop-03.jpg#/media/File:El_kantara-stegop-03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/El_kantara-stegop-03.jpg" alt="El kantara-stegop-03.jpg" width="95%"></a></p><p>By © Jose Mario Pires, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20885309">Link</a></p>
