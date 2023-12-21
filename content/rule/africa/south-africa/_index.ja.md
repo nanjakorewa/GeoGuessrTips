@@ -139,6 +139,12 @@ P522と書かれているのは道路番号なので見逃さないように。
                 <li>⑥Fynbos、地中海性気候がメインで植生の多くが細い針状の葉を持っている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9" "Wikipedia『フィンボス』" %}}</li>
             </ul>
         </li>
+        <li>農業の種類で地域がわかることがある
+            <ul>
+                <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
+                <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -192,22 +198,6 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682325086107!6m8!1m7!1sQdpNKOtc8WiQ2kpj0hSEUQ!2m2!1d-28.8076136017554!2d20.44497834268564!3f120.99758362124906!4f-1.4992175063994466!5f0.8742806863926469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
-        <li>農業の種類で地域がわかることがある
-            <ul>
-                <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
-                <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
-            </ul>
-        </li>
-        <li>市外局番のエリアコードで地域が分かる</li>
-        <li>レソト周辺はナンバープレートが緑色っぽい{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_South_Africa" "南アフリカの州ごとのナンバープレート" %}}</li>
-    </ul>
-</div>
-
-{{% tabs %}}
 {{% tab "農業" %}}
 <div class="googlemap-if">
 
@@ -222,6 +212,26 @@ Waldner, François, et al. "National-scale cropland mapping based on spectral-te
 Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリアでさとうきびが見られる。
 {{% /notice %}}
 
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>ドラケンスバーグ山脈を横切る道がいくつかある{{% ex "https://maps.app.goo.gl/6E7Ar9zgJQug9MAx8" %}}</li>
+        <li>市外局番のエリアコードで地域が分かる</li>
+        <li>レソト周辺はナンバープレートが緑色っぽい{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_South_Africa" "南アフリカの州ごとのナンバープレート" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ドラケンスバーグ山脈" %}}
+{{% notice tip %}}
+写真は恐らくR301、Bain`s Kloof Passという名前が付いているらしい{{% ex "https://maps.app.goo.gl/6E7Ar9zgJQug9MAx8" "https://maps.app.goo.gl/JhAjEJr9YG4a4ZKAA" %}}。ドラケンスバーグ山脈を横切るR301・R323{{% ex "https://maps.app.goo.gl/GS1pNZs8Pv8Ko3Zt7" %}}・R324{{% ex "https://maps.app.goo.gl/ZzUMAr6jXoYZFDzU8" %}}・R62{{% ex "https://maps.app.goo.gl/48dLx2N9D234b1p56" %}}・N1{{% ex "https://maps.app.goo.gl/sNA4GVgQZs6Lj1bB6" %}}などは道の両側に険しい岩肌が立っていることがある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="bainskloof_pass01.jpg" width="500px"/>
+</div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
@@ -248,18 +258,18 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>???</li>
+        <li>Titanic Rock{{% ex "https://maps.app.goo.gl/VQmpjtp4R4DLFqxa6" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "???" %}}
+{{% tab "Titanic Rock" %}}
 {{% notice tip %}}
-???
+観光名所らしいけれどかなり近くに寄らないと見ることはできない
 {{% /notice %}}
-
 <div class="googlemap-if">
-<img src="bainskloof_pass01.jpg" width="500px"/>
+<img src="titanic_rock_clarens.jpg" width="500px"/>
 </div>
 {{% /tab %}}
+
 {{% /tabs %}}
