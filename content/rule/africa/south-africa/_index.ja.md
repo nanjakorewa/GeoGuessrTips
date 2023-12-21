@@ -78,13 +78,20 @@ sc: [
 </div>
 
 {{% notice tip %}}
-タクシーが特徴的でバン(van)型の車をよく見かける。
+タクシーが特徴的でバン(van)型の車をよく見かける
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050535).jpg#/media/File:Wikimania_2018,_Cape_Town_(P1050535).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wikimania_2018%2C_Cape_Town_%28P1050535%29.jpg" alt="Wikimania 2018, Cape Town (P1050535).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:MB-one" title="User:MB-one">Matti Blume</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70971749">Link</a></p>
 </div>
 
+{{% notice tip %}}
+細長い赤白の反射板がよく見つかる{{% ex "https://maps.app.goo.gl/x3eHWMpa3KnvCJB48" "https://maps.app.goo.gl/HohfRVHYUzXWqCFn8" "https://maps.app.goo.gl/AAitTkE4icztsfkj8" "https://maps.app.goo.gl/djWi3G58jgEL1JPe9" "https://maps.app.goo.gl/KLVHAFQggt5gxKnU9" "https://maps.app.goo.gl/snKMydTScqxQshmK7" "https://maps.app.goo.gl/xRZbUbFuX8ZjPdBZ7" %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./sign.jpg" width="500px">
+</div>
 
 {{% /tab %}}
 {{% tab "ボラード" %}}
@@ -233,5 +240,26 @@ North West Province・Free State Province・Eastern Cape Provinceは草原が描
 Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373">Link</a>
 {{% /lb %}}
 
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>???</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "???" %}}
+{{% notice tip %}}
+???
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="bainskloof_pass01.jpg" width="500px"/>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
