@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://goo.gl/maps/TsgCod5xnuJ6opAo8" "https://goo.gl/maps/Bjv2u3tXA8y1C32NA" "https://goo.gl/maps/KZVNk6yYXjjAhKLGA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。一番下まで空いていたらルーマニアか{{% goto "../hungary/" "ハンガリー" %}}、一番下が空いていなかったら{{% goto "../poland/" "ポーランド" %}}かも。黄色いマーカーが付いていることが多い。
+電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。一番下まで空いていたらルーマニアか{{% goto "../hungary/" "ハンガリー" %}}、一番下が空いていなかったら{{% goto "../poland/" "ポーランド" %}}かも。黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><img src="./pole.jpg" width="259"><p>
@@ -64,7 +64,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ルーマニアのボラードは場所を特定するためのヒントが多い{{% imref %}}。ちっちゃいバージョンもある{{% ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" %}}。
+ルーマニアのボラードは場所を特定するためのヒントが多い{{% ex "https://maps.app.goo.gl/n39v4NqpNjq5wazd7" %}}{{% imref %}}。ちっちゃいバージョンもある{{% ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -102,12 +102,15 @@ sc: [
 <img src="../poland/guardrail.png" width="90%">
 </div>
 {{% notice tip %}}
-横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。またルーマニア{{% ex "https://goo.gl/maps/K73aTYQpJxKeq7s17" "https://goo.gl/maps/yzZQrPFvCboNYo1h9" "https://goo.gl/maps/pQJi43V1uycmSFWV9" %}}・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../san-marino/" "サンマリノ" %}}・{{% goto "../germany/" "ドイツ" %}}は標識の裏側が黒っぽい時が多い。
+ルーマニアは標識の裏側が黒っぽい時が多い{{% ex "https://maps.app.goo.gl/WXQP3dPexEe6NWdN6" "https://maps.app.goo.gl/pnYHsXFm2SmWgowE6" %}}。また横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。
+{{% /notice %}}
+
+{{% notice note %}}ヨーロッパでは他に{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../san-marino/" "サンマリノ" %}}・{{% goto "../germany/" "ドイツ" %}}などで裏が黒いことが多め。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
 <img src="./sign-bg.png" width="110px" style="margin:21px">
+<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
