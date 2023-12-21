@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/YiE9jtgn6vwXf4GJ6" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/cg2GjLaSpn4E2MuL6" "https://maps.app.goo.gl/YiE9jtgn6vwXf4GJ6" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い。
+標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い{{% ex "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-06-16-06-39-55.png" width="350px">
@@ -91,10 +91,32 @@ sc: [
 
 
 {{% notice tip %}}
-🧵の形のタイルが歩道などにありがち{{% ex "https://maps.app.goo.gl/Nrc6LexVuUGrRKUs5" "https://maps.app.goo.gl/6w1kiajoLA5CdCAS8" "https://maps.app.goo.gl/6Vk7UFCwYJ1cZFMP7" %}}。
+🧵の形のタイルが歩道などにありがち{{% ex "https://maps.app.goo.gl/QZcXeJxTV3PiCrPX7" "https://maps.app.goo.gl/Nrc6LexVuUGrRKUs5" "https://maps.app.goo.gl/6w1kiajoLA5CdCAS8" "https://maps.app.goo.gl/6Vk7UFCwYJ1cZFMP7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
+</div>
+
+{{% notice tip %}}
+個人的にトルコっぽいと思う電柱{{% imref "⑤のみ画像を外部より引用" %}}。これらに似た違う形や{{% goto "../../europe/bulgaria/" "ブルガリア" %}}にありそうなフック型のものもある{{% ex "https://maps.app.goo.gl/1BhQHXUPbLA3d8xbA" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./poles.jpg" width="95%" alt="トルコの電柱" />
+</div>
+
+<div class="googlemap-if unclickable">
+<table style="width:80%">
+<tr>
+    <td style="width:2em;">①</td><td>{{% ex "https://maps.app.goo.gl/UEYxTYUw2LDfPvrTA" "https://maps.app.goo.gl/nYsNo6wsZYkfLuSZ7" "https://maps.app.goo.gl/E6q3qhx1ve49F3DU7" "https://maps.app.goo.gl/XAX8pznJxAmBbq1S7" "https://maps.app.goo.gl/MYLfAt39TtbvD1sC6" "https://maps.app.goo.gl/mQug8yz9ivxpc5RP9" %}}</td>
+    <td style="width:2em;">②</td><td>{{% ex "https://maps.app.goo.gl/E3mrf9ErvqacfyWs9" "https://maps.app.goo.gl/sKP8pm6RQ1QK3LoY7" "https://maps.app.goo.gl/b8z85H8SDTwZWevP9" "https://maps.app.goo.gl/PjFJRF1ux85U7chy9" %}}<span style="font-size:0.8em">({{% goto "../../cs_america/argentina/" "アルゼンチン" %}}にありそうな形)</span></td>
+</tr><tr>
+    <td style="width:2em;">③</td><td>{{% ex "https://maps.app.goo.gl/6vzLXD1NPVz5Qmtc6" "https://maps.app.goo.gl/AL7Fn2pAgrhHGzf86" "https://maps.app.goo.gl/gRht1LomfxoKzj9E9" "https://maps.app.goo.gl/cVEAeYhmjyDiab9FA" %}}</td>
+    <td style="width:2em;">④</td><td>{{% ex "https://maps.app.goo.gl/PRCovK1DPbYCrwJy5" %}}</td>
+</tr><tr>
+    <td style="width:2em;">⑤</td><td>{{% ex "https://maps.app.goo.gl/kgsK652xVYNpQKbs7" "https://maps.app.goo.gl/6MsoMGASqRAWkPDF9" "https://maps.app.goo.gl/HCgWLvMkJRSLTJF28" "https://maps.app.goo.gl/Qx3xDY73jYUqzH8F9" %}}</td>
+    <td style="width:2em;"></td><td></td>
+</tr>
+</table>
 </div>
 
 
@@ -225,3 +247,7 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+{{% imgref %}}
+- By MERMERCİ ÖZGÜR1, CC BY 3.0, https://commons.wikimedia.org/w/index.php?curid=52804152
+{{% /imgref %}}

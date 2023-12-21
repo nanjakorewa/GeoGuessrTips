@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../romania/", "ルーマニア"],
     ["../hungary/", "ハンガリー"],
+    ["../../middle_east/turkey/", "トルコ"],
     ]
 ---
 
