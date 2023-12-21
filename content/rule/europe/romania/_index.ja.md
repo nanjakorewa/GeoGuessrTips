@@ -102,7 +102,7 @@ sc: [
 <img src="../poland/guardrail.png" width="90%">
 </div>
 {{% notice tip %}}
-ルーマニアは標識の裏側が黒っぽい時が多い{{% ex "https://maps.app.goo.gl/WXQP3dPexEe6NWdN6" "https://maps.app.goo.gl/pnYHsXFm2SmWgowE6" %}}。また横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。
+ルーマニアは標識の裏側が黒っぽい時が多い{{% ex "https://maps.app.goo.gl/bfpkqgQyqTP1xSEy9" "https://maps.app.goo.gl/WXQP3dPexEe6NWdN6" "https://maps.app.goo.gl/pnYHsXFm2SmWgowE6" %}}。また横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。
 {{% /notice %}}
 
 {{% notice note %}}ヨーロッパでは他に{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../san-marino/" "サンマリノ" %}}・{{% goto "../germany/" "ドイツ" %}}などで裏が黒いことが多め。
