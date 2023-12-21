@@ -95,13 +95,6 @@ sc: [
 </div>
 
 {{% notice tip %}}
-左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ex "https://goo.gl/maps/BEaYk26gUVQqwpLK6" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="../poland/guardrail.png" width="90%">
-</div>
-{{% notice tip %}}
 ルーマニアは標識の裏側が黒っぽい時が多い{{% ex "https://maps.app.goo.gl/bfpkqgQyqTP1xSEy9" "https://maps.app.goo.gl/WXQP3dPexEe6NWdN6" "https://maps.app.goo.gl/pnYHsXFm2SmWgowE6" %}}。また横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。
 {{% /notice %}}
 
@@ -111,6 +104,14 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="./sign-bg.png" width="110px" style="margin:21px">
 <img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+左が<span class="quiz">ポーランド</span>、右が<span class="quiz">ルーマニア</span>のガードレール。<span class="quiz">ポーランド</span>のガードレールは角ばっているが、<span class="quiz">ルーマニア</span>は角ばっていないことが多い{{% ex "https://goo.gl/maps/BEaYk26gUVQqwpLK6" %}}{{% ref "https://docs.google.com/spreadsheets/d/1Lp5nuqYLsKQ5WgK3GDnXEu7scLzkXgrFHJf2iRjRD48/edit#gid=0" "European Guardrails" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="../poland/guardrail.png" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
