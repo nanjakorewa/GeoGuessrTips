@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。左から順番に一番細い{{% goto "../poland/" "ポーランド" %}}、まあまあ太いと思われる{{% goto "../france/" "フランス" %}}、そしてルーマニア。
+ヨーロッパの中で圧倒的に太い<span style="color:red;font-weight:bold;">▽</span>{{% ex "https://maps.app.goo.gl/kEpEFiei6VRpV71j7" %}}。左から順番に一番細い{{% goto "../poland/" "ポーランド" %}}、まあまあ太いと思われる{{% goto "../france/" "フランス" %}}、そしてルーマニア{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -64,7 +64,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ルーマニアのボラードは場所を特定するためのヒントが多い{{% ex "https://maps.app.goo.gl/n39v4NqpNjq5wazd7" %}}{{% imref %}}。ちっちゃいバージョンもある{{% ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" %}}。
+ルーマニアのボラードは場所を特定するためのヒントが多い{{% ex "https://maps.app.goo.gl/vbLKqadmzFPy95X76" "https://maps.app.goo.gl/n39v4NqpNjq5wazd7" %}}{{% imref %}}。ちっちゃいバージョンもある{{% ex "https://goo.gl/maps/SWof13A8SMRbSGpF6" "https://goo.gl/maps/bzcK5yrcUAEGWDEn6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
