@@ -58,7 +58,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 
 
 {{% notice tip %}}
-細かい仕切りや穴がある電柱は南米ではエクアドル以外ほとんど見かけない{{% ex "https://maps.app.goo.gl/tdGZWyxepCNtt7LE7" "https://maps.app.goo.gl/FMn4jfvTZ6NDkvQe7" "https://maps.app.goo.gl/BDXPzA6KPDPSedwi8" "https://maps.app.goo.gl/rHXE1sJTRZvDvmTy7" %}}。
+細かい仕切りや穴がある電柱は南米ではエクアドル以外ほとんど見かけない{{% ex "https://maps.app.goo.gl/tdGZWyxepCNtt7LE7" "https://maps.app.goo.gl/FMn4jfvTZ6NDkvQe7" "https://maps.app.goo.gl/3ZQDu81VFYtgsem28" "https://maps.app.goo.gl/BDXPzA6KPDPSedwi8" "https://maps.app.goo.gl/rHXE1sJTRZvDvmTy7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -169,6 +169,18 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>タクシーに緑色のステッカーがあると<span class="quiz">キト</span>かも{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}</li>
+        <li>キトの北東にエクアドル内ではかなり高い山であるカヤンベ山への道がある{{% ex "https://maps.app.goo.gl/uwHFoWbHb24Z9mN88" %}}</li>
     </ul>
 </div>
+
+{{% tabs %}}
+{{% tab "カヤンベ山" %}}
+{{% notice tip %}}
+こんな感じの木が生えているイメージ{{% ex "https://maps.app.goo.gl/uwHFoWbHb24Z9mN88" "https://maps.app.goo.gl/ExpKNbopdPXCczPe7" "https://maps.app.goo.gl/hbiyNV4KwYT8TJkN7" "https://maps.app.goo.gl/3WG6JSJdMNoEVhnv9" %}}。標高が高くなると木も生えなくなる{{% ex "https://maps.app.goo.gl/Et1Tjd8Mg3UxLtpm7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./pichincha1a.jpg" width="95%" >
+</div>
+{{% /tab %}}
+{{% /tabs %}}
