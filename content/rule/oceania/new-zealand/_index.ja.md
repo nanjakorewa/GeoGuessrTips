@@ -43,28 +43,34 @@ sc: [
 
 
 {{% notice tip %}}
-電柱の上のほうに何かが巻かれている{{% ex "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}。
+電柱の上のほうに何かが巻かれている{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./poles.png" width="90%" alt="ニュージーランドの電柱" />
 </div>
 
 {{% notice tip %}}
-GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% ex "https://goo.gl/maps/g6VVwybuoqED18VN6" %}}。また、オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>{{% ex "https://maps.app.goo.gl/BAftLgNTYwZYS5vo9" "https://maps.app.goo.gl/ofRk7Yu7ScSqkwzb8" "https://maps.app.goo.gl/VJcFe3mQ61fSDE648" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="../australia/r/AU-speed-limit.svg" class="margin-ten-px width100" />
-    <img src="../australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" />
-    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0"/>
-    <img src="../new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" />
-    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
+    <img src="../australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;"/>
+    <img src="../new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;"/>
 </div>
 
 {{% notice tip %}}
-ニュージーランドは国土の40%以上が牧草地。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある。{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% ex "https://maps.app.goo.gl/d1mgFigaTTxQXxnG8" "https://goo.gl/maps/g6VVwybuoqED18VN6" "https://maps.app.goo.gl/asdeLN1rJ5VioLCbA" %}}
 {{% /notice %}}
-<div class="googlemap-if">
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+    <img src="../australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;"/>
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;"/>
+</div>
+
+{{% notice tip %}}
+ニュージーランドは国土の40%以上が牧草地。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
 <img src="./img_1492_27.jpg" width="95%">
 </div>
 
