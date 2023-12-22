@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>{{% ex "https://maps.app.goo.gl/BAftLgNTYwZYS5vo9" "https://maps.app.goo.gl/ofRk7Yu7ScSqkwzb8" "https://maps.app.goo.gl/VJcFe3mQ61fSDE648" %}}。
+オーストラリアならば速度表記が細長い白いプレートに書かれていることがある。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>{{% ex "https://maps.app.goo.gl/BAftLgNTYwZYS5vo9" "https://maps.app.goo.gl/d2jYJkd5bPFo4YNE7" "https://maps.app.goo.gl/ofRk7Yu7ScSqkwzb8" "https://maps.app.goo.gl/VJcFe3mQ61fSDE648" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
