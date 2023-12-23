@@ -14,6 +14,7 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../indonesia/", "インドネシア"],
+    ["../singapore/", "シンガポール"],
 ]
 ---
 
@@ -55,7 +56,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-とまれの標識が<span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" %}}。
+とまれの標識が<span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" "https://maps.app.goo.gl/fWQbsbNztk11KAWM6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="マレーシアの止まれの標識"/>
