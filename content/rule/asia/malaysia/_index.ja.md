@@ -41,7 +41,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄色い6角形の道路番号{{% ex "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインはほとんどが<span class="quiz">白</span>色で、画像のように中央に２本の<span class="quiz">白</span>線がある道はマレーシア以外あまり見かけない。
+黄色い6角形の道路番号{{% ex "https://maps.app.goo.gl/ZA6iiKkwtvp2v5hU6" "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインはほとんどが<span class="quiz">白</span>色で、画像のように中央に２本の<span class="quiz">白</span>線がある道はマレーシア以外あまり見かけない。
 {{% /notice %}}
 
 
@@ -103,7 +103,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 
 
 {{% notice tip %}}
-『AWAS』はマレー語で注意の意味{{% ex "https://maps.app.goo.gl/w4Yi8siCXuUafbgM8" %}}。
+『AWAS』はマレー語で注意の意味{{% ex "https://maps.app.goo.gl/fDAPhVLrP5ar3zf79" "https://maps.app.goo.gl/2rvkZDnezq6N5Etk7" "https://maps.app.goo.gl/w4Yi8siCXuUafbgM8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
