@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある{{% ex "https://maps.app.goo.gl/tW5xrsJtV8xPYkig6" "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}。道端に道路番号が書かれた白く小さい看板があり{{% ex "https://maps.app.goo.gl/rvRWmDMvbSqpR3uG7" %}}、このタイプの看板はスロベニアが一番多い。{{% goto "https://maps.app.goo.gl/nERo62nz2hHNYNyJ6" "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
+ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある{{% ex "https://maps.app.goo.gl/tW5xrsJtV8xPYkig6" "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}。道端に道路番号が書かれた白く小さい看板があり{{% ex "https://maps.app.goo.gl/rvRWmDMvbSqpR3uG7" %}}、このタイプの看板はスロベニアが一番多い。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./baskagrapa3.jpg" width="95%">

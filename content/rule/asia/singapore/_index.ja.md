@@ -59,7 +59,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-英語・中国語・マレー語・タミル語の4言語で表記された看板がある{{% ex "https://maps.app.goo.gl/UVdCDU1s1WJDGPz68" "https://maps.app.goo.gl/eWXodbYft29KcsiL7" "https://maps.app.goo.gl/JppGt3PJH1YoA47u5" "https://maps.app.goo.gl/4N7eTCLYKrWvmwmV9" %}}。
+{{% goto "../malaysia/" "マレーシア" %}}の都市部やシンガポールでは英語・中国語・マレー語・タミル語の4言語で表記された看板がある{{% ex "https://maps.app.goo.gl/UVdCDU1s1WJDGPz68" "https://maps.app.goo.gl/eWXodbYft29KcsiL7" "https://maps.app.goo.gl/JppGt3PJH1YoA47u5" "https://maps.app.goo.gl/4N7eTCLYKrWvmwmV9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./danger_keep_out_sign_6.jpg" width="90%">

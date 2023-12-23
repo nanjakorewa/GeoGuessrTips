@@ -102,6 +102,15 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 </div>
 
 
+{{% notice tip %}}
+『AWAS』はマレー語で注意の意味{{% ex "https://maps.app.goo.gl/w4Yi8siCXuUafbgM8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./640px-Tasik_Y_Recreational_Park_5.jpg" width="600">
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-commercial" %}}
 {{% notice tip %}}
