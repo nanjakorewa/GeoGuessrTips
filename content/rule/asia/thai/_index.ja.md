@@ -36,13 +36,17 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-中央タイ語が公用語となっている{{% ex "https://goo.gl/maps/42vxjK3DUGysPFVBA" %}}。
+中央タイ語が公用語となっている{{% ex "https://maps.app.goo.gl/7kwR5CrUKtMRAKi67" "https://maps.app.goo.gl/eSnJC45LR227nERC8" "https://maps.app.goo.gl/Vx4vY1Fo5V7ArcDC8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
 </div>
 
-{{% notice tip %}}ボラード{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。ただし似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車のナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
+{{% notice tip %}}ボラード{{% ex "https://maps.app.goo.gl/yyt5p8LpQn9kvpLE8" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。
+{{% /notice %}}
+
+{{% notice note %}}
+似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車のナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
@@ -53,7 +57,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 </div>
 
 {{% notice tip %}}
-白いボラードがあり、これを使って場所も絞り込める{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【5k戦略】気づきにくい道路番号を読み取る【GeoGuessr】" %}}。上のシンボルが黒塗りならばprovincial road（マップ上の紺色のマークの道）に行ってみる{{% by "sound_of_silence_wl" "twitch" %}}。
+白いボラードがあり、これを使って場所も絞り込める{{% ex "https://maps.app.goo.gl/gWDvYKMHHJVNyBFJ6" "https://maps.app.goo.gl/E1ghS8B7TC1dnpR7A" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【5k戦略】気づきにくい道路番号を読み取る【GeoGuessr】" %}}。上のシンボルが黒塗りならばprovincial roadなのでマップ上の紺色のマークの道に行ってみる{{% ex "https://maps.app.goo.gl/KPmbahp1Dw8g2KeRA" %}}{{% by "sound_of_silence_wl" "twitch" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -74,7 +78,7 @@ Public Domain
 
 
 {{% notice tip %}}
-{{% goto "../philippines/" "フィリピン" %}}と同じくコンクリート製の道路が多い{{% ex "https://goo.gl/maps/r13uzRvMa4tviaBd7" "https://goo.gl/maps/iX5PYuWwGEbDj8fv8" %}}。
+{{% goto "../philippines/" "フィリピン" %}}と同じくコンクリート製の道路が多い{{% ex "https://goo.gl/maps/r13uzRvMa4tviaBd7" "https://maps.app.goo.gl/R3tCgsx1Y9GfrvNR7" "https://maps.app.goo.gl/dYqx5XLXcWYNzzNk8" "https://goo.gl/maps/iX5PYuWwGEbDj8fv8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
