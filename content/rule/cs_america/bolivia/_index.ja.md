@@ -201,14 +201,22 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
+        <li>サハマ国立公園ではサハマ山が見えてなおかつGoogle Carが見える</li>
         <li>インカ帝国の発祥の地と言われる太陽の島がある{{% ex "https://maps.app.goo.gl/RC9JDSft8S2NEwWy6" "https://maps.app.goo.gl/4esYJCPpcBqDumqUA" %}}{{% ref "https://en.wikipedia.org/wiki/Isla_del_Sol" "太陽の島" %}}</li>
         <li>列車の墓場を徒歩で歩いている{{% ex "https://maps.app.goo.gl/nWheRwfzobFVo9E48" %}}{{% ref "https://es.wikipedia.org/wiki/Cementerio_de_trenes" "Cementerio de trenes" %}}</li>
-        <li>サハマ国立公園ではサハマ山が見えてなおかつGoogle Carが見える</li>
         <li>Ojos del Salarという塩原の中にストリートビューがある{{% ex "https://maps.app.goo.gl/MN43sGe156LZHQ878" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "サハマ国立公園" %}}
+{{% notice tip %}}
+GoogleCarが特徴的{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}。山もかなり特徴的。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./sajama_bolivia_volcano_way.jpg" width="95%" />
+</div>
+{{% /tab %}}
 {{% tab "太陽の島" %}}
 {{% notice tip %}}
 インカ時代の遺跡がたくさんある。
@@ -222,14 +230,6 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
-</div>
-{{% /tab %}}
-{{% tab "サハマ国立公園" %}}
-{{% notice tip %}}
-GoogleCarが特徴的{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}。山もかなり特徴的。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./sajama_bolivia_volcano_way.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% tab "Ojos del Salar" %}}
