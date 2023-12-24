@@ -229,6 +229,11 @@ sc: [
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:IndiaStatesByRTOcodes.png#/media/File:IndiaStatesByRTOcodes.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/IndiaStatesByRTOcodes.png" alt="IndiaStatesByRTOcodes.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=675325">Link</a></p>
 </div>
+
+<div class="googlemap-if no-margin">
+<img src="./india_kerala_traffic_transport.jpg" width="800">
+</div>
+
 {{% /tab %}}
 {{% tab "黄色・緑" %}}
 {{% notice tip %}}
