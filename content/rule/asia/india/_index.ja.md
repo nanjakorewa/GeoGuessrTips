@@ -1,7 +1,7 @@
 ---
 title: "インド"
 date: 2023-02-26
-lastmod: 2023-07-01
+lastmod: 2023-12-13
 weight: 1
 draft: false
 keywords: [""]
@@ -99,6 +99,7 @@ sc: [
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title" id="言語">言語</h4>
     <ul class="rule-list">
         <li>州ごとに異なる旗がある</li>
         <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}</li>
@@ -175,7 +176,80 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+
 <div class="main-desciption area-description">
+    <h4 class="section-title" id="建物">乗り物</h4>
+    <ul class="rule-list">
+        <li>ナンバープレートなどに州名の省略形が見つかる</li>
+        <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違うらしい
+            <ul>
+                <li>窓の周りが黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
+                <li>窓の周りが黄色・下が黄色：<span class="quiz">南</span>に行ってみる？</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "ナンバーの文字" %}}
+{{% notice tip %}}
+ナンバープレートに州名が書かれている。バスやトラックの側面に書いてあるものは視認できることが多いが画質は悪く読めないことも多い。
+{{% /notice %}}
+<div class="googlemap-if no-margin" style="font-size:0.8em">
+<table style="width:30em">
+    <tr>
+        <td style="width:20em; text-align:center;">ミゾラム</td>
+        <td style="width:3em; text-align:center;">MZ</td>
+        <td style="width:10em">{{% ex "https://maps.app.goo.gl/trT2PMJ68G7Z9gKJA" %}}</td>
+    </tr>
+    <tr>
+        <td style="width:20em; text-align:center;">ヒマチャル・プラデシュ</td>
+        <td style="width:3em; text-align:center;">HP</td>
+        <td style="width:10em">{{% ex "https://maps.app.goo.gl/iD4JKMPeWk3nMptm9" %}}</td>
+    </tr>
+    <tr>
+        <td style="width:20em; text-align:center;">西ベンガル</td>
+        <td style="width:3em; text-align:center;">WB</td>
+        <td style="width:10em">{{% ex "https://maps.app.goo.gl/8M1vDuDRkmD5NP467" "https://maps.app.goo.gl/nTym6VqNyVQk4RYY6" %}}</td>
+    </tr>
+    <tr>
+        <td style="width:20em; text-align:center;">ケーララ</td>
+        <td style="width:3em; text-align:center;">KL</td>
+        <td style="width:10em">{{% ex "https://maps.app.goo.gl/NYJnXptRxjYwpkaF7" "https://maps.app.goo.gl/EMGGYZU2vXN5iqH68" %}}</td>
+    </tr>
+    <tr>
+        <td style="width:20em; text-align:center;">タミル·ナードゥ</td>
+        <td style="width:3em; text-align:center;">TN</td>
+        <td style="width:10em">{{% ex "https://maps.app.goo.gl/AgELtCF1q1sSWaUw5" %}}</td>
+    </tr>
+</table>
+</div>
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:IndiaStatesByRTOcodes.png#/media/File:IndiaStatesByRTOcodes.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/IndiaStatesByRTOcodes.png" alt="IndiaStatesByRTOcodes.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=675325">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "黄色・緑" %}}
+{{% notice tip %}}
+全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="auto_rickshaw_vehicles_automobiles.jpg">
+</div>
+{{% /tab %}}
+{{% tab "黄色・黄色" %}}
+{{% notice tip %}}
+黄色の時は<span class="quiz">南</span>に行ってみる？
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="rickshaw_india_car_710154.jpg">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h4 class="section-title" id="電柱の形">農業</h4>
     <ul class="rule-list">
         <li>農業が場所によって異なる
             <ul>
@@ -217,14 +291,9 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
+    <h4 class="section-title" id="建物">建物</h4>
     <ul class="rule-list">
         <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
-        <li class="no-evidence">リクシャー（rickshaw）の色が地域によって違う
-            <ul>
-                <li>窓の周りが黄色・下が緑色：全域で見られるが<span class="quiz">北</span>部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}</li>
-                <li>窓の周りが黄色・下が黄色：<span class="quiz">南</span>に行ってみる？</li>
-            </ul>
-        </li>
     </ul>
 </div>
 
@@ -237,25 +306,7 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/scalino/10798845626/in/photolist-hsfUzy-roCaoo-hsgvT7-4uoKsi-8wCDBf-AiyM6u-vXybJ8-bkYtBd-86338a-g8JUQ-tpUrV-9tRbFC-bW9EZd-aK54he-eVqxZu-aGRWAX-BWUuWD-aK571X-6kXHRg-aK9aga-DoB8b7-fDD8yM-EqRqcY-9WSJDM-aK55Kr-245ArW-9qRM3c-bEGnco-9RNir2-ajpsfp-ty1EC7-aK568p-DRoHNC-D99WE-Hpz1Fa-gR4jxp-NoZWy-fDVhR9-gmKBzW-5waGzd-9YYMXc-AHkUc-5kFjBw-5Ripeh-sbuLy-6cPnsU-2r79Gi-mxjTS-67n7tq-LLRGNG" title="Blue &amp; orange house"><img src="https://live.staticflickr.com/3724/10798845626_c8cba1937b_z.jpg" width="640" height="427" alt="Blue &amp; orange house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-{{% tab "黄色・緑" %}}
-{{% notice tip %}}
-全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="auto_rickshaw_vehicles_automobiles.jpg">
-</div>
-{{% /tab %}}
-{{% tab "黄色・黄色" %}}
-{{% notice tip %}}
-黄色の時は<span class="quiz">南</span>に行ってみる？
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Autoyercaud.jpg#/media/File:Autoyercaud.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Autoyercaud.jpg" alt="Autoyercaud.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Sathiyajith&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Sathiyajith (page does not exist)">Sathiyajith</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=94119078">Link</a></p>
-</div>
-
-{{% /tab %}}
 {{% /tabs %}}
-
 
 <div class="main-desciption area-description">
     <h4 class="section-title" id="電柱の形">電柱の形</h4>
