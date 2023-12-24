@@ -42,7 +42,7 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
 </div>
 
-{{% notice tip %}}ボラード{{% ex "https://maps.app.goo.gl/yyt5p8LpQn9kvpLE8" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。
+{{% notice tip %}}ボラード{{% ex "https://maps.app.goo.gl/LFcwNBFWbcvfepjK8" "https://maps.app.goo.gl/2ai85g4hDdZfSdpYA" "https://maps.app.goo.gl/yyt5p8LpQn9kvpLE8" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://maps.app.goo.gl/WWVAC8TyCRSMeqRe9" "https://maps.app.goo.gl/4ARsc5G394Z7EhRh7" "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。
 {{% /notice %}}
 
 {{% notice note %}}

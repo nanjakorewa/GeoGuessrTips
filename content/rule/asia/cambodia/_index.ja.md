@@ -43,7 +43,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。<span class="quiz">白と赤</span>に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" %}}。
+<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。<span class="quiz">白と赤</span>に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" "https://maps.app.goo.gl/Ux92pYWQiYSnuePx5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-カンボジアで知名度の高い企業が書かれたパラソルや看板が多い。通信はBeeline、清涼飲料水はコカ・コーラ、ビールは<span class="quiz">LEO・Kingdom・Angkor</span>など、<span class="quiz">Angkor</span>のロゴにもアンコールワットが描かれている{{% ref "https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php" "カンボジアのビール事情" %}}。郊外ではこのようなパラソルの下で瓶入りの飲み物が売られていることが多い{{% ex "https://goo.gl/maps/Gq4nqv7iWcHiJLoE8" "https://goo.gl/maps/nPdyAPubroFLr7ET8" %}}。
+カンボジアで知名度の高い企業が書かれたパラソルや看板が多い{{% ex "https://maps.app.goo.gl/RrCWzycRCm84vQiKA" %}}。通信はBeeline、清涼飲料水はコカ・コーラ、ビールは<span class="quiz">LEO・Kingdom・Angkor</span>など、<span class="quiz">Angkor</span>のロゴにもアンコールワットが描かれている{{% ref "https://www.asiatravelnote.com/2013/06/03/beer_in_cambodia.php" "カンボジアのビール事情" %}}。郊外ではこのようなパラソルの下で瓶入りの飲み物が売られていることが多い{{% ex "https://goo.gl/maps/Gq4nqv7iWcHiJLoE8" "https://goo.gl/maps/nPdyAPubroFLr7ET8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -74,7 +74,7 @@ sc: [
 
 
 {{% notice tip %}}
-仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ex "https://maps.app.goo.gl/XPStXnx9kYFC9GJT6" "https://maps.app.goo.gl/5WMreVZxQ9ejkumf7" "https://maps.app.goo.gl/MrQZBDy2Pox44tRw5" "https://maps.app.goo.gl/DewXDHptMKeZGDCv5" %}}{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
+仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ex "https://maps.app.goo.gl/uVuPuueskQxJBZUz9" "https://maps.app.goo.gl/XPStXnx9kYFC9GJT6" "https://maps.app.goo.gl/5WMreVZxQ9ejkumf7" "https://maps.app.goo.gl/MrQZBDy2Pox44tRw5" "https://maps.app.goo.gl/DewXDHptMKeZGDCv5" %}}{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Cambodian house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -166,6 +166,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Battambang西の{{% goto "../thai/" "タイ" %}}国境付近の道では険しい岩山が見えることがある{{% ex "https://maps.app.goo.gl/HTygemZWvUxDMLbt7" %}}</li>
         <li><span class="quiz">Tonlé Sap湖</span>ではボートハウスの村がある{{% ex "https://maps.app.goo.gl/aV1SmCeEiddHj4aY9" "https://maps.app.goo.gl/SFphWJpVPbiAH4QGA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97" "បឹងទន្លេសាប" %}}</li>
         <li><span class="quiz">Kampot</span>旧市街には{{% goto "../../europe/france/" "フランス" %}}植民地時代の建築が多く残っている{{% ex "https://maps.app.goo.gl/XDXgvWGtqesJvqF78" "https://maps.app.goo.gl/YStuFmXXkxznr9V99" %}}{{% ref "https://en.wikipedia.org/wiki/Kampot_(city)" "カンポット" %}}</li>
         <li><span class="quiz">Siem Reap</span>にはアンコールワットやバイヨン寺院がある{{% ex "https://maps.app.goo.gl/gyt6aZqaBXw2RaPi8" %}}</li>
@@ -174,6 +175,15 @@ sc: [
 </div>
 
 {{% tabs %}}
+{{% tab "Battambang西" %}}
+{{% notice tip %}}
+西の国境付近の道では険しい岩山が見えることがある{{% ex "https://maps.app.goo.gl/aKZh36Q5JuvBTNkS8" "https://maps.app.goo.gl/ioQfHEcE5FwuNr2fA" "https://maps.app.goo.gl/bggEfBo3RrVoSxKA6" %}}。上の農業分布でBattambangの西の空白になっている部分は岩山が多い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./img_163_9714.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "Tonlé Sap" %}}
 {{% notice tip %}}
 トンレ・サップ湖の上も出ることがある。ボートハウスの村が湖面にあり独特な建築が見られる{{% ex "https://maps.app.goo.gl/wWqjaQjPWA25Dxzs9" %}}。

@@ -102,7 +102,11 @@ sc: [
     <h4 class="section-title" id="言語">言語</h4>
     <ul class="rule-list">
         <li>州ごとに異なる旗がある</li>
-        <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}</li>
+        <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}
+            <ul>
+                <li>タミル語{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -194,44 +198,53 @@ sc: [
 {{% tabs %}}
 {{% tab "ナンバーの文字" %}}
 {{% notice tip %}}
-ナンバープレートに州名が書かれている。バスやトラックの側面に書いてあるものは視認できることが多いが画質は悪く読めないことも多い。
+ナンバープレートに州名が書かれている。バスやトラックの側面に書いてあるものは視認できることが多いが画質は悪く読めないことも多い。州名は{{% goto "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E7%9C%8C%E3%81%AE%E4%B8%80%E8%A6%A7" "インドの県の一覧" %}}を見てください。
 {{% /notice %}}
-<div class="googlemap-if no-margin" style="font-size:0.8em">
+<div class="googlemap-if no-margin table table-striped-columns table-hover" style="font-size:0.8em">
 <table style="width:30em">
+  <thead>
     <tr>
-        <td style="width:20em; text-align:center;">ミゾラム</td>
-        <td style="width:3em; text-align:center;">MZ</td>
-        <td style="width:10em">{{% ex "https://maps.app.goo.gl/trT2PMJ68G7Z9gKJA" %}}</td>
+      <th scope="col">州名</th>
+      <th scope="col">省略形</th>
+      <th scope="col">具体例</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+        <td>ミゾラム</td>
+        <td>MZ</td>
+        <td>{{% ex "https://maps.app.goo.gl/trT2PMJ68G7Z9gKJA" %}}</td>
     </tr>
     <tr>
-        <td style="width:20em; text-align:center;">ヒマチャル・プラデシュ</td>
-        <td style="width:3em; text-align:center;">HP</td>
-        <td style="width:10em">{{% ex "https://maps.app.goo.gl/iD4JKMPeWk3nMptm9" %}}</td>
+        <td>ヒマチャル・プラデシュ</td>
+        <td>HP</td>
+        <td>{{% ex "https://maps.app.goo.gl/iD4JKMPeWk3nMptm9" %}}</td>
     </tr>
     <tr>
-        <td style="width:20em; text-align:center;">西ベンガル</td>
-        <td style="width:3em; text-align:center;">WB</td>
-        <td style="width:10em">{{% ex "https://maps.app.goo.gl/8M1vDuDRkmD5NP467" "https://maps.app.goo.gl/nTym6VqNyVQk4RYY6" %}}</td>
+        <td>西ベンガル</td>
+        <td>WB</td>
+        <td>{{% ex "https://maps.app.goo.gl/8M1vDuDRkmD5NP467" "https://maps.app.goo.gl/nTym6VqNyVQk4RYY6" %}}</td>
     </tr>
     <tr>
-        <td style="width:20em; text-align:center;">ケーララ</td>
-        <td style="width:3em; text-align:center;">KL</td>
-        <td style="width:10em">{{% ex "https://maps.app.goo.gl/NYJnXptRxjYwpkaF7" "https://maps.app.goo.gl/EMGGYZU2vXN5iqH68" %}}</td>
+        <td>ケーララ</td>
+        <td>KL</td>
+        <td>{{% ex "https://maps.app.goo.gl/NYJnXptRxjYwpkaF7" "https://maps.app.goo.gl/EMGGYZU2vXN5iqH68" %}}</td>
     </tr>
     <tr>
-        <td style="width:20em; text-align:center;">タミル·ナードゥ</td>
-        <td style="width:3em; text-align:center;">TN</td>
-        <td style="width:10em">{{% ex "https://maps.app.goo.gl/AgELtCF1q1sSWaUw5" %}}</td>
+        <td>タミル·ナードゥ</td>
+        <td>TN</td>
+        <td>{{% ex "https://maps.app.goo.gl/AgELtCF1q1sSWaUw5" %}}</td>
     </tr>
+  </tbody>
 </table>
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:IndiaStatesByRTOcodes.png#/media/File:IndiaStatesByRTOcodes.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/IndiaStatesByRTOcodes.png" alt="IndiaStatesByRTOcodes.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=675325">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:IndiaStatesByRTOcodes.png#/media/File:IndiaStatesByRTOcodes.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/IndiaStatesByRTOcodes.png" alt="IndiaStatesByRTOcodes.png" width="550"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=675325">Link</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./india_kerala_traffic_transport.jpg" width="800">
+<img src="./india_kerala_traffic_transport.jpg" width="90%">
 </div>
 
 {{% /tab %}}
