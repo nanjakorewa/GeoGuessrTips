@@ -59,6 +59,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
+赤い盾の形の道路番号が見つかる{{% ex "https://maps.app.goo.gl/Y4juas3PVW8JnMjd7" "https://maps.app.goo.gl/KR7e8hojLcnaJfFj9" %}}
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./r/State_Highway_77_NZ.svg" width="100px">
+</div>
+
+{{% notice tip %}}
 GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>、赤い文字ならば<span class="quiz">ニュージーランド</span>{{% ex "https://maps.app.goo.gl/d1mgFigaTTxQXxnG8" "https://goo.gl/maps/g6VVwybuoqED18VN6" "https://maps.app.goo.gl/asdeLN1rJ5VioLCbA" %}}
 {{% /notice %}}
 
