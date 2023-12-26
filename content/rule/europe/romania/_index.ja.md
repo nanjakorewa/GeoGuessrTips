@@ -173,13 +173,6 @@ sc: [
                 <li>南<span style="color:#FF5454">■</span><span style="color:#E89156">■</span><span style="color:#D48E5F">■</span>：首都近辺以外はブルガリアのような雰囲気</li>
             </ul>
         </li>
-        <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}
-            <ul>
-                <li>ひまわりは東側で多く栽培されている</li>
-                <li>コーンや菜種はカララシ県の周辺のフラットな地域で多く栽培されている{{% ex "https://goo.gl/maps/HEpByYWS1sTh8dLi7" "https://goo.gl/maps/iZo3PQ3smUJ3gbo9A" "https://goo.gl/maps/ieUvrPCecxXHCQ1Z8" "https://goo.gl/maps/fUS1N5LgsTUzfiYi8" %}}</li>
-            </ul>
-        </li>
-        <li class="no-evidence">野生の赤い花は南東？{{% ex "https://goo.gl/maps/odpUJ1fYeXgXdvyj9" "https://goo.gl/maps/er4oqE2PLw39bnp86" %}}{{% ref "https://www.inaturalist.org/observations?nelat=48.58595803845408&nelng=29.77840000841969&place_id=any&subview=map&swlat=40.31978622121842&swlng=16.746134097615524&taxon_id=520910" "イトバシャクヤク - iNaturalist" %}}</li>
     </ul>
 </div>
 
@@ -233,14 +226,42 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 TODO / ブルガリアっぽい建物があるかも。
 {{% /notice %}}
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>ドナウ・デルタと呼ばれるヨーロッパの三角州エリアの間を船で移動する区間がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF" "ドナウ・デルタ" %}}</li>
+        <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}
+            <ul>
+                <li>ひまわりは東側で多く栽培されている</li>
+                <li>コーンや菜種はカララシ県の周辺のフラットな地域で多く栽培されている{{% ex "https://goo.gl/maps/HEpByYWS1sTh8dLi7" "https://goo.gl/maps/iZo3PQ3smUJ3gbo9A" "https://goo.gl/maps/ieUvrPCecxXHCQ1Z8" "https://goo.gl/maps/fUS1N5LgsTUzfiYi8" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "ドナウ・デルタ" %}}
+{{% notice tip %}}
+ドナウ・デルタと呼ばれるヨーロッパの三角州エリアの間を船で移動する区間がある{{% ex "https://maps.app.goo.gl/YE9oBBXpC68j2Q4s6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./the_danube_delta_1.jpg">
+</div>
+
+{{% /tab %}}
 {{% tab "ひまわり畑" %}}
+{{% notice tip %}}
+東側に多いが西にも無いわけではないので参考程度。ひまわり畑があるとき、周辺のブルガリア・セルビア・ハンガリー・ウクライナのどこかにいるならばルーマニアの近くに寄せるのはアリな気がする。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684470352192!6m8!1m7!1sjbXvrKql7rKvUppx5CIKlQ!2m2!1d44.99873497073138!2d28.26096536490912!3f233.57437776441674!4f-2.810643552049882!5f1.5504235819947265" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-東側に多いが西にも無いわけではないので参考程度。ひまわり畑があるとき、周辺のブルガリア・セルビア・ハンガリー・ウクライナのどこかにいるならばルーマニアの近くに寄せるのはアリな気がする。
-{{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -248,42 +269,31 @@ TODO / ブルガリアっぽい建物があるかも。
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>首都周りの環状線は「DNCB」と名前が付いていてボラードに「CB」と書いてある。ボラードを見つけたら角度と地名でかなり近づけるはず。</li>
-        <li class="no-evidence">コンスタンツァは暖かそうな港町で電柱下半分に色が塗られている{{% ref "https://en.wikipedia.org/wiki/Constan%C8%9Ba" "コンスタンツァ" %}}</li>
-        <li class="no-evidence">{{% goto "../serbia/" "セルビア" %}}・{{% goto "../bulgaria/" "ブルガリア" %}}との国境付近と北東のエリアで船に乗っている</li>
+        <li>Transfăgărășanというファガラシュ山脈を越える道がある{{% ex "https://maps.app.goo.gl/GmhiPq5c3BPgc2Cs9" %}}</li>
+        <li>首都周りの環状線はボラードに「CB」と書いてある</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "DNCB" %}}
+{{% tab "Transfăgărășan" %}}
+{{% notice tip %}}
+ルーマニアっぽくないと感じる（個人的な感想）ので間違えないようにする{{% ex "https://maps.app.goo.gl/GmhiPq5c3BPgc2Cs9" "https://maps.app.goo.gl/M9j9URQEiHhrStSy5" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1689253543807!6m8!1m7!1sAMy-_76RH-zXlP6rR6Of3A!2m2!1d44.33533224361797!2d26.11264253598017!3f57.39231935195243!4f-10.58605503694369!5f3.325193203789971" width="300" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./transfagarasan_2.jpg" width="95%">
 </div>
+
+{{% /tab %}}
+{{% tab "CB" %}}
 
 {{% notice tip %}}
 「CB」を見たら首都の周りに行ってみる。道路がほぼ円形の形なので、この例だと道路の角度で北・南側のどちらかになる。そこから付近の地名を探して南側の場所だと絞り込める。
 {{% /notice %}}
-{{% /tab %}}
-{{% tab "コンスタンツァ" %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691913337071!6m8!1m7!1ssdnyvplPOQNIvfaq0yN4xA!2m2!1d44.22487704598667!2d28.6284569131045!3f264.2490233992116!4f2.6447174271606144!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691913444951!6m8!1m7!1sS-X41jFN33k_K0ZVZ3aXPw!2m2!1d44.18015270430237!2d28.63585817879827!3f107.30356722506777!4f1.9108977231148145!5f0.7670595936560078"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1689253543807!6m8!1m7!1sAMy-_76RH-zXlP6rR6Of3A!2m2!1d44.33533224361797!2d26.11264253598017!3f57.39231935195243!4f-10.58605503694369!5f3.325193203789971" width="300" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
-
-<div class="googlemap-if unclickable">
-<img src="./Flag_of_Constanta,_Romania.svg" width="300px">
-</div>
-
-{{% notice tip %}}
-タクシーの扉に市の紋章（二人の間に赤い旗があるマーク）があるかも？
-{{% /notice %}}
-{{% /tab %}}
-{{% tab "船に乗る" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691914547080!6m8!1m7!1sT1Yxm5lwiEyFsPYYxPdm5g!2m2!1d43.80474330320947!2d23.72309009075511!3f96.21002723590657!4f-5.4056404449595306!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691914416912!6m8!1m7!1sdTJheMLqJUwsPGOhOInC3g!2m2!1d45.18594866576051!2d28.78978232589126!3f332.57048214215274!4f-7.446934373909983!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% /tab %}}
 {{% /tabs %}}
 
