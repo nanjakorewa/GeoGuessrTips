@@ -8,6 +8,7 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "LS.svg"
+plonkit: true
 no_detaile_info: true
 jetro_detail: false
 sc_title: "間違えやすい地域"
@@ -40,8 +41,17 @@ sc: [
 伝統的な形の家がある{{% ex "https://maps.app.goo.gl/Ruq3M3wfxq41DrWR6" "https://goo.gl/maps/fZ2qjZE3XFLgzWMU9" "https://goo.gl/maps/yUS7WW1HVZw2oXZt7" "https://goo.gl/maps/tDCmbjUDhswFRxRU9" "https://goo.gl/maps/VSGPGCGZuxr5ChcN7" %}}{{% ref "https://tabippo.net/lesotho/" "レソト - TABIPPO" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="500" height="333" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="600" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+
+{{% notice tip %}}
+{{% goto "../eswatini/" "エスワティニ" %}}と比較すると草の長さは非常に短いことが多い{{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./lesotho_mountains_scenic_green.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 <div class="googlemap-if">
