@@ -43,6 +43,14 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+{{% notice tip %}}<span class="quiz">白の2本線</span>の中央分離帯が多い{{% ex "https://maps.app.goo.gl/Dx9LwTmqz3Srxapq7" "https://maps.app.goo.gl/DzzB9TrpmurtmEEP7" "https://maps.app.goo.gl/mgXSUTTZhRDBdRa87" %}}{{% ref "https://www.plonkit.net/greece" "plonkit" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="margin:1em;">
+<img src="./a8_greece.jpg" width="600px">
+</div>
+
+
 {{% notice tip %}}
 Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある{{% ex "https://maps.app.goo.gl/QrHcZcRbbptxCtPq7" "https://goo.gl/maps/yiwG1f12ZZGN94Xs9" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
 {{% /notice %}}
@@ -51,13 +59,18 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
+看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印がほとんど{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}。稀に例外もある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
+</div>
+
+<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
+<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
+<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
 </div>
 
 {{% notice tip %}}
@@ -87,20 +100,6 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 <div class="googlemap-if unclickable">
 <img src="olive.png" width="95%" />
-</div>
-
-
-{{% notice tip %}}
-矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印が多く{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}、稀に赤白のものもある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。そして<span class="quiz">白の2本線</span>の中央分離帯が多い{{% ref "https://www.plonkit.net/greece" "plonkit" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
-<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
-<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
-</div>
-
-<div class="googlemap-if unclickable" style="margin:1em;">
-<img src="./a8_greece.jpg" width="600px">
 </div>
 
 
