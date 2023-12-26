@@ -131,19 +131,8 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>デケバルス王の彫刻がある{{% ref "https://en.wikipedia.org/wiki/Rock_sculpture_of_Decebalus" "Rock sculpture of Decebalus" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "デケバルス王" %}}
-
-{{% notice tip %}}
-一度来たら忘れないはず{{% ex "https://maps.app.goo.gl/Y8HAC6tkLMkMcrBS9" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="./relief_king_decebalus_rock.jpg">
-</div>
-{{% /tab %}}
 {{% /tabs %}}

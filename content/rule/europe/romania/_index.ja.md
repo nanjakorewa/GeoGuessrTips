@@ -270,6 +270,7 @@ TODO / ブルガリアっぽい建物があるかも。
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Transfăgărășanというファガラシュ山脈を越える道がある{{% ex "https://maps.app.goo.gl/GmhiPq5c3BPgc2Cs9" %}}</li>
+        <li>デケバルス王の彫刻がある{{% ref "https://en.wikipedia.org/wiki/Rock_sculpture_of_Decebalus" "Rock sculpture of Decebalus" %}}</li>
         <li>首都周りの環状線はボラードに「CB」と書いてある</li>
     </ul>
 </div>
@@ -284,6 +285,16 @@ TODO / ブルガリアっぽい建物があるかも。
 <img src="./transfagarasan_2.jpg" width="95%">
 </div>
 
+{{% /tab %}}
+{{% tab "デケバルス王" %}}
+
+{{% notice tip %}}
+一度来たら忘れないはず{{% ex "https://maps.app.goo.gl/Y8HAC6tkLMkMcrBS9" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./relief_king_decebalus_rock.jpg">
+</div>
 {{% /tab %}}
 {{% tab "CB" %}}
 
