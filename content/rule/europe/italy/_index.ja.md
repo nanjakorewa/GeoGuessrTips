@@ -77,7 +77,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号や通り名の看板も同様。
+角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号の看板も同様{{% ex "https://maps.app.goo.gl/DcwEUyM5Mg7TzhaW9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -216,7 +216,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
     <ul class="rule-list">
         <li>カラブリア州{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}
             <ul>
-                <li>？？？</li>
+                <li>稀に雪が積もっていることもある{{% ex "https://maps.app.goo.gl/pR8mRc29uPutNtFa9" %}}</li>
             </ul>
         </li>
         <li>サルデーニャ州{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
