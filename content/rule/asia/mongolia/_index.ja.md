@@ -21,6 +21,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.mn</span></li>
+        <li>公用語はモンゴル語(Монгол хэл, ᠮᠤᠩᠭᠤᠯᠬᠡᠯᠡ)</li>
         <li><span class="quiz">ゲル</span>やレンガの家が見えるかも</li>
         <li>Google Carが特徴的</li>
     </ul>
@@ -31,8 +32,12 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートの左下に赤い領域がある{{% ex "https://goo.gl/maps/xovGCT2QUUKsECGr6" "https://goo.gl/maps/qNhRkm5svpa6eqX76" %}}。細いナンバープレートにも左に赤い領域がある。
+ナンバープレートの左側に赤い領域がある{{% ex "https://goo.gl/maps/xovGCT2QUUKsECGr6" "https://goo.gl/maps/qNhRkm5svpa6eqX76" %}}。細いナンバープレートにも左に赤い領域がある。
 {{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./mongolia_steppe_horses_altai.jpg" width="95%">
+</div>
 
 {{% lb 50 %}}
 ![](2023-04-21-12-14-43.png)
@@ -46,15 +51,14 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 ゲル（モンゴル高原に住む遊牧民の住居）が遠くに見えるかも{{% ex "https://goo.gl/maps/iy9e9jVHmGwbVHw88" %}}？
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="house.png" width="95%" />
+<img src="yurt_mongolia_steppe_altai.jpg" width="95%" />
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的
+Google Carが特徴的{{% ex "https://maps.app.goo.gl/DUgwjjMczKarfSrb9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683544358882!6m8!1m7!1sNBYunW0vGs0HCeaKFPbQag!2m2!1d47.11802985898382!2d117.215813157299!3f237.8066084902285!4f-11.071281978219758!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691133265669!6m8!1m7!1s62-c7xczFxyrwE_Xd0QKSA!2m2!1d47.91822536433468!2d106.9306923275752!3f81.97499764788594!4f-73.81259088582078!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683544358882!6m8!1m7!1sNBYunW0vGs0HCeaKFPbQag!2m2!1d47.11802985898382!2d117.215813157299!3f237.8066084902285!4f-11.071281978219758!5f0.4000000000000002" width="80%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

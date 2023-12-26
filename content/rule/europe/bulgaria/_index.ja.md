@@ -56,7 +56,7 @@ sc: [
 </div>
 
 
-{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
+{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-07-23-10-25-46.png" width="278px"/>
@@ -113,11 +113,21 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Belmeken Dam周辺に道がある{{% ex "https://maps.app.goo.gl/w4qd5FxyBLRM3AK66" %}}</li>
         <li>中央バルカン国立公園のBotev山の山頂にはテレビ塔がある{{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}{{% ref "https://en.wikipedia.org/wiki/Botev_Peak" "Botev Peak" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Belmeken Dam" %}}
+{{% notice tip %}}
+初見では国がわからなかった{{% ex "https://maps.app.goo.gl/w4qd5FxyBLRM3AK66" "https://maps.app.goo.gl/3HuuxzJLRf9yuTDt9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./belmeken_001.jpg">
+</div>
+{{% /tab %}}
 {{% tab "Botev Peak" %}}
 {{% notice tip %}}
 初見では無理{{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}。

@@ -51,7 +51,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジのことが多い{{% ex "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
+看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
