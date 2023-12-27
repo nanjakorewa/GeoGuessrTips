@@ -120,3 +120,26 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>パナマ運河沿いは船やコンテナターミナルがある{{% ex "https://maps.app.goo.gl/pJJC9GbQeEuD3ov88"  "https://maps.app.goo.gl/xo6NjqFwPFPM2FF4A" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "パナマ運河" %}}
+
+{{% notice tip %}}
+運河沿いはストリートビューがある道が少ないので船が見える場所はそこまで多くない{{% ex "https://maps.app.goo.gl/pJJC9GbQeEuD3ov88" "https://maps.app.goo.gl/AegyQmjZJwQpENRp8" %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./panama_panama_canal_locks.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
