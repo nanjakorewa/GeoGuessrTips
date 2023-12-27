@@ -111,6 +111,21 @@ sc: [
     </ul>
 </div>
 
+
+{{% tabs %}}
+{{% tab "離島" %}}
+
+{{% notice tip %}}
+{{% goto "../../africa/madeira_islands/" "マデイラ諸島" %}}と{{% goto "../azores/" "アゾレス諸島" %}}もポルトガル本土と同じ電柱がある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="madeira_banana_shrub_road.jpg" width="95%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
