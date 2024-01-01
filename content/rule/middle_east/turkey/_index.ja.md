@@ -195,6 +195,40 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">農業</h2>
+    <ul class="rule-list">
+        <li>コーンは南部が北部より20倍ほど生産量がある{{% ex "https://maps.app.goo.gl/ZbHmLZsLAy8Y3yJx6" "https://maps.app.goo.gl/N5xxEg7qdwkzwc4W6" %}}</li>
+        <li>綿花は南部のSoutheast Anatolia{{% ex "https://maps.app.goo.gl/YwGfu3rZ9N67ZuAK6" "https://maps.app.goo.gl/5QeUSFr7egbCEX4QA" %}}</li>
+        <li>ひまわりはKonya周辺とギリシャ側に多め{{% ex "https://maps.app.goo.gl/CEQcyWk7QxAQMFbT8" "https://maps.app.goo.gl/ct7NunBzMKNa3St4A" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if">
+<img src="./Turkey_corn.png" width="600">
+</div>
+{{% /tab %}}
+{{% tab "綿花" %}}
+<div class="googlemap-if">
+<img src="./Turkey_cotton.jpg" width="600">
+</div>
+{{% /tab %}}
+{{% tab "ひまわり" %}}
+<div class="googlemap-if">
+<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
+</div>
+
+{{% notice tip %}}
+Tatar, Özgür. "Climate change impacts on crop production in Turkey." (2016).
+{{% /notice %}}
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ゴミ箱に地方行政区画名や都市名が書いてあることがある。『●× BELEDiYESi』の●×が地名。
