@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>{{% ex "https://maps.app.goo.gl/ADfX7zA42cWjV7QJ7" %}}。
+ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>{{% ex "https://maps.app.goo.gl/9myJgmbTH5K1bKLH8" "https://maps.app.goo.gl/7DaWy9xsURK71AqD8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./taxi.jpg" width="90%">
