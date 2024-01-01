@@ -332,7 +332,6 @@ sc: [
         <li>電柱の形が州や街によって異なる
             <ul>
                 <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}</li>
-                <li>Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄</span>色のラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
                 <li class="no-evidence">穴のあるポール（ホーリーポール）があるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
                 <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Telangana・Andhra Pradesh</span>？</li>
@@ -350,19 +349,6 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="pole2.jpg">
-</div>
-{{% /tab %}}
-{{% tab "Chandigarh" %}}
-{{% notice tip %}}
-Panjabの電柱がありなおかつ街頭のポールなどに<span class="quiz">黄色の丸い</span>ラベルが貼ってある（数字が書いてある）ならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}。道の向きも全体的に斜め。ただし歩いてみた感じ貼ってないポールも結構あるように見える。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685017635429!6m8!1m7!1sLSusVuCf5i6InxvkLJQdrA!2m2!1d30.73506894391728!2d76.71726833211416!3f218.9772218253303!4f-16.149046405219508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685127033966!6m8!1m7!1sknl-t0wkwFgojFD1Li_EIA!2m2!1d30.74445892352363!2d76.75443150868492!3f56.55242380054385!4f-8.401383113064256!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-<div class="googlemap-if unclickable">
-<img src="2023-05-25-21-16-24.png" />
 </div>
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
@@ -416,7 +402,37 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption area-description">
+    <h4 class="section-title" id="建築">建築</h4>
+    <ul class="rule-list">
+        <li>北部は赤レンガ造りの建物が多い</li>
+        <li>南部はラテライトを白く塗ったものやコンクリートの壁が多いかも（？）</li>
+    </ul>
+</div>
 
+
+{{% tabs %}}
+{{% tab "北部" %}}
+{{% notice tip %}}
+どちらかというと北部に多い{{% ex "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./house/monkey_varanasi_on_roof.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "南部" %}}
+{{% notice tip %}}
+確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./house/village_asia_house_india.jpg">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
@@ -488,17 +504,18 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Danushkodi周辺の道{{% ex "https://maps.app.goo.gl/p7Z6VBBmXUTj3BgD7" %}}のような、両サイドに海が広がる道が何か所かある</li>
+        <li>Jodhpurの旧市街の家屋の壁が青く塗られている{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}</li>
+        <li>街頭のポールなどに数字が書かれた黄色のラベルが貼ってあるならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Danushkodi" %}}
+{{% tab "Jodhpur" %}}
 {{% notice tip %}}
-Danushkodi周辺の道{{% ex "https://maps.app.goo.gl/p7Z6VBBmXUTj3BgD7" "https://maps.app.goo.gl/3cDFWU6D1uGsYGNx8" %}}のような、両サイドに海が広がる道が何か所かある。
+旧市街の家屋の壁が青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" %}}。数はそこまで多くないかも。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Danushkodi_Bus_Stop.jpg#/media/File:Danushkodi_Bus_Stop.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Danushkodi_Bus_Stop.jpg" alt="Danushkodi Bus Stop.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kondephy" title="User:Kondephy">Kondephy</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113087363">Link</a></p>
+<img src="./house/city_blue_city_dzodhpur.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

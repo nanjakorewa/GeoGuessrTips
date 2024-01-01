@@ -43,7 +43,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。<span class="quiz">白と赤</span>に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" "https://maps.app.goo.gl/Ux92pYWQiYSnuePx5" %}}。
+<span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/71nPsqkeemnCWFCt6" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。<span class="quiz">白と赤</span>に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" "https://maps.app.goo.gl/Ux92pYWQiYSnuePx5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
