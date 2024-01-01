@@ -426,8 +426,9 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title" id="建物">土の色</h4>
     <ul class="rule-list">
-        <li>土の色が地域ごとに異なるが例外も多い
+        <li>土の色が地域ごとに異なるが画質が悪く例外も多いので参考にならないかも
             <ul>
                 <li>赤色：赤っぽい土は南東か南の可能性があるが範囲は結構広い{{% ex "https://goo.gl/maps/UNiurGjuG4k2AfbN8" "https://goo.gl/maps/Sqh8H6AjHvWv8NT48" "https://goo.gl/maps/iSySKzydThrwDm7MA" %}}</li>
                 <li>黒土：レグール土とも呼ばれデカン高原付近に広がっているが黒くない時も多い</li>
