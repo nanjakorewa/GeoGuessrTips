@@ -314,6 +314,7 @@ sc: [
         <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
         <li>北部は赤レンガ造りの建物が多い</li>
         <li>南部はラテライトを白く塗った壁やコンクリートの壁が多いかも（？）</li>
+        <li>Jodhpurを中心とした北西の家屋の壁が青く塗られていることがある{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}</li>
     </ul>
 </div>
 
@@ -345,6 +346,14 @@ sc: [
 <img src="./house/village_asia_house_india.jpg">
 </div>
 
+{{% /tab %}}
+{{% tab "水色の家" %}}
+{{% notice tip %}}
+Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}。数はそこまで多くないかも。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./house/city_blue_city_dzodhpur.jpg">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -496,19 +505,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Jodhpurの旧市街の家屋の壁が青く塗られている{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}</li>
         <li>街頭のポールなどに数字が書かれた黄色のラベルが貼ってあるならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
     </ul>
 </div>
-
-{{% tabs %}}
-{{% tab "Jodhpur" %}}
-{{% notice tip %}}
-旧市街の家屋の壁が青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" %}}。数はそこまで多くないかも。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<img src="./house/city_blue_city_dzodhpur.jpg">
-</div>
-{{% /tab %}}
-{{% /tabs %}}
 
