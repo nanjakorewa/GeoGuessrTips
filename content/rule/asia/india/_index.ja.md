@@ -312,6 +312,8 @@ sc: [
     <h4 class="section-title" id="建物">建物</h4>
     <ul class="rule-list">
         <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
+        <li>北部は赤レンガ造りの建物が多い</li>
+        <li>南部はラテライトを白く塗ったものやコンクリートの壁が多いかも（？）</li>
     </ul>
 </div>
 
@@ -323,6 +325,26 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/scalino/10798845626/in/photolist-hsfUzy-roCaoo-hsgvT7-4uoKsi-8wCDBf-AiyM6u-vXybJ8-bkYtBd-86338a-g8JUQ-tpUrV-9tRbFC-bW9EZd-aK54he-eVqxZu-aGRWAX-BWUuWD-aK571X-6kXHRg-aK9aga-DoB8b7-fDD8yM-EqRqcY-9WSJDM-aK55Kr-245ArW-9qRM3c-bEGnco-9RNir2-ajpsfp-ty1EC7-aK568p-DRoHNC-D99WE-Hpz1Fa-gR4jxp-NoZWy-fDVhR9-gmKBzW-5waGzd-9YYMXc-AHkUc-5kFjBw-5Ripeh-sbuLy-6cPnsU-2r79Gi-mxjTS-67n7tq-LLRGNG" title="Blue &amp; orange house"><img src="https://live.staticflickr.com/3724/10798845626_c8cba1937b_z.jpg" width="640" height="427" alt="Blue &amp; orange house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+{{% /tab %}}
+{{% tab "北部" %}}
+{{% notice tip %}}
+どちらかというと北部に多い{{% ex "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./house/monkey_varanasi_on_roof.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "南部" %}}
+{{% notice tip %}}
+確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./house/village_asia_house_india.jpg">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -402,37 +424,6 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% /tab %}}
 {{% /tabs %}}
 
-<div class="main-desciption area-description">
-    <h4 class="section-title" id="建築">建築</h4>
-    <ul class="rule-list">
-        <li>北部は赤レンガ造りの建物が多い</li>
-        <li>南部はラテライトを白く塗ったものやコンクリートの壁が多いかも（？）</li>
-    </ul>
-</div>
-
-
-{{% tabs %}}
-{{% tab "北部" %}}
-{{% notice tip %}}
-どちらかというと北部に多い{{% ex "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="./house/monkey_varanasi_on_roof.jpg">
-</div>
-
-{{% /tab %}}
-{{% tab "南部" %}}
-{{% notice tip %}}
-確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="./house/village_asia_house_india.jpg">
-</div>
-
-{{% /tab %}}
-{{% /tabs %}}
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
