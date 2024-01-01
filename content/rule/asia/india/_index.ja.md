@@ -313,7 +313,7 @@ sc: [
     <ul class="rule-list">
         <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
         <li>北部は赤レンガ造りの建物が多い</li>
-        <li>南部はラテライトを白く塗ったものやコンクリートの壁が多いかも（？）</li>
+        <li>南部はラテライトを白く塗った壁やコンクリートの壁が多いかも（？）</li>
     </ul>
 </div>
 
@@ -328,7 +328,7 @@ sc: [
 {{% /tab %}}
 {{% tab "北部" %}}
 {{% notice tip %}}
-どちらかというと北部に多い{{% ex "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
+赤レンガ造りの建物はどちらかというと北部に多い{{% ex "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -338,7 +338,7 @@ sc: [
 {{% /tab %}}
 {{% tab "南部" %}}
 {{% notice tip %}}
-確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
+南部はラテライトを白く塗った壁やコンクリートの壁が多いかも。確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
