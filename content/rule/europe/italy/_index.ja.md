@@ -144,6 +144,15 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% /tab %}}
+{{% tab "w-plant" %}}
+{{% notice tip %}}
+ぶどう畑が多い
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681485704007!6m8!1m7!1sE73J2h_OQM_5UUK4FQWJAQ!2m2!1d44.66060825830753!2d7.418788806567348!3f307.9065571439209!4f-6.184000050369335!5f1.5811581702377921" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681485855636!6m8!1m7!1sIavJSDZugUq7eDePvsOIHQ!2m2!1d44.66308090582659!2d7.425792618854587!3f125.57436424812295!4f-4.254959015940301!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679675424757!6m8!1m7!1sYPJLTYBc1h1hufIIVdyozQ!2m2!1d44.69938287322245!2d8.948909405395149!3f8.997668547664777!4f-14.101818837900879!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -152,13 +161,10 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691345734742!6m8!1m7!1sK51uzMklydBMIYeJoNaQXg!2m2!1d37.98065591249411!2d15.82571521640423!3f292.61542132446385!4f-15.65845492723345!5f1.3807764640608764"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "w-plant" %}}
-{{% notice tip %}}
-ぶどう畑が多い
-{{% /notice %}}
+{{% tab "動画" %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485704007!6m8!1m7!1sE73J2h_OQM_5UUK4FQWJAQ!2m2!1d44.66060825830753!2d7.418788806567348!3f307.9065571439209!4f-6.184000050369335!5f1.5811581702377921" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485855636!6m8!1m7!1sIavJSDZugUq7eDePvsOIHQ!2m2!1d44.66308090582659!2d7.425792618854587!3f125.57436424812295!4f-4.254959015940301!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe width="422" height="751" src="https://www.youtube.com/embed/-BFJIAxLhrw" title="ボラード引っこ抜いてみた" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

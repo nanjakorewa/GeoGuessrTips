@@ -89,7 +89,7 @@ sc: [
         <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
         <li>植生の分布
             <ul>
-                <li>北東の内陸{{% color "#BDAA60" %}}メタ側沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
+                <li>北東の内陸{{% color "#BDAA60" %}}メタ川沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
                 <li>最北の海沿い{{% color "#FFF4CE" %}}砂漠があるエリア{{% ex "https://maps.app.goo.gl/oYEpDuVgXBMZHi4z5" %}}</li>
                 <li>北の海沿い{{% color "#FFD37F" %}}白い砂が見えたり街中の道路の角に砂がたまっていることがある{{% ex "https://maps.app.goo.gl/kHgoHB4fA9Dmq6xw7" "https://maps.app.goo.gl/ntuZu5v7CPgBsBGSA" %}}
             </ul>
