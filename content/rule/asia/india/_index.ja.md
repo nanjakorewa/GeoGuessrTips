@@ -329,7 +329,7 @@ sc: [
 {{% /tab %}}
 {{% tab "北部" %}}
 {{% notice tip %}}
-赤レンガ造りの建物はどちらかというと北部に多い{{% ex "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
+赤レンガ造りの建物はどちらかというと北部に多い{{% ex "https://maps.app.goo.gl/PkeEjurVY3TD8z4i8" "https://maps.app.goo.gl/zaowpDaWqSTSFtQJ8" %}}。写真はヴァーラーナシーと思われる{{% ex "https://maps.app.goo.gl/TzkXns9MUw3D9Zpd7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -349,13 +349,43 @@ sc: [
 {{% /tab %}}
 {{% tab "水色の家" %}}
 {{% notice tip %}}
-Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}。数はそこまで多くないかも。
+Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}。ただし南の方にも普通にあるみたい{{% ex "https://maps.app.goo.gl/MvLJ2PyfBuwdCY1k7" %}}なので地域を限定するのは難しいかも。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./house/city_blue_city_dzodhpur.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4>ちゃんと調べていないもの</h4>
+    <ul class="rule-list" style="opacity:0.5">
+        <li>Kerala州</li>
+        <li>Assam州</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Kerala" %}}
+{{% notice tip %}}
+西沿岸部は最も雨量が多い地域であり、雨に耐えられるように急な屋根が設置される。屋根の上にさらに屋根がある（？）造りも見かける{{% ex "https://maps.app.goo.gl/dLBCA7WoodUtphrL6" "https://maps.app.goo.gl/PRkcvkZY2JkV46347" "https://maps.app.goo.gl/pdkQAsJiYhcVVPVm7" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Alleppey_river_ride.jpg#/media/File:Alleppey_river_ride.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Alleppey_river_ride.jpg" alt="Alleppey river ride.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bharath_maraboina123&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bharath maraboina123 (page does not exist)">Bharath maraboina123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49516918">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Assam" %}}
+{{% notice tip %}}
+Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" %}}。地震と洪水がある地域であり、1階建てが多く地面と１階の間に隙間がある建物も見つかる{{% ex "https://maps.app.goo.gl/fjuDosjgM6LqJSGXA" "https://maps.app.goo.gl/7vm6ymoAhorc4H3Y9" %}}。高床式の家もたまに見つかるらしい。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="arecanut_trees_assam.jpg">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h4 class="section-title" id="電柱の形">電柱の形</h4>
