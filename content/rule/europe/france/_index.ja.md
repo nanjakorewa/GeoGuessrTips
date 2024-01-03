@@ -234,29 +234,28 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h4 class="section-title">言語</h4>
     <ul class="rule-list">
-        <li>オック語の表記があるならばフランス南部に行ってみる</li>
-        <li>町の名前で地域が分かることがある
+        <li>町の名前の語尾で地域が分かることがある
             <ul>
-                <li>ドイツに近い場所では町名に「ett」「heim」といった文字が付いている</li>
+                <li>ドイツ付近では町名に「ett」「heim」といった文字が付いている</li>
                 <li>南西部では町名が「ac」で終わることが多い{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
             </ul>
         </li>
+        <li>オック語の表記があるならばフランス南部に行ってみる</li>
         <li>コルシカ島は市外局番が『04 95』{{% ex "https://maps.app.goo.gl/VSnx1J4v1n89Lp3FA" %}}。コルシカ語との二言語表記の看板があることも。</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "オック語" %}}
+{{% tab "町の名前の語尾" %}}
 
 {{% notice tip %}}
-以下は<a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Toulouse市</a>の看板で下がオック語の表記。
+周りの言語の影響を受けて地名も変化する。「~heim」ならドイツ国境付近へ、「~court」「~ville」ならば北へ、「~ac」かつ黒い屋根が少ない場合は南へ行ってみる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-24-12-29-20.png" width="320px"/>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/MapPorn/comments/fzfpz0/suffixes_in_french_city_names_hq_in_comments/">Suffixes in French city names (HQ in comments)</a><br> by<a href="https://www.reddit.com/user/syl20_0/">u/syl20_0</a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 </div>
-
 
 {{% /tab %}}
 {{% tab "ドイツ付近" %}}
@@ -272,6 +271,18 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1693810546357!6m8!1m7!1sGAzcEFoPMQmVb3wh3WySgg!2m2!1d44.88017599483278!2d-0.2953448979698522!3f216.5017906791591!4f1.6717209751151074!5f3.027885662065404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% tab "オック語" %}}
+
+{{% notice tip %}}
+以下は<a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Toulouse市</a>の看板で下がオック語の表記。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2023-07-24-12-29-20.png" width="320px"/>
+</div>
+
+
 {{% /tab %}}
 {{% tab "コルシカ島" %}}
 
