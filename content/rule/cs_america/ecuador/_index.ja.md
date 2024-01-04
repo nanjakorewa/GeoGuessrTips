@@ -143,7 +143,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
         <li>ナンバープレートの頭文字から県が分かる{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ecuador#Letter_codes" "エクアドルのナンバープレートの頭文字" %}}
             <ul>
                 <li>Sが先頭の県以外は頭文字 or 2文字目以降のどこかで覚えておくとある程度あてられる</li>
-                <li>例外のGalápagos（W）・Orellana（Q）・Cañar（U）は町が少ないので諦める</li>
+                <li>例外のGalápagos（W）・Orellana（Q）・Cañar（U）は町が少ないので覚えるのをあきらめる←自分の覚え方です</li>
                 <li>キトのあるPichincha（P）ナンバーはどこにでもいるので注意する</li>
                 <li><b>S</b>anto Domingo de los Tsáchilas→<span class="quiz">J</span></li>
                 <li><b>S</b>anta Elena→<span class="quiz">Y</span></li>
