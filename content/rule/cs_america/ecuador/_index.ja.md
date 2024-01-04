@@ -175,6 +175,16 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692720076805!6m8!1m7!1sPGAX8ECHF1sA2VeTpehmJg!2m2!1d-1.926990012630441!2d-80.00626544396032!3f229.5363084482948!4f-2.385672741419924!5f1.6960280271771726" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "ナンバープレートの頭文字" %}}
+{{% notice tip %}}
+以下の写真は『P』が頭文字なのでPichinchaだと推定できる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./rue_de_riobamba.jpg" width="500">
+</div>
+{{% /tab %}}
+
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
