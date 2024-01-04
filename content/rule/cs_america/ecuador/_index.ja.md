@@ -142,14 +142,13 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
         <li class="no-evidence">田んぼはグアヤキルに流れ込む川沿いに多い{{% ex "https://goo.gl/maps/PGuRCKXj3J6Kkm6M9" "https://goo.gl/maps/8s4iDPMAxAHzCTUF7" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}</li>
         <li>ナンバープレートの頭文字から県が分かる{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ecuador#Letter_codes" "エクアドルのナンバープレートの頭文字" %}}
             <ul>
-                <li>ほとんどの県は県名由来の頭文字だが、他の県名と重複する頭文字があるときのみ例外</li>
-                <li>Santo Domingo de los Tsáchilas→<span class="quiz">J</span></li>
-                <li>Santa Elena→<span class="quiz">Y</span></li>
-                <li>Sucumbíos→<span class="quiz">K</span></li>
-                <li>Orellana→<span class="quiz">Q</span></li>
-                <li>Morona Santiago→<span class="quiz">V</span></li>
-                <li>Cañar→<span class="quiz">U</span></li>
-                <li>これら以外はほとんど頭文字 ＋ 数個のみ２文字目以降のどこか</li>
+                <li>Sが先頭の県以外は頭文字 or 2文字目以降のどこかで覚えておくとある程度あてられる</li>
+                <li>例外のGalápagos（W）・Orellana（Q）・Cañar（U）は町が少ないので諦める</li>
+                <li>キトのあるPichincha（P）ナンバーはどこにでもいるので注意する</li>
+                <li><b>S</b>anto Domingo de los Tsáchilas→<span class="quiz">J</span></li>
+                <li><b>S</b>anta Elena→<span class="quiz">Y</span></li>
+                <li><b>S</b>ucumbíos→<span class="quiz">K</span></li>
+                <li>Morona <b>S</b>antiago→<span class="quiz">V</span></li>
             </ul>
         </li>
         <li>{{% goto "../galapagos_islands/" "ガラパゴス諸島" %}}が出ることがある</li>
