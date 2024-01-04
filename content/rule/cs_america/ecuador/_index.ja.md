@@ -147,6 +147,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
                 <li>Santa Elena→<span class="quiz">Y</span></li>
                 <li>Sucumbíos→<span class="quiz">K</span></li>
                 <li>Orellana→<span class="quiz">Q</span></li>
+                <li>Morona Santiago→<span class="quiz">V</span></li>
                 <li>Cañar→<span class="quiz">U</span></li>
                 <li>これら以外はほとんど頭文字 ＋ 数個のみ２文字目以降のどこか</li>
             </ul>
