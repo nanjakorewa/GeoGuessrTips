@@ -37,7 +37,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-溶岩によって作成された地形であり土が黒く針状の草のみが自生する。その性質上、不規則に川や湿地があり、川岸がまっすぐな川はほぼ存在しない。
+溶岩によって作成された地形であり土が黒く針状の草のみが自生する。その性質上、不規則に川や湿地があり、川岸がまっすぐな川はほぼ存在しない。同じく火山由来の地形である{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}・{{% goto "../../africa/reunion/" "レユニオン" %}}・{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}なども土が黒っぽいことが多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./iceland-road.png" width="95%">
