@@ -41,7 +41,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-黄色い6角形の道路番号{{% ex "https://maps.app.goo.gl/ZA6iiKkwtvp2v5hU6" "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインはほとんどが<span class="quiz">白</span>色で、画像のように中央に２本の<span class="quiz">白</span>線がある道はマレーシア以外あまり見かけない。
+黄色い6角形の道路番号{{% ex "https://maps.app.goo.gl/ZA6iiKkwtvp2v5hU6" "https://goo.gl/maps/P5b5vY3q5EFt65C87" %}}。マレーシア公共事業局のロゴも同じ黄色の６角形で看板に描かれていることが多い{{% ref "https://en.wikipedia.org/wiki/Malaysian_Public_Works_Department" "Jabatan Kerja Raya Malaysia" %}}。標識や看板は白黒のストライプのポールが使われていて、道路のセンターラインはほとんどが<span class="quiz">白</span>色で、画像のように中央に２本の<span class="quiz">白</span>線がある道はマレーシア以外あまり見かけない{{% ex "https://maps.app.goo.gl/f9CHkmZN4QXczH6y5" "https://maps.app.goo.gl/5rWj7nAyagkg769y6" %}}。
 {{% /notice %}}
 
 
@@ -63,7 +63,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。ただしインドネシアのリアウ諸島にある黒いラベルっぽいもの{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" %}}で国を外したことがあるので周りもちゃんと見る。
+電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://maps.app.goo.gl/XshWgGgTSTuLbi6K6" "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。ただしインドネシアのリアウ諸島にある黒いラベルっぽいもの{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" %}}で国を外したことがあるので周りもちゃんと見る。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
