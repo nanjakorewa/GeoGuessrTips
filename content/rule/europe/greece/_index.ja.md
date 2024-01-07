@@ -164,6 +164,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
         <li>町名の語尾から地域を絞り込める時がある{{% ref "https://jgchaparro.medium.com/exploring-the-geography-of-greek-toponyms-338ce5871490" "Exploring the geography of Greek toponyms" %}}
             <ul>
                 <li><span class="quiz">-άτα</span>：ケファロニア島付近{{% ex "https://maps.app.goo.gl/dxgoAe3wptiKdHTH8" "https://maps.app.goo.gl/DkibiiBHKDUx9eBn9" "https://maps.app.goo.gl/MXC16qgv5h2F2KLy9" %}}</li>
+                <li><span class="quiz">-ανά</span>：クリティ島 or 本土の山岳地帯{{% ex "https://maps.app.goo.gl/tNQLn3Ts7VdX1uXg9" "https://maps.app.goo.gl/WvxkYBggH7VCqLXJ7" %}}</li>
+                <li><span class="quiz">-ές・-έ</span>：クリティ島に多い{{% ex "https://maps.app.goo.gl/sHY3NfGRLn1gYeWr5" "https://maps.app.goo.gl/EfxcsEbvSKVojnZ39" %}}</li>
             </ul>
         </li>
     </ul>
