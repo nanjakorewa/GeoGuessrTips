@@ -161,6 +161,11 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
                 <li>ブドウ畑が全域にありワインが輸出されている{{% ref "https://vineyards.com/wine-map/greece" "Wine map regions of Greece" %}}</li>
             </ul>
         </li>
+        <li>町名の語尾から地域を絞り込める時がある{{% ref "https://jgchaparro.medium.com/exploring-the-geography-of-greek-toponyms-338ce5871490" "Exploring the geography of Greek toponyms" %}}
+            <ul>
+                <li><span class="quiz">-άτα</span>：ケファロニア島付近{{% ex "https://maps.app.goo.gl/dxgoAe3wptiKdHTH8" "https://maps.app.goo.gl/DkibiiBHKDUx9eBn9" "https://maps.app.goo.gl/MXC16qgv5h2F2KLy9" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
