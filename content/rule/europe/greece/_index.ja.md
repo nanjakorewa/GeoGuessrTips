@@ -162,7 +162,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
             </ul>
         </li>
         <li>観光地は海沿いに多い</li>
-        <li>町名の語尾から地域を絞り込める時がある{{% ref "https://jgchaparro.medium.com/exploring-the-geography-of-greek-toponyms-338ce5871490" "Exploring the geography of Greek toponyms" %}}
+        <li>町名の語尾から地域を絞り込める時がある{{% ref "https://jgchaparro.medium.com/%CF%83%CE%B5%CF%81%CF%86%CE%AC%CF%81%CE%BF%CE%BD%CF%84%CE%B1%CF%82-%CE%B7-%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CF%84%CF%89%CE%BD-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD-%CF%84%CE%BF%CF%80%CF%89%CE%BD%CF%85%CE%BC%CE%AF%CF%89%CE%BD-4da1d6ce5b7b" "Σερφάροντας στην γεωγραφία των ελληνικών τοπωνυμίων" %}}
             <ul>
                 <li><span class="quiz">-άτα</span>：ケファロニア島付近{{% ex "https://maps.app.goo.gl/dxgoAe3wptiKdHTH8" "https://maps.app.goo.gl/DkibiiBHKDUx9eBn9" "https://maps.app.goo.gl/MXC16qgv5h2F2KLy9" %}}</li>
                 <li><span class="quiz">-ανά</span>：クリティ島 or 本土の山岳地帯{{% ex "https://maps.app.goo.gl/tNQLn3Ts7VdX1uXg9" "https://maps.app.goo.gl/WvxkYBggH7VCqLXJ7" %}}</li>
