@@ -271,8 +271,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% notice tip %}}
 Heraklion（クリティ島北部の都市）は銀色多め。
 {{% /notice %}}
-<div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Heraklion,port_lotniczy_-_panoramio.jpg#/media/File:Heraklion,port_lotniczy_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Heraklion%2Cport_lotniczy_-_panoramio.jpg" alt="Heraklion,port lotniczy - panoramio.jpg" height="480" width="640"></a><br>By Mietek Ł, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52894268">Link</a></p>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Heraklion,port_lotniczy_-_panoramio.jpg#/media/File:Heraklion,port_lotniczy_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Heraklion%2Cport_lotniczy_-_panoramio.jpg" alt="Heraklion,port lotniczy - panoramio.jpg" height="480" width="640"></a></p><p>By Mietek Ł, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52894268">Link</a></p>
 </div>
 
 {{% notice tip %}}
