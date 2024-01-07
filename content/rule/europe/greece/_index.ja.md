@@ -59,7 +59,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印がほとんど{{% ex "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}。稀に例外もある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
+看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印がほとんど{{% ex "https://maps.app.goo.gl/Ld5RDETDZ9EhaYp9A" "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}。稀に例外もある{{% ex "https://goo.gl/maps/AUDBZ1F8E4Fxh2jT7" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -166,6 +166,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
                 <li><span class="quiz">-άτα</span>：ケファロニア島付近{{% ex "https://maps.app.goo.gl/dxgoAe3wptiKdHTH8" "https://maps.app.goo.gl/DkibiiBHKDUx9eBn9" "https://maps.app.goo.gl/MXC16qgv5h2F2KLy9" %}}</li>
                 <li><span class="quiz">-ανά</span>：クリティ島 or 本土の山岳地帯{{% ex "https://maps.app.goo.gl/tNQLn3Ts7VdX1uXg9" "https://maps.app.goo.gl/WvxkYBggH7VCqLXJ7" %}}</li>
                 <li><span class="quiz">-ές・-έ</span>：クリティ島に多い{{% ex "https://maps.app.goo.gl/sHY3NfGRLn1gYeWr5" "https://maps.app.goo.gl/EfxcsEbvSKVojnZ39" %}}</li>
+                <li><span class="quiz">-αίικα</span>：本土西側に多い{{% ex "https://maps.app.goo.gl/WD6jnUXKdS7U9EFo9" "https://maps.app.goo.gl/k5NA1KDv31FQaRMf6" %}}</li>
             </ul>
         </li>
     </ul>
