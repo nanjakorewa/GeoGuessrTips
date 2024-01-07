@@ -262,17 +262,24 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /tab %}}
 {{% tab "タクシー" %}}
 {{% notice tip %}}
-アテネ
+アテネは黄色。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679482264776!6m8!1m7!1s-_YX9OU-_d_1nMNO_tmWWw!2m2!1d37.96493530525935!2d23.74940432877799!3f230.335403502751!4f-4.5732255832136275!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="athens_vouli4.jpg">
 </div>
 
 {{% notice tip %}}
-テッサロニキ
+Heraklion（クリティ島北部の都市）は銀色多め。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679482384591!6m8!1m7!1s-lFRiuj_-uLNBhU-G-9GKQ!2m2!1d40.64453471649848!2d22.9338673281204!3f309.37253439143103!4f-8.415406892690584!5f2.9455489087453963" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<p><a href="https://commons.wikimedia.org/wiki/File:Heraklion,port_lotniczy_-_panoramio.jpg#/media/File:Heraklion,port_lotniczy_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Heraklion%2Cport_lotniczy_-_panoramio.jpg" alt="Heraklion,port lotniczy - panoramio.jpg" height="480" width="640"></a><br>By Mietek Ł, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52894268">Link</a></p>
+</div>
+
+{{% notice tip %}}
+テッサロニキは紺色。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="thessaloniki_train_station.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
