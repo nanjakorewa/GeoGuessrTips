@@ -394,7 +394,7 @@ Kerala州やAssam州のような降水量が多い地域はこんな感じの背
             <ul>
                 <li>電柱の上に何か四角い穴があるなら<span class="quiz">Panjab</span>の地域の街{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}</li>
                 <li class="no-evidence">黄色い長方形のステッカーがあると<span class="quiz">Uttar Pradesh</span>の地域かも{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
-                <li class="no-evidence">穴のあるポール（ホーリーポール）があるのは<span class="quiz">Gujarat</span>の地域{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
+                <li class="no-evidence">穴のあるポールは<span class="quiz">Gujarat</span>の地域{{% ex "https://maps.app.goo.gl/cYAiQm7GUr3kdVqr6" %}}{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}</li>
                 <li class="no-evidence">区切りのあるポール（セクションポール）があるのは<span class="quiz">Telangana・Andhra Pradesh</span>？</li>
                 <li class="no-evidence">下向きの直角三角形があるなら<span class="quiz">Madhya Pradesh</span>の地域かも？</li>
                 <li>『キ』や『干』の電柱がGoaにある</li>
