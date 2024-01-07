@@ -160,7 +160,7 @@ POCZTA（ポスト、赤い）
 {{% tab "語尾" %}}
 
 {{% notice tip %}}
-『~wo』『~no』は北、『~ów』『~ew』は中央から南より。地名はポーランドの歴史上のGreater PolandとLesser Polandの教会と関連しているらしいが正確には不明{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2" "ポーランドの歴史" %}}{{% ref "https://en.wikipedia.org/wiki/Lesser_Poland" "Lesser Poland" %}}。
+『~wo』『~no』は北、『~ów』『~ew』は中央から南より。ポーランドの歴史上のGreater Poland・Lesser Polandの境界と関連しているらしいが正確には不明{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2" "ポーランドの歴史" %}}{{% ref "https://en.wikipedia.org/wiki/Lesser_Poland" "Lesser Poland" %}}。
 {{% /notice %}}
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/MapPorn/comments/ockqlt/citytown_name_endings_in_poland/">CIty/town name endings in Poland</a><br> by<a href="https://www.reddit.com/user/Poiuy2010_2011/">u/Poiuy2010_2011</a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
