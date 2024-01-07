@@ -146,6 +146,17 @@ Alexandra Palace Theatreはロンドンの北側にある
 <p><a href="https://commons.wikimedia.org/wiki/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png#/media/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png" alt="Map of the Telephone Dialling Codes in the United Kingdom.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79071050">Link</a></p>
 </div>
 {{% /tab %}}
+{{% tab "町名の語尾" %}}
+
+{{% notice tip %}}
+使ったことはないです（<a href="https://www.reddit.com/r/dataisbeautiful/comments/17xa9j1/oc_mapping_some_british_generic_place_names_by/">出典</a>）。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/dataisbeautiful/comments/17xa9j1/oc_mapping_some_british_generic_place_names_by/">[OC] Mapping some British generic place names by language origin</a><br> by<a href="https://www.reddit.com/user/danthemango/">u/danthemango</a> in<a href="https://www.reddit.com/r/dataisbeautiful/">dataisbeautiful</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 

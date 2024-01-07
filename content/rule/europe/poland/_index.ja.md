@@ -144,6 +144,7 @@ POCZTA（ポスト、赤い）
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>町名の語尾で南北かわかるが100%ではない</li>
         <li>市外局番は気合で覚えられる...？<b>72</b>・45・88などマップに載っていないものは携帯に使われているので要注意。たくさん見つかるわけではない。
             <ul style="font-size:1.05em !important;margin-top:0.1em;">
                 <li>22x：{{% goto "https://goo.gl/maps/2gEuWpjCscZTgikg6" "Warszawa" %}}</li>
@@ -156,13 +157,24 @@ POCZTA（ポスト、赤い）
 </div>
 
 {{% tabs %}}
+{{% tab "語尾" %}}
+
+{{% notice tip %}}
+『~wo』『~no』は北、『~ów』『~ew』は中央から南より。地名はポーランドの歴史上のGreater PolandとLesser Polandの教会と関連しているらしいが正確には不明{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E3%81%AE%E6%AD%B4%E5%8F%B2" "ポーランドの歴史" %}}{{% ref "https://en.wikipedia.org/wiki/Lesser_Poland" "Lesser Poland" %}}。
+{{% /notice %}}
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/MapPorn/comments/ockqlt/citytown_name_endings_in_poland/">CIty/town name endings in Poland</a><br> by<a href="https://www.reddit.com/user/Poiuy2010_2011/">u/Poiuy2010_2011</a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+
+{{% /tab %}}
 {{% tab "市外局番" %}}
+
 {{% notice tip %}}
 22xがWarszawa付近。8を無視して数が大きいほど北西と覚えている。全体的に平坦な国で景色を見てもどのあたりか分からない気がするので、道路番号・地名・市外局番がわからなかったら、個人的にはとりあえず真ん中に行くことが多い。携帯に使われる番号も存在しているので先頭の数字だけで地域を決めないように注意{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p style="font-size:1.2em">By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
 </div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
