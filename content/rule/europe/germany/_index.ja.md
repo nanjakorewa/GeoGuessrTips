@@ -167,6 +167,7 @@ sc: [
         <li class="no-evidence">大規模な集合住宅が集まった通りは東側に多い？</li>
         <li class="no-evidence">白い壁とオレンジ色の屋根は中部～南部に多め？</li>
         <li class="no-evidence">中部のスレート鉱山周辺は黒い家の屋根が多いかも（衛星写真{{% ex "https://www.google.com/maps/@49.82393,6.7464958,1598m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7412276,6.8039102,611m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.738088,6.8475731,943m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7506867,6.6360939,933m/data=!3m1!1e3?entry=ttu" "" %}}）{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}</li>
+        <li>地名のパターンがある{{% ref "https://tobiaskauer.org/projects/end/?ach" "Suffixes of German towns and villages" %}}</li>
     </ul>
 </div>
 
@@ -213,6 +214,17 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Trier-Heiligkreuz, Am Kiewelsberg 20220705 (2).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
 </div>
 {{% /tab %}}
+{{% tab "地名のパターン" %}}
+
+{{% notice tip %}}
+<a href="https://tobiaskauer.org/projects/end/?ach">このページ<span style="font-size:small;">(リンク)</span></a>で確認できる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin" style="pointer-events:none;">
+<img src="./gsuffix.jpg">
+</div>
+{{% /tab %}}
+
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
