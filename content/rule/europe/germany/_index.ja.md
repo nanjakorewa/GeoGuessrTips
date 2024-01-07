@@ -232,7 +232,6 @@ sc: [
         <li>市外局番で地域がわかる</li>
         <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
         <li class="no-evidence">黄色い花の畑は北東に多いかも</li>
-        <li class="no-evidence">南東にカメラが汚れている地域がある？{{% ex "https://goo.gl/maps/utLP5i2Ke8Tq8sy69" "https://goo.gl/maps/PU6rhmbHx7do1T7L8" "https://goo.gl/maps/pWMtcoZQXsFpjAVC6" "https://goo.gl/maps/wvph1jL4bFqwxLvA9" "https://goo.gl/maps/nzEWpeqxegfRwok86" %}}</li>
     </ul>
 </div>
 
@@ -265,17 +264,6 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691739906314!6m8!1m7!1s9T2SdmE7nsWg0WG0OLwctg!2m2!1d54.66792947597245!2d9.169040278201713!3f58.212510993484585!4f-2.763962543996115!5f1.5127468040509835"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691739926333!6m8!1m7!1sHfl0KQi00d2IQNksAovkKw!2m2!1d54.04221896671441!2d11.8653657170168!3f141.7447266347252!4f-10.086491840332585!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "カメラの汚れ" %}}
-
-{{% notice tip %}}
-厳密な範囲は調べていないのでわからない
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692346730267!6m8!1m7!1s0IPtXVM0HO1ZQX1xcf2N8Q!2m2!1d48.09429568987391!2d12.3326741092839!3f183.42!4f-1.4500000000000028!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692346770733!6m8!1m7!1sXsBUquxUfq8xQzV_lzMcJg!2m2!1d48.29604017113726!2d12.43288222771111!3f39.45756430968086!4f-11.334758316487722!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
