@@ -215,6 +215,17 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% /tab %}}
+{{% tab "地名" %}}
+
+{{% notice tip %}}
+参考文献やマップを眺めながらなんとなく作成してみたイメージ図{{% ref "https://jgchaparro.medium.com/%CF%83%CE%B5%CF%81%CF%86%CE%AC%CF%81%CE%BF%CE%BD%CF%84%CE%B1%CF%82-%CE%B7-%CE%B3%CE%B5%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%AF%CE%B1-%CF%84%CF%89%CE%BD-%CE%B5%CE%BB%CE%BB%CE%B7%CE%BD%CE%B9%CE%BA%CF%8E%CE%BD-%CF%84%CE%BF%CF%80%CF%89%CE%BD%CF%85%CE%BC%CE%AF%CF%89%CE%BD-4da1d6ce5b7b" "Σερφάροντας στην γεωγραφία των ελληνικών τοπωνυμίων" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./cityname.jpg" width="95%">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 
