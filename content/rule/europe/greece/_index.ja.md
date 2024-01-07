@@ -161,6 +161,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
                 <li>ブドウ畑が全域にありワインが輸出されている{{% ref "https://vineyards.com/wine-map/greece" "Wine map regions of Greece" %}}</li>
             </ul>
         </li>
+        <li>観光地は海沿いに多い</li>
         <li>町名の語尾から地域を絞り込める時がある{{% ref "https://jgchaparro.medium.com/exploring-the-geography-of-greek-toponyms-338ce5871490" "Exploring the geography of Greek toponyms" %}}
             <ul>
                 <li><span class="quiz">-άτα</span>：ケファロニア島付近{{% ex "https://maps.app.goo.gl/dxgoAe3wptiKdHTH8" "https://maps.app.goo.gl/DkibiiBHKDUx9eBn9" "https://maps.app.goo.gl/MXC16qgv5h2F2KLy9" %}}</li>
@@ -192,19 +193,14 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/hoVOxtPQlH">pic.twitter.com/hoVOxtPQlH</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1664031998334353408?ref_src=twsrc%5Etfw">May 31, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-{{% tab "綿花" %}}
+{{% tab "農業" %}}
 
 {{% notice tip %}}
-平地でしか生産できないのでこれ以外の地域は平坦ではないことが多い。道端に白い綿が落ちていることがある。
+たとえば綿花は平地でしか生産できない。綿花の生産が少ない地域は平坦ではないことが多い。道端に白い綿が落ちていることがある{{% ex "https://maps.app.goo.gl/mjwaPS47coYsQiuYA" "https://maps.app.goo.gl/6Csp6vTJLmk8QDUQ6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
 <img src="./agri/cotton.jpg" width="95%">
-</div>
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695436860859!6m8!1m7!1sYCcLreNqkCbWp9ASyOYaTg!2m2!1d41.61008497824488!2d26.37303509511274!3f104.67495531720185!4f-18.79687181152761!5f1.4631854376318079" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695437326716!6m8!1m7!1sasLY_iJPt55r6rizwZDvHw!2m2!1d39.62315994246634!2d21.6777329565599!3f79.77645508445318!4f8.192077905081149!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
