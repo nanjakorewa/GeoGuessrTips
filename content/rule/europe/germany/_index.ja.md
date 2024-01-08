@@ -231,7 +231,7 @@ sc: [
     <ul class="rule-list">
         <li>市外局番で地域がわかる</li>
         <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
-        <li class="no-evidence">黄色い花の畑は北東に多いかも</li>
+        <li class="no-evidence">黄色い花（菜種）の畑は北東に多いかも{{% ex "https://maps.app.goo.gl/xoMDtUbmCffWEzUm9" "https://maps.app.goo.gl/NnYELUqGi3nBKFsV9" %}}</li>
     </ul>
 </div>
 
@@ -258,12 +258,11 @@ sc: [
 {{% tab "菜種" %}}
 
 {{% notice tip %}}
-北の半島近くや北東だと思われるけれど全域でありえる
+北の半島近くや北東だと思われるけれど全域でありえる。写真は北のFischlandで撮られたもの。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691739906314!6m8!1m7!1s9T2SdmE7nsWg0WG0OLwctg!2m2!1d54.66792947597245!2d9.169040278201713!3f58.212510993484585!4f-2.763962543996115!5f1.5127468040509835"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691739926333!6m8!1m7!1sHfl0KQi00d2IQNksAovkKw!2m2!1d54.04221896671441!2d11.8653657170168!3f141.7447266347252!4f-10.086491840332585!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="rapsfeld03.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -277,7 +276,6 @@ sc: [
             <ul>
                 <li><span class="quiz">ベルリン</span>：白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い</li>
                 <li><span class="quiz">ミュンヘン</span>：四隅に凹みがあり点がある・青い背景でプレートが平らではない</li>
-                <li><span class="quiz">フランクフルト</span>：太目のフォントを使用している。ミュンヘンと違いSやAにはねが無くフォントが異なる。</li>
                 <li><span class="quiz">ケルン</span>：シンプルな白いプレートだ</li>
                 <li>他は『<a href="https://docs.google.com/document/d/1uIKgS-bxcTJ2kPNcuwVdw_1608QuHohbgbDLrti6Vjo/edit#heading=h.kj2u3acdnyg1">A GeoGuessr guide to Germany (written by Steve)</a>』を参照</li>
             </ul>
@@ -312,18 +310,18 @@ sc: [
 <span class="quiz">ベルリン</span>は白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692219579214!6m8!1m7!1sRSd--X2sO7iLwf9-8wpAQw!2m2!1d52.50789754695823!2d13.41422605682538!3f52.791105021141895!4f6.313852675606768!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="berlin_historic_street_names.jpg">
 </div>
 
 {{% /tab %}}
-{{% tab "フランクフルト" %}}
+{{% tab "ミュンヘン" %}}
 
 {{% notice tip %}}
-<span class="quiz">フランクフルト</span>は太目のフォントを使用している。ミュンヘンと違いSやAにはねが無くフォントが異なる。
+四隅に凹みがあり点がある・青い背景でプレートが平らではない。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692249732699!6m8!1m7!1s7EI_lgOLvfjN702YVjANdA!2m2!1d50.14479020128885!2d8.726758982779089!3f340.8232292343601!4f3.5624982743045024!5f1.7053417015434689" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="munich_marienplatz_street_sign.jpg">
 </div>
 {{% /tab %}}
 {{% tab "ケルン" %}}
@@ -332,7 +330,7 @@ sc: [
 <span class="quiz">ケルン</span>はシンプルな白いプレートだ
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692249685942!6m8!1m7!1sM4HPmr8PIjG8GKRFbqwk3g!2m2!1d50.97358254838189!2d7.012341618275182!3f260.56219276860475!4f8.89480565272649!5f1.679402548558337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="lew_kopelew_weg_koln.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -52,7 +52,7 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/odileva/38233749822/in/photolist-21fzXM9-21ip6Qg-21fztVh-eEsXoJ-eEkAjk-GmLtYB-21ioyaH-eEt1Wh-21dwJwJ-21ipar4-21jovPL-arCFU2-arCFZt-hncdih-Zhs5i9-ZdAHeS-98PKcx-21hk6h1-DaDCt5-DaDd4d-6U3MBL-qdkiWe-uUqdLh-21ip6nH-DaDK37-DaDM1L-si6QvE-pgAxqM-21dwFxY-qb55js-qb3qBW-LcyNPM-pgADxB-28S3zfN-8zszXW-27cKiR7-27cKBvf-29Tjziq-qdkD28-qda76X-pgAvBr-21dxf87-6U5r71-GqJjgF-28S6exA-pVMj5y-pVUYy4-ZdA4CE-21dwHz3-wEDwd" title="Karabundo-Kigali-Butare, Seen from the car"><img src="https://live.staticflickr.com/4537/38233749822_c57cc2680a_c.jpg" width="800" height="370" alt="Karabundo-Kigali-Butare, Seen from the car"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}Google Carが特徴的{{% ex "https://maps.app.goo.gl/Bqp7fuYgZov4RkJD6" "https://maps.app.goo.gl/2Uhh25DhJewmtJxz7" %}}。ただし見えないときもある{{% ex "https://maps.app.goo.gl/2FqppL8ioKU8X8Cm6" "https://goo.gl/maps/mTw1XkGeJkVqLsxU8" %}}。
+{{% notice tip %}}Google Carが特徴的{{% ex "https://maps.app.goo.gl/eyqRzrvzY9mzwEam6" "https://maps.app.goo.gl/Bqp7fuYgZov4RkJD6" "https://maps.app.goo.gl/2Uhh25DhJewmtJxz7" %}}。ただし見えないときもある{{% ex "https://maps.app.goo.gl/2FqppL8ioKU8X8Cm6" "https://goo.gl/maps/mTw1XkGeJkVqLsxU8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683478674761!6m8!1m7!1sB8a53z_-9mYxUzV0Q52jcA!2m2!1d-1.941815097077175!2d30.13047435388365!3f323.03495285680117!4f-12.788419732450919!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
