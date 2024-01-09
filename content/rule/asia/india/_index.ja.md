@@ -377,7 +377,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 {{% /tab %}}
 {{% tab "Assam" %}}
 {{% notice tip %}}
-Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" %}}。地震と洪水がある地域であり、1階建てが多く地面と１階の間に隙間がある建物も見つかる{{% ex "https://maps.app.goo.gl/fjuDosjgM6LqJSGXA" "https://maps.app.goo.gl/7vm6ymoAhorc4H3Y9" %}}。高床式の家もたまに見つかるらしい。
+Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" %}}。地震と洪水がある地域。竹のような軽い素材を使った高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}がかなり稀な印象。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -502,7 +502,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% /tab %}}
 {{% tab "黒色" %}}
 {{% notice tip %}}
-黒土はレグール土とも呼ばれ、綿花の栽培にも向いている。{{% ref "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "Major soil deposits of India" %}}。
+黒土はレグール土とも呼ばれ、綿花の栽培にも向いている{{% ref "https://en.wikipedia.org/wiki/Major_soil_deposits_of_India" "Major soil deposits of India" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

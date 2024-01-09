@@ -258,20 +258,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 {{% /tab %}}
-{{% tab "ドイツ付近" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682905872096!6m8!1m7!1ssn0pAFtz2m8uMRo79YOTtA!2m2!1d48.84806873294077!2d8.064428634843349!3f282.6398685317409!4f1.8186615655965568!5f2.751626819910011" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682905891416!6m8!1m7!1sslmY4VH4xt760Q6TrZ5TOQ!2m2!1d48.84827822634963!2d8.063650970856578!3f355.9701997302268!4f0.48247911656135045!5f3.260620295050523" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "南西部" %}}
-{{% notice tip %}}
-～acという地域名
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693810546357!6m8!1m7!1sGAzcEFoPMQmVb3wh3WySgg!2m2!1d44.88017599483278!2d-0.2953448979698522!3f216.5017906791591!4f1.6717209751151074!5f3.027885662065404" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "オック語" %}}
 
 {{% notice tip %}}

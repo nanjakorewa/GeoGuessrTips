@@ -14,6 +14,7 @@ dont_show_usda: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/macedonia/", "北マケドニア"],
+    ["../../europe/greece/", "ギリシャ"],
     ]
 ---
 
@@ -38,7 +39,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/cg2GjLaSpn4E2MuL6" "https://maps.app.goo.gl/YiE9jtgn6vwXf4GJ6" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://goo.gl/maps/kx6heMzTogzZfnE69" %}}。
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/YiE9jtgn6vwXf4GJ6" "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
