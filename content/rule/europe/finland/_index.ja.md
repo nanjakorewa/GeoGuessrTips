@@ -127,6 +127,14 @@ additional_link:
 <img src="road.png" width="90%" />
 </div>
 
+{{% notice tip %}}
+全体的に平坦{{% ex "https://maps.app.goo.gl/uFfRSzjgmQdjEWW16" "https://maps.app.goo.gl/5VWA2sQXvBbqz9Ac7" "https://maps.app.goo.gl/xte1brYt2Xo9doVa7" %}}。スウェーデン・ノルウェーは標高が2000mを超える山脈がある一方でフィンランドは最高でも1400mほどしかない上、その最高地点はスウェーデン・ノルウェーとの国境近く{{% ex "https://maps.app.goo.gl/nhEDwDk9KaSL1oUw9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./nature_finnish_finnish_landscape.jpg" width="90%" />
+</div>
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 
