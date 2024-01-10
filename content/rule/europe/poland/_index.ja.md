@@ -129,7 +129,7 @@ POCZTA（ポスト、赤い）
 {{% tab "森" %}}
 
 {{% notice tip %}}
-国の4割近くが国有の森林であり、背の高い針葉樹の森が多く存在する。
+国の4割近くが国有の森林であり、背の高い森が多く存在する{{% ex "https://maps.app.goo.gl/fMS55FsB89ozwnzu7" "https://maps.app.goo.gl/xQawH2BeZqx8C2uG7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./way_le_c5_9bna.jpg" width="700">
