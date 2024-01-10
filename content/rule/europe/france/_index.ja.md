@@ -295,7 +295,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         </li>
         <li>Noirmoutier島という平坦な湿地地帯がある{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}</li>
         <li class="no-evidence">Porquerollesという離島が地中海側のイエール諸島にある{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
-        <li>Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" %}}</li>
+        <li>Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}</li>
         <li>パリは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
