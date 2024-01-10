@@ -241,7 +241,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
             </ul>
         </li>
         <li>オック語の表記があるならばフランス南部に行ってみる</li>
-        <li>コルシカ島は市外局番が『04 95』{{% ex "https://maps.app.goo.gl/VSnx1J4v1n89Lp3FA" %}}。コルシカ語との二言語表記の看板があることも。</li>
+        <li>コルシカ島はコルシカ語との二言語表記の看板がある</li>
     </ul>
 </div>
 
@@ -272,9 +272,12 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /tab %}}
 {{% tab "コルシカ島" %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688877265462!6m8!1m7!1sN-zBY6XiS79lA7szMHLDPw!2m2!1d42.14843993472712!2d8.645999840211816!3f129.09214081582718!4f2.347489205054373!5f1.7132837378709147" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692629650660!6m8!1m7!1srJthFn4o9yYPWXYwUFkvCA!2m2!1d42.90951934065625!2d9.353296019088097!3f113.23500089739929!4f8.917850287137597!5f1.7040834416099337" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% notice tip %}}
+歴史的な理由から看板のフランス語表記にペイントがされていたり穴が開いていることも{{% ex "https://maps.app.goo.gl/EwvaRCe3LQTVm4m17" "https://maps.app.goo.gl/5ybkNhPsYkekYSHc9" %}}。詳細は外部サイトなど参照{{% ref "https://ja.wikivoyage.org/wiki/%E3%82%B3%E3%83%AB%E3%82%B7%E3%82%AB%E5%B3%B6" "コルシカ島" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Col_de_Teghime_et_D81-_cropped.jpg#/media/File:Col_de_Teghime_et_D81-_cropped.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Col_de_Teghime_et_D81-_cropped.jpg" alt="Col de Teghime et D81- cropped.jpg" height="505" width="398"></a></p><p>By skender - <a href="//commons.wikimedia.org/wiki/File:Col_de_Teghime_et_D81.jpg" title="File:Col de Teghime et D81.jpg">File:Col_de_Teghime_et_D81.jpg</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=37685557">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -282,24 +285,60 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ノワールムティエ島という平坦な湿地地帯がある{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}</li>
-        <li>パリは区画の番号が時計回り。店の住所を見れば直ぐに場所が分かる{{% by "now_and_jenn" "twitch" %}}。</li>
-        <li class="no-evidence">地中海側のイエール諸島にPorquerollesという離島があり舗装されていない道が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
-        <li>ヴェルサイユ宮殿の中もストリートビューがある{{% ex "https://maps.app.goo.gl/KUJYNdtk92GZVm5x7" %}}</li>
-        <li>フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" %}}</li>
+        <li>『Highest road in Europe』とも呼ばれるCol de la Bonette峠がありD64の道がある</li>
+        <li>Corsica（コルシカ）島
+            <ul>
+                <li>Corsica島は急峻な山と手つかずの自然が広がっている{{% ex "https://maps.app.goo.gl/dz4dsSdnVfFYzUcY9" %}}</li>
+                <li>市外局番が『04 95』{{% ex "https://maps.app.goo.gl/VSnx1J4v1n89Lp3FA" %}}</li>
+                <li>コルシカ語との二言語表記の看板がある{{% ex "https://maps.app.goo.gl/zVXBHSJCbvhMTjWp6" %}}</li>
+            </ul>
+        </li>
+        <li>Noirmoutier島という平坦な湿地地帯がある{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}</li>
+        <li class="no-evidence">Porquerollesという離島が地中海側のイエール諸島にある{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
+        <li>Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" %}}</li>
+        <li>パリは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "ノワールムティエ島" %}}
-{{% notice tip %}}ラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。オレロン島{{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}}やレ島{{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}のような他の西側の島にも似た景色がある。
+{{% tab "Col de la Bonette" %}}
+{{% notice tip %}}D64道路が走っている{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./high_alps_pass_road.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Corsica島" %}}
+{{% notice tip %}}小さい島だが2500m超の山が連なり内陸の道路は険しい山が見える。写真はD27道路{{% ex "https://maps.app.goo.gl/Hxm2crynhhezEh4r6" "https://maps.app.goo.gl/Tea7jn3cAhudXzdR6" %}}？島の東海岸付近以外は平野がほぼ無く、4割の地域が自然公園であり手つかずの自然が残されている。山がち・植林でない森・農業の様子もないならこの島を考えてみる{{% ex "https://maps.app.goo.gl/YoyDz1XdcxPSyEAn9" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./corsica_coast_coastal_road_1.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Noirmoutier島" %}}
+{{% notice tip %}}ノワールムティエ（Noirmoutier）島はラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。オレロン島{{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}}やレ島{{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}のような他の西側の島にも似た景色がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./salt_marshes_salt_noirmoutier.jpg">
 </div>
 {{% /tab %}}
-{{% tab "パリの区画" %}}
+{{% tab "Porquerolles" %}}
+{{% notice tip %}}舗装されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}。地中海性気候で周りの木も暖かい感じ{{% ref "https://en.wikipedia.org/wiki/Porquerolles" "Porquerolles" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
+</div>
+{{% /tab %}}
+{{% tab "Aiguille de la Grande Sassière" %}}
+{{% notice tip %}}
+フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある。初見ではフランスとわからなかったのでメモ{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "パリ" %}}
 {{% notice tip %}}
 パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。
 {{% /notice %}}
@@ -316,30 +355,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./avenue_sign_street_signs.jpg" width="80%">
 </div>
 
-
-{{% /tab %}}
-{{% tab "Porquerolles" %}}
-{{% notice tip %}}舗装されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}。地中海性気候で周りの木も暖かい感じ{{% ref "https://en.wikipedia.org/wiki/Porquerolles" "Porquerolles" %}}。
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
-</div>
-{{% /tab %}}
-{{% tab "ヴェルサイユ宮殿" %}}
-{{% notice tip %}}
-
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./versailles_paris_france_palace.jpg">
-</div>
-{{% /tab %}}
-{{% tab "Aiguille de la Grande Sassière" %}}
-{{% notice tip %}}
-初見ではフランスとわからなかったのでメモ{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
-</div>
 {{% /tab %}}
 {{% /tabs %}}
 
