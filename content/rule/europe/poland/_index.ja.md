@@ -57,7 +57,7 @@ sc: [
 
 
 {{% notice tip %}}
-ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい{{% ex "https://goo.gl/maps/yBcn1ba5JVzWiDnr6" %}}。{{% goto "../ukraine/" "ウクライナ" %}}にも稀に見た目がそっくりなボラードがあるのでウクライナでないことだけ確認する。
+ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい{{% ex "https://maps.app.goo.gl/NoZLnxkEXTc1nxDJ8" "https://goo.gl/maps/yBcn1ba5JVzWiDnr6" %}}。{{% goto "../ukraine/" "ウクライナ" %}}にも稀に見た目がそっくりなボラードがあるのでウクライナでないことだけ確認する。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -115,27 +115,24 @@ mnoprstuwyzźż
 教会、マップ上に表示されるので位置を探す時に役立つ時がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680102862400!6m8!1m7!1sklY3ICnwX3cheAJbtnhG1A!2m2!1d50.45448291473033!2d18.52204277933721!3f124.85585522795998!4f8.349946974971147!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680187365795!6m8!1m7!1sEVIqENdNb5Zn_d0gD4PNqw!2m2!1d50.97323346407659!2d19.04866347685575!3f1.5789591040383952!4f-7.203666982772006!5f1.779262730331714" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="orthodox_church_koma_cross.jpg" width="400">
 </div>
 
 {{% notice tip %}}
 POCZTA（ポスト、赤い）
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681293115879!6m8!1m7!1sjns-xRhN_8-7tT-7CU8h8w!2m2!1d50.57988099917564!2d16.50408715260548!3f107.12647794113003!4f-12.497475679292123!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681293618548!6m8!1m7!1ss1s-jYporQe-z_x2KH86wQ!2m2!1d52.65296801196689!2d23.4344196340504!3f11.65144715718616!4f-11.157963904786698!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="mail_box_poland.jpg" width="400">
 </div>
 
 {{% /tab %}}
-{{% tab "w-bollard" %}}
+{{% tab "森" %}}
 
 {{% notice tip %}}
-赤いボラード
+国の4割近くが国有の森林であり、背の高い針葉樹の森が多く存在する。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679572981868!6m8!1m7!1sMACRIDM__EFGk5qNWIk65w!2m2!1d54.03095876476053!2d21.67112053832691!3f223.8432749865922!4f-13.592109168118768!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681292910021!6m8!1m7!1slw6hjshIioZ5JieekP0UTw!2m2!1d50.4543722305596!2d18.52206990031654!3f110.72667255028875!4f-9.010097359194944!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./way_le_c5_9bna.jpg" width="700">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
