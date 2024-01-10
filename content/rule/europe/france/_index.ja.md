@@ -270,7 +270,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 {{% /tab %}}
-{{% tab "コルシカ島" %}}
+{{% tab "コルシカ語" %}}
 
 {{% notice tip %}}
 歴史的な理由から看板のフランス語表記に落書きがされていたり穴が開いていることも{{% ex "https://maps.app.goo.gl/kREfrUJSsAyRmFzD8" "https://maps.app.goo.gl/9vBFqL2F8LBJ4EFy5" "https://maps.app.goo.gl/EwvaRCe3LQTVm4m17" "https://maps.app.goo.gl/5ybkNhPsYkekYSHc9" %}}。詳細は外部サイトなど参照{{% ref "https://ja.wikivoyage.org/wiki/%E3%82%B3%E3%83%AB%E3%82%B7%E3%82%AB%E5%B3%B6" "コルシカ島" %}}。
