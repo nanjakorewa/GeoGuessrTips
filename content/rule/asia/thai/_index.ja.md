@@ -66,8 +66,8 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/75992994@N05/45648761545/" title="Where Rambuttri Alley meets the Chakrabongse Road"><img src="https://live.staticflickr.com/7858/45648761545_b96440615c_z.jpg" width="640" height="427" alt="Where Rambuttri Alley meets the Chakrabongse Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<img src="lp.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -83,6 +83,15 @@ Public Domain
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Main road in Ko Lanta (5).jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
+</div>
+
+
+{{% notice tip %}}
+街灯のポールに白とオレンジの反射板が付いている{{% ex "https://maps.app.goo.gl/XtBHuY7N3wXXvM3BA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="pole.jpg" width="90%">
 </div>
 
 
