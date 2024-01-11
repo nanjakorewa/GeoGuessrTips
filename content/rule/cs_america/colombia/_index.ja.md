@@ -38,7 +38,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の背面には<span class="quiz">クロス（いわゆるコロンビアンクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。稀にクロスっぽいものが{{% goto "../ecuador/" "エクアドル" %}}にもある点のみ注意{{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}。
+標識の背面には<span class="quiz">クロス（いわゆるコロンビアンクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://maps.app.goo.gl/1HmKUtG9pEmAq2fF9" "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。稀にクロスっぽいものが{{% goto "../ecuador/" "エクアドル" %}}にもある点のみ注意{{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road-sign-example.jpg" width="85%" />
@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://goo.gl/maps/Jw89zbqj9B89ikJn9" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
+ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./lp.jpg" width="95%">
