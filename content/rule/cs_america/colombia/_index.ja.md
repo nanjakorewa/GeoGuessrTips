@@ -50,10 +50,10 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://goo.gl/maps/Jw89zbqj9B89ikJn9" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}でバイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://maps.app.goo.gl/TjLgE6QJ2uantEWf6" "https://goo.gl/maps/51tyTHc4yQPBZNGT6" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
+ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://goo.gl/maps/Jw89zbqj9B89ikJn9" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/padawan72/3780843859/" title="Antioquia"><img src="https://live.staticflickr.com/3465/3780843859_c8d80e4f11_z.jpg" width="640" height="480" alt="Antioquia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./lp.jpg" width="95%">
 </div>
 
 {{% lb 50 %}}
@@ -61,6 +61,15 @@ sc: [
 
 自作
 {{% /lb %}}
+
+{{% notice tip %}}
+道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://maps.app.goo.gl/TjLgE6QJ2uantEWf6" "https://maps.app.goo.gl/fzuvcioyB8UCtU9U8" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./roadside.jpg" width="95%">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -154,7 +163,8 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" %}}{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
-        <li>ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}</li>
+        <li>ティエラボンバ島のボカチカという町を歩いている{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
+        <li>ゴルゴナ島を歩いている{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}</li>
         <li>{{% goto "../brazil/" "ブラジル" %}}と{{% goto "../peru/" "ペルー" %}}の国境付近にLeticiaという町がありGoogle Carが見える{{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
     </ul>
 </div>
@@ -164,11 +174,18 @@ sc: [
 {{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="80%" />
+<img src="ar236201.jpg" width="95%" />
 </div>
 {{% /tab %}}
-{{% tab "ゴルゴナ島" %}}
-{{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。車や標識はなく知らなければ置くのは難しい。
+{{% tab "ボカチカ" %}}
+{{% notice tip %}}要塞のある離島にある町を歩いている。一緒に歩いてくれる人がいる{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "ゴルゴナ" %}}
+{{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="hotel_in_gorgona.jpg">

@@ -46,8 +46,16 @@ sc: [
 By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41806860">Wikimedia Commons</a>
 {{% /lb %}}
 
+{{% notice note %}}
+2016年以降に撮影されたものは黒ナンバーでない可能性がある{{% ex "https://maps.app.goo.gl/SHySfeMTe3cp738C9" "https://maps.app.goo.gl/vScY9xz2wKZpXhDj7" %}}。南米南部共同市場に加盟している国では青色のナンバープレートが共通してみられる{{% ref "https://www.mofa.go.jp/mofaj/area/latinamerica/keizai/mercosur/index.html" "外務省 - メルコスール" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./Placas_de_veículos_do_Mercosul_mercosur.jpg">
+</div>
+
 {{% notice tip %}}
-Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/T29KMmBfrUbSttup9" "https://goo.gl/maps/uQ62eSeVCCxtVciN6" "https://goo.gl/maps/ScEzxHXZeN2oBnJRA" "https://goo.gl/maps/eVdWUqpSMJShg8cQ9" "https://goo.gl/maps/zt5NJph2AzA3R6uH6" "https://goo.gl/maps/7T28LJExsyAQQ2CMA" "https://goo.gl/maps/X7bDpqUNQhSytDoA7" %}}。南米でGoogle Carが<span class="quiz">黒</span>色なのはアルゼンチン・{{% goto "../uruguay/" "ウルグアイ" %}}・{{% goto "../peru/" "ペルー" %}}が多い。ただし車が見えないこともある{{% ex "https://goo.gl/maps/wWa5mSSQNnQU1eDD7" %}}。
+Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/T29KMmBfrUbSttup9" "https://goo.gl/maps/uQ62eSeVCCxtVciN6" "https://goo.gl/maps/ScEzxHXZeN2oBnJRA" "https://goo.gl/maps/eVdWUqpSMJShg8cQ9" "https://goo.gl/maps/zt5NJph2AzA3R6uH6" "https://goo.gl/maps/7T28LJExsyAQQ2CMA" "https://goo.gl/maps/X7bDpqUNQhSytDoA7" %}}の時がある。南米でGoogle Carが<span class="quiz">黒</span>色なのはアルゼンチン・{{% goto "../uruguay/" "ウルグアイ" %}}・{{% goto "../peru/" "ペルー" %}}が多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690704372717!6m8!1m7!1s1hpbawvlNEnp5cZVoWQckw!2m2!1d-49.63118633707697!2d-69.44449948838371!3f120.31252016988394!4f-31.67891953122966!5f2.8590369400489437" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -58,6 +66,18 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/T29
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./road-sign.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+道端に道路番号が書かれた小さい看板があるかも。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./2011_101_18_140540.jpg" width="95%" />
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/road-sign.png" width="170px">
 </div>
 
 {{% /tab %}}
@@ -73,23 +93,6 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/T29
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683132408446!6m8!1m7!1s75g06zhiTRZMluuTaK0vlQ!2m2!1d-49.30554394571375!2d-67.73377208631163!3f277.39150996678796!4f18.30409245034636!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
-{{% notice tip %}}
-交差点にこういう細いポールに広めのプレートを2枚付けた標識（色や形はバリエーションあり）がよくある
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679243304194!6m8!1m7!1shWuhk2-R4aDvj4hjeUfY3w!2m2!1d-38.71909109560899!2d-62.2653046444285!3f88.68167530712972!4f-6.3520060640904035!5f2.8919908027706724" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-ずっと遠くまでまっすくに伸びた道はアルゼンチンによくある道だと思う。また黄色の２本線（もしくは黄色二本の間に白いダッシュがある線）はアルゼンチンにはあるがウルグアイにはない。道端にたまに黒白の標識がある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681308145769!6m8!1m7!1sfApCKRpDOKXqeTUlkpjXYw!2m2!1d-37.00094192414552!2d-63.66678962361176!3f173.36811843486183!4f-7.40867201815955!5f0.7929884876831526" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681308183021!6m8!1m7!1sREC5Fn_ht3PkmGxBwWswqw!2m2!1d-43.48679060841175!2d-65.41795612087964!3f208.14761246508428!4f-2.1900262014030147!5f0.4000000000000002" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683593638082!6m8!1m7!1sawOQVOrIbVx9dTdMCA_m6w!2m2!1d-35.78901239343998!2d-63.71255730834497!3f232.0189803413642!4f-16.349556549135073!5f3.325193203789971" width="191" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% notice tip %}}
 アルゼンチン内で多くのシェール油田を保有する<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス）</span>のガソリンスタンド。名前が長すぎて逆に覚えられるかも。
 {{% /notice %}}
@@ -97,17 +100,6 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/T29
 <img src="./junin_ypf_aca.jpg" width="95%" />
 </div>
 
-{{% notice tip %}}
-遠くが見えないほどまっすぐな道はアルゼンチンに多い。センターラインは黄色１本・２本・ダッシュでない白線の時もある。道端に道路番号が書かれた小さい看板があるかも。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<img src="./ruta_fortin_olavarria_trenque_73.jpg" width="95%">
-<img src="./2011_101_18_140540.jpg" width="95%" />
-</div>
-
-<div class="googlemap-if unclickable">
-<img src="./r/road-sign.png" width="170px">
-</div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
