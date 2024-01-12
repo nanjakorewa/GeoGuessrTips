@@ -66,11 +66,11 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Road Junction Sign (Barcelona Province, Spain)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% notice tip %}}
-ポストのついでにボラードも黄色い{{% ex "https://goo.gl/maps/RwKuScqsWDDdAGea8" "https://goo.gl/maps/PmCdvxhtwnVD9KNa7" %}}。この画像の「N-502」の看板のように、道端に赤や黄色の小さい看板があって道路番号が書かれていることも多い{{% ex "https://goo.gl/maps/YqHtFfZnWDhx5t18A" "https://goo.gl/maps/n4VXrPbKSobWS8NF9" %}}。
+ポストのついでにボラードも黄色い{{% ex "https://goo.gl/maps/RwKuScqsWDDdAGea8" "https://goo.gl/maps/PmCdvxhtwnVD9KNa7" %}}。少し見た目が異なるものもある{{% ex "https://maps.app.goo.gl/LsXVmmXG69Z71kMU6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/waltercallens/29821485954/in/photolist-MrdUNW-o4G3KM-tYuRGk-ZHJS8V-Di7pZL-Np4EDg-AaiK5G-MpZRkh-p9eFan-JDWTvM-pDvCp-21ZspSg-Fg9qfg-7tQJG4-bgq9oV-2cQFSV1-28uLL6-9KzzCA-doUqxR-U21R-22yQ9T-q2kPEA-aksFDz-4Pk5ud-nJyUAB-aV27jg-259AgWZ-G85ig-WP6yq2-9pHY7N-297fwga-228o5VZ-nui7nK-dEGwnS-25UeLFE-LjifRY-Jm8hzm-cddea-ZFN3m2-czthW3-EDKP1t-np9Uyh-mMqk35-azhYQH-dNuTYg-P6jriB-5CWYPr-NtWar4-QuHxnf-gRW1RT" title="spain - sierra de gredos"><img src="https://live.staticflickr.com/5562/29821485954_015d2748fb_z.jpg" width="640" height="427" alt="spain - sierra de gredos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./navaleno_n_234.jpg" width="600">
 </div>
 
 
@@ -79,7 +79,17 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<b>白黒</b>と<b>白青</b>のシェブロンがある{{% ex "https://goo.gl/maps/dBKCTwGGCZLsYNcs6" %}}。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。この画像のようにシェブロンが<b>白黒</b>でガードレールやボラードの反射板が黄色だったり標識やシェブロンの棒が四角い長方形ならばスペインか{{% goto "../andorra/" "アンドラ" %}}を考えてみて良いと思う。
+道端にオレンジや黄色の小さい看板があって道路番号が書かれていることが多い{{% ex "https://goo.gl/maps/YqHtFfZnWDhx5t18A" "https://goo.gl/maps/n4VXrPbKSobWS8NF9" %}}。またガードレールやボラードの反射板が黄色。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./road_m_503_km17.jpg" width="600">
+</div>
+
+
+
+{{% notice tip %}}
+<b>白黒</b>と<b>白青</b>のシェブロンがある{{% ex "https://goo.gl/maps/dBKCTwGGCZLsYNcs6" %}}。{{% goto "../portugal/" "ポルトガル" %}}は黒背景に<span class="quiz">黄</span>色の矢印。他に青と白のシェブロンを使うのは<span class="quiz">{{% goto "../france/" "フランス" %}}</span>のみ。黒背景に白のシェブロンを使うのは<span class="quiz">{{% goto "../united-kingdom/" "イギリス" %}}</span>とイタリア周辺の国{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。この画像のようにシェブロンが<b>白黒</b>でだったり標識やシェブロンの棒が四角い長方形ならばスペインか{{% goto "../andorra/" "アンドラ" %}}を考えてみて良いと思う。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

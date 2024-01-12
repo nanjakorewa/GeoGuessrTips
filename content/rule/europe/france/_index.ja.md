@@ -86,7 +86,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /lb %}}
 
 {{% notice tip %}}
-青・白のシェブロンがある{{% ex "https://maps.app.goo.gl/6t494vsvpc9zMZUG7" "https://goo.gl/maps/YcTm296DMLyVxRRg6" %}}。青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
+青・白のシェブロンがある{{% ex "https://maps.app.goo.gl/XKPFZ3qtpKQwWPsy5" "https://maps.app.goo.gl/6t494vsvpc9zMZUG7" "https://goo.gl/maps/YcTm296DMLyVxRRg6" %}}。青・白のシェブロンを使うのはヨーロッパではフランスと<span class="quiz">{{% goto "../spain/" "スペイン" %}}</span>のみ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
