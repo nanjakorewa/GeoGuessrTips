@@ -56,7 +56,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレート上部に色が付いている。バスは<span class="quiz">緑</span>色やオレンジ{{% ex "https://maps.app.goo.gl/HSnmgUQczyK88xxq9" %}}、タクシーとトラックは<span class="quiz">黄色の蛍光</span>色{{% ex "https://goo.gl/maps/iDhgexqddRXEabYS9" "https://goo.gl/maps/AKKV6fvSMryDSJwj7" %}}・{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
+ナンバープレート上部に青色以外の色が付いているのはペルーか{{% goto "../ecuador/" "エクアドル" %}}の可能性が高い。バスは<span class="quiz">緑</span>色やオレンジ{{% ex "https://maps.app.goo.gl/HSnmgUQczyK88xxq9" %}}、タクシーとトラックは<span class="quiz">黄色の蛍光</span>色{{% ex "https://goo.gl/maps/iDhgexqddRXEabYS9" "https://goo.gl/maps/AKKV6fvSMryDSJwj7" %}}・{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Peru" "Vehicle registration plates of Peru" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
