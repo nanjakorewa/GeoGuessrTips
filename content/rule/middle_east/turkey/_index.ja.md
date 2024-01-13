@@ -264,22 +264,12 @@ Tatar, Özgür. "Climate change impacts on crop production in Turkey." (2016).
 <img src="2023-06-16-06-32-12.png" width="500px">
 </div>
 {{% /tab %}}
-{{% tab "Antalya" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685557386082!6m8!1m7!1sFg5rSs_8ZTRJc7JpNKghBA!2m2!1d36.9557033940079!2d30.72367396314874!3f105.63881546455217!4f0.6160411884917494!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685557415778!6m8!1m7!1s8fnLobboHQrnzk_eTwCsHg!2m2!1d36.9766508496169!2d30.70234610257211!3f137.77209324666765!4f-0.8109974591268099!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "Ankara" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685557155453!6m8!1m7!1sLfjXwZTZQL1lSd7LpucFVQ!2m2!1d39.94464225500045!2d32.85448713564772!3f213.22166493493947!4f0.035134921699167876!5f2.674553034047748" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685557199306!6m8!1m7!1sE5j4dX6IU_ruh1bW9GpERA!2m2!1d39.97582411991183!2d32.90342327960887!3f198.02468006957434!4f0.349870839121607!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "Gemlik" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687076922343!6m8!1m7!1sIz08YzBo99ikRzQd85zDsA!2m2!1d40.42906283036037!2d29.15618602091844!3f137.97625133540433!4f-0.8359732760743412!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+
+{{% notice tip %}}
+<a href="https://commons.wikimedia.org/wiki/Category:Street_signs_in_Ankara"><u>Street signs in Ankara</u></a>を参照。青いものと赤いものの2種類。
+{{% /notice %}}
+
 {{% /tab %}}
 {{% /tabs %}}
 
