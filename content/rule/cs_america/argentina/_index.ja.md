@@ -83,7 +83,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/T29
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
-アルゼンチンで見ることができる電柱
+アルゼンチンで見ることができる電柱。穴あき電柱{{% ex "https://maps.app.goo.gl/UtfmAMmGyD2CryoL6" %}}やオーストラリアっぽい電柱も稀にある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686861875714!6m8!1m7!1s4hRqrWRh-yXvwGuSRXTBYQ!2m2!1d-26.74627600416227!2d-65.16441350002685!3f313.3235749790858!4f32.468871465170395!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
