@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
+ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./lp.jpg" width="95%">
