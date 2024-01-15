@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>。ボラードがなんとなく大きく感じる。
+カメラの位置が<span class="quiz">低い</span>{{% ex "https://maps.app.goo.gl/MfosGvWC84dMdt9i6" "https://maps.app.goo.gl/mELD3wmgXmekh5RX9" %}}。ボラードがなんとなく大きく感じる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -62,7 +62,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-頭が丸い円柱型のボラードはスイスにしか無い{{% ex "https://maps.app.goo.gl/XrnPuFkWdD5sNNiT7" "https://maps.app.goo.gl/wc5CGoqKkhq2dm5d6" %}}。また『Generell』はドイツ語なのでフランスから離れている場所だと想像できる。
+頭が丸い円柱型のボラードはスイスにしか無い{{% ex "https://maps.app.goo.gl/ENYEwyP5FCL3RmMX6" "https://maps.app.goo.gl/wc5CGoqKkhq2dm5d6" %}}。また『Generell』はドイツ語なのでフランスから離れている場所だと想像できる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

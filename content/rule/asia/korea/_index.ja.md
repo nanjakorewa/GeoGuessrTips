@@ -45,7 +45,7 @@ import_jquery_36: true
 </div>
 
 {{% notice tip %}}
-特徴的な形のボラードがある
+特徴的な形のボラードがある{{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./korean_roadside_in_mountainous.jpg" width="90%">
@@ -53,7 +53,7 @@ import_jquery_36: true
 
 
 {{% notice tip %}}
-警告看板がオレンジ色
+警告看板がオレンジ色{{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./korean_sign_traffic_signs.jpg" width="95%">

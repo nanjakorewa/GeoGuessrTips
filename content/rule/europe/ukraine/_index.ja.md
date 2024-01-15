@@ -59,7 +59,7 @@ By Andrii crimea ua at Ukrainian WikipediaW - Own work by the original uploader,
 {{% /lb %}}
 
 {{% notice tip %}}
-GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{% by %}}？ただし{{% goto "../../asia/russia/" "ロシア" %}}や{{% goto "../belgium/" "ベルギー" %}}にも赤い車がいるのと、画質の良い（Gen4）の赤い車がヨーロッパの各地に稀にいるので赤色だけで即決してはいけない。
+GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{% ex "https://maps.app.goo.gl/NqbfKuSfwZgo9RsS7" "https://maps.app.goo.gl/cUZPhRfbmA5Ejgej7" "https://maps.app.goo.gl/TPqtQ1Bp2GgzSxik7" %}}{{% by %}}？ただし{{% goto "../../asia/russia/" "ロシア" %}}や{{% goto "../belgium/" "ベルギー" %}}にも赤い車がいるのと、画質の良い（Gen4）の赤い車がヨーロッパの各地に稀にいるので赤色だけで即決してはいけない。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680191638496!6m8!1m7!1ssQiJDGJBfcR4IpeZIjQ2fA!2m2!1d48.51702190147009!2d25.05659520551288!3f111.51058610408954!4f-30.043874499404446!5f0.550023968866" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
