@@ -129,13 +129,25 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>エストレーラ山脈はスノーポールが道端にある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" "https://maps.app.goo.gl/FL2dHXntciZUaC4VA" %}}{{% ref "https://pt.wikipedia.org/wiki/Serra_da_Estrela" "Serra da Estrela" %}}</li>
         <li>リスボンではCarrisの路面電車を見かけるかも</li>
         <li>ベルレンガ群島という離島があり17世紀に建てられた要塞が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}{{% ref "https://en.wikipedia.org/wiki/Berlengas" "Berlengas" %}}</li>
-        <li>エストレーラ山脈はスノーポールが道端にある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" "https://maps.app.goo.gl/FL2dHXntciZUaC4VA" %}}{{% ref "https://pt.wikipedia.org/wiki/Serra_da_Estrela" "Serra da Estrela" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "エストレーラ山脈" %}}
+
+{{% notice tip %}}
+ポルトガル唯一のスキー場がありスノーポールが建っている道路もある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" %}}。こんな感じの岩が道端に多く分布している{{% ex "https://maps.app.goo.gl/F4McqZCPwP89sQQk8" "https://maps.app.goo.gl/BfuCzSJrLkQSYPHQA" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="./city/cantaromagro.jpg">
+</div>
+
+{{% /tab %}}
 {{% tab "リスボン" %}}
 
 {{% notice tip %}}
@@ -157,18 +169,6 @@ sc: [
 <div class="googlemap-if no-margin">
 <img src="./city/berlenga_fort.jpg" width="310px">
 <img src="./city/berlenga_island_bay.jpg" width="310px">
-</div>
-
-{{% /tab %}}
-{{% tab "エストレーラ山脈" %}}
-
-{{% notice tip %}}
-ポルトガル唯一のスキー場がありスノーポールが建っている道路もある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" %}}。こんな感じの岩が道端に多く分布している{{% ex "https://maps.app.goo.gl/F4McqZCPwP89sQQk8" "https://maps.app.goo.gl/BfuCzSJrLkQSYPHQA" %}}。
-{{% /notice %}}
-
-
-<div class="googlemap-if no-margin">
-<img src="./city/cantaromagro.jpg">
 </div>
 
 {{% /tab %}}
