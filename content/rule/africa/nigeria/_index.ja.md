@@ -204,6 +204,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
     <ul class="rule-list">
         <li>店の看板などに住所が書いてあることが多い
             <ul>
+                <li>Abja{{% ex "https://maps.app.goo.gl/gyVZNfs8RXHMXJHm6" %}}</li>
                 <li>Yobe{{% ex "https://maps.app.goo.gl/h3RyZKCGxke2giCF9" %}}</li>
                 <li>Sokoto{{% ex "https://maps.app.goo.gl/vXbiSFeSGycNPZt97" %}}</li>
             </ul>
