@@ -111,10 +111,19 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
         <li>植生が場所によって異なる
             <ul>
                 <li>海沿い：海沿いの浸水林（Swamp Forest）のエリアは都市周辺以外は道がほとんど存在しない</li>
-                <li>南東部：アブラヤシが多く生えている</li>
+                <li>南東部：アブラヤシのプランテーションがあるかも
+                    <ul>
+                        <li>山がちかつ多雨林っぽいなら東部のカメルーン国境近くかも{{% ex "https://maps.app.goo.gl/TEfL44nrxeTAaocS7" "https://maps.app.goo.gl/U3VUaugc4kur8F99A" %}}</li>
+                    </ul>
+                </li>
                 <li>南西部：背の高い木が多く生えていて遠くを見渡すのは難しい</li>
-                <li>中央部：草や低木が一面を覆っている</li>
-                <li>Jos周辺：標高が高くごつごつした岩や小さな山のようなものが見える{{% ex "https://maps.app.goo.gl/YKLmLtjEh7RE5HpLA" %}}</li>
+                <li>中央部：草や低木が多い
+                     <ul>
+                        <li>中央東部：少し丸っぽい山がある（Jalingo{{% ex "https://maps.app.goo.gl/kbg4dmoA9eqykoTi7" %}}より東側の方が山が多め）</li>
+                        <li>中央周辺：標高が高くごつごつした岩や小さな山のようなものが見える{{% ex "https://maps.app.goo.gl/YKLmLtjEh7RE5HpLA" %}}</li>
+                        <li>中央西部：ナイジェリア西部のオヨでもJos周辺に似たような岩山があるので注意{{% ex "https://maps.app.goo.gl/Fn8hbHkcF5buzbYz5" "https://maps.app.goo.gl/2phHBHPm2GEQbGhQ6" %}}</li>
+                    </ul>
+                </li>
                 <li>最北部：郊外は草がほとんど生えていない</li>
             </ul>
         </li>
@@ -172,7 +181,7 @@ Southern Guinea Zone（オレンジ色）の部分は草で地面が覆われて
 </div>
 
 {{% notice tip %}}
-標高が高く木の密度は高くない。岩や小さな山が遠くに見えることがある。
+標高が高く木の密度は高くなく、岩や小さな山が遠くに見えることがある。しかしナイジェリア西部のオヨでも似たような岩山があるので注意{{% ex "https://maps.app.goo.gl/Fn8hbHkcF5buzbYz5" %}}。
 {{% /notice %}}
 
 {{% /tab %}}
