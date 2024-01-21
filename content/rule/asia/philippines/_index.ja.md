@@ -306,12 +306,19 @@ CC0画像を加工
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>地域と県名を覚えておくと場所の特定に役立つ{{% ref "https://commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.svg#/media/File:Ph_regions_and_provinces.svg" "Map of the Philippines showing the location of all the regions and provinces" %}}</li>
         <li>工事中の看板がよくあり都市名が書かれていることが多い</li>
         <li>大手銀行のATMの看板にはいつも町名や地域名が書いてある{{% ex "https://maps.app.goo.gl/a1Jnmxjm3pUGZGUx5" %}}</li>
     </ul>
 </div>
-
 {{% tabs %}}
+{{% tab "地域と県名" %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.svg#/media/File:Ph_regions_and_provinces.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ph_regions_and_provinces.svg" alt="Ph regions and provinces.svg" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:HueMan1" title="User:HueMan1">HueMan1</a> - Own work, based on <a href="//commons.wikimedia.org/wiki/User:Seav" title="User:Seav">seav</a>'s <a href="//commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.png" title="File:Ph regions and provinces.png">Ph regions and provinces.png</a> and <a href="//commons.wikimedia.org/wiki/User:Felipe_Aira" title="User:Felipe Aira">Felipe Aira</a>'s <a href="//commons.wikimedia.org/wiki/File:PhlMapCit.svg" title="File:PhlMapCit.svg">File:PhlMapCit.svg</a>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=80077790">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% tab "工事看板" %}}
 
 {{% notice tip %}}
