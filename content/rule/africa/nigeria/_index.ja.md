@@ -120,7 +120,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
                 <li>中央部：草や低木が多い
                      <ul>
                         <li>中央東部：少し丸っぽい山がある（Jalingo{{% ex "https://maps.app.goo.gl/kbg4dmoA9eqykoTi7" %}}より東側の方が山が多め）</li>
-                        <li>中央周辺：標高が高くごつごつした岩や小さな山のようなものが見える{{% ex "https://maps.app.goo.gl/YKLmLtjEh7RE5HpLA" %}}</li>
+                        <li>中央周辺：Abuja~Jos周辺は標高が高くごつごつした岩や小さな岩山が見える{{% ex "https://maps.app.goo.gl/YKLmLtjEh7RE5HpLA" %}}</li>
                         <li>中央西部：ナイジェリア西部のオヨでもJos周辺に似たような岩山があるので注意{{% ex "https://maps.app.goo.gl/Fn8hbHkcF5buzbYz5" "https://maps.app.goo.gl/2phHBHPm2GEQbGhQ6" %}}</li>
                     </ul>
                 </li>
