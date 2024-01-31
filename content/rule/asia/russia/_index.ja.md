@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "RU.svg"
 jetro_detail: true
+plonkit: true
 jogmec_detail: true
 map_title: "練習用マップ"
 maps: [

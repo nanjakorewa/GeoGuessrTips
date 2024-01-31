@@ -54,10 +54,10 @@ JETROなどによると、STEERS(ファストフード){{% ex "https://goo.gl/ma
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で何種類か存在する。車の屋根が見えたり{{% ex "https://maps.app.goo.gl/BpXBaPvnw6Av77uG6" "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていたり{{% ex "https://maps.app.goo.gl/PzwK9emZPdSg6qGw5" "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" "https://maps.app.goo.gl/ADPLGyswN8q8z9L26" %}}サイドミラーが見えたりする{{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}。黒い車もいる{{% ex "https://maps.app.goo.gl/2qc6tPpUKx9yJKvf9" %}}。稀にGoogle Carがモザイクになっていたり{{% ex "https://goo.gl/maps/w1JyoUimwnwk6AbL8" %}}映っていない時もある{{% ex "https://maps.app.goo.gl/ctDApK8V6uDwgxqU6" "https://goo.gl/maps/CKy6drok6MeSJxXD9" "https://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}ので注意。
+Google Carが特徴的で何種類か存在する。車の屋根が見えたり{{% ex "https://maps.app.goo.gl/BpXBaPvnw6Av77uG6" "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていたり{{% ex "https://maps.app.goo.gl/PzwK9emZPdSg6qGw5" "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" "https://maps.app.goo.gl/ADPLGyswN8q8z9L26" %}}サイドミラーが見えたりする{{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}。黒い車もいる{{% ex "https://maps.app.goo.gl/2qc6tPpUKx9yJKvf9" %}}。稀にGoogle Carが映っていない時もある{{% ex "https://maps.app.goo.gl/ctDApK8V6uDwgxqU6" "https://goo.gl/maps/CKy6drok6MeSJxXD9" "https://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}ので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681157131804!6m8!1m7!1sGOyh4xXRk_aRcxwYznvcwQ!2m2!1d-1.312968146095767!2d36.82981472799747!3f150.67865147779287!4f-20.34512092537844!5f1.3473814785954303" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1706661584779!6m8!1m7!1sNKDg-2MfNl-12qbEN5-Y1Q!2m2!1d0.2511892980565865!2d37.92610937796032!3f209.33301176809235!4f-14.499122211949398!5f0.4000000000000002" width="70%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}

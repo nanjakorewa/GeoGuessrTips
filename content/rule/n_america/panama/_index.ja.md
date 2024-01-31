@@ -15,6 +15,7 @@ is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../mexico/", "メキシコ"],
+    ["../../africa/senegal/", "セネガル"],
     ]
 ---
 
@@ -34,11 +35,10 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白いGoogle Car。太目のアンテナが付いていることが多い{{% ex "https://maps.app.goo.gl/DKUfrwCQWdaa92FY7" %}}。
+白いGoogle Carに太目のアンテナが付いていることが多い{{% ex "https://maps.app.goo.gl/ok868Yf1r35TB2669" %}}。油断して{{% goto "../../africa/senegal/" "セネガル" %}}{{% ex "https://maps.app.goo.gl/WXhkCcsbPM5RNSmz8" %}}や{{% goto "../../africa/kenya/" "ケニア" %}}{{% ex "https://maps.app.goo.gl/g3Qjy5ajYyiLgwmn8" %}}と見間違えないように。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695955162713!6m8!1m7!1s0016NeUregUkB4x_Fh0BNA!2m2!1d8.16556081065612!2d-77.69900331318206!3f118.18064581541348!4f1.573811064270302!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695954874058!6m8!1m7!1seRX_cQTdoOHaOHwx5IAKIw!2m2!1d8.329075073773875!2d-80.5195868482123!3f344.05897326548825!4f-10.310925321769318!5f1.8409328819346227" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1706662054975!6m8!1m7!1sFk8MrBC43j1quwCPtErmZA!2m2!1d7.616269920754096!2d-80.59604835540316!3f192.89858161311366!4f-1.5211878375611718!5f1.0605439775114949" width="70%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% notice tip %}}
 ナンバープレートの上部に緑や青などの色が付いている{{% ex "https://maps.app.goo.gl/RPW8UgQpGdiYoexs8" %}}{{% ref "http://www.worldlicenseplates.com/world/CE_PANA.html" "Vehicle registration plates of Panama" %}}。一般の乗用車は後ろにのみナンバープレートの設置が義務付けられている{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Panama" "Vehicle registration plates of Panama" %}}。全体が青色や赤色の時もある。
