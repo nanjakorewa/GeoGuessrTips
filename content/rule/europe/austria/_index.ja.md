@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">EINBAHN</span>の標識がある点が{{% goto "../germany/" "ドイツ" %}}と明確に違う。{{% ex "https://goo.gl/maps/Tk9wTitkT15y5wvy7" "https://goo.gl/maps/kwHeeyruGhB5nGbr7" %}}ポールに赤と白のペイントがされていることがある。またANFANGやENDEと書かれた看板がある{{% ex "https://goo.gl/maps/ougJbaAVvy3rNCr18" "https://goo.gl/maps/ZajkmfdXc85JZzFDA" %}}。
+<span class="quiz">EINBAHN</span>の標識がある点が{{% goto "../germany/" "ドイツ" %}}と明確に違う{{% ex "https://goo.gl/maps/Tk9wTitkT15y5wvy7" "https://goo.gl/maps/kwHeeyruGhB5nGbr7" %}}。ポールに赤と白のペイントがされていることがある。またANFANGやENDEと書かれた看板がある{{% ex "https://goo.gl/maps/ougJbaAVvy3rNCr18" "https://goo.gl/maps/ZajkmfdXc85JZzFDA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/robertwallner/4185324523/in/photolist-cdUXnQ-91Pdae-5e2j9k-iwtLiU-VXStiM-7gdvZN-xxmzSy-2mg64or-2mhVb45-96nVqK-5jBuYS-WRicCj-2fiwSsN-EGJzXj-Xi2FRv-25qLkZq-fXte3S-nazsY-3c3YTN-oH5bTT-Hobenx-naBYH-bFQQk8-aBAfY4-MuWfG-68uu1Y-7wkrTh-gyabZk-7nQTgv-KkTuSq-22QV6ZS-8DhjBX-GtWq8-c4ApLq-qFX4Y2-7nQTRn-b78moT-iJj9E7-7nQTaD-7nUMnb-8EJJdq-81NwNW-7nQTsX-7nQTAp-7nQTCk-7nUMiS-7nUM9N-7nQTjM-r7LtpC-7nUMhE" title="Einbahn_Vorgartenstraße_01"><img src="https://live.staticflickr.com/4041/4185324523_6ec56debe2_z.jpg" width="640" height="480" alt="Einbahn_Vorgartenstraße_01"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ボラードのてっぺんの黒い部分が他と違う{{% ex "https://maps.app.goo.gl/VSWummPcFCib5ppq7" %}}{{% by "https://www.plonkit.net/austria" "plonkit" %}}。スロベニアにも同じような形のものがある。
+ボラードのてっぺんの黒い部分が他と違う{{% ex "https://maps.app.goo.gl/VSWummPcFCib5ppq7" %}}{{% by "https://www.plonkit.net/austria" "plonkit" %}}。{{% goto "../slovenia/" "スロベニア" %}}や{{% goto "../montenegro/" "モンテネグロ" %}}にもこの形のボラードが見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if">
