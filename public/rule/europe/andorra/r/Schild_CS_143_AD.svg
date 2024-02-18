@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 93.93 41.01"
+   height="41.01mm"
+   width="93.93mm">
+  <defs
+     id="defs2" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-45.41,-54.63)"
+     id="layer1">
+    <rect
+       ry="7.938"
+       rx="7.938"
+       y="55.96"
+       x="46.73"
+       height="38.36"
+       width="91.28"
+       id="rect833"
+       style="fill:#13926c;fill-rule:evenodd;stroke:#f2f2f2;stroke-width:2.6458;stroke-dashoffset:34.8992" />
+    <g
+       style="font-size:30.86809999999999832px;font-family:'Helvetica Condensed';-inkscape-font-specification:'Helvetica Condensed, ';letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#f2f2f2;stroke-width:0.7717"
+       id="text837"
+       aria-label="CS 143">
+      <path
+         id="path1794"
+         style="-inkscape-font-specification:'Helvetica Condensed, '"
+         d="m 61.21,78.47 c -0.1,1.48 0.18,5.31 -2.19,5.31 -2.97,0 -3.12,-3.12 -3.12,-5.03 v -6.42 c 0,-1.79 -0.28,-5.84 3.12,-5.84 2.13,0 1.97,2.78 2.16,4.26 h 4.26 c 0,-0.59 -0,-1.17 -0.1,-1.76 -0.31,-3.95 -2.47,-5.92 -6.32,-5.99 -6.92,0 -7.38,4.39 -7.57,10.28 v 3.31 c 0,6.17 0.47,10.68 7.57,10.68 4.81,0 6.23,-3.25 6.45,-7.47 0,-0.44 0.1,-0.9 0.1,-1.33 z" />
+      <path
+         id="path1796"
+         style="-inkscape-font-specification:'Helvetica Condensed, '"
+         d="M 82.03,70.6 C 82,68.31 82.19,63 75.3,63 c -4.57,0 -6.79,2.16 -6.79,6.12 0,1.23 0.4,2.5 1.11,3.55 1.76,2.31 4.57,3.58 6.82,5.34 1.12,0.77 1.73,1.69 1.73,3.05 0,1.76 -0.86,2.72 -2.68,2.72 -2.13,0 -2.81,-1.64 -2.72,-3.89 v -1.36 h -4.32 v 1.7 c 0,4.13 1.85,7.04 7.04,7.04 4.23,0 7.13,-2.29 7.13,-6.67 0,-2.01 -0.46,-3.4 -1.95,-4.85 -1.2,-1.17 -3.82,-2.9 -5.24,-3.79 -1.36,-0.87 -2.47,-1.55 -2.47,-3.31 0,-1.57 0.92,-2.16 2.37,-2.16 2.38,0 2.57,2.04 2.53,4.11 z" />
+      <path
+         id="path1798"
+         style="-inkscape-font-specification:'Helvetica Condensed, '"
+         d="m 96.42,86.71 h 4.28 V 63.56 h -3.13 c -0.87,3.18 -3.37,3.98 -6.36,4.01 v 3.09 h 5.21 z" />
+      <path
+         id="path1800"
+         style="-inkscape-font-specification:'Helvetica Condensed, '"
+         d="m 107.8,78.62 4.2,-9.38 h 0.1 v 9.38 z m 3.8,-14.69 -7,14.69 v 3.4 h 7.5 v 4.69 h 4.3 v -4.69 h 2 v -3.4 h -2 V 63.93 Z" />
+      <path
+         id="path1802"
+         style="-inkscape-font-specification:'Helvetica Condensed, '"
+         d="m 124.6,76.03 c 1.2,0 3.1,-0 3.9,0.93 0.4,0.55 0.5,1.72 0.5,2.43 0,2.17 0,4.39 -2.3,4.39 -2.8,0 -2.4,-2.84 -2.5,-4.76 h -4 v 1.36 c -0.1,2.41 0.4,6.79 6.4,6.79 4.7,0 6.7,-2.74 6.7,-7.28 0.1,-3.55 -1.5,-5.37 -3.5,-5.62 v -0.1 c 2.3,-0.34 3,-2.78 3,-4.79 0,-3.67 -1.9,-5.95 -6.3,-5.95 -4.4,0 -6.3,2.56 -6,6.85 h 4 v -1.64 c 0.1,-1.48 1.2,-1.82 2.1,-1.82 1.4,0 2,0.84 2,2.59 0,1.15 -0.1,2.29 -1.3,2.84 -0.8,0.38 -1.8,0.28 -2.7,0.34 z" />
+    </g>
+  </g>
+</svg>

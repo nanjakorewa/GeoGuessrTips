@@ -32,7 +32,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。
+車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。バイクも<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/RzyrkmBq96HF1Mkb9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1691999031048!6m8!1m7!1snoD__qTK73KSPwSsPRVGdQ!2m2!1d-2.075259901465407!2d37.45373699945315!3f127.79717617921!4f-8.046265341484869!5f2.04356627114321" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -54,7 +54,7 @@ JETROなどによると、STEERS(ファストフード){{% ex "https://goo.gl/ma
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で何種類か存在する。車の屋根が見えたり{{% ex "https://maps.app.goo.gl/BpXBaPvnw6Av77uG6" "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていたり{{% ex "https://maps.app.goo.gl/PzwK9emZPdSg6qGw5" "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" "https://maps.app.goo.gl/ADPLGyswN8q8z9L26" %}}サイドミラーが見えたりする{{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}。黒い車もいる{{% ex "https://maps.app.goo.gl/2qc6tPpUKx9yJKvf9" %}}。稀にGoogle Carが映っていない時もある{{% ex "https://maps.app.goo.gl/ctDApK8V6uDwgxqU6" "https://goo.gl/maps/CKy6drok6MeSJxXD9" "https://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}ので注意。
+Google Carが特徴的で何種類か存在する。車の屋根が見えたり{{% ex "https://maps.app.goo.gl/BpXBaPvnw6Av77uG6" "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}シュノーケル（Vehicle snorkel）と呼ばれる黒いパーツが付いていたり{{% ex "https://maps.app.goo.gl/tRTEKWnQCoqNSgw17" "https://maps.app.goo.gl/PzwK9emZPdSg6qGw5" "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" "https://maps.app.goo.gl/ADPLGyswN8q8z9L26" %}}サイドミラーが見えたりする{{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}。黒い車もいる{{% ex "https://maps.app.goo.gl/2qc6tPpUKx9yJKvf9" %}}。稀にGoogle Carが映っていない時もある{{% ex "https://maps.app.goo.gl/ctDApK8V6uDwgxqU6" "https://goo.gl/maps/CKy6drok6MeSJxXD9" "https://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}ので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1706661584779!6m8!1m7!1sNKDg-2MfNl-12qbEN5-Y1Q!2m2!1d0.2511892980565865!2d37.92610937796032!3f209.33301176809235!4f-14.499122211949398!5f0.4000000000000002" width="70%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
