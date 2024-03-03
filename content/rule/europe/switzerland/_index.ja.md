@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>{{% ex "https://maps.app.goo.gl/MfosGvWC84dMdt9i6" "https://maps.app.goo.gl/mELD3wmgXmekh5RX9" %}}。ボラードがなんとなく大きく感じる。
+カメラの位置が<span class="quiz">低い</span>{{% ex "https://maps.app.goo.gl/QhtJHMs5juu2LqCa8" "https://maps.app.goo.gl/MfosGvWC84dMdt9i6" "https://maps.app.goo.gl/mELD3wmgXmekh5RX9" %}}。ボラードがなんとなく大きく感じる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -69,18 +69,8 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Ammerswil_vilagheniro_291.jpg#/media/File:Ammerswil_vilagheniro_291.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ammerswil_vilagheniro_291.jpg" alt="Ammerswil vilagheniro 291.jpg" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:DidiWeidmann" title="User:DidiWeidmann">Dietrich Michael Weidmann</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9476824">Link</a></p>
 </div>
 
-
 {{% notice tip %}}
-消火栓が特徴的。色はバリエーションあり{{% ex "https://goo.gl/maps/472YLz5wyCtqreUE8" "https://goo.gl/maps/xjVVNnyAbaUHjuXQ8" "https://goo.gl/maps/oGdmBox23tRikt388" "https://maps.app.goo.gl/noLmxVrx189QYgX49" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mekin/29738814404/in/photolist-MiVcro-2cr8pRg-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-6SiNL8-wT3rg-5yYj9y-iivgEe-2kS39VY-2jsqJtY-KeW6Q1-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-Lbzn6p-2hNJB-6FdT7F-7JEr93-6Z5V4c-85wFVF-ysh73-kBx6ku-dHDutk-K2EqUS-oZRyLh-8kytta-iJxrW-76tDYF-KeH6SF-cq7DeG-L8o2NC-dJ6Zww-JJG4YC-KCpeiU-2mvmUdF-82iKgG-2mvrBB3-2mvmUoq-2mvqyn3-2mvo8Z3-2mvqyhZ-2mvrB7F-2mvhKF9" title="Fire hydrant"><img src="https://live.staticflickr.com/5753/29738814404_27186fbcee.jpg" width="335" alt="Fire hydrant"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/skylinegtr/14111458699/in/photolist-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-7vt4ZZ-6SiNL8-NgBB1Z-wT3rg-5yYj9y-iivgEe-7JEr93-2kS39VY-85wFVF-ysh73-kBx6ku-2jsqJtY-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-L8o2NC-dHJVw5-djhurH-2gishj3-8kBC2q-K2EqUS-oZRyLh-iJxrW-76tDYF-qawgLL-KeH6SF-cq7DeG-7VTtio-dJ6Zww-oJ1ju-JJG4YC-KCpeiU-2goixL-qDxwNU-2imuqq-9ZvBhi-2k5iFE-7ThdVx-783qzc-6Cimyf-2ik9DtF" title="Swiss Fire Hydrant"><img src="https://live.staticflickr.com/5516/14111458699_af5a517f7f.jpg" width="298" height="500" alt="Swiss Fire Hydrant"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-
-{{% notice tip %}}
-ナンバープレートは特徴的だがモザイクが強くわかりにくい。ほとんどの車は青い線がなく白色に見える{{% ex "https://maps.app.goo.gl/jVwB5YUoqsTM9YtR7" %}}。
+ナンバープレートは特徴的だがモザイクが強くわかりにくい。ほとんどの車は青い線がなく白色に見える{{% ex "https://maps.app.goo.gl/EcE8ypsGXD3kyfZB9" "https://maps.app.goo.gl/jVwB5YUoqsTM9YtR7" %}}。
 {{% /notice %}}
 
 
@@ -93,6 +83,15 @@ sc: [
 
 By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2717225">Link</a>
 {{% /lb %}}
+
+
+{{% notice tip %}}
+消火栓が特徴的。色はバリエーションあり{{% ex "https://goo.gl/maps/472YLz5wyCtqreUE8" "https://goo.gl/maps/xjVVNnyAbaUHjuXQ8" "https://goo.gl/maps/oGdmBox23tRikt388" "https://maps.app.goo.gl/noLmxVrx189QYgX49" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mekin/29738814404/in/photolist-MiVcro-2cr8pRg-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-6SiNL8-wT3rg-5yYj9y-iivgEe-2kS39VY-2jsqJtY-KeW6Q1-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-Lbzn6p-2hNJB-6FdT7F-7JEr93-6Z5V4c-85wFVF-ysh73-kBx6ku-dHDutk-K2EqUS-oZRyLh-8kytta-iJxrW-76tDYF-KeH6SF-cq7DeG-L8o2NC-dJ6Zww-JJG4YC-KCpeiU-2mvmUdF-82iKgG-2mvrBB3-2mvmUoq-2mvqyn3-2mvo8Z3-2mvqyhZ-2mvrB7F-2mvhKF9" title="Fire hydrant"><img src="https://live.staticflickr.com/5753/29738814404_27186fbcee.jpg" width="335" alt="Fire hydrant"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/skylinegtr/14111458699/in/photolist-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-7vt4ZZ-6SiNL8-NgBB1Z-wT3rg-5yYj9y-iivgEe-7JEr93-2kS39VY-85wFVF-ysh73-kBx6ku-2jsqJtY-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-L8o2NC-dHJVw5-djhurH-2gishj3-8kBC2q-K2EqUS-oZRyLh-iJxrW-76tDYF-qawgLL-KeH6SF-cq7DeG-7VTtio-dJ6Zww-oJ1ju-JJG4YC-KCpeiU-2goixL-qDxwNU-2imuqq-9ZvBhi-2k5iFE-7ThdVx-783qzc-6Cimyf-2ik9DtF" title="Swiss Fire Hydrant"><img src="https://live.staticflickr.com/5516/14111458699_af5a517f7f.jpg" width="298" height="500" alt="Swiss Fire Hydrant"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 
 
