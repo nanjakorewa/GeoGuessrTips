@@ -29,7 +29,7 @@ sc: [
         <li>後ろのナンバープレートは<span class="quiz">黄</span>色</li>
         <li>標識のポールは<span class="quiz">白黒のストライプ</span>のものが多い</li>
         <li>水路や交差点沿いに<span class="quiz">白黒のブロック</span>がある{{% by "" "plonkit" %}}</li>
-        <li>一部で青・白・赤のGoogleCarが見られる{{% ex "https://goo.gl/maps/9AsYHm8rCHKYtHjq7" %}}{{% by %}}</li>
+        <li>一部で青・白・赤のGoogleCarが見られる{{% ex "https://maps.app.goo.gl/mFof6h4QjkoKZogb8" "https://goo.gl/maps/9AsYHm8rCHKYtHjq7" %}}{{% by %}}</li>
         <li>電柱は四角いものや大きい穴が空いたものがありコイルが大きい</li>
     </ul>
 </div>
@@ -45,7 +45,7 @@ sc: [
 
 
 {{% notice tip %}}
-水路や交差点沿いに<span class="quiz">白黒のブロック</span>があり{{% by "" "plonkit" %}}、標識も<span class="quiz">白黒のストライプ</span>のものが多い。
+水路や交差点沿いに<span class="quiz">白黒のブロック</span>がある{{% ex "https://maps.app.goo.gl/QwKbrQwAB5hook5Y7" %}}{{% by "" "plonkit" %}}。標識も<span class="quiz">白黒のストライプ</span>のものが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688100035822!6m8!1m7!1svKZ1LZAISHtXxxH-m0QN5Q!2m2!1d8.946198956561048!2d79.92337812619381!3f15.549198534843864!4f-10.503286587022998!5f1.2071605491286992" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

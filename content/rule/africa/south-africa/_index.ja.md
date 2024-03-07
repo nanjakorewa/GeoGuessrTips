@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">左側</span>通行かつ外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線{{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" "https://goo.gl/maps/xEQoTHcWvEnZh6Bd8" "https://goo.gl/maps/nJU7oiYVaPU8rz6TA" "https://goo.gl/maps/XXRkvuhtqLF4tJjD9" %}}。両サイドのラインは描かれていない場合もある{{% ex "https://goo.gl/maps/YTXuR5d5ReaxKZFv8" "https://goo.gl/maps/4kMfS3xsCy9mtxBz9" %}}。稀に赤い線もある{{% ex "https://goo.gl/maps/3BxszCAmoMUFka9X7" %}}。
+<span class="quiz">左側</span>通行{{% ex "https://maps.app.goo.gl/8gMFG5NsBTamWV8g8" "https://maps.app.goo.gl/fQZeh21BBqrWQbst7" %}}。外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線{{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" "https://goo.gl/maps/xEQoTHcWvEnZh6Bd8" "https://goo.gl/maps/nJU7oiYVaPU8rz6TA" "https://goo.gl/maps/XXRkvuhtqLF4tJjD9" %}}。両サイドのラインは描かれていない場合もある{{% ex "https://goo.gl/maps/YTXuR5d5ReaxKZFv8" "https://goo.gl/maps/4kMfS3xsCy9mtxBz9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road.jpg" width="90%" />
