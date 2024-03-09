@@ -35,7 +35,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白いGoogle Carに太目のアンテナが付いていることが多い{{% ex "https://maps.app.goo.gl/ok868Yf1r35TB2669" %}}。油断して{{% goto "../../africa/senegal/" "セネガル" %}}{{% ex "https://maps.app.goo.gl/WXhkCcsbPM5RNSmz8" %}}や{{% goto "../../africa/kenya/" "ケニア" %}}{{% ex "https://maps.app.goo.gl/g3Qjy5ajYyiLgwmn8" %}}と見間違えないように。
+白いGoogle Carに太目のアンテナが付いている{{% ex "https://maps.app.goo.gl/vj7vZ2Puhrpqutas5" "https://maps.app.goo.gl/nm2XzNz5jxTH4DTy6" %}}。アンテナが見えなくともぼかしが大きいことが多い{{% ex "https://maps.app.goo.gl/c25XNTfrF1FumhC78" "https://maps.app.goo.gl/FJoQ5BVFRgWF7Ri78" %}}。油断して{{% goto "../../africa/senegal/" "セネガル" %}}{{% ex "https://maps.app.goo.gl/WXhkCcsbPM5RNSmz8" %}}や{{% goto "../../africa/kenya/" "ケニア" %}}{{% ex "https://maps.app.goo.gl/g3Qjy5ajYyiLgwmn8" %}}と見間違えないように。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1706662054975!6m8!1m7!1sFk8MrBC43j1quwCPtErmZA!2m2!1d7.616269920754096!2d-80.59604835540316!3f192.89858161311366!4f-1.5211878375611718!5f1.0605439775114949" width="70%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
