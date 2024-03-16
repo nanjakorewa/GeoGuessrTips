@@ -258,6 +258,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
+        <li>テルナテ島は島中央部にガマラマ山が見え、斜面に道路と家が並んでいる{{% ex "https://maps.app.goo.gl/ZsWS2jTnjikEr4Wd8" %}}</li>
         <li class="no-evidence">市外局番が見つかり一緒に地名も見つかることが多い
             <ul>
                 <li>街中で見かける08XXは場所がわからない。番号を探すために全ての看板を見るのは止めた方が良いように思う。電話番号・地名がセットで見つかることが多いので地名を覚えた方がいいように思う。</li>
@@ -287,6 +288,17 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 </div>
 
 {{% tabs %}}
+{{% tab "テルナテ島" %}}
+
+{{% notice tip %}}
+↓の写真の奥に見える山が見えることが多く{{% ex "https://maps.app.goo.gl/CRYvcqYtgfs8bxEr9" %}}家も斜面に建っていることが多い{{% ex "https://maps.app.goo.gl/NWM5RWzfavSqJSod9" %}}。となりのティドレ島も似た雰囲気。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./ternate_city_indonesia_2010.jpg">
+</div>
+
+{{% /tab %}}
 {{% tab "市外局番" %}}
 
 <div class="googlemap-if unclickable">
