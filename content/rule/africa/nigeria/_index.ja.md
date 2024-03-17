@@ -227,6 +227,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
         <li>農業が場所によって異なる
             <ul>
                 <li>アブラヤシは海沿いの領域に多い</li>
+                <li>Kaduna周辺はキビの畑が見つかる</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(USDA)</a>・マップのサイズが一致するように一部画像加工あり</li>
             </ul>
         </li>
@@ -260,8 +261,13 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 </div>
 
 {{% notice tip %}}
-何種類かあるらしいけれど画質のせいで違いがわからなかった。乾燥した熱帯のエリアで育てられる？
+キビについては画質が良いと分かりやすい、Sokoto・Bornoは道がほぼ無いためKaduna（つまり北の中央付近）の可能性が高い。Milletの生産が多い地域ではDry millet fodder（↓が参考画像）なるものが見つかるのも特徴的。
 {{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="fodder_barn_crop_residue.jpg" width="90%" />
+</div>
+
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
