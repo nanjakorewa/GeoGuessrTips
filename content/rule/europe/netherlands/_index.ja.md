@@ -40,7 +40,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/gq6cPnGT9ZrJGz9V9" %}}。前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。
+ナンバープレートは左側が青色で背景が<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/nBDff6pgDzdbDCVT7" "https://maps.app.goo.gl/gq6cPnGT9ZrJGz9V9" "https://maps.app.goo.gl/ryULLiHyqt3THh7Y6" %}}。前後を見てこの色ならオランダか{{% goto "../luxembourg/" "ルクセンブルグ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dutchemergencyphotos/32732231697/in/photolist-RSrf7n-qVcRkT-FdrLTs-21RtiJY-tSRwrc-kemB9G-Cv5Dyo-85G6Xy-N5MhcA-cs7wE9-2bC8Nt1-K3i2rX-sy3jtz-r3Fg6J-2dYvZos-27G1Lxr-ksxUUH-2a4VT68-myxfbK-2ekrdk3-27DuUBz-2e59tpA-ryy3jJ-22XiD7e-28UowUK-Rr9Z86-qHNvi4-pR9YQJ-qLzpsP-27mytXY-ZiKkNi-2b4AFhj-sS7vkV-LyWdes-26JJy1D-27rTY8Y-8zx2Vt-26AkxD9-MDCGew-NJ7uiT-27JPh1k-xzp6nQ-SKa5mV-do5aAm-Pn6T7x-VDjmt7-26eVQ4w-2a57PaS-KB17Zf-29y1p1d" title="Dutch police Volkswagen Touran"><img src="https://live.staticflickr.com/65535/32732231697_229e7e3b16_z.jpg" width="640" height="393" alt="Dutch police Volkswagen Touran"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
