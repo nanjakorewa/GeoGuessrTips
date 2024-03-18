@@ -56,7 +56,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバーの文字が<span class="quiz">赤い</span>{{% by %}}が、はっきりと見えないことも多い。
+ナンバーの文字が<span class="quiz">赤い</span>{{% ex "https://maps.app.goo.gl/6F27iKhAeKodkYTJA" %}}{{% by %}}。はっきりと見えないことも多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./porsche_brugge_street_car.jpg" width="95%">
@@ -68,16 +68,15 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-通り名の看板にブラバント公の紋章に似たロゴやベルギー国旗が小さく描かれているときがある{{% ex "https://maps.app.goo.gl/jo7nKHcqizzyDyP97" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC%E3%81%AE%E5%9C%B0%E6%96%B9%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%86" "ベルギーの地方行政区分" %}}。
+小さな６角形の看板はベルギー以外ではあまり使われていない{{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}}。小さく角が丸い自転車やピクトグラムが描かれた看板もベルギー以外ではあまり見ない{{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}}。これ以外の交通標識も全体的にすこし他の国と異なる点が多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="Coat_of_arms_of_Brabant.svg" width="200px">
-<img src="2023-06-15-00-30-33.png" width="200px">
+<img src="road-sign2.jpg" width="98%">
 </div>
 
 
 {{% notice tip %}}
-<span class="quiz">白</span>いシンプルなボラード
+<span class="quiz">白</span>いシンプルなボラード{{% ex "https://maps.app.goo.gl/keYDJnEZZ9jmcxcL6" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Heerweg.jpg#/media/File:Heerweg.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Heerweg.jpg" alt="Heerweg.jpg" width="90%"></a></p><p>By <a href="https://nl.wikipedia.org/wiki/User:Paul_Hermans" class="extiw" title="nl:User:Paul Hermans">Paul Hermans</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1807458">Link</a></p>

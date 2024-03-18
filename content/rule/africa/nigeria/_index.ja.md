@@ -226,13 +226,12 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
     <ul class="rule-list">
         <li>農業が場所によって異なる
             <ul>
-                <li>アブラヤシは海沿いの領域に多い</li>
-                <li>Kaduna周辺はキビの畑が見つかる{{% ex "https://maps.app.goo.gl/o6QiPWxXoLVdSQMa7" %}}</li>
+                <li>アブラヤシは海沿いに多くとくに南東に多い</li>
+                <li>北部はキビの畑が見つかりとくにKaduna周辺に多い{{% ex "https://maps.app.goo.gl/EZtbQncPU8Z2Zhhg6" "https://maps.app.goo.gl/o6QiPWxXoLVdSQMa7" %}}</li>
                 <li>データ提供元：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI">U.S. Department of Agriculture(USDA)</a>・マップのサイズが一致するように一部画像加工あり</li>
             </ul>
         </li>
         <li class="no-evidence">パトカーのランプの色で地域を絞り込める{{% by %}}らしいが確度は高くないように思う。周りの景色を信用した方がいいかも。</li>
-        <li class="no-evidence">北東にパトカー大名行列エリアがある？</li>
     </ul>
 </div>
 
@@ -244,15 +243,6 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 
 {{% notice tip %}}
 アブラヤシは海沿いのエリアだけにある
-{{% /notice %}}
-{{% /tab %}}
-{{% tab "コメ" %}}
-<div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-49-07.png" width="90%" />
-</div>
-
-{{% notice tip %}}
-コメは中央エリアに多い
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "キビ・アワ" %}}
@@ -269,6 +259,15 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 </div>
 
 {{% /tab %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="2023-05-10-15-49-07.png" width="90%" />
+</div>
+
+{{% notice tip %}}
+コメは中央エリアに多い
+{{% /notice %}}
+{{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-19-08-43-21.png" width="90%" />
@@ -277,13 +276,6 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% notice tip %}}
 中央から北部にかけて多いが海沿い以外はどこでも存在する可能性あり
 {{% /notice %}}
-{{% /tab %}}
-{{% tab "パトカー大名行列" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691359795933!6m8!1m7!1sFBcB-g-4s1prm6_hAwDR_w!2m2!1d11.60834041871638!2d11.12985903867848!3f121.80223521874404!4f1.5224488571058856!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691359890645!6m8!1m7!1sXHL-Fy1sG7rpeQ0VEFsbHw!2m2!1d11.43123830596603!2d11.26341542505516!3f169.39863020596815!4f-2.248012237078896!5f3.325193203789971"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% /tab %}}
 {{% /tabs %}}
 
