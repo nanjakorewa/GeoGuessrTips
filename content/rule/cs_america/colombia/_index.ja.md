@@ -63,7 +63,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://maps.app.goo.gl/TjLgE6QJ2uantEWf6" "https://maps.app.goo.gl/fzuvcioyB8UCtU9U8" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
+道端の有刺鉄線が張られた木の柵も多く見られる{{% ex "https://maps.app.goo.gl/TjLgE6QJ2uantEWf6" "https://maps.app.goo.gl/opfmbc998ESrUaFr7" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

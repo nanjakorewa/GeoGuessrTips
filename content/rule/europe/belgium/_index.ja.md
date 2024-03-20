@@ -68,7 +68,7 @@ sc: [
 {{% /lb %}}
 
 {{% notice tip %}}
-小さな６角形の看板はベルギー以外ではあまり使われていない{{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}}。小さく角が丸い自転車やピクトグラムが描かれた看板もベルギー以外ではあまり見ない{{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}}。これ以外の交通標識も全体的にすこし他の国と異なる点が多い。
+小さな６角形の看板はベルギー以外ではあまり使われていない{{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/W97DDHUN14eSxqEV6" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}}。小さく角が丸い自転車やピクトグラムが描かれた看板もベルギー以外ではあまり見ない{{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}}。これ以外の交通標識も全体的にすこし他の国と異なる点が多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="road-sign2.jpg" width="98%">
