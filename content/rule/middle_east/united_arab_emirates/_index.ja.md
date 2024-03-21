@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-標識や道路番号の記号が独特{{% ex "https://maps.app.goo.gl/APr3pCybvbEZcCg96" "https://maps.app.goo.gl/PdGv3sBA26cDPCx39" %}}。場所によってはGoogle Carの白い屋根が見えることもある。
+標識や道路番号の記号が独特{{% ex "https://maps.app.goo.gl/APr3pCybvbEZcCg96" "https://maps.app.goo.gl/PdGv3sBA26cDPCx39" "https://maps.app.goo.gl/BdorMKga8Nz55i2N6" %}}。場所によってはGoogle Carの白い屋根が見えることもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/in/photolist-wyGdPm-oPynvW-DoFbTC-7GTDLs-9y8ieS-2o5zk21-2M7154-fps7A-oPAcnD-cWfvK-oPA9Dc-oQDWHm-Dz8zwm-7NhZmt-2MboiE-2M6Zk8-ox751t-oNE13o-4Zh2w6-H5X2xc-iRn1cC-wjf4EC-ox6oQg-4ZmfoS-wjpkoL-oQq1Vg-oMyoNw-28TYE8B-oPA7fe-n1H1Zu-ox71nB-ox6iFP-4z1wd8-oPjiaZ-oMyk6w-wyxwSJ-5QxvkZ-wjw72R-RbWHgp-8ZLEWx-wBjDUT-4z5Lvo-7AmnLg-kKw3Fq-ktU6X7-gAP6T8-MgDPy-2dRoXc9-6rjqi7-7MR4Cm" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Dubai roads"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -80,5 +80,27 @@ Google Carが特徴的で白い屋根が見えることがある。屋根が見�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1684958803956!6m8!1m7!1sxSvV8BnLUB3MuV2kl9Rc8A!2m2!1d25.40734473322975!2d55.51560890219447!3f220.07052663744926!4f-49.21446602119926!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>シルバニヤス島ではほとんどの場所でGoogle Carが見える</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "シルバニヤス島" %}}
+
+{{% notice tip %}}
+ほとんどの場所でGoogle Carが見える{{% ex "https://maps.app.goo.gl/Ff2XteyYMELFxSdi6" "https://maps.app.goo.gl/kvMPDaL9mb91Fa9S8" %}}。景色も特徴的{{% ex "https://maps.app.goo.gl/nCXUmC1QemMsn7xLA" "https://maps.app.goo.gl/EMdbXXuBST1K4tuB6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Sir_Bani_Yas_Island_Panorama.jpg#/media/File:Sir_Bani_Yas_Island_Panorama.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Sir_Bani_Yas_Island_Panorama.jpg" alt="Sir Bani Yas Island Panorama.jpg" height="222" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Ismail.alghussein&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Ismail.alghussein (page does not exist)">Ismail.alghussein</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=6963767">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
