@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>{{% ex "https://maps.app.goo.gl/w9zkooJUkhGy2MX38" "https://maps.app.goo.gl/etwNBScxxzdjm3XH6" "https://maps.app.goo.gl/PqBYhZcGeJewmhrt8" "https://maps.app.goo.gl/dSeJ1cbCAr75bDDW8" %}}。宅配業者のバンなどがこの色になっていることが多い{{% ex "https://goo.gl/maps/h5yfGpJVvfrQSYes7" "https://goo.gl/maps/wYECssLY6SG71GXJ9" %}}。道端にスノーポールもある。
+ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>{{% ex "https://maps.app.goo.gl/EJgN58bU3GdiU17v9" "https://maps.app.goo.gl/w9zkooJUkhGy2MX38" "https://maps.app.goo.gl/etwNBScxxzdjm3XH6" "https://maps.app.goo.gl/PqBYhZcGeJewmhrt8" "https://maps.app.goo.gl/dSeJ1cbCAr75bDDW8" %}}。宅配業者のバンなどがこの色になっていることが多い{{% ex "https://goo.gl/maps/h5yfGpJVvfrQSYes7" "https://goo.gl/maps/wYECssLY6SG71GXJ9" %}}。道端にスノーポールもある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -67,7 +67,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 
 {{% notice tip %}}
-北欧であって、速度表記などの警告看板の背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。ノルウェーとスウェーデンの国境で看板の色が変わることが分かる{{% ex "https://goo.gl/maps/NiMZkTWQ871oqeXZ6" %}}。
+北欧であって、速度表記のような警告看板の背景が<span class="quiz">白</span>ならばノルウェーの可能性が高い{{% ex "https://maps.app.goo.gl/dHcVNLJ8U33tNs4c9" "https://maps.app.goo.gl/cZYgWd1PR6DCjCoUA" "https://maps.app.goo.gl/B9LshEbJzWDy9pvE8" %}}。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>。ノルウェーとスウェーデンの国境で看板の色が変わることが分かる{{% ex "https://goo.gl/maps/NiMZkTWQ871oqeXZ6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -109,7 +109,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 
 {{% notice tip %}}
-道路の路側帯の破線が<span class="quiz">長い</span>{{% ex "https://maps.app.goo.gl/bpgmubqNRf5o66qg9" "https://maps.app.goo.gl/oc4TYVr14grUAeL2A" "https://maps.app.goo.gl/xR7RoC8mFWA3Qi9w5" %}}。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ノルウェーの線の例はこれ{{% ex "https://goo.gl/maps/CU1tH5BmLmc5pYMR6" "https://goo.gl/maps/3VZKNN2DBhjjhTBc8" %}}。ノルウェーとスウェーデンの国境でも線がはっきりと変わっている{{% ex "https://goo.gl/maps/1pMiizyiZn97ytxT8" %}}。
+道路の路側帯の破線が<span class="quiz">長い</span>{{% ex "https://maps.app.goo.gl/bpgmubqNRf5o66qg9" "https://maps.app.goo.gl/xR7RoC8mFWA3Qi9w5" "https://maps.app.goo.gl/ep7x7PWKVctJkyqd7" "https://maps.app.goo.gl/oc4TYVr14grUAeL2A" %}}。左から<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">フィンランド</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。ノルウェーの線の例はこれ{{% ex "https://goo.gl/maps/CU1tH5BmLmc5pYMR6" "https://goo.gl/maps/3VZKNN2DBhjjhTBc8" %}}。ノルウェーとスウェーデンの国境でも線がはっきりと変わっている{{% ex "https://goo.gl/maps/1pMiizyiZn97ytxT8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
