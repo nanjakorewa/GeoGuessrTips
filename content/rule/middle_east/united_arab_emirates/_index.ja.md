@@ -26,7 +26,6 @@ sc: [
         <li>ドメインは<span class="quiz">.ae</span></li>
         <li>ナンバープレートは基本白でドバイのみ後ろの左側が<span class="quiz">赤</span>色</li>
         <li>ドバイは高層ビルが見えることが多い</li>
-        <li>Google Carは基本的に<span class="quiz">白</span>色</li>
     </ul>
     {{% rd middle_east united_arab_emirates verysmall %}}
 </div>
@@ -35,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Google Carが特徴的で白い屋根が見える。また標識や道路番号の記号が独特。
+標識や道路番号の記号が独特{{% ex "https://maps.app.goo.gl/APr3pCybvbEZcCg96" "https://maps.app.goo.gl/PdGv3sBA26cDPCx39" %}}。場所によってはGoogle Carの白い屋根が見えることもある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/in/photolist-wyGdPm-oPynvW-DoFbTC-7GTDLs-9y8ieS-2o5zk21-2M7154-fps7A-oPAcnD-cWfvK-oPA9Dc-oQDWHm-Dz8zwm-7NhZmt-2MboiE-2M6Zk8-ox751t-oNE13o-4Zh2w6-H5X2xc-iRn1cC-wjf4EC-ox6oQg-4ZmfoS-wjpkoL-oQq1Vg-oMyoNw-28TYE8B-oPA7fe-n1H1Zu-ox71nB-ox6iFP-4z1wd8-oPjiaZ-oMyk6w-wyxwSJ-5QxvkZ-wjw72R-RbWHgp-8ZLEWx-wBjDUT-4z5Lvo-7AmnLg-kKw3Fq-ktU6X7-gAP6T8-MgDPy-2dRoXc9-6rjqi7-7MR4Cm" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Dubai roads"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -55,6 +54,14 @@ Google Carが特徴的で白い屋根が見える。また標識や道路番号�
 </div>
 
 {{% notice tip %}}
+カタールと異なり起伏がある{{% ex "https://maps.app.goo.gl/642r1MnGxr8kRfTM6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./mountain_rock_landscape_stone.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
 ナンバープレートは基本白でだが左側や上側が<span class="quiz">赤</span>色のときもある{{% ex "https://maps.app.goo.gl/N5S8s8FunbFnndAS6" %}}。{{% goto "../qatar/" "カタール" %}}も似たような色に見えるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -63,6 +70,7 @@ Google Carが特徴的で白い屋根が見える。また標識や道路番号�
 {{% lb 50 %}}
 ![](2023-05-25-05-13-29.png)
 {{% /lb %}}
+
 {{% /tab %}}
 {{% tab "Google Car" %}}
 
