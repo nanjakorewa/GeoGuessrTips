@@ -54,7 +54,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-カタールと異なり起伏がある{{% ex "https://maps.app.goo.gl/642r1MnGxr8kRfTM6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。
+カタールと異なり起伏がある{{% ex "https://maps.app.goo.gl/642r1MnGxr8kRfTM6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./mountain_rock_landscape_stone.jpg" width="90%">
