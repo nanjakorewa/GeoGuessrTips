@@ -52,7 +52,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-商用車は<span class="quiz">緑</span>色のナンバープレート{{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" %}}で一般乗用車は白色。トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的で、これも<span class="quiz">緑</span>色のナンバープレートを付けている{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" %}}。
+商用車は<span class="quiz">緑</span>色のナンバープレート{{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" "https://maps.app.goo.gl/KzyCsQJnmutmvobL8" %}}で一般乗用車は白色。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -61,6 +61,14 @@ sc: [
 {{% lb 50 small %}}
 ![](2023-05-18-07-41-41.png)
 {{% /lb %}}
+
+
+{{% notice tip %}}トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的{{% ex "https://maps.app.goo.gl/352hBjY28HvRoYxv9" "https://maps.app.goo.gl/SZeqAz2D1qJds1y89" %}}。これも<span class="quiz">緑</span>色のナンバープレートを付けている{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" "https://maps.app.goo.gl/mFSzfWmNdY8od8dV7" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="CNG auto-rickshaw stand in Kandirpar, Comilla 2.jpg" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
+</div>
+
 
 {{% notice tip %}}
 バングラディシュのGoogleCarは<span class="quiz">赤色のミラーが映っている</span>ことがある{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}（例を参照してください）
