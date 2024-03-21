@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/soViqYVja7nWcZxU7" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://maps.app.goo.gl/ZrZbR5Y8Ztcidivk8" %}}。
+路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/Y3KXEF6Hwz3J3adz5" "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/soViqYVja7nWcZxU7" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://maps.app.goo.gl/ZrZbR5Y8Ztcidivk8" %}}。
 {{% /notice %}}
 
 {{% notice note %}}
@@ -60,7 +60,7 @@ sc: [
 
 
 {{% notice tip %}}
-トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用され、バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。以下はトライシクル（右）とジプニー（左）。
+トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用される{{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}。バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。以下はトライシクル（右）とジプニー（左）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./car.jpg" width="80%">
@@ -95,7 +95,7 @@ CC0画像を加工
 </div>
 
 {{% notice tip %}}
-アジアにおいて赤白のシェブロンはフィリピンと{{% goto "../srilanka/" "スリランカ" %}}以外ではほとんど見かけないかも（確証なし）{{% ex "https://maps.app.goo.gl/mjKDiehDBHWMb8uY8" "https://maps.app.goo.gl/Z4YkDmkv6fnRoZLn9" %}}。
+アジアにおいて赤白のシェブロンはフィリピンと{{% goto "../srilanka/" "スリランカ" %}}以外ではほとんど見かけないかも（確証なし）{{% ex "https://maps.app.goo.gl/KmPDCEb9bdUNYLGC6" "https://maps.app.goo.gl/mjKDiehDBHWMb8uY8" "https://maps.app.goo.gl/Z4YkDmkv6fnRoZLn9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
