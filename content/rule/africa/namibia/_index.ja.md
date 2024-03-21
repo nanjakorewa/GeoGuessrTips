@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート
+{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/cXB4wHF2BV3CrhbY7" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./elephants_at_etosha_national_2.jpg" width="95%">
@@ -46,7 +46,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% /lb %}}
 
 
-{{% notice tip %}}？
+{{% notice tip %}}平坦なナミブ砂漠が広がっている
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./road_ahead_desert_never.jpg" width="95%">
