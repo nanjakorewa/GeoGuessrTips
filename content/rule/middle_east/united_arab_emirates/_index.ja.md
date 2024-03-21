@@ -24,7 +24,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.ae</span></li>
-        <li>ナンバープレートは基本白でドバイのみ後ろの左側が<span class="quiz">赤</span>色</li>
+        <li>ナンバープレートは基本白だが左側が<span class="quiz">赤</span>色のときもある</li>
         <li>ドバイは高層ビルが見えることが多い</li>
     </ul>
     {{% rd middle_east united_arab_emirates verysmall %}}
