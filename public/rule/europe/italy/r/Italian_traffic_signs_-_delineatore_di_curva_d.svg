@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" width="800"
-height="200" fill="none">
-<rect width="800" height="200" fill="#000"/>
-<path stroke="#FFF" stroke-width="71" d="m14-36 136,136-136,136m200,0
-136-136-136-136m200,0 136,136-136,136m200,0 136-136-136-136"/>
-</svg>
