@@ -30,12 +30,21 @@ flag_height: "350px"
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-カザフ語とロシア語が使用されている。Google Carが見える{{% ex "https://maps.app.goo.gl/5NMx63BGLHR9gEvK6" "https://maps.app.goo.gl/QSTapUyVk8DwB6FR7" %}}。
+カザフ語とロシア語が使用されている。Google Carが見える{{% ex "https://maps.app.goo.gl/pM9fXEstnBsg7tnv5" "https://maps.app.goo.gl/RQMa36ew64AAowkZ6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./img_6003.jpg" width="90%">
 </div>
+
+
+{{% notice tip %}}
+ナンバープレートの左側に水色の国旗が見えることがある。
+{{% /notice %}}
+
+{{% lb 50 small %}}
+<img src="Казахстан2012-01.gif" class="resolution-small" width="50%" />
+{{% /lb %}}
 
 {{% /tab %}}
 {{% /tabs %}}
