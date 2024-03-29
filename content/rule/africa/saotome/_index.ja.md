@@ -27,6 +27,7 @@ sc: [
         <li>ふたつの島両方にカバレッジがある
             <ul>
                 <li>北の島：{{% ex "https://maps.app.goo.gl/61VYShrhT6AnjDP78" "https://maps.app.goo.gl/862g9wdBuaDvorKU8" %}}</li>
+                <li>南の島：{{% ex "https://maps.app.goo.gl/tj3AU7HmpLb7P4H5A" "https://maps.app.goo.gl/y9tFAKjCEMSAEAHr7" %}}</li>
             </ul>
         </li>
         <li>ドメインは.st</li>
