@@ -23,7 +23,12 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た電柱がある
-        <li>おおきなGoogle Carのぼかしが見える</li>
+        <li>画質が悪く<span class="quiz">Google Carの大きなぼかし</span>が見える</li>
+        <li>ふたつの島両方にカバレッジがある
+            <ul>
+                <li>北の島：{{% ex "https://maps.app.goo.gl/61VYShrhT6AnjDP78" "https://maps.app.goo.gl/862g9wdBuaDvorKU8" %}}</li>
+            </ul>
+        </li>
         <li>ドメインは.st</li>
     </ul>
 </div>
