@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。一番下まで空いていたらルーマニアか{{% goto "../hungary/" "ハンガリー" %}}、一番下が空いていなかったら{{% goto "../poland/" "ポーランド" %}}かも。黄色いマーカーが付いていることが多い。
+電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://maps.app.goo.gl/u4GroEbCQamrksXbA" "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。一番下まで空いていたらルーマニアか{{% goto "../hungary/" "ハンガリー" %}}、一番下が空いていなかったら{{% goto "../poland/" "ポーランド" %}}かも。黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><img src="./pole.jpg" width="259"><p>
@@ -95,7 +95,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ルーマニアは標識の裏側が黒っぽい時が多い{{% ex "https://maps.app.goo.gl/bfpkqgQyqTP1xSEy9" "https://maps.app.goo.gl/WXQP3dPexEe6NWdN6" "https://maps.app.goo.gl/pnYHsXFm2SmWgowE6" %}}。また横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。
+ルーマニアは標識の裏側が黒っぽい時が多い{{% ex "https://maps.app.goo.gl/bfpkqgQyqTP1xSEy9" "https://maps.app.goo.gl/ALrYLHhWLxDenKnP8" "https://maps.app.goo.gl/WXQP3dPexEe6NWdN6" "https://maps.app.goo.gl/pnYHsXFm2SmWgowE6" %}}。また横断歩道の標識が黄色い線で囲まれていることがある{{% ex "https://goo.gl/maps/dQsU4LB5nK6ohVxEA" %}}。
 {{% /notice %}}
 
 {{% notice note %}}ヨーロッパでは他に{{% goto "../albania/" "アルバニア" %}}・{{% goto "../macedonia/" "北マケドニア" %}}・{{% goto "../italy/" "イタリア" %}}・{{% goto "../san-marino/" "サンマリノ" %}}・{{% goto "../germany/" "ドイツ" %}}などで裏が黒いことが多め。

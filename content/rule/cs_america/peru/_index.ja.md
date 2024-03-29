@@ -49,7 +49,7 @@ sc: [
 
 
 {{% notice tip %}}
-根本をコンクリートで固めているパターンも良く見かける{{% ex "https://goo.gl/maps/N4VzoAkjxwaP1RECA" "https://goo.gl/maps/qnKz8Pb67sYBrkXRA" "https://goo.gl/maps/GHJwvhWMtToGL2ex6" %}}。
+根本をコンクリートで固めているパターンも良く見かける{{% ex "https://maps.app.goo.gl/tiCCFiqUZnEbxBa18" "https://goo.gl/maps/qnKz8Pb67sYBrkXRA" "https://goo.gl/maps/GHJwvhWMtToGL2ex6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/live2bnomad/395831375/in/photolist-AYJST-9vm9F9-2jj93ZY-U8SU55-fSsH8d-7LJfU8-iDt2Jc-7VTsYo-WRWuJL-2mYyEfa-B2QArt-DVsTYm-GrW1XG-dsTqpS-29jAUwb-P38pD1-2gvTEnt-BoSBAR-aVsXGk-zUL6SG-u4wDuR-bpXA5b-5pdNuy-23J9r2s-276nEhP-224nRF2-CjpqcG-2fu8vjz-dDFv7b-SBv9Hf-5Wch65-neNWky-4CjWQv-MXknvU-4adcR-rWhX8-93Aus8-anjCsU-9SMtbp-5bGtKK-FU9yCR-22QUJCm-gomrd8-7MT8Qn-7MT8SV-97xzC6-99fRZR-cYimSC-7MT8MV-bwps6o" title="A road sign"><img src="https://live.staticflickr.com/144/395831375_fce7f762f6_z.jpg" width="640" height="428" alt="A road sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -106,6 +106,15 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 </div>
 
 
+{{% notice tip %}}
+壁に埋め込まれた細長い箱{{% ex "https://maps.app.goo.gl/1PLN3XUQsWPPtnoa6" "https://maps.app.goo.gl/KJw4WK2uzF8AYCZ99" "https://maps.app.goo.gl/mgsNuVcYrRLWHhhw5" "https://maps.app.goo.gl/L9pzJu7aW5H322sJ9" %}}
+{{% /lb %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="./house.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "道路" %}}
 {{% notice tip %}}
@@ -133,17 +142,6 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680355234923!6m8!1m7!1sIOKZyXbBZvXeZImXH8GXmw!2m2!1d-15.57786080144935!2d-70.10120163690182!3f296.8561801891278!4f-21.206709910168087!5f3.098953353208563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683805070363!6m8!1m7!1sJ8tkvxtMg35I7ZX48d63Iw!2m2!1d-16.73451805644685!2d-69.71085030545977!3f288.6545619316565!4f-15.673906824009407!5f2.9131358656875324" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685255452553!6m8!1m7!1sV_m0TM24-U1jJUfGnok18w!2m2!1d-11.55895048087308!2d-69.28771986328607!3f148.5534550784995!4f-10.90553675857818!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "家" %}}
-
-{{% notice tip %}}
-壁に埋め込まれた細長い箱？
-{{% /lb %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687405941718!6m8!1m7!1sj2j2OmgVQ9liiXCPem0aPw!2m2!1d-11.99979523780639!2d-77.05149792975354!3f207.20135005809732!4f-13.403045634823357!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687406013160!6m8!1m7!1s8iaz3NzSwxLWgkgOYbLZ0Q!2m2!1d-17.64026220130956!2d-71.32706660113355!3f65.24242672393657!4f-7.735547419482401!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "Google Car" %}}

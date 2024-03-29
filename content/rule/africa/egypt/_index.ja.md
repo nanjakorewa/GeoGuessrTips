@@ -36,7 +36,7 @@ plonkit: true
 </div>
 
 {{% notice tip %}}
-停まっている車のナンバープレートの上が<span class="quiz">水</span>色のときがある。タクシーはオレンジ色・トラックは赤色など車種によって色が異なる{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Egypt" "Vehicle registration plates of Egypt" %}}。
+停まっている車のナンバープレートの上が<span class="quiz">水</span>色のときがある{{% ex "https://maps.app.goo.gl/enoviQjMZGv3wXc86" %}}。タクシーはオレンジ色・トラックは赤色など車種によって色が異なる{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Egypt" "Vehicle registration plates of Egypt" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
