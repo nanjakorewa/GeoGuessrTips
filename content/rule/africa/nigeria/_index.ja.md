@@ -15,6 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../kenya/", "ケニア"],
     ["../senegal/", "セネガル"],
+    ["../saotome/", "サントメ・プリンシペ"],
     ]
 ---
 
@@ -36,10 +37,8 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-
-
 {{% notice tip %}}
-仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/BrPWSuB7H3FmqB7o9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/BrPWSuB7H3FmqB7o9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑・青・赤色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。{{% goto "../saotome/" "サントメ・プリンシペ" %}}にも仕切り電柱がある点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%">

@@ -13,6 +13,10 @@ jetro_detail: false
 jogmec_detail: false
 plonkit: false
 flag_height: "350px"
+sc_title: "間違えやすい地域"
+sc: [
+    ["../nigeria/", "ナイジェリア"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -26,7 +30,7 @@ flag_height: "350px"
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た電柱がある{{% ex "https://maps.app.goo.gl/y9tFAKjCEMSAEAHr7" %}}
+{{% notice tip %}}{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た電柱がある{{% ex "https://maps.app.goo.gl/tj3AU7HmpLb7P4H5A" "https://maps.app.goo.gl/y9tFAKjCEMSAEAHr7" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 </div>
