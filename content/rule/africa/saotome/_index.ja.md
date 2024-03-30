@@ -59,8 +59,8 @@ Public Domain
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>サントメ島{{% ex "https://maps.app.goo.gl/M7z2HRv5NZT2m4uq7" "https://maps.app.goo.gl/eauJ6vyKHeA7CJWx9" %}}</li>
-        <li>プリンシペ島{{% ex "https://maps.app.goo.gl/61VYShrhT6AnjDP78" "https://maps.app.goo.gl/862g9wdBuaDvorKU8" %}}</li>
+        <li>サントメ島{{% ex "https://maps.app.goo.gl/9Hq1s5kd3TL6f4o59" "https://maps.app.goo.gl/M7z2HRv5NZT2m4uq7" "https://maps.app.goo.gl/eauJ6vyKHeA7CJWx9" %}}</li>
+        <li>プリンシペ島{{% ex "https://maps.app.goo.gl/MRL92pvxjCUYVUb2A" "https://maps.app.goo.gl/61VYShrhT6AnjDP78" "https://maps.app.goo.gl/862g9wdBuaDvorKU8" %}}</li>
     </ul>
 </div>
 
