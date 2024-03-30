@@ -24,12 +24,6 @@ sc: [
     <ul class="rule-list">
         <li>{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た電柱がある
         <li>画質が悪く<span class="quiz">Google Carの大きなぼかし</span>が見える</li>
-        <li>ふたつの島両方にカバレッジがある
-            <ul>
-                <li>北の島：{{% ex "https://maps.app.goo.gl/61VYShrhT6AnjDP78" "https://maps.app.goo.gl/862g9wdBuaDvorKU8" %}}</li>
-                <li>南の島：{{% ex "https://maps.app.goo.gl/M7z2HRv5NZT2m4uq7" "https://maps.app.goo.gl/eauJ6vyKHeA7CJWx9" %}}</li>
-            </ul>
-        </li>
         <li>ドメインは.st</li>
     </ul>
 </div>
@@ -59,3 +53,37 @@ Public Domain
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>サントメ島{{% ex "https://maps.app.goo.gl/M7z2HRv5NZT2m4uq7" "https://maps.app.goo.gl/eauJ6vyKHeA7CJWx9" %}}</li>
+        <li>プリンシペ島{{% ex "https://maps.app.goo.gl/61VYShrhT6AnjDP78" "https://maps.app.goo.gl/862g9wdBuaDvorKU8" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "サントメ島" %}}
+
+{{% notice tip %}}おそらく、黒いGoogle Carが見える・高い山が見える・郊外なのに舗装された中央分離帯がある道路があるとサントメ島率が高い。カカオ・コーヒー・サトウキビのプランテーションもサントメ島の方が多い。人口が多く最高峰も2000m以上ある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./market_sao_tome_africa.jpg" width="600px">
+</div>
+
+{{% /tab %}}
+{{% tab "プリンシペ島" %}}
+
+{{% notice tip %}}最高峰は約950mであり、山がちな南半分は自然保護区であり人があまり住んでいない。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg#/media/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg" alt="Príncipe Island Biosphere Reserve - Praia Caixão mangorve.jpg" height="720" width="1087"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Antoniodabreu&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Antoniodabreu (page does not exist)">Antoniodabreu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49478613">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% /tabs  %}}
