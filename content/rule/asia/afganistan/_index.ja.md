@@ -13,11 +13,6 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
-sc_title: "間違えやすい地域"
-sc: [
-    ["../india/", "インド"],
-    ["../pakistan/", "パキスタン"],
-    ]
 ---
 
 <div class="main-desciption country-description">
@@ -40,6 +35,23 @@ sc: [
 <div class="googlemap-if no-margin">
 <img src="./main.jpg" width="90%" />
 </div>
+
+
+{{% notice tip %}}
+車は<span class="quiz">白</span>色のナンバープレート。バスやタクシーは黄色のナンバープレート。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
+</div>
+
+{{% lb 50 small %}}
+![](Afghanistan_-_License_Plate_-_PRV_-_HRT.png)
+{{% /lb %}}
+
+
+{{% lb 50 small %}}
+![](Afghanistan_-_License_Plate_-_Taxi.png)
+{{% /lb %}}
 
 {{% /tab %}}
 {{% /tabs %}}
