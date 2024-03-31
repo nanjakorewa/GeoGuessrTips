@@ -38,7 +38,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:AfMoney-Dehdadi-MISC-Jan-0048.jpg#/media/File:AfMoney-Dehdadi-MISC-Jan-0048.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/AfMoney-Dehdadi-MISC-Jan-0048.jpg" alt="AfMoney-Dehdadi-MISC-Jan-0048.jpg" width="90%"></a><br>By Jan Chipcase - <a rel="nofollow" class="external free" href="http://janchipchase.com/content/presentations-and-downloads/">http://janchipchase.com/content/presentations-and-downloads/</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65631116">Link</a></p>
+<img src="./main.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
