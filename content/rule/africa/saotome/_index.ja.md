@@ -22,10 +22,12 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た電柱がある
+        <li>{{% goto "../../europe/portugal/" "ポルトガル" %}}や{{% goto "../../cs_america/brazil/" "ブラジル" %}}に似た電柱がある
         <li>画質が悪く<span class="quiz">Google Carの大きなぼかし</span>が見える</li>
+        <li><span class="quiz">ポルトガル</span>語が使われており見つかる標識も{{% goto "../../europe/portugal/" "ポルトガル" %}}とほぼ同じ</li>
         <li>ドメインは.st</li>
     </ul>
+    {{% rd africa saotome verysmall %}}
 </div>
 
 {{% tabs %}}
