@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-マップ上に表示されていない公式カバレッジが複数ある{{% ex "https://maps.app.goo.gl/t4zauZhVrN4P2uvCA" "https://maps.app.goo.gl/tVjrb39zBBajjESv8" "https://maps.app.goo.gl/AH3Lmf2BFkNT9p989" %}}。
+マップ上に表示されていない公式カバレッジが複数ある{{% ex "https://maps.app.goo.gl/t4zauZhVrN4P2uvCA" "https://maps.app.goo.gl/MXza5rQCayTUtQ969" "https://maps.app.goo.gl/tVjrb39zBBajjESv8" "https://maps.app.goo.gl/AH3Lmf2BFkNT9p989" "https://maps.app.goo.gl/1AzyK1h761h2CVmd8" "https://maps.app.goo.gl/FrGrzPDQv4PDVoRD9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
