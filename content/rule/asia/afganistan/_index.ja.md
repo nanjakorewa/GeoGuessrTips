@@ -26,6 +26,7 @@ sc: [
         <li class="no-evidence">出題されないと思われる</li>
         <li>公用語はダリー語（دری）やパシュトー語（پښتو）</li>
         <li>カブール周辺の施設にのみわずかに公式のストリートビューがある</li>
+        <li>三脚カメラで撮影されている{{% ex "https://maps.app.goo.gl/zSrRZFakF5qS6DgTA" %}}</li>
     </ul>
 </div>
 
