@@ -2,7 +2,7 @@
 title: "アフガニスタン"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 1000
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]
@@ -31,10 +31,14 @@ sc: [
 
 
 {{% tabs %}}
-{{% tab "ストリートビューの例" %}}
+{{% tab "w-etf" %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693651195471!6m8!1m7!1s04_I7GqLEsUAAAQrCUkmfg!2m2!1d34.51776132653179!2d69.18160731556539!3f359.4678782383149!4f1.2792622531144104!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+{{% notice tip %}}
+マップ上に表示されていない公式カバレッジが複数ある{{% ex "https://maps.app.goo.gl/t4zauZhVrN4P2uvCA" "https://maps.app.goo.gl/tVjrb39zBBajjESv8" "https://maps.app.goo.gl/AH3Lmf2BFkNT9p989" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:AfMoney-Dehdadi-MISC-Jan-0048.jpg#/media/File:AfMoney-Dehdadi-MISC-Jan-0048.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/AfMoney-Dehdadi-MISC-Jan-0048.jpg" alt="AfMoney-Dehdadi-MISC-Jan-0048.jpg" width="90%"></a><br>By Jan Chipcase - <a rel="nofollow" class="external free" href="http://janchipchase.com/content/presentations-and-downloads/">http://janchipchase.com/content/presentations-and-downloads/</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65631116">Link</a></p>
 </div>
 
 {{% /tab %}}
