@@ -29,7 +29,7 @@ maps: [
 </div>
 
 {{% notice info %}}
-日本マップで「コンビニ」のようなたくさんある施設名を検索すると、IPアドレスをもとに家に近い地域が表示されることがあるので配信する時は注意する。Google検索の結果画面の一番下にもIPに基づいた都市名が表示されることがあるので注意する。（参考：<a href="../../../web/">Home > 役立つページ）</a>
+日本マップで「コンビニ」のようなたくさんある施設名を検索すると、IPアドレスをもとに家に近い地域が表示されることがあるので配信する時は注意する。Google検索の結果画面の一番下にもIPに基づいた都市名が表示されることがあるので注意する（参考：<a href="../../../web/">Home > 役立つページ）</a>。IPやキャッシュについてあまりよくわからない人はシークレットモードで配信すること・事前に配信テストをすることを強くおすすめします。
 {{% /notice %}}
 
 
@@ -41,6 +41,14 @@ maps: [
 
 <div class="googlemap-if unclickable">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/124982286@N08/52965926190/" title="A Street In Izushi Town"><img src="https://live.staticflickr.com/65535/52965926190_ca12a58331_z.jpg" width="640" height="427" alt="A Street In Izushi Town"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。また、プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/Ym6Q3jKx1FDzDff76" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./gifu_prefectural_road_85.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
