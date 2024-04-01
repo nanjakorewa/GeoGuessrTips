@@ -36,7 +36,7 @@ maps: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱に縦の縞模様がある。
+電柱に縦の縞模様がある{{% ex "https://maps.app.goo.gl/w96QDpne6ud5P5BQ6" "https://maps.app.goo.gl/ad7qhiMiTQF2MK6o6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
