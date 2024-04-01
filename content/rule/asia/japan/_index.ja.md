@@ -44,7 +44,7 @@ maps: [
 </div>
 
 {{% notice tip %}}
-日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。また、プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/Ym6Q3jKx1FDzDff76" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。
+日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/oxRtBE2GhZscrDm48" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。また、プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/Ym6Q3jKx1FDzDff76" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

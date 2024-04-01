@@ -25,6 +25,7 @@ sc: [
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>車の後ろナンバーが<span class="quiz">大き目の黄色</span></li>
         <li>ドメインは<span class="quiz">.ke</span></li>
+        <li>言語は<span class="quiz">英語</span>とスワヒリ語が使用される</li>
         <li>Google Carが特徴的</li>
     </ul>
 </div>
