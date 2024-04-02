@@ -63,7 +63,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://maps.app.goo.gl/dMxJM84ksFXFKUMf7" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
+ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://maps.app.goo.gl/YQ8xFuoMDPRrDEBM7" "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://maps.app.goo.gl/dMxJM84ksFXFKUMf7" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

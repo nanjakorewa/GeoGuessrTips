@@ -42,6 +42,18 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+
+
+{{% notice tip %}}
+車は<span class="quiz">左側</span>通行{{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}。左側を走っており、看板も左側にある。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./landscape_rural_farming_sugar.jpg" width="95%">
+</div>
+
+
+
 {{% notice tip %}}
 <span class="quiz">ユーカリ</span>の木が沢山ある。電柱は緑色の木製のもの{{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}}やシロアリ対策で鉄でできたものがある{{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}。
 {{% /notice %}}
@@ -51,7 +63,7 @@ sc: [
 
 
 {{% notice tip %}}
-オーストラリアのボラードの赤い反射板は基本的に片側だけで赤い領域も小さい{{% ex "https://goo.gl/maps/2K2TyPVPmxuwJXvi7" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
+オーストラリアのボラードの赤い反射板は基本的に片側だけで赤い領域も小さい{{% ex "https://maps.app.goo.gl/m3hGyoS5R2qaVR2P9" "https://maps.app.goo.gl/NKbGDe7paHKkTRNz8" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}。左が<span class="quiz">オーストラリア</span>・右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -72,7 +84,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>{{% ex "https://goo.gl/maps/dUzu2ABtosfx4QxcA" %}}、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている{{% ex "https://goo.gl/maps/a7wJbZuqPMnB6mbc9" %}}。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>{{% ex "https://maps.app.goo.gl/gwfm8xdCN3Zgp6D2A" %}}、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている{{% ex "https://maps.app.goo.gl/7RV1VEPBjY8QytVu6" %}}。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
