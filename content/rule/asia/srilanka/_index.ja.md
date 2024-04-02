@@ -53,7 +53,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% ex "https://goo.gl/maps/9s4rAXAHp3F3ZqLb9" %}}{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}{{% ex "https://goo.gl/maps/Qf3vovR1Ei8R29zC9" "https://goo.gl/maps/xGBhCk1cQTyRukrW9" %}}。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色{{% ex "https://goo.gl/maps/RoZ5JZxoSvS1wszg7" %}}。
+電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% ex "https://goo.gl/maps/9s4rAXAHp3F3ZqLb9" %}}{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}{{% ex "https://maps.app.goo.gl/iEFA8fzUnc48FfmN6" "https://goo.gl/maps/Qf3vovR1Ei8R29zC9" "https://goo.gl/maps/xGBhCk1cQTyRukrW9" %}}。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色{{% ex "https://goo.gl/maps/RoZ5JZxoSvS1wszg7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">

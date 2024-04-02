@@ -64,7 +64,7 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 </div>
 
 {{% notice tip %}}
-郊外に藁ぶき屋根の家が見つかることも{{% ex "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}。
+郊外に藁ぶき屋根の家が見つかることも{{% ex "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/uak7feCphivakSFN9" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%">
