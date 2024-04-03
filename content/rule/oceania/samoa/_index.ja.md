@@ -40,7 +40,7 @@ sc: [
 Public Domain
 {{% /lb %}}
 
-{{% notice tip %}}Aunu'u島{{% ex "https://maps.app.goo.gl/qNAJz7zqRMJwAFrU6" "https://maps.app.goo.gl/TLbNPLsoA1zugvq48" "https://maps.app.goo.gl/dUAKotsCjdanSgqi8" %}}とローズ環礁{{% ex "https://maps.app.goo.gl/dcTSfuwmb1LX4qG1A" %}}以外は基本的にGoogle Carが見える。
+{{% notice tip %}}Aunu'u島{{% ex "https://maps.app.goo.gl/qNAJz7zqRMJwAFrU6" "https://maps.app.goo.gl/TLbNPLsoA1zugvq48" %}}とローズ環礁{{% ex "https://maps.app.goo.gl/dcTSfuwmb1LX4qG1A" "https://maps.app.goo.gl/dUAKotsCjdanSgqi8" %}}以外は基本的にGoogle Carが見える。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683468379937!6m8!1m7!1sUN54FqEehjDyWtfeanvp_w!2m2!1d-14.33035647793342!2d-170.7263398522896!3f258.53246131342013!4f-24.39911786029907!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
