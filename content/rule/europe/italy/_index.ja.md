@@ -104,7 +104,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% notice tip %}}
-道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://maps.app.goo.gl/CL5AtAvL2V6pbrEbA" "https://maps.app.goo.gl/MY9pUPqrv4hbkdE39" "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。{{% goto "../san-marino/" "サンマリノ" %}}も裏側が黒く、イタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。{{% goto "../germany/" "ドイツ" %}}も黒っぽく見えることが多い。
+道路番号や標識の看板の裏側は<span class="quiz">黒色や灰</span>色であることが多い{{% ex "https://maps.app.goo.gl/CL5AtAvL2V6pbrEbA" "https://maps.app.goo.gl/HJ8dmVEBbehgmufG8" "https://maps.app.goo.gl/MY9pUPqrv4hbkdE39" "https://goo.gl/maps/ZXv6sHWbvy5vtb8h7" "https://goo.gl/maps/2CaJiSh2oRaURokX7" "https://goo.gl/maps/Fmw3i5GL1aVCapK67" %}}。{{% goto "../san-marino/" "サンマリノ" %}}も裏側が黒く、イタリアと経済・歴史的に関係がある{{% goto "../albania/" "アルバニア" %}}や{{% goto "../romania/" "ルーマニア" %}}もなぜか看板裏が黒い。{{% goto "../germany/" "ドイツ" %}}も黒っぽく見えることが多い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

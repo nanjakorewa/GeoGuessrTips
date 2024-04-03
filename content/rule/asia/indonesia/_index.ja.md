@@ -136,6 +136,25 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 </div>
 
 {{% tabs %}}
+{{% tab "スラウェシ" %}}
+{{% notice tip %}}いわゆるTongkonan-houseが見つかる{{% ex "https://maps.app.goo.gl/e8BmxZZ2PzybjZXJ7" "https://maps.app.goo.gl/bS1RbiXypEg7QsXCA" %}}{{% ref "http://www.kamit.jp/17_world/25_traja/traja.htm" "トラジャ族の トンコナン･ハウス" %}}。スマトラ島の北部で見つかるトバ湖周辺のトバ･バタック族の民家にとても良く似ている。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/10616583664/" title="Tongkonan in a Torajan village"><img src="https://live.staticflickr.com/7291/10616583664_f7c0fc8119_c.jpg" width="800" height="531" alt="Tongkonan in a Torajan village"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "南スラウェシ" %}}
+{{% notice tip %}}
+
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683548263543!6m8!1m7!1sxFmhhcGFOCSgqWTF7jUwjg!2m2!1d-5.067845559846503!2d119.5146085088659!3f232.43175755263172!4f9.15217011915395!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683548328370!6m8!1m7!1st81tpun3GGHYbd9D_HOimw!2m2!1d-5.116586927731915!2d120.2633975944878!3f0.471829259376808!4f32.39688387127845!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% tab "西スマトラ" %}}
 {{% notice tip %}}西スマトラ州にあるミナンカバウ族の伝統的なデザインの家{{% ref "https://en.wikipedia.org/wiki/Rumah_Gadang" "Rumah Gadang" %}}。母系社会であるミナンカバウでは母から娘へこの家が受け継がれるらしい。
 {{% /notice %}}
@@ -183,15 +202,6 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682939247795!6m8!1m7!1s7DpyPTNh5Dro9QxQG6qcoA!2m2!1d-8.605628700896254!2d115.2385447357305!3f325.0256058635984!4f22.07131117405868!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682939288898!6m8!1m7!1sc4sZuH8lESb2j9S-5bc0bQ!2m2!1d-8.436997295884588!2d115.60079460991!3f168.5694954711181!4f22.319543357215508!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "南スラウェシ" %}}
-{{% notice tip %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683548263543!6m8!1m7!1sxFmhhcGFOCSgqWTF7jUwjg!2m2!1d-5.067845559846503!2d119.5146085088659!3f232.43175755263172!4f9.15217011915395!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683548328370!6m8!1m7!1st81tpun3GGHYbd9D_HOimw!2m2!1d-5.116586927731915!2d120.2633975944878!3f0.471829259376808!4f32.39688387127845!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% tab "スンバ島" %}}
