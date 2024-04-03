@@ -63,7 +63,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://maps.app.goo.gl/YQ8xFuoMDPRrDEBM7" "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://maps.app.goo.gl/dMxJM84ksFXFKUMf7" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
+ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://maps.app.goo.gl/YQ8xFuoMDPRrDEBM7" "https://maps.app.goo.gl/bnnYUVCMvTMizbBH7" "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://maps.app.goo.gl/dMxJM84ksFXFKUMf7" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -77,7 +77,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号の看板も同様{{% ex "https://maps.app.goo.gl/DcwEUyM5Mg7TzhaW9" %}}。
+角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ppcYcG47cgUeSsxB7" "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号の看板も同様{{% ex "https://maps.app.goo.gl/DcwEUyM5Mg7TzhaW9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
