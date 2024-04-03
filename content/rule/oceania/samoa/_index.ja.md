@@ -32,18 +32,15 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}Fatu Rockが描かれており全体的に<span class="quiz">青と緑</span>色に見える{{% ref "https://en.wikipedia.org/wiki/Fatu_Rock" "Fatu Rock" %}}
+{{% notice tip %}}全体的に<span class="quiz">青と緑</span>色に見える{{% ex "https://maps.app.goo.gl/VBY1jNhutcfT5gGPA" %}}{{% ref "https://en.wikipedia.org/wiki/Fatu_Rock" "Fatu Rock" %}}
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686032855051!6m8!1m7!1sHPIiNcithd4KU_EVDtu6lA!2m2!1d-14.33887336276767!2d-170.729863518567!3f213.31038393606119!4f-10.481208429969783!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% lb 50 %}}
 ![](lc.png)
 
-<a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76588121">Link</a>
+Public Domain
 {{% /lb %}}
 
-{{% notice tip %}}Google Carが特徴的で島によって車が異なる
+{{% notice tip %}}Aunu'u島{{% ex "https://maps.app.goo.gl/qNAJz7zqRMJwAFrU6" "https://maps.app.goo.gl/TLbNPLsoA1zugvq48" "https://maps.app.goo.gl/dUAKotsCjdanSgqi8" %}}とローズ環礁{{% ex "https://maps.app.goo.gl/dcTSfuwmb1LX4qG1A" %}}以外は基本的にGoogle Carが見える。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683468379937!6m8!1m7!1sUN54FqEehjDyWtfeanvp_w!2m2!1d-14.33035647793342!2d-170.7263398522896!3f258.53246131342013!4f-24.39911786029907!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
