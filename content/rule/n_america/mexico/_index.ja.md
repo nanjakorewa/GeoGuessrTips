@@ -70,7 +70,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある。
+<span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある{{% ex "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><div class="unclickable"><img src="./bollard.png" width="90%"></div></p>
