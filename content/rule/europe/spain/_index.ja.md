@@ -79,7 +79,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端にオレンジや黄色の小さい看板があって道路番号が書かれていることが多い{{% ex "https://goo.gl/maps/YqHtFfZnWDhx5t18A" "https://goo.gl/maps/n4VXrPbKSobWS8NF9" %}}。またガードレールやボラードの反射板が黄色。
+道端にオレンジや黄色の小さい看板があって道路番号が書かれていることが多い{{% ex "https://goo.gl/maps/YqHtFfZnWDhx5t18A" "https://goo.gl/maps/n4VXrPbKSobWS8NF9" %}}。またガードレールやボラードの反射板が黄色{{% ex "https://maps.app.goo.gl/W9sLs663umDfPoEy8" "https://maps.app.goo.gl/B3dGZBLMEPZccc3E9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

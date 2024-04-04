@@ -33,10 +33,9 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。バイクも<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/RzyrkmBq96HF1Mkb9" %}}。
+車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/59D3a5zrycuc64sv9" "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。バイクも<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/RzyrkmBq96HF1Mkb9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691999031048!6m8!1m7!1snoD__qTK73KSPwSsPRVGdQ!2m2!1d-2.075259901465407!2d37.45373699945315!3f127.79717617921!4f-8.046265341484869!5f2.04356627114321" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 

@@ -23,7 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>ドメインは<span class="quiz">.bw</span></li>
-        <li>白・青・黄のナンバープレートがある</li>
+        <li>黄・青・白のナンバープレートが多い</li>
         <li>道路番号の頭文字が「<span class="quiz">A</span>」や「B」</li>
         <li>標識やガードレールが<span class="quiz">黄色と黒</span>色のストライプのものが多い</li>
         <li>道路はざらざらした表面で路側帯は<span class="quiz">オレンジ</span>色だが路側帯は無い場所もある</li>
@@ -36,7 +36,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-赤・白・青・黄のナンバープレートがある{{% ex "https://maps.app.goo.gl/vW2UDexepSRXxtdT6" %}}。普通の車輛はナンバーが<span class="quiz">黄</span>色で公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が<span class="quiz">黄</span>色と<span class="quiz">黒</span>色のストライプになっている{{% ex "https://maps.app.goo.gl/1pUjkwCxyRGCYcGH7" %}}。以下は首都ハボローネ（Gaborone）の街並み。
+黄・青・白のナンバープレート{{% ex "https://maps.app.goo.gl/vW2UDexepSRXxtdT6" %}}が見つかり、普通車輛の<span class="quiz">黄</span>色ナンバーが最も多く見つかる。公共サービス車両やタクシーの一部は後部プレートが<span class="quiz">青</span>色。またガードレールや標識のポールの一部が<span class="quiz">黄</span>色と<span class="quiz">黒</span>色のストライプになっている{{% ex "https://maps.app.goo.gl/1pUjkwCxyRGCYcGH7" %}}。以下は首都ハボローネ（Gaborone）の街並み。
 {{% /notice %}}
 
 

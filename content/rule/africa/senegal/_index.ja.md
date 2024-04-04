@@ -38,7 +38,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://maps.app.goo.gl/87kW1myfKvJKkVGQ9" "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。白色に見えるプレートもある。<span class="quiz">青</span>色ナンバーは{{% goto "../botswana/" "ボツワナ" %}}にもある点に注意。
+ナンバープレートは全体が<span class="quiz">青</span>色か左端だけ<span class="quiz">青</span>色{{% ex "https://maps.app.goo.gl/87kW1myfKvJKkVGQ9" "https://goo.gl/maps/cforrrLZCrc1ZmW87" "https://goo.gl/maps/DoxV5hRCZ9rxQgyK8" "https://goo.gl/maps/Aj7XLfBH7DxMXEzx6" %}}。数は多くないものの、<span class="quiz">青</span>色ナンバーは{{% goto "../botswana/" "ボツワナ" %}}もありえる{{% ex "https://maps.app.goo.gl/Xq27NwCSTCZDfgbC7" "https://maps.app.goo.gl/nFwv2yWfLEQzJd1Q7" "https://maps.app.goo.gl/ZJ416EcYGkK6CDiN9" "https://maps.app.goo.gl/Mw29MCKh3cMaVtEp6" %}}点に注意する。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
