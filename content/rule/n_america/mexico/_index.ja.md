@@ -62,7 +62,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-とまれが「<span class="quiz">ALTO</span>」{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
+とまれが「<span class="quiz">ALTO</span>」{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://maps.app.goo.gl/jSirkndzbABnynKC8" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
@@ -70,7 +70,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある{{% ex "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}。
+<span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある{{% ex "https://maps.app.goo.gl/XPDGtA3y2TRQWiRh8" "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><div class="unclickable"><img src="./bollard.png" width="90%"></div></p>

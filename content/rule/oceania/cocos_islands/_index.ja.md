@@ -43,13 +43,12 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で右前になにか付いていて特徴的{{% ex "https://goo.gl/maps/f6jFjQHZSXZifEun6" "https://goo.gl/maps/RA6cu78PhQd6wFks5" "https://goo.gl/maps/5UDvrCChANf8uzGG7" %}}。ただしすべての場所でこれが見えるわけではないので注意。
+Google Carが特徴的で右前になにか付いている{{% ex "https://goo.gl/maps/f6jFjQHZSXZifEun6" "https://goo.gl/maps/RA6cu78PhQd6wFks5" "https://goo.gl/maps/5UDvrCChANf8uzGG7" %}}。ただしすべての場所でこれが見えるわけではないので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683433736164!6m8!1m7!1s2ZkWNpu0REMuQkXHWWH9gQ!2m2!1d-12.15443198755341!2d96.82479744032698!3f115.07805190299995!4f-37.61774122681439!5f3.0119252385875366" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="googlemap-if unclickable">
-<img src="cocos-gc.png" width="60%">
+<img src="cocos-gc.png" width="80%">
 </div>
 
 {{% notice tip %}}
