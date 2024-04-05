@@ -32,7 +32,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートの左側に赤い領域がある{{% ex "https://goo.gl/maps/xovGCT2QUUKsECGr6" "https://goo.gl/maps/qNhRkm5svpa6eqX76" %}}。細いナンバープレートにも左に赤い領域がある。
+ナンバープレートの左側に赤い領域がある{{% ex "https://maps.app.goo.gl/Z6NGkw333FhqNn1RA" "https://maps.app.goo.gl/PmFPFHbSYGQw1DTR8" "https://maps.app.goo.gl/UV39FLwfyuDBQm3c7"  %}}。細いナンバープレートにも左に赤い領域がある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -55,10 +55,10 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的{{% ex "https://maps.app.goo.gl/DUgwjjMczKarfSrb9" %}}
+Google Carが特徴的でほとんどの場合すぐにモンゴルと分かる{{% ex "https://maps.app.goo.gl/FfVvp7pBQ6nJqt2q6" "https://maps.app.goo.gl/ULQMUUhZZoCrsvmA9" "https://maps.app.goo.gl/m2pCjUf9tNF7bgMY9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683544358882!6m8!1m7!1sNBYunW0vGs0HCeaKFPbQag!2m2!1d47.11802985898382!2d117.215813157299!3f237.8066084902285!4f-11.071281978219758!5f0.4000000000000002" width="80%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Street View in <a href="https://twitter.com/hashtag/Mongolia?src=hash&amp;ref_src=twsrc%5Etfw">#Mongolia</a>: A journey of 5,000 km begins with a single steppe | <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a>​, Jul 23<a href="http://t.co/AmCtjnA35S">http://t.co/AmCtjnA35S</a> <a href="http://t.co/bwXhmREj7Q">pic.twitter.com/bwXhmREj7Q</a></p>&mdash; Cover Mongolia (@CoverMongolia) <a href="https://twitter.com/CoverMongolia/status/624927234378350592?ref_src=twsrc%5Etfw">July 25, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
