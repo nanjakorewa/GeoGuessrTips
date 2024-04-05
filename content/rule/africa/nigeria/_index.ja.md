@@ -51,7 +51,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 {{% /lb %}}
 
 {{% notice tip %}}
-小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/vhSrUtLNmUuY82Re6" "https://maps.app.goo.gl/GZiw4Nykr5vmDbpT6" "https://maps.app.goo.gl/hvnhUWafdKVwGUTRA" "https://maps.app.goo.gl/EAouojKtiqBWbjTCA" %}}。看板や標識は英語で書かれている{{& ex "https://maps.app.goo.gl/zi92p3C21G8CrTKdA" "https://maps.app.goo.gl/94b71BKAgMqoMd299" &}}。黄色が多いがそうでない町も存在する{{% ex "https://maps.app.goo.gl/JDFPEj2mFtTaFJLU7" "https://maps.app.goo.gl/kgPETPKgtTcufZAA8" %}}。
+小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/vhSrUtLNmUuY82Re6" "https://maps.app.goo.gl/GZiw4Nykr5vmDbpT6" "https://maps.app.goo.gl/hvnhUWafdKVwGUTRA" "https://maps.app.goo.gl/EAouojKtiqBWbjTCA" %}}。看板や標識は英語で書かれている{{% ex "https://maps.app.goo.gl/zi92p3C21G8CrTKdA" "https://maps.app.goo.gl/94b71BKAgMqoMd299" &}}。黄色が多いがそうでない町も存在する{{% ex "https://maps.app.goo.gl/JDFPEj2mFtTaFJLU7" "https://maps.app.goo.gl/kgPETPKgtTcufZAA8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
