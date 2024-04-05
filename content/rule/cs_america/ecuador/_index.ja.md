@@ -139,6 +139,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>アブラヤシのプランテーションがあるのは北の方に限られる{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}</li>
+        <li>バナナの生産はLos Ríos・Guayas・El Oroで多い</li>
         <li class="no-evidence">田んぼはグアヤキルに流れ込む川沿いに多い{{% ex "https://goo.gl/maps/PGuRCKXj3J6Kkm6M9" "https://goo.gl/maps/8s4iDPMAxAHzCTUF7" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}</li>
         <li>ナンバープレートの頭文字から県が分かる{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ecuador#Letter_codes" "エクアドルのナンバープレートの頭文字" %}}
             <ul>
@@ -162,6 +163,15 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-23-04-26-04.png" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "バナナ" %}}
+{{% notice tip %}}
+平地の多い地域でバナナのプランテーションが見つかる{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "EcuadoriaN BananA RegionS" %}}。Los Ríos (37.14%)・Guayas (32.25%)・El Oro (24,12%)の割合。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="640px-Culture_de_bananes.jpg" width="90%">
 </div>
 
 {{% /tab %}}
