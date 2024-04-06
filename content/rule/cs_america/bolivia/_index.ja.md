@@ -44,7 +44,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が<span class="quiz">太くて四角い棒</span>でできていることが多い{{% ex "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
+標識の棒が<span class="quiz">太くて四角い棒</span>でできていることが多い{{% ex "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://maps.app.goo.gl/QdHoQusynypdF2Vw9" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./roadsign.jpg" width="90%">
@@ -74,7 +74,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-ウィファラの旗やロゴがある{{% ex "https://maps.app.goo.gl/khNWydj7xBLoyZ5b8" "https://goo.gl/maps/1fehegC65KMp4KVX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%95%E3%82%A1%E3%83%A9" "ウィファラ - Wikimedia" %}}。
+ウィファラの旗やロゴがある{{% ex "https://maps.app.goo.gl/1pEnEcdd5bwp6vZk8" "https://maps.app.goo.gl/khNWydj7xBLoyZ5b8" "https://goo.gl/maps/1fehegC65KMp4KVX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%95%E3%82%A1%E3%83%A9" "ウィファラ - Wikimedia" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
