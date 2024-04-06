@@ -44,7 +44,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒が<span class="quiz">太くて四角い棒</span>でできていることが多い{{% ex "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
+標識の棒が<span class="quiz">太くて四角い棒</span>でできていることが多い{{% ex "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}。金属製の棒もある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}が街中以外では金属製の棒はあまり見ない。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./roadsign.jpg" width="90%">
@@ -74,7 +74,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-ウィファラの旗やロゴがある{{% ex "https://goo.gl/maps/1fehegC65KMp4KVX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%95%E3%82%A1%E3%83%A9" "ウィファラ - Wikimedia" %}}。
+ウィファラの旗やロゴがある{{% ex "https://maps.app.goo.gl/khNWydj7xBLoyZ5b8" "https://goo.gl/maps/1fehegC65KMp4KVX6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%95%E3%82%A1%E3%83%A9" "ウィファラ - Wikimedia" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -94,11 +94,6 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 
 <div class="googlemap-if unclickable">
 <img src="./YPFB_Logo.svg" width="300px">
-</div>
-{{% /tab %}}
-{{% tab "🐕" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681109923932!6m8!1m7!1s1Ce8WameoVUd_Et1o5fVzw!2m2!1d-16.54057404768015!2d-68.15979677760222!3f292.75122118350356!4f-22.155410825187232!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
