@@ -16,6 +16,7 @@ sc: [
     ["../belgium/", "ベルギー"],
     ["../italy/", "イタリア"],
     ["../../africa/reunion/", "レユニオン"],
+    ["../luxembourg/", "ルクセンブルグ"],
     ["../../n_america/saint-pierre-miquelon/", "サンピエール島"],
     ]
 ---
