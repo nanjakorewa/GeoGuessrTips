@@ -368,7 +368,7 @@ sc: [
 {{% /tab %}}
 {{% tab "南部" %}}
 {{% notice tip %}}
-南部はラテライトを白く塗った壁やコンクリートの壁が多いかも。確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
+南部はラテライトを塗った壁やコンクリートの壁に平な瓦が付いた家が多いかも。確証なし{{% ex "https://maps.app.goo.gl/7x8sARYPDhWMwaXi8" "https://maps.app.goo.gl/as9MaYhuiF1WSdYr6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
