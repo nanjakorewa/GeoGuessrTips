@@ -59,7 +59,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" "https://maps.app.goo.gl/ybHEFyUq5qpm25Nq9" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -271,6 +271,9 @@ sc: [
     <ul class="rule-list">
         <li>農業が場所によって異なる
             <ul>
+                <li>アブラヤシはテランガーナ州がほとんど</li>
+                <li>菜種の畑は北西部の乾燥地域が多い</li>
+                <li>綿花はデカン高原、とくにマハーラーシュトラ周辺の土が黒い地域が多い</li>
                 <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=IN">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
             </ul>
         </li>
@@ -306,6 +309,16 @@ sc: [
 <img src="2023-05-18-14-07-10.png" width="60%" />
 </div>
 {{% /tab %}}
+{{% tab "コットン" %}}
+<div class="googlemap-if unclickable">
+<img src="IND_Cotton.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+土が黒いインド中央地域と重複している。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
@@ -313,7 +326,7 @@ sc: [
     <ul class="rule-list">
         <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
         <li>北部は赤レンガ造りの建物が多い</li>
-        <li>南部はラテライトを白く塗った壁やコンクリートの壁が多いかも（？）</li>
+        <li>南部はラテライトを塗った壁やコンクリートの壁に平な瓦が付いた家</li>
         <li>Jodhpurを中心とした北西の家屋の壁が青く塗られていることがある{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}</li>
     </ul>
 </div>
@@ -535,7 +548,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>街頭のポールなどに数字が書かれた黄色のラベルが貼ってあるならばChandigarh{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
+        <li>街頭のポールなどに数字が書かれた黄色のラベルが貼ってあるならばChandigarh{{% ex "https://maps.app.goo.gl/8wXurqqpik4Upgjs5" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
     </ul>
 </div>
 
