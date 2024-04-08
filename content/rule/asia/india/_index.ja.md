@@ -286,6 +286,10 @@ sc: [
 <img src="2023-05-18-13-47-23.png" width="60%" />
 </div>
 
+<div class="googlemap-if unclickable">
+<img src="./oil_palm_tree_plantation_1.jpg" width="60%" />
+</div>
+
 {{% notice tip %}}
 南全域に存在しており、とりわけ南東側のアーンドラ・プラデーシュ（Andhra Pradesh）州に多い。
 {{% /notice %}}
@@ -328,6 +332,10 @@ sc: [
 {{% tab "お茶" %}}
 <div class="googlemap-if unclickable">
 <img src="Tea-producing-regions-of-India.png" width="60%" />
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./tea_garden_tea_plant.jpg" width="60%" />
 </div>
 
 {{% notice tip %}}
