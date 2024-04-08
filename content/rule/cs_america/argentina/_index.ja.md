@@ -47,7 +47,7 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 {{% /lb %}}
 
 {{% notice note %}}
-2016年以降に撮影されたものは黒ナンバーでない可能性がある{{% ex "https://maps.app.goo.gl/SHySfeMTe3cp738C9" "https://maps.app.goo.gl/vScY9xz2wKZpXhDj7" %}}。南米南部共同市場に加盟している国では青色のナンバープレートが共通してみられる{{% ref "https://www.mofa.go.jp/mofaj/area/latinamerica/keizai/mercosur/index.html" "外務省 - メルコスール" %}}。
+2016年以降に撮影されたものは黒ナンバーでない可能性がある{{% ex "https://maps.app.goo.gl/eSddvfJy8YGF2dhP7" "https://maps.app.goo.gl/SHySfeMTe3cp738C9" "https://maps.app.goo.gl/vScY9xz2wKZpXhDj7" %}}。南米南部共同市場に加盟している国では青色のナンバープレートが共通してみられる{{% ref "https://www.mofa.go.jp/mofaj/area/latinamerica/keizai/mercosur/index.html" "外務省 - メルコスール" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -70,7 +70,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 
 
 {{% notice tip %}}
-道端に道路番号が書かれた小さい看板があるかも。
+道端に道路番号が書かれた小さい看板があるかも{{% ex "https://maps.app.goo.gl/HbiufkgCGYbvbKpB8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./2011_101_18_140540.jpg" width="95%" />
@@ -78,6 +78,14 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 
 <div class="googlemap-if unclickable">
 <img src="./r/road-sign.png" width="170px">
+</div>
+
+
+{{% notice tip %}}
+アルゼンチン内で多くのシェール油田を保有する<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス）</span>のガソリンスタンド。青い看板{{% ex "https://maps.app.goo.gl/CetzCF3MWpnLapD89" %}}やドラム缶{{% ex "https://maps.app.goo.gl/c7NoLJHSy2NrQ2iV6" "https://maps.app.goo.gl/jy1mLTfiqUcHsArK9" %}}が目印。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./junin_av_republica_20060428.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
@@ -93,29 +101,11 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683132408446!6m8!1m7!1s75g06zhiTRZMluuTaK0vlQ!2m2!1d-49.30554394571375!2d-67.73377208631163!3f277.39150996678796!4f18.30409245034636!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}
-アルゼンチン内で多くのシェール油田を保有する<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス）</span>のガソリンスタンド。名前が長すぎて逆に覚えられるかも。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./junin_ypf_aca.jpg" width="95%" />
-</div>
 
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679243916537!6m8!1m7!1skXH0ZX2YufIDFeblQjT7lg!2m2!1d-34.61168366232381!2d-58.39474927434688!3f173.2486401138486!4f-20.419799619250938!5f2.9561148475182564" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-building" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680529064474!6m8!1m7!1saPMvKgCc9OmM5HAXoPwLNA!2m2!1d-53.77122290856554!2d-67.71722495908014!3f324.8442442724678!4f-16.01627294364232!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680529286306!6m8!1m7!1sE9P-HF05ZiHXeqvV678Zvg!2m2!1d-53.76913621437513!2d-67.71755235315504!3f91.44711067428264!4f-10.417192332125452!5f2.9292566646559166" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-commercial" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679244135665!6m8!1m7!1s31HwtGkcb8i-reXo5SdIMw!2m2!1d-34.58693112431686!2d-58.37221917961278!3f259.8517612996338!4f11.104060482651036!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679244259499!6m8!1m7!1s7YOnLDg-9zIPrUYAi_cOGw!2m2!1d-34.65176397847728!2d-58.50271265420312!3f266.7517338860435!4f2.96974439297459!5f3.0364993777746148" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
