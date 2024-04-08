@@ -102,11 +102,7 @@ sc: [
     <h4 class="section-title" id="言語">言語</h4>
     <ul class="rule-list">
         <li>州ごとに異なる旗がある</li>
-        <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}
-            <ul>
-                <li>タミル語{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}</li>
-            </ul>
-        </li>
+        <li>地域ごとに言語が違う{{% by "usumdensetu" "twitch" %}}</li>
     </ul>
 </div>
 
@@ -156,7 +152,7 @@ sc: [
 {{% /tab %}}
 {{% tab "タミル語" %}}
 {{% notice tip %}}
-スリランカの海岸沿いに多い。
+スリランカの海岸沿いに多い{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./wcc_chennai2.jpg">
