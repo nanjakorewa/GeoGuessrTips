@@ -308,6 +308,12 @@ sc: [
 <div class="googlemap-if unclickable">
 <img src="2023-05-18-14-07-10.png" width="60%" />
 </div>
+
+
+{{% notice tip %}}
+とりあえず東側に。
+{{% /notice %}}
+
 {{% /tab %}}
 {{% tab "コットン" %}}
 <div class="googlemap-if unclickable">
@@ -316,6 +322,16 @@ sc: [
 
 {{% notice tip %}}
 土が黒いインド中央地域と重複している。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "お茶" %}}
+<div class="googlemap-if unclickable">
+<img src="Tea-producing-regions-of-India.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+図の緑の地域に多いが、ヒマチャル・プラデシュにはストリートビューが無いため東部・南部の２地域のどちらかとなる(図の出典：Lagad, Rupali A., et al. "Elemental Profiling of Indian Tea by Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)." Atomic Spectroscopy 32.4 (2011): 168.)。
 {{% /notice %}}
 
 {{% /tab %}}
@@ -380,21 +396,21 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 </div>
 
 {{% tabs %}}
+{{% tab "Assam" %}}
+{{% notice tip %}}
+Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" %}}。Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}が多くはない。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="arecanut_trees_assam.jpg">
+</div>
+{{% /tab %}}
 {{% tab "Kerala" %}}
 {{% notice tip %}}
 西沿岸部は最も雨量が多い地域であり、雨に耐えられるように急な屋根が設置される。屋根の上にさらに屋根がある（？）造りも見かける{{% ex "https://maps.app.goo.gl/dLBCA7WoodUtphrL6" "https://maps.app.goo.gl/PRkcvkZY2JkV46347" "https://maps.app.goo.gl/pdkQAsJiYhcVVPVm7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Alleppey_river_ride.jpg#/media/File:Alleppey_river_ride.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Alleppey_river_ride.jpg" alt="Alleppey river ride.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bharath_maraboina123&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bharath maraboina123 (page does not exist)">Bharath maraboina123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49516918">Link</a></p>
-</div>
-{{% /tab %}}
-{{% tab "Assam" %}}
-{{% notice tip %}}
-Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" %}}。地震と洪水がある地域。竹のような軽い素材を使った高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}がかなり稀な印象。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<img src="arecanut_trees_assam.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
