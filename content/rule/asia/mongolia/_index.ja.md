@@ -48,7 +48,7 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 
 
 {{% notice tip %}}
-ゲル（モンゴル高原に住む遊牧民の住居）が遠くに見えるかも{{% ex "https://goo.gl/maps/iy9e9jVHmGwbVHw88" %}}？
+ゲル（モンゴル高原に住む遊牧民の住居）が遠くに見えるかも{{% ex "https://maps.app.goo.gl/aJRwu5Mo2uk7b8en8" "https://maps.app.goo.gl/mUTd51UQcCA2UwfM6" "https://maps.app.goo.gl/V7gk5kwoK8TtW3nU8" "https://goo.gl/maps/iy9e9jVHmGwbVHw88" "https://maps.app.goo.gl/ocP6224mJufdTEn99" %}}？
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="yurt_mongolia_steppe_altai.jpg" width="95%" />
