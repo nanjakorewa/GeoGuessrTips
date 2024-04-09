@@ -36,7 +36,7 @@ maps: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-電柱に縦の縞模様がある{{% ex "https://maps.app.goo.gl/w96QDpne6ud5P5BQ6" "https://maps.app.goo.gl/ad7qhiMiTQF2MK6o6" %}}。
+電柱に縦の縞模様がある{{% ex "https://maps.app.goo.gl/ad7qhiMiTQF2MK6o6" "https://maps.app.goo.gl/w96QDpne6ud5P5BQ6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -44,7 +44,7 @@ maps: [
 </div>
 
 {{% notice tip %}}
-日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/oxRtBE2GhZscrDm48" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。また、プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/Ym6Q3jKx1FDzDff76" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。
+プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/RyGge7Z8rpDJ5CTq8" "https://maps.app.goo.gl/f4mt7dCtcdUeuzwZ7" "https://maps.app.goo.gl/Hcgk6nqoa2QNGWCU7" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。また、日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/oxRtBE2GhZscrDm48" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
