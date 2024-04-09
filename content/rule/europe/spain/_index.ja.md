@@ -66,7 +66,7 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Road Junction Sign (Barcelona Province, Spain)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% notice tip %}}
-ポストのついでにボラードも黄色い{{% ex "https://goo.gl/maps/RwKuScqsWDDdAGea8" "https://goo.gl/maps/PmCdvxhtwnVD9KNa7" %}}。少し見た目が異なるものもある{{% ex "https://maps.app.goo.gl/LsXVmmXG69Z71kMU6" %}}。
+ポストのついでにボラードも黄色い{{% ex "https://goo.gl/maps/RwKuScqsWDDdAGea8" "https://goo.gl/maps/PmCdvxhtwnVD9KNa7" %}}。稀に少し見た目が異なるものもある{{% ex "https://maps.app.goo.gl/LsXVmmXG69Z71kMU6" %}}。また、{{% goto "../../cs_america/chile/" "チリ" %}}や{{% goto "../../cs_america/argentina/" "アルゼンチンのフフイ州" %}}{{% ex "https://maps.app.goo.gl/GHxFEDhHYdMtxJfD9" %}}にも稀に似たボラードがあるのでボラードだけで即押ししないように。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -79,7 +79,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道端にオレンジや黄色の小さい看板があって道路番号が書かれていることが多い{{% ex "https://goo.gl/maps/YqHtFfZnWDhx5t18A" "https://goo.gl/maps/n4VXrPbKSobWS8NF9" %}}。またガードレールやボラードの反射板が黄色{{% ex "https://maps.app.goo.gl/W9sLs663umDfPoEy8" "https://maps.app.goo.gl/B3dGZBLMEPZccc3E9" %}}。
+道端にオレンジや黄色の小さい看板があって道路番号が書かれていることが多い{{% ex "https://goo.gl/maps/YqHtFfZnWDhx5t18A" "https://goo.gl/maps/n4VXrPbKSobWS8NF9" %}}。またガードレールやボラードの反射板が黄色{{% ex "https://maps.app.goo.gl/W9sLs663umDfPoEy8" "https://maps.app.goo.gl/B3dGZBLMEPZccc3E9" %}}なのはチリ・{{% goto "../andorra/" "アンドラ" %}}・{{% goto "../../cs_america/chile/" "アルゼンチン" %}}の場合がほとんど。
 {{% /notice %}}
 
 <div class="googlemap-if">
