@@ -26,6 +26,7 @@ sc: [
         <li>ドメインは<span class="quiz">.ae</span></li>
         <li>ナンバープレートは基本白だが左側が<span class="quiz">赤</span>色のときもある</li>
         <li>ドバイは高層ビルが見えることが多い</li>
+        <li>Google Carの屋根が見えることがある{{% ex "https://maps.app.goo.gl/sKu7Yrz2cNuFYwJu5" %}}</li>
     </ul>
     {{% rd middle_east united_arab_emirates verysmall %}}
 </div>
@@ -70,6 +71,14 @@ sc: [
 {{% lb 50 %}}
 ![](2023-05-25-05-13-29.png)
 {{% /lb %}}
+
+
+{{% notice tip %}}
+標識のポールや道端のポールがストライプ柄になっている{{% ex "https://maps.app.goo.gl/9FvXMoKj71awCEn69" "https://maps.app.goo.gl/Khn4gzPAhSLnUn2o9" "https://maps.app.goo.gl/QRQH4TJRzSPjhviZ9" "https://maps.app.goo.gl/yf2iJxq5mMVyJzLj6" "https://maps.app.goo.gl/g5bDeTxksemUiwsA9" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./street_in_al_ain.jpg" width="90%">
+</div>
 
 {{% /tab %}}
 {{% tab "Google Car" %}}
