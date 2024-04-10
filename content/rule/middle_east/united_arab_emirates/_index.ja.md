@@ -74,7 +74,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識のポールや道端のポールがストライプ柄になっている{{% ex "https://maps.app.goo.gl/9FvXMoKj71awCEn69" "https://maps.app.goo.gl/Khn4gzPAhSLnUn2o9" "https://maps.app.goo.gl/QRQH4TJRzSPjhviZ9" "https://maps.app.goo.gl/yf2iJxq5mMVyJzLj6" "https://maps.app.goo.gl/g5bDeTxksemUiwsA9" %}}。
+標識のポールや道端のポールがストライプ柄になっている{{% ex "https://maps.app.goo.gl/9FvXMoKj71awCEn69" "https://maps.app.goo.gl/Khn4gzPAhSLnUn2o9" "https://maps.app.goo.gl/QRQH4TJRzSPjhviZ9" "https://maps.app.goo.gl/yf2iJxq5mMVyJzLj6" "https://maps.app.goo.gl/g5bDeTxksemUiwsA9" %}}。単純な銀色の単管のポールも多いので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./street_in_al_ain.jpg" width="90%">
