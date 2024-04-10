@@ -81,7 +81,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-こういう感じの木がある{{% ex "https://maps.app.goo.gl/m83DoPtVyRVGZcmt7" %}}。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
+こういう感じの木がある{{% ex "https://maps.app.goo.gl/cSokqL53zawrJt2S8" "https://maps.app.goo.gl/m83DoPtVyRVGZcmt7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AE%E3%83%A4%E3%82%B7" "オウギヤシ" %}}。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./cambodia_asia_siem_reap.jpg" width="90%" />
