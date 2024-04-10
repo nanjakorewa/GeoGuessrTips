@@ -54,7 +54,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-カタールと異なり起伏がある{{% ex "https://maps.app.goo.gl/642r1MnGxr8kRfTM6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。
+カタールと異なり起伏があり完全に平坦な地域は少ない{{% ex "https://maps.app.goo.gl/642r1MnGxr8kRfTM6" "https://maps.app.goo.gl/TrEHwPo45xm76ydH6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/LUMyh5GEXz9GdSer5" "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/rzG1m4pCafp92fnX7" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/JkteEr886DXMJKbu9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./mountain_rock_landscape_stone.jpg" width="90%">
@@ -95,7 +95,7 @@ Google Carが特徴的で白い屋根が見えることがある。屋根が見�
 {{% tab "シルバニヤス島" %}}
 
 {{% notice tip %}}
-ほとんどの場所でGoogle Carが見える{{% ex "https://maps.app.goo.gl/Ff2XteyYMELFxSdi6" "https://maps.app.goo.gl/kvMPDaL9mb91Fa9S8" %}}。景色も特徴的{{% ex "https://maps.app.goo.gl/nCXUmC1QemMsn7xLA" "https://maps.app.goo.gl/EMdbXXuBST1K4tuB6" %}}。
+景色が特徴的{{% ex "https://maps.app.goo.gl/nCXUmC1QemMsn7xLA" "https://maps.app.goo.gl/EMdbXXuBST1K4tuB6" %}}でほとんどの場所でGoogle Carが見える{{% ex "https://maps.app.goo.gl/Ff2XteyYMELFxSdi6" "https://maps.app.goo.gl/kvMPDaL9mb91Fa9S8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
