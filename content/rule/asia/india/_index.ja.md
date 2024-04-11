@@ -402,7 +402,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 {{% tabs %}}
 {{% tab "Assam" %}}
 {{% notice tip %}}
-Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" "https://maps.app.goo.gl/wbZz4zSrbhBNjJm17" %}}{{% ref "https://en.wikipedia.org/wiki/Areca_catechu" "Areca catechu" %}}。Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}（レンガのような重い素材で壁を作れないため）。
+Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" "https://maps.app.goo.gl/wbZz4zSrbhBNjJm17" %}}{{% ref "https://en.wikipedia.org/wiki/Areca_catechu" "Areca catechu" %}}。Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}。レンガのような重い素材は地震で崩れてしまう。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

@@ -61,6 +61,20 @@ sc: [
 
 
 {{% notice tip %}}
+ナンバープレートは<span class="quiz">白</span>色なので注意{{% ex "https://maps.app.goo.gl/Kj2M7Mqzt1F1bmmS9" "https://maps.app.goo.gl/xAGttEdGtyjEKL5EA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./1305maj2013_15.jpg" width="90%" alt="アイスランドのナンバープレート例" />
+</div>
+
+{{% lb 50 %}}
+![](640px-Iceland_car_plate.jpg)
+
+CC0
+{{% /lb %}}
+
+{{% notice tip %}}
 横断歩道の標識が黄色い。ただ都心部以外はあまり見つからないかも。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
