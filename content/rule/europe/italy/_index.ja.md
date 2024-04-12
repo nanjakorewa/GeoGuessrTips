@@ -366,3 +366,21 @@ Veneziaには船にのって移動するエリアがある{{% ex "https://maps.a
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption city-description" id="Lampedusa">
+    <ul class="rule-list">
+        <li>Veneziaは船の上に載っている場所が多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Venezia" %}}
+{{% notice tip %}}
+Veneziaは船の上に載っている場所が多い。ヴェネツィアをモデルにした{{% goto "../france/" "フランス" %}}のGrimaudと間違えないように。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="venezia_waterway_old_houses.jpg" width="90%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}

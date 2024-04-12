@@ -290,6 +290,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>イタリアのヴェネツィアをモデルに運河が作られた港町であるGrimaudがある</li>
         <li>『Highest road in Europe』とも呼ばれるCol de la Bonette峠がありD64の道がある</li>
         <li>Corsica（コルシカ）島
             <ul>
@@ -307,6 +308,13 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 {{% tabs %}}
+{{% tab "Grimaud" %}}
+{{% notice tip %}}運河で船の上に乗っているエリアが多い。{{% goto "../italy/" "イタリア" %}}のヴェネツィアと見間違えないように{{% ex "https://maps.app.goo.gl/98yzafK97xcpvAj58" "https://maps.app.goo.gl/2xB8on41xqiXDSW4A" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./port_grimaud_france_channel.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "Col de la Bonette" %}}
 {{% notice tip %}}D64道路が走っている{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}。
 {{% /notice %}}
