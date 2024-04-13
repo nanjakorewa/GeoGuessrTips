@@ -41,7 +41,7 @@ maps: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}速度制限の表記は<span class="quiz">SPEED LIMIT</span>{{% ex "https://maps.app.goo.gl/FvnB7q7FdjZuBZVQA" "https://goo.gl/maps/7MDNFYLGn9GgFHDz6" "https://goo.gl/maps/eveAfAJ1gdGddSDj8" "https://goo.gl/maps/8FZ2uBojRTixFCfi9" "https://goo.gl/maps/GJ8DQzv6QrE7Yy2z7" %}}。ただしSPEEDしか書かれていないときは<span class="quiz">オレゴン</span>州。{{% goto "../canada/" "カナダ" %}}は<span class="quiz">MAXIMUM</span>。
+{{% notice tip %}}速度制限の表記は<span class="quiz">SPEED LIMIT</span>{{% ex "https://maps.app.goo.gl/FvnB7q7FdjZuBZVQA" "https://maps.app.goo.gl/LYPy8QLDLi5uQaD38" "https://goo.gl/maps/7MDNFYLGn9GgFHDz6" "https://goo.gl/maps/eveAfAJ1gdGddSDj8" "https://goo.gl/maps/8FZ2uBojRTixFCfi9" "https://goo.gl/maps/GJ8DQzv6QrE7Yy2z7" %}}。ただしSPEEDしか書かれていないときは<span class="quiz">オレゴン</span>州。{{% goto "../canada/" "カナダ" %}}は<span class="quiz">MAXIMUM</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
