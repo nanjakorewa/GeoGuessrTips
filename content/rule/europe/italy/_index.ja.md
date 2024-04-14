@@ -132,6 +132,16 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+
+{{% notice tip %}}
+イタリア・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../greece/" "ギリシャ" %}}・{{% goto "../spain/" "スペイン" %}}は白黒シェブロンがあり得る{{% ex "https://maps.app.goo.gl/jNsZH3u6Ya8YuF3T8" "https://maps.app.goo.gl/hCgDJzvgoe2faNz3A" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:TunnelTimmelsjoch.JPG#/media/File:TunnelTimmelsjoch.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/TunnelTimmelsjoch.JPG" alt="TunnelTimmelsjoch.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knipptang" title="User:Knipptang">Arne Hückelheim</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9579390">Link</a></p>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-building" %}}
 
