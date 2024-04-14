@@ -108,8 +108,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./road/20150522_144002lc.jpg" width="300px" />
-<img src="./road/mountain_trail_dirt_road.jpg" width="300px" />
+<img src="./road/20150522_144002lc.jpg" width="320px" />
+<img src="./road/mountain_trail_dirt_road.jpg" width="320px" />
 </div>
 
 {{% /tab %}}
@@ -233,6 +233,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>イドラ島は条例で自動車が禁止されておりトレッカーのみが存在する{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%89%E3%83%A9%E5%B3%B6" "イドラ島" %}}</li>
+        <li>ケア島は雨が少ない気候で丘と石壁のある家が多い{{% ex "https://maps.app.goo.gl/nt3ULjZ664L1di3t5" "https://maps.app.goo.gl/YpRvgutj5BryFdra9" "https://maps.app.goo.gl/4kLUT21ppTn9rDwJ6" %}}</li>
         <li>シフノス島は港以外は観光地化が進んでおらず遺跡や教会が多くある{{% ref "https://en.wikipedia.org/wiki/Sifnos" "Sifnos" %}}。</li>
         <li class="no-evidence">緑の大き目のゴミ箱に都市名が書いてあることがある</li>
         <li class="no-evidence">タクシーの色が都市ごとに異なる</li>
@@ -248,6 +249,15 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Idra_180_40,_Greece_-_panoramio.jpg#/media/File:Idra_180_40,_Greece_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Idra_180_40%2C_Greece_-_panoramio.jpg" alt="Idra 180 40, Greece - panoramio.jpg" width="90%"></a></p>
 <p>By theusmanmali, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53642795">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "ケア島" %}}
+{{% notice tip %}}
+木の生えていない丘が多くデータ上は砂漠気候らしい{{% ex "https://maps.app.goo.gl/1CeKaHX6spuC1cj97" %}}。{{% goto "../andorra/" "アンドラ" %}}のような白くない石壁で作られた家も多い{{% ex "https://maps.app.goo.gl/nt3ULjZ664L1di3t5" "https://maps.app.goo.gl/YpRvgutj5BryFdra9" "https://maps.app.goo.gl/4kLUT21ppTn9rDwJ6" %}}{{% ref "https://en.wikipedia.org/wiki/Kea_(island)" "Kea island" %}}。2023年4月以降に撮影された場所しかない。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./960px-Havouna,_Kea.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "シフノス島" %}}
