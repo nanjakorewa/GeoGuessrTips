@@ -316,16 +316,25 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <div class="main-desciption city-description" id="Lampedusa">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>ヨーロッパ最大の活火山であるEtna火山があり、とても黒っぽい土が道端に広がっている</li>
         <li class="no-evidence">Pantelleria島は黒っぽい石の石垣が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%86%E3%83%83%E3%83%AC%E3%83%AA%E3%83%BC%E3%82%A2%E5%B3%B6" "パンテッレリーア島" %}}</li>
         <li>Egadi諸島にいる時はサンタカテリーナ城が目印になる{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/B4uKpr3jxNkoVUUSA" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}{{% ref "https://www.mareandmoretour.it/eng/da-non-perdere/favignana-castello-caterina-17" "CASTLE OF SANTA CATERINA FAVIGNANA" %}}</li>
-        <li>Veneziaには船にのって移動するエリアがある</li>
         <li>Lampedusa島は看板やバス停に島名が書いてある{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}</li>
         <li>San domino島は石畳の場所が多くフェリーが泊っている{{% ex "https://maps.app.goo.gl/spBTAd9TedmzDtRV8" "https://maps.app.goo.gl/yi9AS8xfHbhrF5G47" "" %}}</li>
+        <li>Veneziaには船にのって移動するエリアがある</li>
         <li>{{% goto "../switzerland/" "スイス" %}}に囲まれたイタリアの飛び地であるCampione d'Italia町はカメラが低い</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Etna火山" %}}
+{{% notice tip %}}
+ヨーロッパ最大の活火山であるEtna火山があり、とても黒っぽい土が道端に広がっている{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%88%E3%83%8A%E7%81%AB%E5%B1%B1" "エトナ火山" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./mount_etna_sicily_italy.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "Pantelleria島" %}}
 {{% notice tip %}}
 Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
@@ -340,14 +349,6 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./favignana_island_sea_sicily.jpg" width="95%">
-</div>
-{{% /tab %}}
-{{% tab "Venezia" %}}
-{{% notice tip %}}
-Veneziaには船にのって移動するエリアがある{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./city/venezia_water_passages_275518.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa島" %}}
@@ -366,6 +367,14 @@ Veneziaには船にのって移動するエリアがある{{% ex "https://maps.a
 <p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" alt="Porto - San Domino Island, Tremiti, Foggia, Italy - August 20, 2013 02.jpg" height="720" width="720"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
 </div>
 {{% /tab %}}
+{{% tab "Venezia" %}}
+{{% notice tip %}}
+Veneziaには船にのって移動するエリアがある{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}。ヴェネツィアをモデルにした{{% goto "../france/" "フランス" %}}のGrimaudと間違えないように。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./city/venezia_water_passages_275518.jpg">
+</div>
+{{% /tab %}}
 {{% tab "Campione d'Italia" %}}
 {{% notice tip %}}
 町の通貨はスイス・フランでカメラも低いがナンバーや標識はイタリア。
@@ -373,24 +382,6 @@ Veneziaには船にのって移動するエリアがある{{% ex "https://maps.a
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697113513213!6m8!1m7!1s-GsScTEQUXEt-skbp8aQHA!2m2!1d45.96405788174396!2d8.969423409115834!3f26.386871860734875!4f-13.646092540524307!5f1.4102657176074715" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697113589943!6m8!1m7!1sSRNscs_-sXyeCFmObS79cg!2m2!1d45.97326055783069!2d8.974055455777467!3f315.12637288040565!4f-33.36230251643603!5f0.4000000000000002" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption city-description" id="Lampedusa">
-    <ul class="rule-list">
-        <li>Veneziaは船の上に載っている場所が多い</li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "Venezia" %}}
-{{% notice tip %}}
-Veneziaは船の上に載っている場所が多い。ヴェネツィアをモデルにした{{% goto "../france/" "フランス" %}}のGrimaudと間違えないように。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="venezia_waterway_old_houses.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

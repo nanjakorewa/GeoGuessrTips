@@ -290,7 +290,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>イタリアのヴェネツィアをモデルに運河が作られた港町であるGrimaudがある</li>
         <li>『Highest road in Europe』とも呼ばれるCol de la Bonette峠がありD64の道がある</li>
         <li>Corsica（コルシカ）島
             <ul>
@@ -300,22 +299,16 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
             </ul>
         </li>
         <li>Noirmoutier島という平坦な湿地地帯がある{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}</li>
-        <li class="no-evidence">Porquerollesという離島が地中海側のイエール諸島にある{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
+        <li class="no-evidence">Porquerolles島という離島が地中海側のイエール諸島にある{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
         <li>Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}</li>
         <li>パリは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>イタリアのヴェネツィアをモデルに運河が作られた港町であるGrimaudがある</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "Grimaud" %}}
-{{% notice tip %}}運河で船の上に乗っているエリアが多い。{{% goto "../italy/" "イタリア" %}}のヴェネツィアと見間違えないように{{% ex "https://maps.app.goo.gl/98yzafK97xcpvAj58" "https://maps.app.goo.gl/2xB8on41xqiXDSW4A" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./port_grimaud_france_channel.jpg" width="95%">
-</div>
-{{% /tab %}}
-{{% tab "Col de la Bonette" %}}
+{{% tab "Col de la Bonette峠" %}}
 {{% notice tip %}}D64道路が走っている{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
@@ -336,14 +329,14 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./salt_marshes_salt_noirmoutier.jpg">
 </div>
 {{% /tab %}}
-{{% tab "Porquerolles" %}}
+{{% tab "Porquerolles島" %}}
 {{% notice tip %}}舗装されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}。地中海性気候で周りの木も暖かい感じ{{% ref "https://en.wikipedia.org/wiki/Porquerolles" "Porquerolles" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
 </div>
 {{% /tab %}}
-{{% tab "Aiguille de la Grande Sassière" %}}
+{{% tab "Aiguille de la Grande Sassière山" %}}
 {{% notice tip %}}
 フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある。初見ではフランスとわからなかったのでメモ{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
 {{% /notice %}}
@@ -351,7 +344,19 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
 </div>
 {{% /tab %}}
-{{% tab "パリ" %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>Parisは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>イタリアのヴェネツィアをモデルに運河が作られた港町であるGrimaudがある</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Paris" %}}
 {{% notice tip %}}
 パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。
 {{% /notice %}}
@@ -369,8 +374,14 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 {{% /tab %}}
+{{% tab "Grimaud" %}}
+{{% notice tip %}}運河で船の上に乗っているエリアが多い。{{% goto "../italy/" "イタリア" %}}のヴェネツィアと見間違えないように{{% ex "https://maps.app.goo.gl/98yzafK97xcpvAj58" "https://maps.app.goo.gl/2xB8on41xqiXDSW4A" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./port_grimaud_france_channel.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% /tabs %}}
-
 
 {{% imgref %}}
 <li>By <a href="//commons.wikimedia.org/wiki/User:Chabe01" title="User:Chabe01">Chabe01</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59212980">Link</a></li>
