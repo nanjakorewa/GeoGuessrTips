@@ -55,7 +55,7 @@ sc: [
 
 
 {{% notice tip %}}
-コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
+コンクリート製と思われる特徴的な見た目のボラードがある{{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://maps.app.goo.gl/xFGmuVPghwMN1khJ9" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}。また霧が発生しやすく遠くが見えないときがある{{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}。違うタイプのボラードもたまにある{{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
