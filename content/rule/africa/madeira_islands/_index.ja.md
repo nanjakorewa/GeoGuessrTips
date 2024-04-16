@@ -64,7 +64,7 @@ sc: [
 
 
 {{% notice tip %}}
-こんな感じの紫や白の花が咲いている{{% ex "https://goo.gl/maps/GRGteJ8Bc1GmtFZu5" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
+こんな感じの紫や白の花が咲いている{{% ex "https://maps.app.goo.gl/dDyesTJfknqj9uit9" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
