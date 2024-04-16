@@ -61,11 +61,16 @@ sc: [
 {{% lb 50 %}}
 ![](2023-04-16-10-59-35.png)
 
-By BasilLeaf - CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113059758">Wikimedia Commons</a>
+CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113059758">Wikimedia Commons</a>
 
 ![](2023-04-28-13-33-12.png)
 
 Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339">Wikimedia Commons</a>
+{{% /lb %}}
+{{% lb 50 %}}
+![](640px-License_Plate_-_Albania_-_Taxi.png)
+
+CC0
 {{% /lb %}}
 
 {{% notice tip %}}
