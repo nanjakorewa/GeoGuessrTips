@@ -263,17 +263,8 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h4 class="section-title">その他</h4>
+    <h4 class="section-title">ナンバープレート</h4>
     <ul class="rule-list">
-        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。あまり見かけない上に街中でないと見つけられないため、ブラジルの電話番号と比較するとあまり重要ではない。
-            <ul>
-                <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
-                <li>03：<span class="quiz">Victoria・タスマニア・メルボルン</span></li>
-                <li>04：<span class="quiz">オーストラリア中の携帯電話、場所指定無し</span></li>
-                <li>07：<span class="quiz">Queensland</span></li>
-                <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
-            </ul>
-        </li>
         <li>ナンバープレートの色で地域が分かるかもしれないがモザイクが強く分かりづらい{{% by "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Australia" "wiki" "Vehicle registration plates of Australia" %}}</li>
         <li>クリスマス島が出題されることがある{{% goto "../christmas-island/" "クリスマス島" %}}
             <ul>
@@ -283,14 +274,7 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
     </ul>
 </div>
 
-
-
 {{% tabs %}}
-{{% tab "市外局番" %}}
-<div class="googlemap-if">
-<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/glf854/area_codes_of_australia/">Area Codes of Australia</a><br> by      <a href="https://www.reddit.com/user/cmzraxsn">u/cmzraxsn</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
-</div>
-{{% /tab %}}
 {{% tab "ナンバープレート" %}}
 
 {{% notice tip %}}
@@ -298,8 +282,7 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682233517999!6m8!1m7!1sWq0K0pNpxYlUgBtkt3QTIQ!2m2!1d-21.14715132093964!2d149.1849561159643!3f55.12812703334478!4f-18.686872793176335!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682233315360!6m8!1m7!1svv7zLhPdlb_doH4kc-mt1A!2m2!1d-12.52010279062024!2d131.0433048327268!3f122.20094401009418!4f-11.983834788457656!5f3.3203366790792304" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/MapPorn/comments/p3znyd/map_of_australian_license_plates/">Map of Australian License Plates</a><br> by<a href=""></a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -312,5 +295,30 @@ By NJM2010 - Own work, GFDL, <a href="https://commons.wikimedia.org/w/index.php?
 
 By EurovisionNim - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
 {{% /lb %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">その他</h4>
+    <ul class="rule-list">
+        <li>市外局番のエリアコードで地域が分かるかも{{% by "https://www.australia.gov.au/telephone-country-and-area-codes" "web" "Telephone country and area codes / Australian Government, Canberra" %}}。あまり見かけない上に街中でないと見つけられないため、ブラジルの電話番号と比較するとあまり重要ではない。
+            <ul>
+                <li>02：<span class="quiz">New South Wales・シドニー・キャンベラ</span></li>
+                <li>03：<span class="quiz">Victoria・タスマニア・メルボルン</span></li>
+                <li>04：<span class="quiz">オーストラリア中の携帯電話、場所指定無し</span></li>
+                <li>07：<span class="quiz">Queensland</span></li>
+                <li>08：<span class="quiz">中央と西側の領域・パースやダーウィンなど</span></li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="500">      <a href="https://www.reddit.com/r/geoguessr/comments/glf854/area_codes_of_australia/">Area Codes of Australia</a><br> by      <a href="https://www.reddit.com/user/cmzraxsn">u/cmzraxsn</a> in      <a href="https://www.reddit.com/r/geoguessr/">geoguessr</a>    </blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
