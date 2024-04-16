@@ -2,7 +2,7 @@
 title: "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島"
 date: 2023-02-26
 lastmod: 2023-05-01
-weight: 1
+weight: 1000
 draft: false
 keywords: [""]
 sections: [""]
