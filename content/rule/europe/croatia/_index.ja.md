@@ -112,6 +112,13 @@ CC0</a>
 <div class="googlemap-if">
 <img src="./danger.png" width="200px" style="margin:40px">
 </div>
+
+{{% notice tip %}}
+周辺国と比較するとレンガの家が多い{{% ex "https://maps.app.goo.gl/uFNNEbrfaxMg9XEt8" "https://maps.app.goo.gl/V1em4oWucgWKZRuA9" "https://maps.app.goo.gl/crgMLE8HgNJfZUy58" "https://maps.app.goo.gl/rAMsLuMhwDfsbZyX6" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./brick_house_house_small.jpg" width="80%">
+</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 

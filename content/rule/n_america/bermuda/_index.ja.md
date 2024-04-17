@@ -30,7 +30,7 @@ is_has_many_trekker: true
 
 
 {{% notice tip %}}
-家の屋根が白色以外ほとんどないことが衛星写真からも分かる{{% ex "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}（{{% goto "https://www.google.co.jp/maps/@32.2895795,-64.782574,3901m/data=!3m1!1e3?entry=ttu" "Google Mapの衛星写真" %}}）
+法律により家の造りが制限されるため、一般的な家のすべての屋根は石灰岩で作られ白い見た目をしている{{% ex "https://maps.app.goo.gl/sYhsWqmKhawCVY3s5" "https://maps.app.goo.gl/fZwDZGmMM5ZGH3PV9" "https://maps.app.goo.gl/yq1baQV9ydTQzRqcA" "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/oWnAREFuTTVqmPSk8" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}。{{% ref "https://alexismcharg.wordpress.com/2012/04/17/bermuda-white-roofs/" "Bermuda White Roofs" %}}。小さな島で淡水が得られないため、各家庭は雨水から水をる必要がある。よーく見ると水が１か所に集まるように溝が見つかる{{% ex "https://maps.app.goo.gl/SHGtjS3S1SK5uLYC8" "https://maps.app.goo.gl/cQetAbnnAubsqXbW7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./bermuda_wv.jpg" width="90%">
@@ -46,11 +46,10 @@ is_has_many_trekker: true
 
 
 {{% notice tip %}}
-Google Carが特徴的でトレッカーの場所には独特な形のぼかしがある。
+Google Carが特徴的。船上{{% ex "https://maps.app.goo.gl/64BieZPabkmMmFBP7" %}}や徒歩{{% ex "https://maps.app.goo.gl/6RkbAjDCfBYdaJz26" %}}で撮影されたものも多いが、ほとんどの場合は家の造りからバミューダと判断できるはず。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683467821168!6m8!1m7!1sc83mWC9O9BNuxBni8eYE4A!2m2!1d32.29257540872071!2d-64.78199819199413!3f257.974943079478!4f-32.12176255062474!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683468171159!6m8!1m7!1sTYhAeyghsleQUP9FRDxQGw!2m2!1d32.31266280799785!2d-64.72329466316407!3f241.9666120395585!4f-56.379786090675196!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683467821168!6m8!1m7!1sc83mWC9O9BNuxBni8eYE4A!2m2!1d32.29257540872071!2d-64.78199819199413!3f257.974943079478!4f-32.12176255062474!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tabs  %}}
