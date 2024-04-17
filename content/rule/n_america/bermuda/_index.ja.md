@@ -30,7 +30,7 @@ is_has_many_trekker: true
 
 
 {{% notice tip %}}
-法律により家の造りが制限されるため、一般的な家のすべての屋根は石灰岩で作られ白い見た目をしている{{% ex "https://maps.app.goo.gl/sYhsWqmKhawCVY3s5" "https://maps.app.goo.gl/fZwDZGmMM5ZGH3PV9" "https://maps.app.goo.gl/yq1baQV9ydTQzRqcA" "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/oWnAREFuTTVqmPSk8" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}。{{% ref "https://alexismcharg.wordpress.com/2012/04/17/bermuda-white-roofs/" "Bermuda White Roofs" %}}。小さな島で淡水が得られないため、各家庭は雨水から水をる必要がある。よーく見ると水が１か所に集まるように溝が見つかる{{% ex "https://maps.app.goo.gl/SHGtjS3S1SK5uLYC8" "https://maps.app.goo.gl/cQetAbnnAubsqXbW7" %}}。
+一般的な家のすべての屋根は白い見た目をしている{{% ex "https://maps.app.goo.gl/sYhsWqmKhawCVY3s5" "https://maps.app.goo.gl/fZwDZGmMM5ZGH3PV9" "https://maps.app.goo.gl/yq1baQV9ydTQzRqcA" "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/oWnAREFuTTVqmPSk8" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}。{{% ref "https://alexismcharg.wordpress.com/2012/04/17/bermuda-white-roofs/" "Bermuda White Roofs" %}}。小さな島で淡水が得られないため、各家庭は雨水から水を集める必要がある。そのため屋根を作る素材は石灰岩などに限定される（ゴミが付いたりカビが生える素材はNG）。よーく見ると水が１か所に集まるようにするための溝が見つかる{{% ex "https://maps.app.goo.gl/SHGtjS3S1SK5uLYC8" "https://maps.app.goo.gl/cQetAbnnAubsqXbW7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./bermuda_wv.jpg" width="90%">
