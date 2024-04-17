@@ -36,8 +36,13 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-周りが山がちで石壁の模様の建物が多い{{% ex "https://goo.gl/maps/HTiQdHf8CtJ7q3RD7" "https://goo.gl/maps/1gnf9YFxHNpJjxCd6" %}}。街中であったとしても建物の隙間や通りから山の斜面が見える{{% ex "https://goo.gl/maps/uCdX73HmturK9a467" %}}。イタリア西部の山の中でも石壁模様の家が多い{{% ex "https://goo.gl/maps/uSRbQsrbskQkajcb6" %}}ので間違えないように注意する。
+周りが山がちで石壁の模様の建物が多い{{% ex "https://goo.gl/maps/HTiQdHf8CtJ7q3RD7" "https://goo.gl/maps/1gnf9YFxHNpJjxCd6" %}}。街中であったとしても建物の隙間や通りから山の斜面が見える{{% ex "https://goo.gl/maps/uCdX73HmturK9a467" %}}。
 {{% /notice %}}
+
+{{% notice info %}}
+イタリア西部の山の中{{% ex "https://goo.gl/maps/uSRbQsrbskQkajcb6" "https://maps.app.goo.gl/VceHovBcdNMLTTEo7" %}}やアンドラ周辺のスペイン領{{% ex "https://maps.app.goo.gl/xuUma9CQXosXWaoZA" "https://maps.app.goo.gl/6PqHJCuxAcjhtbs96" %}}でも似た建物が多いので間違えないように注意する。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <img src="./building.jpg" alt="アンドラの建物" width="95%" />
 </div>
