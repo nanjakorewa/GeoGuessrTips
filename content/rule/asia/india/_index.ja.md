@@ -342,7 +342,7 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h4 class="section-title" id="建物">建物</h4>
+    <h4 class="section-title" id="建物">建築①</h4>
     <ul class="rule-list">
         <li class="no-evidence">黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}</li>
         <li>北部は赤レンガ造りの建物が多い</li>
@@ -392,7 +392,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 
 
 <div class="main-desciption area-description">
-    <h4>ちゃんと調べていないもの</h4>
+    <h4>建築②</h4>
     <ul class="rule-list">
         <li>Goa州：雨が最も多く背の高いヤシが見られる</li>
         <li>Kerala州：Goaと同じく背の高いヤシが見られるがGoaよりも二階建て建築が多い{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "インド・ネパールにおける伝統建築の技法と伝承" %}}</li>
