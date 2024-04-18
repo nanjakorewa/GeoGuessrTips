@@ -1,7 +1,7 @@
 ---
 title: "エルサルバドル共和国"
-date: 2023-02-26
-lastmod: 2023-05-01
+date: 2024-01-14
+lastmod: 2024-04-14
 weight: 1
 draft: false
 keywords: [""]

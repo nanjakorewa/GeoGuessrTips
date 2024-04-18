@@ -271,6 +271,7 @@ sc: [
                 <li>菜種の畑は北西部の乾燥地域が多い</li>
                 <li>綿花はデカン高原、とくにマハーラーシュトラ周辺の土が黒い地域が多い</li>
                 <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=IN">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
+                <li>大麦・小麦畑のように見えるならばマディヤ・プラデーシュよりも北に行ってみる</li>
             </ul>
         </li>
     </ul>
@@ -336,6 +337,16 @@ sc: [
 
 {{% notice tip %}}
 図の緑の地域に多いが、ヒマチャル・プラデシュにはストリートビューが無いため東部・南部の２地域のどちらかとなる(図の出典：Lagad, Rupali A., et al. "Elemental Profiling of Indian Tea by Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)." Atomic Spectroscopy 32.4 (2011): 168.)。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "大麦・小麦" %}}
+<div class="googlemap-if unclickable">
+<img src="./barley_field_wind_eddy.jpg" width="60%" />
+</div>
+
+{{% notice tip %}}
+画質のせいで分からないことがほとんどだが、大麦を育てている感じを読み取れたならRajasthan付近の北のエリアに行く{{% ex "https://maps.app.goo.gl/6AJ94M52QhMWJ7u56" %}}。小麦もマディヤ・プラデーシュとその北のエリアで95%近くを占めている。
 {{% /notice %}}
 
 {{% /tab %}}
