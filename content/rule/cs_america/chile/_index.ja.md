@@ -37,7 +37,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../asia/philippines/" "フィリピン" %}}{{% ex "https://maps.app.goo.gl/gdMuBSA4V1hHHD4X7" %}}にもある。
+電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://maps.app.goo.gl/i85yJH2qpUp7N8B38" "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../asia/philippines/" "フィリピン" %}}{{% ex "https://maps.app.goo.gl/gdMuBSA4V1hHHD4X7" %}}にもある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./pole-example.png" width="199px" height="640px">
@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-標識の棒にも電柱のような感じの溝がある（<span style="font-size: small">コメントで教えてもらいました</span>）{{% ex "https://goo.gl/maps/oEiAR6xyXpHYt9A97" "https://goo.gl/maps/gNq2VccEBkkiG6Qs8" "https://goo.gl/maps/ZKCD6sTEe75qoGRMA" %}}
+標識の棒にも電柱のような感じの溝がある（<span style="font-size: small">コメントで教えてもらいました</span>）{{% ex "https://maps.app.goo.gl/akB9Uz7wf5Z4HC5G6" "https://maps.app.goo.gl/fSj7kreepTQ69Wa3A" "https://maps.app.goo.gl/U3XjmhZAGBrem5DA8" "https://goo.gl/maps/oEiAR6xyXpHYt9A97" "https://goo.gl/maps/gNq2VccEBkkiG6Qs8" "https://goo.gl/maps/ZKCD6sTEe75qoGRMA" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jimsawthat/52631472071/in/photolist-2obS3ZD-2gUkuH9-2gmg3Bq-7HHjqD-iJdnC-iLodA-2gUjzG8-7JiP1j-7ky9PS-huVxio-tXnMgD-9syDuM-8HariF-9nySVZ-5T3UZX-2ik3fpa-2gUksrv-2gUjz9e-dVjypd-sbY8tX-6UZ3fR-5VLnaa-o3k7Gu-88uJxR-o3m6qZ-rwq1WL-7zKU2k-DhyaUm-5Q9TD2-sr8B4S-9XBB9F-9XBBj4-5LMLC3-ojMwKA-4Aceg7-sbY8Lk-bFHMdV-djnnX3-o3m6Uz-9XEuwJ-aeV2dU-9fcSht-2hBcACz-7pw9G5-5wjkWh-stqCLc-9XBB6t-64umfb-9XBBd8-5EjFhV" title="Pare"><img src="https://live.staticflickr.com/65535/52631472071_4a49f15368_z.jpg" width="640" height="480" alt="Pare"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -177,7 +177,8 @@ E-375道路がある緯度付近。
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Santiago付近の山が特徴的なので覚えておくと役に立つかも</li>
-        <li>Puerto Williamsでは雪が積もっている山と海が北に見える{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" "https://maps.app.goo.gl/T8fzni8uWhZWtTwQ8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA" "プエルト・ウィリアムズ" %}}</li>
+        <li>Puerto Williamsでは雪が積もっている山と海が北に見える{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" "https://maps.app.goo.gl/T8fzni8uWhZWtTwQ8" %}}</li>
+        <li>人が定住するコミュニティとしては最南端であるPuerto Toroがある{{% ex "https://maps.app.goo.gl/JU9zuQodFFAR9UpE6" %}}</li>
     </ul>
 </div>
 
@@ -194,10 +195,19 @@ Santiago de Chile付近にある木や草がまばらに生えた山が印象的
 {{% /tab %}}
 {{% tab "Puerto Williams" %}}
 {{% notice tip %}}
-雪が積もっている地域と海が北に見える。稀にトラックのような車が見えることもある{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" %}}。
+雪が積もっている地域と海が北に見える。稀にトラックのような車が見えることもある{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA" "プエルト・ウィリアムズ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./puerto_williams_3.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "Puerto Toro" %}}
+{{% notice tip %}}
+人が定住するコミュニティとしては最南端であるPuerto Toroがある{{% ex "https://maps.app.goo.gl/JU9zuQodFFAR9UpE6" %}}。舗装された道はなく、歩いて撮影されている。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Puertotoro.JPG#/media/File:Puertotoro.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Puertotoro.JPG" alt="Puertotoro.JPG" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Butterfly_voyages" class="mw-redirect" title="User:Butterfly voyages">Butterfly voyages</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5281337">Link</a></p>
 </div>
 
 {{% /tab %}}
