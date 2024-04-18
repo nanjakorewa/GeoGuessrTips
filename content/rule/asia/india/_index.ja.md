@@ -396,7 +396,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
     <ul class="rule-list">
         <li>Goa州：雨が最も多く背の高いヤシが見られる</li>
         <li>Kerala州：Goaと同じく背の高いヤシが見られるがGoaよりも二階建て建築が多い{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "インド・ネパールにおける伝統建築の技法と伝承" %}}</li>
-        <li>Assam州：地震や洪水がある地域のため、高床式の家や軽い素材の塀が見つかる/li>
+        <li>Assam州：地震や洪水がある地域のため、高床式の家や軽い素材の塀が見つかる</li>
     </ul>
 </div>
 
