@@ -393,28 +393,44 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 
 <div class="main-desciption area-description">
     <h4>ちゃんと調べていないもの</h4>
-    <ul class="rule-list" style="opacity:0.5">
-        <li>Kerala州</li>
-        <li>Assam州</li>
+    <ul class="rule-list">
+        <li>Goa州：雨が最も多く背の高いヤシが見られる</li>
+        <li>Kerala州：Goaと同じく背の高いヤシが見られるがGoaよりも二階建て建築が多い{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "インド・ネパールにおける伝統建築の技法と伝承" %}}</li>
+        <li>Assam州：地震や洪水がある地域のため、高床式の家や軽い素材の塀が見つかる/li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Assam" %}}
-{{% notice tip %}}
-Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" "https://maps.app.goo.gl/wbZz4zSrbhBNjJm17" %}}{{% ref "https://en.wikipedia.org/wiki/Areca_catechu" "Areca catechu" %}}。Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}。レンガのような重い素材は地震で崩れてしまう。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<img src="arecanut_trees_assam.jpg">
-</div>
-{{% /tab %}}
-{{% tab "Kerala" %}}
+{{% tab "Goa" %}}
 {{% notice tip %}}
 西沿岸部は最も雨量が多い地域であり、雨に耐えられるように急な屋根が設置される。屋根の上にさらに屋根がある（？）造りも見かける{{% ex "https://maps.app.goo.gl/dLBCA7WoodUtphrL6" "https://maps.app.goo.gl/PRkcvkZY2JkV46347" "https://maps.app.goo.gl/pdkQAsJiYhcVVPVm7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Alleppey_river_ride.jpg#/media/File:Alleppey_river_ride.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Alleppey_river_ride.jpg" alt="Alleppey river ride.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bharath_maraboina123&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bharath maraboina123 (page does not exist)">Bharath maraboina123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49516918">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Kerala" %}}
+{{% notice tip %}}
+Goaと同じく雨が多く、背の高いヤシが見つかる{{% ex "https://maps.app.goo.gl/aHTmvXeGD1bsM5pq8" %}}。Keralaの伝統的な建築は２階建てのものが多い{{% ex "https://maps.app.goo.gl/i8FxivqpAVPrqfFXA" %}}{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "インド・ネパールにおける伝統建築の技法と伝承" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="machukuzhy_sunnys_home.jpg" witdh="95%">
+</div>
+{{% /tab %}}
+{{% tab "Assam" %}}
+{{% notice tip %}}
+Kerala州やAssam州のような降水量が多い地域はこんな感じの背の高い木が多い{{% ex "https://maps.app.goo.gl/79D7w31pSnJxvX6N6" "https://maps.app.goo.gl/wbZz4zSrbhBNjJm17" %}}{{% ref "https://en.wikipedia.org/wiki/Areca_catechu" "Areca catechu" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="arecanut_trees_assam.jpg">
+</div>
+{{% notice tip %}}
+Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}。レンガのような重い素材は地震で崩れてしまう。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg#/media/File:House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg" alt="House of Mising people on the bank of Rangandi River.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Nalbarian" title="User:Nalbarian">Nalbarian</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=95668448">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

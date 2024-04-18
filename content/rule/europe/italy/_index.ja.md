@@ -77,7 +77,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 
 
 {{% notice tip %}}
-角張った板に丸い縁取りの線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ppcYcG47cgUeSsxB7" "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号の看板も同様{{% ex "https://maps.app.goo.gl/DcwEUyM5Mg7TzhaW9" %}}。
+角張った板に角が丸い線が描かれた標識が多い{{% ex "https://maps.app.goo.gl/ppcYcG47cgUeSsxB7" "https://maps.app.goo.gl/ZW9EQhKD6ksFTDcd7" "https://maps.app.goo.gl/vMDKCm62K1PggsFaA" "https://maps.app.goo.gl/gCkAUEz9Gi51LfRA6" "https://maps.app.goo.gl/4wDa7AJBF3QTSNfh7" %}}。道路番号{{% ex "https://maps.app.goo.gl/DcwEUyM5Mg7TzhaW9" %}}・通り名看板・補助標識も同じなので標識があればイタリアと分かるパターンが多い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -87,6 +87,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 <img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
 <img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
 <img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
+<img src="./r/roadside.jpg" width="80px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
@@ -317,6 +318,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ヨーロッパ最大の活火山であるEtna火山があり、とても黒っぽい土が道端に広がっている</li>
+        <li>Giglio島は島全体の9割が地中海性森林であり多くマツの林が多く見つかる{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" %}}</li>
         <li class="no-evidence">Pantelleria島は黒っぽい石の石垣が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%B3%E3%83%86%E3%83%83%E3%83%AC%E3%83%AA%E3%83%BC%E3%82%A2%E5%B3%B6" "パンテッレリーア島" %}}</li>
         <li>Egadi諸島にいる時はサンタカテリーナ城が目印になる{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/B4uKpr3jxNkoVUUSA" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}{{% ref "https://www.mareandmoretour.it/eng/da-non-perdere/favignana-castello-caterina-17" "CASTLE OF SANTA CATERINA FAVIGNANA" %}}</li>
         <li>Lampedusa島は看板やバス停に島名が書いてある{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}</li>
@@ -333,6 +335,14 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./mount_etna_sicily_italy.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Giglio島" %}}
+{{% notice tip %}}
+Giglio島は島全体の9割が地中海性森林{{% ref "https://en.wikipedia.org/wiki/Isola_del_Giglio" "Isola del Giglio" %}}。マツの木が群生している様子が見受けられる{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" "https://maps.app.goo.gl/XuqdC3Rr7Ya2augE9" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./Giglio_Campese.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria島" %}}
