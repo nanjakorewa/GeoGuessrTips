@@ -21,6 +21,7 @@ sc: [
     ["../pakistan/", "パキスタン"],
     ["../srilanka/", "スリランカ"],
     ["../cambodia/", "カンボジア"],
+    ["../../middle_east/lebanon/", "レバノン"],
     ]
 ---
 
