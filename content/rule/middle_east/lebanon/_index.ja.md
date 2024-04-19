@@ -78,7 +78,7 @@ sc: [
 {{% /tabs  %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>レバノン山脈とアンチレバノン山脈の間にベッカー渓谷があり、ベッカー県の首都Zahléがある{{% ref "https://en.wikipedia.org/wiki/Zahl%C3%A9" "और देखें" %}}</li>
     </ul>
