@@ -76,3 +76,25 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs  %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>レバノン山脈とアンチレバノン山脈の間にベッカー渓谷があり、ベッカー県の首都Zahléがある{{% ref "https://en.wikipedia.org/wiki/Zahl%C3%A9" "और देखें" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Zahlé" %}}
+
+{{% notice tip %}}
+レバノン山脈とアンチレバノン山脈に挟まれているので東西に山脈が見える{{% ex "https://maps.app.goo.gl/t8tmZaQJsbJDPw4F8" "https://maps.app.goo.gl/mpPxcFWLw3Jaqn799" %}}はずだがカメラの向きが変だったりするので正確な向きは判断が難しい。またベッカー渓谷全体で農業が盛んにおこなわれている{{% ex "https://maps.app.goo.gl/HJAt9FVAaJ16QtfAA" "https://maps.app.goo.gl/ADjg4XSJowSa85g27" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./zahle_lebanon.jpg" width="95%">
+</div>
+
+{{% /tab %}}
+{{% /tabs  %}}
