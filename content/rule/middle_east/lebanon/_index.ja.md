@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-黄色い電柱や黄色い鉄塔は経験上レバノン以外ではあまり見ない{{% ex "https://maps.app.goo.gl/xdFMESn5LBEHgMui9" "https://maps.app.goo.gl/bEerbAqrPExXDY1Y7" "https://maps.app.goo.gl/DbvVcWYsmqXWVNCk7" "https://maps.app.goo.gl/8wnu2MS3mpJWKt929" %}}。普通の灰色の鉄塔も多い{{% ex "https://maps.app.goo.gl/SFGYEXCT4pAbVsAx8" "https://maps.app.goo.gl/JtRL9aZvZ5nVxZtK6" %}}。
+黄色い電柱や黄色い鉄塔は経験上レバノン以外ではあまり見ない{{% ex "https://maps.app.goo.gl/eLUbKaNcUDC5xrhm6" "https://maps.app.goo.gl/y3iMD6PSh1S3ApFm7" "https://maps.app.goo.gl/xdFMESn5LBEHgMui9" "https://maps.app.goo.gl/DbvVcWYsmqXWVNCk7" "https://maps.app.goo.gl/8wnu2MS3mpJWKt929" %}}。普通の灰色の鉄塔も多い{{% ex "https://maps.app.goo.gl/SFGYEXCT4pAbVsAx8" "https://maps.app.goo.gl/JtRL9aZvZ5nVxZtK6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -59,7 +59,7 @@ sc: [
 
 
 {{% notice tip %}}
-地中海性気候であり少し乾燥した山脈と大地が広がっている{{% ex "https://maps.app.goo.gl/vdUxoiKnr7s6TtLr6" "https://maps.app.goo.gl/mZymeoD8phd6xbfo7" %}}。
+地中海性気候であり少し乾燥した山脈と大地が広がっている{{% ex "https://maps.app.goo.gl/vdUxoiKnr7s6TtLr6" "https://maps.app.goo.gl/foSovhYVXjd8sqzWA" "https://maps.app.goo.gl/mZymeoD8phd6xbfo7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
