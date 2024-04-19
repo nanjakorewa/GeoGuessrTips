@@ -33,7 +33,6 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./us_navy_100602_n_2.jpg" width="91%">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683461677313!6m8!1m7!1sGAdV25u08kU-py4bpjO89g!2m2!1d28.20745709594773!2d-177.3754815916076!3f43.38802899241253!4f-5.838542092352043!5f1.8674666340082728" width="90%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
