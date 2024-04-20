@@ -270,7 +270,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% notice tip %}}
-アウトストラーダのマークがある場合はサルデーニャ島<span style="color:red;font-weight:bold">でない</span>可能性が高い。
+アウトストラーダのマーク（８角形の道路番号）がある場合はサルデーニャ島<span style="color:red;font-weight:bold">でない</span>可能性が高い。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -287,7 +287,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 
 {{% notice tip %}}
-街中ならATMを見ると「Banco di Sardegna」と書いてあることが多い。
+街中ならATMを見ると「Banco di Sardegna」の緑の丸いロゴが書いてあることが多い{{% ex "https://maps.app.goo.gl/97TqWgTf5xaoZRuc7" "https://maps.app.goo.gl/SeVBwcmNKtRkn4cj8" "https://maps.app.goo.gl/4twt16c97pz5GEui9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./Banco_di_Sardegna.svg" width="500px">
