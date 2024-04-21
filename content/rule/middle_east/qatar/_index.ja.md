@@ -65,7 +65,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697359686568!6m8!1m7!1sPzRiYIpuk3U7Hxa6Y_JTbQ!2m2!1d25.57816549545542!2d51.49583103885215!3f90.82664649310988!4f-0.6260879082174569!5f1.2082391987296366" width="47%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% notice tip %}}周りに平坦な砂漠が広がっている{{% ex "https://maps.app.goo.gl/a43UjDVjkPTqQkWj7" "https://maps.app.goo.gl/3SJqibYX4CU1Gg5e7" %}}。国土の大部分は平坦な砂地で最も高い地点でも標高は約100ｍしかない。
+{{% notice tip %}}周りに平坦な砂漠が広がっている{{% ex "https://maps.app.goo.gl/a43UjDVjkPTqQkWj7" "https://maps.app.goo.gl/3SJqibYX4CU1Gg5e7" %}}。国土の大部分は平坦な砂地で最も高い地点でも標高は約100ｍしかない。一方で{{% goto "../united_arab_emirates/" "アラブ首長国連邦" %}}は2000m以上の山が存在し、完全に平坦な場所は少ない。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
