@@ -119,8 +119,29 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 {{% /tab %}}
 {{% /tabs %}}
 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>州は38個ある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "州" %}}
+{{% notice tip %}}州は38個ある。より細かい単位としてkabupatenがある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Peta_provinsi_Indonesia.svg#/media/File:Peta_provinsi_Indonesia.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Peta_provinsi_Indonesia.svg" alt="Peta provinsi Indonesia.svg" height="587" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bennylin" title="User:Bennylin">Bennylin</a> - <span class="int-own-work" lang="en">Own work</span>, derived from <a href="//commons.wikimedia.org/wiki/File:Indonesia_blank_map_colored.svg" title="File:Indonesia blank map colored.svg">File:Indonesia blank map colored.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135700287">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">建築</h4>
     <ul class="rule-list">
         <li>インドネシアには多数の民族があり文化や民族によって建物の見た目が異なる{{% by "https://youtu.be/6xmUB66kxcA?t=255" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}{{% ref "https://id.wikipedia.org/wiki/Kategori:Rumah_adat_di_Indonesia" "インドネシアの伝統家屋一覧 / Rumah adat di Indonesia" %}}</li>
         <li>{{% goto "https://www.plonkit.net/indonesia" "plonkitのインドネシアのページ" %}}が詳しいのでこれを見る
@@ -320,8 +341,9 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-        <li>Kabupatenや都市名を覚える{{% ref "https://en.wikipedia.org/wiki/List_of_regencies_and_cities_of_Indonesia" "List of regencies and cities of Indonesia" %}}。間違えたら点がかなり持ってかれそうなところのみメモ。
+    <ul class="rule-list"> 
+        <li>Kabupatenの位置を覚える（{{% goto "https://juraganposter.net/product_images/uploaded_images/peta-indonesia-hd-pdf-08.jpg" "マップ" %}}、参考文献先で確認してください）{{% ref "https://juraganposter.net/blog/peta-indonesia-hd-pdf/" "Peta Indonesia HD PDF" %}}</li>
+        <li>間違えたら点がかなり持ってかれそうなところ
             <ul>
                 <li>Aceh{{% ex "https://maps.app.goo.gl/Bist9SqqxLQhp23w8" %}}</li>
                 <li>Maluku UtaraのTernate市{{% ex "https://maps.app.goo.gl/PXf3fXyAF1JSbGD19" %}}</li>
