@@ -127,7 +127,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>わからない、全部同じに見える</li>
+        <li><s>わからない、全部同じに見える</s></li>
         <li class="no-evidence">大豆っぽい畑をみたらダッカとチッタゴンのちょうど真ん中あたり（道路番号Z14～の地域）に行ってみる？</li>
     </ul>
 </div>
@@ -136,12 +136,8 @@ sc: [
 {{% tab "大豆" %}}
 
 {{% notice tip %}}
-（これが大豆である確証はないけれど）大豆の90%以上はダッカとチッタゴンの間の地域で作られている。下は参考のアメリカの大豆畑の画像。
+大豆の90%以上はダッカとチッタゴンの間の地域で作られている{{% ex "https://maps.app.goo.gl/zc4qe6VgCXoveNiF8" "https://maps.app.goo.gl/vDFjgFhdZeRu3Aoq6" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686997224332!6m8!1m7!1smbgUH_ld56nAP0CX86OYyQ!2m2!1d22.89854130233651!2d91.01574225907122!3f168.52047113755174!4f-12.702088935898928!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686997450660!6m8!1m7!1szWGSG8Pbh2oqBVPY_RdgQg!2m2!1d23.03944280277026!2d91.06665364307712!3f190.57993983921108!4f-24.817397852552673!5f2.597246253790518" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 <div class="googlemap-if unclickable">
 <img src="2023-06-19-08-52-31.png" width="90%">
