@@ -237,6 +237,33 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">農業</h4>
+    <ul class="rule-list">
+        <li><span style="color:#a260bf;">■</span>ブドウ畑が広がる
+            <ul>
+                <li>Bordeaux周辺{{% ex "https://maps.app.goo.gl/DiNZfLv99Kxryt5C9" "https://maps.app.goo.gl/XmWoK38HCAqxwM9k7" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "農業の分布" %}}
+
+{{% notice tip %}}
+図の出典：Swinnen, Johan, Pavel Ciaian, and d’Artis Kancs. Study on the Functioning of Land Markets in the EU Member States under the Influence of Measures applied under the Common Agricultural Policy. No. 04/2008. EERI Research Paper Series, 2008.
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="pointer-events: none;">
+<img src="./Map-of-France-with-the-various-types-of-farming.png">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
     <h4 class="section-title">言語</h4>
     <ul class="rule-list">
         <li>町の名前の語尾で地域が分かることがある
