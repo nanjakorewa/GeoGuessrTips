@@ -56,7 +56,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 <img src="./amman_jordan_citadel_hill.jpg" width="95%">
 </div>
 
-{{% notice tip %}}中東でGoogle Carが<span class="quiz">黒い</span>のはここだけ{{% ex "https://goo.gl/maps/sXpE66c2PbeKgpzo6" "https://goo.gl/maps/5cPqpoiFsjKHfi2g8" %}}
+{{% notice tip %}}中東でGoogle Carが<span class="quiz">黒い</span>のは基本的にヨルダンだけ{{% ex "https://goo.gl/maps/sXpE66c2PbeKgpzo6" "https://goo.gl/maps/5cPqpoiFsjKHfi2g8" %}}。{{% goto "../lebanon/" "レバノン" %}}も稀に黒く見える場所がある{{% ex "https://maps.app.goo.gl/Zj4oeReAzkUD6hGu5" %}}が画質や雰囲気で判断できるはず。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686721751254!6m8!1m7!1sX85VIowtViJab75MmUsKnw!2m2!1d30.10541326031539!2d35.59332678661352!3f221.85901888975042!4f-31.232270970073003!5f2.683378308805699" width="450" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
