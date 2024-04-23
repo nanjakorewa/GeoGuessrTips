@@ -250,6 +250,11 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>中央のLimoges周辺{{% ex "https://maps.app.goo.gl/rQarmukA9peTtD386" "https://maps.app.goo.gl/sn1S4v3Vbs9rpL8B7" %}}</li>
             </ul>
         </li>
+        <li><span style="color:#BDE855;">■</span>山岳地帯付近では羊やヤギが多い
+            <ul>
+                <li>ピレネー山脈周辺{{% ex "https://maps.app.goo.gl/cUB9GEpNWbKotqkAA" "https://maps.app.goo.gl/91tyidyiM1PJ9f8T6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
