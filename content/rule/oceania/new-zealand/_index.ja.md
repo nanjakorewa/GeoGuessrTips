@@ -84,13 +84,17 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 
 {{% notice tip %}}
-黄色の規制標識がある{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h3m5ak9" %}}
+黄色の規制標識がある{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h3m5ak9" "https://maps.app.goo.gl/Fas561ugBzeYVp799" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./r/New_Zealand_PW-66.svg" width="400px">
+<img src="./r/New_Zealand_PW-66.svg" width="320px" style="margin:10px">
 <img src="./r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px">
 <img src="./r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px">
+</div>
+<div class="googlemap-if no-margin">
+<img src="./r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px">
+<img src="./r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px">
 </div>
 
 {{% /tab %}}
