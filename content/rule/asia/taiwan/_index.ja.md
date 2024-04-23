@@ -19,6 +19,10 @@ sc: [
     ["../macau/", "澳門"],
     ["../japan/", "日本の暖かい地域"],
     ]
+map_title: "関連ページ"
+maps: [
+    ["https://donation.yahoo.co.jp/promo/20240403.html", "台湾地震緊急支援募金"],
+    ]
 ---
 
 <div class="main-desciption country-description">

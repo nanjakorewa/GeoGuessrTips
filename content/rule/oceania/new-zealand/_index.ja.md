@@ -82,6 +82,17 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <img src="./img_1492_27.jpg" width="95%">
 </div>
 
+
+{{% notice tip %}}
+黄色の規制標識がある{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h3m5ak9" %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./r/New_Zealand_PW-66.svg" width="400px">
+<img src="./r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px">
+<img src="./r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px">
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}

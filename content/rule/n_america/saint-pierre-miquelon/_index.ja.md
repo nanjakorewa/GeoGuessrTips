@@ -32,18 +32,18 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}フランスの電柱や国旗があって家がカラフルで平坦な場所
+{{% notice tip %}}
+フランスの電柱や国旗があって家がカラフルで平坦{{% ex "https://maps.app.goo.gl/miBfk48MrioFMfXz7" "https://maps.app.goo.gl/eqn4zvXpTH5JumPo9" %}}。{{% goto "../../europe/france/" "フランス" %}}の特徴があるのに雰囲気が{{% goto "../canada/" "カナダ" %}}ならばこの島の可能性が高い。また道路が全体的に赤く染まって見える{{% ex "https://maps.app.goo.gl/HqwzocKrWB6K7P5a9" "https://maps.app.goo.gl/pALh7LVk3Uj1FMvr8" %}}。
 {{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685298451124!6m8!1m7!1sh5Al3vfiOCfWbytcf_A03Q!2m2!1d46.78757535369993!2d-56.14781238352984!3f28.96919468324098!4f-0.31525128576511463!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685298840878!6m8!1m7!1s1D21RBuT9gnehw3KsV-OzQ!2m2!1d47.10031448871037!2d-56.37845346361914!3f288.01953695996787!4f-0.6350714048017778!5f1.676844943359507" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./arena_for_that_basque.jpg" width="95%">
 </div>
 
-{{% notice tip %}}Google Carが特徴的で道路が全体的に赤く染まって見える
+{{% notice tip %}}Google Carが特徴的{{% ex "https://maps.app.goo.gl/vLe5GPWMZMtNiHRu9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685298541031!6m8!1m7!1sWO2UhO5I6CZ_kh-hzVEdXA!2m2!1d47.10055295965375!2d-56.37663146981232!3f124.08130618381097!4f-33.92018079930237!5f0.7543399788957972" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685297984228!6m8!1m7!1s5q5witKGeZy8gVo5Lr7Sng!2m2!1d47.10119932881936!2d-56.3760698294595!3f28.689541558141983!4f-32.57101377631659!5f2.7394621208586054" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+（画像なし）
 </div>
 {{% /tab %}}
-{{% /tabs  %}}
+{{% /tabs %}}
