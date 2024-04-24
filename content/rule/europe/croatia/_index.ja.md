@@ -117,7 +117,7 @@ CC0</a>
 周辺国と比較するとレンガの家が多い{{% ex "https://maps.app.goo.gl/uFNNEbrfaxMg9XEt8" "https://maps.app.goo.gl/V1em4oWucgWKZRuA9" "https://maps.app.goo.gl/crgMLE8HgNJfZUy58" "https://maps.app.goo.gl/rAMsLuMhwDfsbZyX6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./brick_house_house_small.jpg" width="80%">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/m-squared_photos/29033245745/in/photolist-a22vNN-ci6hQS-8cjtwN-dFDZLn-f2YX4y-ci6hvU-H68Vfa-akHFCY-LArFMV-LeyYsv-oQu8G5-btvsnr-dsQ2EJ-QAqWHG-oQQP6H-LEabGJ-HX7QVc-9mJ3zJ-hxoAjr-kTGe2X-oopLaW-91VwbU-xCzQRR-8iWwVv-ywuHcu-pqUpSY-hdrm1B-aFbzAc-nFDv8S-hyMifV-j4Pg6P-b66LDa-FBXHsb-8n5s44-cRa8Zf-hyMhAZ-hydWxB-e2QXN-nryifX-qGhpfv-PAPfQo-JvYamG-JvZW9q-RWwz8A-JrjQEX-pPKRpy-h7rgB1-o8WPtb-brSvjc-fd9FUp" title="brick house"><img src="https://live.staticflickr.com/7522/29033245745_c63467fdec_c.jpg" width="90%" alt="brick house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
