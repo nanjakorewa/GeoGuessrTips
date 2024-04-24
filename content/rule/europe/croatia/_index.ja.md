@@ -81,8 +81,13 @@ CC0</a>
 {{% /lb %}}
 
 {{% notice tip %}}
-「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字。また<b>赤い反射板で角張った細い溝</b>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。こんな感じのガードレールを見てポーランドやトルコではないと思ったならボスニア・ヘルツェゴビナに隣接している<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>を考えてみる。
+「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字。また<b>赤い反射板で角張った細い溝</b>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
 {{% /notice %}}
+{{% notice note %}}
+こんな感じのガードレールを見てポーランドやトルコではないと思ったならボスニア・ヘルツェゴビナに隣接している<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>を考えてみる。
+{{% /notice %}}
+
+
 <div class="googlemap-if unclickable">
 <img src="./autocesta_a5_hrvatska_003.jpg" width="600px">
 </div>
