@@ -81,6 +81,14 @@ sc: [
 </div>
 
 
+{{% notice tip %}}
+チェコと{{% goto "../slovakia/" "スロバキア" %}}では観光用のハイキングコースには白と赤・黄・青・緑で描かれたハイキングマーカーが見つかる{{% ex "https://maps.app.goo.gl/ki4yXzPPXjVmBKqS9" %}}{{% ref "https://www.plonkit.net/czechia" "plonk it" %}}。ただし国際的に普及している規格で周りのほぼすべての国で見つかるので他のヒントと組合わせる必要がある{{% ref "https://en.wikipedia.org/wiki/Czech_Hiking_Markers_System" "Czech Hiking Markers System" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./hm.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 {{% notice tip %}}
