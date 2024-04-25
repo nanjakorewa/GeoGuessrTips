@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い{{% ex "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。またウルグアイの車のナンバープレートは<span class="quiz">白</span>色に近い{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}が、{{% goto "../argentina/" "アルゼンチン" %}}は真ん中が黒く見える。
+<span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い{{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。またウルグアイの車のナンバープレートは<span class="quiz">白</span>色に近い{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}が、{{% goto "../argentina/" "アルゼンチン" %}}は真ん中が黒く見える。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road.jpg" width="90%" alt="ウルグアイの標識" >
