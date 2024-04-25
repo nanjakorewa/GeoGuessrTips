@@ -47,6 +47,10 @@ maps: [
 プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/RyGge7Z8rpDJ5CTq8" "https://maps.app.goo.gl/f4mt7dCtcdUeuzwZ7" "https://maps.app.goo.gl/Hcgk6nqoa2QNGWCU7" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。また、日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/oxRtBE2GhZscrDm48" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。
 {{% /notice %}}
 
+{{% notice info %}}
+カメラが低い点だけ見て{{% goto "../../europe/switzerland/" "スイス" %}}（例:{{% ex "https://maps.app.goo.gl/MZKUm6Ucay8yzyG96" %}}）や{{% goto "../srilanka/" "スリランカ" %}}（例:{{% ex "https://maps.app.goo.gl/g5w8vg9D9pCLG7HPA" %}}）と間違えないように。
+{{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./gifu_prefectural_road_85.jpg" width="90%">
 </div>
