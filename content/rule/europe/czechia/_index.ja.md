@@ -82,7 +82,7 @@ sc: [
 
 
 {{% notice tip %}}
-チェコと{{% goto "../slovakia/" "スロバキア" %}}では観光用のハイキングコースには白と赤・黄・青・緑で描かれたハイキングマーカーが見つかる{{% ex "https://maps.app.goo.gl/DjcYP4soawGYedJeA" "https://maps.app.goo.gl/evCLcZ5QUXUDvN7B9" "https://maps.app.goo.gl/JH7LCc5ycaDXMYLf8" "https://maps.app.goo.gl/ki4yXzPPXjVmBKqS9" %}}{{% ref "https://www.plonkit.net/czechia" "plonk it" %}}。ただし国際的に普及している規格で周りのほぼすべての国で見つかるので他のヒントも探す必要あり{{% ref "https://en.wikipedia.org/wiki/Czech_Hiking_Markers_System" "Czech Hiking Markers System" %}}。
+チェコと{{% goto "../slovakia/" "スロバキア" %}}では観光用のハイキングコースには白と赤・黄・青・緑で描かれたハイキングマーカーが見つかる{{% ex "https://maps.app.goo.gl/DjcYP4soawGYedJeA" "https://maps.app.goo.gl/evCLcZ5QUXUDvN7B9" "https://maps.app.goo.gl/JH7LCc5ycaDXMYLf8" "https://maps.app.goo.gl/ki4yXzPPXjVmBKqS9" %}}{{% ref "https://www.plonkit.net/czechia" "plonk it" %}}。これは国際的に普及している規格なので、数は少ないものの周りのほぼすべての国で見つかる点に注意{{% ref "https://en.wikipedia.org/wiki/Czech_Hiking_Markers_System" "Czech Hiking Markers System" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">

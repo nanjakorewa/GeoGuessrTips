@@ -19,7 +19,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../christmas-island/", "クリスマス島"],
     ["../../asia/indonesia/", "インドネシア"],
-    ["../../cs_america/martinique/", "マルティニーク"],
+    ["../australia/", "オーストラリア"],
     ]
 ---
 
@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的で右前になにか付いている{{% ex "https://goo.gl/maps/f6jFjQHZSXZifEun6" "https://goo.gl/maps/RA6cu78PhQd6wFks5" "https://goo.gl/maps/5UDvrCChANf8uzGG7" %}}。ただしすべての場所でこれが見えるわけではないので注意。
+Google Carが特徴的で右前になにか付いている{{% ex "https://goo.gl/maps/f6jFjQHZSXZifEun6" "https://goo.gl/maps/RA6cu78PhQd6wFks5" "https://goo.gl/maps/5UDvrCChANf8uzGG7" %}}がすべての場所でこれが見えるわけではない。また稀に{{% goto "../australia/" "オーストラリア" %}}でも似た車を使っている場所がある{{% ex "https://maps.app.goo.gl/W7WS4DnaU7RQTdf47" %}}点に注意。
 {{% /notice %}}
 <div class="googlemap-if">
 </div>
