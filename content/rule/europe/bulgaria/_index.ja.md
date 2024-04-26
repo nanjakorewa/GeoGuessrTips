@@ -72,10 +72,10 @@ sc: [
 {{% notice tip %}}「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/georgivar/1178973351/in/photolist-8iniKQ-aoMjp5-2NbxGK-7rCe7U-mRAte" title="Асансьорът на Шиндлер"><img src="https://live.staticflickr.com/1314/1178973351_5b8a142434_w.jpg" width="493" alt="Асансьорът на Шиндлер"/></a>
+<img src="./direction_signs_plovdivs_sister.jpg" width="95%">
 </div>
 
-{{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% ex "https://maps.app.goo.gl/ejG2nFsCEzaYQGwR9" "https://maps.app.goo.gl/4iof8PhKqFXvWZKB9" "https://maps.app.goo.gl/uC3rzE7GAo2CRd696" %}}{{% by %}}。他の国にもあるときはあるので即決はできないかも。
+{{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% ex "https://maps.app.goo.gl/ejG2nFsCEzaYQGwR9" "https://maps.app.goo.gl/4iof8PhKqFXvWZKB9" "https://maps.app.goo.gl/uC3rzE7GAo2CRd696" %}}{{% by %}}。他の国にもあるときはあるのでこれだけで判断しないほうがいいかも。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="gb.jpg" width="95%">
@@ -130,7 +130,7 @@ sc: [
 {{% /tab %}}
 {{% tab "Botev Peak" %}}
 {{% notice tip %}}
-初見では無理{{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}。
+初見では無理{{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}。{{% goto "https://www.geoguessr.com/maps/652ba0d9002aa0d36f996153" "An official world" %}}より出題。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">

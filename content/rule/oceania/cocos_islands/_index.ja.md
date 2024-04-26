@@ -52,6 +52,14 @@ Google Carが特徴的で右前になにか付いている{{% ex "https://goo.gl
 </div>
 
 {{% notice tip %}}
+浸食を防ぐための土嚢が海沿いに積まれている{{% ex "https://maps.app.goo.gl/51P2uPYUuwq6s84t7" "https://maps.app.goo.gl/g52tXP28bPM65sEp6" "https://maps.app.goo.gl/rVyBMVRnCRd7SWzZA" "https://maps.app.goo.gl/61P4z1VhpTiSpPdG6" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./hurricane_irene_beach_damage.jpg">
+</div>
+
+{{% notice tip %}}
 大型車両はほとんど存在せずバギーのような乗り物が多い。離島であるカリフォルニア州のサンタ・カタリナ島{{% ex "https://goo.gl/maps/qdMFme7wb49LS8b89" %}}や{{% goto "../pitcairn/" "ピトケアン諸島" %}}もバギーが多い。
 {{% /notice %}}
 

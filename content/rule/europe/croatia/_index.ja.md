@@ -52,9 +52,8 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/kaminskimateusz/43873050604" title="_DSC2315.jpg"><img src="https://live.staticflickr.com/1859/43873050604_5f01442a63_w.jpg" width="640" alt="_DSC2315.jpg"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hile/27023806014/in/photolist-7jCuyg-WZkQKu-59yxc7-9b24Mr-Hb152U-4Qvnvc-5RDxaF-8qzBDb-6N2enw-2jJQd5B-2nAfamo-2nAkaEt-2jJR1d9-2jJLC74-2jJLC8g-2jJR1zw-2jJLCcE-2jJQd9z-2jJQdeE-2jJQdmZ-2jJLCiS-2jJLCjD-2jJLBTU-2jJLCgx-2jJQdTW-2jJR2mS-2jJLDBZ-2jJQenr-2jJR2NJ-2jJQduz-2jJR2ET-2jJQevs-2jJQcYz-2jJR2ov-2jJQdW1-2jJQe4f-2jJR33b-2jJQe6j-2jJR29c-2jJQeyy-2jJQdFw-2jJR2S1-2jJQdxF-2jJQefY-2jJLDbP-2jJR2fj-2jJLCBC-2jJQdAg-2jJQeBj-2jJR2bX" title="WP_20160612_21_07_39_Rich"><img src="https://live.staticflickr.com/7092/27023806014_a0254234a4_z.jpg" width="640" height="360" alt="WP_20160612_21_07_39_Rich"/></a>
+<img src="./split_croatia_1.jpg" alt="tisak" width="80%">
+<img src="./sanski_most5.jpg" alt="konzum" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -171,6 +170,24 @@ CC0</a>
 <div class="googlemap-if">
 <p><div class="unclickable"><img src="areacode.png" /></div></p>
 <p>出典：<a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom - Međunarodni promet</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>内陸の平坦な地域ではブドウ畑が多いが、Vis島という離島もブドウ畑が多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Vis島" %}}
+{{% notice tip %}}
+島の主な産業はブドウ栽培{{% ex "https://maps.app.goo.gl/SSWENqTiuXZhwL969" "https://maps.app.goo.gl/DqNBW2TBT3CkQvsN9" "https://maps.app.goo.gl/CDrhyrchMuPDJNdQ9" %}}であり島内の耕作地のうち5分の1はブドウ畑。
+{{% /notice %}}
+<img src="./vrbnicko_polje_1.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
