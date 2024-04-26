@@ -68,7 +68,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Dで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/RYnDJGGYdMZ9Wvfa6" "https://maps.app.goo.gl/i1umiKo5td1rHBTs8" %}}。ただしマップから探すのは結構むずかしい。
+Dで始まる道路番号の黄色いプレートがある{{% ex "https://maps.app.goo.gl/gyjFuk3oQjFMp8UD7" "https://maps.app.goo.gl/RYnDJGGYdMZ9Wvfa6" %}}。ただしマップから探すのは結構むずかしい。
 {{% /notice %}}
 
 <div class="googlemap-if">
