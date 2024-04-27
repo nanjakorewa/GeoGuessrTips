@@ -81,6 +81,12 @@ sc: [
 <img src="gb.jpg" width="95%">
 </div>
 
+{{% notice tip %}}路面のコンディションが非常に悪い。現地の人が路面状況マップを作って悪い道を避けるレベル{{% ref "https://www.roads-bg.eu/#8/42.818/24.944" "Bulgarian Road Quality Map" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg#/media/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tsvetarska_Street%2C_Veliko_Tarnovo.jpg" alt="Tsvetarska Street, Veliko Tarnovo.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE" title="User:Андрей Романенко">Андрей Романенко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145099507">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice tip %}}
