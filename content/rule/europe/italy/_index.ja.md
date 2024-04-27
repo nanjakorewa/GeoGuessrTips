@@ -231,11 +231,6 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>カラブリア州{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}
-            <ul>
-                <li>稀に雪が積もっていることもある{{% ex "https://maps.app.goo.gl/pR8mRc29uPutNtFa9" %}}</li>
-            </ul>
-        </li>
         <li>サルデーニャ州{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
             <ul>
                 <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
@@ -243,22 +238,16 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
                 <li class="no-evidence">サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがよくわからない</li>
             </ul>
         </li>
+        <li>カラブリア州{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}
+            <ul>
+                <li>稀に雪が積もっていることもある{{% ex "https://maps.app.goo.gl/pR8mRc29uPutNtFa9" %}}</li>
+            </ul>
+        </li>
         <li>シチリア州ではシチリア自治州の州旗を見かけることがある{{% ex "https://maps.app.goo.gl/AjXb64QKzospHdXv5" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "カラブリア州" %}}
-{{% notice tip %}}
-カラブリア州は観光以外の産業が発達しておらず自然も多い{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}。若者の失業率が50%近くあり、他の州とは経済的な格差が残っている。古い感じの建物も多い{{% ex "https://maps.app.goo.gl/C3aQohxoLDeqeqRR7" "https://maps.app.goo.gl/YWKRNsnQciiHa7LM7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%96%E3%83%AA%E3%82%A2%E5%B7%9E" "カラブリア州" %}}。</li>
-{{% /notice %}}
-
-<div class="googlemap-if unclickable no-margin">
-<p><img src="./trail_caria_tropea01.jpg" width="590"></img>
-<p><a href="https://commons.wikimedia.org/wiki/File:Gariglione.jpg#/media/File:Gariglione.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gariglione.jpg" alt="Gariglione.jpg" width="590"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:GeorgeOrwell1984&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:GeorgeOrwell1984 (page does not exist)">GeorgeOrwell1984</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90559600">Link</a></p>
-</div>
-
-{{% /tab %}}
 {{% tab "サルデーニャ州" %}}
 
 {{% notice tip %}}
@@ -293,11 +282,15 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <img src="./Banco_di_Sardegna.svg" width="500px">
 </div>
 
+{{% /tab %}}
+{{% tab "カラブリア州" %}}
 {{% notice tip %}}
-サルデーニャ島だけにあるオレンジ色がハッキリと見えるボラードがある{{% by %}}らしいがまだ自分がどういうものか理解していない。
+カラブリア州は観光以外の産業が発達しておらず自然も多い{{% ex "https://maps.app.goo.gl/KNvhZRpC2Tekwpy2A" "https://maps.app.goo.gl/bNNjhnXcaM45Teqa7" %}}。若者の失業率が50%近くあり、他の州とは経済的な格差が残っている。古い感じの建物も多い{{% ex "https://maps.app.goo.gl/C3aQohxoLDeqeqRR7" "https://maps.app.goo.gl/YWKRNsnQciiHa7LM7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%83%96%E3%83%AA%E3%82%A2%E5%B7%9E" "カラブリア州" %}}。</li>
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684782046965!6m8!1m7!1sP4IFKQU5BK6CS_BFMSzkhQ!2m2!1d39.43199430857938!2d9.018000990198715!3f351.49282198311755!4f-27.57935045494488!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="googlemap-if unclickable no-margin">
+<p><img src="./trail_caria_tropea01.jpg" width="590"></img>
+<p><a href="https://commons.wikimedia.org/wiki/File:Gariglione.jpg#/media/File:Gariglione.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gariglione.jpg" alt="Gariglione.jpg" width="590"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:GeorgeOrwell1984&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:GeorgeOrwell1984 (page does not exist)">GeorgeOrwell1984</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90559600">Link</a></p>
 </div>
 
 {{% /tab %}}
