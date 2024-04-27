@@ -190,7 +190,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-トイレが屋内にある地域（北西）と屋外にある地域（南東）には経済的な差がある？
+紫の地域ほどトイレが屋外にある。一般にはトイレが屋内にある地域ほど裕福。
 {{% /notice %}}
 
 
@@ -230,19 +230,55 @@ TODO / ブルガリアっぽい建物があるかも。
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>ドナウ・デルタと呼ばれるヨーロッパの三角州エリアの間を船で移動する区間がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF" "ドナウ・デルタ" %}}</li>
-        <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}
+        <li>中央の山脈以外の地域には平坦な場所が多く農業がおこなわれている
             <ul>
-                <li>ひまわりは東側で多く栽培されている</li>
+                <li> {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布"  %}}</li>
+                <li>ひまわりは東側で多く栽培されている{{% ex "https://maps.app.goo.gl/RHdgzau9Z6HzRqjy6" %}}</li>
                 <li>コーンや菜種はカララシ県の周辺のフラットな地域で多く栽培されている{{% ex "https://goo.gl/maps/HEpByYWS1sTh8dLi7" "https://goo.gl/maps/iZo3PQ3smUJ3gbo9A" "https://goo.gl/maps/ieUvrPCecxXHCQ1Z8" "https://goo.gl/maps/fUS1N5LgsTUzfiYi8" %}}</li>
             </ul>
         </li>
+        <li>一部の都市では石油が生産されており工業化が進んでいる
+            <ul>
+                <li>Ploieşti{{% ex "https://maps.app.goo.gl/TMkVw6nuouKSt2Lv5" "https://maps.app.goo.gl/qGG3DoX5ETQkg5Uu5" %}}</li>
+                <li>Ploieşti{{% ex "https://maps.app.goo.gl/AJX72pYFpiThJNnA9" %}}</li>
+            </ul>
+        </li>
+        <li>ドナウ・デルタと呼ばれるヨーロッパの三角州エリアの間を船で移動する区間がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF" "ドナウ・デルタ" %}}</li>
     </ul>
 </div>
 
 
 
 {{% tabs %}}
+{{% tab "農作地" %}}
+{{% notice tip %}}
+オレンジの地域は農業がおこなわれている。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./Romania_land_use_(1970).jpg" width="500px">
+</div>
+
+{{% notice tip %}}
+東側に多いが西にも無いわけではない。ひまわり畑があるとき、周辺のブルガリア・セルビア・ハンガリー・ウクライナのどこかにいるならばルーマニアの近くに寄せるのはアリな気がする。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./sun_flower_sunflower_field_1.jpg" width="500px">
+</div>
+
+{{% /tab %}}
+{{% tab "工業都市" %}}
+{{% notice tip %}}
+図でオレンジで示されている場所は石油製油所があり工業化が進んでいる{{% ex "https://maps.app.goo.gl/iCs7PzL8KXd4NnDP8" "https://maps.app.goo.gl/YE9oBBXpC68j2Q4s6" %}}。『refinery』などで検索すると製油所の位置が表示される。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./Romania_resources_(1970).jpg" width="500px">
+<img src="./factory_smokestack_industrial_power.jpg" width="500px">
+</div>
+
+{{% /tab %}}
 {{% tab "ドナウ・デルタ" %}}
 {{% notice tip %}}
 ドナウ・デルタと呼ばれるヨーロッパの三角州エリアの間を船で移動する区間がある{{% ex "https://maps.app.goo.gl/YE9oBBXpC68j2Q4s6" %}}。
@@ -250,16 +286,6 @@ TODO / ブルガリアっぽい建物があるかも。
 
 <div class="googlemap-if">
 <img src="./the_danube_delta_1.jpg">
-</div>
-
-{{% /tab %}}
-{{% tab "ひまわり畑" %}}
-{{% notice tip %}}
-東側に多いが西にも無いわけではないので参考程度。ひまわり畑があるとき、周辺のブルガリア・セルビア・ハンガリー・ウクライナのどこかにいるならばルーマニアの近くに寄せるのはアリな気がする。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684470352192!6m8!1m7!1sjbXvrKql7rKvUppx5CIKlQ!2m2!1d44.99873497073138!2d28.26096536490912!3f233.57437776441674!4f-2.810643552049882!5f1.5504235819947265" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
