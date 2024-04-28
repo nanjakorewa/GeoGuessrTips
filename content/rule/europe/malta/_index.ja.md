@@ -37,7 +37,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-石灰岩を使った薄い黄土色の壁が島中に存在する。見た目が似ている石壁は{{% goto "../italy/" "イタリア南部" %}}や{{% goto "../balearic-islands/" "バレアレス諸島" %}}にも見られるので<span class="quiz">左側</span>通行であることも確認する。
+石灰岩を使った薄い黄土色の壁が島中に存在する{{% ex "https://maps.app.goo.gl/i82qdNGiz7cGZ8rp7" "https://maps.app.goo.gl/WhX6JvAqhV2e3omj7" %}}。見た目が似ている石壁は{{% goto "../italy/" "イタリア南部" %}}や{{% goto "../balearic-islands/" "バレアレス諸島" %}}にも見られるので<span class="quiz">左側</span>通行であることも確認する。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg#/media/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Unnamed_Road%2C_Siggiewi%2C_Malta_-_panoramio_%2883%29.jpg" alt="Unnamed Road, Siggiewi, Malta - panoramio (83).jpg" width="90%"></a></p>
