@@ -12,12 +12,12 @@
   <title>{{ .Params.subtitle }}</title>
   {{ else if .Params.flag }}
     {{ if eq .Page.Lang "ja" }}
-    <title>{{ .Params.title }}を見分ける - ジオゲッサーの攻略メモ</title>
+    <title>Geoguessrで{{ .Params.title }}を見分ける - ジオゲッサーの攻略メモ</title>
     <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:title" content="{{ .Params.title }}を見分ける - ジオゲッサーのメモ">
-    <meta property="og:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
-    <meta name="twitter:title" content="{{ .Params.title }}を見分ける - ジオゲッサーのメモ">
-    <meta name="twitter:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
+    <meta property="og:title" content="Geoguessrで{{ .Params.title }}を見分ける - ジオゲッサーのメモ">
+    <meta property="og:description" content="Geoguessrで{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
+    <meta name="twitter:title" content="Geoguessrで{{ .Params.title }}を見分ける - ジオゲッサーのメモ">
+    <meta name="twitter:description" content="Geoguessrで{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
     {{ else }}
     <title>{{ .Params.title }} - My Geogesser Tips</title>
     {{ end }}
