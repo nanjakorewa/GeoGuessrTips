@@ -139,7 +139,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-スロバキアは円形の標識の一部にすごい太いフォントを使用していることがある{{% ex "https://maps.app.goo.gl/QDsGzdv2kPadoHAG9" %}}
+スロバキアは円形の標識の一部にすごい太いフォントを使用していることがある{{% ex "https://maps.app.goo.gl/3rnZtXfbDsUmvFge9" "https://maps.app.goo.gl/QDsGzdv2kPadoHAG9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
