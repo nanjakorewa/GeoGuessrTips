@@ -68,12 +68,11 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 
 
 {{% notice tip %}}
-タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://maps.app.goo.gl/bc1po2sEt9xfbbfn9" "https://maps.app.goo.gl/EyPrFHbu1zCNyvcC8" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。道のタイルも特徴的{{% ref "https://www.plonkit.net/ecuador" "plonkit" %}}だけれど、他の国でもたまに見つかる（{{% goto "../../n_america/mexico/" "メキシコ" %}}の例{{% ex "https://maps.app.goo.gl/7HMyKTjibtQV5hkR8" "https://maps.app.goo.gl/LYthgJHkwnc2HCAY7" %}}）ので周りの様子も合わせてエクアドルと判断する。
+タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://maps.app.goo.gl/bc1po2sEt9xfbbfn9" "https://maps.app.goo.gl/EyPrFHbu1zCNyvcC8" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/bartlinssen/27492854789/" title="Untitled"><img src="https://live.staticflickr.com/4634/27492854789_3fb1d86769_z.jpg" width="640" height="480" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="./tile.jpg" width="640" >
 </div>
 
 {{% lb 50 %}}
