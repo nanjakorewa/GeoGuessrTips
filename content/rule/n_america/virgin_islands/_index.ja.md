@@ -28,10 +28,30 @@ is_has_distinctive_googlecar: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}北側の島は車が<span class="quiz">白</span>く起伏が多い。家が少なく緑が広がっているときは<span class="quiz">北東のセント・ジョン</span>島へ、逆に住民や観光客が多そうならば<span class="quiz">北西のセント・トーマス</span>島を考える。北東のセント・ジョン島はが奴隷貿易時代にサトウキビ生産が行われていた製糖工場（Annaberg Sugar Plantation）跡地があるが現在は衰退しており人口がとても少ない{{% ex "https://maps.app.goo.gl/5CqbwZJ8GKSJRi1V8" %}}。
+{{% notice tip %}}北側の島は車が<span class="quiz">白</span>く起伏が多い。住民や観光客が多そうならば<span class="quiz">北西のセント・トーマス</span>島を考える{{% ex "https://maps.app.goo.gl/BitmyHn7LVHVE3Jj8" "https://maps.app.goo.gl/bmpYiymkBEo7Z4Vj6" %}}。
 {{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683844706042!6m8!1m7!1s3oeeosUfFRbfnC2iL9uhSQ!2m2!1d18.34326341799792!2d-64.75771262692705!3f282.7956575283312!4f-56.51068544939114!5f0.7820865974627469" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./st_thomas_virgin_islands_1.jpg" width="95%">
+</div>
+
+
+{{% notice tip %}}北側の島は車が<span class="quiz">白</span>く起伏が多い。家が少なく緑が広がっているときは<span class="quiz">北東のセント・ジョン</span>島を考えてみる。奴隷貿易時代にはサトウキビ生産が行われていたため製糖工場（Annaberg Sugar Plantation）跡地があるが、現在は衰退しており人口がとても少ない{{% ex "https://maps.app.goo.gl/5CqbwZJ8GKSJRi1V8" "https://maps.app.goo.gl/FYfZM5hNr4oHw3Yu9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./east_end.jpg" width="95%">
+</div>
+
+
+
+
+{{% notice tip %}}2016年までは水色のナンバープレートが使用されていた{{% ex "https://maps.app.goo.gl/45eDE7xETWB7Hm3G6" %}}。紺色や水色のナンバープレートが見つかる。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><img src="./640px-Virgin_Islands_license_plate.jpg" width="440"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:United_States_Virgin_Islands_license_plate_2015.jpg#/media/File:United_States_Virgin_Islands_license_plate_2015.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/United_States_Virgin_Islands_license_plate_2015.jpg" alt="United States Virgin Islands license plate 2015.jpg" width="440"></a></p>
+<p>下の画像のみ By <a href="//commons.wikimedia.org/wiki/User:Mattes" title="User:Mattes">User:Mattes</a> - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by/2.0/de/deed.en" title="Creative Commons Attribution 2.0 de">CC BY 2.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48995829">Link</a></p>
 </div>
 
 {{% notice tip %}}
