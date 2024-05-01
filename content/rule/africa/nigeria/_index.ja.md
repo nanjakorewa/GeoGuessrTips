@@ -38,11 +38,17 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/pojYCUYFLgrpnwNy6" "https://maps.app.goo.gl/murVnQhvniJVHoJLA" "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/BrPWSuB7H3FmqB7o9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。そしてナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑や青色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。{{% goto "../saotome/" "サントメ・プリンシペ" %}}にも仕切り電柱がある点に注意。
+仕切りのある電柱がある{{% ex "https://maps.app.goo.gl/pojYCUYFLgrpnwNy6" "https://maps.app.goo.gl/murVnQhvniJVHoJLA" "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/BrPWSuB7H3FmqB7o9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}。{{% goto "../saotome/" "サントメ・プリンシペ" %}}にも仕切り電柱がある点に注意。
 {{% /notice %}}
+
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%">
 </div>
+
+
+{{% notice tip %}}
+ナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑や青色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/GpS1ev2hRBp5BcYG8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+{{% /notice %}}
 
 {{% lb 50 %}}
 ![](./НІГЕРІЯ_НОМЕР_2012.gif)
@@ -73,17 +79,6 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 </div>
 
 {{% /tab %}}
-{{% tab "w-viecle" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854349351!6m8!1m7!1sVEmCuj_hJ169SRu1sEqsuA!2m2!1d6.460371642532762!2d7.493418113273444!3f23.871891209378983!4f-10.141513841761409!5f3.3246080442816175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "電柱" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854562480!6m8!1m7!1syiEjGBhayoOdpLrXFIOsag!2m2!1d6.67266544030606!2d3.312221930570927!3f188.50999469130915!4f-8.341239190692107!5f1.6021556725762478" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686927253225!6m8!1m7!1s1M70fWp0fJw_8P-adNJrpA!2m2!1d6.474586597493951!2d3.562058211014273!3f282.62577029999335!4f3.2687283677445436!5f1.3205476195043677" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "w-commercial" %}}
 
 {{% notice tip %}}
@@ -92,13 +87,6 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679887010318!6m8!1m7!1sE_F2ShVxPyhM75vdTArfRg!2m2!1d6.59987404201229!2d3.375620061922172!3f338.51068283511484!4f1.650537544582619!5f1.5380782434409297" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-googlecar" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854300975!6m8!1m7!1sCYZAITnbOsjhWpqv6oCQHw!2m2!1d6.460632962556097!2d7.494037638197613!3f62.47937376131735!4f-55.67352482695545!5f0.4224407218370322" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854467975!6m8!1m7!1sTDDOWCZ_zO9HpMhL3Unjaw!2m2!1d6.674669558817172!2d3.310991907104836!3f147.01826933090518!4f-89!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679887228862!6m8!1m7!1sUfpxtTNF_4S8exKiYR8Avg!2m2!1d6.60009298151657!2d3.377843834579361!3f131.48897303132352!4f-41.12882916360397!5f0.6823642230179563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
