@@ -125,6 +125,23 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>南東の湖周りは山がちなエリアが多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "山がちなエリア" %}}
+{{% notice tip %}}
+このマップの白い部分は高い山が多い{{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./Ghana_physical_map.svg" width="70%" />
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
 {{% imgref %}}
 <li><a href="https://twitter.com/fortune_sibanda/status/693167610054250496?s=20">*オリジナルのツイート『Google StreetView driving in Ghana started today. #MoreVim! from @fortune_sibanda』</a>, 本人に掲載許可頂いてます.</li>
 {{% /imgref %}}
