@@ -78,3 +78,5 @@
   translation: arti ikon
 - id: streaming_status
   translation: status streaming
+- id: is_has_no_official_coverage
+  translation: tidak ada liputan resmi

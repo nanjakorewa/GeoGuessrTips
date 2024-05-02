@@ -11,7 +11,8 @@ bg: "bg/city.jpg"
 flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
-plonkit: true
+plonkit: false
+is_unofficial: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../south-africa/", "南アフリカ"],

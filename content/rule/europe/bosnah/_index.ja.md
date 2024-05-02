@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "BA.svg"
 no_detaile_info: true
 jetro_detail: false
+is_unofficial: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../slovenia/", "スロベニア"],

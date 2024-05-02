@@ -10,7 +10,7 @@ bg: "bg/city.jpg"
 flag: "ZANZ.svg"
 no_detaile_info: true
 jetro_detail: true
-is_has_distinctive_googlecar: true
+is_unofficial: true
 sc_title: "関連ページ"
 sc: [
     ["../tanzania/", "タンザニア"],

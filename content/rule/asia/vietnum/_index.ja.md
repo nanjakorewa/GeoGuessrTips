@@ -11,6 +11,7 @@ flag: "VN.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+is_unofficial: true
 ---
 
 <div class="main-desciption country-description">

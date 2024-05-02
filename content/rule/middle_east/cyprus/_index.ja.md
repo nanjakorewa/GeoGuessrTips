@@ -13,6 +13,7 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
+is_unofficial: true
 ---
 
 <div class="main-desciption country-description">

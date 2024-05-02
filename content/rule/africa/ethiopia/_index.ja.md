@@ -11,6 +11,7 @@ flag: "ET.svg"
 no_detaile_info: true
 jetro_detail: false
 flag_height: "350px"
+is_unofficial: true
 ---
 
 <div class="main-desciption country-description">

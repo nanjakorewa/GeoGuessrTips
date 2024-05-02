@@ -80,3 +80,5 @@
   translation: Icon
 - id: streaming_status
   translation: streaming status
+- id: is_has_no_official_coverage
+  translation: no official coverage
