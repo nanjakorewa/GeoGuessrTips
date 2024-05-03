@@ -104,11 +104,46 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
-        <li>RN6・RN9道路の舗装も近いRN4に近い景色で、赤と白のボラード・路側帯付近に反射板がある</li>
+        <li>西ほど標高が高く、東は平地が広がっている</li>
         <li>標高が低い場所は家の壁にセメントで色を付ける文化があるらしい（<a href="https://trip-s.world/bolivia-house">出典</a>）</li>
         <li>標高が高いほどシンプルなレンガ造りが多い</li>
         <li>木が無くて周りが山で家がまばらだと<span class="quiz">チチカカ湖付近</span>かも{{% by %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "地形" %}}
+
+<div class="googlemap-if no-margin">
+<img src="./750px-Bolivia_Topography.png" width="90%" />
+</div>
+{{% /tab %}}
+{{% tab "標高が低い場所" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679813951600!6m8!1m7!1sQJGqwFtDGPzUKSqwJ1QVQA!2m2!1d-17.77139549244364!2d-63.11097934771753!3f253.7606520157439!4f-10.953950473285772!5f1.6485012874313432" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814081593!6m8!1m7!1sZQr3C-bNtD-rL_lC2hXnSg!2m2!1d-17.79584406502019!2d-63.17419938666396!3f116.44482324171602!4f-8.400050107833763!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "標高が高い場所" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681046598224!6m8!1m7!1s-hLLISV3sspOi0imUwUtTQ!2m2!1d-19.58438204900572!2d-65.74568086085463!3f23.825621356209467!4f-5.491415703211672!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679814032711!6m8!1m7!1sFSki3TR90NUS-SYIVfx1eg!2m2!1d-16.50206580841095!2d-68.19699580026527!3f97.8139935632015!4f1.9383141508718467!5f1.5592948283649846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "チチカカ湖周辺" %}}
+{{% notice tip %}}
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681046560295!6m8!1m7!1sVw-4cks2I0ZvMgb4e5KRPQ!2m2!1d-17.07892566464851!2d-68.4636347028358!3f330.9684410577023!4f1.4459819110156502!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
+        <li>RN6・RN9道路の舗装も近いRN4に近い景色で、赤と白のボラード・路側帯付近に反射板がある</li>
     </ul>
 </div>
 
@@ -132,26 +167,6 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Ruta_9,_Bolivia.JPG#/media/File:Ruta_9,_Bolivia.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta_9%2C_Bolivia.JPG" alt="Ruta 9, Bolivia.JPG" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Grullab" title="User:Grullab">Grullab</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99513764">Link</a></p>
-</div>
-{{% /tab %}}
-{{% tab "標高が低い場所" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679813951600!6m8!1m7!1sQJGqwFtDGPzUKSqwJ1QVQA!2m2!1d-17.77139549244364!2d-63.11097934771753!3f253.7606520157439!4f-10.953950473285772!5f1.6485012874313432" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679814081593!6m8!1m7!1sZQr3C-bNtD-rL_lC2hXnSg!2m2!1d-17.79584406502019!2d-63.17419938666396!3f116.44482324171602!4f-8.400050107833763!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "標高が高い場所" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046598224!6m8!1m7!1s-hLLISV3sspOi0imUwUtTQ!2m2!1d-19.58438204900572!2d-65.74568086085463!3f23.825621356209467!4f-5.491415703211672!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679814032711!6m8!1m7!1sFSki3TR90NUS-SYIVfx1eg!2m2!1d-16.50206580841095!2d-68.19699580026527!3f97.8139935632015!4f1.9383141508718467!5f1.5592948283649846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "チチカカ湖周辺" %}}
-{{% notice tip %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680005632153!6m8!1m7!1s_1IeDm7vG92oHcloIaycPw!2m2!1d-16.29897607926427!2d-68.50236327814967!3f0!4f0!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681046560295!6m8!1m7!1sVw-4cks2I0ZvMgb4e5KRPQ!2m2!1d-17.07892566464851!2d-68.4636347028358!3f330.9684410577023!4f1.4459819110156502!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
