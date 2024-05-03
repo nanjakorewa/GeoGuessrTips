@@ -126,13 +126,3 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
-
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% /tabs %}}
