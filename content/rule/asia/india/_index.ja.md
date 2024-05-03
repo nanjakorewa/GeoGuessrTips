@@ -271,8 +271,9 @@ sc: [
                 <li>アブラヤシはテランガーナ州がほとんど</li>
                 <li>菜種の畑は北西部の乾燥地域が多い</li>
                 <li>綿花はデカン高原、とくにマハーラーシュトラ周辺の土が黒い地域が多い</li>
-                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=IN">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
+                <li>お茶の畑は東部・南部の２地域のどちらか</li>
                 <li>大麦・小麦畑のように見えるならばマディヤ・プラデーシュよりも北に行ってみる</li>
+                <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=IN">U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
             </ul>
         </li>
     </ul>
