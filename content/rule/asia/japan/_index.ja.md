@@ -48,7 +48,7 @@ maps: [
 {{% /notice %}}
 
 {{% notice info %}}
-カメラが低い点だけ見て{{% goto "../../europe/switzerland/" "スイス" %}}（例:{{% ex "https://maps.app.goo.gl/PrW88TJsfEgN9K178" "https://maps.app.goo.gl/vm6annrwRk1q2xocA" "https://maps.app.goo.gl/MZKUm6Ucay8yzyG96" %}}）や{{% goto "../srilanka/" "スリランカ" %}}（例:{{% ex "https://maps.app.goo.gl/g5w8vg9D9pCLG7HPA" %}}）と間違えないように。
+カメラが低い点だけ見て{{% goto "../../europe/switzerland/" "スイス" %}}（例:{{% ex "https://maps.app.goo.gl/PrW88TJsfEgN9K178" "https://maps.app.goo.gl/vm6annrwRk1q2xocA" "https://maps.app.goo.gl/MZKUm6Ucay8yzyG96" %}}）や{{% goto "../srilanka/" "スリランカ" %}}（例:{{% ex "https://maps.app.goo.gl/gjLtUWhMMTgpBUhJ8" "https://maps.app.goo.gl/g5w8vg9D9pCLG7HPA" %}}）と間違えないように。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

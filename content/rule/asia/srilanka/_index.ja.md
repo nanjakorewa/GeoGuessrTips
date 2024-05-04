@@ -37,7 +37,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-シンハラ語（සිංහල）{{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "https://goo.gl/maps/Nou5G3kNf3MB6RQ9A" %}}とタミル語（தமிழ்）{{% ex "https://goo.gl/maps/S7EkpiGtvFaRWHhB6" %}}が公用語として使用されている
+シンハラ語（සිංහල）{{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "https://goo.gl/maps/Nou5G3kNf3MB6RQ9A" %}}とタミル語（தமிழ்）{{% ex "https://goo.gl/maps/S7EkpiGtvFaRWHhB6" %}}が公用語として使用されている。標識は<span class="quiz">白黒のストライプ</span>のものが多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="four corners"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -45,20 +45,24 @@ sc: [
 
 
 {{% notice tip %}}
-水路や交差点沿いに<span class="quiz">白黒のブロック</span>がある{{% ex "https://maps.app.goo.gl/QwKbrQwAB5hook5Y7" %}}{{% by "" "plonkit" %}}。標識も<span class="quiz">白黒のストライプ</span>のものが多い。
+水路や交差点沿いに<span class="quiz">白黒のブロック</span>がある{{% ex "https://maps.app.goo.gl/QwKbrQwAB5hook5Y7" %}}{{% by "" "plonkit" %}}。写真左にあるボラードもよく見る{{% ex "https://maps.app.goo.gl/wdihRm8Ey3aTtUEV7" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688100035822!6m8!1m7!1svKZ1LZAISHtXxxH-m0QN5Q!2m2!1d8.946198956561048!2d79.92337812619381!3f15.549198534843864!4f-10.503286587022998!5f1.2071605491286992" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:B_class_road_in_2016.jpg#/media/File:B_class_road_in_2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/B_class_road_in_2016.jpg" alt="B class road in 2016.jpg" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Eng.M.Bandara" title="User:Eng.M.Bandara">Eng.M.Bandara</a> - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54602439">リンク</a>による</p>
 </div>
 
 
 {{% notice tip %}}
-電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% ex "https://goo.gl/maps/9s4rAXAHp3F3ZqLb9" %}}{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}{{% ex "https://maps.app.goo.gl/iEFA8fzUnc48FfmN6" "https://goo.gl/maps/Qf3vovR1Ei8R29zC9" "https://goo.gl/maps/xGBhCk1cQTyRukrW9" %}}。また、車の後ろのナンバープレートは<span class="quiz">黄</span>色{{% ex "https://goo.gl/maps/RoZ5JZxoSvS1wszg7" %}}。
+電柱は大き目の穴が空いた電柱や{{% goto "../thai/" "タイ" %}}のような四角い電柱などがある{{% ex "https://goo.gl/maps/9s4rAXAHp3F3ZqLb9" %}}{{% imref %}}。かなり大きな電柱のコイルがある{{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youcome" "でもなん" %}}{{% ex "https://maps.app.goo.gl/iEFA8fzUnc48FfmN6" "https://goo.gl/maps/Qf3vovR1Ei8R29zC9" "https://goo.gl/maps/xGBhCk1cQTyRukrW9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
 <img src="./road.jpg" width="90%" />
 </div>
+
+{{% notice tip %}}
+車の後ろのナンバープレートは<span class="quiz">黄</span>色{{% ex "https://maps.app.goo.gl/HjtefmgMRD7Qm1Cd9" "https://goo.gl/maps/RoZ5JZxoSvS1wszg7" %}}。
+{{% /notice %}}
 
 {{% lb 50 %}}
 ![](2023-08-10-08-02-06.png)
