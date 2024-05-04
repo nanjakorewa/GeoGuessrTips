@@ -49,7 +49,7 @@ sc: [
 
 
 {{% notice tip %}}
-根本をコンクリートで固めているパターンも良く見かける{{% ex "https://maps.app.goo.gl/tiCCFiqUZnEbxBa18" "https://goo.gl/maps/qnKz8Pb67sYBrkXRA" "https://goo.gl/maps/GHJwvhWMtToGL2ex6" %}}。
+根本をコンクリートで固めているパターンも良く見かける{{% ex "https://maps.app.goo.gl/kL7v7XMCeL5Lx8wg7" "https://maps.app.goo.gl/tiCCFiqUZnEbxBa18" "https://goo.gl/maps/qnKz8Pb67sYBrkXRA" "https://goo.gl/maps/GHJwvhWMtToGL2ex6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/live2bnomad/395831375/in/photolist-AYJST-9vm9F9-2jj93ZY-U8SU55-fSsH8d-7LJfU8-iDt2Jc-7VTsYo-WRWuJL-2mYyEfa-B2QArt-DVsTYm-GrW1XG-dsTqpS-29jAUwb-P38pD1-2gvTEnt-BoSBAR-aVsXGk-zUL6SG-u4wDuR-bpXA5b-5pdNuy-23J9r2s-276nEhP-224nRF2-CjpqcG-2fu8vjz-dDFv7b-SBv9Hf-5Wch65-neNWky-4CjWQv-MXknvU-4adcR-rWhX8-93Aus8-anjCsU-9SMtbp-5bGtKK-FU9yCR-22QUJCm-gomrd8-7MT8Qn-7MT8SV-97xzC6-99fRZR-cYimSC-7MT8MV-bwps6o" title="A road sign"><img src="https://live.staticflickr.com/144/395831375_fce7f762f6_z.jpg" width="640" height="428" alt="A road sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
