@@ -170,26 +170,12 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
             </ul>
         </li>
-        <li class="no-evidence">Slate{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材が手に入りやすい地域ほど家の屋根が黒っぽい？
-            <ul>
-                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
-                <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
-                <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
-            </ul>
-        </li>
-        <li>レンガが多かったら{{% goto "../belgium/" "ベルギー" %}}近くを検討してみる{{% by "now_and_jenn" "twitch" %}}{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
         <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
                 <li>{{% goto "../../africa/reunion/" "レユニオン" %}}</li>
                 <li>{{% goto "../../cs_america/martinique/" "マルティニーク" %}}</li>
                 <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
-            </ul>
-        </li>
-        <li>農業に若干の地域性がある {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
-            <ul>
-                <li class="no-evidence">菜種の畑は北部に多い</li>
-                <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
     </ul>
@@ -216,6 +202,26 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 コメントで教えてもらったついでに作ってみた図。なんとなく `02 9x` で半島に、`05 4x` で結構北に、`04 7x` かどうかで海沿いに行くか行かないか決めるのが役立つ気がする。もちろんすべての地域の４桁目まで覚えられるのが理想かもしれないが個人的にはこの３つ以外覚えるのは無理。
 {{% /notice %}}
 {{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">建築</h4>
+    <ul class="rule-list">
+        <li class="no-evidence">Slate{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材がある地域ほど家の屋根が黒っぽい
+            <ul>
+                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
+                <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
+                <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
+            </ul>
+        </li>
+        <li>レンガが多かったら{{% goto "../belgium/" "ベルギー" %}}近くを検討してみる{{% by "now_and_jenn" "twitch" %}}{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
+        <li>スイス近くの山脈は家の作りもスイスに近い</li>
+        <li>南東のLuberon周りでは薄い板状の白い岩を積み重ねた石垣などがある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "黒い屋根" %}}
 {{% notice tip %}}
 調べた限りだとSlateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていた北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
@@ -224,17 +230,31 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
 </div>
 {{% /tab %}}
-{{% tab "ベルギー付近" %}}
+{{% tab "スイス近く" %}}
 {{% notice tip %}}
-レンガだけでベルギー近くに寄せた結果、全然違う地域のときもある。
+木の板で作られた家が見つかる{{% ex "https://maps.app.goo.gl/CaiPqBqKeWya1M9E9" "https://maps.app.goo.gl/wC6jew26i2k6QZum8" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682905708059!6m8!1m7!1st_XQsB86GM6xCG9IUgjMlQ!2m2!1d50.29450643868056!2d4.08535817500789!3f63.98531563426603!4f-3.263060690475413!5f1.165081858696793" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682905789945!6m8!1m7!1sObobzsfl9Eyg1IBdsvVhew!2m2!1d50.48916016063912!2d3.583400011074846!3f168.35502595572592!4f3.8804172341302063!5f1.0879153141619562" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if unclickable">
+<img src="./france_houses_houses_france.jpg" width="600px">
+</div>
+{{% /tab %}}
+{{% tab "ベルギー近く" %}}
+{{% notice tip %}}
+レンガの家が見つかる{{% ex "https://maps.app.goo.gl/sdhnnPMNWekVVPfN8" %}}。写真はAubyの町。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./auby_town_hall_france.jpg" width="600px">
+</div>
+{{% /tab %}}
+{{% tab "Luberon近く" %}}
+{{% notice tip %}}
+薄い板状の白い岩を積み重ねた石垣などがある{{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./stone_houses_village_luberon.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
 
 <div class="main-desciption area-description">
     <h4 class="section-title">農業</h4>
@@ -254,6 +274,12 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li><span style="color:#BDE855;">■</span>山岳地帯付近では羊やヤギが多い
             <ul>
                 <li>ピレネー山脈周辺{{% ex "https://maps.app.goo.gl/cUB9GEpNWbKotqkAA" "https://maps.app.goo.gl/91tyidyiM1PJ9f8T6" %}}</li>
+            </ul>
+        </li>
+        <li>農作物に若干の地域性がある {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
+            <ul>
+                <li class="no-evidence">菜種の畑は北部に多い</li>
+                <li class="no-evidence">ひまわりの畑は北部沿岸部には少ない</li>
             </ul>
         </li>
     </ul>
