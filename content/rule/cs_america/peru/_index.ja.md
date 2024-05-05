@@ -31,7 +31,7 @@ sc: [
         <li>タクシーやトラックのナンバープレートが<span class="quiz">蛍光に近い黄</span>色のときがある</li>
         <li>Google Carが<span class="quiz">黒</span>色の時がある。南米では他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../uruguay/" "ウルグアイ" %}}も同じ色のGoogle Carを使う{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}。</li>
         <li class="no-evidence">ボラードは<span class="quiz">黄</span>色に塗られていることが多い</li>
-        <li class="no-evidence">ガードレールに黄色と黒のストライプがある</li>
+        <li class="no-evidence">急カーブのガードレールや縁石にオレンジと黒の縞模様が斜めに描かれている</li>
         <li class="no-evidence">細長い箱が家の壁に埋め込まれていたり外についていたりする</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
@@ -41,8 +41,9 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" "https://maps.app.goo.gl/XCC7YEhn9tQ4nVCCA" %}}の時が多い。ボラードは<span class="quiz">黄</span>色に塗られている。
+標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" "https://maps.app.goo.gl/XCC7YEhn9tQ4nVCCA" %}}の時が多い。ボラードは三角柱であり上の部分が<span class="quiz">黄</span>色や赤色に塗られていることが多い{{% ex "https://maps.app.goo.gl/j2k7Z7QBEe2bPAbD9" %}}。
 {{% /notice %}}
+
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="600" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
@@ -113,6 +114,19 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 
 <div class="googlemap-if no-margin">
 <img src="./house.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+急カーブのガードレールや縁石にオレンジと黒の縞模様が斜めに描かれている{{% ex "https://maps.app.goo.gl/6KKmEdoJPcWqgLH88" "https://maps.app.goo.gl/WQTNDyuuJQ44mfW47" "https://maps.app.goo.gl/Yi5948wqgjyoXWxR6" %}}
+{{% /lb %}}
+
+{{% notice note %}}
+一方で{{% goto "../ecuador/" "エクアドル" %}}は二重のガードレールが多い
+{{% /lb %}}
+
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kike_sarmiento/5454642910/in/photolist-9j1tiq-4JUvNR-HGZRR-HZPqdv-9XNado-9FQMYJ-7Qjskb-9sca3S-8T1jVK-JxQ1Sa-o2HmeL-pFU4Jb-AmZaEj-6a8ZHV-7k6hHo-5VrKR7-TspZzo-QBDeWe-YaCoN2-2kekAHo-p3rAQH-2nVyKrb-219gxFY-2pDHs2c-2eCdg8Q-pKs4Fd-4mxkpz-bB6UFp-p3cNcK-bCnkka-223PFyq-dhnA22-s5iRMz-SkoJnS-2jAH6xX-2o4E2hv-QWYBG4-26hGraQ-4q3ToR-2jKATRc-4szFLi-MVRiNx-braXyg-2odZuMB-276nEhP-xM1quu-2nyFwy1-2pzeGMt-261z2Jf-2nyAhkR" title="4-nasca-ica_011"><img src="https://live.staticflickr.com/5094/5454642910_295b817351_c.jpg" width="90%" alt="4-nasca-ica_011"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
