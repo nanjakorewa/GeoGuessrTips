@@ -9,6 +9,7 @@ sections: [""]
 bg: "bg/city.jpg"
 flag: "NO.svg"
 jetro_detail: false
+plonkit: true
 jogmec_detail: false
 sc_title: "間違えやすい地域"
 sc: [
@@ -171,32 +172,32 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>南北に同じ植生が広く分布しており範囲の絞り込みが難しい
+            <ul>
+                <li><span style="color:#899FAB;font-size:1.2em">■</span>最北の山や岩肌が見えるゾーン{{% ex "https://maps.app.goo.gl/SvV4qgQwcopJpZFAA" "https://maps.app.goo.gl/oNrjavsC2BdXesh9A" %}}</li>
+                <li><span style="color:#899FAB;font-size:1.2em">■</span>南の山や岩肌が見えるゾーン{{% ex "https://maps.app.goo.gl/P8iLrLoLBobkuGum9" "https://maps.app.goo.gl/NjRUFsGReLYMEEFb9" %}}</li>
+                <li><span style="color:#009243;font-size:1.2em">■</span>最南端の広葉樹が多いゾーン{{% ex "https://maps.app.goo.gl/Hqk7hfBqfSSHuUmA9" "https://maps.app.goo.gl/UH8Vgcz71hW4u6pm8" %}}</li>
+                <li><span style="color:#7C7640;font-size:1.2em">■</span><span style="color:#5C460E;font-size:1.2em">■</span>針葉樹の割合が多く道端が背の低い草で覆われている可能性があるゾーン{{% ex "https://maps.app.goo.gl/KfJTe6HiANJHP71v6" "https://maps.app.goo.gl/rUoQvGTx4FocMbHM8" %}}</li>
+                <li><span style="color:#8CC63E;font-size:1.2em">■</span>畑・牧草地があり家の周りに背の高い生垣やカエデの木がありうるゾーン{{% ex "https://maps.app.goo.gl/MsnkU8qXdSom4Uji6" "https://maps.app.goo.gl/JTx4JA2Po4KmYPTV6" %}}</li>
+            </ul>
+        </li>
         <li>市外局番が<span class="quiz">2～7</span>。オスロからスタートして時計回りに数字が大きくなる。</li>
-        <li>南には森林があるが最北エリアでは岩肌が多く見えることがある。</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "植生" %}}
+<div class="googlemap-if no-margin">
+<p><img class="no-click" src="Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="ノルウェーの植生" style="max-width: 80%;"/></p>
+<p><a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Panitz, Sina, et al. "Climate variability and long-term expansion of peatlands in Arctic Norway during the late Pliocene (ODP Site 642, Norwegian Sea)." Climate of the Past 12.4 (2016): 1043-1060.</a>, <a href="https://creativecommons.org/licenses/by/3.0/">表示 3.0 未移植 (CC BY 3.0)</a></p>
+</div>
+
+{{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
 <p>
 <img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>
 </p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Gyroscopbill212</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Link</a></p>
-</div>
-{{% /tab %}}
-{{% tab "植生" %}}
-<div class="googlemap-if">
-<p><img class="no-click" src="Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="ノルウェーの植生" style="max-width: 80%;"/></p>
-<p><a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Panitz, Sina, et al. "Climate variability and long-term expansion of peatlands in Arctic Norway during the late Pliocene (ODP Site 642, Norwegian Sea)." Climate of the Past 12.4 (2016): 1043-1060.</a>, <a href="https://creativecommons.org/licenses/by/3.0/">表示 3.0 未移植 (CC BY 3.0)</a></p>
-</div>
-
-{{% notice tip %}}
-以下は最北のエリア。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695490545547!6m8!1m7!1seE_PC-8Y5MaNOrB4EBzESQ!2m2!1d70.56821007191164!2d23.56538438044841!3f28.774511950547584!4f9.321345598562914!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695490631867!6m8!1m7!1s4K3IqcH1RvXcvtIJI3VNxQ!2m2!1d68.21151970287742!2d14.30093525890373!3f51.38196891481299!4f8.426436722203775!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
