@@ -69,6 +69,16 @@ sc: [
 <img src="./street-sign.jpg" width="95%">
 </div>
 
+
+{{% notice tip %}}
+家の前に旗を揚げるポールがあり、祝日や誕生日に旗を揚げることがある{{% ex "https://maps.app.goo.gl/N9rpu6NoVyxbM8bJ7" "https://maps.app.goo.gl/PckYsMgpz4ShSmir9" "https://maps.app.goo.gl/Z58g6R6Cgho4PszA6" %}}{{% ref "https://theslowroad.org/quirks-of-denmark/" "Quirks of Denmark" %}}。掲げられる旗も極端に細い{{% ex "https://maps.app.goo.gl/4bAes6SYNwc6xpML7" "https://maps.app.goo.gl/jqNCM2covDMA4guQ7" %}}。
+。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./denmark_home_afternoon_nature.jpg" width="95%">
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 
