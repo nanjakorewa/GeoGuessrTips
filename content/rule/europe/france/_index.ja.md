@@ -243,6 +243,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
             <ul>
                 <li>西のBordeaux周辺{{% ex "https://maps.app.goo.gl/DiNZfLv99Kxryt5C9" "https://maps.app.goo.gl/XmWoK38HCAqxwM9k7" "https://maps.app.goo.gl/wprp8kg1rP8MmzFA8" %}}</li>
                 <li>地中海沿いのHérault県{{% ex "https://maps.app.goo.gl/5kogb4QtTFKx7j2F9" "https://maps.app.goo.gl/QkY8stiKCK2VNaWp9" %}}</li>
+                <li>Lyon北のボジョレー地区{{% ex "https://maps.app.goo.gl/KKVyT5HQKomVGHPS7" "https://maps.app.goo.gl/TtLw8bz51kQU2gAE6" %}}</li>
             </ul>
         </li>
         <li><span style="color:#44BE61;">■</span>牧畜・畜産業が多い
