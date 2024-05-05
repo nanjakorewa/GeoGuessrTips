@@ -1,7 +1,7 @@
 ---
 title: "フランス"
 date: 2023-02-26
-lastmod: 2023-08-22
+lastmod: 2024-04-02
 weight: 1
 draft: false
 keywords: [""]
