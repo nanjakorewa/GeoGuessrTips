@@ -101,7 +101,8 @@ import_jquery_36: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./1080px-Jeju_Island_3D_2012.jpg">
+<img src="./1080px-Jeju_Island_3D_2012.jpg" width="600px">
+<img src="./jeju_island_korea_road.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "韓屋" %}}
@@ -115,7 +116,7 @@ import_jquery_36: true
 </div>
 
 {{% notice tip %}}
-南部の家
+南部の家だが、そもそも塀の内側まで見えることがほぼ無い。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
