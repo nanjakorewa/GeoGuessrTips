@@ -99,7 +99,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 
 
 {{% notice tip %}}
-道端に白黒のボラードがある{{% ex "https://maps.app.goo.gl/8uPScPjxmvSeJpxw5" "https://maps.app.goo.gl/1FaUi272Gy9TGKgD6" %}}。黒い部分に道路番号が書かれていることがあるが、読みにくいので注意。これは『08B』の道。
+道端に白黒のボラードがある{{% ex "https://maps.app.goo.gl/8uPScPjxmvSeJpxw5" "https://maps.app.goo.gl/RaNA1MDp4uFhZ2FK8" "https://maps.app.goo.gl/1FaUi272Gy9TGKgD6" %}}。黒い部分に道路番号が書かれていることがあるが、読みにくいので注意。これは『08B』の道。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
