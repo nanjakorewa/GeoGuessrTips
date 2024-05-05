@@ -59,6 +59,7 @@ Google Carが特徴的{{% ex "https://maps.app.goo.gl/4jHmHcLvoDUfe65q6" %}}
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>海沿いと北は平坦なエリアが多い</li>
         <li>一部地域ではアブラヤシのプランテーションが見られる
             <ul>
                 <li>農作物の分布データ出典：<a href="https://ipad.fas.usda.gov/countrysummary/default.aspx?id=GT">Guatemala Production - U.S. DEPARTMENT OF AGRICULTUREUSDA(USDA)</a></li>
@@ -68,6 +69,12 @@ Google Carが特徴的{{% ex "https://maps.app.goo.gl/4jHmHcLvoDUfe65q6" %}}
 </div>
 
 {{% tabs %}}
+{{% tab "標高" %}}
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Relief_map_of_Guatemala.jpg#/media/File:Relief_map_of_Guatemala.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Relief_map_of_Guatemala.jpg" alt="Relief map of Guatemala.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92" title="User:Виктор В">Виктор В</a> - <a href="//commons.wikimedia.org/wiki/File:Guatemala_location_map.svg" title="File:Guatemala location map.svg">File:Guatemala location map.svg</a> ETOPO1-SRTM30, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12090110">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
 <img src="2023-05-27-19-08-14.png" width="95%" />
