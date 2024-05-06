@@ -56,7 +56,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱やポールに<span class="quiz">青</span>いプレートが貼ってあるならば99%フランス領のどこか{{% ex "https://maps.app.goo.gl/4f9WsoC6fgfk9as67" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}{{% imref "左側の電柱画像の出典" %}}。ごく稀に例外もある{{% ex "https://maps.app.goo.gl/PtxTSGasQe6xb8LFA" %}}。
+電柱やポールに<span class="quiz">青</span>いプレートが貼ってあるならば99%フランス領のどこか{{% ex "https://maps.app.goo.gl/pgYDzowgE8YaCQqA6" "https://maps.app.goo.gl/4f9WsoC6fgfk9as67" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}{{% imref "左側の電柱画像の出典" %}}。ごく稀に例外もある{{% ex "https://maps.app.goo.gl/PtxTSGasQe6xb8LFA" %}}。
 {{% /notice %}}
 
 {{% notice info %}}
@@ -76,7 +76,7 @@ Dで始まる道路番号の黄色いプレートがある{{% ex "https://maps.a
 </div>
 
 {{% notice tip %}}
-ナンバープレートは他のEU諸国と同じく左側だけ青色のものが多い。ただし両サイドが青色{{% ex "https://maps.app.goo.gl/9kJoe1aa3egCJtdg9" "https://maps.app.goo.gl/LiaSpC2Firtd4kyYA" %}}のものや全体が黄色い{{% ex "https://maps.app.goo.gl/J3ozUh8ncBHp4Pc97" "https://maps.app.goo.gl/MGmS9mLycGByn6PE8" "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}ときもある。
+ナンバープレートは他のEU諸国と同じく左側だけ青色のものが多い。ただし両サイドが青色{{% ex "https://maps.app.goo.gl/9kJoe1aa3egCJtdg9" "https://maps.app.goo.gl/LiaSpC2Firtd4kyYA" %}}のものや全体が黄色い{{% ex "https://maps.app.goo.gl/QUoYhHvuxgbjTk6r7" "https://maps.app.goo.gl/J3ozUh8ncBHp4Pc97" "https://maps.app.goo.gl/MGmS9mLycGByn6PE8" "https://goo.gl/maps/e4AHeiEmhwkFA1CQ7" "https://goo.gl/maps/KnQbXRC9yGcCiRzd8" %}}ときもある。
 {{% /notice %}}
 
 <div class="googlemap-if">
