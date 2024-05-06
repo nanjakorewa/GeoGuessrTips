@@ -118,12 +118,8 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 <img src="2023-07-24-12-29-20.png" width="320px"/>
 </div>
 
-
-{{% /tab %}}
-{{% tab "家" %}}
-
 {{% notice tip %}}
-フランス以外ではこの形のポストは見かけないように思う。
+フランス以外では四角い立方体型のポストはあまり見かけないように思う{{% ex "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./mailboxes_post_france_letter.jpg" width="500px">
