@@ -119,7 +119,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 </div>
 
 {{% notice tip %}}
-フランス以外では四角い立方体型のポストはあまり見かけないように思う{{% ex "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" %}}。
+フランス以外では四角い立方体型のポストはあまり見かけないように思う{{% ex "https://maps.app.goo.gl/JBkFvM98iRSs6BkN8" "https://maps.app.goo.gl/Mxxf9FdVmqfhc6Ht5" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/UB36DVZdJMma5bJe7" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" "https://maps.app.goo.gl/TmNad2DmfwMHS4UA8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./mailboxes_post_france_letter.jpg" width="500px">
