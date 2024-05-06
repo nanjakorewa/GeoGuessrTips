@@ -413,7 +413,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption city-description">
     <ul class="rule-list">
         <li>Parisは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
-        <li>イタリアのヴェネツィアをモデルに運河が作られた港町であるGrimaudがある</li>
     </ul>
 </div>
 
@@ -436,13 +435,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./avenue_sign_street_signs.jpg" width="80%">
 </div>
 
-{{% /tab %}}
-{{% tab "Grimaud" %}}
-{{% notice tip %}}運河で船の上に乗っているエリアが多い。{{% goto "../italy/" "イタリア" %}}のヴェネツィアと見間違えないように{{% ex "https://maps.app.goo.gl/98yzafK97xcpvAj58" "https://maps.app.goo.gl/2xB8on41xqiXDSW4A" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./port_grimaud_france_channel.jpg" width="95%">
-</div>
 {{% /tab %}}
 {{% /tabs %}}
 
