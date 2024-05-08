@@ -36,7 +36,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている{{% ex "https://goo.gl/maps/V7tThyT58FpS6jwX9" "https://goo.gl/maps/ATSqSW7wcN4Z1PhR9" "https://goo.gl/maps/EiEju5W7oxK3tmyb7" "https://maps.app.goo.gl/HtbUinqbuycYEDWUA" %}}。ただし色が違う地域や建物がほぼ無い地域もある。
+ボリビアは木造住宅がほとんどなく、<span class="quiz">レンガとセメント</span>でできている{{% ex "https://maps.app.goo.gl/UbaTMjMxfJgBtcnV8" "https://goo.gl/maps/EiEju5W7oxK3tmyb7" "https://maps.app.goo.gl/HtbUinqbuycYEDWUA" %}}。ただし色が違う地域や建物がほぼ無い地域もある。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/txmx-2/31546038578/in/photolist-Q4BGdS-NwABE7-nAy112-CAGk9R-oJky3W-R9tvYz-2fcPuzR-HPnnQj-2cYNdWq-ZGQUUv-263YEpC-ARtLV4-yXQqKz-251ZxZd-YvWRwh-2cFZAKM-Yb1j3W-FqDEYZ-Gr3d1L-23tnUNz-2cYNghN-jWBpJZ-bALs1W-2cYNjKE-F9iKHa-yFbTfq-23tnVvr-aUQKNK-5WVaG2-bzuBUi-dZxfJm-71Csd-G6aLMz-yFjjFk-aUQHix-24BUKTz-aRT82v-99XKrH-9grn6i-H9G7mR-SGNbYU-99XZtk-o9MgqJ-yFedeU-233Wr6L-9vnD2Z-4pPPS1-pDK2Dv-fPRTgp-2fC1Cow" title="-"><img src="https://live.staticflickr.com/65535/31546038578_d2db67d211_c.jpg" width="800" height="287" alt="-"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -55,7 +55,7 @@ By Pavel Špindler, <a href="https://creativecommons.org/licenses/by/3.0" title=
 </div>
 
 {{% notice tip %}}
-ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える{{% ex "https://maps.app.goo.gl/jdNDVfoXGSMBaCf59" "https://maps.app.goo.gl/qYJCfZ7nnoWVjTUQ8" %}}。
+ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える{{% ex "https://maps.app.goo.gl/jdNDVfoXGSMBaCf59" "https://maps.app.goo.gl/3UtWtx1zH3VrHh867" "https://maps.app.goo.gl/9dybdoGRk8gusUDw8" "https://maps.app.goo.gl/qYJCfZ7nnoWVjTUQ8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
