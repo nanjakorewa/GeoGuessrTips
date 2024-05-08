@@ -63,7 +63,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは基本白でだが左側や上側が<span class="quiz">赤</span>色のときもある{{% ex "https://maps.app.goo.gl/N5S8s8FunbFnndAS6" %}}。{{% goto "../qatar/" "カタール" %}}も似たような色に見えるので注意。
+ナンバープレートは基本白だが左側や上側が<span class="quiz">赤</span>色のときもある{{% ex "https://maps.app.goo.gl/N5S8s8FunbFnndAS6" %}}。{{% goto "../qatar/" "カタール" %}}も似たような色に見えるので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1711015983636!6m8!1m7!1sXh1RT2SijY-57WiBfaJ4KA!2m2!1d24.96414827476389!2d55.78783248843728!3f232.20798469594868!4f-2.341906137991103!5f2.1918532655725986" width="85%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
