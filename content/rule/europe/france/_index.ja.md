@@ -204,6 +204,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h4 class="section-title">建築</h4>
     <ul class="rule-list">
+        <li>南東のLuberon周りでは薄い板状の白い岩を積み重ねた石垣などがある</li>
         <li class="no-evidence">Slate{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材がある地域ほど家の屋根が黒っぽい
             <ul>
                 <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
@@ -213,11 +214,18 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         </li>
         <li>レンガが多かったら{{% goto "../belgium/" "ベルギー" %}}近くを検討してみる{{% by "now_and_jenn" "twitch" %}}{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
         <li>スイス近くの山脈は家の作りもスイスに近い</li>
-        <li>南東のLuberon周りでは薄い板状の白い岩を積み重ねた石垣などがある</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Luberon近く" %}}
+{{% notice tip %}}
+薄い板状の白い岩を積み重ねた石垣などがある{{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./stone_houses_village_luberon.jpg" width="600px">
+</div>
+{{% /tab %}}
 {{% tab "黒い屋根" %}}
 {{% notice tip %}}
 調べた限りだとSlateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていた北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
@@ -240,14 +248,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./auby_town_hall_france.jpg" width="600px">
-</div>
-{{% /tab %}}
-{{% tab "Luberon近く" %}}
-{{% notice tip %}}
-薄い板状の白い岩を積み重ねた石垣などがある{{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}。
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="./stone_houses_village_luberon.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
