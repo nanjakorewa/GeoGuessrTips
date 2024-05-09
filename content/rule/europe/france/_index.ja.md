@@ -159,14 +159,10 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title">地形など</h4>
     <ul class="rule-list">
         <li>北と西は大半が平地だが南と東は高い山も多い</li>
-        <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
-            <ul>
-                <li>『<span class="quiz">02 9x</span>』は半島部 (by 市民ジョンさん@コメ欄)</li>
-                <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
-            </ul>
-        </li>
+        <li>岩肌が見える険しい山脈がある時はコルシカ島を検討してみる</li>
         <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
             <ul>
                 <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
@@ -181,15 +177,42 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 {{% tabs %}}
 {{% tab "標高" %}}
-<div class="googlemap-if">
-<img src="./Bassigny-localisation.jpg" width="90%">
-</div>
-
 {{% notice tip %}}
 ドイツ付近にも山がある{{% ex "https://maps.app.goo.gl/A8p7ZgkdZeEyTy2E9" "https://maps.app.goo.gl/XJCtLghp8R4KNeey9" "https://maps.app.goo.gl/UfSZaxuLomkjpwKe6" %}}。
 {{% /notice %}}
 
+<div class="googlemap-if">
+<img src="./Bassigny-localisation.jpg" width="90%">
+</div>
+
+
 {{% /tab %}}
+{{% tab "コルシカ島" %}}
+
+{{% notice tip %}}
+結晶片岩でできたくすんだ色の岩山が連なる{{% ex "https://maps.app.goo.gl/LmcLqXKmgWcB2CTd9" "https://maps.app.goo.gl/uNEGki9CatqLF2nR7" "https://maps.app.goo.gl/MLzceD3Mdyn19aMF7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./corsica_mountains_mountain_landscape.jpg">
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">市外局番</h4>
+    <ul class="rule-list">
+        <li>北と西は大半が平地だが南と東は高い山も多い</li>
+        <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
+            <ul>
+                <li>『<span class="quiz">02 9x</span>』は半島部 (by 市民ジョンさん@コメ欄)</li>
+                <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "市外局番①" %}}
 <div class="googlemap-if">
 <p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
