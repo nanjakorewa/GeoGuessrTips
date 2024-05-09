@@ -55,10 +55,14 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 </div>
 
 {{% notice tip %}}
-Google Carが特徴的でほとんどの場合すぐにモンゴルと分かる{{% ex "https://maps.app.goo.gl/FfVvp7pBQ6nJqt2q6" "https://maps.app.goo.gl/ULQMUUhZZoCrsvmA9" "https://maps.app.goo.gl/m2pCjUf9tNF7bgMY9" %}}
+Google Carが特徴的でほとんどの場合すぐにモンゴルと分かる{{% ex "https://maps.app.goo.gl/iYPkKJ9QWhbta39p6" "https://maps.app.goo.gl/FfVvp7pBQ6nJqt2q6" "https://maps.app.goo.gl/ULQMUUhZZoCrsvmA9" "https://maps.app.goo.gl/m2pCjUf9tNF7bgMY9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Street View in <a href="https://twitter.com/hashtag/Mongolia?src=hash&amp;ref_src=twsrc%5Etfw">#Mongolia</a>: A journey of 5,000 km begins with a single steppe | <a href="https://twitter.com/Google?ref_src=twsrc%5Etfw">@Google</a>​, Jul 23<a href="http://t.co/AmCtjnA35S">http://t.co/AmCtjnA35S</a> <a href="http://t.co/bwXhmREj7Q">pic.twitter.com/bwXhmREj7Q</a></p>&mdash; Cover Mongolia (@CoverMongolia) <a href="https://twitter.com/CoverMongolia/status/624927234378350592?ref_src=twsrc%5Etfw">July 25, 2015</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1715247595651!6m8!1m7!1stGMtDX30PhmBwM_egbROLw!2m2!1d47.90192843050185!2d106.7779924739614!3f266.83462548660356!4f-10.569177231752235!5f0.40031606864352515" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
