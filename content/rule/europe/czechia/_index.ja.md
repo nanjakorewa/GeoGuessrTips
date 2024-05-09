@@ -73,7 +73,7 @@ sc: [
 
 
 {{% notice tip %}}
-チェコと{{% goto "../slovakia/" "スロバキア" %}}の平坦な場所はこんな感じの並木道が見られる。木の種類や太さはいろいろ（例<a href="https://goo.gl/maps/CXuYgmh8nRACLPbQ6">①</a>・<a href="https://goo.gl/maps/nYTwesnaUY9dPRhKA">②</a>・<a href="https://goo.gl/maps/9thttoGvmmfoAgbs7">③</a>）。片側だけの場合もある。
+チェコと{{% goto "../slovakia/" "スロバキア" %}}の平坦な場所はこんな感じの並木道が見られる。木の種類や太さはいろいろ{{% ex "https://goo.gl/maps/CXuYgmh8nRACLPbQ6" "https://goo.gl/maps/nYTwesnaUY9dPRhKA" "https://goo.gl/maps/9thttoGvmmfoAgbs7" %}}。片側だけの場合もある。
 {{% /notice %}}
 
 <div class="googlemap-if">

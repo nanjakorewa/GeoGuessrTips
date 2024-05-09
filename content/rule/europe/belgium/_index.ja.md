@@ -38,7 +38,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-レンガで作られた建築物が多い。下の写真はネアンデルタール人の化石が発見されたSchmerling洞窟周辺{{% ref "https://en.wikipedia.org/wiki/Schmerling_Caves" "Schmerling Caves" %}}。
+レンガで作られた建築物が多い{{% ex "https://maps.app.goo.gl/2XtpajNh35wjSL8B9" %}}。下の写真はネアンデルタール人の化石が発見されたSchmerling洞窟周辺{{% ref "https://en.wikipedia.org/wiki/Schmerling_Caves" "Schmerling Caves" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -74,6 +74,24 @@ sc: [
 <img src="road-sign2.jpg" width="98%">
 </div>
 
+{{% notice tip %}}
+補助標識が青色{{% ex "https://maps.app.goo.gl/F2fXSQCb6sgW8X5k7" "https://maps.app.goo.gl/ErWvVcNC3uRgyaoW9" "https://maps.app.goo.gl/sDDizdRGxBWFruwXA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF%E6%A8%99%E8%AD%98#%E8%A3%9C%E5%8A%A9%E6%A8%99%E8%AD%98" "補助標識" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./rue_du_vieux_moulin.jpg" width="90%">
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px">
+</div>
 
 {{% notice tip %}}
 <span class="quiz">白</span>いシンプルなボラード{{% ex "https://maps.app.goo.gl/keYDJnEZZ9jmcxcL6" %}}
