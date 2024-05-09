@@ -37,7 +37,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://maps.app.goo.gl/i85yJH2qpUp7N8B38" "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や稀に{{% goto "../../asia/philippines/" "フィリピン" %}}{{% ex "https://maps.app.goo.gl/gdMuBSA4V1hHHD4X7" %}}にもある。
+電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://maps.app.goo.gl/i85yJH2qpUp7N8B38" "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。数は多くないものの、同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や{{% goto "../../asia/philippines/" "フィリピン" %}}{{% ex "https://maps.app.goo.gl/gdMuBSA4V1hHHD4X7" %}}を含めいろんな国で見られるので決めつけは✕。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./pole-example.png" width="199px" height="640px">
