@@ -160,6 +160,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>北と西は大半が平地だが南と東は高い山も多い</li>
         <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
                 <li>『<span class="quiz">02 9x</span>』は半島部 (by 市民ジョンさん@コメ欄)</li>
@@ -179,6 +180,16 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 
 {{% tabs %}}
+{{% tab "標高" %}}
+<div class="googlemap-if">
+<img src="./Bassigny-localisation.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+ドイツ付近にも山がある{{% ex "https://maps.app.goo.gl/A8p7ZgkdZeEyTy2E9" "https://maps.app.goo.gl/XJCtLghp8R4KNeey9" "https://maps.app.goo.gl/UfSZaxuLomkjpwKe6" %}}。
+{{% /notice %}}
+
+{{% /tab %}}
 {{% tab "市外局番①" %}}
 <div class="googlemap-if">
 <p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
