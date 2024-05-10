@@ -185,7 +185,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./Bassigny-localisation.jpg" width="90%">
 </div>
 
-
 {{% /tab %}}
 {{% tab "コルシカ島" %}}
 
@@ -195,6 +194,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 <div class="googlemap-if">
 <img src="./corsica_mountains_mountain_landscape.jpg">
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -202,7 +202,6 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h4 class="section-title">市外局番</h4>
     <ul class="rule-list">
-        <li>北と西は大半が平地だが南と東は高い山も多い</li>
         <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
                 <li>『<span class="quiz">02 9x</span>』は半島部 (by 市民ジョンさん@コメ欄)</li>
@@ -241,7 +240,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
         <li>南東のLuberon周りでは薄い板状の白い岩を積み重ねた石垣などがある</li>
         <li class="no-evidence">Slate{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材がある地域ほど家の屋根が黒っぽい
             <ul>
-                <li>主なSlate生産地は北西の半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
+                <li>主なSlate生産地は北西のブルターニュ半島周り{{% ex "https://goo.gl/maps/6rgUxzwvaQePYTXW9" "https://goo.gl/maps/y74Bw4UCHG3RNAFZ6" %}}・中央のCorrèze付近{{% ex "https://goo.gl/maps/bRyiRAK3AEGJDDbU9" "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近{{% ex "https://goo.gl/maps/Q1QARGvX2Dp7cA75A" "https://goo.gl/maps/UNnrg6nQkvtZBtkV9" %}}であり一般的には半島を中心とした北部に多め</li>
                 <li>{{% ref "https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view" "France Tips for Geoguessr Guillaume Borde (Guigz#3433)" %}}</li>
                 <li>{{% ref "https://www.comeetie.fr/galerie/francepixelsbati/#5.02/47.82/-1.13" "Francepixel" %}}</li>
             </ul>
@@ -252,7 +251,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 {{% tabs %}}
-{{% tab "Luberon近く" %}}
+{{% tab "Luberon周辺" %}}
 {{% notice tip %}}
 薄い板状の白い岩を積み重ねた石垣などがある{{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}。
 {{% /notice %}}
@@ -260,15 +259,15 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./stone_houses_village_luberon.jpg" width="600px">
 </div>
 {{% /tab %}}
-{{% tab "黒い屋根" %}}
+{{% tab "ブルターニュ半島・ピレネー山脈周辺" %}}
 {{% notice tip %}}
-調べた限りだとSlateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていた北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
+Slateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていた北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
 </div>
 {{% /tab %}}
-{{% tab "スイス近く" %}}
+{{% tab "スイス周辺" %}}
 {{% notice tip %}}
 木の板で作られた家が見つかる{{% ex "https://maps.app.goo.gl/CaiPqBqKeWya1M9E9" "https://maps.app.goo.gl/wC6jew26i2k6QZum8" %}}。
 {{% /notice %}}
@@ -276,7 +275,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./france_houses_houses_france.jpg" width="600px">
 </div>
 {{% /tab %}}
-{{% tab "ベルギー近く" %}}
+{{% tab "ベルギー周辺" %}}
 {{% notice tip %}}
 レンガの家が見つかる{{% ex "https://maps.app.goo.gl/sdhnnPMNWekVVPfN8" %}}。写真はAubyの町。
 {{% /notice %}}
