@@ -84,6 +84,18 @@ sc: [
 <img src="./roadsign.jpg" width="90%">
 </div>
 
+
+
+{{% notice tip %}}
+『許可なしでの狩猟禁止』看板がある{{% ex "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" %}}。赤と白の看板が何種類かあるので他のタイプも見たい方は参考文献を参照してください{{% ref "https://web.archive.org/web/20120124180658/http://www.afn.min-agricultura.pt/portal/caca/cacar/sinalizacao-venatoria" "Proibição de caçar" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg#/media/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg" alt="Associação de Reabilitação Social e Desinstitucionalização de Doentes Psiquiátricos.jpg" height="360" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Joehawkins&amp;action=edit&amp;redlink=1" class="new" title="User:Joehawkins (page does not exist)">Joehawkins</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54612143">Link</a></p>
+</div>
+
+
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -139,7 +151,7 @@ sc: [
 {{% tab "Peneda-Gerês国立公園" %}}
 
 {{% notice tip %}}
-でかい岩がある{{% ex "https://maps.app.goo.gl/oqQSHx2CR6MNXAmb7" "https://maps.app.goo.gl/ZAcR9TaXgBQuD236A" "https://maps.app.goo.gl/sqHA8GVdURQC77Y49" %}}。
+でかい岩がある{{% ex "https://maps.app.goo.gl/oqQSHx2CR6MNXAmb7" "https://maps.app.goo.gl/ZAcR9TaXgBQuD236A" "https://maps.app.goo.gl/sqHA8GVdURQC77Y49" %}}。たまにある細い石でできた縁石も特徴的{{% ex "https://maps.app.goo.gl/pUJARAWrKc8CdyN18" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
