@@ -56,7 +56,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱やポールに<span class="quiz">青</span>いプレートが貼ってあるならば99%フランス領のどこか{{% ex "https://maps.app.goo.gl/pgYDzowgE8YaCQqA6" "https://maps.app.goo.gl/4f9WsoC6fgfk9as67" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}{{% imref "左側の電柱画像の出典" %}}。ごく稀に例外もある{{% ex "https://maps.app.goo.gl/PtxTSGasQe6xb8LFA" %}}。
+電柱やポールに<span class="quiz">青</span>いプレートが貼ってあるならば99.9%フランス領のどこか{{% ex "https://maps.app.goo.gl/pgYDzowgE8YaCQqA6" "https://maps.app.goo.gl/4f9WsoC6fgfk9as67" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}{{% imref "左側の電柱画像の出典" %}}。ごく稀に例外もある{{% ex "https://maps.app.goo.gl/PtxTSGasQe6xb8LFA" %}}。
 {{% /notice %}}
 
 {{% notice info %}}
