@@ -39,7 +39,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://maps.app.goo.gl/qzkn8MagASXKwpau6" "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://maps.app.goo.gl/toNnq8m7rMBHab2q7" "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" "https://maps.app.goo.gl/wtDVvGYfJ3Ve5Qt48" %}}や消しゴムみたいな形のものもある{{% ex "https://maps.app.goo.gl/vzAwrbDqgRGeafnM8" "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただし{{% goto "../greece/" "ギリシャ" %}}の特定の道路でのみ同じボラードを見かける{{% ex "https://maps.app.goo.gl/QvCD6cz2x73oNKkn6" %}}ことも。
+ボラードは丸く太い白いポールに赤い反射板がある{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}。先端の色や反射板の色がちがうもの{{% ex "https://maps.app.goo.gl/toNnq8m7rMBHab2q7" "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" "https://maps.app.goo.gl/wtDVvGYfJ3Ve5Qt48" %}}や消しゴムみたいな形のものもある{{% ex "https://maps.app.goo.gl/vzAwrbDqgRGeafnM8" "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}。ただし{{% goto "../greece/" "ギリシャ" %}}の特定の道路でのみ同じボラードを見かける{{% ex "https://maps.app.goo.gl/QvCD6cz2x73oNKkn6" %}}ことも。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./b2.png" width="90%" alt="フランスのボラード" />

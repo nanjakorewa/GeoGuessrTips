@@ -41,7 +41,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれている{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。
+<span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれている{{% ex "https://maps.app.goo.gl/izadzQSiYySYPqFH7" "https://maps.app.goo.gl/98xfrzaY5FzksDAX8" %}}{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./post.jpg" width="70%">

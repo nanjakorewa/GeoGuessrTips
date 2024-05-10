@@ -211,3 +211,23 @@ Alexandra Palace Theatreはロンドンの北側にある
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>南にWight島という離島がある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Wight島" %}}
+
+{{% notice tip %}}
+ほぼひし形の観光地の島。外周には自転車のルートがある{{% ex "https://maps.app.goo.gl/3xpS9fFoPP4u5wR1A" "https://maps.app.goo.gl/yjmeQ9FhsvMuYh7P7" %}}{{% ref "https://www.visitisleofwight.co.uk/things-to-do/cycling/round-the-island-route" "Round the Island route" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alistairhall/478181738/in/photolist-JfNLJ-X2mPf9-vNr86i-2nXTUjJ-2m2KZ59-wkbNSo-sQmcED-s62Raq-2nXTUoM-2huffu6-2nXNywM-vNrkDz-2nXNyzx-7zW8ew-HWt9fy-2huiUU5-sd94kM-2huhYJW-5PMubK-21ZwMkC-uQu5Fv-2huhZ1T-e1B1KM-2nXTUqA-wnZ1BK-2jyTWfo-2nXNyxU-2jyPBwL-Rfji5r-2jyPBAi-CC9GRU-2jyt1gq-K8H377-2jyvbVA-2jzb2BD-2jyvbYr-2jzb2u4-2jza4N3-2jzb2kw-2jyxjS9-2jyPBrq-2jyt1oQ-TTxr2E-dZL1bM-ahVqjT-DxkQW3-TxvkY5-28tqH6i-6PGHz5-ai5QZQ" title="The Isle of Wight cycle route (clockwise)"><img src="https://live.staticflickr.com/217/478181738_b466757b10_c.jpg" width="800" height="533" alt="The Isle of Wight cycle route (clockwise)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

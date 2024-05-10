@@ -105,7 +105,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 
 
 {{% notice tip %}}
-ブラジルの電柱は溝に仕切りが<span class="quiz">ある</span>{{% ex "https://goo.gl/maps/povhWefkEBjScvDP6" %}}。一方で{{% goto "../chile/" "チリ" %}}は仕切りが<span class="quiz">無い</span>かひとつだけある{{% imref %}}。円形の電柱も見られる。また、道端にBRと書かれた看板も見られる。
+ブラジルの電柱は溝に仕切りが<span class="quiz">ある</span>{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" "https://goo.gl/maps/povhWefkEBjScvDP6" %}}。一方で{{% goto "../chile/" "チリ" %}}は仕切りが<span class="quiz">無い</span>かひとつだけある{{% imref %}}。円形の電柱も見られる。また、道端にBRと書かれた看板も見られる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -331,27 +331,27 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>フェルナンド・デ・ノローニャという離島がある{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}</li>
-        <li>ロカス環礁にストリートビューがあり灯台の跡やサンゴ礁が見える{{% ex "https://maps.app.goo.gl/ZZ9eoijN1rTtvQ1y5" "https://maps.app.goo.gl/w3qMUGwSkTzzn3qJ9" %}}</li>
+        <li>Vila do Abraãoは特徴的な山があり、トレッカーを持っている人の頭が映っている</li>
+        <li>Fernando de Noronhaという離島がある{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "フェルナンド・デ・ノローニャ" %}}
+{{% tab "Vila do Abraão" %}}
+{{% notice tip %}}
+尖った山が見える{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}。青いバギーに乗っている区間もある{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./ilhagrande_abraao1.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Fernando de Noronha" %}}
 {{% notice tip %}}
 電柱に穴が開いている。岩場が多く船に乗る場所もある。凄く特徴的な岩があるのでそれで分かるかも{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./brazil_1091369.jpg" width="95%">
-</div>
-{{% /tab %}}
-{{% tab "ロカス環礁" %}}
-{{% notice tip %}}
-世界遺産{{% ex "https://maps.app.goo.gl/ZZ9eoijN1rTtvQ1y5" "https://maps.app.goo.gl/w3qMUGwSkTzzn3qJ9" %}}。道が無いためピンポイントで当てるのは難しい。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Atol_das_Rocas.jpg#/media/File:Atol_das_Rocas.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Atol_das_Rocas.jpg" alt="Atol das Rocas.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Rodrigonavy&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Rodrigonavy (page does not exist)">Rodrigo Pereira Barbosa</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60490963">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
