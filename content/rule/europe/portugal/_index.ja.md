@@ -129,14 +129,25 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>エストレーラ山脈はスノーポールが道端にある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" "https://maps.app.goo.gl/FL2dHXntciZUaC4VA" %}}{{% ref "https://pt.wikipedia.org/wiki/Serra_da_Estrela" "Serra da Estrela" %}}</li>
-        <li>リスボンではCarrisの路面電車を見かけるかも</li>
-        <li>ベルレンガ群島という離島があり17世紀に建てられた要塞が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}{{% ref "https://en.wikipedia.org/wiki/Berlengas" "Berlengas" %}}</li>
+        <li>Peneda-Gerês国立公園周りには巨大な岩が道端に多くある</li>
+        <li>Estrela山脈はスノーポールが道端にある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" "https://maps.app.goo.gl/FL2dHXntciZUaC4VA" %}}{{% ref "https://pt.wikipedia.org/wiki/Serra_da_Estrela" "Serra da Estrela" %}}</li>
+        <li>Berlengas群島という離島があり17世紀に建てられた要塞が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}{{% ref "https://en.wikipedia.org/wiki/Berlengas" "Berlengas" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "エストレーラ山脈" %}}
+{{% tab "Peneda-Gerês国立公園" %}}
+
+{{% notice tip %}}
+でかい岩がある{{% ex "https://maps.app.goo.gl/oqQSHx2CR6MNXAmb7" "https://maps.app.goo.gl/ZAcR9TaXgBQuD236A" "https://maps.app.goo.gl/sqHA8GVdURQC77Y49" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Peneda_Ger%C3%AAs-3.jpg#/media/File:Peneda_Ger%C3%AAs-3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Peneda_Ger%C3%AAs-3.jpg" alt="Peneda Gerês-3.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Mvs12&amp;action=edit&amp;redlink=1" class="new" title="User:Mvs12 (page does not exist)">Mvs12</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40267992">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "Estrela山脈" %}}
 
 {{% notice tip %}}
 ポルトガル唯一のスキー場がありスノーポールが建っている道路もある{{% ex "https://maps.app.goo.gl/GzKFu3siMjosa9zy7" %}}。こんな感じの岩が道端に多く分布している{{% ex "https://maps.app.goo.gl/F4McqZCPwP89sQQk8" "https://maps.app.goo.gl/BfuCzSJrLkQSYPHQA" %}}。
@@ -148,18 +159,7 @@ sc: [
 </div>
 
 {{% /tab %}}
-{{% tab "リスボン" %}}
-
-{{% notice tip %}}
-1873年に運行を開始したCarris（Companhia Carris de Ferro de Lisboa）の路面電車を見かけるかも。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<img src="./city/lisbon_old_town_tram_0.jpg" width="95%">
-</div>
-
-{{% /tab %}}
-{{% tab "ベルレンガ群島" %}}
+{{% tab "Berlengas群島" %}}
 
 {{% notice tip %}}
 要塞か灯台が見える{{% ex "https://maps.app.goo.gl/ea573u1YaaozQzu66" "https://maps.app.goo.gl/f9fbXr8znyNKtTaS8" %}}。人口30人で人の生活感は無い。
@@ -169,6 +169,17 @@ sc: [
 <div class="googlemap-if no-margin">
 <img src="./city/berlenga_fort.jpg" width="310px">
 <img src="./city/berlenga_island_bay.jpg" width="310px">
+</div>
+
+{{% /tab %}}
+{{% tab "路面電車" %}}
+
+{{% notice tip %}}
+1873年に運行を開始したCarris（Companhia Carris de Ferro de Lisboa）の路面電車。ストリートビューに映っているかは不明。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./city/lisbon_old_town_tram_0.jpg" width="95%">
 </div>
 
 {{% /tab %}}
