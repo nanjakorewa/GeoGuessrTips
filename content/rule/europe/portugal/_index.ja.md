@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。またポルトガルの速度制限や警告看板には白い縁があるが{{% goto "../spain/" "スペイン" %}}には無い。
+ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。またポルトガルの速度制限や警告看板には白い縁がある{{% ex "https://maps.app.goo.gl/8DMbVRv8VcRw5N9o6" %}}が{{% goto "../spain/" "スペイン" %}}には無い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./ruaseixo.jpg" width="80%">
@@ -108,7 +108,7 @@ sc: [
 {{% ex "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" "https://maps.app.goo.gl/QSjzfC9XwRBSrkUz7" "https://maps.app.goo.gl/NUBGvcGNu4S4yTK36" %}}
 </td>
 <td style="width:133px">
-{{% ex "https://maps.app.goo.gl/V1kWxxVytxGtkwin6" "https://maps.app.goo.gl/bNh65xMSwjEZPbPPA" "https://maps.app.goo.gl/uRo69tzCqk7VxE9u8" %}}
+{{% ex "https://maps.app.goo.gl/6xFU1Q2zVRZstRKcA" "https://maps.app.goo.gl/V1kWxxVytxGtkwin6" "https://maps.app.goo.gl/bNh65xMSwjEZPbPPA" "https://maps.app.goo.gl/uRo69tzCqk7VxE9u8" %}}
 </td>
 <td style="width:133px">
 {{% ex "https://maps.app.goo.gl/chJywHR6UwK5SmPi8" %}}
