@@ -23,10 +23,10 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pt</span></li>
         <li>ナンバープレートは<span class="quiz">右側が黄色</span></li>
+        <li>速度制限や警告看板には白い縁が<span class="quiz">ある</span></li>
         <li>電柱に<span class="quiz">仕切り</span>があり<span class="quiz">穴が空いている</span>ものがある{{% by %}}</li>
         <li><span class="quiz">黒</span>背景に<span class="quiz">黄</span>色の矢印のシェブロンがある</li>
         <li>ポルトガル語は「Ã・ã」の文字が特徴的で南米では{{% goto "../../cs_america/brazil/" "ブラジル" %}}で使用される</li>
-        <li>ポルトガルのgen4のエリアは空が綺麗{{% by "https://www.youtube.com/live/cw6cHpJT0hA" "youcome" "teri" %}}</li>
         <li class="no-evidence">郊外に石畳の道が見つかる</li>
     </ul>
     {{% rd europe portugal small %}}
@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。
+ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。またポルトガルの速度制限や警告看板には白い縁があるが{{% goto "../spain/" "スペイン" %}}には無い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./ruaseixo.jpg" width="80%">
@@ -63,7 +63,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/zNnAqNoDe5kMsjPR7" "https://maps.app.goo.gl/skgpSjUm8ZpuPs3J9" "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/zNnAqNoDe5kMsjPR7" "https://maps.app.goo.gl/PfbDGGsDFSgVdKe7A" "https://maps.app.goo.gl/skgpSjUm8ZpuPs3J9" "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="100px" style="margin:10px">
@@ -87,13 +87,43 @@ sc: [
 
 
 {{% notice tip %}}
-『許可なしでの狩猟禁止』看板がある{{% ex "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" %}}。赤と白の看板が何種類かあるので他のタイプも見たい方は参考文献を参照してください{{% ref "https://web.archive.org/web/20120124180658/http://www.afn.min-agricultura.pt/portal/caca/cacar/sinalizacao-venatoria" "Proibição de caçar" %}}。
+赤い♢に白い●が描かれた『許可なしでの狩猟禁止』看板がある。赤と白の看板が何種類かあるので他のタイプも見たい方は参考文献を参照してください{{% ref "https://web.archive.org/web/20120124180658/http://www.afn.min-agricultura.pt/portal/caca/cacar/sinalizacao-venatoria" "Proibição de caçar" %}}。
 {{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<table style="width:399px">
+<tr>
+<td style="width:133px">
+<img src="./nh1.png" width="30px">
+</td>
+<td style="width:133px">
+<img src="./nh2.png" width="30px">
+</td>
+<td style="width:133px">
+<img src="./nh3.png" width="30px">
+</td>
+</tr>
+<tr>
+<td style="width:133px">
+{{% ex "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" "https://maps.app.goo.gl/QSjzfC9XwRBSrkUz7" "https://maps.app.goo.gl/NUBGvcGNu4S4yTK36" %}}
+</td>
+<td style="width:133px">
+{{% ex "https://maps.app.goo.gl/V1kWxxVytxGtkwin6" "https://maps.app.goo.gl/bNh65xMSwjEZPbPPA" "https://maps.app.goo.gl/uRo69tzCqk7VxE9u8" %}}
+</td>
+<td style="width:133px">
+{{% ex "https://maps.app.goo.gl/chJywHR6UwK5SmPi8" %}}
+</td>
+</tr>
+</table>
+</div>
 
 <div class="googlemap-if unclickable no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg#/media/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg" alt="Associação de Reabilitação Social e Desinstitucionalização de Doentes Psiquiátricos.jpg" height="360" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Joehawkins&amp;action=edit&amp;redlink=1" class="new" title="User:Joehawkins (page does not exist)">Joehawkins</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54612143">Link</a></p>
 </div>
 
+<div class="googlemap-if unclickable no-margin">
+<img src="nohunting.png" width="60%">
+</div>
 
 
 {{% /tab %}}
