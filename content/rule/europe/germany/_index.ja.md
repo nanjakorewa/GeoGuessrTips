@@ -229,6 +229,7 @@ sc: [
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
+        <li>北半分は平坦な地域が多い</li>
         <li>市外局番で地域がわかる</li>
         <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
         <li class="no-evidence">黄色い花（菜種）の畑は北東に多いかも{{% ex "https://maps.app.goo.gl/xoMDtUbmCffWEzUm9" "https://maps.app.goo.gl/NnYELUqGi3nBKFsV9" %}}</li>
@@ -237,6 +238,11 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "地形" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Deutschland topo.jpg" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Karte Telefonvorwahlen Deutschland.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
