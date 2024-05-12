@@ -1,7 +1,7 @@
 ---
 title: "ポルトガル"
 date: 2023-02-26
-lastmod: 2023-07-01
+lastmod: 2024-04-01
 weight: 1
 draft: false
 keywords: [""]
