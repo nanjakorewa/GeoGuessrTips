@@ -35,7 +35,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白い陶器製のタイルのようなものに通り名が書かれていることが多い{{% ex "https://maps.app.goo.gl/3GXooHPpm1JHh9x59" "https://goo.gl/maps/mLTm8P2y6z5TJkbSA" "https://goo.gl/maps/5h9qXYTs5uq49Vtw6" %}}。２言語で書かれている点も特徴的。
+白い陶器製のタイルのようなものに通り名が書かれていることが多い{{% ex "https://maps.app.goo.gl/3GXooHPpm1JHh9x59" "https://goo.gl/maps/mLTm8P2y6z5TJkbSA" "https://goo.gl/maps/5h9qXYTs5uq49Vtw6" %}}。２言語で書かれている点も特徴的。ちなみに{{% goto "../../europe/portugal/" "ポルトガル" %}}でも似たような形の通り名看板が散見される{{% ex "https://maps.app.goo.gl/t5qJ7FrJ18ADA2bq5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
 <img src="./roadsign1.jpg" width="300px">
