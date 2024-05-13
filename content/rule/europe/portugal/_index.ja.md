@@ -91,27 +91,33 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<table style="width:399px">
+<table style="width:480px">
 <tr>
-<td style="width:133px">
+<td style="width:120px">
 <img src="./nh1.png" width="30px">
 </td>
-<td style="width:133px">
+<td style="width:120px">
 <img src="./nh2.png" width="30px">
 </td>
-<td style="width:133px">
+<td style="width:120px">
 <img src="./nh3.png" width="30px">
+</td>
+<td style="width:120px">
+<img src="./nh4.png" width="30px">
 </td>
 </tr>
 <tr>
-<td style="width:133px">
-{{% ex "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" "https://maps.app.goo.gl/QSjzfC9XwRBSrkUz7" "https://maps.app.goo.gl/NUBGvcGNu4S4yTK36" %}}
+<td style="width:120px">
+{{% ex "https://maps.app.goo.gl/mKDz7TyNCEFQDMJB7" "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" "https://maps.app.goo.gl/QSjzfC9XwRBSrkUz7" "https://maps.app.goo.gl/NUBGvcGNu4S4yTK36" "https://maps.app.goo.gl/x8UqT5NY96CnZiYY9" %}}
 </td>
-<td style="width:133px">
-{{% ex "https://maps.app.goo.gl/QWzN9Er9Nuhp7fJo9" "https://maps.app.goo.gl/6xFU1Q2zVRZstRKcA" "https://maps.app.goo.gl/V1kWxxVytxGtkwin6" "https://maps.app.goo.gl/bNh65xMSwjEZPbPPA" "https://maps.app.goo.gl/uRo69tzCqk7VxE9u8" %}}
+<td style="width:120px">
+{{% ex "https://maps.app.goo.gl/QWzN9Er9Nuhp7fJo9" "https://maps.app.goo.gl/6xFU1Q2zVRZstRKcA" "https://maps.app.goo.gl/V1kWxxVytxGtkwin6" "https://maps.app.goo.gl/bNh65xMSwjEZPbPPA" "https://maps.app.goo.gl/uRo69tzCqk7VxE9u8" "https://maps.app.goo.gl/KGFJB47qTpQPyr8k8" %}}
 </td>
-<td style="width:133px">
+<td style="width:120px">
 {{% ex "https://maps.app.goo.gl/chJywHR6UwK5SmPi8" %}}
+</td>
+<td style="width:120px">
+{{% ex "https://maps.app.goo.gl/KCscA5hyuYMS9QBCA" %}}
 </td>
 </tr>
 </table>
