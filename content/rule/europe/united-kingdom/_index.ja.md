@@ -42,7 +42,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的{{% ex "https://goo.gl/maps/QrmZubBeiPU8u8Uc8" %}}。車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>。
+ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的{{% ex "https://maps.app.goo.gl/AYgkrtqBt2uWs4za8" "https://maps.app.goo.gl/pFCZ2DLYHZSbyYM4A" %}}。車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/T8SCHNtQwQayXGKv7" "https://maps.app.goo.gl/Dr5kV5LyB78UC1bP7" "https://maps.app.goo.gl/jcPv9yvWMu1kTmk78" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
