@@ -90,7 +90,6 @@ sc: [
 </div>
 
 
-
 {{% notice tip %}}
 赤い♢に白い●が描かれた『許可なしでの狩猟禁止』看板がある。赤と白の看板が何種類かあるので他のタイプも見たい方は参考文献を参照してください{{% ref "https://web.archive.org/web/20120124180658/http://www.afn.min-agricultura.pt/portal/caca/cacar/sinalizacao-venatoria" "Proibição de caçar" %}}。
 {{% /notice %}}
@@ -122,7 +121,7 @@ sc: [
 {{% ex "https://maps.app.goo.gl/chJywHR6UwK5SmPi8" %}}
 </td>
 <td style="width:120px">
-{{% ex "https://maps.app.goo.gl/KCscA5hyuYMS9QBCA" %}}
+{{% ex "https://maps.app.goo.gl/4AF4sXA6RbH3HBsA8" "https://maps.app.goo.gl/KCscA5hyuYMS9QBCA" %}}
 </td>
 </tr>
 </table>
@@ -134,6 +133,16 @@ sc: [
 
 <div class="googlemap-if unclickable no-margin">
 <img src="nohunting.png" width="60%">
+</div>
+
+
+{{% notice tip %}}
+世界のコルクの生産の50%以上はポルトガル{{% ex "https://maps.app.goo.gl/fJgWMu3ujYeVuCqL7" "https://maps.app.goo.gl/P9xSQFQYkxcLjp1t7" %}}。次に多いのは{{% goto "../spain/" "スペイン" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./cork_oak_cork_bark.jpg" width="90%">
 </div>
 
 
