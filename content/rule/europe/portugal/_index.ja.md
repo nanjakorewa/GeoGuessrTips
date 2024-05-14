@@ -171,7 +171,7 @@ sc: [
 {{% tab "北半分" %}}
 
 {{% notice tip %}}
-北半分の特に内陸側は木が多くシダや苔が生えているエリアも多い。写真はこの道のどこか{{% ex "https://maps.app.goo.gl/oihSgpavsxVdkfcLA" %}}。
+北半分の特に内陸側は木が多くシダや苔が生えているエリアも多い。写真はこの道のどこか{{% ex "https://maps.app.goo.gl/oihSgpavsxVdkfcLA" %}}。農地が広がり南と同じようなエリアもある。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
