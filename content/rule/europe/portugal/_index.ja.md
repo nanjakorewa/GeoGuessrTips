@@ -62,15 +62,20 @@ sc: [
 <img src="./up.png" width="90%">
 </div>
 
+<div class="googlemap-if no-margin">
+<img src="./r/Portugal_road_sign_H7.svg" width="140px">
+</div>
+
+
 {{% notice tip %}}
 ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/zNnAqNoDe5kMsjPR7" "https://maps.app.goo.gl/PfbDGGsDFSgVdKe7A" "https://maps.app.goo.gl/skgpSjUm8ZpuPs3J9" "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/xv-portugal.png" width="100px" style="margin:10px">
+<img src="./r/xv-portugal.png" width="140px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
-古い石畳の道があったり歩道が石畳だったりする{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}。
+古い石畳の道があったり歩道が石畳だったりする{{% ex "https://maps.app.goo.gl/ozXMmnBiqHCwYThz7" "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./street.png" width="90%">
@@ -155,12 +160,46 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>湿度が高そう・岩が多く見える場合は北半分</li>
+        <li>農地が多い・乾燥している場合は南半分</li>
         <li>ナンバー・電柱・標識などがほぼ同じの離島である{{% goto "../../africa/madeira_islands/" "マデイラ諸島" %}}と{{% goto "../azores/" "アゾレス諸島" %}}がある</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
+{{% tab "北半分" %}}
+
+{{% notice tip %}}
+北半分の特に内陸側は木が多くシダや苔が生えているエリアも多い。写真はこの道のどこか{{% ex "https://maps.app.goo.gl/oihSgpavsxVdkfcLA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="antigo_troco_do_ip5.jpg" width="95%">
+</div>
+
+{{% notice tip %}}
+フランスカイガンショウ（<i>Pinus pinaster</i>）という背の高い松の木は北側に多いイメージ{{% ex "https://maps.app.goo.gl/9eALsXDZ1EeGhHQ1A" %}}{{% ref "https://www.researchgate.net/figure/Map-of-vegetation-types-over-Portugal-left-panel-according-to-the-Corine-Land-Cover_fig1_253860523" "Post-fire vegetation recovery in Portugal based on spot/vegetation data" %}}。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="pins_de_la_paloumere.jpg" width="95%">
+</div>
+
+
+
+{{% /tab %}}
+{{% tab "南半分" %}}
+
+{{% notice tip %}}
+南半分は乾燥していて農地も多い。写真はこの道のどこか{{% ex "https://maps.app.goo.gl/Pz7QeQomSFydbXxi6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="en122_alentejo.jpg" width="95%">
+</div>
+
+{{% /tab %}}
 {{% tab "離島" %}}
 
 {{% notice tip %}}

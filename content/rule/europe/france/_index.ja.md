@@ -14,6 +14,7 @@ is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../belgium/", "ベルギー"],
+    ["../spain/", "スペイン"],
     ["../italy/", "イタリア"],
     ["../../africa/reunion/", "レユニオン"],
     ["../luxembourg/", "ルクセンブルグ"],
@@ -171,6 +172,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
             </ul>
         </li>
+        <li>背の高い松の木は南西の海沿いと地中海側の特定のエリアに多い</li>
     </ul>
 </div>
 
@@ -194,6 +196,16 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 <div class="googlemap-if">
 <img src="./corsica_mountains_mountain_landscape.jpg">
+</div>
+{{% /tab %}}
+{{% tab "背の高い松の木" %}}
+
+{{% notice tip %}}
+南西の自然公園周辺{{% ex "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Panorama-Bosco.JPG#/media/File:Panorama-Bosco.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Panorama-Bosco.JPG" alt="Panorama-Bosco.JPG" width="100%"></a></p><p>By The original uploader was <a href="https://en.wikipedia.org/wiki/it:User:Biopresto" class="extiw" title="w:it:User:Biopresto">Biopresto</a> at <a href="https://en.wikipedia.org/wiki/it:" class="extiw" title="w:it:">Italian Wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" href="https://it.wikipedia.org">it.wikipedia</a></span> to Commons., <a href="https://creativecommons.org/licenses/by-sa/3.0/it/deed.en" title="Creative Commons Attribution-Share Alike 3.0 it">CC BY-SA 3.0 it</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=29198796">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
