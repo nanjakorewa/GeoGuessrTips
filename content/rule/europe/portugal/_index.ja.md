@@ -112,7 +112,7 @@ sc: [
 </tr>
 <tr>
 <td style="width:120px">
-{{% ex "https://maps.app.goo.gl/mKDz7TyNCEFQDMJB7" "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" "https://maps.app.goo.gl/QSjzfC9XwRBSrkUz7" "https://maps.app.goo.gl/NUBGvcGNu4S4yTK36" "https://maps.app.goo.gl/x8UqT5NY96CnZiYY9" %}}
+{{% ex "https://maps.app.goo.gl/nFLXeHUxTSSsshcF7" "https://maps.app.goo.gl/3f16uccvV3jzqWgH6" "https://maps.app.goo.gl/Zcy5Xd3PJRsb7C2C8" "https://maps.app.goo.gl/MhWiM4pysZLT9yvf7" "https://maps.app.goo.gl/QSjzfC9XwRBSrkUz7" "https://maps.app.goo.gl/NUBGvcGNu4S4yTK36" "https://maps.app.goo.gl/x8UqT5NY96CnZiYY9" %}}
 </td>
 <td style="width:120px">
 {{% ex "https://maps.app.goo.gl/QWzN9Er9Nuhp7fJo9" "https://maps.app.goo.gl/6xFU1Q2zVRZstRKcA" "https://maps.app.goo.gl/V1kWxxVytxGtkwin6" "https://maps.app.goo.gl/bNh65xMSwjEZPbPPA" "https://maps.app.goo.gl/uRo69tzCqk7VxE9u8" "https://maps.app.goo.gl/KGFJB47qTpQPyr8k8" %}}
