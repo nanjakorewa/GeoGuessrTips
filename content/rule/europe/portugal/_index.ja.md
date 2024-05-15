@@ -82,7 +82,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-『RUA ～』『～ DE ～』といった感じの通り名が多い。{{% goto "../spain/" "スペイン" %}}語ならば『CALLE』になるはず。
+『RUA ～』『～ DE ～』といった感じの通り名が多い{{% ex "https://maps.app.goo.gl/mSpjTWMdXmSqertz5" "https://maps.app.goo.gl/zGUvpq8pA6jmB4PT6" %}}。{{% goto "../spain/" "スペイン" %}}語ならば『CALLE』になるはず。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
