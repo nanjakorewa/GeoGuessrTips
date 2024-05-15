@@ -396,7 +396,6 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>『Highest road in Europe』とも呼ばれるCol de la Bonette峠がありD64の道がある</li>
         <li>Corsica（コルシカ）島
             <ul>
                 <li>Corsica島は急峻な山と手つかずの自然が広がっている{{% ex "https://maps.app.goo.gl/dz4dsSdnVfFYzUcY9" %}}</li>
@@ -406,19 +405,11 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
         </li>
         <li>Noirmoutier島という平坦な湿地地帯がある{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}</li>
         <li class="no-evidence">Porquerolles島という離島が地中海側のイエール諸島にある{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}</li>
-        <li>Aiguille de la Grande Sassièreへの道がある{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
-{{% tab "Col de la Bonette峠" %}}
-{{% notice tip %}}D64道路が走っている{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./high_alps_pass_road.jpg" width="95%">
-</div>
-{{% /tab %}}
 {{% tab "Corsica島" %}}
 {{% notice tip %}}小さい島だが2500m超の山が連なり内陸の道路は険しい山が見える。写真はD27道路{{% ex "https://maps.app.goo.gl/Hxm2crynhhezEh4r6" "https://maps.app.goo.gl/Tea7jn3cAhudXzdR6" %}}？島の東海岸付近以外は平野がほぼ無く、4割の地域が自然公園であり手つかずの自然が残されている。山がち・植林でない森・農業の様子もないならこの島を考えてみる{{% ex "https://maps.app.goo.gl/YoyDz1XdcxPSyEAn9" %}}。
 {{% /notice %}}
@@ -440,6 +431,34 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 <img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>Calanqueというカルスト地形の入り江が地中海側にある{{% ref "https://en.wikipedia.org/wiki/Calanque" "Calanque" %}}</li>
+        <li>『Highest road in Europe』とも呼ばれるCol de la Bonette峠がありD64の道がある</li>
+        <li>Aiguille de la Grande Sassièreへの道がある{{% ref "https://en.wikipedia.org/wiki/Aiguille_de_la_Grande_Sassi%C3%A8re" "Aiguille de la Grande Sassière" %}}</li>
+        <li>Parisは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Calanque" %}}
+{{% notice tip %}}カルスト地形の入り江{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}。Marseille郊外はこんな感じのカルスト地形が多い。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./vudeniolon2.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Col de la Bonette峠" %}}
+{{% notice tip %}}D64道路が走っている{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./high_alps_pass_road.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "Aiguille de la Grande Sassière山" %}}
 {{% notice tip %}}
 フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある。初見ではフランスとわからなかったのでメモ{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
@@ -448,17 +467,6 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 <p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption city-description">
-    <ul class="rule-list">
-        <li>Parisは区画の番号が時計回り{{% by "now_and_jenn" "twitch" %}}</li>
-    </ul>
-</div>
-
-
-{{% tabs %}}
 {{% tab "Paris" %}}
 {{% notice tip %}}
 パリの行政区はル・ルーヴルの１からスタートしてらせん状に数が増える。
