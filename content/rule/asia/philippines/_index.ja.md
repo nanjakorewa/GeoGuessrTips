@@ -262,7 +262,7 @@ CC0画像を加工
 </div>
 
 {{% notice tip %}}
-個人的には屋根の部分が少し丸っこく{{% ex "https://maps.app.goo.gl/5T9uEctSbDUBmugF8" "https://maps.app.goo.gl/MAScySegNCyKMdpP6" "https://maps.app.goo.gl/8LgbkvqopkGq6eTcA" %}}、とりわけ黒い素材でできている{{% ex "https://maps.app.goo.gl/s7SRcb2Cvqg153RV9" "https://maps.app.goo.gl/2fvubors3M5UXVcX8" "https://maps.app.goo.gl/Ze9J7ZCbqBQt2U629" "https://maps.app.goo.gl/VtioPHPHLn2JzNAf6" "https://maps.app.goo.gl/nVXN3rtnLEVy2KFMA" %}}ならばPalawanも考えてみることがある。
+個人的には屋根の部分が少し丸っこく{{% ex "https://maps.app.goo.gl/5T9uEctSbDUBmugF8" "https://maps.app.goo.gl/MAScySegNCyKMdpP6" "https://maps.app.goo.gl/8LgbkvqopkGq6eTcA" %}}、とりわけ黒い素材でできている{{% ex "https://maps.app.goo.gl/s7SRcb2Cvqg153RV9" "https://maps.app.goo.gl/2fvubors3M5UXVcX8" "https://maps.app.goo.gl/Ze9J7ZCbqBQt2U629" "https://maps.app.goo.gl/VtioPHPHLn2JzNAf6" "https://maps.app.goo.gl/nVXN3rtnLEVy2KFMA" %}}（ただしスリランカやバングラディシュでも走っているトゥクトゥクではないタイプ限定）ならばPalawanも考えてみることがある。
 {{% /notice %}}
 
 {{% /tab %}}
