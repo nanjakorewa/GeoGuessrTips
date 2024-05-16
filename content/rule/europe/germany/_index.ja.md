@@ -167,7 +167,13 @@ sc: [
         <li class="no-evidence">大規模な集合住宅が集まった通りは東側に多い？</li>
         <li class="no-evidence">白い壁とオレンジ色の屋根は中部～南部に多め？</li>
         <li class="no-evidence">中部のスレート鉱山周辺は黒い家の屋根が多いかも（衛星写真{{% ex "https://www.google.com/maps/@49.82393,6.7464958,1598m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7412276,6.8039102,611m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.738088,6.8475731,943m/data=!3m1!1e3?entry=ttu" "https://www.google.com/maps/@49.7506867,6.6360939,933m/data=!3m1!1e3?entry=ttu" "" %}}）{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}</li>
-        <li>地名のパターンがある{{% ref "https://tobiaskauer.org/projects/end/?ach" "Suffixes of German towns and villages" %}}</li>
+        <li>Fachhallenhausというタイプの家はドイツ北半分や{{% goto "../netherlands/" "オランダ" %}}東部で見つかる{{% ref "https://en.wikipedia.org/wiki/Low_German_house" "Low German house" %}}</li>
+        <li class="no-evidence">『German Timber-Frame Road』の道沿いにはその名の通り木造フレームの家が見つかる{{% ref "https://en.wikipedia.org/wiki/German_Timber-Frame_Road" "German Timber-Frame Road" %}}
+            <ul>
+                <li>北部{{% ex "https://maps.app.goo.gl/L4oKBRiv6M5yeq6u8" "https://maps.app.goo.gl/i27QV7aWrXFm9peu6" %}}</li>
+                <li>最東部{{% ex "https://maps.app.goo.gl/8f9nqrA44JDHyrZq6" "https://maps.app.goo.gl/sHzSEUP7XoJd8xD27" "https://maps.app.goo.gl/sUqh5JB7BFqPE2Et6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -214,21 +220,31 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Trier-Heiligkreuz, Am Kiewelsberg 20220705 (2).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
 </div>
 {{% /tab %}}
-{{% tab "地名のパターン" %}}
+{{% tab "Fachhallenhaus" %}}
 
 {{% notice tip %}}
-<a href="https://tobiaskauer.org/projects/end/?ach">このページ<span style="font-size:small;">(リンク)</span></a>で確認できる。
+ドイツ北半分。レンガで作られていることが多いが、割と{{% goto "../belgium/" "ベルギー" %}}寄りではない場所にもある{{% ex "https://maps.app.goo.gl/sgqwsM8k16KBxSA26" "https://maps.app.goo.gl/2SSuuoSZXsTxbEzY6" "https://maps.app.goo.gl/HBS8t7ARSW5fPMiQA" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if no-margin" style="pointer-events:none;">
-<img src="./gsuffix.jpg">
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./winsenmuseum_groode_hus.jpg" width="600px"></p>
 </div>
 {{% /tab %}}
+{{% tab "German Timber-Frame Road" %}}
 
+{{% notice tip %}}
+この道路沿いには各町の伝統的な木骨造りの家が見つかる。ドイツ最東部と西半分の広範囲にわたって道がある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:GesamtkarteMitneuerRouteDetail2016.jpg#/media/File:GesamtkarteMitneuerRouteDetail2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GesamtkarteMitneuerRouteDetail2016.jpg" alt="GesamtkarteMitneuerRouteDetail2016.jpg" height="720" width="574"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Deutsche_Fachwerkstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="User:Deutsche Fachwerkstraße (page does not exist)">Deutsche Fachwerkstraße</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49334857">Link</a></p>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
+        <li>地名のパターンがある{{% ref "https://tobiaskauer.org/projects/end/?ach" "Suffixes of German towns and villages" %}}</li>
         <li>北半分は平坦な地域が多い</li>
         <li>市外局番で地域がわかる</li>
         <li class="no-evidence">工業地帯や工場が見える場合は北東部ではないかも</li>
@@ -238,6 +254,16 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "地名のパターン" %}}
+
+{{% notice tip %}}
+<a href="https://tobiaskauer.org/projects/end/?ach">このページ<span style="font-size:small;">(リンク)</span></a>で確認できる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin" style="pointer-events:none;">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/MapPorn/comments/9xpzd8/german_name_place_endings_eg_burg_vs_dorf_vs/">German name place endings (e.g., "-burg" vs "-dorf" vs "-inghausen", etc.) [1536x1572] [x-post /r/DataArt]</a><br> by<a href="https://www.reddit.com/user/jmerlinb/">u/jmerlinb</a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+{{% /tab %}}
 {{% tab "地形" %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Deutschland topo.jpg" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
@@ -264,7 +290,7 @@ sc: [
 {{% tab "菜種" %}}
 
 {{% notice tip %}}
-北の半島近くや北東だと思われるけれど全域でありえる。写真は北のFischlandで撮られたもの。
+北の半島近くや北東だと思われるけれど全域でありえる。写真は北のFischlandで撮られたもの。基本的に黄色い花は北海周辺に多い。
 {{% /notice %}}
 
 <div class="googlemap-if">
