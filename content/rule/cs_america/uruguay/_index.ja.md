@@ -69,7 +69,7 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 Google Carが<span class="quiz">黒</span>く見える。Google Carが<span class="quiz">黒</span>色なのは南米ではウルグアイの他に{{% goto "../argentina/" "アルゼンチン" %}}と{{% goto "../peru/" "ペルー" %}}がありえる{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695876040129!6m8!1m7!1sNdow-PSRQ6CjuxTyg5HhaQ!2m2!1d-34.91562658275524!2d-55.04692623037403!3f352.6281620226613!4f-31.395691309478167!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1715853321227!6m8!1m7!1s3uH4Pcsm3M9LAWPHxjlExw!2m2!1d-32.61145843008086!2d-55.85167500719937!3f308.35553243324136!4f-3.0350568080905447!5f0.4000000000000002" width="610" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

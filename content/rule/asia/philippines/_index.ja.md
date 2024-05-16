@@ -215,7 +215,9 @@ CC0画像を加工
     <h4 class="section-title">トライシクル</h4>
     <ul class="rule-list">
         <li class="no-evidence">Motorelaはミンダナオ島北部に多い{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}</li>
-        <li class="no-evidence">屋根がフラットだと南部・段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
+        <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
+        <li>屋根に段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
+        <li>フラットな屋根のうち少し丸っこい感じがするならばPalawanを考えることがある</li>
     </ul>
 </div>
 
@@ -227,7 +229,7 @@ CC0画像を加工
 </div>
 
 {{% notice tip %}}
-後ろに席があり普通のトライシクルと比較すると多くの客を乗せることができる{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}。
+後ろに席があり普通のトライシクルと比較すると多くの客を乗せることができる{{% ex "https://maps.app.goo.gl/AJjrg47aewpWv3wPA" "https://maps.app.goo.gl/A8z3gdm31XHR78B26" %}}{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}。WikiによるとCagayan de OroとBukidnonに多いらしい。
 {{% /notice %}}
 
 {{% /tab %}}
@@ -250,7 +252,17 @@ CC0画像を加工
 </div>
 
 {{% notice tip %}}
-屋根に段差が無い。画像はPanglao IslandとTagbilaran{{% ex "https://maps.app.goo.gl/F5pwC7hprrJ3UDFB8" %}}のもの。
+屋根に段差が無い{{% ex "https://maps.app.goo.gl/yWX2nV5EvHYruiJp8" "https://maps.app.goo.gl/iViz3UZThK92uGvw8" %}}。完全にフラットな時もある。画像はPanglao IslandとTagbilaran{{% ex "https://maps.app.goo.gl/F5pwC7hprrJ3UDFB8" %}}のもの。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Palawan" %}}
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg#/media/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Puerto_Princesa_City_proper%2C_Malvar_Road_market_%28Puerto_Princesa%2C_Palawan%3B_08-03-2023%29.jpg" alt="Puerto Princesa City proper, Malvar Road market (Puerto Princesa, Palawan; 08-03-2023).jpg" height="480" width="640"></a></p><p>By Patrickroque01 - Taken using my own camera, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136810939">Link</a></p>
+</div>
+
+{{% notice tip %}}
+個人的には屋根の部分が少し丸っこく{{% ex "https://maps.app.goo.gl/5T9uEctSbDUBmugF8" "https://maps.app.goo.gl/MAScySegNCyKMdpP6" "https://maps.app.goo.gl/8LgbkvqopkGq6eTcA" %}}、とりわけ黒い素材でできている{{% ex "https://maps.app.goo.gl/s7SRcb2Cvqg153RV9" "https://maps.app.goo.gl/2fvubors3M5UXVcX8" "https://maps.app.goo.gl/Ze9J7ZCbqBQt2U629" "https://maps.app.goo.gl/VtioPHPHLn2JzNAf6" "https://maps.app.goo.gl/nVXN3rtnLEVy2KFMA" %}}ならばPalawanも考えてみることがある。
 {{% /notice %}}
 
 {{% /tab %}}
