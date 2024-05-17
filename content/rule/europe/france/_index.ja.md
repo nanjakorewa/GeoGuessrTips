@@ -57,7 +57,7 @@ sc: [
 
 
 {{% notice tip %}}
-電柱やポールに<span class="quiz">青</span>いプレートが貼ってあるならば99%フランス領のどこか{{% ex "https://maps.app.goo.gl/pgYDzowgE8YaCQqA6" "https://maps.app.goo.gl/4f9WsoC6fgfk9as67" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}{{% imref "左側の電柱画像の出典" %}}。ごく稀に例外もある{{% ex "https://maps.app.goo.gl/PtxTSGasQe6xb8LFA" "https://maps.app.goo.gl/AZWrq9ggPjaoJ4qt5" %}}が逆張りはかなりハイリスク。
+電柱やポールに<span class="quiz">青</span>いプレートが貼ってあるならば99%フランス領のどこか{{% ex "https://maps.app.goo.gl/dfcUY2nfPnNDEnfKA" "https://maps.app.goo.gl/pgYDzowgE8YaCQqA6" "https://maps.app.goo.gl/4f9WsoC6fgfk9as67" "https://maps.app.goo.gl/jV8SLYNkCiq7uWfF7" "https://maps.app.goo.gl/xEoDEqkWAxNQTfMu5" %}}{{% imref "左側の電柱画像の出典" %}}。ごく稀に例外もある{{% ex "https://maps.app.goo.gl/PtxTSGasQe6xb8LFA" "https://maps.app.goo.gl/AZWrq9ggPjaoJ4qt5" %}}が逆張りはかなりハイリスク。
 {{% /notice %}}
 
 {{% notice info %}}
@@ -125,6 +125,17 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 <div class="googlemap-if unclickable">
 <img src="./mailboxes_post_france_letter.jpg" width="500px">
 </div>
+
+{{% notice tip %}}
+警告標示に白い縁がある{{% ex "https://maps.app.goo.gl/2ear1qstivRdSAbEA" %}}。ちなみに『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./r/s1.png" width="100px" style="margin:10px;">
+<img src="./r/s2.png" width="100px" style="margin:10px;">
+<img src="./r/s3.png" width="100px" style="margin:10px;">
+</div>
+
+
 {{% /tab %}}
 {{% tab "電柱" %}}
 
@@ -446,7 +457,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 
 {{% tabs %}}
 {{% tab "Calanque" %}}
-{{% notice tip %}}カルスト地形の入り江{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}。Marseille郊外はこんな感じのカルスト地形が多い。
+{{% notice tip %}}カルスト地形の入り江{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}。Marseille郊外はこんな感じのカルスト地形が多い。穴あき電柱やチリ電柱も多いので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./vudeniolon2.jpg" width="95%">
