@@ -99,6 +99,11 @@ sc: [
 赤い♢に白い●が描かれた『許可なしでの狩猟禁止』看板がある。赤と白の看板が何種類かあるので他のタイプも見たい方は参考文献を参照してください{{% ref "https://web.archive.org/web/20120124180658/http://www.afn.min-agricultura.pt/portal/caca/cacar/sinalizacao-venatoria" "Proibição de caçar" %}}。
 {{% /notice %}}
 
+{{% notice note %}}
+{{% goto "../spain/" "スペイン" %}}の場合は『～ DE CAZA』と書かれていたり斜めに線が入っている{{% ref "https://www.spainbuddy.com/hunting-signs-in-spain/" "Hunting signs in Spain" %}}。
+{{% /notice %}}
+
+
 <div class="googlemap-if no-margin">
 <table style="width:480px">
 <tr>
