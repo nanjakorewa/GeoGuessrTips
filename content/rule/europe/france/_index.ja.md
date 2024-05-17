@@ -127,7 +127,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 </div>
 
 {{% notice tip %}}
-警告標示に白い縁がある{{% ex "https://maps.app.goo.gl/2ear1qstivRdSAbEA" %}}。ちなみに『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7" %}}。
+警告標示に白い縁がある{{% ex "https://maps.app.goo.gl/2ear1qstivRdSAbEA" %}}。ちなみに『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/s1.png" width="100px" style="margin:10px;">
