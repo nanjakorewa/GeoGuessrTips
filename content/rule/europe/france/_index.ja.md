@@ -103,7 +103,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 </div>
 
 {{% notice tip %}}
-コンクリートの四角い電柱や区切りのある電柱がある。同じ形の電柱はフランス領である{{% goto "../../africa/reunion/" "レユニオン島" %}}にも存在する。仕切りのある電柱は隣国の{{% goto "../spain/" "スペイン" %}}でも見つかるので周りの景色も確認する。
+コンクリートの四角い電柱や区切りのある電柱がある。同じ形の電柱はフランス領である{{% goto "../../africa/reunion/" "レユニオン島" %}}にも存在する。仕切りのある電柱は隣国の{{% goto "../spain/" "スペイン" %}}でも見つかり、また穴あき電柱やチリ電柱も散見される{{% ex "https://maps.app.goo.gl/HhhAQZdPrtHEX9ts8" %}}ので周りの景色も確認する。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
