@@ -120,14 +120,14 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 </div>
 
 {{% notice tip %}}
-フランスでは四角い立方体型のポストが多い{{% ex "https://maps.app.goo.gl/JBkFvM98iRSs6BkN8" "https://maps.app.goo.gl/Mxxf9FdVmqfhc6Ht5" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/UB36DVZdJMma5bJe7" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" "https://maps.app.goo.gl/TmNad2DmfwMHS4UA8" %}}。{{% goto "../portugal/" "ポルトガル" %}}でも似たようなポストが散見される{{% ex "https://maps.app.goo.gl/KeN6v6JTzJ29kGJ28" %}}。
+フランスでは四角い立方体型のポストが多い{{% ex "https://maps.app.goo.gl/JBkFvM98iRSs6BkN8" "https://maps.app.goo.gl/5UjoHPnf3EJy7mTi9" "https://maps.app.goo.gl/Mxxf9FdVmqfhc6Ht5" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/UB36DVZdJMma5bJe7" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" "https://maps.app.goo.gl/TmNad2DmfwMHS4UA8" %}}。{{% goto "../portugal/" "ポルトガル" %}}でも似たようなポストが散見される{{% ex "https://maps.app.goo.gl/KeN6v6JTzJ29kGJ28" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./mailboxes_post_france_letter.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
-速度制限などの赤い規制標識に白い縁がある{{% ex "https://maps.app.goo.gl/2ear1qstivRdSAbEA" %}}。ちなみに青色の『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" %}}。
+速度制限などの赤い規制標識に白い縁がある{{% ex "https://maps.app.goo.gl/545X9ZbmpDmpWyqo6" "https://maps.app.goo.gl/2ear1qstivRdSAbEA" %}}。ちなみに青色の『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/R9psGGY3QLB9MojV7" "https://maps.app.goo.gl/9UxniwyZePeifExQ7" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" "https://maps.app.goo.gl/M6wUds5xJrKXmeJz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/s1.png" width="100px" style="margin:10px;">
@@ -213,7 +213,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% tab "背の高い松の木" %}}
 
 {{% notice tip %}}
-南西の自然公園周辺{{% ex "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
+南西の自然公園周辺{{% ex "https://maps.app.goo.gl/9FPVSWS9bSpLvdNG6" "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
