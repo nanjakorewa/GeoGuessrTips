@@ -198,6 +198,12 @@ sc: [
 <div class="main-desciption area-description">
     <h4 class="section-title">農業</h2>
     <ul class="rule-list">
+        <li>ビニールハウスは南の海沿いに多い
+            <ul>
+                <li>Mersin{{% ex "https://maps.app.goo.gl/56uGGQTp9BHnDU9o8" "https://maps.app.goo.gl/VpzS5NZfGzPeEm127" "https://maps.app.goo.gl/evzmPVEmvqSbA2JU6" "https://maps.app.goo.gl/GHf6eoEumAVyUfM38" "https://maps.app.goo.gl/saGqXDzGq2ht7CL49" "https://maps.app.goo.gl/i49wKXnzGoxPDFfA6" %}}</li>
+                <li>Antalya{{% ex "https://maps.app.goo.gl/Tjx35UE4uHvNFADz8" "https://maps.app.goo.gl/fUp7UQfaAZDv8f3W7" "https://maps.app.goo.gl/Yd9kGBu8YK66DR8LA" "https://maps.app.goo.gl/tSp6ESjaQP37vor19" %}}</li>
+            </ul>
+        </li>
         <li>コーンは南部が北部より20倍ほど生産量がある{{% ex "https://maps.app.goo.gl/ZbHmLZsLAy8Y3yJx6" "https://maps.app.goo.gl/N5xxEg7qdwkzwc4W6" %}}</li>
         <li>綿花は南部のSoutheast Anatolia{{% ex "https://maps.app.goo.gl/YwGfu3rZ9N67ZuAK6" "https://maps.app.goo.gl/5QeUSFr7egbCEX4QA" %}}</li>
         <li>ひまわりはKonya周辺とギリシャ側に多め{{% ex "https://maps.app.goo.gl/CEQcyWk7QxAQMFbT8" "https://maps.app.goo.gl/ct7NunBzMKNa3St4A" %}}</li>
@@ -205,6 +211,11 @@ sc: [
 </div>
 
 {{% tabs %}}
+{{% tab "ビニールハウス" %}}
+<div class="googlemap-if">
+<img src="./invernadero_pepinos.jpg" width="600">
+</div>
+{{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if">
 <img src="./Turkey_corn.png" width="600">
