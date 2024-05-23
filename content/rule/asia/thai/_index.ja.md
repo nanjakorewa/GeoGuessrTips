@@ -248,3 +248,38 @@ Public Domain
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Koh Samuiという離島がある</li>
+        <li>Koh Lipeに徒歩のカバレッジがある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Koh Samui" %}}
+
+
+{{% notice tip %}}
+4169番道路が島を一周している{{% ex "https://maps.app.goo.gl/6Uo9cLhZJFmL4dWu6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./samui_koh_samui_bangrak.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "Koh Lipe" %}}
+
+
+{{% notice tip %}}
+観光地を歩いていて『Koh Lipe』と書かれている{{% ex "https://maps.app.goo.gl/EYoaUyWyJSib6VwJA" "https://maps.app.goo.gl/1HJBXEX17hkG8uM48" %}}。スキューバ ダイビングやボートツアーが人気らしい。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Walking street At Lipe Island(Koh Lipe) - panoramio.jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
