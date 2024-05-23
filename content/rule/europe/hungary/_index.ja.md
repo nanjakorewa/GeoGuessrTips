@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。
+標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% ex "https://maps.app.goo.gl/2kK7qnq8jQyKAHLK8" %}}{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -76,14 +76,20 @@ sc: [
 
 
 {{% notice tip %}}
-郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋か二階建ての家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
+郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋の家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ex "https://maps.app.goo.gl/DzKQAUXaZWnnGYLc7" %}}{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./dolnjisenik1.jpg" width="90%">
 </div>
 
+
+{{% notice tip %}}
+ハンガリーや{{% goto "../croatia/" "クロアチア" %}}にありそうなボラード。
+{{% /notice %}}
+
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1690031869811!6m8!1m7!1slICrnpezWaz-zEDz-aakYQ!2m2!1d46.21724173088707!2d18.12332613035015!3f234.14083251849004!4f5.569733528559453!5f1.735489030577845" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="./road_edge_region_landscape.jpg" width="500px">
 </div>
 
 {{% /tab %}}
@@ -95,15 +101,8 @@ sc: [
 <img src="./up.jpg" width="90%">
 </div>
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687035524432!6m8!1m7!1sSXAh9cKg2YVhk7Ej1CZqbg!2m2!1d46.62878782208853!2d20.49102787512574!3f191.53646895915023!4f18.202057858923425!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "w-bollard" %}}
-
-<div class="googlemap-if">
-<img src="./road_edge_region_landscape.jpg" width="500px">
-</div>
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682250665332!6m8!1m7!1shUF-N7g2fWOkI2VWUYroKg!2m2!1d46.00918856548847!2d18.21112981205877!3f213.46592080762417!4f-15.275643775147572!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -114,6 +113,23 @@ sc: [
 
 <div class="googlemap-if">
 <img src="./road.jpg" width="90%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description" id="sifnos">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>南東は平坦な平野が広がっているが、北には最大で標高1000m近い山がある</li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "地形" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Hungary-geographic_map-en.svg#/media/File:Hungary-geographic_map-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Hungary-geographic_map-en.svg" alt="Hungary-geographic map-en.svg" height="720" width="1113"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a> - <span class="int-own-work" lang="en">Own work</span>Sources of data:Topography: NASA SRTM3 v2;Urbanised areas: Natural Earth;Other data: © OpenStreetMap contributorsTool:The map is created with Octave scripts developed by <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64483500">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
