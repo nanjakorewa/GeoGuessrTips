@@ -362,7 +362,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Guerreroの海沿いにのみココヤシのプランテーションが存在する。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX" "FAS Home / IPAD Home / Country Summary Mexico - U.S. Department of Agriculture" %}}
+Guerreroの海沿いにココヤシのプランテーションが存在する{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=MX" "FAS Home / IPAD Home / Country Summary Mexico - U.S. Department of Agriculture" %}}。他の地域はかなり稀だが可能性はゼロではない。
 {{% /notice %}}
 
 <div class="googlemap-if">
