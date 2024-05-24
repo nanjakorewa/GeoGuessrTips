@@ -67,6 +67,49 @@ sc: [
 <img src="./bollard.jpg" width="80%">
 </div>
 
+{{% notice tip %}}
+画質が悪く大きいぼかしがかかっていることが多い。他の国でもぼかしがあるので他のヒントと組合わせて判断。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<table style="text-align:center; width:90%;">
+<tr>
+<td>
+{{% goto "../cambodia/" "カンボジア" %}}</li>
+</td>
+<td>
+{{% goto "../srilanka/" "スリランカ" %}}</li>
+</td>
+<td>
+{{% goto "../../africa/nigeria/" "ナイジェリア" %}}</li>
+</td>
+<td>
+{{% goto "../../middle_east/lebanon/" "レバノン" %}}</li>
+</td>
+<td>
+{{% goto "../../cs_america/ecuador/" "エクアドル" %}}</li>
+</td>
+</tr>
+<tr>
+<td>
+{{% ex "https://maps.app.goo.gl/Zae8GW6yHSWRTve38" "https://maps.app.goo.gl/6a1hMMJbeKVAJsNz8" %}}</li>
+</td>
+<td>
+{{% ex "https://maps.app.goo.gl/atGucJRSK67yHPGv8" "https://maps.app.goo.gl/DdViPM8VZPy14kaZ6" %}}</li>
+</td>
+<td>
+{{% ex "https://maps.app.goo.gl/frUSLrM3Ydmrxzz96" "https://maps.app.goo.gl/5hvYF98MUr7ixXHg7" %}}</li>
+</td>
+<td>
+{{% ex "https://maps.app.goo.gl/khRnd6k5NQEsud4S9" "https://maps.app.goo.gl/F54TJHqUdqMiktdu9" %}}</li>
+</td>
+<td>
+{{% ex "https://maps.app.goo.gl/2kJ22PKdYESfJcRu7" "https://maps.app.goo.gl/cppFB1pUhWMonKFb6" %}}</li>
+</td>
+</tr>
+</table>
+</div>
+
 {{% /tab %}}
 {{% tab "乗り物" %}}
 
