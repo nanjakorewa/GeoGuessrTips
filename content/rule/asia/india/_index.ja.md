@@ -81,6 +81,22 @@ sc: [
 {{% goto "../srilanka/" "スリランカ" %}}</li>
 </td>
 <td>
+{{% goto "../bangladesh/" "バングラディシュ" %}}</li>
+</td>
+</tr>
+<tr>
+<td>
+{{% ex "https://maps.app.goo.gl/Zae8GW6yHSWRTve38" "https://maps.app.goo.gl/vgSYTtamECiYWcWG8" "https://maps.app.goo.gl/6a1hMMJbeKVAJsNz8" %}}</li>
+</td>
+<td>
+{{% ex "https://maps.app.goo.gl/atGucJRSK67yHPGv8" "https://maps.app.goo.gl/i3UcHzwzcRAQQDKS8" "https://maps.app.goo.gl/DdViPM8VZPy14kaZ6" %}}</li>
+</td>
+<td>
+{{% ex "https://maps.app.goo.gl/rPV3iWgxNUbeUZys8" "https://maps.app.goo.gl/EgBVpRMcjzEbJJeM8" "https://maps.app.goo.gl/sKTfnZaoZk6oGFqL9" %}}</li>
+</td>
+</tr>
+<tr>
+<td>
 {{% goto "../../africa/nigeria/" "ナイジェリア" %}}</li>
 </td>
 <td>
@@ -92,19 +108,13 @@ sc: [
 </tr>
 <tr>
 <td>
-{{% ex "https://maps.app.goo.gl/Zae8GW6yHSWRTve38" "https://maps.app.goo.gl/6a1hMMJbeKVAJsNz8" %}}</li>
+{{% ex "https://maps.app.goo.gl/frUSLrM3Ydmrxzz96" "https://maps.app.goo.gl/cGeaWKQWnzmcJfJZ8" "https://maps.app.goo.gl/5hvYF98MUr7ixXHg7" %}}</li>
 </td>
 <td>
-{{% ex "https://maps.app.goo.gl/atGucJRSK67yHPGv8" "https://maps.app.goo.gl/DdViPM8VZPy14kaZ6" %}}</li>
+{{% ex "https://maps.app.goo.gl/k32FDvWdfE3Kz4vd7" "https://maps.app.goo.gl/khRnd6k5NQEsud4S9" "https://maps.app.goo.gl/F54TJHqUdqMiktdu9" %}}</li>
 </td>
 <td>
-{{% ex "https://maps.app.goo.gl/frUSLrM3Ydmrxzz96" "https://maps.app.goo.gl/5hvYF98MUr7ixXHg7" %}}</li>
-</td>
-<td>
-{{% ex "https://maps.app.goo.gl/khRnd6k5NQEsud4S9" "https://maps.app.goo.gl/F54TJHqUdqMiktdu9" %}}</li>
-</td>
-<td>
-{{% ex "https://maps.app.goo.gl/2kJ22PKdYESfJcRu7" "https://maps.app.goo.gl/cppFB1pUhWMonKFb6" %}}</li>
+{{% ex "https://maps.app.goo.gl/yjym5a7Suyek3NYz7" "https://maps.app.goo.gl/2kJ22PKdYESfJcRu7" "https://maps.app.goo.gl/cppFB1pUhWMonKFb6" %}}</li>
 </td>
 </tr>
 </table>
