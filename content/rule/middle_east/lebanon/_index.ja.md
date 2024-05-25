@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-黄色い電柱や黄色い鉄塔は経験上レバノン以外ではあまり見ない{{% ex "https://maps.app.goo.gl/y3iMD6PSh1S3ApFm7" "https://maps.app.goo.gl/eLUbKaNcUDC5xrhm6" "https://maps.app.goo.gl/xdFMESn5LBEHgMui9" "https://maps.app.goo.gl/DbvVcWYsmqXWVNCk7" "https://maps.app.goo.gl/8wnu2MS3mpJWKt929" %}}。普通の灰色の鉄塔も多い{{% ex "https://maps.app.goo.gl/SFGYEXCT4pAbVsAx8" "https://maps.app.goo.gl/JtRL9aZvZ5nVxZtK6" %}}。
+黄色い電柱や黄色い鉄塔は経験上レバノン以外ではあまり見ない{{% ex "https://maps.app.goo.gl/y3iMD6PSh1S3ApFm7" "https://maps.app.goo.gl/xHXiWKQJaTcJHB3K6" "https://maps.app.goo.gl/LsqrVcWGtumdQDtF7" "https://maps.app.goo.gl/eLUbKaNcUDC5xrhm6" "https://maps.app.goo.gl/xdFMESn5LBEHgMui9" "https://maps.app.goo.gl/DbvVcWYsmqXWVNCk7" "https://maps.app.goo.gl/8wnu2MS3mpJWKt929" %}}。普通の灰色の鉄塔も多い{{% ex "https://maps.app.goo.gl/SFGYEXCT4pAbVsAx8" "https://maps.app.goo.gl/JtRL9aZvZ5nVxZtK6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -41,7 +41,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-歩道や大学構内を歩ていることが多い。ナンバープレートは参考文献にあるようにさまざまな色があり{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Lebanon" "Vehicle registration plates of Lebanon" %}}、上部や左側が青い{{% ex "https://maps.app.goo.gl/5jNqqkgRQSSVRQdf6" "https://goo.gl/maps/pZy2ZrSFj8sEzxGz7" "https://maps.app.goo.gl/uKCVpY5PvTofYiWbA" "https://maps.app.goo.gl/F1Ht4v7WapJzWfLw8" "https://maps.app.goo.gl/STRN3kfZVFHMscXN6" %}}。
+ナンバープレートは参考文献にあるようにさまざまな色があり{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Lebanon" "Vehicle registration plates of Lebanon" %}}、上部や左側が青い{{% ex "https://maps.app.goo.gl/5jNqqkgRQSSVRQdf6" "https://goo.gl/maps/pZy2ZrSFj8sEzxGz7" "https://maps.app.goo.gl/uKCVpY5PvTofYiWbA" "https://maps.app.goo.gl/F1Ht4v7WapJzWfLw8" "https://maps.app.goo.gl/STRN3kfZVFHMscXN6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -67,7 +67,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-アラビア語・英語・フランス語が街中で見つかる{{% ex "https://maps.app.goo.gl/FTeBeByGCE18eVYk6" %}}。
+アラビア語・英語・フランス語が街中で見つかる{{% ex "https://maps.app.goo.gl/vewxpamJW7iN6Z2WA" "https://maps.app.goo.gl/FTeBeByGCE18eVYk6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -89,7 +89,7 @@ sc: [
 {{% tab "Zahlé" %}}
 
 {{% notice tip %}}
-レバノン山脈とアンチレバノン山脈に挟まれているので東西に山脈が見える{{% ex "https://maps.app.goo.gl/t8tmZaQJsbJDPw4F8" "https://maps.app.goo.gl/mpPxcFWLw3Jaqn799" %}}はずだがカメラの向きが変だったりするので正確な向きは判断が難しい。またベッカー渓谷全体で農業が盛んにおこなわれている{{% ex "https://maps.app.goo.gl/HJAt9FVAaJ16QtfAA" "https://maps.app.goo.gl/ADjg4XSJowSa85g27" %}}。
+レバノン山脈とアンチレバノン山脈に挟まれているので東西に山脈が見える{{% ex "https://maps.app.goo.gl/t8tmZaQJsbJDPw4F8" "https://maps.app.goo.gl/mpPxcFWLw3Jaqn799" %}}はずだがカメラの向きが変だったりするので正確な向きは判断が難しい。またベッカー渓谷全体で農業が盛んにおこなわれている{{% ex "https://maps.app.goo.gl/HJAt9FVAaJ16QtfAA" "https://maps.app.goo.gl/ADjg4XSJowSa85g27" %}}。北レバノン～アッカール県あたりの平地でも農業をしている点に注意{{% ex "https://maps.app.goo.gl/jR5ivExaFW63hngy9" "https://maps.app.goo.gl/9tcdNUWfjNzorjLG9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
