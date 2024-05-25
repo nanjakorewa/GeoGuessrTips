@@ -47,7 +47,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑や青色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/GpS1ev2hRBp5BcYG8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
+ナイジェリアは<span class="quiz">右側</span>通行。ナンバープレートは複数存在し、ぼんやりと緑や青色に見えることがある{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/2pNL3Jseo1RDPo2ZA" "https://maps.app.goo.gl/GpS1ev2hRBp5BcYG8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}。
 {{% /notice %}}
 
 {{% lb 50 %}}

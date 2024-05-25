@@ -16,6 +16,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../mexico/", "メキシコ"],
     ["../../africa/senegal/", "セネガル"],
+    ["../../africa/kenya/", "ケニア"],
     ]
 ---
 
