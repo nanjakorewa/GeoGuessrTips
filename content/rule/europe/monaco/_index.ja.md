@@ -48,10 +48,17 @@ Public domain
 
 
 {{% notice tip %}}
-世界で最も人口密度の高い主権国家であり、高層マンションがとても多い。また農地は一切存在しない。
+世界で最も人口密度の高い主権国家であり高層マンションがとても多い。狭いため農地や４車線道路は存在せず、狭く曲がりくねった道やトンネルが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./monaco_monte_carlo_mediterranean.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+標識に金色の謎の素材が使われている{{% ex "https://maps.app.goo.gl/tuisUghz3QXgXAdt7" "https://maps.app.goo.gl/8ECdUdsbkiZLd3YD9" %}}。ポールや裏面はこげ茶色のことが多く{{% ex "https://maps.app.goo.gl/c6Lhp2dFioZVGaJm7" %}}、他の国で同じものは見かけない。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./660px-Panneaux_d'indication_à_Monaco_en_novembre_2021.jpg" width="50%">
 </div>
 
 {{% notice tip %}}
