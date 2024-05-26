@@ -174,6 +174,7 @@ sc: [
         </li>
         <li>ランプに青いキャップみたいなものが付いているのは<span class="quiz">ノバスコシア</span>に多い{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
         <li>黒とオレンジのコーンは<span class="quiz">オンタリオ</span>・白とオレンジのコーンは<span class="quiz">ケベック</span>{{% ref "https://docs.google.com/document/d/15DuGdsvKMqv5O-XiFwhNuczw89jVqg8XycY7brvhjP4/edit" "Comprehensive Canada - Davis Savage" %}}</li>
+        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
     </ul>
 </div>
 
@@ -229,18 +230,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682432492247!6m8!1m7!1sLO_H97dvPqc3aO3fixvorg!2m2!1d45.49181109498912!2d-73.58142739183401!3f134.36495306086366!4f-5.588569419165907!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption country-description">
-    <h4 class="section-title">電柱</h4>
-    <ul class="rule-list">
-        <li>２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}</li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "サスカチュワン" %}}
+{{% tab "サスカチュワンの電柱" %}}
 {{% notice tip %}}
 ２：１に分かれた電柱が交互に繰り返されている時は<span class="quiz">サスカチュワン</span>に多い{{% by "https://youtu.be/D4Po4N-LJSw?t=291" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}。２：１→１：２→２：１→...となっている。
 {{% /notice %}}

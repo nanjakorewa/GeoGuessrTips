@@ -16,6 +16,7 @@ sc: [
     ["../laos/", "ラオス"],
     ["../srilanka/", "スリランカ"],
     ["../philippines/", "フィリピン"],
+    ["../../cs_america/brazil/", "ブラジル"],
     ]
 ---
 
@@ -78,7 +79,7 @@ Public Domain
 
 
 {{% notice tip %}}
-{{% goto "../philippines/" "フィリピン" %}}と同じくコンクリート製の道路が多い{{% ex "https://goo.gl/maps/r13uzRvMa4tviaBd7" "https://maps.app.goo.gl/R3tCgsx1Y9GfrvNR7" "https://maps.app.goo.gl/dYqx5XLXcWYNzzNk8" "https://goo.gl/maps/iX5PYuWwGEbDj8fv8" %}}。
+{{% goto "../philippines/" "フィリピン" %}}と同じくコンクリート製の道路が多い{{% ex "https://goo.gl/maps/r13uzRvMa4tviaBd7" "https://maps.app.goo.gl/R3tCgsx1Y9GfrvNR7" "https://maps.app.goo.gl/dYqx5XLXcWYNzzNk8" "https://goo.gl/maps/iX5PYuWwGEbDj8fv8" %}}。個人的には舗装されていない郊外は国間違えがち{{% ex "https://maps.app.goo.gl/D9fDp7iVJdemnFqy6" "https://maps.app.goo.gl/8zYeUEGe8tvUNiGH8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

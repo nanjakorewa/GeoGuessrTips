@@ -15,8 +15,8 @@ plonkit: true
 is_has_many_trekker: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../jordan/", "ヨルダン"],
     ["../../asia/india/", "インド"],
-    ["../united_arab_emirates/", "アラブ首長国連邦"],
     ]
 ---
 
@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-黄色い電柱や黄色い鉄塔は経験上レバノン以外ではあまり見ない{{% ex "https://maps.app.goo.gl/y3iMD6PSh1S3ApFm7" "https://maps.app.goo.gl/xHXiWKQJaTcJHB3K6" "https://maps.app.goo.gl/LsqrVcWGtumdQDtF7" "https://maps.app.goo.gl/eLUbKaNcUDC5xrhm6" "https://maps.app.goo.gl/xdFMESn5LBEHgMui9" "https://maps.app.goo.gl/DbvVcWYsmqXWVNCk7" "https://maps.app.goo.gl/8wnu2MS3mpJWKt929" %}}。普通の灰色の鉄塔も多い{{% ex "https://maps.app.goo.gl/SFGYEXCT4pAbVsAx8" "https://maps.app.goo.gl/JtRL9aZvZ5nVxZtK6" %}}。
+黄色い電柱や黄色い鉄塔は経験上レバノン以外ではあまり見ない{{% ex "https://maps.app.goo.gl/y3iMD6PSh1S3ApFm7" "https://maps.app.goo.gl/xHXiWKQJaTcJHB3K6" "https://maps.app.goo.gl/LsqrVcWGtumdQDtF7" "https://maps.app.goo.gl/eLUbKaNcUDC5xrhm6" "https://maps.app.goo.gl/xdFMESn5LBEHgMui9"%}}。普通の灰色の鉄塔や赤い鉄塔もある{{% ex "https://maps.app.goo.gl/Y4y213Ef864HFSzb8" "https://maps.app.goo.gl/KdJP8BLzV4UvV7x2A" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
