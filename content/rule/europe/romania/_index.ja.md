@@ -240,7 +240,7 @@ TODO / ブルガリアっぽい建物があるかも。
         <li>一部の都市では石油が生産されており工業化が進んでいる
             <ul>
                 <li>Ploieşti{{% ex "https://maps.app.goo.gl/TMkVw6nuouKSt2Lv5" "https://maps.app.goo.gl/qGG3DoX5ETQkg5Uu5" %}}</li>
-                <li>Ploieşti{{% ex "https://maps.app.goo.gl/AJX72pYFpiThJNnA9" %}}</li>
+                <li>Pitești{{% ex "https://maps.app.goo.gl/AJX72pYFpiThJNnA9" %}}</li>
             </ul>
         </li>
         <li>ドナウ・デルタと呼ばれるヨーロッパの三角州エリアの間を船で移動する区間がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF" "ドナウ・デルタ" %}}</li>
