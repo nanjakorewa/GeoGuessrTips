@@ -96,6 +96,17 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <p>By Yoshi Canopus - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9435271">Link</a></p>
 </div>
 
+
+{{% notice tip %}}
+細い2車線道路{{% ex "https://maps.app.goo.gl/2r5azt7xg3HcmG726" "https://maps.app.goo.gl/BoDGBtFmznWSeCdPA" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Jl_hutan_-_panoramio.jpg#/media/File:Jl_hutan_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Jl_hutan_-_panoramio.jpg" alt="Jl hutan - panoramio.jpg" height="478" width="640"></a></p><p>By kasman70, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59989024">Link</a></p>
+</div>
+
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 {{% notice note %}}
