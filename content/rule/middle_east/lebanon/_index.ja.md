@@ -66,6 +66,16 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Zig-zag lebanese mountain road.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Link</a></p>
 </div>
 
+
+
+{{% notice tip %}}
+石造りの家がほとんど{{% ex "https://maps.app.goo.gl/Y2cJxJsa1RDNpPa8A" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./lebanon_syria_border_sep13voa_2.jpg" width="90%">
+</div>
+
 {{% notice tip %}}
 アラビア語・英語・フランス語が街中で見つかる{{% ex "https://maps.app.goo.gl/vewxpamJW7iN6Z2WA" "https://maps.app.goo.gl/FTeBeByGCE18eVYk6" %}}。
 {{% /notice %}}
@@ -76,6 +86,32 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs  %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>農業に地域性が少しだけある？
+            <ul>
+                <li><span style="color:#F7F0A1;font-size:1.1em">■</span>山脈であり平坦な場所が少ない</li>
+                <li><span style="color:#B38C9A;font-size:1.1em">■</span>ぶどう・Zahlé周り{{% ex "https://maps.app.goo.gl/GW3bAa8cU7gRv3Ky6" "https://maps.app.goo.gl/sSh25gBvwNp6hzDt9" "https://maps.app.goo.gl/kQGbcuRNMj6TLNk66" %}}</li>
+                <li><span style="color:#F7380B;font-size:1.1em">■</span>オリーブ・西の斜面{{% ex "https://maps.app.goo.gl/eVVSLsBVoYND5ioSA" "https://maps.app.goo.gl/CqkAhvxkm6iS6oKc6" "https://maps.app.goo.gl/7NiFSfWBV466vwKS9" %}}</li>
+                <li><span style="color:#F59115;font-size:1.1em">■</span>平坦なエリアで農業全般{{% ex "https://maps.app.goo.gl/UrVK8uevn3i54U8T6" "https://maps.app.goo.gl/mMvQrbDVbRfVGky79" "https://maps.app.goo.gl/Y7SPix2x2794jPiMA" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "農業" %}}
+
+<div class="googlemap-if">
+<img src="./1979-crop.jpg" width="70%">
+</div>
+
+{{% /tab %}}
+{{% /tabs  %}}
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
