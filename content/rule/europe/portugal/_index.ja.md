@@ -73,8 +73,13 @@ sc: [
 
 
 {{% notice tip %}}
-ヨーロッパの暖かい地域で黒背景に黄色のシェブロンを使うのはポルトガルだけ{{% ex "https://maps.app.goo.gl/zNnAqNoDe5kMsjPR7" "https://maps.app.goo.gl/PfbDGGsDFSgVdKe7A" "https://maps.app.goo.gl/skgpSjUm8ZpuPs3J9" "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}。寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+ヨーロッパ周辺の暖かい景色で黒背景に黄色のシェブロンを使うのはポルトガル{{% ex "https://maps.app.goo.gl/zNnAqNoDe5kMsjPR7" "https://maps.app.goo.gl/PfbDGGsDFSgVdKe7A" "https://maps.app.goo.gl/skgpSjUm8ZpuPs3J9" "https://maps.app.goo.gl/eiJfzDC7sd98v4Mr6" "https://goo.gl/maps/Bnh3aPP8joznfXTb9" %}}がほとんど。稀に{{% goto "../../middle_east/" "トルコ" %}}もあり得るがトルコならばシェブロンの先端に隙間があるはず。
 {{% /notice %}}
+
+{{% notice note %}}
+寒そうならば{{% goto "../iceland/" "アイスランド" %}}・<span class="quiz">{{% goto "../ireland/" "アイルランド" %}}・{{% goto "../norway/" "ノルウェー" %}}・{{% goto "../finland/" "フィンランド" %}}</span>を、そうではないならば{{% goto "../luxembourg/" "ルクセンブルグ" %}}を検討してみる{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。そして南半球ならば{{% goto "../../cs_america/" "ブラジル" %}}が候補になる。
+{{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./r/xv-portugal.png" width="140px" style="margin:10px">
 </div>
