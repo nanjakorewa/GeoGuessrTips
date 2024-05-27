@@ -143,7 +143,8 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
-        <li>RN6・RN9道路の舗装も近いRN4に近い景色で、赤と白のボラード・路側帯付近に反射板がある</li>
+        <li>RN7はRN4と同じく緑が多いが山がちなエリア</li>
+        <li>RN9は緑が多く道路が<b>南北</b>方向に伸びている</li>
     </ul>
 </div>
 
@@ -151,7 +152,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% tabs %}}
 {{% tab "Ruta 4" %}}
 {{% notice tip %}}
-範囲はかなり狭いけれど何回か出て毎回どこかわからなかったのでメモ{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
+緑が多く平坦な場所が多め{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -159,10 +160,19 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, 加工あり</p>
 </div>
 {{% /tab %}}
+{{% tab "Ruta 7" %}}
+{{% notice tip %}}
+緑が多いがRN4よりも山がちなエリアが多い{{% ex "https://maps.app.goo.gl/d2t1CUYrjo9sSNdb6" %}}。RN4やRN7はカメラがバグっていることもある{{% ex "https://maps.app.goo.gl/LubqjF8MCowKaFEDA" "https://maps.app.goo.gl/PxM5shiu2qfMNmbK8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Florida,_Bolivia_-_panoramio_-_vozachudo2004_(10).jpg#/media/File:Florida,_Bolivia_-_panoramio_-_vozachudo2004_(10).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Florida%2C_Bolivia_-_panoramio_-_vozachudo2004_%2810%29.jpg" alt="Florida, Bolivia - panoramio - vozachudo2004 (10).jpg" height="360" width="640"></a></p><p>By vozachudo2004, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52911602">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "Ruta 9" %}}
 
 {{% notice tip %}}
-ボリビアのラパス周辺とは全く違った景色なので注意。赤と白のボラード・路側帯付近に反射板・中央線はオレンジ{{% ex "https://goo.gl/maps/S3gDjg46zrcVeA298" "https://goo.gl/maps/YwXdd9yw8Jac6Pdu9" %}}。
+ボリビアのラパス周辺とは全く違った景色なので注意。赤と白のボラード・路側帯付近に反射板・中央線はオレンジ{{% ex "https://goo.gl/maps/S3gDjg46zrcVeA298" "https://goo.gl/maps/YwXdd9yw8Jac6Pdu9" %}}。道路が南北方向のときは検討してみる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
