@@ -53,7 +53,6 @@ sc: [
 <img src="./bollard.jpg" width="90%">
 </div>
 
-
 {{% notice tip %}}
 同じドイツ語圏である{{% goto "../germany/" "ドイツ" %}}と共通点が多く、ö・üやä・ßのようなドイツ語に見られる文字がある{{% ex "https://goo.gl/maps/8RBYaaz9P57cNdtd7" %}}。また下のようなHaltestelleの看板が路面電車などの停留所にある{{% ex "https://goo.gl/maps/nJNCN9EVVd2VWg9N8" %}}のもドイツと共通している。
 {{% /notice %}}
@@ -87,9 +86,15 @@ sc: [
 <img src="../germany/r/route-sign.svg" width="150px">
 <img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px">
 </div>
-
 </div>
 
+{{% notice tip %}}
+看板や標識をクリップのような何かで留めがち{{% ex "https://maps.app.goo.gl/Bg3swsmgGanLQjuD9" "https://maps.app.goo.gl/9rrmmKf8vvdxyoN27" "https://maps.app.goo.gl/qXA42TgraYMvhVJE8" "https://maps.app.goo.gl/GLv4R789jETc1ChQA" "https://maps.app.goo.gl/QaAwQyy18Md3wfQFA" "https://maps.app.goo.gl/iqhEeLXBCTMTA65JA" %}}？確証なし。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./clip-sign.jpg" width="95%">
+</div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
 {{% lb %}}
