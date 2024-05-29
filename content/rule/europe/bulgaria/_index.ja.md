@@ -25,12 +25,10 @@ sc: [
         <li>ドメインは<span class="quiz">.bg</span></li>
         <li>横断歩道の標識の線の数は<span class="quiz">4</span>本</li>
         <li>公用語はブルガリア語（български）でキリル文字を使用<span class="quiz">する</span></li>
-        <li>ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも</li>
+        <li>地域名などの看板が基本的に<span class="quiz">２</span>言語で書かれている</li>
         <li>「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}</li>
         <li class="no-evidence"><span class="quiz">ブリキ製のような</span>ゴミ箱が通りや家の前に置いてある{{% by %}}</li>
         <li class="no-evidence">なんか全体的に天気が曇りっぽい</li>
-        <li class="no-evidence">地域名の看板が基本的に２言語で書かれている</li>
-        <li class="no-evidence">電柱に黄色いペイントがありそこにキリル文字が書いてある。</li>
     </ul>
     {{% rd europe bulgaria verysmall %}}
     <div class="sign-area sign-area-clickable licence-area">
@@ -41,29 +39,28 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-{{% notice tip %}}横断歩道の標識の線の数は<span class="quiz">4</span>本
+{{% notice tip %}}横断歩道の標識の線の数は<span class="quiz">4</span>本{{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多く、みんな煙突がついている。
+{{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多くみんな煙突がついている。一人当たりのGDPは2022年時点ではEUで一番低い{{% ref "https://www.mofa.go.jp/mofaj/area/bulgaria/data.html" "外務省 - ブルガリア共和国基礎データ" %}}ためか、家やインフラはボロボロなものが多い。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="./bulgaria_village_cart_wooden.jpg" width="640">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/38056840695/" title="Bulgaria, along the Sofia-Plovdiv railway"><img src="https://live.staticflickr.com/4536/38056840695_926a544073_z.jpg" width="640" height="424" alt="Bulgaria, along the Sofia-Plovdiv railway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
-{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
+{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-07-23-10-25-46.png" width="278px"/>
 <img src="2023-07-23-10-23-12.png" width="310px"/>
 </div>
 
-{{% notice tip %}}電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% by "niwaisound" "twitch"  %}}。あとこの画像のような曇りっぽい天気が多いように思う。
+{{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。あとこの画像のような曇りっぽい天気が多いように思う。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bulgaria-road.png" width="90%">
@@ -114,6 +111,13 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>？？？</li>
+    </ul>
+</div>
 
 
 <div class="main-desciption area-description">
