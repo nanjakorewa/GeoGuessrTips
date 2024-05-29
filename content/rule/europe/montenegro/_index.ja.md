@@ -100,24 +100,3 @@ CC0
 
 {{% /tab  %}}
 {{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <ul class="rule-list">
-        <li><span class="quiz">内陸</span>側は画像に切れ目があることが多い{{% by "https://www.plonkit.net/montenegro" "plonkit" %}}</li>
-    </ul>
-</div>
-
-
-{{% tabs %}}
-{{% tab "画像の裂け目" %}}
-{{% notice tip %}}
-<span class="quiz">内陸</span>側は画像に切れ目があることが多い{{% by "https://www.plonkit.net/montenegro" "plonkit" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683375380488!6m8!1m7!1semP_84KiWEIu7mvC718wbA!2m2!1d43.15531973831427!2d18.84540853743735!3f280.12276035190143!4f51.541473005647276!5f1.4464286783584681" width="500" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab  %}}
-{{% /tabs %}}

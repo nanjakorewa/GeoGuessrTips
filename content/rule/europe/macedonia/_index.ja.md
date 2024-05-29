@@ -48,12 +48,8 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える。青いラインは無い場合の方が多い。
+ナンバープレートの左側付近が<span class="quiz">少しだけ赤く</span>見える{{% ex "https://maps.app.goo.gl/x8LV8AyRh5FN4if78" %}}。青いラインは無い場合の方が多い。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683488727497!6m8!1m7!1sEdQUhwPvCEpOWtH0MbnoJQ!2m2!1d41.99091810135219!2d21.46499973341666!3f20.31078082139549!4f-30.592458816852307!5f2.9083554603299264" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683488890983!6m8!1m7!1sgKxdD1yXh9tNwo2deS3DqA!2m2!1d41.99081838903857!2d21.46518823099309!3f202.19367154038568!4f-10.387930909500298!5f3.3140154436533846" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% lb 50 small %}}
 ![](2023-06-15-01-21-09.png)
@@ -70,6 +66,8 @@ By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index
 </div>
 
 
+{{% /tab %}}
+{{% tab "商業施設" %}}
 
 {{% notice tip %}}
 TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/Tinex" "wikipedia - tinex" %}}。なぜかスコピエにすごく集中して出店している。ドミナント戦略？
@@ -79,6 +77,25 @@ TINEXは北マセドニアの小売業者{{% ref "https://en.wikipedia.org/wiki/
 <div class="unclickable">
 <img src="2023-06-09-23-16-18.png" width="530">
 </div>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption city-description" id="Lampedusa">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Ohridは水色と白でペイントされたタクシーが走っているかも{{% ex "https://maps.app.goo.gl/uo5oXXcbN7C38H989" "https://maps.app.goo.gl/MURyUL38xE6s4gXWA" "https://maps.app.goo.gl/FkE7boM5xSoqyUAZ9" %}}？</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Ohrid" %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Ohrid,_North_Macedonia_2022_-_Taxi_Stand.jpg#/media/File:Ohrid,_North_Macedonia_2022_-_Taxi_Stand.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Ohrid%2C_North_Macedonia_2022_-_Taxi_Stand.jpg" alt="Ohrid, North Macedonia 2022 - Taxi Stand.jpg" width="90%"></a></p><p>By Sharon Hahn Darlin - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/sharonhahndarlin/52396951461/">https://www.flickr.com/photos/sharonhahndarlin/52396951461/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123626652">Link</a></p>
 </div>
 
 {{% /tab %}}
