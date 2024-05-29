@@ -35,7 +35,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span>ので中央部分が少しだけ赤く見えることがある。真っ白なプレートの車も一定数ある。
+ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span>ので中央部分が少しだけ赤く見えることがある{{% ex "https://maps.app.goo.gl/XKk4oFYuAG9Bsejo8" "https://maps.app.goo.gl/A9fuD52Ge1eenJaSA" %}}。真っ白なプレートの車も一定数ある。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%">
