@@ -55,6 +55,17 @@ sc: [
 <img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" />
 </div>
 
+
+{{% notice tip %}}道路のセンターラインはほとんどが<span class="quiz">白</span>色2本線。画像のように中央に２本の<span class="quiz">白</span>線がある道はほぼマレーシア{{% ex "https://maps.app.goo.gl/f9CHkmZN4QXczH6y5" "https://maps.app.goo.gl/5rWj7nAyagkg769y6" %}}。
+{{% /notice %}}
+
+{{% notice note %}}ごく稀に{{% goto "../indonesia/" "インドネシア" %}}で白色2本線が見つかることも{{% ex "https://maps.app.goo.gl/5mqzZRn3wroL8jW96" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./langkawi_road.jpg" />
+</div>
+
 {{% notice tip %}}
 とまれの標識が<span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" "https://maps.app.goo.gl/fWQbsbNztk11KAWM6" %}}。
 {{% /notice %}}
@@ -71,12 +82,8 @@ sc: [
 </div>
 
 {{% notice tip %}}
-モザイクのかかり方によってはナンバープレートが２つに分かれて見える。３つに分かれているならインドネシアかも。
+モザイクのかかり方によってはナンバープレートが２つに分かれて見える{{% ex "https://maps.app.goo.gl/MHW3BWN8aorm1hvXA" %}}。３つに分かれているなら{{% goto "../indonesia/" "インドネシア" %}}かも。
 {{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683171861035!6m8!1m7!1sYEoHd0EO8M2UlwN_edGegA!2m2!1d3.736140628903989!2d113.780365519882!3f301.0765270440488!4f-12.8065474911877!5f3.325193203789971" width="575" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 
 {{% lb 50 small %}}
 <img src="2023-05-04-12-38-44.png" width="50%"/>
