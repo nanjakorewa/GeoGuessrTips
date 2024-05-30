@@ -45,11 +45,12 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多くみんな煙突がついている。一人当たりのGDPは2022年時点ではEUで一番低い{{% ref "https://www.mofa.go.jp/mofaj/area/bulgaria/data.html" "外務省 - ブルガリア共和国基礎データ" %}}ためか、家やインフラはボロボロなものが多い。
+{{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多くみんな煙突がついている{{% ex "https://maps.app.goo.gl/uZyJXDKDpMm4dnXTA" %}}。2枚目の写真のような瓦もよく見る{{% ex "https://maps.app.goo.gl/V2zNU643L9gUj6Ha9" "https://maps.app.goo.gl/Ja1uWGucQaWgdTPc7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="./bulgaria_village_cart_wooden.jpg" width="640">
+<img src="./houses_old_home_residences.jpg" width="640">
 </div>
 
 
@@ -60,7 +61,7 @@ sc: [
 <img src="2023-07-23-10-23-12.png" width="310px"/>
 </div>
 
-{{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。あとこの画像のような曇りっぽい天気が多いように思う。
+{{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% ex "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bulgaria-road.png" width="90%">
@@ -78,7 +79,7 @@ sc: [
 <img src="gb.jpg" width="95%">
 </div>
 
-{{% notice tip %}}路面のコンディションが非常に悪い。現地の人が路面状況マップを作って悪い道を避けるレベル{{% ref "https://www.roads-bg.eu/#8/42.818/24.944" "Bulgarian Road Quality Map" %}}。
+{{% notice tip %}}路面のコンディションが非常に悪い。現地の人が路面状況マップを作って悪い道を避けるレベル{{% ref "https://www.roads-bg.eu/#8/42.818/24.944" "Bulgarian Road Quality Map" %}}。一人当たりのGDPは2022年時点ではEUで一番低い{{% ref "https://www.mofa.go.jp/mofaj/area/bulgaria/data.html" "外務省 - ブルガリア共和国基礎データ" %}}ためか、家やインフラはボロボロなものが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg#/media/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tsvetarska_Street%2C_Veliko_Tarnovo.jpg" alt="Tsvetarska Street, Veliko Tarnovo.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE" title="User:Андрей Романенко">Андрей Романенко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145099507">Link</a></p>
@@ -112,12 +113,6 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <ul class="rule-list">
-        <li>？？？</li>
-    </ul>
-</div>
 
 
 <div class="main-desciption area-description">
