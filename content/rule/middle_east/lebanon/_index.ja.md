@@ -92,10 +92,10 @@ sc: [
     <ul class="rule-list">
         <li>農業に地域性が少しだけある？
             <ul>
-                <li><span style="color:#F7F0A1;font-size:1.1em">■</span>山脈であり平坦な場所が少ない{{% ex "https://maps.app.goo.gl/y1JDvkxy2a4n8LUv7" "https://maps.app.goo.gl/4GPsoXpNTqUgBQsK6" "https://maps.app.goo.gl/oBjgMbMDQMYeJBPa9" %}}</li>
+                <li><span style="color:#F7F0A1;font-size:1.1em">■</span>山脈であり平坦な場所が少ない。かなり乾燥していることが多いイメージ{{% ex "https://maps.app.goo.gl/y1JDvkxy2a4n8LUv7" "https://maps.app.goo.gl/4GPsoXpNTqUgBQsK6" "https://maps.app.goo.gl/oBjgMbMDQMYeJBPa9" %}}。</li>
                 <li><span style="color:#B38C9A;font-size:1.1em">■</span>ぶどう・Zahlé周り{{% ex "https://maps.app.goo.gl/GW3bAa8cU7gRv3Ky6" "https://maps.app.goo.gl/sSh25gBvwNp6hzDt9" "https://maps.app.goo.gl/kQGbcuRNMj6TLNk66" %}}</li>
-                <li><span style="color:#F7380B;font-size:1.1em">■</span>オリーブ・西の斜面{{% ex "https://maps.app.goo.gl/eVVSLsBVoYND5ioSA" "https://maps.app.goo.gl/CqkAhvxkm6iS6oKc6" "https://maps.app.goo.gl/7NiFSfWBV466vwKS9" %}}</li>
-                <li><span style="color:#F59115;font-size:1.1em">■</span>平坦なエリアで農業全般{{% ex "https://maps.app.goo.gl/UrVK8uevn3i54U8T6" "https://maps.app.goo.gl/mMvQrbDVbRfVGky79" "https://maps.app.goo.gl/Y7SPix2x2794jPiMA" %}}</li>
+                <li><span style="color:#F7380B;font-size:1.1em">■</span>オリーブ・Tripoli郊外の斜面{{% ex "https://maps.app.goo.gl/eVVSLsBVoYND5ioSA" "https://maps.app.goo.gl/CqkAhvxkm6iS6oKc6" "https://maps.app.goo.gl/7NiFSfWBV466vwKS9" %}}</li>
+                <li><span style="color:#F59115;font-size:1.1em">■</span>平坦なエリアでは農業が行われている{{% ex "https://maps.app.goo.gl/UrVK8uevn3i54U8T6" "https://maps.app.goo.gl/mMvQrbDVbRfVGky79" "https://maps.app.goo.gl/Y7SPix2x2794jPiMA" %}}</li>
             </ul>
         </li>
     </ul>
