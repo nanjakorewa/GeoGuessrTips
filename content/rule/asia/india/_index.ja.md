@@ -44,12 +44,6 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}
-電柱の配線が綺麗に整備されていない場合も多い。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<img src="./delhi_road_india_chaos.jpg" width="80%">
-</div>
 
 {{% notice tip %}}
 他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
@@ -60,11 +54,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" "https://maps.app.goo.gl/ybHEFyUq5qpm25Nq9" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+電柱の配線が綺麗に整備されていない場合も多い。
 {{% /notice %}}
-
-<div class="googlemap-if unclickable no-margin">
-<img src="./bollard.jpg" width="80%">
+<div class="googlemap-if no-margin">
+<img src="./delhi_road_india_chaos.jpg" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -73,51 +66,78 @@ sc: [
 
 <div class="googlemap-if unclickable no-margin">
 <table style="text-align:center; width:90%;">
-<tr>
+<tr style="background-color:#ccc">
 <td>
-{{% goto "../cambodia/" "カンボジア" %}}</li>
+{{% goto "../cambodia/" "カンボジア" %}}
 </td>
 <td>
-{{% goto "../srilanka/" "スリランカ" %}}</li>
+{{% goto "../srilanka/" "スリランカ" %}}
 </td>
 <td>
-{{% goto "../bangladesh/" "バングラディシュ" %}}</li>
-</td>
-</tr>
-<tr>
-<td>
-{{% ex "https://maps.app.goo.gl/Zae8GW6yHSWRTve38" "https://maps.app.goo.gl/bzjWsdis2URxsyi17" "https://maps.app.goo.gl/vgSYTtamECiYWcWG8" "https://maps.app.goo.gl/6a1hMMJbeKVAJsNz8" %}}</li>
-</td>
-<td>
-{{% ex "https://maps.app.goo.gl/atGucJRSK67yHPGv8" "https://maps.app.goo.gl/i3UcHzwzcRAQQDKS8" "https://maps.app.goo.gl/DdViPM8VZPy14kaZ6" %}}</li>
-</td>
-<td>
-{{% ex "https://maps.app.goo.gl/rPV3iWgxNUbeUZys8" "https://maps.app.goo.gl/x7YrQqf72BzZzz2x7" "https://maps.app.goo.gl/EgBVpRMcjzEbJJeM8" "https://maps.app.goo.gl/sKTfnZaoZk6oGFqL9" %}}</li>
+{{% goto "../bangladesh/" "バングラディシュ" %}}
 </td>
 </tr>
 <tr>
 <td>
-{{% goto "../../africa/nigeria/" "ナイジェリア" %}}</li>
+{{% ex "https://maps.app.goo.gl/Zae8GW6yHSWRTve38" "https://maps.app.goo.gl/bzjWsdis2URxsyi17" "https://maps.app.goo.gl/vgSYTtamECiYWcWG8" "https://maps.app.goo.gl/6a1hMMJbeKVAJsNz8" %}}
 </td>
 <td>
-{{% goto "../../middle_east/lebanon/" "レバノン" %}}</li>
+{{% ex "https://maps.app.goo.gl/atGucJRSK67yHPGv8" "https://maps.app.goo.gl/i3UcHzwzcRAQQDKS8" "https://maps.app.goo.gl/DdViPM8VZPy14kaZ6" %}}
 </td>
 <td>
-{{% goto "../../cs_america/ecuador/" "エクアドル" %}}</li>
+{{% ex "https://maps.app.goo.gl/rPV3iWgxNUbeUZys8" "https://maps.app.goo.gl/x7YrQqf72BzZzz2x7" "https://maps.app.goo.gl/EgBVpRMcjzEbJJeM8" "https://maps.app.goo.gl/sKTfnZaoZk6oGFqL9" %}}
+</td>
+</tr>
+<tr style="background-color:#ccc">
+<td>
+{{% goto "../../africa/nigeria/" "ナイジェリア" %}}
+</td>
+<td>
+{{% goto "../../middle_east/lebanon/" "レバノン" %}}
+</td>
+<td>
+{{% goto "../../cs_america/ecuador/" "エクアドル" %}}
 </td>
 </tr>
 <tr>
 <td>
-{{% ex "https://maps.app.goo.gl/frUSLrM3Ydmrxzz96" "https://maps.app.goo.gl/sM9PYAN8sPaiRCHk8" "https://maps.app.goo.gl/cGeaWKQWnzmcJfJZ8" "https://maps.app.goo.gl/5hvYF98MUr7ixXHg7" %}}</li>
+{{% ex "https://maps.app.goo.gl/frUSLrM3Ydmrxzz96" "https://maps.app.goo.gl/sM9PYAN8sPaiRCHk8" "https://maps.app.goo.gl/cGeaWKQWnzmcJfJZ8" "https://maps.app.goo.gl/5hvYF98MUr7ixXHg7" %}}
 </td>
 <td>
 {{% ex "https://maps.app.goo.gl/LYkDUkmzCAiLGACb6" "https://maps.app.goo.gl/WBWebGPyX1Qu9Cbg6" "https://maps.app.goo.gl/2HyoaAMZT2tVniDF6" "https://maps.app.goo.gl/6nFgcFmcxvyZfvkr9" "https://maps.app.goo.gl/k32FDvWdfE3Kz4vd7" "https://maps.app.goo.gl/khRnd6k5NQEsud4S9" "https://maps.app.goo.gl/F54TJHqUdqMiktdu9" %}}</li>
 </td>
 <td>
-{{% ex "https://maps.app.goo.gl/yjym5a7Suyek3NYz7" "https://maps.app.goo.gl/xeGiXU88u1LZDNWr8" "https://maps.app.goo.gl/2kJ22PKdYESfJcRu7" "https://maps.app.goo.gl/cppFB1pUhWMonKFb6" %}}</li>
+{{% ex "https://maps.app.goo.gl/yjym5a7Suyek3NYz7" "https://maps.app.goo.gl/xeGiXU88u1LZDNWr8" "https://maps.app.goo.gl/2kJ22PKdYESfJcRu7" "https://maps.app.goo.gl/cppFB1pUhWMonKFb6" %}}
+</td>
+</tr>
+<tr style="background-color:#ccc">
+<td>
+{{% goto "../../europe/finland/" "フィンランド" %}}
+</td>
+<td>
+</td>
+<td>
+</td>
+</tr>
+<tr>
+<td>
+{{% ex "https://maps.app.goo.gl/P4YVCqUvvcvBDEnUA" "https://maps.app.goo.gl/s8AGxuqv2a2yXGdbA" %}}
+</td>
+<td>
+</td>
+<td>
 </td>
 </tr>
 </table>
+</div>
+
+
+{{% notice tip %}}
+インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" "https://maps.app.goo.gl/ybHEFyUq5qpm25Nq9" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./bollard.jpg" width="80%">
 </div>
 
 {{% /tab %}}
