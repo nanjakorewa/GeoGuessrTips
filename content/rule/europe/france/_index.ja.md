@@ -127,7 +127,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 </div>
 
 {{% notice tip %}}
-速度制限などの赤い規制標識に白い縁がある{{% ex "https://maps.app.goo.gl/hHeYy3a9Gwp9Nd3o7" "https://maps.app.goo.gl/LF2GebgrjVJHeujc8" %}}。ちなみに青色の『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" "https://maps.app.goo.gl/M6wUds5xJrKXmeJz7" %}}。
+速度制限などの赤い規制標識に白い縁がある{{% ex "https://maps.app.goo.gl/hHeYy3a9Gwp9Nd3o7" "https://maps.app.goo.gl/LF2GebgrjVJHeujc8" %}}。ちなみに青色の『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/AyFtAdEf3MjhAyNj9" "https://maps.app.goo.gl/9UxniwyZePeifExQ7" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" "https://maps.app.goo.gl/M6wUds5xJrKXmeJz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/s1.png" width="100px" style="margin:10px;">
