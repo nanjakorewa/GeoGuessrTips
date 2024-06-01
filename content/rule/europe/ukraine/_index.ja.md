@@ -100,12 +100,33 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 {{% tab "気候の違い" %}}
 
 {{% notice tip %}}
-北西と南の道路。ただし北西でも木があまり生えてない場所がある。
+北西と南の道路。ただし北西であっても木があまり生えてない場所はあるので地域の絞り込みはかなり難しい印象。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690710477346!6m8!1m7!1shhb-KAgb4Ris5LhVZpn34Q!2m2!1d51.29377393912948!2d26.80427695640606!3f121.7882933483822!4f2.9500286648700325!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690710532220!6m8!1m7!1su9dCNzhy3SgGgw8v5_e0Ag!2m2!1d46.9045723925484!2d31.46296796845545!3f203.70834828386205!4f3.210290488874108!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>チェルノブイリ原子力発電所周辺にもストリートビューがある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%81%E3%82%A7%E3%83%AB%E3%83%8E%E3%83%96%E3%82%A4%E3%83%AA%E5%8E%9F%E5%AD%90%E5%8A%9B%E7%99%BA%E9%9B%BB%E6%89%80" "Чорнобильська АЕС" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "チェルノブイリ" %}}
+
+{{% notice tip %}}
+建物が荒廃しているエリアが多い{{% ex "https://maps.app.goo.gl/m1FFgd18srw3X7pA7" "https://maps.app.goo.gl/r2nsLBNR8AtbTmPLA" "https://maps.app.goo.gl/XEXJvQhZ8Jq25vcz9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./18_134_186.jpg" width="550px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
