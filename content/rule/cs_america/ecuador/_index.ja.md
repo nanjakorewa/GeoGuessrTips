@@ -44,6 +44,11 @@ sc: [
 標識の裏が<b>フラットな感じ</b>{{% ex "https://maps.app.goo.gl/PdNAEFwKyUxt6uga8" "https://goo.gl/maps/Zr4StyUdtfZ5TYQHA" "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。
 {{% /notice %}}
 
+{{% notice note %}}
+{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。
+{{% /notice %}}
+
+
 <div class="googlemap-if unclickable no-margin">
 <img src="./road.jpg" width="90%" />
 </div>
@@ -51,9 +56,12 @@ sc: [
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, 画像加工あり
 </div>
 
-{{% notice info %}}
-{{% goto "../colombia/" "コロンビア" %}}は白いポールで裏側に十字があり、{{% goto "../peru/" "ペルー" %}}は白黒ストライプの太い棒が多い。{{% goto "../bolivia/" "ボリビア" %}}は太い製材が使われている。また、エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
+{{% notice tip %}}
+エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
 {{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="540px-Banos-Puyo.jpg">
+</div>
 
 
 
@@ -68,11 +76,11 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 
 
 {{% notice tip %}}
-タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://maps.app.goo.gl/bc1po2sEt9xfbbfn9" "https://maps.app.goo.gl/EyPrFHbu1zCNyvcC8" %}}。緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。
+タクシーやトラックのような商業車はナンバーの全体か上部が<span class="quiz">オレンジ</span>色{{% ex "https://maps.app.goo.gl/bc1po2sEt9xfbbfn9" "https://maps.app.goo.gl/L1D2fv8HTrFqWdqi9" "https://maps.app.goo.gl/EyPrFHbu1zCNyvcC8" %}}。ちなみにタクシーに緑色のステッカーがあると<span class="quiz">キト</span>{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "市民ジョン" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/bartlinssen/27492854789/" title="Untitled"><img src="https://live.staticflickr.com/4634/27492854789_3fb1d86769_z.jpg" width="640" height="480" alt="Untitled"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./palanda_ecuador_truck.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -82,17 +90,17 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /lb %}}
 
 
-{{% /tab %}}
-{{% tab "w-road" %}}
-
 {{% notice tip %}}
-コンクリート製の道路も比較的多く見られる{{% ex "https://goo.gl/maps/u7io5hHdQcqUcSnH7" "https://goo.gl/maps/uDwxRdCZBV5vcdd69" %}}{{% by %}}。しかし{{% goto "../brazil/" "ブラジル" %}}など他の国でもコンクリートの道路はたまにある{{% ex "https://goo.gl/maps/JSweZsHyLczgQTHa7" %}}のでコンクリート→エクアドルと判断してはいけない。
+建物の側面などに灰色のコンクリートブロックが見えがち{{% ex "https://maps.app.goo.gl/F1kLCzzWjaxAXN7A7" "https://maps.app.goo.gl/im69ewHK8R6BmgXi9" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
-<img src="2023-08-10-18-12-48.png" width="90%">
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Icamino_ambato1.JPG#/media/File:Icamino_ambato1.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Icamino_ambato1.JPG" alt="Icamino ambato1.JPG" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Juanjo_guaman&amp;action=edit&amp;redlink=1" class="new" title="User:Juanjo guaman (page does not exist)">Juanjo guaman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19496831">Link</a></p>
 </div>
 
+
+{{% /tab %}}
+{{% tab "w-road" %}}
 {{% notice tip %}}
 シェブロン＞＜
 {{% /notice %}}
