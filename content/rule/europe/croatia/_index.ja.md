@@ -82,10 +82,6 @@ CC0</a>
 {{% notice tip %}}
 「<span class="quiz">Đ・đ</span>」はクロアチア語の特徴的な文字。また<b>赤い反射板で角張った細い溝</b>のガードレールを使うのは<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>・トルコ・<span class="quiz">ポーランド</span>{{% by "https://www.plonkit.net/poland" "plonkit" %}}。
 {{% /notice %}}
-{{% notice note %}}
-こんな感じのガードレールを見てポーランドやトルコではないと思ったならボスニア・ヘルツェゴビナに隣接している<span class="quiz">クロアチア</span>・<span class="quiz">セルビア</span>・<span class="quiz">モンテネグロ</span>を考えてみる。
-{{% /notice %}}
-
 
 <div class="googlemap-if unclickable">
 <img src="./autocesta_a5_hrvatska_003.jpg" width="600px">
@@ -108,6 +104,13 @@ CC0</a>
 <div class="googlemap-if no-margin">
 <img src="./road-example.png" width="95%">
 <img src="./arrow.jpg" width="500px">
+</div>
+
+{{% notice tip %}}
+ユーゴスラビア関連国であるクロアチア・{{% goto "../slovenia/" "スロベニア" %}}・{{% goto "../serbia/" "セルビア" %}}・{{% goto "../montenegro/" "モンテネグロ" %}}・ボスニア=ヘルツェゴビナはガードレールや看板に共通点が多い。これらの国では共通して黄色い看板と角張ったガードレールが見つかる。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./tabla_na_ulasku_u_0.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
