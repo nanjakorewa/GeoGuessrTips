@@ -61,11 +61,19 @@ sc: [
 <img src="2023-07-23-10-23-12.png" width="310px"/>
 </div>
 
-{{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% ex "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。
+{{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% ex "https://maps.app.goo.gl/8m7JbzZdDwwVNjCz9" "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bulgaria-road.png" width="90%">
 </div>
+
+{{% notice tip %}}この写真に写っている←→←に突き出た鉄塔や電柱もブルガリアによくある{{% ex "https://maps.app.goo.gl/M7zy6gcCFa5VLhuJ8" "https://maps.app.goo.gl/fXuXA6dmWeRTnjJi9" "https://maps.app.goo.gl/CrKQLeKWt7sjcEVdA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Yoakim Gruevo PD 2011 05.JPG" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bin_im_Garten" title="User:Bin im Garten">Bin im Garten</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17330681">Link</a></p>
+</div>
+
 
 {{% notice tip %}}「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}
 {{% /notice %}}
