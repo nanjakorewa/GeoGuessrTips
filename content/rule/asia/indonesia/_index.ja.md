@@ -134,11 +134,30 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>Kabupatenの位置を覚える（{{% goto "https://juraganposter.net/product_images/uploaded_images/peta-indonesia-hd-pdf-08.jpg" "マップ" %}}、参考文献先で確認してください）{{% ref "https://juraganposter.net/blog/peta-indonesia-hd-pdf/" "Peta Indonesia HD PDF" %}}
+            <ul>
+                <li>Aceh{{% ex "https://maps.app.goo.gl/Bist9SqqxLQhp23w8" %}}</li>
+                <li>Maluku UtaraのTernate市{{% ex "https://maps.app.goo.gl/PXf3fXyAF1JSbGD19" %}}</li>
+                <li>Nusa Tenggara TimurのKupang市{{% ex "https://maps.app.goo.gl/2CXXdjJSYHnKsecC6" %}}</li>
+                <li>Bawean{{% ex "https://maps.app.goo.gl/5yhTA9TxbtMuQ75S8" %}}</li>
+            </ul>
+        </li>
         <li>州は38個ある</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Kabupaten" %}}
+
+{{% notice tip %}}
+「KAB」と略されることもある。この看板はCepuの地域{{% ref "https://id.wikipedia.org/wiki/Cepu,_Blora" "Cepu, Blora" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:00_Papan_Nama_Terminal_Cepu_(1).jpg#/media/File:00_Papan_Nama_Terminal_Cepu_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/00_Papan_Nama_Terminal_Cepu_%281%29.jpg" alt="00 Papan Nama Terminal Cepu (1).jpg" height="288" width="640"></a></p><p>By <a href="https://id.wikipedia.org/wiki/User:Mujionomaruf" class="extiw" title="id:User:Mujionomaruf">id:User:Mujionomaruf</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105505116">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% tab "州" %}}
 {{% notice tip %}}州は38個ある。より細かい単位としてkabupatenがある。
 {{% /notice %}}
@@ -317,11 +336,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
         </li>
         <li>Pertaminaのガソリンスタンドの看板に書いてある番号から地域もわかる
             <ul>
-                <li>1x~5x：番号が小さいほど北
-                    <ul>
-                        <li>東ティモール{{% ex "https://maps.app.goo.gl/CsLC7gXwPRZPdNvR7" "https://maps.app.goo.gl/gULLhmwxbg87amwE6" %}}</li>
-                    </ul>
-                </li>
+                <li>1x~5x：番号が小さいほど北</li>
                 <li>6x：カリマンタン島</li>
                 <li>7x：スラウェシ島</li>
             </ul>
@@ -345,35 +360,6 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 
 <div class="googlemap-if unclickable">
 <img src="tlp.png" width="90%"/>
-</div>
-
-{{% /tab %}}
-{{% /tabs %}}
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list"> 
-        <li>Kabupatenの位置を覚える（{{% goto "https://juraganposter.net/product_images/uploaded_images/peta-indonesia-hd-pdf-08.jpg" "マップ" %}}、参考文献先で確認してください）{{% ref "https://juraganposter.net/blog/peta-indonesia-hd-pdf/" "Peta Indonesia HD PDF" %}}</li>
-        <li>間違えたら点がかなり持ってかれそうなところ
-            <ul>
-                <li>Aceh{{% ex "https://maps.app.goo.gl/Bist9SqqxLQhp23w8" %}}</li>
-                <li>Maluku UtaraのTernate市{{% ex "https://maps.app.goo.gl/PXf3fXyAF1JSbGD19" %}}</li>
-                <li>Nusa Tenggara TimurのKupang市{{% ex "https://maps.app.goo.gl/2CXXdjJSYHnKsecC6" %}}</li>
-                <li>Bawean{{% ex "https://maps.app.goo.gl/5yhTA9TxbtMuQ75S8" %}}</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "Kabupaten" %}}
-
-{{% notice tip %}}
-「KAB」と略されることもある。この看板はCepuの地域{{% ref "https://id.wikipedia.org/wiki/Cepu,_Blora" "Cepu, Blora" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:00_Papan_Nama_Terminal_Cepu_(1).jpg#/media/File:00_Papan_Nama_Terminal_Cepu_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/00_Papan_Nama_Terminal_Cepu_%281%29.jpg" alt="00 Papan Nama Terminal Cepu (1).jpg" height="288" width="640"></a></p><p>By <a href="https://id.wikipedia.org/wiki/User:Mujionomaruf" class="extiw" title="id:User:Mujionomaruf">id:User:Mujionomaruf</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105505116">Link</a></p>
 </div>
 
 {{% /tab %}}
