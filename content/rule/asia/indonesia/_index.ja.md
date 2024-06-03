@@ -98,7 +98,7 @@ By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-
 
 
 {{% notice tip %}}
-細い2車線道路{{% ex "https://maps.app.goo.gl/esSAsXjBrf6GJ2EAA" "https://maps.app.goo.gl/2r5azt7xg3HcmG726" "https://maps.app.goo.gl/BoDGBtFmznWSeCdPA" "https://maps.app.goo.gl/3LvxJvJzHTRXo3f28" %}}。
+細い2車線道路{{% ex "https://maps.app.goo.gl/WRL8ZugTRA7EGCve7" "https://maps.app.goo.gl/esSAsXjBrf6GJ2EAA" "https://maps.app.goo.gl/BoDGBtFmznWSeCdPA" "https://maps.app.goo.gl/3LvxJvJzHTRXo3f28" %}}。
 {{% /notice %}}
 
 
