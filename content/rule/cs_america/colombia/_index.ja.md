@@ -160,6 +160,63 @@ sc: [
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">農業</h4>
+    <ul class="rule-list">
+        <li>{{% ref "https://ipad.fas.usda.gov/rssiws/al/nsa_cropprod.aspx" "USDA - Northern South America - Crop Production Maps" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "アブラヤシ" %}}
+{{% notice tip %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Palm_Oil.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+???
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "コットン" %}}
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Cotton.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+率は低いがTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" %}}かCordoba。
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "コメ" %}}
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Rice.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+約50%がTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" %}}。
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "サトウキビ" %}}
+<div class="googlemap-if no-margin">
+（画像なし）
+</div>
+
+{{% notice tip %}}
+Valle del Cauca県の平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" %}}。
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
     <ul class="rule-list">
         <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
         <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" %}}{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
