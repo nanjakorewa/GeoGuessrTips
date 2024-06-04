@@ -268,7 +268,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 
 {{% tabs %}}
 {{% tab "Buenaventura" %}}
-{{% notice tip %}}道が一本しかないためトラックが渋滞しがち{{% ex "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。
+{{% notice tip %}}道が一本しかないためガソリンスタンド付近でコンテナを積んだトラックがありえないほど渋滞する{{% ex "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。渋滞していなくても西の雰囲気＋海運系のロゴがあるトラックはこの道かも{{% ex "https://maps.app.goo.gl/vFZFkuNZPvkqvRjS8" "https://maps.app.goo.gl/1fqx2uYJsEXgv9EN6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./aahus_port_container_loading.jpg">
