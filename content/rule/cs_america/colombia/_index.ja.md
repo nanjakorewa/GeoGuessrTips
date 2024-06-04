@@ -209,7 +209,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Valle del Cauca県の平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" %}}。
+Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" %}}。サトウキビに限らずコーン類もこの辺りがメインの生産地{{% ref "https://ipad.fas.usda.gov/rssiws/al/nsa_cropprod.aspx" "USDA - Northern South America - Crop Production Maps" %}}<。
 {{% /notice %}}
 
 
