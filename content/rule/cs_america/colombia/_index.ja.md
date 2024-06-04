@@ -167,6 +167,17 @@ sc: [
 </div>
 
 {{% tabs %}}
+{{% tab "コットン" %}}
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Cotton.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+率は低いがTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" %}}かCordoba。Cordobaは出たことが無い（もしくは気づいてないだけ）のでどこに生えてるか不明。
+{{% /notice %}}
+
+
+{{% /tab %}}
 {{% tab "アブラヤシ" %}}
 {{% notice tip %}}
 {{% /notice %}}
@@ -176,18 +187,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-???
-{{% /notice %}}
-
-
-{{% /tab %}}
-{{% tab "コットン" %}}
-<div class="googlemap-if no-margin">
-<img src="./Colombia_Cotton.jpg" width="90%">
-</div>
-
-{{% notice tip %}}
-率は低いがTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" %}}かCordoba。
+赤<span style="color:red">●</span>が多いMetaなどに人工的なプランテーションがある{{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}。プランテーションじゃない木は割と全域にあると思う。
 {{% /notice %}}
 
 
@@ -198,7 +198,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-約50%がTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" %}}。
+約50%がTolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "https://maps.app.goo.gl/Dj7qwjAegnrjapqi7" "https://maps.app.goo.gl/eDzgYtYwfuY83JMHA" %}}だけど田んぼ自体レア。
 {{% /notice %}}
 
 
