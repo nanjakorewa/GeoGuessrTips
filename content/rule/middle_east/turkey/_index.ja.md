@@ -59,12 +59,13 @@ sc: [
 
 
 {{% notice tip %}}
-シェブロンは主に赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/EAeRM1T1PMwqJJpa9" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
+シェブロンは主に赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/GRaxSVdcfHTPThQdA" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。赤白じゃないものもあるが標識の棒や先端の隙間で国がわかるはず{{% ex "https://maps.app.goo.gl/gSdt9S61jEJ7Q7A67" "https://maps.app.goo.gl/ZQcno7QyTVCDstUt5" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="./road-arrow.jpg" width="550px" alt="トルコのシェブロン" />
-</div>
 
+
+<div class="googlemap-if unclickable">
+<img src="./road-arrow.jpg" width="90%" alt="トルコのシェブロン" />
+</div>
 
 <div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="./r/175104.png" width="150px" style="margin:15px">
