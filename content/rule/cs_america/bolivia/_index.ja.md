@@ -153,7 +153,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% tabs %}}
 {{% tab "Ruta 3" %}}
 {{% notice tip %}}
-かなり険しい山の間を通る道{{% ex "https://maps.app.goo.gl/GSCpZ39Y1ezyeo2t7" "https://maps.app.goo.gl/E6aiTqZzhEDjDxa2A" "https://maps.app.goo.gl/B7uriCaFxZeBQqYs7" %}}。
+ラパスから北東へと延びる道。かなり険しい山の間を通る道{{% ex "https://maps.app.goo.gl/GSCpZ39Y1ezyeo2t7" "https://maps.app.goo.gl/E6aiTqZzhEDjDxa2A" "https://maps.app.goo.gl/B7uriCaFxZeBQqYs7" %}}。周りの道は霧がすごい{{% ex "https://maps.app.goo.gl/qqakxNMfP6zu5Ww16" "https://maps.app.goo.gl/GdKRB3UNBjMV7d9A7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
