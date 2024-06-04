@@ -59,15 +59,17 @@ sc: [
 
 
 {{% notice tip %}}
-シェブロンは赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/EAeRM1T1PMwqJJpa9" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
+シェブロンは主に赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/EAeRM1T1PMwqJJpa9" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road-arrow.jpg" width="550px" alt="トルコのシェブロン" />
 </div>
 
 
-<div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
+<div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="./r/175104.png" width="150px" style="margin:15px">
+<img src="./r/c1.jpg" width="150px" style="margin:15px">
+<img src="./r/c2.jpg" width="150px" style="margin:15px">
 <img src="./r/ar-bc.jpg" width="110px" style="margin:15px">
 </div>
 
