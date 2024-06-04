@@ -226,13 +226,6 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 </div>
 
 {{% tabs %}}
-{{% tab "メデジン" %}}
-{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" />
-</div>
-{{% /tab %}}
 {{% tab "ボラード" %}}
 {{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
@@ -243,6 +236,13 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 
 <div class="googlemap-if unclickable">
 <img src="./r/bollard.png" width="70px">
+</div>
+{{% /tab %}}
+{{% tab "メデジン" %}}
+{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="ar236201.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% tab "ボカチカ" %}}
