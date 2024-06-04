@@ -194,6 +194,14 @@ Alexandra Palace Theatreはロンドンの北側にある
 <div class="googlemap-if unclickable">
 <img src="./road-sign-w.jpg" width="70%">
 </div>
+
+{{% notice tip %}}
+『ARAF』や『SAFLL BWS』という表記がある{{% ex "https://maps.app.goo.gl/Bz2vFSqtiSNLQm8y7" "https://maps.app.goo.gl/su4YxYZxovjKXjgR9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./wales_cardiff_slow.jpg" width="70%">
+</div>
 {{% /tab %}}
 {{% tab "白と赤のボラード" %}}
 {{% notice tip %}}
@@ -212,8 +220,8 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /tab %}}
 {{% /tabs %}}
 
-
 <div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>南にWight島という離島がある</li>
     </ul>
