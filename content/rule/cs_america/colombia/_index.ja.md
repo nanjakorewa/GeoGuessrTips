@@ -95,7 +95,6 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
         <li>植生の分布
             <ul>
                 <li>北東の内陸{{% color "#BDAA60" %}}メタ川沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
@@ -103,12 +102,80 @@ sc: [
                 <li>北の海沿い{{% color "#FFD37F" %}}白い砂が見えたり街中の道路の角に砂がたまっていることがある{{% ex "https://maps.app.goo.gl/kHgoHB4fA9Dmq6xw7" "https://maps.app.goo.gl/ntuZu5v7CPgBsBGSA" %}}
             </ul>
         </li>
-        <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
+{{% tab "植生" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./pone.0043943.g001.png" width="80%" />
+</div>
+
+{{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "北東の内陸" %}}
+
+{{% notice tip %}}アンデス東山脈の東側。平坦な土地が広がっていて、メタ川沿いは栄養が少ない土壌で植物も少ない。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698477978676!6m8!1m7!1sJ7PxXLjpjpVyDVlXzarldg!2m2!1d5.83751805366215!2d-71.56842506393753!3f96.78577479284539!4f-4.90967899975233!5f0.4000000000000002" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695093011695!6m8!1m7!1sYS6llO69H9wDnK4lXZMVjg!2m2!1d4.62827564681296!2d-71.51255306646532!3f98.38560507105616!4f9.95777762781087!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice info %}}下の図の東の平坦なエリアを指している
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Mapa de Colombia (relieve).svg" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">Own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geográfico Agustín Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Mapa oficial de la República de Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
+</div>
+
+
+{{% /tab %}}
+{{% tab "最北の海沿い" %}}
+
+{{% notice tip %}}砂漠に近い土壌が広がっている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698478231917!6m8!1m7!1sXYa1y5q7TWzM83XW_5REOQ!2m2!1d12.22138283185131!2d-72.00399523440888!3f159.2251834180408!4f8.102522936338175!5f0.4466155912658266" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698478274621!6m8!1m7!1s7UcHWQsa0hieX278UgxqWQ!2m2!1d11.99291092021987!2d-72.13943591872511!3f198.742220149102!4f-0.7741004515764303!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "北の海沿い" %}}
+{{% notice tip %}}写真は恐らくバランキージャ周辺の道路{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B8%E3%83%A3" "バランキージャ" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./barranquilla_autopista_al_mar.jpg">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
+        <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" %}}{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
+        <li>ティエラボンバ島のボカチカという町を歩いている{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
+        <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "メデジン" %}}
+{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="ar236201.jpg" width="95%" />
+</div>
+{{% /tab %}}
 {{% tab "ボラード" %}}
 {{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
@@ -121,67 +188,40 @@ sc: [
 <img src="./r/bollard.png" width="70px">
 </div>
 {{% /tab %}}
-{{% tab "植生" %}}
-<div class="googlemap-if unclickable no-margin">
-<img src="./pone.0043943.g001.png" width="80%" />
-</div>
-
-{{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
+{{% tab "ボカチカ" %}}
+{{% notice tip %}}要塞のある離島にある町を歩いている。一緒に歩いてくれる人がいる{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}。
 {{% /notice %}}
-
-{{% /tab %}}
-{{% tab "北東の内陸" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1698477978676!6m8!1m7!1sJ7PxXLjpjpVyDVlXzarldg!2m2!1d5.83751805366215!2d-71.56842506393753!3f96.78577479284539!4f-4.90967899975233!5f0.4000000000000002" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1695093011695!6m8!1m7!1sYS6llO69H9wDnK4lXZMVjg!2m2!1d4.62827564681296!2d-71.51255306646532!3f98.38560507105616!4f9.95777762781087!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}同じく平坦な場所が西の10番道路沿いに広がっているけれど、10番道路沿いは気候が異なり雨が多く振る。木の密度は全然違う{{% ex "https://maps.app.goo.gl/PjorPi5GVgMNDuHq7" "https://maps.app.goo.gl/8GPCYkGV9GXnvefL7" %}}。
-{{% /notice %}}
-
-{{% /tab %}}
-{{% tab "最北の海沿い" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1698478231917!6m8!1m7!1sXYa1y5q7TWzM83XW_5REOQ!2m2!1d12.22138283185131!2d-72.00399523440888!3f159.2251834180408!4f8.102522936338175!5f0.4466155912658266" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1698478274621!6m8!1m7!1s7UcHWQsa0hieX278UgxqWQ!2m2!1d11.99291092021987!2d-72.13943591872511!3f198.742220149102!4f-0.7741004515764303!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab %}}
-{{% tab "北の海沿い" %}}
 <div class="googlemap-if no-margin">
-<img src="./barranquilla_autopista_al_mar.jpg">
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
 </div>
-
-{{% notice tip %}}写真は恐らくバランキージャ周辺の道路{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B8%E3%83%A3" "バランキージャ" %}}。
-{{% /notice %}}
-
 {{% /tab %}}
 {{% /tabs %}}
 
 
-<div class="main-desciption area-description">
+
+<div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" %}}{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
-        <li>ティエラボンバ島のボカチカという町を歩いている{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
+        <li>コロンビアの太平洋岸最大の港湾都市であるBuenaventuraへの道はコンテナを積んだトラックが多く見られる</li>
+        <li>タクシーやトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある{{% ex "https://maps.app.goo.gl/JVqAVxwdtwWYTkd29" %}}</li>
         <li>ゴルゴナ島を歩いている{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}</li>
         <li>{{% goto "../brazil/" "ブラジル" %}}と{{% goto "../peru/" "ペルー" %}}の国境付近にLeticiaという町がありGoogle Carが見える{{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "メデジン" %}}
-{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
+{{% tab "Buenaventura" %}}
+{{% notice tip %}}道が一本しかないためトラックが渋滞しがち{{% ex "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。
 {{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" />
+<div class="googlemap-if">
+<img src="./aahus_port_container_loading.jpg">
 </div>
 {{% /tab %}}
-{{% tab "ボカチカ" %}}
-{{% notice tip %}}要塞のある離島にある町を歩いている。一緒に歩いてくれる人がいる{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}。
+{{% tab "タクシー" %}}
+{{% notice tip %}}ステッカーにCARTAGENAと書かれている。トラックの屋根の上や側面にも書いてあるかも{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/JVqAVxwdtwWYTkd29" %}}。
 {{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+<div class="googlemap-if">
+<img src="./colombia_kartagena_south_america.jpg">
 </div>
 {{% /tab %}}
 {{% tab "ゴルゴナ" %}}
@@ -197,24 +237,6 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
-
-
-<div class="main-desciption city-description">
-    <ul class="rule-list">
-        <li>タクシーやトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある{{% ex "https://maps.app.goo.gl/JVqAVxwdtwWYTkd29" %}}</li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "タクシー" %}}
-{{% notice tip %}}ステッカーにCARTAGENAと書かれている。トラックの屋根の上や側面にも書いてあるかも{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/JVqAVxwdtwWYTkd29" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./colombia_kartagena_south_america.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
