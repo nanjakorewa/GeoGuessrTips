@@ -55,7 +55,7 @@ By Pavel Špindler, <a href="https://creativecommons.org/licenses/by/3.0" title=
 </div>
 
 {{% notice tip %}}
-ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える{{% ex "https://maps.app.goo.gl/jdNDVfoXGSMBaCf59" "https://maps.app.goo.gl/3UtWtx1zH3VrHh867" "https://maps.app.goo.gl/9dybdoGRk8gusUDw8" "https://maps.app.goo.gl/qYJCfZ7nnoWVjTUQ8" %}}。
+ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える{{% ex "https://maps.app.goo.gl/vJRjhhm9EZ4FbsJq7" "https://maps.app.goo.gl/jdNDVfoXGSMBaCf59" "https://maps.app.goo.gl/3UtWtx1zH3VrHh867" "https://maps.app.goo.gl/9dybdoGRk8gusUDw8" "https://maps.app.goo.gl/qYJCfZ7nnoWVjTUQ8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -142,6 +142,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
+        <li>RN3はかなり険しい山の間を通る</li>
         <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
         <li>RN7はRN4と同じく緑が多いが山がちなエリア</li>
         <li>RN9は緑が多く道路が<b>南北</b>方向に伸びている</li>
@@ -150,6 +151,15 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 
 
 {{% tabs %}}
+{{% tab "Ruta 3" %}}
+{{% notice tip %}}
+かなり険しい山の間を通る道{{% ex "https://maps.app.goo.gl/GSCpZ39Y1ezyeo2t7" "https://maps.app.goo.gl/E6aiTqZzhEDjDxa2A" "https://maps.app.goo.gl/B7uriCaFxZeBQqYs7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Yungas_Road.JPG#/media/File:Yungas_Road.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Yungas_Road.JPG" alt="Yungas Road.JPG" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Dr._Vladimir_Iv%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="User:Dr. Vladimir Iván (page does not exist)">Dr. Vladimir Iván</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=33690151">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "Ruta 4" %}}
 {{% notice tip %}}
 緑が多く平坦な場所が多め{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
@@ -162,7 +172,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /tab %}}
 {{% tab "Ruta 7" %}}
 {{% notice tip %}}
-緑が多いがRN4よりも山がちなエリアが多い{{% ex "https://maps.app.goo.gl/d2t1CUYrjo9sSNdb6" %}}。RN4やRN7はカメラがバグっていることもある{{% ex "https://maps.app.goo.gl/LubqjF8MCowKaFEDA" "https://maps.app.goo.gl/PxM5shiu2qfMNmbK8" %}}。
+緑が多いがRN4よりも山がちなエリアが多い{{% ex "https://maps.app.goo.gl/d2t1CUYrjo9sSNdb6" %}}。RN7はカメラがバグっていることもある{{% ex "https://maps.app.goo.gl/LubqjF8MCowKaFEDA" "https://maps.app.goo.gl/PxM5shiu2qfMNmbK8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
