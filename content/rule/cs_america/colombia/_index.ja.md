@@ -162,22 +162,13 @@ sc: [
 <div class="main-desciption area-description">
     <h4 class="section-title">農業</h4>
     <ul class="rule-list">
-        <li>{{% ref "https://ipad.fas.usda.gov/rssiws/al/nsa_cropprod.aspx" "USDA - Northern South America - Crop Production Maps" %}}</li>
+        <li>平坦な地域ならば農業をしているが平坦な地域が少ないので役に立つタイミングはそこまで多くない{{% ref "https://ipad.fas.usda.gov/rssiws/al/nsa_cropprod.aspx" "USDA - Northern South America - Crop Production Maps" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "コットン" %}}
-<div class="googlemap-if no-margin">
-<img src="./Colombia_Cotton.jpg" width="90%">
-</div>
-
-{{% notice tip %}}
-率は低いがTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" %}}かCordoba。Cordobaは出たことが無い（もしくは気づいてないだけ）のでどこに生えてるか不明。
-{{% /notice %}}
-
-
-{{% /tab %}}
 {{% tab "アブラヤシ" %}}
 {{% notice tip %}}
 {{% /notice %}}
@@ -188,6 +179,17 @@ sc: [
 
 {{% notice tip %}}
 赤<span style="color:red">●</span>が多いMetaなどに人工的なプランテーションがある{{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}。プランテーションじゃない木は割と全域にあると思う。
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "コットン" %}}
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Cotton.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+見つかる確率はかなり低い印象だけどTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" "https://maps.app.goo.gl/vSDWTrUAG43CvDUR9" %}}かCordoba。Cordobaは出たことが無い（もしくは気づいてないだけ）のでどこに生えてるか不明。
 {{% /notice %}}
 
 
@@ -205,11 +207,11 @@ sc: [
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if no-margin">
-（画像なし）
+<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" %}}。サトウキビに限らずコーン類もこの辺りがメインの生産地{{% ref "https://ipad.fas.usda.gov/rssiws/al/nsa_cropprod.aspx" "USDA - Northern South America - Crop Production Maps" %}}<。
+Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" "https://maps.app.goo.gl/Sr3izseKbcSKhmDt9" %}}。コロンビアはサトウキビを用いたバイオエタノールの生産で有名であり、サトウキビの80%はValle del Cauca県だ{{% ref "https://news.mongabay.com/2017/03/colombias-cane-industry-efficient-but-potentially-damaging/" "Colombia’s cane industry efficient but potentially damaging" %}}。
 {{% /notice %}}
 
 
@@ -218,14 +220,28 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
+        <li>Buenaventuraへの道はコンテナを積んだトラックが多く見られる</li>
+        <li>電柱に黄色と黒のラインがあると<span class="quiz">Antioquia</span>県かも</li>
         <li>ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}</li>
-        <li>電柱に黄色と黒のラインがあると<span class="quiz">アンティオキア</span>かも{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" %}}{{% by "https://www.plonkit.net/colombia" "plonkit" %}}</li>
-        <li>ティエラボンバ島のボカチカという町を歩いている{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
         <li>{{% goto "../../n_america/sapd/" "サン・アンドレス・プロビデンシア・イ・サンタ・カタリーナ諸島" %}}はGoogle Carが特徴的</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Buenaventuraへの道" %}}
+{{% notice tip %}}Buenaventuraはコロンビアの主要港でありコロンビアにおける海上輸出入の約60％を占めている。そのため港へ続く道はコンテナを積んだトラックが多い印象{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./aahus_port_container_loading.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Antioquia" %}}
+{{% notice tip %}}Medellínを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="ar236201.jpg" width="95%" />
+</div>
+{{% /tab %}}
 {{% tab "ボラード" %}}
 {{% notice tip %}}ボラードに道路番号が書かれている{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
@@ -238,20 +254,6 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 <img src="./r/bollard.png" width="70px">
 </div>
 {{% /tab %}}
-{{% tab "メデジン" %}}
-{{% notice tip %}}メデジンを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" />
-</div>
-{{% /tab %}}
-{{% tab "ボカチカ" %}}
-{{% notice tip %}}要塞のある離島にある町を歩いている。一緒に歩いてくれる人がいる{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}。
-{{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 
@@ -259,29 +261,29 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>コロンビアの太平洋岸最大の港湾都市であるBuenaventuraへの道はコンテナを積んだトラックが多く見られる</li>
-        <li>タクシーやトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある{{% ex "https://maps.app.goo.gl/JVqAVxwdtwWYTkd29" %}}</li>
-        <li>ゴルゴナ島を歩いている{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}</li>
+        <li>タクシーやトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある</li>
+        <li>Tierra Bomba島のBocachicaという町を歩いている{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
+        <li>Gorgona島を歩いている</li>
         <li>{{% goto "../brazil/" "ブラジル" %}}と{{% goto "../peru/" "ペルー" %}}の国境付近にLeticiaという町がありGoogle Carが見える{{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Buenaventura" %}}
-{{% notice tip %}}道が一本しかないためガソリンスタンド付近でコンテナを積んだトラックがありえないほど渋滞する{{% ex "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。渋滞していなくても西の雰囲気＋海運系のロゴがあるトラックはこの道かも{{% ex "https://maps.app.goo.gl/vFZFkuNZPvkqvRjS8" "https://maps.app.goo.gl/1fqx2uYJsEXgv9EN6" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="./aahus_port_container_loading.jpg">
-</div>
-{{% /tab %}}
-{{% tab "タクシー" %}}
-{{% notice tip %}}ステッカーにCARTAGENAと書かれている。トラックの屋根の上や側面にも書いてあるかも{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/JVqAVxwdtwWYTkd29" %}}。
+{{% tab "サイドプレート" %}}
+{{% notice tip %}}ステッカーにCARTAGENAと書かれている。トラックの屋根の上や側面にも書いてあるかも{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./colombia_kartagena_south_america.jpg">
 </div>
 {{% /tab %}}
-{{% tab "ゴルゴナ" %}}
+{{% tab "Bocachica" %}}
+{{% notice tip %}}要塞のある離島にある町を歩いている。一緒に歩いてくれる人がいる{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Gorgona" %}}
 {{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
