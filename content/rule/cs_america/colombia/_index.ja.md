@@ -183,13 +183,24 @@ sc: [
 
 
 {{% /tab %}}
+{{% tab "サトウキビ" %}}
+<div class="googlemap-if no-margin">
+<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" "https://maps.app.goo.gl/Sr3izseKbcSKhmDt9" %}}。コロンビアはサトウキビを用いたバイオエタノールの生産で有名であり、サトウキビの80%はValle del Cauca県産だ{{% ref "https://news.mongabay.com/2017/03/colombias-cane-industry-efficient-but-potentially-damaging/" "Colombia’s cane industry efficient but potentially damaging" %}}。
+{{% /notice %}}
+
+
+{{% /tab %}}
 {{% tab "コットン" %}}
 <div class="googlemap-if no-margin">
 <img src="./Colombia_Cotton.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-見つかる確率はかなり低い印象だけどTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" "https://maps.app.goo.gl/vSDWTrUAG43CvDUR9" %}}かCordoba{{% ex "https://maps.app.goo.gl/wdDdnqh9z2ULrBrb7" "https://maps.app.goo.gl/p3Jp1aqoJ8L9U7yk6" "https://maps.app.goo.gl/GFqX2UAsyMBnGcuPA" %}}。
+見たことないけど、見つけたならTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" "https://maps.app.goo.gl/vSDWTrUAG43CvDUR9" %}}かCordoba{{% ex "https://maps.app.goo.gl/wdDdnqh9z2ULrBrb7" "https://maps.app.goo.gl/p3Jp1aqoJ8L9U7yk6" "https://maps.app.goo.gl/GFqX2UAsyMBnGcuPA" %}}。
 {{% /notice %}}
 
 
@@ -201,17 +212,6 @@ sc: [
 
 {{% notice tip %}}
 約50%がTolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "https://maps.app.goo.gl/Dj7qwjAegnrjapqi7" "https://maps.app.goo.gl/eDzgYtYwfuY83JMHA" %}}だけど田んぼ自体レア。南側に多いが北東のNorte de Santander県に流れる川沿いの平坦なエリアでもあり得る{{% ex "https://maps.app.goo.gl/UhoEvu7s8ffe5ure8" "https://maps.app.goo.gl/39NQhnLV3RGxpVpVA" %}}。
-{{% /notice %}}
-
-
-{{% /tab %}}
-{{% tab "サトウキビ" %}}
-<div class="googlemap-if no-margin">
-<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
-</div>
-
-{{% notice tip %}}
-Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" "https://maps.app.goo.gl/Sr3izseKbcSKhmDt9" %}}。コロンビアはサトウキビを用いたバイオエタノールの生産で有名であり、サトウキビの80%はValle del Cauca県産だ{{% ref "https://news.mongabay.com/2017/03/colombias-cane-industry-efficient-but-potentially-damaging/" "Colombia’s cane industry efficient but potentially damaging" %}}。
 {{% /notice %}}
 
 
