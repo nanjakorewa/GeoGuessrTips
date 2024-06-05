@@ -178,7 +178,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-赤<span style="color:red">●</span>が多いMetaなどに人工的なプランテーションがある{{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}。プランテーションじゃない木は割と全域にあると思う。
+赤<span style="color:red">●</span>が多いMeta県{{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}やSantander県北部{{% ex "https://maps.app.goo.gl/NGpuwhXAoRxjNYVd8" "https://maps.app.goo.gl/Be4i5M7nS9vYZXKL6" %}}などに人工的なプランテーションがある。プランテーションではない単発の木は割と全域に生えている気がする。
 {{% /notice %}}
 
 
@@ -189,7 +189,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-見つかる確率はかなり低い印象だけどTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" "https://maps.app.goo.gl/vSDWTrUAG43CvDUR9" %}}かCordoba。Cordobaは出たことが無い（もしくは気づいてないだけ）のでどこに生えてるか不明。
+見つかる確率はかなり低い印象だけどTolima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" "https://maps.app.goo.gl/vSDWTrUAG43CvDUR9" %}}かCordoba{{% ex "https://maps.app.goo.gl/wdDdnqh9z2ULrBrb7" "https://maps.app.goo.gl/p3Jp1aqoJ8L9U7yk6" "https://maps.app.goo.gl/GFqX2UAsyMBnGcuPA" %}}。
 {{% /notice %}}
 
 
@@ -200,7 +200,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-約50%がTolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "https://maps.app.goo.gl/Dj7qwjAegnrjapqi7" "https://maps.app.goo.gl/eDzgYtYwfuY83JMHA" %}}だけど田んぼ自体レア。
+約50%がTolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "https://maps.app.goo.gl/Dj7qwjAegnrjapqi7" "https://maps.app.goo.gl/eDzgYtYwfuY83JMHA" %}}だけど田んぼ自体レア。南側に多いが北東のNorte de Santander県に流れる川沿いの平坦なエリアでもあり得る{{% ex "https://maps.app.goo.gl/UhoEvu7s8ffe5ure8" "https://maps.app.goo.gl/39NQhnLV3RGxpVpVA" %}}。
 {{% /notice %}}
 
 
@@ -211,7 +211,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" "https://maps.app.goo.gl/Sr3izseKbcSKhmDt9" %}}。コロンビアはサトウキビを用いたバイオエタノールの生産で有名であり、サトウキビの80%はValle del Cauca県だ{{% ref "https://news.mongabay.com/2017/03/colombias-cane-industry-efficient-but-potentially-damaging/" "Colombia’s cane industry efficient but potentially damaging" %}}。
+Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" "https://maps.app.goo.gl/Sr3izseKbcSKhmDt9" %}}。コロンビアはサトウキビを用いたバイオエタノールの生産で有名であり、サトウキビの80%はValle del Cauca県産だ{{% ref "https://news.mongabay.com/2017/03/colombias-cane-industry-efficient-but-potentially-damaging/" "Colombia’s cane industry efficient but potentially damaging" %}}。
 {{% /notice %}}
 
 

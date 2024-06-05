@@ -37,8 +37,14 @@ sc: [
 
 
 {{% notice tip %}}
-電柱のへこんでいる領域に区切りがない電柱が多く{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}たまにひとつかふたつ区切りがある{{% ex "https://maps.app.goo.gl/i85yJH2qpUp7N8B38" "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。数は多くないものの、同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}や{{% goto "../../asia/philippines/" "フィリピン" %}}{{% ex "https://maps.app.goo.gl/gdMuBSA4V1hHHD4X7" %}}を含めいろんな国で見られるので決めつけは✕。
+電柱のへこんでいる領域に区切りがない電柱がある{{% ex "https://maps.app.goo.gl/dV3qTTwhAgzb9A5b7" "https://goo.gl/maps/8rdv5e7Y9qnzBZvX6" "https://goo.gl/maps/Zxo5Nf7Z4iDRwLj39" "https://goo.gl/maps/d2f5xrNbfHon1nSf9" %}}。ひとつかふたつ区切りがあることも{{% ex "https://maps.app.goo.gl/i85yJH2qpUp7N8B38" "https://goo.gl/maps/ZySVJaSLrjoLLk3c7" "https://goo.gl/maps/ef1PhofsKardanT26" %}}。
 {{% /notice %}}
+
+{{% notice note %}}
+数は多くないものの、同じような仕切りのない電柱が{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}・{{% goto "../../asia/philippines/" "フィリピン" %}}{{% ex "https://maps.app.goo.gl/gdMuBSA4V1hHHD4X7" %}}・{{% goto "../../europe/france/" "フランス" %}}などいろんな国で見られるので決めつけは✕。
+{{% /notice %}}
+
+
 <div class="googlemap-if no-margin">
 <img src="./pole-example.png" width="199px" height="640px">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="IMG_8443"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

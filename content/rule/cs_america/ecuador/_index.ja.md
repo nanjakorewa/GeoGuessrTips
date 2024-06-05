@@ -146,8 +146,8 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>アブラヤシのプランテーションがあるのは北の方に限られる{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}</li>
-        <li>バナナの生産はLos Ríos・Guayas・El Oroで多い</li>
         <li class="no-evidence">田んぼはグアヤキルに流れ込む川沿いに多い{{% ex "https://goo.gl/maps/PGuRCKXj3J6Kkm6M9" "https://goo.gl/maps/8s4iDPMAxAHzCTUF7" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}</li>
+        <li>バナナの生産はLos Ríos・Guayas・El Oroで多い</li>
         <li>ナンバープレートの頭文字から県が分かる{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Ecuador#Letter_codes" "エクアドルのナンバープレートの頭文字" %}}
             <ul>
                 <li>Sが先頭の県以外は頭文字 or 2文字目以降のどこかで覚えておくとある程度あてられる</li>
@@ -173,6 +173,15 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 </div>
 
 {{% /tab %}}
+{{% tab "田んぼ" %}}
+{{% notice tip %}}
+田んぼはグアヤキル付近のババアヨ川などの流域に多い{{% ex "https://maps.app.goo.gl/dn5hPCY1yU9qCoQU8" "https://maps.app.goo.gl/NmzDscwpcngkauTt5" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="Ecuador_Rice.png" width="90%">
+</div>
+{{% /tab %}}
 {{% tab "バナナ" %}}
 {{% notice tip %}}
 平地の多い地域でバナナのプランテーションが見つかる{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "EcuadoriaN BananA RegionS" %}}。Los Ríos (37.14%)・Guayas (32.25%)・El Oro (24,12%)の割合。
@@ -181,16 +190,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 <img src="640px-Culture_de_bananes.jpg" width="90%">
 </div>
 
-{{% /tab %}}
-{{% tab "田んぼ" %}}
-{{% notice tip %}}
-田んぼはグアヤキル付近のババアヨ川などの流域に多い{{% ref "https://www.researchgate.net/figure/Distribution-of-rice-paddies-in-Ecuador-based-on-2014-data-from-Aguilar-et-al-2015_fig1_352678453" "Costs to Ecuador's rice sector during the first decade of an apple snail invasion and policy recommendations for regions at risk" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692719967982!6m8!1m7!1sRjN-isIfvuIRa2x5GTUTgA!2m2!1d-1.932792645599542!2d-79.57847241999976!3f234.46984036457994!4f-2.7189998492245167!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1692720076805!6m8!1m7!1sPGAX8ECHF1sA2VeTpehmJg!2m2!1d-1.926990012630441!2d-80.00626544396032!3f229.5363084482948!4f-2.385672741419924!5f1.6960280271771726" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
 {{% tab "ナンバープレートの頭文字" %}}
 {{% notice tip %}}
