@@ -229,7 +229,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 
 {{% tabs %}}
 {{% tab "Buenaventuraへの道" %}}
-{{% notice tip %}}Buenaventuraはコロンビアの主要港でありコロンビアにおける海上輸出入の約60％を占めている。そのため港へ続く道はコンテナを積んだトラックが多い印象{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。
+{{% notice tip %}}Buenaventuraはコロンビアの主要港でありコロンビアにおける海上輸出入の約60％を占めている。そのため港へ続く道はコンテナを積んだトラックが多い印象{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。{{% goto "https://x.com/one_line_japan" "ONE" %}}のコンテナも見つかる{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./aahus_port_container_loading.jpg">
