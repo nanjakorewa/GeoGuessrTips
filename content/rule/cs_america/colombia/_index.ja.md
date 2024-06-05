@@ -178,7 +178,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-赤<span style="color:red">●</span>が多いMeta県{{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}やSantander県北部{{% ex "https://maps.app.goo.gl/NGpuwhXAoRxjNYVd8" "https://maps.app.goo.gl/Be4i5M7nS9vYZXKL6" %}}などに人工的なプランテーションがある。プランテーションではない単発の木は割と全域に生えている気がする。
+赤<span style="color:red">●</span>が多いMeta県{{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}やSantander県北部{{% ex "https://maps.app.goo.gl/NGpuwhXAoRxjNYVd8" "https://maps.app.goo.gl/Be4i5M7nS9vYZXKL6" %}}などに人工的なプランテーションがある。例外もある{{% ex "https://maps.app.goo.gl/VpmPXVeaEf6C8M4k8" %}}。
 {{% /notice %}}
 
 
