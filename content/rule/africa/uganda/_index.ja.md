@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">左側</span>通行であり車の後ろに<span class="quiz">黄</span>色ナンバープレートがある{{% ex "https://maps.app.goo.gl/CREz2ekXtuwWXDdo9" %}}。白いナンバープレートも多い。
+<span class="quiz">左側</span>通行であり車の後ろに<span class="quiz">黄</span>色ナンバープレートがある{{% ex "https://maps.app.goo.gl/CREz2ekXtuwWXDdo9" "https://maps.app.goo.gl/HAGMLSK3TnfMq4FH7" "https://maps.app.goo.gl/MA9yacNwrN2yVhj27" %}}。白いナンバープレートも多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="640px-Boda-Boda-Uganda.jpg" width="600px">
@@ -52,7 +52,7 @@ sc: [
 
 
 {{% notice tip %}}
-家は木やレンガでできており{{% ex "https://maps.app.goo.gl/MoXXCpsD2RjGFDvXA" %}}、町中にも赤茶色の土が広がっている{{% ex "https://maps.app.goo.gl/zuaA9cw3xtT9kdhLA" "https://maps.app.goo.gl/pQSSM9pCPPBnnXuK6" "https://maps.app.goo.gl/MQVK3eDyoGdbPYTs7" "https://maps.app.goo.gl/upzt1w6aVhMac2nt8" %}}。
+家は木やレンガでできており{{% ex "https://maps.app.goo.gl/MoXXCpsD2RjGFDvXA" %}}、町中にも赤茶色の土が広がっている{{% ex "https://maps.app.goo.gl/zuaA9cw3xtT9kdhLA" "https://maps.app.goo.gl/pQSSM9pCPPBnnXuK6" "https://maps.app.goo.gl/MQVK3eDyoGdbPYTs7" "https://maps.app.goo.gl/upzt1w6aVhMac2nt8" %}}{{% ref "https://farmpro.jp/230714-2/" "ウガンダの土について考える" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="house.jpg" width="600px">
