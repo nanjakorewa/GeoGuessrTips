@@ -107,7 +107,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-周辺国と違い標識に縁がない。
+周辺国と違い標識に縁がない。青い看板や四角い看板も同様。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
