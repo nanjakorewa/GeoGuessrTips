@@ -212,21 +212,10 @@ TODO / 赤茶色の屋根や水色の壁？{{% ref "https://ja.wikipedia.org/wik
 {{% tab "北東" %}}
 <div class="googlemap-if unclickable no-margin">
 <p><img src="./arc/640px-thumbnail.jpg" width="550px"></p>
-<p><img src="./arc/640px-thumbnail (1).jpg" width="550px"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Biserica de lemn din Dărmăneşti2.jpg" width="550px"></a></p><p>一番下の画像：By Cezar Suceveanu - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Link</a></p>
 </div>
 {{% notice tip %}}
 TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/32-bucovina/" "32. to Bucovina" %}}。
-{{% /notice %}}
-{{% /tab %}}
-{{% tab "南・南東" %}}
-
-<div class="googlemap-if unclickable no-margin">
-<p><img src="./arc/609px-Arhitectură-dobrogeană.jpg" width="550px"></p>
-</div>
-
-{{% notice tip %}}
-TODO / ブルガリアっぽい建物があるかも。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "標高" %}}
