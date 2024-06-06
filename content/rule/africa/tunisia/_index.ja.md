@@ -44,6 +44,14 @@ sc: [
 
 
 {{% notice tip %}}
+水色と白が基調の建物が多い{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}。縁石やシェブロンも白と水色の組合せ{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./house.png" width="90%">
+</div>
+
+
+{{% notice tip %}}
 <span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。そしてGoogle Carの後ろに黒っぽい色の車が付いてくることが多い{{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref "画像出典 - 画像加工あり" %}}。
 {{% /notice %}}
 
@@ -58,14 +66,6 @@ sc: [
 
 CC0
 {{% /lb %}}
-
-{{% notice tip %}}
-水色と白が基調の建物が多い{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}。縁石やシェブロンも白と水色の組合せ{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}。
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="./house.png" width="90%">
-</div>
-
 
 
 {{% /tab %}}

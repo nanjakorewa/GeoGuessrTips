@@ -57,14 +57,14 @@ sc: [
 
 
 {{% notice tip %}}
-Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある{{% ex "https://maps.app.goo.gl/oAKqQYJ92ayVdhcg8" "https://maps.app.goo.gl/QrHcZcRbbptxCtPq7" "https://goo.gl/maps/yiwG1f12ZZGN94Xs9" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にある。近代に建てられたものは電灯やソーラーパネルが付いているものもあるらしい。近代化の波？{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}
+Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが道端に多くある{{% ex "https://maps.app.goo.gl/oAKqQYJ92ayVdhcg8" "https://maps.app.goo.gl/QrHcZcRbbptxCtPq7" "https://goo.gl/maps/yiwG1f12ZZGN94Xs9" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}。交通事故などが発生した場所にある。奇跡的に助かったり、逆に不運にも命を落としてしまった現場付近にあるらしい{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg#/media/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg" alt="Proskynetarion on roadside of provincial Road Pilonas - Katavias on Rhodes 5 September 2017.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:PjotrMahh1&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:PjotrMahh1 (page does not exist)">Pjotr Mahhonin</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100208787">Link</a></p>
 </div>
 
 {{% notice tip %}}
-看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし他の国でもたまにオレンジ背景の看板はある。矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印がほとんど{{% ex "https://maps.app.goo.gl/Ld5RDETDZ9EhaYp9A" "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}。稀に例外もある{{% ex "https://maps.app.goo.gl/uhx59VMaotyxxUan9" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
+看板の背景がオレンジのことが多い{{% ex "https://maps.app.goo.gl/F8VvmLwMVxcLgxWq9" "https://maps.app.goo.gl/voGjQM3YPc1CHtbk6" "https://goo.gl/maps/VbZ5fxCh3aR6hKD56" "https://goo.gl/maps/oDqk2QUNVnSiYJ8TA" "https://goo.gl/maps/ucfaE71uBdTa1Qk76" "https://goo.gl/maps/ZbrQgmmVrn2nNSW67" %}}。オレンジの警告看板はギリシャの他には北欧・{{% goto "../poland/" "ポーランド" %}}・{{% goto "../macedonia/" "北マケドニア" %}}が多い。ただし一時的に設置されたオレンジ背景の看板は多くの国で見つかるのて注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -72,6 +72,11 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
 <img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
 </div>
+
+{{% notice tip %}}
+矢印は{{% goto "../albania/" "アルバニア" %}}と同じく黒背景に白矢印がほとんど{{% ex "https://maps.app.goo.gl/Ld5RDETDZ9EhaYp9A" "https://goo.gl/maps/zuBPdZym4MWPsVED8" "https://goo.gl/maps/GSDxZX4vo9HZRHRE8" %}}。稀に例外もある{{% ex "https://maps.app.goo.gl/uhx59VMaotyxxUan9" "https://goo.gl/maps/md7cEoNdNBSKD13S7" %}}。
+{{% /notice %}}
+
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
 <img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
