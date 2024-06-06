@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% ex "https://maps.app.goo.gl/2kK7qnq8jQyKAHLK8" %}}{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。
+標識は<span class="quiz">４つのネジで留められている</span>ことが多い{{% ex "https://maps.app.goo.gl/VaRgp9dCnXVFGui98" "https://maps.app.goo.gl/2kK7qnq8jQyKAHLK8" %}}{{% by "neckoluv" "twitch" %}}。標識の前からネジがハッキリ見えることがわかる。他の国でもネジが見えることはあるので、周りの雰囲気も合わせてハンガリーかどうか判断する。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -45,7 +45,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴。斜めの点がふたつついていたらハンガリーと覚えておく。また緑色の独特な形の道路番号がある。
+<span class="quiz">ű・ő</span>のような点を斜めにふたつ付けたもの（ダブルアキュート）はハンガリーの特徴{{% ex "https://maps.app.goo.gl/yHvpowUS9ZkpeNo7A" %}}。斜めの点がふたつついていたらハンガリーと覚えておく。また緑色の独特な形の道路番号がある。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
