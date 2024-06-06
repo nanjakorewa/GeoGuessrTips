@@ -33,21 +33,32 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-暖かい雰囲気があり、砂浜・森の中・町の中を歩いている。
+島の内部には熱帯林が広がっている{{% ex "https://maps.app.goo.gl/zr9LNbqwYQk7YiGk6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Tropical_forest.JPG#/media/File:Tropical_forest.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tropical_forest.JPG" alt="File:Tropical forest.JPG" width="95%"></a></p><p><a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=534633">Link</a></p>
+</div>
+
+{{% notice tip %}}
+暖かい雰囲気があり、砂浜・森の中・町の中を歩いている{{% ex "https://maps.app.goo.gl/Ug8hyoRmH3A9CNKo6" "https://maps.app.goo.gl/n7vqMxgm6xW8TVxi6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685645182336!6m8!1m7!1sv8RcSkmwHfp0DkiocqejVA!2m2!1d14.40250559098778!2d-60.87724935957993!3f223.82644312145177!4f-2.458078532367068!5f1.3287379062494322" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685645305720!6m8!1m7!1s0yTAk7oBOtuoqveZpnqT9Q!2m2!1d14.60168458192848!2d-60.90602074010324!3f85.9367022709517!4f6.511507642253093!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="martinique_beach_ocean_sea.jpg" width="95%">
 </div>
 
 
 {{% notice tip %}}
-EUのナンバープレートがある
+EUのナンバープレートがある{{% ex "https://maps.app.goo.gl/A3dDa443bf5oP3jL9" %}}
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694927920634!6m8!1m7!1s8IR7yMgvomfs1FS7_30bLQ!2m2!1d14.60224895167704!2d-60.90668647277003!3f56.62764566815802!4f-3.650750730837032!5f2.6800523807148364" width="590" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+
+{{% lb 50 %}}
+![](640px-2020_Immatriculation_provisoire_74_Haute-Savoie.jpg)
+
+CC0
+{{% /lb %}}
+
 {{% /tab %}}
 {{% /tabs %}}
