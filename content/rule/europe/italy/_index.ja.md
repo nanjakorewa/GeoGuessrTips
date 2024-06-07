@@ -231,6 +231,11 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
+        <li>Province名
+            <ul>
+                <li>Provinceごとに2文字のコード名がある{{% goto "https://en.wikipedia.org/wiki/Provinces_of_Italy#List" "コード名一覧（英語）" %}}</li>
+            </ul>
+        </li>
         <li>サルデーニャ州{{% ex "https://maps.app.goo.gl/MvKWc9oQwraMWRM3A" %}}
             <ul>
                 <li>たまにサルデーニャ語とイタリア語の２言語表記の看板がある</li>
@@ -248,6 +253,13 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 </div>
 
 {{% tabs %}}
+{{% tab "イタリアのProvince名" %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Italian_regions_provinces.svg" width="90%">
+</div>
+
+{{% /tab %}}
 {{% tab "サルデーニャ州" %}}
 
 {{% notice tip %}}
