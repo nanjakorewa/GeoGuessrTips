@@ -134,6 +134,7 @@ maps: [
 <div class="main-desciption area-description">
     <h4>電柱や標識</h4>
     <ul class="rule-list">
+        <li>電力会社・配線事業者が地域ごとに異なるため、ロゴやプレートに地域性がある</li>
         <li>北海道や東北などの寒い地域特有のものがある
             <ul>
                 <li>雪対策として信号機が<span class="quiz">縦</span>になっていることがある</li>
@@ -150,3 +151,26 @@ maps: [
         <li>電柱のガイワイヤー（Guy-wire・支線）が地域によって異なる{{% ref "https://docs.google.com/document/d/18s_xdyXfVpBNHzwn8PtC9otpIwAJNWXjeeWg2egVd4U/edit" "Regional Differences in Guy-Wires for utility poles in Japan" %}}
         </li>
 </div>
+
+{{% tabs %}}
+{{% tab "電柱のプレート" %}}
+{{% notice tip %}}
+{{% goto "https://docs.google.com/document/d/16lVvh3sLCnHLh_itpEsvXrHHCR_EPzArBmb4bg6TUTU/edit" "Guide to Regional Plates on Japanese Utility Poles" %}}を参照。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/i14tTl6BF7Y?si=BA13VVj9LPKhjIjG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "送配電事業者" %}}
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">先ほどアップした送配電事業者マップですが、一部修正がありましたので、修正して再度アップします。 <a href="https://t.co/W3z6MLmD8l">pic.twitter.com/W3z6MLmD8l</a></p>&mdash; 松尾 豪 Go Matsuo (@gomatsuo) <a href="https://twitter.com/gomatsuo/status/1122825684504547329?ref_src=twsrc%5Etfw">April 29, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "ガイワイヤー" %}}
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p9HGPr9-s9E?si=mUC5fcYbf2qEhTC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
