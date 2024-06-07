@@ -139,12 +139,6 @@ P522と書かれているのは道路番号なので見逃さないように。
                 <li>⑥Fynbos、地中海性気候がメインで植生の多くが細い針状の葉を持っている{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9" "Wikipedia『フィンボス』" %}}</li>
             </ul>
         </li>
-        <li>農業の種類で地域がわかることがある
-            <ul>
-                <li>ぶどう：<span class="quiz">南西のケープタウン周辺</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
-                <li>さとうきび：<span class="quiz">東海岸沿い</span></li>
-            </ul>
-        </li>
     </ul>
 </div>
 
@@ -198,11 +192,23 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682325086107!6m8!1m7!1sQdpNKOtc8WiQ2kpj0hSEUQ!2m2!1d-28.8076136017554!2d20.44497834268564!3f120.99758362124906!4f-1.4992175063994466!5f0.8742806863926469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">農業</h4>
+    <ul class="rule-list">
+        <li><span style="color:#9310D2">■</span>ぶどう：<span class="quiz">南西のケープタウン周辺</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
+        <li><span style="color:#A2F100">■</span>さとうきび：<span class="quiz">東海岸沿い</span></li>
+        <li><span style="color:#F3FB66">■</span>コーン：<span class="quiz">Free State北部あたり</span></li>
+        <li><span style="color:#F7D160">■</span>羊などの牧畜、つまり農業はできず木や草が少ない地域</li>
+        <li>{{% ref "https://ipad.fas.usda.gov/rssiws/al/safrica_cropprod.aspx" "Southern Africa - Crop Production Maps" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "農業" %}}
 <div class="googlemap-if">
-
 <img src="2023-05-12-20-42-15.png" width="90%"/>
-
 <div class="description-wide">
 Waldner, François, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
 </div>
@@ -211,19 +217,33 @@ Waldner, François, et al. "National-scale cropland mapping based on spectral-te
 {{% notice tip %}}
 Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリアでさとうきびが見られる。
 {{% /notice %}}
-
+{{% /tab %}}
+{{% tab "サトウキビ" %}}
+<div class="googlemap-if">
+<img src="./ag/sugacane.jpg" width="90%"/>
+</div>
+{{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if">
+<img src="./ag/corn.jpg" width="90%"/>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
-        <li>ドラケンスバーグ山脈を横切る道がいくつかある{{% ex "https://maps.app.goo.gl/6E7Ar9zgJQug9MAx8" %}}</li>
         <li>市外局番のエリアコードで地域が分かる</li>
+        <li>ドラケンスバーグ山脈を横切る道がいくつかある{{% ex "https://maps.app.goo.gl/6E7Ar9zgJQug9MAx8" %}}</li>
         <li>レソト周辺はナンバープレートが緑色っぽい{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_South_Africa" "南アフリカの州ごとのナンバープレート" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "市外局番" %}}
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Petite map des téléphones fixes d&#39;Afrique du Sud que j&#39;ai faite pour devenir meilleure à <a href="https://twitter.com/geoguessr?ref_src=twsrc%5Etfw">@geoguessr</a> 😍 <a href="https://t.co/A4DJEFwLMv">pic.twitter.com/A4DJEFwLMv</a></p>&mdash; Armire 🌸 (@Armire) <a href="https://twitter.com/Armire/status/1640831519643127808?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+{{% /tab %}}
 {{% tab "ドラケンスバーグ山脈" %}}
 {{% notice tip %}}
 写真は恐らくR301、Bain`s Kloof Passという名前が付いているらしい{{% ex "https://maps.app.goo.gl/6E7Ar9zgJQug9MAx8" "https://maps.app.goo.gl/JhAjEJr9YG4a4ZKAA" %}}。ドラケンスバーグ山脈を横切るR301・R323{{% ex "https://maps.app.goo.gl/GS1pNZs8Pv8Ko3Zt7" %}}・R324{{% ex "https://maps.app.goo.gl/ZzUMAr6jXoYZFDzU8" %}}・R62{{% ex "https://maps.app.goo.gl/48dLx2N9D234b1p56" %}}・N1{{% ex "https://maps.app.goo.gl/sNA4GVgQZs6Lj1bB6" %}}などは道の両側に険しい岩肌が立っていることがある。
@@ -231,11 +251,6 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 
 <div class="googlemap-if">
 <img src="bainskloof_pass01.jpg" width="500px"/>
-</div>
-{{% /tab %}}
-{{% tab "市外局番" %}}
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Petite map des téléphones fixes d&#39;Afrique du Sud que j&#39;ai faite pour devenir meilleure à <a href="https://twitter.com/geoguessr?ref_src=twsrc%5Etfw">@geoguessr</a> 😍 <a href="https://t.co/A4DJEFwLMv">pic.twitter.com/A4DJEFwLMv</a></p>&mdash; Armire 🌸 (@Armire) <a href="https://twitter.com/Armire/status/1640831519643127808?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "ナンバープレート" %}}
@@ -258,17 +273,17 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Titanic Rock{{% ex "https://maps.app.goo.gl/VQmpjtp4R4DLFqxa6" %}}</li>
+        <li>Robben Islandという離島を歩いている</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Titanic Rock" %}}
+{{% tab "Robben Island" %}}
 {{% notice tip %}}
-観光名所らしいけれどかなり近くに寄らないと見ることはできない
+徒歩で道の上を歩いていたら考えてみる{{% ex "https://maps.app.goo.gl/y6M3qmKAhq3qPgSr5" "https://maps.app.goo.gl/78cktLEdWZDZh33x9" %}}。テーブルマウンテンが遠くに見える。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="titanic_rock_clarens.jpg" width="500px"/>
+<img src="limestone_quarry_robben_island.jpg" width="600px"/>
 </div>
 {{% /tab %}}
 
