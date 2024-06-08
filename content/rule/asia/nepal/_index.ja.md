@@ -25,6 +25,7 @@ sc: [
         <li>エベレストのふもとの山岳地帯を歩いている</li>
         <li>お店で登山用グッズを売っていて現在地点の高さが看板に書いてある</li>
     </ul>
+    {{% rd asia nepal verysmall %}}
 </div>
 
 {{% tabs %}}
@@ -51,5 +52,26 @@ sc: [
 <div class="googlemap-if">
 <img src="./nepal_annapurna_himalayas_trekking.jpg" width="95%">
 </div>
+
+
+{{% notice tip %}}
+{{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護国だった影響もあり、イギリスと似た標識が見つかる{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "グルカ戦争" %}}。
+{{% /notice %}}
+
+{{% notice note %}}
+2024年3月現在、車道の上のカバレッジはないため覚えなくてもok。
+{{% /notice %}}
+
+
+
+<div class="googlemap-if no-margin">
+<img src="./r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px">
+<img src="./r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px">
+<img src="./r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px">
+<img src="./r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px">
+</div>
+
+
+
 {{% /tab %}}
 {{% /tabs  %}}

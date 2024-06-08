@@ -49,7 +49,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 {{% /lb %}}
 
 {{% notice tip %}}
-2言語で書かれた白黒の通り看板{{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}。{{% goto "../../europe/united-kingdom/" "イギリス" %}}にありそうな看板も見受けられる{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}。
+2言語で書かれた白黒の通り看板{{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}。{{% goto "../../europe/united-kingdom/" "イギリス" %}}や{{% goto "../nepal/" "ネパール" %}}にありそうな看板も見受けられる{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./hk_syp_western_street_0.jpg" width="90%">
