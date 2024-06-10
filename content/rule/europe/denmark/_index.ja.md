@@ -78,19 +78,22 @@ sc: [
 </div>
 
 
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-
 {{% notice tip %}}
-ナンバープレートは黄色も存在するので{{% goto "../netherlands/" "オランダ" %}}と間違えないように注意{{% ex "https://maps.app.goo.gl/gpW89FJrneegRSGK7" %}}。
+ナンバープレートは黄色も存在するので{{% goto "../netherlands/" "オランダ" %}}と間違えないように注意{{% ex "https://maps.app.goo.gl/ugD4ZwBMfNa7QLyu9" "https://maps.app.goo.gl/PgYkVZjz65q9ToL8A" %}}。
 {{% /notice %}}
 
 {{% lb 50 %}}
 ![](2023-04-12-06-08-23.png)
 
-public domain, <a href="https://commons.wikimedia.org/w/index.php?curid=8391465">Wikimedia Commons</a>による
+public domain
+{{% /lb %}}
+{{% lb 50 %}}
+![](DK_parrot_license_plate_2009.svg)
 
-![](DK_van_plate_1976.svg)
+public domain
+{{% /lb %}}
+{{% lb 50 %}}
+![](DK_van_plate_2009.svg)
 
 public domain
 {{% /lb %}}
