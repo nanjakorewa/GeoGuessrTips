@@ -10,6 +10,7 @@ no_detaile_info: true
 bg: "bg/city.jpg"
 flag: "IM.svg"
 dont_show_usda: true
+flag_height: "400px"
 sc_title: "間違えやすい地域"
 sc: [
     ["../united-kingdom/", "イギリス"],

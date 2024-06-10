@@ -86,13 +86,6 @@ CC0
 <img src="./sign-bg.png" width="120px" style="margin:10px">
 </div>
 
-{{% notice tip %}}
-カメラに亀裂が入っていることがある{{% by %}}
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681170588295!6m8!1m7!1segWVKwWr-SK3D17ZbM-wZA!2m2!1d41.16613852694356!2d20.20041411394961!3f311.52613228878727!4f48.98466247439279!5f1.92064061173707" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">

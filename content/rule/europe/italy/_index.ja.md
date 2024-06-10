@@ -53,12 +53,10 @@ sc: [
 <img src="./bollard.png" width="90%" alt="イタリアのボラード" />
 </div>
 
-<div class="googlemap-if unclickable no-margin">
-<img src="2023-08-13-17-45-16.png" width="90%" alt="イタリアのボラード" />
-</div>
-
 <div class="googlemap-if no-margin" style="font-size:0.8em">
-<a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2046554">Link</a>, 加工あり
+<div class="googlemap-if">
+<iframe width="252" height="451" src="https://www.youtube.com/embed/-BFJIAxLhrw" title="ボラード引っこ抜いてみた" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
 </div>
 
 
@@ -117,22 +115,8 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/elgrandee/1820694486/" title="G. Rizzardi Street Sign"><img src="https://live.staticflickr.com/2369/1820694486_f3c78df6f5_w.jpg" width="400" height="300" alt="G. Rizzardi Street Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="rimini_via_luci_del.jpg">
 </div>
-
-{{% notice tip %}}
-イタリア最大の工業会社のひとつであるEni S.p.A.{{% ref "https://ja.wikipedia.org/wiki/Eni" "Eni" %}}の黄色いガソリンスタンドがある。ロゴが良すぎる。
-{{% /notice %}}
-
-
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sharonhahndarlin/52235147537/in/photolist-D8aS2W-28Grax9-2nRExSL-MrPFQK-2b9MBvZ-ivhxRC-ivhneg-2TfieW-idVmCy-idVp8c-2nsDSCC-2mj8Enz-2h9NjQR-2ntwy2c-2nzQMw2-2nkqBrQ" title="Graz, Austria"><img src="https://live.staticflickr.com/65535/52235147537_0db0f8b2a4_z.jpg" width="380px" height="360px" alt="Graz, Austria"/></a>
-<div class="unclickable">
-<img src="Logo_ENI.svg" width="190px" style="margin: 1em"/>
-</div>
-</div>
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 
 {{% notice tip %}}
 イタリア・{{% goto "../albania/" "アルバニア" %}}・{{% goto "../greece/" "ギリシャ" %}}・{{% goto "../spain/" "スペイン" %}}は白黒シェブロンがあり得る{{% ex "https://maps.app.goo.gl/jNsZH3u6Ya8YuF3T8" "https://maps.app.goo.gl/hCgDJzvgoe2faNz3A" %}}。
@@ -141,7 +125,6 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:TunnelTimmelsjoch.JPG#/media/File:TunnelTimmelsjoch.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/TunnelTimmelsjoch.JPG" alt="TunnelTimmelsjoch.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knipptang" title="User:Knipptang">Arne Hückelheim</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9579390">Link</a></p>
 </div>
-
 
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -157,26 +140,22 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /tab %}}
 {{% tab "w-plant" %}}
 {{% notice tip %}}
-ぶどう畑が多い
+ぶどう畑が多い{{% ex "https://maps.app.goo.gl/mvXJiejHLTnSGHNN7" "https://maps.app.goo.gl/dvWkLTo1E7oNvEQC6" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485704007!6m8!1m7!1sE73J2h_OQM_5UUK4FQWJAQ!2m2!1d44.66060825830753!2d7.418788806567348!3f307.9065571439209!4f-6.184000050369335!5f1.5811581702377921" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485855636!6m8!1m7!1sIavJSDZugUq7eDePvsOIHQ!2m2!1d44.66308090582659!2d7.425792618854587!3f125.57436424812295!4f-4.254959015940301!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="vineyards_vines_italy_barolo.jpg">
 </div>
 {{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679675424757!6m8!1m7!1sYPJLTYBc1h1hufIIVdyozQ!2m2!1d44.69938287322245!2d8.948909405395149!3f8.997668547664777!4f-14.101818837900879!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485924542!6m8!1m7!1ss27mXpqJ7MZh1I0e7GrQ-w!2m2!1d44.66380632122473!2d7.427647402490296!3f27.59290653487331!4f-28.999936472781506!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681485958478!6m8!1m7!1s_IocCYjic6_W6hsDQpH58A!2m2!1d44.66403017946543!2d7.428443492109739!3f282.61256992869187!4f-22.98695062406398!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691345734742!6m8!1m7!1sK51uzMklydBMIYeJoNaQXg!2m2!1d37.98065591249411!2d15.82571521640423!3f292.61542132446385!4f-15.65845492723345!5f1.3807764640608764"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "動画" %}}
+{{% tab "商業施設" %}}
+
+{{% notice tip %}}
+イタリア最大の工業会社のひとつであるEni S.p.A.{{% ref "https://ja.wikipedia.org/wiki/Eni" "Eni" %}}の黄色いガソリンスタンドがある。ロゴが良すぎる。
+{{% /notice %}}
 
 <div class="googlemap-if">
-<iframe width="422" height="751" src="https://www.youtube.com/embed/-BFJIAxLhrw" title="ボラード引っこ抜いてみた" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<img src="Logo_ENI.svg" width="190px" style="margin: 1em"/>
 </div>
+
 {{% /tab %}}
 {{% /tabs %}}
 
