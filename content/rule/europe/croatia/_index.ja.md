@@ -114,7 +114,7 @@ CC0</a>
 </div>
 
 {{% notice tip %}}
-赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://maps.app.goo.gl/WPiySja6gVUH2FVn6" "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。{{% goto "../serbia/" "セルビア" }}でもたまに見かける{{% ex "https://maps.app.goo.gl/8JmiLusejAexJLCw8" %}}。
+赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://maps.app.goo.gl/WPiySja6gVUH2FVn6" "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。{{% goto "../serbia/" "セルビア" %}}でもたまに見かける{{% ex "https://maps.app.goo.gl/8JmiLusejAexJLCw8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./danger.png" width="200px" style="margin:40px">
