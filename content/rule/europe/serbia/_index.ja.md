@@ -45,7 +45,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-「<span class="quiz">Ђ</span>」や「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ{{% ref "https://ja.wikipedia.org/wiki/%D0%82" "Ђ" %}}。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがあるので注意。この文字はセルビアの一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
+「<span class="quiz">Ђ</span>」や「<span class="quiz">Ћ</span>」の文字でストリートビューがあるのはセルビアのみ{{% ex "https://maps.app.goo.gl/Dbiz1zFKs6q6DTy48" %}}{{% ref "https://ja.wikipedia.org/wiki/%D0%82" "Ђ" %}}。太字のフォントだと小文字の「<span class="quiz">ћ</span>」の斜線が見にくいことがあるので注意。この文字はセルビアの一般的な名前での使用が多い{{% ref "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Europe#Serbia" "List of most common surnames in Europe - Serbia" %}}ので人名が書かれたポスターとかを見るのもあり？
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

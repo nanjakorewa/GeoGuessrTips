@@ -48,7 +48,7 @@ sc: [
 {{% /notice %}}
 
 {{% notice note %}}
-ヨーロッパでナンバープレートが緑なのはノルウェーの商用車か{{% goto "../serbia/" "セルビア" %}}の農業用車輛のみ。
+ヨーロッパでナンバープレートが緑なのはノルウェーの商用車か{{% goto "../serbia/" "セルビア" %}}の農業用車輛{{% ex "https://maps.app.goo.gl/As1rHu4VQuhJzSwL7" %}}のみ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
