@@ -15,7 +15,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../romania/", "ルーマニア"],
     ["../hungary/", "ハンガリー"],
-    ["../../middle_east/turkey/", "トルコ"],
+    ["../slovakia/", "スロバキア"],
     ]
 ---
 
@@ -39,6 +39,15 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+
+{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/tHfoNLBNP3xz2GH28" "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="2023-07-23-10-25-46.png" width="278px"/>
+<img src="2023-07-23-10-23-12.png" width="310px"/>
+</div>
+
 {{% notice tip %}}横断歩道の標識の線の数は<span class="quiz">4</span>本{{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
@@ -51,14 +60,6 @@ sc: [
 <div class="googlemap-if no-margin">
 <img src="./bulgaria_village_cart_wooden.jpg" width="640">
 <img src="./houses_old_home_residences.jpg" width="640">
-</div>
-
-
-{{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="2023-07-23-10-25-46.png" width="278px"/>
-<img src="2023-07-23-10-23-12.png" width="310px"/>
 </div>
 
 {{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% ex "https://maps.app.goo.gl/8m7JbzZdDwwVNjCz9" "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。
