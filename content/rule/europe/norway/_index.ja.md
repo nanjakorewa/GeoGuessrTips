@@ -47,6 +47,10 @@ sc: [
 ナンバープレートは<span class="quiz">白か緑色（緑は公用車・商業車）</span>{{% ex "https://maps.app.goo.gl/EJgN58bU3GdiU17v9" "https://maps.app.goo.gl/w9zkooJUkhGy2MX38" "https://maps.app.goo.gl/etwNBScxxzdjm3XH6" "https://maps.app.goo.gl/PqBYhZcGeJewmhrt8" "https://maps.app.goo.gl/dSeJ1cbCAr75bDDW8" %}}。宅配業者のバンなどがこの色になっていることが多い{{% ex "https://goo.gl/maps/h5yfGpJVvfrQSYes7" "https://goo.gl/maps/wYECssLY6SG71GXJ9" %}}。道端にスノーポールもある。
 {{% /notice %}}
 
+{{% notice note %}}
+ヨーロッパでナンバープレートが緑なのはノルウェーの商用車か{{% goto "../serbia/" "セルビア" %}}の農業用車輛のみ。
+{{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./car.png" width="90%" alt="ノルウェーのガソリンスタンド">
 </div>
