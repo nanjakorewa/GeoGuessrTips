@@ -83,7 +83,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 
 
 {{% notice tip %}}
-標識を後ろや横から見たときに側面も色が塗られている{{% ex "https://maps.app.goo.gl/j9KWUnYNY2dVAG8t9" "https://maps.app.goo.gl/4SP4Q1qaTHHT3LVBA" "https://maps.app.goo.gl/xmgaptyKTrz7Joaa9" "https://maps.app.goo.gl/GJ9RxQPjA39rBUCFA" "https://maps.app.goo.gl/ov8XjxvajC4UhJbo7" "https://maps.app.goo.gl/SXxe5BNVSR7kSQLYA" %}}。
+標識を後ろや横から見たときに側面も色が塗られている{{% ex "https://maps.app.goo.gl/dXa5UqTGLzeKr8VT6" "https://maps.app.goo.gl/j9KWUnYNY2dVAG8t9" "https://maps.app.goo.gl/4SP4Q1qaTHHT3LVBA" "https://maps.app.goo.gl/xmgaptyKTrz7Joaa9" "https://maps.app.goo.gl/GJ9RxQPjA39rBUCFA" "https://maps.app.goo.gl/ov8XjxvajC4UhJbo7" "https://maps.app.goo.gl/SXxe5BNVSR7kSQLYA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road-sign.jpg" width="90%">

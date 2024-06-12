@@ -59,7 +59,7 @@ sc: [
 {{% notice tip %}}道路のセンターラインはほとんどが<span class="quiz">白</span>色2本線。画像のように中央に２本の<span class="quiz">白</span>線がある道はほぼマレーシア{{% ex "https://maps.app.goo.gl/f9CHkmZN4QXczH6y5" "https://maps.app.goo.gl/5rWj7nAyagkg769y6" %}}。
 {{% /notice %}}
 
-{{% notice note %}}ごく稀に{{% goto "../indonesia/" "インドネシア" %}}で白色2本線が見つかることも{{% ex "https://maps.app.goo.gl/5mqzZRn3wroL8jW96" %}}。
+{{% notice note %}}{{% goto "../hongkong/" "香港" %}}{{% ex "https://maps.app.goo.gl/CifxE4hfJUbCqeFe8" %}}や、ごく稀に{{% goto "../indonesia/" "インドネシア" %}}で白色2本線が見つかることも{{% ex "https://maps.app.goo.gl/5mqzZRn3wroL8jW96" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

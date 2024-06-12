@@ -62,7 +62,9 @@ sc: [
 2024年3月現在、車道の上のカバレッジはないため覚えなくてもok。
 {{% /notice %}}
 
-
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="800" height="522" alt="Traffic signs, Kathmandu, Nepal."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 <div class="googlemap-if no-margin">
 <img src="./r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px">

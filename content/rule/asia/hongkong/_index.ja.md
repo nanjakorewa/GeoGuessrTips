@@ -16,6 +16,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../taiwan/", "台湾"],
     ["../macau/", "澳門"],
+    ["../japan/", "日本"],
     ["../singapore/", "シンガポール"],
     ]
 ---
@@ -36,7 +37,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-{{% goto "../../europe/united-kingdom/" "イギリス" %}}と同じようにナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/Q3AYECtfvF8Pqegs5" "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
+{{% goto "../../europe/united-kingdom/" "イギリス" %}}と同じようにナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/Ua54qvCsaQWTWaVW7" "https://maps.app.goo.gl/Q3AYECtfvF8Pqegs5" "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./hongkong-car.jpg" width="95%">
@@ -71,7 +72,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 </div>
 
 {{% notice tip %}}
-開発が進んでいない地域{{% ex "https://maps.app.goo.gl/7ewfQF1wTo6Egyo49" "https://maps.app.goo.gl/om8kUBQ3zgDfUu6Y8" %}}・離島{{% ex "https://maps.app.goo.gl/gKnZ476SQr3b7roCA" "https://maps.app.goo.gl/R2oeyasTXRVyiFcD8" %}}・登山道{{% ex "https://maps.app.goo.gl/enfWoMmsdHW1YXFu5" "https://maps.app.goo.gl/5bJeyaNbNAQXHBQw6" %}}にもストリートビューがある。{{% goto "../japan/" "日本" %}}や{{% goto "../taiwan/" "台湾" %}}でなさそうなアジアの道路は香港かも。
+開発が進んでいない地域{{% ex "https://maps.app.goo.gl/JNm6xCWrC9RArtjq7" "https://maps.app.goo.gl/Mq8xQeavQkwedvUr7" "https://maps.app.goo.gl/om8kUBQ3zgDfUu6Y8" %}}・離島{{% ex "https://maps.app.goo.gl/gKnZ476SQr3b7roCA" "https://maps.app.goo.gl/R2oeyasTXRVyiFcD8" %}}・登山道{{% ex "https://maps.app.goo.gl/enfWoMmsdHW1YXFu5" "https://maps.app.goo.gl/5bJeyaNbNAQXHBQw6" %}}にもストリートビューがある。{{% goto "../japan/" "日本" %}}や{{% goto "../taiwan/" "台湾" %}}でなさそうなアジアの道路は香港かも。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
