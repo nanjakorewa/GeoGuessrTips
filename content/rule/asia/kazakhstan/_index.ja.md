@@ -13,6 +13,7 @@ jetro_detail: true
 plonkit: false
 dont_show_usda: true
 import_jquery_36: true
+is_has_distinctive_googlecar: true
 flag_height: "350px"
 ---
 
