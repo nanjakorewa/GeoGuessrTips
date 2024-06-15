@@ -10,6 +10,8 @@
         {{ range (where .Site.Pages "Type" "docs") }}
         {{ if eq .Params.weight 1 }}
         <div class="col-lg-8 col-sm-3 mb-3">
+        {{ else if eq .Params.weight 10000}}
+        <div class="col-lg-8 col-sm-3 mb-3">
         {{ else }}
         <div class="col-lg-4 col-sm-3 mb-3">
         {{ end }}

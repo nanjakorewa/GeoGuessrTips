@@ -30,5 +30,5 @@ pagetype: "quiz"
 </div>
 
 <div class="googlemap-if ansarea transparent-area">
-ここに解説がくるかも？
+解説書くところ（TODO: テキスト以外も書けるようにする）
 </div>
