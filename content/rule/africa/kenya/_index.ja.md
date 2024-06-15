@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/nNop8SSnJC7MnnqD9" "https://maps.app.goo.gl/sr2UU8U2UUZXNRwL9" "https://maps.app.goo.gl/eZFd7HH9zsEZjw956" "https://maps.app.goo.gl/8icpzm6jeKQFk2MK9" "https://maps.app.goo.gl/59D3a5zrycuc64sv9" "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。バイクも<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/RzyrkmBq96HF1Mkb9" %}}。
+車は<span class="quiz">左側</span>通行であり、車の後ろナンバーが<span class="quiz">大き目の黄色</span>{{% ex "https://maps.app.goo.gl/nNop8SSnJC7MnnqD9" "https://maps.app.goo.gl/sr2UU8U2UUZXNRwL9" "https://maps.app.goo.gl/eZFd7HH9zsEZjw956" "https://maps.app.goo.gl/8icpzm6jeKQFk2MK9" "https://maps.app.goo.gl/59D3a5zrycuc64sv9" "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}。バイクも前にはプレートは無いかもしれないが<span class="quiz">大き目の黄</span>色ナンバーが後ろについている{{% ex "https://maps.app.goo.gl/mghxev8i5t5feqfH8" "https://maps.app.goo.gl/RzyrkmBq96HF1Mkb9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 </div>
