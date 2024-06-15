@@ -59,48 +59,48 @@ function removeClassToClassName(targetClass, classname) {
     }
 }
 
+function applyblur() {
+    isBlurOn = true;
+    blurCheckbox = document.querySelector('input[name=hoge]:checked');
 
-window.addEventListener("load", function () {
-    const blurCheckbox = document.querySelector('#blur-checkbox');
-    const isBlurOn = localStorage.getItem('isBlurOn');
-    if (!blurCheckbox) {
-        return;
+    if (blurCheckbox){
+        console.log(blurCheckbox.value);
+    }
+    else{
+        console.log("falseaaaa");
+        isBlurOn = true;
     }
 
-    if (isBlurOn === 'true') {
-        blurCheckbox.checked = true;
-        addClassToTag('h2', 'blurtext');
-        addClassToTag('h3', 'blurtext');
-        addClassToTag('h4', 'blurtext');
+    const ans = blurCheckbox.value;
+    if (ans=="c") {
+        isBlurOn = false;
+    }
+
+    if (isBlurOn === true) {
+        console.log("applybler");
         addClassToTag('iframe', 'iframe-blur');
         removeClassToClassName('section-title', 'blurtext');
         removeClassToClassName('no-blur', 'blurtext');
     } else {
-        blurCheckbox.checked = false;
-        removeClassToTag('h2', 'blurtext');
-        removeClassToTag('h3', 'blurtext');
-        removeClassToTag('h4', 'blurtext');
         removeClassToTag('iframe', 'iframe-blur');
     }
 
     blurCheckbox.addEventListener('change', function () {
-        const isBlurOn = this.checked;
         if (isBlurOn) {
-            addClassToTag('h2', 'blurtext');
-            addClassToTag('h3', 'blurtext');
-            addClassToTag('h4', 'blurtext');
             addClassToTag('iframe', 'iframe-blur');
             removeClassToClassName('section-title', 'blurtext');
             removeClassToClassName('no-blur', 'blurtext');
+            addClassToClassName('ansarea', 'transparent-area');
         } else {
-            removeClassToTag('h2', 'blurtext');
-            removeClassToTag('h3', 'blurtext');
-            removeClassToTag('h4', 'blurtext');
             removeClassToTag('iframe', 'iframe-blur');
+            removeClassToClassName('ansarea', 'transparent-area');
         }
         localStorage.setItem('isBlurOn', isBlurOn);
     });
-});
+}
+
+window.addEventListener("load", applyblur());
+
 
 
 window.addEventListener("load", function () {
