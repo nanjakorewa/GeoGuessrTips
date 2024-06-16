@@ -111,7 +111,7 @@ CC0
 
 
 {{% notice tip %}}
-細い2車線道路{{% ex "https://maps.app.goo.gl/qqQPMCo1BWLANTZS8" "https://maps.app.goo.gl/WRL8ZugTRA7EGCve7" "https://maps.app.goo.gl/esSAsXjBrf6GJ2EAA" "https://maps.app.goo.gl/BoDGBtFmznWSeCdPA" "https://maps.app.goo.gl/3LvxJvJzHTRXo3f28" %}}。オレンジ線なら{{% goto "../thai/" "タイ" %}}を考えてみる。
+細い2車線道路{{% ex "https://maps.app.goo.gl/qqQPMCo1BWLANTZS8" "https://maps.app.goo.gl/WRL8ZugTRA7EGCve7" "https://maps.app.goo.gl/esSAsXjBrf6GJ2EAA" "https://maps.app.goo.gl/BoDGBtFmznWSeCdPA" "https://maps.app.goo.gl/3LvxJvJzHTRXo3f28" %}}。オレンジ線なら{{% goto "../thai/" "タイ" %}}も考えてみる。
 {{% /notice %}}
 
 
