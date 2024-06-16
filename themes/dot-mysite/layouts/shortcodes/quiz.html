@@ -1,0 +1,11 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+<div class="googlemap-if quizbutton">
+    <div class="radiobox" id="blur-checkbox" onclick="applyblur()">
+        <input id="radio1" class="radiobutton quizr" name="hoge" type="radio" {{ if eq (.Get 3) 1 }}value="c"{{ else }}value="x"{{ end }} />
+        <label for="radio1" class="quizlabel">{{ .Get 0 }}</label>
+        <input id="radio2" class="radiobutton quizr" name="hoge" type="radio" {{ if eq (.Get 3) 2 }}value="c"{{ else }}value="x"{{ end }} />
+        <label for="radio2" class="quizlabel">{{ .Get 1 }}</label>
+        <input id="radio3" class="radiobutton quizr" name="hoge" type="radio" {{ if eq (.Get 3) 3 }}value="c"{{ else }}value="x"{{ end }} />
+        <label for="radio3" class="quizlabel">{{ .Get 2 }}</label>
+    </div>
+    </div>
