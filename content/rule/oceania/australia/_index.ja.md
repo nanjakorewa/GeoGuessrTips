@@ -83,8 +83,8 @@ sc: [
 <img src="2023-08-03-02-54-05.png" width="80%">
 </div>
 
-{{% notice tip %}}
-GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>{{% ex "https://maps.app.goo.gl/gwfm8xdCN3Zgp6D2A" %}}、赤い文字ならば<span class="quiz">ニュージーランド</span>。また、オーストラリアならば速度表記が細長い白いプレートに書かれている{{% ex "https://maps.app.goo.gl/7RV1VEPBjY8QytVu6" %}}。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+{{% notice tip %}}オーストラリアならば速度表記が細長い白いプレートに書かれている{{% ex "https://maps.app.goo.gl/riMLdNVx6gZS1a8v9" "https://maps.app.goo.gl/7RV1VEPBjY8QytVu6" %}}。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
+また、GIVE WAYが黒い文字で書かれているならば<span class="quiz">オーストラリア</span>{{% ex "https://maps.app.goo.gl/gwfm8xdCN3Zgp6D2A" %}}、赤い文字ならば<span class="quiz">ニュージーランド</span>。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -94,7 +94,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     <img src="../new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" />
     <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
 </div>
-
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}

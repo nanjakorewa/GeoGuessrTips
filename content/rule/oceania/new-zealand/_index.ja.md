@@ -75,8 +75,13 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
     <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;"/>
 </div>
 
+<div class="googlemap-if unclickable" style="margin-top:10px">
+<img src="./tokoroa_near_mannering_street.jpg">
+</div>
+
+
 {{% notice tip %}}
-ニュージーランドは国土の40%以上が牧草地。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}。
+ニュージーランドは国土の40%以上が牧草地{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./img_1492_27.jpg" width="95%">
@@ -96,6 +101,19 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <img src="./r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px">
 <img src="./r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px">
 </div>
+
+<div class="googlemap-if unclickable">
+<img src="./homer_tunnel_east.jpg">
+</div>
+
+{{% notice tip %}}
+標識やシェブロンは白い角材に付けられている{{% ex "https://maps.app.goo.gl/68YBb7GgqSJ3KV8J6" "https://maps.app.goo.gl/vpKGGDjw4FxLaKvu5" "https://maps.app.goo.gl/EcAesoSvLZUEgZfF9" %}}
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./whitepole.jpg" width="400px">
+</div>
+
 
 {{% /tab %}}
 {{% tab "w-road" %}}
