@@ -970,26 +970,56 @@ a:has(> img.no-click) {
 .radiobutton {
   display: none;
 }
-label.quizlabel {
-  background-color: rgb(0, 0, 0);
-  color: #fff;
-  padding: 10px 20px;
-  width:200px;
-  text-align: center;
-  border-radius: 5px;
+@media (min-width: 800px) {
+  label.quizlabel {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 10px 20px;
+    width:200px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 1.1em !important;
+  }
+  .radiobutton:checked + label {
+    background-color: hwb(0 100% 0%);
+    color: #000;
+    font-weight: bold;
+    border: solid;
+  }
+  
+  .transparent-area {
+    opacity: 0;
+  }
+  
+  .correct-text {
+    font-size: 3em;
+    font-weight: bold;
+  }
 }
-.radiobutton:checked + label {
-  background-color: hwb(0 100% 0%);
-  color: #000;
-  font-weight: bold;
-  border: solid;
+@media (max-width: 799px) {
+  label.quizlabel {
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    padding: 10px 20px;
+    width:100px;
+    text-align: center;
+    border-radius: 5px;
+    font-size: 0.9em !important;
+  }
+  .radiobutton:checked + label {
+    background-color: hwb(0 100% 0%);
+    color: #000;
+    font-weight: bold;
+    border: solid;
+  }
+  
+  .transparent-area {
+    opacity: 0;
+  }
+  
+  .correct-text {
+    font-size: 3em;
+    font-weight: bold;
+  }
 }
 
-.transparent-area {
-  opacity: 0;
-}
-
-.correct-text {
-  font-size: 3em;
-  font-weight: bold;
-}
