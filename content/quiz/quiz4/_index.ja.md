@@ -11,7 +11,7 @@ pagetype: "quiz"
 
 {{% qb %}}
 {{% quiz "ノルウェー" "イギリス" "アイルランド" 2 %}}
-{{% quizif "https://www.google.com/maps/embed?pb=!4v1718509720075!6m8!1m7!1sMGI8Nd2ZUUGlu5TqkKxyFw!2m2!1d51.53194709712935!2d-0.1772617219728011!3f324.45824837730083!4f0.9436896143486422!5f0.7171222590107708" %}}
+{{% quizif "https://www.google.com/maps/embed?pb=!4v1718518946954!6m8!1m7!1sMGI8Nd2ZUUGlu5TqkKxyFw!2m2!1d51.53194709712935!2d-0.1772617219728011!3f327.9307712080929!4f-5.937013931617628!5f2.7600112153774767" %}}
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">

@@ -11,7 +11,7 @@ pagetype: "quiz"
 
 {{% qb %}}
 {{% quiz "イギリス" "南アフリカ" "ニュージーランド" 2 %}}
-{{% quizif "https://www.google.com/maps/embed?pb=!4v1718511761678!6m8!1m7!1ssCec8ePnPVbfwjUO3qUciQ!2m2!1d-33.92430487496268!2d18.41669011142289!3f129.63254262048798!4f0.05369256218790497!5f1.0897005802060384" %}}
+{{% quizif "https://www.google.com/maps/embed?pb=!4v1718518822240!6m8!1m7!1ssCec8ePnPVbfwjUO3qUciQ!2m2!1d-33.92430487496268!2d18.41669011142289!3f111.92!4f-8.370000000000005!5f2.9946704395007897" %}}
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
