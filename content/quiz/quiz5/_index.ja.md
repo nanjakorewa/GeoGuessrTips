@@ -1,7 +1,7 @@
 ---
 title: "5問目"
-date: 2023-02-26
-lastmod: 2023-07-01
+date: 2024-06-15
+lastmod: 2024-06-15
 weight: 5
 draft: false
 keywords: [""]
