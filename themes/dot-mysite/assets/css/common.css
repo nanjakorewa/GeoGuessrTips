@@ -732,7 +732,7 @@ div#option-area p{
 
 .iframe-blur {
   -webkit-mask-image: linear-gradient(to bottom, transparent 15%, black 30%);
-  mask-image: linear-gradient(to bottom, transparent 15%, black 30%);
+  mask-image: linear-gradient(to bottom, transparent 14%, black 10%);
 }
 
 div#comment-container {
