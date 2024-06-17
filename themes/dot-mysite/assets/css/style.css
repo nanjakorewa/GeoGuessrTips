@@ -1023,3 +1023,20 @@ a:has(> img.no-click) {
   }
 }
 
+
+div.quizbutton {
+  height: 70px;
+  max-height: 100px;
+  margin-bottom:0;
+  padding-bottom: 0;
+  z-index:100000;
+}
+
+div.div-quizif {
+  margin-top: 0;
+}
+
+div.correct-text {
+  margin-top: 0;
+  margin-bottom: 0;
+}
