@@ -16,5 +16,5 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-コンパスを北に合わせて真下を向くことで、道の角度が地図と一致しているか確認できます！
+TODO：コンパスを北に合わせて真下を向くことで、道の角度が地図と一致しているか確認できます！
 </div>
