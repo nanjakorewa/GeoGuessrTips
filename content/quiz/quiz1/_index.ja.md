@@ -15,5 +15,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-解説書くところ（TODO: テキスト以外も書けるようにする）
+右奥の看板にひらがなが書かれています！ちなみに矢印の看板（固定式視線誘導柱）は積雪が多い地域にしかないため、北海道のような地域が候補になります。
+<div class="googlemap-if ansarea transparent-area no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:K%C5%8Dnomai02.JPG#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:K%C5%8Dnomai02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/K%C5%8Dnomai02.JPG" alt="Kōnomai02.JPG" height="480" width="640"></a></p><p><a href="//commons.wikimedia.org/wiki/User:221.20" title="User:221.20">221.20</a> (<a href="//commons.wikimedia.org/wiki/User_talk:221.20" title="User talk:221.20">talk</a>) - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=15535739">リンク</a>による</p>
+</div>
 </div>

@@ -989,6 +989,7 @@ a:has(> img.no-click) {
   
   .transparent-area {
     opacity: 0;
+    display: none !important;
   }
   
   .correct-text {
@@ -1015,6 +1016,7 @@ a:has(> img.no-click) {
   
   .transparent-area {
     opacity: 0;
+    display: none !important;
   }
   
   .correct-text {
