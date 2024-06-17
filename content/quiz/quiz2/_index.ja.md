@@ -10,10 +10,10 @@ pagetype: "quiz"
 ---
 
 {{% qb %}}
-{{% quiz "韓国" "台湾" "日本" 2 %}}
-{{% quizif "https://www.google.com/maps/embed?pb=!4v1718508947645!6m8!1m7!1sA50Wy-uitwC5jd2e5gFM4w!2m2!1d23.11460253876292!2d120.2754917842396!3f245.76205778638925!4f6.063063661540852!5f0.9627263592879817" %}}
+{{% quiz "アメリカ" "オーストラリア" "カナダ" 2 %}}
+{{% quizif "https://www.google.com/maps/embed?pb=!4v1718606348751!6m8!1m7!1sW8xt0ngEaLjLrFIjVqEHPQ!2m2!1d-25.1952927342146!2d133.2009195431767!3f339.59597302702474!4f3.645719838427695!5f0.7820865974627469" %}}
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-解説書くところ（TODO: テキスト以外も書けるようにする）
+太陽が北側に見えるのでこれは南半球です。３つの中で南半球にある国はオーストラリアのみです！
 </div>
