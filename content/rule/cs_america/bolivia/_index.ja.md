@@ -143,7 +143,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>RN3はかなり険しい山の間を通る</li>
-        <li>RN4道路のサンタ・クルスの東側の道路は舗装が特徴的</li>
+        <li>RN4道路（サンタ・クルス周辺）の東側の道路は舗装が特徴的</li>
         <li>RN7はRN4と同じく緑が多いが山がちなエリア</li>
         <li>RN9は緑が多く道路が<b>南北</b>方向に伸びている</li>
     </ul>
@@ -162,7 +162,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /tab %}}
 {{% tab "Ruta 4" %}}
 {{% notice tip %}}
-緑が多く平坦な場所が多め{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
+サンタ・クルス周辺は緑が多く平坦な場所が多め{{% ex "https://goo.gl/maps/JBWnY4CR1fYAiGmG7" "https://goo.gl/maps/Zn36ZVGr9T2Grn416" "https://goo.gl/maps/gh9nxtnf73F5dhdm6" %}}。Ruta 12も景色は異なるけれど似たような舗装{{% ex "https://goo.gl/maps/BhYnHHZ5KMAqSFzg7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
