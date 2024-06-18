@@ -1,9 +1,9 @@
 ---
-title: "title_str"
-quiz_suffix: "subtitile_str"
+title: "12問目"
+quiz_suffix: "標識"
 date: 2024-06-15
 lastmod: 2024-06-15
-weight: 1000
+weight: 12
 draft: false
 keywords: [""]
 sections: [""]
@@ -12,10 +12,10 @@ pagetype: "quiz"
 
 {{% qb %}}
 
-{{% quiz "A" "B" "ブルガリア" 3 %}}
-{{% quizif "https://www.google.com/maps/embed?pb=!4v1718705093079!6m8!1m7!1sYzK4lcHOXy4YCDfuS_vXhw!2m2!1d41.97785462752488!2d24.60465620317377!3f130.14259234756682!4f-1.864245506451283!5f2.5816745527702323" %}}
+{{% quiz "ハンガリー" "イタリア" "ポーランド" 3 %}}
+{{% quizif "https://www.google.com/maps/embed?pb=!4v1718735787856!6m8!1m7!1spKyAFTfXHvj-urxD-jMPMA!2m2!1d53.93335259649422!2d14.53675556051739!3f9.19!4f2.6400000000000006!5f1.239386682719425" %}}
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-texttexttexttexttexttexttexttexttexttexttexttexttexttexttext
+TODO：解説書くところ、テキスト以外も書けるようにする
 </div>
