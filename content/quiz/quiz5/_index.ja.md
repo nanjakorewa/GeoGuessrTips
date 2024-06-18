@@ -1,5 +1,6 @@
 ---
 title: "5問目"
+quiz_suffix: "黄色ナンバー"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 5

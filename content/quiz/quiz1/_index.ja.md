@@ -1,5 +1,6 @@
 ---
 title: "1問目"
+quiz_suffix: "日本"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 1

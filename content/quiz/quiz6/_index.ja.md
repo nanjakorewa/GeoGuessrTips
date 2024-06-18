@@ -1,5 +1,6 @@
 ---
 title: "6問目"
+quiz_suffix: "ドメイン"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 6

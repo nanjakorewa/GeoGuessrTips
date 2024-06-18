@@ -1,5 +1,6 @@
 ---
 title: "3問目"
+quiz_suffix: "右側通行"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 3

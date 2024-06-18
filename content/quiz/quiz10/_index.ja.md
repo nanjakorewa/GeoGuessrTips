@@ -1,5 +1,6 @@
 ---
 title: "10問目"
+quiz_suffix: "植民地"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 10
@@ -16,5 +17,5 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+TODO：解説書くところ、テキスト以外も書けるようにする（植民地の影響）
 </div>

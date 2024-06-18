@@ -1,5 +1,6 @@
 ---
 title: "8問目"
+quiz_suffix: "ボラード"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 8
@@ -16,5 +17,5 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+TODO：解説書くところ、テキスト以外も書けるようにする（ボラード）
 </div>

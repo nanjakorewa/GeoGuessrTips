@@ -1,5 +1,6 @@
 ---
 title: "11問目"
+quiz_suffix: "EU"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 11
@@ -16,5 +17,5 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+TODO：解説書くところ、テキスト以外も書けるようにする（ナンバープレート）
 </div>

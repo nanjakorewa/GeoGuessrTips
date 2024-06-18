@@ -1,5 +1,6 @@
 ---
 title: "7問目"
+quiz_suffix: "コンパス"
 date: 2024-06-15
 lastmod: 2024-06-15
 weight: 7
