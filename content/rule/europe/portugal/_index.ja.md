@@ -105,7 +105,7 @@ sc: [
 {{% /notice %}}
 
 {{% notice note %}}
-{{% goto "../spain/" "スペイン" %}}の場合は『～ DE CAZA』と書かれていたり斜めに線が入っている{{% ref "https://www.spainbuddy.com/hunting-signs-in-spain/" "Hunting signs in Spain" %}}。
+{{% goto "../spain/" "スペイン" %}}の場合は『～ DE CAZA』と書かれていたり斜めに線が入っている{{% ex "https://maps.app.goo.gl/DWEFYNNS5CDMRFbv6" %}}{{% ref "https://www.spainbuddy.com/hunting-signs-in-spain/" "Hunting signs in Spain" %}}。
 {{% /notice %}}
 
 
