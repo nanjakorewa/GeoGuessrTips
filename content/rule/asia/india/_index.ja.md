@@ -11,6 +11,7 @@ bgf-temp: "bgf/ID.jpg"
 flag: "IN.svg"
 jetro_detail: true
 jogmec_detail: true
+plonkit: true
 map_title: "練習用マップ"
 maps: [
     ["https://www.geoguessr.com/maps/62e10035c97fc44e29bd8e0e", "A Balanced AI Generated India"],

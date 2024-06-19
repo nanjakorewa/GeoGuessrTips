@@ -12,6 +12,7 @@ flag: "HK.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../taiwan/", "台湾"],

@@ -729,10 +729,13 @@ div#option-area p{
   margin: 0;
 }
 
+div.googlemap-if.div-quizif {
+  background-color: #000;
+}
 
 .iframe-blur {
-  -webkit-mask-image: linear-gradient(135deg,  transparent 15%, black 5%);
-  mask-image: linear-gradient(135deg, transparent 15%, black 5%);
+  -webkit-mask-image: linear-gradient(160deg,  transparent 15%, black 15%);
+  mask-image: linear-gradient(160deg, transparent 15%, black 15%);
 }
 
 div#comment-container {

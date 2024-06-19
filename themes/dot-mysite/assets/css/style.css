@@ -997,6 +997,7 @@ a:has(> img.no-click) {
     font-weight: bold;
   }
 }
+
 @media (max-width: 799px) {
   label.quizlabel {
     background-color: rgb(0, 0, 0);
@@ -1024,7 +1025,6 @@ a:has(> img.no-click) {
     font-weight: bold;
   }
 }
-
 
 div.quizbutton {
   height: 70px;

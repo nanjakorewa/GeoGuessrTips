@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "CEUTA.svg"
 no_detaile_info: true
 jetro_detail: false
+plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/spain/", "スペイン本土"],

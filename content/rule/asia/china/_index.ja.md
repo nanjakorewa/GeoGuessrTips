@@ -11,6 +11,7 @@ flag: "CN.svg"
 jetro_detail: true
 jogmec_detail: true
 dont_show_usda: true
+plonkit: true
 sc_title: "関連ページ"
 sc: [
     ["../macau/", "澳門"],

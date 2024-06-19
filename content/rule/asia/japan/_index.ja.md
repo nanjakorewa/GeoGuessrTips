@@ -11,6 +11,7 @@ flag: "JP.svg"
 jetro_detail: true
 jogmec_detail: true
 import_jquery_36: true
+plonkit: true
 map_title: "練習用マップ"
 maps: [
     ["https://www.geoguessr.com/maps/631a309ba54a618fca31960a", "A Balanced Japan"],
