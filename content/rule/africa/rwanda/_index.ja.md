@@ -23,6 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>車は<span class="quiz">右側</span>通行</li>
         <li>ドメインは<span class="quiz">.rw</span></li>
+        <li>道にゴミが少なく草刈りがしっかりされている</li>
         <li>ナンバープレートは細目で前が<span class="quiz">白</span>色で後ろが<span class="quiz">黄</span>色</span></li>
         <li>モバイルペイメントが普及しておりMTNのような事業者の出張所が街中に見られる</li>
         <li>四角い電柱がある</li>
@@ -32,10 +33,19 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+
+{{% notice tip %}}ルワンダではUmugandaと呼ばれる社会奉仕活動が義務付けられており、道路掃除・草刈り・街路樹の剪定などが毎週行われる{{% ref "https://en.wikipedia.org/wiki/Umuganda" "Umuganda" %}}。そのためアフリカの中では道路が相対的にかなりきれいに見える。ゴミが少なく{{% ex "https://maps.app.goo.gl/zSscu2VFqNXvUb7E8" "https://maps.app.goo.gl/wPExCyEJLQ51RjJw8" %}}、舗装されていない道も草が刈られていることが多い{{% ex "https://maps.app.goo.gl/VaortNd9suh4qnPB9" "https://maps.app.goo.gl/DDRL41Uu3RCCENr96" "https://maps.app.goo.gl/WqgccX5XGvA2CYLW8" "https://maps.app.goo.gl/aFo1m4oH7haLFVoe9" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" alt="Umuganda1.jpg"  width="95%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=147619914">Link</a></p>
+</div>
+
+
 {{% notice tip %}}キガリの大き目の道路はバイクがよく走っている{{% ex "https://goo.gl/maps/qmZFNBoLJeySYjYW6" "https://goo.gl/maps/E1xfd2c3wo91f2JS9" "" %}}。そして車が<span class="quiz">右</span>側通行である点がウガンダと異なる。車のナンバープレートは細目の<span class="quiz">黄</span>色か白色のナンバープレートが見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ubumotari.jpg#/media/File:Ubumotari.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ubumotari.jpg" alt="Ubumotari.jpg" height="720" width="1087"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GATETE_Pacifique" title="User:GATETE Pacifique">GATETE Pacifique</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=88630204">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ubumotari.jpg#/media/File:Ubumotari.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ubumotari.jpg" alt="Ubumotari.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GATETE_Pacifique" title="User:GATETE Pacifique">GATETE Pacifique</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=88630204">Link</a></p>
 </div>
 
 {{% lb 50 %}}
@@ -51,6 +61,9 @@ sc: [
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/odileva/38233749822/in/photolist-21fzXM9-21ip6Qg-21fztVh-eEsXoJ-eEkAjk-GmLtYB-21ioyaH-eEt1Wh-21dwJwJ-21ipar4-21jovPL-arCFU2-arCFZt-hncdih-Zhs5i9-ZdAHeS-98PKcx-21hk6h1-DaDCt5-DaDd4d-6U3MBL-qdkiWe-uUqdLh-21ip6nH-DaDK37-DaDM1L-si6QvE-pgAxqM-21dwFxY-qb55js-qb3qBW-LcyNPM-pgADxB-28S3zfN-8zszXW-27cKiR7-27cKBvf-29Tjziq-qdkD28-qda76X-pgAvBr-21dxf87-6U5r71-GqJjgF-28S6exA-pVMj5y-pVUYy4-ZdA4CE-21dwHz3-wEDwd" title="Karabundo-Kigali-Butare, Seen from the car"><img src="https://live.staticflickr.com/4537/38233749822_c57cc2680a_c.jpg" width="800" height="370" alt="Karabundo-Kigali-Butare, Seen from the car"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% /tab %}}
+{{% tab "Google Car" %}}
 
 {{% notice tip %}}Google Carが特徴的{{% ex "https://maps.app.goo.gl/eyqRzrvzY9mzwEam6" "https://maps.app.goo.gl/Bqp7fuYgZov4RkJD6" "https://maps.app.goo.gl/2Uhh25DhJewmtJxz7" %}}。ただし見えないときもある{{% ex "https://maps.app.goo.gl/2FqppL8ioKU8X8Cm6" "https://goo.gl/maps/mTw1XkGeJkVqLsxU8" %}}。
 {{% /notice %}}
