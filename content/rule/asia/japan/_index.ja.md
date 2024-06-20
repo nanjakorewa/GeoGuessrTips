@@ -135,7 +135,7 @@ maps: [
 <div class="main-desciption area-description">
     <h4>電柱や標識</h4>
     <ul class="rule-list">
-        <li>電力会社・配線事業者が地域ごとに異なるため、ロゴやプレートに地域性がある</li>
+        <li>電力会社・配線事業者が地域ごとに異なるため、電柱の電力会社ロゴ・プレート・ガイワイヤーなどに地域性がある({{% goto "https://www.plonkit.net/japan" "plonk it 日本のページ" %}})</li>
         <li>北海道や東北などの寒い地域特有のものがある
             <ul>
                 <li>雪対策として信号機が<span class="quiz">縦</span>になっていることがある</li>
