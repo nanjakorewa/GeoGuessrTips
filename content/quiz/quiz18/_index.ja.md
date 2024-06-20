@@ -17,5 +17,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-火山島であるカナリア諸島が正解です。一般には火山があるハワイ、ピトケアン諸島、カナリア諸島やシチリア島のエトナ火山などではかなり黒い土を見ることができます。
+{{% notice tip %}}
+火山島である{{% goto "https://geopinning.space/rule/africa/canary_islands/" "カナリア諸島" %}}が正解です。
+一般には火山があるハワイ、ピトケアン諸島、カナリア諸島やシチリア島のエトナ火山などではかなり黒い土を見ることができます。
+{{% /notice %}}
 </div>

@@ -12,7 +12,7 @@ pagetype: "quiz"
 
 {{% qb %}}
 {{% quiz "アメリカ" "オーストラリア" "カナダ" 2 %}}
-{{% quizif "https://www.google.com/maps/embed?pb=!4v1718606348751!6m8!1m7!1sW8xt0ngEaLjLrFIjVqEHPQ!2m2!1d-25.1952927342146!2d133.2009195431767!3f339.59597302702474!4f3.645719838427695!5f0.7820865974627469" %}}
+{{% quizif "https://www.google.com/maps/embed?pb=!4v1718903805570!6m8!1m7!1st29HSCPGR1flw19CsLUWvw!2m2!1d-24.30933025243582!2d133.4471751691202!3f319.4849661329898!4f7.64996052905957!5f0.4000000000000002" %}}
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">

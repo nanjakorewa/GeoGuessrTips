@@ -1,4 +1,4 @@
 {{ $_hugo_config := `{ "version": 1 }` }}
-<div class="googlemap-if div-quizif" {{ if (.Get 1) }}style="margin-top:1em;"{{ end }}>
+<div class="googlemap-if div-quizif" {{ if eq (.Get 1) "margin" }}style="margin-top:1em;"{{ end }}>
     <iframe class="iframe-blur" src="{{ .Get 0 }}" width="100%" height="500" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

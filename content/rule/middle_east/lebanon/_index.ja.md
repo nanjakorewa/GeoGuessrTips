@@ -116,7 +116,12 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>レバノン山脈とアンチレバノン山脈の間にベッカー渓谷があり、ベッカー県の首都Zahléがある{{% ref "https://en.wikipedia.org/wiki/Zahl%C3%A9" "और देखें" %}}</li>
+        <li>レバノン山脈とアンチレバノン山脈の間にベッカー渓谷があり、Zahlé周辺の平坦なエリアで農業が盛ん{{% ref "https://en.wikipedia.org/wiki/Zahl%C3%A9" "और देखें" %}}
+            <ul>
+                <li>平坦な場所のもう一つの候補は北レバノン～アッカール県あたりの平地{{% ex "https://maps.app.goo.gl/jR5ivExaFW63hngy9" "https://maps.app.goo.gl/9tcdNUWfjNzorjLG9" %}}</li>
+                <li>他にもあるかもしれないけど2024年4月時点ではこれ以上何とも言えない</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
