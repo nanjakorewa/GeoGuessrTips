@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 
-{{% notice tip %}}ルワンダではUmugandaと呼ばれる社会奉仕活動が義務付けられており、道路掃除・草刈り・街路樹の剪定などが毎週行われる{{% ref "https://en.wikipedia.org/wiki/Umuganda" "Umuganda" %}}。そのためアフリカの中では道路が相対的にかなりきれいに見える。ゴミが少なく{{% ex "https://maps.app.goo.gl/zSscu2VFqNXvUb7E8" "https://maps.app.goo.gl/TrwV5Eef5at2EQkM6" "https://maps.app.goo.gl/wPExCyEJLQ51RjJw8" %}}、舗装されていない道も草が刈られていることが多い{{% ex "https://maps.app.goo.gl/VaortNd9suh4qnPB9" "https://maps.app.goo.gl/DNr28FbdhqSiQwkQ9" "https://maps.app.goo.gl/WqgccX5XGvA2CYLW8" "https://maps.app.goo.gl/aFo1m4oH7haLFVoe9" %}}。
+{{% notice tip %}}ルワンダではUmugandaと呼ばれる社会奉仕活動が義務付けられており、道路掃除・草刈り・街路樹の剪定などが毎週行われる{{% ref "https://en.wikipedia.org/wiki/Umuganda" "Umuganda" %}}。そのためアフリカの中では道路が相対的にかなりきれいに見える。ゴミが少なく{{% ex "https://maps.app.goo.gl/BNJ8TsYNd1vuxFcTA" "https://maps.app.goo.gl/TrwV5Eef5at2EQkM6" "https://maps.app.goo.gl/wPExCyEJLQ51RjJw8" %}}、舗装されていない道も草が刈られていることが多い{{% ex "https://maps.app.goo.gl/DNr28FbdhqSiQwkQ9" "https://maps.app.goo.gl/VaortNd9suh4qnPB9"  "https://maps.app.goo.gl/WqgccX5XGvA2CYLW8" "https://maps.app.goo.gl/aFo1m4oH7haLFVoe9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" alt="Umuganda1.jpg"  width="95%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=147619914">Link</a></p>
