@@ -180,6 +180,7 @@ CC0画像を加工
         <li>タガログ語は<span class="quiz">ルソン島南部とマニラ</span>周辺に話者が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%AC%E3%83%AD%E3%82%B0%E8%AA%9E" "タガログ語" %}}</li>
         <li>市外局番でおよその地域が特定できる{{% by %}}</li>
         <li class="no-evidence">新しめのバイクのナンバープレートの色を見れば地域がわかることも</li>
+        <li class="no-evidence">北部のLuzon島の山岳地帯ではチリ電柱が見つかる</li>
     </ul>
 </div>
 
@@ -207,6 +208,16 @@ CC0画像を加工
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1695255302278!6m8!1m7!1si8ig9GkEKo-c1TZU72IreA!2m2!1d16.0455703930407!2d120.3433047965388!3f42.07442059423329!4f-24.316664187553883!5f3.325193203789971" width="500" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "チリ電柱" %}}
+
+{{% notice tip %}}
+経験上８割くらいがBaguio周辺の山岳地帯だと思う。まれにLuzon島以外でも見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1718905016085!6m8!1m7!1syK2mp6uhvixkYoVYrVBs2Q!2m2!1d16.45666534560502!2d120.7316623215857!3f239.11431077598633!4f-2.129470737598922!5f0.4000000000000002" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
