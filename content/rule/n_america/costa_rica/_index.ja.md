@@ -61,8 +61,7 @@ By Zcarstvnz - This file has been extracted from another file, <a href="https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691135863911!6m8!1m7!1s4A491mfkE-ygbyDihV6Y5Q!2m2!1d10.04795779370162!2d-84.26533057901426!3f218.11185127833681!4f-34.2005562834801!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691135888151!6m8!1m7!1sHcqUiR80wEA-mSAbO-4nqQ!2m2!1d9.599395818759914!2d-84.5498971608399!3f319.0751696401205!4f-10.457491498395328!5f0.7820865974627469"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1718907192354!6m8!1m7!1sLyK4tVfngidC-ng-3gSiEA!2m2!1d10.04577082160527!2d-84.26301217300175!3f203.0279562875457!4f4.393129302166031!5f0.4000000000000002" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 
