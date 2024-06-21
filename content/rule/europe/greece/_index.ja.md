@@ -48,7 +48,7 @@ sc: [
 
 
 {{% notice note %}}
-まれに{{% goto "../spain/" "スペイン" %}}でも見つかる{{% ex "https://maps.app.goo.gl/AX66jbpnNJ9PbeTSA" %}}。
+白二本線は{{% goto "../denmark/" "デンマーク" %}}や{{% goto "../poland/" "ポーランド" %}}があり得るが景色から違うと判断できるはず。まれに{{% goto "../spain/" "スペイン" %}}でも見つかる{{% ex "https://maps.app.goo.gl/AX66jbpnNJ9PbeTSA" %}}点に注意。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="margin:1em;">
