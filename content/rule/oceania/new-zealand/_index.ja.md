@@ -157,6 +157,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
                 <li>03：南島全域{{% ex "https://goo.gl/maps/qFFgygxtmGS4QvG49" "https://goo.gl/maps/1GUQwNrkY6idSG3o7" "https://goo.gl/maps/Fw7SsCEmw8oe9cg4A" %}}</li>
             </ul>
         </li>
+        <li>一番南のエリアは羊が多いが、これだけで確定することはできない{{% ref "https://lin.alic.go.jp/alic/month/domefore/2013/jan/wrepo02.htm" "ニュージーランドの牛肉生産事情～酪農産業の拡大による影響と今後の見通し～" %}}</li>
     </ul>
 </div>
 
@@ -188,6 +189,14 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% tab "解説動画" %}}
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% tab "🐑" %}}
+{{% notice tip %}}
+穴あき電柱がある＋羊しか見えないならば南島の一番南に押す価値あり（だと思う）{{% ex "https://maps.app.goo.gl/tNfqewLZ868vEcYn6" "https://maps.app.goo.gl/83iyfvj54RZkf54B6" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1719146306598!6m8!1m7!1spWKkJDPD4CTBs85CfGNtAQ!2m2!1d-45.7005414337047!2d168.1103578359879!3f156.90501902332485!4f5.394398567451731!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
