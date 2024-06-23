@@ -52,7 +52,7 @@ sc: [
 
 
 {{% notice tip %}}
-家は木やレンガでできており{{% ex "https://maps.app.goo.gl/MoXXCpsD2RjGFDvXA" %}}、町中にも赤茶色の土が広がっている{{% ex "https://maps.app.goo.gl/zuaA9cw3xtT9kdhLA" "https://maps.app.goo.gl/pQSSM9pCPPBnnXuK6" "https://maps.app.goo.gl/MQVK3eDyoGdbPYTs7" "https://maps.app.goo.gl/upzt1w6aVhMac2nt8" %}}{{% ref "https://farmpro.jp/230714-2/" "ウガンダの土について考える" %}}。
+家は木やレンガでできており{{% ex "https://maps.app.goo.gl/MoXXCpsD2RjGFDvXA" "https://maps.app.goo.gl/wE9Ewg24QnwFRoSQ8" %}}、町中にも赤茶色の土が広がっている{{% ex "https://maps.app.goo.gl/5C2Qd2sY1wCh1zQP6" "https://maps.app.goo.gl/zuaA9cw3xtT9kdhLA" "https://maps.app.goo.gl/pQSSM9pCPPBnnXuK6" "https://maps.app.goo.gl/MQVK3eDyoGdbPYTs7" "https://maps.app.goo.gl/upzt1w6aVhMac2nt8" %}}{{% ref "https://farmpro.jp/230714-2/" "ウガンダの土について考える" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="house.jpg" width="600px">
