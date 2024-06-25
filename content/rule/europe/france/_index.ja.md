@@ -124,6 +124,7 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./mailboxes_post_france_letter.jpg" width="500px">
+<img src="./chatroux_sur_boite_aux.jpg" width="500px">
 </div>
 
 {{% notice tip %}}

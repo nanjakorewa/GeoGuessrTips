@@ -13,8 +13,9 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../albania/", "アルバニア"],
-    ["../croatia/", "クロアチアの地中海側の離島"],
     ["../spain/", "スペイン"],
+    ["../croatia/", "クロアチア地中海側"],
+    ["../../middle_east/turkey/", "トルコ西海岸沿い"],
     ]
 ---
 
