@@ -42,7 +42,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-火山島であり赤茶色や黒色の岩や土が道端に見られる{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}。
+火山島であり赤茶色や黒色の岩や土が道端に見られる{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/7DCJup8YyfxmLsMJ6" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./road_volcano_reunion_island.jpg" width="95%">
