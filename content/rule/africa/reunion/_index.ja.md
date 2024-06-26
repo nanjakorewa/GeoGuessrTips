@@ -34,36 +34,32 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
-
-
 {{% notice tip %}}
-Google Carが特徴的で<span class="quiz">右後ろ</span>に黒いテープが巻いてある{{% ex "https://maps.app.goo.gl/BS58dK23qowSRfno7" "https://maps.app.goo.gl/rLfjRBP9Wqyc3DwG9" %}}。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686044630522!6m8!1m7!1sAXol-Yi0wMSrQCLjDYZ5kg!2m2!1d-21.21776473792954!2d55.56099119881759!3f7.073825579935257!4f-89!5f0.41939995202028907" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-フランスと同じボラードや電柱がある{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}。電柱も青いプレートが付いている{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}。
+{{% goto "../../europe/france/" "フランス" %}}と同じボラードや電柱がある{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}。電柱も青いプレートが付いている{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="b2.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-火山島であり赤茶色や黒色の岩や土が道端に見られる{{% ex "https://maps.app.goo.gl/L752NUyEdHu8fr3K7" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}。
+火山島であり赤茶色や黒色の岩や土が道端に見られる{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./road_volcano_reunion_island.jpg" width="95%">
 </div>
-
-
 
 {{% notice tip %}}
 平地ではサトウキビの生産が多い{{% ex "https://maps.app.goo.gl/HbBXG71PjMv8P6Uz6" "https://maps.app.goo.gl/5Se1LGfNqNEUGHm16" %}}{{% ref "https://www.laperruche.fr/ja/sugar-cane/" "la Perruche" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./canne_a_sucre_de.jpg" width="95%">
+</div>
+
+{{% notice tip %}}
+Google Carが特徴的で<span class="quiz">右後ろ</span>に黒いテープが巻いてある{{% ex "https://maps.app.goo.gl/BS58dK23qowSRfno7" "https://maps.app.goo.gl/rLfjRBP9Wqyc3DwG9" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1686044630522!6m8!1m7!1sAXol-Yi0wMSrQCLjDYZ5kg!2m2!1d-21.21776473792954!2d55.56099119881759!3f7.073825579935257!4f-89!5f0.41939995202028907" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
