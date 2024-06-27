@@ -231,6 +231,7 @@ CC0画像を加工
                 <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
                 <li>屋根に段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
                 <li>フラットな屋根のうち少し丸っこい感じで後ろに車っぽいライトがあるならPalawan</li>
+                <li>ミンダナオ島北西部などのイスラム教徒が多い地域では女性の足が見えないようにする工夫がみられる{{% ex "https://maps.app.goo.gl/3kjBjwpJCvRgDpro6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -278,6 +279,16 @@ CC0画像を加工
 
 {{% notice tip %}}
 個人的には屋根の部分が少し丸っこく{{% ex "https://maps.app.goo.gl/5T9uEctSbDUBmugF8" "https://maps.app.goo.gl/MAScySegNCyKMdpP6" "https://maps.app.goo.gl/8LgbkvqopkGq6eTcA" %}}、とりわけ黒い素材でできている{{% ex "https://maps.app.goo.gl/s7SRcb2Cvqg153RV9" "https://maps.app.goo.gl/2fvubors3M5UXVcX8" "https://maps.app.goo.gl/Ze9J7ZCbqBQt2U629" "https://maps.app.goo.gl/VtioPHPHLn2JzNAf6" "https://maps.app.goo.gl/nVXN3rtnLEVy2KFMA" %}}ならばPalawanも考えてみることがある。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Mindanao北西部" %}}
+<div class="googlemap-if unclickable no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1719509184357!6m8!1m7!1sdo2lFFBtf6CZcJrtqEI6Gg!2m2!1d7.826952757500014!2d123.4389683168012!3f62.054770497673786!4f-9.391465568482303!5f2.9568024351328237" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+そもそもこういうタイプのトゥクトゥクが多い。後部座席に足元を隠すためのカバーも付いていることが多い{{% ex "https://maps.app.goo.gl/u6X1cQQnPVwt7tHb9" "https://maps.app.goo.gl/vYnsin6ge2gLWX5r6" %}}。
 {{% /notice %}}
 
 {{% /tab %}}
