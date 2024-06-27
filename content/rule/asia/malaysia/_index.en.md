@@ -11,6 +11,7 @@ flag: "MY.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: true
+flag_height: "380px"
 ---
 
 <div class="main-desciption country-description">

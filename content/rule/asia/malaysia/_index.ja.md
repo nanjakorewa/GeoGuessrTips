@@ -16,6 +16,7 @@ sc: [
     ["../indonesia/", "インドネシア"],
     ["../singapore/", "シンガポール"],
 ]
+flag_height: "380px"
 ---
 
 <div class="main-desciption country-description">
