@@ -55,7 +55,7 @@ By Pavel Špindler, <a href="https://creativecommons.org/licenses/by/3.0" title=
 </div>
 
 {{% notice tip %}}
-ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える{{% ex "https://maps.app.goo.gl/vJRjhhm9EZ4FbsJq7" "https://maps.app.goo.gl/jdNDVfoXGSMBaCf59" "https://maps.app.goo.gl/3UtWtx1zH3VrHh867" "https://maps.app.goo.gl/9dybdoGRk8gusUDw8" "https://maps.app.goo.gl/qYJCfZ7nnoWVjTUQ8" %}}。
+ほとんどの車はナンバープレートが白色かうっすらと<span class="quiz">青</span>色に見える{{% ex "https://maps.app.goo.gl/xQ34f2Ceo5envzgX6" "https://maps.app.goo.gl/vJRjhhm9EZ4FbsJq7" "https://maps.app.goo.gl/jdNDVfoXGSMBaCf59" "https://maps.app.goo.gl/3UtWtx1zH3VrHh867" "https://maps.app.goo.gl/9dybdoGRk8gusUDw8" "https://maps.app.goo.gl/qYJCfZ7nnoWVjTUQ8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
