@@ -227,9 +227,9 @@ CC0画像を加工
     <ul class="rule-list">
         <li>トライシクルの認可基準が市陸運事務所ごとに異なるため、島ごとに異なる見た目のトライシクルが見られる{{% ref "https://www.cebu.ph.emb-japan.go.jp/itpr_ja/11_000001_00563.html" "Letter from Cebu (13) ”Why do tricycle designs differ from island to island?”" %}}
             <ul>
-                <li class="no-evidence">Motorelaはミンダナオ島北部に多い{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}</li>
-                <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
                 <li>屋根に段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
+                <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
+                <li class="no-evidence">Motorelaはミンダナオ島北部に多い{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}</li>
                 <li>フラットな屋根のうち少し丸っこい感じで後ろに車っぽいライトがあるならPalawan</li>
                 <li>ミンダナオ島北西部などのイスラム教徒が多い地域では女性の足が見えないようにする工夫がみられる{{% ex "https://maps.app.goo.gl/3kjBjwpJCvRgDpro6" %}}</li>
             </ul>
@@ -239,16 +239,6 @@ CC0画像を加工
 
 
 {{% tabs %}}
-{{% tab "Motorela" %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Motorela"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-{{% notice tip %}}
-後ろに席があり普通のトライシクルと比較すると多くの客を乗せることができる{{% ex "https://maps.app.goo.gl/AJjrg47aewpWv3wPA" "https://maps.app.goo.gl/A8z3gdm31XHR78B26" %}}{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}。WikiによるとCagayan de OroとBukidnonに多いらしい。
-{{% /notice %}}
-
-{{% /tab %}}
 {{% tab "北部" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="bike/n1.jpg" width="500px"/>
@@ -269,6 +259,16 @@ CC0画像を加工
 
 {{% notice tip %}}
 屋根に段差が無い{{% ex "https://maps.app.goo.gl/yWX2nV5EvHYruiJp8" "https://maps.app.goo.gl/iViz3UZThK92uGvw8" %}}。完全にフラットな時もある。画像はPanglao IslandとTagbilaran{{% ex "https://maps.app.goo.gl/F5pwC7hprrJ3UDFB8" %}}のもの。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Motorela" %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Motorela"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+後ろに席があり普通のトライシクルと比較すると多くの客を乗せることができる{{% ex "https://maps.app.goo.gl/AJjrg47aewpWv3wPA" "https://maps.app.goo.gl/A8z3gdm31XHR78B26" %}}{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}。WikiによるとCagayan de OroとBukidnonに多いらしい。
 {{% /notice %}}
 
 {{% /tab %}}
