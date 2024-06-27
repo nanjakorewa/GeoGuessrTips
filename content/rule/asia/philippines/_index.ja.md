@@ -230,7 +230,7 @@ CC0画像を加工
                 <li class="no-evidence">Motorelaはミンダナオ島北部に多い{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}</li>
                 <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
                 <li>屋根に段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
-                <li>フラットな屋根のうち少し丸っこい感じがするならばPalawanを考えることがある</li>
+                <li>フラットな屋根のうち少し丸っこい感じで後ろに車っぽいライトがあるならPalawan</li>
             </ul>
         </li>
     </ul>
