@@ -75,6 +75,25 @@ sc: [
 {{% /tab %}}
 {{% /tabs  %}}
 
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>北の国境近くに火山があり、周りのエリアは土が黒いように思う</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "火山" %}}
+
+{{% notice tip %}}町中は土が黒く{{% ex "https://maps.app.goo.gl/YMqbFGtnpsW9YivG8" "https://maps.app.goo.gl/wLNoXmSSqAobE4WN6" "https://maps.app.goo.gl/wtgmsRKztAcoJt1P7" %}}、郊外からは火山を望むことができる。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Musanze%27s_Volcano_(46355800961).jpg#/media/File:Musanze's_Volcano_(46355800961).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Musanze%27s_Volcano_%2846355800961%29.jpg" alt="Musanze's Volcano (46355800961).jpg" height="427" width="640"></a></p><p><a rel="nofollow" class="external text" href="https://www.flickr.com/people/84985982@N00">Andrew Moore</a> from Johannesburg, South Africa - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/andryn2006/46355800961/">Musanze's Volcano</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC 表示-継承 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77767022">リンク</a>による</p>
+</div>
+
+{{% /tab %}}
+{{% /tabs  %}}
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
