@@ -225,7 +225,7 @@ CC0画像を加工
 <div class="main-desciption area-description">
     <h4 class="section-title">トライシクル</h4>
     <ul class="rule-list">
-        <li>トライシクルの認可基準が市陸運事務所ごとに異なるため、島ごとに異なる見た目のトライシクルが見られる{{% ref "https://www.cebu.ph.emb-japan.go.jp/itpr_ja/11_000001_00563.html" "Letter from Cebu (13) ”Why do tricycle designs differ from island to island?”" %}}
+        <li>トライシクルの認可基準が市陸運事務所ごとに異なるため、地域ごとに異なる見た目のトライシクルが見られる{{% ref "https://www.cebu.ph.emb-japan.go.jp/itpr_ja/11_000001_00563.html" "Letter from Cebu (13) ”Why do tricycle designs differ from island to island?”" %}}
             <ul>
                 <li>屋根に段差があると北部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
                 <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>

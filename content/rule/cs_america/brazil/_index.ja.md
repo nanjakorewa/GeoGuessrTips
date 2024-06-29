@@ -21,7 +21,7 @@ sc: [
     ["../argentina/", "アルゼンチン北部"],
     ["../../asia/cambodia/", "カンボジア"],
     ["../../asia/indonesia/", "インドネシア"],
-    ["../paraguay/", "パラグアイ"],
+    ["../../asia/thai/", "タイ"],
     ]
 ---
 

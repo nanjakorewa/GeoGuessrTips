@@ -95,6 +95,13 @@ Public Domain
 <img src="pole.jpg" width="90%">
 </div>
 
+{{% notice tip %}}
+アジアではタイを中心に{{% goto "../cambodia/" "カンボジア" %}}・{{% goto "../philippines/" "フィリピン" %}}・{{% goto "../taiwan/" "台湾" %}}などオレンジ中央線を使用する国が多いことを覚えておくと、地域が分からないときに役に立つことがある。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="road205_in_amphoe_thep.jpg" width="90%">
+</div>
 
 {{% /tab %}}
 {{% tab "言語" %}}
