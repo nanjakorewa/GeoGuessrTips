@@ -45,6 +45,18 @@ maps: [
 </div>
 
 {{% notice tip %}}
+スギは日本以外で見つかることはまず無い。見つかるとしても人工的に導入されたもの。
+{{% /notice %}}
+
+{{% notice info %}}
+日本以外で見つかることがあるとすれば、木材用に栽培されている{{% goto "../../europe/azores/" "アゾレス諸島" %}}の可能性が非常に高い{{% ref "https://en.wikipedia.org/wiki/Cryptomeria" "スギ" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="cryptomeria_japonica.jpg" width="500px">
+</div>
+
+{{% notice tip %}}
 プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/eCzkX2iic9fznrTTA" "https://maps.app.goo.gl/RyGge7Z8rpDJ5CTq8" "https://maps.app.goo.gl/f4mt7dCtcdUeuzwZ7" "https://maps.app.goo.gl/Hcgk6nqoa2QNGWCU7" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。また、日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/oxRtBE2GhZscrDm48" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。
 {{% /notice %}}
 
