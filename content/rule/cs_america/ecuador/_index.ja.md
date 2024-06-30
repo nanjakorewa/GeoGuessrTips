@@ -41,7 +41,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の裏が<b>フラットな感じ</b>{{% ex "https://maps.app.goo.gl/PdNAEFwKyUxt6uga8" "https://goo.gl/maps/Zr4StyUdtfZ5TYQHA" "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。
+標識の裏が<b>フラットな感じ</b>{{% ex "https://maps.app.goo.gl/PdNAEFwKyUxt6uga8" "https://maps.app.goo.gl/mPsNSEfKM81RyNUB9" "https://goo.gl/maps/Zr4StyUdtfZ5TYQHA" "https://goo.gl/maps/uB4AugGHwxeTsJcT6" "https://goo.gl/maps/7Q4NeMsTC7R1jykx6" %}}{{% by %}}でシンプルな□や○の形の鋼管{{% ex "https://goo.gl/maps/moVJ3jbTREsrX3wJ6" "https://goo.gl/maps/2KW143rXY3UJUesm6"  %}}や凹みのある鋼管{{% ex "https://goo.gl/maps/7F8BjvThjXY9fYPRA" %}}を使って立てられている。
 {{% /notice %}}
 
 {{% notice note %}}
