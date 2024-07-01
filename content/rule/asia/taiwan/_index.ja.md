@@ -72,11 +72,29 @@ maps: [
 
 
 {{% notice tip %}}
-道端にコンクリートでできたブロック{{% ex "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や壁{{% ex "https://goo.gl/maps/Lzh1B1996w7c7QEW9" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。
+道端にコンクリートでできたブロック{{% ex "https://maps.app.goo.gl/JzF7qdLn8QSvughV8" "https://maps.app.goo.gl/5jBAWazYbicuGVuBA" "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や擁壁{{% ex "https://maps.app.goo.gl/VjE9LTvq5EUEz1SBA" "https://goo.gl/maps/Lzh1B1996w7c7QEW9" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg#/media/File:刘澳村_-_Liu'ao_Village_-_2014.09_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg" alt="刘澳村 - Liu'ao Village - 2014.09 - panoramio.jpg" width="90%"></a></p><p>By rheins, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59092839">Link</a></p>
+</div>
+
+{{% notice tip %}}
+独特な形の道路看板が見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./tw_fw6_photo.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "建物" %}}
+{{% notice tip %}}
+かなり巨大な横長の建物は半導体関係の工場かも{{% ex "https://maps.app.goo.gl/KSjt9s4WFyvQ8CEe6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./tsmc_factory_hsinchu.jpg">
 </div>
 
 {{% /tab %}}
