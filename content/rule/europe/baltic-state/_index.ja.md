@@ -10,14 +10,15 @@ add_flagindex: True
 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<div class="googlemap-if">
 <div class="googlemap-if" style="margin-left:15%;margin-right:15%;">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚でバルト三国見分けたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <a href="https://t.co/1PMt0dzJtx">pic.twitter.com/1PMt0dzJtx</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1638018731753496577?ref_src=twsrc%5Etfw">March 21, 2023</a></blockquote>
 </div>
-
-<div class="googlemap-if unclickable">
-<img src="Liothuania-Latvia-Estonia.png" width="90%" alt="Geoguessrでのバルト三国の見分け方" />
 </div>
 
+<div class="googlemap-if unclickable no-margin">
+<img src="Liothuania-Latvia-Estonia.png" width="90%" alt="Geoguessrでのバルト三国の見分け方" />
+</div>
 
 <div class="main-desciption country-description">
     <h4>左から<span class="quiz">リトアニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">エストニア</span></h4>
@@ -27,6 +28,8 @@ add_flagindex: True
         <li><span class="quiz">エストニア</span>：縁のない速度制限の看板</li>
     </ul>
 </div>
+
+<br />
 
 ## 共通であるもの
 

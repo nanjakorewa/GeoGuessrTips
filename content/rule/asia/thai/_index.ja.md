@@ -162,22 +162,13 @@ Public Domain
 </div>
 
 {{% tabs %}}
-{{% tab "コーン" %}}
-<div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-15-43.png" width="60%" />
-</div>
-
-{{% notice tip %}}
-アメリカなどと同じくコーンと大豆の生産地は基本的にほぼ同じエリア、タイの場合も大豆は北の方のみ。
-{{% /notice %}}
-{{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="2023-05-01-21-17-28.png" width="60%" />
 </div>
 
 {{% notice tip %}}
-ヤシの木のようなアブラヤシがある場合は南の低地を考えてみる
+ヤシの木のようなアブラヤシがある場合は南の低地を考えてみる{{% ex "https://maps.app.goo.gl/hodg6KoLExT7XFNN7" "https://maps.app.goo.gl/ahDVmb6x4QxyqKex6" %}}
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "ゴム" %}}
@@ -190,7 +181,16 @@ Public Domain
 </div>
 
 {{% notice tip %}}
-ゴムの木は一般には南の半島側に多いが北にもバラバラに分布していて、100%南というわけではない{{% ref "https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708" "Wongsapai, Wongkot, et al. 『Biomass supply chain for power generation in southern part of Thailand.』 Energy Reports 6 (2020): 221-227." %}}。
+ゴムの木は一般には南の半島側に多い{{% ex "https://maps.app.goo.gl/up5puzmHockybJdt9" "https://maps.app.goo.gl/YwYA4ruviHHSKB1B8" %}}。北や{{% goto "../vietnum/" "ベトナム" %}}にもバラバラに分布していて、100%南というわけではない{{% ref "https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708" "Wongsapai, Wongkot, et al. 『Biomass supply chain for power generation in southern part of Thailand.』 Energy Reports 6 (2020): 221-227." %}}。
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "コーン" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="2023-05-01-21-15-43.png" width="60%" />
+</div>
+
+{{% notice tip %}}
+アメリカなどと同じくコーンと大豆の生産地は基本的にほぼ同じエリア、タイの場合も大豆は北の方のみ。
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "コメ" %}}
