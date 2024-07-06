@@ -65,6 +65,14 @@ Google Carが特徴的でほとんどの場合すぐにモンゴルと分かる{
 <iframe src="https://www.google.com/maps/embed?pb=!4v1715247595651!6m8!1m7!1stGMtDX30PhmBwM_egbROLw!2m2!1d47.90192843050185!2d106.7779924739614!3f266.83462548660356!4f-10.569177231752235!5f0.40031606864352515" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+ボーリングのピンのようなボラードが道端で見つかる。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Auf_der_A0501_in_Richtung_Chinggis,_Mongolei.jpg#/media/File:Auf_der_A0501_in_Richtung_Chinggis,_Mongolei.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Auf_der_A0501_in_Richtung_Chinggis%2C_Mongolei.jpg" alt="File:Auf der A0501 in Richtung Chinggis, Mongolei.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GerritR" title="User:GerritR">GerritR</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90883038">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">

@@ -220,7 +220,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 
 {{% tabs %}}
 {{% tab "Biblioteca Península Haush" %}}
-{{% notice tip %}}外すと大ダメージ確定なので景色だけ覚えておく{{% ex "https://maps.app.goo.gl/LbFE4Yjvr1YPZiJd9" %}}。{{% /notice %}}
+{{% notice tip %}}外すと大ダメージ確定なので景色だけ覚えておく{{% ex "https://maps.app.goo.gl/LbFE4Yjvr1YPZiJd9" "https://maps.app.goo.gl/Jz4ts4HbR51ESfSe9" %}}。2022年時点では周辺には隠者が数人住んでいるだけらしい{{% ref "https://fmfuego.com.ar/interes-general/inauguraran-la-biblioteca-haush-en-puerto-espaniol.htm" "Inaugurarán la Biblioteca Haush en Puerto Español" %}}。{{% /notice %}}
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0iQ6CiRKCmA?si=4t_OQOspdeiDqH73&amp;start=726" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
