@@ -103,30 +103,61 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 </div>
 
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>起伏がある地域は北と南東の2か所しかない
+            <ul>
+                <li>北{{% ex "https://maps.app.goo.gl/8Y5VUodGhDhTpXPC6" "https://maps.app.goo.gl/Ux8eKxXYcvxKZNha7" %}}、舗装されていない地域が多い</li>
+                <li>南東{{% ex "https://maps.app.goo.gl/QApXw6nADHn5skdY9" "https://maps.app.goo.gl/F5zKgozCYEpHkjbFA" %}}</li>
+            </ul>
+        </li>
+        <li>農業は南西のエリアに集中している</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
 {{% tab "地形図" %}}
 {{% notice tip %}}
 ほとんどの領域が標高0～300mの間であり、最高でも513m（パブリックドメインの画像より）。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-25-12-33-07.png" />
+<img src="2023-04-25-12-33-07.png" width="90%" />
 </div>
 {{% /tab %}}
-{{% tab "🐑" %}}
+{{% tab "農業" %}}
+{{% notice tip %}}
+大麦や大豆の生産は南西のSoriano・Coloniaで半分近くを占めている{{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}。コーンや菜種も西に集中しているので畑が広がっていれば西に寄せる価値ありかも{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Uruguay Production" %}}。
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682340986154!6m8!1m7!1si3SsW3QFf0nE5j_4K_fCMQ!2m2!1d-32.39305726837082!2d-55.29410752891511!3f235.91098298390824!4f-11.82168877494233!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="Uruguay_Barley.png" width="90%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
 
-
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Cabo Polonio周辺では黒い車が使われていない</li>
         <li>フローレス島という離島がある{{% ref "https://en.wikipedia.org/wiki/Isla_de_Flores" "Isla de Flores" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Cabo Polonio" %}}
+
+{{% notice tip %}}
+Cabo Polonioの集落や集落までの途中の道は黒い車が使われていないのでウルグアイ以外に置かないように気を付ける{{% ex "https://maps.app.goo.gl/ktYkVHcD8m3uqgBd9" "https://maps.app.goo.gl/rJLyu9cnNMrjmSHY8" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="./casaspolonio.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "Isla de Flores" %}}
 
 {{% notice tip %}}
