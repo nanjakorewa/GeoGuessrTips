@@ -249,6 +249,15 @@ sc: [
 <img src="./thirunelli_temple_frontview.jpg">
 </div>
 {{% /tab %}}
+{{% tab "チベット語" %}}
+{{% notice tip %}}
+ラダック連邦直轄領のLehなどのチベット文化圏に属している限定された地域で見つかる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg#/media/File:Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg" alt="Notice at the Mingyur Dorje chöten.jpg" width="90%"></a></p>
+<p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">　　　CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42014485">Link</a>　　　</p>
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 
@@ -671,7 +680,18 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>標高が3600m以上の地点にチベット民族が大半を占めるLehという都市がある</li>
         <li>街頭のポールなどに数字が書かれた黄色のラベルが貼ってあるならばChandigarh{{% ex "https://maps.app.goo.gl/8wXurqqpik4Upgjs5" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1136" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}</li>
     </ul>
 </div>
 
+{{% tabs %}}
+{{% tab "Leh" %}}
+{{% notice tip %}}
+チベット文字が街中で見られる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。また、全方位に山が見える。夏以外は空路しか通じておらず街中に空港がある。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./view_leh.jpg" width="90%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
