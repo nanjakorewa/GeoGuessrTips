@@ -47,7 +47,7 @@ sc: [
 
 
 {{% notice tip %}}
-他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
+他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -412,7 +412,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-図の緑の地域に多いが、ヒマチャル・プラデシュにはストリートビューが無いため東部・南部の２地域のどちらかとなる(図の出典：Lagad, Rupali A., et al. "Elemental Profiling of Indian Tea by Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)." Atomic Spectroscopy 32.4 (2011): 168.)。
+図の緑の地域に多いが、ヒマチャル・プラデシュにはストリートビューがあまり無いため東部・南部の２地域のどちらかの可能性が高い(図の出典：Lagad, Rupali A., et al. "Elemental Profiling of Indian Tea by Inductively Coupled Plasma Optical Emission Spectrometry (ICP-OES)." Atomic Spectroscopy 32.4 (2011): 168.)。
 {{% /notice %}}
 
 {{% /tab %}}
