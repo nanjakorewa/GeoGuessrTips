@@ -31,11 +31,18 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ラホール周辺の施設の中が多い
+<span class="quiz">ウルドゥー</span>語（اردو）が見つかる{{% ex "https://maps.app.goo.gl/hLRBhroSrtAoN6kN9" "https://maps.app.goo.gl/zn4J9dn2q7SiDGEq7" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./jamamasjidsouthentrance.jpg" width="95%" />
+</div>
+
+{{% notice tip %}}
+ラホール周辺の施設の中が多い{{% ex "https://maps.app.goo.gl/W7bU14B4msxZ6z8C7" "https://maps.app.goo.gl/sQWsLGXC7Fg86W9L9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684550627801!6m8!1m7!1sU-5QOP9vUg8AAAQukBRKjA!2m2!1d31.58808604166319!2d74.31002418694766!3f70.22626083101393!4f4.78963295005471!5f0.5063285044776071" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684551320065!6m8!1m7!1sEixJovdDJncAAAQumpZFVQ!2m2!1d31.56736192644422!2d74.30767880065218!3f266.48307652830204!4f-2.714063802057808!5f1.421265950990649" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="shalamar_garden_lahore_pakistan_1.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -47,15 +54,6 @@ sc: [
 
 By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=88001443">Wikimedia Commons(Link)</a>
 {{% /lb %}}
-
-
-{{% notice tip %}}
-<span class="quiz">ウルドゥー</span>語（اردو）が見つかる{{% ex "https://maps.app.goo.gl/zn4J9dn2q7SiDGEq7" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="./jamamasjidsouthentrance.jpg" width="95%" />
-</div>
 
 {{% /tab %}}
 {{% /tabs %}}
