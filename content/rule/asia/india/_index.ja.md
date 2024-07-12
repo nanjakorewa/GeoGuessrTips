@@ -347,7 +347,7 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h4 class="section-title" id="電柱の形">農業</h4>
+    <h4 class="section-title" id="農業">農業</h4>
     <ul class="rule-list">
         <li>農業が場所によって異なる
             <ul>
@@ -532,8 +532,8 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 {{% /tabs %}}
 
 
-<div class="main-desciption area-description">
-    <h4 class="section-title" id="電柱の形">電柱の形</h4>
+<div class="main-desciption area-description" id="電柱の形">
+    <h4 class="section-title">電柱の形</h4>
     <ul class="rule-list">
         <li>電柱の形が州や街によって異なる
             <ul>
