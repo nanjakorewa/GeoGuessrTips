@@ -47,7 +47,7 @@ sc: [
 
 
 {{% notice tip %}}
-他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
+他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/ZCtvkMDnhkcfqR3A8" "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
