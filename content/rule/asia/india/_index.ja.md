@@ -47,7 +47,7 @@ sc: [
 
 
 {{% notice tip %}}
-他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/ZCtvkMDnhkcfqR3A8" "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
+他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/sJwvj52hZ86iQMcu8" "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -134,7 +134,7 @@ sc: [
 
 
 {{% notice tip %}}
-インドでたまに見かける白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" "https://maps.app.goo.gl/ybHEFyUq5qpm25Nq9" %}}。右のように{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードもある{{% ex "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。
+右のような{{% goto "../cambodia/" "カンボジア" %}}にありそうな形のボラードがある{{% ex "https://maps.app.goo.gl/kdvwTS4XNcwK1BdU6" "https://maps.app.goo.gl/QfFmVYDvuB5YEWxr7" "https://maps.app.goo.gl/XeK8o8MEXonNGSRa9" "https://maps.app.goo.gl/aRrgbPuGg3hQuxyJ7" "https://maps.app.goo.gl/YRiBshaSh8LVzZp76" %}}。白黒のボラードのようなもの{{% ex "https://maps.app.goo.gl/QdeN39f9qcmCVGR1A" "https://maps.app.goo.gl/jTvZrH5RAABu9C5n7" "https://maps.app.goo.gl/ybHEFyUq5qpm25Nq9" %}}もある。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -688,7 +688,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% tabs %}}
 {{% tab "Leh" %}}
 {{% notice tip %}}
-チベット文字が街中で見られる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。また、全方位に山が見える。夏以外は空路しか通じておらず街中に空港がある。
+チベット文字が街中で見られる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。また、全方位に山が見える{{% ex "https://maps.app.goo.gl/YJMVt3qx2yBeSAyR8" %}}。夏以外は空路しか通じておらず街中に空港がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./view_leh.jpg" width="90%">
