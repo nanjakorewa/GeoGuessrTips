@@ -55,18 +55,32 @@ sc: [
 
 
 {{% notice tip %}}
-横断歩道標識は<span class="quiz">7本</span>。標識がパイプで囲われていることが多い。上の『limite générale』はフランス語なのでフランス付近だと想像できる。下の
+横断歩道標識は<span class="quiz">7本</span>で横断歩道は黄色い。
 {{% /notice %}}
+
+{{% notice note %}}
+同じ特徴を持つ{{% goto "../liechtenstein/" "リヒテンシュタイン" %}}は2024年4月時点では公式カバレッジがない。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+標識がパイプで囲われていることが多い。また、下の『limite générale』はフランス語なのでフランス付近だと想像できる。
+{{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jag9889/52689283729/" title="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"><img src="https://live.staticflickr.com/65535/52689283729_53353d9cda_w.jpg" width="300" height="400" alt="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
 {{% notice tip %}}
-頭が丸い円柱型のボラードはスイスにしか無い{{% ex "https://maps.app.goo.gl/ENYEwyP5FCL3RmMX6" "https://maps.app.goo.gl/wc5CGoqKkhq2dm5d6" %}}。また『Generell』はドイツ語なのでフランスから離れている場所だと想像できる。
+頭が丸い円柱型のボラードはスイス以外ではまず見られない{{% ex "https://maps.app.goo.gl/ENYEwyP5FCL3RmMX6" "https://maps.app.goo.gl/wc5CGoqKkhq2dm5d6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ammerswil_vilagheniro_291.jpg#/media/File:Ammerswil_vilagheniro_291.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d6/Ammerswil_vilagheniro_291.jpg" alt="Ammerswil vilagheniro 291.jpg" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:DidiWeidmann" title="User:DidiWeidmann">Dietrich Michael Weidmann</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9476824">Link</a></p>
+<img src="road_mountain_switzerland_sky.jpg">
 </div>
 
 {{% notice tip %}}
