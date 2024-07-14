@@ -23,6 +23,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.pk</span></li>
         <li><span class="quiz">ウルドゥー</span>語（اردو）が国語であり英語が公用語だが他の言語の話者も多い</li>
+        <li>サルワール・カミーズという伝統的な衣装が見られる</li>
         <li><span class="quiz">ラホール</span>周辺の施設内にストリートビューが多い</li>
         <li>地域ごとにナンバープレートの色が違うらしくラホールのあるパンジャーブ州はナンバープレートの左が<span class="quiz">緑</span>色</li>
     </ul>
