@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "PK.svg"
 jetro_detail: true
 jogmec_detail: false
+is_has_distinctive_googlecar: true
 is_has_many_trekker: true
 sc_title: "間違えやすい地域"
 sc: [
