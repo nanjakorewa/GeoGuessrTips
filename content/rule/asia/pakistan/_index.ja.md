@@ -31,7 +31,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-<span class="quiz">ウルドゥー</span>語（اردو）が見つかる{{% ex "https://maps.app.goo.gl/hLRBhroSrtAoN6kN9" "https://maps.app.goo.gl/zn4J9dn2q7SiDGEq7" %}}
+<span class="quiz">ウルドゥー</span>語（اردو）が見つかる{{% ex "https://maps.app.goo.gl/LWWUTY16D4PPZjkX7" "https://maps.app.goo.gl/hLRBhroSrtAoN6kN9" "https://maps.app.goo.gl/zn4J9dn2q7SiDGEq7" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -48,7 +48,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱が鉄塔もしくはチリにありそうなタイプ{{% ex "https://maps.app.goo.gl/NioM4YvWDm9eKgji9" "https://maps.app.goo.gl/cBqCa6fiRNfhNQeB8" "https://maps.app.goo.gl/HoybErJbF9QmkyMN6" %}}。
+電柱が鉄塔もしくはチリにありそうなタイプが多い{{% ex "https://maps.app.goo.gl/vM8yiDSHK6cDZt4o8" "https://maps.app.goo.gl/NioM4YvWDm9eKgji9" "https://maps.app.goo.gl/cBqCa6fiRNfhNQeB8" "https://maps.app.goo.gl/HoybErJbF9QmkyMN6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
