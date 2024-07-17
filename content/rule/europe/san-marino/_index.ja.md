@@ -36,15 +36,18 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-シェブロンの色がイタリアと異なる{{% ex "https://goo.gl/maps/wgN8i7tiaDbrrRAV6" "https://goo.gl/maps/tjT4TpDZhg9ZEtY79" "https://goo.gl/maps/YgYyFGWcZ9VSxcSz6" %}}。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
+シェブロンの色がイタリアと異なる{{% ex "https://maps.app.goo.gl/Hn3jAz6Nud4StGTx5" "https://maps.app.goo.gl/RNtnDpyXYEDGgxta6" "https://maps.app.goo.gl/byNZrHFwqwW8urWK6" %}}。左がサンマリノ・右がイタリア{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
+<div class="googlemap-if unclickable">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1721233261089!6m8!1m7!1sv3qJ7As-TQDsQu6jcuB6nQ!2m2!1d43.9466488737296!2d12.45883792043881!3f247.82909812895753!4f-3.4906638879723317!5f0.7820865974627469" width="90%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 <div class="googlemap-if unclickable">
 <img src="./r/output.jpg" width="104px" style="margin:10px">
 <img src="../italy/r/2023-05-14 041948.png" width="100px" style="margin:10px">
 </div>
 {{% notice tip %}}
-平坦な場所が無く、まっすぐな道もほとんど存在しない{{% ex "https://maps.app.goo.gl/LPvxTbPbiGRFsdWX8" "https://maps.app.goo.gl/gdNUiJE1XpjD1Bmf6" %}}。
+平坦な場所が無く、まっすぐな道もほとんど存在しない{{% ex "https://maps.app.goo.gl/eAp6xXdKzbvEVAzY8" "https://maps.app.goo.gl/LPvxTbPbiGRFsdWX8" "https://maps.app.goo.gl/gdNUiJE1XpjD1Bmf6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -64,8 +67,8 @@ sc: [
 {{% notice tip %}}
 ナンバープレートは前後についていて<span class="quiz">水</span>色に見える。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}・{{% goto "../andorra/" "アンドラ" %}}を一度考えてみる。
 {{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/152930510@N02/38349966675/in/photolist-21qRAZZ-L3NYZd-ZD49xD-fgTPqf-pRFwL4-RhdpRS-KuWNz3-QLJ6Kn-2aJ4bXn-YNYuRo-oJYPNr-XLTz9o-47Gqau-dhZWy6-2aA6icQ-P4TyGp-f4nMwX-27BwZVD-L5iLnL-YMnT3N-868XAx-M9Eq44-8LJyeU-23EQBwi-2aRqFCv-63hTnk-26mb5Ct-ix7cbC-21ebmNs-L8Mf6s-4LsVrD-2ak8QqD-71Qj3F-TDZXNY-2eyFrdn-RBqcme-M9P4me-29win7H-2d9ffJP-MYADyK-29PmMqU-NhsCzV-29uvRBr-apJcAg-KsU6bp-Lo9xvF-29PmNKC-21gddB7-21gdd7u-2es1LCz" title="VW Transporter San Marino plate"><img src="https://live.staticflickr.com/4732/38349966675_8dda328c21.jpg" width="500" height="375" alt="VW Transporter San Marino plate"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<img src="subaru_polizia_civile_2.jpg" width="90%">
 </div>
 {{% lb 50 %}}
 ![](2023-05-06-01-53-39.png)
@@ -73,6 +76,13 @@ sc: [
 By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
 {{% /lb %}}
 
+
+{{% notice tip %}}
+道幅が狭く路肩が少ない{{% ex "https://maps.app.goo.gl/J7yHjSL2cfTZeCK89" "https://maps.app.goo.gl/Aa4ohuQmBetANgrL7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%B7%AF%E8%82%A9" "路肩" %}}。１車線でカーブや起伏がある道が多い{{% ex "https://maps.app.goo.gl/PNvJDbZQ9ZEKbsKX8" "https://maps.app.goo.gl/LK9gzDULQCWgyjjq8" "https://maps.app.goo.gl/UgEYTq3qVeB3CZY7A" %}}。周辺のイタリア国内とあまり大きな違いはないので注意。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/xpyphotorally/38109613731/in/photolist-YXT11L-XLTmXj-YCr1ZK-beWHrn-22qov7E-27DyrgY-266oj9C-8Jjr5L-6BmH1f-289WiBN-2aieHFr-anM82q-LHAo5o-Zhk8QR-G2v4ER-2aLNeKf-CC6QQu-25Quuty-ej2Zex-HRTrQ9-D3n5nf-CC7Qgw-Zktj53-286maxC-25mVdVs-28CK4ri-PzEZC3-52AwEy-GZdEVH-nnTpag-JrVp2g-5wjz7M-F7PWBD-8saPR7-YNYuRo-6jXbV-6jWUY-fUGw4i-214BJrH-ZYSt2E-nyoqaZ-2choVez-ZDRxoS-2dVq4F6-Hx1Cxp-djnuf3-cft7Hq-PzFnGo-J4KpLp-oL3PS2/" title="RLSM17_036"><img src="https://live.staticflickr.com/4488/38109613731_90d83bda5a_c.jpg" width="95%" galt="RLSM17_036"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 {{% /tab %}}
 {{% /tabs  %}}
