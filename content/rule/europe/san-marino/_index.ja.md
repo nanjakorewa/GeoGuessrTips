@@ -68,7 +68,7 @@ By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-
 
 
 {{% notice tip %}}
-ゴミ箱やバス停などの公共サービスに波のロゴがある{{% ex "https://maps.app.goo.gl/8hzRpDgxfMPZ69uq8" "https://maps.app.goo.gl/XWV1ZFtZ8FtPzJdf6" "https://maps.app.goo.gl/nWS52Dk6tmsWZwbbA" "https://maps.app.goo.gl/ve2qCLcugHwRexim6" "https://maps.app.goo.gl/BiQyb2cXLHydJCax6" %}}。バス停の例はこれ{{% ex "https://maps.app.goo.gl/K95QxoADspBLPAxJA" "https://maps.app.goo.gl/EDNixyLqD7mfT5wB9" %}}。
+バス停{{% ex "https://maps.app.goo.gl/7xKNCSKZv9GE59Nx7" "https://maps.app.goo.gl/g4ew87LK5WKKB93r7" "https://maps.app.goo.gl/K95QxoADspBLPAxJA" "https://maps.app.goo.gl/EDNixyLqD7mfT5wB9" %}}やゴミ箱{{% ex "https://maps.app.goo.gl/8hzRpDgxfMPZ69uq8" "https://maps.app.goo.gl/XWV1ZFtZ8FtPzJdf6" "https://maps.app.goo.gl/nWS52Dk6tmsWZwbbA" "https://maps.app.goo.gl/ve2qCLcugHwRexim6" "https://maps.app.goo.gl/BiQyb2cXLHydJCax6" %}}などの公共サービスに公共サービス会社のロゴがある{{% ref "https://www.aass.sm/site/home.html" "A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
