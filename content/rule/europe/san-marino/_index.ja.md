@@ -48,6 +48,14 @@ sc: [
 </div>
 
 {{% notice tip %}}
+バス停{{% ex "https://maps.app.goo.gl/7xKNCSKZv9GE59Nx7" "https://maps.app.goo.gl/g4ew87LK5WKKB93r7" "https://maps.app.goo.gl/K95QxoADspBLPAxJA" "https://maps.app.goo.gl/EDNixyLqD7mfT5wB9" %}}やゴミ箱{{% ex "https://maps.app.goo.gl/8hzRpDgxfMPZ69uq8" "https://maps.app.goo.gl/XWV1ZFtZ8FtPzJdf6" "https://maps.app.goo.gl/nWS52Dk6tmsWZwbbA" "https://maps.app.goo.gl/ve2qCLcugHwRexim6" "https://maps.app.goo.gl/BiQyb2cXLHydJCax6" %}}などの公共サービスに公共サービス会社A.A.S.S.{{% ex "https://maps.app.goo.gl/ac5gDq19CgTAVoqw5" %}}のロゴがある{{% ref "https://www.aass.sm/site/home.html" "A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./images.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
 道幅が狭く路肩が少ない{{% ex "https://maps.app.goo.gl/J7yHjSL2cfTZeCK89" "https://maps.app.goo.gl/Aa4ohuQmBetANgrL7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%B7%AF%E8%82%A9" "路肩" %}}。１車線でカーブや起伏がある道が多い{{% ex "https://maps.app.goo.gl/PNvJDbZQ9ZEKbsKX8" "https://maps.app.goo.gl/LK9gzDULQCWgyjjq8" "https://maps.app.goo.gl/UgEYTq3qVeB3CZY7A" %}}。周辺のイタリア国内とあまり大きな違いはないので注意。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
@@ -66,14 +74,6 @@ sc: [
 By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
 {{% /lb %}}
 
-
-{{% notice tip %}}
-バス停{{% ex "https://maps.app.goo.gl/7xKNCSKZv9GE59Nx7" "https://maps.app.goo.gl/g4ew87LK5WKKB93r7" "https://maps.app.goo.gl/K95QxoADspBLPAxJA" "https://maps.app.goo.gl/EDNixyLqD7mfT5wB9" %}}やゴミ箱{{% ex "https://maps.app.goo.gl/8hzRpDgxfMPZ69uq8" "https://maps.app.goo.gl/XWV1ZFtZ8FtPzJdf6" "https://maps.app.goo.gl/nWS52Dk6tmsWZwbbA" "https://maps.app.goo.gl/ve2qCLcugHwRexim6" "https://maps.app.goo.gl/BiQyb2cXLHydJCax6" %}}などの公共サービスに公共サービス会社A.A.S.S.{{% ex "https://maps.app.goo.gl/ac5gDq19CgTAVoqw5" %}}のロゴがある{{% ref "https://www.aass.sm/site/home.html" "A.A.S.S. Azienda Autonoma di Stato per i Servizi Pubblici" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./images.jpg" width="90%">
-</div>
 
 {{% notice tip %}}
 横断歩道が青色{{% ex "https://maps.app.goo.gl/fA9yW2jZCrp7nS7U6" %}}。
