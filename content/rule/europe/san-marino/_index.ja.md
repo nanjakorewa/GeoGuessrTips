@@ -55,7 +55,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-ナンバープレートは前後についていて<span class="quiz">水</span>色に見える。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}・{{% goto "../andorra/" "アンドラ" %}}を一度考えてみる。
+ナンバープレートは前後についていて<span class="quiz">水</span>色に見える{{% ex "https://maps.app.goo.gl/gvRTP2fSev3tfchK6" %}}。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}・{{% goto "../andorra/" "アンドラ" %}}を一度考えてみる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="subaru_polizia_civile_2.jpg" width="90%">
@@ -65,6 +65,15 @@ sc: [
 
 By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9297224">Wikipedia Commons(Link)</a>
 {{% /lb %}}
+
+
+{{% notice tip %}}
+ゴミ箱やバス停などの公共サービスに波のロゴがある{{% ex "https://maps.app.goo.gl/8hzRpDgxfMPZ69uq8" "https://maps.app.goo.gl/XWV1ZFtZ8FtPzJdf6" "https://maps.app.goo.gl/nWS52Dk6tmsWZwbbA" "https://maps.app.goo.gl/ve2qCLcugHwRexim6" "https://maps.app.goo.gl/BiQyb2cXLHydJCax6" %}}。バス停の例はこれ{{% ex "https://maps.app.goo.gl/K95QxoADspBLPAxJA" "https://maps.app.goo.gl/EDNixyLqD7mfT5wB9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./images.jpg" width="90%">
+</div>
 
 {{% notice tip %}}
 横断歩道が青色{{% ex "https://maps.app.goo.gl/fA9yW2jZCrp7nS7U6" %}}。

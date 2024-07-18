@@ -13,10 +13,9 @@ jetro_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../monaco/", "モナコ"],
     ["../san-marino/", "サンマリノ"],
+    ["../monaco/", "モナコ"],
     ["../albania/", "アルバニア"],
-    ["../malta/", "マルタ"],
     ["../greece/", "ギリシャ"],
     ]
 ---
@@ -29,13 +28,11 @@ sc: [
         <li>上から見たら黒い▼の形のボラードがある</li>
         <li>ナンバープレートは<span class="quiz">両サイドに青色</span></li>
         <li>角張った板に丸い縁取りの線が描かれた標識が多い</li>
-        <li>赤い瓦のような屋根の家が多い{{% by %}}</li>
-        <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位</li>
-        <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
         <li>シェブロンは{{% goto "../albania/" "アルバニア" %}}と同じく<span class="quiz">黒</span>背景に白矢印が多い</li>
         <li>標識の裏側が<span class="quiz">黒色や灰</span>色の時が多い</li>
         <li>イタリアのタバコの販売店には多くの場合「T」と書かれた看板が付いている{{% ref "https://theryugaku.jp/2574/" "イタリア版個人商店？イタリアで良く見かけるTabacchiとは？" %}}</li>
-        <li>Eni S.p.A.の黄色いガソリンスタンドがある</li>
+        <li><span class="quiz">ぶどう</span>畑が多く生産量は中国に次いで世界２位</li>
+        <li>通り名の看板に「<span class="quiz">Via</span>」「Vico」と書いてあればイタリア語圏の可能性が高い</li>
     </ul>
     {{% rd europe italy small %}}
 </div>
@@ -45,7 +42,11 @@ sc: [
 
 
 {{% notice tip %}}
-上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/ucGr2wUojQ2PVZEG6" "https://goo.gl/maps/DhwPhZ5AwBJuK9D6A" "https://goo.gl/maps/ckJ6A2rtWimmfEaBA" "https://goo.gl/maps/Kw2HLvLByHQvFZmh7" %}}。{{% goto "../albania/" "アルバニア" %}}にも似た形のボラードがある。
+上が黒い▼の形のボラード{{% ex "https://goo.gl/maps/ucGr2wUojQ2PVZEG6" "https://goo.gl/maps/DhwPhZ5AwBJuK9D6A" "https://goo.gl/maps/ckJ6A2rtWimmfEaBA" "https://goo.gl/maps/Kw2HLvLByHQvFZmh7" %}}。
+{{% /notice %}}
+
+{{% notice note %}}
+同じボラードは{{% goto "../san-marino/" "サンマリノ" %}}や{{% goto "../albania/" "アルバニア" %}}でも見つかる。
 {{% /notice %}}
 
 
