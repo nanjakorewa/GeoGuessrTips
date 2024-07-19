@@ -103,7 +103,7 @@ CC0</a>
 {{% /notice %}}
 
 {{% notice note %}}
-近い色のシェブロンが見つかるのは{{% goto "../san-marino/" "サンマリノ" %}}のみ
+近い色のシェブロンが見つかる国として{{% goto "../san-marino/" "サンマリノ" %}}や{{% goto "../austria/" "オーストリア" %}}がある
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./road-example.png" width="95%">
