@@ -57,7 +57,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-道幅が狭く路肩が少ない{{% ex "https://maps.app.goo.gl/J7yHjSL2cfTZeCK89" "https://maps.app.goo.gl/Aa4ohuQmBetANgrL7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%B7%AF%E8%82%A9" "路肩" %}}。１車線でカーブや起伏がある道が多い{{% ex "https://maps.app.goo.gl/PNvJDbZQ9ZEKbsKX8" "https://maps.app.goo.gl/LK9gzDULQCWgyjjq8" "https://maps.app.goo.gl/UgEYTq3qVeB3CZY7A" %}}。周辺のイタリア国内とあまり大きな違いはないので注意。
+道幅が狭く路肩が少ない{{% ex "https://maps.app.goo.gl/J7yHjSL2cfTZeCK89" "https://maps.app.goo.gl/Aa4ohuQmBetANgrL7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%B7%AF%E8%82%A9" "路肩" %}}。１車線でカーブや起伏がある道が多い{{% ex "https://maps.app.goo.gl/PNvJDbZQ9ZEKbsKX8" "https://maps.app.goo.gl/LK9gzDULQCWgyjjq8" "https://maps.app.goo.gl/UgEYTq3qVeB3CZY7A" %}}。平坦な場所が無く、まっすぐな道もほとんど存在しない{{% ex "https://maps.app.goo.gl/eAp6xXdKzbvEVAzY8" "https://maps.app.goo.gl/LPvxTbPbiGRFsdWX8" "https://maps.app.goo.gl/gdNUiJE1XpjD1Bmf6" %}}。周辺のイタリア国内とあまり大きな違いはないので注意。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/xpyphotorally/38109613731/in/photolist-YXT11L-XLTmXj-YCr1ZK-beWHrn-22qov7E-27DyrgY-266oj9C-8Jjr5L-6BmH1f-289WiBN-2aieHFr-anM82q-LHAo5o-Zhk8QR-G2v4ER-2aLNeKf-CC6QQu-25Quuty-ej2Zex-HRTrQ9-D3n5nf-CC7Qgw-Zktj53-286maxC-25mVdVs-28CK4ri-PzEZC3-52AwEy-GZdEVH-nnTpag-JrVp2g-5wjz7M-F7PWBD-8saPR7-YNYuRo-6jXbV-6jWUY-fUGw4i-214BJrH-ZYSt2E-nyoqaZ-2choVez-ZDRxoS-2dVq4F6-Hx1Cxp-djnuf3-cft7Hq-PzFnGo-J4KpLp-oL3PS2/" title="RLSM17_036"><img src="https://live.staticflickr.com/4488/38109613731_90d83bda5a_c.jpg" width="95%" galt="RLSM17_036"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -83,20 +83,13 @@ By Seth Schoenderivative work, <a href="https://creativecommons.org/licenses/by-
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/rapsak/3183318890/in/photolist-2nzfWV7-5RikNs-6jy9hg-TWspYm-2pKjcjH-2oZw6tM-2oZqznd-2oZtyTv-2oZuCg3-2oZtyQV-2oZqzgX-2oZqz3W-2oZtyys-2oZvKZ8-2oZqyY2-2oZw6g2-2oZuBS2-2oZtyDc-2oZuC4E-2oZqzau-2oZuBKU-2p1MCoG-2gUrijW-2EoEps-2gUqpaQ-2oZuBPg-2oZuC9Q-2oZuBYe-2oZtyoC-2oZw5Za-2oZuCaM" title="San Marino"><img src="https://live.staticflickr.com/3450/3183318890_ac3d41c68f_c.jpg" width="95%" alt="San Marino"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
 {{% notice tip %}}
-平坦な場所が無く、まっすぐな道もほとんど存在しない{{% ex "https://maps.app.goo.gl/eAp6xXdKzbvEVAzY8" "https://maps.app.goo.gl/LPvxTbPbiGRFsdWX8" "https://maps.app.goo.gl/gdNUiJE1XpjD1Bmf6" %}}。
+ティターノ山（Monte Titano）があり、その頂きにはGuaita・Cesta・Montaleと名付けられた３つの塔が見える{{% ex "https://maps.app.goo.gl/9KdEsvp4JtqT4mnH6" "https://maps.app.goo.gl/X3gZEQRdqjqa7VYu7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Valdragone,_San_Marino.jpg" width="90%">
-</div>
-
-{{% notice tip %}}
-こんな感じの崖と山がある{{% ex "https://maps.app.goo.gl/9KdEsvp4JtqT4mnH6" "https://maps.app.goo.gl/X3gZEQRdqjqa7VYu7" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./san_marino_castle_fortress.jpg" width="90%">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tabliniumcarlson/51510241007/in/photolist-2mtMs4z-2nfLPXi-2ngwTpP-2nfthLn-2ngfy6E-2ngrMfN-2nfQknY-2ngp3iK-2nfvQNz-G7GQtZ-2ngvseJ-2ngBHaZ-SfXf8d-2ng1gFT-odr3vj-D5KdVA-27L3Pxq-2nfPDMz-et3fkp-GRKDPs-nvp8tU-61VeCg-eZk54i-61VeLn-61VeEe-LTUoFR-5TB54N-reL5wE-2cmpAX2-PSiW3Q-2gHSUFn-2ncbnjn-doNVqv-dcNstb-YShABG-2dXqxGv-2dSPBTS-2mvZYFf-M6ju1j-7XnBC4-d3fVKs-2muUhwH-9PKaH4-2mv8SHy-oBQYzj-4SeiNU-2ejttx7-nKQAek-mMnPT6-59waXy" title="Monte Titano"><img src="https://live.staticflickr.com/65535/51510241007_9a12ef6960_c.jpg" width="90%" alt="Monte Titano"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
