@@ -101,6 +101,10 @@ CC0</a>
 {{% notice tip %}}
 黄色と赤のシェブロンがある
 {{% /notice %}}
+
+{{% notice note %}}
+近い色のシェブロンが見つかるのは{{% goto "../san-marino/" "サンマリノ" %}}のみ
+{{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./road-example.png" width="95%">
 <img src="./arrow.jpg" width="500px">
