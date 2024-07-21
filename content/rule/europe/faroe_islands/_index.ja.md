@@ -43,11 +43,10 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">黄色と赤</span>色のボラードが多い。Google Carが映っているのも特徴的。
+<span class="quiz">黄色と赤</span>色のボラードが多い{{% ex "https://maps.app.goo.gl/KwpFXHxqR3xE7ix8A" "https://maps.app.goo.gl/R1zG3X1WPBbK9WRa7" %}}。Google Carが映っているのも特徴的。
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686522276340!6m8!1m7!1sQpvdcmcJRmmnSc0nSNG5Vg!2m2!1d62.19685372054629!2d-7.009582268255052!3f238.3021315836842!4f-36.868432339819364!5f1.6057699554093054" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686522177547!6m8!1m7!1sLjkag8HlvXjT-XU7XEmHTw!2m2!1d62.27730718813169!2d-6.523590840672942!3f223.8866249376807!4f-38.692126244982276!5f1.8145091978729981" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG#/media/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/F%C3%A4r%C3%B6er_Suduroy_07.JPG" alt="Färöer Suduroy 07.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34337495">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -55,6 +54,14 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./faroe_islands_cascade_horses.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+{{% goto "../iceland/" "アイスランド" %}}などにもあるような黄色い看板が見つかる。また、横断歩道の近くに白と青で塗られた棒がある{{% ex "https://maps.app.goo.gl/uCG1K9dQSa5iWETw6" "https://maps.app.goo.gl/Un9Cg3xJzuE93Zv76" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Argir.jpg#/media/File:Argir.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Argir.jpg" alt="Argir.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Lillestr%C3%B8m_SK&amp;action=edit&amp;redlink=1" class="new" title="User:Lillestrøm SK (page does not exist)">Lillestrøm SK</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15029674">Link</a></p>
 </div>
 
 {{% /tab %}}
