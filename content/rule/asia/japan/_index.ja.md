@@ -29,8 +29,8 @@ maps: [
     {{% rd asia japan small %}}
 </div>
 
-{{% notice info %}}
-日本マップで「コンビニ」のようなたくさんある施設名を検索すると、IPアドレスをもとに家に近い地域が表示されることがあるので配信する時は注意する。Google検索の結果画面の一番下にもIPに基づいた都市名が表示されることがあるので注意する（参考：<a href="../../../web/">Home > 役立つページ）</a>。IPやキャッシュについてあまりよくわからない人はシークレットモードで配信すること・事前に配信テストをすることを強くおすすめします。
+{{% notice warning %}}
+日本マップで「コンビニ」のようなたくさんある施設名を検索すると、IPアドレスをもとに家に近い地域が表示されることがあるので配信する時は注意する。Google検索の結果画面の一番下にもIPに基づいた都市名が表示されることがあるので注意する（参考：<a href="../../../web/">Home > 役立つページ）</a>。配信をする場合は事前に配信テストすることを強くおすすめします。
 {{% /notice %}}
 
 
@@ -48,7 +48,7 @@ maps: [
 スギは日本以外で見つかることはまず無い。見つかるとしても人工的に導入されたもの。
 {{% /notice %}}
 
-{{% notice info %}}
+{{% notice note %}}
 日本以外で見つかることがあるとすれば、木材用に栽培されている{{% goto "../../europe/azores/" "アゾレス諸島" %}}の可能性が非常に高い{{% ref "https://en.wikipedia.org/wiki/Cryptomeria" "スギ" %}}。
 {{% /notice %}}
 
@@ -60,7 +60,7 @@ maps: [
 プライバシー保護の観点からカメラが低い{{% ex "https://maps.app.goo.gl/vrk9pZHQnTgrUWoF9" "https://maps.app.goo.gl/eCzkX2iic9fznrTTA" "https://maps.app.goo.gl/RyGge7Z8rpDJ5CTq8" "https://maps.app.goo.gl/f4mt7dCtcdUeuzwZ7" "https://maps.app.goo.gl/Hcgk6nqoa2QNGWCU7" "https://maps.app.goo.gl/TzACVMrubQ6EhuHt9" %}}。また、日本語の看板や道路標示がある{{% ex "https://maps.app.goo.gl/9Kbno8poK5ReCtKU8" "https://maps.app.goo.gl/oxRtBE2GhZscrDm48" "https://maps.app.goo.gl/vS6mf4dkoxQkypYd8" "https://maps.app.goo.gl/FM7fsWc1gdhJfFHP8" %}}。
 {{% /notice %}}
 
-{{% notice info %}}
+{{% notice note %}}
 カメラが低い点だけ見て{{% goto "../../europe/switzerland/" "スイス" %}}（例:{{% ex "https://maps.app.goo.gl/PrW88TJsfEgN9K178" "https://maps.app.goo.gl/vm6annrwRk1q2xocA" "https://maps.app.goo.gl/MZKUm6Ucay8yzyG96" %}}）や{{% goto "../srilanka/" "スリランカ" %}}（例:{{% ex "https://maps.app.goo.gl/gjLtUWhMMTgpBUhJ8" "https://maps.app.goo.gl/g5w8vg9D9pCLG7HPA" %}}）と間違えないように。
 {{% /notice %}}
 

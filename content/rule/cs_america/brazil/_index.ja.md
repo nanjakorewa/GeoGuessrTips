@@ -112,6 +112,20 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 <img src="./pole.jpg" width="90%" />
 </div>
 
+{{% notice tip %}}
+黒背景に黄色のシェブロンが見つかる。
+{{% /notice %}}
+
+{{% notice note %}}
+同じ色のシェブロンが見つかる国として{{% goto "../../asia/cambodia/" "カンボジア" %}}{{% ex "https://maps.app.goo.gl/myCJ52cbZMqMiydg7" %}}や{{% goto "../../europe/" "ポルトガル" %}}がある。カンボジアやタイは土の色や植生が近い場所もあり間違える可能性があるので注意。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg#/media/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Catarina_-_SC-303_%28ponto_cr%C3%ADtico%29_%288102621957%29.jpg" alt="File:Santa Catarina - SC-303 (ponto crítico) (8102621957).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51889924@N04">Agencia CNT de Noticias</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/agenciacnt/8102621957/">Santa Catarina - SC-303 (ponto crítico)</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64221741">Link</a></p>
+</div>
+
+
+
 {{% /tab %}}
 {{% tab "攻略動画" %}}
 
