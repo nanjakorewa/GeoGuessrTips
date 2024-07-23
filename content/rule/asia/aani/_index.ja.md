@@ -15,7 +15,7 @@ plonkit: false
 is_has_distinctive_googlecar: false
 sc_title: "間違えやすい地域"
 sc: [
-    ["../india/", "インド"],
+    ["../india/", "インドのGoa周辺"],
     ]
 ---
 
