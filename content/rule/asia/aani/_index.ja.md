@@ -38,3 +38,8 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+{{% imgref %}}
+旗の画像：By Flag Creator - Own work, CC BY-SA 4.0, https://commons.wikimedia.org/w/index.php?curid=129290377
+{{% /imgref %}}
