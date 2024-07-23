@@ -30,9 +30,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}???{{% ex "https://maps.app.goo.gl/ooWC2YA4aN98LgMz9" %}}
+{{% notice tip %}}山がない平坦な場所で道端にヤシの木が生えている{{% ex "https://maps.app.goo.gl/zToyCmbEiaraGui87" "https://maps.app.goo.gl/TqzxeB7DDb6F1eAi6" %}}。最も標高が高いのは700mほどあるSaddle Peakだが、周りに道はなく恐らくどこからも山は見えない{{% ref "https://en.wikipedia.org/wiki/Saddle_Peak_(Andaman_Islands)" "Saddle Peak" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Andaman_village.jpg#/media/File:Andaman_village.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Andaman_village.jpg" alt="Andaman village.jpg" height="720" width="1080"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Coryphophylax" title="User:Coryphophylax">Harikrishnan S</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=113532455">Link</a></p>
 </div>
 
 {{% /tab %}}
