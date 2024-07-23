@@ -47,11 +47,15 @@ sc: [
 
 
 {{% notice tip %}}
-他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/sJwvj52hZ86iQMcu8" "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。
+他の国ではあまり見かけない形の電柱が多い{{% ex "https://maps.app.goo.gl/sJwvj52hZ86iQMcu8" "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}}（{{% goto "#電柱の形" "インドの電柱" %}}）。一番多いのは「山」や「⚓」の形のような上部が３つに分かれた電柱{{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}。動画は最近の洪水時のインタビュー動画で、うしろに電柱が映っている。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
 <img src="pole.jpg" width="90%" alt="インドの電柱" />
+</div>
+
+<div class="googlemap-if no-margin">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XaiWl2H-3ik?si=iv7tjX3WRcUMGn5N&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 {{% notice tip %}}
