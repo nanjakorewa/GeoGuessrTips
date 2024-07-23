@@ -22,7 +22,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>インドの連邦直轄領</li>
+        <li>インドの連邦直轄領にカバレッジがわずかに存在する</li>
     </ul>
 </div>
 
