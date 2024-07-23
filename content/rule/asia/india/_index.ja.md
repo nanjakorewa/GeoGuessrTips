@@ -504,6 +504,11 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 {{% notice tip %}}
 西沿岸部は最も雨量が多い地域であり、雨に耐えられるように急な屋根が設置される。屋根の上にさらに屋根がある（？）造りも見かける{{% ex "https://maps.app.goo.gl/dLBCA7WoodUtphrL6" "https://maps.app.goo.gl/PRkcvkZY2JkV46347" "https://maps.app.goo.gl/pdkQAsJiYhcVVPVm7" %}}。ポルトガル領インドの一部だったので洋風の建築も見つかることがある。
 {{% /notice %}}
+
+{{% notice note %}}
+{{% goto "../aani/" "アンダマン諸島" %}}がGoaやAssam州に似た雰囲気なので地域を外さないように気を付ける
+{{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Alleppey_river_ride.jpg#/media/File:Alleppey_river_ride.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Alleppey_river_ride.jpg" alt="Alleppey river ride.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bharath_maraboina123&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bharath maraboina123 (page does not exist)">Bharath maraboina123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49516918">Link</a></p>
 </div>
