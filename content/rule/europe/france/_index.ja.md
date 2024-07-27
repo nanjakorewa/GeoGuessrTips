@@ -185,7 +185,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
                 <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
             </ul>
         </li>
-        <li>背の高い松の木は南西の海沿いと地中海側の特定のエリアに多い</li>
+        <li>背の高い松の木は西海岸と地中海側の特定のエリア、とりわけ南西の自然公園の周りのエリアに多い</li>
     </ul>
 </div>
 
@@ -214,7 +214,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% tab "背の高い松の木" %}}
 
 {{% notice tip %}}
-南西の自然公園周辺{{% ex "https://maps.app.goo.gl/9FPVSWS9bSpLvdNG6" "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
+西海岸で見つかる{{% ex "https://maps.app.goo.gl/PxRPeT1tS8FAjbfC7" %}}。とくに南西の自然公園周辺{{% ex "https://maps.app.goo.gl/9FPVSWS9bSpLvdNG6" "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}が多いように思う。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
