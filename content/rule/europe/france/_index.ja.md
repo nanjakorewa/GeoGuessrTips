@@ -279,7 +279,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% tabs %}}
 {{% tab "西海岸" %}}
 {{% notice tip %}}
-西海岸の海沿い、特に離島について白壁で平屋の家が多い{{% ex "https://maps.app.goo.gl/QimqAJD4P657jTA28" "https://maps.app.goo.gl/aTgWzzyrjjFcdZm87" %}}。離島の場合は窓のシャッターに色が付いていることが多い{{% ex "https://maps.app.goo.gl/ekqrbhxKqtuHAMsW7" "https://maps.app.goo.gl/f7YoDYq8c5yrUWLD9" %}}。
+西海岸の海沿い、特に離島について白壁で平屋の家が多い{{% ex "https://maps.app.goo.gl/QimqAJD4P657jTA28" "https://maps.app.goo.gl/aTgWzzyrjjFcdZm87" %}}。離島の場合は窓のシャッターに色が付いていることが多い{{% ex "https://maps.app.goo.gl/ekqrbhxKqtuHAMsW7" "https://maps.app.goo.gl/L1wRU7cPbYt4sQ2b7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./960px-Stockrosen_01.jpg" width="600px">
