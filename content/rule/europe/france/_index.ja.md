@@ -262,6 +262,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <div class="main-desciption area-description">
     <h4 class="section-title">建築</h4>
     <ul class="rule-list">
+        <li>西海岸は白い壁の平屋建てが多く見える</li>
         <li>南東のLuberon周りでは薄い板状の白い岩を積み重ねた石垣などがある</li>
         <li class="no-evidence">Slate{{% ref "https://ja.wikipedia.org/wiki/%E7%B2%98%E6%9D%BF%E5%B2%A9" "粘板岩" %}}という黒色の板状の素材がある地域ほど家の屋根が黒っぽい
             <ul>
@@ -276,6 +277,14 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 </div>
 
 {{% tabs %}}
+{{% tab "西海岸" %}}
+{{% notice tip %}}
+西海岸の海沿い、特に離島について白壁で平屋の家が多い{{% ex "https://maps.app.goo.gl/QimqAJD4P657jTA28" "https://maps.app.goo.gl/aTgWzzyrjjFcdZm87" %}}。離島の場合は窓のシャッターに色が付いていることが多い{{% ex "https://maps.app.goo.gl/ekqrbhxKqtuHAMsW7" "https://maps.app.goo.gl/f7YoDYq8c5yrUWLD9" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./960px-Stockrosen_01.jpg" width="600px">
+</div>
+{{% /tab %}}
 {{% tab "Luberon周辺" %}}
 {{% notice tip %}}
 薄い板状の白い岩を積み重ねた石垣などがある{{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}。
