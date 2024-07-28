@@ -50,6 +50,20 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Port_Blair_city_views_vrvbaan042k24_(110).jpg#/media/File:Port_Blair_city_views_vrvbaan042k24_(110).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Port_Blair_city_views_vrvbaan042k24_%28110%29.jpg" alt="Port Blair city views vrvbaan042k24 (110).jpg" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Vinayaraj" title="User:Vinayaraj">Vinayaraj</a> - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148712667">リンク</a>による</p>
 </div>
 
+{{% notice note %}}
+上の部分はこんな感じ{{% ex "https://maps.app.goo.gl/MvPAusLLoDPUNfH9A" "https://maps.app.goo.gl/CG9u9qpA6Brtwt3y8" "https://maps.app.goo.gl/KxTozreZ4CW4HtH88" %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="poletop.png" width="300px">
+</div>
+
+{{% notice tip %}}
+熱帯モンスーン気候の地域であり、郊外では背の高いヤシの木が見つかる{{% ex "https://maps.app.goo.gl/DbJhtABV7xUnw2oF6" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}。本土の雨が多い地域（Assam・Kerala・Goa）にも生えている。
+
+<div class="googlemap-if no-margin">
+<img src="../india/arecanut_trees_assam.jpg">
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
