@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% notice note %}}
-上の部分はこんな感じ{{% ex "https://maps.app.goo.gl/MvPAusLLoDPUNfH9A" "https://maps.app.goo.gl/CG9u9qpA6Brtwt3y8" "https://maps.app.goo.gl/KxTozreZ4CW4HtH88" %}}
+上の部分はこんな感じ{{% ex "https://maps.app.goo.gl/MfQRFFuC4WPkKxG67" "https://maps.app.goo.gl/MvPAusLLoDPUNfH9A" "https://maps.app.goo.gl/CG9u9qpA6Brtwt3y8" "https://maps.app.goo.gl/KxTozreZ4CW4HtH88" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
