@@ -41,7 +41,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" "https://maps.app.goo.gl/XCC7YEhn9tQ4nVCCA" %}}の時が多い。ボラードは三角柱であり上の部分が<span class="quiz">黄</span>色や赤色に塗られていることが多い{{% ex "https://maps.app.goo.gl/j2k7Z7QBEe2bPAbD9" %}}。
+標識の棒が<span class="quiz">白黒のストライプ</span>{{% ex "https://maps.app.goo.gl/d4EtA21VMyFGWPMJ8" "https://goo.gl/maps/2BeZqHBGKL9cNSAL8" "https://goo.gl/maps/j5zJHVPTsJXq2tU49" "https://goo.gl/maps/uyxnArpja74i3aCNA" "https://maps.app.goo.gl/XCC7YEhn9tQ4nVCCA" %}}の時が多い。ボラードは三角柱であり上の部分が<span class="quiz">黄</span>色や赤色に塗られていることが多い{{% ex "https://maps.app.goo.gl/j2k7Z7QBEe2bPAbD9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
