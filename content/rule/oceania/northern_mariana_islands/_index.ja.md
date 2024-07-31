@@ -49,3 +49,25 @@ Google Carの右前に長いアンテナがある{{% ex "https://maps.app.goo.gl
 
 {{% /tab %}}
 {{% /tabs  %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>数少ない海外神社のひとつ、羅宗神社跡地にストリートビューがある{{% ref "http://www.himoji.jp/jp/publication/pdf/tyosa/No01/siryo1_5.pdf" "海外神社跡地に見る景観の変容" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "羅宗神社跡" %}}
+
+{{% notice tip %}}
+テアニン島にも小さな徒歩のカバレッジが複数あり、羅宗神社跡地も含まれている{{% ex "https://maps.app.goo.gl/aqq68PDnrpNyGEk36" %}}。神社に関する詳細な情報は検索しても見つけられなかった。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cusrey/16730164353/in/photolist-ruosZx-rubWxo/" title="Mt. Lasso Shinto rear fence"><img src="https://live.staticflickr.com/8779/16730164353_0a36b60800_c.jpg" width="90%" alt="Mt. Lasso Shinto rear fence"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% /tabs  %}}
