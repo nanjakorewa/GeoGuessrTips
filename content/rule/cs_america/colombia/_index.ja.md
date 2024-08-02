@@ -263,8 +263,9 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
     <ul class="rule-list">
         <li>タクシーやトラックの屋根または側面にサイドプレートがあり<span class="quiz">都市名</span>が書いてある</li>
         <li>Tierra Bomba島のBocachicaという町を歩いている{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
-        <li>Gorgona島を歩いている</li>
         <li>{{% goto "../brazil/" "ブラジル" %}}と{{% goto "../peru/" "ペルー" %}}の国境付近にLeticiaという町がありGoogle Carが見える{{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
+        <li>Gorgona島を歩いている</li>
+        <li>他の町がら離れた場所にあるSanta Rosalíaという町にわずかにストリートビューがある</li>
     </ul>
 </div>
 
@@ -283,6 +284,14 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 <p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
 </div>
 {{% /tab %}}
+{{% tab "Leticia" %}}
+{{% notice tip %}}
+陸路でつながっているブラジルのTabatingaと経済的な結び付きが強い{{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}。電柱もブラジルにあるような仕切りのある電柱が見られる{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}。観光地として栄えておりタクシーや観光客が多く見つかる。特徴的なGoogle Carが見られる{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "Gorgona" %}}
 {{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。
 {{% /notice %}}
@@ -290,12 +299,11 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 <img src="hotel_in_gorgona.jpg">
 </div>
 {{% /tab %}}
-{{% tab "Leticia" %}}
-{{% notice tip %}}
-陸路でつながっているブラジルのTabatingaと経済的な結び付きが強い{{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}。電柱もブラジルにあるような仕切りのある電柱が見られる{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}。観光地として栄えておりタクシーや観光客が多く見つかる。特徴的なGoogle Carが見られる{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}。
+{{% tab "Santa Rosalía" %}}
+{{% notice tip %}}ぱっと見では見つけづらい
 {{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1722605929321!6m8!1m7!1sN34ZpOe8i46jyOiU0yY-sA!2m2!1d5.141897815010507!2d-70.85717884186371!3f252.56210245552822!4f-1.7194538988717767!5f0.4000000000000002" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
