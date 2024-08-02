@@ -37,7 +37,7 @@ bg: "bg/tf.jpg"
     </li>
     <li>DUR
         <ul>
-            <li>トルコ</li>
+            <li>テュルキエ</li>
         </ul>
     </li>
     <li>BERHENTI

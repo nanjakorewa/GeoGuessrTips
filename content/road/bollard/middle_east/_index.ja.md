@@ -10,7 +10,7 @@ sections: [""]
 add_rule_link: true
 ---
 
-## トルコ
+## テュルキエ
 
 {{% tabs %}}
 {{% tab "赤白" %}}
