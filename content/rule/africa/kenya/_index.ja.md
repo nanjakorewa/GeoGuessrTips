@@ -27,6 +27,7 @@ sc: [
         <li>車の後ろナンバーが<span class="quiz">大き目の黄色</span></li>
         <li>ドメインは<span class="quiz">.ke</span></li>
         <li>言語は<span class="quiz">英語</span>とスワヒリ語が使用される</li>
+        <li>標識は{{% goto "../../europe/united-kingdom/" "イギリス" %}}のものに近い見た目</li>
         <li>Google Carが特徴的</li>
     </ul>
 </div>
@@ -48,10 +49,18 @@ By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyan
 
 
 {{% notice tip %}}
-JETROなどによると、STEERS(ファストフード){{% ex "https://goo.gl/maps/edbjb8SkbTxGjXsg9" %}}、Safaricom（通信）{{% ex "https://goo.gl/maps/vQLYCbnaWJSWLxNU8" "https://goo.gl/maps/YaW8mCgZShWcfTo27" %}}、Java（コーヒーブランド？）などが大き目の現地企業。歩いていると見かけるかも{{% ref "https://www.jetro.go.jp/ext_images/_Reports/01/550ee35766919b1d/20160137_09franchise.pdf" "JETRO - ケニアの企業" %}}？
+JETROなどによると、STEERS(ファストフード){{% ex "https://goo.gl/maps/edbjb8SkbTxGjXsg9" %}}、Safaricom（通信）{{% ex "https://goo.gl/maps/vQLYCbnaWJSWLxNU8" "https://goo.gl/maps/YaW8mCgZShWcfTo27" %}}、Java（コーヒーブランド？）などが大き目の現地企業。とりわけSafaricomは歩いていると見かけるかも{{% ref "https://www.jetro.go.jp/ext_images/_Reports/01/550ee35766919b1d/20160137_09franchise.pdf" "JETRO - ケニアの企業" %}}？
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/datakid23/15722287490/in/photolist-EPuBj-M3Wgn-fd8tC6-4ZKpL5-pXjQjf-HDkBuP-HWVuJL-5w1fkR-HWVvkf-K3j2B9-HrtGPr-HWWfHC-TEkyr5-HWVv2u-Hrqwu5-HrtGXH-Jdy4kY-JjsZqG-JqSeZo-L4QEWc-JjsYSY-K3j2BQ-L8Hdmo-JqSeD3-HruCQx-LbzxxM-JNCVaQ-aoNEuB-JqT1Kf-Jdy4eq-aoNECi-27gwcpf-aoNEAX-GDvemT-27DWe1n-HrqwGu-nqNTrs-GDvHhn-Gb1AUp-F1Z7Ae-SDnB7L-27DWe7e-ag5aVW-Hqxr45-bvmi4E-H9Jkhs-E4gFmC-cgugG7-KnUhTx-KnUjDM" title="SafariCom"><img src="https://live.staticflickr.com/7505/15722287490_d019f2509c_z.jpg" width="640" height="360" alt="SafariCom"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+
+{{% notice tip %}}
+かつて{{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護領だったためか、標識の見た目はイギリスに似ている。ただし、イギリスと形は同じだが背景が緑色になっていることも多い。街中で標識を見かけることはそれほど多くない。
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="The Nairobi-Thika Highway, Kenya"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -60,6 +69,8 @@ Google Carが特徴的で何種類か存在する。車の屋根が見えたり{
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1706661584779!6m8!1m7!1sNKDg-2MfNl-12qbEN5-Y1Q!2m2!1d0.2511892980565865!2d37.92610937796032!3f209.33301176809235!4f-14.499122211949398!5f0.4000000000000002" width="70%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+
+
 {{% /tab %}}
 {{% tab "ボラード" %}}
 <div class="googlemap-if">
