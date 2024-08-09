@@ -22,7 +22,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>インドの連邦直轄領のアンダマン・ニコバル諸島のうち、南アンダマン島にカバレッジがわずかに存在する</li>
+        <li>インドの連邦直轄領のアンダマン・ニコバル諸島のうち、南アンダマン島にストリートビューがわずかに存在する。ニコバル諸島には存在しない。</li>
     </ul>
 </div>
 
@@ -44,7 +44,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-電柱に黒いラベルがある{{% ex "https://maps.app.goo.gl/kkdTxuZfdX8HHcfX7" "https://maps.app.goo.gl/K4szhnx1CHQkvCCc6" "https://maps.app.goo.gl/9Ug27EaXcExjpT6z7" "https://maps.app.goo.gl/daHRDB73xZY6hh786" "https://maps.app.goo.gl/bozjzsu3DDpkBPgK6" %}}？
+電柱に黒いラベルがある{{% ex "https://maps.app.goo.gl/kkdTxuZfdX8HHcfX7" "https://maps.app.goo.gl/K4szhnx1CHQkvCCc6" "https://maps.app.goo.gl/9Ug27EaXcExjpT6z7" "https://maps.app.goo.gl/daHRDB73xZY6hh786" "https://maps.app.goo.gl/bozjzsu3DDpkBPgK6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Port_Blair_city_views_vrvbaan042k24_(110).jpg#/media/File:Port_Blair_city_views_vrvbaan042k24_(110).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Port_Blair_city_views_vrvbaan042k24_%28110%29.jpg" alt="Port Blair city views vrvbaan042k24 (110).jpg" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Vinayaraj" title="User:Vinayaraj">Vinayaraj</a> - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148712667">リンク</a>による</p>
