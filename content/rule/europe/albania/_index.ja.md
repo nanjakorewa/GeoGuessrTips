@@ -77,6 +77,10 @@ CC0
 アルバニアの主要な貿易相手国のひとつである{{% goto "../italy/" "イタリア" %}}と共通点が多い。イタリアと同じくナンバーが両サイドが青色・イタリアとそっくりな形の通り看板{{% ex "https://goo.gl/maps/R2wzdbFMHPenWBg1A" "https://goo.gl/maps/QbBhYdkEDRdD6rF87" %}}・ボラード{{% ex "https://goo.gl/maps/YSJcZFY1WgHc9bHU9" "https://goo.gl/maps/ESN9zYisLL9suCVW7" %}}・シェブロン{{% ex "https://goo.gl/maps/WdA6F96J7rGnBT6V9" "https://goo.gl/maps/62eUutNv4Bap4MNz5" %}}を使っている{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。看板の裏側が黒っぽいことが多い{{% ex "https://goo.gl/maps/v4ETt8wVLeW4V7qNA" "https://goo.gl/maps/BHErUyD6QQX1v4jB8" %}}のもイタリアと同じ。言語は明確に異なるので看板を見ればイタリアでないことは分かるはず。下の通り看板は左が<b>イタリア</b>、右が<b>アルバニア</b>。
 {{% /notice %}}
 
+{{% notice note %}}
+アルバニアはかつて{{% goto "../italy/" "イタリア" %}}の保護国だった{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2" "アルバニア" %}}。現在も貿易の半分近くはイタリアと行っている{{% ref "https://www.researchgate.net/figure/Top-import-destinations-of-Albania-in-2017-2_fig1_338299290" "Free Trade and Gravity Model: Albania as Part of Central European Free Trade Agreement (CEFTA)" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if unclickable no-margin">
 <img src="./street-sign.png" width="90%" />
 </div>
