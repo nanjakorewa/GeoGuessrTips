@@ -45,6 +45,10 @@ sc: [
 ボラードは<span class="quiz">太目の白黒のストライプ</span>で特徴的{{% ex "https://maps.app.goo.gl/AYgkrtqBt2uWs4za8" "https://maps.app.goo.gl/pFCZ2DLYHZSbyYM4A" %}}。車は<span class="quiz">左側</span>通行かつ車のナンバープレートが正面は<span class="quiz">白色</span>でうしろは<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/T8SCHNtQwQayXGKv7" "https://maps.app.goo.gl/Dr5kV5LyB78UC1bP7" "https://maps.app.goo.gl/jcPv9yvWMu1kTmk78" %}}。
 {{% /notice %}}
 
+{{% notice note %}}
+イギリスの海外領土である{{% goto "../gibraltar/" "ジブラルタル" %}}、かつてイギリス領香港だった{{% goto "../../asia/hongkong/" "香港" %}}、旧植民地だった{{% goto "../../africa/kenya/" "ケニア" %}}、イギリス領セイロンだった{{% goto "../../asia/srilanka/" "スリランカ" %}}などイギリスと関係のある地域では黄色のナンバープレートが見つかることが多い。
+{{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <p class="unclickable"><img src="./uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
 <p>By Maxwell Hamilton, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52560349">Link</a>, 画像加工あり</p>
