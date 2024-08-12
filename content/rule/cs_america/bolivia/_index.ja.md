@@ -70,7 +70,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /lb %}}
 
 {{% notice tip %}}
-大きめの石が敷かれた道{{% ex "https://maps.app.goo.gl/gH32EjxXccasJumJ7" "https://maps.app.goo.gl/j8JAj1RJzXmBizpVA" "https://maps.app.goo.gl/agTZoy1TgdHqQ8KDA" "https://maps.app.goo.gl/1ecwg7h3qxPdvTqB8" %}}。また、Google Carは常に白い。
+大きめの石が敷かれた道{{% ex "https://maps.app.goo.gl/DvxBfUG58LDhZWdr8" "https://maps.app.goo.gl/gH32EjxXccasJumJ7" "https://maps.app.goo.gl/YQ1cqSdjDFSthkbq7" "https://maps.app.goo.gl/agTZoy1TgdHqQ8KDA" "https://maps.app.goo.gl/1ecwg7h3qxPdvTqB8" %}}。また、Google Carは常に白い。
 {{% /notice %}}
 
 <div class="googlemap-if">
