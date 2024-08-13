@@ -70,11 +70,20 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /lb %}}
 
 {{% notice tip %}}
-大きめの石が敷かれた道{{% ex "https://maps.app.goo.gl/DvxBfUG58LDhZWdr8" "https://maps.app.goo.gl/gH32EjxXccasJumJ7" "https://maps.app.goo.gl/YQ1cqSdjDFSthkbq7" "https://maps.app.goo.gl/agTZoy1TgdHqQ8KDA" "https://maps.app.goo.gl/1ecwg7h3qxPdvTqB8" %}}。また、Google Carは常に白い。
+大きめの石が敷かれた道{{% ex "https://maps.app.goo.gl/EDBqCWzFZRYCwFb4A" "https://maps.app.goo.gl/DvxBfUG58LDhZWdr8" "https://maps.app.goo.gl/gH32EjxXccasJumJ7" "https://maps.app.goo.gl/YQ1cqSdjDFSthkbq7" "https://maps.app.goo.gl/agTZoy1TgdHqQ8KDA" "https://maps.app.goo.gl/1ecwg7h3qxPdvTqB8" %}}。また、Google Carは常に白い。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="19683170924_abbf5210de_c.jpg" width="90%">
+</div>
+
+
+{{% notice tip %}}
+ボリビアの社会主義政党の旗のカラーリング（黒・白・青や白・青）が街中で見つかることがある{{% ex "https://maps.app.goo.gl/QHkCFLpMxJz34uqU8" "https://maps.app.goo.gl/7jFrcC2KcJ1Bf5BYA" %}}。省略形であるIPSPという文字列も見つかることが多い{{% ex "https://maps.app.goo.gl/xJZFX2c42mtbGXyq9" "https://maps.app.goo.gl/yG5KKH1S85gb7stc9" %}}{{% ref "https://en.wikipedia.org/wiki/Movimiento_al_Socialismo" "Movimiento al Socialismo" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="MAS_party_flag.svg.png" width="70%">
 </div>
 
 
