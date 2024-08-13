@@ -79,11 +79,12 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-ボリビアの社会主義政党の旗のカラーリング（黒・白・青や白・青）が街中で見つかることがある{{% ex "https://maps.app.goo.gl/QHkCFLpMxJz34uqU8" "https://maps.app.goo.gl/7jFrcC2KcJ1Bf5BYA" %}}。省略形であるIPSPという文字列も見つかることが多い{{% ex "https://maps.app.goo.gl/xJZFX2c42mtbGXyq9" "https://maps.app.goo.gl/yG5KKH1S85gb7stc9" %}}{{% ref "https://en.wikipedia.org/wiki/Movimiento_al_Socialismo" "Movimiento al Socialismo" %}}。
+ボリビアの社会主義政党の旗のカラーリング（黒・白・青や白・青）が街中で見つかることがあり{{% ex "https://maps.app.goo.gl/QHkCFLpMxJz34uqU8" "https://maps.app.goo.gl/7jFrcC2KcJ1Bf5BYA" %}}、政党名を省略したIPSPという文字列も見受けられる{{% ex "https://maps.app.goo.gl/NLnUYGsFsgypLDgj6" %}}{{% ref "https://en.wikipedia.org/wiki/Movimiento_al_Socialismo" "Movimiento al Socialismo" %}}。ボリビア国営の通信会社の建物も道端でよく見かける{{% ex "https://maps.app.goo.gl/yR7THDQvknS1XPBt8" "https://maps.app.goo.gl/ttLYN8PP7FyQqBLY7" %}}。ともに似た色なので青・白のペイントがされた建物を見たらボリビアを考えてみる。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="MAS_party_flag.svg.png" width="70%">
+<img src="MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
+<img src="./images.jpg" width="300px" style="margin:10px">
 </div>
 
 
@@ -106,6 +107,15 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 </div>
 {{% /tab %}}
 {{% tab "企業" %}}
+{{% notice tip %}}
+ボリビアの大手通信会社で、道を歩いているとわりと定期的にある建物{{% ex "https://maps.app.goo.gl/oK1SZT1Tq7KRBnKc7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./images.jpg" width="300px">
+</div>
+
+
 {{% notice tip %}}
 Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産をするボリビア最大級の企業{{% ref "https://en.wikipedia.org/wiki/YPFB" "YPFB" %}}。よく見るとたまにひし形のロゴが見つかる{{% ex "https://goo.gl/maps/Rf27qetsfuAR9cu59" "https://goo.gl/maps/SS9fXv4tRPozGrhYA" "https://goo.gl/maps/Ynib632rfF8o1RYZ7" "https://goo.gl/maps/S7MyWKVLM81nzwdK7" "https://goo.gl/maps/g2vNjcrHfXG4rxMz6" "https://goo.gl/maps/3USXVrgB6SyQYFyQ7" "https://goo.gl/maps/tnPKCF9maDbtQbN87" %}}。
 {{% /notice %}}
