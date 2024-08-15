@@ -28,6 +28,7 @@ is_unofficial: true
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
 {{% notice tip %}}
 白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}
 {{% /notice %}}
@@ -45,6 +46,22 @@ is_unofficial: true
 <img src="./bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px">
 <img src="./turkish_republic_northern_cyprus_0.jpg" width="300px">
 </div>
+
+
+{{% notice tip %}}
+ナンバープレートは基本的に白だが、10年以上前の車は黄色のナンバーを付けている可能性もある。
+{{% /notice %}}
+
+{{% lb 50 %}}
+
+![](Cyprus_license_plate_2013_sample.svg)
+
+[Do What the Fxxk You Want to Public License](http://www.wtfpl.net/about/)
+
+![](Cyprus_license_plate_KQL-343.svg)
+
+Public Domain
+{{% /lb %}}
 
 {{% /tab %}}
 {{% /tabs  %}}
