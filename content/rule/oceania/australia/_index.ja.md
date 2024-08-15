@@ -187,15 +187,26 @@ sc: [
 <div class="main-desciption area-description">
     <h4 class="section-title">電柱</h4>
     <ul class="rule-list">
+        <li><span class="quiz">TAZ</span>の電柱には緑色の何かが巻いてある</li>
         <li><span class="quiz">QLD</span>の電柱は青いマークがあることがある{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
         <li><span class="quiz">SA</span>の電柱はいたに挟まれてる感じ{{% ex "https://goo.gl/maps/vstKe9SH58xW61vu5" %}}{{% by "neckoluv" "twitch" %}}</li>
         <li><span class="quiz">NA</span>の電柱は鉄製で梯子のような格子が特徴的{{% by "https://www.plonkit.net/australia" "plonkit" %}}</li>
-        <li><span class="quiz">TAZ</span>の電柱には緑色の何かが巻いてある</li>
         <li><span class="quiz">WAとVIC</span>の電柱には山の形のものがある</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "TAZ（タスマニア）" %}}
+
+{{% notice note %}}
+ファーノー諸島{{% ex "https://maps.app.goo.gl/oeTALTri7v2UqV9DA" %}}やキング島{{% ex "https://maps.app.goo.gl/JNK8qd5CkmonVLdp7" %}}でも同じものが見つかる。
+{{% /notice %}}
+
+
+<div class="googlemap-if">
+<img src="./spring_street_sheffield_20070422.jpg" width="95%">
+</div>
+{{% /tab %}}
 {{% tab "QLD（クィーンズランド州）" %}}
 <div class="googlemap-if">
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">ここで現地から <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> の電柱Tips！<br><br>黒く塗られた番号・青くて丸いマーカー・ちょっと上に傾いた横向きの碍子はすべてクイーンズランド州特有なので覚えよう！ <a href="https://t.co/Jbzg4WThyN">pic.twitter.com/Jbzg4WThyN</a></p>&mdash; Daigo ʅ(･Θ･)ʃ (@Daig_O) <a href="https://twitter.com/Daig_O/status/1654019022021881856?ref_src=twsrc%5Etfw">May 4, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -216,11 +227,6 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682876456537!6m8!1m7!1shd7Z7v-D90HQqyG7kY9b8g!2m2!1d-12.46811351660095!2d130.9896766812721!3f317.6882480346222!4f2.9617063585158974!5f2.8082921195720525" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682876532075!6m8!1m7!1ses2tZaQKpek-hwo6m1yQgQ!2m2!1d-19.4372709042281!2d134.2077962914484!3f155.23248416563104!4f1.7884733824074033!5f3.2930442646673095" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "TAZ（タスマニア）" %}}
-<div class="googlemap-if">
-<img src="./spring_street_sheffield_20070422.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "WAとVIC" %}}
