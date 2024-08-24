@@ -47,7 +47,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い{{% ex "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}。
+標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い{{% ex "https://maps.app.goo.gl/ycd26ZomcZVsHcrK7" "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="2023-06-16-06-39-55.png" width="350px">
@@ -59,7 +59,7 @@ sc: [
 
 
 {{% notice tip %}}
-シェブロンは主に赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/GRaxSVdcfHTPThQdA" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。赤白じゃないものもあるが標識の棒や先端の隙間で国がわかるはず{{% ex "https://maps.app.goo.gl/gSdt9S61jEJ7Q7A67" "https://maps.app.goo.gl/ZQcno7QyTVCDstUt5" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
+シェブロンは主に赤白のものを使うが矢印の先に余白があるのが特徴{{% ex "https://maps.app.goo.gl/czaECXQRsZAMkdnp7" "https://goo.gl/maps/pZbA2J1NB72jgvkx7" "https://maps.app.goo.gl/GRaxSVdcfHTPThQdA" "https://goo.gl/maps/vbiGbUwDQpDqAXSy7" "https://goo.gl/maps/zDFMM7xEBhW5jgtC6" %}}。赤白じゃないものもあるが標識の棒や先端の隙間で国がわかるはず{{% ex "https://maps.app.goo.gl/gSdt9S61jEJ7Q7A67" "https://maps.app.goo.gl/ZQcno7QyTVCDstUt5" %}}。中央分離帯にオレンジと黒の看板があることも多い{{% ex "https://maps.app.goo.gl/LSb4W51nfCmxEYF57" %}}。
 {{% /notice %}}
 
 
@@ -176,7 +176,7 @@ sc: [
 {{% tabs %}}
 {{% tab "道路番号" %}}
 {{% notice tip %}}
-キロメートルマーカーから道路番号が読み取れる{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
+キロメートルマーカーから道路番号が読み取れる{{% ex "https://maps.app.goo.gl/xjAQZs9AdUUSigfg7" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./r/km.png" width="200px">
