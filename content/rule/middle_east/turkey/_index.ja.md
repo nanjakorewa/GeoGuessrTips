@@ -40,7 +40,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/YiE9jtgn6vwXf4GJ6" "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}。国名の『Türkiye』にも『Ü』が使われている{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "トルコが国連における国名表記をテュルキエに変更 - JETRO" %}}。{{% /notice %}}
+トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}。国名の『Türkiye』にも『Ü』が使われている{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "トルコが国連における国名表記をテュルキエに変更 - JETRO" %}}。{{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
