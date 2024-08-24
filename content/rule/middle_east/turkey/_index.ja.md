@@ -218,6 +218,14 @@ sc: [
 <div class="googlemap-if">
 <img src="./invernadero_pepinos.jpg" width="600">
 </div>
+
+{{% notice tip %}}
+以下はAntalyaの郊外の道。道の両サイドにビニールハウスが並んでいる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1724506755727!6m8!1m7!1sEBgi9iNQjVCl0kubPlqc1Q!2m2!1d36.60696561307767!2d31.80308273716008!3f137.79821929548905!4f-10.605999116159524!5f0.4000000000000002" width="95%" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if">
