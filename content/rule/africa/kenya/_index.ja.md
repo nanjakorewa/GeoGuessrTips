@@ -57,7 +57,7 @@ JETROなどによると、STEERS(ファストフード){{% ex "https://goo.gl/ma
 
 
 {{% notice tip %}}
-かつて{{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護領だったためか、標識の見た目はイギリスに似ている。ただし、イギリスと形は同じだが背景が緑色になっていることも多い。街中で標識を見かけることはそれほど多くない。
+かつて{{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護領だったためか、標識の見た目はイギリスに似ている。街中で標識を見かけることはそれほど多くない。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="The Nairobi-Thika Highway, Kenya"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
