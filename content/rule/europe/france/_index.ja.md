@@ -336,7 +336,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
         </li>
         <li><span style="color:#BDE855;">■</span>山岳地帯付近では羊やヤギが多い
             <ul>
-                <li>ピレネー山脈周辺{{% ex "https://maps.app.goo.gl/cUB9GEpNWbKotqkAA" "https://maps.app.goo.gl/91tyidyiM1PJ9f8T6" %}}</li>
+                <li>ピレネー山脈周辺{{% ex "https://maps.app.goo.gl/91tyidyiM1PJ9f8T6" %}}</li>
             </ul>
         </li>
         <li>農作物に若干の地域性がある {{% goto "../../../nature/europe/#農業分布" "ヨーロッパの農業分布" %}}
