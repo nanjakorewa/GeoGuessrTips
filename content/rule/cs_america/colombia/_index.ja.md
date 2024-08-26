@@ -309,8 +309,6 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalía" %}}
-{{% notice tip %}}ぱっと見では見つけづらい
-{{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1722605929321!6m8!1m7!1sN34ZpOe8i46jyOiU0yY-sA!2m2!1d5.141897815010507!2d-70.85717884186371!3f252.56210245552822!4f-1.7194538988717767!5f0.4000000000000002" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
