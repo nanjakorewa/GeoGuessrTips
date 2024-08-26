@@ -97,7 +97,8 @@ sc: [
     <ul class="rule-list">
         <li>植生の分布
             <ul>
-                <li>北東の内陸{{% color "#BDAA60" %}}メタ川沿いは栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
+                <li>メタ川流域～南東のエリア{{% color "#DBB522" %}}アマゾンに近くなり土も赤くなる{{% ex "https://maps.app.goo.gl/dnZU9hzFGR53qcP69" %}}</li>
+                <li>北東の内陸{{% color "#BDAA60" %}}メタ川より北は栄養が少ない土壌{{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}。全体的に平坦でありサバンナのような地域もある。背の高い木は育たない{{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}。</li>
                 <li>最北の海沿い{{% color "#FFF4CE" %}}砂漠があるエリア{{% ex "https://maps.app.goo.gl/oYEpDuVgXBMZHi4z5" %}}</li>
                 <li>北の海沿い{{% color "#FFD37F" %}}白い砂が見えたり街中の道路の角に砂がたまっていることがある{{% ex "https://maps.app.goo.gl/kHgoHB4fA9Dmq6xw7" "https://maps.app.goo.gl/ntuZu5v7CPgBsBGSA" %}}
             </ul>
@@ -114,6 +115,14 @@ sc: [
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
 {{% /notice %}}
+
+{{% /tab %}}
+{{% tab "メタ川より南東" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1724643610859!6m8!1m7!1sBIcNt4xsnUfokjXCybOgHg!2m2!1d4.602275365601597!2d-71.32989609669042!3f286.654692572383!4f0.7336775861570146!5f0.7820865974627469" width="50%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1724643692274!6m8!1m7!1sVt5r5LBc2uuz28unKhKePw!2m2!1d5.142917721291913!2d-70.85523539217012!3f64.50154964757415!4f-6.841048431238178!5f0.7820865974627469" width="50%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% tab "北東の内陸" %}}
