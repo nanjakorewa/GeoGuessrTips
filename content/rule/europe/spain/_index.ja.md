@@ -189,6 +189,27 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
+    <h2 class="section-title">植生</h2>
+    <ul class="rule-list">
+        <li>Pinus pineaという木の分布に偏りがある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Pinus pinea" %}}
+
+{{% notice tip %}}
+分布は{{% goto "https://commons.wikimedia.org/wiki/Category:Pinus_pinea_range_maps#/media/File:Map_Pinus_pinea.png" "このマップ" %}}を参照してください。ちなみに{{% goto "https://commons.wikimedia.org/wiki/Category:SVG_flora_distribution_maps" "Category:SVG flora distribution maps" %}}のページにて他の木の分布も見ることができます。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="pinus_pinea_pompeii.jpg" width="90%"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="File:Map Pinus pinea.png" width="90%"></a></p><p>By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>アルメリア県では温室農業が盛んであり、とりわけ南東の海岸付近の白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}</li>
