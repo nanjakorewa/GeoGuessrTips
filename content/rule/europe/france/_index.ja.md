@@ -186,6 +186,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
             </ul>
         </li>
         <li>背の高い松の木は西海岸と地中海側の特定のエリア、とりわけ南西の自然公園の周りのエリアに多い</li>
+        <li>背の低い松の木は南東の海岸近くやイエール諸島で見つかる</li>
     </ul>
 </div>
 
@@ -214,13 +215,24 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% tab "背の高い松の木" %}}
 
 {{% notice tip %}}
-西海岸で見つかる{{% ex "https://maps.app.goo.gl/PxRPeT1tS8FAjbfC7" %}}。とくに南西の自然公園周辺{{% ex "https://maps.app.goo.gl/9FPVSWS9bSpLvdNG6" "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}が多いように思う。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
+西海岸{{% ex "https://maps.app.goo.gl/PxRPeT1tS8FAjbfC7" %}}、とくに南西の自然公園周辺{{% ex "https://maps.app.goo.gl/9FPVSWS9bSpLvdNG6" "https://maps.app.goo.gl/jBXxvYybmTHs26ma7" "https://maps.app.goo.gl/fxRAUTvGUWWYNhhf7" %}}が多いように思う。南東の海岸でも見つかる{{% ex "https://maps.app.goo.gl/FNetpZUAFy9ht7YM7" %}}。分布は{{% goto "https://commons.wikimedia.org/wiki/File:Pinus_pinaster_range.svg#/media/File:Pinus_pinaster_range.svg" "このマップ" %}}を参照してください。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Panorama-Bosco.JPG#/media/File:Panorama-Bosco.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Panorama-Bosco.JPG" alt="Panorama-Bosco.JPG" width="100%"></a></p><p>By The original uploader was <a href="https://en.wikipedia.org/wiki/it:User:Biopresto" class="extiw" title="w:it:User:Biopresto">Biopresto</a> at <a href="https://en.wikipedia.org/wiki/it:" class="extiw" title="w:it:">Italian Wikipedia</a>. - Transferred from <span class="plainlinks"><a class="external text" href="https://it.wikipedia.org">it.wikipedia</a></span> to Commons., <a href="https://creativecommons.org/licenses/by-sa/3.0/it/deed.en" title="Creative Commons Attribution-Share Alike 3.0 it">CC BY-SA 3.0 it</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=29198796">Link</a></p>
 </div>
 {{% /tab %}}
+{{% tab "背の低い松の木" %}}
+
+{{% notice tip %}}
+南東の海岸付近のエリア{{% ex "https://maps.app.goo.gl/TrSikNGKtP9i8YVz6" %}}やイエール諸島{{% ex "https://maps.app.goo.gl/yDRp4Co2yAsdyZx17" %}}で見つかる。分布は{{% goto "../spain/#植生" "このマップ" %}}を参照してください。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="../spain/pinus_pinea_pompeii.jpg" width="90%">
+</div>
+{{% /tab %}}
+
 {{% /tabs %}}
 
 

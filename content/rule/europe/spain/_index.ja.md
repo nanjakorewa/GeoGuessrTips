@@ -189,9 +189,13 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">植生</h2>
+    <h2 class="section-title" id="植生">植生</h2>
     <ul class="rule-list">
-        <li>Pinus pineaという木の分布に偏りがある</li>
+        <li>Pinus pineaという木の分布に偏りがある
+            <ul>
+                <li>南東{{% ex "https://maps.app.goo.gl/wQoBSYYeZHtecYTN8" "https://maps.app.goo.gl/PmTa2L4TSFPGkxZZ6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -203,8 +207,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="pinus_pinea_pompeii.jpg" width="90%"></p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="File:Map Pinus pinea.png" width="90%"></a></p><p>By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="File:Map Pinus pinea.png" width="87%"></a></p><p style="font-size:0.8em">By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
+<p><img src="pinus_pinea_pompeii.jpg" width="90%" style="margin-top:2em"></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
