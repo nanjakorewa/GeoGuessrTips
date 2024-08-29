@@ -163,6 +163,33 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 
 {{% tabs %}}
+{{% tab "解説動画" %}}
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% tab "🐑" %}}
+{{% notice tip %}}
+穴あき電柱がある＋羊しか見えないならば南島の一番南に押す価値あり（だと思う）{{% ex "https://maps.app.goo.gl/tNfqewLZ868vEcYn6" "https://maps.app.goo.gl/83iyfvj54RZkf54B6" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1719146306598!6m8!1m7!1spWKkJDPD4CTBs85CfGNtAQ!2m2!1d-45.7005414337047!2d168.1103578359879!3f156.90501902332485!4f5.394398567451731!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">植生</h2>
+    <ul class="rule-list">
+        <li>南島のカンタベリー平野では防風林があり灌漑農業をしている{{% ex "https://goo.gl/maps/Ho4ypjhBcnQJA1PK8" "https://goo.gl/maps/ViDwwptpjr8RQAN19" "https://goo.gl/maps/z9NMph5Pkf23vWFX8" "https://goo.gl/maps/vUh5Ak6155z9f7KD7" %}}</li>
+        <li>北島のベイ・オブ・プレンティ地方も防風林がありキウイの生産が盛ん{{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}</li>
+        <li>ダンチクは北島の海沿い、特にオークランド周辺に生えている{{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}</li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
 {{% tab "カンタベリー平野" %}}
 
 {{% notice tip %}}
@@ -186,20 +213,20 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 </div>
 
 {{% /tab %}}
-{{% tab "解説動画" %}}
-<div class="googlemap-if">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ySbsJVexhGs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-{{% /tab %}}
-{{% tab "🐑" %}}
+{{% tab "ダンチク" %}}
+
 {{% notice tip %}}
-穴あき電柱がある＋羊しか見えないならば南島の一番南に押す価値あり（だと思う）{{% ex "https://maps.app.goo.gl/tNfqewLZ868vEcYn6" "https://maps.app.goo.gl/83iyfvj54RZkf54B6" %}}。
+地中海周りに多い植物であり、北島の海沿いに生えていることが多い{{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax(inaturalist)" %}}。最北でクライストチャーチの海沿いに生えている。
 {{% /notice %}}
+
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1719146306598!6m8!1m7!1spWKkJDPD4CTBs85CfGNtAQ!2m2!1d-45.7005414337047!2d168.1103578359879!3f156.90501902332485!4f5.394398567451731!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="arundo_donax_variegata_j.jpg">
 </div>
+
+
 {{% /tab %}}
 {{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>

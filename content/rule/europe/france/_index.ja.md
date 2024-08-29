@@ -173,20 +173,10 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <h4 class="section-title">地形など</h4>
+    <h4 class="section-title">地形</h4>
     <ul class="rule-list">
         <li>北と西は大半が平地だが南と東は高い山も多い</li>
         <li>岩肌が見える険しい山脈がある時はコルシカ島を検討してみる</li>
-        <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
-            <ul>
-                <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
-                <li>{{% goto "../../africa/reunion/" "レユニオン" %}}</li>
-                <li>{{% goto "../../cs_america/martinique/" "マルティニーク" %}}</li>
-                <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
-            </ul>
-        </li>
-        <li>背の高い松の木は西海岸と地中海側の特定のエリア、とりわけ南西の自然公園の周りのエリアに多い</li>
-        <li>背の低い松の木は南東の海岸近くやイエール諸島で見つかる</li>
     </ul>
 </div>
 
@@ -212,6 +202,19 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="./corsica_mountains_mountain_landscape.jpg">
 </div>
 {{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">植生</h4>
+    <ul class="rule-list">
+        <li>背の高い松の木は西海岸と地中海側の特定のエリア、とりわけ南西の自然公園の周りのエリアに多い</li>
+        <li>背の低い松の木は南東の海岸近くやイエール諸島で見つかる</li>
+        <li>ダンチクは暖かい海沿いのエリア</li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "背の高い松の木" %}}
 
 {{% notice tip %}}
@@ -232,17 +235,34 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 <img src="../spain/pinus_pinea_pompeii.jpg" width="90%">
 </div>
 {{% /tab %}}
+{{% tab "ダンチク" %}}
 
+{{% notice tip %}}
+南の海沿いがほとんど{{% ex "https://maps.app.goo.gl/3KbQCsj7KTtBfaBX7" "https://maps.app.goo.gl/rYzm6e9CaZ2A5kgA8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "iNaturalist - Arundo donax" %}}。基本的にダンチクが生えているのは暖かいエリア。たとえば{{% goto "../../middle_east/" "トルコ" %}}ならば南海岸、{{% goto "../../asia/japan/" "日本" %}}ならば南半分、{{% goto "../../oceania/new-zealand/" "ニュージーランド" %}}ならば北島など。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="arundo_donax_habitus_2009december13.jpg" width="60%">
+</div>
+{{% /tab %}}
 {{% /tabs %}}
 
 
 <div class="main-desciption area-description">
-    <h4 class="section-title">市外局番</h4>
+    <h4 class="section-title">市外局番・海外県</h4>
     <ul class="rule-list">
         <li>市外局番の先頭の2桁で地域がわかるかも。01は<span class="quiz">パリ周辺</span>であとは時計回り
             <ul>
                 <li>『<span class="quiz">02 9x</span>』は半島部 (by 市民ジョンさん@コメ欄)</li>
                 <li>『04 95』は離島だが都会ではないので電話番号を見つけるのは難しいかも</li>
+            </ul>
+        </li>
+        <li>フランスの海外県がありそこでもEUと同じ左側が青いナンバープレートを見ることがある
+            <ul>
+                <li>{{% goto "../../n_america/saint-pierre-miquelon/" "サンピエール島・ミクロン島" %}}</li>
+                <li>{{% goto "../../africa/reunion/" "レユニオン" %}}</li>
+                <li>{{% goto "../../cs_america/martinique/" "マルティニーク" %}}</li>
+                <li>参考『<a href="https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E6%B5%B7%E5%A4%96%E7%9C%8C%E3%83%BB%E6%B5%B7%E5%A4%96%E9%A0%98%E5%9C%9F">フランスの海外県・海外領土</a>』</li>
             </ul>
         </li>
     </ul>
