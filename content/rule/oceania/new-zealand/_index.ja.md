@@ -216,7 +216,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% tab "ダンチク" %}}
 
 {{% notice tip %}}
-地中海周りに多い植物であり、北島の海沿いに生えていることが多い{{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax(inaturalist)" %}}。最北でクライストチャーチの海沿いに生えている。
+地中海周りに多い植物であり、北島の海沿いに生えていることが多い{{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax(inaturalist)" %}}。最南でクライストチャーチの海沿いに生えている。
 {{% /notice %}}
 
 <div class="googlemap-if">
