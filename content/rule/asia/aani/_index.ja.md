@@ -22,7 +22,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>インドの連邦直轄領のアンダマン・ニコバル諸島のうち、南アンダマン島にストリートビューがわずかに存在する。ニコバル諸島には存在しない。</li>
+        <li>インドの連邦直轄領のアンダマン・ニコバル諸島のうち、北・南・小アンダマン島にストリートビューが存在する</li>
     </ul>
 </div>
 
@@ -59,7 +59,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-熱帯モンスーン気候の地域であり、郊外では背の高いヤシの木が見つかる{{% ex "https://maps.app.goo.gl/DbJhtABV7xUnw2oF6" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}。本土の雨が多い地域（Assam・Kerala・Goa）にも生えている。
+熱帯モンスーン気候の地域であり、郊外では背の高いヤシの木が見つかる{{% ex "https://maps.app.goo.gl/qF4LGXPJJjizJeRT6" "https://maps.app.goo.gl/uRwNrL5Eb4cL5zj67" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}。本土の雨が多い地域（Assam・Kerala・Goa）にも生えている。
 
 <div class="googlemap-if no-margin">
 <img src="../india/arecanut_trees_assam.jpg">
