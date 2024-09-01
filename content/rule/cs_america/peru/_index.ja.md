@@ -118,7 +118,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 
 
 {{% notice tip %}}
-急カーブのガードレールや縁石にオレンジと黒の縞模様が斜めに描かれている{{% ex "https://maps.app.goo.gl/323HYVWtD73WQRhs9" "https://maps.app.goo.gl/CBrJZ751L9DXeLDRA" "https://maps.app.goo.gl/6KKmEdoJPcWqgLH88" "https://maps.app.goo.gl/WQTNDyuuJQ44mfW47" "https://maps.app.goo.gl/Yi5948wqgjyoXWxR6" %}}
+急カーブのガードレールや縁石にオレンジと黒の縞模様が斜めに描かれている{{% ex "https://maps.app.goo.gl/rFkq3QZm8MHJ99zr6" "https://maps.app.goo.gl/323HYVWtD73WQRhs9" "https://maps.app.goo.gl/CBrJZ751L9DXeLDRA" "https://maps.app.goo.gl/6KKmEdoJPcWqgLH88" "https://maps.app.goo.gl/WQTNDyuuJQ44mfW47" "https://maps.app.goo.gl/Yi5948wqgjyoXWxR6" %}}
 {{% /lb %}}
 
 {{% notice note %}}
