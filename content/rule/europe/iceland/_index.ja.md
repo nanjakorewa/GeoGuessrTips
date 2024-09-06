@@ -38,7 +38,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-溶岩によって作成された地形であり土が黒く針状の草のみが自生する。その性質上、不規則に川や湿地があり、川岸がまっすぐな川はほぼ存在しない。同じく火山由来の地形である{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}・{{% goto "../../africa/reunion/" "レユニオン" %}}・{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}なども土が黒っぽいことが多い。
+溶岩によって作成された地形であり土が黒く針状の草が自生する{{% ex "https://maps.app.goo.gl/Qde2dHpWgHTN6pZC6" %}}。その性質上、不規則に川や湿地があり、川岸がまっすぐな川はほぼ存在しない。同じく火山由来の地形である{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}・{{% goto "../../africa/reunion/" "レユニオン" %}}・{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}なども土が黒っぽいことが多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./iceland-road.png" width="95%">
@@ -46,7 +46,7 @@ sc: [
 
 
 {{% notice tip %}}
-<span class="quiz">黄色</span>のボラードがある{{% ex "https://goo.gl/maps/YufFHvRNSy98MUSt9" "https://goo.gl/maps/xVKs6YeD8Hu6uC8g6" "https://goo.gl/maps/6Bp8nSZan47y3pP77" "https://goo.gl/maps/UJsQoZL2FwLCKUMf6" %}}
+<span class="quiz">黄色</span>のボラードがある{{% ex "https://maps.app.goo.gl/2hUEBkVFiWoeekKA8" "https://goo.gl/maps/xVKs6YeD8Hu6uC8g6" "https://goo.gl/maps/6Bp8nSZan47y3pP77" "https://goo.gl/maps/UJsQoZL2FwLCKUMf6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./iceland-bollard.png" width="95%" alt="アイスランドのボラード" />
@@ -54,7 +54,7 @@ sc: [
 
 
 {{% notice tip %}}
-寒いアイスランドでは部屋の温度を下げないように日光を取り入れる窓がたくさんがあるように見える{{% ex "https://goo.gl/maps/QmqcLmurwQDMfmjk7" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}。また、北欧と異なり木が生えない環境なので木製の壁や屋根はほとんどないように見える{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}。
+寒いアイスランドでは部屋の温度を下げないように日光を取り入れる窓がたくさんがあるように見える{{% ex "https://maps.app.goo.gl/sjUUxmKN94VmZ8JM8" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}。また、北欧と異なり木が生えない環境なので木製の壁や屋根はほとんどないように見える{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="iceland-house.jpg" width="95%" />
