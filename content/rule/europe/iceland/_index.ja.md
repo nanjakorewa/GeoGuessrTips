@@ -12,6 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 is_has_distinctive_bollard: true
+is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../faroe_islands/", "フェロー諸島"],

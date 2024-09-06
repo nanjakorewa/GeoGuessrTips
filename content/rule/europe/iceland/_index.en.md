@@ -11,6 +11,7 @@ flag: "IS.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
+is_has_distinctive_googlecar: true
 ---
 
 
