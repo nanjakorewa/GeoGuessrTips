@@ -46,7 +46,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/9XEjB1NKNEHurgx77" "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/soViqYVja7nWcZxU7" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://maps.app.goo.gl/ZrZbR5Y8Ztcidivk8" %}}。
+路面がコンクリートの時が多い{{% ex "https://maps.app.goo.gl/bzAbDTUjQAZAyjVc8" "https://maps.app.goo.gl/9XEjB1NKNEHurgx77" "https://maps.app.goo.gl/GKcBTJfVCsi7QLcm7" "https://maps.app.goo.gl/uVXaoeXeE3zmTn7BA" "https://maps.app.goo.gl/soViqYVja7nWcZxU7" "https://maps.app.goo.gl/mbkK4xMgfjUusfTL6" "https://maps.app.goo.gl/hU2gZPdzW1eLzAdu7" "https://maps.app.goo.gl/qkkARow4eCe4pryr8" "https://maps.app.goo.gl/miGgjs5U2FU7FgC76" "https://maps.app.goo.gl/ZrZbR5Y8Ztcidivk8" %}}。
 {{% /notice %}}
 
 {{% notice note %}}
@@ -231,7 +231,7 @@ CC0画像を加工
                 <li>屋根がフラットだと南部{{% ref "https://cdn.discordapp.com/attachments/855528394229415966/1031222219348660284/ph_tuktuks_v3.png" "Most common tuk-tuk roofs by AeroGelo#5412" %}}</li>
                 <li class="no-evidence">Motorelaはミンダナオ島北部に多い{{% ref "https://en.wikipedia.org/wiki/Motorized_tricycle_(Philippines)#Motorela" "Motorized tricycle" %}}</li>
                 <li>フラットな屋根のうち少し丸っこい感じで後ろに車っぽいライトがあるならPalawan</li>
-                <li>ミンダナオ島北西部などのイスラム教徒が多い地域では女性の足が見えないようにする工夫がみられる{{% ex "https://maps.app.goo.gl/3kjBjwpJCvRgDpro6" %}}</li>
+                <li>ミンダナオ島北西部のイスラム教徒が多い地域では女性の足が見えないようにする工夫がみられる{{% ex "https://maps.app.goo.gl/3kjBjwpJCvRgDpro6" %}}。女性の服装も特徴的。</li>
             </ul>
         </li>
     </ul>
