@@ -17,5 +17,7 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする（ボラード）
+{{% notice tip %}}
+海外では日本と異なり街灯がない地域も多いです。街灯の代わりに道端に反射板がおかれていることがあり、これを『ボラード』と呼んでいます。ボラードの見た目は国ごとに違うため、これを見れば国を判断することができます。この太くて白いボラードは{{% goto "../../rule/europe/france/" "フランス" %}}特有のボラードです。
+{{% /notice %}}
 </div>

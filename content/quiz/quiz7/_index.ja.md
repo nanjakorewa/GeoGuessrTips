@@ -22,7 +22,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
+{{% notice tip %}}
 コンパスを北に合わせて真下を向くことで、道の角度が地図と一致しているか確認できます！
-
-TODO：動画必要
+日本と違い、海外では名前のついていない交差点もたくさんあります。通り名や交差点名が不明なときは、角度をもとに現在位置が正しいかを判断しましょう。
+{{% /notice %}}
 </div>

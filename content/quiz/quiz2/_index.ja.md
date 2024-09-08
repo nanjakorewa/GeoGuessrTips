@@ -16,5 +16,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-太陽が北側に見えるのでこれは南半球です。３つの中で南半球にある国はオーストラリアのみです！
+{{% notice tip %}}
+太陽が北側に見えるのでこれは南半球です。３つの中で南半球にある国は{{% goto "../../rule/oceania/australia/" "オーストラリア" %}}のみです！はじめに必ず太陽を見て、北半球か南半球かを判断しましょう。
+{{% /notice %}}
+
 </div>
