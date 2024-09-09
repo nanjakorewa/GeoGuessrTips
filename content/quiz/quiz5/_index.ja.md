@@ -17,7 +17,7 @@ pagetype: "quiz"
 
 <div class="googlemap-if ansarea transparent-area">
 {{% notice tip %}}
-{{% goto "../../rule/europe/united-kingdom/" "イギリス" %}}とイギリスに影響を受けた国は左側通行かつ後ろのナンバープレートが黄色です。1841年1月26日から1997年6月30日までイギリス統治下にあった香港もその例外ではありません。{{% goto "../../rule/asia/srilanka/" "スリランカ" %}}や{{% goto "../../rule/africa/kenya/" "ケニア" %}}なども同じ理由で後ろナンバーが黄色です。
+{{% goto "../../rule/europe/united-kingdom/" "イギリス" %}}とイギリスに影響を受けた地域は左側通行かつ後ろのナンバープレートが黄色です。1841年1月26日から1997年6月30日までイギリス統治下にあった香港もその例外ではありません。{{% goto "../../rule/asia/srilanka/" "スリランカ" %}}や{{% goto "../../rule/africa/kenya/" "ケニア" %}}なども同じ理由で後ろナンバーが黄色です。
 {{% /notice %}}
 
 </div>

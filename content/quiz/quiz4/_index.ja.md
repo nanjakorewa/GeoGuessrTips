@@ -17,6 +17,6 @@ pagetype: "quiz"
 
 <div class="googlemap-if ansarea transparent-area">
 {{% notice tip %}}
-{{% goto "../../rule/europe/united-kingdom/" "イギリス" %}}とイギリスに影響を受けた国は左側通行の場所が多いです。ちなみに場所はビートルズのアルバムのジャケットにもなっている{{% goto "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89_(%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3)" "アビー・ロード" %}}です。
+{{% goto "../../rule/europe/united-kingdom/" "イギリス" %}}とイギリスに影響を受けた地域は左側通行の場所が多いです。ちなみに場所はビートルズのアルバムのジャケットにもなっている{{% goto "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%83%BC%E3%83%BB%E3%83%AD%E3%83%BC%E3%83%89_(%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3)" "アビー・ロード" %}}です。
 {{% /notice %}}
 </div>
