@@ -10,6 +10,7 @@ bg: "bg/city.jpg"
 flag: "EC.svg"
 plonkit: true
 jetro_detail: true
+is_has_distinctive_googlecar: true
 is_has_distinctive_bollard: true
 sc_title: "間違えやすい地域"
 sc: [
