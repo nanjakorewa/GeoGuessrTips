@@ -79,7 +79,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 
 
 {{% notice tip %}}
-ボリビアの社会主義政党の旗のカラーリング（黒・白・青や白・青）が街中で見つかることがあり{{% ex "https://maps.app.goo.gl/QHkCFLpMxJz34uqU8" "https://maps.app.goo.gl/7jFrcC2KcJ1Bf5BYA" %}}、政党名を省略したIPSPという文字列も見受けられる{{% ex "https://maps.app.goo.gl/NLnUYGsFsgypLDgj6" %}}{{% ref "https://en.wikipedia.org/wiki/Movimiento_al_Socialismo" "Movimiento al Socialismo" %}}。ボリビア国営の通信会社の建物も道端でよく見かける{{% ex "https://maps.app.goo.gl/yR7THDQvknS1XPBt8" "https://maps.app.goo.gl/ttLYN8PP7FyQqBLY7" %}}。ともに似た色なので青・白のペイントがされた建物を見たらボリビアを考えてみる。
+ボリビアの社会主義政党の旗のカラーリング（黒・白・青や白・青）が街中で見つかることがあり{{% ex "https://maps.app.goo.gl/QHkCFLpMxJz34uqU8" "https://maps.app.goo.gl/7jFrcC2KcJ1Bf5BYA" %}}、政党名を省略したMAS IPSPという文字列も見受けられる{{% ex "https://maps.app.goo.gl/NLnUYGsFsgypLDgj6" %}}{{% ref "https://en.wikipedia.org/wiki/Movimiento_al_Socialismo" "Movimiento al Socialismo" %}}。ボリビア国営の通信会社entelの建物も道端でよく見かける{{% ex "https://maps.app.goo.gl/yR7THDQvknS1XPBt8" "https://maps.app.goo.gl/ttLYN8PP7FyQqBLY7" %}}。ともに似た色なので青・白のペイントがされた建物を見たらボリビアを考えてみる。
 {{% /notice %}}
 
 <div class="googlemap-if">
