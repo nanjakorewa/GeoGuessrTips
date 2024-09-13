@@ -94,7 +94,7 @@ link = "contact"
 
 # navigation
 [[Languages.ja.menu.main]]
-name = "SNSアカウント一覧"
+name = 連絡先など"
 url = "https://lit.link/nanjakorewa"
 weight = 1
 iconname = ""
