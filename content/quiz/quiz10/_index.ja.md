@@ -17,5 +17,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする（植民地の影響）
+{{% notice tip %}}
+看板にフランス語が書かれているため、フランスに関連する国であるチュニジアが答えとなります。
+チュニジアや{{% goto "../../rule/africa/senegal/" "セネガル" %}}はかつて{{% goto "../../rule/europe/france/" "フランス" %}}の植民地でした。他国の植民地や保護国となっていた地域は、宗主国の影響を受けることが多いです。フランスの他には{{% goto "../../rule/europe/united-kingdom/" "イギリス" %}}の影響が色濃く残る国が多く存在します。
+{{% /notice %}}
 </div>

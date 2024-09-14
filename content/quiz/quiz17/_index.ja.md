@@ -17,5 +17,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+{{% notice tip %}}
+木が非常に少なくほとんどが草原によって覆われているこの景色は{{% goto "../../rule/africa/lesotho/" "レソト" %}}の特徴です。
+標高や気候によって木が生えない地域・ヤシの木が多い地域・サバンナの地域などが存在し、それによって地域を絞り込むことができます。
+{{% /notice %}}
 </div>

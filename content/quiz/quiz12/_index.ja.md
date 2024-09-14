@@ -17,5 +17,12 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+{{% notice tip %}}
+赤く細い線で縁取られた警告看板は{{% goto "../../rule/europe/poland/" "ポーランド" %}}の特徴です。
+ジオゲッサーで国を絞り込む上で、特定の国にしか存在しない標識・道路番号の標識や矢印（シェブロン）の看板は大きな手掛かりになります。
+{{% /notice %}}
+<br />
+<div class="googlemap-if">
+<img src="https://geopinning.space/rule/europe/poland/r/PL_road_sign_A-7.svg" width="200px">
+</div>
 </div>

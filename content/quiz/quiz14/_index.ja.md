@@ -17,5 +17,10 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+{{% notice tip %}}
+Googleストリートビューを撮影している車（Google Car）が写真に写りこむことがあり、何が映りこんでいるかによって国が確定することがあります。
+今回のような、右前に黒いテープが巻かれた車は{{% goto "../../rule/africa/ghana/" "ガーナ" %}}の特徴です。
+ガーナ・{{% goto "../../rule/n_america/guatemala/" "グアテマラ" %}}・{{% goto "../../rule/africa/reunion/" "レユニオン島" %}}などが分かりやすい例です。
+ただし、どの国もまれに車が映っていないことはあるため『車が映っていないから100%この国ではない』と断定することはできません。
+{{% /notice %}}
 </div>

@@ -17,5 +17,13 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする（ナンバープレート）
+{{% notice tip %}}
+ナンバープレートの片方・もしくは両方に青い線が入っているのはEUの特徴です。３つの国のうち、EUに加盟しているのはイタリアのみなので{{% goto "../../rule/europe/italy/" "イタリア" %}}が答えとなります。
+{{% /notice %}}
+
+{{% lb 50 %}}
+![](https://geopinning.space/rule/europe/italy/2023-04-12-11-23-23.png)
+
+Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4619704">Wikimedia Commons</a>による
+{{% /lb %}}
 </div>

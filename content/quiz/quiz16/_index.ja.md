@@ -17,5 +17,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする
+{{% notice tip %}}
+白の短い破線の路側帯は{{% goto "../../rule/europe/sweden/" "スウェーデン" %}}の特徴です。
+国によって道路の線の長さ・細さ・色がわずかに異なり、それによって国を絞り込むことができます。
+{{% /notice %}}
 </div>

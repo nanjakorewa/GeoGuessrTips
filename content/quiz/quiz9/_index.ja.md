@@ -17,5 +17,8 @@ pagetype: "quiz"
 {{% maru%}}
 
 <div class="googlemap-if ansarea transparent-area">
-TODO：解説書くところ、テキスト以外も書けるようにする。（言語）
+{{% notice tip %}}
+ギリシャ語が看板に書かれており、ギリシャが答えとなります。『Ελληνικά』のような数学で見る記号などは{{% goto "../../rule/europe/greece/" "ギリシャ" %}}語から来ています。
+看板に書かれている文字から国を特定したり、{{% goto "../../rule/europe/spain/" "スペイン" %}}語圏など範囲を絞り込むことができます。
+{{% /notice %}}
 </div>
