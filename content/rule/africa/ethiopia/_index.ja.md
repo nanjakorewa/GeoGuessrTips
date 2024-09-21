@@ -2,7 +2,7 @@
 title: "エチオピア"
 date: 2023-11-01
 lastmod: 2023-11-01
-weight: 1
+weight: 1000
 draft: false
 keywords: [""]
 sections: [""]
