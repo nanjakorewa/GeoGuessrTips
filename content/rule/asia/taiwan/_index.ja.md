@@ -72,7 +72,7 @@ maps: [
 
 
 {{% notice tip %}}
-道端にコンクリートでできたブロック{{% ex "https://maps.app.goo.gl/JzF7qdLn8QSvughV8" "https://maps.app.goo.gl/5jBAWazYbicuGVuBA" "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や擁壁{{% ex "https://maps.app.goo.gl/VjE9LTvq5EUEz1SBA" "https://goo.gl/maps/Lzh1B1996w7c7QEW9" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。
+道端にコンクリートでできたブロック{{% ex "https://maps.app.goo.gl/5jBAWazYbicuGVuBA" "https://goo.gl/maps/VmBUJKKwheGMmEsC9" "https://goo.gl/maps/uvTvD4tifqDGd78G9" %}}や擁壁{{% ex "https://maps.app.goo.gl/VjE9LTvq5EUEz1SBA" "https://goo.gl/maps/Lzh1B1996w7c7QEW9" "https://goo.gl/maps/Dgb8iZCpehU98Rvn6" "https://goo.gl/maps/WhR8LvsHCMLae7tCA" %}}が見られる。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
