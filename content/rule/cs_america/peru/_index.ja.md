@@ -212,7 +212,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% tab "Chala" %}}
 
 {{% notice tip %}}
-最も北の海沿いには白っぽい砂漠地帯がある。写真の{{% ref "https://maps.app.goo.gl/tXUVNUPNQXKgfC6X6" "Tambo Grande地域" %}}は内陸にあり木が少し生えている{{% ex "https://maps.app.goo.gl/gSyBUYfrmMEndxtS8" "https://maps.app.goo.gl/WbgVnqmtXB1zWTuB7" %}}が、海沿いは全く木が無い場所も多い{{% ex "https://maps.app.goo.gl/tXz8LBADFiJYiUox5" "https://maps.app.goo.gl/C7GWJrdn5rUYgFE1A" "https://maps.app.goo.gl/2VzwvJfGmr7fVYYt6" %}}。
+最も北の海沿いには白っぽい砂漠地帯がある。写真の{{% ref "https://maps.app.goo.gl/tXUVNUPNQXKgfC6X6" "Tambo Grande地域" %}}は内陸にあり木が少し生えている{{% ex "https://maps.app.goo.gl/gSyBUYfrmMEndxtS8" "https://maps.app.goo.gl/WbgVnqmtXB1zWTuB7" %}}が、海沿いは全く木が無い場所も多い{{% ex "https://maps.app.goo.gl/tXz8LBADFiJYiUox5" "https://maps.app.goo.gl/C7GWJrdn5rUYgFE1A" "https://maps.app.goo.gl/2VzwvJfGmr7fVYYt6" %}}。ちなみに石油パイプラインのようなものがある場合はかなり上の方に攻めて良いかもしれない{{% ref "https://www.researchgate.net/figure/Location-of-Peruvian-crude-oil-red-outcrop-green-and-seep-blue-samples-for-which_fig2_341386832" "Location of Peruvian crude oil (red), outcrop (green) and seep (blue)" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
