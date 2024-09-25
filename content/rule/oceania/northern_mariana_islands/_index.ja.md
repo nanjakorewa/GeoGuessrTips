@@ -62,7 +62,7 @@ Google Carの右前に長いアンテナがある{{% ex "https://maps.app.goo.gl
 {{% tab "羅宗神社跡" %}}
 
 {{% notice tip %}}
-テアニン島にも小さな徒歩のカバレッジが複数あり、羅宗神社跡地も含まれている{{% ex "https://maps.app.goo.gl/aqq68PDnrpNyGEk36" %}}。神社に関する詳細な情報は検索しても見つけられなかった。
+テニアン島 にも小さな徒歩のカバレッジが複数あり、羅宗神社跡地も含まれている{{% ex "https://maps.app.goo.gl/aqq68PDnrpNyGEk36" %}}。神社に関する詳細な情報は検索しても見つけられなかった。
 {{% /notice %}}
 
 <div class="googlemap-if">
