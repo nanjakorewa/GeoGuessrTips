@@ -40,7 +40,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-カメラの位置が<span class="quiz">低い</span>{{% ex "https://maps.app.goo.gl/qQ76U6f7Hwnjis5f8" "https://maps.app.goo.gl/QhtJHMs5juu2LqCa8" "https://maps.app.goo.gl/MfosGvWC84dMdt9i6" "https://maps.app.goo.gl/mELD3wmgXmekh5RX9" %}}。ボラードがなんとなく大きく感じる。
+スイスと{{% goto "../liechtenstein/" "リヒテンシュタイン" %}}はカメラの位置が<span class="quiz">低い</span>{{% ex "https://maps.app.goo.gl/qQ76U6f7Hwnjis5f8" "https://maps.app.goo.gl/QhtJHMs5juu2LqCa8" "https://maps.app.goo.gl/MfosGvWC84dMdt9i6" "https://maps.app.goo.gl/mELD3wmgXmekh5RX9" %}}。ボラードがなんとなく大きく感じる。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe width="90%" height="300" src="https://www.youtube.com/embed/r0hj_7O90EY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
