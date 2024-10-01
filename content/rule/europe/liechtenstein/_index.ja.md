@@ -22,6 +22,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.li</span></li>
         <li>ナンバープレートが<span class="quiz">黒い</span></li>
+        <li>バス停やバスが<span class="quiz">黄緑色</span></li>
     </ul>
 </div>
 
@@ -29,12 +30,8 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートが黒い{{% ex "https://maps.app.goo.gl/acZNNbDcy912Rx53A" "https://maps.app.goo.gl/8YYkH1Phhma6gaRD9" "https://maps.app.goo.gl/L8LEdUA1QnRtH8Fb7" %}}。
+ナンバープレートが黒い{{% ex "https://maps.app.goo.gl/acZNNbDcy912Rx53A" "https://maps.app.goo.gl/8YYkH1Phhma6gaRD9" "https://maps.app.goo.gl/L8LEdUA1QnRtH8Fb7" %}}が白っぽく見えることもある。
 {{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<img src="./liechtenstein_lie_mobil_volvo.jpg" width="95%">
-</div>
 
 {{% lb %}}
 ![](liechtenstein_license_plate.jpg)
@@ -44,7 +41,22 @@ Public domain
 
 
 {{% notice tip %}}
-{{% goto "../switzerland/" "スイス" %}}と共通点が多く、横断歩道が黄色かつ横断歩道の標識に7本の線がある{{% ex "https://maps.app.goo.gl/XkVbnTxxcEwqkafe7" %}}。また、幹線道路の多くに黄色い自転車道が走っている。
+リヒテンシュタインバス（LIEmobil）の黄緑色の車体やバス停が見つかる{{% ex "https://maps.app.goo.gl/2ud3Pvw2iKzZb5hP9" "https://maps.app.goo.gl/xjEAGT9rf66T5Dmj9" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。
+{{% /notice %}}
+
+
+
+<div class="googlemap-if no-margin">
+<img src="./liechtenstein_lie_mobil_volvo.jpg" width="95%">
+</div>
+
+<div class="googlemap-if no-margin">
+<img src="LIEmobil_logo.png" width="400px">
+</div>
+
+
+{{% notice tip %}}
+{{% goto "../switzerland/" "スイス" %}}と共通点が多く、横断歩道が黄色かつ横断歩道の標識に7本の線がある{{% ex "https://maps.app.goo.gl/XkVbnTxxcEwqkafe7" %}}。また、幹線道路の多くに黄色い自転車道が走っている{{% ex "https://maps.app.goo.gl/kWZweqjGcazhE52r9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -52,7 +64,7 @@ Public domain
 </div>
 
 {{% notice tip %}}
-ドイツ語圏であり『GENERELL』と書かれている。
+ドイツ語圏であり『GENERELL』と書かれている{{% ex "https://maps.app.goo.gl/afCpBxR51EcWj8p39" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
