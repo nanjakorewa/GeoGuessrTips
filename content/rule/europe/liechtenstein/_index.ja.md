@@ -2,7 +2,7 @@
 title: "リヒテンシュタイン"
 date: 2024-07-11
 lastmod: 2024-07-11
-weight: 10
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]
@@ -41,7 +41,7 @@ Public domain
 
 
 {{% notice tip %}}
-リヒテンシュタインバス（LIEmobil）の黄緑色の車体やバス停が見つかる{{% ex "https://maps.app.goo.gl/2ud3Pvw2iKzZb5hP9" "https://maps.app.goo.gl/xjEAGT9rf66T5Dmj9" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。
+リヒテンシュタインバス（LIEmobil）の黄緑色の車体やバス停が見つかる{{% ex "https://maps.app.goo.gl/2ud3Pvw2iKzZb5hP9" "https://maps.app.goo.gl/xjEAGT9rf66T5Dmj9" "https://maps.app.goo.gl/MZDSGn26FUNESZgo9" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段であり割と数も多い。
 {{% /notice %}}
 
 
