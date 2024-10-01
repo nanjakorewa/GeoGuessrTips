@@ -30,7 +30,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートが黒い{{% ex "https://maps.app.goo.gl/acZNNbDcy912Rx53A" "https://maps.app.goo.gl/8YYkH1Phhma6gaRD9" "https://maps.app.goo.gl/L8LEdUA1QnRtH8Fb7" %}}が白っぽく見えることもある。
+ナンバープレートが黒く中央に赤色のロゴがうっすら見える{{% ex "https://maps.app.goo.gl/acZNNbDcy912Rx53A" "https://maps.app.goo.gl/8YYkH1Phhma6gaRD9" "https://maps.app.goo.gl/L8LEdUA1QnRtH8Fb7" %}}。しかし労働者の半分は国外から来ており、隣国のナンバープレートも少なくないので注意{{% ex "https://maps.app.goo.gl/q9wxj5bXvD12BG2w6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3#%E7%B5%8C%E6%B8%88" "リヒテンシュタイン#経済" %}}。
 {{% /notice %}}
 
 {{% lb %}}
@@ -41,7 +41,7 @@ Public domain
 
 
 {{% notice tip %}}
-リヒテンシュタインバス（LIEmobil）の黄緑色の車体やバス停が見つかる{{% ex "https://maps.app.goo.gl/2ud3Pvw2iKzZb5hP9" "https://maps.app.goo.gl/xjEAGT9rf66T5Dmj9" "https://maps.app.goo.gl/MZDSGn26FUNESZgo9" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段であり割と数も多い。
+リヒテンシュタインバス（LIEmobil）の黄緑色の車体やバス停が見つかる{{% ex "https://maps.app.goo.gl/SF7vCRdJFJSZ6zVz8" "https://maps.app.goo.gl/XKHcgqb2ZQcLGigs7" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段でありほとんどの町にバス停がある。バス停には銀色のゴミ箱が設置されていることも多く分かりやすい{{% ex "https://maps.app.goo.gl/1KKFRRpRz8tiWeBw6" "https://maps.app.goo.gl/wa2ggr33jVjBFZGQ8" %}}。
 {{% /notice %}}
 
 
