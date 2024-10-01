@@ -1,0 +1,6 @@
+github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20240925042433-d2b5d05977e8 h1:cyhgsUNA0Kr172aab/Iy/K11KODP/lTzlOxuNY497vA=
+github.com/gethugothemes/hugo-modules/seo-tools/basic-seo v0.0.0-20240925042433-d2b5d05977e8/go.mod h1:Q8dPgjamV7pxwKSQyWV21Xwh5CGi23/k+M8HPTphYbs=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200 h1:SmpwwN3DNzJWbV+IT8gaFu07ENUFpCvKou5BHYUKuVs=
+github.com/gohugoio/hugo-mod-bootstrap-scss/v5 v5.20300.20200/go.mod h1:kx8MBj9T7SFR8ZClWvKZPmmUxBaltkoXvnWlZZcSnYA=
+github.com/gohugoio/hugo-mod-jslibs-dist/popperjs/v2 v2.21100.20000/go.mod h1:mFberT6ZtcchrsDtfvJM7aAH2bDKLdOnruUHl0hlapI=
+github.com/twbs/bootstrap v5.3.2+incompatible/go.mod h1:fZTSrkpSf0/HkL0IIJzvVspTt1r9zuf7XlZau8kpcY0=

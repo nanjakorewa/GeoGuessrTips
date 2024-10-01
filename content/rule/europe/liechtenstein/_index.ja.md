@@ -8,10 +8,14 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "LI.svg"
-flag_height: "400px"
+flag_height: "440px"
 no_detaile_info: true
-jetro_detail: false
-is_unofficial: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../switzerland/", "スイス"],
+    ["../austria/", "オーストリア"],
+    ["../../asia/japan/", "日本"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -27,7 +31,7 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートが黒い。
+ナンバープレートが黒い{{% ex "https://maps.app.goo.gl/8YYkH1Phhma6gaRD9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

@@ -15,6 +15,7 @@ plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../austria/", "オーストリア"],
+    ["../liechtenstein/", "リヒテンシュタイン"],
     ["../../asia/japan/", "日本"],
     ]
 ---
@@ -59,7 +60,7 @@ sc: [
 {{% /notice %}}
 
 {{% notice note %}}
-同じ特徴を持つ{{% goto "../liechtenstein/" "リヒテンシュタイン" %}}は2024年4月時点では公式カバレッジがない。
+{{% goto "../liechtenstein/" "リヒテンシュタイン" %}}は横断歩道を含め多くの共通点がある。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -76,7 +77,7 @@ sc: [
 
 
 {{% notice tip %}}
-頭が丸い円柱型のボラードはスイス以外ではまず見られない{{% ex "https://maps.app.goo.gl/ENYEwyP5FCL3RmMX6" "https://maps.app.goo.gl/wc5CGoqKkhq2dm5d6" %}}。
+頭が丸い円柱型のボラードはスイスと{{% goto "../liechtenstein/" "リヒテンシュタイン" %}}以外ではまず見られない{{% ex "https://maps.app.goo.gl/ENYEwyP5FCL3RmMX6" "https://maps.app.goo.gl/wc5CGoqKkhq2dm5d6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

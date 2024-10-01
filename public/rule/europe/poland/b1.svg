@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="90.5"
+   height="661.49487"
+   id="svg3681">
+  <title
+     id="title4335">U-1a</title>
+  <defs
+     id="defs3683" />
+  <g
+     transform="translate(-76,-34.350834)"
+     id="layer1">
+    <path
+       d="m 77,695.86218 0,-631.249998 73.5,-29.249999 15,0 0,660.499997"
+       id="path4308"
+       style="fill:#fffffe;fill-opacity:1;stroke:#000000;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    <path
+       d="m 77.958523,321.7546 0,-148.09413 86.554287,-34.83673 0,147.87438 -86.554287,35.05648 z"
+       id="path4310"
+       style="fill:#e5322c;fill-opacity:1;stroke:none" />
+    <path
+       d="m 106.41957,162.20313 29.69849,-11.93243 0,147.8958 -29.69849,12.1755 0,-148.13887 z"
+       id="path4260"
+       style="fill:#ea5b58;fill-opacity:1;stroke:#000000;stroke-width:1px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+</svg>

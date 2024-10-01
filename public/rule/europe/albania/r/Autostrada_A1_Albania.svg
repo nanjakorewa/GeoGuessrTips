@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"	"http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.0"
+   width="300"
+   height="300">
+  <path
+     d="M 25,25 150,5 275,25 295,150 275,275 150,295 25,275 5,150 25,25 z"
+     id="pathOttagono"
+     style="fill:#08842c;stroke:#ffffff;stroke-width:10" />
+  <path
+     d="m 208.55089,98.8 18.48,0 0,102.4 -21.6,0 0,-69.68 -17,0 0,-17.04 c 14.24,0 20.12,-3.24 20.12,-15.68 z m -88.38178,22.84 14.36,43.52 -27.2,0 12.84,-43.52 z m -13.08,-22.84 -34.120005,102.4 23.72,0 5.080005,-17.24 38.95999,0 5.72,17.24 23.80001,0 -36.16,-102.4 -27,0 z"
+     id="pathA1"
+     style="fill:#ffffff" />
+</svg>

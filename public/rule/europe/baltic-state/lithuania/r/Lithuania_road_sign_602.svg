@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="RU_road_sign_6.9.1_E.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   version="1.1"
+   id="svg2"
+   height="1152"
+   width="1836">
+  <defs
+     id="defs4">
+    <clipPath
+       id="clip8">
+      <path
+         d="m 124.85156,253.47266 h 85.03906 v 72.82421 h -85.03906 z m 0,0"
+         id="path12040" />
+    </clipPath>
+    <clipPath
+       id="clip9">
+      <path
+         d="m 176,264 h 28 v 62.29687 h -28 z m 0,0"
+         id="path12043" />
+    </clipPath>
+    <clipPath
+       id="clip5">
+      <path
+         d="m 125,180 h 84.89062 v 52 H 125 Z m 0,0"
+         id="path12031" />
+    </clipPath>
+    <clipPath
+       id="clip6">
+      <path
+         d="m 148,198 h 39 v 34.60937 h -39 z m 0,0"
+         id="path12034" />
+    </clipPath>
+    <clipPath
+       id="clip7">
+      <path
+         d="m 124.85156,179.25781 h 85.03906 v 53.35156 h -85.03906 z m 0,0"
+         id="path12037" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     inkscape:guide-bbox="true"
+     showguides="true"
+     inkscape:snap-object-midpoints="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-bbox="true"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-9"
+     inkscape:window-x="-9"
+     inkscape:window-height="1001"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="g14238"
+     inkscape:document-units="px"
+     inkscape:cy="508.14895"
+     inkscape:cx="358.47906"
+     inkscape:zoom="0.35355339"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(2203,-1765.3622)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <path
+       transform="translate(-0.54999995,-98.18782)"
+       d="m -2156.543,1865.1406 c -24.4868,0 -44.1992,19.7124 -44.1992,44.1992 v 1061.0157 c 0,24.4868 19.7124,44.1992 44.1992,44.1992 h 1743.70316 c 24.4868,0 44.19922,-19.7124 44.19922,-44.1992 V 1909.3398 c -10e-6,-24.4868 -19.71242,-44.1992 -44.19922,-44.1992 z"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:4.60283;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect14226" />
+    <path
+       sodipodi:nodetypes="sssssssss"
+       id="path14220"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#0d69e1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.543;marker:none;enable-background:accumulate"
+       d="m -2157,1778.3622 c -18.282,0 -33,14.718 -33,33 v 1060 c 0,18.282 14.718,33 33,33 h 1744 c 18.282,0 33,-14.718 33,-33 v -1060 c 0,-18.282 -14.718,-33 -33,-33 z" />
+    <path
+       sodipodi:nodetypes="ssssssssssssssssss"
+       id="path14053"
+       d="m -2157,1766.3622 c -24.9127,0 -45,20.0873 -45,45 v 1060 c 0,24.9127 20.0873,45 45,45 h 1744 c 24.9127,0 45,-20.0873 45,-45 v -1060 c 0,-24.9127 -20.0873,-45 -45,-45 z m 0,2 h 1744 c 23.8393,0 43,19.1607 43,43 v 1060 c 0,23.8393 -19.1607,43 -43,43 h -1744 c -23.8393,0 -43,-19.1607 -43,-43 v -1060 c 0,-23.8393 19.1607,-43 43,-43 z"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+    <g
+       style="fill:#e9afaf"
+       transform="matrix(15.472969,0,0,15.472968,-1919.3243,-4009.611)"
+       id="g13606"
+       clip-rule="nonzero"
+       clip-path="url(#clip8)" />
+    <g
+       style="fill:#e9afaf"
+       transform="matrix(15.472969,0,0,15.472968,-1919.3243,-4009.611)"
+       id="g13610"
+       clip-rule="nonzero"
+       clip-path="url(#clip9)" />
+    <g
+       transform="translate(8,-13.93572)"
+       id="g14246" />
+    <g
+       transform="translate(-2072.7589,-22)"
+       id="g14295">
+      <g
+         clip-path="url(#clip5)"
+         clip-rule="nonzero"
+         id="g13084"
+         transform="matrix(21.556129,0,0,21.556129,-2820.5574,-2073.8584)" />
+      <g
+         clip-path="url(#clip6)"
+         clip-rule="nonzero"
+         id="g13088"
+         transform="matrix(21.556129,0,0,21.556129,-2820.5574,-2073.8584)">
+        <path
+           transform="matrix(0.04639052,0,0,0.04639052,226.97797,92.672974)"
+           d="m -1286.9141,2293.0938 -68.373,119.7382 h 47.8262 v 91.3614 c -88.013,11.3356 -156.4043,86.8296 -156.4043,177.9238 0,90.9618 68.3802,166.4967 156.4043,177.8379 v 145.9433 h 45.9765 V 2859.957 c 88.0279,-11.3376 156.4121,-86.8752 156.4121,-177.8398 0,-91.0968 -68.3953,-166.5916 -156.4121,-177.9238 v -91.3614 h 47.8282 z m 2.4453,254.0019 c 74.8262,0 135.0215,60.114 135.0215,135.0215 0,74.7158 -60.2097,134.9355 -135.0215,134.9355 -74.8116,0 -135.0195,-60.2197 -135.0195,-134.9355 0,-74.9075 60.1935,-135.0215 135.0195,-135.0215 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:44.406;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+           id="path14315" />
+      </g>
+      <path
+         transform="translate(2072.2089,-76.18782)"
+         d="m -845.34961,2614.8359 v 47.8262 h -285.02929 v 45.8926 h 285.02929 v 47.8281 l 119.73633,-73.2578 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:21.5561;stroke-opacity:1"
+         id="path13150" />
+      <path
+         transform="translate(2072.2089,-76.18782)"
+         d="m -1721.1523,2614.8359 -119.7383,68.2891 119.7383,73.2578 v -47.8281 h 283.0918 v -45.8926 h -283.0918 z"
+         style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:21.5561"
+         id="path13152" />
+      <path
+         transform="translate(8.0000001,-13.93572)"
+         sodipodi:nodetypes="sssssssss"
+         id="path13801"
+         d="m 779.31154,1859.2519 c -7.4071,0 -13.5029,5.7992 -13.5029,13.0311 v 120.0321 c 0,7.2319 6.0958,13.0288 13.5029,13.0288 h 257.85876 c 7.407,0 13.514,-5.7957 13.514,-13.0288 V 1872.283 c 0,-7.2331 -6.107,-13.0311 -13.514,-13.0311 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#009445;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99924;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000" />
+      <path
+         transform="translate(8.0000001,-13.93572)"
+         d="m 779.31114,1860.2521 c -6.8887,0 -12.5033,5.3582 -12.5033,12.0292 v 22.5733 h 5.7586 v -22.4817 c 0,-3.9008 3.3275,-7.0421 7.4581,-7.0421 h 22.3945 v -5.0787 z m 44.5944,0 v 5.0787 h 42.5437 v -5.0787 z m 64.0304,0 v 5.0787 h 42.5414 v -5.0787 z m 64.028,0 v 5.0787 h 42.5436 v -5.0787 z m 64.03246,0 v 5.0787 h 20.9252 c 4.1185,0 7.4582,3.1407 7.4582,7.0421 v 22.4817 h 5.3045 v -22.5733 c 0,-6.671 -5.6258,-12.0292 -12.5145,-12.0292 z m -249.18856,56.0913 v 30.329 h 5.7586 v -30.329 z m 277.57196,0 v 30.329 h 5.3045 v -30.329 z m -277.57196,51.8155 v 24.1545 c 0,6.671 5.6146,12.0314 12.5033,12.0314 h 23.1079 v -5.4455 h -22.3945 c -4.1184,0 -7.4581,-3.1396 -7.4581,-7.0421 v -23.6983 z m 277.57196,0 v 23.6983 c 0,3.9019 -3.3275,7.0421 -7.4582,7.0421 h -20.9252 v 5.4455 h 21.1734 c 6.8887,0 12.5145,-5.3604 12.5145,-12.0314 v -24.1545 z m -220.47426,30.7404 v 5.4455 h 42.5437 v -5.4455 z m 64.0304,0 v 5.4455 h 42.5414 v -5.4455 z m 64.028,0 v 5.4455 h 42.5436 v -5.4455 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99924;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+         id="path13803" />
+      <g
+         id="g14238"
+         transform="translate(205.23463)">
+        <g
+           style="font-style:normal;font-weight:normal;font-size:166.882px;line-height:1.25;font-family:sans-serif;letter-spacing:-2.49px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.17207"
+           id="text14311"
+           aria-label="VILNIUS">
+          <path
+             id="path14359"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 941.12927,2504.0615 h 21.02713 l 25.69983,-93.4539 h -17.52261 l -18.69078,70.0904 -18.69079,-70.0904 h -18.69078 z" />
+          <path
+             id="path14361"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1012.0804,2504.0615 h 16.3544 v -93.4539 h -16.3544 z" />
+          <path
+             id="path14363"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1056.2,2504.0615 h 58.4087 v -14.0181 h -42.0543 v -79.4358 H 1056.2 Z" />
+          <path
+             id="path14365"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1136.6347,2504.0615 h 16.3545 v -67.7541 l 35.0452,67.7541 h 18.6908 v -93.4539 h -16.3545 v 66.5859 l -35.0452,-66.5859 h -18.6908 z" />
+          <path
+             id="path14367"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1233.4213,2504.0615 h 16.3544 v -93.4539 h -16.3544 z" />
+          <path
+             id="path14369"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1277.5409,2410.6076 v 63.0814 c 0,1.1682 1.1682,31.5407 33.8771,31.5407 32.7088,0 33.877,-30.3725 33.877,-31.5407 v -63.0814 h -16.3544 v 64.2496 c 0,12.8499 -10.5136,17.5226 -17.5226,17.5226 -7.0091,0 -17.5227,-4.6727 -17.5227,-17.5226 v -64.2496 z" />
+          <path
+             id="path14371"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1372.6586,2490.0434 c 0,0 15.6869,16.3545 36.714,16.3545 23.3635,0 35.8797,-17.5226 35.8797,-29.2044 0,-14.0181 -10.1798,-23.3635 -26.5343,-26.868 -12.8499,-2.6701 -24.5316,-4.172 -24.5316,-13.1837 0,-4.5058 3.5045,-13.6843 17.5226,-13.6843 12.1824,0 20.6934,9.3454 20.6934,9.3454 l 10.8473,-11.6817 c 0,0 -15.1863,-12.8499 -31.5407,-12.8499 -19.859,0 -33.877,12.8499 -33.877,29.2043 0,7.1759 3.1707,22.3622 29.2043,26.2005 20.8603,3.0039 21.0271,10.8473 21.0271,14.5187 v 0.1669 c 0,3.5045 -4.0051,12.8499 -18.357,12.8499 -16.3544,0 -25.5329,-11.0142 -25.5329,-11.0142 z" />
+        </g>
+        <path
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e3000f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99925;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+           d="m 288.08854,1845.3157 c -7.4071,0 -13.50292,5.7992 -13.50292,13.031 v 120.0325 c 0,7.2319 6.09588,13.0288 13.50292,13.0288 h 201.4109 c 7.40704,0 13.5141,-5.7957 13.5141,-13.0288 v -120.0325 c 0,-7.2331 -6.10701,-13.031 -13.5141,-13.031 z"
+           id="path13797"
+           sodipodi:nodetypes="sssssssss" />
+        <path
+           d="m 288.08846,1846.3163 c -6.88865,0 -12.50329,5.3583 -12.50329,12.0291 v 23.4121 h 5.75853 v -23.3204 c 0,-3.9007 3.32765,-7.0421 7.45814,-7.0421 h 18.40271 v -5.0787 z m 40.60268,0 v 5.0787 h 24.98645 v -5.0787 z m 46.47304,0 v 5.0787 h 24.98644 v -5.0787 z m 46.47303,0 v 5.0787 h 24.98645 v -5.0787 z m 46.47528,0 v 5.0787 h 21.13773 c 4.11856,0 7.45814,3.1408 7.45814,7.0421 v 23.3204 h 5.30455 v -23.4121 c 0,-6.6708 -5.62583,-12.0291 -12.51446,-12.0291 z m -192.52732,56.9301 v 30.329 h 5.75853 v -30.329 z m 221.12319,0 v 30.329 h 5.30455 v -30.329 z m -221.12319,51.8156 v 23.3159 c 0,6.671 5.61464,12.0314 12.50329,12.0314 h 19.11609 v -5.4455 h -18.40271 c -4.11837,0 -7.45814,-3.1395 -7.45814,-7.0422 v -22.8596 z m 221.12319,0 v 22.8596 c 0,3.9021 -3.32741,7.0422 -7.45814,7.0422 h -21.13773 v 5.4455 h 21.38596 c 6.88863,0 12.51446,-5.3604 12.51446,-12.0314 v -23.3159 z m -168.01722,29.9018 v 5.4455 h 24.98645 v -5.4455 z m 46.47304,0 v 5.4455 h 24.98644 v -5.4455 z m 46.47303,0 v 5.4455 h 24.98645 v -5.4455 z"
+           style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.99925;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000"
+           id="path13799" />
+        <g
+           style="font-style:normal;font-weight:normal;font-size:166.882px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.17207"
+           id="text14232"
+           aria-label="A1">
+          <path
+             id="path14374"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:4.17207;fill:#ffffff"
+             d="m 353.23415,1932.8115 11.68174,-39.7179 11.68174,39.7179 z m 2.33635,-60.745 -30.37252,93.4539 h 17.52261 l 5.84087,-18.6908 h 32.70887 l 5.84087,18.6908 h 17.52261 l -30.37253,-93.4539 z" />
+          <path
+             id="path14376"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:4.17207;fill:#ffffff"
+             d="m 418.02348,1893.7611 5.50711,7.176 12.51615,-7.8435 v 72.4268 h 16.35444 v -93.4539 h -14.01809 z" />
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:166.882px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.17207"
+           id="text14250"
+           aria-label="E85">
+          <path
+             id="path15032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 595.94932,1965.0891 h 59.57688 v -14.0181 h -43.22244 v -28.0362 h 33.87705 v -14.018 h -33.87705 v -22.1953 h 42.05427 v -15.1863 h -58.40871 z" />
+          <path
+             id="path15034"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 712.77716,1870.467 c -15.18626,0 -29.20435,8.1772 -29.20435,24.5317 0,16.3544 16.35443,21.0271 16.35443,21.0271 0,0 -18.69078,7.009 -18.69078,23.3635 0,11.6817 8.17722,26.868 31.5407,26.868 23.36348,0 31.5407,-15.1863 31.5407,-26.868 0,-16.3545 -18.69079,-23.3635 -18.69079,-23.3635 0,0 16.35444,-4.6727 16.35444,-21.0271 0,-16.3545 -14.01809,-24.5317 -29.20435,-24.5317 z m 0,13.3506 c 7.00904,0 12.84991,3.0039 12.84991,11.1811 0,7.009 -12.84991,14.0181 -12.84991,14.0181 0,0 -12.84992,-7.0091 -12.84992,-14.0181 0,-8.1772 5.84087,-11.1811 12.84992,-11.1811 z m 0,39.2172 c 0,0 15.18626,8.1773 15.18626,17.5227 0,8.1772 -8.17722,11.6817 -15.18626,11.6817 -7.00905,0 -15.18626,-3.5045 -15.18626,-11.6817 0,-8.1773 15.18626,-17.5227 15.18626,-17.5227 z" />
+          <path
+             id="path15036"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 816.729,1886.8215 4.6727,-15.1863 h -53.73601 v 45.5588 l 10.51357,5.8408 c 2.33635,-1.1681 7.00905,-7.009 14.01809,-7.009 10.51357,0 16.35444,9.3454 16.35444,17.5226 0,11.6818 -11.68174,17.5226 -21.02714,17.5226 -7.67657,0 -16.52131,-0.8344 -22.1953,-4.6727 l 2.33634,15.1863 c 0,0 11.68175,4.6727 22.19531,4.6727 22.19531,0 36.2134,-15.1863 36.2134,-33.8771 0,-18.6907 -15.18627,-29.2043 -28.03618,-29.2043 -5.34022,0 -11.68174,1.1682 -15.18626,5.8409 v -22.1953 z" />
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:166.882px;line-height:1.25;font-family:sans-serif;letter-spacing:-2.49px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.17207"
+           id="text14307"
+           aria-label="KAUNAS">
+          <path
+             id="path14331"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 940.15024,1968.3879 h 21.02713 l -35.87963,-49.5639 33.54328,-43.89 h -21.02713 l -32.54199,44.0569 z m -35.04522,-93.4539 h -16.35444 v 93.4539 h 16.35444 z" />
+          <path
+             id="path14333"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1007.5812,1935.6791 11.6817,-39.718 11.6818,39.718 z m 2.3363,-60.7451 -30.37249,93.4539 h 17.52261 l 5.84088,-18.6907 h 32.7089 l 5.8408,18.6907 h 17.5226 l -30.3725,-93.4539 z" />
+          <path
+             id="path14335"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1083.2311,1874.934 v 63.0814 c 0,1.1682 1.1682,31.5407 33.877,31.5407 32.7089,0 33.8771,-30.3725 33.8771,-31.5407 v -63.0814 h -16.3545 v 64.2496 c 0,12.8499 -10.5135,17.5226 -17.5226,17.5226 -7.009,0 -17.5226,-4.6727 -17.5226,-17.5226 v -64.2496 z" />
+          <path
+             id="path14337"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1177.6813,1968.3879 h 16.3544 v -67.7541 l 35.0452,67.7541 h 18.6908 v -93.4539 h -16.3544 v 66.5859 l -35.0452,-66.5859 h -18.6908 z" />
+          <path
+             id="path14339"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1298.9995,1935.6791 11.6817,-39.718 11.6818,39.718 z m 2.3363,-60.7451 -30.3725,93.4539 h 17.5226 l 5.8409,-18.6907 h 32.7088 l 5.8409,18.6907 h 17.5226 l -30.3725,-93.4539 z" />
+          <path
+             id="path14341"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 1374.1487,1954.3699 c 0,0 15.6869,16.3544 36.7141,16.3544 23.3634,0 35.8796,-17.5226 35.8796,-29.2044 0,-14.0181 -10.1798,-23.3634 -26.5342,-26.868 -12.85,-2.6701 -24.5317,-4.172 -24.5317,-13.1836 0,-4.5059 3.5045,-13.6844 17.5226,-13.6844 12.1824,0 20.6934,9.3454 20.6934,9.3454 l 10.8473,-11.6817 c 0,0 -15.1863,-12.8499 -31.5407,-12.8499 -19.8589,0 -33.877,12.8499 -33.877,29.2043 0,7.1759 3.1707,22.3622 29.2043,26.2005 20.8603,3.0039 21.0271,10.8473 21.0271,14.5187 v 0.1669 c 0,3.5045 -4.0051,12.8499 -18.357,12.8499 -16.3544,0 -25.5329,-11.0142 -25.5329,-11.0142 z" />
+        </g>
+        <g
+           style="font-style:normal;font-weight:normal;font-size:166.882px;line-height:1.25;font-family:sans-serif;letter-spacing:-2.49px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.17207"
+           id="text14329"
+           aria-label="ŠUMSKAS">
+          <path
+             id="path14344"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m -239.31674,2398.2583 h 12.34927 l 19.85896,-28.0361 h -9.01163 l -17.02197,16.3544 -17.02196,-16.3544 h -9.01163 z m -32.87576,91.7851 c 0,0 15.68691,16.3545 36.71404,16.3545 23.36348,0 35.87964,-17.5226 35.87964,-29.2044 0,-14.0181 -10.17981,-23.3635 -26.53424,-26.868 -12.84992,-2.6701 -24.53166,-4.172 -24.53166,-13.1837 0,-4.5058 3.50452,-13.6843 17.52261,-13.6843 12.18239,0 20.69337,9.3454 20.69337,9.3454 l 10.84733,-11.6817 c 0,0 -15.18626,-12.8499 -31.5407,-12.8499 -19.85896,0 -33.87704,12.8499 -33.87704,29.2043 0,7.1759 3.17075,22.3622 29.20435,26.2005 20.86025,3.0039 21.02713,10.8473 21.02713,14.5187 v 0.1669 c 0,3.5045 -4.00517,12.8499 -18.35702,12.8499 -16.35444,0 -25.53295,-11.0142 -25.53295,-11.0142 z" />
+          <path
+             id="path14346"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m -176.39942,2410.6076 v 63.0814 c 0,1.1682 1.16817,31.5407 33.87704,31.5407 32.70888,0 33.87705,-30.3725 33.87705,-31.5407 v -63.0814 h -16.35444 v 64.2496 c 0,12.8499 -10.51356,17.5226 -17.52261,17.5226 -7.00904,0 -17.52261,-4.6727 -17.52261,-17.5226 v -64.2496 z" />
+          <path
+             id="path14348"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m -81.949227,2504.0615 h 16.354436 v -67.7541 l 28.036177,49.0633 28.0361763,-49.0633 1.168174,67.7541 H 6.8319987 v -93.4539 H -11.858786 l -25.699828,43.2224 -25.699829,-43.2224 h -18.690784 z" />
+          <path
+             id="path14350"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 32.915322,2490.0434 c 0,0 15.686908,16.3545 36.714041,16.3545 23.363481,0 35.879627,-17.5226 35.879627,-29.2044 0,-14.0181 -10.179798,-23.3635 -26.534235,-26.868 -12.849914,-2.6701 -24.531654,-4.172 -24.531654,-13.1837 0,-4.5058 3.504522,-13.6843 17.52261,-13.6843 12.182386,0 20.693368,9.3454 20.693368,9.3454 l 10.847331,-11.6817 c 0,0 -15.186263,-12.8499 -31.540699,-12.8499 -19.858958,0 -33.877047,12.8499 -33.877047,29.2043 0,7.1759 3.170758,22.3622 29.204351,26.2005 20.86025,3.0039 21.027132,10.8473 21.027132,14.5187 v 0.1669 c 0,3.5045 -4.005168,12.8499 -18.35702,12.8499 -16.354436,0 -25.532947,-11.0142 -25.532947,-11.0142 z" />
+          <path
+             id="path14352"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 180.77557,2504.0615 h 21.02714 l -35.87964,-49.5639 33.54329,-43.89 h -21.02714 l -32.54199,44.0569 z m -35.04522,-93.4539 h -16.35443 v 93.4539 h 16.35443 z" />
+          <path
+             id="path14354"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 248.20653,2471.3527 11.68174,-39.718 11.68174,39.718 z m 2.33635,-60.7451 -30.37252,93.4539 h 17.52261 l 5.84087,-18.6908 h 32.70887 l 5.84087,18.6908 h 17.52261 l -30.37252,-93.4539 z" />
+          <path
+             id="path14356"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:4.17207"
+             d="m 323.35578,2490.0434 c 0,0 15.68691,16.3545 36.71404,16.3545 23.36348,0 35.87963,-17.5226 35.87963,-29.2044 0,-14.0181 -10.1798,-23.3635 -26.53423,-26.868 -12.84992,-2.6701 -24.53166,-4.172 -24.53166,-13.1837 0,-4.5058 3.50452,-13.6843 17.52261,-13.6843 12.18239,0 20.69337,9.3454 20.69337,9.3454 l 10.84733,-11.6817 c 0,0 -15.18626,-12.8499 -31.5407,-12.8499 -19.85896,0 -33.87705,12.8499 -33.87705,29.2043 0,7.1759 3.17076,22.3622 29.20436,26.2005 20.86025,3.0039 21.02713,10.8473 21.02713,14.5187 v 0.1669 c 0,3.5045 -4.00517,12.8499 -18.35702,12.8499 -16.35444,0 -25.53295,-11.0142 -25.53295,-11.0142 z" />
+        </g>
+        <g
+           style="opacity:1"
+           id="g6911"
+           transform="matrix(3.7795276,0,0,3.7795276,844.97301,1832.1571)" />
+        <g
+           transform="matrix(6.4422513,0,0,6.4422513,-4278.1046,-11835.981)"
+           id="g14983">
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 734.85372,2152.856 c -1.14978,0 -2.09646,0.9001 -2.09646,2.0226 v 18.6319 c 0,1.1225 0.94668,2.0227 2.09646,2.0227 h 37.6624 c 1.14977,0 2.09646,-0.9 2.09646,-2.0227 v -18.6319 c 0,-1.1226 -0.94668,-2.0226 -2.09646,-2.0226 z"
+             id="path6907"
+             sodipodi:nodetypes="sssssssss" />
+          <path
+             id="path6909"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 734.84987,2153.009 c -1.0693,0 -1.94141,0.8337 -1.94141,1.8691 v 18.6309 c 0,1.0354 0.87211,1.8672 1.94141,1.8672 h 37.66797 c 1.06929,0 1.94336,-0.8318 1.94336,-1.8672 v -18.6309 c 0,-1.0354 -0.87407,-1.8691 -1.94336,-1.8691 z m 0.11133,0.789 h 37.51758 c 0.6393,0 1.1582,0.4881 1.1582,1.0938 v 18.5469 c 0,0.6057 -0.51701,1.0937 -1.1582,1.0937 H 734.9612 c -0.63929,0 -1.15821,-0.4879 -1.15821,-1.0937 v -18.5469 c 0,-0.6055 0.51705,-1.0938 1.15821,-1.0938 z" />
+          <g
+             style="font-style:normal;font-weight:normal;font-size:25.1851px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.9px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.629628"
+             id="text6915"
+             aria-label="106">
+            <path
+               id="path15025"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 738.76745,2160.4399 0.83111,1.083 1.88888,-1.1837 v 10.9303 h 2.46814 v -14.1036 h -2.11554 z" />
+            <path
+               id="path15027"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 752.05335,2156.9896 c -2.82073,0 -4.75998,2.997 -4.75998,7.2281 0,4.2311 1.93925,7.2281 4.75998,7.2281 2.82074,0 4.75999,-2.997 4.75999,-7.2281 0,-4.0044 -1.93925,-7.2281 -4.75999,-7.2281 z m 0,2.1911 c 1.36,0 2.29185,1.5111 2.29185,5.037 0,3.5259 -0.93185,5.037 -2.29185,5.037 -1.35999,0 -2.29184,-1.5111 -2.29184,-5.037 0,-3.5259 0.93185,-5.037 2.29184,-5.037 z" />
+            <path
+               id="path15029"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 764.54947,2156.9392 c -3.70221,0 -5.28887,3.7526 -5.28887,7.6311 0,4.4074 1.93925,6.8755 4.93628,6.8755 2.29184,0 4.40739,-2.2918 4.40739,-5.1125 0,-3.3497 -2.64444,-4.1556 -3.70221,-4.1556 -1.23407,0 -2.46814,0.8059 -3.32444,1.5111 0,0 0.15112,-4.76 3.32444,-4.76 1.58666,0 2.99703,0.7304 2.99703,0.7304 l -0.3526,-2.1407 c 0,0 -1.58666,-0.5793 -2.99702,-0.5793 z m 0,7.2785 c 0.70518,0 1.76295,0.7052 1.76295,2.1156 0,1.234 -0.88147,2.8207 -2.44295,2.8207 -1.61185,0 -2.24147,-3.1733 -2.24147,-3.1733 0,0 1.6874,-1.763 2.92147,-1.763 z" />
+          </g>
+        </g>
+        <g
+           id="g14993"
+           transform="matrix(6.4422513,0,0,6.4422513,-4998.0874,-11332.864)">
+          <path
+             sodipodi:nodetypes="sssssssss"
+             id="path14985"
+             d="m 734.85372,2152.856 c -1.14978,0 -2.09646,0.9001 -2.09646,2.0226 v 18.6319 c 0,1.1225 0.94668,2.0227 2.09646,2.0227 h 37.6624 c 1.14977,0 2.09646,-0.9 2.09646,-2.0227 v -18.6319 c 0,-1.1226 -0.94668,-2.0226 -2.09646,-2.0226 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+          <path
+             d="m 734.84987,2153.009 c -1.0693,0 -1.94141,0.8337 -1.94141,1.8691 v 18.6309 c 0,1.0354 0.87211,1.8672 1.94141,1.8672 h 37.66797 c 1.06929,0 1.94336,-0.8318 1.94336,-1.8672 v -18.6309 c 0,-1.0354 -0.87407,-1.8691 -1.94336,-1.8691 z m 0.11133,0.789 h 37.51758 c 0.6393,0 1.1582,0.4881 1.1582,1.0938 v 18.5469 c 0,0.6057 -0.51701,1.0937 -1.1582,1.0937 H 734.9612 c -0.63929,0 -1.15821,-0.4879 -1.15821,-1.0937 v -18.5469 c 0,-0.6055 0.51705,-1.0938 1.15821,-1.0938 z"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             id="path14987" />
+          <g
+             style="font-style:normal;font-weight:normal;font-size:25.1851px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.9px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.629628"
+             id="text14991"
+             aria-label="101">
+            <path
+               id="path15018"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 741.58722,2160.4399 0.83111,1.083 1.88888,-1.1837 v 10.9303 h 2.46814 v -14.1036 h -2.11555 z" />
+            <path
+               id="path15020"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 754.87312,2156.9896 c -2.82073,0 -4.75999,2.997 -4.75999,7.2281 0,4.2311 1.93926,7.2281 4.75999,7.2281 2.82073,0 4.75998,-2.997 4.75998,-7.2281 0,-4.0044 -1.93925,-7.2281 -4.75998,-7.2281 z m 0,2.1911 c 1.35999,0 2.29184,1.5111 2.29184,5.037 0,3.5259 -0.93185,5.037 -2.29184,5.037 -1.36,0 -2.29185,-1.5111 -2.29185,-5.037 0,-3.5259 0.93185,-5.037 2.29185,-5.037 z" />
+            <path
+               id="path15022"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 760.59444,2160.4399 0.83111,1.083 1.88888,-1.1837 v 10.9303 h 2.46814 v -14.1036 h -2.11555 z" />
+          </g>
+        </g>
+        <g
+           transform="matrix(6.4422513,0,0,6.4422513,-3545.1539,-11332.864)"
+           id="g15003">
+          <g
+             style="font-style:normal;font-weight:normal;font-size:19.6521px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.702276px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.491303"
+             id="text15007"
+             aria-label="300 m">
+            <path
+               id="path15009"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:0.491303"
+               d="m 652.98711,2197.3489 0.72712,1.6311 c 0.78609,-0.6681 1.33635,-0.9433 2.43686,-0.9433 0.68783,0 1.37565,0.5503 1.37565,1.2381 0,0.8254 -1.10052,1.7884 -2.47616,2.0635 v 1.5132 c 0.27513,-0.1376 0.62886,-0.1376 0.96295,-0.1376 1.78834,0 1.94556,1.1399 1.94556,1.6115 -0.0197,1.2774 -1.12017,1.8276 -2.35826,1.8276 -0.90399,0 -2.10277,-0.1572 -2.77094,-0.6092 l 0.23582,1.9259 c 0,0 1.70974,0.4717 2.81025,0.4717 2.61373,0 4.04834,-1.9259 4.04834,-3.5767 0,-1.7883 -1.98487,-2.6137 -2.67269,-2.7513 1.10052,-0.1376 2.20104,-1.2381 2.20104,-2.7513 0,-1.5132 -1.57217,-2.4958 -2.94782,-2.4958 -1.10052,0 -2.8299,0.5699 -3.51772,0.9826 z" />
+            <path
+               id="path15011"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:0.491303"
+               d="m 665.59483,2196.5235 c -2.20104,0 -3.71425,2.3386 -3.71425,5.6402 0,3.3015 1.51321,5.6401 3.71425,5.6401 2.20103,0 3.71424,-2.3386 3.71424,-5.6401 0,-3.1247 -1.51321,-5.6402 -3.71424,-5.6402 z m 0,1.7098 c 1.06121,0 1.78834,1.1791 1.78834,3.9304 0,2.7513 -0.72713,3.9304 -1.78834,3.9304 -1.06122,0 -1.78834,-1.1791 -1.78834,-3.9304 0,-2.7513 0.72712,-3.9304 1.78834,-3.9304 z" />
+            <path
+               id="path15013"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:0.491303"
+               d="m 674.79537,2196.5235 c -2.20104,0 -3.71425,2.3386 -3.71425,5.6402 0,3.3015 1.51321,5.6401 3.71425,5.6401 2.20103,0 3.71424,-2.3386 3.71424,-5.6401 0,-3.1247 -1.51321,-5.6402 -3.71424,-5.6402 z m 0,1.7098 c 1.06121,0 1.78834,1.1791 1.78834,3.9304 0,2.7513 -0.72713,3.9304 -1.78834,3.9304 -1.06122,0 -1.78834,-1.1791 -1.78834,-3.9304 0,-2.7513 0.72712,-3.9304 1.78834,-3.9304 z" />
+            <path
+               id="path15015"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';fill:#ffffff;stroke-width:0.491303"
+               d="m 693.66994,2199.8251 c -1.37565,0 -2.16173,1.0415 -2.16173,1.0415 -0.13757,-0.1965 -0.21618,-0.5502 -0.27513,-0.904 h -1.41495 v 7.7037 h 1.65077 v -4.9524 c 0.4127,-0.8254 0.98261,-1.5132 1.78834,-1.5132 0.82539,0 0.96296,0.6878 0.96296,1.1005 v 5.3651 h 1.65077 v -4.9524 c 0.4127,-0.8254 0.98261,-1.5132 1.78834,-1.5132 0.82539,0 0.96296,0.6878 0.96296,1.1005 v 5.3651 h 1.65077 v -5.5026 c 0,-1.3757 -0.68782,-2.3386 -2.20103,-2.3386 -1.02191,0 -2.06347,0.5502 -2.3386,1.3756 -0.27513,-0.8254 -1.00226,-1.3756 -2.06347,-1.3756 z" />
+          </g>
+          <path
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 734.85372,2152.856 c -1.14978,0 -2.09646,0.9001 -2.09646,2.0226 v 18.6319 c 0,1.1225 0.94668,2.0227 2.09646,2.0227 h 37.6624 c 1.14977,0 2.09646,-0.9 2.09646,-2.0227 v -18.6319 c 0,-1.1226 -0.94668,-2.0226 -2.09646,-2.0226 z"
+             id="path14995"
+             sodipodi:nodetypes="sssssssss" />
+          <path
+             id="path14997"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+             d="m 734.84987,2153.009 c -1.0693,0 -1.94141,0.8337 -1.94141,1.8691 v 18.6309 c 0,1.0354 0.87211,1.8672 1.94141,1.8672 h 37.66797 c 1.06929,0 1.94336,-0.8318 1.94336,-1.8672 v -18.6309 c 0,-1.0354 -0.87407,-1.8691 -1.94336,-1.8691 z m 0.11133,0.789 h 37.51758 c 0.6393,0 1.1582,0.4881 1.1582,1.0938 v 18.5469 c 0,0.6057 -0.51701,1.0937 -1.1582,1.0937 H 734.9612 c -0.63929,0 -1.15821,-0.4879 -1.15821,-1.0937 v -18.5469 c 0,-0.6055 0.51705,-1.0938 1.15821,-1.0938 z" />
+          <g
+             style="font-style:normal;font-weight:normal;font-size:25.1851px;line-height:1.25;font-family:sans-serif;letter-spacing:-0.9px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.629628"
+             id="text15001"
+             aria-label="101">
+            <path
+               id="path15039"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 741.58722,2160.4399 0.83111,1.083 1.88888,-1.1837 v 10.9303 h 2.46814 v -14.1036 h -2.11555 z" />
+            <path
+               id="path15041"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 754.87312,2156.9896 c -2.82073,0 -4.75999,2.997 -4.75999,7.2281 0,4.2311 1.93926,7.2281 4.75999,7.2281 2.82073,0 4.75998,-2.997 4.75998,-7.2281 0,-4.0044 -1.93925,-7.2281 -4.75998,-7.2281 z m 0,2.1911 c 1.35999,0 2.29184,1.5111 2.29184,5.037 0,3.5259 -0.93185,5.037 -2.29184,5.037 -1.36,0 -2.29185,-1.5111 -2.29185,-5.037 0,-3.5259 0.93185,-5.037 2.29185,-5.037 z" />
+            <path
+               id="path15043"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';stroke-width:0.629628"
+               d="m 760.59444,2160.4399 0.83111,1.083 1.88888,-1.1837 v 10.9303 h 2.46814 v -14.1036 h -2.11555 z" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
