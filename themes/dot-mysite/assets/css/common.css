@@ -441,7 +441,7 @@ div.linklist a.linktype-amazon:after {
 }
 
 .sns_button.twitter {
-  background-color: #00acee;
+  background-color: #000000;
 }
 
 .sns_button.hatena {
@@ -853,7 +853,15 @@ a.snsl-youtube {
 }
 
 a.snsl-twitter {
-  color: rgb(0, 186, 199);
+  color: rgb(0, 0, 0);
+}
+
+.fa-twitter:before {
+  content: '𝕏';
+  line-height: 1.25;
+  font-size: 1.2em;
+  font-family: unset;
+  font-weight: bold;
 }
 
 a.snsl-twitch {

@@ -41,7 +41,7 @@ Public domain
 
 
 {{% notice tip %}}
-リヒテンシュタインバス（LIEmobil）の黄緑色の車体やバス停が見つかる{{% ex "https://maps.app.goo.gl/SF7vCRdJFJSZ6zVz8" "https://maps.app.goo.gl/XKHcgqb2ZQcLGigs7" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段でありほとんどの町にバス停がある。バス停には銀色のゴミ箱が設置されていることも多く分かりやすい{{% ex "https://maps.app.goo.gl/1KKFRRpRz8tiWeBw6" "https://maps.app.goo.gl/wa2ggr33jVjBFZGQ8" %}}。
+リヒテンシュタインバス（LIEmobil）の黄緑色のバス{{% ex "https://maps.app.goo.gl/mHzD91UdD7XEr3Tc9" %}}やバス停が見つかる{{% ex "https://maps.app.goo.gl/SF7vCRdJFJSZ6zVz8" "https://maps.app.goo.gl/XKHcgqb2ZQcLGigs7" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段でありほとんどの町にバス停がある。バス停には銀色のゴミ箱が設置されていることも多く分かりやすい{{% ex "https://maps.app.goo.gl/1KKFRRpRz8tiWeBw6" "https://maps.app.goo.gl/wa2ggr33jVjBFZGQ8" %}}。
 {{% /notice %}}
 
 
@@ -65,7 +65,7 @@ Public domain
 </div>
 
 {{% notice tip %}}
-ドイツ語圏であり『GENERELL』と書かれている{{% ex "https://maps.app.goo.gl/afCpBxR51EcWj8p39" %}}。
+ドイツ語圏であり『GENERELL』と書かれている{{% ex "https://maps.app.goo.gl/afCpBxR51EcWj8p39" %}}。また非常に狭い国家だが最高峰は2600m近くあり、ほとんどの道路や街中からアルプスの山並みが望める{{% ex "https://maps.app.goo.gl/77ynr2n7vR6GgQ879" "https://maps.app.goo.gl/NmTN7moh6vLc9LTh8" "https://maps.app.goo.gl/qFmAJNM6UY7rHCTm9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -74,11 +74,17 @@ Public domain
 
 
 {{% notice tip %}}
-非常に狭い国家だが最高峰は2600m近くあり、ほとんどの道路や街中からアルプスの山並みが望める{{% ex "https://maps.app.goo.gl/77ynr2n7vR6GgQ879" "https://maps.app.goo.gl/NmTN7moh6vLc9LTh8" "https://maps.app.goo.gl/qFmAJNM6UY7rHCTm9" %}}。
+家の表札の番号の下に通り名が書いてある{{% ex "https://maps.app.goo.gl/EFeh5i4BJoBzRQpd8" "https://maps.app.goo.gl/GcY38hSF31exis7x7" "https://maps.app.goo.gl/dTfuHDWQkzro2EP9A" %}}。{{% goto "../switzerland/" "スイス" %}}は通り名は書かれておらず番号のみのケースが多いように思う。また、同国内の郵便サービスであるLiechtensteinische Postのロゴも見つかる{{% ex "https://maps.app.goo.gl/wdczDYB8iFh9L4h16" "https://maps.app.goo.gl/qY898hN34Q4trEQy8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="berge_in_liechtenstein_1.jpg" width="90%"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg#/media/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2018-10-05_Liechtenstein%2C_Vaduz%2C_Rotes_Haus_%28KPFC%29_04.jpg" alt="2018-10-05 Liechtenstein, Vaduz, Rotes Haus (KPFC) 04.jpg" width="90%"></a></p><p>By Rafael P. D. Suppmann, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73511504">Link</a></p>
+</div>
+
+
+<div class="googlemap-if no-margin">
+<img src="stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;">
+<img src="Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px">
 </div>
 
 {{% /tab %}}
