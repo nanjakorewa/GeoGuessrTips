@@ -42,7 +42,7 @@ Public domain
 
 
 {{% notice tip %}}
-リヒテンシュタインバス（LIEmobil）の黄緑色のバス{{% ex "https://maps.app.goo.gl/mHzD91UdD7XEr3Tc9" %}}やバス停が見つかる{{% ex "https://maps.app.goo.gl/SF7vCRdJFJSZ6zVz8" "https://maps.app.goo.gl/XKHcgqb2ZQcLGigs7" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段でありほとんどの町にバス停がある。バス停には銀色のゴミ箱が設置されていることも多く分かりやすい{{% ex "https://maps.app.goo.gl/1KKFRRpRz8tiWeBw6" "https://maps.app.goo.gl/wa2ggr33jVjBFZGQ8" %}}。
+リヒテンシュタインバス（LIEmobil）の黄緑色のバス{{% ex "https://maps.app.goo.gl/mHzD91UdD7XEr3Tc9" %}}やバス停が見つかる{{% ex "https://maps.app.goo.gl/SF7vCRdJFJSZ6zVz8" "https://maps.app.goo.gl/XKHcgqb2ZQcLGigs7" %}}{{% ref "https://de.wikipedia.org/wiki/Verkehrsbetrieb_LIECHTENSTEINmobil" "LIEmobil" %}}。国内のメインの交通手段でありほとんどの町にバス停がある。バス停には近くには銀色のゴミ箱が設置されていることも多く分かりやすい{{% ex "https://maps.app.goo.gl/1KKFRRpRz8tiWeBw6" "https://maps.app.goo.gl/wa2ggr33jVjBFZGQ8" %}}。
 {{% /notice %}}
 
 
