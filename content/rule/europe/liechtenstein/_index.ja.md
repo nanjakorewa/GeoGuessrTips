@@ -47,7 +47,8 @@ Public domain
 
 
 <div class="googlemap-if no-margin">
-<img src="./liechtenstein_lie_mobil_volvo.jpg" width="95%">
+<p><a href="https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(279).jpg#/media/File:Wikiolo_in_Liechtenstein_(279).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wikiolo_in_Liechtenstein_%28279%29.jpg" alt="Wikiolo in Liechtenstein (279).jpg" width="95%"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Wikiolo" title="User:Wikiolo">Wikiolo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79697497">Link</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
