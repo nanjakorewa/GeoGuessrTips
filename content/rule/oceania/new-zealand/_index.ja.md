@@ -140,8 +140,6 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>南島のカンタベリー平野ではかなり大きな潅水装置や大規模な防風林があり灌漑農業をしている{{% ex "https://goo.gl/maps/Ho4ypjhBcnQJA1PK8" "https://goo.gl/maps/ViDwwptpjr8RQAN19" "https://goo.gl/maps/z9NMph5Pkf23vWFX8" "https://goo.gl/maps/vUh5Ak6155z9f7KD7" %}}</li>
-        <li>北島のベイ・オブ・プレンティ地方も防風林がありキウイの生産が盛ん{{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}</li>
         <li>丘が平坦かどうか・雪の被った山が見えるかどうか・木の密度を見る{{% by "https://www.youtube.com/watch?v=ySbsJVexhGs" "youtube" "【GeoGuessr攻略】ニュージーランド編！現地プロによる徹底解説Part1【翻訳】" %}}
             <ul>
                 <li>画質が悪く砂利の道が多い場合は<span class="quiz">オークランドの北</span>に行ってみる</li>
