@@ -65,13 +65,16 @@ Public domain
 </div>
 
 {{% notice tip %}}
-ドイツ語圏であり『GENERELL』と書かれている{{% ex "https://maps.app.goo.gl/afCpBxR51EcWj8p39" %}}。また非常に狭い国家だが最高峰は2600m近くあり、ほとんどの道路や街中からアルプスの山並みが望める{{% ex "https://maps.app.goo.gl/77ynr2n7vR6GgQ879" "https://maps.app.goo.gl/NmTN7moh6vLc9LTh8" "https://maps.app.goo.gl/qFmAJNM6UY7rHCTm9" %}}。
+ドイツ語圏であり『GENERELL』と書かれている{{% ex "https://maps.app.goo.gl/afCpBxR51EcWj8p39" %}}。また非常に狭い国家だが最高峰は2600m近くあり、ほとんどの道路や街中からアルプスの山並みが望める{{% ex "https://maps.app.goo.gl/77ynr2n7vR6GgQ879" "https://maps.app.goo.gl/NmTN7moh6vLc9LTh8" "https://maps.app.goo.gl/qFmAJNM6UY7rHCTm9" %}}。また、町の入り口の看板にはリヒテンシュタイン家の旗の色が見つかる{{% ex "https://maps.app.goo.gl/GaSfWyLw2ZKvrxpz6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg#/media/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_%28Nord%29.jpg" alt="Schaan Liechtenstein Ortsbeginn auf Hauptstrasse (Nord).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90017181">Link</a></p>
 </div>
 
+<div class="googlemap-if no-margin">
+<img src="640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px">
+</div>
 
 {{% notice tip %}}
 家の表札の番号の下に通り名が書いてある{{% ex "https://maps.app.goo.gl/EFeh5i4BJoBzRQpd8" "https://maps.app.goo.gl/GcY38hSF31exis7x7" "https://maps.app.goo.gl/dTfuHDWQkzro2EP9A" %}}。{{% goto "../switzerland/" "スイス" %}}は通り名は書かれておらず番号のみのケースが多いように思う。また、同国内の郵便サービスであるLiechtensteinische Postのロゴも見つかる{{% ex "https://maps.app.goo.gl/wdczDYB8iFh9L4h16" "https://maps.app.goo.gl/qY898hN34Q4trEQy8" %}}。
@@ -85,6 +88,15 @@ Public domain
 <div class="googlemap-if no-margin">
 <img src="stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;">
 <img src="Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px">
+</div>
+
+{{% notice tip %}}
+リヒテンシュタイン周には犬のふんを捨てる緑色の箱がよくある{{% ex "https://maps.app.goo.gl/nWLLebmk6htnAHgb7" "https://maps.app.goo.gl/toSPwe8GZfNtR9Qd7" "https://maps.app.goo.gl/ZhuiP8svANVZZfjs9" "https://maps.app.goo.gl/CKRyXbX3Sf2Vtt298" %}}{{% ref "https://www.robidog.com/en/" "ROBIDOG - Dog-waste disposal systems" %}}。スイスやドイツなど周りの国でもたまに見つかる。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Davos,_Holsboerweg_(Wanderweg).JPG#/media/File:Davos,_Holsboerweg_(Wanderweg).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Davos%2C_Holsboerweg_%28Wanderweg%29.JPG" alt="Davos, Holsboerweg (Wanderweg).JPG" width="440"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12536500">Link</a></p>
 </div>
 
 {{% /tab %}}
