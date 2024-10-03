@@ -70,7 +70,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Cfynn" class="mw-redirect" title="
 {{% notice tip %}}Google Carが<span class="quiz">灰</span>色{{% ex "https://goo.gl/maps/noJf5W4t49ogW2sJ8" %}}。Google Carの縁が<span class="quiz">灰</span>色っぽい・周りが山がち・道路際に白色のブロックがある{{% ex "https://goo.gl/maps/8qJhdibA4jKWj33v9" %}}とブータンっぽさがある{{% ex "https://goo.gl/maps/uZkFsXo1UVNWGtjC9" "https://goo.gl/maps/NsHbk1FStiQqBgWZ6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1690000575305!6m8!1m7!1sU14SHQl8JbREV-vGtQcc2A!2m2!1d27.53941853330359!2d90.17930204298476!3f316.1298778808055!4f-28.874410185283708!5f1.3356361664500493" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1727913976993!6m8!1m7!1scKuNgNpBkxJnXPLD4nmbOA!2m2!1d27.0247731903446!2d91.40444665544481!3f51.95566599963286!4f-27.89598761341493!5f1.075098820269612" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
