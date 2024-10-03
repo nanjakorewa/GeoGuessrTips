@@ -23,6 +23,7 @@ sc: [
         <li>ドメインは<span class="quiz">.li</span></li>
         <li>ナンバープレートが<span class="quiz">黒い</span></li>
         <li>バス停やバスが<span class="quiz">黄緑色</span></li>
+        <li>家の番地が書かれたプレートに通り名も書かれている</li>
     </ul>
 </div>
 
