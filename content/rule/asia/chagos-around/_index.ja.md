@@ -13,9 +13,10 @@ no_detaile_info: true
 is_has_many_trekker: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "間違えやすい地域"
+flag_height: "440px"
+sc_title: "関連する地域"
 sc: [
-    ["../../oceania/cocos_islands/", "ココス諸島"],
+    ["../../africa/mauritius/", "モーリシャス"],
     ]
 ---
 
