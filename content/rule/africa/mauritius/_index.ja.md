@@ -10,7 +10,6 @@ bg: "bg/city.jpg"
 flag: "MU.svg"
 no_detaile_info: true
 jetro_detail: false
-is_unofficial: true
 sc_title: "関連する地域"
 sc: [
     ["../../asia/chagos-around/", "チャゴス諸島"],
@@ -20,14 +19,20 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>公用語は英語だが、日常会話や新聞などではフランス語やクレオール語が使用されている</li>
         <li>左側通行であり後ろのナンバープレートが黄色</li>
         <li>{{% goto "../../europe/france/" "フランス" %}}にあるような仕切りのある電柱やチリ電柱のようなものが見つかる</li>
-        <li>2024年10月、チャゴス諸島の主権がモーリシャスに譲渡されることが発表された{{% ref "https://www.bbc.com/news/articles/c98ynejg4l5o" "BBC news - UK will give sovereignty of Chagos Islands to Mauritius" %}}</li>
+        <li>チャゴス諸島の主権がモーリシャスに譲渡されることが発表された{{% ref "https://www.bbc.com/news/articles/c98ynejg4l5o" "BBC news - UK will give sovereignty of Chagos Islands to Mauritius" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+{{% notice warning %}}
+2024年10月時点ではモーリシャスのうち{{% goto "../../asia/chagos-around/" "チャゴス諸島" %}}だけにストリートビューがあります。人が住んでいる本当にGoogle公式ストリートビューは存在しておらず、以下のヒントはジオゲッサーを遊ぶ上では覚える必要はありません。
+{{% /notice %}}
+
 
 {{% notice tip %}}
 1715年にフランス領になり、1814年5月30日にイギリス領モーリシャスとなった。車や標識は{{% goto "../../europe/united-kingdom/" "イギリス" %}}だが、電柱は{{% goto "../../europe/france/" "フランス" %}}にあるものが使われている。
