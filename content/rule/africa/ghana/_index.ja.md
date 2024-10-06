@@ -62,7 +62,21 @@ sc: [
 タクシーの色の塗り方が独特{{% ex "https://maps.app.goo.gl/zModPxBNsSaL1E5U6" "https://maps.app.goo.gl/36beJJUuYoXJtTT67" "https://maps.app.goo.gl/qF9yVfgunmUfd5pa9" "https://maps.app.goo.gl/kuyBAsBKBjKmrXaM9" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mitsubishi_taxi_ghana.jpg" width="70%" />
+<img src="./mitsubishi_taxi_ghana.jpg" width="90%" />
+</div>
+
+
+
+{{% notice tip %}}
+宝くじ売り場と思われる小さいお店（画像左側の赤黄緑の箱）が見つかる{{% ex "https://maps.app.goo.gl/vuNkZ3z83so7c7HF8" "https://maps.app.goo.gl/waKYXd4qzxuthe4Q6" %}}{{% ref "https://en.wikipedia.org/wiki/National_Lottery_Authority" "National Lottery Authority of Ghana" %}}。宝くじは政府によって運営されているらしい。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="a walk to Makola Market"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./National_Lottery_Authority_logo.jpg" width="200px" />
 </div>
 
 {{% /tab %}}
