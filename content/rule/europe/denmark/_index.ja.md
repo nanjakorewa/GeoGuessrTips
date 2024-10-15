@@ -39,11 +39,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-デンマークのOdenseにある会社のAlluxというブランドのポストが一般的。おしゃれで丸いふた{{% ex "https://maps.app.goo.gl/CZvXH19Lwqhf2Aqp8" "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}。陸続きの{{% goto "../germany/" "ドイツ" %}}でも見つかる。
+デンマークのOdenseにある会社のAlluxというブランドのポストが一般的。おしゃれで丸いふた{{% ex "https://maps.app.goo.gl/CZvXH19Lwqhf2Aqp8" "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}{{% imref %}}。陸続きの{{% goto "../germany/" "ドイツ" %}}やデンマーク王国領土である{{% goto "../faroe_islands/" "フェロー諸島" %}}でも見つかる。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/135489065@N08/20511021461/" title="Mailbox 98a"><img src="https://live.staticflickr.com/265/20511021461_3f577b8a1b_n.jpg" width="240" height="320" alt="Mailbox 98a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tvis/38264653191/in/photolist-21ijmgR-76yRys-Esd99K-P3MGR5-cvim2N-4waJor-df8UaR-6QpGBa-b6wR62-56BUVu-56xKsz-wjEax-4Q21e5-8tyZaa-5BJ3BZ-9YqUJt-a1r9NP-21RusW3-7tC7Ea-XLPvf-TwHxwQ-MD8a2i-o2Wz-suYq7a-WtAywK-2ij1i4s-XtbMNy-6Txh26-7LZqE6-222SZHs-24J5AK5-2375rkF-e4oxAT-Yf4siA-2QL43V-exS1Vo-EPb47T-xM3yF-7jPoVp-J71wA-24J5DDG-4Jr9Xa-2375tsr-6SZATy-KLTMm-9iopHe-bCbnte-8woqgm-hMsDkW-KTvM3G" title="Mailbox - Danish standard"><img src="https://live.staticflickr.com/4549/38264653191_8d6686645a_n.jpg" width="290" height="320" alt="Mailbox - Danish standard"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="2024-10-15-23-20-20.png">
 </div>
 
 
@@ -162,6 +161,7 @@ public domain
 
 {{% imgref %}}
 
+<li>ポストの画像は『<a href="https://allux.com/allux-6000/p/66491">Allux 6000 - Scandinavian design</a>』より引用しています</li>
 <li>ボラードの画像は以下の画像を加工しています
     <ul>
         <li>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/84554176@N00">Guillaume Baviere</a> from Copenhagen, Denmark - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/84554176@N00/16997362030/">2015-04-11</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74159251">Link</a>

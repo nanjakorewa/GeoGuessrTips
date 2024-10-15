@@ -56,6 +56,13 @@ sc: [
 <img src="./faroe_islands_cascade_horses.jpg" width="90%">
 </div>
 
+{{% notice tip %}}
+{{% goto "../denmark/" "デンマーク" %}}領でありデンマークとの共通点がある。デンマークにあるAlluxブランドのポストも見つかる{{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" %}}{{% imref %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="../denmark/2024-10-15-23-20-20.png">
+</div>
+
 
 {{% notice tip %}}
 {{% goto "../iceland/" "アイスランド" %}}などにもあるような黄色い看板が見つかる。また、横断歩道の近くに白と青で塗られた棒がある{{% ex "https://maps.app.goo.gl/uCG1K9dQSa5iWETw6" "https://maps.app.goo.gl/Un9Cg3xJzuE93Zv76" %}}。
@@ -72,3 +79,8 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
+
+
+{{% imgref %}}
+<li>ポストの画像は『<a href="https://allux.com/allux-6000/p/66491">Allux 6000 - Scandinavian design</a>』より引用しています</li>
+{{% /imgref %}}
