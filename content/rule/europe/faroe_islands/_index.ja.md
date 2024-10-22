@@ -43,7 +43,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-<span class="quiz">黄色と赤</span>色のボラードが多い{{% ex "https://maps.app.goo.gl/KwpFXHxqR3xE7ix8A" "https://maps.app.goo.gl/R1zG3X1WPBbK9WRa7" %}}。Google Carが映っているのも特徴的。
+<span class="quiz">黄色と赤</span>色のボラードが多い{{% ex "https://maps.app.goo.gl/Rf3Q9RCv7i1bp3zY7" "https://maps.app.goo.gl/KwpFXHxqR3xE7ix8A" "https://maps.app.goo.gl/R1zG3X1WPBbK9WRa7" %}}。Google Carが映っているのも特徴的。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG#/media/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/F%C3%A4r%C3%B6er_Suduroy_07.JPG" alt="Färöer Suduroy 07.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34337495">Link</a></p>
@@ -57,10 +57,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-{{% goto "../denmark/" "デンマーク" %}}領でありデンマークとの共通点がある。デンマークにあるAlluxブランドのポストも見つかる{{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" %}}{{% imref %}}。
+{{% goto "../denmark/" "デンマーク" %}}領でありデンマークとの共通点がある。デンマークにあるAlluxブランドのポストも見つかる{{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" %}}{{% imref %}}。T字っぽい金具に付けられた通り名やバスの看板もデンマークみがある気がする{{% ex "https://maps.app.goo.gl/U8RdHr8jbxSpnaVSA" "https://maps.app.goo.gl/fJZXBzL9iNmMfvUy7" "https://maps.app.goo.gl/Cv8Tn6KNKLNPv1mH8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="../denmark/2024-10-15-23-20-20.png">
+<img src="../denmark/2024-10-15-23-20-20.png" width="230px">
+<img src="640px-Bussstop_fo.jpg" width="463px">
 </div>
 
 
