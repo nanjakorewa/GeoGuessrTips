@@ -64,7 +64,7 @@ CC0
 
 
 {{% notice tip %}}
-オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6" %}}。
+オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -77,7 +77,7 @@ CC0
 
 
 {{% notice tip %}}
-ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/9gapeNZnEd8TNsrE8" %}}ナツメヤシ農園もある。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
+ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/X54rgAF8AzJZpBNw6" "https://maps.app.goo.gl/tStXT4jvFkSnfWyZ7" %}}ナツメヤシ農園もある。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
