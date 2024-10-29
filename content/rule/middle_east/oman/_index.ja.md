@@ -63,12 +63,22 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="roadsign.jpg" width="500ppx">
+<img src="roadsign.jpg" width="500px">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="sign.png" width="200ppx">
+<img src="sign.png" width="200px">
 </div>
+
+
+{{% notice tip %}}
+ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/9gapeNZnEd8TNsrE8" %}}ナツメヤシ農園もある。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="date_palm_date_palm.jpg" width="90%">
+</div>
+
 
 {{% /tab %}}
 {{% /tabs  %}}
