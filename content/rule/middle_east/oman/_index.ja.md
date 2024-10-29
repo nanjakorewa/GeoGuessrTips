@@ -50,12 +50,24 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}。
+標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}。普通の灰色の鋼管の場合もある。
 {{% /notice %}}
 
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Oman-Dessert-Trafficsign.jpg#/media/File:Oman-Dessert-Trafficsign.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Oman-Dessert-Trafficsign.jpg" alt="Oman-Dessert-Trafficsign.jpg" width="90%"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8828942">Link</a></p>
+</div>
+
+{{% notice tip %}}
+オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/632fjfQk7KSHvtV37" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="roadsign.jpg" width="500ppx">
+</div>
+
+<div class="googlemap-if no-margin">
+<img src="sign.png" width="200ppx">
 </div>
 
 {{% /tab %}}
