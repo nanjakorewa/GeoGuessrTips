@@ -135,12 +135,11 @@ CC0
 {{% tab "ドファール山脈" %}}
 
 {{% notice tip %}}
-モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}。
+モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/Gn7my7NTW8CYn82s9" "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Salalah_Oman.jpg#/media/File:Salalah_Oman.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Salalah_Oman.jpg" alt="File:Salalah Oman.jpg" width="90%"></a></p>
-<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/marypaulose/">May Paulose</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/marypaulose/288487162/sizes/o/">Flickr</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3503976">Link</a></p>
+<img src="after_rain_7.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Masirah島" %}}
