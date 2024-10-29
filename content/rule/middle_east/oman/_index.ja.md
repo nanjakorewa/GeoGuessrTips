@@ -50,13 +50,18 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}のはオマーンか{{% goto "../united_arab_emirates/" "UAE" %}}。普通の灰色の鋼管の場合もある。
+標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}のはオマーンか{{% goto "../united_arab_emirates/" "UAE" %}}。普通の灰色の鋼管の場合もある。町名や次の町への距離を書いた看板などは青色。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Oman-Dessert-Trafficsign.jpg#/media/File:Oman-Dessert-Trafficsign.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Oman-Dessert-Trafficsign.jpg" alt="Oman-Dessert-Trafficsign.jpg" width="90%"></a></p>
-<p>By <a href="//commons.wikimedia.org/wiki/User:Franzfoto" title="User:Franzfoto">Franzfoto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8828942">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Hajar_Mountains,_Musandam,_Oman_-_panoramio_(8).jpg#/media/File:Hajar_Mountains,_Musandam,_Oman_-_panoramio_(8).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Hajar_Mountains%2C_Musandam%2C_Oman_-_panoramio_%288%29.jpg" alt="Hajar Mountains, Musandam, Oman - panoramio (8).jpg" height="480" width="640"></a></p>
+<p>By Toppazz, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53507761">Link</a></p>
 </div>
+
+<div class="googlemap-if no-margin">
+<img src="streetsign.png" width="400px" />
+</div>
+
 
 {{% notice tip %}}
 オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6" %}}。
@@ -90,8 +95,8 @@ CC0
         <li>北部と南部に山岳地帯があり、間には平坦な砂漠が広がっている
             <ul>
                 <li>北部 {{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
-                <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}}、{{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
-                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りのみ雨が降りやすく緑も多い</li>
+                <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
+                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りのみ雨が降りやすく緑も多い{{% ex "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}</li>
             </ul>
         </li>
     </ul>
@@ -130,7 +135,7 @@ CC0
 {{% tab "ドファール山脈" %}}
 
 {{% notice tip %}}
-モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" %}}。
+モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
