@@ -64,7 +64,7 @@ CC0
 
 
 {{% notice tip %}}
-オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6" %}}。
+オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "https://maps.app.goo.gl/8cQGt2gaPCLyGFyq9" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6"  %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -75,9 +75,16 @@ CC0
 <img src="sign.png" width="200px">
 </div>
 
+{{% notice tip %}}
+砂漠ではまったく木が生えていない{{% ex "https://maps.app.goo.gl/vUP9sf56b2eiWwEE7" "https://maps.app.goo.gl/FdvjxF4sjqFLG7sE7" %}}か、こんな感じの木がまばらに生えている{{% ex "https://maps.app.goo.gl/acQfgGShB3i7NJ7YA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="desert_sand_dry_hot.jpg">
+</div>
 
 {{% notice tip %}}
-ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/X54rgAF8AzJZpBNw6" "https://maps.app.goo.gl/tStXT4jvFkSnfWyZ7" %}}ナツメヤシ農園もある。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
+ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/X54rgAF8AzJZpBNw6" "https://maps.app.goo.gl/tStXT4jvFkSnfWyZ7" %}}ナツメヤシ農園もある{{% ex "https://maps.app.goo.gl/FB4T4vaZDhbQY6Lf8" %}}。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
