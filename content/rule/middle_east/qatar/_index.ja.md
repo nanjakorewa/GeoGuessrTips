@@ -15,7 +15,7 @@ plonkit: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../jordan/", "ヨルダン"],
+    ["../oman/", "オマーン"],
     ["../united_arab_emirates/", "アラブ首長国連邦"],
     ]
 ---

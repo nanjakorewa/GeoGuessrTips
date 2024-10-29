@@ -50,7 +50,7 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}。普通の灰色の鋼管の場合もある。
+標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}のはオマーンか{{% goto "../united_arab_emirates/" "UAE" %}}。普通の灰色の鋼管の場合もある。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -59,7 +59,7 @@ CC0
 </div>
 
 {{% notice tip %}}
-オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/632fjfQk7KSHvtV37" %}}。
+オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/cSGKxuWZCKhXZFMM7" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -89,9 +89,9 @@ CC0
     <ul class="rule-list">
         <li>北部と南部に山岳地帯があり、間には平坦な砂漠が広がっている
             <ul>
-                <li>北部</li>
+                <li>北部 {{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
                 <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}}、{{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
-                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}}</li>
+                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りのみ雨が降りやすく緑も多い</li>
             </ul>
         </li>
     </ul>
@@ -120,12 +120,24 @@ CC0
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>マシーラ島という離島がある。岩と砂漠しかなく木は生えていない{{% ex "https://maps.app.goo.gl/jf2fdpMZFmXokmPo9" "https://maps.app.goo.gl/iXHzYPix4rQza3H56" %}}。</li>
+        <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
+        <li>マシーラ島という離島がある。岩と砂漠しかなく木は生えていない{{% ex "https://maps.app.goo.gl/jf2fdpMZFmXokmPo9" "https://maps.app.goo.gl/iXHzYPix4rQza3H56" %}}{{% ref "https://en.wikipedia.org/wiki/Dhofar_Governorate" "Dhofar Governorate" %}}</li>
     </ul>
 </div>
 
 
 {{% tabs %}}
+{{% tab "ドファール山脈" %}}
+
+{{% notice tip %}}
+モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Salalah_Oman.jpg#/media/File:Salalah_Oman.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Salalah_Oman.jpg" alt="File:Salalah Oman.jpg" width="90%"></a></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/marypaulose/">May Paulose</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/marypaulose/288487162/sizes/o/">Flickr</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3503976">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "Masirah島" %}}
 
 <div class="googlemap-if no-margin">
