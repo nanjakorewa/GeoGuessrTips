@@ -1,5 +1,3 @@
-
-
 window.JSMaps.maps.indonesia = {
 	"config": {
 		"mapWidth": 700.400,

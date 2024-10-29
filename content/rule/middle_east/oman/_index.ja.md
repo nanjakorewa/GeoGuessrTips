@@ -80,7 +80,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="desert_sand_dry_hot.jpg">
+<img src="desert_sand_dry_hot.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
