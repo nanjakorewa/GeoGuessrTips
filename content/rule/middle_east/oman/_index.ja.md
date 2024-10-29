@@ -26,7 +26,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.om</span></li>
         <li><span class="quiz">右側</span>通行</li>
-        <li>ナンバープレートは<span class="quiz">黄</span>色</li>
+        <li>ナンバープレートは<span class="quiz">黄</span>色か赤色</li>
         <li>標識の棒白黒のストライプがある</li>
     </ul>
 </div>
@@ -34,9 +34,12 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-町中は黄色ナンバーが特に多い{{% ex "https://maps.app.goo.gl/zc7q7LvPsSPP6xfr7" %}}。
+町中は黄色ナンバーが特に多い{{% ex "https://maps.app.goo.gl/zc7q7LvPsSPP6xfr7" %}}。タクシーは赤色。
 {{% /notice %}}
 
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/37266013@N00/24300474404/in/photolist-D2mhqC-bcgRdp-dq3MVx-H56Xp-nYQJxr-rrhx1a-9w9J4M-kBs2zz-e17Fek-koMCon-8ap44-qCsCuD-at9CL-6eu64S-9EMLTo-hu4P4U-dBrbaq-9DPViY-n48QJ8-NA77jA-riEEC8-LofQDB-NQaNiw-ei8iSQ-8kRYEu-dCytCa-A7fAZ-7siW3Z-aCirYy-26f6oQB-NG7VUs-AhfpY5-8SXQRk-A7fBH-av2s8U-mKufVn-HoPL2h-r2qt3-fqvDp-oCvoZN-HUjd6Y-7rB5uz-JgSqW3-2bF2kcx-iJFfJs-qndJ5X-HoPRL3-95hQgJ-7JR8wU-n48Z9K" title="Oman - 2015-1421a"><img src="https://live.staticflickr.com/1599/24300474404_178c53ecec_c.jpg" width="90%" alt="Oman - 2015-1421a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
 
 {{% lb 50 %}}
 
@@ -44,35 +47,21 @@ sc: [
 
 By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-Elle</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12980300">Link</a>
 
-![](Oman_registration_plate_Royal_household.jpg)
+![](1280px-Oman_license_plate_2001_series2.jpg)
 
-CC0
+上に同じ
 {{% /lb %}}
 
 {{% notice tip %}}
-標識の棒白黒のストライプがある{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}のはオマーンか{{% goto "../united_arab_emirates/" "UAE" %}}。普通の灰色の鋼管の場合もある。町名や次の町への距離を書いた看板などは青色。
+オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "https://maps.app.goo.gl/8cQGt2gaPCLyGFyq9" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6"  %}}。町名や次の町への距離を書いた看板などは青色。標識の棒に白黒のストライプが多い{{% ex "https://maps.app.goo.gl/yvTj1Aq3X9TZt4DV6" %}}のはオマーンか{{% goto "../united_arab_emirates/" "UAE" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Hajar_Mountains,_Musandam,_Oman_-_panoramio_(8).jpg#/media/File:Hajar_Mountains,_Musandam,_Oman_-_panoramio_(8).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Hajar_Mountains%2C_Musandam%2C_Oman_-_panoramio_%288%29.jpg" alt="Hajar Mountains, Musandam, Oman - panoramio (8).jpg" height="480" width="640"></a></p>
-<p>By Toppazz, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53507761">Link</a></p>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/liquidworld/3267308326/in/photolist-5YHNWb-4tC3XM-bcgLRK-64wLyc-nskKRj-4tG6CJ-4tG5pd-4tG5E3-nKFgKj-4tG68W-ns2WA9-4tC2cv-8Q95jf-5kCn4h-Q1n5QR-Dhnf8L-23QcUbM-aFartF-96Ffnc-ackTYG-96Khm4-29WeimA-ns2wVn-dYoWB2-29ZZR4h-h2NjKe-2ajRD-mFYiX2-96FwiH-9rNJYS-24nturK-LFYxVg-5skabF-fP1zeX-Sauoxo-2bj7q1r-bbmerB-RRqSao-ijARGP-267yBNw-bbmdeT-DTGzgn-2dczqNE-25rCanb-bxBwrK-NMfW4x-oTsiHD-oDg2Wc-3eaYji-28QdBod" title="Road signs"><img src="https://live.staticflickr.com/3515/3267308326_aea5344881_c.jpg" width="90%" alt="Road signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="streetsign.png" width="400px" />
-</div>
-
-
-{{% notice tip %}}
-オレンジと黒のシェブロン{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "https://maps.app.goo.gl/8cQGt2gaPCLyGFyq9" "https://maps.app.goo.gl/gJrUMD4eQsEDUTsk6"  %}}。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<img src="roadsign.jpg" width="500px">
-</div>
-
-<div class="googlemap-if no-margin">
-<img src="sign.png" width="200px">
+<img src="sign.png" width="300px">
 </div>
 
 {{% notice tip %}}
@@ -120,6 +109,11 @@ CC0
 
 {{% /tab %}}
 {{% tab "北部" %}}
+
+{{% notice tip %}}
+ムサンダム半島（オマーンの飛び地）にもストリートビューがあるので注意{{% ex "https://maps.app.goo.gl/GGK8arY4NQQzEYcN6" %}}。
+{{% /notice %}}
+
 
 <div class="googlemap-if no-margin">
 <img src="street_travel_car_mountain.jpg">

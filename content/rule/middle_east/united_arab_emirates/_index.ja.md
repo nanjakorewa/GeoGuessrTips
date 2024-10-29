@@ -56,7 +56,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-{{% goto "../qatar/" "カタール" %}}と異なり起伏があり完全に平坦な地域は少ない{{% ex "https://maps.app.goo.gl/xLcq14hMyswSiddT7" "https://maps.app.goo.gl/TrEHwPo45xm76ydH6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/u2zzYyXKM7yzo8Xu6" "https://maps.app.goo.gl/uZbAu185tmhtfMxb9" "https://maps.app.goo.gl/LUMyh5GEXz9GdSer5" "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/rzG1m4pCafp92fnX7" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/JkteEr886DXMJKbu9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。
+{{% goto "../qatar/" "カタール" %}}と異なり起伏があり完全に平坦な地域は少ない{{% ex "https://maps.app.goo.gl/xLcq14hMyswSiddT7" "https://maps.app.goo.gl/TrEHwPo45xm76ydH6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/u2zzYyXKM7yzo8Xu6" "https://maps.app.goo.gl/uZbAu185tmhtfMxb9" "https://maps.app.goo.gl/LUMyh5GEXz9GdSer5" "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/rzG1m4pCafp92fnX7" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/JkteEr886DXMJKbu9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。{{% goto "../oman/" "オマーン領土のムサンダム半島" %}}と間違えやすいので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./mountain_rock_landscape_stone.jpg" width="90%">
