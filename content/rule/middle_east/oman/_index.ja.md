@@ -101,8 +101,8 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
         <li>北部と南部に山岳地帯があり、間には平坦な砂漠が広がっている
             <ul>
                 <li>北部 アル・ハジャル山脈があり険しい岩山が多い{{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
-                <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
-                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い。細かいがれきのような岩が転がっている。</li>
+                <li>中央部 {{% ex "https://maps.app.goo.gl/7NjbvkkyCmoLZFRT8" "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
+                <li>南部 {{% ex "https://maps.app.goo.gl/CnucJnnDNtd31GPX6" "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い。細かいがれきのような岩が転がっている。</li>
             </ul>
         </li>
         <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
@@ -141,11 +141,11 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 </div>
 
 {{% notice tip %}}
-乾燥している地域もある。北のような切り立った断崖は少なく、小さい岩が転がっていることが多い{{% ex "https://maps.app.goo.gl/jCKWRrdB3wFe5q6j8" %}}。牧畜が盛んなので牛{{% ex "https://maps.app.goo.gl/k8dvx7zrFZttexNVA" %}}・ラクダ{{% ex "https://maps.app.goo.gl/Y6sZtGhYQ6uTsYwAA" "https://maps.app.goo.gl/3t8YaWtPYttaBhDz9" %}}・ヤギなどが歩いていたり、飼うための囲いもあるっぽい{{% ex "https://maps.app.goo.gl/83UtbFBEKLVxqBNC9" %}}{{% ref "https://www.koushu.co.jp/wp/wp-content/uploads/News15-3-J.pdf" "ドファールの農業" %}}。
+乾燥している地域もある。北のような切り立った断崖は少なく、小さい岩が転がっていることが多い{{% ex "https://maps.app.goo.gl/jCKWRrdB3wFe5q6j8" %}}。牧畜が盛んなので牛{{% ex "https://maps.app.goo.gl/k8dvx7zrFZttexNVA" "https://maps.app.goo.gl/DeBcWG57v8o6u5Mg9" %}}・ラクダ{{% ex "https://maps.app.goo.gl/Y6sZtGhYQ6uTsYwAA" "https://maps.app.goo.gl/3t8YaWtPYttaBhDz9" %}}・ヤギなどが歩いていたり、飼うための囲いもあるっぽい{{% ex "https://maps.app.goo.gl/qYMgzZRYyusEr6q86" "https://maps.app.goo.gl/BsJL3chHFVzYceCS9" "https://maps.app.goo.gl/83UtbFBEKLVxqBNC9" %}}{{% ref "https://www.koushu.co.jp/wp/wp-content/uploads/News15-3-J.pdf" "ドファールの農業" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="ubar_2002_ortsschild_neben.jpg" width="90%">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1730273303756!6m8!1m7!1syXctSwPh4pA_oczb5pX-rQ!2m2!1d17.25346706477437!2d54.26192620703163!3f250.73052868617418!4f0.6746594409073907!5f1.2689292377002483" width="90%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
