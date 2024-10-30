@@ -102,7 +102,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
             <ul>
                 <li>北部 アル・ハジャル山脈があり険しい岩山が多い{{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
                 <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
-                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い{{% ex "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}</li>
+                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い。細かいがれきのような岩が転がっている。</li>
             </ul>
         </li>
         <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
@@ -139,6 +139,15 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 <div class="googlemap-if no-margin">
 <img src="after_rain_7.jpg" width="90%">
 </div>
+
+{{% notice tip %}}
+乾燥している地域もある。北のような切り立った断崖は少なく、小さい岩が転がっていることが多い{{% ex "https://maps.app.goo.gl/jCKWRrdB3wFe5q6j8" %}}。牧畜が盛んなので牛{{% ex "https://maps.app.goo.gl/k8dvx7zrFZttexNVA" %}}・ラクダ{{% ex "https://maps.app.goo.gl/Y6sZtGhYQ6uTsYwAA" "https://maps.app.goo.gl/3t8YaWtPYttaBhDz9" %}}・ヤギなどが歩いていたり、飼うための囲いもあるっぽい{{% ex "https://maps.app.goo.gl/83UtbFBEKLVxqBNC9" %}}{{% ref "https://www.koushu.co.jp/wp/wp-content/uploads/News15-3-J.pdf" "ドファールの農業" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="ubar_2002_ortsschild_neben.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% /tabs  %}}
 
