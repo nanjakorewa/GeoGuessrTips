@@ -82,6 +82,16 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 
 
 {{% /tab %}}
+{{% tab "企業" %}}
+
+{{% notice tip %}}
+ミッドストリーム系企業の看板にパイプラインの行先が書いてある{{% ex "https://maps.app.goo.gl/ughCRqbFLYLt4sYz9" "https://maps.app.goo.gl/NMaiy7uLLbH3npzE6" %}}。WADIからMIRIBATへのパイプラインだと分かるので、その間くらいに場所があるはず{{% ex "https://maps.app.goo.gl/hoVWnGmCaAxuiqgy7" %}}。日本が輸入する天然ガスの３％以上はオマーン産{{% ref "https://www.meij.or.jp/kawara/2024_011.html" "オマーン国営企業、2025年からの10年間にわたる液化天然ガス（LNG）売買契約を締結" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1730263748039!6m8!1m7!1sacvB8dsMLohBDvl9W6aGmw!2m2!1d17.09723893563516!2d54.25963292406851!3f20.52854003730814!4f-7.045283378135764!5f2.852286653669389" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
 {{% /tabs  %}}
 
 
@@ -90,9 +100,9 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
     <ul class="rule-list">
         <li>北部と南部に山岳地帯があり、間には平坦な砂漠が広がっている
             <ul>
-                <li>北部 {{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
+                <li>北部 アル・ハジャル山脈があり険しい岩山が多い{{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
                 <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
-                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りのみ雨が降りやすく緑も多い{{% ex "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}</li>
+                <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い{{% ex "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}</li>
             </ul>
         </li>
         <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
@@ -109,10 +119,10 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 </div>
 
 {{% /tab %}}
-{{% tab "北部" %}}
+{{% tab "アル・ハジャル山脈" %}}
 
 {{% notice tip %}}
-ムサンダム半島（オマーンの飛び地）にもストリートビューがあるので注意{{% ex "https://maps.app.goo.gl/GGK8arY4NQQzEYcN6" %}}。
+ムサンダム半島（オマーンの飛び地）にもストリートビューがあるので注意{{% ex "https://maps.app.goo.gl/GGK8arY4NQQzEYcN6" %}}。地中海性気候の場所もありザクロなどの農園も見られる。南部のドファール山脈と違い木や草で覆われた山はほとんどない。
 {{% /notice %}}
 
 
