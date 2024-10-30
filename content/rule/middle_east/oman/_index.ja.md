@@ -123,7 +123,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 {{% tab "ドファール山脈" %}}
 
 {{% notice tip %}}
-モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/Gn7my7NTW8CYn82s9" "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}。
+南部のSalalah周辺に広がる山脈。モンスーンが発生する場所で他の地域より雨が多い。辺り一面が緑に覆われている場所もある{{% ex "https://maps.app.goo.gl/Gn7my7NTW8CYn82s9" "https://maps.app.goo.gl/PTHsoYhK3SkEhubY7" "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
