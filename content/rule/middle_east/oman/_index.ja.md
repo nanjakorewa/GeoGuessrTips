@@ -65,7 +65,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 </div>
 
 {{% notice tip %}}
-砂漠ではまったく木が生えていない{{% ex "https://maps.app.goo.gl/vUP9sf56b2eiWwEE7" "https://maps.app.goo.gl/FdvjxF4sjqFLG7sE7" %}}か、こんな感じの木がまばらに生えている{{% ex "https://maps.app.goo.gl/acQfgGShB3i7NJ7YA" %}}。
+砂漠ではまったく木が生えていない{{% ex "https://maps.app.goo.gl/AHEuQnx2cuiJ2TY78" "https://maps.app.goo.gl/upvBUcJdsfpTCFCD7" %}}か、こんな感じの木がまばらに生えている{{% ex "https://maps.app.goo.gl/oYYah8sjQCg3WzCH7" "https://maps.app.goo.gl/acQfgGShB3i7NJ7YA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -73,7 +73,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 </div>
 
 {{% notice tip %}}
-ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/X54rgAF8AzJZpBNw6" "https://maps.app.goo.gl/tStXT4jvFkSnfWyZ7" %}}ナツメヤシ農園もある{{% ex "https://maps.app.goo.gl/FB4T4vaZDhbQY6Lf8" %}}。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
+ナツメヤシが植えられており{{% ex "https://maps.app.goo.gl/X54rgAF8AzJZpBNw6" "https://maps.app.goo.gl/tStXT4jvFkSnfWyZ7" %}}ナツメヤシ農園もある{{% ex "https://maps.app.goo.gl/uMU7TjYAK8kEwyLt8" "https://maps.app.goo.gl/FB4T4vaZDhbQY6Lf8" %}}。The Million Date Palm Plantation Project(意訳：ナツメ​​ヤシ100万本プロジェクト)により全国的にナツメヤシの栽培が進められた{{% ref "http://nakheel.om/?page_id=841#:~:text=The%20Million%20Date%20Palm%20Plantation,social%20development%20and%20environmental%20awareness." "Million Date Palm Plantation Project" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
