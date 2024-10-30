@@ -95,6 +95,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
                 <li>南部 {{% ex "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りのみ雨が降りやすく緑も多い{{% ex "https://maps.app.goo.gl/7kPEuDQMBn3zTNcT7" %}}</li>
             </ul>
         </li>
+        <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
     </ul>
 </div>
 
@@ -119,20 +120,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 <img src="street_travel_car_mountain.jpg">
 </div>
 {{% /tab %}}
-{{% /tabs  %}}
-
-
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-        <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
-        <li>マシーラ島という離島がある。岩と砂漠しかなく木は生えていない{{% ex "https://maps.app.goo.gl/jf2fdpMZFmXokmPo9" "https://maps.app.goo.gl/iXHzYPix4rQza3H56" %}}{{% ref "https://en.wikipedia.org/wiki/Dhofar_Governorate" "Dhofar Governorate" %}}</li>
-    </ul>
-</div>
-
-
-{{% tabs %}}
 {{% tab "ドファール山脈" %}}
 
 {{% notice tip %}}
@@ -143,6 +130,19 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 <img src="after_rain_7.jpg" width="90%">
 </div>
 {{% /tab %}}
+{{% /tabs  %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>マシーラ島という離島がある{{% ex "https://maps.app.goo.gl/jf2fdpMZFmXokmPo9" "https://maps.app.goo.gl/iXHzYPix4rQza3H56" %}}{{% ref "https://en.wikipedia.org/wiki/Dhofar_Governorate" "Dhofar Governorate" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
 {{% tab "Masirah島" %}}
 
 <div class="googlemap-if no-margin">
