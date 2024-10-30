@@ -157,6 +157,12 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>マシーラ島という離島がある{{% ex "https://maps.app.goo.gl/jf2fdpMZFmXokmPo9" "https://maps.app.goo.gl/iXHzYPix4rQza3H56" %}}{{% ref "https://en.wikipedia.org/wiki/Dhofar_Governorate" "Dhofar Governorate" %}}</li>
+        <li>内陸と東に赤っぽい砂丘が広がるエリアがあるが道が数本しかない
+            <ul>
+                <li>東 Wahiba-Sandsと呼ばれるエリア{{% ex "https://maps.app.goo.gl/MnkyH7EFe9HMQaX39" "https://maps.app.goo.gl/oVsdsbENGGU4agGd9" "https://maps.app.goo.gl/hbdy6YLKmMfQ6s769" %}}</li>
+                <li>内陸 特定の道だけこのエリアを走っている{{% ex "https://maps.app.goo.gl/uedEMkjFoWnPUiPW6" "https://maps.app.goo.gl/rMyQ6XjLTBEyG1Zh7" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -167,6 +173,17 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Isla_de_Masirah.jpg#/media/File:Isla_de_Masirah.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Isla_de_Masirah.jpg" alt="Isla de Masirah.jpg" width="90%"></a></p>
 <p>By <a href="//commons.wikimedia.org/w/index.php?title=User:ELSIRIDERMOTO&amp;action=edit&amp;redlink=1" class="new" title="User:ELSIRIDERMOTO (page does not exist)">ELSIRIDERMOTO</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=94647403">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "砂丘" %}}
+
+{{% notice tip %}}
+砂丘のあるエリアが東と内陸にある{{% ref "https://www.researchgate.net/figure/Simple-outline-of-the-main-desert-features-of-the-Wahiba-Sands-of-Oman-and-the-greater_fig1_226526130" "Glennie, Kenneth W., et al. 『Geological importance of luminescence dates in Oman and the Emirates: An overview.』 Geochronometria 38 (2011): 259-271." %}}らしい。画像の一部は参考文献より引用。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="soilmap.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
