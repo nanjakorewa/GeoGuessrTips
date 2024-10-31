@@ -109,10 +109,10 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
         <li>内陸と東に赤っぽい砂丘が広がるエリアがあるが道が数本しかない
             <ul>
                 <li><span style="color:#B60F00;font-size:1.2em">■</span>赤い砂の砂丘があるエリア 東はWahiba-Sandsと呼ばれるエリア{{% ex "https://maps.app.goo.gl/MnkyH7EFe9HMQaX39" "https://maps.app.goo.gl/oVsdsbENGGU4agGd9" "https://maps.app.goo.gl/hbdy6YLKmMfQ6s769" %}}、西は特定の道{{% ex "https://maps.app.goo.gl/uedEMkjFoWnPUiPW6" "https://maps.app.goo.gl/rMyQ6XjLTBEyG1Zh7" %}}</li>
-                <li><span style="color:#D69A5C;font-size:1.2em">■</span>火山を含む山岳地帯であり黒っぽい{{% ex "https://maps.app.goo.gl/td2fU5DVbetwksZc7" "https://maps.app.goo.gl/6yzjjcDXMbPExjKo7" %}}</li>
+                <li><span style="color:#D69A5C;font-size:1.2em">■</span>火山を含む山岳地帯であり黒っぽい{{% ex "https://maps.app.goo.gl/7q2zA9ZHjXFWAjta6" "https://maps.app.goo.gl/td2fU5DVbetwksZc7" "https://maps.app.goo.gl/6yzjjcDXMbPExjKo7" %}}</li>
                 <li><span style="color:#FEDA22;font-size:1.2em">■</span>沖積層。山岳地帯ほど黒くない・砂利もまざってる{{% ex "https://maps.app.goo.gl/rvTYvMa37sp3VaWG7" "https://maps.app.goo.gl/7QgFGb63czxT3yGn8" %}}</li>
                 <li><span style="color:#7B9BCA;font-size:1.2em">■</span>砂漠だが浸食された起伏があることも{{% ex "https://maps.app.goo.gl/QCwkfsDfmLgTTv8ZA" "https://maps.app.goo.gl/3CjbhMa9iVnmdPm99" "https://maps.app.goo.gl/owjkWWUronE3LZYN6" %}}</li>
-                <li><span style="color:#52B701;font-size:1.2em">■</span>ドファール山脈まわり。歓喜は草が生えないが5月以降は段々草木が生えて緑も多い。割れたような岩がある{{% ex "https://maps.app.goo.gl/ikSF2wDXUNVk6Mzh8" %}}。</li>
+                <li><span style="color:#52B701;font-size:1.2em">■</span>ドファール山脈まわり{{% ex "https://maps.app.goo.gl/N2RrujFL455RFfnv6" %}}。緑も多く牧畜が盛ん。乾いた地域には割れたような岩が散乱している{{% ex "https://maps.app.goo.gl/ikSF2wDXUNVk6Mzh8" %}}。</li>
                 <li>のこりは平坦な場所が大半を占めている</li>
             </ul>
         </li>
