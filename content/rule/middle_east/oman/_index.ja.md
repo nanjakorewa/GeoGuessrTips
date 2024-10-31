@@ -113,7 +113,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
                 <li><span style="color:#FEDA22;font-size:1.2em">■</span>沖積層。山岳地帯ほど黒くない・砂利もまざってる{{% ex "https://maps.app.goo.gl/rvTYvMa37sp3VaWG7" "https://maps.app.goo.gl/7QgFGb63czxT3yGn8" %}}</li>
                 <li><span style="color:#7B9BCA;font-size:1.2em">■</span>砂漠だが浸食された起伏があることも{{% ex "https://maps.app.goo.gl/QCwkfsDfmLgTTv8ZA" "https://maps.app.goo.gl/3CjbhMa9iVnmdPm99" "https://maps.app.goo.gl/owjkWWUronE3LZYN6" %}}</li>
                 <li><span style="color:#52B701;font-size:1.2em">■</span>ドファール山脈まわり。歓喜は草が生えないが5月以降は段々草木が生えて緑も多い。割れたような岩がある{{% ex "https://maps.app.goo.gl/ikSF2wDXUNVk6Mzh8" %}}。</li>
-                <li>のこりはSalalah周辺のドファール山脈周り以外は平坦で白っぽい砂が大半を占めている</li>
+                <li>のこりは平坦な場所が大半を占めている</li>
             </ul>
         </li>
     </ul>
