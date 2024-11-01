@@ -15,6 +15,10 @@ dont_show_usda: true
 import_jquery_36: true
 is_has_distinctive_googlecar: true
 flag_height: "350px"
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../middle_east/oman/", "オマーン"],
+    ]
 ---
 
 <div class="main-desciption country-description">
