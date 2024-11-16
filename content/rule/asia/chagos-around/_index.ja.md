@@ -27,6 +27,7 @@ sc: [
         <li>60以上の島が存在しており遠くに複数の島が複数見える{{% ref "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6" "チャゴス諸島" %}}</li>
         <li>チャゴス諸島のPeros Banhosと呼ばれる環礁の周辺にストリートビューが多い{{% ref "https://en.wikipedia.org/wiki/Peros_Banhos" "Peros Banhos" %}}</li>
         <li class="no-evidence">黄緑色の端が丸く反り返った葉っぱの低木が多くの島で生えている</li>
+        <li>チャゴス諸島の主権がモーリシャスに譲渡されることが発表された{{% ref "https://www.bbc.com/news/articles/c98ynejg4l5o" "BBC news - UK will give sovereignty of Chagos Islands to Mauritius" %}}</li>
     </ul>
 </div>
 
