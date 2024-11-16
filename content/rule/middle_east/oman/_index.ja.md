@@ -107,7 +107,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
             </ul>
         </li>
         <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
-        <li>内陸と東に赤っぽい砂丘が広がるエリアがあるが道が数本しかない
+        <li>土の色や景色
             <ul>
                 <li><span style="color:#B60F00;font-size:1.2em">■</span>赤い砂の砂丘があるエリア 東はWahiba-Sandsと呼ばれるエリア{{% ex "https://maps.app.goo.gl/MnkyH7EFe9HMQaX39" "https://maps.app.goo.gl/oVsdsbENGGU4agGd9" "https://maps.app.goo.gl/hbdy6YLKmMfQ6s769" %}}、西は特定の道{{% ex "https://maps.app.goo.gl/uedEMkjFoWnPUiPW6" "https://maps.app.goo.gl/rMyQ6XjLTBEyG1Zh7" %}}</li>
                 <li><span style="color:#D69A5C;font-size:1.2em">■</span>火山を含む山岳地帯であり黒っぽい{{% ex "https://maps.app.goo.gl/7q2zA9ZHjXFWAjta6" "https://maps.app.goo.gl/td2fU5DVbetwksZc7" "https://maps.app.goo.gl/6yzjjcDXMbPExjKo7" %}}</li>
@@ -160,7 +160,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 </div>
 
 {{% /tab %}}
-{{% tab "土の色" %}}
+{{% tab "土の色や景色" %}}
 
 {{% notice tip %}}
 砂丘のあるエリアが東と内陸にある{{% ref "https://www.researchgate.net/figure/Simple-outline-of-the-main-desert-features-of-the-Wahiba-Sands-of-Oman-and-the-greater_fig1_226526130" "Glennie, Kenneth W., et al. 『Geological importance of luminescence dates in Oman and the Emirates: An overview.』 Geochronometria 38 (2011): 259-271." %}}らしい。画像の一部は参考文献より引用。
