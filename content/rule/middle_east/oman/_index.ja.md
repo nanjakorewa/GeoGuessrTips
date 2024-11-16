@@ -106,7 +106,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
                 <li>南部 {{% ex "https://maps.app.goo.gl/CnucJnnDNtd31GPX6" "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い。細かいがれきのような岩が転がっている。</li>
             </ul>
         </li>
-        <li>ドファール山脈周辺はモンスーン（Khareef）により雨が降りやすく緑に覆われている</li>
         <li>土の色や景色
             <ul>
                 <li><span style="color:#B60F00;font-size:1.2em">■</span>赤い砂の砂丘があるエリア 東はWahiba-Sandsと呼ばれるエリア{{% ex "https://maps.app.goo.gl/MnkyH7EFe9HMQaX39" "https://maps.app.goo.gl/oVsdsbENGGU4agGd9" "https://maps.app.goo.gl/hbdy6YLKmMfQ6s769" %}}、西は特定の道{{% ex "https://maps.app.goo.gl/uedEMkjFoWnPUiPW6" "https://maps.app.goo.gl/rMyQ6XjLTBEyG1Zh7" %}}</li>
