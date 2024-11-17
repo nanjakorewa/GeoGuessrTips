@@ -67,8 +67,8 @@ Kendaraan berjalan di sisi <span class="quiz">kiri</span> {{% ex "https://maps.a
 Rambu jalan dengan nomor pada papan hijau memiliki font yang berbeda dibandingkan dengan Australia. Contoh: kiri (Afrika Selatan), kanan (Australia).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/M4.png" width="70px" style="margin:10px">
-<img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+<img src="../../../../rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px">
+<img src="../../../../rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
 
 <div class="googlemap-if no-margin">
