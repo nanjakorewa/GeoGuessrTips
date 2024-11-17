@@ -1,5 +1,5 @@
 ---
-title: "チュニジア"
+title: "Tunisia"
 date: 2023-02-26
 lastmod: 2023-07-01
 weight: 1
@@ -12,61 +12,53 @@ no_detaile_info: true
 jetro_detail: true
 plonkit: true
 dont_show_usda: true
-sc_title: "間違えやすい地域"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
-    ["../../middle_east/jordan/", "ヨルダン"],
-    ]
+    ["../../middle_east/jordan/", "Yordania"],
+]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.tn</span></li>
-        <li>アラビア語が公用語だが<span class="quiz">フランス</span>語も広く使用されている</li>
-        <li><span class="quiz">鮮やかな水色と白</span>が基調の建物が多い</li>
-        <li><span class="quiz">黒</span>色のナンバープレートがある</li>
-        <li>後ろに車がついてくる</li>
-        <li class="no-evidence">道端に水色の袋が棄てられていることが多い？</li>
+        <li>Domain negara: <span class="quiz">.tn</span></li>
+        <li>Bahasa resmi adalah Arab, tetapi bahasa <span class="quiz">Prancis</span> juga banyak digunakan</li>
+        <li>Banyak bangunan bercorak warna <span class="quiz">biru muda dan putih</span></li>
+        <li>Plat nomor kendaraan sering berwarna <span class="quiz">hitam</span></li>
+        <li>Kendaraan sering mengikuti di belakang mobil Google</li>
+        <li class="no-evidence">Sering terlihat kantong plastik berwarna biru muda di pinggir jalan?</li>
     </ul>
 </div>
-
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-
 {{% notice tip %}}
-特徴的な網目のある電柱が見つかる{{% ex "https://maps.app.goo.gl/hqXfjySphhMKgX5BA" "https://maps.app.goo.gl/EFV8RDZC1zBjY2WVA" "https://maps.app.goo.gl/6FCynZ4NfJy7T5828" "https://maps.app.goo.gl/NvMPNpqyVML678oj9" "https://maps.app.goo.gl/dcHxnvg6oJpsGxYA9" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
+Tiang listrik dengan pola unik dapat ditemukan di beberapa lokasi{{% ex "https://maps.app.goo.gl/hqXfjySphhMKgX5BA" "https://maps.app.goo.gl/EFV8RDZC1zBjY2WVA" "https://maps.app.goo.gl/6FCynZ4NfJy7T5828" "https://maps.app.goo.gl/NvMPNpqyVML678oj9" "https://maps.app.goo.gl/dcHxnvg6oJpsGxYA9" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:El_kantara-stegop-03.jpg#/media/File:El_kantara-stegop-03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/El_kantara-stegop-03.jpg" alt="El kantara-stegop-03.jpg" width="95%"></a></p><p>By © Jose Mario Pires, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20885309">Link</a></p>
 </div>
 
-
 {{% notice tip %}}
-水色と白が基調の建物が多い{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}。縁石やシェブロンも白と水色の組合せ{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}。
+Banyak bangunan bercorak biru muda dan putih{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}. Tepi jalan dan chevron juga sering memiliki kombinasi warna biru muda dan putih{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./house.png" width="90%">
 </div>
 
-
 {{% notice tip %}}
-<span class="quiz">黒</span>色のナンバープレートがあるが他の色も一定数いる。そしてGoogle Carの後ろに黒っぽい色の車が付いてくることが多い{{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref "画像出典 - 画像加工あり" %}}。
+Plat nomor kendaraan sering berwarna <span class="quiz">hitam</span>, namun ada juga warna lainnya. Sering terlihat mobil berwarna gelap mengikuti di belakang mobil Google{{% ex "https://goo.gl/maps/YkhCfF27ZJG89csn9" "https://goo.gl/maps/XXwAXtpEehF6fKxm9" %}}{{% imref "Gambar referensi - telah dimodifikasi" %}}.
 {{% /notice %}}
-
-
 <div class="googlemap-if unclickable">
 <img src="./car.png" width="95%">
 </div>
-
 
 {{% lb 50 %}}
 ![](2023-05-28-23-08-36.png)
 
 CC0
 {{% /lb %}}
-
 
 {{% /tab %}}
 {{% tab "w-bollard" %}}
@@ -75,9 +67,9 @@ CC0
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955716287!6m8!1m7!1sPEGqq1AsrBhy0D_9ZufIfQ!2m2!1d36.50897427774278!2d10.56847932526787!3f82.34708398462853!4f-13.113885457952321!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "水色の袋" %}}
+{{% tab "Kantong Biru" %}}
 {{% notice tip %}}
-道端に水色の袋かビニールテープ（？）が棄てられていることが多い
+Sering terlihat kantong plastik atau pita biru muda di pinggir jalan.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681955649216!6m8!1m7!1snS76sg90peo5e0VgN0M4ZQ!2m2!1d36.50387532440455!2d10.57159934591823!3f264.17253394104546!4f-2.1982196308240702!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
