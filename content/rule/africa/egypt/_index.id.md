@@ -17,27 +17,26 @@ plonkit: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domainnya adalah <span class="quiz">.eg</span>.</li>
-        <li>Sebagian besar streetview berada di tempat-tempat wisata seperti piramida dan benteng Kahite Bay.</li>
-        <li>Anda dapat menemukan banyak bangunan simetris yang terbuat dari batu bata dan batu putih yang dijemur.</li>
-        <li>Pelat nomor mobil biasa berwarna biru muda di bagian atas.</li>
+        <li>Domain internet menggunakan <span class="quiz">.eg</span></li>
+        <li>Banyak tempat wisata seperti Piramida dan Benteng Qaitbay</li>
+        <li>Banyak bangunan simetris yang terbuat dari batu bata tanah liat atau batu putih</li>
+        <li>Bagian atas pelat nomor kendaraan umum berwarna <span class="quiz">biru muda</span></li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Ada banyak streetview di tempat-tempat wisata seperti piramida dan benteng Kahite Bay. Sebagian besar bangunan terlihat berbentuk simetris dan terbuat dari batu bata dan batu yang dijemur. Tampaknya, "unsur religius yang meningkatkan otoritas dan mistik raja-raja sangat dihargai, maka dari itu perkembangan simetri dan metode pengaturan ruang secara terus menerus oleh satu sumbu panjang."{{% ref "https://www.news-digest.co.uk/news/index.php? cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "Arsitektur Mesir" %}}.
+Banyak tempat wisata seperti Piramida {{% ex "https://maps.app.goo.gl/8rrMqFYeptabCejP6" %}} dan Benteng Qaitbay {{% ex "https://maps.app.goo.gl/z8t87qBct5QeRX186" %}}. Bangunan sering kali memiliki bentuk simetris, dibuat dengan batu bata tanah liat dan batu putih {{% ex "https://maps.app.goo.gl/xoj4jyQPmvpUDNKH8" "https://maps.app.goo.gl/PDbWvY5xbopNh8Fd8" %}}. ‘Penghormatan terhadap elemen religius yang meningkatkan otoritas raja dan misteri, membuat simetri (keselarasan kiri-kanan) dan satu poros panjang yang memberikan keteraturan ruang secara berkesinambungan’ telah berkembang {{% ref "https://www.news-digest.co.uk/news/index.php?cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "Arsitektur Mesir" %}}.
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687074150020!6m8!1m7!1s5VSLyH9gUpMjOzJbRVnnTA!2m2!1d29.98040893145138!2d31.13534148259916!3f213.32940028359056!4f19.06443668414819!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1687086418598!6m8!1m7!1stno5NLJlsCNekfMVKHIn3w!2m2!1d31.21362287911513!2d29.88600059673334!3f316.03813673587365!4f4.855447608306946!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688790252839!6m8!1m7!1slMyWT6KdlKsSr9m5nbzBUw!2m2!1d30.02951612069242!2d31.26102349615607!3f61.714884153398124!4f18.340014211500417!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1688790383511!6m8!1m7!1sPxuQ5rCWs0GAacYhbGKqMA!2m2!1d30.00809127391321!2d31.23067608216505!3f118.08698210685318!4f7.038745332678047!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./egypt_ancient_archeology_pyramid_0.jpg" width="600px">
+<img src="./qaitbay_citadel.jpg" width="334px">
+<img src="./copticquarter.jpg" width="266px">
 </div>
 
 {{% notice tip %}}
-Terkadang, bagian atas pelat nomor kendaraan berwarna <span class="quiz">biru muda</span>. Warnanya bervariasi tergantung pada jenis kendaraan, seperti oranye untuk taksi dan merah untuk truk {{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Egypt" "Plat nomor kendaraan di Mesir" %}}.
+Pelat nomor kendaraan umum terkadang memiliki bagian atas berwarna <span class="quiz">biru muda</span> {{% ex "https://maps.app.goo.gl/enoviQjMZGv3wXc86" %}}. Warna pelat nomor bervariasi tergantung jenis kendaraan, seperti taksi berwarna oranye, truk berwarna merah, dan lainnya {{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Egypt" "Pelat nomor kendaraan Mesir" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -47,13 +46,12 @@ Terkadang, bagian atas pelat nomor kendaraan berwarna <span class="quiz">biru mu
 {{% lb 50 %}}
 ![](2023-06-18-16-46-26.png)
 
-By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" title="User:Nima Farid">Nima Farid</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=87952324">Link</a>
+Oleh <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" title="User:Nima Farid">Nima Farid</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=87952324">Link</a>
 
 ![](lc2.png)
 
-Dibuat sendiri berdasarkan gambar CC0.
+Dibuat berdasarkan gambar CC0
 {{% /lb %}}
-
 
 {{% /tab %}}
 {{% /tabs %}}

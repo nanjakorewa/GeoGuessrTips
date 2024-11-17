@@ -1,5 +1,5 @@
 ---
-title: "Mali"
+title: "Republik Mali"
 date: 2023-02-26
 lastmod: 2023-07-01
 weight: 1
@@ -16,18 +16,18 @@ is_has_many_trekker: true
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Mobil mekaju di sebelah kanan.</li>
-        <li>Domainnya adalah <span class="quiz">.ml</span></li>
-        <li>Bahasa resmi adalah bahasa Prancis dan bahasa daerah tertentu.</li>
-        <li>Di Mali, banyak bangunan yang terbuat dari lumpur dan tampak khas. Tongkat dan pipa yang terbuat dari pohon palem sering kali menonjol dari dinding{{% ref "http://www.kamit.jp/27_mali/mali.htm" "西アフリカの イスラｰム建築" %}}.</li>
-        <li>Many Street Viewers are located in the vicinity of the World Heritage Sites of {{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "Old City of Djenne" %}}, {{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "Askia's Tomb" %}}, {{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "Bandiagara Cliffs" %}} , and {{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "Timbuktu" %}} .
+        <li>Kendaraan melaju di sisi <span class="quiz">kanan</span>.</li>
+        <li>Domain internet menggunakan <span class="quiz">.ml</span>.</li>
+        <li>Bahasa yang digunakan adalah <span class="quiz">Prancis</span> dan bahasa lokal.</li>
+        <li>Banyak bangunan di Mali menggunakan <span class="quiz">lumpur</span>, yang memiliki tampilan khas {{% ref "http://www.kamit.jp/27_mali/mali.htm" "Arsitektur Islam di Afrika Barat" %}}.</li>
+        <li>Banyak Street View tersedia di sekitar {{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "Kota Tua Djenné" %}}, {{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "Makam Askia" %}}, {{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "Tebing Bandiagara" %}}, dan {{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "Timbuktu" %}}, serta beberapa titik kecil lainnya.</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Di Mali, banyak bangunan yang terbuat dari lumpur dan tampak khas. Tongkat dan pipa yang terbuat dari pohon palem sering kali menonjol dari dinding{{% ref "https://skyticket.jp/guide/90245" "伝統的な泥建築の国、マリ共和国" %}}.
+Banyak bangunan di Mali terbuat dari <span class="quiz">lumpur</span>, dengan dinding yang sering dilengkapi batang-batang kayu kelapa (disebut "toron") atau pipa yang menonjol {{% ref "https://skyticket.jp/guide/90245" "Negara dengan Arsitektur Tradisional dari Lumpur, Republik Mali" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -35,16 +35,18 @@ Di Mali, banyak bangunan yang terbuat dari lumpur dan tampak khas. Tongkat dan p
 </div>
 
 {{% notice tip %}}
-Rumah-rumahnya terbuat dari batu bata yang dijemur dan lumpur. Dengan curah hujan yang sedikit dan cuaca yang kering, atap semua bangunan tampak datar{{% ex "https://maps.app.goo.gl/z1uSTjLnQBukykm66" "https://maps.app.goo.gl/rVvQ1Z1c3J5ssCCT7" %}}.
+Bangunan di sini terbuat dari bata tanah liat yang dikeringkan matahari dan lumpur. Curah hujan rendah dan lingkungan kering membuat atap bangunan terlihat datar {{% ex "https://maps.app.goo.gl/z1uSTjLnQBukykm66" "https://maps.app.goo.gl/rVvQ1Z1c3J5ssCCT7" %}}.
 {{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Timbuktu_Street_(6917662).jpg#/media/File:Timbuktu_Street_(6917662).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Timbuktu_Street_%286917662%29.jpg" alt="Timbuktu Street (6917662).jpg" height="419" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/48600082269@N01">upyernoz</a> from Haverford, USA - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/upyernoz/6917662/">Timbuktu Street</a>
 Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=29240121">Link</a></p>
 </div>
 
 {{% notice tip %}}
-Tebing Bandiagara terletak jauh dari daerah perkotaan{{% ex "https://maps.app.goo.gl/3wPDRJD1wu1AMFxm6" "https://maps.app.goo.gl/e1WEbAzvs27pHcMo7" %}}.
+Tebing Bandiagara yang terkenal terdapat di area kecil di luar perkotaan {{% ex "https://maps.app.goo.gl/3wPDRJD1wu1AMFxm6" "https://maps.app.goo.gl/e1WEbAzvs27pHcMo7" %}}.
 {{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./falaise_de_bandiagara2.jpg" width="550px">
 </div>

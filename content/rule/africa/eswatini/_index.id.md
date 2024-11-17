@@ -11,27 +11,31 @@ flag: "SZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
+sc_title: "Wilayah yang Sering Tertukar"
+sc: [
+    ["../south-africa/", "Afrika Selatan"],
+    ["../lesotho/", "Lesotho"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domainnya adalah <span class="quiz">.sz</span>.</li>
-        <li>Nomor jalan adalah <span class="quiz">MR</span>.</li>
-        <li>Tiang sering kali terbuat dari kayu tipis berwarna kecoklatan gelap.</li>
-        <li>Bagian bawah pelat nomor tampak berwarna hijau kekuningan.</li>
-        <li class="no-evidence">Dengan ketinggiannya yang rendah, Lowveld datar dan seluruh wilayahnya miring, sehingga ketika Anda berada di jalan di Lowveld, Anda bisa melihat jauh ke utara dan selatan, tetapi tidak terlalu jauh ke timur dan barat.</li>
-        <li class="no-no-evidence">Tidak seperti Lesotho, kehutanan dilakukan di tempat yang lebih tinggi dan Anda akan dapat melihat perkebunan.</li>
+        <li>Domain internet menggunakan <span class="quiz">.sz</span></li>
+        <li>Nomor jalan diawali dengan <span class="quiz">MR</span></li>
+        <li>Tiang listrik sering terbuat dari kayu tipis berwarna cokelat tua</li>
+        <li>Bagian bawah pelat nomor kendaraan berwarna hijau muda</li>
+        <li class="no-evidence">Lowveld yang memiliki ketinggian rendah umumnya berupa dataran, dan karena negara ini miring, di jalanan Lowveld arah utara-selatan biasanya menawarkan pemandangan jauh, sementara arah timur-barat tidak begitu.</li>
+        <li class="no-no-evidence">Berbeda dengan {{% goto "../lesotho/" "Lesotho" %}}, di daerah dengan ketinggian tinggi di Eswatini, kehutanan dilakukan dengan pohon dari jenis yang sama berjajar rapi.</li>
     </ul>
     {{% rd africa eswatini verysmall %}}
 </div>
-
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Eswatini memiliki banyak rumput tipis seperti ini{{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}.
+Rumput tipis seperti ini banyak ditemukan {{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -40,25 +44,16 @@ Eswatini memiliki banyak rumput tipis seperti ini{{% ex "https://goo.gl/maps/QDB
 </div>
 
 {{% notice tip %}}
-Tiang-tiang terbuat dari kayu tipis berwarna coklat tua.
+Pelat nomor terlihat berwarna putih dan hijau muda {{% ex "https://maps.app.goo.gl/EehLxYAT59kXPhS29" %}}. Warna ini juga ditemukan di pelat nomor wilayah tengah {{% goto "../south-africa/" "Afrika Selatan" %}}, jadi perlu diperhatikan.
 {{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682821573530!6m8!1m7!1scKYowqlah7eCEnkXE76cqQ!2m2!1d-26.84151182200207!2d30.96616186490692!3f66.72130030000376!4f23.399425204274294!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682821665705!6m8!1m7!1stvXX7dOvI9y9u1ynHviBhQ!2m2!1d-27.02500643545952!2d31.93532396224216!3f344.43606243762974!4f12.645054239222944!5f1.655499308789675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg#/media/File:SZ-manzini-zufahrt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg" alt="SZ-manzini-zufahrt.jpg" width="95%"></a></p><p>By User: Bgabel at wikivoyage shared, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22958562">Link</a></p>
 </div>
-
-{{% notice tip %}}
-Plat nomor tampak berwarna putih dan hijau kekuningan. Perhatikan bahwa pelat nomor yang digunakan di pusat {{% goto "../south-africa/" "Afrika Selatan" %}} juga memiliki warna yang sama.
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686315521446!6m8!1m7!1sx2W_8QdSo1XWfGZuW7m0rw!2m2!1d-26.38619079032152!2d31.17023469102327!3f68.27969989031288!4f-27.929373629586024!5f3.325193203789971" width="400" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
 
 {{% lb 50 %}}
 ![](2023-06-09-22-00-36.png)
 
-By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers">Dickelbers</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45400340">Link</a>
+By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers">Dickelbers</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45400340">Link</a>
 {{% /lb %}}
 
 {{% /tab %}}
@@ -70,7 +65,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 {{% /tab %}}
 {{% tab "Ketinggian" %}}
 {{% notice tip %}}
-Seluruh negara ini miring, dengan dataran tinggi (1.500 meter di atas permukaan laut) di bagian barat dan dataran rendah (200 meter di atas permukaan laut) di bagian timur.
+Bagian barat berupa dataran tinggi (1500 m) sedangkan bagian timur berupa dataran rendah (200 m), memberikan kemiringan pada keseluruhan wilayah negara ini.
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="2023-04-21-05-06-55.png">
@@ -81,33 +76,29 @@ Seluruh negara ini miring, dengan dataran tinggi (1.500 meter di atas permukaan 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>Area ini dibagi menjadi Lowveld, Midveld, dan Highveld menurut ketinggian, dengan jenis pertanian yang berbeda.</li>
-        <li class="no-evidence">Kadang-kadang <span class="quiz">tebu</span> ditanam di Lowveld.</li>
-        <li class="no-evidence">Di Highveld, kehutanan pinus dan eukaliptus dipraktikkan dan hutan tanaman juga ada.</li>
+        <li>Berdasarkan ketinggian, dibagi menjadi Highveld, Middleveld, dan Lowveld, masing-masing dengan bentuk pertanian yang berbeda.</li>
+        <li class="no-evidence">Di Highveld terdapat <span class="quiz">kehutanan pinus dan eukaliptus</span>, yang merupakan hasil penanaman ulang.</li>
+        <li class="no-evidence">Di Lowveld, <span class="quiz">tebu</span> sering dibudidayakan.</li>
     </ul>
 </div>
 
-
-
 {{% tabs %}}
-{{% tab "Lowveld" %}}
-
+{{% tab "Highveld" %}}
 {{% notice tip %}}
-Area ini dibagi menjadi Lowveld, Midveld, dan Highveld menurut ketinggian, dengan jenis pertanian yang berbeda. Terkadang tebu ditanam di dataran rendah.
+Di Highveld terdapat <span class="quiz">kehutanan pinus dan eukaliptus</span>, hasil dari penanaman ulang {{% ex "https://maps.app.goo.gl/QEddaQmeU1gzrJFt8" %}}. Bahkan jika tidak ada hutan, mungkin terdapat bekas area yang ditebang {{% ex "https://maps.app.goo.gl/zRoXXcfkBWEBb68b9" %}}.
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/safahovinen/39263746285/" title="Close to Piggs Peak"><img src="https://live.staticflickr.com/4670/39263746285_1232779115_c.jpg" width="800" height="533" alt="Close to Piggs Peak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "Lowveld" %}}
+{{% notice tip %}}
+Wilayah ini dibagi menjadi Highveld, Middleveld, dan Lowveld dengan jenis pertanian berbeda. Di Lowveld, <span class="quiz">tebu</span> sering dibudidayakan.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682436625448!6m8!1m7!1saJY6MDzb1xARd9CzJv9kxw!2m2!1d-26.76722330154598!2d31.92291092356511!3f53.1599899823355!4f-4.437015220855059!5f2.872764259751242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682438551149!6m8!1m7!1sDF3hfswFXEYScwkJ7fGCcg!2m2!1d-26.8343591585108!2d31.9723227159364!3f255.36907997395818!4f-11.809296463198066!5f1.455857875479618" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% /tab %}}
-{{% tab "Highveld" %}}
-{{% notice tip %}}
-Di Highveld, kehutanan pinus dan eukaliptus dipraktikkan dan hutan tanaman juga ada.
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682437918561!6m8!1m7!1su4hFvVYT2FiC5uoEuBVJpg!2m2!1d-26.99985045048718!2d31.24975573404177!3f195.39575852855015!4f4.358548636269049!5f1.5956652534074234" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682437875329!6m8!1m7!1sd8eq9WtszCHu406Awkv2yg!2m2!1d-26.59319998991595!2d30.93987315666483!3f291.904046917961!4f-8.515279937503635!5f3.3241210508286905" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}

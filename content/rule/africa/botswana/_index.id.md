@@ -1,7 +1,7 @@
 ---
 title: "Botswana"
-date: 2023-05-26
-lastmod: 2023-09-01
+date: 2023-02-26
+lastmod: 2023-07-01
 weight: 1
 draft: false
 keywords: [""]
@@ -11,23 +11,24 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "wilayah serupa"
+sc_title: "Halaman yang Sering Salah"
 sc_icon: rel
 sc: [
-    ["../south-africa/", "SSouth Africa"],
-    ]
+    ["../south-africa/", "Afrika Selatan"],
+]
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <h2 class="section-title">{{% i18n "cara-membedakan" %}}</h2>
     <ul class="rule-list">
-        <li>Mobil melaju di sisi <span class="quiz">kiri</span>.</li>
+        <li>Mobil berjalan di sisi <span class="quiz">kiri</span></li>
         <li>Domain adalah <span class="quiz">.bw</span></li>
-        <li>Jalan dengan inisial "A" atau "B" pada nomor jalannya</li>
-        <li>Jalan memiliki permukaan yang kasar, dan pinggir jalan berwarna <span class="quiz">jingga</span></li>
-        <li></li>
-        <li class="no-evidence">70% daratan negara ini tumpang tindih dengan Gurun Kalahari, membuat seluruh negara ini datar</li>
-        <li class="no-evidence">Beberapa rambu lama memiliki warna latar belakang <span class="quiz">biru</span>.</li>
+        <li>Banyak pelat nomor berwarna kuning, biru, dan putih</li>
+        <li>Nomor jalan diawali dengan huruf "<span class="quiz">A</span>" atau "B"</li>
+        <li>Banyak rambu dan pagar pelindung dengan pola garis-garis berwarna <span class="quiz">kuning dan hitam</span></li>
+        <li>Jalan memiliki permukaan kasar dengan bahu jalan berwarna <span class="quiz">oranye</span>, tetapi beberapa tempat tidak memiliki bahu jalan</li>
+        <li class="no-evidence">70% wilayahnya tumpang tindih dengan Gurun Kalahari, dan seluruh negara ini relatif datar</li>
+        <li class="no-evidence">Beberapa rambu lama memiliki latar belakang berwarna <span class="quiz">biru</span></li>
     </ul>
     {{% rd africa botswana small %}}
 </div>
@@ -35,13 +36,11 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-There are white, blue, and yellow number plates. Ordinary vehicles have numbers in <span class="quiz">yellow</span>, while some public service vehicles and taxis have rear plates in <span class="quiz">blue</span>. Additionally, some guardrails and sign poles have <span class="quiz">yellow</span> and <span class="quiz">black</span> stripes.
+Pelat nomor kuning, biru, dan putih {{% ex "https://maps.app.goo.gl/vW2UDexepSRXxtdT6" %}} ditemukan, dengan pelat kuning untuk kendaraan pribadi paling umum. Beberapa kendaraan layanan publik atau taksi memiliki pelat belakang berwarna <span class="quiz">biru</span>. Beberapa pagar pelindung dan tiang rambu memiliki pola garis-garis <span class="quiz">kuning</span> dan <span class="quiz">hitam</span> {{% ex "https://maps.app.goo.gl/1pUjkwCxyRGCYcGH7" %}}. Berikut adalah pemandangan kota Gaborone, ibu kota.
 {{% /notice %}}
 
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683912190956!6m8!1m7!1s_hF2bGslvpvaZZ7psdj6xQ!2m2!1d-24.64165295690238!2d25.90896005945885!3f261.41986013549393!4f-15.63359083496556!5f1.7439966301749679" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1683911985476!6m8!1m7!1s-hsOfiv7Lna0aKPKagstEA!2m2!1d-21.16903091824322!2d27.51087023313817!3f124.44413761855344!4f-13.5940775066058!5f2.604790428006194" width="295" height="295"style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<img src="./gaboronestreetscene.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -54,16 +53,16 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Vicbrumby&amp;amp;act
 By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>
 {{% /lb %}}
 
-
 {{% notice tip %}}
-Terdapat Gurun Kalahari dan lanskap datar di sekelilingnya. Sebagian besar wilayahnya jarang ditumbuhi semak dan rerumputan. Hanya sedikit pohon yang tumbuh di kedua sisi jalan beraspal.
+Dengan Gurun Kalahari, panorama yang datar terbentang di sekeliling. Kebanyakan wilayah memiliki tanaman semak atau rumput yang tersebar jarang. Di kedua sisi jalan beraspal, hampir tidak ada pohon {{% ex "https://maps.app.goo.gl/gR9ALGNrNKVTfJZY9" "https://maps.app.goo.gl/Ln49sP8VrhzCwLVr9" %}}.
 {{% /notice %}}
-<div class="googlemap-if">
+<div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Trans-Kalahari Highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./botswana_elephant_road_1653101.jpg" width="640">
 </div>
 
 {{% notice tip %}}
-Nomor jalan dengan "<span class="quiz">A</span>" atau "B". {{% goto ". /lesotho/" "Lesotho"%}} memiliki nomor jalan yang serupa, tetapi tidak seperti Lesotho, Botswana cukup datar. Tidak banyak jalan, jadi jika ada rambu-rambu dan persimpangan, Anda mungkin bisa mendapatkan 5.000 poin.
+Nomor jalan diawali dengan "<span class="quiz">A</span>" atau "B". {{% goto "../lesotho/" "Lesotho" %}} memiliki sistem nomor jalan serupa, tetapi Botswana jauh lebih datar. Karena sedikitnya jalan, jika Anda menemukan rambu dan persimpangan, Anda mungkin dapat mendapatkan 5000 poin!
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -91,20 +90,19 @@ Nomor jalan dengan "<span class="quiz">A</span>" atau "B". {{% goto ". /lesotho/
 {{% /tab %}}
 {{% /tabs %}}
 
-
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h2 class="section-title">{{% i18n "persempit-area" %}}</h2>
     <ul class="rule-list">
-        <li class="no-evidence">Terdapat gradasi iklim, tropis di bagian utara dan iklim gurun pedalaman di bagian lainnya. Tampaknya semakin jauh ke utara, semakin banyak rumput non-jarum dan tanaman yang lebih tinggi. </li>
+        <li class="no-evidence">Iklimnya bergradasi, dengan iklim tropis di utara dan iklim gurun pedalaman di wilayah lain. Semakin ke utara, rumput yang tidak berbentuk jarum dan tanaman tinggi semakin banyak.</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Tanaman" %}}
+{{% tab "Tumbuhan" %}}
 <ul class="rule-list">
-    <li>Utara：{{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
-    <li>Tengah：{{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
-    <li>Selatan：{{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
+    <li>Utara: {{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
+    <li>Tengah: {{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
+    <li>Selatan: {{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
 </ul>
 {{% /tab %}}
 {{% /tabs %}}
