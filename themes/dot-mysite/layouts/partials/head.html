@@ -26,21 +26,53 @@
     <title>{{ .Title }}{{ .Params.title_suffix }} - geoguessrの攻略メモ</title>
     <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーのメモ">
     <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーのメモ">
+    {{ else if eq .Page.Lang "id"}}
+    <title>{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.</title>
+    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.">
+    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.">
     {{ else }}
     <title>About {{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips</title>
     {{ end }}
   {{ end }}
 
-  {{ if (.Params.flag) }}
-  <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてメモしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
-  {{ else if (.Params.description)}}
-  <meta property="og:description" content="{{ .Params.description }}">
-  <meta name="twitter:description" content="{{ .Params.description }}">
-  <meta name="description" content="{{ .Params.description }}。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
-  {{ else if (.IsHome)}}
-  <meta name="description" content="勉強を兼ねてGeoGuessrの国ごとのヒントや攻略Tipsをメモしているページです。">
+  
+  {{ if eq .Page.Lang "ja" }}
+    {{ if (.Params.flag) }}
+    <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてメモしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
+    {{ else if (.Params.description)}}
+    <meta property="og:description" content="{{ .Params.description }}">
+    <meta name="twitter:description" content="{{ .Params.description }}">
+    <meta name="description" content="{{ .Params.description }}。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
+    {{ else if (.IsHome)}}
+    <meta name="description" content="勉強を兼ねてGeoGuessrの国ごとのヒントや攻略Tipsをメモしているページです。">
+    {{ else }}
+    <meta name="description" content="{{ .Title }}についてメモしたページ。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
+    {{ end }}
+  {{ else if eq .Page.Lang "id"}}
+    {{ if (.Params.flag) }}
+    <meta name="description" content="Halaman ini mencatat bagaimana {{.Title }} ditentukan, tanda-tanda, perusahaan unik dan karakteristik lain dari setiap wilayah. Halaman ini untuk mencatat apa yang Anda temukan saat memainkan permainan browser GeoGuessr dan kiat-kiat strategi.
+">
+    {{ else if (.Params.description)}}
+    <meta property="og:description" content="{{ .Params.description }}">
+    <meta name="twitter:description" content="{{ .Params.description }}">
+    <meta name="description" content="{{ .Params.description }} Halaman ini untuk mencatat apa yang Anda temukan ketika bermain game browser GeoGuessr dan kiat-kiat strategi.">
+    {{ else if (.IsHome)}}
+    <meta name="description" content="Ini adalah halaman di mana kiat-kiat dan kiat-kiat strategi khusus negara GeoGuessr dicatat untuk tujuan belajar.">
+    {{ else }}
+    <meta name="description" content="Halaman dengan catatan tentang {{ .Title }}. Halaman ini untuk mencatat apa yang Anda temukan ketika bermain game browser GeoGuessr dan kiat-kiat strategi.">
+    {{ end }}
   {{ else }}
-  <meta name="description" content="{{ .Title }}についてメモしたページ。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
+    {{ if (.Params.flag) }}
+    <meta name="description" content="This page notes how to determine {{ .Title }}, signs, unique businesses, and other characteristics of each region. This page is a page to note what I found when I played the browser game “GeoGuessr” and hints for strategy.">
+    {{ else if (.Params.description)}}
+    <meta property="og:description" content="{{ .Params.description }}">
+    <meta name="twitter:description" content="{{ .Params.description }}">
+    <meta name="description" content="{{ .Params.description }} This page is a page to note what I found when I played the browser game “GeoGuessr” and hints for strategy.">
+    {{ else if (.IsHome)}}
+    <meta name="description" content="This is a page where I note down tips and strategy tips for each country in GeoGuessr for study purposes.">
+    {{ else }}
+    <meta name="description" content="A page with notes about {{ .Title }}. This page is a page to note what I found when I played the browser game GeoGuessr and some strategy tips.">
+    {{ end }}
   {{ end }}
 
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
