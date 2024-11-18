@@ -2,7 +2,13 @@
   <meta charset="utf-8">
   <link rel="icon" href="favicon.ico">
   {{ if eq .Title site.Title }}
+  {{ if eq .Page.Lang "ja" }}
   <title>{{ .Title }}</title>
+  {{ else if eq .Page.Lang "id"}}
+  <title>Kiat Geogesser Saya</title>
+  {{ else }}
+  <title>My Geogesser Tips</title>
+  {{ end }}
   <meta name="twitter:card" content="summary_large_image">
   <meta property="og:title" content="{{ .Title }}">
   <meta property="og:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
