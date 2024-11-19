@@ -1,5 +1,5 @@
 ---
-title: "フィンランド"
+title: "Finlandia"
 date: 2023-02-26
 lastmod: 2023-07-01
 weight: 1
@@ -10,30 +10,30 @@ bg: "bg/city.jpg"
 flag: "FI.svg"
 jetro_detail: true
 plonkit: true
-sc_title: "間違えやすい地域"
+sc_title: "Wilayah yang Sering Tertukar"
 sc: [
-    ["../norway/", "ノルウェー"],
-    ["../sweden/", "スウェーデン"],
-    ["../aland_islands/", "オーランド諸島"],
-    ["../../n_america/canada/", "カナダ"],
+    ["../norway/", "Norwegia"],
+    ["../sweden/", "Swedia"],
+    ["../aland_islands/", "Kepulauan Åland"],
+    ["../../n_america/canada/", "Kanada"],
     ]
 additional_link:
-    - ["Finland Doc for Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
+    - ["Dokumen Finlandia untuk Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
 ---
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <h2 class="section-title">{{% i18n "cara-membedakan" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.fi</span></li>
-        <li>北欧で横断歩道が<span class="quiz">5</span>本はフィンランド</li>
-        <li>標識の背景色に<span class="quiz">オレンジ</span>色が多い{{% by %}}</li>
-        <li>北欧で速度標識の背景がオレンジ色なのはフィンランドと<span class="quiz">スウェーデン</span></li>
-        <li>通り名に<span class="quiz">～tie</span>が多い</li>
-        <li>フィンランドは標識に黄色の細い縁が<span class="quiz">ある</span>{{% by "usumdensetu" "twitch" %}}</li>
-        <li>看板の矢印の形が▶のような塗りつぶしになっている{{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！" %}}</li>
-        <li>会社名に株式会社という意味である「<span class="quiz">Oy</span>（osakeyhtiöの略）」と付いている</li>
-        <li>Passing place（車の待避所）の看板がフィンランドだけ<span class="quiz">矢印</span></li>
-        <li class="no-evidence">アーネコスキの直ぐ上にピンを指すとフィンランドで安定した点（4385点）が取れるかも</li>
+        <li>Domainnya adalah <span class="quiz">.fi</span></li>
+        <li>Di negara Nordik, zebra cross dengan <span class="quiz">5</span> garis adalah di Finlandia</li>
+        <li>Banyak rambu berlatar belakang warna <span class="quiz">oranye</span> {{% by %}}</li>
+        <li>Di negara Nordik, latar belakang rambu kecepatan yang berwarna oranye hanya ada di Finlandia dan <span class="quiz">Swedia</span></li>
+        <li>Nama jalan sering menggunakan akhiran <span class="quiz">～tie</span></li>
+        <li>Di Finlandia, rambu memiliki garis tepi kuning tipis <span class="quiz">ada</span>{{% by "usumdensetu" "twitch" %}}</li>
+        <li>Bentuk panah pada papan tanda diisi seperti ▶ {{% by "https://youtu.be/HgPymmvsq8c?t=383" "youtube" "【GeoGuessr】Penjelasan Lengkap Mengenai Tebakan Negara oleh Pemain Resmi!" %}}</li>
+        <li>Nama perusahaan sering diakhiri dengan "Oy" (singkatan dari osakeyhtiö, yang berarti perusahaan terbatas)</li>
+        <li>Tanda "Passing place" (tempat untuk mobil menepi) di Finlandia memiliki <span class="quiz">panah</span></li>
+        <li class="no-evidence">Menempatkan pin tepat di atas Äänekoski dapat menghasilkan skor stabil (4385 poin) di Finlandia</li>
     </ul>
     {{% rd europe finland verysmall %}}
 </div>
@@ -41,7 +41,7 @@ additional_link:
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-地域名が書かれた看板の矢印の形が▶のような塗りつぶし or 綺麗な▷になっている。また<span class="quiz">～tie</span>という通り名をよく見かける。
+Bentuk panah pada papan nama yang menunjukkan nama daerah bisa berupa ▶ yang diisi penuh atau ▷ yang rapi. Selain itu, nama jalan sering menggunakan akhiran <span class="quiz">～tie</span>.
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sanue/4677517675/in/photolist-88kv3t-joKr4m-dpxeB8-2jFfxth-Dngn5f-kLXhk-6gno9S-6dANPE-CEUHPG-TrrQhA-KxozeL-9mPHha-9PtGZv-2npgBoC-W8WYnu-9HguN-59Xrfq-2j3Nb62-qkqqF-mdJ2hs-LjUsmA-2kgZKkZ-9P9BRA-NrWQyP-5QL3Qk-fEcw5Q-9H6mVx-DnRuGN-gPsfG7-2mWaff-fmXgcH-hJ7T4p-pvgkLK-dw5fCC-59Xtm9-8WYrME-dkZsG5-JQaPRe-2ejA9UU-8WYeky-2mX3XbN-cuTA2b-bNbLga-bNbLi2-oU4qgA-9GGuWa-eVXJfN-qksAD-djbqti-2kHQFLi" title="The road sign / Touring to Porvoo"><img src="https://live.staticflickr.com/4033/4677517675_4a294a54e3_z.jpg" width="640" height="480" alt="The road sign / Touring to Porvoo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -50,39 +50,38 @@ additional_link:
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="https://geopinning.space/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
+            <img src="https://geopinning.space/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
-        <p><span class="quiz">スウェーデン</span></p>
+        <p><span class="quiz">Swedia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="https://geopinning.space/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
+            <img src="https://geopinning.space/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
-        <p><span class="quiz">フィンランド</span></p>
+        <p><span class="quiz">Finlandia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="https://geopinning.space/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
         </div>
-        <p><span class="quiz">ノルウェー</span></p>
+        <p><span class="quiz">Norwegia</span></p>
     </div>
 </div>
 
 {{% notice tip %}}
-北欧で横断歩道が<span class="quiz">5</span>本はフィンランド{{% ex "https://maps.app.goo.gl/u497VBFVPcqcCWvC7" %}}。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
+Di negara Nordik, zebra cross dengan <span class="quiz">5</span> garis adalah Finlandia{{% ex "https://maps.app.goo.gl/u497VBFVPcqcCWvC7" %}}. Dari kiri ke kanan: <span class="quiz">Finlandia</span>, <span class="quiz">Norwegia</span>, dan <span class="quiz">Swedia</span>.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="https://geopinning.space/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
+<img src="https://geopinning.space/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
+<img src="https://geopinning.space/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
 </div>
 
-
 {{% notice tip %}}
-『～tie』や『～gatan』といった通り名が多い。
+Nama jalan seperti '～tie' dan '～gatan' sering ditemui.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -90,12 +89,12 @@ additional_link:
 </div>
 
 {{% notice tip %}}
-フィンランドは警告看板の<span class="quiz">まわりに黄色の細い縁</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
+Di Finlandia, papan peringatan memiliki garis tepi tipis berwarna <span class="quiz">kuning</span>{{% by "usumdensetu" "twitch" %}}. Baris atas adalah Finlandia, sementara baris bawah adalah Swedia (latar belakang oranye) dan Norwegia (latar belakang putih).
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:10px;;border-radius:20px;">
-<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
-<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
-<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/finland/r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/finland/r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/finland/r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
@@ -104,23 +103,21 @@ additional_link:
 <img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
 </div>
 
-
 {{% notice tip %}}
-北欧の狭い道にあるPassing place（車の待避所）の看板がフィンランドだけ矢印。舗装されておらず家も見当たらない場所でヒントになることがある。左から<span class="quiz">フィンランド</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}。
+Tanda "Passing place" (tempat untuk mobil menepi) di Finlandia memiliki panah. Biasanya ditemukan di jalan sempit tanpa bangunan di sekitarnya, sehingga bisa menjadi petunjuk. Dari kiri ke kanan: <span class="quiz">Finlandia</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}, <span class="quiz">Swedia</span>, dan <span class="quiz">Norwegia</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
-<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
-<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
-<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/finland/p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/finland/p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/finland/p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
 </div>
 
-
 {{% notice tip %}}
-中央の線に<span class="quiz">黄</span>色と白の破線が使われる。左から<span class="quiz">フィンランド</span>・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>{{% ref "https://www.twitch.tv/videos/1621039894" "ダイジェスト：世界マップ初心者講座+質問コーナー | 市民ジョン" %}}。
+Garis tengah pada jalan menggunakan garis putus-putus <span class="quiz">kuning</span> dan putih. Dari kiri ke kanan: <span class="quiz">Finlandia</span>, <span class="quiz">Swedia</span>, dan <span class="quiz">Norwegia</span>{{% ref "https://www.twitch.tv/videos/1621039894" "Ringkasan: Panduan Pemula GeoGuessr Dunia + Sesi Tanya Jawab | Citizen John" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
+<img src="https://geopinning.space/rule/europe/sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
@@ -128,7 +125,7 @@ additional_link:
 </div>
 
 {{% notice tip %}}
-全体的に平坦{{% ex "https://maps.app.goo.gl/uFfRSzjgmQdjEWW16" "https://maps.app.goo.gl/5VWA2sQXvBbqz9Ac7" "https://maps.app.goo.gl/xte1brYt2Xo9doVa7" %}}。スウェーデン・ノルウェーは標高が2000mを超える山脈がある一方でフィンランドは最高でも1400mほどしかない上、その最高地点はスウェーデン・ノルウェーとの国境近く{{% ex "https://maps.app.goo.gl/nhEDwDk9KaSL1oUw9" %}}。
+Secara umum, Finlandia lebih datar{{% ex "https://maps.app.goo.gl/uFfRSzjgmQdjEWW16" "https://maps.app.goo.gl/5VWA2sQXvBbqz9Ac7" "https://maps.app.goo.gl/xte1brYt2Xo9doVa7" %}}. Swedia dan Norwegia memiliki pegunungan yang mencapai lebih dari 2000m, sedangkan titik tertinggi Finlandia hanya sekitar 1400m, dekat perbatasan Swedia dan Norwegia{{% ex "https://maps.app.goo.gl/nhEDwDk9KaSL1oUw9" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -139,7 +136,7 @@ additional_link:
 {{% tab "w-building" %}}
 
 {{% notice tip %}}
-北欧は濃い赤色（ファールン赤）で塗られたログハウスが特徴的{{% by "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%B3%E8%B5%A4" "wiki" "ファールン赤" %}}。
+Di Nordik, rumah kayu yang dicat merah gelap (disebut warna Falu) adalah ciri khasnya{{% by "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%B3%E8%B5%A4" "wiki" "Falu Merah" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -153,32 +150,31 @@ additional_link:
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680258157281!6m8!1m7!1s2yXz9ScGow_kAdVuldyAgA!2m2!1d62.5627184508939!2d22.89723479065259!3f296.6156076712753!4f-20.04210075493647!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "言語" %}}
+{{% tab "Bahasa" %}}
 
 {{% notice tip %}}
-フィンランド語はウラル語系、スウェーデン・ノルウェー・デンマーク・アイスランドなどはノルド語系の言語。フィンランド語では母音を2つ並べることがある。
+Bahasa Finlandia termasuk dalam rumpun bahasa Ural, sedangkan Swedia, Norwegia, Denmark, Islandia, dan lainnya adalah bahasa Nordik. Bahasa Finlandia sering menggunakan vokal ganda dalam kata-katanya.
 {{% /notice %}}
-
 
 <div class="googlemap-if">
 <table class="word-list">
 <tr>
-    <th>言語名</th> <th>表記</th>
+    <th>Nama Bahasa</th> <th>Penulisan</th>
 </tr>
-<tr><td><span class="quiz">日本語</span></td><td>ここは一方通行のゾーンです</td></tr>
-<tr><td><span class="quiz">英語</span></td><td>This is a one-way zone.</td></tr>
-<tr><td><span class="quiz">スウェーデン語</span></td><td>Det här är en enkelriktad zon.</td></tr>
-<tr><td><span class="quiz">ノルウェー語</span></td><td>Dette er en enveiskj<span class="f-enlarge">ø</span>ringssone.</td></tr>
-<tr><td><span class="quiz">デンマーク語</span></td><td>Dette er en ensrettet zone.</td></tr>
-<tr><td><span class="quiz">フィンランド語</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
+<tr><td><span class="quiz">Jepang</span></td><td>ここは一方通行のゾーンです</td></tr>
+<tr><td><span class="quiz">Inggris</span></td><td>This is a one-way zone.</td></tr>
+<tr><td><span class="quiz">Swedia</span></td><td>Det här är en enkelriktad zon.</td></tr>
+<tr><td><span class="quiz">Norwegia</span></td><td>Dette er en enveiskj<span class="f-enlarge">ø</span>ringssone.</td></tr>
+<tr><td><span class="quiz">Denmark</span></td><td>Dette er en ensrettet zone.</td></tr>
+<tr><td><span class="quiz">Finlandia</span></td><td>Tämä on yksisuuntainen alue.</td></tr>
 </table>
 </div>
 
 {{% /tab %}}
-{{% tab "ピンを置く最適なポイント" %}}
+{{% tab "Titik Pin yang Optimal" %}}
 
 {{% notice tip %}}
-フィンランドなのは分かったもののどの地域が分からないとき、アーネコスキの直ぐ上にピンを指すと安定して点が取れるかも{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Optimal guess in each country" %}}。アーネコスキのすぐ上にポイントがある。
+Jika sudah yakin Finlandia tetapi tidak tahu wilayah spesifik, meletakkan pin tepat di atas Äänekoski dapat menghasilkan skor yang stabil{{% ref "https://www.reddit.com/r/geoguessr/comments/vcus36/optimal_guess_in_each_country/" "Tebakan Optimal di Setiap Negara" %}}. Ada titik optimal di atas Äänekoski.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -187,27 +183,25 @@ additional_link:
 
 {{% /tab %}}
 {{% /tabs %}}
-
-
 <div class="main-desciption country-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h2 class="section-title">{{% i18n "persempit-area" %}}</h2>
     <ul class="rule-list">
-        <li>看板に書かれた言語によって地域が分かることがある{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
+        <li>Bahasa yang tertulis pada papan nama dapat membantu menentukan wilayah{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "Panduan Finlandia untuk Geoguessr 2022 - Oleh AlexYP" %}}
             <ul>
-                <li>フィンランド語とスウェーデン語が並んでる場合は<span class="quiz">南か南西の海沿い</span></li>
-                <li>北部サーミ語と並んで書かれている場合は<span class="quiz">最も北のエリア</span></li>
+                <li>Jika bahasa Finlandia dan Swedia ditulis berdampingan, kemungkinan besar berada di <span class="quiz">selatan atau barat daya dekat pantai</span></li>
+                <li>Jika bahasa tersebut tertulis bersama bahasa Sámi di utara, kemungkinan besar berada di <span class="quiz">wilayah paling utara</span></li>
             </ul>
         </li>
-        <li>周りが平坦で路面が赤っぽいならば{{% goto "../aland_islands/" "オーランド諸島" %}}かも</li>
-        <li>市外局番が地域ごとに異なる</li>
+        <li>Jika lingkungan sekitar datar dan permukaan jalan berwarna kemerahan, kemungkinan berada di {{% goto "../aland_islands/" "Kepulauan Åland" %}}</li>
+        <li>Kode area telepon berbeda untuk setiap wilayah</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "看板に書かれた言語（スウェーデン語）" %}}
+{{% tab "Bahasa pada Papan Nama (Swedia)" %}}
 
 {{% notice tip %}}
-フィンランド語とスウェーデン語が並んでる場合もしくはスウェーデン語の場合は南か南西の海沿い{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
+Jika bahasa Finlandia dan Swedia tertulis berdampingan atau hanya bahasa Swedia saja, kemungkinan berada di selatan atau barat daya dekat pantai{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "Panduan Finlandia untuk Geoguessr 2022 - Oleh AlexYP" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -215,10 +209,10 @@ additional_link:
 </div>
 
 {{% /tab %}}
-{{% tab "看板に書かれた言語（サーミ語）" %}}
+{{% tab "Bahasa pada Papan Nama (Sámi)" %}}
 
 {{% notice tip %}}
-北部サーミ語などと並んで書かれている場合は最も北のエリア{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "A Finland Guide for Geoguessr 2022 - By AlexYP" %}}
+Jika bahasa tersebut tertulis bersama bahasa Sámi utara, kemungkinan besar berada di wilayah paling utara{{% by "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.gc6f73a04f_0_0" "web" "Panduan Finlandia untuk Geoguessr 2022 - Oleh AlexYP" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -226,10 +220,10 @@ additional_link:
 </div>
 
 {{% /tab %}}
-{{% tab "市外局番" %}}
+{{% tab "Kode Area Telepon" %}}
 
 <div class="googlemap-if unclickable">
-<p><img src="Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></a></p>
+<p><img src="Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></p>
 <p>Public domain</p>
 </div>
 
