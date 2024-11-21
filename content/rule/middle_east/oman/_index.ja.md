@@ -102,7 +102,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
         <li>北部と南部に山岳地帯があり、間には平坦な砂漠が広がっている
             <ul>
                 <li>北部 アル・ハジャル山脈があり険しい岩山が多い{{% ex "https://maps.app.goo.gl/Ljx11v7DZ38cCvSq6" "https://maps.app.goo.gl/M8qo6uYZ5L7xgUQe8" "https://maps.app.goo.gl/Gesou5DMsS2FN8rMA" %}}</li>
-                <li>中央部 {{% ex "https://maps.app.goo.gl/7NjbvkkyCmoLZFRT8" "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
+                <li>中央部 {{% ex "https://maps.app.goo.gl/i3dq3E58Fwa9gmAY7" "https://maps.app.goo.gl/NCxVSMfyrUPZWz3E8" %}} {{% goto "../qatar/" "カタール" %}}ほど完全な平坦ではない</li>
                 <li>南部 {{% ex "https://maps.app.goo.gl/CnucJnnDNtd31GPX6" "https://maps.app.goo.gl/KDqungpgRqJDpv458" %}} ドファール山脈周りは雨が降りやすく緑も多い。細かいがれきのような岩が転がっている。</li>
             </ul>
         </li>
