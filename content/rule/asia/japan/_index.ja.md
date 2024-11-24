@@ -49,7 +49,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 {{% notice note %}}
-日本以外で見つかることがあるとすれば、木材用に栽培されている{{% goto "../../europe/azores/" "アゾレス諸島" %}}の可能性が非常に高い{{% ref "https://en.wikipedia.org/wiki/Cryptomeria" "スギ" %}}。
+日本以外で見つかることがあるとすれば、木材用に導入され栽培されている{{% goto "../../europe/azores/" "アゾレス諸島" %}}の可能性が非常に高い{{% ref "https://en.wikipedia.org/wiki/Cryptomeria" "スギ" %}}{{% ref "https://web.archive.org/web/20200807002345/http://drrf-sraa.azores.gov.pt/areas/viveiros-florestais/Paginas/Criptomeria_Especies_EN.aspx" "Azorean Criptomeria - Cryptomeria japonica D. Don" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">

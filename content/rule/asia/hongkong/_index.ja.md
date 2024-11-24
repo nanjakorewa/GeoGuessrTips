@@ -40,6 +40,11 @@ sc: [
 {{% notice tip %}}
 {{% goto "../../europe/united-kingdom/" "イギリス" %}}と同じようにナンバープレートは前が<span class="quiz">白</span>で後ろが<span class="quiz">黄色</span>{{% ex "https://maps.app.goo.gl/Ua54qvCsaQWTWaVW7" "https://maps.app.goo.gl/Q3AYECtfvF8Pqegs5" "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}。背景が黒いナンバープレートならば{{% goto "../macau/" "澳門" %}}の可能性を考える。
 {{% /notice %}}
+
+{{% notice note %}}
+アヘン戦争のさなかである1841年から1997年までイギリスの設置した香港政庁によって統治されていた{{% ref "https://www.jri.co.jp/page.jsp?id=16541" "日本総研 Business & Economic Review 1997年07月号 - イギリスから見た香港返還" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if no-margin">
 <img src="./hongkong-car.jpg" width="95%">
 </div>
