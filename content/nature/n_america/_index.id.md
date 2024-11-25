@@ -24,7 +24,7 @@ add_rule_link: true
 {{% tab "Jagung" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-12-03-38.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-12-03-38.png">
 </div>
 
 {{% notice note %}}
@@ -38,7 +38,7 @@ Jagung banyak diproduksi di sepanjang Corn Belt {{% by "https://www.nass.usda.go
 {{% /tab %}}
 {{% tab "Kedelai" %}}
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-10-49-15.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-10-49-15.png">
 </div>
 
 {{% notice note %}}
@@ -49,7 +49,7 @@ Distribusi kedelai mirip dengan jagung {{% by "https://ipad.fas.usda.gov/rssiws/
 {{% tab "Padi" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-10-56-56.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-10-56-56.png">
 </div>
 
 {{% notice note %}}
@@ -65,7 +65,7 @@ Sawah biasanya ditemukan di wilayah tertentu di California dan sepanjang sungai 
 {{% tab "Kapas" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-11-29-30.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-11-29-30.png">
 </div>
 
 {{% notice note %}}
@@ -81,7 +81,7 @@ Pohon kapas jarang terlihat, tetapi ada kemungkinan menemukan serat kapas putih 
 {{% tab "Tebu" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-12-00-47.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-12-00-47.png">
 </div>
 
 {{% notice note %}}
@@ -95,7 +95,7 @@ Tebu hanya tumbuh di wilayah tertentu di Florida, dan sangat sedikit di Louisian
 {{% /tab %}}
 {{% tab "Gandum" %}}
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-12-07-38.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-12-07-38.png">
 </div>
 
 {{% notice note %}}

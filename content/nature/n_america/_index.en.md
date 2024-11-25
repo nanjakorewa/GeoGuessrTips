@@ -24,7 +24,7 @@ add_rule_link: true
 {{% tab "Corn" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-12-03-38.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-12-03-38.png">
 </div>
 
 {{% notice note %}}
@@ -38,7 +38,7 @@ Corn production is concentrated along the Corn Belt {{% by "https://www.nass.usd
 {{% /tab %}}
 {{% tab "Soybeans" %}}
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-10-49-15.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-10-49-15.png">
 </div>
 
 {{% notice note %}}
@@ -49,7 +49,7 @@ Soybean distribution is similar to corn's {{% by "https://ipad.fas.usda.gov/rssi
 {{% tab "Rice" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-10-56-56.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-10-56-56.png">
 </div>
 
 {{% notice note %}}
@@ -65,7 +65,7 @@ Rice paddies are mostly found in specific regions of California and along the ri
 {{% tab "Cotton" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-11-29-30.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-11-29-30.png">
 </div>
 
 {{% notice note %}}
@@ -81,7 +81,7 @@ Cotton may not be visually prominent, but you might notice white cotton along th
 {{% tab "Sugarcane" %}}
 
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-12-00-47.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-12-00-47.png">
 </div>
 
 {{% notice note %}}
@@ -95,7 +95,7 @@ Sugarcane is grown only in specific areas near Florida, with Louisiana having ve
 {{% /tab %}}
 {{% tab "Wheat" %}}
 <div class="googlemap-if">
-<img src="../../rule/n_america/usa/2023-04-29-12-07-38.png">
+<img src="https://geopinning.space/rule/n_america/usa/2023-04-29-12-07-38.png">
 </div>
 
 {{% notice note %}}
