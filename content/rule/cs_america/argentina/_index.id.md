@@ -74,7 +74,7 @@ Plakat kecil dengan nomor jalan mungkin ditemukan di tepi jalan {{% ex "https://
 <img src="./2011_101_18_140540.jpg" width="95%" />
 </div>
 <div class="googlemap-if unclickable">
-<img src="./r/road-sign.png" width="170px">
+<img src="https://geopinning.space/rule/cs_america/argentina/r/road-sign.png" width="170px">
 </div>
 
 {{% notice tip %}}

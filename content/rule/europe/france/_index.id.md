@@ -94,7 +94,7 @@ Chevron biru-putih dapat ditemukan {{% ex "https://maps.app.goo.gl/XKPFZ3qtpKQwW
 <img src="./arrow.png" width="85%">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./r/xcv.png" width="150px">
+<img src="https://geopinning.space/rule/europe/france/r/xcv.png" width="150px">
 </div>
 
 {{% notice tip %}}

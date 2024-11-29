@@ -194,7 +194,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard.png" width="70px">
+<img src="https://geopinning.space/rule/cs_america/colombia/r/bollard.png" width="70px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

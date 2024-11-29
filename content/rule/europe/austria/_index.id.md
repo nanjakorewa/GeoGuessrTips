@@ -41,9 +41,9 @@ Tanda jalan satu arah dengan tulisan<span class="quiz">EINBAHN</span> adalah per
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Hinweiszeichen_10_links.svg" width="270px" style="margin:10px">
-<img src="./r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;">
-<img src="./r/ende.png" width="105px">
+<img src="https://geopinning.space/rule/europe/austria/r/Hinweiszeichen_10_links.svg" width="270px" style="margin:10px">
+<img src="https://geopinning.space/rule/europe/austria/r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;">
+<img src="https://geopinning.space/rule/europe/austria/r/ende.png" width="105px">
 </div>
 
 {{% notice tip %}}

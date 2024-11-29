@@ -72,8 +72,8 @@ Among the Baltic States, only Latvia has pedestrian crossing lines with <span cl
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" />
-<img src="./r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/baltic-state/r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/baltic-state/r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" />
 </div>
 
 {{% notice tip %}}

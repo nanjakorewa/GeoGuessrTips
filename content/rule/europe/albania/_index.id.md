@@ -86,7 +86,7 @@ Albania pernah menjadi negara protektorat Italia{{% ref "https://ja.wikipedia.or
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px">
+<img src="https://geopinning.space/rule/europe/albania/r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px">
 <img src="./sign-bg.png" width="120px" style="margin:10px">
 </div>
 
