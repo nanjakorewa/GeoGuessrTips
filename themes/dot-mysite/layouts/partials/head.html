@@ -2,21 +2,26 @@
   <meta charset="utf-8">
   <link rel="icon" href="favicon.ico">
   {{ if eq .Title site.Title }}
-  {{ if eq .Page.Lang "ja" }}
-  <title>{{ .Title }}</title>
-  {{ else if eq .Page.Lang "id"}}
-  <title>Kiat Geogesser Saya</title>
-  {{ else }}
-  <title>My Geogesser Tips</title>
-  {{ end }}
-  <meta name="twitter:card" content="summary_large_image">
-  <meta property="og:title" content="{{ .Title }}">
-  <meta property="og:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
-  <meta name="twitter:title" content="{{ .Title }}">
-  <meta name="twitter:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
+    <!-- メインタイトル -->
+    {{ if eq .Page.Lang "ja" }}
+    <title>{{ .Title }}</title>
+    {{ else if eq .Page.Lang "id"}}
+    <title>Kiat Geogesser Saya</title>
+    {{ else }}
+    <title>My Geogesser Tips</title>
+    {{ end }}
+    <!-- /メインタイトル -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="{{ .Title }}">
+    <meta property="og:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
+    <meta name="twitter:title" content="{{ .Title }}">
+    <meta name="twitter:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
   {{ else if .Params.subtitle }}
+  <!-- サブタイトル指定 -->
   <title>{{ .Params.subtitle }}</title>
+  <!-- /サブタイトル指定 -->
   {{ else if .Params.flag }}
+    <!-- 国ごと -->
     {{ if eq .Page.Lang "ja" }}
     <title>ジオゲッサーで{{ .Params.title }}を見分けるには？</title>
     <meta name="twitter:card" content="summary_large_image">
@@ -24,10 +29,31 @@
     <meta property="og:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
     <meta name="twitter:title" content="ジオゲッサーで{{ .Params.title }}を見分けるには？ - GeoGuessrのメモ">
     <meta name="twitter:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をメモしているページです。">
+    {{ else if eq .Page.Lang "id"}}
+    <title>Cara Membedakan {{ .Params.title }} di GeoGuessr</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="Cara Membedakan {{ .Params.title }} di GeoGuessr - Catatan GeoGuessr">
+    <meta property="og:description" content="Halaman ini mencatat tips dan pengamatan tentang perbedaan antar wilayah untuk membantu membedakan {{ .Params.title }}.">
+    <meta name="twitter:title" content="Cara Membedakan {{ .Params.title }} di GeoGuessr - Catatan GeoGuessr">
+    <meta name="twitter:description" content="Halaman ini mencatat tips dan pengamatan tentang perbedaan antar wilayah untuk membantu membedakan {{ .Params.title }}.">
+    {{ else if eq .Page.Lang "es"}}
+    <title>¿Cómo identificar {{ .Params.title }} en GeoGuessr?</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="¿Cómo identificar {{ .Params.title }} en GeoGuessr? - Notas de GeoGuessr">
+    <meta property="og:description" content="Esta es una página con notas sobre consejos y diferencias regionales para identificar {{ .Params.title }}.">
+    <meta name="twitter:title" content="¿Cómo identificar {{ .Params.title }} en GeoGuessr? - Notas de GeoGuessr">
+    <meta name="twitter:description" content="Esta es una página con notas sobre consejos y diferencias regionales para identificar {{ .Params.title }}.">
     {{ else }}
-    <title>{{ .Params.title }} - My Geogesser Tips</title>
+    <title>How to Identify {{ .Params.title }} in GeoGuessr?</title>
+    <meta name="twitter:card" content="summary_large_image">
+    <meta property="og:title" content="How to Identify {{ .Params.title }} in GeoGuessr? - GeoGuessr Notes">
+    <meta property="og:description" content="This page contains notes on tips and regional differences to help identify {{ .Params.title }}.">
+    <meta name="twitter:title" content="How to Identify {{ .Params.title }} in GeoGuessr? - GeoGuessr Notes">
+    <meta name="twitter:description" content="This page contains notes on tips and regional differences to help identify {{ .Params.title }}.">
     {{ end }}
+    <!-- /国ごと -->
   {{ else }}
+    <!-- その他 -->
     {{ if eq .Page.Lang "ja" }}
     <title>{{ .Title }}{{ .Params.title_suffix }} - geoguessrの攻略メモ</title>
     <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーのメモ">
@@ -36,12 +62,18 @@
     <title>{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.</title>
     <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.">
     <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.">
+    {{ else if eq .Page.Lang "es"}}
+    <title>{{ .Title }}{{ .Params.title_suffix }} - notas para conquistar Geoguessr</title>
+    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - notas sobre Geoguessr">
+    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - notas sobre Geoguessr">
     {{ else }}
     <title>About {{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips</title>
+    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips">
+    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips">
     {{ end }}
+    <!-- /その他 -->
   {{ end }}
 
-  
   {{ if eq .Page.Lang "ja" }}
     {{ if (.Params.flag) }}
     <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてメモしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをメモするページです。">
@@ -66,6 +98,18 @@
     <meta name="description" content="Ini adalah halaman di mana kiat-kiat dan kiat-kiat strategi khusus negara GeoGuessr dicatat untuk tujuan belajar.">
     {{ else }}
     <meta name="description" content="Halaman dengan catatan tentang {{ .Title }}. Halaman ini untuk mencatat apa yang Anda temukan ketika bermain game browser GeoGuessr dan kiat-kiat strategi.">
+    {{ end }}
+  {{ else if eq .Page.Lang "es"}}
+    {{ if (.Params.flag) }}
+    <meta name="description" content="Esta es una página con notas sobre cómo identificar regiones, señales y empresas específicas características de cada área relacionadas con {{ .Title }}. Esta página recopila pistas y consejos encontrados mientras se jugaba al juego de navegador 'GeoGuessr'.">
+    {{ else if (.Params.description)}}
+    <meta property="og:description" content="{{ .Params.description }}">
+    <meta name="twitter:description" content="{{ .Params.description }}">
+    <meta name="description" content="{{ .Params.description }}. Esta página recopila pistas y consejos encontrados mientras se jugaba al juego de navegador 'GeoGuessr'.">
+    {{ else if (.IsHome)}}
+    <meta name="description" content="Página de notas sobre consejos y pistas para jugar a GeoGuessr, organizados por país como parte de un estudio y aprendizaje.">
+    {{ else }}
+    <meta name="description" content="Página de notas sobre {{ .Title }}. Esta página recopila pistas y consejos encontrados mientras se jugaba al juego de navegador 'GeoGuessr'.">
     {{ end }}
   {{ else }}
     {{ if (.Params.flag) }}
