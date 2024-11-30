@@ -36,6 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 {{% notice tip %}}
 Las matrículas son de color amarillo, azul y blanco {{% ex "https://maps.app.goo.gl/vW2UDexepSRXxtdT6" %}}, siendo las matrículas amarillas las más comunes en vehículos particulares. Algunas matrículas traseras de vehículos de servicio público o taxis son de color azul. Además, algunas barandillas y postes de señales tienen franjas de colores <span class="quiz">amarillo</span> y <span class="quiz">negro</span> {{% ex "https://maps.app.goo.gl/1pUjkwCxyRGCYcGH7" %}}. A continuación, se muestra una vista de las calles de Gaborone, la capital.
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="./gaboronestreetscene.jpg" width="90%">

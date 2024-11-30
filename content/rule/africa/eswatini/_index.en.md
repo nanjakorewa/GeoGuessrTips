@@ -11,20 +11,26 @@ flag: "SZ.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
+sc_title: "Easily Confused Regions"
+sc: [
+    ["../south-africa/", "South Africa"],
+    ["../lesotho/", "Lesotho"],
+]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>The domain is <span class="quiz">.sz</span>.</li>
-        <li>Road numbers are <span class="quiz">MR</span>.</li>
-        <li>Poles are often made of dark brownish thin wood</li>
-        <li>The lower half of the license plate appears yellowish green.</li>
-        <li class="no-evidence">With its low elevation, the Lowveld is flat and the entire country is slanted, so when you are on a road in the Lowveld, you can often see far to the north and south, but not far to the east and west.</li>
-        <li class="no-no-evidence">Unlike {{% goto ". /lesotho/" "レソト" %}}, forestry is done at higher elevations and you should be able to see plantations.</li>
+        <li>The domain is <span class="quiz">.sz</span></li>
+        <li>Road numbers include <span class="quiz">MR</span></li>
+        <li>Electric poles are often made of thin, dark brown wood</li>
+        <li>The lower part of license plates appears lime green</li>
+        <li class="no-evidence">In the Lowveld region, with many flat areas, the country slopes. On these roads, views often extend more in the north-south direction, while east-west views are more limited.</li>
+        <li class="no-no-evidence">Unlike {{% goto "../lesotho/" "Lesotho" %}}, higher-altitude areas show forestry activity, with rows of uniform trees.</li>
     </ul>
     {{% rd africa eswatini verysmall %}}
 </div>
+
 
 
 {{% tabs %}}
