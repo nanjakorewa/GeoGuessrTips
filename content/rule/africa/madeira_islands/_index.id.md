@@ -38,7 +38,7 @@ Sebagai bagian dari {{% goto "../../europe/portugal/" "Portugal" %}}, pelat nomo
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](../../europe/portugal/2023-04-12-06-00-36.png)
+![](https://geopinning.space/rule/europe/portugal/2023-04-12-06-00-36.png)
 
 <a href="//commons.wikimedia.org/wiki/User:Willtron" title="User:Willtron">by Willtron</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4614860">Wikimedia Commons(link)</a>
 {{% /lb %}}

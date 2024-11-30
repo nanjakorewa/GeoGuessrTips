@@ -8,21 +8,22 @@ keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
 flag: "LS.svg"
+plonkit: true
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Similar regions"
+sc_title: "Easily Mistaken Regions"
 sc: [
     ["../eswatini/", "Eswatini"],
     ["../south-africa/", "South Africa"],
-    ]
+]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>The domain is <span class="quiz">.ls</span></li>
-        <li>Regarding topography, the entire country is in the Drakensberg Mountains and there are few flat areas. There are many mountains with flat tops.</li>
-        <li>The climate is warm and humid, with sparsely wooded grasslands.</li>
+        <li>The domain is <span class="quiz">.ls</span>.</li>
+        <li>In terms of terrain, the entire country lies within the <span class="quiz">Drakensberg Mountains, with very few flat areas and many flat-topped mountains</span>. Mountains covered in dense forests are unlikely.</li>
+        <li>The climate is close to humid subtropical, with grasslands dotted sparsely with trees.</li>
     </ul>
     {{% rd africa lesotho verysmall %}}
 </div>
@@ -30,19 +31,27 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-The country exists in the Drakensberg Mountains and is generally high in elevation, with <span class="quiz">craggy ridges and flat-topped mountains</span>{{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/ maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. The grass is growing and sheep, cattle and other pastoralists are occasionally visible. {{% goto ". /eswatini/" "Eswatini" %}} also has higher elevations, but in the higher elevations of Eswatini, forestry and many trees are thriving. Lesotho, on the other hand, often has no trees.
+The country is located within the Drakensberg Mountains, characterized by high altitudes and <span class="quiz">rugged terrain with many flat-topped mountains</span> {{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. Grass is prevalent, and livestock such as sheep and cattle are occasionally visible. Although {{% goto "../eswatini/" "Eswatini" %}} also has high-altitude areas, those are often heavily forested due to active forestry. In contrast, Lesotho often lacks significant tree cover.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./mountain.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
-The house has a traditional shape{{% ex "https://goo.gl/maps/fZ2qjZE3XFLgzWMU9" "https://goo.gl/maps/yUS7WW1HVZw2oXZt7" "https://goo.gl/maps/tDCmbjUDhswFRxRU9" "https://goo.gl/maps/VSGPGCGZuxr5ChcN7" %}}{{% ref "https://tabippo.net/lesotho/" "レソト - TABIPPO" %}}.
+Traditional-style houses are common {{% ex "https://maps.app.goo.gl/Ruq3M3wfxq41DrWR6" "https://goo.gl/maps/fZ2qjZE3XFLgzWMU9" "https://goo.gl/maps/yUS7WW1HVZw2oXZt7" "https://goo.gl/maps/tDCmbjUDhswFRxRU9" "https://goo.gl/maps/VSGPGCGZuxr5ChcN7" %}}{{% ref "https://tabippo.net/lesotho/" "Lesotho - TABIPPO" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="500" height="333" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="600" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+Compared to {{% goto "../eswatini/" "Eswatini" %}}, the grass in Lesotho is often significantly shorter {{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}.
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./lesotho_mountains_scenic_green.jpg" width="90%">
 </div>
 {{% /tab %}}
+
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679071286013!6m8!1m7!1svOlntoCNjqKh75WbhcWaTw!2m2!1d-29.31540480409747!2d27.48959154561095!3f96.10363228499693!4f-29.491597698979618!5f2.8252987156531377" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
