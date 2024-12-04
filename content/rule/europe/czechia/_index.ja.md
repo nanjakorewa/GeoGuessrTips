@@ -43,6 +43,11 @@ sc: [
 {{% notice tip %}}
 {{% goto "../slovakia/" "スロバキア" %}}と同じボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある{{% ex "https://goo.gl/maps/pePJXWZS165TbMNW6" %}}。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的{{% ex "https://maps.app.goo.gl/jy4PDVF2jip7Bz497" "https://maps.app.goo.gl/eY9umZDuez2yiYjC6" %}}。
 {{% /notice %}}
+
+{{% notice info %}}
+{{% goto "../../europe/france/" "フランス" %}}の海外領土である{{% goto "../../oceania/newcaledonia/" "ニューカレドニア" %}}でも似たガードレールが見つかる。
+{{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./bollrad.jpg" width="90%" />
 </div>
