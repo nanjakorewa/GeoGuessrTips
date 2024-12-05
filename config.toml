@@ -12,6 +12,7 @@ disableLanguages = []
 # google analytics
 googleAnalytics = "G-XR9E0W2YP0" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
+ignoreFiles = [ "\\.clip$" ]
 [markup.goldmark.renderer]
 unsafe = true
 
