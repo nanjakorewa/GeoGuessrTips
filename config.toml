@@ -74,7 +74,7 @@ link = "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82"
 languageName = "ja"
 languageCode = "Ja-jp"
 weight = 1
-copyright = "Googleストリートビューから場所を当てるゲーム『<a href='https://www.geoguessr.com/'><b>GeoGuessr（ジオゲッサー）</b></a>』の攻略ヒントをブクマしてみるページ（ほぼ日記）です。世界に関するメモが多めです。記載されている会社名・商品・製品・サービス名・ロゴマーク等は各社の商標または各権利者の登録商標です。個人用のメモであり記載されている情報の正確さは保証していません。また書いてある説明やルールも完全に個人用のものなので、間違っていたり一般的では無かったりするかもしれません。左上の表示設定をクリックすると一部の文字を隠せます。記載されているtwitchやtwitterのユーザー名は配信とかで教えてくれた人です。ミスや問題点を見つけた場合はコメント欄・github issue・<u><a href='https://lit.link/nanjakorewa'>twitter</a></u>のいずれかに連絡頂けるとうれしいです。</br>©2023 <a href='https://lit.link/nanjakorewa'>nanjakorewa</a>. | <a href='https://geopinning.space/about/'>プライバシーポリシー・このページについて</a>"
+copyright = "Googleストリートビューから場所を当てるゲーム『<a href='https://www.geoguessr.com/'><b>GeoGuessr（ジオゲッサー）</b></a>』の攻略ヒントをブクマしてみるページ（ほぼ日記）です。世界に関するメモが多めです。記載されている会社名・商品・製品・サービス名・ロゴマーク等は各社の商標または各権利者の登録商標です。個人用のメモであり記載されている情報の正確さは保証していません。また書いてある説明やルールも完全に個人用のものなので、間違っていたり一般的では無かったりするかもしれません。左上の表示設定をクリックすると一部の文字を隠せます。記載されているtwitchやtwitterのユーザー名は配信とかで教えてくれた人です。ミスや問題点を見つけた場合はコメント欄・github issue・<u><a href='https://lit.link/nanjakorewa'>twitter</a></u>のいずれかに連絡頂けるとうれしいです。</br>©2022-2025 <a href='https://lit.link/nanjakorewa'>nanjakorewa</a>. | <a href='https://geopinning.space/about/'>プライバシーポリシー・このページについて</a>"
 
 # banner
 [Languages.ja.params.banner]
@@ -165,7 +165,7 @@ hasChildren = true
 languageName = "en"
 languageCode = "en-US"
 weight = 2
-copyright = "This is a repository (almost a diary) for organizing bookmarks when playing GeoGuessr. All company, product, and service names (logos, etc.) mentioned herein are trademarks or registered trademarks of their respective owners. You can hide some of the text by clicking on the display settings in the upper left corner.</br>©2023 nanenkorewa. | <a href='https://geopinning.space/en/about/'>Privacy Policy・About this page</a>"
+copyright = "This is a repository (almost a diary) for organizing bookmarks when playing GeoGuessr. All company, product, and service names (logos, etc.) mentioned herein are trademarks or registered trademarks of their respective owners. You can hide some of the text by clicking on the display settings in the upper left corner.</br>©2022-2025 nanjakorewa. | <a href='https://geopinning.space/en/about/'>Privacy Policy・About this page</a>"
 
 # banner
 [Languages.en.params.banner]
@@ -213,7 +213,7 @@ hasChildren = true
 languageName = "id"
 languageCode = "id"
 weight = 3
-copyright = "Ini adalah tempat penyimpanan (hampir seperti buku harian) untuk mengatur penanda ketika bermain GeoGuessr. Semua nama perusahaan, produk, dan layanan (logo, dll.) yang disebutkan di sini adalah merek dagang atau merek dagang terdaftar dari masing-masing pemiliknya. Anda dapat mengubah beberapa teks dengan mengeklik pengaturan tampilan di sudut kiri atas. </br>©2023 nanenkorewa. | <a href='https://geopinning.space/id/about/'>Kebijakan Privasi・Tentang halaman ini</a>"
+copyright = "Ini adalah tempat penyimpanan (hampir seperti buku harian) untuk mengatur penanda ketika bermain GeoGuessr. Semua nama perusahaan, produk, dan layanan (logo, dll.) yang disebutkan di sini adalah merek dagang atau merek dagang terdaftar dari masing-masing pemiliknya. Anda dapat mengubah beberapa teks dengan mengeklik pengaturan tampilan di sudut kiri atas. </br>©2022-2025 nanjakorewa. | <a href='https://geopinning.space/id/about/'>Kebijakan Privasi・Tentang halaman ini</a>"
 
 # banner
 [Languages.id.params.banner]
@@ -262,7 +262,7 @@ hasChildren = true
 languageName = "es"
 languageCode = "es"
 weight = 4
-copyright = "Se trata de un repositorio (casi un diario) para organizar los marcadores cuando se juega a GeoGuessr. Todos los nombres de empresas, productos y servicios (logotipos, etc.) aquí mencionados son marcas comerciales o marcas registradas de sus respectivos propietarios. Puede hese parte del texto haciendo clic en los ajustes de visualización de la esquina superior izquierda. </br>©2023 nanenkorewa. | <a href='https://geopinning.space/es/about/'>Política de privacidad・Acerca de esta página</a>"
+copyright = "Se trata de un repositorio (casi un diario) para organizar los marcadores cuando se juega a GeoGuessr. Todos los nombres de empresas, productos y servicios (logotipos, etc.) aquí mencionados son marcas comerciales o marcas registradas de sus respectivos propietarios. Puede hese parte del texto haciendo clic en los ajustes de visualización de la esquina superior izquierda. </br>©2022-2025 nanjakorewa. | <a href='https://geopinning.space/es/about/'>Política de privacidad・Acerca de esta página</a>"
 
 # banner
 [Languages.es.params.banner]
