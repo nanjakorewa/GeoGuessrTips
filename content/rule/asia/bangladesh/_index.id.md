@@ -12,23 +12,23 @@ jetro_detail: true
 plonkit: true
 dont_show_usda: true
 is_has_distinctive_googlecar: true
-sc_title: "Wilayah yang Sering Tertukar"
+sc_title: "Wilayah yang Sering Salah Diartikan"
 sc: [
     ["../india/", "India"],
-    ]
+]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Kendaraan berjalan di <span class="quiz">sisi kiri</span></li>
-        <li>Tulisan dalam bahasa Bengali (বাংলা লিপি) terlihat. Bentuk ◁ menjadi ciri khas.</li>
-        <li>Kendaraan komersial memiliki pelat nomor berwarna <span class="quiz">hijau</span></li>
-        <li>Tanda jalan dengan pola <span class="quiz">hitam dan putih</span>, mirip dengan Bhutan.</li>
-        <li>Bollard dengan pola <span class="quiz">merah dan putih</span> sering terlihat, terutama di dekat jembatan.</li>
-        <li>Baby taksi dan CNG rickshaw terlihat sering melintas{{% ref "https://www.jftc.jp/monthly/overseas/entry-1748.html" "日本貿易会月報オンライン - Transformasi Transportasi di Bangladesh" %}}{{% ref "https://www2.kaiyodai.ac.jp/~hyodo/Dhaka200903.html" "Tokyo University of Marine Science - Halaman Tetsuro Hyodo" %}}</li>
-        <li>GoogleCar di Bangladesh memiliki <span class="quiz">bagian luar berwarna merah dan cermin memantulkan hijau</span></li>
-        <li>Mungkin ada logo Dhaka Bank</li>
+        <li>Lalu lintas di sisi <span class="quiz">kiri</span></li>
+        <li>Bahasa Bengali (বাংলা লিপি) terlihat, dengan bentuk khas seperti ◁</li>
+        <li>Kendaraan komersial menggunakan plat nomor berwarna <span class="quiz">hijau</span></li>
+        <li>Rambu tiang bergaris <span class="quiz">hitam dan putih</span>, juga terlihat di Bhutan</li>
+        <li>Banyak bollard dengan pola garis <span class="quiz">merah dan putih</span>, sering ditemukan di dekat jembatan</li>
+        <li>Bayi taksi atau CNG rickshaw sering terlihat{{% ref "https://www.jftc.jp/monthly/overseas/entry-1748.html" "JFTC Monthly Report - Transformasi Transportasi Bangladesh" %}}{{% ref "https://www2.kaiyodai.ac.jp/~hyodo/Dhaka200903.html" "Universitas Kelautan Tokyo - Halaman Tetsuro Hyodo" %}}</li>
+        <li>GoogleCar di Bangladesh kadang memiliki eksterior <span class="quiz">merah dengan cermin hijau</span></li>
+        <li>Logo Dhaka Bank mungkin terlihat</li>
     </ul>
     {{% rd asia bangladesh small %}}
 </div>
@@ -37,7 +37,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Tulisan Bengali digunakan {{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://goo.gl/maps/XUX4RcEE7e95n92p9" "https://goo.gl/maps/C7f2o91a5uMWn767A" "https://goo.gl/maps/usA58XxrK8wDMeXKA" %}}. Bentuk seperti ‘বাং’ menjadi ciri khasnya.
+Bahasa Bengali digunakan{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://goo.gl/maps/XUX4RcEE7e95n92p9" "https://goo.gl/maps/C7f2o91a5uMWn767A" "https://goo.gl/maps/usA58XxrK8wDMeXKA" %}}. Bentuk seperti ◁, misalnya pada ‘বাং’, adalah ciri khasnya.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -45,14 +45,14 @@ Tulisan Bengali digunakan {{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https:
 </div>
 
 {{% notice tip %}}
-Bollard dengan pola <span class="quiz">merah dan putih</span> {{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}} sering terlihat di kedua sisi jalan dekat jembatan {{% imref %}}.
+Bollard dengan pola garis <span class="quiz">merah dan putih</span>{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}. Sering ditemukan berjejer di kedua sisi jalan dekat jembatan{{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./bollards.png" width="90%" alt="Bollard di Bangladesh" />
 </div>
 
 {{% notice tip %}}
-Kendaraan komersial memiliki pelat nomor berwarna <span class="quiz">hijau</span> {{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" "https://maps.app.goo.gl/KzyCsQJnmutmvobL8" %}}, sedangkan kendaraan pribadi memiliki pelat putih.
+Kendaraan komersial menggunakan plat nomor berwarna <span class="quiz">hijau</span>{{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" "https://maps.app.goo.gl/KzyCsQJnmutmvobL8" %}}, sedangkan kendaraan pribadi berwarna putih.
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -62,15 +62,16 @@ Kendaraan komersial memiliki pelat nomor berwarna <span class="quiz">hijau</span
 ![](2023-05-18-07-41-41.png)
 {{% /lb %}}
 
+
 {{% notice tip %}}
-CNG rickshaw berbentuk seperti tuk-tuk juga menjadi ciri khas {{% ex "https://maps.app.goo.gl/352hBjY28HvRoYxv9" "https://maps.app.goo.gl/SZeqAz2D1qJds1y89" %}}. Kendaraan ini juga memiliki pelat nomor berwarna <span class="quiz">hijau</span> {{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" "https://maps.app.goo.gl/mFSzfWmNdY8od8dV7" %}}.
+CNG rickshaw berbentuk seperti tuk-tuk adalah ciri khas lain{{% ex "https://maps.app.goo.gl/352hBjY28HvRoYxv9" "https://maps.app.goo.gl/SZeqAz2D1qJds1y89" %}}. Kendaraan ini juga menggunakan plat nomor <span class="quiz">hijau</span>{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" "https://maps.app.goo.gl/mFSzfWmNdY8od8dV7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="CNG auto-rickshaw stand in Kandirpar, Comilla 2.jpg" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="CNG auto-rickshaw stand in Kandirpar, Comilla 2.jpg" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="id">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
 </div>
 
 {{% notice tip %}}
-GoogleCar di Bangladesh terkadang memantulkan <span class="quiz">warna merah</span> pada cermin {{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}.
+GoogleCar di Bangladesh terkadang memperlihatkan <span class="quiz">cermin merah</span>{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}} (lihat contoh).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./gc.jpg" width="600px">
@@ -79,7 +80,7 @@ GoogleCar di Bangladesh terkadang memantulkan <span class="quiz">warna merah</sp
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
-Tanda jalan dengan pola <span class="quiz">hitam dan putih</span> sering terlihat.
+Tiang dengan pola garis <span class="quiz">hitam dan putih</span> adalah salah satu ciri khasnya.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680636944258!6m8!1m7!1smJsoGdfYYvgB3ENtAEcrDA!2m2!1d24.95523765493552!2d90.06311100033894!3f104.90316314976357!4f-6.4727045617172365!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -98,7 +99,7 @@ Tanda jalan dengan pola <span class="quiz">hitam dan putih</span> sering terliha
 {{% /tab %}}
 {{% tab "Bahasa" %}}
 {{% notice note %}}
-Bahasa Bengali digunakan secara luas di Bangladesh.
+Bahasa Bengali adalah bahasa utama yang digunakan di Bangladesh.
 {{% /notice %}}
 
 <div class="googlemap-if">

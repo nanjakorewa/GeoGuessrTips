@@ -15,5 +15,40 @@ plonkit: false
 is_has_many_trekker: true
 ---
 
-<iframe src="https://www.google.com/maps/embed?pb=!4v1693651195471!6m8!1m7!1s04_I7GqLEsUAAAQrCUkmfg!2m2!1d34.51776132653179!2d69.18160731556539!3f359.4678782383149!4f1.2792622531144104!5f0.7820865974627469" width="600" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">Unlikely to appear in Geoguessr questions</li>
+        <li>The official languages are Dari (دری) and Pashto (پښتو)</li>
+        <li>Captured using a tripod camera{{% ex "https://maps.app.goo.gl/zSrRZFakF5qS6DgTA" %}}</li>
+    </ul>
 </div>
+
+{{% tabs %}}
+{{% tab "w-etf" %}}
+
+{{% notice tip %}}
+There are several instances of official coverage not displayed on the map.{{% ex "https://maps.app.goo.gl/t4zauZhVrN4P2uvCA" "https://maps.app.goo.gl/1AzyK1h761h2CVmd8" "https://maps.app.goo.gl/MXza5rQCayTUtQ969" "https://maps.app.goo.gl/tVjrb39zBBajjESv8" "https://maps.app.goo.gl/AH3Lmf2BFkNT9p989" "https://maps.app.goo.gl/FrGrzPDQv4PDVoRD9" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./main.jpg" width="90%" />
+</div>
+
+{{% notice tip %}}
+Vehicles use <span class="quiz">white</span> license plates. Buses and taxis have yellow license plates.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
+</div>
+
+{{% lb 50 small %}}
+![](Afghanistan_-_License_Plate_-_PRV_-_HRT.png)
+{{% /lb %}}
+
+{{% lb 50 small %}}
+![](Afghanistan_-_License_Plate_-_Taxi.png)
+{{% /lb %}}
+
+{{% /tab %}}
+{{% /tabs %}}
