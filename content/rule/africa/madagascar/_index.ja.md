@@ -24,16 +24,34 @@ plonkit: true
 </div>
 
 {{% tabs %}}
-{{% tab "トレッカー" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682020963172!6m8!1m7!1sm7AX8lqdxkUmpkFY-AhIMQ!2m2!1d-18.92382582069827!2d47.53177034625296!3f66.53231343173096!4f22.835800446454456!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1682021034347!6m8!1m7!1svBxu5kas7e10HQwYvjFS6g!2m2!1d-18.92328094594912!2d47.5301458949846!3f277.51162859199894!4f1.5833064148211378!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
+{{% tab "w-etf" %}}
 
+{{% notice tip %}}トレッカー（歩木での撮影）や船・牛に乗った撮影ばかりなので、丸暗記すればすぐにわかる{{% ex "https://maps.app.goo.gl/crz45vnY3FhS6pZB9" "https://maps.app.goo.gl/nd32SghP4c2MFCWt8" %}}。
+{{% /notice %}}
 
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EQx88t1-FAM?start=3190" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
+
+{{% notice warning %}}これ以降の情報は、Geoguessrをプレイする上では役に立つことはほとんどありません
+{{% /notice %}}
+
+
+{{% notice tip %}}主食はコメであり、郊外ではアジアの田舎に近い景色が広がっている{{% ex "https://maps.app.goo.gl/bDM331uwnpt2b64z8" "https://maps.app.goo.gl/8nvF2bgr6K5es8a76" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="countryside_madagascar_rice_field.jpg" width="95%" />
+</div>
+
+
+{{% notice tip %}}「アフリカの年」である1960年に主権国家として独立を回復したもののフランス依存はその後も続き、フランスの工業製品の消費地となっていた。道端の電柱などはフランス本国と同じ形のものが見つかる{{% ex "https://maps.app.goo.gl/QUHPz3UKszBw9w2EA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="main_road_sabotsy_namehana.jpg" width="95%" />
+</div>
+
 
 {{% /tab %}}
 {{% tab "Google Boat" %}}
