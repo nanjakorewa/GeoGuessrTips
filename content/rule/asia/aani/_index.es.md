@@ -2,7 +2,7 @@
 title: "Islas Andamán"
 date: 2024-07-22
 lastmod: 2024-07-22
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]
@@ -16,6 +16,7 @@ is_has_distinctive_googlecar: false
 sc_title: "Región fácil de confundir"
 sc: [
     ["../india/", "Regiones de la India continental con alta precipitación"],
+    ["../lakshadweep/", "Lakshadweep"],
 ]
 ---
 

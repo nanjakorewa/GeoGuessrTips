@@ -2,7 +2,7 @@
 title: "Maladewa"
 date: 2024-07-01
 lastmod: 2024-07-01
-weight: 1000
+weight: 2000
 draft: false
 keywords: [""]
 sections: [""]

@@ -2,7 +2,7 @@
 title: "アンダマン諸島"
 date: 2024-07-22
 lastmod: 2024-07-22
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]
@@ -16,6 +16,7 @@ is_has_distinctive_googlecar: false
 sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド本土の降水量が多い地域"],
+    ["../lakshadweep/", "ラクシャドウィープ"],
     ]
 ---
 

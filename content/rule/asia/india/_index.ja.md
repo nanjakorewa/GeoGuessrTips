@@ -2,7 +2,7 @@
 title: "インド"
 date: 2023-02-26
 lastmod: 2023-12-13
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]
@@ -22,6 +22,7 @@ sc: [
     ["../pakistan/", "パキスタン"],
     ["../srilanka/", "スリランカ"],
     ["../aani/", "アンダマン諸島"],
+    ["../lakshadweep/", "ラクシャドウィープ"],
     ]
 ---
 
@@ -246,7 +247,7 @@ sc: [
 {{% /tab %}}
 {{% tab "マラヤーラム語" %}}
 {{% notice tip %}}
-ケーララ州で使用されている言語{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "マラヤーラム語" %}}。
+ケーララ州と{{% goto "../lakshadweep/" "ラクシャドウィープ" %}}で使用されている言語{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "マラヤーラム語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./thirunelli_temple_frontview.jpg">

@@ -3,7 +3,7 @@ title: "カザフスタン"
 flag: "KZ.svg"
 date: 2024-03-22
 lastmod: 2024-03-23
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

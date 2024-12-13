@@ -2,7 +2,7 @@
 title: "Kepulauan Andaman"
 date: 2024-07-22
 lastmod: 2024-07-22
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]
@@ -16,6 +16,7 @@ is_has_distinctive_googlecar: false
 sc_title: "Wilayah yang Membingungkan"
 sc: [
     ["../india/", "Wilayah dengan curah hujan tinggi di daratan utama India"],
+    ["../lakshadweep/", "Lakshadweep"],
     ]
 ---
 
