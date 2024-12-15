@@ -38,8 +38,8 @@ is_unofficial: true
 窓・カーテン・扉に水色や青色が使われていることが多い気がする{{% ex "https://maps.app.goo.gl/jZvqbZ7szFqdULaA9" %}}。庭は高い塀の内側にあり、通りから見通すことはできない{{% ref "http://tramptrack.com/?p=2029" "中庭に集う人たち｜ウズベキスタン、田舎のほっこり暮らし" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
-<p><a href="https://commons.wikimedia.org/wiki/File:Bukhara_Arabon_Street.jpg#/media/File:Bukhara_Arabon_Street.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Bukhara_Arabon_Street.jpg" alt="Bukhara Arabon Street.jpg" width="90%"></a><br>By <a href="//commons.wikimedia.org/wiki/User:Ymblanter" title="User:Ymblanter">Ymblanter</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98801499">Link</a></p>
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Bukhara_Arabon_Street.jpg#/media/File:Bukhara_Arabon_Street.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Bukhara_Arabon_Street.jpg" alt="Bukhara Arabon Street.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ymblanter" title="User:Ymblanter">Ymblanter</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98801499">Link</a></p>
 </div>
 
 
