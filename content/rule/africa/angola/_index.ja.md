@@ -44,5 +44,15 @@ is_unofficial: true
 
 CC0
 {{% /lb %}}
+
+{{% notice tip %}}
+内戦が収束した後は大きく経済成長しており、都市部のインフラや建物にはあたらしいものも多い{{% ex "https://maps.app.goo.gl/RgWWZ1rK75zwrJhN8" "https://maps.app.goo.gl/VWM22YQRHDUUDMRf7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:GDP_per_capita_development_of_Angola.svg#/media/File:GDP_per_capita_development_of_Angola.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/GDP_per_capita_development_of_Angola.svg" alt="GDP per capita development of Angola.svg" height="600" width="850"></a></p>
+<p>By Max Roser - <a rel="nofollow" class="external free" href="https://ourworldindata.org/grapher/gdp-per-capita-maddison-2020?country=~AGO">https://ourworldindata.org/grapher/gdp-per-capita-maddison-2020?country=~AGO</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=121593651">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
