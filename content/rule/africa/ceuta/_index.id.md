@@ -23,7 +23,6 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>Kendaraan melaju di sisi <span class="quiz">kanan</span></li>
-        <li>Domain internet menggunakan <span class="quiz">.es</span></li>
         <li>Populasi Muslim terlihat lebih banyak dibandingkan daratan utama</li>
     </ul>
     {{% rd africa ceuta small %}}

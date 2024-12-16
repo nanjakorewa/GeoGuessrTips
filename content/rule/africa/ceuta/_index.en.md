@@ -22,7 +22,6 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>Cars drive <span class="quiz">on the right side</span>.</li>
-        <li>The domain is <span class="quiz">.es</span></li>
         <li>Car is often dirty with sand.</li>
     </ul>
     {{% rd africa ceuta small %}}

@@ -21,7 +21,6 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>Cars drive on the right side of the road.</li>
-        <li>The domain is <span class="quiz">.es</span>.</li>
     </ul>
     <div class="sign-area sign-area-clickable licence-area">
         <p>Flag image: <a href="//commons.wikimedia.org/wiki/User:SanchoPanzaXXI~commonswiki" title="User:SanchoPanzaXXI~commonswiki">SanchoPanzaXXI</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, sourced from <a href="https://commons.wikimedia.org/w/index.php?curid=564928">Wikimedia Commons</a>.</p>

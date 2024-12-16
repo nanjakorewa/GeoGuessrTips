@@ -23,7 +23,6 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>Los vehículos circulan por el <span class="quiz">lado derecho</span></li>
-        <li>El dominio es <span class="quiz">.es</span></li>
         <li>Es más común ver musulmanes que en la península</li>
     </ul>
     {{% rd africa ceuta small %}}

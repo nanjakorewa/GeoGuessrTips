@@ -23,7 +23,6 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>車は<span class="quiz">右側</span>通行</li>
-        <li>ドメインは<span class="quiz">.es</span></li>
         <li>イスラム教徒が本土よりも多く見える</li>
     </ul>
     {{% rd africa ceuta small %}}
