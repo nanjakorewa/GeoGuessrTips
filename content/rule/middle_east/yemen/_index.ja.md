@@ -33,6 +33,16 @@ is_unofficial: true
 <p><a href="https://commons.wikimedia.org/wiki/File:Taiz,_Yemen_(16345552321).jpg#/media/File:Taiz,_Yemen_(16345552321).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/aa/Taiz%2C_Yemen_%2816345552321%29.jpg" alt="Taiz, Yemen (16345552321).jpg" height="658" width="1024"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/64607715@N05">Rod Waddington</a> from Kergunyah, Australia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/rod_waddington/16345552321/">Taiz, Yemen</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=38033541">Link</a></p>
 </div>
 
+
+
+{{% notice tip %}}
+家の窓枠などがおしゃれ{{% ex "https://maps.app.goo.gl/G2TfLeJgXvtHTfBE8" "https://maps.app.goo.gl/ZoNgKL4cCHKqLSeDA" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="1996_yemen_sanna_9.jpg" width="90%" />
+</div>
+
 {{% notice tip %}}
 コーヒーのプランテーションがある{{% ref "https://uminomukou.com/producing_region/190710_yemencoffee/" "モカコーヒー発祥の地、イエメンから" %}}。
 {{% /notice %}}

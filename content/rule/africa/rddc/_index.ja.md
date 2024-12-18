@@ -11,6 +11,12 @@ flag: "CD.svg"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
+flag_height: "530px"
+sc_title: "関連する国"
+sc: [
+    ["../rdc/", "コンゴ共和国"],
+    ["../../europe/france/", "フランス"],
+    ]
 ---
 
 <div class="main-desciption country-description">
