@@ -112,15 +112,15 @@ window.JSMaps.maps.northAmerica = {
 			"path": "M582.5,571.5 L583.4,572.1 L581.2,571.7 L581.3,571.2 Z"
 		},
 		{
-			"enable": false,
+			"enable": true,
 			"name": "Nicaragua",
 			"abbreviation": "NI",
 			"textX": 0,
 			"textY": 0,
-			"color": "#5E90B3",
+			"color": "#666666",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
-			"url": "#",
+			"url": "./nicaragua/",
 			"text": "<h1>Nicaragua</h1><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit</p>",
 			"path": "M424.7,634.8 L423.6,637.0 L425.0,640.1 L423.5,644.1 L423.2,650.1 L424.9,657.7 L423.8,655.8 L423.5,662.2 L424.5,664.8 L423.0,667.1 L425.5,670.8 L423.2,673.0 L416.3,670.8 L414.2,672.2 L408.1,670.5 L407.4,671.8 L399.8,666.6 L396.7,662.8 L388.8,657.9 L391.6,656.6 L394.0,656.4 L396.5,653.2 L395.9,649.3 L398.6,649.1 L401.0,646.3 L403.4,647.7 L408.5,642.8 L408.5,640.7 L411.3,638.4 L413.9,639.7 Z"
 		},
