@@ -1,7 +1,7 @@
 ---
 title: "モーリタニア"
-date: 2023-02-26
-lastmod: 2023-07-01
+date: 2024-11-20
+lastmod: 2024-11-20
 weight: 1000
 draft: false
 keywords: [""]
