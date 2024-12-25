@@ -27,7 +27,7 @@ sc: [
         <li>言語はスペイン語と英語が使用される</li>
         <li>車のナンバープレートが付いているのは<span class="quiz">後ろだけ</span></li>
         <li>太目の<span class="quiz">四角</span>の電柱がある</li>
-        <li>GoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>
+        <li>2023年以前の撮影ではGoogleCarのアンテナが<span class="quiz">右側の方にある</span>{{% by %}}</li>
         <li>電話番号は『<span class="quiz">787</span>』から始まる</li>
     </ul>
     {{% rd n_america puerto-rico verysmall %}}
@@ -37,18 +37,27 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-ナンバープレートが<span class="quiz">前に付いていない</span>車しかない。四角の電柱があり、下の方に色が付いていることもある{{% ex "https://goo.gl/maps/wyhythJmQaioo75m7" %}}。
+ナンバープレートが<span class="quiz">前に付いていない</span>車しかない。四角の電柱があり、下の方に色が付いていることもある{{% ex "https://maps.app.goo.gl/XxN31SaHk76dDTvQ7" "https://maps.app.goo.gl/ZAZchittC7GJfBmE7" %}}。2014~2023年の車のナンバーは左半分が暗く、右半分が白色っぽく見える{{% ex "https://maps.app.goo.gl/X1YBm8SU1VYXt3Zk6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <img src="./road.jpg" width="90%" >
 </div>
 
+
+
+{{% lb 50 %}}
+![Puerto_Rico_2008_Screened_License_Plate.jpg](Puerto_Rico_2008_Screened_License_Plate.jpg)
+
+Public Domain
+{{% /lb %}}
+
+
 {{% notice tip %}}
-速度上限の看板が特徴的{{% ex "https://maps.app.goo.gl/yCeskaZbva61uYKJA" "https://maps.app.goo.gl/hhkfNPNh8QjKMmiS6" %}}。
+速度上限の看板はMPH（マイル）表記{{% ex "https://maps.app.goo.gl/yCeskaZbva61uYKJA" "https://maps.app.goo.gl/hhkfNPNh8QjKMmiS6" %}}なのに、道端の距離を示す看板はキロメートル表記{{% ex "https://maps.app.goo.gl/sKSa6kFrmgg8Xa1G7" %}}。おそらく、主要な道路はかつてスペイン領だった時代に作成されたためキロメートルで管理され、アメリカによってマイル表記の自動車が導入されたため速度上限はマイル表記になったと思うけれど詳しくは不明。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/auvet/34731690652/" title="Autopista Route 66 Sign"><img src="https://live.staticflickr.com/4202/34731690652_ec2911e679_z.jpg" width="640" height="480" alt="Autopista Route 66 Sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cogdog/22307894262/in/photolist-4xwgBY-2qcbo57-2q4pDGH-zZgMLA-2q4p1Pt-2q4pUhf-2qaaEHF" title="ds106.4life"><img src="https://live.staticflickr.com/667/22307894262_8da5324b06_c.jpg" width="90%" alt="ds106.4life"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
