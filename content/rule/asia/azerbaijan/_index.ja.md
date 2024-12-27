@@ -2,7 +2,7 @@
 title: "アゼルバイジャン"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 100
+weight: 1000
 draft: false
 keywords: [""]
 sections: [""]
