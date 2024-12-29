@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="195"
+   height="172.58118"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Moldova_road_sign2.1.svg">
+  <defs
+     id="defs4">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath6641">
+      <path
+         d="M 0,0 H 595.276 V 841.89 H 0 Z"
+         id="path6643"
+         inkscape:connector-curvature="0" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1"
+     inkscape:cx="383.08331"
+     inkscape:cy="219.94204"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-879.78096)">
+    <path
+       sodipodi:nodetypes="sccsccsccs"
+       inkscape:connector-curvature="0"
+       d="m 104.41891,1050.5059 c -6.618539,3.8212 -15.081628,1.5536 -18.902847,-5.065 L 1.8562315,900.53775 c -3.8212156,-6.61851 -1.55354072,-15.08162 5.0649978,-18.90283 2.1036165,-1.21453 4.4898697,-1.85393 6.9189207,-1.85393 l 167.3197,3e-5 c 2.42905,0 4.8153,0.6394 6.91892,1.85393 6.61854,3.82121 8.88621,12.28432 5.065,18.90283 l -83.65986,144.90312 c -1.21452,2.1036 -2.96138,3.8505 -5.065,5.065 z"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3075076px;marker:none;enable-background:accumulate"
+       id="path5838" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:#ed1c24;fill-opacity:1;stroke:none;stroke-width:0.3075076"
+       d="m 97.273168,1049.2873 c -3.634273,-0.081 -7.140284,-2.0032 -9.090694,-5.3814 L 4.5211856,899.0026 c -2.9720549,-5.14779 -1.2078099,-11.7307 3.9399412,-14.70276 1.6361462,-0.94463 3.4921242,-1.44141 5.3813832,-1.44141 h 167.31295 c 1.8893,0 3.74526,0.49681 5.38138,1.44141 5.14777,2.97206 6.91201,9.55497 3.93998,14.70276 l -83.6517,144.9033 c -0.94463,1.6362 -2.30378,2.9953 -3.93994,3.94 -1.76955,1.0216 -3.708356,1.4841 -5.612012,1.4414 z m 0.0096,-18.5273 c 0.590808,0.042 1.207016,-0.085 1.758574,-0.4036 0.467473,-0.2699 0.85441,-0.666 1.124318,-1.134 l 74.27271,-128.65345 c 0.849,-1.47004 0.34644,-3.35024 -1.12437,-4.19942 -0.46745,-0.26987 -0.99774,-0.40357 -1.53754,-0.40357 H 23.221477 c -1.698307,0 -3.075076,1.37674 -3.075076,3.07508 0,0.53979 0.143744,1.06117 0.413213,1.52791 l 74.272697,128.65345 c 0.530638,0.9191 1.465772,1.468 2.450451,1.5376 z"
+       id="path4518" />
+    <path
+       sodipodi:nodetypes="cccscccccc"
+       inkscape:connector-curvature="0"
+       d="m 0.30978807,893.6188 c 1.537e-5,2.37507 0.62519986,4.70831 1.81274503,6.76517 L 85.78238,1045.2871 c 3.736298,6.4715 12.011324,8.6888 18.48278,4.9525 2.05687,-1.1875 3.76491,-2.8956 4.95245,-4.9525 l 83.65981,-144.90313 c 1.18755,-2.05686 1.81273,-4.3901 1.81275,-6.76517 -2e-5,-7.47259 -6.05778,-13.5303 -13.53036,-13.53033 H 13.840147 c -7.472579,3e-5 -13.53033741,6.05774 -13.53035893,13.53033 z"
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.61501521;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="path5840" />
+  </g>
+</svg>
