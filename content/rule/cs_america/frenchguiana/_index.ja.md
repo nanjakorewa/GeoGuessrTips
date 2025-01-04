@@ -24,7 +24,7 @@ is_unofficial: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-{{% ref "../../europe/france/" "フランス" %}}のボラードが見つかる。
+{{% goto "../../europe/france/" "フランス" %}}のボラードが見つかる。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/rustinpc/455967129/in/photolist-GhX9e-G3heS2-SnTDW1-25Gt6vv-Hyvgg1-25CCPkj-fZvMjj-KKQHkp-28Liwpp-23LQMgV-25NsUi4-vqrvaM-GhTzS-25GtnhR-qAmXN3-25NsUtK-2a4CAyp-25GtiS4-cSARa1-cSC7Tj-fZvP65-gAfFXX-cSAxkC-2bKhFcs-296K6Xh-2fkCCQH-Udhhb-fNRv9e-jHa8T2-czDFAW-dGPXH3-gAmT3H-avLcH5-GifGR-fNRxdX-se4xk8-DuJngM-hTYrvu-fvEeQ3-25NsTSK-dhSLPr-NM4Qk9-25NsTnM-24J44qz-25DsmFR-oD2Tfb-czDHTY-gAmjL7-4WeR9C-E47SdE" title="Road Away From St. Laurent"><img src="https://live.staticflickr.com/208/455967129_3ca3bd73fe_c.jpg" width="800" height="600" alt="Road Away From St. Laurent"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
