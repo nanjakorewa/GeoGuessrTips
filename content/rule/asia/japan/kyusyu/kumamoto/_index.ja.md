@@ -15,8 +15,8 @@ flag: "Kumamoto.svg"
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>菊陽町を中心に半導体企業が多く進出している</li>
         <li>熊本の標識には赤いテープが巻いてある</li>
+        <li>菊陽町を中心に半導体企業が多く進出している</li>
     </ul>
 </div>
 

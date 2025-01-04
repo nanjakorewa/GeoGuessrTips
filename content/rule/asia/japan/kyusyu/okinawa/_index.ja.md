@@ -7,6 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 no_jetro: true
+is_pref: true
 flag: "OKINAWA.svg"
 ---
 
@@ -20,9 +21,19 @@ flag: "OKINAWA.svg"
 </div>
 
 {{% tabs %}}
-{{% tab "平屋と給水タンク" %}}
+{{% tab "伝統的な家" %}}
 {{% notice tip %}}
-建物に<span class="quiz">白い平らな屋根</span>のものが多く、屋根上に<span class="quiz">給水タンク</span>が乗っている家もある。平屋のものが多い。
+台風対策として平屋になっており、なおかつ石垣で囲まれていることが多い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="nakamurahouse.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "給水タンク" %}}
+{{% notice tip %}}
+建物に<span class="quiz">白い平らな屋根</span>のものが多く、屋根上に<span class="quiz">給水タンク</span>が乗っている家もある。
 {{% /notice %}}
 
 <div class="googlemap-if">

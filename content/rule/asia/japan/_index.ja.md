@@ -118,7 +118,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
                 <li class="no-evidence" style="opacity:0.4">路面の『止まれ』の文字の『れ』の縦棒が他の地域と長さが違う？</li>
             </ul>
         </li>
-        <li><a href="./okinawa/" class="area-link">沖縄地方</a>
+        <li><a href="./kyusyu/okinawa/" class="area-link">沖縄地方</a>
             <ul>
                 <li>平屋の建物が多い</li>
                 <li>建物に<span class="quiz">白い平らな建物</span>が多い</li>
