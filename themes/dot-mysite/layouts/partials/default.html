@@ -421,7 +421,7 @@
 {{ with .File }}{{ $fileUniqueID = .UniqueID }}{{ end }}
 {{ $currentNodeFileUniqueID := "" }}
 {{ with $currentNode.File }}{{ $currentNodeFileUniqueID = .UniqueID }}{{ end }}
-<li data-nav-id="{{.Permalink}}" title="{{.Title}}">
+<li data-nav-id="{{.Permalink}}" title="{{.Title}}" class="{{ if .Params.is_pref }}flag-ispref{{ end }}">
   {{ $flag_path := print "flags/" .Params.flag }}
   <a href="{{.Permalink}}" class="flag-link">
     {{ if .Params.flag }}<img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" class="flag-img-link" oncontextmenu="return false;"/>{{ end }}<br/>
