@@ -1,0 +1,40 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $rpth := printf "%s%s/%s/corp/" "./content/rule/"  (.Get 0) (.Get 1) }}
+{{ $clsname := "normal" }}
+{{ $langflag := "ja" }}
+{{ $areaname := (.Get 0) }}
+{{ $regname := (.Get 1)  }}
+
+{{- if eq (.Get 2) "small" -}}
+{{ $clsname = "small" }}
+{{- else if eq (.Get 2) "verysmall" -}}
+{{ $clsname = "verysmall" }}
+{{ else }}
+{{ $clsname = "normal" }}
+{{ end }}
+
+
+{{ if ne .Site.Language.Lang "ja" }}
+{{ $langflag = .Site.Language.Lang  }}
+{{ end }}
+
+<h4 class="section-title" style="margin-bottom:0;padding-bottom:0;">{{ i18n "findable-corp-sign" }}</h4>
+<p style="margin:0;padding:0;font-size:0.8em;">※必ずしも道端で見つかるとは限りません</p>
+<div class="corp-area" style="background-color:#fff;border-radius:0.4em;">
+{{ $files := readDir $rpth }}
+{{ range $files }}
+{{ if eq $langflag "ja" }}
+<img src="./corp/{{ .Name }}" class="{{ $clsname }}"/>
+{{ else }}
+<img src="https://geopinning.space/rule/{{ $areaname }}/{{ $regname }}/corp/{{ .Name }}" class="{{ $clsname }}"/>
+{{ end }}
+{{ end }}
+
+<div class="corp-area corp-area-clickable">
+    {{ if (eq (.Get 3) "OGL") }}
+    <p><a href="http://nationalarchives.gov.uk/doc/open-government-licence/version/1/">Open Government Licence v1.0(Link)</a></p>
+    {{ else if (.Get 3) }}
+    <p>{{ .Get 3 }} <a href="{{ .Get 4 }}">Wikimedia Commons(Link)</a></p>
+    {{ end }}
+</div>
+</div>

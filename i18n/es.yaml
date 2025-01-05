@@ -82,4 +82,6 @@
   translation: streaming status
 - id: is_has_no_official_coverage
   translation: sin cobertura oficial
+- id: findable-corp-sign
+  translation: Conocida empresa
 

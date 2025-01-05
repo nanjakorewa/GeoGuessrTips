@@ -1076,6 +1076,41 @@ div.sign-area img.verysmall {
   min-width: 3.5em;
 }
 
+div.corp-area {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 0;
+}
+
+div.corp-area a {
+  /* pointer-events: none; */
+  margin: 0.5em;
+}
+
+div.corp-area-clickable a {
+  pointer-events: none;
+  margin: 0em;
+  font-size: 0.8em;
+}
+
+div.corp-area img {
+  max-height: 5em;
+  max-width: 9em;
+}
+
+div.corp-area img.small {
+  max-height: 5em;
+  max-width: 9em;
+}
+
+div.corp-area img.verysmall {
+  max-height: 5em;
+  max-width: 9em;
+}
+
 div.licence-area p {
   margin-right: 1em;
   margin-top: 0;

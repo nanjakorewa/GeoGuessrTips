@@ -6,6 +6,7 @@ weight: 20
 draft: false
 keywords: [""]
 sections: [""]
+is_pref: true
 bg: "bg/Flag_of_Hokkaido_Prefecture.png"
 flag: "Flag_of_Hokkaido_Prefecture.png"
 no_jetro: true
@@ -25,6 +26,7 @@ no_jetro: true
             </ul>
         </li>
     </ul>
+    {{% corp "asia/japan" "tohoku/hokkaido" %}}
 </div>
 
 

@@ -74,6 +74,8 @@
   translation: 参考文献
 - id: findable-road-sign
   translation: 見つかる標識
+- id: findable-corp-sign
+  translation: 代表的な企業
 - id: w-mymemo-wrong-cn
   translation: 国を間違えそうなポイント
 - id: show_mymemo_button

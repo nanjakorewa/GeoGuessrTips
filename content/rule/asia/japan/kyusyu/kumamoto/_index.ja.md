@@ -18,6 +18,7 @@ flag: "Kumamoto.svg"
         <li>熊本の標識には赤いテープが巻いてある</li>
         <li>菊陽町を中心に半導体企業が多く進出している</li>
     </ul>
+    {{% corp "asia/japan" "kyusyu/Kumamoto" %}}
 </div>
 
 {{% tabs %}}

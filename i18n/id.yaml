@@ -80,3 +80,5 @@
   translation: status streaming
 - id: is_has_no_official_coverage
   translation: tidak ada liputan resmi
+- id: findable-corp-sign
+  translation: 代表的な企業

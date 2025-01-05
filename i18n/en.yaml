@@ -72,6 +72,8 @@
   translation: Unique Google Car
 - id: findable-road-sign
   translation: Signs you can find
+- id: findable-corp-sign
+  translation: Representative Companies
 - id: w-mymemo-wrong-cn
   translation: Difficult place
 - id: show_mymemo_button
