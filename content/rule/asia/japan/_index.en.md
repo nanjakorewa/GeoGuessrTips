@@ -2,7 +2,7 @@
 title: "Japan"
 date: 2023-02-26
 lastmod: 2023-05-01
-weight: 2
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]

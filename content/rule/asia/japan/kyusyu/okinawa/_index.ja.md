@@ -18,6 +18,7 @@ flag: "OKINAWA.svg"
         <li>建物に<span class="quiz">白い平らな建物</span>が多い</li>
         <li>壁などに<span class="quiz">「石敢當」</span>と書いてある</li>
     </ul>
+    {{% corp "asia/japan" "kyusyu/okinawa" %}}
 </div>
 
 {{% tabs %}}
