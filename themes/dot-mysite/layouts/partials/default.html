@@ -49,7 +49,7 @@
         <div class="p-lg-5 p-4 bg-white apply-bg" style="padding: 1em !important;">
           <h1 class="mb-5">{{ if .Params.title_prefix }}<span class="small-title">{{ .Params.title_prefix }}</span>{{ end }}{{ .Title }}{{ if .Params.title_suffix }}<span class="small-title">{{ .Params.title_suffix }}</span>{{ end }}<span style="font-size:0.5em">{{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}{{ if .Params.is_unofficial }}<i class="fa fa-question-circle"></i>{{ end }}</span></span></h1>
           {{ if .Content }}
-          {{ partial "share" (dict "page" . "idname" "pagetop") }}
+          {{ partial "share" (dict "page" . "idname" "pagetop" "titlestr" .Title "snsshareurl" .Permalink) }}
 
           {{ if .Params.add_rule_link }}
           {{ $splitPath := split .File.Dir "\\" }}
