@@ -30,3 +30,21 @@ flag: "JP.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" title="熊本" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">
+            <img src="https://geopinning.space/flags/Kumamoto.svg" alt="熊本" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">熊本</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" title="鹿児島" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">
+            <img src="https://geopinning.space/flags/Kagoshima.svg" alt="鹿児島" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">鹿児島</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" title="沖縄" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">
+            <img src="https://geopinning.space/flags/OKINAWA.svg" alt="沖縄" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">沖縄</a></p>
+    </li>
+</ul>

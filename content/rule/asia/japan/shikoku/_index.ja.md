@@ -30,3 +30,12 @@ flag: "JP.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/kagawa/" title="香川" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/kagawa/" class="flag-link">
+            <img src="https://geopinning.space/flags/Kagawa.svg" alt="香川" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/kagawa/" class="flag-link">香川</a></p>
+    </li>
+</ul>
