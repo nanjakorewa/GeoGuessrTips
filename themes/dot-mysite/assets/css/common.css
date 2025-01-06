@@ -298,6 +298,46 @@ ul.flag-list li {
   font-weight: bold;
 }
 
+.content {
+  ul.flag-list-japan {
+    background:rgba(55, 110, 120, 0.15);
+    width: 100%;
+    display: flex;
+    flex-wrap        : wrap;
+    justify-content: center;
+    padding: 0;
+  }
+
+  div.bg-light ul.ul.flag-list-japan:first-child{
+    background:rgba(55, 110, 120, 0);
+  }
+
+  ul.flag-list-japan {
+    list-style-type: none !important;
+  }
+
+  ul.flag-list-japan li {
+    max-width: 10em;
+    float: left;
+    list-style: none;
+    list-style-type: none;
+    padding: 10px;
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: bold;
+  }
+
+  ul.flag-list-japan li::before {
+    content: "" !important;
+    width: 0;
+  }
+
+  ul.flag-list-japan li p {
+    margin: 0;
+    padding: 0;
+  }
+}
+
 
 @media (min-width: 800px) {
   .flag-ispref {

@@ -1,9 +1,10 @@
-<svg viewBox="0 0 5 4.5" xmlns="http://www.w3.org/2000/svg" width="500" height="450">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600">
 <clipPath id="a">
-<path d="M0 0h5v4.5H0z"/>
+<path d="M0 0h400v360H0z"/>
 </clipPath>
-<g clip-path="url(#a)" stroke="#005a2a" fill="none">
-<circle cx="-1.25" cy="5" r="4.25"/>
-<path d="M4.5 5A5.75 5.75 0 0 0 2.2 .4m.6 0A5.75 5.75 0 0 0 .5 5"/>
+<path d="M0 0H900V600H0z" fill="#005933"/>
+<g clip-path="url(#a)" stroke="#fff" fill="none" transform="translate(250 108)" stroke-width="80">
+<circle cx="-100" cy="400" r="340"/>
+<path d="M360 400A460 460 0 0 0 176 32m48 0A460 460 0 0 0 40 400"/>
 </g>
 </svg>

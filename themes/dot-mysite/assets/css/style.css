@@ -1042,3 +1042,8 @@ div.correct-text {
   margin-top: 0;
   margin-bottom: 0;
 }
+
+li.li-inactive{
+  opacity:0.3;
+  pointer-events:none;
+}

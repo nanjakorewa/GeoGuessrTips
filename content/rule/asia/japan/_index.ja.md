@@ -86,12 +86,50 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /tab %}}
 {{% /tabs %}}
 
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tohoku/" title="東北" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="東北" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">東北・北海道</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/" title="関東" class="li-inactive">
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="関東" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">関東</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tokai/" title="東海" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tokai/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="東海" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tokai/" class="flag-link">東海</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/koshinetsu/" title="甲信越" class="li-inactive">
+        <p><a href="https://geopinning.space/rule/asia/japan/koshinetsu/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="甲信越" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/koshinetsu/" class="flag-link">甲信越</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/hokuriku/" title="北陸" class="li-inactive">
+        <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="北陸" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">北陸</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/" title="四国" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="四国" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">四国</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/" title="九州" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="九州" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/" class="flag-link">九州</a></p>
+    </li>
+</ul>
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号の市外局番でおよその地域がわかる</li>
-        <li><a href="./hokkaido/" class="area-link">北海道</a>
+        <li><a href="./tohoku/hokkaido/" class="area-link">北海道</a>
             <ul>
                 <li>コンビニに<span class="quiz">セイコーマート</span>がある</li>
                 <li>道路に<span class="quiz">スノーポール・視線誘導標</span>がある</li>
