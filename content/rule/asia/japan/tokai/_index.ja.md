@@ -10,6 +10,13 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" title="静岡" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" class="flag-link">
+            <img src="https://geopinning.space/flags/Shizuoka.svg" alt="静岡" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" class="flag-link">静岡</a></p>
+    </li>
+</ul>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
@@ -31,11 +38,3 @@ flag: "JP.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
-
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" title="静岡" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" class="flag-link">
-            <img src="https://geopinning.space/flags/Shizuoka.svg" alt="静岡" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" class="flag-link">静岡</a></p>
-    </li>
-</ul>

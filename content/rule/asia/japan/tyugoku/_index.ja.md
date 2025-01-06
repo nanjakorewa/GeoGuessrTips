@@ -10,14 +10,19 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
-
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tyugoku/yamaguchi/" title="山口" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/yamaguchi/" class="flag-link">
+            <img src="https://geopinning.space/flags/Yamaguchi.svg" alt="山口" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/yamaguchi/" class="flag-link">山口</a></p>
+    </li>
+</ul>
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
         <li>石州瓦を用いた家が東広島を中心に山陰地方にあり屋根が<span class="quiz">赤</span>色っぽい</li>
     </ul>
 </div>
-
 
 {{% tabs %}}
 {{% tab "石州瓦" %}}
@@ -30,12 +35,3 @@ flag: "JP.svg"
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
-
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/tyugoku/yamaguchi/" title="山口" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/yamaguchi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Yamaguchi.svg" alt="山口" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/yamaguchi/" class="flag-link">山口</a></p>
-    </li>
-</ul>

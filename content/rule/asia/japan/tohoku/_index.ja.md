@@ -10,6 +10,13 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" title="北海道" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" class="flag-link">
+            <img src="https://geopinning.space/flags/Flag_of_Hokkaido_Prefecture.png" alt="北海道" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" class="flag-link">北海道</a></p>
+    </li>
+</ul>
 
 <div class="main-desciption area-description">
     <ul class="rule-list">
@@ -34,12 +41,3 @@ flag: "JP.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
-
-
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" title="北海道" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" class="flag-link">
-            <img src="https://geopinning.space/flags/Flag_of_Hokkaido_Prefecture.png" alt="北海道" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" class="flag-link">北海道</a></p>
-    </li>
-</ul>
