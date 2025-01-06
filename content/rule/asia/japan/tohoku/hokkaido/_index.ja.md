@@ -14,6 +14,7 @@ no_jetro: true
 
 
 <div class="main-desciption area-description">
+    <h2 class="section-title">全域</h2>
     <ul class="rule-list">
         <li>道路に<span class="quiz">視線誘導標</span>がある</li>
         <li>コンビニに<span class="quiz">セイコーマート</span>がある</li>
