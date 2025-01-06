@@ -190,7 +190,7 @@
           <!-- /main information -->
         </div>
           {{ else }}
-          {{ partial "share" (dict "page" . "idname" "default") }}
+          {{ partial "share" (dict "page" . "idname" "default" "titlestr" .Title "snsshareurl" .Permalink) }}
 
           <!-- sc_area -->
           {{ if .Params.sc }}
