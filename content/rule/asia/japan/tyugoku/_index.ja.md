@@ -33,5 +33,11 @@ flag: "JP.svg"
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/phimee/52872530308/in/photolist-2gQeCSG-3TYvb-dyi7aW-dyi6T1-oWRn8W-2ggaKFS-aHmRVx-2oyaxd9" title="6D0_9930"><img src="https://live.staticflickr.com/65535/52872530308_d759a19711_z.jpg" width="640" height="426" alt="6D0_9930"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/p39GXc3C0Co?si=VasSAla-Mtp063zt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
