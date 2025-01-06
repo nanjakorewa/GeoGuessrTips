@@ -1,0 +1,9 @@
+<svg viewBox="0 0 5 4.5" xmlns="http://www.w3.org/2000/svg" width="500" height="450">
+<clipPath id="a">
+<path d="M0 0h5v4.5H0z"/>
+</clipPath>
+<g clip-path="url(#a)" stroke="#005a2a" fill="none">
+<circle cx="-1.25" cy="5" r="4.25"/>
+<path d="M4.5 5A5.75 5.75 0 0 0 2.2 .4m.6 0A5.75 5.75 0 0 0 .5 5"/>
+</g>
+</svg>

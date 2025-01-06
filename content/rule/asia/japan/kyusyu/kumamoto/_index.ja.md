@@ -22,6 +22,16 @@ flag: "Kumamoto.svg"
 </div>
 
 {{% tabs %}}
+{{% tab "赤いテープ" %}}
+{{% notice tip %}}
+標識や看板の支柱に赤いテープが巻いてある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="kumamoto_pref_road_28_0.jpg" width="90%">
+</div>
+
+{{% /tab %}}
 {{% tab "半導体" %}}
 {{% notice tip %}}
 TSMCの進出をきっかけに、半導体関連企業が非常に多く進出している{{% ref "https://www.kyushu.meti.go.jp/seisaku/jyoho/oshirase/241007_1_1.pdf" "政策動向について 令和６年10月 経済産業省 商務情報政策局 情報産業課" %}}。
