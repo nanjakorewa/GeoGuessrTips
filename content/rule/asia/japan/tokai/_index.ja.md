@@ -11,6 +11,11 @@ flag: "JP.svg"
 ---
 
 <ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tokai/aichi/" title="愛知" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tokai/aichi/" class="flag-link">
+            <img src="https://geopinning.space/flags/Aichi.svg" alt="愛知" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tokai/aichi/" class="flag-link">愛知</a></p>
+    </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" title="静岡" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/tokai/shizuoka/" class="flag-link">
             <img src="https://geopinning.space/flags/Shizuoka.svg" alt="静岡" class="flag-img-link" oncontextmenu="return false;"></a></p>
