@@ -37,6 +37,10 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
+<img src="../pole/pole-chubu.png" width="220px">
+</div>
+
+<div class="googlemap-if">
 <img src="CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em">
 <img src="CHUBU_Electric_Power_logo.svg" width="230px">
 </div>

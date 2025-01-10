@@ -31,4 +31,14 @@ flag: "Shizuoka.svg"
 </div>
 
 {{% /tab %}}
+{{% tab "中部電力" %}}
+{{% notice tip %}}
+愛知県、岐阜県、三重県、富士川以西の静岡県、長野県では中部電力の電柱やロゴが見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="../../pole/pole-chubu.png" width="220px">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
