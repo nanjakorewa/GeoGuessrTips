@@ -32,6 +32,17 @@ flag: "JP.svg"
 </div>
 
 {{% tabs %}}
+{{% tab "東北電力・北海道電" %}}
+{{% notice tip %}}
+横向きのプレートは東北電力、たまに黄色いプレートがついているものは北海道電力。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="../pole/pole-tohoku.png" width="220px">
+<img src="../pole/pole-hokkaido.png" width="95px">
+</div>
+
+{{% /tab %}}
 {{% tab "ホームタンク" %}}
 {{% notice tip %}}
 ホームタンクと呼ばれる<span class="quiz">灯油タンク</span>のある家が目立つ
