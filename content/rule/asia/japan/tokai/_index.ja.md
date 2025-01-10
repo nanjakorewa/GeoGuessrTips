@@ -46,4 +46,14 @@ flag: "JP.svg"
 </div>
 
 {{% /tab %}}
+{{% tab "濃尾平野" %}}
+{{% notice tip %}}
+愛知県を中心に濃尾平野が広がっており、平坦な景色が広がっている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="nobi_plain_nagoya_from.jpg">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}

@@ -32,16 +32,6 @@ no_jetro: true
 
 
 {{% tabs %}}
-{{% tab "電柱" %}}
-{{% notice tip %}}
-左側に大き目の数字が並んだレイアウト。見分けはつきやすい{{% ex "https://maps.app.goo.gl/Gm1EufTTWhDNDY4Z9" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="../../pole/pole-hokkaido.png" width="120px">
-</div>
-
-{{% /tab %}}
 {{% tab "視線誘導標" %}}
 {{% notice tip %}}
 雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。北海道以外でも雪が多い地域に同じものがある{{% ex "https://goo.gl/maps/RTeMj4iZoyZ7C5v67" %}}ので他の要素と合わせて北海道と判断する。
@@ -49,6 +39,25 @@ no_jetro: true
 
 <div class="googlemap-if unclickable">
 <img src="Kōnomai02.jpg" width="80%">
+</div>
+
+{{% /tab %}}
+{{% tab "フキ" %}}
+
+{{% notice tip %}}
+道端にフキが大量に生えていることがある。フキ自体は全国で見られるが、大量に生えているのは北海道以外あまりない。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="komon03.jpg">
+</div>
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+左側に大き目の数字が並んだレイアウト。見分けはつきやすい{{% ex "https://maps.app.goo.gl/Gm1EufTTWhDNDY4Z9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="../../pole/pole-hokkaido.png" width="120px">
 </div>
 
 {{% /tab %}}
