@@ -30,6 +30,16 @@ flag: "Aichi.svg"
 </div>
 
 {{% /tab %}}
+{{% tab "工場" %}}
+{{% notice tip %}}
+工場の数は日本で一番多い{{% ref "https://www.tsr-net.co.jp/data/detail/1188375_1527.html" "東京商工リサーチ" %}}。工業出荷額は2位の大阪の倍以上である52兆円にのぼる{{% ref "https://www.siken.net/j_ranking?stat=ind_top" "工業出荷額の高い都道府県" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="tokai_rika_hagi_factory.jpg">
+</div>
+
+{{% /tab %}}
 {{% tab "中部電力" %}}
 {{% notice tip %}}
 愛知県、岐阜県、三重県、富士川以西の静岡県、長野県では中部電力の電柱やロゴが見つかる。
