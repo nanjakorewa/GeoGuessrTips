@@ -183,6 +183,25 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 
 
 <div class="main-desciption area-description">
+    <h4>農業</h4>
+    <ul class="rule-list">
+        <li>中部より南西では田んぼは少ない{{% ref "https://ipad.fas.usda.gov/rssiws/al/jp_cropprod.aspx" "米国農務省" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "コメの生産地域" %}}
+{{% notice tip %}}
+中部より南西では田んぼは少ない{{% ref "https://ipad.fas.usda.gov/rssiws/al/jp_cropprod.aspx" "米国農務省" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="Japan_rice.jpg" width="500px">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
     <h4>電柱や標識</h4>
     <ul class="rule-list">
         <li>電力会社・配線事業者が地域ごとに異なるため、電柱の電力会社ロゴ・プレート・ガイワイヤーなどに地域性がある({{% goto "https://www.plonkit.net/japan" "plonk it 日本のページ" %}})</li>
@@ -201,6 +220,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
         </li>
         <li>電柱のガイワイヤー（Guy-wire・支線）が地域によって異なる{{% ref "https://docs.google.com/document/d/18s_xdyXfVpBNHzwn8PtC9otpIwAJNWXjeeWg2egVd4U/edit" "Regional Differences in Guy-Wires for utility poles in Japan" %}}
         </li>
+    </ul>
 </div>
 
 {{% tabs %}}
