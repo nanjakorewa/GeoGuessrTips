@@ -32,6 +32,16 @@ no_jetro: true
 
 
 {{% tabs %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+左側に大き目の数字が並んだレイアウト。見分けはつきやすい{{% ex "https://maps.app.goo.gl/Gm1EufTTWhDNDY4Z9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="../../pole/pole-hokkaido.png" width="120px">
+</div>
+
+{{% /tab %}}
 {{% tab "視線誘導標" %}}
 {{% notice tip %}}
 雪が多い地域は道路の上に<span class="quiz">矢印（固定式視線誘導柱）</span>がある。北海道以外でも雪が多い地域に同じものがある{{% ex "https://goo.gl/maps/RTeMj4iZoyZ7C5v67" %}}ので他の要素と合わせて北海道と判断する。
@@ -57,13 +67,11 @@ no_jetro: true
 {{% tab "家の造り" %}}
 
 {{% notice tip %}}
-北海道には<span class="quiz">灯油タンク</span>（ホームタンクと呼ばれる４９０㍑灯油が保存できるタンク、ほとんど白色で緑・黒・黄・赤のものもある）が家の外にある。屋根からの雪下ろしをしなくても大丈夫なように工夫された、遠くからみると<span class="quiz">まっ平な屋根に見えるスノーダクト屋根・フラットルーフ</span>屋根が多い。また、誰もいない場所に雪が自然に落ちるように設計された屋根（遠くから見るとへの形）も多い。車庫は<span class="quiz">耐久性の高いカスケードガレージ</span>が使われていることがある（<a href="https://www.s-bic.co.jp/cascade/about.html">出典</a>）。
+北海道には<span class="quiz">灯油タンク</span>（ホームタンクと呼ばれる４９０㍑灯油が保存できるタンク）が家の外にある。屋根からの雪下ろしをしなくても大丈夫なように工夫された、遠くからみると<span class="quiz">まっ平な屋根に見えるスノーダクト屋根・フラットルーフ</span>屋根が多い。また、誰もいない場所に雪が自然に落ちるように設計された屋根も多い。屋根の上の雪を下すためのはしごも見えるはず。車庫は<span class="quiz">耐久性の高いカスケードガレージ</span>が使われていることがある{{% ref "https://bunka-hokkaido.com/cascade_garage.html" "カスケードガレージの特長 - 文化シャッター北海道" %}}。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681859886520!6m8!1m7!1s-bAJKISeXX9I2EgV0lrVrw!2m2!1d42.84533330722992!2d141.66561898281!3f134.7584640744099!4f-2.197463705254961!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681860775271!6m8!1m7!1sZCq_ruuFMivTjOoBIcdSlg!2m2!1d43.81272522499885!2d142.448496823835!3f324.5998603746964!4f2.738884001552151!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681860798046!6m8!1m7!1sq87gzwMH3gW7iem6VN69ZQ!2m2!1d43.81286800739591!2d142.4483242167853!3f252.17890284412655!4f0.6251349643517017!5f2.8609201218789653" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg#/media/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Typical_Residential_Street_in_Yuni%2C_Hokkaido.jpg" alt="Typical Residential Street in Yuni, Hokkaido.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=115473171">Link</a></p>
 </div>
 
 {{% /tab %}}
