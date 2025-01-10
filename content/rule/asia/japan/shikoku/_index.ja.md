@@ -19,23 +19,14 @@ flag: "JP.svg"
 </div>
 
 {{% tabs %}}
-{{% tab "ススキ" %}}
+{{% tab "四国電力" %}}
 {{% notice tip %}}
-道端にススキが生えているイメージがある。
+四国電力の電柱プレートが見つかる。太陽光発電などの自家発電システムを連結している場合は『自家発逆潮流有』のラベルが見つかるが、オレンジテープのラベルは四国電力だと思われる。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/songmatin/52581761712/" title="波戸岬｜Cape Hado"><img src="https://live.staticflickr.com/65535/52581761712_3605d34359_z.jpg" width="640" height="427" alt="波戸岬｜Cape Hado"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="../pole/pole-shikoku.png" width="420px">
 </div>
 
 {{% /tab %}}
 {{% /tabs %}}
-
-
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/kagawa/" title="香川" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/kagawa/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kagawa.svg" alt="香川" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/kagawa/" class="flag-link">香川</a></p>
-    </li>
-</ul>

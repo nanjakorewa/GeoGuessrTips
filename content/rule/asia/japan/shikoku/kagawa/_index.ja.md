@@ -31,4 +31,14 @@ flag: "Kagawa.svg"
 </div>
 
 {{% /tab %}}
+{{% tab "四国電力" %}}
+{{% notice tip %}}
+四国電力の電柱プレートが見つかる。太陽光発電などの自家発電システムを連結している場合は『自家発逆潮流有』のラベルが見つかるが、オレンジテープのラベルは四国電力だと思われる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="../../pole/pole-shikoku.png" width="420px">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}

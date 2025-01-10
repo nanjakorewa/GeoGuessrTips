@@ -42,4 +42,14 @@ TSMCの進出をきっかけに、半導体関連企業が非常に多く進出�
 </div>
 
 {{% /tab %}}
+{{% tab "九州電力" %}}
+{{% notice tip %}}
+九州電力の電柱プレートが見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="../../pole/pole-kyusyu.png" width="220px">
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}

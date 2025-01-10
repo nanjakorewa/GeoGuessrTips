@@ -36,13 +36,23 @@ flag: "JP.svg"
 </div>
 
 {{% tabs %}}
+{{% tab "九州電力" %}}
+{{% notice tip %}}
+九州電力の電柱プレートが見つかる。九州電力のロゴがわかりやすい。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="../pole/pole-kyusyu.png" width="220px">
+</div>
+
+{{% /tab %}}
 {{% tab "ススキ" %}}
 {{% notice tip %}}
 道端にススキが生えているイメージがある。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/songmatin/52581761712/" title="波戸岬｜Cape Hado"><img src="https://live.staticflickr.com/65535/52581761712_3605d34359_z.jpg" width="640" height="427" alt="波戸岬｜Cape Hado"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="road_japan_kumamoto_method.jpg">
 </div>
 
 {{% /tab %}}
