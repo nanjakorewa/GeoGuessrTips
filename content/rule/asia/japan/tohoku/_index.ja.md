@@ -19,11 +19,13 @@ flag: "JP.svg"
 </ul>
 
 <div class="main-desciption area-description">
+    <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+        <li>東北電力や北海道電力のロゴが見つかる</li>
         <li>寒い地域特有の家が多い（特に北海道）
             <ul>
-                <li>カスケード型のガレージがある</li>
                 <li>ホームタンクと呼ばれる<span class="quiz">灯油タンク</span>のある家が目立つ{{% ref "http://www.sundia.co.jp/product/home_equipment/home-tank-main/" "サンダイヤオイルタンク" %}}</li>
+                <li>カスケード型のガレージがある</li>
             </ul>
         </li>
     </ul>
