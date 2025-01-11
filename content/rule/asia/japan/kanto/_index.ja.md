@@ -10,6 +10,14 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
+<ul class="flag-list-japan">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/yamanashi/" title="山梨" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/yamanashi/" class="flag-link">
+            <img src="https://geopinning.space/flags/Osaka.svg" alt="山梨" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/yamanashi/" class="flag-link">山梨</a></p>
+    </li>
+</ul>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">

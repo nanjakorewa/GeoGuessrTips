@@ -17,7 +17,7 @@ flag: "Yamanashi.svg"
     <ul class="rule-list">
         <li>交差点名の看板がこげ茶色の背景をしている</li>
     </ul>
-    {{% corp "asia/japan" "koshinetsu/yamanashi" %}}
+    {{% corp "asia/japan" "kanto/yamanashi" %}}
 </div>
 
 {{% tabs %}}

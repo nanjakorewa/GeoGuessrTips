@@ -93,7 +93,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
             <img src="https://geopinning.space/flags/JP.svg" alt="東北" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">東北・北海道</a></p>
     </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/" title="関東" class="li-inactive">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/" title="関東">
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="関東" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">関東</a></p>
@@ -102,11 +102,6 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
         <p><a href="https://geopinning.space/rule/asia/japan/tokai/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="東海" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/tokai/" class="flag-link">東海</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/koshinetsu/" title="甲信越" class="li-inactive">
-        <p><a href="https://geopinning.space/rule/asia/japan/koshinetsu/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="甲信越" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/koshinetsu/" class="flag-link">甲信越</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/hokuriku/" title="北陸" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">
