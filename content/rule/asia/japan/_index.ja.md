@@ -107,10 +107,20 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
             <img src="https://geopinning.space/flags/JP.svg" alt="甲信越" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/koshinetsu/" class="flag-link">甲信越</a></p>
     </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/hokuriku/" title="北陸" class="li-inactive">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/hokuriku/" title="北陸" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="北陸" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">北陸</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/" title="近畿" class="li-inactive">
+        <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="近畿" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">近畿</a></p>
+    </li>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/tyugoku/" title="中国" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/" class="flag-link">
+            <img src="https://geopinning.space/flags/JP.svg" alt="中国" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/" class="flag-link">中国地方</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/" title="四国" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">
