@@ -108,7 +108,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
             <img src="https://geopinning.space/flags/JP.svg" alt="北陸" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">北陸</a></p>
     </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/" title="近畿" class="li-inactive">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/" title="近畿">
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="近畿" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">近畿</a></p>
