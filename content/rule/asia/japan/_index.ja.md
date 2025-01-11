@@ -27,6 +27,7 @@ maps: [
         <li>ドメインは<span class="quiz">.jp</span></li>
     </ul>
     {{% rd asia japan small %}}
+    {{% corp "asia/japan" "" %}}
 </div>
 
 {{% notice warning %}}
