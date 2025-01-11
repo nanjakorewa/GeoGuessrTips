@@ -31,17 +31,6 @@ weight: 1000
 - [Street View Map](https://sv-map.netlify.app/#base=roadmap&cov=official&zoom=2&center=0%2C0)：Googleの公式ストリートビューがある地域を確認できるWebアプリ
 - [LICENSE PLATES OF THE WORLD By Michael Kustermann](http://www.worldlicenseplates.com/hp.html)
 
-<h2 class="no-blur">配信者</h2>
-
-ちなみに自分は[GeoGuessr - RTA in Japan Summer 2022](https://www.youtube.com/watch?v=LNRalb3YtSQ)の動画を2023年の正月に見て、そのあと世界マップをやってみたら楽しかったのが始めたきっかけです。
-
-- [zi8gzag](https://www.youtube.com/@zi8gzag) {{% snsl "youtube" "@zi8gzag" %}} {{% snsl "twitch" "zi8gzag" %}}
-- [Daig_O](https://www.youtube.com/@Daig_O) {{% snsl "youtube" "@Daig_O" %}} {{% snsl "twitter" "Daig_O" %}}
-- [Pitman](https://www.youtube.com/@Pitman_live) {{% snsl "youtube" "@Pitman_live" %}} {{% snsl "twitch" "pitman_live" %}} {{% snsl "twitter" "pitman_live" %}}
-- [市民ジョン](https://www.twitch.tv/geociviljohn) {{% snsl "youtube" "@user-qf7cv9xh9r" %}} {{% snsl "twitch" "geociviljohn" %}} {{% snsl "twitter" "GeoCivilJohn" %}}
-- [【GeoGuessr】おおさかふみん【翻訳】](https://www.youtube.com/channel/UC0txqnWQzEgPk8md5dB8nSw) {{% snsl "youtube" "@geoguessrjp" %}}
-
-
 <h2 class="no-blur">配信者向けの注意点</h2>
 
 - [配信者&配信視聴者のためのGeoguessrチュートリアル 作:宮前たまき](https://docs.google.com/presentation/d/15DarIhxCCEuk-8w07q9SkL00ZRS4vgHOuBYu55hPavs/edit#slide=id.p) {{% snsl "twitch" "tamakimiyamae" %}} {{% snsl "twitter" "TamakiMiyamae" %}}
