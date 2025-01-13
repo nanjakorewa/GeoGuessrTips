@@ -1,5 +1,5 @@
 ---
-title: "関東"
+title: "関東・甲信越"
 date: 2023-02-26
 lastmod: 2023-07-01
 weight: 40
@@ -19,7 +19,7 @@ flag: "JP.svg"
 </ul>
 
 <div class="main-desciption country-description">
-    <h2 class="section-title">全域</h2>
+    <h2 class="section-title">関東</h2>
     <ul class="rule-list">
          <li>関東平野が広がっており、平坦な景色が広がっている</li>
     </ul>
