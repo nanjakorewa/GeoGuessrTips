@@ -23,7 +23,7 @@ flag: "Yamanashi.svg"
 {{% tabs %}}
 {{% tab "交差点名の看板" %}}
 {{% notice tip %}}
-オレンジの●がふたつ描かれた看板がある。
+交差点名の看板がこげ茶色の背景をしている。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
