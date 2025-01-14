@@ -32,16 +32,6 @@ flag: "Kumamoto.svg"
 </div>
 
 {{% /tab %}}
-{{% tab "半導体" %}}
-{{% notice tip %}}
-TSMCの進出をきっかけに、半導体関連企業が非常に多く進出している{{% ref "https://www.kyushu.meti.go.jp/seisaku/jyoho/oshirase/241007_1_1.pdf" "政策動向について 令和６年10月 経済産業省 商務情報政策局 情報産業課" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="2025-01-04-13-51-49.png">
-</div>
-
-{{% /tab %}}
 {{% tab "九州電力" %}}
 {{% notice tip %}}
 九州電力の電柱プレートが見つかる。
@@ -49,6 +39,27 @@ TSMCの進出をきっかけに、半導体関連企業が非常に多く進出�
 
 <div class="googlemap-if">
 <img src="../../pole/pole-kyusyu.png" width="220px">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>熊本県菊陽町を中心に半導体企業の進出が進んでいる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "半導体" %}}
+{{% notice tip %}}
+TSMCの進出をきっかけに、半導体関連企業が非常に多く進出している{{% ex "https://maps.app.goo.gl/KByr4eqf6DbM8sPE6" "https://maps.app.goo.gl/oWWtx58FwnVJDGGa6" %}}{{% ref "https://www.kyushu.meti.go.jp/seisaku/jyoho/oshirase/241007_1_1.pdf" "政策動向について 令和６年10月 経済産業省 商務情報政策局 情報産業課" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="2025-01-04-13-51-49.png">
 </div>
 
 {{% /tab %}}
