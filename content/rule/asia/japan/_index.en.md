@@ -70,7 +70,7 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
                 <li>There are <span class="quiz">snow poles</span> on the road.</li>
                 <li><span class="quiz">Houses with flat roofs, cascading garages, and home tanks</span> are characteristic of Hokkaido.</li>
             </ul>
-        <li><a href="./tyugoku/" class="area-link">Chugoku region</a>
+        <li><a href="./chugoku/" class="area-link">Chugoku region</a>
             <ul>
                 <li>If the guardrails are the color of summer oranges, you're in Yamaguchi Prefecture.</li>
             </ul>

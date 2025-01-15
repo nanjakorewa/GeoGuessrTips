@@ -96,27 +96,22 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/" title="関東">
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="関東" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">関東・甲信越</a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">関東</a></p>
     </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/tokai/" title="東海" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/tokai/" class="flag-link">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/" title="中部" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/chubu/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="東海" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/tokai/" class="flag-link">東海</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/hokuriku/" title="北陸" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="北陸" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/hokuriku/" class="flag-link">北陸</a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/chubu/" class="flag-link">中部</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/" title="近畿">
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="近畿" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">近畿</a></p>
     </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/tyugoku/" title="中国" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/" class="flag-link">
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/chugoku/" title="中国" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/chugoku/" class="flag-link">
             <img src="https://geopinning.space/flags/JP.svg" alt="中国" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/tyugoku/" class="flag-link">中国地方</a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/chugoku/" class="flag-link">中国地方</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/" title="四国" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">
@@ -148,7 +143,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
                 </li>
             </ul>
         </li>
-        <li><a href="./tyugoku/" class="area-link">中国地方</a>
+        <li><a href="./chugoku/" class="area-link">中国地方</a>
             <ul>
                 <li>石州瓦を用いた家が東広島を中心に山陰地方にあり屋根が<span class="quiz">赤</span>色っぽい</li>
                 <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>

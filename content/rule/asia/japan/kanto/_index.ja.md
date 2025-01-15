@@ -1,5 +1,5 @@
 ---
-title: "関東・甲信越"
+title: "関東"
 date: 2023-02-26
 lastmod: 2023-07-01
 weight: 40
@@ -11,10 +11,10 @@ flag: "JP.svg"
 ---
 
 <ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/yamanashi/" title="山梨" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/yamanashi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Osaka.svg" alt="山梨" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/yamanashi/" class="flag-link">山梨</a></p>
+    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/chiba/" title="千葉" class="">
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">
+            <img src="https://geopinning.space/flags/Osaka.svg" alt="千葉" class="flag-img-link" oncontextmenu="return false;"></a></p>
+        <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">千葉</a></p>
     </li>
 </ul>
 
