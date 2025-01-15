@@ -32,6 +32,7 @@ sc: [
         <li class="no-evidence">オランダと比べ山がちで、水路が少なく、家が全体的に白っぽく、自転車用の道路数が少ないように思える{{% goto "../../../architecture/houses/europe-1/#ルクセンブルグ" "家の見た目 > ルクセンブルグ" %}}</li>
     </ul>
     {{% rd europe luxembourg verysmall %}}
+    {{% corp "europe/luxembourg" "" %}}
 </div>
 
 {{% tabs %}}
@@ -108,3 +109,27 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>ArcelorMittal, S.A.</td>
+                <td>{{% nasdaq "MT" %}}</td>
+                <td>年間粗鋼生産量で世界2位。大企業のランキングであるFortune Global 500ではだいたい195位前後。</td>
+                <td>{{% corplink "https://corporate.arcelormittal.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "MT" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
