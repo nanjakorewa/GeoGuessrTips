@@ -1047,3 +1047,21 @@ li.li-inactive{
   opacity:0.3;
   pointer-events:none;
 }
+
+div.container-corp {
+  width:90%;
+  margin: 0 auto;
+}
+
+div.container-corp thead {
+  font-size: 0.8em;
+}
+
+div.container-corp .col-width-2 { width: 20%; }
+div.container-corp .col-width-1 { width: 10%; }
+div.container-corp .col-width-7 { width: 65%; }
+div.container-corp .col-width-05 { width: 5%; }
+
+div.container-corp tbody.corp-desc {
+  font-size: 0.9em;
+}

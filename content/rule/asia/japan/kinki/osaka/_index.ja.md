@@ -19,3 +19,31 @@ flag: "Osaka.svg"
     </ul>
     {{% corp "asia/japan" "kinki/osaka" %}}
 </div>
+
+<div class="container-corp mt-5">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>日本ペイント株式会社</td>
+                <td>{{% minkabu 4612 %}}</td>
+                <td>塗料系メーカーの中ではアジア第1位、世界第4位の売上。</td>
+                <td>{{% corplink "https://www.nipponpaint-holdings.com/ir/" %}}</td>
+            </tr>
+            <tr>
+                <td>新田ゼラチン</td>
+                <td>{{% minkabu 4977 %}}</td>
+                <td>ゼラチン製造で世界4位。ゼラチンの国内販売シェアは60％を占める。</td>
+                <td>{{% corplink "https://www.nitta-gelatin.co.jp/ja/ir.html" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
