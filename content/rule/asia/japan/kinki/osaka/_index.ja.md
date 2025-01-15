@@ -43,9 +43,23 @@ flag: "Osaka.svg"
             <tr>
                 <td>新田ゼラチン</td>
                 <td>{{% minkabu 4977 %}}</td>
-                <td>ゼラチン製造で世界4位。ゼラチンの国内販売シェアは60％を占める。</td>
+                <td>ゼラチン製造で世界4位。ゼラチンの国内販売シェアは60％で業界トップ。</td>
                 <td>{{% corplink "https://www.nitta-gelatin.co.jp/ja/ir.html" %}}</td>
                 <td>{{% dividend "tokyo" "4977" %}}</td>
+            </tr>
+            <tr>
+                <td>大阪ソーダ</td>
+                <td>{{% minkabu 4046 %}}</td>
+                <td>ジアリルフタレート樹脂（DAP樹脂）で世界シェア1位。アリルエーテルや液体クロマトグラフィー用シリカゲルなどでも世界一位のシェアを持つ。</td>
+                <td>{{% corplink "https://www.osaka-soda.co.jp/ja/ir/library.html" %}}</td>
+                <td>{{% dividend "tokyo" "4046" %}}</td>
+            </tr>
+            <tr>
+                <td>酉島製作所</td>
+                <td>{{% minkabu 6363 %}}</td>
+                <td>海水淡水化プラント向けポンプで世界トップシェア。</td>
+                <td>{{% corplink "https://www.torishima.co.jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "6363" %}}</td>
             </tr>
         </tbody>
     </table>
