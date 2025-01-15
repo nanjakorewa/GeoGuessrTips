@@ -85,5 +85,4 @@
 - id: streaming_status
   translation: 配信ステータス
 - id: is_has_no_official_coverage
-  translation: 公式カバレッジなし
-
+  translation: 出題されない地域
