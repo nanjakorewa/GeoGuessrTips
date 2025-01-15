@@ -36,6 +36,7 @@ maps: [
         <li>コンクリートのブロックでできた壁や擁壁が見られる</li>
     </ul>
     {{% rd asia taiwan small %}}
+    {{% corp "asia/taiwan" "" %}}
 </div>
 
 
@@ -138,3 +139,28 @@ maps: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>台湾積体電路製造股份有限公司（TSMC）</td>
+                <td>{{% nasdaq "TSM" %}}</td>
+                <td>世界初の、そして世界最大のファウンドリ。</td>
+                <td>{{% corplink "https://investor.tsmc.com/japanese/quarterly-results/2024/q4" %}}</td>
+                <td>{{% dividend "nasdaq" "TSM" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

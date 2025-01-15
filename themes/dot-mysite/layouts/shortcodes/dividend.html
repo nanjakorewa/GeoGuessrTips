@@ -1,0 +1,6 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ if eq (.Get 0) "tokyo"}}
+<a class="minkabu" href="https://scouter.monex.co.jp/report/dps/{{.Get 1}}" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+{{ else }}
+<a class="nasdaq" href="https://www.nasdaq.com/market-activity/stocks/{{.Get 1}}/dividend-history" target="_blank"><i class="fas fa-external-link-alt"></i></a>
+{{ end }}

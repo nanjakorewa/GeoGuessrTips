@@ -255,8 +255,9 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
             <tr>
                 <th scope="col" class="col-width-2">企業名</th>
                 <th scope="col" class="col-width-1">コード</th>
-                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-6">説明</th>
                 <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
             </tr>
         </thead>
         <tbody class="corp-desc">
@@ -265,6 +266,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
                 <td>{{% minkabu 1605 %}}</td>
                 <td>日本最大の石油・天然ガス開発企業。Forbes Global 2000にて2024年時点で世界564位の企業。</td>
                 <td>{{% corplink "https://www.inpex.co.jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "1605" %}}</td>
             </tr>
         </tbody>
     </table>

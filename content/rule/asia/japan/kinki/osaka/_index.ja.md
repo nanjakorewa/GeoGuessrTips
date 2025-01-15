@@ -29,6 +29,7 @@ flag: "Osaka.svg"
                 <th scope="col" class="col-width-1">コード</th>
                 <th scope="col" class="col-width-7">説明</th>
                 <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
             </tr>
         </thead>
         <tbody class="corp-desc">
@@ -37,12 +38,14 @@ flag: "Osaka.svg"
                 <td>{{% minkabu 4612 %}}</td>
                 <td>塗料系メーカーの中ではアジア第1位、世界第4位の売上。</td>
                 <td>{{% corplink "https://www.nipponpaint-holdings.com/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "4612" %}}</td>
             </tr>
             <tr>
                 <td>新田ゼラチン</td>
                 <td>{{% minkabu 4977 %}}</td>
                 <td>ゼラチン製造で世界4位。ゼラチンの国内販売シェアは60％を占める。</td>
                 <td>{{% corplink "https://www.nitta-gelatin.co.jp/ja/ir.html" %}}</td>
+                <td>{{% dividend "tokyo" "4977" %}}</td>
             </tr>
         </tbody>
     </table>
