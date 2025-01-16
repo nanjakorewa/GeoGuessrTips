@@ -107,3 +107,34 @@ no_jetro: true
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>ジャックス</td>
+                <td>{{% minkabu 8584 %}}</td>
+                <td>信販業界で国内第2位の総取扱高の企業。</td>
+                <td>{{% corplink "https://www.jaccs.co.jp/corporate/ir/library/" %}}</td>
+                <td>{{% dividend "tokyo" "8584" %}}</td>
+            </tr>
+            <tr>
+                <td>北海道電力</td>
+                <td>{{% minkabu 9509 %}}</td>
+                <td>札幌市に本社を置く電力会社。ほくでん、HEPCOとも。</td>
+                <td>{{% corplink "https://www.hepco.co.jp/corporate/ir/ir_lib/ir_lib.html" %}}</td>
+                <td>{{% dividend "tokyo" "9509" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -130,6 +130,13 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
                 <td>{{% corplink "https://corporate.arcelormittal.com/investors" %}}</td>
                 <td>{{% dividend "nasdaq" "MT" %}}</td>
             </tr>
+            <tr>
+                <td>Ternium S.A.</td>
+                <td>{{% nasdaq "TX" %}}</td>
+                <td>アルゼンチン、ブラジル、メキシコ、グアテマラなどのラテンアメリカに拠点を持つ鉄鋼会社。</td>
+                <td>{{% corplink "https://investors.ternium.com/English/ternium/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "TX" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
