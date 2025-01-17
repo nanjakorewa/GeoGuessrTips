@@ -83,6 +83,13 @@ flag: "OKINAWA.svg"
         </thead>
         <tbody class="corp-desc">
             <tr>
+                <td>サンエー</td>
+                <td>{{% minkabu 2659 %}}</td>
+                <td>沖縄に70店舗以上を構える。競合はイオン琉球。沖縄でのローソン運営もしている。</td>
+                <td>{{% corplink "https://www.san-a.co.jp/ir/data/" %}}</td>
+                <td>{{% dividend "tokyo" "2659" %}}</td>
+            </tr>
+            <tr>
                 <td>沖縄電力</td>
                 <td>{{% minkabu 9511 %}}</td>
                 <td>立地の関係もあり火力発電依存。そのため石油・天然ガス価格の影響を受けやすい。</td>
