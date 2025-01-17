@@ -400,7 +400,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
             <tr>
                 <td>Vale</td>
                 <td>{{% nasdaq "VALE" %}}</td>
-                <td>鉄鉱石3大メジャーの一角。</td>
+                <td>鉄鉱石3大メジャーの一角。ボーキサイト、銅、金なども生産している。</td>
                 <td>{{% corplink "https://vale.com/ja/investors" %}}</td>
                 <td>{{% dividend "nasdaq" "VALE" %}}</td>
             </tr>
