@@ -76,6 +76,13 @@ flag: "Chiba.svg"
                 <td>{{% corplink "https://www.cosmo-energy.co.jp/ja/ir/news.html" %}}</td>
                 <td>{{% dividend "tokyo" "5021" %}}</td>
             </tr>
+            <tr>
+                <td>日本製鉄</td>
+                <td>{{% minkabu 5401 %}}</td>
+                <td>日本最大手の鉄鋼メーカー。</td>
+                <td>{{% corplink "https://www.nipponsteel.com/ir/library/" %}}</td>
+                <td>{{% dividend "tokyo" "5401" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>

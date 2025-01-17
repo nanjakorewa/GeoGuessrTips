@@ -552,6 +552,13 @@ Public Domain
                 <td>{{% corplink "https://coca-colafemsa.com/en/investor-relations/investor-resources/presentations/" %}}</td>
                 <td>{{% dividend "nasdaq" "KOF" %}}</td>
             </tr>
+            <tr>
+                <td>America Movil</td>
+                <td>{{% nasdaq "AMX" %}}</td>
+                <td>中南米では最大手の携帯電話事業者。加入者数の視点では世界７位。</td>
+                <td>{{% corplink "https://www.americamovil.com/investors/reports-and-filings/quarterly-results/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "AMX" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
