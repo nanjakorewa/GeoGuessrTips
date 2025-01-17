@@ -103,7 +103,7 @@ TSMCの進出をきっかけに、半導体関連企業が非常に多く進出�
             <tr>
                 <td>平田機工</td>
                 <td>{{% minkabu 6258 %}}</td>
-                <td>NC装置最大手であり世界シェア50%を占める。</td>
+                <td>『生産ライン』を生産するメーカー。</td>
                 <td>{{% corplink "https://www.hirata.co.jp/ir/" %}}</td>
                 <td>{{% dividend "tokyo" "6258" %}}</td>
             </tr>
