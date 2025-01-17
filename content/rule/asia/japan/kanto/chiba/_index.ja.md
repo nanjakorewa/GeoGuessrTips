@@ -62,6 +62,20 @@ flag: "Chiba.svg"
                 <td>{{% corplink "https://www.isechem.co.jp/ir/" %}}</td>
                 <td>{{% dividend "tokyo" "4107" %}}</td>
             </tr>
+            <tr>
+                <td>キッコーマン</td>
+                <td>{{% minkabu 2801 %}}</td>
+                <td>醤油を代表とする調味料大手。売上海外比率は80%弱にせまり、醤油の世界シェアはおよそ50%。</td>
+                <td>{{% corplink "https://www.kikkoman.com/jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "2801" %}}</td>
+            </tr>
+            <tr>
+                <td>コスモエネルギーホールディングス</td>
+                <td>{{% minkabu 5021 %}}</td>
+                <td>石油元売りではENEOS、出光に続く国内3位。</td>
+                <td>{{% corplink "https://www.cosmo-energy.co.jp/ja/ir/news.html" %}}</td>
+                <td>{{% dividend "tokyo" "5021" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>

@@ -262,11 +262,32 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
         </thead>
         <tbody class="corp-desc">
             <tr>
+                <td>トヨタ自動車</td>
+                <td>{{% minkabu 7203 %}}</td>
+                <td>世界最大規模の自動車メーカー。日本で一番売上と従業員数が大きい会社。</td>
+                <td>{{% corplink "https://global.toyota/jp/ir/financial-results/" %}}</td>
+                <td>{{% dividend "tokyo" "7203" %}}</td>
+            </tr>
+            <tr>
+                <td>東京エレクトロン</td>
+                <td>{{% minkabu 1605 %}}</td>
+                <td>半導体製造装置大手。コータ/デベロッパで高いシェアを持つほか、ウェーハプローバや成膜装置でもシェアが高い{{% ref "https://www.meti.go.jp/press/2023/06/20230606003/20230606003-1.pdf" "半導体・デジタル産業戦略" %}}。</td>
+                <td>{{% corplink "https://www.tel.co.jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "1605" %}}</td>
+            </tr>
+            <tr>
                 <td>INPEX</td>
                 <td>{{% minkabu 1605 %}}</td>
                 <td>日本最大の石油・天然ガス開発企業。Forbes Global 2000にて2024年時点で世界564位の企業。</td>
                 <td>{{% corplink "https://www.inpex.co.jp/ir/" %}}</td>
                 <td>{{% dividend "tokyo" "1605" %}}</td>
+            </tr>
+            <tr>
+                <td>Ocean Network Express</td>
+                <td>-</td>
+                <td>川崎汽船、商船三井、日本郵船が共同で設立した定期コンテナ船を主な事業とする会社。定期コンテナ船の事業規模は世界6位。</td>
+                <td>{{% corplink "https://jp.one-line.com/ja" %}}</td>
+                <td>-</td>
             </tr>
         </tbody>
     </table>
