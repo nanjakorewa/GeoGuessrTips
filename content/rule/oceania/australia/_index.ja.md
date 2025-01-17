@@ -38,6 +38,7 @@ sc: [
         <li>「M1」のような道路番号は{{% goto "../../africa/south-africa/" "南アフリカ共和国" %}}にもあるけれどフォントが異なる</li>
     </ul>
     {{% rd oceania australia verysmall %}}
+    {{% corp "oceania/australia" "" %}}
 </div>
 
 {{% tabs %}}
@@ -327,3 +328,35 @@ By EurovisionNim - Own work, <a href="https://creativecommons.org/licenses/by-sa
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>BHP Group Plc</td>
+                <td>{{% nasdaq "BHP" %}}</td>
+                <td>世界最大の鉱業会社。</td>
+                <td>{{% corplink "https://www.bhp.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "BHP" %}}</td>
+            </tr>
+            <tr>
+                <td>Woodside Energy</td>
+                <td>{{% nasdaq "WDS" %}}</td>
+                <td>オーストラリアの石油・ガス生産事業者。世界でだいたい1300番目に大きな公開企業。</td>
+                <td>{{% corplink "https://www.woodside.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "WDS" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

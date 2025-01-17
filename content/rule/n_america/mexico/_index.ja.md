@@ -36,6 +36,7 @@ sc: [
         <li>とまれが「<span class="quiz">ALTO</span>」はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../panama/" "パナマ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}</li>
     </ul>
     {{% rd n_america mexico verysmall %}}
+    {{% corp "n_america/mexico" "" %}}
 </div>
 
 {{% tabs %}}
@@ -528,3 +529,29 @@ Public Domain
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Coca-Cola FEMSA</td>
+                <td>{{% nasdaq "KOF" %}}</td>
+                <td>世界最大のフランチャイズコカコーラボトラー。</td>
+                <td>{{% corplink "https://coca-colafemsa.com/en/investor-relations/investor-resources/presentations/" %}}</td>
+                <td>{{% dividend "nasdaq" "KOF" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
