@@ -37,6 +37,7 @@ sc: [
         <li>電柱の溝に仕切りが<span class="quiz">ある</span>電柱を使っている</li>
     </ul>
     {{% rd cs_america brazil verysmall %}}
+    {{% corp "cs_america/brazil" "" %}}
 </div>
 
 
@@ -374,3 +375,35 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 <li>左から二番目の電柱画像のみ以下の画像から抜粋しています</li>
 <li>　By <a href="https://www.wikidata.org/wiki/Q57979330" class="extiw" title="d:Q57979330"><span title="librarian in Chicago, Illinois">Paul R. Burley</span></a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74494644">Link</a></li>
 {{% /imgref %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Petroleo Brasileiro S.A.</td>
+                <td>{{% nasdaq "PBR" %}}</td>
+                <td>南半球最大の石油採掘会社。</td>
+                <td>{{% corplink "https://www.investidorpetrobras.com.br/en/" %}}</td>
+                <td>{{% dividend "nasdaq" "PBR" %}}</td>
+            </tr>
+            <tr>
+                <td>Vale</td>
+                <td>{{% nasdaq "VALE" %}}</td>
+                <td>鉄鉱石3大メジャーの一角。</td>
+                <td>{{% corplink "https://vale.com/ja/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "VALE" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
