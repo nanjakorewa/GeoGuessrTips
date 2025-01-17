@@ -64,3 +64,49 @@ TSMCの進出をきっかけに、半導体関連企業が非常に多く進出�
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Japan Advanced Semiconductor Manufacturing（JASM）</td>
+                <td>-</td>
+                <td>世界最大の半導体ファウンドリTSMCが熊本県に設立した子会社。</td>
+                <td>{{% corplink "https://www.tsmc.com/static/japanese/careers/jasm/about-jasm.html#:~:text=%E3%80%8CJapan%20Advanced%20Semiconductor%20Manufacturing%E6%A0%AA%E5%BC%8F,%E3%81%AB%E8%A8%AD%E7%AB%8B%E3%81%97%E3%81%9F%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99%E3%80%82" %}}</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>荏原製作所</td>
+                <td>{{% minkabu 6361 %}}</td>
+                <td>水や資源向けのポンプを製造する大手メーカー。とりわけ肥料プラント向けの高圧アンモニアポンプは100%のシェアを持つ。</td>
+                <td>{{% corplink "https://www.ebara.co.jp/ir/library/index.html" %}}</td>
+                <td>{{% dividend "tokyo" "6361" %}}</td>
+            </tr>
+            <tr>
+                <td>富士フィルムエレクトロニクスマテリアルズ</td>
+                <td>{{% minkabu 4901 %}}</td>
+                <td>リソグラフィ材料やイメージセンサ―向け材料の製造を行う。</td>
+                <td>{{% corplink "https://ir.fujifilm.com/ja/investors/ir-materials/presentations/session/main/0118/teaserItems1/0/tableContents/0110/multiFileUpload2_0/link/ff_presentation_20220609_001j.pdf" %}}</td>
+                <td>{{% dividend "tokyo" "4901" %}}</td>
+            </tr>
+            <tr>
+                <td>平田機工</td>
+                <td>{{% minkabu 6258 %}}</td>
+                <td>NC装置最大手であり世界シェア50%を占める。</td>
+                <td>{{% corplink "https://www.hirata.co.jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "6258" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
