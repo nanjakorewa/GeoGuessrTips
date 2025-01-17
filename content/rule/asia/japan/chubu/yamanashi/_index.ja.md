@@ -23,7 +23,7 @@ flag: "Yamanashi.svg"
 {{% tabs %}}
 {{% tab "交差点名の看板" %}}
 {{% notice tip %}}
-交差点名の看板がこげ茶色の背景をしている。
+交差点名の看板がこげ茶色の背景をしている{{% ex "https://maps.app.goo.gl/KLnh5UGHeXpXESBy8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -33,3 +33,30 @@ flag: "Yamanashi.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-6">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>ファナック</td>
+                <td>{{% minkabu 6954 %}}</td>
+                <td>産業用ロボット世界2位、工作機械用CNC装置世界１位のシェアを持つメーカー。</td>
+                <td>{{% corplink "https://www.fanuc.co.jp/ja/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "6954" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

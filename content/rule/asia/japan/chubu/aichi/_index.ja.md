@@ -51,3 +51,28 @@ flag: "Aichi.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-6">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>トヨタ自動車</td>
+                <td>{{% minkabu 7203 %}}</td>
+                <td>世界最大規模の自動車メーカー。日本で一番売上と従業員数が大きい会社。</td>
+                <td>{{% corplink "https://global.toyota/jp/ir/financial-results/" %}}</td>
+                <td>{{% dividend "tokyo" "7203" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -53,3 +53,36 @@ flag: "Kagoshima.svg"
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>住友金属鉱山</td>
+                <td>{{% minkabu 5713 %}}</td>
+                <td>日本において商業的規模の操業が行われている唯一の金鉱山である菱刈鉱山を運営する。</td>
+                <td>{{% corplink "https://www.smm.co.jp/ir/library/" %}}</td>
+                <td>{{% dividend "tokyo" "5713" %}}</td>
+            </tr>
+            <tr>
+                <td>宇宙航空研究開発機構（JAXA）</td>
+                <td>-</td>
+                <td>航空宇宙開発政策を担う国立研究開発法人。※企業ではありません</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
