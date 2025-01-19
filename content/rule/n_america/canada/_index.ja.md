@@ -325,6 +325,20 @@ sc: [
                 <td>{{% corplink "https://www.pembina.com/investors" %}}</td>
                 <td>{{% dividend "nasdaq" "PBA" %}}</td>
             </tr>
+            <tr>
+                <td>Canadian National Railway</td>
+                <td>{{% nasdaq "CNR" %}}</td>
+                <td>カナダ国内最大の鉄道会社であり、カナダ国内ではCNR以外で大陸を横断している鉄道はない。</td>
+                <td>{{% corplink "https://www.cn.ca/en/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "CNR" %}}</td>
+            </tr>
+            <tr>
+                <td>Teck Resources</td>
+                <td>{{% nasdaq "TECK" %}}</td>
+                <td>金属・鉱業に従事する。製鉄用石炭・亜鉛・銅と主に扱い（収益の9割以上）、副次的に産出する鉛・金・モリブデンなども扱う。</td>
+                <td>{{% corplink "https://www.teck.com/investors/" %}}</td>
+                <td>{{% dividend "nasdaq" "TECK" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
