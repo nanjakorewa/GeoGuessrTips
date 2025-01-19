@@ -30,6 +30,7 @@ sc: [
         <li>Google Carが<span class="quiz">黒</span>色{{% ref "https://docs.google.com/spreadsheets/d/1SUcuQkmDgVZMqNLe7XuNEhmJulonpnSQuSiJAOqfhtY/edit?usp=sharing" "Cameras and Cars - Metagame Guide" %}}</li>
     </ul>
     {{% rd cs_america argentina %}}
+    {{% corp "cs_america/argentina" "" %}}
 </div>
 
 {{% tabs %}}
@@ -231,3 +232,43 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-6">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Yacimientos Petroliferos Fiscales(YPF)</td>
+                <td>{{% nasdaq "YPF" %}}</td>
+                <td>アルゼンチンの国有石油会社。</td>
+                <td>{{% corplink "https://investors.ypf.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "YPF" %}}</td>
+            </tr>
+            <tr>
+                <td>Loma Negra</td>
+                <td>{{% nasdaq "LOMA" %}}</td>
+                <td>アルゼンチン最大のセメント・コンクリート製造業者。</td>
+                <td>{{% corplink "https://investors.lomanegra.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "LOMA" %}}</td>
+            </tr>
+            <tr>
+                <td>Grupo Financiero Galicia</td>
+                <td>{{% nasdaq "GGAL" %}}</td>
+                <td>アルゼンチン最大の民間商用銀行。国内銀行業ではおそらく5番目の規模。</td>
+                <td>{{% corplink "https://www.gfgsa.com/en" %}}</td>
+                <td>{{% dividend "nasdaq" "GGAL" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
