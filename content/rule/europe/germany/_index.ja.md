@@ -33,6 +33,7 @@ sc: [
         <li>2023年にストリートビューが多く追加されており『@ 2023 Google』と表示されていることが多い</li>
     </ul>
     {{% rd europe germany verysmall %}}
+    {{% corp "europe/germany" "" %}}
 </div>
 
 
@@ -370,3 +371,29 @@ sc: [
 {{% imgref %}}
 <li>右側の電柱画像の出典：By <a href="//commons.wikimedia.org/w/index.php?title=User:Ralf_Krebs&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Ralf Krebs (page does not exist)">Ralf Krebs</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=124966897">Link</a></li>
 {{% /imgref %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Hapag-Lloyd</td>
+                <td>-</td>
+                <td>コンテナ船を運行する、世界全体で見たとき業界5位の規模。</td>
+                <td>{{% corplink "https://www.hapag-lloyd.com/en/company/ir.html" %}}</td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
