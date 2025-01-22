@@ -33,6 +33,7 @@ sc: [
         <li>地域名に二重母音（「oo」「ee」といった綴り）が見られる</li>
     </ul>
     {{% rd africa south-africa verysmall %}}
+    {{% corp "africa/south-africa" "" %}}
 </div>
 
 {{% tabs %}}
@@ -288,3 +289,35 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 {{% /tab %}}
 
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Gold Fields</td>
+                <td>{{% nasdaq GFI %}}</td>
+                <td>世界第8位の金生産業者。南アフリカだけでなくオーストラリア・チリなどに鉱山を保有している。</td>
+                <td>{{% corplink "https://www.goldfields.com/investor-overview.php" %}}</td>
+                <td>{{% dividend "nasdaq" "GFI" %}}</td>
+            </tr>
+            <tr>
+                <td>Harmony Gold Mining</td>
+                <td>{{% nasdaq HMY %}}</td>
+                <td>南アフリカに金・銀鉱山を保有している。また、パプアニューギニアのモロベ州Hidden Valleyにで露天掘りの金銀鉱山を運営している{{% ref "https://www.harmony.co.za/operations/png/hidden-valley/" "The Hidden Valley mine" %}}。</td>
+                <td>{{% corplink "https://www.harmony.co.za/investors/" %}}</td>
+                <td>{{% dividend "nasdaq" "HMY" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
