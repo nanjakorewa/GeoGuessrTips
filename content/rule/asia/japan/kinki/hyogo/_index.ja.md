@@ -54,6 +54,13 @@ flag: "Hyogo.svg"
                 <td>{{% corplink "https://www.cmp.co.jp/ir.html" %}}</td>
                 <td>{{% dividend "tokyo" "4617" %}}</td>
             </tr>
+            <tr>
+                <td>東リ</td>
+                <td>{{% minkabu 7971 %}}</td>
+                <td>壁紙・カーペットを中心とした住宅建材メーカー。国内のタイルカーペットのシェアが高いが、海外売上比率は少ない。東レや東ソーとは別会社。</td>
+                <td>{{% corplink "https://www.toli.co.jp/ir/presentation/" %}}</td>
+                <td>{{% dividend "tokyo" "7971" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>

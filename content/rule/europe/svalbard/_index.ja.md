@@ -57,12 +57,37 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683380604908!6m8!1m7!1s39SmFAyxzzl2Nht0IshIRQ!2m2!1d78.22409211782694!2d15.63796797600673!3f35.42896380071371!4f-15.668135505178128!5f2.8250272445652915" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tab %}}
+{{% /tabs %}}
 
-{{% notice tip %}}
-船の上に乗る時もあるがよーく見るとノルウェーの旗があるかも。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686408554105!6m8!1m7!1sdnxN7d1-HtMH-6PcsxXFnQ!2m2!1d79.61560130633005!2d11.49966117670627!3f116.89106314355992!4f-20.872647719244156!5f1.8136803769151784" width="500" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>Barentsburgはほぼロシア人しかおらず、ロシア語が見られる</li>
+        <li>Pyramidenは定住者はほぼいないが、観光向けの開発が進んでいる</li>
+    </ul>
 </div>
+
+{{% tabs %}}
+{{% tab "Barentsburg" %}}
+
+{{% notice tip %}}1932年にオランダがソ連に炭鉱権を売却して以降、ロシア国営企業が町の管理・運営をしている。ロシアによるウクライナ侵攻後、ウクライナ人はいなくなったと言われる{{% ref "https://en.wikipedia.org/wiki/Barentsburg" "Баренцбург" %}}。全体的に暗く、建物も古い{{% ex "https://maps.app.goo.gl/qXSMsSx4AEnAquoD6" "https://maps.app.goo.gl/qtQkugqGUkFBqwPo7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="barentsburg.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "Pyramiden" %}}
+
+{{% notice tip %}}1927年にスウェーデンがソ連に炭鉱権を売却し、1990年代に廃鉱となり無人となった。現在は観光向けのロッジやホテルが再整備され、見た目はすこし綺麗になっている{{% ex "https://maps.app.goo.gl/cacX4c2D51HkfuUb6" "https://maps.app.goo.gl/biTH6dCV81vE8DCi9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="31_07_pyramiden_30.jpg" width="90%">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
