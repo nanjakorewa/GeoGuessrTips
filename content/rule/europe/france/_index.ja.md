@@ -33,6 +33,7 @@ sc: [
         <li>通り名の看板に「<span class="quiz">Rue</span>」と書いてあればフランス語圏の可能性が高い</li>
     </ul>
     {{% rd europe france small %}}
+    {{% corp "europe/france" "" %}}
 </div>
 
 
@@ -544,3 +545,35 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% imgref %}}
 <li>By <a href="//commons.wikimedia.org/wiki/User:Chabe01" title="User:Chabe01">Chabe01</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59212980">Link</a></li>
 {{% /imgref %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>TotalEnergies</td>
+                <td>{{% nasdaq TTE %}}</td>
+                <td>Big Oilの一角であり世界で21番目に大きな企業{{% ref "https://en.wikipedia.org/wiki/Big_Oil" "Big Oil" %}}。</td>
+                <td>{{% corplink "https://investors.lyondellbasell.com/overview/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "TTE" %}}</td>
+            </tr>
+            <tr>
+                <td>Sanofi</td>
+                <td>{{% nasdaq SNY %}}</td>
+                <td>100カ国以上で事業展開している製薬・バイオテクノロジー企業。</td>
+                <td>{{% corplink "https://www.sanofi.com/en/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "SNY" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
