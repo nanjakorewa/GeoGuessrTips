@@ -136,6 +136,13 @@ maps: [
             </ul>
         </li>
     </ul>
+    <h4 class="section-title">州限定の細かいヒント</h4>
+    <ul class="rule-list">
+        <li>{{% goto "./region1/" "第1地域（北東部）" %}}</li>
+        <li>{{% goto "./region2/" "第2地域（中西部）" %}}</li>
+        <li>{{% goto "./region3/" "第3地域（南部）" %}}</li>
+        <li>{{% goto "./region4/" "第4地域（西部）" %}}</li>
+    </ul>
     <h4 class="section-title">州を絞り込むヒント</h2>
     <p>離島かどうかを判断した上で、ナンバープレート・州道の看板・山や植物の様子・土地が平坦かどうか・家の周りの雰囲気を見て場所を絞り込んでいく。地域がかなり絞り込めるヒントも州によっては存在する。</p>
     <ul class="rule-list">

@@ -20,17 +20,22 @@ jogmec_detail: true
 
 <div class="main-desciption country-description">
     <ul class="rule-list">
-        <li>①分数が書かれた標識はウェストバージニア州かも{{% by "now_and_jenn" "twitch" %}}</li>
-        <li class="no-evidence">②石壁で囲われたエリアはニューイングランド州、特にニューヨーク周辺で見ることが多い{{% by "now_and_jenn" "twitch" %}}
-        <ul>
-            <li>調べた限り出てきたソース『ニューイングランド州、特にニューヨーク州の謎の一つは、この地域全体を飾る数キロに及ぶ石のフェンスです。...』{{% by "https://www.zmanmagazine.com/PDF/Stone%20Walls.pdf" "web" "New York's Stone Walls" %}}</li>
-        </ul>
-        </li>
+        <li>A.廃墟や放棄された建物が多いのはウェストバージニア州かも</li>
+        <li>B.分数が書かれた標識はウェストバージニア州かも{{% by "now_and_jenn" "twitch" %}}</li>
+        <li>C.石壁で囲われたエリアはニューイングランド州、特にニューヨーク周辺で見ることが多い{{% by "now_and_jenn" "twitch" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "①標識" %}}
+{{% tab "A.廃墟" %}}
+{{% notice tip %}}
+ウェストバージニア州、とくに北西部は貧困率が高い。廃墟やしまった店が多く見つかる{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="this_housing_in_smithers_0.jpg">
+</div>
+{{% /tab %}}
+{{% tab "B.標識" %}}
 {{% notice tip %}}
 分数が書かれた標識はウェストバージニア州かも。「23/1」は「23」から分岐したひとつ目の道。
 {{% /notice %}}
@@ -38,9 +43,9 @@ jogmec_detail: true
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia "fractional" county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="West Virginia "fractional" county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-{{% tab "②石壁" %}}
+{{% tab "C.石壁" %}}
 {{% notice tip %}}
-こんなかんじの石の壁はニューヨーク感？
+こんなかんじの石の壁はニューヨーク感？調べた限り出てきたソース『ニューイングランド州、特にニューヨーク州の謎の一つは、この地域全体を飾る数キロに及ぶ石のフェンスです。...』{{% by "https://www.zmanmagazine.com/PDF/Stone%20Walls.pdf" "web" "New York's Stone Walls" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
