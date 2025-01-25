@@ -415,11 +415,39 @@ NO OUTLET(出口なし)やDEAD END(行き止まり)の看板がある道も入�
         </thead>
         <tbody class="corp-desc">
             <tr>
+                <td>Waste management</td>
+                <td>{{% nasdaq "WM" %}}</td>
+                <td>米国、カナダ、プエルトリコに展開している廃棄物処理大手。Republic Services, Inc.とWaste Management, Inc.の２社でアメリカのおよそ半分のゴミを処理している。</td>
+                <td>{{% corplink "https://investors.wm.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "WM" %}}</td>
+            </tr>
+            <tr>
+                <td>NextEra Energy</td>
+                <td>{{% nasdaq "NEE" %}}</td>
+                <td>再生可能エネルギー大手であり、風力と太陽光で世界最大の発電量。</td>
+                <td>{{% corplink "https://www.investor.nexteraenergy.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "NEE" %}}</td>
+            </tr>
+            <tr>
                 <td>Exxon Mobil</td>
                 <td>{{% nasdaq "XOM" %}}</td>
                 <td>石油メジャー（国際石油資本）大手でありスーパーメジャーの一角{{% ref "https://ja.wikipedia.org/wiki/%E5%9B%BD%E9%9A%9B%E7%9F%B3%E6%B2%B9%E8%B3%87%E6%9C%AC" "国際石油資本" %}}。</td>
                 <td>{{% corplink "https://investor.exxonmobil.com/" %}}</td>
                 <td>{{% dividend "nasdaq" "XOM" %}}</td>
+            </tr>
+            <tr>
+                <td>NVIDIA</td>
+                <td>{{% nasdaq "NVDA" %}}</td>
+                <td>-</td>
+                <td>{{% corplink "https://investor.nvidia.com/home/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "NVDA" %}}</td>
+            </tr>
+            <tr>
+                <td>Microsoft</td>
+                <td>{{% nasdaq "MSFT" %}}</td>
+                <td>-</td>
+                <td>{{% corplink "https://www.microsoft.com/en-us/investor/default" %}}</td>
+                <td>{{% dividend "nasdaq" "MSFT" %}}</td>
             </tr>
         </tbody>
     </table>
