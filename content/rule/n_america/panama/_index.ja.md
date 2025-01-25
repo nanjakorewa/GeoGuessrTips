@@ -30,6 +30,7 @@ sc: [
         <li><span class="quiz">黄</span>色のタクシーが走っていて側面に都市名やルート名が書いてある</li>
     </ul>
     {{% rd n_america panama verysmall %}}
+    {{% corp "n_america/panama" "" %}}
 </div>
 
 {{% tabs %}}
@@ -144,3 +145,27 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
 {{% /tab %}}
 {{% /tabs %}}
 
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Banco Latinoamericano de Comercio Exterior</td>
+                <td>{{% nasdaq "BLX" %}}</td>
+                <td>ラテンアメリカではじめにニューヨーク証券取引所に上場した企業。SBI証券から購入可能。</td>
+                <td>{{% corplink "https://www.bladex.com/en/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "BLX" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
