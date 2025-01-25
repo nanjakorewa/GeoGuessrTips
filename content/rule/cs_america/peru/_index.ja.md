@@ -35,6 +35,7 @@ sc: [
         <li class="no-evidence">細長い箱が家の壁に埋め込まれていたり外についていたりする</li>
     </ul>
     {{% rd cs_america peru verysmall %}}
+    {{% corp "cs_america/peru" "" %}}
 </div>
 
 
@@ -301,3 +302,29 @@ Machu PicchuやAguas Calientes駅付近は山に囲まれている。また特�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Cementos Pacasmayo</td>
+                <td>{{% nasdaq "CPAC" %}}</td>
+                <td>ペルー北部最大のセメント会社。</td>
+                <td>{{% corplink "https://www.cementospacasmayo.com.pe/" %}}</td>
+                <td>{{% dividend "nasdaq" "CPAC" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
