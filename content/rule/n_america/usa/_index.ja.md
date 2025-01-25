@@ -449,6 +449,20 @@ NO OUTLET(出口なし)やDEAD END(行き止まり)の看板がある道も入�
                 <td>{{% corplink "https://www.microsoft.com/en-us/investor/default" %}}</td>
                 <td>{{% dividend "nasdaq" "MSFT" %}}</td>
             </tr>
+            <tr>
+                <td>S&P Global</td>
+                <td>{{% nasdaq "SPGI" %}}</td>
+                <td>S&P 500、ダウ・ジョーンズ工業株30種平均は日本でもよく知られている。</td>
+                <td>{{% corplink "https://investor.spglobal.com/investor-relations-overview/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "SPGI" %}}</td>
+            </tr>
+            <tr>
+                <td>FactSet Research Systems</td>
+                <td>{{% nasdaq "FDS" %}}</td>
+                <td>金融情報データの提供や関連ソフトウェアを開発している。{{% goto "https://insight.factset.com/topic/earnings" "FactSet Insight" %}}などで市場全体のレポートを出している。</td>
+                <td>{{% corplink "https://investor.factset.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "FDS" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
