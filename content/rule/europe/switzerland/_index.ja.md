@@ -226,6 +226,13 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
                 <td>{{% corplink "https://investors.on-running.com/home/default.aspx" %}}</td>
                 <td>{{% dividend "nasdaq" "ONON" %}}</td>
             </tr>
+            <tr>
+                <td>Logitech</td>
+                <td>{{% nasdaq LOGI %}}</td>
+                <td>コンピュータ周辺機器大手。日本ではロジクールとして知られている。ちなみに、個人的に<u><a href="https://amzn.to/3CpsEqv">Ergoシリーズ(リンク)</a></u>を使用していますがかなりおススメです。仕事・プライベートで3年以上使っていますが全く壊れないのとトラックボールの抵抗も少なく指も痛くならないです。</td>
+                <td>{{% corplink "https://ir.logitech.com/home/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "LOGI" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
