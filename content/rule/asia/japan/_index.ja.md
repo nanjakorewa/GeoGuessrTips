@@ -130,6 +130,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>電話番号の市外局番でおよその地域がわかる</li>
+        <li>道路標示によって県が分かることがある</li>
         <li><a href="./tohoku/hokkaido/" class="area-link">北海道</a>
             <ul>
                 <li>コンビニに<span class="quiz">セイコーマート</span>がある</li>
@@ -177,6 +178,20 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 <div class="googlemap-if">
 <img src="2023-04-14-21-52-22.png" class="no-click"/>
 <p><a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachuによる著作物, CC0</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "『横断歩道又は自転車横断帯あり』の標示" %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">都道府県ごとの横断歩道前ダイヤマーク標示一覧(2024/6/14更新) <a href="https://t.co/OOXm01MGmt">pic.twitter.com/OOXm01MGmt</a></p>&mdash; Sloor (@Sloor_Mn) <a href="https://twitter.com/Sloor_Mn/status/1801546645823492133?ref_src=twsrc%5Etfw">June 14, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "『止まれ』の標示" %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">都道府県ごとの止まれ標示一覧(2023/10/3更新) <a href="https://t.co/WRdX0MeuG3">pic.twitter.com/WRdX0MeuG3</a></p>&mdash; Sloor (@Sloor_Mn) <a href="https://twitter.com/Sloor_Mn/status/1709044123741933939?ref_src=twsrc%5Etfw">October 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
