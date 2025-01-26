@@ -22,6 +22,7 @@ is_unofficial: true
         <li>アムハラ語（አማርኛ）や英語など5言語が使用されている</li>
     </ul>
     {{% rd africa ethiopia %}}
+    {{% corp "africa/ethiopia" "" %}}
 </div>
 
 {{% tabs %}}
@@ -42,7 +43,7 @@ is_unofficial: true
 </div>
 
 {{% notice tip %}}
-４輪は日本車が、２輪はインド系の会社の車輛が多い。写真に映るいすゞ自動車もエチオピアに進出している{{% ref "https://abp.co.jp/contents/insights/japanese2310/" "アフリカにおける日本企業の動き AFRICA BUSINESS PARTNERS" %}}。
+４輪は日本車が、２輪はインド系の会社の車輛が多い。写真に映るいすゞ自動車もエチオピアにて工場を操業している。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -59,3 +60,28 @@ is_unofficial: true
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-6">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>いすゞ自動車</td>
+                <td>{{% minkabu 7202 %}}</td>
+                <td>トラック・バスなどの商用車メーカー大手。日本においては小型・中型・大型トラックの販売台数１位であり、世界全体で見ても中小型で２位。また、エチオピアにて工場を操業している{{% ref "https://abp.co.jp/contents/insights/japanese2310/" "アフリカにおける日本企業の動き AFRICA BUSINESS PARTNERS" %}}。</td>
+                <td>{{% corplink "https://www.isuzu.co.jp/company/investor/financial/results/" %}}</td>
+                <td>{{% dividend "tokyo" "7202" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
