@@ -35,6 +35,7 @@ sc: [
         <li class="no-evidence">道路の線は基本的に白が多いけれど稀に黄色もある</li>
     </ul>
     {{% rd europe spain verysmall %}}
+    {{% corp "europe/spain" "" %}}
 </div>
 
 {{% tabs %}}
@@ -243,3 +244,35 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Banco Santander S.A.</td>
+                <td>{{% nasdaq SAN %}}</td>
+                <td>スペイン最大手の銀行であり、隣国ポルトガルやスペイン語圏であるラテンアメリカ全域に展開する。</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "SAN" %}}</td>
+            </tr>
+            <tr>
+                <td>Banco Bilbao Vizcaya Argentaria, S.A.(BBVA)</td>
+                <td>{{% nasdaq BBVA %}}</td>
+                <td>スペイン大手銀行だがルーマニアやラテンアメリカにも進出している。</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "BBVA" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

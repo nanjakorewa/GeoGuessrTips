@@ -33,6 +33,7 @@ sc: [
         <li>標識の背面には<span class="quiz">クロス</span>が存在する{{% by %}}</li>
     </ul>
     {{% rd cs_america colombia verysmall %}}
+    {{% corp "cs_america/colombia" "" %}}
 </div>
 
 {{% tabs %}}
@@ -320,3 +321,42 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 <li>By <a href="//commons.wikimedia.org/wiki/User:EEIM" title="User:EEIM">EEIM</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63840438">Link</a></li>
 <li>By hfb21, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52811696">Link</a></li>
 {{% /imgref %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Ecopetrol</td>
+                <td>{{% nasdaq "EC" %}}</td>
+                <td>コロンビア最大の石油会社。</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "EC" %}}</td>
+            </tr>
+            <tr>
+                <td>Tecnoglass</td>
+                <td>{{% nasdaq "TGLS" %}}</td>
+                <td>建築用ガラス・窓・アルミ製品メーカー。コロンビアの企業だが売上の９割近くはアメリカ市場による。</td>
+                <td>{{% corplink "https://investors.tecnoglass.com/overview/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "TGLS" %}}</td>
+            </tr>
+            <tr>
+                <td>Bancolombia</td>
+                <td>{{% nasdaq "CIB" %}}</td>
+                <td>コロンビアやペルー、グアテマラで事業をする銀行。</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "CIB" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
