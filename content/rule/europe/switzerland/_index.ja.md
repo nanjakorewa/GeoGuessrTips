@@ -33,6 +33,7 @@ sc: [
         <li>消火栓が灰色で上の部分が赤い</li>
     </ul>
     {{% rd europe switzerland verysmall %}}
+    {{% corp "europe/switzerland" "" %}}
 </div>
 
 
@@ -182,3 +183,49 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Nestlé</td>
+                <td>-</td>
+                <td>食品・飲料加工のコングロマリット企業であり売上や収益の基準で世界最大の食品会社。ニューヨーク証券取引所には上場していないが、欧州メインのETFや投資信託に含まれていることは多い{{% ref "https://www.sbiam.co.jp/fund/pdf/8931C242_european%20high%20dividend%20equity4_koufumr_2403.pdf" "SBI欧州高配当株式分配ファンド（年4回決算型）月次レポート" %}}。</td>
+                <td>{{% corplink "https://www.nestle.com/investors" %}}</td>
+                <td>-</td>
+            </tr>
+            <tr>
+                <td>Equinor</td>
+                <td>{{% nasdaq CB %}}</td>
+                <td>世界最大級の損害保険会社。</td>
+                <td>{{% corplink "https://investors.chubb.com/home/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "CB" %}}</td>
+            </tr>
+            <tr>
+                <td>GARMIN</td>
+                <td>{{% nasdaq GRMN %}}</td>
+                <td>GNSS受信機メーカー最大手であり、GPSなどを使用する自動車・航空関連機器・ウェアラブル機器を開発している。</td>
+                <td>{{% corplink "https://www.garmin.com/ja-JP/investors/" %}}</td>
+                <td>{{% dividend "nasdaq" "GRMN" %}}</td>
+            </tr>
+            <tr>
+                <td>On</td>
+                <td>{{% nasdaq ONON %}}</td>
+                <td>ランニングシューズを代表とするスポーツウェアの大手。</td>
+                <td>{{% corplink "https://investors.on-running.com/home/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "ONON" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
