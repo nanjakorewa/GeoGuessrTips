@@ -281,6 +281,13 @@ Alexandra Palace Theatreはロンドンの北側にある
                 <td>{{% corplink "https://www.unilever.com/investors/" %}}</td>
                 <td>{{% dividend "nasdaq" "UL" %}}</td>
             </tr>
+            <tr>
+                <td>Rio Tinto</td>
+                <td>{{% nasdaq "RIO" %}}</td>
+                <td>金属・鉱業関連企業としては{{% goto "../../oceania/australia/" "オーストラリア" %}}のBHPに続く世界2位の規模。オーストラリアとカナダでの開発が多い。売上のうち鉄鉱石が全体の1/3・銅が1/4ほどを占めている。</td>
+                <td>{{% corplink "https://www.riotinto.com/invest" %}}</td>
+                <td>{{% dividend "nasdaq" "RIO" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>

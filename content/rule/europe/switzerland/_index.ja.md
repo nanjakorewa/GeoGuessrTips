@@ -206,7 +206,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
                 <td>-</td>
             </tr>
             <tr>
-                <td>Equinor</td>
+                <td>Chubb</td>
                 <td>{{% nasdaq CB %}}</td>
                 <td>世界最大級の損害保険会社。</td>
                 <td>{{% corplink "https://investors.chubb.com/home/default.aspx" %}}</td>

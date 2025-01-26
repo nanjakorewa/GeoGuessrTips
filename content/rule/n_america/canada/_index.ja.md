@@ -339,6 +339,20 @@ sc: [
                 <td>{{% corplink "https://www.teck.com/investors/" %}}</td>
                 <td>{{% dividend "nasdaq" "TECK" %}}</td>
             </tr>
+            <tr>
+                <td>Nutrien</td>
+                <td>{{% nasdaq "NTR" %}}</td>
+                <td>肥料メーカーとして世界２位の規模。カリ肥料生産１位、窒素肥料生産世界２位。</td>
+                <td>{{% corplink "https://www.nutrien.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "NTR" %}}</td>
+            </tr>
+            <tr>
+                <td>Cameco</td>
+                <td>{{% nasdaq "CCJ" %}}</td>
+                <td>上場しているウラン鉱山関係会社としては世界最大（と思われる）。カナダはカザフスタンに次いでウランの生産が多い{{% ref "https://eneken.ieej.or.jp/data/8877.pdf" "ウラン資源の上流部門 - IEEJ 2020年3月掲載" %}}。</td>
+                <td>{{% corplink "https://www.nutrien.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "CCJ" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>

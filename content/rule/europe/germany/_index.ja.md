@@ -388,6 +388,13 @@ sc: [
         </thead>
         <tbody class="corp-desc">
             <tr>
+                <td>BASF</td>
+                <td>-</td>
+                <td>世界最大の化学製品メーカー。Badische Anilin- und Sodafabrik（バーデンアニリン・ソーダ工場）の頭文字から社名が来ている。1880年代にはソルベー法を用いた炭酸ナトリウムの生産を、また1910年代にはハーバー法の独占権を取得してアンモニア生成をしていた。ニューヨーク証券取引所や東京証券取引所に上場していた時期もあったが現在はしていない。</td>
+                <td>{{% corplink "https://www.basf.com/global/en/investors" %}}</td>
+                <td>-</td>
+            </tr>
+            <tr>
                 <td>Hapag-Lloyd</td>
                 <td>-</td>
                 <td>コンテナ船を運行する、世界全体で見たとき業界5位の規模。</td>

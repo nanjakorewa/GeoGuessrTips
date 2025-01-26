@@ -24,6 +24,7 @@ import_jquery_36: true
         <li>警告看板がオレンジ色</li>
     </ul>
     {{% rd asia korea verysmall %}}
+    {{% corp "asia/korea" "" %}}
 </div>
 
 
@@ -150,3 +151,29 @@ import_jquery_36: true
 <img src="./jeju_island_nature_korea.jpg">
 </div>
 {{% /tab %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>POSCO</td>
+                <td>{{% nasdaq "PKX" %}}</td>
+                <td>韓国最大の鉄鋼メーカーであり粗鋼生産は世界６位の規模（2016年時点）。1965年の日韓関係正常化以降、日本の資金援助や新日本製鉄からの技術支援などを受け、規模を拡大させた。</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "PKX" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
