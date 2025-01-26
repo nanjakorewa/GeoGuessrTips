@@ -31,6 +31,7 @@ sc: [
         <li>黒背景に赤色の反射板のボラードがある{{% ex "https://goo.gl/maps/SMkqd1qb4HzYM42Z9" %}}</li>
     </ul>
     {{% rd europe greece small %}}
+    {{% corp "europe/greece" "" %}}
 </div>
 
 
@@ -315,3 +316,42 @@ Heraklion（クリティ島北部の都市）は銀色多め。
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Star Bulk Carriers</td>
+                <td>{{% nasdaq Star Bulk Carriers %}}</td>
+                <td>ドライバルク船の運行をする。保有している船のリストは参考文献参照{{% ref "https://www.starbulk.com/gr/en/fleet-details/" "On the Water Fleet | StarBulk Carriers Corp." %}}。Capesizeを15船以上保有。</td>
+                <td>{{% corplink "https://www.starbulk.com/gr/en/ir-overview/" %}}</td>
+                <td>{{% dividend "nasdaq" "SBLK" %}}</td>
+            </tr>
+            <tr>
+                <td>Danaos</td>
+                <td>{{% nasdaq SBLK %}}</td>
+                <td>コンテナ船を大量に保有し米国などの運行会社にコンテナ船を貸し出す。</td>
+                <td>{{% corplink "https://www.danaos.com/investors/overview/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "DAC" %}}</td>
+            </tr>
+            <tr>
+                <td>Global Ship Lease</td>
+                <td>{{% nasdaq GSL %}}</td>
+                <td>コンテナ船会社に保有している船を貸し出す{{% ref "https://www.globalshiplease.com/fleet/ships-contract-cover" "Ships & Contract Cover" %}}。</td>
+                <td>{{% corplink "https://www.globalshiplease.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "GSL" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
