@@ -33,6 +33,7 @@ sc: [
         <li>道路名の看板に<span class="quiz">オレンジ</span>の背景が多い {{% by "https://youtu.be/HgPymmvsq8c?t=346" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}</li>
     </ul>
     {{% rd europe norway small %}}
+    {{% corp "europe/norway" "" %}}
 </div>
 
 
@@ -206,3 +207,35 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Equinor</td>
+                <td>{{% nasdaq EQNR %}}</td>
+                <td>国営エネルギー会社であり、売上高・時価総額ともにノルウェーでは最大。北海で油田・ガス田を運営しており、北海油田の中でも特に大きいトロールガス田も保有している{{% ref "https://www.equinor.com/energy/troll" "The Troll field and the Troll A, B and C platforms" %}}。</td>
+                <td>{{% corplink "https://www.equinor.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "EQNR" %}}</td>
+            </tr>
+            <tr>
+                <td>Golden Ocean Group</td>
+                <td>{{% nasdaq GOGL %}}</td>
+                <td>フロントラインから独立したドライバルク船会社。大型のドライバルク船を多数所有している。</td>
+                <td>{{% corplink "https://www.goldenocean.bm/presentation/" %}}</td>
+                <td>{{% dividend "nasdaq" "GOGL" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
