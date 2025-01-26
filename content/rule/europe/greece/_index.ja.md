@@ -333,7 +333,7 @@ Heraklion（クリティ島北部の都市）は銀色多め。
         <tbody class="corp-desc">
             <tr>
                 <td>Star Bulk Carriers</td>
-                <td>{{% nasdaq Star Bulk Carriers %}}</td>
+                <td>{{% nasdaq SBLK %}}</td>
                 <td>ドライバルク船の運行をする。保有している船のリストは参考文献参照{{% ref "https://www.starbulk.com/gr/en/fleet-details/" "On the Water Fleet | StarBulk Carriers Corp." %}}。Capesizeを15船以上保有。</td>
                 <td>{{% corplink "https://www.starbulk.com/gr/en/ir-overview/" %}}</td>
                 <td>{{% dividend "nasdaq" "SBLK" %}}</td>
