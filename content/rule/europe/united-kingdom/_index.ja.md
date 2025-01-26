@@ -37,6 +37,7 @@ sc: [
         <li><span class="quiz">黒</span>背景に<span class="quiz">白</span>色のシェブロンを使う</li>
     </ul>
     {{% rd europe united-kingdom verysmall OGL %}}
+    {{% corp "europe/united-kingdom" "" %}}
 </div>
 
 {{% tabs %}}
@@ -243,3 +244,43 @@ Alexandra Palace Theatreはロンドンの北側にある
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Linde</td>
+                <td>{{% nasdaq LIN %}}</td>
+                <td>産業用ガスの世界最大のメーカーであり世界シェアはおよそ4割。</td>
+                <td>{{% corplink "https://www.linde.com/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "LIN" %}}</td>
+            </tr>
+            <tr>
+                <td>BP(British Petroleum)</td>
+                <td>{{% nasdaq BP %}}</td>
+                <td>石油・天然ガスの大手であり、日本では見ないものの海外ではガソリンスタンドを多く見る。時価総額は企業全体で見て120位前後とかなり大きい。</td>
+                <td>{{% corplink "https://www.bp.com/ja_jp/bp-castrol-japan/home/who-we-are/ir_info.html" %}}</td>
+                <td>{{% dividend "nasdaq" "BP" %}}</td>
+            </tr>
+            <tr>
+                <td>Unilever</td>
+                <td>{{% nasdaq "UL" %}}</td>
+                <td>オランダのマーガリンメーカー「Margarine Unie」とイギリスの石鹸メーカー「Lever Brothers」が系統合し「Unilever」となった。消費財（食品・スキンケア・洗剤など）全般において多くの分野で高いシェアを持つ。</td>
+                <td>{{% corplink "https://www.unilever.com/investors/" %}}</td>
+                <td>{{% dividend "nasdaq" "UL" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
