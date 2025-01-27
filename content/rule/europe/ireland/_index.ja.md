@@ -30,6 +30,7 @@ sc: [
         <li class="no-evidence">⚠️の中に人がいない上、イギリスと比べて街中にたくさん⚠️がある</li>
     </ul>
     {{% rd europe ireland verysmall %}}
+    {{% corp "europe/ireland" "" %}}
 </div>
 
 {{% tabs %}}
@@ -139,3 +140,37 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Johnson Controls</td>
+                <td>{{% nasdaq JCI %}}</td>
+                <td>空調機・エアコン大手。北米ではTrane Technologies、{{% goto "../../asia/japan/kinki/osaka/" "大阪" %}}のダイキンに続く3~
+                4位のシェアを持つ。</td>
+                <td>{{% corplink "https://investors.johnsoncontrols.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "JCI" %}}</td>
+            </tr>
+            <tr>
+                <td>アクセンチュア</td>
+                <td>{{% nasdaq ACN %}}</td>
+                <td>コンサルティングでは世界最大級。日本ではIT戦略立案・システム開発の提案・提供に強みがあるイメージがありシステム開発の一部を同社内開発チームがすることもできる。</td>
+                <td>{{% corplink "https://investor.accenture.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "ACN" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
