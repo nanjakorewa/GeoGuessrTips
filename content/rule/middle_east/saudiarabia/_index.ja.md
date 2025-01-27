@@ -22,6 +22,7 @@ is_unofficial: true
         <li>ドメインは<span class="quiz">.sa</span></li>
     </ul>
     {{% rd middle_east saudiarabia verysmall %}}
+    {{% corp "middle_east/saudiarabia" "" %}}
 </div>
 
 {{% tabs %}}
@@ -38,3 +39,28 @@ is_unofficial: true
 
 {{% /tab %}}
 {{% /tabs  %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>サウジアラムコ</td>
+                <td>-</td>
+                <td>世界最大の原油輸出量・保有原油埋蔵量・原油生産量を誇るサウジアラビア王国の国有石油および天然ガス会社。</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

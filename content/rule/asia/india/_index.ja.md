@@ -34,6 +34,7 @@ sc: [
         <li>特徴的な形の電柱が多い（{{% goto "#電柱の形" "インドの電柱" %}}）</li>
     </ul>
     {{% rd asia india verysmall %}}
+    {{% corp "asia/india" "" %}}
 </div>
 
 {{% tabs %}}
@@ -704,3 +705,43 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>HDFC銀行</td>
+                <td>{{% nasdaq "HDB" %}}</td>
+                <td>資産と時価総額でインド最大の民間銀行。</td>
+                <td>{{% corplink "https://www.hdfcbank.com/personal/about-us/investor-relations" %}}</td>
+                <td>{{% dividend "nasdaq" "HDB" %}}</td>
+            </tr>
+            <tr>
+                <td>ICICI銀行</td>
+                <td>{{% nasdaq "IBN" %}}</td>
+                <td>インドで最大規模の銀行であり、インド準備銀行によってSystemically important financial institution(システム上重要な銀行){{% ref "https://en.wikipedia.org/wiki/Systemically_important_financial_institution" "Systemically important financial institution" %}}の指定がされている。</td>
+                <td>{{% corplink "https://www.icicibank.com/about-us/invest-relations" %}}</td>
+                <td>{{% dividend "nasdaq" "IBN" %}}</td>
+            </tr>
+            <tr>
+                <td>Reliance Industries</td>
+                <td>-</td>
+                <td>インドで最大規模の民間企業。資源・石油化学が主な事業だがエンタメや通信事業も行うコングロマリット。NIFTY 50構成銘柄{{% ref "https://en.wikipedia.org/wiki/NIFTY_50" "NIFTY 50" %}}。</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
