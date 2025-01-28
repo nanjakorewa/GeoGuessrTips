@@ -41,14 +41,14 @@ flag: "Aomori.svg"
                 <td>{{% dividend "tokyo" "5020" %}}</td>
             </tr>
             <tr>
-                <td>日本原燃株式会社</td>
+                <td>日本原燃</td>
                 <td>-</td>
                 <td>原子燃料サイクル・濃縮ウラン製造など、原発関連事業を行う。非上場。</td>
                 <td>-</td>
                 <td>-</td>
             </tr>
             <tr>
-                <td>プライフーズ株式会社</td>
+                <td>プライフーズ</td>
                 <td>-</td>
                 <td>三井物産系列の食肉加工業者{{% ref "https://www.maff.go.jp/tohoku/stinfo/bunseki/attach/pdf/maffnabi-21.pdf" "家畜の飼養頭羽数と東北のシェア - 農林水産省" %}}。</td>
                 <td>-</td>

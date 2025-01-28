@@ -34,7 +34,7 @@ flag: "Osaka.svg"
         </thead>
         <tbody class="corp-desc">
             <tr>
-                <td>日本ペイント株式会社</td>
+                <td>日本ペイント</td>
                 <td>{{% minkabu 4612 %}}</td>
                 <td>塗料系メーカーの中ではアジア第1位、世界第4位の売上。</td>
                 <td>{{% corplink "https://www.nipponpaint-holdings.com/ir/" %}}</td>
