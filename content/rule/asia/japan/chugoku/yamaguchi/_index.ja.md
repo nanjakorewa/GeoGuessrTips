@@ -49,7 +49,7 @@ flag: "Yamaguchi.svg"
             <tr>
                 <td>東ソー</td>
                 <td>{{% minkabu 4042 %}}</td>
-                <td>大手化学メーカー、東洋曹達工業から社名変更した。二酸化マンガン (EMD)・特殊ポリマー・ファインケミカル・薄膜材料を含むさまざまな製品を製造する。</td>
+                <td>大手化学メーカー、東洋曹達工業から社名変更した。二酸化マンガン (EMD)・特殊ポリマー・ファインケミカル・薄膜材料を含むさまざまな製品を製造する。クロロスルフォン化ポリエチレン・ジルコニア粉末は世界シェア一位{{% ref "https://www.tosoh.co.jp/company/5minutes/" "5分でわかる東ソー" %}}。</td>
                 <td>{{% corplink "https://www.tosoh.co.jp/ir/" %}}</td>
                 <td>{{% dividend "tokyo" "4042" %}}</td>
             </tr>
