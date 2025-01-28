@@ -42,6 +42,20 @@ flag: "Kanagawa.svg"
                 <td>{{% dividend "tokyo" "6149" %}}</td>
             </tr>
             <tr>
+                <td>千代田化工建設</td>
+                <td>{{% minkabu 6366 %}}</td>
+                <td>大規模プラントのEPC契約{{% ref "https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction" "Engineering, procurement, and construction" %}}業務をする建設・エンジニアリング会社。とくに日本のLNG受入基地の半数以上は千代田化工建設によるもの。国外実績については事業紹介ページ参照{{% ref "https://www.chiyodacorp.com/jp/service/" "事業紹介" %}}。</td>
+                <td>{{% corplink "https://www.chiyodacorp.com/jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "6366" %}}</td>
+            </tr>
+            <tr>
+                <td>マツキヨココカラ&カンパニー</td>
+                <td>{{% minkabu 3088 %}}</td>
+                <td>ココカラファイングループとマツモトキヨシグループが2021年頃までに経営統合した。国内はおよそ3400店を展開している{{% ref "https://www.matsukiyococokara.com/company/history/" "マツキヨココカラ＆カンパニーの軌跡" %}}。</td>
+                <td>-</td>
+                <td>{{% dividend "tokyo" "3088" %}}</td>
+            </tr>
+            <tr>
                 <td>タツノ</td>
                 <td>-</td>
                 <td>ガソリン計量機の日本におけるシェアは6割を超え、世界シェアだと３位。国内２位はおそらく{{% goto "../../kinki/osaka/" "大阪" %}}のLPG大手、岩谷産業（が買収したトキコシステムソリューションズ）だが正確なデータが無いため不明。</td>
@@ -49,11 +63,11 @@ flag: "Kanagawa.svg"
                 <td>-</td>
             </tr>
             <tr>
-                <td>千代田化工建設</td>
-                <td>{{% minkabu 6366 %}}</td>
-                <td>大規模プラントのEPC契約{{% ref "https://en.wikipedia.org/wiki/Engineering,_procurement,_and_construction" "Engineering, procurement, and construction" %}}業務をする建設・エンジニアリング会社。とくに日本のLNG受入基地の半数以上は千代田化工建設によるもの。国外実績については事業紹介ページ参照{{% ref "https://www.chiyodacorp.com/jp/service/" "事業紹介" %}}。</td>
-                <td>{{% corplink "https://www.chiyodacorp.com/jp/ir/" %}}</td>
-                <td>{{% dividend "tokyo" "6366" %}}</td>
+                <td>ニューフレアテクノロジー&カンパニー</td>
+                <td>-</td>
+                <td>東芝デバイス&ストレージのグループ会社、電子ビームマスク描画装置の世界シェア90%{{% ref "https://www.rs-information.com/nuflare/" "ニューフレアテクノロジー&カンパニー" %}}。</td>
+                <td>-</td>
+                <td>-</td>
             </tr>
         </tbody>
     </table>
