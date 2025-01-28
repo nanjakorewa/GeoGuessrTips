@@ -82,7 +82,7 @@ TSMCの進出をきっかけに、半導体関連企業が非常に多く進出�
             <tr>
                 <td>Japan Advanced Semiconductor Manufacturing（JASM）</td>
                 <td>-</td>
-                <td>世界最大の半導体ファウンドリTSMCが熊本県に設立した子会社。</td>
+                <td>世界最大の半導体ファウンドリである{{% goto "../../../taiwan/" "台湾" %}}のTSMCが熊本県に設立した子会社。ロジック半導体（40nm, 28nm/22nm, 16nm/12nm, 7nm/6nm）の生産を行う予定{{% ref "https://www.cas.go.jp/jp/seisaku/kokunai_toushikakudai_forum/dai6/siryou1.pdf" "工場概要説明 - Japan Advanced Semiconductor Manufacturing株式会社 取締役社長 堀田祐一 2025年1月27日" %}}。</td>
                 <td>{{% corplink "https://www.tsmc.com/static/japanese/careers/jasm/about-jasm.html#:~:text=%E3%80%8CJapan%20Advanced%20Semiconductor%20Manufacturing%E6%A0%AA%E5%BC%8F,%E3%81%AB%E8%A8%AD%E7%AB%8B%E3%81%97%E3%81%9F%E5%AD%90%E4%BC%9A%E7%A4%BE%E3%81%A7%E3%81%99%E3%80%82" %}}</td>
                 <td>-</td>
             </tr>

@@ -47,6 +47,13 @@ flag: "Yamaguchi.svg"
         </thead>
         <tbody class="corp-desc">
             <tr>
+                <td>東ソー</td>
+                <td>{{% minkabu 4042 %}}</td>
+                <td>大手化学メーカー、東洋曹達工業から社名変更した。二酸化マンガン (EMD)・特殊ポリマー・ファインケミカル・薄膜材料を含むさまざまな製品を製造する。</td>
+                <td>{{% corplink "https://www.tosoh.co.jp/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "4042" %}}</td>
+            </tr>
+            <tr>
                 <td>日本精蠟</td>
                 <td>{{% minkabu 5010 %}}</td>
                 <td>石油ワックス専門メーカー。日本でのシェアは70％。</td>
