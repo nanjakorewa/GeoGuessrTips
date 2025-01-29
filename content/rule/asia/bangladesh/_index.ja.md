@@ -160,7 +160,7 @@ sc: [
 {{% tab "Chittagong" %}}
 
 {{% notice tip %}}
-シタクンダ郡の海沿～チッタゴン沿岸にChittagong Ship Breaking Yardがある。道は少ないが、海沿いからは大量の船を見ることができる{{% ex "https://maps.app.goo.gl/TjLLHMsiLwuPmM7v6" "https://maps.app.goo.gl/Y29XGoc2uAArdGCU9" %}}。SHIP BREAKINGと名のついた会社が道沿いにみつかることが多い{{% ex "https://maps.app.goo.gl/3ExLLNR8z7yXBL4v5" "https://maps.app.goo.gl/ZpaGL9C4DUPeYiL67" "https://maps.app.goo.gl/DNTAkdvEv6NLCoiQ8" %}}。
+シタクンダ郡の海沿～チッタゴン沿岸にChittagong Ship Breaking Yardがある。道は少ないが、海沿いからは大量の船を見ることができる{{% ex "https://maps.app.goo.gl/TjLLHMsiLwuPmM7v6" "https://maps.app.goo.gl/Y29XGoc2uAArdGCU9" %}}。SHIP BREAKINGと名のついた会社が道沿いにみつかることが多い{{% ex "https://maps.app.goo.gl/3ExLLNR8z7yXBL4v5" "https://maps.app.goo.gl/ZpaGL9C4DUPeYiL67" "https://maps.app.goo.gl/DNTAkdvEv6NLCoiQ8" %}}。鉄リサイクル関係の会社もチッタゴン付近に多いイメージ。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Jafrabad_Chittagong_shipbreaking_(1).JPG#/media/File:Jafrabad_Chittagong_shipbreaking_(1).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jafrabad_Chittagong_shipbreaking_%281%29.JPG" alt="Jafrabad Chittagong shipbreaking" height="360" width="640"></a></p>

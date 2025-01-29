@@ -304,6 +304,13 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
                 <td>{{% corplink "https://jp.one-line.com/ja" %}}</td>
                 <td>-</td>
             </tr>
+            <tr>
+                <td>信越化学工業</td>
+                <td>{{% minkabu 4063 %}}</td>
+                <td>日本国内の化学メーカーとしては最大規模であり、材料を作る企業の中では利益率が特に高い。シリコンウエハー・フォトマスク基板材料・塩化ビニル樹脂の世界シェア１位、フォトレジストやシリコーンの生産でも世界シェア上位と生活に欠かせない材料を作る企業。</td>
+                <td>{{% corplink "https://www.shinetsu.co.jp/jp/ir/ir-data/" %}}</td>
+                <td>{{% dividend "tokyo" "4063" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
