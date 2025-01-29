@@ -150,12 +150,23 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Chittagongでは世界中で使い終わったの船のおよそ20%が解体されている{{% ref "https://en.wikipedia.org/wiki/Chittagong_Ship_Breaking_Yard" "Chittagong Ship Breaking Yard" %}}</li>
         <li>Dhaka BankやDutch-Bangla Bankの看板の角に町名が書いてあることが多い。およその地域が分かっているならばヒントになる。</li>
         <li>St. Martin's Islandは警備員が帯同していて、人力車とコンクリート道路が見られる</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Chittagong" %}}
+
+{{% notice tip %}}
+シタクンダ郡の海沿～チッタゴン沿岸にChittagong Ship Breaking Yardがある。道は少ないが、海沿いからは大量の船を見ることができる{{% ex "https://maps.app.goo.gl/TjLLHMsiLwuPmM7v6" "https://maps.app.goo.gl/Y29XGoc2uAArdGCU9" %}}。SHIP BREAKINGと名のついた会社が道沿いにみつかることが多い{{% ex "https://maps.app.goo.gl/3ExLLNR8z7yXBL4v5" "https://maps.app.goo.gl/ZpaGL9C4DUPeYiL67" "https://maps.app.goo.gl/DNTAkdvEv6NLCoiQ8" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Jafrabad_Chittagong_shipbreaking_(1).JPG#/media/File:Jafrabad_Chittagong_shipbreaking_(1).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jafrabad_Chittagong_shipbreaking_%281%29.JPG" alt="Jafrabad Chittagong shipbreaking" height="360" width="640"></a></p>
+<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/55035375@N03">Stéphane M. Grueso</a> from Madrid, Spain - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/stephanemgrueso/5481426109/">Shipwreck-7</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=16109046">Link</a></p>
+</div>
+{{% /tab %}}
 {{% tab "Dhaka Bank" %}}
 
 {{% notice tip %}}
