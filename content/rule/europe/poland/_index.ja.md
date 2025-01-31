@@ -57,7 +57,11 @@ sc: [
 
 
 {{% notice tip %}}
-ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい{{% ex "https://maps.app.goo.gl/NoZLnxkEXTc1nxDJ8" "https://goo.gl/maps/yBcn1ba5JVzWiDnr6" %}}。{{% goto "../ukraine/" "ウクライナ" %}}にも稀に見た目がそっくりなボラードがあるのでウクライナでないことだけ確認する。
+ポーランドの<span class="quiz">赤</span>色のボラードはかなりわかりやすい{{% ex "https://maps.app.goo.gl/NoZLnxkEXTc1nxDJ8" "https://goo.gl/maps/yBcn1ba5JVzWiDnr6" %}}。
+{{% /notice %}}
+
+{{% notice info %}}
+{{% goto "../ukraine/" "ウクライナ" %}}や{{% goto "../greece/" "ギリシャ" %}}にも稀に見た目がそっくりなボラードがあるので景色もチェック{{% ex "https://maps.app.goo.gl/4Dog9cDyxZ9DikYb7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
