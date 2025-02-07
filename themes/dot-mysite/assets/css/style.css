@@ -1065,3 +1065,7 @@ div.container-corp .col-width-05 { width: 5%; }
 div.container-corp tbody.corp-desc {
   font-size: 0.9em;
 }
+
+li.dontshowarea {
+  display: none !important;
+}

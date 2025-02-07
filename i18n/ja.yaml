@@ -85,5 +85,5 @@
 - id: streaming_status
   translation: 配信ステータス
 - id: is_has_no_official_coverage
-  translation: 出題されない地域
+  translation: 出題されない地域も表示する
 

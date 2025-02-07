@@ -21,6 +21,14 @@
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>
 
+<script>
+  document.getElementById("toggle-link").addEventListener("click", function (event) {
+    event.preventDefault();
+    document.querySelectorAll("li.unofficial-area").forEach(li => {
+      li.classList.toggle("dontshowarea");
+    });
+  });
+</script>
 
 
 {{ if .Params.flag }}
