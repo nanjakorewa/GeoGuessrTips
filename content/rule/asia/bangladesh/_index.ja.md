@@ -77,6 +77,14 @@ sc: [
 <img src="./gc.jpg" width="600px">
 </div>
 
+
+{{% notice tip %}}
+大気汚染が深刻であり、遠くを見通すことはできない{{% ex "https://maps.app.goo.gl/bBt16yQKmSpGxcVb8" "https://maps.app.goo.gl/ifQ3s8WXn1DMvDqh7" %}}。晴れていても綺麗な青空は見えにくい{{% ex "https://maps.app.goo.gl/HmWXhfnuT4dRvLQ58" "https://maps.app.goo.gl/zoo7u8eXP1jozr4s8" %}}{{% ref "https://www.jetro.go.jp/biznews/2022/12/570e80aea921e643.html" "PM2.5が高レベル、深刻なダッカの大気汚染 - 独立行政法人日本貿易振興機構 " %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Agargaon_road.jpg#/media/File:Agargaon_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Agargaon_road.jpg" alt="Agargaon road.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Wasiul_Bahar" title="User:Wasiul Bahar">Wasiul Bahar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128862861">Link</a></p>
+</div>
+
 {{% /tab %}}
 {{% tab "w-road" %}}
 {{% notice tip %}}
