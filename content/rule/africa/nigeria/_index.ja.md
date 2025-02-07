@@ -72,7 +72,7 @@ Keke-napepと呼ばれる小型タクシーが町を走っている{{% ex "https
 
 
 {{% notice tip %}}
-<span class="quiz">パトカー</span>が付いてくることが多い{{% ex "https://maps.app.goo.gl/xeVEXd1bSLMFTBhZ8" "https://maps.app.goo.gl/34QEVYLS3HAVGFd2A" "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。パトカーがいないことも普通にあるのでパトカーだけで判断しないように{{% ex "https://maps.app.goo.gl/bFvgowJE88QUZSrq6" "https://maps.app.goo.gl/upvgpSRdpSCw4wS27" "https://maps.app.goo.gl/ZSMbmCsdyqnC6iZA9" "https://maps.app.goo.gl/NY3e7sy3NJzMLoVk6" "https://maps.app.goo.gl/pKuP9QTmhX6GYLUA9" "https://maps.app.goo.gl/hKiZzhn5CszTnSw86" %}}。
+治安が悪いためか<span class="quiz">パトカー</span>が付いてくる{{% ex "https://maps.app.goo.gl/xeVEXd1bSLMFTBhZ8" "https://maps.app.goo.gl/34QEVYLS3HAVGFd2A" "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}。ただし、とくに最近撮影された地域ではパトカーがいないこともあるので注意{{% ex "https://maps.app.goo.gl/bFvgowJE88QUZSrq6" "https://maps.app.goo.gl/upvgpSRdpSCw4wS27" "https://maps.app.goo.gl/ZSMbmCsdyqnC6iZA9" "https://maps.app.goo.gl/NY3e7sy3NJzMLoVk6" "https://maps.app.goo.gl/pKuP9QTmhX6GYLUA9" "https://maps.app.goo.gl/hKiZzhn5CszTnSw86" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
