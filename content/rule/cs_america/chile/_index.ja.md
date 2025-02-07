@@ -29,6 +29,7 @@ sc: [
         <li>ルピナス属の<span class="quiz">紫</span>色や白色の花が道沿いに生えていることがある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E5%B1%9E" "ルピナス属" %}}</li>
     </ul>
     {{% rd cs_america chile verysmall %}}
+    {{% corp "cs_america/chile" "" %}}
 </div>
 
 
@@ -69,12 +70,6 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sergioavelino/4354399332/in/photolist-2ejFjj6-5Ky7wc-2eyGHWv-fqSLBJ-GEiSt5-2g2taCf-okXtsh-ts9U9g-2bKtZUU-tvrKkQ-2dRir4z-tt599F-tRw47c-2ibDkJt-qAhZ8x-deVNZY-sUhTFs-g5NFHN-tsZVzV-g5NLU7-c3eegJ-5HEphG-9G7WoE-EuQypy-7ZVHif-tbpfD7-sv8TE1-svjfi4-EuPEJ9-ts8SSR-wZmqy-taxsou-251wv1j-AdWtg-r4BzdH-eWBWvQ-btkrso-7syBaP-2icUCY2-7CMrdy-61FQWx-qr9YqR-H412R1-TGbx3U-HZHEpn-9EBQpT-cz1TBy-XFZhtu-7CMpbE-7CJgHY" title="VIAGEM AO FIM DO MUNDO"><img src="https://live.staticflickr.com/4056/4354399332_6c15690db7_z.jpg" width="640" height="427" alt="VIAGEM AO FIM DO MUNDO"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}
-チリの大手商用銀行、Banco de Chile。
-{{% /notice %}}
-<div class="googlemap-if unclickable">
-<img src="Banco_de_Chile_logo.svg" />
-</div>
 {{% /tab %}}
 {{% tab "w-road" %}}
 
@@ -218,3 +213,41 @@ Santiago de Chile付近にある木や草がまばらに生えた山が印象的
 
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Albemarle</td>
+                <td>{{% nasdaq "ALB" %}}</td>
+                <td>アメリカの大手かがくメーカーであり、チリにリチウム鉱山を保有している。2021年時点では世界最大の電気自動車用バッテリー用リチウムの供給メーカー。臭素系難燃剤・触媒なども生産する。</td>
+                <td>{{% corplink "https://investors.albemarle.com/overview/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "ALB" %}}</td>
+            </tr>
+            <tr>
+                <td>Sociedad Química y Minera</td>
+                <td>{{% nasdaq "SQM" %}}</td>
+                <td>アタカマ砂漠周辺に拠点をもつリチウム・ヨウ素・カリウム・硝酸ナトリウムなどを生産する化学メーカー。</td>
+                <td>{{% corplink "https://ir.sqm.com/" %}}</td>
+                <td>{{% dividend "nasdaq" "SQM" %}}</td>
+            </tr>
+            <tr>
+                <td>Compañía Cervecerías Unidas</td>
+                <td>{{% nasdaq "CCU" %}}</td>
+                <td>チリの大手飲料メーカーであり周辺国にも進出している。とくにチリ国内でのビールのシェア1位、ワインのシェア２位。チリはワインやピスコの消費が多く{{% ref "https://www.jetro.go.jp/biznews/2024/02/8cbc651dcf54eb1a.html" "アルコール飲料消費世論調査（JETRO）" %}}、CCUの売上に占める割合も多い。</td>
+                <td>{{% corplink "https://ccuinvestor.com/en/" %}}</td>
+                <td>{{% dividend "nasdaq" "CCU" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

@@ -124,14 +124,14 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
         </thead>
         <tbody class="corp-desc">
             <tr>
-                <td>ArcelorMittal, S.A.</td>
+                <td>ArcelorMittal</td>
                 <td>{{% nasdaq "MT" %}}</td>
                 <td>年間粗鋼生産量で世界2位。大企業のランキングであるFortune Global 500ではだいたい195位前後。</td>
                 <td>{{% corplink "https://corporate.arcelormittal.com/investors" %}}</td>
                 <td>{{% dividend "nasdaq" "MT" %}}</td>
             </tr>
             <tr>
-                <td>Ternium S.A.</td>
+                <td>Ternium</td>
                 <td>{{% nasdaq "TX" %}}</td>
                 <td>アルゼンチン、ブラジル、メキシコ、グアテマラなどのラテンアメリカに拠点を持つ鉄鋼会社。</td>
                 <td>{{% corplink "https://investors.ternium.com/English/ternium/default.aspx" %}}</td>

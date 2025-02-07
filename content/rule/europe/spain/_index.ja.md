@@ -260,14 +260,14 @@ sc: [
         </thead>
         <tbody class="corp-desc">
             <tr>
-                <td>Banco Santander S.A.</td>
+                <td>Banco Santander</td>
                 <td>{{% nasdaq SAN %}}</td>
                 <td>スペイン最大手の銀行であり、隣国ポルトガルやスペイン語圏であるラテンアメリカ全域に展開する。</td>
                 <td>-</td>
                 <td>{{% dividend "nasdaq" "SAN" %}}</td>
             </tr>
             <tr>
-                <td>Banco Bilbao Vizcaya Argentaria, S.A.(BBVA)</td>
+                <td>Banco Bilbao Vizcaya Argentaria(BBVA)</td>
                 <td>{{% nasdaq BBVA %}}</td>
                 <td>スペイン大手銀行だがルーマニアやラテンアメリカにも進出している。</td>
                 <td>-</td>

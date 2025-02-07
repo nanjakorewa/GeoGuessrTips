@@ -391,7 +391,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
         </thead>
         <tbody class="corp-desc">
             <tr>
-                <td>Petroleo Brasileiro S.A.</td>
+                <td>Petroleo Brasileiro</td>
                 <td>{{% nasdaq "PBR" %}}</td>
                 <td>南半球最大の石油採掘会社。</td>
                 <td>{{% corplink "https://www.investidorpetrobras.com.br/en/" %}}</td>
@@ -405,7 +405,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
                 <td>{{% dividend "nasdaq" "VALE" %}}</td>
             </tr>
             <tr>
-                <td>Itaú Unibanco Holding S.A</td>
+                <td>Itaú Unibanco Holding</td>
                 <td>{{% nasdaq "ITUB" %}}</td>
                 <td>ラテンアメリカ最大の銀行{{% ref "https://en.wikipedia.org/wiki/List_of_largest_banks" "S&P Global Market Intelligenceレポートの世界最大手銀行100行" %}}。毎月配当を出す珍しい（通常は四半期に一度、南アフリカなどは半期に一度が通例）企業。</td>
                 <td>{{% corplink "https://www.itau.com.br/" %}}</td>

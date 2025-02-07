@@ -171,7 +171,7 @@ SPARはアムステルダムに拠点がある小売業者（店自体はオラ�
             <tr>
                 <td>ASML</td>
                 <td>{{% nasdaq ASML %}}</td>
-                <td>半導体製造装置メーカーであり、とりわけ露光装置については寡占状態となっている。</td>
+                <td>Applied Materialsと並ぶ世界でも最大規模の半導体製造装置メーカーであり、とりわけ高分解能である露光装置については寡占状態となっている。</td>
                 <td>{{% corplink "https://www.asml.com/en/investors" %}}</td>
                 <td>{{% dividend "nasdaq" "ASML" %}}</td>
             </tr>
