@@ -31,7 +31,6 @@ sc: [
         <li>道端で<span class="quiz">タバコ</span>がよく売られていて家の前に<span class="quiz">赤と白の旗</span>があることも{{% by %}}</li>
         <li>ナンバープレートに<span class="quiz">黒い</span>ものがあり一部は白い文字が３つに分かれて見えるかもしれない</li>
         <li><span class="quiz">Alfamart</span>というコンビニがたくさんある{{% ref "https://en.wikipedia.org/wiki/Alfamart" "PT Sumber Alfaria Trijaya Tbk" %}}</li>
-        <li>銀行大手でATMが多いのはMandiri銀行・BRI銀行など</li>
         <li class="no-evidence">道路の中央分離帯が<span class="quiz">黄色</span>の場合はマレーシアではなくインドネシアの可能性が高くなる</li>
     </ul>
     {{% rd asia indonesia small "By AdriansyahYS - Own work, CC BY-SA 4.0" "https://commons.wikimedia.org/w/index.php?curid=35833958" %}}
