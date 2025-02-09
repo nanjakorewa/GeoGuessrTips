@@ -480,6 +480,7 @@ Public Domain
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>Janitzioはカメラの一部に黒い点がある</li>
         <li>Holboxという町は本土から離れているため車が少なくゴルフカートが多い{{% ex "https://maps.app.goo.gl/Ymr3LouvcNNwkbmd7" %}}</li>
         <li>ユカタン半島の東にある離島にCozumelという観光地がある{{% ex "https://maps.app.goo.gl/GE3E3aSZt9Wo7Cmb7" "https://maps.app.goo.gl/CgVVq7L3ypZLgdEx7" %}}</li>
         <li>カンクン付近にIsla Mujeresという離島の観光地がありバギーが多い{{% ex "https://maps.app.goo.gl/MeR8PG52juFr5BnB9" "https://maps.app.goo.gl/2PQb9zkqud4HjFy58" %}}</li>
@@ -488,6 +489,16 @@ Public Domain
 </div>
 
 {{% tabs %}}
+{{% tab "Janitzio" %}}
+
+{{% notice tip %}}
+ミチョアカン州のパツクアロ湖の中にある島。高さが40メートル近くあるホセ・マリア・モレーロスの像が有名で見える場所も多い{{% ref "https://en.wikipedia.org/wiki/Janitzio" "Janitzio" %}}。ジオゲッサー的にはカメラの一部に黒い点があるため見分けられる{{% ex "https://maps.app.goo.gl/vMg1GsKusSdfjsi3A" "https://maps.app.goo.gl/UpvmgD1HD2JnPv7P6" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="janitzio.jpg">
+</div>
+{{% /tab %}}
 {{% tab "Holbox" %}}
 
 {{% notice tip %}}
