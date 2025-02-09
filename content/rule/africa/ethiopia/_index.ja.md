@@ -51,7 +51,7 @@ is_unofficial: true
 </div>
 
 {{% notice tip %}}
-郊外に見つかる伝統的な円形の家{{% ex "https://maps.app.goo.gl/EnAt1zcqjgEDq6Ud8" "https://maps.app.goo.gl/ieXi1t3KPjibMq4B6" %}}{{% ref "https://yamashita-yasuhiro.net/archives/24553#:~:text=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%81%AE%E4%BC%9D%E7%B5%B1%E7%9A%84%E3%81%AA,%E6%89%93%E3%81%A1%E6%8D%A8%E3%81%A6%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" "エチオピアと日本の見捨てられた古民家" %}}。屋根のてっぺんに壺のようなものが乗せられている写真が多いように思うが実態は不明。
+郊外に見つかる伝統的な円形の家{{% ex "https://maps.app.goo.gl/EnAt1zcqjgEDq6Ud8" "https://maps.app.goo.gl/ieXi1t3KPjibMq4B6" %}}{{% ref "https://yamashita-yasuhiro.net/archives/24553#:~:text=%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2%E3%81%AE%E4%BC%9D%E7%B5%B1%E7%9A%84%E3%81%AA,%E6%89%93%E3%81%A1%E6%8D%A8%E3%81%A6%E3%82%89%E3%82%8C%E3%81%A6%E3%81%84%E3%81%BE%E3%81%97%E3%81%9F%E3%80%82" "エチオピアと日本の見捨てられた古民家" %}}。屋根のてっぺんに壺のようなものが乗せられている写真が多いように思うが実態は不明。形は写真のようなものに限らずいろいろ存在する。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
