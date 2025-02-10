@@ -161,6 +161,13 @@ maps: [
                 <td>{{% corplink "https://investor.tsmc.com/japanese/quarterly-results/2024/q4" %}}</td>
                 <td>{{% dividend "nasdaq" "TSM" %}}</td>
             </tr>
+            <tr>
+                <td>Uni-President Enterprises Corporation（統一企業公司）</td>
+                <td>-</td>
+                <td>台湾の食品メーカー最大手。日清製粉・日本セブンイレブン・無印良品など日本企業との提携が多い。</td>
+                <td>-</td>
+                <td>-</td>
+            </tr>
         </tbody>
     </table>
 </div>
