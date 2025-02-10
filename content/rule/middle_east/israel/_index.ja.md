@@ -12,7 +12,7 @@ jetro_detail: true
 dont_show_usda: true
 sc_title: "関連ページ"
 sc: [
-    ["../palestine/", "パレスチナ"],
+    ["../palestine/", "ヨルダン川西岸地区"],
     ]
 ---
 

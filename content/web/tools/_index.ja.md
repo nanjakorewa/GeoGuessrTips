@@ -76,7 +76,7 @@ var items = [
     { image: "https://geopinning.space/flags/IQ.svg", text: "イラク", link: "https://geopinning.space/rule/middle_east/iraq/" },
     { image: "https://geopinning.space/flags/QA.svg", text: "カタール", link: "https://geopinning.space/rule/middle_east/qatar/" },
     { image: "https://geopinning.space/flags/TR.svg", text: "トルコ", link: "https://geopinning.space/rule/middle_east/turkey/" },
-    { image: "https://geopinning.space/flags/PS.svg", text: "パレスチナ", link: "https://geopinning.space/rule/middle_east/palestine/" },
+    { image: "https://geopinning.space/flags/PS.svg", text: "ヨルダン川西岸地区", link: "https://geopinning.space/rule/middle_east/palestine/" },
     { image: "https://geopinning.space/flags/JO.svg", text: "ヨルダン", link: "https://geopinning.space/rule/middle_east/jordan/" },
     { image: "https://geopinning.space/flags/LB.svg", text: "レバノン", link: "https://geopinning.space/rule/middle_east/lebanon/" },
     { image: "https://geopinning.space/flags/IS.svg", text: "アイスランド", link: "https://geopinning.space/rule/europe/iceland/" },
