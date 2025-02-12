@@ -17,7 +17,6 @@ weight: 1000
 - [Geoguessr Japan wiki](https://wikiwiki.jp/geoguessr/)
 - [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
 - [Geoguessr central of Japan](https://twitter.com/geoguessr_gcj?s=21&t=QWeTF-eJ9m9jBuy9xexWaw){{% snsl "twitter" "Geoguessr_GCJ" %}}
-  - 大会などを主催しているジオゲッサーのdiscordサーバーです。 参加している日本人チャンピオン50人↑ 様々なジオゲのtipsや情報、コンテンツを発信します！ 
 - [Geoguessr App Japanese Rankings](https://ggapp-daig-o.cloud.okteto.net/)
 
 ### 英語サイト
