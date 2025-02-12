@@ -31,12 +31,14 @@ weight: 1000
 - [Street View Map](https://sv-map.netlify.app/#base=roadmap&cov=official&zoom=2&center=0%2C0)：Googleの公式ストリートビューがある地域を確認できるWebアプリ
 - [LICENSE PLATES OF THE WORLD By Michael Kustermann](http://www.worldlicenseplates.com/hp.html)
 
-<h2 class="no-blur">配信者向けの注意点</h2>
+### 配信者向けの注意点
 
 - [配信者&配信視聴者のためのGeoguessrチュートリアル 作:宮前たまき](https://docs.google.com/presentation/d/15DarIhxCCEuk-8w07q9SkL00ZRS4vgHOuBYu55hPavs/edit#slide=id.p) {{% snsl "twitch" "tamakimiyamae" %}} {{% snsl "twitter" "TamakiMiyamae" %}}
 
 
-<h2 class="no-blur">翻訳</h2>
+### 個人サイト
 
-- [Interactive European language map: how does everyone say cat?](https://www.theguardian.com/news/datablog/interactive/2014/jan/15/interactive-european-language-map)
-  - 文字を入力すると各国での翻訳結果を一括で表示できる
+- [旧ブログ](https://paper.hatenadiary.jp/)
+- [K_DM(Youtube)](https://www.youtube.com/@K_DM)
+- [料理ログ（仮）](https://nanjakorewa.github.io/geofood/)
+- [nanja.space](https://nanja.space/)
