@@ -39,6 +39,6 @@ weight: 1000
 ### 個人サイト
 
 - [旧ブログ](https://paper.hatenadiary.jp/)
-- [K_DM(Youtube)](https://www.youtube.com/@K_DM)
+- [K_DM](https://www.youtube.com/@K_DM)
 - [料理ログ（仮）](https://nanjakorewa.github.io/geofood/)
 - [nanja.space](https://nanja.space/)
