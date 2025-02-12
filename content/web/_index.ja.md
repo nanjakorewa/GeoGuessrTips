@@ -36,7 +36,7 @@ weight: 1000
 - [配信者&配信視聴者のためのGeoguessrチュートリアル 作:宮前たまき](https://docs.google.com/presentation/d/15DarIhxCCEuk-8w07q9SkL00ZRS4vgHOuBYu55hPavs/edit#slide=id.p) {{% snsl "twitch" "tamakimiyamae" %}} {{% snsl "twitter" "TamakiMiyamae" %}}
 
 
-### 個人サイト
+### 自分のサイト
 
 - [旧ブログ](https://paper.hatenadiary.jp/)
 - [K_DM](https://www.youtube.com/@K_DM)
