@@ -87,8 +87,13 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 </div>
 
 {{% notice tip %}}
-電柱が木でできていることが多い{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc8zc6" "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8" "https://goo.gl/maps/wV34ViijQUgqnapj7" "https://goo.gl/maps/QNw2GFSAJTRfC8Lq6" %}}。
+電柱が木でできていることが多い{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc8zc6" "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8"  %}}。
 {{% /notice %}}
+
+{{% notice tip %}}
+{{% goto "../../middle_east/cyprus/" "キプロス" %}}も電柱が木でできており、ギリシャ語も見つかるので注意！
+{{% /notice %}}
+
 
 <div class="googlemap-if unclickable no-margin">
 <img src="pole.png" width="95%" />

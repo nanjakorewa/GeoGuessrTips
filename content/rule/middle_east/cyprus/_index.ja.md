@@ -1,5 +1,5 @@
 ---
-title: "キプロス"
+title: "イギリス主権基地領域アクロティリおよびデケリア"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "CY.svg"
+flag: "GB.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
@@ -19,7 +19,6 @@ is_has_many_trekker: false
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cy</span></li>
-        <li>2024年1月時点では公式カバレッジはない</li>
         <li>白色の独特なボラードが見つかる</li>
     </ul>
     {{% rd middle_east cyprus verysmall %}}
@@ -38,7 +37,7 @@ is_has_many_trekker: false
 
 
 {{% notice tip %}}
-英語・ギリシャ語・トルコ語の表記がある{{% ex "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}。紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
+英語・ギリシャ語・トルコ語の表記がある{{% ex "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}。紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
