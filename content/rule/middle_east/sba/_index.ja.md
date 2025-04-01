@@ -13,6 +13,10 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
+sc_title: "間違えやすい地域"
+sc: [
+    ["../../europe/greece/", "ギリシャ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -20,6 +24,7 @@ is_has_many_trekker: false
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cy</span></li>
         <li>白色の独特なボラードが見つかる</li>
+        <li>中央二本の白線{{% ex "https://maps.app.goo.gl/ep91BSWMHnqUpWcL8" %}}など{{% goto "../../europe/greece/" "ギリシャ" %}}と共通点が多い</li>
     </ul>
     {{% rd middle_east sba verysmall %}}
 </div>

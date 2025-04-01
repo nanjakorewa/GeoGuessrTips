@@ -46,7 +46,7 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
-{{% notice tip %}}<span class="quiz">白の2本線</span>の中央分離帯があるのはヨーロッパではほぼギリシャ{{% ex "https://maps.app.goo.gl/8d9NeHkbVg4DU7RE6" "https://maps.app.goo.gl/5h42ffeRmxcKJUYLA" "https://maps.app.goo.gl/Dx9LwTmqz3Srxapq7" "https://maps.app.goo.gl/DzzB9TrpmurtmEEP7" "https://maps.app.goo.gl/mgXSUTTZhRDBdRa87" %}}{{% ref "https://www.plonkit.net/greece" "plonkit" %}}。
+{{% notice tip %}}<span class="quiz">白の2本線</span>の中央分離帯があるのはヨーロッパではほぼギリシャ{{% ex "https://maps.app.goo.gl/8d9NeHkbVg4DU7RE6" "https://maps.app.goo.gl/5h42ffeRmxcKJUYLA" "https://maps.app.goo.gl/Dx9LwTmqz3Srxapq7" "https://maps.app.goo.gl/DzzB9TrpmurtmEEP7" "https://maps.app.goo.gl/mgXSUTTZhRDBdRa87" %}}{{% ref "https://www.plonkit.net/greece" "plonkit" %}}か{{% goto "../../middle_east/sba/" "キプロス周辺" %}}{{% ex "https://maps.app.goo.gl/ep91BSWMHnqUpWcL8" %}}。
 {{% /notice %}}
 
 
