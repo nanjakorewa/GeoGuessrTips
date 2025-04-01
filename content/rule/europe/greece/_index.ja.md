@@ -12,7 +12,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../../middle_east/cyprus/", "イギリス主権基地領域アクロティリおよびデケリア"],
+    ["../../middle_east/sba/", "イギリス主権基地領域アクロティリおよびデケリア"],
     ["../albania/", "アルバニア"],
     ["../spain/", "スペイン"],
     ["../croatia/", "クロアチア地中海側"],
@@ -90,8 +90,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 電柱が木でできていることが多い{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc8zc6" "https://goo.gl/maps/nmy564xMEnWgWmwp7" "https://goo.gl/maps/WPHHyL7Xymx2uuMT8" "https://goo.gl/maps/uQ4JGU5YE2nXd97F8"  %}}。
 {{% /notice %}}
 
-{{% notice tip %}}
-{{% goto "../../middle_east/sba/" "キプロス" %}}も電柱が木でできており、ギリシャ語も見つかるので注意！
+{{% notice info %}}
+{{% goto "../../middle_east/sba/" "イギリス主権基地領域アクロティリおよびデケリア" %}}も電柱が木でできており、ギリシャ語も見つかるので注意！
 {{% /notice %}}
 
 
