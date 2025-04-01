@@ -52,7 +52,7 @@ sc: [
 
 
 {{% notice tip %}}
-ナンバープレートは黄色のナンバーを付けている可能性もある{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" %}}。
+うしろのナンバープレートが黄色の場合がある{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}。ただ、おそらく白い場合の方が多い。
 {{% /notice %}}
 
 {{% lb 50 %}}
