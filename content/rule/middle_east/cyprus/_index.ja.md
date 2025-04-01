@@ -29,7 +29,7 @@ is_has_many_trekker: false
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}
+白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -48,7 +48,7 @@ is_has_many_trekker: false
 
 
 {{% notice tip %}}
-ナンバープレートは基本的に白だが、10年以上前の車は黄色のナンバーを付けている可能性もある。
+ナンバープレートは黄色のナンバーを付けている可能性もある{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" %}}。
 {{% /notice %}}
 
 {{% lb 50 %}}

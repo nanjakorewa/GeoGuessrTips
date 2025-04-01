@@ -12,6 +12,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../../middle_east/cyprus/", "キプロス"],
     ["../albania/", "アルバニア"],
     ["../spain/", "スペイン"],
     ["../croatia/", "クロアチア地中海側"],
