@@ -18,6 +18,7 @@ weight: 1000
 - [GeoGuessr関係記事一覧 & 有用リンク集 - 狐のいる神社-GeoGuessrとその他](https://ninfox3.blogspot.com/2023/01/blog-post.html) {{% snsl "twitch" "nin_fox3" %}} {{% snsl "twitter" "ninzium" %}}
 - [Geoguessr central of Japan](https://twitter.com/geoguessr_gcj?s=21&t=QWeTF-eJ9m9jBuy9xexWaw){{% snsl "twitter" "Geoguessr_GCJ" %}}
 - [Geoguessr App Japanese Rankings](https://ggapp-daig-o.cloud.okteto.net/)
+- [GeoGuesser世界マップ攻略 改訂版 2025.2.23 by wasabi](https://docs.google.com/document/d/1Bjuxlbj2XNERzy669ZQ3k0Eb8aASwJBuhsG9bbo_vZU/edit?tab=t.0#heading=h.89h294gfk3l)
 
 ### 英語サイト
 

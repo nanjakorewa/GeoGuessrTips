@@ -13,7 +13,6 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
-is_unofficial: true
 ---
 
 <div class="main-desciption country-description">
@@ -30,7 +29,7 @@ is_unofficial: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}
+白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -39,7 +38,7 @@ is_unofficial: true
 
 
 {{% notice tip %}}
-英語・ギリシャ語・トルコ語の表記がある。紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
+英語・ギリシャ語・トルコ語の表記がある{{% ex "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}。紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
