@@ -12,7 +12,7 @@ jetro_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../../middle_east/cyprus/", "キプロス"],
+    ["../../middle_east/cyprus/", "イギリス主権基地領域アクロティリおよびデケリア"],
     ["../albania/", "アルバニア"],
     ["../spain/", "スペイン"],
     ["../croatia/", "クロアチア地中海側"],
@@ -91,7 +91,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 {{% notice tip %}}
-{{% goto "../../middle_east/cyprus/" "キプロス" %}}も電柱が木でできており、ギリシャ語も見つかるので注意！
+{{% goto "../../middle_east/sba/" "キプロス" %}}も電柱が木でできており、ギリシャ語も見つかるので注意！
 {{% /notice %}}
 
 

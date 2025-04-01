@@ -1,5 +1,5 @@
 ---
-title: "Cyprus"
+title: "Zonas de soberanía de Akrotiri y Dhekelia"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -18,9 +18,9 @@ is_has_many_trekker: false
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>The domain is <span class="quiz">.cy</span>.</li>
-        <li>As of January 2024, there is no official Google Street View coverage.</li>
-        <li>Unique white bollards can be found.</li>
+        <li>El dominio de internet es <span class="quiz">.cy</span></li>
+        <li>Hasta enero de 2024, no hay cobertura oficial</li>
+        <li>Se pueden encontrar bolardos blancos distintivos</li>
     </ul>
     {{% rd middle_east cyprus verysmall %}}
 </div>
@@ -29,7 +29,7 @@ is_has_many_trekker: false
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Unique white bollards are found.{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}
+Se pueden encontrar bolardos blancos distintivos{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -37,7 +37,7 @@ Unique white bollards are found.{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV
 </div>
 
 {{% notice tip %}}
-Signs often feature English, Greek, and Turkish text. Due to ongoing conflict, the island has been divided between the north and south since 1974.{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republic of Cyprus" %}}.
+Las señales están en inglés, griego y turco. El país está dividido en el norte y el sur desde 1974 debido a un conflicto{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "República de Chipre" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -46,7 +46,7 @@ Signs often feature English, Greek, and Turkish text. Due to ongoing conflict, t
 </div>
 
 {{% notice tip %}}
-License plates are primarily white, but vehicles older than 10 years might have yellow plates.
+Las matrículas son generalmente blancas, pero los coches de más de 10 años pueden tener matrículas amarillas.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -61,4 +61,4 @@ Public Domain
 {{% /lb %}}
 
 {{% /tab %}}
-{{% /tabs %}}
+{{% /tabs  %}}

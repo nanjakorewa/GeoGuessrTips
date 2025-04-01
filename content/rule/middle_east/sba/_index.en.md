@@ -1,5 +1,5 @@
 ---
-title: "イギリス主権基地領域アクロティリおよびデケリア"
+title: "Sovereign Base Areas of Akrotiri and Dhekelia"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "GB.svg"
+flag: "CY.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
@@ -18,26 +18,26 @@ is_has_many_trekker: false
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>ドメインは<span class="quiz">.cy</span></li>
-        <li>白色の独特なボラードが見つかる</li>
+        <li>The domain is <span class="quiz">.cy</span>.</li>
+        <li>As of January 2024, there is no official Google Street View coverage.</li>
+        <li>Unique white bollards can be found.</li>
     </ul>
-    {{% rd middle_east cyprus verysmall %}}
+    {{% rd middle_east sba verysmall %}}
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}
+Unique white bollards are found.{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="./cyprus_cavo_greko_national_18.jpg" width="90%">
 </div>
 
-
 {{% notice tip %}}
-英語・ギリシャ語・トルコ語の表記がある{{% ex "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}。紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
+Signs often feature English, Greek, and Turkish text. Due to ongoing conflict, the island has been divided between the north and south since 1974.{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republic of Cyprus" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -45,9 +45,8 @@ is_has_many_trekker: false
 <img src="./turkish_republic_northern_cyprus_0.jpg" width="300px">
 </div>
 
-
 {{% notice tip %}}
-ナンバープレートは黄色のナンバーを付けている可能性もある{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" %}}。
+License plates are primarily white, but vehicles older than 10 years might have yellow plates.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -62,4 +61,4 @@ Public Domain
 {{% /lb %}}
 
 {{% /tab %}}
-{{% /tabs  %}}
+{{% /tabs %}}

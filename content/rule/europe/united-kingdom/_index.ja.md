@@ -47,7 +47,7 @@ sc: [
 {{% /notice %}}
 
 {{% notice note %}}
-イギリスの海外領土である{{% goto "../gibraltar/" "ジブラルタル" %}}や{{% goto "../../middle_east/cyprus/" "イギリス主権基地領域アクロティリおよびデケリア" %}}、かつてイギリス領香港だった{{% goto "../../asia/hongkong/" "香港" %}}、旧植民地だった{{% goto "../../africa/kenya/" "ケニア" %}}、イギリス領セイロンだった{{% goto "../../asia/srilanka/" "スリランカ" %}}などイギリスと関係のある地域では黄色のナンバープレートが見つかることが多い。
+イギリスの海外領土である{{% goto "../gibraltar/" "ジブラルタル" %}}や{{% goto "../../middle_east/sba/" "イギリス主権基地領域アクロティリおよびデケリア" %}}、かつてイギリス領香港だった{{% goto "../../asia/hongkong/" "香港" %}}、旧植民地だった{{% goto "../../africa/kenya/" "ケニア" %}}、イギリス領セイロンだった{{% goto "../../asia/srilanka/" "スリランカ" %}}などイギリスと関係のある地域では黄色のナンバープレートが見つかることが多い。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">

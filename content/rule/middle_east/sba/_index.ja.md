@@ -1,5 +1,5 @@
 ---
-title: "Siprus"
+title: "イギリス主権基地領域アクロティリおよびデケリア"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "CY.svg"
+flag: "GB.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
@@ -18,26 +18,26 @@ is_has_many_trekker: false
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domain nasional adalah <span class="quiz">.cy</span></li>
-        <li>Hingga Januari 2024, tidak ada cakupan resmi</li>
-        <li>Terdapat bollard putih dengan desain khas</li>
+        <li>ドメインは<span class="quiz">.cy</span></li>
+        <li>白色の独特なボラードが見つかる</li>
     </ul>
-    {{% rd middle_east cyprus verysmall %}}
+    {{% rd middle_east sba verysmall %}}
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Bollard putih dengan desain khas dapat ditemukan{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}.
+白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="./cyprus_cavo_greko_national_18.jpg" width="90%">
 </div>
 
+
 {{% notice tip %}}
-Tanda-tanda dalam bahasa Inggris, Yunani, dan Turki terlihat. Negara ini berada dalam status konflik dan telah terbagi menjadi wilayah utara dan selatan sejak 1974{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republik Siprus" %}}.
+英語・ギリシャ語・トルコ語の表記がある{{% ex "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}。紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -45,8 +45,9 @@ Tanda-tanda dalam bahasa Inggris, Yunani, dan Turki terlihat. Negara ini berada 
 <img src="./turkish_republic_northern_cyprus_0.jpg" width="300px">
 </div>
 
+
 {{% notice tip %}}
-Plat nomor kendaraan biasanya berwarna putih, tetapi mobil yang berusia lebih dari 10 tahun mungkin memiliki plat berwarna kuning.
+ナンバープレートは黄色のナンバーを付けている可能性もある{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" %}}。
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -61,4 +62,4 @@ Public Domain
 {{% /lb %}}
 
 {{% /tab %}}
-{{% /tabs %}}
+{{% /tabs  %}}
