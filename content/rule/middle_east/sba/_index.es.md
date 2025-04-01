@@ -22,7 +22,7 @@ is_has_many_trekker: false
         <li>Hasta enero de 2024, no hay cobertura oficial</li>
         <li>Se pueden encontrar bolardos blancos distintivos</li>
     </ul>
-    {{% rd middle_east cyprus verysmall %}}
+    {{% rd middle_east sba verysmall %}}
 </div>
 
 {{% tabs %}}
