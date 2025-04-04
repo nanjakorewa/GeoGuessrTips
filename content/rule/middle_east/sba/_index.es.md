@@ -1,5 +1,5 @@
 ---
-title: "Zonas de soberanía de Akrotiri y Dhekelia"
+title: "Áreas de Bases Soberanas Británicas de Acrotiri y Dhekelia"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -7,20 +7,24 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "CY.svg"
+flag: "GB.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
+sc_title: "Regiones que suelen confundirse"
+sc: [
+    ["../../europe/greece/", "Grecia"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>El dominio de internet es <span class="quiz">.cy</span></li>
-        <li>Hasta enero de 2024, no hay cobertura oficial</li>
+        <li>El dominio es <span class="quiz">.cy</span></li>
         <li>Se pueden encontrar bolardos blancos distintivos</li>
+        <li>Se conduce por el <span class="quiz">lado izquierdo</span></li>
     </ul>
     {{% rd middle_east sba verysmall %}}
 </div>
@@ -29,15 +33,15 @@ is_has_many_trekker: false
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Se pueden encontrar bolardos blancos distintivos{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}.
+Se pueden encontrar bolardos blancos distintivos{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}. Además, como se conduce por el lado izquierdo, las señales están a la izquierda.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./cyprus_cavo_greko_national_18.jpg" width="90%">
+<img src="./Road_To_Pafos.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-Las señales están en inglés, griego y turco. El país está dividido en el norte y el sur desde 1974 debido a un conflicto{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "República de Chipre" %}}.
+Las señales están en inglés, griego y turco{{% ex "https://maps.app.goo.gl/idhPux9SZCvyn9pm6" "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}. Cabe señalar que Chipre se encuentra en una situación de conflicto, dividido entre norte y sur desde 1974{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "República de Chipre" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -46,7 +50,15 @@ Las señales están en inglés, griego y turco. El país está dividido en el no
 </div>
 
 {{% notice tip %}}
-Las matrículas son generalmente blancas, pero los coches de más de 10 años pueden tener matrículas amarillas.
+Hay etiquetas amarillas en los postes eléctricos{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+Algunos vehículos tienen matrículas traseras amarillas{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}. También se utilizan señales de tráfico y marcas viales propias del {{% goto "../../europe/united-kingdom/" "Reino Unido" %}}.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -57,7 +69,7 @@ Las matrículas son generalmente blancas, pero los coches de más de 10 años pu
 
 ![](Cyprus_license_plate_KQL-343.svg)
 
-Public Domain
+Dominio Público
 {{% /lb %}}
 
 {{% /tab %}}

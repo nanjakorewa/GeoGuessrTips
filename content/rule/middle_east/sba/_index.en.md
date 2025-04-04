@@ -1,5 +1,5 @@
 ---
-title: "Sovereign Base Areas of Akrotiri and Dhekelia"
+title: "UK Sovereign Base Areas of Akrotiri and Dhekelia"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -7,20 +7,24 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "CY.svg"
+flag: "GB.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
+sc_title: "Easily Confused Regions"
+sc: [
+    ["../../europe/greece/", "Greece"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>The domain is <span class="quiz">.cy</span>.</li>
-        <li>As of January 2024, there is no official Google Street View coverage.</li>
-        <li>Unique white bollards can be found.</li>
+        <li>The domain is <span class="quiz">.cy</span></li>
+        <li>Distinctive white bollards can be found</li>
+        <li>Left-hand <span class="quiz">driving</span></li>
     </ul>
     {{% rd middle_east sba verysmall %}}
 </div>
@@ -29,15 +33,15 @@ is_has_many_trekker: false
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Unique white bollards are found.{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}
+Distinctive white bollards can be found{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}. Since traffic is on the left, signs are placed on the left side.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./cyprus_cavo_greko_national_18.jpg" width="90%">
+<img src="./Road_To_Pafos.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-Signs often feature English, Greek, and Turkish text. Due to ongoing conflict, the island has been divided between the north and south since 1974.{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republic of Cyprus" %}}.
+Signage appears in English, Greek, and Turkish{{% ex "https://maps.app.goo.gl/idhPux9SZCvyn9pm6" "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}. Cyprus itself is in a state of conflict, having been divided into north and south since 1974{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republic of Cyprus" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -46,7 +50,15 @@ Signs often feature English, Greek, and Turkish text. Due to ongoing conflict, t
 </div>
 
 {{% notice tip %}}
-License plates are primarily white, but vehicles older than 10 years might have yellow plates.
+There are yellow labels on utility poles{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+Some vehicles have yellow rear license plates{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}. Road signs and markings are sometimes those used in the {{% goto "../../europe/united-kingdom/" "United Kingdom" %}}.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -61,4 +73,4 @@ Public Domain
 {{% /lb %}}
 
 {{% /tab %}}
-{{% /tabs %}}
+{{% /tabs  %}}

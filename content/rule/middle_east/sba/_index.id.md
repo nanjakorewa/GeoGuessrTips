@@ -1,5 +1,5 @@
 ---
-title: "Wilayah Basis Kedaulatan Akrotiri dan Dhekelia"
+title: "Wilayah Pangkalan Kedaulatan Inggris Akrotiri dan Dhekelia"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 100
@@ -7,20 +7,24 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "CY.svg"
+flag: "GB.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
+sc_title: "Wilayah yang Mudah Tertukar"
+sc: [
+    ["../../europe/greece/", "Yunani"],
+    ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Domain nasional adalah <span class="quiz">.cy</span></li>
-        <li>Hingga Januari 2024, tidak ada cakupan resmi</li>
-        <li>Terdapat bollard putih dengan desain khas</li>
+        <li>Domain-nya adalah <span class="quiz">.cy</span></li>
+        <li>Dapat ditemukan bollard putih yang khas</li>
+        <li>Lalu lintas di <span class="quiz">sebelah kiri</span></li>
     </ul>
     {{% rd middle_east sba verysmall %}}
 </div>
@@ -29,15 +33,15 @@ is_has_many_trekker: false
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Bollard putih dengan desain khas dapat ditemukan{{% ex "https://maps.app.goo.gl/6PM2LVoMsh6hqqzV9" %}}.
+Bollard putih yang khas dapat ditemukan{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}. Karena lalu lintas di sebelah kiri, rambu-rambu pun berada di sisi kiri.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./cyprus_cavo_greko_national_18.jpg" width="90%">
+<img src="./Road_To_Pafos.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
-Tanda-tanda dalam bahasa Inggris, Yunani, dan Turki terlihat. Negara ini berada dalam status konflik dan telah terbagi menjadi wilayah utara dan selatan sejak 1974{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republik Siprus" %}}.
+Terdapat tulisan dalam bahasa Inggris, Yunani, dan Turki{{% ex "https://maps.app.goo.gl/idhPux9SZCvyn9pm6" "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}. Siprus sendiri berada dalam situasi konflik dan telah terbagi menjadi bagian utara dan selatan sejak tahun 1974{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "Republik Siprus" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -46,7 +50,15 @@ Tanda-tanda dalam bahasa Inggris, Yunani, dan Turki terlihat. Negara ini berada 
 </div>
 
 {{% notice tip %}}
-Plat nomor kendaraan biasanya berwarna putih, tetapi mobil yang berusia lebih dari 10 tahun mungkin memiliki plat berwarna kuning.
+Ada label kuning pada tiang listrik{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+Ada kendaraan dengan plat nomor belakang berwarna kuning{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}. Rambu lalu lintas dan marka jalan terkadang juga menggunakan yang berasal dari {{% goto "../../europe/united-kingdom/" "Inggris" %}}.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -61,4 +73,4 @@ Public Domain
 {{% /lb %}}
 
 {{% /tab %}}
-{{% /tabs %}}
+{{% /tabs  %}}

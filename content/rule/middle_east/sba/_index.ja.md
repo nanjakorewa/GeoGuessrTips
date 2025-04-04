@@ -24,7 +24,7 @@ sc: [
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.cy</span></li>
         <li>白色の独特なボラードが見つかる</li>
-        <li>中央二本の白線{{% ex "https://maps.app.goo.gl/ep91BSWMHnqUpWcL8" %}}など{{% goto "../../europe/greece/" "ギリシャ" %}}と共通点が多い</li>
+        <li><span class="quiz">左側</span>通行</li>
     </ul>
     {{% rd middle_east sba verysmall %}}
 </div>
@@ -33,11 +33,11 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}
+白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}。なおかつ左側通行なので左に標識がある。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./cyprus_cavo_greko_national_18.jpg" width="90%">
+<img src="./Road_To_Pafos.jpg" width="90%">
 </div>
 
 
@@ -50,9 +50,17 @@ sc: [
 <img src="./turkish_republic_northern_cyprus_0.jpg" width="300px">
 </div>
 
+{{% notice tip %}}
+電柱に黄色いラベルがある{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
+</div>
+
 
 {{% notice tip %}}
-うしろのナンバープレートが黄色の場合がある{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}。ただ、おそらく白い場合の方が多い。
+うしろのナンバープレートが黄色のものがいる{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}。標識や道路標示も{{% goto "../../europe/united-kingdom/" "イギリス" %}}のものが使われていることがある。
 {{% /notice %}}
 
 {{% lb 50 %}}
