@@ -138,10 +138,16 @@ sc: [
 {{% tabs %}}
 {{% tab "ナンバープレート" %}}
 
+
 {{% notice tip %}}
 緑色の領域はナンバープレートが前後に必要
 {{% /notice %}}
+
+<div class="googlemap-if">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">カナダを効率よく視覚で覚えよう🇨🇦 <a href="https://t.co/R4nUSLIR7D">pic.twitter.com/R4nUSLIR7D</a></p>&mdash; masuharu. (@masuharu_fn) <a href="https://twitter.com/masuharu_fn/status/1910957803902279869?ref_src=twsrc%5Etfw">April 12, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="723"><a href="https://www.reddit.com/r/geoguessr/comments/xzhxb4/oc_map_of_all_canadian_license_plate_and/">(OC) map of all canadian license plate and rear/front plate obligation</a><br> by<a href="https://www.reddit.com/user/ehe78/">u/ehe78</a> in<a href="https://www.reddit.com/r/geoguessr/">geoguessr</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
 
 {{% /tab %}}
 {{% tab "地形" %}}
