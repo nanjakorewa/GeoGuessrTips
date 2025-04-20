@@ -10,7 +10,6 @@ bg: "bg/city.jpg"
 flag: "BA.svg"
 no_detaile_info: true
 jetro_detail: false
-is_unofficial: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../slovenia/", "スロベニア"],
@@ -23,7 +22,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>2024年2月時点では公式のストリートビューはない</li>
+        <li>2025年3月時点では国境付近のごく僅かの場所に道がある{{% ex "https://maps.app.goo.gl/JeXYRMe5Vb3BhsLMA" "https://maps.app.goo.gl/CCEUacVdkCDgkH486" %}}</li>
         <li>ドメインは<span class="quiz">.ba</span></li>
         <li>ボスニア・ヘルツェゴビナとその周辺のガードレールは<span class="quiz">角張っている</span></li>
     </ul>
@@ -33,7 +32,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-周辺国にあるガードレールとボラードがある。
+周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/hCbmvqUfdrfAij9BA" %}}とボラード{{% ex "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" %}}がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./m2_neum_dscn1154.jpg" width="95%">

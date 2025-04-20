@@ -24,7 +24,7 @@ window.JSMaps.maps.middleEast = {
 			"abbreviation": "CY",
 			"textX": 175,
 			"textY": 216,
-			"color": "#666666",
+			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
 			"url": "./cyprus/",
