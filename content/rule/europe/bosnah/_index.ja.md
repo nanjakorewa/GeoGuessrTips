@@ -32,7 +32,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/hCbmvqUfdrfAij9BA" %}}とボラード{{% ex "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" %}}がある。
+周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/hCbmvqUfdrfAij9BA" %}}とボラード{{% ex "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}}がある。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./m2_neum_dscn1154.jpg" width="95%">
