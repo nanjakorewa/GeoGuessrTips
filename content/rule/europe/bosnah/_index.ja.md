@@ -22,7 +22,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>2025年3月時点では国境付近のごく僅かの場所に道がある{{% ex "https://maps.app.goo.gl/JeXYRMe5Vb3BhsLMA" "https://maps.app.goo.gl/CCEUacVdkCDgkH486" %}}</li>
+        <li>2025年3月時点では国境付近のごく僅かの場所にストリートビューがある{{% ex "https://maps.app.goo.gl/JeXYRMe5Vb3BhsLMA" "https://maps.app.goo.gl/CCEUacVdkCDgkH486" %}}</li>
         <li>ドメインは<span class="quiz">.ba</span></li>
         <li>ボスニア・ヘルツェゴビナとその周辺のガードレールは<span class="quiz">角張っている</span></li>
     </ul>
