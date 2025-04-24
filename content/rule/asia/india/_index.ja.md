@@ -1,5 +1,6 @@
 ---
 title: "インド"
+title_suffix: "（バーラト）"
 date: 2023-02-26
 lastmod: 2023-12-13
 weight: 2
