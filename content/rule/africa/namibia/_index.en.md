@@ -3,7 +3,7 @@ title: "Namibia"
 title_suffix: "(Republic of Namibia)"
 date: 2023-09-26
 lastmod: 2023-10-23
-weight: 1000
+weight: 2000
 draft: false
 keywords: [""]
 sections: [""]

@@ -2,7 +2,7 @@
 title: "アンゴラ共和国"
 date: 2023-11-01
 lastmod: 2023-11-01
-weight: 1000
+weight: 2000
 draft: false
 keywords: [""]
 sections: [""]

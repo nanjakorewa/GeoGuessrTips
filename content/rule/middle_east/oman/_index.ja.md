@@ -2,7 +2,7 @@
 title: "オマーン"
 date: 2024-06-01
 lastmod: 2024-10-29
-weight: 100
+weight: 200
 draft: false
 keywords: [""]
 sections: [""]

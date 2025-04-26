@@ -2,7 +2,7 @@
 title: "東北・北海道"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 10
+weight: 20
 draft: false
 keywords: [""]
 sections: [""]

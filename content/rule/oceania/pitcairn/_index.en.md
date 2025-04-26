@@ -2,7 +2,7 @@
 title: "Pitcairn Islands"
 date: 2023-02-26
 lastmod: 2023-06-01
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

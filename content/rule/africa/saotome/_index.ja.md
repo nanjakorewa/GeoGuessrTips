@@ -3,7 +3,7 @@ title: "サントメ・プリンシペ"
 title_suffix: "民主共和国"
 date: 2024-03-29
 lastmod: 2024-03-29
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

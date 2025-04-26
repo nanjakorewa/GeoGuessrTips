@@ -3,7 +3,7 @@ title: "10問目"
 quiz_suffix: "旧宗主国"
 date: 2024-06-15
 lastmod: 2024-06-15
-weight: 10
+weight: 20
 draft: false
 keywords: [""]
 sections: [""]

@@ -2,7 +2,7 @@
 title: "石油探索・ミッドストリーム"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 1
+weight: 2
 draft: false
 keywords: ["midstream", "天然ガス", "石油"]
 sections: ["PBA"]

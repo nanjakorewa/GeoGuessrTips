@@ -3,7 +3,7 @@ title: "15問目"
 quiz_suffix: "建築"
 date: 2024-06-15
 lastmod: 2024-06-15
-weight: 15
+weight: 25
 draft: false
 keywords: [""]
 sections: [""]

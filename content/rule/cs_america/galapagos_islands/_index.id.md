@@ -2,7 +2,7 @@
 title: "Kepulauan Galápagos"
 date: 2023-02-26
 lastmod: 2023-04-23
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

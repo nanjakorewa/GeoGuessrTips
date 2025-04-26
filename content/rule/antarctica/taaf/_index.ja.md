@@ -2,7 +2,7 @@
 title: "フランス領南方地域及び南極地域"
 date: 2023-02-26
 lastmod: 2023-05-01
-weight: 1000
+weight: 2000
 draft: false
 keywords: [""]
 sections: [""]

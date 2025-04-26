@@ -2,7 +2,7 @@
 title: "Kenya"
 date: 2023-02-26
 lastmod: 2023-04-11
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

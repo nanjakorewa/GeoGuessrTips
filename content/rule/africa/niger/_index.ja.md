@@ -2,7 +2,7 @@
 title: "ニジェール"
 date: 2024-11-20
 lastmod: 2024-11-20
-weight: 1000
+weight: 2000
 draft: false
 keywords: [""]
 sections: [""]

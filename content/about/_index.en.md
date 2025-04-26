@@ -4,7 +4,7 @@ subtitle: "About this page"
 date: 2023-02-26
 description: "Contacts and privacy policy"
 type: "note"
-weight: 1001
+weight: 2001
 ---
 I started playing GeoGuessr in February 2023. On this page, I save screenshots of things that caught my attention or interesting locations during gameplay. If you notice any mistakes or have any comments, please let me know in the comments section or through the GitHub issue tracker.
 

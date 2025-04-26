@@ -2,7 +2,7 @@
 title: "食料品"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 1
+weight: 2
 draft: false
 keywords: ["コーラ", "飲食店", "一般消費"]
 sections: [""]

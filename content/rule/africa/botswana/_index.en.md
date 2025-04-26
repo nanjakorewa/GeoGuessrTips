@@ -2,7 +2,7 @@
 title: "Botswana"
 date: 2023-05-26
 lastmod: 2023-09-01
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

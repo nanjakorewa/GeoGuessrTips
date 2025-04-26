@@ -4,7 +4,7 @@ title_suffix: "の電柱②"
 page_no: "②"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 11
+weight: 21
 draft: false
 keywords: ["ポール", "電線"]
 sections: [""]

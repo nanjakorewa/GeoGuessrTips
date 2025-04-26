@@ -2,7 +2,7 @@
 title: "アゾレス諸島"
 date: 2023-02-26
 lastmod: 2023-05-01
-weight: 1
+weight: 2
 draft: false
 keywords: [""]
 sections: [""]

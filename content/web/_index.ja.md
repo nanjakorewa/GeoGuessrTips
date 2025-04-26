@@ -4,7 +4,7 @@ subtitle: "役立つページ"
 date: 2023-02-26
 description: "ウェブサイト・配信者"
 type: "docs"
-weight: 1000
+weight: 2000
 ---
 
 参考にしたウェブサイトや見させてもらってる配信者など（敬称略）。

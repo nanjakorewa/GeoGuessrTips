@@ -3,7 +3,7 @@ title: "18問目"
 quiz_suffix: "土の色"
 date: 2024-06-15
 lastmod: 2024-06-15
-weight: 18
+weight: 28
 draft: false
 keywords: [""]
 sections: [""]

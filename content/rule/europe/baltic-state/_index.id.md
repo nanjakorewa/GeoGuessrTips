@@ -2,7 +2,7 @@
 title: "Negara-negara Baltik"
 date: 2023-02-26
 description: "Negara di Amerika Selatan"
-weight: 1
+weight: 2
 add_flagindex: True
 ---
 

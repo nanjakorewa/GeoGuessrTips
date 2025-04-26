@@ -3,7 +3,7 @@ title: "ランダム地域選択"
 subtitle: ""
 date: 2023-07-03
 lastmod: 2023-07-03
-weight: 100
+weight: 200
 draft: false
 keywords: ["ガチャ", "ランダム", "選択"]
 sections: [""]

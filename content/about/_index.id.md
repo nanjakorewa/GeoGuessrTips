@@ -4,7 +4,7 @@ subtitle: "Tentang Situs Web Ini"
 date: 2023-02-26
 description: "Kontak dan kebijakan privasi"
 type: "note"
-weight: 1001
+weight: 2001
 ---
 Saya mulai bermain GeoGuessr pada bulan Februari 2023. Di halaman ini, saya menyimpan tangkapan layar dari hal-hal yang menarik perhatian saya atau lokasi-lokasi menarik selama bermain game. Jika Anda menemukan kesalahan atau memiliki komentar, beri tahu saya di bagian komentar atau melalui pelacak masalah GitHub.
 

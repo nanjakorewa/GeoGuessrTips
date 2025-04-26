@@ -2,7 +2,7 @@
 title: "ガソリンスタンド"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 1
+weight: 2
 draft: false
 keywords: ["ガスステーション", "天然ガス", "石油"]
 sections: ["PO", "YPF", "Pertamina", "PEMEX"]

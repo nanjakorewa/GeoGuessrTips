@@ -3,7 +3,7 @@ title: "ジオゲッサーの始め方"
 subtitle: ""
 date: 2023-03-26
 lastmod: 2023-06-01
-weight: 11
+weight: 21
 draft: false
 keywords: ["無料", "スマホ", "無料アカウント", "Geoguessr"]
 sections: [""]

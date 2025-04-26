@@ -2,7 +2,7 @@
 title: "UK Sovereign Base Areas of Akrotiri and Dhekelia"
 date: 2023-04-26
 lastmod: 2024-03-26
-weight: 100
+weight: 200
 draft: false
 keywords: [""]
 sections: [""]

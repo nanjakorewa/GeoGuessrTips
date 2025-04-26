@@ -3,7 +3,7 @@ title: "配信BGM"
 subtitle: ""
 date: 2023-03-26
 lastmod: 2023-06-01
-weight: 11
+weight: 21
 draft: false
 keywords: ["Daig_Oさんの配信で使ってるアレ", "バックグラウンド", "音楽"]
 sections: [""]
