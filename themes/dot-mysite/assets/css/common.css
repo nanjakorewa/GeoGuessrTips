@@ -173,6 +173,12 @@ a.important-card {
   font-weight: bold;
 }
 
+
+a.important-card p {
+  font-size: 1.2em;
+}
+
+
 div.noshow-area {
   display: none !important;
 }
