@@ -26,12 +26,7 @@ sc: [
         <li>チェコ語とスロバキア語に違いがある
             <ul>
                 <li>「<b>Ř</b>」なら<span class="quiz">チェコ</span>・「<b>Ŕ</b>」なら<span class="quiz">スロバキア</span></li>
-                <li>「<b>Ľ</b>」が合ったらほぼスロバキア{{% ref "https://ja.wikipedia.org/wiki/%C4%BD" "Ľ" %}}。
-                    <ul>
-                        <li>「<b>Ļ</b>」なら{{% goto "../baltic-state/latvia/" "ラトビア" %}}</li>
-                        <li>「<b>Ł</b>」なら{{% goto "../poland/" "ポーランド" %}}</li>
-                    </ul>
-                </li>
+                <li>「<b>Ľ</b>」が合ったらほぼスロバキア{{% ref "https://ja.wikipedia.org/wiki/%C4%BD" "Ľ" %}}。</li>
             </ul>
         </li>
         <li>チェコとスロバキアのみthin-B profileと呼ばれるタイプのガードレールを使用する{{% by "https://youtu.be/6xmUB66kxcA?t=90" "youtube" "10 More Maps You NEED To Know for Geoguessr by zi8gzag" %}}</li>

@@ -41,16 +41,36 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-{{% goto "../slovakia/" "スロバキア" %}}と同じボラードとガードレール。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある{{% ex "https://goo.gl/maps/pePJXWZS165TbMNW6" %}}。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的{{% ex "https://maps.app.goo.gl/jy4PDVF2jip7Bz497" "https://maps.app.goo.gl/eY9umZDuez2yiYjC6" %}}。
+チェコと{{% goto "../slovakia/" "スロバキア" %}}とでは同じボラードとガードレールが見つかる。ボラードは<span class="quiz">黒い領域に反射板が2枚</span>ある{{% ex "https://goo.gl/maps/pePJXWZS165TbMNW6" %}}。ガードレールはthin-B profileと呼ばれるガードレールを使用しており<span class="quiz">角ばっていて真ん中の凹みの幅が広い</span>のが特徴的{{% ex "https://maps.app.goo.gl/jy4PDVF2jip7Bz497" "https://maps.app.goo.gl/eY9umZDuez2yiYjC6" %}}。
 {{% /notice %}}
 
 {{% notice info %}}
-{{% goto "../../europe/france/" "フランス" %}}の海外領土である{{% goto "../../oceania/newcaledonia/" "ニューカレドニア" %}}でも似たガードレールが見つかる。
+{{% goto "../../europe/france/" "フランス" %}}の海外領土である{{% goto "../../oceania/newcaledonia/" "ニューカレドニア" %}}でも似たガードレールが見つかるが、通常のGeoguessrでは出題されない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./bollrad.jpg" width="90%" />
 </div>
+
+
+{{% notice tip %}}
+標識を見ることでチェコと{{% goto "../slovakia/" "スロバキア" %}}を見分けられる。詳しくは{{% goto "../slovakia/" "スロバキア" %}}のページを参照。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
+<div class="googlemap-if unclickable" style="margin-bottom:0;">
+<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" />
+</div>
+
+<div class="googlemap-if unclickable" style="margin-top:0;">
+<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
+</div>
+</div>
+
 
 {{% notice tip %}}
 チェコの道路案内の看板はこんな感じの看板を使用する{{% ex "https://goo.gl/maps/vxMweJojW93h89p69" "https://maps.app.goo.gl/ZCKQJyX1xNXU5t1R8" %}}。{{% goto "../slovakia/" "スロバキア" %}}の看板は矢印が書いてありフォーマットが異なる{{% by "https://www.plonkit.net/czechia" "plonkit" %}}。また右下の看板のように「Ř」や「Ě」の文字があるならチェコ。「<span class="quiz">Ů・ů</span>」がある場合もチェコになる。
