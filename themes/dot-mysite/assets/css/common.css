@@ -1511,3 +1511,7 @@ table.compare-table tr td {
   font-size: 0.8em;
   text-align: center;
 }
+
+.corp-desc-dp {
+  display: none !important;
+}
