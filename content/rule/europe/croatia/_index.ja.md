@@ -66,7 +66,7 @@ sc: [
 
 
 {{% notice tip %}}
-2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い{{% ex "https://maps.app.goo.gl/4UrGHQ9JTgKQ3byCA" %}}。枠がかすかに赤く見える時がある気がするけれど、白一色に見えることも多い。
+2016年までは白いナンバープレートだったので青い線が無いナンバープレートも多い{{% ex "https://maps.app.goo.gl/4UrGHQ9JTgKQ3byCA" %}}。枠がかすかに赤く見える時がある気がするけれど、白一色に見えることも多い。クロアチアを示す『HR』のシールが貼ってある車もある。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
