@@ -6,7 +6,7 @@ baseURL = "https://geopinning.space/"
 # theme
 theme = "dot-mysite"
 # site title
-title = "GeoGuessrのメモ"
+title = "GeoGuessrの攻略メモ"
 # disable language
 disableLanguages = []
 # google analytics
