@@ -34,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Grasslands like this, with thin grass, are widespread {{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}.
+こんな感じの細い草がたくさん生えている{{% ex "https://goo.gl/maps/QDByu9vY3rrunwQt9" "https://goo.gl/maps/mYrQDMMd5k9Beikn9" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -42,10 +42,7 @@ Grasslands like this, with thin grass, are widespread {{% ex "https://goo.gl/map
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
 </div>
 
-{{% notice tip %}}
-License plates appear white and lime green {{% ex "https://maps.app.goo.gl/EehLxYAT59kXPhS29" %}}.  
-Note that similar colors are used for plates in central {{% goto "../south-africa/" "South Africa" %}}.
-{{% /notice %}}
+{{% notice tip %}} ナンバープレートが白と黄緑色に見える{{% ex "https://maps.app.goo.gl/EehLxYAT59kXPhS29" %}}。{{% goto "../south-africa/" "南アフリカ" %}}の中央部で使われるナンバープレートも同じような色に見えるので注意。 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg#/media/File:SZ-manzini-zufahrt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg" alt="SZ-manzini-zufahrt.jpg" width="95%"></a></p><p>By User: Bgabel at wikivoyage shared, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22958562">Link</a></p>
@@ -66,38 +63,38 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 </div>
 {{% /tab %}}
 
-{{% tab "Elevation" %}}
-{{% notice tip %}}
-The western region is mountainous (elevation 1500m), while the eastern region is lowland (elevation 200m), giving the country a sloping terrain.
-{{% /notice %}}
-<div class="googlemap-if">
-<img src="2023-04-21-05-06-55.png">
-</div>
-{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>The country is divided into Highveld, Middleveld, and Lowveld based on elevation, with distinct agricultural practices in each.</li>
-        <li class="no-evidence">In the Highveld, <span class="quiz">pine and eucalyptus forestry</span> is practiced, with plantation forests present.</li>
-        <li class="no-evidence">In the Lowveld, <span class="quiz">sugarcane</span> cultivation is common.</li>
+        <li>標高によって標高の高いハイベルト・中間のミドルベルト・標高の低いローベルトに分かれていて農業の形態もそれぞれ異なる</li>
+        <li class="no-evidence">ローベルトでは<span class="quiz">サトウキビ</span>が育てられていることがある</li>
+        <li class="no-evidence">ハイベルトでは<span class="quiz">松やユーカリの林業が行われており植林による森林</span>が存在する</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Highveld" %}}
+{{% tab "標高" %}}
 {{% notice tip %}}
-In the Highveld, <span class="quiz">pine and eucalyptus forestry</span> is practiced, and plantation forests are present {{% ex "https://maps.app.goo.gl/QEddaQmeU1gzrJFt8" %}}. Even without forests, you may find traces of logging {{% ex "https://maps.app.goo.gl/zRoXXcfkBWEBb68b9" %}}.
+西部は山岳地帯（標高1500m）、東部は低地（標高200m）であり、国土は傾斜している。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="2023-04-21-05-06-55.png">
+</div>
+{{% /tab %}}
+{{% tab "ハイベルト" %}}
+{{% notice tip %}}
+ハイベルトでは<span class="quiz">松やユーカリの林業が行われており、植林による森林</span>が存在する{{% ex "https://maps.app.goo.gl/QEddaQmeU1gzrJFt8" %}}。森林が無くても、森林が伐採された跡があるかも{{% ex "https://maps.app.goo.gl/zRoXXcfkBWEBb68b9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/safahovinen/39263746285/" title="Close to Piggs Peak"><img src="https://live.staticflickr.com/4670/39263746285_1232779115_c.jpg" width="800" height="533" alt="Close to Piggs Peak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 
-{{% tab "Lowveld" %}}
+{{% tab "ローベルト" %}}
 {{% notice tip %}}
-The country is divided into Highveld, Middleveld, and Lowveld based on elevation, with distinct agricultural practices. In the Lowveld, <span class="quiz">sugarcane</span> is commonly cultivated.
+ローベルトでは平地が多く<span class="quiz">サトウキビ</span>が育てられていることがある。
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682436625448!6m8!1m7!1saJY6MDzb1xARd9CzJv9kxw!2m2!1d-26.76722330154598!2d31.92291092356511!3f53.1599899823355!4f-4.437015220855059!5f2.872764259751242" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
