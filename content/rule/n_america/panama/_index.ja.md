@@ -128,6 +128,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>パナマ運河沿いは船やコンテナターミナルがある{{% ex "https://maps.app.goo.gl/pJJC9GbQeEuD3ov88"  "https://maps.app.goo.gl/xo6NjqFwPFPM2FF4A" %}}</li>
+        <li>西の国境近くのバルー火山周りでは火山性の黒い岩が見つかることも{{% ex "https://maps.app.goo.gl/TNuGdn4mcbrP3TWH6" %}}</li>
     </ul>
 </div>
 
@@ -140,6 +141,17 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;act
 
 <div class="googlemap-if no-margin">
 <img src="./panama_panama_canal_locks.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "バルー火山" %}}
+
+{{% notice tip %}}
+火山周辺では大き目の黒い丸みを帯びた岩が見つかる{{% ex "https://maps.app.goo.gl/qXzA1A6oxPwiJPoY6" "https://maps.app.goo.gl/dtATtess9ERyTZMX6" %}}。数はそんなに多くない。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./volcanbaru1.jpg" width="90%">
 </div>
 
 {{% /tab %}}
