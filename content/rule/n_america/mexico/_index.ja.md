@@ -161,8 +161,8 @@ sc: [
 『55』はメキシコシティ。タクシーの模様も重要なヒント。
 {{% /notice %}}
 
-<div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">画像１枚で国１こ覚えたい。 <a href="https://twitter.com/hashtag/GeoGuessr?src=hash&amp;ref_src=twsrc%5Etfw">#GeoGuessr</a> <br>その③　メキシコ <a href="https://t.co/KeTRiY67Lj">pic.twitter.com/KeTRiY67Lj</a></p>&mdash; Μείνε (@meine_geo) <a href="https://twitter.com/meine_geo/status/1636192764026310656?ref_src=twsrc%5Etfw">March 16, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Mexico_Regional_Indicators_for_Phone_Numbers.png#/media/File:Mexico_Regional_Indicators_for_Phone_Numbers.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Mexico_Regional_Indicators_for_Phone_Numbers.png" alt="File:Mexico Regional Indicators for Phone Numbers.png" height="720" width="1107"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:XIC123&amp;action=edit&amp;redlink=1" class="new" title="User:XIC123 (page does not exist)">XIC123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149986159">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -174,6 +174,29 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>風力発電が盛んなエリアは州ごとにかなり限定されている{{% ex "https://maps.app.goo.gl/q6sknsKew4ukAsUu6" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "風力発電" %}}
+<div class="googlemap-if no-margin">
+<img src="Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png">
+</div>
+
+
+{{% notice tip %}}
+一般には年間を通して強い風が安定して吹く海沿いや山間部に多く、メキシコでは東側の一部の地域に集中している{{% ex "https://maps.app.goo.gl/q6sknsKew4ukAsUu6" %}}{{% ref "https://www.researchgate.net/figure/Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional_fig1_363187342" "Alonso-Serna, Lourdes, and Edgar Talledos-Sánchez. 『Fossilizing renewable energy: The case of wind power in the Isthmus of Tehuantepec, Mexico.』 Energy Democracies for Sustainable Futures. Academic Press, 2023. 267-277." %}}。
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
 
 
 <div class="main-desciption city-description">
@@ -390,7 +413,7 @@ Guerreroの海沿いにココヤシのプランテーションが存在する{{%
 
 <div class="main-desciption city-description">
     <ul class="rule-list">
-        <li>ナンバープレートの色で町が分かることがある
+        <li>ナンバープレートの色で州が分かることがある
             <ul>
                 <li>Jalisco：上が黄色で下が<span class="quiz">水</span>色</li>
                 <li>Nayarit：右下が<span class="quiz">赤</span>色</li>
@@ -433,6 +456,7 @@ Public Domain
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>タクシーにヒントがある
             <ul>
@@ -478,7 +502,6 @@ Public Domain
 
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Janitzioはカメラの一部に黒い点がある</li>
         <li>Holboxという町は本土から離れているため車が少なくゴルフカートが多い{{% ex "https://maps.app.goo.gl/Ymr3LouvcNNwkbmd7" %}}</li>

@@ -217,7 +217,7 @@ window.JSMaps.maps.asia = {
 		},
 		{
 			"enable": true,
-			"name": "ロシア",
+			"name": "ロシア・ロシア周辺地域",
 			"abbreviation": "RU",
 			"textX": 329,
 			"textY": 154,

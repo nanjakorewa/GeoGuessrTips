@@ -2507,7 +2507,7 @@ window.JSMaps.maps.world = {
         },
         {
             "enable": true,
-            "name": "ロシア",
+            "name": "ロシア・ロシア周辺地域",
             "abbreviation": "RU",
             "textX": 0,
             "textY": 0,
