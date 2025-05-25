@@ -65,7 +65,7 @@ sc: [
 </div>
 
 {{% notice note %}}
-取り寄せました。めちゃおいしかったです。
+取り寄せました（{{% goto "https://amzn.to/3ZvPgxU" "Amazonリンク" %}} ）。めちゃおいしかったです。
 {{% /notice %}}
 
 <div class="googlemap-if">
