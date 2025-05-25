@@ -215,17 +215,23 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <h4 class="section-title">農業</h4>
     <ul class="rule-list">
         <li>アルメリア県では温室農業が盛んであり、とりわけ南東の海岸付近の白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}</li>
-        <li>ピコス・デ・エウロパ国立公園付近に石灰岩の山塊に挟まれた集落と道路がある{{% ex "https://maps.app.goo.gl/1pARkTttLmhumauz9" "https://maps.app.goo.gl/wmnQEBgnoNEzQ2WP9" "https://maps.app.goo.gl/RhxMjnHbH7gL3Xwm9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A8%E3%82%A6%E3%83%AD%E3%83%91%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92" "ピコス・デ・エウロパ国立公園" %}}</li>
-        <li>アフリカ大陸の北岸にスペインの自治都市である{{% goto "../../africa/melilla/" "メリリャ" %}}と{{% goto "../../africa/ceuta/" "セウタ" %}}がある</li>
+        <li>お米の生産はEbro Delta・Valencia・Sevillaの水が多い地域以外はほとんど行われていない
+            <ul>
+                <li>Ebro Delta{{% ex "https://maps.app.goo.gl/WZMX6wSZABts4E738" "https://maps.app.goo.gl/jDbQ5YKQDQZnjKhy7" %}}</li>
+                <li>Valencia{{% ex "https://maps.app.goo.gl/92zRTouv1yv8voeh9" "https://maps.app.goo.gl/93Rh2h6H78myttaPA" %}}</li>
+                <li>Sevilla{{% ex "https://maps.app.goo.gl/JoqLn6UqQwvH7LuG6" "https://maps.app.goo.gl/UcnWTMhpF2nZh7p76" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
 
+
 {{% tabs %}}
-{{% tab "アルメリア県" %}}
+{{% tab "温室農業" %}}
 
 {{% notice tip %}}
 アルメリア県では温室農業が盛んであり、とりわけ南東の海岸付近の白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}。プラスチックの海と呼ばれているらしい{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%A1%E3%83%AA%E3%82%A2%E7%9C%8C" "アルメリア県" %}}。
@@ -237,6 +243,30 @@ sc: [
 <img src="./Invernaderos_el_ejido.jpg" width="95%">
 </div>
 {{% /tab %}}
+{{% tab "お米" %}}
+
+{{% notice tip %}}
+参考文献に示す3か所以外はほとんど田んぼは見つからない{{% ref "https://www.researchgate.net/figure/Rice-cropland-mapping-in-Spain_fig10_317294911" "European Rice Cropland Mapping with Sentinel-1 Data: The Mediterranean Region Case Study" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<img src="Rice-cropland-mapping-in-Spain.png" width="95%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>アルメリア県では温室農業が盛んであり、とりわけ南東の海岸付近の白い場所はビニールハウスがいっぱいある{{% ex "https://maps.app.goo.gl/jtNCCPdS8QP8g7ny7" "https://maps.app.goo.gl/tUjkhRM1QEq61vmK6" %}}</li>
+        <li>ピコス・デ・エウロパ国立公園付近に石灰岩の山塊に挟まれた集落と道路がある{{% ex "https://maps.app.goo.gl/1pARkTttLmhumauz9" "https://maps.app.goo.gl/wmnQEBgnoNEzQ2WP9" "https://maps.app.goo.gl/RhxMjnHbH7gL3Xwm9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%B3%E3%82%B9%E3%83%BB%E3%83%87%E3%83%BB%E3%82%A8%E3%82%A6%E3%83%AD%E3%83%91%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92" "ピコス・デ・エウロパ国立公園" %}}</li>
+        <li>アフリカ大陸の北岸にスペインの自治都市である{{% goto "../../africa/melilla/" "メリリャ" %}}と{{% goto "../../africa/ceuta/" "セウタ" %}}がある</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
 {{% tab "ピコス・デ・エウロパ国立公園" %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Ruta_del_Cares_Puente.jpg#/media/Archivo:Ruta_del_Cares_Puente.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ruta_del_Cares_Puente.jpg" alt="Ruta del Cares Puente.jpg" width="95%"></a></p>
