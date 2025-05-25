@@ -40,6 +40,9 @@ We assume no responsibility for any actions users take based on the information 
 <h3 class="no-blur">Regarding Google Analytics and Similar Services</h3>
 Advertising service providers, including Google, use cookies to deliver ads based on users' past access to this website and other websites. This aims to display appropriate ads to users based on their information when they access this site or other sites. This website uses Google Analytics, an access analysis tool provided by Google. Google Analytics uses cookies to collect traffic data. This traffic data is collected anonymously and does not identify individuals. You can refuse data collection by disabling cookies. Please check your browser settings for more information.
 
+This website is a participant in the Amazon Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.  
+Some links on this site may be affiliate links, which means we may earn a commission if you make a purchase through those links, at no additional cost to you.
+
 
 <br />
 <br />

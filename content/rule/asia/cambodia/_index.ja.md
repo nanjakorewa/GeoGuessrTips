@@ -20,6 +20,11 @@ sc: [
     ["../../cs_america/brazil/", "ブラジル"],
     ["../india/", "インド"],
     ]
+products:
+  - title: "カンボジアビール アンコールビール瓶330ml×24本"
+    url: https://amzn.to/4khqRVo
+  - title: "レオビール 330ml×24本"
+    url: https://amzn.to/3HaNFra
 ---
 
 <div class="main-desciption country-description">
@@ -222,3 +227,6 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+{{< amazon-links >}}

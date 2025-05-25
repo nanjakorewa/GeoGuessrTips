@@ -1069,3 +1069,38 @@ div.container-corp tbody.corp-desc {
 li.dontshowarea {
   display: none !important;
 }
+
+.amazon-box {
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: #f9f9f9;
+  margin: 2rem 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.amazon-box h3 {
+  margin-top: 0;
+  font-size: 1.2rem;
+  color: #333;
+}
+
+.amazon-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.amazon-item {
+  margin: 0.5rem 0;
+}
+
+.amazon-item a {
+  text-decoration: none;
+  color: #1a0dab;
+  font-weight: bold;
+}
+
+.amazon-item a:hover {
+  text-decoration: underline;
+  color: #c45500; /* Amazon オレンジに近い */
+}

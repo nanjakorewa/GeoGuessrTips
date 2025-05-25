@@ -1,0 +1,14 @@
+<div class="amazon-box">
+  <h3>📦{{ .Page.Title }}関連商品</h3>
+  <ul class="amazon-list">
+    {{ with .Page.Params.products }}
+      {{ range . }}
+        <li class="amazon-item">
+          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+        </li>
+      {{ end }}
+    {{ else }}
+      <li>現在おすすめ商品はありません。</li>
+    {{ end }}
+  </ul>
+</div>

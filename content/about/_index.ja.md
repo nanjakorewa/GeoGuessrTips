@@ -53,6 +53,10 @@ Googleを含む広告配信事業者は、Cookie を使用して、ユーザー�
 当サイトでは、Googleによるアクセス解析ツール「Googleアナリティクス」を利用しています。
 このGoogleアナリティクスはトラフィックデータの収集のためにCookieを使用しています。このトラフィックデータは匿名で収集されており、個人を特定するものではありません。この機能はCookieを無効にすることで収集を拒否することが出来ますので、お使いのブラウザの設定をご確認ください。
 
+当サイトは、Amazonのアソシエイトとして、適格販売により収入を得ています。  
+掲載されている商品リンクにはアフィリエイトリンクが含まれており、購入により当サイトに報酬が発生することがあります。  
+ユーザーの皆様には追加の費用は発生しません。
+
 <h3 class="no-blur">お問い合わせ</h3>
 
 <a href="https://ssl.form-mailer.jp/fms/167b8369777173">こちら</a> or <a href="https://twitter.com/nanjakorewa">twitter</a> or [githubのissues](https://github.com/nanjakorewa/GeoGuessrTips/issues) にお願いします。

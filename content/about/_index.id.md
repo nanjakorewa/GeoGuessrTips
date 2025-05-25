@@ -41,6 +41,10 @@ Kami tidak bertanggung jawab atas segala tindakan yang dilakukan pengguna berdas
 
 Penyedia layanan periklanan, termasuk Google, menggunakan cookie untuk menayangkan iklan berdasarkan akses pengguna sebelumnya ke situs web ini dan situs web lainnya. Hal ini bertujuan untuk menampilkan iklan yang sesuai kepada pengguna berdasarkan informasi mereka ketika mereka mengakses situs ini atau situs lainnya. Situs web ini menggunakan Google Analytics, alat analisis akses yang disediakan oleh Google. Google Analytics menggunakan cookie untuk mengumpulkan data lalu lintas. Data lalu lintas ini dikumpulkan secara anonim dan tidak mengidentifikasi individu. Anda dapat menolak pengumpulan data dengan menonaktifkan cookie. Silakan periksa pengaturan browser Anda untuk informasi lebih lanjut.
 
+
+Situs ini berpartisipasi dalam Program Amazon Associates, yaitu program afiliasi yang dirancang untuk memberikan sarana bagi situs web untuk memperoleh komisi melalui tautan ke Amazon.  
+Beberapa tautan di situs ini adalah tautan afiliasi, yang berarti kami dapat menerima komisi jika Anda melakukan pembelian melalui tautan tersebut, tanpa biaya tambahan bagi Anda.
+
 <br />
 <br />
 <h3 class="no-blur">Kontak</h3>

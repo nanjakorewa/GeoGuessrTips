@@ -41,6 +41,10 @@ We assume no responsibility for any actions users take based on the information 
 Advertising service providers, including Google, use cookies to deliver ads based on users' past access to this website and other websites. This aims to display appropriate ads to users based on their information when they access this site or other sites. This website uses Google Analytics, an access analysis tool provided by Google. Google Analytics uses cookies to collect traffic data. This traffic data is collected anonymously and does not identify individuals. You can refuse data collection by disabling cookies. Please check your browser settings for more information.
 
 
+Este sitio web participa en el Programa de Afiliados de Amazon, un programa de publicidad para afiliados diseñado para ofrecer un medio a los sitios web de obtener comisiones mediante la publicidad y enlaces a Amazon.  
+Algunos enlaces en este sitio son enlaces de afiliado, lo que significa que podríamos recibir una comisión si realizas una compra a través de ellos, sin coste adicional para ti.
+
+
 <br />
 <br />
 <h3 class="no-blur">Contact</h3>
