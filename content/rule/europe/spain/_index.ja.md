@@ -190,7 +190,7 @@ sc: [
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title" id="植生">植生</h2>
+    <h4 class="section-title" id="植生">植生</h4>
     <ul class="rule-list">
         <li>Pinus pineaという木の分布に偏りがある
             <ul>
