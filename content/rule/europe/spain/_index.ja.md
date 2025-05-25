@@ -197,6 +197,7 @@ sc: [
                 <li>南東{{% ex "https://maps.app.goo.gl/wQoBSYYeZHtecYTN8" "https://maps.app.goo.gl/PmTa2L4TSFPGkxZZ6" %}}</li>
             </ul>
         </li>
+        <li>Aleppo Pineは東半分、とくに海の近くに多く分布している</li>
     </ul>
 </div>
 
@@ -210,6 +211,16 @@ sc: [
 <div class="googlemap-if no-margin unclickable">
 <p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="File:Map Pinus pinea.png" width="87%"></a></p><p style="font-size:0.8em">By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
 <p><img src="pinus_pinea_pompeii.jpg" width="90%" style="margin-top:2em"></p>
+</div>
+{{% /tab %}}
+{{% tab "Aleppo Pine" %}}
+
+{{% notice tip %}}
+マルセイユ近くに生えてそうな松はスペインの東半分にしか分布していない{{% ex "https://maps.app.goo.gl/aK5M4CzC9uzSswZo6" %}}。{{% goto "../balearic-islands/" "バレアレス諸島" %}}のような離島にも多い{{% ex "https://maps.app.goo.gl/2Q4rRnreCac3R31t5" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="pinus_halepensis_near_hyeres.jpg" width="60%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -240,18 +251,34 @@ sc: [
 
 <div class="googlemap-if no-margin">
 <img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%">
-<img src="./Invernaderos_el_ejido.jpg" width="95%">
 </div>
 {{% /tab %}}
-{{% tab "お米" %}}
+{{% tab "田んぼ" %}}
 
 {{% notice tip %}}
 参考文献に示す3か所以外はほとんど田んぼは見つからない{{% ref "https://www.researchgate.net/figure/Rice-cropland-mapping-in-Spain_fig10_317294911" "European Rice Cropland Mapping with Sentinel-1 Data: The Mediterranean Region Case Study" %}}。
 {{% /notice %}}
 
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">工業</h4>
+    <ul class="rule-list">
+        <li>日照時間が長い南半分のエリアでは太陽光発電施設が多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "太陽光発電" %}}
+
+{{% notice tip %}}
+単なる太陽光パネルでの発電{{% ex "https://maps.app.goo.gl/9qniBr54GaLq3Vcn6" %}}以外にもタワー式太陽熱発電{{% ex "https://maps.app.goo.gl/Y5TjXUUoKDbTRekZ8" "https://maps.app.goo.gl/j9rNnQLzdMzcXTdN6" %}}やトラフ式太陽熱発電施設{{% ex "https://maps.app.goo.gl/AeGe3yoy8cYsB8Ca6" %}}もスペインでは見かける。ただし近くに道が無い場合も多く、衛星写真では発電所が見えるもののジオゲッサー的にはあまり役に立たないかも。
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="Rice-cropland-mapping-in-Spain.png" width="95%">
+<img src="960px-Luz.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
