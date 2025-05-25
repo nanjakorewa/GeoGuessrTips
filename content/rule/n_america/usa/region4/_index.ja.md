@@ -35,7 +35,7 @@ jogmec_detail: true
 ①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/migueltejadaflores/15404863541/in/album-72157635481239731/" title="Speed 5"><img src="https://live.staticflickr.com/2944/15404863541_1f02146f9a_b.jpg" width="70%" alt="Speed 5"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="Oregon-speed.svg.png" width="300px">
 </div>
 {{% /tab %}}
 {{% tab "②電柱" %}}
