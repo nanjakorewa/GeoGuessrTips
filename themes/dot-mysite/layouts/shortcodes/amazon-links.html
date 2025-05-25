@@ -5,6 +5,9 @@
       {{ range . }}
         <li class="amazon-item">
           <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+          {{ with .description }}
+            <p class="amazon-description">{{ . | markdownify }}</p>
+          {{ end }}
         </li>
       {{ end }}
     {{ else }}

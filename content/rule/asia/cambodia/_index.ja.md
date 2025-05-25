@@ -23,6 +23,7 @@ sc: [
 products:
   - title: "カンボジアビール アンコールビール瓶330ml×24本"
     url: https://amzn.to/4khqRVo
+    description: "1960年代からカンボジア政府から業務委託され生産され続けているカンボジアの伝統的なビール。<a href='https://maps.app.goo.gl/77AiHFf2YeT3mP7B7' target='_blank'>ここ</a>などで工場の外観を確認できる。"
   - title: "レオビール 330ml×24本"
     url: https://amzn.to/3HaNFra
 ---

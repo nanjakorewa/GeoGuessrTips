@@ -1104,3 +1104,21 @@ li.dontshowarea {
   text-decoration: underline;
   color: #c45500; /* Amazon オレンジに近い */
 }
+
+.amazon-description {
+  margin: 0.2rem 0 0.5rem 0.1rem;
+  font-size: 0.9rem;
+  color: #555;
+}
+
+.amazon-description a {
+  color: #0073b1; /* 落ち着いた青。必要に応じて変更 */
+  text-decoration: underline;
+  font-weight: 500;
+  transition: color 0.2s ease-in-out;
+}
+
+.amazon-description a:hover {
+  color: #c45500; /* Amazonオレンジ系のアクセントカラー */
+  text-decoration: none;
+}
