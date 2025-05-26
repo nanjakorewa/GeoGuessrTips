@@ -18,6 +18,16 @@ sc: [
     ["../philippines/", "フィリピン"],
     ["../../cs_america/brazil/", "ブラジル"],
     ]
+products:
+  - title: "TIPAROS ナンプラー"
+    url: https://amzn.to/3Fpfpro
+    description: "タイで最もシェアが高いナンプラー（アンチョビに塩を加え発酵させて作るソース）。"
+  - title: "TRACHANG ナンプラー"
+    url: https://amzn.to/4mElbX5
+    description: "TIPAROSと同じく2年発酵させている。自分がいろいろ試した中ではこれがよかった。"
+  - title: "Roi Thai グリーンカレー 250ml"
+    url: https://amzn.to/4dIlJHd
+    description: "具になるものを炒めてこれをかけて少し煮込むといい感じのグリーンカレーになる（一部のカルディ店舗にも売っている気がするが最寄りには無かった）。レビューに甘すぎとあるが、別にそんなことはないと思う。"
 ---
 
 <div class="main-desciption country-description">
@@ -295,3 +305,6 @@ Public Domain
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+{{< amazon-links >}}

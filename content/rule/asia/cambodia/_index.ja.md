@@ -12,7 +12,6 @@ no_detaile_info: true
 jetro_detail: false
 plonkit: true
 dont_show_usda: true
-is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../thai/", "タイ"],
@@ -29,9 +28,6 @@ products:
   - title: "レオビール 330ml×24本"
     url: https://amzn.to/3HaNFra
     description: "タイのビールだが隣国のカンボジアでも多く流通している。道端でもよく見つかる。"
-  - title: "＆PEPPER 生こしょうの塩漬け カンボジア カンポット産"
-    url: https://amzn.to/4dI9bj5
-    description: カンボジア南部カンポット州で生産されており、高級品とされている。
 ---
 
 <div class="main-desciption country-description">
