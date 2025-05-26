@@ -210,6 +210,45 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 
 <div class="main-desciption area-description">
+    <h4 class="section-title">工業</h4>
+    <ul class="rule-list">
+        <li>太陽光発電はプーリア州郊外の平地に多い{{% ex "https://maps.app.goo.gl/koWZBE9tJA42ZwFL7" %}}</li>
+        <li>風力発電はフォッジア州{{% ex "https://maps.app.goo.gl/tNnu4c9kWdhB1a7D6" %}}周りなど一一部の地域に多い{{% ex "https://maps.app.goo.gl/kcY32AGQifFL6EEz6" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "太陽光発電" %}}
+
+{{% notice tip %}}
+もし大規模な発電施設があればかかとあたりに寄せられるかも{{% ex "https://maps.app.goo.gl/koWZBE9tJA42ZwFL7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">イタリアとドイツって太陽光発電のエリア結構偏っているんですね<br>（役に立つ機会すくなそうだけど）<a href="https://t.co/vXen0YyStc">https://t.co/vXen0YyStc</a> <a href="https://t.co/r9WheqD4J9">pic.twitter.com/r9WheqD4J9</a></p>&mdash; nanja (@nanjakorewa) <a href="https://twitter.com/nanjakorewa/status/1927011006900810221?ref_src=twsrc%5Etfw">May 26, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
+
+
+{{% /tab %}}
+{{% tab "風力発電" %}}
+
+{{% notice tip %}}
+細かいデータは参考文献を参照{{% ref "https://aenert.com/countries/europe/energy-industry-in-italy/" "Energy industry in Italy" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1748271235212!6m8!1m7!1sVr6ZngmDocQWJqME46_KYw!2m2!1d41.25654804811481!2d15.60247627224404!3f13.369016371733267!4f-6.022537453807104!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">その他</h4>
     <ul class="rule-list">
         <li>Province名
             <ul>
