@@ -4,9 +4,16 @@
     {{ with .Page.Params.products }}
       {{ range . }}
         <li class="amazon-item">
-          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }}</a>
+          <a href="{{ .url }}" target="_blank" rel="noopener noreferrer">{{ .title }} <i class="fab fa-amazon"></i></a>
+
           {{ with .description }}
-            <p class="amazon-description">{{ . | markdownify }}</p>
+            <p class="amazon-description">{{ . | safeHTML }}</p>
+          {{ end }}
+
+          {{ if and (.company_name) (.company_url) }}
+            <p class="amazon-company">
+              🔗 <a href="{{ .company_url }}" target="_blank" rel="noopener noreferrer">{{ .company_name }}</a>
+            </p>
           {{ end }}
         </li>
       {{ end }}

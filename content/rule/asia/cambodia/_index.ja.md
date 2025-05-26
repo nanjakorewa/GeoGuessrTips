@@ -21,11 +21,17 @@ sc: [
     ["../india/", "インド"],
     ]
 products:
-  - title: "カンボジアビール アンコールビール瓶330ml×24本"
+  - title: "アンコールビール 330ml×24本"
     url: https://amzn.to/4khqRVo
     description: "1960年代からカンボジア政府から業務委託され生産され続けているカンボジアの伝統的なビール。<a href='https://maps.app.goo.gl/77AiHFf2YeT3mP7B7' target='_blank'>ここ</a>などで工場の外観を確認できる。"
+    company_name: "Angkor Beer"
+    company_url: "https://angkor-beer.jp/"
   - title: "レオビール 330ml×24本"
     url: https://amzn.to/3HaNFra
+    description: "タイのビールだが隣国のカンボジアでも多く流通している。道端でもよく見つかる。"
+  - title: "＆PEPPER 生こしょうの塩漬け カンボジア カンポット産"
+    url: https://amzn.to/4dI9bj5
+    description: カンボジア南部カンポット州で生産されており、高級品とされている。
 ---
 
 <div class="main-desciption country-description">
@@ -228,6 +234,5 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-
 
 {{< amazon-links >}}

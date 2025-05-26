@@ -1100,13 +1100,19 @@ li.dontshowarea {
   font-weight: bold;
 }
 
+.amazon-item .fa-amazon {
+  font-size: 1.2em !important;
+  margin: 0;
+  padding: 0;
+}
+
 .amazon-item a:hover {
   text-decoration: underline;
   color: #c45500; /* Amazon オレンジに近い */
 }
 
 .amazon-description {
-  margin: 0.2rem 0 0.5rem 0.1rem;
+  margin: 0.2rem 0 0rem 0.1rem;
   font-size: 0.9rem;
   color: #555;
 }
@@ -1120,5 +1126,23 @@ li.dontshowarea {
 
 .amazon-description a:hover {
   color: #c45500; /* Amazonオレンジ系のアクセントカラー */
+  text-decoration: none;
+}
+
+.amazon-company {
+  font-size: 0.85rem;
+  margin-top: 0rem;
+  padding-top: 0;
+  margin-left: 0rem;
+  color: #666;
+}
+
+.amazon-company a {
+  color: #0066cc;
+  text-decoration: underline;
+}
+
+.amazon-company a:hover {
+  color: #c45500;
   text-decoration: none;
 }

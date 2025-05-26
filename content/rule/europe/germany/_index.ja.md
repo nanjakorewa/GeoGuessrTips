@@ -16,6 +16,12 @@ sc: [
     ["../luxembourg/", "ルクセンブルグ"],
     ["../belgium/", "ベルギー"],
     ]
+products:
+  - title: "LEUCHTTURM1917 - Notebook Hardcover Medium A5-251"
+    url: https://amzn.to/4khqRVo
+    description: "1917年にドイツで創業した家族経営の文房具会社のノート。"
+    company_name: "LEUCHTTURM1917"
+    company_url: "http://www.leuchtturm1917.jp/index.html"
 ---
 
 <div class="main-desciption country-description">
@@ -373,6 +379,7 @@ sc: [
 {{% /imgref %}}
 
 
+{{< amazon-links >}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
