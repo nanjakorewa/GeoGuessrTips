@@ -17,6 +17,10 @@ sc: [
     ["../argentina/", "アルゼンチン"],
     ["../../europe/spain/", "スペイン"],
     ]
+products:
+  - title: "FRUITYエキストラバージン オリーブオイル"
+    url: https://amzn.to/3FaXRiR
+    description: "アタカマ砂漠周辺（<a href='https://maps.app.goo.gl/qcUjzPs4yBtAF3sG6' target='_blank'>ここ？</a>）で生産しているオリーブだけを使ったオリーブオイル。"
 ---
 
 <div class="main-desciption country-description">
@@ -213,6 +217,8 @@ Santiago de Chile付近にある木や草がまばらに生えた山が印象的
 
 {{% /tab %}}
 {{% /tabs %}}
+
+{{< amazon-links >}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
