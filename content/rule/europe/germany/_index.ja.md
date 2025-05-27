@@ -17,11 +17,21 @@ sc: [
     ["../belgium/", "ベルギー"],
     ]
 products:
-  - title: "LEUCHTTURM1917 - Notebook Hardcover Medium A5-251"
-    url: https://amzn.to/4khqRVo
+  - title: "LEUCHTTURM1917 - Notebook Hardcover Medium A5"
+    url: https://amzn.to/4kH8fxU
     description: "1917年にドイツで創業した家族経営の文房具会社のノート。"
     company_name: "LEUCHTTURM1917"
     company_url: "http://www.leuchtturm1917.jp/index.html"
+  - title: "WMF ステンレスフライパン"
+    url: https://amzn.to/4mytQu1
+    description: "1853年に創業したドイツの食器メーカーで現在はSEBグループの一員となっている。"
+    company_name: "WMF"
+    company_url: "https://shop.wmf.co.jp/shop/"
+  - title: "Zwilling Henckels 料理ばさみ"
+    url: https://amzn.to/44VfWf3
+    description: "1731年に創業したドイツのゾーリンゲンに本拠を置く刃物などのメーカー。"
+    company_name: "Zwilling J.A. Henckels AG"
+    company_url: "https://www.zwilling.com/jp/"
 ---
 
 <div class="main-desciption country-description">
