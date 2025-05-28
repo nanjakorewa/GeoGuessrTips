@@ -179,6 +179,24 @@ E-375道路がある緯度付近。
 {{% /tabs %}}
 
 <div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>アタカマ砂漠のエリアではCopiapó川沿いでのみ農業が盛ん{{% ex "https://maps.app.goo.gl/x7r7Jbf1hhUnQqUB9" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Copiapó川" %}}
+{{% notice tip %}}
+アタカマ高地の山々の融雪水に涵養される水の豊かな外来河川{{% ref "https://photo-kataru.com/208_CopiapoRiverOasis.htm" "コピアポ川の河川オアシス" %}}。オリーブ・柑橘類・ぶどうなどさまざまな農作物が生産されている{{% ex "https://maps.app.goo.gl/zGiw8Nq2hLC1Gx697" "https://maps.app.goo.gl/CtTjkTFam5D8LS3A6" %}}。これより北に600km行くとやっと木が生えた川（ロア川）が見つかるがおそらく農業はほとんどされていない。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:ValledeCopiapo.jpg#/media/File:ValledeCopiapo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ValledeCopiapo.jpg" alt="ValledeCopiapo.jpg" width="96%"></a></p><p>By sergejf - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/sergejf/4321114656/">https://www.flickr.com/photos/sergejf/4321114656/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20413413">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>Santiago付近の山が特徴的なので覚えておくと役に立つかも</li>
