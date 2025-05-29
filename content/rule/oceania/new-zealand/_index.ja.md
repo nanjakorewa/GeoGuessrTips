@@ -17,6 +17,13 @@ sc: [
     ["../australia", "オーストラリア"],
     ["../australia", "タスマニア島"],
     ]
+products:
+  - title: "Zespri グリーンキウイ 約3kg 22〜30玉前後"
+    url: https://amzn.to/43jFmSt
+    description: "ニュージーランドは世界一のキウイ輸出国であり、世界のおよそ4割のキウイはNZ産。"
+  - title: "Barnes Naturals マヌカハニー"
+    url: https://amzn.to/3HiHb9F
+    description: "マヌカの花から採取された蜂蜜。希少なため偽造品も多い。"
 ---
 
 <div class="main-desciption country-description">
@@ -177,7 +184,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">植生</h2>
+    <h4 class="section-title">植生</h4>
     <ul class="rule-list">
         <li>南島のカンタベリー平野では防風林があり灌漑農業をしている{{% ex "https://goo.gl/maps/Ho4ypjhBcnQJA1PK8" "https://goo.gl/maps/ViDwwptpjr8RQAN19" "https://goo.gl/maps/z9NMph5Pkf23vWFX8" "https://goo.gl/maps/vUh5Ak6155z9f7KD7" %}}</li>
         <li>北島のベイ・オブ・プレンティ地方も防風林がありキウイの生産が盛ん{{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}</li>
@@ -219,6 +226,44 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 
 <div class="googlemap-if">
 <img src="arundo_donax_variegata_j.jpg">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">農業</h4>
+    <ul class="rule-list">
+        <li>キウイ農園があるは北島か南島の最北端{{% ex "https://maps.app.goo.gl/CXj28JvJ6zb8bJiLA" %}}</li>
+        <li>ぶどう畑があるのは北島東海岸側か南島の最北端{{% ex "https://maps.app.goo.gl/Txf6K2usbNBL8r8U7" %}}</li>
+    </ul>
+</div>
+
+
+
+{{% tabs %}}
+{{% tab "キウイ" %}}
+
+{{% notice tip %}}
+キウイ農園があるは北島か南島の最北端{{% ex "https://maps.app.goo.gl/CXj28JvJ6zb8bJiLA" %}}{{% ref "https://www.nzkgi.org.nz/wp-content/uploads/2022/01/FINAL_WholeBook_Digital.pdf" "Kiwi Fruit Book 2021" %}}。世界のおよそ4割のキウイはNZ産だ。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="kiwi_plant.jpg" width="90%">
+</div>
+
+
+{{% /tab %}}
+{{% tab "ぶどう" %}}
+
+{{% notice tip %}}
+ぶどう畑があるのは北島東海岸側か南島の最北端{{% ex "https://maps.app.goo.gl/Txf6K2usbNBL8r8U7" %}}。多少起伏があるエリアでも畑がある。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="landscape_new_zealand_vineyard.jpg" width="90%">
 </div>
 
 
@@ -298,3 +343,5 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+{{< amazon-links >}}
