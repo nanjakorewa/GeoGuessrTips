@@ -54,12 +54,6 @@ sc: [
 <img src="./bollard.png" width="90%" alt="イタリアのボラード" />
 </div>
 
-<div class="googlemap-if no-margin" style="font-size:0.8em">
-<div class="googlemap-if">
-<iframe width="252" height="451" src="https://www.youtube.com/embed/-BFJIAxLhrw" title="ボラード引っこ抜いてみた" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-</div>
-</div>
-
 
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">両サイドに青色</span>がほとんど{{% ex "https://maps.app.goo.gl/b9RXKweVUZpL5wwp9" "https://maps.app.goo.gl/YQ8xFuoMDPRrDEBM7" "https://maps.app.goo.gl/bnnYUVCMvTMizbBH7" "https://goo.gl/maps/7CQ227NmcFGaWNmT9" "https://maps.app.goo.gl/dMxJM84ksFXFKUMf7" "https://goo.gl/maps/PwxZCUWypKwVQbtt8" "https://goo.gl/maps/PvDvxRtcCiq2DYjx9" %}}。しかし{{% goto "../albania/" "アルバニア" %}}や{{% goto "../france/" "フランス" %}}にも両サイド青のナンバーが見つかる点に注意。
