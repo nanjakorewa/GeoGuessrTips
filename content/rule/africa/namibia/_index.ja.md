@@ -46,7 +46,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% /lb %}}
 
 
-{{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている。{{% goto "../../cs_america/chile/" "チリのアタカマ砂漠" %}}と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
+{{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。{{% goto "../../cs_america/chile/" "チリのアタカマ砂漠" %}}と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./road_ahead_desert_never.jpg" width="95%">
