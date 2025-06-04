@@ -14,6 +14,7 @@ jogmec_detail: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../namibia/", "ナミビア"],
     ["../lesotho/", "レソト"],
     ["../eswatini/", "エスワティニ"],
     ["../../oceania/australia/", "オーストラリア"],

@@ -14,6 +14,7 @@ plonkit: true
 sc_title: "間違えやすいページ"
 sc_icon: rel
 sc: [
+    ["../namibia/", "Namibia"],
     ["../south-africa/", "SSouth Africa"],
     ]
 ---
