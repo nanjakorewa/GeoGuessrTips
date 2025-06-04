@@ -12,7 +12,6 @@ flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: false
-is_unofficial: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../south-africa/", "南アフリカ"],
@@ -23,7 +22,6 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>公式カバレッジは2023年9月の時点では無い</li>
         <li>車は<span class="quiz">左側</span>通行</li>
         <li>一般の乗用車は<span class="quiz">黄</span>色のナンバープレート</li>
         <li>ドメインは<span class="quiz">.na</span></li>

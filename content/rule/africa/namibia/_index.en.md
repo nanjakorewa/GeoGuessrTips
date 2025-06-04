@@ -12,7 +12,6 @@ flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: false
-is_unofficial: true
 sc_title: "Easily Mistaken Regions"
 sc: [
     ["../south-africa/", "South Africa"],
@@ -23,7 +22,6 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>No official coverage as of September 2023.</li>
         <li>Vehicles drive on the <span class="quiz">left side</span>.</li>
         <li>Private cars have <span class="quiz">yellow</span> license plates.</li>
         <li>The domain is <span class="quiz">.na</span>.</li>

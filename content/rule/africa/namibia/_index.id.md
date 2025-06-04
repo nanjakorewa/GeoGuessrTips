@@ -12,7 +12,6 @@ flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: false
-is_unofficial: true
 sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../south-africa/", "Afrika Selatan"],
@@ -23,7 +22,6 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Tidak memiliki cakupan resmi per September 2023.</li>
         <li>Kendaraan melaju di sisi <span class="quiz">kiri</span>.</li>
         <li>Pelat nomor kendaraan biasa berwarna <span class="quiz">kuning</span>.</li>
         <li>Domain internet menggunakan <span class="quiz">.na</span>.</li>

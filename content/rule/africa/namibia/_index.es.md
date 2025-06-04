@@ -12,7 +12,6 @@ flag: "NA.svg"
 jetro_detail: true
 jogmec_detail: true
 plonkit: false
-is_unofficial: true
 sc_title: "Regiones fácilmente confundibles"
 sc: [
     ["../south-africa/", "Sudáfrica"],
@@ -23,7 +22,6 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>No hay cobertura oficial en Street View a partir de septiembre de 2023.</li>
         <li>Los vehículos circulan por el <span class="quiz">lado izquierdo</span>.</li>
         <li>Los automóviles particulares tienen matrículas de color <span class="quiz">amarillo</span>.</li>
         <li>El dominio de internet es <span class="quiz">.na</span>.</li>
