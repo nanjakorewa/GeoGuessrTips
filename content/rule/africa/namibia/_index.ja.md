@@ -52,3 +52,58 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>地面が草原で覆われている割合が地域によって異なる</li>
+        <li>標高は地域によって異なり海岸低地を超えると山がちなエリアになる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "草原の割合" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./glasscover.png" width="70%" />
+</div>
+
+{{% notice tip %}}
+緑の地域はほぼ全体が、黄緑の地域は20%くらい生えてそう。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "標高" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./960px-Namibia_Topography.png" width="70%" />
+</div>
+
+{{% notice tip %}}
+ナミブ砂漠となっている海岸低地を超えると、大急崖帯という山がちなエリアになりここで標高が1000mほど上昇する。
+{{% /notice %}}
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>ナミビア最高峰であるBrandberg山が見える地域がある</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Brandberg" %}}
+
+{{% notice tip %}}
+ナミビア北部にあり、平たく巨大な山が見える{{% ex "https://maps.app.goo.gl/jfWCVCCYZTbECnQ79" "https://maps.app.goo.gl/VuWPNFnpncTx3VAx7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" />
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
