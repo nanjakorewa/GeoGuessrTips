@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/cXB4wHF2BV3CrhbY7" %}}
+{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/cXB4wHF2BV3CrhbY7" %}}であり左側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./elephants_at_etosha_national_2.jpg" width="90%">
@@ -59,6 +59,15 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 <p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraße.jpg" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
 </div>
 
+{{% notice tip %}}
+人口が少ない割にダイヤモンドやウランのような鉱物資源が豊富なため、都市部では比較的治安が良く家やインフラも整備されている{{% ex "https://maps.app.goo.gl/tasd2CRDKQ6BD5zA8" %}}。
+Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響を受けた洋風の建築物も残っているという{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "スワコプムント" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="swakopmund1.jpg">
+</div>
+
+
 
 {{% /tab %}}
 {{% /tabs %}}
@@ -72,7 +81,15 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
                 <li>海沿いのナミブ砂漠は非常に平坦{{% ex "https://maps.app.goo.gl/3wNp5ZycbqoAYjsB6" "https://maps.app.goo.gl/TyAex5xmWBB6fGzg9" "https://maps.app.goo.gl/vCRnybQwV77FmtaQ8" %}} </li>
             </ul>
         </li>
-        <li>地面が草原で覆われている割合が地域によって異なる</li>
+        <li>木や草の生える割合が地域によって異なる{{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
+            <ul>
+                <li><span style="color:#147F09">■</span>80%以上覆われている地域{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#E8C15B">■</span>木は生えるが草原では覆われない地域{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#6A8418">■</span>Nama Karooという分類のエリアであり低木や小型の草のみ生え大型の木は生えない{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#917716">■</span>ナミブ砂漠</li>
+                <li><span style="color:#DAD6CC">■</span>川沿いであり沖積層のような白っぽい地面</li>
+            </ul>
+        </li>
         <li>最も重要な港であるWalvis Bayを中心に鉄道が走っている</li>
     </ul>
 </div>
@@ -88,10 +105,10 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% /notice %}}
 
 {{% /tab %}}
-{{% tab "草原の割合" %}}
+{{% tab "植生" %}}
 
 {{% notice tip %}}
-緑の地域はほぼ全体が、黄緑の地域は20%くらい生えてそう。
+緑の地域は80%以上、黄緑の地域は地面も目立つ。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
