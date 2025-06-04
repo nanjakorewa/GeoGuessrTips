@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/cXB4wHF2BV3CrhbY7" %}}であり左側通行。
+{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}}であり左側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./elephants_at_etosha_national_2.jpg" width="90%">
