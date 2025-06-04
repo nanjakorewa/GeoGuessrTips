@@ -65,23 +65,14 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title">景色</h4>
     <ul class="rule-list">
-        <li>地面が草原で覆われている割合が地域によって異なる</li>
         <li>標高は地域によって異なり海岸低地を超えると山がちなエリアになる</li>
+        <li>地面が草原で覆われている割合が地域によって異なる</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "草原の割合" %}}
-<div class="googlemap-if unclickable no-margin">
-<img src="./glasscover.png" width="70%" />
-</div>
-
-{{% notice tip %}}
-緑の地域はほぼ全体が、黄緑の地域は20%くらい生えてそう。
-{{% /notice %}}
-
-{{% /tab %}}
 {{% tab "標高" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./960px-Namibia_Topography.png" width="70%" />
@@ -92,8 +83,54 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% /notice %}}
 
 {{% /tab %}}
+{{% tab "草原の割合" %}}
+
+{{% notice tip %}}
+緑の地域はほぼ全体が、黄緑の地域は20%くらい生えてそう。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./glasscover.png" width="70%" />
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption area-description">
+    <h4 class="section-title">植生</h4>
+    <ul class="rule-list">
+        <li>Colophospermum mopaneはナミビア北西部にしか生えていない{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
+        <li>いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Colophospermum mopane" %}}
+{{% notice tip %}}
+なんか低いところかわ分岐してうわーってなっている感じ{{% ex "https://maps.app.goo.gl/rTLBHMZ72bBJ6jtQA" "https://maps.app.goo.gl/uaXteXJv338qhz6V8" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Colophospermum mopane in Namibia" height="480" width="640"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercé">Roger Culos</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Link</a></p>
+</div>
+
+
+{{% /tab %}}
+{{% tab "Hyphaene petersiana" %}}
+{{% notice tip %}}
+いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<img src="bakuhatsu.jpg" width="300px">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
 
 
 <div class="main-desciption area-description">
