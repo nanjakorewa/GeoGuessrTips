@@ -36,7 +36,7 @@ sc: [
 {{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/cXB4wHF2BV3CrhbY7" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./elephants_at_etosha_national_2.jpg" width="95%">
+<img src="./elephants_at_etosha_national_2.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -70,9 +70,10 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
         <li>標高は地域によって異なり海岸低地を超えると山がちなエリアになる
             <ul>
                 <li>海沿いのナミブ砂漠は非常に平坦{{% ex "https://maps.app.goo.gl/3wNp5ZycbqoAYjsB6" "https://maps.app.goo.gl/TyAex5xmWBB6fGzg9" "https://maps.app.goo.gl/vCRnybQwV77FmtaQ8" %}} </li>
-            <ul>
+            </ul>
         </li>
         <li>地面が草原で覆われている割合が地域によって異なる</li>
+        <li>最も重要な港であるWalvis Bayを中心に鉄道が走っている</li>
     </ul>
 </div>
 
@@ -98,18 +99,41 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 </div>
 
 {{% /tab %}}
+{{% tab "鉄道" %}}
+
+{{% notice tip %}}
+最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Namibia rail network map de.svg" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Own work</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">OpenStreetMap</a> geodata., <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h4 class="section-title">植生</h4>
     <ul class="rule-list">
+        <li>Pterocarpus angolensis（アンゴラカリン）は北東のカプリビ回廊沿いに自生する</li>
         <li>Colophospermum mopaneはナミビア北西部にしか生えていない{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
         <li>いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
-        <li>Pterocarpus angolensis（アンゴラカリン）は北東のカプリビ回廊沿いに自生する</li>
+        <li>Aloe dichotomaは{{% goto "../south-africa/" "南アフリカ" %}}～ナミビア南西部にしか生えていない</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Pterocarpus angolensis" %}}
+{{% notice tip %}}
+アンゴラカリンは北東のカプリビ回廊沿いの記録が多い{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=340243" "pterocarpus angolensis - iNaturalist" %}}。丸く茶色い実のカラのようなものが観察できる{{% ex "https://maps.app.goo.gl/vEj3dixAU24EGBL97" "https://maps.app.goo.gl/M1jJozJ3jbBXdjSb6" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1749047427382!6m8!1m7!1sg9MuciuFgXQ55f4YluD14g!2m2!1d-18.05073644654441!2d20.93175947601597!3f192.49570894906978!4f12.245689334005007!5f1.7262685934902433" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
 {{% tab "Colophospermum mopane" %}}
 {{% notice tip %}}
 なんか低いところかわ分岐してうわーってなっている感じ{{% ex "https://maps.app.goo.gl/rTLBHMZ72bBJ6jtQA" "https://maps.app.goo.gl/uaXteXJv338qhz6V8" %}}。
@@ -134,14 +158,23 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 </div>
 
 {{% /tab %}}
-{{% tab "Pterocarpus angolensis" %}}
+{{% tab "Aloe dichotoma" %}}
 {{% notice tip %}}
-アンゴラカリンは北東のカプリビ回廊沿いの記録が多い{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=340243" "pterocarpus angolensis - iNaturalist" %}}。丸く茶色い実のカラのようなものが観察できる{{% ex "https://maps.app.goo.gl/vEj3dixAU24EGBL97" %}}。
+シルエットから分かりやすいが、生えいている国境沿いの道路などに道が少ないため見かけることは少ないかも{{% ex "https://maps.app.goo.gl/4K658G6hPQfKiiJo8" %}}。
 {{% /notice %}}
 
 
 <div class="googlemap-if unclickable no-margin">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1749047427382!6m8!1m7!1sg9MuciuFgXQ55f4YluD14g!2m2!1d-18.05073644654441!2d20.93175947601597!3f192.49570894906978!4f12.245689334005007!5f1.7262685934902433" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<img src="rock_formations_rocks_dichotoma.jpg" width="80%">
+</div>
+
+{{% notice tip %}}
+分布エリアは下図の水色点エリアとなる（CC0画像）{{% ref "https://www.inaturalist.org/observations/242135414" "Aloidendron dichotomum - iNaturalist" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<img src="the_tree_aloes_southern.jpg" width="60%">
 </div>
 
 {{% /tab %}}
@@ -151,11 +184,23 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>ナミビア共和国で最大の港であるWalvis Bayでは鉄道貨物やコンテナターミナルが見える</li>
         <li>ナミビア最高峰であるBrandberg山が見える地域がある</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Walvis Bay" %}}
+
+{{% notice tip %}}
+ウォルビスベイは、ナミビア共和国で最大の港{{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}。1993年8月、アパルトヘイト終結のタイミングでナミビアへ編入された。{{% goto "../botswana/" "ボツワナ" %}}やザンビアの他の地域への貨物の輸出入にも活用されるため、この町を起点にして鉄道が走っている。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/string_bass_dave/54459068109/in/photolist-2n3bKG9-SKJuBP-smEc4A-soNCTE-soNw8A-2oPSfRy-D6JPJb-2d7z5Ge-29rUr1o-xXGhzV-dGhfW3-2iF8wCC-s5BDsR-2n3dpMG-2n39ABW-2krWt1m-s7nkUm-s7kpP9-soNazG-MKwiyV-V7m9pi-s7kTSq-rs8NcH-s7wcig-soM5Ff-2nxXuYt-DtoCbe-QBpdwq-E5RtDx-rs9t2X-s7k9Ns-FYYqQk-smFciS-soLARs-2oPar4e-3HSNzN-smG2kd-2qYmXCa-5JkDpj-2m6GmBk-F9sDj7-F4YKZ2-CVGCMi-2ifvwBx-soWVZv-fTDG86-s5CsSF-2i1y8YN-Db8yGD-soVqtV" title="Walvis Bay Harbor"><img src="https://live.staticflickr.com/65535/54459068109_62e365dd29_c.jpg" width="800" height="447" alt="Walvis Bay Harbor"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
 {{% tab "Brandberg" %}}
 
 {{% notice tip %}}
