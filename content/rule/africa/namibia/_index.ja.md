@@ -101,6 +101,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
     <ul class="rule-list">
         <li>Colophospermum mopaneはナミビア北西部にしか生えていない{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
         <li>いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
+        <li>Pterocarpus angolensis（アンゴラカリン）は北東のカプリビ回廊沿いに自生する</li>
     </ul>
 </div>
 
@@ -128,6 +129,16 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 <img src="bakuhatsu.jpg" width="300px">
 </div>
 
+{{% /tab %}}
+{{% tab "Pterocarpus angolensis" %}}
+{{% notice tip %}}
+アンゴラカリンは北東のカプリビ回廊沿いの記録が多い{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=340243" "pterocarpus angolensis - iNaturalist" %}}。丸く茶色い実のカラのようなものが観察できる{{% ex "https://maps.app.goo.gl/vEj3dixAU24EGBL97" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1749047427382!6m8!1m7!1sg9MuciuFgXQ55f4YluD14g!2m2!1d-18.05073644654441!2d20.93175947601597!3f192.49570894906978!4f12.245689334005007!5f1.7262685934902433" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
