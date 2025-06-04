@@ -67,7 +67,11 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <h4 class="section-title">景色</h4>
     <ul class="rule-list">
-        <li>標高は地域によって異なり海岸低地を超えると山がちなエリアになる</li>
+        <li>標高は地域によって異なり海岸低地を超えると山がちなエリアになる
+            <ul>
+                <li>海沿いのナミブ砂漠は非常に平坦{{% ex "https://maps.app.goo.gl/3wNp5ZycbqoAYjsB6" "https://maps.app.goo.gl/TyAex5xmWBB6fGzg9" "https://maps.app.goo.gl/vCRnybQwV77FmtaQ8" %}} </li>
+            <ul>
+        </li>
         <li>地面が草原で覆われている割合が地域によって異なる</li>
     </ul>
 </div>
