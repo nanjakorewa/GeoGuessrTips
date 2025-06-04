@@ -90,7 +90,12 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
                 <li><span style="color:#DAD6CC">■</span>川沿いであり沖積層のような白っぽい地面</li>
             </ul>
         </li>
-        <li>最も重要な港であるWalvis Bayを中心に鉄道が走っている</li>
+        <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitzを起点にコンテナを輸送するために鉄道が走っている
+            <ul>
+                <li>Walvis Bay{{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}}（線路を走っている箇所の土が盛り上がっている）</li>
+                <li>Lüderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -119,7 +124,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 {{% tab "鉄道" %}}
 
 {{% notice tip %}}
-最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。
+最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。アパルトヘイトが終了しWalvis Bayが編入されるまでナミビア沿岸で大型船が寄れる唯一の港だったLüderitzにもコンテナを輸送するための鉄道が走っていると考えると、歴史とともに頭に入りやすい（かも）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -210,7 +215,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 {{% tab "Walvis Bay" %}}
 
 {{% notice tip %}}
-ウォルビスベイは、ナミビア共和国で最大の港{{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}。1993年8月、アパルトヘイト終結のタイミングでナミビアへ編入された。{{% goto "../botswana/" "ボツワナ" %}}やザンビアの他の地域への貨物の輸出入にも活用されるため、この町を起点にして鉄道が走っている。
+ウォルビスベイは、ナミビア共和国で最大の港{{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}。1993年8月、アパルトヘイト終結のタイミングでナミビアへ編入された。{{% goto "../botswana/" "ボツワナ" %}}やザンビアの他の地域への貨物の輸出入にも活用されるため、この町を起点にして鉄道が走っている。コンテナターミナル{{% ex "https://maps.app.goo.gl/mEkwvUgq4LJtyqMz6" %}}や運送系の会社の拠点{{% ex "https://maps.app.goo.gl/muNbSowLwg73VmUj8" "https://maps.app.goo.gl/9aDDUT9gY8Kq1xZcA" %}}がよく見つかる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
