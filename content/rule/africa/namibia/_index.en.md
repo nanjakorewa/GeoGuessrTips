@@ -73,24 +73,26 @@ In places like Swakopmund, European-style architecture influenced by {{% goto ".
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <h4 class="section-title">Scenery</h4>
     <ul class="rule-list">
-        <li>Elevation varies by region, with mountainous areas beyond the coastal lowlands
+        <li>Elevation varies by region, and the area becomes mountainous beyond the coastal lowlands.
             <ul>
-                <li>The coastal Namib Desert is extremely flat{{% ex "https://maps.app.goo.gl/3wNp5ZycbqoAYjsB6" "https://maps.app.goo.gl/TyAex5xmWBB6fGzg9" "https://maps.app.goo.gl/vCRnybQwV77FmtaQ8" %}} </li>
+                <li>The Namib Desert along the coast is extremely flat {{% ex "https://maps.app.goo.gl/3wNp5ZycbqoAYjsB6" "https://maps.app.goo.gl/TyAex5xmWBB6fGzg9" "https://maps.app.goo.gl/vCRnybQwV77FmtaQ8" %}}</li>
             </ul>
         </li>
-        <li>The amount of vegetation varies by region{{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
+        <li>The proportion of tree and grass coverage varies by region {{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
             <ul>
-                <li><span style="color:#147F09">■</span> Areas where over 80% is covered{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#E8C15B">■</span> Areas where trees grow but not fully covered by grass</li>
-                <li><span style="color:#6A8418">■</span> Nama Karoo areas, characterized by shrubs and small grass, with no large trees</li>
-                <li><span style="color:#917716">■</span> Namib Desert</li>
-                <li><span style="color:#DAD6CC">■</span> River areas with white</li>
+                <li><span style="color:#147F09">■</span> Areas with more than 80% coverage {{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#E8C15B">■</span> Areas where trees grow but are not covered by grasslands</li>
+                <li><span style="color:#6A8418">■</span> Areas classified as Nama Karoo where only shrubs and small grasses grow, without large trees or grass coverage</li>
+                <li><span style="color:#917716">■</span> Namib Desert {{% ex "https://maps.app.goo.gl/7mY8qTtKqTZHhhK27" %}}</li>
+                <li><span style="color:#DAD6CC">■</span> Light-colored soil areas {{% ex "https://maps.app.goo.gl/gUK78xpuvEiBgkQn8" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
+                <li><span style="color:red">■</span> Inside the frame: areas with slightly reddish soil {{% ex "https://maps.app.goo.gl/7SxZvsg5oGfu2ftB7" "https://maps.app.goo.gl/kWpcRdoVNW48ub2aA" %}}</li>
+                <li><span style="color:#9D3500">■</span> Areas with dark brownish soil {{% ex "https://maps.app.goo.gl/QuFYYeY8U3TnWDSE9" "https://maps.app.goo.gl/ZSL9nh6AGv1iay5G7" %}}</li>
             </ul>
         </li>
-        <li>Railroads are used to transport containers from the most important port, Walvis Bay, and Lüderitz, which was the only major port until the end of apartheid
+        <li>Railways run from the most important port, Walvis Bay, and Lüderitz—the only port until the end of apartheid—for container transport.
             <ul>
-                <li>Walvis Bay{{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}} (tracks raise the ground slightly)</li>
-                <li>Lüderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
+                <li>Walvis Bay {{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}} (Soil is elevated where the track runs)</li>
+                <li>Lüderitz {{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -103,14 +105,14 @@ In places like Swakopmund, European-style architecture influenced by {{% goto ".
 </div>
 
 {{% notice tip %}}
-Beyond the coastal lowland area that makes up the Namib Desert lies the Great Escarpment, a mountainous zone where elevation increases by about 1000 meters. In central Namibia and elevated areas, rugged rocky hills can be seen.
+Beyond the coastal lowlands of the Namib Desert lies the mountainous Great Escarpment area, where elevation increases by about 1000 meters. In central Namibia and elevated areas, rugged rocky mountains are also visible.
 {{% /notice %}}
 
 {{% /tab %}}
 {{% tab "Vegetation" %}}
 
 {{% notice tip %}}
-Green areas are over 80% covered, while light green areas show more exposed ground.
+Green areas indicate over 80% coverage, while light green areas show visible ground.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -121,7 +123,7 @@ Green areas are over 80% covered, while light green areas show more exposed grou
 {{% tab "Railways" %}}
 
 {{% notice tip %}}
-Railroads center around Walvis Bay, the most important port (tracks shown in black-and-white lines on the island map). Until the end of apartheid and the incorporation of Walvis Bay, Lüderitz was the only port along Namibia’s coast capable of handling large ships. Thinking of this alongside history can make it easier to remember.
+Railways run primarily from the most important port, Walvis Bay (railway lines appear as black and white lines on the island map). Until Walvis Bay was incorporated after the end of apartheid, Lüderitz was the only port along the Namibian coast that could accommodate large ships. Thinking of this in historical context might make it easier to remember.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -130,6 +132,7 @@ Railroads center around Walvis Bay, the most important port (tracks shown in bla
 
 {{% /tab %}}
 {{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h4 class="section-title">Vegetation</h4>
@@ -196,8 +199,9 @@ The distribution area is shown in the light blue dot region in the image below (
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>At Walvis Bay, the largest port in the Republic of Namibia, you can see freight trains and container terminals</li>
-        <li>There are regions where you can see Brandberg Mountain, Namibia’s highest peak</li>
+        <li>In Walvis Bay, the largest port in the Republic of Namibia, you can see railway freight and container terminals.</li>
+        <li>There is a road to a plain surrounded by tall red sand dunes called Sossusvlei {{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}</li>
+        <li>There are areas where you can see Brandberg, the highest mountain in Namibia.</li>
     </ul>
 </div>
 
@@ -205,7 +209,7 @@ The distribution area is shown in the light blue dot region in the image below (
 {{% tab "Walvis Bay" %}}
 
 {{% notice tip %}}
-Walvis Bay is the largest port in Namibia{{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}. It was incorporated into Namibia in August 1993, coinciding with the end of apartheid. It serves as a hub for import and export of goods to {{% goto "../botswana/" "Botswana" %}}, Zambia, and other regions, which is why railroads extend from this town. You can often spot container terminals{{% ex "https://maps.app.goo.gl/mEkwvUgq4LJtyqMz6" %}} and logistics companies{{% ex "https://maps.app.goo.gl/muNbSowLwg73VmUj8" "https://maps.app.goo.gl/9aDDUT9gY8Kq1xZcA" %}}.
+Walvis Bay is the largest port in the Republic of Namibia {{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}. It was incorporated into Namibia in August 1993, around the end of apartheid. It serves as a key export/import hub for regions like {{% goto "../botswana/" "Botswana" %}} and Zambia, and railways start from this town. You can often find container terminals {{% ex "https://maps.app.goo.gl/mEkwvUgq4LJtyqMz6" %}} and transportation company bases {{% ex "https://maps.app.goo.gl/muNbSowLwg73VmUj8" "https://maps.app.goo.gl/9aDDUT9gY8Kq1xZcA" %}} here.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -213,10 +217,21 @@ Walvis Bay is the largest port in Namibia{{% ex "https://maps.app.goo.gl/GcmWUW4
 </div>
 
 {{% /tab %}}
+{{% tab "Sossusvlei" %}}
+
+{{% notice tip %}}
+There is a road leading to a plain surrounded by tall red sand dunes called Sossusvlei {{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}, which is a popular tourist destination in Namibia {{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}. Satellite images show that only the road to Sossusvlei is a flat plain, while the surroundings are dunes.
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" />
+</div>
+
+{{% /tab %}}
 {{% tab "Brandberg" %}}
 
 {{% notice tip %}}
-Located in northern Namibia, the vast flat-topped Brandberg Mountain is a prominent feature{{% ex "https://maps.app.goo.gl/jfWCVCCYZTbECnQ79" "https://maps.app.goo.gl/VuWPNFnpncTx3VAx7" %}}.
+Located in northern Namibia, you can see a flat-topped and massive mountain {{% ex "https://maps.app.goo.gl/jfWCVCCYZTbECnQ79" "https://maps.app.goo.gl/VuWPNFnpncTx3VAx7" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
