@@ -2,7 +2,7 @@
 title: "ナミビア"
 title_suffix: "（ナミビア共和国）"
 date: 2023-09-26
-lastmod: 2023-10-23
+lastmod: 2025-06-04
 weight: 2000
 draft: false
 keywords: [""]
@@ -23,6 +23,7 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>車は<span class="quiz">左側</span>通行</li>
+        <li>公用語は英語</li>
         <li>一般の乗用車は<span class="quiz">黄</span>色のナンバープレート</li>
         <li>ドイツ語由来の通り名が見つかる</li>
         <li>ドメインは<span class="quiz">.na</span></li>
