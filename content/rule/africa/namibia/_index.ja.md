@@ -85,10 +85,10 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
         <li>木や草の生える割合が地域によって異なる{{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
             <ul>
                 <li><span style="color:#147F09">■</span>80%以上覆われている地域{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#E8C15B">■</span>木は生えるが草原では覆われない地域{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#6A8418">■</span>Nama Karooという分類のエリアであり低木や小型の草のみ生え大型の木は生えない{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#917716">■</span>ナミブ砂漠</li>
-                <li><span style="color:#DAD6CC">■</span>川沿いであり沖積層のような白っぽい地面</li>
+                <li><span style="color:#E8C15B">■</span>木は生えるが草原では覆われない地域</li>
+                <li><span style="color:#6A8418">■</span>Nama Karooという分類のエリアであり低木や小型の草のみ生え大型の木は生えない</li>
+                <li><span style="color:#917716">■</span>ナミブ砂漠{{% ex "https://maps.app.goo.gl/7mY8qTtKqTZHhhK27" %}}</li>
+                <li><span style="color:#DAD6CC">■</span>川沿いであり沖積層のような白っぽい地面{{% ex "https://maps.app.goo.gl/3wqGkJgGYYiTddhA6" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
             </ul>
         </li>
         <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitzを起点にコンテナを輸送するために鉄道が走っている
@@ -172,7 +172,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 {{% /tab %}}
 {{% tab "Hyphaene petersiana" %}}
 {{% notice tip %}}
-いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}。
+いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/VvtaAJbPQEuqP6mW6" "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}。
 {{% /notice %}}
 
 
@@ -208,6 +208,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ナミビア共和国で最大の港であるWalvis Bayでは鉄道貨物やコンテナターミナルが見える</li>
+        <li>Sossusvleiと呼ばれる高い赤い砂丘に囲まれた平野への道がある{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}</li>
         <li>ナミビア最高峰であるBrandberg山が見える地域がある</li>
     </ul>
 </div>
@@ -221,6 +222,17 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 
 <div class="googlemap-if unclickable no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/string_bass_dave/54459068109/in/photolist-2n3bKG9-SKJuBP-smEc4A-soNCTE-soNw8A-2oPSfRy-D6JPJb-2d7z5Ge-29rUr1o-xXGhzV-dGhfW3-2iF8wCC-s5BDsR-2n3dpMG-2n39ABW-2krWt1m-s7nkUm-s7kpP9-soNazG-MKwiyV-V7m9pi-s7kTSq-rs8NcH-s7wcig-soM5Ff-2nxXuYt-DtoCbe-QBpdwq-E5RtDx-rs9t2X-s7k9Ns-FYYqQk-smFciS-soLARs-2oPar4e-3HSNzN-smG2kd-2qYmXCa-5JkDpj-2m6GmBk-F9sDj7-F4YKZ2-CVGCMi-2ifvwBx-soWVZv-fTDG86-s5CsSF-2i1y8YN-Db8yGD-soVqtV" title="Walvis Bay Harbor"><img src="https://live.staticflickr.com/65535/54459068109_62e365dd29_c.jpg" width="800" height="447" alt="Walvis Bay Harbor"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "Sossusvlei" %}}
+
+{{% notice tip %}}
+Sossusvleiと呼ばれる高い赤い砂丘に囲まれた平野への道があり{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}、ナミビアの観光名所となっている{{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}。衛星写真を見るとSossusvleiへの道だけ平野になっており、周りが砂丘になっていることがわかる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" />
 </div>
 
 {{% /tab %}}
