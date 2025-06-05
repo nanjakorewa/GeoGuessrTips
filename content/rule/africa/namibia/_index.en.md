@@ -16,6 +16,7 @@ sc_title: "Frequently Confused Regions"
 sc: [
     ["../south-africa/", "South Africa"],
     ["../botswana/", "Botswana"],
+    ["../../middle_east/oman/", "Oman"],
     ]
 ---
 

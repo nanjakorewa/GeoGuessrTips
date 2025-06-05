@@ -16,6 +16,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../south-africa/", "南アフリカ"],
     ["../botswana/", "ボツワナ"],
+    ["../../middle_east/oman/", "オマーン"],
     ]
 ---
 
