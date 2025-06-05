@@ -81,10 +81,10 @@ In places like Swakopmund, European-style architecture influenced by {{% goto ".
         <li>The amount of vegetation varies by region{{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
             <ul>
                 <li><span style="color:#147F09">■</span> Areas where over 80% is covered{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#E8C15B">■</span> Areas where trees grow but not fully covered by grass{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#6A8418">■</span> Nama Karoo areas, characterized by shrubs and small grass, with no large trees{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#E8C15B">■</span> Areas where trees grow but not fully covered by grass</li>
+                <li><span style="color:#6A8418">■</span> Nama Karoo areas, characterized by shrubs and small grass, with no large trees</li>
                 <li><span style="color:#917716">■</span> Namib Desert</li>
-                <li><span style="color:#DAD6CC">■</span> River areas with white, alluvial soil</li>
+                <li><span style="color:#DAD6CC">■</span> River areas with white</li>
             </ul>
         </li>
         <li>Railroads are used to transport containers from the most important port, Walvis Bay, and Lüderitz, which was the only major port until the end of apartheid

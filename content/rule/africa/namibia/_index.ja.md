@@ -88,7 +88,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
                 <li><span style="color:#E8C15B">■</span>木は生えるが草原では覆われない地域</li>
                 <li><span style="color:#6A8418">■</span>Nama Karooという分類のエリアであり低木や小型の草のみ生え大型の木は生えない</li>
                 <li><span style="color:#917716">■</span>ナミブ砂漠{{% ex "https://maps.app.goo.gl/7mY8qTtKqTZHhhK27" %}}</li>
-                <li><span style="color:#DAD6CC">■</span>川沿いであり沖積層のような白っぽい地面{{% ex "https://maps.app.goo.gl/3wqGkJgGYYiTddhA6" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
+                <li><span style="color:#DAD6CC">■</span>白っぽい地面{{% ex "https://maps.app.goo.gl/gUK78xpuvEiBgkQn8" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
             </ul>
         </li>
         <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitzを起点にコンテナを輸送するために鉄道が走っている
