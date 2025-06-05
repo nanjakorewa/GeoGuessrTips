@@ -16,6 +16,7 @@ is_has_many_trekker: false
 flag_height: "380px"
 sc_title: "間違えやすい地域"
 sc: [
+    ["../../africa/namibia/", "ナミビア"],
     ["../united_arab_emirates/", "アラブ首長国連邦"],
     ["../../asia/kazakhstan/", "カザフスタン"],
     ["../israel/", "イスラエル"],
