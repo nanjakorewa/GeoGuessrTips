@@ -186,7 +186,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 {{% /tab %}}
 {{% tab "Aloe dichotoma" %}}
 {{% notice tip %}}
-シルエットから分かりやすいが、生えいている国境沿いの道路などに道が少ないため見かけることは少ないかも{{% ex "https://maps.app.goo.gl/4K658G6hPQfKiiJo8" %}}。
+南アフリカ北西～ナミビア南西部{{% ref "https://www.inaturalist.org/observations?taxon_id=527446" "オオジニシキ - iNaturalist" %}}。シルエットから分かりやすいが、生えいている国境沿いに道が少ないため見かけることは少ないかも{{% ex "https://maps.app.goo.gl/4K658G6hPQfKiiJo8" %}}。
 {{% /notice %}}
 
 
@@ -211,7 +211,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>ナミビア共和国で最大の港であるWalvis Bayでは鉄道貨物やコンテナターミナルが見える</li>
-        <li>Sossusvleiと呼ばれる高い赤い砂丘に囲まれた平野への道がある{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}</li>
+        <li>Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれた平野への道がある{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}</li>
         <li>ナミビア最高峰であるBrandberg山が見える地域がある</li>
     </ul>
 </div>
@@ -231,7 +231,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 {{% tab "Sossusvlei" %}}
 
 {{% notice tip %}}
-Sossusvleiと呼ばれる高い赤い砂丘に囲まれた平野への道があり{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}、ナミビアの観光名所となっている{{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}。衛星写真を見るとSossusvleiへの道だけ平野になっており、周りが砂丘になっていることがわかる。
+Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれた平野への道がある{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}{{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}。衛星写真を見るとSossusvleiへの道だけ平野になっており、周りが砂丘になっていることがわかる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
