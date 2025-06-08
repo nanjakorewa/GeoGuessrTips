@@ -3,7 +3,7 @@ title: "ナミビア"
 title_suffix: "（ナミビア共和国）"
 date: 2023-09-26
 lastmod: 2025-06-04
-weight: 2000
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]
