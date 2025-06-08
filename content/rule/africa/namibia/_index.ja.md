@@ -71,6 +71,13 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 </div>
 
 
+{{% notice tip %}}
+Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYSMYhB58" %}}かおおきなぼかしが映っている{{% ex "https://maps.app.goo.gl/RosSU1j798Jowdhp9" %}}。{{% goto "../senegal/" "セネガル" %}}や{{% goto "../../middle_east/oman/" "オマーン" %}}と間違えないように注意。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1749386178763!6m8!1m7!1sOOCV-xBLiy53cHjU1_WGEw!2m2!1d-19.26354072670183!2d17.70210560998813!3f174.30194864447998!4f2.562978388532102!5f0.4908833535131307" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
 
 {{% /tab %}}
 {{% /tabs %}}
@@ -93,12 +100,6 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
                 <li><span style="color:#DAD6CC">■</span>白っぽい地面{{% ex "https://maps.app.goo.gl/gUK78xpuvEiBgkQn8" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
                 <li><span style="color:red">■</span>枠内部：土がすこし赤っぽいエリア{{% ex "https://maps.app.goo.gl/7SxZvsg5oGfu2ftB7" "https://maps.app.goo.gl/kWpcRdoVNW48ub2aA" %}}</li>
                 <li><span style="color:#9D3500">■</span>土がこげ茶色っぽいエリア{{% ex "https://maps.app.goo.gl/QuFYYeY8U3TnWDSE9" "https://maps.app.goo.gl/ZSL9nh6AGv1iay5G7" %}}</li>
-            </ul>
-        </li>
-        <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitz。この２か所を起点にコンテナを輸送するための鉄道が走っている{{% ref "https://atlasofnamibia.online/chapter-10/transport" "Atlas of Namibia - Transport" %}}。
-            <ul>
-                <li>Walvis Bay{{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}}（線路を走っている箇所の土が盛り上がっている）</li>
-                <li>Lüderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -126,6 +127,28 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 </div>
 
 {{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">産業</h4>
+    <ul class="rule-list">
+        <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitz。この２か所を起点にコンテナを輸送するための鉄道が走っている{{% ref "https://atlasofnamibia.online/chapter-10/transport" "Atlas of Namibia - Transport" %}}。
+            <ul>
+                <li>Walvis Bay{{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}}（線路を走っている箇所の土が盛り上がっている）</li>
+                <li>Lüderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
+            </ul>
+        </li>
+        <li>北西部の山脈では銅・亜鉛・ウラン・ゴールドなどさまざまな鉱山が稼働しており、たまに看板がみつかる{{% ref "https://atlasofnamibia.online/chapter-2/minerals" "Atlas of Namibia - Minerals" %}}
+            <ul>
+                <li>亜鉛{{% ex "https://maps.app.goo.gl/ZntmdXSFznKLY7L9A" %}}</li>
+                <li>金{{% ex "https://maps.app.goo.gl/NFoG1HhX18a1cbi37" "https://maps.app.goo.gl/HLvnyTJ3rMs6ZWbe8" %}}</li>
+                <li>錫{{% ex "https://maps.app.goo.gl/bjuq9ZZCV8jW8YSTA" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
 {{% tab "鉄道" %}}
 
 {{% notice tip %}}
@@ -134,6 +157,17 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 
 <div class="googlemap-if unclickable no-margin">
 <p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Namibia rail network map de.svg" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Own work</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">OpenStreetMap</a> geodata., <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "鉱業" %}}
+
+{{% notice tip %}}
+銅・亜鉛・ウラン・ゴールドなどさまざまなものが産出するが、これらの鉱山はほぼ首都Windhoekより北の西部の山脈にある{{% ref "https://atlasofnamibia.online/chapter-2/minerals" "Atlas of Namibia - Minerals" %}}。道端に鉱山の看板が見つかるかも{{% ex "https://maps.app.goo.gl/ZntmdXSFznKLY7L9A" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p style="width:100%"><img src="Atlas_ch_02_21.jpg" width="80%"></p><p>By <a href="https://atlasofnamibia.online/chapter-2/minerals" title="User:Htonl">Atlas of Namibia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0">CC BY 4.0</a>, <a href="https://atlasofnamibia.online/chapter-2/minerals">Link</a></p>
 </div>
 
 {{% /tab %}}
