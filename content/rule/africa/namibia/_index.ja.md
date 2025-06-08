@@ -15,6 +15,7 @@ plonkit: false
 sc_title: "間違えやすい地域"
 sc: [
     ["../south-africa/", "南アフリカ"],
+    ["../senegal/", "セネガル"],
     ["../botswana/", "ボツワナ"],
     ["../../middle_east/oman/", "オマーン"],
     ]

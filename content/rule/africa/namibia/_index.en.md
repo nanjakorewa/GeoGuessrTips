@@ -17,6 +17,7 @@ sc: [
     ["../south-africa/", "South Africa"],
     ["../botswana/", "Botswana"],
     ["../../middle_east/oman/", "Oman"],
+    ["../senegal/", "Senegal"],
     ]
 ---
 

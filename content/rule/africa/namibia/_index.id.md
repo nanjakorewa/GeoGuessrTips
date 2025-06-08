@@ -16,6 +16,7 @@ sc_title: "Wilayah yang Sering Tertukar"
 sc: [
     ["../south-africa/", "Afrika Selatan"],
     ["../botswana/", "Botswana"],
+    ["../senegal/", "Senegal"],
     ]
 ---
 
