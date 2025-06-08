@@ -36,7 +36,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
-{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}}であり左側通行。
+{{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/MXqyx7DfD1hWagAR9" %}}であり左側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./elephants_at_etosha_national_2.jpg" width="90%">
@@ -49,10 +49,10 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% /lb %}}
 
 
-{{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。{{% goto "../../cs_america/chile/" "チリのアタカマ砂漠" %}}と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
+{{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。何種類か、ナミビアでは見かけないボラードも見つかる{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}。ナミブ砂漠は{{% goto "../../cs_america/chile/" "チリ" %}}のアタカマ砂漠と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road_ahead_desert_never.jpg" width="95%">
+<img src="./c34_namibia_png.png" width="95%">
 </div>
 
 
@@ -95,7 +95,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
                 <li><span style="color:#9D3500">■</span>土がこげ茶色っぽいエリア{{% ex "https://maps.app.goo.gl/QuFYYeY8U3TnWDSE9" "https://maps.app.goo.gl/ZSL9nh6AGv1iay5G7" %}}</li>
             </ul>
         </li>
-        <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitzを起点にコンテナを輸送するために鉄道が走っている
+        <li>最も重要な港であるWalvis Bay、アパルトヘイト終了までの唯一の港だったLüderitz。この２か所を起点にコンテナを輸送するための鉄道が走っている{{% ref "https://atlasofnamibia.online/chapter-10/transport" "Atlas of Namibia - Transport" %}}。
             <ul>
                 <li>Walvis Bay{{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}}（線路を走っている箇所の土が盛り上がっている）</li>
                 <li>Lüderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
@@ -129,7 +129,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 {{% tab "鉄道" %}}
 
 {{% notice tip %}}
-最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。アパルトヘイトが終了しWalvis Bayが編入されるまでナミビア沿岸で大型船が寄れる唯一の港だったLüderitzにもコンテナを輸送するための鉄道が走っていると考えると、歴史とともに頭に入りやすい（かも）。
+最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。また、アパルトヘイトが終了しWalvis Bayが編入されるまでナミビア沿岸で大型船が寄れる港はüderitzだけだった。そのため、このふたつにはコンテナを輸送するための鉄道が走っていると考えると歴史とともに頭に入りやすい（かも）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -146,6 +146,7 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
         <li>Colophospermum mopaneはナミビア北西部にしか生えていない{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
         <li>いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
         <li>Aloe dichotomaは{{% goto "../south-africa/" "南アフリカ" %}}～ナミビア南西部にしか生えていない</li>
+        <li>Welwitschiaは北西部にしか生えていないが道端で見つかるかは分からない{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=53818" "Welwitschia" %}}</li>
     </ul>
 </div>
 
@@ -202,6 +203,17 @@ Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響�
 
 <div class="googlemap-if unclickable no-margin">
 <img src="the_tree_aloes_southern.jpg" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "Welwitschia" %}}
+{{% notice tip %}}
+アフリカのアンゴラとナミビアのナミブ砂漠にか分布していない種で、記録のほとんどは海岸から80km圏内で見つかっている{{% ref "https://www.krugerpark.co.za/africa_welwitschia.html" "Welwitschia - Kruger National Park" %}}。見かけたらレア。固有種は他にも多く存在する{{% ref "https://atlasofnamibia.online/chapter-6/plant-richness-endemism-floristic-groups" "Atlas of Namibia" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<img src="welwitschia_mirabillis_namibia_49479.jpg" width="60%">
 </div>
 
 {{% /tab %}}
