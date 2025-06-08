@@ -49,7 +49,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% /lb %}}
 
 
-{{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。何種類か、ナミビアでは見かけないボラードも見つかる{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}。ナミブ砂漠は{{% goto "../../cs_america/chile/" "チリ" %}}のアタカマ砂漠と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
+{{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。何種類か、ナミビア以外では見かけないボラードも見つかる{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}。ナミブ砂漠は{{% goto "../../cs_america/chile/" "チリ" %}}のアタカマ砂漠と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <img src="./c34_namibia_png.png" width="95%">
