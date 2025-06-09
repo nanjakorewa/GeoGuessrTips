@@ -198,7 +198,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /tab %}}
 {{% tab "Colophospermum mopane" %}}
 {{% notice tip %}}
-なんか低いところかわ分岐してうわーってなっている感じ{{% ex "https://maps.app.goo.gl/rTLBHMZ72bBJ6jtQA" "https://maps.app.goo.gl/uaXteXJv338qhz6V8" %}}。
+なんか低いところから分岐して広がっている感じ{{% ex "https://maps.app.goo.gl/rTLBHMZ72bBJ6jtQA" "https://maps.app.goo.gl/uaXteXJv338qhz6V8" %}}。
 {{% /notice %}}
 
 
@@ -242,7 +242,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /tab %}}
 {{% tab "Welwitschia" %}}
 {{% notice tip %}}
-アフリカのアンゴラとナミビアのナミブ砂漠にか分布していない種で、記録のほとんどは海岸から80km圏内で見つかっている{{% ref "https://www.krugerpark.co.za/africa_welwitschia.html" "Welwitschia - Kruger National Park" %}}。見かけたらレア。固有種は他にも多く存在する{{% ref "https://atlasofnamibia.online/chapter-6/plant-richness-endemism-floristic-groups" "Atlas of Namibia" %}}。
+アフリカのアンゴラとナミビアのナミブ砂漠にしか分布していない種で、記録のほとんどは海岸から80km圏内で見つかっている{{% ref "https://www.krugerpark.co.za/africa_welwitschia.html" "Welwitschia - Kruger National Park" %}}。見かけたらレア。固有種は他にも多く存在する{{% ref "https://atlasofnamibia.online/chapter-6/plant-richness-endemism-floristic-groups" "Atlas of Namibia" %}}。
 {{% /notice %}}
 
 
