@@ -56,7 +56,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 </div>
 
 
-{{% notice tip %}}{{% goto "../../europe/germany/" "ドイツ" %}}による植民地支配を経て、南アフリカ連邦の委任統治下になった。そのためドイツ語の響きがある通り名を見かける{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}。
+{{% notice tip %}}{{% goto "../../europe/germany/" "ドイツ" %}}による植民地支配を経て、南アフリカ連邦の委任統治下になった。そのためドイツ語の響きがある通り名や地名を見かける{{% ex "https://maps.app.goo.gl/DB8Ufvba8oxpSPD27" "https://maps.app.goo.gl/h67rV7w6M5x6xECP7" "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraße.jpg" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
@@ -78,6 +78,14 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 <iframe src="https://www.google.com/maps/embed?pb=!4v1749386178763!6m8!1m7!1sOOCV-xBLiy53cHjU1_WGEw!2m2!1d-19.26354072670183!2d17.70210560998813!3f174.30194864447998!4f2.562978388532102!5f0.4908833535131307" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+
+{{% notice tip %}}
+道端や交差点に白いブロック状のボラードがある{{% ex "https://maps.app.goo.gl/r7xoj85wZQNYjDRT6" "https://maps.app.goo.gl/hBs25seAoguaWXk99" "https://maps.app.goo.gl/jMtudrSCMjbPx1QW9" %}}。海沿いのナミブ砂漠では白く薄い鉄製（？）のボラードが見つかる{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="loneliness_road_clouds_distance.jpg" width="90%">
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
