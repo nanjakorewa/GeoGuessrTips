@@ -36,7 +36,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-<span class="quiz">左側</span>通行であり車の後ろに<span class="quiz">黄</span>色ナンバープレートがある{{% ex "https://maps.app.goo.gl/CREz2ekXtuwWXDdo9" "https://maps.app.goo.gl/HAGMLSK3TnfMq4FH7" "https://maps.app.goo.gl/MA9yacNwrN2yVhj27" %}}。白いナンバープレートも多い。
+旧{{% goto "../../europe/united-kingdom/" "イギリス" %}}植民地だった影響が残っており、<span class="quiz">左側</span>通行かつ車の後ろに<span class="quiz">黄</span>色ナンバープレートが見つかる{{% ex "https://maps.app.goo.gl/CREz2ekXtuwWXDdo9" "https://maps.app.goo.gl/HAGMLSK3TnfMq4FH7" "https://maps.app.goo.gl/MA9yacNwrN2yVhj27" %}}。白いナンバープレートも多い。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="640px-Boda-Boda-Uganda.jpg" width="600px">
