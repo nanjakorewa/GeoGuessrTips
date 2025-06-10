@@ -140,7 +140,6 @@ Railways run primarily from the most important port, Walvis Bay (railway lines a
     <h4 class="section-title">Vegetation</h4>
     <ul class="rule-list">
         <li>Pterocarpus angolensis (commonly known as wild teak) grows naturally along the northeastern Caprivi Strip</li>
-        <li>Colophospermum mopane is only found in northwestern Namibia{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
         <li>The so-called "exploding palm" is distributed near northern Angola and along the northwestern coast{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
         <li>Aloe dichotoma grows only in {{% goto "../south-africa/" "South Africa" %}} and southwestern Namibia</li>
     </ul>
@@ -201,28 +200,28 @@ The distribution area is shown in the light blue dot region in the image below (
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>In Walvis Bay, the largest port in the Republic of Namibia, you can see railway freight and container terminals.</li>
-        <li>There is a road to a plain surrounded by tall red sand dunes called Sossusvlei {{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}</li>
+        <li>In Aussenkehr, you can find a townscape with distinctive thatched-roof houses.</li>
+        <li>There is a road leading to the tourist destination known as Sossusvlei, surrounded by tall red sand dunes {{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}.</li>
         <li>There are areas where you can see Brandberg, the highest mountain in Namibia.</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Walvis Bay" %}}
+{{% tab "Aussenkehr" %}}
 
 {{% notice tip %}}
-Walvis Bay is the largest port in the Republic of Namibia {{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}. It was incorporated into Namibia in August 1993, around the end of apartheid. It serves as a key export/import hub for regions like {{% goto "../botswana/" "Botswana" %}} and Zambia, and railways start from this town. You can often find container terminals {{% ex "https://maps.app.goo.gl/mEkwvUgq4LJtyqMz6" %}} and transportation company bases {{% ex "https://maps.app.goo.gl/muNbSowLwg73VmUj8" "https://maps.app.goo.gl/9aDDUT9gY8Kq1xZcA" %}} here.
+The townscape of Aussenkehr {{% ex "https://maps.app.goo.gl/Uis1DJfvpnx7CnAA9" "https://maps.app.goo.gl/anJRrxazzPb2J9ED7" %}}. Farms spread out in the surrounding area {{% ref "https://en.wikipedia.org/wiki/Aussenkehr" "Aussenkehr" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/string_bass_dave/54459068109/in/photolist-2n3bKG9-SKJuBP-smEc4A-soNCTE-soNw8A-2oPSfRy-D6JPJb-2d7z5Ge-29rUr1o-xXGhzV-dGhfW3-2iF8wCC-s5BDsR-2n3dpMG-2n39ABW-2krWt1m-s7nkUm-s7kpP9-soNazG-MKwiyV-V7m9pi-s7kTSq-rs8NcH-s7wcig-soM5Ff-2nxXuYt-DtoCbe-QBpdwq-E5RtDx-rs9t2X-s7k9Ns-FYYqQk-smFciS-soLARs-2oPar4e-3HSNzN-smG2kd-2qYmXCa-5JkDpj-2m6GmBk-F9sDj7-F4YKZ2-CVGCMi-2ifvwBx-soWVZv-fTDG86-s5CsSF-2i1y8YN-Db8yGD-soVqtV" title="Walvis Bay Harbor"><img src="https://live.staticflickr.com/65535/54459068109_62e365dd29_c.jpg" width="800" height="447" alt="Walvis Bay Harbor"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Aussenkehr"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
 {{% tab "Sossusvlei" %}}
 
 {{% notice tip %}}
-There is a road leading to a plain surrounded by tall red sand dunes called Sossusvlei {{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}, which is a popular tourist destination in Namibia {{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}. Satellite images show that only the road to Sossusvlei is a flat plain, while the surroundings are dunes.
+There is a road leading to the popular tourist site called Sossusvlei, surrounded by tall red dunes {{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}{{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}. Satellite images show that only the path to Sossusvlei is flat, while the surrounding areas are covered by dunes.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -233,7 +232,7 @@ There is a road leading to a plain surrounded by tall red sand dunes called Soss
 {{% tab "Brandberg" %}}
 
 {{% notice tip %}}
-Located in northern Namibia, you can see a flat-topped and massive mountain {{% ex "https://maps.app.goo.gl/jfWCVCCYZTbECnQ79" "https://maps.app.goo.gl/VuWPNFnpncTx3VAx7" %}}.
+Located in northern Namibia, you can see a vast flat-topped mountain {{% ex "https://maps.app.goo.gl/jfWCVCCYZTbECnQ79" "https://maps.app.goo.gl/VuWPNFnpncTx3VAx7" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">

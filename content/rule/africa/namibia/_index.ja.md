@@ -152,7 +152,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% tab "鉄道" %}}
 
 {{% notice tip %}}
-最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。また、アパルトヘイトが終了しWalvis Bayが編入されるまでナミビア沿岸で大型船が寄れる港はüderitzだけだった。そのため、このふたつにはコンテナを輸送するための鉄道が走っていると考えると歴史とともに頭に入りやすい（かも）。
+最も重要な港であるWalvis Bayを中心に鉄道が走っている(線路は島マップの白黒線)。また、アパルトヘイトが終了しWalvis Bayが編入されるまでナミビア沿岸で大型船が寄れる港はüderitzだけだった。そのため、このふたつの町にはコンテナを輸送するための鉄道が走っていると考えると歴史とともに頭に入りやすい（かも）。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -176,15 +176,26 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 <div class="main-desciption area-description">
     <h4 class="section-title">植生</h4>
     <ul class="rule-list">
+        <li>いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
         <li>Pterocarpus angolensis（アンゴラカリン）は北東のカプリビ回廊沿いに自生する</li>
         <li>Colophospermum mopaneはナミビア北西部にしか生えていない{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
-        <li>いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
         <li>Aloe dichotomaは{{% goto "../south-africa/" "南アフリカ" %}}～ナミビア南西部にしか生えていない</li>
         <li>Welwitschiaは北西部にしか生えていないが道端で見つかるかは分からない{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=53818" "Welwitschia" %}}</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "Hyphaene petersiana" %}}
+{{% notice tip %}}
+いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/vXMjVnzVHUC4GyGR7" "https://maps.app.goo.gl/VvtaAJbPQEuqP6mW6" "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}。
+{{% /notice %}}
+
+
+<div class="googlemap-if unclickable no-margin">
+<img src="bakuhatsu.jpg" width="300px">
+</div>
+
+{{% /tab %}}
 {{% tab "Pterocarpus angolensis" %}}
 {{% notice tip %}}
 アンゴラカリンは北東のカプリビ回廊沿いの記録が多い{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=340243" "pterocarpus angolensis - iNaturalist" %}}。丸く茶色い実のカラのようなものが観察できる{{% ex "https://maps.app.goo.gl/vEj3dixAU24EGBL97" "https://maps.app.goo.gl/M1jJozJ3jbBXdjSb6" %}}。
@@ -207,17 +218,6 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 <p>By <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercé">Roger Culos</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Link</a></p>
 </div>
 
-
-{{% /tab %}}
-{{% tab "Hyphaene petersiana" %}}
-{{% notice tip %}}
-いわゆる爆発ヤシは北部アンゴラ近くと北西部海沿いに分布する{{% ex "https://maps.app.goo.gl/VvtaAJbPQEuqP6mW6" "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}。
-{{% /notice %}}
-
-
-<div class="googlemap-if unclickable no-margin">
-<img src="bakuhatsu.jpg" width="300px">
-</div>
 
 {{% /tab %}}
 {{% tab "Aloe dichotoma" %}}
@@ -257,21 +257,33 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ナミビア共和国で最大の港であるWalvis Bayでは鉄道貨物やコンテナターミナルが見える</li>
+        <li>Aussenkehrには特徴的な茅葺の家の街並みが見つかる</li>
+        <li>Oranjemundはもともとダイヤモンド会社の私有地で、等間隔に家とインフラが整備されている</li>
         <li>Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれた平野への道がある{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}</li>
         <li>ナミビア最高峰であるBrandberg山が見える地域がある</li>
     </ul>
 </div>
 
 {{% tabs %}}
-{{% tab "Walvis Bay" %}}
+{{% tab "Aussenkehr" %}}
 
 {{% notice tip %}}
-ウォルビスベイは、ナミビア共和国で最大の港{{% ex "https://maps.app.goo.gl/GcmWUW4TpAZVC4Tt6" %}}。1993年8月、アパルトヘイト終結のタイミングでナミビアへ編入された。{{% goto "../botswana/" "ボツワナ" %}}やザンビアの他の地域への貨物の輸出入にも活用されるため、この町を起点にして鉄道が走っている。コンテナターミナル{{% ex "https://maps.app.goo.gl/mEkwvUgq4LJtyqMz6" %}}や運送系の会社の拠点{{% ex "https://maps.app.goo.gl/muNbSowLwg73VmUj8" "https://maps.app.goo.gl/9aDDUT9gY8Kq1xZcA" %}}がよく見つかる。
+Aussenkehrの街並み{{% ex "https://maps.app.goo.gl/Uis1DJfvpnx7CnAA9" "https://maps.app.goo.gl/anJRrxazzPb2J9ED7" %}}。周辺には農場が広がっている{{% ref "https://en.wikipedia.org/wiki/Aussenkehr" "Aussenkehr" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/string_bass_dave/54459068109/in/photolist-2n3bKG9-SKJuBP-smEc4A-soNCTE-soNw8A-2oPSfRy-D6JPJb-2d7z5Ge-29rUr1o-xXGhzV-dGhfW3-2iF8wCC-s5BDsR-2n3dpMG-2n39ABW-2krWt1m-s7nkUm-s7kpP9-soNazG-MKwiyV-V7m9pi-s7kTSq-rs8NcH-s7wcig-soM5Ff-2nxXuYt-DtoCbe-QBpdwq-E5RtDx-rs9t2X-s7k9Ns-FYYqQk-smFciS-soLARs-2oPar4e-3HSNzN-smG2kd-2qYmXCa-5JkDpj-2m6GmBk-F9sDj7-F4YKZ2-CVGCMi-2ifvwBx-soWVZv-fTDG86-s5CsSF-2i1y8YN-Db8yGD-soVqtV" title="Walvis Bay Harbor"><img src="https://live.staticflickr.com/65535/54459068109_62e365dd29_c.jpg" width="800" height="447" alt="Walvis Bay Harbor"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Aussenkehr"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "Oranjemund" %}}
+
+{{% notice tip %}}
+ダイヤモンド企業であるデビアスの私有地だった場所であり、古い家は無くインフラもかなり整備されている。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1749539510067!6m8!1m7!1sPybl_PrpcY_gOw4Z80T2lw!2m2!1d-28.55043324632372!2d16.43642097172851!3f88.63650154363451!4f2.0828538216717334!5f0.7820865974627469" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
 {{% /tab %}}
