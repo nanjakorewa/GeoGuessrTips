@@ -14,6 +14,7 @@ plonkit: true
 is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../senegal/", "ナミビア"],
     ["../kenya/", "ケニア"],
     ["../nigeria/", "ナイジェリア"],
     ]
