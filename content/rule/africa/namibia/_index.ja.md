@@ -87,6 +87,14 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 <img src="loneliness_road_clouds_distance.jpg" width="90%">
 </div>
 
+{{% notice tip %}}
+ジニ係数0.58と貧富の差が非常に大きい国{{% ref "https://www.mofa.go.jp/mofaj/gaiko/oda/seisaku/houshin/pdfs/namibia-1.pdf" "対ナミビア共和国 国別援助方針" %}}。都会の中心部には洋風の建物が{{% ex "https://maps.app.goo.gl/NNhoEdSAnDocZmA76" %}}、郊外の岩山など住みにくい場所にはスラムが広がっている{{% ex "https://maps.app.goo.gl/f4TfrqxtWJ7mGmu68" %}}{{% ref "https://en.wikipedia.org/wiki/List_of_slums_in_Namibia" "List of slums in Namibia" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="cityview.jpg" width="95%">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

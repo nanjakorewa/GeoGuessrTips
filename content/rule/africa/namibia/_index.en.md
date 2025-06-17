@@ -68,6 +68,15 @@ In places like Swakopmund, European-style architecture influenced by {{% goto ".
 <img src="swakopmund1.jpg">
 </div>
 
+{{% notice tip %}}
+Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref "https://www.mofa.go.jp/mofaj/gaiko/oda/seisaku/houshin/pdfs/namibia-1.pdf" "Country Assistance Policy for the Republic of Namibia" %}}. In the city center, Western-style buildings can be seen{{% ex "https://maps.app.goo.gl/NNhoEdSAnDocZmA76" %}}, while in the outskirts, including rocky and less habitable areas, slums are widespread{{% ex "https://maps.app.goo.gl/f4TfrqxtWJ7mGmu68" %}}{{% ref "https://en.wikipedia.org/wiki/List_of_slums_in_Namibia" "List of slums in Namibia" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="cityview.jpg" width="95%">
+</div>
+
+
 {{% /tab %}}
 {{% /tabs %}}
 

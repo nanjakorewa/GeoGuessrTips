@@ -144,6 +144,13 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 <img src="./r/s4.png" width="95px" style="margin:8px 10px 10px 100px;">
 </div>
 
+{{% notice tip %}}
+ふたつの□がくっついた中央線はフランスでしか見ない{{% ex "https://maps.app.goo.gl/VKhUaqMUgf9osPt99" "https://maps.app.goo.gl/x4YS9dTA2nk42XqU7" %}}。
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="roadline.png" width="90%">
+</div>
+
 
 {{% /tab %}}
 {{% tab "電柱" %}}
