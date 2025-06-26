@@ -142,6 +142,16 @@ CC0
 {{% /tabs %}}
 
 
+<div class="image-row-booth">
+    <h2>コロンビア関連グッズ</h2>
+    <div class="image-item-lg">
+        <a href="https://nanjakorewa.booth.pm/items/7092425" target="_blank">
+            <img src="d9491b6c-4492-40e2-8a0f-5f271e21d003.png" alt="画像3">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+    </div>
+</div>
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
