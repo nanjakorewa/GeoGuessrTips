@@ -1587,7 +1587,7 @@ table.compare-table tr td {
 }
 
 .image-item {
-  width: 300px;
+  width: 200px;
   flex-shrink: 0;
   text-align: center;
   margin-bottom: 0;

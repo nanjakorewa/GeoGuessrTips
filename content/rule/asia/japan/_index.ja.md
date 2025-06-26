@@ -126,6 +126,23 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 </ul>
 
 
+<div class="image-row-booth">
+    <h2>日本関連グッズ</h2>
+        <div class="image-item">
+        <a href="https://nanjakorewa.booth.pm/items/7095435" target="_blank">
+            <img src="canvas_47eecc845d.png" alt="画像3">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+        </div>
+        <div class="image-item">
+        <a href="https://nanjakorewa.booth.pm/items/7087872" target="_blank">
+            <img src="344f98c1-25b7-4daf-979f-4a2a708cce12.png" alt="画像3">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+        </div>
+</div>
+
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

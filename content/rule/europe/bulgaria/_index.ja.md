@@ -124,7 +124,7 @@ sc: [
 
 
 
-  <div class="image-row-booth">
+<div class="image-row-booth">
     <h2>ブルガリア関連グッズ</h2>
         <div class="image-item">
         <a href="https://nanjakorewa.booth.pm/items/7092780" target="_blank">
