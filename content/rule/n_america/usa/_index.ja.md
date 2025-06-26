@@ -121,6 +121,16 @@ maps: [
 {{% /tabs %}}
 
 
+<div class="image-row-booth">
+    <h2>アメリカ関連グッズ</h2>
+    <div class="image-item-lg">
+        <a href="https://nanjakorewa.booth.pm/items/7095003" target="_blank">
+            <img src="37148dec-02ac-4096-826f-11318d77b9dc.png" alt="画像3">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+    </div>
+</div>
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <h4 class="section-title">アメリカが関係する離島</h2>
