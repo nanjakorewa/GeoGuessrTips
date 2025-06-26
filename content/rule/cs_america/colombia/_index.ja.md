@@ -98,6 +98,16 @@ sc: [
 {{% /tabs %}}
 
 
+<div class="image-row-booth">
+    <h2>コロンビア関連グッズ</h2>
+    <div class="image-item-lg">
+        <a href="https://nanjakorewa.booth.pm/items/7090759" target="_blank">
+            <img src="b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+    </div>
+</div>
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

@@ -1620,3 +1620,30 @@ table.compare-table tr td {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+.image-item-lg {
+  width: 250px;
+  flex-shrink: 0;
+  text-align: center;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.image-item-lg a {
+  display: block;
+  width: 250px;
+  height: 250px;
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.image-item-lg img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+  clip-path: inset(2px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
