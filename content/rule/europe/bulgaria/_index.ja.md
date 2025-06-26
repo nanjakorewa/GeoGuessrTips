@@ -51,7 +51,7 @@ sc: [
 {{% notice tip %}}横断歩道の標識の線の数は<span class="quiz">4</span>本{{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_c2eea5695b_c.jpg" width="558" height="800" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多くみんな煙突がついている{{% ex "https://maps.app.goo.gl/uZyJXDKDpMm4dnXTA" %}}。2枚目の写真のような瓦もよく見る{{% ex "https://maps.app.goo.gl/V2zNU643L9gUj6Ha9" "https://maps.app.goo.gl/Ja1uWGucQaWgdTPc7" %}}。
@@ -122,6 +122,17 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+
+
+  <div class="image-row-booth">
+    <h2>ブルガリア関連グッズ</h2>
+        <div class="image-item">
+        <a href="https://nanjakorewa.booth.pm/items/7092780" target="_blank">
+            <img src="6dd1f57b-a1c5-4fbb-80de-2282aa612f6d.png" alt="画像3">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+        </div>
+</div>
 
 
 <div class="main-desciption area-description">
