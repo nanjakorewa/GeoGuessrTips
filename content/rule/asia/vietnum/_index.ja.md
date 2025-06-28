@@ -18,6 +18,7 @@ dont_show_usda: true
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.vn</span></li>
         <li>道路は<span class="quiz">右</span>側通行</li>
+        <li>赤い国旗が掲揚されている</li>
         <li>標識のポールが<span class="quiz">赤白のストライプ</span>になっている</li>
         <li>赤白のボラードがある</li>
     </ul>
@@ -27,15 +28,15 @@ dont_show_usda: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識のポールが赤白のストライプになっている{{% ex "https://maps.app.goo.gl/vf3He4h6g9m56zbU8" %}}。道路は<span class="quiz">右</span>側通行</li>だ。
+家の前や通りに赤い国旗が掲揚されている{{% ex "https://maps.app.goo.gl/iKDvmiAUVjwryn218" %}}。道路は<span class="quiz">右</span>側通行</li>だ。
 {{% /notice %}}
 
-<div class="googlemap-if unclickable">
-<img src="./road1.jpg" width="95%">
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg#/media/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/142_Bui_Cong_Minh%2C_kp_LongBinh%2C_huyen_Longdien%2Ctinh_Baria_Vungtau%2C_Vn_-_panoramio.jpg" alt="142 Bui Cong Minh, kp LongBinh, huyen Longdien,tinh Baria Vungtau, Vn - panoramio.jpg" height="683" width="1280"></a></p><p>By trungydang, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60015169">Link</a></p>
 </div>
 
 {{% notice tip %}}
-ベトナム語はラテン文字で構成されているため、{{% goto "../cambodia/" "カンボジア" %}}や{{% goto "../laos/" "ラオス" %}}との見分けは難しくない。
+ベトナム語はラテン文字で構成されている{{% ex "https://maps.app.goo.gl/z9aUvxbfNQ9N7WKU9" "https://maps.app.goo.gl/FJvN4xmL5d3TxmUDA" %}}ため、{{% goto "../cambodia/" "カンボジア" %}}や{{% goto "../laos/" "ラオス" %}}との見分けは難しくない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -43,7 +44,7 @@ dont_show_usda: true
 </div>
 
 {{% notice tip %}}
-赤白のボラードがある{{% ex "https://maps.app.goo.gl/FoJK9H2wy4fdXdrY6" %}}
+赤白のボラードがある{{% ex "https://maps.app.goo.gl/FoJK9H2wy4fdXdrY6" %}}。また、標識のポールが赤白のストライプになっている{{% ex "https://maps.app.goo.gl/wVhutSYMMUKXbEcc7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
