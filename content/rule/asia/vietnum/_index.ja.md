@@ -69,7 +69,6 @@ dont_show_usda: true
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>国境付近には山脈が伸びており、メコン川流域は平坦な平野になっている</li>
-        <li>田んぼは南部のメコンデルタに多く分布する{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
         <li>メコンデルタでは農業と漁業が盛んで水路が細かく広がっている</li>
         <li>テイグイエンとよばれる標高700m前後の高原が中央に広がっている</li>
     </ul>
@@ -86,16 +85,6 @@ dont_show_usda: true
 </div>
 
 {{% /tab %}}
-{{% tab "田んぼ" %}}
-{{% notice tip %}}
-メコン川流域が生産の半分超を占めている{{% ex "https://maps.app.goo.gl/57aBKGLQop95oWWH7" %}}が、北部の平野にもある程度存在する{{% ex "https://maps.app.goo.gl/vMiCQ6fhHCRSRMV28" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="./vietnam_Total_Rice.png" width="60%">
-</div>
-
-{{% /tab %}}
 {{% tab "メコンデルタ" %}}
 {{% notice tip %}}
 水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/LbeL8WBV9WPymjeb6" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。
@@ -108,7 +97,7 @@ dont_show_usda: true
 {{% /tab %}}
 {{% tab "テイグイエン" %}}
 {{% notice tip %}}
-メコンデルタのような田んぼの産地ではなく、コーヒーやキャベツといったいろいろな農作物の栽培地となっている{{% ref "https://de.wikipedia.org/wiki/T%C3%A2y_Nguy%C3%AAn" "Tây Nguyên" %}}。
+メコンデルタのような細かい水路網はなく{{% ex "https://maps.app.goo.gl/PJHXo8x5JQD74Qi96" "https://maps.app.goo.gl/jv71XHmRvaJDnChN7" %}}、コーヒーやキャベツといったいろいろな農作物の栽培地となっている{{% ref "https://de.wikipedia.org/wiki/T%C3%A2y_Nguy%C3%AAn" "Tây Nguyên" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -118,6 +107,63 @@ dont_show_usda: true
 {{% /tab %}}
 {{% /tabs %}}
 
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">農業</h4>
+    <ul class="rule-list">
+        <li>田んぼは南部のメコンデルタに多く分布する
+            <ul>
+                <li>メコンデルタ{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
+            </ul>
+        </li>
+        <li>内陸ではゴムのプランテーションが多く見つかる
+            <ul>
+                <li>Gia Lai省{{% ex "https://maps.app.goo.gl/9aVjLKVNPMSmqd3E6" "https://maps.app.goo.gl/TTGvuoYTebZAv26NA" "https://maps.app.goo.gl/U6FMjZPayKGjSW4t7" %}}</li>
+                <li>Tây Ninh省{{% ex "https://maps.app.goo.gl/jXH5jnpXFZ5hCWt99" "https://maps.app.goo.gl/maXfUw2TS45XjQJN6" "https://maps.app.goo.gl/Dq45CbyT6eGDGx6i8" %}}、衛星写真から大規模なプランテーションが見える</li>
+            </ul>
+        </li>
+        <li>北部と中部の山岳地帯にはお茶畑が分布している
+            <ul>
+                <li>Cao Bằng省{{% ex "https://maps.app.goo.gl/XN6EJjB8SYNHwo4y9" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "田んぼ" %}}
+{{% notice tip %}}
+メコン川流域が生産の半分超を占めている{{% ex "https://maps.app.goo.gl/57aBKGLQop95oWWH7" %}}が、北部の平野にもある程度存在する{{% ex "https://maps.app.goo.gl/vMiCQ6fhHCRSRMV28" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./vietnam_Total_Rice.png" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "ゴム" %}}
+{{% notice tip %}}
+内陸ではゴムのプランテーションが多く見つかる。記録によるとGia Lai省とTây Ninh省の周りが多い{{% ref "https://www.researchgate.net/figure/Traditional-and-non-traditional-rubber-tree-growing-areas-in-mainland-Southeast-Asia_fig2_256972338" "Mapping rubber tree growth in mainland Southeast Asia using time-series MODIS 250 m NDVI and statistical data" %}}が、出典によって若干分布が異なる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./rubber-plantation.png" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "お茶" %}}
+{{% notice tip %}}
+山岳地帯の一部ではお茶畑が分布している{{% ref "https://www.researchgate.net/figure/Distribution-of-tea-plantations-in-Vietnam-in-2019-Data-was-soured-from-GSO-2020b-Ha_fig1_351975165" "Sustainable tea production through agroecological management practices in Vietnam: a review" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./tea-plantation.png" width="60%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
