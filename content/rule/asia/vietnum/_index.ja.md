@@ -144,7 +144,7 @@ dont_show_usda: true
 {{% tabs %}}
 {{% tab "アカシア" %}}
 {{% notice tip %}}
-中部ではベトナム政府が30年前に実施した大規模な植林プロジェクトの影響でアカシアの植林地が見つかる{{% ref "https://fairwood.jp/biomass/3084/" "Mekong Eye：厄介なジレンマ：ベトナムのアカシア植林地はそれほど緑ではないかもしれない" %}}。
+中部ではベトナム政府が30年前に実施した大規模な植林プロジェクトの影響でアカシアの植林地が見つかる{{% ref "https://fairwood.jp/biomass/3084/" "Mekong Eye：厄介なジレンマ：ベトナムのアカシア植林地はそれほど緑ではないかもしれない" %}}。アカシア栽培面積は世界最大でありフローリングの材料として重要な素材。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
