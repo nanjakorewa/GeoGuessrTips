@@ -28,7 +28,7 @@ dont_show_usda: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-家の前や通りに赤い国旗が掲揚されている{{% ex "https://maps.app.goo.gl/iKDvmiAUVjwryn218" %}}。道路は<span class="quiz">右</span>側通行</li>だ。
+家の前や通りに赤い国旗が掲揚されている{{% ex "https://maps.app.goo.gl/AaZseJv9n84DYH5b8" "https://maps.app.goo.gl/iKDvmiAUVjwryn218" %}}。道路は<span class="quiz">右</span>側通行</li>だ。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -53,13 +53,45 @@ dont_show_usda: true
 
 
 {{% notice tip %}}
-円筒状の普通の電柱の他に、穴の開いた電柱が見つかる{{% ex "https://maps.app.goo.gl/NSTskXxxkNxemb2g7" %}}。
+円筒状の普通の電柱の他に、穴の開いた電柱が見つかる{{% ex "https://maps.app.goo.gl/yNyTosfMMKLPFvw79" "https://maps.app.goo.gl/NSTskXxxkNxemb2g7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./rice.jpg" width="90%">
 </div>
 
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>国境付近には山脈が伸びており、メコン川流域は平坦な平野になっている</li>
+        <li>田んぼは南部のメコンデルタに多く分布する{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "標高" %}}
+{{% notice tip %}}
+国境沿いにアンナン山脈が伸びている。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Vietnam_Topography.png" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "田んぼ" %}}
+{{% notice tip %}}
+メコン川流域が生産の半分超を占めている{{% ex "https://maps.app.goo.gl/57aBKGLQop95oWWH7" %}}が、北部の平野にもある程度存在する{{% ex "https://maps.app.goo.gl/vMiCQ6fhHCRSRMV28" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./vietnam_Total_Rice.png" width="60%">
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
