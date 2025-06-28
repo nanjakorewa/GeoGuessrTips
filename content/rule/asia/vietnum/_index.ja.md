@@ -102,7 +102,7 @@ dont_show_usda: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./vietnam_mekong_river_mekong_4.jpg" width="60%">
+<img src="./vietnam_mekong_river_mekong_4.jpg" width="90%">
 </div>
 
 {{% /tab %}}
