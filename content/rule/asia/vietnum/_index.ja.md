@@ -32,7 +32,7 @@ dont_show_usda: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg#/media/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/142_Bui_Cong_Minh%2C_kp_LongBinh%2C_huyen_Longdien%2Ctinh_Baria_Vungtau%2C_Vn_-_panoramio.jpg" alt="142 Bui Cong Minh, kp LongBinh, huyen Longdien,tinh Baria Vungtau, Vn - panoramio.jpg" height="683" width="1280"></a></p><p>By trungydang, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60015169">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg#/media/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/142_Bui_Cong_Minh%2C_kp_LongBinh%2C_huyen_Longdien%2Ctinh_Baria_Vungtau%2C_Vn_-_panoramio.jpg" alt="142 Bui Cong Minh, kp LongBinh, huyen Longdien,tinh Baria Vungtau, Vn - panoramio.jpg" width="90%"></a></p><p>By trungydang, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60015169">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -44,7 +44,7 @@ dont_show_usda: true
 </div>
 
 {{% notice tip %}}
-赤白のボラードがある{{% ex "https://maps.app.goo.gl/FoJK9H2wy4fdXdrY6" %}}。また、標識のポールが赤白のストライプになっている{{% ex "https://maps.app.goo.gl/wVhutSYMMUKXbEcc7" %}}。
+赤白のボラードがある{{% ex "https://maps.app.goo.gl/A87NbysAnb6HWhVy5" "https://maps.app.goo.gl/p3PwktHnrz74VFNE8" %}}。また、標識のポールが赤白のストライプになっている{{% ex "https://maps.app.goo.gl/wVhutSYMMUKXbEcc7" "https://maps.app.goo.gl/K3qBDADNsDr5k6rF9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -53,11 +53,11 @@ dont_show_usda: true
 
 
 {{% notice tip %}}
-参考映像
+円筒状の普通の電柱の他に、穴の開いた電柱が見つかる{{% ex "https://maps.app.goo.gl/NSTskXxxkNxemb2g7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MxzOykG9MQg?si=o6alWcD2iXPBjq5R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<img src="./rice.jpg" width="90%">
 </div>
 
 
