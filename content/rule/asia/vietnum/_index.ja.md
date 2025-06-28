@@ -70,6 +70,8 @@ dont_show_usda: true
     <ul class="rule-list">
         <li>国境付近には山脈が伸びており、メコン川流域は平坦な平野になっている</li>
         <li>田んぼは南部のメコンデルタに多く分布する{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
+        <li>メコンデルタでは農業と漁業が盛んで水路が細かく広がっている</li>
+        <li>テイグイエンとよばれる標高700m前後の高原が中央に広がっている</li>
     </ul>
 </div>
 
@@ -91,6 +93,26 @@ dont_show_usda: true
 
 <div class="googlemap-if unclickable">
 <img src="./vietnam_Total_Rice.png" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "メコンデルタ" %}}
+{{% notice tip %}}
+水路が網の目のように広がっており、小さい橋もしばしば見かける。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./vietnam_mekong_river_mekong_4.jpg" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "テイグイエン" %}}
+{{% notice tip %}}
+メコンデルタのような田んぼの産地ではなく、コーヒーやキャベツといったいろいろな農作物の栽培地となっている{{% ref "https://de.wikipedia.org/wiki/T%C3%A2y_Nguy%C3%AAn" "Tây Nguyên" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:The_central_highlands_in_daklak_Vietnam1.jpg#/media/File:The_central_highlands_in_daklak_Vietnam1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/The_central_highlands_in_daklak_Vietnam1.jpg" alt="The central highlands in daklak Vietnam1.jpg" height="720" width="1047"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:DXLINH&amp;action=edit&amp;redlink=1" class="new" title="User:DXLINH (page does not exist)">DXLINH</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3777906">Link</a></p>
 </div>
 
 {{% /tab %}}
