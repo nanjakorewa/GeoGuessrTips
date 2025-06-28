@@ -112,6 +112,13 @@ dont_show_usda: true
 <div class="main-desciption area-description">
     <h4 class="section-title">農業</h4>
     <ul class="rule-list">
+        <li>Quảng Nam・Quảng Ngãi・ビンディンなど中部ではアカシアのプランテーションがたまに見つかる
+            <ul>
+                <li>Quảng Nam省{{% ex "https://maps.app.goo.gl/KePTirLNHuRmhT2z7" %}}</li>
+                <li>Quảng Ngãi省{{% ex "https://maps.app.goo.gl/hHwJHHKqqMrKGJr46" "https://maps.app.goo.gl/njYnFh792EoXsFnz7" %}}</li>
+                <li>Bình Định省{{% ex "https://maps.app.goo.gl/5JNDBrmsn4si3hRz8" %}}</li>
+            </ul>
+        </li>
         <li>田んぼは南部のメコンデルタに多く分布する
             <ul>
                 <li>メコンデルタ{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
@@ -135,6 +142,16 @@ dont_show_usda: true
 
 
 {{% tabs %}}
+{{% tab "アカシア" %}}
+{{% notice tip %}}
+中部ではベトナム政府が30年前に実施した大規模な植林プロジェクトの影響でアカシアの植林地が見つかる{{% ref "https://fairwood.jp/biomass/3084/" "Mekong Eye：厄介なジレンマ：ベトナムのアカシア植林地はそれほど緑ではないかもしれない" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/faoforestry/12169472824/in/photolist-Yck1o7-28D9DZJ-e4pSSU-9Vx9iP-9Vx8ti-9VAoF7-jxnHpA-9VxAoD-9VQzaK-jxkB3c-jxoVnd-jxkANp-jxkADr-2jiZUSX-jxmKzD-6Qjj5K-jxnHxm-jxmKyX-jxoVf9-jxnHvN-jxoV8L-jxoVwm-2mJTrmv-6QkGGs-uNbcqS-jxnJhY-9VzZsA-9VAq2f-2grwKWu-2jLiF4C-2jLhL6h-2jLec8B-2jLiFbg-2jLiFdk-2k58kjZ-2k5ocNn-2k56ayB-2k5iLmp-2k46K5r-2k5iLiZ-2k5qSdu-2k4Qdum-2k4awg5-2jLiF6M" title="Vietnam"><img src="https://live.staticflickr.com/5512/12169472824_2b2e3175ca_c.jpg" width="800" height="501" alt="Vietnam"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
 {{% tab "田んぼ" %}}
 {{% notice tip %}}
 メコン川流域が生産の半分超を占めている{{% ex "https://maps.app.goo.gl/57aBKGLQop95oWWH7" %}}が、北部の平野にもある程度存在する{{% ex "https://maps.app.goo.gl/vMiCQ6fhHCRSRMV28" %}}。
