@@ -53,7 +53,7 @@ dont_show_usda: true
 
 
 {{% notice tip %}}
-円筒状の普通の電柱の他に、穴の開いた電柱が見つかる{{% ex "https://maps.app.goo.gl/yNyTosfMMKLPFvw79" "https://maps.app.goo.gl/NSTskXxxkNxemb2g7" %}}。
+円筒状の普通の電柱の他に、穴の開いた電柱が見つかる{{% ex "https://maps.app.goo.gl/f5k6E7Lncdvx1Eh5A" "https://maps.app.goo.gl/yNyTosfMMKLPFvw79" "https://maps.app.goo.gl/NSTskXxxkNxemb2g7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -125,7 +125,9 @@ dont_show_usda: true
         </li>
         <li>北部と中部の山岳地帯にはお茶畑が分布している
             <ul>
+                <li>Phu Tho省{{% ex "https://maps.app.goo.gl/7QXgu9wiDsWoeczF8" "https://maps.app.goo.gl/sbd9BNvg1e1PNPXX9" %}}</li>
                 <li>Cao Bằng省{{% ex "https://maps.app.goo.gl/XN6EJjB8SYNHwo4y9" %}}</li>
+                <li>Lâm Đồng省、生産は多いがストリートビューが通っている地域が少ないかも
             </ul>
         </li>
     </ul>
