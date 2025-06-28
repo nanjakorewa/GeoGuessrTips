@@ -108,7 +108,7 @@ dont_show_usda: true
 {{% /tab %}}
 {{% tab "テイグイエン" %}}
 {{% notice tip %}}
-メコンデルタのような田んぼの産地ではなく、コーヒーやキャベツといったいろいろな農作物の栽培地となっている{{% ref "https://de.wikipedia.org/wiki/T%C3%A2y_Nguy%C3%AAn" "Tây Nguyên" %}}。
+メコンデルタのような田んぼの産地ではなく、コーヒーやキャベツといったいろいろな農作物の栽培地となっている{{% ref "https://de.wikipedia.org/wiki/T%C3%A2y_Nguy%C3%AAn" "Tây Nguyên" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
