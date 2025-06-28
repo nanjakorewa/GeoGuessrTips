@@ -11,13 +11,11 @@ flag: "VN.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-is_unofficial: true
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "cara-membedakan" %}}</h2>
     <ul class="rule-list">
-        <li style="font-weight:bold;">Saat ini, Street View resmi tidak tersedia, dan tidak muncul dalam permainan Geoguessr</li>
         <li>Domain menggunakan <span class="quiz">.vn</span></li>
         <li>Jalan menggunakan sistem lalu lintas <span class="quiz">kanan</span></li>
         <li>Tiang rambu lalu lintas memiliki pola <span class="quiz">garis merah-putih</span></li>
