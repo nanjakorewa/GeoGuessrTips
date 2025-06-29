@@ -224,8 +224,8 @@ dont_show_usda: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>ハロン湾には沈水カルスト地形が広がっている</li>
         <li>ĐT651沿いはリゾート地であり道路わきにも白い砂浜が広がっている</li>
+        <li>ハロン湾には沈水カルスト地形が広がっている</li>
     </ul>
 </div>
 
