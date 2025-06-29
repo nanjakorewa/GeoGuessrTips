@@ -82,7 +82,7 @@ dont_show_usda: true
                 <li>紅河デルタ{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" "https://maps.app.goo.gl/fMt4dHdSnbzUrqCA7" "https://maps.app.goo.gl/t2pqFAoXTuDLhCcT9" %}}</li>
             </ul>
         </li>
-        <li>テイグイエンとよばれる標高700m前後の高原が中央に広がっている</li>
+        <li>テイグイエンとよばれる標高700m前後の高原が中央に広がっている。コーヒーや胡椒の産地。</li>
     </ul>
 </div>
 
@@ -174,6 +174,11 @@ dont_show_usda: true
                 <li>Lâm Đồng省、生産は多いがストリートビューが通っている地域が少ないかも
             </ul>
         </li>
+        <li>コーヒーの生産はテイグイエン周辺の省が多い{{% ref "https://beta.vietbiz.jp/vietnam-coffee-industry/" "ベトナムのコーヒー産業の動向とポテンシャル - VietViz" %}}
+            <ul>
+                <li>Đắk Nông省{{% ex "https://maps.app.goo.gl/LPDDk2NN6EDxyb4K6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -216,6 +221,21 @@ dont_show_usda: true
 
 <div class="googlemap-if unclickable">
 <img src="./tea-plantation.png" width="60%">
+</div>
+
+{{% /tab %}}
+{{% tab "コーヒー" %}}
+{{% notice tip %}}
+標高が少し高い地域ではコーヒーの生産が盛ん{{% ref "https://beta.vietbiz.jp/vietnam-coffee-industry/" "【画像出典】ベトナムのコーヒー産業の動向とポテンシャル - VietViz" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./345.png" width="90%">
+</div>
+
+
+<div class="googlemap-if unclickable">
+<img src="./500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%">
 </div>
 
 {{% /tab %}}
