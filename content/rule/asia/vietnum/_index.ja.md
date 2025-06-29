@@ -71,15 +71,15 @@ dont_show_usda: true
         <li>国境付近には山脈が伸びており、メコン川流域は平坦な平野になっている</li>
         <li>北部と中部の特定のエリアではカルスト地形が広がっている
             <ul>
-                <li>メコンデルタ{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}</li>
-                <li>紅河デルタ{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" "https://maps.app.goo.gl/fMt4dHdSnbzUrqCA7" "https://maps.app.goo.gl/t2pqFAoXTuDLhCcT9" %}}</li>
+                <li>Bố Trạch県（中部）{{% ex "https://maps.app.goo.gl/EKnJrVyw695iJGqJ6" "https://maps.app.goo.gl/ucEb45BZCiH7BqZM8" %}}</li>
+                <li>Sơn La省（北部）{{% ex "https://maps.app.goo.gl/qcfrJvtPa4imttfv7" "https://maps.app.goo.gl/JrXQYCrn5xYMUVeL9" %}}</li>
+                <li>Bắc Kạn省（北部）{{% ex "https://maps.app.goo.gl/VjkeLjDu9yrCXhPZA" "https://maps.app.goo.gl/dDpb1vYHAoBwBxam9" %}}</li>
             </ul>
         </li>
         <li>メコンデルタと紅河デルタでは農業と漁業が盛んで水路が細かく広がっている
             <ul>
-                <li>Bố Trạch県（中部）{{% ex "https://maps.app.goo.gl/EKnJrVyw695iJGqJ6" "https://maps.app.goo.gl/ucEb45BZCiH7BqZM8" %}}</li>
-                <li>Sơn La省（北部）{{% ex "https://maps.app.goo.gl/qcfrJvtPa4imttfv7" "https://maps.app.goo.gl/JrXQYCrn5xYMUVeL9" %}}</li>
-                <li>Bắc Kạn省（北部）{{% ex "https://maps.app.goo.gl/VjkeLjDu9yrCXhPZA" "https://maps.app.goo.gl/dDpb1vYHAoBwBxam9" %}}</li>
+                <li>メコンデルタ{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}</li>
+                <li>紅河デルタ{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" "https://maps.app.goo.gl/fMt4dHdSnbzUrqCA7" "https://maps.app.goo.gl/t2pqFAoXTuDLhCcT9" %}}</li>
             </ul>
         </li>
         <li>テイグイエンとよばれる標高700m前後の高原が中央に広がっている</li>
