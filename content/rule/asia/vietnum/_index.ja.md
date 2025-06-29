@@ -143,7 +143,26 @@ dont_show_usda: true
 {{% /tab %}}
 {{% /tabs %}}
 
+<div class="main-desciption area-description">
+    <h4 class="section-title">建物</h4>
+    <ul class="rule-list">
+        <li>店の看板などに割と住所が書いてある</li>
+    </ul>
+</div>
 
+
+{{% tabs %}}
+{{% tab "看板" %}}
+{{% notice tip %}}
+末尾ほど大きな地区名（大都市の場合は都市名をスキップしている場合あり）。画像は Đống Đa 地区の Khâm Thiên 区と読み取ることができる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="giang_cafe_nguyen_huu.jpg" width="60%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="main-desciption area-description">
     <h4 class="section-title">農業</h4>
@@ -176,7 +195,7 @@ dont_show_usda: true
         </li>
         <li>コーヒーの生産はテイグイエン周辺の省が多い{{% ref "https://beta.vietbiz.jp/vietnam-coffee-industry/" "ベトナムのコーヒー産業の動向とポテンシャル - VietViz" %}}
             <ul>
-                <li>Đắk Nông省{{% ex "https://maps.app.goo.gl/LPDDk2NN6EDxyb4K6" %}}</li>
+                <li>Đắk Nông省{{% ex "https://maps.app.goo.gl/LPDDk2NN6EDxyb4K6" "https://maps.app.goo.gl/rrFFc8gdR9zCMhFHA" "https://maps.app.goo.gl/oerVMxE9byvLsL8o8" %}}</li>
             </ul>
         </li>
         <li>こしょう
