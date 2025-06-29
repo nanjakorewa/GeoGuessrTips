@@ -285,6 +285,7 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>都市ごとのロゴが通り名についていることがあり、都市が判断できる</li>
+        <li>Phú Quốc島というカンボジア側の離島にもカバレッジがある</li>
         <li>ĐT651沿いはリゾート地であり道路わきにも白い砂浜が広がっている</li>
         <li>ハロン湾には沈水カルスト地形が広がっている</li>
     </ul>
@@ -300,6 +301,16 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Nha_Chung_street_signs.jpg#/media/File:Nha_Chung_street_signs.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nha_Chung_street_signs.jpg" alt="Nha Chung street signs.jpg" height="427" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41894171246@N01">Nam-ho Park</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/41894171246@N01/3390169458">IMG_5176</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17514899">Link</a></p>
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="718"><a href="https://www.reddit.com/r/geoguessr/comments/wjvrpe/i_know_vietnam_isnt_common_but_here_are_some/">I know Vietnam isn't common, but here are some symbols to look out for.</a><br> by<a href="https://www.reddit.com/user/Analbaby1/">u/Analbaby1</a> in<a href="https://www.reddit.com/r/geoguessr/">geoguessr</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "Phú Quốc島" %}}
+{{% notice tip %}}
+未舗装の赤い土の道路{{% ex "https://maps.app.goo.gl/JmDPPnAEtudzgYMw9" "https://maps.app.goo.gl/L7VrQZEayVbRYCfo9" "https://maps.app.goo.gl/MmEvvAHKi5Pn7ZL47" %}}か中央に大き目の分離帯がある4車線の道{{% ex "https://maps.app.goo.gl/4MYfS5YUqSjLW2fV7" "https://maps.app.goo.gl/9Uem35Lk9XaCFVG77" %}}が多い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="phu_quoc.jpg">
 </div>
 
 {{% /tab %}}
