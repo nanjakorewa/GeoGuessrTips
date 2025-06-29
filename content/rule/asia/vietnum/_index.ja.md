@@ -179,6 +179,11 @@ dont_show_usda: true
                 <li>Đắk Nông省{{% ex "https://maps.app.goo.gl/LPDDk2NN6EDxyb4K6" %}}</li>
             </ul>
         </li>
+        <li>こしょう
+            <ul>
+                <li>Đắk Nông省{{% ex "https://maps.app.goo.gl/NikMyhgAQcYfsrPSA" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -236,6 +241,16 @@ dont_show_usda: true
 
 <div class="googlemap-if unclickable">
 <img src="./500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "こしょう" %}}
+{{% notice tip %}}
+詳しい分布は不明だが、恐らくコーヒーと近い分布。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Pepper_farm_in_vietnam.JPG#/media/File:Pepper_farm_in_vietnam.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pepper_farm_in_vietnam.JPG" alt="File:Pepper farm in vietnam.JPG" height="460" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tonbi_ko" title="User:Tonbi ko">Tonbi ko</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40786447">Link</a></p>
 </div>
 
 {{% /tab %}}
