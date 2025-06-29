@@ -16,6 +16,7 @@ sc: [
     ["../laos/", "ラオス"],
     ["../srilanka/", "スリランカ"],
     ["../philippines/", "フィリピン"],
+    ["../vietnum/", "ベトナム"],
     ["../../cs_america/brazil/", "ブラジル"],
     ]
 products:

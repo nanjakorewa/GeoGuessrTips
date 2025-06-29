@@ -11,6 +11,12 @@ flag: "VN.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
+sc_title: "間違えやすい地域"
+sc: [
+    ["../philippines/", "フィリピン"],
+    ["../cambodia/", "カンボジア"],
+    ["../thai/", "タイ"],
+    ]
 ---
 
 <div class="main-desciption country-description">
@@ -154,7 +160,7 @@ dont_show_usda: true
 {{% tabs %}}
 {{% tab "看板" %}}
 {{% notice tip %}}
-末尾ほど大きな地区名（大都市の場合は都市名をスキップしている場合あり）。画像は Đống Đa 地区の Khâm Thiên 区と読み取ることができる。
+末尾ほど大きな地区名となる{{% ex "https://maps.app.goo.gl/GFejhH35z2n8Vqav6" "https://maps.app.goo.gl/DDrF2KwpvXwUs7Y76" %}}（ただし大都市の場合は都市・省名をスキップしている場合あり）。画像は Đống Đa 地区の Khâm Thiên 区と読み取ることができる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -278,12 +284,25 @@ dont_show_usda: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>都市ごとのロゴが通り名についていることがあり、都市が判断できる</li>
         <li>ĐT651沿いはリゾート地であり道路わきにも白い砂浜が広がっている</li>
         <li>ハロン湾には沈水カルスト地形が広がっている</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "都市ごとのロゴ" %}}
+{{% notice tip %}}
+都市ごとのロゴが通り名についていることがあり、都市が判断できる。画像はハノイ市{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8E%E3%82%A4" "ハノイ" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Nha_Chung_street_signs.jpg#/media/File:Nha_Chung_street_signs.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nha_Chung_street_signs.jpg" alt="Nha Chung street signs.jpg" height="427" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41894171246@N01">Nam-ho Park</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/41894171246@N01/3390169458">IMG_5176</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17514899">Link</a></p>
+
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="718"><a href="https://www.reddit.com/r/geoguessr/comments/wjvrpe/i_know_vietnam_isnt_common_but_here_are_some/">I know Vietnam isn't common, but here are some symbols to look out for.</a><br> by<a href="https://www.reddit.com/user/Analbaby1/">u/Analbaby1</a> in<a href="https://www.reddit.com/r/geoguessr/">geoguessr</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+
+{{% /tab %}}
 {{% tab "ĐT651" %}}
 {{% notice tip %}}
 道路わきに白い砂浜が広がっている{{% ex "https://maps.app.goo.gl/ipSSoYjDvV8UEJES8" "https://maps.app.goo.gl/9Xz4Cv8HKk3qLxXT8" %}}
