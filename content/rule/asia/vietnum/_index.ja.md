@@ -2,7 +2,7 @@
 title: "ベトナム"
 date: 2023-02-26
 lastmod: 2023-07-01
-weight: 2
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]
@@ -69,7 +69,17 @@ dont_show_usda: true
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
         <li>国境付近には山脈が伸びており、メコン川流域は平坦な平野になっている</li>
-        <li>メコンデルタでは農業と漁業が盛んで水路が細かく広がっている</li>
+        <li>北部と中部の特定のエリアではカルスト地形が広がっている
+            <ul>
+                <li>メコンデルタ{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}</li>
+                <li>紅河デルタ{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" "https://maps.app.goo.gl/fMt4dHdSnbzUrqCA7" "https://maps.app.goo.gl/t2pqFAoXTuDLhCcT9" %}}</li>
+            </ul>
+        </li>
+        <li>メコンデルタと紅河デルタでは農業と漁業が盛んで水路が細かく広がっている
+            <ul>
+                <li>Bố Trạch（中部）{{% ex "https://maps.app.goo.gl/EKnJrVyw695iJGqJ6" "https://maps.app.goo.gl/ucEb45BZCiH7BqZM8" %}}</li>
+            </ul>
+        </li>
         <li>テイグイエンとよばれる標高700m前後の高原が中央に広がっている</li>
     </ul>
 </div>
@@ -85,13 +95,37 @@ dont_show_usda: true
 </div>
 
 {{% /tab %}}
+{{% tab "カルスト地形" %}}
+{{% notice tip %}}
+以下の黒いエリアにはカルスト地形が広がっていると思われる{{% ref "https://www.researchgate.net/figure/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of_fig1_351625404" "Tuan, L. C. 『Characteristics of karst polje in Vietnam and associated geohazards.』 Int. J. Sci. Res 9 (2020): 1391-1398." %}}。下の写真のような不規則に尖った小さな山が多く見つかる。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%">
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="thitrantammson.jpg">
+</div>
+
+{{% /tab %}}
 {{% tab "メコンデルタ" %}}
 {{% notice tip %}}
-水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/LbeL8WBV9WPymjeb6" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。
+水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
 <img src="./vietnam_mekong_river_mekong_4.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "紅河デルタ" %}}
+{{% notice tip %}}
+メコンデルタと同様に三角州には水田と水路が広がる{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" %}}。国内で最も人口密度の高い地域。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg#/media/File:%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg" alt="Đồng lúa - panoramio.jpg" height="361" width="640"></a></p><p>By An Nguyễn Hải, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60550416">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -122,6 +156,7 @@ dont_show_usda: true
         <li>田んぼは南部のメコンデルタに多く分布する
             <ul>
                 <li>メコンデルタ{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
+                <li>紅河デルタ{{% ex "https://maps.app.goo.gl/ea8khJWChhkPN1ou6" %}}</li>
             </ul>
         </li>
         <li>内陸ではゴムのプランテーションが多く見つかる
@@ -154,7 +189,7 @@ dont_show_usda: true
 {{% /tab %}}
 {{% tab "田んぼ" %}}
 {{% notice tip %}}
-メコン川流域が生産の半分超を占めている{{% ex "https://maps.app.goo.gl/57aBKGLQop95oWWH7" %}}が、北部の平野にもある程度存在する{{% ex "https://maps.app.goo.gl/vMiCQ6fhHCRSRMV28" %}}。
+メコン川流域が生産の半分超を占めている{{% ex "https://maps.app.goo.gl/57aBKGLQop95oWWH7" %}}が、北部の平野にもある程度存在する{{% ex "https://maps.app.goo.gl/vMiCQ6fhHCRSRMV28" %}}。紅河デルタもメコンデルタよりエリアは小さいが田んぼが多くある{{% ref "https://www.maff.go.jp/primaff/kanko/review/attach/pdf/170721_pr78_04.pdf" "ベトナムの農地政策 - 国際領域　主任研究官　岡江 恭史" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -187,6 +222,7 @@ dont_show_usda: true
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>ハロン湾には沈水カルスト地形が広がっている</li>
         <li>ĐT651沿いはリゾート地であり道路わきにも白い砂浜が広がっている</li>
     </ul>
 </div>
@@ -198,7 +234,17 @@ dont_show_usda: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hachi8/19942001051/in/photolist-wocY9k-259qyZg-F9T5z9-hwpasg-fUx2wM-c2J3Co-QHuXMa-c2J57m-FqndyV-24Khrkz-c2J5DN-2e2WRMY-c2J4HC-21Gc5DC-FAQPqL-pCZfcc-c2J5Bf-22nJgXo-oRLNAL-9ZWQYc-22LNPve-c2J3Z7-HqxUTU-21Gc4gh-nbgHUh-aFFwUg-c2J27W-c2J2k7-231ibSi-DmFMFn-mzDfcF-c2J4PN-emhdFT-ngucYx-c2J2uN-EhJdxu-mzF6sG-PAgGeZ-c2J3DU-kh8zo5-4EXj5t-c2J2gh-26BQvm7-c2J4Wy-fUw93G-pS2mUf-rZMz2G-pSdMM6-mzDLsi-dT8xRB/" title="HA8_0523_15"><img src="https://live.staticflickr.com/393/19942001051_640449955b_c.jpg" width="800" height="533" alt="HA8_0523_15"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hachi8/19942001051/in/photolist-wocY9k-259qyZg-F9T5z9-hwpasg-fUx2wM-c2J3Co-QHuXMa-c2J57m-FqndyV-24Khrkz-c2J5DN-2e2WRMY-c2J4HC-21Gc5DC-FAQPqL-pCZfcc-c2J5Bf-22nJgXo-oRLNAL-9ZWQYc-22LNPve-c2J3Z7-HqxUTU-21Gc4gh-nbgHUh-aFFwUg-c2J27W-c2J2k7-231ibSi-DmFMFn-mzDfcF-c2J4PN-emhdFT-ngucYx-c2J2uN-EhJdxu-mzF6sG-PAgGeZ-c2J3DU-kh8zo5-4EXj5t-c2J2gh-26BQvm7-c2J4Wy-fUw93G-pS2mUf-rZMz2G-pSdMM6-mzDLsi-dT8xRB/" title="HA8_0523_15"><img src="https://live.staticflickr.com/393/19942001051_640449955b_c.jpg" width="90%" alt="HA8_0523_15"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "沈水カルスト地形" %}}
+{{% notice tip %}}
+海沿いの道は必ずしも多くないものの、海沿いには石灰岩の岩峰が屹立するカルスト地形が沈水することでできた珍しい地形が広がっている{{% ex "https://maps.app.goo.gl/zyAPTu1fxPd5aFLfA" "https://maps.app.goo.gl/H8jQy9JFoiEqMmhZA" "https://maps.app.goo.gl/4QcUXnVKPEA8Sbqh9" %}}{{% ref "https://www.gsj.jp/data/chishitsunews/99_07_g1.pdf" "ハロン湾の沈水カルスト地形 <地質調査所 須藤 定久>" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="ha_long_bay_with.jpg">
 </div>
 
 {{% /tab %}}
