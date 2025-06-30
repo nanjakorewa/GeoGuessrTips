@@ -120,7 +120,7 @@ sc: [
 {{% /tab %}}
 {{% tab "メコンデルタ" %}}
 {{% notice tip %}}
-水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。ほとんどの水路の周りは木やヤシが生えている{{% ex "https://maps.app.goo.gl/b5uLDeeKNzMrtwLS9" %}}。
+水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。ほとんどの水路の周りは木やヤシが生えている{{% ex "https://maps.app.goo.gl/b5uLDeeKNzMrtwLS9" %}}。鉄の欄干がある橋＋木の生い茂った水路＋逆▽の電柱で確定できる（例{{% ex "https://maps.app.goo.gl/1JX46QvY76mCm6Ra8" %}}）？。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -156,7 +156,7 @@ sc: [
         <li>店の看板などに割と住所が書いてある</li>
         <li>地域ごとに配電を担当する業者が異なり、電柱や装置もそれに伴って異なる可能性がある{{% ref "https://openjicareport.jica.go.jp/pdf/12308599.pdf?utm_source=chatgpt.com" "Collaboration Program with the Private Sector for Disseminating Japanese Technology for Electricity Distribution Planning System in Vietnam Final Report" %}}
             <ul>
-                <li>EVN NPC(北部)：上部まで穴が空いた電柱{{% ex "https://maps.app.goo.gl/6NZNa4DZJi1sTXq66" "https://maps.app.goo.gl/oCacZvHfERb6Qsuw9" "https://maps.app.goo.gl/YhYco7M8vwxePs657" "https://maps.app.goo.gl/CgRqEorfXcVRxTYG9" %}}</li>
+                <li>EVN NPC(北部)：上部まで穴が空いた電柱{{% ex "https://maps.app.goo.gl/6NZNa4DZJi1sTXq66" "https://maps.app.goo.gl/oCacZvHfERb6Qsuw9" "https://maps.app.goo.gl/YhYco7M8vwxePs657" "https://maps.app.goo.gl/CgRqEorfXcVRxTYG9" %}}（かなり確実に北部）</li>
                 <li>EVN CPC(中部)：『山+△』の形{{% ex "https://maps.app.goo.gl/V1wNUk15Xs6QpyUV6" "https://maps.app.goo.gl/wEgpCcEazpUENTQ47" "https://maps.app.goo.gl/s56SeV1VsBARKP5s5" "https://maps.app.goo.gl/BjGERCaFVNAbFcWr5" "https://maps.app.goo.gl/tgGSfyKSzN2E8bMv8" %}}</li>
                 <li>EVN SPC(南部)：『山+▽』の形{{% ex "https://maps.app.goo.gl/mXhiF8DZs8FCcYof6" %}}、平行して低い電柱（光ファイバー線）も並んで立っていることが多い{{% ex "https://maps.app.goo.gl/kCUdWRCRbvsKemMd7" %}}
                     <ul>
