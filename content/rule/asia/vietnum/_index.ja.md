@@ -216,6 +216,7 @@ sc: [
             <ul>
                 <li>Gia Lai省{{% ex "https://maps.app.goo.gl/9aVjLKVNPMSmqd3E6" "https://maps.app.goo.gl/TTGvuoYTebZAv26NA" "https://maps.app.goo.gl/U6FMjZPayKGjSW4t7" %}}</li>
                 <li>Tây Ninh省{{% ex "https://maps.app.goo.gl/jXH5jnpXFZ5hCWt99" "https://maps.app.goo.gl/maXfUw2TS45XjQJN6" "https://maps.app.goo.gl/Dq45CbyT6eGDGx6i8" %}}、衛星写真から大規模なプランテーションが見える</li>
+                <li>Bình Dương省{{% ex "https://maps.app.goo.gl/bMHmKTSVQzQ6ofDP6" %}}</li>
             </ul>
         </li>
         <li>北部と中部の山岳地帯には茶畑が分布している
@@ -241,7 +242,6 @@ sc: [
                 <li>Quảng Nam省{{% ex "https://maps.app.goo.gl/KePTirLNHuRmhT2z7" %}}</li>
                 <li>Quảng Ngãi省{{% ex "https://maps.app.goo.gl/hHwJHHKqqMrKGJr46" "https://maps.app.goo.gl/RpCGKidV6UTrv93j8" "https://maps.app.goo.gl/njYnFh792EoXsFnz7" %}}</li>
                 <li>Bình Định省{{% ex "https://maps.app.goo.gl/5JNDBrmsn4si3hRz8" %}}</li>
-                <li>ほかの省にも普通にあるので確度は高くなさそう{{% ex "https://maps.app.goo.gl/bMHmKTSVQzQ6ofDP6" %}}</li>
             </ul>
         </li>
     </ul>
