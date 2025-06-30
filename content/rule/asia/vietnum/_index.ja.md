@@ -294,7 +294,7 @@ sc: [
 {{% /tab %}}
 {{% tab "こしょう" %}}
 {{% notice tip %}}
-詳しい分布は不明だが、恐らくコーヒーと近い分布。
+詳しい分布は不明だが、コーヒーと近い分布であり北部にはほぼ存在しないという{{% ref "https://vinapro.com.vn/black-pepper-price-october-report.html" "Main area produce pepper in Vietnam  " %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
