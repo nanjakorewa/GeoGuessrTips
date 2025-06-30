@@ -156,8 +156,8 @@ sc: [
         <li>店の看板などに割と住所が書いてある</li>
         <li>地域ごとに配電を担当する業者が異なり、電柱や装置もそれに伴って異なる可能性がある{{% ref "https://openjicareport.jica.go.jp/pdf/12308599.pdf?utm_source=chatgpt.com" "Collaboration Program with the Private Sector for Disseminating Japanese Technology for Electricity Distribution Planning System in Vietnam Final Report" %}}
             <ul>
-                <li>EVN NPC(北部)：上部まで穴が空いた電柱{{% ex "https://maps.app.goo.gl/6NZNa4DZJi1sTXq66" "https://maps.app.goo.gl/oCacZvHfERb6Qsuw9" "https://maps.app.goo.gl/YhYco7M8vwxePs657" %}}</li>
-                <li>EVN CPC(中部)：『山』の形{{% ex "https://maps.app.goo.gl/V1wNUk15Xs6QpyUV6" "https://maps.app.goo.gl/wEgpCcEazpUENTQ47" "https://maps.app.goo.gl/s56SeV1VsBARKP5s5" %}}</li>
+                <li>EVN NPC(北部)：上部まで穴が空いた電柱{{% ex "https://maps.app.goo.gl/6NZNa4DZJi1sTXq66" "https://maps.app.goo.gl/oCacZvHfERb6Qsuw9" "https://maps.app.goo.gl/YhYco7M8vwxePs657" "https://maps.app.goo.gl/CgRqEorfXcVRxTYG9" %}}</li>
+                <li>EVN CPC(中部)：『山』の形{{% ex "https://maps.app.goo.gl/V1wNUk15Xs6QpyUV6" "https://maps.app.goo.gl/wEgpCcEazpUENTQ47" "https://maps.app.goo.gl/s56SeV1VsBARKP5s5" "https://maps.app.goo.gl/BjGERCaFVNAbFcWr5" "https://maps.app.goo.gl/tgGSfyKSzN2E8bMv8" %}}</li>
                 <li>EVN SPC(南部)：？</li>
             </ul>
         </li>
@@ -172,7 +172,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:2025_map_of_Viet_Nam.jpg#/media/File:2025_map_of_Viet_Nam.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/2025_map_of_Viet_Nam.jpg" alt="2025 map of Viet Nam.jpg" width="90%"></a></p><p>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=168696994">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2025_map_of_Viet_Nam.jpg#/media/File:2025_map_of_Viet_Nam.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/2025_map_of_Viet_Nam.jpg" alt="2025 map of Viet Nam.jpg" width="70%"></a></p><p>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=168696994">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="giang_cafe_nguyen_huu.jpg" width="90%">
+<img src="giang_cafe_nguyen_huu.jpg" width="70%">
 </div>
 
 {{% /tab %}}
@@ -192,7 +192,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2025-06-28-23-02-50.png" width="60%">
+<img src="2025-06-28-23-02-50.png" width="90%">
 </div>
 
 {{% /tab %}}
