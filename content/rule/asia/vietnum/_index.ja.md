@@ -120,7 +120,7 @@ sc: [
 {{% /tab %}}
 {{% tab "メコンデルタ" %}}
 {{% notice tip %}}
-水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。
+水路が網の目のように広がっており、小さい橋もしばしば見かける{{% ex "https://maps.app.goo.gl/BfiF2HwEpnB6QQG89" "https://maps.app.goo.gl/ovdYVinugje7sro48" "https://maps.app.goo.gl/q37sr9FMXDdi8yGV6" %}}。地盤の関係か、Mỹ Tho市より西側のメコンデルタには鉄道は一切存在せずバスや河川運輸がメインの交通手段となっている。ほとんどの水路の周りは木やヤシが生えている{{% ex "https://maps.app.goo.gl/b5uLDeeKNzMrtwLS9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -130,7 +130,7 @@ sc: [
 {{% /tab %}}
 {{% tab "紅河デルタ" %}}
 {{% notice tip %}}
-メコンデルタと同様に三角州には水田と水路が広がる{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" %}}。国内で最も人口密度の高い地域。
+メコンデルタと同様に三角州には水田と水路が広がる{{% ex "https://maps.app.goo.gl/bAKKXnL34PjCWgdg6" %}}。国内で最も人口密度の高い地域。水路のちかくは木がそこまで多く生えていない{{% ex "https://maps.app.goo.gl/gpZjsAkibnTHv9t7A" "https://maps.app.goo.gl/EGfMkVEZhMzb7NDf8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -157,8 +157,12 @@ sc: [
         <li>地域ごとに配電を担当する業者が異なり、電柱や装置もそれに伴って異なる可能性がある{{% ref "https://openjicareport.jica.go.jp/pdf/12308599.pdf?utm_source=chatgpt.com" "Collaboration Program with the Private Sector for Disseminating Japanese Technology for Electricity Distribution Planning System in Vietnam Final Report" %}}
             <ul>
                 <li>EVN NPC(北部)：上部まで穴が空いた電柱{{% ex "https://maps.app.goo.gl/6NZNa4DZJi1sTXq66" "https://maps.app.goo.gl/oCacZvHfERb6Qsuw9" "https://maps.app.goo.gl/YhYco7M8vwxePs657" "https://maps.app.goo.gl/CgRqEorfXcVRxTYG9" %}}</li>
-                <li>EVN CPC(中部)：『山』の形{{% ex "https://maps.app.goo.gl/V1wNUk15Xs6QpyUV6" "https://maps.app.goo.gl/wEgpCcEazpUENTQ47" "https://maps.app.goo.gl/s56SeV1VsBARKP5s5" "https://maps.app.goo.gl/BjGERCaFVNAbFcWr5" "https://maps.app.goo.gl/tgGSfyKSzN2E8bMv8" %}}</li>
-                <li>EVN SPC(南部)：？</li>
+                <li>EVN CPC(中部)：『山+△』の形{{% ex "https://maps.app.goo.gl/V1wNUk15Xs6QpyUV6" "https://maps.app.goo.gl/wEgpCcEazpUENTQ47" "https://maps.app.goo.gl/s56SeV1VsBARKP5s5" "https://maps.app.goo.gl/BjGERCaFVNAbFcWr5" "https://maps.app.goo.gl/tgGSfyKSzN2E8bMv8" %}}</li>
+                <li>EVN SPC(南部)：『山+▽』の形{{% ex "https://maps.app.goo.gl/mXhiF8DZs8FCcYof6" %}}、平行して低い電柱（光ファイバー線）も並んで立っていることが多い{{% ex "https://maps.app.goo.gl/kCUdWRCRbvsKemMd7" %}}
+                    <ul>
+                        <li>『山+▽』の▽の下がとがっていない場合{{% ex "https://maps.app.goo.gl/zA56cRWSgSqEhR3EA" "https://maps.app.goo.gl/oHpcFiBvYfdWqozSA" "https://maps.app.goo.gl/DER6GdceYWJexGnL7" %}}や上部まで穴が空いた電柱がある場合{{% ex "https://maps.app.goo.gl/m6EkioKPNVtVEqAm7" "https://maps.app.goo.gl/tL3Rmn3wFufvKjJb6" "https://maps.app.goo.gl/x4sjwKwPk6yC5uARA" %}}は北部の紅河デルタを考えてみる</li>
+                    <ul>
+                </li>
             </ul>
         </li>
     </ul>
@@ -204,7 +208,7 @@ sc: [
         <li>Quảng Nam・Quảng Ngãi・ビンディンなど中部ではアカシアのプランテーションがたまに見つかる
             <ul>
                 <li>Quảng Nam省{{% ex "https://maps.app.goo.gl/KePTirLNHuRmhT2z7" %}}</li>
-                <li>Quảng Ngãi省{{% ex "https://maps.app.goo.gl/hHwJHHKqqMrKGJr46" "https://maps.app.goo.gl/njYnFh792EoXsFnz7" %}}</li>
+                <li>Quảng Ngãi省{{% ex "https://maps.app.goo.gl/hHwJHHKqqMrKGJr46" "https://maps.app.goo.gl/RpCGKidV6UTrv93j8" "https://maps.app.goo.gl/njYnFh792EoXsFnz7" %}}</li>
                 <li>Bình Định省{{% ex "https://maps.app.goo.gl/5JNDBrmsn4si3hRz8" %}}</li>
             </ul>
         </li>
