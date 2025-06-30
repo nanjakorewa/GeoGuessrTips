@@ -73,6 +73,7 @@ sc: [
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title">地形</h4>
     <ul class="rule-list">
         <li>国境付近には山脈が伸びており、メコン川流域は平坦な平野になっている</li>
         <li>北部と中部の特定のエリアではカルスト地形が広がっている
@@ -158,6 +159,16 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "省名" %}}
+{{% notice tip %}}
+2025年に大規模な再編があり6中央直轄市57省を統廃合して6市28省となる予定なので、Google Map上では表示が変わる可能性がある点に注意。下のマップは再編前の地図（拡大して確認してください）。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:2025_map_of_Viet_Nam.jpg#/media/File:2025_map_of_Viet_Nam.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/2025_map_of_Viet_Nam.jpg" alt="2025 map of Viet Nam.jpg" width="90%"></a></p><p>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=168696994">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% tab "看板" %}}
 {{% notice tip %}}
 末尾ほど大きな地区名となる{{% ex "https://maps.app.goo.gl/GFejhH35z2n8Vqav6" "https://maps.app.goo.gl/DDrF2KwpvXwUs7Y76" %}}（ただし大都市の場合は都市・省名をスキップしている場合あり）。画像は Đống Đa 地区の Khâm Thiên 区と読み取ることができる。
@@ -184,6 +195,7 @@ sc: [
             <ul>
                 <li>メコンデルタ{{% ex "https://maps.app.goo.gl/YNundVLi2NrCTf6x5" "https://maps.app.goo.gl/WAwEh2ERYoZjmBtu6" %}}</li>
                 <li>紅河デルタ{{% ex "https://maps.app.goo.gl/ea8khJWChhkPN1ou6" %}}</li>
+                <li>北部の山間部では棚田が見つかる{{% ex "https://maps.app.goo.gl/468S9MBY6xfqR95u8" %}}</li>
             </ul>
         </li>
         <li>内陸ではゴムのプランテーションが多く見つかる
@@ -192,7 +204,7 @@ sc: [
                 <li>Tây Ninh省{{% ex "https://maps.app.goo.gl/jXH5jnpXFZ5hCWt99" "https://maps.app.goo.gl/maXfUw2TS45XjQJN6" "https://maps.app.goo.gl/Dq45CbyT6eGDGx6i8" %}}、衛星写真から大規模なプランテーションが見える</li>
             </ul>
         </li>
-        <li>北部と中部の山岳地帯にはお茶畑が分布している
+        <li>北部と中部の山岳地帯には茶畑が分布している
             <ul>
                 <li>Phu Tho省{{% ex "https://maps.app.goo.gl/7QXgu9wiDsWoeczF8" "https://maps.app.goo.gl/sbd9BNvg1e1PNPXX9" %}}</li>
                 <li>Cao Bằng省{{% ex "https://maps.app.goo.gl/XN6EJjB8SYNHwo4y9" %}}</li>
@@ -207,6 +219,7 @@ sc: [
         <li>こしょう
             <ul>
                 <li>Đắk Nông省{{% ex "https://maps.app.goo.gl/NikMyhgAQcYfsrPSA" %}}</li>
+                <li>Đắk Lắk省{{% ex "https://maps.app.goo.gl/YEU2Vq35Jsm1E2B7A" %}}</li>
             </ul>
         </li>
     </ul>
@@ -234,9 +247,19 @@ sc: [
 </div>
 
 {{% /tab %}}
+{{% tab "棚田" %}}
+{{% notice tip %}}
+生産量は多くないものの山間部の農業は茶と米が中心であり、棚田を見つけることができる{{% ex "https://maps.app.goo.gl/Gop4xpJ4T7DFLaiEA" "https://maps.app.goo.gl/468S9MBY6xfqR95u8" %}}{{% ref "https://vi.wikipedia.org/wiki/Ngh%C4%A9a_L%E1%BB%99_(x%C3%A3),_Ngh%C4%A9a_L%E1%BB%99" "Nghĩa Lộ (xã), Nghĩa Lộ" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./960px-Mu_Cang_Chai.jpg" width="90%">
+</div>
+
+{{% /tab %}}
 {{% tab "ゴム" %}}
 {{% notice tip %}}
-内陸ではゴムのプランテーションが多く見つかる。記録によるとGia Lai省とTây Ninh省の周りが多い{{% ref "https://www.researchgate.net/figure/Traditional-and-non-traditional-rubber-tree-growing-areas-in-mainland-Southeast-Asia_fig2_256972338" "Mapping rubber tree growth in mainland Southeast Asia using time-series MODIS 250 m NDVI and statistical data" %}}が、出典によって若干分布が異なる。
+内陸ではゴムのプランテーションが多く見つかる{{% ex "https://maps.app.goo.gl/9aVjLKVNPMSmqd3E6" "https://maps.app.goo.gl/TTGvuoYTebZAv26NA" "https://maps.app.goo.gl/U6FMjZPayKGjSW4t7" %}}。記録によるとGia Lai省とTây Ninh省の周りが多い{{% ref "https://www.researchgate.net/figure/Traditional-and-non-traditional-rubber-tree-growing-areas-in-mainland-Southeast-Asia_fig2_256972338" "Mapping rubber tree growth in mainland Southeast Asia using time-series MODIS 250 m NDVI and statistical data" %}}が、出典によって若干分布が異なる。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -246,7 +269,7 @@ sc: [
 {{% /tab %}}
 {{% tab "お茶" %}}
 {{% notice tip %}}
-山岳地帯の一部ではお茶畑が分布している{{% ref "https://www.researchgate.net/figure/Distribution-of-tea-plantations-in-Vietnam-in-2019-Data-was-soured-from-GSO-2020b-Ha_fig1_351975165" "Sustainable tea production through agroecological management practices in Vietnam: a review" %}}。
+山岳地帯の一部ではお茶畑が分布している{{% ex "https://maps.app.goo.gl/7QXgu9wiDsWoeczF8" "https://maps.app.goo.gl/sbd9BNvg1e1PNPXX9" %}}{{% ref "https://www.researchgate.net/figure/Distribution-of-tea-plantations-in-Vietnam-in-2019-Data-was-soured-from-GSO-2020b-Ha_fig1_351975165" "Sustainable tea production through agroecological management practices in Vietnam: a review" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -255,8 +278,8 @@ sc: [
 
 {{% /tab %}}
 {{% tab "コーヒー" %}}
-{{% notice tip %}}
-標高が少し高い地域ではコーヒーの生産が盛ん{{% ref "https://beta.vietbiz.jp/vietnam-coffee-industry/" "【画像出典】ベトナムのコーヒー産業の動向とポテンシャル - VietViz" %}}。
+{{% notice tip %}}5
+標高が少し高い地域ではコーヒーの生産が盛ん{{% ex "https://maps.app.goo.gl/LPDDk2NN6EDxyb4K6" %}}{{% ref "https://beta.vietbiz.jp/vietnam-coffee-industry/" "【画像出典】ベトナムのコーヒー産業の動向とポテンシャル - VietViz" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -285,7 +308,6 @@ sc: [
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
         <li>都市ごとのロゴが通り名についていることがあり、都市が判断できる</li>
-        <li>Phú Quốc島というカンボジア側の離島にもカバレッジがある</li>
         <li>ĐT651沿いはリゾート地であり道路わきにも白い砂浜が広がっている</li>
         <li>ハロン湾には沈水カルスト地形が広がっている</li>
     </ul>
@@ -301,16 +323,6 @@ sc: [
 <p><a href="https://commons.wikimedia.org/wiki/File:Nha_Chung_street_signs.jpg#/media/File:Nha_Chung_street_signs.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nha_Chung_street_signs.jpg" alt="Nha Chung street signs.jpg" height="427" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41894171246@N01">Nam-ho Park</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/41894171246@N01/3390169458">IMG_5176</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17514899">Link</a></p>
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="718"><a href="https://www.reddit.com/r/geoguessr/comments/wjvrpe/i_know_vietnam_isnt_common_but_here_are_some/">I know Vietnam isn't common, but here are some symbols to look out for.</a><br> by<a href="https://www.reddit.com/user/Analbaby1/">u/Analbaby1</a> in<a href="https://www.reddit.com/r/geoguessr/">geoguessr</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
-</div>
-
-{{% /tab %}}
-{{% tab "Phú Quốc島" %}}
-{{% notice tip %}}
-未舗装の赤い土の道路{{% ex "https://maps.app.goo.gl/JmDPPnAEtudzgYMw9" "https://maps.app.goo.gl/L7VrQZEayVbRYCfo9" "https://maps.app.goo.gl/MmEvvAHKi5Pn7ZL47" %}}か中央に大き目の分離帯がある4車線の道{{% ex "https://maps.app.goo.gl/4MYfS5YUqSjLW2fV7" "https://maps.app.goo.gl/9Uem35Lk9XaCFVG77" %}}が多い。
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="phu_quoc.jpg">
 </div>
 
 {{% /tab %}}
@@ -331,6 +343,37 @@ sc: [
 
 <div class="googlemap-if unclickable">
 <img src="ha_long_bay_with.jpg">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>Phú Quốc島というカンボジア側の離島にもカバレッジがある</li>
+        <li>Móng Cáiは中国との貿易が盛んな都市であり北京語や広東語の話者もいる</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Phú Quốc" %}}
+{{% notice tip %}}
+最南部に離島がある。未舗装の赤い土の道路{{% ex "https://maps.app.goo.gl/JmDPPnAEtudzgYMw9" "https://maps.app.goo.gl/L7VrQZEayVbRYCfo9" "https://maps.app.goo.gl/MmEvvAHKi5Pn7ZL47" %}}か中央に大き目の分離帯がある4車線の道{{% ex "https://maps.app.goo.gl/4MYfS5YUqSjLW2fV7" "https://maps.app.goo.gl/9Uem35Lk9XaCFVG77" %}}が多い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="phu_quoc.jpg">
+</div>
+
+{{% /tab %}}
+{{% tab "Móng Cái" %}}
+{{% notice tip %}}
+中国系の言語の表記や免税店が見つかる{{% ex "https://maps.app.goo.gl/iRD766QPGaj5TwG37" "https://maps.app.goo.gl/mNujm6R81WwoEDHv7" "https://maps.app.goo.gl/xAWV1qHGxvRu3AVa8" %}}。ただ、看板にたいてい住所も書いてあるのでそれを見た方が早い。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="mongcai.jpg" width="90%">
 </div>
 
 {{% /tab %}}
