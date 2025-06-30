@@ -154,6 +154,13 @@ sc: [
     <h4 class="section-title">建物</h4>
     <ul class="rule-list">
         <li>店の看板などに割と住所が書いてある</li>
+        <li>地域ごとに配電を担当する業者が異なり、電柱や装置もそれに伴って異なる可能性がある{{% ref "https://openjicareport.jica.go.jp/pdf/12308599.pdf?utm_source=chatgpt.com" "Collaboration Program with the Private Sector for Disseminating Japanese Technology for Electricity Distribution Planning System in Vietnam Final Report" %}}
+            <ul>
+                <li>EVN NPC(北部)：上部まで穴が空いた電柱{{% ex "https://maps.app.goo.gl/6NZNa4DZJi1sTXq66" "https://maps.app.goo.gl/oCacZvHfERb6Qsuw9" "https://maps.app.goo.gl/YhYco7M8vwxePs657" %}}</li>
+                <li>EVN CPC(中部)：『山』の形{{% ex "https://maps.app.goo.gl/V1wNUk15Xs6QpyUV6" "https://maps.app.goo.gl/wEgpCcEazpUENTQ47" "https://maps.app.goo.gl/s56SeV1VsBARKP5s5" %}}</li>
+                <li>EVN SPC(南部)：？</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -175,7 +182,17 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="giang_cafe_nguyen_huu.jpg" width="60%">
+<img src="giang_cafe_nguyen_huu.jpg" width="90%">
+</div>
+
+{{% /tab %}}
+{{% tab "電柱" %}}
+{{% notice tip %}}
+国営の電力会社が地域ごとの配電を担当しており、電柱などのインフラが異なるかもしれない{{% ref "https://openjicareport.jica.go.jp/pdf/12308599.pdf?utm_source=chatgpt.com" "【画像出典】Collaboration Program with the Private Sector for Disseminating Japanese Technology for Electricity Distribution Planning System in Vietnam Final Report" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="2025-06-28-23-02-50.png" width="60%">
 </div>
 
 {{% /tab %}}
@@ -314,7 +331,7 @@ sc: [
 </div>
 
 {{% tabs %}}
-{{% tab "都市ごとのロゴ" %}}
+{{% tab "都市ごとのロゴ" %}}![](2025-06-30-18-02-50.png)
 {{% notice tip %}}
 都市ごとのロゴが通り名についていることがあり、都市が判断できる。画像はハノイ市{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8E%E3%82%A4" "ハノイ" %}}。
 {{% /notice %}}
