@@ -1,7 +1,7 @@
 ---
 title: "ベトナム"
 date: 2023-02-26
-lastmod: 2023-07-01
+lastmod: 2025-06-28
 weight: 1
 draft: false
 keywords: [""]
@@ -50,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-赤白のボラードがある{{% ex "https://maps.app.goo.gl/A87NbysAnb6HWhVy5" "https://maps.app.goo.gl/p3PwktHnrz74VFNE8" %}}。また、標識のポールが赤白のストライプになっている{{% ex "https://maps.app.goo.gl/wVhutSYMMUKXbEcc7" "https://maps.app.goo.gl/K3qBDADNsDr5k6rF9" %}}。
+赤白のボラードがある{{% ex "https://maps.app.goo.gl/p3PwktHnrz74VFNE8" %}}。また、標識のポールが赤白のストライプになっている{{% ex "https://maps.app.goo.gl/pW8PSWdNKzAPow418" "https://maps.app.goo.gl/wVhutSYMMUKXbEcc7" "https://maps.app.goo.gl/K3qBDADNsDr5k6rF9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
