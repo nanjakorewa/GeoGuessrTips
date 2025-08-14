@@ -24,8 +24,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは.np</li>
-        <li>エベレストのふもとの山岳地帯を歩いている</li>
-        <li>お店で登山用グッズを売っていて現在地点の高さが看板に書いてある</li>
+        <li>車は<span class="quiz">左側</span>通行</li>
+        <li>ナンバープレートは<span class="quiz">赤</span>背景のものが多い</li>
+        <li>白黒のボラードと黄色の路側帯が見られる</li>
     </ul>
     {{% rd asia nepal verysmall %}}
 </div>
@@ -59,6 +60,7 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 
 {{% notice tip %}}
 {{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護国だった影響もあり、イギリスと似た標識が見つかる{{% ex "https://maps.app.goo.gl/EEKJKFs1MJXSmnKd7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "グルカ戦争" %}}。
+イギリスと同じく<span class="quiz">左側</span>通行。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
