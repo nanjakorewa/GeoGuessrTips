@@ -14,6 +14,8 @@ dont_show_usda: true
 is_has_many_trekker: true
 sc_title: "間違えやすい地域"
 sc: [
+    ["../india/", "インド"],
+    ["../srilanka/", "スリランカ"],
     ["../bhutan/", "ブータン"],
     ]
 ---
@@ -47,14 +49,13 @@ CC0
 {{% /lb %}}
 
 
-
 {{% notice tip %}}
-{{% goto "../bhutan/" "ブータン" %}}と同じく旗が見られる{{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}。お店で登山用グッズを売っていて現在地点の高さが看板に書いてある。周りの人たちも登山用のバッグを背負っている。
+Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://maps.app.goo.gl/Shp7L9MKjMy5XgiJA" %}}{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=135652" "Pinus roxburghii - iNaturalist" %}}。
 {{% /notice %}}
-<div class="googlemap-if">
-<img src="./nepal_annapurna_himalayas_trekking.jpg" width="95%">
-</div>
 
+<div class="googlemap-if no-margin">
+<img src="dalhousie3.jpg" width="80%">
+</div>
 
 {{% notice tip %}}
 {{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護国だった影響もあり、イギリスと似た標識が見つかる{{% ex "https://maps.app.goo.gl/EEKJKFs1MJXSmnKd7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "グルカ戦争" %}}。
@@ -73,7 +74,7 @@ CC0
 
 
 {{% notice tip %}}
-白黒のボラードと黄色の路側帯が見られる{{% ex "https://maps.app.goo.gl/JiwYkAt8PF9T9SZe9" %}}。
+白黒のボラードと黄色の路側帯が見られる{{% ex "https://maps.app.goo.gl/JiwYkAt8PF9T9SZe9" "https://maps.app.goo.gl/B4DEekbhcLG8qqCx8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -133,7 +134,7 @@ CC0
 {{% tabs %}}
 {{% tab "नाम्चे बजार" %}}
 {{% notice tip %}}
-ヒマラヤ登山の拠点であるNamche Bazaar（नाम्चे बजार）にストリートビューがある{{% ex "https://maps.app.goo.gl/y76kixzaKfVDn1s17" "https://maps.app.goo.gl/vQeiU8gnXyiWr17S8" %}}{{% ref "https://en.wikipedia.org/wiki/Namche_Bazaar" "Namche Bazaar" %}}。
+ヒマラヤ登山の拠点であるNamche Bazaar（नाम्चे बजार）にストリートビューがある{{% ex "https://maps.app.goo.gl/y76kixzaKfVDn1s17" "https://maps.app.goo.gl/vQeiU8gnXyiWr17S8" %}}{{% ref "https://en.wikipedia.org/wiki/Namche_Bazaar" "Namche Bazaar" %}}。また、登山道では{{% goto "../bhutan/" "ブータン" %}}と同じく旗が見られる{{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}。お店で登山用グッズを売っていて現在地点の高さが看板に書いてある。周りの人たちも登山用のバッグを背負っている。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
