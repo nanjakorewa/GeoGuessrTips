@@ -30,6 +30,23 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+
+{{% notice tip %}}
+ナンバープレートは<span class="quiz">赤</span>背景のものが多い{{% ex "https://maps.app.goo.gl/NEFXXZt1gqLjxx4D7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/24017857@N02/2282988412/in/photolist-DCfrfX-f2Y1CZ-258x1L9-8M8iGF-qjvSEo-238pCZp-4tJUVE-bDFkrE-snQrE5-2f62Jaf-2cJ3F8f-FvYbE-mNKCRX-F1A3Sb-b6Vgrt-NL3ShE-7R28yy-nNVwFq-cJPuMs-JYgRxJ-GwePEk-7Xi1nY-aGvjy4-SQWy8u-Qpn5Cy-21V9Q9t-22Vc1w4-dwGGRa-5NEcbL-hZbZK5-Dj8V9V-9eL2MV-qEKAKe-aEVPjn-5hRchH-qdqLco-8QJcrw-PmVdwb-dzMCq1-eX5LdU-b4YgwF-nNFmDv-4tJUVb-85JHLn-g1V7ok-21an3WU-aKrTar-aqNEo5-nNHzx4-o5TZji" title="nepal-207"><img src="https://live.staticflickr.com/3227/2282988412_ec82a600d5_z.jpg" width="583" height="389" alt="nepal-207"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% lb 50 %}}
+![](Nepal_License_Plate_-_Private_Car_-_Light_Vehicle_-_Front_-_1983-2019.png)
+
+CC0
+{{% /lb %}}
+
+
 {{% notice tip %}}
 ヒマラヤ登山の拠点であるNamche Bazaar（नाम्चे बजार）にストリートビューがある{{% ex "https://maps.app.goo.gl/y76kixzaKfVDn1s17" "https://maps.app.goo.gl/vQeiU8gnXyiWr17S8" %}}{{% ref "https://en.wikipedia.org/wiki/Namche_Bazaar" "Namche Bazaar" %}}。
 {{% /notice %}}
@@ -58,10 +75,6 @@ sc: [
 {{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護国だった影響もあり、イギリスと似た標識が見つかる{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "グルカ戦争" %}}。
 {{% /notice %}}
 
-{{% notice note %}}
-2024年3月現在、車道の上のカバレッジはないため覚えなくてもok。
-{{% /notice %}}
-
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="800" height="522" alt="Traffic signs, Kathmandu, Nepal."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
@@ -77,3 +90,30 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs  %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title">地形</h4>
+    <ul class="rule-list">
+        <li>ネパールの郡の名前が看板に書かれていることがある
+            <ul>
+                <li>Kailali {{% ex "https://maps.app.goo.gl/eYTNzE9xBZZNMMn97" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ネパールの郡" %}}
+{{% notice tip %}}
+画質が悪いのも相まって読みにくい。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./SAHAMATI_working_area_2012-2013.jpg" width="90%">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
