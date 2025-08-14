@@ -59,6 +59,15 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 </div>
 
 {{% notice tip %}}
+白黒のボラードと黄色の路側帯が見られる{{% ex "https://maps.app.goo.gl/JiwYkAt8PF9T9SZe9" "https://maps.app.goo.gl/B4DEekbhcLG8qqCx8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:B.P._Koirala_Highway6.jpg#/media/File:B.P._Koirala_Highway6.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/B.P._Koirala_Highway6.jpg" alt="B.P. Koirala Highway6.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Janak_Bhatta" title="User:Janak Bhatta">Janak Bhatta</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58570500">Link</a></p>
+</div>
+
+
+{{% notice tip %}}
 {{% goto "../../europe/united-kingdom/" "イギリス" %}}の保護国だった影響もあり、イギリスと似た標識が見つかる{{% ex "https://maps.app.goo.gl/EEKJKFs1MJXSmnKd7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "グルカ戦争" %}}。
 イギリスと同じく<span class="quiz">左側</span>通行。
 {{% /notice %}}
@@ -74,14 +83,6 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 <img src="./r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px">
 </div>
 
-
-{{% notice tip %}}
-白黒のボラードと黄色の路側帯が見られる{{% ex "https://maps.app.goo.gl/JiwYkAt8PF9T9SZe9" "https://maps.app.goo.gl/B4DEekbhcLG8qqCx8" %}}。
-{{% /notice %}}
-
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:B.P._Koirala_Highway6.jpg#/media/File:B.P._Koirala_Highway6.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/B.P._Koirala_Highway6.jpg" alt="B.P. Koirala Highway6.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Janak_Bhatta" title="User:Janak Bhatta">Janak Bhatta</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58570500">Link</a></p>
-</div>
 
 
 {{% /tab %}}

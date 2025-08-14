@@ -20,12 +20,9 @@ unsafe = true
 [params]
 # update
 update_message = "最近の更新"
-update_date = "2025/06/28"
-page_title = "ベトナム"
-page_link = "https://geopinning.space/rule/asia/vietnum/"
-update_date2 = "2025/06/04"
-page_title2 = "ナミビア"
-page_link2 = "https://geopinning.space/rule/africa/namibia/"
+update_date = "2025/08/14"
+page_title = "ネパール"
+page_link = "https://geopinning.space/rule/asia/nepal/"
 # logo is for all page
 logo = ""
 # logo white is for homepage logo, you can use colorful logo too...
