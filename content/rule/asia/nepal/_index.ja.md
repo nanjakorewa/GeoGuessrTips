@@ -1,8 +1,8 @@
 ---
 title: "ネパール"
 date: 2023-02-26
-lastmod: 2023-05-01
-weight: 2
+lastmod: 2025-08-14
+weight: 1
 draft: false
 keywords: [""]
 sections: [""]
@@ -164,7 +164,7 @@ Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref
 {{% tabs %}}
 {{% tab "ビンロウジュ" %}}
 {{% notice tip %}}
-何十回かマップをプレイして、そう思っただけなのでソースなし{{% ex "https://maps.app.goo.gl/nRnLGmjsGrK57SGe7" "https://maps.app.goo.gl/PibWXK2qv8Y3bJqj8" %}}。
+何十回かマップをプレイしてそう思っただけなのでソースなし{{% ex "https://maps.app.goo.gl/nRnLGmjsGrK57SGe7" "https://maps.app.goo.gl/PibWXK2qv8Y3bJqj8" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -182,6 +182,16 @@ Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref
 <p><a href="https://commons.wikimedia.org/wiki/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg#/media/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg" alt="अन्तु डाडा antu dada.jpg" height="425" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Hari_gurung77" title="User:Hari gurung77">Hari gurung77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59062347">Link</a></p>
 </div>
 
+
+{{% /tab %}}
+{{% tab "コーヒー" %}}
+{{% notice tip %}}
+中部の地域に多いらしい{{% ref "https://library.sweetmarias.com/coffee-producing-countries/asia/nepal-coffee-overview/" "Nepal Coffee Overview" %}}が、画質が悪いのでかなり見分けにくい。しかも綺麗なプランテーションのような育て方ではない説もある{{% ref "https://blog.tirakita.com/2013/08/%E3%81%88%EF%BC%9F%E3%81%93%E3%81%93%E3%81%8C%E8%BE%B2%E5%9C%92%EF%BC%9F%E3%80%80%E3%81%9F%E3%81%A0%E3%81%AE%E5%B1%B1%E3%81%AE%E4%B8%AD%E3%81%A0%E3%81%91%E3%81%A9%EF%BC%9F-%E3%83%8D%E3%83%91.shtml" "え？ここが農園？ – ネパールのコーヒー農園に行って来ました" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1755233947015!6m8!1m7!1sts0hCFPjCjyGoZwAkZd1gg!2m2!1d28.29771073273221!2d83.8027761391603!3f196.02540687469144!4f-3.7132748368553052!5f0.4003161831622405" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 
 {{% /tab %}}
 {{% /tabs %}}
