@@ -12,6 +12,7 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+is_has_distinctive_googlecar: true
 sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド"],
@@ -34,6 +35,15 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
+{{% notice tip %}}
+デーヴァナーガリー文字を用いたネパール語の看板が見つかる。ヒンディー語と見分けがつきにくいが、ネパールでは数字もデーヴァナーガリー文字で書くことが多い{{% ex "https://maps.app.goo.gl/am3DLRSxEGwNTEhp8" "https://maps.app.goo.gl/UURgDuo1c7TMfyB19" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+
+<img src="kmc3.jpg" width="90%">
+</div>
+
 
 {{% notice tip %}}
 ナンバープレートは<span class="quiz">赤</span>背景のものが多い{{% ex "https://maps.app.goo.gl/NEFXXZt1gqLjxx4D7" "https://maps.app.goo.gl/MfyXFzhiugrGbHeM8" %}}。
@@ -51,7 +61,7 @@ CC0
 
 
 {{% notice tip %}}
-Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://maps.app.goo.gl/Shp7L9MKjMy5XgiJA" %}}{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=135652" "Pinus roxburghii - iNaturalist" %}}。
+Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://maps.app.goo.gl/JU4LEPppxb9WKs7v7" "https://maps.app.goo.gl/Shp7L9MKjMy5XgiJA" "https://maps.app.goo.gl/g2SWFAdp8YGjZfz6A" %}}{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=135652" "Pinus roxburghii - iNaturalist" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -84,6 +94,15 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 </div>
 
 
+{{% notice tip %}}
+Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref "https://nepali-japanese.com/f_nepal/wear.html" "ネパールの民族衣装" %}}。男性はトピという黒い帽子をかぶっている{{% ex "https://maps.app.goo.gl/eKdF9brhpSgsKJgA9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Janakpur_Visit8.JPG#/media/File:Janakpur_Visit8.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Janakpur_Visit8.JPG" alt="Janakpur Visit8.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Damauli&amp;action=edit&amp;redlink=1" class="new" title="User:Damauli (page does not exist)">Damauli</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=37118606">Link</a></p>
+</div>
+
+
 
 {{% /tab %}}
 {{% /tabs  %}}
@@ -91,14 +110,20 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <h4 class="section-title">地形</h4>
+    <h4 class="section-title">地形・地名</h4>
     <ul class="rule-list">
-        <li>ネパールの郡の名前が看板に書かれていることがある
+        <li>ネパールの郡の名前が看板に書かれていることがある（ただし町名で終わり群名は省略していることが多い）
             <ul>
-                <li>Kailali {{% ex "https://maps.app.goo.gl/eYTNzE9xBZZNMMn97" %}}</li>
+                <li>Kailali {{% ex "https://maps.app.goo.gl/NnVCnZwYB8qk1oFU8" "https://maps.app.goo.gl/eYTNzE9xBZZNMMn97" %}}</li>
+                <li>Jhapa {{% ex "https://maps.app.goo.gl/LWhBYrL5dUA1kr5UA" %}}</li>
             </ul>
         </li>
-        <li>南の国境像には平地が、北には山脈が広がっている</li>
+        <li>南の国境像には平地が、北には山脈が広がっている
+            <ul>
+                <li>平野部 {{% ex "https://maps.app.goo.gl/L6un1yGggR5oob5x6" "https://maps.app.goo.gl/NMWpMjz6QGVTYpyc6" "https://maps.app.goo.gl/kAiuzuKQUyTDvVUA6" %}}</li>
+                <li>山間部 {{% ex "https://maps.app.goo.gl/QUdYnf4LF6tz5gRa8" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -121,6 +146,40 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 
 <div class="googlemap-if unclickable">
 <img src="./Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">植生</h4>
+    <ul class="rule-list">
+        <li>ビンロウジュのような背が高いヤシは最東部の平野に多い</li>
+        <li>お茶のプランテーションは東部に多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "ビンロウジュ" %}}
+{{% notice tip %}}
+何十回かマップをプレイして、そう思っただけなのでソースなし{{% ex "https://maps.app.goo.gl/nRnLGmjsGrK57SGe7" "https://maps.app.goo.gl/PibWXK2qv8Y3bJqj8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./areca_catechu_sankyo_garden.jpg" width="50%">
+</div>
+
+
+{{% /tab %}}
+{{% tab "茶畑" %}}
+{{% notice tip %}}
+どちらかというと東部であり、東部の町ダーラン（धरान）よりさらに東部に多いと思う{{% ex "https://maps.app.goo.gl/7XojkabcdQZA4JUp8" "https://maps.app.goo.gl/86vtKxEaL2bJZtbz7" "https://maps.app.goo.gl/E2rFwNCGdRemaker6" %}}
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg#/media/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg" alt="अन्तु डाडा antu dada.jpg" height="425" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Hari_gurung77" title="User:Hari gurung77">Hari gurung77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59062347">Link</a></p>
 </div>
 
 
