@@ -56,7 +56,7 @@ link = "https://www.youtube.com/@nanjakorewa"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "https://twitter.com/nanjakorewa"
+link = "https://x.com/nanjakorewa"
 
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
@@ -101,7 +101,7 @@ iconname = ""
 
 [[Languages.ja.menu.main]]
 name = "SNSリンク"
-url = "https://lit.link/nanjakorewa"
+url = "https://nanjakorewa.github.io/MyPortfolio/"
 weight = 2
 iconname = ""
 
