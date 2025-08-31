@@ -41,7 +41,7 @@
 - id: toppage
   translation: トップページ
 - id: page-title
-  translation: GeoGuessrのメモ
+  translation: GeoGuessrのめも
 - id: w-etf
   translation: わかりやすい目印
 - id: w-viecle
@@ -79,7 +79,7 @@
 - id: w-mymemo-wrong-cn
   translation: 国を間違えそうなポイント
 - id: show_mymemo_button
-  translation: 個人用メモを表示
+  translation: 個人用めもを表示
 - id: display_meaning
   translation: アイコンの意味
 - id: streaming_status

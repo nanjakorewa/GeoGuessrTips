@@ -11,7 +11,7 @@ sections: [""]
 ## 北米
 
 {{% notice note %}}
-家の前の郵便受けは<a href="../../architecture/mailbox/">「郵便受け」</a>にメモします。
+家の前の郵便受けは<a href="../../architecture/mailbox/">「郵便受け」</a>にめもします。
 {{% /notice %}}
 
 {{% tabs %}}

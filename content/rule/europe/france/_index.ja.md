@@ -529,7 +529,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% /tab %}}
 {{% tab "Aiguille de la Grande Sassière山" %}}
 {{% notice tip %}}
-フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある。初見ではフランスとわからなかったのでメモ{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
+フランスのサヴォワ県にあるアルプスの山、Aiguille de la Grande Sassièreへの道がある。初見ではフランスとわからなかったのでめも{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>

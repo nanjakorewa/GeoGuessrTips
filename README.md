@@ -1,11 +1,11 @@
 
-# [GeoGuessrのメモ](https://geopinning.space/)
+# [GeoGuessrのめも](https://geopinning.space/)
 
-ジオゲッサーのメモを記録するリポジトリ。[GeoGuessrのメモ](https://geopinning.space/)のソースコードと画像です。
+ジオゲッサーのめもを記録するリポジトリ。[GeoGuessrのめも](https://geopinning.space/)のソースコードと画像です。
 
-## 国と地域の判定メモ
+## 国と地域の判定めも
 
-国と地域を当てるためのヒントをメモしたり、関連サイトへのリンクをまとめたりするページです。以下はページ例です。
+国と地域を当てるためのヒントをめもしたり、関連サイトへのリンクをまとめたりするページです。以下はページ例です。
 
 - [スウェーデン](https://geopinning.space/rule/europe/finland/)
 - [コロンビア](https://geopinning.space/rule/cs_america/colombia/)
