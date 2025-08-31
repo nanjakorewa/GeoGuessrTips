@@ -22,12 +22,15 @@
 <script src="{{ $script.Permalink }}"></script>
 
 <script>
-  document.getElementById("toggle-link").addEventListener("click", function (event) {
+const toggleLink = document.getElementById("toggle-link");
+if (toggleLink) {
+  toggleLink.addEventListener("click", function (event) {
     event.preventDefault();
     document.querySelectorAll("li.unofficial-area").forEach(li => {
       li.classList.toggle("dontshowarea");
     });
   });
+}
 </script>
 
 
