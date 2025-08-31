@@ -59,6 +59,7 @@ The upper parts look like this.{{% ex "https://maps.app.goo.gl/MfQRFFuC4WPkKxG67
 
 {{% notice tip %}}
 The region has a tropical monsoon climate, with tall coconut trees found in suburban areas.{{% ex "https://maps.app.goo.gl/qF4LGXPJJjizJeRT6" "https://maps.app.goo.gl/uRwNrL5Eb4cL5zj67" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}. These also grow in mainland regions with heavy rainfall (e.g., Assam, Kerala, Goa).
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="../india/arecanut_trees_assam.jpg">

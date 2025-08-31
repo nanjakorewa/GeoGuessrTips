@@ -227,4 +227,5 @@ Jika bahasa tersebut tertulis bersama bahasa Sámi utara, kemungkinan besar bera
 <p>Public domain</p>
 </div>
 
+{{% /tab %}}
 {{% /tabs %}}

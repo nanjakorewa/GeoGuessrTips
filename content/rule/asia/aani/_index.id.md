@@ -60,6 +60,7 @@ Bagian atas tiang listrik terlihat seperti ini. {{% ex "https://maps.app.goo.gl/
 
 {{% notice tip %}}
 Wilayah ini memiliki iklim tropis monsun, dan pohon kelapa yang tinggi sering ditemukan di daerah pinggiran. {{% ex "https://maps.app.goo.gl/qF4LGXPJJjizJeRT6" "https://maps.app.goo.gl/uRwNrL5Eb4cL5zj67" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}. Pohon seperti ini juga ditemukan di wilayah curah hujan tinggi di daratan utama India (Assam, Kerala, Goa).
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="../india/arecanut_trees_assam.jpg">

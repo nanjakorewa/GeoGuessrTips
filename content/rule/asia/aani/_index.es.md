@@ -59,6 +59,8 @@ La parte superior se ve de esta manera{{% ex "https://maps.app.goo.gl/MfQRFFuC4W
 
 {{% notice tip %}}
 Es una región de clima monzónico tropical, y en los suburbios se pueden encontrar cocoteros altos{{% ex "https://maps.app.goo.gl/qF4LGXPJJjizJeRT6" "https://maps.app.goo.gl/uRwNrL5Eb4cL5zj67" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}. También crecen en regiones lluviosas del continente como Assam, Kerala y Goa.
+{{% /notice %}}
+
 
 <div class="googlemap-if no-margin">
 <img src="../india/arecanut_trees_assam.jpg">

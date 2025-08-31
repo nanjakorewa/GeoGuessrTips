@@ -103,7 +103,7 @@ Sering terlihat bahwa tanda atau papan jalan digantung dengan sesuatu seperti kl
 
 CC Attribution-ShareAlike 3.0, Plat nomor Uni Eropa. (2022, 19 November). Di Wikipedia. https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%82%AF. Dibuka pada 20 Mei 2023.
 
-{{% lb %}}
+{{% /lb %}}
 
 {{% /tab %}}
 {{% tab "w-vehicle" %}}
@@ -114,7 +114,7 @@ CC Attribution-ShareAlike 3.0, Plat nomor Uni Eropa. (2022, 19 November). Di Wik
 * Papan tanda awal dan akhir  
 * Bollard dengan warna merah putih  
 
-{{% lb %}}
+{{% /lb %}}
 
 {{% /tab %}}
 {{% /tabs %}}

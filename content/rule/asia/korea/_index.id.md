@@ -144,3 +144,4 @@ Hampir seluruh area, kecuali di bagian tenggara yang sedikit memiliki jalan, ada
 <img src="./jeju_island_nature_korea.jpg">
 </div>
 {{% /tab %}}
+{{% /tabs %}}

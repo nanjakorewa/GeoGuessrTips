@@ -46,4 +46,5 @@ Distinctive signs on the Åland Islands often display local area names.
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683305150891!6m8!1m7!1snEvPM2ggzYQOdUPo94q5kg!2m2!1d60.36726077999457!2d19.91731989363016!3f337.6565221207833!4f-14.436875011049167!5f2.87188184285781" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
 {{% /tabs %}}

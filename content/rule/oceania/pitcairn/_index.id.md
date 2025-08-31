@@ -40,4 +40,5 @@ sc: [
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686018117236!6m8!1m7!1sRP1OlgvCG-yBATpiP4zzgQ!2m2!1d-25.06878019670753!2d-130.0960184171982!3f232.26171080623598!4f-16.976671611022482!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab  %}}
 {{% /tabs  %}}

@@ -151,6 +151,7 @@ import_jquery_36: true
 <img src="./jeju_island_nature_korea.jpg">
 </div>
 {{% /tab %}}
+{{% /tabs %}}
 
 
 

@@ -61,6 +61,7 @@ sc: [
 
 {{% notice tip %}}
 熱帯モンスーン気候の地域であり、郊外では背の高いヤシの木が見つかる{{% ex "https://maps.app.goo.gl/qF4LGXPJJjizJeRT6" "https://maps.app.goo.gl/uRwNrL5Eb4cL5zj67" "https://maps.app.goo.gl/idQYTMM8SxZK1USL8" %}}。本土の雨が多い地域（Assam・Kerala・Goa）にも生えている。
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <img src="../india/arecanut_trees_assam.jpg">

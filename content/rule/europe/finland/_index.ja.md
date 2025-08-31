@@ -233,4 +233,5 @@ additional_link:
 <p>Public domain</p>
 </div>
 
+{{% /tab %}}
 {{% /tabs %}}

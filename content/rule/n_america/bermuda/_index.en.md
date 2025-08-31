@@ -50,4 +50,5 @@ The Google Car is distinctive. Many images are taken from boats{{% ex "https://m
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683467821168!6m8!1m7!1sc83mWC9O9BNuxBni8eYE4A!2m2!1d32.29257540872071!2d-64.78199819199413!3f257.974943079478!4f-32.12176255062474!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% /tab %}}
 {{% /tabs %}}
