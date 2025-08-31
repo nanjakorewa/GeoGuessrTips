@@ -17,7 +17,7 @@ flag: "Kagawa.svg"
     <ul class="rule-list">
         <li>オレンジの●がふたつ描かれた看板がある</li>
     </ul>
-    {{% corp "asia/japan" "shikoku/Kagawa" %}}
+    {{% corp "asia/japan" "shikoku/kagawa" %}}
 </div>
 
 {{% tabs %}}
