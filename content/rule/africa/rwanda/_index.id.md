@@ -126,3 +126,76 @@ Nama jalan di sini sering kali dimulai dengan "SH" {{% ex "https://maps.app.goo.
 
 {{% /tab %}}
 {{% /tabs  %}}
+---
+title: "Rwanda"
+date: 2023-02-26
+lastmod: 2023-07-01
+weight: 2
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "RW.svg"
+no_detaile_info: true
+jetro_detail: false
+is_has_distinctive_googlecar: true
+plonkit: true
+sc_title: "Wilayah yang Sering Tertukar"
+sc: [
+    ["../uganda/", "Uganda"],
+    ["../kenya/", "Kenya"],
+]
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li>Berkendara di sisi <span class="quiz">kanan</span>.</li>
+        <li>Domain negara: <span class="quiz">.rw</span></li>
+        <li>Jalan tampak rapi berkat kerja bakti komunitas (<span class="quiz">Umuganda</span>).</li>
+        <li>Pelat nomor sering: <span class="quiz">putih depan</span>, <span class="quiz">kuning belakang</span>.</li>
+        <li>Gerai uang digital (mis. <span class="quiz">MTN</span>) banyak di kota.</li>
+        <li>Tiang listrik penampang <span class="quiz">persegi</span> bisa terlihat.</li>
+        <li>Mobil Google cukup khas di banyak area.</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "w-etf" %}}
+
+{{% notice tip %}}
+Kerja bakti rutin bernama <span class="quiz">Umuganda</span> membuat pinggir jalan bersih dan terawat{{% ref "https://en.wikipedia.org/wiki/Umuganda" "Umuganda" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" width="95%" alt="Umuganda"></a></p>
+</div>
+
+{{% notice tip %}}
+Di Kigali motor sangat umum, dan arus kendaraan <span class="quiz">kanan</span> (berbeda dari Uganda). Pelat bisa tampak <span class="quiz">kuning</span> atau putih tergantung depan/belakang.
+{{% /notice %}}
+
+{{% lb 50 %}}
+![](/rule/africa/rwanda/2023-05-22-19-49-47.png)
+{{% /lb %}}
+{{% lb 50 %}}
+![](/rule/africa/rwanda/2023-05-22-19-50-24.png)
+{{% /lb %}}
+
+{{% notice tip %}}
+Gerai uang digital <span class="quiz">MTN</span> dan Airtel sering ditemui di jalan.
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="/rule/africa/rwanda/New-mtn-logo.jpg" width="45%" style="margin-right:10px">
+<img src="/rule/africa/rwanda/Logo_Canal+_1995.svg" width="30%" style="margin-left:10px">
+</div>
+
+{{% /tab %}}
+{{% tab "Google Car" %}}
+{{% notice tip %}}
+Pada banyak pengambilan gambar, <span class="quiz">mobil Google</span> tampak khas; kadang tidak terlihat.
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1683478674761!6m8!1m7!1sB8a53z_-9mYxUzV0Q52jcA!2m2!1d-1.941815097077175!2d30.13047435388365!3f323.03495285680117!4f-12.788419732450919!5f0.7820865974627469" width="495" height="295" style="border:0;" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}

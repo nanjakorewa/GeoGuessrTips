@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mauritius"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -46,7 +46,7 @@ Mengemudi di sisi kiri dan pelat nomor belakang berwarna kuning adalah kesamaan 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG#/media/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG" alt="Rue de Flic en Flac en soirée.JPG" width="96%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=66587279">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG#/media/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG" alt="Rue de Flic en Flac en soirﾃｩe.JPG" width="96%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=66587279">Link</a></p>
 </div>
 
 {{% /tab %}}

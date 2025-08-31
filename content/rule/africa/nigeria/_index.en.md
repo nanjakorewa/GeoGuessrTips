@@ -11,240 +11,96 @@ flag: "NG.svg"
 jetro_detail: true
 jogmec_detail: true
 is_has_distinctive_googlecar: true
-sc_title: "Similar Regions"
+sc_title: "Commonly Confused Regions"
 sc: [
     ["../kenya/", "Kenya"],
     ["../senegal/", "Senegal"],
-    ]
+    ["../saotome/", "São Tomé and Príncipe"],
+]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li><span class="quiz">English</span> is official language.</li>
-        <li>Cars drive <span class="quiz">on the right side</span>.</li>
-        <li>The domain is <span class="quiz">.ng</span></li>
-        <li><span class="quiz">Yellow</span> small cabs in town</li>
-        <li><span class="quiz">police cars</span> often follow behind Google Car{{% by %}}</li>
-        <li>50% of the population is Muslim.</li>
+        <li>Official language: <span class="quiz">English</span></li>
+        <li>Drives on the <span class="quiz">right</span></li>
+        <li>Country domain: <span class="quiz">.ng</span></li>
+        <li>Small three‑wheel taxis (<span class="quiz">Keke‑Napep</span>) are common in towns.</li>
+        <li><span class="quiz">Police cars</span> sometimes accompany the camera car.</li>
+        <li>The Google car is often visible.</li>
+        <li>Roughly half of the population is <span class="quiz">Muslim</span>.</li>
     </ul>
     {{% rd africa nigeria verysmall %}}
 </div>
-
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-A small yellow cab is running in town{{% ex "https://maps.app.goo.gl/pL3LJBCYcEJu7Bii6" %}}. The signs are written in English.
-{{% /notice %}}
-<div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-</div>
-
-{{% notice tip %}}
-Patrol cars often follow{{% ex "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}. Note that there may be no police car or a car that is not a police car{{% ex "https://goo.gl/maps/crUFoG2JPW9haiew9" %}}.
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694923075149!6m8!1m7!1sMFHpePbjTWB7Jd6bVMV7HA!2m2!1d12.042902428128!2d8.553263047472695!3f25.310524109619454!4f-6.629539560981968!5f2.0179041743374317" width="600" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-You will find section-poles. And Nigeria drives on the right side of the road. There are multiple license plates, which can appear vaguely green, blue, or red{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}.
+Utility poles with distinctive construction can be found{{% ex "https://maps.app.goo.gl/pojYCUYFLgrpnwNy6" "https://maps.app.goo.gl/murVnQhvniJVHoJLA" "https://maps.app.goo.gl/yVRBZhHHN5bMQ2wU9" "https://maps.app.goo.gl/BrPWSuB7H3FmqB7o9" "https://maps.app.goo.gl/qauX4Ctq2a2XB9kQ6" "https://maps.app.goo.gl/LejBRB2mNwT97dHx5" "https://maps.app.goo.gl/8u84ZW6brstMKWep9" "https://maps.app.goo.gl/Lx4eRCytedyiD18Z9" %}}. Note that {{% goto "../saotome/" "São Tomé and Príncipe" %}} has similar poles.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/africa/nigeria/road.jpg" width="90%">
 </div>
 
-{{% lb 50 %}}
-![](/rule/africa/nigeria/ﾐ斷・寅片ﾐ・ｯ_ﾐ斷榧慴片_2012.gif)
+{{% notice tip %}}
+Plates vary by state; background can look faintly <span class="quiz">green‑blue</span>{{% ex "https://maps.app.goo.gl/YZKGNUFzJ2fs6ZoP8" "https://maps.app.goo.gl/2pNL3Jseo1RDPo2ZA" "https://maps.app.goo.gl/GpS1ev2hRBp5BcYG8" "https://maps.app.goo.gl/vaiiMuJgyzNfgAZM7" %}}{{% ref "https://en.wikipedia.org/wiki/Vehicle_registration_plates_of_Nigeria" "Vehicle registration plates of Nigeria" %}}.
+{{% /notice %}}
 
-By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Phedmose (page does not exist)">Pharm Ede Moses</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47463054">Link</a>
+{{% lb 50 %}}
+![](/rule/africa/nigeria/НЁE�ЕРЁE�_НОМЕР_2012.gif)
+
+CC BY‑SA 4.0
 {{% /lb %}}
 
-
-
-{{% /tab %}}
-{{% tab "w-viecle" %}}
+{{% notice tip %}}
+<span class="quiz">Keke‑Napep</span> (auto rickshaws) run widely in cities{{% ex "https://maps.app.goo.gl/vhSrUtLNmUuY82Re6" "https://maps.app.goo.gl/GZiw4Nykr5vmDbpT6" "https://maps.app.goo.gl/hvnhUWafdKVwGUTRA" "https://maps.app.goo.gl/EAouojKtiqBWbjTCA" %}}. Signage is typically in <span class="quiz">English</span>{{% ex "https://maps.app.goo.gl/zi92p3C21G8CrTKdA" "https://maps.app.goo.gl/94b71BKAgMqoMd299" %}}.
+{{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854349351!6m8!1m7!1sVEmCuj_hJ169SRu1sEqsuA!2m2!1d6.460371642532762!2d7.493418113273444!3f23.871891209378983!4f-10.141513841761409!5f3.3246080442816175" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
-{{% /tab %}}
-{{% tab "Utility poles" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854562480!6m8!1m7!1syiEjGBhayoOdpLrXFIOsag!2m2!1d6.67266544030606!2d3.312221930570927!3f188.50999469130915!4f-8.341239190692107!5f1.6021556725762478" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1686927253225!6m8!1m7!1s1M70fWp0fJw_8P-adNJrpA!2m2!1d6.474586597493951!2d3.562058211014273!3f282.62577029999335!4f3.2687283677445436!5f1.3205476195043677" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-commercial" %}}
 
 {{% notice tip %}}
-Seven-Up seems to be popular{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "迢ｬ遶玖｡梧帆豕穂ｺｺ譌･譛ｬ雋ｿ譏捺険闊域ｩ滓ｧ・JETRO) 繧｢繧ｸ繧｢邨梧ｸ育皮ｩｶ謇 繝翫う繧ｸ繧ｧ繝ｪ繧｢ - 繧｢繝輔Μ繧ｫ謌宣聞莨∵･ｭ繝輔ぃ繧､繝ｫ" %}}.
+Single‑storey houses with <span class="quiz">metal roofs</span> are common{{% ex "https://maps.app.goo.gl/7HeyaGY6udvq88Qd6" "https://maps.app.goo.gl/rkexHDbYoRkGvXmB8" "https://maps.app.goo.gl/68fdWw1ryGnP4MwcA" "https://maps.app.goo.gl/Rs9chhraNPo674JKA" "https://maps.app.goo.gl/nupZV4G31mkRsn36A" %}}.
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="/rule/africa/nigeria/Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+In some areas the camera car is accompanied by a <span class="quiz">police vehicle</span>{{% ex "https://maps.app.goo.gl/xeVEXd1bSLMFTBhZ8" "https://maps.app.goo.gl/34QEVYLS3HAVGFd2A" "https://maps.app.goo.gl/h6dToavCvMPw3ReQ9" %}}; more recent captures may not show it.
 {{% /notice %}}
 
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679887010318!6m8!1m7!1sE_F2ShVxPyhM75vdTArfRg!2m2!1d6.59987404201229!2d3.375620061922172!3f338.51068283511484!4f1.650537544582619!5f1.5380782434409297" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
 {{% /tab %}}
-{{% tab "w-googlecar" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854300975!6m8!1m7!1sCYZAITnbOsjhWpqv6oCQHw!2m2!1d6.460632962556097!2d7.494037638197613!3f62.47937376131735!4f-55.67352482695545!5f0.4224407218370322" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679854467975!6m8!1m7!1sTDDOWCZ_zO9HpMhL3Unjaw!2m2!1d6.674669558817172!2d3.310991907104836!3f147.01826933090518!4f-89!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679887228862!6m8!1m7!1sUfpxtTNF_4S8exKiYR8Avg!2m2!1d6.60009298151657!2d3.377843834579361!3f131.48897303132352!4f-41.12882916360397!5f0.6823642230179563" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% /tabs %}}
-
-
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <ul class="rule-list">
-        <li>Vegitation varies from place to place.
-            <ul>
-                <li>Along the coast: The area of Swamp Forest by the sea has few roads except around the city.</li>
-                <li>Southeast: oil palms grow in abundance.</li>
-                <li>Central: Grass and shrubs cover the entire area.</li>
-                <li>Around Jos: The area around Jos is high in elevation. Craggy rocks and small mountains can be seen.</li>
-                <li>Northernmost part: Suburbs have very little grass.</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "Vegetation and Elevation" %}}
+{{% tab "States" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/vegitation.jpg" width="90%" />
+<img src="/rule/africa/nigeria/Political_map_of_Nigeria.svg">
 </div>
-
-{{% notice tip %}}
-The further north you go, the drier and less woody it becomes, with plateaus to the northeast of Abuja and around Jos{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "縲錆urowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).縲・Sustainability 14.3 (2022): 1160." %}}.
-{{% /notice %}}
-
 {{% /tab %}}
-{{% tab "Southwest" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694922659581!6m8!1m7!1s8Ow3R10tby2art2YesIBlw!2m2!1d6.757971852293207!2d4.072611256527883!3f287.1758311113074!4f2.552881295514595!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694922815201!6m8!1m7!1sALfyi8fAIXmXQDaY8JO52w!2m2!1d7.326160575887643!2d5.117616271521185!3f116.83449045305156!4f8.98622789867845!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-Compared to the north, there are more trees, and seeing far into the distance is almost impossible.
-{{% /notice %}}
-
-{{% /tab %}}
-{{% tab "Southeast" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694922465819!6m8!1m7!1s5D-67W3qJx_B47R8ojyqlA!2m2!1d4.957508083081821!2d7.795402982020307!3f356.1577924893183!4f1.1070556752259932!5f0.43104953548325736" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694922582144!6m8!1m7!1sJVoWS-1saoouj4S6wi9R6g!2m2!1d5.754522304901496!2d6.833269569646347!3f214.18065068166888!4f5.041693218708318!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-Oil palms are abundantly distributed. Between the yellow-green area in the figure (Uyo to Onitsha), plantations can be seen in the suburbs.
-{{% /notice %}}
-
-{{% /tab %}}
-{{% tab "Central" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694920652400!6m8!1m7!1spbNZsSW1jZvF2rvZfxg3Sw!2m2!1d9.220760012148732!2d6.987817592291801!3f40.40875856146784!4f7.827803101586696!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694920742384!6m8!1m7!1sKZjp7uFbRYC523mCwseRTQ!2m2!1d8.605920472044955!2d4.545701002316861!3f326.5511355370544!4f4.811703667130132!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-In the Southern Guinea Zone (orange), the ground is covered with grass.
-{{% /notice %}}
-
-{{% /tab %}}
-{{% tab "Around Jos" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694921507309!6m8!1m7!1sEg2c4qjuRldmMje3p1CzNw!2m2!1d9.898031716232492!2d8.775364589305285!3f235.2207725069892!4f7.114521570548945!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694921639932!6m8!1m7!1s5ST0megklOZKmw6mmN5yng!2m2!1d9.708268146594355!2d8.837216293574693!3f34.59653391858231!4f10.336302358820376!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-Elevation is high, and tree density is not high. Rocks and small mountains can be seen in the distance.
-{{% /notice %}}
-
-{{% /tab %}}
-{{% tab "Northern-most" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694920671133!6m8!1m7!1sco-q4U7hnVHuNzqsDfl1bw!2m2!1d12.87564040084701!2d5.330013076013167!3f308.12011447783345!4f-0.5166071281412172!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1694920692373!6m8!1m7!1sm7MRdea3pUl08MtwHLxh8Q!2m2!1d12.30165511873427!2d9.44727254592812!3f62.21921406649807!4f2.5967336208821763!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
-The Sudan Zone (gray area) has almost no grass.
-{{% /notice %}}
-
-{{% /tab %}}
-{{% /tabs %}}
-
-
-<div class="main-desciption area-description">
-    <ul class="rule-list">
-        <li>Different regions have different agricultural practices.
-            <ul>
-                <li>Oil palm is common in coastal areas.</li>
-                <li>{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=NI" "U.S. Department of Agriculture(USDA)" %}}</li>
-            </ul>
-        </li>
-    </ul>
-</div>
-
-{{% tabs %}}
-{{% tab "Oil palm" %}}
+{{% tab "Agriculture" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/africa/nigeria/2023-05-10-15-44-28.png" width="97%" />
 </div>
-
-{{% notice tip %}}
-Oil palm is only found in the coastal area.
-{{% /notice %}}
-{{% /tab %}}
-{{% tab "繧ｳ繝｡" %}}
-<div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" />
-</div>
-
-{{% notice tip %}}
-繧ｳ繝｡縺ｯ荳ｭ螟ｮ繧ｨ繝ｪ繧｢縺ｫ螟壹＞
-{{% /notice %}}
-{{% /tab %}}
-{{% tab "繧ｭ繝薙・繧｢繝ｯ" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/africa/nigeria/2023-05-10-15-53-56.png" width="90%" />
 </div>
-
-{{% notice tip %}}
-菴慕ｨｮ鬘槭°縺ゅｋ繧峨＠縺・￠繧後←逕ｻ雉ｪ縺ｮ縺帙＞縺ｧ驕輔＞縺後ｏ縺九ｉ縺ｪ縺九▲縺溘ゆｹｾ辯･縺励◆辭ｱ蟶ｯ縺ｮ繧ｨ繝ｪ繧｢縺ｧ閧ｲ縺ｦ繧峨ｌ繧具ｼ・
-{{% /notice %}}
-{{% /tab %}}
-{{% tab "繧ｳ繝ｼ繝ｳ" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" />
+</div>
 <div class="googlemap-if unclickable">
 <img src="/rule/africa/nigeria/2023-05-19-08-43-21.png" width="90%" />
 </div>
-
-{{% notice tip %}}
-荳ｭ螟ｮ縺九ｉ蛹鈴Κ縺ｫ縺九￠縺ｦ螟壹＞縺梧ｵｷ豐ｿ縺・ｻ･螟悶・縺ｩ縺薙〒繧ょｭ伜惠縺吶ｋ蜿ｯ閭ｽ諤ｧ縺ゅｊ
-{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="/rule/africa/nigeria/fodder_barn_crop_residue.jpg" width="90%" />
+</div>
 {{% /tab %}}
 {{% /tabs %}}
-
-
-<div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
-    <ul class="rule-list">
-        <li>Zuma Rock is located in <span class="quiz">Abuja</span>{{% ex "https://maps.app.goo.gl/CSSH2288dfrFUE7G9" %}}.</li>
-    </ul>
-</div>
-
 
 {{% tabs %}}
 {{% tab "Zuma Rock" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:The_incredible_rock._Zuma_Rock_(cropped).jpg#/media/File:The_incredible_rock._Zuma_Rock_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/The_incredible_rock._Zuma_Rock_%28cropped%29.jpg" alt="The incredible rock. Zuma Rock (cropped).jpg" height="420" width="710"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:3.29Fatima&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:3.29Fatima (page does not exist)">Fatima </a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=86993524">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:The_incredible_rock._Zuma_Rock_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/The_incredible_rock._Zuma_Rock_%28cropped%29.jpg" height="420" width="710" alt="Zuma Rock"></a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

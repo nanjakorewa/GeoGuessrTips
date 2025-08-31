@@ -1,4 +1,4 @@
----
+﻿---
 title: "Zanzibar"
 date: 2024-11-20
 lastmod: 2024-11-20
@@ -52,3 +52,31 @@ Wilayah pesisir memiliki mayoritas penduduk Muslim, meskipun terdapat banyak pen
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+---
+title: "Zanzibar"
+date: 2024-11-20
+lastmod: 2024-11-20
+weight: 2000
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "ZANZ.svg"
+no_detaile_info: true
+jetro_detail: true
+is_unofficial: true
+sc_title: "Halaman terkait"
+sc: [
+    ["../tanzania/", "Tanzania"],
+]
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">Tidak ada Street View resmi.</li>
+        <li>Menggunakan <span class="quiz">.tz</span>; bagian dari Republik Bersatu Tanzania.</li>
+        <li>Pelat nomor sering <span class="quiz">merah</span>.</li>
+        <li>Mobil Jepang sangat umum.</li>
+    </ul>
+</div>

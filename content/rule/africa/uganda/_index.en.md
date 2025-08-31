@@ -1,4 +1,4 @@
----
+﻿---
 title: "Uganda"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -55,14 +55,14 @@ A white car or a car with metal bars. If you see a bar, you are in a national pa
 {{% tab "Utility pole" %}}
 
 {{% notice tip %}}
-There are ☠ symbols on the poles.
+There are 笘 symbols on the poles.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681487465264!6m8!1m7!1sERB4GwItoUiPxb5_GhJpYA!2m2!1d0.2597360773807452!2d32.62400203457052!3f345.6188386334501!4f-5.6955029058065065!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681487552885!6m8!1m7!1sTd2kGulIAr9q98L0Xp8lcg!2m2!1d0.2614485148265462!2d32.62049893724982!3f352.97527258587843!4f-4.419233665414339!5f3.3050553876225863" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "🐂" %}}
+{{% tab "垂" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1681487668046!6m8!1m7!1sERo5d2iy8FvClP61TVNhfQ!2m2!1d0.3643418975956897!2d32.70939083483952!3f122.7602210273356!4f-0.018391763474141953!5f1.6034337806231873" width="590" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
