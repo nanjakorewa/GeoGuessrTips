@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nigeria"
 date: 2023-02-26
 lastmod: 2023-09-13
@@ -41,7 +41,7 @@ Ada tiang listrik dengan pembatas{{% ex "https://maps.app.goo.gl/pojYCUYFLgrpnwN
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%">
+<img src="/rule/africa/nigeria/road.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -49,7 +49,7 @@ Nigeria menggunakan jalur kanan. Plat nomor memiliki berbagai warna, termasuk nu
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](./НІГЕРІЯ_НОМЕР_2012.gif)
+![](/rule/africa/nigeria/ﾐ斷・寅片ﾐ・ｯ_ﾐ斷榧慴片_2012.gif)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Phedmose (page does not exist)">Pharm Ede Moses</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47463054">Link</a>
 {{% /lb %}}
@@ -67,7 +67,7 @@ Banyak rumah datar dengan atap logam terlihat di berbagai area{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%">
+<img src="/rule/africa/nigeria/Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -127,7 +127,7 @@ Minuman 7-Up sangat populer di Nigeria{{% by "https://www.ide.go.jp/Japanese/Dat
 {{% tabs %}}
 {{% tab "Vegetasi dan Ketinggian" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="100%" />
+<img src="/rule/africa/nigeria/vegitation.jpg" width="100%" />
 </div>
 
 {{% notice tip %}}
@@ -208,7 +208,7 @@ Wilayah Sudan Zone (berwarna abu-abu) hampir tidak memiliki rumput.
 {{% tabs %}}
 {{% tab "Nama Negara Bagian" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Political_map_of_Nigeria.svg">
+<img src="/rule/africa/nigeria/Political_map_of_Nigeria.svg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -230,7 +230,7 @@ Wilayah Sudan Zone (berwarna abu-abu) hampir tidak memiliki rumput.
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-44-28.png" width="97%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-44-28.png" width="97%" />
 </div>
 
 {{% notice tip %}}
@@ -239,7 +239,7 @@ Kelapa sawit hanya ditemukan di wilayah pesisir.
 {{% /tab %}}
 {{% tab "Millet dan Sorgum" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-53-56.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-53-56.png" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -247,12 +247,12 @@ Millet terlihat jelas pada citra dengan resolusi tinggi{{% ex "https://maps.app.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="fodder_barn_crop_residue.jpg" width="90%" />
+<img src="/rule/africa/nigeria/fodder_barn_crop_residue.jpg" width="90%" />
 </div>
 {{% /tab %}}
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-49-07.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -261,7 +261,7 @@ Padi terutama ditemukan di wilayah tengah.
 {{% /tab %}}
 {{% tab "Jagung" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-19-08-43-21.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-19-08-43-21.png" width="90%" />
 </div>
 
 {{% notice tip %}}

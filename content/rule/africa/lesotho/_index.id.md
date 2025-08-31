@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lesotho"
 date: 2023-02-26
 lastmod: 2023-04-21
@@ -35,7 +35,7 @@ Negara ini berada di dalam Pegunungan Drakensberg, dengan ketinggian rata-rata t
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mountain.jpg" width="90%" />
+<img src="/rule/africa/lesotho/mountain.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ Dibandingkan dengan {{% goto "../eswatini/" "Eswatini" %}}, rumput di Lesotho bi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./lesotho_mountains_scenic_green.jpg" width="90%">
+<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%">
 </div>
 
 {{% /tab %}}

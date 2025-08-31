@@ -1,4 +1,4 @@
----
+﻿---
 title: "Madeira Islands"
 date: 2023-02-26
 lastmod: 2023-05-01
@@ -49,7 +49,7 @@ Bridges and roadside barriers are often made of concrete with white blocks on to
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.png" width="95%">
+<img src="/rule/africa/madeira_islands/road.png" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ As seen in various photos, the island features rugged hills and valleys formed b
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./madeira_funchal_panorama_647920.jpg" width="95%">
+<img src="/rule/africa/madeira_islands/madeira_funchal_panorama_647920.jpg" width="95%">
 </div>
 
 {{% /tabs %}}

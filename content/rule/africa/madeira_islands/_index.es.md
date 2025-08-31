@@ -1,4 +1,4 @@
----
+﻿---
 title: "Islas Madeira"
 date: 2023-02-26
 lastmod: 2023-05-01
@@ -11,7 +11,7 @@ flag: "MADE.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-sc_title: "Regiones fácilmente confundibles"
+sc_title: "Regiones fﾃ｡cilmente confundibles"
 sc: [
     ["../canary_islands/", "Islas Canarias"],
     ["../../europe/azores/", "Azores"],
@@ -22,19 +22,19 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Es un archipiélago perteneciente a <span class="quiz">Portugal</span>, y las matrículas, señales y postes eléctricos son iguales a los de la península.</li>
-        <li>Las costas de las islas están formadas principalmente por acantilados rocosos.</li>
-        <li>Existen barandillas y bolardos de hormigón con diseños característicos.</li>
-        <li>El código de área es <span class="quiz">291</span>.</li>
-        <li class="no-evidence">La combinación de aire húmedo y vientos alisios genera neblina con frecuencia.</li>
-        <li class="no-evidence">El terreno es más accidentado que en {{% goto "../../europe/azores/" "Azores" %}}.</li>
+        <li>Es un archipiﾃｩlago perteneciente a <span class="quiz">Portugal</span>, y las matrﾃｭculas, seﾃｱales y postes elﾃｩctricos son iguales a los de la penﾃｭnsula.</li>
+        <li>Las costas de las islas estﾃ｡n formadas principalmente por acantilados rocosos.</li>
+        <li>Existen barandillas y bolardos de hormigﾃｳn con diseﾃｱos caracterﾃｭsticos.</li>
+        <li>El cﾃｳdigo de ﾃ｡rea es <span class="quiz">291</span>.</li>
+        <li class="no-evidence">La combinaciﾃｳn de aire hﾃｺmedo y vientos alisios genera neblina con frecuencia.</li>
+        <li class="no-evidence">El terreno es mﾃ｡s accidentado que en {{% goto "../../europe/azores/" "Azores" %}}.</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Las islas pertenecen a {{% goto "../../europe/portugal/" "Portugal" %}}, y las matrículas, señales y postes eléctricos son iguales a los de la península {{% ex "https://goo.gl/maps/5PquD26xeVwrvJi18" "https://goo.gl/maps/SAPSg5oGDkzLx2jS8" %}}.
+Las islas pertenecen a {{% goto "../../europe/portugal/" "Portugal" %}}, y las matrﾃｭculas, seﾃｱales y postes elﾃｩctricos son iguales a los de la penﾃｭnsula {{% ex "https://goo.gl/maps/5PquD26xeVwrvJi18" "https://goo.gl/maps/SAPSg5oGDkzLx2jS8" %}}.
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -44,15 +44,15 @@ Las islas pertenecen a {{% goto "../../europe/portugal/" "Portugal" %}}, y las m
 {{% /lb %}}
 
 {{% notice tip %}}
-Las barandillas de los puentes y cercas de los caminos son de hormigón con bloques blancos en la parte superior {{% ex "https://goo.gl/maps/T9mGEeKdhA261G36A" "https://goo.gl/maps/88uj9a5MpYrr6RyV6" "https://goo.gl/maps/6xjAAiUsv8iJd9DR8" "https://goo.gl/maps/3Lak7jmVyja7YouT6" "https://goo.gl/maps/WYLtsiXLBstZXtA37" %}}.
+Las barandillas de los puentes y cercas de los caminos son de hormigﾃｳn con bloques blancos en la parte superior {{% ex "https://goo.gl/maps/T9mGEeKdhA261G36A" "https://goo.gl/maps/88uj9a5MpYrr6RyV6" "https://goo.gl/maps/6xjAAiUsv8iJd9DR8" "https://goo.gl/maps/3Lak7jmVyja7YouT6" "https://goo.gl/maps/WYLtsiXLBstZXtA37" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.png" width="95%">
+<img src="/rule/africa/madeira_islands/road.png" width="95%">
 </div>
 
 {{% notice tip %}}
-Hay bolardos con diseños distintivos de hormigón {{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://maps.app.goo.gl/xFGmuVPghwMN1khJ9" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}. Además, la niebla puede ser frecuente, limitando la visibilidad {{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}. También hay bolardos de diseño diferente ocasionalmente {{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}.
+Hay bolardos con diseﾃｱos distintivos de hormigﾃｳn {{% ex "https://goo.gl/maps/hnsfJ6c9SakYGzeu6" "https://maps.app.goo.gl/xFGmuVPghwMN1khJ9" "https://goo.gl/maps/4mKn6ANjdqXRsGvj8" "https://goo.gl/maps/oNTQWmcpjGLn4BddA" %}}. Ademﾃ｡s, la niebla puede ser frecuente, limitando la visibilidad {{% ex "https://goo.gl/maps/HX64sHvcYuS2nrBTA" "https://goo.gl/maps/qQkm7RzSZNvGK6zt8" "https://goo.gl/maps/oZyC4YBXzjSV3U2g6" %}}. Tambiﾃｩn hay bolardos de diseﾃｱo diferente ocasionalmente {{% ex "https://goo.gl/maps/6Q7JaVE2myNiNdpS6" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -60,7 +60,7 @@ Hay bolardos con diseños distintivos de hormigón {{% ex "https://goo.gl/maps/h
 </div>
 
 {{% notice tip %}}
-Se pueden encontrar flores púrpuras y blancas como estas {{% ex "https://maps.app.goo.gl/dDyesTJfknqj9uit9" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}.
+Se pueden encontrar flores pﾃｺrpuras y blancas como estas {{% ex "https://maps.app.goo.gl/dDyesTJfknqj9uit9" "https://goo.gl/maps/vvPjgBMRY4J1Wfwu8" "https://goo.gl/maps/qkRLY1n3cw3H5FQg9" "https://goo.gl/maps/8xyNB8wwyNSEnxqW8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -70,11 +70,11 @@ Se pueden encontrar flores púrpuras y blancas como estas {{% ex "https://maps.a
 {{% /tab %}}
 
 {{% notice tip %}}
-Como muestran las imágenes, el terreno de la isla no es plano y está compuesto de colinas y valles formados por erosión {{% ex "https://goo.gl/maps/H9tLit1jECWetWL3A" "https://goo.gl/maps/1gtjrgFsn98fgXVU8" "https://goo.gl/maps/cxfQRS4j7nKCrVQ47" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6" "Islas Madeira" %}}.
+Como muestran las imﾃ｡genes, el terreno de la isla no es plano y estﾃ｡ compuesto de colinas y valles formados por erosiﾃｳn {{% ex "https://goo.gl/maps/H9tLit1jECWetWL3A" "https://goo.gl/maps/1gtjrgFsn98fgXVU8" "https://goo.gl/maps/cxfQRS4j7nKCrVQ47" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6" "Islas Madeira" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./madeira_funchal_panorama_647920.jpg" width="95%">
+<img src="/rule/africa/madeira_islands/madeira_funchal_panorama_647920.jpg" width="95%">
 </div>
 
 {{% /tabs %}}

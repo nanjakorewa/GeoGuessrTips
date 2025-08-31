@@ -1,4 +1,4 @@
----
+﻿---
 title: "Eswatini"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -39,7 +39,7 @@ Rumput tipis seperti ini banyak ditemukan {{% ex "https://goo.gl/maps/QDByu9vY3r
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./road.png" /></p>
+<p><img src="/rule/africa/eswatini/road.png" /></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
 </div>
 
@@ -51,7 +51,7 @@ Pelat nomor terlihat berwarna putih dan hijau muda {{% ex "https://maps.app.goo.
 </div>
 
 {{% lb 50 %}}
-![](2023-06-09-22-00-36.png)
+![](/rule/africa/eswatini/2023-06-09-22-00-36.png)
 
 By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers">Dickelbers</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45400340">Link</a>
 {{% /lb %}}
@@ -68,7 +68,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 Bagian barat berupa dataran tinggi (1500 m) sedangkan bagian timur berupa dataran rendah (200 m), memberikan kemiringan pada keseluruhan wilayah negara ini.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-21-05-06-55.png">
+<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

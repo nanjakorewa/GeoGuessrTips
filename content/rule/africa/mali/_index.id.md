@@ -1,4 +1,4 @@
----
+﻿---
 title: "Republik Mali"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -20,7 +20,7 @@ is_has_many_trekker: true
         <li>Domain internet menggunakan <span class="quiz">.ml</span>.</li>
         <li>Bahasa yang digunakan adalah <span class="quiz">Prancis</span> dan bahasa lokal.</li>
         <li>Banyak bangunan di Mali menggunakan <span class="quiz">lumpur</span>, yang memiliki tampilan khas {{% ref "http://www.kamit.jp/27_mali/mali.htm" "Arsitektur Islam di Afrika Barat" %}}.</li>
-        <li>Banyak Street View tersedia di sekitar {{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "Kota Tua Djenné" %}}, {{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "Makam Askia" %}}, {{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "Tebing Bandiagara" %}}, dan {{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "Timbuktu" %}}, serta beberapa titik kecil lainnya.</li>
+        <li>Banyak Street View tersedia di sekitar {{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "Kota Tua Djennﾃｩ" %}}, {{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "Makam Askia" %}}, {{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "Tebing Bandiagara" %}}, dan {{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "Timbuktu" %}}, serta beberapa titik kecil lainnya.</li>
     </ul>
 </div>
 
@@ -31,7 +31,7 @@ Banyak bangunan di Mali terbuat dari <span class="quiz">lumpur</span>, dengan di
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hypostylin/3159048225/in/photolist-5P9WYH-4RiNmt-8eVDUa-pxypWB-bvcM7W-cza2U-bJi4gP-aY6Nat-dNmHa-7jRuWJ-dNmjR-9Vc7Rs-5NHAEp-49jxCE-5Pc25B-5NRXfM-5PnAkm-hnxsBq-4jWPGz-7jG2G4-4k1SNo-4aBo9i-556phb-bM1tpi-t2jt3-4jXy5u-2iDR5AB-fLKLk-9iQKU-ab6NVn-4jv7eR-3jDTXp-bdQaMv-9eDKxy-4mFNqX-i9UcV-87auFa-6byWcZ-87auxT-5P6tpg-7uptap-iaqkd-7fabbk-7htqkM-mKxQL-bcAiwi-dNmZZ-5NHAE6-xMfQCs-wRekbt" title="Djenné, Mali"><img src="https://live.staticflickr.com/3132/3159048225_be7b2477ee_z.jpg" width="640" height="480" alt="Djenné, Mali"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hypostylin/3159048225/in/photolist-5P9WYH-4RiNmt-8eVDUa-pxypWB-bvcM7W-cza2U-bJi4gP-aY6Nat-dNmHa-7jRuWJ-dNmjR-9Vc7Rs-5NHAEp-49jxCE-5Pc25B-5NRXfM-5PnAkm-hnxsBq-4jWPGz-7jG2G4-4k1SNo-4aBo9i-556phb-bM1tpi-t2jt3-4jXy5u-2iDR5AB-fLKLk-9iQKU-ab6NVn-4jv7eR-3jDTXp-bdQaMv-9eDKxy-4mFNqX-i9UcV-87auFa-6byWcZ-87auxT-5P6tpg-7uptap-iaqkd-7fabbk-7htqkM-mKxQL-bcAiwi-dNmZZ-5NHAE6-xMfQCs-wRekbt" title="Djennﾃｩ, Mali"><img src="https://live.staticflickr.com/3132/3159048225_be7b2477ee_z.jpg" width="640" height="480" alt="Djennﾃｩ, Mali"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ Tebing Bandiagara yang terkenal terdapat di area kecil di luar perkotaan {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./falaise_de_bandiagara2.jpg" width="550px">
+<img src="/rule/africa/mali/falaise_de_bandiagara2.jpg" width="550px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

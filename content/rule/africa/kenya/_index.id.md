@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kenya"
 date: 2023-02-26
 lastmod: 2023-04-11
@@ -16,7 +16,7 @@ sc: [
     ["../nigeria/", "Nigeria"],
     ["../senegal/", "Senegal"],
     ["../rwanda/", "Rwanda"],
-    ["../../cs_america/curacao/", "Curaçao"],
+    ["../../cs_america/curacao/", "Curaﾃｧao"],
     ]
 ---
 
@@ -38,7 +38,7 @@ sc: [
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](lp-kenya.png)
+![](/rule/africa/kenya/lp-kenya.png)
 
 Dibuat oleh kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyanmagazine.co.ke/wp-content/uploads/2022/08/20220830_191002.jpg">Gambar asli</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, gambar ini telah dimodifikasi dari <a href="https://commons.wikimedia.org/w/index.php?curid=125713405">Link ini</a>.
 {{% /lb %}}
@@ -84,9 +84,9 @@ Google Car di Kenya memiliki beberapa ciri khas, termasuk atap yang terlihat {{%
 {{% tabs %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="90%" />
+<img src="/rule/africa/kenya/vegitation.jpg" width="90%" />
 </div>
-{{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 『A review of Kenya’s national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.』 (2014)." %}}
+{{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 縲拶 review of Kenya窶冱 national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.縲・(2014)." %}}
 {{% /notice %}}
 {{% /tab %}}
 

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Lesoto"
 date: 2023-02-26
 lastmod: 2023-04-21
@@ -11,10 +11,10 @@ flag: "LS.svg"
 plonkit: true
 no_detaile_info: true
 jetro_detail: false
-sc_title: "Regiones fácilmente confundibles"
+sc_title: "Regiones fﾃ｡cilmente confundibles"
 sc: [
     ["../eswatini/", "Esuatini"],
-    ["../south-africa/", "Sudáfrica"],
+    ["../south-africa/", "Sudﾃ｡frica"],
 ]
 ---
 
@@ -22,8 +22,8 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>El dominio es <span class="quiz">.ls</span>.</li>
-        <li>En cuanto a la geografía, el país está completamente dentro de la <span class="quiz">cordillera Drakensberg</span>, con pocas áreas planas y muchas montañas de cima plana. Las montañas cubiertas de árboles son prácticamente inexistentes.</li>
-        <li>El clima es similar al subtropical húmedo, con praderas de hierba esparcida y pocos árboles.</li>
+        <li>En cuanto a la geografﾃｭa, el paﾃｭs estﾃ｡ completamente dentro de la <span class="quiz">cordillera Drakensberg</span>, con pocas ﾃ｡reas planas y muchas montaﾃｱas de cima plana. Las montaﾃｱas cubiertas de ﾃ｡rboles son prﾃ｡cticamente inexistentes.</li>
+        <li>El clima es similar al subtropical hﾃｺmedo, con praderas de hierba esparcida y pocos ﾃ｡rboles.</li>
     </ul>
     {{% rd africa lesotho verysmall %}}
 </div>
@@ -31,10 +31,10 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-El país está dentro de la cordillera Drakensberg, con un terreno elevado y muchas montañas de cima plana y rocosas {{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. La vegetación incluye hierba y ocasionalmente se ven ovejas o vacas. En comparación, {{% goto "../eswatini/" "Esuatini" %}} tiene áreas altas con mucha actividad forestal y muchos árboles, mientras que Lesoto carece de ellos.
+El paﾃｭs estﾃ｡ dentro de la cordillera Drakensberg, con un terreno elevado y muchas montaﾃｱas de cima plana y rocosas {{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. La vegetaciﾃｳn incluye hierba y ocasionalmente se ven ovejas o vacas. En comparaciﾃｳn, {{% goto "../eswatini/" "Esuatini" %}} tiene ﾃ｡reas altas con mucha actividad forestal y muchos ﾃ｡rboles, mientras que Lesoto carece de ellos.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mountain.jpg" width="90%" />
+<img src="/rule/africa/lesotho/mountain.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -45,10 +45,10 @@ Se pueden observar casas tradicionales {{% ex "https://maps.app.goo.gl/Ruq3M3wfx
 </div>
 
 {{% notice tip %}}
-En comparación con {{% goto "../eswatini/" "Esuatini" %}}, la hierba en Lesoto es generalmente mucho más corta {{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}.
+En comparaciﾃｳn con {{% goto "../eswatini/" "Esuatini" %}}, la hierba en Lesoto es generalmente mucho mﾃ｡s corta {{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lesotho_mountains_scenic_green.jpg" width="90%">
+<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%">
 </div>
 {{% /tab %}}
 

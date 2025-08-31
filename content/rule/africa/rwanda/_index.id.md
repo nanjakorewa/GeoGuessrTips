@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rwanda"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -110,7 +110,7 @@ Salah satu dari lima danau besar Afrika {{% ex "https://maps.app.goo.gl/sU2kpL1u
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./home_st_jean_view.jpg" width="90%">
+<img src="/rule/africa/rwanda/home_st_jean_view.jpg" width="90%">
 </div>
 
 {{% /tab %}}

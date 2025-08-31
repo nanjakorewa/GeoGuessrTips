@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tanzania"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -40,7 +40,7 @@ Since there is little in common between locations, it is necessary to memorize w
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./google-map.png" width="80%">
+<img src="/rule/africa/tanzania/google-map.png" width="80%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

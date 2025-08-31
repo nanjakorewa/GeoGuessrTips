@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ethiopia"
 date: 2023-11-01
 lastmod: 2023-11-01
@@ -19,7 +19,7 @@ is_unofficial: true
     <ul class="rule-list">
         <li>As of November 2023, there is no official coverage</li>
         <li>The domain is <span class="quiz">.et</span></li>
-        <li>Languages used include Amharic (አማርኛ), English, and three others</li>
+        <li>Languages used include Amharic (瘧瘉帋渥瘧・, English, and three others</li>
     </ul>
     {{% rd africa ethiopia %}}
 </div>
@@ -27,10 +27,10 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Amharic (አማርኛ) is used on signs and other materials.
+Amharic (瘧瘉帋渥瘧・ is used on signs and other materials.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

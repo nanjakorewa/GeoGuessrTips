@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ceuta"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -12,7 +12,6 @@ no_detaile_info: true
 jetro_detail: false
 sc_title: "Similar Regions"
 sc: [
-    ["../../europe/spain/", "Spain（mainland）"],
     ["../melilla/", "Melilla"],
     ["../canary_islands/", "Canary Islands"],
     ]
@@ -26,7 +25,7 @@ sc: [
     </ul>
     {{% rd africa ceuta small %}}
     <div class="sign-area sign-area-clickable licence-area">
-        <p>国旗画像：<a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3951546">リンク</a>より引用</p>
+        <p>蝗ｽ譌礼判蜒擾ｼ・a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 陦ｨ遉ｺ-邯呎価 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3951546">繝ｪ繝ｳ繧ｯ</a>繧医ｊ蠑慕畑</p>
     </div>
 </div>
 
@@ -54,8 +53,8 @@ There are black and white guardrails.
 Sometimes the crosswalk signs are surrounded by yellow lines.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./walk1.png" width="100px" style="margin:10px">
-<img src="./walk2.png" width="110px" style="margin:5px">
+<img src="/rule/africa/ceuta/walk1.png" width="100px" style="margin:10px">
+<img src="/rule/africa/ceuta/walk2.png" width="110px" style="margin:5px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Senegal"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -42,11 +42,11 @@ Plat nomor biasanya berwarna <span class="quiz">biru</span> atau hanya bagian ki
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./car.png" width="90%">
+<img src="/rule/africa/senegal/car.png" width="90%">
 </div>
 
 {{% lb 50 %}}
-![](2023-05-13-14-45-53.png)
+![](/rule/africa/senegal/2023-05-13-14-45-53.png)
 
 By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=112447343">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -55,26 +55,26 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 Tiang listrik dan bollard serupa dengan yang digunakan di {{% goto "../../europe/france/" "Prancis" %}} {{% ex "https://maps.app.goo.gl/RQH5CAecC1NTwaix9" "https://maps.app.goo.gl/cbM26qhvAKLT3KmM6" %}}. Nama jalan juga sering menggunakan "RUE". Sebelum kemerdekaan pada tahun 1960, Senegal adalah koloni Prancis {{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "Pembagian Afrika" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350">
-<img src="./640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_ﾃ_Dakar.jpg" width="350">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_ﾃ_Dakar.jpg" width="350">
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_à_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" alt="Climat chimique à MBORO.jpg" width="700"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Princesssenegal&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Princesssenegal (page does not exist)">Princesssenegal</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130830873">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_ﾃ_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" alt="Climat chimique ﾃ MBORO.jpg" width="700"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Princesssenegal&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Princesssenegal (page does not exist)">Princesssenegal</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130830873">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Rumah beratap jerami dapat ditemukan di daerah pinggiran {{% ex "https://maps.app.goo.gl/KqWL3cyn1y4AV35ZA" "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/uak7feCphivakSFN9" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%">
+<img src="/rule/africa/senegal/960px-A_l'entrﾃｩe_de_Ndoussoudji.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 Pohon baobab sering ditemukan di wilayah sabana seperti Senegal, {{% goto "../botswana/" "Botswana" %}}, dan {{% goto "../madagascar/" "Madagaskar" %}} {{% ex "https://maps.app.goo.gl/x4JLyv1HUNxqwyKT9" "https://maps.app.goo.gl/Tc2Ej1t8ASYqMrjx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-Senegal_011.jpg" width="80%">
+<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%">
 </div>
 
 {{% notice tip %}}

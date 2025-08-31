@@ -1,4 +1,4 @@
----
+﻿---
 title: "Botswana"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -40,15 +40,15 @@ Pelat nomor kuning, biru, dan putih {{% ex "https://maps.app.goo.gl/vW2UDexepSRX
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./gaboronestreetscene.jpg" width="90%">
+<img src="/rule/africa/botswana/gaboronestreetscene.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
-![](2023-05-11-09-34-02.png)
+![](/rule/africa/botswana/2023-05-11-09-34-02.png)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Vicbrumby&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Vicbrumby (page does not exist)">Vicbrumby</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=5534911">Link</a>
 
-![](2023-05-13-02-08-12.png)
+![](/rule/africa/botswana/2023-05-13-02-08-12.png)
 
 By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -58,7 +58,7 @@ Dengan Gurun Kalahari, panorama yang datar terbentang di sekeliling. Kebanyakan 
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Trans-Kalahari Highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="./botswana_elephant_road_1653101.jpg" width="640">
+<img src="/rule/africa/botswana/botswana_elephant_road_1653101.jpg" width="640">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Nomor jalan diawali dengan "<span class="quiz">A</span>" atau "B". {{% goto "../
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680333787901!6m8!1m7!1sVhmFk3m2LvKT6vZnuYngpQ!2m2!1d-24.83768364425675!2d25.80619335577036!3f348.13733369235297!4f-31.010067448505865!5f2.620679684929361" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "🐎🐂" %}}
+{{% tab "錘垂" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680333911253!6m8!1m7!1sPqnhRi86h-oadAi2zGI0jQ!2m2!1d-24.61362083666845!2d25.85096206143307!3f224.83022735691694!4f-9.121626467928422!5f3.301164775846444" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680333943597!6m8!1m7!1s6Ft_JedFZP_Gy8taNuGmzg!2m2!1d-24.61436388999356!2d25.85156172381542!3f351.54326706966276!4f-12.718305545687429!5f2.8791885164778845" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

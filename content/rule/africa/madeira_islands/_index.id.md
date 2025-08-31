@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kepulauan Madeira"
 date: 2023-02-26
 lastmod: 2023-05-01
@@ -48,7 +48,7 @@ Pagar jembatan dan pembatas jalan sering kali terbuat dari beton dengan blok put
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.png" width="95%">
+<img src="/rule/africa/madeira_islands/road.png" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ Sebagaimana terlihat dalam foto-foto lain, pulau ini memiliki bukit dan lembah h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./madeira_funchal_panorama_647920.jpg" width="95%">
+<img src="/rule/africa/madeira_islands/madeira_funchal_panorama_647920.jpg" width="95%">
 </div>
 
 {{% /tabs %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ceuta"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -11,9 +11,8 @@ flag: "CEUTA.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "Regiones fácilmente confundibles"
+sc_title: "Regiones fﾃ｡cilmente confundibles"
 sc: [
-    ["../../europe/spain/", "España peninsular"],
     ["../melilla/", "Melilla"],
     ["../canary_islands/", "Islas Canarias"],
 ]
@@ -22,12 +21,12 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>Los vehículos circulan por el <span class="quiz">lado derecho</span></li>
-        <li>Es más común ver musulmanes que en la península</li>
+        <li>Los vehﾃｭculos circulan por el <span class="quiz">lado derecho</span></li>
+        <li>Es mﾃ｡s comﾃｺn ver musulmanes que en la penﾃｭnsula</li>
     </ul>
     {{% rd africa ceuta small %}}
     <div class="sign-area sign-area-clickable licence-area">
-        <p>Imagen de la bandera: <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC Atribución-Compartir Igual 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3951546">Enlace</a></p>
+        <p>Imagen de la bandera: <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC Atribuciﾃｳn-Compartir Igual 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3951546">Enlace</a></p>
     </div>
 </div>
 
@@ -50,11 +49,11 @@ Barandillas blancas y negras.
 </div>
 
 {{% notice tip %}}
-Algunas señales de paso de peatones están rodeadas por líneas amarillas.
+Algunas seﾃｱales de paso de peatones estﾃ｡n rodeadas por lﾃｭneas amarillas.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/walk1.png" width="100px" style="margin:10px">
-<img src="./r/walk2.png" width="110px" style="margin:5px">
+<img src="/rule/africa/ceuta/r/walk1.png" width="100px" style="margin:10px">
+<img src="/rule/africa/ceuta/r/walk2.png" width="110px" style="margin:5px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

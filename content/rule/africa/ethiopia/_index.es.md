@@ -1,5 +1,5 @@
----
-title: "Etiopía"
+﻿---
+title: "Etiopﾃｭa"
 date: 2023-11-01
 lastmod: 2023-11-01
 weight: 2000
@@ -19,7 +19,7 @@ is_unofficial: true
     <ul class="rule-list">
         <li>A partir de noviembre de 2023, no hay cobertura oficial.</li>
         <li>El dominio es <span class="quiz">.et</span></li>
-        <li>Se utilizan cinco idiomas, incluyendo amhárico (አማርኛ) e inglés.</li>
+        <li>Se utilizan cinco idiomas, incluyendo amhﾃ｡rico (瘧瘉帋渥瘧・ e inglﾃｩs.</li>
     </ul>
     {{% rd africa ethiopia %}}
 </div>
@@ -27,10 +27,10 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-El amhárico (አማርኛ) se utiliza en señales y carteles.
+El amhﾃ｡rico (瘧瘉帋渥瘧・ se utiliza en seﾃｱales y carteles.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg">
 </div>
 
 {{% /tab %}}

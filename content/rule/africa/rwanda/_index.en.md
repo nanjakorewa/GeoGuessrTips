@@ -1,4 +1,4 @@
----
+﻿---
 title: "Rwanda"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -39,20 +39,20 @@ The larger roads in Kigali are ridden by motorcycles with red helmets{{% ex "htt
 </div>
 
 {{% lb 50 %}}
-![](2023-05-22-19-49-47.png)
+![](/rule/africa/rwanda/2023-05-22-19-49-47.png)
 {{% /lb %}}
 {{% lb 50 %}}
-![](2023-05-22-19-50-24.png)
+![](/rule/africa/rwanda/2023-05-22-19-50-24.png)
 {{% /lb %}}
 {{% /tab %}}
 
 {{% notice tip %}}
-MTN, one of Rwanda's two major mobile carriers, has set up sub-branches using parasols and tents at various locations. These locations serve as ATMs where electronic money can be exchanged{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "ルワンダとキャッシュレス - 現金王国の独自の決済文化 | impress watch" %}}. MTN also operates in {{% goto "../uganda/" "Uganda" %}} and {{% goto "../ghana/" "Ghana" %}}.
+MTN, one of Rwanda's two major mobile carriers, has set up sub-branches using parasols and tents at various locations. These locations serve as ATMs where electronic money can be exchanged{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "繝ｫ繝ｯ繝ｳ繝縺ｨ繧ｭ繝｣繝・す繝･繝ｬ繧ｹ - 迴ｾ驥醍視蝗ｽ縺ｮ迢ｬ閾ｪ縺ｮ豎ｺ貂域枚蛹・| impress watch" %}}. MTN also operates in {{% goto "../uganda/" "Uganda" %}} and {{% goto "../ghana/" "Ghana" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1687125036120!6m8!1m7!1sQwfHnjl44-qohwH0qcVZOg!2m2!1d-1.953697353711946!2d30.11902121972938!3f336.7445004431175!4f-5.120903550828288!5f1.5400242688463694" width="400" height="320" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="unclickable"><img src="./New-mtn-logo.jpg" width="190px" style="margin:60px 0 0 20px">
+<div class="unclickable"><img src="/rule/africa/rwanda/New-mtn-logo.jpg" width="190px" style="margin:60px 0 0 20px">
 </div>
 </div>
 

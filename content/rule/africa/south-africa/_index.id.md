@@ -1,4 +1,4 @@
----
+﻿---
 title: "Afrika Selatan"
 title_suffix: "(Republik Afrika Selatan)"
 date: 2023-02-26
@@ -45,30 +45,30 @@ Sebagai langkah keamanan, banyak rumah memiliki <span class="quiz">teralis besi 
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./adt.png" width="150px" style="margin:10px">
-<img src="./blue.png" width="150px" style="margin:10px">
+<img src="/rule/africa/south-africa/adt.png" width="150px" style="margin:10px">
+<img src="/rule/africa/south-africa/blue.png" width="150px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
 Kendaraan berjalan di sisi <span class="quiz">kiri</span> {{% ex "https://maps.app.goo.gl/8gMFG5NsBTamWV8g8" %}}. Garis luar jalan biasanya berwarna <span class="quiz">oranye</span>, sedangkan garis pembatas tengah sering <span class="quiz">putih</span> {{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" />
+<img src="/rule/africa/south-africa/road.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
 <span class="quiz">Sasol</span> adalah perusahaan energi dan kimia besar di Afrika Selatan {{% ex "https://goo.gl/maps/R7Ek9LtT8Tvia73X8" %}} {{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="2023-08-03-02-58-40.png" width="90%" />
+<img src="/rule/africa/south-africa/2023-08-03-02-58-40.png" width="90%" />
 </div>
 
 {{% notice tip %}}
 Rambu jalan dengan nomor pada papan hijau memiliki font yang berbeda dibandingkan dengan Australia. Contoh: kiri (Afrika Selatan), kanan (Australia).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../../../../rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px">
-<img src="../../../../rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+<img src="/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px">
+<img src="/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -100,12 +100,12 @@ Kadang terlihat tiang listrik yang mirip seperti yang ada di {{% goto "../../cs_
     <ul class="rule-list">
         <li>Vegetasi berbeda-beda di setiap wilayah:
             <ul>
-                <li>① Taman Nasional</li>
-                <li>② Sabana</li>
-                <li>③ Grassland Biome, didominasi oleh rerumputan {{% ref "http://pza.sanbi.org/vegetation/grassland-biome" "SAMBI" %}}</li>
-                <li>④ Nama Karoo, wilayah dengan tumbuhan semak yang sering mengalami kekeringan</li>
-                <li>⑤ Succulent Karoo, kaya akan tanaman sukulen {{% ref "https://pza.sanbi.org/vegetation/succulent-karoo-biome" "SAMBI" %}}</li>
-                <li>⑥ Fynbos, iklim Mediterania yang dominan dengan banyak tanaman berdaun tipis dan seperti jarum {{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9" "Wikipedia『Fynbos』" %}}</li>
+                <li>竭 Taman Nasional</li>
+                <li>竭｡ Sabana</li>
+                <li>竭｢ Grassland Biome, didominasi oleh rerumputan {{% ref "http://pza.sanbi.org/vegetation/grassland-biome" "SAMBI" %}}</li>
+                <li>竭｣ Nama Karoo, wilayah dengan tumbuhan semak yang sering mengalami kekeringan</li>
+                <li>竭､ Succulent Karoo, kaya akan tanaman sukulen {{% ref "https://pza.sanbi.org/vegetation/succulent-karoo-biome" "SAMBI" %}}</li>
+                <li>竭･ Fynbos, iklim Mediterania yang dominan dengan banyak tanaman berdaun tipis dan seperti jarum {{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%9C%E3%82%B9" "Wikipedia" %}}</li>
             </ul>
         </li>
     </ul>
@@ -118,10 +118,10 @@ Peta ini hanya ilustrasi berdasarkan perkiraan kasar; gunakan hanya sebagai refe
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-24-17-09-12.png" width="500px"/>
+<img src="/rule/africa/south-africa/2023-04-24-17-09-12.png" width="500px"/>
 </div>
 {{% /tab %}}
-{{% tab "① Taman Nasional" %}}
+{{% tab "竭 Taman Nasional" %}}
 {{% notice tip %}}
 Persimpangan jalan sering memiliki bebatuan khas, dan area ini kaya akan alam.
 {{% /notice %}}
@@ -131,7 +131,7 @@ Persimpangan jalan sering memiliki bebatuan khas, dan area ini kaya akan alam.
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682582479625!6m8!1m7!1sCAoSLEFGMVFpcFA5OWtpRkxxUUc0c3ZOQ0dLRzhIX3NqcUpNeVZWS3NPcnI1dU1G!2m2!1d-23.92176338810719!2d31.23214666603916!3f11.841535471823875!4f-19.014792492702526!5f2.833727043364251" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "② Sabana" %}}
+{{% tab "竭｡ Sabana" %}}
 {{% notice tip %}}
 Sabana ditemukan di bagian utara dan sepanjang garis pantai.
 {{% /notice %}}
@@ -141,7 +141,7 @@ Sabana ditemukan di bagian utara dan sepanjang garis pantai.
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682324871185!6m8!1m7!1smu_TmRjBfhaPbaksGiEvlg!2m2!1d-33.55789802046195!2d26.55261180328686!3f314.7805053861716!4f0.6774984441135388!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "③ Grassland" %}}
+{{% tab "竭｢ Grassland" %}}
 {{% notice tip %}}
 Biome Grassland mengelilingi Lesotho. Anda mungkin bisa melihat gunung-gunung dengan puncak datar di kejauhan (Pegunungan Drakensberg).
 {{% /notice %}}
@@ -150,7 +150,7 @@ Biome Grassland mengelilingi Lesotho. Anda mungkin bisa melihat gunung-gunung de
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682324849001!6m8!1m7!1sRVxuo_RaNJrtu16jhh29lg!2m2!1d-30.44671003955965!2d28.6304976449013!3f128.006031910333!4f5.093105066904158!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "④ Nama Karoo" %}}
+{{% tab "竭｣ Nama Karoo" %}}
 {{% notice tip %}}
 Nama Karoo adalah lingkungan keras yang sering mengalami kekeringan. Beberapa tempat bahkan hampir tidak memiliki rerumputan.
 {{% /notice %}}
@@ -164,10 +164,10 @@ Nama Karoo adalah lingkungan keras yang sering mengalami kekeringan. Beberapa te
 <div class="main-desciption area-description">
     <h4 class="section-title">Pertanian</h4>
     <ul class="rule-list">
-        <li><span style="color:#9310D2">■</span> Anggur: <span class="quiz">Sekitar Cape Town di bagian barat daya</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
-        <li><span style="color:#A2F100">■</span> Tebu: <span class="quiz">Sepanjang pantai timur</span></li>
-        <li><span style="color:#F3FB66">■</span> Jagung: <span class="quiz">Sekitar bagian utara Free State</span></li>
-        <li><span style="color:#F7D160">■</span> Peternakan domba dan sapi, yaitu wilayah yang kurang subur dengan sedikit pepohonan dan rerumputan</li>
+        <li><span style="color:#9310D2">笆</span> Anggur: <span class="quiz">Sekitar Cape Town di bagian barat daya</span>{{% ex "https://maps.app.goo.gl/v2RGvsUsQvUr733r5" "https://maps.app.goo.gl/DtzbtBE7bbW654Pq9" "https://maps.app.goo.gl/c47SvKEK4DYz1Fxt6" %}}</li>
+        <li><span style="color:#A2F100">笆</span> Tebu: <span class="quiz">Sepanjang pantai timur</span></li>
+        <li><span style="color:#F3FB66">笆</span> Jagung: <span class="quiz">Sekitar bagian utara Free State</span></li>
+        <li><span style="color:#F7D160">笆</span> Peternakan domba dan sapi, yaitu wilayah yang kurang subur dengan sedikit pepohonan dan rerumputan</li>
         <li>{{% ref "https://ipad.fas.usda.gov/rssiws/al/safrica_cropprod.aspx" "Southern Africa - Crop Production Maps" %}}</li>
     </ul>
 </div>
@@ -175,9 +175,9 @@ Nama Karoo adalah lingkungan keras yang sering mengalami kekeringan. Beberapa te
 {{% tabs %}}
 {{% tab "Pertanian" %}}
 <div class="googlemap-if">
-<img src="2023-05-12-20-42-15.png" width="90%"/>
+<img src="/rule/africa/south-africa/2023-05-12-20-42-15.png" width="90%"/>
 <div class="description-wide">
-Waldner, François, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
+Waldner, Franﾃｧois, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
 </div>
 </div>
 
@@ -187,12 +187,12 @@ Wilayah berlabel *Fruit* (ungu) menunjukkan lokasi anggur, sedangkan wilayah *Su
 {{% /tab %}}
 {{% tab "Tebu" %}}
 <div class="googlemap-if">
-<img src="./ag/sugacane.jpg" width="90%"/>
+<img src="/rule/africa/south-africa/ag/sugacane.jpg" width="90%"/>
 </div>
 {{% /tab %}}
 {{% tab "Jagung" %}}
 <div class="googlemap-if">
-<img src="./ag/corn.jpg" width="90%"/>
+<img src="/rule/africa/south-africa/ag/corn.jpg" width="90%"/>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -208,7 +208,7 @@ Wilayah berlabel *Fruit* (ungu) menunjukkan lokasi anggur, sedangkan wilayah *Su
 {{% tabs %}}
 {{% tab "Kode Area Telepon" %}}
 <div class="googlemap-if">
-<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Peta kecil kode area telepon Afrika Selatan yang saya buat untuk lebih mahir dalam <a href="https://twitter.com/geoguessr?ref_src=twsrc%5Etfw">@geoguessr</a> 😍 <a href="https://t.co/A4DJEFwLMv">pic.twitter.com/A4DJEFwLMv</a></p>&mdash; Armire 🌸 (@Armire) <a href="https://twitter.com/Armire/status/1640831519643127808?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="fr" dir="ltr">Peta kecil kode area telepon Afrika Selatan yang saya buat untuk lebih mahir dalam <a href="https://twitter.com/geoguessr?ref_src=twsrc%5Etfw">@geoguessr</a> ・ <a href="https://t.co/A4DJEFwLMv">pic.twitter.com/A4DJEFwLMv</a></p>&mdash; Armire 減 (@Armire) <a href="https://twitter.com/Armire/status/1640831519643127808?ref_src=twsrc%5Etfw">March 28, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Pegunungan Drakensberg" %}}
@@ -217,7 +217,7 @@ Foto ini kemungkinan diambil di R301, yang dikenal sebagai Bain's Kloof Pass {{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="bainskloof_pass01.jpg" width="500px"/>
+<img src="/rule/africa/south-africa/bainskloof_pass01.jpg" width="500px"/>
 </div>
 {{% /tab %}}
 {{% tab "Plat Nomor" %}}
@@ -227,7 +227,7 @@ Provinsi North West, Free State, dan Eastern Cape sering memiliki plat nomor den
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-06-17-09-35-33.png)
+![ ](/rule/africa/south-africa/2023-06-17-09-35-33.png)
 
 Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373">Link</a>
 {{% /lb %}}
@@ -248,7 +248,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 Jika Anda sedang berjalan di jalan tanpa kendaraan, pertimbangkan kemungkinan ini {{% ex "https://maps.app.goo.gl/y6M3qmKAhq3qPgSr5" "https://maps.app.goo.gl/78cktLEdWZDZh33x9" %}}. Dari sana, Gunung Table (Table Mountain) dapat terlihat di kejauhan.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="limestone_quarry_robben_island.jpg" width="600px"/>
+<img src="/rule/africa/south-africa/limestone_quarry_robben_island.jpg" width="600px"/>
 </div>
 {{% /tab %}}
 

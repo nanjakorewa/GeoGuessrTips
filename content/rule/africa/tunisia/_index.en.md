@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tunisia"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -40,12 +40,12 @@ There are <span class="quiz">black</span> colored license plates, but there are 
 
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="95%">
+<img src="/rule/africa/tunisia/car.png" width="95%">
 </div>
 
 
 {{% lb 50 %}}
-![](2023-05-28-23-08-36.png)
+![](/rule/africa/tunisia/2023-05-28-23-08-36.png)
 
 CC0
 {{% /lb %}}
@@ -54,7 +54,7 @@ CC0
 Many buildings are light blue and white{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}. The curbs and chevrons are also painted white and light blue.{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%">
+<img src="/rule/africa/tunisia/house.png" width="90%">
 </div>
 
 

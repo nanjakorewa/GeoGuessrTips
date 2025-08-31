@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ghana"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -13,7 +13,7 @@ plonkit: true
 is_has_distinctive_googlecar: true
 sc_title: "Wilayah yang Sering Tertukar"
 sc: [
-    ["../reunion/", "Réunion"],
+    ["../reunion/", "Rﾃｩunion"],
     ]
 ---
 
@@ -31,14 +31,14 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Lakban hitam dapat ditemukan di bagian depan kanan Google Car {{% ex "https://maps.app.goo.gl/JXkSR6KYYczBg2K97" "https://maps.app.goo.gl/RaceisEBLYLqyf2EA" %}}. Jika lakban berada di bagian belakang kanan, kemungkinan lokasi adalah {{% goto "../../africa/reunion/" "Pulau Réunion" %}}. Perhatikan bahwa terkadang kendaraan tidak terlihat atau tertutup dedaunan {{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}.
+Lakban hitam dapat ditemukan di bagian depan kanan Google Car {{% ex "https://maps.app.goo.gl/JXkSR6KYYczBg2K97" "https://maps.app.goo.gl/RaceisEBLYLqyf2EA" %}}. Jika lakban berada di bagian belakang kanan, kemungkinan lokasi adalah {{% goto "../../africa/reunion/" "Pulau Rﾃｩunion" %}}. Perhatikan bahwa terkadang kendaraan tidak terlihat atau tertutup dedaunan {{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./google-car.jpg" width="90%" alt="Google Car di Ghana" />
+<img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car di Ghana" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc-bar.jpg" width="60%">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -58,7 +58,7 @@ Taksi di Ghana memiliki desain unik {{% ex "https://maps.app.goo.gl/zModPxBNsSaL
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mitsubishi_taxi_ghana.jpg" width="90%" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ Gerai kecil yang menjual lotere (biasanya berupa kotak merah, kuning, dan hijau)
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./National_Lottery_Authority_logo.jpg" width="200px" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" />
 </div>
 
 {{% /tab %}}
@@ -107,7 +107,7 @@ Gerai kecil yang menjual lotere (biasanya berupa kotak merah, kuning, dan hijau)
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="./20230522-palm.png" width="70%" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" />
 </div>
 {{% notice tip %}}
 Pohon kelapa sawit dan pisang lebih sering ditemukan di bagian selatan. Jika pohon ini tidak ditemukan, kemungkinan berada di wilayah utara.
@@ -115,7 +115,7 @@ Pohon kelapa sawit dan pisang lebih sering ditemukan di bagian selatan. Jika poh
 {{% /tab %}}
 {{% tab "Kode Area" %}}
 <div class="googlemap-if unclickable">
-<img src="./ghana_regional_phone_codes.jpg" alt="Kode Area Ghana" width="70%" />
+<img src="/rule/africa/ghana/ghana_regional_phone_codes.jpg" alt="Kode Area Ghana" width="70%" />
 </div>
 {{% notice tip %}}
 Meskipun menghafal kode area bisa membantu, kode ini jarang ditemukan di luar kota, dan lebih banyak digunakan untuk telepon rumah dibandingkan ponsel. Sebaiknya pelajari ciri khas vegetasi dan suasana setiap wilayah.
@@ -123,11 +123,11 @@ Meskipun menghafal kode area bisa membantu, kode ini jarang ditemukan di luar ko
 {{% /tab %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if unclickable">
-<img src="./2023-09-02-20-28-52.png" alt="Vegetasi Ghana" width="500px" />
+<img src="/rule/africa/ghana/2023-09-02-20-28-52.png" alt="Vegetasi Ghana" width="500px" />
 </div>
 
 {{% notice tip %}}
-Jika banyak area tanah yang terbuka atau semak belukar, kemungkinan berada di bagian utara dengan iklim sabana {{% ref "https://d1wqtxts1xzle7.cloudfront.net/57120260/Land_Use_and_Misuse_Human_Appropriation_20180802-5137-92o7ak-libre.pdf?1533217497=&response-content-disposition=inline%3B+filename%3DLand_Use_and_Misuse_Human_Appropriation.pdf&Expires=1693657799&Signature=EPz7LUYs-Gph~ht6xfQIYrg2~RCzjdm2R3cTQxBmzPU61diG~82GbDe3X~s21V~N9hSVDFCxND4FEIF~R58Mx6HaxFCpIvziLzQ6S5Fk9FH4WE4KINyoxz82kD6McTR0ksBqZ5ftFv~Sog~2svocE6Q1LCFXEPby6Rh2Lz0Fh6hHjMvTUWsycsxTzVmHb-P1Xr94mVN9maqkpMMCIa5rMwwAm2hVeJUCM4aPKq6Z1xR79HFC574wFF~daGENtBk-iQQeU6D5VJGGjgNmvYv6bQ1DqCiwNx~sZfjViro7MgPlGvK4AWHEY7p-pW~SUEslBtqfrbDTjRAxJNPkEqhBcg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" "Appiah, Divine Odame, Balikisu Osman, and James Boafo. 『Land use and misuse; Human appropriation of land ecosystems services in Ghana.』 International Journal of Ecosystem 4.1 (2014): 24-33." %}}.
+Jika banyak area tanah yang terbuka atau semak belukar, kemungkinan berada di bagian utara dengan iklim sabana {{% ref "https://d1wqtxts1xzle7.cloudfront.net/57120260/Land_Use_and_Misuse_Human_Appropriation_20180802-5137-92o7ak-libre.pdf?1533217497=&response-content-disposition=inline%3B+filename%3DLand_Use_and_Misuse_Human_Appropriation.pdf&Expires=1693657799&Signature=EPz7LUYs-Gph~ht6xfQIYrg2~RCzjdm2R3cTQxBmzPU61diG~82GbDe3X~s21V~N9hSVDFCxND4FEIF~R58Mx6HaxFCpIvziLzQ6S5Fk9FH4WE4KINyoxz82kD6McTR0ksBqZ5ftFv~Sog~2svocE6Q1LCFXEPby6Rh2Lz0Fh6hHjMvTUWsycsxTzVmHb-P1Xr94mVN9maqkpMMCIa5rMwwAm2hVeJUCM4aPKq6Z1xR79HFC574wFF~daGENtBk-iQQeU6D5VJGGjgNmvYv6bQ1DqCiwNx~sZfjViro7MgPlGvK4AWHEY7p-pW~SUEslBtqfrbDTjRAxJNPkEqhBcg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA" "Appiah, Divine Odame, Balikisu Osman, and James Boafo. 縲鮫and use and misuse; Human appropriation of land ecosystems services in Ghana.縲・International Journal of Ecosystem 4.1 (2014): 24-33." %}}.
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}
@@ -144,7 +144,7 @@ Jika banyak area tanah yang terbuka atau semak belukar, kemungkinan berada di ba
 Bagian putih pada peta ini menunjukkan daerah pegunungan {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Ghana_physical_map.svg" width="70%" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

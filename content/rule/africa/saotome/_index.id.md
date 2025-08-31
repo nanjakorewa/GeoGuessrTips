@@ -1,4 +1,4 @@
----
+﻿---
 title: "Sao Tome dan Principe"
 title_suffix: "Republik Demokratik"
 date: 2024-03-29
@@ -46,11 +46,11 @@ Plat nomor kendaraan berwarna hitam dan ramping {{% ex "https://maps.app.goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./downtown_sao_tome_africa.jpg" width="95%">
+<img src="/rule/africa/saotome/downtown_sao_tome_africa.jpg" width="95%">
 </div>
 
 {{% lb 50 %}}
-![](./СанТомеІПрінсіпі1.gif)
+![](/rule/africa/saotome/ﾐ｡ﾐｰﾐｽﾐ｢ﾐｾﾐｼﾐｵﾐ・湲ﾑ孟ｽﾑ・孟ｿﾑ・.gif)
 
 Public Domain
 {{% /lb %}}
@@ -75,7 +75,7 @@ Jika terlihat Google Car hitam, taksi kuning, pegunungan tinggi, atau jalan deng
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./market_sao_tome_africa.jpg" width="600px">
+<img src="/rule/africa/saotome/market_sao_tome_africa.jpg" width="600px">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ Puncak tertinggi di Pulau Principe hanya sekitar 950 meter. Bagian selatan yang 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg#/media/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg" alt="Príncipe Island Biosphere Reserve - Praia Caixão mangorve.jpg" height="720" width="1087"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Antoniodabreu&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Antoniodabreu (page does not exist)">Antoniodabreu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49478613">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg#/media/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg" alt="Prﾃｭncipe Island Biosphere Reserve - Praia Caixﾃ｣o mangorve.jpg" height="720" width="1087"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Antoniodabreu&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Antoniodabreu (page does not exist)">Antoniodabreu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49478613">Link</a></p>
 </div>
 
 {{% /tab %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Nigeria"
 date: 2023-02-26
 lastmod: 2023-09-13
@@ -54,11 +54,11 @@ You will find section-poles. And Nigeria drives on the right side of the road. T
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%">
+<img src="/rule/africa/nigeria/road.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
-![](./НІГЕРІЯ_НОМЕР_2012.gif)
+![](/rule/africa/nigeria/ﾐ斷・寅片ﾐ・ｯ_ﾐ斷榧慴片_2012.gif)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Phedmose (page does not exist)">Pharm Ede Moses</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47463054">Link</a>
 {{% /lb %}}
@@ -80,7 +80,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 {{% tab "w-commercial" %}}
 
 {{% notice tip %}}
-Seven-Up seems to be popular{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "独立行政法人日本貿易振興機構(JETRO) アジア経済研究所 ナイジェリア - アフリカ成長企業ファイル" %}}.
+Seven-Up seems to be popular{{% by "https://www.ide.go.jp/Japanese/Data/Africa_file/Country/nigeria.html" "web" "迢ｬ遶玖｡梧帆豕穂ｺｺ譌･譛ｬ雋ｿ譏捺険闊域ｩ滓ｧ・JETRO) 繧｢繧ｸ繧｢邨梧ｸ育皮ｩｶ謇 繝翫う繧ｸ繧ｧ繝ｪ繧｢ - 繧｢繝輔Μ繧ｫ謌宣聞莨∵･ｭ繝輔ぃ繧､繝ｫ" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -116,11 +116,11 @@ Seven-Up seems to be popular{{% by "https://www.ide.go.jp/Japanese/Data/Africa_f
 {{% tabs %}}
 {{% tab "Vegetation and Elevation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="90%" />
+<img src="/rule/africa/nigeria/vegitation.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
-The further north you go, the drier and less woody it becomes, with plateaus to the northeast of Abuja and around Jos{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "『Kurowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).』 Sustainability 14.3 (2022): 1160." %}}.
+The further north you go, the drier and less woody it becomes, with plateaus to the northeast of Abuja and around Jos{{% ref "https://www.mdpi.com/2071-1050/14/3/1160" "縲錆urowska, Ewa E., Andrzej Czerniak, and Muhammad Lawal Garba.  - Afforestation of transformed savanna and resulting land cover change: a case study of Zaria (Nigeria).縲・Sustainability 14.3 (2022): 1160." %}}.
 {{% /notice %}}
 
 {{% /tab %}}
@@ -196,38 +196,38 @@ The Sudan Zone (gray area) has almost no grass.
 {{% tabs %}}
 {{% tab "Oil palm" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-44-28.png" width="97%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-44-28.png" width="97%" />
 </div>
 
 {{% notice tip %}}
 Oil palm is only found in the coastal area.
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "コメ" %}}
+{{% tab "繧ｳ繝｡" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-49-07.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" />
 </div>
 
 {{% notice tip %}}
-コメは中央エリアに多い
+繧ｳ繝｡縺ｯ荳ｭ螟ｮ繧ｨ繝ｪ繧｢縺ｫ螟壹＞
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "キビ・アワ" %}}
+{{% tab "繧ｭ繝薙・繧｢繝ｯ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-53-56.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-53-56.png" width="90%" />
 </div>
 
 {{% notice tip %}}
-何種類かあるらしいけれど画質のせいで違いがわからなかった。乾燥した熱帯のエリアで育てられる？
+菴慕ｨｮ鬘槭°縺ゅｋ繧峨＠縺・￠繧後←逕ｻ雉ｪ縺ｮ縺帙＞縺ｧ驕輔＞縺後ｏ縺九ｉ縺ｪ縺九▲縺溘ゆｹｾ辯･縺励◆辭ｱ蟶ｯ縺ｮ繧ｨ繝ｪ繧｢縺ｧ閧ｲ縺ｦ繧峨ｌ繧具ｼ・
 {{% /notice %}}
 {{% /tab %}}
-{{% tab "コーン" %}}
+{{% tab "繧ｳ繝ｼ繝ｳ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-19-08-43-21.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-19-08-43-21.png" width="90%" />
 </div>
 
 {{% notice tip %}}
-中央から北部にかけて多いが海沿い以外はどこでも存在する可能性あり
+荳ｭ螟ｮ縺九ｉ蛹鈴Κ縺ｫ縺九￠縺ｦ螟壹＞縺梧ｵｷ豐ｿ縺・ｻ･螟悶・縺ｩ縺薙〒繧ょｭ伜惠縺吶ｋ蜿ｯ閭ｽ諤ｧ縺ゅｊ
 {{% /notice %}}
 {{% /tab %}}
 {{% /tabs %}}

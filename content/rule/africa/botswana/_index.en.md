@@ -1,4 +1,4 @@
----
+﻿---
 title: "Botswana"
 date: 2023-05-26
 lastmod: 2023-09-01
@@ -11,7 +11,7 @@ flag: "BW.svg"
 no_detaile_info: true
 jetro_detail: false
 plonkit: true
-sc_title: "間違えやすいページ"
+sc_title: "髢馴＆縺医ｄ縺吶＞繝壹・繧ｸ"
 sc_icon: rel
 sc: [
     ["../namibia/", "Namibia"],
@@ -46,11 +46,11 @@ There are white, blue, and yellow number plates. Ordinary vehicles have numbers 
 </div>
 
 {{% lb 50 %}}
-![](2023-05-11-09-34-02.png)
+![](/rule/africa/botswana/2023-05-11-09-34-02.png)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Vicbrumby&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Vicbrumby (page does not exist)">Vicbrumby</a> - <span class="int-own-work" lang="en">Own work</span>, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=5534911">Link</a>
 
-![](2023-05-13-02-08-12.png)
+![](/rule/africa/botswana/2023-05-13-02-08-12.png)
 
 By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50884040">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -84,7 +84,7 @@ Road numbers with "<span class="quiz">A</span>" or "B". {{% goto ". /lesotho/" "
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680333787901!6m8!1m7!1sVhmFk3m2LvKT6vZnuYngpQ!2m2!1d-24.83768364425675!2d25.80619335577036!3f348.13733369235297!4f-31.010067448505865!5f2.620679684929361" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-{{% tab "🐎🐂" %}}
+{{% tab "錘垂" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680333911253!6m8!1m7!1sPqnhRi86h-oadAi2zGI0jQ!2m2!1d-24.61362083666845!2d25.85096206143307!3f224.83022735691694!4f-9.121626467928422!5f3.301164775846444" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <iframe src="https://www.google.com/maps/embed?pb=!4v1680333943597!6m8!1m7!1s6Ft_JedFZP_Gy8taNuGmzg!2m2!1d-24.61436388999356!2d25.85156172381542!3f351.54326706966276!4f-12.718305545687429!5f2.8791885164778845" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -103,9 +103,9 @@ Road numbers with "<span class="quiz">A</span>" or "B". {{% goto ". /lesotho/" "
 {{% tabs %}}
 {{% tab "Plant" %}}
 <ul class="rule-list">
-    <li>North：{{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
-    <li>Central：{{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
-    <li>South：{{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
+    <li>North・嘴{% ex "https://goo.gl/maps/xDypw1pxj9FieAQx5" "https://goo.gl/maps/PTfy1xea9egS4CUv8" %}}</li>
+    <li>Central・嘴{% ex "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/oHTTa3eHKyZZjhTW6" "https://goo.gl/maps/W8gn45LvfnXzRnYJA" %}}</li>
+    <li>South・嘴{% ex "https://goo.gl/maps/y4jftPwapCE9qg9L6" "https://goo.gl/maps/GWBc3yZ1AmvJ4RGq6" %}}</li>
 </ul>
 {{% /tab %}}
 {{% /tabs %}}

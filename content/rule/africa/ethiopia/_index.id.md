@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ethiopia"
 date: 2023-11-01
 lastmod: 2023-11-01
@@ -19,7 +19,7 @@ is_unofficial: true
     <ul class="rule-list">
         <li>Per November 2023, belum ada cakupan resmi</li>
         <li>Domain internet menggunakan <span class="quiz">.et</span></li>
-        <li>Bahasa yang digunakan termasuk Amharik (አማርኛ), Inggris, dan tiga bahasa lainnya</li>
+        <li>Bahasa yang digunakan termasuk Amharik (瘧瘉帋渥瘧・, Inggris, dan tiga bahasa lainnya</li>
     </ul>
     {{% rd africa ethiopia %}}
 </div>
@@ -27,10 +27,10 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Bahasa Amharik (አማርኛ) digunakan pada papan nama dan penunjuk jalan.
+Bahasa Amharik (瘧瘉帋渥瘧・ digunakan pada papan nama dan penunjuk jalan.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg">
 </div>
 
 {{% /tab %}}

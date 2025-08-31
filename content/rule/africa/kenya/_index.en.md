@@ -1,4 +1,4 @@
----
+﻿---
 title: "Kenya"
 date: 2023-02-26
 lastmod: 2023-04-11
@@ -39,7 +39,7 @@ The car is <span class="quiz">on the left side</span> of the road and the back l
 </div>
 
 {{% lb 50 %}}
-![](lp-kenya.png)
+![](/rule/africa/kenya/lp-kenya.png)
 
 By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyanmagazine.co.ke/wp-content/uploads/2022/08/20220830_191002.jpg">Original</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125713405">Link</a>
 {{% /lb %}}

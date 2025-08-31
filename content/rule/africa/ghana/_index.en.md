@@ -1,4 +1,4 @@
----
+﻿---
 title: "Ghana"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -13,7 +13,7 @@ plonkit: true
 is_has_distinctive_googlecar: true
 sc_title: "Easily Mistaken Regions"
 sc: [
-    ["../reunion/", "Réunion"],
+    ["../reunion/", "Rﾃｩunion"],
 ]
 ---
 
@@ -31,14 +31,14 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Black duct tape wrapped around the <span class="quiz">front right corner</span> can be observed {{% ex "https://maps.app.goo.gl/JXkSR6KYYczBg2K97" "https://maps.app.goo.gl/RaceisEBLYLqyf2EA" %}}{{% by %}}. If the tape is at the rear right, then it is likely {{% goto "../../africa/reunion/" "Réunion Island" %}}. Note that occasionally, the tape may not be visible due to obscuring leaves or when the car itself is not visible {{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}.
+Black duct tape wrapped around the <span class="quiz">front right corner</span> can be observed {{% ex "https://maps.app.goo.gl/JXkSR6KYYczBg2K97" "https://maps.app.goo.gl/RaceisEBLYLqyf2EA" %}}{{% by %}}. If the tape is at the rear right, then it is likely {{% goto "../../africa/reunion/" "Rﾃｩunion Island" %}}. Note that occasionally, the tape may not be visible due to obscuring leaves or when the car itself is not visible {{% ex "https://goo.gl/maps/jZyZ9yQzKAHWuyrP9" "https://goo.gl/maps/quZs5KDHzLZtTu4b8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./google-car.jpg" width="90%" alt="Google Car in Ghana" />
+<img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car in Ghana" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc-bar.jpg" width="60%">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -58,7 +58,7 @@ Taxi paint designs are distinctive {{% ex "https://maps.app.goo.gl/zModPxBNsSaL1
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mitsubishi_taxi_ghana.jpg" width="90%" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ Small shops that appear to be lottery stands (red, yellow, and green boxes on th
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./National_Lottery_Authority_logo.jpg" width="200px" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" />
 </div>
 
 {{% /tab %}}
@@ -107,7 +107,7 @@ Small shops that appear to be lottery stands (red, yellow, and green boxes on th
 {{% tabs %}}
 {{% tab "Oil Palm" %}}
 <div class="googlemap-if unclickable">
-<img src="./20230522-palm.png" width="70%" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" />
 </div>
 {{% notice tip %}}
 Oil palms and banana trees are common in the southern region. If these trees are absent, consider the northern region.
@@ -115,7 +115,7 @@ Oil palms and banana trees are common in the southern region. If these trees are
 {{% /tab %}}
 {{% tab "Area Codes" %}}
 <div class="googlemap-if unclickable">
-<img src="./ghana_regional_phone_codes.jpg" alt="Ghana Area Codes" width="70%" />
+<img src="/rule/africa/ghana/ghana_regional_phone_codes.jpg" alt="Ghana Area Codes" width="70%" />
 </div>
 {{% notice tip %}}
 While it's helpful to remember area codes, they may not be visible outside urban areas. Mobile numbers are more common, so it may be better to focus on recognizing city names, regional vegetation, and overall atmosphere. If you happen to see a fax number, use it as a reference.
@@ -123,7 +123,7 @@ While it's helpful to remember area codes, they may not be visible outside urban
 {{% /tab %}}
 {{% tab "Vegetation" %}}
 <div class="googlemap-if unclickable">
-<img src="./2023-09-02-20-28-52.png" alt="Ghana Vegetation Map" width="500px" />
+<img src="/rule/africa/ghana/2023-09-02-20-28-52.png" alt="Ghana Vegetation Map" width="500px" />
 </div>
 
 {{% notice tip %}}
@@ -144,7 +144,7 @@ In my experience, if the ground is more exposed or if there are many shrubs, it 
 The white parts of this map indicate areas with high mountains {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Ghana_physical_map.svg" width="70%" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Namibia"
 title_suffix: "(Republik Namibia)"
 date: 2023-09-26
@@ -37,30 +37,30 @@ sc: [
 
 {{% notice tip %}}Mobil pribadi menggunakan pelat nomor berwarna <span class="quiz">kuning</span>{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}} dan lalu lintas berjalan di sisi kiri.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./elephants_at_etosha_national_2.jpg" width="90%">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
-![](./640px-Namibia_plate.jpg)
+![](/rule/africa/namibia/640px-Namibia_plate.jpg)
 
 Oleh <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;User:Dickelbers&quot;>Dickelbers</a> - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45401926">Tautan</a>
 {{% /lb %}}
 
 {{% notice tip %}}Gurun Namib yang datar membentang di sepanjang pantai{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. Gurun ini termasuk dalam kategori gurun pesisir barat seperti {{% goto "../../cs_america/chile/" "Gurun Atacama di Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "Gurun Pesisir Barat" %}}.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road_ahead_desert_never.jpg" width="95%">
+<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%">
 </div>
 
 {{% notice tip %}}Pernah berada di bawah kolonialisme {{% goto "../../europe/germany/" "Jerman" %}}, lalu berada di bawah mandat Afrika Selatan. Karena itu, nama-nama jalan yang terdengar seperti Bahasa Jerman masih ditemukan{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraße.jpg" height="448" width="640"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Tautan</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraﾃ歹.jpg" height="448" width="640"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Tautan</a></p>
 </div>
 
 {{% notice tip %}}
 Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berlian dan uranium. Karena itu, wilayah perkotaannya relatif aman dan infrastruktur seperti perumahan telah berkembang{{% ex "https://maps.app.goo.gl/tasd2CRDKQ6BD5zA8" %}}. Di kota seperti Swakopmund, terdapat bangunan bergaya Eropa yang terpengaruh oleh {{% goto "../../europe/germany/" "Jerman" %}}{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="swakopmund1.jpg">
+<img src="/rule/africa/namibia/swakopmund1.jpg">
 </div>
 
 {{% /tab %}}
@@ -77,17 +77,17 @@ Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berli
         </li>
         <li>Proporsi pohon dan rumput bervariasi tergantung wilayah{{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
             <ul>
-                <li><span style="color:#147F09">■</span>Wilayah yang ditutupi lebih dari 80% vegetasi{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#E8C15B">■</span>Ada pohon tetapi tidak tertutup padang rumput{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#6A8418">■</span>Kategori Nama Karoo: hanya perdu dan rumput kecil yang tumbuh, tanpa pohon besar{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#917716">■</span>Gurun Namib</li>
-                <li><span style="color:#DAD6CC">■</span>Wilayah sepanjang sungai dengan tanah seperti endapan berwarna putih</li>
+                <li><span style="color:#147F09">笆</span>Wilayah yang ditutupi lebih dari 80% vegetasi{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#E8C15B">笆</span>Ada pohon tetapi tidak tertutup padang rumput{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#6A8418">笆</span>Kategori Nama Karoo: hanya perdu dan rumput kecil yang tumbuh, tanpa pohon besar{{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#917716">笆</span>Gurun Namib</li>
+                <li><span style="color:#DAD6CC">笆</span>Wilayah sepanjang sungai dengan tanah seperti endapan berwarna putih</li>
             </ul>
         </li>
-        <li>Jalur kereta dibangun untuk mengangkut kontainer dari pelabuhan utama Walvis Bay dan Lüderitz, yang dulunya satu-satunya pelabuhan sebelum apartheid berakhir
+        <li>Jalur kereta dibangun untuk mengangkut kontainer dari pelabuhan utama Walvis Bay dan Lﾃｼderitz, yang dulunya satu-satunya pelabuhan sebelum apartheid berakhir
             <ul>
                 <li>Walvis Bay{{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}} (area rel terlihat sedikit ditinggikan)</li>
-                <li>Lüderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
+                <li>Lﾃｼderitz{{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -96,7 +96,7 @@ Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berli
 {{% tabs %}}
 {{% tab "Ketinggian" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Namibia_Topography.png" width="70%" />
+<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" />
 </div>
 
 {{% notice tip %}}
@@ -111,14 +111,14 @@ Wilayah hijau tertutup vegetasi lebih dari 80%, sedangkan wilayah hijau muda men
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./glasscover.png" width="70%" />
+<img src="/rule/africa/namibia/glasscover.png" width="70%" />
 </div>
 
 {{% /tab %}}
 {{% tab "Kereta Api" %}}
 
 {{% notice tip %}}
-Jalur kereta menghubungkan pelabuhan utama Walvis Bay (ditunjukkan oleh garis hitam putih pada peta). Sebelum Walvis Bay disatukan ke Namibia pasca-apartheid, Lüderitz adalah satu-satunya pelabuhan untuk kapal besar, sehingga jalur kereta dibangun untuk mengangkut kontainer ke sana. Informasi ini lebih mudah diingat bila dikaitkan dengan sejarah.
+Jalur kereta menghubungkan pelabuhan utama Walvis Bay (ditunjukkan oleh garis hitam putih pada peta). Sebelum Walvis Bay disatukan ke Namibia pasca-apartheid, Lﾃｼderitz adalah satu-satunya pelabuhan untuk kapal besar, sehingga jalur kereta dibangun untuk mengangkut kontainer ke sana. Informasi ini lebih mudah diingat bila dikaitkan dengan sejarah.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -133,7 +133,7 @@ Jalur kereta menghubungkan pelabuhan utama Walvis Bay (ditunjukkan oleh garis hi
     <ul class="rule-list">
         <li>Pterocarpus angolensis (Angola karlin) tumbuh alami di sepanjang koridor Caprivi di timur laut</li>
         <li>Colophospermum mopane hanya tumbuh di bagian barat laut Namibia{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
-        <li>Pohon palem “meledak” tersebar di utara dekat Angola dan pesisir barat laut{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
+        <li>Pohon palem 窶徇eledak窶・tersebar di utara dekat Angola dan pesisir barat laut{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
         <li>Aloe dichotoma hanya tumbuh dari {{% goto "../south-africa/" "Afrika Selatan" %}} hingga barat daya Namibia</li>
     </ul>
 </div>
@@ -155,7 +155,7 @@ Tumbuh rendah dan bercabang dari bagian bawah, memberikan kesan "melebar ke sega
 
 <div class="googlemap-if unclickable no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Colophospermum mopane in Namibia" height="480" width="640"></a></p>
-<p>Oleh <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercé">Roger Culos</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Tautan</a></p>
+<p>Oleh <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercﾃｩ">Roger Culos</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Tautan</a></p>
 </div>
 
 {{% /tab %}}
@@ -165,7 +165,7 @@ Pohon palem yang dikenal sebagai "palem meledak" ini tersebar di bagian utara de
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="bakuhatsu.jpg" width="300px">
+<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px">
 </div>
 
 {{% /tab %}}
@@ -175,7 +175,7 @@ Mudah dikenali dari siluetnya, namun karena sedikitnya jalan di sepanjang perbat
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="rock_formations_rocks_dichotoma.jpg" width="80%">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -183,7 +183,7 @@ Area persebarannya ditunjukkan oleh titik-titik biru muda pada gambar di bawah i
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="the_tree_aloes_southern.jpg" width="60%">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%">
 </div>
 
 {{% /tab %}}
@@ -216,7 +216,7 @@ Terletak di bagian utara Namibia, gunung besar dan datar ini dapat terlihat deng
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" />
 </div>
 
 {{% /tab %}}

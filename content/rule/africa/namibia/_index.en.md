@@ -1,4 +1,4 @@
----
+﻿---
 title: "Namibia"
 title_suffix: "(Republic of Namibia)"
 date: 2023-09-26
@@ -39,11 +39,11 @@ sc: [
 {{% notice tip %}}Standard passenger vehicles have <span class="quiz">yellow</span> license plates{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}} and drive on the left side.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./elephants_at_etosha_national_2.jpg" width="90%">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
-![](./640px-Namibia_plate.jpg)
+![](/rule/africa/namibia/640px-Namibia_plate.jpg)
 
 By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers">Dickelbers</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45401926">Link</a>
 {{% /lb %}}
@@ -51,13 +51,13 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 {{% notice tip %}}The flat Namib Desert spreads along the coast{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. It is classified as a west coast desert, similar to the {{% goto "../../cs_america/chile/" "Atacama Desert in Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "west coast deserts" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road_ahead_desert_never.jpg" width="95%">
+<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%">
 </div>
 
 {{% notice tip %}}After colonization by {{% goto "../../europe/germany/" "Germany" %}}, Namibia was under the mandate of the Union of South Africa. As a result, street names with German sounds can be seen{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraße.jpg" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraﾃ歹.jpg" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -65,7 +65,7 @@ Despite the low population, Namibia is rich in mineral resources like diamonds a
 In places like Swakopmund, European-style architecture influenced by {{% goto "../../europe/germany/" "Germany" %}} still remains{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="swakopmund1.jpg">
+<img src="/rule/africa/namibia/swakopmund1.jpg">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="cityview.jpg" width="95%">
+<img src="/rule/africa/namibia/cityview.jpg" width="95%">
 </div>
 
 
@@ -91,19 +91,19 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
         </li>
         <li>The proportion of tree and grass coverage varies by region {{% ref "https://www.uni-koeln.de/sfb389/e/e1/download/atlas_namibia/e1_download_living_resources_e.htm" "Atlas of Namibia Project" %}}
             <ul>
-                <li><span style="color:#147F09">■</span> Areas with more than 80% coverage {{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
-                <li><span style="color:#E8C15B">■</span> Areas where trees grow but are not covered by grasslands</li>
-                <li><span style="color:#6A8418">■</span> Areas classified as Nama Karoo where only shrubs and small grasses grow, without large trees or grass coverage</li>
-                <li><span style="color:#917716">■</span> Namib Desert {{% ex "https://maps.app.goo.gl/7mY8qTtKqTZHhhK27" %}}</li>
-                <li><span style="color:#DAD6CC">■</span> Light-colored soil areas {{% ex "https://maps.app.goo.gl/gUK78xpuvEiBgkQn8" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
-                <li><span style="color:red">■</span> Inside the frame: areas with slightly reddish soil {{% ex "https://maps.app.goo.gl/7SxZvsg5oGfu2ftB7" "https://maps.app.goo.gl/kWpcRdoVNW48ub2aA" %}}</li>
-                <li><span style="color:#9D3500">■</span> Areas with dark brownish soil {{% ex "https://maps.app.goo.gl/QuFYYeY8U3TnWDSE9" "https://maps.app.goo.gl/ZSL9nh6AGv1iay5G7" %}}</li>
+                <li><span style="color:#147F09">笆</span> Areas with more than 80% coverage {{% ex "https://maps.app.goo.gl/BrxGWEKMT5SNoV6MA" "https://maps.app.goo.gl/HGhoQsDR2MrYa3xD7" %}}</li>
+                <li><span style="color:#E8C15B">笆</span> Areas where trees grow but are not covered by grasslands</li>
+                <li><span style="color:#6A8418">笆</span> Areas classified as Nama Karoo where only shrubs and small grasses grow, without large trees or grass coverage</li>
+                <li><span style="color:#917716">笆</span> Namib Desert {{% ex "https://maps.app.goo.gl/7mY8qTtKqTZHhhK27" %}}</li>
+                <li><span style="color:#DAD6CC">笆</span> Light-colored soil areas {{% ex "https://maps.app.goo.gl/gUK78xpuvEiBgkQn8" "https://maps.app.goo.gl/T2EjDB1TG7oRT3iDA" "https://maps.app.goo.gl/nNmtFc4uXmzT63iW6" %}}</li>
+                <li><span style="color:red">笆</span> Inside the frame: areas with slightly reddish soil {{% ex "https://maps.app.goo.gl/7SxZvsg5oGfu2ftB7" "https://maps.app.goo.gl/kWpcRdoVNW48ub2aA" %}}</li>
+                <li><span style="color:#9D3500">笆</span> Areas with dark brownish soil {{% ex "https://maps.app.goo.gl/QuFYYeY8U3TnWDSE9" "https://maps.app.goo.gl/ZSL9nh6AGv1iay5G7" %}}</li>
             </ul>
         </li>
-        <li>Railways run from the most important port, Walvis Bay, and Lüderitz—the only port until the end of apartheid—for container transport.
+        <li>Railways run from the most important port, Walvis Bay, and Lﾃｼderitz窶杯he only port until the end of apartheid窶杷or container transport.
             <ul>
                 <li>Walvis Bay {{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}} (Soil is elevated where the track runs)</li>
-                <li>Lüderitz {{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
+                <li>Lﾃｼderitz {{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -112,7 +112,7 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
 {{% tabs %}}
 {{% tab "Elevation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Namibia_Topography.png" width="70%" />
+<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" />
 </div>
 
 {{% notice tip %}}
@@ -127,14 +127,14 @@ Green areas indicate over 80% coverage, while light green areas show visible gro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./glasscover.png" width="70%" />
+<img src="/rule/africa/namibia/glasscover.png" width="70%" />
 </div>
 
 {{% /tab %}}
 {{% tab "Railways" %}}
 
 {{% notice tip %}}
-Railways run primarily from the most important port, Walvis Bay (railway lines appear as black and white lines on the island map). Until Walvis Bay was incorporated after the end of apartheid, Lüderitz was the only port along the Namibian coast that could accommodate large ships. Thinking of this in historical context might make it easier to remember.
+Railways run primarily from the most important port, Walvis Bay (railway lines appear as black and white lines on the island map). Until Walvis Bay was incorporated after the end of apartheid, Lﾃｼderitz was the only port along the Namibian coast that could accommodate large ships. Thinking of this in historical context might make it easier to remember.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
@@ -172,7 +172,7 @@ It appears bushy and spread out from low branches{{% ex "https://maps.app.goo.gl
 
 <div class="googlemap-if unclickable no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Colophospermum mopane in Namibia" height="480" width="640"></a></p>
-<p>By <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercé">Roger Culos</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Link</a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercﾃｩ">Roger Culos</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ The so-called "exploding palm" is distributed near northern Angola and along the
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="bakuhatsu.jpg" width="300px">
+<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px">
 </div>
 
 {{% /tab %}}
@@ -192,7 +192,7 @@ Although its silhouette is distinctive, it may not be often seen due to the lack
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="rock_formations_rocks_dichotoma.jpg" width="80%">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -200,7 +200,7 @@ The distribution area is shown in the light blue dot region in the image below (
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="the_tree_aloes_southern.jpg" width="60%">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%">
 </div>
 
 {{% /tab %}}
@@ -234,7 +234,7 @@ There is a road leading to the popular tourist site called Sossusvlei, surrounde
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" />
+<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" />
 </div>
 
 {{% /tab %}}
@@ -245,7 +245,7 @@ Located in northern Namibia, you can see a vast flat-topped mountain {{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" />
 </div>
 
 {{% /tab %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Mali"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -19,7 +19,7 @@ is_has_many_trekker: true
         <li>Cars drive on the right.</li>
         <li>The domain is <span class="quiz">.ml</span></li>
         <li>Official languages are <span class="quiz">French</span> and region-specific languages</li>
-        <li>In Mali, many buildings are made of mud-bricks and have a distinctive appearance{{% ref "http://www.kamit.jp/27_mali/mali.htm" "西アフリカの イスラｰム建築" %}}</li>
+        <li>In Mali, many buildings are made of mud-bricks and have a distinctive appearance{{% ref "http://www.kamit.jp/27_mali/mali.htm" "website" %}}</li>
         <li>Many Street Viewers are located in the vicinity of the World Heritage Sites of {{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "Old City of Djenne" %}}, {{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "Askia's Tomb" %}}, {{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "Bandiagara Cliffs" %}} , and {{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "Timbuktu" %}} .
     </ul>
 </div>
@@ -27,11 +27,11 @@ is_has_many_trekker: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-In Mali, many buildings are made of mud and appear distinctive. Sticks and pipes made of palm trees often protrude from the walls{{% ref "https://skyticket.jp/guide/90245" "伝統的な泥建築の国、マリ共和国" %}}.
+In Mali, many buildings are made of mud and appear distinctive. Sticks and pipes made of palm trees often protrude from the walls{{% ref "https://skyticket.jp/guide/90245" "莨晉ｵｱ逧・↑豕･蟒ｺ遽峨・蝗ｽ縲√・繝ｪ蜈ｱ蜥悟嵜" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hypostylin/3159048225/in/photolist-5P9WYH-4RiNmt-8eVDUa-pxypWB-bvcM7W-cza2U-bJi4gP-aY6Nat-dNmHa-7jRuWJ-dNmjR-9Vc7Rs-5NHAEp-49jxCE-5Pc25B-5NRXfM-5PnAkm-hnxsBq-4jWPGz-7jG2G4-4k1SNo-4aBo9i-556phb-bM1tpi-t2jt3-4jXy5u-2iDR5AB-fLKLk-9iQKU-ab6NVn-4jv7eR-3jDTXp-bdQaMv-9eDKxy-4mFNqX-i9UcV-87auFa-6byWcZ-87auxT-5P6tpg-7uptap-iaqkd-7fabbk-7htqkM-mKxQL-bcAiwi-dNmZZ-5NHAE6-xMfQCs-wRekbt" title="Djenné, Mali"><img src="https://live.staticflickr.com/3132/3159048225_be7b2477ee_z.jpg" width="640" height="480" alt="Djenné, Mali"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hypostylin/3159048225/in/photolist-5P9WYH-4RiNmt-8eVDUa-pxypWB-bvcM7W-cza2U-bJi4gP-aY6Nat-dNmHa-7jRuWJ-dNmjR-9Vc7Rs-5NHAEp-49jxCE-5Pc25B-5NRXfM-5PnAkm-hnxsBq-4jWPGz-7jG2G4-4k1SNo-4aBo9i-556phb-bM1tpi-t2jt3-4jXy5u-2iDR5AB-fLKLk-9iQKU-ab6NVn-4jv7eR-3jDTXp-bdQaMv-9eDKxy-4mFNqX-i9UcV-87auFa-6byWcZ-87auxT-5P6tpg-7uptap-iaqkd-7fabbk-7htqkM-mKxQL-bcAiwi-dNmZZ-5NHAE6-xMfQCs-wRekbt" title="Djennﾃｩ, Mali"><img src="https://live.staticflickr.com/3132/3159048225_be7b2477ee_z.jpg" width="640" height="480" alt="Djennﾃｩ, Mali"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-
 The Bandiagara cliffs are located away from the urban area{{% ex "https://maps.app.goo.gl/3wPDRJD1wu1AMFxm6" "https://maps.app.goo.gl/e1WEbAzvs27pHcMo7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./falaise_de_bandiagara2.jpg" width="550px">
+<img src="/rule/africa/mali/falaise_de_bandiagara2.jpg" width="550px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -1,4 +1,4 @@
----
+﻿---
 title: "Tunisia"
 date: 2023-02-26
 lastmod: 2023-07-01
@@ -39,12 +39,12 @@ Ada pelat nomor berwarna <span class="quiz">hitam</span>, tetapi ada juga sejuml
 
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="95%">
+<img src="/rule/africa/tunisia/car.png" width="95%">
 </div>
 
 
 {{% lb 50 %}}
-![](2023-05-28-23-08-36.png)
+![](/rule/africa/tunisia/2023-05-28-23-08-36.png)
 
 CC0
 {{% /lb %}}
@@ -53,7 +53,7 @@ CC0
 Banyak bangunan berwarna biru muda dan putih{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}. Pinggiran jalan dan chevron juga dicat putih dan biru muda.{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%">
+<img src="/rule/africa/tunisia/house.png" width="90%">
 </div>
 
 
