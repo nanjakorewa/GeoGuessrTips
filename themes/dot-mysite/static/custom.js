@@ -67,7 +67,6 @@ function applyblur() {
         console.log(blurCheckbox.value);
     }
     else{
-        console.log("falseaaaa");
         isBlurOn = true;
     }
 
