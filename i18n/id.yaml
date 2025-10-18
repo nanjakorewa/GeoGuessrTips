@@ -82,3 +82,16 @@
   translation: tidak ada liputan resmi
 - id: findable-corp-sign
   translation: 代表的な企業
+
+- id: search_input_placeholder
+  translation: Cari di sini
+- id: search_no_results
+  translation: Tidak ada hasil untuk
+- id: search_initial_message
+  translation: Ketik sesuatu untuk mencari...
+- id: search_navigate
+  translation: untuk menavigasi
+- id: search_select
+  translation: untuk memilih
+- id: search_close
+  translation: untuk menutup

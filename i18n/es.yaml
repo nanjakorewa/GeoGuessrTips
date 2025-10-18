@@ -85,3 +85,15 @@
 - id: findable-corp-sign
   translation: Conocida empresa
 
+- id: search_input_placeholder
+  translation: Buscar aquí
+- id: search_no_results
+  translation: Sin resultados para
+- id: search_initial_message
+  translation: Escribe algo para buscar...
+- id: search_navigate
+  translation: para navegar
+- id: search_select
+  translation: para seleccionar
+- id: search_close
+  translation: para cerrar

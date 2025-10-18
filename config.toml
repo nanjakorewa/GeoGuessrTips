@@ -13,8 +13,24 @@ disableLanguages = []
 googleAnalytics = "G-XR9E0W2YP0" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
 ignoreFiles = [ "\\.clip$" ]
+
+[module]
+  [[module.imports]]
+  path = "github.com/gethugothemes/hugo-modules/search"
 [markup.goldmark.renderer]
 unsafe = true
+
+############################# Outputs ##############################
+[outputs]
+home = ["SearchIndex"]
+
+############################ Output Format ###########################
+[outputFormats]
+  [outputFormats.SearchIndex]
+  mediaType = "application/json"
+  baseName = "searchindex"
+  isPlainText = true
+  notAlternative = true
 
 ############################# Default Parameters ##########################
 [params]
@@ -29,9 +45,9 @@ logo = ""
 logo_white = ""
 # when logo is empty, it will shown your site title
 is_show_langtab = true
-
 # customize color
 primary_color = "#19182a"
+
 body_color = "#f0efeb"
 text_color = "#3d405b"
 text_color_dark = "#242738"
@@ -66,6 +82,16 @@ link = "https://github.com/nanjakorewa/GeoGuessrTips"
 icon = "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82"
 
+
+[params.search]
+enable = true
+primary_color = "#19182a"
+include_all_sections = true
+include_list_pages = true
+show_image = false
+show_description = true
+show_tags = true
+show_categories = true
 
 
 ################################ Japanese Language ######################

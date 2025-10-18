@@ -19,6 +19,9 @@
     {{ end }}
     {{ block "main" . }}{{ end }}
     {{ partial "footer.html" . }}
+    {{ if site.Params.search.enable }}
+    {{ partial "search-modal.html" (dict "Context" . "Class" "site-search-modal") }}
+    {{ end }}
   </body>
 
 </html>

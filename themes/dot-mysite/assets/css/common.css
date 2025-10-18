@@ -1647,3 +1647,45 @@ table.compare-table tr td {
   margin-bottom: 0;
   padding-bottom: 0;
 }
+
+.sidebar-search {
+  margin-bottom: 1.5rem;
+}
+
+.sidebar-search-trigger {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.65rem 0.85rem;
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: 0.75rem;
+  background-color: rgba(255, 255, 255, 0.9);
+  color: inherit;
+  text-align: left;
+  cursor: pointer;
+  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+}
+
+.sidebar-search-trigger:hover,
+.sidebar-search-trigger:focus {
+  border-color: rgba(25, 24, 42, 0.35);
+  box-shadow: 0 0 0 3px rgba(25, 24, 42, 0.15);
+  outline: none;
+}
+
+.sidebar-search-icon svg {
+  width: 18px;
+  height: 18px;
+}
+
+.sidebar-search-placeholder {
+  flex: 1;
+  font-size: 0.95rem;
+}
+
+.sidebar-search-shortcut {
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: rgba(25, 24, 42, 0.6);
+}

@@ -87,3 +87,15 @@
 - id: is_has_no_official_coverage
   translation: 出題されない地域も表示する
 
+- id: search_input_placeholder
+  translation: キーワードで検索
+- id: search_no_results
+  translation: 該当する結果が見つかりません
+- id: search_initial_message
+  translation: 検索ワードを入力してください
+- id: search_navigate
+  translation: で移動
+- id: search_select
+  translation: で決定
+- id: search_close
+  translation: で閉じる

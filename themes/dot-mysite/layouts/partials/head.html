@@ -315,4 +315,12 @@ button {
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3422749596492644"
      crossorigin="anonymous"></script>
 
+{{ if site.Params.search.enable }}
+{{ $searchCSS := resources.Get "scss/style.scss" | toCSS | minify }}
+<link href="{{ $searchCSS.Permalink }}" rel="stylesheet" media="screen"/>
+{{ partial "search-index.html" . }}
+{{ $searchJS := resources.Get "js/search.js" | minify | fingerprint }}
+<script defer src="{{ $searchJS.Permalink }}" integrity="{{ $searchJS.Data.Integrity }}"></script>
+{{ end }}
+
 </head>
