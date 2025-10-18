@@ -1146,3 +1146,47 @@ li.dontshowarea {
   color: #c45500;
   text-decoration: none;
 }
+
+.floating-share-x {
+  position: fixed;
+  right: 24px;
+  bottom: 28px;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: var(--primary-color);
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 16px 28px rgba(221, 74, 51, 0.25);
+  border: 2px solid rgba(255, 255, 255, 0.85);
+  z-index: 1200;
+  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+}
+
+.floating-share-x:hover,
+.floating-share-x:focus {
+  background: rgba(221, 74, 51, 0.9);
+  box-shadow: 0 20px 34px rgba(221, 74, 51, 0.28);
+  transform: translateY(-3px);
+  color: #fff;
+}
+
+.floating-share-x i {
+  font-size: 1.35rem;
+  line-height: 1;
+}
+
+@media (max-width: 768px) {
+  .floating-share-x {
+    right: 18px;
+    bottom: 22px;
+    width: 52px;
+    height: 52px;
+  }
+
+  .floating-share-x i {
+    font-size: 1.2rem;
+  }
+}

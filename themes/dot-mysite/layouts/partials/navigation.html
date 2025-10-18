@@ -1,4 +1,4 @@
-<nav class="navbar navbar-expand-md {{ if .IsHome }}navbar-dark{{ else }}navbar-light{{ end }}">
+<nav class="navbar navbar-expand-md navbar-light site-navbar {{ if .IsHome }}home-navbar{{ end }}">
   <div class="container">
     <a class="navbar-brand px-2" href="{{ site.BaseURL | relLangURL }}">
       {{ $logo:= site.Params.logo }}

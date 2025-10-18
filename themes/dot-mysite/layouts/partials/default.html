@@ -55,10 +55,10 @@
       </div>
 
       <div class="col-lg-9">
-        <ol class="breadcrumb">
+        <ol class="breadcrumb article-breadcrumb">
           {{- template "breadcrumb" (dict "node" . "start" .) }}
         </ol>
-        <div class="p-lg-5 p-4 bg-white apply-bg" style="padding: 1em !important;">
+        <div class="article-surface">
           <h1 class="mb-5">{{ if .Params.title_prefix }}<span class="small-title">{{ .Params.title_prefix }}</span>{{ end }}{{ .Title }}{{ if .Params.title_suffix }}<span class="small-title">{{ .Params.title_suffix }}</span>{{ end }}<span style="font-size:0.5em">{{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}{{ if .Params.is_unofficial }}<i class="fa fa-question-circle"></i>{{ end }}</span></span></h1>
           {{ if .Content }}
           {{ partial "share" (dict "page" . "idname" "pagetop" "titlestr" .Title "snsshareurl" .Permalink) }}
@@ -315,6 +315,8 @@
 {{ define "section-tree-nav" }}
 {{ $showvisitedlinks := .showvisitedlinks }}
 {{ $currentNode := .currentnode }}
+{{ $currentPermalink := "" }}
+{{ with $currentNode }}{{ $currentPermalink = .RelPermalink }}{{ end }}
 {{with .sect}}
 {{safeHTML .Params.head}}
 {{ $fileUniqueID := "" }}
@@ -333,7 +335,8 @@
     </a>
     {{ end }}
   {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
-  {{ if ne $numberOfPages 0 }}
+  {{ $isActiveBranch := or (eq $fileUniqueID $currentNodeFileUniqueID) (and (ne $currentPermalink "") (hasPrefix $currentPermalink .RelPermalink)) }}
+  {{ if and (ne $numberOfPages 0) $isActiveBranch }}
     <ul>
       {{ range .Pages.ByWeight }}
         {{ if and .Params.hidden (not $.showhidden) }}
@@ -351,6 +354,8 @@
 {{ define "section-tree-nav2" }}
 {{ $showvisitedlinks := .showvisitedlinks }}
 {{ $currentNode := .currentnode }}
+{{ $currentPermalink := "" }}
+{{ with $currentNode }}{{ $currentPermalink = .RelPermalink }}{{ end }}
 {{with .sect}}
 {{safeHTML .Params.head}}
 {{ $fileUniqueID := "" }}
@@ -365,7 +370,8 @@
     {{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}{{ if .Params.is_unofficial }}<i class="fa fa-question-circle"></i>{{ end }}
   </a>
   {{ $numberOfPages := (add (len .Pages) (len .Sections)) }}
-  {{ if ne $numberOfPages 0 }}
+  {{ $isActiveBranch := or (eq $fileUniqueID $currentNodeFileUniqueID) (and (ne $currentPermalink "") (hasPrefix $currentPermalink .RelPermalink)) }}
+  {{ if and (ne $numberOfPages 0) $isActiveBranch }}
     <ul class="flag-list">
       {{ range .Pages.ByWeight }}
         {{ if and .Params.hidden (not $.showhidden) }}
