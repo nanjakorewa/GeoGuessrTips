@@ -1,65 +1,72 @@
 {{ "<!-- banner -->" | safeHTML }}
 <div class="container section">
-	<div class="row">
-		<div class="col-lg-8 text-center mx-auto">
-			<h1 class="text-white mb-3">{{ .Site.Params.banner.title | markdownify }}</h1>
-			<p class="text-white mb-4">{{ .Site.Params.banner.subtitle | markdownify }}</p>
-			<div class="position-relative">
-				<input id="search" class="form-control" placeholder="{{ .Site.Params.banner.placeholder }}">
-				<!-- <i class="ti-search search-icon"></i> -->
-				<!-- Javascript -->
-				{{ $currentNode := . }}
-				{{ $currentNode.Scratch.Set "pages" .Site.Pages }}
-				{{ $pages := ($currentNode.Scratch.Get "pages") }}
-				<script>
-					$(function() {
-					var projects = [
-						{{ range $pages }}
-						{
-							{{ if (eq .Page.Lang "ja" )}}
-								{{ if (in .Permalink "rule" )}}
-								value: "{{ .Title }}の見分け方",
-								label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
-								url:"{{ .Permalink }}"
-								{{ else }}
-								value: "{{ .Title }}",
-								label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
-								url:"{{ .Permalink }}"
-								{{ end }}
-							{{ else }}
-							value: "{{ .Title }}",
-							label: "<p class='hidden-display-text'>{{ .Title }}{{.Plain}}</p>{{range.Params.Keywords}}<p class='no-display-text'>{{.}}</p>{{end}}",
-							url:"{{ .Permalink }}"
-							{{ end }}
-						},
-						{{ end -}}
-						{{ range $pages -}}
-						{{ $temp_title := .Title -}}
-						{{ $temp_keywords := .Params.Keywords -}}
-						{{ $temp_permalink := .Permalink -}}
-						{{range $sec_index, $section_name := .Params.Sections -}}
-						{{ if (ne $section_name "")}}
-						{
-							value: "{{ $temp_title }} > {{ $section_name }}",
-							label: "<p>{{ $section_name }}</p>{{range $temp_keywords}}<p>{{.}}</p>{{end}}",
-							url:"{{ $temp_permalink }}#sec-{{ $sec_index }}"
-						},
-						{{ end -}}
-						{{ end -}}
-						{{ end -}}
-					];
-					$( "#search" ).autocomplete({
-						source: projects
-					})
-					.data( "ui-autocomplete" )._renderItem = function( ul, item ) {
-						return $( "<li>" )
-						.append( "<a href=" + item.url + " + \" &quot;\" +  >" + item.value + "</a>" + item.label )
-						.appendTo( ul );
-					};
-					});
-				</script>
-			</div>
-		</div>
-	</div>
+  <div class="row">
+    <div class="col-lg-8 text-center mx-auto">
+      <h1 class="text-white mb-3">{{ .Site.Params.banner.title | markdownify }}</h1>
+      <p class="text-white mb-4">{{ .Site.Params.banner.subtitle | markdownify }}</p>
+      {{ if site.Params.search.enable }}
+      {{ $placeholder := .Site.Params.banner.placeholder | default (i18n "search_input_placeholder") }}
+      <div class="homepage-search">
+        <div class="homepage-search-field">
+          <span class="homepage-search-icon" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+              <path fill="currentColor" d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z" />
+            </svg>
+          </span>
+          <input
+            id="homepage-search-input"
+            type="search"
+            class="homepage-search-input"
+            placeholder="{{ $placeholder }}"
+            aria-label="{{ $placeholder }}"
+            autocomplete="off"
+          />
+          <span class="homepage-search-shortcut">Ctrl + K</span>
+        </div>
+        <button type="button" class="sr-only homepage-search-modal-trigger" data-target="search-modal">{{ $placeholder }}</button>
+      </div>
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+          const heroInput = document.getElementById('homepage-search-input');
+          if (!heroInput) return;
+          const trigger = document.querySelector('.homepage-search-modal-trigger[data-target="search-modal"]');
+          if (!trigger) return;
+
+          const syncToModal = (fromValue) => {
+            const modal = document.querySelector('.search-modal');
+            if (!modal) return;
+            const modalInput = modal.querySelector('[data-search-input]');
+            if (!modalInput) return;
+            if (typeof fromValue === 'string' && fromValue.length) {
+              modalInput.value = fromValue;
+              modalInput.dispatchEvent(new Event('input', { bubbles: true }));
+            }
+            modalInput.focus();
+            heroInput.value = '';
+          };
+
+          const openModal = () => {
+            const value = heroInput.value;
+            const modal = document.querySelector('.search-modal');
+            const isVisible = modal && modal.classList.contains('show');
+            if (!isVisible) {
+              trigger.click();
+              setTimeout(() => syncToModal(value), 120);
+            } else {
+              syncToModal(value);
+            }
+          };
+
+          heroInput.addEventListener('focus', openModal);
+          heroInput.addEventListener('keydown', (event) => {
+            if (event.key === 'Tab' || event.ctrlKey || event.metaKey) return;
+            openModal();
+          });
+          heroInput.addEventListener('input', openModal);
+        });
+      </script>
+      {{ end }}
+    </div>
+  </div>
 </div>
 {{ "<!-- /banner -->" | safeHTML }}
