@@ -1568,8 +1568,7 @@ div.areamap-container.wide-map3 div.jsmaps svg {
 
 
 div.map-container, div.areamap-container {
-  /* 髢狗匱逕ｨ縺ｮ險ｭ螳・*/
-  /* display: none; */
+  max-width: 1200px;
 }
 
 div.width-90 {
