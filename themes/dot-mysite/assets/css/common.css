@@ -203,7 +203,7 @@ h2[id] {
   background: linear-gradient(135deg, rgba(68, 110, 114, 0.92) 0%, rgba(43, 39, 33, 0.9) 100%);
   color: var(--white-color);
   border: 1px solid rgba(255, 255, 255, 0.12);
-  border-radius: 18px;
+  border-radius: 0px;
   box-shadow: var(--shadow-accent);
   padding: 2.5rem 2rem;
   overflow: hidden;
@@ -219,12 +219,45 @@ h2[id] {
 }
 
 .banner .nav-link.text-dark {
-  color: var(--white-color) !important;
+  color: var(--secondary-color) !important;
 }
 
 .banner .nav-link.text-dark:hover {
-  background: rgba(255, 255, 255, 0.14);
-  color: var(--white-color) !important;
+  color: var(--primary-color) !important;
+}
+
+.banner .site-navbar {
+  background: rgba(230, 228, 224, 0.92);
+  border: 1px solid var(--border-soft);
+  border-radius: 16px;
+  box-shadow: var(--shadow-soft);
+  padding: 0.65rem 1.25rem;
+}
+
+.banner .site-navbar .nav-link {
+  color: var(--secondary-color) !important;
+}
+
+.banner .site-navbar .nav-link:hover,
+.banner .site-navbar .nav-link:focus {
+  background-color: rgba(68, 110, 114, 0.12);
+  color: var(--primary-color) !important;
+  box-shadow: 0 10px 22px rgba(68, 110, 114, 0.18);
+}
+
+.banner .site-navbar .navbar-brand {
+  color: var(--secondary-color) !important;
+}
+
+.banner .site-navbar .navbar-toggler {
+  background: rgba(255, 255, 255, 0.9);
+  border-color: rgba(43, 39, 33, 0.16) !important;
+}
+
+.banner .site-navbar .lang-list {
+  background: rgba(255, 255, 255, 0.95);
+  color: var(--secondary-color);
+  border-color: var(--border-soft);
 }
 
 code.language-css {
@@ -864,14 +897,10 @@ ul.list-styled {
 }
 
 ul.list-styled li {
-  padding: 0.35rem 0.9rem 0.35rem 1.75rem;
+  padding: 0rem 0rem 0rem 1.75rem;
+  margin: 0;
   border-radius: 12px;
   transition: background-color 0.2s ease, color 0.2s ease;
-}
-
-ul.list-styled li:hover {
-  background-color: var(--accent-muted);
-  color: var(--primary-color);
 }
 
 ul.list-styled li a {

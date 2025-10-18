@@ -393,21 +393,7 @@ pre {
 
 .banner p {
   font-size: 20px;
-  opacity: .88;
-  color: rgba(255, 255, 255, 0.9);
-}
-
-.banner .nav-link.text-dark {
-  color: var(--white-color) !important;
-}
-
-.banner .nav-link.text-dark:hover {
-  background: rgba(255, 255, 255, 0.16);
-  color: var(--white-color) !important;
-}
-
-.banner .navbar-brand {
-  color: var(--white-color) !important;
+  opacity: .8;
 }
 
 /* search */
