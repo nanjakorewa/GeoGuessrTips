@@ -532,10 +532,11 @@ div.googlemap-if div.description-youtube {
 }
 
 ul.flag-list {
-  background: rgba(68, 110, 114, 0.12);
+  background: rgba(251, 251, 251, 0.163);
   width: 100%;
   display: flex;
   flex-wrap: wrap;
+  border-radius: 10px;
   justify-content: center;
   padding: 0;
 }
@@ -1032,8 +1033,6 @@ a.link-color {
 div#option-area {
   z-index: 100;
   margin: 0 1em;
-  position: sticky;
-  top: 42.5px;
   opacity: 1;
 }
 
@@ -1170,11 +1169,11 @@ a.snsl-twitter {
 }
 
 .fa-twitter:before {
-  content: '撫';
+  content: "\1D54F";
   line-height: 1.25;
   font-size: 1.2em;
-  font-family: unset;
-  font-weight: bold;
+  font-family: 'Segoe UI Symbol', 'Noto Sans Symbols', sans-serif;
+  font-weight: 700;
 }
 
 a.snsl-twitch {
@@ -1965,10 +1964,18 @@ table.compare-table tr td {
 }
 
 .homepage-search-icon svg {
+  left: 20px;
   width: 20px;
   height: 20px;
   color: inherit;
   opacity: 0.85;
+}
+
+.search-icon {
+    position: absolute;
+    right: -16px;
+    top: 8px;
+    font-size: 14px;
 }
 
 .homepage-search-input {

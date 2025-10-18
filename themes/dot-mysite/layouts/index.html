@@ -2,24 +2,53 @@
   {{ "<!-- topics -->" | safeHTML }}
   <section class="section" style="margin-bottom:0px;padding-bottom:0px;">
     <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12 text-center">
-          <!--<h2 class="section-title">{{ i18n "topics_title" | safeHTML }}</h2>-->
+      {{ $docs := where .Site.Pages "Type" "docs" }}
+      {{ $.Scratch.Set "ruleDocs" (slice) }}
+      {{ $.Scratch.Set "otherDocs" (slice) }}
+      {{ range $docs }}
+        {{ if hasPrefix .RelPermalink "/rule/" }}
+          {{ $.Scratch.Add "ruleDocs" (slice .) }}
+        {{ else }}
+          {{ $.Scratch.Add "otherDocs" (slice .) }}
+        {{ end }}
+      {{ end }}
+      {{ $ruleDocs := $.Scratch.Get "ruleDocs" }}
+      {{ $otherDocs := $.Scratch.Get "otherDocs" }}
+
+      {{ if $ruleDocs }}
+      <div class="row justify-content-center mb-4">
+        <div class="col-12">
+          <h2 class="section-title text-left" style="margin-bottom:1.5rem;">ジオゲッサー攻略</h2>
         </div>
-        {{ "<!-- topic-item -->" | safeHTML }}
-        {{ range (where .Site.Pages "Type" "docs") }}
-        <div class="col-lg-4 col-sm-3 mb-3">
+        {{ range $ruleDocs }}
+        <div class="col-lg-4 col-sm-6 mb-3">
           <a href="{{ .Permalink }}" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
-            <!--<i class="{{ .Params.Icon }} icon text-primary d-block mb-4"></i>-->
             <h3 class="mb-3 mt-0">{{ if eq .Params.weight 1 }}<i class="fas fa-map-marker-alt" style="margin-right:0.2em; color:rgb(188, 57, 57);"></i>{{ end }}{{ .Title }}</h3>
             <p class="mb-0">{{ .Params.Description }}</p>
           </a>
         </div>
         {{ end }}
-        <div class="col-lg-4 col-sm-3 mb-3" style="background-color:#FC4D50;">
-          <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 d-block match-height" target=”_blank” style="background-color:#FC4D50; color: #fff;">
-            <h3 class="mb-3 mt-0"><span style="font-weight:bold; font-style: italic;color:#FFF;">BOOTH</span></h3>
-            <p class="mb-0" style="color:#fff;">作ってみたグッズ</p>
+      </div>
+      {{ end }}
+
+      <div class="row justify-content-center">
+        {{ if $otherDocs }}
+        <div class="col-12">
+          <h2 class="section-title text-left" style="margin-bottom:1.5rem;">その他</h2>
+        </div>
+        {{ range $otherDocs }}
+        <div class="col-lg-4 col-sm-6 mb-3">
+          <a href="{{ .Permalink }}" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
+            <h3 class="mb-3 mt-0">{{ .Title }}</h3>
+            <p class="mb-0">{{ .Params.Description }}</p>
+          </a>
+        </div>
+        {{ end }}
+        {{ end }}
+        <div class="col-lg-4 col-sm-6 mb-3">
+          <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
+            <h3 class="mb-3 mt-0">BOOTH</h3>
+            <p class="mb-0">作ってみたグッズ</p>
           </a>
         </div>
       </div>
