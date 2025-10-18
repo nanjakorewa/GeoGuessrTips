@@ -46,13 +46,13 @@ logo_white = ""
 # when logo is empty, it will shown your site title
 is_show_langtab = true
 # customize color
-primary_color = "#DD4A33"
+primary_color = "#446E72"
 
-body_color = "#FFFCFC"
-text_color = "#3B535F"
-text_color_dark = "#1F2F36"
+body_color = "#E6E4E0"
+text_color = "#2B2721"
+text_color_dark = "#1F1B16"
 white_color = "#ffffff"
-light_color = "#F5E7E4"
+light_color = "#D4D9D8"
 
 # font family
 font_family = "M PLUS 1p" # Choose font family from : https://fonts.google.com/
@@ -85,7 +85,7 @@ link = "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82"
 
 [params.search]
 enable = true
-primary_color = "#DD4A33"
+primary_color = "#446E72"
 include_all_sections = true
 include_list_pages = true
 show_image = false

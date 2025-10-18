@@ -212,7 +212,7 @@ select:focus {
 }
 
 .border-primary {
-  border-color: #f2f2f2 !important;
+  border-color: var(--border-soft) !important;
 }
 
 pre {
@@ -231,8 +231,8 @@ pre {
   width: 100%;
   top: 0;
   left: 0;
-  background: var(--primary-color);
-  opacity: .8;
+  background: linear-gradient(135deg, rgba(68, 110, 114, 0.18), rgba(230, 228, 224, 0.95));
+  opacity: 1;
 }
 
 .outline-0 {
@@ -387,11 +387,14 @@ pre {
 
 .banner {
   overflow: hidden;
+  background: linear-gradient(135deg, rgba(68, 110, 114, 0.92) 0%, rgba(43, 39, 33, 0.88) 100%);
+  color: var(--white-color);
 }
 
 .banner p {
   font-size: 20px;
-  opacity: .8;
+  opacity: .88;
+  color: rgba(255, 255, 255, 0.9);
 }
 
 .banner .nav-link.text-dark {
@@ -399,6 +402,7 @@ pre {
 }
 
 .banner .nav-link.text-dark:hover {
+  background: rgba(255, 255, 255, 0.16);
   color: var(--white-color) !important;
 }
 
@@ -1159,7 +1163,7 @@ li.dontshowarea {
   display: flex;
   align-items: center;
   justify-content: center;
-  box-shadow: 0 16px 28px rgba(221, 74, 51, 0.25);
+  box-shadow: 0 16px 28px rgba(68, 110, 114, 0.22);
   border: 2px solid rgba(255, 255, 255, 0.85);
   z-index: 1200;
   transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
@@ -1167,8 +1171,8 @@ li.dontshowarea {
 
 .floating-share-x:hover,
 .floating-share-x:focus {
-  background: rgba(221, 74, 51, 0.9);
-  box-shadow: 0 20px 34px rgba(221, 74, 51, 0.28);
+  background: var(--primary-hover);
+  box-shadow: 0 20px 32px rgba(68, 110, 114, 0.26);
   transform: translateY(-3px);
   color: #fff;
 }

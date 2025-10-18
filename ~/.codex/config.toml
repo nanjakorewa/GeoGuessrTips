@@ -1,0 +1,8 @@
+﻿# -------------------------
+# Playwright MCP
+# -------------------------
+[mcp_servers.chrome-devtools]
+type = "stdio"
+command = "C:\\Program Files\\nodejs\\npx.cmd"
+args = ["chrome-devtools-mcp@latest"]
+description = "Chrome DevTools MCP: run performance traces, inspect the DOM, and perform real-time debugging of your web pages — useful for browser automation, end-to-end testing, and capturing page artifacts."
