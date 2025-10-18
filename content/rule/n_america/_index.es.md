@@ -5,4 +5,5 @@ description: "Países de América del Norte"
 weight: 60
 map_index: "northAmerica"
 additional_map_class: "wide-map2"
+type: "docs"
 ---

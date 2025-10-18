@@ -5,4 +5,5 @@ description: "Países de América del Sur"
 weight: 70
 map_index: "southAmerica"
 additional_map_class: "narrow-map"
+type: "docs"
 ---

@@ -22,7 +22,7 @@ unsafe = true
 
 ############################# Outputs ##############################
 [outputs]
-home = ["SearchIndex"]
+home = ["HTML", "RSS", "SearchIndex"]
 
 ############################ Output Format ###########################
 [outputFormats]

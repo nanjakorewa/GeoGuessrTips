@@ -5,4 +5,5 @@ description: "Negara-negara di Amerika Selatan"
 weight: 70
 map_index: "southAmerica"
 additional_map_class: "narrow-map"
+type: "docs"
 ---
