@@ -19,7 +19,7 @@ is_has_many_trekker: true
         <li>Los vehﾃｭculos circulan por el <span class="quiz">lado derecho</span>.</li>
         <li>El dominio es <span class="quiz">.ml</span>.</li>
         <li>Los idiomas son <span class="quiz">francﾃｩs</span> y lenguas locales.</li>
-        <li>Malﾃｭ es conocido por sus <span class="quiz">edificaciones de barro</span>, que tienen un aspecto muy distintivo {{% ref "http://www.kamit.jp/27_mali/mali.htm" "Arquitectura islﾃ｡mica en ﾃ’rica Occidental" %}}.</li>
+        <li>Malﾃｭ es conocido por sus <span class="quiz">edificaciones de barro</span>, que tienen un aspecto muy distintivo {{% ref "http://www.kamit.jp/27_mali/mali.htm" "Arquitectura islﾃ｡mica en África Occidental" %}}.</li>
         <li>Hay muchas vistas de Street View cerca de los lugares Patrimonio de la Humanidad como {{% goto "https://goo.gl/maps/F5Sv333mwu8cxeod8" "la Ciudad Vieja de Djennﾃｩ" %}}, {{% goto "https://goo.gl/maps/MqASYBARLXvbaytV9" "la Tumba de Askia" %}}, {{% goto "https://goo.gl/maps/tPLmweTLt9iG2qnn8" "los Acantilados de Bandiagara" %}}, y {{% goto "https://goo.gl/maps/CgZ2A9HMuc41AVFx9" "Tombuctﾃｺ" %}}, ademﾃ｡s de otros puntos mﾃ｡s pequeﾃｱos.</li>
     </ul>
 </div>

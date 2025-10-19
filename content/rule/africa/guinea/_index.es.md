@@ -34,7 +34,7 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-Guinea es uno de los principales productores de <span class="quiz">bauxita</span> de ﾃ’rica{{% ex "https://maps.app.goo.gl/oFWJApk89apmnfp1A" "https://maps.app.goo.gl/3auuzVSYRPKHZM7P8" %}}; las minas principales estﾃ｡n al noroeste y los suelos suelen verse rojizos. Abajo, la estructura de exportaciones (2019).
+Guinea es uno de los principales productores de <span class="quiz">bauxita</span> de África{{% ex "https://maps.app.goo.gl/oFWJApk89apmnfp1A" "https://maps.app.goo.gl/3auuzVSYRPKHZM7P8" %}}; las minas principales estﾃ｡n al noroeste y los suelos suelen verse rojizos. Abajo, la estructura de exportaciones (2019).
 {{% /notice %}}
 
 <div class="googlemap-if">

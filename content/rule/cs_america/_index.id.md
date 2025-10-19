@@ -6,4 +6,5 @@ weight: 70
 map_index: "southAmerica"
 additional_map_class: "narrow-map"
 type: "docs"
+card_image: "brazil_bahia_de_todos.jpg"
 ---

@@ -5,4 +5,5 @@ description: "Negara-negara di Timur Tengah"
 weight: 30
 map_index: "middleEast"
 additional_map_class: "wide-map3"
+card_image: "camel_wadi_rum_desert.jpg"
 ---
