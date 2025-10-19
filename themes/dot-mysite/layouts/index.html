@@ -18,7 +18,7 @@
       {{ if $ruleDocs }}
       <div class="row justify-content-center mb-4">
         <div class="col-12">
-          <h2 class="section-title text-left" style="margin-bottom:1.5rem;">ジオゲッサー攻略</h2>
+          <h2 class="section-title text-left" style="margin-bottom:1.5rem;">{{ i18n "homepage_rule_section_title" }}</h2>
         </div>
         {{ range $ruleDocs }}
         {{ $cardImage := default "" (default .Params.bg .Params.card_image) }}
@@ -49,7 +49,7 @@
       <div class="row justify-content-center">
         {{ if $otherDocs }}
         <div class="col-12">
-          <h2 class="section-title text-left" style="margin-bottom:1.5rem;">その他</h2>
+          <h2 class="section-title text-left" style="margin-bottom:1.5rem;">{{ i18n "homepage_other_section_title" }}</h2>
         </div>
         {{ range $otherDocs }}
         {{ $cardImage := default "" (default .Params.bg .Params.card_image) }}
@@ -78,7 +78,7 @@
         <div class="col-lg-4 col-sm-6 mb-3">
           <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 shadow d-block match-height apply-bg card-with-image" style="--card-bg-image: url('/bg/default.jpg');">
             <h3 class="mb-3 mt-0">BOOTH</h3>
-            <p class="mb-0">作ってみたグッズ</p>
+            <p class="mb-0">{{ i18n "homepage_booth_caption" }}</p>
           </a>
         </div>
       </div>

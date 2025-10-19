@@ -97,3 +97,11 @@
   translation: para seleccionar
 - id: search_close
   translation: para cerrar
+- id: homepage_rule_section_title
+  translation: Guías de GeoGuessr
+- id: homepage_other_section_title
+  translation: Otros
+- id: homepage_booth_caption
+  translation: Productos que hice
+- id: footer_privacy_link
+  translation: Política de privacidad

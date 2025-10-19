@@ -97,3 +97,11 @@
   translation: to select
 - id: search_close
   translation: to close
+- id: homepage_rule_section_title
+  translation: GeoGuessr Guides
+- id: homepage_other_section_title
+  translation: Others
+- id: homepage_booth_caption
+  translation: Handmade merch
+- id: footer_privacy_link
+  translation: Privacy Policy

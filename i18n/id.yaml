@@ -95,3 +95,11 @@
   translation: untuk memilih
 - id: search_close
   translation: untuk menutup
+- id: homepage_rule_section_title
+  translation: Panduan GeoGuessr
+- id: homepage_other_section_title
+  translation: Lainnya
+- id: homepage_booth_caption
+  translation: Merch buatan saya
+- id: footer_privacy_link
+  translation: Kebijakan Privasi

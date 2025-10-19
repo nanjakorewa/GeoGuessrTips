@@ -99,3 +99,11 @@
   translation: で決定
 - id: search_close
   translation: で閉じる
+- id: homepage_rule_section_title
+  translation: ジオゲッサー攻略
+- id: homepage_other_section_title
+  translation: その他
+- id: homepage_booth_caption
+  translation: 作ってみたグッズ
+- id: footer_privacy_link
+  translation: プライバシーポリシー
