@@ -6,7 +6,7 @@
       {{ $.Scratch.Set "ruleDocs" (slice) }}
       {{ $.Scratch.Set "otherDocs" (slice) }}
       {{ range $docs }}
-        {{ if hasPrefix .RelPermalink "/rule/" }}
+        {{ if or (hasPrefix .RelPermalink "/rule/") (hasPrefix .RelPermalink "/id/rule/") (hasPrefix .RelPermalink "/en/rule/") (hasPrefix .RelPermalink "/es/rule/") }}
           {{ $.Scratch.Add "ruleDocs" (slice .) }}
         {{ else }}
           {{ $.Scratch.Add "otherDocs" (slice .) }}
