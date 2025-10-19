@@ -106,7 +106,7 @@
 - id: homepage_booth_caption
   translation: 作ってみたグッズ
 - id: footer_privacy_link
-  translation: プライバシーポリシー
+  translation: プライバシーポリシー・お問い合わせ
 - id: floating_share_tooltip
   translation: Xにシェアする
 - id: floating_share_aria

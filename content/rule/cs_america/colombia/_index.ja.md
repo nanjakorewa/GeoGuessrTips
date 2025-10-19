@@ -39,7 +39,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-標識の背面には<span class="quiz">クロス（いわゆるコロンビアンクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://maps.app.goo.gl/LKsQoKCVRoey12zX7" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://maps.app.goo.gl/1HmKUtG9pEmAq2fF9" "https://maps.app.goo.gl/hcU1fFzbteDvtMBM7" "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。
+標識の背面には<span class="quiz">クロス（いわゆるコロンビアクロス）</span>が存在する。後ろから見るとはっきりとクロスが見えて{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://maps.app.goo.gl/LKsQoKCVRoey12zX7" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}、前から見るとネジが４つ見える{{% ex "https://maps.app.goo.gl/1HmKUtG9pEmAq2fF9" "https://maps.app.goo.gl/hcU1fFzbteDvtMBM7" "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}。ポールや裏面は白が多い印象。
 {{% /notice %}}
 
 
