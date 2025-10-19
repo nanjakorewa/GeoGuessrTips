@@ -23,10 +23,73 @@
     {{ partial "search-modal.html" (dict "Context" . "Class" "site-search-modal") }}
     {{ end }}
     {{ $shareText := printf "%s | %s" .Title .Site.Title }}
-    {{ $shareURL := printf "https://twitter.com/intent/tweet?url=%s&text=%s" (urlquery .Permalink) (urlquery $shareText) }}
-    <a class="floating-share-x" href="{{ $shareURL }}" target="_blank" rel="noopener" aria-label="Xでシェア">
-      <i class="fab fa-twitter"></i>
-    </a>
-  </body>
+      {{ $shareURL := printf "https://twitter.com/intent/tweet?url=%s&text=%s" (urlquery .Permalink) (urlquery $shareText) }}
+      <div class="floating-share-group">
+        <button class="floating-action floating-copy-url" type="button" data-tooltip="{{ i18n "floating_copy_tooltip" }}" data-success-tooltip="{{ i18n "floating_copy_success" }}" aria-label="{{ i18n "floating_copy_aria" }}">
+          <i class="fas fa-link"></i>
+        </button>
+        <a class="floating-action floating-share-x" href="{{ $shareURL }}" target="_blank" rel="noopener" aria-label="{{ i18n "floating_share_aria" }}" data-tooltip="{{ i18n "floating_share_tooltip" }}">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </div>
+      <script>
+        (() => {
+          const copyBtn = document.querySelector(".floating-copy-url");
+          if (!copyBtn) return;
+          const tooltipAttr = "data-tooltip";
+          const successAttr = "data-success-tooltip";
+          const defaultMessage = copyBtn.getAttribute(tooltipAttr) || "";
+          const successMessage = copyBtn.getAttribute(successAttr) || defaultMessage;
+          let resetTimer = null;
 
-</html>
+          const resetTooltip = () => {
+            copyBtn.setAttribute(tooltipAttr, defaultMessage);
+            copyBtn.classList.remove("is-success");
+          };
+
+          const showSuccess = () => {
+            copyBtn.setAttribute(tooltipAttr, successMessage);
+            copyBtn.classList.add("is-success");
+            if (resetTimer) clearTimeout(resetTimer);
+            resetTimer = setTimeout(resetTooltip, 2000);
+          };
+
+          const copyToClipboard = async (text) => {
+            if (navigator.clipboard?.writeText) {
+              await navigator.clipboard.writeText(text);
+            } else {
+              const textarea = document.createElement("textarea");
+              textarea.value = text;
+              textarea.style.position = "fixed";
+              textarea.style.opacity = "0";
+              document.body.appendChild(textarea);
+              textarea.focus();
+              textarea.select();
+              document.execCommand("copy");
+              document.body.removeChild(textarea);
+            }
+          };
+
+          copyBtn.addEventListener("click", async () => {
+            try {
+              await copyToClipboard(window.location.href);
+              showSuccess();
+            } catch (err) {
+              console.error("Failed to copy URL", err);
+            }
+          });
+
+          copyBtn.addEventListener("mouseleave", () => {
+            if (!copyBtn.classList.contains("is-success")) return;
+            resetTooltip();
+          });
+
+          copyBtn.addEventListener("blur", () => {
+            if (!copyBtn.classList.contains("is-success")) return;
+            resetTooltip();
+          });
+        })();
+      </script>
+    </body>
+
+  </html>

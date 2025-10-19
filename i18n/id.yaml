@@ -103,3 +103,13 @@
   translation: Merch buatan saya
 - id: footer_privacy_link
   translation: Kebijakan Privasi
+- id: floating_share_tooltip
+  translation: Bagikan ke X
+- id: floating_share_aria
+  translation: Bagikan halaman ini ke X
+- id: floating_copy_tooltip
+  translation: Salin URL halaman
+- id: floating_copy_success
+  translation: Tersalin!
+- id: floating_copy_aria
+  translation: Salin URL halaman ini

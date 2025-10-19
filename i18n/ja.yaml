@@ -107,3 +107,13 @@
   translation: 作ってみたグッズ
 - id: footer_privacy_link
   translation: プライバシーポリシー
+- id: floating_share_tooltip
+  translation: Xにシェアする
+- id: floating_share_aria
+  translation: Xにシェアする
+- id: floating_copy_tooltip
+  translation: URLをコピーする
+- id: floating_copy_success
+  translation: コピーしました！
+- id: floating_copy_aria
+  translation: このページのURLをコピーする

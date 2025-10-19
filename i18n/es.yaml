@@ -105,3 +105,13 @@
   translation: Productos que hice
 - id: footer_privacy_link
   translation: Política de privacidad
+- id: floating_share_tooltip
+  translation: Compartir en X
+- id: floating_share_aria
+  translation: Compartir esta página en X
+- id: floating_copy_tooltip
+  translation: Copiar URL de la página
+- id: floating_copy_success
+  translation: ¡Copiado!
+- id: floating_copy_aria
+  translation: Copiar la URL de esta página

@@ -105,3 +105,13 @@
   translation: Handmade merch
 - id: footer_privacy_link
   translation: Privacy Policy
+- id: floating_share_tooltip
+  translation: Share to X
+- id: floating_share_aria
+  translation: Share this page to X
+- id: floating_copy_tooltip
+  translation: Copy page URL
+- id: floating_copy_success
+  translation: Copied!
+- id: floating_copy_aria
+  translation: Copy this page URL
