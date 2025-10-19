@@ -1,7 +1,7 @@
 ---
-title: "Oceania"
+title: "Antarctica"
 date: 2023-02-26
-description: "Countries in Oceania"
+description: "Antarctica and Other Regions"
 weight: 25
 map_index: "oceania"
 type: "docs"

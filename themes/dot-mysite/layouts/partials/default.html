@@ -43,7 +43,8 @@
             </div>
 
           {{ $currentNode := . }}
-          {{ $expandAll := eq $currentNode.RelPermalink "/rule/" }}
+          {{ $relPermalink := $currentNode.RelPermalink }}
+          {{ $expandAll := strings.HasSuffix $relPermalink "/rule/" }}
           <ul class="list-styled">
             <a class="back-btn" href="{{ .Site.BaseURL | relLangURL }}"></a>
             {{range .Site.Home.Sections.ByWeight}}
