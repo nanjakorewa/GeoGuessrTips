@@ -131,7 +131,6 @@ Pola pada guardrail
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685255945208!6m8!1m7!1spdaqZep_ne3-Y1gd2Jvhmg!2m2!1d-5.836518407748231!2d-77.99649735499301!3f335.977693587706!4f-12.960206817655376!5f1.742747712528216" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-
 {{% tab "電柱" %}}
 {{% notice tip %}}
 Tiang listrik sering memiliki tiga batang menonjol ke arah yang sama{{% ex "https://maps.app.goo.gl/8Pki4o9z6uLVNxEd6" %}}.
@@ -140,7 +139,6 @@ Tiang listrik sering memiliki tiga batang menonjol ke arah yang sama{{% ex "http
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689063313770!6m8!1m7!1sHGPJVOJv-NSaqCyXlLh2CQ!2m2!1d-12.13578785884225!2d-76.8077639891435!3f81.28270024151131!4f33.197897697403874!5f3.3248611522391367" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-
 {{% tab "w-bollard" %}}
 {{% notice tip %}}
 Bollard dengan desain putih dan cat kuning jarang ditemukan di luar Peru.
@@ -152,7 +150,6 @@ Bollard dengan desain putih dan cat kuning jarang ditemukan di luar Peru.
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685255452553!6m8!1m7!1sV_m0TM24-U1jJUfGnok18w!2m2!1d-11.55895048087308!2d-69.28771986328607!3f148.5534550784995!4f-10.90553675857818!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
-
 {{% tab "Google Car" %}}
 {{% notice tip %}}
 Google Car dengan warna hitam atau putih sering terlihat. Namun, warna ini juga digunakan di Asia, jadi perhatikan untuk tidak langsung mengira berada di Amerika Selatan. Gambar di kanan berasal dari Indonesia.

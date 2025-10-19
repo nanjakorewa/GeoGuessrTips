@@ -84,7 +84,6 @@ Rekaman referensi
 Jika terdapat pohon kelapa sawit seperti ini, kemungkinan besar berada di dataran rendah bagian selatan {{% ex "https://maps.app.goo.gl/hodg6KoLExT7XFNN7" "https://maps.app.goo.gl/ahDVmb6x4QxyqKex6" %}}
 {{% /notice %}}
 {{% /tab %}}
-
 {{% tab "Karet" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" />
@@ -98,7 +97,6 @@ Jika terdapat pohon kelapa sawit seperti ini, kemungkinan besar berada di datara
 Pohon karet umumnya banyak ditemukan di semenanjung bagian selatan {{% ex "https://maps.app.goo.gl/up5puzmHockybJdt9" "https://maps.app.goo.gl/YwYA4ruviHHSKB1B8" %}}. Namun, pohon karet juga tersebar di utara dan di {{% goto "../vietnum/" "Vietnam" %}}, sehingga tidak seluruhnya terbatas di selatan {{% ref "https://www.researchgate.net/figure/a-Map-of-rubberwood-plantation-in-Thailand-b-Provinces-in-South-of-Thailand-14_fig1_339636708" "Wongsapai, Wongkot, et al. 『Biomass supply chain for power generation in southern part of Thailand.』 Energy Reports 6 (2020): 221-227." %}}。
 {{% /notice %}}
 {{% /tab %}}
-
 {{% tab "Jagung" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" />
@@ -108,7 +106,6 @@ Pohon karet umumnya banyak ditemukan di semenanjung bagian selatan {{% ex "https
 Sama seperti di Amerika Serikat, area produksi jagung biasanya berdekatan dengan area produksi kedelai. Di Thailand, kedelai hanya diproduksi di bagian utara.
 {{% /notice %}}
 {{% /tab %}}
-
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" />
@@ -123,7 +120,6 @@ Sawah banyak ditemukan di daerah yang berbatasan dengan Kamboja dan Laos.
 </div>
 
 {{% /tab %}}
-
 {{% tab "Tanah" %}}
 {{% notice tip %}}
 Bagian barat laut dan utara.

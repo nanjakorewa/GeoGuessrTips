@@ -55,7 +55,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 {{% /lb %}}
 
 {{% /tab %}}
-
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682440999935!6m8!1m7!1sGDfHJc0nnrpu67foDQEc1w!2m2!1d-26.84219957385132!2d30.96552003993061!3f280.6662487879977!4f6.783219719504544!5f1.8437648934603765" width="190" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -91,7 +90,6 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/safahovinen/39263746285/" title="Close to Piggs Peak"><img src="https://live.staticflickr.com/4670/39263746285_1232779115_c.jpg" width="800" height="533" alt="Close to Piggs Peak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-
 {{% tab "ローベルト" %}}
 {{% notice tip %}}
 ローベルトでは平地が多く<span class="quiz">サトウキビ</span>が育てられていることがある。

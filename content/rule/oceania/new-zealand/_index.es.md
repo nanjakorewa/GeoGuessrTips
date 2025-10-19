@@ -187,7 +187,6 @@ La zona alrededor de Christchurch es plana y tiene muchos cortavientos altos {{%
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Cortavientos"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Cortavientos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
-
 {{% tab "Región de Bay of Plenty" %}}
 {{% notice tip %}}
 Hay cortavientos para proteger los cultivos del viento del océano, pero no tantos como en la llanura de Canterbury {{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}.
@@ -196,7 +195,6 @@ Hay cortavientos para proteger los cultivos del viento del océano, pero no tant
 <img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg">
 </div>
 {{% /tab %}}
-
 {{% tab "Carrizo (Arundo donax)" %}}
 {{% notice tip %}}
 Esta planta, común en la región mediterránea, crece a lo largo de las costas de la Isla Norte, especialmente cerca de Auckland {{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax (iNaturalist)" %}}. En el extremo sur, también se encuentra en la costa cerca de Christchurch.
@@ -225,7 +223,6 @@ Si ves una montaña similar al Monte Fuji, probablemente estés cerca del parque
 <img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg">
 </div>
 {{% /tab %}}
-
 {{% tab "Otago Central Rail Trail" %}}
 
 {{% notice tip %}}
@@ -258,7 +255,6 @@ Tiene playas de arena oscura. Al igual que en el extremo sur de la Isla Sur, los
 <p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Arcoíris después de la lluvia en Oban, Isla Stewart - panoramio.jpg" width="95%"></a></p><p>Por Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Enlace</a></p>
 </div>
 {{% /tab %}}
-
 {{% tab "Isla White" %}}
 
 {{% notice tip %}}
@@ -269,7 +265,6 @@ Antiguo sitio de producción de azufre, abandonado debido a desastres volcánico
 <img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%">
 </div>
 {{% /tab %}}
-
 {{% tab "Islas Antípodas" %}}
 
 {{% notice tip %}}

@@ -67,7 +67,6 @@ In the Canary Islands and {{% goto "../../n_america/mexico/" "southern-central M
 <img src="/rule/africa/canary_islands/agave_salmiana_san_francisco.jpg" width="90%">
 </div>
 {{% /tab %}}
-
 {{% tab "w-bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1683961855176!6m8!1m7!1sqLy_OnqKpwPZQd68i3lDBQ!2m2!1d28.05415393509!2d-16.61176722128879!3f152.99065641382995!4f-19.867513809251804!5f2.956957644608195" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

@@ -113,7 +113,6 @@ Huruf awal pada bagian bawah pelat di tiang listrik menunjukkan: semakin mendeka
 <p style="width:100%;"><a href="https://commons.wikimedia.org/wiki/File:Taipower_power_lines_pole_ID_on_Fu_1st_Street,_Qidu_District_20100723.jpg#/media/File:Taipower_power_lines_pole_ID_on_Fu_1st_Street,_Qidu_District_20100723.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Taipower_power_lines_pole_ID_on_Fu_1st_Street%2C_Qidu_District_20100723.jpg" alt="Taipower power lines pole ID on Fu 1st Street, Qidu District 20100723.jpg" height="640" width="480"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Solomon203" title="User:Solomon203">Solomon203</a> - <span class="int-own-work" lang="id">Karya pribadi</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10979816">Link</a></p>
 </div>
 {{% /tab %}}
-
 {{% tab "Kode Area Telepon" %}}
 {{% notice tip %}}
 Kode area telepon menjadi lebih besar saat bergerak ke selatan. (Gambar oleh Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - File ini berasal dari Postal zone of Taiwan.svg, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>)
@@ -122,7 +121,6 @@ Kode area telepon menjadi lebih besar saat bergerak ke selatan. (Gambar oleh Pos
 <a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="550px" alt="Kode area telepon di Taiwan" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
 </div>
 {{% /tab %}}
-
 {{% tab "Pohon Palem" %}}
 {{% notice tip %}}
 Di dataran rendah, semakin ke selatan, suhu terasa lebih hangat, dan pohon palem semakin banyak. Namun, di daerah pegunungan, sering kali pohon palem tidak ditemukan.

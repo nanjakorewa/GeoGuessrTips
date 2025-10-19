@@ -88,11 +88,11 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-写真左側にあるようにポールに赤白のペイントがある{{% ex "https://maps.app.goo.gl/KovVxvS6FLnT1kSQ8" "https://maps.app.goo.gl/2iFCvmAHu57pRp349" "https://maps.app.goo.gl/EnuwhftWhQWMrsrr9" %}}か、根本や全体が黒に塗られた鉄のポールであることも多い{{% ex "https://maps.app.goo.gl/CM9Y81fNrE3GXEyZ9" "https://maps.app.goo.gl/AmKcmCn8pY78scXF9" "https://maps.app.goo.gl/gpvizu74q7wkYtC6A" "https://maps.app.goo.gl/6ag1MnRRLtUTgvuX7" %}}。
+写真中央やや左側にあるようにポールに赤白のペイントがある{{% ex "https://maps.app.goo.gl/KovVxvS6FLnT1kSQ8" "https://maps.app.goo.gl/2iFCvmAHu57pRp349" "https://maps.app.goo.gl/EnuwhftWhQWMrsrr9" %}}か、根本や全体が黒に塗られた鉄のポールであることも多い{{% ex "https://maps.app.goo.gl/CM9Y81fNrE3GXEyZ9" "https://maps.app.goo.gl/AmKcmCn8pY78scXF9" "https://maps.app.goo.gl/gpvizu74q7wkYtC6A" "https://maps.app.goo.gl/6ag1MnRRLtUTgvuX7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:%22Justice_for_Kanjuruhan%22_banner_in_Jakarta.jpg#/media/File:%22Justice_for_Kanjuruhan%22_banner_in_Jakarta.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/%22Justice_for_Kanjuruhan%22_banner_in_Jakarta.jpg" alt="File:&quot;Justice for Kanjuruhan&quot; banner in Jakarta.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:RasyaAbhirama13&amp;action=edit&amp;redlink=1" class="new" title="User:RasyaAbhirama13 (page does not exist)">RasyaAbhirama13</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125295540">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Bukit_Bego_(11).jpg#/media/File:Bukit_Bego_(11).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bukit_Bego_%2811%29.jpg" alt="File:Bukit Bego (11).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fandy_Aprianto_Rohman" class="mw-redirect" title="User:Fandy Aprianto Rohman">Fandy Aprianto Rohman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=93198564">Link</a></p>
 </div>
 
 
@@ -143,7 +143,7 @@ CC0
 
 
 <div class="image-row-booth">
-    <h2>コロンビア関連グッズ</h2>
+    <h2>インドネシア関連グッズ</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7092425" target="_blank">
             <img src="d9491b6c-4492-40e2-8a0f-5f271e21d003.png" alt="画像3">

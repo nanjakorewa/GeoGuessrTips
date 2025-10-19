@@ -89,7 +89,6 @@ Google Car di Kenya memiliki beberapa ciri khas, termasuk atap yang terlihat {{%
 {{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 縲拶 review of Kenya窶冱 national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.縲・(2014)." %}}
 {{% /notice %}}
 {{% /tab %}}
-
 {{% tab "Pesisir Timur" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1694924718412!6m8!1m7!1s57gQl4murZAHOYv_irM2IQ!2m2!1d-3.872518787254868!2d39.78164550750251!3f201.9618370086089!4f-7.606157894095659!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -98,7 +97,6 @@ Google Car di Kenya memiliki beberapa ciri khas, termasuk atap yang terlihat {{%
 {{% notice tip %}}
 {{% /notice %}}
 {{% /tab %}}
-
 {{% tab "Barat Laut" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1694925053890!6m8!1m7!1sRoPwIx9bSo6DftrZMzIWQQ!2m2!1d3.515174464846655!2d35.22271852414578!3f232.62532757736392!4f3.918786919933595!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

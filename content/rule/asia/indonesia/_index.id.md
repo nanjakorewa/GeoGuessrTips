@@ -80,8 +80,7 @@ Plat nomor sering berwarna <span class="quiz">hitam</span> dengan tulisan putih,
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:%22Justice_for_Kanjuruhan%22_banner_in_Jakarta.jpg#/media/File:%22Justice_for_Kanjuruhan%22_banner_in_Jakarta.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/%22Justice_for_Kanjuruhan%22_banner_in_Jakarta.jpg" alt="File:&quot;Justice for Kanjuruhan&quot; banner in Jakarta.jpg" width="95%"></a></p>
-<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:RasyaAbhirama13&amp;action=edit&amp;redlink=1" class="new" title="User:RasyaAbhirama13 (page does not exist)">RasyaAbhirama13</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125295540">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Bukit_Bego_(11).jpg#/media/File:Bukit_Bego_(11).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bukit_Bego_%2811%29.jpg" alt="File:Bukit Bego (11).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fandy_Aprianto_Rohman" class="mw-redirect" title="User:Fandy Aprianto Rohman">Fandy Aprianto Rohman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=93198564">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -101,19 +100,19 @@ Karena jenisnya banyak, referensi tentang <b>Bollard di Indonesia</b> telah dipi
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
-    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
-    <ul class="rule-list">
-        <li>Pelajari lokasi <b>Kabupaten</b> (distrik administratif tingkat dua di Indonesia). 
-            Silakan cek referensi peta ini {{% goto "https://juraganposter.net/product_images/uploaded_images/peta-indonesia-hd-pdf-08.jpg" "Peta" %}} atau kunjungi halaman {{% ref "https://juraganposter.net/blog/peta-indonesia-hd-pdf/" "Peta Indonesia HD PDF" %}} untuk detailnya.
-            <ul>
-                <li>Aceh {{% ex "https://maps.app.goo.gl/Bist9SqqxLQhp23w8" %}}</li>
-                <li>Kota Ternate, Maluku Utara {{% ex "https://maps.app.goo.gl/PXf3fXyAF1JSbGD19" %}}</li>
-                <li>Kota Kupang, Nusa Tenggara Timur {{% ex "https://maps.app.goo.gl/2CXXdjJSYHnKsecC6" %}}</li>
-                <li>Bawean {{% ex "https://maps.app.goo.gl/5yhTA9TxbtMuQ75S8" %}}</li>
-            </ul>
-        </li>
-        <li>Indonesia memiliki <b>38 provinsi</b>.</li>
-    </ul>
+<h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+<ul class="rule-list">
+    <li>Pelajari lokasi <b>Kabupaten</b> (distrik administratif tingkat dua di Indonesia). 
+        Silakan cek referensi peta ini {{% goto "https://juraganposter.net/product_images/uploaded_images/peta-indonesia-hd-pdf-08.jpg" "Peta" %}} atau kunjungi halaman {{% ref "https://juraganposter.net/blog/peta-indonesia-hd-pdf/" "Peta Indonesia HD PDF" %}} untuk detailnya.
+        <ul>
+            <li>Aceh {{% ex "https://maps.app.goo.gl/Bist9SqqxLQhp23w8" %}}</li>
+            <li>Kota Ternate, Maluku Utara {{% ex "https://maps.app.goo.gl/PXf3fXyAF1JSbGD19" %}}</li>
+            <li>Kota Kupang, Nusa Tenggara Timur {{% ex "https://maps.app.goo.gl/2CXXdjJSYHnKsecC6" %}}</li>
+            <li>Bawean {{% ex "https://maps.app.goo.gl/5yhTA9TxbtMuQ75S8" %}}</li>
+        </ul>
+    </li>
+    <li>Indonesia memiliki <b>38 provinsi</b>.</li>
+</ul>
 </div>
 
 {{% tabs %}}
@@ -126,7 +125,6 @@ Kadang disingkat sebagai "KAB". Foto ini diambil di kawasan Cepu {{% ref "https:
 <p>By <a href="https://id.wikipedia.org/wiki/User:Mujionomaruf" class="extiw" title="id:User:Mujionomaruf">id:User:Mujionomaruf</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105505116">Link</a></p>
 </div>
 {{% /tab %}}
-
 {{% tab "Provinsi" %}}
 {{% notice tip %}}
 Indonesia terdiri dari 38 provinsi. Kabupaten adalah subdivisi administratif dari provinsi.

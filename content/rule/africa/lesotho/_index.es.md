@@ -51,7 +51,6 @@ En comparaciﾃｳn con {{% goto "../eswatini/" "Esuatini" %}}, la hierba en Les
 <img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%">
 </div>
 {{% /tab %}}
-
 {{% tab "w-road" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1679071286013!6m8!1m7!1svOlntoCNjqKh75WbhcWaTw!2m2!1d-29.31540480409747!2d27.48959154561095!3f96.10363228499693!4f-29.491597698979618!5f2.8252987156531377" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
