@@ -39,7 +39,7 @@ Cada isla ofrece paisajes distintos, pero desde muchas playas se alcanzan a ver 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./Island_couple.jpg" width="70%">
+<img src="/rule/asia/chagos-around/Island_couple.jpg" width="70%">
 </div>
 
 {{% notice tip %}}

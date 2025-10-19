@@ -37,7 +37,7 @@ sc: [
 Los vehículos particulares llevan matrículas <span class="quiz">negras</span> y se circula por la derecha{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}. En cambio, {{% goto "../thai/" "Tailandia" %}} conduce por el <span class="quiz">lado izquierdo</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%">
+<img src="/rule/asia/laos/car.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ El idioma oficial es el lao, por lo que las señales de alto y otros avisos tien
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Fari-Wechsel.jpg" width="90%">
+<img src="/rule/asia/laos/960px-Fari-Wechsel.jpg" width="90%">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -72,7 +72,7 @@ Varias señales tienen la cara posterior pintada de color <span class="quiz">cel
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadsign.jpg" width="85%">
+<img src="/rule/asia/laos/roadsign.jpg" width="85%">
 </div>
 
 {{% /tab %}}
@@ -121,7 +121,7 @@ El lao es el idioma oficial del país.
 {{% tabs %}}
 {{% tab "Vang Vieng" %}}
 <div class="googlemap-if">
-<img src="./laos_vang_vieng_river.jpg">
+<img src="/rule/asia/laos/laos_vang_vieng_river.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

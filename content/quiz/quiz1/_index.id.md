@@ -32,6 +32,6 @@ Jika kamu memanfaatkan tidak hanya nama tempat tetapi juga petunjuk seperti kode
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./japan_otaru_road_buildings.jpg">
+<img src="/quiz/quiz1/japan_otaru_road_buildings.jpg">
 </div>
 </div>
