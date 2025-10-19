@@ -7,12 +7,19 @@ baseURL = "https://geopinning.space/"
 theme = "dot-mysite"
 # site title
 title = "GeoGuessrの攻略めも"
+# generate robots.txt
+enableRobotsTXT = true
 # disable language
 disableLanguages = []
 # google analytics
 googleAnalytics = "G-XR9E0W2YP0" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
 ignoreFiles = [ "\\.clip$" ]
+
+[sitemap]
+  changefreq = "weekly"
+  priority = 0.5
+  filename = "sitemap.xml"
 
 [module]
   [[module.imports]]
@@ -57,8 +64,42 @@ light_color = "#D4D9D8"
 # font family
 font_family = "M PLUS 1p" # Choose font family from : https://fonts.google.com/
 
+twitter_site = "@nanjakorewa"
+twitter_creator = "@nanjakorewa"
+default_og_image = "images/icon-512x512.png"
+default_keywords = ["GeoGuessr", "ジオゲッサー", "地理クイズ", "世界の国", "地理クイズ攻略"]
+
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
+
+[params.home_title]
+ja = "GeoGuessrの攻略めも"
+en = "My GeoGuessr Tips"
+id = "Kiat Geogesser Saya"
+es = "Notas de GeoGuessr"
+
+[params.default_description]
+ja = "GeoGuessr（ジオゲッサー）のプレイで気付いた特徴や攻略ヒントを国・地域ごとにまとめた個人メモです。地理クイズの練習や配信前の下調べに役立つ情報を整理しています。"
+en = "Personal notes that collect strategies, observations, and distinctive clues for GeoGuessr, organised by country and region to support practice and research."
+id = "Catatan pribadi berisi strategi, pengamatan, dan petunjuk khas GeoGuessr yang disusun per negara untuk membantu latihan serta riset."
+es = "Notas personales con estrategias, observaciones y pistas distintivas de GeoGuessr organizadas por país para apoyar la práctica y la investigación."
+
+[params.flag_title_templates]
+ja = "GeoGuessrで%sを見分けるには？"
+en = "How to identify %s in GeoGuessr?"
+id = "Cara membedakan %s di GeoGuessr"
+es = "¿Cómo identificar %s en GeoGuessr?"
+
+[params.flag_description_templates]
+ja = "%sをGeoGuessrで見分けるためのヒントや特徴をまとめたメモです。ストリートビューで気付いたポイントを記録しています。"
+en = "Notes that summarise tips and distinctive features to help identify %s while playing GeoGuessr."
+id = "Catatan yang merangkum kiat dan ciri khas untuk membantu membedakan %s saat bermain GeoGuessr."
+es = "Notas que reúnen consejos y rasgos distintivos para identificar %s mientras juegas GeoGuessr."
+
+[params.organization]
+name = "nanja"
+url = "https://geopinning.space/"
+logo = "images/icon-512x512.png"
 
 
 ############################## social links ##############################
