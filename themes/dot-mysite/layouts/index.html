@@ -1,4 +1,4 @@
-{{ define "main" }}
+﻿{{ define "main" }}
   {{ "<!-- topics -->" | safeHTML }}
   <section class="section" style="margin-bottom:0px;padding-bottom:0px;">
     <div class="container">
@@ -87,17 +87,56 @@
   {{ "<!-- /topics -->" | safeHTML }}
 
     {{ if eq .Page.Lang "ja"}}
-    <section>
-      <div class="container">
-        <div class="row">
-          <div class="col-12">
-            <div class="bg-white update-area">
-              <b>{{ .Site.Params.update_message }}</b> <a href="{{ .Site.Params.page_link }}">{{ .Site.Params.page_title }}@{{ .Site.Params.update_date }}</a>
-              {{ if .Site.Params.page_link2 }}・<a href="{{ .Site.Params.page_link2 }}">{{ .Site.Params.page_title2 }}@{{ .Site.Params.update_date2 }}</a>{{ end }}</b>
+      {{ $updates := .Site.Params.recent_update }}
+      {{ $milestone := .Site.Params.milestone_access_message }}
+      {{ if or $updates $milestone }}
+      <section>
+        <div class="container">
+          <div class="row justify-content-center">
+            <div class="col-12">
+              <div class="update-milestone-card">
+                {{ with $updates }}
+                {{ $items := .items }}
+                {{ if or .label (gt (len $items) 0) }}
+                <div class="update-milestone-card__updates">
+                  {{ if .label }}
+                  <div class="update-milestone-card__label">{{ .label }}</div>
+                  {{ end }}
+                  {{ with $items }}
+                  <ul class="update-milestone-card__list">
+                    {{ range . }}
+                      {{ if .title }}
+                      <li class="update-milestone-card__item">
+                        {{ if .link }}
+                          <a href="{{ .link }}">{{ .title }}</a>
+                        {{ else }}
+                          <span>{{ .title }}</span>
+                        {{ end }}
+                        {{ if .date }}<span class="update-milestone-card__date">@{{ .date }}</span>{{ end }}
+                      </li>
+                      {{ end }}
+                    {{ end }}
+                  </ul>
+                  {{ end }}
+                </div>
+                {{ end }}
+                {{ end }}
+                {{ if and $updates $milestone }}
+                <div class="update-milestone-card__divider" aria-hidden="true"></div>
+                {{ end }}
+                {{ with $milestone }}
+                <div class="update-milestone-card__milestone">
+                  <div class="update-milestone-card__milestone-badge">Milestone</div>
+                  <h3 class="update-milestone-card__title">{{ .title }}</h3>
+                  <p class="update-milestone-card__text">{{ .description }}</p>
+                </div>
+                {{ end }}
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </section>
-  {{ end }}
+      </section>
+      {{ end }}
+    {{ end }}
 {{ end }}
+

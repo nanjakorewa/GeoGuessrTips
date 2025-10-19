@@ -641,16 +641,186 @@ div.tip+div.note {
   margin: 0 0 0 0 !important;
 }
 
-div.update-area {
-  padding: 0.4em;
+.update-milestone-card {
+  position: relative;
+  background: linear-gradient(135deg, rgba(255, 255, 255, 0.97), rgba(255, 255, 255, 0.84));
+  border: 1px solid rgba(43, 39, 33, 0.12);
+  border-radius: 20px;
+  box-shadow: var(--shadow-soft);
+  padding: 1.9rem 2rem;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  gap: 1.6rem;
 }
 
-div.update-area a {
-  text-decoration: underline black;
+.update-milestone-card::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(circle at 82% 18%, rgba(68, 110, 114, 0.18), transparent 55%);
+  pointer-events: none;
 }
 
-div.update-area a:hover {
-  font-weight: bold;
+.update-milestone-card__updates,
+.update-milestone-card__milestone {
+  position: relative;
+  z-index: 1;
+}
+
+.update-milestone-card__updates {
+  display: flex;
+  flex-direction: column;
+  gap: 0.9rem;
+}
+
+.update-milestone-card__label {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.9rem;
+  border-radius: 999px;
+  background: rgba(68, 110, 114, 0.12);
+  color: var(--primary-hover);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.update-milestone-card__label::before {
+  content: "\f46c";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 0.82rem;
+}
+
+.update-milestone-card__list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+
+.update-milestone-card__item {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.55rem;
+  font-size: 0.98rem;
+  color: var(--secondary-color);
+}
+
+.update-milestone-card__item a {
+  color: var(--primary-color);
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.update-milestone-card__item a:hover,
+.update-milestone-card__item a:focus {
+  color: var(--primary-hover);
+  text-decoration: underline;
+}
+
+.update-milestone-card__item span {
+  color: rgba(43, 39, 33, 0.85);
+}
+
+.update-milestone-card__date {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: rgba(68, 110, 114, 0.75);
+}
+
+.update-milestone-card__divider {
+  position: relative;
+  z-index: 1;
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(to right, transparent, rgba(68, 110, 114, 0.28), transparent);
+}
+
+.update-milestone-card__milestone {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.update-milestone-card__milestone-badge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  padding: 0.35rem 0.95rem;
+  border-radius: 999px;
+  background: rgba(68, 110, 114, 0.12);
+  color: var(--primary-hover);
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  position: relative;
+  z-index: 1;
+}
+
+.update-milestone-card__milestone-badge::before {
+  content: "\f091";
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  font-size: 0.82rem;
+}
+
+.update-milestone-card__title {
+  font-size: 1.45rem;
+  font-weight: 700;
+  margin-bottom: 0.65rem;
+  color: var(--secondary-color);
+}
+
+.update-milestone-card__text {
+  margin: 0;
+  font-size: 0.98rem;
+  line-height: 1.7;
+  color: rgba(43, 39, 33, 0.85);
+}
+
+.update-milestone-card__text strong {
+  font-weight: 700;
+  color: var(--primary-hover);
+}
+
+.update-milestone-card__milestone a {
+  color: var(--primary-color);
+  font-weight: 600;
+  text-decoration: underline;
+}
+
+.update-milestone-card__milestone a:hover,
+.update-milestone-card__milestone a:focus {
+  color: var(--primary-hover);
+}
+
+@media (max-width: 767.98px) {
+  .update-milestone-card {
+    padding: 1.55rem 1.5rem;
+    gap: 1.4rem;
+  }
+
+  .update-milestone-card__title {
+    font-size: 1.3rem;
+  }
+
+  .update-milestone-card__item {
+    flex-direction: column;
+    gap: 0.25rem;
+  }
+
+  .update-milestone-card__date {
+    font-size: 0.8rem;
+  }
 }
 
 div.main-description {
