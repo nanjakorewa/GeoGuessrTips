@@ -603,6 +603,20 @@ div.notices.tip p a {
   color: var(--primary-color);
 }
 
+.notices.info p::before,
+.notices.warning p::before,
+.notices.denger p::before,
+.notices.note p::before {
+  content: none !important;
+  display: none !important;
+}
+
+.notices.note p::after,
+.notices.warning p::after {
+  content: none !important;
+  display: none !important;
+}
+
 div[title="繧上°繧翫ｄ縺吶＞逶ｮ蜊ｰ"] div.notices {
   margin: 3.0em 0 0 0 !important;
 }
