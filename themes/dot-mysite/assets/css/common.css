@@ -115,6 +115,10 @@ body.lightbox-open {
   outline-offset: 3px;
 }
 
+.lightbox-trigger {
+  cursor: zoom-in;
+}
+
 @media (max-width: 767.98px) {
   .image-lightbox {
     padding: 1.5rem;
