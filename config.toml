@@ -120,12 +120,6 @@ link = "contact"
 
 # navigation
 [[Languages.ja.menu.main]]
-name = "youtube"
-url = "https://www.youtube.com/@nanjakorewa"
-weight = 1
-iconname = ""
-
-[[Languages.ja.menu.main]]
 name = "SNSリンク"
 url = "https://nanjakorewa.github.io/MyPortfolio/"
 weight = 2

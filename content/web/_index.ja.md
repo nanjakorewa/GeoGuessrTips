@@ -3,6 +3,7 @@ title: "役立つページ"
 subtitle: "役立つページ"
 date: 2023-02-26
 description: "ウェブサイト・配信者"
+card_image: "text.jpg"
 type: "docs"
 weight: 2000
 ---
@@ -34,11 +35,3 @@ weight: 2000
 ### 配信者向けの注意点
 
 - [配信者&配信視聴者のためのGeoguessrチュートリアル 作:宮前たまき](https://docs.google.com/presentation/d/15DarIhxCCEuk-8w07q9SkL00ZRS4vgHOuBYu55hPavs/edit#slide=id.p) {{% snsl "twitch" "tamakimiyamae" %}} {{% snsl "twitter" "TamakiMiyamae" %}}
-
-
-### 自分のサイト
-
-- [旧ブログ](https://paper.hatenadiary.jp/)
-- [K_DM](https://www.youtube.com/@K_DM)
-- [料理ログ（仮）](https://nanjakorewa.github.io/geofood/)
-- [nanja.space](https://nanja.space/)

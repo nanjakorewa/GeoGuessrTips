@@ -2,16 +2,19 @@
 <footer class="section pb-4">
   <div class="container apply-bg">
     <div class="row align-items-center">
-      <div class="col-md-8 text-md-left text-center">
-       <p class="mb-md-0 mb-4">{{ .Site.Params.copyright | markdownify }}</p>
-      </div>
-      <div class="col-md-4 text-md-right text-center">
+      <div class="col-md-12 text-md-center text-center">
         <ul class="list-inline">
           {{ range .Site.Params.social }}
           <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="{{ .link | safeURL }}"><i class="{{ .icon }}"></i></a></li>
           {{ end }}
         </ul>
       </div>
+    </div>
+    <div class="text-center">
+      <p class="footer-meta__text mb-0">
+        <span class="footer-meta__brand">© 2021-2025 nanja.</span>
+        <a class="footer-meta__link" href="{{ "/about/" | relLangURL }}">プライバシーポリシー</a>
+      </p>
     </div>
   </div>
 </footer>

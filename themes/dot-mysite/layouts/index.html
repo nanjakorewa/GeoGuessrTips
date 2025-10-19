@@ -21,8 +21,23 @@
           <h2 class="section-title text-left" style="margin-bottom:1.5rem;">ジオゲッサー攻略</h2>
         </div>
         {{ range $ruleDocs }}
+        {{ $cardImage := default "" (default .Params.bg .Params.card_image) }}
+        {{ $cardImagePath := "" }}
+        {{ with $cardImage }}
+          {{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+            {{ $cardImagePath = . }}
+          {{ else }}
+            {{ $normalized := strings.TrimPrefix "/" . }}
+            {{ $cardRel := cond (hasPrefix $normalized "bg/") $normalized (printf "bg/%s" $normalized) }}
+            {{ $cardImagePath = printf "/%s" (strings.TrimPrefix "/" $cardRel) }}
+          {{ end }}
+        {{ end }}
+        {{ $cardClasses := "px-3 py-2 shadow d-block match-height apply-bg" }}
+        {{ if $cardImagePath }}
+          {{ $cardClasses = printf "%s card-with-image" $cardClasses }}
+        {{ end }}
         <div class="col-lg-4 col-sm-6 mb-3">
-          <a href="{{ .Permalink }}" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
+          <a href="{{ .Permalink }}" class="{{ $cardClasses }}" {{ if $cardImagePath }}style="--card-bg-image: url('{{ $cardImagePath }}');"{{ end }}>
             <h3 class="mb-3 mt-0">{{ if eq .Params.weight 1 }}<i class="fas fa-map-marker-alt" style="margin-right:0.2em; color:rgb(188, 57, 57);"></i>{{ end }}{{ .Title }}</h3>
             <p class="mb-0">{{ .Params.Description }}</p>
           </a>
@@ -37,8 +52,23 @@
           <h2 class="section-title text-left" style="margin-bottom:1.5rem;">その他</h2>
         </div>
         {{ range $otherDocs }}
+        {{ $cardImage := default "" (default .Params.bg .Params.card_image) }}
+        {{ $cardImagePath := "" }}
+        {{ with $cardImage }}
+          {{ if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+            {{ $cardImagePath = . }}
+          {{ else }}
+            {{ $normalized := strings.TrimPrefix "/" . }}
+            {{ $cardRel := cond (hasPrefix $normalized "bg/") $normalized (printf "bg/%s" $normalized) }}
+            {{ $cardImagePath = printf "/%s" (strings.TrimPrefix "/" $cardRel) }}
+          {{ end }}
+        {{ end }}
+        {{ $cardClasses := "px-3 py-2 shadow d-block match-height apply-bg" }}
+        {{ if $cardImagePath }}
+          {{ $cardClasses = printf "%s card-with-image" $cardClasses }}
+        {{ end }}
         <div class="col-lg-4 col-sm-6 mb-3">
-          <a href="{{ .Permalink }}" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
+          <a href="{{ .Permalink }}" class="{{ $cardClasses }}" {{ if $cardImagePath }}style="--card-bg-image: url('{{ $cardImagePath }}');"{{ end }}>
             <h3 class="mb-3 mt-0">{{ .Title }}</h3>
             <p class="mb-0">{{ .Params.Description }}</p>
           </a>
@@ -46,7 +76,7 @@
         {{ end }}
         {{ end }}
         <div class="col-lg-4 col-sm-6 mb-3">
-          <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 bg-white shadow d-block match-height apply-bg">
+          <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 shadow d-block match-height apply-bg card-with-image" style="--card-bg-image: url('/bg/default.jpg');">
             <h3 class="mb-3 mt-0">BOOTH</h3>
             <p class="mb-0">作ってみたグッズ</p>
           </a>

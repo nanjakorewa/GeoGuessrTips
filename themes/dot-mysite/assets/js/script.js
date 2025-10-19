@@ -86,6 +86,144 @@
     }
   });
 
+  // Image lightbox popup
+  var lightboxTemplate = [
+    '<div class="image-lightbox" aria-hidden="true" role="dialog">',
+    '  <div class="image-lightbox__backdrop" data-lightbox-close></div>',
+    '  <figure class="image-lightbox__content">',
+    '    <button type="button" class="image-lightbox__close" aria-label="閉じる" data-lightbox-close>',
+    '      <span aria-hidden="true">&times;</span>',
+    '    </button>',
+    '    <img class="image-lightbox__img" alt="">',
+    '    <figcaption class="image-lightbox__caption"></figcaption>',
+    '  </figure>',
+    '</div>'
+  ].join('');
+
+  var $lightbox = $('.image-lightbox');
+  if (!$lightbox.length) {
+    $lightbox = $(lightboxTemplate);
+    $('body').append($lightbox);
+  }
+
+  var $lightboxImage = $lightbox.find('.image-lightbox__img');
+  var $lightboxCaption = $lightbox.find('.image-lightbox__caption');
+  var $lightboxClose = $lightbox.find('.image-lightbox__close');
+  var lastFocusedElement = null;
+  var escKeyHandler = function (event) {
+    if (event.key === 'Escape' || event.key === 'Esc' || event.keyCode === 27) {
+      closeLightbox();
+    }
+  };
+
+  function openLightbox($img) {
+    if (!$img || !$img.length) {
+      return;
+    }
+    var src = $img.attr('data-lightbox-src') || $img.attr('data-src') || $img.attr('data-original') || $img.attr('src') || ($img[0] && $img[0].currentSrc);
+    if (!src) {
+      return;
+    }
+    var alt = $img.attr('alt') || '';
+    var caption = $img.data('caption') || $img.attr('title') || alt;
+
+    $lightboxImage.attr('src', src);
+    $lightboxImage.attr('alt', alt);
+
+    if (caption) {
+      $lightboxCaption.text(caption).show();
+      $lightbox.addClass('has-caption');
+    } else {
+      $lightboxCaption.text('').hide();
+      $lightbox.removeClass('has-caption');
+    }
+
+    lastFocusedElement = document.activeElement;
+    $lightbox.attr('aria-hidden', 'false').addClass('is-visible');
+    $('body').addClass('lightbox-open');
+    $lightboxClose.trigger('focus');
+    $(document).on('keydown.imageLightbox', escKeyHandler);
+  }
+
+  function closeLightbox() {
+    if (!$lightbox.hasClass('is-visible')) {
+      return;
+    }
+    $lightbox.attr('aria-hidden', 'true').removeClass('is-visible');
+    $('body').removeClass('lightbox-open');
+    $(document).off('keydown.imageLightbox', escKeyHandler);
+    window.setTimeout(function () {
+      $lightboxImage.attr('src', '');
+      if (lastFocusedElement && typeof lastFocusedElement.focus === 'function') {
+        lastFocusedElement.focus();
+      }
+      lastFocusedElement = null;
+    }, 50);
+  }
+
+  $lightbox.on('click', '[data-lightbox-close]', function (event) {
+    event.preventDefault();
+    closeLightbox();
+  });
+
+  $lightbox.on('click', function (event) {
+    if ($(event.target).is('.image-lightbox')) {
+      closeLightbox();
+    }
+  });
+
+  function isLightboxEligible($img) {
+    if (!$img || !$img.length) {
+      return false;
+    }
+    if ($img.closest('.flag-list').length) {
+      return false;
+    }
+    return true;
+  }
+
+  function bindLightbox($imgs) {
+    if (!$imgs || !$imgs.length) {
+      return;
+    }
+    $imgs.each(function () {
+      var $img = $(this);
+      if (!isLightboxEligible($img)) {
+        return;
+      }
+      if ($img.data('lightbox-ready')) {
+        return;
+      }
+      $img.data('lightbox-ready', true);
+      var $trigger = $img.parent('a').length ? $img.parent('a') : $img;
+      $trigger.addClass('lightbox-trigger');
+      $trigger.on('click', function (event) {
+        if (event.metaKey || event.ctrlKey || event.shiftKey || event.altKey || event.which > 1) {
+          return;
+        }
+        event.preventDefault();
+        openLightbox($img);
+      });
+    });
+  }
+
+  var $lightboxTargets = $('.article-surface img, .content img, .main-desciption img, .googlemap-if img')
+    .not('.inline, .no-lightbox, [data-no-lightbox]')
+    .filter(function () {
+      return isLightboxEligible($(this));
+    });
+  bindLightbox($lightboxTargets);
+
+  // Allow opting out dynamically
+  $(document).on('lightbox:refresh', function () {
+    var refreshedTargets = $('.article-surface img, .content img, .main-desciption img, .googlemap-if img')
+      .not('.inline, .no-lightbox, [data-no-lightbox]')
+      .filter(function () {
+        return isLightboxEligible($(this));
+      });
+    bindLightbox(refreshedTargets);
+  });
+
 
   // tab
   $('.tab-content').find('.tab-pane').each(function (idx, item) {
