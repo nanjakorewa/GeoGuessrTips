@@ -6,8 +6,20 @@ description: "連絡先・プライバシーポリシー"
 weight: 2001
 ---
 
+<br />
+<br />
+
+<h3 class="no-blur">お問い合わせ</h3>
+
+nanjakorewa0★★★gmail.com （★★★を@に変換してください）・ <a href="https://twitter.com/nanjakorewa">XのDM</a> ・ [githubのissues](https://github.com/nanjakorewa/GeoGuessrTips/issues) のいずれかにお願いします。
+配信などでこのサイトのコンテンツ等の利用や言及をするのは自由にしていただいて大丈夫です（むしろ歓迎します）。
+
+
+<br />
+
+<h3 class="no-blur">概要</h3>
+
 ジオゲッサーを2023年の2月くらいからはじめました。
-配信などでこのサイトのコンテンツ等の利用や言及は自由にしていただいて大丈夫です（むしろ歓迎します）。
 
 このページではプレイ中に気になった物や面白そうな物の場所をスクショ替わりに保存してます。
 間違っている点やコメントあればコメント欄かgithubのissueにて指摘していただけると幸いです。
@@ -24,7 +36,7 @@ weight: 2001
 表示される地図は表示の都合上で離島や詳細な地域が描かれていない場合があります。ストリートビューで訪れていない場所は地図に描かれていない場合があります。そのため実際の形状とは異なる場合がある点ご了承ください。
 また、あくまで自分用のめもなのでジオゲッサー関係ないこともめもするかもしれません。
 
-<h2 class="no-blur">背景画像・使用ツール</h2>
+<h3 class="no-blur">背景画像・使用ツール</h3>
 
 <div class="googlemap-if unclickable">
 <img src="./2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" >
@@ -35,17 +47,17 @@ weight: 2001
 
 <br />
 
-<h2 class="no-blur">プライバシーポリシー・免責事項</h2>
+<h3 class="no-blur">プライバシーポリシー・免責事項</h3>
 
 <br />
 
 
-<h3 class="no-blur">免責事項</h3>
+<h4 class="no-blur">免責事項</h4>
 
 利用者が当Webサイトの情報を用いて行う一切の行為に関して、一切の責任を負わないものとします。
 また、利用者が当Webサイトを利用したことにより生じた利用者の損害及び利用者が第三者に与えた損害に関して、一切の責任を負わないものとします。
 
-<h3 class="no-blur">Googleアナリティクス等について</h3>
+<h4 class="no-blur">Googleアナリティクス等について</h4>
 
 Googleを含む広告配信事業者は、Cookie を使用して、ユーザーがそのウェブサイトや他のウェブサイトに過去にアクセスした際の情報に基づいて広告を配信しています。
 この目的は、ユーザーがそのサイトや他のサイトにアクセスした際の情報に基づいて、Google やそのパートナーが適切な広告をユーザーに表示するためです。
@@ -55,8 +67,4 @@ Googleを含む広告配信事業者は、Cookie を使用して、ユーザー�
 当サイトは、Amazonのアソシエイトとして、適格販売により収入を得ています。  
 掲載されている商品リンクにはアフィリエイトリンクが含まれており、購入により当サイトに報酬が発生することがあります。  
 ユーザーの皆様には追加の費用は発生しません。
-
-<h3 class="no-blur">お問い合わせ</h3>
-
-<a href="https://ssl.form-mailer.jp/fms/167b8369777173">こちら</a> or <a href="https://twitter.com/nanjakorewa">twitter</a> or [githubのissues](https://github.com/nanjakorewa/GeoGuessrTips/issues) にお願いします。
 

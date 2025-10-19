@@ -72,6 +72,23 @@ default_keywords = ["GeoGuessr", "ジオゲッサー", "地理クイズ", "世�
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
 
+[params.recent_update]
+label = "最近の更新"
+
+[[params.recent_update.items]]
+title = "ネパールの攻略メモを大幅に追記"
+link = "https://geopinning.space/rule/asia/nepal/"
+date = "2025-08-14"
+
+[[params.recent_update.items]]
+title = "ベトナムのページに道路写真の例を追加"
+link = "https://geopinning.space/rule/asia/vietnum/"
+date = "2025-06-28"
+
+[params.milestone_access_message]
+title = "サイト累計50万アクセスを突破しました"
+description = "いつもご覧いただきありがとうございます。"
+
 [params.home_title]
 ja = "GeoGuessrの攻略めも"
 en = "My GeoGuessr Tips"

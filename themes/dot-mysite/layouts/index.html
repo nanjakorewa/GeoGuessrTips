@@ -86,14 +86,15 @@
   </section>
   {{ "<!-- /topics -->" | safeHTML }}
 
-    {{ if eq .Page.Lang "ja"}}
+    {{ "<!-- updates + milestone -->" | safeHTML }}
+    {{ if eq .Page.Lang "ja" }}
       {{ $updates := .Site.Params.recent_update }}
       {{ $milestone := .Site.Params.milestone_access_message }}
       {{ if or $updates $milestone }}
-      <section>
+      <section class="section section-updates pt-0 pb-5" aria-labelledby="updates-milestone-heading">
         <div class="container">
           <div class="row justify-content-center">
-            <div class="col-12">
+            <div class="col-xl-9 col-lg-10">
               <div class="update-milestone-card">
                 {{ with $updates }}
                 {{ $items := .items }}
@@ -138,5 +139,5 @@
       </section>
       {{ end }}
     {{ end }}
+    {{ "<!-- /updates + milestone -->" | safeHTML }}
 {{ end }}
-

@@ -2436,5 +2436,6 @@ table.compare-table tr td {
   color: rgba(255, 255, 255, 0.85);
 }
 
-
-
+section.section-updates {
+  padding-bottom: 0 !important;
+}
