@@ -676,7 +676,18 @@ div.noshow-area {
 }
 
 div.top-flagarea {
-  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: auto;
+  min-height: 0;
+  padding: 0.5rem 0;
+}
+
+div.top-flagarea img {
+  width: min(100%, 680px);
+  height: auto !important;
+  max-height: 500px;
 }
 
 div.main-information {
