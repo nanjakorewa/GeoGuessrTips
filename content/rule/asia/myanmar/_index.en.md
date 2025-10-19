@@ -30,7 +30,7 @@ Taxis and commercial vehicles carry red license plates, while private cars use b
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./yangon_edificio_colonial_hoy.jpg" width="95%">
+<img src="/rule/asia/myanmar/yangon_edificio_colonial_hoy.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ Traditional cosmetics and clothing stand out—look for thanaka face paint and l
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="myanmar_inle_lake_asia.jpg" width="500px"><img src="monks_myanmar_children_child.jpg" width="400px">
+<img src="/rule/asia/myanmar/myanmar_inle_lake_asia.jpg" width="500px"><img src="/rule/asia/myanmar/monks_myanmar_children_child.jpg" width="400px">
 </div>
 
 {{% notice tip %}}

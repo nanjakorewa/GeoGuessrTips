@@ -27,7 +27,7 @@ Perhatikan papan dengan dua titik oranye; tanda ini kerap muncul di seluruh pref
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="otaki_tunnel_nio.jpg">
+<img src="/rule/asia/japan/shikoku/kagawa/otaki_tunnel_nio.jpg">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ Pelat tiang milik Shikoku Electric Power mudah ditemukan. Saat sistem tenaga sur
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-shikoku.png" width="420px">
+<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px">
 </div>
 
 {{% /tab %}}

@@ -33,8 +33,8 @@ Rambu nomor jalan memiliki desain khas dan menampilkan lambang nasional Arab Sau
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./r/route_5_ksa_png.jpg" width="200px" style="margin:10px">
-<img src="./r/Saudi_Arabia_-_City_road-356.svg" width="180px" style="margin:10px">
+<img src="/rule/middle_east/saudiarabia/r/route_5_ksa_png.jpg" width="200px" style="margin:10px">
+<img src="/rule/middle_east/saudiarabia/r/Saudi_Arabia_-_City_road-356.svg" width="180px" style="margin:10px">
 </div>
 
 {{% /tab %}}

@@ -32,7 +32,7 @@ Sekishū tiles are clay tiles produced in the Iwami area of Shimane Prefecture. 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arakaya_station_zenkei.jpg" width="90%">
+<img src="/rule/asia/japan/chugoku/arakaya_station_zenkei.jpg" width="90%">
 </div>
 
 <div class="googlemap-if">

@@ -27,11 +27,11 @@ is_unofficial: true
 Las matr√≠culas negras son habituales{{% ex "https://maps.app.goo.gl/P3qkSggsoQkYfdEZ9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="laluni_st_panorama.jpg" width="95%">
+<img src="/rule/cs_america/guyana/laluni_st_panorama.jpg" width="95%">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="CAR_GUYANA_LICENSE_PLATE-_PCC.png" width="250px">
+<img src="/rule/cs_america/guyana/CAR_GUYANA_LICENSE_PLATE-_PCC.png" width="250px">
 </div>
 
 {{% notice tip %}}
@@ -39,7 +39,7 @@ El cultivo principal es el arroz; los arrozales se extienden por el este del pa√
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="tractor_in_field_rice.jpg" width="90%">
+<img src="/rule/cs_america/guyana/tractor_in_field_rice.jpg" width="90%">
 </div>
 
 {{% notice tip %}}

@@ -29,7 +29,7 @@ South Sudan’s GDP per capita ranks among the lowest in the world as of 2024, a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./1083px-Juba_sudan.jpg" width="90%">
+<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%">
 </div>
 
 {{% notice tip %}}

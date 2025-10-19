@@ -32,7 +32,7 @@ Las tejas Sekishū son tejas de arcilla fabricadas en la zona de Iwami, prefectu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arakaya_station_zenkei.jpg" width="90%">
+<img src="/rule/asia/japan/chugoku/arakaya_station_zenkei.jpg" width="90%">
 </div>
 
 <div class="googlemap-if">

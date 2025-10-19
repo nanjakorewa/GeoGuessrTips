@@ -27,7 +27,7 @@ Watch for signage depicting two orange dots; it commonly appears around the pref
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="otaki_tunnel_nio.jpg">
+<img src="/rule/asia/japan/shikoku/kagawa/otaki_tunnel_nio.jpg">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ Utility pole plates from Shikoku Electric Power are frequent. When private solar
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-shikoku.png" width="420px">
+<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px">
 </div>
 
 {{% /tab %}}

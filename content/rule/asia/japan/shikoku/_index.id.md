@@ -25,7 +25,7 @@ Pelat tiang milik Shikoku Electric Power sering menjadi petunjuk. Saat sistem te
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-shikoku.png" width="420px">
+<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px">
 </div>
 
 {{% /tab %}}

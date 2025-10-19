@@ -29,7 +29,7 @@ PDB per kapita Sudan Selatan termasuk yang terendah di dunia (2024) dan infrastr
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./1083px-Juba_sudan.jpg" width="90%">
+<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%">
 </div>
 
 {{% notice tip %}}

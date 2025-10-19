@@ -30,7 +30,7 @@ Los taxis y vehículos comerciales llevan matrículas rojas, mientras que los co
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./yangon_edificio_colonial_hoy.jpg" width="95%">
+<img src="/rule/asia/myanmar/yangon_edificio_colonial_hoy.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ Son característicos el maquillaje de tanaka y la ropa tradicional{{% ref "https
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="myanmar_inle_lake_asia.jpg" width="500px"><img src="monks_myanmar_children_child.jpg" width="400px">
+<img src="/rule/asia/myanmar/myanmar_inle_lake_asia.jpg" width="500px"><img src="/rule/asia/myanmar/monks_myanmar_children_child.jpg" width="400px">
 </div>
 
 {{% notice tip %}}

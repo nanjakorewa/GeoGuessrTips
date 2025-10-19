@@ -29,7 +29,7 @@ El PIB per cápita de Sudán del Sur se encuentra entre los más bajos del mundo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./1083px-Juba_sudan.jpg" width="90%">
+<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%">
 </div>
 
 {{% notice tip %}}

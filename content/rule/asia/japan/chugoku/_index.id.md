@@ -32,7 +32,7 @@ Genteng Sekishū diproduksi di wilayah Iwami, Prefektur Shimane. Genteng tanah l
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arakaya_station_zenkei.jpg" width="90%">
+<img src="/rule/asia/japan/chugoku/arakaya_station_zenkei.jpg" width="90%">
 </div>
 
 <div class="googlemap-if">
