@@ -1,0 +1,119 @@
+{{- $page := .Page -}}
+{{- $seo := .SEO -}}
+{{- $site := $page.Site -}}
+{{- $siteParams := $site.Params -}}
+
+{{- $socialScratch := newScratch -}}
+{{- $socialScratch.Set "sameAs" (slice) -}}
+{{- range $siteParams.social }}
+  {{- with .link }}
+    {{- $socialScratch.Add "sameAs" (slice .) -}}
+  {{- end }}
+{{- end }}
+{{- $sameAs := $socialScratch.Get "sameAs" -}}
+
+{{- $org := $siteParams.organization -}}
+{{- $orgName := default $site.Title (index $org "name") -}}
+{{- $orgUrl := default $site.BaseURL (index $org "url") -}}
+{{- $orgLogo := index $org "logo" -}}
+{{- $orgScratch := newScratch -}}
+{{- $orgScratch.Set "data" (dict "@context" "https://schema.org" "@type" "Organization" "name" $orgName "url" $orgUrl) -}}
+{{- if $orgLogo }}
+  {{- $orgScratch.Set "data" (merge ($orgScratch.Get "data") (dict "logo" (dict "@type" "ImageObject" "url" (absURL $orgLogo)))) -}}
+{{- end }}
+{{- if $sameAs }}
+  {{- $orgScratch.Set "data" (merge ($orgScratch.Get "data") (dict "sameAs" $sameAs)) -}}
+{{- end }}
+<script type="application/ld+json">{{ jsonify ($orgScratch.Get "data") | safeHTML }}</script>
+
+{{- $languageCode := default "en-US" (or $page.Language.LanguageCode $site.LanguageCode) -}}
+{{- $baseUrl := $site.BaseURL | default $page.Permalink -}}
+{{- $websiteScratch := newScratch -}}
+{{- $websiteScratch.Set "data" (dict
+    "@context" "https://schema.org"
+    "@type" "WebSite"
+    "name" $site.Title
+    "url" $baseUrl
+    "inLanguage" $languageCode
+  ) -}}
+{{- with $seo.description }}
+  {{- $websiteScratch.Set "data" (merge ($websiteScratch.Get "data") (dict "description" .)) -}}
+{{- end }}
+{{- if $sameAs }}
+  {{- $websiteScratch.Set "data" (merge ($websiteScratch.Get "data") (dict "sameAs" $sameAs)) -}}
+{{- end }}
+{{- if $siteParams.search.enable }}
+  {{- $baseTrimmed := replaceRE "/+$" "" $baseUrl -}}
+  {{- $searchTarget := printf "%s/search/?q={search_term_string}" $baseTrimmed -}}
+  {{- $websiteScratch.Set "data" (merge ($websiteScratch.Get "data") (dict "potentialAction" (dict "@type" "SearchAction" "target" $searchTarget "query-input" "required name=search_term_string"))) -}}
+{{- end }}
+<script type="application/ld+json">{{ jsonify ($websiteScratch.Get "data") | safeHTML }}</script>
+
+{{- $pageType := cond (eq ($seo.type) "article") "Article" "WebPage" -}}
+{{- $pageScratch := newScratch -}}
+{{- $pageScratch.Set "data" (dict
+    "@context" "https://schema.org"
+    "@type" $pageType
+    "name" ($seo.title)
+    "headline" ($seo.title)
+    "description" ($seo.description)
+    "url" ($seo.canonical | default $page.Permalink)
+    "inLanguage" $languageCode
+    "mainEntityOfPage" ($seo.canonical | default $page.Permalink)
+    "isPartOf" (dict "@type" "WebSite" "name" $site.Title "url" $baseUrl)
+  ) -}}
+{{- with $seo.image }}
+  {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "image" (slice .))) -}}
+{{- end }}
+{{- with $seo.author }}
+  {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "author" (dict "@type" "Person" "name" .))) -}}
+{{- else }}
+  {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "author" (dict "@type" "Organization" "name" $orgName "url" $orgUrl))) -}}
+{{- end }}
+{{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "publisher" (dict "@type" "Organization" "name" $orgName "url" $orgUrl))) -}}
+{{- with $seo.keywords }}
+  {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "keywords" .)) -}}
+{{- end }}
+{{- if eq $pageType "Article" }}
+  {{- with $seo.published }}
+    {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "datePublished" (.Format "2006-01-02T15:04:05Z07:00"))) -}}
+  {{- end }}
+  {{- with $seo.modified }}
+    {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00"))) -}}
+  {{- else }}
+    {{- with $page.Lastmod }}
+      {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "dateModified" (.Format "2006-01-02T15:04:05Z07:00"))) -}}
+    {{- end }}
+  {{- end }}
+  {{- with $page.Section }}
+    {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "articleSection" .)) -}}
+  {{- end }}
+  {{- with $page.Params.tags }}
+    {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "about" .)) -}}
+  {{- end }}
+  {{- if gt $page.WordCount 0 }}
+    {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "wordCount" $page.WordCount)) -}}
+  {{- end }}
+{{- end }}
+<script type="application/ld+json">{{ jsonify ($pageScratch.Get "data") | safeHTML }}</script>
+
+{{- $crumbScratch := newScratch -}}
+{{- $crumbScratch.Set "nodes" (slice) -}}
+{{- range $page.Ancestors.Reverse }}
+  {{- $crumbScratch.Add "nodes" (slice .) -}}
+{{- end }}
+{{- $crumbScratch.Add "nodes" (slice $page) -}}
+{{- $crumbNodes := $crumbScratch.Get "nodes" -}}
+{{- if gt (len $crumbNodes) 1 }}
+  {{- $itemsScratch := newScratch -}}
+  {{- $itemsScratch.Set "items" (slice) -}}
+  {{- range $index, $crumb := $crumbNodes }}
+    {{- $name := default $crumb.LinkTitle $crumb.Title -}}
+    {{- $item := dict "@type" "ListItem" "position" (add $index 1) "name" $name "item" $crumb.Permalink -}}
+    {{- $itemsScratch.Add "items" (slice $item) -}}
+  {{- end }}
+  {{- $items := $itemsScratch.Get "items" -}}
+  {{- if gt (len $items) 1 }}
+    <script type="application/ld+json">{{ jsonify (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items) | safeHTML }}</script>
+  {{- end }}
+{{- end }}

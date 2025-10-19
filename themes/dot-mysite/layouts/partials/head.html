@@ -1,159 +1,284 @@
 <head>
   <meta charset="utf-8">
-  <link rel="icon" href="favicon.ico">
-  {{ if eq .Title site.Title }}
-    <!-- メインタイトル -->
-    {{ if eq .Page.Lang "ja" }}
-    <title>{{ .Title }}</title>
-    {{ else if eq .Page.Lang "id"}}
-    <title>Kiat Geogesser Saya</title>
-    {{ else }}
-    <title>My Geogesser Tips</title>
-    {{ end }}
-    <!-- /メインタイトル -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:title" content="{{ .Title }}">
-    <meta property="og:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
-    <meta name="twitter:title" content="{{ .Title }}">
-    <meta name="twitter:description" content="GeoGuessr（ジオゲッサー）で下りた地点付近にあったものや攻略ヒントをブクマしてみるページ（ほぼ日記）です。">
-  {{ else if .Params.subtitle }}
-  <!-- サブタイトル指定 -->
-  <title>{{ .Params.subtitle }}</title>
-  <!-- /サブタイトル指定 -->
-  {{ else if .Params.flag }}
-    <!-- 国ごと -->
-    {{ if eq .Page.Lang "ja" }}
-    <title>ジオゲッサーで{{ .Params.title }}を見分けるには？</title>
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:title" content="ジオゲッサーで{{ .Params.title }}を見分けるには？ - GeoGuessrの攻略めも">
-    <meta property="og:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をめもしているページです。">
-    <meta name="twitter:title" content="ジオゲッサーで{{ .Params.title }}を見分けるには？ - GeoGuessrの攻略めも">
-    <meta name="twitter:description" content="{{ .Params.title }}を見分けるためのヒントや地域ごとの違いについて気づいた点をめもしているページです。">
-    {{ else if eq .Page.Lang "id"}}
-    <title>Cara Membedakan {{ .Params.title }} di GeoGuessr</title>
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:title" content="Cara Membedakan {{ .Params.title }} di GeoGuessr - Catatan GeoGuessr">
-    <meta property="og:description" content="Halaman ini mencatat tips dan pengamatan tentang perbedaan antar wilayah untuk membantu membedakan {{ .Params.title }}.">
-    <meta name="twitter:title" content="Cara Membedakan {{ .Params.title }} di GeoGuessr - Catatan GeoGuessr">
-    <meta name="twitter:description" content="Halaman ini mencatat tips dan pengamatan tentang perbedaan antar wilayah untuk membantu membedakan {{ .Params.title }}.">
-    {{ else if eq .Page.Lang "es"}}
-    <title>¿Cómo identificar {{ .Params.title }} en GeoGuessr?</title>
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:title" content="¿Cómo identificar {{ .Params.title }} en GeoGuessr? - Notas de GeoGuessr">
-    <meta property="og:description" content="Esta es una página con notas sobre consejos y diferencias regionales para identificar {{ .Params.title }}.">
-    <meta name="twitter:title" content="¿Cómo identificar {{ .Params.title }} en GeoGuessr? - Notas de GeoGuessr">
-    <meta name="twitter:description" content="Esta es una página con notas sobre consejos y diferencias regionales para identificar {{ .Params.title }}.">
-    {{ else }}
-    <title>How to Identify {{ .Params.title }} in GeoGuessr?</title>
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="og:title" content="How to Identify {{ .Params.title }} in GeoGuessr? - GeoGuessr Notes">
-    <meta property="og:description" content="This page contains notes on tips and regional differences to help identify {{ .Params.title }}.">
-    <meta name="twitter:title" content="How to Identify {{ .Params.title }} in GeoGuessr? - GeoGuessr Notes">
-    <meta name="twitter:description" content="This page contains notes on tips and regional differences to help identify {{ .Params.title }}.">
-    {{ end }}
-    <!-- /国ごと -->
-  {{ else }}
-    <!-- その他 -->
-    {{ if eq .Page.Lang "ja" }}
-    <title>{{ .Title }}{{ .Params.title_suffix }} - geoguessrの攻略めも</title>
-    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーの攻略めも">
-    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - ジオゲッサーの攻略めも">
-    {{ else if eq .Page.Lang "id"}}
-    <title>{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.</title>
-    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.">
-    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} -  Catatan strategi GEOGUESSR.">
-    {{ else if eq .Page.Lang "es"}}
-    <title>{{ .Title }}{{ .Params.title_suffix }} - notas para conquistar Geoguessr</title>
-    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - notas sobre Geoguessr">
-    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - notas sobre Geoguessr">
-    {{ else }}
-    <title>About {{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips</title>
-    <meta property="og:title" content="{{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips">
-    <meta name="twitter:title" content="{{ .Title }}{{ .Params.title_suffix }} - My Geogesser Tips">
-    {{ end }}
-    <!-- /その他 -->
-  {{ end }}
-
-  {{ if eq .Page.Lang "ja" }}
-    {{ if (.Params.flag) }}
-    <meta name="description" content="{{ .Title }}の判定方法や標識・固有の企業など地域ごとの特徴についてめもしたページです。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをめもするページです。">
-    {{ else if (.Params.description)}}
-    <meta property="og:description" content="{{ .Params.description }}">
-    <meta name="twitter:description" content="{{ .Params.description }}">
-    <meta name="description" content="{{ .Params.description }}。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをめもするページです。">
-    {{ else if (.IsHome)}}
-    <meta name="description" content="勉強を兼ねてGeoGuessrの国ごとのヒントや攻略Tipsをめもしているページです。">
-    {{ else }}
-    <meta name="description" content="{{ .Title }}についてめもしたページ。このページはブラウザゲーム「GeoGuessr（ジオゲッサー）」をプレイした際に見つけたものや攻略のヒントをめもするページです。">
-    {{ end }}
-  {{ else if eq .Page.Lang "id"}}
-    {{ if (.Params.flag) }}
-    <meta name="description" content="Halaman ini mencatat bagaimana {{.Title }} ditentukan, tanda-tanda, perusahaan unik dan karakteristik lain dari setiap wilayah. Halaman ini untuk mencatat apa yang Anda temukan saat memainkan permainan browser GeoGuessr dan kiat-kiat strategi.
-">
-    {{ else if (.Params.description)}}
-    <meta property="og:description" content="{{ .Params.description }}">
-    <meta name="twitter:description" content="{{ .Params.description }}">
-    <meta name="description" content="{{ .Params.description }} Halaman ini untuk mencatat apa yang Anda temukan ketika bermain game browser GeoGuessr dan kiat-kiat strategi.">
-    {{ else if (.IsHome)}}
-    <meta name="description" content="Ini adalah halaman di mana kiat-kiat dan kiat-kiat strategi khusus negara GeoGuessr dicatat untuk tujuan belajar.">
-    {{ else }}
-    <meta name="description" content="Halaman dengan catatan tentang {{ .Title }}. Halaman ini untuk mencatat apa yang Anda temukan ketika bermain game browser GeoGuessr dan kiat-kiat strategi.">
-    {{ end }}
-  {{ else if eq .Page.Lang "es"}}
-    {{ if (.Params.flag) }}
-    <meta name="description" content="Esta es una página con notas sobre cómo identificar regiones, señales y empresas específicas características de cada área relacionadas con {{ .Title }}. Esta página recopila pistas y consejos encontrados mientras se jugaba al juego de navegador 'GeoGuessr'.">
-    {{ else if (.Params.description)}}
-    <meta property="og:description" content="{{ .Params.description }}">
-    <meta name="twitter:description" content="{{ .Params.description }}">
-    <meta name="description" content="{{ .Params.description }}. Esta página recopila pistas y consejos encontrados mientras se jugaba al juego de navegador 'GeoGuessr'.">
-    {{ else if (.IsHome)}}
-    <meta name="description" content="Página de notas sobre consejos y pistas para jugar a GeoGuessr, organizados por país como parte de un estudio y aprendizaje.">
-    {{ else }}
-    <meta name="description" content="Página de notas sobre {{ .Title }}. Esta página recopila pistas y consejos encontrados mientras se jugaba al juego de navegador 'GeoGuessr'.">
-    {{ end }}
-  {{ else }}
-    {{ if (.Params.flag) }}
-    <meta name="description" content="This page notes how to determine {{ .Title }}, signs, unique businesses, and other characteristics of each region. This page is a page to note what I found when I played the browser game “GeoGuessr” and hints for strategy.">
-    {{ else if (.Params.description)}}
-    <meta property="og:description" content="{{ .Params.description }}">
-    <meta name="twitter:description" content="{{ .Params.description }}">
-    <meta name="description" content="{{ .Params.description }} This page is a page to note what I found when I played the browser game “GeoGuessr” and hints for strategy.">
-    {{ else if (.IsHome)}}
-    <meta name="description" content="This is a page where I note down tips and strategy tips for each country in GeoGuessr for study purposes.">
-    {{ else }}
-    <meta name="description" content="A page with notes about {{ .Title }}. This page is a page to note what I found when I played the browser game GeoGuessr and some strategy tips.">
-    {{ end }}
-  {{ end }}
-
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="referrer" content="strict-origin-when-cross-origin">
+  {{- $site := .Site -}}
+  {{- $page := . -}}
+  {{- $lang := .Lang | default $site.Language.Lang -}}
+  {{- $siteParams := $site.Params -}}
+  {{- $seo := newScratch -}}
+  {{- $seo.Set "type" (cond (and $page.IsPage (not $page.IsHome)) "article" "website") -}}
+  {{- $seo.Set "title" "" -}}
+  {{- $seo.Set "description" "" -}}
+  {{- $seo.Set "image" "" -}}
+  {{- $seo.Set "imageAlt" "" -}}
+  {{- $seo.Set "canonical" $page.Permalink -}}
+  {{- $seo.Set "robots" "" -}}
+  {{- $seo.Set "twitterCard" "" -}}
+  {{- with $page.Params.robots }}
+    {{- $seo.Set "robots" . -}}
+  {{- end }}
+  {{- if not ($seo.Get "robots") }}
+    {{- if or $page.Params.noindex $siteParams.noindex }}
+      {{- $seo.Set "robots" "noindex, nofollow" -}}
+    {{- else }}
+      {{- $seo.Set "robots" "index, follow" -}}
+    {{- end }}
+  {{- end }}
+  {{- with $page.Params.canonical }}
+    {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+      {{- $seo.Set "canonical" . -}}
+    {{- else }}
+      {{- $seo.Set "canonical" (absURL .) -}}
+    {{- end }}
+  {{- end }}
+  {{- $pageTitle := printf "%s%s" ($page.Title | default $site.Title) (default "" $page.Params.title_suffix) -}}
+  {{- $cleanPageTitle := trim $pageTitle " " -}}
+  {{- with $page.Params.image_alt }}
+    {{- $seo.Set "imageAlt" (plainify .) -}}
+  {{- end }}
+  {{- if not ($seo.Get "imageAlt") }}
+    {{- $seo.Set "imageAlt" (cond (ne $cleanPageTitle "") $cleanPageTitle $site.Title) -}}
+  {{- end }}
+  {{- with $page.Params.seo_title }}
+    {{- $seo.Set "title" (plainify .) -}}
+  {{- end }}
+  {{- if and (not ($seo.Get "title")) $page.Params.flag }}
+    {{- with $siteParams.flag_title_templates }}
+      {{- if isset . $lang }}
+        {{- $seo.Set "title" (printf (index . $lang) ($page.Params.title | default $cleanPageTitle)) -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if and (not ($seo.Get "title")) $page.IsHome }}
+    {{- with $siteParams.home_title }}
+      {{- if isset . $lang }}
+        {{- $seo.Set "title" (index . $lang) -}}
+      {{- else if isset . "default" }}
+        {{- $seo.Set "title" (index . "default") -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if and (not ($seo.Get "title")) $page.Params.subtitle }}
+    {{- $seo.Set "title" (plainify $page.Params.subtitle) -}}
+  {{- end }}
+  {{- if not ($seo.Get "title") }}
+    {{- if and (not $page.IsHome) (ne $cleanPageTitle "") (ne $cleanPageTitle $site.Title) }}
+      {{- $seo.Set "title" (printf "%s | %s" $cleanPageTitle $site.Title) -}}
+    {{- else }}
+      {{- $seo.Set "title" (cond (ne $cleanPageTitle "") $cleanPageTitle $site.Title) -}}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "title") }}
+    {{- $seo.Set "title" $site.Title -}}
+  {{- end }}
+  {{- if not ($seo.Get "description") }}
+    {{- with $page.Params.seo_description }}{{ $seo.Set "description" . }}{{ end }}
+  {{- end }}
+  {{- if not ($seo.Get "description") }}
+    {{- with $page.Params.description }}{{ $seo.Set "description" . }}{{ end }}
+  {{- end }}
+  {{- if not ($seo.Get "description") }}
+    {{- with $page.Description }}{{ $seo.Set "description" . }}{{ end }}
+  {{- end }}
+  {{- if not ($seo.Get "description") }}
+    {{- with $page.Summary }}{{ $seo.Set "description" . }}{{ end }}
+  {{- end }}
+  {{- if and (not ($seo.Get "description")) $page.Params.flag }}
+    {{- with $siteParams.flag_description_templates }}
+      {{- if isset . $lang }}
+        {{- $seo.Set "description" (printf (index . $lang) ($page.Params.title | default $cleanPageTitle)) -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "description") }}
+    {{- with $siteParams.default_description }}
+      {{- if isset . $lang }}
+        {{- $seo.Set "description" (index . $lang) -}}
+      {{- else if isset . "default" }}
+        {{- $seo.Set "description" (index . "default") -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "description") }}
+    {{- $seo.Set "description" $site.Title -}}
+  {{- end }}
+  {{- $processedDesc := ($seo.Get "description") | htmlUnescape | plainify | replaceRE "\\s+" " " | trim " " | truncate 180 -}}
+  {{- $seo.Set "description" $processedDesc -}}
+  {{- if $page.Params.sumnail_mk }}
+    {{- $seo.Set "image" (absURL "sns/OP-MKnora.jpg") -}}
+  {{- end }}
+  {{- if not ($seo.Get "image") }}
+    {{- with $page.Params.og_image }}
+      {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+        {{- $seo.Set "image" . -}}
+      {{- else }}
+        {{- $seo.Set "image" (absURL .) -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "image") }}
+    {{- with $page.Params.social_image }}
+      {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+        {{- $seo.Set "image" . -}}
+      {{- else }}
+        {{- $seo.Set "image" (absURL .) -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "image") }}
+    {{- with $page.Params.card_image }}
+      {{- if or (hasPrefix . "http://") (hasPrefix . "https://") }}
+        {{- $seo.Set "image" . -}}
+      {{- else }}
+        {{- $normalized := replaceRE "^/" "" . -}}
+        {{- $path := cond (hasPrefix $normalized "bg/") $normalized (printf "bg/%s" $normalized) -}}
+        {{- $seo.Set "image" (absURL $path) -}}
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "image") }}
+    {{- with $page.Params.flag }}
+      {{- $flagPath := replace (printf "flags/%s" .) ".svg" ".png" -}}
+      {{- $seo.Set "image" (absURL $flagPath) -}}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "image") }}
+    {{- with $siteParams.default_og_image }}
+      {{- $seo.Set "image" (absURL .) -}}
+    {{- end }}
+  {{- end }}
+  {{- if not ($seo.Get "image") }}
+    {{- $seo.Set "image" (absURL "images/icon-512x512.png") -}}
+  {{- end }}
+  {{- if ($seo.Get "title") }}
+    {{- $seo.Set "imageAlt" (cond (ne ($seo.Get "imageAlt") "") ($seo.Get "imageAlt") ($seo.Get "title")) -}}
+  {{- end }}
+  {{- $seo.Set "twitterCard" (cond (ne ($seo.Get "image") "") "summary_large_image" "summary") -}}
+  {{- $authorScratch := newScratch -}}
+  {{- with $page.Params.author }}{{ $authorScratch.Set "name" (plainify .) }}{{ end }}
+  {{- if and (not ($authorScratch.Get "name")) $page.Params.authors }}
+    {{- $authorScratch.Set "name" (delimit $page.Params.authors ", ") -}}
+  {{- end }}
+  {{- if not ($authorScratch.Get "name") }}
+    {{- with $siteParams.organization.name }}{{ $authorScratch.Set "name" . }}{{ end }}
+  {{- end }}
+  {{- $keywordsScratch := newScratch -}}
+  {{- with $page.Params.keywords }}
+    {{- $keywordsScratch.Set "value" (delimit . ", ") -}}
+  {{- else }}
+    {{- if $siteParams.default_keywords }}
+      {{- $keywordsScratch.Set "value" (delimit $siteParams.default_keywords ", ") -}}
+    {{- end }}
+  {{- end }}
+  <link rel="icon" href="{{ "favicon.ico" | absURL }}">
+  <link rel="apple-touch-icon" sizes="180x180" href="{{ "images/icon-512x512.png" | absURL }}">
+  <link rel="shortcut icon" type="image/png" href="{{ "images/icon-128x128.png" | absURL }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <title>{{ $seo.Get "title" | htmlEscape }}</title>
+  <meta name="description" content="{{ $seo.Get "description" | htmlEscape }}">
+  <meta name="robots" content="{{ $seo.Get "robots" }}">
   {{ hugo.Generator }}
-  
+  <link rel="canonical" href="{{ $seo.Get "canonical" }}">
+  {{- range $page.AllTranslations }}
+    {{- $hrefLang := or .Language.LanguageCode .Lang -}}
+    <link rel="alternate" hreflang="{{ $hrefLang }}" href="{{ .Permalink }}">
+  {{- end }}
+  <link rel="alternate" hreflang="x-default" href="{{ $seo.Get "canonical" }}">
+  {{- $languageCode := default "en-US" (or $page.Language.LanguageCode $site.LanguageCode) -}}
+  {{- $localeScratch := newScratch -}}
+  {{- $localeScratch.Set "locale" (replace (lower $languageCode) "-" "_") -}}
+  {{- $locale := $localeScratch.Get "locale" -}}
+  <meta property="og:site_name" content="{{ $site.Title | htmlEscape }}">
+  <meta property="og:type" content="{{ $seo.Get "type" }}">
+  <meta property="og:title" content="{{ $seo.Get "title" | htmlEscape }}">
+  <meta property="og:description" content="{{ $seo.Get "description" | htmlEscape }}">
+  <meta property="og:url" content="{{ $seo.Get "canonical" }}">
+  <meta property="og:image" content="{{ $seo.Get "image" }}">
+  <meta property="og:image:secure_url" content="{{ $seo.Get "image" }}">
+  <meta property="og:image:alt" content="{{ $seo.Get "imageAlt" | htmlEscape }}">
+  <meta property="og:locale" content="{{ $locale }}">
+  {{- range .Translations }}
+    {{- $altLocale := replace (lower (default "en-US" (or .Language.LanguageCode $.Site.LanguageCode))) "-" "_" -}}
+    <meta property="og:locale:alternate" content="{{ $altLocale }}">
+  {{- end }}
+  {{- with .Lastmod }}
+    <meta property="og:updated_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+  {{- end }}
+  {{- $published := or $page.PublishDate $page.Date -}}
+  {{- $modified := $page.Lastmod -}}
+  {{- if eq ($seo.Get "type") "article" }}
+    {{- with $published }}
+      <meta property="article:published_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+    {{- end }}
+    {{- with $modified }}
+      <meta property="article:modified_time" content="{{ .Format "2006-01-02T15:04:05Z07:00" }}">
+    {{- end }}
+    {{- with $page.Section }}
+      <meta property="article:section" content="{{ . }}">
+    {{- end }}
+    {{- with $page.Params.tags }}
+      {{- range . }}
+        <meta property="article:tag" content="{{ . }}">
+      {{- end }}
+    {{- end }}
+  {{- end }}
+  <meta name="twitter:card" content="{{ $seo.Get "twitterCard" }}">
+  <meta name="twitter:title" content="{{ $seo.Get "title" | htmlEscape }}">
+  <meta name="twitter:description" content="{{ $seo.Get "description" | htmlEscape }}">
+  <meta name="twitter:image" content="{{ $seo.Get "image" }}">
+  <meta name="twitter:image:alt" content="{{ $seo.Get "imageAlt" | htmlEscape }}">
+  {{- with $siteParams.twitter_site }}
+    <meta name="twitter:site" content="{{ . }}">
+  {{- end }}
+  {{- with $siteParams.twitter_creator }}
+    <meta name="twitter:creator" content="{{ . }}">
+  {{- end }}
+  {{- with $keywordsScratch.Get "value" }}
+    <meta name="keywords" content="{{ . }}">
+  {{- end }}
+  {{- with $authorScratch.Get "name" }}
+    <meta name="author" content="{{ . | htmlEscape }}">
+  {{- end }}
+  {{- with $siteParams.primary_color }}
+    <meta name="theme-color" content="{{ . }}">
+    <meta name="msapplication-TileColor" content="{{ . }}">
+  {{- end }}
+  {{- if $page.Params.sumnail_mk }}
+    <meta http-equiv="refresh" content="3;URL=https://www.youtube.com/@nanjakorewa">
+  {{- end }}
+  {{- $seoData := dict
+      "title" ($seo.Get "title")
+      "description" ($seo.Get "description")
+      "image" ($seo.Get "image")
+      "imageAlt" ($seo.Get "imageAlt")
+      "type" ($seo.Get "type")
+      "canonical" ($seo.Get "canonical")
+      "robots" ($seo.Get "robots")
+      "author" ($authorScratch.Get "name")
+      "keywords" ($keywordsScratch.Get "value")
+      "published" $published
+      "modified" $modified
+    -}}
+  {{- partial "seo/schema.html" (dict "Page" $page "SEO" $seoData) -}}
   {{ "<!-- ** CSS Plugins Needed for the Project ** -->" | safeHTML }}
   
   {{ "<!-- Bootstrap -->" | safeHTML }}
   <link rel="stylesheet" href="{{ `plugins/bootstrap/bootstrap.min.css` | absURL }}">
-
+  
   {{ "<!-- themefy-icon -->" | safeHTML }}
   <link rel="stylesheet" href="{{ `plugins/themify-icons/themify-icons.css` | absURL }}">
-
+  
   {{ "<!--Favicon-->" | safeHTML }}
   <link rel="icon" href="{{ `images/icon-16x16.png` | absURL }}" type="image/x-icon">
-
+  
   {{ "<!-- fonts -->" | safeHTML }}
   <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet">
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
-
-  {{ if .Params.flag }}
-  {{ $flagUrl_card := print "flags/" .Params.flag }}
-  {{ $flagUrl_card = replace $flagUrl_card ".svg" ".png" }}
-  <meta property="og:image" content="{{ $flagUrl_card | absURL }}">
-  <meta name="twitter:image" content="{{ $flagUrl_card | absURL }}">
-  {{ end }}
-  {{ if .Params.sumnail_mk }}
-  <meta property="og:image" content="{{ "sns/OP-MKnora.jpg" | absURL }}">
-  <meta name="twitter:image" content="{{ "sns/OP-MKnora.jpg" | absURL }}">
-  <meta http-equiv="refresh" content="3;URL=https://www.youtube.com/@nanjakorewa">
-  {{ end }}
+  
   <style>
   :root{
     --primary-color:{{ .Site.Params.primary_color }};
@@ -174,97 +299,97 @@
     --primary-hover:#36575A;
     --font-family:{{ replace .Site.Params.font_family ' ' '+' | title }};
   }
-
+  
   body {
     background: var(--body-color);
   }
   </style>
-
-{{ "<!-- Main Stylesheet -->" | safeHTML }}
-{{ $css := resources.Get "css/style.css" | minify }}
-<link href="{{ $css.Permalink }}" rel="stylesheet" media="screen"/>
-{{ $comcss := resources.Get "css/common.css" | minify }}
-<link href="{{ $comcss.Permalink }}" rel="stylesheet" media="screen"/>
   
-{{ "<!-- ** JS Plugins Needed for the Project ** -->" | safeHTML }}
-
-{{ "<!-- jquiry -->" | safeHTML }}
-{{ if .Params.import_jquery_36 }}
-<link href="{{ `mp/jsmaps/jsmaps.css` | absURL }}" rel="stylesheet" type="text/css" />
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-{{ else if .Params.mapname }}
-<link href="{{ `mp/jsmaps/jsmaps.css` | absURL }}" rel="stylesheet" type="text/css" />
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-{{ else if .Params.map_index }}
-<link href="{{ `mp/jsmaps/jsmaps.css` | absURL }}" rel="stylesheet" type="text/css" />
-<script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
-{{ else }}
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
-<!--<script src="{{ `plugins/jquery/jquery-1.12.4.js` | absURL }}"></script>-->
-{{ end }}
-
-{{ "<!-- jquary ui -->" | safeHTML }}
-<script src="{{ `plugins/jquery/jquery-ui.js`| absURL }}"></script>
-
-{{ "<!-- Bootstrap JS -->" | safeHTML }}
-<script src="{{ `plugins/bootstrap/bootstrap.min.js` | absURL }}"></script>
-
-{{ "<!-- match-height JS -->" | safeHTML }}
-<script src="{{ `plugins/match-height/jquery.matchHeight-min.js` | absURL }}"></script>
-
-{{ "<!-- custom JS -->" | safeHTML }}
-<script defer src="{{ `custom.js` | absURL }}"></script>
-
-{{ "<!-- Clarity tracking code for https://geopinning.space/ -->" | safeHTML }}
-<script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "gpnb8ov9hi");</script>
-
-{{ if .Params.use_polish_font }}
-<link href="https://db.onlinewebfonts.com/c/0a8c122cb58b382103d4963a79da3c30?family=Drogowskaz" rel="stylesheet">
-
-<style>
-@font-face {
+  {{ "<!-- Main Stylesheet -->" | safeHTML }}
+  {{ $css := resources.Get "css/style.css" | minify }}
+  <link href="{{ $css.Permalink }}" rel="stylesheet" media="screen"/>
+  {{ $comcss := resources.Get "css/common.css" | minify }}
+  <link href="{{ $comcss.Permalink }}" rel="stylesheet" media="screen"/>
+  
+  {{ "<!-- ** JS Plugins Needed for the Project ** -->" | safeHTML }}
+  
+  {{ "<!-- jquiry -->" | safeHTML }}
+  {{ if .Params.import_jquery_36 }}
+  <link href="{{ `mp/jsmaps/jsmaps.css` | absURL }}" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  {{ else if .Params.mapname }}
+  <link href="{{ `mp/jsmaps/jsmaps.css` | absURL }}" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  {{ else if .Params.map_index }}
+  <link href="{{ `mp/jsmaps/jsmaps.css` | absURL }}" rel="stylesheet" type="text/css" />
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+  {{ else }}
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+  <!--<script src="{{ `plugins/jquery/jquery-1.12.4.js` | absURL }}"></script>-->
+  {{ end }}
+  
+  {{ "<!-- jquary ui -->" | safeHTML }}
+  <script src="{{ `plugins/jquery/jquery-ui.js`| absURL }}"></script>
+  
+  {{ "<!-- Bootstrap JS -->" | safeHTML }}
+  <script src="{{ `plugins/bootstrap/bootstrap.min.js` | absURL }}"></script>
+  
+  {{ "<!-- match-height JS -->" | safeHTML }}
+  <script src="{{ `plugins/match-height/jquery.matchHeight-min.js` | absURL }}"></script>
+  
+  {{ "<!-- custom JS -->" | safeHTML }}
+  <script defer src="{{ `custom.js` | absURL }}"></script>
+  
+  {{ "<!-- Clarity tracking code for https://geopinning.space/ -->" | safeHTML }}
+  <script>    (function(c,l,a,r,i,t,y){        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);    })(window, document, "clarity", "script", "gpnb8ov9hi");</script>
+  
+  {{ if .Params.use_polish_font }}
+  <link href="https://db.onlinewebfonts.com/c/0a8c122cb58b382103d4963a79da3c30?family=Drogowskaz" rel="stylesheet">
+  
+  <style>
+  @font-face {
+      font-family: "Drogowskaz";
+      src: url("https://geopinning.space/rule/europe/poland/Drogowskaz.otf") format("opentype");
+      unicode-range: U+0000-007F, U+0041-005A, U+0061-007A;
+  }
+  
+  body {
     font-family: "Drogowskaz";
-    src: url("https://geopinning.space/rule/europe/poland/Drogowskaz.otf") format("opentype");
-    unicode-range: U+0000-007F, U+0041-005A, U+0061-007A;
-}
-
-body {
-  font-family: "Drogowskaz";
-}
-
-.polish-font {
-  font-family: "Drogowskaz" !important;
-}
-
-button {
-  font-family: "Drogowskaz" !important;
-  font-size: 1.3em !important;
-}
-
-</style>
-{{ end }}
-
-{{ template "_internal/google_analytics.html" . }}
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-XR9E0W2YP0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-XR9E0W2YP0');
-</script>
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3422749596492644"
-     crossorigin="anonymous"></script>
-
-{{ if site.Params.search.enable }}
-{{ $searchCSS := resources.Get "scss/style.scss" | toCSS | minify }}
-<link href="{{ $searchCSS.Permalink }}" rel="stylesheet" media="screen"/>
-{{ partial "search-index.html" . }}
-{{ $searchJS := resources.Get "js/search.js" | minify | fingerprint }}
-<script defer src="{{ $searchJS.Permalink }}" integrity="{{ $searchJS.Data.Integrity }}"></script>
-{{ end }}
-
+  }
+  
+  .polish-font {
+    font-family: "Drogowskaz" !important;
+  }
+  
+  button {
+    font-family: "Drogowskaz" !important;
+    font-size: 1.3em !important;
+  }
+  
+  </style>
+  {{ end }}
+  
+  {{ template "_internal/google_analytics.html" . }}
+  
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-XR9E0W2YP0"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+  
+    gtag('config', 'G-XR9E0W2YP0');
+  </script>
+  
+  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3422749596492644"
+       crossorigin="anonymous"></script>
+  
+  {{ if site.Params.search.enable }}
+  {{ $searchCSS := resources.Get "scss/style.scss" | toCSS | minify }}
+  <link href="{{ $searchCSS.Permalink }}" rel="stylesheet" media="screen"/>
+  {{ partial "search-index.html" . }}
+  {{ $searchJS := resources.Get "js/search.js" | minify | fingerprint }}
+  <script defer src="{{ $searchJS.Permalink }}" integrity="{{ $searchJS.Data.Integrity }}"></script>
+  {{ end }}
+  
 </head>

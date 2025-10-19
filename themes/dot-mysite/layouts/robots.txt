@@ -1,0 +1,13 @@
+User-agent: *
+{{- if or .Site.Params.noindex .Site.Params.robots_disallow_all }}
+Disallow: /
+{{- else }}
+Allow: /
+{{- with .Site.Params.robots_disallow }}
+{{- range . }}
+Disallow: {{ . }}
+{{- end }}
+{{- end }}
+{{- end }}
+
+Sitemap: {{ printf "%s%s" (replaceRE "/+$" "" .Site.BaseURL) "/sitemap.xml" }}
