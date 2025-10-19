@@ -41,14 +41,14 @@ Bengali script is used.{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./lawachara_national_park_srimongol_11.jpg">
+<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">Red-and-white striped</span> bollards{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}. These are frequently lined on roadsides near bridges.{{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollards.png" width="90%" alt="Bangladesh Bollards" />
+<img src="/rule/asia/bangladesh/bollards.png" width="90%" alt="Bangladesh Bollards" />
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ CNG rickshaws, resembling tuk-tuks, are distinctive and often have <span class="
 The Google Car in Bangladesh may show <span class="quiz">red mirrors</span>, as seen in some examples.{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc.jpg" width="600px">
+<img src="/rule/asia/bangladesh/gc.jpg" width="600px">
 </div>
 
 {{% /tab %}}
@@ -138,7 +138,7 @@ Over 90% of soybeans are cultivated in the area between Dhaka and Chittagong.{{%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-52-31.png" width="90%">
+<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%">
 </div>
 
 {{% /tab %}}

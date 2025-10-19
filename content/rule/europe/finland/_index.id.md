@@ -85,7 +85,7 @@ Nama jalan seperti '～tie' dan '～gatan' sering ditemui.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./streetsign.jpg" width="95%">
+<img src="/rule/europe/finland/streetsign.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -98,9 +98,9 @@ Di Finlandia, papan peringatan memiliki garis tepi tipis berwarna <span class="q
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
-<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
-<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
-<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
 </div>
 
 {{% notice tip %}}
@@ -121,7 +121,7 @@ Garis tengah pada jalan menggunakan garis putus-putus <span class="quiz">kuning<
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.png" width="90%" />
+<img src="/rule/europe/finland/road.png" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -129,7 +129,7 @@ Secara umum, Finlandia lebih datar{{% ex "https://maps.app.goo.gl/uFfRSzjgmQdjEW
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./nature_finnish_finnish_landscape.jpg" width="90%" />
+<img src="/rule/europe/finland/nature_finnish_finnish_landscape.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
@@ -178,7 +178,7 @@ Jika sudah yakin Finlandia tetapi tidak tahu wilayah spesifik, meletakkan pin te
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-17-13-12-50.png" width="570px"/>
+<img src="/rule/europe/finland/2023-06-17-13-12-50.png" width="570px"/>
 </div>
 
 {{% /tab %}}
@@ -223,7 +223,7 @@ Jika bahasa tersebut tertulis bersama bahasa Sámi utara, kemungkinan besar bera
 {{% tab "Kode Area Telepon" %}}
 
 <div class="googlemap-if unclickable">
-<p><img src="Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></p>
+<p><img src="/rule/europe/finland/Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></p>
 <p>Public domain</p>
 </div>
 

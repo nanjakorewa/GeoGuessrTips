@@ -39,7 +39,7 @@ sc: [
 Las <span class="quiz">palmeras de coco</span> se cultivan ampliamente y es común ver cocos o cáscaras en las carreteras {{% ex "https://goo.gl/maps/kAW6XTsMUuD5WrtcA" "https://goo.gl/maps/E5Ty7yijWQM4ipF56" "https://goo.gl/maps/4Rea5AMbHtUQ5Tr7A" "https://goo.gl/maps/1cWwoR6eRBqYBwYC7" "https://goo.gl/maps/2HVRm5CE8mQEkuAx7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="cocos-tree.png" width="80%" />
+<img src="/rule/oceania/cocos_islands/cocos-tree.png" width="80%" />
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ El coche de Google tiene algo adjunto en la parte delantera derecha {{% ex "http
 <div class="googlemap-if">
 </div>
 <div class="googlemap-if unclickable">
-<img src="cocos-gc.png" width="80%">
+<img src="/rule/oceania/cocos_islands/cocos-gc.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ Sacos de arena para prevenir la erosión se encuentran a lo largo de la costa {{
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./hurricane_irene_beach_damage.jpg">
+<img src="/rule/oceania/cocos_islands/hurricane_irene_beach_damage.jpg">
 </div>
 
 {{% notice tip %}}

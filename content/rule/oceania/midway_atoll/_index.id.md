@@ -32,7 +32,7 @@ sc: [
 Dalam banyak kasus, dapat langsung dikenali sebagai Pulau Midway pada pandangan pertama {{% ex "https://maps.app.goo.gl/qbg1tR8KdCrJmzhG7" "https://maps.app.goo.gl/SocqFQcJpfixw3r88" "https://maps.app.goo.gl/DCFp5oQHmHfdSbGx5" %}}. Namun, perlu diperhatikan bahwa ada juga pulau lain dengan banyak burung yang bukan Pulau Midway {{% ex "https://maps.app.goo.gl/V4cbS1MmndTwDMzJ6" "https://maps.app.goo.gl/qK2WCEAYbvYYkKfb8" "https://maps.app.goo.gl/n7k78mdDSKCBAwhy5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./us_navy_100602_n_2.jpg" width="91%">
+<img src="/rule/oceania/midway_atoll/us_navy_100602_n_2.jpg" width="91%">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

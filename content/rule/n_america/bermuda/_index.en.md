@@ -32,15 +32,15 @@ is_has_many_trekker: true
 All residential roofs are white in appearance.{{% ex "https://maps.app.goo.gl/sYhsWqmKhawCVY3s5" "https://maps.app.goo.gl/fZwDZGmMM5ZGH3PV9" "https://maps.app.goo.gl/yq1baQV9ydTQzRqcA" "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/oWnAREFuTTVqmPSk8" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}.{{% ref "https://alexismcharg.wordpress.com/2012/04/17/bermuda-white-roofs/" "Bermuda White Roofs" %}}. Due to the island's lack of natural freshwater, homes rely on rainwater collection. Roofs are typically made of materials like limestone to prevent contamination and mold.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./bermuda_wv.jpg" width="90%">
+<img src="/rule/n_america/bermuda/bermuda_wv.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 As an overseas territory of {{% goto "../../europe/united-kingdom/" "the United Kingdom" %}}, vehicles drive on the <span class="quiz">left side</span>.{{% ex "https://maps.app.goo.gl/mMgwr4YzRFcQCfYC9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6" "Bermuda Islands" %}}. However, license plates are not yellow.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./bermuda_uk_photos_number_42.jpg" width="310px">
-<img src="./bermuda_uk_photos_number_65.jpg" width="380px">
+<img src="/rule/n_america/bermuda/bermuda_uk_photos_number_42.jpg" width="310px">
+<img src="/rule/n_america/bermuda/bermuda_uk_photos_number_65.jpg" width="380px">
 </div>
 
 {{% notice tip %}}

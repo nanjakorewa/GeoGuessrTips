@@ -33,7 +33,7 @@ Terdapat beberapa cakupan resmi yang tidak ditampilkan di peta{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./main.jpg" width="90%" />
+<img src="/rule/asia/afghanistan/main.jpg" width="90%" />
 </div>
 
 
@@ -41,7 +41,7 @@ Terdapat beberapa cakupan resmi yang tidak ditampilkan di peta{{% ex "https://ma
 Plat nomor kendaraan berwarna <span class="quiz">putih</span>. Bus dan taksi menggunakan plat nomor berwarna kuning.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
+<img src="/rule/asia/afghanistan/1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
 </div>
 
 {{% lb 50 small %}}

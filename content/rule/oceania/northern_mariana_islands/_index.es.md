@@ -36,8 +36,8 @@ sc: [
 Se estima que más de la mitad de los turistas son japoneses, por lo que a veces es posible encontrar letreros y banderas en japonés {{% ex "https://maps.app.goo.gl/QRcQhgy8FGDyCMAHA" "https://maps.app.goo.gl/sE22VvQ9QR7z6PTe8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="960px-Hafa-Adai_Shopping_Center.jpg" width="95%">
-<img src="./960px-I_Love_Saipan.jpg" width="95%">
+<img src="/rule/oceania/northern_mariana_islands/960px-Hafa-Adai_Shopping_Center.jpg" width="95%">
+<img src="/rule/oceania/northern_mariana_islands/960px-I_Love_Saipan.jpg" width="95%">
 </div>
 
 {{% notice tip %}}

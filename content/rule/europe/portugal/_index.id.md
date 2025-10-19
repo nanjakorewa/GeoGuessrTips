@@ -36,7 +36,7 @@ sc: [
 Anda akan melihat warna biru dan kuning di kedua sisi pelat nomor.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" />
+<img src="/rule/europe/portugal/car.jpg" width="90%" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-00-36.png)
@@ -49,7 +49,7 @@ Beberapa tiang memiliki partisi dan lubang di dalamnya{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="90%">
+<img src="/rule/europe/portugal/up.png" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -57,14 +57,14 @@ Hanya Portugal yang menggunakan chevron kuning dengan latar belakang hitam di ba
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./xv-portugal.png" width="100px" style="margin:10px">
+<img src="/rule/europe/portugal/xv-portugal.png" width="100px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
 Ada jalan berbatu tua dan trotoar yang terkadang terbuat dari batu bulat{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.png" width="90%">
+<img src="/rule/europe/portugal/street.png" width="90%">
 </div>
 
 

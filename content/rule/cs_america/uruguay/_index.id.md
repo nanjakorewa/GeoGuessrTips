@@ -38,7 +38,7 @@ sc: [
 Tanda jalan sering menggunakan kayu bercat <span class="quiz">putih</span> dengan beberapa lubang persegi {{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}. Bollard juga umumnya didominasi warna <span class="quiz">putih</span>. Ada juga bollard berwarna kuning, tetapi sisi-sisinya tetap berwarna <span class="quiz">putih</span>. Selain itu, pelat nomor mobil di Uruguay umumnya berwarna <span class="quiz">putih</span> {{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}, sedangkan pelat nomor di {{% goto "../argentina/" "Argentina" %}} berwarna hitam di bagian tengah.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Tanda Jalan Uruguay">
+<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Tanda Jalan Uruguay">
 </div>
 
 {{% lb 50 small %}}
@@ -113,7 +113,7 @@ Menurut plonk it, bentuk tiang listrik ini khas di Uruguay {{% by "https://www.p
 Sebagian besar wilayah berada pada ketinggian antara 0–300 m, dengan titik tertinggi hanya 513 m (berdasarkan gambar domain publik).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-25-12-33-07.png" width="90%" />
+<img src="/rule/cs_america/uruguay/2023-04-25-12-33-07.png" width="90%" />
 </div>
 {{% /tab %}}
 {{% tab "Pertanian" %}}
@@ -121,7 +121,7 @@ Sebagian besar wilayah berada pada ketinggian antara 0–300 m, dengan titik ter
 Produksi barley dan kedelai hampir setengahnya berasal dari wilayah barat daya, yaitu Soriano dan Colonia {{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}. Produksi jagung dan rapeseed juga terkonsentrasi di wilayah barat, sehingga jika terlihat ladang luas, mungkin Anda berada di barat {{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Produksi Uruguay" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Uruguay_Barley.png" width="90%" />
+<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -142,7 +142,7 @@ Jalan menuju pemukiman di Cabo Polonio tidak menggunakan mobil hitam. Jangan sal
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./casaspolonio.jpg" width="95%">
+<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}

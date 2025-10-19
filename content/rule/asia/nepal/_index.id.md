@@ -42,14 +42,14 @@ Namche Bazaar (नाम्चे बजार), sebuah pusat pendakian di Himal
 Berjalan di daerah pegunungan di kaki Gunung Everest {{% ex "https://maps.app.goo.gl/SfvTeL7S6MtpJdeT9" "https://maps.app.goo.gl/BH56QX51AvmnjBy48" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mountains_mount_everest_base_0.jpg" width="95%">
+<img src="/rule/asia/nepal/mountains_mount_everest_base_0.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Bendera seperti yang terlihat di {{% goto "../bhutan/" "Bhutan" %}} juga sering terlihat {{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}. Toko-toko menjual perlengkapan mendaki, dengan ketinggian lokasi ditampilkan pada papan. Orang-orang di sekitar biasanya membawa tas punggung untuk pendakian.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./nepal_annapurna_himalayas_trekking.jpg" width="95%">
+<img src="/rule/asia/nepal/nepal_annapurna_himalayas_trekking.jpg" width="95%">
 </div>
 
 {{% notice tip %}}

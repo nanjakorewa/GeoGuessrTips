@@ -35,7 +35,7 @@ flag_height: "380px"
 The stop sign is <span class="quiz">Berhenti</span>.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="マレーシアの止まれの標識"/>
+<img src="/rule/asia/malaysia/960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="マレーシアの止まれの標識"/>
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ License plates appears to be divided into two parts depending on how the mosaic 
 </div>
 
 {{% lb 50 large %}}
-<img src="2023-05-04-12-38-44.png" />
+<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}

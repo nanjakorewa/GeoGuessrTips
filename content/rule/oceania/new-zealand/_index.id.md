@@ -38,14 +38,14 @@ sc: [
 Bollard dicat dengan warna <span class="quiz">merah</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./nz-bollard.png" width="95%" alt="Bollard di Selandia Baru" />
+<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="Bollard di Selandia Baru" />
 </div>
 
 {{% notice tip %}}
 Bagian atas tiang listrik dililit sesuatu{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}. Beberapa tiang listrik juga memiliki lubang{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="90%" alt="Tiang listrik di Selandia Baru" />
+<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="Tiang listrik di Selandia Baru" />
 </div>
 
 {{% notice tip %}}
@@ -75,14 +75,14 @@ Jika tulisan GIVE WAY menggunakan huruf hitam, maka itu adalah <span class="quiz
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="./tokoroa_near_mannering_street.jpg">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg">
 </div>
 
 {{% notice tip %}}
 Lebih dari 40% wilayah Selandia Baru adalah padang rumput{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Curah hujan sepanjang tahun yang cukup membuat rumput tumbuh dengan baik. Hal ini memungkinkan peternak menjaga biaya produksi tetap rendah, membuat produk susu Selandia Baru kompetitif di pasar global{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Organisasi Pengembangan Pertanian dan Peternakan - Situasi Industri Susu Selandia Baru" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./img_1492_27.jpg" width="95%">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ Tanda peringatan berwarna kuning bisa ditemukan{{% ex "https://maps.app.goo.gl/W
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./homer_tunnel_east.jpg">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg">
 </div>
 
 {{% notice tip %}}
@@ -108,7 +108,7 @@ Tanda atau chevron dipasang pada tiang putih persegi{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./whitepole.jpg" width="400px">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px">
 </div>
 
 {{% /tab %}}
@@ -197,7 +197,7 @@ Untuk melindungi tanaman dari angin laut, terdapat beberapa sabuk pelindung angi
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./wv_banner_bay_plenty.jpg">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg">
 </div>
 
 {{% /tab %}}
@@ -208,7 +208,7 @@ Tanaman yang umum di sekitar Laut Mediterania ini banyak tumbuh di pesisir Pulau
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arundo_donax_variegata_j.jpg">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg">
 </div>
 
 {{% /tab %}}
@@ -229,7 +229,7 @@ Jika terlihat gunung menyerupai Gunung Fuji, kemungkinan berada di sekitar taman
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./mountain_mt_egmont_mt.jpg">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -239,7 +239,7 @@ Jalur bersepeda yang sangat panjang. Terkadang terlihat sesuatu berwarna merah{{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./rail_trail_going_north_0.jpg">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -271,7 +271,7 @@ Bekas tempat produksi belerang yang ditinggalkan akibat bencana vulkanik{{% ref 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./derelict_sulphur_factory_building.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Kepulauan Antipodes" %}}
@@ -281,7 +281,7 @@ Merupakan Situs Warisan Dunia dengan koloni penguin. Area ini tidak terbuka untu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./antipodes_penguin.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

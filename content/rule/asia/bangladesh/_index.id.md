@@ -41,14 +41,14 @@ Bahasa Bengali digunakan{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./lawachara_national_park_srimongol_11.jpg">
+<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg">
 </div>
 
 {{% notice tip %}}
 Bollard dengan pola garis <span class="quiz">merah dan putih</span>{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}. Sering ditemukan berjejer di kedua sisi jalan dekat jembatan{{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollards.png" width="90%" alt="Bollard di Bangladesh" />
+<img src="/rule/asia/bangladesh/bollards.png" width="90%" alt="Bollard di Bangladesh" />
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ CNG rickshaw berbentuk seperti tuk-tuk adalah ciri khas lain{{% ex "https://maps
 GoogleCar di Bangladesh terkadang memperlihatkan <span class="quiz">cermin merah</span>{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}} (lihat contoh).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc.jpg" width="600px">
+<img src="/rule/asia/bangladesh/gc.jpg" width="600px">
 </div>
 
 {{% /tab %}}
@@ -140,7 +140,7 @@ Lebih dari 90% kedelai diproduksi di wilayah antara Dhaka dan Chittagong {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-52-31.png" width="90%">
+<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%">
 </div>
 
 {{% /tab %}}

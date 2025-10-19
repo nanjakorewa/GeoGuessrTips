@@ -47,7 +47,7 @@ The Google Car is distinctive, with a long antenna in the front right. Unlike {{
 There are walking paths on the beach, and high-rise tourist hotels are often visible {{% ex "https://maps.app.goo.gl/VfVdmZoRViGfFB9V6" "https://maps.app.goo.gl/iesPnEJB7xNqa5Mv6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./hotel_nikko_guam.jpg" width="95%">
+<img src="/rule/oceania/guam/hotel_nikko_guam.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Home" %}}

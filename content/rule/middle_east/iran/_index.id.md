@@ -32,7 +32,7 @@ Plat nomor dengan desain mirip wilayah UE dapat ditemukan
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road.jpg" width="90%">
+<img src="/rule/middle_east/iran/road.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}

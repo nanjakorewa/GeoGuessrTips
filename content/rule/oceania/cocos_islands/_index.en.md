@@ -39,7 +39,7 @@ sc: [
 <span class="quiz">Coconut</span> trees are cultivated everywhere, and coconut fruits or shells are often found on the roadside {{% ex "https://goo.gl/maps/kAW6XTsMUuD5WrtcA" "https://goo.gl/maps/E5Ty7yijWQM4ipF56" "https://goo.gl/maps/4Rea5AMbHtUQ5Tr7A" "https://goo.gl/maps/1cWwoR6eRBqYBwYC7" "https://goo.gl/maps/2HVRm5CE8mQEkuAx7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="cocos-tree.png" width="80%" />
+<img src="/rule/oceania/cocos_islands/cocos-tree.png" width="80%" />
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ The Google Car is distinctive, with something attached to the front right {{% ex
 <div class="googlemap-if">
 </div>
 <div class="googlemap-if unclickable">
-<img src="cocos-gc.png" width="80%">
+<img src="/rule/oceania/cocos_islands/cocos-gc.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ Sandbags are piled along the coast to prevent erosion {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./hurricane_irene_beach_damage.jpg">
+<img src="/rule/oceania/cocos_islands/hurricane_irene_beach_damage.jpg">
 </div>
 
 {{% notice tip %}}

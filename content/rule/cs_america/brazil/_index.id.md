@@ -46,21 +46,21 @@ sc: [
 Bahasa utamanya adalah <span class="quiz">Portugis</span>, dengan karakteristik huruf <span class="quiz">Ã・ã</span>
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./st/Placa_rod_f_dias.png" width="440xp">
+<img src="/rule/cs_america/brazil/st/Placa_rod_f_dias.png" width="440xp">
 </div>
 
 {{% notice tip %}}
 Bagian belakang rambu lalu lintas sering <span class="quiz">berwarna hitam</span> (gambar latar berasal dari <a href="https://commons.wikimedia.org/w/index.php?curid=57310907">sumber ini</a>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./traffic-sign-example.png" width="90%">
+<img src="/rule/cs_america/brazil/traffic-sign-example.png" width="90%">
 </div>
 
 {{% notice tip %}}
 Antena rumah sering berbentuk parabola <span class="quiz">transparan</span> {{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}, tetapi ini saja tidak cukup sebagai penanda.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./house.jpg" width="95%">
+<img src="/rule/cs_america/brazil/house.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -80,11 +80,11 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 Logo Petrobras, perusahaan minyak terbesar di Amerika Selatan, sering ditemukan {{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./petrobras_no_b_laranjeiras.jpg" width="95%">
+<img src="/rule/cs_america/brazil/petrobras_no_b_laranjeiras.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
+<img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
 <img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
 </div>
 
@@ -96,8 +96,8 @@ Tangki air dengan tulisan "Fortlev" sering terlihat di atap rumah {{% ref "https
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-13-03-04-56.png" >
-<img src="2023-06-13-03-05-06.png" >
+<img src="/rule/cs_america/brazil/2023-06-13-03-04-56.png" >
+<img src="/rule/cs_america/brazil/2023-06-13-03-05-06.png" >
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Tiang listrik di Brasil memiliki pembagi pada alurnya {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pole.jpg" width="90%" />
+<img src="/rule/cs_america/brazil/pole.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -139,7 +139,7 @@ Banco Itaú, salah satu bank terbesar di Amerika Selatan, memiliki banyak papan 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./banco_itau_agencia_leblon.jpg" width="95%">
+<img src="/rule/cs_america/brazil/banco_itau_agencia_leblon.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Catatan Lain" %}}
@@ -170,7 +170,7 @@ Angka 1 untuk São Paulo, angka 2 untuk Rio de Janeiro. Secara umum, angka semak
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="Kode area telepon di Brasil"/>
+<img src="/rule/cs_america/brazil/2023-04-26-01-07-35.png" style="max-width:80%;" alt="Kode area telepon di Brasil"/>
 <p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
 </div>
 {{% /tab %}}
@@ -181,7 +181,7 @@ Mencari langsung nomor jalan sering sulit. Mulailah dengan mempersempit area ber
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rodovia_br460_carmo_de.jpg" width="95%">
+<img src="/rule/cs_america/brazil/rodovia_br460_carmo_de.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Sekitar Florianópolis" %}}
@@ -216,7 +216,7 @@ Florianópolis memiliki banyak warga keturunan Eropa, termasuk dari {{% goto "..
 {{% tab "Vegetasi" %}}
 
 <div class="googlemap-if">
-<div class="unclickable"><img src="2023-04-27-08-27-15.png" /></div>
+<div class="unclickable"><img src="/rule/cs_america/brazil/2023-04-27-08-27-15.png" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">Gambar oleh Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
 {{% /tab %}}
@@ -295,7 +295,7 @@ Pohon ini banyak ditemukan di sekitar negara bagian <span class="quiz">Ceará</s
 {{% /tab %}}
 {{% tab "Babassu" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-07-20-45-47.png" />
+<img src="/rule/cs_america/brazil/2023-05-07-20-45-47.png" />
 </div>
 
 {{% notice tip %}}
@@ -345,7 +345,7 @@ Eucalyptus grandis tersebar di sepanjang garis pantai dari São Paulo hingga Rio
 Gunung berbentuk khas terlihat jelas {{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}. Beberapa area menunjukkan kendaraan buggy biru {{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilhagrande_abraao1.jpg" width="95%">
+<img src="/rule/cs_america/brazil/ilhagrande_abraao1.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Fernando de Noronha" %}}
@@ -353,7 +353,7 @@ Gunung berbentuk khas terlihat jelas {{% ex "https://maps.app.goo.gl/HceMQgFFMU1
 Tiang listrik memiliki lubang, banyak bebatuan, dan pelabuhan kapal. Batu karang yang sangat khas dapat digunakan untuk identifikasi lokasi {{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./brazil_1091369.jpg" width="95%">
+<img src="/rule/cs_america/brazil/brazil_1091369.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -38,14 +38,14 @@ sc: [
 Bollards are painted <span class="quiz">red</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./nz-bollard.png" width="95%" alt="New Zealand bollard" />
+<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="New Zealand bollard" />
 </div>
 
 {{% notice tip %}}
 There is something wrapped around the upper parts of utility poles{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}. Some poles also have holes{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="90%" alt="New Zealand utility poles" />
+<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="New Zealand utility poles" />
 </div>
 
 {{% notice tip %}}
@@ -72,14 +72,14 @@ If "GIVE WAY" is written in black, it is <span class="quiz">Australia</span>. If
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="./tokoroa_near_mannering_street.jpg">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg">
 </div>
 
 {{% notice tip %}}
 Over 40% of New Zealand’s land area is pasture{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Thanks to moderate rainfall throughout the year, grass grows easily. This keeps production costs low for dairy farmers, giving New Zealand dairy products global competitiveness{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Agricultural and Livestock Industries Corporation: New Zealand Dairy" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./img_1492_27.jpg" width="95%">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -95,14 +95,14 @@ Yellow regulatory signs are present{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h3m
 <img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./homer_tunnel_east.jpg">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg">
 </div>
 
 {{% notice tip %}}
 Signs and chevrons are mounted on white posts{{% ex "https://maps.app.goo.gl/68YBb7GgqSJ3KV8J6" "https://maps.app.goo.gl/vpKGGDjw4FxLaKvu5" "https://maps.app.goo.gl/EcAesoSvLZUEgZfF9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./whitepole.jpg" width="400px">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px">
 </div>
 
 {{% /tab %}}
@@ -191,7 +191,7 @@ Windbreak forests can be seen to protect crops from ocean winds, though they are
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./wv_banner_bay_plenty.jpg">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg">
 </div>
 
 {{% /tab %}}
@@ -202,7 +202,7 @@ A plant commonly found around the Mediterranean, it is also frequently seen alon
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arundo_donax_variegata_j.jpg">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg">
 </div>
 
 {{% /tab %}}
@@ -224,7 +224,7 @@ If you see a mountain resembling Mt. Fuji, you are likely near the national park
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./mountain_mt_egmont_mt.jpg">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -234,7 +234,7 @@ A very long cycling trail. You might often see something red along the trail. {{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./rail_trail_going_north_0.jpg">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -266,7 +266,7 @@ This island features abandoned sulfur production sites due to volcanic disasters
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./derelict_sulphur_factory_building.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Antipodes Islands" %}}
@@ -276,7 +276,7 @@ A UNESCO World Heritage Site with penguin colonies. The area is restricted to th
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./antipodes_penguin.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

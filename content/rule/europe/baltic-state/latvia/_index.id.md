@@ -53,14 +53,14 @@ sc: [
 Characters with a macron mark (￣) over vowels, like <b>ī</b>.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./p70_36km.jpg" width="90%">
+<img src="/rule/europe/baltic-state/latvia/p70_36km.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 Many utility poles are round and have hook-like shapes on top {{% ex "https://maps.app.goo.gl/wzoAPg8X4r7mw2Nm7" "https://maps.app.goo.gl/C98cL4W8A77vyNk28" %}}. Similar poles can be found in {{% goto "../../bulgaria/" "Bulgaria" %}} and {{% goto "../../croatia/" "Croatia" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./pole.jpg" width="90%">
+<img src="/rule/europe/baltic-state/latvia/pole.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -81,13 +81,13 @@ When comparing Latvia and Lithuania's speed limit signs, the red line is <span c
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
-<img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
-<img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="pagrieziens_uz_zalvi.jpg" width="90%">
+<img src="/rule/europe/baltic-state/latvia/pagrieziens_uz_zalvi.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -95,7 +95,7 @@ Bollards sometimes have writing on them. When viewed from above, they take the s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../lithuania/bollar-li-la-es.png" width="590px" alt="Baltic States bollards" />
+<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Baltic States bollards" />
 </div>
 
 {{% notice tip %}}

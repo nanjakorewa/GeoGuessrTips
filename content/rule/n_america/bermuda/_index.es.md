@@ -32,15 +32,15 @@ is_has_many_trekker: true
 Los techos de todas las casas son blancos{{% ex "https://maps.app.goo.gl/sYhsWqmKhawCVY3s5" "https://maps.app.goo.gl/fZwDZGmMM5ZGH3PV9" "https://maps.app.goo.gl/yq1baQV9ydTQzRqcA" "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/oWnAREFuTTVqmPSk8" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}. {{% ref "https://alexismcharg.wordpress.com/2012/04/17/bermuda-white-roofs/" "Bermuda White Roofs" %}}. Debido a la falta de agua dulce en las islas, las casas deben recolectar agua de lluvia, y los techos están hechos de materiales como piedra caliza para evitar suciedad o moho.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./bermuda_wv.jpg" width="90%">
+<img src="/rule/n_america/bermuda/bermuda_wv.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 Como territorio de ultramar del {{% goto "../../europe/united-kingdom/" "Reino Unido" %}}, los coches circulan por el <span class="quiz">lado izquierdo</span>{{% ex "https://maps.app.goo.gl/mMgwr4YzRFcQCfYC9" %}}. Sin embargo, las matrículas no son amarillas.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./bermuda_uk_photos_number_42.jpg" width="310px">
-<img src="./bermuda_uk_photos_number_65.jpg" width="380px">
+<img src="/rule/n_america/bermuda/bermuda_uk_photos_number_42.jpg" width="310px">
+<img src="/rule/n_america/bermuda/bermuda_uk_photos_number_65.jpg" width="380px">
 </div>
 
 {{% notice tip %}}

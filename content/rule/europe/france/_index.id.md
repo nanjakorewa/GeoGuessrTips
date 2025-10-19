@@ -41,7 +41,7 @@ sc: [
 Bollard di Prancis biasanya berupa tiang putih bulat tebal dengan reflektor merah {{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}. Ada juga varian dengan warna ujung atau reflektor berbeda {{% ex "https://maps.app.goo.gl/toNnq8m7rMBHab2q7" "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" "https://maps.app.goo.gl/wtDVvGYfJ3Ve5Qt48" %}}, atau bentuk mirip penghapus {{% ex "https://maps.app.goo.gl/vzAwrbDqgRGeafnM8" "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}. Namun, bollard serupa juga dapat ditemukan di {{% goto "../greece/" "Yunani" %}} pada beberapa jalan tertentu {{% ex "https://maps.app.goo.gl/QvCD6cz2x73oNKkn6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./b2.png" width="90%" alt="Bollard di Prancis" />
+<img src="/rule/europe/france/b2.png" width="90%" alt="Bollard di Prancis" />
 </div>
 
 {{% notice tip %}}
@@ -49,7 +49,7 @@ Nomor telepon di Prancis memiliki format lima set angka dua digit {{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./phonenumber.jpg" width="90%">
+<img src="/rule/europe/france/phonenumber.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ Jika plat berwarna putih, pertimbangkan {{% goto "../italy/" "Italia" %}}{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./blue-plate.png" width="90%" alt="Tiang listrik di Prancis" />
+<img src="/rule/europe/france/blue-plate.png" width="90%" alt="Tiang listrik di Prancis" />
 </div>
 
 {{% notice tip %}}
@@ -69,7 +69,7 @@ Plat jalan berwarna kuning dengan nomor yang diawali huruf "D" dapat ditemukan d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="aubisque_mountain_france_940395.jpg" width="550">
+<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550">
 </div>
 
 {{% notice tip %}}
@@ -77,7 +77,7 @@ Plat nomor kendaraan di Prancis mirip dengan negara UE lainnya dengan sisi kiri 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./licence.jpg" width="95%">
+<img src="/rule/europe/france/licence.jpg" width="95%">
 </div>
 
 {{% lb 50 small %}}
@@ -91,7 +91,7 @@ Chevron biru-putih dapat ditemukan {{% ex "https://maps.app.goo.gl/XKPFZ3qtpKQwW
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./arrow.png" width="85%">
+<img src="/rule/europe/france/arrow.png" width="85%">
 </div>
 <div class="googlemap-if unclickable">
 <img src="https://geopinning.space/rule/europe/france/r/xcv.png" width="150px">
@@ -102,7 +102,7 @@ Tiang listrik berbentuk kotak beton atau tiang dengan pembatas dapat ditemukan d
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./poles.jpg" width="90%" alt="Tiang listrik di Prancis">
+<img src="/rule/europe/france/poles.jpg" width="90%" alt="Tiang listrik di Prancis">
 </div>
 
 {{% notice tip %}}
@@ -110,15 +110,15 @@ Papan nama jalan sering dipasang di dinding bangunan dan sering kali bertuliskan
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-24-12-29-20.png" width="320px"/>
+<img src="/rule/europe/france/2023-07-24-12-29-20.png" width="320px"/>
 </div>
 
 {{% notice tip %}}
 Kotak pos di Prancis umumnya berbentuk kubus persegi {{% ex "https://maps.app.goo.gl/JBkFvM98iRSs6BkN8" "https://maps.app.goo.gl/c1Z7EjdXNrXNKs2Q6" "https://maps.app.goo.gl/5UjoHPnf3EJy7mTi9" "https://maps.app.goo.gl/Mxxf9FdVmqfhc6Ht5" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/UB36DVZdJMma5bJe7" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" "https://maps.app.goo.gl/TmNad2DmfwMHS4UA8" %}}. Kotak pos serupa juga dapat ditemukan di {{% goto "../portugal/" "Portugal" %}}{{% ex "https://maps.app.goo.gl/KeN6v6JTzJ29kGJ28" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mailboxes_post_france_letter.jpg" width="500px">
-<img src="./chatroux_sur_boite_aux.jpg" width="500px">
+<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="500px">
+<img src="/rule/europe/france/chatroux_sur_boite_aux.jpg" width="500px">
 </div>
 {{% notice tip %}}
 Tanda peraturan berwarna merah seperti batas kecepatan memiliki tepi putih {{% ex "https://maps.app.goo.gl/hHeYy3a9Gwp9Nd3o7" "https://maps.app.goo.gl/LF2GebgrjVJHeujc8" %}}. Selain itu, rambu biru berbentuk persegi dengan tulisan "Jalankan di sisi kanan" hanya ditemukan di Prancis {{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7" "https://maps.app.goo.gl/AyFtAdEf3MjhAyNj9" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" "https://maps.app.goo.gl/M6wUds5xJrKXmeJz7" %}}.
@@ -178,7 +178,7 @@ Pegunungan juga terdapat di sekitar Jerman {{% ex "https://maps.app.goo.gl/A8p7Z
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Bassigny-localisation.jpg" width="90%">
+<img src="/rule/europe/france/Bassigny-localisation.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -189,7 +189,7 @@ Pegunungan dengan batuan gelap kristalin yang khas dan membentuk rangkaian {{% e
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./corsica_mountains_mountain_landscape.jpg">
+<img src="/rule/europe/france/corsica_mountains_mountain_landscape.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -221,7 +221,7 @@ Pinus pendek dapat ditemukan di daerah dekat pantai tenggara {{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../spain/pinus_pinea_pompeii.jpg" width="90%">
+<img src="/rule/europe/spain/pinus_pinea_pompeii.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Arundo (Rumput Buluh Besar)" %}}
@@ -231,7 +231,7 @@ Sebagian besar ditemukan di pantai selatan {{% ex "https://maps.app.goo.gl/3KbQC
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="arundo_donax_habitus_2009december13.jpg" width="60%">
+<img src="/rule/europe/france/arundo_donax_habitus_2009december13.jpg" width="60%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -259,7 +259,7 @@ Sebagian besar ditemukan di pantai selatan {{% ex "https://maps.app.goo.gl/3KbQC
 {{% tabs %}}
 {{% tab "市外局番①" %}}
 <div class="googlemap-if">
-<p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
+<p><img src="/rule/europe/france/800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a></p>
 </div>
 
@@ -269,7 +269,7 @@ Nomor telepon di Prancis terdiri dari lima set angka dua digit. Dua digit pertam
 {{% /tab %}}
 {{% tab "市外局番②" %}}
 <div class="googlemap-if">
-<p><img src="./clip/FR-area-code.png" width="60%" class="no-click"/></p>
+<p><img src="/rule/europe/france/clip/FR-area-code.png" width="60%" class="no-click"/></p>
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a>, dengan modifikasi.</p>
 </div>
 {{% notice info %}}
@@ -300,7 +300,7 @@ Peta ini dibuat berdasarkan masukan dari komentar. Pola yang berguna: `02 9x` me
 Di sepanjang pantai barat, terutama pulau-pulau kecil, terdapat banyak rumah satu lantai dengan dinding putih {{% ex "https://maps.app.goo.gl/QimqAJD4P657jTA28" "https://maps.app.goo.gl/aTgWzzyrjjFcdZm87" %}}. Jendela sering kali memiliki penutup berwarna {{% ex "https://maps.app.goo.gl/ekqrbhxKqtuHAMsW7" "https://maps.app.goo.gl/L1wRU7cPbYt4sQ2b7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./960px-Stockrosen_01.jpg" width="600px">
+<img src="/rule/europe/france/960px-Stockrosen_01.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "Sekitar Luberon" %}}
@@ -308,7 +308,7 @@ Di sepanjang pantai barat, terutama pulau-pulau kecil, terdapat banyak rumah sat
 Terdapat dinding batu yang dibangun dari lapisan batu putih tipis yang ditumpuk {{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./stone_houses_village_luberon.jpg" width="600px">
+<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "Semenanjung Brittany & Pegunungan Pyrenees" %}}
@@ -316,7 +316,7 @@ Terdapat dinding batu yang dibangun dari lapisan batu putih tipis yang ditumpuk 
 Di daerah dengan ketersediaan slate (batu serpih hitam) seperti {{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "Brittany" %}}, rumah sering memiliki atap hitam. Misalnya, di semenanjung Brittany bagian barat laut terdapat banyak rumah dengan dinding batu atau bangunan berbatu {{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}. Berdasarkan Wikipedia {{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}, slate banyak diproduksi di semenanjung barat laut, sekitar Corrèze di tengah {{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}, dan sekitar Pegunungan Pyrenees. Untuk detail lebih lanjut, lihat peta di <a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
+<img src="/rule/europe/france/bretagne_finistere_crozon_2005.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "Sekitar Swiss" %}}
@@ -324,7 +324,7 @@ Di daerah dengan ketersediaan slate (batu serpih hitam) seperti {{% ref "https:/
 Terdapat rumah-rumah yang dibangun menggunakan papan kayu {{% ex "https://maps.app.goo.gl/CaiPqBqKeWya1M9E9" "https://maps.app.goo.gl/wC6jew26i2k6QZum8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./france_houses_houses_france.jpg" width="600px">
+<img src="/rule/europe/france/france_houses_houses_france.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "Sekitar Belgia" %}}
@@ -332,7 +332,7 @@ Terdapat rumah-rumah yang dibangun menggunakan papan kayu {{% ex "https://maps.a
 Banyak ditemukan rumah berbahan bata {{% ex "https://maps.app.goo.gl/sdhnnPMNWekVVPfN8" %}}. Foto ini diambil dari kota Auby.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./auby_town_hall_france.jpg" width="600px">
+<img src="/rule/europe/france/auby_town_hall_france.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -374,7 +374,7 @@ Sumber grafik: Swinnen, Johan, Pavel Ciaian, and d’Artis Kancs. *Study on the 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="pointer-events: none;">
-<img src="./Map-of-France-with-the-various-types-of-farming.png">
+<img src="/rule/europe/france/Map-of-France-with-the-various-types-of-farming.png">
 </div>
 
 {{% /tab %}}
@@ -413,7 +413,7 @@ Berikut adalah tanda di kota <a href="https://goo.gl/maps/kjcz9N3tpU6ETf4d8">Tou
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-24-12-29-20.png" width="320px"/>
+<img src="/rule/europe/france/2023-07-24-12-29-20.png" width="320px"/>
 </div>
 
 {{% /tab %}}
@@ -450,7 +450,7 @@ Karena alasan historis, tulisan Prancis pada tanda sering dirusak atau dilubangi
 Meskipun pulau kecil, Corsica memiliki rangkaian pegunungan dengan ketinggian lebih dari 2.500 m. Jalan-jalan di pedalaman, seperti D27, sering menawarkan pemandangan pegunungan curam {{% ex "https://maps.app.goo.gl/Hxm2crynhhezEh4r6" "https://maps.app.goo.gl/Tea7jn3cAhudXzdR6" %}}. Selain bagian pesisir timur, hampir tidak ada dataran, dan 40% wilayahnya adalah taman alam yang mempertahankan keindahan alamnya. Jika area terlihat pegunungan, memiliki hutan alami (bukan hasil reboisasi), dan tanpa aktivitas pertanian, pertimbangkan pulau ini {{% ex "https://maps.app.goo.gl/YoyDz1XdcxPSyEAn9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corsica_coast_coastal_road_1.jpg" width="95%">
+<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Pulau Noirmoutier" %}}
@@ -458,7 +458,7 @@ Meskipun pulau kecil, Corsica memiliki rangkaian pegunungan dengan ketinggian le
 Pulau Noirmoutier merupakan lahan basah yang terdaftar dalam Konvensi Ramsar dan sangat datar, sebuah pemandangan yang cukup langka di Prancis {{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "Pulau Noirmoutier" %}}. Daerah ini memiliki banyak saluran air dan tumbuhan air yang mengapung. Pemandangan ini juga mirip dengan pulau-pulau lain di barat, seperti Pulau Oléron {{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}} atau Pulau Ré {{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./salt_marshes_salt_noirmoutier.jpg">
+<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Pulau Porquerolles" %}}
@@ -466,7 +466,7 @@ Pulau Noirmoutier merupakan lahan basah yang terdaftar dalam Konvensi Ramsar dan
 Pulau Porquerolles memiliki banyak jalan yang tidak beraspal dan tanda berwarna kuning {{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}. Iklimnya Mediterania, dengan vegetasi yang tampak hangat dan tropis {{% ref "https://en.wikipedia.org/wiki/Porquerolles" "Porquerolles" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
+<img src="/rule/europe/france/tree_twisted_tortuous_porquerolles.jpg" width="90%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -486,7 +486,7 @@ Pulau Porquerolles memiliki banyak jalan yang tidak beraspal dan tanda berwarna 
 Teluk karst yang khas, banyak ditemukan di luar kota Marseille {{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}. Daerah ini juga sering memiliki tiang listrik berlubang atau jenis tiang listrik Chile, jadi perlu perhatian khusus.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./vudeniolon2.jpg" width="95%">
+<img src="/rule/europe/france/vudeniolon2.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Col de la Bonette Pass" %}}
@@ -494,7 +494,7 @@ Teluk karst yang khas, banyak ditemukan di luar kota Marseille {{% ex "https://m
 Jalan D64 melewati Col de la Bonette, yang sering disebut sebagai salah satu jalan tertinggi di Eropa {{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./high_alps_pass_road.jpg" width="95%">
+<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Gunung Aiguille de la Grande Sassière" %}}
@@ -519,7 +519,7 @@ Distrik administratif Paris dimulai dari Louvre (nomor 1) dan bertambah secara s
 Di dekat persimpangan jalan, dinding bangunan sering memiliki pelat bertuliskan nama jalan dan distrik administratif, seperti ‘●●ARR, RUE ◆◆’. Contoh pada pelat di bawah menunjukkan distrik ke-8 Paris.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

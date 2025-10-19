@@ -30,7 +30,7 @@ Kura-kura raksasa Galápagos dapat ditemukan{{% ex "https://maps.app.goo.gl/qbTu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./galapagos_tortoise_giant_tortoise.jpg" width="90%">
+<img src="/rule/cs_america/galapagos_islands/galapagos_tortoise_giant_tortoise.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

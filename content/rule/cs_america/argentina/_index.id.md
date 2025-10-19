@@ -38,7 +38,7 @@ sc: [
 Pelat nomor terlihat <span class="quiz">hitam di tengah</span> saat dimosaikkan {{% ex "https://maps.app.goo.gl/u7uQxHHTZA19YShW7" "https://maps.app.goo.gl/9myJgmbTH5K1bKLH8" "https://maps.app.goo.gl/7DaWy9xsURK71AqD8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./taxi.jpg" width="90%">
+<img src="/rule/cs_america/argentina/taxi.jpg" width="90%">
 </div>
 {{% lb 50 small %}}
 ![](2023-04-12-11-42-57.png)
@@ -50,7 +50,7 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 Foto setelah tahun 2016 mungkin tidak lagi menunjukkan pelat hitam {{% ex "https://maps.app.goo.gl/eSddvfJy8YGF2dhP7" "https://maps.app.goo.gl/SHySfeMTe3cp738C9" "https://maps.app.goo.gl/vScY9xz2wKZpXhDj7" %}}. Negara-negara anggota Mercosur menggunakan pelat nomor biru yang seragam {{% ref "https://www.mofa.go.jp/mofaj/area/latinamerica/keizai/mercosur/index.html" "MOFA - Mercosur" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Placas_de_veículos_do_Mercosul_mercosur.jpg">
+<img src="/rule/cs_america/argentina/Placas_de_veículos_do_Mercosul_mercosur.jpg">
 </div>
 
 {{% notice tip %}}
@@ -64,14 +64,14 @@ Mobil Google Car sering berwarna <span class="quiz">hitam</span> {{% ex "https:/
 Tanda jalan di Argentina sering kali khas dan bisa ditemukan di Uruguay juga.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-sign.jpg" width="90%">
+<img src="/rule/cs_america/argentina/road-sign.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 Plakat kecil dengan nomor jalan mungkin ditemukan di tepi jalan {{% ex "https://maps.app.goo.gl/HbiufkgCGYbvbKpB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./2011_101_18_140540.jpg" width="95%" />
+<img src="/rule/cs_america/argentina/2011_101_18_140540.jpg" width="95%" />
 </div>
 <div class="googlemap-if unclickable">
 <img src="https://geopinning.space/rule/cs_america/argentina/r/road-sign.png" width="170px">
@@ -81,7 +81,7 @@ Plakat kecil dengan nomor jalan mungkin ditemukan di tepi jalan {{% ex "https://
 SPBU milik perusahaan minyak YPF (Yacimientos Petrolíferos Fiscales) dengan tanda biru bisa ditemukan di Argentina {{% ex "https://maps.app.goo.gl/CetzCF3MWpnLapD89" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./junin_av_republica_20060428.jpg" width="90%" />
+<img src="/rule/cs_america/argentina/junin_av_republica_20060428.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
@@ -113,7 +113,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Timur Laut" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/2.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/2.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -124,7 +124,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Tengah Utara" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/1.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/1.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -135,7 +135,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Sekitar Provinsi Jujuy" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/6.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/6.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -146,7 +146,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Dekat Perbatasan Chili" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/4.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/4.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -157,7 +157,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Tengah Timur" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/5.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/5.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -168,7 +168,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Selatan" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/3.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/3.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -182,7 +182,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% notice tip %}}Berikut adalah peta wilayah produksi jagung{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Argentina_Corn.png" width="90%">
+<img src="/rule/cs_america/argentina/Argentina_Corn.png" width="90%">
 </div>
 
 {{% /tab %}}
@@ -209,7 +209,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Taksi" %}}
 <div class="googlemap-if">
-<img src="taxi_argentino.jpg">
+<img src="/rule/cs_america/argentina/taxi_argentino.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

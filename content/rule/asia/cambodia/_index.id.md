@@ -117,7 +117,7 @@ Ladang jagung dan sawah hampir tidak ada di bagian timur (sebelah timur jalan no
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Cambodia_Rice.png" width="600px">
+<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}
@@ -149,7 +149,7 @@ Di dekat perbatasan barat, terdapat tebing-tebing batu yang curam {{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./img_163_9714.jpg" width="95%">
+<img src="/rule/asia/cambodia/img_163_9714.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Tonlé Sap" %}}
@@ -158,7 +158,7 @@ Di Danau Tonlé Sap terdapat desa rumah perahu unik di atas air {{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./kompong_phluk_kompong_tour_2.jpg" width="95%">
+<img src="/rule/asia/cambodia/kompong_phluk_kompong_tour_2.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Kampot" %}}
@@ -176,8 +176,8 @@ Siem Reap memiliki Angkor Wat dan Candi Bayon {{% ex "https://maps.app.goo.gl/Ao
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./angkor_wat_cambodia_angkor.jpg" width="95%">
-<img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%">
+<img src="/rule/asia/cambodia/angkor_wat_cambodia_angkor.jpg" width="95%">
+<img src="/rule/asia/cambodia/cambodia_angkor_temple_bayon_2.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Preăh Seihânŭ" %}}

@@ -47,21 +47,21 @@ sc: [
 Cars drive on the <span class="quiz">left side</span>. {{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}. Vehicles travel on the left, and signs are also positioned on the left.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./landscape_rural_farming_sugar.jpg" width="95%">
+<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 There are many <span class="quiz">eucalyptus</span> trees. Utility poles are often made of green wooden eucalyptus {{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}} or steel to protect against termites. {{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="95%" alt="Australian utility pole">
+<img src="/rule/oceania/australia/up.png" width="95%" alt="Australian utility pole">
 </div>
 
 {{% notice tip %}}
 Australian bollards typically have red reflective panels on only one side, and the red area is smaller. {{% ex "https://maps.app.goo.gl/m3hGyoS5R2qaVR2P9" "https://maps.app.goo.gl/NKbGDe7paHKkTRNz8" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}. Left: <span class="quiz">Australia</span>; Right: <span class="quiz">New Zealand</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="90%">
+<img src="/rule/oceania/australia/bollard.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ The font used for road numbers differs between Australia and South Africa. Left:
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-03-02-54-05.png" width="80%">
+<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -127,7 +127,7 @@ A broad classification of ecosystems near Australia. (Source: By Terpsichores - 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-28-23-57-39.png">
+<img src="/rule/oceania/australia/2023-04-28-23-57-39.png">
 </div>
 {{% /tab %}}
 {{% tab "Western Coastal Area" %}}
@@ -195,7 +195,7 @@ The same type of poles can also be found on the Furneaux Islands {{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./spring_street_sheffield_20070422.jpg" width="95%">
+<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "QLD (Queensland)" %}}
@@ -237,7 +237,7 @@ The same type of poles can also be found on the Furneaux Islands {{% ex "https:/
 {{% tabs %}}
 {{% tab "Yellow Poles" %}}
 <div class="googlemap-if">
-<img src="./yellow-pole.jpg" width="95%">
+<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -251,7 +251,7 @@ VicRoads is a government joint venture company in Victoria, Australia {{% by "ht
 </div>
 
 <div class="googlemap-if">
-<img src="VicRoads_Logo_2009.gif" width="200px">
+<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

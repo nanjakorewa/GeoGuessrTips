@@ -40,21 +40,21 @@ Bahasa Korea digunakan, dan tiang listrik memiliki pola <b>miring</b> berwarna k
 Banyak ditemukan pohon pinus {{% ex "https://goo.gl/maps/3zTkaxuoTkprerHk6" "https://goo.gl/maps/ZesPrE19f3cJ8rDu9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./republic_korea_stone_wall.jpg" width="90%">
+<img src="/rule/asia/korea/republic_korea_stone_wall.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 Terdapat bollard dengan bentuk yang khas {{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_roadside_in_mountainous.jpg" width="90%">
+<img src="/rule/asia/korea/korean_roadside_in_mountainous.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
 Rambu peringatan berwarna oranye {{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_sign_traffic_signs.jpg" width="95%">
+<img src="/rule/asia/korea/korean_sign_traffic_signs.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ Rambu peringatan berwarna oranye {{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7
 Terdapat daerah pegunungan di bagian pedalaman timur laut dan barat daya.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./topolgraphic.png" width="500px"><p>
+<p><img src="/rule/asia/korea/topolgraphic.png" width="500px"><p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2665772">Link</a></p>
 </div>
 {{% /tab %}}
@@ -96,8 +96,8 @@ Pulau vulkanik berbentuk oval dengan tanah yang cenderung berwarna hitam, mirip 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./1080px-Jeju_Island_3D_2012.jpg" width="600px">
-<img src="./jeju_island_korea_road.jpg" width="600px">
+<img src="/rule/asia/korea/1080px-Jeju_Island_3D_2012.jpg" width="600px">
+<img src="/rule/asia/korea/jeju_island_korea_road.jpg" width="600px">
 </div>
 {{% /tab %}}
 {{% tab "Hanok" %}}
@@ -106,8 +106,8 @@ Meskipun gambar rumah biasanya tidak terlihat dari luar, gaya tradisional Hanok 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Korea-Seoul-Namsangol-03.jpg" width="350px">
-<img src="./477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px">
+<img src="/rule/asia/korea/960px-Korea-Seoul-Namsangol-03.jpg" width="350px">
+<img src="/rule/asia/korea/477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px">
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Rumah di bagian selatan, tetapi tembok dalam rumah biasanya tidak terlihat dari 
 Hampir seluruh area, kecuali di bagian tenggara yang sedikit memiliki jalan, adalah lahan pertanian. Tanah dan dinding batu berwarna hitam, mirip dengan Jeju, tetapi hampir tidak ada hutan maupun gunung tinggi. {{% ex "https://maps.app.goo.gl/V4yAFVSjnbBf1JKbA" "https://maps.app.goo.gl/kYEQHvdxcrT731FW7" "https://maps.app.goo.gl/BuNwwejxvTr4YZN88" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./jeju_island_nature_korea.jpg">
+<img src="/rule/asia/korea/jeju_island_nature_korea.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

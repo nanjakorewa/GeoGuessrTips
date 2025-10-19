@@ -40,7 +40,7 @@ Di daerah dengan bukit rendah, sering ditemukan pohon kelapa di pinggir jalan. {
 Meskipun data terbaru tidak tersedia, PDB per kapita di wilayah ini tergolong tinggi dibandingkan wilayah lain di India, sebanding dengan Goa atau Kerala. Banyak rumah bertingkat dua atau tiga lantai. {{% ex "https://maps.app.goo.gl/U31E9SG9yLDz841T7" "https://maps.app.goo.gl/2LMw8TFRoYP3K6n77" %}} {{% ref "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hyouka/kunibetu/gai/india/pdfs/kn09_03_01.pdf" "Bab 3: Gambaran dan Kondisi Umum India" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%">
+<img src="/rule/asia/aani/960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Bagian atas tiang listrik terlihat seperti ini. {{% ex "https://maps.app.goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="poletop.png" width="300px">
+<img src="/rule/asia/aani/poletop.png" width="300px">
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ Wilayah ini memiliki iklim tropis monsun, dan pohon kelapa yang tinggi sering di
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../india/arecanut_trees_assam.jpg">
+<img src="/rule/asia/india/arecanut_trees_assam.jpg">
 </div>
 
 {{% /tab %}}

@@ -38,14 +38,14 @@ sc: [
 Los bolardos están <span class="quiz">pintados de rojo</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./nz-bollard.png" width="95%" alt="Bolardos en Nueva Zelanda" />
+<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="Bolardos en Nueva Zelanda" />
 </div>
 
 {{% notice tip %}}
 Algo está enrollado en la parte superior de los postes eléctricos{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}. También hay postes con agujeros{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="90%" alt="Postes eléctricos en Nueva Zelanda" />
+<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="Postes eléctricos en Nueva Zelanda" />
 </div>
 
 {{% notice tip %}}
@@ -75,14 +75,14 @@ Si el texto GIVE WAY está escrito en negro, es <span class="quiz">Australia</sp
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="./tokoroa_near_mannering_street.jpg">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg">
 </div>
 
 {{% notice tip %}}
 Más del 40% del territorio de Nueva Zelanda es pastizal{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Gracias a lluvias regulares durante todo el año, los pastos crecen fácilmente, lo que reduce los costos de producción para los agricultores. Por esto, los productos lácteos de Nueva Zelanda son competitivos a nivel mundial{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Organización para la Promoción de la Agricultura y la Ganadería: Situación de los lácteos en Nueva Zelanda" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./img_1492_27.jpg" width="95%">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ Hay señales de advertencia amarillas{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./homer_tunnel_east.jpg">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg">
 </div>
 
 {{% notice tip %}}
@@ -108,7 +108,7 @@ Las señales y los chevrones están montados en postes blancos de madera{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./whitepole.jpg" width="400px">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px">
 </div>
 
 {{% /tab %}}
@@ -193,7 +193,7 @@ La zona alrededor de Christchurch es plana y tiene muchos cortavientos altos {{%
 Hay cortavientos para proteger los cultivos del viento del océano, pero no tantos como en la llanura de Canterbury {{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./wv_banner_bay_plenty.jpg">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg">
 </div>
 {{% /tab %}}
 
@@ -202,7 +202,7 @@ Hay cortavientos para proteger los cultivos del viento del océano, pero no tant
 Esta planta, común en la región mediterránea, crece a lo largo de las costas de la Isla Norte, especialmente cerca de Auckland {{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax (iNaturalist)" %}}. En el extremo sur, también se encuentra en la costa cerca de Christchurch.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="arundo_donax_variegata_j.jpg">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -222,7 +222,7 @@ Si ves una montaña similar al Monte Fuji, probablemente estés cerca del parque
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./mountain_mt_egmont_mt.jpg">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg">
 </div>
 {{% /tab %}}
 
@@ -233,7 +233,7 @@ Un sendero de ciclismo muy largo. A menudo se pueden ver objetos rojos {{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./rail_trail_going_north_0.jpg">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -266,7 +266,7 @@ Antiguo sitio de producción de azufre, abandonado debido a desastres volcánico
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./derelict_sulphur_factory_building.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%">
 </div>
 {{% /tab %}}
 
@@ -277,7 +277,7 @@ Patrimonio de la humanidad que alberga colonias de pingüinos. Es un área restr
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./antipodes_penguin.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

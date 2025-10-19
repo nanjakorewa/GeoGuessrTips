@@ -49,7 +49,7 @@ Di {{% goto "../colombia/" "Kolombia" %}}, tiang berwarna putih dengan tanda sil
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%" />
+<img src="/rule/cs_america/ecuador/road.jpg" width="90%" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, dengan modifikasi gambar
@@ -59,7 +59,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 Guardrail di Ekuador sering kali <b>berlapis ganda</b>{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="540px-Banos-Puyo.jpg">
+<img src="/rule/cs_america/ecuador/540px-Banos-Puyo.jpg">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Tiang listrik dengan lubang atau pola sekat kecil hampir tidak ditemukan di nega
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="pole.jpg" width="95%" />
+<img src="/rule/cs_america/ecuador/pole.jpg" width="95%" />
 </div>
 
 {{% notice tip %}}
@@ -75,7 +75,7 @@ Kendaraan komersial seperti taksi atau truk memiliki plat nomor berwarna <span c
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./palanda_ecuador_truck.jpg" width="90%">
+<img src="/rule/cs_america/ecuador/palanda_ecuador_truck.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -161,7 +161,7 @@ Terdapat berbagai jenis tiang listrik.
 Perkebunan kelapa sawit ditemukan di area dengan lingkaran merah, terutama di dekat perbatasan Kolombia dan sepanjang jalan E20{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}.{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - Laporan Divisi Penilaian Produksi Internasional" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-23-04-26-04.png" width="90%">
+<img src="/rule/cs_america/ecuador/2023-05-23-04-26-04.png" width="90%">
 </div>
 
 {{% /tab %}}
@@ -171,7 +171,7 @@ Sawah banyak ditemukan di daerah sekitar sungai seperti Sungai Babahoyo yang men
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Ecuador_Rice.png" width="90%">
+<img src="/rule/cs_america/ecuador/Ecuador_Rice.png" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Pisang" %}}
@@ -179,7 +179,7 @@ Sawah banyak ditemukan di daerah sekitar sungai seperti Sungai Babahoyo yang men
 Perkebunan pisang banyak ditemukan di daerah dataran rendah{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "Wilayah Perkebunan Pisang Ekuador" %}}. Proporsi produksi terbesar ada di Los Ríos (37,14%), Guayas (32,25%), dan El Oro (24,12%).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="640px-Culture_de_bananes.jpg" width="90%">
+<img src="/rule/cs_america/ecuador/640px-Culture_de_bananes.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -189,7 +189,7 @@ Foto berikut menunjukkan plat nomor dengan huruf awal 'P', sehingga dapat diperk
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rue_de_riobamba.jpg" width="500">
+<img src="/rule/cs_america/ecuador/rue_de_riobamba.jpg" width="500">
 </div>
 {{% /tab %}}
 
@@ -209,7 +209,7 @@ Vegetasi di daerah ini terlihat seperti ini{{% ex "https://maps.app.goo.gl/uwHFo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pichincha1a.jpg" width="95%">
+<img src="/rule/cs_america/ecuador/pichincha1a.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

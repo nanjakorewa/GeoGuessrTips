@@ -39,7 +39,7 @@ Bahasa Kazakh dan Rusia digunakan. Google Car terlihat {{% ex "https://maps.app.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./img_6003.jpg" width="90%">
+<img src="/rule/asia/kazakhstan/img_6003.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ Pada beberapa pelat nomor, bendera berwarna biru muda Kazakhstan terlihat di sis
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="Казахстан2012-01.gif" class="resolution-small" width="50%" />
+<img src="/rule/asia/kazakhstan/Казахстан2012-01.gif" class="resolution-small" width="50%" />
 {{% /lb %}}
 
 {{% /tab %}}

@@ -41,7 +41,7 @@ Central Thai is the official language{{% ex "https://goo.gl/maps/42vxjK3DUGysPFV
 If the bollards{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}} and utility poles{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}} are angular, it may be Thailand. However, please note that similar angular bollards can be found in Laos, and you can find angular utility poles in {{% goto "../srilanka/" "Sri Lanka" %}} and the {{% goto "../philippines/" "Philippines" %}}. If the license plate is yellow, the coils on the utility poles are large, or there are holey poles, you may be thinking of Sri Lanka, and if your car has a greenish license plate number or a unique-shaped vehicle, you may be thinking of the Philippines.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./thailand-milestone.jpg" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
+<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
 </div>
 
 <div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
@@ -53,7 +53,7 @@ There are white bollards, which can also be used to narrow down the location{{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./thailand-milestone.jpg" width="90%" alt="タイのボラード" />
+<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="タイのボラード" />
 </div>
 
 {{% notice tip %}}In Thailand, driving is on the left side of the road. Most ordinary passenger cars have white license plates, and cabs have yellow license plates. In Laos, standard cars are yellow and drive on the right side of the road.
@@ -131,7 +131,7 @@ Thai is the official language.
 {{% tabs %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-21-15-43.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -140,7 +140,7 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 {{% /tab %}}
 {{% tab "Oil palms" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-21-17-28.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -149,7 +149,7 @@ If oil palm can be found, consider the lowlands to the south.
 {{% /tab %}}
 {{% tab "Rubberwood" %}}
 <div class="googlemap-if unclickable">
-<img src="rubber-tree-distribution.png" width="60%" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -158,7 +158,7 @@ If oil palm can be found, consider the lowlands to the south.
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-21-18-17.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" />
 </div>
 
 {{% notice tip %}}

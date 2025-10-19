@@ -41,14 +41,14 @@ Se utiliza el idioma bengalí{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./lawachara_national_park_srimongol_11.jpg">
+<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg">
 </div>
 
 {{% notice tip %}}
 Bolardos con <span class="quiz">rayas rojas y blancas</span>{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}, comúnmente alineados a ambos lados de los caminos cerca de puentes{{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollards.png" width="90%" alt="Bolardos en Bangladesh" />
+<img src="/rule/asia/bangladesh/bollards.png" width="90%" alt="Bolardos en Bangladesh" />
 </div>
 
 {{% notice tip %}}
@@ -72,7 +72,7 @@ Los vehículos comerciales tienen matrículas de color <span class="quiz">verde<
 En los coches de Google en Bangladesh, a veces se refleja un <span class="quiz">espejo rojo</span>{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}} (ver ejemplos).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc.jpg" width="600px">
+<img src="/rule/asia/bangladesh/gc.jpg" width="600px">
 </div>
 
 {{% /tab %}}
@@ -138,7 +138,7 @@ Más del 90% de la soya en Bangladesh se produce en la región entre Dhaka y Chi
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-52-31.png" width="90%">
+<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%">
 </div>
 
 {{% /tab %}}

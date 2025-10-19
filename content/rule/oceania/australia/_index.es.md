@@ -47,14 +47,14 @@ sc: [
 Los vehículos circulan por el lado <span class="quiz">izquierdo</span>{{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}. Se puede observar que conducen por la izquierda y las señales también están a la izquierda.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./landscape_rural_farming_sugar.jpg" width="95%">
+<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Abundan los árboles de <span class="quiz">eucalipto</span>. Los postes eléctricos suelen ser de madera verde de eucalipto {{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}} o, debido a medidas contra termitas, están hechos de hierro {{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="95%" alt="Postes eléctricos en Australia" />
+<img src="/rule/oceania/australia/up.png" width="95%" alt="Postes eléctricos en Australia" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Los bolardos en Australia tienen reflectores rojos únicamente en un lado, y las
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="90%">
+<img src="/rule/oceania/australia/bollard.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -75,7 +75,7 @@ La tipografía de los números de carreteras es diferente entre Australia y Sud�
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-03-02-54-05.png" width="80%">
+<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -129,7 +129,7 @@ Clasificación aproximada de los ecosistemas en Australia. (Fuente: By Terpsicho
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-28-23-57-39.png" />
+<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" />
 </div>
 {{% /tab %}}
 {{% tab "Costa occidental" %}}
@@ -197,7 +197,7 @@ Se pueden encontrar postes similares en las Islas Furneaux {{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./spring_street_sheffield_20070422.jpg" width="95%">
+<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%">
 </div>
 {{% /tab %}}
 
@@ -245,7 +245,7 @@ Consejos sobre postes eléctricos en <a href="https://twitter.com/hashtag/GeoGue
 {{% tabs %}}
 {{% tab "Postes Amarillos" %}}
 <div class="googlemap-if">
-<img src="./yellow-pole.jpg" width="95%">
+<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -260,7 +260,7 @@ VicRoads es una corporación gubernamental del estado de Victoria, Australia {{%
 </div>
 
 <div class="googlemap-if">
-<img src="VicRoads_Logo_2009.gif" width="200px">
+<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

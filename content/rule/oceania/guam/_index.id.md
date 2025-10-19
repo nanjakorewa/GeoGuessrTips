@@ -47,7 +47,7 @@ Google Car memiliki ciri khas dengan antena panjang di bagian depan kanan. Tidak
 Ada lokasi di mana Anda bisa berjalan di atas pasir pantai, dan sering terlihat hotel wisata bertingkat tinggi {{% ex "https://maps.app.goo.gl/VfVdmZoRViGfFB9V6" "https://maps.app.goo.gl/iesPnEJB7xNqa5Mv6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./hotel_nikko_guam.jpg" width="95%">
+<img src="/rule/oceania/guam/hotel_nikko_guam.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Rumah" %}}

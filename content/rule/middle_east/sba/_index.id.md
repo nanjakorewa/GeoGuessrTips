@@ -37,7 +37,7 @@ Bollard putih yang khas dapat ditemukan{{% ex "https://maps.app.goo.gl/tkMJ73XJH
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Road_To_Pafos.jpg" width="90%">
+<img src="/rule/middle_east/sba/Road_To_Pafos.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -45,8 +45,8 @@ Terdapat tulisan dalam bahasa Inggris, Yunani, dan Turki{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px">
-<img src="./turkish_republic_northern_cyprus_0.jpg" width="300px">
+<img src="/rule/middle_east/sba/bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px">
+<img src="/rule/middle_east/sba/turkish_republic_northern_cyprus_0.jpg" width="300px">
 </div>
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ Ada label kuning pada tiang listrik{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidY
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
+<img src="/rule/middle_east/sba/971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
 </div>
 
 {{% notice tip %}}

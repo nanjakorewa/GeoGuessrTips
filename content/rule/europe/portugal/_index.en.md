@@ -37,7 +37,7 @@ sc: [
 License plate is <span class="quiz">yellow on the right side</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" />
+<img src="/rule/europe/portugal/car.jpg" width="90%" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-00-36.png)
@@ -51,7 +51,7 @@ Note that Utility poles in  {{% goto "../belgium/" "Belgium" %}} can also have h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="90%">
+<img src="/rule/europe/portugal/up.png" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -59,14 +59,14 @@ Only Portugal uses yellow chevrons on a black background in warmer parts of Euro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./xv-portugal.png" width="100px" style="margin:10px">
+<img src="/rule/europe/portugal/xv-portugal.png" width="100px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
 There are old cobblestone streets and sidewalks sometimes made of cobblestones{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.png" width="90%">
+<img src="/rule/europe/portugal/street.png" width="90%">
 </div>
 
 

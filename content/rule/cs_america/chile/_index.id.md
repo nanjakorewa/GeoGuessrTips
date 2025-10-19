@@ -45,7 +45,7 @@ Meskipun jumlahnya tidak banyak, tiang listrik serupa juga dapat ditemukan di {{
 
 
 <div class="googlemap-if no-margin">
-<img src="./pole-example.png" width="199px" height="640px">
+<img src="/rule/cs_america/chile/pole-example.png" width="199px" height="640px">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="IMG_8443"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em; margin-top:0; padding-top:0;">
@@ -69,7 +69,7 @@ Tumbuhan genus Lupinus dapat ditemukan tumbuh di sepanjang jalan, biasanya denga
 Banco de Chile, salah satu bank komersial terbesar di Chili.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="Banco_de_Chile_logo.svg" />
+<img src="/rule/cs_america/chile/Banco_de_Chile_logo.svg" />
 </div>
 
 {{% /tab %}}
@@ -78,14 +78,14 @@ Banco de Chile, salah satu bank komersial terbesar di Chili.
 Bollard atau reflektor di pagar jalan sering berwarna kuning {{% ex "https://maps.app.goo.gl/MDnjhyhUKNu4Y7zy9" %}}, yang mirip dengan {{% goto "../../europe/spain/" "Spanyol" %}}. Penanda kecepatan tanpa bingkai juga menyerupai Spanyol, sehingga perlu berhati-hati.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./chile_panamericana_road_landscape.jpg" width="95%">
+<img src="/rule/cs_america/chile/chile_panamericana_road_landscape.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Di Chili dan {{% goto "../bolivia/" "Bolivia" %}}, reflektor merah sering ditemukan di jalanan {{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./road.jpg" width="90%" /></p>
+<p><img src="/rule/cs_america/chile/road.jpg" width="90%" /></p>
 <p>By [-_-] JORGE - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/graficmedia/27486177645/">https://www.flickr.com/photos/graficmedia/27486177645/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100162985">Tautan</a></p>
 </div>
 {{% /tab %}}
@@ -143,7 +143,7 @@ Daerah dengan batas merah adalah daerah dengan produksi anggur terbanyak, dan ke
 Mungkin jumlahnya tidak terlalu banyak{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CI" "USDA Chile Production" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./Chile_Corn.png" width="500px">
+<img src="/rule/cs_america/chile/Chile_Corn.png" width="500px">
 </div>
 
 <div class="googlemap-if">
@@ -156,7 +156,7 @@ Mungkin jumlahnya tidak terlalu banyak{{% ref "https://ipad.fas.usda.gov/country
 Untuk distribusinya, lihat referensi seperti plonkit{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./chilean_rhubarb_rhubarb_598355.jpg" width="80%">
+<img src="/rule/cs_america/chile/chilean_rhubarb_rhubarb_598355.jpg" width="80%">
 </div>
 
 {{% /tab %}}
@@ -186,7 +186,7 @@ Di sekitar lintasan E-375.
 Gunung-gunung sekitar Santiago de Chile yang memiliki pohon dan rumput yang jarang tumbuh sangat mengesankan{{% ex "https://maps.app.goo.gl/dVSxxebR5NrCaQAF9" "https://maps.app.goo.gl/qJGQoxvp5ZQ4CF3s9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./santiago_chile_trekking_mountains.jpg">
+<img src="/rule/cs_america/chile/santiago_chile_trekking_mountains.jpg">
 </div>
 
 {{% /tab %}}
@@ -195,7 +195,7 @@ Gunung-gunung sekitar Santiago de Chile yang memiliki pohon dan rumput yang jara
 Daerah yang tertutup salju dan laut terlihat di utara. Kadang-kadang, Anda dapat melihat kendaraan seperti truk{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA" "Puerto Williams" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./puerto_williams_3.jpg">
+<img src="/rule/cs_america/chile/puerto_williams_3.jpg">
 </div>
 
 {{% /tab %}}

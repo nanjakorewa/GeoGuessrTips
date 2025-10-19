@@ -22,8 +22,8 @@ Also, since this is primarily for my notes, I might also note information that h
 
 <h2 class="no-blur">Background Images and Tools</h2>
 <dlv style="text-align:left;pointer-events:none;">
-<img src="./2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
-<img src="./2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
+<img src="/about/2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
+<img src="/about/2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
 </div>
 <br />
 <h2 class="no-blur">Privacy Policy and Disclaimer</h2>

@@ -51,7 +51,7 @@ Bagian hitam di atas bollard berbeda dengan bollard lainnya{{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bollard.jpg" width="90%">
+<img src="/rule/europe/austria/bollard.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -59,16 +59,16 @@ Seperti di {{% goto "../germany/" "Jerman" %}}, Austria juga menggunakan huruf-h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="95%">
+<img src="/rule/europe/austria/road-sign.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./s/Hinweiszeichen_13a_groß.svg" width="280px">
-<img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px">
+<img src="/rule/europe/austria/s/Hinweiszeichen_13a_groß.svg" width="280px">
+<img src="/rule/europe/austria/s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px">
+<img src="/rule/europe/germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px">
 </div>
 
 {{% notice note %}}
@@ -78,12 +78,12 @@ Di {{% goto "../slovenia/" "Slovenia" %}} dan {{% goto "../germany/" "Jerman" %}
 <div class="googlemap-if unclickable">
 
 <div class="googlemap-if" style="background-color:#eee; margin:0px 100px 0 100px;padding-top:35px;border-radius:10px;">
-<img src="../slovenia/r/Slovenia_road_sign_III-84.svg" width="160px">
-<img src="../slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px">
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-84.svg" width="160px">
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px">
 </div>
 
 <div class="googlemap-if" style="background-color:#eee; margin:10px 100px 0 100px;padding-top:35px;border-radius:10px;">
-<img src="../germany/r/route-sign.svg" width="150px">
+<img src="/rule/europe/germany/r/route-sign.svg" width="150px">
 <img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px">
 </div>
 </div>
@@ -93,7 +93,7 @@ Sering terlihat bahwa tanda atau papan jalan digantung dengan sesuatu seperti kl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./clip-sign.jpg" width="95%">
+<img src="/rule/europe/austria/clip-sign.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
@@ -137,7 +137,7 @@ Cobalah menuju ke lokasi dengan angka yang tertera di depan tanda. Jika di kiri,
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="wien-sign.jpg" width="90%" />
+<img src="/rule/europe/austria/wien-sign.jpg" width="90%" />
 </div>
 
 {{% /tab %}}

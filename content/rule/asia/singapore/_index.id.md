@@ -39,7 +39,7 @@ Bahkan untuk rambu segitiga atau lingkaran, tetap menggunakan papan berbentuk pe
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./joo_chiat_26.jpg" width="550">
+<img src="/rule/asia/singapore/joo_chiat_26.jpg" width="550">
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
@@ -53,14 +53,14 @@ Tempat sampah biru untuk barang daur ulang sering memiliki stiker besar yang men
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./img-recycle.jpg" width="500px">
+<img src="/rule/asia/singapore/img-recycle.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
 Tanda dalam 4 bahasa (Inggris, Mandarin, Melayu, Tamil) ditemukan di banyak tempat {{% ex "https://maps.app.goo.gl/UVdCDU1s1WJDGPz68" "https://maps.app.goo.gl/eWXodbYft29KcsiL7" "https://maps.app.goo.gl/JppGt3PJH1YoA47u5" "https://maps.app.goo.gl/4N7eTCLYKrWvmwmV9" %}}. Kadang-kadang ditemukan di {{% goto "../malaysia/" "Malaysia" %}} di area perkotaan.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./danger_keep_out_sign_6.jpg" width="90%">
+<img src="/rule/asia/singapore/danger_keep_out_sign_6.jpg" width="90%">
 </div>
 
 {{% notice tip %}}

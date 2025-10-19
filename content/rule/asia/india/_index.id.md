@@ -48,7 +48,7 @@ Bahasa yang digunakan bervariasi {{% ex "https://maps.app.goo.gl/yes28VrDXMdyNT9
 Banyak tiang listrik dengan bentuk unik {{% ex "https://maps.app.goo.gl/sJwvj52hZ86iQMcu8" "https://maps.app.goo.gl/zWBNwBjZb3PxH56a9" "https://maps.app.goo.gl/1H8yJzV7hd57wvd68" "https://maps.app.goo.gl/cq9zpypj4bMSp4zS6" "https://maps.app.goo.gl/vBUtCfTqPzgvzrEw9" %}} (lihat {{% goto "#tiang-listrik" "Tiang Listrik di India" %}}). Bentuk paling umum menyerupai "gunung" atau "jangkar" dengan tiga cabang di bagian atas {{% ex "https://maps.app.goo.gl/krcWm3Vd6u56XDYHA" "https://maps.app.goo.gl/PPzNF9sgBaV9Rw968" "https://maps.app.goo.gl/6tu7UwTgeDWXawoTA" %}}. Video berikut menunjukkan wawancara saat banjir, menampilkan tiang listrik di latar belakang.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="pole.jpg" width="90%" alt="Tiang listrik di India" />
+<img src="/rule/asia/india/pole.jpg" width="90%" alt="Tiang listrik di India" />
 </div>
 <div class="googlemap-if no-margin">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XaiWl2H-3ik?si=iv7tjX3WRcUMGn5N&amp;start=31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -58,7 +58,7 @@ Banyak tiang listrik dengan bentuk unik {{% ex "https://maps.app.goo.gl/sJwvj52h
 Sering kali kabel listrik tidak teratur.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./delhi_road_india_chaos.jpg" width="80%">
+<img src="/rule/asia/india/delhi_road_india_chaos.jpg" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -157,7 +157,7 @@ Digunakan di sekitar Ahmedabad. Perlu dicatat bahwa sumur bertangga banyak ditem
 Bentuk ◁ sering terlihat dalam karakter tulisannya.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./shambhunath_pundit_hospital_kolkata.jpg">
+<img src="/rule/asia/india/shambhunath_pundit_hospital_kolkata.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bahasa Kannada" %}}
@@ -165,7 +165,7 @@ Bentuk ◁ sering terlihat dalam karakter tulisannya.
 Digunakan di wilayah Karnataka dan sekitar Bengaluru {{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "Bahasa Kannada" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="panchayath.jpg">
+<img src="/rule/asia/india/panchayath.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bahasa Hindi" %}}
@@ -173,7 +173,7 @@ Digunakan di wilayah Karnataka dan sekitar Bengaluru {{% ref "https://ja.wikiped
 Bahasa Hindi atau Hindustani digunakan secara alami di wilayah termasuk Delhi.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./baba_bateshwar_sewa_sansthan.jpg">
+<img src="/rule/asia/india/baba_bateshwar_sewa_sansthan.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bahasa Tamil" %}}
@@ -181,7 +181,7 @@ Bahasa Hindi atau Hindustani digunakan secara alami di wilayah termasuk Delhi.
 Banyak digunakan di sepanjang pantai Sri Lanka {{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./wcc_chennai2.jpg">
+<img src="/rule/asia/india/wcc_chennai2.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bahasa Telugu" %}}
@@ -189,7 +189,7 @@ Banyak digunakan di sepanjang pantai Sri Lanka {{% ex "https://maps.app.goo.gl/z
 Bahasa Telugu (తెలుగు) adalah bahasa resmi di negara bagian Andhra Pradesh dan Telangana. Memiliki karakter seperti "つ", "✓", atau "ｍ" di sekitar teksnya {{% ref "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "Bahasa Telugu" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./apsrtc_bus_stop_zahirabad.jpg">
+<img src="/rule/asia/india/apsrtc_bus_stop_zahirabad.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bahasa Malayalam" %}}
@@ -197,7 +197,7 @@ Bahasa Telugu (తెలుగు) adalah bahasa resmi di negara bagian Andhra P
 Digunakan di negara bagian Kerala {{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "Bahasa Malayalam" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./thirunelli_temple_frontview.jpg">
+<img src="/rule/asia/india/thirunelli_temple_frontview.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bahasa Tibet" %}}
@@ -273,7 +273,7 @@ Plat nomor menyebut nama negara bagian. Teks negara bagian lebih sering terlihat
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./india_kerala_traffic_transport.jpg" width="90%">
+<img src="/rule/asia/india/india_kerala_traffic_transport.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -282,7 +282,7 @@ Plat nomor menyebut nama negara bagian. Teks negara bagian lebih sering terlihat
 Ditemukan di seluruh wilayah, namun lebih sering di utara {{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="auto_rickshaw_vehicles_automobiles.jpg">
+<img src="/rule/asia/india/auto_rickshaw_vehicles_automobiles.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Kuning & Kuning" %}}
@@ -290,7 +290,7 @@ Ditemukan di seluruh wilayah, namun lebih sering di utara {{% by "https://youtu.
 Untuk becak kuning, coba arahkan ke <span class="quiz">selatan</span>.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="rickshaw_india_car_710154.jpg">
+<img src="/rule/asia/india/rickshaw_india_car_710154.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -314,11 +314,11 @@ Untuk becak kuning, coba arahkan ke <span class="quiz">selatan</span>.
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-13-47-23.png" width="60%" />
+<img src="/rule/asia/india/2023-05-18-13-47-23.png" width="60%" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./oil_palm_tree_plantation_1.jpg" width="60%" />
+<img src="/rule/asia/india/oil_palm_tree_plantation_1.jpg" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -327,7 +327,7 @@ Ditemukan di seluruh wilayah selatan, terutama di negara bagian Andhra Pradesh (
 {{% /tab %}}
 {{% tab "Biji Sesawi" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-14-03-20.png" width="60%" />
+<img src="/rule/asia/india/2023-05-18-14-03-20.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -341,7 +341,7 @@ Banyak ditemukan di wilayah utara, terutama area kering.
 {{% /tab %}}
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-14-07-10.png" width="60%" />
+<img src="/rule/asia/india/2023-05-18-14-07-10.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -351,7 +351,7 @@ Cobalah ke arah timur.
 {{% /tab %}}
 {{% tab "Kapas" %}}
 <div class="googlemap-if unclickable">
-<img src="IND_Cotton.png" width="60%" />
+<img src="/rule/asia/india/IND_Cotton.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -361,11 +361,11 @@ Produksi kapas berkembang pesat di Dataran Deccan yang tanahnya hitam dan subur.
 {{% /tab %}}
 {{% tab "Teh" %}}
 <div class="googlemap-if unclickable">
-<img src="Tea-producing-regions-of-India.png" width="60%" />
+<img src="/rule/asia/india/Tea-producing-regions-of-India.png" width="60%" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./tea_garden_tea_plant.jpg" width="60%" />
+<img src="/rule/asia/india/tea_garden_tea_plant.jpg" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -375,7 +375,7 @@ Ditemukan di wilayah hijau pada peta, namun wilayah dengan Street View terbatas 
 {{% /tab %}}
 {{% tab "Barley dan Gandum" %}}
 <div class="googlemap-if unclickable">
-<img src="./barley_field_wind_eddy.jpg" width="60%" />
+<img src="/rule/asia/india/barley_field_wind_eddy.jpg" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -410,7 +410,7 @@ Bangunan dari bata merah lebih umum di wilayah utara {{% ex "https://maps.app.go
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/monkey_varanasi_on_roof.jpg">
+<img src="/rule/asia/india/house/monkey_varanasi_on_roof.jpg">
 </div>
 
 {{% /tab %}}
@@ -420,7 +420,7 @@ Di wilayah selatan, rumah dengan dinding plester laterit atau dinding beton dan 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/village_asia_house_india.jpg">
+<img src="/rule/asia/india/house/village_asia_house_india.jpg">
 </div>
 
 {{% /tab %}}
@@ -429,7 +429,7 @@ Di wilayah selatan, rumah dengan dinding plester laterit atau dinding beton dan 
 Rumah-rumah di Jodhpur sering dicat biru, terutama di bagian kota tua. Bangunan seperti ini dapat ditemukan {{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "Jodhpur" %}}. Namun, bangunan biru juga ditemukan di wilayah selatan {{% ex "https://maps.app.goo.gl/MvLJ2PyfBuwdCY1k7" %}}, sehingga sulit digunakan untuk menentukan lokasi secara pasti.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house/city_blue_city_dzodhpur.jpg">
+<img src="/rule/asia/india/house/city_blue_city_dzodhpur.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -462,7 +462,7 @@ Di wilayah pesisir barat yang memiliki curah hujan tertinggi, atap rumah dibuat 
 Sama seperti Goa, wilayah ini memiliki banyak pohon kelapa yang tinggi {{% ex "https://maps.app.goo.gl/aHTmvXeGD1bsM5pq8" %}}. Rumah tradisional di Kerala cenderung bertingkat dua {{% ex "https://maps.app.goo.gl/i8FxivqpAVPrqfFXA" %}}{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "Teknik dan Warisan Arsitektur Tradisional di India dan Nepal" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="machukuzhy_sunnys_home.jpg" witdh="95%">
+<img src="/rule/asia/india/machukuzhy_sunnys_home.jpg" witdh="95%">
 </div>
 {{% /tab %}}
 {{% tab "Assam" %}}
@@ -471,7 +471,7 @@ Wilayah seperti Kerala atau Assam yang memiliki curah hujan tinggi sering memili
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="arecanut_trees_assam.jpg">
+<img src="/rule/asia/india/arecanut_trees_assam.jpg">
 </div>
 {{% notice tip %}}
 Di Assam, karena rawan gempa dan banjir, dinding rumah sering dibuat dari bahan ringan seperti bambu, dan terdapat rumah panggung {{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "Studi Perbandingan Industrialisasi dan Reproduksi Bungalow di Negara Kolonial Inggris" %}}. Dinding dari bahan berat seperti bata mudah runtuh saat gempa.
@@ -505,7 +505,7 @@ Di Assam, karena rawan gempa dan banjir, dinding rumah sering dibuat dari bahan 
 Jika terdapat <span class="quiz">lubang persegi</span> di bagian atas tiang, kemungkinan berada di kota wilayah Punjab {{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="pole2.jpg">
+<img src="/rule/asia/india/pole2.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
@@ -513,7 +513,7 @@ Jika terdapat <span class="quiz">lubang persegi</span> di bagian atas tiang, kem
 Tiang dengan stiker persegi panjang kuning mungkin ditemukan di sini {{% ex "https://maps.app.goo.gl/n8SAL2DoJua6JGMo6" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}. Namun, terkadang stiker rusak atau tertutup.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./flood_water_street_disaster.jpg" width="600">
+<img src="/rule/asia/india/flood_water_street_disaster.jpg" width="600">
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
@@ -521,7 +521,7 @@ Tiang dengan stiker persegi panjang kuning mungkin ditemukan di sini {{% ex "htt
 Tiang berlubang (Holy Poles) dapat ditemukan di Gujarat {{% ex "https://maps.app.goo.gl/cstGEuPUV8Xe6xHe7" %}}{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./telnargaam.jpg" width="600" />
+<img src="/rule/asia/india/telnargaam.jpg" width="600" />
 </div>
 {{% /tab %}}
 {{% tab "Telangana・Andhra Pradesh" %}}
@@ -568,7 +568,7 @@ Tiang dengan bentuk "キ" atau "干" sering ditemukan di Goa.
 チベット文字が街中で見られる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。また、全方位に山が見える{{% ex "https://maps.app.goo.gl/YJMVt3qx2yBeSAyR8" %}}。夏以外は空路しか通じておらず街中に空港がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./view_leh.jpg" width="90%">
+<img src="/rule/asia/india/view_leh.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -587,7 +587,7 @@ Tiang dengan bentuk "キ" atau "干" sering ditemukan di Goa.
 Tulisan dalam aksara Tibet dapat ditemukan di sekitar kota {{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}. Selain itu, gunung-gunung terlihat di segala arah {{% ex "https://maps.app.goo.gl/YJMVt3qx2yBeSAyR8" %}}. Selama musim dingin, akses hanya melalui udara, dan kota ini memiliki bandara di dalamnya.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./view_leh.jpg" width="90%">
+<img src="/rule/asia/india/view_leh.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

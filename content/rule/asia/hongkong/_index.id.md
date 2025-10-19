@@ -41,7 +41,7 @@ sc: [
 Sama seperti {{% goto "../../europe/united-kingdom/" "Inggris" %}}, plat nomor depan berwarna <span class="quiz">putih</span> dan belakang berwarna <span class="quiz">kuning</span> {{% ex "https://maps.app.goo.gl/Ua54qvCsaQWTWaVW7" "https://maps.app.goo.gl/Q3AYECtfvF8Pqegs5" "https://maps.app.goo.gl/JNBotrAX8Mv2gVPa7" "https://goo.gl/maps/vgTN6CQQDHW11s5B9" "https://maps.app.goo.gl/tbjpsqQzKwZndXPr6" %}}. Jika plat nomor berwarna hitam, pertimbangkan kemungkinan {{% goto "../macau/" "Makau" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./hongkong-car.jpg" width="95%">
+<img src="/rule/asia/hongkong/hongkong-car.jpg" width="95%">
 </div>
 
 {{% lb 50 %}}
@@ -54,7 +54,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 Tanda jalan hitam-putih dengan dua bahasa {{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}. Tanda serupa juga dapat ditemukan di {{% goto "../../europe/united-kingdom/" "Inggris" %}} atau {{% goto "../nepal/" "Nepal" %}} {{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./hk_syp_western_street_0.jpg" width="90%">
+<img src="/rule/asia/hongkong/hk_syp_western_street_0.jpg" width="90%">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -68,8 +68,8 @@ Contoh tanda jalan di {{% goto "../../europe/united-kingdom/" "Inggris" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px">
-<img src="./uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px">
+<img src="/rule/asia/hongkong/uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px">
+<img src="/rule/asia/hongkong/uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -77,8 +77,8 @@ Street View juga mencakup daerah pedesaan {{% ex "https://maps.app.goo.gl/JNm6xC
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./road/entrance_victorias_harbour_seen.jpg" width="303px">
-<img src="./road/hongkong2006_56.jpg" width="340px">
+<img src="/rule/asia/hongkong/road/entrance_victorias_harbour_seen.jpg" width="303px">
+<img src="/rule/asia/hongkong/road/hongkong2006_56.jpg" width="340px">
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Fu Tei Ha Tsuen 01.jpg" width="643px"></a></p>

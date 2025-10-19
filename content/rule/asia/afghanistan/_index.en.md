@@ -32,14 +32,14 @@ There are several instances of official coverage not displayed on the map.{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./main.jpg" width="90%" />
+<img src="/rule/asia/afghanistan/main.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
 Vehicles use <span class="quiz">white</span> license plates. Buses and taxis have yellow license plates.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
+<img src="/rule/asia/afghanistan/1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
 </div>
 
 {{% lb 50 small %}}

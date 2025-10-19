@@ -42,7 +42,7 @@ sc: [
 Terdapat papan nama dalam bahasa Inggris {{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign1.jpg" width="90%">
+<img src="/rule/asia/philippines/road-sign1.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -54,14 +54,14 @@ Di Asia, jalan beton sering ditemukan di Filipina dan {{% goto "../thai/" "Thail
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="95%">
+<img src="/rule/asia/philippines/road.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Tricycle, yaitu <span class="quiz">sepeda motor dengan gerobak atau kursi tambahan</span>, digunakan sebagai taksi. Ada juga Pedicab, yaitu sepeda dengan gerobak tambahan. Jeepney, <span class="quiz">bus berwarna mencolok</span>, juga merupakan alat transportasi utama {{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}. Pelat nomor angkutan umum seperti bus berwarna <span class="quiz">kuning</span>. Berikut adalah gambar Tricycle (kanan) dan Jeepney (kiri).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="80%">
+<img src="/rule/asia/philippines/car.jpg" width="80%">
 </div>
 
 {{% lb %}}
@@ -74,7 +74,7 @@ Oleh Christian Razukas dari Honolulu, Hawaii - Flickr, <a href="https://creative
 Kendaraan pribadi sering berwarna putih atau hijau muda {{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}。Dengan jalur kanan, kendaraan unik, dan pelat nomor kuning, putih, atau hijau muda, kemungkinan besar berada di Filipina.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car-blar-image.png" width="400px">
+<img src="/rule/asia/philippines/car-blar-image.png" width="400px">
 </div>
 
 {{% lb 50 %}}
@@ -88,7 +88,7 @@ Terdapat papan nama dari jaringan restoran cepat saji Filipina terbesar, <span c
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" />
+<img src="/rule/asia/philippines/09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -96,7 +96,7 @@ Di Asia, chevron merah-putih kemungkinan besar hanya ditemukan di Filipina dan {
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./arrow.jpg" width="95%">
+<img src="/rule/asia/philippines/arrow.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
@@ -118,7 +118,7 @@ Di Asia, chevron merah-putih kemungkinan besar hanya ditemukan di Filipina dan {
 {{% tabs %}}
 {{% tab "Bahasa Tagalog" %}}
 <div class="googlemap-if unclickable">
-<img src="./fri03sep2004_chinatown_to_gastown.jpg">
+<img src="/rule/asia/philippines/fri03sep2004_chinatown_to_gastown.jpg">
 </div>
 
 {{% notice tip %}}
@@ -237,23 +237,23 @@ Tipe tricycle seperti ini sangat umum. Sering terdapat penutup di bagian kaki pe
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="550px"/>
 </div>
 {{% /tab %}}
 
 {{% tab "Tebu" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="550px"/>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./agriculture_sugar_cane_crop.jpg" width="400px">
+<img src="/rule/asia/philippines/agriculture_sugar_cane_crop.jpg" width="400px">
 </div>
 {{% /tab %}}
 
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="550px"/>
 </div>
 
 <div class="googlemap-if">
@@ -263,7 +263,7 @@ Tipe tricycle seperti ini sangat umum. Sering terdapat penutup di bagian kaki pe
 
 {{% tab "Jagung" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="550px"/>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -290,7 +290,7 @@ Nama kota sering langsung ditulis di papan ini.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road-sign3.jpg" width="95%">
+<img src="/rule/asia/philippines/road-sign3.jpg" width="95%">
 </div>
 {{% /tab %}}
 
@@ -299,7 +299,7 @@ Nama kota sering langsung ditulis di papan ini.
 Papan ATM dari bank besar Filipina seperti BDO Unibank, Bank of the Philippine Islands, dan Metrobank biasanya mencantumkan lokasi {{% ex "https://maps.app.goo.gl/aGYK9bU5YD7gy3Th9" %}}. Bahkan banyak toko biasa yang menuliskan alamat pada papan mereka.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%">
+<img src="/rule/asia/philippines/960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -327,7 +327,7 @@ Pulau ini terletak di antara Filipina dan Taiwan {{% ex "https://maps.app.goo.gl
 GoogleCar dapat ditemukan di sini {{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corregidor_dn_st_86.jpg" width="95%">
+<img src="/rule/asia/philippines/corregidor_dn_st_86.jpg" width="95%">
 </div>
 {{% /tab %}}
 
@@ -335,7 +335,7 @@ GoogleCar dapat ditemukan di sini {{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQK
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./trekking_mountains_mountain_hiking.jpg" width="500px">
+<img src="/rule/asia/philippines/trekking_mountains_mountain_hiking.jpg" width="500px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

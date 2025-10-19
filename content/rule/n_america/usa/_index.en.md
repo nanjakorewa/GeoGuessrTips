@@ -33,8 +33,8 @@ plonkit_url: "united-states"
 <span class="quiz">Blue</span> post
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-06-18-09-00-28.png" width="184px">
-<img src="2023-06-18-09-02-09.png" width="420px">
+<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px">
+<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px">
 </div>
 
 {{% notice tip %}}
@@ -94,7 +94,7 @@ First, remember the areas that do not require a license plate on the front of th
 
 <div class="googlemap-if">
 <div class="description-wide">
-<img src="2023-03-25-14-29-11.png" class="img-main">
+<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main">
 </div>
 <div class="description-wide">
 Apparently the following rules do not apply to 100% of all.
@@ -140,7 +140,7 @@ Apparently the following rules do not apply to 100% of all.
 {{% tab "Cone" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-12-03-38.png">
+<img src="/rule/n_america/usa/2023-04-29-12-03-38.png">
 </div>
 
 {{% notice note %}}
@@ -155,7 +155,7 @@ However, corn is widely produced throughout the U.S., so the mere fact that a co
 {{% /tab %}}
 {{% tab "Soybean" %}}
 <div class="googlemap-if">
-<img src="2023-04-29-10-49-15.png">
+<img src="/rule/n_america/usa/2023-04-29-10-49-15.png">
 </div>
 
 {{% notice note %}}
@@ -166,7 +166,7 @@ Soybeans are also distributed similarly to corn{{% by "https://ipad.fas.usda.gov
 {{% tab "Rice" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-10-56-56.png">
+<img src="/rule/n_america/usa/2023-04-29-10-56-56.png">
 </div>
 
 {{% notice note %}}
@@ -182,7 +182,7 @@ Most of the rice fields are in certain areas of California and along the river t
 {{% tab "Cotton" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-11-29-30.png">
+<img src="/rule/n_america/usa/2023-04-29-11-29-30.png">
 </div>
 
 {{% notice note %}}
@@ -198,7 +198,7 @@ No sign of cotton, but white cotton may have fallen by the roadside.{{% by "http
 {{% tab "Sugarcane" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-12-00-47.png">
+<img src="/rule/n_america/usa/2023-04-29-12-00-47.png">
 </div>
 
 {{% notice note %}}
@@ -212,7 +212,7 @@ Specific areas around Florida{{% by "https://ipad.fas.usda.gov/rssiws/al/us_crop
 {{% /tab %}}
 {{% tab "Wheat" %}}
 <div class="googlemap-if">
-<img src="2023-04-29-12-07-38.png">
+<img src="/rule/n_america/usa/2023-04-29-12-07-38.png">
 </div>
 
 {{% notice note %}}

@@ -29,7 +29,7 @@ is_has_distinctive_googlecar: true
 Signs with "Curaçao" written on them can be seen.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./curacao_decoration_sign_blue.jpg" width="90%">
+<img src="/rule/cs_america/curacao/curacao_decoration_sign_blue.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -43,7 +43,7 @@ The Google Car is distinctive, featuring a black body or visible bar.{{% ex "htt
 Beaches often feature thatched umbrellas made of straw.{{% ex "https://maps.app.goo.gl/wZRikHB6fkCySM5c6" "https://maps.app.goo.gl/EDzumPkno3Dwytez8" "https://maps.app.goo.gl/ag2hThmTBT2YcBxf7" "https://maps.app.goo.gl/murYXZfkz7vah7ed6" "https://maps.app.goo.gl/E22HHRbRFfiSTF4t5" "https://maps.app.goo.gl/BZXriPrHYUhcN2HA8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./curacao_beach_sea_tropical.jpg" width="90%">
+<img src="/rule/cs_america/curacao/curacao_beach_sea_tropical.jpg" width="90%">
 </div>
 
 {{% /tab %}}

@@ -48,7 +48,7 @@ Jika ditemukan di luar Jepang, kemungkinan besar berada di wilayah seperti {{% g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="cryptomeria_japonica.jpg" width="500px">
+<img src="/rule/asia/japan/cryptomeria_japonica.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -60,7 +60,7 @@ Jangan salah membedakan kamera rendah Jepang dengan kamera rendah di {{% goto ".
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./gifu_prefectural_road_85.jpg" width="90%">
+<img src="/rule/asia/japan/gifu_prefectural_road_85.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ Terdapat guardrail berwarna putih di tepi jalan.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./rural_unpaved_road_waving.jpg" width="90%">
+<img src="/rule/asia/japan/rural_unpaved_road_waving.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ Kode area mulai dari Sapporo (`011`), Tokyo (`03`), Osaka (`06`), hingga Kagoshi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-14-21-52-22.png" class="no-click"/>
+<img src="/rule/asia/japan/2023-04-14-21-52-22.png" class="no-click"/>
 <p><a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachu - CC0</a></p>
 </div>
 {{% /tab %}}

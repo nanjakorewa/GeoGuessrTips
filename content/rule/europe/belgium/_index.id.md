@@ -41,8 +41,8 @@ There are many brick-built buildings{{% ex "https://maps.app.goo.gl/2XtpajNh35wj
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./belgium_bruges_middle_ages_2.jpg" width="95%">
-<img src="schmerling_caves03.jpg" width="95%" />
+<img src="/rule/europe/belgium/belgium_bruges_middle_ages_2.jpg" width="95%">
+<img src="/rule/europe/belgium/schmerling_caves03.jpg" width="95%" />
 </div>
 
 {{% notice tip %}}
@@ -57,7 +57,7 @@ The pedestrian crossing signs are dashed lines
 The number characters are <span class="quiz">red</span>{{% ex "https://maps.app.goo.gl/6F27iKhAeKodkYTJA" %}}{{% by %}}. They are often not very visible.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./porsche_brugge_street_car.jpg" width="95%">
+<img src="/rule/europe/belgium/porsche_brugge_street_car.jpg" width="95%">
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-05-43-30.png)
@@ -69,26 +69,26 @@ The number characters are <span class="quiz">red</span>{{% ex "https://maps.app.
 Small hexagonal signs are rarely used outside of Belgium{{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/W97DDHUN14eSxqEV6" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}}. Small, rounded bicycle and pictogram signs are also rarely seen outside Belgium{{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}}. Other traffic signs in Belgium also differ in many ways from those of other countries.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road-sign2.jpg" width="98%">
+<img src="/rule/europe/belgium/road-sign2.jpg" width="98%">
 </div>
 
 {{% notice tip %}}
 Auxiliary signs are blue{{% ex "https://maps.app.goo.gl/F2fXSQCb6sgW8X5k7" "https://maps.app.goo.gl/ErWvVcNC3uRgyaoW9" "https://maps.app.goo.gl/sDDizdRGxBWFruwXA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF%E6%A8%99%E8%AD%98#%E8%A3%9C%E5%8A%A9%E6%A8%99%E8%AD%98" "Auxiliary signs" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./rue_du_vieux_moulin.jpg" width="90%">
+<img src="/rule/europe/belgium/rue_du_vieux_moulin.jpg" width="90%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -149,7 +149,7 @@ Jika menggunakan Bahasa Belanda, kemungkinan besar berada di <span class="quiz">
 Rumah di kota bagian selatan{{% ex "https://maps.app.goo.gl/nF72GGgq7AFQ5UFw8" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./moulin_soulme2.jpg" width="90%">
+<img src="/rule/europe/belgium/moulin_soulme2.jpg" width="90%">
 </div>
 <br />
 
@@ -157,7 +157,7 @@ Rumah di kota bagian selatan{{% ex "https://maps.app.goo.gl/nF72GGgq7AFQ5UFw8" %
 Rumah di sekitar tengah kota
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./eizer_f.jpg" width="90%">
+<img src="/rule/europe/belgium/eizer_f.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -176,8 +176,8 @@ Karena sering ditulis kecil, kadang-kadang tidak terlihat jelas. Pada tanda di s
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./martelange_streetsign_umfockeknapp.jpg" width="307px">
-<img src="./plaque_rue_etterbeek_boileau.jpg" width="310px">
+<img src="/rule/europe/belgium/martelange_streetsign_umfockeknapp.jpg" width="307px">
+<img src="/rule/europe/belgium/plaque_rue_etterbeek_boileau.jpg" width="310px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

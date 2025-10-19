@@ -44,7 +44,7 @@ Di pegunungan Italia Barat{{% ex "https://goo.gl/maps/uSRbQsrbskQkajcb6" "https:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./building.jpg" alt="Bangunan di Andorra" width="95%" />
+<img src="/rule/europe/andorra/building.jpg" alt="Bangunan di Andorra" width="95%" />
 </div>
 
 {{% notice tip %}}
@@ -58,7 +58,7 @@ Tiang salju yang berwarna merah dapat terlihat sepanjang jalan{{% ex "https://go
 Nomor jalan dengan kode "CS" atau "CG"{{% ex "https://goo.gl/maps/qnec2sM37NcgWVyj7" "https://goo.gl/maps/tLoLdtWhcvsGm1i78" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="75%" />
+<img src="/rule/europe/andorra/roadsign.jpg" width="75%" />
 </div>
 
 {{% notice tip %}}

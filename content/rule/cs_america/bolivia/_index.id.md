@@ -46,7 +46,7 @@ Hampir semua rumah di Bolivia terbuat dari <span class="quiz">batu bata dan seme
 Tiang penanda jalan sering kali terbuat dari <span class="quiz">batang persegi besar</span> {{% ex "https://maps.app.goo.gl/aWBeh2rt4WL38rFL7" "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://maps.app.goo.gl/QdHoQusynypdF2Vw9" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}, meskipun terkadang ada yang terbuat dari logam {{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="/rule/cs_america/bolivia/roadsign.jpg" width="90%">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
@@ -73,7 +73,7 @@ Jalan berbatu besar {{% ex "https://maps.app.goo.gl/EDBqCWzFZRYCwFb4A" "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="19683170924_abbf5210de_c.jpg" width="90%">
+<img src="/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -81,8 +81,8 @@ Bendera atau logo partai sosialis Bolivia sering ditemukan di kota {{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
-<img src="./images.jpg" width="300px" style="margin:10px">
+<img src="/rule/cs_america/bolivia/MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px" style="margin:10px">
 </div>
 
 {{% /tab %}}
@@ -93,7 +93,7 @@ Ada bendera atau logo Wiphala {{% ex "https://maps.app.goo.gl/1pEnEcdd5bwp6vZk8"
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Banner_of_the_Qulla_Suyu.svg" width="500px">
+<img src="/rule/cs_america/bolivia/Banner_of_the_Qulla_Suyu.svg" width="500px">
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}
@@ -108,7 +108,7 @@ Perusahaan telekomunikasi besar Bolivia sering terlihat di sepanjang jalan {{% e
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./images.jpg" width="300px">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px">
 </div>
 
 {{% notice tip %}}
@@ -116,7 +116,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) adalah salah satu perusahaa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./YPFB_Logo.svg" width="300px">
+<img src="/rule/cs_america/bolivia/YPFB_Logo.svg" width="300px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -135,7 +135,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) adalah salah satu perusahaa
 {{% tab "Topografi" %}}
 
 <div class="googlemap-if no-margin">
-<img src="./750px-Bolivia_Topography.png" width="90%" />
+<img src="/rule/cs_america/bolivia/750px-Bolivia_Topography.png" width="90%" />
 </div>
 {{% /tab %}}
 {{% tab "Elevasi Rendah" %}}
@@ -185,7 +185,7 @@ Wilayah sekitar Santa Cruz cenderung datar dan hijau {{% ex "https://goo.gl/maps
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="./rn4-east.png" width="90%" /></div></p>
+<p><div class="unclickable"><img src="/rule/cs_america/bolivia/rn4-east.png" width="90%" /></div></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, dengan pengubahan</p>
 </div>
 {{% /tab %}}
@@ -229,7 +229,7 @@ Wilayah sekitar Ruta 9 memiliki pemandangan yang sangat berbeda dengan La Paz. T
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./la_paz_andes_south.jpg" width="550px">
+<img src="/rule/cs_america/bolivia/la_paz_andes_south.jpg" width="550px">
 </div>
 {{% /tab %}}
 {{% tab "Boneka Digantung" %}}
@@ -262,7 +262,7 @@ Wilayah sekitar Ruta 9 memiliki pemandangan yang sangat berbeda dengan La Paz. T
 Google Car memiliki karakteristik yang unik {{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}. Gunung Sajama juga sangat mencolok.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./sajama_bolivia_volcano_way.jpg" width="95%" />
+<img src="/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% tab "Pulau Matahari" %}}
@@ -270,14 +270,14 @@ Google Car memiliki karakteristik yang unik {{% ex "https://maps.app.goo.gl/6oRE
 Banyak situs peninggalan zaman Inka.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilha_do_sol14.jpg" width="95%">
+<img src="/rule/cs_america/bolivia/ilha_do_sol14.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Makam Kereta Api" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
+<img src="/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Ojos del Salar" %}}
@@ -285,7 +285,7 @@ Banyak situs peninggalan zaman Inka.
 Ada pemandangan Street View meski belum pernah muncul dalam soal {{% ex "https://maps.app.goo.gl/1rqb1hjS5EAsPvRL8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./salt_salar_landscape_salar.jpg" width="95%" />
+<img src="/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

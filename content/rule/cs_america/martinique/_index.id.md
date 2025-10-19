@@ -45,7 +45,7 @@ Memiliki suasana hangat dengan lanskap pantai, hutan, dan kota yang dijelajahi d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="martinique_beach_ocean_sea.jpg" width="95%">
+<img src="/rule/cs_america/martinique/martinique_beach_ocean_sea.jpg" width="95%">
 </div>
 
 {{% notice tip %}}

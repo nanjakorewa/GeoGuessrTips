@@ -58,7 +58,7 @@ Banyak rumah dengan dinding putih rendah dan warna pastel {{% ex "https://goo.gl
 Banyak dinding batu dan bunga seperti hortensia ditemukan di sana {{% ex "https://goo.gl/maps/wu3pzy517qpZ37dZ7" "https://goo.gl/maps/aXg4GMMNF37erStv7" "https://goo.gl/maps/RvA1S8VT8s3DghFu6" "https://goo.gl/maps/zGmRQnYLoZGdg1F58" "https://goo.gl/maps/iSvTtk9k2qxKod5f6" "https://goo.gl/maps/SUvfjQZWKoPZBAHq7" "https://goo.gl/maps/wcWVpPCxzjET4ghw5" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road.jpg" width="95%" alt="Jalan di Kepulauan Azores"/>
+<img src="/rule/europe/azores/road.jpg" width="95%" alt="Jalan di Kepulauan Azores"/>
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Pulau Faial hanya memiliki sedikit gambar Street View di sekitar Caldeira {{% ex
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <!-- 画像ソース：Public Domain https://en.wikipedia.org/wiki/Faial_Island#/media/File:Caldeira_faial.jpg -->
-<img src="2023-07-21-06-30-38.png" width="95%" alt="Caldeira di Pulau Faial"/>
+<img src="/rule/europe/azores/2023-07-21-06-30-38.png" width="95%" alt="Caldeira di Pulau Faial"/>
 </div>
 
 {{% /tab %}}

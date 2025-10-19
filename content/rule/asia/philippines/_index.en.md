@@ -125,22 +125,22 @@ Wild dogs are common on the outskirts of the Philippines, as are buffalo.
 {{% tabs %}}
 {{% tab "Palm" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="70%"/>
+<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="70%"/>
 </div>
 {{% /tab %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="70%"/>
+<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="70%"/>
 </div>
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="70%"/>
+<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="70%"/>
 </div>
 {{% /tab %}}
 {{% tab "Sugarcane" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="70%"/>
+<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="70%"/>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

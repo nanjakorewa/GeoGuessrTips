@@ -32,7 +32,7 @@ Se pueden encontrar matrículas con un diseño similar al de la UE.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road.jpg" width="90%">
+<img src="/rule/middle_east/iran/road.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}

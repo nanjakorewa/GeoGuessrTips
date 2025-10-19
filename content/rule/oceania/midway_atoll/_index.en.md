@@ -32,7 +32,7 @@ sc: [
 In most cases, you can immediately identify Midway Island upon seeing it {{% ex "https://maps.app.goo.gl/qbg1tR8KdCrJmzhG7" "https://maps.app.goo.gl/SocqFQcJpfixw3r88" "https://maps.app.goo.gl/DCFp5oQHmHfdSbGx5" %}}. However, note that there are other islands with many birds besides Midway Island {{% ex "https://maps.app.goo.gl/V4cbS1MmndTwDMzJ6" "https://maps.app.goo.gl/qK2WCEAYbvYYkKfb8" "https://maps.app.goo.gl/n7k78mdDSKCBAwhy5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./us_navy_100602_n_2.jpg" width="91%">
+<img src="/rule/oceania/midway_atoll/us_navy_100602_n_2.jpg" width="91%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

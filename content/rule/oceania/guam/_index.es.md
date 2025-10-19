@@ -47,7 +47,7 @@ El coche de Google tiene una antena larga en la parte delantera derecha. A difer
 Hay áreas para caminar sobre la arena donde a menudo se pueden ver hoteles turísticos altos {{% ex "https://maps.app.goo.gl/VfVdmZoRViGfFB9V6" "https://maps.app.goo.gl/iesPnEJB7xNqa5Mv6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./hotel_nikko_guam.jpg" width="95%">
+<img src="/rule/oceania/guam/hotel_nikko_guam.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Casa" %}}

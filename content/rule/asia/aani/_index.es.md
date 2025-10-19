@@ -39,7 +39,7 @@ sc: [
 Aunque no hay datos recientes, el PIB per cápita es bastante alto dentro de la India, y al igual que en Goa o Kerala, hay muchas casas de dos o tres pisos{{% ex "https://maps.app.goo.gl/U31E9SG9yLDz841T7" "https://maps.app.goo.gl/2LMw8TFRoYP3K6n77" %}}{{% ref "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hyouka/kunibetu/gai/india/pdfs/kn09_03_01.pdf" "Capítulo 3: Visión general de la India" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%">
+<img src="/rule/asia/aani/960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ La parte superior se ve de esta manera{{% ex "https://maps.app.goo.gl/MfQRFFuC4W
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="poletop.png" width="300px">
+<img src="/rule/asia/aani/poletop.png" width="300px">
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ Es una región de clima monzónico tropical, y en los suburbios se pueden encont
 
 
 <div class="googlemap-if no-margin">
-<img src="../india/arecanut_trees_assam.jpg">
+<img src="/rule/asia/india/arecanut_trees_assam.jpg">
 </div>
 
 {{% /tab %}}

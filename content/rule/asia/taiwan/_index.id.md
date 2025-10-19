@@ -53,11 +53,11 @@ Minimarket besar seperti <span class="quiz">萊爾富便利商店 (Hi-Life)</spa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./hilife.jpg" width="90%">
+<img src="/rule/asia/taiwan/hilife.jpg" width="90%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./ok-logo.png" width="500px" alt="Logo minimarket Taiwan">
+<img src="/rule/asia/taiwan/ok-logo.png" width="500px" alt="Logo minimarket Taiwan">
 </div>
 
 {{% notice tip %}}
@@ -65,7 +65,7 @@ Jalan sering menggunakan garis <span class="quiz">merah</span> dan <b>kuning</b>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%">
+<img src="/rule/asia/taiwan/road.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -81,7 +81,7 @@ Tanda jalan dengan desain unik sering ditemukan.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tw_fw6_photo.jpg">
+<img src="/rule/asia/taiwan/tw_fw6_photo.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bangunan" %}}
@@ -90,7 +90,7 @@ Bangunan yang sangat besar dan berbentuk horizontal kemungkinan adalah pabrik te
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tsmc_factory_hsinchu.jpg">
+<img src="/rule/asia/taiwan/tsmc_factory_hsinchu.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

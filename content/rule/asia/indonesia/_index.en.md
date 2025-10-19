@@ -46,7 +46,7 @@ Signs for <span class="quiz">Alfa Mart</span> (convenience store), <span class="
 <span class="quiz">Cigarettes</span> are often sold on the street. If it says "18+" without a picture of cigarettes, it is an advertisement for cigarettes; if it says "GGSP", it is a goodwill about the cigarette manufacturer Gudang Garam Tbk PT.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./adv.jpg" width="95%">
+<img src="/rule/asia/indonesia/adv.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

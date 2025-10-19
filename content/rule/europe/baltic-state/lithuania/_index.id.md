@@ -49,7 +49,7 @@ Bollards have orange reflective panels. Even in other countries, reflective pane
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bollar-li-la-es.png" width="590px" alt="Bollards in the Baltic States" />
+<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Bollards in the Baltic States" />
 </div>
 
 {{% notice tip %}}
@@ -62,9 +62,9 @@ Signs with numbers are tilted <span class="quiz">diagonally</span> to the road. 
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
-<img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
-<img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" />
 </div>
 
 {{% notice tip %}}

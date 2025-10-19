@@ -77,7 +77,7 @@ Rekaman referensi
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-17-28.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -87,11 +87,11 @@ Jika terdapat pohon kelapa sawit seperti ini, kemungkinan besar berada di datara
 
 {{% tab "Karet" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="rubber-tree-distribution.png" width="60%" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./rubberwood.jpg">
+<img src="/rule/asia/thai/rubberwood.jpg">
 </div>
 
 {{% notice tip %}}
@@ -101,7 +101,7 @@ Pohon karet umumnya banyak ditemukan di semenanjung bagian selatan {{% ex "https
 
 {{% tab "Jagung" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-15-43.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -111,7 +111,7 @@ Sama seperti di Amerika Serikat, area produksi jagung biasanya berdekatan dengan
 
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-18-17.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -184,7 +184,7 @@ Pulau ini memiliki jalan nomor 4169 yang mengelilingi seluruh pulau {{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./samui_koh_samui_bangrak.jpg" width="90%">
+<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%">
 </div>
 
 {{% /tab %}}

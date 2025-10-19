@@ -47,21 +47,21 @@ sc: [
 Mobil melaju di <span class="quiz">sebelah kiri</span>{{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}. Jalanan dan rambu lalu lintas juga berada di sisi kiri.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./landscape_rural_farming_sugar.jpg" width="95%">
+<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Banyak pohon <span class="quiz">eukaliptus</span>. Tiang listrik biasanya terbuat dari kayu berwarna hijau{{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}} atau besi untuk mencegah serangan rayap{{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="95%" alt="Tiang listrik di Australia" />
+<img src="/rule/oceania/australia/up.png" width="95%" alt="Tiang listrik di Australia" />
 </div>
 
 {{% notice tip %}}
 Bollard di Australia memiliki reflektor merah di satu sisi saja, dengan area merah yang lebih kecil dibandingkan di Selandia Baru{{% ex "https://maps.app.goo.gl/m3hGyoS5R2qaVR2P9" "https://maps.app.goo.gl/NKbGDe7paHKkTRNz8" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}. Kiri adalah <span class="quiz">Australia</span>, kanan adalah <span class="quiz">Selandia Baru</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="90%">
+<img src="/rule/oceania/australia/bollard.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ Font nomor jalan di Australia berbeda dengan di Afrika Selatan. Kiri adalah <spa
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-03-02-54-05.png" width="80%">
+<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -125,7 +125,7 @@ Peta ekosistem umum di sekitar Australia. (Sumber: By Terpsichores - Own work, <
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-28-23-57-39.png" />
+<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" />
 </div>
 {{% /tab %}}
 {{% tab "Pesisir Barat" %}}
@@ -193,7 +193,7 @@ Bentuk serupa juga ditemukan di Kepulauan Furneaux{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./spring_street_sheffield_20070422.jpg" width="95%">
+<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "QLD (Queensland)" %}}
@@ -231,7 +231,7 @@ Bentuk serupa juga ditemukan di Kepulauan Furneaux{{% ex "https://maps.app.goo.g
 {{% tabs %}}
 {{% tab "Tiang Kuning" %}}
 <div class="googlemap-if">
-<img src="./yellow-pole.jpg" width="95%">
+<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -245,7 +245,7 @@ VicRoads adalah badan usaha pemerintah di negara bagian Victoria, Australia{{% b
 </div>
 
 <div class="googlemap-if">
-<img src="VicRoads_Logo_2009.gif" width="200px" />
+<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

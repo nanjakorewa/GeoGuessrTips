@@ -22,8 +22,8 @@ Selain itu, karena ini terutama untuk catatan saya, saya mungkin juga mencatat i
 
 <h2 class="no-blur">Gambar dan Alat Latar Belakang</h2>
 <dlv style="text-align:left;pointer-events:none;">
-<img src="./2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
-<img src="./2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
+<img src="/about/2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
+<img src="/about/2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
 </div>
 <br />
 <h2 class="no-blur">Kebijakan Privasi dan Penafian</h2>
