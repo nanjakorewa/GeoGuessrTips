@@ -24,7 +24,7 @@
 {{- if $sameAs }}
   {{- $orgScratch.Set "data" (merge ($orgScratch.Get "data") (dict "sameAs" $sameAs)) -}}
 {{- end }}
-<script type="application/ld+json">{{ jsonify ($orgScratch.Get "data") | safeHTML }}</script>
+<script type="application/ld+json">{{ jsonify ($orgScratch.Get "data") | safeJS }}</script>
 
 {{- $languageCode := default "en-US" (or $page.Language.LanguageCode $site.LanguageCode) -}}
 {{- $baseUrl := $site.BaseURL | default $page.Permalink -}}
@@ -47,7 +47,7 @@
   {{- $searchTarget := printf "%s/search/?q={search_term_string}" $baseTrimmed -}}
   {{- $websiteScratch.Set "data" (merge ($websiteScratch.Get "data") (dict "potentialAction" (dict "@type" "SearchAction" "target" $searchTarget "query-input" "required name=search_term_string"))) -}}
 {{- end }}
-<script type="application/ld+json">{{ jsonify ($websiteScratch.Get "data") | safeHTML }}</script>
+<script type="application/ld+json">{{ jsonify ($websiteScratch.Get "data") | safeJS }}</script>
 
 {{- $pageType := cond (eq ($seo.type) "article") "Article" "WebPage" -}}
 {{- $pageScratch := newScratch -}}
@@ -95,7 +95,7 @@
     {{- $pageScratch.Set "data" (merge ($pageScratch.Get "data") (dict "wordCount" $page.WordCount)) -}}
   {{- end }}
 {{- end }}
-<script type="application/ld+json">{{ jsonify ($pageScratch.Get "data") | safeHTML }}</script>
+<script type="application/ld+json">{{ jsonify ($pageScratch.Get "data") | safeJS }}</script>
 
 {{- $crumbScratch := newScratch -}}
 {{- $crumbScratch.Set "nodes" (slice) -}}
@@ -114,6 +114,6 @@
   {{- end }}
   {{- $items := $itemsScratch.Get "items" -}}
   {{- if gt (len $items) 1 }}
-    <script type="application/ld+json">{{ jsonify (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items) | safeHTML }}</script>
+    <script type="application/ld+json">{{ jsonify (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items) | safeJS }}</script>
   {{- end }}
 {{- end }}
