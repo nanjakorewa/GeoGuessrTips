@@ -42,12 +42,12 @@ Utility poles and logos for Chubu Electric Power appear in Aichi, Gifu, Mie, Shi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
 </div>
 
 <div class="googlemap-if">
-<img src="CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em">
-<img src="CHUBU_Electric_Power_logo.svg" width="230px">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ The Nobi Plain covers most of Aichi and offers an expansive, level landscape.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="nobi_plain_nagoya_from.jpg">
+<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg">
 </div>
 
 {{% /tab %}}
@@ -90,7 +90,7 @@ Spiral vehicle-warning bands like the ones on the right can be spotted{{% ref "h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-hokuriku.png" width="420px">
+<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px">
 </div>
 
 {{% /tab %}}

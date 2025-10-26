@@ -19,7 +19,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-08-36.png">
+<img src="/web/free/2023-10-15-00-08-36.png">
 </div>
 
 
@@ -28,7 +28,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-11-39.png">
+<img src="/web/free/2023-10-15-00-11-39.png">
 </div>
 
 {{% notice tip %}}
@@ -36,8 +36,8 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if no-margin" style="pointer-events: none;">
-<img src="2023-10-15-00-16-30.png">
-<img src="2023-10-15-00-18-58.png">
+<img src="/web/free/2023-10-15-00-16-30.png">
+<img src="/web/free/2023-10-15-00-18-58.png">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-20-13.png">
+<img src="/web/free/2023-10-15-00-20-13.png">
 </div>
 
 {{% /tab %}}
@@ -56,7 +56,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-32-34.png">
+<img src="/web/free/2023-10-15-00-32-34.png">
 </div>
 
 
@@ -64,7 +64,7 @@ sections: [""]
 2. Complete the tutorial. It features landmarks like the Eiffel Tower and the Statue of Liberty. When you finish, <span style="font-weight:bold;">confirm that your account name is not set to your Gmail address.</span> Use the red buttons below to change the account name if needed.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-44-25.png">
+<img src="/web/free/2023-10-15-00-44-25.png">
 </div>
 
 

@@ -38,8 +38,8 @@ Berkat iklim tundra yang ekstrem—mirip dengan {{% goto "../../n_america/greenl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="kids_security_road_sign.jpg" width="500px">
-<img src="longyearbyen_panorama.jpg" width="500px">
+<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px">
+<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ Sering terlihat skuter salju diparkir di depan rumah{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="parked_snowmobiles_in_summer.jpg" width="500px">
+<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ Plat nomor memiliki <span class="quiz">huruf oranye di atas latar hitam</span>.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="barentsburg.jpg" width="90%">
+<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ Plat nomor memiliki <span class="quiz">huruf oranye di atas latar hitam</span>.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="31_07_pyramiden_30.jpg" width="90%">
+<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%">
 </div>
 
 {{% /tab %}}

@@ -26,7 +26,7 @@ Look for diamonds without breaks in the lines{{% ex "https://maps.app.goo.gl/Kq6
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="aichi_pref_r_281.jpg">
+<img src="/rule/asia/japan/chubu/aichi/aichi_pref_r_281.jpg">
 </div>
 
 {{% /tab %}}
@@ -36,7 +36,7 @@ Aichi has the most factories in Japan{{% ref "https://www.tsr-net.co.jp/data/det
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="tokai_rika_hagi_factory.jpg">
+<img src="/rule/asia/japan/chubu/aichi/tokai_rika_hagi_factory.jpg">
 </div>
 
 {{% /tab %}}
@@ -46,7 +46,7 @@ In Aichi, Gifu, Mie, Shizuoka west of the Fuji River, and Nagano, you will spot 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
 </div>
 
 {{% /tab %}}

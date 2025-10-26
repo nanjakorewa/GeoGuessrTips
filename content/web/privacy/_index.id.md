@@ -24,13 +24,13 @@ Kalau ada cara lain yang lebih baik, silakan beri tahu saya. Saya akan sangat be
 <br />
 <br />
 <h3 class="no-blur">Mengubah lokasi yang dipakai Google Search</h3>
-<img src="2023-03-21-16-59-28.png" />
+<img src="/web/privacy/2023-03-21-16-59-28.png" />
 
 <span style="font-weight: bold;">Jika tetap masuk ke akun Google, layar hasil pencarian bisa menampilkan alamat yang cukup rinci, jadi harap perhatikan. Walaupun sudah keluar, Google masih bisa memperkirakan wilayah besar dari alamat IP.</span>
 Saat mencari transportasi, restoran, atau toko, Google terkadang memindahkan posisi peta ke daerah dekat rumah berdasarkan IP. Ketika siaran saya menghindari kata kunci yang terlalu spesifik seperti “konbini” atau “supermarket”.
 Anda bisa mengganti lokasi yang terdeteksi dengan VPN atau lewat developer tools di Chrome untuk menimpa geolokasi sepenuhnya.
 
-<img src="2023-03-21-17-01-06.png" />
+<img src="/web/privacy/2023-03-21-17-01-06.png" />
 
 <br />
 <br />

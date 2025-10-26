@@ -53,7 +53,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 Jika terlihat kota besar, biasanya Amman: bangunan putih menutupi lereng bukit.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./amman_jordan_citadel_hill.jpg" width="95%">
+<img src="/rule/middle_east/jordan/amman_jordan_citadel_hill.jpg" width="95%">
 </div>
 
 {{% notice tip %}}Google Car berwarna <span class="quiz">hitam</span> hampir hanya ada di Yordania{{% ex "https://goo.gl/maps/sXpE66c2PbeKgpzo6" "https://goo.gl/maps/5cPqpoiFsjKHfi2g8" %}}. {{% goto "../lebanon/" "Lebanon" %}} kadang terlihat gelap{{% ex "https://maps.app.goo.gl/Zj4oeReAzkUD6hGu5" %}}, tetapi kualitas citra dan atmosfernya berbeda.

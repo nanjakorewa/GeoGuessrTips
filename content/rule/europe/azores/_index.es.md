@@ -59,7 +59,7 @@ Se ven muchas casas bajas de paredes blancas o fachadas pastel{{% ex "https://go
 Muchos caminos rurales tienen muros de piedra y flores que parecen hortensias{{% ex "https://goo.gl/maps/wu3pzy517qpZ37dZ7" "https://goo.gl/maps/aXg4GMMNF37erStv7" "https://goo.gl/maps/RvA1S8VT8s3DghFu6" "https://goo.gl/maps/zGmRQnYLoZGdg1F58" "https://goo.gl/maps/iSvTtk9k2qxKod5f6" "https://goo.gl/maps/SUvfjQZWKoPZBAHq7" "https://goo.gl/maps/wcWVpPCxzjET4ghw5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road.jpg" width="95%" alt="Camino en Azores"/>
+<img src="/rule/europe/azores/road.jpg" width="95%" alt="Camino en Azores"/>
 </div>
 
 
@@ -68,7 +68,7 @@ Muchos caminos rurales tienen muros de piedra y flores que parecen hortensias{{%
 En la isla de Faial solo hay algo de Street View alrededor de la Caldeira{{% ex "https://goo.gl/maps/RtEuRRoeTTTcxet19" "https://goo.gl/maps/XNyPji2XP73kyZsn6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AB%E5%B3%B6" "ファイアル島" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-07-21-06-30-38.png" width="95%" alt="Caldeira de Faial"/>
+<img src="/rule/europe/azores/2023-07-21-06-30-38.png" width="95%" alt="Caldeira de Faial"/>
 </div>
 
 {{% /tab %}}

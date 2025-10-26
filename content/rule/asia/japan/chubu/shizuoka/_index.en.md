@@ -27,7 +27,7 @@ Shizuoka used to dominate tea production, but in recent years the output is roug
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="mount_fuji_20120909_b.jpg">
+<img src="/rule/asia/japan/chubu/shizuoka/mount_fuji_20120909_b.jpg">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ In Aichi, Gifu, Mie, Shizuoka west of the Fuji River, and Nagano, you will spot 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
 </div>
 
 {{% /tab %}}

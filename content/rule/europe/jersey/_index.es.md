@@ -38,9 +38,9 @@ sc: [
 Las matrículas carecen de la <span class="quiz">franja azul</span>{{% ex "https://maps.app.goo.gl/TYTenUeYETwMQNYf7" %}}{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 〜忘れられた国々〜" %}} y el lateral izquierdo puede verse ligeramente rojizo.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px">
-<img src="./719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px">
-<img src="./503px-Jersey_Marathon_2011_14.jpg" width="330px">
+<img src="/rule/europe/jersey/1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px">
+<img src="/rule/europe/jersey/719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px">
+<img src="/rule/europe/jersey/503px-Jersey_Marathon_2011_14.jpg" width="330px">
 </div>
 
 {{% lb 50 %}}
@@ -61,8 +61,8 @@ Las líneas del borde y las líneas de detención suelen ser <span class="quiz">
 A pesar de su tamaño, la isla alberga numerosos edificios bancarios, como Barclays o el Royal Bank of Canada{{% ref "https://www.citigroup.jp/jp/index.html" "Citi - Japan" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" />
-<img src="./546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" />
+<img src="/rule/europe/jersey/551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" />
+<img src="/rule/europe/jersey/546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" />
 </div>
 
 {{% notice tip %}}

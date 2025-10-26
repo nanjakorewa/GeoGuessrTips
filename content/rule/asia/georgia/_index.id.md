@@ -31,12 +31,12 @@ Papan nama dan toko memakai aksara Georgia (ქართული ენა).
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./riv_rikotula.jpg" width="95%">
+<img src="/rule/asia/georgia/riv_rikotula.jpg" width="95%">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="r/GE_road_sign_7.10.1_A.svg" width="250px" style="margin:4px">
-<img src="r/GE_road_sign_7.9.1_D.svg" width="210px" style="margin:4px">
+<img src="/rule/asia/georgia/r/GE_road_sign_7.10.1_A.svg" width="250px" style="margin:4px">
+<img src="/rule/asia/georgia/r/GE_road_sign_7.9.1_D.svg" width="210px" style="margin:4px">
 </div>
 
 {{% notice tip %}}

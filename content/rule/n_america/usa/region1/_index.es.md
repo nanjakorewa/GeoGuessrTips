@@ -32,7 +32,7 @@ jogmec_detail: true
 Virginia Occidental, sobre todo en el noroeste, tiene un índice de pobreza elevado. Es habitual encontrar casas abandonadas y comercios cerrados{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="this_housing_in_smithers_0.jpg">
+<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg">
 </div>
 {{% /tab %}}
 {{% tab "B. Señales fraccionarias" %}}

@@ -39,7 +39,7 @@ Landscapes differ by island, but from the shore you can often spot other islands
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./Island_couple.jpg" width="70%">
+<img src="/rule/asia/chagos-around/Island_couple.jpg" width="70%">
 </div>
 
 

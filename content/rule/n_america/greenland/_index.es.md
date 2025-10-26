@@ -34,8 +34,8 @@ sc: [
 Más del 80 % de la población son groenlandeses indígenas y el idioma oficial es el groenlandés. En el suelo con permafrost, el deshielo del verano provoca hundimientos y en invierno la tierra vuelve a elevarse al congelarse. Por ello abundan las casas levantadas sobre rocas o pilotes; es habitual ver huecos bajo el piso o soportes de hormigón{{% ex "https://maps.app.goo.gl/RJ9MNRwS8cwdsfu69" "https://maps.app.goo.gl/HRUqsMZjoXRTRCHc9" "https://maps.app.goo.gl/gz9J7etmTHdc5oba9" %}}. El clima frío también hace que muchas carreteras no sean perfectamente planas{{% ref "http://chikyunokurashi.com/greenland/ordinarylifeingreenland/" "La vida cotidiana de los groenlandeses" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./tasiilaq_greenland_01.jpg" width="550px">
-<img src="./tasiilaq_greenland_east_greenland.jpg" width="550px">
+<img src="/rule/n_america/greenland/tasiilaq_greenland_01.jpg" width="550px">
+<img src="/rule/n_america/greenland/tasiilaq_greenland_east_greenland.jpg" width="550px">
 </div>
 
 {{% notice tip %}}

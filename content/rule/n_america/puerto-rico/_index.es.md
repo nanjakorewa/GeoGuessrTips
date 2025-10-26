@@ -40,7 +40,7 @@ sc: [
 No hay coches con <span class="quiz">matrícula frontal</span>. Los postes cuadrados pueden tener un color diferente cerca de la base{{% ex "https://maps.app.goo.gl/XxN31SaHk76dDTvQ7" "https://maps.app.goo.gl/ZAZchittC7GJfBmE7" %}}. Entre 2014 y 2023 la mitad izquierda de la placa se ve oscura y la mitad derecha es clara{{% ex "https://maps.app.goo.gl/X1YBm8SU1VYXt3Zk6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" >
+<img src="/rule/n_america/puerto-rico/road.jpg" width="90%" >
 </div>
 
 
@@ -61,8 +61,8 @@ Las señales de velocidad máxima están en MPH{{% ex "https://maps.app.goo.gl/y
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px">
-<img src="./r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px">
+<img src="/rule/n_america/puerto-rico/r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px">
+<img src="/rule/n_america/puerto-rico/r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -71,8 +71,8 @@ Hay varios diseños de escudos viales. Los escudos circulares normalmente usan n
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/869.png" width="100px" style="margin:10px">
-<img src="./r/970.png" width="80px" style="margin:10px">
+<img src="/rule/n_america/puerto-rico/r/869.png" width="100px" style="margin:10px">
+<img src="/rule/n_america/puerto-rico/r/970.png" width="80px" style="margin:10px">
 </div>
 
 {{% notice tip %}}

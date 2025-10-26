@@ -45,7 +45,7 @@ sc: [
 Los buzones de Correos son cilindros <span class="quiz">amarillos</span> con el logotipo corporativo{{% ex "https://maps.app.goo.gl/izadzQSiYySYPqFH7" "https://maps.app.goo.gl/98xfrzaY5FzksDAX8" %}}{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./post.jpg" width="70%">
+<img src="/rule/europe/spain/post.jpg" width="70%">
 </div>
 
 
@@ -53,7 +53,7 @@ Los buzones de Correos son cilindros <span class="quiz">amarillos</span> con el 
 <span class="quiz">“CALLE”</span> significa calle; en las zonas catalanohablantes aparece “CARRER”. El cartel de la derecha corresponde a Free Software Street en Cataluña{{% ref "https://en.wikipedia.org/wiki/Free_Software_Street" "Free Software Street" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.jpg" width="90%">
+<img src="/rule/europe/spain/street.jpg" width="90%">
 </div>
 
 
@@ -71,12 +71,12 @@ Los bolardos también son <span class="quiz">amarillos</span>{{% ex "https://goo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./navaleno_n_234.jpg" width="600">
+<img src="/rule/europe/spain/navaleno_n_234.jpg" width="600">
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./spain-bollard.png" width="180px" alt="Bolardo español" />
+<img src="/rule/europe/spain/spain-bollard.png" width="180px" alt="Bolardo español" />
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Muchos arcenes incluyen pequeñas placas kilométricas naranjas o amarillas con 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road.jpg" width="600">
+<img src="/rule/europe/spain/road.jpg" width="600">
 </div>
 
 
@@ -93,7 +93,7 @@ Los chevrons pueden tener fondo <span class="quiz">negro</span> o <span class="q
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road_m_503_km17.jpg" width="600">
+<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600">
 </div>
 
 
@@ -102,7 +102,7 @@ En algunas autovías, los guardarraíles cortos lucen franjas blancas y negras{{
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road_m_503_km17.jpg" width="600">
+<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600">
 </div>
 
 
@@ -126,7 +126,7 @@ Los bosques de pinos se extienden por Castilla y León y Aragón{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pinus_pinea_pompeii.jpg" width="95%">
+<img src="/rule/europe/spain/pinus_pinea_pompeii.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -134,7 +134,7 @@ Los pinares de pino carrasco también son habituales junto al Mediterráneo{{% e
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pinus_halepensis_near_hyeres.jpg" width="95%">
+<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Olivares" %}}
@@ -144,7 +144,7 @@ Andalucía destaca por los olivares cuadriculados{{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Invernaderos_el_ejido.jpg" width="95%">
+<img src="/rule/europe/spain/Invernaderos_el_ejido.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Costa mediterránea" %}}
@@ -154,7 +154,7 @@ Cataluña y Valencia mezclan pinares de Alepo, pinos piñoneros y matorral coste
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pinus_halepensis_near_hyeres.jpg" width="95%">
+<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -189,7 +189,7 @@ La provincia de Almería está cubierta de invernaderos; la franja sureste brill
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%">
+<img src="/rule/europe/spain/960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Arrozales" %}}
@@ -213,7 +213,7 @@ Además de parques fotovoltaicos{{% ex "https://maps.app.goo.gl/9qniBr54GaLq3Vcn
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="960px-Luz.jpg" width="95%">
+<img src="/rule/europe/spain/960px-Luz.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

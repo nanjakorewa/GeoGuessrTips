@@ -40,7 +40,7 @@ Jendela dan detail dekoratifnya cenderung sangat rumit{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1996_yemen_sanna_9.jpg" width="90%" />
+<img src="/rule/middle_east/yemen/1996_yemen_sanna_9.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}

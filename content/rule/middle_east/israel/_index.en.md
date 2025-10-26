@@ -35,7 +35,7 @@ sc: [
 Hebrew letters (מְדִינַת יִשְׂרָאֵל) stand out immediately.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./roadsign.jpg" width="95%">
+<img src="/rule/middle_east/israel/roadsign.jpg" width="95%">
 </div>
 
 
@@ -44,7 +44,7 @@ Israeli plates are usually <span class="quiz">yellow</span>{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-30-03-02-13.png" width="95%">
+<img src="/rule/middle_east/israel/2023-07-30-03-02-13.png" width="95%">
 </div>
 
 {{% lb 50 %}}
@@ -59,7 +59,7 @@ Tower-like utility structures dot the cityscape{{% ex "https://goo.gl/maps/6XejR
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="up.png" width="95%">
+<img src="/rule/middle_east/israel/up.png" width="95%">
 </div>
 
 
@@ -99,9 +99,9 @@ Israel has a large number of NASDAQ-listed firms and startups each year. Healthc
 The Israel National Trail covers the entire country on foot, and you occasionally see the hiker’s hat in view{{% ex "https://maps.app.goo.gl/tUMcF6ej1TihbJd37" "https://maps.app.goo.gl/1q4hFyxuFeqdb5Y79" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./Israel_National_Trail_Locator_map.png" width="155px">
-<img src="./israel_national_trail_part_8.jpg" width="500px">
-<img src="./israel_national_trail_east.jpg" width="655px">
+<img src="/rule/middle_east/israel/Israel_National_Trail_Locator_map.png" width="155px">
+<img src="/rule/middle_east/israel/israel_national_trail_part_8.jpg" width="500px">
+<img src="/rule/middle_east/israel/israel_national_trail_east.jpg" width="655px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

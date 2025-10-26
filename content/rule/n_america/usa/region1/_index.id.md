@@ -32,7 +32,7 @@ jogmec_detail: true
 West Virginia—khususnya bagian barat laut—memiliki tingkat kemiskinan tinggi. Rumah-rumah kosong dan toko yang tutup mudah ditemukan{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="this_housing_in_smithers_0.jpg">
+<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg">
 </div>
 {{% /tab %}}
 {{% tab "B. Rambu pecahan" %}}

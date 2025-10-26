@@ -38,8 +38,8 @@ Una placa metálica horizontal indica Tohoku Electric Power, mientras que los po
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../pole/pole-tohoku.png" width="220px">
-<img src="../pole/pole-hokkaido.png" width="95px">
+<img src="/rule/asia/japan/pole/pole-tohoku.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="95px">
 </div>
 
 {{% /tab %}}

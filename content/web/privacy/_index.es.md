@@ -24,13 +24,13 @@ Si tienes más ideas útiles, cuéntamelas. ¡Me ayudarían mucho!
 <br />
 <br />
 <h3 class="no-blur">Cambiar la ubicación que usa Google Search</h3>
-<img src="2023-03-21-16-59-28.png" />
+<img src="/web/privacy/2023-03-21-16-59-28.png" />
 
 <span style="font-weight: bold;">Si sigues conectado a Google, la página de resultados puede mostrar direcciones muy precisas, así que ten cuidado. Incluso cerrando sesión, Google puede deducir la zona aproximada mediante la IP, así que no bajes la guardia.</span>
 Al buscar transporte público, restaurantes o tiendas, Google a veces mueve el mapa a un punto cercano a tu IP. Durante los directos evito palabras cotidianas, como “konbini” o “supermercado”, que puedan señalar mi barrio.
 Puedes cambiar la ubicación detectada con una VPN o abriendo las herramientas de desarrollo de Chrome y sobrescribiendo toda la geolocalización.
 
-<img src="2023-03-21-17-01-06.png" />
+<img src="/web/privacy/2023-03-21-17-01-06.png" />
 
 <br />
 <br />

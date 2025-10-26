@@ -53,7 +53,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 Cuando aparece una gran zona urbana suele ser Ammán: edificios blancos densos cubren las laderas.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./amman_jordan_citadel_hill.jpg" width="95%">
+<img src="/rule/middle_east/jordan/amman_jordan_citadel_hill.jpg" width="95%">
 </div>
 
 {{% notice tip %}}Prácticamente solo en Jordania el Google Car es <span class="quiz">negro</span>{{% ex "https://goo.gl/maps/sXpE66c2PbeKgpzo6" "https://goo.gl/maps/5cPqpoiFsjKHfi2g8" %}}. {{% goto "../lebanon/" "Líbano" %}} puede verse oscuro en algunos puntos{{% ex "https://maps.app.goo.gl/Zj4oeReAzkUD6hGu5" %}}, pero la calidad y el ambiente permiten distinguirlo.

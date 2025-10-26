@@ -47,7 +47,7 @@ Los bolardos italianos tienen la punta negra en forma de triángulo{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.png" width="90%" alt="Bolardo italiano" />
+<img src="/rule/europe/italy/bollard.png" width="90%" alt="Bolardo italiano" />
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Las matrículas llevan franjas azules en ambos lados{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="90%">
+<img src="/rule/europe/italy/car.png" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -69,13 +69,13 @@ Los letreros suelen ser placas cuadradas con bordes internos redondeados{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
-<img src="./r/roadside.jpg" width="80px" style="margin:30px">
+<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
@@ -83,12 +83,12 @@ Los escudos SP/SS y los octágonos “A” solo existen en Italia{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-sign.png" width="90%">
+<img src="/rule/europe/italy/road-sign.png" width="90%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
-<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
+<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
+<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
 </div>
 
 {{% notice tip %}}
@@ -178,7 +178,7 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% tabs %}}
 {{% tab "Etna" %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Viñedos" %}}
@@ -200,27 +200,27 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% tabs %}}
 {{% tab "Etna" %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Isola del Giglio" %}}
 <div class="googlemap-if">
-<img src="./Giglio_Campese.jpg" width="95%">
+<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria" %}}
 <div class="googlemap-if">
-<img src="city/dammuso.jpg">
+<img src="/rule/europe/italy/city/dammuso.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Egadi" %}}
 <div class="googlemap-if">
-<img src="./favignana_island_sea_sicily.jpg" width="95%">
+<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa" %}}
 <div class="googlemap-if">
-<img src="./isola_dei_conigli.jpg" width="95%">
+<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "San Domino" %}}
@@ -230,7 +230,7 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% /tab %}}
 {{% tab "Venecia" %}}
 <div class="googlemap-if">
-<img src="./city/venezia_water_passages_275518.jpg">
+<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Campione d’Italia" %}}

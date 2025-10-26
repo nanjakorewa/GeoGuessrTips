@@ -43,7 +43,7 @@ Pelat tiang milik Kyushu Electric Power mudah dikenali; melihat logonya menandak
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-kyusyu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px">
 </div>
 
 {{% /tab %}}
@@ -53,7 +53,7 @@ Ilalang Miscanthus sering tumbuh di tepi jalan dan padang-padang terbuka.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="road_japan_kumamoto_method.jpg">
+<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg">
 </div>
 
 {{% /tab %}}

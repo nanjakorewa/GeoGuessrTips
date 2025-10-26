@@ -41,7 +41,7 @@ sc: [
 El terreno es volcánico, con suelo negro y hierbas puntiagudas{{% ex "https://maps.app.goo.gl/Qde2dHpWgHTN6pZC6" %}}. Por eso los ríos y pantanos siguen cursos irregulares y casi no existen ríos con orillas rectas. Otras islas volcánicas como {{% goto "../../africa/canary_islands/" "Canarias" %}}, {{% goto "../../africa/reunion/" "Reunión" %}} o {{% goto "../../oceania/pitcairn/" "Pitcairn" %}} también muestran suelos oscuros.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./iceland-road.png" width="95%">
+<img src="/rule/europe/iceland/iceland-road.png" width="95%">
 </div>
 
 
@@ -49,7 +49,7 @@ El terreno es volcánico, con suelo negro y hierbas puntiagudas{{% ex "https://m
 Los bolardos son <span class="quiz">amarillos</span>{{% ex "https://maps.app.goo.gl/2hUEBkVFiWoeekKA8" "https://goo.gl/maps/xVKs6YeD8Hu6uC8g6" "https://goo.gl/maps/6Bp8nSZan47y3pP77" "https://goo.gl/maps/UJsQoZL2FwLCKUMf6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./iceland-bollard.png" width="95%" alt="Bolardos de Islandia" />
+<img src="/rule/europe/iceland/iceland-bollard.png" width="95%" alt="Bolardos de Islandia" />
 </div>
 
 
@@ -57,7 +57,7 @@ Los bolardos son <span class="quiz">amarillos</span>{{% ex "https://maps.app.goo
 En el clima frío islandés abundan las casas con ventanas enormes para aprovechar la radiación solar{{% ex "https://maps.app.goo.gl/sjUUxmKN94VmZ8JM8" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}. A diferencia del norte de Europa casi no hay paredes o techos de madera{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="iceland-house.jpg" width="95%" />
+<img src="/rule/europe/iceland/iceland-house.jpg" width="95%" />
 </div>
 
 
@@ -66,7 +66,7 @@ Las matrículas son totalmente <span class="quiz">blancas</span>{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./1305maj2013_15.jpg" width="90%" alt="Ejemplo de matrícula islandesa" />
+<img src="/rule/europe/iceland/1305maj2013_15.jpg" width="90%" alt="Ejemplo de matrícula islandesa" />
 </div>
 
 {{% lb 50 %}}
@@ -79,7 +79,7 @@ CC0
 Las señales de paso peatonal usan un fondo amarillo, aunque fuera de Reykjavík no siempre aparecen.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Iceland_road_sign_D02.11.svg" width="190px">
+<img src="/rule/europe/iceland/r/Iceland_road_sign_D02.11.svg" width="190px">
 </div>
 
 {{% /tab %}}

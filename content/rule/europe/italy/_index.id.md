@@ -47,7 +47,7 @@ Bollard Italia menipis menjadi bentuk segitiga hitam di puncaknya{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.png" width="90%" alt="Bollard Italia" />
+<img src="/rule/europe/italy/bollard.png" width="90%" alt="Bollard Italia" />
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Plat kendaraan punya strip <span class="quiz">biru di kedua sisi</span>{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="90%">
+<img src="/rule/europe/italy/car.png" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -69,13 +69,13 @@ Banyak rambu memakai pelat persegi dengan sudut dalam melengkung{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
-<img src="./r/roadside.jpg" width="80px" style="margin:30px">
+<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
@@ -83,12 +83,12 @@ Kode jalan SP/SS maupun pelat segi delapan bertuliskan “A” hanya ada di Ital
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-sign.png" width="90%">
+<img src="/rule/europe/italy/road-sign.png" width="90%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
-<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
+<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
+<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
 </div>
 
 {{% notice tip %}}
@@ -191,7 +191,7 @@ Pinus payung menghiasi pesisir Mediterania{{% ex "https://goo.gl/maps/uWJ5Fq86rv
 Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}{{% ref "https://en.wikipedia.org/wiki/Mount_Etna" "Mount Etna" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Vineyard" %}}
@@ -213,7 +213,7 @@ Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6q
 {{% tabs %}}
 {{% tab "Gunung Etna" %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Isola del Giglio" %}}
@@ -221,7 +221,7 @@ Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6q
 Sekitar 90% pulau berupa hutan Mediterania{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" "https://maps.app.goo.gl/XuqdC3Rr7Ya2augE9" %}}{{% ref "https://en.wikipedia.org/wiki/Isola_del_Giglio" "Isola del Giglio" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Giglio_Campese.jpg" width="95%">
+<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria" %}}
@@ -229,7 +229,7 @@ Sekitar 90% pulau berupa hutan Mediterania{{% ex "https://maps.app.goo.gl/f9PG2s
 Pantelleria penuh dinding batu dan kaktus; banyak trekker{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="city/dammuso.jpg">
+<img src="/rule/europe/italy/city/dammuso.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Kep. Egadi" %}}
@@ -237,7 +237,7 @@ Pantelleria penuh dinding batu dan kaktus; banyak trekker{{% ex "https://goo.gl/
 Pulau berbatu dengan benteng di puncak bukit terlihat hampir dari mana saja{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./favignana_island_sea_sicily.jpg" width="95%">
+<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa" %}}
@@ -245,7 +245,7 @@ Pulau berbatu dengan benteng di puncak bukit terlihat hampir dari mana saja{{% e
 Pulau jauh dari daratan; banyak buggy{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}} mirip {{% goto "../../oceania/pitcairn/" "Pitcairn" %}} atau {{% goto "../../oceania/cocos_islands/" "Cocos" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./isola_dei_conigli.jpg" width="95%">
+<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "San Domino" %}}
@@ -261,7 +261,7 @@ Jalan berbatu dan kualitas gambar rendah{{% ex "https://maps.app.goo.gl/spBTAd9T
 Ada area yang hanya bisa dilalui perahu{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}; jangan tertukar dengan Port Grimaud di {{% goto "../france/" "Prancis" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./city/venezia_water_passages_275518.jpg">
+<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Campione d’Italia" %}}

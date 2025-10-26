@@ -43,14 +43,14 @@ Los postes con cortes coinciden con los que se ven en {{% goto "../brazil/" "Bra
 Las señales en los accesos suelen ser negras y es común ver postes rojos y blancos. El reverso de los carteles también suele ser negro, igual que en {{% goto "../brazil/" "Brasil" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="conmebol_football_flag_building.jpg" width="95%">
+<img src="/rule/cs_america/paraguay/conmebol_football_flag_building.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 En carreteras como esta aparecen pórticos con forma de arco que marcan entradas o puestos de control.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Entrada_a_Arroyos_y_Esteros.jpg" width="90%">
+<img src="/rule/cs_america/paraguay/Entrada_a_Arroyos_y_Esteros.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -77,7 +77,7 @@ En ciertos tramos fronterizos se puede acceder al lado paraguayo.
 {{% tabs %}}
 {{% tab "Sureste" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Rice.png" width="80%">
+<img src="/rule/cs_america/paraguay/Paraguay_Rice.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -86,7 +86,7 @@ Las lluvias abundantes permiten cultivar soja, arroz y maíz.
 {{% /tab %}}
 {{% tab "Noroeste" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Cotton.png" width="80%">
+<img src="/rule/cs_america/paraguay/Paraguay_Cotton.png" width="80%">
 </div>
 
 {{% notice tip %}}En cambio, el noroeste es más árido y se especializa en algodón y maní.

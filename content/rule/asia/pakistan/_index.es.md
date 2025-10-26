@@ -37,7 +37,7 @@ Encontrarás texto en <span class="quiz">urdu</span> (اردو) muy a menudo{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./jamamasjidsouthentrance.jpg" width="95%" />
+<img src="/rule/asia/pakistan/jamamasjidsouthentrance.jpg" width="95%" />
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ El traje tradicional salwar kameez tiene pantalones amplios y se ve por todas pa
 
 
 <div class="googlemap-if no-margin">
-<p><img src="Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600"></p><p>Dominio público, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">Link</a></p>
+<p><img src="/rule/asia/pakistan/Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600"></p><p>Dominio público, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Los postes suelen ser metálicos o del tipo visto en Chile{{% ex "https://maps.a
 La mayor parte de las escenas urbanas son de Lahore{{% ex "https://maps.app.goo.gl/PC2DHnBw563TocYbA" "https://maps.app.goo.gl/NTEXrfs6KtSovveo6" %}} y hay muchas tomas interiores{{% ex "https://maps.app.goo.gl/W7bU14B4msxZ6z8C7" "https://maps.app.goo.gl/sQWsLGXC7Fg86W9L9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="shalamar_garden_lahore_pakistan_1.jpg" width="95%">
+<img src="/rule/asia/pakistan/shalamar_garden_lahore_pakistan_1.jpg" width="95%">
 </div>
 
 {{% notice tip %}}

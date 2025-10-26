@@ -43,14 +43,14 @@ Utility poles with cutouts are the same style seen in {{% goto "../brazil/" "Bra
 Checkpoint signage is often black, and red-and-white poles appear frequently. Sign backs are usually black as in {{% goto "../brazil/" "Brazil" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="conmebol_football_flag_building.jpg" width="95%">
+<img src="/rule/cs_america/paraguay/conmebol_football_flag_building.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Roadside archways like this one mark town entrances or checkpoints.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Entrada_a_Arroyos_y_Esteros.jpg" width="90%">
+<img src="/rule/cs_america/paraguay/Entrada_a_Arroyos_y_Esteros.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -77,7 +77,7 @@ Some segments along the Brazilian frontier let you enter Paraguay.
 {{% tabs %}}
 {{% tab "Southeast" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Rice.png" width="80%">
+<img src="/rule/cs_america/paraguay/Paraguay_Rice.png" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -86,7 +86,7 @@ High rainfall supports soybean, rice, and corn fields.
 {{% /tab %}}
 {{% tab "Northwest" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Cotton.png" width="80%">
+<img src="/rule/cs_america/paraguay/Paraguay_Cotton.png" width="80%">
 </div>
 
 {{% notice tip %}}Conversely, the northwest is drier and features cotton and peanut farms.

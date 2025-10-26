@@ -59,7 +59,7 @@ Low, white houses—or pastel-colored homes—are common{{% ex "https://goo.gl/m
 Stone walls and hydrangea-like flowers line many rural roads{{% ex "https://goo.gl/maps/wu3pzy517qpZ37dZ7" "https://goo.gl/maps/aXg4GMMNF37erStv7" "https://goo.gl/maps/RvA1S8VT8s3DghFu6" "https://goo.gl/maps/zGmRQnYLoZGdg1F58" "https://goo.gl/maps/iSvTtk9k2qxKod5f6" "https://goo.gl/maps/SUvfjQZWKoPZBAHq7" "https://goo.gl/maps/wcWVpPCxzjET4ghw5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road.jpg" width="95%" alt="Azores road"/>
+<img src="/rule/europe/azores/road.jpg" width="95%" alt="Azores road"/>
 </div>
 
 
@@ -68,7 +68,7 @@ Stone walls and hydrangea-like flowers line many rural roads{{% ex "https://goo.
 On Faial Island, only the area around the Caldeira has limited Street View coverage{{% ex "https://goo.gl/maps/RtEuRRoeTTTcxet19" "https://goo.gl/maps/XNyPji2XP73kyZsn6" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%82%A2%E3%83%AB%E5%B3%B6" "ファイアル島" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-07-21-06-30-38.png" width="95%" alt="Caldeira de Faial"/>
+<img src="/rule/europe/azores/2023-07-21-06-30-38.png" width="95%" alt="Caldeira de Faial"/>
 </div>
 
 {{% /tab %}}

@@ -38,9 +38,9 @@ sc: [
 {{% notice tip %}}Road signage has many unique designs.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/QA_road_sign_R100.svg" width="110px" style="margin:10px">
-<img src="./r/QA_road_sign_R101.svg" width="120px" style="margin:10px">
-<img src="./r/Qatar_traffic_sign_428.svg" width="110px" style="margin:10px">
+<img src="/rule/middle_east/qatar/r/QA_road_sign_R100.svg" width="110px" style="margin:10px">
+<img src="/rule/middle_east/qatar/r/QA_road_sign_R101.svg" width="120px" style="margin:10px">
+<img src="/rule/middle_east/qatar/r/Qatar_traffic_sign_428.svg" width="110px" style="margin:10px">
 </div>
 
 {{% notice tip %}}The maroon strip on the left of the plate helps you avoid confusing it with {{% goto "../united_arab_emirates/" "Dubai" %}}. The Lusail Plaza Towers skyline is also memorable{{% ref "https://en.wikipedia.org/wiki/Lusail_Plaza_Towers" "Lusail Plaza Towers" %}}.

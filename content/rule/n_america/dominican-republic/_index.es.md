@@ -47,7 +47,7 @@ Existen algunos puntos aislados de Street View fuera de estas dos ciudades{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="100%">
+<img src="/rule/n_america/dominican-republic/poles.png" width="100%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -35,7 +35,7 @@ sc: [
 Cari domain <span class="quiz">.im</span>. Pelat belakang berwarna kuning dengan garis vertikal <span class="quiz">merah</span> di sisi kiri{{% ex "https://maps.app.goo.gl/ASa155LZoJGF6dEZ8" "https://maps.app.goo.gl/GjKsEdbgDfCKhrk47" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./640px-Ford_Focus_illa_de_Man.jpg">
+<img src="/rule/europe/mannin/640px-Ford_Focus_illa_de_Man.jpg">
 </div>
 
 {{% lb 50 %}}

@@ -47,7 +47,7 @@ San Marino and {{% goto "../albania/" "Albania" %}} use similar bollards.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.png" width="90%" alt="Italian bollard" />
+<img src="/rule/europe/italy/bollard.png" width="90%" alt="Italian bollard" />
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ License plates typically have <span class="quiz">blue strips on both sides</span
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="90%" alt="Italian license plate" />
+<img src="/rule/europe/italy/car.png" width="90%" alt="Italian license plate" />
 </div>
 
 {{% lb 50 %}}
@@ -69,13 +69,13 @@ Signs often use a beveled rectangle with rounded inner borders{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
-<img src="./r/roadside.jpg" width="80px" style="margin:30px">
+<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
@@ -83,12 +83,12 @@ Route shields labeled SP/SS or octagonal “A” markers are Italian exclusives{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-sign.png" width="90%" alt="Italian motorway sign" />
+<img src="/rule/europe/italy/road-sign.png" width="90%" alt="Italian motorway sign" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
-<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
+<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
+<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
 </div>
 
 {{% notice tip %}}
@@ -199,7 +199,7 @@ Stone pine (Pinus pinea) groves dominate coastal dunes{{% ex "https://goo.gl/map
 Etna, Europe’s largest active volcano, leaves <span class="quiz">dark lava soil</span> along the roadside{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}{{% ref "https://en.wikipedia.org/wiki/Mount_Etna" "Mount Etna" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Vineyards" %}}
@@ -235,7 +235,7 @@ Solar arrays and greenhouse complexes appear across Puglia and Sicily{{% ex "htt
 Black lava gravel and harsh basalt show up along Etna’s roads{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Isola del Giglio" %}}
@@ -243,7 +243,7 @@ Black lava gravel and harsh basalt show up along Etna’s roads{{% ex "https://m
 Roughly 90% of Giglio Island is Mediterranean woodland{{% ref "https://en.wikipedia.org/wiki/Isola_del_Giglio" "Isola del Giglio" %}} with extensive pine groves{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" "https://maps.app.goo.gl/XuqdC3Rr7Ya2augE9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Giglio_Campese.jpg" width="95%">
+<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria" %}}
@@ -251,7 +251,7 @@ Roughly 90% of Giglio Island is Mediterranean woodland{{% ref "https://en.wikipe
 Pantelleria features stone walls, cactus, and plenty of trekker coverage{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="city/dammuso.jpg">
+<img src="/rule/europe/italy/city/dammuso.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Egadi Islands" %}}
@@ -259,7 +259,7 @@ Pantelleria features stone walls, cactus, and plenty of trekker coverage{{% ex "
 The Egadi archipelago shows rocky mountains crowned by fortress ruins{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./favignana_island_sea_sicily.jpg" width="95%">
+<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa" %}}
@@ -267,7 +267,7 @@ The Egadi archipelago shows rocky mountains crowned by fortress ruins{{% ex "htt
 Lampedusa lies far from the mainland; buggies are common{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}}, similar to islands like {{% goto "../../oceania/pitcairn/" "Pitcairn" %}} or {{% goto "../../oceania/cocos_islands/" "Cocos" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./isola_dei_conigli.jpg" width="95%">
+<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "San Domino" %}}
@@ -283,7 +283,7 @@ San Domino (Tremiti Islands) has rough cobblestone paths and low-resolution imag
 Venice includes waterways you must travel by boat{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}—don’t confuse it with {{% goto "../france/" "France’s" %}} Port Grimaud.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./city/venezia_water_passages_275518.jpg">
+<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Campione d’Italia" %}}

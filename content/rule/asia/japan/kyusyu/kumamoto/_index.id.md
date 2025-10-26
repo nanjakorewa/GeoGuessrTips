@@ -28,7 +28,7 @@ Pita merah dililitkan pada tiang rambu dan papan nama.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="kumamoto_pref_road_28_0.jpg" width="90%">
+<img src="/rule/asia/japan/kyusyu/kumamoto/kumamoto_pref_road_28_0.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ Pelat tiang listrik milik Kyushu Electric Power mudah ditemukan.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-kyusyu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px">
 </div>
 
 {{% /tab %}}
@@ -59,7 +59,7 @@ Sejak TSMC mengumumkan pabrik barunya, sangat banyak perusahaan terkait semikond
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2025-01-04-13-51-49.png">
+<img src="/rule/asia/japan/kyusyu/kumamoto/2025-01-04-13-51-49.png">
 </div>
 
 {{% /tab %}}

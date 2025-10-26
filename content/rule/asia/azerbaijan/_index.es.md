@@ -32,7 +32,7 @@ Se utiliza principalmente el idioma azerbaiyano.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./shirvan_city.jpg" width="75%">
+<img src="/rule/asia/azerbaijan/shirvan_city.jpg" width="75%">
 </div>
 
 {{% notice tip %}}
@@ -44,7 +44,7 @@ El país es famoso por los yacimientos petrolíferos de Bakú y está cubierto d
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="Azerbaijan_Product_Exports_(2019).svg" width="500px">
+<img src="/rule/asia/azerbaijan/Azerbaijan_Product_Exports_(2019).svg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -52,7 +52,7 @@ Las matrículas suelen incluir una pequeña bandera nacional en la esquina super
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%">
+<img src="/rule/asia/azerbaijan/Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%">
 </div>
 
 
