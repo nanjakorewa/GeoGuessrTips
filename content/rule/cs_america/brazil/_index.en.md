@@ -1,0 +1,417 @@
+---
+
+title: "Brazil"
+date: 2023-02-26
+lastmod: 2023-04-19
+weight: 2
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "BR.svg"
+jetro_detail: true
+jogmec_detail: true
+plonkit: true
+map_title: "practice map"
+maps: [
+    ["https://www.geoguessr.com/maps/61df8477a94f5d0001ef9f2c", "A Balanced Brazil"],
+    ]
+sc_title: "Areas that are easy to mistake"
+sc: [
+    ["../colombia/", "Columbia"],
+    ["../argentina/", "northern argentina"],
+    ["../../asia/cambodia/", "Cambodia"],
+    ["../../asia/indonesia/", "Indonesia"],
+    ["../../asia/thai/", "Thailand"],
+    ]
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li>The domain is <span class="quiz">.br</span></li>
+        <li>language is <span class="quiz">Portugal</span> It is a word “<span class="quiz">Ã・ã</span>” is distinctive.</li>
+        <li>the back of the sign <span class="quiz">black</span> There are many things</li>
+        <li>The antenna on the house is distinctive.<span class="quiz">transparent</span> There are many parabolic antennas.</li>
+        <li>The top of the license plate <span class="quiz">blue</span> There are times when{{% by %}}</li>
+        <li>License plates of trucks, buses, and taxis <span class="quiz">red</span> color</li>
+        <li>A partition in the groove of a utility pole <span class="quiz">be</span> using telephone poles</li>
+    </ul>
+    {{% rd cs_america brazil verysmall %}}
+    {{% corp "cs_america/brazil" "" %}}
+</div>
+
+
+{{% tabs %}}
+{{% tab "w-etf" %}}
+
+{{% notice tip %}}
+language is <span class="quiz">Portugal</span> It is a word “<span class="quiz">Ã・ã</span>” is distinctive.
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./st/Placa_rod_f_dias.png"width="440xp">
+</div>
+
+{{% notice tip %}}
+the back of the sign <span class="quiz">black</span> There are many things (the background image is<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">here</a>use the one of, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>).
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./traffic-sign-example.png" width="90%">
+</div>
+
+{{% notice tip %}}
+The antenna on the house is distinctive.<span class="quiz">transparent</span> Use a parabolic antenna{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}.However, this alone cannot be certain.
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./house.jpg" width="95%">
+</div>
+
+{{% notice tip %}}
+License plates of trucks, buses, and taxis <span class="quiz">It was red</span> The characters are <span class="quiz">red</span> It's expensive.
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Nissan Leaf taxi Rio de Janeiro"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+{{% lb 50 %}}
+![](2023-04-18-23-40-43.png)
+
+By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20547078">Wikimedia Commons</a>
+{{% /lb %}}
+
+
+{{% notice tip %}}
+It has the logo of Petrobras, the largest oil company in South America.{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}.
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./petrobras_no_b_laranjeiras.jpg" width="95%">
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
+</div>
+
+
+{{% notice tip %}}
+There's a tank with Fortlev written on it.{{% ref "https://www.fortlev.com.br/categorias/solucoes-fortlev-caixa-dagua-pequenos-volumes/" "Soluções Fortlev Caixa d'Água Pequenos Volumes" %}}.There are several different colors, but each has a unique shape.I can see it's on the roof.
+{{% /notice %}}
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wolever/2622433346/" title="My View 2"><img src="https://live.staticflickr.com/3019/2622433346_c36b1b64d7_z.jpg" width="640" height="427" alt="My View 2"/></a>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="2023-06-13-03-04-56.png" >
+<img src="2023-06-13-03-05-06.png" >
+</div>
+
+
+{{% notice tip %}}
+Telephone poles in Brazil have partitions in the grooves.<span class="quiz">be</span>{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" "https://goo.gl/maps/povhWefkEBjScvDP6" %}}.on the other hand{{% goto "../chile/" "Chile" %}}There is a partition <span class="quiz">None</span> There is only one{{% imref %}}.You can also see circular utility poles.You can also see signs reading BR on the side of the road.
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./pole.jpg" width="90%" />
+</div>
+
+{{% notice tip %}}
+A yellow chevron is found on a black background.
+{{% /notice %}}
+
+{{% notice note %}}
+As a country where chevrons of the same color can be found{{% goto "../../asia/cambodia/" "Cambodia" %}}{{% ex "https://maps.app.goo.gl/myCJ52cbZMqMiydg7" %}}or{{% goto "../../europe/" "Portugal" %}}There is.Please note that in Cambodia and Thailand, the color of the soil and vegetation are similar in some places, so it is possible to make a mistake.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg#/media/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Catarina_-_SC-303_%28ponto_cr%C3%ADtico%29_%288102621957%29.jpg" alt="File:Santa Catarina - SC-303 (ponto crítico) (8102621957).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51889924@N04">Agencia CNT de Noticias</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/agenciacnt/8102621957/">Santa Catarina - SC-303 (ponto crítico)</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64221741">Link</a></p>
+</div>
+
+
+
+{{% /tab %}}
+{{% tab "Strategy video" %}}
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kges-ekKMI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+<div class="googlemap-if">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n9PebEV7j3Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "w-commercial" %}}
+
+{{% notice tip %}}
+Banco Itaú, the largest bank in South America <span class="quiz">orange sign</span> There are many.to the gas station <span class="quiz">South America's largest oil company Petrobras (green logo)</span> There are many things.
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./banco_itau_agencia_leblon.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "w-mymemo-wrong-cn" %}}
+
+<div>
+    <ul class="rule-list-none">
+        <li>{{% googlemap "https://goo.gl/maps/wnDprFHoaj1iUvRn8" %}}</li>
+    </ul>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>You can narrow down the range by area code.</li>
+        <li>A signboard with the road number written as "BR XX" stands on the roadside.</li>
+        <li>Florianópolis{{% ex "https://maps.app.goo.gl/UYoZ3wNXEkQd2csS6" %}}centered around{{% goto "../../europe/azores/" "Azores" %}}You can see European-style architecture influenced by immigrants from</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Area code" %}}
+
+{{% notice tip %}}
+1 in Sao Paulo and 2 in Rio de Janeiro.Basically, the numbers increase from east to west.
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
+<p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
+</div>
+{{% /tab %}}
+{{% tab "BR signboard" %}}
+
+{{% notice tip %}}
+It's quite difficult to find the road number right away, so try narrowing down the area based on the surrounding atmosphere.
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./rodovia_br460_carmo_de.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Around Florianopolis" %}}
+
+{{% notice tip %}}
+during construction{{% goto "../../europe/azores/" "Azores" %}}Due to the large number of Portuguese people who settled here, the majority of citizens have European immigrant ancestry.{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%AA%E3%82%A2%E3%83%8E%E3%83%BC%E3%83%9D%E3%83%AA%E3%82%B9" "florianopolis" %}}.There are many German and Italian immigrants, and the architecture is often European-style.
+{{% /notice %}}
+
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Arauc%C3%A1ria_-_centro_-_panoramio.jpg#/media/File:Araucária_-_centro_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arauc%C3%A1ria_-_centro_-_panoramio.jpg" alt="Araucária - centro - panoramio.jpg" height="720" width="90%"></a></p><p>By dnsilva1, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53785493">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">vegetation</h4>
+    <ul class="rule-list">
+        <li>Vegetation and soil colors vary by region.
+            <ul>
+                <li>Amazônia: humid equatorial climate with Amazonian forests</li>
+                <li>Cerrado: It is difficult to distinguish because there are areas with many fields and areas with many trees.</li>
+                <li>Mata Atlantica: a forest that stretches across more than 15 states along Brazil's Atlantic coastline</li>
+                <li>Caatinga: Dry soil, often containing whitish soil.</li>
+                <li>Pampa: It has an atmosphere similar to Uruguay and has agricultural and pastureland.</li>
+                <li>Pantanal: An alluvial plain formed by rivers in northern Paraguay, but there are almost no roads.</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "vegetation" %}}
+
+<div class="googlemap-if">
+<div class="unclickable"><img src="2023-04-27-08-27-15.png" /></div>
+<div class="googlemap-if" style="font-size:0.8em;">Image source: By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
+</div>
+{{% /tab %}}
+{{% tab "Amazônia" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682559206378!6m8!1m7!1snECoHmCIn8H4i4jKaqG30A!2m2!1d3.690005481394581!2d-61.70034552882197!3f303.12705986159517!4f-6.649236407431545!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682558624818!6m8!1m7!1sBIoAJhz54UC94nW5FQJgUQ!2m2!1d3.360432252131066!2d-51.67337002057713!3f314.391452254387!4f-7.744641660505394!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Cerrado" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682558848930!6m8!1m7!1sM2GjbU_HquLSsO2JwHis8w!2m2!1d-16.40290145846666!2d-50.40739402454159!3f204.87821931998835!4f-4.8153556383479525!5f1.6369705511924675" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682558918394!6m8!1m7!1sIN5hwMuiUer-EE8lQx3n1A!2m2!1d-18.36066707210302!2d-45.77849523104562!3f43.417439846579754!4f9.076290026625571!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Caatinga" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682559737817!6m8!1m7!1svvKhW2qiFBOP2bBrL8m4ng!2m2!1d-4.98516390409495!2d-37.31726763464727!3f93.42795566482673!4f-6.246105023247111!5f2.5799526629061464" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682559662442!6m8!1m7!1sukGcTr9M-csVMN0rymRoFg!2m2!1d-6.539873595640429!2d-37.50937460537717!3f191.185849265598!4f-14.12474621815224!5f1.568316941340889" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Mata Atlantica" %}}
+
+{{% notice note %}}
+Plants vary depending on the region.Affected by moist winds blowing from the sea.The forest looks different from other areas.I feel like sometimes I can see things like palms and pines.{{% by "https://www.jifpro.or.jp/cgi-bin/ntr/documents/NET8421.pdf" "web" "Ecology and conservation of the Brazilian Atlantic Forest (Mata Atlantica)" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682560156122!6m8!1m7!1swa_zmjlH2gqBQ2oabyLhSA!2m2!1d-22.0252523845475!2d-41.07132487765809!3f264.15454414488715!4f-1.6958916170852945!5f1.5378273234838713" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682559846434!6m8!1m7!1sEZrg2IvmS_Dpo40Li5NgwA!2m2!1d-12.27769993257875!2d-37.8820651128763!3f359.89142704476234!4f4.171539727133862!5f1.5135439780731126" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Pampa" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682560746237!6m8!1m7!1s9dhF35gqnNfT06exQSZq8A!2m2!1d-29.97944047612433!2d-56.54452566178293!3f66.06010993564273!4f-2.148703313678041!5f2.8062917746442597" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682560839626!6m8!1m7!1szmXGuOU-85y4w39NLD_xMg!2m2!1d-31.76440676809355!2d-54.15591499962603!3f222.87300769244834!4f-3.5749410915477!5f2.9377560244887877" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "Pantanal" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682639619124!6m8!1m7!1s3p5OupPwhc2DiKhsj27uPw!2m2!1d-19.01679467617658!2d-57.53193554803059!3f158.0077363936258!4f-23.38418793810321!5f1.7410521314355352" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1682639577855!6m8!1m7!1sCmml6mgQBChhNysXhxcEyA!2m2!1d-19.36288315842267!2d-57.55096809136056!3f219.91708888805192!4f-13.84361818284306!5f2.956808514492435" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">distinctive plants</h4>
+    <ul class="rule-list">
+        <li>Trees that identify specific regions or states
+            <ul>
+                <li>Parana pine: Parana pine{{% ref "https://en.wikipedia.org/wiki/Araucaria_angustifolia" "Araucaria angustifolia" %}}teeth <span class="quiz">paraná</span> around the state{{% by "neckoluv" "twitch" %}}</li>
+                <li>Brazilian wax palm:<span class="quiz">Cearer</span> Northeastern region centered on the state</li>
+                <li>Babasu tree: Piauí state and <span class="quiz">Maranhão</span> state{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "[Geo Cup] Full tournament commentary by Japan's strongest!![Translation] [Geoguessr]" %}}, can be seen all over the southern part of the country.</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "parana pine" %}}
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="Araucaria angustifolia　Araucaria brasiliense　Brazilian pine Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="Araucaria angustifolia Araucaria brasiliense Brazilian pine Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+This tree is <span class="quiz">paraná</span> around the state{{% by "neckoluv" "twitch" %}}
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "Brazilian wax palm" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Carnauba.jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijus</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Link</a></p>
+</div>
+
+{{% notice tip %}}
+This tree is <span class="quiz">Cearer</span> around the state
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "Babasu" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="2023-05-07-20-45-47.png" />
+</div>
+
+{{% notice tip %}}
+with the state of Piauí<span class="quiz">Maranhão</span> state{{% by "https://youtu.be/-QLH4dW90jc?t=349" "youtube" "[Geo Cup] Full tournament commentary by Japan's strongest!![Translation] [Geoguessr]" %}}It is found throughout the southern part of the country.
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "Syagurus coronata" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Syagrus coronata 12zz.jpg" width="70%"></a></p><p>By Photo by David J. Stang - source: David Stang. First published at ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Link</a></p>
+</div>
+
+{{% notice tip %}}
+Syagrus coronata is a tree that can be seen in eastern Brazil, distributed from the southern part of Pernambuco state to Bahia state.Probably a lot of Bahia.
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "Acai" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Euterpe precatoria (19866677541).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> from Gibsons, B.C., Canada - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Link</a></p>
+</div>
+
+{{% notice tip %}}
+Açaizeiro is common in the state of Para.{{% by "https://www.youtube.com/live/hdfKwKpxiI8" "youcome" "citizen john" %}}.It seems to be especially common in the Amazon River basin and around Marajó Island.{{% ref "https://acaibowl.theshop.jp/blog/2015/10/23/165319" "Acai bowl specialty store EMPORIO EXPRESS Daikanyama" %}}.
+{{% /notice %}}
+{{% /tab %}}
+{{% tab "Eucalyptus Grandis" %}}
+<div class="googlemap-if unclickable no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Eucalyptus grandis Kerewong State Forest 55 metres tall.jpg" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Link</a></p>
+</div>
+
+{{% notice tip %}}
+Sparsely distributed mainly in areas near the coast of Sao Paulo and Rio Grande do Sul states{{% ref "https://www.inaturalist.org/observations?nelat=5.270047696693523&nelng=-28.65054299369068&place_id=any&subview=map&swlat=-34.08909995749887&swlng=-73.98281703987209&taxon_id=135371" "iNaturalist - Eucalyptus grandis" %}}.
+{{% /notice %}}
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Vila do Abraão has a distinctive mountain that shows the head of a trekker</li>
+        <li>There is a remote island called Fernando de Noronha.{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Vila do Abraão" %}}
+{{% notice tip %}}
+I can see a sharp mountain{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}.There is also a section where you are riding a blue buggy.{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}.
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./ilhagrande_abraao1.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% tab "Fernando de Noronha" %}}
+{{% notice tip %}}
+There is a hole in the telephone pole.There are many rocky areas and there are places where you can take a boat.There are some very distinctive rocks, so you might be able to tell from that.{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}.
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./brazil_1091369.jpg" width="95%">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+{{% imgref %}}
+<li>Only the second telephone pole image from the left is extracted from the image below.</li>
+<li>　By <a href="https://www.wikidata.org/wiki/Q57979330" class="extiw" title="d:Q57979330"><span title="librarian in Chicago, Illinois">Paul R. Burley</span></a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74494644">Link</a></li>
+{{% /imgref %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">Description of representative companies</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">Company name</th>
+                <th scope="col" class="col-width-1">code</th>
+                <th scope="col" class="col-width-7">explanation</th>
+                <th scope="col" class="col-width-05">settlement of accounts</th>
+                <th scope="col" class="col-width-05">Dividend history</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Petroleo Brasileiro</td>
+                <td>{{% nasdaq "PBR" %}}</td>
+                <td>The largest oil drilling company in the southern hemisphere.</td>
+                <td>{{% corplink "https://www.investidorpetrobras.com.br/en/" %}}</td>
+                <td>{{% dividend "nasdaq" "PBR" %}}</td>
+            </tr>
+            <tr>
+                <td>Vale</td>
+                <td>{{% nasdaq "VALE" %}}</td>
+                <td>One of the three major iron ore producers.It also produces bauxite, copper, and gold.</td>
+                <td>{{% corplink "https://vale.com/ja/investors" %}}</td>
+                <td>{{% dividend "nasdaq" "VALE" %}}</td>
+            </tr>
+            <tr>
+                <td>Itaú Unibanco Holding</td>
+                <td>{{% nasdaq "ITUB" %}}</td>
+                <td>Largest bank in Latin America{{% ref "https://en.wikipedia.org/wiki/List_of_largest_banks" "The world's 100 largest banks in the S&P Global Market Intelligence report" %}}.This is a rare company that pays a dividend every month (usually quarterly, but in South Africa and other countries semi-annually).</td>
+                <td>{{% corplink "https://www.itau.com.br/" %}}</td>
+                <td>{{% dividend "nasdaq" "ITUB" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
