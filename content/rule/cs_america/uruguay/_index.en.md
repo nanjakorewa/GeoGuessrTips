@@ -38,7 +38,7 @@ sc: [
 Many signs use planks painted <span class="quiz">white</span> with square holes{{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}. Bollards are also predominantly <span class="quiz">white</span>; even yellow ones usually have white sides. License plates appear almost <span class="quiz">white</span>{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}, whereas {{% goto "../argentina/" "Argentina" %}} uses plates with a dark center.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Uruguayan road sign">
+<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Uruguayan road sign">
 </div>
 
 {{% lb 50 small %}}
@@ -61,7 +61,7 @@ The national oil company ANCAP operates most of the fuel network, so its station
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <div class="unclickable">
-<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
+<img src="/rule/cs_america/uruguay/Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Simple fences and dirt tracks are also present but are less decisive—use them 
 Almost half of the country’s barley and soybean output comes from Soriano and Colonia in the southwest{{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}. Corn and rapeseed cluster in the west as well, so vast crop fields usually point in that direction{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Uruguay Production" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Uruguay_Barley.png" width="90%">
+<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -102,7 +102,7 @@ Neither the settlement nor the access road uses the black Google car{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./casaspolonio.jpg" width="95%">
+<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}

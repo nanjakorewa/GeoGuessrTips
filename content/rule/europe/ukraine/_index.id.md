@@ -48,7 +48,7 @@ Sisi kiri plat nomor sering berwarna <span class="quiz">biru dan kuning</span>, 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-30-18-58-19.png" width="95%" />
+<img src="/rule/europe/ukraine/2023-07-30-18-58-19.png" width="95%" />
 </div>
 
 {{% lb 50 %}}
@@ -66,8 +66,8 @@ Anda mungkin melihat Google Car berwarna <span class="quiz">merah</span> samar{{
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" />
-<img src="2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" />
+<img src="/rule/europe/ukraine/2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" />
+<img src="/rule/europe/ukraine/2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" />
 <div class="description-wide">
 Kiri adalah contoh Ukraina, kanan adalah Rusia (ditampilkan dengan fitur &quot;Enumerate vision deficiencies&quot; di Chrome DevTools). Jika Anda sulit melihat warna merah, carilah petunjuk lain.
 </div>
@@ -126,7 +126,7 @@ Banyak area dengan bangunan yang terbengkalai{{% ex "https://maps.app.goo.gl/m1F
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./18_134_186.jpg" width="550px">
+<img src="/rule/europe/ukraine/18_134_186.jpg" width="550px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

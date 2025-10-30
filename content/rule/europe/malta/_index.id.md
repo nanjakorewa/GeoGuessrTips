@@ -48,7 +48,7 @@ Dinding oker pucat dari batu kapur tersebar di seluruh pulau{{% ex "https://maps
 Bangunan khas dari batu pucat berjajar; arsitektur Barok dapat ditemukan{{% ref "https://en.wikipedia.org/wiki/Architecture_of_Malta" "Arsitektur Malta" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./malta_alley_house_street.jpg" width="90%">
+<img src="/rule/europe/malta/malta_alley_house_street.jpg" width="90%">
 </div>
 
 
@@ -83,7 +83,7 @@ Lambang kota Rabat.
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688016496533!6m8!1m7!1s6wNHZYY4zm1wKWBe2t6Uvg!2m2!1d35.87682620465242!2d14.39919741634585!3f35.53437489022956!4f12.242743299431226!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div style="margin:30px;pointer-events:none;">
-<img src="malta-cityflag.png" width="275px">
+<img src="/rule/europe/malta/malta-cityflag.png" width="275px">
 </div>
 </div>
 {{% /tab %}}

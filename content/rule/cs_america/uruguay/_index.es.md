@@ -38,7 +38,7 @@ sc: [
 Las señales están montadas en tablones <span class="quiz">blancos</span> con orificios cuadrados{{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}. Los bolardos también son mayoritariamente <span class="quiz">blancos</span>; incluso cuando hay bolardos amarillos, los laterales siguen siendo blancos. Las matrículas uruguayas son casi <span class="quiz">blancas</span>{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}, mientras que en {{% goto "../argentina/" "Argentina" %}} el centro se ve negro.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Señales uruguayas">
+<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Señales uruguayas">
 </div>
 
 {{% lb 50 small %}}
@@ -61,7 +61,7 @@ La petrolera estatal ANCAP controla la mayor parte del sector energético, por l
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <div class="unclickable">
-<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
+<img src="/rule/cs_america/uruguay/Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Las rejas simples y los caminos de tierra también aparecen, pero son menos dete
 Casi la mitad de la producción de cebada y soja proviene de Soriano y Colonia en el suroeste{{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}. El maíz y la colza también se concentran en el oeste, así que un paisaje de campos extensos suele sugerir esa región{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Uruguay Production" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Uruguay_Barley.png" width="90%">
+<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -102,7 +102,7 @@ Ni en el poblado ni en el camino de acceso se usa el coche negro de Google{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./casaspolonio.jpg" width="95%">
+<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}
