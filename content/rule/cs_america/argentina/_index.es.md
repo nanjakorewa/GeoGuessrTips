@@ -40,7 +40,7 @@ sc: [
 Cuando la matrícula tiene un mosaico, el centro está<span class="quiz">se vuelve negruzco</span>{{% ex "https://maps.app.goo.gl/u7uQxHHTZA19YShW7" "https://maps.app.goo.gl/9myJgmbTH5K1bKLH8" "https://maps.app.goo.gl/7DaWy9xsURK71AqD8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./taxi.jpg" width="90%">
+<img src="/rule/cs_america/argentina/taxi.jpg" width="90%">
 </div>
 {{% lb 50 small %}}
 ![](2023-04-12-11-42-57.png)
@@ -53,7 +53,7 @@ Es posible que las fotografías tomadas después de 2016 no sean números negros
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Placas_de_veículos_do_Mercosul_mercosur.jpg">
+<img src="/rule/cs_america/argentina/Placas_de_veículos_do_Mercosul_mercosur.jpg">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ coche de google <span class="quiz">negro</span> color{{% ex "https://maps.app.go
 Argentina y{{% goto "../uruguay/" "Uruguay" %}}Un letrero con el nombre de una calle que parece poder encontrarse en.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-sign.jpg" width="90%">
+<img src="/rule/cs_america/argentina/road-sign.jpg" width="90%">
 </div>
 
 
@@ -75,11 +75,11 @@ Argentina y{{% goto "../uruguay/" "Uruguay" %}}Un letrero con el nombre de una c
 Es posible que haya un pequeño letrero al costado de la carretera con el número de la misma escrito.{{% ex "https://maps.app.goo.gl/HbiufkgCGYbvbKpB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./2011_101_18_140540.jpg" width="95%" />
+<img src="/rule/cs_america/argentina/2011_101_18_140540.jpg" width="95%" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/road-sign.png" width="170px">
+<img src="/rule/cs_america/argentina/r/road-sign.png" width="170px">
 </div>
 
 
@@ -87,7 +87,7 @@ Es posible que haya un pequeño letrero al costado de la carretera con el númer
 Posee muchos campos de petróleo de esquisto en Argentina.<span class="quiz">YPF (Yacimientos Petrolíferos Fiscales)</span> gasolinera.signo azul{{% ex "https://maps.app.goo.gl/CetzCF3MWpnLapD89" %}}o tambores{{% ex "https://maps.app.goo.gl/c7NoLJHSy2NrQ2iV6" "https://maps.app.goo.gl/jy1mLTfiqUcHsArK9" %}}es el hito.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./junin_av_republica_20060428.jpg" width="90%" />
+<img src="/rule/cs_america/argentina/junin_av_republica_20060428.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
@@ -131,7 +131,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "nordeste" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/2.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/2.jpg" width="350px">
 </div>
 
 
@@ -143,7 +143,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "centro norte" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/1.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/1.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -154,7 +154,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "Cerca de Jujuy" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/6.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/6.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -165,7 +165,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "Cerca de la frontera chilena" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/4.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/4.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -176,7 +176,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "centro este" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/5.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/5.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -187,7 +187,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "del sur" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/3.jpg" width="350px">
+<img src="/rule/cs_america/argentina/v/3.jpg" width="350px">
 </div>
 
 <div class="googlemap-if">
@@ -201,7 +201,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% notice tip %}}A continuación se muestra un mapa de las regiones donde se produce maíz.{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Argentina_Corn.png" width="90%">
+<img src="/rule/cs_america/argentina/Argentina_Corn.png" width="90%">
 </div>
 
 {{% /tab %}}
@@ -229,7 +229,7 @@ Postes telefónicos que se pueden ver en Argentina.poste de servicios públicos 
 {{% /tab %}}
 {{% tab "Taxi" %}}
 <div class="googlemap-if">
-<img src="taxi_argentino.jpg">
+<img src="/rule/cs_america/argentina/taxi_argentino.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

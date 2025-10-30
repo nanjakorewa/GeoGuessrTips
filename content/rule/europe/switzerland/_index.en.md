@@ -53,7 +53,7 @@ Comparison of Google Car in Switzerland and Finland.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="googlecar.png" width="500px">
+<img src="/rule/europe/switzerland/googlecar.png" width="500px">
 </div>
 
 
@@ -66,7 +66,7 @@ crosswalk sign <span class="quiz">7 pieces</span> The crosswalk is yellow.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
+<img src="/rule/europe/switzerland/1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -83,7 +83,7 @@ Cylindrical bollards with round heads are from Switzerland.{{% goto "../liechten
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road_mountain_switzerland_sky.jpg">
+<img src="/rule/europe/switzerland/road_mountain_switzerland_sky.jpg">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Houses with wooden triangular roofs that are common in the Alps{{% ref "https://
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="switzerland_valais_bergdorf_1335698.jpg" width="95%" />
+<img src="/rule/europe/switzerland/switzerland_valais_bergdorf_1335698.jpg" width="95%" />
 </div>
 
 {{% /tab %}}
@@ -167,10 +167,10 @@ Orange is German, green is French, and purple is Italian.
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./speed/fr.svg" width="120px" style="margin:10px" />
-<img src="./speed/ge.svg" width="120px" style="margin:10px" />
-<img src="./speed/it.svg" width="120px" style="margin:10px" />
-<img src="./speed/ch.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/fr.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/ge.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/it.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/ch.svg" width="120px" style="margin:10px" />
 </div>
 {{% /tab %}}
 {{% tab "Area code" %}}

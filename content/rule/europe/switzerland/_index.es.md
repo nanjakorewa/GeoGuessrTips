@@ -53,7 +53,7 @@ Comparación de Google Car en Suiza y Finlandia.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="googlecar.png" width="500px">
+<img src="/rule/europe/switzerland/googlecar.png" width="500px">
 </div>
 
 
@@ -66,7 +66,7 @@ señal de cruce de peatones <span class="quiz">7 piezas</span> El paso de peaton
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
+<img src="/rule/europe/switzerland/1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -83,7 +83,7 @@ Los bolardos cilíndricos con cabeza redonda proceden de Suiza.{{% goto "../liec
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road_mountain_switzerland_sky.jpg">
+<img src="/rule/europe/switzerland/road_mountain_switzerland_sky.jpg">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Casas con tejados triangulares de madera, habituales en los Alpes{{% ref "https:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="switzerland_valais_bergdorf_1335698.jpg" width="95%" />
+<img src="/rule/europe/switzerland/switzerland_valais_bergdorf_1335698.jpg" width="95%" />
 </div>
 
 {{% /tab %}}
@@ -167,10 +167,10 @@ El naranja es alemán, el verde es francés y el morado es italiano.
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./speed/fr.svg" width="120px" style="margin:10px" />
-<img src="./speed/ge.svg" width="120px" style="margin:10px" />
-<img src="./speed/it.svg" width="120px" style="margin:10px" />
-<img src="./speed/ch.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/fr.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/ge.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/it.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/ch.svg" width="120px" style="margin:10px" />
 </div>
 {{% /tab %}}
 {{% tab "Código de área" %}}

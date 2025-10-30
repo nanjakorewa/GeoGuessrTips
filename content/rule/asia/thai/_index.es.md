@@ -62,7 +62,7 @@ El tailandés central es el idioma oficial.{{% ex "https://maps.app.goo.gl/7kwR5
 Un bolardo angular similar{{% goto "../laos/" "Laos" %}}Hay un poste telefónico cuadrado en{{% goto "../srilanka/" "Sri Lanka" %}}o{{% goto "../philippines/" "Filipinas" %}}Tenga en cuenta que también hay Si su automóvil tiene una placa amarilla, la bobina en el poste telefónico es grande o hay un poste telefónico con un agujero.{{% goto "../srilanka/" "Sri Lanka" %}}, si hay un vehículo con matrícula verdosa o de forma única.{{% goto "../philippines/" "Filipinas" %}}Pensemos en ello.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
+<img src="/rule/asia/thai/road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
 </div>
 
 <div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
@@ -74,13 +74,13 @@ Hay bolardos blancos que se pueden utilizar para delimitar la ubicación.{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./thailand-milestone.jpg" width="90%" alt="タイのボラード" />
+<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="タイのボラード" />
 </div>
 
 {{% notice tip %}}<span class="quiz">izquierda</span> Tráfico lateral, turismos en general.<span class="quiz">blanco</span> Hay muchas placas de colores y las placas de taxi son <span class="quiz">amarillo</span> Hay muchos colores.En Laos, los coches corrientes <span class="quiz">amarillo</span> chuleta de color <span class="quiz">bien</span> Tráfico lateral.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="lp.jpg" width="90%">
+<img src="/rule/asia/thai/lp.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -104,7 +104,7 @@ Un poste de alumbrado público tiene un reflector blanco y naranja.{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="pole.jpg" width="90%">
+<img src="/rule/asia/thai/pole.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -116,7 +116,7 @@ Aunque no son muchos{{% goto "../indonesia/" "Indonesia" %}}Sin embargo, dado qu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road205_in_amphoe_thep.jpg" width="90%">
+<img src="/rule/asia/thai/road205_in_amphoe_thep.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ El ramen número 8, que se encuentra comúnmente en la región de Hokuriku, se e
 {{% tabs %}}
 {{% tab "palma aceitera" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-17-28.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -189,11 +189,11 @@ Si tiene palmas aceiteras como palmeras, considere las tierras bajas del sur.{{%
 {{% /tab %}}
 {{% tab "goma" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="rubber-tree-distribution.png" width="60%" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./rubberwood.jpg">
+<img src="/rule/asia/thai/rubberwood.jpg">
 </div>
 
 {{% notice tip %}}
@@ -202,7 +202,7 @@ Los árboles de caucho se encuentran generalmente en el lado sur de la penínsul
 {{% /tab %}}
 {{% tab "cono" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-15-43.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -211,7 +211,7 @@ Al igual que Estados Unidos, el maíz y la soja se producen básicamente en la m
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-18-17.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" />
 </div>
 
 {{% notice tip %}}
@@ -290,7 +290,7 @@ La carretera 4169 rodea la isla.{{% ex "https://maps.app.goo.gl/6Uo9cLhZJFmL4dWu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./samui_koh_samui_bangrak.jpg" width="90%">
+<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%">
 </div>
 
 {{% /tab %}}

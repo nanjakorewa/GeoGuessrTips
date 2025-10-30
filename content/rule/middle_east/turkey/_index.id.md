@@ -45,18 +45,18 @@ sc: [
 Tanda dan tanda Turki.Karakter Ç, Ş, Ğ, İ, Ö, Ü dan "・" di atas huruf Ü bersifat khas.{{% ex "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}.“Ü” juga digunakan dalam nama negara “Türkiye”{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "Turki mengubah nama negaranya di PBB menjadi Turkiye - JETRO" %}}.{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
+<img src="/rule/middle_east/turkey/640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
 </div>
 
 {{% notice tip %}}
 Terdapat banyak lubang kecil pada tongkat tanda, sehingga Anda sering dapat melihat sisi lainnya.{{% ex "https://maps.app.goo.gl/ycd26ZomcZVsHcrK7" "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-06-16-06-39-55.png" width="350px">
-<img src="2023-06-16-06-36-19.png" width="258px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-39-55.png" width="350px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-36-19.png" width="258px">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="85%" />
+<img src="/rule/middle_east/turkey/pole.png" width="85%" />
 </div>
 
 
@@ -66,14 +66,14 @@ Chevron terutama digunakan dalam warna merah dan putih, tetapi ciri khasnya adal
 
 
 <div class="googlemap-if unclickable">
-<img src="./road-arrow.jpg" width="90%" alt="トルコのシェブロン" />
+<img src="/rule/middle_east/turkey/road-arrow.jpg" width="90%" alt="トルコのシェブロン" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/175104.png" width="150px" style="margin:15px">
-<img src="./r/c1.jpg" width="150px" style="margin:15px">
-<img src="./r/c2.jpg" width="150px" style="margin:15px">
-<img src="./r/ar-bc.jpg" width="110px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/175104.png" width="150px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/c1.jpg" width="150px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/c2.jpg" width="150px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/ar-bc.jpg" width="110px" style="margin:15px">
 </div>
 
 {{% notice tip %}}
@@ -84,15 +84,15 @@ Tanda berhentinya adalah <span class="quiz">DUR</span>, lalu lintas satu arah ad
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Turkish_Stop_Sign.svg" width="120px">
-<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
+<img src="/rule/middle_east/turkey/r/Turkish_Stop_Sign.svg" width="120px">
+<img src="/rule/middle_east/turkey/r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
 Tonggak itu adalah <span class="quiz">Bagian</span> Tipis dengan pelat reflektif berwarna merah di permukaannya{{% ex "https://maps.app.goo.gl/2B9saQ9LE8CkXHm8A" "https://maps.app.goo.gl/P4LwZrxFabNPMnCEA" "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}.Yang paling mirip{{% goto "../../europe/romania" "Rumania" %}}tonggak dari{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="85%" alt="トルコのボラード" />
+<img src="/rule/middle_east/turkey/bollard.jpg" width="85%" alt="トルコのボラード" />
 </div>
 
 
@@ -100,14 +100,14 @@ Tonggak itu adalah <span class="quiz">Bagian</span> Tipis dengan pelat reflektif
 Ubin berbentuk 🧵 biasa ditemukan di trotoar, dll.{{% ex "https://maps.app.goo.gl/QZcXeJxTV3PiCrPX7" "https://maps.app.goo.gl/Nrc6LexVuUGrRKUs5" "https://maps.app.goo.gl/6w1kiajoLA5CdCAS8" "https://maps.app.goo.gl/6Vk7UFCwYJ1cZFMP7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
+<img src="/rule/middle_east/turkey/road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
 </div>
 
 {{% notice tip %}}
 Tiang telepon yang menurut saya pribadi mirip dengan Türkiye{{% imref "Hanya gambar ⑤ yang dikutip dari luar." %}}.Bentuk berbeda mirip dengan ini{{% goto "../../europe/bulgaria/" "Bulgaria" %}}Ada juga yang berbentuk kait yang bentuknya seperti di{{% ex "https://maps.app.goo.gl/1BhQHXUPbLA3d8xbA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.jpg" width="95%" alt="トルコの電柱" />
+<img src="/rule/middle_east/turkey/poles.jpg" width="95%" alt="トルコの電柱" />
 </div>
 
 <div class="googlemap-if unclickable">
@@ -142,7 +142,7 @@ berbagai tiang telepon
 Ada banyak jalan seperti ini{{% ex "https://maps.app.goo.gl/rgxVhwx5M35xr3kc7" "https://maps.app.goo.gl/9FaVARUKRWWeYqpa9" "https://maps.app.goo.gl/Jr6PTgWtX1UUBmW66" "https://maps.app.goo.gl/kTeW4GfdBA5qvBfK8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-surface.jpg">
+<img src="/rule/middle_east/turkey/road-surface.jpg">
 </div>
 
 {{% notice tip %}}
@@ -181,7 +181,7 @@ Ada lubang got Türk Telekom di jalan.Ada pula notasi telefon (telepon dalam bah
 Nomor jalan dapat dibaca dari penanda kilometer{{% ex "https://maps.app.goo.gl/xjAQZs9AdUUSigfg7" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "[GeoGuessr] Membaca nomor jalan yang sulit diperhatikan - Kuil Fox - GeoGuessr dan lainnya" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/km.png" width="200px">
+<img src="/rule/middle_east/turkey/r/km.png" width="200px">
 </div>
 {{% /tab %}}
 {{% tab "Kode wilayah" %}}
@@ -218,7 +218,7 @@ Nomor jalan dapat dibaca dari penanda kilometer{{% ex "https://maps.app.goo.gl/x
 {{% tabs %}}
 {{% tab "rumah vinil" %}}
 <div class="googlemap-if">
-<img src="./invernadero_pepinos.jpg" width="600">
+<img src="/rule/middle_east/turkey/invernadero_pepinos.jpg" width="600">
 </div>
 
 {{% notice tip %}}
@@ -231,17 +231,17 @@ Di bawah ini adalah jalan di pinggiran Antalya.Rumah kaca hijau berjejer di kedu
 {{% /tab %}}
 {{% tab "kerucut" %}}
 <div class="googlemap-if">
-<img src="./Turkey_corn.png" width="600">
+<img src="/rule/middle_east/turkey/Turkey_corn.png" width="600">
 </div>
 {{% /tab %}}
 {{% tab "kapas" %}}
 <div class="googlemap-if">
-<img src="./Turkey_cotton.jpg" width="600">
+<img src="/rule/middle_east/turkey/Turkey_cotton.jpg" width="600">
 </div>
 {{% /tab %}}
 {{% tab "bunga matahari" %}}
 <div class="googlemap-if">
-<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
+<img src="/rule/middle_east/turkey/Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
 </div>
 
 {{% notice tip %}}
@@ -285,7 +285,7 @@ Tatar, Özgür. “Perubahan iklim berdampak pada produksi tanaman di Turki.” 
 Anda perlu melihat perbedaannya pada tanda lingkaran di atas.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-06-16-06-32-12.png" width="500px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-32-12.png" width="500px">
 </div>
 {{% /tab %}}
 {{% tab "Ankara" %}}

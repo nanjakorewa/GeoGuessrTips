@@ -52,7 +52,7 @@ es un territorio británico de ultramar{{% goto "../gibraltar/" "Gibraltar" %}}o
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p class="unclickable"><img src="./uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
+<p class="unclickable"><img src="/rule/europe/united-kingdom/uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
 <p>Por Maxwell Hamilton, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52560349">Enlace</a>, Procesamiento de imágenes incluido</p>
 </div>
 <br />
@@ -67,7 +67,7 @@ Dominio público
 Si hay muchas casas de ladrillo <span class="quiz">Inglaterra</span> Sin embargo, si hay muchas paredes blancas <span class="quiz">Irlanda</span> Consideremos.Irlanda está abajo a la izquierda.{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}, Reino Unido a la derecha{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Resumen: Curso para principiantes sobre mapas mundiales + Rincón de preguntas" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./uk-street.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" />
 </div>
 
 
@@ -75,7 +75,7 @@ Si hay muchas casas de ladrillo <span class="quiz">Inglaterra</span> Sin embargo
 <span class="quiz">Un seto plantado con arbustos y hierbas llamado seto.</span> existe en los bordes de las carreteras y alrededor de las casas.{{% ex "https://goo.gl/maps/GbJsgrJg9qL7k63F8" "https://goo.gl/maps/XVp6A4R4SjfNu2jM7" "https://goo.gl/maps/4q7cqszzA1KGDpBs8" "https://goo.gl/maps/pvQbAXWRvLZiD95R9" "https://goo.gl/maps/5osd6kkFRYC7aqBU8" %}}{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "Tecnología de conservación ambiental de Cambridge Tecnología de conservación ambiental > Lista > Hedgerow" %}}.También hay objetos antiguos fabricados antes del siglo XIX y objetos que no han sido mantenidos adecuadamente.{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./hedge.jpg" width="85%" alt="イギリスの生垣・ヘッジロウ" />
+<img src="/rule/europe/united-kingdom/hedge.jpg" width="85%" alt="イギリスの生垣・ヘッジロウ" />
 </div>
 
 
@@ -86,13 +86,13 @@ En este diagrama, la izquierda <span class="quiz">Irlanda</span> y el correcto <
 
 
 <div class="googlemap-if unclickable">
-<img src="./cevron.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
-<img src="./r/UK_traffic_sign_515.svg" width="322px" />
+<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
+<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" />
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ En este diagrama, la izquierda <span class="quiz">Irlanda</span> y el correcto <
 con el reino unido{{% goto "../ireland/" "Irlanda" %}}Hay muchos ojos de gato en las carreteras.{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}.Fue inventado en Inglaterra en 1934 y se utiliza en Inglaterra, Irlanda, Nueva Zelanda y otros países.Sin embargo, rara vez se utiliza en otros países europeos.{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "Ojo de gato (camino)" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./640px-LIGHTDOME.jpg">
+<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -124,7 +124,7 @@ El teatro Alexandra Palace está situado en el lado norte de Londres.
     <h2>productos británicos relacionados</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7089427" target="_blank">
-            <img src="d8fa3206-84a1-4416-bb8a-31a292165194.png" alt="画像3">
+            <img src="/rule/europe/united-kingdom/d8fa3206-84a1-4416-bb8a-31a292165194.png" alt="画像3">
         </a>
         <!-- <div class="caption">Título del producto 1</div>ーー＞
     </div>
@@ -142,7 +142,7 @@ El teatro Alexandra Palace está situado en el lado norte de Londres.
 {{% tabs %}}
 {{% tab "Agricultura y distribución de plantas." %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./veg_image_large.png" width="90%">
+<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -152,7 +152,7 @@ Las tierras cultivadas se extienden hacia el sureste{{% ref "https://www.eea.eur
 {{% /tab %}}
 {{% tab "número de carretera" %}}
 <div class="googlemap-if">
-<img class="no-click" src="2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
+<img class="no-click" src="/rule/europe/united-kingdom/2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
 </div>
 {{% /tab %}}
 {{% tab "Código de área" %}}
@@ -194,7 +194,7 @@ Nunca lo he usado (<a href="https://www.reddit.com/r/dataisbeautiful/comments/17
 {{% tabs %}}
 {{% tab "composición del reino unido" %}}
 <div class="googlemap-if no-margin">
-<img class="no-click" src="United_Kingdom_colors.png" width="400px" alt="イギリスを構成する４つのCounty" />
+<img class="no-click" src="/rule/europe/united-kingdom/United_Kingdom_colors.png" width="400px" alt="イギリスを構成する４つのCounty" />
 </div>
 
 <div class="googlemap-if">
@@ -209,7 +209,7 @@ Nunca lo he usado (<a href="https://www.reddit.com/r/dataisbeautiful/comments/17
 Fácil de entender ya que está escrito de una manera que no se puede pronunciar en inglés.{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "galés" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign-w.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%">
 </div>
 
 {{% notice tip %}}
@@ -217,7 +217,7 @@ Hay notaciones como "ARAF" y "SAFLL BWS".{{% ex "https://maps.app.goo.gl/Bz2vFSq
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./wales_cardiff_slow.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%">
 </div>
 {{% /tab %}}
 {{% tab "bolardo blanco y rojo" %}}

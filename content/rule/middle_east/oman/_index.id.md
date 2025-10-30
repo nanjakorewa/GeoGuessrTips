@@ -64,7 +64,7 @@ chevron oranye dan hitam{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "http
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="sign.png" width="300px">
+<img src="/rule/middle_east/oman/sign.png" width="300px">
 </div>
 
 {{% notice tip %}}
@@ -72,7 +72,7 @@ Tidak ada pohon yang tumbuh di gurun.{{% ex "https://maps.app.goo.gl/AHEuQnx2cui
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="desert_sand_dry_hot.jpg" width="90%">
+<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -80,7 +80,7 @@ Pohon kurma ditanam terutama di wilayah pesisir timur laut.{{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="date_palm_date_palm.jpg" width="90%">
+<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%">
 </div>
 
 
@@ -139,7 +139,7 @@ Harap dicatat bahwa ada juga Street View di Semenanjung Musandam (sebuah daerah 
 
 
 <div class="googlemap-if no-margin">
-<img src="street_travel_car_mountain.jpg">
+<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg">
 </div>
 {{% /tab %}}
 {{% tab "pegunungan dhofar" %}}
@@ -149,7 +149,7 @@ Pegunungan yang membentang di sekitar Salalah di selatan.Ini adalah tempat di ma
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="after_rain_7.jpg" width="90%">
+<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -169,7 +169,7 @@ Daerah dengan bukit pasir terletak di sebelah timur dan pedalaman.{{% ref "https
 
 
 <div class="googlemap-if no-margin">
-<img src="soilmap.jpg">
+<img src="/rule/middle_east/oman/soilmap.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

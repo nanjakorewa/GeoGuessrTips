@@ -43,7 +43,7 @@ sc: [
 There is a large hole in the telephone pole all the way to the bottom.<span class="quiz">There is</span> often{{% ex "https://maps.app.goo.gl/u4GroEbCQamrksXbA" "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}may appear to be filled in on only one side at the bottom.{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}.If it's empty all the way to the bottom, it's Romania.{{% goto "../hungary/" "Hungary" %}}, if the bottom is not empty{{% goto "../poland/" "Poland" %}}Maybe.Often marked with a yellow marker.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./pole.jpg" width="259"><p>
+<p><img src="/rule/europe/romania/pole.jpg" width="259"><p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Cigognes_Vladeni_Roumanie.jpg#/media/File:Cigognes_Vladeni_Roumanie.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cigognes_Vladeni_Roumanie.jpg" alt="Cigognes Vladeni Roumanie.jpg" width="355"></a></p>
 </div>
 
@@ -55,13 +55,13 @@ By far the largest in Europe <span style="color:red;font-weight:bold;">▽</span
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px">
-<img src="./t/france.png" width="130px" style="margin:10px">
-<img src="./r/triangle.png" width="130px" style="margin:13px">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px">
+<img src="/rule/europe/romania/t/france.png" width="130px" style="margin:10px">
+<img src="/rule/europe/romania/r/triangle.png" width="130px" style="margin:13px">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="/rule/europe/romania/roadsign.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -69,15 +69,15 @@ Bollards in Romania have many hints for locating them.{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./romania-bollards.png" width="90%" alt="ルーマニアのボラード" />
+<img src="/rule/europe/romania/romania-bollards.png" width="90%" alt="ルーマニアのボラード" />
 </div>
 
 {{% notice tip %}}
 "<span class="quiz">Ș・ș</span>"・"<span class="quiz">Ț・ț</span> S and T with a comma below are used in Romania and Moldova, but Moldova does not have Street View.If “Ļ・ļ”{{% goto "../baltic-state/latvia/" "latvia" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./route/routeA.png" width="240px" style="margin:10px">
-<img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
+<img src="/rule/europe/romania/route/routeA.png" width="240px" style="margin:10px">
+<img src="/rule/europe/romania/route/ROM_county_limit.svg" width="230px" style="margin:34px">
 </div>
 
 {{% notice tip %}}
@@ -85,14 +85,14 @@ The shape of the road number is distinctive{{% ex "https://goo.gl/maps/kuWmdS6Nh
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./road.jpg" width="590px"></p>
+<p><img src="/rule/europe/romania/road.jpg" width="590px"></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Nenea_hartia" title="User:Nenea hartia">Nenea hartia</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49508175">Link</a></p>
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/ROU_DN6.svg" width="70px" style="margin:10px">
-<img src="./r/DJ609B-RO.svg" width="70px" style="margin:20px">
+<img src="/rule/europe/romania/r/ROU_DN6.svg" width="70px" style="margin:10px">
+<img src="/rule/europe/romania/r/DJ609B-RO.svg" width="70px" style="margin:20px">
 </div>
 
 {{% notice tip %}}
@@ -103,8 +103,8 @@ In Romania, the back side of signs is often black.{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-bg.png" width="110px" style="margin:21px">
-<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
+<img src="/rule/europe/romania/sign-bg.png" width="110px" style="margin:21px">
+<img src="/rule/europe/romania/r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Unlike neighboring countries, there is no connection to the signs.The same goes 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./signs.jpg" width="90%">
+<img src="/rule/europe/romania/signs.jpg" width="90%">
 </div>
 
 
@@ -125,7 +125,7 @@ The left is <span class="quiz">Poland</span>, the right is <span class="quiz">Ro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../poland/guardrail.png" width="90%">
+<img src="/rule/europe/poland/guardrail.png" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -183,7 +183,7 @@ Bollards similar to those in Türkiye and Italy can also be found, although in s
 {{% tabs %}}
 {{% tab "How to divide the region" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./1213px-RomanianTerritories.png" width="90%">
+<img src="/rule/europe/romania/1213px-RomanianTerritories.png" width="90%">
 </div>
 {{% notice tip %}}
 {{% ref "https://en.wikipedia.org/wiki/File:RomanianTerritories.png#/media/File:RomanianTerritories.png" "Territories with historic significance for Romanian people." %}}
@@ -201,8 +201,8 @@ The purple areas have more toilets outdoors.In general, regions with indoor toil
 {{% /tab %}}
 {{% tab "northwest" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./arc/960px-Brasov_From_White_Tower.jpg" width="500px">
-<img src="./arc/Viscri2.jpg" width="500px">
+<img src="/rule/europe/romania/arc/960px-Brasov_From_White_Tower.jpg" width="500px">
+<img src="/rule/europe/romania/arc/Viscri2.jpg" width="500px">
 </div>
 {{% notice tip %}}
 TODO / Red-brown roof or light blue walls?{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2" "transylvania" %}}.
@@ -212,7 +212,7 @@ TODO / Red-brown roof or light blue walls?{{% ref "https://ja.wikipedia.org/wiki
 
 {{% tab "northeast" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><img src="./arc/640px-thumbnail.jpg" width="550px"></p>
+<p><img src="/rule/europe/romania/arc/640px-thumbnail.jpg" width="550px"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Biserica de lemn din Dărmăneşti2.jpg" width="550px"></a></p><p>Bottom image: By Cezar Suceveanu - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Link</a></p>
 </div>
 {{% notice tip %}}
@@ -224,7 +224,7 @@ TODO / Roofs and ducts made of silver material{{% ref "https://theonearmedcrab.c
 The high altitude parts are intricate (Image source:<a href="https://maps-for-free.com/">https://maps-for-free.com/</a> ©<a href="https://www.openstreetmap.org/copyright">Openstreetmap</a> contributors）
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-29-18-32-36.png" />
+<img src="/rule/europe/romania/2023-04-29-18-32-36.png" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -257,7 +257,7 @@ Agriculture is carried out in the orange area.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Romania_land_use_(1970).jpg" width="500px">
+<img src="/rule/europe/romania/Romania_land_use_(1970).jpg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -265,7 +265,7 @@ It is common in the east, but it is not absent in the west either.If there is a 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./sun_flower_sunflower_field_1.jpg" width="500px">
+<img src="/rule/europe/romania/sun_flower_sunflower_field_1.jpg" width="500px">
 </div>
 
 {{% /tab %}}
@@ -275,8 +275,8 @@ The areas shown in orange in the diagram have oil refineries and are undergoing 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Romania_resources_(1970).jpg" width="500px">
-<img src="./factory_smokestack_industrial_power.jpg" width="500px">
+<img src="/rule/europe/romania/Romania_resources_(1970).jpg" width="500px">
+<img src="/rule/europe/romania/factory_smokestack_industrial_power.jpg" width="500px">
 </div>
 
 {{% /tab %}}
@@ -286,7 +286,7 @@ There is a section where you travel by boat between the delta areas of Europe ca
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./the_danube_delta_1.jpg">
+<img src="/rule/europe/romania/the_danube_delta_1.jpg">
 </div>
 
 {{% /tab %}}
@@ -309,7 +309,7 @@ I feel it doesn't look Romanian (my personal impression) so I try not to make mi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./transfagarasan_2.jpg" width="95%">
+<img src="/rule/europe/romania/transfagarasan_2.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -320,7 +320,7 @@ Once you come, you won't forget it{{% ex "https://maps.app.goo.gl/Y8HAC6tkLMkMcr
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./relief_king_decebalus_rock.jpg">
+<img src="/rule/europe/romania/relief_king_decebalus_rock.jpg">
 </div>
 {{% /tab %}}
 {{% tab "CB" %}}

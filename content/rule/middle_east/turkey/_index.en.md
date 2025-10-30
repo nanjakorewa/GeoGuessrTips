@@ -45,18 +45,18 @@ sc: [
 Turkish signs and signs.The characters Ç, Ş, Ğ, İ, Ö, Ü and the "・" above the letters Ü are distinctive.{{% ex "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}.“Ü” is also used in the country name “Türkiye”{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "Turkey changes its country name in the United Nations to Turkiye - JETRO" %}}.{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
+<img src="/rule/middle_east/turkey/640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
 </div>
 
 {{% notice tip %}}
 There are many small holes in the sign stick, so you can often see the other side.{{% ex "https://maps.app.goo.gl/ycd26ZomcZVsHcrK7" "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-06-16-06-39-55.png" width="350px">
-<img src="2023-06-16-06-36-19.png" width="258px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-39-55.png" width="350px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-36-19.png" width="258px">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="85%" />
+<img src="/rule/middle_east/turkey/pole.png" width="85%" />
 </div>
 
 
@@ -66,14 +66,14 @@ Chevrons are mainly used in red and white, but their distinctive feature is that
 
 
 <div class="googlemap-if unclickable">
-<img src="./road-arrow.jpg" width="90%" alt="トルコのシェブロン" />
+<img src="/rule/middle_east/turkey/road-arrow.jpg" width="90%" alt="トルコのシェブロン" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/175104.png" width="150px" style="margin:15px">
-<img src="./r/c1.jpg" width="150px" style="margin:15px">
-<img src="./r/c2.jpg" width="150px" style="margin:15px">
-<img src="./r/ar-bc.jpg" width="110px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/175104.png" width="150px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/c1.jpg" width="150px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/c2.jpg" width="150px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/ar-bc.jpg" width="110px" style="margin:15px">
 </div>
 
 {{% notice tip %}}
@@ -84,15 +84,15 @@ The stop sign is <span class="quiz">DUR</span>, one-way traffic is <span class="
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Turkish_Stop_Sign.svg" width="120px">
-<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
+<img src="/rule/middle_east/turkey/r/Turkish_Stop_Sign.svg" width="120px">
+<img src="/rule/middle_east/turkey/r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
 </div>
 
 {{% notice tip %}}
 The bollard is <span class="quiz">Piece</span> Thin with a red reflective plate on the surface{{% ex "https://maps.app.goo.gl/2B9saQ9LE8CkXHm8A" "https://maps.app.goo.gl/P4LwZrxFabNPMnCEA" "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}.The one that looks the most similar{{% goto "../../europe/romania" "Romania" %}}bollard of{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="85%" alt="トルコのボラード" />
+<img src="/rule/middle_east/turkey/bollard.jpg" width="85%" alt="トルコのボラード" />
 </div>
 
 
@@ -100,14 +100,14 @@ The bollard is <span class="quiz">Piece</span> Thin with a red reflective plate 
 🧵-shaped tiles are common on sidewalks, etc.{{% ex "https://maps.app.goo.gl/QZcXeJxTV3PiCrPX7" "https://maps.app.goo.gl/Nrc6LexVuUGrRKUs5" "https://maps.app.goo.gl/6w1kiajoLA5CdCAS8" "https://maps.app.goo.gl/6Vk7UFCwYJ1cZFMP7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
+<img src="/rule/middle_east/turkey/road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
 </div>
 
 {{% notice tip %}}
 Telephone pole that I personally think looks like Türkiye{{% imref "Only ⑤ images are quoted from outside." %}}.Different shapes similar to these{{% goto "../../europe/bulgaria/" "Bulgaria" %}}There are also hook-shaped ones that look like those in{{% ex "https://maps.app.goo.gl/1BhQHXUPbLA3d8xbA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.jpg" width="95%" alt="トルコの電柱" />
+<img src="/rule/middle_east/turkey/poles.jpg" width="95%" alt="トルコの電柱" />
 </div>
 
 <div class="googlemap-if unclickable">
@@ -142,7 +142,7 @@ various telephone poles
 There are many roads like this{{% ex "https://maps.app.goo.gl/rgxVhwx5M35xr3kc7" "https://maps.app.goo.gl/9FaVARUKRWWeYqpa9" "https://maps.app.goo.gl/Jr6PTgWtX1UUBmW66" "https://maps.app.goo.gl/kTeW4GfdBA5qvBfK8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-surface.jpg">
+<img src="/rule/middle_east/turkey/road-surface.jpg">
 </div>
 
 {{% notice tip %}}
@@ -181,7 +181,7 @@ There is a Türk Telekom manhole on the road.There is also the notation of telef
 Road numbers can be read from kilometer markers{{% ex "https://maps.app.goo.gl/xjAQZs9AdUUSigfg7" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "[GeoGuessr] Reading hard-to-notice road numbers - Fox Shrine - GeoGuessr and others" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/km.png" width="200px">
+<img src="/rule/middle_east/turkey/r/km.png" width="200px">
 </div>
 {{% /tab %}}
 {{% tab "Area code" %}}
@@ -218,7 +218,7 @@ Road numbers can be read from kilometer markers{{% ex "https://maps.app.goo.gl/x
 {{% tabs %}}
 {{% tab "vinyl house" %}}
 <div class="googlemap-if">
-<img src="./invernadero_pepinos.jpg" width="600">
+<img src="/rule/middle_east/turkey/invernadero_pepinos.jpg" width="600">
 </div>
 
 {{% notice tip %}}
@@ -231,17 +231,17 @@ Below is a road on the outskirts of Antalya.Green greenhouses are lined up on bo
 {{% /tab %}}
 {{% tab "cone" %}}
 <div class="googlemap-if">
-<img src="./Turkey_corn.png" width="600">
+<img src="/rule/middle_east/turkey/Turkey_corn.png" width="600">
 </div>
 {{% /tab %}}
 {{% tab "cotton" %}}
 <div class="googlemap-if">
-<img src="./Turkey_cotton.jpg" width="600">
+<img src="/rule/middle_east/turkey/Turkey_cotton.jpg" width="600">
 </div>
 {{% /tab %}}
 {{% tab "sunflower" %}}
 <div class="googlemap-if">
-<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
+<img src="/rule/middle_east/turkey/Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
 </div>
 
 {{% notice tip %}}
@@ -285,7 +285,7 @@ Tatar, Özgür. "Climate change impacts on crop production in Turkey." (2016).
 You need to see the difference in the circular marks above.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-06-16-06-32-12.png" width="500px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-32-12.png" width="500px">
 </div>
 {{% /tab %}}
 {{% tab "Ankara" %}}

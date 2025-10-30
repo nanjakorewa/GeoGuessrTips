@@ -48,11 +48,11 @@ On the back of the sign <span class="quiz">Cross (so-called Colombian cross)</sp
 {{% goto "../../n_america/mexico/" "Mexico" %}}It may be useful someday to remember that there is a cross on the signboard for the state of Chihuahua.{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}(Chihuahua cross?).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign-example.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" />
 </div>
 
 
@@ -60,7 +60,7 @@ On the back of the sign <span class="quiz">Cross (so-called Colombian cross)</sp
 The license plate is <span class="quiz">Both front and back are yellow</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}Or white.The bike is also behind <span class="quiz">yellow</span> has a number on it{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}.{{% goto "../peru/" "Peru" %}}There is also a yellow color, but Colombian is a little closer to orange.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lp.jpg" width="95%">
+<img src="/rule/cs_america/colombia/lp.jpg" width="95%">
 </div>
 
 {{% lb 50 %}}
@@ -74,7 +74,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadside.jpg" width="95%">
+<img src="/rule/cs_america/colombia/roadside.jpg" width="95%">
 </div>
 
 
@@ -103,7 +103,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
     <h2>Columbia related goods</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7090759" target="_blank">
-            <img src="b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
+            <img src="/rule/cs_america/colombia/b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
         </a>
         <!-- <div class="caption">Product title 1</div>ーー＞
     </div>
@@ -127,7 +127,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% tabs %}}
 {{% tab "vegetation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./pone.0043943.g001.png" width="80%" />
+<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -177,7 +177,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./barranquilla_autopista_al_mar.jpg">
+<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg">
 </div>
 
 
@@ -200,7 +200,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Palm_Oil.jpg" width="90%">
+<img src="/rule/cs_america/colombia/Colombia_Palm_Oil.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -211,7 +211,7 @@ red <span style="color:red">●</span> Meta prefecture with many{{% ex "https://
 {{% /tab %}}
 {{% tab "sugar cane" %}}
 <div class="googlemap-if no-margin">
-<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
+<img src="/rule/cs_america/colombia/agriculture_sugar_cane_crop.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -222,7 +222,7 @@ Flat areas around the Valle del Cauca department{{% ex "https://maps.app.goo.gl/
 {{% /tab %}}
 {{% tab "cotton" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Cotton.jpg" width="90%">
+<img src="/rule/cs_america/colombia/Colombia_Cotton.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -233,7 +233,7 @@ I've never seen it, but if you find it, it's Tolima{{% ex "https://maps.app.goo.
 {{% /tab %}}
 {{% tab "rice" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Rice.jpg" width="90%">
+<img src="/rule/cs_america/colombia/Colombia_Rice.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -258,14 +258,14 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 {{% notice tip %}}Buenaventura is Colombia's main port and accounts for approximately 60% of Colombia's seaborne imports and exports.Therefore, the road leading to the port gives the impression that there are many trucks loaded with containers.{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}.{{% goto "https://x.com/one_line_japan" "ONE" %}}You can also find containers for{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./aahus_port_container_loading.jpg">
+<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}There are yellow and black lines on telephone poles around Medellín.{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" />
+<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% tab "bollard" %}}
@@ -277,7 +277,7 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard.png" width="70px">
+<img src="/rule/cs_america/colombia/r/bollard.png" width="70px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -300,7 +300,7 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 {{% notice tip %}}The sticker says CARTAGENA.It may also be written on the roof or side of the truck.{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./colombia_kartagena_south_america.jpg">
+<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
@@ -322,7 +322,7 @@ Strong economic ties with Brazil's Tabatinga, which is connected by land route{{
 {{% notice tip %}}There is a remote island called Gorgona Island.{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="hotel_in_gorgona.jpg">
+<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalia" %}}

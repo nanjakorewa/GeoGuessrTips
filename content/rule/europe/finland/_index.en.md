@@ -51,21 +51,21 @@ The shape of the arrow on the signboard with the region name is filled in like a
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
         <p><span class="quiz">Sweden</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
         <p><span class="quiz">Finland</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
         </div>
         <p><span class="quiz">Norway</span></p>
     </div>
@@ -76,9 +76,9 @@ Crosswalks in Northern Europe <span class="quiz">5</span> book is finland{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
 </div>
 
 
@@ -87,22 +87,22 @@ There are many street names such as ``~tie'' and ``~gatan.''
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./streetsign.jpg" width="95%">
+<img src="/rule/europe/finland/streetsign.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Finland has warning signs <span class="quiz">thin yellow border around</span> There is{{% by "usumdensetu" "twitch" %}}.The top row is Finland, and the bottom row is Sweden (orange background) and Norway (white background).
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:10px;;border-radius:20px;">
-<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
-<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
-<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
-<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
-<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
-<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
 </div>
 
 
@@ -110,9 +110,9 @@ Finland has warning signs <span class="quiz">thin yellow border around</span> Th
 The passing place sign on a narrow road in Scandinavia has an arrow only in Finland.A hint may be given in a place where there are no pavements and no houses in sight.From the left <span class="quiz">Finland</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}・<span class="quiz">Sweden</span>・<span class="quiz">Norway</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
-<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
-<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
-<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
 </div>
 
 
@@ -121,11 +121,11 @@ to the center line <span class="quiz">yellow</span> Colored and white dashed lin
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
+<img src="/rule/europe/sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.png" width="90%" />
+<img src="/rule/europe/finland/road.png" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -133,7 +133,7 @@ flat overall{{% ex "https://maps.app.goo.gl/uFfRSzjgmQdjEWW16" "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./nature_finnish_finnish_landscape.jpg" width="90%" />
+<img src="/rule/europe/finland/nature_finnish_finnish_landscape.jpg" width="90%" />
 </div>
 
 {{% /tab %}}
@@ -183,7 +183,7 @@ If you know it's Finland but don't know which region, you might be able to get s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-17-13-12-50.png" width="570px"/>
+<img src="/rule/europe/finland/2023-06-17-13-12-50.png" width="570px"/>
 </div>
 
 {{% /tab %}}
@@ -230,7 +230,7 @@ If it is written alongside Northern Sami, etc., it is the northernmost area.{{% 
 {{% tab "Area code" %}}
 
 <div class="googlemap-if unclickable">
-<p><img src="Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></a></p>
+<p><img src="/rule/europe/finland/Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></a></p>
 <p>public domain</p>
 </div>
 

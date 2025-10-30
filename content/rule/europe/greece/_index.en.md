@@ -43,7 +43,7 @@ sc: [
 It has Greek letters, with Σ and λ being distinctive.{{% ex "https://maps.app.goo.gl/SMJtehkQebTbT6yQ9" "https://maps.app.goo.gl/G9rYxXRnSF3Ju9Wu9" "https://maps.app.goo.gl/EjzAaMvvQGA6QsY38" "https://maps.app.goo.gl/PSWxN4u8ijmYEkfE9" %}}.Signs with yellow letters written on a blue or brown background are also rarely seen outside of Greece.{{% ex "https://goo.gl/maps/DfDBCCfbDGLPquCd8" "https://goo.gl/maps/jnkdhhmFNQrZncZK9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./roadsign.jpg" width="640">
+<img src="/rule/europe/greece/roadsign.jpg" width="640">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
@@ -56,7 +56,7 @@ The two white lines are{{% goto "../denmark/" "Denmark" %}}or{{% goto "../poland
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="margin:1em;">
-<img src="./a8_greece.jpg" width="600px">
+<img src="/rule/europe/greece/a8_greece.jpg" width="600px">
 </div>
 
 
@@ -72,9 +72,9 @@ The background of the signboard is often orange.{{% ex "https://maps.app.goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
-<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
-<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
 </div>
 
 {{% notice tip %}}
@@ -83,8 +83,8 @@ The arrow is{{% goto "../albania/" "Albania" %}}Like, there are mostly white arr
 
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
-<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
-<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
+<img src="/rule/europe/greece/r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
+<img src="/rule/europe/greece/r/arrow-2.png" class="margin-ten-px" style="width:180px" />
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ Telephone poles are often made of wood.{{% ex "https://goo.gl/maps/rR9Xkd4LNmSkc
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="pole.png" width="95%" />
+<img src="/rule/europe/greece/pole.png" width="95%" />
 </div>
 
 <div class="googlemap-if no-margin">
@@ -110,7 +110,7 @@ Greece has strong sunlight and a lot of limestone, so many buildings have white 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="house.png" width="95%" />
+<img src="/rule/europe/greece/house.png" width="95%" />
 </div>
 
 {{% notice tip %}}
@@ -118,7 +118,7 @@ there are many olive trees{{% ex "https://goo.gl/maps/VwEkiYGU25hSdt7v8" "https:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="olive.png" width="95%" />
+<img src="/rule/europe/greece/olive.png" width="95%" />
 </div>
 
 
@@ -127,8 +127,8 @@ Greece·{{% goto "../albania/" "Albania" %}}・{{% goto "../montenegro/" "Monten
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./road/20150522_144002lc.jpg" width="320px" />
-<img src="./road/mountain_trail_dirt_road.jpg" width="320px" />
+<img src="/rule/europe/greece/road/20150522_144002lc.jpg" width="320px" />
+<img src="/rule/europe/greece/road/mountain_trail_dirt_road.jpg" width="320px" />
 </div>
 
 {{% /tab %}}
@@ -219,7 +219,7 @@ For example, cotton can only be produced on flat land.Areas with low cotton prod
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./agri/cotton.jpg" width="95%">
+<img src="/rule/europe/greece/agri/cotton.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -230,7 +230,7 @@ Blue areas are popular for tourism{{% ref "https://www.researchgate.net/figure/C
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./agri/rural-area.jpg" width="95%">
+<img src="/rule/europe/greece/agri/rural-area.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -241,7 +241,7 @@ An image I created while looking at references and maps{{% ref "https://jgchapar
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./cityname.jpg" width="95%">
+<img src="/rule/europe/greece/cityname.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -276,7 +276,7 @@ According to the data, there are many hills without trees, and it seems to be a 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Havouna,_Kea.jpg" width="90%">
+<img src="/rule/europe/greece/960px-Havouna,_Kea.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Sifnos" %}}
@@ -285,8 +285,8 @@ ruins and churches{{% ex "https://maps.app.goo.gl/vR9eZsEPs9mCj6ZF7" "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./chrisopigi_monastery_monastery_greek.jpg" width="90%">
-<img src="./apollonia_on_sifnos.jpg" width="90%">
+<img src="/rule/europe/greece/chrisopigi_monastery_monastery_greek.jpg" width="90%">
+<img src="/rule/europe/greece/apollonia_on_sifnos.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -305,7 +305,7 @@ Trash cans sometimes have city names written on them, so check to see if there a
 Athens is yellow.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="athens_vouli4.jpg">
+<img src="/rule/europe/greece/athens_vouli4.jpg">
 </div>
 
 {{% notice tip %}}
@@ -319,7 +319,7 @@ Heraklion (a city in the northern part of Crete) has a lot of silver.
 Thessaloniki is dark blue.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="thessaloniki_train_station.jpg">
+<img src="/rule/europe/greece/thessaloniki_train_station.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

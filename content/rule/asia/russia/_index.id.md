@@ -48,7 +48,7 @@ Terdapat banyak tonggak di persimpangan dan persimpangan jalan.{{% ex "https://g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./intersection.jpg" width="90%">
+<img src="/rule/asia/russia/intersection.jpg" width="90%">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size: 0.8em;" >
@@ -63,7 +63,7 @@ Gazprom adalah perusahaan produksi dan pemasok gas alam terbesar di dunia dan me
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./Gazprom_Avia_Logo.svg" width="400px">
+<img src="/rule/asia/russia/Gazprom_Avia_Logo.svg" width="400px">
 </div>
 
 {{% notice tip %}}
@@ -111,14 +111,14 @@ pipa di sepanjang pagar
 {{% tabs %}}
 {{% tab "Jenis pohon yang dominan" %}}
 <div class="googlemap-if unclickable-area" >
-<img src="2023-04-23-19-40-50.png"/>
+<img src="/rule/asia/russia/2023-04-23-19-40-50.png"/>
 <div class="description-wide">
 Perlu diketahui bahwa sebenarnya pembagiannya tidak sesederhana ini, melainkan memiliki gradasi.(Sumber: “Prolog: Perkembangan Sirkulasi dan Koeksistensi Wilayah dalam Perspektif Ruang Tanah Nasional” Kementerian Negara Lingkungan Hidup, <a href="https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html">Tautan sumber</a>, tersedia pada 1 April 2023)
 </div>
 </div>
 
 <div class="googlemap-if unclickable-area" >
-<img src="2023-04-23-19-56-08.png"/>
+<img src="/rule/asia/russia/2023-04-23-19-56-08.png"/>
 <div class="description-wide">
 Balashov, I., dkk. "Sistem Informasi Vega-Les. Fitur Aktual dan Evolusi Masa Depan." Seri Konferensi IOP: Ilmu Bumi dan Lingkungan. Jil. 507. Nomor 1. Penerbitan IOP, 2020.
 </div>
@@ -216,7 +216,7 @@ Betula birch konon melimpah di Semenanjung Kamchatka.Jika warna dahannya putih, 
 di area merah <span class="quiz">tanah hitam</span>(Gambar dari PBB, domain publik).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-27-21-39-12.png" />
+<img src="/rule/asia/russia/2023-04-27-21-39-12.png" />
 </div>
 
 <div class="googlemap-if">

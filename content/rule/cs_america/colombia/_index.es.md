@@ -48,11 +48,11 @@ En la parte de atrás del cartel <span class="quiz">Cruz (la llamada cruz colomb
 {{% goto "../../n_america/mexico/" "México" %}}Quizás sea útil algún día recordar que también hay una cruz en el letrero del estado de Chihuahua.{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}(¿Cruz de chihuahua?).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign-example.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" />
 </div>
 
 
@@ -60,7 +60,7 @@ En la parte de atrás del cartel <span class="quiz">Cruz (la llamada cruz colomb
 La matrícula es <span class="quiz">Tanto la parte delantera como la trasera son amarillas.</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}O blanco.La moto también está detrás.<span class="quiz">amarillo</span> tiene un numero{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}.{{% goto "../peru/" "Perú" %}}También existe un color amarillo, pero el colombiano se acerca un poco más al naranja.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lp.jpg" width="95%">
+<img src="/rule/cs_america/colombia/lp.jpg" width="95%">
 </div>
 
 {{% lb 50 %}}
@@ -74,7 +74,7 @@ A lo largo de los bordes de las carreteras se pueden ver muchas vallas de madera
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadside.jpg" width="95%">
+<img src="/rule/cs_america/colombia/roadside.jpg" width="95%">
 </div>
 
 
@@ -103,7 +103,7 @@ A lo largo de los bordes de las carreteras se pueden ver muchas vallas de madera
     <h2>productos relacionados con colombia</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7090759" target="_blank">
-            <img src="b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
+            <img src="/rule/cs_america/colombia/b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
         </a>
         <!-- <div class="caption">Título del producto 1</div>ーー＞
     </div>
@@ -127,7 +127,7 @@ A lo largo de los bordes de las carreteras se pueden ver muchas vallas de madera
 {{% tabs %}}
 {{% tab "vegetación" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./pone.0043943.g001.png" width="80%" />
+<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -177,7 +177,7 @@ A lo largo de los bordes de las carreteras se pueden ver muchas vallas de madera
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./barranquilla_autopista_al_mar.jpg">
+<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg">
 </div>
 
 
@@ -200,7 +200,7 @@ A lo largo de los bordes de las carreteras se pueden ver muchas vallas de madera
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Palm_Oil.jpg" width="90%">
+<img src="/rule/cs_america/colombia/Colombia_Palm_Oil.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -211,7 +211,7 @@ rojo <span style="color:red">●</span> Prefectura de Meta con muchos{{% ex "htt
 {{% /tab %}}
 {{% tab "Caña de azúcar" %}}
 <div class="googlemap-if no-margin">
-<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
+<img src="/rule/cs_america/colombia/agriculture_sugar_cane_crop.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -222,7 +222,7 @@ Zonas planas alrededor del departamento del Valle del Cauca{{% ex "https://maps.
 {{% /tab %}}
 {{% tab "algodón" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Cotton.jpg" width="90%">
+<img src="/rule/cs_america/colombia/Colombia_Cotton.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -233,7 +233,7 @@ Nunca lo he visto, pero si lo encuentras es Tolima.{{% ex "https://maps.app.goo.
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Rice.jpg" width="90%">
+<img src="/rule/cs_america/colombia/Colombia_Rice.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -258,14 +258,14 @@ Aproximadamente el 50% es Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg
 {{% notice tip %}}Buenaventura es el principal puerto de Colombia y representa aproximadamente el 60% de las importaciones y exportaciones marítimas de Colombia.Por eso, la carretera que conduce al puerto da la impresión de que hay muchos camiones cargados de contenedores.{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}.{{% goto "https://x.com/one_line_japan" "ONE" %}}También puedes encontrar contenedores para{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./aahus_port_container_loading.jpg">
+<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}Hay líneas amarillas y negras en postes telefónicos alrededor de Medellín.{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" />
+<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% tab "noray" %}}
@@ -277,7 +277,7 @@ Aproximadamente el 50% es Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard.png" width="70px">
+<img src="/rule/cs_america/colombia/r/bollard.png" width="70px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -300,7 +300,7 @@ Aproximadamente el 50% es Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg
 {{% notice tip %}}La pegatina dice CARTAGENA.También puede estar escrito en el techo o en el costado del camión.{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./colombia_kartagena_south_america.jpg">
+<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
@@ -322,7 +322,7 @@ Fuertes vínculos económicos con Tabatinga de Brasil, que está conectada por v
 {{% notice tip %}}Hay una isla remota llamada Isla Gorgona.{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="hotel_in_gorgona.jpg">
+<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalía" %}}

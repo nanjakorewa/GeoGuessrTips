@@ -43,7 +43,7 @@ sc: [
 {{% notice tip %}}{{% goto "../sweden/" "Suecia" %}}Países nórdicos como Noruega y <span class="quiz">Rojo oscuro (rojo Falun)</span> Hay una casa de troncos pintada con{{% ex "https://maps.app.goo.gl/SKSgwansDsmD87sbA" "https://maps.app.goo.gl/86NN7162wMJtGdVX9" "https://maps.app.goo.gl/AZUo6n8WAZGq13ze7" "https://maps.app.goo.gl/S4i7fZAx8ctvsLHc7" "https://maps.app.goo.gl/i9759EsyfhsCMgYFA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./sweden_home_red_stone.jpg" width="95%">
+<img src="/rule/europe/norway/sweden_home_red_stone.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ La matrícula es <span class="quiz">Blanco o verde (el verde es para vehículos 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="90%" alt="ノルウェーのガソリンスタンド">
+<img src="/rule/europe/norway/car.png" width="90%" alt="ノルウェーのガソリンスタンド">
 </div>
 
 {{% lb 50 %}}
@@ -68,9 +68,9 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 un paso de peatones <span class="quiz">4</span> Libro.desde la izquierda <span class="quiz">Finlandia</span>・<span class="quiz">Noruega</span>{{% ex "https://goo.gl/maps/eUDy4FaK6PGdGcdE6" %}}・<span class="quiz">Suecia</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
 </div>
 
 
@@ -79,9 +79,9 @@ Es escandinavo y el fondo de las señales de advertencia, como la notación de v
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
-<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
-<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
 </div>
 
 {{% notice tip %}}
@@ -91,28 +91,28 @@ En la señal de nombre de la carretera <span class="quiz">naranja</span> Hay muc
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
         <p><span class="quiz">Suecia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
         </div>
         <p><span class="quiz">Finlandia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
         </div>
         <p><span class="quiz">Noruega</span></p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-03-19-04-51.png" width="90%" />
+<img src="/rule/europe/norway/2023-08-03-19-04-51.png" width="90%" />
 </div>
 
 
@@ -121,7 +121,7 @@ La línea discontinua al costado de la carretera.<span class="quiz">largo</span>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../sweden/road.png" width="90%">
+<img src="/rule/europe/sweden/road.png" width="90%">
 </div>
 
 
@@ -131,7 +131,7 @@ la izquierda es <span class="quiz">Noruega</span>, el derecho es <span class="qu
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="../sweden/road-2.png" width="90%">
+<img src="/rule/europe/sweden/road-2.png" width="90%">
 </div>
 
 
@@ -171,7 +171,7 @@ Por alguna razón, el gobierno noruego es un accionista importante de Keisei Ele
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-18-12-11-36.png" width="90%">
+<img src="/rule/europe/norway/2023-06-18-12-11-36.png" width="90%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -195,7 +195,7 @@ Por alguna razón, el gobierno noruego es un accionista importante de Keisei Ele
 {{% tabs %}}
 {{% tab "vegetación" %}}
 <div class="googlemap-if no-margin">
-<p><img class="no-click" src="Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="ノルウェーの植生" style="max-width: 80%;"/></p>
+<p><img class="no-click" src="/rule/europe/norway/Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="ノルウェーの植生" style="max-width: 80%;"/></p>
 <p><a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Panitz, Sina y col. "Variabilidad climática y expansión a largo plazo de las turberas en el Ártico de Noruega durante el Plioceno tardío (Sitio ODP 642, Mar de Noruega)". Clima del pasado 12.4 (2016): 1043-1060.</a>, <a href="https://creativecommons.org/licenses/by/3.0/">Atribución 3.0 no portada (CC BY 3.0)</a></p>
 </div>
 
@@ -203,7 +203,7 @@ Por alguna razón, el gobierno noruego es un accionista importante de Keisei Ele
 {{% tab "Código de área" %}}
 <div class="googlemap-if">
 <p>
-<img class="no-click" src="2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>
+<img class="no-click" src="/rule/europe/norway/2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>
 </p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">giroscopiobill212</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Enlace</a></p>
 </div>
 {{% /tab %}}

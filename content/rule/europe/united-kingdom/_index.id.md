@@ -52,7 +52,7 @@ adalah wilayah luar negeri Inggris{{% goto "../gibraltar/" "Gibraltar" %}}atau{{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p class="unclickable"><img src="./uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
+<p class="unclickable"><img src="/rule/europe/united-kingdom/uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
 <p>Oleh Maxwell Hamilton, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52560349">Link</a>, Pemrosesan gambar disertakan</p>
 </div>
 <br />
@@ -67,7 +67,7 @@ Domain Publik
 Jika ada banyak rumah bata <span class="quiz">Inggris</span> Namun jika temboknya banyak yang berwarna putih <span class="quiz">Irlandia</span> Mari kita pertimbangkan.Irlandia ada di kiri bawah{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}, Inggris di sebelah kanan{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Intisari: Kursus Pemula Peta Dunia + Pojok Pertanyaan" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./uk-street.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" />
 </div>
 
 
@@ -75,7 +75,7 @@ Jika ada banyak rumah bata <span class="quiz">Inggris</span> Namun jika tembokny
 <span class="quiz">Pagar yang ditanami semak dan tumbuhan disebut pagar tanaman</span> terdapat di pinggir jalan dan di sekitar rumah.{{% ex "https://goo.gl/maps/GbJsgrJg9qL7k63F8" "https://goo.gl/maps/XVp6A4R4SjfNu2jM7" "https://goo.gl/maps/4q7cqszzA1KGDpBs8" "https://goo.gl/maps/pvQbAXWRvLZiD95R9" "https://goo.gl/maps/5osd6kkFRYC7aqBU8" %}}{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "Teknologi konservasi lingkungan Cambridge Teknologi konservasi lingkungan > Daftar > Hedgerow" %}}.Ada juga barang-barang tua yang dibuat sebelum abad ke-19 dan barang-barang yang tidak dirawat dengan baik.{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./hedge.jpg" width="85%" alt="イギリスの生垣・ヘッジロウ" />
+<img src="/rule/europe/united-kingdom/hedge.jpg" width="85%" alt="イギリスの生垣・ヘッジロウ" />
 </div>
 
 
@@ -86,13 +86,13 @@ Dalam diagram ini, kiri <span class="quiz">Irlandia</span> Dan yang benar <span 
 
 
 <div class="googlemap-if unclickable">
-<img src="./cevron.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
-<img src="./r/UK_traffic_sign_515.svg" width="322px" />
+<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
+<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" />
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ Dalam diagram ini, kiri <span class="quiz">Irlandia</span> Dan yang benar <span 
 dengan Inggris{{% goto "../ireland/" "Irlandia" %}}Banyak mata kucing di jalanan.{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}.Itu ditemukan di Inggris pada tahun 1934 dan digunakan di Inggris, Irlandia, Selandia Baru, dan negara-negara lain.Namun jarang digunakan di negara-negara Eropa lainnya.{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "Mata kucing (jalan)" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./640px-LIGHTDOME.jpg">
+<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -124,7 +124,7 @@ Alexandra Palace Theatre terletak di sisi utara London
     <h2>Barang terkait Inggris</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7089427" target="_blank">
-            <img src="d8fa3206-84a1-4416-bb8a-31a292165194.png" alt="画像3">
+            <img src="/rule/europe/united-kingdom/d8fa3206-84a1-4416-bb8a-31a292165194.png" alt="画像3">
         </a>
         <!-- <div class="caption">Judul produk 1</div>ーー＞
     </div>
@@ -142,7 +142,7 @@ Alexandra Palace Theatre terletak di sisi utara London
 {{% tabs %}}
 {{% tab "Pertanian dan distribusi tanaman" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./veg_image_large.png" width="90%">
+<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -152,7 +152,7 @@ Lahan budidaya meluas ke arah tenggara{{% ref "https://www.eea.europa.eu/data-an
 {{% /tab %}}
 {{% tab "nomor jalan" %}}
 <div class="googlemap-if">
-<img class="no-click" src="2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
+<img class="no-click" src="/rule/europe/united-kingdom/2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
 </div>
 {{% /tab %}}
 {{% tab "Kode wilayah" %}}
@@ -194,7 +194,7 @@ Saya belum pernah menggunakannya (<a href="https://www.reddit.com/r/dataisbeauti
 {{% tabs %}}
 {{% tab "komposisi Inggris" %}}
 <div class="googlemap-if no-margin">
-<img class="no-click" src="United_Kingdom_colors.png" width="400px" alt="イギリスを構成する４つのCounty" />
+<img class="no-click" src="/rule/europe/united-kingdom/United_Kingdom_colors.png" width="400px" alt="イギリスを構成する４つのCounty" />
 </div>
 
 <div class="googlemap-if">
@@ -209,7 +209,7 @@ Saya belum pernah menggunakannya (<a href="https://www.reddit.com/r/dataisbeauti
 Mudah dimengerti karena dieja dengan cara yang tidak bisa diucapkan dalam bahasa Inggris.{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "Welsh" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign-w.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%">
 </div>
 
 {{% notice tip %}}
@@ -217,7 +217,7 @@ Ada notasi seperti "ARAF" dan "SAFLL BWS"{{% ex "https://maps.app.goo.gl/Bz2vFSq
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./wales_cardiff_slow.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%">
 </div>
 {{% /tab %}}
 {{% tab "tonggak putih dan merah" %}}

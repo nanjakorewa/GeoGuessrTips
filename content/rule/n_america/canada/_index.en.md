@@ -43,13 +43,13 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:5px;">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
-<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
-<img src="./r/sp-on.svg" width="66px" style="margin:5px">
-<img src="./canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px">
-<img src="../usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px">
-<img src="../usa/r/sp-oregon.png" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px">
+<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px">
+<img src="/rule/n_america/usa/r/sp-oregon.png" width="66px" style="margin:5px">
 </div>
 
 </div>
@@ -57,33 +57,33 @@ sc: [
 {{% notice tip %}}In Canada, there are no words on YEILD or ONEWAY signs.Canada on the left, America on the right.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
-<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
+<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
 </div>
 <div class="googlemap-if unclickable">
-<img src="../canada/r/oneway.svg" width="100px" style="margin-right:100px">
-<img src="../usa/r/oneway.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-right:100px">
+<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-left:100px">
 </div>
 
 {{% notice tip %}}There are many posts like this.It should say CANADA POST somewhere.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./canadapostcommunitymailboxes9.jpg" width="80%" />
-<img src="./canadapostcommunitymailboxes5.jpg" width="250px" />
-<img src="./canadapostmailbox.jpg" width="250px" />
+<img src="/rule/n_america/canada/canadapostcommunitymailboxes9.jpg" width="80%" />
+<img src="/rule/n_america/canada/canadapostcommunitymailboxes5.jpg" width="250px" />
+<img src="/rule/n_america/canada/canadapostmailbox.jpg" width="250px" />
 </div>
 
 {{% notice tip %}}There is a sign that looks like a checkerboard{{% ex "https://goo.gl/maps/H4Cp8txV2x2FRdxa6" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./opeongo_road_signs.jpg" width="90%" />
+<img src="/rule/n_america/canada/opeongo_road_signs.jpg" width="90%" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px">
-<img src="./Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px">
-<img src="./Ontario_Wa-8R.svg" width="130px" style="margin-right:20px">
+<img src="/rule/n_america/canada/CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px">
+<img src="/rule/n_america/canada/Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px">
+<img src="/rule/n_america/canada/Ontario_Wa-8R.svg" width="130px" style="margin-right:20px">
 </div>
 
 {{% notice tip %}}Banks written as TD are affiliated with Toronto-Dominion Bank.RBC stands for Royal Bank of Canada.They are the 2nd and 1st largest asset size in Japan, respectively.
@@ -93,8 +93,8 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px">
-<img src="./RBC_Royal_Bank.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/canada/Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px">
+<img src="/rule/n_america/canada/RBC_Royal_Bank.svg" width="100px" style="margin-left:100px">
 </div>
 
 {{% /tab %}}
@@ -157,7 +157,7 @@ The yellow-green areas are flat, and the brown areas are steep mountains.It turn
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800">
+<img src="/rule/n_america/canada/1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800">
 </div>
 
 {{% /tab %}}
@@ -192,20 +192,20 @@ The yellow-green areas are flat, and the brown areas are steep mountains.It turn
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px">
-<img src="./r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px">
-<img src="./r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px">
+<img src="/rule/n_america/canada/r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px">
+<img src="/rule/n_america/canada/r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px">
+<img src="/rule/n_america/canada/r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px">
 </div>
 
 {{% /tab %}}
 {{% tab "speed notation" %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
-<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
-<img src="./r/sp-on.svg" width="66px" style="margin:5px">
-<img src="./canada-sp-nu.png" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px">
 </div>
 
 
@@ -262,7 +262,7 @@ When the telephone poles divided 2:1 are repeated alternately,<span class="quiz"
 Bollards with thin, dark red reflectors are <span class="quiz">quebec</span> state{{% ex "https://goo.gl/maps/goHrTyUv3ALQ8DLt5" "https://goo.gl/maps/RYguMToduYg11Cfe8" %}}.{{% goto "../usa/" "America" %}}There is a similar bollard in{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}Just pay attention to the points.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./a20_ouest_km143.jpg" width="90%">
+<img src="/rule/n_america/canada/a20_ouest_km143.jpg" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "Ontario" %}}
@@ -287,14 +287,14 @@ Common in Ontario.Some are not colored.
 {{% tab "wheat" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-45-23.png" width="80%" />
+<img src="/rule/n_america/canada/2023-04-29-19-45-23.png" width="80%" />
 </div>
 
 {{% /tab %}}
 {{% tab "cone" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-35-46.png" width="80%" />
+<img src="/rule/n_america/canada/2023-04-29-19-35-46.png" width="80%" />
 </div>
 
 {{% notice note %}}

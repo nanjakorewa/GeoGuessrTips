@@ -41,19 +41,19 @@ sc: [
 {{% goto "../austria/" "Austria" %}}Ada tonggak yang bentuknya mirip{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}.Kadang-kadang{{% goto "../montenegro/" "Montenegro" %}}Ada tonggak yang bentuknya mirip{{% ex "https://goo.gl/maps/Chrh7DMo5qQ2EBz26" %}}Hati-hati.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.png" width="90%">
+<img src="/rule/europe/slovenia/bollard.png" width="90%">
 </div>
 
 {{% notice tip %}}
 Negara-negara yang terkait dengan Yugoslavia <span class="quiz">oranye</span> Ada tanda berbentuk pensil.{{% ex "https://maps.app.goo.gl/tW5xrsJtV8xPYkig6" "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}.Ada tanda kecil berwarna putih di pinggir jalan dengan tertulis nomor jalan di atasnya.{{% ex "https://maps.app.goo.gl/rvRWmDMvbSqpR3uG7" %}}, papan nama jenis ini adalah yang paling umum di Slovenia.{{% goto "../croatia/" "Kroasia" %}}atau{{% goto "../serbia/" "Serbia" %}}Itu juga jarang ada.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./baskagrapa3.jpg" width="95%">
+<img src="/rule/europe/slovenia/baskagrapa3.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./routesign.png" width="300px" style="margin:15px"/>
-<img src="./r/Slovenia_road_sign_III-105.svg" width="130px" />
+<img src="/rule/europe/slovenia/routesign.png" width="300px" style="margin:15px"/>
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-105.svg" width="130px" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Notasi "ZONA" adalah "<span class="quiz">KONA</span>' Kemudian Slovenia dikonfir
 
 <div class="googlemap-if unclickable">
 <img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px">
-<img src="./sign-behind.png" width="145px" style="margin:10px">
+<img src="/rule/europe/slovenia/sign-behind.png" width="145px" style="margin:10px">
 </div>
 
 
@@ -71,7 +71,7 @@ rumah dihiasi dengan bunga merah{{% ex "https://maps.app.goo.gl/TeTP31CvSXzZB82w
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./house.jpg" width="90%" />
+<img src="/rule/europe/slovenia/house.jpg" width="90%" />
 </div>
 
 
@@ -79,9 +79,9 @@ rumah dihiasi dengan bunga merah{{% ex "https://maps.app.goo.gl/TeTP31CvSXzZB82w
 bersebelahan{{% goto "../croatia/" "Kroasia" %}}atau{{% goto "../hungary/" "Hongaria" %}}Berbeda dengan ini, tidak ada sabuk pengaman pada rambu penyeberangan.Dari kiri <span class="quiz">Slovenia</span>・<span class="quiz">Kroasia</span>・<span class="quiz">Hongaria</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
+<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
+<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -139,17 +139,17 @@ Apakah ada pot bunga dan bunga di ambang jendela?
 {{% tabs %}}
 {{% tab "Rumah Cerknica" %}}
 <div class="googlemap-if unclickable">
-<img src="./cerknica_udovic_r_hisa.jpg" width="370px" >
+<img src="/rule/europe/slovenia/cerknica_udovic_r_hisa.jpg" width="370px" >
 </div>
 {{% /tab %}}
 {{% tab "Rumah di Tržič" %}}
 <div class="googlemap-if unclickable">
-<img src="./trzic2_kurnikovahisa.jpg" width="370px" >
+<img src="/rule/europe/slovenia/trzic2_kurnikovahisa.jpg" width="370px" >
 </div>
 {{% /tab %}}
 {{% tab "Rumah Gorišnica" %}}
 <div class="googlemap-if unclickable">
-<img src="./gorisnica_dominkovadomacija.jpg" width="550px" >
+<img src="/rule/europe/slovenia/gorisnica_dominkovadomacija.jpg" width="550px" >
 </div>
 {{% /tab %}}
 {{% tab "bentuk lahan karst" %}}

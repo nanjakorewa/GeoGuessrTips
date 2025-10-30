@@ -49,21 +49,21 @@ sc: [
 language is <span class="quiz">Portugal</span> It is a word “<span class="quiz">Ã・ã</span>” is distinctive.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./st/Placa_rod_f_dias.png"width="440xp">
+<img src="/rule/cs_america/brazil/st/Placa_rod_f_dias.png"width="440xp">
 </div>
 
 {{% notice tip %}}
 the back of the sign <span class="quiz">black</span> There are many things (the background image is<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">here</a>use the one of, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./traffic-sign-example.png" width="90%">
+<img src="/rule/cs_america/brazil/traffic-sign-example.png" width="90%">
 </div>
 
 {{% notice tip %}}
 The antenna on the house is distinctive.<span class="quiz">transparent</span> Use a parabolic antenna{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}.However, this alone cannot be certain.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./house.jpg" width="95%">
+<img src="/rule/cs_america/brazil/house.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
@@ -84,11 +84,11 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 It has the logo of Petrobras, the largest oil company in South America.{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./petrobras_no_b_laranjeiras.jpg" width="95%">
+<img src="/rule/cs_america/brazil/petrobras_no_b_laranjeiras.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
+<img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
 <img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
 </div>
 
@@ -101,8 +101,8 @@ There's a tank with Fortlev written on it.{{% ref "https://www.fortlev.com.br/ca
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-13-03-04-56.png" >
-<img src="2023-06-13-03-05-06.png" >
+<img src="/rule/cs_america/brazil/2023-06-13-03-04-56.png" >
+<img src="/rule/cs_america/brazil/2023-06-13-03-05-06.png" >
 </div>
 
 
@@ -111,7 +111,7 @@ Telephone poles in Brazil have partitions in the grooves.<span class="quiz">be</
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pole.jpg" width="90%" />
+<img src="/rule/cs_america/brazil/pole.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -147,7 +147,7 @@ Banco Itaú, the largest bank in South America <span class="quiz">orange sign</s
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./banco_itau_agencia_leblon.jpg" width="95%">
+<img src="/rule/cs_america/brazil/banco_itau_agencia_leblon.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -178,7 +178,7 @@ Banco Itaú, the largest bank in South America <span class="quiz">orange sign</s
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
+<img src="/rule/cs_america/brazil/2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
 <p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
 </div>
 {{% /tab %}}
@@ -189,7 +189,7 @@ It's quite difficult to find the road number right away, so try narrowing down t
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rodovia_br460_carmo_de.jpg" width="95%">
+<img src="/rule/cs_america/brazil/rodovia_br460_carmo_de.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Around Florianopolis" %}}
@@ -226,7 +226,7 @@ during construction{{% goto "../../europe/azores/" "Azores" %}}Due to the large 
 {{% tab "vegetation" %}}
 
 <div class="googlemap-if">
-<div class="unclickable"><img src="2023-04-27-08-27-15.png" /></div>
+<div class="unclickable"><img src="/rule/cs_america/brazil/2023-04-27-08-27-15.png" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">Image source: By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
 {{% /tab %}}
@@ -308,7 +308,7 @@ This tree is <span class="quiz">Cearer</span> around the state
 {{% /tab %}}
 {{% tab "Babasu" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-07-20-45-47.png" />
+<img src="/rule/cs_america/brazil/2023-05-07-20-45-47.png" />
 </div>
 
 {{% notice tip %}}
@@ -359,7 +359,7 @@ Sparsely distributed mainly in areas near the coast of Sao Paulo and Rio Grande 
 I can see a sharp mountain{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}.There is also a section where you are riding a blue buggy.{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilhagrande_abraao1.jpg" width="95%">
+<img src="/rule/cs_america/brazil/ilhagrande_abraao1.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Fernando de Noronha" %}}
@@ -367,7 +367,7 @@ I can see a sharp mountain{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "ht
 There is a hole in the telephone pole.There are many rocky areas and there are places where you can take a boat.There are some very distinctive rocks, so you might be able to tell from that.{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./brazil_1091369.jpg" width="95%">
+<img src="/rule/cs_america/brazil/brazil_1091369.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -53,8 +53,8 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./split_croatia_1.jpg" alt="tisak" width="80%">
-<img src="./sanski_most5.jpg" alt="konzum" width="80%">
+<img src="/rule/europe/croatia/split_croatia_1.jpg" alt="tisak" width="80%">
+<img src="/rule/europe/croatia/sanski_most5.jpg" alt="konzum" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ Hingga tahun 2016, pelat nomornya berwarna putih, sehingga banyak pelat nomor ya
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./car-example.jpg" width="600px">
+<img src="/rule/europe/croatia/car-example.jpg" width="600px">
 </div>
 
 {{% lb 50 small %}}
@@ -85,7 +85,7 @@ CC0</a>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./autocesta_a5_hrvatska_003.jpg" width="600px">
+<img src="/rule/europe/croatia/autocesta_a5_hrvatska_003.jpg" width="600px">
 </div>
 
 
@@ -94,9 +94,9 @@ CC0</a>
 Orang-orang di penyeberangan pejalan kaki Kroasia mengenakan ikat pinggang.{{% ex "https://maps.app.goo.gl/DFqnqwPTuUpDzUmu6" "https://maps.app.goo.gl/5mTEP7ZJz6BHkYsQ7" %}}.Dari kiri <span class="quiz">Kroasia</span>・<span class="quiz">Latvia</span>・<span class="quiz">Hongaria</span>.Jika bentuk kakinya "ku" maka itu adalah Kroasia, dan jika bentuk kakinya "ha" maka itu adalah Hongaria.{{% goto "../portugal/" "Portugal" %}}atau{{% goto "../germany/" "Jerman" %}}Perhatikan bahwa dia juga memakai ikat pinggang.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
+<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
+<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px">
+<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -107,22 +107,22 @@ Ada tanda pangkat kuning dan merah
 Sebagai negara di mana tanda pangkat dengan warna serupa dapat ditemukan{{% goto "../san-marino/" "san marino" %}}atau{{% goto "../austria/" "Austria" %}}Ada
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road-example.png" width="95%">
-<img src="./arrow.jpg" width="500px">
+<img src="/rule/europe/croatia/road-example.png" width="95%">
+<img src="/rule/europe/croatia/arrow.jpg" width="500px">
 </div>
 
 {{% notice tip %}}
 Kroasia, negara yang terkait dengan Yugoslavia,{{% goto "../slovenia/" "Slovenia" %}}・{{% goto "../serbia/" "Serbia" %}}・{{% goto "../montenegro/" "Montenegro" %}}・Bosnia-Herzegovina memiliki banyak kesamaan dalam hal pagar pembatas dan papan nama.Papan nama berwarna kuning dan pagar pembatas bersudut adalah hal yang umum di negara-negara ini.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./tabla_na_ulasku_u_0.jpg" width="95%">
+<img src="/rule/europe/croatia/tabla_na_ulasku_u_0.jpg" width="95%">
 </div>
 
 {{% notice tip %}}
 Saya merasa panah merah sering tertulis di pintu meteran listrik.{{% ex "https://maps.app.goo.gl/WPiySja6gVUH2FVn6" "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}.Terkadang juga ditempel pada tiang bola lampu.{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}.{{% goto "../serbia/" "Serbia" %}}Tapi terkadang aku melihatnya{{% ex "https://maps.app.goo.gl/8JmiLusejAexJLCw8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./danger.png" width="200px" style="margin:40px">
+<img src="/rule/europe/croatia/danger.png" width="200px" style="margin:40px">
 </div>
 
 {{% notice tip %}}
@@ -176,7 +176,7 @@ Ini memiliki tanda pangkat kuning dan merah.
 Saya rasa saya lebih sering melihat nama tempat dibandingkan saat berjalan-jalan di kota.
 {{% /notice %}}
 <div class="googlemap-if">
-<p><div class="unclickable"><img src="areacode.png" /></div></p>
+<p><div class="unclickable"><img src="/rule/europe/croatia/areacode.png" /></div></p>
 <p>sumber:<a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom - Promet Međunarodni</a></p>
 </div>
 {{% /tab %}}
@@ -195,7 +195,7 @@ Saya rasa saya lebih sering melihat nama tempat dibandingkan saat berjalan-jalan
 {{% notice tip %}}
 Industri utama di pulau ini adalah budidaya anggur.{{% ex "https://maps.app.goo.gl/SSWENqTiuXZhwL969" "https://maps.app.goo.gl/DqNBW2TBT3CkQvsN9" "https://maps.app.goo.gl/CDrhyrchMuPDJNdQ9" %}}Seperlima dari lahan pertanian di pulau ini adalah kebun anggur.
 {{% /notice %}}
-<img src="./vrbnicko_polje_1.jpg">
+<img src="/rule/europe/croatia/vrbnicko_polje_1.jpg">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

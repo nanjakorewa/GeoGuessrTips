@@ -52,7 +52,7 @@ La parte de atrás del cartel<b>sensación plana</b>{{% ex "https://maps.app.goo
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%" />
+<img src="/rule/cs_america/ecuador/road.jpg" width="90%" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
 Por Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Enlace</a>, Procesamiento de imágenes incluido
@@ -62,7 +62,7 @@ Por Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" 
 Las barreras de seguridad del Ecuador<b>es doble</b>a menudo{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="540px-Banos-Puyo.jpg">
+<img src="/rule/cs_america/ecuador/540px-Banos-Puyo.jpg">
 </div>
 
 
@@ -72,7 +72,7 @@ Rara vez se ven postes telefónicos con pequeñas divisiones y agujeros en Amér
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="pole.jpg" width="95%" />
+<img src="/rule/cs_america/ecuador/pole.jpg" width="95%" />
 </div>
 
 
@@ -82,7 +82,7 @@ Para vehículos comerciales como taxis y camiones, se indica la matrícula compl
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./palanda_ecuador_truck.jpg" width="90%">
+<img src="/rule/cs_america/ecuador/palanda_ecuador_truck.jpg" width="90%">
 </div>
 
 {{% lb 50 %}}
@@ -171,7 +171,7 @@ Hay varios postes telefónicos.
 En el círculo rojo hay una plantación de palma aceitera.Especialmente carreteras cercanas a la frontera con Colombia.{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" %}}y carreteras E20{{% ex "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}Hay muchos árboles.{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-23-04-26-04.png" width="90%">
+<img src="/rule/cs_america/ecuador/2023-05-23-04-26-04.png" width="90%">
 </div>
 
 {{% /tab %}}
@@ -181,7 +181,7 @@ Los campos de arroz son comunes en cuencas como la del río Babayo cerca de Guay
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Ecuador_Rice.png" width="90%">
+<img src="/rule/cs_america/ecuador/Ecuador_Rice.png" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "banana" %}}
@@ -189,7 +189,7 @@ Los campos de arroz son comunes en cuencas como la del río Babayo cerca de Guay
 Las plantaciones de plátanos se pueden encontrar en zonas con mucho terreno llano.{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "EcuadoriaN BananA RegionS" %}}.El porcentaje de Los Ríos (37,14%), Guayas (32,25%) y El Oro (24,12%).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="640px-Culture_de_bananes.jpg" width="90%">
+<img src="/rule/cs_america/ecuador/640px-Culture_de_bananes.jpg" width="90%">
 </div>
 
 {{% /tab %}}
@@ -199,7 +199,7 @@ La foto de abajo tiene la inicial "P", por lo que podemos suponer que es Pichinc
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rue_de_riobamba.jpg" width="500">
+<img src="/rule/cs_america/ecuador/rue_de_riobamba.jpg" width="500">
 </div>
 {{% /tab %}}
 
@@ -219,7 +219,7 @@ Una imagen de un árbol creciendo así.{{% ex "https://maps.app.goo.gl/uwHFoWbHb
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pichincha1a.jpg" width="95%" >
+<img src="/rule/cs_america/ecuador/pichincha1a.jpg" width="95%" >
 </div>
 {{% /tab %}}
 {{% /tabs %}}

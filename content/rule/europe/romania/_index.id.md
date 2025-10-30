@@ -43,7 +43,7 @@ sc: [
 Ada lubang besar di tiang telepon sampai ke bawah.<span class="quiz">Ada</span> sering{{% ex "https://maps.app.goo.gl/u4GroEbCQamrksXbA" "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}mungkin tampak terisi hanya pada satu sisi di bagian bawah.{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}.Jika kosong sampai ke bawah, itu Rumania.{{% goto "../hungary/" "Hongaria" %}}, jika bagian bawahnya tidak kosong{{% goto "../poland/" "Polandia" %}}Mungkin.Sering ditandai dengan spidol kuning.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./pole.jpg" width="259"><p>
+<p><img src="/rule/europe/romania/pole.jpg" width="259"><p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Cigognes_Vladeni_Roumanie.jpg#/media/File:Cigognes_Vladeni_Roumanie.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cigognes_Vladeni_Roumanie.jpg" alt="Cigognes Vladeni Roumanie.jpg" width="355"></a></p>
 </div>
 
@@ -55,13 +55,13 @@ Sejauh ini yang terbesar di Eropa <span style="color:red;font-weight:bold;">▽<
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px">
-<img src="./t/france.png" width="130px" style="margin:10px">
-<img src="./r/triangle.png" width="130px" style="margin:13px">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px">
+<img src="/rule/europe/romania/t/france.png" width="130px" style="margin:10px">
+<img src="/rule/europe/romania/r/triangle.png" width="130px" style="margin:13px">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="/rule/europe/romania/roadsign.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -69,15 +69,15 @@ Tonggak-tonggak di Rumania memiliki banyak petunjuk untuk menemukannya.{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./romania-bollards.png" width="90%" alt="ルーマニアのボラード" />
+<img src="/rule/europe/romania/romania-bollards.png" width="90%" alt="ルーマニアのボラード" />
 </div>
 
 {{% notice tip %}}
 "<span class="quiz">Ș・ș</span>"・"<span class="quiz">Ț・ț</span> S dan T dengan koma di bawah digunakan di Rumania dan Moldova, namun Moldova tidak memiliki Street View.Jika “Ļ・ļ”{{% goto "../baltic-state/latvia/" "Latvia" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./route/routeA.png" width="240px" style="margin:10px">
-<img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
+<img src="/rule/europe/romania/route/routeA.png" width="240px" style="margin:10px">
+<img src="/rule/europe/romania/route/ROM_county_limit.svg" width="230px" style="margin:34px">
 </div>
 
 {{% notice tip %}}
@@ -85,14 +85,14 @@ Bentuk nomor jalannya pun khas{{% ex "https://goo.gl/maps/kuWmdS6NhDiQ96L97" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./road.jpg" width="590px"></p>
+<p><img src="/rule/europe/romania/road.jpg" width="590px"></p>
 <p>Oleh <a href="//commons.wikimedia.org/wiki/User:Nenea_hartia" title="User:Nenea hartia">Nenea hartia</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49508175">Link</a></p>
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/ROU_DN6.svg" width="70px" style="margin:10px">
-<img src="./r/DJ609B-RO.svg" width="70px" style="margin:20px">
+<img src="/rule/europe/romania/r/ROU_DN6.svg" width="70px" style="margin:10px">
+<img src="/rule/europe/romania/r/DJ609B-RO.svg" width="70px" style="margin:20px">
 </div>
 
 {{% notice tip %}}
@@ -103,8 +103,8 @@ Di Rumania, bagian belakang rambu sering kali berwarna hitam.{{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-bg.png" width="110px" style="margin:21px">
-<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
+<img src="/rule/europe/romania/sign-bg.png" width="110px" style="margin:21px">
+<img src="/rule/europe/romania/r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Berbeda dengan negara tetangga, tidak ada kaitannya dengan tanda-tanda tersebut.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./signs.jpg" width="90%">
+<img src="/rule/europe/romania/signs.jpg" width="90%">
 </div>
 
 
@@ -125,7 +125,7 @@ Yang kiri adalah <span class="quiz">Polandia</span>, yang benar adalah <span cla
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../poland/guardrail.png" width="90%">
+<img src="/rule/europe/poland/guardrail.png" width="90%">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -183,7 +183,7 @@ Tonggak-tonggak yang serupa dengan yang ada di Türkiye dan Italia juga dapat di
 {{% tabs %}}
 {{% tab "Bagaimana cara membagi wilayah" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./1213px-RomanianTerritories.png" width="90%">
+<img src="/rule/europe/romania/1213px-RomanianTerritories.png" width="90%">
 </div>
 {{% notice tip %}}
 {{% ref "https://en.wikipedia.org/wiki/File:RomanianTerritories.png#/media/File:RomanianTerritories.png" "Territories with historic significance for Romanian people." %}}
@@ -201,8 +201,8 @@ Daerah ungu memiliki lebih banyak toilet di luar ruangan.Secara umum, wilayah ya
 {{% /tab %}}
 {{% tab "barat laut" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./arc/960px-Brasov_From_White_Tower.jpg" width="500px">
-<img src="./arc/Viscri2.jpg" width="500px">
+<img src="/rule/europe/romania/arc/960px-Brasov_From_White_Tower.jpg" width="500px">
+<img src="/rule/europe/romania/arc/Viscri2.jpg" width="500px">
 </div>
 {{% notice tip %}}
 TODO / Atap merah coklat atau dinding biru muda?{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2" "transilvania" %}}.
@@ -212,7 +212,7 @@ TODO / Atap merah coklat atau dinding biru muda?{{% ref "https://ja.wikipedia.or
 
 {{% tab "timur laut" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><img src="./arc/640px-thumbnail.jpg" width="550px"></p>
+<p><img src="/rule/europe/romania/arc/640px-thumbnail.jpg" width="550px"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Biserica de lemn din Dărmăneşti2.jpg" width="550px"></a></p><p>Gambar bawah: Oleh Cezar Suceveanu - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC OLEH 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Link</a></p>
 </div>
 {{% notice tip %}}
@@ -224,7 +224,7 @@ TODO / Atap dan saluran terbuat dari bahan perak{{% ref "https://theonearmedcrab
 Bagian dataran tinggi itu rumit (Sumber gambar:<a href="https://maps-for-free.com/">https://maps-for-free.com/</a> ©<a href="https://www.openstreetmap.org/copyright">Peta jalan terbuka</a> kontributor）
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-29-18-32-36.png" />
+<img src="/rule/europe/romania/2023-04-29-18-32-36.png" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -257,7 +257,7 @@ Pertanian dilakukan di daerah jeruk.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Romania_land_use_(1970).jpg" width="500px">
+<img src="/rule/europe/romania/Romania_land_use_(1970).jpg" width="500px">
 </div>
 
 {{% notice tip %}}
@@ -265,7 +265,7 @@ Hal ini biasa terjadi di wilayah timur, namun tidak jarang juga terjadi di wilay
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./sun_flower_sunflower_field_1.jpg" width="500px">
+<img src="/rule/europe/romania/sun_flower_sunflower_field_1.jpg" width="500px">
 </div>
 
 {{% /tab %}}
@@ -275,8 +275,8 @@ Area yang ditunjukkan dengan warna oranye pada diagram memiliki kilang minyak da
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Romania_resources_(1970).jpg" width="500px">
-<img src="./factory_smokestack_industrial_power.jpg" width="500px">
+<img src="/rule/europe/romania/Romania_resources_(1970).jpg" width="500px">
+<img src="/rule/europe/romania/factory_smokestack_industrial_power.jpg" width="500px">
 </div>
 
 {{% /tab %}}
@@ -286,7 +286,7 @@ Ada bagian di mana Anda melakukan perjalanan dengan perahu antara wilayah delta 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./the_danube_delta_1.jpg">
+<img src="/rule/europe/romania/the_danube_delta_1.jpg">
 </div>
 
 {{% /tab %}}
@@ -309,7 +309,7 @@ Saya merasa ini tidak terlihat seperti bahasa Rumania (kesan pribadi saya) jadi 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./transfagarasan_2.jpg" width="95%">
+<img src="/rule/europe/romania/transfagarasan_2.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -320,7 +320,7 @@ Begitu Anda datang, Anda tidak akan melupakannya{{% ex "https://maps.app.goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./relief_king_decebalus_rock.jpg">
+<img src="/rule/europe/romania/relief_king_decebalus_rock.jpg">
 </div>
 {{% /tab %}}
 {{% tab "CB" %}}

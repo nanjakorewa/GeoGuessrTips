@@ -48,7 +48,7 @@ Bolivia tiene muy pocas casas de madera.<span class="quiz">ladrillo y cemento</s
 el palo de la señal <span class="quiz">palo cuadrado grueso</span> a menudo está hecho de{{% ex "https://maps.app.goo.gl/aWBeh2rt4WL38rFL7" "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://maps.app.goo.gl/QdHoQusynypdF2Vw9" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}.A veces también hay varillas de metal.{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="/rule/cs_america/bolivia/roadsign.jpg" width="90%">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
@@ -75,7 +75,7 @@ Camino pavimentado con piedras grandes{{% ex "https://maps.app.goo.gl/EDBqCWzFZR
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="19683170924_abbf5210de_c.jpg" width="90%">
+<img src="/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg" width="90%">
 </div>
 
 
@@ -84,8 +84,8 @@ Los colores de la bandera del partido socialista de Bolivia (negro-blanco-azul y
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
-<img src="./images.jpg" width="300px" style="margin:10px">
+<img src="/rule/cs_america/bolivia/MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px" style="margin:10px">
 </div>
 
 
@@ -98,7 +98,7 @@ Hay una bandera y un logotipo de Wiphala.{{% ex "https://maps.app.goo.gl/1pEnEcd
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Banner_of_the_Qulla_Suyu.svg" width="500px">
+<img src="/rule/cs_america/bolivia/Banner_of_the_Qulla_Suyu.svg" width="500px">
 </div>
 {{% /tab %}}
 {{% tab "noray" %}}
@@ -113,7 +113,7 @@ Una importante empresa de telecomunicaciones de Bolivia, un edificio que puedes 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./images.jpg" width="300px">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px">
 </div>
 
 
@@ -122,7 +122,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) es una de las empresas de e
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./YPFB_Logo.svg" width="300px">
+<img src="/rule/cs_america/bolivia/YPFB_Logo.svg" width="300px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -144,7 +144,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) es una de las empresas de e
 {{% tab "terreno" %}}
 
 <div class="googlemap-if no-margin">
-<img src="./750px-Bolivia_Topography.png" width="90%" />
+<img src="/rule/cs_america/bolivia/750px-Bolivia_Topography.png" width="90%" />
 </div>
 {{% /tab %}}
 {{% tab "lugares de baja altitud" %}}
@@ -195,7 +195,7 @@ Hay muchas zonas verdes y planas alrededor de Santa Cruz.{{% ex "https://goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="./rn4-east.png" width="90%" /></div></p>
+<p><div class="unclickable"><img src="/rule/cs_america/bolivia/rn4-east.png" width="90%" /></div></p>
 <p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">En el camino de Puerto Suárez a SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC POR 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Enlace</a>, Procesado</p>
 </div>
 {{% /tab %}}
@@ -240,7 +240,7 @@ Tenga en cuenta que el paisaje es completamente diferente al del área alrededor
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./la_paz_andes_south.jpg" width="550px">
+<img src="/rule/cs_america/bolivia/la_paz_andes_south.jpg" width="550px">
 </div>
 {{% /tab %}}
 {{% tab "muñeca colgante" %}}
@@ -273,7 +273,7 @@ Tenga en cuenta que el paisaje es completamente diferente al del área alrededor
 GoogleCar es distintivo{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}.Las montañas también son bastante distintivas.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./sajama_bolivia_volcano_way.jpg" width="95%" />
+<img src="/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% tab "isla del sol" %}}
@@ -281,14 +281,14 @@ GoogleCar es distintivo{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https
 Hay muchas ruinas de la época Inca.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilha_do_sol14.jpg" width="95%">
+<img src="/rule/cs_america/bolivia/ilha_do_sol14.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "cementerio de trenes" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
+<img src="/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Ojos del Salar" %}}
@@ -296,7 +296,7 @@ Hay muchas ruinas de la época Inca.
 Hay una vista de la calle, pero nunca se ha solicitado.{{% ex "https://maps.app.goo.gl/1rqb1hjS5EAsPvRL8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./salt_salar_landscape_salar.jpg" width="95%" />
+<img src="/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg" width="95%" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -44,7 +44,7 @@ sc: [
 Hay un cartel escrito en inglés.{{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign1.jpg" width="90%">
+<img src="/rule/asia/philippines/road-sign1.jpg" width="90%">
 </div>
 
 {{% notice tip %}}
@@ -57,7 +57,7 @@ Filipinas tiene muchas carreteras de cemento en Asia.{{% goto "../thai/" "Tailan
 
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="95%">
+<img src="/rule/asia/philippines/road.jpg" width="95%">
 </div>
 
 
@@ -65,7 +65,7 @@ Filipinas tiene muchas carreteras de cemento en Asia.{{% goto "../thai/" "Tailan
 llamado triciclo <span class="quiz">Un vehículo que combina moto, portaequipajes y silla</span> Se utiliza en lugar de un taxi.También existe un vehículo llamado bicitaxi, que no es una motocicleta sino una bicicleta combinada.También llamado jeepney <span class="quiz">autobús de colores brillantes</span> También se utiliza como principal medio de transporte.{{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}.El transporte público, como los autobuses, tienen matrículas.<span class="quiz">amarillo</span> color.A continuación se muestran un triciclo (derecha) y un jeepney (izquierda).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="80%">
+<img src="/rule/asia/philippines/car.jpg" width="80%">
 </div>
 
 {{% lb %}}
@@ -79,7 +79,7 @@ Por Christian Razukas de Honolulu, Hawaii - Flickr, <a href="https://creativecom
 La mayoría de los turismos normales son de color blanco o verde claro.{{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}.<span class="quiz">lado derecho</span> Si el tráfico y los vehículos son únicos y las placas son amarillas, blancas o verde claro, entonces estás en Filipinas.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car-blar-image.png" width="400px">
+<img src="/rule/asia/philippines/car-blar-image.png" width="400px">
 </div>
 
 {{% lb 50 %}}
@@ -93,7 +93,7 @@ Importante cadena de restaurantes de comida rápida de Filipinas.<span class="qu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" />
+<img src="/rule/asia/philippines/09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" />
 </div>
 
 {{% notice tip %}}
@@ -101,11 +101,11 @@ En Asia, los galones rojos y blancos se asocian con Filipinas.{{% goto "../srila
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./arrow.jpg" width="95%">
+<img src="/rule/asia/philippines/arrow.jpg" width="95%">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px">
+<img src="/rule/asia/philippines/r/Philippines_road_sign_HM_1B_R.svg" width="100px">
 </div>
 
 
@@ -189,7 +189,7 @@ En los suburbios de Filipinas suele haber perros salvajes y búfalos de agua.
 {{% tabs %}}
 {{% tab "tagalo" %}}
 <div class="googlemap-if unclickable">
-<img src="./fri03sep2004_chinatown_to_gastown.jpg">
+<img src="/rule/asia/philippines/fri03sep2004_chinatown_to_gastown.jpg">
 </div>
 
 {{% notice tip %}}
@@ -243,8 +243,8 @@ Según mi experiencia, creo que alrededor del 80% del área se encuentra en la z
 {{% tabs %}}
 {{% tab "del norte" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/n1.jpg" width="500px"/>
-<img src="bike/n2.jpg" width="500px"/>
+<img src="/rule/asia/philippines/bike/n1.jpg" width="500px"/>
+<img src="/rule/asia/philippines/bike/n2.jpg" width="500px"/>
 </div>
 
 {{% notice tip %}}
@@ -254,9 +254,9 @@ Hay escalones en el techo.
 {{% /tab %}}
 {{% tab "del sur" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/s1.jpg" width="500px"/>
-<img src="bike/s2.jpg" width="500px"/>
-<img src="bike/s3.jpg" width="500px"/>
+<img src="/rule/asia/philippines/bike/s1.jpg" width="500px"/>
+<img src="/rule/asia/philippines/bike/s2.jpg" width="500px"/>
+<img src="/rule/asia/philippines/bike/s3.jpg" width="500px"/>
 </div>
 
 {{% notice tip %}}
@@ -312,23 +312,23 @@ En primer lugar, existen muchos tuk-tuks de este tipo.El asiento trasero suele t
 {{% tabs %}}
 {{% tab "palma aceitera" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="550px"/>
 </div>
 
 {{% /tab %}}
 {{% tab "Caña de azúcar" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="550px"/>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./agriculture_sugar_cane_crop.jpg" width="400px">
+<img src="/rule/asia/philippines/agriculture_sugar_cane_crop.jpg" width="400px">
 </div>
 
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="550px"/>
 </div>
 
 <div class="googlemap-if">
@@ -337,7 +337,7 @@ En primer lugar, existen muchos tuk-tuks de este tipo.El asiento trasero suele t
 {{% /tab %}}
 {{% tab "cono" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="550px"/>
+<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="550px"/>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -366,7 +366,7 @@ El nombre de la ciudad suele estar escrito directamente en el letrero.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road-sign3.jpg" width="95%">
+<img src="/rule/asia/philippines/road-sign3.jpg" width="95%">
 </div>
 
 {{% /tab %}}
@@ -375,7 +375,7 @@ El nombre de la ciudad suele estar escrito directamente en el letrero.
 La ubicación está escrita en los carteles de los principales bancos de Filipinas, como BDO Unibank, Bank of the Philippine Islands y Metrobank.{{% ex "https://maps.app.goo.gl/aGYK9bU5YD7gy3Th9" %}}.Además, la dirección suele estar escrita en el letrero de una tienda normal y corriente.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%">
+<img src="/rule/asia/philippines/960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -406,7 +406,7 @@ Isla entre la isla principal y Taiwán.{{% ex "https://maps.app.goo.gl/5CepKwzoy
 Puedo ver Google Car{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corregidor_dn_st_86.jpg" width="95%">
+<img src="/rule/asia/philippines/corregidor_dn_st_86.jpg" width="95%">
 </div>
 {{% /tab %}}
 {{% tab "Monte Pinatubo" %}}
@@ -414,7 +414,7 @@ Puedo ver Google Car{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://
 
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./trekking_mountains_mountain_hiking.jpg" width="500px">
+<img src="/rule/asia/philippines/trekking_mountains_mountain_hiking.jpg" width="500px">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
