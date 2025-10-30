@@ -6,6 +6,8 @@ themes/dot-mysite/static/mp/
 イラスト*.png
 イラスト*.jpg
 public
+__pycache__
+resources
 
 ## for MacOS
 # General
