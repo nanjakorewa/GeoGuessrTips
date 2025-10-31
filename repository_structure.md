@@ -19,7 +19,7 @@ GeoGuessrTips は Hugo 製の静的サイト「[geopinning.space](https://geopin
 | `themes/` | カスタマイズしたテーマ `dot-mysite/` とそのレイアウト・アセット。 |
 | `__pycache__/` | Python スクリプト実行時のバイトコード。 |
 | `~/` | 補助設定 (`~/.codex/config.toml`) を保持する一時ディレクトリ。 |
-| ルートファイル | `config.toml` (Hugo 設定)、`go.mod` / `go.sum` (Hugo Modules 依存)、`README.md`、`cgi.py` (Python 3.13 向け互換モジュール)、`translate_rule.py` (翻訳スクリプト)、`.gitignore` 等。 |
+| ルートファイル | `config.toml` (Hugo 設定)、`go.mod` / `go.sum` (Hugo Modules 依存)、`README.md`、`cgi.py` (Python 3.13 向け互換モジュール)、`.gitignore` 等。 |
 
 ---
 
@@ -41,10 +41,7 @@ GeoGuessrTips は Hugo 製の静的サイト「[geopinning.space](https://geopin
 
 ---
 
-## 3. 翻訳・スクリプト関連
-
-- `translate_rule.py`  
-  Google 翻訳 API を利用し、日本語の攻略記事を他言語版に変換するツール。ショートコードや URL を翻訳対象から外し、長文を分割してリトライする仕組みを持つ。
+## 3. スクリプト関連
 
 - `scripts/fix_image_paths.py`  
   多言語 Markdown 内の `<img src="...">` を `/content` ルート基準の絶対パスに揃える自動整形スクリプト。翻訳後もリソースパスが壊れないようにする。
