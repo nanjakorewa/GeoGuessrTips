@@ -50,11 +50,11 @@ License plates come in several colours, typically with a <span class="quiz">blue
 
 
 {{% lb 50 %}}
-![](l1.png)
+![](/rule/middle_east/lebanon/l1.png)
 {{% /lb %}}
 
 {{% lb 50 %}}
-![](l2.png)
+![](/rule/middle_east/lebanon/l2.png)
 {{% /lb %}}
 
 

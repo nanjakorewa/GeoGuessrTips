@@ -62,7 +62,7 @@ Pelat nomor belakang mobil berwarna <span class="quiz">kuning</span> {{% ex "htt
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-08-10-08-02-06.png)
+![](/rule/asia/srilanka/2023-08-10-08-02-06.png)
 
 Oleh <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-Elle</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24443217">Tautan</a>
 {{% /lb %}}

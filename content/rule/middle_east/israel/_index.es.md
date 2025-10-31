@@ -49,7 +49,7 @@ Las matrículas israelíes suelen ser <span class="quiz">amarillas</span>{{% ex 
 
 {{% lb 50 %}}
 
-![](2023-05-18-22-02-59.png)
+![](/rule/middle_east/israel/2023-05-18-22-02-59.png)
 
 Por <a href="//commons.wikimedia.org/wiki/User:%D0%AE%D0%BA%D0%B0%D1%82%D0%B0%D0%BD" title="User:Юкатан">Юкатан</a> - Trabajo propio, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>,  <a href="https://commons.wikimedia.org/w/index.php?curid=71043295">Wikimedia Commons</a>
 {{% /lb %}}

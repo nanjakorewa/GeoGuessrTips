@@ -32,11 +32,11 @@ O romeno (semelhante ao idioma usado na {{% goto "../../europe/romania/" "Romên
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="640px-MD.CS.Căușeni_-_Casa_memorială_„Alexei_Mateevici”_-_may_2022_-_15.jpg" width="95%">
+<img src="/rule/europe/moldova/640px-MD.CS.Căușeni_-_Casa_memorială_„Alexei_Mateevici”_-_may_2022_-_15.jpg" width="95%">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="SU_road_sign_5.21.2_A.svg" width="230px" />
+<img src="/rule/europe/moldova/SU_road_sign_5.21.2_A.svg" width="230px" />
 </div>
 
 {{% notice tip %}}
@@ -44,9 +44,9 @@ Os balizadores têm o mesmo formato utilizado na {{% goto "../../europe/romania/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Moldova_road_sign_5.78.1.svg" width="130px" style="margin:0px 30px" />
-<img src="./Moldova_road_sign_5.78.2.svg" width="130px" style="margin:0px 30px" />
-<img src="./Moldova_road_sign_5.78.3.svg" width="130px" style="margin:0px 30px" />
+<img src="/rule/europe/moldova/Moldova_road_sign_5.78.1.svg" width="130px" style="margin:0px 30px" />
+<img src="/rule/europe/moldova/Moldova_road_sign_5.78.2.svg" width="130px" style="margin:0px 30px" />
+<img src="/rule/europe/moldova/Moldova_road_sign_5.78.3.svg" width="130px" style="margin:0px 30px" />
 </div>
 
 
@@ -55,7 +55,7 @@ Casas com telhados de <span class="quiz">metal pintado</span>, lembrando o norde
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="960px-MD.UN.Hîrcești_-_monument_în_memoria_victimelor_regimului_comunist_-_aug_2024_-_07.jpg" width="95%" />
+<img src="/rule/europe/moldova/960px-MD.UN.Hîrcești_-_monument_în_memoria_victimelor_regimului_comunist_-_aug_2024_-_07.jpg" width="95%" />
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ A placa de <span class="quiz">ceda a passagem</span> tem moldura vermelha mais f
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="640px-MD.C.Chișinău.rabbit.on.a.road.sign_-_feb-2012.jpg" width="90%" />
+<img src="/rule/europe/moldova/640px-MD.C.Chișinău.rabbit.on.a.road.sign_-_feb-2012.jpg" width="90%" />
 </div>
 
 {{% /tab %}}

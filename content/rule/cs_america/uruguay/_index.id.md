@@ -42,7 +42,7 @@ Tanda jalan sering menggunakan kayu bercat <span class="quiz">putih</span> denga
 </div>
 
 {{% lb 50 small %}}
-![](2023-07-25-23-44-23.png)
+![](/rule/cs_america/uruguay/2023-07-25-23-44-23.png)
 
 By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wikipedia:User:Qqqqqq">Qqqqqq</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12766727">Link</a>
 {{% /lb %}}

@@ -39,7 +39,7 @@ Plat nomor kendaraan memiliki area merah di sisi kiri {{% ex "https://maps.app.g
 </div>
 
 {{% lb 50 %}}
-![](2023-04-21-12-14-43.png)
+![](/rule/asia/mongolia/2023-04-21-12-14-43.png)
 
 Oleh Nima Farid - Karya sendiri, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=46082692">Wikimedia Commons</a>
 {{% /lb %}}

@@ -63,7 +63,7 @@ Plat nomor dengan warna di bagian atas selain biru sering ditemukan di Peru atau
 </div>
 
 {{% lb %}}
-![](lc-small.png)
+![](/rule/cs_america/peru/lc-small.png)
 
 CC0
 {{% /lb %}}
@@ -77,7 +77,7 @@ Plat nomor berwarna <span class="quiz">biru muda</span> sering ditemukan pada ke
 </div>
 
 {{% lb %}}
-![](2023-09-14-20-43-28.png)
+![](/rule/cs_america/peru/2023-09-14-20-43-28.png)
 
 By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">Zcarstvnz</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72974996">Link</a>
 {{% /lb %}}

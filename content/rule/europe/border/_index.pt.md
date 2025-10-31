@@ -20,8 +20,8 @@ Placas azuis são muito comuns nas entradas de fronteira{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./germany_border_crossing_border.jpg" width="280px">
-<img src="./setembro2006_021.jpg" width="324px">
+<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px">
+<img src="/rule/europe/border/setembro2006_021.jpg" width="324px">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Freqüentemente há edifícios de <span class="quiz">alfândega</span> ou <span 
 O nome do país ou a própria <span class="quiz">linha de fronteira</span> pode estar pintado no asfalto.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./fronteira_entre_portugal_e.jpg" width="400px">
+<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px">
 </div>
 
 
@@ -44,10 +44,10 @@ O nome do país ou a própria <span class="quiz">linha de fronteira</span> pode 
 Placas que mencionam cidades do outro lado podem exibir o <span class="quiz">adesivo oval</span>; os carros também o utilizam{{% ref "https://en.wikipedia.org/wiki/International_vehicle_registration_code" "International vehicle registration code" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./highway_roadway_autos_streets_0.jpg" width="580px">
+<img src="/rule/europe/border/highway_roadway_autos_streets_0.jpg" width="580px">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./oval/fin.png" width="100px" style="margin:10px">
-<img src="./oval/lt.jpg" width="100px" style="margin:10px">
+<img src="/rule/europe/border/oval/fin.png" width="100px" style="margin:10px">
+<img src="/rule/europe/border/oval/lt.jpg" width="100px" style="margin:10px">
 </div>

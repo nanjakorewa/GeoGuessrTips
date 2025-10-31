@@ -70,7 +70,7 @@ Las placas parecen cambiar por región; en Punjab el lado izquierdo es verde{{% 
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-05-20-11-52-41.png)
+![](/rule/asia/pakistan/2023-05-20-11-52-41.png)
 
 Por Nima Farid - Obra propia, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=88001443">Wikimedia Commons(Link)</a>
 {{% /lb %}}

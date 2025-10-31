@@ -104,7 +104,7 @@ El color de la matrícula de un taxi es naranja o rojo.Sin embargo, dado que vie
 
 
 {{% lb 50 %}}
-![](2023-06-01-19-14-51.png)
+![](/rule/cs_america/chile/2023-06-01-19-14-51.png)
 
 Por <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Apino (page does not exist)">apino</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4404415">Enlace</a>, La imagen ha sido editada del original.
 {{% /lb %}}

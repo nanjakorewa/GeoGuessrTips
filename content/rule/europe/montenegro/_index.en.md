@@ -42,7 +42,7 @@ Montenegrin plates carry a blue band on the left and a crest in the middle, givi
 </div>
 
 {{% lb 50 small %}}
-![](car_plate_kolasin.jpg)
+![](/rule/europe/montenegro/car_plate_kolasin.jpg)
 
 CC0
 {{% /lb %}}

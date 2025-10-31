@@ -45,12 +45,12 @@ Plat nomor kendaraan berwarna <span class="quiz">putih</span>. Bus dan taksi men
 </div>
 
 {{% lb 50 small %}}
-![](Afghanistan_-_License_Plate_-_PRV_-_HRT.png)
+![](/rule/asia/afghanistan/Afghanistan_-_License_Plate_-_PRV_-_HRT.png)
 {{% /lb %}}
 
 
 {{% lb 50 small %}}
-![](Afghanistan_-_License_Plate_-_Taxi.png)
+![](/rule/asia/afghanistan/Afghanistan_-_License_Plate_-_Taxi.png)
 {{% /lb %}}
 
 {{% /tab %}}

@@ -83,7 +83,7 @@ Las matrículas siguen el estándar de la UE con franja azul a la izquierda, per
 </div>
 
 {{% lb 50 small %}}
-![](2023-07-01-23-56-53.png)
+![](/rule/europe/france/2023-07-01-23-56-53.png)
 
 Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/24736216@N07">Roger</a> desde Sarasota, Florida, EE. UU. - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/24736216@N07/8912170510/">Marigot - St. Martin License Plates</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=26411207">Link</a>
 {{% /lb %}}

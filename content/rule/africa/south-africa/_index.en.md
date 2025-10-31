@@ -262,7 +262,7 @@ Plates in North West Province, Free State Province, and Eastern Cape Province ar
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-06-17-09-35-33.png)
+![](/rule/africa/south-africa/2023-06-17-09-35-33.png)
 
 Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373">Link</a>
 {{% /lb %}}

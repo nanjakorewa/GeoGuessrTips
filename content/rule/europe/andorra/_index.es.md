@@ -71,7 +71,7 @@ Las matrículas suelen tener una <span class="quiz">sección oscura en el lado i
 </div>
 
 {{% lb 50 %}}
-![](2023-04-29-09-32-37.png)
+![](/rule/europe/andorra/2023-04-29-09-32-37.png)
 
 Por Lalpino - Obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36942968">Link - Wikimedia Commons</a>
 {{% /lb %}}

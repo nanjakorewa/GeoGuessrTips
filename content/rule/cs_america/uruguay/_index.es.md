@@ -42,7 +42,7 @@ Las señales están montadas en tablones <span class="quiz">blancos</span> con o
 </div>
 
 {{% lb 50 small %}}
-![](2023-07-25-23-44-23.png)
+![](/rule/cs_america/uruguay/2023-07-25-23-44-23.png)
 
 Por <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wikipedia:User:Qqqqqq">Qqqqqq</a> en Wikipedia en inglés, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12766727">Link</a>
 {{% /lb %}}

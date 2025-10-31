@@ -50,11 +50,11 @@ Plat nomor memiliki berbagai warna{{% ref "https://en.wikipedia.org/wiki/Vehicle
 
 
 {{% lb 50 %}}
-![](l1.png)
+![](/rule/middle_east/lebanon/l1.png)
 {{% /lb %}}
 
 {{% lb 50 %}}
-![](l2.png)
+![](/rule/middle_east/lebanon/l2.png)
 {{% /lb %}}
 
 

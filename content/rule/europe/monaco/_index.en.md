@@ -41,7 +41,7 @@ Licence plates are compact and show a subtle <span class="quiz">blue</span> hue,
 </div>
 
 {{% lb 50 %}}
-![](lp.jpg)
+![](/rule/europe/monaco/lp.jpg)
 
 Public domain
 {{% /lb %}}

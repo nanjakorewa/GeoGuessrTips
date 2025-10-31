@@ -53,7 +53,7 @@ Las matrículas suelen lucir franjas azul y amarilla en el lateral izquierdo, au
 
 {{% lb 50 %}}
 
-![](2023-04-18-17-11-36.png)
+![](/rule/europe/ukraine/2023-04-18-17-11-36.png)
 
 Por Andrii crimea ua at Ukrainian WikipediaW - Obra propia del autor original, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25121030">Wikimedia Commons</a>
 {{% /lb %}}

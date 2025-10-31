@@ -63,11 +63,11 @@ Algunos vehículos tienen matrículas traseras amarillas{{% ex "https://maps.app
 
 {{% lb 50 %}}
 
-![](Cyprus_license_plate_2013_sample.svg)
+![](/rule/middle_east/sba/Cyprus_license_plate_2013_sample.svg)
 
 [Do What the Fxxk You Want to Public License](http://www.wtfpl.net/about/)
 
-![](Cyprus_license_plate_KQL-343.svg)
+![](/rule/middle_east/sba/Cyprus_license_plate_KQL-343.svg)
 
 Dominio Público
 {{% /lb %}}

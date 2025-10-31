@@ -41,7 +41,7 @@ Busca los postes blancos rectangulares con patrones negros y las matrículas con
 </div>
 
 {{% lb 50 small %}}
-![](2023-04-21-05-32-05.png)
+![](/rule/asia/kyrgyzstan/2023-04-21-05-32-05.png)
 
 By Haghal Jagul - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25097857">Wikimedia Commons</a>
 {{% /lb %}}

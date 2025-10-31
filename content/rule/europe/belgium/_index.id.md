@@ -60,7 +60,7 @@ The number characters are <span class="quiz">red</span>{{% ex "https://maps.app.
 <img src="/rule/europe/belgium/porsche_brugge_street_car.jpg" width="95%">
 </div>
 {{% lb 50 %}}
-![](2023-04-12-05-43-30.png)
+![](/rule/europe/belgium/2023-04-12-05-43-30.png)
 
 <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC Attribution-ShareAlike 3.0</a>, European Union License Plates. (2022, November 19). In Wikipedia. <a href="https://ja.wikipedia.org/wiki/%E6%AC%A7%E5%B7%9E%E9%80%A3%E5%90%88%E3%81%AE%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88">(Link)</a>
 {{% /lb %}}

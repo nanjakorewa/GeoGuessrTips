@@ -84,7 +84,7 @@ Hay bolardos blancos que se pueden utilizar para delimitar la ubicación.{{% ex 
 </div>
 
 {{% lb 50 %}}
-![](2023-06-13-14-17-00.png)
+![](/rule/asia/thai/2023-06-13-14-17-00.png)
 
 Dominio público
 {{% /lb %}}

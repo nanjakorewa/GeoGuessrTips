@@ -65,7 +65,7 @@ Tricycle, yaitu <span class="quiz">sepeda motor dengan gerobak atau kursi tambah
 </div>
 
 {{% lb %}}
-![](2023-05-02-11-44-19.png)
+![](/rule/asia/philippines/2023-05-02-11-44-19.png)
 
 Oleh Christian Razukas dari Honolulu, Hawaii - Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Link(Wikimedia commons)</a>
 {{% /lb %}}
@@ -78,7 +78,7 @@ Kendaraan pribadi sering berwarna putih atau hijau muda {{% ex "https://maps.app
 </div>
 
 {{% lb 50 %}}
-![](private-licence-plate-cc0.png)
+![](/rule/asia/philippines/private-licence-plate-cc0.png)
 
 Gambar CC0 yang telah dimodifikasi
 {{% /lb %}}

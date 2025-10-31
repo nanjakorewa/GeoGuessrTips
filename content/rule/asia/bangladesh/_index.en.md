@@ -59,7 +59,7 @@ Commercial vehicles often feature <span class="quiz">green</span> license plates
 </div>
 
 {{% lb 50 small %}}
-![](2023-05-18-07-41-41.png)
+![](/rule/asia/bangladesh/2023-05-18-07-41-41.png)
 {{% /lb %}}
 
 {{% notice tip %}}

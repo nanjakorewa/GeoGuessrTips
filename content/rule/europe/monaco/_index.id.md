@@ -41,7 +41,7 @@ Plat nomor terlihat kecil dengan rona <span class="quiz">biru muda</span> yang s
 </div>
 
 {{% lb 50 %}}
-![](lp.jpg)
+![](/rule/europe/monaco/lp.jpg)
 
 Domain publik
 {{% /lb %}}

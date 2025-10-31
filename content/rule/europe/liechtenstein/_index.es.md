@@ -35,7 +35,7 @@ Las placas negras llevan un escudo rojo tenue en el centro. {{% ex "https://maps
 {{% /notice %}}
 
 {{% lb %}}
-![](liechtenstein_license_plate.jpg)
+![](/rule/europe/liechtenstein/liechtenstein_license_plate.jpg)
 
 Dominio público
 {{% /lb %}}

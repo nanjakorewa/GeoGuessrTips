@@ -41,7 +41,7 @@ Pelat nomor terlihat <span class="quiz">hitam di tengah</span> saat dimosaikkan 
 <img src="/rule/cs_america/argentina/taxi.jpg" width="90%">
 </div>
 {{% lb 50 small %}}
-![](2023-04-12-11-42-57.png)
+![](/rule/cs_america/argentina/2023-04-12-11-42-57.png)
 
 By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=41806860">Wikimedia Commons</a>
 {{% /lb %}}

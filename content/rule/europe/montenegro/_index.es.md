@@ -42,7 +42,7 @@ Las matrículas tienen a la izquierda una franja azul y en el centro el escudo, 
 </div>
 
 {{% lb 50 small %}}
-![](car_plate_kolasin.jpg)
+![](/rule/europe/montenegro/car_plate_kolasin.jpg)
 
 CC0
 {{% /lb %}}

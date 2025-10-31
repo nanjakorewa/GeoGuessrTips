@@ -46,7 +46,7 @@ There are no cars with a <span class="quiz">front license plate</span>. Thick sq
 
 
 {{% lb 50 %}}
-![Puerto_Rico_2008_Screened_License_Plate.jpg](Puerto_Rico_2008_Screened_License_Plate.jpg)
+![Puerto_Rico_2008_Screened_License_Plate.jpg](/rule/n_america/puerto-rico/Puerto_Rico_2008_Screened_License_Plate.jpg)
 
 Public Domain
 {{% /lb %}}

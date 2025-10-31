@@ -40,7 +40,7 @@ Las matrículas llevan un bloque rojo en la parte izquierda{{% ex "https://maps.
 </div>
 
 {{% lb 50 %}}
-![](2023-04-21-12-14-43.png)
+![](/rule/asia/mongolia/2023-04-21-12-14-43.png)
 
 Por Nima Farid - Obra propia, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=46082692">Wikimedia Commons</a>
 {{% /lb %}}

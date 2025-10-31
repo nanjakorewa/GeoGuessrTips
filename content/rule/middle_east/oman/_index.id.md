@@ -46,11 +46,11 @@ Ada banyak plat nomor kuning di sekitar kota.{{% ex "https://maps.app.goo.gl/zc7
 
 {{% lb 50 %}}
 
-![](1280px-Oman_license_plate_2001_series.jpg)
+![](/rule/middle_east/oman/1280px-Oman_license_plate_2001_series.jpg)
 
 Oleh <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-Elle</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12980300">Link</a>
 
-![](1280px-Oman_license_plate_2001_series2.jpg)
+![](/rule/middle_east/oman/1280px-Oman_license_plate_2001_series2.jpg)
 
 sama seperti di atas
 {{% /lb %}}

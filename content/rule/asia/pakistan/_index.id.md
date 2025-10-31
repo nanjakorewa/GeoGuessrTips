@@ -68,7 +68,7 @@ Warna pelat nomor berbeda tergantung wilayah; di provinsi Punjab tempat Lahore b
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-05-20-11-52-41.png)
+![](/rule/asia/pakistan/2023-05-20-11-52-41.png)
 
 Oleh Nima Farid - Karya pribadi, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=88001443">Wikimedia Commons(Tautan)</a>
 {{% /lb %}}

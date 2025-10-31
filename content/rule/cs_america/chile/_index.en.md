@@ -104,7 +104,7 @@ The color of a taxi's license plate is orange or red.However, since they come in
 
 
 {{% lb 50 %}}
-![](2023-06-01-19-14-51.png)
+![](/rule/cs_america/chile/2023-06-01-19-14-51.png)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Apino (page does not exist)">Apino</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4404415">Link</a>, Image has been edited from the original
 {{% /lb %}}

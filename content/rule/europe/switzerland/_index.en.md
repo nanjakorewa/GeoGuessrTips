@@ -96,7 +96,7 @@ The license plate is distinctive, but the mosaic is strong and difficult to unde
 </div>
 
 {{% lb 50 %}}
-![](Switzerland_licence_plate_2007_from_Sankt_Gallen_canton.jpg)
+![](/rule/europe/switzerland/Switzerland_licence_plate_2007_from_Sankt_Gallen_canton.jpg)
 
 By Krokodyl - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2717225">Link</a>
 {{% /lb %}}

@@ -51,7 +51,7 @@ sc: [
 </div>
 
 {{% lb 50 %}}
-![](2023-05-28-00-06-42.png)
+![](/rule/middle_east/qatar/2023-05-28-00-06-42.png)
 
 By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" title="User:Nima Farid">Nima Farid</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49414523">Link</a>
 {{% /lb %}}

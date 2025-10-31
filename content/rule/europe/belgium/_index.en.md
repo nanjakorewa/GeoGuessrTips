@@ -62,7 +62,7 @@ Belgian license plates carry <span class="quiz">red lettering</span>. {{% ex "ht
 <img src="/rule/europe/belgium/porsche_brugge_street_car.jpg" width="95%">
 </div>
 {{% lb 50 %}}
-![](2023-04-12-05-43-30.png)
+![](/rule/europe/belgium/2023-04-12-05-43-30.png)
 
 <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, “European Union number plates” (2022, November 19). Wikipedia (Japanese).
 {{% /lb %}}

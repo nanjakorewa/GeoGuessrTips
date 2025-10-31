@@ -59,7 +59,7 @@ Kendaraan komersial menggunakan plat nomor berwarna <span class="quiz">hijau</sp
 </div>
 
 {{% lb 50 small %}}
-![](2023-05-18-07-41-41.png)
+![](/rule/asia/bangladesh/2023-05-18-07-41-41.png)
 {{% /lb %}}
 
 

@@ -99,7 +99,7 @@ Muchas señales están sujetas con abrazaderas metálicas; fíjate en esos herra
 {{% tab "w-viecle" %}}
 {{% lb %}}
 
-![](2023-04-12-05-56-14.png)
+![](/rule/europe/austria/2023-04-12-05-56-14.png)
 
 CC BY-SA 3.0, “Matrículas de la Unión Europea” (19 de noviembre de 2022). Wikipedia en japonés.
 {{% /lb %}}

@@ -114,14 +114,14 @@ Ini lebih ke langkah pencegahan, tetapi menambahkan CSS khusus untuk menyembunyi
 Alamat surel dan nama akun lain terlihat di sudut kanan atas.
 Saat menekan “Kirim ke perangkat seluler” dan sejenisnya, sebagian kode area juga muncul.
 
-![](2023-03-02-12-19-13.png)
+![](/web/privacy/2023-03-02-12-19-13.png)
 
 <h3 class="no-blur">Setelah CSS diterapkan</h3>
 
 Seluruh area tombol dihapus sehingga hanya deskripsi lokasi yang tersisa.
 
-![](2023-03-02-12-16-43.png)
+![](/web/privacy/2023-03-02-12-16-43.png)
 
 Kadang ada situs web yang tiba-tiba membuka halaman login Google, jadi layar tersebut sebaiknya ikut diburamkan dengan CSS. Namun ingat, hasil blur masih mungkin dipulihkan, jadi tambahkan karakter melalui `:before` atau `:after` dan ubah panjang string bila butuh perlindungan ekstra.
 
-![](2023-04-02-16-24-50.png)
+![](/web/privacy/2023-04-02-16-24-50.png)

@@ -44,7 +44,7 @@ License plates lack the <span class="quiz">blue strip</span>{{% ex "https://maps
 </div>
 
 {{% lb 50 %}}
-![](2023-05-07-13-19-44.png)
+![](/rule/europe/jersey/2023-05-07-13-19-44.png)
 
 By Willtron, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="hhttps://commons.wikimedia.org/w/index.php?curid=8474147">Wikimedia Commons (Link)</a>
 {{% /lb %}}

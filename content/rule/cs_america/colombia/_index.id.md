@@ -56,7 +56,7 @@ Plat nomor berwarna <span class="quiz">kuning di depan dan belakang</span> {{% e
 </div>
 
 {{% lb 50 %}}
-![Plat Nomor Kolombia](./licenceplate.png)
+![Plat Nomor Kolombia](/rule/cs_america/colombia/licenceplate.png)
 
 Buatan sendiri
 {{% /lb %}}

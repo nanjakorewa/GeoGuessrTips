@@ -44,11 +44,11 @@ If the front and back of the license plate are black, it may not be {{% goto "..
 </div>
 
 {{% lb 50 %}}
-![](2023-04-28-17-26-53.png)
+![](/rule/asia/macau/2023-04-28-17-26-53.png)
 
 By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951838">Wikimedia Commons</a>
 
-![](2023-04-28-17-28-36.png)
+![](/rule/asia/macau/2023-04-28-17-28-36.png)
 
 By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951344">Wikimedia Commons</a>, （一部を加工しています）
 {{% /lb %}}

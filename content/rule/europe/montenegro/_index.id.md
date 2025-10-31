@@ -42,7 +42,7 @@ Plat nomor memiliki pita biru di kiri dan <span class="quiz">lambang di tengah</
 </div>
 
 {{% lb 50 small %}}
-![](car_plate_kolasin.jpg)
+![](/rule/europe/montenegro/car_plate_kolasin.jpg)
 
 CC0
 {{% /lb %}}

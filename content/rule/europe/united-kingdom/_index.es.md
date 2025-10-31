@@ -58,7 +58,7 @@ es un territorio británico de ultramar{{% goto "../gibraltar/" "Gibraltar" %}}o
 <br />
 
 {{% lb 50 %}}
-![](2023-07-30-04-12-22.png)
+![](/rule/europe/united-kingdom/2023-07-30-04-12-22.png)
 
 Dominio público
 {{% /lb %}}

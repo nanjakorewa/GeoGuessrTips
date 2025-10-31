@@ -41,7 +41,7 @@ Las matrículas son compactas y parecen blancas, pero tienen un ligero matiz <sp
 </div>
 
 {{% lb 50 %}}
-![](lp.jpg)
+![](/rule/europe/monaco/lp.jpg)
 
 Dominio público
 {{% /lb %}}

@@ -46,7 +46,7 @@ No hay coches con <span class="quiz">matrícula frontal</span>. Los postes cuadr
 
 
 {{% lb 50 %}}
-![Puerto_Rico_2008_Screened_License_Plate.jpg](Puerto_Rico_2008_Screened_License_Plate.jpg)
+![Puerto_Rico_2008_Screened_License_Plate.jpg](/rule/n_america/puerto-rico/Puerto_Rico_2008_Screened_License_Plate.jpg)
 
 Public Domain
 {{% /lb %}}

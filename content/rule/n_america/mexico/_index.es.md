@@ -428,7 +428,7 @@ Aunque parece que hay muchos en términos de distribución, en realidad hay poco
 {{% tabs %}}
 {{% tab "Jalisco" %}}
 {{% lb 50 %}}
-![](2023-04-17-17-15-35.png)
+![](/rule/n_america/mexico/2023-04-17-17-15-35.png)
 
 Dominio público
 {{% /lb %}}
@@ -439,7 +439,7 @@ Dominio público
 {{% /tab %}}
 {{% tab "Nayarit" %}}
 {{% lb 50 %}}
-![](2023-04-17-17-02-35.png)
+![](/rule/n_america/mexico/2023-04-17-17-02-35.png)
 {{% /lb %}}
 
 <div class="googlemap-if">

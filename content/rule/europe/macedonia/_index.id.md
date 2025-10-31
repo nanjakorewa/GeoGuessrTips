@@ -52,7 +52,7 @@ Bagian kiri plat nomor tampak <span class="quiz">sedikit merah</span>{{% ex "htt
 {{% /notice %}}
 
 {{% lb 50 small %}}
-![](2023-06-15-01-21-09.png)
+![](/rule/europe/macedonia/2023-06-15-01-21-09.png)
 
 By Upwinxp - Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=77624620">Wikipedia Commons(Link)</a>
 {{% /lb %}}

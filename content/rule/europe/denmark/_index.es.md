@@ -82,12 +82,12 @@ Existen matrículas amarillas, así que no las confundas con {{% goto "../nether
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-04-12-06-08-23.png)
+![](/rule/europe/denmark/2023-04-12-06-08-23.png)
 
 dominio público
 {{% /lb %}}
 {{% lb 50 %}}
-![](DK_parrot_license_plate_2009.svg)
+![](/rule/europe/denmark/DK_parrot_license_plate_2009.svg)
 
 dominio público
 {{% /lb %}}

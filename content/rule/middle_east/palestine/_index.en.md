@@ -38,7 +38,7 @@ Plates with a <span class="quiz">white</span> base and <span class="quiz">green<
 </div>
 
 {{% lb 50 %}}
-![](2023-05-08-00-54-27.png)
+![](/rule/middle_east/palestine/2023-05-08-00-54-27.png)
 
 By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113341446">Wikimedia Commons</a>
 {{% /lb %}}

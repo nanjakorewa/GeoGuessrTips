@@ -115,7 +115,7 @@ Coconut palm plantations exist along the coast of Guerrero（Data Source：<a hr
 {{% /tab %}}
 {{% tab "Nayarit license plate" %}}
 {{% lb 50 %}}
-![](2023-04-17-17-02-35.png)
+![](/rule/n_america/mexico/2023-04-17-17-02-35.png)
 {{% /lb %}}
 
 <div class="googlemap-if">
@@ -127,7 +127,7 @@ Red license plates on the lower right are common around Nayarit.
 {{% /tab %}}
 {{% tab "Jalisco license plate" %}}
 {{% lb 50 %}}
-![](2023-04-17-17-15-35.png)
+![](/rule/n_america/mexico/2023-04-17-17-15-35.png)
 
 Public Domain
 {{% /lb %}}

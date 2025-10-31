@@ -81,7 +81,7 @@ Los vehículos que parecen motocicletas o tuk-tuks tienen matrícula.<span class
 </div>
 
 {{% lb %}}
-![](2023-09-14-20-43-28.png)
+![](/rule/cs_america/peru/2023-09-14-20-43-28.png)
 
 Por <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;User:Zcarstvnz&quot;>Zcarstvnz</a> - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72974996">Enlace</a>
 {{% /lb %}}

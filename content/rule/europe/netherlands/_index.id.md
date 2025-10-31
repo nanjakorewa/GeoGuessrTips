@@ -48,7 +48,7 @@ Plat memiliki strip biru di kiri dan latar <span class="quiz">kuning</span>{{% e
 </div>
 
 {{% lb 50 %}}
-![](2023-04-12-19-03-07.png)
+![](/rule/europe/netherlands/2023-04-12-19-03-07.png)
 
 Gert Kalkman - public road, domain publik, <a href="https://commons.wikimedia.org/w/index.php?curid=4482331">Wikimedia Commons</a>
 {{% /lb %}}

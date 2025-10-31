@@ -71,7 +71,7 @@ License plates often show a <span class="quiz">dark section on the left</span>, 
 </div>
 
 {{% lb 50 %}}
-![](2023-04-29-09-32-37.png)
+![](/rule/europe/andorra/2023-04-29-09-32-37.png)
 
 By Lalpino - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36942968">Link - Wikimedia Commons</a>
 {{% /lb %}}

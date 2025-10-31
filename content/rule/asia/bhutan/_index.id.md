@@ -51,11 +51,11 @@ sc: [
 </div>
 
 {{% lb 50 %}}
-![](2023-05-18-06-22-20.png)
+![](/rule/asia/bhutan/2023-05-18-06-22-20.png)
 
 Oleh Cfynn - Karya sendiri, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35901900">Wikimedia Commons(Link)</a>
 
-![](2023-07-29-14-29-55.png)
+![](/rule/asia/bhutan/2023-07-29-14-29-55.png)
 
 Oleh <a href="//commons.wikimedia.org/wiki/User:Cfynn" class="mw-redirect" title="User:Cfynn">Christopher J. Fynn</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36512152">Link</a>
 {{% /lb %}}

@@ -77,17 +77,17 @@ Plat nomor berwarna kuning juga ada di Denmark, jadi berhati-hatilah agar tidak 
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](2023-04-12-06-08-23.png)
+![](/rule/europe/denmark/2023-04-12-06-08-23.png)
 
 public domain
 {{% /lb %}}
 {{% lb 50 %}}
-![](DK_parrot_license_plate_2009.svg)
+![](/rule/europe/denmark/DK_parrot_license_plate_2009.svg)
 
 public domain
 {{% /lb %}}
 {{% lb 50 %}}
-![](DK_van_plate_2009.svg)
+![](/rule/europe/denmark/DK_van_plate_2009.svg)
 
 public domain
 {{% /lb %}}

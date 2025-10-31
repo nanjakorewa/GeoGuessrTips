@@ -20,6 +20,10 @@ IMG_SRC_PATTERN = re.compile(
     re.IGNORECASE,
 )
 
+MARKDOWN_IMG_PATTERN = re.compile(
+    r'(!\[[^\]]*\]\(\s*)(?!https?://|data:|/)([^)\s]+)([^)]*\))'
+)
+
 
 def iter_markdown_files(root: Path, suffixes: Iterable[str]) -> Iterable[Path]:
     """Yield Markdown files within root that match the desired suffixes."""
@@ -62,6 +66,17 @@ def fix_file(md_file: Path) -> bool:
         return f'{match.group(1)}{normalized}{match.group(3)}'
 
     new_text = IMG_SRC_PATTERN.sub(replacement, text)
+
+    def md_replacement(match: re.Match[str]) -> str:
+        nonlocal changed
+        original_src = match.group(2)
+        normalized = normalize_src(md_file, original_src)
+        if not normalized:
+            return match.group(0)
+        changed = True
+        return f'{match.group(1)}{normalized}{match.group(3)}'
+
+    new_text = MARKDOWN_IMG_PATTERN.sub(md_replacement, new_text)
     if changed:
         md_file.write_text(new_text, encoding="utf-8")
     return changed

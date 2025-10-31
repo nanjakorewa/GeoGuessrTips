@@ -67,7 +67,7 @@ Is it Peru that has a color other than blue on the top of the license plate?{{% 
 </div>
 
 {{% lb %}}
-![](lc-small.png)
+![](/rule/cs_america/peru/lc-small.png)
 
 CC0
 {{% /lb %}}
@@ -81,7 +81,7 @@ Vehicles that look like motorcycles or tuk-tuks have license plates.<span class=
 </div>
 
 {{% lb %}}
-![](2023-09-14-20-43-28.png)
+![](/rule/cs_america/peru/2023-09-14-20-43-28.png)
 
 By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;User:Zcarstvnz&quot;>Zcarstvnz</a> - <span class=&quot;int-own-work&quot; lang=&quot;en&quot;>own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72974996">Link</a>
 {{% /lb %}}

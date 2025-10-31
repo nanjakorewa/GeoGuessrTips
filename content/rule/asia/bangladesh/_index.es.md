@@ -59,7 +59,7 @@ Los vehículos comerciales tienen matrículas de color <span class="quiz">verde<
 </div>
 
 {{% lb 50 small %}}
-![](2023-05-18-07-41-41.png)
+![](/rule/asia/bangladesh/2023-05-18-07-41-41.png)
 {{% /lb %}}
 
 {{% notice tip %}}Los rickshaws de CNG, con forma similar a un tuk-tuk, son característicos{{% ex "https://maps.app.goo.gl/352hBjY28HvRoYxv9" "https://maps.app.goo.gl/SZeqAz2D1qJds1y89" %}}, también con matrículas <span class="quiz">verdes</span>{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" "https://maps.app.goo.gl/mFSzfWmNdY8od8dV7" %}}.

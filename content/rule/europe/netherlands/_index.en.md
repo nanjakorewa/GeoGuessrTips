@@ -48,7 +48,7 @@ Plates have a blue strip on the left and a <span class="quiz">yellow</span> back
 </div>
 
 {{% lb 50 %}}
-![](2023-04-12-19-03-07.png)
+![](/rule/europe/netherlands/2023-04-12-19-03-07.png)
 
 Gert Kalkman - public road, Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=4482331">Wikimedia Commons</a>
 {{% /lb %}}

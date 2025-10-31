@@ -79,7 +79,7 @@ Kendaraan komersial seperti taksi atau truk memiliki plat nomor berwarna <span c
 </div>
 
 {{% lb 50 %}}
-![](2023-06-01-07-55-51.png)
+![](/rule/cs_america/ecuador/2023-06-01-07-55-51.png)
 
 By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">Zcarstvnz</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72312390">Link</a>
 {{% /lb %}}

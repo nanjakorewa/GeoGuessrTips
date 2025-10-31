@@ -281,11 +281,11 @@ If there are many slightly reddish cars, it might be the northeastern or norther
 
 {{% lb 50 %}}
 
-![](2023-04-23-16-05-30.png)
+![](/rule/oceania/australia/2023-04-23-16-05-30.png)
 
 By NJM2010 - Own work, GFDL, <a href="https://commons.wikimedia.org/w/index.php?curid=13768947">Wikimedia Commons</a>
 
-![](2023-04-23-16-00-23.png)
+![](/rule/oceania/australia/2023-04-23-16-00-23.png)
 
 By EurovisionNim - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=67572209">Wikimedia Commons</a>
 {{% /lb %}}

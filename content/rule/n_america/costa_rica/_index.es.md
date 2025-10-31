@@ -40,7 +40,7 @@ Las matrículas traseras suelen tener fondo blanco con texto azul{{% ex "https:/
 </div>
 
 {{% lb %}}
-![](2023-05-08-00-31-54.png)
+![](/rule/n_america/costa_rica/2023-05-08-00-31-54.png)
 
 Por Zcarstvnz - Este archivo ha sido extraído de otro archivo, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=92156353">Wikimedia Commons(Link)</a>
 {{% /lb %}}

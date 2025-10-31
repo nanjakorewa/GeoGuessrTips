@@ -44,7 +44,7 @@ Plat nomor berwarna <span class="quiz">kuning</span> di kedua sisi. PDB per kapi
 <img src="/rule/europe/luxembourg/car.jpg" width="600px" alt="Kendaraan Luksemburg"/>
 </div>
 {{% lb 50 %}}
-![](2023-04-12-06-05-39.png)
+![](/rule/europe/luxembourg/2023-04-12-06-05-39.png)
 
 Oleh Willtron, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4614844">Wikimedia Commons</a>
 {{% /lb %}}

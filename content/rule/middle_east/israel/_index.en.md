@@ -49,7 +49,7 @@ Israeli plates are usually <span class="quiz">yellow</span>{{% ex "https://goo.g
 
 {{% lb 50 %}}
 
-![](2023-05-18-22-02-59.png)
+![](/rule/middle_east/israel/2023-05-18-22-02-59.png)
 
 By <a href="//commons.wikimedia.org/wiki/User:%D0%AE%D0%BA%D0%B0%D1%82%D0%B0%D0%BD" title="User:Юкатан">Юкатан</a> - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>,  <a href="https://commons.wikimedia.org/w/index.php?curid=71043295">Wikimedia Commons</a>
 {{% /lb %}}

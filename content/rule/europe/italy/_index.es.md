@@ -59,7 +59,7 @@ Las matrículas llevan franjas azules en ambos lados{{% ex "https://maps.app.goo
 </div>
 
 {{% lb 50 %}}
-![](2023-04-12-11-23-23.png)
+![](/rule/europe/italy/2023-04-12-11-23-23.png)
 
 Willtron, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4619704">Wikimedia Commons</a>
 {{% /lb %}}

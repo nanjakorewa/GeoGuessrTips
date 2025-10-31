@@ -114,14 +114,14 @@ This is mostly for peace of mind, but applying custom CSS to hide areas that mig
 You can read your email address and other account names from the top-right corner.
 Clicking “Send to your mobile device,” etc., also shows part of the area code.
 
-![](2023-03-02-12-19-13.png)
+![](/web/privacy/2023-03-02-12-19-13.png)
 
 <h3 class="no-blur">After applying the CSS</h3>
 
 The entire button area disappears so only the place description stays visible.
 
-![](2023-03-02-12-16-43.png)
+![](/web/privacy/2023-03-02-12-16-43.png)
 
 Some sites unexpectedly redirect to a Google login page, so you may want to blur that screen with CSS as well. Keep in mind that anything you blur can theoretically be restored, so add extra characters with `:before` or `:after` and change the string length if you need stronger masking.
 
-![](2023-04-02-16-24-50.png)
+![](/web/privacy/2023-04-02-16-24-50.png)

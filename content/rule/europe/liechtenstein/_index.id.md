@@ -35,7 +35,7 @@ Plat Liechtenstein berwarna hitam dengan logo merah di tengahnya{{% ex "https://
 {{% /notice %}}
 
 {{% lb %}}
-![](liechtenstein_license_plate.jpg)
+![](/rule/europe/liechtenstein/liechtenstein_license_plate.jpg)
 
 Domain publik
 {{% /lb %}}

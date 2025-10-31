@@ -81,7 +81,7 @@ Plat nomor kendaraan di Prancis mirip dengan negara UE lainnya dengan sisi kiri 
 </div>
 
 {{% lb 50 small %}}
-![](2023-07-01-23-56-53.png)
+![](/rule/europe/france/2023-07-01-23-56-53.png)
 
 By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/24736216@N07">Roger</a> from Sarasota, Florida, U.S.A. - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/24736216@N07/8912170510/">Marigot - St. Martin License Plates</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40704190">Link</a>
 {{% /lb %}}

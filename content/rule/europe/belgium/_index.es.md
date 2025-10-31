@@ -62,7 +62,7 @@ Las matrículas belgas llevan <span class="quiz">letras rojas</span>. {{% ex "ht
 <img src="/rule/europe/belgium/porsche_brugge_street_car.jpg" width="95%">
 </div>
 {{% lb 50 %}}
-![](2023-04-12-05-43-30.png)
+![](/rule/europe/belgium/2023-04-12-05-43-30.png)
 
 <a href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a>, “Matrículas de la Unión Europea” (19 de noviembre de 2022). Wikipedia en japonés.
 {{% /lb %}}

@@ -43,11 +43,11 @@ Vehicles use <span class="quiz">white</span> license plates. Buses and taxis hav
 </div>
 
 {{% lb 50 small %}}
-![](Afghanistan_-_License_Plate_-_PRV_-_HRT.png)
+![](/rule/asia/afghanistan/Afghanistan_-_License_Plate_-_PRV_-_HRT.png)
 {{% /lb %}}
 
 {{% lb 50 small %}}
-![](Afghanistan_-_License_Plate_-_Taxi.png)
+![](/rule/asia/afghanistan/Afghanistan_-_License_Plate_-_Taxi.png)
 {{% /lb %}}
 
 {{% /tab %}}

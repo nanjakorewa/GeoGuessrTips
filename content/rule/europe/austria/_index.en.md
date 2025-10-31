@@ -99,7 +99,7 @@ Road signs and posts are often clamped with metal clips—keep an eye out for th
 {{% tab "w-viecle" %}}
 {{% lb %}}
 
-![](2023-04-12-05-56-14.png)
+![](/rule/europe/austria/2023-04-12-05-56-14.png)
 
 CC BY-SA 3.0, “European Union number plates” (2022, November 19). Wikipedia Japan.
 {{% /lb %}}

@@ -69,7 +69,7 @@ llamado triciclo <span class="quiz">Un vehículo que combina moto, portaequipaje
 </div>
 
 {{% lb %}}
-![](2023-05-02-11-44-19.png)
+![](/rule/asia/philippines/2023-05-02-11-44-19.png)
 
 Por Christian Razukas de Honolulu, Hawaii - Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Enlace (bienes comunes de Wikimedia)</a>
 {{% /lb %}}

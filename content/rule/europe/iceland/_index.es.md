@@ -70,7 +70,7 @@ Las matrículas son totalmente <span class="quiz">blancas</span>{{% ex "https://
 </div>
 
 {{% lb 50 %}}
-![](640px-Iceland_car_plate.jpg)
+![](/rule/europe/iceland/640px-Iceland_car_plate.jpg)
 
 CC0
 {{% /lb %}}

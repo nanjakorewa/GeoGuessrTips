@@ -53,7 +53,7 @@ Las matrículas suelen ser de fondo <span class="quiz">rojo</span>{{% ex "https:
 </div>
 
 {{% lb 50 %}}
-![](Nepal_License_Plate_-_Private_Car_-_Light_Vehicle_-_Front_-_1983-2019.png)
+![](/rule/asia/nepal/Nepal_License_Plate_-_Private_Car_-_Light_Vehicle_-_Front_-_1983-2019.png)
 
 CC0
 {{% /lb %}}

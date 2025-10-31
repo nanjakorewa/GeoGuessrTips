@@ -35,7 +35,7 @@ Plates are black with a faint red crest in the centre. {{% ex "https://maps.app.
 {{% /notice %}}
 
 {{% lb %}}
-![](liechtenstein_license_plate.jpg)
+![](/rule/europe/liechtenstein/liechtenstein_license_plate.jpg)
 
 Public domain
 {{% /lb %}}

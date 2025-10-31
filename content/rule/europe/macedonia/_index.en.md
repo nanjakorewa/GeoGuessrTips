@@ -52,7 +52,7 @@ License plates often show a faint <span class="quiz">red tint</span> toward the 
 {{% /notice %}}
 
 {{% lb 50 small %}}
-![](2023-06-15-01-21-09.png)
+![](/rule/europe/macedonia/2023-06-15-01-21-09.png)
 
 By Upwinxp – Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/index.php?curid=77624620">Wikimedia Commons</a>
 {{% /lb %}}

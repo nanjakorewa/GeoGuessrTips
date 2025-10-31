@@ -39,7 +39,7 @@ Look for the <span class="quiz">.im</span> domain. Rear plates are yellow with a
 </div>
 
 {{% lb 50 %}}
-![](2023-07-30-04-06-05.png)
+![](/rule/europe/mannin/2023-07-30-04-06-05.png)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Lalpino&amp;action=edit&amp;redlink=1" class="new" title="User:Lalpino (page does not exist)">Lalpino</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=88521143">Link</a>
 {{% /lb %}}

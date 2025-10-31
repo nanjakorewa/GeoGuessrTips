@@ -44,7 +44,7 @@ License plates are <span class="quiz">yellow</span> both front and back. Luxembo
 <img src="/rule/europe/luxembourg/car.jpg" width="600px" alt="Luxembourg vehicles"/>
 </div>
 {{% lb 50 %}}
-![](2023-04-12-06-05-39.png)
+![](/rule/europe/luxembourg/2023-04-12-06-05-39.png)
 
 By Willtron, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4614844">Wikimedia Commons</a>
 {{% /lb %}}

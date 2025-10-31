@@ -48,7 +48,7 @@ Las matrículas llevan una franja azul a la izquierda y fondo <span class="quiz"
 </div>
 
 {{% lb 50 %}}
-![](2023-04-12-19-03-07.png)
+![](/rule/europe/netherlands/2023-04-12-19-03-07.png)
 
 Gert Kalkman - vía pública, dominio público, <a href="https://commons.wikimedia.org/w/index.php?curid=4482331">Wikimedia Commons</a>
 {{% /lb %}}

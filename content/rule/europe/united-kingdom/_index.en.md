@@ -58,7 +58,7 @@ is a British overseas territory{{% goto "../gibraltar/" "Gibraltar" %}}or{{% got
 <br />
 
 {{% lb 50 %}}
-![](2023-07-30-04-12-22.png)
+![](/rule/europe/united-kingdom/2023-07-30-04-12-22.png)
 
 Public Domain
 {{% /lb %}}

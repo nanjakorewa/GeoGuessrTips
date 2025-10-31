@@ -40,7 +40,7 @@ Plat nomor belakang dengan latar putih dan huruf biru sering terlihat{{% ex "htt
 </div>
 
 {{% lb %}}
-![](2023-05-08-00-31-54.png)
+![](/rule/n_america/costa_rica/2023-05-08-00-31-54.png)
 
 By Zcarstvnz - This file has been extracted from another file, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=92156353">Wikimedia Commons(Link)</a>
 {{% /lb %}}

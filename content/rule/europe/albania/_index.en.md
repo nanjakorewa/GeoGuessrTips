@@ -59,16 +59,16 @@ Standard Albanian license plates carry <span class="quiz">blue strips on both si
 </div>
 
 {{% lb 50 %}}
-![](2023-04-16-10-59-35.png)
+![](/rule/europe/albania/2023-04-16-10-59-35.png)
 
 CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113059758">Wikimedia Commons</a>
 
-![](2023-04-28-13-33-12.png)
+![](/rule/europe/albania/2023-04-28-13-33-12.png)
 
 Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=10157339">Wikimedia Commons</a>
 {{% /lb %}}
 {{% lb 50 %}}
-![](640px-License_Plate_-_Albania_-_Taxi.png)
+![](/rule/europe/albania/640px-License_Plate_-_Albania_-_Taxi.png)
 
 CC0
 {{% /lb %}}

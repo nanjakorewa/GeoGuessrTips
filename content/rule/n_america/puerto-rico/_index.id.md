@@ -46,7 +46,7 @@ Anda tidak akan menemukan mobil dengan <span class="quiz">pelat depan</span>. Ti
 
 
 {{% lb 50 %}}
-![Puerto_Rico_2008_Screened_License_Plate.jpg](Puerto_Rico_2008_Screened_License_Plate.jpg)
+![Puerto_Rico_2008_Screened_License_Plate.jpg](/rule/n_america/puerto-rico/Puerto_Rico_2008_Screened_License_Plate.jpg)
 
 Public Domain
 {{% /lb %}}

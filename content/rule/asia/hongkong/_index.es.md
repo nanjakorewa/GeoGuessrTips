@@ -50,7 +50,7 @@ Entre 1841 y 1997, durante y después de las Guerras del Opio, Hong Kong fue adm
 </div>
 
 {{% lb 50 %}}
-![](2023-04-28-17-06-33.png)
+![](/rule/asia/hongkong/2023-04-28-17-06-33.png)
 
 Por Woodennature - Obra propia, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951198">Wikimedia Commons</a>, con ligeras modificaciones
 {{% /lb %}}

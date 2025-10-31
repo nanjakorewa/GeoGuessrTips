@@ -17,7 +17,7 @@ add_flagindex: True
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="Liothuania-Latvia-Estonia.png" width="90%" alt="Como identificar os países bálticos no GeoGuessr" />
+<img src="/rule/europe/baltic-state/Liothuania-Latvia-Estonia.png" width="90%" alt="Como identificar os países bálticos no GeoGuessr" />
 </div>
 
 <div class="main-desciption country-description">
@@ -50,5 +50,5 @@ Os armários de encomendas <span class="quiz">Omniva</span> (Correios da Estôni
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-02-18-41-43.png" width="200px">
+<img src="/rule/europe/baltic-state/2023-06-02-18-41-43.png" width="200px">
 </div>

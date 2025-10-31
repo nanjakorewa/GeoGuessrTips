@@ -52,7 +52,7 @@ License plates carry a coloured strip—green, blue, etc.—across the top{{% ex
 </div>
 
 {{% lb 50 small %}}
-![](licenceplate.jpg)
+![](/rule/n_america/panama/licenceplate.jpg)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Alloyblue (page does not exist)">Alloyblue</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122526911">Link</a>
 {{% /lb %}}

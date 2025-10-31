@@ -103,7 +103,7 @@ Plat nomor bervariasi: putih, kuning, atau hitam. Waspadai jenis plat yang menye
 </div>
 
 {{% lb 50 small %}}
-![](lc.png)
+![](/rule/asia/india/lc.png)
 
 Dibuat sendiri, bentuk kasar dan tidak terlalu akurat
 {{% /lb %}}

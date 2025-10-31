@@ -58,7 +58,7 @@ adalah wilayah luar negeri Inggris{{% goto "../gibraltar/" "Gibraltar" %}}atau{{
 <br />
 
 {{% lb 50 %}}
-![](2023-07-30-04-12-22.png)
+![](/rule/europe/united-kingdom/2023-07-30-04-12-22.png)
 
 Domain Publik
 {{% /lb %}}

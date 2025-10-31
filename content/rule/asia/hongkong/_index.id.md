@@ -45,7 +45,7 @@ Sama seperti {{% goto "../../europe/united-kingdom/" "Inggris" %}}, plat nomor d
 </div>
 
 {{% lb 50 %}}
-![](2023-04-28-17-06-33.png)
+![](/rule/asia/hongkong/2023-04-28-17-06-33.png)
 
 By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951198">Wikimedia Commons</a>, dengan beberapa modifikasi
 {{% /lb %}}

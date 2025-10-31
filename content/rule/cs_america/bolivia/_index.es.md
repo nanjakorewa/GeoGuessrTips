@@ -65,7 +65,7 @@ La mayoría de los coches tienen matrículas blancas o tenues.<span class="quiz"
 
 {{% lb 50 %}}
 
-![](2023-05-11-12-11-05.png)
+![](/rule/cs_america/bolivia/2023-05-11-12-11-05.png)
 
 Por EEJCC - Trabajo propio, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61768590">Wikimedia Commons (enlace)</a>
 {{% /lb %}}

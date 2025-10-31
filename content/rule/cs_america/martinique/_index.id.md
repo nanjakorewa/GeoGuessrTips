@@ -53,7 +53,7 @@ Terdapat plat nomor Uni Eropa{{% ex "https://maps.app.goo.gl/A3dDa443bf5oP3jL9" 
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](640px-2020_Immatriculation_provisoire_74_Haute-Savoie.jpg)
+![](/rule/cs_america/martinique/640px-2020_Immatriculation_provisoire_74_Haute-Savoie.jpg)
 
 CC0
 {{% /lb %}}

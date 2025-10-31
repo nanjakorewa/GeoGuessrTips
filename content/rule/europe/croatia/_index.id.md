@@ -75,7 +75,7 @@ Hingga tahun 2016, pelat nomornya berwarna putih, sehingga banyak pelat nomor ya
 </div>
 
 {{% lb 50 small %}}
-![](car_plate_ogulin.jpg)
+![](/rule/europe/croatia/car_plate_ogulin.jpg)
 
 CC0</a>
 {{% /lb %}}

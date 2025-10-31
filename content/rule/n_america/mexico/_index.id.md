@@ -428,7 +428,7 @@ Meski terlihat banyak dari segi distribusinya, namun sebenarnya jalannya sedikit
 {{% tabs %}}
 {{% tab "Jalisco" %}}
 {{% lb 50 %}}
-![](2023-04-17-17-15-35.png)
+![](/rule/n_america/mexico/2023-04-17-17-15-35.png)
 
 Domain Publik
 {{% /lb %}}
@@ -439,7 +439,7 @@ Domain Publik
 {{% /tab %}}
 {{% tab "Nayarit" %}}
 {{% lb 50 %}}
-![](2023-04-17-17-02-35.png)
+![](/rule/n_america/mexico/2023-04-17-17-02-35.png)
 {{% /lb %}}
 
 <div class="googlemap-if">

@@ -44,7 +44,7 @@ Las matrículas son <span class="quiz">amarillas</span> tanto delante como detr�
 <img src="/rule/europe/luxembourg/car.jpg" width="600px" alt="Vehículos en Luxemburgo"/>
 </div>
 {{% lb 50 %}}
-![](2023-04-12-06-05-39.png)
+![](/rule/europe/luxembourg/2023-04-12-06-05-39.png)
 
 Por Willtron, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=4614844">Wikimedia Commons</a>
 {{% /lb %}}

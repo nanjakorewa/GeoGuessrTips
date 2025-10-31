@@ -114,14 +114,14 @@ Es más que nada para ir sobre seguro, pero aplicar CSS personalizado para ocult
 Puedes leer tu correo y los nombres de otras cuentas en la esquina superior derecha.
 Al pulsar “Enviar al dispositivo móvil”, etc., también aparece parte del prefijo telefónico.
 
-![](2023-03-02-12-19-13.png)
+![](/web/privacy/2023-03-02-12-19-13.png)
 
 <h3 class="no-blur">Después de aplicar el CSS</h3>
 
 Toda el área de los botones desaparece y solo queda la descripción del lugar.
 
-![](2023-03-02-12-16-43.png)
+![](/web/privacy/2023-03-02-12-16-43.png)
 
 A veces ciertas webs te redirigen de repente a la página de inicio de sesión de Google, así que conviene desenfocar esa pantalla con CSS. Recuerda que un simple blur podría revertirse, de modo que añade caracteres mediante `:before` o `:after` y cambia la longitud del texto si necesitas más protección.
 
-![](2023-04-02-16-24-50.png)
+![](/web/privacy/2023-04-02-16-24-50.png)

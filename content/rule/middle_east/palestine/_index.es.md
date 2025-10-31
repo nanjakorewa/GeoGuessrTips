@@ -38,7 +38,7 @@ Las placas con fondo <span class="quiz">blanco</span> y franja <span class="quiz
 </div>
 
 {{% lb 50 %}}
-![](2023-05-08-00-54-27.png)
+![](/rule/middle_east/palestine/2023-05-08-00-54-27.png)
 
 Por BasilLeaf - Obra propia, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=113341446">Wikimedia Commons</a>
 {{% /lb %}}

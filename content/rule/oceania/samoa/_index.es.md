@@ -35,7 +35,7 @@ sc: [
 {{% notice tip %}}En general, se perciben colores <span class="quiz">azul y verde</span>{{% ex "https://maps.app.goo.gl/VBY1jNhutcfT5gGPA" %}}{{% ref "https://en.wikipedia.org/wiki/Fatu_Rock" "Fatu Rock" %}}
 {{% /notice %}}
 {{% lb 50 %}}
-![](lc.png)
+![](/rule/oceania/samoa/lc.png)
 
 Public Domain
 {{% /lb %}}
