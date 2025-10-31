@@ -94,24 +94,28 @@ ja = "GeoGuessrの攻略めも"
 en = "My GeoGuessr Tips"
 id = "Kiat Geogesser Saya"
 es = "Notas de GeoGuessr"
+pt = "Minhas dicas de GeoGuessr"
 
 [params.default_description]
 ja = "GeoGuessr（ジオゲッサー）のプレイで気付いた特徴や攻略ヒントを国・地域ごとにまとめた個人メモです。地理クイズの練習や配信前の下調べに役立つ情報を整理しています。"
 en = "Personal notes that collect strategies, observations, and distinctive clues for GeoGuessr, organised by country and region to support practice and research."
 id = "Catatan pribadi berisi strategi, pengamatan, dan petunjuk khas GeoGuessr yang disusun per negara untuk membantu latihan serta riset."
 es = "Notas personales con estrategias, observaciones y pistas distintivas de GeoGuessr organizadas por país para apoyar la práctica y la investigación."
+pt = "Notas pessoais que reúnem estratégias, observações e pistas distintivas de GeoGuessr, organizadas por país e região para apoiar a prática e a pesquisa."
 
 [params.flag_title_templates]
 ja = "GeoGuessrで%sを見分けるには？"
 en = "How to identify %s in GeoGuessr?"
 id = "Cara membedakan %s di GeoGuessr"
 es = "¿Cómo identificar %s en GeoGuessr?"
+pt = "Como identificar %s no GeoGuessr?"
 
 [params.flag_description_templates]
 ja = "%sをGeoGuessrで見分けるためのヒントや特徴をまとめたメモです。ストリートビューで気付いたポイントを記録しています。"
 en = "Notes that summarise tips and distinctive features to help identify %s while playing GeoGuessr."
 id = "Catatan yang merangkum kiat dan ciri khas untuk membantu membedakan %s saat bermain GeoGuessr."
 es = "Notas que reúnen consejos y rasgos distintivos para identificar %s mientras juegas GeoGuessr."
+pt = "Notas que reúnem dicas e características distintivas para identificar %s ao jogar GeoGuessr."
 
 [params.organization]
 name = "nanja"
@@ -277,5 +281,35 @@ link = "contact"
 # navigation
 [[Languages.es.menu.main]]
 name = "Toppage"
+url = "/"
+weight = 1
+
+################################ Portuguese Language ######################
+[Languages.pt]
+languageName = "pt"
+languageCode = "pt"
+weight = 5
+copyright = "Este é um repositório (quase um diário) para organizar favoritos ao jogar GeoGuessr. Todos os nomes de empresas, produtos e serviços (logotipos etc.) mencionados aqui são marcas comerciais ou marcas registradas de seus respectivos proprietários. Você pode ocultar parte do texto clicando nas configurações de exibição no canto superior esquerdo. Todas as descrições, incluindo nomes de fronteiras e regiões, baseiam-se na implementação do jogo e não refletem a situação política.</br>©2022-2025 nanjakorewa. | <a href='https://geopinning.space/pt/about/'>Política de privacidade・Sobre esta página</a>"
+
+# banner
+[Languages.pt.params.banner]
+title = ""
+subtitle = ""
+placeholder = "digite termos de busca..."
+
+# call to action
+[Languages.pt.params.cta]
+enable = true
+title = "Não encontrou a resposta?"
+content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+# call to action button
+[Languages.pt.params.cta.button]
+enable = true
+label = "fale conosco"
+link = "contact"
+
+# navigation
+[[Languages.pt.menu.main]]
+name = "Página inicial"
 url = "/"
 weight = 1

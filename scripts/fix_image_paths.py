@@ -13,7 +13,7 @@ from typing import Iterable
 
 
 CONTENT_ROOT = Path("content").resolve()
-LANG_SUFFIXES: tuple[str, ...] = (".en.md", ".es.md", ".id.md")
+LANG_SUFFIXES: tuple[str, ...] = (".en.md", ".es.md", ".id.md", ".pt.md")
 
 IMG_SRC_PATTERN = re.compile(
     r'(<img[^>]*\bsrc\s*=\s*")(?!https?://|data:|/)([^"]+)(")',

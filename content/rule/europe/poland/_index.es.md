@@ -27,7 +27,7 @@ sc: [
         <li>Los postes de hormigón suelen <span class="quiz">carecer de orificios</span> en la base</li>
         <li>La señal de paso de peatones tiene una única franja <span class="quiz">horizontal</span>{{% by "niwaisound" "twitch" %}}</li>
         <li>Las barandillas laterales son angulosas</li>
-        <li>La letra <span class="quiz polish-font">ŁE/ ŁE/span> casi solo aparece en polaco</li>
+        <li>La letra <span class="quiz polish-font">ŁĘ</span> casi solo aparece en polaco</li>
         <li>Las señales de advertencia son naranjas con un borde rojo <span class="quiz">muy delgado</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/lhf72f/warning_signs_around_the_world/" "Warning signs around the world" %}}</li>
         <li><span class="polish-font">Ulica</span> significa “calle Een Eslovaquia, Eslovenia, Serbia y Polonia</li>
         <li class="no-evidence">La tipografía vial “Drogowskaz Ees exclusiva de Polonia</li>
@@ -75,7 +75,7 @@ Los bolardos <span class="quiz">rojos</span> de Polonia son muy fáciles de reco
 
 
 {{% notice tip %}}
-Fíjate en la letra <span class="quiz polish-font">ŁE/ ŁE/span>{{% ex "https://maps.app.goo.gl/xDLzKB3GrYTbQxG48" "https://goo.gl/maps/NqvjhHWYFviHDpJ37" %}}. Polonia usa una tipografía exclusiva en su señalización{{% ex "https://maps.app.goo.gl/BXiNqCJSVSgrLzbJ7" "https://maps.app.goo.gl/eZGni3JXfPeWiVAFA" %}}; la forma de la <span class="polish-font">t</span> es inconfundible{{% ex "https://goo.gl/maps/D1dwcNT7sTpvPnb56" %}}{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}.
+Fíjate en la letra <span class="quiz polish-font">ŁĘ</span>{{% ex "https://maps.app.goo.gl/xDLzKB3GrYTbQxG48" "https://goo.gl/maps/NqvjhHWYFviHDpJ37" %}}. Polonia usa una tipografía exclusiva en su señalización{{% ex "https://maps.app.goo.gl/BXiNqCJSVSgrLzbJ7" "https://maps.app.goo.gl/eZGni3JXfPeWiVAFA" %}}; la forma de la <span class="polish-font">t</span> es inconfundible{{% ex "https://goo.gl/maps/D1dwcNT7sTpvPnb56" %}}{{% ref "https://en.wikipedia.org/wiki/Polish_road_signs_typeface" "Polish road signs typeface" %}}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -85,7 +85,7 @@ Fíjate en la letra <span class="quiz polish-font">ŁE/ ŁE/span>{{% ex "https:/
 
 <div class="googlemap-if">
 <span style="font-weight:bold; font-size:3em;">
-abcćdefghijklŁEbr/>
+abcćdefghijklŁĘ<br/>
 mnoprstuwyzźż
 </span>
 </div>

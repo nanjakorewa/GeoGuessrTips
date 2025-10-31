@@ -1,0 +1,117 @@
+- id: topics_title
+  translation: Lista de páginas
+- id: display_setting
+  translation: Configurações de exibição
+- id: display_setting_cnt
+  translation: Embaçar região/país
+- id: display_setting_desc
+  translation: Embaçar descrições
+- id: display_setting_noevidence
+  translation: Ocultar regras desconhecidas
+- id: comment_title
+  translation: Comentário
+- id: comment_name
+  translation: Nome
+- id: comment_submit
+  translation: Enviar
+- id: comment_notice
+  translation: ※Os comentários serão exibidos após aprovação. Não insira informações pessoais.
+- id: comment_complete
+  translation: Obrigado pelo comentário. Ele aparecerá depois de aprovado.
+- id: size-change
+  translation: Alterar tamanho da fonte
+- id: size-s
+  translation: pequeno
+- id: size-m
+  translation: normal
+- id: size-l
+  translation: grande
+- id: rel-site
+  translation: Páginas relacionadas
+- id: rule-of-distinguish
+  translation: Como identificar países e regiões
+- id: how-to-distinguish
+  translation: Como distinguir
+- id: narrow-down-the-area
+  translation: Delimitar estado/região
+- id: narrow-down-the-city
+  translation: Delimitar cidade/bairro
+- id: toppage
+  translation: Início
+- id: page-title
+  translation: Minhas notas GeoGuessr
+- id: w-etf
+  translation: Pontos de referência fáceis
+- id: w-viecle
+  translation: Veículo
+- id: w-building
+  translation: Construções
+- id: w-commercial
+  translation: Estabelecimentos
+- id: w-googlecar
+  translation: Google Car
+- id: w-bollard
+  translation: Pilar refletivo
+- id: w-utility-pole
+  translation: Poste elétrico
+- id: w-signs
+  translation: Placas
+- id: w-road
+  translation: Estrada
+- id: w-plant
+  translation: Vegetação
+- id: w-music
+  translation: 🎵
+- id: has_unique_bollard
+  translation: ""
+- id: has_unique_googlecar
+  translation: Google Car marcante
+- id: has_trekker
+  translation: Muitos Trekker
+- id: has_unique_googlecar
+  translation: Google Car exclusivo
+- id: findable-road-sign
+  translation: Placas fáceis de encontrar
+- id: findable-corp-sign
+  translation: Empresas conhecidas
+- id: w-mymemo-wrong-cn
+  translation: Lugar difícil
+- id: show_mymemo_button
+  translation: Mostrar memo pessoal
+- id: display_meaning
+  translation: Ícone
+- id: streaming_status
+  translation: Status da transmissão
+- id: is_has_no_official_coverage
+  translation: sem cobertura oficial
+
+- id: search_input_placeholder
+  translation: Pesquise aqui
+- id: search_no_results
+  translation: Nenhum resultado para
+- id: search_initial_message
+  translation: Digite algo para pesquisar...
+- id: search_navigate
+  translation: para navegar
+- id: search_select
+  translation: para selecionar
+- id: search_close
+  translation: para fechar
+- id: homepage_rule_section_title
+  translation: Guias de GeoGuessr
+- id: homepage_other_section_title
+  translation: Outros
+- id: homepage_booth_caption
+  translation: Produtos artesanais
+- id: footer_privacy_link
+  translation: Política de privacidade
+- id: floating_share_tooltip
+  translation: Compartilhar no X
+- id: floating_share_aria
+  translation: Compartilhar esta página no X
+- id: floating_copy_tooltip
+  translation: Copiar URL da página
+- id: floating_copy_success
+  translation: Copiado!
+- id: floating_copy_aria
+  translation: Copiar a URL desta página

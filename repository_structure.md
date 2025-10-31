@@ -37,7 +37,7 @@ GeoGuessrTips は Hugo 製の静的サイト「[geopinning.space](https://geopin
 - **web/**  
   関連リンク集。`free/`, `music/`, `privacy/`, `tools/`, `youtube/` など用途別ディレクトリに多言語 Markdown を配置。
 
-各 Markdown は言語別サフィックス (`.ja.md`, `.en.md`, `.es.md`, `.id.md`) を持ち、同階層に画像などのメディアファイルが置かれる。Hugo のショートコードや HTML を併用するページも多い。
+各 Markdown は言語別サフィックス (`.ja.md`, `.en.md`, `.es.md`, `.id.md`, `.pt.md`) を持ち、同階層に画像などのメディアファイルが置かれる。Hugo のショートコードや HTML を併用するページも多い。
 
 ---
 
