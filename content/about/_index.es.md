@@ -1,51 +1,70 @@
 ---
-title: "About This Website"
-subtitle: "About this page"
+title: "Acerca de este sitio"
+subtitle: "Acerca de este sitio"
 date: 2023-02-26
-description: "Contacts and privacy policy"
-type: "note"
+description: "Datos de contacto y política de privacidad"
 weight: 2001
 ---
-I started playing GeoGuessr in February 2023. On this page, I save screenshots of things that caught my attention or interesting locations during gameplay. If you notice any mistakes or have any comments, please let me know in the comments section or through the GitHub issue tracker.
 
-The non-Japanese pages are for studying the language. I am creating them little by little with the help of translation tools and a vocabulary book. Therefore, the pace of updating is expected to be very slow.
+<br />
+<br />
 
-When you give us tips through comments, etc., it would be greatly appreciated if you provided the source page in the words. I will record the information you give me along with the source.
+<h3 class="no-blur">Contacto</h3>
 
-Example: Hello {{% by "nanjakorewa" "twitch" %}}. Good evening {{% by "geotips" %}}. Goodbye {{% ref "https://www.weblio.jp/content/%E5%B7%A6%E6%A7%98%E3%81%AA%E3%82%89" "『Left like that』" %}}.
+nanjakorewa0***gmail.com (sustituye *** por @) · <a href="https://twitter.com/nanjakorewa">DM en X</a> · [issues en GitHub](https://github.com/nanjakorewa/GeoGuessrTips/issues).  
+Puedes mencionar o referenciar el contenido de este sitio en transmisiones u otras actividades con total libertad; ¡siempre lo agradezco!
 
-Regarding the "CC-BY-" notation for each image, please refer to "<a href="https://creativecommons.org/">Creative Commons</a>" for more information. "GFDL" refers to the "<a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>." If you find any images without a source citation other than public domain images, please kindly report them here. The images from USDA.gov are used as public domain information with reference links based on "<a href="https://www.usda.gov/policies-and-links">Policies and Links</a>." While some pages may include company products or logos, it is considered nominative fair use, meaning the use is within the scope of referencing trademarked goods or establishments without implying sponsorship or endorsement. Please contact me through the inquiry or comments section if you notice any problematic use. We will make corrections as soon as possible.
+<h4 class="no-blur">Preguntas frecuentes</h4>
 
-The maps shown may not depict remote islands or detailed areas for display reasons. Also, the map may not depict places not visited by Street View. Therefore, the actual shape may differ.
+- Q. ¿Puedo utilizar el contenido de este sitio con fines educativos?
+  - A. Por supuesto.
+- Q. Hay páginas que no muestran información posterior a 2024.
+  - A. La mayor parte del contenido se escribió en 2023 mientras hacía directos. En aquel momento ni siquiera servicios como plonkit tenían consejos para todos los países, y tampoco existían referencias similares en japonés. Creé este sitio para organizar mis apuntes personales, de modo que aún quedan secciones pendientes de actualizar con información como las coberturas de Google Car de 2025.
+- Q. ¿Podrías incluir capturas de Street View?
+  - A. Las condiciones de Google no permiten reutilizar imágenes de Street View, así que recurro a recursos en dominio público y materiales de licencia abierta.
 
-Also, since this is primarily for my notes, I might also note information that has nothing to do with Geoguessr.
+<br />
 
-<h2 class="no-blur">Background Images and Tools</h2>
-<dlv style="text-align:left;pointer-events:none;">
-<img src="/about/2023-05-03-03-16-48.png" width="30%" style="margin-left:0;" class="unclickable">
-<img src="/about/2023-04-15-23-01-05.png" width="30%" style="margin-left:0;" class="unclickable">
+<h3 class="no-blur">Resumen</h3>
+
+Empecé a jugar GeoGuessr hacia febrero de 2023.
+
+Esta página funciona como un cuaderno donde guardo lugares interesantes que encuentro durante las partidas, casi como si fueran capturas de pantalla. Si detectas errores o tienes sugerencias, comparte un comentario o abre un issue en GitHub. Incluir la fuente original facilita mucho el trabajo y la citaré con el siguiente formato.
+
+Ejemplo) こんにちは{{% by "nanjakorewa" "twitch" %}}こんばんは{{% by "geotips" %}}さようなら{{% ref "https://www.weblio.jp/content/%E5%B7%A6%E6%A7%98%E3%81%AA%E3%82%89" "『左様なら』" %}}
+
+Todas las descripciones sobre países, regiones, ciudades e historia se escriben únicamente con el objetivo de jugar GeoGuessr, procurando mantener una postura neutral. Los mapas que aparecen aquí se basan en los límites mostrados dentro del juego y pueden diferir de las divisiones administrativas reales.
+
+Para las imágenes con la etiqueta `CC-BY-`, consulta las <a href="https://creativecommons.jp/licenses/">licencias Creative Commons</a>. `GFDL` hace referencia a la <a href="https://ja.wikipedia.org/wiki/GNU_Free_Documentation_License">GNU Free Documentation License</a>. Si ves alguna imagen (que no sea de dominio público) sin la atribución correspondiente, avísame [desde aquí](https://github.com/nanjakorewa/GeoGuessrTips/issues).  
+Las imágenes procedentes de USDA.gov enlazan al original según sus <a href="https://www.usda.gov/policies-and-links">Policies and Links</a>. La mayoría de los señalamientos de tráfico provienen de ilustraciones en dominio público; en unas pocas páginas —por ejemplo <a href="https://geopinning.space/rule/europe/baltic-state/latvia/">Letonia</a>— hay material con crédito explícito. Los productos y logotipos corporativos se muestran solo con fines de referencia dentro del uso legítimo y no implican patrocinio. Si detectas algún uso problemático, ponte en contacto mediante los comentarios o los métodos anteriores y lo corregiré cuanto antes. Las demás citas cumplen el artículo 32, párrafo 1, de la Ley de Derechos de Autor de Japón.
+
+Los mapas mostrados pueden omitir islas remotas o zonas diminutas para simplificar la visualización, y las posiciones de Street View representadas pueden no coincidir con la forma del mapa. Ten en cuenta que se trata de un cuaderno personal, así que de vez en cuando podría anotar temas que no estén directamente relacionados con GeoGuessr.
+
+<h3 class="no-blur">Imágenes de fondo y herramientas utilizadas</h3>
+
+<div class="googlemap-if unclickable">
+<img src="./2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" >
+<img src="./2023-04-15-23-01-05.png" width="200px" style="margin:34px;" >
+<img src="./Flickr_wordmark.svg" width="180px" style="margin:34px;" >
+<img src="./Google_Maps_Logo.svg" width="250px" style="margin:34px;" >
 </div>
-<br />
-<h2 class="no-blur">Privacy Policy and Disclaimer</h2>
-
 
 <br />
-<br />
-<h3 class="no-blur">Disclaimer</h3>
-We assume no responsibility for any actions users take based on the information on this website. We also assume no responsibility for any damages incurred by users or any damages caused by users to third parties resulting from using this website.
 
+<h3 class="no-blur">Política de privacidad y descargos de responsabilidad</h3>
 
 <br />
-<br />
-<h3 class="no-blur">Regarding Google Analytics and Similar Services</h3>
-Advertising service providers, including Google, use cookies to deliver ads based on users' past access to this website and other websites. This aims to display appropriate ads to users based on their information when they access this site or other sites. This website uses Google Analytics, an access analysis tool provided by Google. Google Analytics uses cookies to collect traffic data. This traffic data is collected anonymously and does not identify individuals. You can refuse data collection by disabling cookies. Please check your browser settings for more information.
 
+<h4 class="no-blur">Descargo de responsabilidad</h4>
 
-Este sitio web participa en el Programa de Afiliados de Amazon, un programa de publicidad para afiliados diseñado para ofrecer un medio a los sitios web de obtener comisiones mediante la publicidad y enlaces a Amazon.  
-Algunos enlaces en este sitio son enlaces de afiliado, lo que significa que podríamos recibir una comisión si realizas una compra a través de ellos, sin coste adicional para ti.
+No puedo asumir responsabilidad por las acciones que realicen los usuarios basándose en la información publicada aquí, ni por los daños que puedan sufrir los usuarios o terceros al utilizar este sitio.
 
+<h4 class="no-blur">Sobre Google Analytics y otros servicios</h4>
 
-<br />
-<br />
-<h3 class="no-blur">Contact</h3>
-Please use the form <a href="https://ssl.form-mailer.jp/fms/167b8369777173">here</a>, <a href="https://twitter.com/nanjakorewa">Twitter</a>, or <a href="https://github.com/nanjakorewa/GeoGuessrTips/issues">GitHub issues</a> for inquiries.
+Google y otras redes publicitarias emplean cookies para mostrar anuncios basados en las visitas previas a este y otros sitios. Este sitio utiliza Google Analytics para analizar el tráfico. Los datos recopilados se anonimizan y no permiten identificarte. Si lo prefieres, puedes desactivar las cookies desde la configuración de tu navegador.
+
+Este sitio participa en el programa Amazon Associates y obtiene ingresos de las compras que cumplan los requisitos. Algunos enlaces externos son de afiliados, lo que significa que el sitio puede recibir una comisión si completas una compra. Esto no supone ningún cargo adicional para ti.
+
+***
+
+*Última actualización: 20-10-2025*
