@@ -1,8 +1,9 @@
 ---
-title: "Como identificar países e regiões"
+title: "Guia de países e regiões"
 date: 2023-02-26
-description: "O que observar primeiro para identificar países e regiões"
+description: "Escolha no mapa-múndi"
+card_image: "map.jpg"
 type: "docs"
 weight: 1
-card_image: "map.jpg"
+map_index: "world"
 ---
