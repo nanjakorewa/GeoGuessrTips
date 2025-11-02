@@ -44,7 +44,7 @@
           <i class="fab fa-twitter"></i>
         </a>
 
-        {{ $prompt := printf "%sのURLに載っている情報のほかに、%sをGeoGuessrで当てるうえでヒントになる情報があれば教えてください。URL: %s" .Permalink .Title }}
+        {{ $prompt := printf "%sのURLに載っている情報のほかに、%sをGeoGuessrで当てるうえでヒントになる情報があれば教えてください。" .Permalink .Title }}
         <a
           class="floating-action floating-chatgpt"
           href="https://chat.openai.com/?q={{ urlquery $prompt }}"
