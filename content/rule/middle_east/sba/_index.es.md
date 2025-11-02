@@ -50,14 +50,6 @@ Las señales están en inglés, griego y turco{{% ex "https://maps.app.goo.gl/id
 </div>
 
 {{% notice tip %}}
-Hay etiquetas amarillas en los postes eléctricos{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="/rule/middle_east/sba/971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="Sba GeoGuessr guide image showing 971px Dirt Road In British Controlled Area Of Ypsonas Village Limassol 12">
-</div>
-
-{{% notice tip %}}
 Algunos vehículos tienen matrículas traseras amarillas{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}. También se utilizan señales de tráfico y marcas viales propias del {{% goto "../../europe/united-kingdom/" "Reino Unido" %}}.
 {{% /notice %}}
 

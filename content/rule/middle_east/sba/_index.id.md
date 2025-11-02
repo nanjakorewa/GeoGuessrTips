@@ -50,14 +50,6 @@ Terdapat tulisan dalam bahasa Inggris, Yunani, dan Turki{{% ex "https://maps.app
 </div>
 
 {{% notice tip %}}
-Ada label kuning pada tiang listrik{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="/rule/middle_east/sba/971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="Sba GeoGuessr guide image showing 971px Dirt Road In British Controlled Area Of Ypsonas Village Limassol 12">
-</div>
-
-{{% notice tip %}}
 Ada kendaraan dengan plat nomor belakang berwarna kuning{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}. Rambu lalu lintas dan marka jalan terkadang juga menggunakan yang berasal dari {{% goto "../../europe/united-kingdom/" "Inggris" %}}.
 {{% /notice %}}
 

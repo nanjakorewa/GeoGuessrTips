@@ -1,5 +1,5 @@
 ---
-title: "イギリス主権基地領域アクロティリおよびデケリア"
+title: "キプロス"
 date: 2023-04-26
 lastmod: 2024-03-26
 weight: 200
@@ -7,7 +7,7 @@ draft: false
 keywords: [""]
 sections: [""]
 bg: "bg/city.jpg"
-flag: "GB.svg"
+flag: "CY.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
@@ -26,7 +26,7 @@ sc: [
         <li>白色の独特なボラードが見つかる</li>
         <li><span class="quiz">左側</span>通行</li>
     </ul>
-    {{% rd middle_east sba verysmall %}}
+    {{% rd middle_east cyprus verysmall %}}
 </div>
 
 {{% tabs %}}

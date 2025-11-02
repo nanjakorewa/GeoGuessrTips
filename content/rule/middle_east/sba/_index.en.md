@@ -50,14 +50,6 @@ Signage appears in English, Greek, and Turkish{{% ex "https://maps.app.goo.gl/id
 </div>
 
 {{% notice tip %}}
-There are yellow labels on utility poles{{% ex "https://maps.app.goo.gl/HR1DCBHDWsidYY6cA" "https://maps.app.goo.gl/PAgEqFzDr4885FDfA" %}}
-{{% /notice %}}
-
-<div class="googlemap-if">
-<img src="/rule/middle_east/sba/971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="Sba GeoGuessr guide image showing 971px Dirt Road In British Controlled Area Of Ypsonas Village Limassol 12">
-</div>
-
-{{% notice tip %}}
 Some vehicles have yellow rear license plates{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}. Road signs and markings are sometimes those used in the {{% goto "../../europe/united-kingdom/" "United Kingdom" %}}.
 {{% /notice %}}
 

@@ -23,8 +23,9 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>2025年3月時点では国境付近のごく僅かの場所にストリートビューがある{{% ex "https://maps.app.goo.gl/JeXYRMe5Vb3BhsLMA" "https://maps.app.goo.gl/CCEUacVdkCDgkH486" %}}</li>
+        <li>ボスニア・ヘルツェゴビナ連邦とスルプスカ共和国のふたつの構成体からなる国</li>
+        <li>車は右側通行</li>
         <li>ドメインは<span class="quiz">.ba</span></li>
-        <li>ボスニア・ヘルツェゴビナとその周辺のガードレールは<span class="quiz">角張っている</span></li>
     </ul>
 </div>
 
@@ -39,11 +40,18 @@ sc: [
 </div>
 
 {{% notice tip %}}
-２言語の看板が見つかる。
+{{% goto "../slovenia/" "スロベニア" %}}に似たマイルストーンの看板が見つかる。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./dupovci_bosna_hersek.jpg" width="300px" alt="Bosnah GeoGuessr guide image showing Dupovci Bosna Hersek">
-<img src="./opstinacelinac.jpg" width="300px" alt="Bosnah GeoGuessr guide image showing Opstinacelinac">
+<img src="b235671b-10bb-40cd-b1cc-7ab46cf95599.png" width="150px" />
+</div>
+
+
+{{% notice tip %}}
+{{% goto "../croatia/" "クロアチア" %}}平野部に見られるレンガ造りの家がよく見つかる。
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="house.png" width="70%" />
 </div>
 
 {{% /tab %}}
