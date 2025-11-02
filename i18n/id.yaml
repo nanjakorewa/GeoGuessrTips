@@ -113,3 +113,5 @@
   translation: Tersalin!
 - id: floating_copy_aria
   translation: Salin URL halaman ini
+- id: floating_ask_gpt
+  translation: Tanya ChatGPT

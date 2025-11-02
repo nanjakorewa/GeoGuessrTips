@@ -115,3 +115,5 @@
   translation: ¡Copiado!
 - id: floating_copy_aria
   translation: Copiar la URL de esta página
+- id: floating_ask_gpt
+  translation: Preguntar a ChatGPT

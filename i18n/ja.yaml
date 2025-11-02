@@ -117,3 +117,5 @@
   translation: コピーしました！
 - id: floating_copy_aria
   translation: このページのURLをコピーする
+- id: floating_ask_gpt
+  translation: ChatGPTに質問する
