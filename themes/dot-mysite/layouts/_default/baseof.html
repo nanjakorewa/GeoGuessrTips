@@ -25,13 +25,37 @@
     {{ $shareText := printf "%s | %s" .Title .Site.Title }}
       {{ $shareURL := printf "https://twitter.com/intent/tweet?url=%s&text=%s" (urlquery .Permalink) (urlquery $shareText) }}
       <div class="floating-share-group">
-        <button class="floating-action floating-copy-url" type="button" data-tooltip="{{ i18n "floating_copy_tooltip" }}" data-success-tooltip="{{ i18n "floating_copy_success" }}" aria-label="{{ i18n "floating_copy_aria" }}">
+        <button
+          class="floating-action floating-copy-url"
+          type="button"
+          data-tooltip="{{ i18n "floating_copy_tooltip" }}"
+          data-success-tooltip="{{ i18n "floating_copy_success" }}"
+          aria-label="{{ i18n "floating_copy_aria" }}">
           <i class="fas fa-link"></i>
         </button>
-        <a class="floating-action floating-share-x" href="{{ $shareURL }}" target="_blank" rel="noopener" aria-label="{{ i18n "floating_share_aria" }}" data-tooltip="{{ i18n "floating_share_tooltip" }}">
+
+        <a
+          class="floating-action floating-share-x"
+          href="{{ $shareURL }}"
+          target="_blank"
+          rel="noopener"
+          aria-label="{{ i18n "floating_share_aria" }}"
+          data-tooltip="{{ i18n "floating_share_tooltip" }}">
           <i class="fab fa-twitter"></i>
         </a>
+
+        {{ $prompt := printf "%sのURLに載っている情報のほかに、%sをGeoGuessrで当てるうえでヒントになる情報があれば教えてください。URL: %s" .Permalink .Title }}
+        <a
+          class="floating-action floating-chatgpt"
+          href="https://chat.openai.com/?q={{ urlquery $prompt }}"
+          target="_blank"
+          rel="noopener"
+          aria-label="ChatGPTに質問する"
+          data-tooltip="ChatGPTに質問aする">
+          <i class="fas fa-comments"></i>
+        </a>
       </div>
+
       <script>
         (() => {
           const copyBtn = document.querySelector(".floating-copy-url");
