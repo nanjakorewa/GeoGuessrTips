@@ -11,7 +11,6 @@ flag: "MD.svg"
 flag_height: "340px"
 no_detaile_info: true
 jetro_detail: false
-flag_height: "350px"
 is_unofficial: true
 ---
 
