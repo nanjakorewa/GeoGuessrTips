@@ -43,10 +43,10 @@ Tampilan peta mungkin mengabaikan pulau terpencil atau wilayah yang sangat kecil
 <h3 class="no-blur">Gambar latar & alat yang dipakai</h3>
 
 <div class="googlemap-if unclickable">
-<img src="./2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" >
-<img src="./2023-04-15-23-01-05.png" width="200px" style="margin:34px;" >
-<img src="./Flickr_wordmark.svg" width="180px" style="margin:34px;" >
-<img src="./Google_Maps_Logo.svg" width="250px" style="margin:34px;" >
+<img src="/about/2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" >
+<img src="/about/2023-04-15-23-01-05.png" width="200px" style="margin:34px;" >
+<img src="/about/Flickr_wordmark.svg" width="180px" style="margin:34px;" >
+<img src="/about/Google_Maps_Logo.svg" width="250px" style="margin:34px;" >
 </div>
 
 <br />

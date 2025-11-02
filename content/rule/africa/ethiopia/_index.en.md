@@ -31,7 +31,7 @@ is_unofficial: true
 Amharic (አማርኛ) frequently appears on signage and storefronts.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg">
 </div>
 
 {{% notice tip %}}

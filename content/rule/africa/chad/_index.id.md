@@ -60,7 +60,7 @@ Pipa yang selesai melalui Kamerun memungkinkan ekspor minyak mentah dari ladang 
 {{% tab "Citra Satelit" %}}
 
 <div class="googlemap-if no-margin">
-<img src="./474px-Chad_sat.jpg" width="90%">
+<img src="/rule/africa/chad/474px-Chad_sat.jpg" width="90%">
 </div>
 
 {{% /tab %}}

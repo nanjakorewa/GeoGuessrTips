@@ -60,7 +60,7 @@ Un oleoducto que atraviesa Camerún permite exportar el crudo del yacimiento de 
 {{% tab "Satélite" %}}
 
 <div class="googlemap-if no-margin">
-<img src="./474px-Chad_sat.jpg" width="90%">
+<img src="/rule/africa/chad/474px-Chad_sat.jpg" width="90%">
 </div>
 
 {{% /tab %}}

@@ -31,7 +31,7 @@ is_unofficial: true
 El amárico (አማርኛ) aparece con frecuencia en rótulos y fachadas de comercios.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg">
 </div>
 
 {{% notice tip %}}
