@@ -1,6 +1,5 @@
 ---
 title: "Kazakhstan"
-flag: "KZ.svg"
 date: 2024-03-22
 lastmod: 2024-03-23
 weight: 2
