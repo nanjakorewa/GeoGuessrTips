@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
 is_has_distinctive_googlecar: true
+plonkit: true
+sc_title: "Lokasi yang mudah tertukar"
+sc: [
+    ["../faroe_islands/", "Kepulauan Faroe"],
+    ]
 ---
 
 
@@ -24,7 +29,8 @@ is_has_distinctive_googlecar: true
         <li>Sebagian besar tanaman adalah <span class="quiz">lumut dan rumput jarum</span>{{% by "https://ngu.repo.nii.ac.jp/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=430&item_no=1&page_id=13&block_id=49" "web" "アイスランドの地質学的自然環境学的特質について - 名古屋学院大学論集　人文・自然科学篇" %}}</li>
         <li>Medan ini terbentuk dari lava dan memiliki sungai dan lahan basah yang tidak beraturan.</li>
         <li>"ð" hanya digunakan di <span class="quiz">Kepulauan Faroe</span> dan Islandia</li>
-        <li>Perhatikan bahwa ada garis biru <b>tidak</b> di sisi kiri pelat nomor.</li>
+        <li>Perhatikan bahwa <b>tidak ada</b> garis biru di sisi kiri pelat nomor.</li>
+        <li class="no-no-evidence">Tidak ada rumah kayu bergaya pondok khas Nordik; jendelanya cenderung besar agar cahaya matahari bisa masuk.</li>
     </ul>
     {{% rd europe iceland verysmall %}}
 </div>
@@ -63,5 +69,10 @@ Rambu penyeberangan berwarna kuning.Namun, Anda mungkin hanya akan menemukan beb
 <img src="/rule/europe/iceland/Iceland_road_sign_D02.11.svg" width="190px">
 </div>
 
+{{% /tab %}}
+{{% tab "Rambu" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681046931645!6m8!1m7!1sh2wQaymPMFFX85UI1Ob6TQ!2m2!1d64.47604090738368!2d-14.49618073734571!3f158.88383826148194!4f-3.0972084823761037!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}

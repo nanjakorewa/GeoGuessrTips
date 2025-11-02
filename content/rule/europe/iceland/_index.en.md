@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_bollard: true
 is_has_distinctive_googlecar: true
+plonkit: true
+sc_title: "Commonly Confused Locations"
+sc: [
+    ["../faroe_islands/", "Faroe Islands"],
+    ]
 ---
 
 
@@ -25,6 +30,7 @@ is_has_distinctive_googlecar: true
         <li>The terrain was created by lava and <span class="quiz">has irregular rivers and wetlands</span>.</li>
         <li>"ð" is used only in <span class="quiz">Faroese Islands</span> and Iceland</li>
         <li>Note that there is <b>no</b> blue line on the left side of the license plate.</li>
+        <li class="no-no-evidence">Classic timber lodges with small windows are absent; expect large windows that maximise sunlight.</li>
     </ul>
     {{% rd europe iceland verysmall %}}
 </div>
@@ -63,5 +69,10 @@ The crosswalk signs are yellow. But you may only find a few outside the city cen
 <img src="/rule/europe/iceland/Iceland_road_sign_D02.11.svg" width="190px">
 </div>
 
+{{% /tab %}}
+{{% tab "Signs" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1681046931645!6m8!1m7!1sh2wQaymPMFFX85UI1Ob6TQ!2m2!1d64.47604090738368!2d-14.49618073734571!3f158.88383826148194!4f-3.0972084823761037!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
