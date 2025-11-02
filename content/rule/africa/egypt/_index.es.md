@@ -30,9 +30,9 @@ plonkit: true
 Son comunes monumentos como las <span class="quiz">Pirámides</span>{{% ex "https://maps.app.goo.gl/8rrMqFYeptabCejP6" %}} y la <span class="quiz">Ciudadela de Qaitbay</span>{{% ex "https://maps.app.goo.gl/z8t87qBct5QeRX186" %}}. La arquitectura egipcia suele favorecer la <span class="quiz">simetría</span> y los ejes largos, con muchas estructuras de adobe y piedra{{% ex "https://maps.app.goo.gl/xoj4jyQPmvpUDNKH8" "https://maps.app.goo.gl/PDbWvY5xbopNh8Fd8" %}}{{% ref "https://www.news-digest.co.uk/news/index.php?cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "Sobre la simetría en la arquitectura egipcia (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/egypt/egypt_ancient_archeology_pyramid_0.jpg" width="600px" alt="Egypt ancient archeology pyramid 0">
-<img src="/rule/africa/egypt/qaitbay_citadel.jpg" width="334px" alt="Qaitbay citadel">
-<img src="/rule/africa/egypt/copticquarter.jpg" width="266px" alt="Copticquarter">
+<img src="/rule/africa/egypt/egypt_ancient_archeology_pyramid_0.jpg" width="600px" alt="Egypt GeoGuessr guide image showing Egypt Ancient Archeology Pyramid 0">
+<img src="/rule/africa/egypt/qaitbay_citadel.jpg" width="334px" alt="Egypt GeoGuessr guide image showing Qaitbay Citadel">
+<img src="/rule/africa/egypt/copticquarter.jpg" width="266px" alt="Egypt GeoGuessr guide image showing Copticquarter">
 </div>
 
 {{% notice tip %}}
@@ -40,7 +40,7 @@ A veces se ven matrículas con una franja superior <span class="quiz">celeste</s
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/51437989@N06/15982577198/" title="Cairo, Egypt"><img src="https://live.staticflickr.com/7472/15982577198_c92e865274_z.jpg" width="640" height="480" alt="Cairo, Egypt"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/51437989@N06/15982577198/" title="Cairo, Egypt"><img src="https://live.staticflickr.com/7472/15982577198_c92e865274_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 15982577198 c92e865274 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}

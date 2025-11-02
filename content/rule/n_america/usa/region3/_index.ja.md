@@ -33,7 +33,7 @@ jogmec_detail: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="cherokee_stop_sign_png.jpg" alt="Cherokee stop sign png">
+<img src="cherokee_stop_sign_png.jpg" alt="region3 GeoGuessr guide image showing Cherokee Stop Sign Png">
 </div>
 
 {{% /tab %}}

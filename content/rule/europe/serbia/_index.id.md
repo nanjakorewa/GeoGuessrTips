@@ -42,7 +42,7 @@ Bollard tipis dengan reflektor yang tidak simetris adalah ciri khas. Guardrail S
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/serbia/bollar.jpg" width="95%" alt="Bollar">
+<img src="/rule/europe/serbia/bollar.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bollar">
 </div>
 
 {{% notice tip %}}
@@ -50,7 +50,7 @@ Street View dengan huruf <span class="quiz">Ђ</span> atau <span class="quiz">Ћ
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/serbia/Bulevar_NoviSad.jpg" width="95%" alt="Bulevar NoviSad">
+<img src="/rule/europe/serbia/Bulevar_NoviSad.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bulevar Novisad">
 </div>
 
 {{% notice tip %}}
@@ -58,13 +58,13 @@ Supermarket IDEA ada di seluruh Serbia dan {{% goto "../montenegro/" "Montenegro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/idea.png" width="500px" alt="Idea">
-<img src="/rule/europe/serbia/Jelen_pivo.png" width="95px" style="margin:5px" alt="Jelen pivo">
+<img src="/rule/europe/serbia/idea.png" width="500px" alt="Serbia GeoGuessr guide image showing Idea">
+<img src="/rule/europe/serbia/Jelen_pivo.png" width="95px" style="margin:5px" alt="Serbia GeoGuessr guide image showing Jelen Pivo">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Idea Logo">
-<img src="/rule/europe/serbia/maxi.svg" width="190px" style="margin-left:20px" alt="Maxi">
-<img src="/rule/europe/serbia/Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Frikom logo">
+<img src="/rule/europe/serbia/Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Serbia GeoGuessr guide image showing Idea Logo">
+<img src="/rule/europe/serbia/maxi.svg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Maxi">
+<img src="/rule/europe/serbia/Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Frikom Logo">
 </div>
 
 {{% notice tip %}}
@@ -72,8 +72,8 @@ Chevron dengan <b>latar putih</b> dan <b>panah hitam</b> paling sering dijumpai 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/serbia/r/ar2.png" width="107px" style="margin:18px" alt="Ar2" />
-<img src="/rule/europe/serbia/r/ar1.png" width="100px" style="margin:20px" alt="Ar1" />
+<img src="/rule/europe/serbia/r/ar2.png" width="107px" style="margin:18px" alt="R GeoGuessr guide image showing ar2" />
+<img src="/rule/europe/serbia/r/ar1.png" width="100px" style="margin:20px" alt="R GeoGuessr guide image showing ar1" />
 </div>
 
 {{% /tab %}}
@@ -103,10 +103,10 @@ Chevron dengan <b>latar putih</b> dan <b>panah hitam</b> paling sering dijumpai 
 {{% tabs %}}
 {{% tab "Bunga Matahari" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/2023-05-23-12-58-45.png" width="70%" alt="2023 05 23 12 58 45" />
+<img src="/rule/europe/serbia/2023-05-23-12-58-45.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 58 45" />
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/serbia/volytsya_fastiv_field.jpg" width="80%" alt="Volytsya fastiv field">
+<img src="/rule/europe/serbia/volytsya_fastiv_field.jpg" width="80%" alt="Serbia GeoGuessr guide image showing Volytsya Fastiv Field">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Sekitar 90% ladang bunga matahari berada di dataran utara{{% ex "https://maps.ap
 {{% tab "Jagung" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/2023-05-23-12-55-04.png" width="70%" alt="2023 05 23 12 55 04" />
+<img src="/rule/europe/serbia/2023-05-23-12-55-04.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 55 04" />
 </div>
 
 {{% notice tip %}}

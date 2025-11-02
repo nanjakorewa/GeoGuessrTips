@@ -29,7 +29,7 @@ El PIB per cápita de Sudán del Sur se encuentra entre los más bajos del mundo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%" alt="1083px Juba sudan">
+<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%" alt="Southsudan GeoGuessr guide image showing 1083px Juba Sudan">
 </div>
 
 {{% notice tip %}}
@@ -37,7 +37,7 @@ Es común ver viviendas con techos cónicos característicos{{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Houses,_south_of_Bor_Town.jpg#/media/File:Houses,_south_of_Bor_Town.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Houses%2C_south_of_Bor_Town.jpg" alt="Houses, south of Bor Town (Brendan Tuttle, 2010)" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Mr_leroy_playpus" title="User:Mr leroy playpus">Mr leroy playpus</a> - Obra propia, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148848116">enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Houses,_south_of_Bor_Town.jpg#/media/File:Houses,_south_of_Bor_Town.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Houses%2C_south_of_Bor_Town.jpg" alt="Wikimedia Commons photo showing Houses, South Of Bor Town" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Mr_leroy_playpus" title="User:Mr leroy playpus">Mr leroy playpus</a> - Obra propia, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148848116">enlace</a></p>
 </div>
 
 {{% /tab %}}

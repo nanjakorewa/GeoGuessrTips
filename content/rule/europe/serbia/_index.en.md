@@ -42,7 +42,7 @@ Serbia’s bollards have an off-centre reflector, and the guardrails use the ang
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/serbia/bollar.jpg" width="95%" alt="Serbian bollard">
+<img src="/rule/europe/serbia/bollar.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bollar">
 </div>
 
 {{% notice tip %}}
@@ -50,7 +50,7 @@ Letters like <span class="quiz">Ѓ</span> or <span class="quiz">Ђ</span> appear
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/serbia/Bulevar_NoviSad.jpg" width="95%" alt="Bulevar in Novi Sad">
+<img src="/rule/europe/serbia/Bulevar_NoviSad.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bulevar Novisad">
 </div>
 
 {{% notice tip %}}
@@ -58,13 +58,13 @@ The IDEA supermarket chain spans Serbia and {{% goto "../montenegro/" "Montenegr
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/idea.png" width="500px" alt="IDEA">
-<img src="/rule/europe/serbia/Jelen_pivo.png" width="95px" style="margin:5px" alt="Jelen beer">
+<img src="/rule/europe/serbia/idea.png" width="500px" alt="Serbia GeoGuessr guide image showing Idea">
+<img src="/rule/europe/serbia/Jelen_pivo.png" width="95px" style="margin:5px" alt="Serbia GeoGuessr guide image showing Jelen Pivo">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="IDEA logo">
-<img src="/rule/europe/serbia/maxi.svg" width="190px" style="margin-left:20px" alt="MAXI logo">
-<img src="/rule/europe/serbia/Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Frikom logo">
+<img src="/rule/europe/serbia/Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Serbia GeoGuessr guide image showing Idea Logo">
+<img src="/rule/europe/serbia/maxi.svg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Maxi">
+<img src="/rule/europe/serbia/Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Frikom Logo">
 </div>
 
 {{% notice tip %}}
@@ -72,8 +72,8 @@ Chevrons with black arrows on white are common in Serbia, {{% goto "../montenegr
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/serbia/r/ar2.png" width="107px" style="margin:18px" alt="Chevron A">
-<img src="/rule/europe/serbia/r/ar1.png" width="100px" style="margin:20px" alt="Chevron B">
+<img src="/rule/europe/serbia/r/ar2.png" width="107px" style="margin:18px" alt="R GeoGuessr guide image showing ar2">
+<img src="/rule/europe/serbia/r/ar1.png" width="100px" style="margin:20px" alt="R GeoGuessr guide image showing ar1">
 </div>
 
 {{% /tab %}}
@@ -103,10 +103,10 @@ Chevrons with black arrows on white are common in Serbia, {{% goto "../montenegr
 {{% tabs %}}
 {{% tab "Sunflowers" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/2023-05-23-12-58-45.png" width="70%" alt="Sunflower map"/>
+<img src="/rule/europe/serbia/2023-05-23-12-58-45.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 58 45"/>
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/serbia/volytsya_fastiv_field.jpg" width="80%" alt="Sunflower field">
+<img src="/rule/europe/serbia/volytsya_fastiv_field.jpg" width="80%" alt="Serbia GeoGuessr guide image showing Volytsya Fastiv Field">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Sunflowers favour the flat north {{% ex "https://maps.app.goo.gl/q5mjcdU8cWuLQpm
 {{% tab "Corn" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/2023-05-23-12-55-04.png" width="70%" alt="Corn map"/>
+<img src="/rule/europe/serbia/2023-05-23-12-55-04.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 55 04"/>
 </div>
 
 {{% notice tip %}}

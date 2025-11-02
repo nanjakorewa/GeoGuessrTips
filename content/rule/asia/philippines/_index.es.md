@@ -44,7 +44,7 @@ sc: [
 Hay un cartel escrito en inglés.{{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/road-sign1.jpg" width="90%" alt="Road sign1">
+<img src="/rule/asia/philippines/road-sign1.jpg" width="90%" alt="Philippines GeoGuessr guide image showing Road sign1">
 </div>
 
 {{% notice tip %}}
@@ -57,7 +57,7 @@ Filipinas tiene muchas carreteras de cemento en Asia.{{% goto "../thai/" "Tailan
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/road.jpg" width="95%" alt="Road">
+<img src="/rule/asia/philippines/road.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road">
 </div>
 
 
@@ -65,7 +65,7 @@ Filipinas tiene muchas carreteras de cemento en Asia.{{% goto "../thai/" "Tailan
 llamado triciclo <span class="quiz">Un vehículo que combina moto, portaequipajes y silla</span> Se utiliza en lugar de un taxi.También existe un vehículo llamado bicitaxi, que no es una motocicleta sino una bicicleta combinada.También llamado jeepney <span class="quiz">autobús de colores brillantes</span> También se utiliza como principal medio de transporte.{{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}.El transporte público, como los autobuses, tienen matrículas.<span class="quiz">amarillo</span> color.A continuación se muestran un triciclo (derecha) y un jeepney (izquierda).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/car.jpg" width="80%" alt="Car">
+<img src="/rule/asia/philippines/car.jpg" width="80%" alt="Philippines GeoGuessr guide image showing Car">
 </div>
 
 {{% lb %}}
@@ -79,7 +79,7 @@ Por Christian Razukas de Honolulu, Hawaii - Flickr, <a href="https://creativecom
 La mayoría de los turismos normales son de color blanco o verde claro.{{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}.<span class="quiz">lado derecho</span> Si el tráfico y los vehículos son únicos y las placas son amarillas, blancas o verde claro, entonces estás en Filipinas.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/car-blar-image.png" width="400px" alt="Car blar image">
+<img src="/rule/asia/philippines/car-blar-image.png" width="400px" alt="Philippines GeoGuessr guide image showing Car Blar Image">
 </div>
 
 {{% lb 50 %}}
@@ -93,7 +93,7 @@ Importante cadena de restaurantes de comida rápida de Filipinas.<span class="qu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/philippines/09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="09976jfmaharlika highway plaridel bustos" />
+<img src="/rule/asia/philippines/09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="Philippines GeoGuessr guide image showing 09976jfmaharlika Highway Plaridel Bustos" />
 </div>
 
 {{% notice tip %}}
@@ -101,11 +101,11 @@ En Asia, los galones rojos y blancos se asocian con Filipinas.{{% goto "../srila
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/philippines/arrow.jpg" width="95%" alt="Arrow">
+<img src="/rule/asia/philippines/arrow.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Arrow">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/philippines/r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="Philippines road sign HM 1B R">
+<img src="/rule/asia/philippines/r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="R GeoGuessr guide image showing Philippines Road Sign Hm 1B R">
 </div>
 
 
@@ -189,7 +189,7 @@ En los suburbios de Filipinas suele haber perros salvajes y búfalos de agua.
 {{% tabs %}}
 {{% tab "tagalo" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/fri03sep2004_chinatown_to_gastown.jpg" alt="Fri03sep2004 chinatown to gastown">
+<img src="/rule/asia/philippines/fri03sep2004_chinatown_to_gastown.jpg" alt="Philippines GeoGuessr guide image showing fri03sep2004 Chinatown To Gastown">
 </div>
 
 {{% notice tip %}}
@@ -199,7 +199,7 @@ La distribución exacta es{{% goto "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%8
 {{% /tab %}}
 {{% tab "Código de área" %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Philippine fixed line area codes.PNG" width="60%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard el pato</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Wikimedia Commons photo showing 1200px Philippine Fixed Line Area Codes" width="60%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard el pato</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Enlace</a></p>
 </div>
 {{% /tab %}}
 {{% tab "matrícula de motocicleta" %}}
@@ -243,8 +243,8 @@ Según mi experiencia, creo que alrededor del 80% del área se encuentra en la z
 {{% tabs %}}
 {{% tab "del norte" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/philippines/bike/n1.jpg" width="500px" alt="N1" />
-<img src="/rule/asia/philippines/bike/n2.jpg" width="500px" alt="N2" />
+<img src="/rule/asia/philippines/bike/n1.jpg" width="500px" alt="Bike GeoGuessr guide image showing n1" />
+<img src="/rule/asia/philippines/bike/n2.jpg" width="500px" alt="Bike GeoGuessr guide image showing n2" />
 </div>
 
 {{% notice tip %}}
@@ -254,9 +254,9 @@ Hay escalones en el techo.
 {{% /tab %}}
 {{% tab "del sur" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/philippines/bike/s1.jpg" width="500px" alt="S1" />
-<img src="/rule/asia/philippines/bike/s2.jpg" width="500px" alt="S2" />
-<img src="/rule/asia/philippines/bike/s3.jpg" width="500px" alt="S3" />
+<img src="/rule/asia/philippines/bike/s1.jpg" width="500px" alt="Bike GeoGuessr guide image showing s1" />
+<img src="/rule/asia/philippines/bike/s2.jpg" width="500px" alt="Bike GeoGuessr guide image showing s2" />
+<img src="/rule/asia/philippines/bike/s3.jpg" width="500px" alt="Bike GeoGuessr guide image showing s3" />
 </div>
 
 {{% notice tip %}}
@@ -266,7 +266,7 @@ No hay escalones en el techo.{{% ex "https://maps.app.goo.gl/yWX2nV5EvHYruiJp8" 
 {{% /tab %}}
 {{% tab "Motorela" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Motorela"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 34061698610 a3cc862760 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -276,7 +276,7 @@ Tiene asientos en la parte trasera y puede transportar más pasajeros que un tri
 {{% /tab %}}
 {{% tab "Palawan" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg#/media/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Puerto_Princesa_City_proper%2C_Malvar_Road_market_%28Puerto_Princesa%2C_Palawan%3B_08-03-2023%29.jpg" alt="Puerto Princesa City proper, Malvar Road market (Puerto Princesa, Palawan; 08-03-2023).jpg" height="480" width="640"></a></p><p>Por Patrickroque01 - Tomado con mi propia cámara, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136810939">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg#/media/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Puerto_Princesa_City_proper%2C_Malvar_Road_market_%28Puerto_Princesa%2C_Palawan%3B_08-03-2023%29.jpg" alt="Wikimedia Commons photo showing Puerto Princesa City proper, Malvar Road Market (Puerto Princesa, Palawan; 08 03 2023)" height="480" width="640"></a></p><p>Por Patrickroque01 - Tomado con mi propia cámara, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136810939">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -312,23 +312,23 @@ En primer lugar, existen muchos tuk-tuks de este tipo.El asiento trasero suele t
 {{% tabs %}}
 {{% tab "palma aceitera" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="550px" alt="2023 05 01 19 06 07" />
+<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 07" />
 </div>
 
 {{% /tab %}}
 {{% tab "Caña de azúcar" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="550px" alt="2023 05 01 19 13 28" />
+<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 13 28" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/agriculture_sugar_cane_crop.jpg" width="400px" alt="Agriculture sugar cane crop">
+<img src="/rule/asia/philippines/agriculture_sugar_cane_crop.jpg" width="400px" alt="Philippines GeoGuessr guide image showing Agriculture Sugar Cane Crop">
 </div>
 
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="550px" alt="2023 05 01 19 08 10" />
+<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 08 10" />
 </div>
 
 <div class="googlemap-if">
@@ -337,7 +337,7 @@ En primer lugar, existen muchos tuk-tuks de este tipo.El asiento trasero suele t
 {{% /tab %}}
 {{% tab "cono" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="550px" alt="2023 05 01 19 06 44" />
+<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 44" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -355,7 +355,7 @@ En primer lugar, existen muchos tuk-tuks de este tipo.El asiento trasero suele t
 {{% tab "Nombre de la región y prefectura" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.svg#/media/File:Ph_regions_and_provinces.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ph_regions_and_provinces.svg" alt="Ph regions and provinces.svg" width="70%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:HueMan1" title="User:HueMan1">HueMan1</a> - Trabajo propio, basado en <a href="//commons.wikimedia.org/wiki/User:Seav" title="User:Seav">mar</a>'s <a href="//commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.png" title="File:Ph regions and provinces.png">Ph regiones y provincias.png</a> y <a href="//commons.wikimedia.org/wiki/User:Felipe_Aira" title="User:Felipe Aira">Felipe Aira</a>'s <a href="//commons.wikimedia.org/wiki/File:PhlMapCit.svg" title="File:PhlMapCit.svg">Archivo:PhlMapCit.svg</a>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=80077790">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.svg#/media/File:Ph_regions_and_provinces.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ph_regions_and_provinces.svg" alt="Wikimedia Commons photo showing Ph Regions And Provinces" width="70%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:HueMan1" title="User:HueMan1">HueMan1</a> - Trabajo propio, basado en <a href="//commons.wikimedia.org/wiki/User:Seav" title="User:Seav">mar</a>'s <a href="//commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.png" title="File:Ph regions and provinces.png">Ph regiones y provincias.png</a> y <a href="//commons.wikimedia.org/wiki/User:Felipe_Aira" title="User:Felipe Aira">Felipe Aira</a>'s <a href="//commons.wikimedia.org/wiki/File:PhlMapCit.svg" title="File:PhlMapCit.svg">Archivo:PhlMapCit.svg</a>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=80077790">Enlace</a></p>
 </div>
 
 {{% /tab %}}
@@ -366,7 +366,7 @@ El nombre de la ciudad suele estar escrito directamente en el letrero.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/philippines/road-sign3.jpg" width="95%" alt="Road sign3">
+<img src="/rule/asia/philippines/road-sign3.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road sign3">
 </div>
 
 {{% /tab %}}
@@ -375,7 +375,7 @@ El nombre de la ciudad suele estar escrito directamente en el letrero.
 La ubicación está escrita en los carteles de los principales bancos de Filipinas, como BDO Unibank, Bank of the Philippine Islands y Metrobank.{{% ex "https://maps.app.goo.gl/aGYK9bU5YD7gy3Th9" %}}.Además, la dirección suele estar escrita en el letrero de una tienda normal y corriente.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/philippines/960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="960px 9853Photos taken during 2020 coronavirus pandemic Meycauayan, Bulacan 10">
+<img src="/rule/asia/philippines/960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="Philippines GeoGuessr guide image showing 960px 9853Photos Taken During 2020 Coronavirus Pandemic Meycauayan, Bulacan 10">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -398,7 +398,7 @@ La ubicación está escrita en los carteles de los principales bancos de Filipin
 Isla entre la isla principal y Taiwán.{{% ex "https://maps.app.goo.gl/5CepKwzoyG8XXp2k9" "https://maps.app.goo.gl/YoMUtJLL9qtiSEwJ6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg#/media/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sumnanga_Village%2C_Sabtang_Island%2C_Batanes.jpg" alt="Sumnanga Village, Sabtang Island, Batanes.jpg" height="720" width="1280"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Jeremy.alinea&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Jeremy.alinea (page does not exist)">jeremy.alinea</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78822611">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg#/media/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sumnanga_Village%2C_Sabtang_Island%2C_Batanes.jpg" alt="Wikimedia Commons photo showing Sumnanga Village, Sabtang Island, Batanes" height="720" width="1280"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Jeremy.alinea&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Jeremy.alinea (page does not exist)">jeremy.alinea</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78822611">Enlace</a></p>
 </div>
 {{% /tab %}}
 {{% tab "isla corregidora" %}}
@@ -406,7 +406,7 @@ Isla entre la isla principal y Taiwán.{{% ex "https://maps.app.goo.gl/5CepKwzoy
 Puedo ver Google Car{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/philippines/corregidor_dn_st_86.jpg" width="95%" alt="Corregidor dn st 86">
+<img src="/rule/asia/philippines/corregidor_dn_st_86.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Corregidor Dn St 86">
 </div>
 {{% /tab %}}
 {{% tab "Monte Pinatubo" %}}
@@ -414,7 +414,7 @@ Puedo ver Google Car{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://
 
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/philippines/trekking_mountains_mountain_hiking.jpg" width="500px" alt="Trekking mountains mountain hiking">
+<img src="/rule/asia/philippines/trekking_mountains_mountain_hiking.jpg" width="500px" alt="Philippines GeoGuessr guide image showing Trekking Mountains Mountain Hiking">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

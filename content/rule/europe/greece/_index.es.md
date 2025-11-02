@@ -43,8 +43,8 @@ sc: [
 Tiene letras griegas, siendo distintivas Σ y λ.{{% ex "https://maps.app.goo.gl/SMJtehkQebTbT6yQ9" "https://maps.app.goo.gl/G9rYxXRnSF3Ju9Wu9" "https://maps.app.goo.gl/EjzAaMvvQGA6QsY38" "https://maps.app.goo.gl/PSWxN4u8ijmYEkfE9" %}}.Los carteles con letras amarillas escritas sobre un fondo azul o marrón rara vez se ven fuera de Grecia.{{% ex "https://goo.gl/maps/DfDBCCfbDGLPquCd8" "https://goo.gl/maps/jnkdhhmFNQrZncZK9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/roadsign.jpg" width="640" alt="Roadsign">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="/rule/europe/greece/roadsign.jpg" width="640" alt="Greece GeoGuessr guide image showing Roadsign">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 127018247 4901da9ecb Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}<span class="quiz">dos lineas blancas</span> En Europa, casi toda Grecia tiene franjas medianas.{{% ex "https://maps.app.goo.gl/8d9NeHkbVg4DU7RE6" "https://maps.app.goo.gl/5h42ffeRmxcKJUYLA" "https://maps.app.goo.gl/Dx9LwTmqz3Srxapq7" "https://maps.app.goo.gl/DzzB9TrpmurtmEEP7" "https://maps.app.goo.gl/mgXSUTTZhRDBdRa87" %}}{{% ref "https://www.plonkit.net/greece" "plonkit" %}}mosquito{{% goto "../../middle_east/sba/" "Alrededor de Chipre" %}}{{% ex "https://maps.app.goo.gl/ep91BSWMHnqUpWcL8" %}}.
@@ -56,7 +56,7 @@ Las dos líneas blancas son{{% goto "../denmark/" "Dinamarca" %}}o{{% goto "../p
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="margin:1em;">
-<img src="/rule/europe/greece/a8_greece.jpg" width="600px" alt="A8 greece">
+<img src="/rule/europe/greece/a8_greece.jpg" width="600px" alt="Greece GeoGuessr guide image showing a8 Greece">
 </div>
 
 
@@ -64,7 +64,7 @@ Las dos líneas blancas son{{% goto "../denmark/" "Dinamarca" %}}o{{% goto "../p
 Hay muchos pequeños monumentos parecidos a capillas llamados Kandylakia a los lados de las carreteras.{{% ex "https://maps.app.goo.gl/oAKqQYJ92ayVdhcg8" "https://maps.app.goo.gl/QrHcZcRbbptxCtPq7" "https://goo.gl/maps/yiwG1f12ZZGN94Xs9" "https://goo.gl/maps/oPxeJbemtNZUtNb39" %}}.Ubicados en zonas donde se han producido accidentes de tráfico.Parece estar ubicado cerca de los sitios donde las personas sobrevivieron milagrosamente o lamentablemente perdieron la vida.{{% by "https://www.messynessychic.com/2013/08/19/the-miniature-roadside-chapels-of-greece/" "web" "The Miniature Roadside Chapels of Greece" %}}{{% by "https://www.helleniccomserve.com/kandylakia.html" "web" "Kandylakia of Greece by Mary Papoutsy" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg#/media/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg" alt="Proskynetarion on roadside of provincial Road Pilonas - Katavias on Rhodes 5 September 2017.jpg" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:PjotrMahh1&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:PjotrMahh1 (page does not exist)">Pjotr ​​Mahhonin</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100208787">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg#/media/File:Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Proskynetarion_on_roadside_of_provincial_Road_Pilonas_-_Katavias_on_Rhodes_5_September_2017.jpg" alt="Wikimedia Commons photo showing Proskynetarion On Roadside Of Provincial Road Pilonas Katavias On Rhodes 5 September 2017" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:PjotrMahh1&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:PjotrMahh1 (page does not exist)">Pjotr ​​Mahhonin</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100208787">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -72,9 +72,9 @@ El fondo del letrero suele ser naranja.{{% ex "https://maps.app.goo.gl/F8VvmLwMV
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 22" />
-<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 25" />
-<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 23" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" alt="R GeoGuessr guide image showing Traffic Sign Gr Kok 2009 K 22" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" alt="R GeoGuessr guide image showing Traffic Sign Gr Kok 2009 K 25" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" alt="R GeoGuessr guide image showing Traffic Sign Gr Kok 2009 K 23" />
 </div>
 
 {{% notice tip %}}
@@ -83,8 +83,8 @@ La flecha es{{% goto "../albania/" "Albania" %}}En su mayoría hay flechas blanc
 
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
-<img src="/rule/europe/greece/r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" alt="Road sign π75b" />
-<img src="/rule/europe/greece/r/arrow-2.png" class="margin-ten-px" style="width:180px" alt="Arrow 2" />
+<img src="/rule/europe/greece/r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" alt="R GeoGuessr guide image showing Road Sign π75b" />
+<img src="/rule/europe/greece/r/arrow-2.png" class="margin-ten-px" style="width:180px" alt="R GeoGuessr guide image showing Arrow 2" />
 </div>
 
 {{% notice tip %}}
@@ -97,11 +97,11 @@ Los postes telefónicos suelen estar hechos de madera.{{% ex "https://goo.gl/map
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/greece/pole.png" width="95%" alt="Pole" />
+<img src="/rule/europe/greece/pole.png" width="95%" alt="Greece GeoGuessr guide image showing Pole" />
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Holidays_Greece_-_panoramio_(488).jpg#/media/File:Holidays_Greece_-_panoramio_(488).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Holidays_Greece_-_panoramio_%28488%29.jpg" alt="Holidays Greece - panoramio (488).jpg" width="95%"></a></p><p>Por Roton Piotr, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57792716">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Holidays_Greece_-_panoramio_(488).jpg#/media/File:Holidays_Greece_-_panoramio_(488).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/dc/Holidays_Greece_-_panoramio_%28488%29.jpg" alt="Wikimedia Commons photo showing Holidays Greece Panoramio (488)" width="95%"></a></p><p>Por Roton Piotr, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57792716">Enlace</a></p>
 </div>
 
 
@@ -110,7 +110,7 @@ Grecia tiene mucha luz solar y mucha piedra caliza, por lo que muchos edificios 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/greece/house.png" width="95%" alt="House" />
+<img src="/rule/europe/greece/house.png" width="95%" alt="Greece GeoGuessr guide image showing House" />
 </div>
 
 {{% notice tip %}}
@@ -118,7 +118,7 @@ hay muchos olivos{{% ex "https://goo.gl/maps/VwEkiYGU25hSdt7v8" "https://goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/greece/olive.png" width="95%" alt="Olive" />
+<img src="/rule/europe/greece/olive.png" width="95%" alt="Greece GeoGuessr guide image showing Olive" />
 </div>
 
 
@@ -127,8 +127,8 @@ Grecia·{{% goto "../albania/" "Albania" %}}・{{% goto "../montenegro/" "Monten
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/road/20150522_144002lc.jpg" width="320px" alt="20150522 144002lc" />
-<img src="/rule/europe/greece/road/mountain_trail_dirt_road.jpg" width="320px" alt="Mountain trail dirt road" />
+<img src="/rule/europe/greece/road/20150522_144002lc.jpg" width="320px" alt="Road GeoGuessr guide image showing 20150522 144002lc" />
+<img src="/rule/europe/greece/road/mountain_trail_dirt_road.jpg" width="320px" alt="Road GeoGuessr guide image showing Mountain Trail Dirt Road" />
 </div>
 
 {{% /tab %}}
@@ -200,7 +200,7 @@ Casi en sentido antihorario.<span class="quiz">28</span> Entonces intenta ir a u
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Greek_landline_area_codes_map.png#/media/File:Greek_landline_area_codes_map.png"><img width="95%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Greek_landline_area_codes_map.png/1200px-Greek_landline_area_codes_map.png" alt="ギリシャの市外局番"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Greek_landline_area_codes_map.png#/media/File:Greek_landline_area_codes_map.png"><img width="95%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Greek_landline_area_codes_map.png/1200px-Greek_landline_area_codes_map.png" alt="Wikimedia Commons photo showing 1200px Greek Landline Area Codes Map"></a></p>
 <p>Por <a href="https://el.wikipedia.org/wiki/%CE%A7%CF%81%CE%AE%CF%83%CF%84%CE%B7%CF%82:244wiki" class="extiw" title="el:Χρήστης:244wiki">244wiki</a> - <span class="int-own-work" lang="en">propio trabajo</span>, atribución, <a href="https://commons.wikimedia.org/w/index.php?curid=93910931">Enlace</a>(<a href="https://de.m.wikipedia.org/wiki/Datei:Greek_landline_area_codes_map.png">Detalles de la licencia</a>)</p>
 </div>
 {{% /tab %}}
@@ -219,7 +219,7 @@ Por ejemplo, el algodón sólo se puede producir en terrenos llanos.Las zonas co
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/greece/agri/cotton.jpg" width="95%" alt="Cotton">
+<img src="/rule/europe/greece/agri/cotton.jpg" width="95%" alt="Agri GeoGuessr guide image showing Cotton">
 </div>
 
 {{% /tab %}}
@@ -230,7 +230,7 @@ La zona azul es popular para el turismo.{{% ref "https://www.researchgate.net/fi
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/greece/agri/rural-area.jpg" width="95%" alt="Rural area">
+<img src="/rule/europe/greece/agri/rural-area.jpg" width="95%" alt="Agri GeoGuessr guide image showing Rural Area">
 </div>
 
 {{% /tab %}}
@@ -241,7 +241,7 @@ Una imagen que creé mientras miraba referencias y mapas.{{% ref "https://jgchap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/greece/cityname.jpg" width="95%" alt="Cityname">
+<img src="/rule/europe/greece/cityname.jpg" width="95%" alt="Greece GeoGuessr guide image showing Cityname">
 </div>
 
 {{% /tab %}}
@@ -266,7 +266,7 @@ No se permiten coches en la isla, por lo que el transporte se realiza a pie o en
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Idra_180_40,_Greece_-_panoramio.jpg#/media/File:Idra_180_40,_Greece_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Idra_180_40%2C_Greece_-_panoramio.jpg" alt="Idra 180 40, Greece - panoramio.jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Idra_180_40,_Greece_-_panoramio.jpg#/media/File:Idra_180_40,_Greece_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6d/Idra_180_40%2C_Greece_-_panoramio.jpg" alt="Wikimedia Commons photo showing Idra 180 40, Greece Panoramio" width="90%"></a></p>
 <p>Por theusmanmali, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53642795">Enlace</a></p>
 </div>
 {{% /tab %}}
@@ -276,7 +276,7 @@ Según los datos, hay muchos cerros sin árboles y parece ser un clima desértic
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/960px-Havouna,_Kea.jpg" width="90%" alt="960px Havouna, Kea">
+<img src="/rule/europe/greece/960px-Havouna,_Kea.jpg" width="90%" alt="Greece GeoGuessr guide image showing 960px Havouna, Kea">
 </div>
 {{% /tab %}}
 {{% tab "Sifnos" %}}
@@ -285,8 +285,8 @@ ruinas e iglesias{{% ex "https://maps.app.goo.gl/vR9eZsEPs9mCj6ZF7" "https://map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/chrisopigi_monastery_monastery_greek.jpg" width="90%" alt="Chrisopigi monastery monastery greek">
-<img src="/rule/europe/greece/apollonia_on_sifnos.jpg" width="90%" alt="Apollonia on sifnos">
+<img src="/rule/europe/greece/chrisopigi_monastery_monastery_greek.jpg" width="90%" alt="Greece GeoGuessr guide image showing Chrisopigi Monastery Monastery Greek">
+<img src="/rule/europe/greece/apollonia_on_sifnos.jpg" width="90%" alt="Greece GeoGuessr guide image showing Apollonia On Sifnos">
 </div>
 
 {{% /tab %}}
@@ -305,21 +305,21 @@ Los botes de basura a veces tienen nombres de ciudades escritos, así que verifi
 Atenas es amarilla.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/greece/athens_vouli4.jpg" alt="Athens vouli4">
+<img src="/rule/europe/greece/athens_vouli4.jpg" alt="Greece GeoGuessr guide image showing Athens vouli4">
 </div>
 
 {{% notice tip %}}
 Heraklion (una ciudad en la parte norte de Creta) tiene mucha plata.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Heraklion,port_lotniczy_-_panoramio.jpg#/media/File:Heraklion,port_lotniczy_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Heraklion%2Cport_lotniczy_-_panoramio.jpg" alt="Heraklion,port lotniczy - panoramio.jpg" height="480" width="640"></a></p><p>Por Mietek Ł, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52894268">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Heraklion,port_lotniczy_-_panoramio.jpg#/media/File:Heraklion,port_lotniczy_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Heraklion%2Cport_lotniczy_-_panoramio.jpg" alt="Wikimedia Commons photo showing Heraklion,port Lotniczy Panoramio" height="480" width="640"></a></p><p>Por Mietek Ł, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52894268">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
 Salónica es de color azul oscuro.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/greece/thessaloniki_train_station.jpg" alt="Thessaloniki train station">
+<img src="/rule/europe/greece/thessaloniki_train_station.jpg" alt="Greece GeoGuessr guide image showing Thessaloniki Train Station">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

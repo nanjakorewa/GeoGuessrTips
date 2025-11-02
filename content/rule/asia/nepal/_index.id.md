@@ -35,21 +35,21 @@ Namche Bazaar (नाम्चे बजार), sebuah pusat pendakian di Himal
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Namche_Bazaar_(38474411691).jpg#/media/File:Namche_Bazaar_(38474411691).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Namche_Bazaar_%2838474411691%29.jpg" alt="Namche Bazaar (38474411691).jpg" width="95%"></a></p><p>Oleh <a rel="nofollow" class="external text" href="https://www.flickr.com/people/57527070@N06">Lenny K Photography</a> dari Sydney, Australia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/lennykphotography/38474411691/">Namche Bazaar</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=134167077">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Namche_Bazaar_(38474411691).jpg#/media/File:Namche_Bazaar_(38474411691).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Namche_Bazaar_%2838474411691%29.jpg" alt="Wikimedia Commons photo showing Namche Bazaar (38474411691)" width="95%"></a></p><p>Oleh <a rel="nofollow" class="external text" href="https://www.flickr.com/people/57527070@N06">Lenny K Photography</a> dari Sydney, Australia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/lennykphotography/38474411691/">Namche Bazaar</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=134167077">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Berjalan di daerah pegunungan di kaki Gunung Everest {{% ex "https://maps.app.goo.gl/SfvTeL7S6MtpJdeT9" "https://maps.app.goo.gl/BH56QX51AvmnjBy48" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/nepal/mountains_mount_everest_base_0.jpg" width="95%" alt="Mountains mount everest base 0">
+<img src="/rule/asia/nepal/mountains_mount_everest_base_0.jpg" width="95%" alt="Nepal GeoGuessr guide image showing Mountains Mount Everest Base 0">
 </div>
 
 {{% notice tip %}}
 Bendera seperti yang terlihat di {{% goto "../bhutan/" "Bhutan" %}} juga sering terlihat {{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}. Toko-toko menjual perlengkapan mendaki, dengan ketinggian lokasi ditampilkan pada papan. Orang-orang di sekitar biasanya membawa tas punggung untuk pendakian.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/nepal/nepal_annapurna_himalayas_trekking.jpg" width="95%" alt="Nepal annapurna himalayas trekking">
+<img src="/rule/asia/nepal/nepal_annapurna_himalayas_trekking.jpg" width="95%" alt="Nepal GeoGuessr guide image showing Nepal Annapurna Himalayas Trekking">
 </div>
 
 {{% notice tip %}}
@@ -61,14 +61,14 @@ Per Maret 2024, tidak ada cakupan Google Street View di jalan raya, sehingga tid
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="800" height="522" alt="Traffic signs, Kathmandu, Nepal."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="800" height="522" alt="Image from live.staticflickr.com showing 13256285354 981d45fcba C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="Nepal road sign C27">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="Nepal road sign D3">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="Nepal road sign B13 L1">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="Nepal road sign A22 40">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign C27">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign D3">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign B13 L1">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign A22 40">
 </div>
 
 {{% /tab %}}

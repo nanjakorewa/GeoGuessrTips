@@ -36,7 +36,7 @@ Dulu pernah ada pusat pengambilan minyak paus di {{% ref "https://ja.wikipedia.o
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/sgssi/industrial_heritage_south_georgia.jpg" width="90%" alt="Industrial heritage south georgia">
+<img src="/rule/cs_america/sgssi/industrial_heritage_south_georgia.jpg" width="90%" alt="Sgssi GeoGuessr guide image showing Industrial Heritage South Georgia">
 </div>
 
 {{% notice tip %}}
@@ -44,7 +44,7 @@ Ada anjing laut atau penguin {{% ex "https://maps.app.goo.gl/ett9cJmVe2LzNYoK8" 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/sgssi/seeelefant_south_georgia_antarctica.jpg" width="90%" alt="Seeelefant south georgia antarctica">
+<img src="/rule/cs_america/sgssi/seeelefant_south_georgia_antarctica.jpg" width="90%" alt="Sgssi GeoGuessr guide image showing Seeelefant South Georgia Antarctica">
 </div>
 
 {{% /tab %}}

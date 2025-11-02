@@ -39,7 +39,7 @@ sc: [
 Balizadores <span class="quiz">verdes</span> são uma marca registrada da Irlanda. {{% ex "https://goo.gl/maps/TsXkH3751vxJH2xe8" "https://goo.gl/maps/8qZiGUqUbmZQrCzE8" %}}{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/green-bollard.png" width="95%" alt="Balizador irlandês" />
+<img src="/rule/europe/ireland/green-bollard.png" width="95%" alt="Ireland GeoGuessr guide image showing Green Bollard" />
 </div>
 
 
@@ -47,24 +47,24 @@ Balizadores <span class="quiz">verdes</span> são uma marca registrada da Irland
 As caixas de correio públicas também são <span class="quiz">verdes</span>. {{% goto "../../asia/china/" "China" %}} e {{% goto "../../africa/egypt/" "Egito" %}} compartilham a cor, mas não têm Street View abrangente e a paisagem é bem diferente. Na Irlanda, os formatos variam bastante.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/mailbox.jpg" width="90%" alt="Caixa de correio irlandesa" />
+<img src="/rule/europe/ireland/mailbox.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Mailbox" />
 </div>
 
 {{% notice tip %}}
 Você verá muitos triângulos ⚠️. Na Irlanda, eles costumam vir vazios; no Reino Unido, é comum haver uma figura dentro. Se houver a figura, considere o Reino Unido. Sem figura, a Irlanda ganha força. (A ilustração é caseira!)
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/ireland/warning-sign.jpg" width="90%" alt="Esboço de sinal de advertência" />
+<img src="/rule/europe/ireland/warning-sign.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Warning Sign" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/ireland/ie.png" width="120px" alt="Exemplo de sinal irlandês">
+<img src="/rule/europe/ireland/ie.png" width="120px" alt="Ireland GeoGuessr guide image showing Ie">
 </div>
 
 {{% notice tip %}}
 Ainda em dúvida entre Irlanda e Reino Unido? Uma <span class="quiz">linha tracejada amarela</span> no centro da via aponta fortemente para a Irlanda. {{% ex "https://goo.gl/maps/TpiTmP97DT8SnKge9" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Resumo da aula do mapa mundo (JP)" %}} Já uma linha de parada amarela sugere {{% goto "../jersey/" "Jersey" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/ireland-road-yellowline.png" width="95%" alt="Linha central irlandesa" />
+<img src="/rule/europe/ireland/ireland-road-yellowline.png" width="95%" alt="Ireland GeoGuessr guide image showing Ireland Road Yellowline" />
 </div>
 
 
@@ -72,7 +72,7 @@ Ainda em dúvida entre Irlanda e Reino Unido? Uma <span class="quiz">linha trace
 Os números das estradas começam por R, N ou M. No Reino Unido, as estradas usam prefixos B, A ou M.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/2023-07-29-00-32-37.png" width="590px" alt="Sinalização rodoviária irlandesa" />
+<img src="/rule/europe/ireland/2023-07-29-00-32-37.png" width="590px" alt="Ireland GeoGuessr guide image showing 2023 07 29 00 32 37" />
 </div>
 
 
@@ -91,7 +91,7 @@ Os números das estradas começam por R, N ou M. No Reino Unido, as estradas usa
 {{% tabs %}}
 {{% tab "Muros de pedra" %}}
 <div class="googlemap-if unclickable" width="95%">
-<img src="/rule/europe/ireland/burren.jpg" alt="Muro de pedra seca no Burren">
+<img src="/rule/europe/ireland/burren.jpg" alt="Ireland GeoGuessr guide image showing Burren">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ Procure o farol vermelho {{% ex "https://maps.app.goo.gl/j8DxHPDAx5dc9jK57" "htt
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ireland/inishturk_north.jpg" alt="Farol de Inishturk">
+<img src="/rule/europe/ireland/inishturk_north.jpg" alt="Ireland GeoGuessr guide image showing Inishturk North">
 </div>
 {{% /tab %}}
 {{% tab "Inishbofin" %}}
@@ -125,7 +125,7 @@ O <a href="https://www.inishbofin.com/">site oficial da ilha</a> mostra que o tu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ireland/inishbofin_fort.jpg" alt="Fortaleza em Inishbofin">
+<img src="/rule/europe/ireland/inishbofin_fort.jpg" alt="Ireland GeoGuessr guide image showing Inishbofin Fort">
 </div>
 {{% /tab %}}
 {{% tab "Dublin" %}}

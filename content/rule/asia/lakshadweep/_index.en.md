@@ -34,7 +34,7 @@ El archipiélago se extiende al suroeste de la India. La población usa inglés 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/lakshadweep/map.jpg" width="95%" alt="Map">
+<img src="/rule/asia/lakshadweep/map.jpg" width="95%" alt="Lakshadweep GeoGuessr guide image showing Map">
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ Las islas son mucho más pequeñas que {{% goto "../aani/" "las Andamán" %}} y 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/lakshadweep/960px-KAVARATTI_MAIN_ROAD.jpg" width="95%" alt="960px KAVARATTI MAIN ROAD" />
+<img src="/rule/asia/lakshadweep/960px-KAVARATTI_MAIN_ROAD.jpg" width="95%" alt="Lakshadweep GeoGuessr guide image showing 960px Kavaratti Main Road" />
 </div>
 
 {{% /tab %}}

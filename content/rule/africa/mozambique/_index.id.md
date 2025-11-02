@@ -27,7 +27,7 @@ is_unofficial: true
 Jepang mengimpor batu bara dan gas alam cair dari Mozambik sehingga neraca perdagangannya dengan negara ini mencatat defisit{{% ref "https://www.jetro.go.jp/world/africa/mz/gtir/" "Informasi perdagangan dan investasi Mozambik (JETRO)" %}}. Perusahaan seperti Mozal—yang menerima investasi dari perusahaan Jepang—telah berkembang menjadi korporasi besar di dalam negeri, menunjukkan eratnya hubungan Jepang dan Mozambik.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mozambique/Mozal_logo.png" alt="Mozal logo">
+<img src="/rule/africa/mozambique/Mozal_logo.png" alt="Mozambique GeoGuessr guide image showing Mozal Logo">
 </div>
 
 {{% /tab %}}

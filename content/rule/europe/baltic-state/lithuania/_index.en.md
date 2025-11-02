@@ -51,7 +51,7 @@ Lithuanian bollards often feature orange reflectors. Other countries may use col
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Bollards across the Baltic states" />
+<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Lithuania GeoGuessr guide image showing Bollar Li La Es" />
 </div>
 
 {{% notice tip %}}
@@ -64,9 +64,9 @@ Numbered signs stand at a <span class="quiz">diagonal</span>. Crossings use <spa
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
-<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
-<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Estonia Road Sign 311a" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Latvia Road Sign 302" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Lithuania Background" />
 </div>
 
 
@@ -74,9 +74,9 @@ Numbered signs stand at a <span class="quiz">diagonal</span>. Crossings use <spa
 Chevron colours also vary across the Baltic states. From left to right: <span class="quiz">Estonia</span>, <span class="quiz">Latvia</span>, and <span class="quiz">Lithuania</span>. {{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
+<img src="/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
+<img src="/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
 </div>
 
 {{% /tab %}}

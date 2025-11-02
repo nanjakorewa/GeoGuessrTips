@@ -36,7 +36,7 @@ sc: [
 後ろのナンバープレートが白背景に青文字が多い{{% ex "https://goo.gl/maps/s64SxiuWMRpySiP36" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/gGGogQKkGbfVVv4E7" "https://goo.gl/maps/AeiypzDff9piNJtd6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="450px" alt="Car" />
+<img src="./car.jpg" width="450px" alt="Costa Rica GeoGuessr guide image showing Car" />
 </div>
 
 
@@ -52,7 +52,7 @@ By Zcarstvnz - This file has been extracted from another file, <a href="https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="beach.png" width="85%" alt="Beach" />
+<img src="beach.png" width="85%" alt="Costa Rica GeoGuessr guide image showing Beach" />
 </div>
 
 

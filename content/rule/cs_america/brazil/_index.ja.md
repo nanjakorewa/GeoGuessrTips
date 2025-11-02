@@ -48,21 +48,21 @@ sc: [
 言語は<span class="quiz">ポルトガル</span>語であり「<span class="quiz">Ã・ã</span>」の文字が特徴的
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./st/Placa_rod_f_dias.png"width="440xp" alt="Placa rod f dias">
+<img src="./st/Placa_rod_f_dias.png"width="440xp" alt="St GeoGuessr guide image showing Placa Rod F Dias">
 </div>
 
 {{% notice tip %}}
 標識の裏側が<span class="quiz">黒い</span>ものが多い（背景画像は<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">こちら</a>のものを使用, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./traffic-sign-example.png" width="90%" alt="Traffic sign example">
+<img src="./traffic-sign-example.png" width="90%" alt="Brazil GeoGuessr guide image showing Traffic Sign Example">
 </div>
 
 {{% notice tip %}}
 家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナを使う{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}。ただしこれだけでは確定できない。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./house.jpg" width="95%" alt="House">
+<img src="./house.jpg" width="95%" alt="Brazil GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Nissan Leaf taxi Rio de Janeiro"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 45615285325 ef2d1f1841 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% lb 50 %}}
 ![](2023-04-18-23-40-43.png)
@@ -83,12 +83,12 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 南米石油最大手ペトロブラスのロゴがある{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./petrobras_no_b_laranjeiras.jpg" width="95%" alt="Petrobras no b laranjeiras">
+<img src="./petrobras_no_b_laranjeiras.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Petrobras No B Laranjeiras">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Petrobras horizontal logo">
-<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Banco Ita%C3%BA logo">
+<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Petrobras Horizontal Logo">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Banco Ita%C3%BA Logo">
 </div>
 
 
@@ -96,12 +96,12 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/categorias/solucoes-fortlev-caixa-dagua-pequenos-volumes/" "Soluções Fortlev Caixa d'Água Pequenos Volumes" %}}。色はいくつか種類があるが形が特徴的。屋根の上に乗っているのがわかる。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wolever/2622433346/" title="My View 2"><img src="https://live.staticflickr.com/3019/2622433346_c36b1b64d7_z.jpg" width="640" height="427" alt="My View 2"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wolever/2622433346/" title="My View 2"><img src="https://live.staticflickr.com/3019/2622433346_c36b1b64d7_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 2622433346 c36b1b64d7 Z"/></a>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-13-03-04-56.png" alt="2023 06 13 03 04 56">
-<img src="2023-06-13-03-05-06.png" alt="2023 06 13 03 05 06">
+<img src="2023-06-13-03-04-56.png" alt="Brazil GeoGuessr guide image showing 2023 06 13 03 04 56">
+<img src="2023-06-13-03-05-06.png" alt="Brazil GeoGuessr guide image showing 2023 06 13 03 05 06">
 </div>
 
 
@@ -110,7 +110,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pole.jpg" width="90%" alt="Pole" />
+<img src="./pole.jpg" width="90%" alt="Brazil GeoGuessr guide image showing Pole" />
 </div>
 
 {{% notice tip %}}
@@ -122,7 +122,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg#/media/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Catarina_-_SC-303_%28ponto_cr%C3%ADtico%29_%288102621957%29.jpg" alt="File:Santa Catarina - SC-303 (ponto crítico) (8102621957).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51889924@N04">Agencia CNT de Noticias</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/agenciacnt/8102621957/">Santa Catarina - SC-303 (ponto crítico)</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64221741">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg#/media/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Catarina_-_SC-303_%28ponto_cr%C3%ADtico%29_%288102621957%29.jpg" alt="Wikimedia Commons photo showing Santa Catarina Sc 303 (ponto crítico) (8102621957)" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51889924@N04">Agencia CNT de Noticias</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/agenciacnt/8102621957/">Santa Catarina - SC-303 (ponto crítico)</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64221741">Link</a></p>
 </div>
 
 
@@ -146,7 +146,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./banco_itau_agencia_leblon.jpg" width="95%" alt="Banco itau agencia leblon">
+<img src="./banco_itau_agencia_leblon.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Banco Itau Agencia Leblon">
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -177,7 +177,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
+<img src="2023-04-26-01-07-35.png" style="max-width:80%;" alt="Brazil GeoGuessr guide image showing 2023 04 26 01 07 35"/>
 <p>By Magno Brasil - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons(Link)</a></p>
 </div>
 {{% /tab %}}
@@ -188,7 +188,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rodovia_br460_carmo_de.jpg" width="95%" alt="Rodovia br460 carmo de">
+<img src="./rodovia_br460_carmo_de.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Rodovia br460 Carmo De">
 </div>
 {{% /tab %}}
 {{% tab "Florianópolis周辺" %}}
@@ -199,7 +199,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Arauc%C3%A1ria_-_centro_-_panoramio.jpg#/media/File:Araucária_-_centro_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arauc%C3%A1ria_-_centro_-_panoramio.jpg" alt="Araucária - centro - panoramio.jpg" height="720" width="90%"></a></p><p>By dnsilva1, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53785493">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Arauc%C3%A1ria_-_centro_-_panoramio.jpg#/media/File:Araucária_-_centro_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arauc%C3%A1ria_-_centro_-_panoramio.jpg" alt="Wikimedia Commons photo showing Araucária Centro Panoramio" height="720" width="90%"></a></p><p>By dnsilva1, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53785493">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -225,7 +225,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% tab "植生" %}}
 
 <div class="googlemap-if">
-<div class="unclickable"><img src="2023-04-27-08-27-15.png" alt="2023 04 27 08 27 15" /></div>
+<div class="unclickable"><img src="2023-04-27-08-27-15.png" alt="Brazil GeoGuessr guide image showing 2023 04 27 08 27 15" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">画像出典：By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
 {{% /tab %}}
@@ -289,7 +289,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% tabs %}}
 {{% tab "パラナ松" %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="Araucaria angustifolia　Araucaria brasiliense　Brazilian pine Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="Araucaria angustifolia Araucaria brasiliense Brazilian pine Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="Araucaria angustifolia　Araucaria brasiliense　Brazilian pine Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="Image from live.staticflickr.com showing 35686981522 60c86783ec Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -298,7 +298,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /tab %}}
 {{% tab "ブラジルロウヤシ" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Carnauba.jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Wikimedia Commons photo showing 1200px Carnauba" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC BY 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -307,7 +307,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /tab %}}
 {{% tab "ババス" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-07-20-45-47.png" alt="2023 05 07 20 45 47" />
+<img src="2023-05-07-20-45-47.png" alt="Brazil GeoGuessr guide image showing 2023 05 07 20 45 47" />
 </div>
 
 {{% notice tip %}}
@@ -316,7 +316,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /tab %}}
 {{% tab "シアグルス・コロナタ" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Syagrus coronata 12zz.jpg" width="70%"></a></p><p>By Photo by David J. Stang - source: David Stang. First published at ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Wikimedia Commons photo showing Syagrus Coronata 12zz" width="70%"></a></p><p>By Photo by David J. Stang - source: David Stang. First published at ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -325,7 +325,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /tab %}}
 {{% tab "アサイー" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Euterpe precatoria (19866677541).jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> from Gibsons, B.C., Canada - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Wikimedia Commons photo showing Euterpe Precatoria (19866677541)" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> from Gibsons, B.C., Canada - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -334,7 +334,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 {{% /tab %}}
 {{% tab "Eucalyptus Grandis" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Eucalyptus grandis Kerewong State Forest 55 metres tall.jpg" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Wikimedia Commons photo showing Eucalyptus Grandis Kerewong State Forest 55 Metres Tall" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -358,7 +358,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 尖った山が見える{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}。青いバギーに乗っている区間もある{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilhagrande_abraao1.jpg" width="95%" alt="Ilhagrande abraao1">
+<img src="./ilhagrande_abraao1.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Ilhagrande abraao1">
 </div>
 {{% /tab %}}
 {{% tab "Fernando de Noronha" %}}
@@ -366,7 +366,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 電柱に穴が開いている。岩場が多く船に乗る場所もある。凄く特徴的な岩があるのでそれで分かるかも{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./brazil_1091369.jpg" width="95%" alt="Brazil 1091369">
+<img src="./brazil_1091369.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Brazil 1091369">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

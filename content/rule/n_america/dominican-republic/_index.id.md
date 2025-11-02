@@ -47,7 +47,7 @@ Ada beberapa titik Street View di luar kedua kota besar tersebut{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/dominican-republic/poles.png" width="100%" alt="Poles">
+<img src="/rule/n_america/dominican-republic/poles.png" width="100%" alt="Dominican Republic GeoGuessr guide image showing Poles">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -13,7 +13,7 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/chiba/" title="千葉" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">
-            <img src="https://geopinning.space/flags/Osaka.svg" alt="千葉" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Osaka.svg" alt="Image from geopinning.space showing Osaka" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">千葉</a></p>
     </li>
 </ul>
@@ -32,7 +32,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="kanto_railway_ryugasaki_line_0.jpg" alt="Kanto railway ryugasaki line 0">
+<img src="kanto_railway_ryugasaki_line_0.jpg" alt="Kanto GeoGuessr guide image showing Kanto Railway Ryugasaki Line 0">
 </div>
 
 {{% /tab %}}

@@ -41,7 +41,7 @@ sc: [
 Yellow plates or plates with a yellow left band are common.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/senegal/car.png" width="90%" alt="Car">
+<img src="/rule/africa/senegal/car.png" width="90%" alt="Senegal GeoGuessr guide image showing Car">
 </div>
 
 {{% lb 50 %}}
@@ -52,23 +52,23 @@ Yellow plates or plates with a yellow left band are common.
 French‑style poles and bollards appear; street signs with <span class="quiz">RUE</span> are also found.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Joseph Gomis à Dakar">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Mohamed V à Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Joseph Gomis À Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Mohamed V À Dakar">
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_à_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" width="700" alt="Climat chimique à MBORO"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_à_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" width="700" alt="Wikimedia Commons photo showing Climat Chimique À Mboro"></a></p>
 </div>
 
 {{% notice tip %}}
 Thatched roofs appear in suburbs; <span class="quiz">baobab</span> trees are found in savanna zones.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="960px A l'entrée de Ndoussoudji">
+<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="Senegal GeoGuessr guide image showing 960px A l'entrée De Ndoussoudji">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%" alt="960px Senegal 011">
+<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%" alt="Senegal GeoGuessr guide image showing 960px Senegal 011">
 </div>
 
 {{% /tab %}}

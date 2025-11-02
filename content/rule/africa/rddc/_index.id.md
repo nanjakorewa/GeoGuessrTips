@@ -33,7 +33,7 @@ sc: [
 Chukudu縺ｨ蜻ｼ縺ｰ繧後ｋ譛ｨ陬ｽ縺ｮ謇区款縺苓・霆｢霆翫・繧ｳ繝ｳ繧ｴ豌台ｸｻ蜈ｱ蜥悟嵜縺ｧ縺励°隕九ｉ繧後↑縺к{% ref "https://en.wikipedia.org/wiki/Chukudu" "Chukudu" %}}縲・
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Tshukudu_Goma_RDC.jpg#/media/File:Tshukudu_Goma_RDC.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Tshukudu_Goma_RDC.jpg" alt="Tshukudu Goma RDC.jpg" height="720" width="1080"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Lahminewski_Lab" title="User:Lahminewski Lab">Lahminewski Lab</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=69695527">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tshukudu_Goma_RDC.jpg#/media/File:Tshukudu_Goma_RDC.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/Tshukudu_Goma_RDC.jpg" alt="Wikimedia Commons photo showing Tshukudu Goma Rdc" height="720" width="1080"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Lahminewski_Lab" title="User:Lahminewski Lab">Lahminewski Lab</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=69695527">Link</a></p>
 </div>
 
 {{% /tab %}}

@@ -55,7 +55,7 @@ The Google Car is typically visible except on Aunu'u Island {{% ex "https://maps
 Islands belonging to American Samoa can also be found east of the main Samoa islands {{% ex "https://maps.app.goo.gl/LsC1twu5U19neeqz6" "https://maps.app.goo.gl/CYg7qaYAPMMJLeef8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%EF%BC%9D%E3%82%AA%E3%83%AD%E3%82%BB%E3%82%AC%E5%B3%B6" "Ofu-Olosega Island" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/samoa/960px-Ofu_Olosega_NPS.jpg" width="95%" alt="960px Ofu Olosega NPS" />
+<img src="/rule/oceania/samoa/960px-Ofu_Olosega_NPS.jpg" width="95%" alt="Samoa GeoGuessr guide image showing 960px Ofu Olosega Nps" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

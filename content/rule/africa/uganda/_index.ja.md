@@ -39,7 +39,7 @@ sc: [
 旧{{% goto "../../europe/united-kingdom/" "イギリス" %}}植民地だった影響が残っており、<span class="quiz">左側</span>通行かつ車の後ろに<span class="quiz">黄</span>色ナンバープレートが見つかる{{% ex "https://maps.app.goo.gl/CREz2ekXtuwWXDdo9" "https://maps.app.goo.gl/HAGMLSK3TnfMq4FH7" "https://maps.app.goo.gl/MA9yacNwrN2yVhj27" %}}。白いナンバープレートも多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="640px-Boda-Boda-Uganda.jpg" width="600px" alt="640px Boda Boda Uganda">
+<img src="640px-Boda-Boda-Uganda.jpg" width="600px" alt="Uganda GeoGuessr guide image showing 640px Boda Boda Uganda">
 </div>
 
 
@@ -47,7 +47,7 @@ sc: [
 水色の縞模様があるバンはタクシー（もしくは乗り合いバス）でこれも道路でよく見かける{{% ex "https://maps.app.goo.gl/pXdiseRCedK8Tj8aA" "https://maps.app.goo.gl/fGH4diYE1qJHm2VVA" "https://maps.app.goo.gl/L5r9rGxZArPVEU4j8" %}}{{% by "https://www.iasu.kyoto-u.ac.jp/wp-content/uploads/2016/02/b69ec2c58b244150da65713564e96594.pdf" "web" "ウガンダ都市部におけるボダボダ（バイクタクシー）の経済的・社会的位置づけ" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="640px-Taxis_in_Kampala.jpg" width="600px" alt="640px Taxis in Kampala">
+<img src="640px-Taxis_in_Kampala.jpg" width="600px" alt="Uganda GeoGuessr guide image showing 640px Taxis In Kampala">
 </div>
 
 
@@ -55,7 +55,7 @@ sc: [
 家は木やレンガでできており{{% ex "https://maps.app.goo.gl/MoXXCpsD2RjGFDvXA" "https://maps.app.goo.gl/wE9Ewg24QnwFRoSQ8" %}}、町中にも赤茶色の土が広がっている{{% ex "https://maps.app.goo.gl/5C2Qd2sY1wCh1zQP6" "https://maps.app.goo.gl/zuaA9cw3xtT9kdhLA" "https://maps.app.goo.gl/pQSSM9pCPPBnnXuK6" "https://maps.app.goo.gl/MQVK3eDyoGdbPYTs7" "https://maps.app.goo.gl/upzt1w6aVhMac2nt8" %}}{{% ref "https://farmpro.jp/230714-2/" "ウガンダの土について考える" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="house.jpg" width="600px" alt="House">
+<img src="house.jpg" width="600px" alt="Uganda GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
@@ -83,7 +83,7 @@ sc: [
 国立公園でたまに見る木{{% ex "https://maps.app.goo.gl/pBUVTmyj1bbSiP6W9" "https://maps.app.goo.gl/nWs4K4wcRTi8GQG39" "https://maps.app.goo.gl/gdmJFwDVwgoTmk1m7" "https://maps.app.goo.gl/mceXqZtE6CkMEuLe6" %}}。チュウテンカクと呼ぶらしい。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="euphorbia_ingens_zimbabwe.jpg" alt="Euphorbia ingens zimbabwe">
+<img src="euphorbia_ingens_zimbabwe.jpg" alt="Uganda GeoGuessr guide image showing Euphorbia Ingens Zimbabwe">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

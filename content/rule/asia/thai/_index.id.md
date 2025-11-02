@@ -33,7 +33,7 @@ Tiang rambu lalu lintas memiliki pola garis merah-putih {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road1.jpg" width="95%" alt="Road1">
+<img src="./road1.jpg" width="95%" alt="Thai GeoGuessr guide image showing road1">
 </div>
 
 {{% notice tip %}}
@@ -41,7 +41,7 @@ Bahasa Vietnam menggunakan huruf Latin, sehingga cukup mudah dibedakan dari {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
+<img src="./street_market_hanoi_vietnam_5.jpg" width="95%" alt="Thai GeoGuessr guide image showing Street Market Hanoi Vietnam 5">
 </div>
 
 {{% notice tip %}}
@@ -49,7 +49,7 @@ Bolard merah-putih ditemukan di beberapa lokasi {{% ex "https://maps.app.goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:The_region_of_Binh_Hoa_committee.jpg#/media/File:The_region_of_Binh_Hoa_committee.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_region_of_Binh_Hoa_committee.jpg" alt="The region of Binh Hoa committee.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Y_Kpia_Mlo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Y Kpia Mlo (page does not exist)">Y Kpia Mlo</a> - <span class="int-own-work" lang="id">Karya pribadi</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10847824">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:The_region_of_Binh_Hoa_committee.jpg#/media/File:The_region_of_Binh_Hoa_committee.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_region_of_Binh_Hoa_committee.jpg" alt="Wikimedia Commons photo showing The Region Of Binh Hoa Committee" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Y_Kpia_Mlo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Y Kpia Mlo (page does not exist)">Y Kpia Mlo</a> - <span class="int-own-work" lang="id">Karya pribadi</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10847824">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -77,7 +77,7 @@ Rekaman referensi
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -86,11 +86,11 @@ Jika terdapat pohon kelapa sawit seperti ini, kemungkinan besar berada di datara
 {{% /tab %}}
 {{% tab "Karet" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Thai GeoGuessr guide image showing Rubber Tree Distribution" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/rubberwood.jpg" alt="Rubberwood">
+<img src="/rule/asia/thai/rubberwood.jpg" alt="Thai GeoGuessr guide image showing Rubberwood">
 </div>
 
 {{% notice tip %}}
@@ -99,7 +99,7 @@ Pohon karet umumnya banyak ditemukan di semenanjung bagian selatan {{% ex "https
 {{% /tab %}}
 {{% tab "Jagung" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -108,7 +108,7 @@ Sama seperti di Amerika Serikat, area produksi jagung biasanya berdekatan dengan
 {{% /tab %}}
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}
@@ -158,7 +158,7 @@ Bagian selatan (semenanjung, dekat pantai). Kelapa sawit juga ditemukan di beber
 {{% tabs %}}
 {{% tab "Kode Area Telepon" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Kode area telepon Thailand" height="720" width="409"></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Wikimedia Commons photo showing Thailand Telephone Area Codes" height="720" width="409"></a>
 </p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Ponpan" title="User:Ponpan">Ponpan</a> - Gambar <a href="https://en.wikipedia.org/wiki/vector_image" class="extiw" title="w:vector image">vektor</a> ini mencakup elemen yang telah diambil atau diadaptasi dari file ini.</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79476331">Link</a></p>
 </div>
 {{% /tab %}}
@@ -180,7 +180,7 @@ Pulau ini memiliki jalan nomor 4169 yang mengelilingi seluruh pulau {{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%" alt="Samui koh samui bangrak">
+<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%" alt="Thai GeoGuessr guide image showing Samui Koh Samui Bangrak">
 </div>
 
 {{% /tab %}}
@@ -191,7 +191,7 @@ Di kawasan wisata sering terlihat tanda bertuliskan "Koh Lipe" {{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Walking street At Lipe Island (Koh Lipe) - panoramio.jpg" width="90%"></a></p><p>Oleh <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Wikimedia Commons photo showing Walking Street At Lipe Island(Koh Lipe) Panoramio" width="90%"></a></p><p>Oleh <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Link</a></p>
 </div>
 
 {{% /tab %}}

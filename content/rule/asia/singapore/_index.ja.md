@@ -40,13 +40,13 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./joo_chiat_26.jpg" width="550" alt="Joo chiat 26">
+<img src="./joo_chiat_26.jpg" width="550" alt="Singapore GeoGuessr guide image showing Joo Chiat 26">
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" alt="Singapore road sign Mandatory Give way" />
-<img src="./r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" alt="Singapore road sign Mandatory Stop" />
-<img src="./r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" alt="Singapore road sign Prohibitory Speed limit 50" />
+<img src="./r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Mandatory Give Way" />
+<img src="./r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Mandatory Stop" />
+<img src="./r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Prohibitory Speed Limit 50" />
 </div>
 
 
@@ -55,21 +55,21 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./img-recycle.jpg" width="500px" alt="Img recycle">
+<img src="./img-recycle.jpg" width="500px" alt="Singapore GeoGuessr guide image showing Img Recycle">
 </div>
 
 {{% notice tip %}}
 英語・中国語・マレー語・タミル語の4言語で表記された看板がある{{% ex "https://maps.app.goo.gl/UVdCDU1s1WJDGPz68" "https://maps.app.goo.gl/eWXodbYft29KcsiL7" "https://maps.app.goo.gl/JppGt3PJH1YoA47u5" "https://maps.app.goo.gl/4N7eTCLYKrWvmwmV9" %}}。稀に{{% goto "../malaysia/" "マレーシア" %}}の都市部でも4言語の看板がある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./danger_keep_out_sign_6.jpg" width="90%" alt="Danger keep out sign 6">
+<img src="./danger_keep_out_sign_6.jpg" width="90%" alt="Singapore GeoGuessr guide image showing Danger Keep Out Sign 6">
 </div>
 
 {{% notice tip %}}
 信号を支えるポールに穴が空いている{{% by "https://www.plonkit.net/singapore" "plonkit" %}}。緑色の通り名の看板もよく見る{{% ex "https://maps.app.goo.gl/vTDAMFUBSiJiaEqe9" "https://maps.app.goo.gl/2eNBSMtmZ97KfNae7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG#/media/File:Shenton_Way_2,_Jan_06.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Shenton_Way_2%2C_Jan_06.JPG" alt="Shenton Way 2, Jan 06.JPG" width="90%"></a></p><p>By <a href="https://en.wikipedia.org/wiki/User:Sengkang" class="extiw" title="en:User:Sengkang">User:Sengkang</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="//commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG" title="Copyrighted free use">Copyrighted free use</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=759583">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG#/media/File:Shenton_Way_2,_Jan_06.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Shenton_Way_2%2C_Jan_06.JPG" alt="Wikimedia Commons photo showing Shenton Way 2, Jan 06" width="90%"></a></p><p>By <a href="https://en.wikipedia.org/wiki/User:Sengkang" class="extiw" title="en:User:Sengkang">User:Sengkang</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="//commons.wikimedia.org/wiki/File:Shenton_Way_2,_Jan_06.JPG" title="Copyrighted free use">Copyrighted free use</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=759583">Link</a></p>
 </div>
 
 {{% /tab %}}

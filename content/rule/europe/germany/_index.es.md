@@ -54,13 +54,13 @@ Una señal de <span class="quiz">Einbahnstraße</span> confirma que estás en Al
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Image from live.staticflickr.com showing 5408483796 c4e4342705 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="Zeichen 220 20 Einbahnstraße, rechtsweisend, StVO 2017">
-<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, StVO 2017">
-<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, StVO 1992">
+<img src="/rule/europe/germany/r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="R GeoGuessr guide image showing Zeichen 220 20 Einbahnstraße, rechtsweisend, Stvo 2017">
+<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="R GeoGuessr guide image showing Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, Stvo 2017">
+<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Germany GeoGuessr guide image showing Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, Stvo 1992">
 </div>
 
 {{% notice tip %}}
@@ -68,15 +68,15 @@ Los carteles direccionales amarillos o naranjas con números de carretera abunda
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%" alt="Junction traffic island road">
+<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%" alt="Germany GeoGuessr guide image showing Junction Traffic Island Road">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
-<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Rs3">
+<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
+<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/rs2.svg" width="95%" alt="Rs2">
+<img src="/rule/europe/germany/rs2.svg" width="95%" alt="Germany GeoGuessr guide image showing rs2">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Los bolardos presentan cuerpo blanco y reflectores blancos o naranjas{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard-de.svg" width="180px" alt="Bolardo alemán" />
+<img src="./r/bollard-de.svg" width="180px" alt="R GeoGuessr guide image showing Bollard De" />
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ Las paradas de transporte público se marcan con el círculo verde “H” de Ha
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bus-stop-board.jpg" width="60%" alt="Bus stop board">
+<img src="./bus-stop-board.jpg" width="60%" alt="Germany GeoGuessr guide image showing Bus Stop Board">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ El viejo Gen2 produce desenfoques cuadrados y colores apagados; los despliegues 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rd2.jpg" width="95%" alt="Rd2">
+<img src="./rd2.jpg" width="95%" alt="Germany GeoGuessr guide image showing rd2">
 </div>
 
 {{% /tab %}}
@@ -111,7 +111,7 @@ Los cruces de autopista usan escudos amarillos con la nomenclatura “A###”{{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./autobahn.jpg" width="95%" alt="Autobahn">
+<img src="./autobahn.jpg" width="95%" alt="Germany GeoGuessr guide image showing Autobahn">
 </div>
 
 {{% /tab %}}
@@ -132,7 +132,7 @@ Los cruces de autopista usan escudos amarillos con la nomenclatura “A###”{{%
 Esperar pinares y claros de tala{{% ex "https://goo.gl/maps/kr76eG25s3p3187i7" "https://goo.gl/maps/iJHnDTBqmdGpSfmT6" "https://goo.gl/maps/QJbscND6g9aCX57QA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./harz_forest.jpg" width="95%" alt="Harz forest">
+<img src="./harz_forest.jpg" width="95%" alt="Germany GeoGuessr guide image showing Harz Forest">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Sylt" %}}
@@ -140,12 +140,12 @@ Esperar pinares y claros de tala{{% ex "https://goo.gl/maps/kr76eG25s3p3187i7" "
 Sylt ofrece paisajes dunares sin vegetación arbórea{{% ex "https://goo.gl/maps/wFYycBKzt8NkduzF7" "https://goo.gl/maps/HscUhbVHEXjX44Fb6" %}}{{% ref "https://en.wikipedia.org/wiki/Sylt" "Sylt" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" alt="Sylt dunes nature landscape" />
+<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" alt="Germany GeoGuessr guide image showing Sylt Dunes Nature Landscape" />
 </div>
 {{% /tab %}}
 {{% tab "Colza" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/rapsfeld03.jpg" alt="Rapsfeld03">
+<img src="/rule/europe/germany/rapsfeld03.jpg" alt="Germany GeoGuessr guide image showing rapsfeld03">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -164,7 +164,7 @@ Sylt ofrece paisajes dunares sin vegetación arbórea{{% ex "https://goo.gl/maps
 Las orillas fluviales muestran hileras de edificios de ladrillo{{% ex "https://goo.gl/maps/Q8HuMRd2AhMpQeHC9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF" "ハンブルグ" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Speicherstadt hamburg brick 1095857" />
+<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Germany GeoGuessr guide image showing Speicherstadt Hamburg Brick 1095857" />
 </div>
 {{% /tab %}}
 {{% tab "Placas urbanas" %}}
@@ -176,28 +176,28 @@ Las orillas fluviales muestran hileras de edificios de ladrillo{{% ex "https://g
 </ul>
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Berlin historic street names">
+<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Germany GeoGuessr guide image showing Berlin Historic Street Names">
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
+<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Germany GeoGuessr guide image showing Munich Marienplatz Street Sign">
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
+<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Germany GeoGuessr guide image showing Lew Kopelew Weg Koln">
 </div>
 {{% /tab %}}
 {{% tab "Berlín" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Berlin historic street names">
+<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Germany GeoGuessr guide image showing Berlin Historic Street Names">
 </div>
 {{% /tab %}}
 {{% tab "Múnich" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
+<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Germany GeoGuessr guide image showing Munich Marienplatz Street Sign">
 </div>
 {{% /tab %}}
 {{% tab "Colonia" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
+<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Germany GeoGuessr guide image showing Lew Kopelew Weg Koln">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -207,7 +207,7 @@ La densidad industrial varía mucho; GfK publicó un mapa con empleados manufact
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/201601_mom.webp" width="600px" alt="201601 mom"></p>
+<p><img src="/rule/europe/germany/201601_mom.webp" width="600px" alt="Germany GeoGuessr guide image showing 201601 Mom"></p>
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>

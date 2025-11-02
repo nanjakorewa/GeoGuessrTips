@@ -26,11 +26,11 @@ is_unofficial: true
 {{% tab "w-etf" %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/libya/981px-Tripoli_CBD.jpg" width="90%" alt="981px Tripoli CBD">
+<img src="/rule/africa/libya/981px-Tripoli_CBD.jpg" width="90%" alt="Libya GeoGuessr guide image showing 981px Tripoli Cbd">
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Baladiya_Street_Tripoli_Libya.JPG#/media/File:Baladiya_Street_Tripoli_Libya.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Baladiya_Street_Tripoli_Libya.JPG" width="90%" alt="Baladiya Street Tripoli Libya"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Baladiya_Street_Tripoli_Libya.JPG#/media/File:Baladiya_Street_Tripoli_Libya.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Baladiya_Street_Tripoli_Libya.JPG" width="90%" alt="Wikimedia Commons photo showing Baladiya Street Tripoli Libya"></a></p>
 </div>
 
 {{% /tab %}}

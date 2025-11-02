@@ -13,17 +13,17 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/aichi/" title="愛知" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/aichi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Aichi.svg" alt="愛知" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Aichi.svg" alt="Image from geopinning.space showing Aichi" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/aichi/" class="flag-link">愛知</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/shizuoka/" title="静岡" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/shizuoka/" class="flag-link">
-            <img src="https://geopinning.space/flags/Shizuoka.svg" alt="静岡" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Shizuoka.svg" alt="Image from geopinning.space showing Shizuoka" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/shizuoka/" class="flag-link">静岡</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/yamanashi/" title="山梨" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/yamanashi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Yamanashi.svg" alt="山梨" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Yamanashi.svg" alt="Image from geopinning.space showing Yamanashi" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/yamanashi/" class="flag-link">山梨</a></p>
     </li>
 </ul>
@@ -42,12 +42,12 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-chubu.png" width="220px" alt="Pole chubu">
+<img src="../pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
 </div>
 
 <div class="googlemap-if">
-<img src="CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="CHUBU Electric Power">
-<img src="CHUBU_Electric_Power_logo.svg" width="230px" alt="CHUBU Electric Power logo">
+<img src="CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="Chubu GeoGuessr guide image showing Chubu Electric Power">
+<img src="CHUBU_Electric_Power_logo.svg" width="230px" alt="Chubu GeoGuessr guide image showing Chubu Electric Power Logo">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="nobi_plain_nagoya_from.jpg" alt="Nobi plain nagoya from">
+<img src="nobi_plain_nagoya_from.jpg" alt="Chubu GeoGuessr guide image showing Nobi Plain Nagoya From">
 </div>
 
 {{% /tab %}}
@@ -90,7 +90,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-hokuriku.png" width="420px" alt="Pole hokuriku">
+<img src="../pole/pole-hokuriku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Hokuriku">
 </div>
 
 {{% /tab %}}

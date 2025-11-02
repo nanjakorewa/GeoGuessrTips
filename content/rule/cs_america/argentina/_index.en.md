@@ -40,7 +40,7 @@ sc: [
 When the license plate is mosaiced, the center is <span class="quiz">becomes blackish</span>{{% ex "https://maps.app.goo.gl/u7uQxHHTZA19YShW7" "https://maps.app.goo.gl/9myJgmbTH5K1bKLH8" "https://maps.app.goo.gl/7DaWy9xsURK71AqD8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/argentina/taxi.jpg" width="90%" alt="Taxi">
+<img src="/rule/cs_america/argentina/taxi.jpg" width="90%" alt="Argentina GeoGuessr guide image showing Taxi">
 </div>
 {{% lb 50 small %}}
 ![](/rule/cs_america/argentina/2023-04-12-11-42-57.png)
@@ -53,7 +53,7 @@ Photos taken after 2016 may not be black numbers.{{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/Placas_de_veículos_do_Mercosul_mercosur.jpg" alt="Placas de veículos do Mercosul mercosur">
+<img src="/rule/cs_america/argentina/Placas_de_veículos_do_Mercosul_mercosur.jpg" alt="Argentina GeoGuessr guide image showing Placas De Veículos Do Mercosul Mercosur">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Google Car <span class="quiz">black</span> color{{% ex "https://maps.app.goo.gl/
 Argentina and{{% goto "../uruguay/" "Uruguay" %}}A street name signboard that looks like it could be found in.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/road-sign.jpg" width="90%" alt="Road sign">
+<img src="/rule/cs_america/argentina/road-sign.jpg" width="90%" alt="Argentina GeoGuessr guide image showing Road Sign">
 </div>
 
 
@@ -75,11 +75,11 @@ Argentina and{{% goto "../uruguay/" "Uruguay" %}}A street name signboard that lo
 There may be a small sign on the side of the road with the road number written on it.{{% ex "https://maps.app.goo.gl/HbiufkgCGYbvbKpB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/argentina/2011_101_18_140540.jpg" width="95%" alt="2011 101 18 140540" />
+<img src="/rule/cs_america/argentina/2011_101_18_140540.jpg" width="95%" alt="Argentina GeoGuessr guide image showing 2011 101 18 140540" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/r/road-sign.png" width="170px" alt="Road sign">
+<img src="/rule/cs_america/argentina/r/road-sign.png" width="170px" alt="R GeoGuessr guide image showing Road Sign">
 </div>
 
 
@@ -87,7 +87,7 @@ There may be a small sign on the side of the road with the road number written o
 Owns many shale oil fields in Argentina <span class="quiz">YPF (Yacimientos Petroliferos Fiscales)</span> gas station.blue sign{{% ex "https://maps.app.goo.gl/CetzCF3MWpnLapD89" %}}or drums{{% ex "https://maps.app.goo.gl/c7NoLJHSy2NrQ2iV6" "https://maps.app.goo.gl/jy1mLTfiqUcHsArK9" %}}is the landmark.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/junin_av_republica_20060428.jpg" width="90%" alt="Junin av republica 20060428" />
+<img src="/rule/cs_america/argentina/junin_av_republica_20060428.jpg" width="90%" alt="Argentina GeoGuessr guide image showing Junin Av Republica 20060428" />
 </div>
 
 {{% /tab %}}
@@ -125,13 +125,13 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% tab "Vegetation distribution" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_Argentina_Vegetaci%C3%B3n.svg#/media/File:Mapa_Argentina_Vegetación.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mapa_Argentina_Vegetaci%C3%B3n.svg" alt="Mapa Argentina Vegetación.svg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Someone83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Someone83 (page does not exist)">Someone83</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4560348">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_Argentina_Vegetaci%C3%B3n.svg#/media/File:Mapa_Argentina_Vegetación.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mapa_Argentina_Vegetaci%C3%B3n.svg" alt="Wikimedia Commons photo showing Mapa Argentina Vegetación" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Someone83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Someone83 (page does not exist)">Someone83</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4560348">Link</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "northeast" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/2.jpg" width="350px" alt="2">
+<img src="/rule/cs_america/argentina/v/2.jpg" width="350px" alt="V GeoGuessr guide image showing 2">
 </div>
 
 
@@ -143,7 +143,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% /tab %}}
 {{% tab "north central" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/1.jpg" width="350px" alt="1">
+<img src="/rule/cs_america/argentina/v/1.jpg" width="350px" alt="V GeoGuessr guide image showing 1">
 </div>
 
 <div class="googlemap-if">
@@ -154,7 +154,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% /tab %}}
 {{% tab "Near Jujuy" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/6.jpg" width="350px" alt="6">
+<img src="/rule/cs_america/argentina/v/6.jpg" width="350px" alt="V GeoGuessr guide image showing 6">
 </div>
 
 <div class="googlemap-if">
@@ -165,7 +165,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% /tab %}}
 {{% tab "Near the Chilean border" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/4.jpg" width="350px" alt="4">
+<img src="/rule/cs_america/argentina/v/4.jpg" width="350px" alt="V GeoGuessr guide image showing 4">
 </div>
 
 <div class="googlemap-if">
@@ -176,7 +176,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% /tab %}}
 {{% tab "central east" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/5.jpg" width="350px" alt="5">
+<img src="/rule/cs_america/argentina/v/5.jpg" width="350px" alt="V GeoGuessr guide image showing 5">
 </div>
 
 <div class="googlemap-if">
@@ -187,7 +187,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% /tab %}}
 {{% tab "southern" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/3.jpg" width="350px" alt="3">
+<img src="/rule/cs_america/argentina/v/3.jpg" width="350px" alt="V GeoGuessr guide image showing 3">
 </div>
 
 <div class="googlemap-if">
@@ -201,7 +201,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% notice tip %}}Below is a map of the regions where corn is produced.{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/Argentina_Corn.png" width="90%" alt="Argentina Corn">
+<img src="/rule/cs_america/argentina/Argentina_Corn.png" width="90%" alt="Argentina GeoGuessr guide image showing Argentina Corn">
 </div>
 
 {{% /tab %}}
@@ -229,7 +229,7 @@ Telephone poles that can be seen in Argentina.perforated utility pole{{% ex "htt
 {{% /tab %}}
 {{% tab "taxi" %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/taxi_argentino.jpg" alt="Taxi argentino">
+<img src="/rule/cs_america/argentina/taxi_argentino.jpg" alt="Argentina GeoGuessr guide image showing Taxi Argentino">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

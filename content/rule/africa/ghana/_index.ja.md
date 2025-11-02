@@ -36,10 +36,10 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./google-car.jpg" width="90%" alt="ガーナのGoogle Car" />
+<img src="./google-car.jpg" width="90%" alt="Ghana GeoGuessr guide image showing Google Car" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc-bar.jpg" width="60%" alt="Gc bar">
+<img src="./gc-bar.jpg" width="60%" alt="Ghana GeoGuessr guide image showing Gc Bar">
 </div>
 
 
@@ -62,7 +62,7 @@ sc: [
 タクシーの色の塗り方が独特{{% ex "https://maps.app.goo.gl/zModPxBNsSaL1E5U6" "https://maps.app.goo.gl/36beJJUuYoXJtTT67" "https://maps.app.goo.gl/qF9yVfgunmUfd5pa9" "https://maps.app.goo.gl/kuyBAsBKBjKmrXaM9" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
+<img src="./mitsubishi_taxi_ghana.jpg" width="90%" alt="Ghana GeoGuessr guide image showing Mitsubishi Taxi Ghana" />
 </div>
 
 
@@ -72,11 +72,11 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="a walk to Makola Market"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 14313740901 d9d6f1f24f C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
+<img src="./National_Lottery_Authority_logo.jpg" width="200px" alt="Ghana GeoGuessr guide image showing National Lottery Authority Logo" />
 </div>
 
 {{% /tab %}}
@@ -114,7 +114,7 @@ sc: [
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="./20230522-palm.png" width="70%" alt="20230522 palm" />
+<img src="./20230522-palm.png" width="70%" alt="Ghana GeoGuessr guide image showing 20230522 Palm" />
 </div>
 {{% notice tip %}}
 アブラヤシやバナナの木は南部に多い。これらの木がないならば北部に置いてみる。
@@ -122,7 +122,7 @@ sc: [
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if unclickable">
-<img src="./ghana_regional_phone_codes.jpg" alt="ガーナの市外局番" width="70%" />
+<img src="./ghana_regional_phone_codes.jpg" alt="Ghana GeoGuessr guide image showing Ghana Regional Phone Codes" width="70%" />
 </div>
 {{% notice tip %}}
 覚えるに越したことはないけれど街中以外では見つからない可能性が高い上に携帯が多いので、都市名と地域ごとの植生や雰囲気を覚えることを優先した方がいいように思う。たまたまFAXの番号を見かけたら参考にしてみる。
@@ -130,7 +130,7 @@ sc: [
 {{% /tab %}}
 {{% tab "植生" %}}
 <div class="googlemap-if unclickable">
-<img src="./2023-09-02-20-28-52.png" alt="ガーナの植生" width="500px" />
+<img src="./2023-09-02-20-28-52.png" alt="Ghana GeoGuessr guide image showing 2023 09 02 20 28 52" width="500px" />
 </div>
 
 {{% notice tip %}}
@@ -151,7 +151,7 @@ sc: [
 このマップの白い部分は高い山が多い{{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
+<img src="./Ghana_physical_map.svg" width="70%" alt="Ghana GeoGuessr guide image showing Ghana Physical Map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

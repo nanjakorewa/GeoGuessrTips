@@ -46,7 +46,7 @@ Entre 1841 y 1997, durante y después de las Guerras del Opio, Hong Kong fue adm
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/hongkong/hongkong-car.jpg" width="95%" alt="Hongkong car">
+<img src="/rule/asia/hongkong/hongkong-car.jpg" width="95%" alt="Hongkong GeoGuessr guide image showing Hongkong Car">
 </div>
 
 {{% lb 50 %}}
@@ -59,13 +59,13 @@ Por Woodennature - Obra propia, <a href="https://creativecommons.org/licenses/by
 Los carteles de calles en blanco y negro aparecen en dos idiomas{{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}. También verás señales parecidas a las del {{% goto "../../europe/united-kingdom/" "Reino Unido" %}} o {{% goto "../nepal/" "Nepal" %}}{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/hongkong/hk_syp_western_street_0.jpg" width="90%" alt="Hk syp western street 0">
+<img src="/rule/asia/hongkong/hk_syp_western_street_0.jpg" width="90%" alt="Hongkong GeoGuessr guide image showing Hk Syp Western Street 0">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/hongkong/r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="Wan King Path sign">
-<img src="/rule/asia/hongkong/r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="Hong Kong road sign 417">
-<img src="/rule/asia/hongkong/r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="Hong Kong road sign 422">
+<img src="/rule/asia/hongkong/r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="R GeoGuessr guide image showing Wan King Path Sign">
+<img src="/rule/asia/hongkong/r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 417">
+<img src="/rule/asia/hongkong/r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 422">
 </div>
 
 {{% notice note %}}
@@ -73,8 +73,8 @@ Ejemplos de señales presentes en el {{% goto "../../europe/united-kingdom/" "Re
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/hongkong/uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px" alt="UK traffic sign 502">
-<img src="/rule/asia/hongkong/uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px" alt="UK traffic sign 618.1B">
+<img src="/rule/asia/hongkong/uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 502">
+<img src="/rule/asia/hongkong/uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 618.1B">
 </div>
 
 {{% notice tip %}}
@@ -82,11 +82,11 @@ Street View cubre zonas menos urbanizadas{{% ex "https://maps.app.goo.gl/JNm6xCW
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/hongkong/road/entrance_victorias_harbour_seen.jpg" width="303px" alt="Entrance victorias harbour seen">
-<img src="/rule/asia/hongkong/road/hongkong2006_56.jpg" width="340px" alt="Hongkong2006 56">
+<img src="/rule/asia/hongkong/road/entrance_victorias_harbour_seen.jpg" width="303px" alt="Road GeoGuessr guide image showing Entrance Victorias Harbour Seen">
+<img src="/rule/asia/hongkong/road/hongkong2006_56.jpg" width="340px" alt="Road GeoGuessr guide image showing hongkong2006 56">
 </div>
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Fu Tei Ha Tsuen 01.jpg" width="643px"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Wikimedia Commons photo showing Fu Tei Ha Tsuen 01" width="643px"></a></p>
 <p>Por <a href="//commons.wikimedia.org/wiki/User:Underwaterbuffalo" title="User:Underwaterbuffalo">Underwaterbuffalo</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71727971">Link</a></p>
 </div>
 

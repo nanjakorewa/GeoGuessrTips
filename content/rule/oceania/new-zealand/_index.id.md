@@ -38,14 +38,14 @@ sc: [
 Bollard dicat dengan warna <span class="quiz">merah</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="Bollard di Selandia Baru" />
+<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="New Zealand GeoGuessr guide image showing Nz Bollard" />
 </div>
 
 {{% notice tip %}}
 Bagian atas tiang listrik dililit sesuatu{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}. Beberapa tiang listrik juga memiliki lubang{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="Tiang listrik di Selandia Baru" />
+<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="New Zealand GeoGuessr guide image showing Poles" />
 </div>
 
 {{% notice tip %}}
@@ -53,8 +53,8 @@ Jika di Australia, tanda kecepatan terkadang ditulis di pelat putih yang panjang
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="AU speed limit" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="NZ speedlimit" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="Image from geopinning.space showing Au Speed Limit" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="Image from geopinning.space showing Nz Speedlimit" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Tanda jalan berbentuk perisai merah bisa ditemukan{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px" alt="State Highway 77 NZ">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px" alt="Image from geopinning.space showing State Highway 77 Nz">
 </div>
 
 {{% notice tip %}}
@@ -70,19 +70,19 @@ Jika tulisan GIVE WAY menggunakan huruf hitam, maka itu adalah <span class="quiz
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Australia road sign R1 2" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="New Zealand road sign R2 2" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Image from geopinning.space showing Australia Road Sign R1 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="Image from geopinning.space showing New Zealand Road Sign R2 2" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg" alt="Tokoroa near mannering street">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg" alt="New Zealand GeoGuessr guide image showing Tokoroa Near Mannering Street">
 </div>
 
 {{% notice tip %}}
 Lebih dari 40% wilayah Selandia Baru adalah padang rumput{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Curah hujan sepanjang tahun yang cukup membuat rumput tumbuh dengan baik. Hal ini memungkinkan peternak menjaga biaya produksi tetap rendah, membuat produk susu Selandia Baru kompetitif di pasar global{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Organisasi Pengembangan Pertanian dan Peternakan - Situasi Industri Susu Selandia Baru" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%" alt="Img 1492 27">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%" alt="New Zealand GeoGuessr guide image showing Img 1492 27">
 </div>
 
 {{% notice tip %}}
@@ -90,17 +90,17 @@ Tanda peringatan berwarna kuning bisa ditemukan{{% ex "https://maps.app.goo.gl/W
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="New Zealand PW 66">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="New Zealand PW 46">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="New Zealand PW 25 (55 kmh)">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 66">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 46">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 25 (55 kmh)">
 </div>
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="New Zealand Permanent Warning Use Low Gear">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="New Zealand PW 59">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Permanent Warning Use Low Gear">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 59">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg" alt="Homer tunnel east">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg" alt="New Zealand GeoGuessr guide image showing Homer Tunnel East">
 </div>
 
 {{% notice tip %}}
@@ -108,7 +108,7 @@ Tanda atau chevron dipasang pada tiang putih persegi{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px" alt="Whitepole">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px" alt="New Zealand GeoGuessr guide image showing Whitepole">
 </div>
 
 {{% /tab %}}
@@ -186,7 +186,7 @@ Wilayah di sekitar Christchurch cenderung datar dan memiliki banyak sabuk pelind
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Windbreak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Image from live.staticflickr.com showing 411043386 b421c050aa Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -197,7 +197,7 @@ Untuk melindungi tanaman dari angin laut, terdapat beberapa sabuk pelindung angi
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg" alt="Wv banner bay plenty">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg" alt="New Zealand GeoGuessr guide image showing Wv Banner Bay Plenty">
 </div>
 
 {{% /tab %}}
@@ -208,7 +208,7 @@ Tanaman yang umum di sekitar Laut Mediterania ini banyak tumbuh di pesisir Pulau
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg" alt="Arundo donax variegata j">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg" alt="New Zealand GeoGuessr guide image showing Arundo Donax Variegata J">
 </div>
 
 {{% /tab %}}
@@ -229,7 +229,7 @@ Jika terlihat gunung menyerupai Gunung Fuji, kemungkinan berada di sekitar taman
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg" alt="Mountain mt egmont mt">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg" alt="New Zealand GeoGuessr guide image showing Mountain Mt Egmont Mt">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -239,7 +239,7 @@ Jalur bersepeda yang sangat panjang. Terkadang terlihat sesuatu berwarna merah{{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg" alt="Rail trail going north 0">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg" alt="New Zealand GeoGuessr guide image showing Rail Trail Going North 0">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -261,7 +261,7 @@ Pantai dengan pasir kehitaman. Pulau Stewart, seperti ujung selatan Pulau Selata
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Rainbow after rain in Oban, Stewart Island - panoramio.jpg" width="95%"></a></p><p>By Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Wikimedia Commons photo showing Rainbow After Rain In Oban, Stewart Island Panoramio" width="95%"></a></p><p>By Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Pulau White" %}}
@@ -271,7 +271,7 @@ Bekas tempat produksi belerang yang ditinggalkan akibat bencana vulkanik{{% ref 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%" alt="Derelict sulphur factory building">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Derelict Sulphur Factory Building">
 </div>
 {{% /tab %}}
 {{% tab "Kepulauan Antipodes" %}}
@@ -281,7 +281,7 @@ Merupakan Situs Warisan Dunia dengan koloni penguin. Area ini tidak terbuka untu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%" alt="Antipodes penguin">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Antipodes Penguin">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

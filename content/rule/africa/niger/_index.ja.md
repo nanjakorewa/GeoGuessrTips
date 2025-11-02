@@ -29,7 +29,7 @@ is_unofficial: true
 年間を通じて流水があるのは南西にあるニジェール川のみなので、写真のような緑が見られる地域はほぼ間違いなく川沿いと思われる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Niger,_Tillab%C3%A9ri,_2008_4.jpg#/media/File:Niger,_Tillab%C3%A9ri,_2008_4.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Niger%2C_Tillab%C3%A9ri%2C_2008_4.jpg" alt="Niger, Tillabéri, 2008 4.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Lars_Rosendahl_Appelquist&amp;action=edit&amp;redlink=1" class="new" title="User:Lars Rosendahl Appelquist (page does not exist)">Lars Rosendahl Appelquist</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136247147">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Niger,_Tillab%C3%A9ri,_2008_4.jpg#/media/File:Niger,_Tillab%C3%A9ri,_2008_4.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Niger%2C_Tillab%C3%A9ri%2C_2008_4.jpg" alt="Wikimedia Commons photo showing Niger, Tillabéri, 2008 4" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Lars_Rosendahl_Appelquist&amp;action=edit&amp;redlink=1" class="new" title="User:Lars Rosendahl Appelquist (page does not exist)">Lars Rosendahl Appelquist</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136247147">Link</a></p>
 </div>
 
 {{% /tab %}}

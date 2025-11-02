@@ -38,7 +38,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Kōnomai02.jpg" width="80%" alt="Kōnomai02">
+<img src="Kōnomai02.jpg" width="80%" alt="Hokkaido GeoGuessr guide image showing Kōnomai02">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ no_jetro: true
 道端にフキが大量に生えていることがある。フキ自体は全国で見られるが、大量に生えているのは北海道以外あまりない。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="komon03.jpg" alt="Komon03">
+<img src="komon03.jpg" alt="Hokkaido GeoGuessr guide image showing komon03">
 </div>
 {{% /tab %}}
 {{% tab "電柱" %}}
@@ -57,7 +57,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../../pole/pole-hokkaido.png" width="120px" alt="Pole hokkaido">
+<img src="../../pole/pole-hokkaido.png" width="120px" alt="Pole GeoGuessr guide image showing Pole Hokkaido">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Akan_bus_Akan01.jpg" width="80%" alt="Akan bus Akan01">
+<img src="Akan_bus_Akan01.jpg" width="80%" alt="Hokkaido GeoGuessr guide image showing Akan Bus Akan01">
 </div>
 
 
@@ -80,7 +80,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg#/media/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Typical_Residential_Street_in_Yuni%2C_Hokkaido.jpg" alt="Typical Residential Street in Yuni, Hokkaido.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=115473171">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg#/media/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Typical_Residential_Street_in_Yuni%2C_Hokkaido.jpg" alt="Wikimedia Commons photo showing Typical Residential Street In Yuni, Hokkaido" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=115473171">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -92,7 +92,7 @@ no_jetro: true
 
 
 <div class="googlemap-if">
-<img src="960px-Sandbox02.jpg" alt="960px Sandbox02">
+<img src="960px-Sandbox02.jpg" alt="Hokkaido GeoGuessr guide image showing 960px Sandbox02">
 </div>
 
 {{% /tab %}}
@@ -102,7 +102,7 @@ no_jetro: true
 北海道以外であまり見られない標識もあるかも{{% ex "https://maps.app.goo.gl/6R9bUhSauoZT8RsX9" %}}？
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Japanese_road_sign_406-2.svg" width="250px" alt="Japanese road sign 406 2">
+<img src="Japanese_road_sign_406-2.svg" width="250px" alt="Hokkaido GeoGuessr guide image showing Japanese Road Sign 406 2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -33,7 +33,7 @@ Bahasa utama yang digunakan adalah bahasa Arab.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/kuwait/arabian_gulf_street.jpg" width="90%" alt="Arabian gulf street">
+<img src="/rule/middle_east/kuwait/arabian_gulf_street.jpg" width="90%" alt="Kuwait GeoGuessr guide image showing Arabian Gulf Street">
 </div>
 
 {{% notice tip %}}
@@ -42,8 +42,8 @@ Kendaraan pribadi menggunakan pelat nomor putih, sedangkan angkutan umum memakai
 
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px" alt="Kuwait License Plate Private">
-<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px" alt="Kuwait License Plate Public">
+<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px" alt="Kuwait GeoGuessr guide image showing Kuwait License Plate Private">
+<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px" alt="Kuwait GeoGuessr guide image showing Kuwait License Plate Public">
 </div>
 
 

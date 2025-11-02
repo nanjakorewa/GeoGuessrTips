@@ -40,7 +40,7 @@ Yellow plates dominate in urban areas{{% ex "https://maps.app.goo.gl/zc7q7LvPsSP
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/37266013@N00/24300474404/in/photolist-D2mhqC-bcgRdp-dq3MVx-H56Xp-nYQJxr-rrhx1a-9w9J4M-kBs2zz-e17Fek-koMCon-8ap44-qCsCuD-at9CL-6eu64S-9EMLTo-hu4P4U-dBrbaq-9DPViY-n48QJ8-NA77jA-riEEC8-LofQDB-NQaNiw-ei8iSQ-8kRYEu-dCytCa-A7fAZ-7siW3Z-aCirYy-26f6oQB-NG7VUs-AhfpY5-8SXQRk-A7fBH-av2s8U-mKufVn-HoPL2h-r2qt3-fqvDp-oCvoZN-HUjd6Y-7rB5uz-JgSqW3-2bF2kcx-iJFfJs-qndJ5X-HoPRL3-95hQgJ-7JR8wU-n48Z9K" title="Oman - 2015-1421a"><img src="https://live.staticflickr.com/1599/24300474404_178c53ecec_c.jpg" width="90%" alt="Oman - 2015-1421a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/37266013@N00/24300474404/in/photolist-D2mhqC-bcgRdp-dq3MVx-H56Xp-nYQJxr-rrhx1a-9w9J4M-kBs2zz-e17Fek-koMCon-8ap44-qCsCuD-at9CL-6eu64S-9EMLTo-hu4P4U-dBrbaq-9DPViY-n48QJ8-NA77jA-riEEC8-LofQDB-NQaNiw-ei8iSQ-8kRYEu-dCytCa-A7fAZ-7siW3Z-aCirYy-26f6oQB-NG7VUs-AhfpY5-8SXQRk-A7fBH-av2s8U-mKufVn-HoPL2h-r2qt3-fqvDp-oCvoZN-HUjd6Y-7rB5uz-JgSqW3-2bF2kcx-iJFfJs-qndJ5X-HoPRL3-95hQgJ-7JR8wU-n48Z9K" title="Oman - 2015-1421a"><img src="https://live.staticflickr.com/1599/24300474404_178c53ecec_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 24300474404 178c53ecec C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -59,11 +59,11 @@ Chevron signs usually have orange-and-black stripes{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/liquidworld/3267308326/in/photolist-5YHNWb-4tC3XM-bcgLRK-64wLyc-nskKRj-4tG6CJ-4tG5pd-4tG5E3-nKFgKj-4tG68W-ns2WA9-4tC2cv-8Q95jf-5kCn4h-Q1n5QR-Dhnf8L-23QcUbM-aFartF-96Ffnc-ackTYG-96Khm4-29WeimA-ns2wVn-dYoWB2-29ZZR4h-h2NjKe-2ajRD-mFYiX2-96FwiH-9rNJYS-24nturK-LFYxVg-5skabF-fP1zeX-Sauoxo-2bj7q1r-bbmerB-RRqSao-ijARGP-267yBNw-bbmdeT-DTGzgn-2dczqNE-25rCanb-bxBwrK-NMfW4x-oTsiHD-oDg2Wc-3eaYji-28QdBod" title="Road signs"><img src="https://live.staticflickr.com/3515/3267308326_aea5344881_c.jpg" width="90%" alt="Road signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/liquidworld/3267308326/in/photolist-5YHNWb-4tC3XM-bcgLRK-64wLyc-nskKRj-4tG6CJ-4tG5pd-4tG5E3-nKFgKj-4tG68W-ns2WA9-4tC2cv-8Q95jf-5kCn4h-Q1n5QR-Dhnf8L-23QcUbM-aFartF-96Ffnc-ackTYG-96Khm4-29WeimA-ns2wVn-dYoWB2-29ZZR4h-h2NjKe-2ajRD-mFYiX2-96FwiH-9rNJYS-24nturK-LFYxVg-5skabF-fP1zeX-Sauoxo-2bj7q1r-bbmerB-RRqSao-ijARGP-267yBNw-bbmdeT-DTGzgn-2dczqNE-25rCanb-bxBwrK-NMfW4x-oTsiHD-oDg2Wc-3eaYji-28QdBod" title="Road signs"><img src="https://live.staticflickr.com/3515/3267308326_aea5344881_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 3267308326 aea5344881 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/sign.png" width="300px" alt="Sign">
+<img src="/rule/middle_east/oman/sign.png" width="300px" alt="Oman GeoGuessr guide image showing Sign">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ In desert areas vegetation can be non-existent{{% ex "https://maps.app.goo.gl/AH
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%" alt="Desert sand dry hot">
+<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%" alt="Oman GeoGuessr guide image showing Desert Sand Dry Hot">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ Date palms are concentrated along the north-eastern coast{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%" alt="Date palm date palm">
+<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%" alt="Oman GeoGuessr guide image showing Date Palm Date Palm">
 </div>
 
 
@@ -91,7 +91,7 @@ Pipeline signage at midstream sites often lists the destination{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oil_pipeline.jpg" width="90%" alt="Oil pipeline">
+<img src="oil_pipeline.jpg" width="90%" alt="Oman GeoGuessr guide image showing Oil Pipeline">
 </div>
 
 {{% notice tip %}}
@@ -99,7 +99,7 @@ There are several domestic energy companies. For example, Oman Oil Marketing (OO
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="gas_station_oman.jpg" width="90%" alt="Gas station oman">
+<img src="gas_station_oman.jpg" width="90%" alt="Oman GeoGuessr guide image showing Gas Station Oman">
 </div>
 
 {{% /tab %}}
@@ -110,7 +110,7 @@ Agricultural activity differs between regions. Coastal plains in the north grow 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oman_farmland.jpg" width="90%" alt="Oman farmland">
+<img src="oman_farmland.jpg" width="90%" alt="Oman GeoGuessr guide image showing Oman Farmland">
 </div>
 
 {{% /tab %}}
@@ -122,7 +122,7 @@ The Musandam Peninsula—an exclave of Oman—also has Street View coverage{{% e
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg" alt="Street travel car mountain">
+<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg" alt="Oman GeoGuessr guide image showing Street Travel Car Mountain">
 </div>
 {{% /tab %}}
 {{% tab "The Dhofar Mountains" %}}
@@ -132,7 +132,7 @@ Southern Oman around Salalah receives monsoon rains. Hillsides can turn vivid gr
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%" alt="After rain 7">
+<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%" alt="Oman GeoGuessr guide image showing After Rain 7">
 </div>
 
 {{% notice tip %}}
@@ -152,7 +152,7 @@ Large dune fields lie inland and toward the east{{% ref "https://www.researchgat
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/soilmap.jpg" alt="Soilmap">
+<img src="/rule/middle_east/oman/soilmap.jpg" alt="Oman GeoGuessr guide image showing Soilmap">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
@@ -171,7 +171,7 @@ Large dune fields lie inland and toward the east{{% ref "https://www.researchgat
 {{% tab "Masirah Island" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Isla_de_Masirah.jpg#/media/File:Isla_de_Masirah.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Isla_de_Masirah.jpg" alt="Isla de Masirah.jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Isla_de_Masirah.jpg#/media/File:Isla_de_Masirah.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Isla_de_Masirah.jpg" alt="Wikimedia Commons photo showing Isla De Masirah" width="90%"></a></p>
 <p>By <a href="//commons.wikimedia.org/w/index.php?title=User:ELSIRIDERMOTO&amp;action=edit&amp;redlink=1" class="new" title="User:ELSIRIDERMOTO (page does not exist)">ELSIRIDERMOTO</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=94647403">Link</a></p>
 </div>
 {{% /tab %}}

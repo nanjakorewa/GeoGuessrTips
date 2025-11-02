@@ -42,7 +42,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bollar.jpg" width="95%" alt="Bollar">
+<img src="./bollar.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bollar">
 </div>
 
 {{% notice tip %}}
@@ -50,7 +50,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Bulevar_NoviSad.jpg" width="95%" alt="Bulevar NoviSad">
+<img src="./Bulevar_NoviSad.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bulevar Novisad">
 </div>
 
 {{% notice tip %}}
@@ -58,13 +58,13 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="idea.png" width="500px" alt="Idea">
-<img src="./Jelen_pivo.png" width="95px" style="margin:5px" alt="Jelen pivo">
+<img src="idea.png" width="500px" alt="Serbia GeoGuessr guide image showing Idea">
+<img src="./Jelen_pivo.png" width="95px" style="margin:5px" alt="Serbia GeoGuessr guide image showing Jelen Pivo">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Idea Logo">
-<img src="./maxi.svg" width="190px" style="margin-left:20px" alt="Maxi">
-<img src="./Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Frikom logo">
+<img src="./Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Serbia GeoGuessr guide image showing Idea Logo">
+<img src="./maxi.svg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Maxi">
+<img src="./Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Frikom Logo">
 </div>
 
 {{% notice tip %}}
@@ -72,8 +72,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="./r/ar2.png" width="107px" style="margin:18px" alt="Ar2" />
-<img src="./r/ar1.png" width="100px" style="margin:20px" alt="Ar1" />
+<img src="./r/ar2.png" width="107px" style="margin:18px" alt="R GeoGuessr guide image showing ar2" />
+<img src="./r/ar1.png" width="100px" style="margin:20px" alt="R GeoGuessr guide image showing ar1" />
 </div>
 
 {{% /tab %}}
@@ -103,10 +103,10 @@ sc: [
 {{% tabs %}}
 {{% tab "ひまわり" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-23-12-58-45.png" width="70%" alt="2023 05 23 12 58 45" />
+<img src="2023-05-23-12-58-45.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 58 45" />
 </div>
 <div class="googlemap-if">
-<img src="volytsya_fastiv_field.jpg" width="80%" alt="Volytsya fastiv field">
+<img src="volytsya_fastiv_field.jpg" width="80%" alt="Serbia GeoGuessr guide image showing Volytsya Fastiv Field">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ sc: [
 {{% tab "コーン" %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-05-23-12-55-04.png" width="70%" alt="2023 05 23 12 55 04" />
+<img src="2023-05-23-12-55-04.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 55 04" />
 </div>
 
 {{% notice tip %}}

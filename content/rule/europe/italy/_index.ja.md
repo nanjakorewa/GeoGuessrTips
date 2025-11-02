@@ -51,7 +51,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.png" width="90%" alt="イタリアのボラード" />
+<img src="./bollard.png" width="90%" alt="Italy GeoGuessr guide image showing Bollard" />
 </div>
 
 
@@ -60,7 +60,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="90%" alt="イタリアのナンバープレート例" />
+<img src="./car.png" width="90%" alt="Italy GeoGuessr guide image showing Car" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-11-23-23.png)
@@ -74,13 +74,13 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px" alt="Italian traffic signs attraversamento pedonale">
-<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px" alt="Italian traffic signs SOS">
-<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px" alt="Italian traffic signs velocità consigliata 50">
-<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px" alt="Segnale numerazione cavalcavia 100 A2">
-<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px" alt="Italian traffic signs zona a velocità limitata (figura II 323 a)">
-<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px" alt="Italian traffic signs autostrada">
-<img src="./r/roadside.jpg" width="80px" style="margin:30px" alt="Roadside">
+<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Italian Traffic Signs Attraversamento Pedonale">
+<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Sos">
+<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Velocità Consigliata 50">
+<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Segnale Numerazione Cavalcavia 100 A2">
+<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Zona A Velocità Limitata (figura Ii 323 a)">
+<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Autostrada">
+<img src="./r/roadside.jpg" width="80px" style="margin:30px" alt="R GeoGuessr guide image showing Roadside">
 </div>
 
 {{% notice tip %}}
@@ -88,13 +88,13 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-sign.png" width="90%" alt="イタリアの高速道路標識" />
+<img src="./road-sign.png" width="90%" alt="Italy GeoGuessr guide image showing Road Sign" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px" alt="Autostrada A4 Italia">
-<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px" alt="Strada Statale 10 Italia">
+<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px" alt="R GeoGuessr guide image showing Autostrada A4 Italia">
+<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px" alt="R GeoGuessr guide image showing Strada Statale 10 Italia">
 </div>
 
 {{% notice tip %}}
@@ -102,7 +102,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-sign-from-behind.jpg" width="90%" alt="イタリアの高速道路標識の裏側" />
+<img src="./road-sign-from-behind.jpg" width="90%" alt="Italy GeoGuessr guide image showing Road Sign From Behind" />
 </div>
 
 {{% notice tip %}}
@@ -110,7 +110,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="rimini_via_luci_del.jpg" alt="Rimini via luci del">
+<img src="rimini_via_luci_del.jpg" alt="Italy GeoGuessr guide image showing Rimini Via Luci Del">
 </div>
 
 {{% notice tip %}}
@@ -118,7 +118,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:TunnelTimmelsjoch.JPG#/media/File:TunnelTimmelsjoch.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/TunnelTimmelsjoch.JPG" alt="TunnelTimmelsjoch.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knipptang" title="User:Knipptang">Arne Hückelheim</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9579390">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:TunnelTimmelsjoch.JPG#/media/File:TunnelTimmelsjoch.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/TunnelTimmelsjoch.JPG" alt="Wikimedia Commons photo showing Tunneltimmelsjoch" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knipptang" title="User:Knipptang">Arne Hückelheim</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9579390">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -129,7 +129,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./sali_e_tabacchi.jpg" width="80%" alt="Sali e tabacchi">
+<img src="./sali_e_tabacchi.jpg" width="80%" alt="Italy GeoGuessr guide image showing Sali E Tabacchi">
 </div>
 
 {{% /tab %}}
@@ -138,7 +138,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 ぶどう畑が多い{{% ex "https://maps.app.goo.gl/mvXJiejHLTnSGHNN7" "https://maps.app.goo.gl/dvWkLTo1E7oNvEQC6" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="vineyards_vines_italy_barolo.jpg" alt="Vineyards vines italy barolo">
+<img src="vineyards_vines_italy_barolo.jpg" alt="Italy GeoGuessr guide image showing Vineyards Vines Italy Barolo">
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
@@ -148,7 +148,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Logo_ENI.svg" width="190px" style="margin: 1em" alt="Logo ENI" />
+<img src="Logo_ENI.svg" width="190px" style="margin: 1em" alt="Italy GeoGuessr guide image showing Logo Eni" />
 </div>
 
 {{% /tab %}}
@@ -175,11 +175,11 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tabs %}}
 {{% tab "気候" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./Eliofania.png" width="500px" alt="Eliofania">
+<img src="./Eliofania.png" width="500px" alt="Italy GeoGuessr guide image showing Eliofania">
 </div>
 
 <div class="googlemap-if no-margin unclickable">
-<img src="prickly_pear_cactus_plant_0.jpg" alt="Prickly pear cactus plant 0">
+<img src="prickly_pear_cactus_plant_0.jpg" alt="Italy GeoGuessr guide image showing Prickly Pear Cactus Plant 0">
 </div>
 
 {{% notice tip %}}
@@ -189,7 +189,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Mappa Prefissi telefonici italiani A.png" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5"><a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a></a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mappa_Prefissi_telefonici_italiani_A.png#/media/File:Mappa_Prefissi_telefonici_italiani_A.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Mappa_Prefissi_telefonici_italiani_A.png" alt="Wikimedia Commons photo showing Mappa Prefissi Telefonici Italiani A" height="720" width="575"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumw</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5"><a href="https://creativecommons.org/licenses/by-sa/2.5/deed.ja">CC BY-SA 2.5</a></a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77509237">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "西部の山岳地帯" %}}
@@ -197,7 +197,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家が見つかるので国を間違えないように注意{{% ex "https://maps.app.goo.gl/AkQY1NarcrMtJ74v7" "https://maps.app.goo.gl/we11oKEKLT82uacY9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./viapedonale.jpg" alt="Viapedonale">
+<img src="./viapedonale.jpg" alt="Italy GeoGuessr guide image showing Viapedonale">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -269,7 +269,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tab "イタリアのProvince名" %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Italian_regions_provinces.svg" width="90%" alt="Italian regions provinces">
+<img src="./Italian_regions_provinces.svg" width="90%" alt="Italy GeoGuessr guide image showing Italian Regions Provinces">
 </div>
 
 {{% /tab %}}
@@ -280,7 +280,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a href="https://commons.wikimedia.org/wiki/File:Segnaletica_bilingue_Sardegna.gif#/media/File:Segnaletica_bilingue_Sardegna.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Segnaletica_bilingue_Sardegna.gif" alt="Segnaletica bilingue Sardegna.gif" height="312" width="665"></a></p>
+<a href="https://commons.wikimedia.org/wiki/File:Segnaletica_bilingue_Sardegna.gif#/media/File:Segnaletica_bilingue_Sardegna.gif"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Segnaletica_bilingue_Sardegna.gif" alt="Wikimedia Commons photo showing Segnaletica Bilingue Sardegna" height="312" width="665"></a></p>
 </div>
 
 {{% notice tip %}}
@@ -288,7 +288,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./milano_cartelli_piazza_luigi.jpg" alt="Milano cartelli piazza luigi">
+<img src="./milano_cartelli_piazza_luigi.jpg" alt="Italy GeoGuessr guide image showing Milano Cartelli Piazza Luigi">
 </div>
 
 {{% notice tip %}}
@@ -296,7 +296,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Monte_Albo_(04).JPG#/media/File:Monte_Albo_(04).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Monte_Albo_%2804%29.JPG" alt="Monte Albo (04).JPG" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Discanto" title="User:Discanto">Gianni Careddu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35013305">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Monte_Albo_(04).JPG#/media/File:Monte_Albo_(04).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Monte_Albo_%2804%29.JPG" alt="Wikimedia Commons photo showing Monte Albo (04)" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Discanto" title="User:Discanto">Gianni Careddu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35013305">Link</a></p>
 </div>
 
 
@@ -304,7 +304,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 街中ならATMを見ると「Banco di Sardegna」の緑の丸いロゴが書いてあることが多い{{% ex "https://maps.app.goo.gl/97TqWgTf5xaoZRuc7" "https://maps.app.goo.gl/SeVBwcmNKtRkn4cj8" "https://maps.app.goo.gl/4twt16c97pz5GEui9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./Banco_di_Sardegna.svg" width="500px" alt="Banco di Sardegna">
+<img src="./Banco_di_Sardegna.svg" width="500px" alt="Italy GeoGuessr guide image showing Banco Di Sardegna">
 </div>
 
 {{% /tab %}}
@@ -314,8 +314,8 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><img src="./trail_caria_tropea01.jpg" width="590" alt="Trail caria tropea01"></img>
-<p><a href="https://commons.wikimedia.org/wiki/File:Gariglione.jpg#/media/File:Gariglione.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gariglione.jpg" alt="Gariglione.jpg" width="590"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:GeorgeOrwell1984&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:GeorgeOrwell1984 (page does not exist)">GeorgeOrwell1984</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90559600">Link</a></p>
+<p><img src="./trail_caria_tropea01.jpg" width="590" alt="Italy GeoGuessr guide image showing Trail Caria tropea01"></img>
+<p><a href="https://commons.wikimedia.org/wiki/File:Gariglione.jpg#/media/File:Gariglione.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gariglione.jpg" alt="Wikimedia Commons photo showing Gariglione" width="590"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:GeorgeOrwell1984&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:GeorgeOrwell1984 (page does not exist)">GeorgeOrwell1984</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90559600">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -326,7 +326,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Sicilian_Flag.svg" width="500px" alt="Sicilian Flag">
+<img src="./Sicilian_Flag.svg" width="500px" alt="Italy GeoGuessr guide image showing Sicilian Flag">
 </div>
 
 {{% /tab %}}
@@ -352,7 +352,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 ヨーロッパ最大の活火山であるEtna火山があり、とても黒っぽい土が道端に広がっている{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%88%E3%83%8A%E7%81%AB%E5%B1%B1" "エトナ火山" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%" alt="Mount etna sicily italy">
+<img src="./mount_etna_sicily_italy.jpg" width="95%" alt="Italy GeoGuessr guide image showing Mount Etna Sicily Italy">
 </div>
 {{% /tab %}}
 {{% tab "Giglio島" %}}
@@ -360,7 +360,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 Giglio島は島全体の9割が地中海性森林{{% ref "https://en.wikipedia.org/wiki/Isola_del_Giglio" "Isola del Giglio" %}}。マツの木が群生している様子が見受けられる{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" "https://maps.app.goo.gl/XuqdC3Rr7Ya2augE9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Giglio_Campese.jpg" width="95%" alt="Giglio Campese">
+<img src="./Giglio_Campese.jpg" width="95%" alt="Italy GeoGuessr guide image showing Giglio Campese">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria島" %}}
@@ -368,7 +368,7 @@ Giglio島は島全体の9割が地中海性森林{{% ref "https://en.wikipedia.o
 Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="city/dammuso.jpg" alt="Dammuso">
+<img src="city/dammuso.jpg" alt="City GeoGuessr guide image showing Dammuso">
 </div>
 {{% /tab %}}
 {{% tab "Egadi諸島" %}}
@@ -376,7 +376,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 岩でできた山のてっぺんに城が見える。街中で家に視界を遮られないかぎり大体この城が見えるっぽい{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./favignana_island_sea_sicily.jpg" width="95%" alt="Favignana island sea sicily">
+<img src="./favignana_island_sea_sicily.jpg" width="95%" alt="Italy GeoGuessr guide image showing Favignana Island Sea Sicily">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa島" %}}
@@ -384,7 +384,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 本土からかなり離れた離島{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}。バギーが多い{{% ex "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}}のは{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}や{{% goto "../../oceania/cocos_islands/" "ココス諸島"  %}}のような離島の共通点。初見で当てるのは難しい。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./isola_dei_conigli.jpg" width="95%" alt="Isola dei conigli">
+<img src="./isola_dei_conigli.jpg" width="95%" alt="Italy GeoGuessr guide image showing Isola Dei Conigli">
 </div>
 {{% /tab %}}
 {{% tab "San domino島" %}}
@@ -392,7 +392,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 画質が悪く石畳の場所が多い{{% ex "https://maps.app.goo.gl/spBTAd9TedmzDtRV8" %}}。港にはこの写真のフェリーが泊っている{{% ex "https://maps.app.goo.gl/yi9AS8xfHbhrF5G47" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" alt="Porto - San Domino Island, Tremiti, Foggia, Italy - August 20, 2013 02.jpg" height="720" width="720"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" alt="Wikimedia Commons photo showing Porto San Domino Island, Tremiti, Foggia, Italy August 20, 2013 02" height="720" width="720"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Venezia" %}}
@@ -400,7 +400,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 Veneziaには船にのって移動するエリアがある{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}。ヴェネツィアをモデルにした{{% goto "../france/" "フランス" %}}のGrimaudと間違えないように。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./city/venezia_water_passages_275518.jpg" alt="Venezia water passages 275518">
+<img src="./city/venezia_water_passages_275518.jpg" alt="City GeoGuessr guide image showing Venezia Water Passages 275518">
 </div>
 {{% /tab %}}
 {{% tab "Campione d'Italia" %}}

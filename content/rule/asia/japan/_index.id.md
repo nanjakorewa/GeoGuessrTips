@@ -36,7 +36,7 @@ Tiang listrik di Jepang sering memiliki pola garis vertikal {{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/124982286@N08/52965926190/" title="A Street In Izushi Town"><img src="https://live.staticflickr.com/65535/52965926190_ca12a58331_z.jpg" width="640" height="427" alt="A Street In Izushi Town"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/124982286@N08/52965926190/" title="A Street In Izushi Town"><img src="https://live.staticflickr.com/65535/52965926190_ca12a58331_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 52965926190 ca12a58331 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ Jika ditemukan di luar Jepang, kemungkinan besar berada di wilayah seperti {{% g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/japan/cryptomeria_japonica.jpg" width="500px" alt="Cryptomeria japonica">
+<img src="/rule/asia/japan/cryptomeria_japonica.jpg" width="500px" alt="Japan GeoGuessr guide image showing Cryptomeria Japonica">
 </div>
 
 {{% notice tip %}}
@@ -60,7 +60,7 @@ Jangan salah membedakan kamera rendah Jepang dengan kamera rendah di {{% goto ".
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/gifu_prefectural_road_85.jpg" width="90%" alt="Gifu prefectural road 85">
+<img src="/rule/asia/japan/gifu_prefectural_road_85.jpg" width="90%" alt="Japan GeoGuessr guide image showing Gifu Prefectural Road 85">
 </div>
 
 {{% notice tip %}}
@@ -68,7 +68,7 @@ Terdapat delineator berwarna oranye di sisi jalan {{% ref "https://www.shisenyuu
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/yorozuna/24211912034/in/photolist-CTwnVd-nvKsya-2kJnmeU-nzbDNL-daoBVs-6t6LGZ-gR32GT-zGhCVc-GftizY-LctdpP-oRywSY-opstGN-24qJHTY-n9SuyP-XtPB8p-2hbTVSn-ZFune9-qfURKd-2ma5uSE-2kDmouC-qXQU9a-dH1sws-chhP6w-mDvHcc-nENWEg-XpQPgq-q3jREQ-qxqjs6-2iA6r1u-bzJa2c-Ut93tZ-shTHVU-gKvbTv-xCkR43-2kxptKc-fiQHTU-jD3kZ2-E3s9F1-2kkVMbM-FP8R4t-kYbtS8-H4DoY1-nic9SX-7VSuKU-mzbAqt-2jCnmvQ-JvUKAw-hzVt26-pNenTE-2kkVLuS" title="熱波と爽風の交わり"><img src="https://live.staticflickr.com/1619/24211912034_ec20fef3d1_z.jpg" width="640" height="427" alt="熱波と爽風の交わり"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/yorozuna/24211912034/in/photolist-CTwnVd-nvKsya-2kJnmeU-nzbDNL-daoBVs-6t6LGZ-gR32GT-zGhCVc-GftizY-LctdpP-oRywSY-opstGN-24qJHTY-n9SuyP-XtPB8p-2hbTVSn-ZFune9-qfURKd-2ma5uSE-2kDmouC-qXQU9a-dH1sws-chhP6w-mDvHcc-nENWEg-XpQPgq-q3jREQ-qxqjs6-2iA6r1u-bzJa2c-Ut93tZ-shTHVU-gKvbTv-xCkR43-2kxptKc-fiQHTU-jD3kZ2-E3s9F1-2kkVMbM-FP8R4t-kYbtS8-H4DoY1-nic9SX-7VSuKU-mzbAqt-2jCnmvQ-JvUKAw-hzVt26-pNenTE-2kkVLuS" title="熱波と爽風の交わり"><img src="https://live.staticflickr.com/1619/24211912034_ec20fef3d1_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 24211912034 ec20fef3d1 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ Terdapat guardrail berwarna putih di tepi jalan.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/rural_unpaved_road_waving.jpg" width="90%" alt="Rural unpaved road waving">
+<img src="/rule/asia/japan/rural_unpaved_road_waving.jpg" width="90%" alt="Japan GeoGuessr guide image showing Rural Unpaved Road Waving">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ Kode area mulai dari Sapporo (`011`), Tokyo (`03`), Osaka (`06`), hingga Kagoshi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/2023-04-14-21-52-22.png" class="no-click" alt="2023 04 14 21 52 22" />
+<img src="/rule/asia/japan/2023-04-14-21-52-22.png" class="no-click" alt="Japan GeoGuessr guide image showing 2023 04 14 21 52 22" />
 <p><a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachu - CC0</a></p>
 </div>
 {{% /tab %}}

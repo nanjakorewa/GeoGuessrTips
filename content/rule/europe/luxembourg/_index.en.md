@@ -41,7 +41,7 @@ sc: [
 License plates are <span class="quiz">yellow</span> both front and back. Luxembourg’s GDP per capita is roughly 2.5× the EU average, so premium makes such as Volkswagen, Mercedes, and Audi dominate sales {{% ref "https://www.focus2move.com/luxembourg-car-market-2022/" "Luxembourg 2022 car market report" %}}. By contrast, the Netherlands features many Kia and Toyota models.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/luxembourg/car.jpg" width="600px" alt="Luxembourg vehicles"/>
+<img src="/rule/europe/luxembourg/car.jpg" width="600px" alt="Luxembourg GeoGuessr guide image showing Car"/>
 </div>
 {{% lb 50 %}}
 ![](/rule/europe/luxembourg/2023-04-12-06-05-39.png)
@@ -54,7 +54,7 @@ By Willtron, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?cu
 Luxembourg bollards have <span class="quiz">grey</span> reflective strips with no red-orange segments. {{% ex "https://goo.gl/maps/QESb1y9SiZrtD3MUA" %}} They resemble German bollards, but the reflector screws sit in different positions—check nearby posts when in doubt (more research still needed!).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/luxembourg/lx-borllard.png" width="170px" alt="Luxembourg bollard"/>
+<img src="/rule/europe/luxembourg/lx-borllard.png" width="170px" alt="Luxembourg GeoGuessr guide image showing Lx Borllard"/>
 </div>
 
 {{% notice tip %}}
@@ -62,11 +62,11 @@ Yellow diamond town signs display place names {{% ex "https://goo.gl/maps/xjRsYM
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="unclickable"><img src="/rule/europe/luxembourg/r/Luxembourg_road_sign_diagram_E_1_a1.gif" width="317px" alt="Luxembourg town sign diagram" /></div>
+<div class="unclickable"><img src="/rule/europe/luxembourg/r/Luxembourg_road_sign_diagram_E_1_a1.gif" width="317px" alt="R GeoGuessr guide image showing Luxembourg Road Sign Diagram E 1 a1" /></div>
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/luxembourg/r/lx-routesign.png" width="150px" alt="Luxembourg route marker"/>
-<img src="/rule/europe/luxembourg/r/route-sign-2.png" width="200px" style="margin:3px" alt="Luxembourg street plaque" />
+<img src="/rule/europe/luxembourg/r/lx-routesign.png" width="150px" alt="R GeoGuessr guide image showing Lx Routesign"/>
+<img src="/rule/europe/luxembourg/r/route-sign-2.png" width="200px" style="margin:3px" alt="R GeoGuessr guide image showing Route Sign 2" />
 </div>
 
 
@@ -75,10 +75,10 @@ Yellow diamond town signs display place names {{% ex "https://goo.gl/maps/xjRsYM
 Among neighbouring countries, only Luxembourg uses chevrons with white arrows on a <span class="quiz">dark-grey</span> panel. {{% ex "https://goo.gl/maps/M8vSk9tBJow9bK7Z8" %}} Belgium and the Netherlands favour red-and-white designs, while France mixes red-white and blue-white variants {{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "European chevron sign map" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#555;padding-top:30px;margin-bottom:0;border-radius:20px">
-<img src="/rule/europe/luxembourg/r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:10px" alt="Luxembourg chevron">
-<img src="/rule/europe/luxembourg/r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:100px" alt="Luxembourg chevron diagram">
-<img src="/rule/europe/belgium/r/xv.png" width="100px" style="margin-right:10px" alt="Belgian chevron">
-<img src="/rule/europe/france/r/xcv.png" width="100px" alt="French chevron">
+<img src="/rule/europe/luxembourg/r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:10px" alt="R GeoGuessr guide image showing Luxembourg Road Sign E,24b 2L">
+<img src="/rule/europe/luxembourg/r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Luxembourg Road Sign Diagram E,24b 2L (2018)">
+<img src="/rule/europe/belgium/r/xv.png" width="100px" style="margin-right:10px" alt="R GeoGuessr guide image showing Xv">
+<img src="/rule/europe/france/r/xcv.png" width="100px" alt="R GeoGuessr guide image showing Xcv">
 </div>
 
 {{% /tab %}}
@@ -105,7 +105,7 @@ Posts marked with <span class="quiz">CR ###</span> correspond to yellow secondar
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Luxembourg_road_sign_E,21dc_(CR225).jpg#/media/File:Luxembourg_road_sign_E,21dc_(CR225).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_E%2C21dc_%28CR225%29.jpg" alt="Luxembourg road marker CR225" height="720" width="650"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GilPe" title="User:GilPe">GilPe</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89262230">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Luxembourg_road_sign_E,21dc_(CR225).jpg#/media/File:Luxembourg_road_sign_E,21dc_(CR225).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Luxembourg_road_sign_E%2C21dc_%28CR225%29.jpg" alt="Wikimedia Commons photo showing Luxembourg Road Sign E,21dc (CR225)" height="720" width="650"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GilPe" title="User:GilPe">GilPe</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89262230">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

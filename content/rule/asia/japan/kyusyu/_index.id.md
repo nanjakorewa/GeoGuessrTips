@@ -13,17 +13,17 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" title="Kumamoto" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kumamoto.svg" alt="Kumamoto" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Kumamoto.svg" alt="Image from geopinning.space showing Kumamoto" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">Kumamoto</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" title="Kagoshima" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kagoshima.svg" alt="Kagoshima" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Kagoshima.svg" alt="Image from geopinning.space showing Kagoshima" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">Kagoshima</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" title="Okinawa" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">
-            <img src="https://geopinning.space/flags/OKINAWA.svg" alt="Okinawa" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/OKINAWA.svg" alt="Image from geopinning.space showing Okinawa" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">Okinawa</a></p>
     </li>
 </ul>
@@ -43,7 +43,7 @@ Pelat tiang milik Kyushu Electric Power mudah dikenali; melihat logonya menandak
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
 </div>
 
 {{% /tab %}}
@@ -53,7 +53,7 @@ Ilalang Miscanthus sering tumbuh di tepi jalan dan padang-padang terbuka.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg" alt="Road japan kumamoto method">
+<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg" alt="Kyusyu GeoGuessr guide image showing Road Japan Kumamoto Method">
 </div>
 
 {{% /tab %}}

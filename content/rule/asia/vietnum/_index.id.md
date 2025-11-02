@@ -31,7 +31,7 @@ Tiang rambu lalu lintas memiliki pola garis merah-putih {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/road1.jpg" width="95%" alt="Road1">
+<img src="/rule/asia/vietnum/road1.jpg" width="95%" alt="Vietnum GeoGuessr guide image showing road1">
 </div>
 
 {{% notice tip %}}
@@ -39,7 +39,7 @@ Bahasa Vietnam menggunakan huruf Latin, sehingga cukup mudah dibedakan dari {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
+<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Vietnum GeoGuessr guide image showing Street Market Hanoi Vietnam 5">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ Bolard merah-putih ditemukan di beberapa lokasi {{% ex "https://maps.app.goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:The_region_of_Binh_Hoa_committee.jpg#/media/File:The_region_of_Binh_Hoa_committee.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_region_of_Binh_Hoa_committee.jpg" alt="The region of Binh Hoa committee.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Y_Kpia_Mlo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Y Kpia Mlo (page does not exist)">Y Kpia Mlo</a> - <span class="int-own-work" lang="id">Karya pribadi</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10847824">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:The_region_of_Binh_Hoa_committee.jpg#/media/File:The_region_of_Binh_Hoa_committee.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_region_of_Binh_Hoa_committee.jpg" alt="Wikimedia Commons photo showing The Region Of Binh Hoa Committee" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Y_Kpia_Mlo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Y Kpia Mlo (page does not exist)">Y Kpia Mlo</a> - <span class="int-own-work" lang="id">Karya pribadi</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10847824">Link</a></p>
 </div>
 
 {{% notice tip %}}

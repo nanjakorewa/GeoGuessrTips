@@ -27,7 +27,7 @@ Fíjate en la señalización con dos puntos naranjas; es un emblema recurrente e
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/shikoku/kagawa/otaki_tunnel_nio.jpg" alt="Otaki tunnel nio">
+<img src="/rule/asia/japan/shikoku/kagawa/otaki_tunnel_nio.jpg" alt="Kagawa GeoGuessr guide image showing Otaki Tunnel Nio">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ Las placas de los postes de Shikoku Electric Power aparecen con frecuencia. Cuan
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px" alt="Pole shikoku">
+<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Shikoku">
 </div>
 
 {{% /tab %}}

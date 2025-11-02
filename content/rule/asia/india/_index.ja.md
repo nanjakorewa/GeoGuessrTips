@@ -44,7 +44,7 @@ sc: [
 言語が特徴的{{% ex "https://maps.app.goo.gl/yes28VrDXMdyNT9h8" %}}で英語のみの時もある{{% ex "https://maps.app.goo.gl/6DfxqiyTBBA1BxWL9" %}}。また都心では看板の下に英語で住所が書いてあることも多いので都市の判別はすぐにできることが多い{{% ex "https://goo.gl/maps/AXZgXsD1KL6caRtU9" "https://goo.gl/maps/EYZo8wfHJXYWEuH29" "https://goo.gl/maps/gsG8oJJ1MGaMb1we8" "https://goo.gl/maps/L1EM1YBtwkMqfDDK9" %}}。しかし、インドは都市圏でも住所システムが完全には整備されておらずときどき商品が届かないこともある{{% ref "https://www.jetro.go.jp/ext_images/_Reports/02/2019/077e21895f950a3e/in_201906.pdf" "インドEC市場調査報告書 - 日本貿易振興機構" %}}くらいなので、住所が分かっていても地域や道路を絞り込むのは結構難しいかも。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 46794612765 86a5eac044 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -53,7 +53,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="pole.jpg" width="90%" alt="インドの電柱" />
+<img src="pole.jpg" width="90%" alt="India GeoGuessr guide image showing Pole" />
 </div>
 
 <div class="googlemap-if no-margin">
@@ -64,7 +64,7 @@ sc: [
 電柱の配線が綺麗に整備されていない場合も多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./delhi_road_india_chaos.jpg" width="80%" alt="Delhi road india chaos">
+<img src="./delhi_road_india_chaos.jpg" width="80%" alt="India GeoGuessr guide image showing Delhi Road India Chaos">
 </div>
 
 {{% notice tip %}}
@@ -144,7 +144,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.jpg" width="80%" alt="Bollard">
+<img src="./bollard.jpg" width="80%" alt="India GeoGuessr guide image showing Bollard">
 </div>
 
 {{% /tab %}}
@@ -204,7 +204,7 @@ sc: [
 アフマダーバード周辺。ちなみに階段井戸もアフマダーバード周辺に多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Building_at_Patasa_pol_-_2.JPG#/media/File:Building_at_Patasa_pol_-_2.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Building_at_Patasa_pol_-_2.JPG" alt="Building at Patasa pol - 2.JPG" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Aksi_great" title="User:Aksi great">Aksi great</a>, Dipan Shukla - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3323700">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Building_at_Patasa_pol_-_2.JPG#/media/File:Building_at_Patasa_pol_-_2.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Building_at_Patasa_pol_-_2.JPG" alt="Wikimedia Commons photo showing Building At Patasa Pol 2" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Aksi_great" title="User:Aksi great">Aksi great</a>, Dipan Shukla - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3323700">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "ベンガリ語" %}}
@@ -212,7 +212,7 @@ sc: [
 ◁の形が文字中に散見される。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./shambhunath_pundit_hospital_kolkata.jpg" alt="Shambhunath pundit hospital kolkata">
+<img src="./shambhunath_pundit_hospital_kolkata.jpg" alt="India GeoGuessr guide image showing Shambhunath Pundit Hospital Kolkata">
 </div>
 {{% /tab %}}
 {{% tab "カンナダ語" %}}
@@ -220,7 +220,7 @@ sc: [
 カルナータカ地方とベンガルール周辺に話者が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "カンナダ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="panchayath.jpg" alt="Panchayath">
+<img src="panchayath.jpg" alt="India GeoGuessr guide image showing Panchayath">
 </div>
 {{% /tab %}}
 {{% tab "ヒンディー語" %}}
@@ -228,7 +228,7 @@ sc: [
 ヒンディー語・ヒンドゥスターニー語はデリーを含む地域で話される自然言語。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./baba_bateshwar_sewa_sansthan.jpg" alt="Baba bateshwar sewa sansthan">
+<img src="./baba_bateshwar_sewa_sansthan.jpg" alt="India GeoGuessr guide image showing Baba Bateshwar Sewa Sansthan">
 </div>
 {{% /tab %}}
 {{% tab "タミル語" %}}
@@ -236,7 +236,7 @@ sc: [
 スリランカの海岸沿いに多い{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./wcc_chennai2.jpg" alt="Wcc chennai2">
+<img src="./wcc_chennai2.jpg" alt="India GeoGuessr guide image showing Wcc chennai2">
 </div>
 {{% /tab %}}
 {{% tab "テルグ語" %}}
@@ -244,7 +244,7 @@ sc: [
 テルグ語（తెలుగు）はアーンドラ・プラデーシュ州およびテランガーナ州の公用語。文字の周りにある「つ」「✓」「ｍ」のような形が特徴的{{% ref "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "テルグ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./apsrtc_bus_stop_zahirabad.jpg" alt="Apsrtc bus stop zahirabad">
+<img src="./apsrtc_bus_stop_zahirabad.jpg" alt="India GeoGuessr guide image showing Apsrtc Bus Stop Zahirabad">
 </div>
 {{% /tab %}}
 {{% tab "マラヤーラム語" %}}
@@ -252,7 +252,7 @@ sc: [
 ケーララ州と{{% goto "../lakshadweep/" "ラクシャドウィープ" %}}で使用されている言語{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "マラヤーラム語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./thirunelli_temple_frontview.jpg" alt="Thirunelli temple frontview">
+<img src="./thirunelli_temple_frontview.jpg" alt="India GeoGuessr guide image showing Thirunelli Temple Frontview">
 </div>
 {{% /tab %}}
 {{% tab "チベット語" %}}
@@ -260,7 +260,7 @@ sc: [
 ラダック連邦直轄領のLehなどのチベット文化圏に属している限定された地域で見つかる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg#/media/File:Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg" alt="Notice at the Mingyur Dorje chöten.jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg#/media/File:Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Notice_at_the_Mingyur_Dorje_ch%C3%B6ten.jpg" alt="Wikimedia Commons photo showing Notice At The Mingyur Dorje Chöten" width="90%"></a></p>
 <p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">　　　CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42014485">Link</a>　　　</p>
 </div>
 {{% /tab %}}
@@ -326,11 +326,11 @@ sc: [
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:IndiaStatesByRTOcodes.png#/media/File:IndiaStatesByRTOcodes.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/IndiaStatesByRTOcodes.png" alt="IndiaStatesByRTOcodes.png" width="550"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=675325">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:IndiaStatesByRTOcodes.png#/media/File:IndiaStatesByRTOcodes.png"><img src="https://upload.wikimedia.org/wikipedia/commons/5/59/IndiaStatesByRTOcodes.png" alt="Wikimedia Commons photo showing Indiastatesbyrtocodes" width="550"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=675325">Link</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./india_kerala_traffic_transport.jpg" width="90%" alt="India kerala traffic transport">
+<img src="./india_kerala_traffic_transport.jpg" width="90%" alt="India GeoGuessr guide image showing India Kerala Traffic Transport">
 </div>
 
 {{% /tab %}}
@@ -339,7 +339,7 @@ sc: [
 全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="auto_rickshaw_vehicles_automobiles.jpg" alt="Auto rickshaw vehicles automobiles">
+<img src="auto_rickshaw_vehicles_automobiles.jpg" alt="India GeoGuessr guide image showing Auto Rickshaw Vehicles Automobiles">
 </div>
 {{% /tab %}}
 {{% tab "黄色・黄色" %}}
@@ -347,7 +347,7 @@ sc: [
 黄色の時は<span class="quiz">南</span>に行ってみる？
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="rickshaw_india_car_710154.jpg" alt="Rickshaw india car 710154">
+<img src="rickshaw_india_car_710154.jpg" alt="India GeoGuessr guide image showing Rickshaw India Car 710154">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -371,11 +371,11 @@ sc: [
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-13-47-23.png" width="60%" alt="2023 05 18 13 47 23" />
+<img src="2023-05-18-13-47-23.png" width="60%" alt="India GeoGuessr guide image showing 2023 05 18 13 47 23" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./oil_palm_tree_plantation_1.jpg" width="60%" alt="Oil palm tree plantation 1" />
+<img src="./oil_palm_tree_plantation_1.jpg" width="60%" alt="India GeoGuessr guide image showing Oil Palm Tree Plantation 1" />
 </div>
 
 {{% notice tip %}}
@@ -384,7 +384,7 @@ sc: [
 {{% /tab %}}
 {{% tab "菜種" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-14-03-20.png" width="60%" alt="2023 05 18 14 03 20" />
+<img src="2023-05-18-14-03-20.png" width="60%" alt="India GeoGuessr guide image showing 2023 05 18 14 03 20" />
 </div>
 
 {{% notice tip %}}
@@ -398,7 +398,7 @@ sc: [
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-14-07-10.png" width="60%" alt="2023 05 18 14 07 10" />
+<img src="2023-05-18-14-07-10.png" width="60%" alt="India GeoGuessr guide image showing 2023 05 18 14 07 10" />
 </div>
 
 
@@ -409,7 +409,7 @@ sc: [
 {{% /tab %}}
 {{% tab "コットン" %}}
 <div class="googlemap-if unclickable">
-<img src="IND_Cotton.png" width="60%" alt="IND Cotton" />
+<img src="IND_Cotton.png" width="60%" alt="India GeoGuessr guide image showing Ind Cotton" />
 </div>
 
 {{% notice tip %}}
@@ -419,11 +419,11 @@ sc: [
 {{% /tab %}}
 {{% tab "お茶" %}}
 <div class="googlemap-if unclickable">
-<img src="Tea-producing-regions-of-India.png" width="60%" alt="Tea producing regions of India" />
+<img src="Tea-producing-regions-of-India.png" width="60%" alt="India GeoGuessr guide image showing Tea Producing Regions Of India" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./tea_garden_tea_plant.jpg" width="60%" alt="Tea garden tea plant" />
+<img src="./tea_garden_tea_plant.jpg" width="60%" alt="India GeoGuessr guide image showing Tea Garden Tea Plant" />
 </div>
 
 {{% notice tip %}}
@@ -433,7 +433,7 @@ sc: [
 {{% /tab %}}
 {{% tab "大麦・小麦" %}}
 <div class="googlemap-if unclickable">
-<img src="./barley_field_wind_eddy.jpg" width="60%" alt="Barley field wind eddy" />
+<img src="./barley_field_wind_eddy.jpg" width="60%" alt="India GeoGuessr guide image showing Barley Field Wind Eddy" />
 </div>
 
 {{% notice tip %}}
@@ -459,7 +459,7 @@ sc: [
 黄色いタンクがある場合おそらく<span class="quiz">ベンガル―ル</span>や<span class="quiz">チェンナイ</span>のような南の街{{% ex "https://maps.app.goo.gl/DMdZ1UNG4dyuCitF9" "https://maps.app.goo.gl/5u7UY29aEGZjBqMv7" %}}。ただし北の方でもたまに見かけるので100%ではない。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/scalino/10798845626/in/photolist-hsfUzy-roCaoo-hsgvT7-4uoKsi-8wCDBf-AiyM6u-vXybJ8-bkYtBd-86338a-g8JUQ-tpUrV-9tRbFC-bW9EZd-aK54he-eVqxZu-aGRWAX-BWUuWD-aK571X-6kXHRg-aK9aga-DoB8b7-fDD8yM-EqRqcY-9WSJDM-aK55Kr-245ArW-9qRM3c-bEGnco-9RNir2-ajpsfp-ty1EC7-aK568p-DRoHNC-D99WE-Hpz1Fa-gR4jxp-NoZWy-fDVhR9-gmKBzW-5waGzd-9YYMXc-AHkUc-5kFjBw-5Ripeh-sbuLy-6cPnsU-2r79Gi-mxjTS-67n7tq-LLRGNG" title="Blue &amp; orange house"><img src="https://live.staticflickr.com/3724/10798845626_c8cba1937b_z.jpg" width="640" height="427" alt="Blue &amp; orange house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/scalino/10798845626/in/photolist-hsfUzy-roCaoo-hsgvT7-4uoKsi-8wCDBf-AiyM6u-vXybJ8-bkYtBd-86338a-g8JUQ-tpUrV-9tRbFC-bW9EZd-aK54he-eVqxZu-aGRWAX-BWUuWD-aK571X-6kXHRg-aK9aga-DoB8b7-fDD8yM-EqRqcY-9WSJDM-aK55Kr-245ArW-9qRM3c-bEGnco-9RNir2-ajpsfp-ty1EC7-aK568p-DRoHNC-D99WE-Hpz1Fa-gR4jxp-NoZWy-fDVhR9-gmKBzW-5waGzd-9YYMXc-AHkUc-5kFjBw-5Ripeh-sbuLy-6cPnsU-2r79Gi-mxjTS-67n7tq-LLRGNG" title="Blue &amp; orange house"><img src="https://live.staticflickr.com/3724/10798845626_c8cba1937b_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 10798845626 c8cba1937b Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "北部" %}}
@@ -468,7 +468,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/monkey_varanasi_on_roof.jpg" alt="Monkey varanasi on roof">
+<img src="./house/monkey_varanasi_on_roof.jpg" alt="House GeoGuessr guide image showing Monkey Varanasi On Roof">
 </div>
 
 {{% /tab %}}
@@ -478,7 +478,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/village_asia_house_india.jpg" alt="Village asia house india">
+<img src="./house/village_asia_house_india.jpg" alt="House GeoGuessr guide image showing Village Asia House India">
 </div>
 
 {{% /tab %}}
@@ -487,7 +487,7 @@ sc: [
 Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}。ただし南の方にも普通にあるみたい{{% ex "https://maps.app.goo.gl/MvLJ2PyfBuwdCY1k7" %}}なので地域を限定するのは難しいかも。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house/city_blue_city_dzodhpur.jpg" alt="City blue city dzodhpur">
+<img src="./house/city_blue_city_dzodhpur.jpg" alt="House GeoGuessr guide image showing City Blue City Dzodhpur">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -513,7 +513,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Alleppey_river_ride.jpg#/media/File:Alleppey_river_ride.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Alleppey_river_ride.jpg" alt="Alleppey river ride.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bharath_maraboina123&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bharath maraboina123 (page does not exist)">Bharath maraboina123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49516918">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Alleppey_river_ride.jpg#/media/File:Alleppey_river_ride.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Alleppey_river_ride.jpg" alt="Wikimedia Commons photo showing Alleppey River Ride" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Bharath_maraboina123&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Bharath maraboina123 (page does not exist)">Bharath maraboina123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49516918">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Kerala" %}}
@@ -521,7 +521,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 Goaと同じく雨が多く、背の高いヤシが見つかる{{% ex "https://maps.app.goo.gl/aHTmvXeGD1bsM5pq8" %}}。Keralaの伝統的な建築は２階建てのものが多い{{% ex "https://maps.app.goo.gl/i8FxivqpAVPrqfFXA" %}}{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "インド・ネパールにおける伝統建築の技法と伝承" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="machukuzhy_sunnys_home.jpg" witdh="95%" alt="Machukuzhy sunnys home">
+<img src="machukuzhy_sunnys_home.jpg" witdh="95%" alt="India GeoGuessr guide image showing Machukuzhy Sunnys Home">
 </div>
 {{% /tab %}}
 {{% tab "Assam" %}}
@@ -530,14 +530,14 @@ Kerala州やAssam州のような降水量が多い地域はこんな感じの背
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="arecanut_trees_assam.jpg" alt="Arecanut trees assam">
+<img src="arecanut_trees_assam.jpg" alt="India GeoGuessr guide image showing Arecanut Trees Assam">
 </div>
 {{% notice tip %}}
 Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}。レンガのような重い素材は地震で崩れてしまう。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg#/media/File:House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg" alt="House of Mising people on the bank of Rangandi River.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Nalbarian" title="User:Nalbarian">Nalbarian</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=95668448">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg#/media/File:House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/House_of_Mising_people_on_the_bank_of_Rangandi_River.jpg" alt="Wikimedia Commons photo showing House Of Mising People On The Bank Of Rangandi River" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Nalbarian" title="User:Nalbarian">Nalbarian</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=95668448">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -565,7 +565,7 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="pole2.jpg" alt="Pole2">
+<img src="pole2.jpg" alt="India GeoGuessr guide image showing pole2">
 </div>
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
@@ -573,7 +573,7 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 黄色い長方形のステッカーがある{{% ex "https://maps.app.goo.gl/n8SAL2DoJua6JGMo6" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./flood_water_street_disaster.jpg" width="600" alt="Flood water street disaster">
+<img src="./flood_water_street_disaster.jpg" width="600" alt="India GeoGuessr guide image showing Flood Water Street Disaster">
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
@@ -582,7 +582,7 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 穴のあるポール（ホーリーポール）がある{{% ex "https://maps.app.goo.gl/cstGEuPUV8Xe6xHe7" %}}{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./telnargaam.jpg" width="600" alt="Telnargaam" />
+<img src="./telnargaam.jpg" width="600" alt="India GeoGuessr guide image showing Telnargaam" />
 </div>
 {{% /tab %}}
 {{% tab "Telangana・Andhra Pradesh" %}}
@@ -642,7 +642,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-09-05-08.png" style="max-width:60%;" alt="2023 04 26 09 05 08" />
+<img src="2023-04-26-09-05-08.png" style="max-width:60%;" alt="India GeoGuessr guide image showing 2023 04 26 09 05 08" />
 <p>By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a></p>
 </div>
 
@@ -702,7 +702,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 チベット文字が街中で見られる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。また、全方位に山が見える{{% ex "https://maps.app.goo.gl/YJMVt3qx2yBeSAyR8" %}}。夏以外は空路しか通じておらず街中に空港がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./view_leh.jpg" width="90%" alt="View leh">
+<img src="./view_leh.jpg" width="90%" alt="India GeoGuessr guide image showing View Leh">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

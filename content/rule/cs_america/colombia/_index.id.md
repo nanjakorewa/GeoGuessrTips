@@ -41,18 +41,18 @@ sc: [
 Bagian belakang rambu jalan memiliki <span class="quiz">salib (yang dikenal sebagai Kolombian Cross)</span>. Dari belakang, salib ini terlihat jelas {{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://maps.app.goo.gl/LKsQoKCVRoey12zX7" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}, sementara dari depan terlihat empat sekrup {{% ex "https://maps.app.goo.gl/1HmKUtG9pEmAq2fF9" "https://maps.app.goo.gl/hcU1fFzbteDvtMBM7" "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}. Tiang dan bagian belakangnya biasanya berwarna putih. Kadang-kadang, tanda yang mirip salib juga ditemukan di {{% goto "../ecuador/" "Ekuador" %}} sehingga perlu diperhatikan {{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" alt="Road sign example" />
+<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign Example" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" alt="Road sign" />
+<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign" />
 </div>
 
 {{% notice tip %}}
 Plat nomor berwarna <span class="quiz">kuning di depan dan belakang</span> {{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}} atau putih. Pada motor, plat nomor di belakang juga berwarna <span class="quiz">kuning</span> {{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}. Di {{% goto "../peru/" "Peru" %}} juga ditemukan plat kuning, namun di Kolombia warnanya cenderung lebih mendekati jingga.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/lp.jpg" width="95%" alt="Lp">
+<img src="/rule/cs_america/colombia/lp.jpg" width="95%" alt="Colombia GeoGuessr guide image showing Lp">
 </div>
 
 {{% lb 50 %}}
@@ -66,7 +66,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/roadside.jpg" width="95%" alt="Roadside">
+<img src="/rule/cs_america/colombia/roadside.jpg" width="95%" alt="Colombia GeoGuessr guide image showing Roadside">
 </div>
 
 {{% /tab %}}
@@ -106,7 +106,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% tabs %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" alt="Pone.0043943.g001" />
+<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" alt="Colombia GeoGuessr guide image showing pone.0043943.g001" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -135,7 +135,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Mapa de Colombia (relieve).svg" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">Own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geográfico Agustín Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Mapa oficial de la República de Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Wikimedia Commons photo showing Mapa De Colombia (relieve)" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">Own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geográfico Agustín Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Mapa oficial de la República de Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -155,7 +155,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg" alt="Barranquilla autopista al mar">
+<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg" alt="Colombia GeoGuessr guide image showing Barranquilla Autopista Al Mar">
 </div>
 
 {{% /tab %}}
@@ -175,14 +175,14 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% notice tip %}}Buenaventura adalah pelabuhan utama Kolombia dan menangani sekitar 60% ekspor-impor laut negara itu. Oleh karena itu, jalan menuju pelabuhan ini sering dipenuhi truk kontainer{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}. Kontainer dari {{% goto "https://x.com/one_line_japan" "ONE" %}} juga dapat ditemukan{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg" alt="Aahus port container loading">
+<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg" alt="Colombia GeoGuessr guide image showing Aahus Port Container Loading">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}Di daerah sekitar Medellín, beberapa tiang listrik memiliki garis hitam dan kuning{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" alt="Ar236201" />
+<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" alt="Colombia GeoGuessr guide image showing ar236201" />
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}
@@ -190,11 +190,11 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 7384049646 4bd46ab073 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/cs_america/colombia/r/bollard.png" width="70px" alt="Bollard">
+<img src="https://geopinning.space/rule/cs_america/colombia/r/bollard.png" width="70px" alt="Image from geopinning.space showing Bollard">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -215,28 +215,28 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% notice tip %}}Stiker bertuliskan CARTAGENA dapat ditemukan. Terkadang juga ada pada atap atau sisi truk{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg" alt="Colombia kartagena south america">
+<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg" alt="Colombia GeoGuessr guide image showing Colombia Kartagena South America">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
 {{% notice tip %}}Berjalan di kota terpencil di pulau dengan benteng. Kadang ada orang yang berjalan bersama{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Wikimedia Commons photo showing Fuerte De San Fernando Cartagena (2009) 02" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Leticia" %}}
 {{% notice tip %}}Terhubung secara darat dengan Tabatinga di Brasil dan memiliki hubungan ekonomi yang erat{{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}. Tiang listrik menyerupai yang ada di Brasil dapat ditemukan{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}. Sebagai destinasi wisata, banyak taksi dan wisatawan terlihat. Google Car yang khas juga dapat ditemukan{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Wikimedia Commons photo showing Leticia Town Photograph" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Gorgona" %}}
 {{% notice tip %}}Pulau terpencil bernama Pulau Gorgona{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg" alt="Hotel in gorgona">
+<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg" alt="Colombia GeoGuessr guide image showing Hotel In Gorgona">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalía" %}}

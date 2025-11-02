@@ -32,7 +32,7 @@ jogmec_detail: true
 Many of the companies named MEX are major Mexican companies. And OXXO is a major convenience store in Mexico (but there are also many in Chile and other countries).
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Nuevo Vallarta Mexico"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Image from live.staticflickr.com showing 12165998974 8ce6006e76 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -104,7 +104,7 @@ Coconut palm plantations exist along the coast of Guerrero（Data Source：<a hr
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/2023-05-01-21-40-28.png" width="90%" alt="2023 05 01 21 40 28" />
+<img src="/rule/n_america/mexico/2023-05-01-21-40-28.png" width="90%" alt="Mexico GeoGuessr guide image showing 2023 05 01 21 40 28" />
 </div>
 
 <div class="googlemap-if">
@@ -155,7 +155,7 @@ Jalisco's license plate is yellow on top and light blue on the bottom.
 
 {{% tabs %}}
 {{% tab "Mexico City" %}}
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="DSC08423"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="Image from live.staticflickr.com showing 22251804256 5f89568429 B"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{% /tab %}}
 {{% tab "Sonora" %}}
 <div class="googlemap-if">

@@ -42,7 +42,7 @@ Los bolardos serbios tienen el reflector excéntrico y los guardarraíles usan e
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/serbia/bollar.jpg" width="95%" alt="Bolardo serbio">
+<img src="/rule/europe/serbia/bollar.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bollar">
 </div>
 
 {{% notice tip %}}
@@ -50,7 +50,7 @@ Los caracteres <span class="quiz">Ѓ</span> o <span class="quiz">Ђ</span> solo 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/serbia/Bulevar_NoviSad.jpg" width="95%" alt="Bulevar en Novi Sad">
+<img src="/rule/europe/serbia/Bulevar_NoviSad.jpg" width="95%" alt="Serbia GeoGuessr guide image showing Bulevar Novisad">
 </div>
 
 {{% notice tip %}}
@@ -58,13 +58,13 @@ La cadena IDEA opera en Serbia y {{% goto "../montenegro/" "Montenegro" %}} {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/idea.png" width="500px" alt="IDEA">
-<img src="/rule/europe/serbia/Jelen_pivo.png" width="95px" style="margin:5px" alt="Cerveza Jelen">
+<img src="/rule/europe/serbia/idea.png" width="500px" alt="Serbia GeoGuessr guide image showing Idea">
+<img src="/rule/europe/serbia/Jelen_pivo.png" width="95px" style="margin:5px" alt="Serbia GeoGuessr guide image showing Jelen Pivo">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Logotipo IDEA">
-<img src="/rule/europe/serbia/maxi.svg" width="190px" style="margin-left:20px" alt="Logotipo MAXI">
-<img src="/rule/europe/serbia/Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Logotipo Frikom">
+<img src="/rule/europe/serbia/Idea_Logo.svg" width="150px" style="margin-right:20px;margin-top:5px" alt="Serbia GeoGuessr guide image showing Idea Logo">
+<img src="/rule/europe/serbia/maxi.svg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Maxi">
+<img src="/rule/europe/serbia/Frikom-logo.jpg" width="190px" style="margin-left:20px" alt="Serbia GeoGuessr guide image showing Frikom Logo">
 </div>
 
 {{% notice tip %}}
@@ -72,8 +72,8 @@ Los chevrones con flecha negra sobre fondo blanco son frecuentes en Serbia, {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/serbia/r/ar2.png" width="107px" style="margin:18px" alt="Chevron serbio">
-<img src="/rule/europe/serbia/r/ar1.png" width="100px" style="margin:20px" alt="Chevron alternativo">
+<img src="/rule/europe/serbia/r/ar2.png" width="107px" style="margin:18px" alt="R GeoGuessr guide image showing ar2">
+<img src="/rule/europe/serbia/r/ar1.png" width="100px" style="margin:20px" alt="R GeoGuessr guide image showing ar1">
 </div>
 
 {{% /tab %}}
@@ -103,10 +103,10 @@ Los chevrones con flecha negra sobre fondo blanco son frecuentes en Serbia, {{% 
 {{% tabs %}}
 {{% tab "Girasoles" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/2023-05-23-12-58-45.png" width="70%" alt="Mapa de girasoles"/>
+<img src="/rule/europe/serbia/2023-05-23-12-58-45.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 58 45"/>
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/serbia/volytsya_fastiv_field.jpg" width="80%" alt="Campo de girasoles">
+<img src="/rule/europe/serbia/volytsya_fastiv_field.jpg" width="80%" alt="Serbia GeoGuessr guide image showing Volytsya Fastiv Field">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Los girasoles se concentran en el norte {{% ex "https://maps.app.goo.gl/q5mjcdU8
 {{% tab "Maíz" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/2023-05-23-12-55-04.png" width="70%" alt="Mapa de maíz"/>
+<img src="/rule/europe/serbia/2023-05-23-12-55-04.png" width="70%" alt="Serbia GeoGuessr guide image showing 2023 05 23 12 55 04"/>
 </div>
 
 {{% notice tip %}}

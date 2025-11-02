@@ -40,19 +40,19 @@ sc: [
 {{% goto "../austria/" "オーストリア" %}}と見た目が似ているボラードがある{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}。たまに{{% goto "../montenegro/" "モンテネグロ" %}}にも似た見た目のボラードが存在する{{% ex "https://goo.gl/maps/Chrh7DMo5qQ2EBz26" %}}ため注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.png" width="90%" alt="Bollard">
+<img src="./bollard.png" width="90%" alt="Slovenia GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
 ユーゴスラビア関連国には<span class="quiz">オレンジ</span>の鉛筆の形の看板がある{{% ex "https://maps.app.goo.gl/tW5xrsJtV8xPYkig6" "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}。道端に道路番号が書かれた白く小さい看板があり{{% ex "https://maps.app.goo.gl/rvRWmDMvbSqpR3uG7" %}}、このタイプの看板はスロベニアが一番多い。{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../serbia/" "セルビア" %}}にも稀に存在する。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./baskagrapa3.jpg" width="95%" alt="Baskagrapa3">
+<img src="./baskagrapa3.jpg" width="95%" alt="Slovenia GeoGuessr guide image showing baskagrapa3">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./routesign.png" width="300px" style="margin:15px" alt="Routesign" />
-<img src="./r/Slovenia_road_sign_III-105.svg" width="130px" alt="Slovenia road sign III 105" />
+<img src="./routesign.png" width="300px" style="margin:15px" alt="Slovenia GeoGuessr guide image showing Routesign" />
+<img src="./r/Slovenia_road_sign_III-105.svg" width="130px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 105" />
 </div>
 
 {{% notice tip %}}
@@ -60,8 +60,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="Slovenia road sign III 29 %2840%29">
-<img src="./sign-behind.png" width="145px" style="margin:10px" alt="Sign behind">
+<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 29 %2840%29">
+<img src="./sign-behind.png" width="145px" style="margin:10px" alt="Slovenia GeoGuessr guide image showing Sign Behind">
 </div>
 
 
@@ -70,7 +70,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./house.jpg" width="90%" alt="House" />
+<img src="./house.jpg" width="90%" alt="Slovenia GeoGuessr guide image showing House" />
 </div>
 
 
@@ -78,9 +78,9 @@ sc: [
 隣接している{{% goto "../croatia/" "クロアチア" %}}や{{% goto "../hungary/" "ハンガリー" %}}と異なり横断歩道の看板にベルトが無い。左から<span class="quiz">スロベニア</span>・<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px" alt="Slovenia road sign III 6">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
+<img src="../slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 6">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hr Road Sign C02">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hungary Road Sign E 038">
 </div>
 
 {{% notice tip %}}
@@ -88,8 +88,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="Slovenia road sign III 107 %28L%29" />
-<img src=".//r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="Slovenia road sign III 107.1 %28L%29" />
+<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107 %28L%29" />
+<img src=".//r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107.1 %28L%29" />
 </div>
 
 
@@ -138,17 +138,17 @@ sc: [
 {{% tabs %}}
 {{% tab "Cerknicaの家" %}}
 <div class="googlemap-if unclickable">
-<img src="./cerknica_udovic_r_hisa.jpg" width="370px" alt="Cerknica udovic r hisa">
+<img src="./cerknica_udovic_r_hisa.jpg" width="370px" alt="Slovenia GeoGuessr guide image showing Cerknica Udovic R Hisa">
 </div>
 {{% /tab %}}
 {{% tab "Tržičの家" %}}
 <div class="googlemap-if unclickable">
-<img src="./trzic2_kurnikovahisa.jpg" width="370px" alt="Trzic2 kurnikovahisa">
+<img src="./trzic2_kurnikovahisa.jpg" width="370px" alt="Slovenia GeoGuessr guide image showing trzic2 Kurnikovahisa">
 </div>
 {{% /tab %}}
 {{% tab "Gorišnicaの家" %}}
 <div class="googlemap-if unclickable">
-<img src="./gorisnica_dominkovadomacija.jpg" width="550px" alt="Gorisnica dominkovadomacija">
+<img src="./gorisnica_dominkovadomacija.jpg" width="550px" alt="Slovenia GeoGuessr guide image showing Gorisnica Dominkovadomacija">
 </div>
 {{% /tab %}}
 {{% tab "カルスト地形" %}}

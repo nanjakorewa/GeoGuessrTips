@@ -40,7 +40,7 @@ sc: [
 There are no cars with a <span class="quiz">front license plate</span>. Thick square poles sometimes have colored paint near the base{{% ex "https://maps.app.goo.gl/XxN31SaHk76dDTvQ7" "https://maps.app.goo.gl/ZAZchittC7GJfBmE7" %}}. In 2014–2023 imagery the left half of the plate looks dark while the right half is pale{{% ex "https://maps.app.goo.gl/X1YBm8SU1VYXt3Zk6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/puerto-rico/road.jpg" width="90%" alt="Road">
+<img src="/rule/n_america/puerto-rico/road.jpg" width="90%" alt="Puerto Rico GeoGuessr guide image showing Road">
 </div>
 
 
@@ -57,12 +57,12 @@ Speed limit signs use MPH{{% ex "https://maps.app.goo.gl/yCeskaZbva61uYKJA" "htt
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/cogdog/22307894262/in/photolist-4xwgBY-2qcbo57-2q4pDGH-zZgMLA-2q4p1Pt-2q4pUhf-2qaaEHF" title="ds106.4life"><img src="https://live.staticflickr.com/667/22307894262_8da5324b06_c.jpg" width="90%" alt="ds106.4life"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cogdog/22307894262/in/photolist-4xwgBY-2qcbo57-2q4pDGH-zZgMLA-2q4p1Pt-2q4pUhf-2qaaEHF" title="ds106.4life"><img src="https://live.staticflickr.com/667/22307894262_8da5324b06_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 22307894262 8da5324b06 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/puerto-rico/r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px" alt="MUTCD R2 1 PR">
-<img src="/rule/n_america/puerto-rico/r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px" alt="MUTCD PR R2 2a">
+<img src="/rule/n_america/puerto-rico/r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Mutcd R2 1 Pr">
+<img src="/rule/n_america/puerto-rico/r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Mutcd Pr R2 2a">
 </div>
 
 {{% notice tip %}}
@@ -71,8 +71,8 @@ Highway shields come in a few styles. The circular shields usually cover numbers
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/puerto-rico/r/869.png" width="100px" style="margin:10px" alt="869">
-<img src="/rule/n_america/puerto-rico/r/970.png" width="80px" style="margin:10px" alt="970">
+<img src="/rule/n_america/puerto-rico/r/869.png" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing 869">
+<img src="/rule/n_america/puerto-rico/r/970.png" width="80px" style="margin:10px" alt="R GeoGuessr guide image showing 970">
 </div>
 
 {{% notice tip %}}
@@ -80,7 +80,7 @@ Phone numbers tend to start with <span class="quiz">787</span>{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel,_Ponce,_Puerto_Rico_(DSC04941).jpg#/media/File:Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel,_Ponce,_Puerto_Rico_(DSC04941).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel%2C_Ponce%2C_Puerto_Rico_%28DSC04941%29.jpg" alt="Letrero Industrias Vassallo en Barrio Coto Laurel, Ponce, Puerto Rico (DSC04941).jpg"  width="90%"></a></p><p>By Roca Ruiz - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/roca-ruiz/6687927479/">https://www.flickr.com/photos/roca-ruiz/6687927479/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30928121">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel,_Ponce,_Puerto_Rico_(DSC04941).jpg#/media/File:Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel,_Ponce,_Puerto_Rico_(DSC04941).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/80/Letrero_Industrias_Vassallo_en_Barrio_Coto_Laurel%2C_Ponce%2C_Puerto_Rico_%28DSC04941%29.jpg" alt="Wikimedia Commons photo showing Letrero Industrias Vassallo En Barrio Coto Laurel, Ponce, Puerto Rico (DSC04941)"  width="90%"></a></p><p>By Roca Ruiz - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/roca-ruiz/6687927479/">https://www.flickr.com/photos/roca-ruiz/6687927479/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=30928121">Link</a></p>
 </div>
 
 {{% /tab %}}

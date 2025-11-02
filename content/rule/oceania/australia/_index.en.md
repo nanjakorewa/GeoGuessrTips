@@ -47,33 +47,33 @@ sc: [
 Cars drive on the <span class="quiz">left side</span>. {{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}. Vehicles travel on the left, and signs are also positioned on the left.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%" alt="Landscape rural farming sugar">
+<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%" alt="Australia GeoGuessr guide image showing Landscape Rural Farming Sugar">
 </div>
 
 {{% notice tip %}}
 There are many <span class="quiz">eucalyptus</span> trees. Utility poles are often made of green wooden eucalyptus {{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}} or steel to protect against termites. {{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/up.png" width="95%" alt="Australian utility pole">
+<img src="/rule/oceania/australia/up.png" width="95%" alt="Australia GeoGuessr guide image showing Up">
 </div>
 
 {{% notice tip %}}
 Australian bollards typically have red reflective panels on only one side, and the red area is smaller. {{% ex "https://maps.app.goo.gl/m3hGyoS5R2qaVR2P9" "https://maps.app.goo.gl/NKbGDe7paHKkTRNz8" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}. Left: <span class="quiz">Australia</span>; Right: <span class="quiz">New Zealand</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/bollard.jpg" width="90%" alt="Bollard">
+<img src="/rule/oceania/australia/bollard.jpg" width="90%" alt="Australia GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
 The font used for road numbers differs between Australia and South Africa. Left: <span class="quiz">South Africa</span>; Right: <span class="quiz">Australia</span>. {{% goto "../../africa/south-africa/" "South Africa" %}} road signs often include place names with "oo" or "ee" and tend to have a more angular design, making them easier to distinguish with experience.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="https://geopinning.space/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="M4">
-<img src="https://geopinning.space/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
+<img src="https://geopinning.space/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="Image from geopinning.space showing M4">
+<img src="https://geopinning.space/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="Image from geopinning.space showing New South Wales Alphanumeric Route M23">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%" alt="2023 08 03 02 54 05">
+<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%" alt="Australia GeoGuessr guide image showing 2023 08 03 02 54 05">
 </div>
 
 {{% notice tip %}}
@@ -81,11 +81,11 @@ In Australia, speed limits are often displayed on narrow white plates. {{% ex "h
 Additionally, if "GIVE WAY" is written in black text, it is <span class="quiz">Australia</span> {{% ex "https://maps.app.goo.gl/gwfm8xdCN3Zgp6D2A" %}}; if written in red, it is <span class="quiz">New Zealand</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" class="margin-ten-px width100" alt="AU speed limit">
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" alt="Australia road sign R1 2">
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0" alt="New Zealand road sign R2 2">
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" alt="NZ speedlimit">
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100" alt="New Zealand road sign R2 2">
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" class="margin-ten-px width100" alt="Image from geopinning.space showing Au Speed Limit">
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" alt="Image from geopinning.space showing Australia Road Sign R1 2">
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0" alt="Image from geopinning.space showing New Zealand Road Sign R2 2">
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" alt="Image from geopinning.space showing Nz Speedlimit">
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100" alt="Image from geopinning.space showing New Zealand Road Sign R2 2">
 </div>
 
 {{% /tab %}}
@@ -127,7 +127,7 @@ A broad classification of ecosystems near Australia. (Source: By Terpsichores - 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" alt="2023 04 28 23 57 39">
+<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" alt="Australia GeoGuessr guide image showing 2023 04 28 23 57 39">
 </div>
 {{% /tab %}}
 {{% tab "Western Coastal Area" %}}
@@ -195,7 +195,7 @@ The same type of poles can also be found on the Furneaux Islands {{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%" alt="Spring street sheffield 20070422">
+<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%" alt="Australia GeoGuessr guide image showing Spring Street Sheffield 20070422">
 </div>
 {{% /tab %}}
 {{% tab "QLD (Queensland)" %}}
@@ -237,7 +237,7 @@ The same type of poles can also be found on the Furneaux Islands {{% ex "https:/
 {{% tabs %}}
 {{% tab "Yellow Poles" %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%" alt="Yellow pole">
+<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%" alt="Australia GeoGuessr guide image showing Yellow Pole">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -251,7 +251,7 @@ VicRoads is a government joint venture company in Victoria, Australia {{% by "ht
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" alt="VicRoads Logo 2009">
+<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" alt="Australia GeoGuessr guide image showing Vicroads Logo 2009">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

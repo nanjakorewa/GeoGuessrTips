@@ -46,13 +46,13 @@ Los hexágonos amarillos identifican las rutas{{% ex "https://maps.app.goo.gl/ZA
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Road" />
+<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Malaysia GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="Jkr ft1" />
-<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysian Public Works Department" />
-<img src="/rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="Jkr k602" />
+<img src="/rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
+<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysia GeoGuessr guide image showing Malaysian Public Works Department" />
+<img src="/rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
 </div>
 
 {{% notice tip %}}
@@ -60,21 +60,21 @@ Las dobles líneas blancas centrales son un indicio muy fuerte{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Langkawi road" />
+<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Malaysia GeoGuessr guide image showing Langkawi Road" />
 </div>
 
 {{% notice tip %}}
 Las señales de stop dicen <span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" "https://maps.app.goo.gl/fWQbsbNztk11KAWM6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Señal de alto de Malasia"/>
+<img src="/rule/asia/malaysia/960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing 960px Kampung Kenangan Dato' Onn 2 1"/>
 </div>
 
 {{% notice tip %}}
 Las etiquetas negras en los postes indican que estás en la península y no en Borneo{{% ex "https://maps.app.goo.gl/XshWgGgTSTuLbi6K6" "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "Guía oficial de GeoGuessr - Daig_O" %}}. Basta interpretar el contexto porque en las Riau indonesias existen etiquetas similares{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Wikimedia Commons photo showing Peserai, 83000, Johor, Malaysia Panoramio (1)" width="90%"></a></p>
 <p>Por Ardeka Balian Aga Fo…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=33373533">Link</a></p>
 </div>
 
@@ -85,7 +85,7 @@ Los postes blancos con franjas negras y el pavimento asfáltico son señales ine
 {{% /tab %}}
 {{% tab "Tienda y señalización" %}}
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Signboard with islamic calligraphy">
+<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing Signboard With Islamic Calligraphy">
 </div>
 {{% notice tip %}}
 Los rótulos en escritura jawi aparecen sobre todo en el norte peninsular (Terengganu, Kelantan, Kedah, Perlis) y en el sur (Johor). Si el letrero es amarillo, probablemente estés en Johor{{% ref "https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit" "The Malaysia Doc by zi8gzag" %}}. En Riau (Indonesia) también se usa jawi.
@@ -106,7 +106,7 @@ Los rótulos en escritura jawi aparecen sobre todo en el norte peninsular (Teren
 {{% tabs %}}
 {{% tab "Palma aceitera" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="2023 05 11 14 03 32" />
+<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Los molinos marcados con puntos rojos suelen tener vastas plantaciones alrededor
 {{% /tab %}}
 {{% tab "Arroz" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="2023 05 11 14 03 53" />
+<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Los arrozales se concentran en el extremo norte{{% ex "https://www.google.com/ma
 {{% tabs %}}
 {{% tab "Isla Mabul" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" width="90%" alt="Mabul island semporna sabah">
+<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" width="90%" alt="Malaysia GeoGuessr guide image showing Mabul Island Semporna Sabah">
 </div>
 {{% /tab %}}
 {{% tab "Isla Tioman" %}}

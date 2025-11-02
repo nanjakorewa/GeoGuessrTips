@@ -38,7 +38,7 @@ sc: [
 Spotting characters like <span class="quiz">і, ї, є, ґ</span> confirms Ukrainian, whereas letters such as ы, э, ё appear in {{% goto "../../asia/russia/" "Russian" %}} but not Ukrainian.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Kyiv street scene"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 4960125167 dd83f223c0 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -48,7 +48,7 @@ License plates often show blue and yellow bands on the left, though heavy blur c
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ukraine/2023-07-30-18-58-19.png" width="95%" alt="Ukrainian vehicles"/>
+<img src="/rule/europe/ukraine/2023-07-30-18-58-19.png" width="95%" alt="Ukraine GeoGuessr guide image showing 2023 07 30 18 58 19"/>
 </div>
 
 {{% lb 50 %}}
@@ -66,8 +66,8 @@ You may glimpse a muted <span class="quiz">red</span> hue from the Google car. {
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ukraine/2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="Ukraine red tint comparison"/>
-<img src="/rule/europe/ukraine/2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="Russia red tint comparison"/>
+<img src="/rule/europe/ukraine/2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="Ukraine GeoGuessr guide image showing 2023 04 17 12 54 04"/>
+<img src="/rule/europe/ukraine/2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="Ukraine GeoGuessr guide image showing 2023 04 17 12 53 48"/>
 <div class="description-wide">
 Left: Ukraine. Right: Russia. (Displayed via Chrome DevTools “Enumerate vision deficiencies Emode.) If distinguishing red shades is difficult, lean on other clues.
 </div>
@@ -126,7 +126,7 @@ Expect many abandoned or decaying buildings throughout the exclusion-zone imager
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ukraine/18_134_186.jpg" width="550px" alt="Chernobyl street view">
+<img src="/rule/europe/ukraine/18_134_186.jpg" width="550px" alt="Ukraine GeoGuessr guide image showing 18 134 186">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

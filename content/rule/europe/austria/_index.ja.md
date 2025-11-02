@@ -37,13 +37,13 @@ sc: [
 <span class="quiz">EINBAHN</span>の標識がある点が{{% goto "../germany/" "ドイツ" %}}と明確に違う{{% ex "https://goo.gl/maps/Tk9wTitkT15y5wvy7" "https://goo.gl/maps/kwHeeyruGhB5nGbr7" %}}。ポールに赤と白のペイントがされていることがある。またANFANGやENDEと書かれた看板がある{{% ex "https://goo.gl/maps/ougJbaAVvy3rNCr18" "https://goo.gl/maps/ZajkmfdXc85JZzFDA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/robertwallner/4185324523/in/photolist-cdUXnQ-91Pdae-5e2j9k-iwtLiU-VXStiM-7gdvZN-xxmzSy-2mg64or-2mhVb45-96nVqK-5jBuYS-WRicCj-2fiwSsN-EGJzXj-Xi2FRv-25qLkZq-fXte3S-nazsY-3c3YTN-oH5bTT-Hobenx-naBYH-bFQQk8-aBAfY4-MuWfG-68uu1Y-7wkrTh-gyabZk-7nQTgv-KkTuSq-22QV6ZS-8DhjBX-GtWq8-c4ApLq-qFX4Y2-7nQTRn-b78moT-iJj9E7-7nQTaD-7nUMnb-8EJJdq-81NwNW-7nQTsX-7nQTAp-7nQTCk-7nUMiS-7nUM9N-7nQTjM-r7LtpC-7nUMhE" title="Einbahn_Vorgartenstraße_01"><img src="https://live.staticflickr.com/4041/4185324523_6ec56debe2_z.jpg" width="640" height="480" alt="Einbahn_Vorgartenstraße_01"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/robertwallner/4185324523/in/photolist-cdUXnQ-91Pdae-5e2j9k-iwtLiU-VXStiM-7gdvZN-xxmzSy-2mg64or-2mhVb45-96nVqK-5jBuYS-WRicCj-2fiwSsN-EGJzXj-Xi2FRv-25qLkZq-fXte3S-nazsY-3c3YTN-oH5bTT-Hobenx-naBYH-bFQQk8-aBAfY4-MuWfG-68uu1Y-7wkrTh-gyabZk-7nQTgv-KkTuSq-22QV6ZS-8DhjBX-GtWq8-c4ApLq-qFX4Y2-7nQTRn-b78moT-iJj9E7-7nQTaD-7nUMnb-8EJJdq-81NwNW-7nQTsX-7nQTAp-7nQTCk-7nUMiS-7nUM9N-7nQTjM-r7LtpC-7nUMhE" title="Einbahn_Vorgartenstraße_01"><img src="https://live.staticflickr.com/4041/4185324523_6ec56debe2_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 4185324523 6ec56debe2 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Hinweiszeichen_10_links.svg" width="270px" style="margin:10px" alt="Hinweiszeichen 10 links">
-<img src="./r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;" alt="Anfang">
-<img src="./r/ende.png" width="105px" alt="Ende">
+<img src="./r/Hinweiszeichen_10_links.svg" width="270px" style="margin:10px" alt="R GeoGuessr guide image showing Hinweiszeichen 10 Links">
+<img src="./r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;" alt="R GeoGuessr guide image showing Anfang">
+<img src="./r/ende.png" width="105px" alt="R GeoGuessr guide image showing Ende">
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bollard.jpg" width="90%" alt="Bollard">
+<img src="./bollard.jpg" width="90%" alt="Austria GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
@@ -59,16 +59,16 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="95%" alt="Road sign">
+<img src="./road-sign.jpg" width="95%" alt="Austria GeoGuessr guide image showing Road Sign">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./s/Hinweiszeichen_13a_groß.svg" width="280px" alt="Hinweiszeichen 13a groß">
-<img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px" alt="Hinweiszeichen 14a">
+<img src="./s/Hinweiszeichen_13a_groß.svg" width="280px" alt="S GeoGuessr guide image showing Hinweiszeichen 13a Groß">
+<img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px" alt="S GeoGuessr guide image showing Hinweiszeichen 14a">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px" alt="Zeichen 226 Kraftfahrlinien, StVO 1970">
+<img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px" alt="R GeoGuessr guide image showing Zeichen 226 Kraftfahrlinien, Stvo 1970">
 </div>
 
 {{% notice note %}}
@@ -79,13 +79,13 @@ sc: [
 <div class="googlemap-if unclickable">
 
 <div class="googlemap-if" style="background-color:#eee; margin:0px 100px 0 100px;padding-top:35px;border-radius:10px;">
-<img src="../slovenia/r/Slovenia_road_sign_III-84.svg" width="160px" alt="Slovenia road sign III 84">
-<img src="../slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px" alt="Slovenia road sign III 91">
+<img src="../slovenia/r/Slovenia_road_sign_III-84.svg" width="160px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 84">
+<img src="../slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 91">
 </div>
 
 <div class="googlemap-if" style="background-color:#eee; margin:10px 100px 0 100px;padding-top:35px;border-radius:10px;">
-<img src="../germany/r/route-sign.svg" width="150px" alt="Route sign">
-<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
+<img src="../germany/r/route-sign.svg" width="150px" alt="R GeoGuessr guide image showing Route Sign">
+<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
 </div>
 </div>
 
@@ -94,7 +94,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./clip-sign.jpg" width="95%" alt="Clip sign">
+<img src="./clip-sign.jpg" width="95%" alt="Austria GeoGuessr guide image showing Clip Sign">
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
@@ -126,7 +126,7 @@ CC 表示-継承 3.0, 欧州連合のナンバープレート. (2022, November 1
 {{% tabs %}}
 {{% tab "ウィーン（Wien）の区画" %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Vienna,_administrative_divisions_-_Nmbrs.svg#/media/File:Vienna,_administrative_divisions_-_Nmbrs.svg"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vienna%2C_administrative_divisions_-_Nmbrs.svg/1200px-Vienna%2C_administrative_divisions_-_Nmbrs.svg.png" alt="Vienna, administrative divisions - Nmbrs.svg"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Vienna,_administrative_divisions_-_Nmbrs.svg#/media/File:Vienna,_administrative_divisions_-_Nmbrs.svg"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Vienna%2C_administrative_divisions_-_Nmbrs.svg/1200px-Vienna%2C_administrative_divisions_-_Nmbrs.svg.png" alt="Wikimedia Commons photo showing 1200px Vienna, Administrative Divisions Nmbrs.svg"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:TUBS" title="User:TUBS">TUBS</a><a href="//commons.wikimedia.org/wiki/User_talk:TUBS" title="User talk:TUBS"></a> <a href="http://toolserver.org/~daniel/WikiSense/Gallery.php?wikifam=commons.wikimedia.org&amp;amp;img_user_text=TUBS" title="Gallery" rel="nofollow"></a> - <a href="//commons.wikimedia.org/wiki/File:Austria_Vienna_location_map.svg" title="File:Austria Vienna location map.svg">Austria Vienna location map.svg</a> by <a href="//commons.wikimedia.org/wiki/User:Rosso_Robot" title="User:Rosso Robot">Rosso Robot</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14738296">Link</a></p>
 </div>
 
@@ -135,7 +135,7 @@ CC 表示-継承 3.0, 欧州連合のナンバープレート. (2022, November 1
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="wien-sign.jpg" width="90%" alt="Wien sign" />
+<img src="wien-sign.jpg" width="90%" alt="Austria GeoGuessr guide image showing Wien Sign" />
 </div>
 
 {{% /tab %}}

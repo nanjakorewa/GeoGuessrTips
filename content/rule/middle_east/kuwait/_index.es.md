@@ -33,7 +33,7 @@ El idioma principal es el árabe.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/kuwait/arabian_gulf_street.jpg" width="90%" alt="Arabian gulf street">
+<img src="/rule/middle_east/kuwait/arabian_gulf_street.jpg" width="90%" alt="Kuwait GeoGuessr guide image showing Arabian Gulf Street">
 </div>
 
 {{% notice tip %}}
@@ -42,8 +42,8 @@ Los vehículos particulares usan matrículas blancas, mientras que el transporte
 
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px" alt="Kuwait License Plate Private">
-<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px" alt="Kuwait License Plate Public">
+<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px" alt="Kuwait GeoGuessr guide image showing Kuwait License Plate Private">
+<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px" alt="Kuwait GeoGuessr guide image showing Kuwait License Plate Public">
 </div>
 
 

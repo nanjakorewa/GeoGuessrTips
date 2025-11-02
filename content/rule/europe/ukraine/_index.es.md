@@ -38,7 +38,7 @@ sc: [
 Ver caracteres como <span class="quiz">і, ї, є, ґ</span> confirma que estás en ucraniano, mientras que letras como ы, э, ё pertenecen al {{% goto "../../asia/russia/" "ruso" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Calles de Kyiv"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 4960125167 dd83f223c0 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -48,7 +48,7 @@ Las matrículas suelen lucir franjas azul y amarilla en el lateral izquierdo, au
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ukraine/2023-07-30-18-58-19.png" width="95%" alt="Vehículos ucranianos"/>
+<img src="/rule/europe/ukraine/2023-07-30-18-58-19.png" width="95%" alt="Ukraine GeoGuessr guide image showing 2023 07 30 18 58 19"/>
 </div>
 
 {{% lb 50 %}}
@@ -66,8 +66,8 @@ Puede aparecer un matiz <span class="quiz">rojo</span> del coche de Google. {{% 
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ukraine/2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="Tinte rojo en Ucrania"/>
-<img src="/rule/europe/ukraine/2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="Tinte rojo en Rusia"/>
+<img src="/rule/europe/ukraine/2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="Ukraine GeoGuessr guide image showing 2023 04 17 12 54 04"/>
+<img src="/rule/europe/ukraine/2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="Ukraine GeoGuessr guide image showing 2023 04 17 12 53 48"/>
 <div class="description-wide">
 Izquierda: Ucrania. Derecha: Rusia. (Visualizado con “Enumerate vision deficiencies Ede Chrome). Si distinguir el rojo cuesta, apóyate en otras pistas.
 </div>
@@ -126,7 +126,7 @@ Verás numerosos edificios abandonados o deteriorados en la zona de exclusión. 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ukraine/18_134_186.jpg" width="550px" alt="Chernóbil en Street View">
+<img src="/rule/europe/ukraine/18_134_186.jpg" width="550px" alt="Ukraine GeoGuessr guide image showing 18 134 186">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

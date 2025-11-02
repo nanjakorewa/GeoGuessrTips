@@ -39,7 +39,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./img_6003.jpg" width="90%" alt="Img 6003">
+<img src="./img_6003.jpg" width="90%" alt="Kazakhstan GeoGuessr guide image showing Img 6003">
 </div>
 
 
@@ -48,7 +48,7 @@ sc: [
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="Казахстан2012-01.gif" class="resolution-small" width="50%" alt="Казахстан2012 01" />
+<img src="Казахстан2012-01.gif" class="resolution-small" width="50%" alt="Kazakhstan GeoGuessr guide image showing Казахстан2012 01" />
 {{% /lb %}}
 
 {{% /tab %}}

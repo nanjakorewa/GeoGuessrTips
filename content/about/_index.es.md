@@ -43,10 +43,10 @@ Los mapas mostrados pueden omitir islas remotas o zonas diminutas para simplific
 <h3 class="no-blur">Imágenes de fondo y herramientas utilizadas</h3>
 
 <div class="googlemap-if unclickable">
-<img src="/about/2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" alt="2023 05 03 03 16 48">
-<img src="/about/2023-04-15-23-01-05.png" width="200px" style="margin:34px;" alt="2023 04 15 23 01 05">
-<img src="/about/Flickr_wordmark.svg" width="180px" style="margin:34px;" alt="Flickr wordmark">
-<img src="/about/Google_Maps_Logo.svg" width="250px" style="margin:34px;" alt="Google Maps Logo">
+<img src="/about/2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" alt="About page image showing 2023 05 03 03 16 48">
+<img src="/about/2023-04-15-23-01-05.png" width="200px" style="margin:34px;" alt="About page image showing 2023 04 15 23 01 05">
+<img src="/about/Flickr_wordmark.svg" width="180px" style="margin:34px;" alt="About page image showing Flickr Wordmark">
+<img src="/about/Google_Maps_Logo.svg" width="250px" style="margin:34px;" alt="About page image showing Google Maps Logo">
 </div>
 
 <br />

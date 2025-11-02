@@ -41,7 +41,7 @@ sc: [
 溶岩によって作成された地形であり土が黒く針状の草が自生する{{% ex "https://maps.app.goo.gl/Qde2dHpWgHTN6pZC6" %}}。その性質上、不規則に川や湿地があり、川岸がまっすぐな川はほぼ存在しない。同じく火山由来の地形である{{% goto "../../africa/canary_islands/" "カナリア諸島" %}}・{{% goto "../../africa/reunion/" "レユニオン" %}}・{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}なども土が黒っぽいことが多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./iceland-road.png" width="95%" alt="Iceland road">
+<img src="./iceland-road.png" width="95%" alt="Iceland GeoGuessr guide image showing Iceland Road">
 </div>
 
 
@@ -49,7 +49,7 @@ sc: [
 <span class="quiz">黄色</span>のボラードがある{{% ex "https://maps.app.goo.gl/2hUEBkVFiWoeekKA8" "https://goo.gl/maps/xVKs6YeD8Hu6uC8g6" "https://goo.gl/maps/6Bp8nSZan47y3pP77" "https://goo.gl/maps/UJsQoZL2FwLCKUMf6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./iceland-bollard.png" width="95%" alt="アイスランドのボラード" />
+<img src="./iceland-bollard.png" width="95%" alt="Iceland GeoGuessr guide image showing Iceland Bollard" />
 </div>
 
 
@@ -57,7 +57,7 @@ sc: [
 寒いアイスランドでは部屋の温度を下げないように日光を取り入れる窓がたくさんがあるように見える{{% ex "https://maps.app.goo.gl/sjUUxmKN94VmZ8JM8" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}。また、北欧と異なり木が生えない環境なので木製の壁や屋根はほとんどないように見える{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="iceland-house.jpg" width="95%" alt="Iceland house" />
+<img src="iceland-house.jpg" width="95%" alt="Iceland GeoGuessr guide image showing Iceland House" />
 </div>
 
 
@@ -66,7 +66,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./1305maj2013_15.jpg" width="90%" alt="アイスランドのナンバープレート例" />
+<img src="./1305maj2013_15.jpg" width="90%" alt="Iceland GeoGuessr guide image showing 1305maj2013 15" />
 </div>
 
 {{% lb 50 %}}
@@ -79,7 +79,7 @@ CC0
 横断歩道の標識が黄色い。ただ都心部以外はあまり見つからないかも。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Iceland_road_sign_D02.11.svg" width="190px" alt="Iceland road sign D02.11">
+<img src="./r/Iceland_road_sign_D02.11.svg" width="190px" alt="R GeoGuessr guide image showing Iceland Road Sign D02.11">
 </div>
 
 {{% /tab %}}

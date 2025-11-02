@@ -42,13 +42,13 @@ Jika terdapat rambu <span class="quiz">Einbahnstraße</span>, maka Anda berada d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Image from live.staticflickr.com showing 5408483796 c4e4342705 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="Zeichen 220 20 Einbahnstraße, rechtsweisend, StVO 2017">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, StVO 2017">
-<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, StVO 1992">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="Image from geopinning.space showing Zeichen 220 20 Einbahnstraße, rechtsweisend, Stvo 2017">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="Image from geopinning.space showing Zeichen 283 21 Absolutes Haltverbot (Anfang), Aufstellung links, Stvo 2017">
+<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Germany GeoGuessr guide image showing Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, Stvo 1992">
 </div>
 
 {{% notice tip %}}
@@ -56,15 +56,15 @@ Terdapat rambu jalan berlatar belakang oranye dengan nomor di ujung panah {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%" alt="Junction traffic island road">
+<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%" alt="Germany GeoGuessr guide image showing Junction Traffic Island Road">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
-<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Rs3">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="Image from geopinning.space showing Zeichen 415 10 Wegweiser Auf Bundesstraßen (linksweisend), Einzeilig">
+<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/rs2.svg" width="250px" style="margin:10px" alt="Rs2">
+<img src="/rule/europe/germany/rs2.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs2">
 </div>
 
 {{% notice tip %}}
@@ -72,12 +72,12 @@ Wilayah berbahasa Jerman seperti Jerman dan {{% goto "../austria/" "Austria" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/bushaltestelle_nvv_rothenberg.jpg" width="95%" alt="Bushaltestelle nvv rothenberg">
+<img src="/rule/europe/germany/bushaltestelle_nvv_rothenberg.jpg" width="95%" alt="Germany GeoGuessr guide image showing Bushaltestelle Nvv Rothenberg">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px" alt="Zeichen 226 Kraftfahrlinien, StVO 1970">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px" alt="Zeichen 224 Straßenbahn Haltestelle, StVO 1970">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px" alt="Image from geopinning.space showing Zeichen 226 Kraftfahrlinien, Stvo 1970">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px" alt="Image from geopinning.space showing Zeichen 224 Straßenbahn Haltestelle, Stvo 1970">
 </div>
 
 {{% notice tip %}}
@@ -85,14 +85,14 @@ Terdapat bollard reflektor berwarna putih atau oranye {{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/steeple_road_fog_fog_0.jpg" width="90%" alt="Steeple road fog fog 0">
+<img src="/rule/europe/germany/steeple_road_fog_fog_0.jpg" width="90%" alt="Germany GeoGuessr guide image showing Steeple Road Fog Fog 0">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/bollard.png" width="150px" alt="Bollard di Jerman" />
-<img src="/rule/europe/germany/bollard2.png" width="150px" alt="Bollard di Jerman" >
-<img src="https://geopinning.space/rule/europe/germany//r/route-sign.svg" width="150px" style="margin:55px 0 0 0" alt="Route sign">
-<img src="/rule/europe/germany/town-enter.svg" width="150px" style="margin:55px 0 0 10px" alt="Town enter">
+<img src="/rule/europe/germany/bollard.png" width="150px" alt="Germany GeoGuessr guide image showing Bollard" />
+<img src="/rule/europe/germany/bollard2.png" width="150px" alt="Germany GeoGuessr guide image showing bollard2" >
+<img src="https://geopinning.space/rule/europe/germany//r/route-sign.svg" width="150px" style="margin:55px 0 0 0" alt="Image from geopinning.space showing Route Sign">
+<img src="/rule/europe/germany/town-enter.svg" width="150px" style="margin:55px 0 0 10px" alt="Germany GeoGuessr guide image showing Town Enter">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ Banyak pelat putih dengan nomor atau kode QR hitam terpasang pada tiang listrik 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/germany/up.png" width="90%" alt="Up">
+<img src="/rule/europe/germany/up.png" width="90%" alt="Germany GeoGuessr guide image showing Up">
 </div>
 
 {{% /tab %}}
@@ -111,11 +111,11 @@ Apotek di Jerman memiliki logo merah khas {{% ref "https://de.wikipedia.org/wiki
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany/c/apotheke.jpg" width="500px" alt="Apotheke">
+<img src="https://geopinning.space/rule/europe/germany/c/apotheke.jpg" width="500px" alt="Image from geopinning.space showing Apotheke">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany/c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Deutsche Apotheke Logo">
+<img src="https://geopinning.space/rule/europe/germany/c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Image from geopinning.space showing Deutsche Apotheke Logo">
 </div>
 
 {{% notice tip %}}
@@ -123,8 +123,8 @@ Truk dan kotak pos milik DHL Group, perusahaan pengiriman dengan kantor pusat di
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="https://geopinning.space/rule/europe/germany/c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Deutsche post ag technischer 0">
-<img src="https://geopinning.space/rule/europe/germany/c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Dhl rad tu darmstadt">
+<img src="https://geopinning.space/rule/europe/germany/c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Image from geopinning.space showing Deutsche Post Ag Technischer 0">
+<img src="https://geopinning.space/rule/europe/germany/c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Image from geopinning.space showing Dhl Rad Tu Darmstadt">
 </div>
 
 {{% notice tip %}}
@@ -132,7 +132,7 @@ Terdapat stasiun pengisian bahan bakar Aral dan perusahaan kimia seperti BASF ya
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/Aral.jpg" width="90%" alt="Aral">
+<img src="/rule/europe/germany/Aral.jpg" width="90%" alt="Germany GeoGuessr guide image showing Aral">
 </div>
 
 {{% /tab %}}
@@ -148,7 +148,7 @@ Street View yang dirilis pada tahun 2023 sering menampilkan "@ 2023 Google" (con
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/germany/copyright.jpg" width="400px" alt="Copyright">
+<img src="/rule/europe/germany/copyright.jpg" width="400px" alt="Germany GeoGuessr guide image showing Copyright">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ Foto ini diambil di kota Stellichte {{% ex "https://goo.gl/maps/9rK6VkLzAaN7efsG
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/stellichte_germany_village_town.jpg" width="600px" alt="Stellichte germany village town"></p>
+<p><img src="/rule/europe/germany/stellichte_germany_village_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Stellichte Germany Village Town"></p>
 </div>
 {{% /tab %}}
 {{% tab "Kompleks Perumahan" %}}
@@ -190,7 +190,7 @@ Foto ini diambil di kota Hoyerswerda {{% ex "https://goo.gl/maps/aaHQ3A1HjsXDo1m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Hy hufelandstr36 46wohnhaus"></p>
+<p><img src="/rule/europe/germany/hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Hy hufelandstr36 46wohnhaus"></p>
 </div>
 {{% /tab %}}
 {{% tab "Rumah di Tengah" %}}
@@ -200,7 +200,7 @@ Foto ini diambil di kota Burglauer {{% ex "https://goo.gl/maps/xomxhZ4wN97RjXJbA
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/burglauer_germany_landscape_town.jpg" width="600px" alt="Burglauer germany landscape town"></p>
+<p><img src="/rule/europe/germany/burglauer_germany_landscape_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Burglauer Germany Landscape Town"></p>
 </div>
 {{% /tab %}}
 {{% tab "Rumah di Barat-Tengah" %}}
@@ -210,8 +210,8 @@ Atap hitam mungkin lebih umum di wilayah dengan batu hitam yang tersedia, sepert
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/europe/germany/house-example.jpg" width="90%" alt="House example"></p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Trier-Heiligkreuz, Am Kiewelsberg 20220705 (2).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
+<p><img src="/rule/europe/germany/house-example.jpg" width="90%" alt="Germany GeoGuessr guide image showing House Example"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Wikimedia Commons photo showing Trier Heiligkreuz, Am Kiewelsberg 20220705 (2)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Fachhallenhaus" %}}
@@ -221,7 +221,7 @@ Rumah-rumah tipe ini dapat ditemukan di bagian utara Jerman. Meskipun sering dib
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/winsenmuseum_groode_hus.jpg" width="600px" alt="Winsenmuseum groode hus"></p>
+<p><img src="/rule/europe/germany/winsenmuseum_groode_hus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Winsenmuseum Groode Hus"></p>
 </div>
 {{% /tab %}}
 {{% tab "German Timber-Frame Road" %}}
@@ -231,7 +231,7 @@ Sepanjang jalan ini, Anda dapat menemukan rumah tradisional dengan kerangka kayu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:GesamtkarteMitneuerRouteDetail2016.jpg#/media/File:GesamtkarteMitneuerRouteDetail2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GesamtkarteMitneuerRouteDetail2016.jpg" alt="GesamtkarteMitneuerRouteDetail2016.jpg" height="720" width="574"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Deutsche_Fachwerkstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="User:Deutsche Fachwerkstraße (page does not exist)">Deutsche Fachwerkstraße</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49334857">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:GesamtkarteMitneuerRouteDetail2016.jpg#/media/File:GesamtkarteMitneuerRouteDetail2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GesamtkarteMitneuerRouteDetail2016.jpg" alt="Wikimedia Commons photo showing GesamtkarteMitneuerRouteDetail2016" height="720" width="574"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Deutsche_Fachwerkstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="User:Deutsche Fachwerkstraße (page does not exist)">Deutsche Fachwerkstraße</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49334857">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -258,12 +258,12 @@ Sepanjang jalan ini, Anda dapat menemukan rumah tradisional dengan kerangka kayu
 {{% /tab %}}
 {{% tab "Geografi" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Deutschland topo.jpg" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Wikimedia Commons photo showing Deutschland Topo" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Kode Area Telepon" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Karte Telefonvorwahlen Deutschland.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Wikimedia Commons photo showing Karte Telefonvorwahlen Deutschland" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Distribusi Industri" %}}
@@ -273,7 +273,7 @@ Jumlah pekerja per 1.000 penduduk yang bekerja di perusahaan industri sangat ber
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/201601_mom.webp" width="600px" alt="201601 mom"></p>
+<p><img src="/rule/europe/germany/201601_mom.webp" width="600px" alt="Germany GeoGuessr guide image showing 201601 Mom"></p>
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>
@@ -286,7 +286,7 @@ Ladang bunga kuning seperti kanola lebih sering terlihat di sekitar semenanjung 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/rapsfeld03.jpg" alt="Rapsfeld03">
+<img src="/rule/europe/germany/rapsfeld03.jpg" alt="Germany GeoGuessr guide image showing rapsfeld03">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -314,7 +314,7 @@ Pulau Sylt memiliki area tanpa pepohonan {{% ex "https://goo.gl/maps/wFYycBKzt8N
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" alt="Sylt dunes nature landscape" />
+<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" alt="Germany GeoGuessr guide image showing Sylt Dunes Nature Landscape" />
 </div>
 
 {{% /tab %}}
@@ -324,7 +324,7 @@ Di tepi sungai Hamburg, Anda dapat melihat bangunan bata merah yang berjejer {{%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Speicherstadt hamburg brick 1095857" />
+<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Germany GeoGuessr guide image showing Speicherstadt Hamburg Brick 1095857" />
 </div>
 {{% /tab %}}
 {{% tab "Berlin" %}}
@@ -332,7 +332,7 @@ Di tepi sungai Hamburg, Anda dapat melihat bangunan bata merah yang berjejer {{%
 <span class="quiz">Berlin</span> sering kali memiliki papan nama jalan dengan latar belakang putih, bingkai abu-abu, dan dipasang menggunakan pengikat logam berwarna perak.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Berlin historic street names">
+<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Germany GeoGuessr guide image showing Berlin Historic Street Names">
 </div>
 
 {{% /tab %}}
@@ -343,7 +343,7 @@ Papan nama di Munich memiliki lekukan di keempat sudutnya dengan titik-titik, la
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
+<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Germany GeoGuessr guide image showing Munich Marienplatz Street Sign">
 </div>
 {{% /tab %}}
 {{% tab "Cologne" %}}
@@ -352,7 +352,7 @@ Papan nama di Munich memiliki lekukan di keempat sudutnya dengan titik-titik, la
 <span class="quiz">Cologne</span> memiliki papan nama jalan yang sederhana dengan warna putih.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
+<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Germany GeoGuessr guide image showing Lew Kopelew Weg Koln">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

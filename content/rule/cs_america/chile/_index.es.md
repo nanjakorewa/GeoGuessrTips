@@ -52,8 +52,8 @@ Aunque no son muchos, existen postes eléctricos similares sin tabiques.{{% goto
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/chile/pole-example.png" width="199px" height="640px" alt="Pole example">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="IMG_8443"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="/rule/cs_america/chile/pole-example.png" width="199px" height="640px" alt="Chile GeoGuessr guide image showing Pole Example">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="Image from live.staticflickr.com showing 23891588226 36ab4595ed Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin" style="font-size:0.8em; margin-top:0; padding-top:0;">
@@ -65,14 +65,14 @@ Imagen izquierda: Por <a rel="nofollow" class="external text" href="https://www.
 El poste de señalización también tiene ranuras que parecen postes telefónicos (<span style="font-size: small">Déjamelo saber en los comentarios</span>){{% ex "https://maps.app.goo.gl/akB9Uz7wf5Z4HC5G6" "https://maps.app.goo.gl/fSj7kreepTQ69Wa3A" "https://maps.app.goo.gl/U3XjmhZAGBrem5DA8" "https://goo.gl/maps/oEiAR6xyXpHYt9A97" "https://goo.gl/maps/gNq2VccEBkkiG6Qs8" "https://goo.gl/maps/ZKCD6sTEe75qoGRMA" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimsawthat/52631472071/in/photolist-2obS3ZD-2gUkuH9-2gmg3Bq-7HHjqD-iJdnC-iLodA-2gUjzG8-7JiP1j-7ky9PS-huVxio-tXnMgD-9syDuM-8HariF-9nySVZ-5T3UZX-2ik3fpa-2gUksrv-2gUjz9e-dVjypd-sbY8tX-6UZ3fR-5VLnaa-o3k7Gu-88uJxR-o3m6qZ-rwq1WL-7zKU2k-DhyaUm-5Q9TD2-sr8B4S-9XBB9F-9XBBj4-5LMLC3-ojMwKA-4Aceg7-sbY8Lk-bFHMdV-djnnX3-o3m6Uz-9XEuwJ-aeV2dU-9fcSht-2hBcACz-7pw9G5-5wjkWh-stqCLc-9XBB6t-64umfb-9XBBd8-5EjFhV" title="Pare"><img src="https://live.staticflickr.com/65535/52631472071_4a49f15368_z.jpg" width="640" height="480" alt="Pare"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimsawthat/52631472071/in/photolist-2obS3ZD-2gUkuH9-2gmg3Bq-7HHjqD-iJdnC-iLodA-2gUjzG8-7JiP1j-7ky9PS-huVxio-tXnMgD-9syDuM-8HariF-9nySVZ-5T3UZX-2ik3fpa-2gUksrv-2gUjz9e-dVjypd-sbY8tX-6UZ3fR-5VLnaa-o3k7Gu-88uJxR-o3m6qZ-rwq1WL-7zKU2k-DhyaUm-5Q9TD2-sr8B4S-9XBB9F-9XBBj4-5LMLC3-ojMwKA-4Aceg7-sbY8Lk-bFHMdV-djnnX3-o3m6Uz-9XEuwJ-aeV2dU-9fcSht-2hBcACz-7pw9G5-5wjkWh-stqCLc-9XBB6t-64umfb-9XBBd8-5EjFhV" title="Pare"><img src="https://live.staticflickr.com/65535/52631472071_4a49f15368_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 52631472071 4a49f15368 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 A lo largo del camino pueden crecer plantas del género Lupin.flores moradas y blancas{{% ex "https://goo.gl/maps/8YjiaAFhTiTy4BcMA" "https://goo.gl/maps/JkrswTKHvyZGdQ46A" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%94%E3%83%8A%E3%82%B9%E5%B1%9E" "lupino" %}}.Esta especie de camino de cemento amarillo me da una imagen muy sureña.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sergioavelino/4354399332/in/photolist-2ejFjj6-5Ky7wc-2eyGHWv-fqSLBJ-GEiSt5-2g2taCf-okXtsh-ts9U9g-2bKtZUU-tvrKkQ-2dRir4z-tt599F-tRw47c-2ibDkJt-qAhZ8x-deVNZY-sUhTFs-g5NFHN-tsZVzV-g5NLU7-c3eegJ-5HEphG-9G7WoE-EuQypy-7ZVHif-tbpfD7-sv8TE1-svjfi4-EuPEJ9-ts8SSR-wZmqy-taxsou-251wv1j-AdWtg-r4BzdH-eWBWvQ-btkrso-7syBaP-2icUCY2-7CMrdy-61FQWx-qr9YqR-H412R1-TGbx3U-HZHEpn-9EBQpT-cz1TBy-XFZhtu-7CMpbE-7CJgHY" title="VIAGEM AO FIM DO MUNDO"><img src="https://live.staticflickr.com/4056/4354399332_6c15690db7_z.jpg" width="640" height="427" alt="VIAGEM AO FIM DO MUNDO"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sergioavelino/4354399332/in/photolist-2ejFjj6-5Ky7wc-2eyGHWv-fqSLBJ-GEiSt5-2g2taCf-okXtsh-ts9U9g-2bKtZUU-tvrKkQ-2dRir4z-tt599F-tRw47c-2ibDkJt-qAhZ8x-deVNZY-sUhTFs-g5NFHN-tsZVzV-g5NLU7-c3eegJ-5HEphG-9G7WoE-EuQypy-7ZVHif-tbpfD7-sv8TE1-svjfi4-EuPEJ9-ts8SSR-wZmqy-taxsou-251wv1j-AdWtg-r4BzdH-eWBWvQ-btkrso-7syBaP-2icUCY2-7CMrdy-61FQWx-qr9YqR-H412R1-TGbx3U-HZHEpn-9EBQpT-cz1TBy-XFZhtu-7CMpbE-7CJgHY" title="VIAGEM AO FIM DO MUNDO"><img src="https://live.staticflickr.com/4056/4354399332_6c15690db7_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 4354399332 6c15690db7 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -82,14 +82,14 @@ A lo largo del camino pueden crecer plantas del género Lupin.flores moradas y b
 Los paneles reflectantes de bolardos y barandillas son de color amarillo.{{% ex "https://maps.app.goo.gl/MDnjhyhUKNu4Y7zy9" %}}Hay momentos en que{{% goto "../../europe/spain/" "España" %}}Tenga cuidado ya que puede confundirse fácilmente.También se parece a España en que no hay fronteras para las marcas de velocidad.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/chile/chile_panamericana_road_landscape.jpg" width="95%" alt="Chile panamericana road landscape">
+<img src="/rule/cs_america/chile/chile_panamericana_road_landscape.jpg" width="95%" alt="Chile GeoGuessr guide image showing Chile Panamericana Road Landscape">
 </div>
 
 {{% notice tip %}}
 chile y{{% goto "../bolivia/" "bolivia" %}}A veces hay reflectores rojos en las carreteras.{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="/rule/cs_america/chile/road.jpg" width="90%" alt="Road" /></p>
+<p><img src="/rule/cs_america/chile/road.jpg" width="90%" alt="Chile GeoGuessr guide image showing Road" /></p>
 <p>Por [-_-] JORGE- <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/graficmedia/27486177645/">https://www.flickr.com/photos/graficmedia/27486177645/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC POR 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100162985">Enlace</a></p>
 </div>
 
@@ -142,7 +142,7 @@ Pueden existir instalaciones de empresas relacionadas con el litio (Sociedad Qu�
 El marco tinto es la zona con mayor producción de vino, y los propios viñedos se encuentran un poco más al sur.{{% ref "https://en.wikipedia.org/wiki/Chilean_wine" "Chilean wine" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Chile_map2_with_wine_regions_highlighted.JPG#/media/File:Chile_map2_with_wine_regions_highlighted.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chile_map2_with_wine_regions_highlighted.JPG" alt="Chile map2 with wine regions highlighted.JPG" height="599" width="141"></a></p><p>Por <a href="https://en.wikipedia.org/wiki/User:Agne27" class="extiw" title="en:User:Agne27">agne27</a> al <a href="https://en.wikipedia.org/wiki/" class="extiw" title="w:">Wikipedia en inglés</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4168333">Enlace</a></p>
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Chile_map2_with_wine_regions_highlighted.JPG#/media/File:Chile_map2_with_wine_regions_highlighted.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Chile_map2_with_wine_regions_highlighted.JPG" alt="Wikimedia Commons photo showing Chile map2 With Wine Regions Highlighted" height="599" width="141"></a></p><p>Por <a href="https://en.wikipedia.org/wiki/User:Agne27" class="extiw" title="en:User:Agne27">agne27</a> al <a href="https://en.wikipedia.org/wiki/" class="extiw" title="w:">Wikipedia en inglés</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4168333">Enlace</a></p>
 </div>
 
 {{% /tab %}}
@@ -151,7 +151,7 @@ El marco tinto es la zona con mayor producción de vino, y los propios viñedos 
 no creo que haya muchos{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CI" "USDA Chile Production" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/cs_america/chile/Chile_Corn.png" width="500px" alt="Chile Corn">
+<img src="/rule/cs_america/chile/Chile_Corn.png" width="500px" alt="Chile GeoGuessr guide image showing Chile Corn">
 </div>
 
 <div class="googlemap-if">
@@ -164,7 +164,7 @@ no creo que haya muchos{{% ref "https://ipad.fas.usda.gov/countrysummary/default
 Para distribución, consulte plonkit, etc.{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/chile/chilean_rhubarb_rhubarb_598355.jpg" width="80%" alt="Chilean rhubarb rhubarb 598355">
+<img src="/rule/cs_america/chile/chilean_rhubarb_rhubarb_598355.jpg" width="80%" alt="Chile GeoGuessr guide image showing Chilean Rhubarb Rhubarb 598355">
 </div>
 
 {{% /tab %}}
@@ -193,7 +193,7 @@ Un exótico río de abundante agua que se recarga con el agua del deshielo de la
 
 <div class="googlemap-if no-margin">
 <div class="googlemap-if no-margin" style="width:560px !important;">
-<p><a href="https://commons.wikimedia.org/wiki/File:ValledeCopiapo.jpg#/media/File:ValledeCopiapo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ValledeCopiapo.jpg" alt="ValledeCopiapo.jpg" width="100%"></a></p><p>Por sergejf- <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/sergejf/4321114656/">https://www.flickr.com/photos/sergejf/4321114656/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20413413">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:ValledeCopiapo.jpg#/media/File:ValledeCopiapo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/df/ValledeCopiapo.jpg" alt="Wikimedia Commons photo showing Valledecopiapo" width="100%"></a></p><p>Por sergejf- <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/sergejf/4321114656/">https://www.flickr.com/photos/sergejf/4321114656/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20413413">Enlace</a></p>
 </div>
 <div class="googlemap-if no-margin" style="width:220px !important">
 <div class="googlemap-if">
@@ -222,7 +222,7 @@ Un exótico río de abundante agua que se recarga con el agua del deshielo de la
 Impresionantes son las montañas cercanas a Santiago de Chile, escasamente cubiertas de árboles y pasto.{{% ex "https://maps.app.goo.gl/dVSxxebR5NrCaQAF9" "https://maps.app.goo.gl/qJGQoxvp5ZQ4CF3s9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/chile/santiago_chile_trekking_mountains.jpg" alt="Santiago chile trekking mountains">
+<img src="/rule/cs_america/chile/santiago_chile_trekking_mountains.jpg" alt="Chile GeoGuessr guide image showing Santiago Chile Trekking Mountains">
 </div>
 
 {{% /tab %}}
@@ -231,7 +231,7 @@ Impresionantes son las montañas cercanas a Santiago de Chile, escasamente cubie
 Al norte se divisa la zona nevada y el mar.A veces se puede ver un vehículo parecido a un camión.{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA" "puerto williams" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/chile/puerto_williams_3.jpg" alt="Puerto williams 3">
+<img src="/rule/cs_america/chile/puerto_williams_3.jpg" alt="Chile GeoGuessr guide image showing Puerto Williams 3">
 </div>
 
 {{% /tab %}}
@@ -240,7 +240,7 @@ Al norte se divisa la zona nevada y el mar.A veces se puede ver un vehículo par
 Puerto Toro es la comunidad habitada más al sur.{{% ex "https://maps.app.goo.gl/JU9zuQodFFAR9UpE6" %}}.No hay caminos pavimentados, por lo que las fotografías fueron tomadas a pie.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Puertotoro.JPG#/media/File:Puertotoro.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Puertotoro.JPG" alt="Puertotoro.JPG" height="720" width="960"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Butterfly_voyages" class="mw-redirect" title="User:Butterfly voyages">Viajes de mariposas</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5281337">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Puertotoro.JPG#/media/File:Puertotoro.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Puertotoro.JPG" alt="Wikimedia Commons photo showing Puertotoro" height="720" width="960"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Butterfly_voyages" class="mw-redirect" title="User:Butterfly voyages">Viajes de mariposas</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5281337">Enlace</a></p>
 </div>
 
 {{% /tab %}}

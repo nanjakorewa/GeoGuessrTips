@@ -33,15 +33,15 @@ is_has_many_trekker: true
 一般的な家のすべての屋根は白い見た目をしている{{% ex "https://maps.app.goo.gl/sYhsWqmKhawCVY3s5" "https://maps.app.goo.gl/fZwDZGmMM5ZGH3PV9" "https://maps.app.goo.gl/yq1baQV9ydTQzRqcA" "https://maps.app.goo.gl/e93JjqTtLQEJr3pJ9" "https://maps.app.goo.gl/oWnAREFuTTVqmPSk8" "https://maps.app.goo.gl/5nb813JEFKRmJ2eZ6" %}}。{{% ref "https://alexismcharg.wordpress.com/2012/04/17/bermuda-white-roofs/" "Bermuda White Roofs" %}}。小さな島で淡水が得られないため、各家庭は雨水から水を集める必要がある。そのため屋根を作る素材は石灰岩などに限定される（ゴミが付いたりカビが生える素材はNG）。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./bermuda_wv.jpg" width="90%" alt="Bermuda wv">
+<img src="./bermuda_wv.jpg" width="90%" alt="Bermuda GeoGuessr guide image showing Bermuda Wv">
 </div>
 
 {{% notice tip %}}
 {{% goto "../../europe/united-kingdom/" "イギリス" %}}の海外領土であり車は<span class="quiz">左側</span>通行</li>{{% ex "https://maps.app.goo.gl/mMgwr4YzRFcQCfYC9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6" "バミューダ諸島" %}}。ただしナンバープレートは黄色ではない。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./bermuda_uk_photos_number_42.jpg" width="310px" alt="Bermuda uk photos number 42">
-<img src="./bermuda_uk_photos_number_65.jpg" width="380px" alt="Bermuda uk photos number 65">
+<img src="./bermuda_uk_photos_number_42.jpg" width="310px" alt="Bermuda GeoGuessr guide image showing Bermuda Uk Photos Number 42">
+<img src="./bermuda_uk_photos_number_65.jpg" width="380px" alt="Bermuda GeoGuessr guide image showing Bermuda Uk Photos Number 65">
 </div>
 
 

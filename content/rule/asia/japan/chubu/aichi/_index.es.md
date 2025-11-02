@@ -26,7 +26,7 @@ Busca rombos sin cortes en las líneas{{% ex "https://maps.app.goo.gl/Kq6rMXEsvV
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/aichi/aichi_pref_r_281.jpg" alt="Aichi pref r 281">
+<img src="/rule/asia/japan/chubu/aichi/aichi_pref_r_281.jpg" alt="Aichi GeoGuessr guide image showing Aichi Pref R 281">
 </div>
 
 {{% /tab %}}
@@ -36,7 +36,7 @@ Aichi es la prefectura con más fábricas de Japón{{% ref "https://www.tsr-net.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/aichi/tokai_rika_hagi_factory.jpg" alt="Tokai rika hagi factory">
+<img src="/rule/asia/japan/chubu/aichi/tokai_rika_hagi_factory.jpg" alt="Aichi GeoGuessr guide image showing Tokai Rika Hagi Factory">
 </div>
 
 {{% /tab %}}
@@ -46,7 +46,7 @@ En Aichi, Gifu, Mie, en la zona de Shizuoka al oeste del río Fuji y en Nagano s
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
 </div>
 
 {{% /tab %}}

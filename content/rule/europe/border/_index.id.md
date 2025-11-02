@@ -27,8 +27,8 @@ Anda bisa melihat tanda biru di perbatasan{{% ex "https://maps.app.goo.gl/nbZmWe
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px" alt="Germany border crossing border">
-<img src="/rule/europe/border/setembro2006_021.jpg" width="324px" alt="Setembro2006 021">
+<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px" alt="Border GeoGuessr guide image showing Germany Border Crossing Border">
+<img src="/rule/europe/border/setembro2006_021.jpg" width="324px" alt="Border GeoGuessr guide image showing setembro2006 021">
 </div>
 
 {{% notice tip %}}
@@ -43,5 +43,5 @@ Terkadang, ada gedung bea cukai dan polisi di perbatasan.
 Jalan dan jembatan mungkin memiliki nama negara dan garis batas yang tertulis di atasnya.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px" alt="Fronteira entre portugal e">
+<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px" alt="Border GeoGuessr guide image showing Fronteira Entre Portugal E">
 </div>

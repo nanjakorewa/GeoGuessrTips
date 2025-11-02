@@ -33,7 +33,7 @@ flag_height: "400px"
 ナンバープレートが<span class="quiz">青</span>色っぽく見える。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%" alt="Roadsign">
+<img src="./roadsign.jpg" width="90%" alt="Elsalvador GeoGuessr guide image showing Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

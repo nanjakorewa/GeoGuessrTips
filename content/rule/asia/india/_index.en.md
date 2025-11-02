@@ -27,7 +27,7 @@ jogmec_detail: true
 The language is distinctive and can be identified once you get used to it. In the city center, addresses are often written in English under signs.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="paharganj, new delhi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/117679407@N08/46794612765/" title="paharganj, new delhi"><img src="https://live.staticflickr.com/65535/46794612765_86a5eac044_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 46794612765 86a5eac044 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ Bright red soil is southwest or south, blackish color is inland from Delhi to so
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/india/2023-04-26-09-05-08.png" style="max-width:80%;" alt="2023 04 26 09 05 08" />
+<img src="/rule/asia/india/2023-04-26-09-05-08.png" style="max-width:80%;" alt="India GeoGuessr guide image showing 2023 04 26 09 05 08" />
 <p>By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a></p>
 </div>
 

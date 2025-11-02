@@ -31,7 +31,7 @@ plonkit: true
 Ante las viviendas suelen ondear <span class="quiz">banderines triangulares rojos y blancos</span> que celebran la independencia.
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg#/media/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Independence_Day_Canival_in_Bantul_Indonesia.jpg" alt="Independence Day Canival in Bantul Indonesia.jpg" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8360434@N06">Yan Arief Purwanto</a> from Yogyakarta, Indonesia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8360434@N06/1180032144/">IMG_9328</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8456692">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg#/media/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Independence_Day_Canival_in_Bantul_Indonesia.jpg" alt="Wikimedia Commons photo showing Independence Day Canival In Bantul Indonesia" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8360434@N06">Yan Arief Purwanto</a> from Yogyakarta, Indonesia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8360434@N06/1180032144/">IMG_9328</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8456692">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ Los rótulos de <span class="quiz">Alfamart</span>, <span class="quiz">Bank Mand
 Los <span class="quiz">cigarrillos</span> se venden en puestos callejeros. Si ves “18+” o “GGSP” sin dibujo de cigarrillos, también se trata de publicidad tabacalera.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="/rule/asia/indonesia/adv.jpg" width="95%" alt="Adv">
+<img src="/rule/asia/indonesia/adv.jpg" width="95%" alt="Indonesia GeoGuessr guide image showing Adv">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -66,7 +66,7 @@ Según el difuminado de Street View, la matrícula puede parecer fragmentada en 
 </div>
 
 {{% lb 50 small %}}
-<img src="2023-04-15-09-20-42.png" class="resolution-small" alt="2023 04 15 09 20 42" />
+<img src="2023-04-15-09-20-42.png" class="resolution-small" alt="Indonesia GeoGuessr guide image showing 2023 04 15 09 20 42" />
 
 By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123241255">Wikimedia Commons</a>
 {{% /lb %}}
@@ -103,7 +103,7 @@ Los minimercados estilo conveniencia están por todas partes.
 {{% tabs %}}
 {{% tab "Sumatra Occidental" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/6471046661/in/photolist-aRPNJ2-334udn-aRyVGV-gvmWmK-gvm1SG-o2p9pt-gvkJ4m-CuimsE-gvn2Mz-gvmrAF-B188E-o2G8Ni-gvmRV2-gvmVQh-aTeQVv-dfp5Er-6wgbb1-bWd2zL-6f9j32-B1kkC-gvmQEM-6yNJYj-6JKj7j-6iHRfD-254mhRm-Ymqg8k-Ykx93F-ddVd1k-r8H8qV-xTSqeS-rpJBG5-B2vYB-B2w2C-boRffP-B2zpk-rs2qXn-B2vhb-B2w9S-wzoKF-tENHEH-8oMg2L-8oJ5Pi-62k6UD-GRxGtj-8oJ63t-bmYcqB-2nU5qSK-2ovRfLe-3CrJwu-zWoQSL" title="Minangkabau traditional house"><img src="https://live.staticflickr.com/7026/6471046661_3a8150c85c_c.jpg" width="800" height="531" alt="Minangkabau traditional house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/6471046661/in/photolist-aRPNJ2-334udn-aRyVGV-gvmWmK-gvm1SG-o2p9pt-gvkJ4m-CuimsE-gvn2Mz-gvmrAF-B188E-o2G8Ni-gvmRV2-gvmVQh-aTeQVv-dfp5Er-6wgbb1-bWd2zL-6f9j32-B1kkC-gvmQEM-6yNJYj-6JKj7j-6iHRfD-254mhRm-Ymqg8k-Ykx93F-ddVd1k-r8H8qV-xTSqeS-rpJBG5-B2vYB-B2w2C-boRffP-B2zpk-rs2qXn-B2vhb-B2w9S-wzoKF-tENHEH-8oMg2L-8oJ5Pi-62k6UD-GRxGtj-8oJ63t-bmYcqB-2nU5qSK-2ovRfLe-3CrJwu-zWoQSL" title="Minangkabau traditional house"><img src="https://live.staticflickr.com/7026/6471046661_3a8150c85c_c.jpg" width="800" height="531" alt="Image from live.staticflickr.com showing 6471046661 3a8150c85c C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Sumatra Septentrional" %}}

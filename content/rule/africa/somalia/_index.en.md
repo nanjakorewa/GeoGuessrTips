@@ -28,7 +28,7 @@ Civil conflict has continued since the late 1980s{{% ref "https://ja.wikipedia.o
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="640px Somalia, Puntland, Bari, Iskushuban (13)">
+<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="Somalia GeoGuessr guide image showing 640px Somalia, Puntland, Bari, Iskushuban (13)">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Administrative boundaries and governance vary by area and are not fully settled.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Somalia_map_states_regions_districts.svg#/media/File:Somalia_map_states_regions_districts.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Somalia_map_states_regions_districts.svg" height="541" width="512" alt="Somalia administrative map"></a></p><p>Public domain.</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Somalia_map_states_regions_districts.svg#/media/File:Somalia_map_states_regions_districts.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Somalia_map_states_regions_districts.svg" height="541" width="512" alt="Wikimedia Commons photo showing Somalia Map States Regions Districts"></a></p><p>Public domain.</p>
 </div>
 
 {{% /tab %}}

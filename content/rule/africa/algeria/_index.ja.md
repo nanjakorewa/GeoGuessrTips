@@ -29,7 +29,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="lota_ouzemour.jpg" width="95%" alt="Lota ouzemour">
+<img src="lota_ouzemour.jpg" width="95%" alt="Algeria GeoGuessr guide image showing Lota Ouzemour">
 </div>
 
 {{% notice tip %}}
@@ -37,7 +37,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="haouayet.jpg" width="95%" alt="Haouayet">
+<img src="haouayet.jpg" width="95%" alt="Algeria GeoGuessr guide image showing Haouayet">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="algeria_hoggar_assekrem_volcano_0.jpg" width="95%" alt="Algeria hoggar assekrem volcano 0">
+<img src="algeria_hoggar_assekrem_volcano_0.jpg" width="95%" alt="Algeria GeoGuessr guide image showing Algeria Hoggar Assekrem Volcano 0">
 </div>
 
 {{% /tab %}}

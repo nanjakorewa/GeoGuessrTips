@@ -42,7 +42,7 @@ sc: [
 Suecia y {{% goto "../norway/" "Noruega" %}} están repletas de casas de troncos pintadas de <span class="quiz">rojo Falu</span>{{% ex "https://maps.app.goo.gl/DDaBMG5S2Tma2CgL8" "https://maps.app.goo.gl/qgRpGixPyfFBmDE86" "https://maps.app.goo.gl/PCSpkUeWkpB7QH4A6" "https://maps.app.goo.gl/HAjex6Vyf6Et6PsF8" "https://maps.app.goo.gl/aDFG4HedRMTHdmoe8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
+<img src="/rule/europe/sweden/sweden_home_red_stone.jpg" width="95%" alt="Sweden GeoGuessr guide image showing Sweden Home Red Stone">
 </div>
 
 
@@ -51,9 +51,9 @@ Suecia y {{% goto "../norway/" "Noruega" %}} están repletas de casas de troncos
 La señal de paso de peatones tiene <span class="quiz">cuatro</span> franjas. De izquierda a derecha: <span class="quiz">Finlandia</span>, <span class="quiz">Noruega</span>, <span class="quiz">Suecia</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
-<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
-<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Finland Road Sign E1 1" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing No Road Sign 516.H" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Sweden Road Sign B3 1" />
 </div>
 
 
@@ -64,28 +64,28 @@ Las flechas direccionales suecas tienen un perfil diferente al de sus vecinos{{%
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
-            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="R GeoGuessr guide image showing Sweden Road Sign F5">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Swedish Road Sign 1 5 2 15">
         </div>
         <p><span class="quiz">Suecia</span>{{% ex "https://goo.gl/maps/pugV8oV2wAyHqJDP8" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
-            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="R GeoGuessr guide image showing Paikalliskohteen Viitta 648">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Moottori Ja Moottoriliikennetien Viitta 649">
         </div>
         <p><span class="quiz">Finlandia</span>{{% ex "https://goo.gl/maps/jpm3KFZeFmTGzw1X6" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing 1920px Norwegian Road Sign 713">
         </div>
         <p><span class="quiz">Noruega</span>{{% ex "https://goo.gl/maps/XqwC943TgqGuDHaDA" %}}</p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/swedish_countryside.jpg" width="480px" alt="Swedish countryside">
+<img src="/rule/europe/sweden/swedish_countryside.jpg" width="480px" alt="Sweden GeoGuessr guide image showing Swedish Countryside">
 </div>
 
 
@@ -93,9 +93,9 @@ Las flechas direccionales suecas tienen un perfil diferente al de sus vecinos{{%
 Los cheurones suecos usan los colores de la bandera (amarillo y azul). Noruega y Finlandia usan amarillo sobre negro, por lo que son fáciles de distinguir{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="Swedish road sign X1">
-<img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px" alt="NO road sign 366">
-<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px" alt="Finland road sign 631">
+<img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="R GeoGuessr guide image showing Swedish Road Sign X1">
+<img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px" alt="R GeoGuessr guide image showing No Road Sign 366">
+<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px" alt="R GeoGuessr guide image showing Finland Road Sign 631">
 </div>
 
 
@@ -104,7 +104,7 @@ Los números impresos en la señal indican el número de ruta{{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="120px" style="margin:10px" alt="Sweden road sign F14 3">
+<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Sweden Road Sign F14 3">
 </div>
 
 
@@ -119,7 +119,7 @@ Ten en cuenta que las {{% goto "../aland_islands/" "Islas Åland" %}} usan sueco
 Los nombres que terminan en <span class="quiz">gatan</span> o <span class="quiz">vägen</span> apuntan a Suecia; fuera del país son poco comunes.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./streetname.jpg" width="90%" alt="Streetname">
+<img src="./streetname.jpg" width="90%" alt="Sweden GeoGuessr guide image showing Streetname">
 </div>
 
 {{% notice tip %}}
@@ -169,17 +169,17 @@ Las zonas de sentido único se rotulan “Enkelriktad zon”. Comparación rápi
 {{% tabs %}}
 {{% tab "Números en señales" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="100px" alt="Sweden road sign F14 3">
+<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="100px" alt="R GeoGuessr guide image showing Sweden Road Sign F14 3">
 </div>
 {{% /tab %}}
 {{% tab "Prefijos" %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:SWE_Areacodes.svg#/media/File:SWE_Areacodes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SWE_Areacodes.svg" alt="SWE Areacodes.svg" height="580" width="255"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Coffeeshivers (page does not exist)">Coffeeshivers</a>, a partir de <a href="//commons.wikimedia.org/wiki/File:SWE-Map_Rike.svg" title="File:SWE-Map Rike.svg">SWE-Map_Rike.svg</a> de <a href="//commons.wikimedia.org/wiki/User:Lokal_Profil" title="User:Lokal Profil">Lokal Profil</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4487871">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:SWE_Areacodes.svg#/media/File:SWE_Areacodes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SWE_Areacodes.svg" alt="Wikimedia Commons photo showing Swe Areacodes" height="580" width="255"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Coffeeshivers (page does not exist)">Coffeeshivers</a>, a partir de <a href="//commons.wikimedia.org/wiki/File:SWE-Map_Rike.svg" title="File:SWE-Map Rike.svg">SWE-Map_Rike.svg</a> de <a href="//commons.wikimedia.org/wiki/User:Lokal_Profil" title="User:Lokal Profil">Lokal Profil</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4487871">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Vegetación" %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sweden_Vegetation_Zones.jpg#/media/File:Sweden_Vegetation_Zones.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Sweden_Vegetation_Zones.jpg" alt="Sweden Vegetation Zones.jpg" height="869" width="600"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Boeing720" title="User:Boeing720">Boeing720</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63284022">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sweden_Vegetation_Zones.jpg#/media/File:Sweden_Vegetation_Zones.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Sweden_Vegetation_Zones.jpg" alt="Wikimedia Commons photo showing Sweden Vegetation Zones" height="869" width="600"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Boeing720" title="User:Boeing720">Boeing720</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63284022">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

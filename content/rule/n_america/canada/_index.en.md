@@ -43,13 +43,13 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:5px;">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
-<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
-<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px" alt="Canada sp nu">
-<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px" alt="MUTCD R2 1">
-<img src="/rule/n_america/usa/r/sp-oregon.png" width="66px" style="margin:5px" alt="Sp oregon">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Ca On Road Sign Rb 001 050">
+<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Canada Sp Bc">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Sp On">
+<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px" alt="Canada GeoGuessr guide image showing Canada Sp Nu">
+<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px" alt="R GeoGuessr guide image showing Mutcd R2 1">
+<img src="/rule/n_america/usa/r/sp-oregon.png" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Sp Oregon">
 </div>
 
 </div>
@@ -57,44 +57,44 @@ sc: [
 {{% notice tip %}}In Canada, there are no words on YEILD or ONEWAY signs.Canada on the left, America on the right.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px" alt="CA MUTCDC RA 002">
-<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px" alt="MUTCD R1 2">
+<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Ca Mutcdc Ra 002">
+<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Mutcd R1 2">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
-<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
+<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Oneway">
+<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Oneway">
 </div>
 
 {{% notice tip %}}There are many posts like this.It should say CANADA POST somewhere.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/canada/canadapostcommunitymailboxes9.jpg" width="80%" alt="Canadapostcommunitymailboxes9" />
-<img src="/rule/n_america/canada/canadapostcommunitymailboxes5.jpg" width="250px" alt="Canadapostcommunitymailboxes5" />
-<img src="/rule/n_america/canada/canadapostmailbox.jpg" width="250px" alt="Canadapostmailbox" />
+<img src="/rule/n_america/canada/canadapostcommunitymailboxes9.jpg" width="80%" alt="Canada GeoGuessr guide image showing canadapostcommunitymailboxes9" />
+<img src="/rule/n_america/canada/canadapostcommunitymailboxes5.jpg" width="250px" alt="Canada GeoGuessr guide image showing canadapostcommunitymailboxes5" />
+<img src="/rule/n_america/canada/canadapostmailbox.jpg" width="250px" alt="Canada GeoGuessr guide image showing Canadapostmailbox" />
 </div>
 
 {{% notice tip %}}There is a sign that looks like a checkerboard{{% ex "https://goo.gl/maps/H4Cp8txV2x2FRdxa6" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/canada/opeongo_road_signs.jpg" width="90%" alt="Opeongo road signs" />
+<img src="/rule/n_america/canada/opeongo_road_signs.jpg" width="90%" alt="Canada GeoGuessr guide image showing Opeongo Road Signs" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px" alt="CA QC road sign D 280">
-<img src="/rule/n_america/canada/Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8LR">
-<img src="/rule/n_america/canada/Ontario_Wa-8R.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8R">
+<img src="/rule/n_america/canada/CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign D 280">
+<img src="/rule/n_america/canada/Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px" alt="Canada GeoGuessr guide image showing Ontario Wa 8LR">
+<img src="/rule/n_america/canada/Ontario_Wa-8R.svg" width="130px" style="margin-right:20px" alt="Canada GeoGuessr guide image showing Ontario Wa 8R">
 </div>
 
 {{% notice tip %}}Banks written as TD are affiliated with Toronto-Dominion Bank.RBC stands for Royal Bank of Canada.They are the 2nd and 1st largest asset size in Japan, respectively.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/57156785@N02/44243680621/in/photolist-2apEqPF-2k3u5Vp-2k5nE34-2iy4iAq-zfK741-2b4g1hd-8ofxdx-6pVbre-6pZkMh-2ozianU-2oc7xSn-zyqpEn-LopPat-2oG9Ts8-55vEAe-fDKLZx-LW1i9o-e4oo6a-rv5Mn1-2mWAKXU-2osbwHd-2oHCBFQ-5S6fjC-2i6uvpG-vypsm-GTJfmt-sv4XYe-2nUZ1mo-FonQSJ-6HHYJw-PykKLu-D2W89U-2nb4t6W-2nGHSa8-2o1pQuT-egNVbc-9BfMp3-FZTzNH-2okTm7A-2ntWgkb-2nwCtgd-DfXeo-hpY92-2nwpGeS-2mXGC7H-2nXgvAB-cMyfLJ-2iETZYD-2nFKhBN-2m7gnDm" title="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"><img src="https://live.staticflickr.com/1868/44243680621_598b1c2477_z.jpg" width="640" height="396" alt="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/57156785@N02/44243680621/in/photolist-2apEqPF-2k3u5Vp-2k5nE34-2iy4iAq-zfK741-2b4g1hd-8ofxdx-6pVbre-6pZkMh-2ozianU-2oc7xSn-zyqpEn-LopPat-2oG9Ts8-55vEAe-fDKLZx-LW1i9o-e4oo6a-rv5Mn1-2mWAKXU-2osbwHd-2oHCBFQ-5S6fjC-2i6uvpG-vypsm-GTJfmt-sv4XYe-2nUZ1mo-FonQSJ-6HHYJw-PykKLu-D2W89U-2nb4t6W-2nGHSa8-2o1pQuT-egNVbc-9BfMp3-FZTzNH-2okTm7A-2ntWgkb-2nwCtgd-DfXeo-hpY92-2nwpGeS-2mXGC7H-2nXgvAB-cMyfLJ-2iETZYD-2nFKhBN-2m7gnDm" title="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"><img src="https://live.staticflickr.com/1868/44243680621_598b1c2477_z.jpg" width="640" height="396" alt="Image from live.staticflickr.com showing 44243680621 598b1c2477 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px" alt="Toronto Dominion Bank logo">
-<img src="/rule/n_america/canada/RBC_Royal_Bank.svg" width="100px" style="margin-left:100px" alt="RBC Royal Bank">
+<img src="/rule/n_america/canada/Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px" alt="Canada GeoGuessr guide image showing Toronto Dominion Bank Logo">
+<img src="/rule/n_america/canada/RBC_Royal_Bank.svg" width="100px" style="margin-left:100px" alt="Canada GeoGuessr guide image showing Rbc Royal Bank">
 </div>
 
 {{% /tab %}}
@@ -157,7 +157,7 @@ The yellow-green areas are flat, and the brown areas are steep mountains.It turn
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/canada/1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800" alt="1073px Canada Map 3 Terrain DPLA 9d3a2bcd16e310769d57247c939b852b">
+<img src="/rule/n_america/canada/1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800" alt="Canada GeoGuessr guide image showing 1073px Canada Map 3 Terrain Dpla 9d3a2bcd16e310769d57247c939b852b">
 </div>
 
 {{% /tab %}}
@@ -192,20 +192,20 @@ The yellow-green areas are flat, and the brown areas are steep mountains.It turn
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px" alt="Nunavut Stop Sign SVG">
-<img src="/rule/n_america/canada/r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px" alt="CA QC road sign P 010 fr">
-<img src="/rule/n_america/canada/r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px" alt="New Brunswick stop sign">
+<img src="/rule/n_america/canada/r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px" alt="R GeoGuessr guide image showing Nunavut Stop Sign Svg">
+<img src="/rule/n_america/canada/r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px" alt="R GeoGuessr guide image showing Ca Qc Road Sign P 010 Fr">
+<img src="/rule/n_america/canada/r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px" alt="R GeoGuessr guide image showing New Brunswick Stop Sign">
 </div>
 
 {{% /tab %}}
 {{% tab "speed notation" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
-<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
-<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px" alt="Canada sp nu">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Ca On Road Sign Rb 001 050">
+<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Canada Sp Bc">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Sp On">
+<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px" alt="Canada GeoGuessr guide image showing Canada Sp Nu">
 </div>
 
 
@@ -262,7 +262,7 @@ When the telephone poles divided 2:1 are repeated alternately,<span class="quiz"
 Bollards with thin, dark red reflectors are <span class="quiz">quebec</span> state{{% ex "https://goo.gl/maps/goHrTyUv3ALQ8DLt5" "https://goo.gl/maps/RYguMToduYg11Cfe8" %}}.{{% goto "../usa/" "America" %}}There is a similar bollard in{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}Just pay attention to the points.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/a20_ouest_km143.jpg" width="90%" alt="A20 ouest km143">
+<img src="/rule/n_america/canada/a20_ouest_km143.jpg" width="90%" alt="Canada GeoGuessr guide image showing a20 Ouest km143">
 </div>
 {{% /tab %}}
 {{% tab "Ontario" %}}
@@ -287,14 +287,14 @@ Common in Ontario.Some are not colored.
 {{% tab "wheat" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/canada/2023-04-29-19-45-23.png" width="80%" alt="2023 04 29 19 45 23" />
+<img src="/rule/n_america/canada/2023-04-29-19-45-23.png" width="80%" alt="Canada GeoGuessr guide image showing 2023 04 29 19 45 23" />
 </div>
 
 {{% /tab %}}
 {{% tab "cone" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/canada/2023-04-29-19-35-46.png" width="80%" alt="2023 04 29 19 35 46" />
+<img src="/rule/n_america/canada/2023-04-29-19-35-46.png" width="80%" alt="Canada GeoGuessr guide image showing 2023 04 29 19 35 46" />
 </div>
 
 {{% notice note %}}

@@ -39,7 +39,7 @@ Kazakh and Russian signage appears, and the Google car can be spotted{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/kazakhstan/img_6003.jpg" width="90%" alt="Img 6003">
+<img src="/rule/asia/kazakhstan/img_6003.jpg" width="90%" alt="Kazakhstan GeoGuessr guide image showing Img 6003">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ Some license plates feature the light-blue national flag on the left side.
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="/rule/asia/kazakhstan/КазасE�E�ан2012-01.gif" class="resolution-small" width="50%" alt="КазасE�E�ан2012 01" />
+<img src="/rule/asia/kazakhstan/КазасE�E�ан2012-01.gif" class="resolution-small" width="50%" alt="Kazakhstan GeoGuessr guide image showing КазасE�E�ан2012 01" />
 {{% /lb %}}
 
 {{% /tab %}}

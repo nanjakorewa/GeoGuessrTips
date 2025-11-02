@@ -42,7 +42,7 @@ Eswatini has a lot of thin grass like this{{% ex "https://goo.gl/maps/QDByu9vY3r
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/africa/eswatini/road.png" alt="Road" /></p>
+<p><img src="/rule/africa/eswatini/road.png" alt="Eswatini GeoGuessr guide image showing Road" /></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
 </div>
 
@@ -80,7 +80,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 The entire country is slanted, with the highlands (1,500 meters above sea level) in the west and the lowlands (200 meters above sea level) in the east.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png" alt="2023 04 21 05 06 55">
+<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png" alt="Eswatini GeoGuessr guide image showing 2023 04 21 05 06 55">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

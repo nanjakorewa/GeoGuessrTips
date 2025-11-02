@@ -45,7 +45,7 @@ products:
 ボラードが<span class="quiz">赤色で塗られている</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./nz-bollard.png" width="95%" alt="ニュージーランドのボラード" />
+<img src="./nz-bollard.png" width="95%" alt="New Zealand GeoGuessr guide image showing Nz Bollard" />
 </div>
 
 
@@ -53,7 +53,7 @@ products:
 電柱の上のほうに何かが巻かれている{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}。穴が空いた電柱もある{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="90%" alt="ニュージーランドの電柱" />
+<img src="./poles.png" width="90%" alt="New Zealand GeoGuessr guide image showing Poles" />
 </div>
 
 {{% notice tip %}}
@@ -61,8 +61,8 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="../australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="AU speed limit" />
-    <img src="../new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="NZ speedlimit" />
+    <img src="../australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="R GeoGuessr guide image showing Au Speed Limit" />
+    <img src="../new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="R GeoGuessr guide image showing Nz Speedlimit" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/State_Highway_77_NZ.svg" width="100px" alt="State Highway 77 NZ">
+<img src="./r/State_Highway_77_NZ.svg" width="100px" alt="R GeoGuessr guide image showing State Highway 77 Nz">
 </div>
 
 {{% notice tip %}}
@@ -78,12 +78,12 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="../australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Australia road sign R1 2" />
-    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="New Zealand road sign R2 2" />
+    <img src="../australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="R GeoGuessr guide image showing Australia Road Sign R1 2" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="R GeoGuessr guide image showing New Zealand Road Sign R2 2" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="./tokoroa_near_mannering_street.jpg" alt="Tokoroa near mannering street">
+<img src="./tokoroa_near_mannering_street.jpg" alt="New Zealand GeoGuessr guide image showing Tokoroa Near Mannering Street">
 </div>
 
 
@@ -91,7 +91,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 ニュージーランドは国土の40%以上が牧草地{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./img_1492_27.jpg" width="95%" alt="Img 1492 27">
+<img src="./img_1492_27.jpg" width="95%" alt="New Zealand GeoGuessr guide image showing Img 1492 27">
 </div>
 
 
@@ -100,17 +100,17 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="New Zealand PW 66">
-<img src="./r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="New Zealand PW 46">
-<img src="./r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="New Zealand PW 25 (55 kmh)">
+<img src="./r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="R GeoGuessr guide image showing New Zealand Pw 66">
+<img src="./r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="r2 GeoGuessr guide image showing New Zealand Pw 46">
+<img src="./r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="r2 GeoGuessr guide image showing New Zealand Pw 25 (55 kmh)">
 </div>
 <div class="googlemap-if no-margin">
-<img src="./r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="New Zealand Permanent Warning Use Low Gear">
-<img src="./r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="New Zealand PW 59">
+<img src="./r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="r2 GeoGuessr guide image showing New Zealand Permanent Warning Use Low Gear">
+<img src="./r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="r2 GeoGuessr guide image showing New Zealand Pw 59">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./homer_tunnel_east.jpg" alt="Homer tunnel east">
+<img src="./homer_tunnel_east.jpg" alt="New Zealand GeoGuessr guide image showing Homer Tunnel East">
 </div>
 
 {{% notice tip %}}
@@ -118,7 +118,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./whitepole.jpg" width="400px" alt="Whitepole">
+<img src="./whitepole.jpg" width="400px" alt="New Zealand GeoGuessr guide image showing Whitepole">
 </div>
 
 
@@ -202,7 +202,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Windbreak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Windbreak"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Image from live.staticflickr.com showing 411043386 b421c050aa Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -214,7 +214,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./wv_banner_bay_plenty.jpg" alt="Wv banner bay plenty">
+<img src="./wv_banner_bay_plenty.jpg" alt="New Zealand GeoGuessr guide image showing Wv Banner Bay Plenty">
 </div>
 
 {{% /tab %}}
@@ -225,7 +225,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arundo_donax_variegata_j.jpg" alt="Arundo donax variegata j">
+<img src="arundo_donax_variegata_j.jpg" alt="New Zealand GeoGuessr guide image showing Arundo Donax Variegata J">
 </div>
 
 
@@ -251,7 +251,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="kiwi_plant.jpg" width="90%" alt="Kiwi plant">
+<img src="kiwi_plant.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Kiwi Plant">
 </div>
 
 
@@ -263,7 +263,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="landscape_new_zealand_vineyard.jpg" width="90%" alt="Landscape new zealand vineyard">
+<img src="landscape_new_zealand_vineyard.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Landscape New Zealand Vineyard">
 </div>
 
 
@@ -287,7 +287,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./mountain_mt_egmont_mt.jpg" alt="Mountain mt egmont mt">
+<img src="./mountain_mt_egmont_mt.jpg" alt="New Zealand GeoGuessr guide image showing Mountain Mt Egmont Mt">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -297,7 +297,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./rail_trail_going_north_0.jpg" alt="Rail trail going north 0">
+<img src="./rail_trail_going_north_0.jpg" alt="New Zealand GeoGuessr guide image showing Rail Trail Going North 0">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -319,7 +319,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Rainbow after rain in Oban, Stewart Island - panoramio.jpg" width="95%"></a></p><p>By Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Wikimedia Commons photo showing Rainbow After Rain In Oban, Stewart Island Panoramio" width="95%"></a></p><p>By Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "ホワイト島" %}}
@@ -329,7 +329,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./derelict_sulphur_factory_building.jpg" width="90%" alt="Derelict sulphur factory building">
+<img src="./derelict_sulphur_factory_building.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Derelict Sulphur Factory Building">
 </div>
 {{% /tab %}}
 {{% tab "アンティポディーズ諸島" %}}
@@ -339,7 +339,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./antipodes_penguin.jpg" width="90%" alt="Antipodes penguin">
+<img src="./antipodes_penguin.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Antipodes Penguin">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

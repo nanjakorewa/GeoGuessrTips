@@ -43,36 +43,36 @@ sc: [
 
 {{% notice tip %}}Locality signs are typically written solely in Bulgarian. {{% ex "https://maps.app.goo.gl/tHfoNLBNP3xz2GH28" "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/2023-07-23-10-25-46.png" width="278px" alt="2023 07 23 10 25 46" />
-<img src="/rule/europe/bulgaria/2023-07-23-10-23-12.png" width="310px" alt="2023 07 23 10 23 12" />
+<img src="/rule/europe/bulgaria/2023-07-23-10-25-46.png" width="278px" alt="Bulgaria GeoGuessr guide image showing 2023 07 23 10 25 46" />
+<img src="/rule/europe/bulgaria/2023-07-23-10-23-12.png" width="310px" alt="Bulgaria GeoGuessr guide image showing 2023 07 23 10 23 12" />
 </div>
 
 {{% notice tip %}}Pedestrian crossing signs display <span class="quiz">four</span> bars. {{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}{{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_c2eea5695b_c.jpg" width="558" height="800" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_c2eea5695b_c.jpg" width="558" height="800" alt="Image from live.staticflickr.com showing 51716825623 c2eea5695b C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}Many homes have reddish-brown tiled roofs with exposed chimneys. {{% ex "https://maps.app.goo.gl/uZyJXDKDpMm4dnXTA" %}} The roof tiles shown below are also common. {{% ex "https://maps.app.goo.gl/V2zNU643L9gUj6Ha9" "https://maps.app.goo.gl/Ja1uWGucQaWgdTPc7" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/bulgaria/bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria village cart wooden">
-<img src="/rule/europe/bulgaria/houses_old_home_residences.jpg" width="640" alt="Houses old home residences">
+<img src="/rule/europe/bulgaria/bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria GeoGuessr guide image showing Bulgaria Village Cart Wooden">
+<img src="/rule/europe/bulgaria/houses_old_home_residences.jpg" width="640" alt="Bulgaria GeoGuessr guide image showing Houses Old Home Residences">
 </div>
 
 {{% notice tip %}}{{% goto "../baltic-state/latvia/" "Latvia" %}}-style utility poles with hooks appear here too. {{% ex "https://maps.app.goo.gl/8m7JbzZdDwwVNjCz9" "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch" %}} Look for black paint bands on poles with Cyrillic notes. {{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "Source for pole photo (bottom right)" %}}{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/bulgaria-road.png" width="90%" alt="Bulgaria road">
+<img src="/rule/europe/bulgaria/bulgaria-road.png" width="90%" alt="Bulgaria GeoGuessr guide image showing Bulgaria Road">
 </div>
 
 {{% notice tip %}}Lattice transmission towers and cantilevered power poles, like those in the photo, appear frequently. {{% ex "https://maps.app.goo.gl/M7zy6gcCFa5VLhuJ8" "https://maps.app.goo.gl/fXuXA6dmWeRTnjJi9" "https://maps.app.goo.gl/CrKQLeKWt7sjcEVdA" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Yoakim Gruevo PD 2011 05.JPG" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Spiritia" title="User:Spiritia">Spiritia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17384944">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Wikimedia Commons photo showing Yoakim Gruevo Pd 2011 05" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Spiritia" title="User:Spiritia">Spiritia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17384944">Link</a></p>
 </div>
 
 {{% notice tip %}}Bus stop shelters often carry the national flag colours—white, green, and red. {{% ex "https://maps.app.goo.gl/fxDgMHesok5YBz757" "https://maps.app.goo.gl/FWDuAZ1d4TQW4GT97" "https://maps.app.goo.gl/rWYn5pCjJxdF3Qci9" %}}{{% /notice %}}
 <div class="googlemap-if">
-<img src="./bulgaria-busstop.png" width="90%" alt="Bulgaria busstop">
+<img src="./bulgaria-busstop.png" width="90%" alt="Bulgaria GeoGuessr guide image showing Bulgaria Busstop">
 </div>
 
 {{% notice note %}}Trams run only in Sofia. {{% ex "https://maps.app.goo.gl/TADYrGAgs1k8jZ1RA" "https://maps.app.goo.gl/4M6GPjtzdMugyNhx8" %}}{{% /notice %}}
@@ -81,13 +81,13 @@ sc: [
 {{% tab "w-trash" %}}
 {{% notice tip %}}Galvanised trash bins lined up along the street are a reliable clue. {{% ex "https://maps.app.goo.gl/su9FpsxH18tEXqwv8" "https://maps.app.goo.gl/D8Mq2pu8EXA1Wcab9" "https://maps.app.goo.gl/ZxcmnmMXjdp5rYxJ7" "https://maps.app.goo.gl/3qk7Aq7CePKus6db8" %}}{{% /notice %}}
 <div class="googlemap-if">
-<img src="./trash.jpg" width="90%" alt="Trash">
+<img src="./trash.jpg" width="90%" alt="Bulgaria GeoGuessr guide image showing Trash">
 </div>
 {{% /tab %}}
 {{% tab "w-utility" %}}
 {{% notice tip %}}Road signs often include Cyrillic-only hazard warnings with black paint bands and white text boxes.{{% /notice %}}
 <div class="googlemap-if">
-<img src="./utility.jpg" width="90%" alt="Utility">
+<img src="./utility.jpg" width="90%" alt="Bulgaria GeoGuessr guide image showing Utility">
 </div>
 {{% /tab %}}
 {{% tab "w-food" %}}
@@ -116,7 +116,7 @@ Shops sometimes display older Bulgarian fonts or stylised Cyrillic scripts that 
 <div class="gallery-scroll">
     <div class="image-item">
         <a href="https://nanjakorewa.booth.pm/items/7092780" target="_blank">
-            <img src="/rule/europe/bulgaria/6dd1f57b-a1c5-4fbb-80de-2282aa612f6d.png" alt="Poster">
+            <img src="/rule/europe/bulgaria/6dd1f57b-a1c5-4fbb-80de-2282aa612f6d.png" alt="Bulgaria GeoGuessr guide image showing 6dd1f57b a1c5 4fbb 80de 2282aa612f6d">
         </a>
     </div>
 </div>
@@ -135,14 +135,14 @@ Shops sometimes display older Bulgarian fonts or stylised Cyrillic scripts that 
 {{% notice tip %}}This location is a common trap; it is easy to misidentify the country at first glance. {{% ex "https://maps.app.goo.gl/w4qd5FxyBLRM3AK66" "https://maps.app.goo.gl/3HuuxzJLRf9yuTDt9" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/bulgaria/belmeken_001.jpg" alt="Belmeken 001">
+<img src="/rule/europe/bulgaria/belmeken_001.jpg" alt="Bulgaria GeoGuessr guide image showing Belmeken 001">
 </div>
 {{% /tab %}}
 {{% tab "Botev Peak" %}}
 {{% notice tip %}}Another tough location drawn from {{% goto "https://www.geoguessr.com/maps/652ba0d9002aa0d36f996153" "An official world" %}}—remember the tower near the peak. {{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/bulgaria/botev_peak.jpg" alt="Botev peak">
+<img src="/rule/europe/bulgaria/botev_peak.jpg" alt="Bulgaria GeoGuessr guide image showing Botev Peak">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

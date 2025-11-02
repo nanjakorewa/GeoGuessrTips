@@ -28,7 +28,7 @@ flag: "OKINAWA.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="nakamurahouse.jpg" alt="Nakamurahouse">
+<img src="nakamurahouse.jpg" alt="Okinawa GeoGuessr guide image showing Nakamurahouse">
 </div>
 
 {{% /tab %}}

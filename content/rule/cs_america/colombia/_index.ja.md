@@ -47,11 +47,11 @@ sc: [
 {{% goto "../../n_america/mexico/" "メキシコ" %}}のチワワ州の看板にもクロスがあることをついでに覚えておくといつか役に立つかも{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}（チワワクロス？）。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign-example.jpg" width="85%" alt="Road sign example" />
+<img src="./road-sign-example.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign Example" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="85%" alt="Road sign" />
+<img src="./road-sign.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign" />
 </div>
 
 
@@ -59,7 +59,7 @@ sc: [
 ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lp.jpg" width="95%" alt="Lp">
+<img src="./lp.jpg" width="95%" alt="Colombia GeoGuessr guide image showing Lp">
 </div>
 
 {{% lb 50 %}}
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadside.jpg" width="95%" alt="Roadside">
+<img src="./roadside.jpg" width="95%" alt="Colombia GeoGuessr guide image showing Roadside">
 </div>
 
 
@@ -102,7 +102,7 @@ sc: [
     <h2>コロンビア関連グッズ</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7090759" target="_blank">
-            <img src="b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
+            <img src="b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="Colombia GeoGuessr guide image showing b48f3e0a 6902 4008 8323 b15de46b33cd">
         </a>
         <!-- <div class="caption">商品タイトル1</div>-->
     </div>
@@ -126,7 +126,7 @@ sc: [
 {{% tabs %}}
 {{% tab "植生" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./pone.0043943.g001.png" width="80%" alt="Pone.0043943.g001" />
+<img src="./pone.0043943.g001.png" width="80%" alt="Colombia GeoGuessr guide image showing pone.0043943.g001" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -155,7 +155,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Mapa de Colombia (relieve).svg" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">Own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geográfico Agustín Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Mapa oficial de la República de Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Wikimedia Commons photo showing Mapa De Colombia (relieve)" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">Own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geográfico Agustín Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Mapa oficial de la República de Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
 </div>
 
 
@@ -176,7 +176,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./barranquilla_autopista_al_mar.jpg" alt="Barranquilla autopista al mar">
+<img src="./barranquilla_autopista_al_mar.jpg" alt="Colombia GeoGuessr guide image showing Barranquilla Autopista Al Mar">
 </div>
 
 
@@ -199,7 +199,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Palm_Oil.jpg" width="90%" alt="Colombia Palm Oil">
+<img src="./Colombia_Palm_Oil.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Colombia Palm Oil">
 </div>
 
 {{% notice tip %}}
@@ -210,7 +210,7 @@ sc: [
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if no-margin">
-<img src="./agriculture_sugar_cane_crop.jpg" width="90%" alt="Agriculture sugar cane crop">
+<img src="./agriculture_sugar_cane_crop.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Agriculture Sugar Cane Crop">
 </div>
 
 {{% notice tip %}}
@@ -221,7 +221,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% /tab %}}
 {{% tab "コットン" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Cotton.jpg" width="90%" alt="Colombia Cotton">
+<img src="./Colombia_Cotton.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Colombia Cotton">
 </div>
 
 {{% notice tip %}}
@@ -232,7 +232,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Rice.jpg" width="90%" alt="Colombia Rice">
+<img src="./Colombia_Rice.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Colombia Rice">
 </div>
 
 {{% notice tip %}}
@@ -257,14 +257,14 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% notice tip %}}Buenaventuraはコロンビアの主要港でありコロンビアにおける海上輸出入の約60％を占めている。そのため港へ続く道はコンテナを積んだトラックが多い印象{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。{{% goto "https://x.com/one_line_japan" "ONE" %}}のコンテナも見つかる{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./aahus_port_container_loading.jpg" alt="Aahus port container loading">
+<img src="./aahus_port_container_loading.jpg" alt="Colombia GeoGuessr guide image showing Aahus Port Container Loading">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}Medellínを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" alt="Ar236201" />
+<img src="ar236201.jpg" width="95%" alt="Colombia GeoGuessr guide image showing ar236201" />
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
@@ -272,11 +272,11 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 7384049646 4bd46ab073 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard.png" width="70px" alt="Bollard">
+<img src="./r/bollard.png" width="70px" alt="R GeoGuessr guide image showing Bollard">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -299,14 +299,14 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% notice tip %}}ステッカーにCARTAGENAと書かれている。トラックの屋根の上や側面にも書いてあるかも{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./colombia_kartagena_south_america.jpg" alt="Colombia kartagena south america">
+<img src="./colombia_kartagena_south_america.jpg" alt="Colombia GeoGuessr guide image showing Colombia Kartagena South America">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
 {{% notice tip %}}要塞のある離島にある町を歩いている。一緒に歩いてくれる人がいる{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Wikimedia Commons photo showing Fuerte De San Fernando Cartagena (2009) 02" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Leticia" %}}
@@ -314,14 +314,14 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 陸路でつながっているブラジルのTabatingaと経済的な結び付きが強い{{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}。電柱もブラジルにあるような仕切りのある電柱が見られる{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}。観光地として栄えておりタクシーや観光客が多く見つかる。特徴的なGoogle Carが見られる{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Wikimedia Commons photo showing Leticia Town Photograph" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Gorgona" %}}
 {{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="hotel_in_gorgona.jpg" alt="Hotel in gorgona">
+<img src="hotel_in_gorgona.jpg" alt="Colombia GeoGuessr guide image showing Hotel In Gorgona">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalía" %}}

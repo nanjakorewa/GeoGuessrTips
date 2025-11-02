@@ -37,7 +37,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./arena_for_that_basque.jpg" width="95%" alt="Arena for that basque">
+<img src="./arena_for_that_basque.jpg" width="95%" alt="Saint Pierre Miquelon GeoGuessr guide image showing Arena For That Basque">
 </div>
 
 {{% notice tip %}}Google Carが特徴的{{% ex "https://maps.app.goo.gl/vLe5GPWMZMtNiHRu9" %}}

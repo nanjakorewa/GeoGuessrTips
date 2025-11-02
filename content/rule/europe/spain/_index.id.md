@@ -45,7 +45,7 @@ sc: [
 Kotak pos Correos berbentuk silinder <span class="quiz">kuning</span> dan diberi logo perusahaan{{% ex "https://maps.app.goo.gl/izadzQSiYySYPqFH7" "https://maps.app.goo.gl/98xfrzaY5FzksDAX8" %}}{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/post.jpg" width="70%" alt="Post">
+<img src="/rule/europe/spain/post.jpg" width="70%" alt="Spain GeoGuessr guide image showing Post">
 </div>
 
 
@@ -53,7 +53,7 @@ Kotak pos Correos berbentuk silinder <span class="quiz">kuning</span> dan diberi
 <span class="quiz">“CALLE”</span> berarti jalan; wilayah Catalonia menggunakan “CARRER”. Papan kanan menampilkan Free Software Street di Catalonia{{% ref "https://en.wikipedia.org/wiki/Free_Software_Street" "Free Software Street" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/street.jpg" width="90%" alt="Street">
+<img src="/rule/europe/spain/street.jpg" width="90%" alt="Spain GeoGuessr guide image showing Street">
 </div>
 
 
@@ -62,8 +62,8 @@ Rambu pejalan kaki hampir selalu memiliki <span class="quiz">8 garis</span>{{% e
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/elliotmoore/336339535/" title="pasear"><img src="https://live.staticflickr.com/138/336339535_7e925403b7_w.jpg" width="268" height="400" alt="pasear"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Road Junction Sign (Barcelona Province, Spain)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/elliotmoore/336339535/" title="pasear"><img src="https://live.staticflickr.com/138/336339535_7e925403b7_w.jpg" width="268" height="400" alt="Image from live.staticflickr.com showing 336339535 7e925403b7 W"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Image from live.staticflickr.com showing 36798722655 7b78f0f8f9"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -71,12 +71,12 @@ Bollard pun sering <span class="quiz">kuning</span>{{% ex "https://goo.gl/maps/R
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/navaleno_n_234.jpg" width="600" alt="Navaleno n 234">
+<img src="/rule/europe/spain/navaleno_n_234.jpg" width="600" alt="Spain GeoGuessr guide image showing Navaleno N 234">
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/spain-bollard.png" width="180px" alt="Bollard Spanyol" />
+<img src="/rule/europe/spain/spain-bollard.png" width="180px" alt="Spain GeoGuessr guide image showing Spain Bollard" />
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Di tepi jalan, sering ada pelat kilometer kecil berwarna oranye/kuning dengan no
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/road.jpg" width="600" alt="Road">
+<img src="/rule/europe/spain/road.jpg" width="600" alt="Spain GeoGuessr guide image showing Road">
 </div>
 
 
@@ -93,7 +93,7 @@ Chevron berlatar <span class="quiz">hitam</span> atau <span class="quiz">biru</s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600" alt="Road m 503 km17">
+<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600" alt="Spain GeoGuessr guide image showing Road M 503 km17">
 </div>
 
 
@@ -102,7 +102,7 @@ Pada beberapa jalan raya, guardrail pendek diberi cat putih dengan garis hitam{{
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600" alt="Road m 503 km17">
+<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600" alt="Spain GeoGuessr guide image showing Road M 503 km17">
 </div>
 
 
@@ -126,7 +126,7 @@ Hutan pinus sangat luas di Castilla y León dan Aragón{{% ex "https://maps.app.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/pinus_pinea_pompeii.jpg" width="95%" alt="Pinus pinea pompeii">
+<img src="/rule/europe/spain/pinus_pinea_pompeii.jpg" width="95%" alt="Spain GeoGuessr guide image showing Pinus Pinea Pompeii">
 </div>
 
 {{% notice tip %}}
@@ -134,7 +134,7 @@ Pinus Aleppo dengan tanah berpasir juga umum di pesisir Mediterania{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%" alt="Pinus halepensis near hyeres">
+<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%" alt="Spain GeoGuessr guide image showing Pinus Halepensis Near Hyeres">
 </div>
 {{% /tab %}}
 {{% tab "Perkebunan zaitun" %}}
@@ -144,7 +144,7 @@ Andalusia penuh dengan kebun zaitun yang tersusun rapi{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/Invernaderos_el_ejido.jpg" width="95%" alt="Invernaderos el ejido">
+<img src="/rule/europe/spain/Invernaderos_el_ejido.jpg" width="95%" alt="Spain GeoGuessr guide image showing Invernaderos El Ejido">
 </div>
 {{% /tab %}}
 {{% tab "Pesisir Mediterania" %}}
@@ -154,7 +154,7 @@ Catalonia dan Valencia menampilkan campuran pinus Aleppo, pinus payung, dan sema
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%" alt="Pinus halepensis near hyeres">
+<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%" alt="Spain GeoGuessr guide image showing Pinus Halepensis Near Hyeres">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -189,7 +189,7 @@ Provinsi Almería dipenuhi rumah kaca; garis pantai tenggara tampak putih karena
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/spain/960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%" alt="960px Roquetas de Mar (Umgebung) 2004 08 18 Glashäuser 2">
+<img src="/rule/europe/spain/960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%" alt="Spain GeoGuessr guide image showing 960px Roquetas De Mar (Umgebung) 2004 08 18 Glashäuser 2">
 </div>
 {{% /tab %}}
 {{% tab "Sawah" %}}
@@ -213,7 +213,7 @@ Selain ladang fotovoltaik{{% ex "https://maps.app.goo.gl/9qniBr54GaLq3Vcn6" %}},
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/spain/960px-Luz.jpg" width="95%" alt="960px Luz">
+<img src="/rule/europe/spain/960px-Luz.jpg" width="95%" alt="Spain GeoGuessr guide image showing 960px Luz">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -230,7 +230,7 @@ Selain ladang fotovoltaik{{% ex "https://maps.app.goo.gl/9qniBr54GaLq3Vcn6" %}},
 {{% tabs %}}
 {{% tab "Picos de Europa" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_del_Cares_Puente.jpg#/media/Archivo:Ruta_del_Cares_Puente.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ruta_del_Cares_Puente.jpg" alt="Ruta del Cares Puente.jpg" width="95%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_del_Cares_Puente.jpg#/media/Archivo:Ruta_del_Cares_Puente.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ruta_del_Cares_Puente.jpg" alt="Wikimedia Commons photo showing Ruta Del Cares Puente" width="95%"></a></p>
 <p>Oleh El Jim - <a rel="nofollow" class="external free" href="https://flic.kr/p/4Kwtmh">https://flic.kr/p/4Kwtmh</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36668829">Link</a></p>
 </div>
 {{% /tab %}}

@@ -28,7 +28,7 @@ Su producción de té rivaliza con la de Shizuoka y, según estadísticas recien
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kagoshima/1082px-Tea_Plantation_near_Kagoshima_Airport.jpg" width="90%" alt="1082px Tea Plantation near Kagoshima Airport">
+<img src="/rule/asia/japan/kyusyu/kagoshima/1082px-Tea_Plantation_near_Kagoshima_Airport.jpg" width="90%" alt="Kagoshima GeoGuessr guide image showing 1082px Tea Plantation Near Kagoshima Airport">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ En las calles hay lugares para depositar sacos de ceniza volcánica destinados a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kagoshima/540px-Kouhaibukuro.jpg" width="60%" alt="540px Kouhaibukuro">
+<img src="/rule/asia/japan/kyusyu/kagoshima/540px-Kouhaibukuro.jpg" width="60%" alt="Kagoshima GeoGuessr guide image showing 540px Kouhaibukuro">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ Se pueden ver postes eléctricos con placas de Kyushu Electric Power.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
 </div>
 
 {{% /tab %}}

@@ -28,7 +28,7 @@ Hay cinta roja alrededor de los postes de señales y carteles.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kumamoto/kumamoto_pref_road_28_0.jpg" width="90%" alt="Kumamoto pref road 28 0">
+<img src="/rule/asia/japan/kyusyu/kumamoto/kumamoto_pref_road_28_0.jpg" width="90%" alt="Kumamoto GeoGuessr guide image showing Kumamoto Pref Road 28 0">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ Se pueden encontrar placas de los postes de Kyushu Electric Power.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
 </div>
 
 {{% /tab %}}
@@ -59,7 +59,7 @@ Tras el anuncio de la planta de TSMC, una enorme cantidad de empresas relacionad
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kumamoto/2025-01-04-13-51-49.png" alt="2025 01 04 13 51 49">
+<img src="/rule/asia/japan/kyusyu/kumamoto/2025-01-04-13-51-49.png" alt="Kumamoto GeoGuessr guide image showing 2025 01 04 13 51 49">
 </div>
 
 {{% /tab %}}

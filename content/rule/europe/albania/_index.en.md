@@ -47,7 +47,7 @@ Rooftop water tanks are a familiar sight in Albania. {{% ex "https://maps.app.go
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/albania/house.jpg" width="95%" alt="House">
+<img src="/rule/europe/albania/house.jpg" width="95%" alt="Albania GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Standard Albanian license plates carry <span class="quiz">blue strips on both si
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/albania/albania-road.png" width="90%" alt="Albania road" />
+<img src="/rule/europe/albania/albania-road.png" width="90%" alt="Albania GeoGuessr guide image showing Albania Road" />
 </div>
 
 {{% lb 50 %}}
@@ -82,12 +82,12 @@ Albania was once a protectorate of {{% goto "../italy/" "Italy" %}} {{% ref "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/albania/street-sign.png" width="90%" alt="Street sign" />
+<img src="/rule/europe/albania/street-sign.png" width="90%" alt="Albania GeoGuessr guide image showing Street Sign" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px" alt="Road sign %CF%8075b">
-<img src="/rule/europe/albania/sign-bg.png" width="120px" style="margin:10px" alt="Sign bg">
+<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Road Sign %CF%8075b">
+<img src="/rule/europe/albania/sign-bg.png" width="120px" style="margin:10px" alt="Albania GeoGuessr guide image showing Sign Bg">
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ Albania was once a protectorate of {{% goto "../italy/" "Italy" %}} {{% ref "htt
 {{% /tab %}}
 {{% tab "Utility poles" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/albania/2023-08-14-17-20-33.png" width="400px" alt="2023 08 14 17 20 33" />
+<img src="/rule/europe/albania/2023-08-14-17-20-33.png" width="400px" alt="Albania GeoGuessr guide image showing 2023 08 14 17 20 33" />
 </div>
 {{% /tab %}}
 

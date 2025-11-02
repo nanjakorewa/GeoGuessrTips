@@ -38,7 +38,7 @@ sc: [
 <span class="quiz">白い</span>色で塗られた製材にいくつか四角い穴が空けられた標識が多い{{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}。ボラードも<span class="quiz">白色</span>が基調であるものが多い。黄色いボラードもあるが側面はやはり<span class="quiz">白色</span>になっている。またウルグアイの車のナンバープレートは<span class="quiz">白</span>色に近い{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}が、{{% goto "../argentina/" "アルゼンチン" %}}は真ん中が黒く見える。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="ウルグアイの標識" >
+<img src="./road.jpg" width="90%" alt="Uruguay GeoGuessr guide image showing Road" >
 </div>
 
 {{% lb 50 small %}}
@@ -51,7 +51,7 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 道路の中央線が特徴的{{% ex "https://maps.app.goo.gl/seXU3MXkz3NFSpE3A" %}}。また同じ種類の木が植えられている植林地が点在する{{% ex "https://maps.app.goo.gl/3SHSy4SYnA84L6bp9" %}}。ウルグアイは山がほぼ無い平坦な国なので風を遮るものが無い。これらは防風林もしくは家畜避難林だと思われる {{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "ウルグアイの生活を振り返って" %}}"。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Ruta30accesoaTranqueras.jpg" height="432" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Wikimedia Commons photo showing Ruta30accesoaTranqueras" height="432" width="640"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:CITY_MVD" title="User:CITY MVD">CITY MVD</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98375088">Link</a></p>
 </div>
 
@@ -59,9 +59,9 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 ウルグアイは石油産業のほとんどは国営のANCAPが管理している。そのためANCAPのガソリンスタンドが街中にある{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}。一方で{{% goto "../argentina/" "アルゼンチン" %}}の国有石油会社はYPF。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Image from live.staticflickr.com showing 4261383542 2472279d20 W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <div class="unclickable">
-<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px" alt="Logo ancap">
+<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px" alt="Uruguay GeoGuessr guide image showing Logo Ancap">
 </div>
 </div>
 
@@ -125,7 +125,7 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 ほとんどの領域が標高0～300mの間であり、最高でも513m（パブリックドメインの画像より）。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-25-12-33-07.png" width="90%" alt="2023 04 25 12 33 07" />
+<img src="2023-04-25-12-33-07.png" width="90%" alt="Uruguay GeoGuessr guide image showing 2023 04 25 12 33 07" />
 </div>
 {{% /tab %}}
 {{% tab "農業" %}}
@@ -133,7 +133,7 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 大麦や大豆の生産は南西のSoriano・Coloniaで半分近くを占めている{{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}。コーンや菜種も西に集中しているので畑が広がっていれば西に寄せる価値ありかも{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Uruguay Production" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Uruguay_Barley.png" width="90%" alt="Uruguay Barley" />
+<img src="Uruguay_Barley.png" width="90%" alt="Uruguay GeoGuessr guide image showing Uruguay Barley" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -155,7 +155,7 @@ Cabo Polonioの集落や集落までの途中の道は黒い車が使われて�
 
 
 <div class="googlemap-if no-margin">
-<img src="./casaspolonio.jpg" width="95%" alt="Casaspolonio">
+<img src="./casaspolonio.jpg" width="95%" alt="Uruguay GeoGuessr guide image showing Casaspolonio">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}
@@ -166,7 +166,7 @@ Cabo Polonioの集落や集落までの途中の道は黒い車が使われて�
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Faro Isla de Flores y construcciones. 02.JPG" height="640" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Wikimedia Commons photo showing Faro Isla De Flores Y construcciones. 02" height="640" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

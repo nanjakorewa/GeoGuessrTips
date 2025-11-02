@@ -34,10 +34,10 @@ En la parte delantera derecha de los vehﾃｭculos se puede observar <span clas
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car en Ghana" />
+<img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Ghana GeoGuessr guide image showing Google Car" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Gc bar">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Ghana GeoGuessr guide image showing Gc Bar">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -56,7 +56,7 @@ Mirando hacia abajo, se deberﾃｭa ver la <span class="quiz">cinta adhesiva ne
 Los taxis tienen un estilo de pintura distintivo {{% ex "https://maps.app.goo.gl/zModPxBNsSaL1E5U6" "https://maps.app.goo.gl/36beJJUuYoXJtTT67" "https://maps.app.goo.gl/qF9yVfgunmUfd5pa9" "https://maps.app.goo.gl/kuyBAsBKBjKmrXaM9" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}} y llevan matrﾃｭculas de color <span class="quiz">amarillo</span>. No cuentan con taxﾃｭmetros, y el precio del viaje se negocia al subir (aunque Uber permite fijar el precio con antelaciﾃｳn).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Ghana GeoGuessr guide image showing Mitsubishi Taxi Ghana" />
 </div>
 
 {{% notice tip %}}
@@ -64,11 +64,11 @@ Se pueden encontrar pequeﾃｱas tiendas que parecen puntos de venta de loter�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="a walk to Makola Market"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 14313740901 d9d6f1f24f C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="Ghana GeoGuessr guide image showing National Lottery Authority Logo" />
 </div>
 
 {{% /tab %}}
@@ -105,7 +105,7 @@ Se pueden encontrar pequeﾃｱas tiendas que parecen puntos de venta de loter�
 {{% tabs %}}
 {{% tab "Palmas de Aceite" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="20230522 palm" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="Ghana GeoGuessr guide image showing 20230522 Palm" />
 </div>
 {{% notice tip %}}
 Las palmas de aceite y los bananos son comunes en el sur. Si no ves este tipo de ﾃ｡rboles, es posible que estﾃｩs en el norte.
@@ -113,7 +113,7 @@ Las palmas de aceite y los bananos son comunes en el sur. Si no ves este tipo de
 {{% /tab %}}
 {{% tab "Prefijos Telefﾃｳnicos" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/ghana_regional_phone_codes.jpg" alt="Prefijos telefﾃｳnicos de Ghana" width="70%" />
+<img src="/rule/africa/ghana/ghana_regional_phone_codes.jpg" alt="Ghana GeoGuessr guide image showing Ghana Regional Phone Codes" width="70%" />
 </div>
 {{% notice tip %}}
 Aunque aprenderlos puede ser ﾃｺtil, fuera de las zonas urbanas es raro ver estos cﾃｳdigos, y los telﾃｩfonos mﾃｳviles son mﾃ｡s comunes. Es mejor priorizar el conocimiento de la vegetaciﾃｳn y las caracterﾃｭsticas regionales. Si ves un nﾃｺmero de fax, ﾃｺsalo como referencia.
@@ -121,7 +121,7 @@ Aunque aprenderlos puede ser ﾃｺtil, fuera de las zonas urbanas es raro ver e
 {{% /tab %}}
 {{% tab "Vegetaciﾃｳn" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/2023-09-02-20-28-52.png" alt="Vegetaciﾃｳn de Ghana" width="500px" />
+<img src="/rule/africa/ghana/2023-09-02-20-28-52.png" alt="Ghana GeoGuessr guide image showing 2023 09 02 20 28 52" width="500px" />
 </div>
 
 {{% notice tip %}}
@@ -142,7 +142,7 @@ Si ves ﾃ｡reas con suelo expuesto o con predominancia de arbustos bajos, es p
 Las ﾃ｡reas blancas en este mapa indican zonas con montaﾃｱas altas {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana GeoGuessr guide image showing Ghana Physical Map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -62,14 +62,14 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wwwuppertal/5408483796/in/photolist-2mUbZBN-2mZ1Zsc-GF4UqB-TNeFbZ-JzY8zN-8A4dhc-np8xSi-dph9Yi-SWeK8E-nvpWpE-cwBxJy-ipwTyv-6Ypd9B-jjKtxH-ipwgR9-dHxGpB-6tpras-4m4RyN-2ocMj3i-eowTxd-7zBkM6-8bPpgC-6Agwss-9eVTNC-4UmLk2-2ocPJuY-2ocMj4k" title="Köln / Cologne (Germany). Either way! (It will not be the right way anyhow)"><img src="https://live.staticflickr.com/5055/5408483796_c4e4342705_z.jpg" width="640" height="436" alt="Image from live.staticflickr.com showing 5408483796 c4e4342705 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="Zeichen 220 20 Einbahnstraße, rechtsweisend, StVO 2017">
-<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, StVO 2017">
-<img src="Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, StVO 1992">
+<img src="./r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="R GeoGuessr guide image showing Zeichen 220 20 Einbahnstraße, rechtsweisend, Stvo 2017">
+<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="R GeoGuessr guide image showing Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, Stvo 2017">
+<img src="Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Germany GeoGuessr guide image showing Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, Stvo 1992">
 </div>
 
 
@@ -78,15 +78,15 @@ products:
 オレンジ背景で矢印の先に番号が書かれた道路看板がある{{% ex "https://goo.gl/maps/WSbgRzWJGWH8zm499" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/EnKQb9jXrnYZFwMn6" "https://goo.gl/maps/ohLRtSMpm1L5cc487" "https://goo.gl/maps/5pbfkNZ9aRGSQMVC8" "https://goo.gl/maps/ALoiF4H53WEcrG5NA" "https://goo.gl/maps/6U9mdfSMpB3PT77C6" "https://goo.gl/maps/rHnSKBBK62eXjC7g7" %}}。白背景の場合も黒い線の輪郭がある。看板の違いを見れば国境にある橋だとわかることも{{% ex "https://goo.gl/maps/Y9pyFhzPJVuRFNPx6" "https://goo.gl/maps/swsX747LgrLBTmGQ9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./junction_traffic_island_road.jpg" width="95%" alt="Junction traffic island road">
+<img src="./junction_traffic_island_road.jpg" width="95%" alt="Germany GeoGuessr guide image showing Junction Traffic Island Road">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
-<img src="./rs3.svg" width="250px" style="margin:10px" alt="Rs3">
+<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
+<img src="./rs3.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="./rs2.svg" width="250px" style="margin:10px" alt="Rs2">
+<img src="./rs2.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs2">
 </div>
 
 
@@ -96,26 +96,26 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bushaltestelle_nvv_rothenberg.jpg" width="95%" alt="Bushaltestelle nvv rothenberg">
+<img src="./bushaltestelle_nvv_rothenberg.jpg" width="95%" alt="Germany GeoGuessr guide image showing Bushaltestelle Nvv Rothenberg">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px" alt="Zeichen 226 Kraftfahrlinien, StVO 1970">
-<img src="./r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px" alt="Zeichen 224 Straßenbahn Haltestelle, StVO 1970">
+<img src="./r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px" alt="R GeoGuessr guide image showing Zeichen 226 Kraftfahrlinien, Stvo 1970">
+<img src="./r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 224 Straßenbahn Haltestelle, Stvo 1970">
 </div>
 
 {{% notice tip %}}
 白やオレンジの反射板のボラードがある{{% ex "https://goo.gl/maps/oAqKAnyqKh2TiRsGA" "https://goo.gl/maps/7yND6Q4vTcujDY3j7" "https://goo.gl/maps/erc84T8ZBAf7BWGaA" "https://goo.gl/maps/bpnFa6UKkR3pvDby5" %}}。町の出入口に表裏に地名が書かれた看板がある{{% ex "https://goo.gl/maps/3Pos6NyBRkgZdVoK8" "https://goo.gl/maps/5K2XdQHcvzZEEnXy5" "https://goo.gl/maps/KqKs9U1df8EnXm7E8" %}}。標識の棒に黒やグレーのキャップが付いていることも多いように思う。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./steeple_road_fog_fog_0.jpg" width="90%" alt="Steeple road fog fog 0">
+<img src="./steeple_road_fog_fog_0.jpg" width="90%" alt="Germany GeoGuessr guide image showing Steeple Road Fog Fog 0">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./bollard.png" width="150px" alt="ドイツのボラード" />
-<img src="./bollard2.png" width="150px" alt="Germany bollard" >
-<img src="./r/route-sign.svg" width="150px" style="margin:55px 0 0 0" alt="Route sign">
-<img src="./town-enter.svg" width="150px" style="margin:55px 0 0 10px" alt="Town enter">
+<img src="./bollard.png" width="150px" alt="Germany GeoGuessr guide image showing Bollard" />
+<img src="./bollard2.png" width="150px" alt="Germany GeoGuessr guide image showing bollard2" >
+<img src="./r/route-sign.svg" width="150px" style="margin:55px 0 0 0" alt="R GeoGuessr guide image showing Route Sign">
+<img src="./town-enter.svg" width="150px" style="margin:55px 0 0 10px" alt="Germany GeoGuessr guide image showing Town Enter">
 </div>
 
 
@@ -124,7 +124,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./up.png" width="90%" alt="Up">
+<img src="./up.png" width="90%" alt="Germany GeoGuessr guide image showing Up">
 </div>
 
 {{% /tab %}}
@@ -133,19 +133,19 @@ products:
 薬局に赤いロゴがある{{% ref "https://de.wikipedia.org/wiki/Apotheke" "Apotheke" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./c/apotheke.jpg" width="500px" alt="Apotheke">
+<img src="./c/apotheke.jpg" width="500px" alt="C GeoGuessr guide image showing Apotheke">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Deutsche Apotheke Logo">
+<img src="./c/Deutsche_Apotheke_Logo.svg" width="150px" alt="C GeoGuessr guide image showing Deutsche Apotheke Logo">
 </div>
 
 {{% notice tip %}}
 ドイツのボンに本社を置く運送会社であるDHLグループのトラックやポストがある{{% ref "https://en.wikipedia.org/wiki/DHL_Group" "DHLグループ" %}}。DHLはロジスティクス業界ではヨーロッパ最大規模の会社であり、どの国にもトラックが走っている。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Deutsche post ag technischer 0">
-<img src="./c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Dhl rad tu darmstadt">
+<img src="./c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="C GeoGuessr guide image showing Deutsche Post Ag Technischer 0">
+<img src="./c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="C GeoGuessr guide image showing Dhl Rad Tu Darmstadt">
 </div>
 
 {{% notice tip %}}
@@ -153,7 +153,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Aral.jpg" width="90%" alt="Aral">
+<img src="Aral.jpg" width="90%" alt="Germany GeoGuessr guide image showing Aral">
 </div>
 
 {{% /tab %}}
@@ -169,7 +169,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./copyright.jpg" width="400px" alt="Copyright">
+<img src="./copyright.jpg" width="400px" alt="Germany GeoGuessr guide image showing Copyright">
 </div>
 
 
@@ -203,7 +203,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./stellichte_germany_village_town.jpg" width="600px" alt="Stellichte germany village town"></p>
+<p><img src="./stellichte_germany_village_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Stellichte Germany Village Town"></p>
 </div>
 {{% /tab %}}
 {{% tab "集合住宅" %}}
@@ -213,7 +213,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Hy hufelandstr36 46wohnhaus"></p>
+<p><img src="./hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Hy hufelandstr36 46wohnhaus"></p>
 </div>
 {{% /tab %}}
 {{% tab "中部の家" %}}
@@ -223,7 +223,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./burglauer_germany_landscape_town.jpg" width="600px" alt="Burglauer germany landscape town"></p>
+<p><img src="./burglauer_germany_landscape_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Burglauer Germany Landscape Town"></p>
 </div>
 {{% /tab %}}
 {{% tab "西部～中部の家" %}}
@@ -233,8 +233,8 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./house-example.jpg" width="90%" alt="House example"></p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Trier-Heiligkreuz, Am Kiewelsberg 20220705 (2).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
+<p><img src="./house-example.jpg" width="90%" alt="Germany GeoGuessr guide image showing House Example"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Wikimedia Commons photo showing Trier Heiligkreuz, Am Kiewelsberg 20220705 (2)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Fachhallenhaus" %}}
@@ -244,7 +244,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./winsenmuseum_groode_hus.jpg" width="600px" alt="Winsenmuseum groode hus"></p>
+<p><img src="./winsenmuseum_groode_hus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Winsenmuseum Groode Hus"></p>
 </div>
 {{% /tab %}}
 {{% tab "German Timber-Frame Road" %}}
@@ -254,7 +254,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:GesamtkarteMitneuerRouteDetail2016.jpg#/media/File:GesamtkarteMitneuerRouteDetail2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GesamtkarteMitneuerRouteDetail2016.jpg" alt="GesamtkarteMitneuerRouteDetail2016.jpg" height="720" width="574"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Deutsche_Fachwerkstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="User:Deutsche Fachwerkstraße (page does not exist)">Deutsche Fachwerkstraße</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49334857">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:GesamtkarteMitneuerRouteDetail2016.jpg#/media/File:GesamtkarteMitneuerRouteDetail2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GesamtkarteMitneuerRouteDetail2016.jpg" alt="Wikimedia Commons photo showing GesamtkarteMitneuerRouteDetail2016" height="720" width="574"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Deutsche_Fachwerkstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="User:Deutsche Fachwerkstraße (page does not exist)">Deutsche Fachwerkstraße</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49334857">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -283,12 +283,12 @@ products:
 {{% /tab %}}
 {{% tab "地形" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Deutschland topo.jpg" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Wikimedia Commons photo showing Deutschland Topo" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Karte Telefonvorwahlen Deutschland.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Wikimedia Commons photo showing Karte Telefonvorwahlen Deutschland" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "工業の分布" %}}
@@ -298,7 +298,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./201601_mom.webp" width="600px" alt="201601 mom"></p>
+<p><img src="./201601_mom.webp" width="600px" alt="Germany GeoGuessr guide image showing 201601 Mom"></p>
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>
@@ -311,7 +311,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="rapsfeld03.jpg" alt="Rapsfeld03">
+<img src="rapsfeld03.jpg" alt="Germany GeoGuessr guide image showing rapsfeld03">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -341,7 +341,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sylt_dunes_nature_landscape.jpg" width="90%" alt="Sylt dunes nature landscape" />
+<img src="./sylt_dunes_nature_landscape.jpg" width="90%" alt="Germany GeoGuessr guide image showing Sylt Dunes Nature Landscape" />
 </div>
 
 {{% /tab %}}
@@ -351,7 +351,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Speicherstadt hamburg brick 1095857" />
+<img src="./speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Germany GeoGuessr guide image showing Speicherstadt Hamburg Brick 1095857" />
 </div>
 {{% /tab %}}
 {{% tab "ベルリン" %}}
@@ -359,7 +359,7 @@ products:
 <span class="quiz">ベルリン</span>は白い背景に灰色の枠があり銀色の結束バンドのようなもので固定されていることが多い
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="berlin_historic_street_names.jpg" alt="Berlin historic street names">
+<img src="berlin_historic_street_names.jpg" alt="Germany GeoGuessr guide image showing Berlin Historic Street Names">
 </div>
 
 {{% /tab %}}
@@ -370,7 +370,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
+<img src="munich_marienplatz_street_sign.jpg" alt="Germany GeoGuessr guide image showing Munich Marienplatz Street Sign">
 </div>
 {{% /tab %}}
 {{% tab "ケルン" %}}
@@ -379,7 +379,7 @@ products:
 <span class="quiz">ケルン</span>はシンプルな白いプレートだ
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
+<img src="lew_kopelew_weg_koln.jpg" alt="Germany GeoGuessr guide image showing Lew Kopelew Weg Koln">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

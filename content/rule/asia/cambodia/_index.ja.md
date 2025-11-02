@@ -54,14 +54,14 @@ products:
 <span class="quiz">クメール語（ភាសាខ្មែរ）</span>が公用語{{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/71nPsqkeemnCWFCt6" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8"  %}}。<span class="quiz">白と赤</span>に塗られたボラードがある{{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" "https://maps.app.goo.gl/Ux92pYWQiYSnuePx5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Wikimedia Commons photo showing Sihanoukville Province. Tumnob Rolok Road" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
 </div>
 
 {{% notice tip %}}
 カンボジアの農村部は<span class="quiz">高床式住居</span>が多い{{% ex "https://maps.app.goo.gl/NS8Y5VjjarYJP3WSA" "https://maps.app.goo.gl/ouBZ6L8qeNAssnS4A" "https://maps.app.goo.gl/NrkRT5tKkQj4GMXYA" %}}。カンボジアは<span class="quiz">熱帯モンスーン</span>気候であり年間を通して高温多湿。高床にすることで昼は暑さ対策、夜は牛や水牛が休むスペースになる。雨季の大雨からの浸水対策にもなるらしい{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Cambodia Rural House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 16643536619 4de2b44f4b Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -69,7 +69,7 @@ products:
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/okalbum/7690023076/in/photolist-rChgvg-9m3pPe-Fz5tqD-9BekZs-8C6uN7-cHxnWL-66bLSv-9323af-NxtQRA-bQJxNP-cMqJqW-CHNoEW-cYNZLL-4BEpon-kB5qEL-7iqRBq-dTDy2D-nABqRp-De1aMq-7uBM8E-bT2BYT-85NGPU-7jpkGQ-xMPCMt-8XmG73-4bkuk7-6DLum2-HzutyZ-8NDZKY-oKqsSC-9W4SSH-c73HWJ-mbBeF-7QrSj3-rkQ5it-dUGhmZ-yQzur-9iLfJc-cwidz5-9mXGUX-gH55qW-8dkwKD-roYXT-88Hxgy-4UibN8-odi3e-nc94FV-ELR6wg-9VbxYz-dSvZ5A" title="cambodian beer"><img src="https://live.staticflickr.com/8167/7690023076_10c9899b8d_z.jpg" width="590" alt="cambodian beer"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/okalbum/7690023076/in/photolist-rChgvg-9m3pPe-Fz5tqD-9BekZs-8C6uN7-cHxnWL-66bLSv-9323af-NxtQRA-bQJxNP-cMqJqW-CHNoEW-cYNZLL-4BEpon-kB5qEL-7iqRBq-dTDy2D-nABqRp-De1aMq-7uBM8E-bT2BYT-85NGPU-7jpkGQ-xMPCMt-8XmG73-4bkuk7-6DLum2-HzutyZ-8NDZKY-oKqsSC-9W4SSH-c73HWJ-mbBeF-7QrSj3-rkQ5it-dUGhmZ-yQzur-9iLfJc-cwidz5-9mXGUX-gH55qW-8dkwKD-roYXT-88Hxgy-4UibN8-odi3e-nc94FV-ELR6wg-9VbxYz-dSvZ5A" title="cambodian beer"><img src="https://live.staticflickr.com/8167/7690023076_10c9899b8d_z.jpg" width="590" alt="Image from live.staticflickr.com showing 7690023076 10c9899b8d Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice note %}}
@@ -85,14 +85,14 @@ products:
 仏教徒が多く仏教に関係する建築物が多い。また土地神や先祖神を祀っている祠があって家の方に向かって置かれていることが多い{{% ex "https://maps.app.goo.gl/uVuPuueskQxJBZUz9" "https://maps.app.goo.gl/XPStXnx9kYFC9GJT6" "https://maps.app.goo.gl/5WMreVZxQ9ejkumf7" "https://maps.app.goo.gl/MrQZBDy2Pox44tRw5" "https://maps.app.goo.gl/DewXDHptMKeZGDCv5" %}}{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}。写真の金色の小さい祠がそれ。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Cambodian house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 15775881556 a5c1b4503a Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 こういう感じの木がある{{% ex "https://maps.app.goo.gl/cSokqL53zawrJt2S8" "https://maps.app.goo.gl/m83DoPtVyRVGZcmt7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AE%E3%83%A4%E3%82%B7" "オウギヤシ" %}}。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./cambodia_asia_siem_reap.jpg" width="90%" alt="Cambodia asia siem reap" />
+<img src="./cambodia_asia_siem_reap.jpg" width="90%" alt="Cambodia GeoGuessr guide image showing Cambodia Asia Siem Reap" />
 </div>
 
 {{% /tab %}}
@@ -157,7 +157,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Cambodia_Rice.png" width="600px" alt="Cambodia Rice">
+<img src="./Cambodia_Rice.png" width="600px" alt="Cambodia GeoGuessr guide image showing Cambodia Rice">
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
@@ -189,7 +189,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./img_163_9714.jpg" width="95%" alt="Img 163 9714">
+<img src="./img_163_9714.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Img 163 9714">
 </div>
 {{% /tab %}}
 {{% tab "Tonlé Sap" %}}
@@ -198,7 +198,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./kompong_phluk_kompong_tour_2.jpg" width="95%" alt="Kompong phluk kompong tour 2">
+<img src="./kompong_phluk_kompong_tour_2.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Kompong Phluk Kompong Tour 2">
 </div>
 {{% /tab %}}
 {{% tab "Kampot" %}}
@@ -207,7 +207,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Kampot_20110429-050.JPG#/media/File:Kampot_20110429-050.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kampot_20110429-050.JPG" alt="Kampot 20110429-050.JPG" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Haros" title="User:Haros">Hans A. Rosbach</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15165246">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kampot_20110429-050.JPG#/media/File:Kampot_20110429-050.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kampot_20110429-050.JPG" alt="Wikimedia Commons photo showing Kampot 20110429 050" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Haros" title="User:Haros">Hans A. Rosbach</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15165246">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Siem Reap" %}}
@@ -216,8 +216,8 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./angkor_wat_cambodia_angkor.jpg" width="95%" alt="Angkor wat cambodia angkor">
-<img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%" alt="Cambodia angkor temple bayon 2">
+<img src="./angkor_wat_cambodia_angkor.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Angkor Wat Cambodia Angkor">
+<img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Cambodia Angkor Temple Bayon 2">
 </div>
 {{% /tab %}}
 {{% tab "Preăh Seihânŭ" %}}
@@ -226,7 +226,7 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:All_Sihanoukville_2014_year.jpg#/media/File:All_Sihanoukville_2014_year.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/All_Sihanoukville_2014_year.jpg" alt="All Sihanoukville 2014 year.jpg" height="720" width="1071"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78794523">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:All_Sihanoukville_2014_year.jpg#/media/File:All_Sihanoukville_2014_year.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/All_Sihanoukville_2014_year.jpg" alt="Wikimedia Commons photo showing All Sihanoukville 2014 Year" height="720" width="1071"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78794523">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

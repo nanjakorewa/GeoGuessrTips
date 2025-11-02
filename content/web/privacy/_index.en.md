@@ -24,13 +24,13 @@ Let me know if you have any other good ideas—I’d love to learn from them.
 <br />
 <br />
 <h3 class="no-blur">Changing the location Google Search uses</h3>
-<img src="/web/privacy/2023-03-21-16-59-28.png" alt="2023 03 21 16 59 28" />
+<img src="/web/privacy/2023-03-21-16-59-28.png" alt="Web Privacy image showing 2023 03 21 16 59 28" />
 
 <span style="font-weight: bold;">If you stay logged in to Google, the search results page can show very detailed addresses, so be careful. Even when signed out, Google can often guess the rough area from your IP address, so that deserves attention as well.</span>
 Searching for transit lines, restaurants, or shops can also snap the map close to your IP-based location. When streaming I avoid searching for terms that point too close to home, such as “convenience store” or “supermarket.”
 You can change the detected location by using a VPN or by opening Chrome’s developer tools and overwriting the geolocation entirely.
 
-<img src="/web/privacy/2023-03-21-17-01-06.png" alt="2023 03 21 17 01 06" />
+<img src="/web/privacy/2023-03-21-17-01-06.png" alt="Web Privacy image showing 2023 03 21 17 01 06" />
 
 <br />
 <br />

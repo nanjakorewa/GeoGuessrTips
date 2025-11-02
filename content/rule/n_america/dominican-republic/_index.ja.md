@@ -48,7 +48,7 @@ Googleカーに黒色の４本のゴムが見える。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="100%" alt="Poles">
+<img src="./poles.png" width="100%" alt="Dominican Republic GeoGuessr guide image showing Poles">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

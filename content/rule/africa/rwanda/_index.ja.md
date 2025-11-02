@@ -39,14 +39,14 @@ sc: [
 {{% notice tip %}}ルワンダではUmugandaと呼ばれる社会奉仕活動が義務付けられており、道路掃除・草刈り・街路樹の剪定などが毎週行われる{{% ref "https://en.wikipedia.org/wiki/Umuganda" "Umuganda" %}}。そのためアフリカの中では道路が相対的にかなりきれいに見える。ゴミが少なく{{% ex "https://maps.app.goo.gl/BNJ8TsYNd1vuxFcTA" "https://maps.app.goo.gl/TrwV5Eef5at2EQkM6" "https://maps.app.goo.gl/wPExCyEJLQ51RjJw8" %}}、舗装されていない道も草が刈られていることが多い{{% ex "https://maps.app.goo.gl/DNr28FbdhqSiQwkQ9" "https://maps.app.goo.gl/VaortNd9suh4qnPB9"  "https://maps.app.goo.gl/WqgccX5XGvA2CYLW8" "https://maps.app.goo.gl/aFo1m4oH7haLFVoe9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" alt="Umuganda1.jpg"  width="95%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=147619914">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" alt="Wikimedia Commons photo showing Umuganda1"  width="95%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=147619914">Link</a></p>
 </div>
 
 
 {{% notice tip %}}キガリの大き目の道路はバイクがよく走っている{{% ex "https://goo.gl/maps/qmZFNBoLJeySYjYW6" "https://goo.gl/maps/E1xfd2c3wo91f2JS9" "" %}}。そして車が<span class="quiz">右</span>側通行である点がウガンダと異なる。車のナンバープレートは細目の<span class="quiz">黄</span>色か白色のナンバープレートが見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ubumotari.jpg#/media/File:Ubumotari.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ubumotari.jpg" alt="Ubumotari.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GATETE_Pacifique" title="User:GATETE Pacifique">GATETE Pacifique</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=88630204">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ubumotari.jpg#/media/File:Ubumotari.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ubumotari.jpg" alt="Wikimedia Commons photo showing Ubumotari" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GATETE_Pacifique" title="User:GATETE Pacifique">GATETE Pacifique</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=88630204">Link</a></p>
 </div>
 
 {{% lb 50 %}}
@@ -60,7 +60,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/odileva/38233749822/in/photolist-21fzXM9-21ip6Qg-21fztVh-eEsXoJ-eEkAjk-GmLtYB-21ioyaH-eEt1Wh-21dwJwJ-21ipar4-21jovPL-arCFU2-arCFZt-hncdih-Zhs5i9-ZdAHeS-98PKcx-21hk6h1-DaDCt5-DaDd4d-6U3MBL-qdkiWe-uUqdLh-21ip6nH-DaDK37-DaDM1L-si6QvE-pgAxqM-21dwFxY-qb55js-qb3qBW-LcyNPM-pgADxB-28S3zfN-8zszXW-27cKiR7-27cKBvf-29Tjziq-qdkD28-qda76X-pgAvBr-21dxf87-6U5r71-GqJjgF-28S6exA-pVMj5y-pVUYy4-ZdA4CE-21dwHz3-wEDwd" title="Karabundo-Kigali-Butare, Seen from the car"><img src="https://live.staticflickr.com/4537/38233749822_c57cc2680a_c.jpg" width="800" height="370" alt="Karabundo-Kigali-Butare, Seen from the car"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/odileva/38233749822/in/photolist-21fzXM9-21ip6Qg-21fztVh-eEsXoJ-eEkAjk-GmLtYB-21ioyaH-eEt1Wh-21dwJwJ-21ipar4-21jovPL-arCFU2-arCFZt-hncdih-Zhs5i9-ZdAHeS-98PKcx-21hk6h1-DaDCt5-DaDd4d-6U3MBL-qdkiWe-uUqdLh-21ip6nH-DaDK37-DaDM1L-si6QvE-pgAxqM-21dwFxY-qb55js-qb3qBW-LcyNPM-pgADxB-28S3zfN-8zszXW-27cKiR7-27cKBvf-29Tjziq-qdkD28-qda76X-pgAvBr-21dxf87-6U5r71-GqJjgF-28S6exA-pVMj5y-pVUYy4-ZdA4CE-21dwHz3-wEDwd" title="Karabundo-Kigali-Butare, Seen from the car"><img src="https://live.staticflickr.com/4537/38233749822_c57cc2680a_c.jpg" width="800" height="370" alt="Image from live.staticflickr.com showing 38233749822 c57cc2680a C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -89,7 +89,7 @@ sc: [
 {{% notice tip %}}町中は土が黒く{{% ex "https://maps.app.goo.gl/YMqbFGtnpsW9YivG8" "https://maps.app.goo.gl/wLNoXmSSqAobE4WN6" "https://maps.app.goo.gl/wtgmsRKztAcoJt1P7" %}}、郊外からは火山を望むことができる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Musanze%27s_Volcano_(46355800961).jpg#/media/File:Musanze's_Volcano_(46355800961).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Musanze%27s_Volcano_%2846355800961%29.jpg" alt="Musanze's Volcano (46355800961).jpg" height="427" width="640"></a></p><p><a rel="nofollow" class="external text" href="https://www.flickr.com/people/84985982@N00">Andrew Moore</a> from Johannesburg, South Africa - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/andryn2006/46355800961/">Musanze's Volcano</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC 表示-継承 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77767022">リンク</a>による</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Musanze%27s_Volcano_(46355800961).jpg#/media/File:Musanze's_Volcano_(46355800961).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Musanze%27s_Volcano_%2846355800961%29.jpg" alt="Wikimedia Commons photo showing Musanze's Volcano (46355800961)" height="427" width="640"></a></p><p><a rel="nofollow" class="external text" href="https://www.flickr.com/people/84985982@N00">Andrew Moore</a> from Johannesburg, South Africa - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/andryn2006/46355800961/">Musanze's Volcano</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC 表示-継承 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77767022">リンク</a>による</p>
 </div>
 
 {{% /tab %}}
@@ -111,7 +111,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./home_st_jean_view.jpg" width="90%" alt="Home st jean view">
+<img src="./home_st_jean_view.jpg" width="90%" alt="Rwanda GeoGuessr guide image showing Home St Jean View">
 </div>
 
 {{% /tab %}}
@@ -121,7 +121,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_(3).jpg#/media/File:National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_(3).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_%283%29.jpg" alt="National Museum of Rwanda - Butare - Flickr - Dave Proffer (3).jpg" height="2592" width="3872"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/23442653@N00">Dave Proffer</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/deepphoto/463798066/">National Museum of Rwanda - Butare</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=18113056">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_(3).jpg#/media/File:National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_(3).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/National_Museum_of_Rwanda_-_Butare_-_Flickr_-_Dave_Proffer_%283%29.jpg" alt="Wikimedia Commons photo showing National Museum Of Rwanda Butare Flickr Dave Proffer (3)" height="2592" width="3872"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/23442653@N00">Dave Proffer</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/deepphoto/463798066/">National Museum of Rwanda - Butare</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=18113056">Link</a></p>
 </div>
 
 {{% /tab %}}

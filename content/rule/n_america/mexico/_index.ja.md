@@ -46,35 +46,35 @@ sc: [
 ～MEXと名の付く会社はメキシコの大手企業に多い{{% ex "https://maps.app.goo.gl/gNra8Maea9uZVtbq6" "https://maps.app.goo.gl/8KFUqaVqer1kcotr5" %}}。石油大手Pemex・通信大手telmex・セメント大手Cemexなど。OXXOはメキシコの大手コンビニで街中に多く見かける。ただしOXXOは{{% goto "../../cs_america/chile/" "チリ" %}}の都市部にも店がある点に注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Nuevo Vallarta Mexico"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Image from live.staticflickr.com showing 12165998974 8ce6006e76 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if">
-<img src="./c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="Oxxo Logo">
-<img src="./c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="Logo de Petróleos Mexicanos (2019)">
-<img src="./c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="Comex">
+<img src="./c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="C GeoGuessr guide image showing Oxxo Logo">
+<img src="./c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="C GeoGuessr guide image showing Logo De Petróleos Mexicanos (2019)">
+<img src="./c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="C GeoGuessr guide image showing Comex">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">8角形</span>の電柱が特徴的{{% ex "https://maps.app.goo.gl/bsde6FgabHDDxeBKA" "https://maps.app.goo.gl/2r1h6b5RaUfWDMTW8" "https://maps.app.goo.gl/KzddnjrWnkGvxGSz8" "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}。ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="90%" alt="Pole">
+<img src="./pole.png" width="90%" alt="Mexico GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
 とまれが「<span class="quiz">ALTO</span>」{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://maps.app.goo.gl/jSirkndzbABnynKC8" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="Alto stop sign">
-<img src="./r/arrow.png" width="90px" style="margin-left:20px" alt="Arrow">
+<img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="R GeoGuessr guide image showing Alto Stop Sign">
+<img src="./r/arrow.png" width="90px" style="margin-left:20px" alt="R GeoGuessr guide image showing Arrow">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある{{% ex "https://maps.app.goo.gl/XPDGtA3y2TRQWiRh8" "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="./bollard.png" width="90%" alt="Bollard"></div></p>
+<p><div class="unclickable"><img src="./bollard.png" width="90%" alt="Mexico GeoGuessr guide image showing Bollard"></div></p>
 <p>By <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
@@ -82,14 +82,14 @@ sc: [
 <span class="quiz">円</span>形の電力計がある{{% ex "https://maps.app.goo.gl/vq4ZQzWQm1JA16nf7" "https://maps.app.goo.gl/3tpvyCGuuz7hytbw9" "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%" alt="House">
+<img src="./house.png" width="90%" alt="Mexico GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
 メキシコのビール醸造所であるGrupo Modeloが製造するコロナビール{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "コロナビール" %}}のロゴが見られる{{% ex "https://maps.app.goo.gl/TdTohN8oujw4QT9r8" "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bottle_beer_beach_drink.jpg" width="90%" alt="Bottle beer beach drink">
+<img src="./bottle_beer_beach_drink.jpg" width="90%" alt="Mexico GeoGuessr guide image showing Bottle Beer Beach Drink">
 </div>
 
 {{% /tab %}}
@@ -162,7 +162,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mexico_Regional_Indicators_for_Phone_Numbers.png#/media/File:Mexico_Regional_Indicators_for_Phone_Numbers.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Mexico_Regional_Indicators_for_Phone_Numbers.png" alt="File:Mexico Regional Indicators for Phone Numbers.png" height="720" width="1107"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:XIC123&amp;action=edit&amp;redlink=1" class="new" title="User:XIC123 (page does not exist)">XIC123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149986159">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mexico_Regional_Indicators_for_Phone_Numbers.png#/media/File:Mexico_Regional_Indicators_for_Phone_Numbers.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Mexico_Regional_Indicators_for_Phone_Numbers.png" alt="Wikimedia Commons photo showing Mexico Regional Indicators For Phone Numbers" height="720" width="1107"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:XIC123&amp;action=edit&amp;redlink=1" class="new" title="User:XIC123 (page does not exist)">XIC123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149986159">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -185,7 +185,7 @@ sc: [
 {{% tabs %}}
 {{% tab "風力発電" %}}
 <div class="googlemap-if no-margin">
-<img src="Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Map of wind energy in Mexico Data from INEGI Marco Geoestadistico Nacional">
+<img src="Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Mexico GeoGuessr guide image showing Map Of Wind Energy In Mexico Data From Inegi Marco Geoestadistico Nacional">
 </div>
 
 
@@ -223,7 +223,7 @@ sc: [
 {{% tab "植生と土の分布" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./distribution.png" width="540px" alt="Distribution" />
+<img src="./distribution.png" width="540px" alt="Mexico GeoGuessr guide image showing Distribution" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em">
 画像出典：<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html">参考文献より</a>, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>
@@ -238,7 +238,7 @@ sc: [
 {{% tab "カリフォルニア湾の一番奥" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/others.jpg" width="540px" alt="Others" />
+<img src="./veg/others.jpg" width="540px" alt="Veg GeoGuessr guide image showing Others" />
 </div>
 
 {{% notice tip %}}
@@ -254,7 +254,7 @@ sc: [
 {{% tab "バハ・カリフォルニア半島" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/wast-p.jpg" width="540px" alt="Wast p" />
+<img src="./veg/wast-p.jpg" width="540px" alt="Veg GeoGuessr guide image showing Wast P" />
 </div>
 
 {{% notice tip %}}
@@ -270,7 +270,7 @@ sc: [
 {{% tab "西側の農業" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/agriculture.jpg" width="540px" alt="Agriculture" />
+<img src="./veg/agriculture.jpg" width="540px" alt="Veg GeoGuessr guide image showing Agriculture" />
 </div>
 
 {{% notice tip %}}
@@ -286,7 +286,7 @@ sc: [
 {{% tab "西部の山岳地帯" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/west-mt.jpg" width="540px" alt="West mt" />
+<img src="./veg/west-mt.jpg" width="540px" alt="Veg GeoGuessr guide image showing West Mt" />
 </div>
 
 {{% notice tip %}}
@@ -302,7 +302,7 @@ sc: [
 {{% tab "中央部分" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/center.jpg" width="540px" alt="Center" />
+<img src="./veg/center.jpg" width="540px" alt="Veg GeoGuessr guide image showing Center" />
 </div>
 
 {{% notice tip %}}
@@ -318,7 +318,7 @@ sc: [
 {{% tab "東側の農業" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/east-agri.jpg" width="540px" alt="East agri" />
+<img src="./veg/east-agri.jpg" width="540px" alt="Veg GeoGuessr guide image showing East Agri" />
 </div>
 
 {{% notice tip %}}
@@ -334,7 +334,7 @@ sc: [
 {{% tab "ベラクルス～タバスコ" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/grassland.jpg" width="540px" alt="Grassland" />
+<img src="./veg/grassland.jpg" width="540px" alt="Veg GeoGuessr guide image showing Grassland" />
 </div>
 
 {{% notice tip %}}
@@ -350,7 +350,7 @@ sc: [
 {{% tab "ユカタン半島北" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/tropical-dry.jpg" width="540px" alt="Tropical dry" />
+<img src="./veg/tropical-dry.jpg" width="540px" alt="Veg GeoGuessr guide image showing Tropical Dry" />
 </div>
 
 {{% notice tip %}}
@@ -366,7 +366,7 @@ sc: [
 {{% tab "ユカタン半島南" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/tropical-humid.jpg" width="540px" alt="Tropical humid" />
+<img src="./veg/tropical-humid.jpg" width="540px" alt="Veg GeoGuessr guide image showing Tropical Humid" />
 </div>
 
 {{% notice tip %}}
@@ -382,7 +382,7 @@ sc: [
 {{% tab "コプラ" %}}
 
 <div class="googlemap-if unclickable">
-<img src="copra.png" width="90%" alt="Copra" />
+<img src="copra.png" width="90%" alt="Mexico GeoGuessr guide image showing Copra" />
 </div>
 
 {{% notice tip %}}
@@ -396,7 +396,7 @@ Guerreroの海沿いにココヤシのプランテーションが存在する{{%
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="./palm-oil.png" width="90%" alt="Palm oil" />
+<img src="./palm-oil.png" width="90%" alt="Mexico GeoGuessr guide image showing Palm Oil" />
 </div>
 
 {{% notice tip %}}
@@ -433,7 +433,7 @@ Public Domain
 {{% /lb %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/irvmark/273366334/in/photolist-qa5hE-pnxCv-qaa9G-qa7tC-dHmjnJ-f54uhn-23jMwsv-q9RYN-aSpcNH-qvnkBH-aSo66v-aSghV4-4SPnzY-aSg3ip-aSo1dk-aSg5GF-M1cdkh-dHgiFa-6sjFss-2fmSGaf-aSg9tM-dHhaCt-aSgiZx-QTbBa4-dHnAC7-MvQjqz-4xDjtV-q5i2K2-pFo7G-qaeR7-rNmYf-qabud-dHmUbo-qaqJY-5NkZbY-q9TV1-ejX2wq-f5zyK6-5hDw98-pFqPK-pyBrKp-pFRvdt-qa9h3-pFBNip-vP7m5D-bLnYoi-bqB1pm-28sym39-oK12ed-8SsZ1j" title="Expo 2006"><img src="https://live.staticflickr.com/106/273366334_8f2030bf93.jpg" width="500" height="375" alt="Expo 2006"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/irvmark/273366334/in/photolist-qa5hE-pnxCv-qaa9G-qa7tC-dHmjnJ-f54uhn-23jMwsv-q9RYN-aSpcNH-qvnkBH-aSo66v-aSghV4-4SPnzY-aSg3ip-aSo1dk-aSg5GF-M1cdkh-dHgiFa-6sjFss-2fmSGaf-aSg9tM-dHhaCt-aSgiZx-QTbBa4-dHnAC7-MvQjqz-4xDjtV-q5i2K2-pFo7G-qaeR7-rNmYf-qabud-dHmUbo-qaqJY-5NkZbY-q9TV1-ejX2wq-f5zyK6-5hDw98-pFqPK-pyBrKp-pFRvdt-qa9h3-pFBNip-vP7m5D-bLnYoi-bqB1pm-28sym39-oK12ed-8SsZ1j" title="Expo 2006"><img src="https://live.staticflickr.com/106/273366334_8f2030bf93.jpg" width="500" height="375" alt="Image from live.staticflickr.com showing 273366334 8f2030bf93"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Nayarit" %}}
@@ -470,7 +470,7 @@ Public Domain
 
 {{% tabs %}}
 {{% tab "メキシコシティ" %}}
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="DSC08423"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="Image from live.staticflickr.com showing 22251804256 5f89568429 B"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{% /tab %}}
 {{% tab "ソノラ" %}}
 <div class="googlemap-if">
@@ -519,7 +519,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="janitzio.jpg" alt="Janitzio">
+<img src="janitzio.jpg" alt="Mexico GeoGuessr guide image showing Janitzio">
 </div>
 {{% /tab %}}
 {{% tab "Holbox" %}}
@@ -529,7 +529,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg#/media/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Golfcar_Holbox_island_Mexico_%2820153467086%29.jpg" alt="Golfcar Holbox island Mexico (20153467086).jpg" height="720" width="540"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/132646954@N02/20153467086/">golfcar Holbox island Mexico</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45111266">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg#/media/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Golfcar_Holbox_island_Mexico_%2820153467086%29.jpg" alt="Wikimedia Commons photo showing Golfcar Holbox Island Mexico (20153467086)" height="720" width="540"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/132646954@N02/20153467086/">golfcar Holbox island Mexico</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45111266">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Cozumel" %}}
@@ -539,7 +539,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%" alt="1259px Ford Transit Cozumel Taxi" />
+<img src="1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%" alt="Mexico GeoGuessr guide image showing 1259px Ford Transit Cozumel Taxi" />
 </div>
 {{% /tab %}}
 {{% tab "Isla Mujeres" %}}
@@ -549,7 +549,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="la_noruega_009.jpg" width="95%" alt="La noruega 009" />
+<img src="la_noruega_009.jpg" width="95%" alt="Mexico GeoGuessr guide image showing La Noruega 009" />
 </div>
 {{% /tab %}}
 {{% tab "Popocatépetl " %}}
@@ -559,7 +559,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="volcano_snow_nature_950313.jpg" width="95%" alt="Volcano snow nature 950313" />
+<img src="volcano_snow_nature_950313.jpg" width="95%" alt="Mexico GeoGuessr guide image showing Volcano Snow Nature 950313" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

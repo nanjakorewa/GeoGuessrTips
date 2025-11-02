@@ -37,7 +37,7 @@ sc: [
 ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}。一方で{{% goto "../thai/" "タイ" %}}は<span class="quiz">左側</span>通行。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" alt="Car" />
+<img src="./car.jpg" width="90%" alt="Laos GeoGuessr guide image showing Car" />
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Fari-Wechsel.jpg" width="90%" alt="960px Fari Wechsel">
+<img src="./960px-Fari-Wechsel.jpg" width="90%" alt="Laos GeoGuessr guide image showing 960px Fari Wechsel">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadsign.jpg" width="85%" alt="Roadsign">
+<img src="./roadsign.jpg" width="85%" alt="Laos GeoGuessr guide image showing Roadsign">
 </div>
 
 {{% /tab %}}
@@ -122,7 +122,7 @@ sc: [
 {{% tabs %}}
 {{% tab "ヴァンヴィエン" %}}
 <div class="googlemap-if">
-<img src="./laos_vang_vieng_river.jpg" alt="Laos vang vieng river">
+<img src="./laos_vang_vieng_river.jpg" alt="Laos GeoGuessr guide image showing Laos Vang Vieng River">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -136,7 +136,7 @@ sc: [
 {{% tabs %}}
 {{% tab "ビエンチャン" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tigertraillaos/16227618552/in/photolist-qHYMCL-eKp32y-FL3W1C-f4kDBT-kt81PR-q2ViyM-bWbDNY-9jgM5v-bVqVeg-zhwqjQ-7YEAyp-9ktK7q-mvN8ma-q2X2fm-dUJfkx-82Nh98-9ea6Em-bWbzYN-a7PTjH-9desNB-psZmsY-p1A4Uy-pezcin-e1rVnD-q1Phe1-o8vh99-nR88ia-8j2N3q-brRuTi-5NJMNr-7naoKt-peBvkW-f4A5ih-j1EfGQ-55XdSn-o6Drfm-dXtLcz-kDGeiU-aqh24U-dWeFsK-c97dmd-anXwRj-68JHMi-dWkkjd-dUJ3zR-oG4xWA-AGwbpx-a9oNbU-qaEtBF-Cepnkp" title="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"><img src="https://live.staticflickr.com/8576/16227618552_bd37d6d2d8.jpg" width="500" height="333" alt="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tigertraillaos/16227618552/in/photolist-qHYMCL-eKp32y-FL3W1C-f4kDBT-kt81PR-q2ViyM-bWbDNY-9jgM5v-bVqVeg-zhwqjQ-7YEAyp-9ktK7q-mvN8ma-q2X2fm-dUJfkx-82Nh98-9ea6Em-bWbzYN-a7PTjH-9desNB-psZmsY-p1A4Uy-pezcin-e1rVnD-q1Phe1-o8vh99-nR88ia-8j2N3q-brRuTi-5NJMNr-7naoKt-peBvkW-f4A5ih-j1EfGQ-55XdSn-o6Drfm-dXtLcz-kDGeiU-aqh24U-dWeFsK-c97dmd-anXwRj-68JHMi-dWkkjd-dUJ3zR-oG4xWA-AGwbpx-a9oNbU-qaEtBF-Cepnkp" title="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"><img src="https://live.staticflickr.com/8576/16227618552_bd37d6d2d8.jpg" width="500" height="333" alt="Image from live.staticflickr.com showing 16227618552 bd37d6d2d8"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "ルアンパバーン" %}}

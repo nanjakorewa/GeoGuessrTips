@@ -25,7 +25,7 @@ As plaquinhas nos postes da Shikoku Electric Power são uma pista frequente. Qua
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px" alt="Pole shikoku">
+<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Shikoku">
 </div>
 
 {{% /tab %}}

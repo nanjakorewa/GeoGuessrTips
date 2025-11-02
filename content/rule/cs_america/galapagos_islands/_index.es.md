@@ -30,7 +30,7 @@ Se pueden observar tortugas gigantes de Galápagos{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/galapagos_islands/galapagos_tortoise_giant_tortoise.jpg" width="90%" alt="Galapagos tortoise giant tortoise">
+<img src="/rule/cs_america/galapagos_islands/galapagos_tortoise_giant_tortoise.jpg" width="90%" alt="Galapagos Islands GeoGuessr guide image showing Galapagos Tortoise Giant Tortoise">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

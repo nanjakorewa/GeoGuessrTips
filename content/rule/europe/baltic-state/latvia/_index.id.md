@@ -53,14 +53,14 @@ sc: [
 Characters with a macron mark (￣) over vowels, like <b>ī</b>.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/baltic-state/latvia/p70_36km.jpg" width="90%" alt="P70 36km">
+<img src="/rule/europe/baltic-state/latvia/p70_36km.jpg" width="90%" alt="Latvia GeoGuessr guide image showing p70 36km">
 </div>
 
 {{% notice tip %}}
 Many utility poles are round and have hook-like shapes on top {{% ex "https://maps.app.goo.gl/wzoAPg8X4r7mw2Nm7" "https://maps.app.goo.gl/C98cL4W8A77vyNk28" %}}. Similar poles can be found in {{% goto "../../bulgaria/" "Bulgaria" %}} and {{% goto "../../croatia/" "Croatia" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/baltic-state/latvia/pole.jpg" width="90%" alt="Pole">
+<img src="/rule/europe/baltic-state/latvia/pole.jpg" width="90%" alt="Latvia GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
@@ -72,8 +72,8 @@ Among the Baltic States, only Latvia has pedestrian crossing lines with <span cl
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/baltic-state/r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" alt="2023 05 14 035914" />
-<img src="https://geopinning.space/rule/europe/baltic-state/r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 535" />
+<img src="https://geopinning.space/rule/europe/baltic-state/r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing 2023 05 14 035914" />
+<img src="https://geopinning.space/rule/europe/baltic-state/r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Latvia Road Sign 535" />
 </div>
 
 {{% notice tip %}}
@@ -81,13 +81,13 @@ When comparing Latvia and Lithuania's speed limit signs, the red line is <span c
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
-<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
-<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Estonia Road Sign 311a" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Latvia Road Sign 302" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Lithuania Background" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/latvia/pagrieziens_uz_zalvi.jpg" width="90%" alt="Pagrieziens uz zalvi">
+<img src="/rule/europe/baltic-state/latvia/pagrieziens_uz_zalvi.jpg" width="90%" alt="Latvia GeoGuessr guide image showing Pagrieziens Uz Zalvi">
 </div>
 
 {{% notice tip %}}
@@ -95,16 +95,16 @@ Bollards sometimes have writing on them. When viewed from above, they take the s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Baltic States bollards" />
+<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Lithuania GeoGuessr guide image showing Bollar Li La Es" />
 </div>
 
 {{% notice tip %}}
 The color and borders of Chevron signs differ across the Baltic States. The image below compares from left to right: <span class="quiz">Estonia</span>, <span class="quiz">Latvia</span>, <span class="quiz">Lithuania</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="https://geopinning.space/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="https://geopinning.space/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="https://geopinning.space/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Ar" />
 </div>
 
 {{% /tab %}}

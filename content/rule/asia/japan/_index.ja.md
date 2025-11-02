@@ -42,7 +42,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/124982286@N08/52965926190/" title="A Street In Izushi Town"><img src="https://live.staticflickr.com/65535/52965926190_ca12a58331_z.jpg" width="640" height="427" alt="A Street In Izushi Town"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/124982286@N08/52965926190/" title="A Street In Izushi Town"><img src="https://live.staticflickr.com/65535/52965926190_ca12a58331_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 52965926190 ca12a58331 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="cryptomeria_japonica.jpg" width="500px" alt="Cryptomeria japonica">
+<img src="cryptomeria_japonica.jpg" width="500px" alt="Japan GeoGuessr guide image showing Cryptomeria Japonica">
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./gifu_prefectural_road_85.jpg" width="90%" alt="Gifu prefectural road 85">
+<img src="./gifu_prefectural_road_85.jpg" width="90%" alt="Japan GeoGuessr guide image showing Gifu Prefectural Road 85">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/yorozuna/24211912034/in/photolist-CTwnVd-nvKsya-2kJnmeU-nzbDNL-daoBVs-6t6LGZ-gR32GT-zGhCVc-GftizY-LctdpP-oRywSY-opstGN-24qJHTY-n9SuyP-XtPB8p-2hbTVSn-ZFune9-qfURKd-2ma5uSE-2kDmouC-qXQU9a-dH1sws-chhP6w-mDvHcc-nENWEg-XpQPgq-q3jREQ-qxqjs6-2iA6r1u-bzJa2c-Ut93tZ-shTHVU-gKvbTv-xCkR43-2kxptKc-fiQHTU-jD3kZ2-E3s9F1-2kkVMbM-FP8R4t-kYbtS8-H4DoY1-nic9SX-7VSuKU-mzbAqt-2jCnmvQ-JvUKAw-hzVt26-pNenTE-2kkVLuS" title="熱波と爽風の交わり"><img src="https://live.staticflickr.com/1619/24211912034_ec20fef3d1_z.jpg" width="640" height="427" alt="熱波と爽風の交わり"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/yorozuna/24211912034/in/photolist-CTwnVd-nvKsya-2kJnmeU-nzbDNL-daoBVs-6t6LGZ-gR32GT-zGhCVc-GftizY-LctdpP-oRywSY-opstGN-24qJHTY-n9SuyP-XtPB8p-2hbTVSn-ZFune9-qfURKd-2ma5uSE-2kDmouC-qXQU9a-dH1sws-chhP6w-mDvHcc-nENWEg-XpQPgq-q3jREQ-qxqjs6-2iA6r1u-bzJa2c-Ut93tZ-shTHVU-gKvbTv-xCkR43-2kxptKc-fiQHTU-jD3kZ2-E3s9F1-2kkVMbM-FP8R4t-kYbtS8-H4DoY1-nic9SX-7VSuKU-mzbAqt-2jCnmvQ-JvUKAw-hzVt26-pNenTE-2kkVLuS" title="熱波と爽風の交わり"><img src="https://live.staticflickr.com/1619/24211912034_ec20fef3d1_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 24211912034 ec20fef3d1 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./rural_unpaved_road_waving.jpg" width="90%" alt="Rural unpaved road waving">
+<img src="./rural_unpaved_road_waving.jpg" width="90%" alt="Japan GeoGuessr guide image showing Rural Unpaved Road Waving">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -90,37 +90,37 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/tohoku/" title="東北" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="東北" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">東北・北海道</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/" title="関東">
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="関東" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">関東</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/" title="中部" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="東海" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/" class="flag-link">中部</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/" title="近畿">
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="近畿" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">近畿</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chugoku/" title="中国" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chugoku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="中国" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chugoku/" class="flag-link">中国地方</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/" title="四国" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="四国" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">四国</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/" title="九州" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="九州" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/" class="flag-link">九州</a></p>
     </li>
 </ul>
@@ -130,13 +130,13 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
     <h2>日本関連グッズ</h2>
         <div class="image-item">
         <a href="https://nanjakorewa.booth.pm/items/7095435" target="_blank">
-            <img src="canvas_47eecc845d.png" alt="画像3">
+            <img src="canvas_47eecc845d.png" alt="Japan GeoGuessr guide image showing Canvas 47eecc845d">
         </a>
         <!-- <div class="caption">商品タイトル1</div>-->
         </div>
         <div class="image-item">
         <a href="https://nanjakorewa.booth.pm/items/7087872" target="_blank">
-            <img src="344f98c1-25b7-4daf-979f-4a2a708cce12.png" alt="画像3">
+            <img src="344f98c1-25b7-4daf-979f-4a2a708cce12.png" alt="Japan GeoGuessr guide image showing 344f98c1 25b7 4daf 979f 4a2a708cce12">
         </a>
         <!-- <div class="caption">商品タイトル1</div>-->
         </div>
@@ -193,7 +193,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-14-21-52-22.png" class="no-click" alt="2023 04 14 21 52 22" />
+<img src="2023-04-14-21-52-22.png" class="no-click" alt="Japan GeoGuessr guide image showing 2023 04 14 21 52 22" />
 <p><a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachuによる著作物, CC0</a></p>
 </div>
 
@@ -229,7 +229,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Japan_rice.jpg" width="500px" alt="Japan rice">
+<img src="Japan_rice.jpg" width="500px" alt="Japan GeoGuessr guide image showing Japan Rice">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

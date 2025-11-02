@@ -36,7 +36,7 @@ Grytviken once hosted whaling facilities{{% ref "https://ja.wikipedia.org/wiki/%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/sgssi/industrial_heritage_south_georgia.jpg" width="90%" alt="Industrial heritage south georgia">
+<img src="/rule/cs_america/sgssi/industrial_heritage_south_georgia.jpg" width="90%" alt="Sgssi GeoGuessr guide image showing Industrial Heritage South Georgia">
 </div>
 
 
@@ -45,7 +45,7 @@ You may encounter seals or penguins{{% ex "https://maps.app.goo.gl/ett9cJmVe2LzN
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/sgssi/seeelefant_south_georgia_antarctica.jpg" width="90%" alt="Seeelefant south georgia antarctica">
+<img src="/rule/cs_america/sgssi/seeelefant_south_georgia_antarctica.jpg" width="90%" alt="Sgssi GeoGuessr guide image showing Seeelefant South Georgia Antarctica">
 </div>
 
 {{% /tab %}}

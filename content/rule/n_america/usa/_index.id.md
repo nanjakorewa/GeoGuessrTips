@@ -47,11 +47,11 @@ maps: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="MUTCD R2 1">
-<img src="/rule/n_america/usa/r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="Sp oregon">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="CA ON road sign Rb 001 050">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="CA QC road sign P 070 4 40">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="80px" style="margin:7px" alt="Sp on">
+<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="R GeoGuessr guide image showing Mutcd R2 1">
+<img src="/rule/n_america/usa/r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="R GeoGuessr guide image showing Sp Oregon">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="R GeoGuessr guide image showing Ca On Road Sign Rb 001 050">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="80px" style="margin:7px" alt="R GeoGuessr guide image showing Sp On">
 </div>
 </div>
 
@@ -59,38 +59,38 @@ maps: [
 Amerika dan{{% goto "../canada/" "Kanada" %}}Dua garis kuning sering digunakan sebagai garis tengah{{% ex "https://maps.app.goo.gl/ffZcABdYVzyQsLaw7" "https://maps.app.goo.gl/7v6hSn7LZM85ykpJ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/roadline.jpg" width="95%" alt="Roadline">
+<img src="/rule/n_america/usa/roadline.jpg" width="95%" alt="Usa GeoGuessr guide image showing Roadline">
 </div>
 
 {{% notice tip %}}Di Amerika, kata YEILD dan ONEWAY tertulis di papan tanda.<span class="quiz">menjadi</span>{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}.Yang kiri adalah <span class="quiz">Amerika</span>・Yang benar <span class="quiz">Kanada</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="MUTCD R1 2">
-<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="CA MUTCDC RA 002">
+<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Mutcd R1 2">
+<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Ca Mutcdc Ra 002">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
-<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
+<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Oneway">
+<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Oneway">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">biru</span> pos.Kanada, sebaliknya, berwarna merah.Kalau kantor pos, nama negara bagian dan kota sering tertulis di dinding atau papan nama gedung, jadi periksalah.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px" alt="2023 06 18 09 00 28">
-<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px" alt="2023 06 18 09 02 09">
-<img src="/rule/n_america/usa/pleasant_hall_pa_post.jpg" width="604px" alt="Pleasant hall pa post">
+<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px" alt="Usa GeoGuessr guide image showing 2023 06 18 09 00 28">
+<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px" alt="Usa GeoGuessr guide image showing 2023 06 18 09 02 09">
+<img src="/rule/n_america/usa/pleasant_hall_pa_post.jpg" width="604px" alt="Usa GeoGuessr guide image showing Pleasant Hall Pa Post">
 </div>
 
 {{% notice tip %}}
 Ada banyak perusahaan besar yang berbasis di Amerika Serikat.Perusahaan seperti Pengumpulan Sampah, Otoritas Listrik dan Air juga terdaftar dan memiliki papan nama dan logo di seluruh kota.Urutannya adalah Waste Management and Republic Services (perusahaan pengumpul sampah yang berlogo di tempat sampah), Chevron dan Citgo (SPBU), dan Target (retail).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="Waste Management logo" />
-<img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="Republic Services logo" />
-<img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="130px" style="margin:10px" alt="Chevron Logo" />
-<img src="/rule/n_america/usa/w/Citgo_logo.svg" width="130px" style="margin:10px" alt="Citgo logo" />
-<img src="/rule/n_america/usa/w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px" alt="Target Corporation logo (vector)" />
+<img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Waste Management Logo" />
+<img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Republic Services Logo" />
+<img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="130px" style="margin:10px" alt="W GeoGuessr guide image showing Chevron Logo" />
+<img src="/rule/n_america/usa/w/Citgo_logo.svg" width="130px" style="margin:10px" alt="W GeoGuessr guide image showing Citgo Logo" />
+<img src="/rule/n_america/usa/w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px" alt="W GeoGuessr guide image showing Target Corporation Logo (vector)" />
 </div>
 
 
@@ -98,8 +98,8 @@ Ada banyak perusahaan besar yang berbasis di Amerika Serikat.Perusahaan seperti 
 Jika Anda melihat peta, Anda dapat melihat bahwa rambu-rambu di jalan raya antarnegara bagian, dll., dengan angka dua digit atau kurang, berjajar dalam urutan tertentu dari timur-barat, utara-selatan.Angka-angkanya adalah <span class="quiz">5</span> Jalan yang merupakan kelipatan sering kali lebih panjang dibandingkan jalan lainnya.Untuk jalan dengan nomor tiga digit (Three-digit Interstate), nomor jalan tersebut adalah nomor jalan aslinya.<span class="quiz">100</span> Ini adalah jumlah kelipatan dan sangat singkat tergantung pada lokasinya.{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}Jadi, Anda bisa mencoba mencari dua digit terakhir nomor jalan tersebut terlebih dahulu.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/I-80.svg" width="120px" style="margin:10px" alt="I 80">
-<img src="/rule/n_america/usa/route-example.svg" width="157px" style="margin:10px" alt="Route example">
+<img src="/rule/n_america/usa/I-80.svg" width="120px" style="margin:10px" alt="Usa GeoGuessr guide image showing I 80">
+<img src="/rule/n_america/usa/route-example.svg" width="157px" style="margin:10px" alt="Usa GeoGuessr guide image showing Route Example">
 </div>
 
 
@@ -107,7 +107,7 @@ Jika Anda melihat peta, Anda dapat melihat bahwa rambu-rambu di jalan raya antar
 Amerika memiliki batas kecepatan <span class="quiz">MPH</span> Notasi{{% ex "https://goo.gl/maps/vcwKHErYu6Xx1EZQ8" "https://goo.gl/maps/vpashJNQHUoztL7c8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "mil per jam" %}}Dan rambu-rambu pinggir jalan juga menunjukkan jarak tempuh.{{% ex "https://maps.app.goo.gl/bY45nspXAKmSuPSKA" %}}.Dan bagian belakang tandanya sering kali datar.{{% ex "https://goo.gl/maps/JywpMP1MHHBXz9ep7" "https://goo.gl/maps/yNeLFP4fnqJPTkbZ7" "https://goo.gl/maps/S29z9ZMXBLuDqFxP8" %}}.Amerika di sebelah kiri, Amerika di sebelah kanan{{% goto "../mexico/" "Meksiko" %}}{{% ex "https://goo.gl/maps/SYKoBHzdzWe6oJeH9" "https://goo.gl/maps/EoGT7scWMXCzRTZp8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/road-sign-warning.jpg" width="80%" alt="Road sign warning">
+<img src="/rule/n_america/usa/road-sign-warning.jpg" width="80%" alt="Usa GeoGuessr guide image showing Road Sign Warning">
 </div>
 
 
@@ -115,7 +115,7 @@ Amerika memiliki batas kecepatan <span class="quiz">MPH</span> Notasi{{% ex "htt
 Di Amerika Serikat dan Kanada, bendera nasional sering dikibarkan, sehingga jika Anda berpindah-pindah, Anda sering dapat menemukan bendera tersebut.{{% ex "https://goo.gl/maps/SxDicYpNYXxbHiay5" "https://goo.gl/maps/uT6GaU5cCpxcc24M7" "https://goo.gl/maps/e113PgcFh2Qx6sBT8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/sunset_utah_city_offices.jpg" width="80%" alt="Sunset utah city offices">
+<img src="/rule/n_america/usa/sunset_utah_city_offices.jpg" width="80%" alt="Usa GeoGuessr guide image showing Sunset Utah City Offices">
 </div>
 
 {{% /tab %}}
@@ -126,7 +126,7 @@ Di Amerika Serikat dan Kanada, bendera nasional sering dikibarkan, sehingga jika
     <h2>Barang terkait Amerika</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7095003" target="_blank">
-            <img src="/rule/n_america/usa/37148dec-02ac-4096-826f-11318d77b9dc.png" alt="画像3">
+            <img src="/rule/n_america/usa/37148dec-02ac-4096-826f-11318d77b9dc.png" alt="Usa GeoGuessr guide image showing 37148dec 02ac 4096 826f 11318d77b9dc">
         </a>
         <!-- <div class="caption">Judul produk 1</div>ーー＞
     </div>
@@ -202,7 +202,7 @@ Di Amerika Serikat dan Kanada, bendera nasional sering dikibarkan, sehingga jika
 Pertama, area di mana Anda tidak memerlukan plat nomor di depannya (<span style="color:#B1AF0D;font-weight:bold;">daerah kuning</span>) lalu hafalkan warna plat nomornya.Warna sering kali tampak sedikit berbeda tergantung pada pencahayaan dan sudutnya, jadi Anda perlu berlatih berkali-kali agar terbiasa.Tentu saja, karena mobil sedang melaju, keadaan tidak bisa 100% ditentukan oleh nomor platnya.
 {{% /notice %}}
 <div class="googlemap-if">
-<a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="Wikimedia Commons photo showing 1200px USplatemounting.svg"></a>
 <p>Oleh Raccoonny - Karya sendiri, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a></p>
 </div>
 
@@ -215,7 +215,7 @@ Pertama, area di mana Anda tidak memerlukan plat nomor di depannya (<span style=
 
 <div class="googlemap-if">
 <div class="description-wide">
-<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main" alt="2023 03 25 14 29 11">
+<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main" alt="Usa GeoGuessr guide image showing 2023 03 25 14 29 11">
 </div>
 <div class="description-wide">
 Aturan berikut mungkin tidak berlaku 100% untuk semua kasus.
@@ -266,7 +266,7 @@ Nama tempatnya khas, dan warna tanahnya sering kehitaman atau mendekati merah.
 {{% tab "kerucut" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-03-38.png" alt="2023 04 29 12 03 38">
+<img src="/rule/n_america/usa/2023-04-29-12-03-38.png" alt="Usa GeoGuessr guide image showing 2023 04 29 12 03 38">
 </div>
 
 {{% notice note %}}
@@ -274,17 +274,17 @@ Produksi jagung tumbuh subur di sepanjang jalur jagung{{% by "https://www.nass.u
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/2023-06-19-20-02-41.png" width="80%" alt="2023 06 19 20 02 41">
+<img src="/rule/n_america/usa/2023-06-19-20-02-41.png" width="80%" alt="Usa GeoGuessr guide image showing 2023 06 19 20 02 41">
 </div>
 
 {{% /tab %}}
 {{% tab "kedelai" %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-10-49-15.png" alt="2023 04 29 10 49 15">
+<img src="/rule/n_america/usa/2023-04-29-10-49-15.png" alt="Usa GeoGuessr guide image showing 2023 04 29 10 49 15">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/2023-06-19-08-54-17.png" width="90%" alt="2023 06 19 08 54 17">
+<img src="/rule/n_america/usa/2023-06-19-08-54-17.png" width="90%" alt="Usa GeoGuessr guide image showing 2023 06 19 08 54 17">
 </div>
 
 {{% notice note %}}
@@ -295,7 +295,7 @@ Distribusi kedelai hampir sama dengan distribusi jagung.{{% by "https://ipad.fas
 {{% tab "beras" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-10-56-56.png" alt="2023 04 29 10 56 56">
+<img src="/rule/n_america/usa/2023-04-29-10-56-56.png" alt="Usa GeoGuessr guide image showing 2023 04 29 10 56 56">
 </div>
 
 {{% notice note %}}
@@ -311,7 +311,7 @@ Sawah banyak ditemukan di wilayah tertentu di California dan di sepanjang sungai
 {{% tab "kapas" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-11-29-30.png" alt="2023 04 29 11 29 30">
+<img src="/rule/n_america/usa/2023-04-29-11-29-30.png" alt="Usa GeoGuessr guide image showing 2023 04 29 11 29 30">
 </div>
 
 {{% notice note %}}
@@ -327,7 +327,7 @@ Saya tidak melihat kapas apa pun, tetapi mungkin ada kapas putih di pinggir jala
 {{% tab "tebu" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-00-47.png" alt="2023 04 29 12 00 47">
+<img src="/rule/n_america/usa/2023-04-29-12-00-47.png" alt="Usa GeoGuessr guide image showing 2023 04 29 12 00 47">
 </div>
 
 {{% notice note %}}
@@ -341,7 +341,7 @@ Apakah hampir tidak ada jalan raya di Louisiana, hanya di wilayah tertentu di se
 {{% /tab %}}
 {{% tab "gandum" %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-07-38.png" alt="2023 04 29 12 07 38">
+<img src="/rule/n_america/usa/2023-04-29-12-07-38.png" alt="Usa GeoGuessr guide image showing 2023 04 29 12 07 38">
 </div>
 
 {{% notice note %}}
@@ -380,15 +380,15 @@ Arealnya tidak bertumpang tindih dengan jagung atau kedelai.Skala dan warnanya d
 STOP pada dasarnya diatur ketika keluar dari jalan sempit ke jalan tebal.Oleh karena itu, mencoba memasuki jalan yang bagian belakangnya terlihat tanda STOP = mencoba memasuki jalan yang lebih sempit.Anda dapat melihat tanda STOP di depan = Anda akan memasuki jalan yang lebih lebar.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/stop_sign_united_states.jpg" alt="Stop sign united states">
+<img src="/rule/n_america/usa/stop_sign_united_states.jpg" alt="Usa GeoGuessr guide image showing Stop Sign United States">
 </div>
 
 {{% notice tip %}}
 Anda juga tidak boleh memasuki jalan yang tidak ada tanda OUTLET atau DEAD END.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/usa/no_outlet_sign_1.jpg" width="300px" alt="No outlet sign 1">
-<img src="/rule/n_america/usa/quot_dead_end_quot.jpg" width="335px" alt="Quot dead end quot">
+<img src="/rule/n_america/usa/no_outlet_sign_1.jpg" width="300px" alt="Usa GeoGuessr guide image showing No Outlet Sign 1">
+<img src="/rule/n_america/usa/quot_dead_end_quot.jpg" width="335px" alt="Usa GeoGuessr guide image showing Quot Dead End Quot">
 </div>
 
 {{% /tab %}}
@@ -397,7 +397,7 @@ Anda juga tidak boleh memasuki jalan yang tidak ada tanda OUTLET atau DEAD END.
 Saya membuatnya sendiri jadi mungkin tidak benar.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/gas_station.png" width="90%" alt="Gas station">
+<img src="/rule/n_america/usa/gas_station.png" width="90%" alt="Usa GeoGuessr guide image showing Gas Station">
 </div>
 {{% /tab %}}
 {{% tab "segel mobil" %}}

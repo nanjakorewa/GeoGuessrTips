@@ -26,11 +26,11 @@ plonkit: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/tunisia/2023-05-28-23-08-36.png" width="90%" alt="2023 05 28 23 08 36">
+<img src="/rule/africa/tunisia/2023-05-28-23-08-36.png" width="90%" alt="Tunisia GeoGuessr guide image showing 2023 05 28 23 08 36">
 </div>
 <div class="googlemap-if">
-<img src="/rule/africa/tunisia/house.png" width="60%" alt="House">
-<img src="/rule/africa/tunisia/car.png" width="35%" alt="Car">
+<img src="/rule/africa/tunisia/house.png" width="60%" alt="Tunisia GeoGuessr guide image showing House">
+<img src="/rule/africa/tunisia/car.png" width="35%" alt="Tunisia GeoGuessr guide image showing Car">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

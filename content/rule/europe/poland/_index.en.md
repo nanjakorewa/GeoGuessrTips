@@ -45,14 +45,14 @@ Warning signs are orange and the red border is <span class="quiz">very thin</spa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="PL road sign A 7">
-<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="PL road sign A 16">
-<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="PL road sign A 8">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Pl Road Sign A 7">
+<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Pl Road Sign A 16">
+<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Pl Road Sign A 8">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Greek Road sign k01">
-<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Greek Road sign k30">
+<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Greek Road Sign k01">
+<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Greek Road Sign k30">
 </div>
 
 
@@ -65,12 +65,12 @@ Poland’s <span class="quiz">red</span> bollards stand out{{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland bollards">
+<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland GeoGuessr guide image showing Poland Bollards">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="B1">
-<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="B2">
+<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="Poland GeoGuessr guide image showing b1">
+<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="Poland GeoGuessr guide image showing b2">
 </div>
 
 
@@ -79,8 +79,8 @@ Look for the letter <span class="quiz polish-font">ŁE/ ŁE/span>{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="Znak E 2c">
-<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="PL road sign T 28">
+<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="R GeoGuessr guide image showing Znak E 2c">
+<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="R GeoGuessr guide image showing Pl Road Sign T 28">
 </div>
 
 <div class="googlemap-if">
@@ -96,7 +96,7 @@ The pedestrian crossing sign has only <span class="quiz">one horizontal stripe</
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2o67LJJ-oxKKUb-2jMaaTK-2o4GXSi-2o5hGcZ-2nT9MBa-2nTD5KS" title="Caution children"><img src="https://live.staticflickr.com/3101/3133255251_c0ea195ed2_z.jpg" width="640" height="480" alt="Caution children"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2o67LJJ-oxKKUb-2jMaaTK-2o4GXSi-2o5hGcZ-2nT9MBa-2nTD5KS" title="Caution children"><img src="https://live.staticflickr.com/3101/3133255251_c0ea195ed2_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 3133255251 c0ea195ed2 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -107,14 +107,14 @@ Mailboxes are bright <span class="quiz">red</span>{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/mail_box_poland.jpg" width="400" alt="Mail box poland">
+<img src="/rule/europe/poland/mail_box_poland.jpg" width="400" alt="Poland GeoGuessr guide image showing Mail Box Poland">
 </div>
 
 {{% notice tip %}}
 Nearly 40% of the country is state-owned forest; tall woodland is widespread{{% ex "https://maps.app.goo.gl/fMS55FsB89ozwnzu7" "https://maps.app.goo.gl/xQawH2BeZqx8C2uG7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/poland/way_le_c5_9bna.jpg" width="700" alt="Way le c5 9bna">
+<img src="/rule/europe/poland/way_le_c5_9bna.jpg" width="700" alt="Poland GeoGuessr guide image showing Way Le c5 9bna">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -151,7 +151,7 @@ Suffixes  Ewo Eor  Eno Elean north;  Eów Eor  Eew Eare more cen
 22x belongs to Warsaw. I memorise a simple rule: ignoring the 8 in mobile codes, larger numbers trend to the north-west. The landscape is often flat, so if road numbers, place names, or area codes are unclear I usually guess the centre. Do not rely solely on the first digit because mobile codes exist{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p style="font-size:1.2em">By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Wikimedia Commons photo showing 1200px Poland Telephone Area codes.svg"></a></p><p style="font-size:1.2em">By Naive cynic - own work, derivative of <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'s <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">image</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -173,8 +173,8 @@ Suffixes  Ewo Eor  Eno Elean north;  Eów Eor  Eew Eare more cen
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Ilawa ab 1167">
-<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Miastko 039">
+<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Poland GeoGuessr guide image showing Ilawa Ab 1167">
+<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Poland GeoGuessr guide image showing Miastko 039">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -39,7 +39,7 @@ sc: [
 El trabajo comunitario <span class="quiz">Umuganda</span> mantiene a raya la basura y la vegetación en los arcenes{{% ref "https://en.wikipedia.org/wiki/Umuganda" "Umuganda" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" width="95%" alt="Umuganda"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Umuganda1.jpg#/media/File:Umuganda1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Umuganda1.jpg" width="95%" alt="Wikimedia Commons photo showing Umuganda1"></a></p>
 </div>
 
 {{% notice tip %}}
@@ -57,8 +57,8 @@ En Kigali son comunes las motos, y se conduce por la <span class="quiz">derecha<
 Los quioscos de dinero móvil de <span class="quiz">MTN</span> y Airtel aparecen con frecuencia.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/rwanda/New-mtn-logo.jpg" width="45%" style="margin-right:10px" alt="New mtn logo">
-<img src="/rule/africa/rwanda/Logo_Canal+_1995.svg" width="30%" style="margin-left:10px" alt="Logo Canal+ 1995">
+<img src="/rule/africa/rwanda/New-mtn-logo.jpg" width="45%" style="margin-right:10px" alt="Rwanda GeoGuessr guide image showing New Mtn Logo">
+<img src="/rule/africa/rwanda/Logo_Canal+_1995.svg" width="30%" style="margin-left:10px" alt="Rwanda GeoGuessr guide image showing Logo Canal+ 1995">
 </div>
 
 {{% /tab %}}

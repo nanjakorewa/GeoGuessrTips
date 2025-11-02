@@ -35,15 +35,15 @@ sc: [
 周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/rtbkvmdEHU1m4nvY7" %}}とボラード{{% ex "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}}がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./m2_neum_dscn1154.jpg" width="95%" alt="M2 neum dscn1154">
+<img src="./m2_neum_dscn1154.jpg" width="95%" alt="Bosnah GeoGuessr guide image showing m2 Neum dscn1154">
 </div>
 
 {{% notice tip %}}
 ２言語の看板が見つかる。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./dupovci_bosna_hersek.jpg" width="300px" alt="Dupovci bosna hersek">
-<img src="./opstinacelinac.jpg" width="300px" alt="Opstinacelinac">
+<img src="./dupovci_bosna_hersek.jpg" width="300px" alt="Bosnah GeoGuessr guide image showing Dupovci Bosna Hersek">
+<img src="./opstinacelinac.jpg" width="300px" alt="Bosnah GeoGuessr guide image showing Opstinacelinac">
 </div>
 
 {{% /tab %}}

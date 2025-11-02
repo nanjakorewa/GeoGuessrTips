@@ -37,7 +37,7 @@ sc: [
 Bollard memiliki berbagai jenis dan tidak konsisten. Bollard dengan dua reflektor yang menempel atau berbentuk tidak biasa{{% ex "https://maps.app.goo.gl/4HUoPNSFyvTw9MYN6" "https://maps.app.goo.gl/wVYdUu4AKc4AEfEc8" "https://goo.gl/maps/PsSdjnqAVBVKiffVA" "https://goo.gl/maps/2qLweYvAgDvTPg7E8" %}} mungkin berasal dari Ekuador.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:LIMITE_-_panoramio.jpg#/media/File:LIMITE_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/LIMITE_-_panoramio.jpg" alt="LIMITE - panoramio.jpg" width="95%"></a></p><p>By DIOHER_PAVAL, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60614574">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:LIMITE_-_panoramio.jpg#/media/File:LIMITE_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/LIMITE_-_panoramio.jpg" alt="Wikimedia Commons photo showing Limite Panoramio" width="95%"></a></p><p>By DIOHER_PAVAL, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60614574">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -49,7 +49,7 @@ Di {{% goto "../colombia/" "Kolombia" %}}, tiang berwarna putih dengan tanda sil
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/ecuador/road.jpg" width="90%" alt="Road" />
+<img src="/rule/cs_america/ecuador/road.jpg" width="90%" alt="Ecuador GeoGuessr guide image showing Road" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, dengan modifikasi gambar
@@ -59,7 +59,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 Guardrail di Ekuador sering kali <b>berlapis ganda</b>{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/ecuador/540px-Banos-Puyo.jpg" alt="540px Banos Puyo">
+<img src="/rule/cs_america/ecuador/540px-Banos-Puyo.jpg" alt="Ecuador GeoGuessr guide image showing 540px Banos Puyo">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Tiang listrik dengan lubang atau pola sekat kecil hampir tidak ditemukan di nega
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/pole.jpg" width="95%" alt="Pole" />
+<img src="/rule/cs_america/ecuador/pole.jpg" width="95%" alt="Ecuador GeoGuessr guide image showing Pole" />
 </div>
 
 {{% notice tip %}}
@@ -75,7 +75,7 @@ Kendaraan komersial seperti taksi atau truk memiliki plat nomor berwarna <span c
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/ecuador/palanda_ecuador_truck.jpg" width="90%" alt="Palanda ecuador truck">
+<img src="/rule/cs_america/ecuador/palanda_ecuador_truck.jpg" width="90%" alt="Ecuador GeoGuessr guide image showing Palanda Ecuador Truck">
 </div>
 
 {{% lb 50 %}}
@@ -89,7 +89,7 @@ Dinding bangunan sering kali terlihat terbuat dari balok beton abu-abu{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Icamino_ambato1.JPG#/media/File:Icamino_ambato1.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Icamino_ambato1.JPG" alt="Icamino ambato1.JPG" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Juanjo_guaman&amp;action=edit&amp;redlink=1" class="new" title="User:Juanjo guaman (page does not exist)">Juanjo guaman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19496831">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Icamino_ambato1.JPG#/media/File:Icamino_ambato1.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Icamino_ambato1.JPG" alt="Wikimedia Commons photo showing Icamino ambato1" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Juanjo_guaman&amp;action=edit&amp;redlink=1" class="new" title="User:Juanjo guaman (page does not exist)">Juanjo guaman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19496831">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -161,7 +161,7 @@ Terdapat berbagai jenis tiang listrik.
 Perkebunan kelapa sawit ditemukan di area dengan lingkaran merah, terutama di dekat perbatasan Kolombia dan sepanjang jalan E20{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}.{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - Laporan Divisi Penilaian Produksi Internasional" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/ecuador/2023-05-23-04-26-04.png" width="90%" alt="2023 05 23 04 26 04">
+<img src="/rule/cs_america/ecuador/2023-05-23-04-26-04.png" width="90%" alt="Ecuador GeoGuessr guide image showing 2023 05 23 04 26 04">
 </div>
 
 {{% /tab %}}
@@ -171,7 +171,7 @@ Sawah banyak ditemukan di daerah sekitar sungai seperti Sungai Babahoyo yang men
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/Ecuador_Rice.png" width="90%" alt="Ecuador Rice">
+<img src="/rule/cs_america/ecuador/Ecuador_Rice.png" width="90%" alt="Ecuador GeoGuessr guide image showing Ecuador Rice">
 </div>
 {{% /tab %}}
 {{% tab "Pisang" %}}
@@ -179,7 +179,7 @@ Sawah banyak ditemukan di daerah sekitar sungai seperti Sungai Babahoyo yang men
 Perkebunan pisang banyak ditemukan di daerah dataran rendah{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "Wilayah Perkebunan Pisang Ekuador" %}}. Proporsi produksi terbesar ada di Los Ríos (37,14%), Guayas (32,25%), dan El Oro (24,12%).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/ecuador/640px-Culture_de_bananes.jpg" width="90%" alt="640px Culture de bananes">
+<img src="/rule/cs_america/ecuador/640px-Culture_de_bananes.jpg" width="90%" alt="Ecuador GeoGuessr guide image showing 640px Culture De Bananes">
 </div>
 
 {{% /tab %}}
@@ -189,7 +189,7 @@ Foto berikut menunjukkan plat nomor dengan huruf awal 'P', sehingga dapat diperk
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/rue_de_riobamba.jpg" width="500" alt="Rue de riobamba">
+<img src="/rule/cs_america/ecuador/rue_de_riobamba.jpg" width="500" alt="Ecuador GeoGuessr guide image showing Rue De Riobamba">
 </div>
 {{% /tab %}}
 
@@ -209,7 +209,7 @@ Vegetasi di daerah ini terlihat seperti ini{{% ex "https://maps.app.goo.gl/uwHFo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/pichincha1a.jpg" width="95%" alt="Pichincha1a">
+<img src="/rule/cs_america/ecuador/pichincha1a.jpg" width="95%" alt="Ecuador GeoGuessr guide image showing pichincha1a">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

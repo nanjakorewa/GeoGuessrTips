@@ -54,14 +54,14 @@ sc: [
 Watch for vowels with macrons such as <b>ī</b>; they are a strong hint toward Latvian.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/baltic-state/latvia/p70_36km.jpg" width="90%" alt="P70 36km">
+<img src="/rule/europe/baltic-state/latvia/p70_36km.jpg" width="90%" alt="Latvia GeoGuessr guide image showing p70 36km">
 </div>
 
 {{% notice tip %}}
 Many utility poles are round, and some have hook-like brackets near the top. {{% ex "https://maps.app.goo.gl/wzoAPg8X4r7mw2Nm7" "https://maps.app.goo.gl/C98cL4W8A77vyNk28" %}} Similar poles appear in {{% goto "../../bulgaria/" "Bulgaria" %}} and {{% goto "../../croatia/" "Croatia" %}}, so corroborate with other clues.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/baltic-state/latvia/pole.jpg" width="90%" alt="Pole">
+<img src="/rule/europe/baltic-state/latvia/pole.jpg" width="90%" alt="Latvia GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
@@ -73,8 +73,8 @@ Within the Baltic trio, only Latvia uses <span class="quiz">five</span> zebra st
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" alt="2023 05 14 035914" />
-<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 535" />
+<img src="./r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing 2023 05 14%20035914" />
+<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Latvia Road Sign 535" />
 </div>
 
 {{% notice tip %}}
@@ -82,13 +82,13 @@ Compared with Lithuania, Latvia’s speed-limit plates have a <span class="quiz"
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
-<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
-<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Estonia Road Sign 311a" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Latvia Road Sign 302" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Lithuania Background" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/latvia/pagrieziens_uz_zalvi.jpg" width="90%" alt="Pagrieziens uz zalvi">
+<img src="/rule/europe/baltic-state/latvia/pagrieziens_uz_zalvi.jpg" width="90%" alt="Latvia GeoGuessr guide image showing Pagrieziens Uz Zalvi">
 </div>
 
 {{% notice tip %}}
@@ -96,16 +96,16 @@ Latvian bollards sometimes include text. From above they resemble a curved brack
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Bollards in the Baltic states" />
+<img src="/rule/europe/baltic-state/lithuania/bollar-li-la-es.png" width="590px" alt="Lithuania GeoGuessr guide image showing Bollar Li La Es" />
 </div>
 
 {{% notice tip %}}
 Chevron backgrounds differ across the Baltic states. The sequence below is <span class="quiz">Estonia</span>, <span class="quiz">Latvia</span>, and <span class="quiz">Lithuania</span>. {{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
+<img src="/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
+<img src="/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
 </div>
 
 {{% /tab %}}

@@ -44,7 +44,7 @@ sc: [
 Plates have a blue strip on the left and a <span class="quiz">yellow</span> background{{% ex "https://maps.app.goo.gl/nBDff6pgDzdbDCVT7" "https://maps.app.goo.gl/gq6cPnGT9ZrJGz9V9" "https://maps.app.goo.gl/ryULLiHyqt3THh7Y6" %}}. If both front and rear are this colour, you are likely in the Netherlands or {{% goto "../luxembourg/" "Luxembourg" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/dutchemergencyphotos/32732231697/in/photolist-RSrf7n-qVcRkT-FdrLTs-21RtiJY-tSRwrc-kemB9G-Cv5Dyo-85G6Xy-N5MhcA-cs7wE9-2bC8Nt1-K3i2rX-sy3jtz-r3Fg6J-2dYvZos-27G1Lxr-ksxUUH-2a4VT68-myxfbK-2ekrdk3-27DuUBz-2e59tpA-ryy3jJ-22XiD7e-28UowUK-Rr9Z86-qHNvi4-pR9YQJ-qLzpsP-27mytXY-ZiKkNi-2b4AFhj-sS7vkV-LyWdes-26JJy1D-27rTY8Y-8zx2Vt-26AkxD9-MDCGew-NJ7uiT-27JPh1k-xzp6nQ-SKa5mV-do5aAm-Pn6T7x-VDjmt7-26eVQ4w-2a57PaS-KB17Zf-29y1p1d" title="Dutch police Volkswagen Touran"><img src="https://live.staticflickr.com/65535/32732231697_229e7e3b16_z.jpg" width="640" height="393" alt="Dutch police Volkswagen Touran"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dutchemergencyphotos/32732231697/in/photolist-RSrf7n-qVcRkT-FdrLTs-21RtiJY-tSRwrc-kemB9G-Cv5Dyo-85G6Xy-N5MhcA-cs7wE9-2bC8Nt1-K3i2rX-sy3jtz-r3Fg6J-2dYvZos-27G1Lxr-ksxUUH-2a4VT68-myxfbK-2ekrdk3-27DuUBz-2e59tpA-ryy3jJ-22XiD7e-28UowUK-Rr9Z86-qHNvi4-pR9YQJ-qLzpsP-27mytXY-ZiKkNi-2b4AFhj-sS7vkV-LyWdes-26JJy1D-27rTY8Y-8zx2Vt-26AkxD9-MDCGew-NJ7uiT-27JPh1k-xzp6nQ-SKa5mV-do5aAm-Pn6T7x-VDjmt7-26eVQ4w-2a57PaS-KB17Zf-29y1p1d" title="Dutch police Volkswagen Touran"><img src="https://live.staticflickr.com/65535/32732231697_229e7e3b16_z.jpg" width="640" height="393" alt="Image from live.staticflickr.com showing 32732231697 229e7e3b16 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -58,7 +58,7 @@ Gert Kalkman - public road, Public Domain, <a href="https://commons.wikimedia.or
 Brick façades dominate{{% ex "https://maps.app.goo.gl/upSSbDuAiszRfgEN8" %}}, and some buildings retain hoisting beams near the roof. These were once warehouses that used the beam to hoist cargo{{% ex "https://maps.app.goo.gl/FZmHPz41uv2tSn1FA" %}}. Even today the hardware is used to lift furniture{{% by "https://anokuni.com/life-guide/nld-house/" "web" "Studying Abroad Abroad > Houses of the World (Netherlands)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/netherlands/middelburg_netherlands_zealand_718385.jpg" width="90%" alt="Middelburg netherlands zealand 718385">
+<img src="/rule/europe/netherlands/middelburg_netherlands_zealand_718385.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Middelburg Netherlands Zealand 718385">
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Dedicated bicycle lanes (fietspad) are everywhere{{% ex "https://goo.gl/maps/Dmz
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/meteorry/51314358579/" title="Nieuwe Gouw - Amsterdam (Netherlands)"><img src="https://live.staticflickr.com/65535/51314358579_a64b6d05a3_z.jpg" width="640" height="426" alt="Nieuwe Gouw - Amsterdam (Netherlands)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/meteorry/51314358579/" title="Nieuwe Gouw - Amsterdam (Netherlands)"><img src="https://live.staticflickr.com/65535/51314358579_a64b6d05a3_z.jpg" width="640" height="426" alt="Image from live.staticflickr.com showing 51314358579 a64b6d05a3 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Roadside bollards are <span class="quiz">white</span>. Larger roads often displa
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bollard.jpg" width="90%" alt="Bollard">
+<img src="./bollard.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Blue-and-white poles mark locations where cyclists cross the carriageway.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./fietsers_crossing_sign.jpg" width="90%" alt="Fietsers crossing sign">
+<img src="./fietsers_crossing_sign.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
 </div>
 
 {{% /tab %}}
@@ -120,7 +120,7 @@ Flat aluminium-clad buildings are often warehouses, typically near waterways. Yo
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690199782462!6m8!1m7!1sZXnBztr5Uzf0TAiV6Xj2_g!2m2!1d52.40373286074148!2d4.749969538076793!3f19.895877507970635!4f2.8884534735692853!5f0.7820865974627469" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div class="unclickable">
-<img src="/rule/europe/netherlands/mol.jpg" width="600px" alt="Mol" />
+<img src="/rule/europe/netherlands/mol.jpg" width="600px" alt="Netherlands GeoGuessr guide image showing Mol" />
 </div>
 </div>
 

@@ -52,7 +52,7 @@ products:
 El tailandés central es el idioma oficial.{{% ex "https://maps.app.goo.gl/7kwR5CrUKtMRAKi67" "https://maps.app.goo.gl/eSnJC45LR227nERC8" "https://maps.app.goo.gl/Vx4vY1Fo5V7ArcDC8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Barra de anuncios</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Wikimedia Commons photo showing Kilometre Zero Milestone Northern Thailand" height="428" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Barra de anuncios</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Enlace</a></p>
 </div>
 
 {{% notice tip %}}noray{{% ex "https://maps.app.goo.gl/LFcwNBFWbcvfepjK8" "https://maps.app.goo.gl/2ai85g4hDdZfSdpYA" "https://maps.app.goo.gl/yyt5p8LpQn9kvpLE8" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}y poste telefónico{{% ex "https://maps.app.goo.gl/WWVAC8TyCRSMeqRe9" "https://maps.app.goo.gl/4ARsc5G394Z7EhRh7" "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}Es angular, así que si sientes la angularidad, podría ser un empate.
@@ -62,7 +62,7 @@ El tailandés central es el idioma oficial.{{% ex "https://maps.app.goo.gl/7kwR5
 Un bolardo angular similar{{% goto "../laos/" "Laos" %}}Hay un poste telefónico cuadrado en{{% goto "../srilanka/" "Sri Lanka" %}}o{{% goto "../philippines/" "Filipinas" %}}Tenga en cuenta que también hay Si su automóvil tiene una placa amarilla, la bobina en el poste telefónico es grande o hay un poste telefónico con un agujero.{{% goto "../srilanka/" "Sri Lanka" %}}, si hay un vehículo con matrícula verdosa o de forma única.{{% goto "../philippines/" "Filipinas" %}}Pensemos en ello.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
+<img src="/rule/asia/thai/road.png" width="90%" alt="Thai GeoGuessr guide image showing Road" style="margin-bottom:0;padding-bottom:0;" />
 </div>
 
 <div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
@@ -74,13 +74,13 @@ Hay bolardos blancos que se pueden utilizar para delimitar la ubicación.{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="タイのボラード" />
+<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="Thai GeoGuessr guide image showing Thailand Milestone" />
 </div>
 
 {{% notice tip %}}<span class="quiz">izquierda</span> Tráfico lateral, turismos en general.<span class="quiz">blanco</span> Hay muchas placas de colores y las placas de taxi son <span class="quiz">amarillo</span> Hay muchos colores.En Laos, los coches corrientes <span class="quiz">amarillo</span> chuleta de color <span class="quiz">bien</span> Tráfico lateral.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/lp.jpg" width="90%" alt="Lp">
+<img src="/rule/asia/thai/lp.jpg" width="90%" alt="Thai GeoGuessr guide image showing Lp">
 </div>
 
 {{% lb 50 %}}
@@ -95,7 +95,7 @@ Dominio público
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Main road in Ko Lanta (5).jpg" height="427" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Wikimedia Commons photo showing Main Road In Ko Lanta (5)" height="427" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Enlace</a></p>
 </div>
 
 
@@ -104,7 +104,7 @@ Un poste de alumbrado público tiene un reflector blanco y naranja.{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/pole.jpg" width="90%" alt="Pole">
+<img src="/rule/asia/thai/pole.jpg" width="90%" alt="Thai GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
@@ -116,7 +116,7 @@ Aunque no son muchos{{% goto "../indonesia/" "Indonesia" %}}Sin embargo, dado qu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/road205_in_amphoe_thep.jpg" width="90%" alt="Road205 in amphoe thep">
+<img src="/rule/asia/thai/road205_in_amphoe_thep.jpg" width="90%" alt="Thai GeoGuessr guide image showing road205 In Amphoe Thep">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ El ramen número 8, que se encuentra comúnmente en la región de Hokuriku, se e
 {{% tabs %}}
 {{% tab "palma aceitera" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -189,11 +189,11 @@ Si tiene palmas aceiteras como palmeras, considere las tierras bajas del sur.{{%
 {{% /tab %}}
 {{% tab "goma" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Thai GeoGuessr guide image showing Rubber Tree Distribution" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/rubberwood.jpg" alt="Rubberwood">
+<img src="/rule/asia/thai/rubberwood.jpg" alt="Thai GeoGuessr guide image showing Rubberwood">
 </div>
 
 {{% notice tip %}}
@@ -202,7 +202,7 @@ Los árboles de caucho se encuentran generalmente en el lado sur de la penínsul
 {{% /tab %}}
 {{% tab "cono" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -211,7 +211,7 @@ Al igual que Estados Unidos, el maíz y la soja se producen básicamente en la m
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}
@@ -267,7 +267,7 @@ En la parte sur (península y costa) también se pueden observar aquí y allá p
 {{% tabs %}}
 {{% tab "Código de área" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Thailand telephone area codes.svg" height="720" width="409"></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Wikimedia Commons photo showing Thailand Telephone Area Codes" height="720" width="409"></a>
 </p><p>Por <a href="//commons.wikimedia.org/wiki/User:Ponpan" title="User:Ponpan">Ponpan</a> -Este <a href="https://en.wikipedia.org/wiki/vector_image" class="extiw" title="w:vector image">imagen vectorial</a> incluye elementos que han sido tomados o adaptados de este archivo.</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79476331">Enlace</a></p>
 </div>
 {{% /tab %}}
@@ -290,7 +290,7 @@ La carretera 4169 rodea la isla.{{% ex "https://maps.app.goo.gl/6Uo9cLhZJFmL4dWu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%" alt="Samui koh samui bangrak">
+<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%" alt="Thai GeoGuessr guide image showing Samui Koh Samui Bangrak">
 </div>
 
 {{% /tab %}}
@@ -302,7 +302,7 @@ Estaba caminando por un lugar turístico y vi "Koh Lipe" escrito en él.{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Walking street At Lipe Island(Koh Lipe) - panoramio.jpg" width="90%"></a></p><p>Por <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Wikimedia Commons photo showing Walking Street At Lipe Island(Koh Lipe) Panoramio" width="90%"></a></p><p>Por <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Enlace</a></p>
 </div>
 
 {{% /tab %}}

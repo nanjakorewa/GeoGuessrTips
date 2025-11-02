@@ -36,8 +36,8 @@ sc: [
 Lebih dari separuh wisatawan adalah orang Jepang, sehingga papan nama dan bendera sering kali memiliki tulisan dalam bahasa Jepang {{% ex "https://maps.app.goo.gl/QRcQhgy8FGDyCMAHA" "https://maps.app.goo.gl/sE22VvQ9QR7z6PTe8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/northern_mariana_islands/960px-Hafa-Adai_Shopping_Center.jpg" width="95%" alt="960px Hafa Adai Shopping Center">
-<img src="/rule/oceania/northern_mariana_islands/960px-I_Love_Saipan.jpg" width="95%" alt="960px I Love Saipan">
+<img src="/rule/oceania/northern_mariana_islands/960px-Hafa-Adai_Shopping_Center.jpg" width="95%" alt="Northern Mariana Islands GeoGuessr guide image showing 960px Hafa Adai Shopping Center">
+<img src="/rule/oceania/northern_mariana_islands/960px-I_Love_Saipan.jpg" width="95%" alt="Northern Mariana Islands GeoGuessr guide image showing 960px I Love Saipan">
 </div>
 
 {{% notice tip %}}
@@ -64,7 +64,7 @@ Pulau Tinian memiliki beberapa area kecil yang tercakup dalam mode jalan kaki, t
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/cusrey/16730164353/in/photolist-ruosZx-rubWxo/" title="Mt. Lasso Shinto rear fence"><img src="https://live.staticflickr.com/8779/16730164353_0a36b60800_c.jpg" width="90%" alt="Mt. Lasso Shinto rear fence"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cusrey/16730164353/in/photolist-ruosZx-rubWxo/" title="Mt. Lasso Shinto rear fence"><img src="https://live.staticflickr.com/8779/16730164353_0a36b60800_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 16730164353 0a36b60800 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}

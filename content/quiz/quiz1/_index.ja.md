@@ -24,7 +24,7 @@ pagetype: "quiz"
 {{% /notice %}}
 
 <div class="googlemap-if ansarea transparent-area no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:K%C5%8Dnomai02.JPG#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:K%C5%8Dnomai02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/K%C5%8Dnomai02.JPG" alt="Kōnomai02.JPG" height="480" width="640"></a></p><p><a href="//commons.wikimedia.org/wiki/User:221.20" title="User:221.20">221.20</a> (<a href="//commons.wikimedia.org/wiki/User_talk:221.20" title="User talk:221.20">talk</a>) - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=15535739">リンク</a>による</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:K%C5%8Dnomai02.JPG#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:K%C5%8Dnomai02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/K%C5%8Dnomai02.JPG" alt="Wikimedia Commons photo showing Kōnomai02" height="480" width="640"></a></p><p><a href="//commons.wikimedia.org/wiki/User:221.20" title="User:221.20">221.20</a> (<a href="//commons.wikimedia.org/wiki/User_talk:221.20" title="User talk:221.20">talk</a>) - <span class="int-own-work" lang="ja">投稿者自身による著作物</span>, パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=15535739">リンク</a>による</p>
 </div>
 
 {{% notice tip %}}
@@ -32,6 +32,6 @@ pagetype: "quiz"
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./japan_otaru_road_buildings.jpg" alt="Japan otaru road buildings">
+<img src="./japan_otaru_road_buildings.jpg" alt="Quiz 1 image showing Japan Otaru Road Buildings">
 </div>
 </div>

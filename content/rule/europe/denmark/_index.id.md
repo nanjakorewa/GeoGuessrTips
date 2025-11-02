@@ -41,35 +41,35 @@ sc: [
 Kotak pos bermerek Allux, yang berasal dari perusahaan di Odense, Denmark, sangat umum digunakan. Kotak pos ini memiliki desain elegan dengan tutup melengkung {{% ex "https://maps.app.goo.gl/CZvXH19Lwqhf2Aqp8" "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}{{% imref %}}. Kotak ini juga dapat ditemukan di {{% goto "../germany/" "Jerman" %}} yang berbatasan darat dengan Denmark, serta di {{% goto "../faroe_islands/" "Kepulauan Faroe" %}} yang merupakan bagian dari Kerajaan Denmark.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" alt="2024 10 15 23 20 20">
+<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" alt="Denmark GeoGuessr guide image showing 2024 10 15 23 20 20">
 </div>
 
 {{% notice tip %}}
 Pipa dengan <span class="quiz">lengkungan melingkar</span> sering digunakan, termasuk pada rambu jalan. Berbeda dengan negara seperti Belanda, yang biasanya menggunakan pipa persegi. Selain itu, nama jalan sering kali mengandung <span class="quiz">-vej</span>, yang berarti "jalan" dalam bahasa Denmark {{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="80%" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="80%" alt="Image from live.staticflickr.com showing 7669586170 88de1d1d5b C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Bollard di Denmark memiliki <span class="quiz">reflektor kuning dan garis merah</span> {{% ex "https://maps.app.goo.gl/9aokZujn399n7AJt9" "https://goo.gl/maps/go3gDCpJTiSecArf7" "https://goo.gl/maps/AJpWxsWiskTXCnyv8" %}}. Perhatikan bahwa pita oranye di bagian atas bollard kadang warnanya memudar {{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/denmark/bollards.png" width="90%" alt="Bollard Denmark" />
+<img src="/rule/europe/denmark/bollards.png" width="90%" alt="Denmark GeoGuessr guide image showing Bollards" />
 </div>
 
 {{% notice tip %}}
 Nama jalan di Denmark sering kali mengandung kata <span class="quiz">vej</span>, høje, atau haven {{% ex "https://maps.app.goo.gl/3jLBjRir1QwGqp1HA" "https://maps.app.goo.gl/PS5i5Ev2ixegsPdt8" "https://maps.app.goo.gl/7jpPBxtWTta6aEn2A" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/street-sign.jpg" width="95%" alt="Street sign">
+<img src="/rule/europe/denmark/street-sign.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Street Sign">
 </div>
 
 {{% notice tip %}}
 Banyak rumah di Denmark memiliki tiang bendera di depan, yang digunakan untuk mengibarkan bendera pada hari libur atau ulang tahun {{% ex "https://maps.app.goo.gl/H8EUtVvjRG9WN7AXA" "https://maps.app.goo.gl/N9rpu6NoVyxbM8bJ7" "https://maps.app.goo.gl/5x8oKSpKQ5Li6hP67" "https://maps.app.goo.gl/mm1STHyENuP6TSdSA" "https://maps.app.goo.gl/PckYsMgpz4ShSmir9" "https://maps.app.goo.gl/Z58g6R6Cgho4PszA6" %}}{{% ref "https://theslowroad.org/quirks-of-denmark/" "Quirks of Denmark" %}}. Bendera yang dikibarkan sering kali berbentuk sangat ramping {{% ex "https://maps.app.goo.gl/4bAes6SYNwc6xpML7" "https://maps.app.goo.gl/jqNCM2covDMA4guQ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/denmark_home_afternoon_nature.jpg" width="95%" alt="Denmark home afternoon nature">
+<img src="/rule/europe/denmark/denmark_home_afternoon_nature.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Denmark Home Afternoon Nature">
 </div>
 
 {{% notice tip %}}
@@ -150,7 +150,7 @@ Sisi timur Pulau Anholt didominasi oleh hamparan pasir, dengan sedikit atau bahk
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/denmark/Anholt_island_view_2005.jpg" width="95%" alt="Anholt island view 2005">
+<img src="/rule/europe/denmark/Anholt_island_view_2005.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Anholt Island View 2005">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697261565914!6m8!1m7!1sja229-1LQr8vmd1-vK0EtQ!2m2!1d56.71580830041433!2d11.54309706651893!3f339.80967863425553!4f-2.5571449070028933!5f0.4000000000000002" width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 

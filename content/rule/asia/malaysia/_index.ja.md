@@ -47,13 +47,13 @@ flag_height: "380px"
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.jpg" width="80%" alt="Road" />
+<img src="road.jpg" width="80%" alt="Malaysia GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="Jkr ft1" />
-<img src="Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysian Public Works Department" />
-<img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" alt="Jkr k602" />
+<img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
+<img src="Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysia GeoGuessr guide image showing Malaysian Public Works Department" />
+<img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
 </div>
 
 
@@ -64,21 +64,21 @@ flag_height: "380px"
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./langkawi_road.jpg" alt="Langkawi road" />
+<img src="./langkawi_road.jpg" alt="Malaysia GeoGuessr guide image showing Langkawi Road" />
 </div>
 
 {{% notice tip %}}
 とまれの標識が<span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" "https://maps.app.goo.gl/fWQbsbNztk11KAWM6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="マレーシアの止まれの標識"/>
+<img src="./960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing 960px Kampung Kenangan Dato' Onn 2 1"/>
 </div>
 
 {{% notice tip %}}
 電柱に<span class="quiz">黒いラベル</span>があるならばボルネオ側ではなく本土側{{% ex "https://maps.app.goo.gl/XshWgGgTSTuLbi6K6" "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}{{% by "https://youtu.be/HgPymmvsq8c?t=2551" "youtube" "【GeoGuessr】公認プレイヤーによる国当て完全解説！ - Daig_O" %}}。ただしインドネシアのリアウ諸島にある黒いラベルっぽいもの{{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" %}}で国を外したことがあるので周りもちゃんと見る。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Wikimedia Commons photo showing Peserai, 83000, Johor, Malaysia Panoramio (1)" width="90%"></a></p>
 <p>By Ardeka Balian Aga Fo…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=56022236">Link</a></p>
 </div>
 
@@ -87,7 +87,7 @@ flag_height: "380px"
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="2023-05-04-12-38-44.png" width="50%" alt="2023 05 04 12 38 44" />
+<img src="2023-05-04-12-38-44.png" width="50%" alt="Malaysia GeoGuessr guide image showing 2023 05 04 12 38 44" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -97,7 +97,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-surface.png" width="90%" alt="Road surface">
+<img src="./road-surface.png" width="90%" alt="Malaysia GeoGuessr guide image showing Road Surface">
 </div>
 
 
@@ -106,7 +106,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/billygabriel/5372224046/in/photolist-9bJ43w-8QpZKL-9bEzdg-nvL2xS-bUgAbT-2mE8sjh-fFKs4Q-2mE44z8-RUaAcE-8uFLKU-bVcaJ4-PNvA1o-R15Md1-ccz1kq-2mYYVcq-nEiFFQ-nEiF6m-nJ8Miz-ccyAPA-2mE5bwz-bVcDNz-A4v46-ABPw3d-2jAjDCf-5CnER3-cbgDSy-SWMWF1-5FLWJU-6M2N3M-6M2Rz6-6M2PzF-PkiP4-5FLWJW-RUayRU-ecEScJ-p5s4es-SWMY8Q-ccA7Tu-8t4eri-2e6Ddew-NgZr15-5FS3JF-2kA1huM-Bzm6yx-21rD6FW-V9Z17Z-Nkdag4-2dNGFdZ-8t7c9m-2mE44jd" title="Petronas Gas station"><img src="https://live.staticflickr.com/5003/5372224046_a878d9b0a2_z.jpg" width="640" height="480" alt="Petronas Gas station"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/billygabriel/5372224046/in/photolist-9bJ43w-8QpZKL-9bEzdg-nvL2xS-bUgAbT-2mE8sjh-fFKs4Q-2mE44z8-RUaAcE-8uFLKU-bVcaJ4-PNvA1o-R15Md1-ccz1kq-2mYYVcq-nEiFFQ-nEiF6m-nJ8Miz-ccyAPA-2mE5bwz-bVcDNz-A4v46-ABPw3d-2jAjDCf-5CnER3-cbgDSy-SWMWF1-5FLWJU-6M2N3M-6M2Rz6-6M2PzF-PkiP4-5FLWJW-RUayRU-ecEScJ-p5s4es-SWMY8Q-ccA7Tu-8t4eri-2e6Ddew-NgZr15-5FS3JF-2kA1huM-Bzm6yx-21rD6FW-V9Z17Z-Nkdag4-2dNGFdZ-8t7c9m-2mE44jd" title="Petronas Gas station"><img src="https://live.staticflickr.com/5003/5372224046_a878d9b0a2_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 5372224046 a878d9b0a2 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -115,7 +115,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="640px Tasik Y Recreational Park 5">
+<img src="./640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="Malaysia GeoGuessr guide image showing 640px Tasik Y Recreational Park 5">
 </div>
 
 
@@ -160,12 +160,12 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./signboard_with_islamic_calligraphy.jpg" width="95%" alt="Signboard with islamic calligraphy">
+<img src="./signboard_with_islamic_calligraphy.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing Signboard With Islamic Calligraphy">
 </div>
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-32.png" width="90%" alt="2023 05 11 14 03 32" />
+<img src="2023-05-11-14-03-32.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -180,7 +180,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-53.png" width="90%" alt="2023 05 11 14 03 53" />
+<img src="2023-05-11-14-03-53.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mabul_island_semporna_sabah.jpg" wdith="90%" alt="Mabul island semporna sabah" />
+<img src="./mabul_island_semporna_sabah.jpg" wdith="90%" alt="Malaysia GeoGuessr guide image showing Mabul Island Semporna Sabah" />
 </div>
 {{% /tab %}}
 {{% tab "ティオマン島" %}}

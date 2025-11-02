@@ -31,7 +31,7 @@ sc: [
 ケープタウンから毎年数便トリスタンダクーニャ行きの船が出ている{{% ref "https://www.tristandc.com/visits.php" "Tristan da Cunha Website - Guide to Visits Section Pages" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Tristan_Da_Cunha_(249833017).jpeg#/media/File:Tristan_Da_Cunha_(249833017).jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tristan_Da_Cunha_%28249833017%29.jpeg" alt="Tristan Da Cunha (249833017).jpeg" height="720" width="1280"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71325727">リンク</a>より</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tristan_Da_Cunha_(249833017).jpeg#/media/File:Tristan_Da_Cunha_(249833017).jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tristan_Da_Cunha_%28249833017%29.jpeg" alt="Wikimedia Commons photo showing Tristan Da Cunha (249833017)" height="720" width="1280"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71325727">リンク</a>より</p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

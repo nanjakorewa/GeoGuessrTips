@@ -13,7 +13,7 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/chiba/" title="Chiba" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">
-            <img src="https://geopinning.space/flags/Osaka.svg" alt="Chiba" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Osaka.svg" alt="Image from geopinning.space showing Osaka" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">Chiba</a></p>
     </li>
 </ul>
@@ -32,7 +32,7 @@ La llanura de Kantō se extiende por la región, por lo que abundan los paisajes
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kanto/kanto_railway_ryugasaki_line_0.jpg" alt="Kanto railway ryugasaki line 0">
+<img src="/rule/asia/japan/kanto/kanto_railway_ryugasaki_line_0.jpg" alt="Kanto GeoGuessr guide image showing Kanto Railway Ryugasaki Line 0">
 </div>
 
 {{% /tab %}}

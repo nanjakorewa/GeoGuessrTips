@@ -41,21 +41,21 @@ Bahasa Bengali digunakan{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg" alt="Lawachara national park srimongol 11">
+<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg" alt="Bangladesh GeoGuessr guide image showing Lawachara National Park Srimongol 11">
 </div>
 
 {{% notice tip %}}
 Bollard dengan pola garis <span class="quiz">merah dan putih</span>{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}. Sering ditemukan berjejer di kedua sisi jalan dekat jembatan{{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/bollards.png" width="90%" alt="Bollard di Bangladesh" />
+<img src="/rule/asia/bangladesh/bollards.png" width="90%" alt="Bangladesh GeoGuessr guide image showing Bollards" />
 </div>
 
 {{% notice tip %}}
 Kendaraan komersial menggunakan plat nomor berwarna <span class="quiz">hijau</span>{{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" "https://maps.app.goo.gl/KzyCsQJnmutmvobL8" %}}, sedangkan kendaraan pribadi berwarna putih.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 39807291020 b9c44c4f69 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 small %}}
@@ -67,14 +67,14 @@ Kendaraan komersial menggunakan plat nomor berwarna <span class="quiz">hijau</sp
 CNG rickshaw berbentuk seperti tuk-tuk adalah ciri khas lain{{% ex "https://maps.app.goo.gl/352hBjY28HvRoYxv9" "https://maps.app.goo.gl/SZeqAz2D1qJds1y89" %}}. Kendaraan ini juga menggunakan plat nomor <span class="quiz">hijau</span>{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" "https://maps.app.goo.gl/mFSzfWmNdY8od8dV7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="CNG auto-rickshaw stand in Kandirpar, Comilla 2.jpg" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="id">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="Wikimedia Commons photo showing Cng Auto Rickshaw Stand In Kandirpar, Comilla 2" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="id">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
 </div>
 
 {{% notice tip %}}
 GoogleCar di Bangladesh terkadang memperlihatkan <span class="quiz">cermin merah</span>{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}} (lihat contoh).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/bangladesh/gc.jpg" width="600px" alt="Gc">
+<img src="/rule/asia/bangladesh/gc.jpg" width="600px" alt="Bangladesh GeoGuessr guide image showing Gc">
 </div>
 
 {{% /tab %}}
@@ -140,7 +140,7 @@ Lebih dari 90% kedelai diproduksi di wilayah antara Dhaka dan Chittagong {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%" alt="2023 06 19 08 52 31">
+<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%" alt="Bangladesh GeoGuessr guide image showing 2023 06 19 08 52 31">
 </div>
 
 {{% /tab %}}

@@ -43,7 +43,7 @@ sc: [
 {{% notice tip %}}{{% goto "../sweden/" "Swedia" %}}Negara-negara Nordik seperti Norwegia dan <span class="quiz">Merah tua (merah Falun)</span> Ada rumah kayu yang dicat{{% ex "https://maps.app.goo.gl/SKSgwansDsmD87sbA" "https://maps.app.goo.gl/86NN7162wMJtGdVX9" "https://maps.app.goo.gl/AZUo6n8WAZGq13ze7" "https://maps.app.goo.gl/S4i7fZAx8ctvsLHc7" "https://maps.app.goo.gl/i9759EsyfhsCMgYFA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
+<img src="/rule/europe/norway/sweden_home_red_stone.jpg" width="95%" alt="Norway GeoGuessr guide image showing Sweden Home Red Stone">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Apakah kendaraan niaga Norwegia termasuk kendaraan berpelat hijau di Eropa?{{% g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/car.png" width="90%" alt="ノルウェーのガソリンスタンド">
+<img src="/rule/europe/norway/car.png" width="90%" alt="Norway GeoGuessr guide image showing Car">
 </div>
 
 {{% lb 50 %}}
@@ -68,9 +68,9 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 sebuah penyeberangan <span class="quiz">4</span> Buku.Dari kiri <span class="quiz">Finlandia</span>・<span class="quiz">Norwegia</span>{{% ex "https://goo.gl/maps/eUDy4FaK6PGdGcdE6" %}}・<span class="quiz">Swedia</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
-<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
-<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Finland Road Sign E1 1" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing No Road Sign 516.H" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Sweden Road Sign B3 1" />
 </div>
 
 
@@ -79,9 +79,9 @@ Ini adalah bahasa Skandinavia, dan latar belakang tanda peringatan seperti notas
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" alt="NO road sign 362.100" />
-<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" alt="Sweden road sign C31 10" />
-<img src="/rule/europe/finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" alt="Finland road sign C32 100" />
+<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" alt="Finland GeoGuessr guide image showing No Road Sign 362.100" />
+<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" alt="Finland GeoGuessr guide image showing Sweden Road Sign C31 10" />
+<img src="/rule/europe/finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" alt="Finland GeoGuessr guide image showing Finland Road Sign C32 100" />
 </div>
 
 {{% notice tip %}}
@@ -91,28 +91,28 @@ Di papan nama jalan <span class="quiz">oranye</span> Ada banyak latar belakang{{
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
-            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="R GeoGuessr guide image showing Sweden Road Sign F5">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Swedish Road Sign 1 5 2 15">
         </div>
         <p><span class="quiz">Swedia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
-            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="R GeoGuessr guide image showing Paikalliskohteen Viitta 648">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Moottori Ja Moottoriliikennetien Viitta 649">
         </div>
         <p><span class="quiz">Finlandia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing 1920px Norwegian Road Sign 713">
         </div>
         <p><span class="quiz">Norwegia</span></p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/2023-08-03-19-04-51.png" width="90%" alt="2023 08 03 19 04 51" />
+<img src="/rule/europe/norway/2023-08-03-19-04-51.png" width="90%" alt="Norway GeoGuessr guide image showing 2023 08 03 19 04 51" />
 </div>
 
 
@@ -121,7 +121,7 @@ Garis putus-putus di jalur pinggir jalan <span class="quiz">panjang</span>{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/road.png" width="90%" alt="Road">
+<img src="/rule/europe/sweden/road.png" width="90%" alt="Sweden GeoGuessr guide image showing Road">
 </div>
 
 
@@ -131,7 +131,7 @@ Yang kiri adalah <span class="quiz">Norwegia</span>, yang benar adalah <span cla
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/sweden/road-2.png" width="90%" alt="Road 2">
+<img src="/rule/europe/sweden/road-2.png" width="90%" alt="Sweden GeoGuessr guide image showing Road 2">
 </div>
 
 
@@ -171,7 +171,7 @@ Entah kenapa, pemerintah Norwegia adalah pemegang saham utama Keisei Electric Ra
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/2023-06-18-12-11-36.png" width="90%" alt="2023 06 18 12 11 36">
+<img src="/rule/europe/norway/2023-06-18-12-11-36.png" width="90%" alt="Norway GeoGuessr guide image showing 2023 06 18 12 11 36">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -195,7 +195,7 @@ Entah kenapa, pemerintah Norwegia adalah pemegang saham utama Keisei Electric Ra
 {{% tabs %}}
 {{% tab "vegetasi" %}}
 <div class="googlemap-if no-margin">
-<p><img class="no-click" src="/rule/europe/norway/Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="ノルウェーの植生" style="max-width: 80%;"/></p>
+<p><img class="no-click" src="/rule/europe/norway/Vegetation-map-of-Norway-modified-after-Moen-1987-Position-of-ODP-Site-642-was-drawn.png" alt="Norway GeoGuessr guide image showing Vegetation Map Of Norway Modified After Moen 1987 Position Of Odp Site 642 Was Drawn" style="max-width: 80%;"/></p>
 <p><a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Panitz, Sina, dkk. "Variabilitas iklim dan perluasan lahan gambut jangka panjang di Arktik Norwegia selama Pliosen akhir (Situs ODP 642, Laut Norwegia)." Iklim Masa Lalu 12.4 (2016): 1043-1060.</a>, <a href="https://creativecommons.org/licenses/by/3.0/">Atribusi 3.0 Tidak Diporting (CC BY 3.0)</a></p>
 </div>
 
@@ -203,7 +203,7 @@ Entah kenapa, pemerintah Norwegia adalah pemegang saham utama Keisei Electric Ra
 {{% tab "Kode wilayah" %}}
 <div class="googlemap-if">
 <p>
-<img class="no-click" src="/rule/europe/norway/2023-04-16-09-28-12.png" alt="ノルウェーの市外局番の分布" style="max-width: 80%;"/>
+<img class="no-click" src="/rule/europe/norway/2023-04-16-09-28-12.png" alt="Norway GeoGuessr guide image showing 2023 04 16 09 28 12" style="max-width: 80%;"/>
 </p><p>Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:Gyroscopbill212&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Gyroscopbill212 (page does not exist)">Gyroscopbill212</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105840743">Link</a></p>
 </div>
 {{% /tab %}}

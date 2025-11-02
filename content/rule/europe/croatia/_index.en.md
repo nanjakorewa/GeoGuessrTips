@@ -51,16 +51,16 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/croatia/split_croatia_1.jpg" alt="Tisak storefront" width="80%">
-<img src="/rule/europe/croatia/sanski_most5.jpg" alt="Konzum storefront" width="80%">
+<img src="/rule/europe/croatia/split_croatia_1.jpg" alt="Croatia GeoGuessr guide image showing Split Croatia 1" width="80%">
+<img src="/rule/europe/croatia/sanski_most5.jpg" alt="Croatia GeoGuessr guide image showing Sanski most5" width="80%">
 </div>
 
 {{% notice tip %}}
 Look for distinctive <span class="quiz">grey</span> fire hydrants in the shapes below. {{% ex "https://maps.app.goo.gl/AMmHBiaDFtHiP4HH6" "https://maps.app.goo.gl/g2qqL7da2hxLLmpp8" "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Croatia fire hydrant"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Image from live.staticflickr.com showing 9721208374 cea45cc06b W"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Image from live.staticflickr.com showing 19634605133 4666909443 W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -69,7 +69,7 @@ Until 2016, Croatian plates were white without the EU blue strip, so you still s
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./plates.jpg" alt="Croatian license plates" width="80%">
+<img src="./plates.jpg" alt="Croatia GeoGuessr guide image showing Plates" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Guardrails with red-and-white stripes and a prominent profile are shared with Se
 Checkerboard motifs inspired by the national flag appear on municipal logos and road furniture.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./checker_pattern.jpg" alt="Croatian checkerboard logo" width="80%">
+<img src="./checker_pattern.jpg" alt="Croatia GeoGuessr guide image showing Checker Pattern" width="80%">
 </div>
 
 {{% /tab %}}
@@ -143,7 +143,7 @@ Black-and-red chevrons are widely used on curves.
 In practice you will encounter place names more frequently than area codes, but keep them in mind as a backup clue.
 {{% /notice %}}
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/europe/croatia/areacode.png" alt="Croatian area codes"></div>
+<div class="unclickable"><img src="/rule/europe/croatia/areacode.png" alt="Croatia GeoGuessr guide image showing Areacode"></div>
 <p>Source: <a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom – Međunarodni promet</a></p>
 </div>
 {{% /tab %}}
@@ -162,7 +162,7 @@ In practice you will encounter place names more frequently than area codes, but 
 {{% notice tip %}}
 Viticulture drives the island’s economy; roughly 15% of the agricultural land is planted with vines. {{% ex "https://maps.app.goo.gl/SSWENqTiuXZhwL969" "https://maps.app.goo.gl/DqNBW2TBT3CkQvsN9" "https://maps.app.goo.gl/CDrhyrchMuPDJNdQ9" %}}
 {{% /notice %}}
-<img src="/rule/europe/croatia/vrbnicko_polje_1.jpg" alt="Vis Island vineyards">
+<img src="/rule/europe/croatia/vrbnicko_polje_1.jpg" alt="Croatia GeoGuessr guide image showing Vrbnicko Polje 1">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -28,7 +28,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg#/media/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo%2C_Malanje_-_2018-11-08.jpg" alt="Estrada perto das Pedras Negras de Pungo Andongo, Malanje - 2018-11-08.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Wbkincaid1&amp;action=edit&amp;redlink=1" class="new" title="User:Wbkincaid1 (page does not exist)">Wbkincaid1</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89132758">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg#/media/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo%2C_Malanje_-_2018-11-08.jpg" alt="Wikimedia Commons photo showing Estrada Perto Das Pedras Negras De Pungo Andongo, Malanje 2018 11 08" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Wbkincaid1&amp;action=edit&amp;redlink=1" class="new" title="User:Wbkincaid1 (page does not exist)">Wbkincaid1</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=89132758">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Luanda_Centro.jpg" width="90%" alt="960px Luanda Centro">
+<img src="./960px-Luanda_Centro.jpg" width="90%" alt="Angola GeoGuessr guide image showing 960px Luanda Centro">
 </div>
 
 {{% lb 50 %}}
@@ -50,7 +50,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:GDP_per_capita_development_of_Angola.svg#/media/File:GDP_per_capita_development_of_Angola.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/GDP_per_capita_development_of_Angola.svg" alt="GDP per capita development of Angola.svg" height="600" width="850"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:GDP_per_capita_development_of_Angola.svg#/media/File:GDP_per_capita_development_of_Angola.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/GDP_per_capita_development_of_Angola.svg" alt="Wikimedia Commons photo showing Gdp Per Capita Development Of Angola" height="600" width="850"></a></p>
 <p>By Max Roser - <a rel="nofollow" class="external free" href="https://ourworldindata.org/grapher/gdp-per-capita-maddison-2020?country=~AGO">https://ourworldindata.org/grapher/gdp-per-capita-maddison-2020?country=~AGO</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=121593651">Link</a></p>
 </div>
 

@@ -44,13 +44,13 @@ Nomor jalan berbentuk heksagonal berwarna kuning {{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Road" />
+<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Malaysia GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="../../../../rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="Jkr ft1" />
-<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysian Public Works Department" />
-<img src="../../../../rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="Jkr k602" />
+<img src="../../../../rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
+<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysia GeoGuessr guide image showing Malaysian Public Works Department" />
+<img src="../../../../rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
 </div>
 
 {{% notice tip %}}
@@ -62,21 +62,21 @@ Garis ini jarang ditemukan di {{% goto "../hongkong/" "Hong Kong" %}} {{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Langkawi road" />
+<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Malaysia GeoGuessr guide image showing Langkawi Road" />
 </div>
 
 {{% notice tip %}}
 Rambu berhenti bertuliskan <span class="quiz">berhenti</span> {{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" "https://maps.app.goo.gl/fWQbsbNztk11KAWM6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Rambu berhenti di Malaysia"/>
+<img src="/rule/asia/malaysia/960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing 960px Kampung Kenangan Dato' Onn 2 1"/>
 </div>
 
 {{% notice tip %}}
 Tiang listrik dengan <span class="quiz">label hitam</span> menandakan lokasi di Semenanjung Malaysia, bukan di Borneo {{% ex "https://maps.app.goo.gl/XshWgGgTSTuLbi6K6" "https://goo.gl/maps/YQD7zudhP7gvPQ5Z8" "https://goo.gl/maps/5j7Hzz1tBCcATtng8" "https://goo.gl/maps/okyaq9kLeWMKRu54A" %}}. Namun, label serupa juga ditemukan di Kepulauan Riau, Indonesia, sehingga perlu diperiksa lebih lanjut {{% ex "https://goo.gl/maps/orFPcKqtGHpvKZYP7" "https://goo.gl/maps/ojX1sp7TheqCbviM9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Peserai, 83000, Johor, Malaysia - panoramio (1).jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg#/media/File:Peserai,_83000,_Johor,_Malaysia_-_panoramio_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Peserai%2C_83000%2C_Johor%2C_Malaysia_-_panoramio_%281%29.jpg" alt="Wikimedia Commons photo showing Peserai, 83000, Johor, Malaysia Panoramio (1)" width="90%"></a></p>
 <p>By Ardeka Balian Aga Fo…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=56022236">Link</a></p>
 </div>
 
@@ -85,7 +85,7 @@ Plat nomor kendaraan dapat terlihat terpisah karena efek blur {{% ex "https://ma
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" width="50%" alt="2023 05 04 12 38 44" />
+<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" width="50%" alt="Malaysia GeoGuessr guide image showing 2023 05 04 12 38 44" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -95,7 +95,7 @@ Sebagian besar jalan di Malaysia terbuat dari aspal, dan jalan beton jarang dite
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/road-surface.png" width="90%" alt="Road surface">
+<img src="/rule/asia/malaysia/road-surface.png" width="90%" alt="Malaysia GeoGuessr guide image showing Road Surface">
 </div>
 
 {{% notice tip %}}
@@ -103,7 +103,7 @@ Petronas Gas Berhad adalah perusahaan milik negara yang memasok minyak dan gas d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/billygabriel/5372224046/in/photolist-9bJ43w-8QpZKL-9bEzdg-nvL2xS-bUgAbT-2mE8sjh-fFKs4Q-2mE44z8-RUaAcE-8uFLKU-bVcaJ4-PNvA1o-R15Md1-ccz1kq-2mYYVcq-nEiFFQ-nEiF6m-nJ8Miz-ccyAPA-2mE5bwz-bVcDNz-A4v46-ABPw3d-2jAjDCf-5CnER3-cbgDSy-SWMWF1-5FLWJU-6M2N3M-6M2Rz6-6M2PzF-PkiP4-5FLWJW-RUayRU-ecEScJ-p5s4es-SWMY8Q-ccA7Tu-8t4eri-2e6Ddew-NgZr15-5FS3JF-2kA1huM-Bzm6yx-21rD6FW-V9Z17Z-Nkdag4-2dNGFdZ-8t7c9m-2mE44jd" title="Petronas Gas station"><img src="https://live.staticflickr.com/5003/5372224046_a878d9b0a2_z.jpg" width="640" height="480" alt="Petronas Gas station"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/billygabriel/5372224046/in/photolist-9bJ43w-8QpZKL-9bEzdg-nvL2xS-bUgAbT-2mE8sjh-fFKs4Q-2mE44z8-RUaAcE-8uFLKU-bVcaJ4-PNvA1o-R15Md1-ccz1kq-2mYYVcq-nEiFFQ-nEiF6m-nJ8Miz-ccyAPA-2mE5bwz-bVcDNz-A4v46-ABPw3d-2jAjDCf-5CnER3-cbgDSy-SWMWF1-5FLWJU-6M2N3M-6M2Rz6-6M2PzF-PkiP4-5FLWJW-RUayRU-ecEScJ-p5s4es-SWMY8Q-ccA7Tu-8t4eri-2e6Ddew-NgZr15-5FS3JF-2kA1huM-Bzm6yx-21rD6FW-V9Z17Z-Nkdag4-2dNGFdZ-8t7c9m-2mE44jd" title="Petronas Gas station"><img src="https://live.staticflickr.com/5003/5372224046_a878d9b0a2_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 5372224046 a878d9b0a2 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -111,7 +111,7 @@ Kata 'AWAS' berarti 'hati-hati' dalam Bahasa Melayu {{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="640px Tasik Y Recreational Park 5">
+<img src="/rule/asia/malaysia/640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="Malaysia GeoGuessr guide image showing 640px Tasik Y Recreational Park 5">
 </div>
 
 {{% /tab %}}
@@ -153,12 +153,12 @@ Tulisan Jawi banyak digunakan di wilayah utara Semenanjung Malaysia (Trengganu, 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Signboard with islamic calligraphy">
+<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing Signboard With Islamic Calligraphy">
 </div>
 {{% /tab %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="2023 05 11 14 03 32" />
+<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -171,7 +171,7 @@ Area di sekitar Palm Oil Mill yang ditandai dengan lingkaran merah <span style="
 {{% /tab %}}
 {{% tab "Sawah" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="2023 05 11 14 03 53" />
+<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -199,7 +199,7 @@ Lokasinya berada di ujung timur Malaysia {{% ex "https://goo.gl/maps/RB8M8NmTHae
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" wdith="90%" alt="Mabul island semporna sabah" />
+<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" wdith="90%" alt="Malaysia GeoGuessr guide image showing Mabul Island Semporna Sabah" />
 </div>
 {{% /tab %}}
 {{% tab "Pulau Tioman" %}}

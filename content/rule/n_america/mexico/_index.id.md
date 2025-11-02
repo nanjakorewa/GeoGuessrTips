@@ -47,35 +47,35 @@ sc: [
 ~Banyak perusahaan besar di Meksiko memiliki nama MEX.{{% ex "https://maps.app.goo.gl/gNra8Maea9uZVtbq6" "https://maps.app.goo.gl/8KFUqaVqer1kcotr5" %}}.Raksasa minyak Pemex, raksasa telekomunikasi Telmex, raksasa semen Cemex, dll.OXXO adalah toko serba ada besar di Meksiko dan sering ditemukan di sekitar kota.Namun, OXXO{{% goto "../../cs_america/chile/" "Chili" %}}Harap dicatat bahwa ada juga toko di daerah perkotaan.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Nuevo Vallarta Mexico"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/byianthrelkeld/12165998974/in/photolist-7EWF74-Reoq1-2PyyeU-Diq5Dh-Dqq2Do-DqYqju-FBGNgX-g5Qs9g-95rSHu-5vvija-5qCdAQ-kSwxpV-da2mrv-cu1GVW-5zqS91-8sEy6x-jx4VD1-jx6dcm-56dcAf-UvKBnw-KeeVQx-85vHdB" title="Nuevo Vallarta Mexico"><img src="https://live.staticflickr.com/2831/12165998974_8ce6006e76_c.jpg" width="800" height="502" alt="Image from live.staticflickr.com showing 12165998974 8ce6006e76 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="Oxxo Logo">
-<img src="/rule/n_america/mexico/c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="Logo de Petróleos Mexicanos (2019)">
-<img src="/rule/n_america/mexico/c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="Comex">
+<img src="/rule/n_america/mexico/c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="C GeoGuessr guide image showing Oxxo Logo">
+<img src="/rule/n_america/mexico/c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="C GeoGuessr guide image showing Logo De Petróleos Mexicanos (2019)">
+<img src="/rule/n_america/mexico/c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="C GeoGuessr guide image showing Comex">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">segi delapan</span> Tiang teleponnya khas.{{% ex "https://maps.app.goo.gl/bsde6FgabHDDxeBKA" "https://maps.app.goo.gl/2r1h6b5RaUfWDMTW8" "https://maps.app.goo.gl/KzddnjrWnkGvxGSz8" "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}.Namun{{% goto "../../cs_america/colombia/" "Kolumbia" %}}Namun terkadang tidak 100% Meksiko, jadi saya menilainya Meksiko berdasarkan suasana sekitar (Contoh Kolombia){{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}).Jika Anda melihat tulisan "~MEX" di tiang telepon, Anda pasti berada di Meksiko.{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/pole.png" width="90%" alt="Pole">
+<img src="/rule/n_america/mexico/pole.png" width="90%" alt="Mexico GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
 Tomare berkata “<span class="quiz">ALTO</span>”{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}adalah Meksiko{{% goto "../guatemala/" "Guatemala" %}}・{{% goto "../costa_rica/" "Kosta Rika" %}}・{{% goto "../panama/" "Panama" %}}Yang mana?Selain itu, saya merasa panah di Meksiko cukup tebal.{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://maps.app.goo.gl/jSirkndzbABnynKC8" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="Alto stop sign">
-<img src="/rule/n_america/mexico/r/arrow.png" width="90px" style="margin-left:20px" alt="Arrow">
+<img src="/rule/n_america/mexico/r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="R GeoGuessr guide image showing Alto Stop Sign">
+<img src="/rule/n_america/mexico/r/arrow.png" width="90px" style="margin-left:20px" alt="R GeoGuessr guide image showing Arrow">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">putih</span> warna dan <span class="quiz">hitam</span> Ada tiang-tiang melingkar yang dicat warna-warni.{{% ex "https://maps.app.goo.gl/XPDGtA3y2TRQWiRh8" "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="/rule/n_america/mexico/bollard.png" width="90%" alt="Bollard"></div></p>
+<p><div class="unclickable"><img src="/rule/n_america/mexico/bollard.png" width="90%" alt="Mexico GeoGuessr guide image showing Bollard"></div></p>
 <p>Oleh <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> Pada <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">Wikipedia bahasa Inggris</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
@@ -83,14 +83,14 @@ Tomare berkata “<span class="quiz">ALTO</span>”{{% ex "https://maps.app.goo.
 <span class="quiz">lingkaran</span> Ada meteran listrik yang berbentuk{{% ex "https://maps.app.goo.gl/vq4ZQzWQm1JA16nf7" "https://maps.app.goo.gl/3tpvyCGuuz7hytbw9" "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "Saya ingin mengingat satu negara dengan satu gambar.③Meksiko"  %}}.Juga dengan Meksiko{{% goto "../panama/" "Panama" %}}Kalau begitu <span class="quiz">air</span> Antena berwarna sering terlihat{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/house.png" width="90%" alt="House">
+<img src="/rule/n_america/mexico/house.png" width="90%" alt="Mexico GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
 Bir Corona diproduksi oleh pabrik bir Meksiko Grupo Modelo{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "bir corona" %}}Anda dapat melihat logonya{{% ex "https://maps.app.goo.gl/TdTohN8oujw4QT9r8" "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/bottle_beer_beach_drink.jpg" width="90%" alt="Bottle beer beach drink">
+<img src="/rule/n_america/mexico/bottle_beer_beach_drink.jpg" width="90%" alt="Mexico GeoGuessr guide image showing Bottle Beer Beach Drink">
 </div>
 
 {{% /tab %}}
@@ -163,7 +163,7 @@ baja california
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mexico_Regional_Indicators_for_Phone_Numbers.png#/media/File:Mexico_Regional_Indicators_for_Phone_Numbers.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Mexico_Regional_Indicators_for_Phone_Numbers.png" alt="File:Mexico Regional Indicators for Phone Numbers.png" height="720" width="1107"></a></p><p>Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:XIC123&amp;action=edit&amp;redlink=1" class="new" title="User:XIC123 (page does not exist)">XIC123</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149986159">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mexico_Regional_Indicators_for_Phone_Numbers.png#/media/File:Mexico_Regional_Indicators_for_Phone_Numbers.png"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Mexico_Regional_Indicators_for_Phone_Numbers.png" alt="Wikimedia Commons photo showing Mexico Regional Indicators For Phone Numbers" height="720" width="1107"></a></p><p>Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:XIC123&amp;action=edit&amp;redlink=1" class="new" title="User:XIC123 (page does not exist)">XIC123</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=149986159">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -186,7 +186,7 @@ baja california
 {{% tabs %}}
 {{% tab "tenaga angin" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/mexico/Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Map of wind energy in Mexico Data from INEGI Marco Geoestadistico Nacional">
+<img src="/rule/n_america/mexico/Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Mexico GeoGuessr guide image showing Map Of Wind Energy In Mexico Data From Inegi Marco Geoestadistico Nacional">
 </div>
 
 
@@ -224,7 +224,7 @@ Secara umum, hal ini biasa terjadi di daerah pesisir dan pegunungan di mana angi
 {{% tab "Vegetasi dan sebaran tanah" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/distribution.png" width="540px" alt="Distribution" />
+<img src="/rule/n_america/mexico/distribution.png" width="540px" alt="Mexico GeoGuessr guide image showing Distribution" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em">
 Sumber gambar:<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html">Dari referensi</a>, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC OLEH 4.0</a>
@@ -239,7 +239,7 @@ Sumber gambar:<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCS
 {{% tab "bagian terdalam dari Teluk California" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/others.jpg" width="540px" alt="Others" />
+<img src="/rule/n_america/mexico/veg/others.jpg" width="540px" alt="Veg GeoGuessr guide image showing Others" />
 </div>
 
 {{% notice tip %}}
@@ -255,7 +255,7 @@ Sepertinya tidak ada pohon atau kaktus yang tumbuh di sana.
 {{% tab "semenanjung baja california" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/wast-p.jpg" width="540px" alt="Wast p" />
+<img src="/rule/n_america/mexico/veg/wast-p.jpg" width="540px" alt="Veg GeoGuessr guide image showing Wast P" />
 </div>
 
 {{% notice tip %}}
@@ -271,7 +271,7 @@ Ada tempat di mana kaktus tumbuh.Diagramnya terlalu disederhanakan; masih banyak
 {{% tab "pertanian barat" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/agriculture.jpg" width="540px" alt="Agriculture" />
+<img src="/rule/n_america/mexico/veg/agriculture.jpg" width="540px" alt="Veg GeoGuessr guide image showing Agriculture" />
 </div>
 
 {{% notice tip %}}
@@ -287,7 +287,7 @@ Itu datar dan Anda bisa melihat pertanian, dan terkadang Anda bisa melihat pegun
 {{% tab "wilayah pegunungan bagian barat" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/west-mt.jpg" width="540px" alt="West mt" />
+<img src="/rule/n_america/mexico/veg/west-mt.jpg" width="540px" alt="Veg GeoGuessr guide image showing West Mt" />
 </div>
 
 {{% notice tip %}}
@@ -303,7 +303,7 @@ Itu datar dan Anda bisa melihat pertanian, dan terkadang Anda bisa melihat pegun
 {{% tab "bagian tengah" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/center.jpg" width="540px" alt="Center" />
+<img src="/rule/n_america/mexico/veg/center.jpg" width="540px" alt="Veg GeoGuessr guide image showing Center" />
 </div>
 
 {{% notice tip %}}
@@ -319,7 +319,7 @@ Itu datar dan Anda bisa melihat pertanian, dan terkadang Anda bisa melihat pegun
 {{% tab "pertanian timur" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/east-agri.jpg" width="540px" alt="East agri" />
+<img src="/rule/n_america/mexico/veg/east-agri.jpg" width="540px" alt="Veg GeoGuessr guide image showing East Agri" />
 </div>
 
 {{% notice tip %}}
@@ -335,7 +335,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "Veracruz ke Tabasco" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/grassland.jpg" width="540px" alt="Grassland" />
+<img src="/rule/n_america/mexico/veg/grassland.jpg" width="540px" alt="Veg GeoGuessr guide image showing Grassland" />
 </div>
 
 {{% notice tip %}}
@@ -351,7 +351,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "Semenanjung Yucatan Utara" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/tropical-dry.jpg" width="540px" alt="Tropical dry" />
+<img src="/rule/n_america/mexico/veg/tropical-dry.jpg" width="540px" alt="Veg GeoGuessr guide image showing Tropical Dry" />
 </div>
 
 {{% notice tip %}}
@@ -367,7 +367,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "Selatan Semenanjung Yucatan" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/tropical-humid.jpg" width="540px" alt="Tropical humid" />
+<img src="/rule/n_america/mexico/veg/tropical-humid.jpg" width="540px" alt="Veg GeoGuessr guide image showing Tropical Humid" />
 </div>
 
 {{% notice tip %}}
@@ -383,7 +383,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "kopra" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/copra.png" width="90%" alt="Copra" />
+<img src="/rule/n_america/mexico/copra.png" width="90%" alt="Mexico GeoGuessr guide image showing Copra" />
 </div>
 
 {{% notice tip %}}
@@ -397,7 +397,7 @@ Ada perkebunan kelapa di sepanjang pantai Guerrero.{{% ref "https://ipad.fas.usd
 {{% /tab %}}
 {{% tab "kelapa sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/palm-oil.png" width="90%" alt="Palm oil" />
+<img src="/rule/n_america/mexico/palm-oil.png" width="90%" alt="Mexico GeoGuessr guide image showing Palm Oil" />
 </div>
 
 {{% notice tip %}}
@@ -434,7 +434,7 @@ Domain Publik
 {{% /lb %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/irvmark/273366334/in/photolist-qa5hE-pnxCv-qaa9G-qa7tC-dHmjnJ-f54uhn-23jMwsv-q9RYN-aSpcNH-qvnkBH-aSo66v-aSghV4-4SPnzY-aSg3ip-aSo1dk-aSg5GF-M1cdkh-dHgiFa-6sjFss-2fmSGaf-aSg9tM-dHhaCt-aSgiZx-QTbBa4-dHnAC7-MvQjqz-4xDjtV-q5i2K2-pFo7G-qaeR7-rNmYf-qabud-dHmUbo-qaqJY-5NkZbY-q9TV1-ejX2wq-f5zyK6-5hDw98-pFqPK-pyBrKp-pFRvdt-qa9h3-pFBNip-vP7m5D-bLnYoi-bqB1pm-28sym39-oK12ed-8SsZ1j" title="Expo 2006"><img src="https://live.staticflickr.com/106/273366334_8f2030bf93.jpg" width="500" height="375" alt="Expo 2006"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/irvmark/273366334/in/photolist-qa5hE-pnxCv-qaa9G-qa7tC-dHmjnJ-f54uhn-23jMwsv-q9RYN-aSpcNH-qvnkBH-aSo66v-aSghV4-4SPnzY-aSg3ip-aSo1dk-aSg5GF-M1cdkh-dHgiFa-6sjFss-2fmSGaf-aSg9tM-dHhaCt-aSgiZx-QTbBa4-dHnAC7-MvQjqz-4xDjtV-q5i2K2-pFo7G-qaeR7-rNmYf-qabud-dHmUbo-qaqJY-5NkZbY-q9TV1-ejX2wq-f5zyK6-5hDw98-pFqPK-pyBrKp-pFRvdt-qa9h3-pFBNip-vP7m5D-bLnYoi-bqB1pm-28sym39-oK12ed-8SsZ1j" title="Expo 2006"><img src="https://live.staticflickr.com/106/273366334_8f2030bf93.jpg" width="500" height="375" alt="Image from live.staticflickr.com showing 273366334 8f2030bf93"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Nayarit" %}}
@@ -471,7 +471,7 @@ Ada banyak plat nomor dengan warna merah di kanan bawah di sekitar Nayarit.
 
 {{% tabs %}}
 {{% tab "kota Meksiko" %}}
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="DSC08423"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/markgeneva10/22251804256/in/photolist-XNiLZA-24izc15-24cLHRt-XBr73A-DboPMM-24MYSPa-LrhgUo-249iAMa-2bydvC8-zUjjaw-SV9BTG-MyLJYk-JfA81y-HbQzAy-WHsjmp-yrqYM5" title="DSC08423"><img src="https://live.staticflickr.com/5634/22251804256_5f89568429_b.jpg" width="1024" height="521" alt="Image from live.staticflickr.com showing 22251804256 5f89568429 B"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 {{% /tab %}}
 {{% tab "sonora" %}}
 <div class="googlemap-if">
@@ -520,7 +520,7 @@ Sebuah pulau yang terletak di Danau Patzcuaro di negara bagian Michoacán.Patung
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/mexico/janitzio.jpg" alt="Janitzio">
+<img src="/rule/n_america/mexico/janitzio.jpg" alt="Mexico GeoGuessr guide image showing Janitzio">
 </div>
 {{% /tab %}}
 {{% tab "Holbox" %}}
@@ -530,7 +530,7 @@ Sebuah pulau di pantai utara Semenanjung Yucatan.Tempat ini ditetapkan sebagai c
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg#/media/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Golfcar_Holbox_island_Mexico_%2820153467086%29.jpg" alt="Golfcar Holbox island Mexico (20153467086).jpg" height="720" width="540"></a></p><p>Oleh <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/132646954@N02/20153467086/">mobil golf Pulau Holbox Meksiko</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC OLEH 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45111266">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg#/media/File:Golfcar_Holbox_island_Mexico_(20153467086).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Golfcar_Holbox_island_Mexico_%2820153467086%29.jpg" alt="Wikimedia Commons photo showing Golfcar Holbox Island Mexico (20153467086)" height="720" width="540"></a></p><p>Oleh <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132646954@N02">dronepicr</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/132646954@N02/20153467086/">mobil golf Pulau Holbox Meksiko</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC OLEH 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=45111266">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Cozumel" %}}
@@ -540,7 +540,7 @@ Sebuah destinasi wisata di sebuah pulau terpencil di sebelah timur Semenanjung Y
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%" alt="1259px Ford Transit Cozumel Taxi" />
+<img src="/rule/n_america/mexico/1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%" alt="Mexico GeoGuessr guide image showing 1259px Ford Transit Cozumel Taxi" />
 </div>
 {{% /tab %}}
 {{% tab "Isla Mujeres" %}}
@@ -550,7 +550,7 @@ Sebuah pulau terpencil dekat Cancun.{{% goto "../../europe/italy/#Lampedusa" "Pu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/la_noruega_009.jpg" width="95%" alt="La noruega 009" />
+<img src="/rule/n_america/mexico/la_noruega_009.jpg" width="95%" alt="Mexico GeoGuessr guide image showing La Noruega 009" />
 </div>
 {{% /tab %}}
 {{% tab "Popocatepetl" %}}
@@ -560,7 +560,7 @@ Cuacanya mendung dan saya tidak bisa melihat pegunungan, tapi saya bisa melihat 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/volcano_snow_nature_950313.jpg" width="95%" alt="Volcano snow nature 950313" />
+<img src="/rule/n_america/mexico/volcano_snow_nature_950313.jpg" width="95%" alt="Mexico GeoGuessr guide image showing Volcano Snow Nature 950313" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -39,7 +39,7 @@ sc: [
 特徴的な網目のある電柱が見つかる{{% ex "https://maps.app.goo.gl/hqXfjySphhMKgX5BA" "https://maps.app.goo.gl/EFV8RDZC1zBjY2WVA" "https://maps.app.goo.gl/6FCynZ4NfJy7T5828" "https://maps.app.goo.gl/NvMPNpqyVML678oj9" "https://maps.app.goo.gl/dcHxnvg6oJpsGxYA9" "https://goo.gl/maps/DepnkcPuYJJiCaP2A" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:El_kantara-stegop-03.jpg#/media/File:El_kantara-stegop-03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/El_kantara-stegop-03.jpg" alt="El kantara-stegop-03.jpg" width="95%"></a></p><p>By © Jose Mario Pires, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20885309">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:El_kantara-stegop-03.jpg#/media/File:El_kantara-stegop-03.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/El_kantara-stegop-03.jpg" alt="Wikimedia Commons photo showing El Kantara Stegop 03" width="95%"></a></p><p>By © Jose Mario Pires, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20885309">Link</a></p>
 </div>
 
 
@@ -47,7 +47,7 @@ sc: [
 水色と白が基調の建物が多い{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}。縁石やシェブロンも白と水色の組合せ{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%" alt="House">
+<img src="./house.png" width="90%" alt="Tunisia GeoGuessr guide image showing House">
 </div>
 
 
@@ -57,7 +57,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="95%" alt="Car">
+<img src="./car.png" width="95%" alt="Tunisia GeoGuessr guide image showing Car">
 </div>
 
 

@@ -19,7 +19,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="/web/free/2023-10-15-00-08-36.png" alt="2023 10 15 00 08 36">
+<img src="/web/free/2023-10-15-00-08-36.png" alt="Web Free image showing 2023 10 15 00 08 36">
 </div>
 
 
@@ -28,7 +28,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="/web/free/2023-10-15-00-11-39.png" alt="2023 10 15 00 11 39">
+<img src="/web/free/2023-10-15-00-11-39.png" alt="Web Free image showing 2023 10 15 00 11 39">
 </div>
 
 {{% notice tip %}}
@@ -36,8 +36,8 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if no-margin" style="pointer-events: none;">
-<img src="/web/free/2023-10-15-00-16-30.png" alt="2023 10 15 00 16 30">
-<img src="/web/free/2023-10-15-00-18-58.png" alt="2023 10 15 00 18 58">
+<img src="/web/free/2023-10-15-00-16-30.png" alt="Web Free image showing 2023 10 15 00 16 30">
+<img src="/web/free/2023-10-15-00-18-58.png" alt="Web Free image showing 2023 10 15 00 18 58">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="/web/free/2023-10-15-00-20-13.png" alt="2023 10 15 00 20 13">
+<img src="/web/free/2023-10-15-00-20-13.png" alt="Web Free image showing 2023 10 15 00 20 13">
 </div>
 
 {{% /tab %}}
@@ -56,7 +56,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="/web/free/2023-10-15-00-32-34.png" alt="2023 10 15 00 32 34">
+<img src="/web/free/2023-10-15-00-32-34.png" alt="Web Free image showing 2023 10 15 00 32 34">
 </div>
 
 
@@ -64,7 +64,7 @@ sections: [""]
 2. Completa el tutorial. Verás lugares como la Torre Eiffel y la Estatua de la Libertad. Al terminar, <span style="font-weight:bold;">verifica que el nombre de tu cuenta no sea tu dirección de Gmail.</span> Puedes cambiarlo con los botones rojos de abajo.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="/web/free/2023-10-15-00-44-25.png" alt="2023 10 15 00 44 25">
+<img src="/web/free/2023-10-15-00-44-25.png" alt="Web Free image showing 2023 10 15 00 44 25">
 </div>
 
 

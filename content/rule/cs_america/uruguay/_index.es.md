@@ -38,7 +38,7 @@ sc: [
 Las señales están montadas en tablones <span class="quiz">blancos</span> con orificios cuadrados{{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}. Los bolardos también son mayoritariamente <span class="quiz">blancos</span>; incluso cuando hay bolardos amarillos, los laterales siguen siendo blancos. Las matrículas uruguayas son casi <span class="quiz">blancas</span>{{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}, mientras que en {{% goto "../argentina/" "Argentina" %}} el centro se ve negro.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Señales uruguayas">
+<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Uruguay GeoGuessr guide image showing Road">
 </div>
 
 {{% lb 50 small %}}
@@ -51,7 +51,7 @@ Por <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wik
 La línea central de la carretera es característica{{% ex "https://maps.app.goo.gl/seXU3MXkz3NFSpE3A" %}}. También hay plantaciones con filas de árboles idénticos{{% ex "https://maps.app.goo.gl/3SHSy4SYnA84L6bp9" %}}. Uruguay es muy llano y sin montañas, por lo que estos árboles probablemente sirven como cortavientos o refugio para el ganado{{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "Recordando la vida en Uruguay" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Ruta30accesoaTranqueras.jpg" height="432" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Wikimedia Commons photo showing Ruta30accesoaTranqueras" height="432" width="640"></a></p>
 <p>Por <a href="//commons.wikimedia.org/wiki/User:CITY_MVD" title="User:CITY MVD">CITY MVD</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98375088">Link</a></p>
 </div>
 
@@ -59,9 +59,9 @@ La línea central de la carretera es característica{{% ex "https://maps.app.goo
 La petrolera estatal ANCAP controla la mayor parte del sector energético, por lo que sus gasolineras abundan{{% ref "https://en.wikipedia.org/wiki/ANCAP_(Uruguay)" "ANCAP - Uruguay" %}}. En {{% goto "../argentina/" "Argentina" %}}, la empresa estatal es YPF.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Image from live.staticflickr.com showing 4261383542 2472279d20 W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <div class="unclickable">
-<img src="/rule/cs_america/uruguay/Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px" alt="Logo ancap">
+<img src="/rule/cs_america/uruguay/Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px" alt="Uruguay GeoGuessr guide image showing Logo Ancap">
 </div>
 </div>
 
@@ -81,7 +81,7 @@ Las rejas simples y los caminos de tierra también aparecen, pero son menos dete
 Casi la mitad de la producción de cebada y soja proviene de Soriano y Colonia en el suroeste{{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}. El maíz y la colza también se concentran en el oeste, así que un paisaje de campos extensos suele sugerir esa región{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Uruguay Production" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" alt="Uruguay Barley">
+<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" alt="Uruguay GeoGuessr guide image showing Uruguay Barley">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -102,7 +102,7 @@ Ni en el poblado ni en el camino de acceso se usa el coche negro de Google{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%" alt="Casaspolonio">
+<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%" alt="Uruguay GeoGuessr guide image showing Casaspolonio">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}
@@ -112,7 +112,7 @@ El recorrido es a pie y hay un gran faro{{% ex "https://maps.app.goo.gl/yUneXHrd
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Faro Isla de Flores y construcciones. 02.JPG" height="640" width="1280"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;action=edit&amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Wikimedia Commons photo showing Faro Isla De Flores Y construcciones. 02" height="640" width="1280"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;action=edit&amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

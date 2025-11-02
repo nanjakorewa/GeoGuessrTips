@@ -43,7 +43,7 @@ sc: [
 Expect bollards with black-painted surrounds and either angular posts {{% ex "https://maps.app.goo.gl/RuyiCWAvX8V6sRmW6" %}} or slim rounded ones {{% ex "https://maps.app.goo.gl/mNSyLvjRxym8jeKn7" "https://maps.app.goo.gl/Uj4iPzQtRj87AkQt7" %}}. Guardrails are curved, and the Google Car antenna is often missing from the footage.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:R._of_Macedonia_,_%D0%A0.%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_-_panoramio_(38).jpg#/media/File:R._of_Macedonia_,_Р.Македонија_-_panoramio_(38).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/R._of_Macedonia_%2C_%D0%A0.%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_-_panoramio_%2838%29.jpg" alt="R. of Macedonia panorama" height="720" width="960"></a></p><p>METOKARA, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=56952790">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:R._of_Macedonia_,_%D0%A0.%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_-_panoramio_(38).jpg#/media/File:R._of_Macedonia_,_Р.Македонија_-_panoramio_(38).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/R._of_Macedonia_%2C_%D0%A0.%D0%9C%D0%B0%D0%BA%D0%B5%D0%B4%D0%BE%D0%BD%D0%B8%D1%98%D0%B0_-_panoramio_%2838%29.jpg" alt="Wikimedia Commons photo showing R. Of Macedonia , Р.Македонија Panoramio (38)" height="720" width="960"></a></p><p>METOKARA, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=56952790">Link</a></p>
 </div>
 
 
@@ -62,7 +62,7 @@ By Upwinxp – Own work, CC BY 4.0, <a href="https://commons.wikimedia.org/w/ind
 Watch for the letters <span class="quiz">Ќ</span> and <span class="quiz">Ѓ</span>. The black sign in the photo shows the letter Ќ in the middle.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/marcmatter/24811858157/" title="Skopje - ТЕАТАР КОМЕДИЈА"><img src="https://live.staticflickr.com/4615/24811858157_ed741ba4fb_z.jpg" width="640" height="427" alt="Skopje - ТЕАТАР КОМЕДИЈА"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/marcmatter/24811858157/" title="Skopje - ТЕАТАР КОМЕДИЈА"><img src="https://live.staticflickr.com/4615/24811858157_ed741ba4fb_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 24811858157 ed741ba4fb Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -75,7 +75,7 @@ Watch for the letters <span class="quiz">Ќ</span> and <span class="quiz">Ѓ</sp
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686315288931!6m8!1m7!1srTCpo9hVCHjwqxsLsg_27g!2m2!1d41.97510302684993!2d21.45374083354337!3f213.89959290203691!4f9.107857485123375!5f1.6351547338655483" width="530" height="250" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div class="unclickable">
-<img src="/rule/europe/macedonia/2023-06-09-23-16-18.png" width="530" alt="Tinex locations">
+<img src="/rule/europe/macedonia/2023-06-09-23-16-18.png" width="530" alt="Macedonia GeoGuessr guide image showing 2023 06 09 23 16 18">
 </div>
 </div>
 
@@ -95,7 +95,7 @@ Watch for the letters <span class="quiz">Ќ</span> and <span class="quiz">Ѓ</sp
 {{% tab "Ohrid" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ohrid,_North_Macedonia_2022_-_Taxi_Stand.jpg#/media/File:Ohrid,_North_Macedonia_2022_-_Taxi_Stand.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Ohrid%2C_North_Macedonia_2022_-_Taxi_Stand.jpg" alt="Taxi stand in Ohrid" width="90%"></a></p><p>By Sharon Hahn Darlin - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/sharonhahndarlin/52396951461/">https://www.flickr.com/photos/sharonhahndarlin/52396951461/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123626652">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ohrid,_North_Macedonia_2022_-_Taxi_Stand.jpg#/media/File:Ohrid,_North_Macedonia_2022_-_Taxi_Stand.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Ohrid%2C_North_Macedonia_2022_-_Taxi_Stand.jpg" alt="Wikimedia Commons photo showing Ohrid, North Macedonia 2022 Taxi Stand" width="90%"></a></p><p>By Sharon Hahn Darlin - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/sharonhahndarlin/52396951461/">https://www.flickr.com/photos/sharonhahndarlin/52396951461/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123626652">Link</a></p>
 </div>
 
 {{% /tab %}}

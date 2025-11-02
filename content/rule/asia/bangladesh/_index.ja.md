@@ -39,28 +39,28 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./lawachara_national_park_srimongol_11.jpg" alt="Lawachara national park srimongol 11">
+<img src="./lawachara_national_park_srimongol_11.jpg" alt="Bangladesh GeoGuessr guide image showing Lawachara National Park Srimongol 11">
 </div>
 
 {{% notice tip %}}
 大気汚染が深刻であり、遠くを見通すことはできない{{% ex "https://maps.app.goo.gl/bBt16yQKmSpGxcVb8" "https://maps.app.goo.gl/ifQ3s8WXn1DMvDqh7" %}}。晴れていても綺麗な青空は見えにくい{{% ex "https://maps.app.goo.gl/HmWXhfnuT4dRvLQ58" "https://maps.app.goo.gl/zoo7u8eXP1jozr4s8" %}}{{% ref "https://www.jetro.go.jp/biznews/2022/12/570e80aea921e643.html" "PM2.5が高レベル、深刻なダッカの大気汚染 - 独立行政法人日本貿易振興機構 " %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Agargaon_road.jpg#/media/File:Agargaon_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Agargaon_road.jpg" alt="Agargaon road.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Wasiul_Bahar" title="User:Wasiul Bahar">Wasiul Bahar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128862861">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Agargaon_road.jpg#/media/File:Agargaon_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Agargaon_road.jpg" alt="Wikimedia Commons photo showing Agargaon Road" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Wasiul_Bahar" title="User:Wasiul Bahar">Wasiul Bahar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128862861">Link</a></p>
 </div>
 
 {{% notice tip %}}
 <span class="quiz">赤と白の縞</span>模様のボラード{{% ex "https://goo.gl/maps/FXyZSBDhQxyLJgAx8" "https://goo.gl/maps/djE6ddcQJ4XnXBDm7" "https://goo.gl/maps/fg21XCovQp6h45SB6" %}}。橋の近くの道の両サイドにたくさん並んでいることが多い{{% imref %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollards.png" width="90%" alt="バングラディシュのボラード" />
+<img src="./bollards.png" width="90%" alt="Bangladesh GeoGuessr guide image showing Bollards" />
 </div>
 
 {{% notice tip %}}
 商用車は<span class="quiz">緑</span>色のナンバープレート{{% ex "https://goo.gl/maps/KKJ62DgMidGh8CGAA" "https://goo.gl/maps/MkCNxDCtyamCxoBm6" "https://maps.app.goo.gl/KzyCsQJnmutmvobL8" %}}で一般乗用車は白色。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Bedford TK truck, Bangladesh."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/shadman_samee/39807291020/" title="Bedford TK truck, Bangladesh."><img src="https://live.staticflickr.com/875/39807291020_b9c44c4f69_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 39807291020 b9c44c4f69 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 small %}}
@@ -71,7 +71,7 @@ sc: [
 {{% notice tip %}}トゥクトゥクのような形をした<span class="quiz">CNGリキシャ</span>も特徴的{{% ex "https://maps.app.goo.gl/352hBjY28HvRoYxv9" "https://maps.app.goo.gl/SZeqAz2D1qJds1y89" %}}。これも<span class="quiz">緑</span>色のナンバープレートを付けている{{% ex "https://goo.gl/maps/z39nDkDGZhmCn4ij6" "https://maps.app.goo.gl/mFSzfWmNdY8od8dV7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="CNG auto-rickshaw stand in Kandirpar, Comilla 2.jpg" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg#/media/File:CNG_auto-rickshaw_stand_in_Kandirpar,_Comilla_2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/CNG_auto-rickshaw_stand_in_Kandirpar%2C_Comilla_2.jpg" alt="Wikimedia Commons photo showing Cng Auto Rickshaw Stand In Kandirpar, Comilla 2" width="85%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ibrahim_Husain_Meraj" title="User:Ibrahim Husain Meraj">Ibrahim Husain Meraj</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=65612598">Link</a></p>
 </div>
 
 
@@ -79,7 +79,7 @@ sc: [
 バングラディシュのGoogleCarは<span class="quiz">赤色のミラーが映っている</span>ことがある{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}（例を参照してください）
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc.jpg" width="600px" alt="Gc">
+<img src="./gc.jpg" width="600px" alt="Bangladesh GeoGuessr guide image showing Gc">
 </div>
 
 
@@ -146,7 +146,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-52-31.png" width="90%" alt="2023 06 19 08 52 31">
+<img src="2023-06-19-08-52-31.png" width="90%" alt="Bangladesh GeoGuessr guide image showing 2023 06 19 08 52 31">
 </div>
 
 {{% /tab %}}
@@ -169,7 +169,7 @@ sc: [
 シタクンダ郡の海沿～チッタゴン沿岸にChittagong Ship Breaking Yardがある。道は少ないが、海沿いからは大量の船を見ることができる{{% ex "https://maps.app.goo.gl/TjLLHMsiLwuPmM7v6" "https://maps.app.goo.gl/Y29XGoc2uAArdGCU9" %}}。SHIP BREAKINGと名のついた会社が道沿いにみつかることが多い{{% ex "https://maps.app.goo.gl/3ExLLNR8z7yXBL4v5" "https://maps.app.goo.gl/ZpaGL9C4DUPeYiL67" "https://maps.app.goo.gl/DNTAkdvEv6NLCoiQ8" %}}。鉄リサイクル関係の会社もチッタゴン付近に多いイメージ。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Jafrabad_Chittagong_shipbreaking_(1).JPG#/media/File:Jafrabad_Chittagong_shipbreaking_(1).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jafrabad_Chittagong_shipbreaking_%281%29.JPG" alt="Jafrabad Chittagong shipbreaking" height="360" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Jafrabad_Chittagong_shipbreaking_(1).JPG#/media/File:Jafrabad_Chittagong_shipbreaking_(1).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jafrabad_Chittagong_shipbreaking_%281%29.JPG" alt="Wikimedia Commons photo showing Jafrabad Chittagong Shipbreaking (1)" height="360" width="640"></a></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/55035375@N03">Stéphane M. Grueso</a> from Madrid, Spain - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/stephanemgrueso/5481426109/">Shipwreck-7</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=16109046">Link</a></p>
 </div>
 {{% /tab %}}

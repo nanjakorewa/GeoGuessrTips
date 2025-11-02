@@ -37,7 +37,7 @@ sc: [
 Los vehículos particulares llevan matrículas <span class="quiz">negras</span> y se circula por la derecha{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}. En cambio, {{% goto "../thai/" "Tailandia" %}} conduce por el <span class="quiz">lado izquierdo</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/laos/car.jpg" width="90%" alt="Car">
+<img src="/rule/asia/laos/car.jpg" width="90%" alt="Laos GeoGuessr guide image showing Car">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ El idioma oficial es el lao, por lo que las señales de alto y otros avisos tien
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/laos/960px-Fari-Wechsel.jpg" width="90%" alt="960px Fari Wechsel">
+<img src="/rule/asia/laos/960px-Fari-Wechsel.jpg" width="90%" alt="Laos GeoGuessr guide image showing 960px Fari Wechsel">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -72,7 +72,7 @@ Varias señales tienen la cara posterior pintada de color <span class="quiz">cel
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/laos/roadsign.jpg" width="85%" alt="Roadsign">
+<img src="/rule/asia/laos/roadsign.jpg" width="85%" alt="Laos GeoGuessr guide image showing Roadsign">
 </div>
 
 {{% /tab %}}
@@ -121,7 +121,7 @@ El lao es el idioma oficial del país.
 {{% tabs %}}
 {{% tab "Vang Vieng" %}}
 <div class="googlemap-if">
-<img src="/rule/asia/laos/laos_vang_vieng_river.jpg" alt="Laos vang vieng river">
+<img src="/rule/asia/laos/laos_vang_vieng_river.jpg" alt="Laos GeoGuessr guide image showing Laos Vang Vieng River">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -135,7 +135,7 @@ El lao es el idioma oficial del país.
 {{% tabs %}}
 {{% tab "Vientián" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tigertraillaos/16227618552/in/photolist-qHYMCL-eKp32y-FL3W1C-f4kDBT-kt81PR-q2ViyM-bWbDNY-9jgM5v-bVqVeg-zhwqjQ-7YEAyp-9ktK7q-mvN8ma-q2X2fm-dUJfkx-82Nh98-9ea6Em-bWbzYN-a7PTjH-9desNB-psZmsY-p1A4Uy-pezcin-e1rVnD-q1Phe1-o8vh99-nR88ia-8j2N3q-brRuTi-5NJMNr-7naoKt-peBvkW-f4A5ih-j1EfGQ-55XdSn-o6Drfm-dXtLcz-kDGeiU-aqh24U-dWeFsK-c97dmd-anXwRj-68JHMi-dWkkjd-dUJ3zR-oG4xWA-AGwbpx-a9oNbU-qaEtBF-Cepnkp" title="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"><img src="https://live.staticflickr.com/8576/16227618552_bd37d6d2d8.jpg" width="500" height="333" alt="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tigertraillaos/16227618552/in/photolist-qHYMCL-eKp32y-FL3W1C-f4kDBT-kt81PR-q2ViyM-bWbDNY-9jgM5v-bVqVeg-zhwqjQ-7YEAyp-9ktK7q-mvN8ma-q2X2fm-dUJfkx-82Nh98-9ea6Em-bWbzYN-a7PTjH-9desNB-psZmsY-p1A4Uy-pezcin-e1rVnD-q1Phe1-o8vh99-nR88ia-8j2N3q-brRuTi-5NJMNr-7naoKt-peBvkW-f4A5ih-j1EfGQ-55XdSn-o6Drfm-dXtLcz-kDGeiU-aqh24U-dWeFsK-c97dmd-anXwRj-68JHMi-dWkkjd-dUJ3zR-oG4xWA-AGwbpx-a9oNbU-qaEtBF-Cepnkp" title="laos-vientiane-french-street-sign-tiger-trail-photo-by-cyril-eberle-CEB_9572"><img src="https://live.staticflickr.com/8576/16227618552_bd37d6d2d8.jpg" width="500" height="333" alt="Image from live.staticflickr.com showing 16227618552 bd37d6d2d8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Luang Prabang" %}}

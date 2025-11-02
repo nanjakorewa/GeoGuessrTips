@@ -39,7 +39,7 @@ sc: [
 Irlandia menggunakan bollard <span class="quiz">hijau</span> yang khas. {{% ex "https://goo.gl/maps/TsXkH3751vxJH2xe8" "https://goo.gl/maps/8qZiGUqUbmZQrCzE8" %}}{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/green-bollard.png" width="95%" alt="Bollard hijau Irlandia" />
+<img src="/rule/europe/ireland/green-bollard.png" width="95%" alt="Ireland GeoGuessr guide image showing Green Bollard" />
 </div>
 
 
@@ -47,24 +47,24 @@ Irlandia menggunakan bollard <span class="quiz">hijau</span> yang khas. {{% ex "
 Kotak pos publik juga berwarna <span class="quiz">hijau</span>. {{% goto "../../asia/china/" "Tiongkok" %}} dan {{% goto "../../africa/egypt/" "Mesir" %}} memiliki warna serupa, tetapi Street View di sana terbatas dan lanskapnya berbeda jauh. Bentuk kotak pos bervariasi di seluruh Irlandia.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/mailbox.jpg" width="90%" alt="Kotak pos Irlandia" />
+<img src="/rule/europe/ireland/mailbox.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Mailbox" />
 </div>
 
 {{% notice tip %}}
 Anda akan sering melihat rambu peringatan segitiga. Versi Irlandia biasanya tidak memuat sosok manusia, sedangkan Britania Raya kerap menampilkannya. Jika ada gambar orang, pikirkan UK; bila tidak ada, Irlandia lebih mungkin (ilustrasi referensi ini buatan sendiri).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/ireland/warning-sign.jpg" width="90%" alt="Sketsa rambu peringatan Irlandia" />
+<img src="/rule/europe/ireland/warning-sign.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Warning Sign" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/ireland/ie.png" width="120px" alt="Contoh rambu peringatan Irlandia">
+<img src="/rule/europe/ireland/ie.png" width="120px" alt="Ireland GeoGuessr guide image showing Ie">
 </div>
 
 {{% notice tip %}}
 Masih bingung antara Irlandia dan UK? <span class="quiz">Garis putus-putus kuning di tengah</span> sangat mengarah ke Irlandia. {{% ex "https://goo.gl/maps/TpiTmP97DT8SnKge9" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Kuliah world map (JP)" %}} Garis berhenti berwarna kuning justru menandakan {{% goto "../jersey/" "Jersey" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/ireland-road-yellowline.png" width="95%" alt="Garis tengah kuning Irlandia" />
+<img src="/rule/europe/ireland/ireland-road-yellowline.png" width="95%" alt="Ireland GeoGuessr guide image showing Ireland Road Yellowline" />
 </div>
 
 
@@ -72,7 +72,7 @@ Masih bingung antara Irlandia dan UK? <span class="quiz">Garis putus-putus kunin
 Nomor jalan dimulai dengan huruf R, N, atau M. Di Britania Raya, awalan yang lazim adalah B, A, atau M.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/2023-07-29-00-32-37.png" width="590px" alt="Contoh rambu jalan Irlandia" />
+<img src="/rule/europe/ireland/2023-07-29-00-32-37.png" width="590px" alt="Ireland GeoGuessr guide image showing 2023 07 29 00 32 37" />
 </div>
 
 
@@ -91,7 +91,7 @@ Nomor jalan dimulai dengan huruf R, N, atau M. Di Britania Raya, awalan yang laz
 {{% tabs %}}
 {{% tab "Dinding batu" %}}
 <div class="googlemap-if unclickable" width="95%">
-<img src="/rule/europe/ireland/burren.jpg" alt="Dinding batu kering di Burren">
+<img src="/rule/europe/ireland/burren.jpg" alt="Ireland GeoGuessr guide image showing Burren">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ Perhatikan mercusuar merahnya {{% ex "https://maps.app.goo.gl/j8DxHPDAx5dc9jK57"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ireland/inishturk_north.jpg" alt="Mercusuar Inishturk">
+<img src="/rule/europe/ireland/inishturk_north.jpg" alt="Ireland GeoGuessr guide image showing Inishturk North">
 </div>
 {{% /tab %}}
 {{% tab "Inishbofin" %}}
@@ -125,7 +125,7 @@ Situs <a href="https://www.inishbofin.com/">wisata resmi Inishbofin</a> menekank
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ireland/inishbofin_fort.jpg" alt="Benteng Inishbofin">
+<img src="/rule/europe/ireland/inishbofin_fort.jpg" alt="Ireland GeoGuessr guide image showing Inishbofin Fort">
 </div>
 {{% /tab %}}
 {{% tab "Dublin" %}}

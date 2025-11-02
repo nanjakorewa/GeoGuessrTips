@@ -33,7 +33,7 @@ Sekitar 70 % wilayahnya adalah Gurun Karakum{{% ref "https://en.wikipedia.org/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/turkmenistan/camel_turkmenistan_desert_animals.jpg" width="95%" alt="Camel turkmenistan desert animals">
+<img src="/rule/asia/turkmenistan/camel_turkmenistan_desert_animals.jpg" width="95%" alt="Turkmenistan GeoGuessr guide image showing Camel Turkmenistan Desert Animals">
 </div>
 
 {{% notice tip %}}
@@ -41,7 +41,7 @@ Kawah gas Darvaza berada di negara ini{{% ex "https://maps.app.goo.gl/RMkYWDvmAq
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/turkmenistan/darvaza_png.png" alt="Darvaza png">
+<img src="/rule/asia/turkmenistan/darvaza_png.png" alt="Turkmenistan GeoGuessr guide image showing Darvaza Png">
 </div>
 
 {{% /tab %}}

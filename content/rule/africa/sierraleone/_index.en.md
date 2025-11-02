@@ -28,7 +28,7 @@ Freetown lies on a peninsula with the Sierra Leone Mountains; houses on slopes a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sierraleone/Dr._Jill_Biden's_2014_Trip_to_Africa_17.jpg" width="90%" alt="Dr. Jill Biden's 2014 Trip to Africa 17">
+<img src="/rule/africa/sierraleone/Dr._Jill_Biden's_2014_Trip_to_Africa_17.jpg" width="90%" alt="Sierraleone GeoGuessr guide image showing Dr. Jill Biden's 2014 Trip To Africa 17">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Rice is the staple food, but production is insufficient and imports are needed{{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/theworldfishcenter/32527261115/in/photolist-RyjHuP-eXMY4m-JaWutD-bp8bTx-z4p65Y-eXAFSK-FJbPsb-mT5V9A-eXN9kh-5LZKf5-eXAoyc-mT42yc-eXNcRs-CWG2x1-eXAsTR-eXMVoN-6gq3wP-eq2M1a-eXAGqz-9i9maf-faDkjV-eXN6Gu-aRPoZ4-8ReP7r-9i6gck-G196ud-9i9mgC-eXN1uf-9i6gvP-9i9mLm-eFS8LE-eXAMZv-eXAvxD-9XhVhW-eXAPU8-eXAAR4-E9RqJH-7Wrpui-eXAEVZ-eXN2YN-67NUc-DCY4bW-eXNeWs-eXMWVu-K4k7Tq-mT2SMP-eFMQh1-9i6h2V-eXNc37-JX9mu7" title="Rice training in Sierra Leone"><img src="https://live.staticflickr.com/558/32527261115_9c768e72a5_c.jpg" width="90%" alt="Rice training in Sierra Leone"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/theworldfishcenter/32527261115/in/photolist-RyjHuP-eXMY4m-JaWutD-bp8bTx-z4p65Y-eXAFSK-FJbPsb-mT5V9A-eXN9kh-5LZKf5-eXAoyc-mT42yc-eXNcRs-CWG2x1-eXAsTR-eXMVoN-6gq3wP-eq2M1a-eXAGqz-9i9maf-faDkjV-eXN6Gu-aRPoZ4-8ReP7r-9i6gck-G196ud-9i9mgC-eXN1uf-9i6gvP-9i9mLm-eFS8LE-eXAMZv-eXAvxD-9XhVhW-eXAPU8-eXAAR4-E9RqJH-7Wrpui-eXAEVZ-eXN2YN-67NUc-DCY4bW-eXNeWs-eXMWVu-K4k7Tq-mT2SMP-eFMQh1-9i6h2V-eXNc37-JX9mu7" title="Rice training in Sierra Leone"><img src="https://live.staticflickr.com/558/32527261115_9c768e72a5_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 32527261115 9c768e72a5 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}

@@ -28,7 +28,7 @@ La mayor parte del territorio está formado por llanuras situadas por debajo de 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sudan/alsherian.jpg" width="90%" alt="Alsherian">
+<img src="/rule/africa/sudan/alsherian.jpg" width="90%" alt="Sudan GeoGuessr guide image showing Alsherian">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Las zonas fértiles a lo largo del Nilo permiten cultivar trigo y otros producto
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sudan/Sudan_Sorghum.png" width="90%" alt="Sudan Sorghum">
+<img src="/rule/africa/sudan/Sudan_Sorghum.png" width="90%" alt="Sudan GeoGuessr guide image showing Sudan Sorghum">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

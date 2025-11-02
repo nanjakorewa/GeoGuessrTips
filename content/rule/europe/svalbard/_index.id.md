@@ -38,8 +38,8 @@ Berkat iklim tundra yang ekstrem—mirip dengan {{% goto "../../n_america/greenl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px" alt="Kids security road sign">
-<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px" alt="Longyearbyen panorama">
+<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px" alt="Svalbard GeoGuessr guide image showing Kids Security Road Sign">
+<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px" alt="Svalbard GeoGuessr guide image showing Longyearbyen Panorama">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ Sering terlihat skuter salju diparkir di depan rumah{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px" alt="Parked snowmobiles in summer">
+<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px" alt="Svalbard GeoGuessr guide image showing Parked Snowmobiles In Summer">
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ Plat nomor memiliki <span class="quiz">huruf oranye di atas latar hitam</span>.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%" alt="Barentsburg">
+<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%" alt="Svalbard GeoGuessr guide image showing Barentsburg">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ Plat nomor memiliki <span class="quiz">huruf oranye di atas latar hitam</span>.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%" alt="31 07 pyramiden 30">
+<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%" alt="Svalbard GeoGuessr guide image showing 31 07 Pyramiden 30">
 </div>
 
 {{% /tab %}}

@@ -27,14 +27,14 @@ is_unofficial: true
 {{% goto "../../europe/france/" "繝輔Λ繝ｳ繧ｹ" %}}縺ｮ讀肴ｰ大慍縺縺｣縺溘ｂ縺ｮ縺ｮ1960蟷ｴ縺ｫ迢ｬ遶九＠縺溘ょｸり｡怜慍縺ｮ逵区攸繧・崕譟ｱ縺ｯ繝輔Λ繝ｳ繧ｹ縺ｨ蜷後§隕九◆逶ｮ繧偵＠縺ｦ縺・ｋ縲・
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjamﾃｩ-_Plateau_32.jpg" width="90%" alt="1280px Boulevard Cocody Adjamﾃｩ Plateau 32">
+<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjamﾃｩ-_Plateau_32.jpg" width="90%" alt="Cotedivoire GeoGuessr guide image showing 1280px Boulevard Cocody Adjamﾃｩ Plateau 32">
 </div>
 
 {{% notice tip %}}
 繧ｫ繧ｫ繧ｪ縺ｮ逕溽肇驥上′荳也阜荳菴砿{% ref "https://gentosha-go.com/articles/-/10198" "繧ｫ繧ｫ繧ｪ雎・・邨ｱ險医〒隕九ｋ譌ｧ讀肴ｰ大慍縺ｨ螳嶺ｸｻ蝗ｽ縺ｮ邨梧ｸ育噪縺ｪ邨舌・縺､縺・ %}}{{% ref "https://www.ymizuki.com/entry/dutch-agricultural-productions-importing" "霈ｸ蜈･霎ｲ菴懃黄縺九ｉ隕九∴縺ｦ縺上ｋ・・ｼ溘が繝ｩ繝ｳ繝雋ｿ譏難ｼ薙▽縺ｮ迚ｹ蠕ｴ" %}}縲・
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Punta cana theobroma cacao 0">
+<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Cotedivoire GeoGuessr guide image showing Punta Cana Theobroma Cacao 0">
 </div>
 
 
@@ -70,14 +70,14 @@ is_unofficial: true
 Independiente de {{% goto "../../europe/france/" "Francia" %}} desde 1960; en zonas urbanas la señalización y los postes suelen parecerse a los franceses.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjame-_Plateau_32.jpg" width="90%" alt="1280px Boulevard Cocody Adjame Plateau 32">
+<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjame-_Plateau_32.jpg" width="90%" alt="Cotedivoire GeoGuessr guide image showing 1280px Boulevard Cocody Adjame Plateau 32">
 </div>
 
 {{% notice tip %}}
 Es el principal productor mundial de <span class="quiz">cacao</span>{{% ref "https://gentosha-go.com/articles/-/10198" "artículo" %}}{{% ref "https://www.ymizuki.com/entry/dutch-agricultural-productions-importing" "artículo" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Punta cana theobroma cacao 0">
+<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Cotedivoire GeoGuessr guide image showing Punta Cana Theobroma Cacao 0">
 </div>
 
 {{% /tab %}}

@@ -32,7 +32,7 @@ sc: [
 En la mayoría de los casos, se puede identificar como Isla Midway a simple vista {{% ex "https://maps.app.goo.gl/qbg1tR8KdCrJmzhG7" "https://maps.app.goo.gl/SocqFQcJpfixw3r88" "https://maps.app.goo.gl/DCFp5oQHmHfdSbGx5" %}}. Sin embargo, es importante tener en cuenta que existen otras islas con muchas aves {{% ex "https://maps.app.goo.gl/V4cbS1MmndTwDMzJ6" "https://maps.app.goo.gl/qK2WCEAYbvYYkKfb8" "https://maps.app.goo.gl/n7k78mdDSKCBAwhy5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/midway_atoll/us_navy_100602_n_2.jpg" width="91%" alt="Us navy 100602 n 2">
+<img src="/rule/oceania/midway_atoll/us_navy_100602_n_2.jpg" width="91%" alt="Midway Atoll GeoGuessr guide image showing Us Navy 100602 N 2">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

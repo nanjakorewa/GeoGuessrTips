@@ -41,7 +41,7 @@ sc: [
 Puedes encontrar portugués.“Ã” y “ã” son característicos{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}.El límite de velocidad y las señales de advertencia de Portugal también tienen bordes blancos.{{% ex "https://maps.app.goo.gl/8DMbVRv8VcRw5N9o6" %}}pero{{% goto "../spain/" "España" %}}No hay.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/ruaseixo.jpg" width="80%" alt="Ruaseixo">
+<img src="/rule/europe/portugal/ruaseixo.jpg" width="80%" alt="Portugal GeoGuessr guide image showing Ruaseixo">
 </div>
 
 
@@ -49,7 +49,7 @@ Puedes encontrar portugués.“Ã” y “ã” son característicos{{% ex "http
 La matrícula es <span class="quiz">amarillo a la derecha</span>{{% ex "https://maps.app.goo.gl/5pSZeVPDXLF97bak8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/car.jpg" width="90%" alt="Car" />
+<img src="/rule/europe/portugal/car.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Car" />
 </div>
 {{% lb 50 %}}
 ![](/rule/europe/portugal/2023-04-12-06-00-36.png)
@@ -61,7 +61,7 @@ La matrícula es <span class="quiz">amarillo a la derecha</span>{{% ex "https://
 en el poste telefónico <span class="quiz">dividir</span> hay y <span class="quiz">hay un agujero</span> hay algo{{% ex "https://maps.app.goo.gl/F3S8Z9NacfsTSGoUA" "https://maps.app.goo.gl/fhcRFZBCRgbxDvF39" "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}.{{% goto "../belgium/" "Bélgica" %}}o{{% goto "../france/" "Francia" %}}Tenga en cuenta que los postes telefónicos también pueden tener agujeros.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/up.png" width="90%" alt="Up">
+<img src="/rule/europe/portugal/up.png" width="90%" alt="Portugal GeoGuessr guide image showing Up">
 </div>
 
 
@@ -70,7 +70,7 @@ Las señales de cruce de peatones tienen cinturones atados a la cintura.{{% imre
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/r/Portugal_road_sign_H7.svg" width="140px" alt="Portugal road sign H7">
+<img src="/rule/europe/portugal/r/Portugal_road_sign_H7.svg" width="140px" alt="R GeoGuessr guide image showing Portugal Road Sign H7">
 </div>
 
 
@@ -83,14 +83,14 @@ Si ves un galón amarillo sobre un fondo negro y parece frío,{{% goto "../icela
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/r/xv-portugal.png" width="140px" style="margin:10px" alt="Xv portugal">
+<img src="/rule/europe/portugal/r/xv-portugal.png" width="140px" style="margin:10px" alt="R GeoGuessr guide image showing Xv Portugal">
 </div>
 
 {{% notice tip %}}
 Hay antiguas calles adoquinadas y aceras adoquinadas.{{% ex "https://maps.app.goo.gl/ozXMmnBiqHCwYThz7" "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/street.png" width="90%" alt="Street">
+<img src="/rule/europe/portugal/street.png" width="90%" alt="Portugal GeoGuessr guide image showing Street">
 </div>
 
 {{% notice tip %}}
@@ -98,7 +98,7 @@ Hay muchos nombres de calles como "RUA ~" y "~DE ~"{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/roadsign.jpg" width="90%" alt="Roadsign">
+<img src="/rule/europe/portugal/roadsign.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Roadsign">
 </div>
 
 
@@ -115,16 +115,16 @@ Hay un letrero que dice "Prohibido cazar sin permiso" con una ♢ roja y una ●
 <table style="width:480px">
 <tr>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh1.png" width="30px" alt="Nh1">
+<img src="/rule/europe/portugal/nh1.png" width="30px" alt="Portugal GeoGuessr guide image showing nh1">
 </td>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh2.png" width="30px" alt="Nh2">
+<img src="/rule/europe/portugal/nh2.png" width="30px" alt="Portugal GeoGuessr guide image showing nh2">
 </td>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh3.png" width="30px" alt="Nh3">
+<img src="/rule/europe/portugal/nh3.png" width="30px" alt="Portugal GeoGuessr guide image showing nh3">
 </td>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh4.png" width="30px" alt="Nh4">
+<img src="/rule/europe/portugal/nh4.png" width="30px" alt="Portugal GeoGuessr guide image showing nh4">
 </td>
 </tr>
 <tr>
@@ -145,11 +145,11 @@ Hay un letrero que dice "Prohibido cazar sin permiso" con una ♢ roja y una ●
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg#/media/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg" alt="Associação de Reabilitação Social e Desinstitucionalização de Doentes Psiquiátricos.jpg" height="360" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Joehawkins&amp;action=edit&amp;redlink=1" class="new" title="User:Joehawkins (page does not exist)">joehawkins</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54612143">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg#/media/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg" alt="Wikimedia Commons photo showing Associação De Reabilitação Social E Desinstitucionalização De Doentes Psiquiátricos" height="360" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Joehawkins&amp;action=edit&amp;redlink=1" class="new" title="User:Joehawkins (page does not exist)">joehawkins</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54612143">Enlace</a></p>
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/portugal/nohunting.png" width="60%" alt="Nohunting">
+<img src="/rule/europe/portugal/nohunting.png" width="60%" alt="Portugal GeoGuessr guide image showing Nohunting">
 </div>
 
 
@@ -159,7 +159,7 @@ Portugal representa más del 50% de la producción mundial de corcho{{% ex "http
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/portugal/cork_oak_cork_bark.jpg" width="90%" alt="Cork oak cork bark">
+<img src="/rule/europe/portugal/cork_oak_cork_bark.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Cork Oak Cork Bark">
 </div>
 
 
@@ -201,7 +201,7 @@ La mitad norte, especialmente el interior, tiene muchos árboles y muchas zonas 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/antigo_troco_do_ip5.jpg" width="95%" alt="Antigo troco do ip5">
+<img src="/rule/europe/portugal/antigo_troco_do_ip5.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Antigo Troco Do ip5">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ Francia Kai Gansho (<i>Pino pinaster</i>) los pinos altos son más comunes en el
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/pins_de_la_paloumere.jpg" width="95%" alt="Pins de la paloumere">
+<img src="/rule/europe/portugal/pins_de_la_paloumere.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Pins De La Paloumere">
 </div>
 
 
@@ -222,7 +222,7 @@ La mitad sur es seca y tiene muchas tierras de cultivo.La foto está en algún l
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/en122_alentejo.jpg" width="95%" alt="En122 alentejo">
+<img src="/rule/europe/portugal/en122_alentejo.jpg" width="95%" alt="Portugal GeoGuessr guide image showing en122 Alentejo">
 </div>
 
 {{% /tab %}}
@@ -233,7 +233,7 @@ La mitad sur es seca y tiene muchas tierras de cultivo.La foto está en algún l
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/madeira_banana_shrub_road.jpg" width="95%" alt="Madeira banana shrub road">
+<img src="/rule/europe/portugal/madeira_banana_shrub_road.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Madeira Banana Shrub Road">
 </div>
 
 {{% /tab %}}
@@ -256,7 +256,7 @@ Hay una gran roca{{% ex "https://maps.app.goo.gl/oqQSHx2CR6MNXAmb7" "https://map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Peneda_Ger%C3%AAs-3.jpg#/media/File:Peneda_Ger%C3%AAs-3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Peneda_Ger%C3%AAs-3.jpg" alt="Peneda Gerês-3.jpg" height="480" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Mvs12&amp;action=edit&amp;redlink=1" class="new" title="User:Mvs12 (page does not exist)">mvs12</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40267992">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Peneda_Ger%C3%AAs-3.jpg#/media/File:Peneda_Ger%C3%AAs-3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Peneda_Ger%C3%AAs-3.jpg" alt="Wikimedia Commons photo showing Peneda Gerês 3" height="480" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Mvs12&amp;action=edit&amp;redlink=1" class="new" title="User:Mvs12 (page does not exist)">mvs12</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40267992">Enlace</a></p>
 </div>
 
 {{% /tab %}}
@@ -268,7 +268,7 @@ Allí se encuentra la única estación de esquí de Portugal y también hay una 
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/city/cantaromagro.jpg" alt="Cantaromagro">
+<img src="/rule/europe/portugal/city/cantaromagro.jpg" alt="City GeoGuessr guide image showing Cantaromagro">
 </div>
 
 {{% /tab %}}
@@ -280,8 +280,8 @@ Puedo ver una fortaleza o un faro.{{% ex "https://maps.app.goo.gl/ea573u1YaaozQz
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/city/berlenga_fort.jpg" width="310px" alt="Berlenga fort">
-<img src="/rule/europe/portugal/city/berlenga_island_bay.jpg" width="310px" alt="Berlenga island bay">
+<img src="/rule/europe/portugal/city/berlenga_fort.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Fort">
+<img src="/rule/europe/portugal/city/berlenga_island_bay.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Island Bay">
 </div>
 
 {{% /tab %}}
@@ -292,7 +292,7 @@ El tranvía Carris (Companhia Carris de Ferro de Lisboa) comenzó a funcionar en
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/city/lisbon_old_town_tram_0.jpg" width="95%" alt="Lisbon old town tram 0">
+<img src="/rule/europe/portugal/city/lisbon_old_town_tram_0.jpg" width="95%" alt="City GeoGuessr guide image showing Lisbon Old Town Tram 0">
 </div>
 
 {{% /tab %}}

@@ -29,7 +29,7 @@ is_unofficial: true
 Colonial-style houses influenced by {{% goto "../../europe/spain/" "Spain" %}}'s colonial era appear frequently, often painted in vibrant colors{{% ex "https://maps.app.goo.gl/swnre875uZQhfYH59" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/venezuela/houses_slope_sun_light.jpg" width="90%" alt="Houses slope sun light">
+<img src="/rule/cs_america/venezuela/houses_slope_sun_light.jpg" width="90%" alt="Venezuela GeoGuessr guide image showing Houses Slope Sun Light">
 </div>
 
 {{% /tab %}}

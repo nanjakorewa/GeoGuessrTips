@@ -40,8 +40,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/in/photolist-p73Dbb-2gUhDiR" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Puskin Utca."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="./sign.jpg" width="500px" alt="Sign">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/in/photolist-p73Dbb-2gUhDiR" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 48505749151 5c848aeb0a Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="./sign.jpg" width="500px" alt="Hungary GeoGuessr guide image showing Sign">
 </div>
 
 {{% notice tip %}}
@@ -49,11 +49,11 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg" alt="M9 autóút vége.jpg" width="90%"></a></p><p>By Anomália - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg" alt="Wikimedia Commons photo showing M9 Autóút Vége" width="90%"></a></p><p>By Anomália - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./route.png" width="400px" alt="Route">
+<img src="./route.png" width="400px" alt="Hungary GeoGuessr guide image showing Route">
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./micimacko_utca.jpg" width="500px" alt="Micimacko utca">
+<img src="./micimacko_utca.jpg" width="500px" alt="Hungary GeoGuessr guide image showing Micimacko Utca">
 </div>
 
 
@@ -69,9 +69,9 @@ sc: [
 ハンガリーの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>・<span class="quiz">ラトビア</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。足の形が「ハ」ならハンガリーで、「く」ならクロアチア（強引）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
-<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="Latvia road sign 535">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hr Road Sign C02">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hungary Road Sign E 038">
+<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="R GeoGuessr guide image showing Latvia Road Sign 535">
 </div>
 
 
@@ -79,7 +79,7 @@ sc: [
 郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋の家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ex "https://maps.app.goo.gl/DzKQAUXaZWnnGYLc7" %}}{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./dolnjisenik1.jpg" width="90%" alt="Dolnjisenik1">
+<img src="./dolnjisenik1.jpg" width="90%" alt="Hungary GeoGuessr guide image showing dolnjisenik1">
 </div>
 
 
@@ -89,7 +89,7 @@ sc: [
 
 
 <div class="googlemap-if">
-<img src="./road_edge_region_landscape.jpg" width="500px" alt="Road edge region landscape">
+<img src="./road_edge_region_landscape.jpg" width="500px" alt="Hungary GeoGuessr guide image showing Road Edge Region Landscape">
 </div>
 
 {{% /tab %}}
@@ -98,7 +98,7 @@ sc: [
 ハンガリーっぽい電柱。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./up.jpg" width="90%" alt="Up">
+<img src="./up.jpg" width="90%" alt="Hungary GeoGuessr guide image showing Up">
 </div>
 
 {{% /tab %}}
@@ -112,7 +112,7 @@ sc: [
 {{% tab "路面" %}}
 
 <div class="googlemap-if">
-<img src="./road.jpg" width="90%" alt="Road">
+<img src="./road.jpg" width="90%" alt="Hungary GeoGuessr guide image showing Road">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -129,7 +129,7 @@ sc: [
 {{% tabs %}}
 {{% tab "地形" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Hungary-geographic_map-en.svg#/media/File:Hungary-geographic_map-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Hungary-geographic_map-en.svg" alt="Hungary-geographic map-en.svg" height="720" width="1113"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a> - <span class="int-own-work" lang="en">Own work</span>Sources of data:Topography: NASA SRTM3 v2;Urbanised areas: Natural Earth;Other data: © OpenStreetMap contributorsTool:The map is created with Octave scripts developed by <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64483500">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Hungary-geographic_map-en.svg#/media/File:Hungary-geographic_map-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Hungary-geographic_map-en.svg" alt="Wikimedia Commons photo showing Hungary Geographic Map En" height="720" width="1113"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a> - <span class="int-own-work" lang="en">Own work</span>Sources of data:Topography: NASA SRTM3 v2;Urbanised areas: Natural Earth;Other data: © OpenStreetMap contributorsTool:The map is created with Octave scripts developed by <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64483500">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

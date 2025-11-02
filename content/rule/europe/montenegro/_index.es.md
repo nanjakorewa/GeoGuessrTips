@@ -38,7 +38,7 @@ sc: [
 Las matrículas tienen a la izquierda una franja azul y en el centro el escudo, lo que genera un pequeño matiz rojo. {{% ex "https://maps.app.goo.gl/XKk4oFYuAG9Bsejo8" "https://maps.app.goo.gl/A9fuD52Ge1eenJaSA" %}} También verás placas totalmente blancas.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/montenegro/1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%" alt="Matrícula montenegrina">
+<img src="/rule/europe/montenegro/1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%" alt="Montenegro GeoGuessr guide image showing 1087px Dsc 0122 Podgorica, July 2017">
 </div>
 
 {{% lb 50 small %}}
@@ -52,7 +52,7 @@ CC0
 Fíjate en los afloramientos blancos y dentados. {{% ex "https://goo.gl/maps/pSX7rPdDxfJhs1BD7" "https://goo.gl/maps/Y2WLPsoVLHYdNXP69" "https://goo.gl/maps/LZMThQnCMUmBZNzL7" "https://goo.gl/maps/qkbt4fm4LvtgcTEw8" %}} Como los países vecinos comparten bollardos, comprueba si la imagen presenta grietas o si la matrícula deja entrever un punto rojo.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Montenegro_46.jpg#/media/File:Montenegro_46.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Montenegro_46.jpg" alt="Carretera montañosa en Montenegro" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Oktoober&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Oktoober (page does not exist)">Oktoober</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=114381873">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Montenegro_46.jpg#/media/File:Montenegro_46.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Montenegro_46.jpg" alt="Wikimedia Commons photo showing Montenegro 46" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Oktoober&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Oktoober (page does not exist)">Oktoober</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=114381873">Link</a></p>
 </div>
 
 
@@ -61,7 +61,7 @@ Los guardarraíles negros y oxidados son habituales en las montañas. {{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/aligatorpics/9317602276/" title="Sharp turn ahead"><img src="https://live.staticflickr.com/2852/9317602276_4e5038b97a_z.jpg" width="640" height="428" alt="Curva pronunciada"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/aligatorpics/9317602276/" title="Sharp turn ahead"><img src="https://live.staticflickr.com/2852/9317602276_4e5038b97a_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 9317602276 4e5038b97a Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -69,7 +69,7 @@ Verás casas encaladas frente a laderas rocosas claras. {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/montenegro/montenegro_rijeka_crnojevica_1230321.jpg" width="95%" alt="Pueblo en Montenegro">
+<img src="/rule/europe/montenegro/montenegro_rijeka_crnojevica_1230321.jpg" width="95%" alt="Montenegro GeoGuessr guide image showing Montenegro Rijeka Crnojevica 1230321">
 </div>
 
 {{% /tab  %}}
@@ -79,7 +79,7 @@ Verás casas encaladas frente a laderas rocosas claras. {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/montenegro/fuel_station_eko_pic2.jpg" alt="Gasolinera EKO">
+<img src="/rule/europe/montenegro/fuel_station_eko_pic2.jpg" alt="Montenegro GeoGuessr guide image showing Fuel Station Eko pic2">
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ Verás casas encaladas frente a laderas rocosas claras. {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/idea.png" width="400px" alt="Supermercado IDEA">
+<img src="/rule/europe/serbia/idea.png" width="400px" alt="Serbia GeoGuessr guide image showing Idea">
 </div>
 
 

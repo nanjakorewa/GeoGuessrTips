@@ -48,11 +48,11 @@ On the back of the sign <span class="quiz">Cross (so-called Colombian cross)</sp
 {{% goto "../../n_america/mexico/" "Mexico" %}}It may be useful someday to remember that there is a cross on the signboard for the state of Chihuahua.{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}(Chihuahua cross?).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" alt="Road sign example" />
+<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign Example" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" alt="Road sign" />
+<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign" />
 </div>
 
 
@@ -60,7 +60,7 @@ On the back of the sign <span class="quiz">Cross (so-called Colombian cross)</sp
 The license plate is <span class="quiz">Both front and back are yellow</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}Or white.The bike is also behind <span class="quiz">yellow</span> has a number on it{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}.{{% goto "../peru/" "Peru" %}}There is also a yellow color, but Colombian is a little closer to orange.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/lp.jpg" width="95%" alt="Lp">
+<img src="/rule/cs_america/colombia/lp.jpg" width="95%" alt="Colombia GeoGuessr guide image showing Lp">
 </div>
 
 {{% lb 50 %}}
@@ -74,7 +74,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/roadside.jpg" width="95%" alt="Roadside">
+<img src="/rule/cs_america/colombia/roadside.jpg" width="95%" alt="Colombia GeoGuessr guide image showing Roadside">
 </div>
 
 
@@ -103,7 +103,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
     <h2>Columbia related goods</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7090759" target="_blank">
-            <img src="/rule/cs_america/colombia/b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="画像3">
+            <img src="/rule/cs_america/colombia/b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="Colombia GeoGuessr guide image showing b48f3e0a 6902 4008 8323 b15de46b33cd">
         </a>
         <!-- <div class="caption">Product title 1</div>ーー＞
     </div>
@@ -127,7 +127,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% tabs %}}
 {{% tab "vegetation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" alt="Pone.0043943.g001" />
+<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" alt="Colombia GeoGuessr guide image showing pone.0043943.g001" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -156,7 +156,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Mapa de Colombia (relieve).svg" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geografico Agustin Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Map of Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Wikimedia Commons photo showing Mapa De Colombia (relieve)" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geografico Agustin Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Map of Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis Ángel Arango - La territorialización del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limítrofes Marítimos de la República de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
 </div>
 
 
@@ -177,7 +177,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg" alt="Barranquilla autopista al mar">
+<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg" alt="Colombia GeoGuessr guide image showing Barranquilla Autopista Al Mar">
 </div>
 
 
@@ -200,7 +200,7 @@ Many wooden fences with barbed wire can be seen along the roadsides.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/Colombia_Palm_Oil.jpg" width="90%" alt="Colombia Palm Oil">
+<img src="/rule/cs_america/colombia/Colombia_Palm_Oil.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Colombia Palm Oil">
 </div>
 
 {{% notice tip %}}
@@ -211,7 +211,7 @@ red <span style="color:red">●</span> Meta prefecture with many{{% ex "https://
 {{% /tab %}}
 {{% tab "sugar cane" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/agriculture_sugar_cane_crop.jpg" width="90%" alt="Agriculture sugar cane crop">
+<img src="/rule/cs_america/colombia/agriculture_sugar_cane_crop.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Agriculture Sugar Cane Crop">
 </div>
 
 {{% notice tip %}}
@@ -222,7 +222,7 @@ Flat areas around the Valle del Cauca department{{% ex "https://maps.app.goo.gl/
 {{% /tab %}}
 {{% tab "cotton" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/Colombia_Cotton.jpg" width="90%" alt="Colombia Cotton">
+<img src="/rule/cs_america/colombia/Colombia_Cotton.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Colombia Cotton">
 </div>
 
 {{% notice tip %}}
@@ -233,7 +233,7 @@ I've never seen it, but if you find it, it's Tolima{{% ex "https://maps.app.goo.
 {{% /tab %}}
 {{% tab "rice" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/Colombia_Rice.jpg" width="90%" alt="Colombia Rice">
+<img src="/rule/cs_america/colombia/Colombia_Rice.jpg" width="90%" alt="Colombia GeoGuessr guide image showing Colombia Rice">
 </div>
 
 {{% notice tip %}}
@@ -258,14 +258,14 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 {{% notice tip %}}Buenaventura is Colombia's main port and accounts for approximately 60% of Colombia's seaborne imports and exports.Therefore, the road leading to the port gives the impression that there are many trucks loaded with containers.{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}.{{% goto "https://x.com/one_line_japan" "ONE" %}}You can also find containers for{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg" alt="Aahus port container loading">
+<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg" alt="Colombia GeoGuessr guide image showing Aahus Port Container Loading">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}There are yellow and black lines on telephone poles around Medellín.{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" alt="Ar236201" />
+<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" alt="Colombia GeoGuessr guide image showing ar236201" />
 </div>
 {{% /tab %}}
 {{% tab "bollard" %}}
@@ -273,11 +273,11 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 7384049646 4bd46ab073 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/colombia/r/bollard.png" width="70px" alt="Bollard">
+<img src="/rule/cs_america/colombia/r/bollard.png" width="70px" alt="R GeoGuessr guide image showing Bollard">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -300,14 +300,14 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 {{% notice tip %}}The sticker says CARTAGENA.It may also be written on the roof or side of the truck.{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg" alt="Colombia kartagena south america">
+<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg" alt="Colombia GeoGuessr guide image showing Colombia Kartagena South America">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
 {{% notice tip %}}Walking through a town on a remote island with a fortress.I have someone to walk with me{{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Wikimedia Commons photo showing Fuerte De San Fernando Cartagena (2009) 02" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Leticia" %}}
@@ -315,14 +315,14 @@ Approximately 50% is Tolima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "h
 Strong economic ties with Brazil's Tabatinga, which is connected by land route{{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}.You can see utility poles with partitions like those in Brazil.{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}.It is a thriving tourist destination and you can find many taxis and tourists.You can see the distinctive Google Car{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Wikimedia Commons photo showing Leticia Town Photograph" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Gorgona" %}}
 {{% notice tip %}}There is a remote island called Gorgona Island.{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg" alt="Hotel in gorgona">
+<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg" alt="Colombia GeoGuessr guide image showing Hotel In Gorgona">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalia" %}}

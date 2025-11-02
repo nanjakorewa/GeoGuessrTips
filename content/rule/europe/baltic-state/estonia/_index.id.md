@@ -52,13 +52,13 @@ Penyeberangan jalan memiliki <span class="quiz">tiga</span> garis dan rambu tida
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/estonia/road-sign.jpg" width="500px" alt="Road sign">
+<img src="/rule/europe/baltic-state/estonia/road-sign.jpg" width="500px" alt="Estonia GeoGuessr guide image showing Road Sign">
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
-<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
-<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Estonia Road Sign 311a" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Latvia Road Sign 302" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Lithuania Background" />
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Terdapat kotak pos berwarna oranye bertuliskan "EESTI POST" (sekarang Omniva).
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/estonia/estonia_baltic_states_post.jpg" width="250px" alt="Estonia baltic states post">
+<img src="/rule/europe/baltic-state/estonia/estonia_baltic_states_post.jpg" width="250px" alt="Estonia GeoGuessr guide image showing Estonia Baltic States Post">
 </div>
 
 {{% notice tip %}}
@@ -74,9 +74,9 @@ Chevron dengan latar belakang merah hanya ada di Estonia di negara-negara Baltik
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="https://geopinning.space/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="https://geopinning.space/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="https://geopinning.space/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Image from geopinning.space showing Ar" />
 </div>
 
 {{% /tab %}}

@@ -28,7 +28,7 @@ El conflicto civil continﾃｺa desde finales de la dﾃｩcada de 1980{{% ref 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="640px Somalia, Puntland, Bari, Iskushuban (13)">
+<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="Somalia GeoGuessr guide image showing 640px Somalia, Puntland, Bari, Iskushuban (13)">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Los lﾃｭmites administrativos y la gobernanza varﾃｭan por zona y no est�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Somalia_map_states_regions_districts.svg#/media/File:Somalia_map_states_regions_districts.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Somalia_map_states_regions_districts.svg" height="541" width="512" alt="Mapa administrativo de Somalia"></a></p><p>Dominio pﾃｺblico.</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Somalia_map_states_regions_districts.svg#/media/File:Somalia_map_states_regions_districts.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Somalia_map_states_regions_districts.svg" height="541" width="512" alt="Wikimedia Commons photo showing Somalia Map States Regions Districts"></a></p><p>Dominio pﾃｺblico.</p>
 </div>
 
 {{% /tab %}}

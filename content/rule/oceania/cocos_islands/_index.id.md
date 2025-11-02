@@ -39,7 +39,7 @@ sc: [
 Pohon <span class="quiz">kelapa</span> tumbuh di mana-mana, dan sering terlihat buah atau cangkang kelapa di pinggir jalan {{% ex "https://goo.gl/maps/kAW6XTsMUuD5WrtcA" "https://goo.gl/maps/E5Ty7yijWQM4ipF56" "https://goo.gl/maps/4Rea5AMbHtUQ5Tr7A" "https://goo.gl/maps/1cWwoR6eRBqYBwYC7" "https://goo.gl/maps/2HVRm5CE8mQEkuAx7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/cocos_islands/cocos-tree.png" width="80%" alt="Cocos tree" />
+<img src="/rule/oceania/cocos_islands/cocos-tree.png" width="80%" alt="Cocos Islands GeoGuessr guide image showing Cocos Tree" />
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ Google Car memiliki ciri khas dengan sesuatu yang menonjol di bagian depan kanan
 <div class="googlemap-if">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/cocos_islands/cocos-gc.png" width="80%" alt="Cocos gc">
+<img src="/rule/oceania/cocos_islands/cocos-gc.png" width="80%" alt="Cocos Islands GeoGuessr guide image showing Cocos Gc">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ Karung pasir sering ditempatkan di sepanjang pantai untuk mencegah erosi {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/cocos_islands/hurricane_irene_beach_damage.jpg" alt="Hurricane irene beach damage">
+<img src="/rule/oceania/cocos_islands/hurricane_irene_beach_damage.jpg" alt="Cocos Islands GeoGuessr guide image showing Hurricane Irene Beach Damage">
 </div>
 
 {{% notice tip %}}

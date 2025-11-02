@@ -48,7 +48,7 @@ Menurut JETRO, perusahaan lokal yang besar termasuk STEERS (makanan cepat saji) 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/datakid23/15722287490/in/photolist-EPuBj-M3Wgn-fd8tC6-4ZKpL5-pXjQjf-HDkBuP-HWVuJL-5w1fkR-HWVvkf-K3j2B9-HrtGPr-HWWfHC-TEkyr5-HWVv2u-Hrqwu5-HrtGXH-Jdy4kY-JjsZqG-JqSeZo-L4QEWc-JjsYSY-K3j2BQ-L8Hdmo-JqSeD3-HruCQx-LbzxxM-JNCVaQ-aoNEuB-JqT1Kf-Jdy4eq-aoNECi-27gwcpf-aoNEAX-GDvemT-27DWe1n-HrqwGu-nqNTrs-GDvHhn-Gb1AUp-F1Z7Ae-SDnB7L-27DWe7e-ag5aVW-Hqxr45-bvmi4E-H9Jkhs-E4gFmC-cgugG7-KnUhTx-KnUjDM" title="SafariCom"><img src="https://live.staticflickr.com/7505/15722287490_d019f2509c_z.jpg" width="640" height="360" alt="SafariCom"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/datakid23/15722287490/in/photolist-EPuBj-M3Wgn-fd8tC6-4ZKpL5-pXjQjf-HDkBuP-HWVuJL-5w1fkR-HWVvkf-K3j2B9-HrtGPr-HWWfHC-TEkyr5-HWVv2u-Hrqwu5-HrtGXH-Jdy4kY-JjsZqG-JqSeZo-L4QEWc-JjsYSY-K3j2BQ-L8Hdmo-JqSeD3-HruCQx-LbzxxM-JNCVaQ-aoNEuB-JqT1Kf-Jdy4eq-aoNECi-27gwcpf-aoNEAX-GDvemT-27DWe1n-HrqwGu-nqNTrs-GDvHhn-Gb1AUp-F1Z7Ae-SDnB7L-27DWe7e-ag5aVW-Hqxr45-bvmi4E-H9Jkhs-E4gFmC-cgugG7-KnUhTx-KnUjDM" title="SafariCom"><img src="https://live.staticflickr.com/7505/15722287490_d019f2509c_z.jpg" width="640" height="360" alt="Image from live.staticflickr.com showing 15722287490 d019f2509c Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ Karena Kenya dulunya merupakan protektorat {{% goto "../../europe/united-kingdom
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="The Nairobi-Thika Highway, Kenya"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 49749049608 c6154ec2a9 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Google Car di Kenya memiliki beberapa ciri khas, termasuk atap yang terlihat {{%
 {{% tabs %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Vegitation" />
+<img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Kenya GeoGuessr guide image showing Vegitation" />
 </div>
 {{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 縲拶 review of Kenya窶冱 national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.縲・(2014)." %}}
 {{% /notice %}}

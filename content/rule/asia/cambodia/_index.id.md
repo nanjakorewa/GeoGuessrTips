@@ -45,14 +45,14 @@ sc: [
 Bahasa Khmer (ភាសាខ្មែរ) adalah bahasa resmi {{% ex "https://maps.app.goo.gl/XSyvBU14GPj7rsSQ8" "https://maps.app.goo.gl/71nPsqkeemnCWFCt6" "https://maps.app.goo.gl/FqZTPXWnzKjd1sVJ6" "https://maps.app.goo.gl/t3Gh47ry4PXsBZzj8" %}}. Bollard dicat <span class="quiz">merah dan putih</span> {{% ex "https://maps.app.goo.gl/CDakiN68CTovLhPKA" "https://maps.app.goo.gl/Ux92pYWQiYSnuePx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Wikimedia Commons photo showing Sihanoukville Province. Tumnob Rolok Road" height="442" width="1280"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Di pedesaan Kamboja, banyak rumah <span class="quiz">panggung</span> {{% ex "https://maps.app.goo.gl/NS8Y5VjjarYJP3WSA" "https://maps.app.goo.gl/ouBZ6L8qeNAssnS4A" "https://maps.app.goo.gl/NrkRT5tKkQj4GMXYA" %}}. Karena iklim tropis monsunal, rumah panggung berfungsi sebagai perlindungan dari panas di siang hari, tempat berlindung hewan ternak di malam hari, serta mencegah banjir saat musim hujan {{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "瓦版 NO.6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Cambodia Rural House"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 16643536619 4de2b44f4b Z"/></a>
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Banyak payung atau papan nama menampilkan merek terkenal seperti Beeline (teleko
 Banyak bangunan terkait agama Buddha, serta kuil kecil untuk menghormati dewa penjaga tanah atau leluhur yang menghadap rumah {{% ex "https://maps.app.goo.gl/uVuPuueskQxJBZUz9" "https://maps.app.goo.gl/XPStXnx9kYFC9GJT6" "https://maps.app.goo.gl/5WMreVZxQ9ejkumf7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Cambodian house"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 15775881556 a5c1b4503a Z"/></a>
 </div>
 
 {{% /tab %}}
@@ -117,7 +117,7 @@ Ladang jagung dan sawah hampir tidak ada di bagian timur (sebelah timur jalan no
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px" alt="Cambodia Rice">
+<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px" alt="Cambodia GeoGuessr guide image showing Cambodia Rice">
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}
@@ -149,7 +149,7 @@ Di dekat perbatasan barat, terdapat tebing-tebing batu yang curam {{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/img_163_9714.jpg" width="95%" alt="Img 163 9714">
+<img src="/rule/asia/cambodia/img_163_9714.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Img 163 9714">
 </div>
 {{% /tab %}}
 {{% tab "Tonlé Sap" %}}
@@ -158,7 +158,7 @@ Di Danau Tonlé Sap terdapat desa rumah perahu unik di atas air {{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/cambodia/kompong_phluk_kompong_tour_2.jpg" width="95%" alt="Kompong phluk kompong tour 2">
+<img src="/rule/asia/cambodia/kompong_phluk_kompong_tour_2.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Kompong Phluk Kompong Tour 2">
 </div>
 {{% /tab %}}
 {{% tab "Kampot" %}}
@@ -167,7 +167,7 @@ Di Kampot, banyak bangunan peninggalan kolonial Prancis karena kota ini dulunya 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Kampot_20110429-050.JPG#/media/File:Kampot_20110429-050.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kampot_20110429-050.JPG" alt="Kampot 20110429-050.JPG" width="95%"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Haros" title="User:Haros">Hans A. Rosbach</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15165246">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kampot_20110429-050.JPG#/media/File:Kampot_20110429-050.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Kampot_20110429-050.JPG" alt="Wikimedia Commons photo showing Kampot 20110429 050" width="95%"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Haros" title="User:Haros">Hans A. Rosbach</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15165246">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Siem Reap" %}}
@@ -176,8 +176,8 @@ Siem Reap memiliki Angkor Wat dan Candi Bayon {{% ex "https://maps.app.goo.gl/Ao
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/cambodia/angkor_wat_cambodia_angkor.jpg" width="95%" alt="Angkor wat cambodia angkor">
-<img src="/rule/asia/cambodia/cambodia_angkor_temple_bayon_2.jpg" width="95%" alt="Cambodia angkor temple bayon 2">
+<img src="/rule/asia/cambodia/angkor_wat_cambodia_angkor.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Angkor Wat Cambodia Angkor">
+<img src="/rule/asia/cambodia/cambodia_angkor_temple_bayon_2.jpg" width="95%" alt="Cambodia GeoGuessr guide image showing Cambodia Angkor Temple Bayon 2">
 </div>
 {{% /tab %}}
 {{% tab "Preăh Seihânŭ" %}}
@@ -186,7 +186,7 @@ Preăh Seihânŭ memiliki bangunan tinggi, berbeda dengan Siem Reap yang memilik
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:All_Sihanoukville_2014_year.jpg#/media/File:All_Sihanoukville_2014_year.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/All_Sihanoukville_2014_year.jpg" alt="All Sihanoukville 2014 year.jpg" height="720" width="1071"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78794523">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:All_Sihanoukville_2014_year.jpg#/media/File:All_Sihanoukville_2014_year.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/All_Sihanoukville_2014_year.jpg" alt="Wikimedia Commons photo showing All Sihanoukville 2014 Year" height="720" width="1071"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78794523">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

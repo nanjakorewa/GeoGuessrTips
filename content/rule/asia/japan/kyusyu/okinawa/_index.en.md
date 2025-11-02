@@ -28,7 +28,7 @@ Para resistir los tifones predominan las viviendas de un solo piso, a menudo pro
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/okinawa/nakamurahouse.jpg" alt="Nakamurahouse">
+<img src="/rule/asia/japan/kyusyu/okinawa/nakamurahouse.jpg" alt="Okinawa GeoGuessr guide image showing Nakamurahouse">
 </div>
 
 {{% /tab %}}

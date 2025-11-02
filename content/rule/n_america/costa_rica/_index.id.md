@@ -36,7 +36,7 @@ sc: [
 Plat nomor belakang dengan latar putih dan huruf biru sering terlihat{{% ex "https://goo.gl/maps/s64SxiuWMRpySiP36" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/gGGogQKkGbfVVv4E7" "https://goo.gl/maps/AeiypzDff9piNJtd6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/costa_rica/car.jpg" width="450px" alt="Car" />
+<img src="/rule/n_america/costa_rica/car.jpg" width="450px" alt="Costa Rica GeoGuessr guide image showing Car" />
 </div>
 
 {{% lb %}}
@@ -50,7 +50,7 @@ Berjalan di atas pantai dengan pasir gelap{{% ex "https://goo.gl/maps/bgvHTPim84
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/costa_rica/beach.png" width="85%" alt="Beach" />
+<img src="/rule/n_america/costa_rica/beach.png" width="85%" alt="Costa Rica GeoGuessr guide image showing Beach" />
 </div>
 
 {{% notice tip %}}

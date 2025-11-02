@@ -40,7 +40,7 @@ Gazprom is the world's largest producer and supplier of natural gas and is a Rus
 Crosswalk signs have three lines painted on them, and there are signs with distances written on the side of the road. The distances written on the signs are often quite long.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Газпром"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Image from live.staticflickr.com showing 49773757582 8387ddab3d"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -80,14 +80,14 @@ Pipes are stretched along the fence.
 {{% tabs %}}
 {{% tab "Dominant species" %}}
 <div class="googlemap-if unclickable-area" >
-<img src="/rule/asia/russia/2023-04-23-19-40-50.png" alt="2023 04 23 19 40 50" />
+<img src="/rule/asia/russia/2023-04-23-19-40-50.png" alt="Russia GeoGuessr guide image showing 2023 04 23 19 40 50" />
 <div class="description-wide">
 Note that the actual distribution is not as simple as this figure, but has gradations.（Reference：『序章　国土空間からみた循環と共生の地域づくり』 環境省, <a href="https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html">Link</a>, 2023-4-1）
 </div>
 </div>
 
 <div class="googlemap-if unclickable-area" >
-<img src="/rule/asia/russia/2023-04-23-19-56-08.png" alt="2023 04 23 19 56 08" />
+<img src="/rule/asia/russia/2023-04-23-19-56-08.png" alt="Russia GeoGuessr guide image showing 2023 04 23 19 56 08" />
 <div class="description-wide">
 Balashov, I., et al. "Vega-Les Information System. Actual Features and Future Evolution." IOP Conference Series: Earth and Environmental Science. Vol. 507. No. 1. IOP Publishing, 2020.
 </div>
@@ -171,7 +171,7 @@ Spruce is abundant near and west of the northwestern mountains.
 <span class="quiz">Chernozem</span> is distributed in the red area (image from the United Nations, public domain).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/russia/2023-04-27-21-39-12.png" alt="2023 04 27 21 39 12" />
+<img src="/rule/asia/russia/2023-04-27-21-39-12.png" alt="Russia GeoGuessr guide image showing 2023 04 27 21 39 12" />
 </div>
 
 <div class="googlemap-if">

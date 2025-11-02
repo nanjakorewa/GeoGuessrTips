@@ -41,7 +41,7 @@ Ada banyak plat nomor kuning di sekitar kota.{{% ex "https://maps.app.goo.gl/zc7
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/37266013@N00/24300474404/in/photolist-D2mhqC-bcgRdp-dq3MVx-H56Xp-nYQJxr-rrhx1a-9w9J4M-kBs2zz-e17Fek-koMCon-8ap44-qCsCuD-at9CL-6eu64S-9EMLTo-hu4P4U-dBrbaq-9DPViY-n48QJ8-NA77jA-riEEC8-LofQDB-NQaNiw-ei8iSQ-8kRYEu-dCytCa-A7fAZ-7siW3Z-aCirYy-26f6oQB-NG7VUs-AhfpY5-8SXQRk-A7fBH-av2s8U-mKufVn-HoPL2h-r2qt3-fqvDp-oCvoZN-HUjd6Y-7rB5uz-JgSqW3-2bF2kcx-iJFfJs-qndJ5X-HoPRL3-95hQgJ-7JR8wU-n48Z9K" title="Oman - 2015-1421a"><img src="https://live.staticflickr.com/1599/24300474404_178c53ecec_c.jpg" width="90%" alt="Oman - 2015-1421a"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/37266013@N00/24300474404/in/photolist-D2mhqC-bcgRdp-dq3MVx-H56Xp-nYQJxr-rrhx1a-9w9J4M-kBs2zz-e17Fek-koMCon-8ap44-qCsCuD-at9CL-6eu64S-9EMLTo-hu4P4U-dBrbaq-9DPViY-n48QJ8-NA77jA-riEEC8-LofQDB-NQaNiw-ei8iSQ-8kRYEu-dCytCa-A7fAZ-7siW3Z-aCirYy-26f6oQB-NG7VUs-AhfpY5-8SXQRk-A7fBH-av2s8U-mKufVn-HoPL2h-r2qt3-fqvDp-oCvoZN-HUjd6Y-7rB5uz-JgSqW3-2bF2kcx-iJFfJs-qndJ5X-HoPRL3-95hQgJ-7JR8wU-n48Z9K" title="Oman - 2015-1421a"><img src="https://live.staticflickr.com/1599/24300474404_178c53ecec_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 24300474404 178c53ecec C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -60,11 +60,11 @@ chevron oranye dan hitam{{% ex "https://maps.app.goo.gl/1kjUZmZjbGXY982x8" "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/liquidworld/3267308326/in/photolist-5YHNWb-4tC3XM-bcgLRK-64wLyc-nskKRj-4tG6CJ-4tG5pd-4tG5E3-nKFgKj-4tG68W-ns2WA9-4tC2cv-8Q95jf-5kCn4h-Q1n5QR-Dhnf8L-23QcUbM-aFartF-96Ffnc-ackTYG-96Khm4-29WeimA-ns2wVn-dYoWB2-29ZZR4h-h2NjKe-2ajRD-mFYiX2-96FwiH-9rNJYS-24nturK-LFYxVg-5skabF-fP1zeX-Sauoxo-2bj7q1r-bbmerB-RRqSao-ijARGP-267yBNw-bbmdeT-DTGzgn-2dczqNE-25rCanb-bxBwrK-NMfW4x-oTsiHD-oDg2Wc-3eaYji-28QdBod" title="Road signs"><img src="https://live.staticflickr.com/3515/3267308326_aea5344881_c.jpg" width="90%" alt="Road signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/liquidworld/3267308326/in/photolist-5YHNWb-4tC3XM-bcgLRK-64wLyc-nskKRj-4tG6CJ-4tG5pd-4tG5E3-nKFgKj-4tG68W-ns2WA9-4tC2cv-8Q95jf-5kCn4h-Q1n5QR-Dhnf8L-23QcUbM-aFartF-96Ffnc-ackTYG-96Khm4-29WeimA-ns2wVn-dYoWB2-29ZZR4h-h2NjKe-2ajRD-mFYiX2-96FwiH-9rNJYS-24nturK-LFYxVg-5skabF-fP1zeX-Sauoxo-2bj7q1r-bbmerB-RRqSao-ijARGP-267yBNw-bbmdeT-DTGzgn-2dczqNE-25rCanb-bxBwrK-NMfW4x-oTsiHD-oDg2Wc-3eaYji-28QdBod" title="Road signs"><img src="https://live.staticflickr.com/3515/3267308326_aea5344881_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 3267308326 aea5344881 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/sign.png" width="300px" alt="Sign">
+<img src="/rule/middle_east/oman/sign.png" width="300px" alt="Oman GeoGuessr guide image showing Sign">
 </div>
 
 {{% notice tip %}}
@@ -72,7 +72,7 @@ Tidak ada pohon yang tumbuh di gurun.{{% ex "https://maps.app.goo.gl/AHEuQnx2cui
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%" alt="Desert sand dry hot">
+<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%" alt="Oman GeoGuessr guide image showing Desert Sand Dry Hot">
 </div>
 
 {{% notice tip %}}
@@ -80,7 +80,7 @@ Pohon kurma ditanam terutama di wilayah pesisir timur laut.{{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%" alt="Date palm date palm">
+<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%" alt="Oman GeoGuessr guide image showing Date Palm Date Palm">
 </div>
 
 
@@ -126,7 +126,7 @@ Tujuan pipa tersebut tertulis di papan nama perusahaan midstream.{{% ex "https:/
 {{% tab "medan" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Oman_location_map_Topographic.png#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Oman_location_map_Topographic.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Oman_location_map_Topographic.png" alt="Oman location map Topographic.png" height="720" width="553"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Oman_location_map_Topographic.png#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Oman_location_map_Topographic.png"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b4/Oman_location_map_Topographic.png" alt="Wikimedia Commons photo showing Oman Location Map Topographic" height="720" width="553"></a></p>
 <p><a href="//commons.wikimedia.org/wiki/User:Dr_Brains" title="User:Dr Brains">Dr Otak</a> - <span class="int-own-work" lang="ja">Karya yang dibuat oleh poster itu sendiri</span> oleh <a href="//commons.wikimedia.org/wiki/User:NordNordWest" title="User:NordNordWest">NordNordBarat</a>, <a href="http://www.gnu.org/licenses/old-licenses/fdl-1.2.html" title="GNU Free Documentation License 1.2">GFDL1.2</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19957804">link</a>oleh</p>
 </div>
 
@@ -139,7 +139,7 @@ Harap dicatat bahwa ada juga Street View di Semenanjung Musandam (sebuah daerah 
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg" alt="Street travel car mountain">
+<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg" alt="Oman GeoGuessr guide image showing Street Travel Car Mountain">
 </div>
 {{% /tab %}}
 {{% tab "pegunungan dhofar" %}}
@@ -149,7 +149,7 @@ Pegunungan yang membentang di sekitar Salalah di selatan.Ini adalah tempat di ma
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%" alt="After rain 7">
+<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%" alt="Oman GeoGuessr guide image showing After Rain 7">
 </div>
 
 {{% notice tip %}}
@@ -169,7 +169,7 @@ Daerah dengan bukit pasir terletak di sebelah timur dan pedalaman.{{% ref "https
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/soilmap.jpg" alt="Soilmap">
+<img src="/rule/middle_east/oman/soilmap.jpg" alt="Oman GeoGuessr guide image showing Soilmap">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}
@@ -188,7 +188,7 @@ Daerah dengan bukit pasir terletak di sebelah timur dan pedalaman.{{% ref "https
 {{% tab "Pulau Masirah" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Isla_de_Masirah.jpg#/media/File:Isla_de_Masirah.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Isla_de_Masirah.jpg" alt="Isla de Masirah.jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Isla_de_Masirah.jpg#/media/File:Isla_de_Masirah.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/28/Isla_de_Masirah.jpg" alt="Wikimedia Commons photo showing Isla De Masirah" width="90%"></a></p>
 <p>Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:ELSIRIDERMOTO&amp;action=edit&amp;redlink=1" class="new" title="User:ELSIRIDERMOTO (page does not exist)">ELSIRIDERMOTO</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=94647403">Link</a></p>
 </div>
 {{% /tab %}}

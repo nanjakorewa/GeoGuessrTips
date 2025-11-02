@@ -41,45 +41,45 @@ sc: [
 Sebagai langkah keamanan, banyak rumah memiliki <span class="quiz">teralis besi (Burglar Bars)</span> di jendela {{% ex "https://maps.app.goo.gl/3sAmaBPytGD2pRkq5" %}}, pagar dengan kawat berduri {{% ex "https://maps.app.goo.gl/SkP6HyzgqXHVL7ZFA" %}}, atau kabel listrik pada pagar {{% ex "https://maps.app.goo.gl/mtNUMtnxrEoTUPTr5" %}}. Selain itu, stiker perusahaan keamanan seperti "ADT" atau "BLUE" sering ditemukan di pintu {{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG#/media/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Moerdyk_House%2C_274_Pomona_Street%2C_Muckleneuk%2C_Pretoria.JPG" alt="Moerdyk House, 274 Pomona Street, Muckleneuk, Pretoria.JPG" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21203696">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG#/media/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Moerdyk_House%2C_274_Pomona_Street%2C_Muckleneuk%2C_Pretoria.JPG" alt="Wikimedia Commons photo showing Moerdyk House, 274 Pomona Street, Muckleneuk, Pretoria" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21203696">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/south-africa/adt.png" width="150px" style="margin:10px" alt="Adt">
-<img src="/rule/africa/south-africa/blue.png" width="150px" style="margin:10px" alt="Blue">
+<img src="/rule/africa/south-africa/adt.png" width="150px" style="margin:10px" alt="South Africa GeoGuessr guide image showing Adt">
+<img src="/rule/africa/south-africa/blue.png" width="150px" style="margin:10px" alt="South Africa GeoGuessr guide image showing Blue">
 </div>
 
 {{% notice tip %}}
 Kendaraan berjalan di sisi <span class="quiz">kiri</span> {{% ex "https://maps.app.goo.gl/8gMFG5NsBTamWV8g8" %}}. Garis luar jalan biasanya berwarna <span class="quiz">oranye</span>, sedangkan garis pembatas tengah sering <span class="quiz">putih</span> {{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/south-africa/road.jpg" width="90%" alt="Road" />
+<img src="/rule/africa/south-africa/road.jpg" width="90%" alt="South Africa GeoGuessr guide image showing Road" />
 </div>
 
 {{% notice tip %}}
 <span class="quiz">Sasol</span> adalah perusahaan energi dan kimia besar di Afrika Selatan {{% ex "https://goo.gl/maps/R7Ek9LtT8Tvia73X8" %}} {{% by "https://en.wikipedia.org/wiki/Sasol" "wiki" "Sasol" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/africa/south-africa/2023-08-03-02-58-40.png" width="90%" alt="2023 08 03 02 58 40" />
+<img src="/rule/africa/south-africa/2023-08-03-02-58-40.png" width="90%" alt="South Africa GeoGuessr guide image showing 2023 08 03 02 58 40" />
 </div>
 
 {{% notice tip %}}
 Rambu jalan dengan nomor pada papan hijau memiliki font yang berbeda dibandingkan dengan Australia. Contoh: kiri (Afrika Selatan), kanan (Australia).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="M4">
-<img src="/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
+<img src="/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="R GeoGuessr guide image showing M4">
+<img src="/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="R GeoGuessr guide image showing New South Wales Alphanumeric Route M23">
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="South Africa-N10-001 (cropped).jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="Wikimedia Commons photo showing South Africa N10 001 (cropped)" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Taksi khas di Afrika Selatan biasanya berbentuk van.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050535).jpg#/media/File:Wikimania_2018,_Cape_Town_(P1050535).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wikimania_2018%2C_Cape_Town_%28P1050535%29.jpg" alt="Wikimania 2018, Cape Town (P1050535).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:MB-one" title="User:MB-one">Matti Blume</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70971749">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050535).jpg#/media/File:Wikimania_2018,_Cape_Town_(P1050535).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wikimania_2018%2C_Cape_Town_%28P1050535%29.jpg" alt="Wikimedia Commons photo showing Wikimania 2018, Cape Town (P1050535)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:MB-one" title="User:MB-one">Matti Blume</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70971749">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -118,7 +118,7 @@ Peta ini hanya ilustrasi berdasarkan perkiraan kasar; gunakan hanya sebagai refe
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/2023-04-24-17-09-12.png" width="500px" alt="2023 04 24 17 09 12" />
+<img src="/rule/africa/south-africa/2023-04-24-17-09-12.png" width="500px" alt="South Africa GeoGuessr guide image showing 2023 04 24 17 09 12" />
 </div>
 {{% /tab %}}
 {{% tab "竭 Taman Nasional" %}}
@@ -175,7 +175,7 @@ Nama Karoo adalah lingkungan keras yang sering mengalami kekeringan. Beberapa te
 {{% tabs %}}
 {{% tab "Pertanian" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/2023-05-12-20-42-15.png" width="90%" alt="2023 05 12 20 42 15" />
+<img src="/rule/africa/south-africa/2023-05-12-20-42-15.png" width="90%" alt="South Africa GeoGuessr guide image showing 2023 05 12 20 42 15" />
 <div class="description-wide">
 Waldner, Franﾃｧois, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
 </div>
@@ -187,12 +187,12 @@ Wilayah berlabel *Fruit* (ungu) menunjukkan lokasi anggur, sedangkan wilayah *Su
 {{% /tab %}}
 {{% tab "Tebu" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/ag/sugacane.jpg" width="90%" alt="Sugacane" />
+<img src="/rule/africa/south-africa/ag/sugacane.jpg" width="90%" alt="Ag GeoGuessr guide image showing Sugacane" />
 </div>
 {{% /tab %}}
 {{% tab "Jagung" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/ag/corn.jpg" width="90%" alt="Corn" />
+<img src="/rule/africa/south-africa/ag/corn.jpg" width="90%" alt="Ag GeoGuessr guide image showing Corn" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -217,7 +217,7 @@ Foto ini kemungkinan diambil di R301, yang dikenal sebagai Bain's Kloof Pass {{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/bainskloof_pass01.jpg" width="500px" alt="Bainskloof pass01" />
+<img src="/rule/africa/south-africa/bainskloof_pass01.jpg" width="500px" alt="South Africa GeoGuessr guide image showing Bainskloof pass01" />
 </div>
 {{% /tab %}}
 {{% tab "Plat Nomor" %}}
@@ -248,7 +248,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 Jika Anda sedang berjalan di jalan tanpa kendaraan, pertimbangkan kemungkinan ini {{% ex "https://maps.app.goo.gl/y6M3qmKAhq3qPgSr5" "https://maps.app.goo.gl/78cktLEdWZDZh33x9" %}}. Dari sana, Gunung Table (Table Mountain) dapat terlihat di kejauhan.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/limestone_quarry_robben_island.jpg" width="600px" alt="Limestone quarry robben island" />
+<img src="/rule/africa/south-africa/limestone_quarry_robben_island.jpg" width="600px" alt="South Africa GeoGuessr guide image showing Limestone Quarry Robben Island" />
 </div>
 {{% /tab %}}
 

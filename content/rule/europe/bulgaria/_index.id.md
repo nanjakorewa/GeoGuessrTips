@@ -43,58 +43,58 @@ sc: [
 Nama wilayah pada tanda biasanya ditulis dalam dua bahasa {{% ex "https://maps.app.goo.gl/tHfoNLBNP3xz2GH28" "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/2023-07-23-10-25-46.png" width="278px" alt="2023 07 23 10 25 46" />
-<img src="/rule/europe/bulgaria/2023-07-23-10-23-12.png" width="310px" alt="2023 07 23 10 23 12" />
+<img src="/rule/europe/bulgaria/2023-07-23-10-25-46.png" width="278px" alt="Bulgaria GeoGuessr guide image showing 2023 07 23 10 25 46" />
+<img src="/rule/europe/bulgaria/2023-07-23-10-23-12.png" width="310px" alt="Bulgaria GeoGuessr guide image showing 2023 07 23 10 23 12" />
 </div>
 
 {{% notice tip %}}
 Jumlah garis pada tanda penyeberangan adalah <span class="quiz">4</span> {{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_1a460a22af_w.jpg" width="279" height="400" alt="Image from live.staticflickr.com showing 51716825623 1a460a22af W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Rumah dengan atap genteng merah kecoklatan yang rata pada bagian atas dan biasanya dilengkapi cerobong asap sering ditemukan. Genteng seperti pada foto kedua juga cukup umum {{% ex "https://maps.app.goo.gl/uZyJXDKDpMm4dnXTA" "https://maps.app.goo.gl/V2zNU643L9gUj6Ha9" "https://maps.app.goo.gl/Ja1uWGucQaWgdTPc7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/bulgaria/bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria village cart wooden">
-<img src="/rule/europe/bulgaria/houses_old_home_residences.jpg" width="640" alt="Houses old home residences">
+<img src="/rule/europe/bulgaria/bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria GeoGuessr guide image showing Bulgaria Village Cart Wooden">
+<img src="/rule/europe/bulgaria/houses_old_home_residences.jpg" width="640" alt="Bulgaria GeoGuessr guide image showing Houses Old Home Residences">
 </div>
 
 {{% notice tip %}}
 Tiang listrik dengan kait seperti yang ditemukan di {{% goto "../baltic-state/latvia/" "Latvia" %}} juga dapat ditemukan di Bulgaria {{% ex "https://maps.app.goo.gl/8m7JbzZdDwwVNjCz9" "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}. Tiang listrik juga sering diberi cat kuning dengan tulisan dalam huruf Kiril {{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/bulgaria-road.png" width="90%" alt="Bulgaria road">
+<img src="/rule/europe/bulgaria/bulgaria-road.png" width="90%" alt="Bulgaria GeoGuessr guide image showing Bulgaria Road">
 </div>
 
 {{% notice tip %}}
 Menara listrik dengan bentuk bercabang ke kiri dan kanan seperti pada foto sering ditemukan di Bulgaria {{% ex "https://maps.app.goo.gl/M7zy6gcCFa5VLhuJ8" "https://maps.app.goo.gl/fXuXA6dmWeRTnjJi9" "https://maps.app.goo.gl/CrKQLeKWt7sjcEVdA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Yoakim Gruevo PD 2011 05.JPG" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bin_im_Garten" title="User:Bin im Garten">Bin im Garten</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17330681">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Wikimedia Commons photo showing Yoakim Gruevo Pd 2011 05" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bin_im_Garten" title="User:Bin im Garten">Bin im Garten</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17330681">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Huruf "<span class="quiz">Ъ</span>" hanya digunakan di Bulgaria dan Rusia {{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/bulgaria/direction_signs_plovdivs_sister.jpg" width="95%" alt="Direction signs plovdivs sister">
+<img src="/rule/europe/bulgaria/direction_signs_plovdivs_sister.jpg" width="95%" alt="Bulgaria GeoGuessr guide image showing Direction Signs Plovdivs Sister">
 </div>
 
 {{% notice tip %}}
 Tempat sampah berbentuk drum bundar dengan penutup logam dan roda sering ditemukan di depan rumah atau di jalan {{% ex "https://maps.app.goo.gl/ejG2nFsCEzaYQGwR9" "https://maps.app.goo.gl/4iof8PhKqFXvWZKB9" "https://maps.app.goo.gl/uC3rzE7GAo2CRd696" %}}. Namun, ini juga dapat ditemukan di negara lain sehingga tidak bisa dijadikan patokan utama.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/bulgaria/gb.jpg" width="95%" alt="Gb">
+<img src="/rule/europe/bulgaria/gb.jpg" width="95%" alt="Bulgaria GeoGuessr guide image showing Gb">
 </div>
 
 {{% notice tip %}}
 Kondisi jalan seringkali buruk. Penduduk setempat bahkan membuat peta untuk menghindari jalan yang rusak {{% ref "https://www.roads-bg.eu/#8/42.818/24.944" "Peta Kualitas Jalan Bulgaria" %}}. GDP per kapita pada tahun 2022 adalah yang terendah di Uni Eropa {{% ref "https://www.mofa.go.jp/mofaj/area/bulgaria/data.html" "Data Dasar Bulgaria - Kementerian Luar Negeri Jepang" %}}, sehingga banyak infrastruktur dan rumah terlihat rusak.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg#/media/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tsvetarska_Street%2C_Veliko_Tarnovo.jpg" alt="Tsvetarska Street, Veliko Tarnovo.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE" title="User:Андрей Романенко">Андрей Романенко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145099507">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg#/media/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tsvetarska_Street%2C_Veliko_Tarnovo.jpg" alt="Wikimedia Commons photo showing Tsvetarska Street, Veliko Tarnovo" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE" title="User:Андрей Романенко">Андрей Романенко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145099507">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -118,9 +118,9 @@ Beberapa tanda memiliki stiker berbentuk bulat merah pada bagian belakang.
 Antena Vivacom, perusahaan telekomunikasi terbesar di Bulgaria, sering ditemukan di rumah-rumah {{% ex "https://www.google.com/maps/@42.6995059,27.2516408,0a,17y,17.68h,105.49t/data=!3m4!1e1!3m2!1sLD0DHiT-1i4jqbCVXxk63w!2e0?source=apiv3" "https://goo.gl/maps/7xKpoFArC89Vmygu5" %}}. Antena ini memiliki logo "V" atau tulisan "Vivacom". Antena Bulsatcom juga sering terlihat.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/2023-05-28-21-42-59.png" width="90%" alt="2023 05 28 21 42 59">
-<img src="/rule/europe/bulgaria/2023-06-24-14-11-26.png" width="100px" alt="2023 06 24 14 11 26">
-<img src="/rule/europe/bulgaria/Bulsatcom.svg" width="300px" style="margin:20px" alt="Bulsatcom">
+<img src="/rule/europe/bulgaria/2023-05-28-21-42-59.png" width="90%" alt="Bulgaria GeoGuessr guide image showing 2023 05 28 21 42 59">
+<img src="/rule/europe/bulgaria/2023-06-24-14-11-26.png" width="100px" alt="Bulgaria GeoGuessr guide image showing 2023 06 24 14 11 26">
+<img src="/rule/europe/bulgaria/Bulsatcom.svg" width="300px" style="margin:20px" alt="Bulgaria GeoGuessr guide image showing Bulsatcom">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -140,7 +140,7 @@ Sulit untuk menebak negara pada pandangan pertama {{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/bulgaria/belmeken_001.jpg" alt="Belmeken 001">
+<img src="/rule/europe/bulgaria/belmeken_001.jpg" alt="Bulgaria GeoGuessr guide image showing Belmeken 001">
 </div>
 {{% /tab %}}
 {{% tab "Puncak Botev" %}}
@@ -149,7 +149,7 @@ Sangat sulit dikenali pada pandangan pertama {{% ex "https://maps.app.goo.gl/iF9
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/bulgaria/botev_peak.jpg" alt="Botev peak">
+<img src="/rule/europe/bulgaria/botev_peak.jpg" alt="Bulgaria GeoGuessr guide image showing Botev Peak">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

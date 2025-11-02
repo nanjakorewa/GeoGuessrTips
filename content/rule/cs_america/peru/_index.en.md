@@ -47,7 +47,7 @@ The sign stick <span class="quiz">black and white stripes</span>{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="600" alt="Peru"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/42540452@N06/9319476155" title="Peru"><img src="https://live.staticflickr.com/3681/9319476155_d22b663628_o.jpg" width="600" alt="Image from live.staticflickr.com showing 9319476155 d22b663628 O"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -55,7 +55,7 @@ The sign stick <span class="quiz">black and white stripes</span>{{% ex "https://
 I often see patterns where the roots are hardened with concrete.{{% ex "https://maps.app.goo.gl/kL7v7XMCeL5Lx8wg7" "https://maps.app.goo.gl/tiCCFiqUZnEbxBa18" "https://goo.gl/maps/qnKz8Pb67sYBrkXRA" "https://goo.gl/maps/GHJwvhWMtToGL2ex6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/live2bnomad/395831375/in/photolist-AYJST-9vm9F9-2jj93ZY-U8SU55-fSsH8d-7LJfU8-iDt2Jc-7VTsYo-WRWuJL-2mYyEfa-B2QArt-DVsTYm-GrW1XG-dsTqpS-29jAUwb-P38pD1-2gvTEnt-BoSBAR-aVsXGk-zUL6SG-u4wDuR-bpXA5b-5pdNuy-23J9r2s-276nEhP-224nRF2-CjpqcG-2fu8vjz-dDFv7b-SBv9Hf-5Wch65-neNWky-4CjWQv-MXknvU-4adcR-rWhX8-93Aus8-anjCsU-9SMtbp-5bGtKK-FU9yCR-22QUJCm-gomrd8-7MT8Qn-7MT8SV-97xzC6-99fRZR-cYimSC-7MT8MV-bwps6o" title="A road sign"><img src="https://live.staticflickr.com/144/395831375_fce7f762f6_z.jpg" width="640" height="428" alt="A road sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/live2bnomad/395831375/in/photolist-AYJST-9vm9F9-2jj93ZY-U8SU55-fSsH8d-7LJfU8-iDt2Jc-7VTsYo-WRWuJL-2mYyEfa-B2QArt-DVsTYm-GrW1XG-dsTqpS-29jAUwb-P38pD1-2gvTEnt-BoSBAR-aVsXGk-zUL6SG-u4wDuR-bpXA5b-5pdNuy-23J9r2s-276nEhP-224nRF2-CjpqcG-2fu8vjz-dDFv7b-SBv9Hf-5Wch65-neNWky-4CjWQv-MXknvU-4adcR-rWhX8-93Aus8-anjCsU-9SMtbp-5bGtKK-FU9yCR-22QUJCm-gomrd8-7MT8Qn-7MT8SV-97xzC6-99fRZR-cYimSC-7MT8MV-bwps6o" title="A road sign"><img src="https://live.staticflickr.com/144/395831375_fce7f762f6_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 395831375 fce7f762f6 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ Is it Peru that has a color other than blue on the top of the license plate?{{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px" alt="Ciclovía Invadida por un taxista">
+<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px" alt="Peru GeoGuessr guide image showing Ciclovía Invadida Por Un Taxista">
 </div>
 
 {{% lb %}}
@@ -77,7 +77,7 @@ Vehicles that look like motorcycles or tuk-tuks have license plates.<span class=
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Catacaos,_Peru.jpg#/media/File:Catacaos,_Peru.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Catacaos%2C_Peru.jpg" alt="Catacaos, Peru.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard Gagnon</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=46911639">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Catacaos,_Peru.jpg#/media/File:Catacaos,_Peru.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fe/Catacaos%2C_Peru.jpg" alt="Wikimedia Commons photo showing Catacaos, Peru" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bgag" title="User:Bgag">Bernard Gagnon</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=46911639">Link</a></p>
 </div>
 
 {{% lb %}}
@@ -92,7 +92,7 @@ The telephone pole is <span class="quiz">The sticks are sticking out in the same
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/pole.jpg" width="95%" alt="Pole">
+<img src="/rule/cs_america/peru/pole.jpg" width="95%" alt="Peru GeoGuessr guide image showing Pole">
 </div>
 
 <div class="googlemap-if">
@@ -105,7 +105,7 @@ There is a black and white bollard on the roadside{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p style="width:100%;"><a href="https://commons.wikimedia.org/wiki/File:Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quil%C3%B2metre_261_de_la_carretera_8b.jpg#/media/File:Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quilòmetre_261_de_la_carretera_8b.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quil%C3%B2metre_261_de_la_carretera_8b.jpg" alt="Riu Utcubamba entre Yerbabuena i Limatambo al districte de Mariscal Castilla al quilòmetre 261 de la carretera 8b.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pitxiquin" title="User:Pitxiquin">Pitxiquin</a>- <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59879412">Link</a></p>
+<p style="width:100%;"><a href="https://commons.wikimedia.org/wiki/File:Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quil%C3%B2metre_261_de_la_carretera_8b.jpg#/media/File:Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quilòmetre_261_de_la_carretera_8b.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Riu_Utcubamba_entre_Yerbabuena_i_Limatambo_al_districte_de_Mariscal_Castilla_al_quil%C3%B2metre_261_de_la_carretera_8b.jpg" alt="Wikimedia Commons photo showing Riu Utcubamba Entre Yerbabuena I Limatambo Al Districte De Mariscal Castilla Al Quilòmetre 261 De La Carretera 8b" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pitxiquin" title="User:Pitxiquin">Pitxiquin</a>- <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59879412">Link</a></p>
 </div>
 
 
@@ -115,7 +115,7 @@ long box embedded in the wall{{% ex "https://maps.app.goo.gl/1PLN3XUQsWPPtnoa6" 
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/house.jpg" width="90%" alt="House">
+<img src="/rule/cs_america/peru/house.jpg" width="90%" alt="Peru GeoGuessr guide image showing House">
 </div>
 
 
@@ -128,7 +128,7 @@ on the other hand{{% goto "../ecuador/" "ecuador" %}}has many double guardrails
 {{% /lb %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/kike_sarmiento/5454642910/in/photolist-9j1tiq-4JUvNR-HGZRR-HZPqdv-9XNado-9FQMYJ-7Qjskb-9sca3S-8T1jVK-JxQ1Sa-o2HmeL-pFU4Jb-AmZaEj-6a8ZHV-7k6hHo-5VrKR7-TspZzo-QBDeWe-YaCoN2-2kekAHo-p3rAQH-2nVyKrb-219gxFY-2pDHs2c-2eCdg8Q-pKs4Fd-4mxkpz-bB6UFp-p3cNcK-bCnkka-223PFyq-dhnA22-s5iRMz-SkoJnS-2jAH6xX-2o4E2hv-QWYBG4-26hGraQ-4q3ToR-2jKATRc-4szFLi-MVRiNx-braXyg-2odZuMB-276nEhP-xM1quu-2nyFwy1-2pzeGMt-261z2Jf-2nyAhkR" title="4-nasca-ica_011"><img src="https://live.staticflickr.com/5094/5454642910_295b817351_c.jpg" width="90%" alt="4-nasca-ica_011"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/kike_sarmiento/5454642910/in/photolist-9j1tiq-4JUvNR-HGZRR-HZPqdv-9XNado-9FQMYJ-7Qjskb-9sca3S-8T1jVK-JxQ1Sa-o2HmeL-pFU4Jb-AmZaEj-6a8ZHV-7k6hHo-5VrKR7-TspZzo-QBDeWe-YaCoN2-2kekAHo-p3rAQH-2nVyKrb-219gxFY-2pDHs2c-2eCdg8Q-pKs4Fd-4mxkpz-bB6UFp-p3cNcK-bCnkka-223PFyq-dhnA22-s5iRMz-SkoJnS-2jAH6xX-2o4E2hv-QWYBG4-26hGraQ-4q3ToR-2jKATRc-4szFLi-MVRiNx-braXyg-2odZuMB-276nEhP-xM1quu-2nyFwy1-2pzeGMt-261z2Jf-2nyAhkR" title="4-nasca-ica_011"><img src="https://live.staticflickr.com/5094/5454642910_295b817351_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 5454642910 295b817351 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -192,7 +192,7 @@ You can see black and white Google Cars.However, since black Google Cars are als
 {{% tabs %}}
 {{% tab "vegetation" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Regiones_naturales_del_Per%C3%BA.png#/media/File:Regiones_naturales_del_Perú.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Regiones_naturales_del_Per%C3%BA.png" alt="Regiones naturales del Perú.png" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Maulucioni" title="User:Maulucioni">Maulucioni</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77347972">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Regiones_naturales_del_Per%C3%BA.png#/media/File:Regiones_naturales_del_Perú.png"><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/Regiones_naturales_del_Per%C3%BA.png" alt="Wikimedia Commons photo showing Regiones Naturales Del Perú" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Maulucioni" title="User:Maulucioni">Maulucioni</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77347972">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -207,7 +207,7 @@ There are several places with very high mountains, the first being in the interi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg" alt="Paisaje en chiquian bolognesi">
+<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg" alt="Peru GeoGuessr guide image showing Paisaje En Chiquian Bolognesi">
 </div>
 
 {{% /tab %}}
@@ -218,7 +218,7 @@ There is a whitish desert area along the northernmost coast.photo's{{% ref "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Poblaci%C3%B3_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg#/media/File:Població_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Poblaci%C3%B3_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg" alt="Població del desert al districte de Tambo Grande des de la Panamericana Norte02.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pitxiquin" title="User:Pitxiquin">Pitxiquin</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60318672">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Poblaci%C3%B3_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg#/media/File:Població_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Poblaci%C3%B3_del_desert_al_districte_de_Tambo_Grande_des_de_la_Panamericana_Norte02.jpg" alt="Wikimedia Commons photo showing Població Del Desert Al Districte De Tambo Grande Des De La Panamericana Norte02" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pitxiquin" title="User:Pitxiquin">Pitxiquin</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60318672">Link</a></p>
 </div>
 
 
@@ -242,13 +242,13 @@ An area where there is little except shrubs and grass that spreads out on the pl
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Salinas_and_Aguada_Blanca_Misti_Chachani.jpg#/media/File:Salinas_and_Aguada_Blanca_Misti_Chachani.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Salinas_and_Aguada_Blanca_Misti_Chachani.jpg" alt="Salinas and Aguada Blanca Misti Chachani.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Max_nr_323" title="User:Max nr 323">Max Berger</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49901987">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Salinas_and_Aguada_Blanca_Misti_Chachani.jpg#/media/File:Salinas_and_Aguada_Blanca_Misti_Chachani.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Salinas_and_Aguada_Blanca_Misti_Chachani.jpg" alt="Wikimedia Commons photo showing Salinas And Aguada Blanca Misti Chachani" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Max_nr_323" title="User:Max nr 323">Max Berger</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49901987">Link</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "rice" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px" alt="2023 06 18 20 15 15">
+<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px" alt="Peru GeoGuessr guide image showing 2023 06 18 20 15 15">
 </div>
 
 {{% notice tip %}}
@@ -278,7 +278,7 @@ The suburbs have quite unique scenery.{{% ex "https://maps.app.goo.gl/KhsTptkRrk
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/cesar091/14467938062/in/photolist-o3tXVY-nL72tg-r2aukg-QQjL8G-2mTuWrF-Rt2G2T-R67iyW-R67idA-RpHpMT-Ybpoe-RpHpDB-4qSZxv-rFoKsy-ReD4vW-YfFrj-9dDhbf-RpHpuP-Rjoy5H-YbJm8-Yc75D-QTB78G-Q8cGwh-YbJkc-YbpmX-R67iSS-RpHpGn-QQjxZy-85YaFu-r1XviJ-R8LFhr-R8LFEF-YbJk4-QQjxYS-RfVNUf-R8LG3V-9sDZpS-YfFts-Ybps4-YbJkp-Ybpnx-YfFsh-YfFsw-bsia4m-23HphpA-621bek-621c94-QQjy4S-geWzri-2m9Q6Ku-ZdtCZz" title="Tacna"><img src="https://live.staticflickr.com/2900/14467938062_62211ed517_z.jpg" width="640" height="424" alt="Tacna"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/cesar091/14467938062/in/photolist-o3tXVY-nL72tg-r2aukg-QQjL8G-2mTuWrF-Rt2G2T-R67iyW-R67idA-RpHpMT-Ybpoe-RpHpDB-4qSZxv-rFoKsy-ReD4vW-YfFrj-9dDhbf-RpHpuP-Rjoy5H-YbJm8-Yc75D-QTB78G-Q8cGwh-YbJkc-YbpmX-R67iSS-RpHpGn-QQjxZy-85YaFu-r1XviJ-R8LFhr-R8LFEF-YbJk4-QQjxYS-RfVNUf-R8LG3V-9sDZpS-YfFts-Ybps4-YbJkp-Ybpnx-YfFsh-YfFsw-bsia4m-23HphpA-621bek-621c94-QQjy4S-geWzri-2m9Q6Ku-ZdtCZz" title="Tacna"><img src="https://live.staticflickr.com/2900/14467938062_62211ed517_z.jpg" width="640" height="424" alt="Image from live.staticflickr.com showing 14467938062 62211ed517 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Iquitos" %}}
@@ -286,8 +286,8 @@ The suburbs have quite unique scenery.{{% ex "https://maps.app.goo.gl/KhsTptkRrk
 {{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}}is a city that cannot be directly accessed by road from outside.{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}.Iquitos and{{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}Autorickshaws (locally known as mototaxi) are running in places far from urban areas, such as in the area, and there are relatively few cars.Iquitos also has a lot of European-style architecture.Examples of cities that cannot be accessed by land are:{{% goto "../../n_america/guatemala/#narrowdown-city" "Livingston in Guatemala" %}}etc.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%" alt="Iquitosmoto">
-<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%" alt="Iron house iquitos">
+<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%" alt="Peru GeoGuessr guide image showing Iquitosmoto">
+<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%" alt="Peru GeoGuessr guide image showing Iron House Iquitos">
 </div>
 
 {{% /tab %}}
@@ -298,8 +298,8 @@ The area around Machu Picchu and Aguas Calientes stations is surrounded by mount
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%" alt="Aguas calientes 2 0">
-<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%" alt="Machu picchu peru inca 6">
+<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%" alt="Peru GeoGuessr guide image showing Aguas Calientes 2 0">
+<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%" alt="Peru GeoGuessr guide image showing Machu Picchu Peru Inca 6">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

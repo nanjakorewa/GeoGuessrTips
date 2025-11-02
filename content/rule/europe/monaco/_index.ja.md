@@ -37,7 +37,7 @@ sc: [
 <span class="quiz">水</span>色がうっすらと見える小さめのナンバープレートがあるがほぼ白に見える{{% ex "https://maps.app.goo.gl/zGiWyQRtH3EY122g6" %}}。バイクも同様{{% ex "https://maps.app.goo.gl/octPu9LQAsFQFbU28" %}}。隣国の{{% goto "../france/" "フランス" %}}のナンバーも見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road.jpg" width="90%" alt="Road">
+<img src="./road.jpg" width="90%" alt="Monaco GeoGuessr guide image showing Road">
 </div>
 
 {{% lb 50 %}}
@@ -51,21 +51,21 @@ Public domain
 世界で最も人口密度の高い主権国家であり高層マンションがとても多い。狭いため農地や４車線道路は存在せず、狭く曲がりくねった道やトンネルが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./monaco_monte_carlo_mediterranean.jpg" width="90%" alt="Monaco monte carlo mediterranean">
+<img src="./monaco_monte_carlo_mediterranean.jpg" width="90%" alt="Monaco GeoGuessr guide image showing Monaco Monte Carlo Mediterranean">
 </div>
 
 {{% notice tip %}}
 標識に金色の謎の素材が使われている{{% ex "https://maps.app.goo.gl/tuisUghz3QXgXAdt7" "https://maps.app.goo.gl/8ECdUdsbkiZLd3YD9" %}}。ポールや裏面はこげ茶色のことが多く{{% ex "https://maps.app.goo.gl/c6Lhp2dFioZVGaJm7" %}}、他の国で同じものは見かけない。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./660px-Panneaux_d'indication_à_Monaco_en_novembre_2021.jpg" width="50%" alt="660px Panneaux d'indication à Monaco en novembre 2021">
+<img src="./660px-Panneaux_d'indication_à_Monaco_en_novembre_2021.jpg" width="50%" alt="Monaco GeoGuessr guide image showing 660px Panneaux d'indication À Monaco En Novembre 2021">
 </div>
 
 {{% notice tip %}}
 赤いシェアサイクル（Monabike）を止める場所が町中に見つかる{{% ex "https://maps.app.goo.gl/kvuuJVTr3RueQbk16" "https://maps.app.goo.gl/2K9qJmn6SUn7AcbG7" "https://maps.app.goo.gl/XJ4Vc84Ug2asLKer5" %}}。また<span class="quiz">赤</span>色の線が2本入ったボラードがある{{% ex "https://maps.app.goo.gl/mxqcuKsk3MVtr5gE8" "https://maps.app.goo.gl/aELPbMRAE5g7L68DA" "https://maps.app.goo.gl/ArWqgQFq8pCnGtxg9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./952px-Station_MonaBike_(Grimaldi_Forum)_en_novembre_2021.jpg" width="95%" alt="952px Station MonaBike (Grimaldi Forum) en novembre 2021">
+<img src="./952px-Station_MonaBike_(Grimaldi_Forum)_en_novembre_2021.jpg" width="95%" alt="Monaco GeoGuessr guide image showing 952px Station Monabike (Grimaldi Forum) En Novembre 2021">
 </div>
 
 {{% /tab %}}

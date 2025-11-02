@@ -13,7 +13,7 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/osaka/" title="Osaka" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/osaka/" class="flag-link">
-            <img src="https://geopinning.space/flags/Osaka.svg" alt="Osaka" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Osaka.svg" alt="Image from geopinning.space showing Osaka" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kinki/osaka/" class="flag-link">Osaka</a></p>
     </li>
 </ul>

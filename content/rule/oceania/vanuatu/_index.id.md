@@ -38,7 +38,7 @@ Ada pemandu yang berjalan di depan. Terima kasih.
 Berjalan di kawah dengan lokasi di mana lava dan asap dapat terlihat {{% ex "https://maps.app.goo.gl/Sz4bx9qWaYPkMzfU6" "https://maps.app.goo.gl/ZZMYZUsf8g1yuJDB7" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/vanuatu/marum_sept_2009.jpg" alt="Marum sept 2009">
+<img src="/rule/oceania/vanuatu/marum_sept_2009.jpg" alt="Vanuatu GeoGuessr guide image showing Marum Sept 2009">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

@@ -33,7 +33,7 @@ flag_height: "400px"
 License plates frequently look light blue.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/elsalvador/roadsign.jpg" width="90%" alt="Roadsign">
+<img src="/rule/n_america/elsalvador/roadsign.jpg" width="90%" alt="Elsalvador GeoGuessr guide image showing Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

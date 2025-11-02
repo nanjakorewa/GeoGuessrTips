@@ -44,8 +44,8 @@ Compare the chevrons: San Marino’s are bright orange (left) while Italian chev
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/san-marino/r/output.jpg" width="144px" style="margin-right:30px" alt="San Marino chevron">
-<img src="/rule/europe/italy/r/2023-05-14 041948.png" width="140px" style="margin-left:30px" alt="Italian chevron">
+<img src="/rule/europe/san-marino/r/output.jpg" width="144px" style="margin-right:30px" alt="R GeoGuessr guide image showing Output">
+<img src="/rule/europe/italy/r/2023-05-14 041948.png" width="140px" style="margin-left:30px" alt="R GeoGuessr guide image showing 2023 05 14 041948">
 </div>
 
 {{% notice tip %}}
@@ -53,21 +53,21 @@ Bus stops {{% ex "https://maps.app.goo.gl/7xKNCSKZv9GE59Nx7" "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/san-marino/images.jpg" width="90%" alt="San Marino public services logo">
+<img src="/rule/europe/san-marino/images.jpg" width="90%" alt="San Marino GeoGuessr guide image showing Images">
 </div>
 
 {{% notice tip %}}
 Expect narrow roads with minimal shoulders {{% ex "https://maps.app.goo.gl/J7yHjSL2cfTZeCK89" "https://maps.app.goo.gl/Aa4ohuQmBetANgrL7" %}}. Many routes are single-lane with bends and gradients {{% ex "https://maps.app.goo.gl/PNvJDbZQ9ZEKbsKX8" "https://maps.app.goo.gl/LK9gzDULQCWgyjjq8" "https://maps.app.goo.gl/UgEYTq3qVeB3CZY7A" %}}, and straight stretches are rare {{% ex "https://maps.app.goo.gl/eAp6xXdKzbvEVAzY8" "https://maps.app.goo.gl/LPvxTbPbiGRFsdWX8" "https://maps.app.goo.gl/gdNUiJE1XpjD1Bmf6" %}}. Differences from the surrounding Italian territory are subtle.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/xpyphotorally/38109613731/" title="RLSM17_036"><img src="https://live.staticflickr.com/4488/38109613731_90d83bda5a_c.jpg" width="95%" alt="Hilly road in San Marino"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/xpyphotorally/38109613731/" title="RLSM17_036"><img src="https://live.staticflickr.com/4488/38109613731_90d83bda5a_c.jpg" width="95%" alt="Image from live.staticflickr.com showing 38109613731 90d83bda5a C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 License plates carry a light <span class="quiz">blue</span> band front and rear. {{% ex "https://maps.app.goo.gl/gvRTP2fSev3tfchK6" %}} Among European countries without the EU stripe, check also {{% goto "../switzerland/" "Switzerland" %}}, {{% goto "../monaco/" "Monaco" %}}, {{% goto "../iceland/" "Iceland" %}}, and {{% goto "../andorra/" "Andorra" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/san-marino/subaru_polizia_civile_2.jpg" width="90%" alt="San Marino police car">
+<img src="/rule/europe/san-marino/subaru_polizia_civile_2.jpg" width="90%" alt="San Marino GeoGuessr guide image showing Subaru Polizia Civile 2">
 </div>
 {{% lb 50 %}}
 ![](/rule/europe/san-marino/2023-05-06-01-53-39.png)
@@ -80,7 +80,7 @@ By Seth Schoen (derivative), <a href="https://creativecommons.org/licenses/by-sa
 Crosswalks are painted blue. {{% ex "https://maps.app.goo.gl/fA9yW2jZCrp7nS7U6" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/rapsak/3183318890/" title="San Marino"><img src="https://live.staticflickr.com/3450/3183318890_ac3d41c68f_c.jpg" width="95%" alt="Blue crosswalk in San Marino"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/rapsak/3183318890/" title="San Marino"><img src="https://live.staticflickr.com/3450/3183318890_ac3d41c68f_c.jpg" width="95%" alt="Image from live.staticflickr.com showing 3183318890 ac3d41c68f C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -89,7 +89,7 @@ Monte Titano dominates the country; its three towers—Guaita, Cesta, Montale—
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tabliniumcarlson/51510241007/" title="Monte Titano"><img src="https://live.staticflickr.com/65535/51510241007_9a12ef6960_c.jpg" width="90%" alt="Monte Titano"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tabliniumcarlson/51510241007/" title="Monte Titano"><img src="https://live.staticflickr.com/65535/51510241007_9a12ef6960_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 51510241007 9a12ef6960 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}

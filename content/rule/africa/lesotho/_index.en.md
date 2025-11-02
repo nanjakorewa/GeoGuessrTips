@@ -34,21 +34,21 @@ sc: [
 The country is located within the Drakensberg Mountains, characterized by high altitudes and <span class="quiz">rugged terrain with many flat-topped mountains</span> {{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. Grass is prevalent, and livestock such as sheep and cattle are occasionally visible. Although {{% goto "../eswatini/" "Eswatini" %}} also has high-altitude areas, those are often heavily forested due to active forestry. In contrast, Lesotho often lacks significant tree cover.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/lesotho/mountain.jpg" width="90%" alt="Mountain" />
+<img src="/rule/africa/lesotho/mountain.jpg" width="90%" alt="Lesotho GeoGuessr guide image showing Mountain" />
 </div>
 
 {{% notice tip %}}
 Traditional-style houses are common {{% ex "https://maps.app.goo.gl/Ruq3M3wfxq41DrWR6" "https://goo.gl/maps/fZ2qjZE3XFLgzWMU9" "https://goo.gl/maps/yUS7WW1HVZw2oXZt7" "https://goo.gl/maps/tDCmbjUDhswFRxRU9" "https://goo.gl/maps/VSGPGCGZuxr5ChcN7" %}}{{% ref "https://tabippo.net/lesotho/" "Lesotho - TABIPPO" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="600" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="600" alt="Image from live.staticflickr.com showing 8461337788 5d8c5f7817"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Compared to {{% goto "../eswatini/" "Eswatini" %}}, the grass in Lesotho is often significantly shorter {{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho mountains scenic green">
+<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho GeoGuessr guide image showing Lesotho Mountains Scenic Green">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

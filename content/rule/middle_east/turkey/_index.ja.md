@@ -44,18 +44,18 @@ sc: [
 トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}。国名の『Türkiye』にも『Ü』が使われている{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "トルコが国連における国名表記をテュルキエに変更 - JETRO" %}}。{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg" alt="640px Dikkat Ölüm tehlikesi 20210310 172753">
+<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg" alt="Turkey GeoGuessr guide image showing 640px Dikkat Ölüm Tehlikesi 20210310 172753">
 </div>
 
 {{% notice tip %}}
 標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い{{% ex "https://maps.app.goo.gl/ycd26ZomcZVsHcrK7" "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-06-16-06-39-55.png" width="350px" alt="2023 06 16 06 39 55">
-<img src="2023-06-16-06-36-19.png" width="258px" alt="2023 06 16 06 36 19">
+<img src="2023-06-16-06-39-55.png" width="350px" alt="Turkey GeoGuessr guide image showing 2023 06 16 06 39 55">
+<img src="2023-06-16-06-36-19.png" width="258px" alt="Turkey GeoGuessr guide image showing 2023 06 16 06 36 19">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="85%" alt="Pole" />
+<img src="./pole.png" width="85%" alt="Turkey GeoGuessr guide image showing Pole" />
 </div>
 
 
@@ -65,33 +65,33 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./road-arrow.jpg" width="90%" alt="トルコのシェブロン" />
+<img src="./road-arrow.jpg" width="90%" alt="Turkey GeoGuessr guide image showing Road Arrow" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/175104.png" width="150px" style="margin:15px" alt="175104">
-<img src="./r/c1.jpg" width="150px" style="margin:15px" alt="C1">
-<img src="./r/c2.jpg" width="150px" style="margin:15px" alt="C2">
-<img src="./r/ar-bc.jpg" width="110px" style="margin:15px" alt="Ar bc">
+<img src="./r/175104.png" width="150px" style="margin:15px" alt="R GeoGuessr guide image showing 175104">
+<img src="./r/c1.jpg" width="150px" style="margin:15px" alt="R GeoGuessr guide image showing c1">
+<img src="./r/c2.jpg" width="150px" style="margin:15px" alt="R GeoGuessr guide image showing c2">
+<img src="./r/ar-bc.jpg" width="110px" style="margin:15px" alt="R GeoGuessr guide image showing Ar Bc">
 </div>
 
 {{% notice tip %}}
 止まれの標識は<span class="quiz">DUR</span>、一方通行は<span class="quiz">TEK YÖN</span>。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="DUR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/nnova/4494180685/in/photolist-7R8RkT-Jgavbb-am1T3r-cykDK-2mcXSFs-4TcgwN-2nbYkcp-9MBF48-VWwEpU-6F2bgJ-FdXWQo-3bzm8n-4HGdYp-awpGiw-6EjvQM-8V3p8G-UCzRSt-LX8MS6-5W2ya7-Ct4H2Q-xjotXh-7a8kWH-f1iMJD-ngEvzV-6GFgHq-NmeSjS-ehjB4q-eg6QJR-5NAUPp-ULtU3X-5tWJ9o-f1756V-4zgS7Y-2mjQzLo-UyiixK-GTCdBE-ayUmVb-Zw1yJf-dUSDG-hvDoSn-7gRg9K-5kRkKN-5eum1X-317c8A-6CWzMo-ai1mGW-6Vpa9z-6qUTR5-315Md9-2jpAiGY" title="DUR"><img src="https://live.staticflickr.com/4070/4494180685_d1e1462caa_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 4494180685 d1e1462caa Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Turkish_Stop_Sign.svg" width="120px" alt="Turkish Stop Sign">
-<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px" alt="Turkey road sign B 16">
+<img src="./r/Turkish_Stop_Sign.svg" width="120px" alt="R GeoGuessr guide image showing Turkish Stop Sign">
+<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px" alt="R GeoGuessr guide image showing Turkey Road Sign B 16">
 </div>
 
 {{% notice tip %}}
 ボラードは<span class="quiz">片</span>面に赤い反射板があり薄い{{% ex "https://maps.app.goo.gl/2B9saQ9LE8CkXHm8A" "https://maps.app.goo.gl/P4LwZrxFabNPMnCEA" "https://goo.gl/maps/ejDt4Q6ccMQe9cMr7" "https://goo.gl/maps/keFqsE2rFiqDbMvV9" "https://goo.gl/maps/tm5K7Gxt2NE53EpV8" %}}。一番見た目が似ているのは{{% goto "../../europe/romania" "ルーマニア" %}}のボラード{{% ex "https://goo.gl/maps/aTmBGRa3ofVcGowk8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="85%" alt="トルコのボラード" />
+<img src="./bollard.jpg" width="85%" alt="Turkey GeoGuessr guide image showing Bollard" />
 </div>
 
 
@@ -99,14 +99,14 @@ sc: [
 🧵の形のタイルが歩道などにありがち{{% ex "https://maps.app.goo.gl/QZcXeJxTV3PiCrPX7" "https://maps.app.goo.gl/Nrc6LexVuUGrRKUs5" "https://maps.app.goo.gl/6w1kiajoLA5CdCAS8" "https://maps.app.goo.gl/6Vk7UFCwYJ1cZFMP7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-surface.jpg" width="95%" alt="トルコの歩道の路面" />
+<img src="./road-surface.jpg" width="95%" alt="Turkey GeoGuessr guide image showing Road Surface" />
 </div>
 
 {{% notice tip %}}
 個人的にトルコっぽいと思う電柱{{% imref "⑤のみ画像を外部より引用" %}}。これらに似た違う形や{{% goto "../../europe/bulgaria/" "ブルガリア" %}}にありそうなフック型のものもある{{% ex "https://maps.app.goo.gl/1BhQHXUPbLA3d8xbA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./poles.jpg" width="95%" alt="トルコの電柱" />
+<img src="./poles.jpg" width="95%" alt="Turkey GeoGuessr guide image showing Poles" />
 </div>
 
 <div class="googlemap-if unclickable">
@@ -141,7 +141,7 @@ sc: [
 こんな感じの路面が多い{{% ex "https://maps.app.goo.gl/rgxVhwx5M35xr3kc7" "https://maps.app.goo.gl/9FaVARUKRWWeYqpa9" "https://maps.app.goo.gl/Jr6PTgWtX1UUBmW66" "https://maps.app.goo.gl/kTeW4GfdBA5qvBfK8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-surface.jpg" alt="Road surface">
+<img src="./road-surface.jpg" alt="Turkey GeoGuessr guide image showing Road Surface">
 </div>
 
 {{% notice tip %}}
@@ -180,7 +180,7 @@ sc: [
 キロメートルマーカーから道路番号が読み取れる{{% ex "https://maps.app.goo.gl/xjAQZs9AdUUSigfg7" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/km.png" width="200px" alt="Km">
+<img src="./r/km.png" width="200px" alt="R GeoGuessr guide image showing Km">
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
@@ -194,7 +194,7 @@ sc: [
 {{% /tab %}}
 {{% tab "気候区分" %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Koppen-Geiger_Map_TUR_present.svg#/media/File:Koppen-Geiger_Map_TUR_present.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Koppen-Geiger_Map_TUR_present.svg" alt="Koppen-Geiger Map TUR present.svg" height="599" width="1280"></a></p><p>By Beck, H.E., Zimmermann, N. E., McVicar, T. R., Vergopolan, N., Berg, A., Wood, E. F. - "Present and future Köppen-Geiger climate classification maps at 1-km resolution". Nature Scientific Data. <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="w:Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038/sdata.2018.214">10.1038/sdata.2018.214</a>., <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74674127">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Koppen-Geiger_Map_TUR_present.svg#/media/File:Koppen-Geiger_Map_TUR_present.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Koppen-Geiger_Map_TUR_present.svg" alt="Wikimedia Commons photo showing Koppen Geiger Map Tur Present" height="599" width="1280"></a></p><p>By Beck, H.E., Zimmermann, N. E., McVicar, T. R., Vergopolan, N., Berg, A., Wood, E. F. - "Present and future Köppen-Geiger climate classification maps at 1-km resolution". Nature Scientific Data. <a href="https://en.wikipedia.org/wiki/Digital_object_identifier" class="extiw" title="w:Digital object identifier">DOI</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038/sdata.2018.214">10.1038/sdata.2018.214</a>., <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74674127">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -217,7 +217,7 @@ sc: [
 {{% tabs %}}
 {{% tab "ビニールハウス" %}}
 <div class="googlemap-if">
-<img src="./invernadero_pepinos.jpg" width="600" alt="Invernadero pepinos">
+<img src="./invernadero_pepinos.jpg" width="600" alt="Turkey GeoGuessr guide image showing Invernadero Pepinos">
 </div>
 
 {{% notice tip %}}
@@ -230,17 +230,17 @@ sc: [
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if">
-<img src="./Turkey_corn.png" width="600" alt="Turkey corn">
+<img src="./Turkey_corn.png" width="600" alt="Turkey GeoGuessr guide image showing Turkey Corn">
 </div>
 {{% /tab %}}
 {{% tab "綿花" %}}
 <div class="googlemap-if">
-<img src="./Turkey_cotton.jpg" width="600" alt="Turkey cotton">
+<img src="./Turkey_cotton.jpg" width="600" alt="Turkey GeoGuessr guide image showing Turkey Cotton">
 </div>
 {{% /tab %}}
 {{% tab "ひまわり" %}}
 <div class="googlemap-if">
-<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600" alt="Distribution of wheat barley maize sunflower and cotton production in Turkey Cities">
+<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600" alt="Turkey GeoGuessr guide image showing Distribution Of Wheat Barley Maize Sunflower And Cotton Production In Turkey Cities">
 </div>
 
 {{% notice tip %}}
@@ -276,7 +276,7 @@ Tatar, Özgür. "Climate change impacts on crop production in Turkey." (2016).
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Trabzon_Apr_2020.jpeg#/media/File:Trabzon_Apr_2020.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Trabzon_Apr_2020.jpeg" alt="Trabzon Apr 2020.jpeg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Robot8A" title="User:Robot8A">Robot8A</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97957044">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Trabzon_Apr_2020.jpeg#/media/File:Trabzon_Apr_2020.jpeg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Trabzon_Apr_2020.jpeg" alt="Wikimedia Commons photo showing Trabzon Apr 2020" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Robot8A" title="User:Robot8A">Robot8A</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97957044">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Konya" %}}
@@ -284,7 +284,7 @@ Tatar, Özgür. "Climate change impacts on crop production in Turkey." (2016).
 上の円形のマークの違いを見る必要がある
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-06-16-06-32-12.png" width="500px" alt="2023 06 16 06 32 12">
+<img src="2023-06-16-06-32-12.png" width="500px" alt="Turkey GeoGuessr guide image showing 2023 06 16 06 32 12">
 </div>
 {{% /tab %}}
 {{% tab "Ankara" %}}

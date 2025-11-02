@@ -37,7 +37,7 @@ The red national flag is displayed in front of homes or on the street{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg#/media/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/142_Bui_Cong_Minh%2C_kp_LongBinh%2C_huyen_Longdien%2Ctinh_Baria_Vungtau%2C_Vn_-_panoramio.jpg" alt="142 Bui Cong Minh, kp LongBinh, huyen Longdien,tinh Baria Vungtau, Vn - panoramio.jpg" width="90%"></a></p><p>By trungydang, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60015169">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg#/media/File:142_Bui_Cong_Minh,_kp_LongBinh,_huyen_Longdien,tinh_Baria_Vungtau,_Vn_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c6/142_Bui_Cong_Minh%2C_kp_LongBinh%2C_huyen_Longdien%2Ctinh_Baria_Vungtau%2C_Vn_-_panoramio.jpg" alt="Wikimedia Commons photo showing 142 Bui Cong Minh, Kp LongBinh, Huyen Longdien,tinh Baria Vungtau, Vn Panoramio" width="90%"></a></p><p>By trungydang, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60015169">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Vietnamese is written in the Latin alphabet{{% ex "https://maps.app.goo.gl/z9aUv
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
+<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Vietnum GeoGuessr guide image showing Street Market Hanoi Vietnam 5">
 </div>
 
 {{% notice tip %}}
@@ -53,7 +53,7 @@ There are red and white bollards{{% ex "https://maps.app.goo.gl/p3PwktHnrz74VFNE
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:The_region_of_Binh_Hoa_committee.jpg#/media/File:The_region_of_Binh_Hoa_committee.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_region_of_Binh_Hoa_committee.jpg" alt="The region of Binh Hoa committee.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Y_Kpia_Mlo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Y Kpia Mlo (page does not exist)">Y Kpia Mlo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10847824">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:The_region_of_Binh_Hoa_committee.jpg#/media/File:The_region_of_Binh_Hoa_committee.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/The_region_of_Binh_Hoa_committee.jpg" alt="Wikimedia Commons photo showing The Region Of Binh Hoa Committee" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Y_Kpia_Mlo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Y Kpia Mlo (page does not exist)">Y Kpia Mlo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10847824">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ In addition to regular cylindrical utility poles, you can find poles with holes 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/rice.jpg" width="90%" alt="Rice">
+<img src="/rule/asia/vietnum/rice.jpg" width="90%" alt="Vietnum GeoGuessr guide image showing Rice">
 </div>
 
 {{% /tab %}}
@@ -97,7 +97,7 @@ The Annamite Range extends along the border.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/Vietnam_Topography.png" width="60%" alt="Vietnam Topography">
+<img src="/rule/asia/vietnum/Vietnam_Topography.png" width="60%" alt="Vietnum GeoGuessr guide image showing Vietnam Topography">
 </div>
 
 {{% /tab %}}
@@ -107,11 +107,11 @@ The black areas below are believed to feature karst topography {{% ref "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%" alt="Distribution of karst areas in northern and central Vietnam Through thousands of years of">
+<img src="/rule/asia/vietnum/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%" alt="Vietnum GeoGuessr guide image showing Distribution Of Karst Areas In Northern And Central Vietnam Through Thousands Of Years Of">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/thitrantammson.jpg" alt="Thitrantammson">
+<img src="/rule/asia/vietnum/thitrantammson.jpg" alt="Vietnum GeoGuessr guide image showing Thitrantammson">
 </div>
 
 {{% /tab %}}
@@ -121,7 +121,7 @@ A web-like network of waterways spreads across the area, with many small bridges
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/vietnam_mekong_river_mekong_4.jpg" width="90%" alt="Vietnam mekong river mekong 4">
+<img src="/rule/asia/vietnum/vietnam_mekong_river_mekong_4.jpg" width="90%" alt="Vietnum GeoGuessr guide image showing Vietnam Mekong River Mekong 4">
 </div>
 
 {{% /tab %}}
@@ -131,7 +131,7 @@ Like the Mekong Delta, this delta is filled with rice fields and waterways {{% e
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg#/media/File:%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg" alt="Đồng lúa - panoramio.jpg" height="361" width="640"></a></p><p>By An Nguyễn Hải, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60550416">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg#/media/File:%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/23/%C4%90%E1%BB%93ng_l%C3%BAa_-_panoramio.jpg" alt="Wikimedia Commons photo showing Đồng Lúa Panoramio" height="361" width="640"></a></p><p>By An Nguyễn Hải, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60550416">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -141,7 +141,7 @@ Unlike the Mekong Delta, there is no dense network of waterways {{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<p><a href="https://commons.wikimedia.org/wiki/File:The_central_highlands_in_daklak_Vietnam1.jpg#/media/File:The_central_highlands_in_daklak_Vietnam1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/The_central_highlands_in_daklak_Vietnam1.jpg" alt="The central highlands in daklak Vietnam1.jpg" height="720" width="1047"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:DXLINH&amp;action=edit&amp;redlink=1" class="new" title="User:DXLINH (page does not exist)">DXLINH</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3777906">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:The_central_highlands_in_daklak_Vietnam1.jpg#/media/File:The_central_highlands_in_daklak_Vietnam1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/The_central_highlands_in_daklak_Vietnam1.jpg" alt="Wikimedia Commons photo showing The Central Highlands In Daklak Vietnam1" height="720" width="1047"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:DXLINH&amp;action=edit&amp;redlink=1" class="new" title="User:DXLINH (page does not exist)">DXLINH</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3777906">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -171,7 +171,7 @@ A major administrative reorganization is planned for 2025, consolidating 6 centr
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:2025_map_of_Viet_Nam.jpg#/media/File:2025_map_of_Viet_Nam.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/2025_map_of_Viet_Nam.jpg" alt="2025 map of Viet Nam.jpg" width="70%"></a></p><p>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=168696994">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2025_map_of_Viet_Nam.jpg#/media/File:2025_map_of_Viet_Nam.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/2025_map_of_Viet_Nam.jpg" alt="Wikimedia Commons photo showing 2025 Map Of Viet Nam" width="70%"></a></p><p>Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=168696994">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -181,7 +181,7 @@ Larger administrative areas are typically listed last {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/giang_cafe_nguyen_huu.jpg" width="70%" alt="Giang cafe nguyen huu">
+<img src="/rule/asia/vietnum/giang_cafe_nguyen_huu.jpg" width="70%" alt="Vietnum GeoGuessr guide image showing Giang Cafe Nguyen Huu">
 </div>
 
 {{% /tab %}}
@@ -191,7 +191,7 @@ State-owned electric companies handle distribution regionally, so infrastructure
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/2025-06-28-23-02-50.png" width="90%" alt="2025 06 28 23 02 50">
+<img src="/rule/asia/vietnum/2025-06-28-23-02-50.png" width="90%" alt="Vietnum GeoGuessr guide image showing 2025 06 28 23 02 50">
 </div>
 
 {{% /tab %}}
@@ -248,7 +248,7 @@ The Mekong River basin accounts for more than half of total rice production {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/vietnam_Total_Rice.png" width="60%" alt="Vietnam Total Rice">
+<img src="/rule/asia/vietnum/vietnam_Total_Rice.png" width="60%" alt="Vietnum GeoGuessr guide image showing Vietnam Total Rice">
 </div>
 
 {{% /tab %}}
@@ -258,7 +258,7 @@ While not high in volume, mountain agriculture centers around tea and rice, and 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/960px-Mu_Cang_Chai.jpg" width="90%" alt="960px Mu Cang Chai">
+<img src="/rule/asia/vietnum/960px-Mu_Cang_Chai.jpg" width="90%" alt="Vietnum GeoGuessr guide image showing 960px Mu Cang Chai">
 </div>
 
 {{% /tab %}}
@@ -268,7 +268,7 @@ Rubber plantations are commonly found in inland areas {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/rubber-plantation.png" width="60%" alt="Rubber plantation">
+<img src="/rule/asia/vietnum/rubber-plantation.png" width="60%" alt="Vietnum GeoGuessr guide image showing Rubber Plantation">
 </div>
 
 {{% /tab %}}
@@ -278,7 +278,7 @@ Tea plantations are distributed in parts of mountainous regions {{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/tea-plantation.png" width="60%" alt="Tea plantation">
+<img src="/rule/asia/vietnum/tea-plantation.png" width="60%" alt="Vietnum GeoGuessr guide image showing Tea Plantation">
 </div>
 
 {{% /tab %}}
@@ -288,11 +288,11 @@ Coffee production thrives in regions with slightly higher elevation {{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/345.png" width="90%" alt="345">
+<img src="/rule/asia/vietnum/345.png" width="90%" alt="Vietnum GeoGuessr guide image showing 345">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%" alt="500px Khe Sanh thung lũng, th5n2023 (cây cà phê Khe Sanh, hoa cà phê trắng) (2) (1)">
+<img src="/rule/asia/vietnum/500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%" alt="Vietnum GeoGuessr guide image showing 500px Khe Sanh Thung lũng, th5n2023 (cây Cà Phê Khe Sanh, Hoa Cà Phê trắng) (2) (1)">
 </div>
 
 {{% /tab %}}
@@ -302,7 +302,7 @@ Detailed distribution is unclear, but it is thought to closely mirror that of co
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Pepper_farm_in_vietnam.JPG#/media/File:Pepper_farm_in_vietnam.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pepper_farm_in_vietnam.JPG" alt="File:Pepper farm in vietnam.JPG" height="460" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tonbi_ko" title="User:Tonbi ko">Tonbi ko</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40786447">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Pepper_farm_in_vietnam.JPG#/media/File:Pepper_farm_in_vietnam.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Pepper_farm_in_vietnam.JPG" alt="Wikimedia Commons photo showing Pepper Farm In Vietnam" height="460" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tonbi_ko" title="User:Tonbi ko">Tonbi ko</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40786447">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -312,7 +312,7 @@ In central Vietnam, acacia plantations are found as a result of a large-scale re
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/faoforestry/12169472824/in/photolist-Yck1o7-28D9DZJ-e4pSSU-9Vx9iP-9Vx8ti-9VAoF7-jxnHpA-9VxAoD-9VQzaK-jxkB3c-jxoVnd-jxkANp-jxkADr-2jiZUSX-jxmKzD-6Qjj5K-jxnHxm-jxmKyX-jxoVf9-jxnHvN-jxoV8L-jxoVwm-2mJTrmv-6QkGGs-uNbcqS-jxnJhY-9VzZsA-9VAq2f-2grwKWu-2jLiF4C-2jLhL6h-2jLec8B-2jLiFbg-2jLiFdk-2k58kjZ-2k5ocNn-2k56ayB-2k5iLmp-2k46K5r-2k5iLiZ-2k5qSdu-2k4Qdum-2k4awg5-2jLiF6M" title="Vietnam"><img src="https://live.staticflickr.com/5512/12169472824_2b2e3175ca_c.jpg" width="800" height="501" alt="Vietnam"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/faoforestry/12169472824/in/photolist-Yck1o7-28D9DZJ-e4pSSU-9Vx9iP-9Vx8ti-9VAoF7-jxnHpA-9VxAoD-9VQzaK-jxkB3c-jxoVnd-jxkANp-jxkADr-2jiZUSX-jxmKzD-6Qjj5K-jxnHxm-jxmKyX-jxoVf9-jxnHvN-jxoV8L-jxoVwm-2mJTrmv-6QkGGs-uNbcqS-jxnJhY-9VzZsA-9VAq2f-2grwKWu-2jLiF4C-2jLhL6h-2jLec8B-2jLiFbg-2jLiFdk-2k58kjZ-2k5ocNn-2k56ayB-2k5iLmp-2k46K5r-2k5iLiZ-2k5qSdu-2k4Qdum-2k4awg5-2jLiF6M" title="Vietnam"><img src="https://live.staticflickr.com/5512/12169472824_2b2e3175ca_c.jpg" width="800" height="501" alt="Image from live.staticflickr.com showing 12169472824 2b2e3175ca C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -333,7 +333,7 @@ Some cities have logos included on street name signs, which can help identify th
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Nha_Chung_street_signs.jpg#/media/File:Nha_Chung_street_signs.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nha_Chung_street_signs.jpg" alt="Nha Chung street signs.jpg" height="427" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41894171246@N01">Nam-ho Park</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/41894171246@N01/3390169458">IMG_5176</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17514899">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Nha_Chung_street_signs.jpg#/media/File:Nha_Chung_street_signs.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Nha_Chung_street_signs.jpg" alt="Wikimedia Commons photo showing Nha Chung Street Signs" height="427" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/41894171246@N01">Nam-ho Park</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/41894171246@N01/3390169458">IMG_5176</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17514899">Link</a></p>
 
 <blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="718"><a href="https://www.reddit.com/r/geoguessr/comments/wjvrpe/i_know_vietnam_isnt_common_but_here_are_some/">I know Vietnam isn't common, but here are some symbols to look out for.</a><br> by<a href="https://www.reddit.com/user/Analbaby1/">u/Analbaby1</a> in<a href="https://www.reddit.com/r/geoguessr/">geoguessr</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
 </div>
@@ -345,7 +345,7 @@ White sandy beaches stretch along the roadside {{% ex "https://maps.app.goo.gl/i
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/hachi8/19942001051/in/photolist-wocY9k-259qyZg-F9T5z9-hwpasg-fUx2wM-c2J3Co-QHuXMa-c2J57m-FqndyV-24Khrkz-c2J5DN-2e2WRMY-c2J4HC-21Gc5DC-FAQPqL-pCZfcc-c2J5Bf-22nJgXo-oRLNAL-9ZWQYc-22LNPve-c2J3Z7-HqxUTU-21Gc4gh-nbgHUh-aFFwUg-c2J27W-c2J2k7-231ibSi-DmFMFn-mzDfcF-c2J4PN-emhdFT-ngucYx-c2J2uN-EhJdxu-mzF6sG-PAgGeZ-c2J3DU-kh8zo5-4EXj5t-c2J2gh-26BQvm7-c2J4Wy-fUw93G-pS2mUf-rZMz2G-pSdMM6-mzDLsi-dT8xRB/" title="HA8_0523_15"><img src="https://live.staticflickr.com/393/19942001051_640449955b_c.jpg" width="90%" alt="HA8_0523_15"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/hachi8/19942001051/in/photolist-wocY9k-259qyZg-F9T5z9-hwpasg-fUx2wM-c2J3Co-QHuXMa-c2J57m-FqndyV-24Khrkz-c2J5DN-2e2WRMY-c2J4HC-21Gc5DC-FAQPqL-pCZfcc-c2J5Bf-22nJgXo-oRLNAL-9ZWQYc-22LNPve-c2J3Z7-HqxUTU-21Gc4gh-nbgHUh-aFFwUg-c2J27W-c2J2k7-231ibSi-DmFMFn-mzDfcF-c2J4PN-emhdFT-ngucYx-c2J2uN-EhJdxu-mzF6sG-PAgGeZ-c2J3DU-kh8zo5-4EXj5t-c2J2gh-26BQvm7-c2J4Wy-fUw93G-pS2mUf-rZMz2G-pSdMM6-mzDLsi-dT8xRB/" title="HA8_0523_15"><img src="https://live.staticflickr.com/393/19942001051_640449955b_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 19942001051 640449955b C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -355,7 +355,7 @@ Although coastal roads are not particularly numerous, unique submerged karst top
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/ha_long_bay_with.jpg" alt="Ha long bay with">
+<img src="/rule/asia/vietnum/ha_long_bay_with.jpg" alt="Vietnum GeoGuessr guide image showing Ha Long Bay With">
 </div>
 
 {{% /tab %}}
@@ -375,7 +375,7 @@ A southern offshore island. The roads are often either unpaved with red soil {{%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/phu_quoc.jpg" alt="Phu quoc">
+<img src="/rule/asia/vietnum/phu_quoc.jpg" alt="Vietnum GeoGuessr guide image showing Phu Quoc">
 </div>
 
 {{% /tab %}}
@@ -385,7 +385,7 @@ Chinese-language signage and duty-free shops can be found {{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/mongcai.jpg" width="90%" alt="Mongcai">
+<img src="/rule/asia/vietnum/mongcai.jpg" width="90%" alt="Vietnum GeoGuessr guide image showing Mongcai">
 </div>
 
 {{% /tab %}}

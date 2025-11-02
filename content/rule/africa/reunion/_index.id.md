@@ -38,21 +38,21 @@ sc: [
 Bolard dan tiang bergaya Prancis terlihat{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}; tiang sering ada pelat biru{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/b2.jpg" width="90%" alt="B2">
+<img src="/rule/africa/reunion/b2.jpg" width="90%" alt="Reunion GeoGuessr guide image showing b2">
 </div>
 
 {{% notice tip %}}
 Pulau vulkanik; sering terlihat batu berwarna <span class="quiz">cokelat kemerahan</span> di tepi jalan{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/7DCJup8YyfxmLsMJ6" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/road_volcano_reunion_island.jpg" width="95%" alt="Road volcano reunion island">
+<img src="/rule/africa/reunion/road_volcano_reunion_island.jpg" width="95%" alt="Reunion GeoGuessr guide image showing Road Volcano Reunion Island">
 </div>
 
 {{% notice tip %}}
 Di dataran rendah banyak kebun <span class="quiz">tebu</span>{{% ex "https://maps.app.goo.gl/HbBXG71PjMv8P6Uz6" "https://maps.app.goo.gl/5Se1LGfNqNEUGHm16" %}}{{% ref "https://www.laperruche.fr/ja/sugar-cane/" "la Perruche (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/canne_a_sucre_de.jpg" width="95%" alt="Canne a sucre de">
+<img src="/rule/africa/reunion/canne_a_sucre_de.jpg" width="95%" alt="Reunion GeoGuessr guide image showing Canne A Sucre De">
 </div>
 
 {{% notice tip %}}

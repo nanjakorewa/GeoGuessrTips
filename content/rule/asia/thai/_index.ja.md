@@ -51,7 +51,7 @@ products:
 中央タイ語が公用語となっている{{% ex "https://maps.app.goo.gl/7kwR5CrUKtMRAKi67" "https://maps.app.goo.gl/eSnJC45LR227nERC8" "https://maps.app.goo.gl/Vx4vY1Fo5V7ArcDC8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Wikimedia Commons photo showing Kilometre Zero Milestone Northern Thailand" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
 </div>
 
 {{% notice tip %}}ボラード{{% ex "https://maps.app.goo.gl/LFcwNBFWbcvfepjK8" "https://maps.app.goo.gl/2ai85g4hDdZfSdpYA" "https://maps.app.goo.gl/yyt5p8LpQn9kvpLE8" "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}}と電柱{{% ex "https://maps.app.goo.gl/WWVAC8TyCRSMeqRe9" "https://maps.app.goo.gl/4ARsc5G394Z7EhRh7" "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}}が角ばっているので角ばりを感じたらタイかも。
@@ -61,7 +61,7 @@ products:
 似たような角張ったボラードが{{% goto "../laos/" "ラオス" %}}に、角ばった電柱が{{% goto "../srilanka/" "スリランカ" %}}や{{% goto "../philippines/" "フィリピン" %}}にもあるので注意。車のナンバーが黄色・電柱のコイルが大きい・穴が開いた電柱があるなら{{% goto "../srilanka/" "スリランカ" %}}、車のナンバーが緑っぽい・独特な形の乗り物があるならば{{% goto "../philippines/" "フィリピン" %}}を考えてみる。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.png" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
+<img src="./road.png" width="90%" alt="Thai GeoGuessr guide image showing Road" style="margin-bottom:0;padding-bottom:0;" />
 </div>
 
 <div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
@@ -73,13 +73,13 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./thailand-milestone.jpg" width="90%" alt="タイのボラード" />
+<img src="./thailand-milestone.jpg" width="90%" alt="Thai GeoGuessr guide image showing Thailand Milestone" />
 </div>
 
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="lp.jpg" width="90%" alt="Lp">
+<img src="lp.jpg" width="90%" alt="Thai GeoGuessr guide image showing Lp">
 </div>
 
 {{% lb 50 %}}
@@ -94,7 +94,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Main road in Ko Lanta (5).jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Wikimedia Commons photo showing Main Road In Ko Lanta (5)" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
 </div>
 
 
@@ -103,7 +103,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="pole.jpg" width="90%" alt="Pole">
+<img src="pole.jpg" width="90%" alt="Thai GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
@@ -115,7 +115,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road205_in_amphoe_thep.jpg" width="90%" alt="Road205 in amphoe thep">
+<img src="road205_in_amphoe_thep.jpg" width="90%" alt="Thai GeoGuessr guide image showing road205 In Amphoe Thep">
 </div>
 
 {{% /tab %}}
@@ -179,7 +179,7 @@ Public Domain
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
+<img src="2023-05-01-21-17-28.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -188,11 +188,11 @@ Public Domain
 {{% /tab %}}
 {{% tab "ゴム" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
+<img src="rubber-tree-distribution.png" width="60%" alt="Thai GeoGuessr guide image showing Rubber Tree Distribution" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./rubberwood.jpg" alt="Rubberwood">
+<img src="./rubberwood.jpg" alt="Thai GeoGuessr guide image showing Rubberwood">
 </div>
 
 {{% notice tip %}}
@@ -201,7 +201,7 @@ Public Domain
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
+<img src="2023-05-01-21-15-43.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -210,7 +210,7 @@ Public Domain
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
+<img src="2023-05-01-21-18-17.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}
@@ -266,7 +266,7 @@ Public Domain
 {{% tabs %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Thailand telephone area codes.svg" height="720" width="409"></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Wikimedia Commons photo showing Thailand Telephone Area Codes" height="720" width="409"></a>
 </p><p>By <a href="//commons.wikimedia.org/wiki/User:Ponpan" title="User:Ponpan">Ponpan</a> - This <a href="https://en.wikipedia.org/wiki/vector_image" class="extiw" title="w:vector image">vector image</a> includes elements that have been taken or adapted from this file.</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79476331">Link</a></p>
 </div>
 {{% /tab %}}
@@ -289,7 +289,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./samui_koh_samui_bangrak.jpg" width="90%" alt="Samui koh samui bangrak">
+<img src="./samui_koh_samui_bangrak.jpg" width="90%" alt="Thai GeoGuessr guide image showing Samui Koh Samui Bangrak">
 </div>
 
 {{% /tab %}}
@@ -301,7 +301,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Walking street At Lipe Island(Koh Lipe) - panoramio.jpg" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg#/media/File:Walking_street_At_Lipe_Island(Koh_Lipe)_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c8/Walking_street_At_Lipe_Island%28Koh_Lipe%29_-_panoramio.jpg" alt="Wikimedia Commons photo showing Walking Street At Lipe Island(Koh Lipe) Panoramio" width="90%"></a></p><p>By <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161102051955/http://www.panoramio.com/user/1429473?with_photo_id=124396350">::::=UT=::::</a> - <a rel="nofollow" class="external free" href="https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350">https://web.archive.org/web/20161102051949/http://www.panoramio.com/photo/124396350</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60162568">Link</a></p>
 </div>
 
 {{% /tab %}}

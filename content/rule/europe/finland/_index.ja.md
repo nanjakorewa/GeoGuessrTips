@@ -44,27 +44,27 @@ additional_link:
 地域名が書かれた看板の矢印の形が▶のような塗りつぶし or 綺麗な▷になっている。また<span class="quiz">～tie</span>という通り名をよく見かける。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sanue/4677517675/in/photolist-88kv3t-joKr4m-dpxeB8-2jFfxth-Dngn5f-kLXhk-6gno9S-6dANPE-CEUHPG-TrrQhA-KxozeL-9mPHha-9PtGZv-2npgBoC-W8WYnu-9HguN-59Xrfq-2j3Nb62-qkqqF-mdJ2hs-LjUsmA-2kgZKkZ-9P9BRA-NrWQyP-5QL3Qk-fEcw5Q-9H6mVx-DnRuGN-gPsfG7-2mWaff-fmXgcH-hJ7T4p-pvgkLK-dw5fCC-59Xtm9-8WYrME-dkZsG5-JQaPRe-2ejA9UU-8WYeky-2mX3XbN-cuTA2b-bNbLga-bNbLi2-oU4qgA-9GGuWa-eVXJfN-qksAD-djbqti-2kHQFLi" title="The road sign / Touring to Porvoo"><img src="https://live.staticflickr.com/4033/4677517675_4a294a54e3_z.jpg" width="640" height="480" alt="The road sign / Touring to Porvoo"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sanue/4677517675/in/photolist-88kv3t-joKr4m-dpxeB8-2jFfxth-Dngn5f-kLXhk-6gno9S-6dANPE-CEUHPG-TrrQhA-KxozeL-9mPHha-9PtGZv-2npgBoC-W8WYnu-9HguN-59Xrfq-2j3Nb62-qkqqF-mdJ2hs-LjUsmA-2kgZKkZ-9P9BRA-NrWQyP-5QL3Qk-fEcw5Q-9H6mVx-DnRuGN-gPsfG7-2mWaff-fmXgcH-hJ7T4p-pvgkLK-dw5fCC-59Xtm9-8WYrME-dkZsG5-JQaPRe-2ejA9UU-8WYeky-2mX3XbN-cuTA2b-bNbLga-bNbLi2-oU4qgA-9GGuWa-eVXJfN-qksAD-djbqti-2kHQFLi" title="The road sign / Touring to Porvoo"><img src="https://live.staticflickr.com/4033/4677517675_4a294a54e3_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 4677517675 4a294a54e3 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
+            <img src="../sweden/r/Sweden_road_sign_F5.svg" alt="R GeoGuessr guide image showing Sweden Road Sign F5">
+            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Swedish Road Sign 1 5 2 15">
         </div>
         <p><span class="quiz">スウェーデン</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
+            <img src="../finland/r/Paikalliskohteen_viitta_648.svg" alt="R GeoGuessr guide image showing Paikalliskohteen Viitta 648">
+            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Moottori Ja Moottoriliikennetien Viitta 649">
         </div>
         <p><span class="quiz">フィンランド</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
+            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing 1920px Norwegian Road Sign 713">
         </div>
         <p><span class="quiz">ノルウェー</span></p>
     </div>
@@ -75,9 +75,9 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Finland Road Sign E1 1" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing No Road Sign 516.H" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Sweden Road Sign B3 1" />
 </div>
 
 
@@ -86,22 +86,22 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./streetsign.jpg" width="95%" alt="Streetsign">
+<img src="./streetsign.jpg" width="95%" alt="Finland GeoGuessr guide image showing Streetsign">
 </div>
 
 {{% notice tip %}}
 フィンランドは警告看板の<span class="quiz">まわりに黄色の細い縁</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:10px;;border-radius:20px;">
-<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" alt="Finland road sign A15" />
-<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" alt="Finland road sign B5" />
-<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" alt="Finland road sign C32 60" />
+<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" alt="R GeoGuessr guide image showing Finland Road Sign A15" />
+<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" alt="R GeoGuessr guide image showing Finland Road Sign B5" />
+<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" alt="R GeoGuessr guide image showing Finland Road Sign C32 60" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
-<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" alt="Sweden road sign B1" />
-<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" alt="Sweden road sign C31 10" />
-<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" alt="NO road sign 362.100" />
+<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" alt="Finland GeoGuessr guide image showing Sweden Road Sign B1" />
+<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" alt="Finland GeoGuessr guide image showing Sweden Road Sign C31 10" />
+<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" alt="Finland GeoGuessr guide image showing No Road Sign 362.100" />
 </div>
 
 
@@ -109,9 +109,9 @@ additional_link:
 北欧の狭い道にあるPassing place（車の待避所）の看板がフィンランドだけ矢印。舗装されておらず家も見当たらない場所でヒントになることがある。左から<span class="quiz">フィンランド</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
-<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" alt="Finland road sign E5" />
-<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" alt="Sweden road sign E18" />
-<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" alt="NO road sign 524" />
+<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" alt="P GeoGuessr guide image showing Finland Road Sign E5" />
+<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" alt="P GeoGuessr guide image showing Sweden Road Sign E18" />
+<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" alt="P GeoGuessr guide image showing No Road Sign 524" />
 </div>
 
 
@@ -120,11 +120,11 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);" alt="Road">
+<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);" alt="Sweden GeoGuessr guide image showing Road">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.png" width="90%" alt="Road" />
+<img src="road.png" width="90%" alt="Finland GeoGuessr guide image showing Road" />
 </div>
 
 {{% notice tip %}}
@@ -132,7 +132,7 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./nature_finnish_finnish_landscape.jpg" width="90%" alt="Nature finnish finnish landscape" />
+<img src="./nature_finnish_finnish_landscape.jpg" width="90%" alt="Finland GeoGuessr guide image showing Nature Finnish Finnish Landscape" />
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-17-13-12-50.png" width="570px" alt="2023 06 17 13 12 50" />
+<img src="2023-06-17-13-12-50.png" width="570px" alt="Finland GeoGuessr guide image showing 2023 06 17 13 12 50" />
 </div>
 
 {{% /tab %}}
@@ -211,7 +211,7 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/22686439@N08/5577106915/in/photolist-9uQ8zM-F5V9Wc-8U4XQF-3TBPf-27aqW2y-ngk1sp-2dgKxNs-XytwVe-F8S6G8-NjRF1u-21MzUPb-2eBqtqr-47bwxj-a7dTei-qF94f5-dwupH6-2e3HDzG-23ekNNz-KHWBiK-TomY9-8pHaHZ-dNsFDF-ivZuhF-4EBx9E-23ZnSbj-JWoPdb-onta7x-216mh7j-bYK7gf-pkgUQA-4QLSd3-4jUKbR-f2MpBM-8ET33-bmSAa1-hKngr9-28ahQic-QdBVLu-dcuws9-o8WbLB-wA5yUC-8mH1uR-othua1-22rfDjd-BDo7C-9k8Ct-5rTZnh-23uui2q-XZWXta-ctmiZ1" title="Finland"><img src="https://live.staticflickr.com/5012/5577106915_ea72e6c853_z.jpg" width="640" height="480" alt="Finland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/22686439@N08/5577106915/in/photolist-9uQ8zM-F5V9Wc-8U4XQF-3TBPf-27aqW2y-ngk1sp-2dgKxNs-XytwVe-F8S6G8-NjRF1u-21MzUPb-2eBqtqr-47bwxj-a7dTei-qF94f5-dwupH6-2e3HDzG-23ekNNz-KHWBiK-TomY9-8pHaHZ-dNsFDF-ivZuhF-4EBx9E-23ZnSbj-JWoPdb-onta7x-216mh7j-bYK7gf-pkgUQA-4QLSd3-4jUKbR-f2MpBM-8ET33-bmSAa1-hKngr9-28ahQic-QdBVLu-dcuws9-o8WbLB-wA5yUC-8mH1uR-othua1-22rfDjd-BDo7C-9k8Ct-5rTZnh-23uui2q-XZWXta-ctmiZ1" title="Finland"><img src="https://live.staticflickr.com/5012/5577106915_ea72e6c853_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 5577106915 ea72e6c853 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -229,7 +229,7 @@ additional_link:
 {{% tab "市外局番" %}}
 
 <div class="googlemap-if unclickable">
-<p><img src="Finland.telephone.areacodes.svg" alt="SWE Areacodes.svg" width="60%"></a></p>
+<p><img src="Finland.telephone.areacodes.svg" alt="Finland GeoGuessr guide image showing Finland.telephone.areacodes" width="60%"></a></p>
 <p>Public domain</p>
 </div>
 

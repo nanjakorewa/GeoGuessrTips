@@ -48,12 +48,12 @@ Jaringan bus LIEmobil berwarna hijau tua mencolok{{% ex "https://maps.app.goo.gl
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(279).jpg#/media/File:Wikiolo_in_Liechtenstein_(279).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wikiolo_in_Liechtenstein_%28279%29.jpg" alt="Wikiolo in Liechtenstein (279).jpg" width="95%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(279).jpg#/media/File:Wikiolo_in_Liechtenstein_(279).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wikiolo_in_Liechtenstein_%28279%29.jpg" alt="Wikimedia Commons photo showing Wikiolo In Liechtenstein (279)" width="95%"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Wikiolo" title="User:Wikiolo">Wikiolo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79697497">Link</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/LIEmobil_logo.png" width="400px" alt="LIEmobil logo">
+<img src="/rule/europe/liechtenstein/LIEmobil_logo.png" width="400px" alt="Liechtenstein GeoGuessr guide image showing Liemobil Logo">
 </div>
 
 
@@ -62,7 +62,7 @@ Ciri-cirinya mirip {{% goto "../switzerland/" "Swiss" %}}: zebra cross berwarna 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/960px-Schaan.jpg" width="95%" alt="960px Schaan">
+<img src="/rule/europe/liechtenstein/960px-Schaan.jpg" width="95%" alt="Liechtenstein GeoGuessr guide image showing 960px Schaan">
 </div>
 
 {{% notice tip %}}
@@ -70,11 +70,11 @@ Bahasa yang digunakan adalah bahasa Jerman; Anda dapat menemukan kata “GENEREL
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg#/media/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_%28Nord%29.jpg" alt="Schaan Liechtenstein Ortsbeginn auf Hauptstrasse (Nord).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90017181">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg#/media/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_%28Nord%29.jpg" alt="Wikimedia Commons photo showing Schaan Liechtenstein Ortsbeginn Auf Hauptstrasse (Nord)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90017181">Link</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px" alt="640px Flag of Liechtenstein princely house.svg">
+<img src="/rule/europe/liechtenstein/640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px" alt="Liechtenstein GeoGuessr guide image showing 640px Flag Of Liechtenstein Princely house.svg">
 </div>
 
 {{% notice tip %}}
@@ -82,13 +82,13 @@ Pelat alamat biasanya menuliskan nomor rumah di atas nama jalan{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg#/media/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2018-10-05_Liechtenstein%2C_Vaduz%2C_Rotes_Haus_%28KPFC%29_04.jpg" alt="2018-10-05 Liechtenstein, Vaduz, Rotes Haus (KPFC) 04.jpg" width="90%"></a></p><p>By Rafael P. D. Suppmann, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73511504">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg#/media/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2018-10-05_Liechtenstein%2C_Vaduz%2C_Rotes_Haus_%28KPFC%29_04.jpg" alt="Wikimedia Commons photo showing 2018 10 05 Liechtenstein, Vaduz, Rotes Haus (KPFC) 04" width="90%"></a></p><p>By Rafael P. D. Suppmann, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73511504">Link</a></p>
 </div>
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;" alt="Stname">
-<img src="/rule/europe/liechtenstein/Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px" alt="Liechtensteinische Post logo">
+<img src="/rule/europe/liechtenstein/stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;" alt="Liechtenstein GeoGuessr guide image showing Stname">
+<img src="/rule/europe/liechtenstein/Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px" alt="Liechtenstein GeoGuessr guide image showing Liechtensteinische Post Logo">
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ Ditemukan juga kotak hijau untuk membuang kotoran anjing{{% ex "https://maps.app
 
 
 <div class="googlemap-if no-margin">
-<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Davos,_Holsboerweg_(Wanderweg).JPG#/media/File:Davos,_Holsboerweg_(Wanderweg).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Davos%2C_Holsboerweg_%28Wanderweg%29.JPG" alt="Davos, Holsboerweg (Wanderweg).JPG" width="440"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12536500">Link</a></p>
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Davos,_Holsboerweg_(Wanderweg).JPG#/media/File:Davos,_Holsboerweg_(Wanderweg).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Davos%2C_Holsboerweg_%28Wanderweg%29.JPG" alt="Wikimedia Commons photo showing Davos, Holsboerweg (Wanderweg)" width="440"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12536500">Link</a></p>
 </div>
 
 {{% /tab %}}

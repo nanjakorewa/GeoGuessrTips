@@ -35,22 +35,22 @@ sc: [
 Abundan las vías estrechas con muros de piedra a ambos lados{{% ex "https://maps.app.goo.gl/1nZ7MxWGeRx7BdGr9" "https://maps.app.goo.gl/kcGcXQnCPmmCk4sJ8" "https://maps.app.goo.gl/JmNA1Nr7ShkH98fa9" "https://maps.app.goo.gl/uAZkEAKPmVxbKSyR8" "https://maps.app.goo.gl/gzVkQYJ1nkDmVP278" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/balearic-islands/stonewall.jpg" width="95%" alt="Stonewall">
-<img src="/rule/europe/balearic-islands/lighthouse_mallorca_balearic_islands.jpg" width="95%" alt="Lighthouse mallorca balearic islands">
+<img src="/rule/europe/balearic-islands/stonewall.jpg" width="95%" alt="Balearic Islands GeoGuessr guide image showing Stonewall">
+<img src="/rule/europe/balearic-islands/lighthouse_mallorca_balearic_islands.jpg" width="95%" alt="Balearic Islands GeoGuessr guide image showing Lighthouse Mallorca Balearic Islands">
 </div>
 
 {{% notice tip %}}
 La tierra suele presentar un tono rojizo.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/balearic-islands/redsoil.jpg" width="95%" alt="Redsoil">
+<img src="/rule/europe/balearic-islands/redsoil.jpg" width="95%" alt="Balearic Islands GeoGuessr guide image showing Redsoil">
 </div>
 
 {{% notice tip %}}
 Al ser territorio de {{% goto "../spain/" "España" %}}, comparte con la península los mismos postes eléctricos, bolardos, señalización y chevrones{{% ex "https://maps.app.goo.gl/yG2t32avoQZ5HC1eA" "https://maps.app.goo.gl/Utt6K2KxMH4YXTT69" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/balearic-islands/road.jpg" width="95%" alt="Road">
+<img src="/rule/europe/balearic-islands/road.jpg" width="95%" alt="Balearic Islands GeoGuessr guide image showing Road">
 </div>
 
 {{% /tab %}}

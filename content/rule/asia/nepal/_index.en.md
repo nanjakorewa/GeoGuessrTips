@@ -40,7 +40,7 @@ Los rótulos utilizan escritura devanagari; a diferencia de India, muchos númer
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/kmc3.jpg" width="90%" alt="Kmc3">
+<img src="/rule/asia/nepal/kmc3.jpg" width="90%" alt="Nepal GeoGuessr guide image showing kmc3">
 </div>
 
 
@@ -49,7 +49,7 @@ Las matrículas suelen ser <span class="quiz">rojas</span>{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/24017857@N02/2282988412/in/photolist-DCfrfX-f2Y1CZ-258x1L9-8M8iGF-qjvSEo-238pCZp-4tJUVE-bDFkrE-snQrE5-2f62Jaf-2cJ3F8f-FvYbE-mNKCRX-F1A3Sb-b6Vgrt-NL3ShE-7R28yy-nNVwFq-cJPuMs-JYgRxJ-GwePEk-7Xi1nY-aGvjy4-SQWy8u-Qpn5Cy-21V9Q9t-22Vc1w4-dwGGRa-5NEcbL-hZbZK5-Dj8V9V-9eL2MV-qEKAKe-aEVPjn-5hRchH-qdqLco-8QJcrw-PmVdwb-dzMCq1-eX5LdU-b4YgwF-nNFmDv-4tJUVb-85JHLn-g1V7ok-21an3WU-aKrTar-aqNEo5-nNHzx4-o5TZji" title="nepal-207"><img src="https://live.staticflickr.com/3227/2282988412_ec82a600d5_z.jpg" width="583" height="389" alt="nepal-207"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/24017857@N02/2282988412/in/photolist-DCfrfX-f2Y1CZ-258x1L9-8M8iGF-qjvSEo-238pCZp-4tJUVE-bDFkrE-snQrE5-2f62Jaf-2cJ3F8f-FvYbE-mNKCRX-F1A3Sb-b6Vgrt-NL3ShE-7R28yy-nNVwFq-cJPuMs-JYgRxJ-GwePEk-7Xi1nY-aGvjy4-SQWy8u-Qpn5Cy-21V9Q9t-22Vc1w4-dwGGRa-5NEcbL-hZbZK5-Dj8V9V-9eL2MV-qEKAKe-aEVPjn-5hRchH-qdqLco-8QJcrw-PmVdwb-dzMCq1-eX5LdU-b4YgwF-nNFmDv-4tJUVb-85JHLn-g1V7ok-21an3WU-aKrTar-aqNEo5-nNHzx4-o5TZji" title="nepal-207"><img src="https://live.staticflickr.com/3227/2282988412_ec82a600d5_z.jpg" width="583" height="389" alt="Image from live.staticflickr.com showing 2282988412 ec82a600d5 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -64,7 +64,7 @@ Abundan los pinos del Himalaya (Pinus roxburghii){{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%" alt="Dalhousie3">
+<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%" alt="Nepal GeoGuessr guide image showing dalhousie3">
 </div>
 
 {{% notice tip %}}
@@ -72,7 +72,7 @@ Los bolardos blancos y negros y el borde amarillo son característicos{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:B.P._Koirala_Highway6.jpg#/media/File:B.P._Koirala_Highway6.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/B.P._Koirala_Highway6.jpg" alt="B.P. Koirala Highway6.jpg" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Janak_Bhatta" title="User:Janak Bhatta">Janak Bhatta</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58570500">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:B.P._Koirala_Highway6.jpg#/media/File:B.P._Koirala_Highway6.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/B.P._Koirala_Highway6.jpg" alt="Wikimedia Commons photo showing B.P. Koirala Highway6" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Janak_Bhatta" title="User:Janak Bhatta">Janak Bhatta</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58570500">Link</a></p>
 </div>
 
 
@@ -81,7 +81,7 @@ La herencia británica se aprecia en ciertas señales{{% ex "https://maps.app.go
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="90%" alt="Traffic signs, Kathmandu, Nepal."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 13256285354 981d45fcba C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -92,7 +92,7 @@ El Himalaya se alinea con la frontera norte, mientras que al sur se extienden ll
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/nepal/Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%" alt="Chure Range Chure Hills Chure Region Nepal">
+<img src="/rule/asia/nepal/Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Chure Range Chure Hills Chure Region Nepal">
 </div>
 
 {{% /tab %}}
@@ -102,7 +102,7 @@ Las palmeras areca se concentran en las llanuras del extremo oriental. Las plant
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<p><a href="https://commons.wikimedia.org/wiki/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg#/media/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg" alt="अन्तु डाडा antu dada.jpg" height="425" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Hari_gurung77" title="User:Hari gurung77">Hari gurung77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59062347">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg#/media/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg" alt="Wikimedia Commons photo showing अन्तु डाडा Antu Dada" height="425" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Hari_gurung77" title="User:Hari gurung77">Hari gurung77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59062347">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -130,7 +130,7 @@ El pueblo sirve como centro logístico: abundan mochilas de alta montaña y band
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="1230px A night view of Namche Bazaar in Nepal, photographed on the route to the Everest Base Camp trek, December 1, 2023">
+<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="Nepal GeoGuessr guide image showing 1230px A Night View Of Namche Bazaar In Nepal, Photographed On The Route To The Everest Base Camp trek, December 1, 2023">
 </div>
 
 {{% /tab %}}

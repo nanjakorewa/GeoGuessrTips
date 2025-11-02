@@ -40,7 +40,7 @@ sc: [
 ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。またポルトガルの速度制限や警告看板には白い縁がある{{% ex "https://maps.app.goo.gl/8DMbVRv8VcRw5N9o6" %}}が{{% goto "../spain/" "スペイン" %}}には無い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./ruaseixo.jpg" width="80%" alt="Ruaseixo">
+<img src="./ruaseixo.jpg" width="80%" alt="Portugal GeoGuessr guide image showing Ruaseixo">
 </div>
 
 
@@ -48,7 +48,7 @@ sc: [
 ナンバープレートは<span class="quiz">右側が黄色</span>{{% ex "https://maps.app.goo.gl/5pSZeVPDXLF97bak8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" alt="Car" />
+<img src="./car.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Car" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-00-36.png)
@@ -60,7 +60,7 @@ sc: [
 電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://maps.app.goo.gl/F3S8Z9NacfsTSGoUA" "https://maps.app.goo.gl/fhcRFZBCRgbxDvF39" "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}や{{% goto "../france/" "フランス" %}}の電柱も穴が空いていることがある点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="90%" alt="Up">
+<img src="./up.png" width="90%" alt="Portugal GeoGuessr guide image showing Up">
 </div>
 
 
@@ -69,7 +69,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./r/Portugal_road_sign_H7.svg" width="140px" alt="Portugal road sign H7">
+<img src="./r/Portugal_road_sign_H7.svg" width="140px" alt="R GeoGuessr guide image showing Portugal Road Sign H7">
 </div>
 
 
@@ -82,14 +82,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/xv-portugal.png" width="140px" style="margin:10px" alt="Xv portugal">
+<img src="./r/xv-portugal.png" width="140px" style="margin:10px" alt="R GeoGuessr guide image showing Xv Portugal">
 </div>
 
 {{% notice tip %}}
 古い石畳の道があったり歩道が石畳だったりする{{% ex "https://maps.app.goo.gl/ozXMmnBiqHCwYThz7" "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.png" width="90%" alt="Street">
+<img src="./street.png" width="90%" alt="Portugal GeoGuessr guide image showing Street">
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%" alt="Roadsign">
+<img src="./roadsign.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Roadsign">
 </div>
 
 
@@ -114,16 +114,16 @@ sc: [
 <table style="width:480px">
 <tr>
 <td style="width:120px">
-<img src="./nh1.png" width="30px" alt="Nh1">
+<img src="./nh1.png" width="30px" alt="Portugal GeoGuessr guide image showing nh1">
 </td>
 <td style="width:120px">
-<img src="./nh2.png" width="30px" alt="Nh2">
+<img src="./nh2.png" width="30px" alt="Portugal GeoGuessr guide image showing nh2">
 </td>
 <td style="width:120px">
-<img src="./nh3.png" width="30px" alt="Nh3">
+<img src="./nh3.png" width="30px" alt="Portugal GeoGuessr guide image showing nh3">
 </td>
 <td style="width:120px">
-<img src="./nh4.png" width="30px" alt="Nh4">
+<img src="./nh4.png" width="30px" alt="Portugal GeoGuessr guide image showing nh4">
 </td>
 </tr>
 <tr>
@@ -144,11 +144,11 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg#/media/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg" alt="Associação de Reabilitação Social e Desinstitucionalização de Doentes Psiquiátricos.jpg" height="360" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Joehawkins&amp;action=edit&amp;redlink=1" class="new" title="User:Joehawkins (page does not exist)">Joehawkins</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54612143">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg#/media/File:Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Associa%C3%A7%C3%A3o_de_Reabilita%C3%A7%C3%A3o_Social_e_Desinstitucionaliza%C3%A7%C3%A3o_de_Doentes_Psiqui%C3%A1tricos.jpg" alt="Wikimedia Commons photo showing Associação De Reabilitação Social E Desinstitucionalização De Doentes Psiquiátricos" height="360" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Joehawkins&amp;action=edit&amp;redlink=1" class="new" title="User:Joehawkins (page does not exist)">Joehawkins</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54612143">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="nohunting.png" width="60%" alt="Nohunting">
+<img src="nohunting.png" width="60%" alt="Portugal GeoGuessr guide image showing Nohunting">
 </div>
 
 
@@ -158,7 +158,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./cork_oak_cork_bark.jpg" width="90%" alt="Cork oak cork bark">
+<img src="./cork_oak_cork_bark.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Cork Oak Cork Bark">
 </div>
 
 
@@ -200,7 +200,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="antigo_troco_do_ip5.jpg" width="95%" alt="Antigo troco do ip5">
+<img src="antigo_troco_do_ip5.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Antigo Troco Do ip5">
 </div>
 
 {{% notice tip %}}
@@ -208,7 +208,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="pins_de_la_paloumere.jpg" width="95%" alt="Pins de la paloumere">
+<img src="pins_de_la_paloumere.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Pins De La Paloumere">
 </div>
 
 
@@ -221,7 +221,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="en122_alentejo.jpg" width="95%" alt="En122 alentejo">
+<img src="en122_alentejo.jpg" width="95%" alt="Portugal GeoGuessr guide image showing en122 Alentejo">
 </div>
 
 {{% /tab %}}
@@ -232,7 +232,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="madeira_banana_shrub_road.jpg" width="95%" alt="Madeira banana shrub road">
+<img src="madeira_banana_shrub_road.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Madeira Banana Shrub Road">
 </div>
 
 {{% /tab %}}
@@ -255,7 +255,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Peneda_Ger%C3%AAs-3.jpg#/media/File:Peneda_Ger%C3%AAs-3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Peneda_Ger%C3%AAs-3.jpg" alt="Peneda Gerês-3.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Mvs12&amp;action=edit&amp;redlink=1" class="new" title="User:Mvs12 (page does not exist)">Mvs12</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40267992">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Peneda_Ger%C3%AAs-3.jpg#/media/File:Peneda_Ger%C3%AAs-3.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/81/Peneda_Ger%C3%AAs-3.jpg" alt="Wikimedia Commons photo showing Peneda Gerês 3" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Mvs12&amp;action=edit&amp;redlink=1" class="new" title="User:Mvs12 (page does not exist)">Mvs12</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40267992">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -267,7 +267,7 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./city/cantaromagro.jpg" alt="Cantaromagro">
+<img src="./city/cantaromagro.jpg" alt="City GeoGuessr guide image showing Cantaromagro">
 </div>
 
 {{% /tab %}}
@@ -279,8 +279,8 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./city/berlenga_fort.jpg" width="310px" alt="Berlenga fort">
-<img src="./city/berlenga_island_bay.jpg" width="310px" alt="Berlenga island bay">
+<img src="./city/berlenga_fort.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Fort">
+<img src="./city/berlenga_island_bay.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Island Bay">
 </div>
 
 {{% /tab %}}
@@ -291,7 +291,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./city/lisbon_old_town_tram_0.jpg" width="95%" alt="Lisbon old town tram 0">
+<img src="./city/lisbon_old_town_tram_0.jpg" width="95%" alt="City GeoGuessr guide image showing Lisbon Old Town Tram 0">
 </div>
 
 {{% /tab %}}

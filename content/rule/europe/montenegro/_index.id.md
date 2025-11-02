@@ -38,7 +38,7 @@ sc: [
 Plat nomor memiliki pita biru di kiri dan <span class="quiz">lambang di tengah</span>; bagian tersebut kadang tampak kemerahan{{% ex "https://maps.app.goo.gl/XKk4oFYuAG9Bsejo8" "https://maps.app.goo.gl/A9fuD52Ge1eenJaSA" %}}. Ada juga mobil dengan plat putih polos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/montenegro/1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%" alt="1087px DSC 0122 Podgorica, July 2017">
+<img src="/rule/europe/montenegro/1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%" alt="Montenegro GeoGuessr guide image showing 1087px Dsc 0122 Podgorica, July 2017">
 </div>
 
 {{% lb 50 small %}}
@@ -52,7 +52,7 @@ CC0
 Sering terlihat tebing batu berwarna putih{{% ex "https://goo.gl/maps/pSX7rPdDxfJhs1BD7" "https://goo.gl/maps/Y2WLPsoVLHYdNXP69" "https://goo.gl/maps/LZMThQnCMUmBZNzL7" "https://goo.gl/maps/qkbt4fm4LvtgcTEw8" %}}. Bollard dari negara tetangga bisa muncul, jadi jangan hanya mengandalkan bollard; periksa retakan gambar atau plat nomor.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Montenegro_46.jpg#/media/File:Montenegro_46.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Montenegro_46.jpg" alt="Montenegro 46.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Oktoober&amp;action=edit&amp;redlink=1" class="new" title="User:Oktoober (page does not exist)">Oktoober</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=114381873">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Montenegro_46.jpg#/media/File:Montenegro_46.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Montenegro_46.jpg" alt="Wikimedia Commons photo showing Montenegro 46" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Oktoober&amp;action=edit&amp;redlink=1" class="new" title="User:Oktoober (page does not exist)">Oktoober</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=114381873">Link</a></p>
 </div>
 
 
@@ -61,7 +61,7 @@ Guardrail <span class="quiz">kuning</span> banyak ditemukan di pegunungan dan se
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/aligatorpics/9317602276/in/photolist-fcn9x7-ocLbjX-Kb5i2n-xJ1h74-27Ey42H-KcHkQh-2cagJCG-LUNha7-8wKEFe-vM8F6k-2eDVutw-2bfSFwb-AypzQk-8AckMD-gaFt4n-NNHX44-2a4M1yr-dvL5PM-xcwWjQ-YxbXyx-NsJk5n-BVodTG-2575Rw7-NZJhqt-cmXotU-eytPkb-afLJr3-27EyHm8-aaQ5hM-25Y1cte-eNXS1e-28KTxK4-K8ikdB-ZAhhgk-22mg2Nm-8VXvkL-wVG9rE-eysjh6-EQGbvF-eNXRSi-mmDss8-KyKxVG-26dqMkg-23Xaf2n-G6KRCR-HDCabR-YDeYDt-ekhC7D-CsGbJH-24RtYKx" title="Sharp turn ahead"><img src="https://live.staticflickr.com/2852/9317602276_4e5038b97a_z.jpg" width="640" height="428" alt="Sharp turn ahead"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/aligatorpics/9317602276/in/photolist-fcn9x7-ocLbjX-Kb5i2n-xJ1h74-27Ey42H-KcHkQh-2cagJCG-LUNha7-8wKEFe-vM8F6k-2eDVutw-2bfSFwb-AypzQk-8AckMD-gaFt4n-NNHX44-2a4M1yr-dvL5PM-xcwWjQ-YxbXyx-NsJk5n-BVodTG-2575Rw7-NZJhqt-cmXotU-eytPkb-afLJr3-27EyHm8-aaQ5hM-25Y1cte-eNXS1e-28KTxK4-K8ikdB-ZAhhgk-22mg2Nm-8VXvkL-wVG9rE-eysjh6-EQGbvF-eNXRSi-mmDss8-KyKxVG-26dqMkg-23Xaf2n-G6KRCR-HDCabR-YDeYDt-ekhC7D-CsGbJH-24RtYKx" title="Sharp turn ahead"><img src="https://live.staticflickr.com/2852/9317602276_4e5038b97a_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 9317602276 4e5038b97a Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -69,7 +69,7 @@ Rumah berdinding putih dan gunung berbatu putih sering terlihat{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/montenegro/montenegro_rijeka_crnojevica_1230321.jpg" width="95%" alt="Montenegro rijeka crnojevica 1230321">
+<img src="/rule/europe/montenegro/montenegro_rijeka_crnojevica_1230321.jpg" width="95%" alt="Montenegro GeoGuessr guide image showing Montenegro Rijeka Crnojevica 1230321">
 </div>
 
 {{% /tab  %}}
@@ -79,7 +79,7 @@ Stasiun pengisian seperti EKO umum di wilayah antara {{% goto "../greece/" "Yuna
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/montenegro/fuel_station_eko_pic2.jpg" alt="Fuel station eko pic2">
+<img src="/rule/europe/montenegro/fuel_station_eko_pic2.jpg" alt="Montenegro GeoGuessr guide image showing Fuel Station Eko pic2">
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ Supermarket bernama IDEA hadir di seluruh {{% goto "../serbia/" "Serbia" %}} dan
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/idea.png" width="400px" alt="Idea">
+<img src="/rule/europe/serbia/idea.png" width="400px" alt="Serbia GeoGuessr guide image showing Idea">
 </div>
 
 

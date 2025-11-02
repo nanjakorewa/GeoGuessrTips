@@ -37,7 +37,7 @@ If the area is flat with reddish roads, it could be the <span class="quiz">Ålan
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:2018-08-30_%C3%85land_by_Olaf_Kosinsky_7815.jpg#/media/File:2018-08-30_Åland_by_Olaf_Kosinsky_7815.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/2018-08-30_%C3%85land_by_Olaf_Kosinsky_7815.jpg" alt="2018-08-30 Åland by Olaf Kosinsky 7815.jpg" width="95%"></a></p><p>By <a href="https://www.wikidata.org/wiki/Q30108329" class="extiw" title="d:Q30108329"><span title="German photographer">Olaf Kosinsky</span></a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en" title="Creative Commons Attribution-Share Alike 3.0 de">CC BY-SA 3.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=75350844">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2018-08-30_%C3%85land_by_Olaf_Kosinsky_7815.jpg#/media/File:2018-08-30_Åland_by_Olaf_Kosinsky_7815.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/2018-08-30_%C3%85land_by_Olaf_Kosinsky_7815.jpg" alt="Wikimedia Commons photo showing 2018 08 30 Åland By Olaf Kosinsky 7815" width="95%"></a></p><p>By <a href="https://www.wikidata.org/wiki/Q30108329" class="extiw" title="d:Q30108329"><span title="German photographer">Olaf Kosinsky</span></a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0/de/deed.en" title="Creative Commons Attribution-Share Alike 3.0 de">CC BY-SA 3.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=75350844">Link</a></p>
 </div>
 
 {{% notice tip %}}

@@ -37,21 +37,21 @@ sc: [
 Terdapat formasi batu kapur besar yang dikenal sebagai *The Rock*, dengan tebing batu putih yang berada dekat dengan permukiman {{% ex "https://maps.app.goo.gl/f2xuSjBFS9fgZtAD6" "https://maps.app.goo.gl/8ttDiLvZ4rF6SPGSA" "https://maps.app.goo.gl/je2FQvmN3EWyYVMT6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/gibraltar/gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar rock british 890293">
+<img src="/rule/europe/gibraltar/gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Gibraltar Rock British 890293">
 </div>
 
 {{% notice tip %}}
 Lalu lintas di sisi <span class="quiz">kanan</span> dan pelat nomor mobil berwarna putih di depan serta <span class="quiz">kuning</span> di belakang {{% ex "https://maps.app.goo.gl/k4bE2XNAE4v9x3Y89" "https://maps.app.goo.gl/SpjXPcmpDCzyrWiM6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/gibraltar/car.jpg" width="95%" alt="Car">
+<img src="/rule/europe/gibraltar/car.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Car">
 </div>
 
 {{% notice tip %}}
 Pelabuhan Gibraltar dan galangan kapal dapat dilihat di sebelah barat {{% ex "https://maps.app.goo.gl/mQgpyFynN1YCH1RN8" "https://maps.app.goo.gl/iY8koRJ9cWyZoC2j7" %}} {{% ref "https://en.wikipedia.org/wiki/Port_of_Gibraltar" "Pelabuhan Gibraltar" %}}. Wilayah ini memiliki banyak aktivitas industri militer, termasuk galangan kapal untuk keperluan militer, dengan banyak kapal terlihat di sekitar. Industri pariwisata dan keuangan juga berkembang di sini.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/gibraltar/gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar monkeys mediterranean sea">
+<img src="/rule/europe/gibraltar/gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Gibraltar Monkeys Mediterranean Sea">
 </div>
 
 {{% notice tip %}}

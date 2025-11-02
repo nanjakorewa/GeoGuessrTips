@@ -42,7 +42,7 @@ sc: [
 Los buzones Allux, fabricados en Odense, aparecen por todo el país; destacan por su tapa redondeada{{% ex "https://maps.app.goo.gl/CZvXH19Lwqhf2Aqp8" "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}{{% imref %}}. También pueden verse en la vecina {{% goto "../germany/" "Alemania" %}} continental y en las {{% goto "../faroe_islands/" "Islas Feroe" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" alt="2024 10 15 23 20 20">
+<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" alt="Denmark GeoGuessr guide image showing 2024 10 15 23 20 20">
 </div>
 
 
@@ -50,14 +50,14 @@ Los buzones Allux, fabricados en Odense, aparecen por todo el país; destacan po
 Los postes tubulares redondeados son ubicuos: incluso los nombres de calles emplean la misma tubería. En los Países Bajos se usa con más frecuencia tubo cuadrado. El sufijo <span class="quiz">-vej</span> significa literalmente “calle” en danés{{% ref "https://en.wiktionary.org/wiki/vej#Danish" "vej" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="80%" alt="Nørklerier (knitting) i Vandborg 16"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/walter_johannesen/7669586170/" title="Nørklerier (knitting) i Vandborg 16"><img src="https://live.staticflickr.com/8003/7669586170_88de1d1d5b_c.jpg" width="80%" alt="Image from live.staticflickr.com showing 7669586170 88de1d1d5b C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Los bolardos presentan <span class="quiz">reflectores amarillos y franjas rojas</span>{{% ex "https://maps.app.goo.gl/9aokZujn399n7AJt9" "https://goo.gl/maps/go3gDCpJTiSecArf7" "https://goo.gl/maps/AJpWxsWiskTXCnyv8" %}}. El adhesivo naranja de la parte superior puede despegarse, así que no confíes solo en él{{% imref %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/denmark/bollards.png" width="90%" alt="Bolardos de Dinamarca" />
+<img src="/rule/europe/denmark/bollards.png" width="90%" alt="Denmark GeoGuessr guide image showing Bollards" />
 </div>
 
 
@@ -65,7 +65,7 @@ Los bolardos presentan <span class="quiz">reflectores amarillos y franjas rojas<
 Los nombres de calles con <span class="quiz">vej</span>, høje o haven son frecuentes{{% ex "https://maps.app.goo.gl/3jLBjRir1QwGqp1HA" "https://maps.app.goo.gl/PS5i5Ev2ixegsPdt8" "https://maps.app.goo.gl/7jpPBxtWTta6aEn2A" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/street-sign.jpg" width="95%" alt="Street sign">
+<img src="/rule/europe/denmark/street-sign.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Street Sign">
 </div>
 
 
@@ -73,7 +73,7 @@ Los nombres de calles con <span class="quiz">vej</span>, høje o haven son frecu
 Es habitual ver mástiles en los jardines delanteros; las familias izan la bandera durante fiestas o cumpleaños{{% ex "https://maps.app.goo.gl/H8EUtVvjRG9WN7AXA" "https://maps.app.goo.gl/N9rpu6NoVyxbM8bJ7" "https://maps.app.goo.gl/5x8oKSpKQ5Li6hP67" "https://maps.app.goo.gl/mm1STHyENuP6TSdSA" "https://maps.app.goo.gl/PckYsMgpz4ShSmir9" "https://maps.app.goo.gl/Z58g6R6Cgho4PszA6" %}}{{% ref "https://theslowroad.org/quirks-of-denmark/" "Quirks of Denmark" %}}. Las banderas son inusualmente estrechas{{% ex "https://maps.app.goo.gl/4bAes6SYNwc6xpML7" "https://maps.app.goo.gl/jqNCM2covDMA4guQ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/denmark_home_afternoon_nature.jpg" width="95%" alt="Denmark home afternoon nature">
+<img src="/rule/europe/denmark/denmark_home_afternoon_nature.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Denmark Home Afternoon Nature">
 </div>
 
 
@@ -119,7 +119,7 @@ El lado oriental de la isla de Anholt es una duna arenosa con apenas caminos{{% 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/denmark/Anholt_island_view_2005.jpg" width="95%" alt="Anholt island view 2005">
+<img src="/rule/europe/denmark/Anholt_island_view_2005.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Anholt Island View 2005">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697261565914!6m8!1m7!1sja229-1LQr8vmd1-vK0EtQ!2m2!1d56.71580830041433!2d11.54309706651893!3f339.80967863425553!4f-2.5571449070028933!5f0.4000000000000002" width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

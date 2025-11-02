@@ -38,7 +38,7 @@ Pada tahun 1715, Mauritius menjadi wilayah Prancis, dan pada 30 Mei 1814 menjadi
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Image_de_Flic-en-Flac_(Maurice)_en_2018_-_26.JPG#/media/File:Image_de_Flic-en-Flac_(Maurice)_en_2018_-_26.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Image_de_Flic-en-Flac_%28Maurice%29_en_2018_-_26.JPG" alt="Image de Flic-en-Flac (Maurice) en 2018 - 26.JPG" height="720" width="540"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=66586390">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Image_de_Flic-en-Flac_(Maurice)_en_2018_-_26.JPG#/media/File:Image_de_Flic-en-Flac_(Maurice)_en_2018_-_26.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Image_de_Flic-en-Flac_%28Maurice%29_en_2018_-_26.JPG" alt="Wikimedia Commons photo showing Image De Flic En Flac (Maurice) En 2018 26" height="720" width="540"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=66586390">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ Mengemudi di sisi kiri dan pelat nomor belakang berwarna kuning adalah kesamaan 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG#/media/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG" alt="Rue de Flic en Flac en soirﾃｩe.JPG" width="96%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=66587279">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG#/media/File:Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rue_de_Flic_en_Flac_en_soir%C3%A9e.JPG" alt="Wikimedia Commons photo showing Rue De Flic En Flac En Soirée" width="96%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=66587279">Link</a></p>
 </div>
 
 {{% /tab %}}

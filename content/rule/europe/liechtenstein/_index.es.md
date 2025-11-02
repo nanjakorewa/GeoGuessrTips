@@ -46,12 +46,12 @@ Los autobuses y marquesinas de LIEmobil son negros {{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(279).jpg#/media/File:Wikiolo_in_Liechtenstein_(279).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wikiolo_in_Liechtenstein_%28279%29.jpg" alt="Autobús en Liechtenstein" width="95%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Wikiolo_in_Liechtenstein_(279).jpg#/media/File:Wikiolo_in_Liechtenstein_(279).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Wikiolo_in_Liechtenstein_%28279%29.jpg" alt="Wikimedia Commons photo showing Wikiolo In Liechtenstein (279)" width="95%"></a></p>
 <p>Por <a href="//commons.wikimedia.org/wiki/User:Wikiolo" title="User:Wikiolo">Wikiolo</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79697497">Wikimedia Commons</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/LIEmobil_logo.png" width="400px" alt="Logotipo LIEmobil">
+<img src="/rule/europe/liechtenstein/LIEmobil_logo.png" width="400px" alt="Liechtenstein GeoGuessr guide image showing Liemobil Logo">
 </div>
 
 
@@ -60,7 +60,7 @@ Comparte muchas señales con {{% goto "../switzerland/" "Suiza" %}}: pasos de ce
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/960px-Schaan.jpg" width="95%" alt="Calle en Schaan">
+<img src="/rule/europe/liechtenstein/960px-Schaan.jpg" width="95%" alt="Liechtenstein GeoGuessr guide image showing 960px Schaan">
 </div>
 
 {{% notice tip %}}
@@ -68,11 +68,11 @@ Encontrarás palabras como “GENERELL” en la señalización {{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg#/media/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_%28Nord%29.jpg" alt="Cartel de Schaan" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90017181">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg#/media/File:Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_(Nord).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Schaan_Liechtenstein_Ortsbeginn_auf_Hauptstrasse_%28Nord%29.jpg" alt="Wikimedia Commons photo showing Schaan Liechtenstein Ortsbeginn Auf Hauptstrasse (Nord)" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Walser123" class="mw-redirect" title="User:Walser123">Walser123</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90017181">Wikimedia Commons</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px" alt="Bandera principesca">
+<img src="/rule/europe/liechtenstein/640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px" alt="Liechtenstein GeoGuessr guide image showing 640px Flag Of Liechtenstein Princely house.svg">
 </div>
 
 {{% notice tip %}}
@@ -80,12 +80,12 @@ Las placas domiciliarias muestran la calle bajo el número {{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg#/media/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2018-10-05_Liechtenstein%2C_Vaduz%2C_Rotes_Haus_%28KPFC%29_04.jpg" alt="Casa en Vaduz" width="90%"></a></p><p>Por Rafael P. D. Suppmann, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73511504">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg#/media/File:2018-10-05_Liechtenstein,_Vaduz,_Rotes_Haus_(KPFC)_04.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2018-10-05_Liechtenstein%2C_Vaduz%2C_Rotes_Haus_%28KPFC%29_04.jpg" alt="Wikimedia Commons photo showing 2018 10 05 Liechtenstein, Vaduz, Rotes Haus (KPFC) 04" width="90%"></a></p><p>Por Rafael P. D. Suppmann, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=73511504">Wikimedia Commons</a></p>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;" alt="Placa de calle">
-<img src="/rule/europe/liechtenstein/Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px" alt="Liechtensteinische Post">
+<img src="/rule/europe/liechtenstein/stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;" alt="Liechtenstein GeoGuessr guide image showing Stname">
+<img src="/rule/europe/liechtenstein/Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px" alt="Liechtenstein GeoGuessr guide image showing Liechtensteinische Post Logo">
 </div>
 
 {{% notice tip %}}
@@ -93,7 +93,7 @@ Las papeleras verdes ROBIDOG aparecen frecuentemente {{% ex "https://maps.app.go
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Davos,_Holsboerweg_(Wanderweg).JPG#/media/File:Davos,_Holsboerweg_(Wanderweg).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Davos%2C_Holsboerweg_%28Wanderweg%29.JPG" alt="Papeleras ROBIDOG" width="440"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12536500">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Davos,_Holsboerweg_(Wanderweg).JPG#/media/File:Davos,_Holsboerweg_(Wanderweg).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Davos%2C_Holsboerweg_%28Wanderweg%29.JPG" alt="Wikimedia Commons photo showing Davos, Holsboerweg (Wanderweg)" width="440"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12536500">Wikimedia Commons</a></p>
 </div>
 
 {{% /tab %}}

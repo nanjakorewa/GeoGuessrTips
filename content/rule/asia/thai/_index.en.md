@@ -34,14 +34,14 @@ plonkit: true
 Central Thai is the official language{{% ex "https://goo.gl/maps/42vxjK3DUGysPFVBA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Kilometre zero milestone northern Thailand.JPG" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kilometre_zero_milestone_northern_Thailand.JPG#/media/File:Kilometre_zero_milestone_northern_Thailand.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Kilometre_zero_milestone_northern_Thailand.JPG" alt="Wikimedia Commons photo showing Kilometre Zero Milestone Northern Thailand" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Adbar" title="User:Adbar">Adbar</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=31943283">Link</a></p>
 </div>
 
 {{% notice tip %}}
 If the bollards{{% ex "https://goo.gl/maps/pRQqTi22EDtCebcbA" %}} and utility poles{{% ex "https://goo.gl/maps/MByPSW7fJQd7qmDc7" "https://goo.gl/maps/UKnLdnZiMsDq67tr6" %}} are angular, it may be Thailand. However, please note that similar angular bollards can be found in Laos, and you can find angular utility poles in {{% goto "../srilanka/" "Sri Lanka" %}} and the {{% goto "../philippines/" "Philippines" %}}. If the license plate is yellow, the coils on the utility poles are large, or there are holey poles, you may be thinking of Sri Lanka, and if your car has a greenish license plate number or a unique-shaped vehicle, you may be thinking of the Philippines.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="タイのボラード" style="margin-bottom:0;padding-bottom:0;" />
+<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="Thai GeoGuessr guide image showing Thailand Milestone" style="margin-bottom:0;padding-bottom:0;" />
 </div>
 
 <div class="googlemap-if" style="margin:0;padding:0;font-size:0.8em">
@@ -53,13 +53,13 @@ There are white bollards, which can also be used to narrow down the location{{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="タイのボラード" />
+<img src="/rule/asia/thai/thailand-milestone.jpg" width="90%" alt="Thai GeoGuessr guide image showing Thailand Milestone" />
 </div>
 
 {{% notice tip %}}In Thailand, driving is on the left side of the road. Most ordinary passenger cars have white license plates, and cabs have yellow license plates. In Laos, standard cars are yellow and drive on the right side of the road.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/75992994@N05/45648761545/" title="Where Rambuttri Alley meets the Chakrabongse Road"><img src="https://live.staticflickr.com/7858/45648761545_b96440615c_z.jpg" width="640" height="427" alt="Where Rambuttri Alley meets the Chakrabongse Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/75992994@N05/45648761545/" title="Where Rambuttri Alley meets the Chakrabongse Road"><img src="https://live.staticflickr.com/7858/45648761545_b96440615c_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 45648761545 b96440615c Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -74,7 +74,7 @@ As in the Philippines, many roads are made of concrete{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Main road in Ko Lanta (5).jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Main_road_in_Ko_Lanta_(5).jpg#/media/File:Main_road_in_Ko_Lanta_(5).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Main_road_in_Ko_Lanta_%285%29.jpg" alt="Wikimedia Commons photo showing Main Road In Ko Lanta (5)" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7">Krzysztof Golik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99828400">Link</a></p>
 </div>
 
 
@@ -131,7 +131,7 @@ Thai is the official language.
 {{% tabs %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -140,7 +140,7 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 {{% /tab %}}
 {{% tab "Oil palms" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -149,7 +149,7 @@ If oil palm can be found, consider the lowlands to the south.
 {{% /tab %}}
 {{% tab "Rubberwood" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Thai GeoGuessr guide image showing Rubber Tree Distribution" />
 </div>
 
 {{% notice tip %}}
@@ -158,7 +158,7 @@ If oil palm can be found, consider the lowlands to the south.
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="Thai GeoGuessr guide image showing 2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}
@@ -212,7 +212,7 @@ Southern (peninsula and seacoast), oil palm is also scattered.
 {{% tabs %}}
 {{% tab "Area-code" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Thailand telephone area codes.svg" height="720" width="409"></a>
+<p><a href="https://commons.wikimedia.org/wiki/File:Thailand_telephone_area_codes.svg#/media/File:Thailand_telephone_area_codes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/Thailand_telephone_area_codes.svg" alt="Wikimedia Commons photo showing Thailand Telephone Area Codes" height="720" width="409"></a>
 </p><p>By <a href="//commons.wikimedia.org/wiki/User:Ponpan" title="User:Ponpan">Ponpan</a> - This <a href="https://en.wikipedia.org/wiki/vector_image" class="extiw" title="w:vector image">vector image</a> includes elements that have been taken or adapted from this file.</p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79476331">Link</a></p>
 </div>
 {{% /tab %}}

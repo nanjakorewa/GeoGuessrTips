@@ -13,17 +13,17 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" title="熊本" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kumamoto.svg" alt="熊本" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Kumamoto.svg" alt="Image from geopinning.space showing Kumamoto" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">熊本</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" title="鹿児島" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kagoshima.svg" alt="鹿児島" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Kagoshima.svg" alt="Image from geopinning.space showing Kagoshima" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">鹿児島</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" title="沖縄" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">
-            <img src="https://geopinning.space/flags/OKINAWA.svg" alt="沖縄" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/OKINAWA.svg" alt="Image from geopinning.space showing Okinawa" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">沖縄</a></p>
     </li>
 </ul>
@@ -43,7 +43,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
+<img src="../pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
 </div>
 
 {{% /tab %}}
@@ -53,7 +53,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="road_japan_kumamoto_method.jpg" alt="Road japan kumamoto method">
+<img src="road_japan_kumamoto_method.jpg" alt="Kyusyu GeoGuessr guide image showing Road Japan Kumamoto Method">
 </div>
 
 {{% /tab %}}

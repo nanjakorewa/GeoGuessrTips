@@ -47,14 +47,14 @@ sc: [
 Los vehículos circulan por el lado <span class="quiz">izquierdo</span>{{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}. Se puede observar que conducen por la izquierda y las señales también están a la izquierda.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%" alt="Landscape rural farming sugar">
+<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%" alt="Australia GeoGuessr guide image showing Landscape Rural Farming Sugar">
 </div>
 
 {{% notice tip %}}
 Abundan los árboles de <span class="quiz">eucalipto</span>. Los postes eléctricos suelen ser de madera verde de eucalipto {{% ex "https://goo.gl/maps/uvUAUVHYaNrR87YSA" %}} o, debido a medidas contra termitas, están hechos de hierro {{% ref "https://en.wikipedia.org/wiki/Stobie_pole" "Stobie pole" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/up.png" width="95%" alt="Postes eléctricos en Australia" />
+<img src="/rule/oceania/australia/up.png" width="95%" alt="Australia GeoGuessr guide image showing Up" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Los bolardos en Australia tienen reflectores rojos únicamente en un lado, y las
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/bollard.jpg" width="90%" alt="Bollard">
+<img src="/rule/oceania/australia/bollard.jpg" width="90%" alt="Australia GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
@@ -70,12 +70,12 @@ La tipografía de los números de carreteras es diferente entre Australia y Sud�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="https://geopinning.space/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="M4">
-<img src="https://geopinning.space/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
+<img src="https://geopinning.space/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="Image from geopinning.space showing M4">
+<img src="https://geopinning.space/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="Image from geopinning.space showing New South Wales Alphanumeric Route M23">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%" alt="2023 08 03 02 54 05">
+<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%" alt="Australia GeoGuessr guide image showing 2023 08 03 02 54 05">
 </div>
 
 {{% notice tip %}}
@@ -84,11 +84,11 @@ Además, si el texto GIVE WAY está en negro, es <span class="quiz">Australia</s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" class="margin-ten-px width100" alt="AU speed limit" />
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" alt="Australia road sign R1 2" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0" alt="New Zealand road sign R2 2" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" alt="NZ speedlimit" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100" alt="New Zealand road sign R2 2" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" class="margin-ten-px width100" alt="Image from geopinning.space showing Au Speed Limit" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" alt="Image from geopinning.space showing Australia Road Sign R1 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0" alt="Image from geopinning.space showing New Zealand Road Sign R2 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" alt="Image from geopinning.space showing Nz Speedlimit" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100" alt="Image from geopinning.space showing New Zealand Road Sign R2 2" />
 </div>
 
 {{% /tab %}}
@@ -129,7 +129,7 @@ Clasificación aproximada de los ecosistemas en Australia. (Fuente: By Terpsicho
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" alt="2023 04 28 23 57 39" />
+<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" alt="Australia GeoGuessr guide image showing 2023 04 28 23 57 39" />
 </div>
 {{% /tab %}}
 {{% tab "Costa occidental" %}}
@@ -197,7 +197,7 @@ Se pueden encontrar postes similares en las Islas Furneaux {{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%" alt="Spring street sheffield 20070422">
+<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%" alt="Australia GeoGuessr guide image showing Spring Street Sheffield 20070422">
 </div>
 {{% /tab %}}
 {{% tab "QLD (Queensland)" %}}
@@ -241,7 +241,7 @@ Consejos sobre postes eléctricos en <a href="https://twitter.com/hashtag/GeoGue
 {{% tabs %}}
 {{% tab "Postes Amarillos" %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%" alt="Yellow pole">
+<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%" alt="Australia GeoGuessr guide image showing Yellow Pole">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -256,7 +256,7 @@ VicRoads es una corporación gubernamental del estado de Victoria, Australia {{%
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" alt="VicRoads Logo 2009">
+<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" alt="Australia GeoGuessr guide image showing Vicroads Logo 2009">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -48,7 +48,7 @@ License plates carry a coloured strip—green, blue, etc.—across the top{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Iglesia_Nuestra_Se%C3%B1ora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg#/media/File:Iglesia_Nuestra_Señora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Iglesia_Nuestra_Se%C3%B1ora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg" alt="Iglesia Nuestra Señora del Carmen en ciudad de Panamá.jpg" height="720" width="540"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:JAVR2020&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:JAVR2020 (page does not exist)">JAVR2020</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112377174">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Iglesia_Nuestra_Se%C3%B1ora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg#/media/File:Iglesia_Nuestra_Señora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/Iglesia_Nuestra_Se%C3%B1ora_del_Carmen_en_ciudad_de_Panam%C3%A1.jpg" alt="Wikimedia Commons photo showing Iglesia Nuestra Señora Del Carmen En Ciudad De Panamá" height="720" width="540"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:JAVR2020&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:JAVR2020 (page does not exist)">JAVR2020</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112377174">Link</a></p>
 </div>
 
 {{% lb 50 small %}}
@@ -62,10 +62,10 @@ Yellow taxis display the city or route on their flanks{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/joshnyc/2360568985/" title="Pick-up taxi"><img src="https://live.staticflickr.com/3246/2360568985_b0de618402_z.jpg" width="640" height="345" alt="Pick-up taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/joshnyc/2360568985/" title="Pick-up taxi"><img src="https://live.staticflickr.com/3246/2360568985_b0de618402_z.jpg" width="640" height="345" alt="Image from live.staticflickr.com showing 2360568985 b0de618402 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/panama/sideplate.jpg" width="160px" alt="Sideplate">
+<img src="/rule/n_america/panama/sideplate.jpg" width="160px" alt="Panama GeoGuessr guide image showing Sideplate">
 </div>
 
 {{% /tab %}}
@@ -75,7 +75,7 @@ You can find huts with thatched roofs{{% ex "https://maps.app.goo.gl/wXHLgp28ux8
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/panama/panama_beach_seaside_holiday.jpg" width="590px" alt="Panama beach seaside holiday">
+<img src="/rule/n_america/panama/panama_beach_seaside_holiday.jpg" width="590px" alt="Panama GeoGuessr guide image showing Panama Beach Seaside Holiday">
 </div>
 
 {{% /tab %}}
@@ -104,21 +104,21 @@ You can find huts with thatched roofs{{% ex "https://maps.app.goo.gl/wXHLgp28ux8
 {{% tabs %}}
 {{% tab "Pole Plates" %}}
 <div class="googlemap-if no-margin">
-<p><img src="/rule/n_america/panama/2023-10-15-15-37-08.png" width="90%" alt="2023 10 15 15 37 08"></p>
+<p><img src="/rule/n_america/panama/2023-10-15-15-37-08.png" width="90%" alt="Panama GeoGuessr guide image showing 2023 10 15 15 37 08"></p>
 <p>Image cropped from: By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132545975@N04">Melissa McMasters</a> from Memphis, TN, United States - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cricketsblog/52729221354/">La Mesa, Panama</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=129314200">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Relief" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Panama_Topography.png#/media/File:Panama_Topography.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Panama_Topography.png" alt="Panama Topography.png" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2763803">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Panama_Topography.png#/media/File:Panama_Topography.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Panama_Topography.png" alt="Wikimedia Commons photo showing Panama Topography" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2763803">Link</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "Vegetation" %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/panama/Panama_veg_1981.jpg" width="90%" alt="Panama veg 1981">
+<img src="/rule/n_america/panama/Panama_veg_1981.jpg" width="90%" alt="Panama GeoGuessr guide image showing Panama Veg 1981">
 </div>
 
 {{% /tab %}}
@@ -141,7 +141,7 @@ Few roads along the canal have Street View, so viewpoints with ships are limited
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/panama/panama_panama_canal_locks.jpg" width="90%" alt="Panama panama canal locks">
+<img src="/rule/n_america/panama/panama_panama_canal_locks.jpg" width="90%" alt="Panama GeoGuessr guide image showing Panama Panama Canal Locks">
 </div>
 
 {{% /tab %}}
@@ -152,7 +152,7 @@ Look for large rounded black rocks near the volcano{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/panama/volcanbaru1.jpg" width="90%" alt="Volcanbaru1">
+<img src="/rule/n_america/panama/volcanbaru1.jpg" width="90%" alt="Panama GeoGuessr guide image showing volcanbaru1">
 </div>
 
 {{% /tab %}}

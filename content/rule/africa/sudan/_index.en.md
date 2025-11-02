@@ -28,7 +28,7 @@ Most of the country consists of plains lying below roughly 600 m in elevation{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sudan/alsherian.jpg" width="90%" alt="Alsherian">
+<img src="/rule/africa/sudan/alsherian.jpg" width="90%" alt="Sudan GeoGuessr guide image showing Alsherian">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Fertile zones along the Nile support crops such as wheat{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sudan/Sudan_Sorghum.png" width="90%" alt="Sudan Sorghum">
+<img src="/rule/africa/sudan/Sudan_Sorghum.png" width="90%" alt="Sudan GeoGuessr guide image showing Sudan Sorghum">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

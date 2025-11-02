@@ -35,7 +35,7 @@ sc: [
 El texto en hebreo (מְדִינַת יִשְׂרָאֵל) llama la atención enseguida.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/israel/roadsign.jpg" width="95%" alt="Roadsign">
+<img src="/rule/middle_east/israel/roadsign.jpg" width="95%" alt="Israel GeoGuessr guide image showing Roadsign">
 </div>
 
 
@@ -44,7 +44,7 @@ Las matrículas israelíes suelen ser <span class="quiz">amarillas</span>{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/israel/2023-07-30-03-02-13.png" width="95%" alt="2023 07 30 03 02 13">
+<img src="/rule/middle_east/israel/2023-07-30-03-02-13.png" width="95%" alt="Israel GeoGuessr guide image showing 2023 07 30 03 02 13">
 </div>
 
 {{% lb 50 %}}
@@ -59,7 +59,7 @@ Muchas estructuras parecidas a torres eléctricas aparecen en plena ciudad{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/israel/up.png" width="95%" alt="Up">
+<img src="/rule/middle_east/israel/up.png" width="95%" alt="Israel GeoGuessr guide image showing Up">
 </div>
 
 
@@ -99,9 +99,9 @@ Israel cuenta con muchísimas empresas que cotizan en NASDAQ y con una gran cant
 El Israel National Trail cubre todo el país a pie y a veces puedes ver el sombrero del senderista en las tomas{{% ex "https://maps.app.goo.gl/tUMcF6ej1TihbJd37" "https://maps.app.goo.gl/1q4hFyxuFeqdb5Y79" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/israel/Israel_National_Trail_Locator_map.png" width="155px" alt="Israel National Trail Locator map">
-<img src="/rule/middle_east/israel/israel_national_trail_part_8.jpg" width="500px" alt="Israel national trail part 8">
-<img src="/rule/middle_east/israel/israel_national_trail_east.jpg" width="655px" alt="Israel national trail east">
+<img src="/rule/middle_east/israel/Israel_National_Trail_Locator_map.png" width="155px" alt="Israel GeoGuessr guide image showing Israel National Trail Locator Map">
+<img src="/rule/middle_east/israel/israel_national_trail_part_8.jpg" width="500px" alt="Israel GeoGuessr guide image showing Israel National Trail Part 8">
+<img src="/rule/middle_east/israel/israel_national_trail_east.jpg" width="655px" alt="Israel GeoGuessr guide image showing Israel National Trail East">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

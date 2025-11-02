@@ -37,7 +37,7 @@ Gran parte de la isla está cubierta por selva tropical{{% ex "https://maps.app.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Tropical_forest.JPG#/media/File:Tropical_forest.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tropical_forest.JPG" alt="File:Tropical forest.JPG" width="95%"></a></p><p><a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=534633">enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tropical_forest.JPG#/media/File:Tropical_forest.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Tropical_forest.JPG" alt="Wikimedia Commons photo showing Tropical Forest" width="95%"></a></p><p><a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=534633">enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ El ambiente es cálido y costero: hay recorridos por playas, bosque y zonas urba
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/martinique/martinique_beach_ocean_sea.jpg" width="95%" alt="Martinique beach ocean sea">
+<img src="/rule/cs_america/martinique/martinique_beach_ocean_sea.jpg" width="95%" alt="Martinique GeoGuessr guide image showing Martinique Beach Ocean Sea">
 </div>
 
 

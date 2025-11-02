@@ -46,7 +46,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./hongkong-car.jpg" width="95%" alt="Hongkong car">
+<img src="./hongkong-car.jpg" width="95%" alt="Hongkong GeoGuessr guide image showing Hongkong Car">
 </div>
 
 {{% lb 50 %}}
@@ -59,13 +59,13 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 2言語で書かれた白黒の通り看板{{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}。{{% goto "../../europe/united-kingdom/" "イギリス" %}}や{{% goto "../nepal/" "ネパール" %}}にありそうな看板も見受けられる{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./hk_syp_western_street_0.jpg" width="90%" alt="Hk syp western street 0">
+<img src="./hk_syp_western_street_0.jpg" width="90%" alt="Hongkong GeoGuessr guide image showing Hk Syp Western Street 0">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="Wan King Path sign">
-<img src="./r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="Hong Kong road sign 417">
-<img src="./r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="Hong Kong road sign 422">
+<img src="./r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="R GeoGuessr guide image showing Wan King Path Sign">
+<img src="./r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 417">
+<img src="./r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 422">
 </div>
 
 {{% notice note %}}
@@ -73,8 +73,8 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px" alt="UK traffic sign 502">
-<img src="./uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px" alt="UK traffic sign 618.1B">
+<img src="./uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 502">
+<img src="./uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 618.1B">
 </div>
 
 {{% notice tip %}}
@@ -82,11 +82,11 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./road/entrance_victorias_harbour_seen.jpg" width="303px" alt="Entrance victorias harbour seen">
-<img src="./road/hongkong2006_56.jpg" width="340px" alt="Hongkong2006 56">
+<img src="./road/entrance_victorias_harbour_seen.jpg" width="303px" alt="Road GeoGuessr guide image showing Entrance Victorias Harbour Seen">
+<img src="./road/hongkong2006_56.jpg" width="340px" alt="Road GeoGuessr guide image showing hongkong2006 56">
 </div>
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Fu Tei Ha Tsuen 01.jpg" width="643px"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Wikimedia Commons photo showing Fu Tei Ha Tsuen 01" width="643px"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Underwaterbuffalo" title="User:Underwaterbuffalo">Underwaterbuffalo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71727971">Link</a></p>
 </div>
 

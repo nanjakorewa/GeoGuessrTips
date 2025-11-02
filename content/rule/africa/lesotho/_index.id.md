@@ -35,7 +35,7 @@ Negara ini berada di dalam Pegunungan Drakensberg, dengan ketinggian rata-rata t
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/lesotho/mountain.jpg" width="90%" alt="Mountain" />
+<img src="/rule/africa/lesotho/mountain.jpg" width="90%" alt="Lesotho GeoGuessr guide image showing Mountain" />
 </div>
 
 {{% notice tip %}}
@@ -43,7 +43,7 @@ Rumah tradisional dengan bentuk khas sering ditemukan {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="600" alt="Lesotho Day 3-4 095"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/karmor/8461337788/" title="Lesotho Day 3-4 095"><img src="https://live.staticflickr.com/8231/8461337788_5d8c5f7817.jpg" width="600" alt="Image from live.staticflickr.com showing 8461337788 5d8c5f7817"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ Dibandingkan dengan {{% goto "../eswatini/" "Eswatini" %}}, rumput di Lesotho bi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho mountains scenic green">
+<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho GeoGuessr guide image showing Lesotho Mountains Scenic Green">
 </div>
 
 {{% /tab %}}

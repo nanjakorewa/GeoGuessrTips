@@ -26,7 +26,7 @@ flag: "Aichi.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="aichi_pref_r_281.jpg" alt="Aichi pref r 281">
+<img src="aichi_pref_r_281.jpg" alt="Aichi GeoGuessr guide image showing Aichi Pref R 281">
 </div>
 
 {{% /tab %}}
@@ -36,7 +36,7 @@ flag: "Aichi.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="tokai_rika_hagi_factory.jpg" alt="Tokai rika hagi factory">
+<img src="tokai_rika_hagi_factory.jpg" alt="Aichi GeoGuessr guide image showing Tokai Rika Hagi Factory">
 </div>
 
 {{% /tab %}}
@@ -46,7 +46,7 @@ flag: "Aichi.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-chubu.png" width="220px" alt="Pole chubu">
+<img src="../../pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
 </div>
 
 {{% /tab %}}

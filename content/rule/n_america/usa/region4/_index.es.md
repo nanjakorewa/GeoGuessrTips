@@ -35,7 +35,7 @@ Montana, Wyoming, Idaho, Colorado, Utah, Nevada, Nuevo México, Arizona, Washing
 Si el cartel solo muestra <span class="quiz">SPEED</span>, lo más probable es que estés en Oregón.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region4/Oregon-speed.svg.png" width="300px" alt="Señal de velocidad en Oregón">
+<img src="/rule/n_america/usa/region4/Oregon-speed.svg.png" width="300px" alt="region4 GeoGuessr guide image showing Oregon speed.svg">
 </div>
 {{% /tab %}}
 {{% tab "② Poste" %}}

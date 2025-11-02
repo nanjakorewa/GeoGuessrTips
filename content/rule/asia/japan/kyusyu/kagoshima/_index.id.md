@@ -28,7 +28,7 @@ Produksi tehnya menyaingi Shizuoka dan dalam statistik terbaru menempati peringk
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kagoshima/1082px-Tea_Plantation_near_Kagoshima_Airport.jpg" width="90%" alt="1082px Tea Plantation near Kagoshima Airport">
+<img src="/rule/asia/japan/kyusyu/kagoshima/1082px-Tea_Plantation_near_Kagoshima_Airport.jpg" width="90%" alt="Kagoshima GeoGuessr guide image showing 1082px Tea Plantation Near Kagoshima Airport">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ Terdapat lokasi penampungan kantong abu untuk mengumpulkan abu yang jatuh dari G
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kagoshima/540px-Kouhaibukuro.jpg" width="60%" alt="540px Kouhaibukuro">
+<img src="/rule/asia/japan/kyusyu/kagoshima/540px-Kouhaibukuro.jpg" width="60%" alt="Kagoshima GeoGuessr guide image showing 540px Kouhaibukuro">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ Anda dapat melihat tiang listrik dengan pelat milik Kyushu Electric Power.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
 </div>
 
 {{% /tab %}}

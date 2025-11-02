@@ -28,7 +28,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Routes_en_montagne_4.jpg#/media/File:Routes_en_montagne_4.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Routes_en_montagne_4.jpg" alt="Routes en montagne 4.jpg" height="720" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Hermannkass" title="User:Hermannkass">Hermannkass</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135200396">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Routes_en_montagne_4.jpg#/media/File:Routes_en_montagne_4.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Routes_en_montagne_4.jpg" alt="Wikimedia Commons photo showing Routes En Montagne 4" height="720" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Hermannkass" title="User:Hermannkass">Hermannkass</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135200396">Link</a></p>
 </div>
 
 {{% /tab %}}

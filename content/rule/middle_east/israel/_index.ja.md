@@ -35,7 +35,7 @@ sc: [
 ヘブライ語(מְדִינַת יִשְׂרָאֵל)の文字が印象的
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./roadsign.jpg" width="95%" alt="Roadsign">
+<img src="./roadsign.jpg" width="95%" alt="Israel GeoGuessr guide image showing Roadsign">
 </div>
 
 
@@ -44,7 +44,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-30-03-02-13.png" width="95%" alt="2023 07 30 03 02 13">
+<img src="2023-07-30-03-02-13.png" width="95%" alt="Israel GeoGuessr guide image showing 2023 07 30 03 02 13">
 </div>
 
 {{% lb 50 %}}
@@ -59,7 +59,7 @@ By <a href="//commons.wikimedia.org/wiki/User:%D0%AE%D0%BA%D0%B0%D1%82%D0%B0%D0%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="up.png" width="95%" alt="Up">
+<img src="up.png" width="95%" alt="Israel GeoGuessr guide image showing Up">
 </div>
 
 
@@ -99,9 +99,9 @@ NASDAQ上場企業数、年間のスタートアップ数が高い。ヘルス�
 国の最北～最南までIsrael National Trailというハイキングのルートがあり徒歩でのカバレッジになっている。たまに帽子が見える{{% ex "https://maps.app.goo.gl/tUMcF6ej1TihbJd37" "https://maps.app.goo.gl/1q4hFyxuFeqdb5Y79" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./Israel_National_Trail_Locator_map.png" width="155px" alt="Israel National Trail Locator map">
-<img src="./israel_national_trail_part_8.jpg" width="500px" alt="Israel national trail part 8">
-<img src="./israel_national_trail_east.jpg" width="655px" alt="Israel national trail east">
+<img src="./Israel_National_Trail_Locator_map.png" width="155px" alt="Israel GeoGuessr guide image showing Israel National Trail Locator Map">
+<img src="./israel_national_trail_part_8.jpg" width="500px" alt="Israel GeoGuessr guide image showing Israel National Trail Part 8">
+<img src="./israel_national_trail_east.jpg" width="655px" alt="Israel GeoGuessr guide image showing Israel National Trail East">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

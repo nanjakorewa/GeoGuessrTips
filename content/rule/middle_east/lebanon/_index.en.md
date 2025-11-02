@@ -37,7 +37,7 @@ You’ll often see distinctive dark purple poles and towers—rare outside Leban
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/street.jpg" width="90%" alt="Lebanese street">
+<img src="/rule/middle_east/lebanon/street.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Street">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ License plates come in several colours, typically with a <span class="quiz">blue
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/streetinbatroun.jpg" width="90%" alt="Batroun street">
+<img src="/rule/middle_east/lebanon/streetinbatroun.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Streetinbatroun">
 </div>
 
 
@@ -63,7 +63,7 @@ Expect Mediterranean terrain—dry mountains and rugged plateaus. {{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Zig-zag mountain road" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Wikimedia Commons photo showing Zig Zag Lebanese Mountain Road" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Wikimedia Commons</a></p>
 </div>
 
 
@@ -72,7 +72,7 @@ Stone construction is the norm. {{% ex "https://maps.app.goo.gl/Y2cJxJsa1RDNpPa8
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Stone buildings in Lebanon">
+<img src="/rule/middle_east/lebanon/lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Lebanon Syria Border sep13voa 2">
 </div>
 
 {{% notice tip %}}
@@ -80,7 +80,7 @@ Look for Arabic alongside English or French signage. {{% ex "https://maps.app.go
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/bienvenue_rechmaya.jpg" width="90%" alt="Multilingual sign">
+<img src="/rule/middle_east/lebanon/bienvenue_rechmaya.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Bienvenue Rechmaya">
 </div>
 
 {{% /tab %}}
@@ -105,7 +105,7 @@ Look for Arabic alongside English or French signage. {{% ex "https://maps.app.go
 {{% tab "Agriculture" %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/1979-crop.jpg" width="70%" alt="Agricultural map">
+<img src="/rule/middle_east/lebanon/1979-crop.jpg" width="70%" alt="Lebanon GeoGuessr guide image showing 1979 Crop">
 </div>
 
 {{% /tab %}}
@@ -133,7 +133,7 @@ In the Bekaa Valley, mountains rise on both sides {{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/zahle_lebanon.jpg" width="95%" alt="Zahlé valley">
+<img src="/rule/middle_east/lebanon/zahle_lebanon.jpg" width="95%" alt="Lebanon GeoGuessr guide image showing Zahle Lebanon">
 </div>
 
 {{% /tab %}}

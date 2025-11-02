@@ -40,7 +40,7 @@ sc: [
 El cingalés (සිංහල) {{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "https://goo.gl/maps/Nou5G3kNf3MB6RQ9A" %}} y el tamil (தமிழ்) {{% ex "https://goo.gl/maps/S7EkpiGtvFaRWHhB6" %}} aparecen juntos como idiomas oficiales. Los postes con <span class="quiz">franjas blancas y negras</span> son muy comunes.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="four corners"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 4392054980 b4eff4400b Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -48,7 +48,7 @@ El cingalés (සිංහල) {{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "h
 Busca <span class="quiz">bordillos blancos y negros</span> junto a canales y cruces. {{% ex "https://maps.app.goo.gl/QwKbrQwAB5hook5Y7" %}}{{% by "" "plonkit" %}} También es frecuente ver bolardos como el de la izquierda de la foto. {{% ex "https://maps.app.goo.gl/wdihRm8Ey3aTtUEV7" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:B_class_road_in_2016.jpg#/media/File:B_class_road_in_2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/B_class_road_in_2016.jpg" alt="B class road in 2016.jpg" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Eng.M.Bandara" title="User:Eng.M.Bandara">Eng.M.Bandara</a> - <span class="int-own-work" lang="es">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54602439">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:B_class_road_in_2016.jpg#/media/File:B_class_road_in_2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/B_class_road_in_2016.jpg" alt="Wikimedia Commons photo showing B Class Road In 2016" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Eng.M.Bandara" title="User:Eng.M.Bandara">Eng.M.Bandara</a> - <span class="int-own-work" lang="es">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54602439">Link</a></p>
 </div>
 
 
@@ -57,7 +57,7 @@ Los postes eléctricos pueden tener grandes aberturas o formas cuadradas similar
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Road" />
+<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Srilanka GeoGuessr guide image showing Road" />
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Algunos postes tienen orificios y otros son cuadrados; no te vayas a {{% goto ".
 {{% /notice %}}
 
 <div class="googlemap-if">
-<p style="pointer-events: none;"><a href="https://commons.wikimedia.org/wiki/File:Sri_Lanka_-_Ethnicity_2012.png#/media/File:Sri_Lanka_-_Ethnicity_2012.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sri_Lanka_-_Ethnicity_2012.png" alt="Sri Lanka - Ethnicity 2012.png" width="70%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24581132">Fuente de la imagen (Link)</a></p>
+<p style="pointer-events: none;"><a href="https://commons.wikimedia.org/wiki/File:Sri_Lanka_-_Ethnicity_2012.png#/media/File:Sri_Lanka_-_Ethnicity_2012.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sri_Lanka_-_Ethnicity_2012.png" alt="Wikimedia Commons photo showing Sri Lanka Ethnicity 2012" width="70%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24581132">Fuente de la imagen (Link)</a></p>
 </div>
 
 <div class="googlemap-if">
@@ -154,21 +154,21 @@ Algunos postes tienen orificios y otros son cuadrados; no te vayas a {{% goto ".
 {{% /tab %}}
 {{% tab "Arrozales" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Rice">
+<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Srilanka GeoGuessr guide image showing Rice">
 </div>
 {{% notice tip %}}Los arrozales son algo más frecuentes hacia el noreste, pero existen en muchas zonas; úsalo solo como pista complementaria.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Cocoteros" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Palm">
+<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Srilanka GeoGuessr guide image showing Palm">
 </div>
 {{% notice tip %}}Los cocoteros se ven en todo el país, pero las plantaciones comerciales se agrupan en el centro-oeste. El mapa es esquemático, disculpa lo rudimentario.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Té y caucho" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Tea">
+<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Srilanka GeoGuessr guide image showing Tea">
 </div>
 {{% notice tip %}}Los cultivos de té se concentran en el suroeste, como indica plonkit y otras referencias. El caucho sigue un patrón similar.
 {{% /notice %}}

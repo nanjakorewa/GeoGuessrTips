@@ -36,21 +36,21 @@ sc: [
 {{% goto "../brazil/" "ブラジル" %}}と同じく仕切りのある電柱が見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg#/media/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg" alt="En la cabecera del Puente Remanso - Ruta 9 - panoramio.jpg" width="95%"></a></p><p>By Diego Fernando Quint…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57731220">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg#/media/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg" alt="Wikimedia Commons photo showing En La Cabecera Del Puente Remanso Ruta 9 Panoramio" width="95%"></a></p><p>By Diego Fernando Quint…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57731220">Link</a></p>
 </div>
 
 {{% notice tip %}}
 アスンシオンの通り看板は黒いことが多く赤白のポールが多い。看板の裏側も{{% goto "../brazil/" "ブラジル" %}}と同じく黒いことが多いように思う。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="conmebol_football_flag_building.jpg" width="95%" alt="Conmebol football flag building">
+<img src="conmebol_football_flag_building.jpg" width="95%" alt="Paraguay GeoGuessr guide image showing Conmebol Football Flag Building">
 </div>
 
 {{% notice tip %}}
 こういった感じの道路にアーチ状に付けられた看板がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Entrada_a_Arroyos_y_Esteros.jpg" width="90%" alt="Entrada a Arroyos y Esteros">
+<img src="Entrada_a_Arroyos_y_Esteros.jpg" width="90%" alt="Paraguay GeoGuessr guide image showing Entrada A Arroyos Y Esteros">
 </div>
 
 {{% /tab %}}
@@ -77,7 +77,7 @@ sc: [
 {{% tabs %}}
 {{% tab "南東" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Rice.png" width="80%" alt="Paraguay Rice">
+<img src="Paraguay_Rice.png" width="80%" alt="Paraguay GeoGuessr guide image showing Paraguay Rice">
 </div>
 
 {{% notice tip %}}
@@ -86,7 +86,7 @@ sc: [
 {{% /tab %}}
 {{% tab "北西" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Cotton.png" width="80%" alt="Paraguay Cotton">
+<img src="Paraguay_Cotton.png" width="80%" alt="Paraguay GeoGuessr guide image showing Paraguay Cotton">
 </div>
 
 {{% notice tip %}}逆に北西は雨量が少なく、コットンやピーナッツ畑が見られる。

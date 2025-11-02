@@ -30,7 +30,7 @@ is_has_many_trekker: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./galapagos_tortoise_giant_tortoise.jpg" width="90%" alt="Galapagos tortoise giant tortoise">
+<img src="./galapagos_tortoise_giant_tortoise.jpg" width="90%" alt="Galapagos Islands GeoGuessr guide image showing Galapagos Tortoise Giant Tortoise">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

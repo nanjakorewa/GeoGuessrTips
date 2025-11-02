@@ -32,11 +32,11 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="640px-MD.CS.Căușeni_-_Casa_memorială_„Alexei_Mateevici”_-_may_2022_-_15.jpg" width="95%" alt="640px MD.CS.Căușeni Casa memorială „Alexei Mateevici” may 2022 15">
+<img src="640px-MD.CS.Căușeni_-_Casa_memorială_„Alexei_Mateevici”_-_may_2022_-_15.jpg" width="95%" alt="Moldova GeoGuessr guide image showing 640px MD.CS.Căușeni Casa Memorială „Alexei Mateevici” May 2022 15">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="SU_road_sign_5.21.2_A.svg" width="230px" alt="SU road sign 5.21.2 A" />
+<img src="SU_road_sign_5.21.2_A.svg" width="230px" alt="Moldova GeoGuessr guide image showing Su Road Sign 5.21.2 A" />
 </div>
 
 {{% notice tip %}}
@@ -44,9 +44,9 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Moldova_road_sign_5.78.1.svg" width="130px" style="margin:0px 30px" alt="Moldova road sign 5.78.1" />
-<img src="./Moldova_road_sign_5.78.2.svg" width="130px" style="margin:0px 30px" alt="Moldova road sign 5.78.2" />
-<img src="./Moldova_road_sign_5.78.3.svg" width="130px" style="margin:0px 30px" alt="Moldova road sign 5.78.3" />
+<img src="./Moldova_road_sign_5.78.1.svg" width="130px" style="margin:0px 30px" alt="Moldova GeoGuessr guide image showing Moldova Road Sign 5.78.1" />
+<img src="./Moldova_road_sign_5.78.2.svg" width="130px" style="margin:0px 30px" alt="Moldova GeoGuessr guide image showing Moldova Road Sign 5.78.2" />
+<img src="./Moldova_road_sign_5.78.3.svg" width="130px" style="margin:0px 30px" alt="Moldova GeoGuessr guide image showing Moldova Road Sign 5.78.3" />
 </div>
 
 
@@ -55,7 +55,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="960px-MD.UN.Hîrcești_-_monument_în_memoria_victimelor_regimului_comunist_-_aug_2024_-_07.jpg" width="95%" alt="960px MD.UN.Hîrcești monument în memoria victimelor regimului comunist aug 2024 07" />
+<img src="960px-MD.UN.Hîrcești_-_monument_în_memoria_victimelor_regimului_comunist_-_aug_2024_-_07.jpg" width="95%" alt="Moldova GeoGuessr guide image showing 960px MD.UN.Hîrcești Monument În Memoria Victimelor Regimului Comunist Aug 2024 07" />
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="640px-MD.C.Chișinău.rabbit.on.a.road.sign_-_feb-2012.jpg" width="90%" alt="640px MD.C.Chișinău.rabbit.on.a.road.sign feb 2012" />
+<img src="640px-MD.C.Chișinău.rabbit.on.a.road.sign_-_feb-2012.jpg" width="90%" alt="Moldova GeoGuessr guide image showing 640px MD.C.Chișinău.rabbit.on.a.road.sign Feb 2012" />
 </div>
 
 {{% /tab %}}

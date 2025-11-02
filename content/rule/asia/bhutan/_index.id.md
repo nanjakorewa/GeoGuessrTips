@@ -40,14 +40,14 @@ sc: [
 {{% notice tip %}}Bendera doa berwarna-warni yang disebut "Lungta" {{% ex "https://goo.gl/maps/rCK7Yjq2GoNUYLZd6" %}} atau bendera putih panjang untuk penghormatan kepada orang yang meninggal (Darchin) {{% ex "https://goo.gl/maps/WZLSW3eeaL3P4YiJ6" "https://goo.gl/maps/6sDELBRoLvbCV3iN6" %}} sering terlihat {{% ref "https://dragontours.jp/about_religion.html" "Informasi tentang agama di Bhutan - Dragon Tours" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/rjsvlajean/5438968413/" title="108 Flags"><img src="https://live.staticflickr.com/5295/5438968413_7eced571ae_z.jpg" width="640" height="428" alt="108 Flags"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/rjsvlajean/5438968413/" title="108 Flags"><img src="https://live.staticflickr.com/5295/5438968413_7eced571ae_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 5438968413 7eced571ae Z"/></a>
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}Sebagian besar pelat nomor kendaraan berwarna <span class="quiz">merah</span> {{% ex "https://goo.gl/maps/kmaw9QY1Me1gqdY8A" "https://goo.gl/maps/rpLsMoxR38QFk3KN6" "https://goo.gl/maps/LXD1cz2GJuRcpdmP6" %}}. Taksi cenderung berwarna kuning {{% ex "https://goo.gl/maps/KHSX735e2gunkdvn9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/rachelc/45877047731/in/photolist-2cTZRXz-dQoxko-6rsjq-29hnGDw-27Dfm6u-q7JopP-9NrQ2n-27Gq7nE-cJLbNq-P8Tfgc-7tk6mF-q1vqA1-7H2L94-24QjBbo-76XzMz-6YYjTW-dKwjsU-dKqQ1i-dKqQ7H-qkQUun-22drHMq-K6hrKv-bfPTDx-82t5YN-P8Tfsz-23uRTFj-7sAzQV-dKweHf-yGNcK-djaeZv-v9TUvf-Yq9eB4-bjhNkH-oNDRzk-21e6msY-dnmV1A-5zcexF-5GEZuU-XYVK8A-5uwsV6-6m7sq-Z1S9mL-dZrQJK-apEWJA-YxyKDi-aLXjGv-2cPJCuY-Hs8dEt-77s4VT-Yxzr4k" title="Thimphu, Bhutan"><img src="https://live.staticflickr.com/4905/45877047731_fe08d41ee7_z.jpg" width="640" height="427" alt="Thimphu, Bhutan"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/rachelc/45877047731/in/photolist-2cTZRXz-dQoxko-6rsjq-29hnGDw-27Dfm6u-q7JopP-9NrQ2n-27Gq7nE-cJLbNq-P8Tfgc-7tk6mF-q1vqA1-7H2L94-24QjBbo-76XzMz-6YYjTW-dKwjsU-dKqQ1i-dKqQ7H-qkQUun-22drHMq-K6hrKv-bfPTDx-82t5YN-P8Tfsz-23uRTFj-7sAzQV-dKweHf-yGNcK-djaeZv-v9TUvf-Yq9eB4-bjhNkH-oNDRzk-21e6msY-dnmV1A-5zcexF-5GEZuU-XYVK8A-5uwsV6-6m7sq-Z1S9mL-dZrQJK-apEWJA-YxyKDi-aLXjGv-2cPJCuY-Hs8dEt-77s4VT-Yxzr4k" title="Thimphu, Bhutan"><img src="https://live.staticflickr.com/4905/45877047731_fe08d41ee7_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 45877047731 fe08d41ee7 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -63,7 +63,7 @@ Oleh <a href="//commons.wikimedia.org/wiki/User:Cfynn" class="mw-redirect" title
 {{% notice tip %}}Bangunan dengan jendela berbaris teratur sering terlihat.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/nagarjun/15662531378/" title="Valley houses"><img src="https://live.staticflickr.com/7575/15662531378_1cd88ca808_z.jpg" width="640" height="400" alt="Valley houses"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/nagarjun/15662531378/" title="Valley houses"><img src="https://live.staticflickr.com/7575/15662531378_1cd88ca808_z.jpg" width="640" height="400" alt="Image from live.staticflickr.com showing 15662531378 1cd88ca808 Z"/></a>
 </div>
 
 {{% notice tip %}}Google Car berwarna <span class="quiz">abu-abu</span> {{% ex "https://goo.gl/maps/noJf5W4t49ogW2sJ8" %}}. Ciri khas lainnya meliputi Google Car dengan tepi abu-abu, daerah pegunungan, dan balok putih di sisi jalan {{% ex "https://goo.gl/maps/8qJhdibA4jKWj33v9" %}}.

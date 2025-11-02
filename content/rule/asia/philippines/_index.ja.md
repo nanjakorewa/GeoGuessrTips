@@ -43,7 +43,7 @@ sc: [
 英語で書かれた看板がある{{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign1.jpg" width="90%" alt="Road sign1">
+<img src="./road-sign1.jpg" width="90%" alt="Philippines GeoGuessr guide image showing Road sign1">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="95%" alt="Road">
+<img src="./road.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road">
 </div>
 
 
@@ -64,7 +64,7 @@ sc: [
 トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用される{{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}。バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。以下はトライシクル（右）とジプニー（左）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="80%" alt="Car">
+<img src="./car.jpg" width="80%" alt="Philippines GeoGuessr guide image showing Car">
 </div>
 
 {{% lb %}}
@@ -78,7 +78,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativeco
 一般乗用車は白色か薄い緑色のものが多い{{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}。<span class="quiz">右側</span>通行・乗り物が独特・ナンバーが黄・白・薄緑ならフィリピン。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car-blar-image.png" width="400px" alt="Car blar image">
+<img src="./car-blar-image.png" width="400px" alt="Philippines GeoGuessr guide image showing Car Blar Image">
 </div>
 
 {{% lb 50 %}}
@@ -92,7 +92,7 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="09976jfmaharlika highway plaridel bustos" />
+<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="Philippines GeoGuessr guide image showing 09976jfmaharlika Highway Plaridel Bustos" />
 </div>
 
 {{% notice tip %}}
@@ -100,11 +100,11 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./arrow.jpg" width="95%" alt="Arrow">
+<img src="./arrow.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Arrow">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="Philippines road sign HM 1B R">
+<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="R GeoGuessr guide image showing Philippines Road Sign Hm 1B R">
 </div>
 
 
@@ -188,7 +188,7 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "タガログ語" %}}
 <div class="googlemap-if unclickable">
-<img src="./fri03sep2004_chinatown_to_gastown.jpg" alt="Fri03sep2004 chinatown to gastown">
+<img src="./fri03sep2004_chinatown_to_gastown.jpg" alt="Philippines GeoGuessr guide image showing fri03sep2004 Chinatown To Gastown">
 </div>
 
 {{% notice tip %}}
@@ -198,7 +198,7 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Philippine fixed line area codes.PNG" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard the Duck</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Philippine_fixed_line_area_codes.PNG#/media/File:Philippine_fixed_line_area_codes.PNG"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Philippine_fixed_line_area_codes.PNG/1200px-Philippine_fixed_line_area_codes.PNG" alt="Wikimedia Commons photo showing 1200px Philippine Fixed Line Area Codes" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Howard_the_Duck" title="User:Howard the Duck">Howard the Duck</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3307884">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "二輪車のナンバープレート" %}}
@@ -242,8 +242,8 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "北部" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/n1.jpg" width="500px" alt="N1" />
-<img src="bike/n2.jpg" width="500px" alt="N2" />
+<img src="bike/n1.jpg" width="500px" alt="Bike GeoGuessr guide image showing n1" />
+<img src="bike/n2.jpg" width="500px" alt="Bike GeoGuessr guide image showing n2" />
 </div>
 
 {{% notice tip %}}
@@ -253,9 +253,9 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "南部" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/s1.jpg" width="500px" alt="S1" />
-<img src="bike/s2.jpg" width="500px" alt="S2" />
-<img src="bike/s3.jpg" width="500px" alt="S3" />
+<img src="bike/s1.jpg" width="500px" alt="Bike GeoGuessr guide image showing s1" />
+<img src="bike/s2.jpg" width="500px" alt="Bike GeoGuessr guide image showing s2" />
+<img src="bike/s3.jpg" width="500px" alt="Bike GeoGuessr guide image showing s3" />
 </div>
 
 {{% notice tip %}}
@@ -265,7 +265,7 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "Motorela" %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Motorela"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/danieltoror/34061698610" title="Motorela"><img src="https://live.staticflickr.com/4176/34061698610_a3cc862760_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 34061698610 a3cc862760 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -275,7 +275,7 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "Palawan" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg#/media/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Puerto_Princesa_City_proper%2C_Malvar_Road_market_%28Puerto_Princesa%2C_Palawan%3B_08-03-2023%29.jpg" alt="Puerto Princesa City proper, Malvar Road market (Puerto Princesa, Palawan; 08-03-2023).jpg" height="480" width="640"></a></p><p>By Patrickroque01 - Taken using my own camera, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136810939">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg#/media/File:Puerto_Princesa_City_proper,_Malvar_Road_market_(Puerto_Princesa,_Palawan;_08-03-2023).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Puerto_Princesa_City_proper%2C_Malvar_Road_market_%28Puerto_Princesa%2C_Palawan%3B_08-03-2023%29.jpg" alt="Wikimedia Commons photo showing Puerto Princesa City proper, Malvar Road Market (Puerto Princesa, Palawan; 08 03 2023)" height="480" width="640"></a></p><p>By Patrickroque01 - Taken using my own camera, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136810939">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -311,23 +311,23 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="550px" alt="2023 05 01 19 06 07" />
+<img src="2023-05-01-19-06-07.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 07" />
 </div>
 
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="550px" alt="2023 05 01 19 13 28" />
+<img src="2023-05-01-19-13-28.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 13 28" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./agriculture_sugar_cane_crop.jpg" width="400px" alt="Agriculture sugar cane crop">
+<img src="./agriculture_sugar_cane_crop.jpg" width="400px" alt="Philippines GeoGuessr guide image showing Agriculture Sugar Cane Crop">
 </div>
 
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="550px" alt="2023 05 01 19 08 10" />
+<img src="2023-05-01-19-08-10.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 08 10" />
 </div>
 
 <div class="googlemap-if">
@@ -336,7 +336,7 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="550px" alt="2023 05 01 19 06 44" />
+<img src="2023-05-01-19-06-44.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 44" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -354,7 +354,7 @@ CC0画像を加工
 {{% tab "地域と県名" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.svg#/media/File:Ph_regions_and_provinces.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ph_regions_and_provinces.svg" alt="Ph regions and provinces.svg" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:HueMan1" title="User:HueMan1">HueMan1</a> - Own work, based on <a href="//commons.wikimedia.org/wiki/User:Seav" title="User:Seav">seav</a>'s <a href="//commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.png" title="File:Ph regions and provinces.png">Ph regions and provinces.png</a> and <a href="//commons.wikimedia.org/wiki/User:Felipe_Aira" title="User:Felipe Aira">Felipe Aira</a>'s <a href="//commons.wikimedia.org/wiki/File:PhlMapCit.svg" title="File:PhlMapCit.svg">File:PhlMapCit.svg</a>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=80077790">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.svg#/media/File:Ph_regions_and_provinces.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Ph_regions_and_provinces.svg" alt="Wikimedia Commons photo showing Ph Regions And Provinces" width="70%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:HueMan1" title="User:HueMan1">HueMan1</a> - Own work, based on <a href="//commons.wikimedia.org/wiki/User:Seav" title="User:Seav">seav</a>'s <a href="//commons.wikimedia.org/wiki/File:Ph_regions_and_provinces.png" title="File:Ph regions and provinces.png">Ph regions and provinces.png</a> and <a href="//commons.wikimedia.org/wiki/User:Felipe_Aira" title="User:Felipe Aira">Felipe Aira</a>'s <a href="//commons.wikimedia.org/wiki/File:PhlMapCit.svg" title="File:PhlMapCit.svg">File:PhlMapCit.svg</a>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=80077790">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -365,7 +365,7 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road-sign3.jpg" width="95%" alt="Road sign3">
+<img src="./road-sign3.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road sign3">
 </div>
 
 {{% /tab %}}
@@ -374,7 +374,7 @@ CC0画像を加工
 フィリピンの大手銀行であるBDO Unibank・Bank of the Philippine Islands・Metrobankなどの看板に場所が書かれている{{% ex "https://maps.app.goo.gl/aGYK9bU5YD7gy3Th9" %}}。これ以外でも普通の店の看板に住所が書かれていることも結構多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="960px 9853Photos taken during 2020 coronavirus pandemic Meycauayan, Bulacan 10">
+<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="Philippines GeoGuessr guide image showing 960px 9853Photos Taken During 2020 Coronavirus Pandemic Meycauayan, Bulacan 10">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -397,7 +397,7 @@ CC0画像を加工
 本島と台湾の間の島{{% ex "https://maps.app.goo.gl/5CepKwzoyG8XXp2k9" "https://maps.app.goo.gl/YoMUtJLL9qtiSEwJ6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg#/media/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sumnanga_Village%2C_Sabtang_Island%2C_Batanes.jpg" alt="Sumnanga Village, Sabtang Island, Batanes.jpg" height="720" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Jeremy.alinea&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Jeremy.alinea (page does not exist)">Jeremy.alinea</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78822611">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg#/media/File:Sumnanga_Village,_Sabtang_Island,_Batanes.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Sumnanga_Village%2C_Sabtang_Island%2C_Batanes.jpg" alt="Wikimedia Commons photo showing Sumnanga Village, Sabtang Island, Batanes" height="720" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Jeremy.alinea&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Jeremy.alinea (page does not exist)">Jeremy.alinea</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78822611">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "コレヒドール島" %}}
@@ -405,7 +405,7 @@ CC0画像を加工
 GoogleCarが見える{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corregidor_dn_st_86.jpg" width="95%" alt="Corregidor dn st 86">
+<img src="./corregidor_dn_st_86.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Corregidor Dn St 86">
 </div>
 {{% /tab %}}
 {{% tab "ピナトゥボ山" %}}
@@ -413,7 +413,7 @@ GoogleCarが見える{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https:/
 
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./trekking_mountains_mountain_hiking.jpg" width="500px" alt="Trekking mountains mountain hiking">
+<img src="./trekking_mountains_mountain_hiking.jpg" width="500px" alt="Philippines GeoGuessr guide image showing Trekking Mountains Mountain Hiking">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

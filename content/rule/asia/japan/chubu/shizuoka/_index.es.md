@@ -27,7 +27,7 @@ Shizuoka solía liderar la producción de té, pero en los últimos años su vol
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/shizuoka/mount_fuji_20120909_b.jpg" alt="Mount fuji 20120909 b">
+<img src="/rule/asia/japan/chubu/shizuoka/mount_fuji_20120909_b.jpg" alt="Shizuoka GeoGuessr guide image showing Mount Fuji 20120909 B">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ En Aichi, Gifu, Mie, en la zona de Shizuoka al oeste del río Fuji y en Nagano s
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
 </div>
 
 {{% /tab %}}

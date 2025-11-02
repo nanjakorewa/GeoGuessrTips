@@ -38,7 +38,7 @@ sc: [
 Pelat nomor terlihat <span class="quiz">hitam di tengah</span> saat dimosaikkan {{% ex "https://maps.app.goo.gl/u7uQxHHTZA19YShW7" "https://maps.app.goo.gl/9myJgmbTH5K1bKLH8" "https://maps.app.goo.gl/7DaWy9xsURK71AqD8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/argentina/taxi.jpg" width="90%" alt="Taxi">
+<img src="/rule/cs_america/argentina/taxi.jpg" width="90%" alt="Argentina GeoGuessr guide image showing Taxi">
 </div>
 {{% lb 50 small %}}
 ![](/rule/cs_america/argentina/2023-04-12-11-42-57.png)
@@ -50,7 +50,7 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 Foto setelah tahun 2016 mungkin tidak lagi menunjukkan pelat hitam {{% ex "https://maps.app.goo.gl/eSddvfJy8YGF2dhP7" "https://maps.app.goo.gl/SHySfeMTe3cp738C9" "https://maps.app.goo.gl/vScY9xz2wKZpXhDj7" %}}. Negara-negara anggota Mercosur menggunakan pelat nomor biru yang seragam {{% ref "https://www.mofa.go.jp/mofaj/area/latinamerica/keizai/mercosur/index.html" "MOFA - Mercosur" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/Placas_de_veículos_do_Mercosul_mercosur.jpg" alt="Placas de veículos do Mercosul mercosur">
+<img src="/rule/cs_america/argentina/Placas_de_veículos_do_Mercosul_mercosur.jpg" alt="Argentina GeoGuessr guide image showing Placas De Veículos Do Mercosul Mercosur">
 </div>
 
 {{% notice tip %}}
@@ -64,24 +64,24 @@ Mobil Google Car sering berwarna <span class="quiz">hitam</span> {{% ex "https:/
 Tanda jalan di Argentina sering kali khas dan bisa ditemukan di Uruguay juga.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/road-sign.jpg" width="90%" alt="Road sign">
+<img src="/rule/cs_america/argentina/road-sign.jpg" width="90%" alt="Argentina GeoGuessr guide image showing Road Sign">
 </div>
 
 {{% notice tip %}}
 Plakat kecil dengan nomor jalan mungkin ditemukan di tepi jalan {{% ex "https://maps.app.goo.gl/HbiufkgCGYbvbKpB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/argentina/2011_101_18_140540.jpg" width="95%" alt="2011 101 18 140540" />
+<img src="/rule/cs_america/argentina/2011_101_18_140540.jpg" width="95%" alt="Argentina GeoGuessr guide image showing 2011 101 18 140540" />
 </div>
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/cs_america/argentina/r/road-sign.png" width="170px" alt="Road sign">
+<img src="https://geopinning.space/rule/cs_america/argentina/r/road-sign.png" width="170px" alt="Image from geopinning.space showing Road Sign">
 </div>
 
 {{% notice tip %}}
 SPBU milik perusahaan minyak YPF (Yacimientos Petrolíferos Fiscales) dengan tanda biru bisa ditemukan di Argentina {{% ex "https://maps.app.goo.gl/CetzCF3MWpnLapD89" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/junin_av_republica_20060428.jpg" width="90%" alt="Junin av republica 20060428" />
+<img src="/rule/cs_america/argentina/junin_av_republica_20060428.jpg" width="90%" alt="Argentina GeoGuessr guide image showing Junin Av Republica 20060428" />
 </div>
 
 {{% /tab %}}
@@ -107,13 +107,13 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% tab "Distribusi Vegetasi" %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_Argentina_Vegetaci%C3%B3n.svg#/media/File:Mapa_Argentina_Vegetación.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mapa_Argentina_Vegetaci%C3%B3n.svg" alt="Mapa Argentina Vegetación.svg" width="80%"></a></p><p>Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:Someone83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Someone83 (halaman tidak ada)">Someone83</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4560348">Tautan</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_Argentina_Vegetaci%C3%B3n.svg#/media/File:Mapa_Argentina_Vegetación.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Mapa_Argentina_Vegetaci%C3%B3n.svg" alt="Wikimedia Commons photo showing Mapa Argentina Vegetación" width="80%"></a></p><p>Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:Someone83&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Someone83 (halaman tidak ada)">Someone83</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4560348">Tautan</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "Timur Laut" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/2.jpg" width="350px" alt="2">
+<img src="/rule/cs_america/argentina/v/2.jpg" width="350px" alt="V GeoGuessr guide image showing 2">
 </div>
 
 <div class="googlemap-if">
@@ -124,7 +124,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Tengah Utara" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/1.jpg" width="350px" alt="1">
+<img src="/rule/cs_america/argentina/v/1.jpg" width="350px" alt="V GeoGuessr guide image showing 1">
 </div>
 
 <div class="googlemap-if">
@@ -135,7 +135,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Sekitar Provinsi Jujuy" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/6.jpg" width="350px" alt="6">
+<img src="/rule/cs_america/argentina/v/6.jpg" width="350px" alt="V GeoGuessr guide image showing 6">
 </div>
 
 <div class="googlemap-if">
@@ -146,7 +146,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Dekat Perbatasan Chili" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/4.jpg" width="350px" alt="4">
+<img src="/rule/cs_america/argentina/v/4.jpg" width="350px" alt="V GeoGuessr guide image showing 4">
 </div>
 
 <div class="googlemap-if">
@@ -157,7 +157,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Tengah Timur" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/5.jpg" width="350px" alt="5">
+<img src="/rule/cs_america/argentina/v/5.jpg" width="350px" alt="V GeoGuessr guide image showing 5">
 </div>
 
 <div class="googlemap-if">
@@ -168,7 +168,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Selatan" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/v/3.jpg" width="350px" alt="3">
+<img src="/rule/cs_america/argentina/v/3.jpg" width="350px" alt="V GeoGuessr guide image showing 3">
 </div>
 
 <div class="googlemap-if">
@@ -182,7 +182,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% notice tip %}}Berikut adalah peta wilayah produksi jagung{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/argentina/Argentina_Corn.png" width="90%" alt="Argentina Corn">
+<img src="/rule/cs_america/argentina/Argentina_Corn.png" width="90%" alt="Argentina GeoGuessr guide image showing Argentina Corn">
 </div>
 
 {{% /tab %}}
@@ -209,7 +209,7 @@ Tiang listrik di Argentina kadang memiliki lubang besar atau menyerupai tiang di
 {{% /tab %}}
 {{% tab "Taksi" %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/argentina/taxi_argentino.jpg" alt="Taxi argentino">
+<img src="/rule/cs_america/argentina/taxi_argentino.jpg" alt="Argentina GeoGuessr guide image showing Taxi Argentino">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

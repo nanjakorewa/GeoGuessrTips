@@ -39,27 +39,27 @@ sc: [
 Road signs {{% ex "https://maps.app.goo.gl/BdorMKga8Nz55i2N6" "https://maps.app.goo.gl/9QDuoffff8dpc2w59" "https://maps.app.goo.gl/PdGv3sBA26cDPCx39" %}} and route shields {{% ex "https://maps.app.goo.gl/APr3pCybvbEZcCg96" %}} have a distinctive look. In some areas you can spot the Google Car’s white roof.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Dubai roads"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Image from live.staticflickr.com showing 20060678506 b9a9e81990 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/united_arab_emirates/r/052314.png" width="106px" style="margin:0px" alt="UAE sign">
-<img src="/rule/middle_east/united_arab_emirates/r/52350.png" width="100px" style="margin:10px" alt="UAE warning sign">
-<img src="/rule/middle_east/united_arab_emirates/r/UAE_D97.svg" width="70px" style="margin:10px" alt="UAE D97">
-<img src="/rule/middle_east/united_arab_emirates/r/UAE_E99.svg" width="70px" style="margin:10px" alt="UAE E99">
+<img src="/rule/middle_east/united_arab_emirates/r/052314.png" width="106px" style="margin:0px" alt="R GeoGuessr guide image showing 052314">
+<img src="/rule/middle_east/united_arab_emirates/r/52350.png" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing 52350">
+<img src="/rule/middle_east/united_arab_emirates/r/UAE_D97.svg" width="70px" style="margin:10px" alt="R GeoGuessr guide image showing Uae D97">
+<img src="/rule/middle_east/united_arab_emirates/r/UAE_E99.svg" width="70px" style="margin:10px" alt="R GeoGuessr guide image showing Uae E99">
 </div>
 
 {{% notice tip %}}
 Expect high-rise silhouettes in major cities such as Dubai. {{% ex "https://goo.gl/maps/BJY8k6btibxfwC9z8" %}} Construction sites are common.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/144729932@N02/43815135115/" title="Sheikh Zayed Road"><img src="https://live.staticflickr.com/1893/43815135115_5c00ee55a1_z.jpg" width="640" height="416" alt="Sheikh Zayed Road"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/144729932@N02/43815135115/" title="Sheikh Zayed Road"><img src="https://live.staticflickr.com/1893/43815135115_5c00ee55a1_z.jpg" width="640" height="416" alt="Image from live.staticflickr.com showing 43815135115 5c00ee55a1 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Unlike {{% goto "../qatar/" "Qatar" %}}, terrain in the Emirates is rarely perfectly flat. Eastern suburbs reveal rocky hills {{% ex "https://maps.app.goo.gl/u2zzYyXKM7yzo8Xu6" "https://maps.app.goo.gl/uZbAu185tmhtfMxb9" "https://maps.app.goo.gl/LUMyh5GEXz9GdSer5" "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/rzG1m4pCafp92fnX7" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/JkteEr886DXMJKbu9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}—beware confusion with the Omani exclave of Musandam.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/united_arab_emirates/mountain_rock_landscape_stone.jpg" width="90%" alt="Rocky landscape in UAE">
+<img src="/rule/middle_east/united_arab_emirates/mountain_rock_landscape_stone.jpg" width="90%" alt="United Arab Emirates GeoGuessr guide image showing Mountain Rock Landscape Stone">
 </div>
 
 
@@ -78,7 +78,7 @@ License plates are mainly white, but a <span class="quiz">red strip</span> may a
 Signposts often have striped end poles {{% ex "https://maps.app.goo.gl/9FvXMoKj71awCEn69" "https://maps.app.goo.gl/Khn4gzPAhSLnUn2o9" "https://maps.app.goo.gl/QRQH4TJRzSPjhviZ9" "https://maps.app.goo.gl/yf2iJxq5mMVyJzLj6" "https://maps.app.goo.gl/g5bDeTxksemUiwsA9" %}}. Simple silver poles exist too, so use context.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/united_arab_emirates/street_in_al_ain.jpg" width="90%" alt="Street in Al Ain">
+<img src="/rule/middle_east/united_arab_emirates/street_in_al_ain.jpg" width="90%" alt="United Arab Emirates GeoGuessr guide image showing Street In Al Ain">
 </div>
 
 {{% /tab %}}
@@ -109,7 +109,7 @@ Distinct scenery {{% ex "https://maps.app.goo.gl/nCXUmC1QemMsn7xLA" "https://map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sir_Bani_Yas_Island_Panorama.jpg#/media/File:Sir_Bani_Yas_Island_Panorama.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Sir_Bani_Yas_Island_Panorama.jpg" alt="Sir Bani Yas Island Panorama" height="222" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Ismail.alghussein&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Ismail.alghussein (page does not exist)">Ismail.alghussein</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=6963767">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sir_Bani_Yas_Island_Panorama.jpg#/media/File:Sir_Bani_Yas_Island_Panorama.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Sir_Bani_Yas_Island_Panorama.jpg" alt="Wikimedia Commons photo showing Sir Bani Yas Island Panorama" height="222" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Ismail.alghussein&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Ismail.alghussein (page does not exist)">Ismail.alghussein</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=6963767">Wikimedia Commons</a></p>
 </div>
 
 {{% /tab %}}

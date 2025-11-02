@@ -43,7 +43,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./car.png" width="90%" alt="Car">
+<img src="./car.png" width="90%" alt="Senegal GeoGuessr guide image showing Car">
 </div>
 
 {{% lb 50 %}}
@@ -56,26 +56,26 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 {{% goto "../../europe/france/" "フランス" %}}とおなじ形の電柱{{% ex "https://maps.app.goo.gl/RQH5CAecC1NTwaix9" "https://maps.app.goo.gl/cbM26qhvAKLT3KmM6" %}}やボラード{{% ex "https://maps.app.goo.gl/FysAh8ZqfYedmFhf7" %}}がある。また通り名に「RUE」と書かれていることも。1960年にフランスから独立するまではフランス植民地だった{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "アフリカ分割" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Joseph Gomis à Dakar">
-<img src="./640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Mohamed V à Dakar">
+<img src="./640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Joseph Gomis À Dakar">
+<img src="./640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Mohamed V À Dakar">
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_à_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" alt="Climat chimique à MBORO.jpg" width="700"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Princesssenegal&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Princesssenegal (page does not exist)">Princesssenegal</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130830873">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Climat_chimique_%C3%A0_MBORO.jpg#/media/File:Climat_chimique_à_MBORO.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Climat_chimique_%C3%A0_MBORO.jpg" alt="Wikimedia Commons photo showing Climat Chimique À Mboro" width="700"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Princesssenegal&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Princesssenegal (page does not exist)">Princesssenegal</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=130830873">Link</a></p>
 </div>
 
 {{% notice tip %}}
 郊外に藁ぶき屋根の家が見つかることも{{% ex "https://maps.app.goo.gl/KqWL3cyn1y4AV35ZA" "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/uak7feCphivakSFN9" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="960px A l'entrée de Ndoussoudji">
+<img src="./960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="Senegal GeoGuessr guide image showing 960px A l'entrée De Ndoussoudji">
 </div>
 
 {{% notice tip %}}
 セネガルや{{% goto "../botswana/" "ボツワナ" %}}・{{% goto "../madagascar/" "マダガスカル" %}}のようなサバンナ地帯ではバオバブの木が見つかる{{% ex "https://maps.app.goo.gl/x4JLyv1HUNxqwyKT9" "https://maps.app.goo.gl/Tc2Ej1t8ASYqMrjx5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-Senegal_011.jpg" width="80%" alt="960px Senegal 011">
+<img src="./960px-Senegal_011.jpg" width="80%" alt="Senegal GeoGuessr guide image showing 960px Senegal 011">
 </div>
 
 {{% notice tip %}}
@@ -121,7 +121,7 @@ Google Carの屋根が見えたり{{% ex "https://maps.app.goo.gl/XUf7dYrPKNdZyk
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./seleki_houses.jpg" width="500px" alt="Seleki houses" />
+<img src="./seleki_houses.jpg" width="500px" alt="Senegal GeoGuessr guide image showing Seleki Houses" />
 </div>
 {{% /tab %}}
 {{% tab "🥜" %}}
@@ -150,7 +150,7 @@ Google Carの屋根が見えたり{{% ex "https://maps.app.goo.gl/XUf7dYrPKNdZyk
 {{% tab "気候" %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-05-13-15-20-11.png" width="90%" alt="2023 05 13 15 20 11">
+<img src="2023-05-13-15-20-11.png" width="90%" alt="Senegal GeoGuessr guide image showing 2023 05 13 15 20 11">
 </div>
 
 {{% notice tip %}}

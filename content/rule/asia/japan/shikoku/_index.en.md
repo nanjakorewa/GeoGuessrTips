@@ -25,7 +25,7 @@ Utility pole plates from Shikoku Electric Power are a common clue. When private 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px" alt="Pole shikoku">
+<img src="/rule/asia/japan/pole/pole-shikoku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Shikoku">
 </div>
 
 {{% /tab %}}

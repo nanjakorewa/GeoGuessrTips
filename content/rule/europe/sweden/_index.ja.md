@@ -41,7 +41,7 @@ sc: [
 {{% notice tip %}}スウェーデンや{{% goto "../norway/" "ノルウェー" %}}などの北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある{{% ex "https://maps.app.goo.gl/DDaBMG5S2Tma2CgL8" "https://maps.app.goo.gl/qgRpGixPyfFBmDE86" "https://maps.app.goo.gl/PCSpkUeWkpB7QH4A6" "https://maps.app.goo.gl/HAjex6Vyf6Et6PsF8" "https://maps.app.goo.gl/aDFG4HedRMTHdmoe8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
+<img src="./sweden_home_red_stone.jpg" width="95%" alt="Sweden GeoGuessr guide image showing Sweden Home Red Stone">
 </div>
 
 
@@ -50,9 +50,9 @@ sc: [
 横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>・<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Finland Road Sign E1 1" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing No Road Sign 516.H" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Sweden Road Sign B3 1" />
 </div>
 
 
@@ -63,28 +63,28 @@ sc: [
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
+            <img src="../sweden/r/Sweden_road_sign_F5.svg" alt="R GeoGuessr guide image showing Sweden Road Sign F5">
+            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Swedish Road Sign 1 5 2 15">
         </div>
         <p><span class="quiz">スウェーデン</span>{{% ex "https://goo.gl/maps/pugV8oV2wAyHqJDP8" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
+            <img src="../finland/r/Paikalliskohteen_viitta_648.svg" alt="R GeoGuessr guide image showing Paikalliskohteen Viitta 648">
+            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing Moottori Ja Moottoriliikennetien Viitta 649">
         </div>
         <p><span class="quiz">フィンランド</span>{{% ex "https://goo.gl/maps/jpm3KFZeFmTGzw1X6" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
+            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="R GeoGuessr guide image showing 1920px Norwegian Road Sign 713">
         </div>
         <p><span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/XqwC943TgqGuDHaDA" %}}</p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./swedish_countryside.jpg" width="480px" alt="Swedish countryside">
+<img src="./swedish_countryside.jpg" width="480px" alt="Sweden GeoGuessr guide image showing Swedish Countryside">
 </div>
 
 
@@ -92,8 +92,8 @@ sc: [
 国旗の色に近い色のシェブロンがある。ノルウェー・フィンランドは黒背景に黄色なので区別が付く{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="Swedish road sign X1">
-<img src="./r/Swedish_road_sign_7_1_1.svg" width="300px" style="margin: 10px;" alt="Swedish road sign 7 1 1">
+<img src="./r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="R GeoGuessr guide image showing Swedish Road Sign X1">
+<img src="./r/Swedish_road_sign_7_1_1.svg" width="300px" style="margin: 10px;" alt="R GeoGuessr guide image showing Swedish Road Sign 7 1 1">
 </div>
 
 {{% notice tip %}}
@@ -101,13 +101,13 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" alt="NO road sign 362.100" />
-<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" alt="Sweden road sign C31 10" />
-<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" alt="Finland road sign C32 100" />
+<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" alt="Finland GeoGuessr guide image showing No Road Sign 362.100" />
+<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" alt="Finland GeoGuessr guide image showing Sweden Road Sign C31 10" />
+<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" alt="Finland GeoGuessr guide image showing Finland Road Sign C32 100" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Road">
+<img src="./road.jpg" width="90%" alt="Sweden GeoGuessr guide image showing Road">
 </div>
 
 
@@ -116,7 +116,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.png" width="90%" alt="Road">
+<img src="./road.png" width="90%" alt="Sweden GeoGuessr guide image showing Road">
 </div>
 
 
@@ -125,7 +125,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-2.png" width="90%" alt="Road 2">
+<img src="./road-2.png" width="90%" alt="Sweden GeoGuessr guide image showing Road 2">
 </div>
 
 
@@ -199,14 +199,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Sweden_road_sign_F14-3.svg" width="100px" alt="Sweden road sign F14 3">
+<img src="./r/Sweden_road_sign_F14-3.svg" width="100px" alt="R GeoGuessr guide image showing Sweden Road Sign F14 3">
 </div>
 
 {{% /tab %}}
 {{% tab "市外局番" %}}
 
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:SWE_Areacodes.svg#/media/File:SWE_Areacodes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SWE_Areacodes.svg" alt="SWE Areacodes.svg" height="580" width="255"></a></p><p>By derivative work: <a href="//commons.wikimedia.org/w/index.php?title=User:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Coffeeshivers (page does not exist)">Coffeeshivers</a> (<a href="//commons.wikimedia.org/w/index.php?title=User_talk:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User talk:Coffeeshivers (page does not exist)">talk</a>)
+<p><a href="https://commons.wikimedia.org/wiki/File:SWE_Areacodes.svg#/media/File:SWE_Areacodes.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/90/SWE_Areacodes.svg" alt="Wikimedia Commons photo showing Swe Areacodes" height="580" width="255"></a></p><p>By derivative work: <a href="//commons.wikimedia.org/w/index.php?title=User:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Coffeeshivers (page does not exist)">Coffeeshivers</a> (<a href="//commons.wikimedia.org/w/index.php?title=User_talk:Coffeeshivers&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User talk:Coffeeshivers (page does not exist)">talk</a>)
 <a href="//commons.wikimedia.org/wiki/File:SWE-Map_Rike.svg" title="File:SWE-Map Rike.svg">SWE-Map_Rike.svg</a>: <a href="//commons.wikimedia.org/wiki/User:Lokal_Profil" title="User:Lokal Profil">Lokal_Profil</a> - <a href="//commons.wikimedia.org/wiki/File:SWE-Map_Rike.svg" title="File:SWE-Map Rike.svg">SWE-Map_Rike.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4487871">Link</a></p>
 </div>
 
@@ -214,7 +214,7 @@ sc: [
 {{% tab "植生" %}}
 
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sweden_Vegetation_Zones.jpg#/media/File:Sweden_Vegetation_Zones.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Sweden_Vegetation_Zones.jpg" alt="Sweden Vegetation Zones.jpg" height="869" width="600"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Boeing720" title="User:Boeing720">Boeing720</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63284022">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sweden_Vegetation_Zones.jpg#/media/File:Sweden_Vegetation_Zones.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Sweden_Vegetation_Zones.jpg" alt="Wikimedia Commons photo showing Sweden Vegetation Zones" height="869" width="600"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Boeing720" title="User:Boeing720">Boeing720</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63284022">Link</a></p>
 </div>
 
 {{% /tab %}}

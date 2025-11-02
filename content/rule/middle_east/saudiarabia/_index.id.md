@@ -33,8 +33,8 @@ Rambu nomor jalan memiliki desain khas dan menampilkan lambang nasional Arab Sau
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/saudiarabia/r/route_5_ksa_png.jpg" width="200px" style="margin:10px" alt="Route 5 ksa png">
-<img src="/rule/middle_east/saudiarabia/r/Saudi_Arabia_-_City_road-356.svg" width="180px" style="margin:10px" alt="Saudi Arabia City road 356">
+<img src="/rule/middle_east/saudiarabia/r/route_5_ksa_png.jpg" width="200px" style="margin:10px" alt="R GeoGuessr guide image showing Route 5 Ksa Png">
+<img src="/rule/middle_east/saudiarabia/r/Saudi_Arabia_-_City_road-356.svg" width="180px" style="margin:10px" alt="R GeoGuessr guide image showing Saudi Arabia City Road 356">
 </div>
 
 {{% /tab %}}

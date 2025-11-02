@@ -32,7 +32,7 @@ sc: [
 ほとんどの場合、見た瞬間ミッドウェー島と分かる{{% ex "https://maps.app.goo.gl/qbg1tR8KdCrJmzhG7" "https://maps.app.goo.gl/SocqFQcJpfixw3r88" "https://maps.app.goo.gl/DCFp5oQHmHfdSbGx5" %}}。鳥がたくさんいる島がミッドウェー島以外にもある点に注意{{% ex "https://maps.app.goo.gl/V4cbS1MmndTwDMzJ6" "https://maps.app.goo.gl/qK2WCEAYbvYYkKfb8" "https://maps.app.goo.gl/n7k78mdDSKCBAwhy5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./us_navy_100602_n_2.jpg" width="91%" alt="Us navy 100602 n 2">
+<img src="./us_navy_100602_n_2.jpg" width="91%" alt="Midway Atoll GeoGuessr guide image showing Us Navy 100602 N 2">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

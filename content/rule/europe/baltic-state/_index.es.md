@@ -17,7 +17,7 @@ add_flagindex: true
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/baltic-state/Liothuania-Latvia-Estonia.png" width="90%" alt="Cómo identificar los países bálticos en GeoGuessr" />
+<img src="/rule/europe/baltic-state/Liothuania-Latvia-Estonia.png" width="90%" alt="Baltic State GeoGuessr guide image showing Liothuania Latvia Estonia" />
 </div>
 
 <div class="main-desciption country-description">
@@ -38,7 +38,7 @@ Los tres países son pequeños en extensión.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/babakotoeu/11999786185/" title="Driving through rural Latvia [Latvia]"><img src="https://live.staticflickr.com/5480/11999786185_8bb12ee655_z.jpg" width="640" height="424" alt="Driving through rural Latvia [Latvia]"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/babakotoeu/11999786185/" title="Driving through rural Latvia [Latvia]"><img src="https://live.staticflickr.com/5480/11999786185_8bb12ee655_z.jpg" width="640" height="424" alt="Image from live.staticflickr.com showing 11999786185 8bb12ee655 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -50,5 +50,5 @@ En toda la región, y especialmente en Estonia, verás taquillas naranjas de Omn
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/2023-06-02-18-41-43.png" width="200px" alt="2023 06 02 18 41 43">
+<img src="/rule/europe/baltic-state/2023-06-02-18-41-43.png" width="200px" alt="Baltic State GeoGuessr guide image showing 2023 06 02 18 41 43">
 </div>

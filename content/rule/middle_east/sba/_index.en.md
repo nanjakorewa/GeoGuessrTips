@@ -37,7 +37,7 @@ Distinctive white bollards can be found{{% ex "https://maps.app.goo.gl/tkMJ73XJH
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/sba/Road_To_Pafos.jpg" width="90%" alt="Road To Pafos">
+<img src="/rule/middle_east/sba/Road_To_Pafos.jpg" width="90%" alt="Sba GeoGuessr guide image showing Road To Pafos">
 </div>
 
 {{% notice tip %}}
@@ -45,8 +45,8 @@ Signage appears in English, Greek, and Turkish{{% ex "https://maps.app.goo.gl/id
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/sba/bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px" alt="Bilingual motorway direction sign">
-<img src="/rule/middle_east/sba/turkish_republic_northern_cyprus_0.jpg" width="300px" alt="Turkish republic northern cyprus 0">
+<img src="/rule/middle_east/sba/bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px" alt="Sba GeoGuessr guide image showing Bilingual Motorway Direction Sign">
+<img src="/rule/middle_east/sba/turkish_republic_northern_cyprus_0.jpg" width="300px" alt="Sba GeoGuessr guide image showing Turkish Republic Northern Cyprus 0">
 </div>
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ There are yellow labels on utility poles{{% ex "https://maps.app.goo.gl/HR1DCBHD
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/sba/971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="971px Dirt road in British Controlled area of Ypsonas Village Limassol 12">
+<img src="/rule/middle_east/sba/971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="Sba GeoGuessr guide image showing 971px Dirt Road In British Controlled Area Of Ypsonas Village Limassol 12">
 </div>
 
 {{% notice tip %}}

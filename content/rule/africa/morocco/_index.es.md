@@ -27,25 +27,25 @@ is_unofficial: true
 El diseño local de la señal de “STOP” es característico.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/morocco/morocco_shield_street_sign.jpg" width="90%" alt="Morocco shield street sign">
+<img src="/rule/africa/morocco/morocco_shield_street_sign.jpg" width="90%" alt="Morocco GeoGuessr guide image showing Morocco Shield Street Sign">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/morocco/r/MA_road_sign_201_(Arabic_and_Berber).svg" width="150px" alt="MA road sign 201 (Arabic and Berber)">
+<img src="/rule/africa/morocco/r/MA_road_sign_201_(Arabic_and_Berber).svg" width="150px" alt="R GeoGuessr guide image showing Ma Road Sign 201 (Arabic And Berber)">
 </div>
 
 {{% notice tip %}}
 Se pueden encontrar postes similares a los de {{% goto "../../europe/france/" "Francia" %}}{{% ex "https://maps.app.goo.gl/yj1mTTx1Nv1ojsrT6" "https://maps.app.goo.gl/tmReK2YPUDdArCnw9" %}}. Gran parte de Marruecos fue protectorado francés hasta 1956.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/morocco/roadsign2.jpg" width="90%" alt="Roadsign2">
+<img src="/rule/africa/morocco/roadsign2.jpg" width="90%" alt="Morocco GeoGuessr guide image showing roadsign2">
 </div>
 
 {{% notice tip %}}
 La señalización suele incluir árabe y francés; también aparece escritura bereber (amazigh){{% ref "https://es.wikipedia.org/wiki/Lenguas_bereberes" "Lenguas bereberes" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/morocco/roadsign1.jpg" width="70%" alt="Roadsign1">
+<img src="/rule/africa/morocco/roadsign1.jpg" width="70%" alt="Morocco GeoGuessr guide image showing roadsign1">
 </div>
 
 {{% /tab %}}

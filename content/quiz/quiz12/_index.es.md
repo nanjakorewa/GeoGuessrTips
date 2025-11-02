@@ -22,6 +22,6 @@ Las señales de advertencia con un borde rojo delgado son características de {{
 {{% /notice %}}
 <br />
 <div class="googlemap-if">
-<img src="https://geopinning.space/rule/europe/poland/r/PL_road_sign_A-7.svg" width="200px" alt="PL road sign A 7">
+<img src="https://geopinning.space/rule/europe/poland/r/PL_road_sign_A-7.svg" width="200px" alt="Image from geopinning.space showing Pl Road Sign A 7">
 </div>
 </div>

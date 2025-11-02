@@ -28,7 +28,7 @@ flag: "Kumamoto.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="kumamoto_pref_road_28_0.jpg" width="90%" alt="Kumamoto pref road 28 0">
+<img src="kumamoto_pref_road_28_0.jpg" width="90%" alt="Kumamoto GeoGuessr guide image showing Kumamoto Pref Road 28 0">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ flag: "Kumamoto.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
+<img src="../../pole/pole-kyusyu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Kyusyu">
 </div>
 
 {{% /tab %}}
@@ -59,7 +59,7 @@ TSMCの進出をきっかけに、半導体関連企業が非常に多く進出�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2025-01-04-13-51-49.png" alt="2025 01 04 13 51 49">
+<img src="2025-01-04-13-51-49.png" alt="Kumamoto GeoGuessr guide image showing 2025 01 04 13 51 49">
 </div>
 
 {{% /tab %}}

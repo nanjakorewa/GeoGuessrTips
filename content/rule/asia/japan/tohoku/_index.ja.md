@@ -13,7 +13,7 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" title="北海道" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" class="flag-link">
-            <img src="https://geopinning.space/flags/Flag_of_Hokkaido_Prefecture.png" alt="北海道" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Flag_of_Hokkaido_Prefecture.png" alt="Image from geopinning.space showing Flag Of Hokkaido Prefecture" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/tohoku/hokkaido/" class="flag-link">北海道</a></p>
     </li>
 </ul>
@@ -38,8 +38,8 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../pole/pole-tohoku.png" width="220px" alt="Pole tohoku">
-<img src="../pole/pole-hokkaido.png" width="95px" alt="Pole hokkaido">
+<img src="../pole/pole-tohoku.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Tohoku">
+<img src="../pole/pole-hokkaido.png" width="95px" alt="Pole GeoGuessr guide image showing Pole Hokkaido">
 </div>
 
 {{% /tab %}}
@@ -49,7 +49,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rebun_20110818_175029.jpg#/media/File:Rebun_20110818_175029.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Rebun_20110818_175029.jpg" alt="File:Rebun 20110818 175029.jpg" height="717" width="1280"></a></p><p>By Ka23 13 - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=142923992">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rebun_20110818_175029.jpg#/media/File:Rebun_20110818_175029.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Rebun_20110818_175029.jpg" alt="Wikimedia Commons photo showing Rebun 20110818 175029" height="717" width="1280"></a></p><p>By Ka23 13 - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=142923992">Link</a></p>
 </div>
 
 {{% /tab %}}

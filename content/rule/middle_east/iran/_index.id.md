@@ -32,7 +32,7 @@ Pelat nomor memiliki desain yang mirip dengan yang dipakai di Uni Eropa.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/iran/road.jpg" width="90%" alt="Road">
+<img src="/rule/middle_east/iran/road.jpg" width="90%" alt="Iran GeoGuessr guide image showing Road">
 </div>
 
 

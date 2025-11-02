@@ -33,7 +33,7 @@ El cheroqui pertenece a la familia iroquesa y se utiliza en partes de Carolina d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region3/cherokee_stop_sign_png.jpg" alt="Cherokee stop sign png">
+<img src="/rule/n_america/usa/region3/cherokee_stop_sign_png.jpg" alt="region3 GeoGuessr guide image showing Cherokee Stop Sign Png">
 </div>
 
 {{% /tab %}}

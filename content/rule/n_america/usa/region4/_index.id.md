@@ -35,7 +35,7 @@ Montana, Wyoming, Idaho, Colorado, Utah, Nevada, New Mexico, Arizona, Washington
 ① Jika rambu batas kecepatan hanya bertuliskan <span class="quiz">SPEED</span>, kemungkinan besar itu Oregon.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region4/Oregon-speed.svg.png" width="300px" alt="Oregon speed.svg">
+<img src="/rule/n_america/usa/region4/Oregon-speed.svg.png" width="300px" alt="region4 GeoGuessr guide image showing Oregon speed.svg">
 </div>
 {{% /tab %}}
 {{% tab "② Tiang Listrik" %}}

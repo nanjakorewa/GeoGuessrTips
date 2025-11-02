@@ -40,7 +40,7 @@ sc: [
 Sinhala (සිංහල) {{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "https://goo.gl/maps/Nou5G3kNf3MB6RQ9A" %}} and Tamil (தமிழ்) {{% ex "https://goo.gl/maps/S7EkpiGtvFaRWHhB6" %}} appear together as official languages. Poles with <span class="quiz">black-and-white striping</span> are also common.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="four corners"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/staticdynamic/4392054980/" title="four corners"><img src="https://live.staticflickr.com/4038/4392054980_b4eff4400b_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 4392054980 b4eff4400b Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -48,7 +48,7 @@ Sinhala (සිංහල) {{% ex "https://goo.gl/maps/kP4uCADgXGvRL2Cd6" "https:
 Look for <span class="quiz">black-and-white curb blocks</span> near canals and intersections. {{% ex "https://maps.app.goo.gl/QwKbrQwAB5hook5Y7" %}}{{% by "" "plonkit" %}} Bollards like the one on the left of the photo show up frequently. {{% ex "https://maps.app.goo.gl/wdihRm8Ey3aTtUEV7" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:B_class_road_in_2016.jpg#/media/File:B_class_road_in_2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/B_class_road_in_2016.jpg" alt="B class road in 2016.jpg" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Eng.M.Bandara" title="User:Eng.M.Bandara">Eng.M.Bandara</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54602439">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:B_class_road_in_2016.jpg#/media/File:B_class_road_in_2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/B_class_road_in_2016.jpg" alt="Wikimedia Commons photo showing B Class Road In 2016" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Eng.M.Bandara" title="User:Eng.M.Bandara">Eng.M.Bandara</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=54602439">Link</a></p>
 </div>
 
 
@@ -57,7 +57,7 @@ Utility poles may have large openings or square shapes similar to those in {{% g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Road" />
+<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Srilanka GeoGuessr guide image showing Road" />
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Some poles have openings, others are square. Do not assume you are in Thailand j
 {{% /notice %}}
 
 <div class="googlemap-if">
-<p style="pointer-events: none;"><a href="https://commons.wikimedia.org/wiki/File:Sri_Lanka_-_Ethnicity_2012.png#/media/File:Sri_Lanka_-_Ethnicity_2012.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sri_Lanka_-_Ethnicity_2012.png" alt="Sri Lanka - Ethnicity 2012.png" width="70%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24581132">Image source (Link)</a></p>
+<p style="pointer-events: none;"><a href="https://commons.wikimedia.org/wiki/File:Sri_Lanka_-_Ethnicity_2012.png#/media/File:Sri_Lanka_-_Ethnicity_2012.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8b/Sri_Lanka_-_Ethnicity_2012.png" alt="Wikimedia Commons photo showing Sri Lanka Ethnicity 2012" width="70%"></a></p><p><a href="http://creativecommons.org/publicdomain/zero/1.0/deed.en" title="Creative Commons Zero, Public Domain Dedication">CC0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24581132">Image source (Link)</a></p>
 </div>
 
 <div class="googlemap-if">
@@ -154,21 +154,21 @@ Some poles have openings, others are square. Do not assume you are in Thailand j
 {{% /tab %}}
 {{% tab "Rice fields" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Rice">
+<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Srilanka GeoGuessr guide image showing Rice">
 </div>
 {{% notice tip %}}Paddy fields appear more frequently toward the northeast, but they can still be found in many regions, so treat this as supplementary information.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Coconut palms" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Palm">
+<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Srilanka GeoGuessr guide image showing Palm">
 </div>
 {{% notice tip %}}Coconut trees are scattered nationwide, but commercial plantations cluster in the central-west. Apologies for the rough hand-drawn map.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Tea & rubber" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Tea">
+<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Srilanka GeoGuessr guide image showing Tea">
 </div>
 {{% notice tip %}}Tea estates are concentrated in the southwest, as noted by plonkit and supporting references. Rubber follows a similar pattern.
 {{% /notice %}}

@@ -35,7 +35,7 @@ jogmec_detail: true
 ①速度制限が<span class="quiz">SPEED</span>のみならばオレゴンかも
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Oregon-speed.svg.png" width="300px" alt="Oregon speed.svg">
+<img src="Oregon-speed.svg.png" width="300px" alt="region4 GeoGuessr guide image showing Oregon speed.svg">
 </div>
 {{% /tab %}}
 {{% tab "②電柱" %}}

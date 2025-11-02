@@ -32,7 +32,7 @@ License plates have designs similar to those used across the EU.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/iran/road.jpg" width="90%" alt="Road">
+<img src="/rule/middle_east/iran/road.jpg" width="90%" alt="Iran GeoGuessr guide image showing Road">
 </div>
 
 

@@ -25,7 +25,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-shikoku.png" width="420px" alt="Pole shikoku">
+<img src="../pole/pole-shikoku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Shikoku">
 </div>
 
 {{% /tab %}}

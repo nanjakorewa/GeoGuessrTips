@@ -35,21 +35,21 @@ sc: [
 Tiang listrik dengan sekat dapat ditemukan seperti di {{% goto "../brazil/" "Brasil" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg#/media/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg" alt="En la cabecera del Puente Remanso - Ruta 9 - panoramio.jpg" width="95%"></a></p><p>By Diego Fernando Quint…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57731220">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg#/media/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg" alt="Wikimedia Commons photo showing En La Cabecera Del Puente Remanso Ruta 9 Panoramio" width="95%"></a></p><p>By Diego Fernando Quint…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57731220">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Papan nama jalan di Asunción sering berwarna hitam dengan tiang merah putih. Bagian belakang papan nama juga sering hitam seperti di {{% goto "../brazil/" "Brasil" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/paraguay/conmebol_football_flag_building.jpg" width="95%" alt="Conmebol football flag building">
+<img src="/rule/cs_america/paraguay/conmebol_football_flag_building.jpg" width="95%" alt="Paraguay GeoGuessr guide image showing Conmebol Football Flag Building">
 </div>
 
 {{% notice tip %}}
 Jalan tertentu memiliki papan nama berbentuk lengkung.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/paraguay/Entrada_a_Arroyos_y_Esteros.jpg" width="90%" alt="Entrada a Arroyos y Esteros">
+<img src="/rule/cs_america/paraguay/Entrada_a_Arroyos_y_Esteros.jpg" width="90%" alt="Paraguay GeoGuessr guide image showing Entrada A Arroyos Y Esteros">
 </div>
 
 {{% /tab %}}
@@ -75,7 +75,7 @@ Beberapa area dekat perbatasan Brasil masuk ke sisi Paraguay.
 {{% tabs %}}
 {{% tab "Tenggara" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/paraguay/Paraguay_Rice.png" width="80%" alt="Paraguay Rice">
+<img src="/rule/cs_america/paraguay/Paraguay_Rice.png" width="80%" alt="Paraguay GeoGuessr guide image showing Paraguay Rice">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Curah hujan tinggi, ditemukan ladang kedelai, sawah, dan jagung.
 {{% /tab %}}
 {{% tab "Barat Laut" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/paraguay/Paraguay_Cotton.png" width="80%" alt="Paraguay Cotton">
+<img src="/rule/cs_america/paraguay/Paraguay_Cotton.png" width="80%" alt="Paraguay GeoGuessr guide image showing Paraguay Cotton">
 </div>
 
 {{% notice tip %}}

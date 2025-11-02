@@ -32,7 +32,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/22867386@N02/3869463103/in/photolist-6TW1z6-27BLpPN-5VXsMU-2a7AMBr-f9YXEc-R6GEh-xEKtP-25LNF3D-28CYNPq-2dZ7xBZ-24FENoC-2a7ANqk-294V8Mw-Dwcmd4-28Xcrtt-2apCZQN-2afZDno-ZMVyHV-qeYxFB-bw2Kj4-2bQbK9V-2bQbFfx-2bKSpoJ-SzKz6w-K4jeLX-24pAp9r-CMvHCS-qhBLu6-K4jdYe-2afZDUL-9zvfLt-27ksJjr-fa51Tc-28CQufs-2bQbFza-2bQbJ6T-9uBEXy-ZTvpMF-te6i7r-294V7SW-NbnGLY-28XcrW2-29dhVoW-27xZtjN-28HpBH2-rejGto-27kuse6-2aJnhNy-28HmGae-2ozaGww" title="old Bafata"><img src="https://live.staticflickr.com/2595/3869463103_e5131ec613_c.jpg" width="800" height="600" alt="old Bafata"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/22867386@N02/3869463103/in/photolist-6TW1z6-27BLpPN-5VXsMU-2a7AMBr-f9YXEc-R6GEh-xEKtP-25LNF3D-28CYNPq-2dZ7xBZ-24FENoC-2a7ANqk-294V8Mw-Dwcmd4-28Xcrtt-2apCZQN-2afZDno-ZMVyHV-qeYxFB-bw2Kj4-2bQbK9V-2bQbFfx-2bKSpoJ-SzKz6w-K4jeLX-24pAp9r-CMvHCS-qhBLu6-K4jdYe-2afZDUL-9zvfLt-27ksJjr-fa51Tc-28CQufs-2bQbFza-2bQbJ6T-9uBEXy-ZTvpMF-te6i7r-294V7SW-NbnGLY-28XcrW2-29dhVoW-27xZtjN-28HpBH2-rejGto-27kuse6-2aJnhNy-28HmGae-2ozaGww" title="old Bafata"><img src="https://live.staticflickr.com/2595/3869463103_e5131ec613_c.jpg" width="800" height="600" alt="Image from live.staticflickr.com showing 3869463103 e5131ec613 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -40,7 +40,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="trees_cashew_nuts_fruiting.jpg" width="90%" alt="Trees cashew nuts fruiting" />
+<img src="trees_cashew_nuts_fruiting.jpg" width="90%" alt="Guineabissau GeoGuessr guide image showing Trees Cashew Nuts Fruiting" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mB4VuVWkh1k?si=slXDfmqXALxffWUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 

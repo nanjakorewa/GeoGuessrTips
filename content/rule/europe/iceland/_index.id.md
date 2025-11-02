@@ -42,7 +42,7 @@ sc: [
 Medannya tercipta dari lava, tanahnya berwarna hitam, dan hanya rumput jarum yang tumbuh liar. Karena sifatnya, terdapat sungai dan lahan basah yang tidak beraturan, dan sungai dengan tepian yang lurus hampir tidak ada.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-road.png" width="95%" alt="Iceland road">
+<img src="/rule/europe/iceland/iceland-road.png" width="95%" alt="Iceland GeoGuessr guide image showing Iceland Road">
 </div>
 
 
@@ -50,7 +50,7 @@ Medannya tercipta dari lava, tanahnya berwarna hitam, dan hanya rumput jarum yan
 Ada tonggak <span class="quiz">kuning</span>{{% ex "https://goo.gl/maps/YufFHvRNSy98MUSt9" "https://goo.gl/maps/xVKs6YeD8Hu6uC8g6" "https://goo.gl/maps/6Bp8nSZan47y3pP77" "https://goo.gl/maps/UJsQoZL2FwLCKUMf6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-bollard.png" width="95%" alt="アイスランドのボラード" />
+<img src="/rule/europe/iceland/iceland-bollard.png" width="95%" alt="Iceland GeoGuessr guide image showing Iceland Bollard" />
 </div>
 
 
@@ -58,7 +58,7 @@ Ada tonggak <span class="quiz">kuning</span>{{% ex "https://goo.gl/maps/YufFHvRN
 Di Islandia yang dingin, ada banyak jendela yang memungkinkan sinar matahari masuk untuk menghangatkan ruangan{{% ex "https://goo.gl/maps/QmqcLmurwQDMfmjk7" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}. Selain itu, tidak seperti di Skandinavia, dinding dan atap kayu tampak hampir tidak ada, karena lingkungannya tidak memiliki pepohonan{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-house.jpg" width="95%" alt="Iceland house" />
+<img src="/rule/europe/iceland/iceland-house.jpg" width="95%" alt="Iceland GeoGuessr guide image showing Iceland House" />
 </div>
 
 
@@ -66,7 +66,7 @@ Di Islandia yang dingin, ada banyak jendela yang memungkinkan sinar matahari mas
 Rambu penyeberangan berwarna kuning.Namun, Anda mungkin hanya akan menemukan beberapa di luar pusat kota.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/Iceland_road_sign_D02.11.svg" width="190px" alt="Iceland road sign D02.11">
+<img src="/rule/europe/iceland/Iceland_road_sign_D02.11.svg" width="190px" alt="Iceland GeoGuessr guide image showing Iceland Road Sign D02.11">
 </div>
 
 {{% /tab %}}

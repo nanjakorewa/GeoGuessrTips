@@ -38,7 +38,7 @@ sc: [
 ボラードはいろいろな種類があり一貫性がない。反射板がふたつ付いている見慣れない形のもの{{% ex "https://maps.app.goo.gl/4HUoPNSFyvTw9MYN6" "https://maps.app.goo.gl/wVYdUu4AKc4AEfEc8" "https://goo.gl/maps/PsSdjnqAVBVKiffVA" "https://goo.gl/maps/2qLweYvAgDvTPg7E8" %}}はエクアドルかも？
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:LIMITE_-_panoramio.jpg#/media/File:LIMITE_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/LIMITE_-_panoramio.jpg" alt="LIMITE - panoramio.jpg" width="95%"></a></p><p>By DIOHER_PAVAL, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60614574">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:LIMITE_-_panoramio.jpg#/media/File:LIMITE_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/LIMITE_-_panoramio.jpg" alt="Wikimedia Commons photo showing Limite Panoramio" width="95%"></a></p><p>By DIOHER_PAVAL, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60614574">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%" alt="Road" />
+<img src="./road.jpg" width="90%" alt="Ecuador GeoGuessr guide image showing Road" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, 画像加工あり
@@ -61,7 +61,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="540px-Banos-Puyo.jpg" alt="540px Banos Puyo">
+<img src="540px-Banos-Puyo.jpg" alt="Ecuador GeoGuessr guide image showing 540px Banos Puyo">
 </div>
 
 
@@ -71,7 +71,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="pole.jpg" width="95%" alt="Pole" />
+<img src="pole.jpg" width="95%" alt="Ecuador GeoGuessr guide image showing Pole" />
 </div>
 
 
@@ -81,7 +81,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./palanda_ecuador_truck.jpg" width="90%" alt="Palanda ecuador truck">
+<img src="./palanda_ecuador_truck.jpg" width="90%" alt="Ecuador GeoGuessr guide image showing Palanda Ecuador Truck">
 </div>
 
 {{% lb 50 %}}
@@ -96,7 +96,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Icamino_ambato1.JPG#/media/File:Icamino_ambato1.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Icamino_ambato1.JPG" alt="Icamino ambato1.JPG" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Juanjo_guaman&amp;action=edit&amp;redlink=1" class="new" title="User:Juanjo guaman (page does not exist)">Juanjo guaman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19496831">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Icamino_ambato1.JPG#/media/File:Icamino_ambato1.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Icamino_ambato1.JPG" alt="Wikimedia Commons photo showing Icamino ambato1" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Juanjo_guaman&amp;action=edit&amp;redlink=1" class="new" title="User:Juanjo guaman (page does not exist)">Juanjo guaman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=19496831">Link</a></p>
 </div>
 
 
@@ -170,7 +170,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 赤い丸の箇所にはアブラヤシのプランテーションがある。特にコロンビア国境付近の道{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" %}}やE20の道路{{% ex "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-23-04-26-04.png" width="90%" alt="2023 05 23 04 26 04">
+<img src="2023-05-23-04-26-04.png" width="90%" alt="Ecuador GeoGuessr guide image showing 2023 05 23 04 26 04">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Ecuador_Rice.png" width="90%" alt="Ecuador Rice">
+<img src="Ecuador_Rice.png" width="90%" alt="Ecuador GeoGuessr guide image showing Ecuador Rice">
 </div>
 {{% /tab %}}
 {{% tab "バナナ" %}}
@@ -188,7 +188,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 平地の多い地域でバナナのプランテーションが見つかる{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "EcuadoriaN BananA RegionS" %}}。Los Ríos (37.14%)・Guayas (32.25%)・El Oro (24,12%)の割合。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="640px-Culture_de_bananes.jpg" width="90%" alt="640px Culture de bananes">
+<img src="640px-Culture_de_bananes.jpg" width="90%" alt="Ecuador GeoGuessr guide image showing 640px Culture De Bananes">
 </div>
 
 {{% /tab %}}
@@ -198,7 +198,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rue_de_riobamba.jpg" width="500" alt="Rue de riobamba">
+<img src="./rue_de_riobamba.jpg" width="500" alt="Ecuador GeoGuessr guide image showing Rue De Riobamba">
 </div>
 {{% /tab %}}
 
@@ -218,7 +218,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pichincha1a.jpg" width="95%" alt="Pichincha1a">
+<img src="./pichincha1a.jpg" width="95%" alt="Ecuador GeoGuessr guide image showing pichincha1a">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

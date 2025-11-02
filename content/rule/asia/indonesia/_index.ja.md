@@ -42,27 +42,27 @@ sc: [
 家の前や通りに<span class="quiz">赤と白でカラーリングされた三角の</span>旗{{% ex "https://maps.app.goo.gl/gk6Zdq6fbeT6XWoy8" "https://goo.gl/maps/QF7ttzg7fWna6QbM6" "https://goo.gl/maps/1unn5tAUEMRCgbBo7" %}}やカラフルな旗{{% ex "https://goo.gl/maps/FG82oDNXkTxkYN5w8" "https://goo.gl/maps/tVLNrpfpdTRTzdVM7" %}}が並んでいる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg#/media/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Independence_Day_Canival_in_Bantul_Indonesia.jpg" alt="Independence Day Canival in Bantul Indonesia.jpg" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8360434@N06">Yan Arief Purwanto</a> from Yogyakarta, Indonesia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8360434@N06/1180032144/">IMG_9328</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8456692">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg#/media/File:Independence_Day_Canival_in_Bantul_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/44/Independence_Day_Canival_in_Bantul_Indonesia.jpg" alt="Wikimedia Commons photo showing Independence Day Canival In Bantul Indonesia" width="95%"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8360434@N06">Yan Arief Purwanto</a> from Yogyakarta, Indonesia - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8360434@N06/1180032144/">IMG_9328</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8456692">Link</a></p>
 </div>
 
 {{% notice tip %}}
 瓦{{% ex "https://maps.app.goo.gl/U2HCP3pi4acVz8Sh7" "https://maps.app.goo.gl/ZYHgQLzqLhZ3z5h8A" %}}やトタンの屋根{{% ex "https://maps.app.goo.gl/K28C4C6htnALA5ti7" "https://maps.app.goo.gl/nvEZz49vQTwt8MNY9" %}}が多い。北ほどトタンの割合が高い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house.jpg" alt="House">
+<img src="./house.jpg" alt="Indonesia GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">アルファマート、マンディリ銀行、BRI銀行</span>などの看板は小さめの町でも見つかることがある。<span class="quiz">アルファマート</span>はインドネシア国内になんと17000店以上展開しているという{{% ex "https://goo.gl/maps/5j8rXouHLyBRe8RN8" "https://goo.gl/maps/3Li5RfHzMijgQ8417" "https://goo.gl/maps/CDL8LAmhee6bKPkc8" "https://goo.gl/maps/rHbSACuZBqzsjypw6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Jakarta"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/axelrd/15593224980/in/photolist-pKVmwy-7Ptsxa-9KrguY-9v2Mji-WPmK2h-D56bnv-CvkuVx-232HHeL-ZNCKC3-2nAznaW-2gN6gqr" title="Jakarta"><img src="https://live.staticflickr.com/7485/15593224980_d2b9dcb2f7_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 15593224980 d2b9dcb2f7 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px" alt="1280px Alfamart logo.svg">
-<img src="./c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px" alt="Bank Mandiri logo 2016">
-<img src="./c/BRI_2020.svg" width="170px" style="margin:10px" alt="BRI 2020">
+<img src="./c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px" alt="C GeoGuessr guide image showing 1280px Alfamart logo.svg">
+<img src="./c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px" alt="C GeoGuessr guide image showing Bank Mandiri Logo 2016">
+<img src="./c/BRI_2020.svg" width="170px" style="margin:10px" alt="C GeoGuessr guide image showing Bri 2020">
 </div>
 
 
@@ -70,7 +70,7 @@ sc: [
 道端で<span class="quiz">タバコ</span>がよく売られている{{% ex "https://goo.gl/maps/famuKArJo35iqqTf6" "https://goo.gl/maps/r1YhkdzHhBrUChEVA" "https://goo.gl/maps/2NxrDJLbyFLVCvML9" %}}。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./adv.jpg" width="95%" alt="Adv">
+<img src="./adv.jpg" width="95%" alt="Indonesia GeoGuessr guide image showing Adv">
 </div>
 
 {{% notice tip %}}
@@ -78,11 +78,11 @@ sc: [
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="ll.jpg" class="resolution-small" width="50%" alt="Ll" />
+<img src="ll.jpg" class="resolution-small" width="50%" alt="Indonesia GeoGuessr guide image showing Ll" />
 
 CC0
 
-<img src="ll2.jpg" class="resolution-small" width="50%" alt="Ll2" />
+<img src="ll2.jpg" class="resolution-small" width="50%" alt="Indonesia GeoGuessr guide image showing ll2" />
 
 CC0
 {{% /lb %}}
@@ -92,7 +92,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Bukit_Bego_(11).jpg#/media/File:Bukit_Bego_(11).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bukit_Bego_%2811%29.jpg" alt="File:Bukit Bego (11).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fandy_Aprianto_Rohman" class="mw-redirect" title="User:Fandy Aprianto Rohman">Fandy Aprianto Rohman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=93198564">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Bukit_Bego_(11).jpg#/media/File:Bukit_Bego_(11).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Bukit_Bego_%2811%29.jpg" alt="Wikimedia Commons photo showing Bukit Bego (11)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fandy_Aprianto_Rohman" class="mw-redirect" title="User:Fandy Aprianto Rohman">Fandy Aprianto Rohman</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=93198564">Link</a></p>
 </div>
 
 
@@ -103,7 +103,7 @@ CC0
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Pertamina_filling_station,_Bali,_Indonesia.jpg#/media/File:Pertamina_filling_station,_Bali,_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Pertamina_filling_station%2C_Bali%2C_Indonesia.jpg" alt="Pertamina filling station, Bali, Indonesia.jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Pertamina_filling_station,_Bali,_Indonesia.jpg#/media/File:Pertamina_filling_station,_Bali,_Indonesia.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Pertamina_filling_station%2C_Bali%2C_Indonesia.jpg" alt="Wikimedia Commons photo showing Pertamina Filling station, Bali, Indonesia" width="90%"></a></p>
 <p>By Yoshi Canopus - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9435271">Link</a></p>
 </div>
 
@@ -114,7 +114,7 @@ CC0
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Jl_hutan_-_panoramio.jpg#/media/File:Jl_hutan_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Jl_hutan_-_panoramio.jpg" alt="Jl hutan - panoramio.jpg" height="478" width="640"></a></p><p>By kasman70, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59989024">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Jl_hutan_-_panoramio.jpg#/media/File:Jl_hutan_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Jl_hutan_-_panoramio.jpg" alt="Wikimedia Commons photo showing Jl Hutan Panoramio" height="478" width="640"></a></p><p>By kasman70, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59989024">Link</a></p>
 </div>
 
 
@@ -146,7 +146,7 @@ CC0
     <h2>インドネシア関連グッズ</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7092425" target="_blank">
-            <img src="d9491b6c-4492-40e2-8a0f-5f271e21d003.png" alt="画像3">
+            <img src="d9491b6c-4492-40e2-8a0f-5f271e21d003.png" alt="Indonesia GeoGuessr guide image showing d9491b6c 4492 40e2 8a0f 5f271e21d003">
         </a>
         <!-- <div class="caption">商品タイトル1</div>-->
     </div>
@@ -175,7 +175,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:00_Papan_Nama_Terminal_Cepu_(1).jpg#/media/File:00_Papan_Nama_Terminal_Cepu_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/00_Papan_Nama_Terminal_Cepu_%281%29.jpg" alt="00 Papan Nama Terminal Cepu (1).jpg" height="288" width="640"></a></p><p>By <a href="https://id.wikipedia.org/wiki/User:Mujionomaruf" class="extiw" title="id:User:Mujionomaruf">id:User:Mujionomaruf</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105505116">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:00_Papan_Nama_Terminal_Cepu_(1).jpg#/media/File:00_Papan_Nama_Terminal_Cepu_(1).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/00_Papan_Nama_Terminal_Cepu_%281%29.jpg" alt="Wikimedia Commons photo showing 00 Papan Nama Terminal Cepu (1)" height="288" width="640"></a></p><p>By <a href="https://id.wikipedia.org/wiki/User:Mujionomaruf" class="extiw" title="id:User:Mujionomaruf">id:User:Mujionomaruf</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=105505116">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -184,7 +184,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Peta_provinsi_Indonesia.svg#/media/File:Peta_provinsi_Indonesia.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Peta_provinsi_Indonesia.svg" alt="Peta provinsi Indonesia.svg" height="587" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bennylin" title="User:Bennylin">Bennylin</a> - <span class="int-own-work" lang="en">Own work</span>, derived from <a href="//commons.wikimedia.org/wiki/File:Indonesia_blank_map_colored.svg" title="File:Indonesia blank map colored.svg">File:Indonesia blank map colored.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135700287">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Peta_provinsi_Indonesia.svg#/media/File:Peta_provinsi_Indonesia.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Peta_provinsi_Indonesia.svg" alt="Wikimedia Commons photo showing Peta Provinsi Indonesia" height="587" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bennylin" title="User:Bennylin">Bennylin</a> - <span class="int-own-work" lang="en">Own work</span>, derived from <a href="//commons.wikimedia.org/wiki/File:Indonesia_blank_map_colored.svg" title="File:Indonesia blank map colored.svg">File:Indonesia blank map colored.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135700287">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -213,7 +213,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/10616583664/" title="Tongkonan in a Torajan village"><img src="https://live.staticflickr.com/7291/10616583664_f7c0fc8119_c.jpg" width="800" height="531" alt="Tongkonan in a Torajan village"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tjetjep/10616583664/" title="Tongkonan in a Torajan village"><img src="https://live.staticflickr.com/7291/10616583664_f7c0fc8119_c.jpg" width="800" height="531" alt="Image from live.staticflickr.com showing 10616583664 f7c0fc8119 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -232,7 +232,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-12-02-14-06.png" width="95%" alt="2023 08 12 02 14 06" />
+<img src="2023-08-12-02-14-06.png" width="95%" alt="Indonesia GeoGuessr guide image showing 2023 08 12 02 14 06" />
 </div>
 
 {{% /tab %}}
@@ -243,7 +243,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Old_Batak_Village,_Samosir_Island,_North_Sumatra.jpg#/media/File:Old_Batak_Village,_Samosir_Island,_North_Sumatra.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Old_Batak_Village%2C_Samosir_Island%2C_North_Sumatra.jpg" alt="Old Batak Village, Samosir Island, North Sumatra.jpg" height="395" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9508280@N07">Dan Lundberg</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9508280@N07/5069459588/">2000 #310-19 Sumatra Samosir Island old Batak village</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11857562">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Old_Batak_Village,_Samosir_Island,_North_Sumatra.jpg#/media/File:Old_Batak_Village,_Samosir_Island,_North_Sumatra.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Old_Batak_Village%2C_Samosir_Island%2C_North_Sumatra.jpg" alt="Wikimedia Commons photo showing Old Batak Village, Samosir Island, North Sumatra" height="395" width="640"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9508280@N07">Dan Lundberg</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9508280@N07/5069459588/">2000 #310-19 Sumatra Samosir Island old Batak village</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11857562">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "バンテン州" %}}
@@ -252,7 +252,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Barisan_Pemukiman_Suku_Baduy_Luar.jpg#/media/File:Barisan_Pemukiman_Suku_Baduy_Luar.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Barisan_Pemukiman_Suku_Baduy_Luar.jpg" alt="Barisan Pemukiman Suku Baduy Luar.jpg" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fitri_Penyalai" title="User:Fitri Penyalai">Fitri Penyalai</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74817920">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Barisan_Pemukiman_Suku_Baduy_Luar.jpg#/media/File:Barisan_Pemukiman_Suku_Baduy_Luar.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Barisan_Pemukiman_Suku_Baduy_Luar.jpg" alt="Wikimedia Commons photo showing Barisan Pemukiman Suku Baduy Luar" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Fitri_Penyalai" title="User:Fitri Penyalai">Fitri Penyalai</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=74817920">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "リアウ州" %}}
@@ -261,7 +261,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rumah_Lontiok.jpg#/media/File:Rumah_Lontiok.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Rumah_Lontiok.jpg" alt="Rumah Lontiok.jpg" height="427" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rumah_Lontiok.jpg#/media/File:Rumah_Lontiok.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4a/Rumah_Lontiok.jpg" alt="Wikimedia Commons photo showing Rumah Lontiok" height="427" width="640"></a></p>
 <p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Hermadiyansyah_Putra_St_Bagindo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Hermadiyansyah Putra St Bagindo (page does not exist)">Hermadiyansyah Putra St Bagindo</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112008242">Link</a></p>
 </div>
 {{% /tab %}}
@@ -281,7 +281,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Houses_in_Tarung,_Waitabar,_Sumba.jpg#/media/File:Houses_in_Tarung,_Waitabar,_Sumba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Houses_in_Tarung%2C_Waitabar%2C_Sumba.jpg" alt="Houses in Tarung, Waitabar, Sumba.jpg" height="591" width="787"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Houses_in_Tarung,_Waitabar,_Sumba.jpg#/media/File:Houses_in_Tarung,_Waitabar,_Sumba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Houses_in_Tarung%2C_Waitabar%2C_Sumba.jpg" alt="Wikimedia Commons photo showing Houses In Tarung, Waitabar, Sumba" height="591" width="787"></a></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/9942231@N07">monica renata</a> from jakarta - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/9942231@N07/2851068736/">Tarung-Waitabar</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10201081">Link</a></p>
 </div>
 {{% /tab %}}
@@ -304,7 +304,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% tabs %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-47-26.png" width="90%" alt="2023 06 29 00 47 26" />
+<img src="2023-06-29-00-47-26.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 47 26" />
 </div>
 
 {{% notice tip %}}
@@ -314,7 +314,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-49-42.png" width="90%" alt="2023 06 29 00 49 42" />
+<img src="2023-06-29-00-49-42.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 49 42" />
 </div>
 
 {{% notice tip %}}
@@ -328,7 +328,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-50-42.png" width="90%" alt="2023 06 29 00 50 42" />
+<img src="2023-06-29-00-50-42.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 50 42" />
 </div>
 
 {{% notice tip %}}
@@ -373,14 +373,14 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./ternate_city_indonesia_2010.jpg" alt="Ternate city indonesia 2010">
+<img src="./ternate_city_indonesia_2010.jpg" alt="Indonesia GeoGuessr guide image showing Ternate City Indonesia 2010">
 </div>
 
 {{% /tab %}}
 {{% tab "市外局番" %}}
 
 <div class="googlemap-if unclickable">
-<img src="tlp.png" width="90%" alt="Tlp" />
+<img src="tlp.png" width="90%" alt="Indonesia GeoGuessr guide image showing Tlp" />
 </div>
 
 {{% /tab %}}

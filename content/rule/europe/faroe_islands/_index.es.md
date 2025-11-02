@@ -39,29 +39,29 @@ sc: [
 Fuera de las zonas urbanas verás colinas sin árboles y casas con tejado de césped para mejorar el aislamiento. {{% ex "https://maps.app.goo.gl/5zECdxfgdn94Xu6S8" "https://maps.app.goo.gl/67ULsF6xR3czqhHV7" "https://maps.app.goo.gl/puRph85FciybH1nN9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/isabel_lucena/36702442524/" title="Faroe Islands, Eysturoy L1000403"><img src="https://live.staticflickr.com/4383/36702442524_6cd50405a8_z.jpg" width="640" height="427" alt="Faroe Islands, Eysturoy"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/isabel_lucena/36702442524/" title="Faroe Islands, Eysturoy L1000403"><img src="https://live.staticflickr.com/4383/36702442524_6cd50405a8_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 36702442524 6cd50405a8 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Abundan los bolardos <span class="quiz">negro-rojos</span>. {{% ex "https://maps.app.goo.gl/Rf3Q9RCv7i1bp3zY7" "https://maps.app.goo.gl/KwpFXHxqR3xE7ix8A" "https://maps.app.goo.gl/R1zG3X1WPBbK9WRa7" %}} El coche de Google suele aparecer en la toma.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG#/media/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/F%C3%A4r%C3%B6er_Suduroy_07.JPG" alt="Carretera en las Feroe" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34337495">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG#/media/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/F%C3%A4r%C3%B6er_Suduroy_07.JPG" alt="Wikimedia Commons photo showing Färöer Suduroy 07" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34337495">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Es habitual ver ovejas y caballos incluso cerca de los pueblos {{% ex "https://maps.app.goo.gl/hab3c1MrWQq1nM7B7" "https://maps.app.goo.gl/6SXRBgoMKzK1X3Gt6" %}}. Las piscifactorías y los campos de fútbol de césped artificial destacan tanto en áreas urbanas como rurales {{% ex "https://maps.app.goo.gl/7pKv5b4UM8wKjke68" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/faroe_islands/faroe_islands_cascade_horses.jpg" width="90%" alt="Ovejas y caballos en las Feroe">
+<img src="/rule/europe/faroe_islands/faroe_islands_cascade_horses.jpg" width="90%" alt="Faroe Islands GeoGuessr guide image showing Faroe Islands Cascade Horses">
 </div>
 
 {{% notice tip %}}
 Al ser territorio de {{% goto "../denmark/" "Dinamarca" %}}, comparte elementos como buzones Allux, postes con placa en T o paradas de autobús estilo danés. {{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" "https://maps.app.goo.gl/U8RdHr8jbxSpnaVSA" "https://maps.app.goo.gl/fJZXBzL9iNmMfvUy7" "https://maps.app.goo.gl/Cv8Tn6KNKLNPv1mH8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" width="230px" alt="Buzón Allux">
-<img src="/rule/europe/faroe_islands/640px-Bussstop_fo.jpg" width="463px" alt="Parada de autobús feroesa">
+<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" width="230px" alt="Denmark GeoGuessr guide image showing 2024 10 15 23 20 20">
+<img src="/rule/europe/faroe_islands/640px-Bussstop_fo.jpg" width="463px" alt="Faroe Islands GeoGuessr guide image showing 640px Bussstop Fo">
 </div>
 
 
@@ -69,7 +69,7 @@ Al ser territorio de {{% goto "../denmark/" "Dinamarca" %}}, comparte elementos 
 Al igual que en {{% goto "../iceland/" "Islandia" %}}, verás casas con fachadas negras y postes blancos y azules cerca de los pasos de peatones. {{% ex "https://maps.app.goo.gl/uCG1K9dQSa5iWETw6" "https://maps.app.goo.gl/Un9Cg3xJzuE93Zv76" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Argir.jpg#/media/File:Argir.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Argir.jpg" alt="Argir" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Lillestr%C3%B8m_SK&amp;action=edit&amp;redlink=1" class="new" title="User:Lillestrøm SK (page does not exist)">Lillestrøm SK</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15029674">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Argir.jpg#/media/File:Argir.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Argir.jpg" alt="Wikimedia Commons photo showing Argir" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Lillestr%C3%B8m_SK&amp;action=edit&amp;redlink=1" class="new" title="User:Lillestrøm SK (page does not exist)">Lillestrøm SK</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15029674">Link</a></p>
 </div>
 
 {{% /tab %}}

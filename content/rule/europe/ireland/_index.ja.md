@@ -39,7 +39,7 @@ sc: [
 <span class="quiz">緑色</span>のボラードがある{{% ex "https://goo.gl/maps/TsXkH3751vxJH2xe8" "https://goo.gl/maps/8qZiGUqUbmZQrCzE8" %}}{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./green-bollard.png" width="95%" alt="アイルランドのボラード" />
+<img src="./green-bollard.png" width="95%" alt="Ireland GeoGuessr guide image showing Green Bollard" />
 </div>
 
 
@@ -47,24 +47,24 @@ sc: [
 <span class="quiz">緑色</span>のポストがある。{{% goto "../../asia/china/" "中国" %}}や{{% goto "../../africa/egypt/" "エジプト" %}}も同じ色だがこれらの国は施設内以外にストリートビューが無い上に景観も大きく異なるはず。形はいろいろバリエーションがある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="mailbox.jpg" width="90%" alt="Mailbox" />
+<img src="mailbox.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Mailbox" />
 </div>
 
 {{% notice tip %}}
 アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://maps.app.goo.gl/uG7UKmob7apuVTik6" "https://goo.gl/maps/JmSFuVkugqPPRhBg9" "https://goo.gl/maps/svmH5kVVS9wMmmCF8" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="warning-sign.jpg" width="90%" alt="Warning sign" />
+<img src="warning-sign.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Warning Sign" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="ie.png" width="120px" alt="Ie">
+<img src="ie.png" width="120px" alt="Ireland GeoGuessr guide image showing Ie">
 </div>
 
 {{% notice tip %}}
 イギリスかどうか分からないとき黄色の点線があるならアイルランド{{% ex "https://goo.gl/maps/TpiTmP97DT8SnKge9" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。停止線が黄色ならば{{% goto "../jersey/" "ジャージー" %}}の可能性が高い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./ireland-road-yellowline.png" width="95%" alt="アイルランドの路面の黄色線" />
+<img src="./ireland-road-yellowline.png" width="95%" alt="Ireland GeoGuessr guide image showing Ireland Road Yellowline" />
 </div>
 
 
@@ -72,7 +72,7 @@ sc: [
 道路番号の頭文字がR・N・M。イギリスはB・A・M。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-07-29-00-32-37.png" width="590px" alt="アイルランドの看板" />
+<img src="2023-07-29-00-32-37.png" width="590px" alt="Ireland GeoGuessr guide image showing 2023 07 29 00 32 37" />
 </div>
 
 
@@ -91,7 +91,7 @@ sc: [
 {{% tabs %}}
 {{% tab "石壁" %}}
 <div class="googlemap-if unclickable" width="95%">
-<img src="./burren.jpg" alt="Burren">
+<img src="./burren.jpg" alt="Ireland GeoGuessr guide image showing Burren">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./inishturk_north.jpg" alt="Inishturk north">
+<img src="./inishturk_north.jpg" alt="Ireland GeoGuessr guide image showing Inishturk North">
 </div>
 {{% /tab %}}
 {{% tab "Inishbofin" %}}
@@ -125,7 +125,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./inishbofin_fort.jpg" alt="Inishbofin fort">
+<img src="./inishbofin_fort.jpg" alt="Ireland GeoGuessr guide image showing Inishbofin Fort">
 </div>
 {{% /tab %}}
 {{% tab "Dublin" %}}

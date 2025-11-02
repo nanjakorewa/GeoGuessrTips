@@ -40,8 +40,8 @@ Signposts often show two exposed bolts on the front {{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Puskin Utca."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="/rule/europe/hungary/sign.jpg" width="500px" alt="Hungarian street sign">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 48505749151 5c848aeb0a Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="/rule/europe/hungary/sign.jpg" width="500px" alt="Hungary GeoGuessr guide image showing Sign">
 </div>
 
 {{% notice tip %}}
@@ -49,11 +49,11 @@ If you see ű or ő—letters with a double acute—you are in Hungary. {{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_vége.jpg" alt="M9 autóút vége" width="90%"></a></p><p>By Anomália - <span class="int-own-work">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:M9_aut%C3%B3%C3%BAt_v%C3%A9ge.jpg#/media/File:M9_autóút_vége.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/M9_aut%C3%B3%C3%BAt_vége.jpg" alt="Wikimedia Commons photo showing M9 Autóút Vége" width="90%"></a></p><p>By Anomália - <span class="int-own-work">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17464575">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/hungary/route.png" width="400px" alt="Hungarian route shield">
+<img src="/rule/europe/hungary/route.png" width="400px" alt="Hungary GeoGuessr guide image showing Route">
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ If you see ű or ő—letters with a double acute—you are in Hungary. {{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/hungary/micimacko_utca.jpg" width="500px" alt="Utca sign">
+<img src="/rule/europe/hungary/micimacko_utca.jpg" width="500px" alt="Hungary GeoGuessr guide image showing Micimacko Utca">
 </div>
 
 
@@ -69,9 +69,9 @@ If you see ű or ő—letters with a double acute—you are in Hungary. {{% ex "
 Pedestrian signs show a figure wearing a belt. Left to right: <span class="quiz">Croatia</span>, <span class="quiz">Hungary</span>, <span class="quiz">Latvia</span>. {{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}} Think of the legs forming a “ハ” to remember Hungary.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="Croatian crosswalk">
-<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungarian crosswalk">
-<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="Latvian crosswalk">
+<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hr Road Sign C02">
+<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hungary Road Sign E 038">
+<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="R GeoGuessr guide image showing Latvia Road Sign 535">
 </div>
 
 
@@ -79,7 +79,7 @@ Pedestrian signs show a figure wearing a belt. Left to right: <span class="quiz"
 Suburban areas feature light-coloured concrete walls, reddish roof tiles, and single-storey homes. Some older dwellings are “Hungarian Cubes,” painted in vivid geometric patterns. {{% ex "https://maps.app.goo.gl/DzKQAUXaZWnnGYLc7" %}}{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes photographed by Katharina Roters" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/hungary/dolnjisenik1.jpg" width="90%" alt="Hungarian houses">
+<img src="/rule/europe/hungary/dolnjisenik1.jpg" width="90%" alt="Hungary GeoGuessr guide image showing dolnjisenik1">
 </div>
 
 
@@ -88,7 +88,7 @@ Roadside bollards resemble those in Hungary or {{% goto "../croatia/" "Croatia" 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/hungary/road_edge_region_landscape.jpg" width="500px" alt="Hungarian countryside">
+<img src="/rule/europe/hungary/road_edge_region_landscape.jpg" width="500px" alt="Hungary GeoGuessr guide image showing Road Edge Region Landscape">
 </div>
 
 {{% /tab %}}
@@ -97,7 +97,7 @@ Roadside bollards resemble those in Hungary or {{% goto "../croatia/" "Croatia" 
 Hungary’s distribution poles often have a distinctive profile.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/hungary/up.jpg" width="90%" alt="Hungarian utility pole">
+<img src="/rule/europe/hungary/up.jpg" width="90%" alt="Hungary GeoGuessr guide image showing Up">
 </div>
 
 {{% /tab %}}
@@ -111,7 +111,7 @@ Hungary’s distribution poles often have a distinctive profile.
 {{% tab "Road surface" %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/hungary/road.jpg" width="90%" alt="Hungarian road surface">
+<img src="/rule/europe/hungary/road.jpg" width="90%" alt="Hungary GeoGuessr guide image showing Road">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -127,7 +127,7 @@ Hungary’s distribution poles often have a distinctive profile.
 {{% tabs %}}
 {{% tab "Terrain" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Hungary-geographic_map-en.svg#/media/File:Hungary-geographic_map-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Hungary-geographic_map-en.svg" alt="Hungary geographic map" height="720" width="1113"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a> – Topography: NASA SRTM3 v2; Urban areas: Natural Earth; Data visualised with GNU Octave. <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64483500">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Hungary-geographic_map-en.svg#/media/File:Hungary-geographic_map-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1e/Hungary-geographic_map-en.svg" alt="Wikimedia Commons photo showing Hungary Geographic Map En" height="720" width="1113"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Ikonact" title="User:Ikonact">Ikonact</a> – Topography: NASA SRTM3 v2; Urban areas: Natural Earth; Data visualised with GNU Octave. <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64483500">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

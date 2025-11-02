@@ -35,7 +35,7 @@ jetro_detail: false
 The area code gets larger the further south you go（Image source By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>）.
 {{% /notice %}}
 <div class="googlemap-if">
-<a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="512" alt="Telephone area codes in Taiwan" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
+<a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="512" alt="Wikimedia Commons photo showing 512px Telephone Area Codes In Taiwan.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

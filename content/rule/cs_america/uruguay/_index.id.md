@@ -38,7 +38,7 @@ sc: [
 Tanda jalan sering menggunakan kayu bercat <span class="quiz">putih</span> dengan beberapa lubang persegi {{% ex "https://maps.app.goo.gl/52X6oAnKv9MP75oH8" "https://maps.app.goo.gl/BLmUdzi6QK6q4DodA" %}}. Bollard juga umumnya didominasi warna <span class="quiz">putih</span>. Ada juga bollard berwarna kuning, tetapi sisi-sisinya tetap berwarna <span class="quiz">putih</span>. Selain itu, pelat nomor mobil di Uruguay umumnya berwarna <span class="quiz">putih</span> {{% ex "https://maps.app.goo.gl/p95qXVgo1zPGtkZy7" "https://maps.app.goo.gl/e936s3oMtuTCBw2C7" "https://maps.app.goo.gl/6m3TEuaSxEmz2sxYA" %}}, sedangkan pelat nomor di {{% goto "../argentina/" "Argentina" %}} berwarna hitam di bagian tengah.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Tanda Jalan Uruguay">
+<img src="/rule/cs_america/uruguay/road.jpg" width="90%" alt="Uruguay GeoGuessr guide image showing Road">
 </div>
 
 {{% lb 50 small %}}
@@ -51,7 +51,7 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 Garis tengah jalan memiliki ciri khas {{% ex "https://maps.app.goo.gl/seXU3MXkz3NFSpE3A" %}}. Selain itu, kawasan hutan tanaman sering terlihat, dengan pohon-pohon sejenis ditanam secara rapi {{% ex "https://maps.app.goo.gl/3SHSy4SYnA84L6bp9" %}}. Uruguay adalah negara yang hampir seluruhnya datar tanpa pegunungan, sehingga angin tidak terhalang. Kawasan ini kemungkinan besar berfungsi sebagai hutan penahan angin atau tempat perlindungan ternak {{% ref "http://www.med.akita-u.ac.jp/~doubutu/jica/kikou/josuke.htm" "Refleksi Kehidupan di Uruguay" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Ruta30accesoaTranqueras.jpg" height="432" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta30accesoaTranqueras.jpg#/media/File:Ruta30accesoaTranqueras.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta30accesoaTranqueras.jpg" alt="Wikimedia Commons photo showing Ruta30accesoaTranqueras" height="432" width="640"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:CITY_MVD" title="User:CITY MVD">CITY MVD</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98375088">Link</a></p>
 </div>
 
@@ -113,7 +113,7 @@ Menurut plonk it, bentuk tiang listrik ini khas di Uruguay {{% by "https://www.p
 Sebagian besar wilayah berada pada ketinggian antara 0–300 m, dengan titik tertinggi hanya 513 m (berdasarkan gambar domain publik).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/uruguay/2023-04-25-12-33-07.png" width="90%" alt="2023 04 25 12 33 07" />
+<img src="/rule/cs_america/uruguay/2023-04-25-12-33-07.png" width="90%" alt="Uruguay GeoGuessr guide image showing 2023 04 25 12 33 07" />
 </div>
 {{% /tab %}}
 {{% tab "Pertanian" %}}
@@ -121,7 +121,7 @@ Sebagian besar wilayah berada pada ketinggian antara 0–300 m, dengan titik ter
 Produksi barley dan kedelai hampir setengahnya berasal dari wilayah barat daya, yaitu Soriano dan Colonia {{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}. Produksi jagung dan rapeseed juga terkonsentrasi di wilayah barat, sehingga jika terlihat ladang luas, mungkin Anda berada di barat {{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Produksi Uruguay" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" alt="Uruguay Barley" />
+<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" alt="Uruguay GeoGuessr guide image showing Uruguay Barley" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -142,7 +142,7 @@ Jalan menuju pemukiman di Cabo Polonio tidak menggunakan mobil hitam. Jangan sal
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%" alt="Casaspolonio">
+<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%" alt="Uruguay GeoGuessr guide image showing Casaspolonio">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}
@@ -152,7 +152,7 @@ Pulau ini hanya dapat diakses dengan berjalan kaki dan memiliki mercusuar besar 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Faro Isla de Flores y construcciones. 02.JPG" height="640" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Faro_Isla_de_Flores_y_construcciones._02.JPG#/media/File:Faro_Isla_de_Flores_y_construcciones._02.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Faro_Isla_de_Flores_y_construcciones._02.JPG" alt="Wikimedia Commons photo showing Faro Isla De Flores Y construcciones. 02" height="640" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Matero_Uruguayo&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Matero Uruguayo (page does not exist)">Matero Uruguayo</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=40095338">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

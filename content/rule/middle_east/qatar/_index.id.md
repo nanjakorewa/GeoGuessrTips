@@ -38,16 +38,16 @@ sc: [
 {{% notice tip %}}Rambu jalannya punya banyak ikon khas.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/qatar/r/QA_road_sign_R100.svg" width="110px" style="margin:10px" alt="QA road sign R100">
-<img src="/rule/middle_east/qatar/r/QA_road_sign_R101.svg" width="120px" style="margin:10px" alt="QA road sign R101">
-<img src="/rule/middle_east/qatar/r/Qatar_traffic_sign_428.svg" width="110px" style="margin:10px" alt="Qatar traffic sign 428">
+<img src="/rule/middle_east/qatar/r/QA_road_sign_R100.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Qa Road Sign R100">
+<img src="/rule/middle_east/qatar/r/QA_road_sign_R101.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Qa Road Sign R101">
+<img src="/rule/middle_east/qatar/r/Qatar_traffic_sign_428.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Qatar Traffic Sign 428">
 </div>
 
 {{% notice tip %}}Bagian kiri pelat yang marun membuatnya tidak tertukar dengan {{% goto "../united_arab_emirates/" "Dubai" %}}. Siluet Lusail Plaza Towers juga mudah dikenali{{% ref "https://en.wikipedia.org/wiki/Lusail_Plaza_Towers" "Lusail Plaza Towers" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/69929929@N06/11779192183/in/photolist-iWTrsp-2fvi8oK-22yUVjh-FNFeyq-dCv93w-G6qsP1-ggWGjz-EmAq2n-2aZjhfr-HFkUwn-6pFc85-Fc3Sxj-23h8rR1-adae1u-JgBDTk-36P1xX-22625X3-21DHswA-22f7HZN-27zBdC7-qU4RSx-9fD3m9-27f4Hxu-9gFd1V-241EssR-rTuwhj-2816gnA-qoAn2o-YkatZF-281N2p6-CBNqxj-2drfvLE-249Fn2i-28JZxeb-hcHPzZ-24RzSYf-23JkzA9-HTkTJr-hcJ1y3-8T64zc-846Ztr-28wQ4fJ-2atewHS-e1hGsE-PKwY88-QonFef-2aDXEF4-2aAm3pR-9hL37a-e3zksN" title="LEXUS QATAR"><img src="https://live.staticflickr.com/3789/11779192183_c8b24b95ab_z.jpg" width="640" height="427" alt="LEXUS QATAR"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/69929929@N06/11779192183/in/photolist-iWTrsp-2fvi8oK-22yUVjh-FNFeyq-dCv93w-G6qsP1-ggWGjz-EmAq2n-2aZjhfr-HFkUwn-6pFc85-Fc3Sxj-23h8rR1-adae1u-JgBDTk-36P1xX-22625X3-21DHswA-22f7HZN-27zBdC7-qU4RSx-9fD3m9-27f4Hxu-9gFd1V-241EssR-rTuwhj-2816gnA-qoAn2o-YkatZF-281N2p6-CBNqxj-2drfvLE-249Fn2i-28JZxeb-hcHPzZ-24RzSYf-23JkzA9-HTkTJr-hcJ1y3-8T64zc-846Ztr-28wQ4fJ-2atewHS-e1hGsE-PKwY88-QonFef-2aDXEF4-2aAm3pR-9hL37a-e3zksN" title="LEXUS QATAR"><img src="https://live.staticflickr.com/3789/11779192183_c8b24b95ab_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 11779192183 c8b24b95ab Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -69,7 +69,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Service_road_near_Dukhan_Highway.jpg#/media/File:Service_road_near_Dukhan_Highway.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Service_road_near_Dukhan_Highway.jpg" alt="Service road near Dukhan Highway.jpg" width="95%"></a></p><p>By Alex Sergeev - <a rel="nofollow" class="external free" href="http://www.asergeev.com/pictures/archives/compress/2015/1692/01.htm">www.asergeev.com, Service road near Dukhan Highway</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70134445">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Service_road_near_Dukhan_Highway.jpg#/media/File:Service_road_near_Dukhan_Highway.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Service_road_near_Dukhan_Highway.jpg" alt="Wikimedia Commons photo showing Service Road Near Dukhan Highway" width="95%"></a></p><p>By Alex Sergeev - <a rel="nofollow" class="external free" href="http://www.asergeev.com/pictures/archives/compress/2015/1692/01.htm">www.asergeev.com, Service road near Dukhan Highway</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70134445">Link</a></p>
 </div>
 
 

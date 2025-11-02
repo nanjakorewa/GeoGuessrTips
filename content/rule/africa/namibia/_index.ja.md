@@ -39,7 +39,7 @@ sc: [
 {{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/MXqyx7DfD1hWagAR9" %}}であり左側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
+<img src="./elephants_at_etosha_national_2.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Elephants At Etosha National 2">
 </div>
 
 {{% lb 50 %}}
@@ -52,14 +52,14 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。何種類か、ナミビア以外では見かけないボラードも見つかる{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}。ナミブ砂漠は{{% goto "../../cs_america/chile/" "チリ" %}}のアタカマ砂漠と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./c34_namibia_png.png" width="95%" alt="C34 namibia png">
+<img src="./c34_namibia_png.png" width="95%" alt="Namibia GeoGuessr guide image showing c34 Namibia Png">
 </div>
 
 
 {{% notice tip %}}{{% goto "../../europe/germany/" "ドイツ" %}}による植民地支配を経て、南アフリカ連邦の委任統治下になった。そのためドイツ語の響きがある通り名や地名を見かける{{% ex "https://maps.app.goo.gl/DB8Ufvba8oxpSPD27" "https://maps.app.goo.gl/h67rV7w6M5x6xECP7" "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraße.jpg" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Wikimedia Commons photo showing Windhuk Bahnhofstraße" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響を受けた洋風の建築物も残っているという{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "スワコプムント" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="swakopmund1.jpg" alt="Swakopmund1">
+<img src="swakopmund1.jpg" alt="Namibia GeoGuessr guide image showing swakopmund1">
 </div>
 
 
@@ -84,7 +84,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="loneliness_road_clouds_distance.jpg" width="90%" alt="Loneliness road clouds distance">
+<img src="loneliness_road_clouds_distance.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Loneliness Road Clouds Distance">
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="cityview.jpg" width="95%" alt="Cityview">
+<img src="cityview.jpg" width="95%" alt="Namibia GeoGuessr guide image showing Cityview">
 </div>
 
 {{% /tab %}}
@@ -124,7 +124,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% tabs %}}
 {{% tab "標高" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Namibia_Topography.png" width="70%" alt="960px Namibia Topography" />
+<img src="./960px-Namibia_Topography.png" width="70%" alt="Namibia GeoGuessr guide image showing 960px Namibia Topography" />
 </div>
 
 {{% notice tip %}}
@@ -139,7 +139,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./glasscover.png" width="70%" alt="Glasscover" />
+<img src="./glasscover.png" width="70%" alt="Namibia GeoGuessr guide image showing Glasscover" />
 </div>
 
 {{% /tab %}}
@@ -172,7 +172,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Namibia rail network map de.svg" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Own work</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">OpenStreetMap</a> geodata., <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Link</a></p>
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Wikimedia Commons photo showing Namibia Rail Network Map De" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Own work</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">OpenStreetMap</a> geodata., <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -183,7 +183,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p style="width:100%"><img src="Atlas_ch_02_21.jpg" width="80%" alt="Atlas ch 02 21"></p><p>By <a href="https://atlasofnamibia.online/chapter-2/minerals" title="User:Htonl">Atlas of Namibia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0">CC BY 4.0</a>, <a href="https://atlasofnamibia.online/chapter-2/minerals">Link</a></p>
+<p style="width:100%"><img src="Atlas_ch_02_21.jpg" width="80%" alt="Namibia GeoGuessr guide image showing Atlas Ch 02 21"></p><p>By <a href="https://atlasofnamibia.online/chapter-2/minerals" title="User:Htonl">Atlas of Namibia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0">CC BY 4.0</a>, <a href="https://atlasofnamibia.online/chapter-2/minerals">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -208,7 +208,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="bakuhatsu.jpg" width="300px" alt="Bakuhatsu">
+<img src="bakuhatsu.jpg" width="300px" alt="Namibia GeoGuessr guide image showing Bakuhatsu">
 </div>
 
 {{% /tab %}}
@@ -230,7 +230,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Colophospermum mopane in Namibia" height="480" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Wikimedia Commons photo showing Colophospermum Mopane Arbre Mhnt" height="480" width="640"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercé">Roger Culos</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Link</a></p>
 </div>
 
@@ -243,7 +243,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
+<img src="rock_formations_rocks_dichotoma.jpg" width="80%" alt="Namibia GeoGuessr guide image showing Rock Formations Rocks Dichotoma">
 </div>
 
 {{% notice tip %}}
@@ -252,7 +252,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
+<img src="the_tree_aloes_southern.jpg" width="60%" alt="Namibia GeoGuessr guide image showing The Tree Aloes Southern">
 </div>
 
 {{% /tab %}}
@@ -263,7 +263,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="welwitschia_mirabillis_namibia_49479.jpg" width="60%" alt="Welwitschia mirabillis namibia 49479">
+<img src="welwitschia_mirabillis_namibia_49479.jpg" width="60%" alt="Namibia GeoGuessr guide image showing Welwitschia Mirabillis Namibia 49479">
 </div>
 
 {{% /tab %}}
@@ -288,7 +288,7 @@ Aussenkehrの街並み{{% ex "https://maps.app.goo.gl/Uis1DJfvpnx7CnAA9" "https:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Aussenkehr"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 23541851393 f4c5d0f654 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -310,7 +310,7 @@ Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれ�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" alt="960px Sossusvlei LandSat7" />
+<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" alt="Namibia GeoGuessr guide image showing 960px Sossusvlei LandSat7" />
 </div>
 
 {{% /tab %}}
@@ -321,7 +321,7 @@ Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれ�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
+<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Brandberg Namibia 10km Distance" />
 </div>
 
 {{% /tab %}}

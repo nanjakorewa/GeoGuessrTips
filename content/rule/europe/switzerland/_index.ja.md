@@ -52,7 +52,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="googlecar.png" width="500px" alt="Googlecar">
+<img src="googlecar.png" width="500px" alt="Switzerland GeoGuessr guide image showing Googlecar">
 </div>
 
 
@@ -65,7 +65,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%" alt="1081px Fussgängerstreifen Türmlischulhaus Bern">
+<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%" alt="Switzerland GeoGuessr guide image showing 1081px Fussgängerstreifen Türmlischulhaus Bern">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jag9889/52689283729/" title="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"><img src="https://live.staticflickr.com/65535/52689283729_53353d9cda_w.jpg" width="300" height="400" alt="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jag9889/52689283729/" title="Le Pont, L&#x27;Abbaye, Canton of Vaud, Switzerland"><img src="https://live.staticflickr.com/65535/52689283729_53353d9cda_w.jpg" width="300" height="400" alt="Image from live.staticflickr.com showing 52689283729 53353d9cda W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -82,7 +82,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road_mountain_switzerland_sky.jpg" alt="Road mountain switzerland sky">
+<img src="road_mountain_switzerland_sky.jpg" alt="Switzerland GeoGuessr guide image showing Road Mountain Switzerland Sky">
 </div>
 
 {{% notice tip %}}
@@ -91,7 +91,7 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:A1_-_Geroldswil_IMG_6109.JPG#/media/File:A1_-_Geroldswil_IMG_6109.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/A1_-_Geroldswil_IMG_6109.JPG" alt="A1 - Geroldswil IMG 6109.JPG" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Roland_zh" title="User:Roland zh">Roland zh</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10029775">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:A1_-_Geroldswil_IMG_6109.JPG#/media/File:A1_-_Geroldswil_IMG_6109.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/A1_-_Geroldswil_IMG_6109.JPG" alt="Wikimedia Commons photo showing A1 Geroldswil Img 6109" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Roland_zh" title="User:Roland zh">Roland zh</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10029775">Link</a></p>
 </div>
 
 {{% lb 50 %}}
@@ -105,8 +105,8 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 消火栓が特徴的。色はバリエーションあり{{% ex "https://goo.gl/maps/472YLz5wyCtqreUE8" "https://goo.gl/maps/xjVVNnyAbaUHjuXQ8" "https://goo.gl/maps/oGdmBox23tRikt388" "https://maps.app.goo.gl/noLmxVrx189QYgX49" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mekin/29738814404/in/photolist-MiVcro-2cr8pRg-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-6SiNL8-wT3rg-5yYj9y-iivgEe-2kS39VY-2jsqJtY-KeW6Q1-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-Lbzn6p-2hNJB-6FdT7F-7JEr93-6Z5V4c-85wFVF-ysh73-kBx6ku-dHDutk-K2EqUS-oZRyLh-8kytta-iJxrW-76tDYF-KeH6SF-cq7DeG-L8o2NC-dJ6Zww-JJG4YC-KCpeiU-2mvmUdF-82iKgG-2mvrBB3-2mvmUoq-2mvqyn3-2mvo8Z3-2mvqyhZ-2mvrB7F-2mvhKF9" title="Fire hydrant"><img src="https://live.staticflickr.com/5753/29738814404_27186fbcee.jpg" width="335" alt="Fire hydrant"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/skylinegtr/14111458699/in/photolist-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-7vt4ZZ-6SiNL8-NgBB1Z-wT3rg-5yYj9y-iivgEe-7JEr93-2kS39VY-85wFVF-ysh73-kBx6ku-2jsqJtY-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-L8o2NC-dHJVw5-djhurH-2gishj3-8kBC2q-K2EqUS-oZRyLh-iJxrW-76tDYF-qawgLL-KeH6SF-cq7DeG-7VTtio-dJ6Zww-oJ1ju-JJG4YC-KCpeiU-2goixL-qDxwNU-2imuqq-9ZvBhi-2k5iFE-7ThdVx-783qzc-6Cimyf-2ik9DtF" title="Swiss Fire Hydrant"><img src="https://live.staticflickr.com/5516/14111458699_af5a517f7f.jpg" width="298" height="500" alt="Swiss Fire Hydrant"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mekin/29738814404/in/photolist-MiVcro-2cr8pRg-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-6SiNL8-wT3rg-5yYj9y-iivgEe-2kS39VY-2jsqJtY-KeW6Q1-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-Lbzn6p-2hNJB-6FdT7F-7JEr93-6Z5V4c-85wFVF-ysh73-kBx6ku-dHDutk-K2EqUS-oZRyLh-8kytta-iJxrW-76tDYF-KeH6SF-cq7DeG-L8o2NC-dJ6Zww-JJG4YC-KCpeiU-2mvmUdF-82iKgG-2mvrBB3-2mvmUoq-2mvqyn3-2mvo8Z3-2mvqyhZ-2mvrB7F-2mvhKF9" title="Fire hydrant"><img src="https://live.staticflickr.com/5753/29738814404_27186fbcee.jpg" width="335" alt="Image from live.staticflickr.com showing 29738814404 27186fbcee"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/skylinegtr/14111458699/in/photolist-nuYV34-xrm7-Nku19V-NoVK1e-74Xt4Z-2gC9rjh-32zCuE-8UzybN-7vt4ZZ-6SiNL8-NgBB1Z-wT3rg-5yYj9y-iivgEe-7JEr93-2kS39VY-85wFVF-ysh73-kBx6ku-2jsqJtY-UZhC6h-2uiQ7r-fBrzWU-NvMBU5-L8o2NC-dHJVw5-djhurH-2gishj3-8kBC2q-K2EqUS-oZRyLh-iJxrW-76tDYF-qawgLL-KeH6SF-cq7DeG-7VTtio-dJ6Zww-oJ1ju-JJG4YC-KCpeiU-2goixL-qDxwNU-2imuqq-9ZvBhi-2k5iFE-7ThdVx-783qzc-6Cimyf-2ik9DtF" title="Swiss Fire Hydrant"><img src="https://live.staticflickr.com/5516/14111458699_af5a517f7f.jpg" width="298" height="500" alt="Image from live.staticflickr.com showing 14111458699 af5a517f7f"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -116,7 +116,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="switzerland_valais_bergdorf_1335698.jpg" width="95%" alt="Switzerland valais bergdorf 1335698" />
+<img src="switzerland_valais_bergdorf_1335698.jpg" width="95%" alt="Switzerland GeoGuessr guide image showing Switzerland Valais Bergdorf 1335698" />
 </div>
 
 {{% /tab %}}
@@ -162,14 +162,14 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 オレンジがドイツ語・緑がフランス語・紫がイタリア語。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Map Languages CH.png" width="90%"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
+<p style="text-align:center;"><a href="https://commons.wikimedia.org/wiki/File:Map_Languages_CH.png#/media/File:Map_Languages_CH.png"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Map_Languages_CH.png/1200px-Map_Languages_CH.png" alt="Wikimedia Commons photo showing 1200px Map Languages Ch" width="90%"></a><br>By Marco Zanoli, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=875011">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./speed/fr.svg" width="120px" style="margin:10px" alt="Fr" />
-<img src="./speed/ge.svg" width="120px" style="margin:10px" alt="Ge" />
-<img src="./speed/it.svg" width="120px" style="margin:10px" alt="It" />
-<img src="./speed/ch.svg" width="120px" style="margin:10px" alt="Ch" />
+<img src="./speed/fr.svg" width="120px" style="margin:10px" alt="Speed GeoGuessr guide image showing Fr" />
+<img src="./speed/ge.svg" width="120px" style="margin:10px" alt="Speed GeoGuessr guide image showing Ge" />
+<img src="./speed/it.svg" width="120px" style="margin:10px" alt="Speed GeoGuessr guide image showing It" />
+<img src="./speed/ch.svg" width="120px" style="margin:10px" alt="Speed GeoGuessr guide image showing Ch" />
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
@@ -177,7 +177,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 072～079は携帯などで使われている点のみ注意する（街中での例<a href="https://goo.gl/maps/Nwu6Mjty1aUw99Ft9">①</a>）。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Schweiz.png#/media/File:Karte_Telefonvorwahlen_Schweiz.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Karte_Telefonvorwahlen_Schweiz.png" alt="Karte Telefonvorwahlen Schweiz.png" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - Own work using: <a href="//commons.wikimedia.org/wiki/File:Switzerland_location_map.svg" title="File:Switzerland location map.svg">Switzerland_location_map.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77552482">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Schweiz.png#/media/File:Karte_Telefonvorwahlen_Schweiz.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Karte_Telefonvorwahlen_Schweiz.png" alt="Wikimedia Commons photo showing Karte Telefonvorwahlen Schweiz" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - Own work using: <a href="//commons.wikimedia.org/wiki/File:Switzerland_location_map.svg" title="File:Switzerland location map.svg">Switzerland_location_map.svg</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=77552482">Link</a></p>
 </div>
 
 

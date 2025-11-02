@@ -36,7 +36,7 @@ sc: [
 バスが派手で、屋根の上にも荷物を乗せるためのバーが付いている{{% ex "https://maps.app.goo.gl/wmuD1XzwFinYqRgo7" "https://maps.app.goo.gl/tNAVU7Wj5oB61iiZ9" %}}。チキンバスはスペイン語でla camioneta、la burra、またはel busとも。バスでニワトリや動物を運ぶことがあるためチキンバスと呼ぶらしい。屋根の上に荷物を載せるためのスペースがある場合もある。{{% ref "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/" "A Traveler’s Guide to the Chicken Bus in Guatemala" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./chicken_bus2.jpg" width="590px" alt="Chicken bus2">
+<img src="./chicken_bus2.jpg" width="590px" alt="Guatemala GeoGuessr guide image showing Chicken bus2">
 </div>
 
 {{% notice tip %}}
@@ -71,13 +71,13 @@ Google Carが特徴的{{% ex "https://maps.app.goo.gl/4jHmHcLvoDUfe65q6" %}}
 {{% tabs %}}
 {{% tab "標高" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Relief_map_of_Guatemala.jpg#/media/File:Relief_map_of_Guatemala.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Relief_map_of_Guatemala.jpg" alt="Relief map of Guatemala.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92" title="User:Виктор В">Виктор В</a> - <a href="//commons.wikimedia.org/wiki/File:Guatemala_location_map.svg" title="File:Guatemala location map.svg">File:Guatemala location map.svg</a> ETOPO1-SRTM30, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12090110">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Relief_map_of_Guatemala.jpg#/media/File:Relief_map_of_Guatemala.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Relief_map_of_Guatemala.jpg" alt="Wikimedia Commons photo showing Relief Map Of Guatemala" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92" title="User:Виктор В">Виктор В</a> - <a href="//commons.wikimedia.org/wiki/File:Guatemala_location_map.svg" title="File:Guatemala location map.svg">File:Guatemala location map.svg</a> ETOPO1-SRTM30, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12090110">Link</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-27-19-08-14.png" width="95%" alt="2023 05 27 19 08 14" />
+<img src="2023-05-27-19-08-14.png" width="95%" alt="Guatemala GeoGuessr guide image showing 2023 05 27 19 08 14" />
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./livingston_guatemala.jpg" width="95%" alt="Livingston guatemala">
+<img src="./livingston_guatemala.jpg" width="95%" alt="Guatemala GeoGuessr guide image showing Livingston Guatemala">
 </div>
 
 {{% /tab %}}
@@ -116,7 +116,7 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Castillo_De_San_Felipe.jpg" width="90%" alt="Castillo De San Felipe" />
+<img src="Castillo_De_San_Felipe.jpg" width="90%" alt="Guatemala GeoGuessr guide image showing Castillo De San Felipe" />
 </div>
 
 {{% /tab %}}
@@ -127,8 +127,8 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="guatemala_tikal_maya_civilization.jpg" width="90%" alt="Guatemala tikal maya civilization">
-<img src="mayan_pyramid_guatemala.jpg" width="90%" alt="Mayan pyramid guatemala" />
+<img src="guatemala_tikal_maya_civilization.jpg" width="90%" alt="Guatemala GeoGuessr guide image showing Guatemala Tikal Maya Civilization">
+<img src="mayan_pyramid_guatemala.jpg" width="90%" alt="Guatemala GeoGuessr guide image showing Mayan Pyramid Guatemala" />
 </div>
 
 {{% /tab %}}

@@ -45,7 +45,7 @@ sc: [
 <span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれている{{% ex "https://maps.app.goo.gl/izadzQSiYySYPqFH7" "https://maps.app.goo.gl/98xfrzaY5FzksDAX8" %}}{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./post.jpg" width="70%" alt="Post">
+<img src="./post.jpg" width="70%" alt="Spain GeoGuessr guide image showing Post">
 </div>
 
 
@@ -53,7 +53,7 @@ sc: [
 『<span class="quiz">CALLE</span>』はスペイン語で通り・街路の意味。カタルーニャ語を使う地域では『CARRER』と書かれていることも。以下の右はカタルーニャにあるFree Software Streetの看板{{% ref "https://en.wikipedia.org/wiki/Free_Software_Street" "Free Software Street" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.jpg" width="90%" alt="Street">
+<img src="./street.jpg" width="90%" alt="Spain GeoGuessr guide image showing Street">
 </div>
 
 
@@ -63,20 +63,20 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/elliotmoore/336339535/" title="pasear"><img src="https://live.staticflickr.com/138/336339535_7e925403b7_w.jpg" width="268" height="400" alt="pasear"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Road Junction Sign (Barcelona Province, Spain)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/elliotmoore/336339535/" title="pasear"><img src="https://live.staticflickr.com/138/336339535_7e925403b7_w.jpg" width="268" height="400" alt="Image from live.staticflickr.com showing 336339535 7e925403b7 W"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/courthouselover/36798722655/" title="Road Junction Sign (Barcelona Province, Spain)"><img src="https://live.staticflickr.com/4391/36798722655_7b78f0f8f9.jpg" width="314" alt="Image from live.staticflickr.com showing 36798722655 7b78f0f8f9"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% notice tip %}}
 ポストのついでにボラードも黄色い{{% ex "https://goo.gl/maps/RwKuScqsWDDdAGea8" "https://goo.gl/maps/PmCdvxhtwnVD9KNa7" %}}。稀に少し見た目が異なるものもある{{% ex "https://maps.app.goo.gl/LsXVmmXG69Z71kMU6" %}}。また、{{% goto "../../cs_america/chile/" "チリ" %}}や{{% goto "../../cs_america/argentina/" "アルゼンチンのフフイ州" %}}{{% ex "https://maps.app.goo.gl/GHxFEDhHYdMtxJfD9" %}}にも稀に似たボラードがあるのでボラードだけで即押ししないように。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./navaleno_n_234.jpg" width="600" alt="Navaleno n 234">
+<img src="./navaleno_n_234.jpg" width="600" alt="Spain GeoGuessr guide image showing Navaleno N 234">
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./spain-bollard.png" width="180px" alt="スペインのボラード" />
+<img src="./spain-bollard.png" width="180px" alt="Spain GeoGuessr guide image showing Spain Bollard" />
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road_m_503_km17.jpg" width="600" alt="Road m 503 km17">
+<img src="./road_m_503_km17.jpg" width="600" alt="Spain GeoGuessr guide image showing Road M 503 km17">
 </div>
 
 
@@ -94,12 +94,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="road.jpg" width="90%" alt="Road" />
+<img src="road.jpg" width="90%" alt="Spain GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/chv.png" width="200px" alt="Chv">
-<img src="./r/chv-b.png" width="200px" alt="Chv b">
+<img src="./r/chv.png" width="200px" alt="R GeoGuessr guide image showing Chv">
+<img src="./r/chv-b.png" width="200px" alt="R GeoGuessr guide image showing Chv B">
 </div>
 
 {{% notice tip %}}
@@ -107,13 +107,13 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Forn_d%27Alcedo._Avinguda_Karl_Marx.JPG#/media/File:Forn_d'Alcedo._Avinguda_Karl_Marx.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Forn_d%27Alcedo._Avinguda_Karl_Marx.JPG" alt="Forn d'Alcedo. Avinguda Karl Marx.JPG" width="510px"></a></p><p>By Enrique Íñiguez Rodríguez (<a href="//commons.wikimedia.org/wiki/User:Qoan" title="User:Qoan">Qoan</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10603026">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Forn_d%27Alcedo._Avinguda_Karl_Marx.JPG#/media/File:Forn_d'Alcedo._Avinguda_Karl_Marx.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Forn_d%27Alcedo._Avinguda_Karl_Marx.JPG" alt="Wikimedia Commons photo showing Forn d'Alcedo. Avinguda Karl Marx" width="510px"></a></p><p>By Enrique Íñiguez Rodríguez (<a href="//commons.wikimedia.org/wiki/User:Qoan" title="User:Qoan">Qoan</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10603026">Link</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "電柱" %}}
 <div class="googlemap-if unclickable">
-<img src="./cc0-poles.jpg" alt="Cc0 poles">
+<img src="./cc0-poles.jpg" alt="Spain GeoGuessr guide image showing cc0 Poles">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -157,7 +157,7 @@ sc: [
 {{% tabs %}}
 {{% tab "言語の分布" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./Spain_languages.svg" width="500px" alt="Spain languages">
+<img src="./Spain_languages.svg" width="500px" alt="Spain GeoGuessr guide image showing Spain Languages">
 </div>
 
 <div class="googlemap-if">
@@ -178,7 +178,7 @@ sc: [
 {{% /tab %}}
 {{% tab "市外局番" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg#/media/File:Prefijos_telefónicos_en_España.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg/1200px-Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg.png" alt="Prefijos telefónicos en España.svg"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Albertocsc&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Albertocsc (page does not exist)">Albertocsc</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24333469">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg#/media/File:Prefijos_telefónicos_en_España.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg/1200px-Prefijos_telef%C3%B3nicos_en_Espa%C3%B1a.svg.png" alt="Wikimedia Commons photo showing 1200px Prefijos Telefónicos En España.svg"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Albertocsc&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Albertocsc (page does not exist)">Albertocsc</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=24333469">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "ガリシア州の道" %}}
@@ -209,8 +209,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="File:Map Pinus pinea.png" width="87%"></a></p><p style="font-size:0.8em">By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
-<p><img src="pinus_pinea_pompeii.jpg" width="90%" style="margin-top:2em" alt="Pinus pinea pompeii"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="Wikimedia Commons photo showing Map Pinus Pinea" width="87%"></a></p><p style="font-size:0.8em">By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
+<p><img src="pinus_pinea_pompeii.jpg" width="90%" style="margin-top:2em" alt="Spain GeoGuessr guide image showing Pinus Pinea Pompeii"></p>
 </div>
 {{% /tab %}}
 {{% tab "Aleppo Pine" %}}
@@ -220,7 +220,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="pinus_halepensis_near_hyeres.jpg" width="60%" alt="Pinus halepensis near hyeres">
+<img src="pinus_halepensis_near_hyeres.jpg" width="60%" alt="Spain GeoGuessr guide image showing Pinus Halepensis Near Hyeres">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -250,7 +250,7 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%" alt="960px Roquetas de Mar (Umgebung) 2004 08 18 Glashäuser 2">
+<img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%" alt="Spain GeoGuessr guide image showing 960px Roquetas De Mar (Umgebung) 2004 08 18 Glashäuser 2">
 </div>
 {{% /tab %}}
 {{% tab "田んぼ" %}}
@@ -278,7 +278,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="960px-Luz.jpg" width="95%" alt="960px Luz">
+<img src="960px-Luz.jpg" width="95%" alt="Spain GeoGuessr guide image showing 960px Luz">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -296,7 +296,7 @@ sc: [
 {{% tabs %}}
 {{% tab "ピコス・デ・エウロパ国立公園" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_del_Cares_Puente.jpg#/media/Archivo:Ruta_del_Cares_Puente.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ruta_del_Cares_Puente.jpg" alt="Ruta del Cares Puente.jpg" width="95%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_del_Cares_Puente.jpg#/media/Archivo:Ruta_del_Cares_Puente.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Ruta_del_Cares_Puente.jpg" alt="Wikimedia Commons photo showing Ruta Del Cares Puente" width="95%"></a></p>
 <p>De El Jim - <a rel="nofollow" class="external free" href="https://flic.kr/p/4Kwtmh">https://flic.kr/p/4Kwtmh</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=36668829">Enlace</a></p>
 </div>
 {{% /tab %}}

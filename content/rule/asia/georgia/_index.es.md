@@ -31,12 +31,12 @@ Los letreros y comercios utilizan el alfabeto georgiano (ქართული �
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/georgia/riv_rikotula.jpg" width="95%" alt="Riv rikotula">
+<img src="/rule/asia/georgia/riv_rikotula.jpg" width="95%" alt="Georgia GeoGuessr guide image showing Riv Rikotula">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/georgia/r/GE_road_sign_7.10.1_A.svg" width="250px" style="margin:4px" alt="GE road sign 7.10.1 A">
-<img src="/rule/asia/georgia/r/GE_road_sign_7.9.1_D.svg" width="210px" style="margin:4px" alt="GE road sign 7.9.1 D">
+<img src="/rule/asia/georgia/r/GE_road_sign_7.10.1_A.svg" width="250px" style="margin:4px" alt="R GeoGuessr guide image showing Ge Road Sign 7.10.1 A">
+<img src="/rule/asia/georgia/r/GE_road_sign_7.9.1_D.svg" width="210px" style="margin:4px" alt="R GeoGuessr guide image showing Ge Road Sign 7.9.1 D">
 </div>
 
 {{% notice tip %}}
@@ -44,7 +44,7 @@ También son habituales los bolardos con chevrones blancos y rojos{{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg#/media/File:2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg" alt="2024-05-04 Descent from Sveri into Sadzalikhevi valley.jpg" height="720" width="986"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Yuri_Samoylov&amp;action=edit&amp;redlink=1" class="new" title="User:Yuri Samoylov (la página no existe)">Yuri Samoylov</a> - obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148358453">enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg#/media/File:2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ce/2024-05-04_Descent_from_Sveri_into_Sadzalikhevi_valley.jpg" alt="Wikimedia Commons photo showing 2024 05 04 Descent From Sveri Into Sadzalikhevi Valley" height="720" width="986"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Yuri_Samoylov&amp;action=edit&amp;redlink=1" class="new" title="User:Yuri Samoylov (la página no existe)">Yuri Samoylov</a> - obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148358453">enlace</a></p>
 </div>
 
 

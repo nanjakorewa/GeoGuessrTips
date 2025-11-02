@@ -35,7 +35,7 @@ sc: [
 ドメインは<span class="quiz">.im</span>。後ろが黄色いナンバープレートで左側に<span class="quiz">赤</span>色のラインがある{{% ex "https://maps.app.goo.gl/ASa155LZoJGF6dEZ8" "https://maps.app.goo.gl/GjKsEdbgDfCKhrk47" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./640px-Ford_Focus_illa_de_Man.jpg" alt="640px Ford Focus illa de Man">
+<img src="./640px-Ford_Focus_illa_de_Man.jpg" alt="Mannin GeoGuessr guide image showing 640px Ford Focus Illa De Man">
 </div>
 
 {{% lb 50 %}}

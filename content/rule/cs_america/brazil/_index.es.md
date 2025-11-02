@@ -49,21 +49,21 @@ sc: [
 el idioma es <span class="quiz">Portugal</span> Es una palabra”<span class="quiz">Automóvil club británico</span>”es distintivo.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/st/Placa_rod_f_dias.png"width="440xp" alt="Placa rod f dias">
+<img src="/rule/cs_america/brazil/st/Placa_rod_f_dias.png"width="440xp" alt="St GeoGuessr guide image showing Placa Rod F Dias">
 </div>
 
 {{% notice tip %}}
 la parte de atrás del cartel <span class="quiz">negro</span> Hay muchas cosas (la imagen de fondo es<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">aquí</a>usa el de, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC POR 3.0</a>).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/traffic-sign-example.png" width="90%" alt="Traffic sign example">
+<img src="/rule/cs_america/brazil/traffic-sign-example.png" width="90%" alt="Brazil GeoGuessr guide image showing Traffic Sign Example">
 </div>
 
 {{% notice tip %}}
 La antena de la casa es distintiva.<span class="quiz">transparente</span> Utilice una antena parabólica{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}.Sin embargo, esto por sí solo no puede ser seguro.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/house.jpg" width="95%" alt="House">
+<img src="/rule/cs_america/brazil/house.jpg" width="95%" alt="Brazil GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ Matrículas de camiones, autobuses y taxis.<span class="quiz">era rojo</span> Lo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Nissan Leaf taxi Rio de Janeiro"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/30998987@N03/45615285325/in/photolist-2cuSg7D-2cuSfZp-B2EotF-B3DcCK" title="Nissan Leaf taxi Rio de Janeiro"><img src="https://live.staticflickr.com/7852/45615285325_ef2d1f1841_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 45615285325 ef2d1f1841 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% lb 50 %}}
 ![](/rule/cs_america/brazil/2023-04-18-23-40-43.png)
@@ -84,12 +84,12 @@ Por Olympiobr - Trabajo propio, <a href="https://creativecommons.org/licenses/by
 Tiene el logo de Petrobras, la petrolera más grande de Sudamérica.{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/brazil/petrobras_no_b_laranjeiras.jpg" width="95%" alt="Petrobras no b laranjeiras">
+<img src="/rule/cs_america/brazil/petrobras_no_b_laranjeiras.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Petrobras No B Laranjeiras">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Petrobras horizontal logo">
-<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Banco Ita%C3%BA logo">
+<img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Petrobras Horizontal Logo">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Banco Ita%C3%BA Logo">
 </div>
 
 
@@ -97,12 +97,12 @@ Tiene el logo de Petrobras, la petrolera más grande de Sudamérica.{{% ex "http
 Hay un tanque con Fortlev escrito en él.{{% ref "https://www.fortlev.com.br/categorias/solucoes-fortlev-caixa-dagua-pequenos-volumes/" "Soluções Fortlev Caixa d'Água Pequeños Volúmenes" %}}.Hay varios colores diferentes, pero cada uno tiene una forma única.Puedo ver que está en el techo.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/wolever/2622433346/" title="My View 2"><img src="https://live.staticflickr.com/3019/2622433346_c36b1b64d7_z.jpg" width="640" height="427" alt="My View 2"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/wolever/2622433346/" title="My View 2"><img src="https://live.staticflickr.com/3019/2622433346_c36b1b64d7_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 2622433346 c36b1b64d7 Z"/></a>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/2023-06-13-03-04-56.png" alt="2023 06 13 03 04 56">
-<img src="/rule/cs_america/brazil/2023-06-13-03-05-06.png" alt="2023 06 13 03 05 06">
+<img src="/rule/cs_america/brazil/2023-06-13-03-04-56.png" alt="Brazil GeoGuessr guide image showing 2023 06 13 03 04 56">
+<img src="/rule/cs_america/brazil/2023-06-13-03-05-06.png" alt="Brazil GeoGuessr guide image showing 2023 06 13 03 05 06">
 </div>
 
 
@@ -111,7 +111,7 @@ Los postes telefónicos en Brasil tienen tabiques en las ranuras.<span class="qu
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/pole.jpg" width="90%" alt="Pole" />
+<img src="/rule/cs_america/brazil/pole.jpg" width="90%" alt="Brazil GeoGuessr guide image showing Pole" />
 </div>
 
 {{% notice tip %}}
@@ -123,7 +123,7 @@ Como país donde se pueden encontrar galones del mismo color{{% goto "../../asia
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg#/media/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Catarina_-_SC-303_%28ponto_cr%C3%ADtico%29_%288102621957%29.jpg" alt="File:Santa Catarina - SC-303 (ponto crítico) (8102621957).jpg" width="90%"></a></p><p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51889924@N04">Agencia CNT de Noticias</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/agenciacnt/8102621957/">Santa Catarina - SC-303 (ponto crítico)</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC POR 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64221741">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg#/media/File:Santa_Catarina_-_SC-303_(ponto_cr%C3%ADtico)_(8102621957).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Santa_Catarina_-_SC-303_%28ponto_cr%C3%ADtico%29_%288102621957%29.jpg" alt="Wikimedia Commons photo showing Santa Catarina Sc 303 (ponto crítico) (8102621957)" width="90%"></a></p><p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/51889924@N04">Agencia CNT de Noticias</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/agenciacnt/8102621957/">Santa Catarina - SC-303 (ponto crítico)</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC POR 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=64221741">Enlace</a></p>
 </div>
 
 
@@ -147,7 +147,7 @@ Banco Itaú, el banco más grande de Sudamérica <span class="quiz">signo naranj
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/banco_itau_agencia_leblon.jpg" width="95%" alt="Banco itau agencia leblon">
+<img src="/rule/cs_america/brazil/banco_itau_agencia_leblon.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Banco Itau Agencia Leblon">
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -178,7 +178,7 @@ Banco Itaú, el banco más grande de Sudamérica <span class="quiz">signo naranj
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/2023-04-26-01-07-35.png" style="max-width:80%;" alt="ブラジルの電話番号の市外局番"/>
+<img src="/rule/cs_america/brazil/2023-04-26-01-07-35.png" style="max-width:80%;" alt="Brazil GeoGuessr guide image showing 2023 04 26 01 07 35"/>
 <p>Por Magno Brasil - Trabajo propio, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61641585">Wikimedia Commons (enlace)</a></p>
 </div>
 {{% /tab %}}
@@ -189,7 +189,7 @@ Es bastante difícil encontrar el número de la carretera de inmediato, así que
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/rodovia_br460_carmo_de.jpg" width="95%" alt="Rodovia br460 carmo de">
+<img src="/rule/cs_america/brazil/rodovia_br460_carmo_de.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Rodovia br460 Carmo De">
 </div>
 {{% /tab %}}
 {{% tab "Alrededor de Florianópolis" %}}
@@ -200,7 +200,7 @@ durante la construcción{{% goto "../../europe/azores/" "Azores" %}}Debido a la 
 
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Arauc%C3%A1ria_-_centro_-_panoramio.jpg#/media/File:Araucária_-_centro_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arauc%C3%A1ria_-_centro_-_panoramio.jpg" alt="Araucária - centro - panoramio.jpg" height="720" width="90%"></a></p><p>Por dnsilva1, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53785493">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Arauc%C3%A1ria_-_centro_-_panoramio.jpg#/media/File:Araucária_-_centro_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Arauc%C3%A1ria_-_centro_-_panoramio.jpg" alt="Wikimedia Commons photo showing Araucária Centro Panoramio" height="720" width="90%"></a></p><p>Por dnsilva1, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53785493">Enlace</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -226,7 +226,7 @@ durante la construcción{{% goto "../../europe/azores/" "Azores" %}}Debido a la 
 {{% tab "vegetación" %}}
 
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/cs_america/brazil/2023-04-27-08-27-15.png" alt="2023 04 27 08 27 15" /></div>
+<div class="unclickable"><img src="/rule/cs_america/brazil/2023-04-27-08-27-15.png" alt="Brazil GeoGuessr guide image showing 2023 04 27 08 27 15" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">Fuente de la imagen: Por Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
 {{% /tab %}}
@@ -290,7 +290,7 @@ Las plantas varían según la región.Afectada por vientos húmedos provenientes
 {{% tabs %}}
 {{% tab "pino paraná" %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="Araucaria angustifolia　Araucaria brasiliense　Brazilian pine Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="Araucaria angustifolia Araucaria brasiliense Brazilian pine Pinheiro-do-Paraná"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mauroguanandi/35686981522/" title="Araucaria angustifolia　Araucaria brasiliense　Brazilian pine Pinheiro-do-Paraná"><img src="https://live.staticflickr.com/4279/35686981522_60c86783ec_z.jpg" width="640" height="360" alt="Image from live.staticflickr.com showing 35686981522 60c86783ec Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -299,7 +299,7 @@ este arbol es <span class="quiz">paraná</span> alrededor del estado{{% by "neck
 {{% /tab %}}
 {{% tab "palma de cera brasileña" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Carnauba.jpg" width="80%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijús</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC POR 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Carnauba.jpg#/media/File:Carnauba.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Carnauba.jpg/1200px-Carnauba.jpg" alt="Wikimedia Commons photo showing 1200px Carnauba" width="80%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Tacarijus" title="User:Tacarijus">Tacarijús</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by/2.5" title="Creative Commons Attribution 2.5">CC POR 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2493694">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -308,7 +308,7 @@ este arbol es <span class="quiz">cear</span> alrededor del estado
 {{% /tab %}}
 {{% tab "Babasu" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/brazil/2023-05-07-20-45-47.png" alt="2023 05 07 20 45 47" />
+<img src="/rule/cs_america/brazil/2023-05-07-20-45-47.png" alt="Brazil GeoGuessr guide image showing 2023 05 07 20 45 47" />
 </div>
 
 {{% notice tip %}}
@@ -317,7 +317,7 @@ con el estado de Piauí<span class="quiz">maranhao</span> estado{{% by "https://
 {{% /tab %}}
 {{% tab "Syagurus coronata" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Syagrus coronata 12zz.jpg" width="70%"></a></p><p>Por Foto de David J. Stang - fuente: David Stang. Publicado por primera vez en ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Syagrus_coronata_12zz.jpg#/media/File:Syagrus_coronata_12zz.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Syagrus_coronata_12zz.jpg" alt="Wikimedia Commons photo showing Syagrus Coronata 12zz" width="70%"></a></p><p>Por Foto de David J. Stang - fuente: David Stang. Publicado por primera vez en ZipcodeZoo.com, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=61163295">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -326,7 +326,7 @@ Syagrus coronata es un árbol que se puede observar en el este de Brasil, distri
 {{% /tab %}}
 {{% tab "Acaí" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Euterpe precatoria (19866677541).jpg" width="90%"></a></p><p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> de Gibsons, B.C., Canadá - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC POR 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Euterpe_precatoria_(19866677541).jpg#/media/File:Euterpe_precatoria_(19866677541).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Euterpe_precatoria_%2819866677541%29.jpg" alt="Wikimedia Commons photo showing Euterpe Precatoria (19866677541)" width="90%"></a></p><p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/92252798@N07">Dick Culbert</a> de Gibsons, B.C., Canadá - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/92252798@N07/19866677541/">Euterpe precatoria</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC POR 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=50113767">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -335,7 +335,7 @@ Açaizeiro es común en el estado de Pará.{{% by "https://www.youtube.com/live/
 {{% /tab %}}
 {{% tab "Eucalyptus Grandis" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Eucalyptus grandis Kerewong State Forest 55 metres tall.jpg" width="70%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg#/media/File:Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Eucalyptus_grandis_Kerewong_State_Forest_55_metres_tall.jpg" alt="Wikimedia Commons photo showing Eucalyptus Grandis Kerewong State Forest 55 Metres Tall" width="70%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Poyt448" title="User:Poyt448">Poyt448 Peter Woodard</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15235273">Enlace</a></p>
 </div>
 
 {{% notice tip %}}
@@ -359,7 +359,7 @@ Distribuido escasamente principalmente en áreas cercanas a la costa de los esta
 Puedo ver una montaña afilada{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}.También hay un tramo en el que vas montado en un buggy azul.{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/ilhagrande_abraao1.jpg" width="95%" alt="Ilhagrande abraao1">
+<img src="/rule/cs_america/brazil/ilhagrande_abraao1.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Ilhagrande abraao1">
 </div>
 {{% /tab %}}
 {{% tab "Fernando de Noronha" %}}
@@ -367,7 +367,7 @@ Puedo ver una montaña afilada{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7"
 Hay un agujero en el poste telefónico.Hay muchas zonas rocosas y hay lugares donde se puede coger un barco.Hay algunas rocas muy distintivas, por lo que es posible que puedas distinguirlas por eso.{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/brazil_1091369.jpg" width="95%" alt="Brazil 1091369">
+<img src="/rule/cs_america/brazil/brazil_1091369.jpg" width="95%" alt="Brazil GeoGuessr guide image showing Brazil 1091369">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

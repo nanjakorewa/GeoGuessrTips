@@ -28,7 +28,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="640px Somalia, Puntland, Bari, Iskushuban (13)">
+<img src="./640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="Somalia GeoGuessr guide image showing 640px Somalia, Puntland, Bari, Iskushuban (13)">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Somalia_map_states_regions_districts.svg#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Somalia_map_states_regions_districts.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Somalia_map_states_regions_districts.svg" alt="Somalia map states regions districts.svg" height="541" width="512"></a></p><p>パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=18673571">リンク</a>による</p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Somalia_map_states_regions_districts.svg#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Somalia_map_states_regions_districts.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/Somalia_map_states_regions_districts.svg" alt="Wikimedia Commons photo showing Somalia Map States Regions Districts" height="541" width="512"></a></p><p>パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=18673571">リンク</a>による</p>
 </div>
 
 {{% /tab %}}

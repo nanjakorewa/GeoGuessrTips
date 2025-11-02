@@ -52,14 +52,14 @@ Crossings use <span class="quiz">four</span> bars and many signs lack a border. 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/estonia/road-sign.jpg" width="500px" alt="Road sign">
+<img src="/rule/europe/baltic-state/estonia/road-sign.jpg" width="500px" alt="Estonia GeoGuessr guide image showing Road Sign">
 </div>
 
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
-<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
-<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Estonia Road Sign 311a" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Latvia Road Sign 302" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Baltic State GeoGuessr guide image showing Lithuania Background" />
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Look for orange post boxes branded “EESTI POST” or “Omniva”.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/estonia/estonia_baltic_states_post.jpg" width="250px" alt="Estonia baltic states post">
+<img src="/rule/europe/baltic-state/estonia/estonia_baltic_states_post.jpg" width="250px" alt="Estonia GeoGuessr guide image showing Estonia Baltic States Post">
 </div>
 
 {{% notice tip %}}
@@ -75,9 +75,9 @@ Among the Baltic states, only Estonia uses red-backed chevrons. The two signs on
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
-<img src="/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
+<img src="/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
+<img src="/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Ar" />
 </div>
 
 {{% /tab %}}

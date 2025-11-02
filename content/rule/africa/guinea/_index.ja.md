@@ -42,11 +42,11 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/attawayjl/50177872207/in/photolist-2js3HeH-7EqPWm-2qtBY7q-6vnyVU-2ouxYxP-6yvu7x-5sjuHF-2qkbYh5-21yU8bP-HrgJCF-2mMSsjq-RtyMUf-dsDyH5-2mMNoZ8-2jrYEK8-21LzRR1-RtyN1s-7JmUKh-dH4FUE-GMQqe2-dGYfTP-dGYfTM-dGYiQX-2i2yWRa-2i2yWUX-2i2vqKq-8wo2Nr-2i2xQo6-2i2yHMo-2i2yNE4-2i2yWMn-dH4FS9-2qkdhWV-24eRkbJ-23cWqW3-ypf15-24eRm3d-5tSEuf-24eRfnq-23cWrAE-dxjNtS-4GsHLv-2qkdDYq-2qkbYHL-jYeC5U-aJMbui-8DPBjT-j2jZc5-jY3XbG-jYgEkx" title="Bauxite"><img src="https://live.staticflickr.com/65535/50177872207_a7d365917a_c.jpg" width="90%" alt="Bauxite"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/attawayjl/50177872207/in/photolist-2js3HeH-7EqPWm-2qtBY7q-6vnyVU-2ouxYxP-6yvu7x-5sjuHF-2qkbYh5-21yU8bP-HrgJCF-2mMSsjq-RtyMUf-dsDyH5-2mMNoZ8-2jrYEK8-21LzRR1-RtyN1s-7JmUKh-dH4FUE-GMQqe2-dGYfTP-dGYfTM-dGYiQX-2i2yWRa-2i2yWUX-2i2vqKq-8wo2Nr-2i2xQo6-2i2yHMo-2i2yNE4-2i2yWMn-dH4FS9-2qkdhWV-24eRkbJ-23cWqW3-ypf15-24eRm3d-5tSEuf-24eRfnq-23cWrAE-dxjNtS-4GsHLv-2qkdDYq-2qkbYHL-jYeC5U-aJMbui-8DPBjT-j2jZc5-jY3XbG-jYgEkx" title="Bauxite"><img src="https://live.staticflickr.com/65535/50177872207_a7d365917a_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 50177872207 a7d365917a C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Guinea_Product_Exports_(2019).svg#/media/File:Guinea_Product_Exports_(2019).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Guinea_Product_Exports_%282019%29.svg" alt="Guinea Product Exports (2019).svg" width="400px"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Guinea_Product_Exports_(2019).svg#/media/File:Guinea_Product_Exports_(2019).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Guinea_Product_Exports_%282019%29.svg" alt="Wikimedia Commons photo showing Guinea Product Exports (2019)" width="400px"></a></p>
 </div>
 
 {{% /tab %}}

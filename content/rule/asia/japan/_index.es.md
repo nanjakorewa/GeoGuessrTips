@@ -28,7 +28,7 @@ jogmec_detail: true
 Los prefijos telefónicos forman una gradación: Sapporo (`011`), Tokio (`03`), Osaka (`06`) y Kagoshima (`099`). Conocerlos ayuda a situar rápidamente la región (<a href="https://commons.wikimedia.org/w/index.php?curid=55479620">imagen CC0</a>).
 {{% /notice %}}
 
-<img src="/rule/asia/japan/2023-04-14-21-52-22.png" class="no-click" alt="2023 04 14 21 52 22" />
+<img src="/rule/asia/japan/2023-04-14-21-52-22.png" class="no-click" alt="Japan GeoGuessr guide image showing 2023 04 14 21 52 22" />
 
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -37,7 +37,7 @@ Los prefijos telefónicos forman una gradación: Sapporo (`011`), Tokio (`03`), 
 Los números de salida de autopistas (IC/JCT) siguen un sistema coherente: al cruzar las fronteras prefecturales los números se ajustan y eso permite identificar la región{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf99/3.pdf" "web" "Numeración de autopistas en Japón" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/2023-04-14-22-35-16.png" class="no-click" width="90%" alt="2023 04 14 22 35 16" />
+<img src="/rule/asia/japan/2023-04-14-22-35-16.png" class="no-click" width="90%" alt="Japan GeoGuessr guide image showing 2023 04 14 22 35 16" />
 </div>
 
 {{% notice tip %}}

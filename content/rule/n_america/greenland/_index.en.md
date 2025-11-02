@@ -34,8 +34,8 @@ sc: [
 Over 80% of residents are Indigenous Greenlanders and the official language is Greenlandic. In areas with permafrost, the ground subsides in summer as the ice melts and then heaves again when it refreezes in winter. To avoid that movement, many houses stand on rock or stilts; you might see space beneath the floor or concrete supports{{% ex "https://maps.app.goo.gl/RJ9MNRwS8cwdsfu69" "https://maps.app.goo.gl/HRUqsMZjoXRTRCHc9" "https://maps.app.goo.gl/gz9J7etmTHdc5oba9" %}}. The cold climate also means roads are often far from perfectly level{{% ref "http://chikyunokurashi.com/greenland/ordinarylifeingreenland/" "Everyday life for Greenlanders" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/greenland/tasiilaq_greenland_01.jpg" width="550px" alt="Tasiilaq greenland 01">
-<img src="/rule/n_america/greenland/tasiilaq_greenland_east_greenland.jpg" width="550px" alt="Tasiilaq greenland east greenland">
+<img src="/rule/n_america/greenland/tasiilaq_greenland_01.jpg" width="550px" alt="Greenland GeoGuessr guide image showing Tasiilaq Greenland 01">
+<img src="/rule/n_america/greenland/tasiilaq_greenland_east_greenland.jpg" width="550px" alt="Greenland GeoGuessr guide image showing Tasiilaq Greenland East Greenland">
 </div>
 
 {{% notice tip %}}

@@ -39,36 +39,36 @@ sc: [
 Di luar pusat kota, suasana seperti ini umum ditemukan, tanpa banyak pohon {{% ex "https://maps.app.goo.gl/5zECdxfgdn94Xu6S8" "https://maps.app.goo.gl/67ULsF6xR3czqhHV7" "https://maps.app.goo.gl/puRph85FciybH1nN9" %}}. Beberapa rumah memiliki atap rumput untuk insulasi.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/isabel_lucena/36702442524/" title="Faroe Islands, Eysturoy L1000403"><img src="https://live.staticflickr.com/4383/36702442524_6cd50405a8_z.jpg" width="640" height="427" alt="Faroe Islands, Eysturoy L1000403"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/isabel_lucena/36702442524/" title="Faroe Islands, Eysturoy L1000403"><img src="https://live.staticflickr.com/4383/36702442524_6cd50405a8_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 36702442524 6cd50405a8 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Bolard berwarna <span class="quiz">kuning dan merah</span> sering ditemukan {{% ex "https://maps.app.goo.gl/Rf3Q9RCv7i1bp3zY7" "https://maps.app.goo.gl/KwpFXHxqR3xE7ix8A" "https://maps.app.goo.gl/R1zG3X1WPBbK9WRa7" %}}. Mobil Google Car juga sering terlihat.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG#/media/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/F%C3%A4r%C3%B6er_Suduroy_07.JPG" alt="Färöer Suduroy 07.JPG" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34337495">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG#/media/File:F%C3%A4r%C3%B6er_Suduroy_07.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/F%C3%A4r%C3%B6er_Suduroy_07.JPG" alt="Wikimedia Commons photo showing Färöer Suduroy 07" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34337495">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Domba atau kuda sering terlihat dekat dengan kota {{% ex "https://maps.app.goo.gl/hab3c1MrWQq1nM7B7" "https://maps.app.goo.gl/6SXRBgoMKzK1X3Gt6" %}}. Lapangan sepak bola dan futsal banyak ditemukan di perkotaan dan pinggiran {{% ex "https://maps.app.goo.gl/7pKv5b4UM8wKjke68" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/faroe_islands/faroe_islands_cascade_horses.jpg" width="90%" alt="Faroe islands cascade horses">
+<img src="/rule/europe/faroe_islands/faroe_islands_cascade_horses.jpg" width="90%" alt="Faroe Islands GeoGuessr guide image showing Faroe Islands Cascade Horses">
 </div>
 
 {{% notice tip %}}
 Merupakan wilayah Denmark {{% goto "../denmark/" "Denmark" %}} dan memiliki beberapa kesamaan, seperti merek kotak surat Allux {{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" %}}. Papan nama jalan dan halte bus menyerupai desain Denmark {{% ex "https://maps.app.goo.gl/U8RdHr8jbxSpnaVSA" "https://maps.app.goo.gl/fJZXBzL9iNmMfvUy7" "https://maps.app.goo.gl/Cv8Tn6KNKLNPv1mH8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" width="230px" alt="2024 10 15 23 20 20">
-<img src="/rule/europe/faroe_islands/640px-Bussstop_fo.jpg" width="463px" alt="640px Bussstop fo">
+<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" width="230px" alt="Denmark GeoGuessr guide image showing 2024 10 15 23 20 20">
+<img src="/rule/europe/faroe_islands/640px-Bussstop_fo.jpg" width="463px" alt="Faroe Islands GeoGuessr guide image showing 640px Bussstop Fo">
 </div>
 
 {{% notice tip %}}
 Terdapat papan nama kuning yang serupa dengan di {{% goto "../iceland/" "Islandia" %}}, serta tiang putih dan biru dekat penyeberangan jalan {{% ex "https://maps.app.goo.gl/uCG1K9dQSa5iWETw6" "https://maps.app.goo.gl/Un9Cg3xJzuE93Zv76" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Argir.jpg#/media/File:Argir.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Argir.jpg" alt="Argir.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Lillestr%C3%B8m_SK&amp;action=edit&amp;redlink=1" class="new" title="User:Lillestrøm SK (page does not exist)">Lillestrøm SK</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15029674">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Argir.jpg#/media/File:Argir.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Argir.jpg" alt="Wikimedia Commons photo showing Argir" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Lillestr%C3%B8m_SK&amp;action=edit&amp;redlink=1" class="new" title="User:Lillestrøm SK (page does not exist)">Lillestrøm SK</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15029674">Link</a></p>
 </div>
 
 {{% /tab %}}

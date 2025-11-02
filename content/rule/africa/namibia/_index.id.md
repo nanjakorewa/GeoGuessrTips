@@ -37,7 +37,7 @@ sc: [
 
 {{% notice tip %}}Mobil pribadi menggunakan pelat nomor berwarna <span class="quiz">kuning</span>{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}} dan lalu lintas berjalan di sisi kiri.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Elephants At Etosha National 2">
 </div>
 
 {{% lb 50 %}}
@@ -48,19 +48,19 @@ Oleh <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quo
 
 {{% notice tip %}}Gurun Namib yang datar membentang di sepanjang pantai{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. Gurun ini termasuk dalam kategori gurun pesisir barat seperti {{% goto "../../cs_america/chile/" "Gurun Atacama di Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "Gurun Pesisir Barat" %}}.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%" alt="Road ahead desert never">
+<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%" alt="Namibia GeoGuessr guide image showing Road Ahead Desert Never">
 </div>
 
 {{% notice tip %}}Pernah berada di bawah kolonialisme {{% goto "../../europe/germany/" "Jerman" %}}, lalu berada di bawah mandat Afrika Selatan. Karena itu, nama-nama jalan yang terdengar seperti Bahasa Jerman masih ditemukan{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraﾃ歹.jpg" height="448" width="640"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Tautan</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Wikimedia Commons photo showing Windhuk Bahnhofstraße" height="448" width="640"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Tautan</a></p>
 </div>
 
 {{% notice tip %}}
 Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berlian dan uranium. Karena itu, wilayah perkotaannya relatif aman dan infrastruktur seperti perumahan telah berkembang{{% ex "https://maps.app.goo.gl/tasd2CRDKQ6BD5zA8" %}}. Di kota seperti Swakopmund, terdapat bangunan bergaya Eropa yang terpengaruh oleh {{% goto "../../europe/germany/" "Jerman" %}}{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Swakopmund1">
+<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Namibia GeoGuessr guide image showing swakopmund1">
 </div>
 
 {{% /tab %}}
@@ -96,7 +96,7 @@ Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berli
 {{% tabs %}}
 {{% tab "Ketinggian" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" alt="960px Namibia Topography" />
+<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" alt="Namibia GeoGuessr guide image showing 960px Namibia Topography" />
 </div>
 
 {{% notice tip %}}
@@ -111,7 +111,7 @@ Wilayah hijau tertutup vegetasi lebih dari 80%, sedangkan wilayah hijau muda men
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/glasscover.png" width="70%" alt="Glasscover" />
+<img src="/rule/africa/namibia/glasscover.png" width="70%" alt="Namibia GeoGuessr guide image showing Glasscover" />
 </div>
 
 {{% /tab %}}
@@ -122,7 +122,7 @@ Jalur kereta menghubungkan pelabuhan utama Walvis Bay (ditunjukkan oleh garis hi
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Namibia rail network map de.svg" width="60%"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Karya sendiri</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">Data geospasial dari OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Tautan</a></p>
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Wikimedia Commons photo showing Namibia Rail Network Map De" width="60%"></a></p><p>Oleh <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Karya sendiri</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">Data geospasial dari OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Tautan</a></p>
 </div>
 
 {{% /tab %}}
@@ -154,7 +154,7 @@ Tumbuh rendah dan bercabang dari bagian bawah, memberikan kesan "melebar ke sega
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Colophospermum mopane in Namibia" height="480" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Wikimedia Commons photo showing Colophospermum Mopane Arbre Mhnt" height="480" width="640"></a></p>
 <p>Oleh <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercﾃｩ">Roger Culos</a> - <span class="int-own-work" lang="en">Karya sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Tautan</a></p>
 </div>
 
@@ -165,7 +165,7 @@ Pohon palem yang dikenal sebagai "palem meledak" ini tersebar di bagian utara de
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px" alt="Bakuhatsu">
+<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px" alt="Namibia GeoGuessr guide image showing Bakuhatsu">
 </div>
 
 {{% /tab %}}
@@ -175,7 +175,7 @@ Mudah dikenali dari siluetnya, namun karena sedikitnya jalan di sepanjang perbat
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Namibia GeoGuessr guide image showing Rock Formations Rocks Dichotoma">
 </div>
 
 {{% notice tip %}}
@@ -183,7 +183,7 @@ Area persebarannya ditunjukkan oleh titik-titik biru muda pada gambar di bawah i
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="Namibia GeoGuessr guide image showing The Tree Aloes Southern">
 </div>
 
 {{% /tab %}}
@@ -205,7 +205,7 @@ Walvis Bay adalah pelabuhan terbesar di Republik Namibia{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/string_bass_dave/54459068109/in/photolist-2n3bKG9-SKJuBP-smEc4A-soNCTE-soNw8A-2oPSfRy-D6JPJb-2d7z5Ge-29rUr1o-xXGhzV-dGhfW3-2iF8wCC-s5BDsR-2n3dpMG-2n39ABW-2krWt1m-s7nkUm-s7kpP9-soNazG-MKwiyV-V7m9pi-s7kTSq-rs8NcH-s7wcig-soM5Ff-2nxXuYt-DtoCbe-QBpdwq-E5RtDx-rs9t2X-s7k9Ns-FYYqQk-smFciS-soLARs-2oPar4e-3HSNzN-smG2kd-2qYmXCa-5JkDpj-2m6GmBk-F9sDj7-F4YKZ2-CVGCMi-2ifvwBx-soWVZv-fTDG86-s5CsSF-2i1y8YN-Db8yGD-soVqtV" title="Walvis Bay Harbor"><img src="https://live.staticflickr.com/65535/54459068109_62e365dd29_c.jpg" width="800" height="447" alt="Walvis Bay Harbor"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/string_bass_dave/54459068109/in/photolist-2n3bKG9-SKJuBP-smEc4A-soNCTE-soNw8A-2oPSfRy-D6JPJb-2d7z5Ge-29rUr1o-xXGhzV-dGhfW3-2iF8wCC-s5BDsR-2n3dpMG-2n39ABW-2krWt1m-s7nkUm-s7kpP9-soNazG-MKwiyV-V7m9pi-s7kTSq-rs8NcH-s7wcig-soM5Ff-2nxXuYt-DtoCbe-QBpdwq-E5RtDx-rs9t2X-s7k9Ns-FYYqQk-smFciS-soLARs-2oPar4e-3HSNzN-smG2kd-2qYmXCa-5JkDpj-2m6GmBk-F9sDj7-F4YKZ2-CVGCMi-2ifvwBx-soWVZv-fTDG86-s5CsSF-2i1y8YN-Db8yGD-soVqtV" title="Walvis Bay Harbor"><img src="https://live.staticflickr.com/65535/54459068109_62e365dd29_c.jpg" width="800" height="447" alt="Image from live.staticflickr.com showing 54459068109 62e365dd29 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -216,7 +216,7 @@ Terletak di bagian utara Namibia, gunung besar dan datar ini dapat terlihat deng
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Brandberg Namibia 10km Distance" />
 </div>
 
 {{% /tab %}}

@@ -35,7 +35,7 @@ sc: [
 Procure o domínio <span class="quiz">.im</span>. As placas traseiras são amarelas e exibem uma faixa vertical vermelha à esquerda{{% ex "https://maps.app.goo.gl/ASa155LZoJGF6dEZ8" "https://maps.app.goo.gl/GjKsEdbgDfCKhrk47" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/mannin/640px-Ford_Focus_illa_de_Man.jpg" alt="640px Ford Focus illa de Man">
+<img src="/rule/europe/mannin/640px-Ford_Focus_illa_de_Man.jpg" alt="Mannin GeoGuessr guide image showing 640px Ford Focus Illa De Man">
 </div>
 
 {{% lb 50 %}}

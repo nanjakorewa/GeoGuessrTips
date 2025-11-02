@@ -43,7 +43,7 @@ sc: [
 Los bolardos franceses suelen ser cilindros blancos gruesos con reflectores rojos{{% ex "https://goo.gl/maps/49TWtnfD72RZofXZA" "https://goo.gl/maps/FFYwBNo13xJeEkZPA" %}}. Hay variantes con extremos o reflectores de otros colores{{% ex "https://maps.app.goo.gl/toNnq8m7rMBHab2q7" "https://goo.gl/maps/cpWQUAzwwQ3b1j3v5" "https://maps.app.goo.gl/wtDVvGYfJ3Ve5Qt48" %}} e incluso modelos con forma de borrador{{% ex "https://maps.app.goo.gl/vzAwrbDqgRGeafnM8" "https://goo.gl/maps/XcQm1cZDyncCX1ub8" %}}. Bollards idénticos aparecen en ciertas carreteras de {{% goto "../greece/" "Grecia" %}}{{% ex "https://maps.app.goo.gl/4Dog9cDyxZ9DikYb7" "https://maps.app.goo.gl/QvCD6cz2x73oNKkn6" %}}, así que confirma el entorno.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/france/b2.png" width="90%" alt="Bolardos franceses" />
+<img src="/rule/europe/france/b2.png" width="90%" alt="France GeoGuessr guide image showing b2" />
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ Los números telefónicos siguen el formato de cinco pares de dígitos{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/phonenumber.jpg" width="90%" alt="Phonenumber">
+<img src="/rule/europe/france/phonenumber.jpg" width="90%" alt="France GeoGuessr guide image showing Phonenumber">
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ Si la placa es blanca, piensa en {{% goto "../italy/" "Italia" %}}{{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/france/blue-plate.png" width="90%" alt="Poste eléctrico en Francia" />
+<img src="/rule/europe/france/blue-plate.png" width="90%" alt="France GeoGuessr guide image showing Blue Plate" />
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ Las placas amarillas con la letra “D” están repartidas por toda Francia{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550" alt="Aubisque mountain france 940395">
+<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550" alt="France GeoGuessr guide image showing Aubisque Mountain France 940395">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ Las matrículas siguen el estándar de la UE con franja azul a la izquierda, per
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/licence.jpg" width="95%" alt="Licence">
+<img src="/rule/europe/france/licence.jpg" width="95%" alt="France GeoGuessr guide image showing Licence">
 </div>
 
 {{% lb 50 small %}}
@@ -93,7 +93,7 @@ Los buzones suelen tener formas peculiares y un color amarillo intenso{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Chatroux_sur_bo%C3%AEte_aux._LETTRES...jpg#/media/File:Chatroux_sur_boîte_aux._LETTRES...jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Chatroux_sur_bo%C3%AEte_aux._LETTRES....jpg" alt="Chatroux sur boîte aux. LETTRES....jpg" width="75%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Lefrancais&amp;action=edit&amp;redlink=1" class="new" title="User:Lefrancais (page does not exist)">Lefrancais</a> - <span class="int-own-work" lang="fr">Travail personnel</span>, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=12356059">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Chatroux_sur_bo%C3%AEte_aux._LETTRES...jpg#/media/File:Chatroux_sur_boîte_aux._LETTRES...jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/Chatroux_sur_bo%C3%AEte_aux._LETTRES....jpg" alt="Wikimedia Commons photo showing Chatroux Sur Boîte aux. LETTRES..." width="75%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Lefrancais&amp;action=edit&amp;redlink=1" class="new" title="User:Lefrancais (page does not exist)">Lefrancais</a> - <span class="int-own-work" lang="fr">Travail personnel</span>, CC BY-SA 3.0, <a href="https://commons.wikimedia.org/w/index.php?curid=12356059">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -101,7 +101,7 @@ En edificios de apartamentos suele aparecer la información del distrito junto a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="95%" alt="Mailboxes post france letter">
+<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="95%" alt="France GeoGuessr guide image showing Mailboxes Post France Letter">
 </div>
 
 {{% notice tip %}}
@@ -109,7 +109,7 @@ Muchos edificios llevan placas curvas con el número cívico{{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/house.jpg" width="95%" alt="House">
+<img src="/rule/europe/france/house.jpg" width="95%" alt="France GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Las señales viales usan palabras en francés, por ejemplo <span class="quiz">�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/road-with-bollard.png" width="90%" alt="Road with bollard">
+<img src="/rule/europe/france/road-with-bollard.png" width="90%" alt="France GeoGuessr guide image showing Road With Bollard">
 </div>
 
 {{% notice tip %}}
@@ -125,7 +125,7 @@ Algunas municipalidades emplean flechas direccionales enmarcadas en azul o amari
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/arrow.png" width="75%" alt="Arrow">
+<img src="/rule/europe/france/arrow.png" width="75%" alt="France GeoGuessr guide image showing Arrow">
 </div>
 
 {{% notice tip %}}
@@ -133,7 +133,7 @@ Los postes rurales suelen ser de madera y llevan placas con códigos numéricos{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/france/poles.jpg" width="95%" alt="Poles">
+<img src="/rule/europe/france/poles.jpg" width="95%" alt="France GeoGuessr guide image showing Poles">
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Las placas con el nombre de la calle incluyen la comuna o arrondissement{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="France GeoGuessr guide image showing Avenue Sign Street Signs">
 </div>
 
 {{% /tab %}}
@@ -159,7 +159,7 @@ El noroeste francés se parece a Bélgica gracias a las hileras de ladrillo rojo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/auby_town_hall_france.jpg" width="95%" alt="Auby town hall france">
+<img src="/rule/europe/france/auby_town_hall_france.jpg" width="95%" alt="France GeoGuessr guide image showing Auby Town Hall France">
 </div>
 
 {{% notice tip %}}
@@ -167,7 +167,7 @@ Las llanuras muestran grandes campos amarillos de mostaza{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/roadline.png" width="95%" alt="Roadline">
+<img src="/rule/europe/france/roadline.png" width="95%" alt="France GeoGuessr guide image showing Roadline">
 </div>
 
 {{% notice tip %}}
@@ -175,7 +175,7 @@ Los acantilados de tiza del Somme recuerdan a la costa británica{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/port_grimaud_france_channel.jpg" width="95%" alt="Port grimaud france channel">
+<img src="/rule/europe/france/port_grimaud_france_channel.jpg" width="95%" alt="France GeoGuessr guide image showing Port Grimaud France Channel">
 </div>
 
 {{% /tab %}}
@@ -193,7 +193,7 @@ Las casas de piedra con contraventanas pastel y tejas terracota son típicas{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="95%" alt="Stone houses village luberon">
+<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="95%" alt="France GeoGuessr guide image showing Stone Houses Village Luberon">
 </div>
 
 {{% notice tip %}}
@@ -201,7 +201,7 @@ Córcega destaca por carreteras costeras pegadas al acantilado{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%" alt="Corsica coast coastal road 1">
+<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%" alt="France GeoGuessr guide image showing Corsica Coast Coastal Road 1">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ Los campos de sal del Atlántico forman cuadrículas blancas{{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg" width="95%" alt="Salt marshes salt noirmoutier">
+<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg" width="95%" alt="France GeoGuessr guide image showing Salt Marshes Salt Noirmoutier">
 </div>
 
 {{% /tab %}}
@@ -227,7 +227,7 @@ Las placas con “ARR” y el nombre de la calle indican el distrito{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/versailles_paris_france_palace.jpg" width="95%" alt="Versailles paris france palace">
+<img src="/rule/europe/france/versailles_paris_france_palace.jpg" width="95%" alt="France GeoGuessr guide image showing Versailles Paris France Palace">
 </div>
 
 {{% notice tip %}}
@@ -235,7 +235,7 @@ Los carteles parisinos también llevan el número del arrondissement en números
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Mapa de arrondissements de París"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Wikimedia Commons photo showing Paris Arr Jms Num"></a></p>
 <p><a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> añadió los números - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a></p>
 </div>
 
@@ -244,7 +244,7 @@ En los cruces, las placas de fachada muestran tanto la avenida como el arrondiss
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="France GeoGuessr guide image showing Avenue Sign Street Signs">
 </div>
 
 {{% /tab %}}
@@ -265,7 +265,7 @@ En los cruces, las placas de fachada muestran tanto la avenida como el arrondiss
 Las calas kársticas cerca de Marsella muestran acantilados y aguas turquesa{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}. Ojo con los postes perforados o los postes tipo Chile en esta zona.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/france/vudeniolon2.jpg" width="95%" alt="Vudeniolon2">
+<img src="/rule/europe/france/vudeniolon2.jpg" width="95%" alt="France GeoGuessr guide image showing vudeniolon2">
 </div>
 {{% /tab %}}
 {{% tab "Col de la Bonette" %}}
@@ -273,7 +273,7 @@ Las calas kársticas cerca de Marsella muestran acantilados y aguas turquesa{{% 
 La panorámica carretera D64 atraviesa el Col de la Bonette{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%" alt="High alps pass road">
+<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%" alt="France GeoGuessr guide image showing High Alps Pass Road">
 </div>
 {{% /tab %}}
 {{% tab "Aiguille de la Grande Sassière" %}}
@@ -281,7 +281,7 @@ La panorámica carretera D64 atraviesa el Col de la Bonette{{% ex "https://maps.
 Esta cumbre de Saboya tiene una carretera de acceso que no parece francesa a simple vista{{% ex "https://maps.app.goo.gl/dq9vRCRrmrCVPDRu6" "https://maps.app.goo.gl/qGSdXR5suQM8u6LE7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="La Tsanteleina.jpg" height="720" width="1253"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:La_Tsanteleina.jpg#/media/File:La_Tsanteleina.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/La_Tsanteleina.jpg" alt="Wikimedia Commons photo showing La Tsanteleina" height="720" width="1253"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Kulmalukko" title="User:Kulmalukko">Tiia Monto</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=135596065">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "París" %}}
@@ -289,7 +289,7 @@ Esta cumbre de Saboya tiene una carretera de acceso que no parece francesa a sim
 Los arrondissements de París comienzan en Louvre (1.º) y avanzan en sentido horario.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Arrondissements de París"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Paris_arr_jms-num.gif#/media/File:Paris_arr_jms-num.gif"><img width="80%" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Paris_arr_jms-num.gif" alt="Wikimedia Commons photo showing Paris Arr Jms Num"></a></p>
 <p><a href="https://en.wikipedia.org/wiki/User:ThePromenader" class="extiw" title="en:User:ThePromenader">ThePromenader</a>, <a href="//commons.wikimedia.org/wiki/User:Yonidebest" title="User:Yonidebest">user:yonidebest</a> añadió los números - <a href="//commons.wikimedia.org/wiki/File:Paris_arr_jms.gif" title="File:Paris arr jms.gif">Image:Paris arr jms.gif</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a> - <a href="https://commons.wikimedia.org/w/index.php?curid=3121274">Link</a></p>
 </div>
 
@@ -298,7 +298,7 @@ Las placas cerca de las intersecciones muestran tanto la avenida como el número
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="France GeoGuessr guide image showing Avenue Sign Street Signs">
 </div>
 
 {{% /tab %}}

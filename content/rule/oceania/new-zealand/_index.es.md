@@ -38,14 +38,14 @@ sc: [
 Los bolardos están <span class="quiz">pintados de rojo</span>{{% ex "https://maps.app.goo.gl/T8eACGwJ7Z4vHgRe8" "https://goo.gl/maps/XtEYzyW6h31uHSoK8" "https://goo.gl/maps/bSkxEuiPbJM8SLhu8" "https://goo.gl/maps/KrjdcnbcAg5LAiBo8" "https://goo.gl/maps/hHEG3vSd5xec5Nnt9" "https://goo.gl/maps/23jdLpWuNBXnnYb96" "https://goo.gl/maps/vnHLGbtdeHX1Hjba6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="Bolardos en Nueva Zelanda" />
+<img src="/rule/oceania/new-zealand/nz-bollard.png" width="95%" alt="New Zealand GeoGuessr guide image showing Nz Bollard" />
 </div>
 
 {{% notice tip %}}
 Algo está enrollado en la parte superior de los postes eléctricos{{% ex "https://maps.app.goo.gl/AxWX8iPBkhhZmHYRA" "https://goo.gl/maps/9dsjXaEXwazHt8uG9" "https://goo.gl/maps/TzYYvbHjkXshc4He9" "https://goo.gl/maps/sSo8tdaUPQXhgFbJA" "https://goo.gl/maps/G4ry2jXj3DpEivLG8" "https://goo.gl/maps/QtktbnbiGBCLmvym7" "https://goo.gl/maps/aTAiXRCP6euBHT3p6" "https://goo.gl/maps/Es4nohcGyABy7hZn7" "https://goo.gl/maps/ZbwUDYqRM8kj3Jox5" %}}. También hay postes con agujeros{{% ex "https://goo.gl/maps/SfBMrtJYWyZH2Dgx6" "https://goo.gl/maps/X1q8uKpYzF9V5Nwr5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="Postes eléctricos en Nueva Zelanda" />
+<img src="/rule/oceania/new-zealand/poles.png" width="90%" alt="New Zealand GeoGuessr guide image showing Poles" />
 </div>
 
 {{% notice tip %}}
@@ -53,8 +53,8 @@ En Australia, las señales de límite de velocidad suelen estar en placas blanca
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="AU speed limit" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="NZ speedlimit" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="Image from geopinning.space showing Au Speed Limit" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="Image from geopinning.space showing Nz Speedlimit" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Los números de carreteras tienen forma de escudo rojo{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px" alt="State Highway 77 NZ">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px" alt="Image from geopinning.space showing State Highway 77 Nz">
 </div>
 
 {{% notice tip %}}
@@ -70,19 +70,19 @@ Si el texto GIVE WAY está escrito en negro, es <span class="quiz">Australia</sp
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Australia road sign R1 2" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="New Zealand road sign R2 2" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Image from geopinning.space showing Australia Road Sign R1 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="Image from geopinning.space showing New Zealand Road Sign R2 2" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg" alt="Tokoroa near mannering street">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg" alt="New Zealand GeoGuessr guide image showing Tokoroa Near Mannering Street">
 </div>
 
 {{% notice tip %}}
 Más del 40% del territorio de Nueva Zelanda es pastizal{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Gracias a lluvias regulares durante todo el año, los pastos crecen fácilmente, lo que reduce los costos de producción para los agricultores. Por esto, los productos lácteos de Nueva Zelanda son competitivos a nivel mundial{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Organización para la Promoción de la Agricultura y la Ganadería: Situación de los lácteos en Nueva Zelanda" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%" alt="Img 1492 27">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%" alt="New Zealand GeoGuessr guide image showing Img 1492 27">
 </div>
 
 {{% notice tip %}}
@@ -90,17 +90,17 @@ Hay señales de advertencia amarillas{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="New Zealand PW 66">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="New Zealand PW 46">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="New Zealand PW 25 (55 kmh)">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 66">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 46">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 25 (55 kmh)">
 </div>
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="New Zealand Permanent Warning Use Low Gear">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="New Zealand PW 59">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Permanent Warning Use Low Gear">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="Image from geopinning.space showing New Zealand Pw 59">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg" alt="Homer tunnel east">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg" alt="New Zealand GeoGuessr guide image showing Homer Tunnel East">
 </div>
 
 {{% notice tip %}}
@@ -108,7 +108,7 @@ Las señales y los chevrones están montados en postes blancos de madera{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px" alt="Whitepole">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px" alt="New Zealand GeoGuessr guide image showing Whitepole">
 </div>
 
 {{% /tab %}}
@@ -184,7 +184,7 @@ Si ves postes con agujeros y solo ovejas, vale la pena considerar la zona más a
 La zona alrededor de Christchurch es plana y tiene muchos cortavientos altos {{% ref "https://ir.canterbury.ac.nz/handle/10092/11294" "Universidad de Canterbury" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Cortavientos"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Cortavientos"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/44833857@N00/411043386/in/photolist-2o13z9U-bySv2m-aD3DPb-CjGSW-axE1qo-7SbHZA-eif8Ud-ei9piz" title="Cortavientos"><img src="https://live.staticflickr.com/185/411043386_b421c050aa_z.jpg" width="640" height="433" alt="Image from live.staticflickr.com showing 411043386 b421c050aa Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Región de Bay of Plenty" %}}
@@ -192,7 +192,7 @@ La zona alrededor de Christchurch es plana y tiene muchos cortavientos altos {{%
 Hay cortavientos para proteger los cultivos del viento del océano, pero no tantos como en la llanura de Canterbury {{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg" alt="Wv banner bay plenty">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg" alt="New Zealand GeoGuessr guide image showing Wv Banner Bay Plenty">
 </div>
 {{% /tab %}}
 {{% tab "Carrizo (Arundo donax)" %}}
@@ -200,7 +200,7 @@ Hay cortavientos para proteger los cultivos del viento del océano, pero no tant
 Esta planta, común en la región mediterránea, crece a lo largo de las costas de la Isla Norte, especialmente cerca de Auckland {{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax (iNaturalist)" %}}. En el extremo sur, también se encuentra en la costa cerca de Christchurch.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg" alt="Arundo donax variegata j">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg" alt="New Zealand GeoGuessr guide image showing Arundo Donax Variegata J">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -220,7 +220,7 @@ Si ves una montaña similar al Monte Fuji, probablemente estés cerca del parque
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg" alt="Mountain mt egmont mt">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg" alt="New Zealand GeoGuessr guide image showing Mountain Mt Egmont Mt">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -230,7 +230,7 @@ Un sendero de ciclismo muy largo. A menudo se pueden ver objetos rojos {{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg" alt="Rail trail going north 0">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg" alt="New Zealand GeoGuessr guide image showing Rail Trail Going North 0">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -252,7 +252,7 @@ Tiene playas de arena oscura. Al igual que en el extremo sur de la Isla Sur, los
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Arcoíris después de la lluvia en Oban, Isla Stewart - panoramio.jpg" width="95%"></a></p><p>Por Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg#/media/File:Rainbow_after_rain_in_Oban,_Stewart_Island_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Rainbow_after_rain_in_Oban%2C_Stewart_Island_-_panoramio.jpg" alt="Wikimedia Commons photo showing Rainbow After Rain In Oban, Stewart Island Panoramio" width="95%"></a></p><p>Por Annette Teng, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=55942156">Enlace</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Isla White" %}}
@@ -262,7 +262,7 @@ Antiguo sitio de producción de azufre, abandonado debido a desastres volcánico
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%" alt="Derelict sulphur factory building">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Derelict Sulphur Factory Building">
 </div>
 {{% /tab %}}
 {{% tab "Islas Antípodas" %}}
@@ -272,7 +272,7 @@ Patrimonio de la humanidad que alberga colonias de pingüinos. Es un área restr
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%" alt="Antipodes penguin">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%" alt="New Zealand GeoGuessr guide image showing Antipodes Penguin">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

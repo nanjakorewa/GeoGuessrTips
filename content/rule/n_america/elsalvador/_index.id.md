@@ -33,7 +33,7 @@ flag_height: "400px"
 Pelat nomor sering terlihat berwarna biru muda.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/elsalvador/roadsign.jpg" width="90%" alt="Roadsign">
+<img src="/rule/n_america/elsalvador/roadsign.jpg" width="90%" alt="Elsalvador GeoGuessr guide image showing Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

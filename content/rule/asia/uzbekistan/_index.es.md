@@ -31,7 +31,7 @@ Las mezquitas y madrasas lucen las famosas baldosas azul turquesa conocidas como
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/uzbekistan/shohizinda_necropolis_samarkand_196892.jpg" width="95%" alt="Shohizinda necropolis samarkand 196892">
+<img src="/rule/asia/uzbekistan/shohizinda_necropolis_samarkand_196892.jpg" width="95%" alt="Uzbekistan GeoGuessr guide image showing Shohizinda Necropolis Samarkand 196892">
 </div>
 
 {{% notice tip %}}
@@ -39,7 +39,7 @@ En muchas ventanas, arcos y puertas se emplean tonos azul claro{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Bukhara_Arabon_Street.jpg#/media/File:Bukhara_Arabon_Street.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Bukhara_Arabon_Street.jpg" alt="Bukhara Arabon Street.jpg" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Ymblanter" title="User:Ymblanter">Ymblanter</a> - Obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98801499">enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Bukhara_Arabon_Street.jpg#/media/File:Bukhara_Arabon_Street.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Bukhara_Arabon_Street.jpg" alt="Wikimedia Commons photo showing Bukhara Arabon Street" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Ymblanter" title="User:Ymblanter">Ymblanter</a> - Obra propia, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=98801499">enlace</a></p>
 </div>
 
 

@@ -48,7 +48,7 @@ Hay muchos bolardos en las intersecciones y cruces de carreteras.{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/russia/intersection.jpg" width="90%" alt="Intersection">
+<img src="/rule/asia/russia/intersection.jpg" width="90%" alt="Russia GeoGuessr guide image showing Intersection">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size: 0.8em;" >
@@ -59,11 +59,11 @@ Por <a href="//commons.wikimedia.org/w/index.php?title=User:A._L._(loading)&amp;
 Gazprom es la empresa de producción y suministro de gas natural más grande del mundo y es una empresa estatal rusa.Gazprom también es un accionista importante de Nord Stream.{{% goto "../kyrgyzstan/" "Kirguistán" %}}También hay una gasolinera.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Газпром"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jessaerons/49773757582/in/photolist-2iQkw3b-2iQiPCj-6JRevJ-2iBBD2m-Aq3cy-Aq3cD-Aq3cT-9sVdms-2363C7s-2iQktYm-6TZzBT-piLgac-FedVqw-8LZag8-23yo3qY-JqgnGr-FedVqb-7szv4o-Aq3cM-ekEcuu-8zkyHA-eLUpCV-8PTt8P-Aci6H-zxAHL-zxAHz-zxAHQ-zxAHH-eM6N5E-eLUpHn-e6YV1k-cYihE5-guTKfw-RYxSUh-ekyrGe-qJajmH-7VbprZ-x7NppF-ek36Vh-ejwFYW-eLV6ug-h92USQ-eLUpL4-zxAHE-eiyxUu-SGsH66-AHGrm-AHGrp-AHGrn-2ejg8FC" title="Газпром"><img src="https://live.staticflickr.com/65535/49773757582_8387ddab3d.jpg" width="500" height="333" alt="Image from live.staticflickr.com showing 49773757582 8387ddab3d"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/russia/Gazprom_Avia_Logo.svg" width="400px" alt="Gazprom Avia Logo">
+<img src="/rule/asia/russia/Gazprom_Avia_Logo.svg" width="400px" alt="Russia GeoGuessr guide image showing Gazprom Avia Logo">
 </div>
 
 {{% notice tip %}}
@@ -111,14 +111,14 @@ tubería a lo largo de la cerca
 {{% tabs %}}
 {{% tab "Especies de árboles dominantes" %}}
 <div class="googlemap-if unclickable-area" >
-<img src="/rule/asia/russia/2023-04-23-19-40-50.png" alt="2023 04 23 19 40 50" />
+<img src="/rule/asia/russia/2023-04-23-19-40-50.png" alt="Russia GeoGuessr guide image showing 2023 04 23 19 40 50" />
 <div class="description-wide">
 Tenga en cuenta que la distribución real no es tan simple como ésta, sino que tiene una gradación.(Fuente: “Prólogo: Desarrollo regional de la circulación y la convivencia desde la perspectiva del espacio territorial nacional” Ministerio del Ambiente, <a href="https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html">Enlace fuente</a>, disponible el 1 de abril de 2023)
 </div>
 </div>
 
 <div class="googlemap-if unclickable-area" >
-<img src="/rule/asia/russia/2023-04-23-19-56-08.png" alt="2023 04 23 19 56 08" />
+<img src="/rule/asia/russia/2023-04-23-19-56-08.png" alt="Russia GeoGuessr guide image showing 2023 04 23 19 56 08" />
 <div class="description-wide">
 Balashov, I., et al. "Sistema de información Vega-Les. Características actuales y evolución futura". Serie de conferencias del IOP: Ciencias de la Tierra y el Medio Ambiente. vol. 507. No. 1. Publicaciones IOP, 2020.
 </div>
@@ -216,7 +216,7 @@ Se dice que el abedul Betula abunda en la península de Kamchatka.Si el color de
 en la zona roja <span class="quiz">suelo negro</span>(Imagen de Naciones Unidas, dominio público).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/russia/2023-04-27-21-39-12.png" alt="2023 04 27 21 39 12" />
+<img src="/rule/asia/russia/2023-04-27-21-39-12.png" alt="Russia GeoGuessr guide image showing 2023 04 27 21 39 12" />
 </div>
 
 <div class="googlemap-if">

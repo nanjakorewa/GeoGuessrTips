@@ -35,10 +35,10 @@ Black duct tape wrapped around the <span class="quiz">front right corner</span> 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car in Ghana" />
+<img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Ghana GeoGuessr guide image showing Google Car" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Gc bar">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Ghana GeoGuessr guide image showing Gc Bar">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -58,7 +58,7 @@ Taxi paint designs are distinctive {{% ex "https://maps.app.goo.gl/zModPxBNsSaL1
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Ghana GeoGuessr guide image showing Mitsubishi Taxi Ghana" />
 </div>
 
 {{% notice tip %}}
@@ -66,11 +66,11 @@ Small shops that appear to be lottery stands (red, yellow, and green boxes on th
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="a walk to Makola Market"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/tossy_aka_toshi/14313740901/" title="a walk to Makola Market"><img src="https://live.staticflickr.com/5512/14313740901_d9d6f1f24f_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 14313740901 d9d6f1f24f C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="Ghana GeoGuessr guide image showing National Lottery Authority Logo" />
 </div>
 
 {{% /tab %}}
@@ -107,7 +107,7 @@ Small shops that appear to be lottery stands (red, yellow, and green boxes on th
 {{% tabs %}}
 {{% tab "Oil Palm" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="20230522 palm" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="Ghana GeoGuessr guide image showing 20230522 Palm" />
 </div>
 {{% notice tip %}}
 Oil palms and banana trees are common in the southern region. If these trees are absent, consider the northern region.
@@ -115,7 +115,7 @@ Oil palms and banana trees are common in the southern region. If these trees are
 {{% /tab %}}
 {{% tab "Area Codes" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/ghana_regional_phone_codes.jpg" alt="Ghana Area Codes" width="70%" />
+<img src="/rule/africa/ghana/ghana_regional_phone_codes.jpg" alt="Ghana GeoGuessr guide image showing Ghana Regional Phone Codes" width="70%" />
 </div>
 {{% notice tip %}}
 While it's helpful to remember area codes, they may not be visible outside urban areas. Mobile numbers are more common, so it may be better to focus on recognizing city names, regional vegetation, and overall atmosphere. If you happen to see a fax number, use it as a reference.
@@ -123,7 +123,7 @@ While it's helpful to remember area codes, they may not be visible outside urban
 {{% /tab %}}
 {{% tab "Vegetation" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/2023-09-02-20-28-52.png" alt="Ghana Vegetation Map" width="500px" />
+<img src="/rule/africa/ghana/2023-09-02-20-28-52.png" alt="Ghana GeoGuessr guide image showing 2023 09 02 20 28 52" width="500px" />
 </div>
 
 {{% notice tip %}}
@@ -144,7 +144,7 @@ In my experience, if the ground is more exposed or if there are many shrubs, it 
 The white parts of this map indicate areas with high mountains {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana GeoGuessr guide image showing Ghana Physical Map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

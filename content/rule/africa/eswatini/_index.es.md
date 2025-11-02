@@ -39,7 +39,7 @@ En esta regiﾃｳn crece una gran cantidad de hierba fina como esta: {{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/africa/eswatini/road.png" alt="Road" /></p>
+<p><img src="/rule/africa/eswatini/road.png" alt="Eswatini GeoGuessr guide image showing Road" /></p>
 <p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Subido por <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Enlace</a></p>
 </div>
 
@@ -48,7 +48,7 @@ Las placas de matrﾃｭcula suelen ser blancas con verde lima: {{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg#/media/File:SZ-manzini-zufahrt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg" alt="SZ-manzini-zufahrt.jpg" width="95%"></a></p><p>Por Usuario: Bgabel en wikivoyage compartido, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22958562">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:SZ-manzini-zufahrt.jpg#/media/File:SZ-manzini-zufahrt.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/SZ-manzini-zufahrt.jpg" alt="Wikimedia Commons photo showing Sz Manzini Zufahrt" width="95%"></a></p><p>Por Usuario: Bgabel en wikivoyage compartido, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=22958562">Enlace</a></p>
 </div>
 
 {{% lb 50 %}}
@@ -73,7 +73,7 @@ El lado occidental del paﾃｭs es una regiﾃｳn alta (altitud de 1500 m), mi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png" alt="2023 04 21 05 06 55">
+<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png" alt="Eswatini GeoGuessr guide image showing 2023 04 21 05 06 55">
 </div>
 
 {{% /tab %}}
@@ -94,7 +94,7 @@ El lado occidental del paﾃｭs es una regiﾃｳn alta (altitud de 1500 m), mi
 En el Highveld, <span class="quiz">hay bosques de pinos y eucaliptos utilizados para la silvicultura</span>, plantados en zonas especﾃｭficas {{% ex "https://maps.app.goo.gl/QEddaQmeU1gzrJFt8" %}}. Incluso si no hay bosques visibles, puede haber seﾃｱales de tala reciente {{% ex "https://maps.app.goo.gl/zRoXXcfkBWEBb68b9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/safahovinen/39263746285/" title="Close to Piggs Peak"><img src="https://live.staticflickr.com/4670/39263746285_1232779115_c.jpg" width="800" height="533" alt="Close to Piggs Peak"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/safahovinen/39263746285/" title="Close to Piggs Peak"><img src="https://live.staticflickr.com/4670/39263746285_1232779115_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 39263746285 1232779115 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}

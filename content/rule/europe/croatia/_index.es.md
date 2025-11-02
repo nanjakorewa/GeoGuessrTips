@@ -51,16 +51,16 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/croatia/split_croatia_1.jpg" alt="Tienda Tisak" width="80%">
-<img src="/rule/europe/croatia/sanski_most5.jpg" alt="Supermercado Konzum" width="80%">
+<img src="/rule/europe/croatia/split_croatia_1.jpg" alt="Croatia GeoGuessr guide image showing Split Croatia 1" width="80%">
+<img src="/rule/europe/croatia/sanski_most5.jpg" alt="Croatia GeoGuessr guide image showing Sanski most5" width="80%">
 </div>
 
 {{% notice tip %}}
 Busca hidrantes <span class="quiz">grises</span> con estas siluetas. {{% ex "https://maps.app.goo.gl/AMmHBiaDFtHiP4HH6" "https://maps.app.goo.gl/g2qqL7da2hxLLmpp8" "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Hidrante gris"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Hidrante en Croacia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Image from live.staticflickr.com showing 9721208374 cea45cc06b W"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Image from live.staticflickr.com showing 19634605133 4666909443 W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -69,7 +69,7 @@ Hasta 2016 las matrículas eran blancas sin la franja azul de la UE, por lo que 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./plates.jpg" alt="Matrículas croatas" width="80%">
+<img src="./plates.jpg" alt="Croatia GeoGuessr guide image showing Plates" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Las barreras rojas y blancas de perfil marcado también están presentes en Serb
 El damero nacional aparece en escudos municipales y otros elementos urbanos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./checker_pattern.jpg" alt="Logotipo con damero croata" width="80%">
+<img src="./checker_pattern.jpg" alt="Croatia GeoGuessr guide image showing Checker Pattern" width="80%">
 </div>
 
 {{% /tab %}}
@@ -143,7 +143,7 @@ Los chevrones negros y rojos son habituales en las curvas.
 En la práctica verás nombres de ciudades con mucha más frecuencia que prefijos, pero conviene tenerlos presentes como pista adicional.
 {{% /notice %}}
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/europe/croatia/areacode.png" alt="Prefijos de Croacia"></div>
+<div class="unclickable"><img src="/rule/europe/croatia/areacode.png" alt="Croatia GeoGuessr guide image showing Areacode"></div>
 <p>Fuente: <a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom – Međunarodni promet</a></p>
 </div>
 {{% /tab %}}
@@ -162,7 +162,7 @@ En la práctica verás nombres de ciudades con mucha más frecuencia que prefijo
 {{% notice tip %}}
 La viticultura es la principal actividad de la isla; cerca del 15 % del suelo agrícola son viñedos. {{% ex "https://maps.app.goo.gl/SSWENqTiuXZhwL969" "https://maps.app.goo.gl/DqNBW2TBT3CkQvsN9" "https://maps.app.goo.gl/CDrhyrchMuPDJNdQ9" %}}
 {{% /notice %}}
-<img src="/rule/europe/croatia/vrbnicko_polje_1.jpg" alt="Viñedos en Vis">
+<img src="/rule/europe/croatia/vrbnicko_polje_1.jpg" alt="Croatia GeoGuessr guide image showing Vrbnicko Polje 1">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -47,7 +47,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/mpecero/39302631925/" title="."><img src="https://live.staticflickr.com/4748/39302631925_f221b47277_z.jpg" width="640" height="360" alt="."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/mpecero/39302631925/" title="."><img src="https://live.staticflickr.com/4748/39302631925_f221b47277_z.jpg" width="640" height="360" alt="Image from live.staticflickr.com showing 39302631925 f221b47277 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -56,11 +56,11 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./hilife.jpg" width="90%" alt="Hilife">
+<img src="./hilife.jpg" width="90%" alt="Taiwan GeoGuessr guide image showing Hilife">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./ok-logo.png" width="500px" alt="台湾のコンビニのロゴ" >
+<img src="./ok-logo.png" width="500px" alt="Taiwan GeoGuessr guide image showing Ok Logo" >
 </div>
 
 {{% notice tip %}}
@@ -68,7 +68,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Road">
+<img src="./road.jpg" width="90%" alt="Taiwan GeoGuessr guide image showing Road">
 </div>
 
 
@@ -77,7 +77,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg#/media/File:刘澳村_-_Liu'ao_Village_-_2014.09_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg" alt="刘澳村 - Liu'ao Village - 2014.09 - panoramio.jpg" width="90%"></a></p><p>By rheins, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59092839">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg#/media/File:刘澳村_-_Liu'ao_Village_-_2014.09_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/17/%E5%88%98%E6%BE%B3%E6%9D%91_-_Liu%27ao_Village_-_2014.09_-_panoramio.jpg" alt="Wikimedia Commons photo showing 刘澳村 Liu'ao Village 2014.09 Panoramio" width="90%"></a></p><p>By rheins, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59092839">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -85,7 +85,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tw_fw6_photo.jpg" alt="Tw fw6 photo">
+<img src="./tw_fw6_photo.jpg" alt="Taiwan GeoGuessr guide image showing Tw fw6 Photo">
 </div>
 
 {{% /tab %}}
@@ -95,7 +95,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tsmc_factory_hsinchu.jpg" alt="Tsmc factory hsinchu">
+<img src="./tsmc_factory_hsinchu.jpg" alt="Taiwan GeoGuessr guide image showing Tsmc Factory Hsinchu">
 </div>
 
 {{% /tab %}}
@@ -118,7 +118,7 @@ maps: [
 プレート下部に書かれた英語の先頭の文字がAに近ければ北でWに近ければ南。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p style="width:100%;"><a href="https://commons.wikimedia.org/wiki/File:Taipower_power_lines_pole_ID_on_Fu_1st_Street,_Qidu_District_20100723.jpg#/media/File:Taipower_power_lines_pole_ID_on_Fu_1st_Street,_Qidu_District_20100723.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Taipower_power_lines_pole_ID_on_Fu_1st_Street%2C_Qidu_District_20100723.jpg" alt="Taipower power lines pole ID on Fu 1st Street, Qidu District 20100723.jpg" height="640" width="480"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Solomon203" title="User:Solomon203">Solomon203</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10979816">Link</a></p>
+<p style="width:100%;"><a href="https://commons.wikimedia.org/wiki/File:Taipower_power_lines_pole_ID_on_Fu_1st_Street,_Qidu_District_20100723.jpg#/media/File:Taipower_power_lines_pole_ID_on_Fu_1st_Street,_Qidu_District_20100723.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Taipower_power_lines_pole_ID_on_Fu_1st_Street%2C_Qidu_District_20100723.jpg" alt="Wikimedia Commons photo showing Taipower Power Lines Pole Id On Fu 1st Street, Qidu District 20100723" height="640" width="480"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Solomon203" title="User:Solomon203">Solomon203</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=10979816">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
@@ -126,7 +126,7 @@ maps: [
 市外局番が南に行くほど大きくなる。（画像出典 By Postal zone of Taiwan.svg: Fizikanauk, Luuvathis file: Furfur - This file was derived from: Postal zone of Taiwan.svg, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68299684">Wikimedia Commons</a>）
 {{% /notice %}}
 <div class="googlemap-if">
-<a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="550px" alt="Telephone area codes in Taiwan, 台湾の市外局番" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
+<a title="Postal zone of Taiwan.svg: Fizikanauk, Luuva this file: Furfur, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Telephone_area_codes_in_Taiwan.svg"><img width="550px" alt="Wikimedia Commons photo showing 512px Telephone Area Codes In Taiwan.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Telephone_area_codes_in_Taiwan.svg/512px-Telephone_area_codes_in_Taiwan.svg.png"></a>
 </div>
 {{% /tab %}}
 {{% tab "ヤシの木" %}}

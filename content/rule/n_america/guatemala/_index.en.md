@@ -36,7 +36,7 @@ sc: [
 The “chicken buses” are colorful and roof-racked for cargo. {{% ex "https://maps.app.goo.gl/wmuD1XzwFinYqRgo7" "https://maps.app.goo.gl/tNAVU7Wj5oB61iiZ9" %}} Locally they’re called la camioneta, la burra, or simply el bus. They sometimes carry livestock—hence the nickname—and may have extra space for baggage on top. {{% ref "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/" "A Traveler’s Guide to the Chicken Bus in Guatemala" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/guatemala/chicken_bus2.jpg" width="590px" alt="Guatemalan chicken bus">
+<img src="/rule/n_america/guatemala/chicken_bus2.jpg" width="590px" alt="Guatemala GeoGuessr guide image showing Chicken bus2">
 </div>
 
 {{% notice tip %}}
@@ -71,13 +71,13 @@ Guatemala features a distinctive Google Car. {{% ex "https://maps.app.goo.gl/4jH
 {{% tabs %}}
 {{% tab "Topography" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Relief_map_of_Guatemala.jpg#/media/File:Relief_map_of_Guatemala.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Relief_map_of_Guatemala.jpg" alt="Relief map of Guatemala" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92" title="User:Виктор В">Виктор В</a> – based on <a href="//commons.wikimedia.org/wiki/File:Guatemala_location_map.svg" title="File:Guatemala location map.svg">Guatemala location map.svg</a> and ETOPO1-SRTM30, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12090110">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Relief_map_of_Guatemala.jpg#/media/File:Relief_map_of_Guatemala.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Relief_map_of_Guatemala.jpg" alt="Wikimedia Commons photo showing Relief Map Of Guatemala" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%92%D0%B8%D0%BA%D1%82%D0%BE%D1%80_%D0%92" title="User:Виктор В">Виктор В</a> – based on <a href="//commons.wikimedia.org/wiki/File:Guatemala_location_map.svg" title="File:Guatemala location map.svg">Guatemala location map.svg</a> and ETOPO1-SRTM30, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12090110">Link</a></p>
 </div>
 
 {{% /tab %}}
 {{% tab "Oil palm" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/guatemala/2023-05-27-19-08-14.png" width="95%" alt="Oil palm map">
+<img src="/rule/n_america/guatemala/2023-05-27-19-08-14.png" width="95%" alt="Guatemala GeoGuessr guide image showing 2023 05 27 19 08 14">
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Lívingston is only accessible by boat; expect palm trees and ocean views to the
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/guatemala/livingston_guatemala.jpg" width="95%" alt="Lívingston waterfront">
+<img src="/rule/n_america/guatemala/livingston_guatemala.jpg" width="95%" alt="Guatemala GeoGuessr guide image showing Livingston Guatemala">
 </div>
 
 {{% /tab %}}
@@ -116,7 +116,7 @@ A 17th-century Spanish fortress guarding the lake. {{% ref "https://es.wikipedia
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/guatemala/Castillo_De_San_Felipe.jpg" width="90%" alt="Castillo de San Felipe de Lara">
+<img src="/rule/n_america/guatemala/Castillo_De_San_Felipe.jpg" width="90%" alt="Guatemala GeoGuessr guide image showing Castillo De San Felipe">
 </div>
 
 {{% /tab %}}
@@ -127,8 +127,8 @@ Walk among the UNESCO-listed ruins of the Maya metropolis. {{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/guatemala/guatemala_tikal_maya_civilization.jpg" width="90%" alt="Tikal temple">
-<img src="/rule/n_america/guatemala/mayan_pyramid_guatemala.jpg" width="90%" alt="Maya pyramid">
+<img src="/rule/n_america/guatemala/guatemala_tikal_maya_civilization.jpg" width="90%" alt="Guatemala GeoGuessr guide image showing Guatemala Tikal Maya Civilization">
+<img src="/rule/n_america/guatemala/mayan_pyramid_guatemala.jpg" width="90%" alt="Guatemala GeoGuessr guide image showing Mayan Pyramid Guatemala">
 </div>
 
 {{% /tab %}}

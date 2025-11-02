@@ -38,9 +38,9 @@ sc: [
 Placas sem faixa azul e com uma borda levemente avermelhada são típicas{{% ex "https://maps.app.goo.gl/TYTenUeYETwMQNYf7" %}}{{% by "https://youtu.be/251QkxWNtfU?t=65" "YouTube" "【GeoGuessr】すべての国・地域解説：忘れられた国" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/jersey/1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px" alt="1184px Visite du Branchage Saint Hélier 2013 e">
-<img src="/rule/europe/jersey/719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px" alt="719px Lieutenant Governor of Jersey car J4">
-<img src="/rule/europe/jersey/503px-Jersey_Marathon_2011_14.jpg" width="330px" alt="503px Jersey Marathon 2011 14">
+<img src="/rule/europe/jersey/1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px" alt="Jersey GeoGuessr guide image showing 1184px Visite Du Branchage Saint Hélier 2013 E">
+<img src="/rule/europe/jersey/719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px" alt="Jersey GeoGuessr guide image showing 719px Lieutenant Governor Of Jersey Car J4">
+<img src="/rule/europe/jersey/503px-Jersey_Marathon_2011_14.jpg" width="330px" alt="Jersey GeoGuessr guide image showing 503px Jersey Marathon 2011 14">
 </div>
 
 {{% lb 50 %}}
@@ -61,8 +61,8 @@ As linhas de borda e as linhas de parada são geralmente <span class="quiz">amar
 Apesar de pequena, Jersey abriga diversas sedes bancárias como Barclays e Royal Bank of Canada{{% ref "https://www.citigroup.jp/jp/index.html" "Citi - Japan" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/jersey/551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" alt="551px Barclays, Saint Hélyi, Jèrri" />
-<img src="/rule/europe/jersey/546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" alt="546px Banque Rouoyale du Cannada, Grand' Rue, Saint Hélyi, Jèrri" />
+<img src="/rule/europe/jersey/551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" alt="Jersey GeoGuessr guide image showing 551px Barclays, Saint Hélyi, Jèrri" />
+<img src="/rule/europe/jersey/546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" alt="Jersey GeoGuessr guide image showing 546px Banque Rouoyale Du Cannada, Grand' Rue, Saint Hélyi, Jèrri" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ Há placas de ciclovias com o formato da ilha desenhado.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p style="margin-bottom:0"><a href="https://commons.wikimedia.org/wiki/File:Cycle_route_signs_in_St_Peter%27s_valley.jpg#/media/File:Cycle_route_signs_in_St_Peter's_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cycle_route_signs_in_St_Peter%27s_valley.jpg" alt="Cycle route signs in St Peter's valley.jpg" width="70%"></a></p>
+<p style="margin-bottom:0"><a href="https://commons.wikimedia.org/wiki/File:Cycle_route_signs_in_St_Peter%27s_valley.jpg#/media/File:Cycle_route_signs_in_St_Peter's_valley.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b0/Cycle_route_signs_in_St_Peter%27s_valley.jpg" alt="Wikimedia Commons photo showing Cycle Route Signs In St Peter's Valley" width="70%"></a></p>
 <p>Por <a href="//commons.wikimedia.org/wiki/User:Danrok" title="User:Danrok">Danrok</a> - <span class="int-own-work" lang="en">Obra própria</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90584925">Link</a></p>
 </div>
 {{% /tab %}}

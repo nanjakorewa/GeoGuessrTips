@@ -29,7 +29,7 @@ South Sudan’s GDP per capita ranks among the lowest in the world as of 2024, a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%" alt="1083px Juba sudan">
+<img src="/rule/africa/southsudan/1083px-Juba_sudan.jpg" width="90%" alt="Southsudan GeoGuessr guide image showing 1083px Juba Sudan">
 </div>
 
 {{% notice tip %}}
@@ -37,7 +37,7 @@ Look for dwellings with distinctive conical roofs{{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Houses,_south_of_Bor_Town.jpg#/media/File:Houses,_south_of_Bor_Town.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Houses%2C_south_of_Bor_Town.jpg" alt="Houses, south of Bor Town (Brendan Tuttle, 2010)" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Mr_leroy_playpus" title="User:Mr leroy playpus">Mr leroy playpus</a> - Own work, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148848116">link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Houses,_south_of_Bor_Town.jpg#/media/File:Houses,_south_of_Bor_Town.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Houses%2C_south_of_Bor_Town.jpg" alt="Wikimedia Commons photo showing Houses, South Of Bor Town" width="90%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Mr_leroy_playpus" title="User:Mr leroy playpus">Mr leroy playpus</a> - Own work, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=148848116">link</a></p>
 </div>
 
 {{% /tab %}}

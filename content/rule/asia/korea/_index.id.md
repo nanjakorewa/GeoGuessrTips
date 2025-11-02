@@ -33,28 +33,28 @@ import_jquery_36: true
 Bahasa Korea digunakan, dan tiang listrik memiliki pola <b>miring</b> berwarna kuning dan hitam.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/marioaprea/33183839158/in/photolist-SykRgU-29NLAdC-Mqf4Kb-21ReMLF-25u6Lqw-MD3hqs-qWc2A5-S1LX3L-2aYcMBn-H2r87v-23vhGsC-2a1aUVj-28cYKtj-26BjrkU-2dUSvHX-EXfXjo-2bAJ6XU-D17FY6-28fh7zZ-GeD1Lr-21KjekK-KtnNbs-WRK8Ao-GEqvcZ-pkdS35-26ku5ke-Q2TNbH-23pkjfy-2a6aFL4-L4H7mU-G5xpAj-277aZhd-oSQC2w-MCL3en-Z1hJUj-HXjGad-21RgVZj-2bU8FzH-2adUKdJ-2e5bucb-Z3KE7Z-27um1zx-nA1fpu-22jtCab-NM1RcN-216Dysc-26Bq3fU-FNKXnC-i7XJF-FtXU81" title="Seoul shop"><img src="https://live.staticflickr.com/7862/33183839158_b272d89ed8_z.jpg" width="640" height="427" alt="Seoul shop"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/marioaprea/33183839158/in/photolist-SykRgU-29NLAdC-Mqf4Kb-21ReMLF-25u6Lqw-MD3hqs-qWc2A5-S1LX3L-2aYcMBn-H2r87v-23vhGsC-2a1aUVj-28cYKtj-26BjrkU-2dUSvHX-EXfXjo-2bAJ6XU-D17FY6-28fh7zZ-GeD1Lr-21KjekK-KtnNbs-WRK8Ao-GEqvcZ-pkdS35-26ku5ke-Q2TNbH-23pkjfy-2a6aFL4-L4H7mU-G5xpAj-277aZhd-oSQC2w-MCL3en-Z1hJUj-HXjGad-21RgVZj-2bU8FzH-2adUKdJ-2e5bucb-Z3KE7Z-27um1zx-nA1fpu-22jtCab-NM1RcN-216Dysc-26Bq3fU-FNKXnC-i7XJF-FtXU81" title="Seoul shop"><img src="https://live.staticflickr.com/7862/33183839158_b272d89ed8_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 33183839158 b272d89ed8 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Banyak ditemukan pohon pinus {{% ex "https://goo.gl/maps/3zTkaxuoTkprerHk6" "https://goo.gl/maps/ZesPrE19f3cJ8rDu9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/korea/republic_korea_stone_wall.jpg" width="90%" alt="Republic korea stone wall">
+<img src="/rule/asia/korea/republic_korea_stone_wall.jpg" width="90%" alt="Korea GeoGuessr guide image showing Republic Korea Stone Wall">
 </div>
 
 {{% notice tip %}}
 Terdapat bollard dengan bentuk yang khas {{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/korea/korean_roadside_in_mountainous.jpg" width="90%" alt="Korean roadside in mountainous">
+<img src="/rule/asia/korea/korean_roadside_in_mountainous.jpg" width="90%" alt="Korea GeoGuessr guide image showing Korean Roadside In Mountainous">
 </div>
 
 {{% notice tip %}}
 Rambu peringatan berwarna oranye {{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/korea/korean_sign_traffic_signs.jpg" width="95%" alt="Korean sign traffic signs">
+<img src="/rule/asia/korea/korean_sign_traffic_signs.jpg" width="95%" alt="Korea GeoGuessr guide image showing Korean Sign Traffic Signs">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ Rambu peringatan berwarna oranye {{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7
 Terdapat daerah pegunungan di bagian pedalaman timur laut dan barat daya.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="/rule/asia/korea/topolgraphic.png" width="500px" alt="Topolgraphic"><p>
+<p><img src="/rule/asia/korea/topolgraphic.png" width="500px" alt="Korea GeoGuessr guide image showing Topolgraphic"><p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2665772">Link</a></p>
 </div>
 {{% /tab %}}
@@ -96,8 +96,8 @@ Pulau vulkanik berbentuk oval dengan tanah yang cenderung berwarna hitam, mirip 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/korea/1080px-Jeju_Island_3D_2012.jpg" width="600px" alt="1080px Jeju Island 3D 2012">
-<img src="/rule/asia/korea/jeju_island_korea_road.jpg" width="600px" alt="Jeju island korea road">
+<img src="/rule/asia/korea/1080px-Jeju_Island_3D_2012.jpg" width="600px" alt="Korea GeoGuessr guide image showing 1080px Jeju Island 3D 2012">
+<img src="/rule/asia/korea/jeju_island_korea_road.jpg" width="600px" alt="Korea GeoGuessr guide image showing Jeju Island Korea Road">
 </div>
 {{% /tab %}}
 {{% tab "Hanok" %}}
@@ -106,8 +106,8 @@ Meskipun gambar rumah biasanya tidak terlihat dari luar, gaya tradisional Hanok 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/korea/960px-Korea-Seoul-Namsangol-03.jpg" width="350px" alt="960px Korea Seoul Namsangol 03">
-<img src="/rule/asia/korea/477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px" alt="477px Korea Gangneung Seongyojang 02">
+<img src="/rule/asia/korea/960px-Korea-Seoul-Namsangol-03.jpg" width="350px" alt="Korea GeoGuessr guide image showing 960px Korea Seoul Namsangol 03">
+<img src="/rule/asia/korea/477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px" alt="Korea GeoGuessr guide image showing 477px Korea Gangneung Seongyojang 02">
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Rumah di bagian selatan, tetapi tembok dalam rumah biasanya tidak terlihat dari 
 Hampir seluruh area, kecuali di bagian tenggara yang sedikit memiliki jalan, adalah lahan pertanian. Tanah dan dinding batu berwarna hitam, mirip dengan Jeju, tetapi hampir tidak ada hutan maupun gunung tinggi. {{% ex "https://maps.app.goo.gl/V4yAFVSjnbBf1JKbA" "https://maps.app.goo.gl/kYEQHvdxcrT731FW7" "https://maps.app.goo.gl/BuNwwejxvTr4YZN88" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/korea/jeju_island_nature_korea.jpg" alt="Jeju island nature korea">
+<img src="/rule/asia/korea/jeju_island_nature_korea.jpg" alt="Korea GeoGuessr guide image showing Jeju Island Nature Korea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

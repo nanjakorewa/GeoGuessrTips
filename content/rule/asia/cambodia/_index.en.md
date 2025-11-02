@@ -34,14 +34,14 @@ is_has_distinctive_googlecar: true
 Khmer (ភាសាខ្មែរ) is widely spoken, but English is also used in urban areas, and place names are written on bollards in these languages. Some bollards are painted white and red.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Sihanoukville Province. Tumnob Rolok road.jpg" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg#/media/File:Sihanoukville_Province._Tumnob_Rolok_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d8/Sihanoukville_Province._Tumnob_Rolok_road.jpg" alt="Wikimedia Commons photo showing Sihanoukville Province. Tumnob Rolok Road" height="442" width="1280"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Knopik-som" title="User:Knopik-som">Dmitry Makeev</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=78619081">Link</a></p>
 </div>
 
 {{% notice tip %}}
 Many rural areas in Cambodia have houses built on stilts. Cambodia has a tropical monsoon climate with high temperatures and humidity throughout the year. Stilts protect from the heat during the day and provide a resting space for cows and buffaloes at night. They are also said to protect against flooding from heavy rains during the rainy season{{% ref "http://www.sendai-cambodia.com/img-ryoujikan/kawaraban-no6-20210324.pdf" "2021．April1 在仙台カンボジア王国名誉領事館 瓦版 NO.6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Cambodia Rural House"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/buzzhoffman/16643536619/" title="Cambodia Rural House"><img src="https://live.staticflickr.com/7619/16643536619_4de2b44f4b_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 16643536619 4de2b44f4b Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -50,7 +50,7 @@ Companies that are well-known in Cambodia are depicted on the parasols and billb
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<div class="unclickable"><img src="/rule/asia/cambodia/2023-06-09-01-40-05.png" width="590" alt="2023 06 09 01 40 05" /></div>
+<div class="unclickable"><img src="/rule/asia/cambodia/2023-06-09-01-40-05.png" width="590" alt="Cambodia GeoGuessr guide image showing 2023 06 09 01 40 05" /></div>
 </div>
 
 {{% notice note %}}
@@ -66,7 +66,7 @@ I ordered Angkor beer from Cambodia. It was so delicious.
 There are many Buddhists and many buildings related to Buddhism. There are also shrines dedicated to land deities and ancestor deities, and they are often placed toward the house{{% ref "https://www.re-port.net/article/column/0000056352/" "vol.348 身近な家の神様たち【カンボジア】" %}}. The small golden shrine in the photo is this.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Cambodian house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/7930283@N04/15775881556/" title="Cambodian house"><img src="https://live.staticflickr.com/5614/15775881556_a5c1b4503a_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 15775881556 a5c1b4503a Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ There are trees that look like this.
 There are similar-looking trees throughout warmer regions such as {{% goto "../../cs_america/brazil/" "brazil" %}}, but in Asia, Cambodia is ubiquitous. The color of the soil is also distinctive{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/cambodia_asia_siem_reap.jpg" width="90%" alt="Cambodia asia siem reap" />
+<img src="/rule/asia/cambodia/cambodia_asia_siem_reap.jpg" width="90%" alt="Cambodia GeoGuessr guide image showing Cambodia Asia Siem Reap" />
 </div>
 
 {{% /tab %}}
@@ -139,7 +139,7 @@ Cornfields and rice fields are almost non-existent on the east side (east of roa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px" alt="Cambodia Rice">
+<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px" alt="Cambodia GeoGuessr guide image showing Cambodia Rice">
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}

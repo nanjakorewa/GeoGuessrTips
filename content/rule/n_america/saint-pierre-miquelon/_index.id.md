@@ -37,7 +37,7 @@ Tiang listrik bergaya Prancis, bendera trikolor, rumah warna-warni, dan dataran 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/saint-pierre-miquelon/arena_for_that_basque.jpg" width="95%" alt="Arena for that basque">
+<img src="/rule/n_america/saint-pierre-miquelon/arena_for_that_basque.jpg" width="95%" alt="Saint Pierre Miquelon GeoGuessr guide image showing Arena For That Basque">
 </div>
 
 {{% notice tip %}}Mobil Google sangat mudah dikenali{{% ex "https://maps.app.goo.gl/vLe5GPWMZMtNiHRu9" %}}{{% /notice %}}

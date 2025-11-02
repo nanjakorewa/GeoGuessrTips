@@ -28,7 +28,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./alsherian.jpg" width="90%" alt="Alsherian">
+<img src="./alsherian.jpg" width="90%" alt="Sudan GeoGuessr guide image showing Alsherian">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Sudan_Sorghum.png" width="90%" alt="Sudan Sorghum">
+<img src="./Sudan_Sorghum.png" width="90%" alt="Sudan GeoGuessr guide image showing Sudan Sorghum">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

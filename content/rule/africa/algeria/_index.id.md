@@ -29,7 +29,7 @@ Tiang utilitas mirip dengan yang ada di {{% goto "../../europe/france/" "Prancis
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/lota_ouzemour.jpg" width="95%" alt="Lota ouzemour">
+<img src="/rule/africa/algeria/lota_ouzemour.jpg" width="95%" alt="Algeria GeoGuessr guide image showing Lota Ouzemour">
 </div>
 
 {{% notice tip %}}
@@ -37,7 +37,7 @@ Seperti di {{% goto "../../europe/france/" "Prancis" %}}, pelat kuning kecil kad
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/haouayet.jpg" width="95%" alt="Haouayet">
+<img src="/rule/africa/algeria/haouayet.jpg" width="95%" alt="Algeria GeoGuessr guide image showing Haouayet">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Pegunungan Atlas berada di utara dan Pegunungan Hoggar (Ahaggar) di selatan, seh
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/algeria_hoggar_assekrem_volcano_0.jpg" width="95%" alt="Algeria hoggar assekrem volcano 0">
+<img src="/rule/africa/algeria/algeria_hoggar_assekrem_volcano_0.jpg" width="95%" alt="Algeria GeoGuessr guide image showing Algeria Hoggar Assekrem Volcano 0">
 </div>
 
 {{% /tab %}}

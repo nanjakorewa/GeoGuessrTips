@@ -40,7 +40,7 @@ sc: [
 Bolivia has very few wooden houses.<span class="quiz">brick and cement</span> made of{{% ex "https://maps.app.goo.gl/UbaTMjMxfJgBtcnV8" "https://goo.gl/maps/EiEju5W7oxK3tmyb7" "https://maps.app.goo.gl/HtbUinqbuycYEDWUA" %}}.However, there are areas with different colors and areas with almost no buildings.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/txmx-2/31546038578/in/photolist-Q4BGdS-NwABE7-nAy112-CAGk9R-oJky3W-R9tvYz-2fcPuzR-HPnnQj-2cYNdWq-ZGQUUv-263YEpC-ARtLV4-yXQqKz-251ZxZd-YvWRwh-2cFZAKM-Yb1j3W-FqDEYZ-Gr3d1L-23tnUNz-2cYNghN-jWBpJZ-bALs1W-2cYNjKE-F9iKHa-yFbTfq-23tnVvr-aUQKNK-5WVaG2-bzuBUi-dZxfJm-71Csd-G6aLMz-yFjjFk-aUQHix-24BUKTz-aRT82v-99XKrH-9grn6i-H9G7mR-SGNbYU-99XZtk-o9MgqJ-yFedeU-233Wr6L-9vnD2Z-4pPPS1-pDK2Dv-fPRTgp-2fC1Cow" title="-"><img src="https://live.staticflickr.com/65535/31546038578_d2db67d211_c.jpg" width="800" height="287" alt="-"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/txmx-2/31546038578/in/photolist-Q4BGdS-NwABE7-nAy112-CAGk9R-oJky3W-R9tvYz-2fcPuzR-HPnnQj-2cYNdWq-ZGQUUv-263YEpC-ARtLV4-yXQqKz-251ZxZd-YvWRwh-2cFZAKM-Yb1j3W-FqDEYZ-Gr3d1L-23tnUNz-2cYNghN-jWBpJZ-bALs1W-2cYNjKE-F9iKHa-yFbTfq-23tnVvr-aUQKNK-5WVaG2-bzuBUi-dZxfJm-71Csd-G6aLMz-yFjjFk-aUQHix-24BUKTz-aRT82v-99XKrH-9grn6i-H9G7mR-SGNbYU-99XZtk-o9MgqJ-yFedeU-233Wr6L-9vnD2Z-4pPPS1-pDK2Dv-fPRTgp-2fC1Cow" title="-"><img src="https://live.staticflickr.com/65535/31546038578_d2db67d211_c.jpg" width="800" height="287" alt="Image from live.staticflickr.com showing 31546038578 d2db67d211 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -48,7 +48,7 @@ Bolivia has very few wooden houses.<span class="quiz">brick and cement</span> ma
 The sign stick <span class="quiz">thick square stick</span> is often made of{{% ex "https://maps.app.goo.gl/aWBeh2rt4WL38rFL7" "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://maps.app.goo.gl/QdHoQusynypdF2Vw9" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}.Sometimes there are also metal rods.{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/cs_america/bolivia/roadsign.jpg" width="90%" alt="Roadsign">
+<img src="/rule/cs_america/bolivia/roadsign.jpg" width="90%" alt="Bolivia GeoGuessr guide image showing Roadsign">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
@@ -60,7 +60,7 @@ Most cars have white or faint license plates.<span class="quiz">blue</span> look
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/147702203@N06/31566518493/in/photolist-Q6qEbR-5KgsLY-n7SDy7-EJsqo9-9vnsjx-7fa5R-c3zEnG-cUVQd-JUhBt-e3jSxs-R8nv4n-21Ga8JQ-BMyySC-gJJ1Wg-qQYYSN-sarZiv-YAwYgS-kqY1bi-2cFZyy2-drFzXP-2cYNfRh-PeWTQS-EKFT64-qsvNe1-p2GKve-Qjwg6M-3kcewF-85NQT5-at42ow-ddwTdJ-dKPpZe-bzEusq-717UGP-216ewiv-H5hnpt-zVuUxs-bzEu1w-accaUu-pt2ARA-24XMhQ9-86bY3s-du3Hkn-bQ4zgF-qWQc3w-dz2HDW-bp1cQL-Q3CxsW-po7Nrq-868Fmg-aT2WiK" title="La Paz - Bolivia"><img src="https://live.staticflickr.com/518/31566518493_c9d54c7c4c_z.jpg" width="640" height="480" alt="La Paz - Bolivia"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/147702203@N06/31566518493/in/photolist-Q6qEbR-5KgsLY-n7SDy7-EJsqo9-9vnsjx-7fa5R-c3zEnG-cUVQd-JUhBt-e3jSxs-R8nv4n-21Ga8JQ-BMyySC-gJJ1Wg-qQYYSN-sarZiv-YAwYgS-kqY1bi-2cFZyy2-drFzXP-2cYNfRh-PeWTQS-EKFT64-qsvNe1-p2GKve-Qjwg6M-3kcewF-85NQT5-at42ow-ddwTdJ-dKPpZe-bzEusq-717UGP-216ewiv-H5hnpt-zVuUxs-bzEu1w-accaUu-pt2ARA-24XMhQ9-86bY3s-du3Hkn-bQ4zgF-qWQc3w-dz2HDW-bp1cQL-Q3CxsW-po7Nrq-868Fmg-aT2WiK" title="La Paz - Bolivia"><img src="https://live.staticflickr.com/518/31566518493_c9d54c7c4c_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 31566518493 c9d54c7c4c Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -75,7 +75,7 @@ path paved with large stones{{% ex "https://maps.app.goo.gl/EDBqCWzFZRYCwFb4A" "
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg" width="90%" alt="19683170924 abbf5210de c">
+<img src="/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg" width="90%" alt="Bolivia GeoGuessr guide image showing 19683170924 abbf5210de C">
 </div>
 
 
@@ -84,8 +84,8 @@ The colors of the flag of Bolivia's socialist party (black-white-blue and white-
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/MAS_party_flag.svg.png" width="300px" style="margin-top:60px" alt="MAS party flag.svg">
-<img src="/rule/cs_america/bolivia/images.jpg" width="300px" style="margin:10px" alt="Images">
+<img src="/rule/cs_america/bolivia/MAS_party_flag.svg.png" width="300px" style="margin-top:60px" alt="Bolivia GeoGuessr guide image showing Mas Party flag.svg">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px" style="margin:10px" alt="Bolivia GeoGuessr guide image showing Images">
 </div>
 
 
@@ -98,7 +98,7 @@ There is a Wiphala flag and logo.{{% ex "https://maps.app.goo.gl/1pEnEcdd5bwp6vZ
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/bolivia/Banner_of_the_Qulla_Suyu.svg" width="500px" alt="Banner of the Qulla Suyu">
+<img src="/rule/cs_america/bolivia/Banner_of_the_Qulla_Suyu.svg" width="500px" alt="Bolivia GeoGuessr guide image showing Banner Of The Qulla Suyu">
 </div>
 {{% /tab %}}
 {{% tab "bollard" %}}
@@ -113,7 +113,7 @@ A major telecommunications company in Bolivia, a building that you can see fairl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/bolivia/images.jpg" width="300px" alt="Images">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px" alt="Bolivia GeoGuessr guide image showing Images">
 </div>
 
 
@@ -122,7 +122,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) is one of Bolivia's largest
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/bolivia/YPFB_Logo.svg" width="300px" alt="YPFB Logo">
+<img src="/rule/cs_america/bolivia/YPFB_Logo.svg" width="300px" alt="Bolivia GeoGuessr guide image showing Ypfb Logo">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -144,7 +144,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) is one of Bolivia's largest
 {{% tab "terrain" %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/bolivia/750px-Bolivia_Topography.png" width="90%" alt="750px Bolivia Topography" />
+<img src="/rule/cs_america/bolivia/750px-Bolivia_Topography.png" width="90%" alt="Bolivia GeoGuessr guide image showing 750px Bolivia Topography" />
 </div>
 {{% /tab %}}
 {{% tab "low altitude places" %}}
@@ -186,7 +186,7 @@ A road that extends northeast from La Paz.A road that passes through quite steep
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Yungas_Road.JPG#/media/File:Yungas_Road.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Yungas_Road.JPG" alt="Yungas Road.JPG" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Dr._Vladimir_Iv%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="User:Dr. Vladimir Iván (page does not exist)">Dr. Vladimir Iván</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=33690151">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Yungas_Road.JPG#/media/File:Yungas_Road.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a4/Yungas_Road.JPG" alt="Wikimedia Commons photo showing Yungas Road" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Dr._Vladimir_Iv%C3%A1n&amp;action=edit&amp;redlink=1" class="new" title="User:Dr. Vladimir Iván (page does not exist)">Dr. Vladimir Iván</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=33690151">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Ruta 4" %}}
@@ -195,7 +195,7 @@ There are many green and flat areas around Santa Cruz.{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="/rule/cs_america/bolivia/rn4-east.png" width="90%" alt="Rn4 east" /></div></p>
+<p><div class="unclickable"><img src="/rule/cs_america/bolivia/rn4-east.png" width="90%" alt="Bolivia GeoGuessr guide image showing rn4 East" /></div></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, Processed</p>
 </div>
 {{% /tab %}}
@@ -205,7 +205,7 @@ There is a lot of greenery, but there are more mountainous areas than RN4.{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Florida,_Bolivia_-_panoramio_-_vozachudo2004_(10).jpg#/media/File:Florida,_Bolivia_-_panoramio_-_vozachudo2004_(10).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Florida%2C_Bolivia_-_panoramio_-_vozachudo2004_%2810%29.jpg" alt="Florida, Bolivia - panoramio - vozachudo2004 (10).jpg" height="360" width="640"></a></p><p>By vozachudo2004, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52911602">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Florida,_Bolivia_-_panoramio_-_vozachudo2004_(10).jpg#/media/File:Florida,_Bolivia_-_panoramio_-_vozachudo2004_(10).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/20/Florida%2C_Bolivia_-_panoramio_-_vozachudo2004_%2810%29.jpg" alt="Wikimedia Commons photo showing Florida, Bolivia Panoramio vozachudo2004 (10)" height="360" width="640"></a></p><p>By vozachudo2004, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52911602">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Ruta 9" %}}
@@ -215,7 +215,7 @@ Please note that the scenery is completely different from the area around La Paz
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_9,_Bolivia.JPG#/media/File:Ruta_9,_Bolivia.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta_9%2C_Bolivia.JPG" alt="Ruta 9, Bolivia.JPG" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Grullab" title="User:Grullab">Grullab</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99513764">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ruta_9,_Bolivia.JPG#/media/File:Ruta_9,_Bolivia.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/Ruta_9%2C_Bolivia.JPG" alt="Wikimedia Commons photo showing Ruta 9, Bolivia" height="720" width="960"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Grullab" title="User:Grullab">Grullab</a> - <span class="int-own-work" lang="en">own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=99513764">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -240,7 +240,7 @@ Please note that the scenery is completely different from the area around La Paz
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/la_paz_andes_south.jpg" width="550px" alt="La paz andes south">
+<img src="/rule/cs_america/bolivia/la_paz_andes_south.jpg" width="550px" alt="Bolivia GeoGuessr guide image showing La Paz Andes South">
 </div>
 {{% /tab %}}
 {{% tab "hanging doll" %}}
@@ -253,7 +253,7 @@ Please note that the scenery is completely different from the area around La Paz
 {{% /tab %}}
 {{% tab "Sucre" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:BO_Sucre_1207_(19)_(17202714556).jpg#/media/File:BO_Sucre_1207_(19)_(17202714556).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/BO_Sucre_1207_%2819%29_%2817202714556%29.jpg" alt="BO Sucre 1207 (19) (17202714556).jpg" height="535" width="800"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/120935793@N02">Diego Tirira</a> from Quito, Ecuador - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/diegotirira/17202714556/">BO Sucre 1207 (19)</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=126285368">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:BO_Sucre_1207_(19)_(17202714556).jpg#/media/File:BO_Sucre_1207_(19)_(17202714556).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b7/BO_Sucre_1207_%2819%29_%2817202714556%29.jpg" alt="Wikimedia Commons photo showing Bo Sucre 1207 (19) (17202714556)" height="535" width="800"></a></p><p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/120935793@N02">Diego Tirira</a> from Quito, Ecuador - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/diegotirira/17202714556/">BO Sucre 1207 (19)</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=126285368">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -273,7 +273,7 @@ Please note that the scenery is completely different from the area around La Paz
 GoogleCar is distinctive{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}.The mountains are also quite distinctive.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg" width="95%" alt="Sajama bolivia volcano way" />
+<img src="/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg" width="95%" alt="Bolivia GeoGuessr guide image showing Sajama Bolivia Volcano Way" />
 </div>
 {{% /tab %}}
 {{% tab "island of the sun" %}}
@@ -281,14 +281,14 @@ GoogleCar is distinctive{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "http
 There are many ruins from the Inca era.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/ilha_do_sol14.jpg" width="95%" alt="Ilha do sol14">
+<img src="/rule/cs_america/bolivia/ilha_do_sol14.jpg" width="95%" alt="Bolivia GeoGuessr guide image showing Ilha Do sol14">
 </div>
 {{% /tab %}}
 {{% tab "train graveyard" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%" alt="Cemitério de trens, Uyuni, Bolivia">
+<img src="/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%" alt="Bolivia GeoGuessr guide image showing Cemitério De trens, Uyuni, Bolivia">
 </div>
 {{% /tab %}}
 {{% tab "Ojos del Salar" %}}
@@ -296,7 +296,7 @@ There are many ruins from the Inca era.
 There is a street view, but it has never been asked.{{% ex "https://maps.app.goo.gl/1rqb1hjS5EAsPvRL8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg" width="95%" alt="Salt salar landscape salar" />
+<img src="/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg" width="95%" alt="Bolivia GeoGuessr guide image showing Salt Salar Landscape Salar" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

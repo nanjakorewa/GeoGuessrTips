@@ -43,8 +43,8 @@ sc: [
 Hay un gran agujero en el poste telefónico hasta el fondo.<span class="quiz">Hay</span> a menudo{{% ex "https://maps.app.goo.gl/u4GroEbCQamrksXbA" "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}Puede parecer que está completo en un solo lado en la parte inferior.{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}.Si está vacío hasta el fondo, es Rumania.{{% goto "../hungary/" "Hungría" %}}, si el fondo no está vacío{{% goto "../poland/" "Polonia" %}}Tal vez.A menudo está marcado con un marcador amarillo.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="/rule/europe/romania/pole.jpg" width="259" alt="Pole"><p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Cigognes_Vladeni_Roumanie.jpg#/media/File:Cigognes_Vladeni_Roumanie.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cigognes_Vladeni_Roumanie.jpg" alt="Cigognes Vladeni Roumanie.jpg" width="355"></a></p>
+<p><img src="/rule/europe/romania/pole.jpg" width="259" alt="Romania GeoGuessr guide image showing Pole"><p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Cigognes_Vladeni_Roumanie.jpg#/media/File:Cigognes_Vladeni_Roumanie.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cigognes_Vladeni_Roumanie.jpg" alt="Wikimedia Commons photo showing Cigognes Vladeni Roumanie" width="355"></a></p>
 </div>
 
 <div class="googlemap-if" style="padding:0;font-size:0.8em;">(Imagen de la derecha) Por foto: <a href="//commons.wikimedia.org/wiki/User:Myrabella" title="User:Myrabella">mirabella</a>&nbsp;/&nbsp;<a href="//commons.wikimedia.org/wiki/Main_Page" title="Main Page">Wikimedia Commons</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20712710">Enlace</a>
@@ -55,13 +55,13 @@ Con diferencia, el más grande de Europa.<span style="color:red;font-weight:bold
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px" alt="PL road sign A 7">
-<img src="/rule/europe/romania/t/france.png" width="130px" style="margin:10px" alt="France">
-<img src="/rule/europe/romania/r/triangle.png" width="130px" style="margin:13px" alt="Triangle">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px" alt="R GeoGuessr guide image showing Pl Road Sign A 7">
+<img src="/rule/europe/romania/t/france.png" width="130px" style="margin:10px" alt="T GeoGuessr guide image showing France">
+<img src="/rule/europe/romania/r/triangle.png" width="130px" style="margin:13px" alt="R GeoGuessr guide image showing Triangle">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/romania/roadsign.jpg" width="90%" alt="Roadsign">
+<img src="/rule/europe/romania/roadsign.jpg" width="90%" alt="Romania GeoGuessr guide image showing Roadsign">
 </div>
 
 {{% notice tip %}}
@@ -69,15 +69,15 @@ Los bolardos en Rumanía tienen muchas indicaciones para localizarlos.{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/romania/romania-bollards.png" width="90%" alt="ルーマニアのボラード" />
+<img src="/rule/europe/romania/romania-bollards.png" width="90%" alt="Romania GeoGuessr guide image showing Romania Bollards" />
 </div>
 
 {{% notice tip %}}
 "<span class="quiz">Ș・ș</span>"・"<span class="quiz">Ț・ț</span> S y T con una coma debajo se utilizan en Rumania y Moldavia, pero Moldavia no tiene Street View.Si “Ļ・ļ”{{% goto "../baltic-state/latvia/" "letonia" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/romania/route/routeA.png" width="240px" style="margin:10px" alt="RouteA">
-<img src="/rule/europe/romania/route/ROM_county_limit.svg" width="230px" style="margin:34px" alt="ROM county limit">
+<img src="/rule/europe/romania/route/routeA.png" width="240px" style="margin:10px" alt="Route GeoGuessr guide image showing Routea">
+<img src="/rule/europe/romania/route/ROM_county_limit.svg" width="230px" style="margin:34px" alt="Route GeoGuessr guide image showing Rom County Limit">
 </div>
 
 {{% notice tip %}}
@@ -85,14 +85,14 @@ La forma del número de la carretera es distintiva.{{% ex "https://goo.gl/maps/k
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/europe/romania/road.jpg" width="590px" alt="Road"></p>
+<p><img src="/rule/europe/romania/road.jpg" width="590px" alt="Romania GeoGuessr guide image showing Road"></p>
 <p>Por <a href="//commons.wikimedia.org/wiki/User:Nenea_hartia" title="User:Nenea hartia">nenea hartia</a> - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49508175">Enlace</a></p>
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/romania/r/ROU_DN6.svg" width="70px" style="margin:10px" alt="ROU DN6">
-<img src="/rule/europe/romania/r/DJ609B-RO.svg" width="70px" style="margin:20px" alt="DJ609B RO">
+<img src="/rule/europe/romania/r/ROU_DN6.svg" width="70px" style="margin:10px" alt="R GeoGuessr guide image showing Rou DN6">
+<img src="/rule/europe/romania/r/DJ609B-RO.svg" width="70px" style="margin:20px" alt="R GeoGuessr guide image showing DJ609B Ro">
 </div>
 
 {{% notice tip %}}
@@ -103,8 +103,8 @@ En Rumanía, la parte trasera de los carteles suele ser negra.{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/romania/sign-bg.png" width="110px" style="margin:21px" alt="Sign bg">
-<img src="/rule/europe/romania/r/Romania_road_sign_G2.svg" width="130px" style="margin:10px" alt="Romania road sign G2">
+<img src="/rule/europe/romania/sign-bg.png" width="110px" style="margin:21px" alt="Romania GeoGuessr guide image showing Sign Bg">
+<img src="/rule/europe/romania/r/Romania_road_sign_G2.svg" width="130px" style="margin:10px" alt="R GeoGuessr guide image showing Romania Road Sign G2">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ A diferencia de los países vecinos, no existe ninguna conexión con las señale
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/romania/signs.jpg" width="90%" alt="Signs">
+<img src="/rule/europe/romania/signs.jpg" width="90%" alt="Romania GeoGuessr guide image showing Signs">
 </div>
 
 
@@ -125,7 +125,7 @@ la izquierda es <span class="quiz">Polonia</span>, el derecho es <span class="qu
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/guardrail.png" width="90%" alt="Guardrail">
+<img src="/rule/europe/poland/guardrail.png" width="90%" alt="Poland GeoGuessr guide image showing Guardrail">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -183,7 +183,7 @@ También se pueden encontrar bolardos similares a los de Türkiye e Italia, aunq
 {{% tabs %}}
 {{% tab "Cómo dividir la región" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/romania/1213px-RomanianTerritories.png" width="90%" alt="1213px RomanianTerritories">
+<img src="/rule/europe/romania/1213px-RomanianTerritories.png" width="90%" alt="Romania GeoGuessr guide image showing 1213px Romanianterritories">
 </div>
 {{% notice tip %}}
 {{% ref "https://en.wikipedia.org/wiki/File:RomanianTerritories.png#/media/File:RomanianTerritories.png" "Territories with historic significance for Romanian people." %}}
@@ -201,8 +201,8 @@ Las zonas violetas tienen más baños al aire libre.En general, las regiones con
 {{% /tab %}}
 {{% tab "noroeste" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/romania/arc/960px-Brasov_From_White_Tower.jpg" width="500px" alt="960px Brasov From White Tower">
-<img src="/rule/europe/romania/arc/Viscri2.jpg" width="500px" alt="Viscri2">
+<img src="/rule/europe/romania/arc/960px-Brasov_From_White_Tower.jpg" width="500px" alt="Arc GeoGuessr guide image showing 960px Brasov From White Tower">
+<img src="/rule/europe/romania/arc/Viscri2.jpg" width="500px" alt="Arc GeoGuessr guide image showing Viscri2">
 </div>
 {{% notice tip %}}
 TODO / ¿Tejado marrón rojizo o paredes azul claro?{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2" "transilvania" %}}.
@@ -212,8 +212,8 @@ TODO / ¿Tejado marrón rojizo o paredes azul claro?{{% ref "https://ja.wikipedi
 
 {{% tab "nordeste" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><img src="/rule/europe/romania/arc/640px-thumbnail.jpg" width="550px" alt="640px thumbnail"></p>
-<p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Biserica de lemn din Dărmăneşti2.jpg" width="550px"></a></p><p>Imagen inferior: Por Cezar Suceveanu - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC POR 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Enlace</a></p>
+<p><img src="/rule/europe/romania/arc/640px-thumbnail.jpg" width="550px" alt="Arc GeoGuessr guide image showing 640px Thumbnail"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Wikimedia Commons photo showing Biserica De Lemn Din Dărmăneşti2" width="550px"></a></p><p>Imagen inferior: Por Cezar Suceveanu - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC POR 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Enlace</a></p>
 </div>
 {{% notice tip %}}
 TODO / Techos y ductos de material plateado{{% ref "https://theonearmedcrab.com/32-bucovina/" "32. to Bucovina" %}}.
@@ -224,7 +224,7 @@ TODO / Techos y ductos de material plateado{{% ref "https://theonearmedcrab.com/
 Las partes de gran altitud son intrincadas (Fuente de la imagen:<a href="https://maps-for-free.com/">https://maps-for-free.com/</a> ©<a href="https://www.openstreetmap.org/copyright">Abrir mapa de calles</a> contribuyentes）
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/romania/2023-04-29-18-32-36.png" alt="2023 04 29 18 32 36" />
+<img src="/rule/europe/romania/2023-04-29-18-32-36.png" alt="Romania GeoGuessr guide image showing 2023 04 29 18 32 36" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -257,7 +257,7 @@ En la zona naranja se realiza la agricultura.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/romania/Romania_land_use_(1970).jpg" width="500px" alt="Romania land use (1970)">
+<img src="/rule/europe/romania/Romania_land_use_(1970).jpg" width="500px" alt="Romania GeoGuessr guide image showing Romania Land Use (1970)">
 </div>
 
 {{% notice tip %}}
@@ -265,7 +265,7 @@ Es común en oriente, pero tampoco falta en occidente.Si hay un campo de girasol
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/romania/sun_flower_sunflower_field_1.jpg" width="500px" alt="Sun flower sunflower field 1">
+<img src="/rule/europe/romania/sun_flower_sunflower_field_1.jpg" width="500px" alt="Romania GeoGuessr guide image showing Sun Flower Sunflower Field 1">
 </div>
 
 {{% /tab %}}
@@ -275,8 +275,8 @@ Las áreas que se muestran en naranja en el diagrama tienen refinerías de petr�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/romania/Romania_resources_(1970).jpg" width="500px" alt="Romania resources (1970)">
-<img src="/rule/europe/romania/factory_smokestack_industrial_power.jpg" width="500px" alt="Factory smokestack industrial power">
+<img src="/rule/europe/romania/Romania_resources_(1970).jpg" width="500px" alt="Romania GeoGuessr guide image showing Romania Resources (1970)">
+<img src="/rule/europe/romania/factory_smokestack_industrial_power.jpg" width="500px" alt="Romania GeoGuessr guide image showing Factory Smokestack Industrial Power">
 </div>
 
 {{% /tab %}}
@@ -286,7 +286,7 @@ Hay un tramo donde se viaja en barco entre las zonas deltaicas de Europa llamado
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/romania/the_danube_delta_1.jpg" alt="The danube delta 1">
+<img src="/rule/europe/romania/the_danube_delta_1.jpg" alt="Romania GeoGuessr guide image showing The Danube Delta 1">
 </div>
 
 {{% /tab %}}
@@ -309,7 +309,7 @@ Siento que no parece rumano (mi impresión personal), así que trato de no comet
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/romania/transfagarasan_2.jpg" width="95%" alt="Transfagarasan 2">
+<img src="/rule/europe/romania/transfagarasan_2.jpg" width="95%" alt="Romania GeoGuessr guide image showing Transfagarasan 2">
 </div>
 
 {{% /tab %}}
@@ -320,7 +320,7 @@ Una vez que vengas, no lo olvidarás.{{% ex "https://maps.app.goo.gl/Y8HAC6tkLMk
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/romania/relief_king_decebalus_rock.jpg" alt="Relief king decebalus rock">
+<img src="/rule/europe/romania/relief_king_decebalus_rock.jpg" alt="Romania GeoGuessr guide image showing Relief King Decebalus Rock">
 </div>
 {{% /tab %}}
 {{% tab "CB" %}}

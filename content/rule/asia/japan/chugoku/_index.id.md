@@ -13,7 +13,7 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chugoku/yamaguchi/" title="Yamaguchi" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chugoku/yamaguchi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Yamaguchi.svg" alt="Yamaguchi" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Yamaguchi.svg" alt="Image from geopinning.space showing Yamaguchi" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chugoku/yamaguchi/" class="flag-link">Yamaguchi</a></p>
     </li>
 </ul>
@@ -32,7 +32,7 @@ Genteng Sekishū diproduksi di wilayah Iwami, Prefektur Shimane. Genteng tanah l
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chugoku/arakaya_station_zenkei.jpg" width="90%" alt="Arakaya station zenkei">
+<img src="/rule/asia/japan/chugoku/arakaya_station_zenkei.jpg" width="90%" alt="Chugoku GeoGuessr guide image showing Arakaya Station Zenkei">
 </div>
 
 <div class="googlemap-if">

@@ -32,7 +32,7 @@ jogmec_detail: true
 West Virginia—khususnya bagian barat laut—memiliki tingkat kemiskinan tinggi. Rumah-rumah kosong dan toko yang tutup mudah ditemukan{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg" alt="This housing in smithers 0">
+<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg" alt="region1 GeoGuessr guide image showing This Housing In Smithers 0">
 </div>
 {{% /tab %}}
 {{% tab "B. Rambu pecahan" %}}
@@ -40,7 +40,7 @@ West Virginia—khususnya bagian barat laut—memiliki tingkat kemiskinan tinggi
 Penanda jalan yang menampilkan pecahan adalah ciri khas West Virginia. “23/1” berarti cabang pertama dari rute 23.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia \"fractional\" county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="West Virginia \"fractional\" county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia \"fractional\" county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="Image from live.staticflickr.com showing 5904974507 889fd667ff B"fractional\" county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "C. Tembok batu" %}}

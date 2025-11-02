@@ -43,19 +43,19 @@ sc: [
 防犯対策として窓の外側や内側に<span class="quiz">バーグラーバー（Burglar Bars：鉄格子）</span>があったり{{% ex "https://maps.app.goo.gl/3sAmaBPytGD2pRkq5" %}}、柵に有刺鉄線が付いていることが多い{{% ex "https://maps.app.goo.gl/SkP6HyzgqXHVL7ZFA" "https://maps.app.goo.gl/hvENC5MAjubpHpzLA" %}}。また、柵にエレクトリックワイヤーが張られていることも多い{{% ex "https://maps.app.goo.gl/mtNUMtnxrEoTUPTr5" "https://maps.app.goo.gl/oLkkzAg1gpjK6kbQ6" "" %}}。また玄関に「ADT」や「BLUE」と書かれたセキュリティ会社のシールが貼ってあることが多い{{% ref "https://en.wikipedia.org/wiki/ADT_Inc." "ADT Inc." %}}。以下の家は画質が低くわかりにくいが、ADTのシールが貼ってあり、柵の上にワイヤー・窓の内側に鉄格子が設置されている。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG#/media/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Moerdyk_House%2C_274_Pomona_Street%2C_Muckleneuk%2C_Pretoria.JPG" alt="Moerdyk House, 274 Pomona Street, Muckleneuk, Pretoria.JPG" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21203696">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG#/media/File:Moerdyk_House,_274_Pomona_Street,_Muckleneuk,_Pretoria.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e6/Moerdyk_House%2C_274_Pomona_Street%2C_Muckleneuk%2C_Pretoria.JPG" alt="Wikimedia Commons photo showing Moerdyk House, 274 Pomona Street, Muckleneuk, Pretoria" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=21203696">Link</a></p>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./adt.png" width="150px" style="margin:10px" alt="Adt">
-<img src="./blue.png" width="150px" style="margin:10px" alt="Blue">
+<img src="./adt.png" width="150px" style="margin:10px" alt="South Africa GeoGuessr guide image showing Adt">
+<img src="./blue.png" width="150px" style="margin:10px" alt="South Africa GeoGuessr guide image showing Blue">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">左側</span>通行{{% ex "https://maps.app.goo.gl/8gMFG5NsBTamWV8g8" "https://maps.app.goo.gl/fQZeh21BBqrWQbst7" %}}。外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線{{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" "https://goo.gl/maps/xEQoTHcWvEnZh6Bd8" "https://goo.gl/maps/nJU7oiYVaPU8rz6TA" "https://goo.gl/maps/XXRkvuhtqLF4tJjD9" %}}。両サイドのラインは描かれていない場合もある{{% ex "https://goo.gl/maps/YTXuR5d5ReaxKZFv8" "https://goo.gl/maps/4kMfS3xsCy9mtxBz9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Road" />
+<img src="./road.jpg" width="90%" alt="South Africa GeoGuessr guide image showing Road" />
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable" style="align-items: center;">
-<img src="2023-08-03-02-58-40.png" width="90%" alt="2023 08 03 02 58 40" />
+<img src="2023-08-03-02-58-40.png" width="90%" alt="South Africa GeoGuessr guide image showing 2023 08 03 02 58 40" />
 </div>
 
 {{% notice tip %}}
@@ -71,12 +71,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="./r/M4.png" width="70px" style="margin:10px" alt="M4">
-<img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
+<img src="./r/M4.png" width="70px" style="margin:10px" alt="R GeoGuessr guide image showing M4">
+<img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="R GeoGuessr guide image showing New South Wales Alphanumeric Route M23">
 </div>
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="South Africa-N10-001 (cropped).jpg" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:South_Africa-N10-001_(cropped).jpg#/media/File:South_Africa-N10-001_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/South_Africa-N10-001_%28cropped%29.jpg" alt="Wikimedia Commons photo showing South Africa N10 001 (cropped)" width="80%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:NJR_ZA" title="User:NJR ZA">NJR ZA</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=68484920">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050535).jpg#/media/File:Wikimania_2018,_Cape_Town_(P1050535).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wikimania_2018%2C_Cape_Town_%28P1050535%29.jpg" alt="Wikimania 2018, Cape Town (P1050535).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:MB-one" title="User:MB-one">Matti Blume</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70971749">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Wikimania_2018,_Cape_Town_(P1050535).jpg#/media/File:Wikimania_2018,_Cape_Town_(P1050535).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wikimania_2018%2C_Cape_Town_%28P1050535%29.jpg" alt="Wikimedia Commons photo showing Wikimania 2018, Cape Town (P1050535)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:MB-one" title="User:MB-one">Matti Blume</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=70971749">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./sign.jpg" width="500px" alt="Sign">
+<img src="./sign.jpg" width="500px" alt="South Africa GeoGuessr guide image showing Sign">
 </div>
 
 {{% /tab %}}
@@ -151,7 +151,7 @@ P522と書かれているのは道路番号なので見逃さないように。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-24-17-09-12.png" width="500px" alt="2023 04 24 17 09 12" />
+<img src="2023-04-24-17-09-12.png" width="500px" alt="South Africa GeoGuessr guide image showing 2023 04 24 17 09 12" />
 </div>
 {{% /tab %}}
 {{% tab "①国立公園" %}}
@@ -210,7 +210,7 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 {{% tabs %}}
 {{% tab "農業" %}}
 <div class="googlemap-if">
-<img src="2023-05-12-20-42-15.png" width="90%" alt="2023 05 12 20 42 15" />
+<img src="2023-05-12-20-42-15.png" width="90%" alt="South Africa GeoGuessr guide image showing 2023 05 12 20 42 15" />
 <div class="description-wide">
 Waldner, François, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
 </div>
@@ -222,12 +222,12 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if">
-<img src="./ag/sugacane.jpg" width="90%" alt="Sugacane" />
+<img src="./ag/sugacane.jpg" width="90%" alt="Ag GeoGuessr guide image showing Sugacane" />
 </div>
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if">
-<img src="./ag/corn.jpg" width="90%" alt="Corn" />
+<img src="./ag/corn.jpg" width="90%" alt="Ag GeoGuessr guide image showing Corn" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -252,7 +252,7 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="bainskloof_pass01.jpg" width="500px" alt="Bainskloof pass01" />
+<img src="bainskloof_pass01.jpg" width="500px" alt="South Africa GeoGuessr guide image showing Bainskloof pass01" />
 </div>
 {{% /tab %}}
 {{% tab "ナンバープレート" %}}
@@ -285,7 +285,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 徒歩で道の上を歩いていたら考えてみる{{% ex "https://maps.app.goo.gl/y6M3qmKAhq3qPgSr5" "https://maps.app.goo.gl/78cktLEdWZDZh33x9" %}}。テーブルマウンテンが遠くに見える。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="limestone_quarry_robben_island.jpg" width="600px" alt="Limestone quarry robben island" />
+<img src="limestone_quarry_robben_island.jpg" width="600px" alt="South Africa GeoGuessr guide image showing Limestone Quarry Robben Island" />
 </div>
 {{% /tab %}}
 

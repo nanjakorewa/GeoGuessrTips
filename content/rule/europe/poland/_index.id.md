@@ -46,14 +46,14 @@ Ada tanda peringatan berwarna oranye dengan garis merah di bagian luar.<span cla
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="PL road sign A 7">
-<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="PL road sign A 16">
-<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="PL road sign A 8">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Pl Road Sign A 7">
+<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Pl Road Sign A 16">
+<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Pl Road Sign A 8">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Greek Road sign k01">
-<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Greek Road sign k30">
+<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Greek Road Sign k01">
+<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Greek Road Sign k30">
 </div>
 
 
@@ -66,12 +66,12 @@ Polandia <span class="quiz">merah</span> Tonggak berwarna cukup mudah dimengerti
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland bollards">
+<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland GeoGuessr guide image showing Poland Bollards">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="B1">
-<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="B2">
+<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="Poland GeoGuessr guide image showing b1">
+<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="Poland GeoGuessr guide image showing b2">
 </div>
 
 
@@ -80,8 +80,8 @@ Polandia <span class="quiz">merah</span> Tonggak berwarna cukup mudah dimengerti
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="Znak E 2c">
-<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="PL road sign T 28">
+<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="R GeoGuessr guide image showing Znak E 2c">
+<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="R GeoGuessr guide image showing Pl Road Sign T 28">
 </div>
 
 <div class="googlemap-if">
@@ -97,12 +97,12 @@ Rambu penyeberangan pejalan kaki di Polandia khas dan memiliki garis.<span class
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Child Crossing sign?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 3133255251 1fde0e4ccd Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/w1.svg" width="90px" style="margin:0 5px 0 5px" alt="W1">
-<img src="/rule/europe/poland/w2.svg" width="90px" style="margin:0 5px 0 5px" alt="W2">
-<img src="/rule/europe/poland/w3.svg" width="90px" style="margin:0 5px 0 5px" alt="W3">
+<img src="/rule/europe/poland/w1.svg" width="90px" style="margin:0 5px 0 5px" alt="Poland GeoGuessr guide image showing w1">
+<img src="/rule/europe/poland/w2.svg" width="90px" style="margin:0 5px 0 5px" alt="Poland GeoGuessr guide image showing w2">
+<img src="/rule/europe/poland/w3.svg" width="90px" style="margin:0 5px 0 5px" alt="Poland GeoGuessr guide image showing w3">
 </div>
 
 {{% notice tip %}}
@@ -110,7 +110,7 @@ Yang kiri adalah <span class="quiz">Polandia</span>, yang benar adalah <span cla
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/guardrail.png" width="90%" alt="Guardrail" />
+<img src="/rule/europe/poland/guardrail.png" width="90%" alt="Poland GeoGuessr guide image showing Guardrail" />
 </div>
 
 {{% /tab %}}
@@ -120,14 +120,14 @@ Yang kiri adalah <span class="quiz">Polandia</span>, yang benar adalah <span cla
 Gereja ditampilkan di peta, yang terkadang berguna saat menemukannya.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/poland/orthodox_church_koma_cross.jpg" width="400" alt="Orthodox church koma cross">
+<img src="/rule/europe/poland/orthodox_church_koma_cross.jpg" width="400" alt="Poland GeoGuessr guide image showing Orthodox Church Koma Cross">
 </div>
 
 {{% notice tip %}}
 POCZTA (postingan, merah)
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/poland/mail_box_poland.jpg" width="400" alt="Mail box poland">
+<img src="/rule/europe/poland/mail_box_poland.jpg" width="400" alt="Poland GeoGuessr guide image showing Mail Box Poland">
 </div>
 
 {{% /tab %}}
@@ -137,7 +137,7 @@ POCZTA (postingan, merah)
 Hampir 40% wilayah negara ini merupakan hutan yang dimiliki secara nasional, dan terdapat banyak hutan yang tinggi.{{% ex "https://maps.app.goo.gl/fMS55FsB89ozwnzu7" "https://maps.app.goo.gl/xQawH2BeZqx8C2uG7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/poland/way_le_c5_9bna.jpg" width="700" alt="Way le c5 9bna">
+<img src="/rule/europe/poland/way_le_c5_9bna.jpg" width="700" alt="Poland GeoGuessr guide image showing Way Le c5 9bna">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -174,7 +174,7 @@ Hampir 40% wilayah negara ini merupakan hutan yang dimiliki secara nasional, dan
 22x dekat Warszawa.Abaikan 8 dan ingat bahwa semakin tinggi angkanya, semakin mengarah ke arah barat laut.Ini adalah negara yang umumnya datar dan saya merasa tidak bisa mengetahui bagian negara mana yang saya tinggali hanya dengan melihat pemandangannya, jadi jika saya tidak tahu nomor jalan, nama tempat, atau kode area, saya pribadi cenderung pergi ke tengah saja.Ada juga nomor yang digunakan untuk telepon seluler, jadi hati-hati jangan sampai menentukan wilayah hanya berdasarkan nomor pertama.{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p style="font-size:1.2em">Oleh sinis yang naif - karya sendiri, turunan dari <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'S <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">gambar</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Wikimedia Commons photo showing 1200px Poland Telephone Area codes.svg"></a></p><p style="font-size:1.2em">Oleh sinis yang naif - karya sendiri, turunan dari <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a>'S <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">gambar</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -196,8 +196,8 @@ Hampir 40% wilayah negara ini merupakan hutan yang dimiliki secara nasional, dan
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Ilawa ab 1167">
-<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Miastko 039">
+<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Poland GeoGuessr guide image showing Ilawa Ab 1167">
+<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Poland GeoGuessr guide image showing Miastko 039">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

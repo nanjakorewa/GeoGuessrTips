@@ -49,14 +49,14 @@ Por kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenya
 Segﾃｺn JETRO, empresas como STEERS (comida rﾃ｡pida) {{% ex "https://goo.gl/maps/edbjb8SkbTxGjXsg9" %}}, Safaricom (telecomunicaciones) {{% ex "https://goo.gl/maps/vQLYCbnaWJSWLxNU8" "https://goo.gl/maps/YaW8mCgZShWcfTo27" %}}, y Java (marca de cafﾃｩ) son empresas locales importantes. Especialmente, Safaricom es muy visible al caminar por las calles {{% ref "https://www.jetro.go.jp/ext_images/_Reports/01/550ee35766919b1d/20160137_09franchise.pdf" "JETRO - Empresas de Kenia" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/datakid23/15722287490/in/photolist-EPuBj-M3Wgn-fd8tC6-4ZKpL5-pXjQjf-HDkBuP-HWVuJL-5w1fkR-HWVvkf-K3j2B9-HrtGPr-HWWfHC-TEkyr5-HWVv2u-Hrqwu5-HrtGXH-Jdy4kY-JjsZqG-JqSeZo-L4QEWc-JjsYSY-K3j2BQ-L8Hdmo-JqSeD3-HruCQx-LbzxxM-JNCVaQ-aoNEuB-JqT1Kf-Jdy4eq-aoNECi-27gwcpf-aoNEAX-GDvemT-27DWe1n-HrqwGu-nqNTrs-GDvHhn-Gb1AUp-F1Z7Ae-SDnB7L-27DWe7e-ag5aVW-Hqxr45-bvmi4E-H9Jkhs-E4gFmC-cgugG7-KnUhTx-KnUjDM" title="SafariCom"><img src="https://live.staticflickr.com/7505/15722287490_d019f2509c_z.jpg" width="640" height="360" alt="SafariCom"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/datakid23/15722287490/in/photolist-EPuBj-M3Wgn-fd8tC6-4ZKpL5-pXjQjf-HDkBuP-HWVuJL-5w1fkR-HWVvkf-K3j2B9-HrtGPr-HWWfHC-TEkyr5-HWVv2u-Hrqwu5-HrtGXH-Jdy4kY-JjsZqG-JqSeZo-L4QEWc-JjsYSY-K3j2BQ-L8Hdmo-JqSeD3-HruCQx-LbzxxM-JNCVaQ-aoNEuB-JqT1Kf-Jdy4eq-aoNECi-27gwcpf-aoNEAX-GDvemT-27DWe1n-HrqwGu-nqNTrs-GDvHhn-Gb1AUp-F1Z7Ae-SDnB7L-27DWe7e-ag5aVW-Hqxr45-bvmi4E-H9Jkhs-E4gFmC-cgugG7-KnUhTx-KnUjDM" title="SafariCom"><img src="https://live.staticflickr.com/7505/15722287490_d019f2509c_z.jpg" width="640" height="360" alt="Image from live.staticflickr.com showing 15722287490 d019f2509c Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 Los letreros de trﾃ｡fico en Kenia tienen un diseﾃｱo similar a los de {{% goto "../../europe/united-kingdom/" "Reino Unido" %}} debido a la influencia histﾃｳrica. Sin embargo, no son tan comunes en las calles de la ciudad.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="The Nairobi-Thika Highway, Kenya"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 49749049608 c6154ec2a9 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -88,7 +88,7 @@ El Google Car en Kenia es distintivo y tiene varias variantes. Puede verse el te
 {{% tabs %}}
 {{% tab "Vegetaciﾃｳn" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Vegitation" />
+<img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Kenya GeoGuessr guide image showing Vegitation" />
 </div>
 
 {{% notice tip %}}

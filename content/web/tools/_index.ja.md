@@ -16,7 +16,7 @@ sections: [""]
 <br>
 
 <div style="width:100%;height:400px;">
-<p><a id="gachaLink1" href="#" target="_blank"><img id="gachaImage" src="https://geopinning.space/flags/JP.svg" alt="ガチャ画像"></a></p>
+<p><a id="gachaLink1" href="#" target="_blank"><img id="gachaImage" src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp"></a></p>
 <p id="gachaText"><a id="gachaLink2" href="https://geopinning.space/rule/asia/japan/" target="_blank">日本</a></p>
 </div>
 

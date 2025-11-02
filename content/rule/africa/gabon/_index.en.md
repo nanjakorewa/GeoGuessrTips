@@ -27,7 +27,7 @@ is_unofficial: true
 License plates are often <span class="quiz">black</span>{{% ex "https://maps.app.goo.gl/rXiiKd8CADN6chXg9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/gabon/960px-POG-Street_1.jpg" width="90%" alt="960px POG Street 1" />
+<img src="/rule/africa/gabon/960px-POG-Street_1.jpg" width="90%" alt="Gabon GeoGuessr guide image showing 960px Pog Street 1" />
 </div>
 
 {{% /tab %}}

@@ -55,8 +55,8 @@ sc: [
 横断歩道の標識が黄色い線で囲われているときがある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/walk1.png" width="100px" style="margin:10px" alt="Walk1">
-<img src="./r/walk2.png" width="110px" style="margin:5px" alt="Walk2">
+<img src="./r/walk1.png" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing walk1">
+<img src="./r/walk2.png" width="110px" style="margin:5px" alt="R GeoGuessr guide image showing walk2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

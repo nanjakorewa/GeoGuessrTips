@@ -40,7 +40,7 @@ sc: [
 Limestone walls in pale beige tones are a constant sight. {{% ex "https://maps.app.goo.gl/i82qdNGiz7cGZ8rp7" "https://maps.app.goo.gl/WhX6JvAqhV2e3omj7" %}} Italy’s south and the Balearics show similar stonework, so remember that Malta drives on the <span class="quiz">left</span>.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg#/media/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Unnamed_Road%2C_Siggiewi%2C_Malta_-_panoramio_%2883%29.jpg" alt="Stone walls in Siġġiewi" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg#/media/File:Unnamed_Road,_Siggiewi,_Malta_-_panoramio_(83).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Unnamed_Road%2C_Siggiewi%2C_Malta_-_panoramio_%2883%29.jpg" alt="Wikimedia Commons photo showing Unnamed Road, Siggiewi, Malta Panoramio (83)" width="90%"></a></p>
 <p>By Alan C. Bonnici, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59000215">Wikimedia Commons</a></p>
 </div>
 
@@ -48,7 +48,7 @@ Limestone walls in pale beige tones are a constant sight. {{% ex "https://maps.a
 Streets are lined with light-coloured houses; Baroque architecture is a hallmark. {{% ref "https://en.wikipedia.org/wiki/Architecture_of_Malta" "Architecture of Malta" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/malta/malta_alley_house_street.jpg" width="90%" alt="Valletta alley">
+<img src="/rule/europe/malta/malta_alley_house_street.jpg" width="90%" alt="Malta GeoGuessr guide image showing Malta Alley House Street">
 </div>
 
 
@@ -57,7 +57,7 @@ Street plates almost always start with <span class="quiz">TRIQ</span>.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Triq_Vincenzo_Bugeja,_Floriana,_Malta.jpg#/media/File:Triq_Vincenzo_Bugeja,_Floriana,_Malta.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Triq_Vincenzo_Bugeja%2C_Floriana%2C_Malta.jpg" alt="Triq Vincenzo Bugeja" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pygar1954" title="User:Pygar1954">Pygar1954</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=118184266">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Triq_Vincenzo_Bugeja,_Floriana,_Malta.jpg#/media/File:Triq_Vincenzo_Bugeja,_Floriana,_Malta.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Triq_Vincenzo_Bugeja%2C_Floriana%2C_Malta.jpg" alt="Wikimedia Commons photo showing Triq Vincenzo Bugeja, Floriana, Malta" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Pygar1954" title="User:Pygar1954">Pygar1954</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=118184266">Wikimedia Commons</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -82,7 +82,7 @@ Example coat of arms on a Rabat street plate.
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688016496533!6m8!1m7!1s6wNHZYY4zm1wKWBe2t6Uvg!2m2!1d35.87682620465242!2d14.39919741634585!3f35.53437489022956!4f12.242743299431226!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div style="margin:30px;pointer-events:none;">
-<img src="/rule/europe/malta/malta-cityflag.png" width="275px" alt="Rabat coat of arms">
+<img src="/rule/europe/malta/malta-cityflag.png" width="275px" alt="Malta GeoGuessr guide image showing Malta Cityflag">
 </div>
 </div>
 {{% /tab %}}
@@ -92,7 +92,7 @@ Boat-filled harbours → east coast. Container terminals → Birżebbuġa in the
 {{% /notice %}}
 
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:General_map_of_Malta.svg#/media/File:General_map_of_Malta.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/General_map_of_Malta.svg" alt="General map of Malta" height="433" width="502"></a></p><p style="font-size:0.7em"><a href="//commons.wikimedia.org/wiki/File:Location_Malta_EU_Europe.svg">Location_Malta_EU_Europe.svg</a>: <a href="https://en.wikipedia.org/wiki/en:User:3meandEr">User:3meandEr</a>; derivative work: <a href="//commons.wikimedia.org/wiki/User:Trex" title="User:Trex">Trex</a>, <a href="//commons.wikimedia.org/wiki/User:Bjankuloski06en" title="User:Bjankuloski06en">Bjankuloski06en</a> – <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25170149">link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:General_map_of_Malta.svg#/media/File:General_map_of_Malta.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/General_map_of_Malta.svg" alt="Wikimedia Commons photo showing General Map Of Malta" height="433" width="502"></a></p><p style="font-size:0.7em"><a href="//commons.wikimedia.org/wiki/File:Location_Malta_EU_Europe.svg">Location_Malta_EU_Europe.svg</a>: <a href="https://en.wikipedia.org/wiki/en:User:3meandEr">User:3meandEr</a>; derivative work: <a href="//commons.wikimedia.org/wiki/User:Trex" title="User:Trex">Trex</a>, <a href="//commons.wikimedia.org/wiki/User:Bjankuloski06en" title="User:Bjankuloski06en">Bjankuloski06en</a> – <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=25170149">link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -32,7 +32,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./shirvan_city.jpg" width="75%" alt="Shirvan city">
+<img src="./shirvan_city.jpg" width="75%" alt="Azerbaijan GeoGuessr guide image showing Shirvan City">
 </div>
 
 {{% notice tip %}}
@@ -40,11 +40,11 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/la_laetti/8091320902/in/photolist-dk18NN-8AiJ7g-27cLeDT-27cLexa-udZi3-2qdfhJv-2qdcXom-cSH3z3-6izskc-8AmK5d-cQPzP5-8yUQer-phfnWK-8jg3Cs-27xNLtU-27xNLw9-2YkQGJ-7xpwef-o51Jw7-o6U9zD-aBHZ1V-o4PErT-2nq5ose-qrhTBf-7VCNVB-ahZDsD-ahZRby-8AizHv-2nP9ZB5-2o6sT3V-8wCwBF-MCyaXn-7VCNxD-2it7nAH-5cWEcq-akqkvm-7wSbx8-7VG3sQ-2irWwg4-5ogxJU-Z4mQxn-cKMrJw-2irXDwa-2irXDDK-7wSc2p-fLZ3Ts-2irWwmQ-2irWwuW-2irTSNj-2irTSqW/" title="Oil Pipeline"><img src="https://live.staticflickr.com/8052/8091320902_3080e6ed47_c.jpg" width="90%" alt="Oil Pipeline"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/la_laetti/8091320902/in/photolist-dk18NN-8AiJ7g-27cLeDT-27cLexa-udZi3-2qdfhJv-2qdcXom-cSH3z3-6izskc-8AmK5d-cQPzP5-8yUQer-phfnWK-8jg3Cs-27xNLtU-27xNLw9-2YkQGJ-7xpwef-o51Jw7-o6U9zD-aBHZ1V-o4PErT-2nq5ose-qrhTBf-7VCNVB-ahZDsD-ahZRby-8AizHv-2nP9ZB5-2o6sT3V-8wCwBF-MCyaXn-7VCNxD-2it7nAH-5cWEcq-akqkvm-7wSbx8-7VG3sQ-2irWwg4-5ogxJU-Z4mQxn-cKMrJw-2irXDwa-2irXDDK-7wSc2p-fLZ3Ts-2irWwmQ-2irWwuW-2irTSNj-2irTSqW/" title="Oil Pipeline"><img src="https://live.staticflickr.com/8052/8091320902_3080e6ed47_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 8091320902 3080e6ed47 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="Azerbaijan_Product_Exports_(2019).svg" width="500px" alt="Azerbaijan Product Exports (2019)">
+<img src="Azerbaijan_Product_Exports_(2019).svg" width="500px" alt="Azerbaijan GeoGuessr guide image showing Azerbaijan Product Exports (2019)">
 </div>
 
 {{% notice tip %}}
@@ -52,7 +52,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%" alt="Azerbaijan has sent humanitarian aid to Armenian residents living in Karabakh 01">
+<img src="Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%" alt="Azerbaijan GeoGuessr guide image showing Azerbaijan Has Sent Humanitarian Aid To Armenian Residents Living In Karabakh 01">
 </div>
 
 
@@ -68,7 +68,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Victory_Road,_Karabakh,_Azerbaijan_in_November_2021_(23).jpg#/media/File:Victory_Road,_Karabakh,_Azerbaijan_in_November_2021_(23).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Victory_Road%2C_Karabakh%2C_Azerbaijan_in_November_2021_%2823%29.jpg" alt="Victory Road, Karabakh, Azerbaijan in November 2021 (23).jpg" height="720" width="1080"></a></p><p>By <a rel="nofollow" class="external text" href="https://president.az/">President.az</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112360299">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Victory_Road,_Karabakh,_Azerbaijan_in_November_2021_(23).jpg#/media/File:Victory_Road,_Karabakh,_Azerbaijan_in_November_2021_(23).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Victory_Road%2C_Karabakh%2C_Azerbaijan_in_November_2021_%2823%29.jpg" alt="Wikimedia Commons photo showing Victory Road, Karabakh, Azerbaijan In November 2021 (23)" height="720" width="1080"></a></p><p>By <a rel="nofollow" class="external text" href="https://president.az/">President.az</a>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=112360299">Link</a></p>
 </div>
 
 {{% /tab %}}

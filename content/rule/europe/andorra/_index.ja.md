@@ -44,14 +44,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./building.jpg" alt="アンドラの建物" width="95%" />
+<img src="./building.jpg" alt="Andorra GeoGuessr guide image showing Building" width="95%" />
 </div>
 
 {{% notice tip %}}
 上が赤いスノーポールと思われる棒が道沿いに並んでいることがある{{% ex "https://goo.gl/maps/baQkrBMDPfZGeUDJ8" "https://goo.gl/maps/XeZRokF82ZP5d3Yt6" "https://goo.gl/maps/2RkJ61FbyVF2mdcv7" "https://goo.gl/maps/huZ9YVp5iVenzPF7A" "https://goo.gl/maps/xewVBquNDc6utbbZ8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/azariel_de_lunivers/44442988031/" title="Road and cows."><img src="https://live.staticflickr.com/1844/44442988031_40d6508556_z.jpg" width="640" height="427" alt="Road and cows."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/azariel_de_lunivers/44442988031/" title="Road and cows."><img src="https://live.staticflickr.com/1844/44442988031_40d6508556_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 44442988031 40d6508556 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -59,7 +59,7 @@ sc: [
 「CS」や「CG」の道路番号{{% ex "https://goo.gl/maps/qnec2sM37NcgWVyj7" "https://goo.gl/maps/tLoLdtWhcvsGm1i78" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="75%" alt="Roadsign" />
+<img src="./roadsign.jpg" width="75%" alt="Andorra GeoGuessr guide image showing Roadsign" />
 </div>
 
 {{% notice tip %}}

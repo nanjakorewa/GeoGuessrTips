@@ -39,7 +39,7 @@ sc: [
 Ireland uses distinctive <span class="quiz">green</span> bollards. {{% ex "https://goo.gl/maps/TsXkH3751vxJH2xe8" "https://goo.gl/maps/8qZiGUqUbmZQrCzE8" %}}{{% by %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/green-bollard.png" width="95%" alt="Irish green bollard" />
+<img src="/rule/europe/ireland/green-bollard.png" width="95%" alt="Ireland GeoGuessr guide image showing Green Bollard" />
 </div>
 
 
@@ -47,24 +47,24 @@ Ireland uses distinctive <span class="quiz">green</span> bollards. {{% ex "https
 Public post boxes are also <span class="quiz">green</span>. {{% goto "../../asia/china/" "China" %}} and {{% goto "../../africa/egypt/" "Egypt" %}} share the colour, but they lack widespread Street View and the scenery differs greatly. Box shapes vary across Ireland.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/mailbox.jpg" width="90%" alt="Irish post box" />
+<img src="/rule/europe/ireland/mailbox.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Mailbox" />
 </div>
 
 {{% notice tip %}}
 You will encounter many ⚠️ warning signs. Irish versions often omit the person, whereas the UK frequently shows a figure inside. If you see the figure, consider the UK; without it, Ireland is more likely. (Reference illustration is homemade!)
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/ireland/warning-sign.jpg" width="90%" alt="Irish warning sign sketch" />
+<img src="/rule/europe/ireland/warning-sign.jpg" width="90%" alt="Ireland GeoGuessr guide image showing Warning Sign" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/ireland/ie.png" width="120px" alt="Irish warning sign example">
+<img src="/rule/europe/ireland/ie.png" width="120px" alt="Ireland GeoGuessr guide image showing Ie">
 </div>
 
 {{% notice tip %}}
 Still unsure between Ireland and the UK? A <span class="quiz">yellow dashed centre line</span> strongly points to Ireland. {{% ex "https://goo.gl/maps/TpiTmP97DT8SnKge9" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "World map lecture digest (Japanese)" %}} A yellow stop line instead suggests {{% goto "../jersey/" "Jersey" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/ireland-road-yellowline.png" width="95%" alt="Irish centre line" />
+<img src="/rule/europe/ireland/ireland-road-yellowline.png" width="95%" alt="Ireland GeoGuessr guide image showing Ireland Road Yellowline" />
 </div>
 
 
@@ -72,7 +72,7 @@ Still unsure between Ireland and the UK? A <span class="quiz">yellow dashed cent
 Road numbers begin with R, N, or M. The UK uses B, A, or M prefixes instead.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/2023-07-29-00-32-37.png" width="590px" alt="Irish road signage" />
+<img src="/rule/europe/ireland/2023-07-29-00-32-37.png" width="590px" alt="Ireland GeoGuessr guide image showing 2023 07 29 00 32 37" />
 </div>
 
 
@@ -91,7 +91,7 @@ Road numbers begin with R, N, or M. The UK uses B, A, or M prefixes instead.
 {{% tabs %}}
 {{% tab "Stone walls" %}}
 <div class="googlemap-if unclickable" width="95%">
-<img src="/rule/europe/ireland/burren.jpg" alt="Dry-stone wall in the Burren">
+<img src="/rule/europe/ireland/burren.jpg" alt="Ireland GeoGuessr guide image showing Burren">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ Watch for the red lighthouse {{% ex "https://maps.app.goo.gl/j8DxHPDAx5dc9jK57" 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ireland/inishturk_north.jpg" alt="Inishturk lighthouse">
+<img src="/rule/europe/ireland/inishturk_north.jpg" alt="Ireland GeoGuessr guide image showing Inishturk North">
 </div>
 {{% /tab %}}
 {{% tab "Inishbofin" %}}
@@ -125,7 +125,7 @@ The island’s <a href="https://www.inishbofin.com/">official tourism site</a> h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/ireland/inishbofin_fort.jpg" alt="Inishbofin fort">
+<img src="/rule/europe/ireland/inishbofin_fort.jpg" alt="Ireland GeoGuessr guide image showing Inishbofin Fort">
 </div>
 {{% /tab %}}
 {{% tab "Dublin" %}}

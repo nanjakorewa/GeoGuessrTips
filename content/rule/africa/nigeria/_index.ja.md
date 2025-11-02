@@ -42,7 +42,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%" alt="Road">
+<img src="./road.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Road">
 </div>
 
 
@@ -60,14 +60,14 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;acti
 Keke-napepと呼ばれる小型タクシーが町を走っている{{% ex "https://maps.app.goo.gl/vhSrUtLNmUuY82Re6" "https://maps.app.goo.gl/GZiw4Nykr5vmDbpT6" "https://maps.app.goo.gl/hvnhUWafdKVwGUTRA" "https://maps.app.goo.gl/EAouojKtiqBWbjTCA" %}}。看板や標識は英語で書かれている{{% ex "https://maps.app.goo.gl/zi92p3C21G8CrTKdA" "https://maps.app.goo.gl/94b71BKAgMqoMd299" %}}。Keke-napepは黄色のものが多いがそうでない町も存在する{{% ex "https://maps.app.goo.gl/JDFPEj2mFtTaFJLU7" "https://maps.app.goo.gl/kgPETPKgtTcufZAA8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Keke-Marwa - iPhone 6 image."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pjd-photos/37748633862/in/photolist-ZvHBGS-2nFue5J-29cPPW4-2kU9qLH-2jqrRfC-poo6A3-fdLFYa-4ARrnD-5GPiy-25znzeS-238hrLu-9E1SHY-25WKjSZ-irRsWp-L9GQG7-5EcDS8-9KR3bL-BjtZNq-6fZSFp-PomYNi-nG4e5j-fcSP3-25wpSLN-cuJDd-4CKXTg-7hFqUZ-cuHjb-qbuALR-oiji1M-7hFqSM-nrBAvy-2k8Hd1F-oEqkYc-48nskg-2kqUrAY-bMt8bB-2kQE4Ce-2ikE7Tr-K7VbGB-RuK2bB-2ndaZFo-2kCRX29-2jpnVzf-2kWSUvw-RkqHnm-9fNdzY-BNeyyS-9HZGWD-28wRti1-9KR2Yw" title="Keke-Marwa - iPhone 6 image."><img src="https://live.staticflickr.com/4476/37748633862_4c26004d97_z.jpg" width="640" height="504" alt="Image from live.staticflickr.com showing 37748633862 4c26004d97 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
 こんな感じの金属の屋根がついた平屋の家が多い{{% ex "https://maps.app.goo.gl/7HeyaGY6udvq88Qd6" "https://maps.app.goo.gl/rkexHDbYoRkGvXmB8" "https://maps.app.goo.gl/68fdWw1ryGnP4MwcA" "https://maps.app.goo.gl/Rs9chhraNPo674JKA" "https://maps.app.goo.gl/nupZV4G31mkRsn36A" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%" alt="Honda's Place , Ota , Ogun State Nigeria">
+<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Honda's Place , Ota , Ogun State Nigeria">
 </div>
 
 
@@ -125,7 +125,7 @@ Keke-napepと呼ばれる小型タクシーが町を走っている{{% ex "https
 {{% tabs %}}
 {{% tab "植生と標高" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="100%" alt="Vegitation" />
+<img src="./vegitation.jpg" width="100%" alt="Nigeria GeoGuessr guide image showing Vegitation" />
 </div>
 
 {{% notice tip %}}
@@ -207,7 +207,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% tabs %}}
 {{% tab "州名" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Political_map_of_Nigeria.svg" alt="Political map of Nigeria">
+<img src="./Political_map_of_Nigeria.svg" alt="Nigeria GeoGuessr guide image showing Political Map Of Nigeria">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -230,7 +230,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-44-28.png" width="97%" alt="2023 05 10 15 44 28" />
+<img src="2023-05-10-15-44-28.png" width="97%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 44 28" />
 </div>
 
 {{% notice tip %}}
@@ -239,7 +239,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /tab %}}
 {{% tab "キビ・アワ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-53-56.png" width="90%" alt="2023 05 10 15 53 56" />
+<img src="2023-05-10-15-53-56.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 53 56" />
 </div>
 
 {{% notice tip %}}
@@ -247,13 +247,13 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="fodder_barn_crop_residue.jpg" width="90%" alt="Fodder barn crop residue" />
+<img src="fodder_barn_crop_residue.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Fodder Barn Crop Residue" />
 </div>
 
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-49-07.png" width="90%" alt="2023 05 10 15 49 07" />
+<img src="2023-05-10-15-49-07.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 49 07" />
 </div>
 
 {{% notice tip %}}
@@ -262,7 +262,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-19-08-43-21.png" width="90%" alt="2023 05 19 08 43 21" />
+<img src="2023-05-19-08-43-21.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 19 08 43 21" />
 </div>
 
 {{% notice tip %}}
@@ -283,7 +283,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% tabs %}}
 {{% tab "Zuma Rock" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:The_incredible_rock._Zuma_Rock_(cropped).jpg#/media/File:The_incredible_rock._Zuma_Rock_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/The_incredible_rock._Zuma_Rock_%28cropped%29.jpg" alt="The incredible rock. Zuma Rock (cropped).jpg" height="420" width="710"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:3.29Fatima&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:3.29Fatima (page does not exist)">Fatima </a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=86993524">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:The_incredible_rock._Zuma_Rock_(cropped).jpg#/media/File:The_incredible_rock._Zuma_Rock_(cropped).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9d/The_incredible_rock._Zuma_Rock_%28cropped%29.jpg" alt="Wikimedia Commons photo showing The Incredible rock. Zuma Rock (cropped)" height="420" width="710"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:3.29Fatima&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:3.29Fatima (page does not exist)">Fatima </a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=86993524">Link</a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -37,7 +37,7 @@ Los postes de tono púrpura son un buen indicador y casi no se ven fuera del Lí
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/street.jpg" width="90%" alt="Calle en Líbano">
+<img src="/rule/middle_east/lebanon/street.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Street">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Las matrículas presentan varios colores, pero suelen llevar una franja <span cl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/streetinbatroun.jpg" width="90%" alt="Calle en Batroun">
+<img src="/rule/middle_east/lebanon/streetinbatroun.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Streetinbatroun">
 </div>
 
 
@@ -63,7 +63,7 @@ Clima mediterráneo: montañas secas y mesetas rocosas. {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Carretera de montaña en Líbano" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Wikimedia Commons</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Wikimedia Commons photo showing Zig Zag Lebanese Mountain Road" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Wikimedia Commons</a></p>
 </div>
 
 
@@ -72,7 +72,7 @@ La mayoría de edificios son de piedra. {{% ex "https://maps.app.goo.gl/Y2cJxJsa
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Construcciones de piedra">
+<img src="/rule/middle_east/lebanon/lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Lebanon Syria Border sep13voa 2">
 </div>
 
 {{% notice tip %}}
@@ -80,7 +80,7 @@ Encontrarás textos en árabe junto con inglés o francés. {{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/bienvenue_rechmaya.jpg" width="90%" alt="Cartel multilingüe">
+<img src="/rule/middle_east/lebanon/bienvenue_rechmaya.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Bienvenue Rechmaya">
 </div>
 
 {{% /tab %}}
@@ -105,7 +105,7 @@ Encontrarás textos en árabe junto con inglés o francés. {{% ex "https://maps
 {{% tab "Agricultura" %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/1979-crop.jpg" width="70%" alt="Mapa agrícola">
+<img src="/rule/middle_east/lebanon/1979-crop.jpg" width="70%" alt="Lebanon GeoGuessr guide image showing 1979 Crop">
 </div>
 
 {{% /tab %}}
@@ -133,7 +133,7 @@ En el valle de la Becá verás montañas al este y oeste {{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/zahle_lebanon.jpg" width="95%" alt="Valle de Zahlé">
+<img src="/rule/middle_east/lebanon/zahle_lebanon.jpg" width="95%" alt="Lebanon GeoGuessr guide image showing Zahle Lebanon">
 </div>
 
 {{% /tab %}}

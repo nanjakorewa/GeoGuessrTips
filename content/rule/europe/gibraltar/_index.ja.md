@@ -37,21 +37,21 @@ sc: [
 いわゆるThe Rock（一枚岩の巨大な石灰岩）があり、白い岩肌が家の近くまで迫っている{{% ex "https://maps.app.goo.gl/f2xuSjBFS9fgZtAD6" "https://maps.app.goo.gl/8ttDiLvZ4rF6SPGSA" "https://maps.app.goo.gl/je2FQvmN3EWyYVMT6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar rock british 890293">
+<img src="./gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Gibraltar Rock British 890293">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">右</span>側通行かつナンバープレートは前が白で後ろが<span class="quiz">黄</span>色{{% ex "https://maps.app.goo.gl/k4bE2XNAE4v9x3Y89" "https://maps.app.goo.gl/SpjXPcmpDCzyrWiM6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./car.jpg" width="95%" alt="Car">
+<img src="./car.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Car">
 </div>
 
 {{% notice tip %}}
 西にジブラルタル港と造船所が見渡せる{{% ex "https://maps.app.goo.gl/mQgpyFynN1YCH1RN8" "https://maps.app.goo.gl/iY8koRJ9cWyZoC2j7" %}}{{% ref "https://en.wikipedia.org/wiki/Port_of_Gibraltar" "ジブラルタル港" %}}。イギリス軍が駐屯しており造船のような軍事関連産業が盛んで船がたくさん見える。観光や金融産業も盛んらしい。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar monkeys mediterranean sea">
+<img src="./gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Gibraltar Monkeys Mediterranean Sea">
 </div>
 
 {{% notice tip %}}

@@ -42,8 +42,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./belgium_bruges_middle_ages_2.jpg" width="95%" alt="Belgium bruges middle ages 2">
-<img src="schmerling_caves03.jpg" width="95%" alt="Schmerling caves03" />
+<img src="./belgium_bruges_middle_ages_2.jpg" width="95%" alt="Belgium GeoGuessr guide image showing Belgium Bruges Middle Ages 2">
+<img src="schmerling_caves03.jpg" width="95%" alt="Belgium GeoGuessr guide image showing Schmerling caves03" />
 </div>
 
 
@@ -52,14 +52,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:20170624_019_chaudfontaine.jpg#/media/File:20170624_019_chaudfontaine.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/20170624_019_chaudfontaine.jpg" alt="20170624 019 chaudfontaine.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Jeanhousen" title="User:Jeanhousen">Jean Housen</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60350131">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:20170624_019_chaudfontaine.jpg#/media/File:20170624_019_chaudfontaine.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5b/20170624_019_chaudfontaine.jpg" alt="Wikimedia Commons photo showing 20170624 019 Chaudfontaine" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Jeanhousen" title="User:Jeanhousen">Jean Housen</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60350131">Link</a></p>
 </div>
 
 {{% notice tip %}}
 ナンバーの文字が<span class="quiz">赤い</span>{{% ex "https://maps.app.goo.gl/6F27iKhAeKodkYTJA" %}}{{% by %}}。はっきりと見えないことも多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./porsche_brugge_street_car.jpg" width="95%" alt="Porsche brugge street car">
+<img src="./porsche_brugge_street_car.jpg" width="95%" alt="Belgium GeoGuessr guide image showing Porsche Brugge Street Car">
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-05-43-30.png)
@@ -71,33 +71,33 @@ sc: [
 小さな６角形の看板はベルギー以外ではあまり使われていない{{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/W97DDHUN14eSxqEV6" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}}。小さく角が丸い自転車やピクトグラムが描かれた看板もベルギー以外ではあまり見ない{{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}}。これ以外の交通標識も全体的にすこし他の国と異なる点が多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road-sign2.jpg" width="98%" alt="Road sign2">
+<img src="road-sign2.jpg" width="98%" alt="Belgium GeoGuessr guide image showing Road sign2">
 </div>
 
 {{% notice tip %}}
 補助標識が青色{{% ex "https://maps.app.goo.gl/F2fXSQCb6sgW8X5k7" "https://maps.app.goo.gl/ErWvVcNC3uRgyaoW9" "https://maps.app.goo.gl/sDDizdRGxBWFruwXA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF%E6%A8%99%E8%AD%98#%E8%A3%9C%E5%8A%A9%E6%A8%99%E8%AD%98" "補助標識" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./rue_du_vieux_moulin.jpg" width="90%" alt="Rue du vieux moulin">
+<img src="./rue_du_vieux_moulin.jpg" width="90%" alt="Belgium GeoGuessr guide image showing Rue Du Vieux Moulin">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIa 150">
-<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GII 10">
-<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Rue scolaire">
-<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Vervormd wegdek">
-<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Rue scolaire">
-<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Vervormd wegdek">
-<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GII 10">
-<img src="./sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px" alt="Belgian road sign B0">
-<img src="./sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px" alt="Belgian road sign A15a">
+<img src="./sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Gia 150">
+<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Gii 10">
+<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Giii Rue Scolaire">
+<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Giii Vervormd Wegdek">
+<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Giii Rue Scolaire">
+<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Giii Vervormd Wegdek">
+<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Gii 10">
+<img src="./sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Road Sign B0">
+<img src="./sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Road Sign A15a">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">白</span>いシンプルなボラード{{% ex "https://maps.app.goo.gl/keYDJnEZZ9jmcxcL6" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Heerweg.jpg#/media/File:Heerweg.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Heerweg.jpg" alt="Heerweg.jpg" width="90%"></a></p><p>By <a href="https://nl.wikipedia.org/wiki/User:Paul_Hermans" class="extiw" title="nl:User:Paul Hermans">Paul Hermans</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1807458">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Heerweg.jpg#/media/File:Heerweg.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Heerweg.jpg" alt="Wikimedia Commons photo showing Heerweg" width="90%"></a></p><p>By <a href="https://nl.wikipedia.org/wiki/User:Paul_Hermans" class="extiw" title="nl:User:Paul Hermans">Paul Hermans</a>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1807458">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -143,7 +143,7 @@ sc: [
 オランダ語が使われていたら<span class="quiz">北</span>へ、雄鶏が描かれたロゴがあったりフランス語が使われていたら<span class="quiz">南</span>へ行ってみる。ドイツ語なら<span class="quiz">東</span>の端へ。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-en.svg#/media/ファイル:Provinces_of_Belgium_with_CoA-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Provinces_of_Belgium_with_CoA-en.svg/1200px-Provinces_of_Belgium_with_CoA-en.svg.png" alt="Provinces of Belgium with CoA-en.svg" width="80%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Lordsutch" title="User:Lordsutch">Lordsutch</a>, based on Greek version by <a href="//commons.wikimedia.org/wiki/User:Wikibelgiaan" title="User:Wikibelgiaan">Wikibelgiaan</a> - <a href="//commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-el.svg" title="File:Provinces of Belgium with CoA-el.svg">File:Provinces_of_Belgium_with_CoA-el.svg</a>, </p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60005619">（Link）</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-en.svg#/media/ファイル:Provinces_of_Belgium_with_CoA-en.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Provinces_of_Belgium_with_CoA-en.svg/1200px-Provinces_of_Belgium_with_CoA-en.svg.png" alt="Wikimedia Commons photo showing 1200px Provinces Of Belgium With Coa en.svg" width="80%"></a></p><p><a href="//commons.wikimedia.org/wiki/User:Lordsutch" title="User:Lordsutch">Lordsutch</a>, based on Greek version by <a href="//commons.wikimedia.org/wiki/User:Wikibelgiaan" title="User:Wikibelgiaan">Wikibelgiaan</a> - <a href="//commons.wikimedia.org/wiki/File:Provinces_of_Belgium_with_CoA-el.svg" title="File:Provinces of Belgium with CoA-el.svg">File:Provinces_of_Belgium_with_CoA-el.svg</a>, </p><p><a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC 表示-継承 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=60005619">（Link）</a></p>
 </div>
 {{% /tab %}}
 {{% tab "家の見た目" %}}
@@ -151,7 +151,7 @@ sc: [
 南の町の家{{% ex "https://maps.app.goo.gl/nF72GGgq7AFQ5UFw8" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./moulin_soulme2.jpg" width="90%" alt="Moulin soulme2">
+<img src="./moulin_soulme2.jpg" width="90%" alt="Belgium GeoGuessr guide image showing Moulin soulme2">
 </div>
 <br />
 
@@ -159,7 +159,7 @@ sc: [
 中央付近の町の家
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./eizer_f.jpg" width="90%" alt="Eizer f">
+<img src="./eizer_f.jpg" width="90%" alt="Belgium GeoGuessr guide image showing Eizer F">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -178,8 +178,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./martelange_streetsign_umfockeknapp.jpg" width="307px" alt="Martelange streetsign umfockeknapp">
-<img src="./plaque_rue_etterbeek_boileau.jpg" width="310px" alt="Plaque rue etterbeek boileau">
+<img src="./martelange_streetsign_umfockeknapp.jpg" width="307px" alt="Belgium GeoGuessr guide image showing Martelange Streetsign Umfockeknapp">
+<img src="./plaque_rue_etterbeek_boileau.jpg" width="310px" alt="Belgium GeoGuessr guide image showing Plaque Rue Etterbeek Boileau">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

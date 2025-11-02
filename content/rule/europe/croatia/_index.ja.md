@@ -52,16 +52,16 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./split_croatia_1.jpg" alt="tisak" width="80%">
-<img src="./sanski_most5.jpg" alt="konzum" width="80%">
+<img src="./split_croatia_1.jpg" alt="Croatia GeoGuessr guide image showing Split Croatia 1" width="80%">
+<img src="./sanski_most5.jpg" alt="Croatia GeoGuessr guide image showing Sanski most5" width="80%">
 </div>
 
 {{% notice tip %}}
 道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある{{% ex "https://maps.app.goo.gl/AMmHBiaDFtHiP4HH6" "https://maps.app.goo.gl/g2qqL7da2hxLLmpp8" "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Fire Hydrant"/></a>
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/in/photolist-KnNTBE-j7kkQ7-fP2JyW-TjEWVE-5tA7Xm-2mVquNr-8oXmDw-5pRahN-2pu3vZ-5pLNcZ-vV3u3H-yKGD4-yKGUG-yKGC9-yKGCM-yKGBN-yKGUk-yKGTX-yKGVn-yKGV1-yKGTq-6tzUdb-2o3BeQt-J6WkYY-5pR6Hs-ecTwKC-27f3Ymt-2ht24qe-9kUEq9-iQJ4fU-5Ry88-xKKFq-xKL1p-xKKZS-xKCTp-xKKEJ-xKKFN-yKGST-xKKGP-yKGCz-pdE4E8-xKKZg-27YGGSy" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Croatia fire hydrant"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Image from live.staticflickr.com showing 9721208374 cea45cc06b W"/></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/in/photolist-KnNTBE-j7kkQ7-fP2JyW-TjEWVE-5tA7Xm-2mVquNr-8oXmDw-5pRahN-2pu3vZ-5pLNcZ-vV3u3H-yKGD4-yKGUG-yKGC9-yKGCM-yKGBN-yKGUk-yKGTX-yKGVn-yKGV1-yKGTq-6tzUdb-2o3BeQt-J6WkYY-5pR6Hs-ecTwKC-27f3Ymt-2ht24qe-9kUEq9-iQJ4fU-5Ry88-xKKFq-xKL1p-xKKZS-xKCTp-xKKEJ-xKKFN-yKGST-xKKGP-yKGCz-pdE4E8-xKKZg-27YGGSy" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Image from live.staticflickr.com showing 19634605133 4666909443 W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -70,7 +70,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./car-example.jpg" width="600px" alt="Car example">
+<img src="./car-example.jpg" width="600px" alt="Croatia GeoGuessr guide image showing Car Example">
 </div>
 
 {{% lb 50 small %}}
@@ -84,7 +84,7 @@ CC0</a>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./autocesta_a5_hrvatska_003.jpg" width="600px" alt="Autocesta a5 hrvatska 003">
+<img src="./autocesta_a5_hrvatska_003.jpg" width="600px" alt="Croatia GeoGuessr guide image showing Autocesta a5 Hrvatska 003">
 </div>
 
 
@@ -93,9 +93,9 @@ CC0</a>
 クロアチアの横断歩道の中の人はベルトを付けている{{% ex "https://maps.app.goo.gl/DFqnqwPTuUpDzUmu6" "https://maps.app.goo.gl/5mTEP7ZJz6BHkYsQ7" %}}。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。足の形が「く」ならクロアチアで「ハ」ならハンガリー。{{% goto "../portugal/" "ポルトガル" %}}や{{% goto "../germany/" "ドイツ" %}}もベルトを付けている点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
-<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="Latvia road sign 535">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hr Road Sign C02">
+<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="R GeoGuessr guide image showing Latvia Road Sign 535">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Hungary Road Sign E 038">
 </div>
 
 {{% notice tip %}}
@@ -106,29 +106,29 @@ CC0</a>
 近い色のシェブロンが見つかる国として{{% goto "../san-marino/" "サンマリノ" %}}や{{% goto "../austria/" "オーストリア" %}}がある
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road-example.png" width="95%" alt="Road example">
-<img src="./arrow.jpg" width="500px" alt="Arrow">
+<img src="./road-example.png" width="95%" alt="Croatia GeoGuessr guide image showing Road Example">
+<img src="./arrow.jpg" width="500px" alt="Croatia GeoGuessr guide image showing Arrow">
 </div>
 
 {{% notice tip %}}
 ユーゴスラビア関連国であるクロアチア・{{% goto "../slovenia/" "スロベニア" %}}・{{% goto "../serbia/" "セルビア" %}}・{{% goto "../montenegro/" "モンテネグロ" %}}・ボスニア=ヘルツェゴビナはガードレールや看板に共通点が多い。これらの国では共通して黄色い看板と角張ったガードレールが見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./tabla_na_ulasku_u_0.jpg" width="95%" alt="Tabla na ulasku u 0">
+<img src="./tabla_na_ulasku_u_0.jpg" width="95%" alt="Croatia GeoGuessr guide image showing Tabla Na Ulasku U 0">
 </div>
 
 {{% notice tip %}}
 赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://maps.app.goo.gl/WPiySja6gVUH2FVn6" "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。{{% goto "../serbia/" "セルビア" %}}でもたまに見かける{{% ex "https://maps.app.goo.gl/8JmiLusejAexJLCw8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./danger.png" width="200px" style="margin:40px" alt="Danger">
+<img src="./danger.png" width="200px" style="margin:40px" alt="Croatia GeoGuessr guide image showing Danger">
 </div>
 
 {{% notice tip %}}
 周辺国と比較するとレンガの家が多い{{% ex "https://maps.app.goo.gl/uFNNEbrfaxMg9XEt8" "https://maps.app.goo.gl/V1em4oWucgWKZRuA9" "https://maps.app.goo.gl/crgMLE8HgNJfZUy58" "https://maps.app.goo.gl/rAMsLuMhwDfsbZyX6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/m-squared_photos/29033245745/in/photolist-a22vNN-ci6hQS-8cjtwN-dFDZLn-f2YX4y-ci6hvU-H68Vfa-akHFCY-LArFMV-LeyYsv-oQu8G5-btvsnr-dsQ2EJ-QAqWHG-oQQP6H-LEabGJ-HX7QVc-9mJ3zJ-hxoAjr-kTGe2X-oopLaW-91VwbU-xCzQRR-8iWwVv-ywuHcu-pqUpSY-hdrm1B-aFbzAc-nFDv8S-hyMifV-j4Pg6P-b66LDa-FBXHsb-8n5s44-cRa8Zf-hyMhAZ-hydWxB-e2QXN-nryifX-qGhpfv-PAPfQo-JvYamG-JvZW9q-RWwz8A-JrjQEX-pPKRpy-h7rgB1-o8WPtb-brSvjc-fd9FUp" title="brick house"><img src="https://live.staticflickr.com/7522/29033245745_c63467fdec_c.jpg" width="90%" alt="brick house"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/m-squared_photos/29033245745/in/photolist-a22vNN-ci6hQS-8cjtwN-dFDZLn-f2YX4y-ci6hvU-H68Vfa-akHFCY-LArFMV-LeyYsv-oQu8G5-btvsnr-dsQ2EJ-QAqWHG-oQQP6H-LEabGJ-HX7QVc-9mJ3zJ-hxoAjr-kTGe2X-oopLaW-91VwbU-xCzQRR-8iWwVv-ywuHcu-pqUpSY-hdrm1B-aFbzAc-nFDv8S-hyMifV-j4Pg6P-b66LDa-FBXHsb-8n5s44-cRa8Zf-hyMhAZ-hydWxB-e2QXN-nryifX-qGhpfv-PAPfQo-JvYamG-JvZW9q-RWwz8A-JrjQEX-pPKRpy-h7rgB1-o8WPtb-brSvjc-fd9FUp" title="brick house"><img src="https://live.staticflickr.com/7522/29033245745_c63467fdec_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 29033245745 c63467fdec C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -175,7 +175,7 @@ CC0</a>
 街中を歩いてみた体感として地名を見る回数の方がずっと多いかも。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><div class="unclickable"><img src="areacode.png" alt="Areacode" /></div></p>
+<p><div class="unclickable"><img src="areacode.png" alt="Croatia GeoGuessr guide image showing Areacode" /></div></p>
 <p>出典：<a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom - Međunarodni promet</a></p>
 </div>
 {{% /tab %}}
@@ -194,7 +194,7 @@ CC0</a>
 {{% notice tip %}}
 島の主な産業はブドウ栽培{{% ex "https://maps.app.goo.gl/SSWENqTiuXZhwL969" "https://maps.app.goo.gl/DqNBW2TBT3CkQvsN9" "https://maps.app.goo.gl/CDrhyrchMuPDJNdQ9" %}}であり島内の耕作地のうち5分の1はブドウ畑。
 {{% /notice %}}
-<img src="./vrbnicko_polje_1.jpg" alt="Vrbnicko polje 1">
+<img src="./vrbnicko_polje_1.jpg" alt="Croatia GeoGuessr guide image showing Vrbnicko Polje 1">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

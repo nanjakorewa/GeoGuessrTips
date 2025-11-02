@@ -38,7 +38,7 @@ sc: [
 <span class="quiz">i・ Ї </span>・є・Ґなどの文字はウクライナ語にはあるが{{% goto "../../asia/russia/" "ロシア"  %}}語には無い。逆に<span class="quiz">ы</span>・ёはロシア語にはあるがウクライナ語にはない。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/in/photolist-8yiWpr-ZzBSxm-bPno8B-EosEkc-8phymC-eQjoqy-Eo88JS-YY3xER-6GupeL-nGkTSB-LP76A1-XqcWu9-25Bus3S-WG7FPr-7rgyWR-nrHHme-ZddSSR-WP71Pe-WKyGA1-oJpiHZ-Rx8fKy-24itCXC-8Z74Jn-fNHsYY-SJGfFN-nbkKXq-aAJGa-6MctQE-g8UGyf-XqTrZk-79wLF9-JgBKbn-kXZRMe-2a7EjRy-23a4FWD-29prkMd-7X1cm9-Q9r6Dk-gTe1t9-g9Z35c-VBd9vT-7E6bC-4YZVc-VuEBNC-9DCkrX-nLQxTZ-qncFYw-282CSjQ-Gc6t94-ftbZ16" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Kiev/Ukraine (09/2010)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sugarmeloncom/4960125167/in/photolist-8yiWpr-ZzBSxm-bPno8B-EosEkc-8phymC-eQjoqy-Eo88JS-YY3xER-6GupeL-nGkTSB-LP76A1-XqcWu9-25Bus3S-WG7FPr-7rgyWR-nrHHme-ZddSSR-WP71Pe-WKyGA1-oJpiHZ-Rx8fKy-24itCXC-8Z74Jn-fNHsYY-SJGfFN-nbkKXq-aAJGa-6MctQE-g8UGyf-XqTrZk-79wLF9-JgBKbn-kXZRMe-2a7EjRy-23a4FWD-29prkMd-7X1cm9-Q9r6Dk-gTe1t9-g9Z35c-VBd9vT-7E6bC-4YZVc-VuEBNC-9DCkrX-nLQxTZ-qncFYw-282CSjQ-Gc6t94-ftbZ16" title="Kiev/Ukraine (09/2010)"><img src="https://live.staticflickr.com/4133/4960125167_dd83f223c0_z.jpg" width="640" height="428" alt="Image from live.staticflickr.com showing 4960125167 dd83f223c0 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -48,7 +48,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-30-18-58-19.png" width="95%" alt="2023 07 30 18 58 19" />
+<img src="2023-07-30-18-58-19.png" width="95%" alt="Ukraine GeoGuessr guide image showing 2023 07 30 18 58 19" />
 </div>
 
 {{% lb 50 %}}
@@ -66,8 +66,8 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="2023 04 17 12 54 04" />
-<img src="2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="2023 04 17 12 53 48" />
+<img src="2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="Ukraine GeoGuessr guide image showing 2023 04 17 12 54 04" />
+<img src="2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="Ukraine GeoGuessr guide image showing 2023 04 17 12 53 48" />
 <div class="description-wide">
 左がウクライナ、右がロシアの一例（※Chrome開発者ツールから「Enumerate vision deficiencies」で表示設定を変えてます）。赤が認識しづらい人はほぼ参考にならないので他のヒントを探してみる。
 </div>
@@ -126,7 +126,7 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./18_134_186.jpg" width="550px" alt="18 134 186">
+<img src="./18_134_186.jpg" width="550px" alt="Ukraine GeoGuessr guide image showing 18 134 186">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

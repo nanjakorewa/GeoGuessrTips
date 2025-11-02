@@ -33,7 +33,7 @@ Há vários trechos com cobertura oficial que não aparecem directamente no mapa
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/afghanistan/main.jpg" width="90%" alt="Main" />
+<img src="/rule/asia/afghanistan/main.jpg" width="90%" alt="Afghanistan GeoGuessr guide image showing Main" />
 </div>
 
 
@@ -41,7 +41,7 @@ Há vários trechos com cobertura oficial que não aparecem directamente no mapa
 Automóveis usam matrículas <span class="quiz">brancas</span>, enquanto autocarros e táxis levam placas amarelas.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/afghanistan/1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%" alt="1133px Afghanistan Iran border in Zaranj, Afghanistan, 2011">
+<img src="/rule/asia/afghanistan/1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%" alt="Afghanistan GeoGuessr guide image showing 1133px Afghanistan Iran Border In Zaranj, Afghanistan, 2011">
 </div>
 
 {{% lb 50 small %}}

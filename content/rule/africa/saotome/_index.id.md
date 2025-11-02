@@ -36,11 +36,11 @@ sc: [
 Perlengkapan jalan gaya Portugis umum; pulau ini koloni Portugis hingga 1975.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/saotome/downtown_sao_tome_africa.jpg" width="95%" alt="Downtown sao tome africa">
+<img src="/rule/africa/saotome/downtown_sao_tome_africa.jpg" width="95%" alt="Saotome GeoGuessr guide image showing Downtown Sao Tome Africa">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/saotome/market_sao_tome_africa.jpg" width="600px" alt="Market sao tome africa">
+<img src="/rule/africa/saotome/market_sao_tome_africa.jpg" width="600px" alt="Saotome GeoGuessr guide image showing Market Sao Tome Africa">
 </div>
 
 {{% /tab %}}

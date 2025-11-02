@@ -44,7 +44,7 @@ sc: [
 黒く細いナンバープレートを付けている{{% ex "https://maps.app.goo.gl/CYKexTLEiPvU7nVt8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./downtown_sao_tome_africa.jpg" width="95%" alt="Downtown sao tome africa">
+<img src="./downtown_sao_tome_africa.jpg" width="95%" alt="Saotome GeoGuessr guide image showing Downtown Sao Tome Africa">
 </div>
 
 {{% lb 50 %}}
@@ -74,7 +74,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./market_sao_tome_africa.jpg" width="600px" alt="Market sao tome africa">
+<img src="./market_sao_tome_africa.jpg" width="600px" alt="Saotome GeoGuessr guide image showing Market Sao Tome Africa">
 </div>
 
 {{% /tab %}}
@@ -84,7 +84,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg#/media/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg" alt="Príncipe Island Biosphere Reserve - Praia Caixão mangorve.jpg" height="720" width="1087"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Antoniodabreu&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Antoniodabreu (page does not exist)">Antoniodabreu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49478613">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg#/media/File:Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Pr%C3%ADncipe_Island_Biosphere_Reserve_-_Praia_Caix%C3%A3o_mangorve.jpg" alt="Wikimedia Commons photo showing Príncipe Island Biosphere Reserve Praia Caixão Mangorve" height="720" width="1087"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Antoniodabreu&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Antoniodabreu (page does not exist)">Antoniodabreu</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49478613">Link</a></p>
 </div>
 
 {{% /tab %}}

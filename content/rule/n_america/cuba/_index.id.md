@@ -32,7 +32,7 @@ flag_height: "400px"
 Tiang listrik yang mirip dengan yang terlihat di {{% goto "../../cs_america/chile/" "Cile" %}} tampaknya umum—perhatikan sisi kanan pada foto-foto ini{{% ex "https://commons.wikimedia.org/wiki/Category:Streets_in_Baracoa#/media/File:Baracoa_HDSR_S5is_Cuba2_587.jpg" "https://commons.wikimedia.org/wiki/File:Baracoa-city.jpg#/media/File:Baracoa-city.jpg" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/cuba/jatibonico_sancti_spiritus_cuba.jpg" width="90%" alt="Jatibonico sancti spiritus cuba">
+<img src="/rule/n_america/cuba/jatibonico_sancti_spiritus_cuba.jpg" width="90%" alt="Cuba GeoGuessr guide image showing Jatibonico Sancti Spiritus Cuba">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

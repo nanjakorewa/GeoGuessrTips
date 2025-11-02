@@ -27,7 +27,7 @@ The intersection name boards are tinted dark brown{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Kofu-sujichigai-road.JPG#/media/File:Kofu-sujichigai-road.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Kofu-sujichigai-road.JPG" alt="Kofu-sujichigai-road.JPG" height="720" width="960"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Kofu-sujichigai-road.JPG#/media/File:Kofu-sujichigai-road.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/7/71/Kofu-sujichigai-road.JPG" alt="Wikimedia Commons photo showing Kofu Sujichigai Road" height="720" width="960"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:%E3%81%95%E3%81%8B%E3%81%8A%E3%82%8A" title="User:さかおり">さかおり</a> - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=11909139">Link</a></p>
 </div>
 

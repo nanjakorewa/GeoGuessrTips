@@ -39,7 +39,7 @@ sc: [
 {{% notice tip %}}Standard passenger vehicles have <span class="quiz">yellow</span> license plates{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}} and drive on the left side.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Elephants At Etosha National 2">
 </div>
 
 {{% lb 50 %}}
@@ -51,13 +51,13 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 {{% notice tip %}}The flat Namib Desert spreads along the coast{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. It is classified as a west coast desert, similar to the {{% goto "../../cs_america/chile/" "Atacama Desert in Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "west coast deserts" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%" alt="Road ahead desert never">
+<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%" alt="Namibia GeoGuessr guide image showing Road Ahead Desert Never">
 </div>
 
 {{% notice tip %}}After colonization by {{% goto "../../europe/germany/" "Germany" %}}, Namibia was under the mandate of the Union of South Africa. As a result, street names with German sounds can be seen{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Windhuk Bahnhofstraﾃ歹.jpg" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" alt="Wikimedia Commons photo showing Windhuk Bahnhofstraße" height="448" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Zairon" title="User:Zairon">Zairon</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=71217869">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -65,7 +65,7 @@ Despite the low population, Namibia is rich in mineral resources like diamonds a
 In places like Swakopmund, European-style architecture influenced by {{% goto "../../europe/germany/" "Germany" %}} still remains{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Swakopmund1">
+<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Namibia GeoGuessr guide image showing swakopmund1">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/cityview.jpg" width="95%" alt="Cityview">
+<img src="/rule/africa/namibia/cityview.jpg" width="95%" alt="Namibia GeoGuessr guide image showing Cityview">
 </div>
 
 
@@ -112,7 +112,7 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
 {{% tabs %}}
 {{% tab "Elevation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" alt="960px Namibia Topography" />
+<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" alt="Namibia GeoGuessr guide image showing 960px Namibia Topography" />
 </div>
 
 {{% notice tip %}}
@@ -127,7 +127,7 @@ Green areas indicate over 80% coverage, while light green areas show visible gro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/glasscover.png" width="70%" alt="Glasscover" />
+<img src="/rule/africa/namibia/glasscover.png" width="70%" alt="Namibia GeoGuessr guide image showing Glasscover" />
 </div>
 
 {{% /tab %}}
@@ -138,7 +138,7 @@ Railways run primarily from the most important port, Walvis Bay (railway lines a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Namibia rail network map de.svg" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Own work</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">OpenStreetMap</a> geodata., <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Link</a></p>
+<p style="width:100%"><a href="https://commons.wikimedia.org/wiki/File:Namibia_rail_network_map_de.svg#/media/File:Namibia_rail_network_map_de.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/88/Namibia_rail_network_map_de.svg" alt="Wikimedia Commons photo showing Namibia Rail Network Map De" width="60%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Htonl" title="User:Htonl">Htonl</a> - <span class="int-own-work" lang="en">Own work</span> / <a href="https://en.wikipedia.org/wiki/en:OpenStreetMap" class="extiw" title="w:en:OpenStreetMap">OpenStreetMap</a> geodata., <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=20231852">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -171,7 +171,7 @@ It appears bushy and spread out from low branches{{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Colophospermum mopane in Namibia" height="480" width="640"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Colophospermum_mopane_arbre_MHNT.jpg#/media/File:Colophospermum_mopane_arbre_MHNT.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Colophospermum_mopane_arbre_MHNT.jpg" alt="Wikimedia Commons photo showing Colophospermum Mopane Arbre Mhnt" height="480" width="640"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Erc%C3%A9" title="User:Ercﾃｩ">Roger Culos</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=34066751">Link</a></p>
 </div>
 
@@ -182,7 +182,7 @@ The so-called "exploding palm" is distributed near northern Angola and along the
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px" alt="Bakuhatsu">
+<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px" alt="Namibia GeoGuessr guide image showing Bakuhatsu">
 </div>
 
 {{% /tab %}}
@@ -192,7 +192,7 @@ Although its silhouette is distinctive, it may not be often seen due to the lack
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Namibia GeoGuessr guide image showing Rock Formations Rocks Dichotoma">
 </div>
 
 {{% notice tip %}}
@@ -200,7 +200,7 @@ The distribution area is shown in the light blue dot region in the image below (
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="Namibia GeoGuessr guide image showing The Tree Aloes Southern">
 </div>
 
 {{% /tab %}}
@@ -223,7 +223,7 @@ The townscape of Aussenkehr {{% ex "https://maps.app.goo.gl/Uis1DJfvpnx7CnAA9" "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Aussenkehr"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 23541851393 f4c5d0f654 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% /tab %}}
@@ -234,7 +234,7 @@ There is a road leading to the popular tourist site called Sossusvlei, surrounde
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" alt="960px Sossusvlei LandSat7" />
+<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" alt="Namibia GeoGuessr guide image showing 960px Sossusvlei LandSat7" />
 </div>
 
 {{% /tab %}}
@@ -245,7 +245,7 @@ Located in northern Namibia, you can see a vast flat-topped mountain {{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Brandberg Namibia 10km Distance" />
 </div>
 
 {{% /tab %}}

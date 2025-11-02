@@ -44,54 +44,54 @@ sc: [
 {{% notice tip %}}地域名などの看板が基本的に２言語で書かれている{{% ex "https://maps.app.goo.gl/tHfoNLBNP3xz2GH28" "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-07-23-10-25-46.png" width="278px" alt="2023 07 23 10 25 46" />
-<img src="2023-07-23-10-23-12.png" width="310px" alt="2023 07 23 10 23 12" />
+<img src="2023-07-23-10-25-46.png" width="278px" alt="Bulgaria GeoGuessr guide image showing 2023 07 23 10 25 46" />
+<img src="2023-07-23-10-23-12.png" width="310px" alt="Bulgaria GeoGuessr guide image showing 2023 07 23 10 23 12" />
 </div>
 
 {{% notice tip %}}横断歩道の標識の線の数は<span class="quiz">4</span>本{{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_c2eea5695b_c.jpg" width="558" height="800" alt="Pedestrian Crosswalk Signs"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jaygalvin/51716825623/in/photolist-5XfKtu-2n8VPc3-HBj6vH-EYcWsg-2muzV9y-5FGnbq-qg5bSm-2Gvq8y-2mN3fti-5qXzUP-aZ7ejg-2h8AESK-8QCdQZ-ADcaw7" title="Pedestrian Crosswalk Signs"><img src="https://live.staticflickr.com/65535/51716825623_c2eea5695b_c.jpg" width="558" height="800" alt="Image from live.staticflickr.com showing 51716825623 c2eea5695b C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}赤茶色の上の部分平らな瓦屋根の家が多くみんな煙突がついている{{% ex "https://maps.app.goo.gl/uZyJXDKDpMm4dnXTA" %}}。2枚目の写真のような瓦もよく見る{{% ex "https://maps.app.goo.gl/V2zNU643L9gUj6Ha9" "https://maps.app.goo.gl/Ja1uWGucQaWgdTPc7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria village cart wooden">
-<img src="./houses_old_home_residences.jpg" width="640" alt="Houses old home residences">
+<img src="./bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria GeoGuessr guide image showing Bulgaria Village Cart Wooden">
+<img src="./houses_old_home_residences.jpg" width="640" alt="Bulgaria GeoGuessr guide image showing Houses Old Home Residences">
 </div>
 
 {{% notice tip %}}{{% goto "../baltic-state/latvia/" "ラトビア" %}}の電柱にある感じのフックのついた電柱がある{{% ex "https://maps.app.goo.gl/8m7JbzZdDwwVNjCz9" "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch"  %}}。また、電柱に黄色いペイントがありそこにキリル文字が書いてある{{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "右下電柱画像の出典" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bulgaria-road.png" width="90%" alt="Bulgaria road">
+<img src="./bulgaria-road.png" width="90%" alt="Bulgaria GeoGuessr guide image showing Bulgaria Road">
 </div>
 
 {{% notice tip %}}この写真に写っている←→←に突き出た鉄塔や電柱もブルガリアによくある{{% ex "https://maps.app.goo.gl/M7zy6gcCFa5VLhuJ8" "https://maps.app.goo.gl/fXuXA6dmWeRTnjJi9" "https://maps.app.goo.gl/CrKQLeKWt7sjcEVdA" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Yoakim Gruevo PD 2011 05.JPG" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bin_im_Garten" title="User:Bin im Garten">Bin im Garten</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17330681">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Yoakim_Gruevo_PD_2011_05.JPG#/media/File:Yoakim_Gruevo_PD_2011_05.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Yoakim_Gruevo_PD_2011_05.JPG" alt="Wikimedia Commons photo showing Yoakim Gruevo Pd 2011 05" height="720" width="1056"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Bin_im_Garten" title="User:Bin im Garten">Bin im Garten</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=17330681">Link</a></p>
 </div>
 
 
 {{% notice tip %}}「<span class="quiz">Ъ</span>」の文字はブルガリアとロシアでしか使われない{{% ref "https://ja.wikipedia.org/wiki/%D0%AA" "Ъ" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./direction_signs_plovdivs_sister.jpg" width="95%" alt="Direction signs plovdivs sister">
+<img src="./direction_signs_plovdivs_sister.jpg" width="95%" alt="Bulgaria GeoGuessr guide image showing Direction Signs Plovdivs Sister">
 </div>
 
 {{% notice tip %}}タイヤのついたブリキ製の丸いふたのゴミ箱が通りや家の前に置いてある{{% ex "https://maps.app.goo.gl/ejG2nFsCEzaYQGwR9" "https://maps.app.goo.gl/4iof8PhKqFXvWZKB9" "https://maps.app.goo.gl/uC3rzE7GAo2CRd696" %}}{{% by %}}。他の国にもあるときはあるのでこれだけで判断しないほうがいいかも。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="gb.jpg" width="95%" alt="Gb">
+<img src="gb.jpg" width="95%" alt="Bulgaria GeoGuessr guide image showing Gb">
 </div>
 
 {{% notice tip %}}路面のコンディションが非常に悪い。現地の人が路面状況マップを作って悪い道を避けるレベル{{% ref "https://www.roads-bg.eu/#8/42.818/24.944" "Bulgarian Road Quality Map" %}}。一人当たりのGDPは2022年時点ではEUで一番低い{{% ref "https://www.mofa.go.jp/mofaj/area/bulgaria/data.html" "外務省 - ブルガリア共和国基礎データ" %}}ためか、家やインフラはボロボロなものが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg#/media/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tsvetarska_Street%2C_Veliko_Tarnovo.jpg" alt="Tsvetarska Street, Veliko Tarnovo.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE" title="User:Андрей Романенко">Андрей Романенко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145099507">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg#/media/File:Tsvetarska_Street,_Veliko_Tarnovo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Tsvetarska_Street%2C_Veliko_Tarnovo.jpg" alt="Wikimedia Commons photo showing Tsvetarska Street, Veliko Tarnovo" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:%D0%90%D0%BD%D0%B4%D1%80%D0%B5%D0%B9_%D0%A0%D0%BE%D0%BC%D0%B0%D0%BD%D0%B5%D0%BD%D0%BA%D0%BE" title="User:Андрей Романенко">Андрей Романенко</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=145099507">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -115,9 +115,9 @@ sc: [
 {{% notice tip %}}ブルガリア最大の電気通信会社である<span class="quiz">Vivacom</span>のアンテナが家に設置されているかも（例<a href="https://www.google.com/maps/@42.6995059,27.2516408,0a,17y,17.68h,105.49t/data=!3m4!1e1!3m2!1sLD0DHiT-1i4jqbCVXxk63w!2e0?source=apiv3">①</a>・<a href="https://goo.gl/maps/7xKpoFArC89Vmygu5">②</a>）。VというロゴかVivacomという文字が描かれている。都市部には店も多く存在する。Bulsatcomのアンテナもある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-28-21-42-59.png" width="90%" alt="2023 05 28 21 42 59">
-<img src="2023-06-24-14-11-26.png" width="100px" alt="2023 06 24 14 11 26">
-<img src="Bulsatcom.svg" width="300px" style="margin:20px" alt="Bulsatcom">
+<img src="2023-05-28-21-42-59.png" width="90%" alt="Bulgaria GeoGuessr guide image showing 2023 05 28 21 42 59">
+<img src="2023-06-24-14-11-26.png" width="100px" alt="Bulgaria GeoGuessr guide image showing 2023 06 24 14 11 26">
+<img src="Bulsatcom.svg" width="300px" style="margin:20px" alt="Bulgaria GeoGuessr guide image showing Bulsatcom">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -128,7 +128,7 @@ sc: [
     <h2>ブルガリア関連グッズ</h2>
         <div class="image-item">
         <a href="https://nanjakorewa.booth.pm/items/7092780" target="_blank">
-            <img src="6dd1f57b-a1c5-4fbb-80de-2282aa612f6d.png" alt="画像3">
+            <img src="6dd1f57b-a1c5-4fbb-80de-2282aa612f6d.png" alt="Bulgaria GeoGuessr guide image showing 6dd1f57b a1c5 4fbb 80de 2282aa612f6d">
         </a>
         <!-- <div class="caption">商品タイトル1</div>-->
         </div>
@@ -150,7 +150,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./belmeken_001.jpg" alt="Belmeken 001">
+<img src="./belmeken_001.jpg" alt="Bulgaria GeoGuessr guide image showing Belmeken 001">
 </div>
 {{% /tab %}}
 {{% tab "Botev Peak" %}}
@@ -159,7 +159,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./botev_peak.jpg" alt="Botev peak">
+<img src="./botev_peak.jpg" alt="Bulgaria GeoGuessr guide image showing Botev Peak">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

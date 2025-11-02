@@ -45,14 +45,14 @@ Os sinais de advertência são laranja e a borda vermelha é <span class="quiz">
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="PL road sign A 7">
-<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="PL road sign A 16">
-<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="PL road sign A 8">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Pl Road Sign A 7">
+<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Pl Road Sign A 16">
+<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Pl Road Sign A 8">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Greek Road sign k01">
-<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Greek Road sign k30">
+<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Greek Road Sign k01">
+<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Poland GeoGuessr guide image showing Greek Road Sign k30">
 </div>
 
 
@@ -65,12 +65,12 @@ Os balizadores <span class="quiz">vermelhos</span> da Polônia são fáceis de r
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland bollards">
+<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland GeoGuessr guide image showing Poland Bollards">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="B1">
-<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="B2">
+<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="Poland GeoGuessr guide image showing b1">
+<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="Poland GeoGuessr guide image showing b2">
 </div>
 
 
@@ -79,8 +79,8 @@ Repare na letra <span class="quiz polish-font">ŁĘ</span>{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="Znak E 2c">
-<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="PL road sign T 28">
+<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="R GeoGuessr guide image showing Znak E 2c">
+<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="R GeoGuessr guide image showing Pl Road Sign T 28">
 </div>
 
 <div class="googlemap-if">
@@ -96,7 +96,7 @@ A placa de faixa de pedestres tem apenas <span class="quiz">uma faixa horizontal
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APVj-d9ANoZ-d9AThF-d9AQJf-d9ANTY-d9AUGE-d9AT4n-d9APyM-d9AULY-d9ARh5-2mPZjqy-d9AQDK-d9AN4k-d9AQ5r-d9AQwV-d9AURC-d9AQUC-d9AQSX-d9AQT5-d9ASce-d9ATus-d9AQNV-d9APCi-d9AUR2-d9AQ3t/" title="Polish Pedestrian Crossing Sign"><img src="https://live.staticflickr.com/3155/3133255251_aaf84c3b9f_b.jpg" width="95%" alt="Polish Pedestrian Crossing Sign by Ribaric"></a>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APVj-d9ANoZ-d9AThF-d9AQJf-d9ANTY-d9AUGE-d9AT4n-d9APyM-d9AULY-d9ARh5-2mPZjqy-d9AQDK-d9AN4k-d9AQ5r-d9AQwV-d9AURC-d9AQUC-d9AQSX-d9AQT5-d9ASce-d9ATus-d9AQNV-d9APCi-d9AUR2-d9AQ3t/" title="Polish Pedestrian Crossing Sign"><img src="https://live.staticflickr.com/3155/3133255251_aaf84c3b9f_b.jpg" width="95%" alt="Image from live.staticflickr.com showing 3133255251 aaf84c3b9f B"></a>
 </div>
 
 {{% /tab %}}
@@ -134,7 +134,7 @@ Os finais <code>-owo/-no</code> são comuns no norte; <code>-ów/-ew</code> domi
 22x pertence a Varsóvia. Ignorando o <code>7x</code> dos celulares, quanto maior o número, mais ao noroeste você está. Se os indícios forem confusos, a região central é uma aposta segura. Lembre-se de que existem prefixos móveis{{% ref "https://en.wikipedia.org/wiki/Telephone_numbers_in_Poland#Mobile_codes" "Telephone numbers in Poland - Mobile codes" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Poland telephone area codes.svg"></a></p><p style="font-size:1.2em">Por Naive cynic - trabalho próprio, derivado de <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a> <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">imagem</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Poland_telephone_area_codes.svg#/media/File:Poland_telephone_area_codes.svg"><img width="70%" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Poland_telephone_area_codes.svg/1200px-Poland_telephone_area_codes.svg.png" alt="Wikimedia Commons photo showing 1200px Poland Telephone Area codes.svg"></a></p><p style="font-size:1.2em">Por Naive cynic - trabalho próprio, derivado de <a href="//commons.wikimedia.org/w/index.php?title=User:Swohmeck&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Swohmeck (page does not exist)">Swohmeck</a> <a href="//commons.wikimedia.org/wiki/File:POL_Voivodships_1975.svg" title="File:POL Voivodships 1975.svg">imagem</a></p><p style="font-size:1.2em"><a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=3454721">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -156,8 +156,8 @@ A preposição “w” significa “em”; procure no mapa o nome que aparece a 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Ilawa ab 1167">
-<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Miastko 039">
+<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Poland GeoGuessr guide image showing Ilawa Ab 1167">
+<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Poland GeoGuessr guide image showing Miastko 039">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -32,7 +32,7 @@ is_has_distinctive_googlecar: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./st_thomas_virgin_islands_1.jpg" width="95%" alt="St thomas virgin islands 1">
+<img src="./st_thomas_virgin_islands_1.jpg" width="95%" alt="Virgin Islands GeoGuessr guide image showing St Thomas Virgin Islands 1">
 </div>
 
 
@@ -40,7 +40,7 @@ is_has_distinctive_googlecar: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./east_end.jpg" width="95%" alt="East end">
+<img src="./east_end.jpg" width="95%" alt="Virgin Islands GeoGuessr guide image showing East End">
 </div>
 
 
@@ -49,8 +49,8 @@ is_has_distinctive_googlecar: true
 {{% notice tip %}}2016年までは水色のナンバープレートが使用されていた{{% ex "https://maps.app.goo.gl/45eDE7xETWB7Hm3G6" %}}。紺色や水色のナンバープレートが見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./640px-Virgin_Islands_license_plate.jpg" width="440" alt="640px Virgin Islands license plate"></p>
-<p><a href="https://commons.wikimedia.org/wiki/File:United_States_Virgin_Islands_license_plate_2015.jpg#/media/File:United_States_Virgin_Islands_license_plate_2015.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/United_States_Virgin_Islands_license_plate_2015.jpg" alt="United States Virgin Islands license plate 2015.jpg" width="440"></a></p>
+<p><img src="./640px-Virgin_Islands_license_plate.jpg" width="440" alt="Virgin Islands GeoGuessr guide image showing 640px Virgin Islands License Plate"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:United_States_Virgin_Islands_license_plate_2015.jpg#/media/File:United_States_Virgin_Islands_license_plate_2015.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/United_States_Virgin_Islands_license_plate_2015.jpg" alt="Wikimedia Commons photo showing United States Virgin Islands License Plate 2015" width="440"></a></p>
 <p>下の画像のみ By <a href="//commons.wikimedia.org/wiki/User:Mattes" title="User:Mattes">User:Mattes</a> - <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by/2.0/de/deed.en" title="Creative Commons Attribution 2.0 de">CC BY 2.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48995829">Link</a></p>
 </div>
 

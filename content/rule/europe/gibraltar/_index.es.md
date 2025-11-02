@@ -37,21 +37,21 @@ sc: [
 La icónica Roca —un enorme bloque de caliza— se eleva sobre la ciudad, de modo que los acantilados quedan pegados a las casas{{% ex "https://maps.app.goo.gl/f2xuSjBFS9fgZtAD6" "https://maps.app.goo.gl/8ttDiLvZ4rF6SPGSA" "https://maps.app.goo.gl/je2FQvmN3EWyYVMT6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/gibraltar/gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar rock british 890293">
+<img src="/rule/europe/gibraltar/gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Gibraltar Rock British 890293">
 </div>
 
 {{% notice tip %}}
 El tráfico discurre por la derecha y las matrículas siguen el formato británico: blancas delante, <span class="quiz">amarillas</span> detrás{{% ex "https://maps.app.goo.gl/k4bE2XNAE4v9x3Y89" "https://maps.app.goo.gl/SpjXPcmpDCzyrWiM6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/gibraltar/car.jpg" width="95%" alt="Car">
+<img src="/rule/europe/gibraltar/car.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Car">
 </div>
 
 {{% notice tip %}}
 Al oeste se extienden el puerto y el astillero{{% ex "https://maps.app.goo.gl/mQgpyFynN1YCH1RN8" "https://maps.app.goo.gl/iY8koRJ9cWyZoC2j7" %}}{{% ref "https://en.wikipedia.org/wiki/Port_of_Gibraltar" "Port of Gibraltar" %}}. Aún hay presencia militar británica, por lo que abundan los barcos y las instalaciones ligadas a la defensa; también destacan el turismo y los servicios financieros.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/gibraltar/gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar monkeys mediterranean sea">
+<img src="/rule/europe/gibraltar/gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar GeoGuessr guide image showing Gibraltar Monkeys Mediterranean Sea">
 </div>
 
 {{% notice tip %}}

@@ -37,7 +37,7 @@ Encontrarás texto en <span class="quiz">urdu</span> (اردو) muy a menudo{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/pakistan/jamamasjidsouthentrance.jpg" width="95%" alt="Jamamasjidsouthentrance" />
+<img src="/rule/asia/pakistan/jamamasjidsouthentrance.jpg" width="95%" alt="Pakistan GeoGuessr guide image showing Jamamasjidsouthentrance" />
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ El traje tradicional salwar kameez tiene pantalones amplios y se ve por todas pa
 
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/asia/pakistan/Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600" alt="Afghan children wearing traditional clothes in Kabul"></p><p>Dominio público, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">Link</a></p>
+<p><img src="/rule/asia/pakistan/Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600" alt="Pakistan GeoGuessr guide image showing Afghan Children Wearing Traditional Clothes In Kabul"></p><p>Dominio público, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">Link</a></p>
 </div>
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ Los postes suelen ser metálicos o del tipo visto en Chile{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Northern_resident.jpg#/media/File:Northern_resident.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Northern_resident.jpg" alt="File:Northern resident.jpg" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Mahanoor_Masood&amp;action=edit&amp;redlink=1" class="new" title="User:Mahanoor Masood (page does not exist)">Mahanoor Masood</a> – <span class="int-own-work" lang="vi">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48639051">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Northern_resident.jpg#/media/File:Northern_resident.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Northern_resident.jpg" alt="Wikimedia Commons photo showing Northern Resident" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/w/index.php?title=User:Mahanoor_Masood&amp;action=edit&amp;redlink=1" class="new" title="User:Mahanoor Masood (page does not exist)">Mahanoor Masood</a> – <span class="int-own-work" lang="vi">Obra propia</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48639051">Link</a></p>
 </div>
 
 
@@ -62,7 +62,7 @@ Los postes suelen ser metálicos o del tipo visto en Chile{{% ex "https://maps.a
 La mayor parte de las escenas urbanas son de Lahore{{% ex "https://maps.app.goo.gl/PC2DHnBw563TocYbA" "https://maps.app.goo.gl/NTEXrfs6KtSovveo6" %}} y hay muchas tomas interiores{{% ex "https://maps.app.goo.gl/W7bU14B4msxZ6z8C7" "https://maps.app.goo.gl/sQWsLGXC7Fg86W9L9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/pakistan/shalamar_garden_lahore_pakistan_1.jpg" width="95%" alt="Shalamar garden lahore pakistan 1">
+<img src="/rule/asia/pakistan/shalamar_garden_lahore_pakistan_1.jpg" width="95%" alt="Pakistan GeoGuessr guide image showing Shalamar Garden Lahore Pakistan 1">
 </div>
 
 {{% notice tip %}}

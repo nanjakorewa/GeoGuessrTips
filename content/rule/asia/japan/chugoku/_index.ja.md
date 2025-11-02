@@ -13,7 +13,7 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chugoku/yamaguchi/" title="山口" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chugoku/yamaguchi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Yamaguchi.svg" alt="山口" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Yamaguchi.svg" alt="Image from geopinning.space showing Yamaguchi" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chugoku/yamaguchi/" class="flag-link">山口</a></p>
     </li>
 </ul>
@@ -32,7 +32,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arakaya_station_zenkei.jpg" width="90%" alt="Arakaya station zenkei">
+<img src="arakaya_station_zenkei.jpg" width="90%" alt="Chugoku GeoGuessr guide image showing Arakaya Station Zenkei">
 </div>
 
 <div class="googlemap-if">

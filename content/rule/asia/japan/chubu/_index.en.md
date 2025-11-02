@@ -13,17 +13,17 @@ flag: "JP.svg"
 <ul class="flag-list-japan">
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/aichi/" title="Aichi" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/aichi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Aichi.svg" alt="Aichi" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Aichi.svg" alt="Image from geopinning.space showing Aichi" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/aichi/" class="flag-link">Aichi</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/shizuoka/" title="Shizuoka" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/shizuoka/" class="flag-link">
-            <img src="https://geopinning.space/flags/Shizuoka.svg" alt="Shizuoka" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Shizuoka.svg" alt="Image from geopinning.space showing Shizuoka" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/shizuoka/" class="flag-link">Shizuoka</a></p>
     </li>
     <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/yamanashi/" title="Yamanashi" class="">
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/yamanashi/" class="flag-link">
-            <img src="https://geopinning.space/flags/Yamanashi.svg" alt="Yamanashi" class="flag-img-link" oncontextmenu="return false;"></a></p>
+            <img src="https://geopinning.space/flags/Yamanashi.svg" alt="Image from geopinning.space showing Yamanashi" class="flag-img-link" oncontextmenu="return false;"></a></p>
         <p><a href="https://geopinning.space/rule/asia/japan/chubu/yamanashi/" class="flag-link">Yamanashi</a></p>
     </li>
 </ul>
@@ -42,12 +42,12 @@ Utility poles and logos for Chubu Electric Power appear in Aichi, Gifu, Mie, Shi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole GeoGuessr guide image showing Pole Chubu">
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="CHUBU Electric Power">
-<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px" alt="CHUBU Electric Power logo">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="Chubu GeoGuessr guide image showing Chubu Electric Power">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px" alt="Chubu GeoGuessr guide image showing Chubu Electric Power Logo">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ The Nobi Plain covers most of Aichi and offers an expansive, level landscape.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg" alt="Nobi plain nagoya from">
+<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg" alt="Chubu GeoGuessr guide image showing Nobi Plain Nagoya From">
 </div>
 
 {{% /tab %}}
@@ -90,7 +90,7 @@ Spiral vehicle-warning bands like the ones on the right can be spotted{{% ref "h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px" alt="Pole hokuriku">
+<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px" alt="Pole GeoGuessr guide image showing Pole Hokuriku">
 </div>
 
 {{% /tab %}}

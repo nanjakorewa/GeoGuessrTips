@@ -37,7 +37,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./street.jpg" width="90%" alt="Street">
+<img src="./street.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Street">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./streetinbatroun.jpg" width="90%" alt="Streetinbatroun">
+<img src="./streetinbatroun.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Streetinbatroun">
 </div>
 
 
@@ -63,7 +63,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Zig-zag lebanese mountain road.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Zig-zag_lebanese_mountain_road.jpg#/media/File:Zig-zag_lebanese_mountain_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/56/Zig-zag_lebanese_mountain_road.jpg" alt="Wikimedia Commons photo showing Zig Zag Lebanese Mountain Road" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Peripitus" title="User:Peripitus">Peripitus</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8331762">Link</a></p>
 </div>
 
 
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Lebanon syria border sep13voa 2">
+<img src="./lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Lebanon Syria Border sep13voa 2">
 </div>
 
 {{% notice tip %}}
@@ -81,7 +81,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bienvenue_rechmaya.jpg" width="90%" alt="Bienvenue rechmaya">
+<img src="./bienvenue_rechmaya.jpg" width="90%" alt="Lebanon GeoGuessr guide image showing Bienvenue Rechmaya">
 </div>
 
 {{% /tab %}}
@@ -106,7 +106,7 @@ sc: [
 {{% tab "農業" %}}
 
 <div class="googlemap-if">
-<img src="./1979-crop.jpg" width="70%" alt="1979 crop">
+<img src="./1979-crop.jpg" width="70%" alt="Lebanon GeoGuessr guide image showing 1979 Crop">
 </div>
 
 {{% /tab %}}
@@ -134,7 +134,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./zahle_lebanon.jpg" width="95%" alt="Zahle lebanon">
+<img src="./zahle_lebanon.jpg" width="95%" alt="Lebanon GeoGuessr guide image showing Zahle Lebanon">
 </div>
 
 {{% /tab %}}

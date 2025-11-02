@@ -26,7 +26,7 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Routes_en_montagne_4.jpg#/media/File:Routes_en_montagne_4.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Routes_en_montagne_4.jpg" height="720" width="1280" alt="Jalan pegunungan di Togo"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Routes_en_montagne_4.jpg#/media/File:Routes_en_montagne_4.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Routes_en_montagne_4.jpg" height="720" width="1280" alt="Wikimedia Commons photo showing Routes En Montagne 4"></a></p>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

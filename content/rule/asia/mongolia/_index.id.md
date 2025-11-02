@@ -35,7 +35,7 @@ Plat nomor kendaraan memiliki area merah di sisi kiri {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/mongolia/mongolia_steppe_horses_altai.jpg" width="95%" alt="Mongolia steppe horses altai">
+<img src="/rule/asia/mongolia/mongolia_steppe_horses_altai.jpg" width="95%" alt="Mongolia GeoGuessr guide image showing Mongolia Steppe Horses Altai">
 </div>
 
 {{% lb 50 %}}
@@ -48,7 +48,7 @@ Oleh Nima Farid - Karya sendiri, CC0, <a href="https://commons.wikimedia.org/w/i
 Yurt (rumah tradisional di dataran tinggi Mongolia) mungkin terlihat dari kejauhan {{% ex "https://maps.app.goo.gl/aJRwu5Mo2uk7b8en8" "https://maps.app.goo.gl/mUTd51UQcCA2UwfM6" "https://maps.app.goo.gl/V7gk5kwoK8TtW3nU8" "https://goo.gl/maps/iy9e9jVHmGwbVHw88" "https://maps.app.goo.gl/ocP6224mJufdTEn99" %}}?
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/mongolia/yurt_mongolia_steppe_altai.jpg" width="95%" alt="Yurt mongolia steppe altai" />
+<img src="/rule/asia/mongolia/yurt_mongolia_steppe_altai.jpg" width="95%" alt="Mongolia GeoGuessr guide image showing Yurt Mongolia Steppe Altai" />
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Mobil Google memiliki desain unik yang hampir selalu langsung menunjukkan Mongol
 Bollard berbentuk pin bowling dapat ditemukan di sisi jalan.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Auf_der_A0501_in_Richtung_Chinggis,_Mongolei.jpg#/media/File:Auf_der_A0501_in_Richtung_Chinggis,_Mongolei.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Auf_der_A0501_in_Richtung_Chinggis%2C_Mongolei.jpg" alt="File:Auf der A0501 in Richtung Chinggis, Mongolei.jpg" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GerritR" title="User:GerritR">GerritR</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90883038">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Auf_der_A0501_in_Richtung_Chinggis,_Mongolei.jpg#/media/File:Auf_der_A0501_in_Richtung_Chinggis,_Mongolei.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Auf_der_A0501_in_Richtung_Chinggis%2C_Mongolei.jpg" alt="Wikimedia Commons photo showing Auf Der A0501 In Richtung Chinggis, Mongolei" height="427" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GerritR" title="User:GerritR">GerritR</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90883038">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -98,7 +98,7 @@ Bollard berbentuk pin bowling dapat ditemukan di sisi jalan.
 {{% tabs %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/asia/mongolia/map6.gif" alt="Map6" /></div>
+<div class="unclickable"><img src="/rule/asia/mongolia/map6.gif" alt="Mongolia GeoGuessr guide image showing map6" /></div>
 <div class="description-wide">
 Legend tour Ltd., INFORMATION FOR TRAVELERS GEOGRAPHICAL FEATURES, <a href="https://www.legendtour.ru/eng/mongolia/informations/geographical_features.shtml">Link</a>, diakses pada 1 Mei 2023.
 </div>

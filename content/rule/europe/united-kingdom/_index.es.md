@@ -52,7 +52,7 @@ es un territorio británico de ultramar{{% goto "../gibraltar/" "Gibraltar" %}}o
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p class="unclickable"><img src="/rule/europe/united-kingdom/uk-bollard.png" width="90%" alt="イギリスのボラード" /></p>
+<p class="unclickable"><img src="/rule/europe/united-kingdom/uk-bollard.png" width="90%" alt="United Kingdom GeoGuessr guide image showing Uk Bollard" /></p>
 <p>Por Maxwell Hamilton, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52560349">Enlace</a>, Procesamiento de imágenes incluido</p>
 </div>
 <br />
@@ -67,7 +67,7 @@ Dominio público
 Si hay muchas casas de ladrillo <span class="quiz">Inglaterra</span> Sin embargo, si hay muchas paredes blancas <span class="quiz">Irlanda</span> Consideremos.Irlanda está abajo a la izquierda.{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}, Reino Unido a la derecha{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Resumen: Curso para principiantes sobre mapas mundiales + Rincón de preguntas" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" alt="Uk street" />
+<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" alt="United Kingdom GeoGuessr guide image showing Uk Street" />
 </div>
 
 
@@ -75,7 +75,7 @@ Si hay muchas casas de ladrillo <span class="quiz">Inglaterra</span> Sin embargo
 <span class="quiz">Un seto plantado con arbustos y hierbas llamado seto.</span> existe en los bordes de las carreteras y alrededor de las casas.{{% ex "https://goo.gl/maps/GbJsgrJg9qL7k63F8" "https://goo.gl/maps/XVp6A4R4SjfNu2jM7" "https://goo.gl/maps/4q7cqszzA1KGDpBs8" "https://goo.gl/maps/pvQbAXWRvLZiD95R9" "https://goo.gl/maps/5osd6kkFRYC7aqBU8" %}}{{% by "http://www.cambridgegreentech.org/greentechthemes/hedgerow.html" "web" "Tecnología de conservación ambiental de Cambridge Tecnología de conservación ambiental > Lista > Hedgerow" %}}.También hay objetos antiguos fabricados antes del siglo XIX y objetos que no han sido mantenidos adecuadamente.{{% by "https://hedgelink.org.uk/guidance/importance-of-hedgerows/" "web" "Importance of hedgerows" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/hedge.jpg" width="85%" alt="イギリスの生垣・ヘッジロウ" />
+<img src="/rule/europe/united-kingdom/hedge.jpg" width="85%" alt="United Kingdom GeoGuessr guide image showing Hedge" />
 </div>
 
 
@@ -86,13 +86,13 @@ En este diagrama, la izquierda <span class="quiz">Irlanda</span> y el correcto <
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" alt="Cevron" />
+<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" alt="United Kingdom GeoGuessr guide image showing Cevron" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;" alt="IE road sign W 062 L">
-<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" alt="UK traffic sign 515" />
+<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;" alt="R GeoGuessr guide image showing Ie Road Sign W 062 L">
+<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" alt="R GeoGuessr guide image showing Uk Traffic Sign 515" />
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ En este diagrama, la izquierda <span class="quiz">Irlanda</span> y el correcto <
 con el reino unido{{% goto "../ireland/" "Irlanda" %}}Hay muchos ojos de gato en las carreteras.{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}.Fue inventado en Inglaterra en 1934 y se utiliza en Inglaterra, Irlanda, Nueva Zelanda y otros países.Sin embargo, rara vez se utiliza en otros países europeos.{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "Ojo de gato (camino)" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg" alt="640px LIGHTDOME">
+<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg" alt="United Kingdom GeoGuessr guide image showing 640px Lightdome">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -124,7 +124,7 @@ El teatro Alexandra Palace está situado en el lado norte de Londres.
     <h2>productos británicos relacionados</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7089427" target="_blank">
-            <img src="/rule/europe/united-kingdom/d8fa3206-84a1-4416-bb8a-31a292165194.png" alt="画像3">
+            <img src="/rule/europe/united-kingdom/d8fa3206-84a1-4416-bb8a-31a292165194.png" alt="United Kingdom GeoGuessr guide image showing d8fa3206 84a1 4416 bb8a 31a292165194">
         </a>
         <!-- <div class="caption">Título del producto 1</div>ーー＞
     </div>
@@ -142,7 +142,7 @@ El teatro Alexandra Palace está situado en el lado norte de Londres.
 {{% tabs %}}
 {{% tab "Agricultura y distribución de plantas." %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%" alt="Veg image large">
+<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%" alt="United Kingdom GeoGuessr guide image showing Veg Image Large">
 </div>
 
 {{% notice tip %}}
@@ -152,7 +152,7 @@ Las tierras cultivadas se extienden hacia el sureste{{% ref "https://www.eea.eur
 {{% /tab %}}
 {{% tab "número de carretera" %}}
 <div class="googlemap-if">
-<img class="no-click" src="/rule/europe/united-kingdom/2023-04-14-22-15-10.png" alt="イギリスにおける高速道路のナンバリング・番号" />
+<img class="no-click" src="/rule/europe/united-kingdom/2023-04-14-22-15-10.png" alt="United Kingdom GeoGuessr guide image showing 2023 04 14 22 15 10" />
 </div>
 {{% /tab %}}
 {{% tab "Código de área" %}}
@@ -160,7 +160,7 @@ Las tierras cultivadas se extienden hacia el sureste{{% ref "https://www.eea.eur
 020 es Londres.La imagen es muy detallada, así que consulte la imagen original.
 {{% /notice %}}
 <div class="googlemap-if">
-<p><a href="https://commons.wikimedia.org/wiki/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png#/media/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png" alt="Map of the Telephone Dialling Codes in the United Kingdom.png" width="90%"></a></p><p>Por <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximiliano Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79071050">Enlace</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png#/media/File:Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Map_of_the_Telephone_Dialling_Codes_in_the_United_Kingdom.png" alt="Wikimedia Commons photo showing Map Of The Telephone Dialling Codes In The United Kingdom" width="90%"></a></p><p>Por <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximiliano Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=79071050">Enlace</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Final del nombre de la ciudad" %}}
@@ -194,7 +194,7 @@ Nunca lo he usado (<a href="https://www.reddit.com/r/dataisbeautiful/comments/17
 {{% tabs %}}
 {{% tab "composición del reino unido" %}}
 <div class="googlemap-if no-margin">
-<img class="no-click" src="/rule/europe/united-kingdom/United_Kingdom_colors.png" width="400px" alt="イギリスを構成する４つのCounty" />
+<img class="no-click" src="/rule/europe/united-kingdom/United_Kingdom_colors.png" width="400px" alt="United Kingdom GeoGuessr guide image showing United Kingdom Colors" />
 </div>
 
 <div class="googlemap-if">
@@ -209,7 +209,7 @@ Nunca lo he usado (<a href="https://www.reddit.com/r/dataisbeautiful/comments/17
 Fácil de entender ya que está escrito de una manera que no se puede pronunciar en inglés.{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "galés" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%" alt="Road sign w">
+<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%" alt="United Kingdom GeoGuessr guide image showing Road Sign W">
 </div>
 
 {{% notice tip %}}
@@ -217,7 +217,7 @@ Hay notaciones como "ARAF" y "SAFLL BWS".{{% ex "https://maps.app.goo.gl/Bz2vFSq
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%" alt="Wales cardiff slow">
+<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%" alt="United Kingdom GeoGuessr guide image showing Wales Cardiff Slow">
 </div>
 {{% /tab %}}
 {{% tab "bolardo blanco y rojo" %}}
@@ -252,7 +252,7 @@ Una isla de destino turístico con forma aproximada de diamante.Hay rutas ciclis
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/alistairhall/478181738/in/photolist-JfNLJ-X2mPf9-vNr86i-2nXTUjJ-2m2KZ59-wkbNSo-sQmcED-s62Raq-2nXTUoM-2huffu6-2nXNywM-vNrkDz-2nXNyzx-7zW8ew-HWt9fy-2huiUU5-sd94kM-2huhYJW-5PMubK-21ZwMkC-uQu5Fv-2huhZ1T-e1B1KM-2nXTUqA-wnZ1BK-2jyTWfo-2nXNyxU-2jyPBwL-Rfji5r-2jyPBAi-CC9GRU-2jyt1gq-K8H377-2jyvbVA-2jzb2BD-2jyvbYr-2jzb2u4-2jza4N3-2jzb2kw-2jyxjS9-2jyPBrq-2jyt1oQ-TTxr2E-dZL1bM-ahVqjT-DxkQW3-TxvkY5-28tqH6i-6PGHz5-ai5QZQ" title="The Isle of Wight cycle route (clockwise)"><img src="https://live.staticflickr.com/217/478181738_b466757b10_c.jpg" width="800" height="533" alt="The Isle of Wight cycle route (clockwise)"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/alistairhall/478181738/in/photolist-JfNLJ-X2mPf9-vNr86i-2nXTUjJ-2m2KZ59-wkbNSo-sQmcED-s62Raq-2nXTUoM-2huffu6-2nXNywM-vNrkDz-2nXNyzx-7zW8ew-HWt9fy-2huiUU5-sd94kM-2huhYJW-5PMubK-21ZwMkC-uQu5Fv-2huhZ1T-e1B1KM-2nXTUqA-wnZ1BK-2jyTWfo-2nXNyxU-2jyPBwL-Rfji5r-2jyPBAi-CC9GRU-2jyt1gq-K8H377-2jyvbVA-2jzb2BD-2jyvbYr-2jzb2u4-2jza4N3-2jzb2kw-2jyxjS9-2jyPBrq-2jyt1oQ-TTxr2E-dZL1bM-ahVqjT-DxkQW3-TxvkY5-28tqH6i-6PGHz5-ai5QZQ" title="The Isle of Wight cycle route (clockwise)"><img src="https://live.staticflickr.com/217/478181738_b466757b10_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 478181738 b466757b10 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

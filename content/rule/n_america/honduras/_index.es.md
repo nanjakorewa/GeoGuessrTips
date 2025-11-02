@@ -31,7 +31,7 @@ is_unofficial: true
 Al igual que en la vecina {{% goto "../mexico/" "México" %}}, los postes eléctricos octagonales son muy comunes{{% ex "https://maps.app.goo.gl/UjetmiEyg5tpUW7P7" "https://maps.app.goo.gl/r7gVzetZS3pq28Nr5" "https://maps.app.goo.gl/GMsf4tmQmEadXT5X8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/honduras/640px-Pespire_Municipalidad_1.jpg" width="90%" alt="640px Pespire Municipalidad 1">
+<img src="/rule/n_america/honduras/640px-Pespire_Municipalidad_1.jpg" width="90%" alt="Honduras GeoGuessr guide image showing 640px Pespire Municipalidad 1">
 </div>
 
 

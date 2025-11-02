@@ -32,7 +32,7 @@ jogmec_detail: true
 Virginia Occidental, sobre todo en el noroeste, tiene un índice de pobreza elevado. Es habitual encontrar casas abandonadas y comercios cerrados{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg" alt="This housing in smithers 0">
+<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg" alt="region1 GeoGuessr guide image showing This Housing In Smithers 0">
 </div>
 {{% /tab %}}
 {{% tab "B. Señales fraccionarias" %}}
@@ -40,7 +40,7 @@ Virginia Occidental, sobre todo en el noroeste, tiene un índice de pobreza elev
 Las señales de carretera que incluyen fracciones son un distintivo de Virginia Occidental. «23/1» indica la primera derivación desde la ruta 23.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia \"fractional\" county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="West Virginia \"fractional\" county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/andrew-turnbull/5904974507/" title="West Virginia \"fractional\" county highway"><img src="https://live.staticflickr.com/5236/5904974507_889fd667ff_b.jpg" width="90%" alt="Image from live.staticflickr.com showing 5904974507 889fd667ff B"fractional\" county highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "C. Muros de piedra" %}}

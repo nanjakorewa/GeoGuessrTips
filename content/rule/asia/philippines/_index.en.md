@@ -41,7 +41,7 @@ Many Philippine houses have <span class="quiz">tin roofs</span>. However, since 
 A tricycle, a combination of a motorcycle and a cart/chair, is used as a cab. There are also pedicabs, a combination of a bicycle and a motorcycle. Buses in flashy colors called jeepneys are also used as the main means of transportation, and public transportation such as buses have yellow license plates. If you drive on the right side of the road and the vehicles are unique, you may be in the Philippines.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/lornick_imaging_of_london/34292275280/in/photolist-UfhSHw-2TTpZ-2n6CDLs-2nkeTpK-UA14bb-ZSJnxR-2jBNTuL-jfXkw2-WMLhBw-2n6Hf2L-2jdh1au-2omnuZ3-QxvGM8-TxRSWG-5w5tfg-Lq2E1S-2n5yHZR-9DqEpg-TxRSKj-UA13Xq-YN5HGu-jfZnE5-QnTj1H-WkLHEG-4sPeZ5-2ocXT5o-2n4nM7P-Mw5vfX-2x5GVD-5bTVPQ-2nrfo4o-2n4ANiC-HrTC6T-2i8Zhuj-pC5rHQ-Xsr1cN-UA14K7-2g8meJv-jfY6Vk-8Gzybu-dv9WrB-qqGcK-UA143q-aYEnsv-bSiCGv-TbUSTo-zBvZCM-28NmoG2-N2puAx-ULGHUN" title="Philippines"><img src="https://live.staticflickr.com/4162/34292275280_d25efc56b0_z.jpg" width="640" height="427" alt="Philippines"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/lornick_imaging_of_london/34292275280/in/photolist-UfhSHw-2TTpZ-2n6CDLs-2nkeTpK-UA14bb-ZSJnxR-2jBNTuL-jfXkw2-WMLhBw-2n6Hf2L-2jdh1au-2omnuZ3-QxvGM8-TxRSWG-5w5tfg-Lq2E1S-2n5yHZR-9DqEpg-TxRSKj-UA13Xq-YN5HGu-jfZnE5-QnTj1H-WkLHEG-4sPeZ5-2ocXT5o-2n4nM7P-Mw5vfX-2x5GVD-5bTVPQ-2nrfo4o-2n4ANiC-HrTC6T-2i8Zhuj-pC5rHQ-Xsr1cN-UA14K7-2g8meJv-jfY6Vk-8Gzybu-dv9WrB-qqGcK-UA143q-aYEnsv-bSiCGv-TbUSTo-zBvZCM-28NmoG2-N2puAx-ULGHUN" title="Philippines"><img src="https://live.staticflickr.com/4162/34292275280_d25efc56b0_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 34292275280 d25efc56b0 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb %}}
@@ -125,22 +125,22 @@ Wild dogs are common on the outskirts of the Philippines, as are buffalo.
 {{% tabs %}}
 {{% tab "Palm" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="70%" alt="2023 05 01 19 06 07" />
+<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="70%" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 07" />
 </div>
 {{% /tab %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="70%" alt="2023 05 01 19 06 44" />
+<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="70%" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 44" />
 </div>
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="70%" alt="2023 05 01 19 08 10" />
+<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="70%" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 08 10" />
 </div>
 {{% /tab %}}
 {{% tab "Sugarcane" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="70%" alt="2023 05 01 19 13 28" />
+<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="70%" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 13 28" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -31,8 +31,8 @@ dont_show_usda: true
 Often, the street name is written on a white ceramic tile-like object{{% ex "https://goo.gl/maps/mLTm8P2y6z5TJkbSA" "https://goo.gl/maps/5h9qXYTs5uq49Vtw6" %}}. It is also unique in that the street names are written in two languages.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/macau/roadsign1.jpg" width="300px" alt="Roadsign1">
-<img src="/rule/asia/macau/roadsign2.jpg" width="300px" alt="Roadsign2">
+<img src="/rule/asia/macau/roadsign1.jpg" width="300px" alt="Macau GeoGuessr guide image showing roadsign1">
+<img src="/rule/asia/macau/roadsign2.jpg" width="300px" alt="Macau GeoGuessr guide image showing roadsign2">
 </div>
 
 {{% notice tip %}}
@@ -40,7 +40,7 @@ Most license plates have a black background.
 If the front and back of the license plate are black, it may not be {{% goto "../hongkong/" "Hong Kong" %}} but Macau.
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/130438292@N02/30768906232/in/photolist-NSWFRj-aY4obg-bCti-5txTHd-7QMaqq-hdw3T-fk7mHV-25cBX-huVJVw-5N8S83-7DVVdo-6wzYXg-476N5P-6RuE3-2KFDaS-2nDsdnA-2hDA1xQ-2nfh9Jz-2ogozTg-KxkD4-2hxfXzV-2hiMsUK-2oe3hnJ-2g7yjGy-2gJJyra-axKahY-GKWqv7-2hgSA21-bW9ZY-4DFYQB-6kSrvH-6kSkpz-axK9gj-2hiJHy1-2xxHX-2xxJm-8zxaCr-2hmAwR5-tQBFq-2hDCNfA-e5Mbx-2gAXDxy-2ipTXeu-2g7Axvj-2hiMtfQ-2hDSduw-2hEaknk-2h4jSBX-avbDZA-xgtefu" title="Macau Taxi"><img src="https://live.staticflickr.com/5629/30768906232_be3aeb8327_z.jpg" width="640" height="427" alt="Macau Taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/130438292@N02/30768906232/in/photolist-NSWFRj-aY4obg-bCti-5txTHd-7QMaqq-hdw3T-fk7mHV-25cBX-huVJVw-5N8S83-7DVVdo-6wzYXg-476N5P-6RuE3-2KFDaS-2nDsdnA-2hDA1xQ-2nfh9Jz-2ogozTg-KxkD4-2hxfXzV-2hiMsUK-2oe3hnJ-2g7yjGy-2gJJyra-axKahY-GKWqv7-2hgSA21-bW9ZY-4DFYQB-6kSrvH-6kSkpz-axK9gj-2hiJHy1-2xxHX-2xxJm-8zxaCr-2hmAwR5-tQBFq-2hDCNfA-e5Mbx-2gAXDxy-2ipTXeu-2g7Axvj-2hiMtfQ-2hDSduw-2hEaknk-2h4jSBX-avbDZA-xgtefu" title="Macau Taxi"><img src="https://live.staticflickr.com/5629/30768906232_be3aeb8327_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 30768906232 be3aeb8327 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% lb 50 %}}
@@ -57,7 +57,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 There are many parking areas on the street and many uniquely shaped meters{{% ex "https://goo.gl/maps/5gVcu8XkR735DdHh8" "https://maps.app.goo.gl/Yogx9c5L2JX96bu79" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:MacauParkingMeter.jpg#/media/File:MacauParkingMeter.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/MacauParkingMeter.jpg" alt="MacauParkingMeter.jpg" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:ATR50&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:ATR50 (page does not exist)">ATR50</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15054264">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:MacauParkingMeter.jpg#/media/File:MacauParkingMeter.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f0/MacauParkingMeter.jpg" alt="Wikimedia Commons photo showing Macauparkingmeter" height="480" width="640"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:ATR50&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:ATR50 (page does not exist)">ATR50</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://www.gnu.org/copyleft/fdl.html" title="GNU Free Documentation License">GFDL</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=15054264">Link</a></p>
 </div>
 
 {{% /tab %}}

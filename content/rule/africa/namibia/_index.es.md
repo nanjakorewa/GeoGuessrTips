@@ -43,7 +43,7 @@ sc: [
 Los turismos llevan matrícula <span class="quiz">amarilla</span> y se conduce por la izquierda{{% ex "https://maps.app.goo.gl/MXqyx7DfD1hWagAR9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Elephants At Etosha National 2">
 </div>
 
 {{% lb 50 %}}
@@ -56,21 +56,21 @@ By Dickelbers – CC BY-SA 4.0
 A lo largo de la costa se extiende el desierto de <span class="quiz">Namib</span> y el terreno es muy llano{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. También existen bolardos poco comunes fuera de Namibia{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}. Es un <span class="quiz">desierto de la costa occidental</span>, como el desierto de Atacama en {{% goto "../../cs_america/chile/" "Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "Desiertos de la costa occidental (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/c34_namibia_png.png" width="95%" alt="C34 namibia png">
+<img src="/rule/africa/namibia/c34_namibia_png.png" width="95%" alt="Namibia GeoGuessr guide image showing c34 Namibia Png">
 </div>
 
 {{% notice tip %}}
 Tras el dominio colonial de {{% goto "../../europe/germany/" "Alemania" %}}, el territorio pasó a la administración del dominio sudafricano; por ello abundan los nombres de calles y lugares de <span class="quiz">sonoridad alemana</span>{{% ex "https://maps.app.goo.gl/DB8Ufvba8oxpSPD27" "https://maps.app.goo.gl/h67rV7w6M5x6xECP7" "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" height="448" width="640" alt="Windhuk Bahnhofstraße"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Windhuk_Bahnhofstra%C3%9Fe.jpg#/media/File:Windhuk_Bahnhofstra%C3%9Fe.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Windhuk_Bahnhofstra%C3%9Fe.jpg" height="448" width="640" alt="Wikimedia Commons photo showing Windhuk Bahnhofstraße"></a></p>
 </div>
 
 {{% notice tip %}}
 Con poca población pero muchos recursos (diamantes, uranio), las zonas urbanas tienden a ser más seguras y con buena <span class="quiz">infraestructura</span>{{% ex "https://maps.app.goo.gl/tasd2CRDKQ6BD5zA8" %}}. En lugares como <span class="quiz">Swakopmund</span> todavía quedan edificios de estilo europeo influido por Alemania{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Swakopmund1">
+<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Namibia GeoGuessr guide image showing swakopmund1">
 </div>
 
 {{% notice tip %}}
@@ -86,10 +86,10 @@ El <span class="quiz">coche de Google</span> a veces muestra el techo <span clas
 El <span class="quiz">Kokerboom</span> (Aloidendron dichotomum) crece en zonas áridas; en Namibia se ven formaciones rocosas con ejemplares dispersos{{% ref "https://www.inaturalist.org/observations/242135414" "Aloidendron dichotomum - iNaturalist" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Namibia GeoGuessr guide image showing Rock Formations Rocks Dichotoma">
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="Namibia GeoGuessr guide image showing The Tree Aloes Southern">
 </div>
 {{% /tab %}}
 {{% tab "Welwitschia" %}}
@@ -97,7 +97,7 @@ El <span class="quiz">Kokerboom</span> (Aloidendron dichotomum) crece en zonas �
 La <span class="quiz">Welwitschia</span> solo crece en el desierto de <span class="quiz">Namib</span> (Angola y Namibia), con la mayoría de registros dentro de un radio de ~80 km desde la costa{{% ref "https://www.krugerpark.co.za/africa_welwitschia.html" "Welwitschia" %}}{{% ref "https://atlasofnamibia.online/chapter-6/plant-richness-endemism-floristic-groups" "Atlas of Namibia" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/welwitschia_mirabillis_namibia_49479.jpg" width="60%" alt="Welwitschia mirabillis namibia 49479">
+<img src="/rule/africa/namibia/welwitschia_mirabillis_namibia_49479.jpg" width="60%" alt="Namibia GeoGuessr guide image showing Welwitschia Mirabillis Namibia 49479">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -118,7 +118,7 @@ La <span class="quiz">Welwitschia</span> solo crece en el desierto de <span clas
 Paisaje urbano de Aussenkehr{{% ex "https://maps.app.goo.gl/Uis1DJfvpnx7CnAA9" "https://maps.app.goo.gl/anJRrxazzPb2J9ED7" %}}; hay explotaciones agrícolas alrededor{{% ref "https://en.wikipedia.org/wiki/Aussenkehr" "Aussenkehr" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Aussenkehr"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/paulk/23541851393/in/photolist-BSj9ex-CnzomU-CMoPmN-gjUdHD-otS4sf-ocoVZg-5ediHJ-5edigf-otS6Vw-otSdXY-27dSarA-ocoY6b-otTLq8-ddJ2Mq-ddJ25C-ddHZLm-29QENND-29LhDbG-29LhGME-29TTu88-28sFJuv-nyACwk-TTmK1F-27eKrdb-TFWVk8-CgcpFM-24y87PC-2o5GfQF-fBmWxF-dfpLhT-27eKrJw-24y85Uq-27eKs2L-27iNTUr-25yjiEA-otRVay-KaVUVo-27iNsG2-Kk5Bdm-26d7Hqm-KaVSZE-Kk5BG7-oFmeym-24y8hGy-Kk5B4U-oXQuCe-oVNzPy-oFkGpD-oFmoW8-24y89vo" title="Aussenkehr"><img src="https://live.staticflickr.com/1659/23541851393_f4c5d0f654_c.jpg" width="800" height="533" alt="Image from live.staticflickr.com showing 23541851393 f4c5d0f654 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "Oranjemund" %}}
@@ -134,7 +134,7 @@ Antigua zona privada de una compañía de diamantes; casi no hay construcciones 
 La ruta hacia <span class="quiz">Sossusvlei</span> discurre por una llanura entre <span class="quiz">dunas rojas</span>, algo visible desde satélite{{% ex "https://maps.app.goo.gl/tT63QrNTcGnTrk9W9" %}}{{% ref "https://www.sossusvlei.org/" "Sossusvlei" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" alt="960px Sossusvlei LandSat7" />
+<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" alt="Namibia GeoGuessr guide image showing 960px Sossusvlei LandSat7" />
 </div>
 {{% /tab %}}
 {{% tab "Brandberg" %}}
@@ -142,7 +142,7 @@ La ruta hacia <span class="quiz">Sossusvlei</span> discurre por una llanura entr
 En el norte se divisa la gran meseta de <span class="quiz">Brandberg</span> {{% ex "https://maps.app.goo.gl/jfWCVCCYZTbECnQ79" "https://maps.app.goo.gl/VuWPNFnpncTx3VAx7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Namibia GeoGuessr guide image showing Brandberg Namibia 10km Distance" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

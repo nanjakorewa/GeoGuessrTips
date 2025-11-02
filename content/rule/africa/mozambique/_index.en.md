@@ -27,7 +27,7 @@ is_unofficial: true
 Japan imports coal and liquefied natural gas from Mozambique, resulting in a trade deficit with the country{{% ref "https://www.jetro.go.jp/world/africa/mz/gtir/" "Mozambique trade and investment information (JETRO)" %}}. Companies such as Mozal, which receive investment from Japanese firms, have grown into major domestic corporations, highlighting the depth of Japan–Mozambique ties.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mozambique/Mozal_logo.png" alt="Mozal logo">
+<img src="/rule/africa/mozambique/Mozal_logo.png" alt="Mozambique GeoGuessr guide image showing Mozal Logo">
 </div>
 
 {{% /tab %}}

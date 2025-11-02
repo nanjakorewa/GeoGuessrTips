@@ -42,13 +42,13 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:5px;">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
-<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
-<img src="./r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
-<img src="./canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px" alt="Canada sp nu">
-<img src="../usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px" alt="MUTCD R2 1">
-<img src="../usa/r/sp-oregon.png" width="66px" style="margin:5px" alt="Sp oregon">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Ca On Road Sign Rb 001 050">
+<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Canada Sp Bc">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign P 070 4 40">
+<img src="./r/sp-on.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Sp On">
+<img src="./canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px" alt="Canada GeoGuessr guide image showing Canada Sp Nu">
+<img src="../usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px" alt="R GeoGuessr guide image showing Mutcd R2 1">
+<img src="../usa/r/sp-oregon.png" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Sp Oregon">
 </div>
 
 </div>
@@ -56,44 +56,44 @@ sc: [
 {{% notice tip %}}カナダはYEILDやONEWAYの看板に文字が無い。左がカナダ・右がアメリカ。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px" alt="CA MUTCDC RA 002">
-<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px" alt="MUTCD R1 2">
+<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Ca Mutcdc Ra 002">
+<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Mutcd R1 2">
 </div>
 <div class="googlemap-if unclickable">
-<img src="../canada/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
-<img src="../usa/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
+<img src="../canada/r/oneway.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Oneway">
+<img src="../usa/r/oneway.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Oneway">
 </div>
 
 {{% notice tip %}}こういう感じのポストが多い。どこかにCANADA POSTと書いてあるはず。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./canadapostcommunitymailboxes9.jpg" width="80%" alt="Canadapostcommunitymailboxes9" />
-<img src="./canadapostcommunitymailboxes5.jpg" width="250px" alt="Canadapostcommunitymailboxes5" />
-<img src="./canadapostmailbox.jpg" width="250px" alt="Canadapostmailbox" />
+<img src="./canadapostcommunitymailboxes9.jpg" width="80%" alt="Canada GeoGuessr guide image showing canadapostcommunitymailboxes9" />
+<img src="./canadapostcommunitymailboxes5.jpg" width="250px" alt="Canada GeoGuessr guide image showing canadapostcommunitymailboxes5" />
+<img src="./canadapostmailbox.jpg" width="250px" alt="Canada GeoGuessr guide image showing Canadapostmailbox" />
 </div>
 
 {{% notice tip %}}チェッカーボードのような看板がある{{% ex "https://goo.gl/maps/H4Cp8txV2x2FRdxa6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./opeongo_road_signs.jpg" width="90%" alt="Opeongo road signs" />
+<img src="./opeongo_road_signs.jpg" width="90%" alt="Canada GeoGuessr guide image showing Opeongo Road Signs" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px" alt="CA QC road sign D 280">
-<img src="./Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8LR">
-<img src="./Ontario_Wa-8R.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8R">
+<img src="./CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign D 280">
+<img src="./Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px" alt="Canada GeoGuessr guide image showing Ontario Wa 8LR">
+<img src="./Ontario_Wa-8R.svg" width="130px" style="margin-right:20px" alt="Canada GeoGuessr guide image showing Ontario Wa 8R">
 </div>
 
 {{% notice tip %}}TDと書かれた銀行はトロント・ドミニオン銀行の系列。RBCはRoyal Bank of Canadaの略。それぞれ国内２位と１位の資産規模。
 {{% /notice %}}
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/57156785@N02/44243680621/in/photolist-2apEqPF-2k3u5Vp-2k5nE34-2iy4iAq-zfK741-2b4g1hd-8ofxdx-6pVbre-6pZkMh-2ozianU-2oc7xSn-zyqpEn-LopPat-2oG9Ts8-55vEAe-fDKLZx-LW1i9o-e4oo6a-rv5Mn1-2mWAKXU-2osbwHd-2oHCBFQ-5S6fjC-2i6uvpG-vypsm-GTJfmt-sv4XYe-2nUZ1mo-FonQSJ-6HHYJw-PykKLu-D2W89U-2nb4t6W-2nGHSa8-2o1pQuT-egNVbc-9BfMp3-FZTzNH-2okTm7A-2ntWgkb-2nwCtgd-DfXeo-hpY92-2nwpGeS-2mXGC7H-2nXgvAB-cMyfLJ-2iETZYD-2nFKhBN-2m7gnDm" title="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"><img src="https://live.staticflickr.com/1868/44243680621_598b1c2477_z.jpg" width="640" height="396" alt="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/57156785@N02/44243680621/in/photolist-2apEqPF-2k3u5Vp-2k5nE34-2iy4iAq-zfK741-2b4g1hd-8ofxdx-6pVbre-6pZkMh-2ozianU-2oc7xSn-zyqpEn-LopPat-2oG9Ts8-55vEAe-fDKLZx-LW1i9o-e4oo6a-rv5Mn1-2mWAKXU-2osbwHd-2oHCBFQ-5S6fjC-2i6uvpG-vypsm-GTJfmt-sv4XYe-2nUZ1mo-FonQSJ-6HHYJw-PykKLu-D2W89U-2nb4t6W-2nGHSa8-2o1pQuT-egNVbc-9BfMp3-FZTzNH-2okTm7A-2ntWgkb-2nwCtgd-DfXeo-hpY92-2nwpGeS-2mXGC7H-2nXgvAB-cMyfLJ-2iETZYD-2nFKhBN-2m7gnDm" title="TD Canada Trust Bank (Formerly Dominion Bank) .... 420 Bloor Street East .... Toronto, Ontario"><img src="https://live.staticflickr.com/1868/44243680621_598b1c2477_z.jpg" width="640" height="396" alt="Image from live.staticflickr.com showing 44243680621 598b1c2477 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px" alt="Toronto Dominion Bank logo">
-<img src="./RBC_Royal_Bank.svg" width="100px" style="margin-left:100px" alt="RBC Royal Bank">
+<img src="./Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px" alt="Canada GeoGuessr guide image showing Toronto Dominion Bank Logo">
+<img src="./RBC_Royal_Bank.svg" width="100px" style="margin-left:100px" alt="Canada GeoGuessr guide image showing Rbc Royal Bank">
 </div>
 
 {{% /tab %}}
@@ -156,7 +156,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800" alt="1073px Canada Map 3 Terrain DPLA 9d3a2bcd16e310769d57247c939b852b">
+<img src="./1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800" alt="Canada GeoGuessr guide image showing 1073px Canada Map 3 Terrain Dpla 9d3a2bcd16e310769d57247c939b852b">
 </div>
 
 {{% /tab %}}
@@ -191,20 +191,20 @@ sc: [
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px" alt="Nunavut Stop Sign SVG">
-<img src="./r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px" alt="CA QC road sign P 010 fr">
-<img src="./r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px" alt="New Brunswick stop sign">
+<img src="./r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px" alt="R GeoGuessr guide image showing Nunavut Stop Sign Svg">
+<img src="./r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px" alt="R GeoGuessr guide image showing Ca Qc Road Sign P 010 Fr">
+<img src="./r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px" alt="R GeoGuessr guide image showing New Brunswick Stop Sign">
 </div>
 
 {{% /tab %}}
 {{% tab "速度表記" %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
-<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
-<img src="./r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
-<img src="./canada-sp-nu.png" width="66px" style="margin:5px" alt="Canada sp nu">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Ca On Road Sign Rb 001 050">
+<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Canada Sp Bc">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign P 070 4 40">
+<img src="./r/sp-on.svg" width="66px" style="margin:5px" alt="R GeoGuessr guide image showing Sp On">
+<img src="./canada-sp-nu.png" width="66px" style="margin:5px" alt="Canada GeoGuessr guide image showing Canada Sp Nu">
 </div>
 
 
@@ -261,7 +261,7 @@ sc: [
 細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州{{% ex "https://goo.gl/maps/goHrTyUv3ALQ8DLt5" "https://goo.gl/maps/RYguMToduYg11Cfe8" %}}。{{% goto "../usa/" "アメリカ" %}}にも似たようなボラードがある{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}点にのみ注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./a20_ouest_km143.jpg" width="90%" alt="A20 ouest km143">
+<img src="./a20_ouest_km143.jpg" width="90%" alt="Canada GeoGuessr guide image showing a20 Ouest km143">
 </div>
 {{% /tab %}}
 {{% tab "オンタリオ" %}}
@@ -286,14 +286,14 @@ sc: [
 {{% tab "小麦" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-45-23.png" width="80%" alt="2023 04 29 19 45 23" />
+<img src="2023-04-29-19-45-23.png" width="80%" alt="Canada GeoGuessr guide image showing 2023 04 29 19 45 23" />
 </div>
 
 {{% /tab %}}
 {{% tab "コーン" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-35-46.png" width="80%" alt="2023 04 29 19 35 46" />
+<img src="2023-04-29-19-35-46.png" width="80%" alt="Canada GeoGuessr guide image showing 2023 04 29 19 35 46" />
 </div>
 
 {{% notice note %}}

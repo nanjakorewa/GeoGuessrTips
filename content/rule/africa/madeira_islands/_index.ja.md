@@ -50,7 +50,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.png" width="95%" alt="Road">
+<img src="./road.png" width="95%" alt="Madeira Islands GeoGuessr guide image showing Road">
 </div>
 
 
@@ -59,7 +59,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/137900627@N06/30038310505/in/photolist-QukbYw-2438PZ5-MLoccg-SFYBG3-MfepHw-JSLrzh-BZ2S3u-YU9NRk-2eD7HoU-x3uDkL-2ccR42X-21apiER-GUbBje-P51m4e-283SxMB-ZHWxkg-ZTsH56-FCRifn-2cps3Fw-G1PnHo-achkcL-21wVH7R-qaaCVn-2bgw4XX-QaF53v-KW6Mhy-opupcx-26qRyuq-2bGvUhs-23csMwJ-2937NiS-28mRt1F-2fva5YF-2bhXQKE-DFfAjw-YjgY2M-26eok76-T8jF88-N2gWU7-nCmn9t-KMpuay-2boArL9-2eJLEsK-pPLkga-29MMRoM-2eD5qJ2-Z7uJY1-25MJBT8-ae5KBn-Cxc4ni" title="Madeira"><img src="https://live.staticflickr.com/8265/30038310505_d10196963c_z.jpg" width="640" height="427" alt="Madeira"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/137900627@N06/30038310505/in/photolist-QukbYw-2438PZ5-MLoccg-SFYBG3-MfepHw-JSLrzh-BZ2S3u-YU9NRk-2eD7HoU-x3uDkL-2ccR42X-21apiER-GUbBje-P51m4e-283SxMB-ZHWxkg-ZTsH56-FCRifn-2cps3Fw-G1PnHo-achkcL-21wVH7R-qaaCVn-2bgw4XX-QaF53v-KW6Mhy-opupcx-26qRyuq-2bGvUhs-23csMwJ-2937NiS-28mRt1F-2fva5YF-2bhXQKE-DFfAjw-YjgY2M-26eok76-T8jF88-N2gWU7-nCmn9t-KMpuay-2boArL9-2eJLEsK-pPLkga-29MMRoM-2eD5qJ2-Z7uJY1-25MJBT8-ae5KBn-Cxc4ni" title="Madeira"><img src="https://live.staticflickr.com/8265/30038310505_d10196963c_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 30038310505 d10196963c Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 
@@ -68,7 +68,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/136921721@N07/43735686211/in/photolist-29CLPMn-Zq6ZJQ-RHrAZt-27K6F1h-QPdRqW-28z77wj-25uUdzW-YrHqVz-PJ9ZBU-K3hNcQ-PJ9ZCf-H5GPCk-29Aww88-R1voDx-eck3pc-28ndCuY-coYWTG-ad1eeF-26uEK3s-J9ofyR-iKNDfi-coYYhf-2fxEqUx-szPwpw-coYVCY-coYZw7-2364inF-9nXCFZ-JsGuAK-DRpPTd-KHQwHW-27EsKfB-77FP6Z-VwK7nf-byRYXc-V5cZGJ-FjGUjf-coZ3c3-2a8EVGA-VpSNtu-pKfDzz-E1hfex-R1v6Yi-VwK7fb-ATRCEB-xCf4Zz-SYrrE7-LP1PY9-EXrFDU-eAyWHG" title="Madeira"><img src="https://live.staticflickr.com/940/43735686211_3bf78d82b8_z.jpg" width="640" height="427" alt="Madeira"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/136921721@N07/43735686211/in/photolist-29CLPMn-Zq6ZJQ-RHrAZt-27K6F1h-QPdRqW-28z77wj-25uUdzW-YrHqVz-PJ9ZBU-K3hNcQ-PJ9ZCf-H5GPCk-29Aww88-R1voDx-eck3pc-28ndCuY-coYWTG-ad1eeF-26uEK3s-J9ofyR-iKNDfi-coYYhf-2fxEqUx-szPwpw-coYVCY-coYZw7-2364inF-9nXCFZ-JsGuAK-DRpPTd-KHQwHW-27EsKfB-77FP6Z-VwK7nf-byRYXc-V5cZGJ-FjGUjf-coZ3c3-2a8EVGA-VpSNtu-pKfDzz-E1hfex-R1v6Yi-VwK7fb-ATRCEB-xCf4Zz-SYrrE7-LP1PY9-EXrFDU-eAyWHG" title="Madeira"><img src="https://live.staticflickr.com/940/43735686211_3bf78d82b8_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 43735686211 3bf78d82b8 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 
@@ -78,7 +78,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./madeira_funchal_panorama_647920.jpg" width="95%" alt="Madeira funchal panorama 647920">
+<img src="./madeira_funchal_panorama_647920.jpg" width="95%" alt="Madeira Islands GeoGuessr guide image showing Madeira Funchal Panorama 647920">
 </div>
 
 

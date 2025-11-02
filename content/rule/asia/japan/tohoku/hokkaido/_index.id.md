@@ -38,7 +38,7 @@ Daerah bersalju memasang <span class="quiz">panah tergantung</span> untuk menunj
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/tohoku/hokkaido/Kōnomai02.jpg" width="80%" alt="Kōnomai02">
+<img src="/rule/asia/japan/tohoku/hokkaido/Kōnomai02.jpg" width="80%" alt="Hokkaido GeoGuessr guide image showing Kōnomai02">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ Daerah bersalju memasang <span class="quiz">panah tergantung</span> untuk menunj
 Tanaman fuki (Petasites japonicus) sering tumbuh berkelompok di tepi jalan. Jumlahnya yang banyak menjadi ciri khas Hokkaidō.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/komon03.jpg" alt="Komon03">
+<img src="/rule/asia/japan/tohoku/hokkaido/komon03.jpg" alt="Hokkaido GeoGuessr guide image showing komon03">
 </div>
 {{% /tab %}}
 {{% tab "Tiang listrik" %}}
@@ -57,7 +57,7 @@ Tiang listrik menampilkan angka besar secara vertikal; pola ini mudah dibedakan{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="120px" alt="Pole hokkaido">
+<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="120px" alt="Pole GeoGuessr guide image showing Pole Hokkaido">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ Jika menemukan <span class="quiz">Seicomart</span>, hampir pasti Anda berada dal
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/tohoku/hokkaido/Akan_bus_Akan01.jpg" width="80%" alt="Akan bus Akan01">
+<img src="/rule/asia/japan/tohoku/hokkaido/Akan_bus_Akan01.jpg" width="80%" alt="Hokkaido GeoGuessr guide image showing Akan Bus Akan01">
 </div>
 
 
@@ -80,7 +80,7 @@ Rumah-rumah di Hokkaidō memiliki <span class="quiz">tangki minyak tanah</span>,
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg#/media/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Typical_Residential_Street_in_Yuni%2C_Hokkaido.jpg" alt="Typical Residential Street in Yuni, Hokkaido.jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=115473171">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg#/media/File:Typical_Residential_Street_in_Yuni,_Hokkaido.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ad/Typical_Residential_Street_in_Yuni%2C_Hokkaido.jpg" alt="Wikimedia Commons photo showing Typical Residential Street In Yuni, Hokkaido" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Sgroey" title="User:Sgroey">Sgroey</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=115473171">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -92,7 +92,7 @@ Di beberapa persimpangan terdapat <span class="quiz">kotak pasir</span> untuk me
 
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/960px-Sandbox02.jpg" alt="960px Sandbox02">
+<img src="/rule/asia/japan/tohoku/hokkaido/960px-Sandbox02.jpg" alt="Hokkaido GeoGuessr guide image showing 960px Sandbox02">
 </div>
 
 {{% /tab %}}
@@ -102,7 +102,7 @@ Di beberapa persimpangan terdapat <span class="quiz">kotak pasir</span> untuk me
 Beberapa rambu lalu lintas khas Hokkaidō jarang terlihat di prefektur lain{{% ex "https://maps.app.goo.gl/6R9bUhSauoZT8RsX9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/Japanese_road_sign_406-2.svg" width="250px" alt="Japanese road sign 406 2">
+<img src="/rule/asia/japan/tohoku/hokkaido/Japanese_road_sign_406-2.svg" width="250px" alt="Hokkaido GeoGuessr guide image showing Japanese Road Sign 406 2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

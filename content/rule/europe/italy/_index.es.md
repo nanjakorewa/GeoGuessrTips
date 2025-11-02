@@ -47,7 +47,7 @@ Los bolardos italianos tienen la punta negra en forma de triángulo{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/italy/bollard.png" width="90%" alt="Bolardo italiano" />
+<img src="/rule/europe/italy/bollard.png" width="90%" alt="Italy GeoGuessr guide image showing Bollard" />
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Las matrículas llevan franjas azules en ambos lados{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/car.png" width="90%" alt="Car">
+<img src="/rule/europe/italy/car.png" width="90%" alt="Italy GeoGuessr guide image showing Car">
 </div>
 
 {{% lb 50 %}}
@@ -69,13 +69,13 @@ Los letreros suelen ser placas cuadradas con bordes internos redondeados{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px" alt="Italian traffic signs attraversamento pedonale">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px" alt="Italian traffic signs SOS">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px" alt="Italian traffic signs velocità consigliata 50">
-<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px" alt="Segnale numerazione cavalcavia 100 A2">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px" alt="Italian traffic signs zona a velocità limitata (figura II 323 a)">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px" alt="Italian traffic signs autostrada">
-<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px" alt="Roadside">
+<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Italian Traffic Signs Attraversamento Pedonale">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Sos">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Velocità Consigliata 50">
+<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Segnale Numerazione Cavalcavia 100 A2">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Zona A Velocità Limitata (figura Ii 323 a)">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px" alt="Sign Example GeoGuessr guide image showing Italian Traffic Signs Autostrada">
+<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px" alt="R GeoGuessr guide image showing Roadside">
 </div>
 
 {{% notice tip %}}
@@ -83,12 +83,12 @@ Los escudos SP/SS y los octágonos “A” solo existen en Italia{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/road-sign.png" width="90%" alt="Road sign">
+<img src="/rule/europe/italy/road-sign.png" width="90%" alt="Italy GeoGuessr guide image showing Road Sign">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px" alt="Autostrada A4 Italia">
-<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px" alt="Strada Statale 10 Italia">
+<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px" alt="R GeoGuessr guide image showing Autostrada A4 Italia">
+<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px" alt="R GeoGuessr guide image showing Strada Statale 10 Italia">
 </div>
 
 {{% notice tip %}}
@@ -96,7 +96,7 @@ La parte trasera de los carteles suele ser <span class="quiz">negra o gris</span
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-back.jpg" width="90%" alt="Sign back">
+<img src="./sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
 </div>
 
 {{% notice tip %}}
@@ -104,7 +104,7 @@ Las tiendas Tabacchi muestran un letrero “T” negra{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./tabacchi.jpg" width="90%" alt="Tabacchi">
+<img src="./tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Las viñas y olivares dominan los paisajes rurales{{% ex "https://goo.gl/maps/dV
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard.jpg" width="90%" alt="Vineyard">
+<img src="./vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Alamedas de pinos y cipreses escoltan muchas carreteras toscanas{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pinus.jpg" width="90%" alt="Pinus">
+<img src="./pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
 </div>
 
 {{% notice tip %}}
@@ -128,7 +128,7 @@ Alamedas de pinos y cipreses escoltan muchas carreteras toscanas{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./via-signs.jpg" width="90%" alt="Via signs">
+<img src="./via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
 </div>
 
 {{% /tab %}}
@@ -139,7 +139,7 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard2.jpg" width="95%" alt="Vineyard2">
+<img src="./vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
 </div>
 
 {{% /tab %}}
@@ -157,12 +157,12 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% tabs %}}
 {{% tab "Cipreses" %}}
 <div class="googlemap-if no-margin">
-<img src="./cypress_lane.jpg" width="95%" alt="Cypress lane">
+<img src="./cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
 </div>
 {{% /tab %}}
 {{% tab "Pinos" %}}
 <div class="googlemap-if no-margin">
-<img src="./pinea.jpg" width="95%" alt="Pinea">
+<img src="./pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -178,12 +178,12 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% tabs %}}
 {{% tab "Etna" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%" alt="Mount etna sicily italy">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%" alt="Italy GeoGuessr guide image showing Mount Etna Sicily Italy">
 </div>
 {{% /tab %}}
 {{% tab "Viñedos" %}}
 <div class="googlemap-if">
-<img src="./vineyard3.jpg" width="95%" alt="Vineyard3">
+<img src="./vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -200,37 +200,37 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% tabs %}}
 {{% tab "Etna" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%" alt="Mount etna sicily italy">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%" alt="Italy GeoGuessr guide image showing Mount Etna Sicily Italy">
 </div>
 {{% /tab %}}
 {{% tab "Isola del Giglio" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%" alt="Giglio Campese">
+<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%" alt="Italy GeoGuessr guide image showing Giglio Campese">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/city/dammuso.jpg" alt="Dammuso">
+<img src="/rule/europe/italy/city/dammuso.jpg" alt="City GeoGuessr guide image showing Dammuso">
 </div>
 {{% /tab %}}
 {{% tab "Egadi" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%" alt="Favignana island sea sicily">
+<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%" alt="Italy GeoGuessr guide image showing Favignana Island Sea Sicily">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%" alt="Isola dei conigli">
+<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%" alt="Italy GeoGuessr guide image showing Isola Dei Conigli">
 </div>
 {{% /tab %}}
 {{% tab "San Domino" %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" height="720" width="720" alt="Porto San Domino Island%2C Tremiti%2C Foggia%2C Italy August 20%2C 2013 02"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" height="720" width="720" alt="Wikimedia Commons photo showing Porto San Domino Island, Tremiti, Foggia, Italy August 20, 2013 02"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Venecia" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg" alt="Venezia water passages 275518">
+<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg" alt="City GeoGuessr guide image showing Venezia Water Passages 275518">
 </div>
 {{% /tab %}}
 {{% tab "Campione d’Italia" %}}

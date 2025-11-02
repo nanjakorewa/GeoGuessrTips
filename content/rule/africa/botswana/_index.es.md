@@ -39,7 +39,7 @@ Las matrﾃｭculas son de color amarillo, azul y blanco {{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/botswana/gaboronestreetscene.jpg" width="90%" alt="Gaboronestreetscene">
+<img src="/rule/africa/botswana/gaboronestreetscene.jpg" width="90%" alt="Botswana GeoGuessr guide image showing Gaboronestreetscene">
 </div>
 
 {{% lb 50 %}}
@@ -56,8 +56,8 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.
 Botsuana alberga el desierto de Kalahari, ofreciendo paisajes planos y amplios. En la mayorﾃｭa de las ﾃ｡reas, se extienden arbustos dispersos y pastos. En las carreteras pavimentadas, hay pocos ﾃ｡rboles a los lados {{% ex "https://maps.app.goo.gl/gR9ALGNrNKVTfJZY9" "https://maps.app.goo.gl/Ln49sP8VrhzCwLVr9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Trans-Kalahari Highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="/rule/africa/botswana/botswana_elephant_road_1653101.jpg" width="640" alt="Botswana elephant road 1653101">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 11986287164 77b0f9036b Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<img src="/rule/africa/botswana/botswana_elephant_road_1653101.jpg" width="640" alt="Botswana GeoGuessr guide image showing Botswana Elephant Road 1653101">
 </div>
 
 {{% notice tip %}}
@@ -65,7 +65,7 @@ Los nﾃｺmeros de las carreteras comienzan con las letras "<span class="quiz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/bethmoon527/52515154890/in/photolist-2o1zTX1-8juBqH-bHWcbv-J5PEz2-TXy5GD-cYKzb5-cYJYLq-cYJZwj-cYK2qd-giins7-23SxAnZ-2nXJK9M-2nXP1ZQ-93hyQq-KUyqtQ-QFAxvM-LkE5NW-Dk9ZYy-Fezgin-2nXMheC-2nXQ5Qr-cwAbPd-TL457F-58Qfxg-dURaDC-zNz5ot-2nXMheT-2nXQ5Sv-dPVP5q-bMxrQ-ASM44e-zUL5Fy-cYJYG7-cYK1HY-cYK263-cYKS4C-cYK1rd-ehmHy4-cYKRPY-cYK3em-cYK1zY-cYKRFq-cYKRxu-y829qw-cYJZKW-cYJZRd-cYK139-zzadQ1-cYK2bY-cYJZWW" title="A33 / B334 road sign"><img src="https://live.staticflickr.com/65535/52515154890_210295c32f_z.jpg" width="640" height="480" alt="A33 / B334 road sign"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/bethmoon527/52515154890/in/photolist-2o1zTX1-8juBqH-bHWcbv-J5PEz2-TXy5GD-cYKzb5-cYJYLq-cYJZwj-cYK2qd-giins7-23SxAnZ-2nXJK9M-2nXP1ZQ-93hyQq-KUyqtQ-QFAxvM-LkE5NW-Dk9ZYy-Fezgin-2nXMheC-2nXQ5Qr-cwAbPd-TL457F-58Qfxg-dURaDC-zNz5ot-2nXMheT-2nXQ5Sv-dPVP5q-bMxrQ-ASM44e-zUL5Fy-cYJYG7-cYK1HY-cYK263-cYKS4C-cYK1rd-ehmHy4-cYKRPY-cYK3em-cYK1zY-cYKRFq-cYKRxu-y829qw-cYJZKW-cYJZRd-cYK139-zzadQ1-cYK2bY-cYJZWW" title="A33 / B334 road sign"><img src="https://live.staticflickr.com/65535/52515154890_210295c32f_z.jpg" width="640" height="480" alt="Image from live.staticflickr.com showing 52515154890 210295c32f Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

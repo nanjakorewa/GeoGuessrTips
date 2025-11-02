@@ -26,14 +26,14 @@ plonkit: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/640px-Boda-Boda-Uganda.jpg" width="85%" alt="640px Boda Boda Uganda">
+<img src="/rule/africa/uganda/640px-Boda-Boda-Uganda.jpg" width="85%" alt="Uganda GeoGuessr guide image showing 640px Boda Boda Uganda">
 </div>
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/640px-Taxis_in_Kampala.jpg" width="85%" alt="640px Taxis in Kampala">
+<img src="/rule/africa/uganda/640px-Taxis_in_Kampala.jpg" width="85%" alt="Uganda GeoGuessr guide image showing 640px Taxis In Kampala">
 </div>
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/house.jpg" width="70%" alt="House">
-<img src="/rule/africa/uganda/uganda_building_landscape_sky.jpg" width="70%" alt="Uganda building landscape sky">
+<img src="/rule/africa/uganda/house.jpg" width="70%" alt="Uganda GeoGuessr guide image showing House">
+<img src="/rule/africa/uganda/uganda_building_landscape_sky.jpg" width="70%" alt="Uganda GeoGuessr guide image showing Uganda Building Landscape Sky">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

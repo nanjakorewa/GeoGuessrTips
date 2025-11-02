@@ -28,7 +28,7 @@ Untuk menghadapi topan, rumah tradisional dibangun rendah dan biasanya dilindung
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/okinawa/nakamurahouse.jpg" alt="Nakamurahouse">
+<img src="/rule/asia/japan/kyusyu/okinawa/nakamurahouse.jpg" alt="Okinawa GeoGuessr guide image showing Nakamurahouse">
 </div>
 
 {{% /tab %}}

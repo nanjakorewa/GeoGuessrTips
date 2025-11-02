@@ -45,11 +45,11 @@ maps: [
 {{% notice tip %}}As placas de limite exibem <span class="quiz">SPEED LIMIT</span>{{% ex "https://maps.app.goo.gl/FvnB7q7FdjZuBZVQA" "https://maps.app.goo.gl/LYPy8QLDLi5uQaD38" "https://goo.gl/maps/7MDNFYLGn9GgFHDz6" "https://goo.gl/maps/eveAfAJ1gdGddSDj8" "https://goo.gl/maps/8FZ2uBojRTixFCfi9" "https://goo.gl/maps/GJ8DQzv6QrE7Yy2z7" %}}. Se aparecer apenas SPEED, provavelmente está no estado de <span class="quiz">Oregon</span>. {{% goto "../canada/" "Canadá" %}} usa <span class="quiz">MAXIMUM</span>.{{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="MUTCD R2 1">
-<img src="/rule/n_america/usa/r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="Sp oregon">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="CA ON road sign Rb 001 050">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="CA QC road sign P 070 4 40">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="80px" style="margin:7px" alt="Sp on">
+<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="R GeoGuessr guide image showing Mutcd R2 1">
+<img src="/rule/n_america/usa/r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="R GeoGuessr guide image showing Sp Oregon">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="R GeoGuessr guide image showing Ca On Road Sign Rb 001 050">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="Canada GeoGuessr guide image showing Ca Qc Road Sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="80px" style="margin:7px" alt="R GeoGuessr guide image showing Sp On">
 </div>
 </div>
 
@@ -57,37 +57,37 @@ maps: [
 Nos EUA e no {{% goto "../canada/" "Canadá" %}} o centro da via costuma ter <span class="quiz">duas faixas amarelas</span>{{% ex "https://maps.app.goo.gl/ffZcABdYVzyQsLaw7" "https://maps.app.goo.gl/7v6hSn7LZM85ykpJ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/roadline.jpg" width="95%" alt="Roadline">
+<img src="/rule/n_america/usa/roadline.jpg" width="95%" alt="Usa GeoGuessr guide image showing Roadline">
 </div>
 
 {{% notice tip %}}As placas YIELD e ONEWAY nos EUA trazem o texto{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}. Os exemplos da esquerda são dos <span class="quiz">Estados Unidos</span>; os da direita, do <span class="quiz">Canadá</span>.{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="MUTCD R1 2">
-<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="CA MUTCDC RA 002">
+<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Mutcd R1 2">
+<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Ca Mutcdc Ra 002">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
-<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
+<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="R GeoGuessr guide image showing Oneway">
+<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="R GeoGuessr guide image showing Oneway">
 </div>
 
 {{% notice tip %}}
 Procure a caixa de correio <span class="quiz">azul</span>; no Canadá ela é vermelha. Em agências dos correios costuma haver o nome do estado e da cidade na fachada.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px" alt="2023 06 18 09 00 28">
-<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px" alt="2023 06 18 09 02 09">
-<img src="/rule/n_america/usa/pleasant_hall_pa_post.jpg" width="604px" alt="Pleasant hall pa post">
+<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px" alt="Usa GeoGuessr guide image showing 2023 06 18 09 00 28">
+<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px" alt="Usa GeoGuessr guide image showing 2023 06 18 09 02 09">
+<img src="/rule/n_america/usa/pleasant_hall_pa_post.jpg" width="604px" alt="Usa GeoGuessr guide image showing Pleasant Hall Pa Post">
 </div>
 
 {{% notice tip %}}
 Muitas grandes empresas têm sede nos EUA. Até serviços de recolha de lixo, electricidade e água são sociedades abertas, por isso os logótipos aparecem por toda a cidade. Da esquerda para a direita: Waste Management e Republic Services (recolha de lixo, logótipo nos contentores), Chevron e Citgo (postos de combustível), Target (retalho), entre outros.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="Waste Management logo" />
-<img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="Republic Services logo" />
-<img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="220px" style="margin:10px" alt="Chevron Logo" />
-<img src="./w/Citgo.svg" width="220px" style="margin:10px" alt="Citgo" />
-<img src="./w/Target_logo.svg" width="220px" style="margin:10px" alt="Target logo" />
+<img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Waste Management Logo" />
+<img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Republic Services Logo" />
+<img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Chevron Logo" />
+<img src="./w/Citgo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Citgo" />
+<img src="./w/Target_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Target Logo" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -97,7 +97,7 @@ Muitas grandes empresas têm sede nos EUA. Até serviços de recolha de lixo, el
     <h2>Produtos temáticos dos EUA</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7095003" target="_blank">
-            <img src="/rule/n_america/usa/37148dec-02ac-4096-826f-11318d77b9dc.png" alt="Imagem do produto">
+            <img src="/rule/n_america/usa/37148dec-02ac-4096-826f-11318d77b9dc.png" alt="Usa GeoGuessr guide image showing 37148dec 02ac 4096 826f 11318d77b9dc">
         </a>
     </div>
 </div>
@@ -172,7 +172,7 @@ Muitas grandes empresas têm sede nos EUA. Até serviços de recolha de lixo, el
 Memorize primeiro os estados que dispensam placa dianteira (realçados em <span style="color:#B1AF0D;font-weight:bold;">amarelo</span>) e depois as cores. A iluminação e o ângulo mudam o tom, por isso é preciso treinar bastante. Como os carros se mexem, a matrícula não garante 100% o estado.
 {{% /notice %}}
 <div class="googlemap-if">
-<a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="USplatemounting.svg"></a>
+<a href="https://commons.wikimedia.org/wiki/File:USplatemounting.svg#/media/File:USplatemounting.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/USplatemounting.svg/1200px-USplatemounting.svg.png" alt="Wikimedia Commons photo showing 1200px USplatemounting.svg"></a>
 <p>Por Raccoonny - trabalho próprio, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122568316">Wikimedia Commons</a></p>
 </div>
 
@@ -185,7 +185,7 @@ Memorize primeiro os estados que dispensam placa dianteira (realçados em <span 
 
 <div class="googlemap-if">
 <div class="description-wide">
-<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main" alt="2023 03 25 14 29 11">
+<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main" alt="Usa GeoGuessr guide image showing 2023 03 25 14 29 11">
 </div>
 <div class="description-wide">
 As regras abaixo não são infalíveis, mas ajudam bastante.
@@ -236,7 +236,7 @@ Os topónimos são muito característicos e os solos tendem a ser negros ou aver
 {{% tab "Milho" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-03-38.png" alt="2023 04 29 12 03 38">
+<img src="/rule/n_america/usa/2023-04-29-12-03-38.png" alt="Usa GeoGuessr guide image showing 2023 04 29 12 03 38">
 </div>
 
 {{% notice note %}}
@@ -244,17 +244,17 @@ A produção acompanha o Corn Belt{{% by "https://www.nass.usda.gov/Charts_and_M
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/2023-06-19-20-02-41.png" width="80%" alt="2023 06 19 20 02 41">
+<img src="/rule/n_america/usa/2023-06-19-20-02-41.png" width="80%" alt="Usa GeoGuessr guide image showing 2023 06 19 20 02 41">
 </div>
 
 {{% /tab %}}
 {{% tab "Soja" %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-10-49-15.png" alt="2023 04 29 10 49 15">
+<img src="/rule/n_america/usa/2023-04-29-10-49-15.png" alt="Usa GeoGuessr guide image showing 2023 04 29 10 49 15">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/2023-06-19-08-54-17.png" width="90%" alt="2023 06 19 08 54 17">
+<img src="/rule/n_america/usa/2023-06-19-08-54-17.png" width="90%" alt="Usa GeoGuessr guide image showing 2023 06 19 08 54 17">
 </div>
 
 {{% notice note %}}
@@ -265,7 +265,7 @@ A soja distribui-se de forma parecida com o milho{{% by "https://ipad.fas.usda.g
 {{% tab "Arroz" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-10-56-56.png" alt="2023 04 29 10 56 56">
+<img src="/rule/n_america/usa/2023-04-29-10-56-56.png" alt="Usa GeoGuessr guide image showing 2023 04 29 10 56 56">
 </div>
 
 {{% notice note %}}
@@ -273,7 +273,7 @@ Os arrozais concentram-se em áreas específicas do norte da Califórnia e nas m
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-00-47.png" alt="2023 04 29 12 00 47">
+<img src="/rule/n_america/usa/2023-04-29-12-00-47.png" alt="Usa GeoGuessr guide image showing 2023 04 29 12 00 47">
 </div>
 
 {{% notice note %}}
@@ -287,7 +287,7 @@ A cana-de-açúcar aparece apenas em bolsões na Florida; a Luisiana quase não 
 {{% /tab %}}
 {{% tab "Trigo" %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-07-38.png" alt="2023 04 29 12 07 38">
+<img src="/rule/n_america/usa/2023-04-29-12-07-38.png" alt="Usa GeoGuessr guide image showing 2023 04 29 12 07 38">
 </div>
 
 {{% notice note %}}
@@ -326,15 +326,15 @@ O trigo não coincide totalmente com as zonas de milho/soja. Os mapas foram ajus
 As placas STOP aparecem quando uma rua estreita encontra outra mais larga. Ver o verso indica que está a entrar numa rua menor; ver a frente indica que caminha para uma via maior.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/stop_sign_united_states.jpg" alt="Stop sign united states">
+<img src="/rule/n_america/usa/stop_sign_united_states.jpg" alt="Usa GeoGuessr guide image showing Stop Sign United States">
 </div>
 
 {{% notice tip %}}
 Evite ruas com NO OUTLET ou DEAD END.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/usa/no_outlet_sign_1.jpg" width="300px" alt="No outlet sign 1">
-<img src="/rule/n_america/usa/quot_dead_end_quot.jpg" width="335px" alt="Quot dead end quot">
+<img src="/rule/n_america/usa/no_outlet_sign_1.jpg" width="300px" alt="Usa GeoGuessr guide image showing No Outlet Sign 1">
+<img src="/rule/n_america/usa/quot_dead_end_quot.jpg" width="335px" alt="Usa GeoGuessr guide image showing Quot Dead End Quot">
 </div>
 
 {{% /tab %}}
@@ -343,7 +343,7 @@ Evite ruas com NO OUTLET ou DEAD END.
 Mapa desenhado à mão—use apenas como guia aproximado.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/gas_station.png" width="90%" alt="Gas station">
+<img src="/rule/n_america/usa/gas_station.png" width="90%" alt="Usa GeoGuessr guide image showing Gas Station">
 </div>
 {{% /tab %}}
 {{% tab "Selos de inspeção" %}}

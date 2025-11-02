@@ -43,7 +43,7 @@ sc: [
 {{% goto "../slovakia/" "Slovakia" %}} menggunakan bollard dan guardrail yang sama. Bollard memiliki <span class="quiz">dua reflektor pada area hitam</span> {{% ex "https://goo.gl/maps/pePJXWZS165TbMNW6" %}}. Guardrail menggunakan tipe thin-B profile dengan ciri khas <span class="quiz">bentuk yang kaku dan lebar cekungan tengah yang lebih besar</span> {{% ex "https://maps.app.goo.gl/jy4PDVF2jip7Bz497" "https://maps.app.goo.gl/eY9umZDuez2yiYjC6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/bollrad.jpg" width="90%" alt="Bollrad" />
+<img src="/rule/europe/czechia/bollrad.jpg" width="90%" alt="Czechia GeoGuessr guide image showing Bollrad" />
 </div>
 
 {{% notice tip %}}
@@ -51,15 +51,15 @@ Rambu penunjuk jalan di Ceko menggunakan desain seperti ini {{% ex "https://goo.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/2023-06-11-00-12-31.png" width="70%" alt="2023 06 11 00 12 31" />
-<img src="/rule/europe/czechia/2023-06-11-00-16-23.png" width="80%" alt="2023 06 11 00 16 23" />
+<img src="/rule/europe/czechia/2023-06-11-00-12-31.png" width="70%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 12 31" />
+<img src="/rule/europe/czechia/2023-06-11-00-16-23.png" width="80%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 16 23" />
 </div>
 
 {{% notice tip %}}
 Jika rumah memiliki tulisan dengan latar belakang <span class="quiz">merah atau biru</span> dengan huruf berwarna <span class="quiz">putih</span>, kemungkinan itu di Ceko {{% ex "https://goo.gl/maps/ay9WVcyu21ew4Y7N8" "https://goo.gl/maps/xqTW3un3G9nvGKBX6" %}}. Jika tulisan memiliki latar belakang <span class="quiz">putih</span> dengan huruf berwarna <span class="quiz">hitam</span>, kemungkinan besar itu di Slovakia {{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}, meskipun tidak selalu 100%.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/czechia.jpg" width="90%" alt="Czechia">
+<img src="/rule/europe/czechia/czechia.jpg" width="90%" alt="Czechia GeoGuessr guide image showing Czechia">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Jika tidak yakin apakah itu Ceko atau Slovakia, periksa tiang rambu. Jika terdap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/czechia/roadsign.jpg" width="85%" alt="Roadsign">
+<img src="/rule/europe/czechia/roadsign.jpg" width="85%" alt="Czechia GeoGuessr guide image showing Roadsign">
 </div>
 
 {{% notice tip %}}
@@ -75,7 +75,7 @@ Di daerah datar Ceko dan {{% goto "../slovakia/" "Slovakia" %}}, Anda akan menem
 {{% /notice %}}
 
 <div class="googlemap-if">
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/jeremycaney/31073301447/" title="Rural Czechia I"><img src="https://live.staticflickr.com/4846/31073301447_32f66b3dfb_z.jpg" width="640" height="427" alt="Rural Czechia I"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jeremycaney/31073301447/" title="Rural Czechia I"><img src="https://live.staticflickr.com/4846/31073301447_32f66b3dfb_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 31073301447 32f66b3dfb Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ Contoh di {{% goto "../slovakia/" "Slovakia" %}} {{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/czechia/hm.jpg" width="90%" alt="Hm">
+<img src="/rule/europe/czechia/hm.jpg" width="90%" alt="Czechia GeoGuessr guide image showing Hm">
 </div>
 
 {{% /tab %}}
@@ -102,11 +102,11 @@ Tiang listrik yang ditemukan di Ceko dan Slovakia memiliki desain yang sama. Bia
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/road.jpg" width="90%" alt="Road" />
+<img src="/rule/europe/czechia/road.jpg" width="90%" alt="Czechia GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/bar.png" width="300px" alt="Bar">
+<img src="/rule/europe/czechia/bar.png" width="300px" alt="Czechia GeoGuessr guide image showing Bar">
 </div>
 
 {{% notice tip %}}
@@ -134,7 +134,7 @@ Nomor jalan ditampilkan pada rambu {{% ref "https://ninfox3.blogspot.com/2023/06
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/roadsign.png" width="80%" alt="Roadsign">
+<img src="/rule/europe/czechia/roadsign.png" width="80%" alt="Czechia GeoGuessr guide image showing Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

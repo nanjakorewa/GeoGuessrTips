@@ -49,7 +49,7 @@ Similar guardrails show up in {{% goto "../../europe/france/" "France" %}}’s o
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/bollrad.jpg" width="90%" alt="Czech bollard and guardrail">
+<img src="/rule/europe/czechia/bollrad.jpg" width="90%" alt="Czechia GeoGuessr guide image showing Bollrad">
 </div>
 
 
@@ -59,15 +59,15 @@ Sign design helps separate Czechia from {{% goto "../slovakia/" "Slovakia" %}}; 
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;border-radius:20px;">
 <div class="googlemap-if unclickable" style="margin-bottom:0;">
-<img src="/rule/europe/czechia/r/CZ1.png" class="maxheight150 margin-ten-px" alt="Czech warning sign" />
-<img src="/rule/europe/czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" alt="Czech direction sign" />
-<img src="/rule/europe/czechia/r/CZ3.png" class="maxheight150 margin-ten-px" alt="Czech informational sign" />
+<img src="/rule/europe/czechia/r/CZ1.png" class="maxheight150 margin-ten-px" alt="R GeoGuessr guide image showing CZ1" />
+<img src="/rule/europe/czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" alt="R GeoGuessr guide image showing CZ2" />
+<img src="/rule/europe/czechia/r/CZ3.png" class="maxheight150 margin-ten-px" alt="R GeoGuessr guide image showing CZ3" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:0;">
-<img src="/rule/europe/slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" alt="Slovak warning sign" />
-<img src="/rule/europe/slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" alt="Slovak direction sign" />
-<img src="/rule/europe/slovakia/r/SK3.png" class="maxheight150 margin-ten-px" alt="Slovak informational sign" />
+<img src="/rule/europe/slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" alt="R GeoGuessr guide image showing SK1" />
+<img src="/rule/europe/slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" alt="R GeoGuessr guide image showing SK2" />
+<img src="/rule/europe/slovakia/r/SK3.png" class="maxheight150 margin-ten-px" alt="R GeoGuessr guide image showing SK3" />
 </div>
 </div>
 
@@ -77,8 +77,8 @@ Guide signs in Czechia follow the style below. {{% ex "https://goo.gl/maps/vxMwe
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/2023-06-11-00-12-31.png" width="70%" alt="Czech direction boards"/>
-<img src="/rule/europe/czechia/2023-06-11-00-16-23.png" width="80%" alt="Czech motorway signage"/>
+<img src="/rule/europe/czechia/2023-06-11-00-12-31.png" width="70%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 12 31"/>
+<img src="/rule/europe/czechia/2023-06-11-00-16-23.png" width="80%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 16 23"/>
 </div>
 
 {{% notice tip %}}
@@ -86,7 +86,7 @@ House-number plaques on a <span class="quiz">red</span> background with <span cl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-11-00-04-53.png" width="80%" alt="Czech house numbers"/>
+<img src="2023-06-11-00-04-53.png" width="80%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 04 53"/>
 </div>
 
 {{% /tab %}}
@@ -96,11 +96,11 @@ House-number plaques on a <span class="quiz">red</span> background with <span cl
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/road.jpg" width="90%" alt="Czech rural road" />
+<img src="/rule/europe/czechia/road.jpg" width="90%" alt="Czechia GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/bar.png" width="300px" alt="Czech bar signage">
+<img src="/rule/europe/czechia/bar.png" width="300px" alt="Czechia GeoGuessr guide image showing Bar">
 </div>
 
 {{% notice tip %}}
@@ -129,7 +129,7 @@ Route numbers appear on motorway and local guide signs. {{% ref "https://ninfox3
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/roadsign.png" width="80%" alt="Czech route number signage">
+<img src="/rule/europe/czechia/roadsign.png" width="80%" alt="Czechia GeoGuessr guide image showing Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
