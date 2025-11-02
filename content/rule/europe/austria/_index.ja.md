@@ -41,9 +41,9 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Hinweiszeichen_10_links.svg" width="270px" style="margin:10px">
-<img src="./r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;">
-<img src="./r/ende.png" width="105px">
+<img src="./r/Hinweiszeichen_10_links.svg" width="270px" style="margin:10px" alt="Hinweiszeichen 10 links">
+<img src="./r/anfang.png" width="105px" style="margin-right:20px;margin-left:20px;" alt="Anfang">
+<img src="./r/ende.png" width="105px" alt="Ende">
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bollard.jpg" width="90%">
+<img src="./bollard.jpg" width="90%" alt="Bollard">
 </div>
 
 {{% notice tip %}}
@@ -59,16 +59,16 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="95%">
+<img src="./road-sign.jpg" width="95%" alt="Road sign">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./s/Hinweiszeichen_13a_groß.svg" width="280px">
-<img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px">
+<img src="./s/Hinweiszeichen_13a_groß.svg" width="280px" alt="Hinweiszeichen 13a groß">
+<img src="./s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px" alt="Hinweiszeichen 14a">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px">
+<img src="../germany/r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="200px" alt="Zeichen 226 Kraftfahrlinien, StVO 1970">
 </div>
 
 {{% notice note %}}
@@ -79,13 +79,13 @@ sc: [
 <div class="googlemap-if unclickable">
 
 <div class="googlemap-if" style="background-color:#eee; margin:0px 100px 0 100px;padding-top:35px;border-radius:10px;">
-<img src="../slovenia/r/Slovenia_road_sign_III-84.svg" width="160px">
-<img src="../slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px">
+<img src="../slovenia/r/Slovenia_road_sign_III-84.svg" width="160px" alt="Slovenia road sign III 84">
+<img src="../slovenia/r/Slovenia_road_sign_III-91.svg" width="120px" style="margin:30px" alt="Slovenia road sign III 91">
 </div>
 
 <div class="googlemap-if" style="background-color:#eee; margin:10px 100px 0 100px;padding-top:35px;border-radius:10px;">
-<img src="../germany/r/route-sign.svg" width="150px">
-<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px">
+<img src="../germany/r/route-sign.svg" width="150px" alt="Route sign">
+<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
 </div>
 </div>
 
@@ -94,7 +94,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./clip-sign.jpg" width="95%">
+<img src="./clip-sign.jpg" width="95%" alt="Clip sign">
 </div>
 {{% /tab %}}
 {{% tab "w-viecle" %}}
@@ -135,7 +135,7 @@ CC 表示-継承 3.0, 欧州連合のナンバープレート. (2022, November 1
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="wien-sign.jpg" width="90%" />
+<img src="wien-sign.jpg" width="90%" alt="Wien sign" />
 </div>
 
 {{% /tab %}}

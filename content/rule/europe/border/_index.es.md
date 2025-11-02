@@ -20,8 +20,8 @@ Carteles azules habituales en los cruces fronterizos{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px">
-<img src="/rule/europe/border/setembro2006_021.jpg" width="324px">
+<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px" alt="Germany border crossing border">
+<img src="/rule/europe/border/setembro2006_021.jpg" width="324px" alt="Setembro2006 021">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Suele haber edificios de aduanas o puestos policiales.
 En la calzada puede aparecer el nombre del país o la línea fronteriza.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px">
+<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px" alt="Fronteira entre portugal e">
 </div>
 
 
@@ -44,10 +44,10 @@ En la calzada puede aparecer el nombre del país o la línea fronteriza.
 Los carteles que muestran ciudades cercanas al cruce suelen incluir un emblema elíptico, el mismo que llevan los vehículos para indicar el país{{% ref "https://en.wikipedia.org/wiki/International_vehicle_registration_code" "International vehicle registration code" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/border/highway_roadway_autos_streets_0.jpg" width="580px">
+<img src="/rule/europe/border/highway_roadway_autos_streets_0.jpg" width="580px" alt="Highway roadway autos streets 0">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/oval/fin.png" width="100px" style="margin:10px">
-<img src="/rule/europe/border/oval/lt.jpg" width="100px" style="margin:10px">
+<img src="/rule/europe/border/oval/fin.png" width="100px" style="margin:10px" alt="Fin">
+<img src="/rule/europe/border/oval/lt.jpg" width="100px" style="margin:10px" alt="Lt">
 </div>

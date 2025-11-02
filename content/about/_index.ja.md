@@ -47,10 +47,10 @@ nanjakorewa0★★★gmail.com （★★★を@に変換してください）・
 <h3 class="no-blur">背景画像・使用ツール</h3>
 
 <div class="googlemap-if unclickable">
-<img src="./2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" >
-<img src="./2023-04-15-23-01-05.png" width="200px" style="margin:34px;" >
-<img src="./Flickr_wordmark.svg" width="180px" style="margin:34px;" >
-<img src="./Google_Maps_Logo.svg" width="250px" style="margin:34px;" >
+<img src="./2023-05-03-03-16-48.png" width="300px" style="margin-left:0;" alt="2023 05 03 03 16 48">
+<img src="./2023-04-15-23-01-05.png" width="200px" style="margin:34px;" alt="2023 04 15 23 01 05">
+<img src="./Flickr_wordmark.svg" width="180px" style="margin:34px;" alt="Flickr wordmark">
+<img src="./Google_Maps_Logo.svg" width="250px" style="margin:34px;" alt="Google Maps Logo">
 </div>
 
 <br />

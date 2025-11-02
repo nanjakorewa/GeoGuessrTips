@@ -53,15 +53,15 @@ Bolard berwarna <span class="quiz">kuning dan merah</span> sering ditemukan {{% 
 Domba atau kuda sering terlihat dekat dengan kota {{% ex "https://maps.app.goo.gl/hab3c1MrWQq1nM7B7" "https://maps.app.goo.gl/6SXRBgoMKzK1X3Gt6" %}}. Lapangan sepak bola dan futsal banyak ditemukan di perkotaan dan pinggiran {{% ex "https://maps.app.goo.gl/7pKv5b4UM8wKjke68" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/faroe_islands/faroe_islands_cascade_horses.jpg" width="90%">
+<img src="/rule/europe/faroe_islands/faroe_islands_cascade_horses.jpg" width="90%" alt="Faroe islands cascade horses">
 </div>
 
 {{% notice tip %}}
 Merupakan wilayah Denmark {{% goto "../denmark/" "Denmark" %}} dan memiliki beberapa kesamaan, seperti merek kotak surat Allux {{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" %}}. Papan nama jalan dan halte bus menyerupai desain Denmark {{% ex "https://maps.app.goo.gl/U8RdHr8jbxSpnaVSA" "https://maps.app.goo.gl/fJZXBzL9iNmMfvUy7" "https://maps.app.goo.gl/Cv8Tn6KNKLNPv1mH8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" width="230px">
-<img src="/rule/europe/faroe_islands/640px-Bussstop_fo.jpg" width="463px">
+<img src="/rule/europe/denmark/2024-10-15-23-20-20.png" width="230px" alt="2024 10 15 23 20 20">
+<img src="/rule/europe/faroe_islands/640px-Bussstop_fo.jpg" width="463px" alt="640px Bussstop fo">
 </div>
 
 {{% notice tip %}}

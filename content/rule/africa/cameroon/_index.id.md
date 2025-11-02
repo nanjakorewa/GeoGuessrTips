@@ -30,7 +30,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%">
+<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%" alt="Binam Voyages">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Hﾃｴtel_Le_Manoir.jpg" width="85%">
+<img src="/rule/africa/cameroon/Hﾃｴtel_Le_Manoir.jpg" width="85%" alt="Hﾃｴtel Le Manoir">
 </div>
 
 
@@ -48,7 +48,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Collﾃｨge_Bilingue_La_Pointe_(2).jpg" width="95%">
+<img src="/rule/africa/cameroon/Collﾃｨge_Bilingue_La_Pointe_(2).jpg" width="95%" alt="Collﾃｨge Bilingue La Pointe (2)">
 </div>
 
 {{% /tab %}}
@@ -85,7 +85,7 @@ Pelat nomor sering berwarna <span class="quiz">oranye</span>{{% ref "https://en.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%">
+<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%" alt="Binam Voyages">
 </div>
 
 {{% notice tip %}}
@@ -93,7 +93,7 @@ Wilayah barat laut pernah menjadi Kamerun Britania, dan tenggara adalah Kamerun 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Hotel_Le_Manoir.jpg" width="95%">
+<img src="/rule/africa/cameroon/Hotel_Le_Manoir.jpg" width="95%" alt="Hotel Le Manoir">
 </div>
 
 {{% /tab %}}

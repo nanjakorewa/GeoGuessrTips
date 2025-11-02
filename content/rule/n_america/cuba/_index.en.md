@@ -32,7 +32,7 @@ flag_height: "400px"
 Utility poles that resemble those seen in {{% goto "../../cs_america/chile/" "Chile" %}} appear to be common—see the right-hand side of these photos{{% ex "https://commons.wikimedia.org/wiki/Category:Streets_in_Baracoa#/media/File:Baracoa_HDSR_S5is_Cuba2_587.jpg" "https://commons.wikimedia.org/wiki/File:Baracoa-city.jpg#/media/File:Baracoa-city.jpg" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/cuba/jatibonico_sancti_spiritus_cuba.jpg" width="90%">
+<img src="/rule/n_america/cuba/jatibonico_sancti_spiritus_cuba.jpg" width="90%" alt="Jatibonico sancti spiritus cuba">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

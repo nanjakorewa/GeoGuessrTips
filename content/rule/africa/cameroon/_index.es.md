@@ -30,7 +30,7 @@ Las matrículas suelen ser de color <span class="quiz">naranja</span>{{% ref "ht
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%">
+<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%" alt="Binam Voyages">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ El noroeste fue Camerún británico y el sureste, Camerún {{% goto "../../europ
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Hotel_Le_Manoir.jpg" width="95%">
+<img src="/rule/africa/cameroon/Hotel_Le_Manoir.jpg" width="95%" alt="Hotel Le Manoir">
 </div>
 
 {{% /tab %}}

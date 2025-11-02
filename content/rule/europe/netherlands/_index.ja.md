@@ -58,7 +58,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 家が<span class="quiz">レンガ造り</span>のものが多く{{% ex "https://maps.app.goo.gl/upSSbDuAiszRfgEN8" %}}、稀に最上階付近の壁に紐をひっかける棒があることもある。貿易産業が盛んなころに倉庫だった建物は荷物を吊り上げるためにこの棒が付いている{{% ex "https://maps.app.goo.gl/FZmHPz41uv2tSn1FA" %}}。現在でもこの金具にロープを吊るして家具を吊り上げているらしい。{{% by "https://anokuni.com/life-guide/nld-house/" "web" "あの国で留学 > 世界の家【オランダ編】" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./middelburg_netherlands_zealand_718385.jpg" width="90%">
+<img src="./middelburg_netherlands_zealand_718385.jpg" width="90%" alt="Middelburg netherlands zealand 718385">
 </div>
 
 {{% notice tip %}}
@@ -74,12 +74,12 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.png" width="90%">
+<img src="./road.png" width="90%" alt="Road">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./hectoreflecto_n276.jpg" width="169px">
-<img src="./hectoreflecto_n276_limburg.jpg" width="169px">
-<img src="./wildspiegel_collage.jpg" width="300px">
+<img src="./hectoreflecto_n276.jpg" width="169px" alt="Hectoreflecto n276">
+<img src="./hectoreflecto_n276_limburg.jpg" width="169px" alt="Hectoreflecto n276 limburg">
+<img src="./wildspiegel_collage.jpg" width="300px" alt="Wildspiegel collage">
 </div>
 
 
@@ -87,7 +87,7 @@ Gert Kalkman - Public road, パブリック・ドメイン, <a href="https://com
 標識を後ろや横から見たときに側面も色が塗られている{{% ex "https://maps.app.goo.gl/dXa5UqTGLzeKr8VT6" "https://maps.app.goo.gl/j9KWUnYNY2dVAG8t9" "https://maps.app.goo.gl/4SP4Q1qaTHHT3LVBA" "https://maps.app.goo.gl/xmgaptyKTrz7Joaa9" "https://maps.app.goo.gl/GJ9RxQPjA39rBUCFA" "https://maps.app.goo.gl/ov8XjxvajC4UhJbo7" "https://maps.app.goo.gl/SXxe5BNVSR7kSQLYA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="90%">
+<img src="./road-sign.jpg" width="90%" alt="Road sign">
 </div>
 
 
@@ -140,7 +140,7 @@ SPARはアムステルダムに拠点がある小売業者（店自体はオラ�
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690199782462!6m8!1m7!1sZXnBztr5Uzf0TAiV6Xj2_g!2m2!1d52.40373286074148!2d4.749969538076793!3f19.895877507970635!4f2.8884534735692853!5f0.7820865974627469" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div class="unclickable">
-<img src="mol.jpg" width="600px" />
+<img src="mol.jpg" width="600px" alt="Mol" />
 </div>
 </div>
 

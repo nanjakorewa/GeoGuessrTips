@@ -27,7 +27,7 @@ is_unofficial: true
 Japón importa carbón y gas natural licuado desde Mozambique, lo que genera un déficit comercial con el país{{% ref "https://www.jetro.go.jp/world/africa/mz/gtir/" "Información sobre comercio e inversión en Mozambique (JETRO)" %}}. Empresas como Mozal, que reciben inversión de compañías japonesas, han crecido hasta convertirse en grandes corporaciones nacionales, reflejando la profundidad de los vínculos entre Japón y Mozambique.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mozambique/Mozal_logo.png">
+<img src="/rule/africa/mozambique/Mozal_logo.png" alt="Mozal logo">
 </div>
 
 {{% /tab %}}

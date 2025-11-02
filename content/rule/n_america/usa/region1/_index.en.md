@@ -32,7 +32,7 @@ jogmec_detail: true
 West Virginia—particularly the northwest—has a high poverty rate. Abandoned homes and shuttered storefronts are easy to find{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg">
+<img src="/rule/n_america/usa/region1/this_housing_in_smithers_0.jpg" alt="This housing in smithers 0">
 </div>
 {{% /tab %}}
 {{% tab "B. Fractional signs" %}}

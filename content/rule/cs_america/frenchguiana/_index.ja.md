@@ -34,7 +34,7 @@ is_unofficial: true
 電柱の青プレートなども見つかる。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="111455.jpg">
+<img src="111455.jpg" alt="111455">
 </div>
 
 {{% /tab %}}

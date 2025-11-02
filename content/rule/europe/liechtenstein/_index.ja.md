@@ -53,7 +53,7 @@ Public domain
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="LIEmobil_logo.png" width="400px">
+<img src="LIEmobil_logo.png" width="400px" alt="LIEmobil logo">
 </div>
 
 
@@ -62,7 +62,7 @@ Public domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Schaan.jpg" width="95%">
+<img src="./960px-Schaan.jpg" width="95%" alt="960px Schaan">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Public domain
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px">
+<img src="640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px" alt="640px Flag of Liechtenstein princely house.svg">
 </div>
 
 {{% notice tip %}}
@@ -87,8 +87,8 @@ Public domain
 
 
 <div class="googlemap-if no-margin">
-<img src="stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;">
-<img src="Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px">
+<img src="stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;" alt="Stname">
+<img src="Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px" alt="Liechtensteinische Post logo">
 </div>
 
 {{% notice tip %}}

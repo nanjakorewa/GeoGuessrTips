@@ -51,21 +51,21 @@ Berbagai jenis tanaman seperti kaktus, pohon palem, dan pohon darah naga {{% ref
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/africa/canary_islands/village_icod_de_los.jpg" width="607px" >
+<img src="/rule/africa/canary_islands/village_icod_de_los.jpg" width="607px" alt="Village icod de los">
 </div>
 
 {{% notice tip %}}
 Kadang, gunung-gunung di pulau ini terlihat berbentuk bulat {{% ex "https://maps.app.goo.gl/R4CizQ9VfwBqbsXr5" "https://goo.gl/maps/8NXZkYvbWTU7Fq3A9" "https://goo.gl/maps/BRBSXVZSQoxvtcPY9" "https://goo.gl/maps/SFecAx5xcNUW4UwP7" "https://goo.gl/maps/wT4zDtvESE34nEpJ9" %}}. Pulau vulkanik ini sering memiliki tanah berwarna hitam {{% ex "https://goo.gl/maps/TgtopsQNoJhLaKNy5" "https://goo.gl/maps/dC2XaE7HtwnafV5U8" "https://goo.gl/maps/saVrkLuJSnvsLXUV9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2%E8%AB%B8%E5%B3%B6" "Kepulauan Canary" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/canary_islands/lanzarote_canary_islands_landscape_0.jpg" width="640">
+<img src="/rule/africa/canary_islands/lanzarote_canary_islands_landscape_0.jpg" width="640" alt="Lanzarote canary islands landscape 0">
 </div>
 
 {{% notice tip %}}
 Di bagian tengah dan selatan {{% goto "../../n_america/mexico/" "Meksiko" %}} atau di Kepulauan Canary, tumbuhan agave tumbuh secara alami {{% ex "https://maps.app.goo.gl/tw9fZquhQutPpBRy7" "https://maps.app.goo.gl/9m5jcMFVitAVLaQs6" "https://maps.app.goo.gl/KpJyK7RVD4ZFGNKb9" "https://maps.app.goo.gl/p5LyZJPkE7yu9LnXA" "https://maps.app.goo.gl/vZRTsTUoiTYnbNZG6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/canary_islands/agave_salmiana_san_francisco.jpg" width="90%">
+<img src="/rule/africa/canary_islands/agave_salmiana_san_francisco.jpg" width="90%" alt="Agave salmiana san francisco">
 </div>
 
 {{% /tab %}}
@@ -87,7 +87,7 @@ Di bagian tengah dan selatan {{% goto "../../n_america/mexico/" "Meksiko" %}} at
 {{% tabs %}}
 {{% tab "Caleta de Sebo" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/canary_islands/isla_de_la_graciosa.jpg" width="95%">
+<img src="/rule/africa/canary_islands/isla_de_la_graciosa.jpg" width="95%" alt="Isla de la graciosa">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

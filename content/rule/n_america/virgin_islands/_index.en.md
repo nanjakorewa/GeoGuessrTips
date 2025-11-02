@@ -31,21 +31,21 @@ is_has_distinctive_googlecar: true
 {{% notice tip %}}On the northern islands the vehicles are often <span class="quiz">white</span> and the landscape is hilly. If it looks lively with plenty of residents or tourists, you are likely on <span class="quiz">St. Thomas in the northwest</span>{{% ex "https://maps.app.goo.gl/BitmyHn7LVHVE3Jj8" "https://maps.app.goo.gl/bmpYiymkBEo7Z4Vj6" %}}.{{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/virgin_islands/st_thomas_virgin_islands_1.jpg" width="95%">
+<img src="/rule/n_america/virgin_islands/st_thomas_virgin_islands_1.jpg" width="95%" alt="St thomas virgin islands 1">
 </div>
 
 
 {{% notice tip %}}If the northern island feels remote, with <span class="quiz">white</span> cars, few houses, and lots of greenery, consider the <span class="quiz">northeastern island of St. John</span>. During the era of the transatlantic slave trade it produced sugarcane, and the Annaberg Sugar Plantation ruins remain, but the population today is very small{{% ex "https://maps.app.goo.gl/5CqbwZJ8GKSJRi1V8" "https://maps.app.goo.gl/FYfZM5hNr4oHw3Yu9" %}}.{{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/virgin_islands/east_end.jpg" width="95%">
+<img src="/rule/n_america/virgin_islands/east_end.jpg" width="95%" alt="East end">
 </div>
 
 
 
 {{% notice tip %}}Until 2016 light-blue license plates were used{{% ex "https://maps.app.goo.gl/45eDE7xETWB7Hm3G6" %}}. Dark blue plates can also appear.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="/rule/n_america/virgin_islands/640px-Virgin_Islands_license_plate.jpg" width="440"></p>
+<p><img src="/rule/n_america/virgin_islands/640px-Virgin_Islands_license_plate.jpg" width="440" alt="640px Virgin Islands license plate"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:United_States_Virgin_Islands_license_plate_2015.jpg#/media/File:United_States_Virgin_Islands_license_plate_2015.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/43/United_States_Virgin_Islands_license_plate_2015.jpg" alt="United States Virgin Islands license plate 2015.jpg" width="440"></a></p>
 <p>Lower image by <a href="//commons.wikimedia.org/wiki/User:Mattes" title="User:Mattes">User:Mattes</a> – <span class="int-own-work">Self-photographed</span>, <a href="https://creativecommons.org/licenses/by/2.0/de/deed.en" title="Creative Commons Attribution 2.0 de">CC BY 2.0 de</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48995829">Link</a></p>
 </div>

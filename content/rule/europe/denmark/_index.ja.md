@@ -42,7 +42,7 @@ sc: [
 デンマークのOdenseにある会社のAlluxというブランドのポストが一般的。おしゃれで丸いふた{{% ex "https://maps.app.goo.gl/CZvXH19Lwqhf2Aqp8" "https://maps.app.goo.gl/5XjCXyQRKRxQ45338" "https://goo.gl/maps/TJshTwHnStfspD4L8" "https://goo.gl/maps/6CEKTk8fpoLmJ4gh7" "https://goo.gl/maps/z3PdMhtesRfPBT8HA" "https://goo.gl/maps/5GBbkY1tEEjuCdW9A" "https://goo.gl/maps/2q4oAXsARW3gEjRD9" "https://goo.gl/maps/hyUHofxvqhDUGt9q7" "https://goo.gl/maps/PC17bRygm9XrLXtp6" "https://goo.gl/maps/cbQ8V47gNs13fN9N9" "https://goo.gl/maps/LfNR28YJsnaQKbVL6" %}}{{% imref %}}。陸続きの{{% goto "../germany/" "ドイツ" %}}やデンマーク王国領土である{{% goto "../faroe_islands/" "フェロー諸島" %}}でも見つかる。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2024-10-15-23-20-20.png">
+<img src="2024-10-15-23-20-20.png" alt="2024 10 15 23 20 20">
 </div>
 
 
@@ -65,7 +65,7 @@ sc: [
 通り名に<span class="quiz">vej</span>・høje・havenが多い{{% ex "https://maps.app.goo.gl/3jLBjRir1QwGqp1HA" "https://maps.app.goo.gl/PS5i5Ev2ixegsPdt8" "https://maps.app.goo.gl/7jpPBxtWTta6aEn2A" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./street-sign.jpg" width="95%">
+<img src="./street-sign.jpg" width="95%" alt="Street sign">
 </div>
 
 
@@ -73,7 +73,7 @@ sc: [
 家の前に旗を揚げるポールがあり、祝日や誕生日に旗を揚げることがある{{% ex "https://maps.app.goo.gl/H8EUtVvjRG9WN7AXA" "https://maps.app.goo.gl/N9rpu6NoVyxbM8bJ7" "https://maps.app.goo.gl/5x8oKSpKQ5Li6hP67" "https://maps.app.goo.gl/mm1STHyENuP6TSdSA" "https://maps.app.goo.gl/PckYsMgpz4ShSmir9" "https://maps.app.goo.gl/Z58g6R6Cgho4PszA6" %}}{{% ref "https://theslowroad.org/quirks-of-denmark/" "Quirks of Denmark" %}}。掲げられる旗も極端に細い{{% ex "https://maps.app.goo.gl/4bAes6SYNwc6xpML7" "https://maps.app.goo.gl/jqNCM2covDMA4guQ7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./denmark_home_afternoon_nature.jpg" width="95%">
+<img src="./denmark_home_afternoon_nature.jpg" width="95%" alt="Denmark home afternoon nature">
 </div>
 
 
@@ -153,7 +153,7 @@ public domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Anholt_island_view_2005.jpg" width="95%">
+<img src="./Anholt_island_view_2005.jpg" width="95%" alt="Anholt island view 2005">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1697261565914!6m8!1m7!1sja229-1LQr8vmd1-vK0EtQ!2m2!1d56.71580830041433!2d11.54309706651893!3f339.80967863425553!4f-2.5571449070028933!5f0.4000000000000002" width="95%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}

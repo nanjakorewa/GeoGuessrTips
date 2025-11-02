@@ -31,7 +31,7 @@ is_unofficial: true
 隣国の{{% goto "../mexico/" "メキシコ" %}}と同じく八角形電柱が使われている{{% ex "https://maps.app.goo.gl/UjetmiEyg5tpUW7P7" "https://maps.app.goo.gl/r7gVzetZS3pq28Nr5" "https://maps.app.goo.gl/GMsf4tmQmEadXT5X8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="640px-Pespire_Municipalidad_1.jpg" width="90%">
+<img src="640px-Pespire_Municipalidad_1.jpg" width="90%" alt="640px Pespire Municipalidad 1">
 </div>
 
 

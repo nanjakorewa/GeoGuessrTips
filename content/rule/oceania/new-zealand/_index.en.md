@@ -52,57 +52,57 @@ There is something wrapped around the upper parts of utility poles{{% ex "https:
 In Australia, speed limits are sometimes displayed on narrow white plates. In the diagram below, the left is <span class="quiz">Australia</span>, and the right is <span class="quiz">New Zealand</span>{{% ex "https://maps.app.goo.gl/BAftLgNTYwZYS5vo9" "https://maps.app.goo.gl/d2jYJkd5bPFo4YNE7" "https://maps.app.goo.gl/ofRk7Yu7ScSqkwzb8" "https://maps.app.goo.gl/VJcFe3mQ61fSDE648" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;"/>
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;"/>
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="AU speed limit" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="NZ speedlimit" />
 </div>
 
 {{% notice tip %}}
 Road numbers in red shield shapes can be found{{% ex "https://maps.app.goo.gl/Y4juas3PVW8JnMjd7" "https://maps.app.goo.gl/KR7e8hojLcnaJfFj9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px" alt="State Highway 77 NZ">
 </div>
 
 {{% notice tip %}}
 If "GIVE WAY" is written in black, it is <span class="quiz">Australia</span>. If it is written in red, it is <span class="quiz">New Zealand</span>{{% ex "https://maps.app.goo.gl/d1mgFigaTTxQXxnG8" "https://goo.gl/maps/g6VVwybuoqED18VN6" "https://maps.app.goo.gl/asdeLN1rJ5VioLCbA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;"/>
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;"/>
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Australia road sign R1 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="New Zealand road sign R2 2" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg" alt="Tokoroa near mannering street">
 </div>
 
 {{% notice tip %}}
 Over 40% of New Zealand’s land area is pasture{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Thanks to moderate rainfall throughout the year, grass grows easily. This keeps production costs low for dairy farmers, giving New Zealand dairy products global competitiveness{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Agricultural and Livestock Industries Corporation: New Zealand Dairy" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%" alt="Img 1492 27">
 </div>
 
 {{% notice tip %}}
 Yellow regulatory signs are present{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h3m5ak9" "https://maps.app.goo.gl/Fas561ugBzeYVp799" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="New Zealand PW 66">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="New Zealand PW 46">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="New Zealand PW 25 (55 kmh)">
 </div>
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="New Zealand Permanent Warning Use Low Gear">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="New Zealand PW 59">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg" alt="Homer tunnel east">
 </div>
 
 {{% notice tip %}}
 Signs and chevrons are mounted on white posts{{% ex "https://maps.app.goo.gl/68YBb7GgqSJ3KV8J6" "https://maps.app.goo.gl/vpKGGDjw4FxLaKvu5" "https://maps.app.goo.gl/EcAesoSvLZUEgZfF9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px" alt="Whitepole">
 </div>
 
 {{% /tab %}}
@@ -191,7 +191,7 @@ Windbreak forests can be seen to protect crops from ocean winds, though they are
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg" alt="Wv banner bay plenty">
 </div>
 
 {{% /tab %}}
@@ -202,7 +202,7 @@ A plant commonly found around the Mediterranean, it is also frequently seen alon
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg" alt="Arundo donax variegata j">
 </div>
 
 {{% /tab %}}
@@ -224,7 +224,7 @@ If you see a mountain resembling Mt. Fuji, you are likely near the national park
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg" alt="Mountain mt egmont mt">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -234,7 +234,7 @@ A very long cycling trail. You might often see something red along the trail. {{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg" alt="Rail trail going north 0">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -266,7 +266,7 @@ This island features abandoned sulfur production sites due to volcanic disasters
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%" alt="Derelict sulphur factory building">
 </div>
 {{% /tab %}}
 {{% tab "Antipodes Islands" %}}
@@ -276,7 +276,7 @@ A UNESCO World Heritage Site with penguin colonies. The area is restricted to th
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%" alt="Antipodes penguin">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

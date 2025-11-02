@@ -43,7 +43,7 @@ sc: [
 英語で書かれた看板がある{{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign1.jpg" width="90%">
+<img src="./road-sign1.jpg" width="90%" alt="Road sign1">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="95%">
+<img src="./road.jpg" width="95%" alt="Road">
 </div>
 
 
@@ -64,7 +64,7 @@ sc: [
 トライシクルと呼ばれる<span class="quiz">バイクと荷台・椅子が合体した乗り物</span>がタクシー代わりで使われる。バイクではなく自転車が合体したペディキャブという乗り物もある。またジプニーとよばれる<span class="quiz">派手な色のバス</span>も主な交通手段として使用される{{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}。バスのような公共交通機関はナンバーが<span class="quiz">黄</span>色。以下はトライシクル（右）とジプニー（左）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="80%">
+<img src="./car.jpg" width="80%" alt="Car">
 </div>
 
 {{% lb %}}
@@ -78,7 +78,7 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativeco
 一般乗用車は白色か薄い緑色のものが多い{{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}。<span class="quiz">右側</span>通行・乗り物が独特・ナンバーが黄・白・薄緑ならフィリピン。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car-blar-image.png" width="400px">
+<img src="./car-blar-image.png" width="400px" alt="Car blar image">
 </div>
 
 {{% lb 50 %}}
@@ -92,7 +92,7 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" />
+<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="09976jfmaharlika highway plaridel bustos" />
 </div>
 
 {{% notice tip %}}
@@ -100,11 +100,11 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./arrow.jpg" width="95%">
+<img src="./arrow.jpg" width="95%" alt="Arrow">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px">
+<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="Philippines road sign HM 1B R">
 </div>
 
 
@@ -188,7 +188,7 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "タガログ語" %}}
 <div class="googlemap-if unclickable">
-<img src="./fri03sep2004_chinatown_to_gastown.jpg">
+<img src="./fri03sep2004_chinatown_to_gastown.jpg" alt="Fri03sep2004 chinatown to gastown">
 </div>
 
 {{% notice tip %}}
@@ -242,8 +242,8 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "北部" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/n1.jpg" width="500px"/>
-<img src="bike/n2.jpg" width="500px"/>
+<img src="bike/n1.jpg" width="500px" alt="N1" />
+<img src="bike/n2.jpg" width="500px" alt="N2" />
 </div>
 
 {{% notice tip %}}
@@ -253,9 +253,9 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "南部" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/s1.jpg" width="500px"/>
-<img src="bike/s2.jpg" width="500px"/>
-<img src="bike/s3.jpg" width="500px"/>
+<img src="bike/s1.jpg" width="500px" alt="S1" />
+<img src="bike/s2.jpg" width="500px" alt="S2" />
+<img src="bike/s3.jpg" width="500px" alt="S3" />
 </div>
 
 {{% notice tip %}}
@@ -311,23 +311,23 @@ CC0画像を加工
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="550px"/>
+<img src="2023-05-01-19-06-07.png" width="550px" alt="2023 05 01 19 06 07" />
 </div>
 
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="550px"/>
+<img src="2023-05-01-19-13-28.png" width="550px" alt="2023 05 01 19 13 28" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./agriculture_sugar_cane_crop.jpg" width="400px">
+<img src="./agriculture_sugar_cane_crop.jpg" width="400px" alt="Agriculture sugar cane crop">
 </div>
 
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="550px"/>
+<img src="2023-05-01-19-08-10.png" width="550px" alt="2023 05 01 19 08 10" />
 </div>
 
 <div class="googlemap-if">
@@ -336,7 +336,7 @@ CC0画像を加工
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="550px"/>
+<img src="2023-05-01-19-06-44.png" width="550px" alt="2023 05 01 19 06 44" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -365,7 +365,7 @@ CC0画像を加工
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road-sign3.jpg" width="95%">
+<img src="./road-sign3.jpg" width="95%" alt="Road sign3">
 </div>
 
 {{% /tab %}}
@@ -374,7 +374,7 @@ CC0画像を加工
 フィリピンの大手銀行であるBDO Unibank・Bank of the Philippine Islands・Metrobankなどの看板に場所が書かれている{{% ex "https://maps.app.goo.gl/aGYK9bU5YD7gy3Th9" %}}。これ以外でも普通の店の看板に住所が書かれていることも結構多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%">
+<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="960px 9853Photos taken during 2020 coronavirus pandemic Meycauayan, Bulacan 10">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -405,7 +405,7 @@ CC0画像を加工
 GoogleCarが見える{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corregidor_dn_st_86.jpg" width="95%">
+<img src="./corregidor_dn_st_86.jpg" width="95%" alt="Corregidor dn st 86">
 </div>
 {{% /tab %}}
 {{% tab "ピナトゥボ山" %}}
@@ -413,7 +413,7 @@ GoogleCarが見える{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https:/
 
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./trekking_mountains_mountain_hiking.jpg" width="500px">
+<img src="./trekking_mountains_mountain_hiking.jpg" width="500px" alt="Trekking mountains mountain hiking">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

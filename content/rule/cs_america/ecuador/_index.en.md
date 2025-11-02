@@ -52,7 +52,7 @@ the back of the sign<b>flat feel</b>{{% ex "https://maps.app.goo.gl/PdNAEFwKyUxt
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/ecuador/road.jpg" width="90%" />
+<img src="/rule/cs_america/ecuador/road.jpg" width="90%" alt="Road" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, Image processing included
@@ -62,7 +62,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 Ecuador's guardrails<b>It's double</b>often{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/ecuador/540px-Banos-Puyo.jpg">
+<img src="/rule/cs_america/ecuador/540px-Banos-Puyo.jpg" alt="540px Banos Puyo">
 </div>
 
 
@@ -72,7 +72,7 @@ Telephone poles with small partitions and holes are rarely seen in South America
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/pole.jpg" width="95%" />
+<img src="/rule/cs_america/ecuador/pole.jpg" width="95%" alt="Pole" />
 </div>
 
 
@@ -82,7 +82,7 @@ For commercial vehicles such as taxis and trucks, the entire plate number or the
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/ecuador/palanda_ecuador_truck.jpg" width="90%">
+<img src="/rule/cs_america/ecuador/palanda_ecuador_truck.jpg" width="90%" alt="Palanda ecuador truck">
 </div>
 
 {{% lb 50 %}}
@@ -171,7 +171,7 @@ There are various telephone poles
 There is an oil palm plantation in the red circle.Especially roads near the Colombian border.{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" %}}and E20 roads{{% ex "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}There are many trees.{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/ecuador/2023-05-23-04-26-04.png" width="90%">
+<img src="/rule/cs_america/ecuador/2023-05-23-04-26-04.png" width="90%" alt="2023 05 23 04 26 04">
 </div>
 
 {{% /tab %}}
@@ -181,7 +181,7 @@ Rice fields are common in basins such as the Babayo River near Guayaquil.{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/Ecuador_Rice.png" width="90%">
+<img src="/rule/cs_america/ecuador/Ecuador_Rice.png" width="90%" alt="Ecuador Rice">
 </div>
 {{% /tab %}}
 {{% tab "banana" %}}
@@ -189,7 +189,7 @@ Rice fields are common in basins such as the Babayo River near Guayaquil.{{% ex 
 Banana plantations can be found in areas with a lot of flat land.{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "EcuadoriaN BananA RegionS" %}}.The percentage of Los Ríos (37.14%), Guayas (32.25%), and El Oro (24,12%).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/ecuador/640px-Culture_de_bananes.jpg" width="90%">
+<img src="/rule/cs_america/ecuador/640px-Culture_de_bananes.jpg" width="90%" alt="640px Culture de bananes">
 </div>
 
 {{% /tab %}}
@@ -199,7 +199,7 @@ The photo below has the initial "P", so we can assume that it is Pichincha.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/rue_de_riobamba.jpg" width="500">
+<img src="/rule/cs_america/ecuador/rue_de_riobamba.jpg" width="500" alt="Rue de riobamba">
 </div>
 {{% /tab %}}
 
@@ -219,7 +219,7 @@ An image of a tree growing like this{{% ex "https://maps.app.goo.gl/uwHFoWbHb24Z
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/ecuador/pichincha1a.jpg" width="95%" >
+<img src="/rule/cs_america/ecuador/pichincha1a.jpg" width="95%" alt="Pichincha1a">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

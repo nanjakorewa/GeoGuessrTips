@@ -46,13 +46,13 @@ Los hexágonos amarillos identifican las rutas{{% ex "https://maps.app.goo.gl/ZA
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/malaysia/road.jpg" width="80%" />
+<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" />
-<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" />
-<img src="/rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" />
+<img src="/rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="Jkr ft1" />
+<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysian Public Works Department" />
+<img src="/rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="Jkr k602" />
 </div>
 
 {{% notice tip %}}
@@ -60,7 +60,7 @@ Las dobles líneas blancas centrales son un indicio muy fuerte{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/langkawi_road.jpg" />
+<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Langkawi road" />
 </div>
 
 {{% notice tip %}}
@@ -85,7 +85,7 @@ Los postes blancos con franjas negras y el pavimento asfáltico son señales ine
 {{% /tab %}}
 {{% tab "Tienda y señalización" %}}
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%">
+<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Signboard with islamic calligraphy">
 </div>
 {{% notice tip %}}
 Los rótulos en escritura jawi aparecen sobre todo en el norte peninsular (Terengganu, Kelantan, Kedah, Perlis) y en el sur (Johor). Si el letrero es amarillo, probablemente estés en Johor{{% ref "https://docs.google.com/document/d/1BYu38SKT5Gej-jjHZ0cESvmRGPGT1KqaBpRgQa3Ctz0/edit" "The Malaysia Doc by zi8gzag" %}}. En Riau (Indonesia) también se usa jawi.
@@ -106,7 +106,7 @@ Los rótulos en escritura jawi aparecen sobre todo en el norte peninsular (Teren
 {{% tabs %}}
 {{% tab "Palma aceitera" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%"/>
+<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Los molinos marcados con puntos rojos suelen tener vastas plantaciones alrededor
 {{% /tab %}}
 {{% tab "Arroz" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%"/>
+<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Los arrozales se concentran en el extremo norte{{% ex "https://www.google.com/ma
 {{% tabs %}}
 {{% tab "Isla Mabul" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" width="90%">
+<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" width="90%" alt="Mabul island semporna sabah">
 </div>
 {{% /tab %}}
 {{% tab "Isla Tioman" %}}

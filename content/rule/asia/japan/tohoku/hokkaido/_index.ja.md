@@ -38,7 +38,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Kōnomai02.jpg" width="80%">
+<img src="Kōnomai02.jpg" width="80%" alt="Kōnomai02">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ no_jetro: true
 道端にフキが大量に生えていることがある。フキ自体は全国で見られるが、大量に生えているのは北海道以外あまりない。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="komon03.jpg">
+<img src="komon03.jpg" alt="Komon03">
 </div>
 {{% /tab %}}
 {{% tab "電柱" %}}
@@ -57,7 +57,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../../pole/pole-hokkaido.png" width="120px">
+<img src="../../pole/pole-hokkaido.png" width="120px" alt="Pole hokkaido">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ no_jetro: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Akan_bus_Akan01.jpg" width="80%">
+<img src="Akan_bus_Akan01.jpg" width="80%" alt="Akan bus Akan01">
 </div>
 
 
@@ -92,7 +92,7 @@ no_jetro: true
 
 
 <div class="googlemap-if">
-<img src="960px-Sandbox02.jpg">
+<img src="960px-Sandbox02.jpg" alt="960px Sandbox02">
 </div>
 
 {{% /tab %}}
@@ -102,7 +102,7 @@ no_jetro: true
 北海道以外であまり見られない標識もあるかも{{% ex "https://maps.app.goo.gl/6R9bUhSauoZT8RsX9" %}}？
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Japanese_road_sign_406-2.svg" width="250px">
+<img src="Japanese_road_sign_406-2.svg" width="250px" alt="Japanese road sign 406 2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

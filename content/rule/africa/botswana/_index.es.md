@@ -39,7 +39,7 @@ Las matrﾃｭculas son de color amarillo, azul y blanco {{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/botswana/gaboronestreetscene.jpg" width="90%">
+<img src="/rule/africa/botswana/gaboronestreetscene.jpg" width="90%" alt="Gaboronestreetscene">
 </div>
 
 {{% lb 50 %}}
@@ -57,7 +57,7 @@ Botsuana alberga el desierto de Kalahari, ofreciendo paisajes planos y amplios. 
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pe_wu/11986287164/" title="Trans-Kalahari Highway"><img src="https://live.staticflickr.com/2826/11986287164_77b0f9036b_z.jpg" width="640" height="427" alt="Trans-Kalahari Highway"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="/rule/africa/botswana/botswana_elephant_road_1653101.jpg" width="640">
+<img src="/rule/africa/botswana/botswana_elephant_road_1653101.jpg" width="640" alt="Botswana elephant road 1653101">
 </div>
 
 {{% notice tip %}}

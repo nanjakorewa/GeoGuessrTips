@@ -58,9 +58,9 @@ An <span class="quiz">Einbahnstraße</span> sign means you are in Germany{{% ex 
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px">
-<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px">
-<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px">
+<img src="/rule/europe/germany/r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="Zeichen 220 20 Einbahnstraße, rechtsweisend, StVO 2017">
+<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, StVO 2017">
+<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, StVO 1992">
 </div>
 
 {{% notice tip %}}
@@ -68,15 +68,15 @@ Orange background signs with arrows and road numbers are widespread{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%">
+<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%" alt="Junction traffic island road">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px">
-<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px">
+<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
+<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/rs2.svg" width="95%">
+<img src="/rule/europe/germany/rs2.svg" width="95%" alt="Rs2">
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ Bus and tram stops bear green “H” circles marked Haltestelle{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bus-stop-board.jpg" width="60%">
+<img src="./bus-stop-board.jpg" width="60%" alt="Bus stop board">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ Older Gen2 imagery produces boxy blur and muted colors. Newer updates offer shar
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rd2.jpg" width="95%">
+<img src="./rd2.jpg" width="95%" alt="Rd2">
 </div>
 
 {{% /tab %}}
@@ -111,7 +111,7 @@ Autobahn junction plates use yellow shielding with “A###” numbering{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./autobahn.jpg" width="95%">
+<img src="./autobahn.jpg" width="95%" alt="Autobahn">
 </div>
 
 {{% /tab %}}
@@ -132,7 +132,7 @@ Autobahn junction plates use yellow shielding with “A###” numbering{{% ex "h
 Expect evergreen forests, logging clearings, and mossy shoulders{{% ex "https://goo.gl/maps/kr76eG25s3p3187i7" "https://goo.gl/maps/iJHnDTBqmdGpSfmT6" "https://goo.gl/maps/QJbscND6g9aCX57QA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./harz_forest.jpg" width="95%">
+<img src="./harz_forest.jpg" width="95%" alt="Harz forest">
 </div>
 {{% /tab %}}
 {{% tab "Sylt Island" %}}
@@ -140,7 +140,7 @@ Expect evergreen forests, logging clearings, and mossy shoulders{{% ex "https://
 Sylt contains dune landscapes devoid of trees{{% ex "https://goo.gl/maps/wFYycBKzt8NkduzF7" "https://goo.gl/maps/HscUhbVHEXjX44Fb6" %}}{{% ref "https://en.wikipedia.org/wiki/Sylt" "Sylt" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" />
+<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" alt="Sylt dunes nature landscape" />
 </div>
 {{% /tab %}}
 {{% tab "Rapeseed fields" %}}
@@ -148,7 +148,7 @@ Sylt contains dune landscapes devoid of trees{{% ex "https://goo.gl/maps/wFYycBK
 In spring, bright-yellow rapeseed fields dominate the countryside.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/rapsfeld03.jpg">
+<img src="/rule/europe/germany/rapsfeld03.jpg" alt="Rapsfeld03">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -167,7 +167,7 @@ In spring, bright-yellow rapeseed fields dominate the countryside.
 Brick warehouses line the canals{{% ex "https://goo.gl/maps/Q8HuMRd2AhMpQeHC9" %}}{{% ref "https://en.wikipedia.org/wiki/Hamburg" "Hamburg" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" />
+<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Speicherstadt hamburg brick 1095857" />
 </div>
 {{% /tab %}}
 {{% tab "Street plates" %}}
@@ -179,13 +179,13 @@ Brick warehouses line the canals{{% ex "https://goo.gl/maps/Q8HuMRd2AhMpQeHC9" %
 </ul>
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/berlin_historic_street_names.jpg">
+<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Berlin historic street names">
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg">
+<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
 </div>
 <div class="googlemap-if">
-<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg">
+<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
 </div>
 {{% /tab %}}
 {{% tab "Berlin" %}}
@@ -193,17 +193,17 @@ Brick warehouses line the canals{{% ex "https://goo.gl/maps/Q8HuMRd2AhMpQeHC9" %
 Many intersections include historical street plates and district info.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/berlin_historic_street_names.jpg">
+<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Berlin historic street names">
 </div>
 {{% /tab %}}
 {{% tab "Munich" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg">
+<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
 </div>
 {{% /tab %}}
 {{% tab "Cologne" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg">
+<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -213,7 +213,7 @@ Industrial density varies: GfK maps highlight clusters of manufacturing employee
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/201601_mom.webp" width="600px"></p>
+<p><img src="/rule/europe/germany/201601_mom.webp" width="600px" alt="201601 mom"></p>
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>

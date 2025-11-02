@@ -50,7 +50,7 @@ Sering terlihat cattle grid—batang logam yang dipasang melintang di jalan{{% r
 Kamu juga dapat menjumpai domba Shetland{{% ex "https://maps.app.goo.gl/jVbxVRcWWLD3mwCP9" "https://maps.app.goo.gl/oGmNgvnhFBFjmE2K9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%97" "Shetland sheep" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/shetland/960px-OvellasShetland.jpg" width="95%">
+<img src="/rule/europe/shetland/960px-OvellasShetland.jpg" width="95%" alt="960px OvellasShetland">
 </div>
 
 

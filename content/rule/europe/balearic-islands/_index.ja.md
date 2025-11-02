@@ -35,22 +35,22 @@ sc: [
 道の片側・両側に低い石壁があることが多い{{% ex "https://maps.app.goo.gl/1nZ7MxWGeRx7BdGr9" "https://maps.app.goo.gl/kcGcXQnCPmmCk4sJ8" "https://maps.app.goo.gl/JmNA1Nr7ShkH98fa9" "https://maps.app.goo.gl/uAZkEAKPmVxbKSyR8" "https://maps.app.goo.gl/gzVkQYJ1nkDmVP278" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./stonewall.jpg" width="95%">
-<img src="./lighthouse_mallorca_balearic_islands.jpg" width="95%">
+<img src="./stonewall.jpg" width="95%" alt="Stonewall">
+<img src="./lighthouse_mallorca_balearic_islands.jpg" width="95%" alt="Lighthouse mallorca balearic islands">
 </div>
 
 {{% notice tip %}}
 赤っぽい土が多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./redsoil.jpg" width="95%">
+<img src="./redsoil.jpg" width="95%" alt="Redsoil">
 </div>
 
 {{% notice tip %}}
 {{% goto "../spain/" "スペイン" %}}領であり、スペイン本土と同じ電柱・ボラード・標識・シェブロンが見られる{{% ex "https://maps.app.goo.gl/yG2t32avoQZ5HC1eA" "https://maps.app.goo.gl/Utt6K2KxMH4YXTT69" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road.jpg" width="95%">
+<img src="./road.jpg" width="95%" alt="Road">
 </div>
 
 {{% /tab %}}

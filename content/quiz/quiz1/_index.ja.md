@@ -32,6 +32,6 @@ pagetype: "quiz"
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./japan_otaru_road_buildings.jpg">
+<img src="./japan_otaru_road_buildings.jpg" alt="Japan otaru road buildings">
 </div>
 </div>

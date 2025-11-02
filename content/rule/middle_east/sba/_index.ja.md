@@ -37,7 +37,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Road_To_Pafos.jpg" width="90%">
+<img src="./Road_To_Pafos.jpg" width="90%" alt="Road To Pafos">
 </div>
 
 
@@ -46,8 +46,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px">
-<img src="./turkish_republic_northern_cyprus_0.jpg" width="300px">
+<img src="./bilingual_motorway_direction_sign.jpg" width="300px" style="margin:20px" alt="Bilingual motorway direction sign">
+<img src="./turkish_republic_northern_cyprus_0.jpg" width="300px" alt="Turkish republic northern cyprus 0">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="971px Dirt road in British Controlled area of Ypsonas Village Limassol 12">
 </div>
 
 

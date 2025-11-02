@@ -50,5 +50,5 @@ add_flagindex: True
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-02-18-41-43.png" width="200px">
+<img src="2023-06-02-18-41-43.png" width="200px" alt="2023 06 02 18 41 43">
 </div>

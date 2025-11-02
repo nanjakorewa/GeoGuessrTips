@@ -42,14 +42,14 @@ Tiang listrik dengan sekat dapat ditemukan seperti di {{% goto "../brazil/" "Bra
 Papan nama jalan di Asunción sering berwarna hitam dengan tiang merah putih. Bagian belakang papan nama juga sering hitam seperti di {{% goto "../brazil/" "Brasil" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/paraguay/conmebol_football_flag_building.jpg" width="95%">
+<img src="/rule/cs_america/paraguay/conmebol_football_flag_building.jpg" width="95%" alt="Conmebol football flag building">
 </div>
 
 {{% notice tip %}}
 Jalan tertentu memiliki papan nama berbentuk lengkung.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/paraguay/Entrada_a_Arroyos_y_Esteros.jpg" width="90%">
+<img src="/rule/cs_america/paraguay/Entrada_a_Arroyos_y_Esteros.jpg" width="90%" alt="Entrada a Arroyos y Esteros">
 </div>
 
 {{% /tab %}}
@@ -75,7 +75,7 @@ Beberapa area dekat perbatasan Brasil masuk ke sisi Paraguay.
 {{% tabs %}}
 {{% tab "Tenggara" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/paraguay/Paraguay_Rice.png" width="80%">
+<img src="/rule/cs_america/paraguay/Paraguay_Rice.png" width="80%" alt="Paraguay Rice">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Curah hujan tinggi, ditemukan ladang kedelai, sawah, dan jagung.
 {{% /tab %}}
 {{% tab "Barat Laut" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/paraguay/Paraguay_Cotton.png" width="80%">
+<img src="/rule/cs_america/paraguay/Paraguay_Cotton.png" width="80%" alt="Paraguay Cotton">
 </div>
 
 {{% notice tip %}}

@@ -42,7 +42,7 @@ Plat nomor biasanya berwarna <span class="quiz">biru</span> atau hanya bagian ki
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/senegal/car.png" width="90%">
+<img src="/rule/africa/senegal/car.png" width="90%" alt="Car">
 </div>
 
 {{% lb 50 %}}
@@ -55,8 +55,8 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 Tiang listrik dan bollard serupa dengan yang digunakan di {{% goto "../../europe/france/" "Prancis" %}} {{% ex "https://maps.app.goo.gl/RQH5CAecC1NTwaix9" "https://maps.app.goo.gl/cbM26qhvAKLT3KmM6" %}}. Nama jalan juga sering menggunakan "RUE". Sebelum kemerdekaan pada tahun 1960, Senegal adalah koloni Prancis {{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "Pembagian Afrika" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_ﾃ_Dakar.jpg" width="350">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_ﾃ_Dakar.jpg" width="350">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_ﾃ_Dakar.jpg" width="350" alt="640px Panneau de la rue Joseph Gomis ﾃ Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_ﾃ_Dakar.jpg" width="350" alt="640px Panneau de la rue Mohamed V ﾃ Dakar">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -67,14 +67,14 @@ Tiang listrik dan bollard serupa dengan yang digunakan di {{% goto "../../europe
 Rumah beratap jerami dapat ditemukan di daerah pinggiran {{% ex "https://maps.app.goo.gl/KqWL3cyn1y4AV35ZA" "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/uak7feCphivakSFN9" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-A_l'entrﾃｩe_de_Ndoussoudji.jpg" width="90%">
+<img src="/rule/africa/senegal/960px-A_l'entrﾃｩe_de_Ndoussoudji.jpg" width="90%" alt="960px A l'entrﾃｩe de Ndoussoudji">
 </div>
 
 {{% notice tip %}}
 Pohon baobab sering ditemukan di wilayah sabana seperti Senegal, {{% goto "../botswana/" "Botswana" %}}, dan {{% goto "../madagascar/" "Madagaskar" %}} {{% ex "https://maps.app.goo.gl/x4JLyv1HUNxqwyKT9" "https://maps.app.goo.gl/Tc2Ej1t8ASYqMrjx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%">
+<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%" alt="960px Senegal 011">
 </div>
 
 {{% notice tip %}}
@@ -129,7 +129,7 @@ sc: [
 Pelat kuning atau dengan pita kuning di kiri cukup umum.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/senegal/car.png" width="90%">
+<img src="/rule/africa/senegal/car.png" width="90%" alt="Car">
 </div>
 
 {{% lb 50 %}}
@@ -140,8 +140,8 @@ Pelat kuning atau dengan pita kuning di kiri cukup umum.
 Ada tiang dan bolard bergaya Prancis; rambu jalan bertuliskan <span class="quiz">RUE</span> juga terlihat.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Joseph Gomis à Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Mohamed V à Dakar">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -152,11 +152,11 @@ Ada tiang dan bolard bergaya Prancis; rambu jalan bertuliskan <span class="quiz"
 Di pinggiran ada rumah atap jerami; di sabana terdapat pohon <span class="quiz">baobab</span>.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%">
+<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="960px A l'entrée de Ndoussoudji">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%">
+<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%" alt="960px Senegal 011">
 </div>
 
 {{% /tab %}}

@@ -38,9 +38,9 @@ sc: [
 ナンバープレートについて<span class="quiz">青色のストライプが無い</span>{{% ex "https://maps.app.goo.gl/TYTenUeYETwMQNYf7" %}}{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 ～忘れられた国々編～" %}}。左側が少し赤みがかって見える。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px">
-<img src="./719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px">
-<img src="./503px-Jersey_Marathon_2011_14.jpg" width="330px">
+<img src="./1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px" alt="1184px Visite du Branchage Saint Hélier 2013 e">
+<img src="./719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px" alt="719px Lieutenant Governor of Jersey car J4">
+<img src="./503px-Jersey_Marathon_2011_14.jpg" width="330px" alt="503px Jersey Marathon 2011 14">
 </div>
 
 {{% lb 50 %}}
@@ -61,8 +61,8 @@ By Willtron, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC
 そこまで都会ではないのに銀行の建物がたくさんある。以下はBarclaysとRoyal Bank of Canada{{% ref "https://www.citigroup.jp/jp/index.html" "Citi - Japan" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" />
-<img src="./546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" />
+<img src="./551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" alt="551px Barclays, Saint Hélyi, Jèrri" />
+<img src="./546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" alt="546px Banque Rouoyale du Cannada, Grand' Rue, Saint Hélyi, Jèrri" />
 </div>
 
 {{% notice tip %}}

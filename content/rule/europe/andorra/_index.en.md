@@ -59,7 +59,7 @@ Look for roadside snow poles with red tops along the carriageway. {{% ex "https:
 Road numbers start with “CS” or “CG”. {{% ex "https://goo.gl/maps/qnec2sM37NcgWVyj7" "https://goo.gl/maps/tLoLdtWhcvsGm1i78" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/andorra/roadsign.jpg" width="75%" />
+<img src="/rule/europe/andorra/roadsign.jpg" width="75%" alt="Roadsign" />
 </div>
 
 {{% notice tip %}}

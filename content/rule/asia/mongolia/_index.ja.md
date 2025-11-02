@@ -36,7 +36,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mongolia_steppe_horses_altai.jpg" width="95%">
+<img src="./mongolia_steppe_horses_altai.jpg" width="95%" alt="Mongolia steppe horses altai">
 </div>
 
 {{% lb 50 %}}
@@ -51,7 +51,7 @@ By Nima Farid - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.ph
 ゲル（モンゴル高原に住む遊牧民の住居）が遠くに見えるかも{{% ex "https://maps.app.goo.gl/aJRwu5Mo2uk7b8en8" "https://maps.app.goo.gl/mUTd51UQcCA2UwfM6" "https://maps.app.goo.gl/V7gk5kwoK8TtW3nU8" "https://goo.gl/maps/iy9e9jVHmGwbVHw88" "https://maps.app.goo.gl/ocP6224mJufdTEn99" %}}？
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="yurt_mongolia_steppe_altai.jpg" width="95%" />
+<img src="yurt_mongolia_steppe_altai.jpg" width="95%" alt="Yurt mongolia steppe altai" />
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Google Carが特徴的でほとんどの場合すぐにモンゴルと分かる{
 {{% tabs %}}
 {{% tab "植生" %}}
 <div class="googlemap-if">
-<div class="unclickable"><img src="map6.gif" /></div>
+<div class="unclickable"><img src="map6.gif" alt="Map6" /></div>
 <div class="description-wide">
 Legend tour Ltd., INFORMATION FOR TRAVELERS GEOGRAPHICAL FEATURES, <a href="https://www.legendtour.ru/eng/mongolia/informations/geographical_features.shtml">Link</a>, 2023年5月1日に利用.
 </div>

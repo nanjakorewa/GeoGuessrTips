@@ -67,7 +67,7 @@ Domain Publik
 Jika ada banyak rumah bata <span class="quiz">Inggris</span> Namun jika temboknya banyak yang berwarna putih <span class="quiz">Irlandia</span> Mari kita pertimbangkan.Irlandia ada di kiri bawah{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}, Inggris di sebelah kanan{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Intisari: Kursus Pemula Peta Dunia + Pojok Pertanyaan" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" alt="Uk street" />
 </div>
 
 
@@ -86,13 +86,13 @@ Dalam diagram ini, kiri <span class="quiz">Irlandia</span> Dan yang benar <span 
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" alt="Cevron" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
-<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" />
+<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;" alt="IE road sign W 062 L">
+<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" alt="UK traffic sign 515" />
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ Dalam diagram ini, kiri <span class="quiz">Irlandia</span> Dan yang benar <span 
 dengan Inggris{{% goto "../ireland/" "Irlandia" %}}Banyak mata kucing di jalanan.{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}.Itu ditemukan di Inggris pada tahun 1934 dan digunakan di Inggris, Irlandia, Selandia Baru, dan negara-negara lain.Namun jarang digunakan di negara-negara Eropa lainnya.{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "Mata kucing (jalan)" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg">
+<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg" alt="640px LIGHTDOME">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -142,7 +142,7 @@ Alexandra Palace Theatre terletak di sisi utara London
 {{% tabs %}}
 {{% tab "Pertanian dan distribusi tanaman" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%">
+<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%" alt="Veg image large">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ Saya belum pernah menggunakannya (<a href="https://www.reddit.com/r/dataisbeauti
 Mudah dimengerti karena dieja dengan cara yang tidak bisa diucapkan dalam bahasa Inggris.{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "Welsh" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%" alt="Road sign w">
 </div>
 
 {{% notice tip %}}
@@ -217,7 +217,7 @@ Ada notasi seperti "ARAF" dan "SAFLL BWS"{{% ex "https://maps.app.goo.gl/Bz2vFSq
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%" alt="Wales cardiff slow">
 </div>
 {{% /tab %}}
 {{% tab "tonggak putih dan merah" %}}

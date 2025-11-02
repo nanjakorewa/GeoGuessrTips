@@ -23,6 +23,6 @@ pagetype: "quiz"
 {{% /notice %}}
 <br />
 <div class="googlemap-if">
-<img src="https://geopinning.space/rule/europe/poland/r/PL_road_sign_A-7.svg" width="200px">
+<img src="https://geopinning.space/rule/europe/poland/r/PL_road_sign_A-7.svg" width="200px" alt="PL road sign A 7">
 </div>
 </div>

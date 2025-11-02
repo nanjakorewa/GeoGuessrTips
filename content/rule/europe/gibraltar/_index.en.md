@@ -37,21 +37,21 @@ sc: [
 The famous Rock (a single limestone monolith) looms over residential areas, so cliffs appear right beside the houses{{% ex "https://maps.app.goo.gl/f2xuSjBFS9fgZtAD6" "https://maps.app.goo.gl/8ttDiLvZ4rF6SPGSA" "https://maps.app.goo.gl/je2FQvmN3EWyYVMT6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/gibraltar/gibraltar_rock_british_890293.jpg" width="95%">
+<img src="/rule/europe/gibraltar/gibraltar_rock_british_890293.jpg" width="95%" alt="Gibraltar rock british 890293">
 </div>
 
 {{% notice tip %}}
 Traffic keeps to the right and plates follow the UK style: white front, <span class="quiz">yellow</span> rear{{% ex "https://maps.app.goo.gl/k4bE2XNAE4v9x3Y89" "https://maps.app.goo.gl/SpjXPcmpDCzyrWiM6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/gibraltar/car.jpg" width="95%">
+<img src="/rule/europe/gibraltar/car.jpg" width="95%" alt="Car">
 </div>
 
 {{% notice tip %}}
 The port and naval dockyard dominate the west side{{% ex "https://maps.app.goo.gl/mQgpyFynN1YCH1RN8" "https://maps.app.goo.gl/iY8koRJ9cWyZoC2j7" %}}{{% ref "https://en.wikipedia.org/wiki/Port_of_Gibraltar" "Port of Gibraltar" %}}. The UK garrison is still stationed here, so you will see many ships and defense-related facilities; tourism and finance are also key industries.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/gibraltar/gibraltar_monkeys_mediterranean_sea.jpg" width="95%">
+<img src="/rule/europe/gibraltar/gibraltar_monkeys_mediterranean_sea.jpg" width="95%" alt="Gibraltar monkeys mediterranean sea">
 </div>
 
 {{% notice tip %}}

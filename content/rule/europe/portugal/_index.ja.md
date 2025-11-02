@@ -40,7 +40,7 @@ sc: [
 ポルトガル語が見つかる。『Ã』『ã』が特徴的{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}。またポルトガルの速度制限や警告看板には白い縁がある{{% ex "https://maps.app.goo.gl/8DMbVRv8VcRw5N9o6" %}}が{{% goto "../spain/" "スペイン" %}}には無い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./ruaseixo.jpg" width="80%">
+<img src="./ruaseixo.jpg" width="80%" alt="Ruaseixo">
 </div>
 
 
@@ -48,7 +48,7 @@ sc: [
 ナンバープレートは<span class="quiz">右側が黄色</span>{{% ex "https://maps.app.goo.gl/5pSZeVPDXLF97bak8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" />
+<img src="./car.jpg" width="90%" alt="Car" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-00-36.png)
@@ -60,7 +60,7 @@ sc: [
 電柱に<span class="quiz">仕切り</span>がありかつ<span class="quiz">穴が空いている</span>ものがある{{% ex "https://maps.app.goo.gl/F3S8Z9NacfsTSGoUA" "https://maps.app.goo.gl/fhcRFZBCRgbxDvF39" "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}。{{% goto "../belgium/" "ベルギー" %}}や{{% goto "../france/" "フランス" %}}の電柱も穴が空いていることがある点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="90%">
+<img src="./up.png" width="90%" alt="Up">
 </div>
 
 
@@ -69,7 +69,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./r/Portugal_road_sign_H7.svg" width="140px">
+<img src="./r/Portugal_road_sign_H7.svg" width="140px" alt="Portugal road sign H7">
 </div>
 
 
@@ -82,14 +82,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/xv-portugal.png" width="140px" style="margin:10px">
+<img src="./r/xv-portugal.png" width="140px" style="margin:10px" alt="Xv portugal">
 </div>
 
 {{% notice tip %}}
 古い石畳の道があったり歩道が石畳だったりする{{% ex "https://maps.app.goo.gl/ozXMmnBiqHCwYThz7" "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.png" width="90%">
+<img src="./street.png" width="90%" alt="Street">
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="./roadsign.jpg" width="90%" alt="Roadsign">
 </div>
 
 
@@ -114,16 +114,16 @@ sc: [
 <table style="width:480px">
 <tr>
 <td style="width:120px">
-<img src="./nh1.png" width="30px">
+<img src="./nh1.png" width="30px" alt="Nh1">
 </td>
 <td style="width:120px">
-<img src="./nh2.png" width="30px">
+<img src="./nh2.png" width="30px" alt="Nh2">
 </td>
 <td style="width:120px">
-<img src="./nh3.png" width="30px">
+<img src="./nh3.png" width="30px" alt="Nh3">
 </td>
 <td style="width:120px">
-<img src="./nh4.png" width="30px">
+<img src="./nh4.png" width="30px" alt="Nh4">
 </td>
 </tr>
 <tr>
@@ -148,7 +148,7 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="nohunting.png" width="60%">
+<img src="nohunting.png" width="60%" alt="Nohunting">
 </div>
 
 
@@ -158,7 +158,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./cork_oak_cork_bark.jpg" width="90%">
+<img src="./cork_oak_cork_bark.jpg" width="90%" alt="Cork oak cork bark">
 </div>
 
 
@@ -200,7 +200,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="antigo_troco_do_ip5.jpg" width="95%">
+<img src="antigo_troco_do_ip5.jpg" width="95%" alt="Antigo troco do ip5">
 </div>
 
 {{% notice tip %}}
@@ -208,7 +208,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="pins_de_la_paloumere.jpg" width="95%">
+<img src="pins_de_la_paloumere.jpg" width="95%" alt="Pins de la paloumere">
 </div>
 
 
@@ -221,7 +221,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="en122_alentejo.jpg" width="95%">
+<img src="en122_alentejo.jpg" width="95%" alt="En122 alentejo">
 </div>
 
 {{% /tab %}}
@@ -232,7 +232,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="madeira_banana_shrub_road.jpg" width="95%">
+<img src="madeira_banana_shrub_road.jpg" width="95%" alt="Madeira banana shrub road">
 </div>
 
 {{% /tab %}}
@@ -267,7 +267,7 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./city/cantaromagro.jpg">
+<img src="./city/cantaromagro.jpg" alt="Cantaromagro">
 </div>
 
 {{% /tab %}}
@@ -279,8 +279,8 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./city/berlenga_fort.jpg" width="310px">
-<img src="./city/berlenga_island_bay.jpg" width="310px">
+<img src="./city/berlenga_fort.jpg" width="310px" alt="Berlenga fort">
+<img src="./city/berlenga_island_bay.jpg" width="310px" alt="Berlenga island bay">
 </div>
 
 {{% /tab %}}
@@ -291,7 +291,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./city/lisbon_old_town_tram_0.jpg" width="95%">
+<img src="./city/lisbon_old_town_tram_0.jpg" width="95%" alt="Lisbon old town tram 0">
 </div>
 
 {{% /tab %}}

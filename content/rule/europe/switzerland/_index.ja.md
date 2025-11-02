@@ -52,7 +52,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="googlecar.png" width="500px">
+<img src="googlecar.png" width="500px" alt="Googlecar">
 </div>
 
 
@@ -65,7 +65,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
+<img src="1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%" alt="1081px Fussgängerstreifen Türmlischulhaus Bern">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road_mountain_switzerland_sky.jpg">
+<img src="road_mountain_switzerland_sky.jpg" alt="Road mountain switzerland sky">
 </div>
 
 {{% notice tip %}}
@@ -116,7 +116,7 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="switzerland_valais_bergdorf_1335698.jpg" width="95%" />
+<img src="switzerland_valais_bergdorf_1335698.jpg" width="95%" alt="Switzerland valais bergdorf 1335698" />
 </div>
 
 {{% /tab %}}
@@ -166,10 +166,10 @@ By Krokodyl - <span class="int-own-work" lang="en">Own work</span>, <a href="htt
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./speed/fr.svg" width="120px" style="margin:10px" />
-<img src="./speed/ge.svg" width="120px" style="margin:10px" />
-<img src="./speed/it.svg" width="120px" style="margin:10px" />
-<img src="./speed/ch.svg" width="120px" style="margin:10px" />
+<img src="./speed/fr.svg" width="120px" style="margin:10px" alt="Fr" />
+<img src="./speed/ge.svg" width="120px" style="margin:10px" alt="Ge" />
+<img src="./speed/it.svg" width="120px" style="margin:10px" alt="It" />
+<img src="./speed/ch.svg" width="120px" style="margin:10px" alt="Ch" />
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}

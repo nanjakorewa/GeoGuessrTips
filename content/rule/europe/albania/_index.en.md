@@ -47,7 +47,7 @@ Rooftop water tanks are a familiar sight in Albania. {{% ex "https://maps.app.go
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/albania/house.jpg" width="95%">
+<img src="/rule/europe/albania/house.jpg" width="95%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ Standard Albanian license plates carry <span class="quiz">blue strips on both si
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/albania/albania-road.png" width="90%" />
+<img src="/rule/europe/albania/albania-road.png" width="90%" alt="Albania road" />
 </div>
 
 {{% lb 50 %}}
@@ -82,12 +82,12 @@ Albania was once a protectorate of {{% goto "../italy/" "Italy" %}} {{% ref "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/albania/street-sign.png" width="90%" />
+<img src="/rule/europe/albania/street-sign.png" width="90%" alt="Street sign" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px">
-<img src="/rule/europe/albania/sign-bg.png" width="120px" style="margin:10px">
+<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px" alt="Road sign %CF%8075b">
+<img src="/rule/europe/albania/sign-bg.png" width="120px" style="margin:10px" alt="Sign bg">
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ Albania was once a protectorate of {{% goto "../italy/" "Italy" %}} {{% ref "htt
 {{% /tab %}}
 {{% tab "Utility poles" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/albania/2023-08-14-17-20-33.png" width="400px" />
+<img src="/rule/europe/albania/2023-08-14-17-20-33.png" width="400px" alt="2023 08 14 17 20 33" />
 </div>
 {{% /tab %}}
 

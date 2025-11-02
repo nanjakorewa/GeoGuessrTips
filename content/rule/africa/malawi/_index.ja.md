@@ -39,7 +39,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="gmap.png" width="95%">
+<img src="gmap.png" width="95%" alt="Gmap">
 </div>
 
 {{% /tab %}}

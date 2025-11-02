@@ -36,7 +36,7 @@ sc: [
 Las matrículas traseras suelen tener fondo blanco con texto azul{{% ex "https://goo.gl/maps/s64SxiuWMRpySiP36" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/gGGogQKkGbfVVv4E7" "https://goo.gl/maps/AeiypzDff9piNJtd6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/costa_rica/car.jpg" width="450px" />
+<img src="/rule/n_america/costa_rica/car.jpg" width="450px" alt="Car" />
 </div>
 
 {{% lb %}}
@@ -49,7 +49,7 @@ Por Zcarstvnz - Este archivo ha sido extraído de otro archivo, <a href="https:/
 Caminando sobre playas de arena oscura{{% ex "https://goo.gl/maps/bgvHTPim84tpDgVE9" "https://goo.gl/maps/ErpF9xwi6YTwUBWp8" "https://goo.gl/maps/KUxVKAC39XEUrwCe8" "https://goo.gl/maps/3PrEtxerg9emYpE3A" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/ox5mvmcrrJNtxqQz9" "https://goo.gl/maps/ik2xgcXVJtEjDdzZ8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/costa_rica/beach.png" width="85%" />
+<img src="/rule/n_america/costa_rica/beach.png" width="85%" alt="Beach" />
 </div>
 
 {{% notice tip %}}

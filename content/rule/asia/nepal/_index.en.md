@@ -40,7 +40,7 @@ Los rótulos utilizan escritura devanagari; a diferencia de India, muchos númer
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/kmc3.jpg" width="90%">
+<img src="/rule/asia/nepal/kmc3.jpg" width="90%" alt="Kmc3">
 </div>
 
 
@@ -64,7 +64,7 @@ Abundan los pinos del Himalaya (Pinus roxburghii){{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%">
+<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%" alt="Dalhousie3">
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ El Himalaya se alinea con la frontera norte, mientras que al sur se extienden ll
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/nepal/Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%">
+<img src="/rule/asia/nepal/Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%" alt="Chure Range Chure Hills Chure Region Nepal">
 </div>
 
 {{% /tab %}}
@@ -130,7 +130,7 @@ El pueblo sirve como centro logístico: abundan mochilas de alta montaña y band
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%">
+<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="1230px A night view of Namche Bazaar in Nepal, photographed on the route to the Everest Base Camp trek, December 1, 2023">
 </div>
 
 {{% /tab %}}

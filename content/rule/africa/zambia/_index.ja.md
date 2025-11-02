@@ -26,7 +26,7 @@ is_unofficial: true
 2000年代後半から農業が盛んになっており食糧自給率は140%を超える。農園やセンターピボットが見つかる{{% ref "https://www.zm.emb-japan.go.jp/files/000190562.pdf" "農業から見たザンビア - ザンビア国農業畜産省 農業・農村開発アドバイザー 野坂治朗" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="960px-Grain_Silos_and_weighing_bridge.jpg" width="90%">
+<img src="960px-Grain_Silos_and_weighing_bridge.jpg" width="90%" alt="960px Grain Silos and weighing bridge">
 </div>
 
 {{% notice tip %}}

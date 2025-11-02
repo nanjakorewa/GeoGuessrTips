@@ -45,14 +45,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/PL_road_sign_A-7.svg" width="100px" style="margin:10px">
-<img src="./PL_road_sign_A-16.svg" width="100px" style="margin:10px">
-<img src="./PL_road_sign_A-8.svg" width="100px" style="margin:10px">
+<img src="./r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="PL road sign A 7">
+<img src="./PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="PL road sign A 16">
+<img src="./PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="PL road sign A 8">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./Greek-Road-sign-k01.svg" width="100px" style="margin:10px">
-<img src="./Greek-Road-sign-k30.svg" width="100px" style="margin:10px">
+<img src="./Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Greek Road sign k01">
+<img src="./Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Greek Road sign k30">
 </div>
 
 
@@ -65,12 +65,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="poland-bollards.png" width="95%">
+<img src="poland-bollards.png" width="95%" alt="Poland bollards">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./b1.svg" width="30px" style="margin-right:30px">
-<img src="./b2.svg" width="30px" style="margin-left:30px">
+<img src="./b1.svg" width="30px" style="margin-right:30px" alt="B1">
+<img src="./b2.svg" width="30px" style="margin-left:30px" alt="B2">
 </div>
 
 
@@ -79,8 +79,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Znak_E-2c.svg" width="240px" style="margin-right:10px">
-<img src="./r/PL_road_sign_T-28.svg" width="260px" style="margin:13px">
+<img src="./r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="Znak E 2c">
+<img src="./r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="PL road sign T 28">
 </div>
 
 <div class="googlemap-if">
@@ -99,9 +99,9 @@ mnoprstuwyzźż
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/50621138@N00/3133255251/in/photolist-5LSKCg-2egZJE2-gcKoMq-F1rEVR-2efKas4-PbqWHf-goav8p-DaZRPC-g5ctLR-2dN2ksz-YpYeYM-2c5FMyq-2nn5ffq-z2eB2b-wDGPhW-bvYEHV-HMVnMk-2mPvK8T-xanPA3-CoPHBx-d9APV7-d9ANxG-xxaqT1-d9ANJw-d9APp9-d9AQay-6bWYQR-2jJ2H5a-5A4eia-2nWDVGi-rLKJuS-2aDGX7Q-8qeN47-2nPb4Jp-26zDCsY-2nmTuiD-4yfsTp-qYAFqt-dhy5qi-Emi3DR-2fKM3a9-TG8jmf-2hxLjkz-2fJiEto-ZxayL3-nBuwkg-2kjrCTs-2nP45MC-dWGeN9-moSh6" title="Child Crossing sign?"><img src="https://live.staticflickr.com/3243/3133255251_1fde0e4ccd_z.jpg" width="640" height="480" alt="Child Crossing sign?"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if unclickable">
-<img src="./w1.svg" width="90px" style="margin:0 5px 0 5px">
-<img src="./w2.svg" width="90px" style="margin:0 5px 0 5px">
-<img src="./w3.svg" width="90px" style="margin:0 5px 0 5px">
+<img src="./w1.svg" width="90px" style="margin:0 5px 0 5px" alt="W1">
+<img src="./w2.svg" width="90px" style="margin:0 5px 0 5px" alt="W2">
+<img src="./w3.svg" width="90px" style="margin:0 5px 0 5px" alt="W3">
 </div>
 
 {{% notice tip %}}
@@ -109,7 +109,7 @@ mnoprstuwyzźż
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./guardrail.png" width="90%" />
+<img src="./guardrail.png" width="90%" alt="Guardrail" />
 </div>
 
 {{% /tab %}}
@@ -119,14 +119,14 @@ mnoprstuwyzźż
 教会、マップ上に表示されるので位置を探す時に役立つ時がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="orthodox_church_koma_cross.jpg" width="400">
+<img src="orthodox_church_koma_cross.jpg" width="400" alt="Orthodox church koma cross">
 </div>
 
 {{% notice tip %}}
 POCZTA（ポスト、赤い）
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="mail_box_poland.jpg" width="400">
+<img src="mail_box_poland.jpg" width="400" alt="Mail box poland">
 </div>
 
 {{% /tab %}}
@@ -136,7 +136,7 @@ POCZTA（ポスト、赤い）
 国の4割近くが国有の森林であり、背の高い森が多く存在する{{% ex "https://maps.app.goo.gl/fMS55FsB89ozwnzu7" "https://maps.app.goo.gl/xQawH2BeZqx8C2uG7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./way_le_c5_9bna.jpg" width="700">
+<img src="./way_le_c5_9bna.jpg" width="700" alt="Way le c5 9bna">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -195,8 +195,8 @@ POCZTA（ポスト、赤い）
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./ilawa_ab_1167.jpg" width="95%">
-<img src="./miastko_039.jpg" width="95%">
+<img src="./ilawa_ab_1167.jpg" width="95%" alt="Ilawa ab 1167">
+<img src="./miastko_039.jpg" width="95%" alt="Miastko 039">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

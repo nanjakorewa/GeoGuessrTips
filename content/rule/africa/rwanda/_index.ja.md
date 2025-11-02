@@ -111,7 +111,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./home_st_jean_view.jpg" width="90%">
+<img src="./home_st_jean_view.jpg" width="90%" alt="Home st jean view">
 </div>
 
 {{% /tab %}}

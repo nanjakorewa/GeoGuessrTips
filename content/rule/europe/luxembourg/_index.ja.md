@@ -41,7 +41,7 @@ sc: [
 ナンバープレートは前後が<span class="quiz">黄色</span>。平均所得は平均的なヨーロッパ人の2.5倍であり、Volkswagen・Mercedes・Audiの売上が多い{{% ref "https://www.focus2move.com/luxembourg-car-market-2022/" "Luxembourg 2022. Car Market Closes Year With A 10.7% Loss" %}}。オランダは韓国車KIAやTOYOTAも多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./car.jpg" width="600px"/>
+<img src="./car.jpg" width="600px" alt="Car" />
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-06-05-39.png)
@@ -54,7 +54,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 ボラードの反射板が<span class="quiz">灰</span>色で赤やオレンジの反射板がない{{% ex "https://goo.gl/maps/QESb1y9SiZrtD3MUA" %}}。{{% goto "../germany/" "ドイツ" %}}のボラードと見た目が似ているけれど反射板のネジの位置が違うように見えるので近くに寄れば見分けられるかも（100％正しいかはまだ調べてないです）？
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lx-borllard.png" width="170px"/>
+<img src="./lx-borllard.png" width="170px" alt="Lx borllard" />
 </div>
 
 {{% notice tip %}}
@@ -62,11 +62,11 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1686237331585!6m8!1m7!1slEp21vC2y-4xGoU9xikaRA!2m2!1d49.58226398536242!2d5.955810391692049!3f319.97!4f-2.5999999999999943!5f3.305861375197646" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<div class="unclickable"><img src="./r/Luxembourg_road_sign_diagram_E_1_a1.gif" width="317px" /></div>
+<div class="unclickable"><img src="./r/Luxembourg_road_sign_diagram_E_1_a1.gif" width="317px" alt="Luxembourg road sign diagram E 1 a1" /></div>
 </div>
 <div class="googlemap-if unclickable">
-<img src="./r/lx-routesign.png" width="150px"/>
-<img src="./r/route-sign-2.png" width="200px" style="margin:3px" />
+<img src="./r/lx-routesign.png" width="150px" alt="Lx routesign" />
+<img src="./r/route-sign-2.png" width="200px" style="margin:3px" alt="Route sign 2" />
 </div>
 
 
@@ -76,7 +76,7 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#555;padding-top:30px;margin-bottom:0;border-radius:20px">
 <img src="./r/Luxembourg_road_sign_E,24b-2L.svg" width="100px" style="margin-right:10px" alt="ルクセンブルグのシェブロン">
-<img src="./r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:100px">
+<img src="./r/Luxembourg_road_sign_diagram_E,24b-2L_(2018).svg" width="100px" style="margin-right:100px" alt="Luxembourg road sign diagram E,24b 2L (2018)">
 <img src="../belgium/r/xv.png" width="100px" style="margin-right:10px" alt="ベルギーのシェブロン">
 <img src="../france/r/xcv.png" width="100px" alt="フランスのシェブロン">
 </div>

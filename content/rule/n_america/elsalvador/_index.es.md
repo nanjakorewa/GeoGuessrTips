@@ -33,7 +33,7 @@ flag_height: "400px"
 Las matrículas a menudo se ven de color azul claro.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/elsalvador/roadsign.jpg" width="90%">
+<img src="/rule/n_america/elsalvador/roadsign.jpg" width="90%" alt="Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

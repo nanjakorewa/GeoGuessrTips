@@ -41,7 +41,7 @@ sc: [
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/in/photolist-p73Dbb-2gUhDiR" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Puskin Utca."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="./sign.jpg" width="500px">
+<img src="./sign.jpg" width="500px" alt="Sign">
 </div>
 
 {{% notice tip %}}
@@ -53,7 +53,7 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./route.png" width="400px">
+<img src="./route.png" width="400px" alt="Route">
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./micimacko_utca.jpg" width="500px">
+<img src="./micimacko_utca.jpg" width="500px" alt="Micimacko utca">
 </div>
 
 
@@ -69,9 +69,9 @@ sc: [
 ハンガリーの横断歩道の中の人はベルトを付けている。左から<span class="quiz">クロアチア</span>・<span class="quiz">ハンガリー</span>・<span class="quiz">ラトビア</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}。足の形が「ハ」ならハンガリーで、「く」ならクロアチア（強引）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
-<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
+<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="Latvia road sign 535">
 </div>
 
 
@@ -79,7 +79,7 @@ sc: [
 郊外は明るい色のコンクリート壁・赤茶色の瓦屋根・平屋の家が多い。また、古い家の中にはHungarian Cubesと呼ばれている特徴的な塗装の家があるらしい{{% ex "https://maps.app.goo.gl/DzKQAUXaZWnnGYLc7" %}}{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./dolnjisenik1.jpg" width="90%">
+<img src="./dolnjisenik1.jpg" width="90%" alt="Dolnjisenik1">
 </div>
 
 
@@ -89,7 +89,7 @@ sc: [
 
 
 <div class="googlemap-if">
-<img src="./road_edge_region_landscape.jpg" width="500px">
+<img src="./road_edge_region_landscape.jpg" width="500px" alt="Road edge region landscape">
 </div>
 
 {{% /tab %}}
@@ -98,7 +98,7 @@ sc: [
 ハンガリーっぽい電柱。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./up.jpg" width="90%">
+<img src="./up.jpg" width="90%" alt="Up">
 </div>
 
 {{% /tab %}}
@@ -112,7 +112,7 @@ sc: [
 {{% tab "路面" %}}
 
 <div class="googlemap-if">
-<img src="./road.jpg" width="90%">
+<img src="./road.jpg" width="90%" alt="Road">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

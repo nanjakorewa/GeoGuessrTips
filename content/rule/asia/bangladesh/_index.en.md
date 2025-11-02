@@ -41,7 +41,7 @@ Bengali script is used.{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg">
+<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg" alt="Lawachara national park srimongol 11">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ CNG rickshaws, resembling tuk-tuks, are distinctive and often have <span class="
 The Google Car in Bangladesh may show <span class="quiz">red mirrors</span>, as seen in some examples.{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/bangladesh/gc.jpg" width="600px">
+<img src="/rule/asia/bangladesh/gc.jpg" width="600px" alt="Gc">
 </div>
 
 {{% /tab %}}
@@ -138,7 +138,7 @@ Over 90% of soybeans are cultivated in the area between Dhaka and Chittagong.{{%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%">
+<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%" alt="2023 06 19 08 52 31">
 </div>
 
 {{% /tab %}}

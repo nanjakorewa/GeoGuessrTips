@@ -42,7 +42,7 @@ sc: [
 ギリシャ文字がありΣやλが特徴的{{% ex "https://maps.app.goo.gl/SMJtehkQebTbT6yQ9" "https://maps.app.goo.gl/G9rYxXRnSF3Ju9Wu9" "https://maps.app.goo.gl/EjzAaMvvQGA6QsY38" "https://maps.app.goo.gl/PSWxN4u8ijmYEkfE9" %}}。青背景や茶色背景に黄色い文字が書かれている看板もギリシャ以外ではあまり見かけない{{% ex "https://goo.gl/maps/DfDBCCfbDGLPquCd8" "https://goo.gl/maps/jnkdhhmFNQrZncZK9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./roadsign.jpg" width="640">
+<img src="./roadsign.jpg" width="640" alt="Roadsign">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
@@ -55,7 +55,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="margin:1em;">
-<img src="./a8_greece.jpg" width="600px">
+<img src="./a8_greece.jpg" width="600px" alt="A8 greece">
 </div>
 
 
@@ -71,9 +71,9 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
-<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
-<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
+<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 22" />
+<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 25" />
+<img src="./r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 23" />
 </div>
 
 {{% notice tip %}}
@@ -82,8 +82,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
-<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
-<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" />
+<img src="./r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" alt="Road sign π75b" />
+<img src="./r/arrow-2.png" class="margin-ten-px" style="width:180px" alt="Arrow 2" />
 </div>
 
 {{% notice tip %}}
@@ -96,7 +96,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="pole.png" width="95%" />
+<img src="pole.png" width="95%" alt="Pole" />
 </div>
 
 <div class="googlemap-if no-margin">
@@ -109,7 +109,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="house.png" width="95%" />
+<img src="house.png" width="95%" alt="House" />
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="olive.png" width="95%" />
+<img src="olive.png" width="95%" alt="Olive" />
 </div>
 
 
@@ -126,8 +126,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./road/20150522_144002lc.jpg" width="320px" />
-<img src="./road/mountain_trail_dirt_road.jpg" width="320px" />
+<img src="./road/20150522_144002lc.jpg" width="320px" alt="20150522 144002lc" />
+<img src="./road/mountain_trail_dirt_road.jpg" width="320px" alt="Mountain trail dirt road" />
 </div>
 
 {{% /tab %}}
@@ -218,7 +218,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./agri/cotton.jpg" width="95%">
+<img src="./agri/cotton.jpg" width="95%" alt="Cotton">
 </div>
 
 {{% /tab %}}
@@ -229,7 +229,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./agri/rural-area.jpg" width="95%">
+<img src="./agri/rural-area.jpg" width="95%" alt="Rural area">
 </div>
 
 {{% /tab %}}
@@ -240,7 +240,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./cityname.jpg" width="95%">
+<img src="./cityname.jpg" width="95%" alt="Cityname">
 </div>
 
 {{% /tab %}}
@@ -275,7 +275,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Havouna,_Kea.jpg" width="90%">
+<img src="./960px-Havouna,_Kea.jpg" width="90%" alt="960px Havouna, Kea">
 </div>
 {{% /tab %}}
 {{% tab "シフノス島" %}}
@@ -284,8 +284,8 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./chrisopigi_monastery_monastery_greek.jpg" width="90%">
-<img src="./apollonia_on_sifnos.jpg" width="90%">
+<img src="./chrisopigi_monastery_monastery_greek.jpg" width="90%" alt="Chrisopigi monastery monastery greek">
+<img src="./apollonia_on_sifnos.jpg" width="90%" alt="Apollonia on sifnos">
 </div>
 
 {{% /tab %}}
@@ -304,7 +304,7 @@ Kandylakiaと呼ばれる小さなチャペルのようなモニュメントが�
 アテネは黄色。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="athens_vouli4.jpg">
+<img src="athens_vouli4.jpg" alt="Athens vouli4">
 </div>
 
 {{% notice tip %}}
@@ -318,7 +318,7 @@ Heraklion（クリティ島北部の都市）は銀色多め。
 テッサロニキは紺色。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="thessaloniki_train_station.jpg">
+<img src="thessaloniki_train_station.jpg" alt="Thessaloniki train station">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -42,7 +42,7 @@ sc: [
 {{% notice tip %}}{{% goto "../sweden/" "スウェーデン" %}}やノルウェーなどの北欧は<span class="quiz">濃い赤色（ファールン赤）</span>で塗られたログハウスがある{{% ex "https://maps.app.goo.gl/SKSgwansDsmD87sbA" "https://maps.app.goo.gl/86NN7162wMJtGdVX9" "https://maps.app.goo.gl/AZUo6n8WAZGq13ze7" "https://maps.app.goo.gl/S4i7fZAx8ctvsLHc7" "https://maps.app.goo.gl/i9759EsyfhsCMgYFA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./sweden_home_red_stone.jpg" width="95%">
+<img src="./sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
 </div>
 
 {{% notice tip %}}
@@ -67,9 +67,9 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 横断歩道が<span class="quiz">4</span>本。左から<span class="quiz">フィンランド</span>・<span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/eUDy4FaK6PGdGcdE6" %}}・<span class="quiz">スウェーデン</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
 </div>
 
 
@@ -78,9 +78,9 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
-<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
-<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
+<img src="../finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" alt="NO road sign 362.100" />
+<img src="../finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" alt="Sweden road sign C31 10" />
+<img src="../finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" alt="Finland road sign C32 100" />
 </div>
 
 {{% notice tip %}}
@@ -90,28 +90,28 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="../sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
+            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
         </div>
         <p><span class="quiz">スウェーデン</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="../finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
+            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
         </div>
         <p><span class="quiz">フィンランド</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
         </div>
         <p><span class="quiz">ノルウェー</span></p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-03-19-04-51.png" width="90%" />
+<img src="2023-08-03-19-04-51.png" width="90%" alt="2023 08 03 19 04 51" />
 </div>
 
 
@@ -120,7 +120,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../sweden/road.png" width="90%">
+<img src="../sweden/road.png" width="90%" alt="Road">
 </div>
 
 
@@ -130,7 +130,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="../sweden/road-2.png" width="90%">
+<img src="../sweden/road-2.png" width="90%" alt="Road 2">
 </div>
 
 
@@ -170,7 +170,7 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-18-12-11-36.png" width="90%">
+<img src="2023-06-18-12-11-36.png" width="90%" alt="2023 06 18 12 11 36">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -49,21 +49,21 @@ sc: [
 el idioma es <span class="quiz">Portugal</span> Es una palabra”<span class="quiz">Automóvil club británico</span>”es distintivo.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/st/Placa_rod_f_dias.png"width="440xp">
+<img src="/rule/cs_america/brazil/st/Placa_rod_f_dias.png"width="440xp" alt="Placa rod f dias">
 </div>
 
 {{% notice tip %}}
 la parte de atrás del cartel <span class="quiz">negro</span> Hay muchas cosas (la imagen de fondo es<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">aquí</a>usa el de, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC POR 3.0</a>).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/traffic-sign-example.png" width="90%">
+<img src="/rule/cs_america/brazil/traffic-sign-example.png" width="90%" alt="Traffic sign example">
 </div>
 
 {{% notice tip %}}
 La antena de la casa es distintiva.<span class="quiz">transparente</span> Utilice una antena parabólica{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}.Sin embargo, esto por sí solo no puede ser seguro.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/house.jpg" width="95%">
+<img src="/rule/cs_america/brazil/house.jpg" width="95%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -84,12 +84,12 @@ Por Olympiobr - Trabajo propio, <a href="https://creativecommons.org/licenses/by
 Tiene el logo de Petrobras, la petrolera más grande de Sudamérica.{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/brazil/petrobras_no_b_laranjeiras.jpg" width="95%">
+<img src="/rule/cs_america/brazil/petrobras_no_b_laranjeiras.jpg" width="95%" alt="Petrobras no b laranjeiras">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
-<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
+<img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Petrobras horizontal logo">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Banco Ita%C3%BA logo">
 </div>
 
 
@@ -101,8 +101,8 @@ Hay un tanque con Fortlev escrito en él.{{% ref "https://www.fortlev.com.br/cat
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/2023-06-13-03-04-56.png" >
-<img src="/rule/cs_america/brazil/2023-06-13-03-05-06.png" >
+<img src="/rule/cs_america/brazil/2023-06-13-03-04-56.png" alt="2023 06 13 03 04 56">
+<img src="/rule/cs_america/brazil/2023-06-13-03-05-06.png" alt="2023 06 13 03 05 06">
 </div>
 
 
@@ -111,7 +111,7 @@ Los postes telefónicos en Brasil tienen tabiques en las ranuras.<span class="qu
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/brazil/pole.jpg" width="90%" />
+<img src="/rule/cs_america/brazil/pole.jpg" width="90%" alt="Pole" />
 </div>
 
 {{% notice tip %}}
@@ -147,7 +147,7 @@ Banco Itaú, el banco más grande de Sudamérica <span class="quiz">signo naranj
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/banco_itau_agencia_leblon.jpg" width="95%">
+<img src="/rule/cs_america/brazil/banco_itau_agencia_leblon.jpg" width="95%" alt="Banco itau agencia leblon">
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -189,7 +189,7 @@ Es bastante difícil encontrar el número de la carretera de inmediato, así que
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/rodovia_br460_carmo_de.jpg" width="95%">
+<img src="/rule/cs_america/brazil/rodovia_br460_carmo_de.jpg" width="95%" alt="Rodovia br460 carmo de">
 </div>
 {{% /tab %}}
 {{% tab "Alrededor de Florianópolis" %}}
@@ -226,7 +226,7 @@ durante la construcción{{% goto "../../europe/azores/" "Azores" %}}Debido a la 
 {{% tab "vegetación" %}}
 
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/cs_america/brazil/2023-04-27-08-27-15.png" /></div>
+<div class="unclickable"><img src="/rule/cs_america/brazil/2023-04-27-08-27-15.png" alt="2023 04 27 08 27 15" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">Fuente de la imagen: Por Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
 {{% /tab %}}
@@ -308,7 +308,7 @@ este arbol es <span class="quiz">cear</span> alrededor del estado
 {{% /tab %}}
 {{% tab "Babasu" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/brazil/2023-05-07-20-45-47.png" />
+<img src="/rule/cs_america/brazil/2023-05-07-20-45-47.png" alt="2023 05 07 20 45 47" />
 </div>
 
 {{% notice tip %}}
@@ -359,7 +359,7 @@ Distribuido escasamente principalmente en áreas cercanas a la costa de los esta
 Puedo ver una montaña afilada{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}.También hay un tramo en el que vas montado en un buggy azul.{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/ilhagrande_abraao1.jpg" width="95%">
+<img src="/rule/cs_america/brazil/ilhagrande_abraao1.jpg" width="95%" alt="Ilhagrande abraao1">
 </div>
 {{% /tab %}}
 {{% tab "Fernando de Noronha" %}}
@@ -367,7 +367,7 @@ Puedo ver una montaña afilada{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7"
 Hay un agujero en el poste telefónico.Hay muchas zonas rocosas y hay lugares donde se puede coger un barco.Hay algunas rocas muy distintivas, por lo que es posible que puedas distinguirlas por eso.{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/brazil/brazil_1091369.jpg" width="95%">
+<img src="/rule/cs_america/brazil/brazil_1091369.jpg" width="95%" alt="Brazil 1091369">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

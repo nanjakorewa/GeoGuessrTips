@@ -31,7 +31,7 @@ is_unofficial: true
 Bahasa Amharik (አማርኛ) sering terlihat pada papan nama dan fasad toko.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="/rule/africa/ethiopia/640px-EthiopianOrthodoxChurchsignHouston.jpg" alt="640px EthiopianOrthodoxChurchsignHouston">
 </div>
 
 {{% notice tip %}}

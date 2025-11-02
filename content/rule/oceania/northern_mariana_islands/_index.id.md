@@ -36,8 +36,8 @@ sc: [
 Lebih dari separuh wisatawan adalah orang Jepang, sehingga papan nama dan bendera sering kali memiliki tulisan dalam bahasa Jepang {{% ex "https://maps.app.goo.gl/QRcQhgy8FGDyCMAHA" "https://maps.app.goo.gl/sE22VvQ9QR7z6PTe8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/northern_mariana_islands/960px-Hafa-Adai_Shopping_Center.jpg" width="95%">
-<img src="/rule/oceania/northern_mariana_islands/960px-I_Love_Saipan.jpg" width="95%">
+<img src="/rule/oceania/northern_mariana_islands/960px-Hafa-Adai_Shopping_Center.jpg" width="95%" alt="960px Hafa Adai Shopping Center">
+<img src="/rule/oceania/northern_mariana_islands/960px-I_Love_Saipan.jpg" width="95%" alt="960px I Love Saipan">
 </div>
 
 {{% notice tip %}}

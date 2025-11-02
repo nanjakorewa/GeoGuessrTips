@@ -36,7 +36,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/angola/960px-Luanda_Centro.jpg" width="90%">
+<img src="/rule/africa/angola/960px-Luanda_Centro.jpg" width="90%" alt="960px Luanda Centro">
 </div>
 
 {{% lb 50 %}}
@@ -89,7 +89,7 @@ As a former colony of {{% goto "../../europe/portugal/" "Portugal" %}}, some str
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg#/media/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo%2C_Malanje_-_2018-11-08.jpg" width="90%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg#/media/File:Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo,_Malanje_-_2018-11-08.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Estrada_perto_das_Pedras_Negras_de_Pungo_Andongo%2C_Malanje_-_2018-11-08.jpg" width="90%" alt="Estrada perto das Pedras Negras de Pungo Andongo%2C Malanje 2018 11 08"></a></p>
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ Black license plates are used in some cases.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/angola/960px-Luanda_Centro.jpg" width="90%">
+<img src="/rule/africa/angola/960px-Luanda_Centro.jpg" width="90%" alt="960px Luanda Centro">
 </div>
 
 {{% lb 50 %}}
@@ -111,7 +111,7 @@ After the civil war ended, the economy expanded and new urban infrastructure inc
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:GDP_per_capita_development_of_Angola.svg#/media/File:GDP_per_capita_development_of_Angola.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/GDP_per_capita_development_of_Angola.svg" height="600" width="850"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:GDP_per_capita_development_of_Angola.svg#/media/File:GDP_per_capita_development_of_Angola.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/GDP_per_capita_development_of_Angola.svg" height="600" width="850" alt="GDP per capita development of Angola"></a></p>
 </div>
 
 {{% /tab %}}

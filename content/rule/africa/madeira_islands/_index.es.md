@@ -48,7 +48,7 @@ Las barandillas de los puentes y cercas de los caminos son de hormigﾃｳn con 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/madeira_islands/road.png" width="95%">
+<img src="/rule/africa/madeira_islands/road.png" width="95%" alt="Road">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Como muestran las imﾃ｡genes, el terreno de la isla no es plano y estﾃ｡ c
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/madeira_islands/madeira_funchal_panorama_647920.jpg" width="95%">
+<img src="/rule/africa/madeira_islands/madeira_funchal_panorama_647920.jpg" width="95%" alt="Madeira funchal panorama 647920">
 </div>
 
 {{% /tabs %}}

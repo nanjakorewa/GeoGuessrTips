@@ -38,9 +38,9 @@ sc: [
 License plates lack the <span class="quiz">blue strip</span>{{% ex "https://maps.app.goo.gl/TYTenUeYETwMQNYf7" %}}{{% by "https://youtu.be/251QkxWNtfU?t=65" "youtube" "【GeoGuessr】すべての国・地域解説 〜忘れられた国々〜" %}}. The left edge may look slightly reddish.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/jersey/1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px">
-<img src="/rule/europe/jersey/719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px">
-<img src="/rule/europe/jersey/503px-Jersey_Marathon_2011_14.jpg" width="330px">
+<img src="/rule/europe/jersey/1184px-Visite_du_Branchage_Saint_Hélier_2013_e.jpg" width="630px" alt="1184px Visite du Branchage Saint Hélier 2013 e">
+<img src="/rule/europe/jersey/719px-Lieutenant_Governor_of_Jersey_car_J4.jpg" width="300px" alt="719px Lieutenant Governor of Jersey car J4">
+<img src="/rule/europe/jersey/503px-Jersey_Marathon_2011_14.jpg" width="330px" alt="503px Jersey Marathon 2011 14">
 </div>
 
 {{% lb 50 %}}
@@ -61,8 +61,8 @@ Roadside markings and stop lines are frequently <span class="quiz">yellow</span>
 Even though the island isn’t very urban, there are many bank buildings, such as Barclays or the Royal Bank of Canada{{% ref "https://www.citigroup.jp/jp/index.html" "Citi - Japan" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/jersey/551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" />
-<img src="/rule/europe/jersey/546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" />
+<img src="/rule/europe/jersey/551px-Barclays,_Saint_Hélyi,_Jèrri.jpg" width="345px" alt="551px Barclays, Saint Hélyi, Jèrri" />
+<img src="/rule/europe/jersey/546px-Banque_Rouoyale_du_Cannada,_Grand'_Rue,_Saint_Hélyi,_Jèrri.jpg" width="227px" alt="546px Banque Rouoyale du Cannada, Grand' Rue, Saint Hélyi, Jèrri" />
 </div>
 
 {{% notice tip %}}

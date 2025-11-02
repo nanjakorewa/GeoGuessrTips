@@ -37,7 +37,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./street.jpg" width="90%">
+<img src="./street.jpg" width="90%" alt="Street">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./streetinbatroun.jpg" width="90%">
+<img src="./streetinbatroun.jpg" width="90%" alt="Streetinbatroun">
 </div>
 
 
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./lebanon_syria_border_sep13voa_2.jpg" width="90%">
+<img src="./lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Lebanon syria border sep13voa 2">
 </div>
 
 {{% notice tip %}}
@@ -81,7 +81,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bienvenue_rechmaya.jpg" width="90%">
+<img src="./bienvenue_rechmaya.jpg" width="90%" alt="Bienvenue rechmaya">
 </div>
 
 {{% /tab %}}
@@ -106,7 +106,7 @@ sc: [
 {{% tab "農業" %}}
 
 <div class="googlemap-if">
-<img src="./1979-crop.jpg" width="70%">
+<img src="./1979-crop.jpg" width="70%" alt="1979 crop">
 </div>
 
 {{% /tab %}}
@@ -134,7 +134,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./zahle_lebanon.jpg" width="95%">
+<img src="./zahle_lebanon.jpg" width="95%" alt="Zahle lebanon">
 </div>
 
 {{% /tab %}}

@@ -27,7 +27,7 @@ is_unofficial: true
 1959年以降は産油国となり、現在の輸出の大部分が石油となっている。一人当たりのGDPは隣国のエジプトやリビアの4~5倍以上あり、周辺国と比較すると綺麗なインフラや建物が見られる{{% ref "https://www.mofa.go.jp/mofaj/area/libya/data.html" "外務省 - リビア国" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./981px-Tripoli_CBD.jpg" width="90%">
+<img src="./981px-Tripoli_CBD.jpg" width="90%" alt="981px Tripoli CBD">
 </div>
 
 {{% notice tip %}}

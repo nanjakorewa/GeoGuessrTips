@@ -63,7 +63,7 @@ Chevron signs usually have orange-and-black stripes{{% ex "https://maps.app.goo.
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/sign.png" width="300px">
+<img src="/rule/middle_east/oman/sign.png" width="300px" alt="Sign">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ In desert areas vegetation can be non-existent{{% ex "https://maps.app.goo.gl/AH
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%">
+<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%" alt="Desert sand dry hot">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ Date palms are concentrated along the north-eastern coast{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%">
+<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%" alt="Date palm date palm">
 </div>
 
 
@@ -91,7 +91,7 @@ Pipeline signage at midstream sites often lists the destination{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oil_pipeline.jpg" width="90%">
+<img src="oil_pipeline.jpg" width="90%" alt="Oil pipeline">
 </div>
 
 {{% notice tip %}}
@@ -99,7 +99,7 @@ There are several domestic energy companies. For example, Oman Oil Marketing (OO
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="gas_station_oman.jpg" width="90%">
+<img src="gas_station_oman.jpg" width="90%" alt="Gas station oman">
 </div>
 
 {{% /tab %}}
@@ -110,7 +110,7 @@ Agricultural activity differs between regions. Coastal plains in the north grow 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oman_farmland.jpg" width="90%">
+<img src="oman_farmland.jpg" width="90%" alt="Oman farmland">
 </div>
 
 {{% /tab %}}
@@ -122,7 +122,7 @@ The Musandam Peninsula—an exclave of Oman—also has Street View coverage{{% e
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg">
+<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg" alt="Street travel car mountain">
 </div>
 {{% /tab %}}
 {{% tab "The Dhofar Mountains" %}}
@@ -132,7 +132,7 @@ Southern Oman around Salalah receives monsoon rains. Hillsides can turn vivid gr
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%">
+<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%" alt="After rain 7">
 </div>
 
 {{% notice tip %}}
@@ -152,7 +152,7 @@ Large dune fields lie inland and toward the east{{% ref "https://www.researchgat
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/soilmap.jpg">
+<img src="/rule/middle_east/oman/soilmap.jpg" alt="Soilmap">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

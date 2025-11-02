@@ -45,14 +45,14 @@ Warning signs are orange and the red border is <span class="quiz">very thin</spa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px">
-<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px">
-<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="PL road sign A 7">
+<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="PL road sign A 16">
+<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="PL road sign A 8">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px">
-<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px">
+<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Greek Road sign k01">
+<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Greek Road sign k30">
 </div>
 
 
@@ -65,12 +65,12 @@ Poland’s <span class="quiz">red</span> bollards stand out{{% ex "https://maps.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/poland-bollards.png" width="95%">
+<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland bollards">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px">
-<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px">
+<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="B1">
+<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="B2">
 </div>
 
 
@@ -79,8 +79,8 @@ Look for the letter <span class="quiz polish-font">ŁE/ ŁE/span>{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px">
-<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px">
+<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="Znak E 2c">
+<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="PL road sign T 28">
 </div>
 
 <div class="googlemap-if">
@@ -107,14 +107,14 @@ Mailboxes are bright <span class="quiz">red</span>{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/mail_box_poland.jpg" width="400">
+<img src="/rule/europe/poland/mail_box_poland.jpg" width="400" alt="Mail box poland">
 </div>
 
 {{% notice tip %}}
 Nearly 40% of the country is state-owned forest; tall woodland is widespread{{% ex "https://maps.app.goo.gl/fMS55FsB89ozwnzu7" "https://maps.app.goo.gl/xQawH2BeZqx8C2uG7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/poland/way_le_c5_9bna.jpg" width="700">
+<img src="/rule/europe/poland/way_le_c5_9bna.jpg" width="700" alt="Way le c5 9bna">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -173,8 +173,8 @@ Suffixes  Ewo Eor  Eno Elean north;  Eów Eor  Eew Eare more cen
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%">
-<img src="/rule/europe/poland/miastko_039.jpg" width="95%">
+<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Ilawa ab 1167">
+<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Miastko 039">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

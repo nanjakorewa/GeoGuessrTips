@@ -48,7 +48,7 @@ Bolivia has very few wooden houses.<span class="quiz">brick and cement</span> ma
 The sign stick <span class="quiz">thick square stick</span> is often made of{{% ex "https://maps.app.goo.gl/aWBeh2rt4WL38rFL7" "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://maps.app.goo.gl/QdHoQusynypdF2Vw9" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}.Sometimes there are also metal rods.{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/cs_america/bolivia/roadsign.jpg" width="90%">
+<img src="/rule/cs_america/bolivia/roadsign.jpg" width="90%" alt="Roadsign">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
@@ -75,7 +75,7 @@ path paved with large stones{{% ex "https://maps.app.goo.gl/EDBqCWzFZRYCwFb4A" "
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg" width="90%">
+<img src="/rule/cs_america/bolivia/19683170924_abbf5210de_c.jpg" width="90%" alt="19683170924 abbf5210de c">
 </div>
 
 
@@ -84,8 +84,8 @@ The colors of the flag of Bolivia's socialist party (black-white-blue and white-
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
-<img src="/rule/cs_america/bolivia/images.jpg" width="300px" style="margin:10px">
+<img src="/rule/cs_america/bolivia/MAS_party_flag.svg.png" width="300px" style="margin-top:60px" alt="MAS party flag.svg">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px" style="margin:10px" alt="Images">
 </div>
 
 
@@ -98,7 +98,7 @@ There is a Wiphala flag and logo.{{% ex "https://maps.app.goo.gl/1pEnEcdd5bwp6vZ
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/bolivia/Banner_of_the_Qulla_Suyu.svg" width="500px">
+<img src="/rule/cs_america/bolivia/Banner_of_the_Qulla_Suyu.svg" width="500px" alt="Banner of the Qulla Suyu">
 </div>
 {{% /tab %}}
 {{% tab "bollard" %}}
@@ -113,7 +113,7 @@ A major telecommunications company in Bolivia, a building that you can see fairl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/bolivia/images.jpg" width="300px">
+<img src="/rule/cs_america/bolivia/images.jpg" width="300px" alt="Images">
 </div>
 
 
@@ -122,7 +122,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) is one of Bolivia's largest
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/bolivia/YPFB_Logo.svg" width="300px">
+<img src="/rule/cs_america/bolivia/YPFB_Logo.svg" width="300px" alt="YPFB Logo">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -144,7 +144,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) is one of Bolivia's largest
 {{% tab "terrain" %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/bolivia/750px-Bolivia_Topography.png" width="90%" />
+<img src="/rule/cs_america/bolivia/750px-Bolivia_Topography.png" width="90%" alt="750px Bolivia Topography" />
 </div>
 {{% /tab %}}
 {{% tab "low altitude places" %}}
@@ -195,7 +195,7 @@ There are many green and flat areas around Santa Cruz.{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="/rule/cs_america/bolivia/rn4-east.png" width="90%" /></div></p>
+<p><div class="unclickable"><img src="/rule/cs_america/bolivia/rn4-east.png" width="90%" alt="Rn4 east" /></div></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, Processed</p>
 </div>
 {{% /tab %}}
@@ -240,7 +240,7 @@ Please note that the scenery is completely different from the area around La Paz
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/la_paz_andes_south.jpg" width="550px">
+<img src="/rule/cs_america/bolivia/la_paz_andes_south.jpg" width="550px" alt="La paz andes south">
 </div>
 {{% /tab %}}
 {{% tab "hanging doll" %}}
@@ -273,7 +273,7 @@ Please note that the scenery is completely different from the area around La Paz
 GoogleCar is distinctive{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}.The mountains are also quite distinctive.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg" width="95%" />
+<img src="/rule/cs_america/bolivia/sajama_bolivia_volcano_way.jpg" width="95%" alt="Sajama bolivia volcano way" />
 </div>
 {{% /tab %}}
 {{% tab "island of the sun" %}}
@@ -281,14 +281,14 @@ GoogleCar is distinctive{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "http
 There are many ruins from the Inca era.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/ilha_do_sol14.jpg" width="95%">
+<img src="/rule/cs_america/bolivia/ilha_do_sol14.jpg" width="95%" alt="Ilha do sol14">
 </div>
 {{% /tab %}}
 {{% tab "train graveyard" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
+<img src="/rule/cs_america/bolivia/Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%" alt="Cemitério de trens, Uyuni, Bolivia">
 </div>
 {{% /tab %}}
 {{% tab "Ojos del Salar" %}}
@@ -296,7 +296,7 @@ There are many ruins from the Inca era.
 There is a street view, but it has never been asked.{{% ex "https://maps.app.goo.gl/1rqb1hjS5EAsPvRL8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg" width="95%" />
+<img src="/rule/cs_america/bolivia/salt_salar_landscape_salar.jpg" width="95%" alt="Salt salar landscape salar" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

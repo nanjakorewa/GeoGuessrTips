@@ -42,7 +42,7 @@ sc: [
 Suecia y {{% goto "../norway/" "Noruega" %}} están repletas de casas de troncos pintadas de <span class="quiz">rojo Falu</span>{{% ex "https://maps.app.goo.gl/DDaBMG5S2Tma2CgL8" "https://maps.app.goo.gl/qgRpGixPyfFBmDE86" "https://maps.app.goo.gl/PCSpkUeWkpB7QH4A6" "https://maps.app.goo.gl/HAjex6Vyf6Et6PsF8" "https://maps.app.goo.gl/aDFG4HedRMTHdmoe8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/sweden_home_red_stone.jpg" width="95%">
+<img src="/rule/europe/sweden/sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
 </div>
 
 
@@ -51,9 +51,9 @@ Suecia y {{% goto "../norway/" "Noruega" %}} están repletas de casas de troncos
 La señal de paso de peatones tiene <span class="quiz">cuatro</span> franjas. De izquierda a derecha: <span class="quiz">Finlandia</span>, <span class="quiz">Noruega</span>, <span class="quiz">Suecia</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
 </div>
 
 
@@ -64,28 +64,28 @@ Las flechas direccionales suecas tienen un perfil diferente al de sus vecinos{{%
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
-            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
         </div>
         <p><span class="quiz">Suecia</span>{{% ex "https://goo.gl/maps/pugV8oV2wAyHqJDP8" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
         </div>
         <p><span class="quiz">Finlandia</span>{{% ex "https://goo.gl/maps/jpm3KFZeFmTGzw1X6" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
         </div>
         <p><span class="quiz">Noruega</span>{{% ex "https://goo.gl/maps/XqwC943TgqGuDHaDA" %}}</p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/swedish_countryside.jpg" width="480px">
+<img src="/rule/europe/sweden/swedish_countryside.jpg" width="480px" alt="Swedish countryside">
 </div>
 
 
@@ -93,9 +93,9 @@ Las flechas direccionales suecas tienen un perfil diferente al de sus vecinos{{%
 Los cheurones suecos usan los colores de la bandera (amarillo y azul). Noruega y Finlandia usan amarillo sobre negro, por lo que son fáciles de distinguir{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px">
-<img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px">
-<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px">
+<img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="Swedish road sign X1">
+<img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px" alt="NO road sign 366">
+<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px" alt="Finland road sign 631">
 </div>
 
 
@@ -104,7 +104,7 @@ Los números impresos en la señal indican el número de ruta{{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="120px" style="margin:10px" alt="Sweden road sign F14 3">
 </div>
 
 
@@ -119,7 +119,7 @@ Ten en cuenta que las {{% goto "../aland_islands/" "Islas Åland" %}} usan sueco
 Los nombres que terminan en <span class="quiz">gatan</span> o <span class="quiz">vägen</span> apuntan a Suecia; fuera del país son poco comunes.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./streetname.jpg" width="90%">
+<img src="./streetname.jpg" width="90%" alt="Streetname">
 </div>
 
 {{% notice tip %}}
@@ -169,7 +169,7 @@ Las zonas de sentido único se rotulan “Enkelriktad zon”. Comparación rápi
 {{% tabs %}}
 {{% tab "Números en señales" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="100px">
+<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="100px" alt="Sweden road sign F14 3">
 </div>
 {{% /tab %}}
 {{% tab "Prefijos" %}}

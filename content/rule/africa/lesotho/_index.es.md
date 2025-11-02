@@ -34,7 +34,7 @@ sc: [
 El paﾃｭs estﾃ｡ dentro de la cordillera Drakensberg, con un terreno elevado y muchas montaﾃｱas de cima plana y rocosas {{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. La vegetaciﾃｳn incluye hierba y ocasionalmente se ven ovejas o vacas. En comparaciﾃｳn, {{% goto "../eswatini/" "Esuatini" %}} tiene ﾃ｡reas altas con mucha actividad forestal y muchos ﾃ｡rboles, mientras que Lesoto carece de ellos.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/lesotho/mountain.jpg" width="90%" />
+<img src="/rule/africa/lesotho/mountain.jpg" width="90%" alt="Mountain" />
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ Se pueden observar casas tradicionales {{% ex "https://maps.app.goo.gl/Ruq3M3wfx
 En comparaciﾃｳn con {{% goto "../eswatini/" "Esuatini" %}}, la hierba en Lesoto es generalmente mucho mﾃ｡s corta {{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%">
+<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho mountains scenic green">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

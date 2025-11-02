@@ -47,11 +47,11 @@ sc: [
 {{% goto "../../n_america/mexico/" "メキシコ" %}}のチワワ州の看板にもクロスがあることをついでに覚えておくといつか役に立つかも{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}（チワワクロス？）。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign-example.jpg" width="85%" />
+<img src="./road-sign-example.jpg" width="85%" alt="Road sign example" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road-sign.jpg" width="85%" />
+<img src="./road-sign.jpg" width="85%" alt="Road sign" />
 </div>
 
 
@@ -59,7 +59,7 @@ sc: [
 ナンバープレートは<span class="quiz">前後共に黄色</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}か白色。バイクも後ろに<span class="quiz">黄色</span>ナンバーが付いている{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}。{{% goto "../peru/" "ペルー" %}}にも黄色いものがあるがコロンビアはすこしオレンジ色に近い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lp.jpg" width="95%">
+<img src="./lp.jpg" width="95%" alt="Lp">
 </div>
 
 {{% lb 50 %}}
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadside.jpg" width="95%">
+<img src="./roadside.jpg" width="95%" alt="Roadside">
 </div>
 
 
@@ -126,7 +126,7 @@ sc: [
 {{% tabs %}}
 {{% tab "植生" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./pone.0043943.g001.png" width="80%" />
+<img src="./pone.0043943.g001.png" width="80%" alt="Pone.0043943.g001" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -176,7 +176,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./barranquilla_autopista_al_mar.jpg">
+<img src="./barranquilla_autopista_al_mar.jpg" alt="Barranquilla autopista al mar">
 </div>
 
 
@@ -199,7 +199,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Palm_Oil.jpg" width="90%">
+<img src="./Colombia_Palm_Oil.jpg" width="90%" alt="Colombia Palm Oil">
 </div>
 
 {{% notice tip %}}
@@ -210,7 +210,7 @@ sc: [
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if no-margin">
-<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
+<img src="./agriculture_sugar_cane_crop.jpg" width="90%" alt="Agriculture sugar cane crop">
 </div>
 
 {{% notice tip %}}
@@ -221,7 +221,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% /tab %}}
 {{% tab "コットン" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Cotton.jpg" width="90%">
+<img src="./Colombia_Cotton.jpg" width="90%" alt="Colombia Cotton">
 </div>
 
 {{% notice tip %}}
@@ -232,7 +232,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if no-margin">
-<img src="./Colombia_Rice.jpg" width="90%">
+<img src="./Colombia_Rice.jpg" width="90%" alt="Colombia Rice">
 </div>
 
 {{% notice tip %}}
@@ -257,14 +257,14 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% notice tip %}}Buenaventuraはコロンビアの主要港でありコロンビアにおける海上輸出入の約60％を占めている。そのため港へ続く道はコンテナを積んだトラックが多い印象{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}。{{% goto "https://x.com/one_line_japan" "ONE" %}}のコンテナも見つかる{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./aahus_port_container_loading.jpg">
+<img src="./aahus_port_container_loading.jpg" alt="Aahus port container loading">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}Medellínを中心とした場所に電柱に黄色と黒のラインがある{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="ar236201.jpg" width="95%" />
+<img src="ar236201.jpg" width="95%" alt="Ar236201" />
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
@@ -276,7 +276,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard.png" width="70px">
+<img src="./r/bollard.png" width="70px" alt="Bollard">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -299,7 +299,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% notice tip %}}ステッカーにCARTAGENAと書かれている。トラックの屋根の上や側面にも書いてあるかも{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./colombia_kartagena_south_america.jpg">
+<img src="./colombia_kartagena_south_america.jpg" alt="Colombia kartagena south america">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
@@ -321,7 +321,7 @@ Valle del Cauca県周りの平坦なエリア{{% ex "https://maps.app.goo.gl/5Z6
 {{% notice tip %}}ゴルゴナ島という離島がある{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="hotel_in_gorgona.jpg">
+<img src="hotel_in_gorgona.jpg" alt="Hotel in gorgona">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalía" %}}

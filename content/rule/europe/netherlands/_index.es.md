@@ -58,7 +58,7 @@ Gert Kalkman - vía pública, dominio público, <a href="https://commons.wikimed
 Los edificios de ladrillo son omnipresentes{{% ex "https://maps.app.goo.gl/upSSbDuAiszRfgEN8" %}}. Algunas fachadas conservan vigas para izar mercancías, recuerdo de los antiguos almacenes{{% ex "https://maps.app.goo.gl/FZmHPz41uv2tSn1FA" %}}; aún se usan para subir muebles con cuerdas{{% by "https://anokuni.com/life-guide/nld-house/" "web" "Estudiar en el extranjero > Casas del mundo (Países Bajos)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/netherlands/middelburg_netherlands_zealand_718385.jpg" width="90%">
+<img src="/rule/europe/netherlands/middelburg_netherlands_zealand_718385.jpg" width="90%" alt="Middelburg netherlands zealand 718385">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Los bolardos laterales son <span class="quiz">blancos</span>. En carreteras prin
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bollard.jpg" width="90%">
+<img src="./bollard.jpg" width="90%" alt="Bollard">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Los postes azules y blancos señalan cruces ciclistas.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./fietsers_crossing_sign.jpg" width="95%">
+<img src="./fietsers_crossing_sign.jpg" width="95%" alt="Fietsers crossing sign">
 </div>
 
 {{% /tab %}}
@@ -120,7 +120,7 @@ Los edificios bajos con paneles de aluminio suelen ser almacenes, a menudo junto
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690199782462!6m8!1m7!1sZXnBztr5Uzf0TAiV6Xj2_g!2m2!1d52.40373286074148!2d4.749969538076793!3f19.895877507970635!4f2.8884534735692853!5f0.7820865974627469" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div class="unclickable">
-<img src="/rule/europe/netherlands/mol.jpg" width="600px" />
+<img src="/rule/europe/netherlands/mol.jpg" width="600px" alt="Mol" />
 </div>
 </div>
 

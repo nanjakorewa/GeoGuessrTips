@@ -38,7 +38,7 @@ Lakban hitam dapat ditemukan di bagian depan kanan Google Car {{% ex "https://ma
 <img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car di Ghana" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/gc-bar.jpg" width="60%">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Gc bar">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -58,7 +58,7 @@ Taksi di Ghana memiliki desain unik {{% ex "https://maps.app.goo.gl/zModPxBNsSaL
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ Gerai kecil yang menjual lotere (biasanya berupa kotak merah, kuning, dan hijau)
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
 </div>
 
 {{% /tab %}}
@@ -107,7 +107,7 @@ Gerai kecil yang menjual lotere (biasanya berupa kotak merah, kuning, dan hijau)
 {{% tabs %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/20230522-palm.png" width="70%" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="20230522 palm" />
 </div>
 {{% notice tip %}}
 Pohon kelapa sawit dan pisang lebih sering ditemukan di bagian selatan. Jika pohon ini tidak ditemukan, kemungkinan berada di wilayah utara.
@@ -144,7 +144,7 @@ Jika banyak area tanah yang terbuka atau semak belukar, kemungkinan berada di ba
 Bagian putih pada peta ini menunjukkan daerah pegunungan {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

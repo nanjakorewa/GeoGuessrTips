@@ -28,7 +28,7 @@ Sebagian besar wilayahnya berupa dataran yang berada di bawah sekitar 600 m di
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sudan/alsherian.jpg" width="90%">
+<img src="/rule/africa/sudan/alsherian.jpg" width="90%" alt="Alsherian">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ Daerah subur di sepanjang Sungai Nil mendukung pertanian gandum dan tanaman lain
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sudan/Sudan_Sorghum.png" width="90%">
+<img src="/rule/africa/sudan/Sudan_Sorghum.png" width="90%" alt="Sudan Sorghum">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

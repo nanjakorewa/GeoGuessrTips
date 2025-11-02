@@ -45,11 +45,11 @@ maps: [
 {{% notice tip %}}Speed-limit signs show <span class="quiz">SPEED LIMIT</span>{{% ex "https://maps.app.goo.gl/FvnB7q7FdjZuBZVQA" "https://maps.app.goo.gl/LYPy8QLDLi5uQaD38" "https://goo.gl/maps/7MDNFYLGn9GgFHDz6" "https://goo.gl/maps/eveAfAJ1gdGddSDj8" "https://goo.gl/maps/8FZ2uBojRTixFCfi9" "https://goo.gl/maps/GJ8DQzv6QrE7Yy2z7" %}}. If the sign only reads SPEED you are probably in <span class="quiz">Oregon</span>. {{% goto "../canada/" "Canada" %}} uses <span class="quiz">MAXIMUM</span>.{{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
-<img src="/rule/n_america/usa/r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="80px" style="margin:7px">
+<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="MUTCD R2 1">
+<img src="/rule/n_america/usa/r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="Sp oregon">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="CA ON road sign Rb 001 050">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="CA QC road sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="80px" style="margin:7px" alt="Sp on">
 </div>
 </div>
 
@@ -57,37 +57,37 @@ maps: [
 In both the United States and {{% goto "../canada/" "Canada" %}} the centre of the road is often marked with <span class="quiz">double yellow</span> lines{{% ex "https://maps.app.goo.gl/ffZcABdYVzyQsLaw7" "https://maps.app.goo.gl/7v6hSn7LZM85ykpJ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/roadline.jpg" width="95%">
+<img src="/rule/n_america/usa/roadline.jpg" width="95%" alt="Roadline">
 </div>
 
 {{% notice tip %}}YIELD and ONEWAY signs in the United States include the word itself{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}. The left-hand examples are <span class="quiz">United States</span>; the right-hand ones are <span class="quiz">Canada</span>.{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
-<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="MUTCD R1 2">
+<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="CA MUTCDC RA 002">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-right:100px">
-<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
+<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
 </div>
 
 {{% notice tip %}}
 Look for the <span class="quiz">blue</span> mailbox—Canada’s is red. When you find a post office, the state and city are often written somewhere on the building.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px">
-<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px">
-<img src="/rule/n_america/usa/pleasant_hall_pa_post.jpg" width="604px">
+<img src="/rule/n_america/usa/2023-06-18-09-00-28.png" width="184px" alt="2023 06 18 09 00 28">
+<img src="/rule/n_america/usa/2023-06-18-09-02-09.png" width="420px" alt="2023 06 18 09 02 09">
+<img src="/rule/n_america/usa/pleasant_hall_pa_post.jpg" width="604px" alt="Pleasant hall pa post">
 </div>
 
 {{% notice tip %}}
 Many large companies are headquartered in the United States. Even utilities such as waste collection, electricity, and water authorities are listed companies, so you will see their logos everywhere. From left to right: Waste Management and Republic Services (waste haulers whose logos appear on bins), Chevron and Citgo (petrol stations), Target (retail) and more.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px"/>
-<img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px"/>
-<img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Citgo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Target_logo.svg" width="220px" style="margin:10px"/>
+<img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="Waste Management logo" />
+<img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="Republic Services logo" />
+<img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="220px" style="margin:10px" alt="Chevron Logo" />
+<img src="./w/Citgo.svg" width="220px" style="margin:10px" alt="Citgo" />
+<img src="./w/Target_logo.svg" width="220px" style="margin:10px" alt="Target logo" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -185,7 +185,7 @@ Memorise the states that do not require front plates (highlighted in <span style
 
 <div class="googlemap-if">
 <div class="description-wide">
-<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main">
+<img src="/rule/n_america/usa/2023-03-25-14-29-11.png" class="img-main" alt="2023 03 25 14 29 11">
 </div>
 <div class="description-wide">
 The rules below are not perfectly reliable, but they help.
@@ -236,7 +236,7 @@ Place names are distinctive, and the soil often looks dark or reddish.
 {{% tab "Corn" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-03-38.png">
+<img src="/rule/n_america/usa/2023-04-29-12-03-38.png" alt="2023 04 29 12 03 38">
 </div>
 
 {{% notice note %}}
@@ -244,17 +244,17 @@ Corn production is concentrated along the Corn Belt{{% by "https://www.nass.usda
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/2023-06-19-20-02-41.png" width="80%">
+<img src="/rule/n_america/usa/2023-06-19-20-02-41.png" width="80%" alt="2023 06 19 20 02 41">
 </div>
 
 {{% /tab %}}
 {{% tab "Soybeans" %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-10-49-15.png">
+<img src="/rule/n_america/usa/2023-04-29-10-49-15.png" alt="2023 04 29 10 49 15">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/2023-06-19-08-54-17.png" width="90%">
+<img src="/rule/n_america/usa/2023-06-19-08-54-17.png" width="90%" alt="2023 06 19 08 54 17">
 </div>
 
 {{% notice note %}}
@@ -265,7 +265,7 @@ Soybeans share a footprint similar to corn{{% by "https://ipad.fas.usda.gov/rssi
 {{% tab "Rice" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-10-56-56.png">
+<img src="/rule/n_america/usa/2023-04-29-10-56-56.png" alt="2023 04 29 10 56 56">
 </div>
 
 {{% notice note %}}
@@ -273,7 +273,7 @@ Rice fields cluster in specific parts of northern California and along the river
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-00-47.png">
+<img src="/rule/n_america/usa/2023-04-29-12-00-47.png" alt="2023 04 29 12 00 47">
 </div>
 
 {{% notice note %}}
@@ -287,7 +287,7 @@ Sugar cane grows in limited pockets around Florida; Louisiana has few roads thro
 {{% /tab %}}
 {{% tab "Wheat" %}}
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/2023-04-29-12-07-38.png">
+<img src="/rule/n_america/usa/2023-04-29-12-07-38.png" alt="2023 04 29 12 07 38">
 </div>
 
 {{% notice note %}}
@@ -326,15 +326,15 @@ Wheat production does not overlap perfectly with corn or soybeans. The maps were
 A STOP sign is usually placed where a narrow street meets a wider one. If you can see the back of the sign you are heading towards a smaller road; seeing the front means you are approaching a larger road.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/stop_sign_united_states.jpg">
+<img src="/rule/n_america/usa/stop_sign_united_states.jpg" alt="Stop sign united states">
 </div>
 
 {{% notice tip %}}
 Avoid streets marked with NO OUTLET or DEAD END.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/usa/no_outlet_sign_1.jpg" width="300px">
-<img src="/rule/n_america/usa/quot_dead_end_quot.jpg" width="335px">
+<img src="/rule/n_america/usa/no_outlet_sign_1.jpg" width="300px" alt="No outlet sign 1">
+<img src="/rule/n_america/usa/quot_dead_end_quot.jpg" width="335px" alt="Quot dead end quot">
 </div>
 
 {{% /tab %}}
@@ -343,7 +343,7 @@ Avoid streets marked with NO OUTLET or DEAD END.
 Hand-drawn map—treat as a rough guide only.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/usa/gas_station.png" width="90%">
+<img src="/rule/n_america/usa/gas_station.png" width="90%" alt="Gas station">
 </div>
 {{% /tab %}}
 {{% tab "Inspection stickers" %}}

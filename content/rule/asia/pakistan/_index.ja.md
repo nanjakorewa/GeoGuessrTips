@@ -37,7 +37,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./jamamasjidsouthentrance.jpg" width="95%" />
+<img src="./jamamasjidsouthentrance.jpg" width="95%" alt="Jamamasjidsouthentrance" />
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<p><img src="Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600"></p><p>パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">リンク</a>より</p>
+<p><img src="Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600" alt="Afghan children wearing traditional clothes in Kabul"></p><p>パブリック・ドメイン, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">リンク</a>より</p>
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ sc: [
 ラホール周辺の町中{{% ex "https://maps.app.goo.gl/PC2DHnBw563TocYbA" "https://maps.app.goo.gl/NTEXrfs6KtSovveo6" %}}や施設の中が多い{{% ex "https://maps.app.goo.gl/W7bU14B4msxZ6z8C7" "https://maps.app.goo.gl/sQWsLGXC7Fg86W9L9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="shalamar_garden_lahore_pakistan_1.jpg" width="95%">
+<img src="shalamar_garden_lahore_pakistan_1.jpg" width="95%" alt="Shalamar garden lahore pakistan 1">
 </div>
 
 {{% notice tip %}}

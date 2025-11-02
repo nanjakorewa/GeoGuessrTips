@@ -32,6 +32,6 @@ Besides place names, you can narrow down the region within {{% goto "../../rule/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/quiz/quiz1/japan_otaru_road_buildings.jpg">
+<img src="/quiz/quiz1/japan_otaru_road_buildings.jpg" alt="Japan otaru road buildings">
 </div>
 </div>

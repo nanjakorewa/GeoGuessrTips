@@ -63,7 +63,7 @@ Is it Peru that has a color other than blue on the top of the license plate?{{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px">
+<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px" alt="Ciclovía Invadida por un taxista">
 </div>
 
 {{% lb %}}
@@ -92,7 +92,7 @@ The telephone pole is <span class="quiz">The sticks are sticking out in the same
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/pole.jpg" width="95%">
+<img src="/rule/cs_america/peru/pole.jpg" width="95%" alt="Pole">
 </div>
 
 <div class="googlemap-if">
@@ -115,7 +115,7 @@ long box embedded in the wall{{% ex "https://maps.app.goo.gl/1PLN3XUQsWPPtnoa6" 
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/house.jpg" width="90%">
+<img src="/rule/cs_america/peru/house.jpg" width="90%" alt="House">
 </div>
 
 
@@ -207,7 +207,7 @@ There are several places with very high mountains, the first being in the interi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg">
+<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg" alt="Paisaje en chiquian bolognesi">
 </div>
 
 {{% /tab %}}
@@ -248,7 +248,7 @@ An area where there is little except shrubs and grass that spreads out on the pl
 {{% /tab %}}
 {{% tab "rice" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px">
+<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px" alt="2023 06 18 20 15 15">
 </div>
 
 {{% notice tip %}}
@@ -286,8 +286,8 @@ The suburbs have quite unique scenery.{{% ex "https://maps.app.goo.gl/KhsTptkRrk
 {{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}}is a city that cannot be directly accessed by road from outside.{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}.Iquitos and{{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}Autorickshaws (locally known as mototaxi) are running in places far from urban areas, such as in the area, and there are relatively few cars.Iquitos also has a lot of European-style architecture.Examples of cities that cannot be accessed by land are:{{% goto "../../n_america/guatemala/#narrowdown-city" "Livingston in Guatemala" %}}etc.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%">
-<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%">
+<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%" alt="Iquitosmoto">
+<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%" alt="Iron house iquitos">
 </div>
 
 {{% /tab %}}
@@ -298,8 +298,8 @@ The area around Machu Picchu and Aguas Calientes stations is surrounded by mount
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%">
-<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%">
+<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%" alt="Aguas calientes 2 0">
+<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%" alt="Machu picchu peru inca 6">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

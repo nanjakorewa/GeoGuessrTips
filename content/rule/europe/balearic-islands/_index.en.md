@@ -35,22 +35,22 @@ sc: [
 Many rural roads are hemmed in by low stone walls{{% ex "https://maps.app.goo.gl/1nZ7MxWGeRx7BdGr9" "https://maps.app.goo.gl/kcGcXQnCPmmCk4sJ8" "https://maps.app.goo.gl/JmNA1Nr7ShkH98fa9" "https://maps.app.goo.gl/uAZkEAKPmVxbKSyR8" "https://maps.app.goo.gl/gzVkQYJ1nkDmVP278" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/balearic-islands/stonewall.jpg" width="95%">
-<img src="/rule/europe/balearic-islands/lighthouse_mallorca_balearic_islands.jpg" width="95%">
+<img src="/rule/europe/balearic-islands/stonewall.jpg" width="95%" alt="Stonewall">
+<img src="/rule/europe/balearic-islands/lighthouse_mallorca_balearic_islands.jpg" width="95%" alt="Lighthouse mallorca balearic islands">
 </div>
 
 {{% notice tip %}}
 The soil often has a reddish tint.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/balearic-islands/redsoil.jpg" width="95%">
+<img src="/rule/europe/balearic-islands/redsoil.jpg" width="95%" alt="Redsoil">
 </div>
 
 {{% notice tip %}}
 As Spanish territory, poles, bollards, signs, and chevrons match those found on {{% goto "../spain/" "mainland Spain" %}}{{% ex "https://maps.app.goo.gl/yG2t32avoQZ5HC1eA" "https://maps.app.goo.gl/Utt6K2KxMH4YXTT69" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/balearic-islands/road.jpg" width="95%">
+<img src="/rule/europe/balearic-islands/road.jpg" width="95%" alt="Road">
 </div>
 
 {{% /tab %}}

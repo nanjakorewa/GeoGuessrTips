@@ -65,9 +65,9 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
-<img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
-<img src="../Lithuania_background.png" width="120px" class="margin-ten-px" />
+<img src="../Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
+<img src="../Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
+<img src="../Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
 </div>
 
 
@@ -75,9 +75,9 @@ sc: [
 シェブロンの色や枠がバルト三国で異なる。下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="../estonia/r/ar.png" width="120px" class="margin-ten-px" />
-<img src="../latvia/r/ar.png" width="120px" class="margin-ten-px" />
-<img src="../lithuania/r/ar.png" width="120px" class="margin-ten-px" />
+<img src="../estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="../latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="../lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
 </div>
 
 {{% /tab %}}

@@ -36,7 +36,7 @@ sc: [
 Rear license plates often feature a white background with blue text.{{% ex "https://goo.gl/maps/s64SxiuWMRpySiP36" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/gGGogQKkGbfVVv4E7" "https://goo.gl/maps/AeiypzDff9piNJtd6" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/costa_rica/car.jpg" width="450px" />
+<img src="/rule/n_america/costa_rica/car.jpg" width="450px" alt="Car" />
 </div>
 
 {{% lb %}}
@@ -50,7 +50,7 @@ Walking on slightly dark-colored beaches is common.{{% ex "https://goo.gl/maps/b
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/costa_rica/beach.png" width="85%" />
+<img src="/rule/n_america/costa_rica/beach.png" width="85%" alt="Beach" />
 </div>
 
 {{% notice tip %}}

@@ -80,7 +80,7 @@ Hay bolardos blancos que se pueden utilizar para delimitar la ubicación.{{% ex 
 {{% notice tip %}}<span class="quiz">izquierda</span> Tráfico lateral, turismos en general.<span class="quiz">blanco</span> Hay muchas placas de colores y las placas de taxi son <span class="quiz">amarillo</span> Hay muchos colores.En Laos, los coches corrientes <span class="quiz">amarillo</span> chuleta de color <span class="quiz">bien</span> Tráfico lateral.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/lp.jpg" width="90%">
+<img src="/rule/asia/thai/lp.jpg" width="90%" alt="Lp">
 </div>
 
 {{% lb 50 %}}
@@ -104,7 +104,7 @@ Un poste de alumbrado público tiene un reflector blanco y naranja.{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/pole.jpg" width="90%">
+<img src="/rule/asia/thai/pole.jpg" width="90%" alt="Pole">
 </div>
 
 {{% notice tip %}}
@@ -116,7 +116,7 @@ Aunque no son muchos{{% goto "../indonesia/" "Indonesia" %}}Sin embargo, dado qu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/road205_in_amphoe_thep.jpg" width="90%">
+<img src="/rule/asia/thai/road205_in_amphoe_thep.jpg" width="90%" alt="Road205 in amphoe thep">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ El ramen número 8, que se encuentra comúnmente en la región de Hokuriku, se e
 {{% tabs %}}
 {{% tab "palma aceitera" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -189,11 +189,11 @@ Si tiene palmas aceiteras como palmeras, considere las tierras bajas del sur.{{%
 {{% /tab %}}
 {{% tab "goma" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/rubberwood.jpg">
+<img src="/rule/asia/thai/rubberwood.jpg" alt="Rubberwood">
 </div>
 
 {{% notice tip %}}
@@ -202,7 +202,7 @@ Los árboles de caucho se encuentran generalmente en el lado sur de la penínsul
 {{% /tab %}}
 {{% tab "cono" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -211,7 +211,7 @@ Al igual que Estados Unidos, el maíz y la soja se producen básicamente en la m
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}
@@ -290,7 +290,7 @@ La carretera 4169 rodea la isla.{{% ex "https://maps.app.goo.gl/6Uo9cLhZJFmL4dWu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%">
+<img src="/rule/asia/thai/samui_koh_samui_bangrak.jpg" width="90%" alt="Samui koh samui bangrak">
 </div>
 
 {{% /tab %}}

@@ -36,8 +36,8 @@ sc: [
 観光客の半分以上が日本人で構成されているという。そのため店の看板や旗に日本語が見つかるときがある{{% ex "https://maps.app.goo.gl/QRcQhgy8FGDyCMAHA" "https://maps.app.goo.gl/sE22VvQ9QR7z6PTe8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="960px-Hafa-Adai_Shopping_Center.jpg" width="95%">
-<img src="./960px-I_Love_Saipan.jpg" width="95%">
+<img src="960px-Hafa-Adai_Shopping_Center.jpg" width="95%" alt="960px Hafa Adai Shopping Center">
+<img src="./960px-I_Love_Saipan.jpg" width="95%" alt="960px I Love Saipan">
 </div>
 
 {{% notice tip %}}

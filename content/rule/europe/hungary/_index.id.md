@@ -41,7 +41,7 @@ Rambu sering dipasang dengan <span class="quiz">empat sekrup</span>{{% ex "https
 
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/maggiejones/48505749151/in/photolist-p73Dbb-2gUhDiR" title="Puskin Utca."><img src="https://live.staticflickr.com/65535/48505749151_5c848aeb0a_z.jpg" width="640" height="427" alt="Puskin Utca."/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<img src="/rule/europe/hungary/sign.jpg" width="500px">
+<img src="/rule/europe/hungary/sign.jpg" width="500px" alt="Sign">
 </div>
 
 {{% notice tip %}}
@@ -53,7 +53,7 @@ Huruf dengan dua garis miring di atas seperti <span class="quiz">ű / ő</span> 
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/hungary/route.png" width="400px">
+<img src="/rule/europe/hungary/route.png" width="400px" alt="Route">
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ Huruf dengan dua garis miring di atas seperti <span class="quiz">ű / ő</span> 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/hungary/micimacko_utca.jpg" width="500px">
+<img src="/rule/europe/hungary/micimacko_utca.jpg" width="500px" alt="Micimacko utca">
 </div>
 
 
@@ -69,9 +69,9 @@ Huruf dengan dua garis miring di atas seperti <span class="quiz">ű / ő</span> 
 Ikon pejalan kaki di zebra cross Hongaria mengenakan sabuk. Dari kiri ke kanan: <span class="quiz">Kroasia</span>, <span class="quiz">Hongaria</span>, <span class="quiz">Latvia</span>{{% ref "https://en.wikipedia.org/wiki/Comparison_of_European_road_signs" "Comparison of European road signs" %}}. Jika bentuk kakinya seperti huruf “ハ”, pikirkan Hongaria; jika seperti “く”, mungkin Kroasia.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
-<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px">
+<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
+<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
+<img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="Latvia road sign 535">
 </div>
 
 
@@ -79,7 +79,7 @@ Ikon pejalan kaki di zebra cross Hongaria mengenakan sabuk. Dari kiri ke kanan: 
 Di pinggiran kota banyak rumah satu lantai dengan dinding beton terang dan atap genteng cokelat kemerahan. Ada pula rumah “Hungarian Cubes” dengan pola cat khas{{% ex "https://maps.app.goo.gl/DzKQAUXaZWnnGYLc7" %}}{{% ref "https://www.dezeen.com/2014/08/17/hungarian-cubes-by-katharina-roters/" "Hungarian Cubes: the houses of post-war communism photographed by Katharina Roters" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/hungary/dolnjisenik1.jpg" width="90%">
+<img src="/rule/europe/hungary/dolnjisenik1.jpg" width="90%" alt="Dolnjisenik1">
 </div>
 
 
@@ -89,7 +89,7 @@ Bollard yang sering terlihat di Hongaria maupun {{% goto "../croatia/" "Kroasia"
 
 
 <div class="googlemap-if">
-<img src="/rule/europe/hungary/road_edge_region_landscape.jpg" width="500px">
+<img src="/rule/europe/hungary/road_edge_region_landscape.jpg" width="500px" alt="Road edge region landscape">
 </div>
 
 {{% /tab %}}
@@ -98,7 +98,7 @@ Bollard yang sering terlihat di Hongaria maupun {{% goto "../croatia/" "Kroasia"
 Contoh tiang listrik bergaya Hongaria.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/hungary/up.jpg" width="90%">
+<img src="/rule/europe/hungary/up.jpg" width="90%" alt="Up">
 </div>
 
 {{% /tab %}}
@@ -112,7 +112,7 @@ Contoh tiang listrik bergaya Hongaria.
 {{% tab "Permukaan Jalan" %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/hungary/road.jpg" width="90%">
+<img src="/rule/europe/hungary/road.jpg" width="90%" alt="Road">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

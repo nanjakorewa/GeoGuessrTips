@@ -35,7 +35,7 @@ sc: [
 Lokasi di dalam fasilitas atau tempat wisata sering kali menjadi soal {{% ex "https://maps.app.goo.gl/Ujoi9PWsqZVP2KPB6" "https://maps.app.goo.gl/11rHhWmSeVKYi3CY7" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/china/china_pekin_forbidden_city.jpg" width="95%">
+<img src="/rule/asia/china/china_pekin_forbidden_city.jpg" width="95%" alt="China pekin forbidden city">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}

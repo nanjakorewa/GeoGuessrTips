@@ -38,7 +38,7 @@ Black duct tape wrapped around the <span class="quiz">front right corner</span> 
 <img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car in Ghana" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/gc-bar.jpg" width="60%">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Gc bar">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -58,7 +58,7 @@ Taxi paint designs are distinctive {{% ex "https://maps.app.goo.gl/zModPxBNsSaL1
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ Small shops that appear to be lottery stands (red, yellow, and green boxes on th
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
 </div>
 
 {{% /tab %}}
@@ -107,7 +107,7 @@ Small shops that appear to be lottery stands (red, yellow, and green boxes on th
 {{% tabs %}}
 {{% tab "Oil Palm" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/20230522-palm.png" width="70%" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="20230522 palm" />
 </div>
 {{% notice tip %}}
 Oil palms and banana trees are common in the southern region. If these trees are absent, consider the northern region.
@@ -144,7 +144,7 @@ In my experience, if the ground is more exposed or if there are many shrubs, it 
 The white parts of this map indicate areas with high mountains {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -34,7 +34,7 @@ Terdapat bolard yang mirip dengan yang digunakan di {{% goto "../../europe/franc
 Terdapat pula pelat identifikasi berwarna biru pada tiang listrik.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/frenchguiana/111455.jpg">
+<img src="/rule/cs_america/frenchguiana/111455.jpg" alt="111455">
 </div>
 
 {{% /tab %}}

@@ -36,7 +36,7 @@ Grytviken fue un antiguo centro para la extracción de aceite de ballena{{% ref 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/sgssi/industrial_heritage_south_georgia.jpg" width="90%">
+<img src="/rule/cs_america/sgssi/industrial_heritage_south_georgia.jpg" width="90%" alt="Industrial heritage south georgia">
 </div>
 
 
@@ -45,7 +45,7 @@ Es común encontrar focas o pingüinos{{% ex "https://maps.app.goo.gl/ett9cJmVe2
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/sgssi/seeelefant_south_georgia_antarctica.jpg" width="90%">
+<img src="/rule/cs_america/sgssi/seeelefant_south_georgia_antarctica.jpg" width="90%" alt="Seeelefant south georgia antarctica">
 </div>
 
 {{% /tab %}}

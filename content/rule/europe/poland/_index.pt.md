@@ -45,14 +45,14 @@ Os sinais de advertência são laranja e a borda vermelha é <span class="quiz">
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px">
-<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px">
-<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px">
+<img src="/rule/europe/poland/r/PL_road_sign_A-7.svg" width="100px" style="margin:10px" alt="PL road sign A 7">
+<img src="/rule/europe/poland/PL_road_sign_A-16.svg" width="100px" style="margin:10px" alt="PL road sign A 16">
+<img src="/rule/europe/poland/PL_road_sign_A-8.svg" width="100px" style="margin:10px" alt="PL road sign A 8">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px">
-<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px">
+<img src="/rule/europe/poland/Greek-Road-sign-k01.svg" width="100px" style="margin:10px" alt="Greek Road sign k01">
+<img src="/rule/europe/poland/Greek-Road-sign-k30.svg" width="100px" style="margin:10px" alt="Greek Road sign k30">
 </div>
 
 
@@ -65,12 +65,12 @@ Os balizadores <span class="quiz">vermelhos</span> da Polônia são fáceis de r
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/poland-bollards.png" width="95%">
+<img src="/rule/europe/poland/poland-bollards.png" width="95%" alt="Poland bollards">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px">
-<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px">
+<img src="/rule/europe/poland/b1.svg" width="30px" style="margin-right:30px" alt="B1">
+<img src="/rule/europe/poland/b2.svg" width="30px" style="margin-left:30px" alt="B2">
 </div>
 
 
@@ -79,8 +79,8 @@ Repare na letra <span class="quiz polish-font">ŁĘ</span>{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px">
-<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px">
+<img src="/rule/europe/poland/r/Znak_E-2c.svg" width="240px" style="margin-right:10px" alt="Znak E 2c">
+<img src="/rule/europe/poland/r/PL_road_sign_T-28.svg" width="260px" style="margin:13px" alt="PL road sign T 28">
 </div>
 
 <div class="googlemap-if">
@@ -156,8 +156,8 @@ A preposição “w” significa “em”; procure no mapa o nome que aparece a 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%">
-<img src="/rule/europe/poland/miastko_039.jpg" width="95%">
+<img src="/rule/europe/poland/ilawa_ab_1167.jpg" width="95%" alt="Ilawa ab 1167">
+<img src="/rule/europe/poland/miastko_039.jpg" width="95%" alt="Miastko 039">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

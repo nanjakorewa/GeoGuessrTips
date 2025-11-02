@@ -51,7 +51,7 @@ Los números telefónicos siguen el formato de cinco pares de dígitos{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/phonenumber.jpg" width="90%">
+<img src="/rule/europe/france/phonenumber.jpg" width="90%" alt="Phonenumber">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ Las placas amarillas con la letra “D” están repartidas por toda Francia{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550">
+<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550" alt="Aubisque mountain france 940395">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ Las matrículas siguen el estándar de la UE con franja azul a la izquierda, per
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/licence.jpg" width="95%">
+<img src="/rule/europe/france/licence.jpg" width="95%" alt="Licence">
 </div>
 
 {{% lb 50 small %}}
@@ -101,7 +101,7 @@ En edificios de apartamentos suele aparecer la información del distrito junto a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="95%">
+<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="95%" alt="Mailboxes post france letter">
 </div>
 
 {{% notice tip %}}
@@ -109,7 +109,7 @@ Muchos edificios llevan placas curvas con el número cívico{{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/house.jpg" width="95%">
+<img src="/rule/europe/france/house.jpg" width="95%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Las señales viales usan palabras en francés, por ejemplo <span class="quiz">�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/road-with-bollard.png" width="90%">
+<img src="/rule/europe/france/road-with-bollard.png" width="90%" alt="Road with bollard">
 </div>
 
 {{% notice tip %}}
@@ -125,7 +125,7 @@ Algunas municipalidades emplean flechas direccionales enmarcadas en azul o amari
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/arrow.png" width="75%">
+<img src="/rule/europe/france/arrow.png" width="75%" alt="Arrow">
 </div>
 
 {{% notice tip %}}
@@ -133,7 +133,7 @@ Los postes rurales suelen ser de madera y llevan placas con códigos numéricos{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/france/poles.jpg" width="95%">
+<img src="/rule/europe/france/poles.jpg" width="95%" alt="Poles">
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Las placas con el nombre de la calle incluyen la comuna o arrondissement{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}
@@ -159,7 +159,7 @@ El noroeste francés se parece a Bélgica gracias a las hileras de ladrillo rojo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/auby_town_hall_france.jpg" width="95%">
+<img src="/rule/europe/france/auby_town_hall_france.jpg" width="95%" alt="Auby town hall france">
 </div>
 
 {{% notice tip %}}
@@ -167,7 +167,7 @@ Las llanuras muestran grandes campos amarillos de mostaza{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/roadline.png" width="95%">
+<img src="/rule/europe/france/roadline.png" width="95%" alt="Roadline">
 </div>
 
 {{% notice tip %}}
@@ -175,7 +175,7 @@ Los acantilados de tiza del Somme recuerdan a la costa británica{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/port_grimaud_france_channel.jpg" width="95%">
+<img src="/rule/europe/france/port_grimaud_france_channel.jpg" width="95%" alt="Port grimaud france channel">
 </div>
 
 {{% /tab %}}
@@ -193,7 +193,7 @@ Las casas de piedra con contraventanas pastel y tejas terracota son típicas{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="95%">
+<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="95%" alt="Stone houses village luberon">
 </div>
 
 {{% notice tip %}}
@@ -201,7 +201,7 @@ Córcega destaca por carreteras costeras pegadas al acantilado{{% ex "https://ma
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%">
+<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%" alt="Corsica coast coastal road 1">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ Los campos de sal del Atlántico forman cuadrículas blancas{{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg" width="95%">
+<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg" width="95%" alt="Salt marshes salt noirmoutier">
 </div>
 
 {{% /tab %}}
@@ -227,7 +227,7 @@ Las placas con “ARR” y el nombre de la calle indican el distrito{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/versailles_paris_france_palace.jpg" width="95%">
+<img src="/rule/europe/france/versailles_paris_france_palace.jpg" width="95%" alt="Versailles paris france palace">
 </div>
 
 {{% notice tip %}}
@@ -244,7 +244,7 @@ En los cruces, las placas de fachada muestran tanto la avenida como el arrondiss
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}
@@ -265,7 +265,7 @@ En los cruces, las placas de fachada muestran tanto la avenida como el arrondiss
 Las calas kársticas cerca de Marsella muestran acantilados y aguas turquesa{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}. Ojo con los postes perforados o los postes tipo Chile en esta zona.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/france/vudeniolon2.jpg" width="95%">
+<img src="/rule/europe/france/vudeniolon2.jpg" width="95%" alt="Vudeniolon2">
 </div>
 {{% /tab %}}
 {{% tab "Col de la Bonette" %}}
@@ -273,7 +273,7 @@ Las calas kársticas cerca de Marsella muestran acantilados y aguas turquesa{{% 
 La panorámica carretera D64 atraviesa el Col de la Bonette{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%">
+<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%" alt="High alps pass road">
 </div>
 {{% /tab %}}
 {{% tab "Aiguille de la Grande Sassière" %}}
@@ -298,7 +298,7 @@ Las placas cerca de las intersecciones muestran tanto la avenida como el número
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}

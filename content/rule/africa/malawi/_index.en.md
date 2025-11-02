@@ -39,7 +39,7 @@ Islands in Lake Malawi (e.g., Likoma) belong to Malawi{{% ref "https://ja.wikipe
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/malawi/gmap.png" width="95%">
+<img src="/rule/africa/malawi/gmap.png" width="95%" alt="Gmap">
 </div>
 
 {{% /tab %}}

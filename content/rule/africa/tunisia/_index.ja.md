@@ -47,7 +47,7 @@ sc: [
 水色と白が基調の建物が多い{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}。縁石やシェブロンも白と水色の組合せ{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%">
+<img src="./house.png" width="90%" alt="House">
 </div>
 
 
@@ -57,7 +57,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="95%">
+<img src="./car.png" width="95%" alt="Car">
 </div>
 
 

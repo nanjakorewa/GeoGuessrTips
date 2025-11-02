@@ -28,7 +28,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%">
+<img src="./640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="640px Somalia, Puntland, Bari, Iskushuban (13)">
 </div>
 
 {{% notice tip %}}

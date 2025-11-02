@@ -43,14 +43,14 @@ sc: [
 アスンシオンの通り看板は黒いことが多く赤白のポールが多い。看板の裏側も{{% goto "../brazil/" "ブラジル" %}}と同じく黒いことが多いように思う。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="conmebol_football_flag_building.jpg" width="95%">
+<img src="conmebol_football_flag_building.jpg" width="95%" alt="Conmebol football flag building">
 </div>
 
 {{% notice tip %}}
 こういった感じの道路にアーチ状に付けられた看板がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Entrada_a_Arroyos_y_Esteros.jpg" width="90%">
+<img src="Entrada_a_Arroyos_y_Esteros.jpg" width="90%" alt="Entrada a Arroyos y Esteros">
 </div>
 
 {{% /tab %}}
@@ -77,7 +77,7 @@ sc: [
 {{% tabs %}}
 {{% tab "南東" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Rice.png" width="80%">
+<img src="Paraguay_Rice.png" width="80%" alt="Paraguay Rice">
 </div>
 
 {{% notice tip %}}
@@ -86,7 +86,7 @@ sc: [
 {{% /tab %}}
 {{% tab "北西" %}}
 <div class="googlemap-if no-margin">
-<img src="Paraguay_Cotton.png" width="80%">
+<img src="Paraguay_Cotton.png" width="80%" alt="Paraguay Cotton">
 </div>
 
 {{% notice tip %}}逆に北西は雨量が少なく、コットンやピーナッツ畑が見られる。

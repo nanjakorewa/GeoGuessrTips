@@ -40,7 +40,7 @@ Hay pocas localizaciones y separadas entre sí, así que conviene memorizarlas; 
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/tanzania/google-map.png" width="80%">
+<img src="/rule/africa/tanzania/google-map.png" width="80%" alt="Google map">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

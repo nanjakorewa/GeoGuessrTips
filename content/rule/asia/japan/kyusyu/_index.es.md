@@ -43,7 +43,7 @@ Las placas de los postes de Kyushu Electric Power aparecen con frecuencia; recon
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
 </div>
 
 {{% /tab %}}
@@ -53,7 +53,7 @@ Es habitual ver matas de Miscanthus en las cunetas.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg">
+<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg" alt="Road japan kumamoto method">
 </div>
 
 {{% /tab %}}

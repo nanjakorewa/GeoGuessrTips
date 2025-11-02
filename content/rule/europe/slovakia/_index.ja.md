@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%">
+<img src="./road.jpg" width="90%" alt="Road">
 </div>
 
 
@@ -54,7 +54,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./house.jpg" width="90%">
+<img src="./house.jpg" width="90%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -64,15 +64,15 @@ sc: [
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
 <div class="googlemap-if unclickable" style="margin-bottom:0;">
-<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
-<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />
-<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" alt="CZ1" />
+<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" alt="CZ2" />
+<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" alt="CZ3" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:0;">
-<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" />
-<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" />
-<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" alt="SK1" />
+<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" alt="SK2" />
+<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" alt="SK3" />
 </div>
 </div>
 <div class="googlemap-if no-margin">
@@ -119,8 +119,8 @@ sc: [
         </tr>
         <tr>
             <td>角の画像の例</td>
-            <td style="background-color:#413F40;"><img src="./corner.jpg" width="100px"></td>
-            <td style="background-color:#413F40;"><img src="./corner2.jpg" width="100px"></td>
+            <td style="background-color:#413F40;"><img src="./corner.jpg" width="100px" alt="Corner"></td>
+            <td style="background-color:#413F40;"><img src="./corner2.jpg" width="100px" alt="Corner2"></td>
         </tr>
     </table>
 </div>
@@ -139,8 +139,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./r/Dopravn%c3%a1_zna%c4%8dka_B31a.svg" width="120px" style="margin-right:10px;">
-<img src="./r/Dopravná_značka_B25.svg" width="120px">
+<img src="./r/Dopravn%c3%a1_zna%c4%8dka_B31a.svg" width="120px" style="margin-right:10px;" alt="Dopravn%c3%a1 zna%c4%8dka B31a">
+<img src="./r/Dopravná_značka_B25.svg" width="120px" alt="Dopravná značka B25">
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="cityflag/Coat_of_Arms_of_Bratislava.svg" width="200px">
+<img src="cityflag/Coat_of_Arms_of_Bratislava.svg" width="200px" alt="Coat of Arms of Bratislava">
 </div>
 {{% /tab %}}
 {{% tab "Žilina" %}}
@@ -194,7 +194,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439295221!6m8!1m7!1sFhAC3_v24c5xWFj1n7n8Wg!2m2!1d49.22061930786143!2d18.74535392772265!3f236.22017763439084!4f-2.9957731734657216!5f3.0279931666712927" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="googlemap-if unclickable">
-<img src="cityflag/Coat_of_Arms_of_Žilina.svg" width="40%">
+<img src="cityflag/Coat_of_Arms_of_Žilina.svg" width="40%" alt="Coat of Arms of Žilina">
 </div>
 {{% /tab %}}
 {{% tab "Nitra" %}}
@@ -205,7 +205,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685567673093!6m8!1m7!1s-iwGZvFAUyO8D7LmSld9vA!2m2!1d48.30724296112083!2d18.08553697367951!3f125.8031835780313!4f-4.928507275795425!5f1.6739744815296138" width="500" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="googlemap-if unclickable">
-<img src="cityflag/Coat_of_Arms_of_Nitra.svg" width="40%">
+<img src="cityflag/Coat_of_Arms_of_Nitra.svg" width="40%" alt="Coat of Arms of Nitra">
 </div>
 {{% /tab %}}
 {{% tab "Košice" %}}
@@ -218,7 +218,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685439115279!6m8!1m7!1sm90w-mNPyV5wCEXW81Hrtw!2m2!1d48.71807235897145!2d21.26508792237363!3f53.858294504185764!4f-5.925298793927638!5f2.578828786716657" width="200" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="googlemap-if unclickable">
-<img src="cityflag/Flag_of_Košice.png" width="40%">
+<img src="cityflag/Flag_of_Košice.png" width="40%" alt="Flag of Košice">
 </div>
 {{% /tab %}}
 {{% tab "Banská Bystrica" %}}
@@ -230,7 +230,7 @@ sc: [
 <iframe src="https://www.google.com/maps/embed?pb=!4v1685568029013!6m8!1m7!1szYgFZCZPCHxs8tdasbJE0g!2m2!1d48.7415384793235!2d19.17507602397361!3f205.2811025282949!4f-20.920188390277985!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 <div class="googlemap-if unclickable">
-<img src="cityflag/Coat_of_Arms_of_Banská_Bystrica.svg" width="40%">
+<img src="cityflag/Coat_of_Arms_of_Banská_Bystrica.svg" width="40%" alt="Coat of Arms of Banská Bystrica">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

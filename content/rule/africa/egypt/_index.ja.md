@@ -30,9 +30,9 @@ plonkit: true
 ピラミッド{{% ex "https://maps.app.goo.gl/8rrMqFYeptabCejP6" %}}やカーイト・ベイの要塞{{% ex "https://maps.app.goo.gl/z8t87qBct5QeRX186" %}}のような観光地が出る。左右対称な形が多く、日干しレンガと石で作られた建築物が多い{{% ex "https://maps.app.goo.gl/xoj4jyQPmvpUDNKH8" "https://maps.app.goo.gl/PDbWvY5xbopNh8Fd8" %}}。『王の権威や神秘性を高める宗教的要素が重んじられ、それ故にシンメトリー（左右対称性）や一本の長い軸により連続的に空間に秩序付けする方法が発達した』らしい{{% ref "https://www.news-digest.co.uk/news/index.php?cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "エジプト建築" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./egypt_ancient_archeology_pyramid_0.jpg" width="600px">
-<img src="./qaitbay_citadel.jpg" width="334px">
-<img src="./copticquarter.jpg" width="266px">
+<img src="./egypt_ancient_archeology_pyramid_0.jpg" width="600px" alt="Egypt ancient archeology pyramid 0">
+<img src="./qaitbay_citadel.jpg" width="334px" alt="Qaitbay citadel">
+<img src="./copticquarter.jpg" width="266px" alt="Copticquarter">
 </div>
 
 {{% notice tip %}}

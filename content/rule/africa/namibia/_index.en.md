@@ -39,7 +39,7 @@ sc: [
 {{% notice tip %}}Standard passenger vehicles have <span class="quiz">yellow</span> license plates{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}} and drive on the left side.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
 </div>
 
 {{% lb 50 %}}
@@ -51,7 +51,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 {{% notice tip %}}The flat Namib Desert spreads along the coast{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. It is classified as a west coast desert, similar to the {{% goto "../../cs_america/chile/" "Atacama Desert in Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "west coast deserts" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%">
+<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%" alt="Road ahead desert never">
 </div>
 
 {{% notice tip %}}After colonization by {{% goto "../../europe/germany/" "Germany" %}}, Namibia was under the mandate of the Union of South Africa. As a result, street names with German sounds can be seen{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.
@@ -65,7 +65,7 @@ Despite the low population, Namibia is rich in mineral resources like diamonds a
 In places like Swakopmund, European-style architecture influenced by {{% goto "../../europe/germany/" "Germany" %}} still remains{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/swakopmund1.jpg">
+<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Swakopmund1">
 </div>
 
 {{% notice tip %}}
@@ -73,7 +73,7 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/cityview.jpg" width="95%">
+<img src="/rule/africa/namibia/cityview.jpg" width="95%" alt="Cityview">
 </div>
 
 
@@ -112,7 +112,7 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
 {{% tabs %}}
 {{% tab "Elevation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" />
+<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" alt="960px Namibia Topography" />
 </div>
 
 {{% notice tip %}}
@@ -127,7 +127,7 @@ Green areas indicate over 80% coverage, while light green areas show visible gro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/glasscover.png" width="70%" />
+<img src="/rule/africa/namibia/glasscover.png" width="70%" alt="Glasscover" />
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ The so-called "exploding palm" is distributed near northern Angola and along the
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px">
+<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px" alt="Bakuhatsu">
 </div>
 
 {{% /tab %}}
@@ -192,7 +192,7 @@ Although its silhouette is distinctive, it may not be often seen due to the lack
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
 </div>
 
 {{% notice tip %}}
@@ -200,7 +200,7 @@ The distribution area is shown in the light blue dot region in the image below (
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
 </div>
 
 {{% /tab %}}
@@ -234,7 +234,7 @@ There is a road leading to the popular tourist site called Sossusvlei, surrounde
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" />
+<img src="/rule/africa/namibia/960px-Sossusvlei_LandSat7.jpg" width="60%" alt="960px Sossusvlei LandSat7" />
 </div>
 
 {{% /tab %}}
@@ -245,7 +245,7 @@ Located in northern Namibia, you can see a vast flat-topped mountain {{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
 </div>
 
 {{% /tab %}}

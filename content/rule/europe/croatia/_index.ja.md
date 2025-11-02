@@ -70,7 +70,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./car-example.jpg" width="600px">
+<img src="./car-example.jpg" width="600px" alt="Car example">
 </div>
 
 {{% lb 50 small %}}
@@ -84,7 +84,7 @@ CC0</a>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./autocesta_a5_hrvatska_003.jpg" width="600px">
+<img src="./autocesta_a5_hrvatska_003.jpg" width="600px" alt="Autocesta a5 hrvatska 003">
 </div>
 
 
@@ -93,9 +93,9 @@ CC0</a>
 クロアチアの横断歩道の中の人はベルトを付けている{{% ex "https://maps.app.goo.gl/DFqnqwPTuUpDzUmu6" "https://maps.app.goo.gl/5mTEP7ZJz6BHkYsQ7" %}}。左から<span class="quiz">クロアチア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">ハンガリー</span>。足の形が「く」ならクロアチアで「ハ」ならハンガリー。{{% goto "../portugal/" "ポルトガル" %}}や{{% goto "../germany/" "ドイツ" %}}もベルトを付けている点に注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px">
-<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
+<img src="../croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
+<img src="../baltic-state/latvia/r/Latvia_road_sign_535.svg" width="150px" style="margin:10px" alt="Latvia road sign 535">
+<img src="../hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
 </div>
 
 {{% notice tip %}}
@@ -106,22 +106,22 @@ CC0</a>
 近い色のシェブロンが見つかる国として{{% goto "../san-marino/" "サンマリノ" %}}や{{% goto "../austria/" "オーストリア" %}}がある
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./road-example.png" width="95%">
-<img src="./arrow.jpg" width="500px">
+<img src="./road-example.png" width="95%" alt="Road example">
+<img src="./arrow.jpg" width="500px" alt="Arrow">
 </div>
 
 {{% notice tip %}}
 ユーゴスラビア関連国であるクロアチア・{{% goto "../slovenia/" "スロベニア" %}}・{{% goto "../serbia/" "セルビア" %}}・{{% goto "../montenegro/" "モンテネグロ" %}}・ボスニア=ヘルツェゴビナはガードレールや看板に共通点が多い。これらの国では共通して黄色い看板と角張ったガードレールが見つかる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./tabla_na_ulasku_u_0.jpg" width="95%">
+<img src="./tabla_na_ulasku_u_0.jpg" width="95%" alt="Tabla na ulasku u 0">
 </div>
 
 {{% notice tip %}}
 赤い矢印が電力計の扉に書かれていることが多い気がする{{% ex "https://maps.app.goo.gl/WPiySja6gVUH2FVn6" "https://goo.gl/maps/Pg3Mp4mHMZPCboZ89" "https://goo.gl/maps/KwSMnjmejChxYidG7" "https://goo.gl/maps/9XZ7cu3oHN1ajyy58" "https://goo.gl/maps/z38EvsekK8QiSMs19" "https://goo.gl/maps/h6QDFvwjY4gWgKBL9" %}}。電球のポールにも貼ってあることがある{{% ex "https://maps.app.goo.gl/5SuyvS2ggEwnKBgN6" %}}。{{% goto "../serbia/" "セルビア" %}}でもたまに見かける{{% ex "https://maps.app.goo.gl/8JmiLusejAexJLCw8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./danger.png" width="200px" style="margin:40px">
+<img src="./danger.png" width="200px" style="margin:40px" alt="Danger">
 </div>
 
 {{% notice tip %}}
@@ -175,7 +175,7 @@ CC0</a>
 街中を歩いてみた体感として地名を見る回数の方がずっと多いかも。
 {{% /notice %}}
 <div class="googlemap-if">
-<p><div class="unclickable"><img src="areacode.png" /></div></p>
+<p><div class="unclickable"><img src="areacode.png" alt="Areacode" /></div></p>
 <p>出典：<a href="https://web.archive.org/web/20110714164315/http://www.t-com.hr/privatni/telefon/pozivi/pozivni/medunarodni.asp">© T-Hrvatski Telekom - Međunarodni promet</a></p>
 </div>
 {{% /tab %}}
@@ -194,7 +194,7 @@ CC0</a>
 {{% notice tip %}}
 島の主な産業はブドウ栽培{{% ex "https://maps.app.goo.gl/SSWENqTiuXZhwL969" "https://maps.app.goo.gl/DqNBW2TBT3CkQvsN9" "https://maps.app.goo.gl/CDrhyrchMuPDJNdQ9" %}}であり島内の耕作地のうち5分の1はブドウ畑。
 {{% /notice %}}
-<img src="./vrbnicko_polje_1.jpg">
+<img src="./vrbnicko_polje_1.jpg" alt="Vrbnicko polje 1">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

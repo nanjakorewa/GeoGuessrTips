@@ -59,7 +59,7 @@ Plat nomor dengan warna di bagian atas selain biru sering ditemukan di Peru atau
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px">
+<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px" alt="Ciclovía Invadida por un taxista">
 </div>
 
 {{% lb %}}
@@ -87,7 +87,7 @@ Tiang listrik sering memiliki <span class="quiz">tiga batang</span> yang menonjo
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/pole.jpg" width="95%">
+<img src="/rule/cs_america/peru/pole.jpg" width="95%" alt="Pole">
 </div>
 
 <div class="googlemap-if">
@@ -107,7 +107,7 @@ Kotak panjang sering terlihat terpasang di dinding rumah{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/house.jpg" width="90%">
+<img src="/rule/cs_america/peru/house.jpg" width="90%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -196,7 +196,7 @@ Wilayah pegunungan dengan ketinggian ekstrem, seperti pedalaman Ancash. Salah sa
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg">
+<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg" alt="Paisaje en chiquian bolognesi">
 </div>
 
 {{% /tab %}}
@@ -236,7 +236,7 @@ Wilayah dataran tinggi di selatan yang hampir tidak memiliki pohon. Permukaan ta
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px">
+<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px" alt="2023 06 18 20 15 15">
 </div>
 
 {{% notice tip %}}
@@ -274,8 +274,8 @@ Wilayah pinggiran Tacna memiliki lanskap yang sangat khas {{% ex "https://maps.a
 {{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}} adalah kota yang tidak dapat diakses langsung melalui jalan darat {{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}. Di kota-kota seperti Iquitos dan {{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}, kendaraan utama adalah becak motor (disebut Mototaxi di sana), dan jumlah mobil sangat sedikit. Iquitos juga memiliki banyak arsitektur bergaya Eropa. Contoh lain kota yang tidak dapat diakses melalui darat adalah {{% goto "../../n_america/guatemala/#narrowdown-city" "Lívingston di Guatemala" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%">
-<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%">
+<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%" alt="Iquitosmoto">
+<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%" alt="Iron house iquitos">
 </div>
 
 {{% /tab %}}
@@ -286,8 +286,8 @@ Di sekitar Machu Picchu dan stasiun Aguas Calientes, area ini dikelilingi oleh p
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%">
-<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%">
+<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%" alt="Aguas calientes 2 0">
+<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%" alt="Machu picchu peru inca 6">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

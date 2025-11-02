@@ -31,8 +31,8 @@ dont_show_usda: true
 Often, the street name is written on a white ceramic tile-like object{{% ex "https://goo.gl/maps/mLTm8P2y6z5TJkbSA" "https://goo.gl/maps/5h9qXYTs5uq49Vtw6" %}}. It is also unique in that the street names are written in two languages.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/macau/roadsign1.jpg" width="300px">
-<img src="/rule/asia/macau/roadsign2.jpg" width="300px">
+<img src="/rule/asia/macau/roadsign1.jpg" width="300px" alt="Roadsign1">
+<img src="/rule/asia/macau/roadsign2.jpg" width="300px" alt="Roadsign2">
 </div>
 
 {{% notice tip %}}

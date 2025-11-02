@@ -41,7 +41,7 @@ Bahasa Bengali digunakan{{% ex "https://goo.gl/maps/4SB5xm8To6LYMp3H9" "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg">
+<img src="/rule/asia/bangladesh/lawachara_national_park_srimongol_11.jpg" alt="Lawachara national park srimongol 11">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ CNG rickshaw berbentuk seperti tuk-tuk adalah ciri khas lain{{% ex "https://maps
 GoogleCar di Bangladesh terkadang memperlihatkan <span class="quiz">cermin merah</span>{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}} (lihat contoh).
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/bangladesh/gc.jpg" width="600px">
+<img src="/rule/asia/bangladesh/gc.jpg" width="600px" alt="Gc">
 </div>
 
 {{% /tab %}}
@@ -140,7 +140,7 @@ Lebih dari 90% kedelai diproduksi di wilayah antara Dhaka dan Chittagong {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%">
+<img src="/rule/asia/bangladesh/2023-06-19-08-52-31.png" width="90%" alt="2023 06 19 08 52 31">
 </div>
 
 {{% /tab %}}

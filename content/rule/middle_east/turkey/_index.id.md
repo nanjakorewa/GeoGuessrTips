@@ -45,18 +45,18 @@ sc: [
 Tanda dan tanda Turki.Karakter Ç, Ş, Ğ, İ, Ö, Ü dan "・" di atas huruf Ü bersifat khas.{{% ex "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}.“Ü” juga digunakan dalam nama negara “Türkiye”{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "Turki mengubah nama negaranya di PBB menjadi Turkiye - JETRO" %}}.{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/turkey/640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
+<img src="/rule/middle_east/turkey/640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg" alt="640px Dikkat Ölüm tehlikesi 20210310 172753">
 </div>
 
 {{% notice tip %}}
 Terdapat banyak lubang kecil pada tongkat tanda, sehingga Anda sering dapat melihat sisi lainnya.{{% ex "https://maps.app.goo.gl/ycd26ZomcZVsHcrK7" "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/turkey/2023-06-16-06-39-55.png" width="350px">
-<img src="/rule/middle_east/turkey/2023-06-16-06-36-19.png" width="258px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-39-55.png" width="350px" alt="2023 06 16 06 39 55">
+<img src="/rule/middle_east/turkey/2023-06-16-06-36-19.png" width="258px" alt="2023 06 16 06 36 19">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/turkey/pole.png" width="85%" />
+<img src="/rule/middle_east/turkey/pole.png" width="85%" alt="Pole" />
 </div>
 
 
@@ -70,10 +70,10 @@ Chevron terutama digunakan dalam warna merah dan putih, tetapi ciri khasnya adal
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/middle_east/turkey/r/175104.png" width="150px" style="margin:15px">
-<img src="/rule/middle_east/turkey/r/c1.jpg" width="150px" style="margin:15px">
-<img src="/rule/middle_east/turkey/r/c2.jpg" width="150px" style="margin:15px">
-<img src="/rule/middle_east/turkey/r/ar-bc.jpg" width="110px" style="margin:15px">
+<img src="/rule/middle_east/turkey/r/175104.png" width="150px" style="margin:15px" alt="175104">
+<img src="/rule/middle_east/turkey/r/c1.jpg" width="150px" style="margin:15px" alt="C1">
+<img src="/rule/middle_east/turkey/r/c2.jpg" width="150px" style="margin:15px" alt="C2">
+<img src="/rule/middle_east/turkey/r/ar-bc.jpg" width="110px" style="margin:15px" alt="Ar bc">
 </div>
 
 {{% notice tip %}}
@@ -84,8 +84,8 @@ Tanda berhentinya adalah <span class="quiz">DUR</span>, lalu lintas satu arah ad
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/middle_east/turkey/r/Turkish_Stop_Sign.svg" width="120px">
-<img src="/rule/middle_east/turkey/r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
+<img src="/rule/middle_east/turkey/r/Turkish_Stop_Sign.svg" width="120px" alt="Turkish Stop Sign">
+<img src="/rule/middle_east/turkey/r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px" alt="Turkey road sign B 16">
 </div>
 
 {{% notice tip %}}
@@ -142,7 +142,7 @@ berbagai tiang telepon
 Ada banyak jalan seperti ini{{% ex "https://maps.app.goo.gl/rgxVhwx5M35xr3kc7" "https://maps.app.goo.gl/9FaVARUKRWWeYqpa9" "https://maps.app.goo.gl/Jr6PTgWtX1UUBmW66" "https://maps.app.goo.gl/kTeW4GfdBA5qvBfK8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/turkey/road-surface.jpg">
+<img src="/rule/middle_east/turkey/road-surface.jpg" alt="Road surface">
 </div>
 
 {{% notice tip %}}
@@ -181,7 +181,7 @@ Ada lubang got Türk Telekom di jalan.Ada pula notasi telefon (telepon dalam bah
 Nomor jalan dapat dibaca dari penanda kilometer{{% ex "https://maps.app.goo.gl/xjAQZs9AdUUSigfg7" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "[GeoGuessr] Membaca nomor jalan yang sulit diperhatikan - Kuil Fox - GeoGuessr dan lainnya" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/turkey/r/km.png" width="200px">
+<img src="/rule/middle_east/turkey/r/km.png" width="200px" alt="Km">
 </div>
 {{% /tab %}}
 {{% tab "Kode wilayah" %}}
@@ -218,7 +218,7 @@ Nomor jalan dapat dibaca dari penanda kilometer{{% ex "https://maps.app.goo.gl/x
 {{% tabs %}}
 {{% tab "rumah vinil" %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/turkey/invernadero_pepinos.jpg" width="600">
+<img src="/rule/middle_east/turkey/invernadero_pepinos.jpg" width="600" alt="Invernadero pepinos">
 </div>
 
 {{% notice tip %}}
@@ -231,17 +231,17 @@ Di bawah ini adalah jalan di pinggiran Antalya.Rumah kaca hijau berjejer di kedu
 {{% /tab %}}
 {{% tab "kerucut" %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/turkey/Turkey_corn.png" width="600">
+<img src="/rule/middle_east/turkey/Turkey_corn.png" width="600" alt="Turkey corn">
 </div>
 {{% /tab %}}
 {{% tab "kapas" %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/turkey/Turkey_cotton.jpg" width="600">
+<img src="/rule/middle_east/turkey/Turkey_cotton.jpg" width="600" alt="Turkey cotton">
 </div>
 {{% /tab %}}
 {{% tab "bunga matahari" %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/turkey/Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
+<img src="/rule/middle_east/turkey/Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600" alt="Distribution of wheat barley maize sunflower and cotton production in Turkey Cities">
 </div>
 
 {{% notice tip %}}
@@ -285,7 +285,7 @@ Tatar, Özgür. “Perubahan iklim berdampak pada produksi tanaman di Turki.” 
 Anda perlu melihat perbedaannya pada tanda lingkaran di atas.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/turkey/2023-06-16-06-32-12.png" width="500px">
+<img src="/rule/middle_east/turkey/2023-06-16-06-32-12.png" width="500px" alt="2023 06 16 06 32 12">
 </div>
 {{% /tab %}}
 {{% tab "Ankara" %}}

@@ -47,7 +47,7 @@ El vietnamita se compone de letras latinas.{{% ex "https://maps.app.goo.gl/z9aUv
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%">
+<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
 </div>
 
 {{% notice tip %}}
@@ -64,7 +64,7 @@ Además de los postes de servicios públicos cilíndricos normales, también pue
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/rice.jpg" width="90%">
+<img src="/rule/asia/vietnum/rice.jpg" width="90%" alt="Rice">
 </div>
 
 
@@ -101,7 +101,7 @@ Las montañas Annan se extienden a lo largo de la frontera.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/Vietnam_Topography.png" width="60%">
+<img src="/rule/asia/vietnum/Vietnam_Topography.png" width="60%" alt="Vietnam Topography">
 </div>
 
 {{% /tab %}}
@@ -111,11 +111,11 @@ La topografía kárstica parece extenderse en el área negra de abajo.{{% ref "h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%">
+<img src="/rule/asia/vietnum/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%" alt="Distribution of karst areas in northern and central Vietnam Through thousands of years of">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/thitrantammson.jpg">
+<img src="/rule/asia/vietnum/thitrantammson.jpg" alt="Thitrantammson">
 </div>
 
 {{% /tab %}}
@@ -125,7 +125,7 @@ Los canales se extienden como una red y a menudo se ven pequeños puentes.{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/vietnam_mekong_river_mekong_4.jpg" width="90%">
+<img src="/rule/asia/vietnum/vietnam_mekong_river_mekong_4.jpg" width="90%" alt="Vietnam mekong river mekong 4">
 </div>
 
 {{% /tab %}}
@@ -187,7 +187,7 @@ El nombre del distrito aumenta hacia el final.{{% ex "https://maps.app.goo.gl/GF
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/giang_cafe_nguyen_huu.jpg" width="70%">
+<img src="/rule/asia/vietnum/giang_cafe_nguyen_huu.jpg" width="70%" alt="Giang cafe nguyen huu">
 </div>
 
 {{% /tab %}}
@@ -197,7 +197,7 @@ Las compañías eléctricas nacionales están a cargo de distribuir electricidad
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/2025-06-28-23-02-50.png" width="90%">
+<img src="/rule/asia/vietnum/2025-06-28-23-02-50.png" width="90%" alt="2025 06 28 23 02 50">
 </div>
 
 {{% /tab %}}
@@ -256,7 +256,7 @@ La cuenca del río Mekong representa más de la mitad de la producción.{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/vietnam_Total_Rice.png" width="60%">
+<img src="/rule/asia/vietnum/vietnam_Total_Rice.png" width="60%" alt="Vietnam Total Rice">
 </div>
 
 {{% /tab %}}
@@ -266,7 +266,7 @@ Aunque el volumen de producción no es grande, la agricultura en la zona montañ
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/960px-Mu_Cang_Chai.jpg" width="90%">
+<img src="/rule/asia/vietnum/960px-Mu_Cang_Chai.jpg" width="90%" alt="960px Mu Cang Chai">
 </div>
 
 {{% /tab %}}
@@ -276,7 +276,7 @@ En el interior se pueden encontrar muchas plantaciones de caucho.{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/rubber-plantation.png" width="60%">
+<img src="/rule/asia/vietnum/rubber-plantation.png" width="60%" alt="Rubber plantation">
 </div>
 
 {{% /tab %}}
@@ -286,7 +286,7 @@ Las plantaciones de té se distribuyen en algunas zonas montañosas.{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/tea-plantation.png" width="60%">
+<img src="/rule/asia/vietnum/tea-plantation.png" width="60%" alt="Tea plantation">
 </div>
 
 {{% /tab %}}
@@ -296,12 +296,12 @@ La producción de café es popular en zonas con altitudes ligeramente mayores.{{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/345.png" width="90%">
+<img src="/rule/asia/vietnum/345.png" width="90%" alt="345">
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%">
+<img src="/rule/asia/vietnum/500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%" alt="500px Khe Sanh thung lũng, th5n2023 (cây cà phê Khe Sanh, hoa cà phê trắng) (2) (1)">
 </div>
 
 {{% /tab %}}
@@ -365,7 +365,7 @@ Aunque no hay necesariamente muchas carreteras a lo largo de la costa, existe un
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/ha_long_bay_with.jpg">
+<img src="/rule/asia/vietnum/ha_long_bay_with.jpg" alt="Ha long bay with">
 </div>
 
 {{% /tab %}}
@@ -386,7 +386,7 @@ Hay una isla remota en la parte más al sur.camino de tierra roja sin pavimentar
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/phu_quoc.jpg">
+<img src="/rule/asia/vietnum/phu_quoc.jpg" alt="Phu quoc">
 </div>
 
 {{% /tab %}}
@@ -396,7 +396,7 @@ Encuentra carteles en idiomas chinos y tiendas libres de impuestos.{{% ex "https
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/mongcai.jpg" width="90%">
+<img src="/rule/asia/vietnum/mongcai.jpg" width="90%" alt="Mongcai">
 </div>
 
 {{% /tab %}}

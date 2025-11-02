@@ -45,7 +45,7 @@ Vietnamese is written in the Latin alphabet{{% ex "https://maps.app.goo.gl/z9aUv
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%">
+<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
 </div>
 
 {{% notice tip %}}
@@ -61,7 +61,7 @@ In addition to regular cylindrical utility poles, you can find poles with holes 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/rice.jpg" width="90%">
+<img src="/rule/asia/vietnum/rice.jpg" width="90%" alt="Rice">
 </div>
 
 {{% /tab %}}
@@ -97,7 +97,7 @@ The Annamite Range extends along the border.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/Vietnam_Topography.png" width="60%">
+<img src="/rule/asia/vietnum/Vietnam_Topography.png" width="60%" alt="Vietnam Topography">
 </div>
 
 {{% /tab %}}
@@ -107,11 +107,11 @@ The black areas below are believed to feature karst topography {{% ref "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%">
+<img src="/rule/asia/vietnum/Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%" alt="Distribution of karst areas in northern and central Vietnam Through thousands of years of">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/thitrantammson.jpg">
+<img src="/rule/asia/vietnum/thitrantammson.jpg" alt="Thitrantammson">
 </div>
 
 {{% /tab %}}
@@ -121,7 +121,7 @@ A web-like network of waterways spreads across the area, with many small bridges
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/vietnam_mekong_river_mekong_4.jpg" width="90%">
+<img src="/rule/asia/vietnum/vietnam_mekong_river_mekong_4.jpg" width="90%" alt="Vietnam mekong river mekong 4">
 </div>
 
 {{% /tab %}}
@@ -181,7 +181,7 @@ Larger administrative areas are typically listed last {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/giang_cafe_nguyen_huu.jpg" width="70%">
+<img src="/rule/asia/vietnum/giang_cafe_nguyen_huu.jpg" width="70%" alt="Giang cafe nguyen huu">
 </div>
 
 {{% /tab %}}
@@ -191,7 +191,7 @@ State-owned electric companies handle distribution regionally, so infrastructure
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/2025-06-28-23-02-50.png" width="90%">
+<img src="/rule/asia/vietnum/2025-06-28-23-02-50.png" width="90%" alt="2025 06 28 23 02 50">
 </div>
 
 {{% /tab %}}
@@ -248,7 +248,7 @@ The Mekong River basin accounts for more than half of total rice production {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/vietnam_Total_Rice.png" width="60%">
+<img src="/rule/asia/vietnum/vietnam_Total_Rice.png" width="60%" alt="Vietnam Total Rice">
 </div>
 
 {{% /tab %}}
@@ -258,7 +258,7 @@ While not high in volume, mountain agriculture centers around tea and rice, and 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/960px-Mu_Cang_Chai.jpg" width="90%">
+<img src="/rule/asia/vietnum/960px-Mu_Cang_Chai.jpg" width="90%" alt="960px Mu Cang Chai">
 </div>
 
 {{% /tab %}}
@@ -268,7 +268,7 @@ Rubber plantations are commonly found in inland areas {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/rubber-plantation.png" width="60%">
+<img src="/rule/asia/vietnum/rubber-plantation.png" width="60%" alt="Rubber plantation">
 </div>
 
 {{% /tab %}}
@@ -278,7 +278,7 @@ Tea plantations are distributed in parts of mountainous regions {{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/tea-plantation.png" width="60%">
+<img src="/rule/asia/vietnum/tea-plantation.png" width="60%" alt="Tea plantation">
 </div>
 
 {{% /tab %}}
@@ -288,11 +288,11 @@ Coffee production thrives in regions with slightly higher elevation {{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/345.png" width="90%">
+<img src="/rule/asia/vietnum/345.png" width="90%" alt="345">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%">
+<img src="/rule/asia/vietnum/500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%" alt="500px Khe Sanh thung lũng, th5n2023 (cây cà phê Khe Sanh, hoa cà phê trắng) (2) (1)">
 </div>
 
 {{% /tab %}}
@@ -355,7 +355,7 @@ Although coastal roads are not particularly numerous, unique submerged karst top
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/ha_long_bay_with.jpg">
+<img src="/rule/asia/vietnum/ha_long_bay_with.jpg" alt="Ha long bay with">
 </div>
 
 {{% /tab %}}
@@ -375,7 +375,7 @@ A southern offshore island. The roads are often either unpaved with red soil {{%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/phu_quoc.jpg">
+<img src="/rule/asia/vietnum/phu_quoc.jpg" alt="Phu quoc">
 </div>
 
 {{% /tab %}}
@@ -385,7 +385,7 @@ Chinese-language signage and duty-free shops can be found {{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/mongcai.jpg" width="90%">
+<img src="/rule/asia/vietnum/mongcai.jpg" width="90%" alt="Mongcai">
 </div>
 
 {{% /tab %}}

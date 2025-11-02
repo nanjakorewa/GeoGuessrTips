@@ -47,13 +47,13 @@ flag_height: "380px"
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.jpg" width="80%" />
+<img src="road.jpg" width="80%" alt="Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" />
-<img src="Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" />
-<img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" />
+<img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="Jkr ft1" />
+<img src="Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysian Public Works Department" />
+<img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" alt="Jkr k602" />
 </div>
 
 
@@ -64,7 +64,7 @@ flag_height: "380px"
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./langkawi_road.jpg" />
+<img src="./langkawi_road.jpg" alt="Langkawi road" />
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ flag_height: "380px"
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="2023-05-04-12-38-44.png" width="50%"/>
+<img src="2023-05-04-12-38-44.png" width="50%" alt="2023 05 04 12 38 44" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -97,7 +97,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-surface.png" width="90%">
+<img src="./road-surface.png" width="90%" alt="Road surface">
 </div>
 
 
@@ -115,7 +115,7 @@ By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/d
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./640px-Tasik_Y_Recreational_Park_5.jpg" width="600">
+<img src="./640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="640px Tasik Y Recreational Park 5">
 </div>
 
 
@@ -160,12 +160,12 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./signboard_with_islamic_calligraphy.jpg" width="95%">
+<img src="./signboard_with_islamic_calligraphy.jpg" width="95%" alt="Signboard with islamic calligraphy">
 </div>
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-32.png" width="90%"/>
+<img src="2023-05-11-14-03-32.png" width="90%" alt="2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -180,7 +180,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-53.png" width="90%"/>
+<img src="2023-05-11-14-03-53.png" width="90%" alt="2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mabul_island_semporna_sabah.jpg" wdith="90%" />
+<img src="./mabul_island_semporna_sabah.jpg" wdith="90%" alt="Mabul island semporna sabah" />
 </div>
 {{% /tab %}}
 {{% tab "ティオマン島" %}}

@@ -41,7 +41,7 @@ Utility poles with distinctive construction can be found{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/road.jpg" width="90%">
+<img src="/rule/africa/nigeria/road.jpg" width="90%" alt="Road">
 </div>
 
 {{% notice tip %}}
@@ -65,7 +65,7 @@ CC BY‑SA 4.0
 Single‑storey houses with <span class="quiz">metal roofs</span> are common{{% ex "https://maps.app.goo.gl/7HeyaGY6udvq88Qd6" "https://maps.app.goo.gl/rkexHDbYoRkGvXmB8" "https://maps.app.goo.gl/68fdWw1ryGnP4MwcA" "https://maps.app.goo.gl/Rs9chhraNPo674JKA" "https://maps.app.goo.gl/nupZV4G31mkRsn36A" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/nigeria/Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%">
+<img src="/rule/africa/nigeria/Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%" alt="Honda's Place , Ota , Ogun State Nigeria">
 </div>
 
 {{% notice tip %}}
@@ -75,24 +75,24 @@ In some areas the camera car is accompanied by a <span class="quiz">police vehic
 {{% /tab %}}
 {{% tab "States" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/Political_map_of_Nigeria.svg">
+<img src="/rule/africa/nigeria/Political_map_of_Nigeria.svg" alt="Political map of Nigeria">
 </div>
 {{% /tab %}}
 {{% tab "Agriculture" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/2023-05-10-15-44-28.png" width="97%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-44-28.png" width="97%" alt="2023 05 10 15 44 28" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/2023-05-10-15-53-56.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-53-56.png" width="90%" alt="2023 05 10 15 53 56" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" alt="2023 05 10 15 49 07" />
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/nigeria/2023-05-19-08-43-21.png" width="90%" />
+<img src="/rule/africa/nigeria/2023-05-19-08-43-21.png" width="90%" alt="2023 05 19 08 43 21" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/nigeria/fodder_barn_crop_residue.jpg" width="90%" />
+<img src="/rule/africa/nigeria/fodder_barn_crop_residue.jpg" width="90%" alt="Fodder barn crop residue" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

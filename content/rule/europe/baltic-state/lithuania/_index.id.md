@@ -62,18 +62,18 @@ Signs with numbers are tilted <span class="quiz">diagonally</span> to the road. 
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;border-radius:20px;">
-<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" />
-<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" />
-<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" />
+<img src="/rule/europe/baltic-state/Estonia_road_sign_311a.svg" width="120px" class="margin-ten-px" alt="Estonia road sign 311a" />
+<img src="/rule/europe/baltic-state/Latvia_road_sign_302.svg" width="120px" class="margin-ten-px" alt="Latvia road sign 302" />
+<img src="/rule/europe/baltic-state/Lithuania_background.png" width="120px" class="margin-ten-px" alt="Lithuania background" />
 </div>
 
 {{% notice tip %}}
 The colors and borders of the chevron signs differ between the Baltic States. The diagram below shows, from left to right: <span class="quiz">Estonia</span>, <span class="quiz">Latvia</span>, and <span class="quiz">Lithuania</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ddd; padding-top:25px;border-radius:20px;">
-<img src="https://geopinning.space/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" />
-<img src="https://geopinning.space/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" />
-<img src="https://geopinning.space/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" />
+<img src="https://geopinning.space/rule/europe/baltic-state/estonia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/latvia/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
+<img src="https://geopinning.space/rule/europe/baltic-state/lithuania/r/ar.png" width="120px" class="margin-ten-px" alt="Ar" />
 </div>
 
 {{% /tab %}}

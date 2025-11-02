@@ -61,7 +61,7 @@ By <a href="https://en.wikipedia.org/wiki/User:Qqqqqq" class="extiw" title="wiki
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/15469934@N07/4261383542/in/photolist-6C4Qfc-7uzGBm-9zjWib-7uyGS3-7EwGi9-7Er5fD/" title="Triple servicio"><img src="https://live.staticflickr.com/4011/4261383542_2472279d20_w.jpg" width="400" height="300" alt="Triple servicio"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <div class="unclickable">
-<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px">
+<img src="./Logo_ancap.svg" width="200px" style="margin:40px 0 0 10px" alt="Logo ancap">
 </div>
 </div>
 
@@ -125,7 +125,7 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 ほとんどの領域が標高0～300mの間であり、最高でも513m（パブリックドメインの画像より）。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-25-12-33-07.png" width="90%" />
+<img src="2023-04-25-12-33-07.png" width="90%" alt="2023 04 25 12 33 07" />
 </div>
 {{% /tab %}}
 {{% tab "農業" %}}
@@ -133,7 +133,7 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 大麦や大豆の生産は南西のSoriano・Coloniaで半分近くを占めている{{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}。コーンや菜種も西に集中しているので畑が広がっていれば西に寄せる価値ありかも{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Uruguay Production" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="Uruguay_Barley.png" width="90%" />
+<img src="Uruguay_Barley.png" width="90%" alt="Uruguay Barley" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -155,7 +155,7 @@ Cabo Polonioの集落や集落までの途中の道は黒い車が使われて�
 
 
 <div class="googlemap-if no-margin">
-<img src="./casaspolonio.jpg" width="95%">
+<img src="./casaspolonio.jpg" width="95%" alt="Casaspolonio">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}

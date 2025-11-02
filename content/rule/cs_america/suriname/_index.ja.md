@@ -28,7 +28,7 @@ is_unofficial: true
 木造の白い板材で作られた壁を持つ家が多いように見える{{% ex "https://maps.app.goo.gl/rfdrddWKkaiQefMN9" "https://maps.app.goo.gl/Wu2yLWLhFRXkuTrS8" "https://maps.app.goo.gl/6XTV7Nfdz5qnF5A27" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="kathedralehenckarronstraat1.jpg">
+<img src="kathedralehenckarronstraat1.jpg" alt="Kathedralehenckarronstraat1">
 </div>
 
 {{% notice tip %}}

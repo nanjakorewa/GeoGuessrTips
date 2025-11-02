@@ -27,14 +27,14 @@ is_unofficial: true
 Independence from {{% goto "../../europe/france/" "France" %}} in 1960; urban signage and poles often resemble France.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjame-_Plateau_32.jpg" width="90%">
+<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjame-_Plateau_32.jpg" width="90%" alt="1280px Boulevard Cocody Adjame Plateau 32">
 </div>
 
 {{% notice tip %}}
 The country is the world’s top producer of <span class="quiz">cocoa</span>{{% ref "https://gentosha-go.com/articles/-/10198" "article" %}}{{% ref "https://www.ymizuki.com/entry/dutch-agricultural-productions-importing" "article" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%">
+<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Punta cana theobroma cacao 0">
 </div>
 
 {{% /tab %}}

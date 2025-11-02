@@ -42,12 +42,12 @@ Tiang listrik dan logo Chubu Electric Power muncul di Aichi, Gifu, Mie, wilayah 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em">
-<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="CHUBU Electric Power">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px" alt="CHUBU Electric Power logo">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ Dataran Nōbi meliputi sebagian besar Aichi dan memberikan pemandangan yang luas
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg">
+<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg" alt="Nobi plain nagoya from">
 </div>
 
 {{% /tab %}}
@@ -90,7 +90,7 @@ Pita peringatan spiral seperti pada gambar kanan dapat ditemukan{{% ref "https:/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px">
+<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px" alt="Pole hokuriku">
 </div>
 
 {{% /tab %}}

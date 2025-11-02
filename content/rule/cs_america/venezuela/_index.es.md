@@ -29,7 +29,7 @@ is_unofficial: true
 Se pueden ver con frecuencia casas de estilo colonial influenciadas por la época colonial de {{% goto "../../europe/spain/" "España" %}}, a menudo pintadas con colores vibrantes{{% ex "https://maps.app.goo.gl/swnre875uZQhfYH59" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/venezuela/houses_slope_sun_light.jpg" width="90%">
+<img src="/rule/cs_america/venezuela/houses_slope_sun_light.jpg" width="90%" alt="Houses slope sun light">
 </div>
 
 {{% /tab %}}

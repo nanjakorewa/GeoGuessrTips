@@ -43,13 +43,13 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:5px;">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px">
-<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px">
-<img src="/rule/n_america/usa/r/sp-oregon.png" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
+<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
+<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px" alt="Canada sp nu">
+<img src="/rule/n_america/usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px" alt="MUTCD R2 1">
+<img src="/rule/n_america/usa/r/sp-oregon.png" width="66px" style="margin:5px" alt="Sp oregon">
 </div>
 
 </div>
@@ -57,33 +57,33 @@ sc: [
 {{% notice tip %}}En Canadá, no hay palabras en las señales YEILD o ONEWAY.Canadá a la izquierda, Estados Unidos a la derecha.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
-<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px" alt="CA MUTCDC RA 002">
+<img src="/rule/n_america/usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px" alt="MUTCD R1 2">
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-right:100px">
-<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/canada/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
+<img src="/rule/n_america/usa/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
 </div>
 
 {{% notice tip %}}Hay muchas publicaciones como esta.Debería decir CANADA POST en alguna parte.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/canada/canadapostcommunitymailboxes9.jpg" width="80%" />
-<img src="/rule/n_america/canada/canadapostcommunitymailboxes5.jpg" width="250px" />
-<img src="/rule/n_america/canada/canadapostmailbox.jpg" width="250px" />
+<img src="/rule/n_america/canada/canadapostcommunitymailboxes9.jpg" width="80%" alt="Canadapostcommunitymailboxes9" />
+<img src="/rule/n_america/canada/canadapostcommunitymailboxes5.jpg" width="250px" alt="Canadapostcommunitymailboxes5" />
+<img src="/rule/n_america/canada/canadapostmailbox.jpg" width="250px" alt="Canadapostmailbox" />
 </div>
 
 {{% notice tip %}}Hay un cartel que parece un tablero de ajedrez.{{% ex "https://goo.gl/maps/H4Cp8txV2x2FRdxa6" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/canada/opeongo_road_signs.jpg" width="90%" />
+<img src="/rule/n_america/canada/opeongo_road_signs.jpg" width="90%" alt="Opeongo road signs" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px">
-<img src="/rule/n_america/canada/Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px">
-<img src="/rule/n_america/canada/Ontario_Wa-8R.svg" width="130px" style="margin-right:20px">
+<img src="/rule/n_america/canada/CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px" alt="CA QC road sign D 280">
+<img src="/rule/n_america/canada/Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8LR">
+<img src="/rule/n_america/canada/Ontario_Wa-8R.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8R">
 </div>
 
 {{% notice tip %}}Los bancos escritos como TD están afiliados a Toronto-Dominion Bank.RBC significa Banco Real de Canadá.Son el segundo y primer tamaño de activos más grande en Japón, respectivamente.
@@ -93,8 +93,8 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px">
-<img src="/rule/n_america/canada/RBC_Royal_Bank.svg" width="100px" style="margin-left:100px">
+<img src="/rule/n_america/canada/Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px" alt="Toronto Dominion Bank logo">
+<img src="/rule/n_america/canada/RBC_Royal_Bank.svg" width="100px" style="margin-left:100px" alt="RBC Royal Bank">
 </div>
 
 {{% /tab %}}
@@ -157,7 +157,7 @@ Las áreas de color amarillo verdoso son planas y las áreas marrones son monta�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/canada/1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800">
+<img src="/rule/n_america/canada/1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800" alt="1073px Canada Map 3 Terrain DPLA 9d3a2bcd16e310769d57247c939b852b">
 </div>
 
 {{% /tab %}}
@@ -192,20 +192,20 @@ Las áreas de color amarillo verdoso son planas y las áreas marrones son monta�
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px">
-<img src="/rule/n_america/canada/r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px">
-<img src="/rule/n_america/canada/r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px">
+<img src="/rule/n_america/canada/r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px" alt="Nunavut Stop Sign SVG">
+<img src="/rule/n_america/canada/r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px" alt="CA QC road sign P 010 fr">
+<img src="/rule/n_america/canada/r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px" alt="New Brunswick stop sign">
 </div>
 
 {{% /tab %}}
 {{% tab "notación de velocidad" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px">
-<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px">
+<img src="/rule/n_america/canada/r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
+<img src="/rule/n_america/canada/r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
+<img src="/rule/n_america/canada/CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
+<img src="/rule/n_america/canada/r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
+<img src="/rule/n_america/canada/canada-sp-nu.png" width="66px" style="margin:5px" alt="Canada sp nu">
 </div>
 
 
@@ -262,7 +262,7 @@ Cuando los postes telefónicos divididos 2:1 se repiten alternativamente,<span c
 Los bolardos con reflectores finos de color rojo oscuro son <span class="quiz">Quebec</span> estado{{% ex "https://goo.gl/maps/goHrTyUv3ALQ8DLt5" "https://goo.gl/maps/RYguMToduYg11Cfe8" %}}.{{% goto "../usa/" "América" %}}Hay un bolardo similar en{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}Sólo presta atención a los puntos.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/canada/a20_ouest_km143.jpg" width="90%">
+<img src="/rule/n_america/canada/a20_ouest_km143.jpg" width="90%" alt="A20 ouest km143">
 </div>
 {{% /tab %}}
 {{% tab "ontario" %}}
@@ -287,14 +287,14 @@ Común en Ontario.Algunos no están coloreados.
 {{% tab "trigo" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/canada/2023-04-29-19-45-23.png" width="80%" />
+<img src="/rule/n_america/canada/2023-04-29-19-45-23.png" width="80%" alt="2023 04 29 19 45 23" />
 </div>
 
 {{% /tab %}}
 {{% tab "cono" %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/canada/2023-04-29-19-35-46.png" width="80%" />
+<img src="/rule/n_america/canada/2023-04-29-19-35-46.png" width="80%" alt="2023 04 29 19 35 46" />
 </div>
 
 {{% notice note %}}

@@ -34,8 +34,8 @@ sc: [
 Lebih dari 80% penduduk adalah masyarakat adat Greenland dan bahasa resminya adalah bahasa Greenland. Di tanah berpermafrost, es yang mencair saat musim panas membuat permukaan tanah turun lalu kembali mengembang saat membeku di musim dingin. Karena itu banyak rumah dibangun di atas batu atau tiang; sering terlihat celah di bawah lantai atau tiang beton penyangga{{% ex "https://maps.app.goo.gl/RJ9MNRwS8cwdsfu69" "https://maps.app.goo.gl/HRUqsMZjoXRTRCHc9" "https://maps.app.goo.gl/gz9J7etmTHdc5oba9" %}}. Suhu yang rendah juga membuat banyak jalan tidak sepenuhnya rata{{% ref "http://chikyunokurashi.com/greenland/ordinarylifeingreenland/" "Kehidupan sehari-hari warga Greenland" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/greenland/tasiilaq_greenland_01.jpg" width="550px">
-<img src="/rule/n_america/greenland/tasiilaq_greenland_east_greenland.jpg" width="550px">
+<img src="/rule/n_america/greenland/tasiilaq_greenland_01.jpg" width="550px" alt="Tasiilaq greenland 01">
+<img src="/rule/n_america/greenland/tasiilaq_greenland_east_greenland.jpg" width="550px" alt="Tasiilaq greenland east greenland">
 </div>
 
 {{% notice tip %}}

@@ -51,7 +51,7 @@ products:
 
 
 <div class="googlemap-if no-margin">
-<img src="./pole-example.png" width="199px" height="640px">
+<img src="./pole-example.png" width="199px" height="640px" alt="Pole example">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/mbsteblein/23891588226/in/photolist-2dbUGGx-2ohmDoE-2duFozh-2ew5Phb-2hW7XQW-2gxkrnM-2obbYYA-HYjufA-2dtDTrW-2dytxDg-2ev4zNL-2aWfB99-pqqe1g-7wMsVg-eaa1KC-eaa1HW-ea4mJg-2f1oTXD-RuWUZg-dJWqDB-dK2SwA-dK2Sk7-dK2SeA-dJWqK2-dK2SrU-AQfpc-ea4n4P-AdMmL-2gXW4t8-CpdCNW-tng9z" title="IMG_8443"><img src="https://live.staticflickr.com/5772/23891588226_36ab4595ed_z.jpg" width="480" height="640" alt="IMG_8443"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
@@ -81,14 +81,14 @@ products:
 ボラードやガードレールの反射板が黄色{{% ex "https://maps.app.goo.gl/MDnjhyhUKNu4Y7zy9" %}}であるときがあり{{% goto "../../europe/spain/" "スペイン" %}}と間違えやすいので注意。速度表記の縁が無い点もスペインに似ている。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./chile_panamericana_road_landscape.jpg" width="95%">
+<img src="./chile_panamericana_road_landscape.jpg" width="95%" alt="Chile panamericana road landscape">
 </div>
 
 {{% notice tip %}}
 チリや{{% goto "../bolivia/" "ボリビア" %}}では道路に赤い反射板がついていることがある{{% ex "https://goo.gl/maps/Put3e1Ku7U3BkT5aA" "https://goo.gl/maps/f51VybjvwqEYfmyX6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./road.jpg" width="90%" /></p>
+<p><img src="./road.jpg" width="90%" alt="Road" /></p>
 <p>By [-_-] JORGE - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/graficmedia/27486177645/">https://www.flickr.com/photos/graficmedia/27486177645/</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=100162985">Link</a></p>
 </div>
 
@@ -150,7 +150,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 数は多くないように思う{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=CI" "USDA Chile Production" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./Chile_Corn.png" width="500px">
+<img src="./Chile_Corn.png" width="500px" alt="Chile Corn">
 </div>
 
 <div class="googlemap-if">
@@ -163,7 +163,7 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:Apino&amp;amp;action=
 分布はplonkitなどを参照{{% by "https://www.plonkit.net/chile" "plonkit" %}}{{% ref "https://www.inaturalist.org/observations?nelat=-17.49833905029186&nelng=-66.3327000414159&place_id=any&subview=map&swlat=-56.62329997685876&swlng=-110.0280999697818&taxon_id=77310" "Gunnera tinctoria - iNaturalist" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./chilean_rhubarb_rhubarb_598355.jpg" width="80%">
+<img src="./chilean_rhubarb_rhubarb_598355.jpg" width="80%" alt="Chilean rhubarb rhubarb 598355">
 </div>
 
 {{% /tab %}}
@@ -221,7 +221,7 @@ E-375道路がある緯度付近。
 Santiago de Chile付近にある木や草がまばらに生えた山が印象的{{% ex "https://maps.app.goo.gl/dVSxxebR5NrCaQAF9" "https://maps.app.goo.gl/qJGQoxvp5ZQ4CF3s9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./santiago_chile_trekking_mountains.jpg">
+<img src="./santiago_chile_trekking_mountains.jpg" alt="Santiago chile trekking mountains">
 </div>
 
 {{% /tab %}}
@@ -230,7 +230,7 @@ Santiago de Chile付近にある木や草がまばらに生えた山が印象的
 雪が積もっている地域と海が北に見える。稀にトラックのような車が見えることもある{{% ex "https://maps.app.goo.gl/92mtrxFEKsqqZDtu5" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%BB%E3%82%A6%E3%82%A3%E3%83%AA%E3%82%A2%E3%83%A0%E3%82%BA" "プエルト・ウィリアムズ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./puerto_williams_3.jpg">
+<img src="./puerto_williams_3.jpg" alt="Puerto williams 3">
 </div>
 
 {{% /tab %}}

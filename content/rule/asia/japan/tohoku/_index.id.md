@@ -38,8 +38,8 @@ Pelat logam mendatar menunjukkan tiang milik Tohoku Electric Power, sedangkan ti
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/japan/pole/pole-tohoku.png" width="220px">
-<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="95px">
+<img src="/rule/asia/japan/pole/pole-tohoku.png" width="220px" alt="Pole tohoku">
+<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="95px" alt="Pole hokkaido">
 </div>
 
 {{% /tab %}}

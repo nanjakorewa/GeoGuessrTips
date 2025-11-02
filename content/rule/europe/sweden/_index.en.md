@@ -42,7 +42,7 @@ sc: [
 Sweden and {{% goto "../norway/" "Norway" %}} are full of log houses painted in <span class="quiz">deep red (Falu red)</span>{{% ex "https://maps.app.goo.gl/DDaBMG5S2Tma2CgL8" "https://maps.app.goo.gl/qgRpGixPyfFBmDE86" "https://maps.app.goo.gl/PCSpkUeWkpB7QH4A6" "https://maps.app.goo.gl/HAjex6Vyf6Et6PsF8" "https://maps.app.goo.gl/aDFG4HedRMTHdmoe8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/sweden_home_red_stone.jpg" width="95%">
+<img src="/rule/europe/sweden/sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
 </div>
 
 
@@ -51,9 +51,9 @@ Sweden and {{% goto "../norway/" "Norway" %}} are full of log houses painted in 
 The pedestrian crossing sign has <span class="quiz">four</span> stripes. From left to right: <span class="quiz">Finland</span>, <span class="quiz">Norway</span>, <span class="quiz">Sweden</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
 </div>
 
 
@@ -64,28 +64,28 @@ Swedish direction arrows have a unique silhouette—noticeably different from th
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
-            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
         </div>
         <p><span class="quiz">Sweden</span>{{% ex "https://goo.gl/maps/pugV8oV2wAyHqJDP8" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
         </div>
         <p><span class="quiz">Finland</span>{{% ex "https://goo.gl/maps/jpm3KFZeFmTGzw1X6" %}}</p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
         </div>
         <p><span class="quiz">Norway</span>{{% ex "https://goo.gl/maps/XqwC943TgqGuDHaDA" %}}</p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/swedish_countryside.jpg" width="480px">
+<img src="/rule/europe/sweden/swedish_countryside.jpg" width="480px" alt="Swedish countryside">
 </div>
 
 
@@ -93,9 +93,9 @@ Swedish direction arrows have a unique silhouette—noticeably different from th
 Chevron boards use the national colours (yellow/blue). Norway and Finland use yellow on black, so they are easy to distinguish{{% ref "https://www.reddit.com/r/geoguessr/comments/lwa9wr/map_of_european_road_curve_chevron_signs/" "Map of European Road Curve Chevron Signs" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px">
-<img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px">
-<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px">
+<img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="Swedish road sign X1">
+<img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px" alt="NO road sign 366">
+<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px" alt="Finland road sign 631">
 </div>
 
 
@@ -104,7 +104,7 @@ Route numbers appear on yellow background signs with an inset version of the nat
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="120px" style="margin:10px">
+<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="120px" style="margin:10px" alt="Sweden road sign F14 3">
 </div>
 
 
@@ -119,7 +119,7 @@ Beware of confusing Sweden with the {{% goto "../aland_islands/" "Åland Islands
 Street names ending with <span class="quiz">gatan</span> (“street”) or <span class="quiz">vägen</span> (“road”) point to Swedish. Street blades — even “gatu” forms — are rare elsewhere.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./streetname.jpg" width="90%">
+<img src="./streetname.jpg" width="90%" alt="Streetname">
 </div>
 
 {{% notice tip %}}
@@ -174,7 +174,7 @@ Numbers printed on the sign itself correspond to the route number{{% ref "https:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="100px">
+<img src="/rule/europe/sweden/r/Sweden_road_sign_F14-3.svg" width="100px" alt="Sweden road sign F14 3">
 </div>
 
 {{% /tab %}}

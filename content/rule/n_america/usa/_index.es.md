@@ -45,11 +45,11 @@ maps: [
 {{% notice tip %}}Las señales de velocidad dicen <span class="quiz">SPEED LIMIT</span>{{% ex "https://maps.app.goo.gl/FvnB7q7FdjZuBZVQA" "https://maps.app.goo.gl/LYPy8QLDLi5uQaD38" "https://goo.gl/maps/7MDNFYLGn9GgFHDz6" "https://goo.gl/maps/eveAfAJ1gdGddSDj8" "https://goo.gl/maps/8FZ2uBojRTixFCfi9" "https://goo.gl/maps/GJ8DQzv6QrE7Yy2z7" %}}. Si sólo aparece la palabra SPEED, probablemente estés en el estado de <span class="quiz">Oregón</span>. {{% goto "../canada/" "Canadá" %}} utiliza la palabra <span class="quiz">MAXIMUM</span>.{{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
-<img src="r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px">
-<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
-<img src="../canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
-<img src="../canada/r/sp-on.svg" width="80px" style="margin:7px">
+<img src="r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="MUTCD R2 1">
+<img src="r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="Sp oregon">
+<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="CA ON road sign Rb 001 050">
+<img src="../canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="CA QC road sign P 070 4 40">
+<img src="../canada/r/sp-on.svg" width="80px" style="margin:7px" alt="Sp on">
 </div>
 </div>
 
@@ -57,37 +57,37 @@ maps: [
 Tanto Estados Unidos como {{% goto "../canada/" "Canadá" %}} usan con frecuencia la <span class="quiz">doble línea amarilla</span> como línea central{{% ex "https://maps.app.goo.gl/ffZcABdYVzyQsLaw7" "https://maps.app.goo.gl/7v6hSn7LZM85ykpJ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./roadline.jpg" width="95%">
+<img src="./roadline.jpg" width="95%" alt="Roadline">
 </div>
 
 {{% notice tip %}}Las señales YIELD y ONEWAY en Estados Unidos incluyen texto{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}. En la imagen izquierda se ve el modelo estadounidense; a la derecha, el canadiense.{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
-<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px">
+<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="MUTCD R1 2">
+<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="CA MUTCDC RA 002">
 </div>
 <div class="googlemap-if unclickable">
-<img src="../usa/r/oneway.svg" width="100px" style="margin-right:100px">
-<img src="../canada/r/oneway.svg" width="100px" style="margin-left:100px">
+<img src="../usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
+<img src="../canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
 </div>
 
 {{% notice tip %}}
 Localiza el buzón <span class="quiz">azul</span>; en Canadá es rojo. Si encuentras una oficina de correos, revisa la fachada: a menudo indica el estado y la ciudad.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-18-09-00-28.png" width="184px">
-<img src="2023-06-18-09-02-09.png" width="420px">
-<img src="pleasant_hall_pa_post.jpg" width="604px">
+<img src="2023-06-18-09-00-28.png" width="184px" alt="2023 06 18 09 00 28">
+<img src="2023-06-18-09-02-09.png" width="420px" alt="2023 06 18 09 02 09">
+<img src="pleasant_hall_pa_post.jpg" width="604px" alt="Pleasant hall pa post">
 </div>
 
 {{% notice tip %}}
 Muchas empresas de gran tamaño tienen sede en Estados Unidos. Incluso servicios como recogida de residuos, electricidad o agua son cotizados, por lo que sus logotipos aparecen por todas partes. De izquierda a derecha: Waste Management y Republic Services (gestión de residuos; sus logotipos figuran en los contenedores), Chevron y Citgo (gasolineras), Target (retail), entre otros.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./w/Waste_Management_logo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Republic_Services_logo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Chevron_Logo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Citgo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Target_logo.svg" width="220px" style="margin:10px"/>
+<img src="./w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="Waste Management logo" />
+<img src="./w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="Republic Services logo" />
+<img src="./w/Chevron_Logo.svg" width="220px" style="margin:10px" alt="Chevron Logo" />
+<img src="./w/Citgo.svg" width="220px" style="margin:10px" alt="Citgo" />
+<img src="./w/Target_logo.svg" width="220px" style="margin:10px" alt="Target logo" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -185,7 +185,7 @@ Memoriza primero los estados que no obligan a llevar placa delantera (en <span s
 
 <div class="googlemap-if">
 <div class="description-wide">
-<img src="2023-03-25-14-29-11.png" class="img-main">
+<img src="2023-03-25-14-29-11.png" class="img-main" alt="2023 03 25 14 29 11">
 </div>
 <div class="description-wide">
 Las reglas siguientes no se cumplen al 100%, pero orientan bastante.
@@ -236,7 +236,7 @@ Los nombres propios son muy distintivos y el suelo suele verse oscuro o rojizo.
 {{% tab "Maíz" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-12-03-38.png">
+<img src="2023-04-29-12-03-38.png" alt="2023 04 29 12 03 38">
 </div>
 
 {{% notice note %}}
@@ -244,17 +244,17 @@ La producción sigue el “Corn Belt”{{% by "https://www.nass.usda.gov/Charts_
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-20-02-41.png" width="80%">
+<img src="2023-06-19-20-02-41.png" width="80%" alt="2023 06 19 20 02 41">
 </div>
 
 {{% /tab %}}
 {{% tab "Soja" %}}
 <div class="googlemap-if">
-<img src="2023-04-29-10-49-15.png">
+<img src="2023-04-29-10-49-15.png" alt="2023 04 29 10 49 15">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-54-17.png" width="90%">
+<img src="2023-06-19-08-54-17.png" width="90%" alt="2023 06 19 08 54 17">
 </div>
 
 {{% notice note %}}
@@ -265,7 +265,7 @@ La soja presenta un patrón similar al del maíz{{% by "https://ipad.fas.usda.go
 {{% tab "Arroz" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-10-56-56.png">
+<img src="2023-04-29-10-56-56.png" alt="2023 04 29 10 56 56">
 </div>
 
 {{% notice note %}}
@@ -273,7 +273,7 @@ Los arrozales se concentran en zonas concretas del norte de California y a lo la
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-12-00-47.png">
+<img src="2023-04-29-12-00-47.png" alt="2023 04 29 12 00 47">
 </div>
 
 {{% notice note %}}
@@ -287,7 +287,7 @@ La caña de azúcar aparece sólo en focos concretos de Florida; en Luisiana cas
 {{% /tab %}}
 {{% tab "Trigo" %}}
 <div class="googlemap-if">
-<img src="2023-04-29-12-07-38.png">
+<img src="2023-04-29-12-07-38.png" alt="2023 04 29 12 07 38">
 </div>
 
 {{% notice note %}}
@@ -326,15 +326,15 @@ El trigo no coincide del todo con las zonas de maíz y soja. Los mapas se ajusta
 Las señales STOP suelen colocarse donde una calle estrecha desemboca en una más amplia. Ver la parte trasera implica que entras a una calle menor; ver la parte frontal indica que accedes a una vía principal.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./stop_sign_united_states.jpg">
+<img src="./stop_sign_united_states.jpg" alt="Stop sign united states">
 </div>
 
 {{% notice tip %}}
 Evita las calles marcadas con NO OUTLET o DEAD END.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./no_outlet_sign_1.jpg" width="300px">
-<img src="./quot_dead_end_quot.jpg" width="335px">
+<img src="./no_outlet_sign_1.jpg" width="300px" alt="No outlet sign 1">
+<img src="./quot_dead_end_quot.jpg" width="335px" alt="Quot dead end quot">
 </div>
 
 {{% /tab %}}
@@ -343,7 +343,7 @@ Evita las calles marcadas con NO OUTLET o DEAD END.
 Mapa dibujado a mano: úsalo sólo como guía aproximada.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./gas_station.png" width="90%">
+<img src="./gas_station.png" width="90%" alt="Gas station">
 </div>
 {{% /tab %}}
 {{% tab "Adhesivos de inspección" %}}

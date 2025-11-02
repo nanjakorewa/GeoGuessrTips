@@ -27,8 +27,8 @@ Common blue signs at the border{{% ex "https://maps.app.goo.gl/nbZmWeEHDDFKiGfg9
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px">
-<img src="/rule/europe/border/setembro2006_021.jpg" width="324px">
+<img src="/rule/europe/border/germany_border_crossing_border.jpg" width="280px" alt="Germany border crossing border">
+<img src="/rule/europe/border/setembro2006_021.jpg" width="324px" alt="Setembro2006 021">
 </div>
 
 {{% notice tip %}}
@@ -43,5 +43,5 @@ Sometimes, there are customs and police buildings at the border.
 Roads and bridges may have country names and boundary lines written on them.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px">
+<img src="/rule/europe/border/fronteira_entre_portugal_e.jpg" width="400px" alt="Fronteira entre portugal e">
 </div>

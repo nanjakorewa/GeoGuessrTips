@@ -39,7 +39,7 @@ Las islas del lago Malaui (por ejemplo, Likoma) pertenecen a Malaui{{% ref "http
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/malawi/gmap.png" width="95%">
+<img src="/rule/africa/malawi/gmap.png" width="95%" alt="Gmap">
 </div>
 
 {{% /tab %}}

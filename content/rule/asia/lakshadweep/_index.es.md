@@ -33,7 +33,7 @@ Se trata de un archipiélago frente a la costa suroeste de la India. La mayoría
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/lakshadweep/map.jpg" width="95%">
+<img src="/rule/asia/lakshadweep/map.jpg" width="95%" alt="Map">
 </div>
 
 {{% notice tip %}}
@@ -50,7 +50,7 @@ A diferencia de {{% goto "../aani/" "las Islas Andamán" %}}, las islas aquí so
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/lakshadweep/960px-KAVARATTI_MAIN_ROAD.jpg" width="95%">
+<img src="/rule/asia/lakshadweep/960px-KAVARATTI_MAIN_ROAD.jpg" width="95%" alt="960px KAVARATTI MAIN ROAD">
 </div>
 
 {{% /tab %}}

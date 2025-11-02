@@ -34,7 +34,7 @@ You can spot bollards similar to those used in {{% goto "../../europe/france/" "
 Blue identification plates on utility poles are also present.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/frenchguiana/111455.jpg">
+<img src="/rule/cs_america/frenchguiana/111455.jpg" alt="111455">
 </div>
 
 {{% /tab %}}

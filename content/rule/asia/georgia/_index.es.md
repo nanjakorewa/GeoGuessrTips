@@ -31,12 +31,12 @@ Los letreros y comercios utilizan el alfabeto georgiano (ქართული �
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/georgia/riv_rikotula.jpg" width="95%">
+<img src="/rule/asia/georgia/riv_rikotula.jpg" width="95%" alt="Riv rikotula">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/georgia/r/GE_road_sign_7.10.1_A.svg" width="250px" style="margin:4px">
-<img src="/rule/asia/georgia/r/GE_road_sign_7.9.1_D.svg" width="210px" style="margin:4px">
+<img src="/rule/asia/georgia/r/GE_road_sign_7.10.1_A.svg" width="250px" style="margin:4px" alt="GE road sign 7.10.1 A">
+<img src="/rule/asia/georgia/r/GE_road_sign_7.9.1_D.svg" width="210px" style="margin:4px" alt="GE road sign 7.9.1 D">
 </div>
 
 {{% notice tip %}}

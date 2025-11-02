@@ -41,7 +41,7 @@ sc: [
 直近のデータが無いものの一人当たりGDPはインド内ではかなり高く、ゴアやケーララ周辺と同じように二階や三階建ての家が多い{{% ex "https://maps.app.goo.gl/U31E9SG9yLDz841T7" "https://maps.app.goo.gl/2LMw8TFRoYP3K6n77" %}}{{% ref "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hyouka/kunibetu/gai/india/pdfs/kn09_03_01.pdf" "第３章 インドの概要・概況" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%">
+<img src="960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%" alt="960px Andaman Club, Port Blair, India">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="poletop.png" width="300px">
+<img src="poletop.png" width="300px" alt="Poletop">
 </div>
 
 {{% notice tip %}}
@@ -64,7 +64,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../india/arecanut_trees_assam.jpg">
+<img src="../india/arecanut_trees_assam.jpg" alt="Arecanut trees assam">
 </div>
 
 {{% /tab %}}

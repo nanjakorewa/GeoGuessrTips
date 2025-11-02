@@ -35,7 +35,7 @@ sc: [
 施設の内部や観光スポットが出題される{{% ex "https://maps.app.goo.gl/Ujoi9PWsqZVP2KPB6" "https://maps.app.goo.gl/11rHhWmSeVKYi3CY7" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./china_pekin_forbidden_city.jpg" width="95%">
+<img src="./china_pekin_forbidden_city.jpg" width="95%" alt="China pekin forbidden city">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}

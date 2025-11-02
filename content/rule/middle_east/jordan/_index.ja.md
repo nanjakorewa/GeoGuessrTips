@@ -53,7 +53,7 @@ By Dickelbers - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.
 都会ならばアンマンが多くストリートビューからも丘の斜面に白い建物がびっしりと並んで見える
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./amman_jordan_citadel_hill.jpg" width="95%">
+<img src="./amman_jordan_citadel_hill.jpg" width="95%" alt="Amman jordan citadel hill">
 </div>
 
 {{% notice tip %}}中東でGoogle Carが<span class="quiz">黒い</span>のは基本的にヨルダンだけ{{% ex "https://goo.gl/maps/sXpE66c2PbeKgpzo6" "https://goo.gl/maps/5cPqpoiFsjKHfi2g8" %}}。{{% goto "../lebanon/" "レバノン" %}}も稀に黒く見える場所がある{{% ex "https://maps.app.goo.gl/Zj4oeReAzkUD6hGu5" %}}が画質や雰囲気で判断できるはず。

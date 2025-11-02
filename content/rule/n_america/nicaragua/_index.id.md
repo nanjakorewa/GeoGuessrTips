@@ -30,7 +30,7 @@ is_unofficial: true
 Terdapat bollard persegi berwarna hitam-putih{{% ex "https://maps.app.goo.gl/i2d8z7gQRPLwMY5H8" "https://maps.app.goo.gl/FiKSX2FD6neUCjSc9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/nicaragua/Newroad-nicaragua.jpg">
+<img src="/rule/n_america/nicaragua/Newroad-nicaragua.jpg" alt="Newroad nicaragua">
 </div>
 
 {{% /tab %}}

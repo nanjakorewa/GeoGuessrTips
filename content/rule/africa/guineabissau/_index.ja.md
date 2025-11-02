@@ -40,7 +40,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="trees_cashew_nuts_fruiting.jpg" width="90%"/>
+<img src="trees_cashew_nuts_fruiting.jpg" width="90%" alt="Trees cashew nuts fruiting" />
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mB4VuVWkh1k?si=slXDfmqXALxffWUe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 

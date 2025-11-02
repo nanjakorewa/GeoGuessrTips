@@ -39,7 +39,7 @@ sc: [
 <img src="./google-car.jpg" width="90%" alt="ガーナのGoogle Car" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc-bar.jpg" width="60%">
+<img src="./gc-bar.jpg" width="60%" alt="Gc bar">
 </div>
 
 
@@ -62,7 +62,7 @@ sc: [
 タクシーの色の塗り方が独特{{% ex "https://maps.app.goo.gl/zModPxBNsSaL1E5U6" "https://maps.app.goo.gl/36beJJUuYoXJtTT67" "https://maps.app.goo.gl/qF9yVfgunmUfd5pa9" "https://maps.app.goo.gl/kuyBAsBKBjKmrXaM9" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}}で<span class="quiz">黄</span>色のナンバー。タクシーは料金メーターが付いておらず料金は乗車時に交渉で決める（ただしUberを使う場合は事前に確定する）らしい。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mitsubishi_taxi_ghana.jpg" width="90%" />
+<img src="./mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
 </div>
 
 
@@ -76,7 +76,7 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./National_Lottery_Authority_logo.jpg" width="200px" />
+<img src="./National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
 </div>
 
 {{% /tab %}}
@@ -114,7 +114,7 @@ sc: [
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="./20230522-palm.png" width="70%" />
+<img src="./20230522-palm.png" width="70%" alt="20230522 palm" />
 </div>
 {{% notice tip %}}
 アブラヤシやバナナの木は南部に多い。これらの木がないならば北部に置いてみる。
@@ -151,7 +151,7 @@ sc: [
 このマップの白い部分は高い山が多い{{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Ghana_physical_map.svg" width="70%" />
+<img src="./Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

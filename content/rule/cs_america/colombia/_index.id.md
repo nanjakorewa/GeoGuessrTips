@@ -41,18 +41,18 @@ sc: [
 Bagian belakang rambu jalan memiliki <span class="quiz">salib (yang dikenal sebagai Kolombian Cross)</span>. Dari belakang, salib ini terlihat jelas {{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://maps.app.goo.gl/LKsQoKCVRoey12zX7" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}, sementara dari depan terlihat empat sekrup {{% ex "https://maps.app.goo.gl/1HmKUtG9pEmAq2fF9" "https://maps.app.goo.gl/hcU1fFzbteDvtMBM7" "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}. Tiang dan bagian belakangnya biasanya berwarna putih. Kadang-kadang, tanda yang mirip salib juga ditemukan di {{% goto "../ecuador/" "Ekuador" %}} sehingga perlu diperhatikan {{% ex "https://goo.gl/maps/iqQxCuKo6Q7WSoQ16" "https://goo.gl/maps/riXznXycjwp5a6at9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" alt="Road sign example" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" alt="Road sign" />
 </div>
 
 {{% notice tip %}}
 Plat nomor berwarna <span class="quiz">kuning di depan dan belakang</span> {{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}} atau putih. Pada motor, plat nomor di belakang juga berwarna <span class="quiz">kuning</span> {{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}. Di {{% goto "../peru/" "Peru" %}} juga ditemukan plat kuning, namun di Kolombia warnanya cenderung lebih mendekati jingga.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/lp.jpg" width="95%">
+<img src="/rule/cs_america/colombia/lp.jpg" width="95%" alt="Lp">
 </div>
 
 {{% lb 50 %}}
@@ -66,7 +66,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/roadside.jpg" width="95%">
+<img src="/rule/cs_america/colombia/roadside.jpg" width="95%" alt="Roadside">
 </div>
 
 {{% /tab %}}
@@ -106,7 +106,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% tabs %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" />
+<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" alt="Pone.0043943.g001" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
@@ -155,7 +155,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg">
+<img src="/rule/cs_america/colombia/barranquilla_autopista_al_mar.jpg" alt="Barranquilla autopista al mar">
 </div>
 
 {{% /tab %}}
@@ -175,14 +175,14 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% notice tip %}}Buenaventura adalah pelabuhan utama Kolombia dan menangani sekitar 60% ekspor-impor laut negara itu. Oleh karena itu, jalan menuju pelabuhan ini sering dipenuhi truk kontainer{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}. Kontainer dari {{% goto "https://x.com/one_line_japan" "ONE" %}} juga dapat ditemukan{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg">
+<img src="/rule/cs_america/colombia/aahus_port_container_loading.jpg" alt="Aahus port container loading">
 </div>
 {{% /tab %}}
 {{% tab "Antioquia" %}}
 {{% notice tip %}}Di daerah sekitar Medellín, beberapa tiang listrik memiliki garis hitam dan kuning{{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" />
+<img src="/rule/cs_america/colombia/ar236201.jpg" width="95%" alt="Ar236201" />
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}
@@ -194,7 +194,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/cs_america/colombia/r/bollard.png" width="70px">
+<img src="https://geopinning.space/rule/cs_america/colombia/r/bollard.png" width="70px" alt="Bollard">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -215,7 +215,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% notice tip %}}Stiker bertuliskan CARTAGENA dapat ditemukan. Terkadang juga ada pada atap atau sisi truk{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg">
+<img src="/rule/cs_america/colombia/colombia_kartagena_south_america.jpg" alt="Colombia kartagena south america">
 </div>
 {{% /tab %}}
 {{% tab "Bocachica" %}}
@@ -236,7 +236,7 @@ Pagar kayu di tepi jalan yang dilapisi kawat berduri juga sering terlihat {{% ex
 {{% notice tip %}}Pulau terpencil bernama Pulau Gorgona{{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg">
+<img src="/rule/cs_america/colombia/hotel_in_gorgona.jpg" alt="Hotel in gorgona">
 </div>
 {{% /tab %}}
 {{% tab "Santa Rosalía" %}}

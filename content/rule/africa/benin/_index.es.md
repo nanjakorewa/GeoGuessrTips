@@ -29,7 +29,7 @@ Antigua colonia de {{% goto "../../europe/france/" "Francia" %}}; algunos postes
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Bemb%C3%A9r%C3%A9k%C3%A9.jpg#/media/File:Bemb%C3%A9r%C3%A9k%C3%A9.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bemb%C3%A9r%C3%A9k%C3%A9.jpg" width="96%"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Bemb%C3%A9r%C3%A9k%C3%A9.jpg#/media/File:Bemb%C3%A9r%C3%A9k%C3%A9.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Bemb%C3%A9r%C3%A9k%C3%A9.jpg" width="96%" alt="Bemb%C3%A9r%C3%A9k%C3%A9"></a></p>
 </div>
 
 {{% notice tip %}}

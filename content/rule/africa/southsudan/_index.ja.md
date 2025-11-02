@@ -29,7 +29,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./1083px-Juba_sudan.jpg" width="90%">
+<img src="./1083px-Juba_sudan.jpg" width="90%" alt="1083px Juba sudan">
 </div>
 
 {{% notice tip %}}

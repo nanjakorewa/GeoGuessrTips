@@ -33,8 +33,8 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./r/route_5_ksa_png.jpg" width="200px" style="margin:10px">
-<img src="./r/Saudi_Arabia_-_City_road-356.svg" width="180px" style="margin:10px">
+<img src="./r/route_5_ksa_png.jpg" width="200px" style="margin:10px" alt="Route 5 ksa png">
+<img src="./r/Saudi_Arabia_-_City_road-356.svg" width="180px" style="margin:10px" alt="Saudi Arabia City road 356">
 </div>
 
 {{% /tab %}}

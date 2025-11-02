@@ -44,18 +44,18 @@ sc: [
 トルコ語の看板や標識。Ç、Ş、Ğ、İ、Ö、Üの文字やÜなどの文字の上の「・」が特徴的{{% ex "https://maps.app.goo.gl/nYBPUEit93hrgmpG8" "https://maps.app.goo.gl/V71mMPJZfqPia7si6" "https://maps.app.goo.gl/A9cZFqKEb1rqkbLn6" "https://maps.app.goo.gl/ZZiRKivjRtikoPX2A" %}}。国名の『Türkiye』にも『Ü』が使われている{{% ref "https://www.jetro.go.jp/biznews/2022/06/a577b4d794a96e3c.html" "トルコが国連における国名表記をテュルキエに変更 - JETRO" %}}。{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg">
+<img src="./640px-Dikkat_Ölüm_tehlikesi_20210310_172753.jpg" alt="640px Dikkat Ölüm tehlikesi 20210310 172753">
 </div>
 
 {{% notice tip %}}
 標識の棒に小さな穴がたくさん空いていて反対側が見えることが多い{{% ex "https://maps.app.goo.gl/ycd26ZomcZVsHcrK7" "https://maps.app.goo.gl/dG9U6TXLGmNG3RTF9" "https://maps.app.goo.gl/rzeMaaT7aQSTRhqi7" "https://maps.app.goo.gl/VkjRcVoPZokeDm6B8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-06-16-06-39-55.png" width="350px">
-<img src="2023-06-16-06-36-19.png" width="258px">
+<img src="2023-06-16-06-39-55.png" width="350px" alt="2023 06 16 06 39 55">
+<img src="2023-06-16-06-36-19.png" width="258px" alt="2023 06 16 06 36 19">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="85%" />
+<img src="./pole.png" width="85%" alt="Pole" />
 </div>
 
 
@@ -69,10 +69,10 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#444; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/175104.png" width="150px" style="margin:15px">
-<img src="./r/c1.jpg" width="150px" style="margin:15px">
-<img src="./r/c2.jpg" width="150px" style="margin:15px">
-<img src="./r/ar-bc.jpg" width="110px" style="margin:15px">
+<img src="./r/175104.png" width="150px" style="margin:15px" alt="175104">
+<img src="./r/c1.jpg" width="150px" style="margin:15px" alt="C1">
+<img src="./r/c2.jpg" width="150px" style="margin:15px" alt="C2">
+<img src="./r/ar-bc.jpg" width="110px" style="margin:15px" alt="Ar bc">
 </div>
 
 {{% notice tip %}}
@@ -83,8 +83,8 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Turkish_Stop_Sign.svg" width="120px">
-<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px">
+<img src="./r/Turkish_Stop_Sign.svg" width="120px" alt="Turkish Stop Sign">
+<img src="./r/Turkey_road_sign_B-16.svg" width="190px" style="margin:30px" alt="Turkey road sign B 16">
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ sc: [
 こんな感じの路面が多い{{% ex "https://maps.app.goo.gl/rgxVhwx5M35xr3kc7" "https://maps.app.goo.gl/9FaVARUKRWWeYqpa9" "https://maps.app.goo.gl/Jr6PTgWtX1UUBmW66" "https://maps.app.goo.gl/kTeW4GfdBA5qvBfK8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-surface.jpg">
+<img src="./road-surface.jpg" alt="Road surface">
 </div>
 
 {{% notice tip %}}
@@ -180,7 +180,7 @@ sc: [
 キロメートルマーカーから道路番号が読み取れる{{% ex "https://maps.app.goo.gl/xjAQZs9AdUUSigfg7" %}}{{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "【GeoGuessr】気づきにくい道路番号を読み取る - 狐のいる神社-GeoGuessrとその他" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/km.png" width="200px">
+<img src="./r/km.png" width="200px" alt="Km">
 </div>
 {{% /tab %}}
 {{% tab "市外局番" %}}
@@ -217,7 +217,7 @@ sc: [
 {{% tabs %}}
 {{% tab "ビニールハウス" %}}
 <div class="googlemap-if">
-<img src="./invernadero_pepinos.jpg" width="600">
+<img src="./invernadero_pepinos.jpg" width="600" alt="Invernadero pepinos">
 </div>
 
 {{% notice tip %}}
@@ -230,17 +230,17 @@ sc: [
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if">
-<img src="./Turkey_corn.png" width="600">
+<img src="./Turkey_corn.png" width="600" alt="Turkey corn">
 </div>
 {{% /tab %}}
 {{% tab "綿花" %}}
 <div class="googlemap-if">
-<img src="./Turkey_cotton.jpg" width="600">
+<img src="./Turkey_cotton.jpg" width="600" alt="Turkey cotton">
 </div>
 {{% /tab %}}
 {{% tab "ひまわり" %}}
 <div class="googlemap-if">
-<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600">
+<img src="./Distribution-of-wheat-barley-maize-sunflower-and-cotton-production-in-Turkey-Cities.png" width="600" alt="Distribution of wheat barley maize sunflower and cotton production in Turkey Cities">
 </div>
 
 {{% notice tip %}}
@@ -284,7 +284,7 @@ Tatar, Özgür. "Climate change impacts on crop production in Turkey." (2016).
 上の円形のマークの違いを見る必要がある
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-06-16-06-32-12.png" width="500px">
+<img src="2023-06-16-06-32-12.png" width="500px" alt="2023 06 16 06 32 12">
 </div>
 {{% /tab %}}
 {{% tab "Ankara" %}}

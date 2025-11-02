@@ -38,21 +38,21 @@ sc: [
 Hay bolardos y postes de estilo francés{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}; los postes a veces tienen una placa azul{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/b2.jpg" width="90%">
+<img src="/rule/africa/reunion/b2.jpg" width="90%" alt="B2">
 </div>
 
 {{% notice tip %}}
 Es una isla volcánica; a menudo se ven rocas <span class="quiz">pardo‑rojizas</span> en los bordes de la carretera{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/7DCJup8YyfxmLsMJ6" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/road_volcano_reunion_island.jpg" width="95%">
+<img src="/rule/africa/reunion/road_volcano_reunion_island.jpg" width="95%" alt="Road volcano reunion island">
 </div>
 
 {{% notice tip %}}
 En las zonas llanas abunda la <span class="quiz">caña de azúcar</span>{{% ex "https://maps.app.goo.gl/HbBXG71PjMv8P6Uz6" "https://maps.app.goo.gl/5Se1LGfNqNEUGHm16" %}}{{% ref "https://www.laperruche.fr/ja/sugar-cane/" "la Perruche (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/canne_a_sucre_de.jpg" width="95%">
+<img src="/rule/africa/reunion/canne_a_sucre_de.jpg" width="95%" alt="Canne a sucre de">
 </div>
 
 {{% notice tip %}}

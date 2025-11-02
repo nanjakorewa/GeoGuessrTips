@@ -38,21 +38,21 @@ sc: [
 Lalu lintas di sisi <span class="quiz">kiri</span>, dan kendaraan memiliki plat nomor berwarna <span class="quiz">kuning</span> di belakangnya{{% ex "https://maps.app.goo.gl/CREz2ekXtuwWXDdo9" "https://maps.app.goo.gl/HAGMLSK3TnfMq4FH7" "https://maps.app.goo.gl/MA9yacNwrN2yVhj27" %}}. Plat berwarna putih juga sering ditemukan.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/uganda/640px-Boda-Boda-Uganda.jpg" width="600px">
+<img src="/rule/africa/uganda/640px-Boda-Boda-Uganda.jpg" width="600px" alt="640px Boda Boda Uganda">
 </div>
 
 {{% notice tip %}}
 Van dengan garis biru muda adalah taksi (atau angkutan umum) yang sering ditemukan di jalanan{{% ex "https://maps.app.goo.gl/pXdiseRCedK8Tj8aA" "https://maps.app.goo.gl/fGH4diYE1qJHm2VVA" "https://maps.app.goo.gl/L5r9rGxZArPVEU4j8" %}}{{% by "https://www.iasu.kyoto-u.ac.jp/wp-content/uploads/2016/02/b69ec2c58b244150da65713564e96594.pdf" "web" "Posisi Ekonomi dan Sosial Boda-Boda di Kota Uganda" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/640px-Taxis_in_Kampala.jpg" width="600px">
+<img src="/rule/africa/uganda/640px-Taxis_in_Kampala.jpg" width="600px" alt="640px Taxis in Kampala">
 </div>
 
 {{% notice tip %}}
 Rumah-rumah biasanya terbuat dari kayu atau bata{{% ex "https://maps.app.goo.gl/MoXXCpsD2RjGFDvXA" "https://maps.app.goo.gl/wE9Ewg24QnwFRoSQ8" %}}, dan tanah berwarna merah kecoklatan tersebar di sekitar kota{{% ex "https://maps.app.goo.gl/5C2Qd2sY1wCh1zQP6" "https://maps.app.goo.gl/zuaA9cw3xtT9kdhLA" "https://maps.app.goo.gl/pQSSM9pCPPBnnXuK6" "https://maps.app.goo.gl/MQVK3eDyoGdbPYTs7" "https://maps.app.goo.gl/upzt1w6aVhMac2nt8" %}}{{% ref "https://farmpro.jp/230714-2/" "Mengenal Tanah Uganda" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/uganda/house.jpg" width="600px">
+<img src="/rule/africa/uganda/house.jpg" width="600px" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -81,7 +81,7 @@ Terdapat tanda 笘 pada tiang listrik.
 Pohon unik sering terlihat di taman nasional{{% ex "https://maps.app.goo.gl/pBUVTmyj1bbSiP6W9" "https://maps.app.goo.gl/nWs4K4wcRTi8GQG39" "https://maps.app.goo.gl/gdmJFwDVwgoTmk1m7" "https://maps.app.goo.gl/mceXqZtE6CkMEuLe6" %}}. Pohon ini dikenal dengan nama Euphorbia ingens.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/uganda/euphorbia_ingens_zimbabwe.jpg">
+<img src="/rule/africa/uganda/euphorbia_ingens_zimbabwe.jpg" alt="Euphorbia ingens zimbabwe">
 </div>
 
 {{% /tab %}}

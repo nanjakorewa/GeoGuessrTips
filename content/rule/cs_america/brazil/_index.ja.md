@@ -48,21 +48,21 @@ sc: [
 言語は<span class="quiz">ポルトガル</span>語であり「<span class="quiz">Ã・ã</span>」の文字が特徴的
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./st/Placa_rod_f_dias.png"width="440xp">
+<img src="./st/Placa_rod_f_dias.png"width="440xp" alt="Placa rod f dias">
 </div>
 
 {{% notice tip %}}
 標識の裏側が<span class="quiz">黒い</span>ものが多い（背景画像は<a href="https://commons.wikimedia.org/w/index.php?curid=57310907">こちら</a>のものを使用, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>）。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./traffic-sign-example.png" width="90%">
+<img src="./traffic-sign-example.png" width="90%" alt="Traffic sign example">
 </div>
 
 {{% notice tip %}}
 家のアンテナが特徴的で<span class="quiz">透明</span>なパラボラアンテナを使う{{% ex "https://maps.app.goo.gl/ubF9PiZD6E8GMoeX9" %}}。ただしこれだけでは確定できない。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./house.jpg" width="95%">
+<img src="./house.jpg" width="95%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -83,12 +83,12 @@ By Olympiobr - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0
 南米石油最大手ペトロブラスのロゴがある{{% ex "https://maps.app.goo.gl/cJe6T4aHWunv8F2v6" "https://maps.app.goo.gl/RFuzJCo28umwUEDZ8" "https://maps.app.goo.gl/LCqtdRB2p5Es4f4w6" %}}{{% ref "https://www.investidorpetrobras.com.br/en/" "Petrobras" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./petrobras_no_b_laranjeiras.jpg" width="95%">
+<img src="./petrobras_no_b_laranjeiras.jpg" width="95%" alt="Petrobras no b laranjeiras">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px">
-<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px">
+<img src="./cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Petrobras horizontal logo">
+<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Banco Ita%C3%BA logo">
 </div>
 
 
@@ -100,8 +100,8 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-13-03-04-56.png" >
-<img src="2023-06-13-03-05-06.png" >
+<img src="2023-06-13-03-04-56.png" alt="2023 06 13 03 04 56">
+<img src="2023-06-13-03-05-06.png" alt="2023 06 13 03 05 06">
 </div>
 
 
@@ -110,7 +110,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./pole.jpg" width="90%" />
+<img src="./pole.jpg" width="90%" alt="Pole" />
 </div>
 
 {{% notice tip %}}
@@ -146,7 +146,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./banco_itau_agencia_leblon.jpg" width="95%">
+<img src="./banco_itau_agencia_leblon.jpg" width="95%" alt="Banco itau agencia leblon">
 </div>
 {{% /tab %}}
 {{% tab "w-mymemo-wrong-cn" %}}
@@ -188,7 +188,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rodovia_br460_carmo_de.jpg" width="95%">
+<img src="./rodovia_br460_carmo_de.jpg" width="95%" alt="Rodovia br460 carmo de">
 </div>
 {{% /tab %}}
 {{% tab "Florianópolis周辺" %}}
@@ -225,7 +225,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% tab "植生" %}}
 
 <div class="googlemap-if">
-<div class="unclickable"><img src="2023-04-27-08-27-15.png" /></div>
+<div class="unclickable"><img src="2023-04-27-08-27-15.png" alt="2023 04 27 08 27 15" /></div>
 <div class="googlemap-if" style="font-size:0.8em;">画像出典：By Brazil Travel, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=53887697">Wikimedia Commons</a></div>
 </div>
 {{% /tab %}}
@@ -307,7 +307,7 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /tab %}}
 {{% tab "ババス" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-07-20-45-47.png" />
+<img src="2023-05-07-20-45-47.png" alt="2023 05 07 20 45 47" />
 </div>
 
 {{% notice tip %}}
@@ -358,7 +358,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 尖った山が見える{{% ex "https://maps.app.goo.gl/HceMQgFFMU1qne6F7" "https://maps.app.goo.gl/H2yXuGv4nBmaVS4u8" %}}。青いバギーに乗っている区間もある{{% ex "https://maps.app.goo.gl/apYqZMb9C87pDxnU8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilhagrande_abraao1.jpg" width="95%">
+<img src="./ilhagrande_abraao1.jpg" width="95%" alt="Ilhagrande abraao1">
 </div>
 {{% /tab %}}
 {{% tab "Fernando de Noronha" %}}
@@ -366,7 +366,7 @@ Syagrus coronataはペルナンブコ州の南部からバイーア州に分布�
 電柱に穴が開いている。岩場が多く船に乗る場所もある。凄く特徴的な岩があるのでそれで分かるかも{{% ex "https://maps.app.goo.gl/zzxEWb4qMUtnCcBx6" "https://maps.app.goo.gl/Pj2zncp3LitsB5NJ8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./brazil_1091369.jpg" width="95%">
+<img src="./brazil_1091369.jpg" width="95%" alt="Brazil 1091369">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

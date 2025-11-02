@@ -37,7 +37,7 @@ Postes de estilo francés, banderas tricolores, casas coloridas y un terreno lla
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/saint-pierre-miquelon/arena_for_that_basque.jpg" width="95%">
+<img src="/rule/n_america/saint-pierre-miquelon/arena_for_that_basque.jpg" width="95%" alt="Arena for that basque">
 </div>
 
 {{% notice tip %}}El coche de Google se reconoce fácilmente{{% ex "https://maps.app.goo.gl/vLe5GPWMZMtNiHRu9" %}}{{% /notice %}}

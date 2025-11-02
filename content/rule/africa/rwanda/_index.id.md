@@ -110,7 +110,7 @@ Salah satu dari lima danau besar Afrika {{% ex "https://maps.app.goo.gl/sU2kpL1u
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/rwanda/home_st_jean_view.jpg" width="90%">
+<img src="/rule/africa/rwanda/home_st_jean_view.jpg" width="90%" alt="Home st jean view">
 </div>
 
 {{% /tab %}}
@@ -185,8 +185,8 @@ Di Kigali motor sangat umum, dan arus kendaraan <span class="quiz">kanan</span> 
 Gerai uang digital <span class="quiz">MTN</span> dan Airtel sering ditemui di jalan.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/rwanda/New-mtn-logo.jpg" width="45%" style="margin-right:10px">
-<img src="/rule/africa/rwanda/Logo_Canal+_1995.svg" width="30%" style="margin-left:10px">
+<img src="/rule/africa/rwanda/New-mtn-logo.jpg" width="45%" style="margin-right:10px" alt="New mtn logo">
+<img src="/rule/africa/rwanda/Logo_Canal+_1995.svg" width="30%" style="margin-left:10px" alt="Logo Canal+ 1995">
 </div>
 
 {{% /tab %}}

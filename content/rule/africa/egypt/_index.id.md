@@ -30,9 +30,9 @@ plonkit: true
 Landmark wisata seperti <span class="quiz">Piramida</span>{{% ex "https://maps.app.goo.gl/8rrMqFYeptabCejP6" %}} dan <span class="quiz">Benteng Qaitbay</span>{{% ex "https://maps.app.goo.gl/z8t87qBct5QeRX186" %}} cukup umum. Arsitektur Mesir sering menekankan <span class="quiz">simetri</span> dan tata letak poros panjang, dengan banyak bangunan dari bata lumpur dan batu{{% ex "https://maps.app.goo.gl/xoj4jyQPmvpUDNKH8" "https://maps.app.goo.gl/PDbWvY5xbopNh8Fd8" %}}{{% ref "https://www.news-digest.co.uk/news/index.php?cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "Tentang simetri dalam arsitektur Mesir (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/egypt/egypt_ancient_archeology_pyramid_0.jpg" width="600px">
-<img src="/rule/africa/egypt/qaitbay_citadel.jpg" width="334px">
-<img src="/rule/africa/egypt/copticquarter.jpg" width="266px">
+<img src="/rule/africa/egypt/egypt_ancient_archeology_pyramid_0.jpg" width="600px" alt="Egypt ancient archeology pyramid 0">
+<img src="/rule/africa/egypt/qaitbay_citadel.jpg" width="334px" alt="Qaitbay citadel">
+<img src="/rule/africa/egypt/copticquarter.jpg" width="266px" alt="Copticquarter">
 </div>
 
 {{% notice tip %}}

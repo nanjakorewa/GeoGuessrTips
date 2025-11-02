@@ -47,7 +47,7 @@ sc: [
 Mobil melaju di <span class="quiz">sebelah kiri</span>{{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}. Jalanan dan rambu lalu lintas juga berada di sisi kiri.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%">
+<img src="/rule/oceania/australia/landscape_rural_farming_sugar.jpg" width="95%" alt="Landscape rural farming sugar">
 </div>
 
 {{% notice tip %}}
@@ -61,30 +61,30 @@ Banyak pohon <span class="quiz">eukaliptus</span>. Tiang listrik biasanya terbua
 Bollard di Australia memiliki reflektor merah di satu sisi saja, dengan area merah yang lebih kecil dibandingkan di Selandia Baru{{% ex "https://maps.app.goo.gl/m3hGyoS5R2qaVR2P9" "https://maps.app.goo.gl/NKbGDe7paHKkTRNz8" "https://goo.gl/maps/v6FL4LSewk8t8bLm7" "https://goo.gl/maps/eU7qvxCoZe78hXsn7" "https://goo.gl/maps/dLQRcZqo4CaeSgef7" %}}. Kiri adalah <span class="quiz">Australia</span>, kanan adalah <span class="quiz">Selandia Baru</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/bollard.jpg" width="90%">
+<img src="/rule/oceania/australia/bollard.jpg" width="90%" alt="Bollard">
 </div>
 
 {{% notice tip %}}
 Font nomor jalan di Australia berbeda dengan di Afrika Selatan. Kiri adalah <span class="quiz">Afrika Selatan</span>, kanan adalah <span class="quiz">Australia</span>. Nama tempat di {{% goto "../../africa/south-africa/" "Afrika Selatan" %}} sering kali memiliki huruf "oo" atau "ee", dan rambu-rambunya cenderung berbentuk kotak, sehingga mudah dikenali.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="https://geopinning.space/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+<img src="https://geopinning.space/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="M4">
+<img src="https://geopinning.space/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%">
+<img src="/rule/oceania/australia/2023-08-03-02-54-05.png" width="80%" alt="2023 08 03 02 54 05">
 </div>
 
 {{% notice tip %}}
 Di Australia, tanda kecepatan sering ditulis pada pelat putih yang panjang{{% ex "https://maps.app.goo.gl/riMLdNVx6gZS1a8v9" "https://maps.app.goo.gl/7RV1VEPBjY8QytVu6" %}}. Gambar di bawah: kiri adalah <span class="quiz">Australia</span>, kanan adalah <span class="quiz">Selandia Baru</span>. Selain itu, jika tulisan GIVE WAY menggunakan huruf hitam, itu adalah <span class="quiz">Australia</span>{{% ex "https://maps.app.goo.gl/gwfm8xdCN3Zgp6D2A" %}}, sementara jika hurufnya merah, itu adalah <span class="quiz">Selandia Baru</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" class="margin-ten-px width100" />
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0"/>
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" />
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" class="margin-ten-px width100" alt="AU speed limit" />
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" alt="Australia road sign R1 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0" alt="New Zealand road sign R2 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" alt="NZ speedlimit" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100" alt="New Zealand road sign R2 2" />
 </div>
 
 {{% /tab %}}
@@ -125,7 +125,7 @@ Peta ekosistem umum di sekitar Australia. (Sumber: By Terpsichores - Own work, <
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" />
+<img src="/rule/oceania/australia/2023-04-28-23-57-39.png" alt="2023 04 28 23 57 39" />
 </div>
 {{% /tab %}}
 {{% tab "Pesisir Barat" %}}
@@ -193,7 +193,7 @@ Bentuk serupa juga ditemukan di Kepulauan Furneaux{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%">
+<img src="/rule/oceania/australia/spring_street_sheffield_20070422.jpg" width="95%" alt="Spring street sheffield 20070422">
 </div>
 {{% /tab %}}
 {{% tab "QLD (Queensland)" %}}
@@ -231,7 +231,7 @@ Bentuk serupa juga ditemukan di Kepulauan Furneaux{{% ex "https://maps.app.goo.g
 {{% tabs %}}
 {{% tab "Tiang Kuning" %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%">
+<img src="/rule/oceania/australia/yellow-pole.jpg" width="95%" alt="Yellow pole">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -245,7 +245,7 @@ VicRoads adalah badan usaha pemerintah di negara bagian Victoria, Australia{{% b
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" />
+<img src="/rule/oceania/australia/VicRoads_Logo_2009.gif" width="200px" alt="VicRoads Logo 2009" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

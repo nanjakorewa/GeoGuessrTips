@@ -38,7 +38,7 @@ Las zonas con mucha nieve utilizan <span class="quiz">flechas suspendidas</span>
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/tohoku/hokkaido/Kōnomai02.jpg" width="80%">
+<img src="/rule/asia/japan/tohoku/hokkaido/Kōnomai02.jpg" width="80%" alt="Kōnomai02">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ Las zonas con mucha nieve utilizan <span class="quiz">flechas suspendidas</span>
 En los arcenes crecen grandes colonias de fuki (Petasites japonicus). La planta existe en otras prefecturas, pero rara vez en tal abundancia.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/komon03.jpg">
+<img src="/rule/asia/japan/tohoku/hokkaido/komon03.jpg" alt="Komon03">
 </div>
 {{% /tab %}}
 {{% tab "Postes" %}}
@@ -57,7 +57,7 @@ Los postes muestran grandes números verticales, un detalle sencillo de identifi
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="120px">
+<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="120px" alt="Pole hokkaido">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ Detectar un <span class="quiz">Seicomart</span> confirma que estás dentro de la
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/tohoku/hokkaido/Akan_bus_Akan01.jpg" width="80%">
+<img src="/rule/asia/japan/tohoku/hokkaido/Akan_bus_Akan01.jpg" width="80%" alt="Akan bus Akan01">
 </div>
 
 
@@ -92,7 +92,7 @@ En algunos cruces se instalan <span class="quiz">cajas de arena</span> para mejo
 
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/960px-Sandbox02.jpg">
+<img src="/rule/asia/japan/tohoku/hokkaido/960px-Sandbox02.jpg" alt="960px Sandbox02">
 </div>
 
 {{% /tab %}}
@@ -102,7 +102,7 @@ En algunos cruces se instalan <span class="quiz">cajas de arena</span> para mejo
 Hokkaidō cuenta con señales poco comunes en el resto de Japón{{% ex "https://maps.app.goo.gl/6R9bUhSauoZT8RsX9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/Japanese_road_sign_406-2.svg" width="250px">
+<img src="/rule/asia/japan/tohoku/hokkaido/Japanese_road_sign_406-2.svg" width="250px" alt="Japanese road sign 406 2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

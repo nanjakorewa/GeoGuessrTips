@@ -41,7 +41,7 @@ sc: [
 
 <div class="googlemap-if no-margin">
 
-<img src="kmc3.jpg" width="90%">
+<img src="kmc3.jpg" width="90%" alt="Kmc3">
 </div>
 
 
@@ -65,7 +65,7 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="dalhousie3.jpg" width="80%">
+<img src="dalhousie3.jpg" width="80%" alt="Dalhousie3">
 </div>
 
 {{% notice tip %}}
@@ -87,10 +87,10 @@ Pinus roxburghii（ヒマラヤマツ）が多く生えている{{% ex "https://
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px">
-<img src="./r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px">
-<img src="./r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px">
-<img src="./r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px">
+<img src="./r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="Nepal road sign C27">
+<img src="./r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="Nepal road sign D3">
+<img src="./r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="Nepal road sign B13 L1">
+<img src="./r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="Nepal road sign A22 40">
 </div>
 
 
@@ -134,7 +134,7 @@ Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./SAHAMATI_working_area_2012-2013.jpg" width="90%">
+<img src="./SAHAMATI_working_area_2012-2013.jpg" width="90%" alt="SAHAMATI working area 2012 2013">
 </div>
 
 
@@ -145,7 +145,7 @@ Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%">
+<img src="./Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%" alt="Chure Range Chure Hills Chure Region Nepal">
 </div>
 
 
@@ -168,7 +168,7 @@ Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./areca_catechu_sankyo_garden.jpg" width="50%">
+<img src="./areca_catechu_sankyo_garden.jpg" width="50%" alt="Areca catechu sankyo garden">
 </div>
 
 
@@ -210,7 +210,7 @@ Kurta Suruwalと呼ばれる伝統的な衣装を着ている人が多い{{% ref
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%">
+<img src="1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="1230px A night view of Namche Bazaar in Nepal, photographed on the route to the Everest Base Camp trek, December 1, 2023">
 </div>
 
 {{% /tab %}}

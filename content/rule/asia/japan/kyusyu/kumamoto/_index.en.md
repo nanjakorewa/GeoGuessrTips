@@ -28,7 +28,7 @@ Red tape is wrapped around the posts of signs and billboards.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kumamoto/kumamoto_pref_road_28_0.jpg" width="90%">
+<img src="/rule/asia/japan/kyusyu/kumamoto/kumamoto_pref_road_28_0.jpg" width="90%" alt="Kumamoto pref road 28 0">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ Look for Kyushu Electric Power pole plates.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
 </div>
 
 {{% /tab %}}
@@ -59,7 +59,7 @@ After TSMC announced its new plant, an enormous number of semiconductor supplier
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/kumamoto/2025-01-04-13-51-49.png">
+<img src="/rule/asia/japan/kyusyu/kumamoto/2025-01-04-13-51-49.png" alt="2025 01 04 13 51 49">
 </div>
 
 {{% /tab %}}

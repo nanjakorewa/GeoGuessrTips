@@ -31,7 +31,7 @@ Samarkand Blue tiles—brilliant turquoise mosaics—decorate mosques and madras
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/uzbekistan/shohizinda_necropolis_samarkand_196892.jpg" width="95%">
+<img src="/rule/asia/uzbekistan/shohizinda_necropolis_samarkand_196892.jpg" width="95%" alt="Shohizinda necropolis samarkand 196892">
 </div>
 
 {{% notice tip %}}

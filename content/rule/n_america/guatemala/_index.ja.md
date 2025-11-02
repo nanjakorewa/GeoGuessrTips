@@ -36,7 +36,7 @@ sc: [
 バスが派手で、屋根の上にも荷物を乗せるためのバーが付いている{{% ex "https://maps.app.goo.gl/wmuD1XzwFinYqRgo7" "https://maps.app.goo.gl/tNAVU7Wj5oB61iiZ9" %}}。チキンバスはスペイン語でla camioneta、la burra、またはel busとも。バスでニワトリや動物を運ぶことがあるためチキンバスと呼ぶらしい。屋根の上に荷物を載せるためのスペースがある場合もある。{{% ref "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/" "A Traveler’s Guide to the Chicken Bus in Guatemala" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./chicken_bus2.jpg" width="590px">
+<img src="./chicken_bus2.jpg" width="590px" alt="Chicken bus2">
 </div>
 
 {{% notice tip %}}
@@ -77,7 +77,7 @@ Google Carが特徴的{{% ex "https://maps.app.goo.gl/4jHmHcLvoDUfe65q6" %}}
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-27-19-08-14.png" width="95%" />
+<img src="2023-05-27-19-08-14.png" width="95%" alt="2023 05 27 19 08 14" />
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./livingston_guatemala.jpg" width="95%">
+<img src="./livingston_guatemala.jpg" width="95%" alt="Livingston guatemala">
 </div>
 
 {{% /tab %}}
@@ -116,7 +116,7 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Castillo_De_San_Felipe.jpg" width="90%" />
+<img src="Castillo_De_San_Felipe.jpg" width="90%" alt="Castillo De San Felipe" />
 </div>
 
 {{% /tab %}}
@@ -127,8 +127,8 @@ Lívingstonに直接アクセスできる陸路は存在しない。ヤシの木
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="guatemala_tikal_maya_civilization.jpg" width="90%">
-<img src="mayan_pyramid_guatemala.jpg" width="90%" />
+<img src="guatemala_tikal_maya_civilization.jpg" width="90%" alt="Guatemala tikal maya civilization">
+<img src="mayan_pyramid_guatemala.jpg" width="90%" alt="Mayan pyramid guatemala" />
 </div>
 
 {{% /tab %}}

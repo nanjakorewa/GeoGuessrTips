@@ -38,8 +38,8 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../pole/pole-tohoku.png" width="220px">
-<img src="../pole/pole-hokkaido.png" width="95px">
+<img src="../pole/pole-tohoku.png" width="220px" alt="Pole tohoku">
+<img src="../pole/pole-hokkaido.png" width="95px" alt="Pole hokkaido">
 </div>
 
 {{% /tab %}}

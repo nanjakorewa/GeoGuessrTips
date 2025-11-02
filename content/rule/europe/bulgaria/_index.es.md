@@ -43,8 +43,8 @@ sc: [
 
 {{% notice tip %}}Las señales con nombres de pueblos casi siempre aparecen solo en búlgaro. {{% ex "https://maps.app.goo.gl/tHfoNLBNP3xz2GH28" "https://maps.app.goo.gl/5LRRf3mwy74PnESd9" "https://maps.app.goo.gl/RYjX4zzygF1NGEHu8" "https://maps.app.goo.gl/F54gjPMD35WQWyPX9" "https://maps.app.goo.gl/sPPQQZw853Vq9KFdA" %}}{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/2023-07-23-10-25-46.png" width="278px"/>
-<img src="/rule/europe/bulgaria/2023-07-23-10-23-12.png" width="310px"/>
+<img src="/rule/europe/bulgaria/2023-07-23-10-25-46.png" width="278px" alt="2023 07 23 10 25 46" />
+<img src="/rule/europe/bulgaria/2023-07-23-10-23-12.png" width="310px" alt="2023 07 23 10 23 12" />
 </div>
 
 {{% notice tip %}}La señal de paso de peatones lleva <span class="quiz">cuatro</span> franjas. {{% ex "https://maps.app.goo.gl/JaXHfF11gy8bVNKo9" %}}{{% /notice %}}
@@ -55,13 +55,13 @@ sc: [
 {{% notice tip %}}Abundan los tejados de teja rojiza con chimeneas. {{% ex "https://maps.app.goo.gl/uZyJXDKDpMm4dnXTA" %}} Las tejas de la foto también son típicas. {{% ex "https://maps.app.goo.gl/V2zNU643L9gUj6Ha9" "https://maps.app.goo.gl/Ja1uWGucQaWgdTPc7" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/bulgaria/bulgaria_village_cart_wooden.jpg" width="640">
-<img src="/rule/europe/bulgaria/houses_old_home_residences.jpg" width="640">
+<img src="/rule/europe/bulgaria/bulgaria_village_cart_wooden.jpg" width="640" alt="Bulgaria village cart wooden">
+<img src="/rule/europe/bulgaria/houses_old_home_residences.jpg" width="640" alt="Houses old home residences">
 </div>
 
 {{% notice tip %}}{{% goto "../baltic-state/latvia/" "Letonia" %}} también usa postes con ganchos como los que verás aquí. {{% ex "https://maps.app.goo.gl/8m7JbzZdDwwVNjCz9" "https://maps.app.goo.gl/sQhccN4PyNa8xxBw6" "https://maps.app.goo.gl/ZGgUAeM2gDLMR56JA" %}}{{% by "niwaisound" "twitch" %}} Muchos postes llevan una franja negra con texto cirílico. {{% ex "https://goo.gl/maps/HcXdAMs9juSPRBgs5" "https://goo.gl/maps/qpCkTNg7Sj3aA81s8" "https://goo.gl/maps/FZCAvF2t569AqtKL8" %}}{{% imref "Fuente de la foto del poste (abajo a la derecha)" %}}{{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/bulgaria/bulgaria-road.png" width="90%">
+<img src="/rule/europe/bulgaria/bulgaria-road.png" width="90%" alt="Bulgaria road">
 </div>
 
 {{% notice tip %}}Las torres metálicas y postes inclinados, como los de la foto, son habituales. {{% ex "https://maps.app.goo.gl/M7zy6gcCFa5VLhuJ8" "https://maps.app.goo.gl/fXuXA6dmWeRTnjJi9" "https://maps.app.goo.gl/CrKQLeKWt7sjcEVdA" %}}{{% /notice %}}
@@ -72,7 +72,7 @@ sc: [
 
 {{% notice tip %}}Las paradas de autobús a menudo lucen los colores nacionales (blanco, verde y rojo). {{% ex "https://maps.app.goo.gl/fxDgMHesok5YBz757" "https://maps.app.goo.gl/FWDuAZ1d4TQW4GT97" "https://maps.app.goo.gl/rWYn5pCjJxdF3Qci9" %}}{{% /notice %}}
 <div class="googlemap-if">
-<img src="./bulgaria-busstop.png" width="90%">
+<img src="./bulgaria-busstop.png" width="90%" alt="Bulgaria busstop">
 </div>
 
 {{% notice note %}}Los tranvías solo circulan en Sofía. {{% ex "https://maps.app.goo.gl/TADYrGAgs1k8jZ1RA" "https://maps.app.goo.gl/4M6GPjtzdMugyNhx8" %}}{{% /notice %}}
@@ -81,13 +81,13 @@ sc: [
 {{% tab "w-trash" %}}
 {{% notice tip %}}Las filas de contenedores metálicos brillantes son una buena pista. {{% ex "https://maps.app.goo.gl/su9FpsxH18tEXqwv8" "https://maps.app.goo.gl/D8Mq2pu8EXA1Wcab9" "https://maps.app.goo.gl/ZxcmnmMXjdp5rYxJ7" "https://maps.app.goo.gl/3qk7Aq7CePKus6db8" %}}{{% /notice %}}
 <div class="googlemap-if">
-<img src="./trash.jpg" width="90%">
+<img src="./trash.jpg" width="90%" alt="Trash">
 </div>
 {{% /tab %}}
 {{% tab "w-utility" %}}
 {{% notice tip %}}Fíjate en los avisos en cirílico sobre franjas negras; son muy propios de Bulgaria.{{% /notice %}}
 <div class="googlemap-if">
-<img src="./utility.jpg" width="90%">
+<img src="./utility.jpg" width="90%" alt="Utility">
 </div>
 {{% /tab %}}
 {{% tab "w-food" %}}
@@ -135,14 +135,14 @@ Algunas tiendas muestran fuentes búlgaras antiguas o rótulos cirílicos estili
 {{% notice tip %}}Este lugar engaña con facilidad; es fácil pensar en otro país. {{% ex "https://maps.app.goo.gl/w4qd5FxyBLRM3AK66" "https://maps.app.goo.gl/3HuuxzJLRf9yuTDt9" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/bulgaria/belmeken_001.jpg">
+<img src="/rule/europe/bulgaria/belmeken_001.jpg" alt="Belmeken 001">
 </div>
 {{% /tab %}}
 {{% tab "Monte Botev" %}}
 {{% notice tip %}}Otra localización difícil incluida en {{% goto "https://www.geoguessr.com/maps/652ba0d9002aa0d36f996153" "An official world" %}}; recuerda la torre cerca de la cumbre. {{% ex "https://maps.app.goo.gl/iF9gBiPJpdNe9zom8" "https://maps.app.goo.gl/wYCvRTPbyt1CcRzd9" %}}{{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/bulgaria/botev_peak.jpg">
+<img src="/rule/europe/bulgaria/botev_peak.jpg" alt="Botev peak">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

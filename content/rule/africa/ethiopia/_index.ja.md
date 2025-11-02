@@ -31,7 +31,7 @@ is_unofficial: true
 アムハラ語（አማርኛ）が看板などで使用されている。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg">
+<img src="./640px-EthiopianOrthodoxChurchsignHouston.jpg" alt="640px EthiopianOrthodoxChurchsignHouston">
 </div>
 
 {{% notice tip %}}

@@ -55,7 +55,7 @@ License plates appears to be divided into two parts depending on how the mosaic 
 </div>
 
 {{% lb 50 large %}}
-<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" />
+<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" alt="2023 05 04 12 38 44" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}

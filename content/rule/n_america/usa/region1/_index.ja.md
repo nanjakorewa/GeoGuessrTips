@@ -32,7 +32,7 @@ jogmec_detail: true
 ウェストバージニア州、とくに北西部は貧困率が高い。廃墟やしまった店が多く見つかる{{% ex "https://maps.app.goo.gl/v2LY2CDG9jCSmYhx5" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="this_housing_in_smithers_0.jpg">
+<img src="this_housing_in_smithers_0.jpg" alt="This housing in smithers 0">
 </div>
 {{% /tab %}}
 {{% tab "B.標識" %}}

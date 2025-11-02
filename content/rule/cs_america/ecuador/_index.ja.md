@@ -51,7 +51,7 @@ sc: [
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%" />
+<img src="./road.jpg" width="90%" alt="Road" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
 By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59638337">Link</a>, 画像加工あり
@@ -61,7 +61,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 エクアドルのガードレールは<b>二重になっている</b>ことが多い{{% ex "https://maps.app.goo.gl/f7wMb35jA6B4zsM28" "https://goo.gl/maps/w8dhJQMasvJLzpAb6" %}}{{% by %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="540px-Banos-Puyo.jpg">
+<img src="540px-Banos-Puyo.jpg" alt="540px Banos Puyo">
 </div>
 
 
@@ -71,7 +71,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="pole.jpg" width="95%" />
+<img src="pole.jpg" width="95%" alt="Pole" />
 </div>
 
 
@@ -81,7 +81,7 @@ By Paulo JC Nogueira, <a href="https://creativecommons.org/licenses/by-sa/3.0" t
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./palanda_ecuador_truck.jpg" width="90%">
+<img src="./palanda_ecuador_truck.jpg" width="90%" alt="Palanda ecuador truck">
 </div>
 
 {{% lb 50 %}}
@@ -170,7 +170,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 赤い丸の箇所にはアブラヤシのプランテーションがある。特にコロンビア国境付近の道{{% ex "https://goo.gl/maps/aWQrEhs55RsZabZ88" "https://goo.gl/maps/D3bAczxoAjnBUJp97" %}}やE20の道路{{% ex "https://goo.gl/maps/XgSEBQ8JufXt9Yjh9" "https://goo.gl/maps/hAz7KDr785jJ3Gs36" %}}は木が多い。{{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=EC" "USDA - International Production Assessment Division Reports" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-23-04-26-04.png" width="90%">
+<img src="2023-05-23-04-26-04.png" width="90%" alt="2023 05 23 04 26 04">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Ecuador_Rice.png" width="90%">
+<img src="Ecuador_Rice.png" width="90%" alt="Ecuador Rice">
 </div>
 {{% /tab %}}
 {{% tab "バナナ" %}}
@@ -188,7 +188,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 平地の多い地域でバナナのプランテーションが見つかる{{% ex "https://maps.app.goo.gl/wZYWti7U3ekfCimy8" %}}{{% ref "https://www.banabiosa.com/ecuadorian-banana-growing-regions/" "EcuadoriaN BananA RegionS" %}}。Los Ríos (37.14%)・Guayas (32.25%)・El Oro (24,12%)の割合。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="640px-Culture_de_bananes.jpg" width="90%">
+<img src="640px-Culture_de_bananes.jpg" width="90%" alt="640px Culture de bananes">
 </div>
 
 {{% /tab %}}
@@ -198,7 +198,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rue_de_riobamba.jpg" width="500">
+<img src="./rue_de_riobamba.jpg" width="500" alt="Rue de riobamba">
 </div>
 {{% /tab %}}
 
@@ -218,7 +218,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Zcarstvnz" title="User:Zcarstvnz">
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pichincha1a.jpg" width="95%" >
+<img src="./pichincha1a.jpg" width="95%" alt="Pichincha1a">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

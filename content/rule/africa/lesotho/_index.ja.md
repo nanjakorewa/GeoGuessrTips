@@ -34,7 +34,7 @@ sc: [
 ドラケンスバーグ山脈の中に国が存在し全体的に標高が高く<span class="quiz">ごつごつした隆起や上が平らな山が多い</span>{{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}。草は生えていて羊や牛などの牧畜がたまに見える。{{% goto "../eswatini/" "エスワティニ" %}}も標高が高い場所があるがエスワティニの標高が高い場所では林業が盛んで木が多い。一方でレソトは木が生えていないことが多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mountain.jpg" width="90%" />
+<img src="./mountain.jpg" width="90%" alt="Mountain" />
 </div>
 
 {{% notice tip %}}
@@ -49,7 +49,7 @@ sc: [
 {{% goto "../eswatini/" "エスワティニ" %}}と比較すると草の長さは非常に短いことが多い{{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./lesotho_mountains_scenic_green.jpg" width="90%">
+<img src="./lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho mountains scenic green">
 </div>
 
 {{% /tab %}}

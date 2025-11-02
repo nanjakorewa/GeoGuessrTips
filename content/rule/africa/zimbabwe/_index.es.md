@@ -27,7 +27,7 @@ is_unofficial: true
 鮟・牡縺玖ｵ､濶ｲ縺ｮ繝翫Φ繝舌・繝励Ξ繝ｼ繝医・
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/zimbabwe/transport_bus_overloaded_zimbabwe.jpg" width="90%">
+<img src="/rule/africa/zimbabwe/transport_bus_overloaded_zimbabwe.jpg" width="90%" alt="Transport bus overloaded zimbabwe">
 </div>
 
 {{% notice tip %}}
@@ -38,8 +38,8 @@ STOP縺ｮ讓呵ｭ倥′迢ｬ迚ｹ・溷商縺・ョ繧ｶ繧､繝ｳ繧峨�
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/africa/zimbabwe/r/Stop_sign_in_Zimbabwe.svg" width="120px" style="margin-right:10px">
-<img src="/rule/africa/zimbabwe/r/Zimbabwe_school_crossing_sign.svg" width="120px" style="margin-left:10px">
+<img src="/rule/africa/zimbabwe/r/Stop_sign_in_Zimbabwe.svg" width="120px" style="margin-right:10px" alt="Stop sign in Zimbabwe">
+<img src="/rule/africa/zimbabwe/r/Zimbabwe_school_crossing_sign.svg" width="120px" style="margin-left:10px" alt="Zimbabwe school crossing sign">
 </div>
 
 

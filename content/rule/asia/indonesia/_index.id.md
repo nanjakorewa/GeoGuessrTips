@@ -52,7 +52,7 @@ Di depan rumah atau sepanjang jalan sering terlihat bendera berbentuk <span clas
 Atap rumah sering menggunakan genteng{{% ex "https://maps.app.goo.gl/U2HCP3pi4acVz8Sh7" "https://maps.app.goo.gl/ZYHgQLzqLhZ3z5h8A" %}} atau seng{{% ex "https://maps.app.goo.gl/K28C4C6htnALA5ti7" "https://maps.app.goo.gl/nvEZz49vQTwt8MNY9" %}}, dengan persentase penggunaan seng lebih tinggi di wilayah utara.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/indonesia/house.jpg">
+<img src="/rule/asia/indonesia/house.jpg" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -63,16 +63,16 @@ Tanda seperti <span class="quiz">Alfamart, Bank Mandiri, atau BRI</span> dapat d
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/indonesia/c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px">
-<img src="/rule/asia/indonesia/c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px">
-<img src="/rule/asia/indonesia/c/BRI_2020.svg" width="170px" style="margin:10px">
+<img src="/rule/asia/indonesia/c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px" alt="1280px Alfamart logo.svg">
+<img src="/rule/asia/indonesia/c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px" alt="Bank Mandiri logo 2016">
+<img src="/rule/asia/indonesia/c/BRI_2020.svg" width="170px" style="margin:10px" alt="BRI 2020">
 </div>
 
 {{% notice tip %}}
 Tembakau atau rokok sering dijual di tepi jalan{{% ex "https://goo.gl/maps/famuKArJo35iqqTf6" "https://goo.gl/maps/r1YhkdzHhBrUChEVA" "https://goo.gl/maps/2NxrDJLbyFLVCvML9" %}}. Iklan rokok seringkali ditandai dengan tulisan "18+".
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="/rule/asia/indonesia/adv.jpg" width="95%">
+<img src="/rule/asia/indonesia/adv.jpg" width="95%" alt="Adv">
 </div>
 
 {{% notice tip %}}
@@ -179,7 +179,7 @@ Rumah tradisional suku Minangkabau di Sumatra Barat dikenal sebagai Rumah Gadang
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/indonesia/2023-08-12-02-14-06.png" width="95%" />
+<img src="/rule/asia/indonesia/2023-08-12-02-14-06.png" width="95%" alt="2023 08 12 02 14 06" />
 </div>
 
 {{% /tab %}}
@@ -255,7 +255,7 @@ Di Pulau Sumba, rumah Uma Marapu memiliki ciri khas atap menjulang tinggi.
 {{% tabs %}}
 {{% tab "Padi" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/indonesia/2023-06-29-00-47-26.png" width="90%"/>
+<img src="/rule/asia/indonesia/2023-06-29-00-47-26.png" width="90%" alt="2023 06 29 00 47 26" />
 </div>
 
 {{% notice tip %}}
@@ -265,7 +265,7 @@ Probabilitas tertinggi di Pulau Jawa (lebih dari 50%), tetapi dapat ditemukan di
 {{% /tab %}}
 {{% tab "Jagung" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/indonesia/2023-06-29-00-49-42.png" width="90%"/>
+<img src="/rule/asia/indonesia/2023-06-29-00-49-42.png" width="90%" alt="2023 06 29 00 49 42" />
 </div>
 
 {{% notice tip %}}
@@ -279,7 +279,7 @@ Jika terlihat sawah dan ladang jagung bersamaan, kemungkinan besar berada di Pul
 {{% /tab %}}
 {{% tab "Sawit" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/indonesia/2023-06-29-00-50-42.png" width="90%"/>
+<img src="/rule/asia/indonesia/2023-06-29-00-50-42.png" width="90%" alt="2023 06 29 00 50 42" />
 </div>
 
 {{% notice tip %}}
@@ -324,14 +324,14 @@ Gunung yang terlihat di kejauhan seperti pada gambar di bawah ini sering terliha
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/indonesia/ternate_city_indonesia_2010.jpg">
+<img src="/rule/asia/indonesia/ternate_city_indonesia_2010.jpg" alt="Ternate city indonesia 2010">
 </div>
 
 {{% /tab %}}
 {{% tab "Kode Area" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/indonesia/tlp.png" width="90%"/>
+<img src="/rule/asia/indonesia/tlp.png" width="90%" alt="Tlp" />
 </div>
 
 {{% /tab %}}

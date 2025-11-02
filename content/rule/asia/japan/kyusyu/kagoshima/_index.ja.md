@@ -28,7 +28,7 @@ flag: "Kagoshima.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="1082px-Tea_Plantation_near_Kagoshima_Airport.jpg" width="90%">
+<img src="1082px-Tea_Plantation_near_Kagoshima_Airport.jpg" width="90%" alt="1082px Tea Plantation near Kagoshima Airport">
 </div>
 
 {{% /tab %}}
@@ -38,7 +38,7 @@ flag: "Kagoshima.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="540px-Kouhaibukuro.jpg" width="60%">
+<img src="540px-Kouhaibukuro.jpg" width="60%" alt="540px Kouhaibukuro">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ flag: "Kagoshima.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-kyusyu.png" width="220px">
+<img src="../../pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
 </div>
 
 {{% /tab %}}

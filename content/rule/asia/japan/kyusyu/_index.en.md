@@ -43,7 +43,7 @@ Kyushu Electric Power pole plates are common. Recognising the utility logo confi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
 </div>
 
 {{% /tab %}}
@@ -53,7 +53,7 @@ Expect to see roadside clumps of Miscanthus swaying in the breeze.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg">
+<img src="/rule/asia/japan/kyusyu/road_japan_kumamoto_method.jpg" alt="Road japan kumamoto method">
 </div>
 
 {{% /tab %}}

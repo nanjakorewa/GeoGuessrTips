@@ -57,7 +57,7 @@ Los postes eléctricos pueden tener grandes aberturas o formas cuadradas similar
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/srilanka/road.jpg" width="90%" />
+<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -154,21 +154,21 @@ Algunos postes tienen orificios y otros son cuadrados; no te vayas a {{% goto ".
 {{% /tab %}}
 {{% tab "Arrozales" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/rice.png" width="400px">
+<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Rice">
 </div>
 {{% notice tip %}}Los arrozales son algo más frecuentes hacia el noreste, pero existen en muchas zonas; úsalo solo como pista complementaria.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Cocoteros" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/palm.png" width="400px">
+<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Palm">
 </div>
 {{% notice tip %}}Los cocoteros se ven en todo el país, pero las plantaciones comerciales se agrupan en el centro-oeste. El mapa es esquemático, disculpa lo rudimentario.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Té y caucho" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/tea.png" width="400px">
+<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Tea">
 </div>
 {{% notice tip %}}Los cultivos de té se concentran en el suroeste, como indica plonkit y otras referencias. El caucho sigue un patrón similar.
 {{% /notice %}}

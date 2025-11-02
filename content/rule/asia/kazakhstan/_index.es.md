@@ -39,7 +39,7 @@ Aparece señalización en kazajo y ruso, y es posible ver el Google Car{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/kazakhstan/img_6003.jpg" width="90%">
+<img src="/rule/asia/kazakhstan/img_6003.jpg" width="90%" alt="Img 6003">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ En algunas matrículas se observa la bandera celeste del país en el lado izquie
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="/rule/asia/kazakhstan/КазасE�E�ан2012-01.gif" class="resolution-small" width="50%" />
+<img src="/rule/asia/kazakhstan/КазасE�E�ан2012-01.gif" class="resolution-small" width="50%" alt="КазасE�E�ан2012 01" />
 {{% /lb %}}
 
 {{% /tab %}}

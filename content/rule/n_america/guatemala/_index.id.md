@@ -36,7 +36,7 @@ sc: [
 Bus sangat mencolok dan kadang memiliki rak barang di atas atap{{% ex "https://maps.app.goo.gl/wmuD1XzwFinYqRgo7" "https://maps.app.goo.gl/tNAVU7Wj5oB61iiZ9" %}}. Bus ini dikenal sebagai “chicken bus”, dalam bahasa Spanyol disebut la camioneta, la burra, atau el bus. Nama tersebut berasal dari kebiasaan mengangkut unggas atau hewan lain, sehingga tersedia ruang bagasi di atas{{% ref "https://www.spanish.academy/blog/a-travelers-guide-to-the-chicken-bus-in-guatemala/" "A Traveler’s Guide to the Chicken Bus in Guatemala" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/guatemala/chicken_bus2.jpg" width="590px">
+<img src="/rule/n_america/guatemala/chicken_bus2.jpg" width="590px" alt="Chicken bus2">
 </div>
 
 {{% notice tip %}}
@@ -77,7 +77,7 @@ Mobil Google mudah dikenali{{% ex "https://maps.app.goo.gl/4jHmHcLvoDUfe65q6" %}
 {{% /tab %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/guatemala/2023-05-27-19-08-14.png" width="95%" />
+<img src="/rule/n_america/guatemala/2023-05-27-19-08-14.png" width="95%" alt="2023 05 27 19 08 14" />
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Tidak ada jalur darat langsung ke Lívingston. Banyak pohon kelapa dan laut terl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/guatemala/livingston_guatemala.jpg" width="95%">
+<img src="/rule/n_america/guatemala/livingston_guatemala.jpg" width="95%" alt="Livingston guatemala">
 </div>
 
 {{% /tab %}}
@@ -116,7 +116,7 @@ Benteng Spanyol yang dibangun pada abad ke-17{{% ref "https://es.wikipedia.org/w
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/guatemala/Castillo_De_San_Felipe.jpg" width="90%">
+<img src="/rule/n_america/guatemala/Castillo_De_San_Felipe.jpg" width="90%" alt="Castillo De San Felipe">
 </div>
 
 {{% /tab %}}
@@ -127,8 +127,8 @@ Jelajahi situs warisan dunia Tikal melalui Street View{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/guatemala/guatemala_tikal_maya_civilization.jpg" width="90%">
-<img src="/rule/n_america/guatemala/mayan_pyramid_guatemala.jpg" width="90%">
+<img src="/rule/n_america/guatemala/guatemala_tikal_maya_civilization.jpg" width="90%" alt="Guatemala tikal maya civilization">
+<img src="/rule/n_america/guatemala/mayan_pyramid_guatemala.jpg" width="90%" alt="Mayan pyramid guatemala">
 </div>
 
 {{% /tab %}}

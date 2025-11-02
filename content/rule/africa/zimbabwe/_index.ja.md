@@ -27,7 +27,7 @@ is_unofficial: true
 黄色か赤色のナンバープレート。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="transport_bus_overloaded_zimbabwe.jpg" width="90%">
+<img src="transport_bus_overloaded_zimbabwe.jpg" width="90%" alt="Transport bus overloaded zimbabwe">
 </div>
 
 {{% notice tip %}}
@@ -38,8 +38,8 @@ STOPの標識が独特？古いデザインらしくあまり一般的ではな�
 </div>
 
 <div class="googlemap-if">
-<img src="r/Stop_sign_in_Zimbabwe.svg" width="120px" style="margin-right:10px">
-<img src="r/Zimbabwe_school_crossing_sign.svg" width="120px" style="margin-left:10px">
+<img src="r/Stop_sign_in_Zimbabwe.svg" width="120px" style="margin-right:10px" alt="Stop sign in Zimbabwe">
+<img src="r/Zimbabwe_school_crossing_sign.svg" width="120px" style="margin-left:10px" alt="Zimbabwe school crossing sign">
 </div>
 
 

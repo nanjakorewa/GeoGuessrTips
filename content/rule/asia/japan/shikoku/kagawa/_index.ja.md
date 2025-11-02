@@ -27,7 +27,7 @@ flag: "Kagawa.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="otaki_tunnel_nio.jpg">
+<img src="otaki_tunnel_nio.jpg" alt="Otaki tunnel nio">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ flag: "Kagawa.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-shikoku.png" width="420px">
+<img src="../../pole/pole-shikoku.png" width="420px" alt="Pole shikoku">
 </div>
 
 {{% /tab %}}

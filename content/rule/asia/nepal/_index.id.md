@@ -42,14 +42,14 @@ Namche Bazaar (नाम्चे बजार), sebuah pusat pendakian di Himal
 Berjalan di daerah pegunungan di kaki Gunung Everest {{% ex "https://maps.app.goo.gl/SfvTeL7S6MtpJdeT9" "https://maps.app.goo.gl/BH56QX51AvmnjBy48" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/nepal/mountains_mount_everest_base_0.jpg" width="95%">
+<img src="/rule/asia/nepal/mountains_mount_everest_base_0.jpg" width="95%" alt="Mountains mount everest base 0">
 </div>
 
 {{% notice tip %}}
 Bendera seperti yang terlihat di {{% goto "../bhutan/" "Bhutan" %}} juga sering terlihat {{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}. Toko-toko menjual perlengkapan mendaki, dengan ketinggian lokasi ditampilkan pada papan. Orang-orang di sekitar biasanya membawa tas punggung untuk pendakian.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/nepal/nepal_annapurna_himalayas_trekking.jpg" width="95%">
+<img src="/rule/asia/nepal/nepal_annapurna_himalayas_trekking.jpg" width="95%" alt="Nepal annapurna himalayas trekking">
 </div>
 
 {{% notice tip %}}
@@ -65,10 +65,10 @@ Per Maret 2024, tidak ada cakupan Google Street View di jalan raya, sehingga tid
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="Nepal road sign C27">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="Nepal road sign D3">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="Nepal road sign B13 L1">
+<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="Nepal road sign A22 40">
 </div>
 
 {{% /tab %}}

@@ -31,11 +31,11 @@ Romanian is widely used, just like in {{% goto "../../europe/romania/" "Romania"
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/moldova/640px-MD.CS.Căușeni_-_Casa_memorială_„Alexei_Mateevici”_-_may_2022_-_15.jpg" width="95%">
+<img src="/rule/europe/moldova/640px-MD.CS.Căușeni_-_Casa_memorială_„Alexei_Mateevici”_-_may_2022_-_15.jpg" width="95%" alt="640px MD.CS.Căușeni Casa memorială „Alexei Mateevici” may 2022 15">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/moldova/SU_road_sign_5.21.2_A.svg" width="230px" />
+<img src="/rule/europe/moldova/SU_road_sign_5.21.2_A.svg" width="230px" alt="SU road sign 5.21.2 A" />
 </div>
 
 {{% notice tip %}}
@@ -43,9 +43,9 @@ The roadside bollards share the same style found in {{% goto "../../europe/roman
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/moldova/Moldova_road_sign_5.78.1.svg" width="130px" style="margin:0px 30px" />
-<img src="/rule/europe/moldova/Moldova_road_sign_5.78.2.svg" width="130px" style="margin:0px 30px" />
-<img src="/rule/europe/moldova/Moldova_road_sign_5.78.3.svg" width="130px" style="margin:0px 30px" />
+<img src="/rule/europe/moldova/Moldova_road_sign_5.78.1.svg" width="130px" style="margin:0px 30px" alt="Moldova road sign 5.78.1" />
+<img src="/rule/europe/moldova/Moldova_road_sign_5.78.2.svg" width="130px" style="margin:0px 30px" alt="Moldova road sign 5.78.2" />
+<img src="/rule/europe/moldova/Moldova_road_sign_5.78.3.svg" width="130px" style="margin:0px 30px" alt="Moldova road sign 5.78.3" />
 </div>
 
 
@@ -54,7 +54,7 @@ House styles resemble northeastern Romania, with corrugated metal roofs in muted
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/moldova/960px-MD.UN.Hîrcești_-_monument_în_memoria_victimelor_regimului_comunist_-_aug_2024_-_07.jpg" width="95%" />
+<img src="/rule/europe/moldova/960px-MD.UN.Hîrcești_-_monument_în_memoria_victimelor_regimului_comunist_-_aug_2024_-_07.jpg" width="95%" alt="960px MD.UN.Hîrcești monument în memoria victimelor regimului comunist aug 2024 07" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Yield signs are red and white but thinner than the Romanian design{{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/moldova/640px-MD.C.Chișinău.rabbit.on.a.road.sign_-_feb-2012.jpg" width="90%" />
+<img src="/rule/europe/moldova/640px-MD.C.Chișinău.rabbit.on.a.road.sign_-_feb-2012.jpg" width="90%" alt="640px MD.C.Chișinău.rabbit.on.a.road.sign feb 2012" />
 </div>
 
 {{% /tab %}}

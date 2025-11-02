@@ -38,8 +38,8 @@ Por causa do clima subpolar, como na {{% goto "../../n_america/greenland/" "Groe
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px">
-<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px">
+<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px" alt="Kids security road sign">
+<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px" alt="Longyearbyen panorama">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ Por causa do clima subpolar, como na {{% goto "../../n_america/greenland/" "Groe
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px">
+<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px" alt="Parked snowmobiles in summer">
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ As placas automotivas mostram claramente a combinação <span class="quiz">preto
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%">
+<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%" alt="Barentsburg">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ As placas automotivas mostram claramente a combinação <span class="quiz">preto
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%">
+<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%" alt="31 07 pyramiden 30">
 </div>
 
 {{% /tab %}}

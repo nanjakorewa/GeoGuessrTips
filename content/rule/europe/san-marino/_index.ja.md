@@ -44,8 +44,8 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/output.jpg" width="144px" style="margin-right:30px">
-<img src="../italy/r/2023-05-14 041948.png" width="140px" style="margin-left:30px">
+<img src="./r/output.jpg" width="144px" style="margin-right:30px" alt="Output">
+<img src="../italy/r/2023-05-14 041948.png" width="140px" style="margin-left:30px" alt="2023 05 14 041948">
 </div>
 
 {{% notice tip %}}
@@ -53,7 +53,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./images.jpg" width="90%">
+<img src="./images.jpg" width="90%" alt="Images">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ sc: [
 ナンバープレートは前後についていて<span class="quiz">水</span>色に見える{{% ex "https://maps.app.goo.gl/gvRTP2fSev3tfchK6" %}}。ヨーロッパに居てナンバープレートの左側に青線がないとき、サンマリノ・{{% goto "../switzerland/" "スイス" %}}・{{% goto "../monaco/" "モナコ" %}}・{{% goto "../iceland/" "アイスランド" %}}・{{% goto "../andorra/" "アンドラ" %}}を一度考えてみる。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="subaru_polizia_civile_2.jpg" width="90%">
+<img src="subaru_polizia_civile_2.jpg" width="90%" alt="Subaru polizia civile 2">
 </div>
 {{% lb 50 %}}
 ![](2023-05-06-01-53-39.png)

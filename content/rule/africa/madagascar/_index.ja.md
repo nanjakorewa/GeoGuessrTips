@@ -41,7 +41,7 @@ plonkit: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="countryside_madagascar_rice_field.jpg" width="95%" />
+<img src="countryside_madagascar_rice_field.jpg" width="95%" alt="Countryside madagascar rice field" />
 </div>
 
 
@@ -49,7 +49,7 @@ plonkit: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="main_road_sabotsy_namehana.jpg" width="95%" />
+<img src="main_road_sabotsy_namehana.jpg" width="95%" alt="Main road sabotsy namehana" />
 </div>
 
 

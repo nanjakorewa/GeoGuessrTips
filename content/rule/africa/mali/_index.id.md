@@ -48,7 +48,7 @@ Tebing Bandiagara yang terkenal terdapat di area kecil di luar perkotaan {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/mali/falaise_de_bandiagara2.jpg" width="550px">
+<img src="/rule/africa/mali/falaise_de_bandiagara2.jpg" width="550px" alt="Falaise de bandiagara2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

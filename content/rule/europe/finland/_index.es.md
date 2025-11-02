@@ -51,21 +51,21 @@ La forma de la flecha en el letrero con el nombre de la región se completa como
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
-            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
         </div>
         <p><span class="quiz">Suecia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
         </div>
         <p><span class="quiz">Finlandia</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
         </div>
         <p><span class="quiz">Noruega</span></p>
     </div>
@@ -76,9 +76,9 @@ Pasos de peatones en el norte de Europa <span class="quiz">5</span> el libro es 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
 </div>
 
 
@@ -87,22 +87,22 @@ Hay muchos nombres de calles como "~tie" y "~gatan".
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/finland/streetsign.jpg" width="95%">
+<img src="/rule/europe/finland/streetsign.jpg" width="95%" alt="Streetsign">
 </div>
 
 {{% notice tip %}}
 Finlandia tiene señales de advertencia <span class="quiz">fino borde amarillo alrededor</span> Hay{{% by "usumdensetu" "twitch" %}}.La fila superior es Finlandia y la fila inferior es Suecia (fondo naranja) y Noruega (fondo blanco).
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:10px;;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
-<img src="/rule/europe/finland/r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
-<img src="/rule/europe/finland/r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" alt="Finland road sign A15" />
+<img src="/rule/europe/finland/r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" alt="Finland road sign B5" />
+<img src="/rule/europe/finland/r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" alt="Finland road sign C32 60" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
-<img src="/rule/europe/finland/Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
-<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
-<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/Sweden_road_sign_B1.svg" class="width150 margin-ten-px" alt="Sweden road sign B1" />
+<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" alt="Sweden road sign C31 10" />
+<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="width150 margin-ten-px" alt="NO road sign 362.100" />
 </div>
 
 
@@ -110,9 +110,9 @@ Finlandia tiene señales de advertencia <span class="quiz">fino borde amarillo a
 La señal de paso en una carretera estrecha de Escandinavia sólo tiene una flecha en Finlandia.Se puede dar una pista en un lugar donde no hay aceras ni casas a la vista.desde la izquierda <span class="quiz">Finlandia</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}・<span class="quiz">Suecia</span>・<span class="quiz">Noruega</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
-<img src="/rule/europe/finland/p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
-<img src="/rule/europe/finland/p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
-<img src="/rule/europe/finland/p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
+<img src="/rule/europe/finland/p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" alt="Finland road sign E5" />
+<img src="/rule/europe/finland/p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" alt="Sweden road sign E18" />
+<img src="/rule/europe/finland/p/NO_road_sign_524.svg" class="width150 margin-ten-px" alt="NO road sign 524" />
 </div>
 
 
@@ -121,11 +121,11 @@ a la línea central <span class="quiz">amarillo</span> Se utilizan líneas disco
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
+<img src="/rule/europe/sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);" alt="Road">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/finland/road.png" width="90%" />
+<img src="/rule/europe/finland/road.png" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -133,7 +133,7 @@ plano en general{{% ex "https://maps.app.goo.gl/uFfRSzjgmQdjEWW16" "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/finland/nature_finnish_finnish_landscape.jpg" width="90%" />
+<img src="/rule/europe/finland/nature_finnish_finnish_landscape.jpg" width="90%" alt="Nature finnish finnish landscape" />
 </div>
 
 {{% /tab %}}
@@ -183,7 +183,7 @@ Si sabes que es Finlandia pero no sabes en qué región, es posible que puedas o
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/finland/2023-06-17-13-12-50.png" width="570px"/>
+<img src="/rule/europe/finland/2023-06-17-13-12-50.png" width="570px" alt="2023 06 17 13 12 50" />
 </div>
 
 {{% /tab %}}

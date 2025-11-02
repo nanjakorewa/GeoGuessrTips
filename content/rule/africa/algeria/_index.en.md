@@ -30,7 +30,7 @@ Utility poles similar to those in {{% goto "../../europe/france/" "France" %}} (
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/lota_ouzemour.jpg" width="95%">
+<img src="/rule/africa/algeria/lota_ouzemour.jpg" width="95%" alt="Lota ouzemour">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ As in {{% goto "../../europe/france/" "France" %}}, small yellow plates may show
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/haouayet.jpg" width="95%">
+<img src="/rule/africa/algeria/haouayet.jpg" width="95%" alt="Haouayet">
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ The Atlas Mountains lie in the north and the Hoggar (Ahaggar) Mountains in the s
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/algeria_hoggar_assekrem_volcano_0.jpg" width="95%">
+<img src="/rule/africa/algeria/algeria_hoggar_assekrem_volcano_0.jpg" width="95%" alt="Algeria hoggar assekrem volcano 0">
 </div>
 
 {{% /tab %}}

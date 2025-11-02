@@ -45,7 +45,7 @@ Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-
 都市部から離れた非常に小さな範囲にバンディアガラの断崖がある{{% ex "https://maps.app.goo.gl/3wPDRJD1wu1AMFxm6" "https://maps.app.goo.gl/e1WEbAzvs27pHcMo7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./falaise_de_bandiagara2.jpg" width="550px">
+<img src="./falaise_de_bandiagara2.jpg" width="550px" alt="Falaise de bandiagara2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

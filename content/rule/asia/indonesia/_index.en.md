@@ -46,7 +46,7 @@ Signs for <span class="quiz">Alfa Mart</span> (convenience store), <span class="
 <span class="quiz">Cigarettes</span> are often sold on the street. If it says "18+" without a picture of cigarettes, it is an advertisement for cigarettes; if it says "GGSP", it is a goodwill about the cigarette manufacturer Gudang Garam Tbk PT.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="/rule/asia/indonesia/adv.jpg" width="95%">
+<img src="/rule/asia/indonesia/adv.jpg" width="95%" alt="Adv">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -66,7 +66,7 @@ Depending on the mosaic, the license plate may appear to be divided into three p
 </div>
 
 {{% lb 50 small %}}
-<img src="2023-04-15-09-20-42.png" class="resolution-small" />
+<img src="2023-04-15-09-20-42.png" class="resolution-small" alt="2023 04 15 09 20 42" />
 
 By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123241255">Wikimedia Commons</a>
 {{% /lb %}}

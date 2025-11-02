@@ -50,31 +50,31 @@ sc: [
 </div>
 
 <div class="googlemap-if">
-<img src="./c/Oxxo_Logo.svg" width="160px" style="margin:10px">
-<img src="./c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px">
-<img src="./c/Comex.png" width="180px" style="margin:30px 0 0 10px">
+<img src="./c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="Oxxo Logo">
+<img src="./c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="Logo de Petróleos Mexicanos (2019)">
+<img src="./c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="Comex">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">8角形</span>の電柱が特徴的{{% ex "https://maps.app.goo.gl/bsde6FgabHDDxeBKA" "https://maps.app.goo.gl/2r1h6b5RaUfWDMTW8" "https://maps.app.goo.gl/KzddnjrWnkGvxGSz8" "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}。ただし{{% goto "../../cs_america/colombia/" "コロンビア" %}}にもたまにあって100%メキシコとはならないので周りの雰囲気も合わせてメキシコと判断する（コロンビアの例{{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}）。電柱に『～MEX』と書かれていたら確実にメキシコ{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="90%">
+<img src="./pole.png" width="90%" alt="Pole">
 </div>
 
 {{% notice tip %}}
 とまれが「<span class="quiz">ALTO</span>」{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}はメキシコ・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../costa_rica/" "コスタリカ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか。またメキシコの矢印はなんか太い気がする{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://maps.app.goo.gl/jSirkndzbABnynKC8" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
-<img src="./r/arrow.png" width="90px" style="margin-left:20px">
+<img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="Alto stop sign">
+<img src="./r/arrow.png" width="90px" style="margin-left:20px" alt="Arrow">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">白</span>色と<span class="quiz">黒</span>色で塗られた円形のボラードがある{{% ex "https://maps.app.goo.gl/XPDGtA3y2TRQWiRh8" "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="./bollard.png" width="90%"></div></p>
+<p><div class="unclickable"><img src="./bollard.png" width="90%" alt="Bollard"></div></p>
 <p>By <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
@@ -82,14 +82,14 @@ sc: [
 <span class="quiz">円</span>形の電力計がある{{% ex "https://maps.app.goo.gl/vq4ZQzWQm1JA16nf7" "https://maps.app.goo.gl/3tpvyCGuuz7hytbw9" "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "画像１枚で国１こ覚えたい。③メキシコ"  %}}。またメキシコと{{% goto "../panama/" "パナマ" %}}では<span class="quiz">水</span>色のアンテナをよく見かける{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%">
+<img src="./house.png" width="90%" alt="House">
 </div>
 
 {{% notice tip %}}
 メキシコのビール醸造所であるGrupo Modeloが製造するコロナビール{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "コロナビール" %}}のロゴが見られる{{% ex "https://maps.app.goo.gl/TdTohN8oujw4QT9r8" "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bottle_beer_beach_drink.jpg" width="90%">
+<img src="./bottle_beer_beach_drink.jpg" width="90%" alt="Bottle beer beach drink">
 </div>
 
 {{% /tab %}}
@@ -185,7 +185,7 @@ sc: [
 {{% tabs %}}
 {{% tab "風力発電" %}}
 <div class="googlemap-if no-margin">
-<img src="Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png">
+<img src="Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Map of wind energy in Mexico Data from INEGI Marco Geoestadistico Nacional">
 </div>
 
 
@@ -223,7 +223,7 @@ sc: [
 {{% tab "植生と土の分布" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./distribution.png" width="540px" />
+<img src="./distribution.png" width="540px" alt="Distribution" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em">
 画像出典：<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html">参考文献より</a>, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC BY 4.0</a>
@@ -238,7 +238,7 @@ sc: [
 {{% tab "カリフォルニア湾の一番奥" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/others.jpg" width="540px" />
+<img src="./veg/others.jpg" width="540px" alt="Others" />
 </div>
 
 {{% notice tip %}}
@@ -254,7 +254,7 @@ sc: [
 {{% tab "バハ・カリフォルニア半島" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/wast-p.jpg" width="540px" />
+<img src="./veg/wast-p.jpg" width="540px" alt="Wast p" />
 </div>
 
 {{% notice tip %}}
@@ -270,7 +270,7 @@ sc: [
 {{% tab "西側の農業" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/agriculture.jpg" width="540px" />
+<img src="./veg/agriculture.jpg" width="540px" alt="Agriculture" />
 </div>
 
 {{% notice tip %}}
@@ -286,7 +286,7 @@ sc: [
 {{% tab "西部の山岳地帯" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/west-mt.jpg" width="540px" />
+<img src="./veg/west-mt.jpg" width="540px" alt="West mt" />
 </div>
 
 {{% notice tip %}}
@@ -302,7 +302,7 @@ sc: [
 {{% tab "中央部分" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/center.jpg" width="540px" />
+<img src="./veg/center.jpg" width="540px" alt="Center" />
 </div>
 
 {{% notice tip %}}
@@ -318,7 +318,7 @@ sc: [
 {{% tab "東側の農業" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/east-agri.jpg" width="540px" />
+<img src="./veg/east-agri.jpg" width="540px" alt="East agri" />
 </div>
 
 {{% notice tip %}}
@@ -334,7 +334,7 @@ sc: [
 {{% tab "ベラクルス～タバスコ" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/grassland.jpg" width="540px" />
+<img src="./veg/grassland.jpg" width="540px" alt="Grassland" />
 </div>
 
 {{% notice tip %}}
@@ -350,7 +350,7 @@ sc: [
 {{% tab "ユカタン半島北" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/tropical-dry.jpg" width="540px" />
+<img src="./veg/tropical-dry.jpg" width="540px" alt="Tropical dry" />
 </div>
 
 {{% notice tip %}}
@@ -366,7 +366,7 @@ sc: [
 {{% tab "ユカタン半島南" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./veg/tropical-humid.jpg" width="540px" />
+<img src="./veg/tropical-humid.jpg" width="540px" alt="Tropical humid" />
 </div>
 
 {{% notice tip %}}
@@ -382,7 +382,7 @@ sc: [
 {{% tab "コプラ" %}}
 
 <div class="googlemap-if unclickable">
-<img src="copra.png" width="90%" />
+<img src="copra.png" width="90%" alt="Copra" />
 </div>
 
 {{% notice tip %}}
@@ -396,7 +396,7 @@ Guerreroの海沿いにココヤシのプランテーションが存在する{{%
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="./palm-oil.png" width="90%" />
+<img src="./palm-oil.png" width="90%" alt="Palm oil" />
 </div>
 
 {{% notice tip %}}
@@ -519,7 +519,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="janitzio.jpg">
+<img src="janitzio.jpg" alt="Janitzio">
 </div>
 {{% /tab %}}
 {{% tab "Holbox" %}}
@@ -539,7 +539,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%"/>
+<img src="1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%" alt="1259px Ford Transit Cozumel Taxi" />
 </div>
 {{% /tab %}}
 {{% tab "Isla Mujeres" %}}
@@ -549,7 +549,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="la_noruega_009.jpg" width="95%"/>
+<img src="la_noruega_009.jpg" width="95%" alt="La noruega 009" />
 </div>
 {{% /tab %}}
 {{% tab "Popocatépetl " %}}
@@ -559,7 +559,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="volcano_snow_nature_950313.jpg" width="95%"/>
+<img src="volcano_snow_nature_950313.jpg" width="95%" alt="Volcano snow nature 950313" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

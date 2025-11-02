@@ -79,7 +79,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Tournasol7" title="User:Tournasol7
 {{% notice tip %}}<span class="quiz">左</span>側通行で、一般乗用車は<span class="quiz">白</span>色のナンバーが多く、タクシーのナンバープレートは<span class="quiz">黄</span>色のものが多い。ラオスは一般の車が<span class="quiz">黄</span>色かつ<span class="quiz">右</span>側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="lp.jpg" width="90%">
+<img src="lp.jpg" width="90%" alt="Lp">
 </div>
 
 {{% lb 50 %}}
@@ -103,7 +103,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="pole.jpg" width="90%">
+<img src="pole.jpg" width="90%" alt="Pole">
 </div>
 
 {{% notice tip %}}
@@ -115,7 +115,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="road205_in_amphoe_thep.jpg" width="90%">
+<img src="road205_in_amphoe_thep.jpg" width="90%" alt="Road205 in amphoe thep">
 </div>
 
 {{% /tab %}}
@@ -179,7 +179,7 @@ Public Domain
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-17-28.png" width="60%" />
+<img src="2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -188,11 +188,11 @@ Public Domain
 {{% /tab %}}
 {{% tab "ゴム" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="rubber-tree-distribution.png" width="60%" />
+<img src="rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./rubberwood.jpg">
+<img src="./rubberwood.jpg" alt="Rubberwood">
 </div>
 
 {{% notice tip %}}
@@ -201,7 +201,7 @@ Public Domain
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-15-43.png" width="60%" />
+<img src="2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -210,7 +210,7 @@ Public Domain
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-01-21-18-17.png" width="60%" />
+<img src="2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}
@@ -289,7 +289,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./samui_koh_samui_bangrak.jpg" width="90%">
+<img src="./samui_koh_samui_bangrak.jpg" width="90%" alt="Samui koh samui bangrak">
 </div>
 
 {{% /tab %}}

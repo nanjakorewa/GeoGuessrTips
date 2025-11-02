@@ -43,7 +43,7 @@ sc: [
 Tiene letras griegas, siendo distintivas Σ y λ.{{% ex "https://maps.app.goo.gl/SMJtehkQebTbT6yQ9" "https://maps.app.goo.gl/G9rYxXRnSF3Ju9Wu9" "https://maps.app.goo.gl/EjzAaMvvQGA6QsY38" "https://maps.app.goo.gl/PSWxN4u8ijmYEkfE9" %}}.Los carteles con letras amarillas escritas sobre un fondo azul o marrón rara vez se ven fuera de Grecia.{{% ex "https://goo.gl/maps/DfDBCCfbDGLPquCd8" "https://goo.gl/maps/jnkdhhmFNQrZncZK9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/roadsign.jpg" width="640">
+<img src="/rule/europe/greece/roadsign.jpg" width="640" alt="Roadsign">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sandyhodges/127018247/in/photolist-ce16M-Pi5Cjo-2ocUGvD-RoWNB2-24zVCBP-3mv1Z-oJDW6U-2nbTE8a-2od4bya-2ocSkVc-2nMKXPS-2n6Xv4Q-2dTJXvm-23N5qXf-sdeQKs-9bWsaS-2o21s4L-fbez86-W25JPV-RGvGPH-2oou4cM-6Xb3uk-6Xf2sU-eThZ6r-2obz3r6-2j1SNKo-2ocQMdk-p7qZtm-2ocSkKc-2mkRpJX-6zj4SH-2ocRMwp-2ocTnjX-26xeLf7-2ocXd8g-2ocWhhj-2kuvWBk-wvzoX4-2od4Ywe-2od4XTL-wuYoG1-2otqpxj-2osiZpD-2osTq6x-2osH9x3-weqVpD-btacQo-2o8HkWC-2kBtCSk-2kTqrhD" title="Greece"><img src="https://live.staticflickr.com/46/127018247_4901da9ecb_z.jpg" width="640" height="480" alt="Greece"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
@@ -56,7 +56,7 @@ Las dos líneas blancas son{{% goto "../denmark/" "Dinamarca" %}}o{{% goto "../p
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="margin:1em;">
-<img src="/rule/europe/greece/a8_greece.jpg" width="600px">
+<img src="/rule/europe/greece/a8_greece.jpg" width="600px" alt="A8 greece">
 </div>
 
 
@@ -72,9 +72,9 @@ El fondo del letrero suele ser naranja.{{% ex "https://maps.app.goo.gl/F8VvmLwMV
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" />
-<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" />
-<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-22.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 22" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-25.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 25" />
+<img src="/rule/europe/greece/r/Traffic_Sign_GR_-_KOK_2009_-_K-23.svg" class="margin-ten-px width100" alt="Traffic Sign GR KOK 2009 K 23" />
 </div>
 
 {{% notice tip %}}
@@ -83,8 +83,8 @@ La flecha es{{% goto "../albania/" "Albania" %}}En su mayoría hay flechas blanc
 
 
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;margin-top:10px">
-<img src="/rule/europe/greece/r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" />
-<img src="/rule/europe/greece/r/arrow-2.png" class="margin-ten-px" style="width:180px" />
+<img src="/rule/europe/greece/r/Road-sign-π75b.svg" class="margin-ten-px" style="width:88px" alt="Road sign π75b" />
+<img src="/rule/europe/greece/r/arrow-2.png" class="margin-ten-px" style="width:180px" alt="Arrow 2" />
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ Los postes telefónicos suelen estar hechos de madera.{{% ex "https://goo.gl/map
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/greece/pole.png" width="95%" />
+<img src="/rule/europe/greece/pole.png" width="95%" alt="Pole" />
 </div>
 
 <div class="googlemap-if no-margin">
@@ -110,7 +110,7 @@ Grecia tiene mucha luz solar y mucha piedra caliza, por lo que muchos edificios 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/greece/house.png" width="95%" />
+<img src="/rule/europe/greece/house.png" width="95%" alt="House" />
 </div>
 
 {{% notice tip %}}
@@ -118,7 +118,7 @@ hay muchos olivos{{% ex "https://goo.gl/maps/VwEkiYGU25hSdt7v8" "https://goo.gl/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/greece/olive.png" width="95%" />
+<img src="/rule/europe/greece/olive.png" width="95%" alt="Olive" />
 </div>
 
 
@@ -127,8 +127,8 @@ Grecia·{{% goto "../albania/" "Albania" %}}・{{% goto "../montenegro/" "Monten
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/road/20150522_144002lc.jpg" width="320px" />
-<img src="/rule/europe/greece/road/mountain_trail_dirt_road.jpg" width="320px" />
+<img src="/rule/europe/greece/road/20150522_144002lc.jpg" width="320px" alt="20150522 144002lc" />
+<img src="/rule/europe/greece/road/mountain_trail_dirt_road.jpg" width="320px" alt="Mountain trail dirt road" />
 </div>
 
 {{% /tab %}}
@@ -219,7 +219,7 @@ Por ejemplo, el algodón sólo se puede producir en terrenos llanos.Las zonas co
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/greece/agri/cotton.jpg" width="95%">
+<img src="/rule/europe/greece/agri/cotton.jpg" width="95%" alt="Cotton">
 </div>
 
 {{% /tab %}}
@@ -230,7 +230,7 @@ La zona azul es popular para el turismo.{{% ref "https://www.researchgate.net/fi
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/greece/agri/rural-area.jpg" width="95%">
+<img src="/rule/europe/greece/agri/rural-area.jpg" width="95%" alt="Rural area">
 </div>
 
 {{% /tab %}}
@@ -241,7 +241,7 @@ Una imagen que creé mientras miraba referencias y mapas.{{% ref "https://jgchap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/greece/cityname.jpg" width="95%">
+<img src="/rule/europe/greece/cityname.jpg" width="95%" alt="Cityname">
 </div>
 
 {{% /tab %}}
@@ -276,7 +276,7 @@ Según los datos, hay muchos cerros sin árboles y parece ser un clima desértic
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/960px-Havouna,_Kea.jpg" width="90%">
+<img src="/rule/europe/greece/960px-Havouna,_Kea.jpg" width="90%" alt="960px Havouna, Kea">
 </div>
 {{% /tab %}}
 {{% tab "Sifnos" %}}
@@ -285,8 +285,8 @@ ruinas e iglesias{{% ex "https://maps.app.goo.gl/vR9eZsEPs9mCj6ZF7" "https://map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/greece/chrisopigi_monastery_monastery_greek.jpg" width="90%">
-<img src="/rule/europe/greece/apollonia_on_sifnos.jpg" width="90%">
+<img src="/rule/europe/greece/chrisopigi_monastery_monastery_greek.jpg" width="90%" alt="Chrisopigi monastery monastery greek">
+<img src="/rule/europe/greece/apollonia_on_sifnos.jpg" width="90%" alt="Apollonia on sifnos">
 </div>
 
 {{% /tab %}}
@@ -305,7 +305,7 @@ Los botes de basura a veces tienen nombres de ciudades escritos, así que verifi
 Atenas es amarilla.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/greece/athens_vouli4.jpg">
+<img src="/rule/europe/greece/athens_vouli4.jpg" alt="Athens vouli4">
 </div>
 
 {{% notice tip %}}
@@ -319,7 +319,7 @@ Heraklion (una ciudad en la parte norte de Creta) tiene mucha plata.
 Salónica es de color azul oscuro.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/greece/thessaloniki_train_station.jpg">
+<img src="/rule/europe/greece/thessaloniki_train_station.jpg" alt="Thessaloniki train station">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

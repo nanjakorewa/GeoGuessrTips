@@ -59,7 +59,7 @@ sc: [
 「CS」や「CG」の道路番号{{% ex "https://goo.gl/maps/qnec2sM37NcgWVyj7" "https://goo.gl/maps/tLoLdtWhcvsGm1i78" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="75%" />
+<img src="./roadsign.jpg" width="75%" alt="Roadsign" />
 </div>
 
 {{% notice tip %}}

@@ -67,7 +67,7 @@ Public Domain
 If there are many brick houses <span class="quiz">England</span> However, if there are many white walls <span class="quiz">Ireland</span> Let's consider.Ireland is on the left below{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}, UK on the right{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "Digest: World Map Beginners Course + Question Corner" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/uk-street.jpg" width="85%" alt="Uk street" />
 </div>
 
 
@@ -86,13 +86,13 @@ In this diagram, the left <span class="quiz">Ireland</span> And the right one <s
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" />
+<img src="/rule/europe/united-kingdom/cevron.jpg" width="85%" alt="Cevron" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
-<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" />
+<img src="/rule/europe/ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;" alt="IE road sign W 062 L">
+<img src="/rule/europe/united-kingdom/r/UK_traffic_sign_515.svg" width="322px" alt="UK traffic sign 515" />
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ In this diagram, the left <span class="quiz">Ireland</span> And the right one <s
 with the UK{{% goto "../ireland/" "Ireland" %}}There are many cat's eyes on the roads.{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}.It was invented in England in 1934 and is used in England, Ireland, New Zealand, and other countries.However, it is rarely used in other European countries.{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "Cat's eye (road)" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg">
+<img src="/rule/europe/united-kingdom/640px-LIGHTDOME.jpg" alt="640px LIGHTDOME">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -142,7 +142,7 @@ Alexandra Palace Theater is located on the north side of London
 {{% tabs %}}
 {{% tab "Agriculture and plant distribution" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%">
+<img src="/rule/europe/united-kingdom/veg_image_large.png" width="90%" alt="Veg image large">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ I have never used it (<a href="https://www.reddit.com/r/dataisbeautiful/comments
 Easy to understand as it is spelled in a way that cannot be pronounced in English.{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "welsh" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/road-sign-w.jpg" width="70%" alt="Road sign w">
 </div>
 
 {{% notice tip %}}
@@ -217,7 +217,7 @@ There are notations such as "ARAF" and "SAFLL BWS"{{% ex "https://maps.app.goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%">
+<img src="/rule/europe/united-kingdom/wales_cardiff_slow.jpg" width="70%" alt="Wales cardiff slow">
 </div>
 {{% /tab %}}
 {{% tab "white and red bollard" %}}

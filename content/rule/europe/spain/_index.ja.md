@@ -45,7 +45,7 @@ sc: [
 <span class="quiz">黄色</span>の円柱型のポストがありCorreosのロゴが描かれている{{% ex "https://maps.app.goo.gl/izadzQSiYySYPqFH7" "https://maps.app.goo.gl/98xfrzaY5FzksDAX8" %}}{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./post.jpg" width="70%">
+<img src="./post.jpg" width="70%" alt="Post">
 </div>
 
 
@@ -53,7 +53,7 @@ sc: [
 『<span class="quiz">CALLE</span>』はスペイン語で通り・街路の意味。カタルーニャ語を使う地域では『CARRER』と書かれていることも。以下の右はカタルーニャにあるFree Software Streetの看板{{% ref "https://en.wikipedia.org/wiki/Free_Software_Street" "Free Software Street" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.jpg" width="90%">
+<img src="./street.jpg" width="90%" alt="Street">
 </div>
 
 
@@ -71,7 +71,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./navaleno_n_234.jpg" width="600">
+<img src="./navaleno_n_234.jpg" width="600" alt="Navaleno n 234">
 </div>
 
 
@@ -84,7 +84,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road_m_503_km17.jpg" width="600">
+<img src="./road_m_503_km17.jpg" width="600" alt="Road m 503 km17">
 </div>
 
 
@@ -94,12 +94,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="road.jpg" width="90%" />
+<img src="road.jpg" width="90%" alt="Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/chv.png" width="200px">
-<img src="./r/chv-b.png" width="200px">
+<img src="./r/chv.png" width="200px" alt="Chv">
+<img src="./r/chv-b.png" width="200px" alt="Chv b">
 </div>
 
 {{% notice tip %}}
@@ -113,7 +113,7 @@ sc: [
 {{% /tab %}}
 {{% tab "電柱" %}}
 <div class="googlemap-if unclickable">
-<img src="./cc0-poles.jpg">
+<img src="./cc0-poles.jpg" alt="Cc0 poles">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -157,7 +157,7 @@ sc: [
 {{% tabs %}}
 {{% tab "言語の分布" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./Spain_languages.svg" width="500px">
+<img src="./Spain_languages.svg" width="500px" alt="Spain languages">
 </div>
 
 <div class="googlemap-if">
@@ -210,7 +210,7 @@ sc: [
 
 <div class="googlemap-if no-margin unclickable">
 <p><a href="https://commons.wikimedia.org/wiki/File:Map_Pinus_pinea.png#/media/File:Map_Pinus_pinea.png"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Map_Pinus_pinea.png" alt="File:Map Pinus pinea.png" width="87%"></a></p><p style="font-size:0.8em">By Original: <a href="//commons.wikimedia.org/w/index.php?title=User:Roke&amp;action=edit&amp;redlink=1" class="new" title="User:Roke (page does not exist)">Roke</a> (<a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank_Map_of_Europe_-w_boundaries.svg</a>)Derivative work: <a href="//commons.wikimedia.org/wiki/User:Carnby" title="User:Carnby">Carnby</a> - This file was derived from: <a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" title="File:Blank Map of Europe -w boundaries.svg">Blank Map of Europe -w boundaries.svg</a>:&nbsp;<span typeof="mw:File"><a href="//commons.wikimedia.org/wiki/File:Blank_Map_of_Europe_-w_boundaries.svg" class="mw-file-description"></a></span>Polunin, O., Walters, M. (1985). A Guide to the Vegetation of Britain and Europe. Oxford University Press. p. 115., <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=23199397">Link</a></p>
-<p><img src="pinus_pinea_pompeii.jpg" width="90%" style="margin-top:2em"></p>
+<p><img src="pinus_pinea_pompeii.jpg" width="90%" style="margin-top:2em" alt="Pinus pinea pompeii"></p>
 </div>
 {{% /tab %}}
 {{% tab "Aleppo Pine" %}}
@@ -220,7 +220,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="pinus_halepensis_near_hyeres.jpg" width="60%">
+<img src="pinus_halepensis_near_hyeres.jpg" width="60%" alt="Pinus halepensis near hyeres">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -250,7 +250,7 @@ sc: [
 
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%">
+<img src="./960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%" alt="960px Roquetas de Mar (Umgebung) 2004 08 18 Glashäuser 2">
 </div>
 {{% /tab %}}
 {{% tab "田んぼ" %}}
@@ -278,7 +278,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="960px-Luz.jpg" width="95%">
+<img src="960px-Luz.jpg" width="95%" alt="960px Luz">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

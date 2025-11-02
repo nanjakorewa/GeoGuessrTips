@@ -31,7 +31,7 @@ flag_height: "600px"
 Algunas señales de STOP tienen una forma distintiva.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/papuanewguinea/Papua_New_Guinea_stop_sign.svg" width="200px">
+<img src="/rule/oceania/papuanewguinea/Papua_New_Guinea_stop_sign.svg" width="200px" alt="Papua New Guinea stop sign">
 </div>
 
 {{% /tab %}}

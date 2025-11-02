@@ -35,7 +35,7 @@ Plat nomor kendaraan memiliki area merah di sisi kiri {{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/mongolia/mongolia_steppe_horses_altai.jpg" width="95%">
+<img src="/rule/asia/mongolia/mongolia_steppe_horses_altai.jpg" width="95%" alt="Mongolia steppe horses altai">
 </div>
 
 {{% lb 50 %}}
@@ -48,7 +48,7 @@ Oleh Nima Farid - Karya sendiri, CC0, <a href="https://commons.wikimedia.org/w/i
 Yurt (rumah tradisional di dataran tinggi Mongolia) mungkin terlihat dari kejauhan {{% ex "https://maps.app.goo.gl/aJRwu5Mo2uk7b8en8" "https://maps.app.goo.gl/mUTd51UQcCA2UwfM6" "https://maps.app.goo.gl/V7gk5kwoK8TtW3nU8" "https://goo.gl/maps/iy9e9jVHmGwbVHw88" "https://maps.app.goo.gl/ocP6224mJufdTEn99" %}}?
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/mongolia/yurt_mongolia_steppe_altai.jpg" width="95%" />
+<img src="/rule/asia/mongolia/yurt_mongolia_steppe_altai.jpg" width="95%" alt="Yurt mongolia steppe altai" />
 </div>
 
 {{% notice tip %}}
@@ -98,7 +98,7 @@ Bollard berbentuk pin bowling dapat ditemukan di sisi jalan.
 {{% tabs %}}
 {{% tab "Vegetasi" %}}
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/asia/mongolia/map6.gif" /></div>
+<div class="unclickable"><img src="/rule/asia/mongolia/map6.gif" alt="Map6" /></div>
 <div class="description-wide">
 Legend tour Ltd., INFORMATION FOR TRAVELERS GEOGRAPHICAL FEATURES, <a href="https://www.legendtour.ru/eng/mongolia/informations/geographical_features.shtml">Link</a>, diakses pada 1 Mei 2023.
 </div>

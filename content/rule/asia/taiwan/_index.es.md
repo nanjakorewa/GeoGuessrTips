@@ -56,7 +56,7 @@ Hi-Life (萊爾富便利商店) forma parte de las cuatro grandes cadenas de con
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/taiwan/hilife.jpg" width="90%">
+<img src="/rule/asia/taiwan/hilife.jpg" width="90%" alt="Hilife">
 </div>
 
 <div class="googlemap-if unclickable">
@@ -68,7 +68,7 @@ Las líneas <span class="quiz">rojas</span> y <b>amarillas</b> pintadas en el bo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/taiwan/road.jpg" width="90%">
+<img src="/rule/asia/taiwan/road.jpg" width="90%" alt="Road">
 </div>
 
 
@@ -85,7 +85,7 @@ Las señales direccionales tienen un diseño particular.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/taiwan/tw_fw6_photo.jpg">
+<img src="/rule/asia/taiwan/tw_fw6_photo.jpg" alt="Tw fw6 photo">
 </div>
 
 {{% /tab %}}
@@ -95,7 +95,7 @@ Los edificios horizontales gigantes normalmente pertenecen a fábricas de semico
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/taiwan/tsmc_factory_hsinchu.jpg">
+<img src="/rule/asia/taiwan/tsmc_factory_hsinchu.jpg" alt="Tsmc factory hsinchu">
 </div>
 
 {{% /tab %}}

@@ -37,7 +37,7 @@ sc: [
 
 {{% notice tip %}}Mobil pribadi menggunakan pelat nomor berwarna <span class="quiz">kuning</span>{{% ex "https://maps.app.goo.gl/TzDTrkAjDotYkCNK7" "https://maps.app.goo.gl/BeqwHT32ZYQWLXX2A" %}} dan lalu lintas berjalan di sisi kiri.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%">
+<img src="/rule/africa/namibia/elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
 </div>
 
 {{% lb 50 %}}
@@ -48,7 +48,7 @@ Oleh <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quo
 
 {{% notice tip %}}Gurun Namib yang datar membentang di sepanjang pantai{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}. Gurun ini termasuk dalam kategori gurun pesisir barat seperti {{% goto "../../cs_america/chile/" "Gurun Atacama di Chile" %}}{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "Gurun Pesisir Barat" %}}.{{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%">
+<img src="/rule/africa/namibia/road_ahead_desert_never.jpg" width="95%" alt="Road ahead desert never">
 </div>
 
 {{% notice tip %}}Pernah berada di bawah kolonialisme {{% goto "../../europe/germany/" "Jerman" %}}, lalu berada di bawah mandat Afrika Selatan. Karena itu, nama-nama jalan yang terdengar seperti Bahasa Jerman masih ditemukan{{% ex "https://maps.app.goo.gl/svF4zwa6Dt2kwZcB8" %}}.{{% /notice %}}
@@ -60,7 +60,7 @@ Oleh <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quo
 Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berlian dan uranium. Karena itu, wilayah perkotaannya relatif aman dan infrastruktur seperti perumahan telah berkembang{{% ex "https://maps.app.goo.gl/tasd2CRDKQ6BD5zA8" %}}. Di kota seperti Swakopmund, terdapat bangunan bergaya Eropa yang terpengaruh oleh {{% goto "../../europe/germany/" "Jerman" %}}{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "Swakopmund" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/namibia/swakopmund1.jpg">
+<img src="/rule/africa/namibia/swakopmund1.jpg" alt="Swakopmund1">
 </div>
 
 {{% /tab %}}
@@ -96,7 +96,7 @@ Meskipun populasinya rendah, Namibia kaya akan sumber daya mineral seperti berli
 {{% tabs %}}
 {{% tab "Ketinggian" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" />
+<img src="/rule/africa/namibia/960px-Namibia_Topography.png" width="70%" alt="960px Namibia Topography" />
 </div>
 
 {{% notice tip %}}
@@ -111,7 +111,7 @@ Wilayah hijau tertutup vegetasi lebih dari 80%, sedangkan wilayah hijau muda men
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/glasscover.png" width="70%" />
+<img src="/rule/africa/namibia/glasscover.png" width="70%" alt="Glasscover" />
 </div>
 
 {{% /tab %}}
@@ -165,7 +165,7 @@ Pohon palem yang dikenal sebagai "palem meledak" ini tersebar di bagian utara de
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px">
+<img src="/rule/africa/namibia/bakuhatsu.jpg" width="300px" alt="Bakuhatsu">
 </div>
 
 {{% /tab %}}
@@ -175,7 +175,7 @@ Mudah dikenali dari siluetnya, namun karena sedikitnya jalan di sepanjang perbat
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%">
+<img src="/rule/africa/namibia/rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
 </div>
 
 {{% notice tip %}}
@@ -183,7 +183,7 @@ Area persebarannya ditunjukkan oleh titik-titik biru muda pada gambar di bawah i
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%">
+<img src="/rule/africa/namibia/the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
 </div>
 
 {{% /tab %}}
@@ -216,7 +216,7 @@ Terletak di bagian utara Namibia, gunung besar dan datar ini dapat terlihat deng
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" />
+<img src="/rule/africa/namibia/Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
 </div>
 
 {{% /tab %}}

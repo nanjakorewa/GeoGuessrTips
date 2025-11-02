@@ -39,7 +39,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./Island_couple.jpg" width="70%">
+<img src="./Island_couple.jpg" width="70%" alt="Island couple">
 </div>
 
 

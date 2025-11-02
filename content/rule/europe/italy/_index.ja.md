@@ -74,13 +74,13 @@ Willtron, CC 表示-継承 3.0, <a href="https://commons.wikimedia.org/w/index.p
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
-<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
-<img src="./r/roadside.jpg" width="80px" style="margin:30px">
+<img src="./r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px" alt="Italian traffic signs attraversamento pedonale">
+<img src="./sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px" alt="Italian traffic signs SOS">
+<img src="./sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px" alt="Italian traffic signs velocità consigliata 50">
+<img src="./sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px" alt="Segnale numerazione cavalcavia 100 A2">
+<img src="./sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px" alt="Italian traffic signs zona a velocità limitata (figura II 323 a)">
+<img src="./sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px" alt="Italian traffic signs autostrada">
+<img src="./r/roadside.jpg" width="80px" style="margin:30px" alt="Roadside">
 </div>
 
 {{% notice tip %}}
@@ -93,8 +93,8 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
-<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
+<img src="./r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px" alt="Autostrada A4 Italia">
+<img src="./r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px" alt="Strada Statale 10 Italia">
 </div>
 
 {{% notice tip %}}
@@ -110,7 +110,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="rimini_via_luci_del.jpg">
+<img src="rimini_via_luci_del.jpg" alt="Rimini via luci del">
 </div>
 
 {{% notice tip %}}
@@ -129,7 +129,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./sali_e_tabacchi.jpg" width="80%">
+<img src="./sali_e_tabacchi.jpg" width="80%" alt="Sali e tabacchi">
 </div>
 
 {{% /tab %}}
@@ -138,7 +138,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 ぶどう畑が多い{{% ex "https://maps.app.goo.gl/mvXJiejHLTnSGHNN7" "https://maps.app.goo.gl/dvWkLTo1E7oNvEQC6" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="vineyards_vines_italy_barolo.jpg">
+<img src="vineyards_vines_italy_barolo.jpg" alt="Vineyards vines italy barolo">
 </div>
 {{% /tab %}}
 {{% tab "商業施設" %}}
@@ -148,7 +148,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Logo_ENI.svg" width="190px" style="margin: 1em"/>
+<img src="Logo_ENI.svg" width="190px" style="margin: 1em" alt="Logo ENI" />
 </div>
 
 {{% /tab %}}
@@ -175,11 +175,11 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tabs %}}
 {{% tab "気候" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./Eliofania.png" width="500px">
+<img src="./Eliofania.png" width="500px" alt="Eliofania">
 </div>
 
 <div class="googlemap-if no-margin unclickable">
-<img src="prickly_pear_cactus_plant_0.jpg">
+<img src="prickly_pear_cactus_plant_0.jpg" alt="Prickly pear cactus plant 0">
 </div>
 
 {{% notice tip %}}
@@ -197,7 +197,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% goto "../andorra/" "アンドラ" %}}のような石壁模様の家が見つかるので国を間違えないように注意{{% ex "https://maps.app.goo.gl/AkQY1NarcrMtJ74v7" "https://maps.app.goo.gl/we11oKEKLT82uacY9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./viapedonale.jpg">
+<img src="./viapedonale.jpg" alt="Viapedonale">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -269,7 +269,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% tab "イタリアのProvince名" %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Italian_regions_provinces.svg" width="90%">
+<img src="./Italian_regions_provinces.svg" width="90%" alt="Italian regions provinces">
 </div>
 
 {{% /tab %}}
@@ -288,7 +288,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./milano_cartelli_piazza_luigi.jpg">
+<img src="./milano_cartelli_piazza_luigi.jpg" alt="Milano cartelli piazza luigi">
 </div>
 
 {{% notice tip %}}
@@ -304,7 +304,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 街中ならATMを見ると「Banco di Sardegna」の緑の丸いロゴが書いてあることが多い{{% ex "https://maps.app.goo.gl/97TqWgTf5xaoZRuc7" "https://maps.app.goo.gl/SeVBwcmNKtRkn4cj8" "https://maps.app.goo.gl/4twt16c97pz5GEui9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./Banco_di_Sardegna.svg" width="500px">
+<img src="./Banco_di_Sardegna.svg" width="500px" alt="Banco di Sardegna">
 </div>
 
 {{% /tab %}}
@@ -314,7 +314,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p><img src="./trail_caria_tropea01.jpg" width="590"></img>
+<p><img src="./trail_caria_tropea01.jpg" width="590" alt="Trail caria tropea01"></img>
 <p><a href="https://commons.wikimedia.org/wiki/File:Gariglione.jpg#/media/File:Gariglione.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/f/fb/Gariglione.jpg" alt="Gariglione.jpg" width="590"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:GeorgeOrwell1984&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:GeorgeOrwell1984 (page does not exist)">GeorgeOrwell1984</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=90559600">Link</a></p>
 </div>
 
@@ -326,7 +326,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Sicilian_Flag.svg" width="500px">
+<img src="./Sicilian_Flag.svg" width="500px" alt="Sicilian Flag">
 </div>
 
 {{% /tab %}}
@@ -352,7 +352,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 ヨーロッパ最大の活火山であるEtna火山があり、とても黒っぽい土が道端に広がっている{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%88%E3%83%8A%E7%81%AB%E5%B1%B1" "エトナ火山" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mount_etna_sicily_italy.jpg" width="95%">
+<img src="./mount_etna_sicily_italy.jpg" width="95%" alt="Mount etna sicily italy">
 </div>
 {{% /tab %}}
 {{% tab "Giglio島" %}}
@@ -360,7 +360,7 @@ SP・SSなどの道路番号と八角形のAの道路番号{{% ex "https://goo.g
 Giglio島は島全体の9割が地中海性森林{{% ref "https://en.wikipedia.org/wiki/Isola_del_Giglio" "Isola del Giglio" %}}。マツの木が群生している様子が見受けられる{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" "https://maps.app.goo.gl/XuqdC3Rr7Ya2augE9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Giglio_Campese.jpg" width="95%">
+<img src="./Giglio_Campese.jpg" width="95%" alt="Giglio Campese">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria島" %}}
@@ -368,7 +368,7 @@ Giglio島は島全体の9割が地中海性森林{{% ref "https://en.wikipedia.o
 Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。トレッカーの場所も多い{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="city/dammuso.jpg">
+<img src="city/dammuso.jpg" alt="Dammuso">
 </div>
 {{% /tab %}}
 {{% tab "Egadi諸島" %}}
@@ -376,7 +376,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 岩でできた山のてっぺんに城が見える。街中で家に視界を遮られないかぎり大体この城が見えるっぽい{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./favignana_island_sea_sicily.jpg" width="95%">
+<img src="./favignana_island_sea_sicily.jpg" width="95%" alt="Favignana island sea sicily">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa島" %}}
@@ -384,7 +384,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 本土からかなり離れた離島{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" %}}。バギーが多い{{% ex "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}}のは{{% goto "../../oceania/pitcairn/" "ピトケアン諸島" %}}や{{% goto "../../oceania/cocos_islands/" "ココス諸島"  %}}のような離島の共通点。初見で当てるのは難しい。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./isola_dei_conigli.jpg" width="95%">
+<img src="./isola_dei_conigli.jpg" width="95%" alt="Isola dei conigli">
 </div>
 {{% /tab %}}
 {{% tab "San domino島" %}}
@@ -400,7 +400,7 @@ Pantelleria島（Isola di Pantelleria）はサボテンと石垣が多い。ト�
 Veneziaには船にのって移動するエリアがある{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}。ヴェネツィアをモデルにした{{% goto "../france/" "フランス" %}}のGrimaudと間違えないように。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./city/venezia_water_passages_275518.jpg">
+<img src="./city/venezia_water_passages_275518.jpg" alt="Venezia water passages 275518">
 </div>
 {{% /tab %}}
 {{% tab "Campione d'Italia" %}}

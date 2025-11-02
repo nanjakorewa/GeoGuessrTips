@@ -26,7 +26,7 @@ flag: "Aichi.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="aichi_pref_r_281.jpg">
+<img src="aichi_pref_r_281.jpg" alt="Aichi pref r 281">
 </div>
 
 {{% /tab %}}
@@ -36,7 +36,7 @@ flag: "Aichi.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="tokai_rika_hagi_factory.jpg">
+<img src="tokai_rika_hagi_factory.jpg" alt="Tokai rika hagi factory">
 </div>
 
 {{% /tab %}}
@@ -46,7 +46,7 @@ flag: "Aichi.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-chubu.png" width="220px">
+<img src="../../pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 {{% /tab %}}

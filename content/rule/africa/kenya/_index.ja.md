@@ -96,7 +96,7 @@ Google Carが特徴的で何種類か存在する。車の屋根が見えたり{
 {{% tabs %}}
 {{% tab "植生" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="90%" />
+<img src="./vegitation.jpg" width="90%" alt="Vegitation" />
 </div>
 
 {{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 『A review of Kenya’s national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.』 (2014)." %}}

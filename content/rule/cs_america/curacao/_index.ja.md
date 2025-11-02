@@ -29,7 +29,7 @@ is_has_distinctive_googlecar: true
 『Curacao』と書かれた看板がある
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./curacao_decoration_sign_blue.jpg" width="90%">
+<img src="./curacao_decoration_sign_blue.jpg" width="90%" alt="Curacao decoration sign blue">
 </div>
 
 {{% notice tip %}}
@@ -43,7 +43,7 @@ Google Carが特徴的で黒い車体やバーが見える{{% ex "https://maps.a
 藁でできたパラソルがビーチにある{{% ex "https://maps.app.goo.gl/wZRikHB6fkCySM5c6" "https://maps.app.goo.gl/EDzumPkno3Dwytez8" "https://maps.app.goo.gl/ag2hThmTBT2YcBxf7" "https://maps.app.goo.gl/murYXZfkz7vah7ed6" "https://maps.app.goo.gl/E22HHRbRFfiSTF4t5" "https://maps.app.goo.gl/BZXriPrHYUhcN2HA8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./curacao_beach_sea_tropical.jpg" width="90%">
+<img src="./curacao_beach_sea_tropical.jpg" width="90%" alt="Curacao beach sea tropical">
 </div>
 
 {{% /tab %}}

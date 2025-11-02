@@ -56,7 +56,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./hilife.jpg" width="90%">
+<img src="./hilife.jpg" width="90%" alt="Hilife">
 </div>
 
 <div class="googlemap-if unclickable">
@@ -68,7 +68,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%">
+<img src="./road.jpg" width="90%" alt="Road">
 </div>
 
 
@@ -85,7 +85,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tw_fw6_photo.jpg">
+<img src="./tw_fw6_photo.jpg" alt="Tw fw6 photo">
 </div>
 
 {{% /tab %}}
@@ -95,7 +95,7 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tsmc_factory_hsinchu.jpg">
+<img src="./tsmc_factory_hsinchu.jpg" alt="Tsmc factory hsinchu">
 </div>
 
 {{% /tab %}}

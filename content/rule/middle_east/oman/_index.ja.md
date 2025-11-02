@@ -63,7 +63,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="sign.png" width="300px">
+<img src="sign.png" width="300px" alt="Sign">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="desert_sand_dry_hot.jpg" width="90%">
+<img src="desert_sand_dry_hot.jpg" width="90%" alt="Desert sand dry hot">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="date_palm_date_palm.jpg" width="90%">
+<img src="date_palm_date_palm.jpg" width="90%" alt="Date palm date palm">
 </div>
 
 
@@ -138,7 +138,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 
 
 <div class="googlemap-if no-margin">
-<img src="street_travel_car_mountain.jpg">
+<img src="street_travel_car_mountain.jpg" alt="Street travel car mountain">
 </div>
 {{% /tab %}}
 {{% tab "ドファール山脈" %}}
@@ -148,7 +148,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="after_rain_7.jpg" width="90%">
+<img src="after_rain_7.jpg" width="90%" alt="After rain 7">
 </div>
 
 {{% notice tip %}}
@@ -168,7 +168,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Ji-Elle" title="User:Ji-Elle">Ji-E
 
 
 <div class="googlemap-if no-margin">
-<img src="soilmap.jpg">
+<img src="soilmap.jpg" alt="Soilmap">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

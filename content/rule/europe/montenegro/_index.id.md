@@ -38,7 +38,7 @@ sc: [
 Plat nomor memiliki pita biru di kiri dan <span class="quiz">lambang di tengah</span>; bagian tersebut kadang tampak kemerahan{{% ex "https://maps.app.goo.gl/XKk4oFYuAG9Bsejo8" "https://maps.app.goo.gl/A9fuD52Ge1eenJaSA" %}}. Ada juga mobil dengan plat putih polos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/montenegro/1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%">
+<img src="/rule/europe/montenegro/1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%" alt="1087px DSC 0122 Podgorica, July 2017">
 </div>
 
 {{% lb 50 small %}}
@@ -69,7 +69,7 @@ Rumah berdinding putih dan gunung berbatu putih sering terlihat{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/montenegro/montenegro_rijeka_crnojevica_1230321.jpg" width="95%">
+<img src="/rule/europe/montenegro/montenegro_rijeka_crnojevica_1230321.jpg" width="95%" alt="Montenegro rijeka crnojevica 1230321">
 </div>
 
 {{% /tab  %}}
@@ -79,7 +79,7 @@ Stasiun pengisian seperti EKO umum di wilayah antara {{% goto "../greece/" "Yuna
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/montenegro/fuel_station_eko_pic2.jpg">
+<img src="/rule/europe/montenegro/fuel_station_eko_pic2.jpg" alt="Fuel station eko pic2">
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ Supermarket bernama IDEA hadir di seluruh {{% goto "../serbia/" "Serbia" %}} dan
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/serbia/idea.png" width="400px">
+<img src="/rule/europe/serbia/idea.png" width="400px" alt="Idea">
 </div>
 
 

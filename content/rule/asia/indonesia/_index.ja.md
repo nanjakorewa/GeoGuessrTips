@@ -49,7 +49,7 @@ sc: [
 瓦{{% ex "https://maps.app.goo.gl/U2HCP3pi4acVz8Sh7" "https://maps.app.goo.gl/ZYHgQLzqLhZ3z5h8A" %}}やトタンの屋根{{% ex "https://maps.app.goo.gl/K28C4C6htnALA5ti7" "https://maps.app.goo.gl/nvEZz49vQTwt8MNY9" %}}が多い。北ほどトタンの割合が高い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house.jpg">
+<img src="./house.jpg" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -60,9 +60,9 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px">
-<img src="./c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px">
-<img src="./c/BRI_2020.svg" width="170px" style="margin:10px">
+<img src="./c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px" alt="1280px Alfamart logo.svg">
+<img src="./c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px" alt="Bank Mandiri logo 2016">
+<img src="./c/BRI_2020.svg" width="170px" style="margin:10px" alt="BRI 2020">
 </div>
 
 
@@ -70,7 +70,7 @@ sc: [
 道端で<span class="quiz">タバコ</span>がよく売られている{{% ex "https://goo.gl/maps/famuKArJo35iqqTf6" "https://goo.gl/maps/r1YhkdzHhBrUChEVA" "https://goo.gl/maps/2NxrDJLbyFLVCvML9" %}}。<span class="quiz">たばこ</span>の絵柄が無くても『18+』と書かれていれば<span class="quiz">たばこ</span>の広告。
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./adv.jpg" width="95%">
+<img src="./adv.jpg" width="95%" alt="Adv">
 </div>
 
 {{% notice tip %}}
@@ -78,11 +78,11 @@ sc: [
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="ll.jpg" class="resolution-small" width="50%" />
+<img src="ll.jpg" class="resolution-small" width="50%" alt="Ll" />
 
 CC0
 
-<img src="ll2.jpg" class="resolution-small" width="50%" />
+<img src="ll2.jpg" class="resolution-small" width="50%" alt="Ll2" />
 
 CC0
 {{% /lb %}}
@@ -232,7 +232,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-12-02-14-06.png" width="95%" />
+<img src="2023-08-12-02-14-06.png" width="95%" alt="2023 08 12 02 14 06" />
 </div>
 
 {{% /tab %}}
@@ -304,7 +304,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% tabs %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-47-26.png" width="90%"/>
+<img src="2023-06-29-00-47-26.png" width="90%" alt="2023 06 29 00 47 26" />
 </div>
 
 {{% notice tip %}}
@@ -314,7 +314,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-49-42.png" width="90%"/>
+<img src="2023-06-29-00-49-42.png" width="90%" alt="2023 06 29 00 49 42" />
 </div>
 
 {{% notice tip %}}
@@ -328,7 +328,7 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /tab %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-50-42.png" width="90%"/>
+<img src="2023-06-29-00-50-42.png" width="90%" alt="2023 06 29 00 50 42" />
 </div>
 
 {{% notice tip %}}
@@ -373,14 +373,14 @@ Lontiokと呼ばれる伝統的な形の高床式の家がある。屋根の先�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./ternate_city_indonesia_2010.jpg">
+<img src="./ternate_city_indonesia_2010.jpg" alt="Ternate city indonesia 2010">
 </div>
 
 {{% /tab %}}
 {{% tab "市外局番" %}}
 
 <div class="googlemap-if unclickable">
-<img src="tlp.png" width="90%"/>
+<img src="tlp.png" width="90%" alt="Tlp" />
 </div>
 
 {{% /tab %}}

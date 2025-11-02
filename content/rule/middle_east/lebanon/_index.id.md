@@ -37,7 +37,7 @@ Tiang dan menara berwarna kuning hampir tidak pernah terlihat di luar Libanon{{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/street.jpg" width="90%">
+<img src="/rule/middle_east/lebanon/street.jpg" width="90%" alt="Street">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Plat nomor memiliki berbagai warna{{% ref "https://en.wikipedia.org/wiki/Vehicle
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/streetinbatroun.jpg" width="90%">
+<img src="/rule/middle_east/lebanon/streetinbatroun.jpg" width="90%" alt="Streetinbatroun">
 </div>
 
 
@@ -73,7 +73,7 @@ Mayoritas rumah terbuat dari batu{{% ex "https://maps.app.goo.gl/Y2cJxJsa1RDNpPa
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/lebanon_syria_border_sep13voa_2.jpg" width="90%">
+<img src="/rule/middle_east/lebanon/lebanon_syria_border_sep13voa_2.jpg" width="90%" alt="Lebanon syria border sep13voa 2">
 </div>
 
 {{% notice tip %}}
@@ -81,7 +81,7 @@ Tulisan Arab, Inggris, dan Prancis sering terlihat di perkotaan{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/bienvenue_rechmaya.jpg" width="90%">
+<img src="/rule/middle_east/lebanon/bienvenue_rechmaya.jpg" width="90%" alt="Bienvenue rechmaya">
 </div>
 
 {{% /tab %}}
@@ -106,7 +106,7 @@ Tulisan Arab, Inggris, dan Prancis sering terlihat di perkotaan{{% ex "https://m
 {{% tab "Pertanian" %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/1979-crop.jpg" width="70%">
+<img src="/rule/middle_east/lebanon/1979-crop.jpg" width="70%" alt="1979 crop">
 </div>
 
 {{% /tab %}}
@@ -134,7 +134,7 @@ Karena berada di antara Pegunungan Libanon dan Anti-Libanon, seharusnya terlihat
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/lebanon/zahle_lebanon.jpg" width="95%">
+<img src="/rule/middle_east/lebanon/zahle_lebanon.jpg" width="95%" alt="Zahle lebanon">
 </div>
 
 {{% /tab %}}

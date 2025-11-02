@@ -41,7 +41,7 @@ sc: [
 Paisagem de lava com solo negro e gramíneas pontiagudas{{% ex "https://maps.app.goo.gl/Qde2dHpWgHTN6pZC6" %}}. O relevo vulcânico gera rios sinuosos e brejos; margens retas são raras. Terrenos parecidos aparecem nas {{% goto "../../africa/canary_islands/" "Canárias" %}}, em {{% goto "../../africa/reunion/" "Reunião" %}} ou {{% goto "../../oceania/pitcairn/" "Pitcairn" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-road.png" width="95%">
+<img src="/rule/europe/iceland/iceland-road.png" width="95%" alt="Iceland road">
 </div>
 
 
@@ -57,7 +57,7 @@ Balizadores amarelos com topo preto são um sinal clássico{{% ex "https://maps.
 Casas com grandes janelas ajudam a aproveitar a luz solar, e quase não há estruturas de madeira devido ao clima{{% ex "https://maps.app.goo.gl/sjUUxmKN94VmZ8JM8" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "Lições das casas islandesas" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-house.jpg" width="95%">
+<img src="/rule/europe/iceland/iceland-house.jpg" width="95%" alt="Iceland house">
 </div>
 
 
@@ -79,7 +79,7 @@ CC0
 As placas de faixa de pedestre são amarelas; fora de Reykjavík nem sempre aparecem.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/r/Iceland_road_sign_D02.11.svg" width="190px">
+<img src="/rule/europe/iceland/r/Iceland_road_sign_D02.11.svg" width="190px" alt="Iceland road sign D02.11">
 </div>
 
 {{% /tab %}}

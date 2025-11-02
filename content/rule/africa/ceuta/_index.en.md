@@ -53,8 +53,8 @@ There are black and white guardrails.
 Sometimes the crosswalk signs are surrounded by yellow lines.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ceuta/walk1.png" width="100px" style="margin:10px">
-<img src="/rule/africa/ceuta/walk2.png" width="110px" style="margin:5px">
+<img src="/rule/africa/ceuta/walk1.png" width="100px" style="margin:10px" alt="Walk1">
+<img src="/rule/africa/ceuta/walk2.png" width="110px" style="margin:5px" alt="Walk2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

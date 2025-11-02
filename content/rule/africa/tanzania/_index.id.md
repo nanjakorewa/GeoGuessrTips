@@ -40,7 +40,7 @@ Dengan lokasi yang tersebar, diperlukan pengamatan detail untuk menebak dengan t
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/tanzania/google-map.png" width="80%">
+<img src="/rule/africa/tanzania/google-map.png" width="80%" alt="Google map">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

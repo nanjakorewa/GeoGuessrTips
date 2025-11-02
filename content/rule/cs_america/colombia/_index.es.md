@@ -47,11 +47,11 @@ En la parte posterior de las señales aparece la <span class="quiz">cruz colombi
 Recuerda que en el estado mexicano de Chihuahua también hay señales con cruz{{% goto "../../n_america/mexico/" "México" %}}{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}; conviene tenerlo presente como referencia.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign-example.jpg" width="85%" alt="Road sign example" />
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" />
+<img src="/rule/cs_america/colombia/road-sign.jpg" width="85%" alt="Road sign" />
 </div>
 
 
@@ -59,7 +59,7 @@ Recuerda que en el estado mexicano de Chihuahua también hay señales con cruz{{
 Las matrículas (delantera y trasera) son <span class="quiz">amarillas</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}} o, más raramente, blancas. Las motocicletas también llevan matrícula <span class="quiz">amarilla</span>{{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}. {{% goto "../peru/" "Perú" %}} utiliza placas amarillas, pero las colombianas tienden al tono naranja.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/lp.jpg" width="95%">
+<img src="/rule/cs_america/colombia/lp.jpg" width="95%" alt="Lp">
 </div>
 
 {{% lb 50 %}}
@@ -73,7 +73,7 @@ A lo largo de los caminos se ven con frecuencia cercas de madera con alambre de 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/colombia/roadside.jpg" width="95%">
+<img src="/rule/cs_america/colombia/roadside.jpg" width="95%" alt="Roadside">
 </div>
 
 
@@ -125,7 +125,7 @@ A lo largo de los caminos se ven con frecuencia cercas de madera con alambre de 
 {{% tabs %}}
 {{% tab "vegetación" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" />
+<img src="/rule/cs_america/colombia/pone.0043943.g001.png" width="80%" alt="Pone.0043943.g001" />
 </div>
 
 {{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sánchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia, 2001–2010" %}}. Este mapa muestra cómo la cobertura vegetal ha ido cambiando en la última década; resulta útil para distinguir áreas de sabana, selva y desierto.{{% /notice %}}

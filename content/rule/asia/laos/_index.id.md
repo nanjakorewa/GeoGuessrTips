@@ -37,7 +37,7 @@ sc: [
 Plat nomor kendaraan umumnya berwarna <span class="quiz">kuning</span>, dan lalu lintas berada di jalur kanan {{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}. Sebaliknya, di {{% goto "../thai/" "Thailand" %}} kendaraan bergerak di <span class="quiz">jalur kiri</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/laos/car.jpg" width="90%" />
+<img src="/rule/asia/laos/car.jpg" width="90%" alt="Car" />
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Bahasa Laos digunakan secara resmi, dan rambu "Stop" memiliki ciri khas tersendi
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/laos/960px-Fari-Wechsel.jpg" width="90%">
+<img src="/rule/asia/laos/960px-Fari-Wechsel.jpg" width="90%" alt="960px Fari Wechsel">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -72,7 +72,7 @@ Bagian belakang papan rambu di Laos terkadang berwarna <span class="quiz">biru m
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/laos/roadsign.jpg" width="85%">
+<img src="/rule/asia/laos/roadsign.jpg" width="85%" alt="Roadsign">
 </div>
 
 {{% /tab %}}
@@ -121,7 +121,7 @@ Bahasa Laos digunakan sebagai bahasa resmi.
 {{% tabs %}}
 {{% tab "Vang Vieng" %}}
 <div class="googlemap-if">
-<img src="/rule/asia/laos/laos_vang_vieng_river.jpg">
+<img src="/rule/asia/laos/laos_vang_vieng_river.jpg" alt="Laos vang vieng river">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -13,7 +13,7 @@ pagetype: "quiz"
 {{% qb %}}
 
 <div class="googlemap-if no-margin">
-<img src="map.jpg" width="600px">
+<img src="map.jpg" width="600px" alt="Map">
 </div>
 
 

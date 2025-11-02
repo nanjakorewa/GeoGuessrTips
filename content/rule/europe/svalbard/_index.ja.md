@@ -38,8 +38,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="kids_security_road_sign.jpg" width="500px">
-<img src="longyearbyen_panorama.jpg" width="500px">
+<img src="kids_security_road_sign.jpg" width="500px" alt="Kids security road sign">
+<img src="longyearbyen_panorama.jpg" width="500px" alt="Longyearbyen panorama">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="parked_snowmobiles_in_summer.jpg" width="500px">
+<img src="parked_snowmobiles_in_summer.jpg" width="500px" alt="Parked snowmobiles in summer">
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="barentsburg.jpg" width="90%">
+<img src="barentsburg.jpg" width="90%" alt="Barentsburg">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="31_07_pyramiden_30.jpg" width="90%">
+<img src="31_07_pyramiden_30.jpg" width="90%" alt="31 07 pyramiden 30">
 </div>
 
 {{% /tab %}}

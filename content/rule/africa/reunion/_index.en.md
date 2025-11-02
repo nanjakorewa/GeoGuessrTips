@@ -38,21 +38,21 @@ sc: [
 French‑style bollards and poles are present{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}; poles often have a blue plate{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/b2.jpg" width="90%">
+<img src="/rule/africa/reunion/b2.jpg" width="90%" alt="B2">
 </div>
 
 {{% notice tip %}}
 It is a volcanic island; <span class="quiz">reddish‑brown rocks</span> are often visible by the roadside{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/7DCJup8YyfxmLsMJ6" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/road_volcano_reunion_island.jpg" width="95%">
+<img src="/rule/africa/reunion/road_volcano_reunion_island.jpg" width="95%" alt="Road volcano reunion island">
 </div>
 
 {{% notice tip %}}
 Sugarcane fields are common on flatter ground{{% ex "https://maps.app.goo.gl/HbBXG71PjMv8P6Uz6" "https://maps.app.goo.gl/5Se1LGfNqNEUGHm16" %}}{{% ref "https://www.laperruche.fr/ja/sugar-cane/" "la Perruche (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/reunion/canne_a_sucre_de.jpg" width="95%">
+<img src="/rule/africa/reunion/canne_a_sucre_de.jpg" width="95%" alt="Canne a sucre de">
 </div>
 
 {{% notice tip %}}

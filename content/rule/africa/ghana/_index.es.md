@@ -37,7 +37,7 @@ En la parte delantera derecha de los vehﾃｭculos se puede observar <span clas
 <img src="/rule/africa/ghana/google-car.jpg" width="90%" alt="Google Car en Ghana" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/gc-bar.jpg" width="60%">
+<img src="/rule/africa/ghana/gc-bar.jpg" width="60%" alt="Gc bar">
 </div>
 
 <div class="googlemap-if" style="font-size:0.8em;">
@@ -56,7 +56,7 @@ Mirando hacia abajo, se deberﾃｭa ver la <span class="quiz">cinta adhesiva ne
 Los taxis tienen un estilo de pintura distintivo {{% ex "https://maps.app.goo.gl/zModPxBNsSaL1E5U6" "https://maps.app.goo.gl/36beJJUuYoXJtTT67" "https://maps.app.goo.gl/qF9yVfgunmUfd5pa9" "https://maps.app.goo.gl/kuyBAsBKBjKmrXaM9" "https://goo.gl/maps/iDyTpU2fepMEfKbv9" %}} y llevan matrﾃｭculas de color <span class="quiz">amarillo</span>. No cuentan con taxﾃｭmetros, y el precio del viaje se negocia al subir (aunque Uber permite fijar el precio con antelaciﾃｳn).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" />
+<img src="/rule/africa/ghana/mitsubishi_taxi_ghana.jpg" width="90%" alt="Mitsubishi taxi ghana" />
 </div>
 
 {{% notice tip %}}
@@ -68,7 +68,7 @@ Se pueden encontrar pequeﾃｱas tiendas que parecen puntos de venta de loter�
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" />
+<img src="/rule/africa/ghana/National_Lottery_Authority_logo.jpg" width="200px" alt="National Lottery Authority logo" />
 </div>
 
 {{% /tab %}}
@@ -105,7 +105,7 @@ Se pueden encontrar pequeﾃｱas tiendas que parecen puntos de venta de loter�
 {{% tabs %}}
 {{% tab "Palmas de Aceite" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ghana/20230522-palm.png" width="70%" />
+<img src="/rule/africa/ghana/20230522-palm.png" width="70%" alt="20230522 palm" />
 </div>
 {{% notice tip %}}
 Las palmas de aceite y los bananos son comunes en el sur. Si no ves este tipo de ﾃ｡rboles, es posible que estﾃｩs en el norte.
@@ -142,7 +142,7 @@ Si ves ﾃ｡reas con suelo expuesto o con predominancia de arbustos bajos, es p
 Las ﾃ｡reas blancas en este mapa indican zonas con montaﾃｱas altas {{% ex "https://maps.app.goo.gl/J5CKmYU4T4WuXnwF9" "https://maps.app.goo.gl/daef443oT3wCuJWu9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" />
+<img src="/rule/africa/ghana/Ghana_physical_map.svg" width="70%" alt="Ghana physical map" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

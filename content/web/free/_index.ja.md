@@ -20,7 +20,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-08-36.png">
+<img src="2023-10-15-00-08-36.png" alt="2023 10 15 00 08 36">
 </div>
 
 
@@ -29,7 +29,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-11-39.png">
+<img src="2023-10-15-00-11-39.png" alt="2023 10 15 00 11 39">
 </div>
 
 {{% notice tip %}}
@@ -37,8 +37,8 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if no-margin" style="pointer-events: none;">
-<img src="2023-10-15-00-16-30.png">
-<img src="2023-10-15-00-18-58.png">
+<img src="2023-10-15-00-16-30.png" alt="2023 10 15 00 16 30">
+<img src="2023-10-15-00-18-58.png" alt="2023 10 15 00 18 58">
 </div>
 
 {{% notice tip %}}
@@ -46,7 +46,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-20-13.png">
+<img src="2023-10-15-00-20-13.png" alt="2023 10 15 00 20 13">
 </div>
 
 {{% /tab %}}
@@ -57,7 +57,7 @@ sections: [""]
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-32-34.png">
+<img src="2023-10-15-00-32-34.png" alt="2023 10 15 00 32 34">
 </div>
 
 
@@ -65,7 +65,7 @@ sections: [""]
 ②チュートリアルを完了させます。チュートリアルではエッフェル塔や自由の女神がある場所が出題されます。最後に<span style="font-weight:bold;">プレイを続ける前にアカウント名がGmailのアドレスや本名になっていないことを確認してください</span>。以下の赤の箇所をクリックすることでアカウント名を変更することができます。
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events: none;">
-<img src="2023-10-15-00-44-25.png">
+<img src="2023-10-15-00-44-25.png" alt="2023 10 15 00 44 25">
 </div>
 
 

@@ -31,7 +31,7 @@ flag_height: "600px"
 一部のSTOPの看板は独特な形をしている。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="Papua_New_Guinea_stop_sign.svg" width="200px">
+<img src="Papua_New_Guinea_stop_sign.svg" width="200px" alt="Papua New Guinea stop sign">
 </div>
 
 {{% /tab %}}

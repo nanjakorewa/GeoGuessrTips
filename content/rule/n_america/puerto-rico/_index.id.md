@@ -40,7 +40,7 @@ sc: [
 Anda tidak akan menemukan mobil dengan <span class="quiz">pelat depan</span>. Tiang persegi kadang memiliki cat warna-warni di bagian bawah{{% ex "https://maps.app.goo.gl/XxN31SaHk76dDTvQ7" "https://maps.app.goo.gl/ZAZchittC7GJfBmE7" %}}. Pada citra 2014–2023, sisi kiri pelat tampak gelap sedangkan sisi kanan terlihat terang{{% ex "https://maps.app.goo.gl/X1YBm8SU1VYXt3Zk6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/puerto-rico/road.jpg" width="90%" >
+<img src="/rule/n_america/puerto-rico/road.jpg" width="90%" alt="Road">
 </div>
 
 
@@ -61,8 +61,8 @@ Rambu batas kecepatan memakai MPH{{% ex "https://maps.app.goo.gl/yCeskaZbva61uYK
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/puerto-rico/r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px">
-<img src="/rule/n_america/puerto-rico/r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px">
+<img src="/rule/n_america/puerto-rico/r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px" alt="MUTCD R2 1 PR">
+<img src="/rule/n_america/puerto-rico/r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px" alt="MUTCD PR R2 2a">
 </div>
 
 {{% notice tip %}}
@@ -71,8 +71,8 @@ Rambu rute punya beberapa bentuk. Rambu bundar biasanya memakai nomor 100 hingga
 
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/puerto-rico/r/869.png" width="100px" style="margin:10px">
-<img src="/rule/n_america/puerto-rico/r/970.png" width="80px" style="margin:10px">
+<img src="/rule/n_america/puerto-rico/r/869.png" width="100px" style="margin:10px" alt="869">
+<img src="/rule/n_america/puerto-rico/r/970.png" width="80px" style="margin:10px" alt="970">
 </div>
 
 {{% notice tip %}}

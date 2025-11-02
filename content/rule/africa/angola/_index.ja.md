@@ -36,7 +36,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Luanda_Centro.jpg" width="90%">
+<img src="./960px-Luanda_Centro.jpg" width="90%" alt="960px Luanda Centro">
 </div>
 
 {{% lb 50 %}}

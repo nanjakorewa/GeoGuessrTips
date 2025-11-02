@@ -35,7 +35,7 @@ sc: [
 Look for the <span class="quiz">.im</span> domain. Rear plates are yellow with a <span class="quiz">red</span> vertical band on the left{{% ex "https://maps.app.goo.gl/ASa155LZoJGF6dEZ8" "https://maps.app.goo.gl/GjKsEdbgDfCKhrk47" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/mannin/640px-Ford_Focus_illa_de_Man.jpg">
+<img src="/rule/europe/mannin/640px-Ford_Focus_illa_de_Man.jpg" alt="640px Ford Focus illa de Man">
 </div>
 
 {{% lb 50 %}}

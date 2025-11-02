@@ -46,7 +46,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./street_market_hanoi_vietnam_5.jpg" width="95%">
+<img src="./street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./rice.jpg" width="90%">
+<img src="./rice.jpg" width="90%" alt="Rice">
 </div>
 
 
@@ -100,7 +100,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Vietnam_Topography.png" width="60%">
+<img src="./Vietnam_Topography.png" width="60%" alt="Vietnam Topography">
 </div>
 
 {{% /tab %}}
@@ -110,11 +110,11 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%">
+<img src="./Distribution-of-karst-areas-in-northern-and-central-Vietnam-Through-thousands-of-years-of.png" width="90%" alt="Distribution of karst areas in northern and central Vietnam Through thousands of years of">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="thitrantammson.jpg">
+<img src="thitrantammson.jpg" alt="Thitrantammson">
 </div>
 
 {{% /tab %}}
@@ -124,7 +124,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./vietnam_mekong_river_mekong_4.jpg" width="90%">
+<img src="./vietnam_mekong_river_mekong_4.jpg" width="90%" alt="Vietnam mekong river mekong 4">
 </div>
 
 {{% /tab %}}
@@ -186,7 +186,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="giang_cafe_nguyen_huu.jpg" width="70%">
+<img src="giang_cafe_nguyen_huu.jpg" width="70%" alt="Giang cafe nguyen huu">
 </div>
 
 {{% /tab %}}
@@ -196,7 +196,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2025-06-28-23-02-50.png" width="90%">
+<img src="2025-06-28-23-02-50.png" width="90%" alt="2025 06 28 23 02 50">
 </div>
 
 {{% /tab %}}
@@ -255,7 +255,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./vietnam_Total_Rice.png" width="60%">
+<img src="./vietnam_Total_Rice.png" width="60%" alt="Vietnam Total Rice">
 </div>
 
 {{% /tab %}}
@@ -265,7 +265,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./960px-Mu_Cang_Chai.jpg" width="90%">
+<img src="./960px-Mu_Cang_Chai.jpg" width="90%" alt="960px Mu Cang Chai">
 </div>
 
 {{% /tab %}}
@@ -275,7 +275,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./rubber-plantation.png" width="60%">
+<img src="./rubber-plantation.png" width="60%" alt="Rubber plantation">
 </div>
 
 {{% /tab %}}
@@ -285,7 +285,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tea-plantation.png" width="60%">
+<img src="./tea-plantation.png" width="60%" alt="Tea plantation">
 </div>
 
 {{% /tab %}}
@@ -295,12 +295,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./345.png" width="90%">
+<img src="./345.png" width="90%" alt="345">
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%">
+<img src="./500px-Khe_Sanh_thung_lũng,_th5n2023_(cây_cà_phê_Khe_Sanh,_hoa_cà_phê_trắng)_(2) (1).jpg" width="90%" alt="500px Khe Sanh thung lũng, th5n2023 (cây cà phê Khe Sanh, hoa cà phê trắng) (2) (1)">
 </div>
 
 {{% /tab %}}
@@ -364,7 +364,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="ha_long_bay_with.jpg">
+<img src="ha_long_bay_with.jpg" alt="Ha long bay with">
 </div>
 
 {{% /tab %}}
@@ -385,7 +385,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="phu_quoc.jpg">
+<img src="phu_quoc.jpg" alt="Phu quoc">
 </div>
 
 {{% /tab %}}
@@ -395,7 +395,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="mongcai.jpg" width="90%">
+<img src="mongcai.jpg" width="90%" alt="Mongcai">
 </div>
 
 {{% /tab %}}

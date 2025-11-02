@@ -33,7 +33,7 @@ flag_height: "400px"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./arabian_gulf_street.jpg" width="90%">
+<img src="./arabian_gulf_street.jpg" width="90%" alt="Arabian gulf street">
 </div>
 
 {{% notice tip %}}
@@ -42,8 +42,8 @@ flag_height: "400px"
 
 
 <div class="googlemap-if">
-<img src="Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px">
-<img src="Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px">
+<img src="Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px" alt="Kuwait License Plate Private">
+<img src="Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px" alt="Kuwait License Plate Public">
 </div>
 
 

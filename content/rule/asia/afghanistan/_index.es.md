@@ -32,14 +32,14 @@ Hay varias coberturas oficiales que no se muestran en el mapa{{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/afghanistan/main.jpg" width="90%" />
+<img src="/rule/asia/afghanistan/main.jpg" width="90%" alt="Main" />
 </div>
 
 {{% notice tip %}}
 Las placas de los coches son de color <span class="quiz">blanco</span>. Los autobuses y taxis tienen placas de color amarillo.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/afghanistan/1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
+<img src="/rule/asia/afghanistan/1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%" alt="1133px Afghanistan Iran border in Zaranj, Afghanistan, 2011">
 </div>
 
 {{% lb 50 small %}}

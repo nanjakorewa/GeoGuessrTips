@@ -27,7 +27,7 @@ is_unofficial: true
 日本は石炭や液化天然ガスの輸入をしており、対モザンビークは貿易赤字となっている{{% ref "https://www.jetro.go.jp/world/africa/mz/gtir/" "モザンビークの貿易投資年報" %}}。Mozal社のような日本企業が出資している会社が国内最大企業として成長したりと日本との関係は実は深い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./Mozal_logo.png">
+<img src="./Mozal_logo.png" alt="Mozal logo">
 </div>
 
 {{% /tab %}}

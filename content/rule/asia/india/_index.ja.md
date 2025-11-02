@@ -64,7 +64,7 @@ sc: [
 電柱の配線が綺麗に整備されていない場合も多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./delhi_road_india_chaos.jpg" width="80%">
+<img src="./delhi_road_india_chaos.jpg" width="80%" alt="Delhi road india chaos">
 </div>
 
 {{% notice tip %}}
@@ -144,7 +144,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.jpg" width="80%">
+<img src="./bollard.jpg" width="80%" alt="Bollard">
 </div>
 
 {{% /tab %}}
@@ -212,7 +212,7 @@ sc: [
 ◁の形が文字中に散見される。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./shambhunath_pundit_hospital_kolkata.jpg">
+<img src="./shambhunath_pundit_hospital_kolkata.jpg" alt="Shambhunath pundit hospital kolkata">
 </div>
 {{% /tab %}}
 {{% tab "カンナダ語" %}}
@@ -220,7 +220,7 @@ sc: [
 カルナータカ地方とベンガルール周辺に話者が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "カンナダ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="panchayath.jpg">
+<img src="panchayath.jpg" alt="Panchayath">
 </div>
 {{% /tab %}}
 {{% tab "ヒンディー語" %}}
@@ -228,7 +228,7 @@ sc: [
 ヒンディー語・ヒンドゥスターニー語はデリーを含む地域で話される自然言語。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./baba_bateshwar_sewa_sansthan.jpg">
+<img src="./baba_bateshwar_sewa_sansthan.jpg" alt="Baba bateshwar sewa sansthan">
 </div>
 {{% /tab %}}
 {{% tab "タミル語" %}}
@@ -236,7 +236,7 @@ sc: [
 スリランカの海岸沿いに多い{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./wcc_chennai2.jpg">
+<img src="./wcc_chennai2.jpg" alt="Wcc chennai2">
 </div>
 {{% /tab %}}
 {{% tab "テルグ語" %}}
@@ -244,7 +244,7 @@ sc: [
 テルグ語（తెలుగు）はアーンドラ・プラデーシュ州およびテランガーナ州の公用語。文字の周りにある「つ」「✓」「ｍ」のような形が特徴的{{% ref "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "テルグ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./apsrtc_bus_stop_zahirabad.jpg">
+<img src="./apsrtc_bus_stop_zahirabad.jpg" alt="Apsrtc bus stop zahirabad">
 </div>
 {{% /tab %}}
 {{% tab "マラヤーラム語" %}}
@@ -252,7 +252,7 @@ sc: [
 ケーララ州と{{% goto "../lakshadweep/" "ラクシャドウィープ" %}}で使用されている言語{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "マラヤーラム語" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./thirunelli_temple_frontview.jpg">
+<img src="./thirunelli_temple_frontview.jpg" alt="Thirunelli temple frontview">
 </div>
 {{% /tab %}}
 {{% tab "チベット語" %}}
@@ -330,7 +330,7 @@ sc: [
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./india_kerala_traffic_transport.jpg" width="90%">
+<img src="./india_kerala_traffic_transport.jpg" width="90%" alt="India kerala traffic transport">
 </div>
 
 {{% /tab %}}
@@ -339,7 +339,7 @@ sc: [
 全域で見られるが北部に多い{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="auto_rickshaw_vehicles_automobiles.jpg">
+<img src="auto_rickshaw_vehicles_automobiles.jpg" alt="Auto rickshaw vehicles automobiles">
 </div>
 {{% /tab %}}
 {{% tab "黄色・黄色" %}}
@@ -347,7 +347,7 @@ sc: [
 黄色の時は<span class="quiz">南</span>に行ってみる？
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="rickshaw_india_car_710154.jpg">
+<img src="rickshaw_india_car_710154.jpg" alt="Rickshaw india car 710154">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -371,11 +371,11 @@ sc: [
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-13-47-23.png" width="60%" />
+<img src="2023-05-18-13-47-23.png" width="60%" alt="2023 05 18 13 47 23" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./oil_palm_tree_plantation_1.jpg" width="60%" />
+<img src="./oil_palm_tree_plantation_1.jpg" width="60%" alt="Oil palm tree plantation 1" />
 </div>
 
 {{% notice tip %}}
@@ -384,7 +384,7 @@ sc: [
 {{% /tab %}}
 {{% tab "菜種" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-14-03-20.png" width="60%" />
+<img src="2023-05-18-14-03-20.png" width="60%" alt="2023 05 18 14 03 20" />
 </div>
 
 {{% notice tip %}}
@@ -398,7 +398,7 @@ sc: [
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-18-14-07-10.png" width="60%" />
+<img src="2023-05-18-14-07-10.png" width="60%" alt="2023 05 18 14 07 10" />
 </div>
 
 
@@ -409,7 +409,7 @@ sc: [
 {{% /tab %}}
 {{% tab "コットン" %}}
 <div class="googlemap-if unclickable">
-<img src="IND_Cotton.png" width="60%" />
+<img src="IND_Cotton.png" width="60%" alt="IND Cotton" />
 </div>
 
 {{% notice tip %}}
@@ -419,11 +419,11 @@ sc: [
 {{% /tab %}}
 {{% tab "お茶" %}}
 <div class="googlemap-if unclickable">
-<img src="Tea-producing-regions-of-India.png" width="60%" />
+<img src="Tea-producing-regions-of-India.png" width="60%" alt="Tea producing regions of India" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./tea_garden_tea_plant.jpg" width="60%" />
+<img src="./tea_garden_tea_plant.jpg" width="60%" alt="Tea garden tea plant" />
 </div>
 
 {{% notice tip %}}
@@ -433,7 +433,7 @@ sc: [
 {{% /tab %}}
 {{% tab "大麦・小麦" %}}
 <div class="googlemap-if unclickable">
-<img src="./barley_field_wind_eddy.jpg" width="60%" />
+<img src="./barley_field_wind_eddy.jpg" width="60%" alt="Barley field wind eddy" />
 </div>
 
 {{% notice tip %}}
@@ -468,7 +468,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/monkey_varanasi_on_roof.jpg">
+<img src="./house/monkey_varanasi_on_roof.jpg" alt="Monkey varanasi on roof">
 </div>
 
 {{% /tab %}}
@@ -478,7 +478,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/village_asia_house_india.jpg">
+<img src="./house/village_asia_house_india.jpg" alt="Village asia house india">
 </div>
 
 {{% /tab %}}
@@ -487,7 +487,7 @@ sc: [
 Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイントされた建物が散見される{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "ジョードプル" %}}。ただし南の方にも普通にあるみたい{{% ex "https://maps.app.goo.gl/MvLJ2PyfBuwdCY1k7" %}}なので地域を限定するのは難しいかも。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house/city_blue_city_dzodhpur.jpg">
+<img src="./house/city_blue_city_dzodhpur.jpg" alt="City blue city dzodhpur">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -521,7 +521,7 @@ Jodhpur旧市街の家屋の壁などは青く塗られていて、青くペイ�
 Goaと同じく雨が多く、背の高いヤシが見つかる{{% ex "https://maps.app.goo.gl/aHTmvXeGD1bsM5pq8" %}}。Keralaの伝統的な建築は２階建てのものが多い{{% ex "https://maps.app.goo.gl/i8FxivqpAVPrqfFXA" %}}{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "インド・ネパールにおける伝統建築の技法と伝承" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="machukuzhy_sunnys_home.jpg" witdh="95%">
+<img src="machukuzhy_sunnys_home.jpg" witdh="95%" alt="Machukuzhy sunnys home">
 </div>
 {{% /tab %}}
 {{% tab "Assam" %}}
@@ -530,7 +530,7 @@ Kerala州やAssam州のような降水量が多い地域はこんな感じの背
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="arecanut_trees_assam.jpg">
+<img src="arecanut_trees_assam.jpg" alt="Arecanut trees assam">
 </div>
 {{% notice tip %}}
 Assam州は地震と洪水がある地域なので、竹のような軽い素材を使った壁や高床式の家もたまに見つかるらしい{{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "イギリス植民地国におけるバンガローの産業化と再生産に関する比較研究" %}}。レンガのような重い素材は地震で崩れてしまう。
@@ -565,7 +565,7 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 電柱の上に<span class="quiz">何か四角い穴がある</span>ならPanjabの街{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="pole2.jpg">
+<img src="pole2.jpg" alt="Pole2">
 </div>
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
@@ -573,7 +573,7 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 黄色い長方形のステッカーがある{{% ex "https://maps.app.goo.gl/n8SAL2DoJua6JGMo6" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}？破れたり上から紙を張られたりして視認しにくい。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./flood_water_street_disaster.jpg" width="600">
+<img src="./flood_water_street_disaster.jpg" width="600" alt="Flood water street disaster">
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
@@ -582,7 +582,7 @@ Assam州は地震と洪水がある地域なので、竹のような軽い素材
 穴のあるポール（ホーリーポール）がある{{% ex "https://maps.app.goo.gl/cstGEuPUV8Xe6xHe7" %}}{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./telnargaam.jpg" width="600" />
+<img src="./telnargaam.jpg" width="600" alt="Telnargaam" />
 </div>
 {{% /tab %}}
 {{% tab "Telangana・Andhra Pradesh" %}}
@@ -642,7 +642,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-09-05-08.png" style="max-width:60%;"/>
+<img src="2023-04-26-09-05-08.png" style="max-width:60%;" alt="2023 04 26 09 05 08" />
 <p>By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a></p>
 </div>
 
@@ -702,7 +702,7 @@ Hyderabadなどに区切りのあるポール（セクションポール）が�
 チベット文字が街中で見られる{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}。また、全方位に山が見える{{% ex "https://maps.app.goo.gl/YJMVt3qx2yBeSAyR8" %}}。夏以外は空路しか通じておらず街中に空港がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./view_leh.jpg" width="90%">
+<img src="./view_leh.jpg" width="90%" alt="View leh">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

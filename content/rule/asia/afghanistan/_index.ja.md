@@ -33,7 +33,7 @@ is_has_many_trekker: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./main.jpg" width="90%" />
+<img src="./main.jpg" width="90%" alt="Main" />
 </div>
 
 
@@ -41,7 +41,7 @@ is_has_many_trekker: true
 車は<span class="quiz">白</span>色のナンバープレート。バスやタクシーは黄色のナンバープレート。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%">
+<img src="./1133px-Afghanistan-Iran_border_in_Zaranj,_Afghanistan,_2011.jpg" width="90%" alt="1133px Afghanistan Iran border in Zaranj, Afghanistan, 2011">
 </div>
 
 {{% lb 50 small %}}

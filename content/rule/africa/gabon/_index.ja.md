@@ -27,7 +27,7 @@ is_unofficial: true
 ナンバープレートはほとんどが黄色{{% ex "https://maps.app.goo.gl/rXiiKd8CADN6chXg9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-POG-Street_1.jpg" width="90%" />
+<img src="./960px-POG-Street_1.jpg" width="90%" alt="960px POG Street 1" />
 </div>
 
 {{% /tab %}}

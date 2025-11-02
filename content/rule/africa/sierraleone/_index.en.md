@@ -28,7 +28,7 @@ Freetown lies on a peninsula with the Sierra Leone Mountains; houses on slopes a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/sierraleone/Dr._Jill_Biden's_2014_Trip_to_Africa_17.jpg" width="90%">
+<img src="/rule/africa/sierraleone/Dr._Jill_Biden's_2014_Trip_to_Africa_17.jpg" width="90%" alt="Dr. Jill Biden's 2014 Trip to Africa 17">
 </div>
 
 {{% notice tip %}}

@@ -42,8 +42,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./belgium_bruges_middle_ages_2.jpg" width="95%">
-<img src="schmerling_caves03.jpg" width="95%" />
+<img src="./belgium_bruges_middle_ages_2.jpg" width="95%" alt="Belgium bruges middle ages 2">
+<img src="schmerling_caves03.jpg" width="95%" alt="Schmerling caves03" />
 </div>
 
 
@@ -59,7 +59,7 @@ sc: [
 ナンバーの文字が<span class="quiz">赤い</span>{{% ex "https://maps.app.goo.gl/6F27iKhAeKodkYTJA" %}}{{% by %}}。はっきりと見えないことも多い。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./porsche_brugge_street_car.jpg" width="95%">
+<img src="./porsche_brugge_street_car.jpg" width="95%" alt="Porsche brugge street car">
 </div>
 {{% lb 50 %}}
 ![](2023-04-12-05-43-30.png)
@@ -71,26 +71,26 @@ sc: [
 小さな６角形の看板はベルギー以外ではあまり使われていない{{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/W97DDHUN14eSxqEV6" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}}。小さく角が丸い自転車やピクトグラムが描かれた看板もベルギー以外ではあまり見ない{{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}}。これ以外の交通標識も全体的にすこし他の国と異なる点が多い。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road-sign2.jpg" width="98%">
+<img src="road-sign2.jpg" width="98%" alt="Road sign2">
 </div>
 
 {{% notice tip %}}
 補助標識が青色{{% ex "https://maps.app.goo.gl/F2fXSQCb6sgW8X5k7" "https://maps.app.goo.gl/ErWvVcNC3uRgyaoW9" "https://maps.app.goo.gl/sDDizdRGxBWFruwXA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF%E6%A8%99%E8%AD%98#%E8%A3%9C%E5%8A%A9%E6%A8%99%E8%AD%98" "補助標識" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./rue_du_vieux_moulin.jpg" width="90%">
+<img src="./rue_du_vieux_moulin.jpg" width="90%" alt="Rue du vieux moulin">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px">
+<img src="./sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIa 150">
+<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GII 10">
+<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Rue scolaire">
+<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Vervormd wegdek">
+<img src="./sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Rue scolaire">
+<img src="./sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Vervormd wegdek">
+<img src="./sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GII 10">
+<img src="./sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px" alt="Belgian road sign B0">
+<img src="./sub/Belgian_road_sign_A15a.svg" width="90px" style="margin:10px" alt="Belgian road sign A15a">
 </div>
 
 {{% notice tip %}}
@@ -151,7 +151,7 @@ sc: [
 南の町の家{{% ex "https://maps.app.goo.gl/nF72GGgq7AFQ5UFw8" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./moulin_soulme2.jpg" width="90%">
+<img src="./moulin_soulme2.jpg" width="90%" alt="Moulin soulme2">
 </div>
 <br />
 
@@ -159,7 +159,7 @@ sc: [
 中央付近の町の家
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./eizer_f.jpg" width="90%">
+<img src="./eizer_f.jpg" width="90%" alt="Eizer f">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -178,8 +178,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./martelange_streetsign_umfockeknapp.jpg" width="307px">
-<img src="./plaque_rue_etterbeek_boileau.jpg" width="310px">
+<img src="./martelange_streetsign_umfockeknapp.jpg" width="307px" alt="Martelange streetsign umfockeknapp">
+<img src="./plaque_rue_etterbeek_boileau.jpg" width="310px" alt="Plaque rue etterbeek boileau">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

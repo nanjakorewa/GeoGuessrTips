@@ -53,7 +53,7 @@ Perbandingan Google Car di Swiss dan Finlandia.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/switzerland/googlecar.png" width="500px">
+<img src="/rule/europe/switzerland/googlecar.png" width="500px" alt="Googlecar">
 </div>
 
 
@@ -66,7 +66,7 @@ tanda penyeberangan <span class="quiz">7 buah</span> Penyeberangannya berwarna k
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/switzerland/1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%">
+<img src="/rule/europe/switzerland/1081px-Fussgängerstreifen_Türmlischulhaus_Bern.jpg" width="90%" alt="1081px Fussgängerstreifen Türmlischulhaus Bern">
 </div>
 
 {{% notice tip %}}
@@ -83,7 +83,7 @@ Tonggak silinder dengan kepala bulat berasal dari Swiss.{{% goto "../liechtenste
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/switzerland/road_mountain_switzerland_sky.jpg">
+<img src="/rule/europe/switzerland/road_mountain_switzerland_sky.jpg" alt="Road mountain switzerland sky">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Rumah dengan atap kayu segitiga yang umum ditemukan di Pegunungan Alpen{{% ref "
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/switzerland/switzerland_valais_bergdorf_1335698.jpg" width="95%" />
+<img src="/rule/europe/switzerland/switzerland_valais_bergdorf_1335698.jpg" width="95%" alt="Switzerland valais bergdorf 1335698" />
 </div>
 
 {{% /tab %}}
@@ -167,10 +167,10 @@ Oranye adalah bahasa Jerman, hijau adalah bahasa Prancis, dan ungu adalah bahasa
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/switzerland/speed/fr.svg" width="120px" style="margin:10px" />
-<img src="/rule/europe/switzerland/speed/ge.svg" width="120px" style="margin:10px" />
-<img src="/rule/europe/switzerland/speed/it.svg" width="120px" style="margin:10px" />
-<img src="/rule/europe/switzerland/speed/ch.svg" width="120px" style="margin:10px" />
+<img src="/rule/europe/switzerland/speed/fr.svg" width="120px" style="margin:10px" alt="Fr" />
+<img src="/rule/europe/switzerland/speed/ge.svg" width="120px" style="margin:10px" alt="Ge" />
+<img src="/rule/europe/switzerland/speed/it.svg" width="120px" style="margin:10px" alt="It" />
+<img src="/rule/europe/switzerland/speed/ch.svg" width="120px" style="margin:10px" alt="Ch" />
 </div>
 {{% /tab %}}
 {{% tab "Kode wilayah" %}}

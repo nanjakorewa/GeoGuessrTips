@@ -30,7 +30,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./yangon_edificio_colonial_hoy.jpg" width="95%">
+<img src="./yangon_edificio_colonial_hoy.jpg" width="95%" alt="Yangon edificio colonial hoy">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="myanmar_inle_lake_asia.jpg" width="500px"><img src="monks_myanmar_children_child.jpg" width="400px">
+<img src="myanmar_inle_lake_asia.jpg" width="500px" alt="Myanmar inle lake asia"><img src="monks_myanmar_children_child.jpg" width="400px" alt="Monks myanmar children child">
 </div>
 
 {{% notice tip %}}

@@ -53,7 +53,7 @@ Jaringan bus LIEmobil berwarna hijau tua mencolok{{% ex "https://maps.app.goo.gl
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/LIEmobil_logo.png" width="400px">
+<img src="/rule/europe/liechtenstein/LIEmobil_logo.png" width="400px" alt="LIEmobil logo">
 </div>
 
 
@@ -62,7 +62,7 @@ Ciri-cirinya mirip {{% goto "../switzerland/" "Swiss" %}}: zebra cross berwarna 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/960px-Schaan.jpg" width="95%">
+<img src="/rule/europe/liechtenstein/960px-Schaan.jpg" width="95%" alt="960px Schaan">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Bahasa yang digunakan adalah bahasa Jerman; Anda dapat menemukan kata “GENEREL
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px">
+<img src="/rule/europe/liechtenstein/640px-Flag_of_Liechtenstein_princely_house.svg.png" width="200px" alt="640px Flag of Liechtenstein princely house.svg">
 </div>
 
 {{% notice tip %}}
@@ -87,8 +87,8 @@ Pelat alamat biasanya menuliskan nomor rumah di atas nama jalan{{% ex "https://m
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/liechtenstein/stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;">
-<img src="/rule/europe/liechtenstein/Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px">
+<img src="/rule/europe/liechtenstein/stname.jpg" width="150px" style="margin-top:30px;margin-right:20px;" alt="Stname">
+<img src="/rule/europe/liechtenstein/Liechtensteinische_Post_logo.svg" width="150px" style="margin:10px" alt="Liechtensteinische Post logo">
 </div>
 
 {{% notice tip %}}

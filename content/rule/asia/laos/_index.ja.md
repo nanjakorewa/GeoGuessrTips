@@ -37,7 +37,7 @@ sc: [
 ナンバープレートは一般の車も<span class="quiz">黄色</span>で右側通行{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}。一方で{{% goto "../thai/" "タイ" %}}は<span class="quiz">左側</span>通行。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" />
+<img src="./car.jpg" width="90%" alt="Car" />
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Fari-Wechsel.jpg" width="90%">
+<img src="./960px-Fari-Wechsel.jpg" width="90%" alt="960px Fari Wechsel">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -73,7 +73,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadsign.jpg" width="85%">
+<img src="./roadsign.jpg" width="85%" alt="Roadsign">
 </div>
 
 {{% /tab %}}
@@ -122,7 +122,7 @@ sc: [
 {{% tabs %}}
 {{% tab "ヴァンヴィエン" %}}
 <div class="googlemap-if">
-<img src="./laos_vang_vieng_river.jpg">
+<img src="./laos_vang_vieng_river.jpg" alt="Laos vang vieng river">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

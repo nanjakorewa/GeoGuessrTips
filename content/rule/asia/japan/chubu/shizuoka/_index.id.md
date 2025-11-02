@@ -27,7 +27,7 @@ Shizuoka dulu mendominasi produksi teh, tetapi beberapa tahun terakhir volumenya
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/shizuoka/mount_fuji_20120909_b.jpg">
+<img src="/rule/asia/japan/chubu/shizuoka/mount_fuji_20120909_b.jpg" alt="Mount fuji 20120909 b">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ Di Aichi, Gifu, Mie, wilayah Shizuoka di sebelah barat Sungai Fuji, serta di Nag
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 {{% /tab %}}

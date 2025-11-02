@@ -51,31 +51,31 @@ sc: [
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/c/Oxxo_Logo.svg" width="160px" style="margin:10px">
-<img src="/rule/n_america/mexico/c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px">
-<img src="/rule/n_america/mexico/c/Comex.png" width="180px" style="margin:30px 0 0 10px">
+<img src="/rule/n_america/mexico/c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="Oxxo Logo">
+<img src="/rule/n_america/mexico/c/Logo_de_Petróleos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="Logo de Petróleos Mexicanos (2019)">
+<img src="/rule/n_america/mexico/c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="Comex">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">segi delapan</span> Tiang teleponnya khas.{{% ex "https://maps.app.goo.gl/bsde6FgabHDDxeBKA" "https://maps.app.goo.gl/2r1h6b5RaUfWDMTW8" "https://maps.app.goo.gl/KzddnjrWnkGvxGSz8" "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}.Namun{{% goto "../../cs_america/colombia/" "Kolumbia" %}}Namun terkadang tidak 100% Meksiko, jadi saya menilainya Meksiko berdasarkan suasana sekitar (Contoh Kolombia){{% ex "https://goo.gl/maps/FxZkGn2qpYqXn9Pw9" %}}).Jika Anda melihat tulisan "~MEX" di tiang telepon, Anda pasti berada di Meksiko.{{% ex "https://goo.gl/maps/38NpgnCWJ7TZJhwRA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/pole.png" width="90%">
+<img src="/rule/n_america/mexico/pole.png" width="90%" alt="Pole">
 </div>
 
 {{% notice tip %}}
 Tomare berkata “<span class="quiz">ALTO</span>”{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}adalah Meksiko{{% goto "../guatemala/" "Guatemala" %}}・{{% goto "../costa_rica/" "Kosta Rika" %}}・{{% goto "../panama/" "Panama" %}}Yang mana?Selain itu, saya merasa panah di Meksiko cukup tebal.{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://maps.app.goo.gl/jSirkndzbABnynKC8" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/r/Alto_stop_sign.svg" width="90px" style="margin-right:20px">
-<img src="/rule/n_america/mexico/r/arrow.png" width="90px" style="margin-left:20px">
+<img src="/rule/n_america/mexico/r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="Alto stop sign">
+<img src="/rule/n_america/mexico/r/arrow.png" width="90px" style="margin-left:20px" alt="Arrow">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">putih</span> warna dan <span class="quiz">hitam</span> Ada tiang-tiang melingkar yang dicat warna-warni.{{% ex "https://maps.app.goo.gl/XPDGtA3y2TRQWiRh8" "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="/rule/n_america/mexico/bollard.png" width="90%"></div></p>
+<p><div class="unclickable"><img src="/rule/n_america/mexico/bollard.png" width="90%" alt="Bollard"></div></p>
 <p>Oleh <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> Pada <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">Wikipedia bahasa Inggris</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
@@ -83,14 +83,14 @@ Tomare berkata “<span class="quiz">ALTO</span>”{{% ex "https://maps.app.goo.
 <span class="quiz">lingkaran</span> Ada meteran listrik yang berbentuk{{% ex "https://maps.app.goo.gl/vq4ZQzWQm1JA16nf7" "https://maps.app.goo.gl/3tpvyCGuuz7hytbw9" "https://goo.gl/maps/aQSwSYxKu24FZCE76" %}}{{% ref "https://twitter.com/meine_geo/status/1636192764026310656?s=20" "Saya ingin mengingat satu negara dengan satu gambar.③Meksiko"  %}}.Juga dengan Meksiko{{% goto "../panama/" "Panama" %}}Kalau begitu <span class="quiz">air</span> Antena berwarna sering terlihat{{% ex "https://maps.app.goo.gl/wiydR7VhcSwMkiit5" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/house.png" width="90%">
+<img src="/rule/n_america/mexico/house.png" width="90%" alt="House">
 </div>
 
 {{% notice tip %}}
 Bir Corona diproduksi oleh pabrik bir Meksiko Grupo Modelo{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%8A%E3%83%93%E3%83%BC%E3%83%AB" "bir corona" %}}Anda dapat melihat logonya{{% ex "https://maps.app.goo.gl/TdTohN8oujw4QT9r8" "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/bottle_beer_beach_drink.jpg" width="90%">
+<img src="/rule/n_america/mexico/bottle_beer_beach_drink.jpg" width="90%" alt="Bottle beer beach drink">
 </div>
 
 {{% /tab %}}
@@ -186,7 +186,7 @@ baja california
 {{% tabs %}}
 {{% tab "tenaga angin" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/mexico/Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png">
+<img src="/rule/n_america/mexico/Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Map of wind energy in Mexico Data from INEGI Marco Geoestadistico Nacional">
 </div>
 
 
@@ -224,7 +224,7 @@ Secara umum, hal ini biasa terjadi di daerah pesisir dan pegunungan di mana angi
 {{% tab "Vegetasi dan sebaran tanah" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/distribution.png" width="540px" />
+<img src="/rule/n_america/mexico/distribution.png" width="540px" alt="Distribution" />
 </div>
 <div class="googlemap-if no-margin" style="font-size:0.8em">
 Sumber gambar:<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCSM-08-2018-0062/full/html">Dari referensi</a>, <a href="https://creativecommons.org/licenses/by/4.0/legalcode">CC OLEH 4.0</a>
@@ -239,7 +239,7 @@ Sumber gambar:<a href="https://www.emerald.com/insight/content/doi/10.1108/IJCCS
 {{% tab "bagian terdalam dari Teluk California" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/others.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/others.jpg" width="540px" alt="Others" />
 </div>
 
 {{% notice tip %}}
@@ -255,7 +255,7 @@ Sepertinya tidak ada pohon atau kaktus yang tumbuh di sana.
 {{% tab "semenanjung baja california" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/wast-p.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/wast-p.jpg" width="540px" alt="Wast p" />
 </div>
 
 {{% notice tip %}}
@@ -271,7 +271,7 @@ Ada tempat di mana kaktus tumbuh.Diagramnya terlalu disederhanakan; masih banyak
 {{% tab "pertanian barat" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/agriculture.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/agriculture.jpg" width="540px" alt="Agriculture" />
 </div>
 
 {{% notice tip %}}
@@ -287,7 +287,7 @@ Itu datar dan Anda bisa melihat pertanian, dan terkadang Anda bisa melihat pegun
 {{% tab "wilayah pegunungan bagian barat" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/west-mt.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/west-mt.jpg" width="540px" alt="West mt" />
 </div>
 
 {{% notice tip %}}
@@ -303,7 +303,7 @@ Itu datar dan Anda bisa melihat pertanian, dan terkadang Anda bisa melihat pegun
 {{% tab "bagian tengah" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/center.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/center.jpg" width="540px" alt="Center" />
 </div>
 
 {{% notice tip %}}
@@ -319,7 +319,7 @@ Itu datar dan Anda bisa melihat pertanian, dan terkadang Anda bisa melihat pegun
 {{% tab "pertanian timur" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/east-agri.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/east-agri.jpg" width="540px" alt="East agri" />
 </div>
 
 {{% notice tip %}}
@@ -335,7 +335,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "Veracruz ke Tabasco" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/grassland.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/grassland.jpg" width="540px" alt="Grassland" />
 </div>
 
 {{% notice tip %}}
@@ -351,7 +351,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "Semenanjung Yucatan Utara" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/tropical-dry.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/tropical-dry.jpg" width="540px" alt="Tropical dry" />
 </div>
 
 {{% notice tip %}}
@@ -367,7 +367,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "Selatan Semenanjung Yucatan" %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/n_america/mexico/veg/tropical-humid.jpg" width="540px" />
+<img src="/rule/n_america/mexico/veg/tropical-humid.jpg" width="540px" alt="Tropical humid" />
 </div>
 
 {{% notice tip %}}
@@ -383,7 +383,7 @@ Pertanian dilakukan di sini dan juga di sisi timur, namun tidak ada gunung yang 
 {{% tab "kopra" %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/copra.png" width="90%" />
+<img src="/rule/n_america/mexico/copra.png" width="90%" alt="Copra" />
 </div>
 
 {{% notice tip %}}
@@ -397,7 +397,7 @@ Ada perkebunan kelapa di sepanjang pantai Guerrero.{{% ref "https://ipad.fas.usd
 {{% /tab %}}
 {{% tab "kelapa sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/palm-oil.png" width="90%" />
+<img src="/rule/n_america/mexico/palm-oil.png" width="90%" alt="Palm oil" />
 </div>
 
 {{% notice tip %}}
@@ -520,7 +520,7 @@ Sebuah pulau yang terletak di Danau Patzcuaro di negara bagian Michoacán.Patung
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/mexico/janitzio.jpg">
+<img src="/rule/n_america/mexico/janitzio.jpg" alt="Janitzio">
 </div>
 {{% /tab %}}
 {{% tab "Holbox" %}}
@@ -540,7 +540,7 @@ Sebuah destinasi wisata di sebuah pulau terpencil di sebelah timur Semenanjung Y
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%"/>
+<img src="/rule/n_america/mexico/1259px-Ford_Transit_Cozumel_Taxi.jpg" width="95%" alt="1259px Ford Transit Cozumel Taxi" />
 </div>
 {{% /tab %}}
 {{% tab "Isla Mujeres" %}}
@@ -550,7 +550,7 @@ Sebuah pulau terpencil dekat Cancun.{{% goto "../../europe/italy/#Lampedusa" "Pu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/la_noruega_009.jpg" width="95%"/>
+<img src="/rule/n_america/mexico/la_noruega_009.jpg" width="95%" alt="La noruega 009" />
 </div>
 {{% /tab %}}
 {{% tab "Popocatepetl" %}}
@@ -560,7 +560,7 @@ Cuacanya mendung dan saya tidak bisa melihat pegunungan, tapi saya bisa melihat 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/mexico/volcano_snow_nature_950313.jpg" width="95%"/>
+<img src="/rule/n_america/mexico/volcano_snow_nature_950313.jpg" width="95%" alt="Volcano snow nature 950313" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -28,7 +28,7 @@ flag: "OKINAWA.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="nakamurahouse.jpg">
+<img src="nakamurahouse.jpg" alt="Nakamurahouse">
 </div>
 
 {{% /tab %}}

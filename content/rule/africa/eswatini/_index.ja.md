@@ -38,7 +38,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./road.png" /></p>
+<p><img src="./road.png" alt="Road" /></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Link</a></p>
 </div>
 
@@ -79,7 +79,7 @@ By <a href="//commons.wikimedia.org/wiki/User:Dickelbers" title="User:Dickelbers
 西部は山岳地帯（標高1500m）、東部は低地（標高200m）であり、国土は傾斜している。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-21-05-06-55.png">
+<img src="2023-04-21-05-06-55.png" alt="2023 04 21 05 06 55">
 </div>
 {{% /tab %}}
 {{% tab "ハイベルト" %}}

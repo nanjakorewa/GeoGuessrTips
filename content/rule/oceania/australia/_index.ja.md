@@ -50,7 +50,7 @@ sc: [
 車は<span class="quiz">左側</span>通行{{% ex "https://maps.app.goo.gl/HVuNi5wwoZjw4gQW7" "https://maps.app.goo.gl/r4Ny1aKMY7KLLHt46" "https://maps.app.goo.gl/VmS1jwY3EUr8ZJev7" %}}。左側を走っており、看板も左側にある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./landscape_rural_farming_sugar.jpg" width="95%">
+<img src="./landscape_rural_farming_sugar.jpg" width="95%" alt="Landscape rural farming sugar">
 </div>
 
 
@@ -68,7 +68,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bollard.jpg" width="90%">
+<img src="./bollard.jpg" width="90%" alt="Bollard">
 </div>
 
 {{% notice tip %}}
@@ -76,12 +76,12 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="../../africa/south-africa/r/M4.png" width="70px" style="margin:10px">
-<img src="./r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+<img src="../../africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="M4">
+<img src="./r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-03-02-54-05.png" width="80%">
+<img src="2023-08-03-02-54-05.png" width="80%" alt="2023 08 03 02 54 05">
 </div>
 
 {{% notice tip %}}オーストラリアならば速度表記が細長い白いプレートに書かれている{{% ex "https://maps.app.goo.gl/riMLdNVx6gZS1a8v9" "https://maps.app.goo.gl/7RV1VEPBjY8QytVu6" %}}。下の図の左が<span class="quiz">オーストラリア</span>、右が<span class="quiz">ニュージーランド</span>。
@@ -89,11 +89,11 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="../australia/r/AU-speed-limit.svg" class="margin-ten-px width100" />
-    <img src="../australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" />
-    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0"/>
-    <img src="../new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" />
-    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100"/>
+    <img src="../australia/r/AU-speed-limit.svg" class="margin-ten-px width100" alt="AU speed limit" />
+    <img src="../australia/r/Australia_road_sign_R1-2.svg" class="margin-ten-px width100" alt="Australia road sign R1 2" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:40px;opacity:0" alt="New Zealand road sign R2 2" />
+    <img src="../new-zealand/r/NZ-speedlimit.png" class="margin-ten-px width100" alt="NZ speedlimit" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" class="margin-ten-px width100" alt="New Zealand road sign R2 2" />
 </div>
 
 {{% /tab %}}
@@ -135,7 +135,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-28-23-57-39.png" />
+<img src="2023-04-28-23-57-39.png" alt="2023 04 28 23 57 39" />
 </div>
 {{% /tab %}}
 {{% tab "西の沿岸部" %}}
@@ -205,7 +205,7 @@ sc: [
 
 
 <div class="googlemap-if">
-<img src="./spring_street_sheffield_20070422.jpg" width="95%">
+<img src="./spring_street_sheffield_20070422.jpg" width="95%" alt="Spring street sheffield 20070422">
 </div>
 {{% /tab %}}
 {{% tab "QLD（クィーンズランド州）" %}}
@@ -249,7 +249,7 @@ sc: [
 {{% tabs %}}
 {{% tab "黄色いポール" %}}
 <div class="googlemap-if">
-<img src="./yellow-pole.jpg" width="95%">
+<img src="./yellow-pole.jpg" width="95%" alt="Yellow pole">
 </div>
 {{% /tab %}}
 {{% tab "VicRoads" %}}
@@ -263,7 +263,7 @@ VicRoads は、オーストラリアのビクトリア州にある政府の合�
 </div>
 
 <div class="googlemap-if">
-<img src="VicRoads_Logo_2009.gif" width="200px" />
+<img src="VicRoads_Logo_2009.gif" width="200px" alt="VicRoads Logo 2009" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

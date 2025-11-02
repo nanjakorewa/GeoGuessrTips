@@ -25,7 +25,7 @@ is_unofficial: false
 {{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/zambia/960px-Grain_Silos_and_weighing_bridge.jpg" width="90%">
+<img src="/rule/africa/zambia/960px-Grain_Silos_and_weighing_bridge.jpg" width="90%" alt="960px Grain Silos and weighing bridge">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

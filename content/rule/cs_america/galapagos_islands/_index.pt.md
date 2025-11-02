@@ -30,7 +30,7 @@ As tartarugas-gigantes de Galápagos são um indicador inconfundível{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/galapagos_islands/galapagos_tortoise_giant_tortoise.jpg" width="90%">
+<img src="/rule/cs_america/galapagos_islands/galapagos_tortoise_giant_tortoise.jpg" width="90%" alt="Galapagos tortoise giant tortoise">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

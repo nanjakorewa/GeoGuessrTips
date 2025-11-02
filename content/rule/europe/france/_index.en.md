@@ -51,7 +51,7 @@ French phone numbers follow the format of five sets of two digits{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/phonenumber.jpg" width="90%">
+<img src="/rule/europe/france/phonenumber.jpg" width="90%" alt="Phonenumber">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ Yellow road shields that start with “D” are scattered across France{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550">
+<img src="/rule/europe/france/aubisque_mountain_france_940395.jpg" width="550" alt="Aubisque mountain france 940395">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ Plates generally mimic the EU standard with a blue strip on the left, but you ca
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/licence.jpg" width="95%">
+<img src="/rule/europe/france/licence.jpg" width="95%" alt="Licence">
 </div>
 
 {{% lb 50 small %}}
@@ -101,7 +101,7 @@ Apartment mailboxes sometimes have precinct information printed next to the resi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="95%">
+<img src="/rule/europe/france/mailboxes_post_france_letter.jpg" width="95%" alt="Mailboxes post france letter">
 </div>
 
 {{% notice tip %}}
@@ -109,7 +109,7 @@ Buildings often have large, curved address plates{{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/house.jpg" width="95%">
+<img src="/rule/europe/france/house.jpg" width="95%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -117,7 +117,7 @@ Local signage uses French words such as <span class="quiz">“arrêt” (stop)</
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/road-with-bollard.png" width="90%">
+<img src="/rule/europe/france/road-with-bollard.png" width="90%" alt="Road with bollard">
 </div>
 
 {{% notice tip %}}
@@ -125,7 +125,7 @@ Some towns use directional signs framed in blue or yellow{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/arrow.png" width="75%">
+<img src="/rule/europe/france/arrow.png" width="75%" alt="Arrow">
 </div>
 
 {{% notice tip %}}
@@ -133,7 +133,7 @@ Rural poles are often wooden with attached plates displaying numeric codes{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/france/poles.jpg" width="95%">
+<img src="/rule/europe/france/poles.jpg" width="95%" alt="Poles">
 </div>
 
 {{% notice tip %}}
@@ -141,7 +141,7 @@ Street-name plates typically include the arrondissement or commune name{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}
@@ -159,7 +159,7 @@ Northwestern France features red-brick terraced housing reminiscent of Belgium{{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/auby_town_hall_france.jpg" width="95%">
+<img src="/rule/europe/france/auby_town_hall_france.jpg" width="95%" alt="Auby town hall france">
 </div>
 
 {{% notice tip %}}
@@ -167,7 +167,7 @@ Large mustard fields dominate the plains{{% ex "https://maps.app.goo.gl/DhC36yaU
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/roadline.png" width="95%">
+<img src="/rule/europe/france/roadline.png" width="95%" alt="Roadline">
 </div>
 
 {{% notice tip %}}
@@ -175,7 +175,7 @@ White chalk cliffs around the Somme department can resemble the UK coast{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/port_grimaud_france_channel.jpg" width="95%">
+<img src="/rule/europe/france/port_grimaud_france_channel.jpg" width="95%" alt="Port grimaud france channel">
 </div>
 
 {{% /tab %}}
@@ -193,7 +193,7 @@ Stone houses with pastel shutters and terracotta tiles dominate the south{{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="95%">
+<img src="/rule/europe/france/stone_houses_village_luberon.jpg" width="95%" alt="Stone houses village luberon">
 </div>
 
 {{% notice tip %}}
@@ -201,7 +201,7 @@ Corsica has jagged peaks and coastal roads hugging cliffs{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%">
+<img src="/rule/europe/france/corsica_coast_coastal_road_1.jpg" width="95%" alt="Corsica coast coastal road 1">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ Salt fields near the Atlantic coast have checkerboard ponds with white berms{{% 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg" width="95%">
+<img src="/rule/europe/france/salt_marshes_salt_noirmoutier.jpg" width="95%" alt="Salt marshes salt noirmoutier">
 </div>
 
 {{% /tab %}}
@@ -227,7 +227,7 @@ District plates combine “ARR” and the street name, revealing the arrondissem
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/versailles_paris_france_palace.jpg" width="95%">
+<img src="/rule/europe/france/versailles_paris_france_palace.jpg" width="95%" alt="Versailles paris france palace">
 </div>
 
 {{% notice tip %}}
@@ -244,7 +244,7 @@ Intersection plates sometimes spell out both the avenue name and arrondissement{
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}
@@ -265,7 +265,7 @@ Intersection plates sometimes spell out both the avenue name and arrondissement{
 Karst inlets near Marseille often show rugged cliffs and blue water{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}. Beware of hollow-core poles and Chile-style poles here.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/france/vudeniolon2.jpg" width="95%">
+<img src="/rule/europe/france/vudeniolon2.jpg" width="95%" alt="Vudeniolon2">
 </div>
 {{% /tab %}}
 {{% tab "Col de la Bonette" %}}
@@ -273,7 +273,7 @@ Karst inlets near Marseille often show rugged cliffs and blue water{{% ex "https
 The scenic D64 winds through Col de la Bonette{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%">
+<img src="/rule/europe/france/high_alps_pass_road.jpg" width="95%" alt="High alps pass road">
 </div>
 {{% /tab %}}
 {{% tab "Aiguille de la Grande Sassière" %}}
@@ -298,7 +298,7 @@ Street plates near intersections display the arrondissement number along with th
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%">
+<img src="/rule/europe/france/avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}

@@ -32,7 +32,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./shirvan_city.jpg" width="75%">
+<img src="./shirvan_city.jpg" width="75%" alt="Shirvan city">
 </div>
 
 {{% notice tip %}}
@@ -44,7 +44,7 @@ is_unofficial: true
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="Azerbaijan_Product_Exports_(2019).svg" width="500px">
+<img src="Azerbaijan_Product_Exports_(2019).svg" width="500px" alt="Azerbaijan Product Exports (2019)">
 </div>
 
 {{% notice tip %}}
@@ -52,7 +52,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%">
+<img src="Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%" alt="Azerbaijan has sent humanitarian aid to Armenian residents living in Karabakh 01">
 </div>
 
 

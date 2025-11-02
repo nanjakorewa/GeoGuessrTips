@@ -50,21 +50,21 @@ additional_link:
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../sweden/r/Sweden_road_sign_F5.svg">
-            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="../sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
+            <img src="../sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
         </div>
         <p><span class="quiz">スウェーデン</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="../finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
+            <img src="../finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
         </div>
         <p><span class="quiz">フィンランド</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="../norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
         </div>
         <p><span class="quiz">ノルウェー</span></p>
     </div>
@@ -75,9 +75,9 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="../finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
+<img src="../norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
+<img src="../sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
 </div>
 
 
@@ -86,22 +86,22 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./streetsign.jpg" width="95%">
+<img src="./streetsign.jpg" width="95%" alt="Streetsign">
 </div>
 
 {{% notice tip %}}
 フィンランドは警告看板の<span class="quiz">まわりに黄色の細い縁</span>がある{{% by "usumdensetu" "twitch" %}}。上の段がフィンランド・下の段がスウェーデン（オレンジ背景）とノルウェー（白背景）。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:10px;;border-radius:20px;">
-<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" />
-<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" />
-<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" />
+<img src="./r/Finland_road_sign_A15.svg" class="width150 margin-ten-px" alt="Finland road sign A15" />
+<img src="./r/Finland_road_sign_B5.svg" class="width150 margin-ten-px" alt="Finland road sign B5" />
+<img src="./r/Finland_road_sign_C32-60.svg" class="width150 margin-ten-px" alt="Finland road sign C32 60" />
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
-<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" />
-<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" />
-<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" />
+<img src="./Sweden_road_sign_B1.svg" class="width150 margin-ten-px" alt="Sweden road sign B1" />
+<img src="./Sweden_road_sign_C31-10.svg" class="width150 margin-ten-px" alt="Sweden road sign C31 10" />
+<img src="./NO_road_sign_362.100.svg" class="width150 margin-ten-px" alt="NO road sign 362.100" />
 </div>
 
 
@@ -109,9 +109,9 @@ additional_link:
 北欧の狭い道にあるPassing place（車の待避所）の看板がフィンランドだけ矢印。舗装されておらず家も見当たらない場所でヒントになることがある。左から<span class="quiz">フィンランド</span>{{% ex "https://goo.gl/maps/PWojih52kzt2TwgF8" "https://goo.gl/maps/22aeWZvbBynbwaXh6" "https://goo.gl/maps/HmKuBQafiJcTDvku9" %}}・<span class="quiz">スウェーデン</span>・<span class="quiz">ノルウェー</span>{{% ex "https://goo.gl/maps/4tzCLcKJso8UTyH86" "https://goo.gl/maps/tsxXwiRW5qJXsbRD6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;;border-radius:20px;">
-<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" />
-<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" />
-<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" />
+<img src="./p/Finland_road_sign_E5.svg" class="width150 margin-ten-px" alt="Finland road sign E5" />
+<img src="./p/Sweden_road_sign_E18.svg" class="width150 margin-ten-px" alt="Sweden road sign E18" />
+<img src="./p/NO_road_sign_524.svg" class="width150 margin-ten-px" alt="NO road sign 524" />
 </div>
 
 
@@ -120,11 +120,11 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);">
+<img src="../sweden/road.png" width="90%" style="transform: rotate(180deg);filter: saturate(70%);" alt="Road">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.png" width="90%" />
+<img src="road.png" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -132,7 +132,7 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./nature_finnish_finnish_landscape.jpg" width="90%" />
+<img src="./nature_finnish_finnish_landscape.jpg" width="90%" alt="Nature finnish finnish landscape" />
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ additional_link:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-17-13-12-50.png" width="570px"/>
+<img src="2023-06-17-13-12-50.png" width="570px" alt="2023 06 17 13 12 50" />
 </div>
 
 {{% /tab %}}

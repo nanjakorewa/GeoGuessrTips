@@ -40,13 +40,13 @@ Even triangular or circular road signs are mounted on square white backboards. {
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="/rule/asia/singapore/joo_chiat_26.jpg" width="550">
+<img src="/rule/asia/singapore/joo_chiat_26.jpg" width="550" alt="Joo chiat 26">
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" />
-<img src="/rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" />
-<img src="/rule/asia/singapore/r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" />
+<img src="/rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" alt="Singapore road sign Mandatory Give way" />
+<img src="/rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" alt="Singapore road sign Mandatory Stop" />
+<img src="/rule/asia/singapore/r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" alt="Singapore road sign Prohibitory Speed limit 50" />
 </div>
 
 
@@ -55,14 +55,14 @@ Blue recycling bins often carry large stickers that explain what can be collecte
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="/rule/asia/singapore/img-recycle.jpg" width="500px">
+<img src="/rule/asia/singapore/img-recycle.jpg" width="500px" alt="Img recycle">
 </div>
 
 {{% notice tip %}}
 Look for signage written in four languages: English, Chinese, Malay, and Tamil. {{% ex "https://maps.app.goo.gl/UVdCDU1s1WJDGPz68" "https://maps.app.goo.gl/eWXodbYft29KcsiL7" "https://maps.app.goo.gl/JppGt3PJH1YoA47u5" "https://maps.app.goo.gl/4N7eTCLYKrWvmwmV9" %}} You might occasionally see multilingual signs in urban {{% goto "../malaysia/" "Malaysia" %}}, but it is far more common in Singapore.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/singapore/danger_keep_out_sign_6.jpg" width="90%">
+<img src="/rule/asia/singapore/danger_keep_out_sign_6.jpg" width="90%" alt="Danger keep out sign 6">
 </div>
 
 {{% notice tip %}}

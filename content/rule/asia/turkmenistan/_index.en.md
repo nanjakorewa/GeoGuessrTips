@@ -33,7 +33,7 @@ Roughly 70% of the territory is covered by the Karakum Desert{{% ref "https://en
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/turkmenistan/camel_turkmenistan_desert_animals.jpg" width="95%">
+<img src="/rule/asia/turkmenistan/camel_turkmenistan_desert_animals.jpg" width="95%" alt="Camel turkmenistan desert animals">
 </div>
 
 {{% notice tip %}}
@@ -41,7 +41,7 @@ The Darvaza gas crater is located here{{% ex "https://maps.app.goo.gl/RMkYWDvmAq
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/turkmenistan/darvaza_png.png">
+<img src="/rule/asia/turkmenistan/darvaza_png.png" alt="Darvaza png">
 </div>
 
 {{% /tab %}}

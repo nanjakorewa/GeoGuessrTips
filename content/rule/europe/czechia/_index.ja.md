@@ -49,7 +49,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bollrad.jpg" width="90%" />
+<img src="./bollrad.jpg" width="90%" alt="Bollrad" />
 </div>
 
 
@@ -59,15 +59,15 @@ sc: [
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:35px;margin-bottom:0;;border-radius:20px;">
 <div class="googlemap-if unclickable" style="margin-bottom:0;">
-<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" />
-<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" />
-<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" />
+<img src="../czechia/r/CZ1.png" class="maxheight150 margin-ten-px" alt="CZ1" />
+<img src="../czechia/r/CZ2.svg" class="maxheight150 margin-ten-px" alt="CZ2" />
+<img src="../czechia/r/CZ3.png" class="maxheight150 margin-ten-px" alt="CZ3" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:0;">
-<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" />
-<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" />
-<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" />
+<img src="../slovakia/r/SK1.svg" class="maxheight150 margin-ten-px" alt="SK1" />
+<img src="../slovakia/r/SK2.svg" class="maxheight150 margin-ten-px" alt="SK2" />
+<img src="../slovakia/r/SK3.png" class="maxheight150 margin-ten-px" alt="SK3" />
 </div>
 </div>
 
@@ -77,15 +77,15 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-11-00-12-31.png" width="70%"/>
-<img src="2023-06-11-00-16-23.png" width="80%"/>
+<img src="2023-06-11-00-12-31.png" width="70%" alt="2023 06 11 00 12 31" />
+<img src="2023-06-11-00-16-23.png" width="80%" alt="2023 06 11 00 16 23" />
 </div>
 
 {{% notice tip %}}
 家に<span class="quiz">赤や青</span>の背景に<span class="quiz">白</span>で文字が書かれていればチェコかも{{% ex "https://goo.gl/maps/ay9WVcyu21ew4Y7N8" "https://goo.gl/maps/xqTW3un3G9nvGKBX6" %}}。<span class="quiz">白</span>の背景に<span class="quiz">黒</span>で文字が書かれていればスロバキアの可能性が高い{{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}が100%いつもそうとは限らない。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./czechia.jpg" width="90%">
+<img src="./czechia.jpg" width="90%" alt="Czechia">
 </div>
 
 {{% notice tip %}}
@@ -93,7 +93,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./roadsign.jpg" width="85%">
+<img src="./roadsign.jpg" width="85%" alt="Roadsign">
 </div>
 
 
@@ -115,7 +115,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./hm.jpg" width="90%">
+<img src="./hm.jpg" width="90%" alt="Hm">
 </div>
 
 {{% /tab %}}
@@ -130,11 +130,11 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="../czechia/road.jpg" width="90%" />
+<img src="../czechia/road.jpg" width="90%" alt="Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./bar.png" width="300px">
+<img src="./bar.png" width="300px" alt="Bar">
 </div>
 
 {{% notice tip %}}
@@ -164,7 +164,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.png" width="80%">
+<img src="./roadsign.png" width="80%" alt="Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

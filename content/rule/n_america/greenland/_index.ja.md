@@ -34,8 +34,8 @@ sc: [
 グリーンランドは先住民が８割以上を占めていて、公用語はグリーンランド語。永久凍土の混じった領域は夏に氷が溶けることで地面が凹み、逆に冬は再び凍り地面が盛り上がる。そのためその影響を受けないように岩などの上に家を立てているケースが多いという。家の土台に隙間があったりコンクリートで固められていたりする{{% ex "https://maps.app.goo.gl/RJ9MNRwS8cwdsfu69" "https://maps.app.goo.gl/HRUqsMZjoXRTRCHc9" "https://maps.app.goo.gl/gz9J7etmTHdc5oba9" %}}。寒さの影響で道路もまっ平ではないことが多いという{{% ref "http://chikyunokurashi.com/greenland/ordinarylifeingreenland/" "グリーンランド人の日常生活" %}}）。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./tasiilaq_greenland_01.jpg" width="550px">
-<img src="./tasiilaq_greenland_east_greenland.jpg" width="550px">
+<img src="./tasiilaq_greenland_01.jpg" width="550px" alt="Tasiilaq greenland 01">
+<img src="./tasiilaq_greenland_east_greenland.jpg" width="550px" alt="Tasiilaq greenland east greenland">
 </div>
 
 {{% notice tip %}}

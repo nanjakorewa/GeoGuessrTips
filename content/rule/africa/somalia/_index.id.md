@@ -28,7 +28,7 @@ Konflik sipil berlangsung sejak akhir 1980窶疎n{{% ref "https://ja.wikipedia.o
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%">
+<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="640px Somalia, Puntland, Bari, Iskushuban (13)">
 </div>
 
 {{% notice tip %}}

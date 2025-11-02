@@ -54,7 +54,7 @@ Di sepanjang saluran air atau persimpangan, sering terlihat blok <span class="qu
 Tiang listrik memiliki lubang besar atau berbentuk persegi {{% ex "https://goo.gl/maps/9s4rAXAHp3F3ZqLb9" %}}. Beberapa tiang memiliki kumparan yang sangat besar {{% by "https://www.youtube.com/live/52vfjEToH8g?feature=share" "youtube" %}} {{% ex "https://maps.app.goo.gl/iEFA8fzUnc48FfmN6" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/srilanka/road.jpg" width="90%" />
+<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -125,7 +125,7 @@ Papan iklan toko atau kontak di dekat nomor telepon yang hanya menggunakan Tamil
 {{% /tab %}}
 {{% tab "Sawah" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/rice.png" width="400px">
+<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Rice">
 </div>
 {{% notice tip %}}
 Meskipun lebih banyak di timur laut, sawah ditemukan di hampir seluruh wilayah, sehingga hanya relevan sebagai referensi tambahan.
@@ -133,7 +133,7 @@ Meskipun lebih banyak di timur laut, sawah ditemukan di hampir seluruh wilayah, 
 {{% /tab %}}
 {{% tab "Pohon Kelapa" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/palm.png" width="400px">
+<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Palm">
 </div>
 {{% notice tip %}}
 Kelapa tumbuh hampir di seluruh wilayah, namun produksi komersial sebagian besar terpusat di wilayah tengah-barat. Diagram ini hanya ilustrasi kasar.
@@ -141,7 +141,7 @@ Kelapa tumbuh hampir di seluruh wilayah, namun produksi komersial sebagian besar
 {{% /tab %}}
 {{% tab "Teh dan Karet" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/tea.png" width="400px">
+<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Tea">
 </div>
 {{% notice tip %}}
 Teh banyak ditemukan di barat daya, sebagaimana disebutkan dalam Plonkit dan dokumen referensi lainnya. Karet memiliki pola distribusi yang serupa.

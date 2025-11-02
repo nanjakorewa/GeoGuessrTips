@@ -27,21 +27,21 @@ is_unofficial: true
 Menos del <span class="quiz">0,5%</span> de la superficie es cultivable; es más común ver <span class="quiz">pastoralismo</span> (por ejemplo, camellos) que agricultura{{% ref "https://www.afpbb.com/articles/-/3264172" "AFP: mercado de camellos" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mauritania/desert_camels_arab_mauritania.jpg">
+<img src="/rule/africa/mauritania/desert_camels_arab_mauritania.jpg" alt="Desert camels arab mauritania">
 </div>
 
 {{% notice tip %}}
 Muchas casas están construidas con <span class="quiz">ladrillo, piedra y paja</span>{{% ex "https://maps.app.goo.gl/sxNQ99tVSGz1AAur9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mauritania/boutilimitsable.jpg">
+<img src="/rule/africa/mauritania/boutilimitsable.jpg" alt="Boutilimitsable">
 </div>
 
 {{% notice tip %}}
 El terreno es en general plano, con <span class="quiz">llanuras áridas rocosas</span> expuestas{{% ex "https://maps.app.goo.gl/6a6bTecUS9BmWr5p8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mauritania/coastal_transsaharan_highway_in.jpg" width="90%">
+<img src="/rule/africa/mauritania/coastal_transsaharan_highway_in.jpg" width="90%" alt="Coastal transsaharan highway in">
 </div>
 
 {{% /tab %}}

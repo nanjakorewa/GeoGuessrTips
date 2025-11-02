@@ -32,7 +32,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="kanto_railway_ryugasaki_line_0.jpg">
+<img src="kanto_railway_ryugasaki_line_0.jpg" alt="Kanto railway ryugasaki line 0">
 </div>
 
 {{% /tab %}}

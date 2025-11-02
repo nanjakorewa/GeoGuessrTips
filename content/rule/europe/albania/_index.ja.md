@@ -47,7 +47,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house.jpg" width="95%">
+<img src="./house.jpg" width="95%" alt="House">
 </div>
 
 {{% notice tip %}}
@@ -55,7 +55,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./albania-road.png" width="90%" />
+<img src="./albania-road.png" width="90%" alt="Albania road" />
 </div>
 
 {{% lb 50 %}}
@@ -82,12 +82,12 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./street-sign.png" width="90%" />
+<img src="./street-sign.png" width="90%" alt="Street sign" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px">
-<img src="./sign-bg.png" width="120px" style="margin:10px">
+<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px" alt="Road sign %CF%8075b">
+<img src="./sign-bg.png" width="120px" style="margin:10px" alt="Sign bg">
 </div>
 
 {{% /tab %}}
@@ -101,7 +101,7 @@ CC0
 {{% /tab %}}
 {{% tab "電柱" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-08-14-17-20-33.png" width="400px" />
+<img src="2023-08-14-17-20-33.png" width="400px" alt="2023 08 14 17 20 33" />
 </div>
 {{% /tab %}}
 

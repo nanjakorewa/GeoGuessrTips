@@ -43,7 +43,7 @@ sc: [
 {{% goto "../slovakia/" "Slovakia" %}} menggunakan bollard dan guardrail yang sama. Bollard memiliki <span class="quiz">dua reflektor pada area hitam</span> {{% ex "https://goo.gl/maps/pePJXWZS165TbMNW6" %}}. Guardrail menggunakan tipe thin-B profile dengan ciri khas <span class="quiz">bentuk yang kaku dan lebar cekungan tengah yang lebih besar</span> {{% ex "https://maps.app.goo.gl/jy4PDVF2jip7Bz497" "https://maps.app.goo.gl/eY9umZDuez2yiYjC6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/bollrad.jpg" width="90%" />
+<img src="/rule/europe/czechia/bollrad.jpg" width="90%" alt="Bollrad" />
 </div>
 
 {{% notice tip %}}
@@ -51,15 +51,15 @@ Rambu penunjuk jalan di Ceko menggunakan desain seperti ini {{% ex "https://goo.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/2023-06-11-00-12-31.png" width="70%"/>
-<img src="/rule/europe/czechia/2023-06-11-00-16-23.png" width="80%"/>
+<img src="/rule/europe/czechia/2023-06-11-00-12-31.png" width="70%" alt="2023 06 11 00 12 31" />
+<img src="/rule/europe/czechia/2023-06-11-00-16-23.png" width="80%" alt="2023 06 11 00 16 23" />
 </div>
 
 {{% notice tip %}}
 Jika rumah memiliki tulisan dengan latar belakang <span class="quiz">merah atau biru</span> dengan huruf berwarna <span class="quiz">putih</span>, kemungkinan itu di Ceko {{% ex "https://goo.gl/maps/ay9WVcyu21ew4Y7N8" "https://goo.gl/maps/xqTW3un3G9nvGKBX6" %}}. Jika tulisan memiliki latar belakang <span class="quiz">putih</span> dengan huruf berwarna <span class="quiz">hitam</span>, kemungkinan besar itu di Slovakia {{% by "https://youtu.be/D4Po4N-LJSw" "youtube" "15 Geoguessr Tips and Metas That Will Boost Your Scores@zi8gzag" %}}, meskipun tidak selalu 100%.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/czechia.jpg" width="90%">
+<img src="/rule/europe/czechia/czechia.jpg" width="90%" alt="Czechia">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Jika tidak yakin apakah itu Ceko atau Slovakia, periksa tiang rambu. Jika terdap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/czechia/roadsign.jpg" width="85%">
+<img src="/rule/europe/czechia/roadsign.jpg" width="85%" alt="Roadsign">
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ Contoh di {{% goto "../slovakia/" "Slovakia" %}} {{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/czechia/hm.jpg" width="90%">
+<img src="/rule/europe/czechia/hm.jpg" width="90%" alt="Hm">
 </div>
 
 {{% /tab %}}
@@ -102,11 +102,11 @@ Tiang listrik yang ditemukan di Ceko dan Slovakia memiliki desain yang sama. Bia
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/road.jpg" width="90%" />
+<img src="/rule/europe/czechia/road.jpg" width="90%" alt="Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/bar.png" width="300px">
+<img src="/rule/europe/czechia/bar.png" width="300px" alt="Bar">
 </div>
 
 {{% notice tip %}}
@@ -134,7 +134,7 @@ Nomor jalan ditampilkan pada rambu {{% ref "https://ninfox3.blogspot.com/2023/06
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/czechia/roadsign.png" width="80%">
+<img src="/rule/europe/czechia/roadsign.png" width="80%" alt="Roadsign">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

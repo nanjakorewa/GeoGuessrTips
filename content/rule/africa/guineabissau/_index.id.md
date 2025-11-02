@@ -39,7 +39,7 @@ Banyak warga bekerja di produksi <span class="quiz">mete</span>; Anda dapat mene
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/guineabissau/trees_cashew_nuts_fruiting.jpg" width="90%"/>
+<img src="/rule/africa/guineabissau/trees_cashew_nuts_fruiting.jpg" width="90%" alt="Trees cashew nuts fruiting" />
 </div>
 
 {{% /tab %}}

@@ -50,7 +50,7 @@ Cattle Gridと呼ばれる金属棒を平行に並べた橋がある{{% ref "htt
 シェトランド・シープがいる{{% ex "https://maps.app.goo.gl/jVbxVRcWWLD3mwCP9" "https://maps.app.goo.gl/oGmNgvnhFBFjmE2K9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A7%E3%83%88%E3%83%A9%E3%83%B3%E3%83%89%E3%83%BB%E3%82%B7%E3%83%BC%E3%83%97" "シェットランドシープ" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-OvellasShetland.jpg" width="95%">
+<img src="./960px-OvellasShetland.jpg" width="95%" alt="960px OvellasShetland">
 </div>
 
 

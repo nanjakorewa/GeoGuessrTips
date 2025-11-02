@@ -48,7 +48,7 @@ Google Carが特徴的で長いアンテナが右前にある。{{% goto "../nor
 砂浜の上を歩く場所があり高層の観光ホテルが見えることが多い{{% ex "https://maps.app.goo.gl/VfVdmZoRViGfFB9V6" "https://maps.app.goo.gl/iesPnEJB7xNqa5Mv6" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./hotel_nikko_guam.jpg" width="95%">
+<img src="./hotel_nikko_guam.jpg" width="95%" alt="Hotel nikko guam">
 </div>
 {{% /tab %}}
 {{% tab "家" %}}

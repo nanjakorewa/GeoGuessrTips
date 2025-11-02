@@ -29,7 +29,7 @@ Se pueden encontrar postes de servicios similares a los de {{% goto "../../europ
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/lota_ouzemour.jpg" width="95%">
+<img src="/rule/africa/algeria/lota_ouzemour.jpg" width="95%" alt="Lota ouzemour">
 </div>
 
 {{% notice tip %}}
@@ -37,7 +37,7 @@ Al igual que en {{% goto "../../europe/france/" "Francia" %}}, pequeﾃｱas pla
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/haouayet.jpg" width="95%">
+<img src="/rule/africa/algeria/haouayet.jpg" width="95%" alt="Haouayet">
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Los montes Atlas se encuentran al norte y el macizo Hoggar (Ahaggar) al sur, por
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/algeria/algeria_hoggar_assekrem_volcano_0.jpg" width="95%">
+<img src="/rule/africa/algeria/algeria_hoggar_assekrem_volcano_0.jpg" width="95%" alt="Algeria hoggar assekrem volcano 0">
 </div>
 
 {{% /tab %}}

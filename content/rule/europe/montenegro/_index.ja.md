@@ -38,7 +38,7 @@ sc: [
 ナンバープレートは左側に青い線があり<span class="quiz">ナンバープレートの中心にロゴがある</span>ので中央部分が少しだけ赤く見えることがある{{% ex "https://maps.app.goo.gl/XKk4oFYuAG9Bsejo8" "https://maps.app.goo.gl/A9fuD52Ge1eenJaSA" %}}。真っ白なプレートの車も一定数ある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%">
+<img src="./1087px-DSC_0122_Podgorica,_July_2017.jpg" width="95%" alt="1087px DSC 0122 Podgorica, July 2017">
 </div>
 
 {{% lb 50 small %}}
@@ -69,7 +69,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./montenegro_rijeka_crnojevica_1230321.jpg" width="95%">
+<img src="./montenegro_rijeka_crnojevica_1230321.jpg" width="95%" alt="Montenegro rijeka crnojevica 1230321">
 </div>
 
 {{% /tab  %}}
@@ -79,7 +79,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./fuel_station_eko_pic2.jpg">
+<img src="./fuel_station_eko_pic2.jpg" alt="Fuel station eko pic2">
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ CC0
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../serbia/idea.png" width="400px">
+<img src="../serbia/idea.png" width="400px" alt="Idea">
 </div>
 
 

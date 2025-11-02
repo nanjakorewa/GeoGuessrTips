@@ -53,8 +53,8 @@ Guardrail berwarna hitam dan putih
 Tanda penyeberangan jalan terkadang dikelilingi garis kuning.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/ceuta/r/walk1.png" width="100px" style="margin:10px">
-<img src="/rule/africa/ceuta/r/walk2.png" width="110px" style="margin:5px">
+<img src="/rule/africa/ceuta/r/walk1.png" width="100px" style="margin:10px" alt="Walk1">
+<img src="/rule/africa/ceuta/r/walk2.png" width="110px" style="margin:5px" alt="Walk2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

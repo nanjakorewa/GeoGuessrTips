@@ -33,7 +33,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./camel_turkmenistan_desert_animals.jpg" width="95%">
+<img src="./camel_turkmenistan_desert_animals.jpg" width="95%" alt="Camel turkmenistan desert animals">
 </div>
 
 {{% notice tip %}}
@@ -41,7 +41,7 @@ Darvaza gas craterがある{{% ex "https://maps.app.goo.gl/RMkYWDvmAq7p6aRL7" %}
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="darvaza_png.png"></div>
+<img src="darvaza_png.png" alt="Darvaza png"></div>
 </div>
 
 {{% /tab %}}

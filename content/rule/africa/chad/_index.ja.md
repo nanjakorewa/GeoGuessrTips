@@ -60,7 +60,7 @@ is_unofficial: true
 {{% tab "衛星写真" %}}
 
 <div class="googlemap-if no-margin">
-<img src="./474px-Chad_sat.jpg" width="90%">
+<img src="./474px-Chad_sat.jpg" width="90%" alt="474px Chad sat">
 </div>
 
 

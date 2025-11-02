@@ -38,9 +38,9 @@ sc: [
 {{% notice tip %}}Las señales de tráfico tienen iconografía propia.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/qatar/r/QA_road_sign_R100.svg" width="110px" style="margin:10px">
-<img src="/rule/middle_east/qatar/r/QA_road_sign_R101.svg" width="120px" style="margin:10px">
-<img src="/rule/middle_east/qatar/r/Qatar_traffic_sign_428.svg" width="110px" style="margin:10px">
+<img src="/rule/middle_east/qatar/r/QA_road_sign_R100.svg" width="110px" style="margin:10px" alt="QA road sign R100">
+<img src="/rule/middle_east/qatar/r/QA_road_sign_R101.svg" width="120px" style="margin:10px" alt="QA road sign R101">
+<img src="/rule/middle_east/qatar/r/Qatar_traffic_sign_428.svg" width="110px" style="margin:10px" alt="Qatar traffic sign 428">
 </div>
 
 {{% notice tip %}}El lateral granate de la matrícula evita confundirla con la de {{% goto "../united_arab_emirates/" "Dubái" %}}. El perfil de las Lusail Plaza Towers también es muy llamativo{{% ref "https://en.wikipedia.org/wiki/Lusail_Plaza_Towers" "Lusail Plaza Towers" %}}.

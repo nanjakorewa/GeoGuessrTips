@@ -30,9 +30,9 @@ plonkit: true
 Tourist landmarks like the <span class="quiz">Pyramids</span>{{% ex "https://maps.app.goo.gl/8rrMqFYeptabCejP6" %}} and the <span class="quiz">Citadel of Qaitbay</span>{{% ex "https://maps.app.goo.gl/z8t87qBct5QeRX186" %}} are common. Egyptian architecture often favors <span class="quiz">symmetry</span> and long axial layouts, with many structures built of mudbrick and stone{{% ex "https://maps.app.goo.gl/xoj4jyQPmvpUDNKH8" "https://maps.app.goo.gl/PDbWvY5xbopNh8Fd8" %}}{{% ref "https://www.news-digest.co.uk/news/index.php?cucoaction%5B0%5D=edit&option=com_content&task=view&id=4218&Itemid=0" "On symmetry in Egyptian architecture (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/egypt/egypt_ancient_archeology_pyramid_0.jpg" width="600px">
-<img src="/rule/africa/egypt/qaitbay_citadel.jpg" width="334px">
-<img src="/rule/africa/egypt/copticquarter.jpg" width="266px">
+<img src="/rule/africa/egypt/egypt_ancient_archeology_pyramid_0.jpg" width="600px" alt="Egypt ancient archeology pyramid 0">
+<img src="/rule/africa/egypt/qaitbay_citadel.jpg" width="334px" alt="Qaitbay citadel">
+<img src="/rule/africa/egypt/copticquarter.jpg" width="266px" alt="Copticquarter">
 </div>
 
 {{% notice tip %}}

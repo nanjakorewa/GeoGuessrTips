@@ -33,7 +33,7 @@ Arabic is the primary language in use.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/kuwait/arabian_gulf_street.jpg" width="90%">
+<img src="/rule/middle_east/kuwait/arabian_gulf_street.jpg" width="90%" alt="Arabian gulf street">
 </div>
 
 {{% notice tip %}}
@@ -42,8 +42,8 @@ Private vehicles use white license plates, while public transport vehicles use y
 
 
 <div class="googlemap-if">
-<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px">
-<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px">
+<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Private.png" style="margin:10px;width:250px" alt="Kuwait License Plate Private">
+<img src="/rule/middle_east/kuwait/Kuwait_License_Plate_-_Public.png" style="margin:10px;width:250px" alt="Kuwait License Plate Public">
 </div>
 
 

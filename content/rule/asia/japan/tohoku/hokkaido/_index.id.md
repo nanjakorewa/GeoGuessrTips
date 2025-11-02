@@ -38,7 +38,7 @@ Daerah bersalju memasang <span class="quiz">panah tergantung</span> untuk menunj
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/tohoku/hokkaido/Kōnomai02.jpg" width="80%">
+<img src="/rule/asia/japan/tohoku/hokkaido/Kōnomai02.jpg" width="80%" alt="Kōnomai02">
 </div>
 
 {{% /tab %}}
@@ -48,7 +48,7 @@ Daerah bersalju memasang <span class="quiz">panah tergantung</span> untuk menunj
 Tanaman fuki (Petasites japonicus) sering tumbuh berkelompok di tepi jalan. Jumlahnya yang banyak menjadi ciri khas Hokkaidō.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/komon03.jpg">
+<img src="/rule/asia/japan/tohoku/hokkaido/komon03.jpg" alt="Komon03">
 </div>
 {{% /tab %}}
 {{% tab "Tiang listrik" %}}
@@ -57,7 +57,7 @@ Tiang listrik menampilkan angka besar secara vertikal; pola ini mudah dibedakan{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="120px">
+<img src="/rule/asia/japan/pole/pole-hokkaido.png" width="120px" alt="Pole hokkaido">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ Jika menemukan <span class="quiz">Seicomart</span>, hampir pasti Anda berada dal
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/japan/tohoku/hokkaido/Akan_bus_Akan01.jpg" width="80%">
+<img src="/rule/asia/japan/tohoku/hokkaido/Akan_bus_Akan01.jpg" width="80%" alt="Akan bus Akan01">
 </div>
 
 
@@ -92,7 +92,7 @@ Di beberapa persimpangan terdapat <span class="quiz">kotak pasir</span> untuk me
 
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/960px-Sandbox02.jpg">
+<img src="/rule/asia/japan/tohoku/hokkaido/960px-Sandbox02.jpg" alt="960px Sandbox02">
 </div>
 
 {{% /tab %}}
@@ -102,7 +102,7 @@ Di beberapa persimpangan terdapat <span class="quiz">kotak pasir</span> untuk me
 Beberapa rambu lalu lintas khas Hokkaidō jarang terlihat di prefektur lain{{% ex "https://maps.app.goo.gl/6R9bUhSauoZT8RsX9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/japan/tohoku/hokkaido/Japanese_road_sign_406-2.svg" width="250px">
+<img src="/rule/asia/japan/tohoku/hokkaido/Japanese_road_sign_406-2.svg" width="250px" alt="Japanese road sign 406 2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

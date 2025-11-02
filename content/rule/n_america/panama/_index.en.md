@@ -65,7 +65,7 @@ Yellow taxis display the city or route on their flanks{{% ex "https://maps.app.g
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/joshnyc/2360568985/" title="Pick-up taxi"><img src="https://live.staticflickr.com/3246/2360568985_b0de618402_z.jpg" width="640" height="345" alt="Pick-up taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/panama/sideplate.jpg" width="160px">
+<img src="/rule/n_america/panama/sideplate.jpg" width="160px" alt="Sideplate">
 </div>
 
 {{% /tab %}}
@@ -75,7 +75,7 @@ You can find huts with thatched roofs{{% ex "https://maps.app.goo.gl/wXHLgp28ux8
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/n_america/panama/panama_beach_seaside_holiday.jpg" width="590px">
+<img src="/rule/n_america/panama/panama_beach_seaside_holiday.jpg" width="590px" alt="Panama beach seaside holiday">
 </div>
 
 {{% /tab %}}
@@ -104,7 +104,7 @@ You can find huts with thatched roofs{{% ex "https://maps.app.goo.gl/wXHLgp28ux8
 {{% tabs %}}
 {{% tab "Pole Plates" %}}
 <div class="googlemap-if no-margin">
-<p><img src="/rule/n_america/panama/2023-10-15-15-37-08.png" width="90%"></p>
+<p><img src="/rule/n_america/panama/2023-10-15-15-37-08.png" width="90%" alt="2023 10 15 15 37 08"></p>
 <p>Image cropped from: By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/132545975@N04">Melissa McMasters</a> from Memphis, TN, United States - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/cricketsblog/52729221354/">La Mesa, Panama</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=129314200">Link</a></p>
 </div>
 {{% /tab %}}
@@ -118,7 +118,7 @@ You can find huts with thatched roofs{{% ex "https://maps.app.goo.gl/wXHLgp28ux8
 {{% tab "Vegetation" %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/panama/Panama_veg_1981.jpg" width="90%">
+<img src="/rule/n_america/panama/Panama_veg_1981.jpg" width="90%" alt="Panama veg 1981">
 </div>
 
 {{% /tab %}}
@@ -141,7 +141,7 @@ Few roads along the canal have Street View, so viewpoints with ships are limited
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/panama/panama_panama_canal_locks.jpg" width="90%">
+<img src="/rule/n_america/panama/panama_panama_canal_locks.jpg" width="90%" alt="Panama panama canal locks">
 </div>
 
 {{% /tab %}}
@@ -152,7 +152,7 @@ Look for large rounded black rocks near the volcano{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/n_america/panama/volcanbaru1.jpg" width="90%">
+<img src="/rule/n_america/panama/volcanbaru1.jpg" width="90%" alt="Volcanbaru1">
 </div>
 
 {{% /tab %}}

@@ -45,7 +45,7 @@ sc: [
 Correos mailboxes are tall <span class="quiz">yellow</span> cylinders marked with the Correos logo{{% ex "https://maps.app.goo.gl/izadzQSiYySYPqFH7" "https://maps.app.goo.gl/98xfrzaY5FzksDAX8" %}}{{% ref "https://en.wikipedia.org/wiki/Correos" "Sociedad Estatal Correos y Telégrafos, S.A." %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/post.jpg" width="70%">
+<img src="/rule/europe/spain/post.jpg" width="70%" alt="Post">
 </div>
 
 
@@ -53,7 +53,7 @@ Correos mailboxes are tall <span class="quiz">yellow</span> cylinders marked wit
 <span class="quiz">“CALLE”</span> means “street” in Spanish. In Catalonia, the Catalan word “CARRER” appears instead. The sign on the right comes from Catalonia’s Free Software Street{{% ref "https://en.wikipedia.org/wiki/Free_Software_Street" "Free Software Street" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/street.jpg" width="90%">
+<img src="/rule/europe/spain/street.jpg" width="90%" alt="Street">
 </div>
 
 
@@ -71,7 +71,7 @@ Many bollards share the same <span class="quiz">yellow</span> scheme as the mail
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/navaleno_n_234.jpg" width="600">
+<img src="/rule/europe/spain/navaleno_n_234.jpg" width="600" alt="Navaleno n 234">
 </div>
 
 
@@ -84,7 +84,7 @@ Small orange or yellow kilometer plates often sit along the roadside, showing th
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/road.jpg" width="600">
+<img src="/rule/europe/spain/road.jpg" width="600" alt="Road">
 </div>
 
 
@@ -93,7 +93,7 @@ Chevron signs exist with <span class="quiz">black</span> or <span class="quiz">b
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600">
+<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600" alt="Road m 503 km17">
 </div>
 
 
@@ -102,7 +102,7 @@ Highways frequently include short guardrail segments painted white with black st
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600">
+<img src="/rule/europe/spain/road_m_503_km17.jpg" width="600" alt="Road m 503 km17">
 </div>
 
 
@@ -126,7 +126,7 @@ Castilla y León and Aragón feature vast pine forests{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/pinus_pinea_pompeii.jpg" width="95%">
+<img src="/rule/europe/spain/pinus_pinea_pompeii.jpg" width="95%" alt="Pinus pinea pompeii">
 </div>
 
 {{% notice tip %}}
@@ -134,7 +134,7 @@ Aleppo pine woods with sandy soil are also common near the Mediterranean coast{{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%">
+<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%" alt="Pinus halepensis near hyeres">
 </div>
 {{% /tab %}}
 {{% tab "Olive Groves" %}}
@@ -144,7 +144,7 @@ Andalusia is blanketed by olive groves laid out in a grid{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/spain/Invernaderos_el_ejido.jpg" width="95%">
+<img src="/rule/europe/spain/Invernaderos_el_ejido.jpg" width="95%" alt="Invernaderos el ejido">
 </div>
 {{% /tab %}}
 {{% tab "Mediterranean Coast" %}}
@@ -154,7 +154,7 @@ Coastal Catalonia and Valencia mix Aleppo pines, stone pines, and scrubby cliffs
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%">
+<img src="/rule/europe/spain/pinus_halepensis_near_hyeres.jpg" width="95%" alt="Pinus halepensis near hyeres">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -189,7 +189,7 @@ Almería province is famous for greenhouse farming; the southeastern shoreline l
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/spain/960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%">
+<img src="/rule/europe/spain/960px-Roquetas_de_Mar_(Umgebung)_-_2004_08_18_-_Glashäuser_-_2.jpg" width="95%" alt="960px Roquetas de Mar (Umgebung) 2004 08 18 Glashäuser 2">
 </div>
 {{% /tab %}}
 {{% tab "Rice fields" %}}
@@ -213,7 +213,7 @@ In addition to conventional photovoltaic farms{{% ex "https://maps.app.goo.gl/9q
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/spain/960px-Luz.jpg" width="95%">
+<img src="/rule/europe/spain/960px-Luz.jpg" width="95%" alt="960px Luz">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

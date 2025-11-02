@@ -48,7 +48,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-30-18-58-19.png" width="95%" />
+<img src="2023-07-30-18-58-19.png" width="95%" alt="2023 07 30 18 58 19" />
 </div>
 
 {{% lb 50 %}}
@@ -66,8 +66,8 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" />
-<img src="2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" />
+<img src="2023-04-17-12-54-04.png" width="295px" style="height:200px;margin:0;" alt="2023 04 17 12 54 04" />
+<img src="2023-04-17-12-53-48.png" width="295px" style="height:200px;margin:0" alt="2023 04 17 12 53 48" />
 <div class="description-wide">
 左がウクライナ、右がロシアの一例（※Chrome開発者ツールから「Enumerate vision deficiencies」で表示設定を変えてます）。赤が認識しづらい人はほぼ参考にならないので他のヒントを探してみる。
 </div>
@@ -126,7 +126,7 @@ GoogleCarは<span class="quiz">赤</span>色がぼんやりと見えるかも{{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./18_134_186.jpg" width="550px">
+<img src="./18_134_186.jpg" width="550px" alt="18 134 186">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

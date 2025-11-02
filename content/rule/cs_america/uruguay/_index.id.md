@@ -113,7 +113,7 @@ Menurut plonk it, bentuk tiang listrik ini khas di Uruguay {{% by "https://www.p
 Sebagian besar wilayah berada pada ketinggian antara 0–300 m, dengan titik tertinggi hanya 513 m (berdasarkan gambar domain publik).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/uruguay/2023-04-25-12-33-07.png" width="90%" />
+<img src="/rule/cs_america/uruguay/2023-04-25-12-33-07.png" width="90%" alt="2023 04 25 12 33 07" />
 </div>
 {{% /tab %}}
 {{% tab "Pertanian" %}}
@@ -121,7 +121,7 @@ Sebagian besar wilayah berada pada ketinggian antara 0–300 m, dengan titik ter
 Produksi barley dan kedelai hampir setengahnya berasal dari wilayah barat daya, yaitu Soriano dan Colonia {{% ex "https://maps.app.goo.gl/Fp1HViaRE7ubLy4F9" "https://maps.app.goo.gl/fAjez8Jv2JmyFHUSA" %}}. Produksi jagung dan rapeseed juga terkonsentrasi di wilayah barat, sehingga jika terlihat ladang luas, mungkin Anda berada di barat {{% ref "https://ipad.fas.usda.gov/countrysummary/default.aspx?id=UY" "Produksi Uruguay" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" />
+<img src="/rule/cs_america/uruguay/Uruguay_Barley.png" width="90%" alt="Uruguay Barley" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -142,7 +142,7 @@ Jalan menuju pemukiman di Cabo Polonio tidak menggunakan mobil hitam. Jangan sal
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%">
+<img src="/rule/cs_america/uruguay/casaspolonio.jpg" width="95%" alt="Casaspolonio">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Flores" %}}

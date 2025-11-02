@@ -54,7 +54,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="cryptomeria_japonica.jpg" width="500px">
+<img src="cryptomeria_japonica.jpg" width="500px" alt="Cryptomeria japonica">
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./gifu_prefectural_road_85.jpg" width="90%">
+<img src="./gifu_prefectural_road_85.jpg" width="90%" alt="Gifu prefectural road 85">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./rural_unpaved_road_waving.jpg" width="90%">
+<img src="./rural_unpaved_road_waving.jpg" width="90%" alt="Rural unpaved road waving">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -193,7 +193,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-14-21-52-22.png" class="no-click"/>
+<img src="2023-04-14-21-52-22.png" class="no-click" alt="2023 04 14 21 52 22" />
 <p><a href="https://commons.wikimedia.org/w/index.php?curid=55479620">Pekachuによる著作物, CC0</a></p>
 </div>
 
@@ -229,7 +229,7 @@ Googleマップで「コンビニ」のようなたくさんある施設名を�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="Japan_rice.jpg" width="500px">
+<img src="Japan_rice.jpg" width="500px" alt="Japan rice">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

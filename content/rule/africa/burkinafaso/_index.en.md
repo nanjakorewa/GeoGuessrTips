@@ -38,7 +38,7 @@ As a former {{% goto "../../europe/france/" "French" %}} colony, road signs ofte
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Ouagadougou_road.jpg#/media/File:Ouagadougou_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Ouagadougou_road.jpg" height="593" width="1280"></a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Ouagadougou_road.jpg#/media/File:Ouagadougou_road.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Ouagadougou_road.jpg" height="593" width="1280" alt="Ouagadougou road"></a></p>
 <p>By Ferdinand Reus – CC BY-SA 2.0</p>
 </div>
 

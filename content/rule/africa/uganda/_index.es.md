@@ -26,14 +26,14 @@ plonkit: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/640px-Boda-Boda-Uganda.jpg" width="85%">
+<img src="/rule/africa/uganda/640px-Boda-Boda-Uganda.jpg" width="85%" alt="640px Boda Boda Uganda">
 </div>
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/640px-Taxis_in_Kampala.jpg" width="85%">
+<img src="/rule/africa/uganda/640px-Taxis_in_Kampala.jpg" width="85%" alt="640px Taxis in Kampala">
 </div>
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/uganda/house.jpg" width="70%">
-<img src="/rule/africa/uganda/uganda_building_landscape_sky.jpg" width="70%">
+<img src="/rule/africa/uganda/house.jpg" width="70%" alt="House">
+<img src="/rule/africa/uganda/uganda_building_landscape_sky.jpg" width="70%" alt="Uganda building landscape sky">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

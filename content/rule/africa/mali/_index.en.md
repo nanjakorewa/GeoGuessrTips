@@ -46,7 +46,7 @@ Uploaded by <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-
 The Bandiagara cliffs are located away from the urban area{{% ex "https://maps.app.goo.gl/3wPDRJD1wu1AMFxm6" "https://maps.app.goo.gl/e1WEbAzvs27pHcMo7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/mali/falaise_de_bandiagara2.jpg" width="550px">
+<img src="/rule/africa/mali/falaise_de_bandiagara2.jpg" width="550px" alt="Falaise de bandiagara2">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

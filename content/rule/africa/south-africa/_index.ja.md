@@ -47,15 +47,15 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./adt.png" width="150px" style="margin:10px">
-<img src="./blue.png" width="150px" style="margin:10px">
+<img src="./adt.png" width="150px" style="margin:10px" alt="Adt">
+<img src="./blue.png" width="150px" style="margin:10px" alt="Blue">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">左側</span>通行{{% ex "https://maps.app.goo.gl/8gMFG5NsBTamWV8g8" "https://maps.app.goo.gl/fQZeh21BBqrWQbst7" %}}。外側の線がある場合は<span class="quiz">オレンジ</span>色で中央分離帯が<span class="quiz">白</span>の線{{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" "https://goo.gl/maps/xEQoTHcWvEnZh6Bd8" "https://goo.gl/maps/nJU7oiYVaPU8rz6TA" "https://goo.gl/maps/XXRkvuhtqLF4tJjD9" %}}。両サイドのラインは描かれていない場合もある{{% ex "https://goo.gl/maps/YTXuR5d5ReaxKZFv8" "https://goo.gl/maps/4kMfS3xsCy9mtxBz9" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" />
+<img src="./road.jpg" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable" style="align-items: center;">
-<img src="2023-08-03-02-58-40.png" width="90%" />
+<img src="2023-08-03-02-58-40.png" width="90%" alt="2023 08 03 02 58 40" />
 </div>
 
 {{% notice tip %}}
@@ -71,8 +71,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="./r/M4.png" width="70px" style="margin:10px">
-<img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+<img src="./r/M4.png" width="70px" style="margin:10px" alt="M4">
+<img src="../../oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -92,7 +92,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./sign.jpg" width="500px">
+<img src="./sign.jpg" width="500px" alt="Sign">
 </div>
 
 {{% /tab %}}
@@ -151,7 +151,7 @@ P522と書かれているのは道路番号なので見逃さないように。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-24-17-09-12.png" width="500px"/>
+<img src="2023-04-24-17-09-12.png" width="500px" alt="2023 04 24 17 09 12" />
 </div>
 {{% /tab %}}
 {{% tab "①国立公園" %}}
@@ -210,7 +210,7 @@ Nama Karooは干ばつも発生することがある厳しい環境で場所に�
 {{% tabs %}}
 {{% tab "農業" %}}
 <div class="googlemap-if">
-<img src="2023-05-12-20-42-15.png" width="90%"/>
+<img src="2023-05-12-20-42-15.png" width="90%" alt="2023 05 12 20 42 15" />
 <div class="description-wide">
 Waldner, François, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
 </div>
@@ -222,12 +222,12 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 {{% /tab %}}
 {{% tab "サトウキビ" %}}
 <div class="googlemap-if">
-<img src="./ag/sugacane.jpg" width="90%"/>
+<img src="./ag/sugacane.jpg" width="90%" alt="Sugacane" />
 </div>
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if">
-<img src="./ag/corn.jpg" width="90%"/>
+<img src="./ag/corn.jpg" width="90%" alt="Corn" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -252,7 +252,7 @@ Fruit（紫色）の箇所でぶどうが、東のSuger（黄緑色）のエリ�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="bainskloof_pass01.jpg" width="500px"/>
+<img src="bainskloof_pass01.jpg" width="500px" alt="Bainskloof pass01" />
 </div>
 {{% /tab %}}
 {{% tab "ナンバープレート" %}}
@@ -285,7 +285,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 徒歩で道の上を歩いていたら考えてみる{{% ex "https://maps.app.goo.gl/y6M3qmKAhq3qPgSr5" "https://maps.app.goo.gl/78cktLEdWZDZh33x9" %}}。テーブルマウンテンが遠くに見える。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="limestone_quarry_robben_island.jpg" width="600px"/>
+<img src="limestone_quarry_robben_island.jpg" width="600px" alt="Limestone quarry robben island" />
 </div>
 {{% /tab %}}
 

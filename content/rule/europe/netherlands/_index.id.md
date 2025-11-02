@@ -58,7 +58,7 @@ Gert Kalkman - public road, domain publik, <a href="https://commons.wikimedia.or
 Fasad bata mendominasi{{% ex "https://maps.app.goo.gl/upSSbDuAiszRfgEN8" %}}, dan beberapa bangunan masih memiliki balok pengangkat di dekat atap—warisan gudang untuk mengangkat barang{{% ex "https://maps.app.goo.gl/FZmHPz41uv2tSn1FA" %}}. Hingga kini kait tersebut masih digunakan untuk mengangkat furnitur {{% by "https://anokuni.com/life-guide/nld-house/" "web" "Tinggal di luar negeri > Rumah di Belanda" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/netherlands/middelburg_netherlands_zealand_718385.jpg" width="90%">
+<img src="/rule/europe/netherlands/middelburg_netherlands_zealand_718385.jpg" width="90%" alt="Middelburg netherlands zealand 718385">
 </div>
 
 {{% notice tip %}}
@@ -74,7 +74,7 @@ Bollard tepi jalan berwarna <span class="quiz">putih</span>. Di jalan besar seri
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bollard.jpg" width="90%">
+<img src="./bollard.jpg" width="90%" alt="Bollard">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Tiang biru-putih menandai lokasi penyeberangan sepeda.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./fietsers_crossing_sign.jpg" width="90%">
+<img src="./fietsers_crossing_sign.jpg" width="90%" alt="Fietsers crossing sign">
 </div>
 
 {{% /tab %}}
@@ -120,7 +120,7 @@ Bangunan datar berlapis aluminium biasanya gudang dan sering berada di tepi kana
 <iframe src="https://www.google.com/maps/embed?pb=!4v1690199782462!6m8!1m7!1sZXnBztr5Uzf0TAiV6Xj2_g!2m2!1d52.40373286074148!2d4.749969538076793!3f19.895877507970635!4f2.8884534735692853!5f0.7820865974627469" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 <div class="unclickable">
-<img src="/rule/europe/netherlands/mol.jpg" width="600px" />
+<img src="/rule/europe/netherlands/mol.jpg" width="600px" alt="Mol" />
 </div>
 </div>
 

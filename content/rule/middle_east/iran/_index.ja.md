@@ -32,7 +32,7 @@ EU圏と同じようなデザインのナンバープレートが見つかる
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road.jpg" width="90%">
+<img src="./road.jpg" width="90%" alt="Road">
 </div>
 
 

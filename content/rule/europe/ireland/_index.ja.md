@@ -47,17 +47,17 @@ sc: [
 <span class="quiz">緑色</span>のポストがある。{{% goto "../../asia/china/" "中国" %}}や{{% goto "../../africa/egypt/" "エジプト" %}}も同じ色だがこれらの国は施設内以外にストリートビューが無い上に景観も大きく異なるはず。形はいろいろバリエーションがある。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="mailbox.jpg" width="90%" />
+<img src="mailbox.jpg" width="90%" alt="Mailbox" />
 </div>
 
 {{% notice tip %}}
 アイルランドはイギリスと比較してこの⚠️が道端などでも良く見られる気がする{{% ex "https://maps.app.goo.gl/uG7UKmob7apuVTik6" "https://goo.gl/maps/JmSFuVkugqPPRhBg9" "https://goo.gl/maps/svmH5kVVS9wMmmCF8" %}}。⚠️の中に人が描かれていたらイギリスかも、人がいないならアイルランド。図は自作なので厳密ではないです。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="warning-sign.jpg" width="90%" />
+<img src="warning-sign.jpg" width="90%" alt="Warning sign" />
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="ie.png" width="120px">
+<img src="ie.png" width="120px" alt="Ie">
 </div>
 
 {{% notice tip %}}
@@ -91,7 +91,7 @@ sc: [
 {{% tabs %}}
 {{% tab "石壁" %}}
 <div class="googlemap-if unclickable" width="95%">
-<img src="./burren.jpg">
+<img src="./burren.jpg" alt="Burren">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -115,7 +115,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./inishturk_north.jpg">
+<img src="./inishturk_north.jpg" alt="Inishturk north">
 </div>
 {{% /tab %}}
 {{% tab "Inishbofin" %}}
@@ -125,7 +125,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./inishbofin_fort.jpg">
+<img src="./inishbofin_fort.jpg" alt="Inishbofin fort">
 </div>
 {{% /tab %}}
 {{% tab "Dublin" %}}

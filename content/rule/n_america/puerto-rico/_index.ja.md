@@ -40,7 +40,7 @@ sc: [
 ナンバープレートが<span class="quiz">前に付いていない</span>車しかない。四角の電柱があり、下の方に色が付いていることもある{{% ex "https://maps.app.goo.gl/XxN31SaHk76dDTvQ7" "https://maps.app.goo.gl/ZAZchittC7GJfBmE7" %}}。2014~2023年の車のナンバーは左半分が暗く、右半分が白色っぽく見える{{% ex "https://maps.app.goo.gl/X1YBm8SU1VYXt3Zk6" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" >
+<img src="./road.jpg" width="90%" alt="Road">
 </div>
 
 
@@ -61,8 +61,8 @@ Public Domain
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px">
-<img src="./r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px">
+<img src="./r/MUTCD_R2-1_PR.svg" width="100px" style="margin:10px" alt="MUTCD R2 1 PR">
+<img src="./r/MUTCD-PR_R2-2a.svg" width="100px" style="margin:10px" alt="MUTCD PR R2 2a">
 </div>
 
 {{% notice tip %}}
@@ -71,8 +71,8 @@ Public Domain
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/869.png" width="100px" style="margin:10px">
-<img src="./r/970.png" width="80px" style="margin:10px">
+<img src="./r/869.png" width="100px" style="margin:10px" alt="869">
+<img src="./r/970.png" width="80px" style="margin:10px" alt="970">
 </div>
 
 {{% notice tip %}}

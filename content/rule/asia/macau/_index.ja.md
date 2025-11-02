@@ -38,8 +38,8 @@ sc: [
 白い陶器製のタイルのようなものに通り名が書かれていることが多い{{% ex "https://maps.app.goo.gl/3GXooHPpm1JHh9x59" "https://goo.gl/maps/mLTm8P2y6z5TJkbSA" "https://goo.gl/maps/5h9qXYTs5uq49Vtw6" %}}。２言語で書かれている点も特徴的。ちなみに{{% goto "../../europe/portugal/" "ポルトガル" %}}でも似たような形の通り名看板が散見される{{% ex "https://maps.app.goo.gl/t5qJ7FrJ18ADA2bq5" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./roadsign1.jpg" width="300px">
-<img src="./roadsign2.jpg" width="300px">
+<img src="./roadsign1.jpg" width="300px" alt="Roadsign1">
+<img src="./roadsign2.jpg" width="300px" alt="Roadsign2">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./macautrafficlightoutoforder.jpg" width="640">
+<img src="./macautrafficlightoutoforder.jpg" width="640" alt="Macautrafficlightoutoforder">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/130438292@N02/30768906232/in/photolist-NSWFRj-aY4obg-bCti-5txTHd-7QMaqq-hdw3T-fk7mHV-25cBX-huVJVw-5N8S83-7DVVdo-6wzYXg-476N5P-6RuE3-2KFDaS-2nDsdnA-2hDA1xQ-2nfh9Jz-2ogozTg-KxkD4-2hxfXzV-2hiMsUK-2oe3hnJ-2g7yjGy-2gJJyra-axKahY-GKWqv7-2hgSA21-bW9ZY-4DFYQB-6kSrvH-6kSkpz-axK9gj-2hiJHy1-2xxHX-2xxJm-8zxaCr-2hmAwR5-tQBFq-2hDCNfA-e5Mbx-2gAXDxy-2ipTXeu-2g7Axvj-2hiMtfQ-2hDSduw-2hEaknk-2h4jSBX-avbDZA-xgtefu" title="Macau Taxi"><img src="https://live.staticflickr.com/5629/30768906232_be3aeb8327_z.jpg" width="640" height="427" alt="Macau Taxi"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
@@ -95,7 +95,7 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 
 
 <div class="googlemap-if">
-<img src="2023-08-12-04-35-46.png" width="90%">
+<img src="2023-08-12-04-35-46.png" width="90%" alt="2023 08 12 04 35 46">
 </div>
 
 {{% /tab %}}

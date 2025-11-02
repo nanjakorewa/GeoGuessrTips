@@ -48,7 +48,7 @@ sc: [
 白っぽい石でできた特徴的な建物が立ち並ぶ。バロック様式の建築が見られる{{% ref "https://en.wikipedia.org/wiki/Architecture_of_Malta" "マルタの建築" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./malta_alley_house_street.jpg" width="90%">
+<img src="./malta_alley_house_street.jpg" width="90%" alt="Malta alley house street">
 </div>
 
 
@@ -83,7 +83,7 @@ Rabatの町の紋章
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1688016496533!6m8!1m7!1s6wNHZYY4zm1wKWBe2t6Uvg!2m2!1d35.87682620465242!2d14.39919741634585!3f35.53437489022956!4f12.242743299431226!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <div style="margin:30px;pointer-events:none;">
-<img src="malta-cityflag.png" width="275px">
+<img src="malta-cityflag.png" width="275px" alt="Malta cityflag">
 </div>
 </div>
 {{% /tab %}}

@@ -42,14 +42,14 @@ import_jquery_36: true
 松の木が多い{{% ex "https://goo.gl/maps/3zTkaxuoTkprerHk6" "https://goo.gl/maps/ZesPrE19f3cJ8rDu9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./republic_korea_stone_wall.jpg" width="90%">
+<img src="./republic_korea_stone_wall.jpg" width="90%" alt="Republic korea stone wall">
 </div>
 
 {{% notice tip %}}
 特徴的な形のボラードがある{{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_roadside_in_mountainous.jpg" width="90%">
+<img src="./korean_roadside_in_mountainous.jpg" width="90%" alt="Korean roadside in mountainous">
 </div>
 
 
@@ -57,7 +57,7 @@ import_jquery_36: true
 警告看板がオレンジ色{{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_sign_traffic_signs.jpg" width="95%">
+<img src="./korean_sign_traffic_signs.jpg" width="95%" alt="Korean sign traffic signs">
 </div>
 
 
@@ -92,7 +92,7 @@ import_jquery_36: true
 北東と南西の内陸に山岳地帯がある
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./topolgraphic.png" width="500px"><p>
+<p><img src="./topolgraphic.png" width="500px" alt="Topolgraphic"><p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2665772">Link</a></p>
 </div>
 {{% /tab %}}
@@ -102,8 +102,8 @@ import_jquery_36: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./1080px-Jeju_Island_3D_2012.jpg" width="600px">
-<img src="./jeju_island_korea_road.jpg" width="600px">
+<img src="./1080px-Jeju_Island_3D_2012.jpg" width="600px" alt="1080px Jeju Island 3D 2012">
+<img src="./jeju_island_korea_road.jpg" width="600px" alt="Jeju island korea road">
 </div>
 {{% /tab %}}
 {{% tab "韓屋" %}}
@@ -112,8 +112,8 @@ import_jquery_36: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Korea-Seoul-Namsangol-03.jpg" width="350px">
-<img src="./477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px">
+<img src="./960px-Korea-Seoul-Namsangol-03.jpg" width="350px" alt="960px Korea Seoul Namsangol 03">
+<img src="./477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px" alt="477px Korea Gangneung Seongyojang 02">
 </div>
 
 {{% notice tip %}}
@@ -148,7 +148,7 @@ import_jquery_36: true
 南東の道がほぼ無いエリア以外はほとんど畑になっている。済州島のように土が黒く黒い石垣も多いが、森はほとんど無く高い山もない{{% ex "https://maps.app.goo.gl/V4yAFVSjnbBf1JKbA" "https://maps.app.goo.gl/kYEQHvdxcrT731FW7" "https://maps.app.goo.gl/BuNwwejxvTr4YZN88" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./jeju_island_nature_korea.jpg">
+<img src="./jeju_island_nature_korea.jpg" alt="Jeju island nature korea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

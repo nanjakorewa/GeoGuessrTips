@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="martinique_beach_ocean_sea.jpg" width="95%">
+<img src="martinique_beach_ocean_sea.jpg" width="95%" alt="Martinique beach ocean sea">
 </div>
 
 

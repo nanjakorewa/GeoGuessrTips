@@ -28,7 +28,7 @@ Para soportar los tifones, las casas tradicionales son de planta baja y suelen e
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kyusyu/okinawa/nakamurahouse.jpg">
+<img src="/rule/asia/japan/kyusyu/okinawa/nakamurahouse.jpg" alt="Nakamurahouse">
 </div>
 
 {{% /tab %}}

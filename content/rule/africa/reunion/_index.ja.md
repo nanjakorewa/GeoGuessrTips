@@ -38,21 +38,21 @@ sc: [
 {{% goto "../../europe/france/" "フランス" %}}と同じボラードや電柱がある{{% ex "https://maps.app.goo.gl/jHWrgNeTMXZQki1n6" %}}。電柱も青いプレートが付いている{{% ex "https://maps.app.goo.gl/3R38yJBPgKTvd9Kt7" "https://maps.app.goo.gl/KMnGcpcbV2i7JsQs7" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="b2.jpg" width="90%">
+<img src="b2.jpg" width="90%" alt="B2">
 </div>
 
 {{% notice tip %}}
 火山島であり赤茶色や黒色の岩や土が道端に見られる{{% ex "https://maps.app.goo.gl/rhiR3e2WEDzkxH386" "https://maps.app.goo.gl/xLm78wArxAvY4wCP8" "https://maps.app.goo.gl/7DCJup8YyfxmLsMJ6" "https://maps.app.goo.gl/wugp8FUdWGX8TuhM6" "https://maps.app.goo.gl/KfFw3tqvqEnEqRYk9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road_volcano_reunion_island.jpg" width="95%">
+<img src="./road_volcano_reunion_island.jpg" width="95%" alt="Road volcano reunion island">
 </div>
 
 {{% notice tip %}}
 平地ではサトウキビの生産が多い{{% ex "https://maps.app.goo.gl/HbBXG71PjMv8P6Uz6" "https://maps.app.goo.gl/5Se1LGfNqNEUGHm16" %}}{{% ref "https://www.laperruche.fr/ja/sugar-cane/" "la Perruche" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./canne_a_sucre_de.jpg" width="95%">
+<img src="./canne_a_sucre_de.jpg" width="95%" alt="Canne a sucre de">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Google Carが特徴的で<span class="quiz">右後ろ</span>に黒いテープ�
 Route du volcanという火山の周りを走る赤茶色の道路がある{{% ex "https://maps.app.goo.gl/Npbm7eAkyoELUk7h7" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./reunion-island-422071_1280.jpg" width="625px">
+<img src="./reunion-island-422071_1280.jpg" width="625px" alt="Reunion island 422071 1280">
 </div>
 {{% /tab %}}
 {{% tab "Cilaos" %}}
@@ -90,7 +90,7 @@ Route du volcanという火山の周りを走る赤茶色の道路がある{{% e
 カルデラ内部にあるため海は見えず、周りは山で囲まれている{{% ex "https://maps.app.goo.gl/BGoo4J6FGLnwERKEA" "https://maps.app.goo.gl/BL7Un2Sh2hY1G4kV6" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./cilaos_marre_joncs.jpg" width="625px">
+<img src="./cilaos_marre_joncs.jpg" width="625px" alt="Cilaos marre joncs">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

@@ -57,7 +57,7 @@ Utility poles may have large openings or square shapes similar to those in {{% g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/srilanka/road.jpg" width="90%" />
+<img src="/rule/asia/srilanka/road.jpg" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -154,21 +154,21 @@ Some poles have openings, others are square. Do not assume you are in Thailand j
 {{% /tab %}}
 {{% tab "Rice fields" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/rice.png" width="400px">
+<img src="/rule/asia/srilanka/rice.png" width="400px" alt="Rice">
 </div>
 {{% notice tip %}}Paddy fields appear more frequently toward the northeast, but they can still be found in many regions, so treat this as supplementary information.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Coconut palms" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/palm.png" width="400px">
+<img src="/rule/asia/srilanka/palm.png" width="400px" alt="Palm">
 </div>
 {{% notice tip %}}Coconut trees are scattered nationwide, but commercial plantations cluster in the central-west. Apologies for the rough hand-drawn map.
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Tea & rubber" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/srilanka/tea.png" width="400px">
+<img src="/rule/asia/srilanka/tea.png" width="400px" alt="Tea">
 </div>
 {{% notice tip %}}Tea estates are concentrated in the southwest, as noted by plonkit and supporting references. Rubber follows a similar pattern.
 {{% /notice %}}

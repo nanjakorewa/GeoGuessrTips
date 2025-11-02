@@ -44,13 +44,13 @@ Nomor jalan berbentuk heksagonal berwarna kuning {{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/asia/malaysia/road.jpg" width="80%" />
+<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="../../../../rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" />
-<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" />
-<img src="../../../../rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" />
+<img src="../../../../rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="Jkr ft1" />
+<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysian Public Works Department" />
+<img src="../../../../rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="Jkr k602" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Garis ini jarang ditemukan di {{% goto "../hongkong/" "Hong Kong" %}} {{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/langkawi_road.jpg" />
+<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Langkawi road" />
 </div>
 
 {{% notice tip %}}
@@ -85,7 +85,7 @@ Plat nomor kendaraan dapat terlihat terpisah karena efek blur {{% ex "https://ma
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" width="50%"/>
+<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" width="50%" alt="2023 05 04 12 38 44" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -95,7 +95,7 @@ Sebagian besar jalan di Malaysia terbuat dari aspal, dan jalan beton jarang dite
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/road-surface.png" width="90%">
+<img src="/rule/asia/malaysia/road-surface.png" width="90%" alt="Road surface">
 </div>
 
 {{% notice tip %}}
@@ -111,7 +111,7 @@ Kata 'AWAS' berarti 'hati-hati' dalam Bahasa Melayu {{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/640px-Tasik_Y_Recreational_Park_5.jpg" width="600">
+<img src="/rule/asia/malaysia/640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="640px Tasik Y Recreational Park 5">
 </div>
 
 {{% /tab %}}
@@ -153,12 +153,12 @@ Tulisan Jawi banyak digunakan di wilayah utara Semenanjung Malaysia (Trengganu, 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%">
+<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Signboard with islamic calligraphy">
 </div>
 {{% /tab %}}
 {{% tab "Kelapa Sawit" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%"/>
+<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -171,7 +171,7 @@ Area di sekitar Palm Oil Mill yang ditandai dengan lingkaran merah <span style="
 {{% /tab %}}
 {{% tab "Sawah" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%"/>
+<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -199,7 +199,7 @@ Lokasinya berada di ujung timur Malaysia {{% ex "https://goo.gl/maps/RB8M8NmTHae
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" wdith="90%" />
+<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" wdith="90%" alt="Mabul island semporna sabah" />
 </div>
 {{% /tab %}}
 {{% tab "Pulau Tioman" %}}

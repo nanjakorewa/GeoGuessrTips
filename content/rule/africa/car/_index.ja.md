@@ -29,7 +29,7 @@ is_unofficial: true
 かつて{{% goto "../../europe/france/" "フランス" %}}領赤道アフリカを構成していた国家のひとつ{{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E8%B5%A4%E9%81%93%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB" "フランス領赤道アフリカ" %}}。フランス電柱が見つかると思われるが写真が少ない。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="1280px-Opération_Sangaris_3.jpg" width="90%" />
+<img src="1280px-Opération_Sangaris_3.jpg" width="90%" alt="1280px Opération Sangaris 3" />
 </div>
 
 

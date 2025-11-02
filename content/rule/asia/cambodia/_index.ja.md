@@ -92,7 +92,7 @@ products:
 こういう感じの木がある{{% ex "https://maps.app.goo.gl/cSokqL53zawrJt2S8" "https://maps.app.goo.gl/m83DoPtVyRVGZcmt7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%82%A6%E3%82%AE%E3%83%A4%E3%82%B7" "オウギヤシ" %}}。{{% goto "../../cs_america/brazil/" "ブラジル" %}}などの暖かい地域全域似に似た見た目の木があるがアジアではカンボジアが特に多い。土の色も特徴的{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./cambodia_asia_siem_reap.jpg" width="90%" />
+<img src="./cambodia_asia_siem_reap.jpg" width="90%" alt="Cambodia asia siem reap" />
 </div>
 
 {{% /tab %}}
@@ -157,7 +157,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Cambodia_Rice.png" width="600px">
+<img src="./Cambodia_Rice.png" width="600px" alt="Cambodia Rice">
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
@@ -189,7 +189,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./img_163_9714.jpg" width="95%">
+<img src="./img_163_9714.jpg" width="95%" alt="Img 163 9714">
 </div>
 {{% /tab %}}
 {{% tab "Tonlé Sap" %}}
@@ -198,7 +198,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./kompong_phluk_kompong_tour_2.jpg" width="95%">
+<img src="./kompong_phluk_kompong_tour_2.jpg" width="95%" alt="Kompong phluk kompong tour 2">
 </div>
 {{% /tab %}}
 {{% tab "Kampot" %}}
@@ -216,8 +216,8 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./angkor_wat_cambodia_angkor.jpg" width="95%">
-<img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%">
+<img src="./angkor_wat_cambodia_angkor.jpg" width="95%" alt="Angkor wat cambodia angkor">
+<img src="./cambodia_angkor_temple_bayon_2.jpg" width="95%" alt="Cambodia angkor temple bayon 2">
 </div>
 {{% /tab %}}
 {{% tab "Preăh Seihânŭ" %}}

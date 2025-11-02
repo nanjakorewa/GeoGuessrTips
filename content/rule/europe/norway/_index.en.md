@@ -43,7 +43,7 @@ sc: [
 {{% notice tip %}}{{% goto "../sweden/" "Sweden" %}}Nordic countries such as Norway and <span class="quiz">Dark red (Falun red)</span> There is a log house painted with{{% ex "https://maps.app.goo.gl/SKSgwansDsmD87sbA" "https://maps.app.goo.gl/86NN7162wMJtGdVX9" "https://maps.app.goo.gl/AZUo6n8WAZGq13ze7" "https://maps.app.goo.gl/S4i7fZAx8ctvsLHc7" "https://maps.app.goo.gl/i9759EsyfhsCMgYFA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/sweden_home_red_stone.jpg" width="95%">
+<img src="/rule/europe/norway/sweden_home_red_stone.jpg" width="95%" alt="Sweden home red stone">
 </div>
 
 {{% notice tip %}}
@@ -68,9 +68,9 @@ Noorwegen kenteken groen nieuw, <a href="https://creativecommons.org/licenses/by
 a crosswalk <span class="quiz">4</span> Book.From the left <span class="quiz">Finland</span>・<span class="quiz">Norway</span>{{% ex "https://goo.gl/maps/eUDy4FaK6PGdGcdE6" %}}・<span class="quiz">Sweden</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/r/Finland_road_sign_E1-1.svg" class="margin-ten-px width150" alt="Finland road sign E1 1" />
+<img src="/rule/europe/norway/r/NO_road_sign_516.H.svg" class="margin-ten-px width150" alt="NO road sign 516.H" />
+<img src="/rule/europe/sweden/r/Sweden_road_sign_B3-1.svg" class="margin-ten-px width150" alt="Sweden road sign B3 1" />
 </div>
 
 
@@ -79,9 +79,9 @@ It is Scandinavian, and the background of warning signs like speed notation is <
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" />
-<img src="/rule/europe/finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" />
+<img src="/rule/europe/finland/NO_road_sign_362.100.svg" class="margin-ten-px width150" alt="NO road sign 362.100" />
+<img src="/rule/europe/finland/Sweden_road_sign_C31-10.svg" class="margin-ten-px width150" alt="Sweden road sign C31 10" />
+<img src="/rule/europe/finland/Finland_road_sign_C32-100.svg" class="margin-ten-px width150" alt="Finland road sign C32 100" />
 </div>
 
 {{% notice tip %}}
@@ -91,28 +91,28 @@ On the road name sign <span class="quiz">orange</span> There are many background
 <div class="googlemap-if">
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg">
-            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/sweden/r/Sweden_road_sign_F5.svg" alt="Sweden road sign F5">
+            <img src="/rule/europe/sweden/r/Swedish_road_sign_1_5_2_15.svg" style="margin-bottom:0; padding-bottom:0" alt="Swedish road sign 1 5 2 15">
         </div>
         <p><span class="quiz">Sweden</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg">
-            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/finland/r/Paikalliskohteen_viitta_648.svg" alt="Paikalliskohteen viitta 648">
+            <img src="/rule/europe/finland/r/Moottori-_ja_moottoriliikennetien_viitta_649.svg" style="margin-bottom:0; padding-bottom:0" alt="Moottori ja moottoriliikennetien viitta 649">
         </div>
         <p><span class="quiz">Finland</span></p>
     </div>
     <div class="googlemap-if" style="max-width:200px !important;background-color:#eee; padding:25px 20px 0 20px;margin: 10px;border-radius:20px;">
         <div class="googlemap-if unclickable">
-            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0">
+            <img src="/rule/europe/norway/r/1920px-Norwegian-road-sign-713.png" style="margin-bottom:0; padding-bottom:0" alt="1920px Norwegian road sign 713">
         </div>
         <p><span class="quiz">Norway</span></p>
     </div>
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/2023-08-03-19-04-51.png" width="90%" />
+<img src="/rule/europe/norway/2023-08-03-19-04-51.png" width="90%" alt="2023 08 03 19 04 51" />
 </div>
 
 
@@ -121,7 +121,7 @@ The broken line on the side of the road <span class="quiz">long</span>{{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/sweden/road.png" width="90%">
+<img src="/rule/europe/sweden/road.png" width="90%" alt="Road">
 </div>
 
 
@@ -131,7 +131,7 @@ The left is <span class="quiz">Norway</span>, the right is <span class="quiz">Sw
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/sweden/road-2.png" width="90%">
+<img src="/rule/europe/sweden/road-2.png" width="90%" alt="Road 2">
 </div>
 
 
@@ -171,7 +171,7 @@ For some reason, the Norwegian government is a major shareholder of Keisei Elect
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/norway/2023-06-18-12-11-36.png" width="90%">
+<img src="/rule/europe/norway/2023-06-18-12-11-36.png" width="90%" alt="2023 06 18 12 11 36">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

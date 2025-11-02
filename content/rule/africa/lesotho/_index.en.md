@@ -34,7 +34,7 @@ sc: [
 The country is located within the Drakensberg Mountains, characterized by high altitudes and <span class="quiz">rugged terrain with many flat-topped mountains</span> {{% ex "https://goo.gl/maps/Dy6HMrrVz8p3skUN8" "https://goo.gl/maps/Nn834hvFZrvJMg3x9" "https://goo.gl/maps/13sAwcDh8AyYVFgFA" "https://goo.gl/maps/VXKqh519Zik7aRBf8" %}}. Grass is prevalent, and livestock such as sheep and cattle are occasionally visible. Although {{% goto "../eswatini/" "Eswatini" %}} also has high-altitude areas, those are often heavily forested due to active forestry. In contrast, Lesotho often lacks significant tree cover.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/lesotho/mountain.jpg" width="90%" />
+<img src="/rule/africa/lesotho/mountain.jpg" width="90%" alt="Mountain" />
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ Traditional-style houses are common {{% ex "https://maps.app.goo.gl/Ruq3M3wfxq41
 Compared to {{% goto "../eswatini/" "Eswatini" %}}, the grass in Lesotho is often significantly shorter {{% ex "https://maps.app.goo.gl/L4nhc3iedGdcHrDM7" "https://maps.app.goo.gl/NyFQ5tdDbLYqRDe5A" "https://maps.app.goo.gl/Zrm9VHfdknDP4twk9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%">
+<img src="/rule/africa/lesotho/lesotho_mountains_scenic_green.jpg" width="90%" alt="Lesotho mountains scenic green">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}

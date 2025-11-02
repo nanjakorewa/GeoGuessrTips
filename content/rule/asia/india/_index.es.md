@@ -55,7 +55,7 @@ Los suelos rojizos aparecen en el suroeste y el sur, los tonos oscuros desde Del
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/india/2023-04-26-09-05-08.png" style="max-width:80%;"/>
+<img src="/rule/asia/india/2023-04-26-09-05-08.png" style="max-width:80%;" alt="2023 04 26 09 05 08" />
 <p>By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training (NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a></p>
 </div>
 

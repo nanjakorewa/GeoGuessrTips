@@ -34,7 +34,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./map.jpg" width="95%">
+<img src="./map.jpg" width="95%" alt="Map">
 </div>
 
 {{% notice tip %}}
@@ -51,7 +51,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="960px-KAVARATTI_MAIN_ROAD.jpg" width="95%" />
+<img src="960px-KAVARATTI_MAIN_ROAD.jpg" width="95%" alt="960px KAVARATTI MAIN ROAD" />
 </div>
 
 {{% /tab %}}

@@ -40,13 +40,13 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./joo_chiat_26.jpg" width="550">
+<img src="./joo_chiat_26.jpg" width="550" alt="Joo chiat 26">
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="./r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" />
-<img src="./r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" />
-<img src="./r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" />
+<img src="./r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" alt="Singapore road sign Mandatory Give way" />
+<img src="./r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" alt="Singapore road sign Mandatory Stop" />
+<img src="./r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" alt="Singapore road sign Prohibitory Speed limit 50" />
 </div>
 
 
@@ -55,14 +55,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./img-recycle.jpg" width="500px">
+<img src="./img-recycle.jpg" width="500px" alt="Img recycle">
 </div>
 
 {{% notice tip %}}
 英語・中国語・マレー語・タミル語の4言語で表記された看板がある{{% ex "https://maps.app.goo.gl/UVdCDU1s1WJDGPz68" "https://maps.app.goo.gl/eWXodbYft29KcsiL7" "https://maps.app.goo.gl/JppGt3PJH1YoA47u5" "https://maps.app.goo.gl/4N7eTCLYKrWvmwmV9" %}}。稀に{{% goto "../malaysia/" "マレーシア" %}}の都市部でも4言語の看板がある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./danger_keep_out_sign_6.jpg" width="90%">
+<img src="./danger_keep_out_sign_6.jpg" width="90%" alt="Danger keep out sign 6">
 </div>
 
 {{% notice tip %}}

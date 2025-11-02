@@ -31,7 +31,7 @@ is_has_distinctive_googlecar: true
 License plates are <span class="quiz">yellow</span>, and cars drive on the <span class="quiz">right</span> side of the road{{% ex "https://goo.gl/maps/if5sAbEuZh7BE7Fh6" "https://goo.gl/maps/LWyE7vsP53Y2Utcn7" %}}. In　{{% goto "../thai/" "Thailand" %}}, conversely, cars drive on the left side of the road.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/laos/car.jpg" width="90%" />
+<img src="/rule/asia/laos/car.jpg" width="90%" alt="Car" />
 </div>
 
 {{% notice tip %}}

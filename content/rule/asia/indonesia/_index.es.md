@@ -46,7 +46,7 @@ Los rótulos de <span class="quiz">Alfamart</span>, <span class="quiz">Bank Mand
 Los <span class="quiz">cigarrillos</span> se venden en puestos callejeros. Si ves “18+” o “GGSP” sin dibujo de cigarrillos, también se trata de publicidad tabacalera.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="/rule/asia/indonesia/adv.jpg" width="95%">
+<img src="/rule/asia/indonesia/adv.jpg" width="95%" alt="Adv">
 </div>
 {{% /tab %}}
 {{% tab "w-road" %}}
@@ -66,7 +66,7 @@ Según el difuminado de Street View, la matrícula puede parecer fragmentada en 
 </div>
 
 {{% lb 50 small %}}
-<img src="2023-04-15-09-20-42.png" class="resolution-small" />
+<img src="2023-04-15-09-20-42.png" class="resolution-small" alt="2023 04 15 09 20 42" />
 
 By RasyaAbhirama13 - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=123241255">Wikimedia Commons</a>
 {{% /lb %}}

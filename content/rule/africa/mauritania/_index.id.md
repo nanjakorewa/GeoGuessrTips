@@ -27,21 +27,21 @@ is_unofficial: true
 Kurang dari sekitar <span class="quiz">0,5%</span> lahan yang dapat ditanami; lebih sering terlihat <span class="quiz">penggembalaan</span> (misalnya unta) dibanding pertanian{{% ref "https://www.afpbb.com/articles/-/3264172" "AFP: pasar unta" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mauritania/desert_camels_arab_mauritania.jpg">
+<img src="/rule/africa/mauritania/desert_camels_arab_mauritania.jpg" alt="Desert camels arab mauritania">
 </div>
 
 {{% notice tip %}}
 Banyak rumah dibangun dari <span class="quiz">bata, batu, dan jerami</span>{{% ex "https://maps.app.goo.gl/sxNQ99tVSGz1AAur9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mauritania/boutilimitsable.jpg">
+<img src="/rule/africa/mauritania/boutilimitsable.jpg" alt="Boutilimitsable">
 </div>
 
 {{% notice tip %}}
 Secara umum medannya datar, dengan <span class="quiz">dataran kering berbatu</span> yang terbuka{{% ex "https://maps.app.goo.gl/6a6bTecUS9BmWr5p8" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/mauritania/coastal_transsaharan_highway_in.jpg" width="90%">
+<img src="/rule/africa/mauritania/coastal_transsaharan_highway_in.jpg" width="90%" alt="Coastal transsaharan highway in">
 </div>
 
 {{% /tab %}}

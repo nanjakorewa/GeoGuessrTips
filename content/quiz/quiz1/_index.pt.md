@@ -32,6 +32,6 @@ Além de topónimos, você pode restringir a região dentro do {{% goto "../../r
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/quiz/quiz1/japan_otaru_road_buildings.jpg">
+<img src="/quiz/quiz1/japan_otaru_road_buildings.jpg" alt="Japan otaru road buildings">
 </div>
 </div>

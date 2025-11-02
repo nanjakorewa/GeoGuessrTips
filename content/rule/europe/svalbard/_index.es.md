@@ -38,8 +38,8 @@ Debido al clima de tundra, muy frío—similar al de {{% goto "../../n_america/g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px">
-<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px">
+<img src="/rule/europe/svalbard/kids_security_road_sign.jpg" width="500px" alt="Kids security road sign">
+<img src="/rule/europe/svalbard/longyearbyen_panorama.jpg" width="500px" alt="Longyearbyen panorama">
 </div>
 
 {{% notice tip %}}
@@ -47,7 +47,7 @@ A veces se ven motos de nieve aparcadas frente a las casas{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px">
+<img src="/rule/europe/svalbard/parked_snowmobiles_in_summer.jpg" width="500px" alt="Parked snowmobiles in summer">
 </div>
 
 {{% notice tip %}}
@@ -76,7 +76,7 @@ Las matrículas tienen <span class="quiz">letras naranjas sobre fondo negro</spa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%">
+<img src="/rule/europe/svalbard/barentsburg.jpg" width="90%" alt="Barentsburg">
 </div>
 
 {{% /tab %}}
@@ -86,7 +86,7 @@ Las matrículas tienen <span class="quiz">letras naranjas sobre fondo negro</spa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%">
+<img src="/rule/europe/svalbard/31_07_pyramiden_30.jpg" width="90%" alt="31 07 pyramiden 30">
 </div>
 
 {{% /tab %}}

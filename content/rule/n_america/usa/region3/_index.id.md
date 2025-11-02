@@ -33,7 +33,7 @@ Bahasa Cherokee termasuk rumpun bahasa Iroquoian dan digunakan di sebagian wilay
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/usa/region3/cherokee_stop_sign_png.jpg">
+<img src="/rule/n_america/usa/region3/cherokee_stop_sign_png.jpg" alt="Cherokee stop sign png">
 </div>
 
 {{% /tab %}}

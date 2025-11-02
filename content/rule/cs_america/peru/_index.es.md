@@ -63,7 +63,7 @@ A menudo veo patrones en los que las raíces están endurecidas con hormigón.{{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px">
+<img src="/rule/cs_america/peru/Ciclovía_Invadida_por_un_taxista.jpg" width="590px" alt="Ciclovía Invadida por un taxista">
 </div>
 
 {{% lb %}}
@@ -92,7 +92,7 @@ El poste telefónico está<span class="quiz">Los palos sobresalen en la misma di
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/pole.jpg" width="95%">
+<img src="/rule/cs_america/peru/pole.jpg" width="95%" alt="Pole">
 </div>
 
 <div class="googlemap-if">
@@ -115,7 +115,7 @@ caja larga incrustada en la pared{{% ex "https://maps.app.goo.gl/1PLN3XUQsWPPtno
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/house.jpg" width="90%">
+<img src="/rule/cs_america/peru/house.jpg" width="90%" alt="House">
 </div>
 
 
@@ -207,7 +207,7 @@ Existen varios lugares con montañas muy altas, siendo el primero en el interior
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg">
+<img src="/rule/cs_america/peru/paisaje_en_chiquian_bolognesi.jpg" alt="Paisaje en chiquian bolognesi">
 </div>
 
 {{% /tab %}}
@@ -248,7 +248,7 @@ Una zona donde hay poco excepto arbustos y pastos que se extienden en la meseta 
 {{% /tab %}}
 {{% tab "arroz" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px">
+<img src="/rule/cs_america/peru/2023-06-18-20-15-15.png" width="500px" alt="2023 06 18 20 15 15">
 </div>
 
 {{% notice tip %}}
@@ -286,8 +286,8 @@ Los suburbios tienen un paisaje bastante singular.{{% ex "https://maps.app.goo.g
 {{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}}Es una ciudad a la que no se puede acceder directamente por carretera desde el exterior.{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}.Iquitos y{{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}Los autorickshaws (conocidos localmente como mototaxi) circulan en lugares alejados de las zonas urbanas, como en la zona, y hay relativamente pocos coches.Iquitos también tiene mucha arquitectura de estilo europeo.Ejemplos de ciudades a las que no se puede acceder por tierra son:{{% goto "../../n_america/guatemala/#narrowdown-city" "Livingston en Guatemala" %}}etc.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%">
-<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%">
+<img src="/rule/cs_america/peru/iquitosmoto.jpg" width="90%" alt="Iquitosmoto">
+<img src="/rule/cs_america/peru/iron_house_iquitos.jpg" width="90%" alt="Iron house iquitos">
 </div>
 
 {{% /tab %}}
@@ -298,8 +298,8 @@ El área alrededor de las estaciones de Machu Picchu y Aguas Calientes está rod
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%">
-<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%">
+<img src="/rule/cs_america/peru/aguas_calientes_2_0.jpg" width="80%" alt="Aguas calientes 2 0">
+<img src="/rule/cs_america/peru/machu_picchu_peru_inca_6.jpg" width="80%" alt="Machu picchu peru inca 6">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

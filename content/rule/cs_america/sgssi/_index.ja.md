@@ -36,7 +36,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./industrial_heritage_south_georgia.jpg" width="90%">
+<img src="./industrial_heritage_south_georgia.jpg" width="90%" alt="Industrial heritage south georgia">
 </div>
 
 
@@ -45,7 +45,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./seeelefant_south_georgia_antarctica.jpg" width="90%">
+<img src="./seeelefant_south_georgia_antarctica.jpg" width="90%" alt="Seeelefant south georgia antarctica">
 </div>
 
 {{% /tab %}}

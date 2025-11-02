@@ -42,7 +42,7 @@ sc: [
 電柱に大き目の穴が一番下まで空いて<span class="quiz">いる</span>ことが多い{{% ex "https://maps.app.goo.gl/u4GroEbCQamrksXbA" "https://maps.app.goo.gl/kd9txEg1myaTsJeG7" "https://maps.app.goo.gl/Zt31r3fTuVo2EsT47" "https://maps.app.goo.gl/59qCnhgy5U2w4RMMA" %}}が一番下が片面だけ埋まって見えることもある{{% ex "https://goo.gl/maps/Gk6azsDmg9bFqoyHA" "https://goo.gl/maps/bjNj7EkiXBd4sWTG9" %}}。一番下まで空いていたらルーマニアか{{% goto "../hungary/" "ハンガリー" %}}、一番下が空いていなかったら{{% goto "../poland/" "ポーランド" %}}かも。黄色いマーカーが付いていることが多い。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./pole.jpg" width="259"><p>
+<p><img src="./pole.jpg" width="259" alt="Pole"><p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Cigognes_Vladeni_Roumanie.jpg#/media/File:Cigognes_Vladeni_Roumanie.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/85/Cigognes_Vladeni_Roumanie.jpg" alt="Cigognes Vladeni Roumanie.jpg" width="355"></a></p>
 </div>
 
@@ -54,13 +54,13 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px">
-<img src="./t/france.png" width="130px" style="margin:10px">
-<img src="./r/triangle.png" width="130px" style="margin:13px">
+<img src="../poland/r/PL_road_sign_A-7.svg" width="122px" style="margin:13px" alt="PL road sign A 7">
+<img src="./t/france.png" width="130px" style="margin:10px" alt="France">
+<img src="./r/triangle.png" width="130px" style="margin:13px" alt="Triangle">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="./roadsign.jpg" width="90%" alt="Roadsign">
 </div>
 
 {{% notice tip %}}
@@ -75,8 +75,8 @@ sc: [
 「<span class="quiz">Ș・ș</span>」・「<span class="quiz">Ț・ț</span>」のような下に点（コンマビロー）が付いたSとTはルーマニアとモルドバで使用されるが、モルドバにはストリートビューがない。「Ļ・ļ」ならば{{% goto "../baltic-state/latvia/" "ラトビア" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./route/routeA.png" width="240px" style="margin:10px">
-<img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px">
+<img src="./route/routeA.png" width="240px" style="margin:10px" alt="RouteA">
+<img src="./route/ROM_county_limit.svg" width="230px" style="margin:34px" alt="ROM county limit">
 </div>
 
 {{% notice tip %}}
@@ -84,14 +84,14 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./road.jpg" width="590px"></p>
+<p><img src="./road.jpg" width="590px" alt="Road"></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Nenea_hartia" title="User:Nenea hartia">Nenea hartia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49508175">Link</a></p>
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="./r/ROU_DN6.svg" width="70px" style="margin:10px">
-<img src="./r/DJ609B-RO.svg" width="70px" style="margin:20px">
+<img src="./r/ROU_DN6.svg" width="70px" style="margin:10px" alt="ROU DN6">
+<img src="./r/DJ609B-RO.svg" width="70px" style="margin:20px" alt="DJ609B RO">
 </div>
 
 {{% notice tip %}}
@@ -102,8 +102,8 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-bg.png" width="110px" style="margin:21px">
-<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px">
+<img src="./sign-bg.png" width="110px" style="margin:21px" alt="Sign bg">
+<img src="./r/Romania_road_sign_G2.svg" width="130px" style="margin:10px" alt="Romania road sign G2">
 </div>
 
 {{% notice tip %}}
@@ -111,7 +111,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./signs.jpg" width="90%">
+<img src="./signs.jpg" width="90%" alt="Signs">
 </div>
 
 
@@ -124,7 +124,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="../poland/guardrail.png" width="90%">
+<img src="../poland/guardrail.png" width="90%" alt="Guardrail">
 </div>
 {{% /tab %}}
 {{% tab "w-building" %}}
@@ -182,7 +182,7 @@ sc: [
 {{% tabs %}}
 {{% tab "地域の分かれ方" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./1213px-RomanianTerritories.png" width="90%">
+<img src="./1213px-RomanianTerritories.png" width="90%" alt="1213px RomanianTerritories">
 </div>
 {{% notice tip %}}
 {{% ref "https://en.wikipedia.org/wiki/File:RomanianTerritories.png#/media/File:RomanianTerritories.png" "Territories with historic significance for Romanian people." %}}
@@ -200,8 +200,8 @@ sc: [
 {{% /tab %}}
 {{% tab "北西" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./arc/960px-Brasov_From_White_Tower.jpg" width="500px">
-<img src="./arc/Viscri2.jpg" width="500px">
+<img src="./arc/960px-Brasov_From_White_Tower.jpg" width="500px" alt="960px Brasov From White Tower">
+<img src="./arc/Viscri2.jpg" width="500px" alt="Viscri2">
 </div>
 {{% notice tip %}}
 TODO / 赤茶色の屋根や水色の壁？{{% ref "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2" "トランシルヴァニア" %}}。
@@ -211,7 +211,7 @@ TODO / 赤茶色の屋根や水色の壁？{{% ref "https://ja.wikipedia.org/wik
 
 {{% tab "北東" %}}
 <div class="googlemap-if unclickable no-margin">
-<p><img src="./arc/640px-thumbnail.jpg" width="550px"></p>
+<p><img src="./arc/640px-thumbnail.jpg" width="550px" alt="640px thumbnail"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg#/media/File:Biserica_de_lemn_din_Dărmăneşti2.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/89/Biserica_de_lemn_din_D%C4%83rm%C4%83ne%C5%9Fti2.jpg" alt="Biserica de lemn din Dărmăneşti2.jpg" width="550px"></a></p><p>一番下の画像：By Cezar Suceveanu - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=8012929">Link</a></p>
 </div>
 {{% notice tip %}}
@@ -223,7 +223,7 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 標高が高い部分が入り組んでいる（画像出典：<a href="https://maps-for-free.com/">https://maps-for-free.com/</a> ©<a href="https://www.openstreetmap.org/copyright">Openstreetmap</a> contributors）
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="2023-04-29-18-32-36.png" />
+<img src="2023-04-29-18-32-36.png" alt="2023 04 29 18 32 36" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -256,7 +256,7 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Romania_land_use_(1970).jpg" width="500px">
+<img src="./Romania_land_use_(1970).jpg" width="500px" alt="Romania land use (1970)">
 </div>
 
 {{% notice tip %}}
@@ -264,7 +264,7 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./sun_flower_sunflower_field_1.jpg" width="500px">
+<img src="./sun_flower_sunflower_field_1.jpg" width="500px" alt="Sun flower sunflower field 1">
 </div>
 
 {{% /tab %}}
@@ -274,8 +274,8 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Romania_resources_(1970).jpg" width="500px">
-<img src="./factory_smokestack_industrial_power.jpg" width="500px">
+<img src="./Romania_resources_(1970).jpg" width="500px" alt="Romania resources (1970)">
+<img src="./factory_smokestack_industrial_power.jpg" width="500px" alt="Factory smokestack industrial power">
 </div>
 
 {{% /tab %}}
@@ -285,7 +285,7 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./the_danube_delta_1.jpg">
+<img src="./the_danube_delta_1.jpg" alt="The danube delta 1">
 </div>
 
 {{% /tab %}}
@@ -308,7 +308,7 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./transfagarasan_2.jpg" width="95%">
+<img src="./transfagarasan_2.jpg" width="95%" alt="Transfagarasan 2">
 </div>
 
 {{% /tab %}}
@@ -319,7 +319,7 @@ TODO / 銀色の素材の屋根やダクト{{% ref "https://theonearmedcrab.com/
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./relief_king_decebalus_rock.jpg">
+<img src="./relief_king_decebalus_rock.jpg" alt="Relief king decebalus rock">
 </div>
 {{% /tab %}}
 {{% tab "CB" %}}

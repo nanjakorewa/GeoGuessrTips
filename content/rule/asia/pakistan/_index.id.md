@@ -37,7 +37,7 @@ Bahasa <span class="quiz">Urdu</span> (اردو) dapat ditemukan di sini {{% ex 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/pakistan/jamamasjidsouthentrance.jpg" width="95%" />
+<img src="/rule/asia/pakistan/jamamasjidsouthentrance.jpg" width="95%" alt="Jamamasjidsouthentrance" />
 </div>
 
 {{% notice tip %}}
@@ -45,7 +45,7 @@ Pakaian tradisional bernama <span class="quiz">shalwar kameez</span> yang memili
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/asia/pakistan/Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600"></p><p>Domain Publik, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">tautan</a></p>
+<p><img src="/rule/asia/pakistan/Afghan_children_wearing_traditional_clothes_in_Kabul.jpg" height="405" width="600" alt="Afghan children wearing traditional clothes in Kabul"></p><p>Domain Publik, <a href="https://commons.wikimedia.org/w/index.php?curid=3831416">tautan</a></p>
 </div>
 
 {{% notice tip %}}
@@ -60,7 +60,7 @@ Tiang listrik biasanya berupa menara baja atau tipe yang mirip dengan yang ditem
 Banyak Street View di sekitar kota {{% ex "https://maps.app.goo.gl/PC2DHnBw563TocYbA" "https://maps.app.goo.gl/NTEXrfs6KtSovveo6" %}} maupun di dalam fasilitas {{% ex "https://maps.app.goo.gl/W7bU14B4msxZ6z8C7" "https://maps.app.goo.gl/sQWsLGXC7Fg86W9L9" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/pakistan/shalamar_garden_lahore_pakistan_1.jpg" width="95%">
+<img src="/rule/asia/pakistan/shalamar_garden_lahore_pakistan_1.jpg" width="95%" alt="Shalamar garden lahore pakistan 1">
 </div>
 
 {{% notice tip %}}

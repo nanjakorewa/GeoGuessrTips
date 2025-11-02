@@ -42,8 +42,8 @@ La arquitectura de ladrillo es omnipresente. {{% ex "https://maps.app.goo.gl/2Xt
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/belgium/belgium_bruges_middle_ages_2.jpg" width="95%">
-<img src="/rule/europe/belgium/schmerling_caves03.jpg" width="95%" />
+<img src="/rule/europe/belgium/belgium_bruges_middle_ages_2.jpg" width="95%" alt="Belgium bruges middle ages 2">
+<img src="/rule/europe/belgium/schmerling_caves03.jpg" width="95%" alt="Schmerling caves03" />
 </div>
 
 
@@ -59,7 +59,7 @@ Las señales de paso de peatones muestran líneas discontinuas.
 Las matrículas belgas llevan <span class="quiz">letras rojas</span>. {{% ex "https://maps.app.goo.gl/6F27iKhAeKodkYTJA" %}}{{% by %}} A veces la borrosidad de Street View dificulta distinguirlas.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/belgium/porsche_brugge_street_car.jpg" width="95%">
+<img src="/rule/europe/belgium/porsche_brugge_street_car.jpg" width="95%" alt="Porsche brugge street car">
 </div>
 {{% lb 50 %}}
 ![](/rule/europe/belgium/2023-04-12-05-43-30.png)
@@ -71,40 +71,40 @@ Las matrículas belgas llevan <span class="quiz">letras rojas</span>. {{% ex "ht
 Los rótulos cuadrados pequeños con esquinas redondeadas son casi exclusivos de Bélgica. {{% ex "https://maps.app.goo.gl/BLMPZd2QZ9G5MYv96" "https://maps.app.goo.gl/W97DDHUN14eSxqEV6" "https://maps.app.goo.gl/mNuzS6NXCfZ94d8g9" "https://maps.app.goo.gl/pXsr85oAiagHJPUD9" %}} Encontrarás también señales compactas con pictogramas de bicicletas y normas locales poco vistas fuera del país. {{% ex "https://maps.app.goo.gl/nPYjzo3mLXoFNGzC6" "https://maps.app.goo.gl/imUpFSmorDi8LztGA" "https://maps.app.goo.gl/4efik4qy52cWCXHW9" "https://maps.app.goo.gl/Hhynw8yv7gJBUFEk6" %}} En conjunto, la señalización vial belga tiene un estilo propio.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/belgium/road-sign2.jpg" width="98%">
+<img src="/rule/europe/belgium/road-sign2.jpg" width="98%" alt="Road sign2">
 </div>
 
 {{% notice tip %}}
 Los paneles suplementarios suelen ser azules. {{% ex "https://maps.app.goo.gl/F2fXSQCb6sgW8X5k7" "https://maps.app.goo.gl/ErWvVcNC3uRgyaoW9" "https://maps.app.goo.gl/sDDizdRGxBWFruwXA" %}}{{% ref "https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%81%93%E8%B7%AF%E6%A8%99%E8%AD%98#%E8%A3%9C%E5%8A%A9%E6%A8%99%E8%AD%98" "Señales suplementarias (japonés)" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/belgium/rue_du_vieux_moulin.jpg" width="90%">
+<img src="/rule/europe/belgium/rue_du_vieux_moulin.jpg" width="90%" alt="Rue du vieux moulin">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px">
-<img src="/rule/europe/belgium/sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px">
-<img src="./sub/Belgian_road_sign_A23.svg" width="90px" style="margin:10px">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIa_150.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIa 150">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GII 10">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Rue scolaire">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Vervormd wegdek">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Rue_scolaire.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Rue scolaire">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GIII Vervormd wegdek">
+<img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Belgian traffic sign GII 10">
+<img src="/rule/europe/belgium/sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px" alt="Belgian road sign B0">
+<img src="./sub/Belgian_road_sign_A23.svg" width="90px" style="margin:10px" alt="Belgian road sign A23">
 </div>
 
 {{% notice tip %}}
 Es habitual que las barreras tengan base blanca y reflector negro rectangular. {{% ex "https://maps.app.goo.gl/FCsHZMfyRzFhUXye7" "https://maps.app.goo.gl/FYHzbVNdyuYsw5nC8" "https://maps.app.goo.gl/T1KkUNzz9guoPeFZ7" %}} A veces tanto la barrera como el reflector son blancos. {{% ex "https://maps.app.goo.gl/5KvhViFUrTkFLuXG8" %}} Los ojos de gato aparecen en varios colores. {{% ex "https://maps.app.goo.gl/vDYgZyZfVDrFoHSb8" "https://maps.app.goo.gl/1XrSfq6pWoeSJmMF6" "https://maps.app.goo.gl/cFr162vB6jK6QuVh7" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./guardrail2.jpg" width="95%" />
+<img src="./guardrail2.jpg" width="95%" alt="Guardrail2" />
 </div>
 
 {{% notice tip %}}
 Muchos municipios colocan escudos en las señales de calle. {{% ex "https://maps.app.goo.gl/nSYZo4gG5hPujPKo9" "https://maps.app.goo.gl/exzaB9vXqjBDN4sx5" %}} El escudo te orienta sobre si estás en la zona neerlandófona, francófona o germanófona.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./street_shield.jpg" width="80%" />
+<img src="./street_shield.jpg" width="80%" alt="Street shield" />
 </div>
 
 {{% notice tip %}}
@@ -133,7 +133,7 @@ El <span class="quiz">rojo</span> representa Flandes (neerlandés), el gallo ide
 Ejemplo de viviendas en el sur del país. {{% ex "https://maps.app.goo.gl/nF72GGgq7AFQ5UFw8" %}}
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/belgium/moulin_soulme2.jpg" width="90%">
+<img src="/rule/europe/belgium/moulin_soulme2.jpg" width="90%" alt="Moulin soulme2">
 </div>
 <br />
 
@@ -141,7 +141,7 @@ Ejemplo de viviendas en el sur del país. {{% ex "https://maps.app.goo.gl/nF72GG
 Ejemplo de viviendas en la franja central.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/belgium/eizer_f.jpg" width="90%">
+<img src="/rule/europe/belgium/eizer_f.jpg" width="90%" alt="Eizer f">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -160,8 +160,8 @@ Los escudos son diminutos pero valiosos. En la imagen izquierda, el gallo y el t
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/belgium/martelange_streetsign_umfockeknapp.jpg" width="307px">
-<img src="/rule/europe/belgium/plaque_rue_etterbeek_boileau.jpg" width="310px">
+<img src="/rule/europe/belgium/martelange_streetsign_umfockeknapp.jpg" width="307px" alt="Martelange streetsign umfockeknapp">
+<img src="/rule/europe/belgium/plaque_rue_etterbeek_boileau.jpg" width="310px" alt="Plaque rue etterbeek boileau">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

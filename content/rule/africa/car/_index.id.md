@@ -25,7 +25,7 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/car/1280px-Operation_Sangaris_3.jpg" width="90%">
+<img src="/rule/africa/car/1280px-Operation_Sangaris_3.jpg" width="90%" alt="1280px Operation Sangaris 3">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

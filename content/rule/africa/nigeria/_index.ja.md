@@ -42,7 +42,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%">
+<img src="./road.jpg" width="90%" alt="Road">
 </div>
 
 
@@ -67,7 +67,7 @@ Keke-napepと呼ばれる小型タクシーが町を走っている{{% ex "https
 こんな感じの金属の屋根がついた平屋の家が多い{{% ex "https://maps.app.goo.gl/7HeyaGY6udvq88Qd6" "https://maps.app.goo.gl/rkexHDbYoRkGvXmB8" "https://maps.app.goo.gl/68fdWw1ryGnP4MwcA" "https://maps.app.goo.gl/Rs9chhraNPo674JKA" "https://maps.app.goo.gl/nupZV4G31mkRsn36A" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%">
+<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%" alt="Honda's Place , Ota , Ogun State Nigeria">
 </div>
 
 
@@ -125,7 +125,7 @@ Keke-napepと呼ばれる小型タクシーが町を走っている{{% ex "https
 {{% tabs %}}
 {{% tab "植生と標高" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="100%" />
+<img src="./vegitation.jpg" width="100%" alt="Vegitation" />
 </div>
 
 {{% notice tip %}}
@@ -207,7 +207,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% tabs %}}
 {{% tab "州名" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Political_map_of_Nigeria.svg">
+<img src="./Political_map_of_Nigeria.svg" alt="Political map of Nigeria">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -230,7 +230,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% tabs %}}
 {{% tab "アブラヤシ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-44-28.png" width="97%" />
+<img src="2023-05-10-15-44-28.png" width="97%" alt="2023 05 10 15 44 28" />
 </div>
 
 {{% notice tip %}}
@@ -239,7 +239,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /tab %}}
 {{% tab "キビ・アワ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-53-56.png" width="90%" />
+<img src="2023-05-10-15-53-56.png" width="90%" alt="2023 05 10 15 53 56" />
 </div>
 
 {{% notice tip %}}
@@ -247,13 +247,13 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="fodder_barn_crop_residue.jpg" width="90%" />
+<img src="fodder_barn_crop_residue.jpg" width="90%" alt="Fodder barn crop residue" />
 </div>
 
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-49-07.png" width="90%" />
+<img src="2023-05-10-15-49-07.png" width="90%" alt="2023 05 10 15 49 07" />
 </div>
 
 {{% notice tip %}}
@@ -262,7 +262,7 @@ Sudan Zone（灰色の部分）は草がほとんど生えていない。
 {{% /tab %}}
 {{% tab "コーン" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-19-08-43-21.png" width="90%" />
+<img src="2023-05-19-08-43-21.png" width="90%" alt="2023 05 19 08 43 21" />
 </div>
 
 {{% notice tip %}}

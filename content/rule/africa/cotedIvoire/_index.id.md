@@ -27,14 +27,14 @@ is_unofficial: true
 Merdeka dari {{% goto "../../europe/france/" "Prancis" %}} pada 1960; di kota, rambu dan tiang sering mirip dengan Prancis.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjame-_Plateau_32.jpg" width="90%">
+<img src="/rule/africa/cotedIvoire/1280px-Boulevard_Cocody-_Adjame-_Plateau_32.jpg" width="90%" alt="1280px Boulevard Cocody Adjame Plateau 32">
 </div>
 
 {{% notice tip %}}
 Negara dengan produksi <span class="quiz">kakao</span> terbesar di dunia{{% ref "https://gentosha-go.com/articles/-/10198" "artikel" %}}{{% ref "https://www.ymizuki.com/entry/dutch-agricultural-productions-importing" "artikel" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%">
+<img src="/rule/africa/cotedIvoire/punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Punta cana theobroma cacao 0">
 </div>
 
 {{% /tab %}}

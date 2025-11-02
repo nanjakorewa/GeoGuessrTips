@@ -32,7 +32,7 @@ O idioma predominante é o azeri.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/azerbaijan/shirvan_city.jpg" width="75%">
+<img src="/rule/asia/azerbaijan/shirvan_city.jpg" width="75%" alt="Shirvan city">
 </div>
 
 {{% notice tip %}}
@@ -44,7 +44,7 @@ O país abriga os campos petrolíferos de Bacu e está coberto por oleodutos e g
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/azerbaijan/Azerbaijan_Product_Exports_(2019).svg" width="500px">
+<img src="/rule/asia/azerbaijan/Azerbaijan_Product_Exports_(2019).svg" width="500px" alt="Azerbaijan Product Exports (2019)">
 </div>
 
 {{% notice tip %}}
@@ -52,7 +52,7 @@ As placas veiculares trazem, com frequência, a bandeira nacional no canto super
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/azerbaijan/Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%">
+<img src="/rule/asia/azerbaijan/Azerbaijan_has_sent_humanitarian_aid_to_Armenian_residents_living_in_Karabakh_01.png" width="95%" alt="Azerbaijan has sent humanitarian aid to Armenian residents living in Karabakh 01">
 </div>
 
 

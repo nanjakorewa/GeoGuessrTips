@@ -41,7 +41,7 @@ sc: [
 Puedes encontrar portugués.“Ã” y “ã” son característicos{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}.El límite de velocidad y las señales de advertencia de Portugal también tienen bordes blancos.{{% ex "https://maps.app.goo.gl/8DMbVRv8VcRw5N9o6" %}}pero{{% goto "../spain/" "España" %}}No hay.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/ruaseixo.jpg" width="80%">
+<img src="/rule/europe/portugal/ruaseixo.jpg" width="80%" alt="Ruaseixo">
 </div>
 
 
@@ -49,7 +49,7 @@ Puedes encontrar portugués.“Ã” y “ã” son característicos{{% ex "http
 La matrícula es <span class="quiz">amarillo a la derecha</span>{{% ex "https://maps.app.goo.gl/5pSZeVPDXLF97bak8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/car.jpg" width="90%" />
+<img src="/rule/europe/portugal/car.jpg" width="90%" alt="Car" />
 </div>
 {{% lb 50 %}}
 ![](/rule/europe/portugal/2023-04-12-06-00-36.png)
@@ -61,7 +61,7 @@ La matrícula es <span class="quiz">amarillo a la derecha</span>{{% ex "https://
 en el poste telefónico <span class="quiz">dividir</span> hay y <span class="quiz">hay un agujero</span> hay algo{{% ex "https://maps.app.goo.gl/F3S8Z9NacfsTSGoUA" "https://maps.app.goo.gl/fhcRFZBCRgbxDvF39" "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}.{{% goto "../belgium/" "Bélgica" %}}o{{% goto "../france/" "Francia" %}}Tenga en cuenta que los postes telefónicos también pueden tener agujeros.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/up.png" width="90%">
+<img src="/rule/europe/portugal/up.png" width="90%" alt="Up">
 </div>
 
 
@@ -70,7 +70,7 @@ Las señales de cruce de peatones tienen cinturones atados a la cintura.{{% imre
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/r/Portugal_road_sign_H7.svg" width="140px">
+<img src="/rule/europe/portugal/r/Portugal_road_sign_H7.svg" width="140px" alt="Portugal road sign H7">
 </div>
 
 
@@ -83,14 +83,14 @@ Si ves un galón amarillo sobre un fondo negro y parece frío,{{% goto "../icela
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/r/xv-portugal.png" width="140px" style="margin:10px">
+<img src="/rule/europe/portugal/r/xv-portugal.png" width="140px" style="margin:10px" alt="Xv portugal">
 </div>
 
 {{% notice tip %}}
 Hay antiguas calles adoquinadas y aceras adoquinadas.{{% ex "https://maps.app.goo.gl/ozXMmnBiqHCwYThz7" "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "2" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/street.png" width="90%">
+<img src="/rule/europe/portugal/street.png" width="90%" alt="Street">
 </div>
 
 {{% notice tip %}}
@@ -98,7 +98,7 @@ Hay muchos nombres de calles como "RUA ~" y "~DE ~"{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/portugal/roadsign.jpg" width="90%">
+<img src="/rule/europe/portugal/roadsign.jpg" width="90%" alt="Roadsign">
 </div>
 
 
@@ -115,16 +115,16 @@ Hay un letrero que dice "Prohibido cazar sin permiso" con una ♢ roja y una ●
 <table style="width:480px">
 <tr>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh1.png" width="30px">
+<img src="/rule/europe/portugal/nh1.png" width="30px" alt="Nh1">
 </td>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh2.png" width="30px">
+<img src="/rule/europe/portugal/nh2.png" width="30px" alt="Nh2">
 </td>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh3.png" width="30px">
+<img src="/rule/europe/portugal/nh3.png" width="30px" alt="Nh3">
 </td>
 <td style="width:120px">
-<img src="/rule/europe/portugal/nh4.png" width="30px">
+<img src="/rule/europe/portugal/nh4.png" width="30px" alt="Nh4">
 </td>
 </tr>
 <tr>
@@ -149,7 +149,7 @@ Hay un letrero que dice "Prohibido cazar sin permiso" con una ♢ roja y una ●
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/portugal/nohunting.png" width="60%">
+<img src="/rule/europe/portugal/nohunting.png" width="60%" alt="Nohunting">
 </div>
 
 
@@ -159,7 +159,7 @@ Portugal representa más del 50% de la producción mundial de corcho{{% ex "http
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/portugal/cork_oak_cork_bark.jpg" width="90%">
+<img src="/rule/europe/portugal/cork_oak_cork_bark.jpg" width="90%" alt="Cork oak cork bark">
 </div>
 
 
@@ -201,7 +201,7 @@ La mitad norte, especialmente el interior, tiene muchos árboles y muchas zonas 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/antigo_troco_do_ip5.jpg" width="95%">
+<img src="/rule/europe/portugal/antigo_troco_do_ip5.jpg" width="95%" alt="Antigo troco do ip5">
 </div>
 
 {{% notice tip %}}
@@ -209,7 +209,7 @@ Francia Kai Gansho (<i>Pino pinaster</i>) los pinos altos son más comunes en el
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/pins_de_la_paloumere.jpg" width="95%">
+<img src="/rule/europe/portugal/pins_de_la_paloumere.jpg" width="95%" alt="Pins de la paloumere">
 </div>
 
 
@@ -222,7 +222,7 @@ La mitad sur es seca y tiene muchas tierras de cultivo.La foto está en algún l
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/en122_alentejo.jpg" width="95%">
+<img src="/rule/europe/portugal/en122_alentejo.jpg" width="95%" alt="En122 alentejo">
 </div>
 
 {{% /tab %}}
@@ -233,7 +233,7 @@ La mitad sur es seca y tiene muchas tierras de cultivo.La foto está en algún l
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/madeira_banana_shrub_road.jpg" width="95%">
+<img src="/rule/europe/portugal/madeira_banana_shrub_road.jpg" width="95%" alt="Madeira banana shrub road">
 </div>
 
 {{% /tab %}}
@@ -268,7 +268,7 @@ Allí se encuentra la única estación de esquí de Portugal y también hay una 
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/city/cantaromagro.jpg">
+<img src="/rule/europe/portugal/city/cantaromagro.jpg" alt="Cantaromagro">
 </div>
 
 {{% /tab %}}
@@ -280,8 +280,8 @@ Puedo ver una fortaleza o un faro.{{% ex "https://maps.app.goo.gl/ea573u1YaaozQz
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/city/berlenga_fort.jpg" width="310px">
-<img src="/rule/europe/portugal/city/berlenga_island_bay.jpg" width="310px">
+<img src="/rule/europe/portugal/city/berlenga_fort.jpg" width="310px" alt="Berlenga fort">
+<img src="/rule/europe/portugal/city/berlenga_island_bay.jpg" width="310px" alt="Berlenga island bay">
 </div>
 
 {{% /tab %}}
@@ -292,7 +292,7 @@ El tranvía Carris (Companhia Carris de Ferro de Lisboa) comenzó a funcionar en
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/portugal/city/lisbon_old_town_tram_0.jpg" width="95%">
+<img src="/rule/europe/portugal/city/lisbon_old_town_tram_0.jpg" width="95%" alt="Lisbon old town tram 0">
 </div>
 
 {{% /tab %}}

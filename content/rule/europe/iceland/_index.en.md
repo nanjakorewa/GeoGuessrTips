@@ -42,7 +42,7 @@ sc: [
 The terrain was created by lava, the soil is black, and only needle grass grows wild. Due to its nature, there are irregular rivers and wetlands, and rivers with straight banks are almost non-existent.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-road.png" width="95%">
+<img src="/rule/europe/iceland/iceland-road.png" width="95%" alt="Iceland road">
 </div>
 
 
@@ -58,7 +58,7 @@ There are <span class="quiz">yellow</span> bollards{{% ex "https://goo.gl/maps/Y
 In cold Iceland, there are plenty of windows to let sunlight in to warm the room{{% ex "https://goo.gl/maps/QmqcLmurwQDMfmjk7" "https://goo.gl/maps/9Xe5Dv192QpNGAKb8" "https://goo.gl/maps/jJ33mZgUWiPDFgsg6" "https://goo.gl/maps/SbuqXFF3iHn7V4858" "https://goo.gl/maps/8rWSY7AaksuPBCvm8" "https://goo.gl/maps/zE2wE8CMxGtqs5DP6" %}}. Also, unlike in Scandinavia, wooden walls and roofs appear almost non-existent, as the environment lacks trees{{% ref "https://sumikouhome.co.jp/column/icelandic-houses/" "アイスランドの住宅から学ぶ北欧住宅のつくり方" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/iceland-house.jpg" width="95%" />
+<img src="/rule/europe/iceland/iceland-house.jpg" width="95%" alt="Iceland house" />
 </div>
 
 
@@ -66,7 +66,7 @@ In cold Iceland, there are plenty of windows to let sunlight in to warm the room
 The crosswalk signs are yellow. But you may only find a few outside the city center.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/iceland/Iceland_road_sign_D02.11.svg" width="190px">
+<img src="/rule/europe/iceland/Iceland_road_sign_D02.11.svg" width="190px" alt="Iceland road sign D02.11">
 </div>
 
 {{% /tab %}}

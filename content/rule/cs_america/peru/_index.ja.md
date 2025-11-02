@@ -62,7 +62,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./Ciclovía_Invadida_por_un_taxista.jpg" width="590px">
+<img src="./Ciclovía_Invadida_por_un_taxista.jpg" width="590px" alt="Ciclovía Invadida por un taxista">
 </div>
 
 {{% lb %}}
@@ -91,7 +91,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./pole.jpg" width="95%">
+<img src="./pole.jpg" width="95%" alt="Pole">
 </div>
 
 <div class="googlemap-if">
@@ -114,7 +114,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 
 
 <div class="googlemap-if no-margin">
-<img src="./house.jpg" width="90%">
+<img src="./house.jpg" width="90%" alt="House">
 </div>
 
 
@@ -206,7 +206,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./paisaje_en_chiquian_bolognesi.jpg">
+<img src="./paisaje_en_chiquian_bolognesi.jpg" alt="Paisaje en chiquian bolognesi">
 </div>
 
 {{% /tab %}}
@@ -247,7 +247,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% /tab %}}
 {{% tab "コメ" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-18-20-15-15.png" width="500px">
+<img src="2023-06-18-20-15-15.png" width="500px" alt="2023 06 18 20 15 15">
 </div>
 
 {{% notice tip %}}
@@ -285,8 +285,8 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Zcarstvnz&quot; title=&quot;U
 {{% goto "https://maps.app.goo.gl/BgXvMSgTz3Z953Ay7" "Iquitos" %}}は外部から道路で直接アクセスできない都市{{% ref "https://en.wikipedia.org/wiki/Iquitos" "Iquitos" %}}。Iquitosや{{% goto "https://maps.app.goo.gl/EsGxUU6HsKt1o2Cn9" "Pucallpa" %}}のような都市部からはなれた場所ではオートリキシャ（現地ではMototaxiと呼ぶらしい）が走っていて、相対的に車がかなり少ない。またIquitosはヨーロッパ風の建築が多い。同じような陸路でアクセスできない都市の例としては{{% goto "../../n_america/guatemala/#narrowdown-city" "グアテマラのLívingston" %}}などがある。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="iquitosmoto.jpg" width="90%">
-<img src="iron_house_iquitos.jpg" width="90%">
+<img src="iquitosmoto.jpg" width="90%" alt="Iquitosmoto">
+<img src="iron_house_iquitos.jpg" width="90%" alt="Iron house iquitos">
 </div>
 
 {{% /tab %}}
@@ -297,8 +297,8 @@ Machu PicchuやAguas Calientes駅付近は山に囲まれている。また特�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./aguas_calientes_2_0.jpg" width="80%">
-<img src="./machu_picchu_peru_inca_6.jpg" width="80%">
+<img src="./aguas_calientes_2_0.jpg" width="80%" alt="Aguas calientes 2 0">
+<img src="./machu_picchu_peru_inca_6.jpg" width="80%" alt="Machu picchu peru inca 6">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

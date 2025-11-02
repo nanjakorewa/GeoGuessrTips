@@ -42,10 +42,10 @@ Rambu{{% ex "https://maps.app.goo.gl/BdorMKga8Nz55i2N6" "https://maps.app.goo.gl
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/in/photolist-wyGdPm-oPynvW-DoFbTC-7GTDLs-9y8ieS-2o5zk21-2M7154-fps7A-oPAcnD-cWfvK-oPA9Dc-oQDWHm-Dz8zwm-7NhZmt-2MboiE-2M6Zk8-ox751t-oNE13o-4Zh2w6-H5X2xc-iRn1cC-wjf4EC-ox6oQg-4ZmfoS-wjpkoL-oQq1Vg-oMyoNw-28TYE8B-oPA7fe-n1H1Zu-ox71nB-ox6iFP-4z1wd8-oPjiaZ-oMyk6w-wyxwSJ-5QxvkZ-wjw72R-RbWHgp-8ZLEWx-wBjDUT-4z5Lvo-7AmnLg-kKw3Fq-ktU6X7-gAP6T8-MgDPy-2dRoXc9-6rjqi7-7MR4Cm" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Dubai roads"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if unclickable">
-<img src="/rule/middle_east/united_arab_emirates/r/052314.png" width="106px" style="margin:0px">
-<img src="/rule/middle_east/united_arab_emirates/r/52350.png" width="100px" style="margin:10px">
-<img src="/rule/middle_east/united_arab_emirates/r/UAE_D97.svg" width="70px" style="margin:10px">
-<img src="/rule/middle_east/united_arab_emirates/r/UAE_E99.svg" width="70px" style="margin:10px">
+<img src="/rule/middle_east/united_arab_emirates/r/052314.png" width="106px" style="margin:0px" alt="052314">
+<img src="/rule/middle_east/united_arab_emirates/r/52350.png" width="100px" style="margin:10px" alt="52350">
+<img src="/rule/middle_east/united_arab_emirates/r/UAE_D97.svg" width="70px" style="margin:10px" alt="UAE D97">
+<img src="/rule/middle_east/united_arab_emirates/r/UAE_E99.svg" width="70px" style="margin:10px" alt="UAE E99">
 </div>
 
 {{% notice tip %}}
@@ -59,7 +59,7 @@ Di pusat kota terlihat banyak gedung tinggi{{% ex "https://goo.gl/maps/BJY8k6bti
 Berbeda dengan {{% goto "../qatar/" "Qatar" %}}, lanskap UAE memiliki relief dan jarang benar-benar datar{{% ex "https://maps.app.goo.gl/xLcq14hMyswSiddT7" "https://maps.app.goo.gl/TrEHwPo45xm76ydH6" %}}. Di pinggiran timur dan selatan Anda bisa melihat pegunungan batu{{% ex "https://maps.app.goo.gl/u2zzYyXKM7yzo8Xu6" "https://maps.app.goo.gl/uZbAu185tmhtfMxb9" "https://maps.app.goo.gl/LUMyh5GEXz9GdSer5" "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/rzG1m4pCafp92fnX7" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/JkteEr886DXMJKbu9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}. Hati-hati agar tidak tertukar dengan {{% goto "../oman/" "Semenanjung Musandam milik Oman" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/united_arab_emirates/mountain_rock_landscape_stone.jpg" width="90%">
+<img src="/rule/middle_east/united_arab_emirates/mountain_rock_landscape_stone.jpg" width="90%" alt="Mountain rock landscape stone">
 </div>
 
 
@@ -78,7 +78,7 @@ Plat nomor umumnya putih, tetapi sisi kiri atau bagian atas bisa berwarna <span 
 Tiang rambu dan patok pinggir jalan sering bergaris-garis{{% ex "https://maps.app.goo.gl/9FvXMoKj71awCEn69" "https://maps.app.goo.gl/Khn4gzPAhSLnUn2o9" "https://maps.app.goo.gl/QRQH4TJRzSPjhviZ9" "https://maps.app.goo.gl/yf2iJxq5mMVyJzLj6" "https://maps.app.goo.gl/g5bDeTxksemUiwsA9" %}}. Namun tiang pipa logam polos juga banyak.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/middle_east/united_arab_emirates/street_in_al_ain.jpg" width="90%">
+<img src="/rule/middle_east/united_arab_emirates/street_in_al_ain.jpg" width="90%" alt="Street in al ain">
 </div>
 
 {{% /tab %}}

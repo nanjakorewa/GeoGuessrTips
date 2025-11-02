@@ -27,25 +27,25 @@ is_unofficial: true
 止まれの標識が独特。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./morocco_shield_street_sign.jpg" width="90%">
+<img src="./morocco_shield_street_sign.jpg" width="90%" alt="Morocco shield street sign">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./r/MA_road_sign_201_(Arabic_and_Berber).svg" width="150px">
+<img src="./r/MA_road_sign_201_(Arabic_and_Berber).svg" width="150px" alt="MA road sign 201 (Arabic and Berber)">
 </div>
 
 {{% notice tip %}}
 電柱はフランスなどに見られる仕切りのある電柱が見つかる{{% ex "https://maps.app.goo.gl/yj1mTTx1Nv1ojsrT6" "https://maps.app.goo.gl/tmReK2YPUDdArCnw9" %}}。1956年までは大部分がフランス保護領モロッコだった。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./roadsign2.jpg" width="90%">
+<img src="./roadsign2.jpg" width="90%" alt="Roadsign2">
 </div>
 
 {{% notice tip %}}
 アラビア語とフランス語の表記がある。ベルベル語の表記も見つかる{{% ref "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%99%E3%83%AB%E8%AA%9E%E6%B4%BE" "ベルベル語" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./roadsign1.jpg" width="70%">
+<img src="./roadsign1.jpg" width="70%" alt="Roadsign1">
 </div>
 
 {{% /tab %}}

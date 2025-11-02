@@ -48,7 +48,7 @@ Googleカーに黒色の４本のゴムが見える。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./poles.png" width="100%">
+<img src="./poles.png" width="100%" alt="Poles">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

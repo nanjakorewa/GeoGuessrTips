@@ -42,10 +42,10 @@ sc: [
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/jbdodane/20060678506/in/photolist-wyGdPm-oPynvW-DoFbTC-7GTDLs-9y8ieS-2o5zk21-2M7154-fps7A-oPAcnD-cWfvK-oPA9Dc-oQDWHm-Dz8zwm-7NhZmt-2MboiE-2M6Zk8-ox751t-oNE13o-4Zh2w6-H5X2xc-iRn1cC-wjf4EC-ox6oQg-4ZmfoS-wjpkoL-oQq1Vg-oMyoNw-28TYE8B-oPA7fe-n1H1Zu-ox71nB-ox6iFP-4z1wd8-oPjiaZ-oMyk6w-wyxwSJ-5QxvkZ-wjw72R-RbWHgp-8ZLEWx-wBjDUT-4z5Lvo-7AmnLg-kKw3Fq-ktU6X7-gAP6T8-MgDPy-2dRoXc9-6rjqi7-7MR4Cm" title="Dubai roads"><img src="https://live.staticflickr.com/544/20060678506_b9a9e81990_z.jpg" width="640" height="424" alt="Dubai roads"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 <div class="googlemap-if unclickable">
-<img src="./r/052314.png" width="106px" style="margin:0px">
-<img src="./r/52350.png" width="100px" style="margin:10px">
-<img src="./r/UAE_D97.svg" width="70px" style="margin:10px">
-<img src="./r/UAE_E99.svg" width="70px" style="margin:10px">
+<img src="./r/052314.png" width="106px" style="margin:0px" alt="052314">
+<img src="./r/52350.png" width="100px" style="margin:10px" alt="52350">
+<img src="./r/UAE_D97.svg" width="70px" style="margin:10px" alt="UAE D97">
+<img src="./r/UAE_E99.svg" width="70px" style="margin:10px" alt="UAE E99">
 </div>
 
 {{% notice tip %}}
@@ -59,7 +59,7 @@ sc: [
 {{% goto "../qatar/" "カタール" %}}と異なり起伏があり完全に平坦な地域は少ない{{% ex "https://maps.app.goo.gl/xLcq14hMyswSiddT7" "https://maps.app.goo.gl/TrEHwPo45xm76ydH6" %}}。とくに東や南の郊外には岩山が見えることがある{{% ex "https://maps.app.goo.gl/u2zzYyXKM7yzo8Xu6" "https://maps.app.goo.gl/uZbAu185tmhtfMxb9" "https://maps.app.goo.gl/LUMyh5GEXz9GdSer5" "https://maps.app.goo.gl/QjYwqavUuSfpda1R9" "https://maps.app.goo.gl/rzG1m4pCafp92fnX7" "https://maps.app.goo.gl/D45ozgnfUr7zCxdE9" "https://maps.app.goo.gl/JkteEr886DXMJKbu9" "https://maps.app.goo.gl/paqvuYJJSrfu7UQQ9" %}}。{{% goto "../oman/" "オマーン領土のムサンダム半島" %}}と間違えやすいので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./mountain_rock_landscape_stone.jpg" width="90%">
+<img src="./mountain_rock_landscape_stone.jpg" width="90%" alt="Mountain rock landscape stone">
 </div>
 
 
@@ -78,7 +78,7 @@ sc: [
 標識のポールや道端のポールがストライプ柄になっている{{% ex "https://maps.app.goo.gl/9FvXMoKj71awCEn69" "https://maps.app.goo.gl/Khn4gzPAhSLnUn2o9" "https://maps.app.goo.gl/QRQH4TJRzSPjhviZ9" "https://maps.app.goo.gl/yf2iJxq5mMVyJzLj6" "https://maps.app.goo.gl/g5bDeTxksemUiwsA9" %}}。単純な銀色の単管のポールも多いので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./street_in_al_ain.jpg" width="90%">
+<img src="./street_in_al_ain.jpg" width="90%" alt="Street in al ain">
 </div>
 
 {{% /tab %}}

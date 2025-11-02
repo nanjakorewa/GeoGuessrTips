@@ -37,7 +37,7 @@ sc: [
 Licence plates are compact and show a subtle <span class="quiz">blue</span> hue, yet look almost white{{% ex "https://maps.app.goo.gl/zGiWyQRtH3EY122g6" %}}. Motorbikes follow the same pattern{{% ex "https://maps.app.goo.gl/octPu9LQAsFQFbU28" %}}. Plates from neighbouring {{% goto "../france/" "France" %}} are also common.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/monaco/road.jpg" width="90%">
+<img src="/rule/europe/monaco/road.jpg" width="90%" alt="Road">
 </div>
 
 {{% lb 50 %}}
@@ -51,21 +51,21 @@ Public domain
 As the most densely populated sovereign state, Monaco is dominated by high-rise apartments. There is practically no farmland or wide two-lane highways—expect narrow, winding roads and plenty of tunnels.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/monaco/monaco_monte_carlo_mediterranean.jpg" width="90%">
+<img src="/rule/europe/monaco/monaco_monte_carlo_mediterranean.jpg" width="90%" alt="Monaco monte carlo mediterranean">
 </div>
 
 {{% notice tip %}}
 Many traffic signs are mounted on poles finished with a mysterious golden material{{% ex "https://maps.app.goo.gl/tuisUghz3QXgXAdt7" "https://maps.app.goo.gl/8ECdUdsbkiZLd3YD9" %}}. The railings themselves are usually dark brown{{% ex "https://maps.app.goo.gl/c6Lhp2dFioZVGaJm7" %}}, a combination rarely seen elsewhere.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/monaco/660px-Panneaux_d'indication_à_Monaco_en_novembre_2021.jpg" width="50%">
+<img src="/rule/europe/monaco/660px-Panneaux_d'indication_à_Monaco_en_novembre_2021.jpg" width="50%" alt="660px Panneaux d'indication à Monaco en novembre 2021">
 </div>
 
 {{% notice tip %}}
 Red shared-bicycle docks for MonaBike are dotted across town{{% ex "https://maps.app.goo.gl/kvuuJVTr3RueQbk16" "https://maps.app.goo.gl/2K9qJmn6SUn7AcbG7" "https://maps.app.goo.gl/XJ4Vc84Ug2asLKer5" %}}. You will also see the bollards marked with two <span class="quiz">red</span> bands{{% ex "https://maps.app.goo.gl/mxqcuKsk3MVtr5gE8" "https://maps.app.goo.gl/aELPbMRAE5g7L68DA" "https://maps.app.goo.gl/ArWqgQFq8pCnGtxg9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/monaco/952px-Station_MonaBike_(Grimaldi_Forum)_en_novembre_2021.jpg" width="95%">
+<img src="/rule/europe/monaco/952px-Station_MonaBike_(Grimaldi_Forum)_en_novembre_2021.jpg" width="95%" alt="952px Station MonaBike (Grimaldi Forum) en novembre 2021">
 </div>
 
 {{% /tab %}}

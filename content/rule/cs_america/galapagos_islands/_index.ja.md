@@ -30,7 +30,7 @@ is_has_many_trekker: true
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./galapagos_tortoise_giant_tortoise.jpg" width="90%">
+<img src="./galapagos_tortoise_giant_tortoise.jpg" width="90%" alt="Galapagos tortoise giant tortoise">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

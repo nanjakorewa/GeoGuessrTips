@@ -61,8 +61,8 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="../australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;"/>
-    <img src="../new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;"/>
+    <img src="../australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="AU speed limit" />
+    <img src="../new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="NZ speedlimit" />
 </div>
 
 {{% notice tip %}}
@@ -70,7 +70,7 @@ products:
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/State_Highway_77_NZ.svg" width="100px">
+<img src="./r/State_Highway_77_NZ.svg" width="100px" alt="State Highway 77 NZ">
 </div>
 
 {{% notice tip %}}
@@ -78,12 +78,12 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="../australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;"/>
-    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;"/>
+    <img src="../australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Australia road sign R1 2" />
+    <img src="../new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="New Zealand road sign R2 2" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="./tokoroa_near_mannering_street.jpg">
+<img src="./tokoroa_near_mannering_street.jpg" alt="Tokoroa near mannering street">
 </div>
 
 
@@ -91,7 +91,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 ニュージーランドは国土の40%以上が牧草地{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}。雨が年中適度に降るため牧草が育ちやすい。そのため酪農家の生産コストが低く抑えられ、ニュージーランドの乳製品は世界的に競争力がある{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "農畜産業振興機構 ニュージーランドの酪農事情" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./img_1492_27.jpg" width="95%">
+<img src="./img_1492_27.jpg" width="95%" alt="Img 1492 27">
 </div>
 
 
@@ -100,17 +100,17 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./r/New_Zealand_PW-66.svg" width="320px" style="margin:10px">
-<img src="./r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px">
-<img src="./r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px">
+<img src="./r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="New Zealand PW 66">
+<img src="./r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="New Zealand PW 46">
+<img src="./r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="New Zealand PW 25 (55 kmh)">
 </div>
 <div class="googlemap-if no-margin">
-<img src="./r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px">
-<img src="./r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px">
+<img src="./r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="New Zealand Permanent Warning Use Low Gear">
+<img src="./r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="New Zealand PW 59">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./homer_tunnel_east.jpg">
+<img src="./homer_tunnel_east.jpg" alt="Homer tunnel east">
 </div>
 
 {{% notice tip %}}
@@ -118,7 +118,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./whitepole.jpg" width="400px">
+<img src="./whitepole.jpg" width="400px" alt="Whitepole">
 </div>
 
 
@@ -214,7 +214,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./wv_banner_bay_plenty.jpg">
+<img src="./wv_banner_bay_plenty.jpg" alt="Wv banner bay plenty">
 </div>
 
 {{% /tab %}}
@@ -225,7 +225,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arundo_donax_variegata_j.jpg">
+<img src="arundo_donax_variegata_j.jpg" alt="Arundo donax variegata j">
 </div>
 
 
@@ -251,7 +251,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="kiwi_plant.jpg" width="90%">
+<img src="kiwi_plant.jpg" width="90%" alt="Kiwi plant">
 </div>
 
 
@@ -263,7 +263,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="landscape_new_zealand_vineyard.jpg" width="90%">
+<img src="landscape_new_zealand_vineyard.jpg" width="90%" alt="Landscape new zealand vineyard">
 </div>
 
 
@@ -287,7 +287,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./mountain_mt_egmont_mt.jpg">
+<img src="./mountain_mt_egmont_mt.jpg" alt="Mountain mt egmont mt">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -297,7 +297,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./rail_trail_going_north_0.jpg">
+<img src="./rail_trail_going_north_0.jpg" alt="Rail trail going north 0">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -329,7 +329,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./derelict_sulphur_factory_building.jpg" width="90%">
+<img src="./derelict_sulphur_factory_building.jpg" width="90%" alt="Derelict sulphur factory building">
 </div>
 {{% /tab %}}
 {{% tab "アンティポディーズ諸島" %}}
@@ -339,7 +339,7 @@ GIVE WAYが黒い文字で書かれているならば<span class="quiz">オー�
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./antipodes_penguin.jpg" width="90%">
+<img src="./antipodes_penguin.jpg" width="90%" alt="Antipodes penguin">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

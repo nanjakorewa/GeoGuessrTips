@@ -59,7 +59,7 @@ Los postes de nieve con la parte superior roja se alinean junto a la calzada. {{
 Los números de carretera comienzan con “CS” o “CG”. {{% ex "https://goo.gl/maps/qnec2sM37NcgWVyj7" "https://goo.gl/maps/tLoLdtWhcvsGm1i78" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/andorra/roadsign.jpg" width="75%" />
+<img src="/rule/europe/andorra/roadsign.jpg" width="75%" alt="Roadsign" />
 </div>
 
 {{% notice tip %}}

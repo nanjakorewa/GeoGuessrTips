@@ -47,7 +47,7 @@ sc: [
 標識の棒が<span class="quiz">太くて四角い棒</span>でできていることが多い{{% ex "https://maps.app.goo.gl/aWBeh2rt4WL38rFL7" "https://maps.app.goo.gl/mDqfHmjTRrFCVVx86" "https://maps.app.goo.gl/QdHoQusynypdF2Vw9" "https://goo.gl/maps/d3K6VQ2gHxZPsr7F9" "https://goo.gl/maps/u7t8qeqEeJQMqLBL6" "https://goo.gl/maps/xu3UomJVtHt6SvTdA" %}}。金属製の棒もたまにはある{{% ex "https://goo.gl/maps/FuVUG46ba6oLz5yQA" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./roadsign.jpg" width="90%">
+<img src="./roadsign.jpg" width="90%" alt="Roadsign">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size:0.8em;">
@@ -74,7 +74,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="19683170924_abbf5210de_c.jpg" width="90%">
+<img src="19683170924_abbf5210de_c.jpg" width="90%" alt="19683170924 abbf5210de c">
 </div>
 
 
@@ -83,8 +83,8 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="MAS_party_flag.svg.png" width="300px" style="margin-top:60px">
-<img src="./images.jpg" width="300px" style="margin:10px">
+<img src="MAS_party_flag.svg.png" width="300px" style="margin-top:60px" alt="MAS party flag.svg">
+<img src="./images.jpg" width="300px" style="margin:10px" alt="Images">
 </div>
 
 
@@ -97,7 +97,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Banner_of_the_Qulla_Suyu.svg" width="500px">
+<img src="./Banner_of_the_Qulla_Suyu.svg" width="500px" alt="Banner of the Qulla Suyu">
 </div>
 {{% /tab %}}
 {{% tab "ボラード" %}}
@@ -112,7 +112,7 @@ By EEJCC - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0/dee
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./images.jpg" width="300px">
+<img src="./images.jpg" width="300px" alt="Images">
 </div>
 
 
@@ -121,7 +121,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./YPFB_Logo.svg" width="300px">
+<img src="./YPFB_Logo.svg" width="300px" alt="YPFB Logo">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -143,7 +143,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% tab "地形" %}}
 
 <div class="googlemap-if no-margin">
-<img src="./750px-Bolivia_Topography.png" width="90%" />
+<img src="./750px-Bolivia_Topography.png" width="90%" alt="750px Bolivia Topography" />
 </div>
 {{% /tab %}}
 {{% tab "標高が低い場所" %}}
@@ -194,7 +194,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="./rn4-east.png" width="90%" /></div></p>
+<p><div class="unclickable"><img src="./rn4-east.png" width="90%" alt="Rn4 east" /></div></p>
 <p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/8105696@N05">Jim McIntosh</a> - <a href="//commons.wikimedia.org/wiki/Flickr" class="mw-redirect" title="Flickr">Flickr</a>: <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/8105696@N05/4510284037">On the Road from Puerto Suarez to SCZ</a>, <a href="https://creativecommons.org/licenses/by/2.0" title="Creative Commons Attribution 2.0">CC BY 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=12622550">Link</a>, 加工あり</p>
 </div>
 {{% /tab %}}
@@ -239,7 +239,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./la_paz_andes_south.jpg" width="550px">
+<img src="./la_paz_andes_south.jpg" width="550px" alt="La paz andes south">
 </div>
 {{% /tab %}}
 {{% tab "吊るされた人形" %}}
@@ -272,7 +272,7 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 GoogleCarが特徴的{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https://maps.app.goo.gl/cc3evNM2bjnTfns18" %}}。山もかなり特徴的。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./sajama_bolivia_volcano_way.jpg" width="95%" />
+<img src="./sajama_bolivia_volcano_way.jpg" width="95%" alt="Sajama bolivia volcano way" />
 </div>
 {{% /tab %}}
 {{% tab "太陽の島" %}}
@@ -280,14 +280,14 @@ GoogleCarが特徴的{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https:/
 インカ時代の遺跡がたくさんある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./ilha_do_sol14.jpg" width="95%">
+<img src="./ilha_do_sol14.jpg" width="95%" alt="Ilha do sol14">
 </div>
 {{% /tab %}}
 {{% tab "列車の墓場" %}}
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%">
+<img src="./Cemitério_de_trens,_Uyuni,_Bolivia.jpg" width="95%" alt="Cemitério de trens, Uyuni, Bolivia">
 </div>
 {{% /tab %}}
 {{% tab "Ojos del Salar" %}}
@@ -295,7 +295,7 @@ GoogleCarが特徴的{{% ex "https://maps.app.goo.gl/6oREMt5fUAcgCtYb8" "https:/
 ストリートビューがあるが出題されたことはない{{% ex "https://maps.app.goo.gl/1rqb1hjS5EAsPvRL8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./salt_salar_landscape_salar.jpg" width="95%" />
+<img src="./salt_salar_landscape_salar.jpg" width="95%" alt="Salt salar landscape salar" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

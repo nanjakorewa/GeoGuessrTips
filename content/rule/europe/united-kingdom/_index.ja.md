@@ -66,7 +66,7 @@ Public Domain
 レンガ造りの家が多いなら<span class="quiz">イギリス</span>だが白っぽい壁が多い場合は<span class="quiz">アイルランド</span>を検討してみる。以下の左がアイルランド{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}、右がイギリス{{% ex "https://goo.gl/maps/FUsAgHeyaCP2NTa6A" %}}{{% by "https://www.twitch.tv/videos/1621039894" "web" "ダイジェスト：世界マップ初心者講座+質問コーナー" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./uk-street.jpg" width="85%" />
+<img src="./uk-street.jpg" width="85%" alt="Uk street" />
 </div>
 
 
@@ -85,13 +85,13 @@ Public Domain
 
 
 <div class="googlemap-if unclickable">
-<img src="./cevron.jpg" width="85%" />
+<img src="./cevron.jpg" width="85%" alt="Cevron" />
 </div>
 
 
 <div class="googlemap-if unclickable">
-<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;">
-<img src="./r/UK_traffic_sign_515.svg" width="322px" />
+<img src="../ireland/r/IE_road_sign_W-062-L.svg" width="200px" style="margin-right:1em;" alt="IE road sign W 062 L">
+<img src="./r/UK_traffic_sign_515.svg" width="322px" alt="UK traffic sign 515" />
 </div>
 
 {{% /tab %}}
@@ -100,7 +100,7 @@ Public Domain
 イギリスと{{% goto "../ireland/" "アイルランド" %}}は道路にキャッツアイが多い{{% by "https://www.plonkit.net/united-kingdom" "plonkit" %}}。1934 年にイギリスで発明され、イギリス・アイルランド・ニュージーランドなどで使用される。しかし他のヨーロッパの国ではほとんど使用されない{{% ref "https://en.wikipedia.org/wiki/Cat%27s_eye_(road)" "キャッツアイ（道路）" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./640px-LIGHTDOME.jpg">
+<img src="./640px-LIGHTDOME.jpg" alt="640px LIGHTDOME">
 </div>
 {{% /tab %}}
 {{% tab "🎵" %}}
@@ -141,7 +141,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% tabs %}}
 {{% tab "農業と植物の分布" %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./veg_image_large.png" width="90%">
+<img src="./veg_image_large.png" width="90%" alt="Veg image large">
 </div>
 
 {{% notice tip %}}
@@ -208,7 +208,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 英語で発音できないような綴りなのでわかりやすい{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%AB%E3%82%BA%E8%AA%9E" "ウェールズ語" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign-w.jpg" width="70%">
+<img src="./road-sign-w.jpg" width="70%" alt="Road sign w">
 </div>
 
 {{% notice tip %}}
@@ -216,7 +216,7 @@ Alexandra Palace Theatreはロンドンの北側にある
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./wales_cardiff_slow.jpg" width="70%">
+<img src="./wales_cardiff_slow.jpg" width="70%" alt="Wales cardiff slow">
 </div>
 {{% /tab %}}
 {{% tab "白と赤のボラード" %}}

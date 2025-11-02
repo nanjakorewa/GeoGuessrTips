@@ -39,7 +39,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./lawachara_national_park_srimongol_11.jpg">
+<img src="./lawachara_national_park_srimongol_11.jpg" alt="Lawachara national park srimongol 11">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ sc: [
 バングラディシュのGoogleCarは<span class="quiz">赤色のミラーが映っている</span>ことがある{{% ex "https://goo.gl/maps/MzpywLQiPEwNNFG98" "https://goo.gl/maps/RqiS2PRdYwBVn86V7" %}}（例を参照してください）
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./gc.jpg" width="600px">
+<img src="./gc.jpg" width="600px" alt="Gc">
 </div>
 
 
@@ -146,7 +146,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-52-31.png" width="90%">
+<img src="2023-06-19-08-52-31.png" width="90%" alt="2023 06 19 08 52 31">
 </div>
 
 {{% /tab %}}

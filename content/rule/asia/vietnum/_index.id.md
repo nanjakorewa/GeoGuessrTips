@@ -31,7 +31,7 @@ Tiang rambu lalu lintas memiliki pola garis merah-putih {{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/road1.jpg" width="95%">
+<img src="/rule/asia/vietnum/road1.jpg" width="95%" alt="Road1">
 </div>
 
 {{% notice tip %}}
@@ -39,7 +39,7 @@ Bahasa Vietnam menggunakan huruf Latin, sehingga cukup mudah dibedakan dari {{% 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%">
+<img src="/rule/asia/vietnum/street_market_hanoi_vietnam_5.jpg" width="95%" alt="Street market hanoi vietnam 5">
 </div>
 
 {{% notice tip %}}

@@ -28,7 +28,7 @@ El conflicto civil continﾃｺa desde finales de la dﾃｩcada de 1980{{% ref 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%">
+<img src="/rule/africa/somalia/640px-Somalia,_Puntland,_Bari,_Iskushuban_(13).jpg" width="90%" alt="640px Somalia, Puntland, Bari, Iskushuban (13)">
 </div>
 
 {{% notice tip %}}

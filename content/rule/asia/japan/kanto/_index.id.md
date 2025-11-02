@@ -32,7 +32,7 @@ Dataran Kantō membentang di seluruh wilayah, sehingga panorama yang luas dan da
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kanto/kanto_railway_ryugasaki_line_0.jpg">
+<img src="/rule/asia/japan/kanto/kanto_railway_ryugasaki_line_0.jpg" alt="Kanto railway ryugasaki line 0">
 </div>
 
 {{% /tab %}}

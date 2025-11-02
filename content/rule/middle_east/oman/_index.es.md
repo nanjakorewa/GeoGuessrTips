@@ -63,7 +63,7 @@ Las señales de dirección suelen ser naranjas y negras{{% ex "https://maps.app.
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/sign.png" width="300px">
+<img src="/rule/middle_east/oman/sign.png" width="300px" alt="Sign">
 </div>
 
 {{% notice tip %}}
@@ -71,7 +71,7 @@ En las zonas desérticas puede no haber vegetación{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%">
+<img src="/rule/middle_east/oman/desert_sand_dry_hot.jpg" width="90%" alt="Desert sand dry hot">
 </div>
 
 {{% notice tip %}}
@@ -79,7 +79,7 @@ Las palmeras datileras se concentran en la costa nordeste{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%">
+<img src="/rule/middle_east/oman/date_palm_date_palm.jpg" width="90%" alt="Date palm date palm">
 </div>
 
 
@@ -91,7 +91,7 @@ Los carteles de las empresas midstream suelen indicar el destino de los oleoduct
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oil_pipeline.jpg" width="90%">
+<img src="oil_pipeline.jpg" width="90%" alt="Oil pipeline">
 </div>
 
 {{% notice tip %}}
@@ -99,7 +99,7 @@ Varias compañías energéticas son locales; por ejemplo, Oman Oil Marketing (OO
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="gas_station_oman.jpg" width="90%">
+<img src="gas_station_oman.jpg" width="90%" alt="Gas station oman">
 </div>
 
 {{% /tab %}}
@@ -110,7 +110,7 @@ La producción agrícola varía por región. Las llanuras costeras del norte cul
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oman_farmland.jpg" width="90%">
+<img src="oman_farmland.jpg" width="90%" alt="Oman farmland">
 </div>
 
 {{% /tab %}}
@@ -122,7 +122,7 @@ La península de Musandam (exclave de Omán) también cuenta con Street View{{% 
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg">
+<img src="/rule/middle_east/oman/street_travel_car_mountain.jpg" alt="Street travel car mountain">
 </div>
 {{% /tab %}}
 {{% tab "Montes Dhofar" %}}
@@ -132,7 +132,7 @@ El sur, alrededor de Salalah, recibe el monzón; las laderas pueden volverse muy
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%">
+<img src="/rule/middle_east/oman/after_rain_7.jpg" width="90%" alt="After rain 7">
 </div>
 
 {{% notice tip %}}
@@ -152,7 +152,7 @@ Grandes campos de dunas cubren el interior y la parte oriental{{% ref "https://w
 
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/oman/soilmap.jpg">
+<img src="/rule/middle_east/oman/soilmap.jpg" alt="Soilmap">
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

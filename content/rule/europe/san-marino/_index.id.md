@@ -44,8 +44,8 @@ Warna chevron berbeda dengan Italia{{% ex "https://maps.app.goo.gl/Hn3jAz6Nud4St
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/san-marino/r/output.jpg" width="144px" style="margin-right:30px">
-<img src="/rule/europe/italy/r/2023-05-14 041948.png" width="140px" style="margin-left:30px">
+<img src="/rule/europe/san-marino/r/output.jpg" width="144px" style="margin-right:30px" alt="Output">
+<img src="/rule/europe/italy/r/2023-05-14 041948.png" width="140px" style="margin-left:30px" alt="2023 05 14 041948">
 </div>
 
 {{% notice tip %}}
@@ -53,7 +53,7 @@ Logo perusahaan layanan publik A.A.S.S. muncul pada halte bus{{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/san-marino/images.jpg" width="90%">
+<img src="/rule/europe/san-marino/images.jpg" width="90%" alt="Images">
 </div>
 
 {{% notice tip %}}
@@ -67,7 +67,7 @@ Jalannya sempit dan bahu jalan hampir tidak ada{{% ex "https://maps.app.goo.gl/J
 Bagian depan dan belakang plat nomor memiliki blok <span class="quiz">biru muda</span>{{% ex "https://maps.app.goo.gl/gvRTP2fSev3tfchK6" %}}. Di Eropa hanya beberapa negara yang tidak memakai strip biru di kiri; bandingkan dengan {{% goto "../switzerland/" "Swiss" %}}, {{% goto "../monaco/" "Monako" %}}, {{% goto "../iceland/" "Islandia" %}} dan {{% goto "../andorra/" "Andorra" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/europe/san-marino/subaru_polizia_civile_2.jpg" width="90%">
+<img src="/rule/europe/san-marino/subaru_polizia_civile_2.jpg" width="90%" alt="Subaru polizia civile 2">
 </div>
 {{% lb 50 %}}
 ![](/rule/europe/san-marino/2023-05-06-01-53-39.png)

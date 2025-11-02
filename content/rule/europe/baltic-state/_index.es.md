@@ -50,5 +50,5 @@ En toda la región, y especialmente en Estonia, verás taquillas naranjas de Omn
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/baltic-state/2023-06-02-18-41-43.png" width="200px">
+<img src="/rule/europe/baltic-state/2023-06-02-18-41-43.png" width="200px" alt="2023 06 02 18 41 43">
 </div>

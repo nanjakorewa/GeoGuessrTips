@@ -30,7 +30,7 @@ Taksi dan kendaraan komersial memakai pelat merah, sedangkan mobil pribadi mengg
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/myanmar/yangon_edificio_colonial_hoy.jpg" width="95%">
+<img src="/rule/asia/myanmar/yangon_edificio_colonial_hoy.jpg" width="95%" alt="Yangon edificio colonial hoy">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ Kosmetik tradisional thanaka dan busana khas mudah dikenali{{% ref "https://ja.w
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/myanmar/myanmar_inle_lake_asia.jpg" width="500px"><img src="/rule/asia/myanmar/monks_myanmar_children_child.jpg" width="400px">
+<img src="/rule/asia/myanmar/myanmar_inle_lake_asia.jpg" width="500px" alt="Myanmar inle lake asia"><img src="/rule/asia/myanmar/monks_myanmar_children_child.jpg" width="400px" alt="Monks myanmar children child">
 </div>
 
 {{% notice tip %}}

@@ -26,7 +26,7 @@ Perhatikan rombus tanpa jeda pada garisnya{{% ex "https://maps.app.goo.gl/Kq6rMX
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/aichi/aichi_pref_r_281.jpg">
+<img src="/rule/asia/japan/chubu/aichi/aichi_pref_r_281.jpg" alt="Aichi pref r 281">
 </div>
 
 {{% /tab %}}
@@ -36,7 +36,7 @@ Aichi memiliki jumlah pabrik terbanyak di Jepang{{% ref "https://www.tsr-net.co.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/aichi/tokai_rika_hagi_factory.jpg">
+<img src="/rule/asia/japan/chubu/aichi/tokai_rika_hagi_factory.jpg" alt="Tokai rika hagi factory">
 </div>
 
 {{% /tab %}}
@@ -46,7 +46,7 @@ Di Aichi, Gifu, Mie, wilayah Shizuoka di barat Sungai Fuji, serta di Nagano, And
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 {{% /tab %}}

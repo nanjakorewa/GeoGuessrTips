@@ -39,7 +39,7 @@ sc: [
 <span class="quiz">ココヤシ</span>の木がどこでも栽培されており道端にココナッツの実か殻のようなものも落ちていることも多い{{% ex "https://goo.gl/maps/kAW6XTsMUuD5WrtcA" "https://goo.gl/maps/E5Ty7yijWQM4ipF56" "https://goo.gl/maps/4Rea5AMbHtUQ5Tr7A" "https://goo.gl/maps/1cWwoR6eRBqYBwYC7" "https://goo.gl/maps/2HVRm5CE8mQEkuAx7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="cocos-tree.png" width="80%" />
+<img src="cocos-tree.png" width="80%" alt="Cocos tree" />
 </div>
 
 {{% notice tip %}}
@@ -48,7 +48,7 @@ Google Carが特徴的で右前になにか付いている{{% ex "https://goo.gl
 <div class="googlemap-if">
 </div>
 <div class="googlemap-if unclickable">
-<img src="cocos-gc.png" width="80%">
+<img src="cocos-gc.png" width="80%" alt="Cocos gc">
 </div>
 
 {{% notice tip %}}
@@ -56,7 +56,7 @@ Google Carが特徴的で右前になにか付いている{{% ex "https://goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./hurricane_irene_beach_damage.jpg">
+<img src="./hurricane_irene_beach_damage.jpg" alt="Hurricane irene beach damage">
 </div>
 
 {{% notice tip %}}

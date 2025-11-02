@@ -31,7 +31,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./shohizinda_necropolis_samarkand_196892.jpg" width="95%">
+<img src="./shohizinda_necropolis_samarkand_196892.jpg" width="95%" alt="Shohizinda necropolis samarkand 196892">
 </div>
 
 {{% notice tip %}}

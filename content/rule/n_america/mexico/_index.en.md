@@ -104,7 +104,7 @@ Coconut palm plantations exist along the coast of Guerrero（Data Source：<a hr
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/mexico/2023-05-01-21-40-28.png" width="90%" />
+<img src="/rule/n_america/mexico/2023-05-01-21-40-28.png" width="90%" alt="2023 05 01 21 40 28" />
 </div>
 
 <div class="googlemap-if">

@@ -35,15 +35,15 @@ sc: [
 Guardrail dan bollard yang ditemukan di negara-negara sekitarnya.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/bosnah/m2_neum_dscn1154.jpg" width="95%">
+<img src="/rule/europe/bosnah/m2_neum_dscn1154.jpg" width="95%" alt="M2 neum dscn1154">
 </div>
 
 {{% notice tip %}}
 Tanda jalan dengan dua bahasa sering ditemukan.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/bosnah/dupovci_bosna_hersek.jpg" width="300px">
-<img src="/rule/europe/bosnah/opstinacelinac.jpg" width="300px">
+<img src="/rule/europe/bosnah/dupovci_bosna_hersek.jpg" width="300px" alt="Dupovci bosna hersek">
+<img src="/rule/europe/bosnah/opstinacelinac.jpg" width="300px" alt="Opstinacelinac">
 </div>
 
 {{% /tab %}}

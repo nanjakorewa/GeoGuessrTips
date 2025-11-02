@@ -18,5 +18,5 @@ sumnail_mk: True
 </div>
 
 <div class="googlemap-if">
-<p><a href="https://www.youtube.com/@nanjakorewa"><img src="OP-MKnora.jpg"></a></p>
+<p><a href="https://www.youtube.com/@nanjakorewa"><img src="OP-MKnora.jpg" alt="OP MKnora"></a></p>
 </div>

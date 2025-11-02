@@ -34,7 +34,7 @@ Se pueden ver bolardos similares a los que se usan en {{% goto "../../europe/fra
 También se encuentran placas azules de identificación en los postes eléctricos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/frenchguiana/111455.jpg">
+<img src="/rule/cs_america/frenchguiana/111455.jpg" alt="111455">
 </div>
 
 {{% /tab %}}

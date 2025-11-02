@@ -28,7 +28,7 @@ is_unofficial: true
 Banyak rumah berdinding kayu yang dicat putih{{% ex "https://maps.app.goo.gl/rfdrddWKkaiQefMN9" "https://maps.app.goo.gl/Wu2yLWLhFRXkuTrS8" "https://maps.app.goo.gl/6XTV7Nfdz5qnF5A27" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/cs_america/suriname/kathedralehenckarronstraat1.jpg">
+<img src="/rule/cs_america/suriname/kathedralehenckarronstraat1.jpg" alt="Kathedralehenckarronstraat1">
 </div>
 
 {{% notice tip %}}

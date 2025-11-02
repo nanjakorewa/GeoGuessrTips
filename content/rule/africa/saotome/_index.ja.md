@@ -44,7 +44,7 @@ sc: [
 黒く細いナンバープレートを付けている{{% ex "https://maps.app.goo.gl/CYKexTLEiPvU7nVt8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./downtown_sao_tome_africa.jpg" width="95%">
+<img src="./downtown_sao_tome_africa.jpg" width="95%" alt="Downtown sao tome africa">
 </div>
 
 {{% lb 50 %}}
@@ -74,7 +74,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./market_sao_tome_africa.jpg" width="600px">
+<img src="./market_sao_tome_africa.jpg" width="600px" alt="Market sao tome africa">
 </div>
 
 {{% /tab %}}

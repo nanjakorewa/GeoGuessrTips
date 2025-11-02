@@ -47,7 +47,7 @@ There are a few scattered Street View points outside the two main cities{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/n_america/dominican-republic/poles.png" width="100%">
+<img src="/rule/n_america/dominican-republic/poles.png" width="100%" alt="Poles">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

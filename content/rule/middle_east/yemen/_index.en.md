@@ -40,7 +40,7 @@ Window frames and decorative elements tend to be ornate{{% ex "https://maps.app.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/middle_east/yemen/1996_yemen_sanna_9.jpg" width="90%" />
+<img src="/rule/middle_east/yemen/1996_yemen_sanna_9.jpg" width="90%" alt="1996 yemen sanna 9" />
 </div>
 
 {{% notice tip %}}

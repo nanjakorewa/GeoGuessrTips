@@ -32,7 +32,7 @@ flag_height: "400px"
 いわゆる{{% goto "../../cs_america/chile/" "チリ" %}}電柱が多いように見受けられる（写真右側）{{% ex "https://commons.wikimedia.org/wiki/Category:Streets_in_Baracoa#/media/File:Baracoa_HDSR_S5is_Cuba2_587.jpg" "https://commons.wikimedia.org/wiki/File:Baracoa-city.jpg#/media/File:Baracoa-city.jpg" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./jatibonico_sancti_spiritus_cuba.jpg" width="90%">
+<img src="./jatibonico_sancti_spiritus_cuba.jpg" width="90%" alt="Jatibonico sancti spiritus cuba">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

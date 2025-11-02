@@ -53,8 +53,8 @@ En Australia, las señales de límite de velocidad suelen estar en placas blanca
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;"/>
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;"/>
+    <img src="https://geopinning.space/rule/oceania/australia/r/AU-speed-limit.svg" style="width:150px;margin:10px;" alt="AU speed limit" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/NZ-speedlimit.png" style="width:150px;margin:35px;" alt="NZ speedlimit" />
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ Los números de carreteras tienen forma de escudo rojo{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/State_Highway_77_NZ.svg" width="100px" alt="State Highway 77 NZ">
 </div>
 
 {{% notice tip %}}
@@ -70,19 +70,19 @@ Si el texto GIVE WAY está escrito en negro, es <span class="quiz">Australia</sp
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;"/>
-    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;"/>
+    <img src="https://geopinning.space/rule/oceania/australia/r/Australia_road_sign_R1-2.svg" style="width:150px;margin:10px;" alt="Australia road sign R1 2" />
+    <img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_road_sign_R2-2.svg" style="width:150px;margin:10px;" alt="New Zealand road sign R2 2" />
 </div>
 
 <div class="googlemap-if unclickable" style="margin-top:10px">
-<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg">
+<img src="/rule/oceania/new-zealand/tokoroa_near_mannering_street.jpg" alt="Tokoroa near mannering street">
 </div>
 
 {{% notice tip %}}
 Más del 40% del territorio de Nueva Zelanda es pastizal{{% ex "https://maps.app.goo.gl/jFEYkq8DACGVTCcg7" %}}. Gracias a lluvias regulares durante todo el año, los pastos crecen fácilmente, lo que reduce los costos de producción para los agricultores. Por esto, los productos lácteos de Nueva Zelanda son competitivos a nivel mundial{{% by "https://www.alic.go.jp/koho/mng01_000018.html" "web" "Organización para la Promoción de la Agricultura y la Ganadería: Situación de los lácteos en Nueva Zelanda" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%">
+<img src="/rule/oceania/new-zealand/img_1492_27.jpg" width="95%" alt="Img 1492 27">
 </div>
 
 {{% notice tip %}}
@@ -90,17 +90,17 @@ Hay señales de advertencia amarillas{{% ex "https://maps.app.goo.gl/WnRDqZtEg7h
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r/New_Zealand_PW-66.svg" width="320px" style="margin:10px" alt="New Zealand PW 66">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-46.svg" width="120px" style="margin:10px" alt="New Zealand PW 46">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-25_(55_kmh).svg" width="120px" style="margin:10px" alt="New Zealand PW 25 (55 kmh)">
 </div>
 <div class="googlemap-if no-margin">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px">
-<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_Permanent_Warning_-_Use_Low_Gear.svg" width="100px" style="margin:10px" alt="New Zealand Permanent Warning Use Low Gear">
+<img src="https://geopinning.space/rule/oceania/new-zealand/r2/New_Zealand_PW-59.svg" width="100px" style="margin:10px" alt="New Zealand PW 59">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg">
+<img src="/rule/oceania/new-zealand/homer_tunnel_east.jpg" alt="Homer tunnel east">
 </div>
 
 {{% notice tip %}}
@@ -108,7 +108,7 @@ Las señales y los chevrones están montados en postes blancos de madera{{% ex "
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px">
+<img src="/rule/oceania/new-zealand/whitepole.jpg" width="400px" alt="Whitepole">
 </div>
 
 {{% /tab %}}
@@ -192,7 +192,7 @@ La zona alrededor de Christchurch es plana y tiene muchos cortavientos altos {{%
 Hay cortavientos para proteger los cultivos del viento del océano, pero no tantos como en la llanura de Canterbury {{% ex "https://maps.app.goo.gl/Fji15Bka14yecmmY8" "https://maps.app.goo.gl/CkN1tb7My6ppJCPo9" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg">
+<img src="/rule/oceania/new-zealand/wv_banner_bay_plenty.jpg" alt="Wv banner bay plenty">
 </div>
 {{% /tab %}}
 {{% tab "Carrizo (Arundo donax)" %}}
@@ -200,7 +200,7 @@ Hay cortavientos para proteger los cultivos del viento del océano, pero no tant
 Esta planta, común en la región mediterránea, crece a lo largo de las costas de la Isla Norte, especialmente cerca de Auckland {{% ex "https://maps.app.goo.gl/AhRShZ7aCcWGgKUN8" %}}{{% ref "https://www.inaturalist.org/taxa/64017-Arundo-donax" "Arundo donax (iNaturalist)" %}}. En el extremo sur, también se encuentra en la costa cerca de Christchurch.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg">
+<img src="/rule/oceania/new-zealand/arundo_donax_variegata_j.jpg" alt="Arundo donax variegata j">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -220,7 +220,7 @@ Si ves una montaña similar al Monte Fuji, probablemente estés cerca del parque
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg">
+<img src="/rule/oceania/new-zealand/mountain_mt_egmont_mt.jpg" alt="Mountain mt egmont mt">
 </div>
 {{% /tab %}}
 {{% tab "Otago Central Rail Trail" %}}
@@ -230,7 +230,7 @@ Un sendero de ciclismo muy largo. A menudo se pueden ver objetos rojos {{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg">
+<img src="/rule/oceania/new-zealand/rail_trail_going_north_0.jpg" alt="Rail trail going north 0">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -262,7 +262,7 @@ Antiguo sitio de producción de azufre, abandonado debido a desastres volcánico
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/derelict_sulphur_factory_building.jpg" width="90%" alt="Derelict sulphur factory building">
 </div>
 {{% /tab %}}
 {{% tab "Islas Antípodas" %}}
@@ -272,7 +272,7 @@ Patrimonio de la humanidad que alberga colonias de pingüinos. Es un área restr
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%">
+<img src="/rule/oceania/new-zealand/antipodes_penguin.jpg" width="90%" alt="Antipodes penguin">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

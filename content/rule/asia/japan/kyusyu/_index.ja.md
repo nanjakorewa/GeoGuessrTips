@@ -43,7 +43,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-kyusyu.png" width="220px">
+<img src="../pole/pole-kyusyu.png" width="220px" alt="Pole kyusyu">
 </div>
 
 {{% /tab %}}
@@ -53,7 +53,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="road_japan_kumamoto_method.jpg">
+<img src="road_japan_kumamoto_method.jpg" alt="Road japan kumamoto method">
 </div>
 
 {{% /tab %}}

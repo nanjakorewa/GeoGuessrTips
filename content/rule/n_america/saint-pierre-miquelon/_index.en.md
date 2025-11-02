@@ -37,7 +37,7 @@ French-style utility poles, tricolour flags, colourful houses, and flat terrain 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/n_america/saint-pierre-miquelon/arena_for_that_basque.jpg" width="95%">
+<img src="/rule/n_america/saint-pierre-miquelon/arena_for_that_basque.jpg" width="95%" alt="Arena for that basque">
 </div>
 
 {{% notice tip %}}The Google car is very recognizable{{% ex "https://maps.app.goo.gl/vLe5GPWMZMtNiHRu9" %}}{{% /notice %}}

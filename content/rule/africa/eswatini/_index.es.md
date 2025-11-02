@@ -39,7 +39,7 @@ En esta regiﾃｳn crece una gran cantidad de hierba fina como esta: {{% ex "ht
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/africa/eswatini/road.png" /></p>
+<p><img src="/rule/africa/eswatini/road.png" alt="Road" /></p>
 <p>Por <a rel="nofollow" class="external text" href="https://www.flickr.com/people/96803880@N00">thomas</a> - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/blob79/7045392703/">IMG_0011</a>Subido por <a href="//commons.wikimedia.org/wiki/User:AlbertHerring" class="mw-redirect" title="User:AlbertHerring">AlbertHerring</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=28911719">Enlace</a></p>
 </div>
 
@@ -73,7 +73,7 @@ El lado occidental del paﾃｭs es una regiﾃｳn alta (altitud de 1500 m), mi
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png">
+<img src="/rule/africa/eswatini/2023-04-21-05-06-55.png" alt="2023 04 21 05 06 55">
 </div>
 
 {{% /tab %}}

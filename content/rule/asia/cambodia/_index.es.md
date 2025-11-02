@@ -70,7 +70,7 @@ Los parasoles y anuncios muestran a menudo marcas populares en Camboya{{% ex "ht
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<div class="unclickable"><img src="/rule/asia/cambodia/2023-06-09-01-40-05.png" width="590"/></div>
+<div class="unclickable"><img src="/rule/asia/cambodia/2023-06-09-01-40-05.png" width="590" alt="2023 06 09 01 40 05" /></div>
 </div>
 
 {{% notice note %}}
@@ -186,7 +186,7 @@ En la carretera cercana a la frontera occidental se aprecian montañas escarpada
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/img_163_9714.jpg" width="95%">
+<img src="/rule/asia/cambodia/img_163_9714.jpg" width="95%" alt="Img 163 9714">
 </div>
 {{% /tab %}}
 {{% tab "Tonlé Sap" %}}
@@ -195,7 +195,7 @@ El lago Tonlé Sap también aparece en Street View. Las aldeas flotantes muestra
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/cambodia/kompong_phluk_kompong_tour_2.jpg" width="95%">
+<img src="/rule/asia/cambodia/kompong_phluk_kompong_tour_2.jpg" width="95%" alt="Kompong phluk kompong tour 2">
 </div>
 {{% /tab %}}
 {{% tab "Kampot" %}}
@@ -213,8 +213,8 @@ En Siem Reap están Angkor Wat y el templo Bayón{{% ex "https://maps.app.goo.gl
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/cambodia/angkor_wat_cambodia_angkor.jpg" width="95%">
-<img src="/rule/asia/cambodia/cambodia_angkor_temple_bayon_2.jpg" width="95%">
+<img src="/rule/asia/cambodia/angkor_wat_cambodia_angkor.jpg" width="95%" alt="Angkor wat cambodia angkor">
+<img src="/rule/asia/cambodia/cambodia_angkor_temple_bayon_2.jpg" width="95%" alt="Cambodia angkor temple bayon 2">
 </div>
 {{% /tab %}}
 {{% tab "Preăh Seihânŭ" %}}

@@ -41,7 +41,7 @@ sc: [
 Yellow plates or plates with a yellow left band are common.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/senegal/car.png" width="90%">
+<img src="/rule/africa/senegal/car.png" width="90%" alt="Car">
 </div>
 
 {{% lb 50 %}}
@@ -52,8 +52,8 @@ Yellow plates or plates with a yellow left band are common.
 French‑style poles and bollards appear; street signs with <span class="quiz">RUE</span> are also found.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350">
-<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Joseph Gomis à Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="640px Panneau de la rue Mohamed V à Dakar">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -64,11 +64,11 @@ French‑style poles and bollards appear; street signs with <span class="quiz">R
 Thatched roofs appear in suburbs; <span class="quiz">baobab</span> trees are found in savanna zones.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%">
+<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="960px A l'entrée de Ndoussoudji">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%">
+<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%" alt="960px Senegal 011">
 </div>
 
 {{% /tab %}}

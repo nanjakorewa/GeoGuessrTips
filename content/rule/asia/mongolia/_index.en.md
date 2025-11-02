@@ -36,7 +36,7 @@ Las matrículas tienen un bloque rojo en el lado izquierdo{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/mongolia/mongolia_steppe_horses_altai.jpg" width="95%">
+<img src="/rule/asia/mongolia/mongolia_steppe_horses_altai.jpg" width="95%" alt="Mongolia steppe horses altai">
 </div>
 
 {{% lb 50 %}}
@@ -51,7 +51,7 @@ Por Nima Farid - Obra propia, CC0, <a href="https://commons.wikimedia.org/w/inde
 Desde la distancia pueden verse ger (yurtas){{% ex "https://maps.app.goo.gl/aJRwu5Mo2uk7b8en8" "https://maps.app.goo.gl/mUTd51UQcCA2UwfM6" "https://maps.app.goo.gl/V7gk5kwoK8TtW3nU8" "https://goo.gl/maps/iy9e9jVHmGwbVHw88" "https://maps.app.goo.gl/ocP6224mJufdTEn99" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/mongolia/yurt_mongolia_steppe_altai.jpg" width="95%" />
+<img src="/rule/asia/mongolia/yurt_mongolia_steppe_altai.jpg" width="95%" alt="Yurt mongolia steppe altai" />
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ Los bolardos se asemejan a bolos de bolera.
 {{% tabs %}}
 {{% tab "Cobertura vegetal" %}}
 <div class="googlemap-if">
-<div class="unclickable"><img src="/rule/asia/mongolia/map6.gif" /></div>
+<div class="unclickable"><img src="/rule/asia/mongolia/map6.gif" alt="Map6" /></div>
 <div class="description-wide">
 Legend Tour Ltd., INFORMATION FOR TRAVELERS GEOGRAPHICAL FEATURES, <a href="https://www.legendtour.ru/eng/mongolia/informations/geographical_features.shtml">Link</a>, consultado el 1 de mayo de 2023.
 </div>

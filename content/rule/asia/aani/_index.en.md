@@ -39,7 +39,7 @@ sc: [
 Although no recent data is available, per capita GDP is relatively high within India. Like Goa and Kerala, many two- or three-story houses are found.{{% ex "https://maps.app.goo.gl/U31E9SG9yLDz841T7" "https://maps.app.goo.gl/2LMw8TFRoYP3K6n77" %}}{{% ref "https://www.mofa.go.jp/mofaj/gaiko/oda/shiryo/hyouka/kunibetu/gai/india/pdfs/kn09_03_01.pdf" "Chapter 3: Overview of India" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/aani/960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%">
+<img src="/rule/asia/aani/960px-Andaman_Club,_Port_Blair,_India.jpg" width="90%" alt="960px Andaman Club, Port Blair, India">
 </div>
 
 {{% notice tip %}}
@@ -54,7 +54,7 @@ The upper parts look like this.{{% ex "https://maps.app.goo.gl/MfQRFFuC4WPkKxG67
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/aani/poletop.png" width="300px">
+<img src="/rule/asia/aani/poletop.png" width="300px" alt="Poletop">
 </div>
 
 {{% notice tip %}}
@@ -62,7 +62,7 @@ The region has a tropical monsoon climate, with tall coconut trees found in subu
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/india/arecanut_trees_assam.jpg">
+<img src="/rule/asia/india/arecanut_trees_assam.jpg" alt="Arecanut trees assam">
 </div>
 
 {{% /tab %}}

@@ -20,8 +20,8 @@ no_rel_info: true
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./germany_border_crossing_border.jpg" width="280px">
-<img src="./setembro2006_021.jpg" width="324px">
+<img src="./germany_border_crossing_border.jpg" width="280px" alt="Germany border crossing border">
+<img src="./setembro2006_021.jpg" width="324px" alt="Setembro2006 021">
 </div>
 
 {{% notice tip %}}
@@ -36,7 +36,7 @@ no_rel_info: true
 道路や橋に国名や境界の線が書かれている。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./fronteira_entre_portugal_e.jpg" width="400px">
+<img src="./fronteira_entre_portugal_e.jpg" width="400px" alt="Fronteira entre portugal e">
 </div>
 
 
@@ -44,12 +44,12 @@ no_rel_info: true
 国境を超えた先の都市名が書いてある看板では楕円型のマークが書いてあることが多い。楕円型のマークは車にも付いている{{% ref "https://en.wikipedia.org/wiki/International_vehicle_registration_code" "International vehicle registration code" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./highway_roadway_autos_streets_0.jpg" width="580px">
+<img src="./highway_roadway_autos_streets_0.jpg" width="580px" alt="Highway roadway autos streets 0">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./oval/fin.png" width="100px" style="margin:10px">
-<img src="./oval/lt.jpg" width="100px" style="margin:10px">
+<img src="./oval/fin.png" width="100px" style="margin:10px" alt="Fin">
+<img src="./oval/lt.jpg" width="100px" style="margin:10px" alt="Lt">
 </div>
 
 

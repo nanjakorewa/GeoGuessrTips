@@ -46,11 +46,11 @@ maps: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:7px;">
-<img src="r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px">
-<img src="r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px">
-<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px">
-<img src="../canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px">
-<img src="../canada/r/sp-on.svg" width="80px" style="margin:7px">
+<img src="r/MUTCD_R2-1.svg" width="80px" style="margin:7px 7px 7px 40px" alt="MUTCD R2 1">
+<img src="r/sp-oregon.png" width="80px" style="margin:7px 40px 7px 7px" alt="Sp oregon">
+<img src="../canada/r/CA-ON_road_sign_Rb-001-050.svg" width="80px" style="margin:7px" alt="CA ON road sign Rb 001 050">
+<img src="../canada/CA-QC_road_sign_P-070-4-40.svg" width="80px" style="margin:7px" alt="CA QC road sign P 070 4 40">
+<img src="../canada/r/sp-on.svg" width="80px" style="margin:7px" alt="Sp on">
 </div>
 </div>
 
@@ -58,38 +58,38 @@ maps: [
 アメリカや{{% goto "../canada/" "カナダ" %}}では中央線として2本の黄色ラインが使われることが多い{{% ex "https://maps.app.goo.gl/ffZcABdYVzyQsLaw7" "https://maps.app.goo.gl/7v6hSn7LZM85ykpJ7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./roadline.jpg" width="95%">
+<img src="./roadline.jpg" width="95%" alt="Roadline">
 </div>
 
 {{% notice tip %}}アメリカはYEILDやONEWAYの看板に文字が<span class="quiz">ある</span>{{% ex "https://goo.gl/maps/MJjhZbcx5QmkVxVN9" %}}。左が<span class="quiz">アメリカ</span>・右が<span class="quiz">カナダ</span>。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px">
-<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px">
+<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-right:100px" alt="MUTCD R1 2">
+<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-left:100px" alt="CA MUTCDC RA 002">
 </div>
 <div class="googlemap-if unclickable">
-<img src="../usa/r/oneway.svg" width="100px" style="margin-right:100px">
-<img src="../canada/r/oneway.svg" width="100px" style="margin-left:100px">
+<img src="../usa/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
+<img src="../canada/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">青い</span>ポスト。一方でカナダは赤い。郵便局である場合、建物の壁や看板に州と都市名が書いてあることが多いので確認してみる。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-18-09-00-28.png" width="184px">
-<img src="2023-06-18-09-02-09.png" width="420px">
-<img src="pleasant_hall_pa_post.jpg" width="604px">
+<img src="2023-06-18-09-00-28.png" width="184px" alt="2023 06 18 09 00 28">
+<img src="2023-06-18-09-02-09.png" width="420px" alt="2023 06 18 09 02 09">
+<img src="pleasant_hall_pa_post.jpg" width="604px" alt="Pleasant hall pa post">
 </div>
 
 {{% notice tip %}}
 アメリカに本拠地を置く大きな企業がたくさんある。廃棄物収集・電力・水道局のような会社も上場していて、看板やロゴが街中にある。順番にWaste ManagementとRepublic Services（廃棄物収集業者でゴミ箱にロゴがある）・ChevronとCitgo(ガソリンスタンド)・Target（小売）など。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./w/Waste_Management_logo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Republic_Services_logo.svg" width="220px" style="margin:10px"/>
-<img src="./w/Chevron_Logo.svg" width="130px" style="margin:10px"/>
-<img src="./w/Citgo_logo.svg" width="130px" style="margin:10px"/>
-<img src="./w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px"/>
+<img src="./w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="Waste Management logo" />
+<img src="./w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="Republic Services logo" />
+<img src="./w/Chevron_Logo.svg" width="130px" style="margin:10px" alt="Chevron Logo" />
+<img src="./w/Citgo_logo.svg" width="130px" style="margin:10px" alt="Citgo logo" />
+<img src="./w/Target_Corporation_logo_(vector).svg" width="130px" style="margin:10px" alt="Target Corporation logo (vector)" />
 </div>
 
 
@@ -97,8 +97,8 @@ maps: [
 州間高速道路などの看板であり、数字が2桁以下のものは東西・南北である程度順番に並んでいるのがマップを見ると分かる。数字が<span class="quiz">5</span>の倍数の道は他と比べると距離が長いことが多い。数字が3桁の道路（Three-digit Interstate）のものは派生元の道路番号に<span class="quiz">100</span>の倍数を加算したもので場所によってはとても短い{{% ref "https://www.kurumi.com/roads/3di/3di-primer.html" "3-digit Interstate Highways Primer" %}}ので、先に下2桁の道路番号を探してみるのも手。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="I-80.svg" width="120px" style="margin:10px">
-<img src="./route-example.svg" width="157px" style="margin:10px">
+<img src="I-80.svg" width="120px" style="margin:10px" alt="I 80">
+<img src="./route-example.svg" width="157px" style="margin:10px" alt="Route example">
 </div>
 
 
@@ -106,7 +106,7 @@ maps: [
 アメリカは制限速度が<span class="quiz">MPH</span>表記{{% ex "https://goo.gl/maps/vcwKHErYu6Xx1EZQ8" "https://goo.gl/maps/vpashJNQHUoztL7c8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E6%AF%8E%E6%99%82" "マイル毎時" %}}であり道端の看板もマイル表記{{% ex "https://maps.app.goo.gl/bY45nspXAKmSuPSKA" %}}。そして看板の裏がフラットなことが多い{{% ex "https://goo.gl/maps/JywpMP1MHHBXz9ep7" "https://goo.gl/maps/yNeLFP4fnqJPTkbZ7" "https://goo.gl/maps/S29z9ZMXBLuDqFxP8" %}}。左がアメリカ、右が{{% goto "../mexico/" "メキシコ" %}}{{% ex "https://goo.gl/maps/SYKoBHzdzWe6oJeH9" "https://goo.gl/maps/EoGT7scWMXCzRTZp8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="road-sign-warning.jpg" width="80%">
+<img src="road-sign-warning.jpg" width="80%" alt="Road sign warning">
 </div>
 
 
@@ -114,7 +114,7 @@ maps: [
 アメリカやカナダは国旗がよく掲げられているので移動すれば旗が見つかることが多い{{% ex "https://goo.gl/maps/SxDicYpNYXxbHiay5" "https://goo.gl/maps/uT6GaU5cCpxcc24M7" "https://goo.gl/maps/e113PgcFh2Qx6sBT8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./sunset_utah_city_offices.jpg" width="80%">
+<img src="./sunset_utah_city_offices.jpg" width="80%" alt="Sunset utah city offices">
 </div>
 
 {{% /tab %}}
@@ -214,7 +214,7 @@ maps: [
 
 <div class="googlemap-if">
 <div class="description-wide">
-<img src="2023-03-25-14-29-11.png" class="img-main">
+<img src="2023-03-25-14-29-11.png" class="img-main" alt="2023 03 25 14 29 11">
 </div>
 <div class="description-wide">
 以下のルールは100％すべてに当てはまるわけではないらしい。
@@ -265,7 +265,7 @@ maps: [
 {{% tab "コーン" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-12-03-38.png">
+<img src="2023-04-29-12-03-38.png" alt="2023 04 29 12 03 38">
 </div>
 
 {{% notice note %}}
@@ -273,17 +273,17 @@ maps: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-20-02-41.png" width="80%">
+<img src="2023-06-19-20-02-41.png" width="80%" alt="2023 06 19 20 02 41">
 </div>
 
 {{% /tab %}}
 {{% tab "大豆" %}}
 <div class="googlemap-if">
-<img src="2023-04-29-10-49-15.png">
+<img src="2023-04-29-10-49-15.png" alt="2023 04 29 10 49 15">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-19-08-54-17.png" width="90%">
+<img src="2023-06-19-08-54-17.png" width="90%" alt="2023 06 19 08 54 17">
 </div>
 
 {{% notice note %}}
@@ -294,7 +294,7 @@ maps: [
 {{% tab "コメ" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-10-56-56.png">
+<img src="2023-04-29-10-56-56.png" alt="2023 04 29 10 56 56">
 </div>
 
 {{% notice note %}}
@@ -310,7 +310,7 @@ maps: [
 {{% tab "綿花" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-11-29-30.png">
+<img src="2023-04-29-11-29-30.png" alt="2023 04 29 11 29 30">
 </div>
 
 {{% notice note %}}
@@ -326,7 +326,7 @@ maps: [
 {{% tab "サトウキビ" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-12-00-47.png">
+<img src="2023-04-29-12-00-47.png" alt="2023 04 29 12 00 47">
 </div>
 
 {{% notice note %}}
@@ -340,7 +340,7 @@ maps: [
 {{% /tab %}}
 {{% tab "小麦" %}}
 <div class="googlemap-if">
-<img src="2023-04-29-12-07-38.png">
+<img src="2023-04-29-12-07-38.png" alt="2023 04 29 12 07 38">
 </div>
 
 {{% notice note %}}
@@ -379,15 +379,15 @@ maps: [
 STOPは基本的に細い道から太い道に出る場合に立てられている。そのためSTOP看板の裏側が見える道に入ろうとする＝より細い道に入ろうとしている。STOP看板の表が見える＝より太い道に入ろうとしている。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./stop_sign_united_states.jpg">
+<img src="./stop_sign_united_states.jpg" alt="Stop sign united states">
 </div>
 
 {{% notice tip %}}
 NO OUTLET(出口なし)やDEAD END(行き止まり)の看板がある道も入るべきではない。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./no_outlet_sign_1.jpg" width="300px">
-<img src="./quot_dead_end_quot.jpg" width="335px">
+<img src="./no_outlet_sign_1.jpg" width="300px" alt="No outlet sign 1">
+<img src="./quot_dead_end_quot.jpg" width="335px" alt="Quot dead end quot">
 </div>
 
 {{% /tab %}}
@@ -396,7 +396,7 @@ NO OUTLET(出口なし)やDEAD END(行き止まり)の看板がある道も入�
 自作なので正しくないかも
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./gas_station.png" width="90%">
+<img src="./gas_station.png" width="90%" alt="Gas station">
 </div>
 {{% /tab %}}
 {{% tab "車のシール" %}}

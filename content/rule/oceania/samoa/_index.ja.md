@@ -51,7 +51,7 @@ Public Domain
 {{% notice tip %}}アメリカ領サモアに所属している島が、サモア本島の東の方にも存在する{{% ex "https://maps.app.goo.gl/LsC1twu5U19neeqz6" "https://maps.app.goo.gl/CYg7qaYAPMMJLeef8" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%EF%BC%9D%E3%82%AA%E3%83%AD%E3%82%BB%E3%82%AC%E5%B3%B6" "オフ＝オロセガ島" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="960px-Ofu_Olosega_NPS.jpg" width="95%"/>
+<img src="960px-Ofu_Olosega_NPS.jpg" width="95%" alt="960px Ofu Olosega NPS" />
 </div>
 {{% /tab %}}
 {{% /tabs  %}}

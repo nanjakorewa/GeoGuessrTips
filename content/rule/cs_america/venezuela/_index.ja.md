@@ -29,7 +29,7 @@ is_unofficial: true
 {{% goto "../../europe/spain/" "スペイン" %}}植民地時代の影響を受けたコロニアル様式の家が散見される。カラフルな色合いが多い{{% ex "https://maps.app.goo.gl/swnre875uZQhfYH59" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="houses_slope_sun_light.jpg" width="90%">
+<img src="houses_slope_sun_light.jpg" width="90%" alt="Houses slope sun light">
 </div>
 
 {{% /tab %}}

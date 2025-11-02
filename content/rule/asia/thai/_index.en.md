@@ -131,7 +131,7 @@ Thai is the official language.
 {{% tabs %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-15-43.png" width="60%" alt="2023 05 01 21 15 43" />
 </div>
 
 {{% notice tip %}}
@@ -140,7 +140,7 @@ As in the U.S. and other countries, corn and soybean production areas are almost
 {{% /tab %}}
 {{% tab "Oil palms" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-17-28.png" width="60%" alt="2023 05 01 21 17 28" />
 </div>
 
 {{% notice tip %}}
@@ -149,7 +149,7 @@ If oil palm can be found, consider the lowlands to the south.
 {{% /tab %}}
 {{% tab "Rubberwood" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" />
+<img src="/rule/asia/thai/rubber-tree-distribution.png" width="60%" alt="Rubber tree distribution" />
 </div>
 
 {{% notice tip %}}
@@ -158,7 +158,7 @@ If oil palm can be found, consider the lowlands to the south.
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" />
+<img src="/rule/asia/thai/2023-05-01-21-18-17.png" width="60%" alt="2023 05 01 21 18 17" />
 </div>
 
 {{% notice tip %}}

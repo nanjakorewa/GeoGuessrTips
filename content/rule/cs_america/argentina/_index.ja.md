@@ -39,7 +39,7 @@ sc: [
 ナンバープレートはモザイクがかかった時に真ん中が<span class="quiz">黒っぽくなる</span>{{% ex "https://maps.app.goo.gl/u7uQxHHTZA19YShW7" "https://maps.app.goo.gl/9myJgmbTH5K1bKLH8" "https://maps.app.goo.gl/7DaWy9xsURK71AqD8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./taxi.jpg" width="90%">
+<img src="./taxi.jpg" width="90%" alt="Taxi">
 </div>
 {{% lb 50 small %}}
 ![](2023-04-12-11-42-57.png)
@@ -52,7 +52,7 @@ By Quilmeño89 - Own work, <a href="https://creativecommons.org/licenses/by-sa/4
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Placas_de_veículos_do_Mercosul_mercosur.jpg">
+<img src="./Placas_de_veículos_do_Mercosul_mercosur.jpg" alt="Placas de veículos do Mercosul mercosur">
 </div>
 
 {{% notice tip %}}
@@ -66,7 +66,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 アルゼンチンや{{% goto "../uruguay/" "ウルグアイ" %}}にありそうな通り名看板。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./road-sign.jpg" width="90%">
+<img src="./road-sign.jpg" width="90%" alt="Road sign">
 </div>
 
 
@@ -74,11 +74,11 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 道端に道路番号が書かれた小さい看板があるかも{{% ex "https://maps.app.goo.gl/HbiufkgCGYbvbKpB8" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./2011_101_18_140540.jpg" width="95%" />
+<img src="./2011_101_18_140540.jpg" width="95%" alt="2011 101 18 140540" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/road-sign.png" width="170px">
+<img src="./r/road-sign.png" width="170px" alt="Road sign">
 </div>
 
 
@@ -86,7 +86,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 アルゼンチン内で多くのシェール油田を保有する<span class="quiz">YPF（ヤシミエントス・ペトロリフェロス・フィスカレス）</span>のガソリンスタンド。青い看板{{% ex "https://maps.app.goo.gl/CetzCF3MWpnLapD89" %}}やドラム缶{{% ex "https://maps.app.goo.gl/c7NoLJHSy2NrQ2iV6" "https://maps.app.goo.gl/jy1mLTfiqUcHsArK9" %}}が目印。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./junin_av_republica_20060428.jpg" width="90%" />
+<img src="./junin_av_republica_20060428.jpg" width="90%" alt="Junin av republica 20060428" />
 </div>
 
 {{% /tab %}}
@@ -130,7 +130,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "北東部" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/2.jpg" width="350px">
+<img src="./v/2.jpg" width="350px" alt="2">
 </div>
 
 
@@ -142,7 +142,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "中央北部" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/1.jpg" width="350px">
+<img src="./v/1.jpg" width="350px" alt="1">
 </div>
 
 <div class="googlemap-if">
@@ -153,7 +153,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "フフイ州付近" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/6.jpg" width="350px">
+<img src="./v/6.jpg" width="350px" alt="6">
 </div>
 
 <div class="googlemap-if">
@@ -164,7 +164,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "チリ国境付近" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/4.jpg" width="350px">
+<img src="./v/4.jpg" width="350px" alt="4">
 </div>
 
 <div class="googlemap-if">
@@ -175,7 +175,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "中央東部" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/5.jpg" width="350px">
+<img src="./v/5.jpg" width="350px" alt="5">
 </div>
 
 <div class="googlemap-if">
@@ -186,7 +186,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "南部" %}}
 <div class="googlemap-if unclickable">
-<img src="./v/3.jpg" width="350px">
+<img src="./v/3.jpg" width="350px" alt="3">
 </div>
 
 <div class="googlemap-if">
@@ -200,7 +200,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% notice tip %}}以下はコーンが生産されている地域のマップ{{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./Argentina_Corn.png" width="90%">
+<img src="./Argentina_Corn.png" width="90%" alt="Argentina Corn">
 </div>
 
 {{% /tab %}}
@@ -228,7 +228,7 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% /tab %}}
 {{% tab "タクシー" %}}
 <div class="googlemap-if">
-<img src="taxi_argentino.jpg">
+<img src="taxi_argentino.jpg" alt="Taxi argentino">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

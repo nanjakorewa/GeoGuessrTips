@@ -60,7 +60,7 @@ A pipeline completed through Cameroon enables crude exports from the Doba oil fi
 {{% tab "Satellite" %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/chad/474px-Chad_sat.jpg" width="90%">
+<img src="/rule/africa/chad/474px-Chad_sat.jpg" width="90%" alt="474px Chad sat">
 </div>
 
 {{% /tab %}}

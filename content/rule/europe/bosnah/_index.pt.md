@@ -35,15 +35,15 @@ sc: [
 Os guarda-corpos angulosos{{% ex "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/rtbkvmdEHU1m4nvY7" %}} e os balizadores{{% ex "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}} também aparecem nos países vizinhos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/bosnah/m2_neum_dscn1154.jpg" width="95%">
+<img src="/rule/europe/bosnah/m2_neum_dscn1154.jpg" width="95%" alt="M2 neum dscn1154">
 </div>
 
 {{% notice tip %}}
 É comum encontrar placas <span class="quiz">bilíngues</span>.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/bosnah/dupovci_bosna_hersek.jpg" width="300px">
-<img src="/rule/europe/bosnah/opstinacelinac.jpg" width="300px">
+<img src="/rule/europe/bosnah/dupovci_bosna_hersek.jpg" width="300px" alt="Dupovci bosna hersek">
+<img src="/rule/europe/bosnah/opstinacelinac.jpg" width="300px" alt="Opstinacelinac">
 </div>
 
 {{% /tab %}}

@@ -55,7 +55,7 @@ Plat kendaraan punya strip <span class="quiz">biru di kedua sisi</span>{{% ex "h
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/car.png" width="90%">
+<img src="/rule/europe/italy/car.png" width="90%" alt="Car">
 </div>
 
 {{% lb 50 %}}
@@ -69,13 +69,13 @@ Banyak rambu memakai pelat persegi dengan sudut dalam melengkung{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px">
-<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px">
-<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px">
-<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px">
+<img src="/rule/europe/italy/r/Italian_traffic_signs_-_attraversamento_pedonale.svg" width="120px" style="margin:10px" alt="Italian traffic signs attraversamento pedonale">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_SOS.svg" width="120px" style="margin:10px" alt="Italian traffic signs SOS">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_velocità_consigliata_50.svg" width="120px" style="margin:10px" alt="Italian traffic signs velocità consigliata 50">
+<img src="/rule/europe/italy/sign-example/Segnale_numerazione_cavalcavia_100_A2.svg" width="120px" style="margin:10px" alt="Segnale numerazione cavalcavia 100 A2">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_zona_a_velocità_limitata_(figura_II_323-a).png" width="120px" style="margin:10px" alt="Italian traffic signs zona a velocità limitata (figura II 323 a)">
+<img src="/rule/europe/italy/sign-example/Italian_traffic_signs_-_autostrada.svg" width="120px" style="margin:10px" alt="Italian traffic signs autostrada">
+<img src="/rule/europe/italy/r/roadside.jpg" width="80px" style="margin:30px" alt="Roadside">
 </div>
 
 {{% notice tip %}}
@@ -83,12 +83,12 @@ Kode jalan SP/SS maupun pelat segi delapan bertuliskan “A” hanya ada di Ital
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/road-sign.png" width="90%">
+<img src="/rule/europe/italy/road-sign.png" width="90%" alt="Road sign">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px">
-<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px">
+<img src="/rule/europe/italy/r/Autostrada_A4_Italia.svg" width="80px" style="margin:10px" alt="Autostrada A4 Italia">
+<img src="/rule/europe/italy/r/Strada_Statale_10_Italia.svg" width="140px" style="margin:15px" alt="Strada Statale 10 Italia">
 </div>
 
 {{% notice tip %}}
@@ -96,7 +96,7 @@ Bagian belakang rambu umumnya <span class="quiz">hitam atau abu-abu</span>{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-back.jpg" width="90%">
+<img src="./sign-back.jpg" width="90%" alt="Sign back">
 </div>
 
 {{% notice tip %}}
@@ -104,7 +104,7 @@ Toko Tabacchi mudah dikenali lewat logo “T” warna hitam{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./tabacchi.jpg" width="90%">
+<img src="./tabacchi.jpg" width="90%" alt="Tabacchi">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Deretan kebun anggur, pepohonan zaitun, dan bahu jalan berbatu putih sering terl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard.jpg" width="90%">
+<img src="./vineyard.jpg" width="90%" alt="Vineyard">
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Pinus payung dan pohon cemara berjajar di banyak jalan pedesaan{{% ex "https://g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pinus.jpg" width="90%">
+<img src="./pinus.jpg" width="90%" alt="Pinus">
 </div>
 
 {{% notice tip %}}
@@ -128,7 +128,7 @@ Nama jalan dimulai dengan “Via” atau “Vico/Vicolo”; jalan provinsi pakai
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./via-signs.jpg" width="90%">
+<img src="./via-signs.jpg" width="90%" alt="Via signs">
 </div>
 
 {{% /tab %}}
@@ -139,7 +139,7 @@ Perbukitan Piemonte, Toscana, Veneto, hingga Sisilia dipenuhi kebun anggur{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard2.jpg" width="95%">
+<img src="./vineyard2.jpg" width="95%" alt="Vineyard2">
 </div>
 
 {{% /tab %}}
@@ -162,7 +162,7 @@ Deretan cemara mudah ditemukan di Toscana dan Lazio{{% ex "https://goo.gl/maps/U
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./cypress_lane.jpg" width="95%">
+<img src="./cypress_lane.jpg" width="95%" alt="Cypress lane">
 </div>
 {{% /tab %}}
 {{% tab "Pinus" %}}
@@ -172,7 +172,7 @@ Pinus payung menghiasi pesisir Mediterania{{% ex "https://goo.gl/maps/uWJ5Fq86rv
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./pinea.jpg" width="95%">
+<img src="./pinea.jpg" width="95%" alt="Pinea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -191,12 +191,12 @@ Pinus payung menghiasi pesisir Mediterania{{% ex "https://goo.gl/maps/uWJ5Fq86rv
 Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6qVpuWBpinjC6" "https://maps.app.goo.gl/3YiB9rSAzM8BhynZA" "https://maps.app.goo.gl/eWkZVZakPZb7Jgmd8" %}}{{% ref "https://en.wikipedia.org/wiki/Mount_Etna" "Mount Etna" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%" alt="Mount etna sicily italy">
 </div>
 {{% /tab %}}
 {{% tab "Vineyard" %}}
 <div class="googlemap-if">
-<img src="./vineyard3.jpg" width="95%">
+<img src="./vineyard3.jpg" width="95%" alt="Vineyard3">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -213,7 +213,7 @@ Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6q
 {{% tabs %}}
 {{% tab "Gunung Etna" %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%">
+<img src="/rule/europe/italy/mount_etna_sicily_italy.jpg" width="95%" alt="Mount etna sicily italy">
 </div>
 {{% /tab %}}
 {{% tab "Isola del Giglio" %}}
@@ -221,7 +221,7 @@ Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6q
 Sekitar 90% pulau berupa hutan Mediterania{{% ex "https://maps.app.goo.gl/f9PG2sadapJut5QG9" "https://maps.app.goo.gl/XuqdC3Rr7Ya2augE9" %}}{{% ref "https://en.wikipedia.org/wiki/Isola_del_Giglio" "Isola del Giglio" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%">
+<img src="/rule/europe/italy/Giglio_Campese.jpg" width="95%" alt="Giglio Campese">
 </div>
 {{% /tab %}}
 {{% tab "Pantelleria" %}}
@@ -229,7 +229,7 @@ Sekitar 90% pulau berupa hutan Mediterania{{% ex "https://maps.app.goo.gl/f9PG2s
 Pantelleria penuh dinding batu dan kaktus; banyak trekker{{% ex "https://goo.gl/maps/DBMbksyBRYUx1tLKA" "https://goo.gl/maps/95SL83VW7JgrG1Pz7" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/city/dammuso.jpg">
+<img src="/rule/europe/italy/city/dammuso.jpg" alt="Dammuso">
 </div>
 {{% /tab %}}
 {{% tab "Kep. Egadi" %}}
@@ -237,7 +237,7 @@ Pantelleria penuh dinding batu dan kaktus; banyak trekker{{% ex "https://goo.gl/
 Pulau berbatu dengan benteng di puncak bukit terlihat hampir dari mana saja{{% ex "https://maps.app.goo.gl/aQuqD2j5dC8Qohft8" "https://maps.app.goo.gl/icz1SzZVqvzc8Bki6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%">
+<img src="/rule/europe/italy/favignana_island_sea_sicily.jpg" width="95%" alt="Favignana island sea sicily">
 </div>
 {{% /tab %}}
 {{% tab "Lampedusa" %}}
@@ -245,7 +245,7 @@ Pulau berbatu dengan benteng di puncak bukit terlihat hampir dari mana saja{{% e
 Pulau jauh dari daratan; banyak buggy{{% ex "https://maps.app.goo.gl/scqqn3U5EsZwA4Bq6" "https://maps.app.goo.gl/zfS4DfQRhWGMhqZw8" "https://maps.app.goo.gl/qp6yr5NwR9cTGQtv7" "https://maps.app.goo.gl/ay4wFSe2Nb77Xk6b9" %}} mirip {{% goto "../../oceania/pitcairn/" "Pitcairn" %}} atau {{% goto "../../oceania/cocos_islands/" "Cocos" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%">
+<img src="/rule/europe/italy/isola_dei_conigli.jpg" width="95%" alt="Isola dei conigli">
 </div>
 {{% /tab %}}
 {{% tab "San Domino" %}}
@@ -253,7 +253,7 @@ Pulau jauh dari daratan; banyak buggy{{% ex "https://maps.app.goo.gl/scqqn3U5EsZ
 Jalan berbatu dan kualitas gambar rendah{{% ex "https://maps.app.goo.gl/spBTAd9TedmzDtRV8" %}}; kapal feri pada foto ini biasa berlabuh di sana{{% ex "https://maps.app.goo.gl/yi9AS8xfHbhrF5G47" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" height="720" width="720"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg#/media/File:Porto_-_San_Domino_Island,_Tremiti,_Foggia,_Italy_-_August_20,_2013_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Porto_-_San_Domino_Island%2C_Tremiti%2C_Foggia%2C_Italy_-_August_20%2C_2013_02.jpg" height="720" width="720" alt="Porto San Domino Island%2C Tremiti%2C Foggia%2C Italy August 20%2C 2013 02"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:GiorgioGaleotti" title="User:GiorgioGaleotti">Giorgio Galeotti</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0" title="Creative Commons Attribution 4.0">CC BY 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=51315857">Link</a></p>
 </div>
 {{% /tab %}}
 {{% tab "Venesia" %}}
@@ -261,7 +261,7 @@ Jalan berbatu dan kualitas gambar rendah{{% ex "https://maps.app.goo.gl/spBTAd9T
 Ada area yang hanya bisa dilalui perahu{{% ex "https://maps.app.goo.gl/EhZJTD81KzTfJ6y58" %}}; jangan tertukar dengan Port Grimaud di {{% goto "../france/" "Prancis" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg">
+<img src="/rule/europe/italy/city/venezia_water_passages_275518.jpg" alt="Venezia water passages 275518">
 </div>
 {{% /tab %}}
 {{% tab "Campione d’Italia" %}}

@@ -33,7 +33,7 @@ Aproximadamente el 70 % del territorio está cubierto por el desierto de Karak
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/turkmenistan/camel_turkmenistan_desert_animals.jpg" width="95%">
+<img src="/rule/asia/turkmenistan/camel_turkmenistan_desert_animals.jpg" width="95%" alt="Camel turkmenistan desert animals">
 </div>
 
 {{% notice tip %}}
@@ -41,7 +41,7 @@ Aquí se encuentra el cráter de gas de Darvaza{{% ex "https://maps.app.goo.gl/R
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/turkmenistan/darvaza_png.png">
+<img src="/rule/asia/turkmenistan/darvaza_png.png" alt="Darvaza png">
 </div>
 
 {{% /tab %}}

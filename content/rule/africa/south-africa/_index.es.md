@@ -47,15 +47,15 @@ Las medidas de seguridad suelen incluir <span class="quiz">rejas antirrobo (Burg
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/south-africa/adt.png" width="150px" style="margin:10px">
-<img src="/rule/africa/south-africa/blue.png" width="150px" style="margin:10px">
+<img src="/rule/africa/south-africa/adt.png" width="150px" style="margin:10px" alt="Adt">
+<img src="/rule/africa/south-africa/blue.png" width="150px" style="margin:10px" alt="Blue">
 </div>
 
 {{% notice tip %}}
 La circulación es por el <span class="quiz">lado izquierdo</span>{{% ex "https://maps.app.goo.gl/8gMFG5NsBTamWV8g8" "https://maps.app.goo.gl/fQZeh21BBqrWQbst7" %}}. Cuando aparecen marcas laterales suelen ser <span class="quiz">naranjas</span> y la línea divisoria del centro es <span class="quiz">blanca</span>{{% ex "https://goo.gl/maps/GxNffr26cPebCRgS6" "https://goo.gl/maps/xEQoTHcWvEnZh6Bd8" "https://goo.gl/maps/nJU7oiYVaPU8rz6TA" "https://goo.gl/maps/XXRkvuhtqLF4tJjD9" %}}. En algunos tramos directamente no hay líneas laterales{{% ex "https://goo.gl/maps/YTXuR5d5ReaxKZFv8" "https://goo.gl/maps/4kMfS3xsCy9mtxBz9" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/africa/south-africa/road.jpg" width="90%" />
+<img src="/rule/africa/south-africa/road.jpg" width="90%" alt="Road" />
 </div>
 
 {{% notice tip %}}
@@ -63,7 +63,7 @@ La circulación es por el <span class="quiz">lado izquierdo</span>{{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable" style="align-items: center;">
-<img src="/rule/africa/south-africa/2023-08-03-02-58-40.png" width="90%" />
+<img src="/rule/africa/south-africa/2023-08-03-02-58-40.png" width="90%" alt="2023 08 03 02 58 40" />
 </div>
 
 {{% notice tip %}}
@@ -71,8 +71,8 @@ Las señales verdes muestran los números de ruta{{% ex "https://goo.gl/maps/t8c
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="align-items: center;">
-<img src="/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px">
-<img src="/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px">
+<img src="/rule/africa/south-africa/r/M4.png" width="70px" style="margin:10px" alt="M4">
+<img src="/rule/oceania/australia/r/New_South_Wales_alphanumeric_route_M23.svg" width="80px" style="margin:10px" alt="New South Wales alphanumeric route M23">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -92,7 +92,7 @@ Se ven con frecuencia <span class="quiz">paneles reflectantes estrechos de color
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/south-africa/sign.jpg" width="500px">
+<img src="/rule/africa/south-africa/sign.jpg" width="500px" alt="Sign">
 </div>
 
 {{% /tab %}}
@@ -151,7 +151,7 @@ El mapa está coloreado a mano de forma aproximada, así que úsalo solo como gu
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/2023-04-24-17-09-12.png" width="500px"/>
+<img src="/rule/africa/south-africa/2023-04-24-17-09-12.png" width="500px" alt="2023 04 24 17 09 12" />
 </div>
 {{% /tab %}}
 {{% tab "1. Parques nacionales" %}}
@@ -210,7 +210,7 @@ El Nama Karoo es un entorno duro donde las sequías son habituales y en algunos 
 {{% tabs %}}
 {{% tab "Agricultura" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/2023-05-12-20-42-15.png" width="90%"/>
+<img src="/rule/africa/south-africa/2023-05-12-20-42-15.png" width="90%" alt="2023 05 12 20 42 15" />
 <div class="description-wide">
 Waldner, François, et al. "National-scale cropland mapping based on spectral-temporal features and outdated land cover information." PloS one 12.8 (2017): e0181911.
 </div>
@@ -222,12 +222,12 @@ Las zonas moradas “Fruit” indican viñedos, mientras que la franja verde cla
 {{% /tab %}}
 {{% tab "Caña de azúcar" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/ag/sugacane.jpg" width="90%"/>
+<img src="/rule/africa/south-africa/ag/sugacane.jpg" width="90%" alt="Sugacane" />
 </div>
 {{% /tab %}}
 {{% tab "Maíz" %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/ag/corn.jpg" width="90%"/>
+<img src="/rule/africa/south-africa/ag/corn.jpg" width="90%" alt="Corn" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -252,7 +252,7 @@ La foto probablemente corresponde a la R301, también llamada Bain's Kloof Pass{
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/bainskloof_pass01.jpg" width="500px"/>
+<img src="/rule/africa/south-africa/bainskloof_pass01.jpg" width="500px" alt="Bainskloof pass01" />
 </div>
 {{% /tab %}}
 {{% tab "Matrículas" %}}
@@ -285,7 +285,7 @@ Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=1013373"
 Si pareces estar caminando por la carretera{{% ex "https://maps.app.goo.gl/y6M3qmKAhq3qPgSr5" "https://maps.app.goo.gl/78cktLEdWZDZh33x9" %}}, piensa en Robben Island; la Table Mountain se ve a lo lejos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/africa/south-africa/limestone_quarry_robben_island.jpg" width="600px"/>
+<img src="/rule/africa/south-africa/limestone_quarry_robben_island.jpg" width="600px" alt="Limestone quarry robben island" />
 </div>
 {{% /tab %}}
 

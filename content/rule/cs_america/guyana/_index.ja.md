@@ -27,11 +27,11 @@ is_unofficial: true
 黒いナンバープレート{{% ex "https://maps.app.goo.gl/P3qkSggsoQkYfdEZ9" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="laluni_st_panorama.jpg" width="95%">
+<img src="laluni_st_panorama.jpg" width="95%" alt="Laluni st panorama">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="CAR_GUYANA_LICENSE_PLATE-_PCC.png" width="250px">
+<img src="CAR_GUYANA_LICENSE_PLATE-_PCC.png" width="250px" alt="CAR GUYANA LICENSE PLATE PCC">
 </div>
 
 {{% notice tip %}}
@@ -39,7 +39,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="tractor_in_field_rice.jpg" width="90%">
+<img src="tractor_in_field_rice.jpg" width="90%" alt="Tractor in field rice">
 </div>
 
 {{% notice tip %}}

@@ -50,7 +50,7 @@ Companies that are well-known in Cambodia are depicted on the parasols and billb
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1682153829785!6m8!1m7!1sMXUayOIgo-joKPMzqh8-qw!2m2!1d11.56882486571123!2d104.9274814282329!3f225.3026506991802!4f-7.242914490031097!5f2.4971380703714856" width="590" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-<div class="unclickable"><img src="/rule/asia/cambodia/2023-06-09-01-40-05.png" width="590"/></div>
+<div class="unclickable"><img src="/rule/asia/cambodia/2023-06-09-01-40-05.png" width="590" alt="2023 06 09 01 40 05" /></div>
 </div>
 
 {{% notice note %}}
@@ -74,7 +74,7 @@ There are trees that look like this.
 There are similar-looking trees throughout warmer regions such as {{% goto "../../cs_america/brazil/" "brazil" %}}, but in Asia, Cambodia is ubiquitous. The color of the soil is also distinctive{{% ex "https://goo.gl/maps/f42TcfA1i2C9NyKeA" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/cambodia_asia_siem_reap.jpg" width="90%" />
+<img src="/rule/asia/cambodia/cambodia_asia_siem_reap.jpg" width="90%" alt="Cambodia asia siem reap" />
 </div>
 
 {{% /tab %}}
@@ -139,7 +139,7 @@ Cornfields and rice fields are almost non-existent on the east side (east of roa
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px">
+<img src="/rule/asia/cambodia/Cambodia_Rice.png" width="600px" alt="Cambodia Rice">
 </div>
 {{% /tab %}}
 {{% tab "Bollard" %}}

@@ -27,14 +27,14 @@ is_unofficial: true
 {{% goto "../../europe/france/" "フランス" %}}の植民地だったものの1960年に独立した。市街地の看板や電柱はフランスと同じ見た目をしている。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./1280px-Boulevard_Cocody-_Adjamé-_Plateau_32.jpg" width="90%">
+<img src="./1280px-Boulevard_Cocody-_Adjamé-_Plateau_32.jpg" width="90%" alt="1280px Boulevard Cocody Adjamé Plateau 32">
 </div>
 
 {{% notice tip %}}
 カカオの生産量が世界一位{{% ref "https://gentosha-go.com/articles/-/10198" "カカオ豆の統計で見る旧植民地と宗主国の経済的な結びつき" %}}{{% ref "https://www.ymizuki.com/entry/dutch-agricultural-productions-importing" "輸入農作物から見えてくる！？オランダ貿易３つの特徴" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./punta_cana_theobroma_cacao_0.jpg" width="90%">
+<img src="./punta_cana_theobroma_cacao_0.jpg" width="90%" alt="Punta cana theobroma cacao 0">
 </div>
 
 

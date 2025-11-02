@@ -40,7 +40,7 @@ is_unofficial: true
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="1996_yemen_sanna_9.jpg" width="90%" />
+<img src="1996_yemen_sanna_9.jpg" width="90%" alt="1996 yemen sanna 9" />
 </div>
 
 {{% notice tip %}}

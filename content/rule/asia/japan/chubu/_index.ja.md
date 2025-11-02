@@ -42,12 +42,12 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-chubu.png" width="220px">
+<img src="../pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 <div class="googlemap-if">
-<img src="CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em">
-<img src="CHUBU_Electric_Power_logo.svg" width="230px">
+<img src="CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="CHUBU Electric Power">
+<img src="CHUBU_Electric_Power_logo.svg" width="230px" alt="CHUBU Electric Power logo">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="nobi_plain_nagoya_from.jpg">
+<img src="nobi_plain_nagoya_from.jpg" alt="Nobi plain nagoya from">
 </div>
 
 {{% /tab %}}
@@ -90,7 +90,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../pole/pole-hokuriku.png" width="420px">
+<img src="../pole/pole-hokuriku.png" width="420px" alt="Pole hokuriku">
 </div>
 
 {{% /tab %}}

@@ -32,7 +32,7 @@ flag: "JP.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="arakaya_station_zenkei.jpg" width="90%">
+<img src="arakaya_station_zenkei.jpg" width="90%" alt="Arakaya station zenkei">
 </div>
 
 <div class="googlemap-if">

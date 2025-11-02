@@ -88,7 +88,7 @@ El Google Car en Kenia es distintivo y tiene varias variantes. Puede verse el te
 {{% tabs %}}
 {{% tab "Vegetaciﾃｳn" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/africa/kenya/vegitation.jpg" width="90%" />
+<img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Vegitation" />
 </div>
 
 {{% notice tip %}}

@@ -39,7 +39,7 @@ sc: [
 {{% notice tip %}}一般の乗用車は<span class="quiz">黄</span>色のナンバープレート{{% ex "https://maps.app.goo.gl/MXqyx7DfD1hWagAR9" %}}であり左側通行。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./elephants_at_etosha_national_2.jpg" width="90%">
+<img src="./elephants_at_etosha_national_2.jpg" width="90%" alt="Elephants at etosha national 2">
 </div>
 
 {{% lb 50 %}}
@@ -52,7 +52,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 {{% notice tip %}}海沿いには平坦なナミブ砂漠が広がっている{{% ex "https://maps.app.goo.gl/UFpuSnnSREAr5YXL8" %}}。何種類か、ナミビア以外では見かけないボラードも見つかる{{% ex "https://maps.app.goo.gl/XSMETKwsQgL4RYej8" %}}。ナミブ砂漠は{{% goto "../../cs_america/chile/" "チリ" %}}のアタカマ砂漠と同じ西岸砂漠に部類される{{% ref "https://ja.wikipedia.org/wiki/%E8%A5%BF%E5%B2%B8%E7%A0%82%E6%BC%A0" "西岸砂漠" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./c34_namibia_png.png" width="95%">
+<img src="./c34_namibia_png.png" width="95%" alt="C34 namibia png">
 </div>
 
 
@@ -67,7 +67,7 @@ By <a href=&quot;//commons.wikimedia.org/wiki/User:Dickelbers&quot; title=&quot;
 Swakopmundなどでは{{% goto "../../europe/germany/" "ドイツ" %}}の影響を受けた洋風の建築物も残っているという{{% ex "https://maps.app.goo.gl/Dumckq4A4RwEDYUq9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AF%E3%82%B3%E3%83%97%E3%83%A0%E3%83%B3%E3%83%88" "スワコプムント" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="swakopmund1.jpg">
+<img src="swakopmund1.jpg" alt="Swakopmund1">
 </div>
 
 
@@ -84,7 +84,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="loneliness_road_clouds_distance.jpg" width="90%">
+<img src="loneliness_road_clouds_distance.jpg" width="90%" alt="Loneliness road clouds distance">
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="cityview.jpg" width="95%">
+<img src="cityview.jpg" width="95%" alt="Cityview">
 </div>
 
 {{% /tab %}}
@@ -124,7 +124,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% tabs %}}
 {{% tab "標高" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Namibia_Topography.png" width="70%" />
+<img src="./960px-Namibia_Topography.png" width="70%" alt="960px Namibia Topography" />
 </div>
 
 {{% notice tip %}}
@@ -139,7 +139,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./glasscover.png" width="70%" />
+<img src="./glasscover.png" width="70%" alt="Glasscover" />
 </div>
 
 {{% /tab %}}
@@ -183,7 +183,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<p style="width:100%"><img src="Atlas_ch_02_21.jpg" width="80%"></p><p>By <a href="https://atlasofnamibia.online/chapter-2/minerals" title="User:Htonl">Atlas of Namibia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0">CC BY 4.0</a>, <a href="https://atlasofnamibia.online/chapter-2/minerals">Link</a></p>
+<p style="width:100%"><img src="Atlas_ch_02_21.jpg" width="80%" alt="Atlas ch 02 21"></p><p>By <a href="https://atlasofnamibia.online/chapter-2/minerals" title="User:Htonl">Atlas of Namibia</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/4.0/" title="CC BY 4.0">CC BY 4.0</a>, <a href="https://atlasofnamibia.online/chapter-2/minerals">Link</a></p>
 </div>
 
 {{% /tab %}}
@@ -208,7 +208,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="bakuhatsu.jpg" width="300px">
+<img src="bakuhatsu.jpg" width="300px" alt="Bakuhatsu">
 </div>
 
 {{% /tab %}}
@@ -243,7 +243,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="rock_formations_rocks_dichotoma.jpg" width="80%">
+<img src="rock_formations_rocks_dichotoma.jpg" width="80%" alt="Rock formations rocks dichotoma">
 </div>
 
 {{% notice tip %}}
@@ -252,7 +252,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="the_tree_aloes_southern.jpg" width="60%">
+<img src="the_tree_aloes_southern.jpg" width="60%" alt="The tree aloes southern">
 </div>
 
 {{% /tab %}}
@@ -263,7 +263,7 @@ Google Carは白い屋根が見える{{% ex "https://maps.app.goo.gl/yfhw7A17tYS
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="welwitschia_mirabillis_namibia_49479.jpg" width="60%">
+<img src="welwitschia_mirabillis_namibia_49479.jpg" width="60%" alt="Welwitschia mirabillis namibia 49479">
 </div>
 
 {{% /tab %}}
@@ -310,7 +310,7 @@ Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれ�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" />
+<img src="./960px-Sossusvlei_LandSat7.jpg" width="60%" alt="960px Sossusvlei LandSat7" />
 </div>
 
 {{% /tab %}}
@@ -321,7 +321,7 @@ Sossusvleiと呼ばれる観光地へ向かう、高い赤い砂丘に囲まれ�
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" />
+<img src="./Brandberg_Namibia_10km_distance.jpg" width="90%" alt="Brandberg Namibia 10km distance" />
 </div>
 
 {{% /tab %}}

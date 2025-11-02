@@ -27,7 +27,7 @@ flag: "Shizuoka.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="mount_fuji_20120909_b.jpg">
+<img src="mount_fuji_20120909_b.jpg" alt="Mount fuji 20120909 b">
 </div>
 
 {{% /tab %}}
@@ -37,7 +37,7 @@ flag: "Shizuoka.svg"
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="../../pole/pole-chubu.png" width="220px">
+<img src="../../pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 {{% /tab %}}

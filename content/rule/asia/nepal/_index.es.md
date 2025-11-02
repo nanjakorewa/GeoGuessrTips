@@ -40,7 +40,7 @@ Encontrarás carteles en nepalí escritos en devanagari. Es parecido al hindi, p
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/kmc3.jpg" width="90%">
+<img src="/rule/asia/nepal/kmc3.jpg" width="90%" alt="Kmc3">
 </div>
 
 
@@ -64,7 +64,7 @@ El pino del Himalaya (Pinus roxburghii) es muy frecuente{{% ex "https://maps.app
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%">
+<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%" alt="Dalhousie3">
 </div>
 
 {{% notice tip %}}
@@ -85,7 +85,7 @@ Por la influencia británica (Nepal fue un estado independiente pero con estrech
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px">
+<img src="/rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="Nepal road sign C27">
 </div>
 
 {{% notice tip %}}
@@ -93,7 +93,7 @@ Los templos determinan el espíritu de las ciudades: estupas budistas rodeadas d
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Bouddhanath_Stupa.jpg" width="90%">
+<img src="./Bouddhanath_Stupa.jpg" width="90%" alt="Bouddhanath Stupa">
 </div>
 
 {{% notice tip %}}
@@ -101,7 +101,7 @@ Los autobuses suelen ser blancos con franjas azules{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Nepal bus.jpg" width="90%">
+<img src="./Nepal bus.jpg" width="90%" alt="Nepal bus">
 </div>
 
 
@@ -112,7 +112,7 @@ El 57 % del territorio es forestal; el sur posee llanuras agrícolas. Presta a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Nepal_subdivision_by_ecological_region.png" width="70%">
+<img src="./Nepal_subdivision_by_ecological_region.png" width="70%" alt="Nepal subdivision by ecological region">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -130,20 +130,20 @@ El 57 % del territorio es forestal; el sur posee llanuras agrícolas. Presta a
 {{% tabs %}}
 {{% tab "Código del poste" %}}
 <div class="googlemap-if no-margin">
-<img src="./Taipower_power_lines_pole_ID.jpg" width="80%">
+<img src="./Taipower_power_lines_pole_ID.jpg" width="80%" alt="Taipower power lines pole ID">
 </div>
 {{% /tab %}}
 {{% tab "Prefijos" %}}
 <div class="googlemap-if">
-<img src="./Telephone_area_codes_in_Taiwan.svg" width="70%">
+<img src="./Telephone_area_codes_in_Taiwan.svg" width="70%" alt="Telephone area codes in Taiwan">
 </div>
 {{% /tab %}}
 {{% tab "Palmeras y té" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/nepal/areca_catechu_sankyo_garden.jpg" width="50%">
+<img src="/rule/asia/nepal/areca_catechu_sankyo_garden.jpg" width="50%" alt="Areca catechu sankyo garden">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./antu_dada.jpg" width="70%">
+<img src="./antu_dada.jpg" width="70%" alt="Antu dada">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -164,7 +164,7 @@ En Namche encontrarás tiendas de equipamiento de montaña, carteles con la alti
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%">
+<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="1230px A night view of Namche Bazaar in Nepal, photographed on the route to the Everest Base Camp trek, December 1, 2023">
 </div>
 
 {{% /tab %}}

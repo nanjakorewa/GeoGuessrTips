@@ -46,9 +46,9 @@ Jika terdapat rambu <span class="quiz">Einbahnstraße</span>, maka Anda berada d
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px">
-<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="Zeichen 220 20 Einbahnstraße, rechtsweisend, StVO 2017">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, StVO 2017">
+<img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, StVO 1992">
 </div>
 
 {{% notice tip %}}
@@ -56,15 +56,15 @@ Terdapat rambu jalan berlatar belakang oranye dengan nomor di ujung panah {{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%">
+<img src="/rule/europe/germany/junction_traffic_island_road.jpg" width="95%" alt="Junction traffic island road">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px">
-<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="Zeichen 415 10 Wegweiser auf Bundesstraßen %28linksweisend%29, einzeilig; StVO 1992">
+<img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
-<img src="/rule/europe/germany/rs2.svg" width="250px" style="margin:10px">
+<img src="/rule/europe/germany/rs2.svg" width="250px" style="margin:10px" alt="Rs2">
 </div>
 
 {{% notice tip %}}
@@ -72,12 +72,12 @@ Wilayah berbahasa Jerman seperti Jerman dan {{% goto "../austria/" "Austria" %}}
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/bushaltestelle_nvv_rothenberg.jpg" width="95%">
+<img src="/rule/europe/germany/bushaltestelle_nvv_rothenberg.jpg" width="95%" alt="Bushaltestelle nvv rothenberg">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px">
-<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_226_-_Kraftfahrlinien,_StVO_1970.svg" width="300px" alt="Zeichen 226 Kraftfahrlinien, StVO 1970">
+<img src="https://geopinning.space/rule/europe/germany//r/Zeichen_224_-_Straßenbahn-Haltestelle,_StVO_1970.svg" width="100px" style="margin:10px" alt="Zeichen 224 Straßenbahn Haltestelle, StVO 1970">
 </div>
 
 {{% notice tip %}}
@@ -85,14 +85,14 @@ Terdapat bollard reflektor berwarna putih atau oranye {{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/steeple_road_fog_fog_0.jpg" width="90%">
+<img src="/rule/europe/germany/steeple_road_fog_fog_0.jpg" width="90%" alt="Steeple road fog fog 0">
 </div>
 
 <div class="googlemap-if unclickable">
 <img src="/rule/europe/germany/bollard.png" width="150px" alt="Bollard di Jerman" />
 <img src="/rule/europe/germany/bollard2.png" width="150px" alt="Bollard di Jerman" >
-<img src="https://geopinning.space/rule/europe/germany//r/route-sign.svg" width="150px" style="margin:55px 0 0 0">
-<img src="/rule/europe/germany/town-enter.svg" width="150px" style="margin:55px 0 0 10px">
+<img src="https://geopinning.space/rule/europe/germany//r/route-sign.svg" width="150px" style="margin:55px 0 0 0" alt="Route sign">
+<img src="/rule/europe/germany/town-enter.svg" width="150px" style="margin:55px 0 0 10px" alt="Town enter">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ Banyak pelat putih dengan nomor atau kode QR hitam terpasang pada tiang listrik 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/germany/up.png" width="90%">
+<img src="/rule/europe/germany/up.png" width="90%" alt="Up">
 </div>
 
 {{% /tab %}}
@@ -111,11 +111,11 @@ Apotek di Jerman memiliki logo merah khas {{% ref "https://de.wikipedia.org/wiki
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany/c/apotheke.jpg" width="500px">
+<img src="https://geopinning.space/rule/europe/germany/c/apotheke.jpg" width="500px" alt="Apotheke">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="https://geopinning.space/rule/europe/germany/c/Deutsche_Apotheke_Logo.svg" width="150px">
+<img src="https://geopinning.space/rule/europe/germany/c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Deutsche Apotheke Logo">
 </div>
 
 {{% notice tip %}}
@@ -123,8 +123,8 @@ Truk dan kotak pos milik DHL Group, perusahaan pengiriman dengan kantor pusat di
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="https://geopinning.space/rule/europe/germany/c/deutsche_post_ag_technischer_0.jpg" width="500px">
-<img src="https://geopinning.space/rule/europe/germany/c/dhl_rad_tu_darmstadt.jpg" width="500px">
+<img src="https://geopinning.space/rule/europe/germany/c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Deutsche post ag technischer 0">
+<img src="https://geopinning.space/rule/europe/germany/c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Dhl rad tu darmstadt">
 </div>
 
 {{% notice tip %}}
@@ -132,7 +132,7 @@ Terdapat stasiun pengisian bahan bakar Aral dan perusahaan kimia seperti BASF ya
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/Aral.jpg" width="90%">
+<img src="/rule/europe/germany/Aral.jpg" width="90%" alt="Aral">
 </div>
 
 {{% /tab %}}
@@ -148,7 +148,7 @@ Street View yang dirilis pada tahun 2023 sering menampilkan "@ 2023 Google" (con
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/europe/germany/copyright.jpg" width="400px">
+<img src="/rule/europe/germany/copyright.jpg" width="400px" alt="Copyright">
 </div>
 
 {{% /tab %}}
@@ -180,7 +180,7 @@ Foto ini diambil di kota Stellichte {{% ex "https://goo.gl/maps/9rK6VkLzAaN7efsG
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/stellichte_germany_village_town.jpg" width="600px"></p>
+<p><img src="/rule/europe/germany/stellichte_germany_village_town.jpg" width="600px" alt="Stellichte germany village town"></p>
 </div>
 {{% /tab %}}
 {{% tab "Kompleks Perumahan" %}}
@@ -190,7 +190,7 @@ Foto ini diambil di kota Hoyerswerda {{% ex "https://goo.gl/maps/aaHQ3A1HjsXDo1m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/hy_hufelandstr36_46wohnhaus.jpg" width="600px"></p>
+<p><img src="/rule/europe/germany/hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Hy hufelandstr36 46wohnhaus"></p>
 </div>
 {{% /tab %}}
 {{% tab "Rumah di Tengah" %}}
@@ -200,7 +200,7 @@ Foto ini diambil di kota Burglauer {{% ex "https://goo.gl/maps/xomxhZ4wN97RjXJbA
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/burglauer_germany_landscape_town.jpg" width="600px"></p>
+<p><img src="/rule/europe/germany/burglauer_germany_landscape_town.jpg" width="600px" alt="Burglauer germany landscape town"></p>
 </div>
 {{% /tab %}}
 {{% tab "Rumah di Barat-Tengah" %}}
@@ -210,7 +210,7 @@ Atap hitam mungkin lebih umum di wilayah dengan batu hitam yang tersedia, sepert
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="/rule/europe/germany/house-example.jpg" width="90%"></p>
+<p><img src="/rule/europe/germany/house-example.jpg" width="90%" alt="House example"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Trier-Heiligkreuz, Am Kiewelsberg 20220705 (2).jpg" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
 </div>
 {{% /tab %}}
@@ -221,7 +221,7 @@ Rumah-rumah tipe ini dapat ditemukan di bagian utara Jerman. Meskipun sering dib
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/winsenmuseum_groode_hus.jpg" width="600px"></p>
+<p><img src="/rule/europe/germany/winsenmuseum_groode_hus.jpg" width="600px" alt="Winsenmuseum groode hus"></p>
 </div>
 {{% /tab %}}
 {{% tab "German Timber-Frame Road" %}}
@@ -273,7 +273,7 @@ Jumlah pekerja per 1.000 penduduk yang bekerja di perusahaan industri sangat ber
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="/rule/europe/germany/201601_mom.webp" width="600px"></p>
+<p><img src="/rule/europe/germany/201601_mom.webp" width="600px" alt="201601 mom"></p>
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://www.gfk.com/insights/mom-0116">Illustration: GfK</a>, <a href="https://www.gfk.com/insights/mom-0116">Link</a></p>
@@ -286,7 +286,7 @@ Ladang bunga kuning seperti kanola lebih sering terlihat di sekitar semenanjung 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/rapsfeld03.jpg">
+<img src="/rule/europe/germany/rapsfeld03.jpg" alt="Rapsfeld03">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -314,7 +314,7 @@ Pulau Sylt memiliki area tanpa pepohonan {{% ex "https://goo.gl/maps/wFYycBKzt8N
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" />
+<img src="/rule/europe/germany/sylt_dunes_nature_landscape.jpg" width="90%" alt="Sylt dunes nature landscape" />
 </div>
 
 {{% /tab %}}
@@ -324,7 +324,7 @@ Di tepi sungai Hamburg, Anda dapat melihat bangunan bata merah yang berjejer {{%
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" />
+<img src="/rule/europe/germany/speicherstadt_hamburg_brick_1095857.jpg" width="80%" alt="Speicherstadt hamburg brick 1095857" />
 </div>
 {{% /tab %}}
 {{% tab "Berlin" %}}
@@ -332,7 +332,7 @@ Di tepi sungai Hamburg, Anda dapat melihat bangunan bata merah yang berjejer {{%
 <span class="quiz">Berlin</span> sering kali memiliki papan nama jalan dengan latar belakang putih, bingkai abu-abu, dan dipasang menggunakan pengikat logam berwarna perak.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/berlin_historic_street_names.jpg">
+<img src="/rule/europe/germany/berlin_historic_street_names.jpg" alt="Berlin historic street names">
 </div>
 
 {{% /tab %}}
@@ -343,7 +343,7 @@ Papan nama di Munich memiliki lekukan di keempat sudutnya dengan titik-titik, la
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg">
+<img src="/rule/europe/germany/munich_marienplatz_street_sign.jpg" alt="Munich marienplatz street sign">
 </div>
 {{% /tab %}}
 {{% tab "Cologne" %}}
@@ -352,7 +352,7 @@ Papan nama di Munich memiliki lekukan di keempat sudutnya dengan titik-titik, la
 <span class="quiz">Cologne</span> memiliki papan nama jalan yang sederhana dengan warna putih.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg">
+<img src="/rule/europe/germany/lew_kopelew_weg_koln.jpg" alt="Lew kopelew weg koln">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

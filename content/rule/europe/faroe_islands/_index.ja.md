@@ -53,15 +53,15 @@ sc: [
 放牧がよく行われているので町の近くでも羊や馬が見られるかも{{% ex "https://maps.app.goo.gl/hab3c1MrWQq1nM7B7" "https://maps.app.goo.gl/6SXRBgoMKzK1X3Gt6" %}}。またサッカーが人気でサッカーやフットサル場が街中と郊外に複数ある{{% ex "https://maps.app.goo.gl/7pKv5b4UM8wKjke68" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./faroe_islands_cascade_horses.jpg" width="90%">
+<img src="./faroe_islands_cascade_horses.jpg" width="90%" alt="Faroe islands cascade horses">
 </div>
 
 {{% notice tip %}}
 {{% goto "../denmark/" "デンマーク" %}}領でありデンマークとの共通点がある。デンマークにあるAlluxブランドのポストも見つかる{{% ex "https://maps.app.goo.gl/QTYUkp69ZrJgtAXh8" %}}{{% imref %}}。T字っぽい金具に付けられた通り名やバスの看板もデンマークみがある気がする{{% ex "https://maps.app.goo.gl/U8RdHr8jbxSpnaVSA" "https://maps.app.goo.gl/fJZXBzL9iNmMfvUy7" "https://maps.app.goo.gl/Cv8Tn6KNKLNPv1mH8" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="../denmark/2024-10-15-23-20-20.png" width="230px">
-<img src="640px-Bussstop_fo.jpg" width="463px">
+<img src="../denmark/2024-10-15-23-20-20.png" width="230px" alt="2024 10 15 23 20 20">
+<img src="640px-Bussstop_fo.jpg" width="463px" alt="640px Bussstop fo">
 </div>
 
 

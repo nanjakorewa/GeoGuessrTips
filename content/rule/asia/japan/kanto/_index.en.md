@@ -32,7 +32,7 @@ The Kantō Plain stretches across the region, so wide flat landscapes are common
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/kanto/kanto_railway_ryugasaki_line_0.jpg">
+<img src="/rule/asia/japan/kanto/kanto_railway_ryugasaki_line_0.jpg" alt="Kanto railway ryugasaki line 0">
 </div>
 
 {{% /tab %}}

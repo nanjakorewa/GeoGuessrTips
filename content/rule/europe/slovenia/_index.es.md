@@ -40,19 +40,19 @@ sc: [
 Los bolardos son casi idénticos a los de {{% goto "../austria/" "Austria" %}}{{% ex "https://goo.gl/maps/LguhLgPoDVaXvgyZ7" "https://goo.gl/maps/az45N8rcAFaW85Fx8" "https://goo.gl/maps/9dHJRmsLtajW1GfZ6" %}}. En {{% goto "../montenegro/" "Montenegro" %}} también aparecen ocasionalmente{{% ex "https://goo.gl/maps/Chrh7DMo5qQ2EBz26" %}}, así que confirma con otros indicios.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/bollard.png" width="90%">
+<img src="/rule/europe/slovenia/bollard.png" width="90%" alt="Bollard">
 </div>
 
 {{% notice tip %}}
 Los países ex yugoslavos emplean señales turísticas en forma de lápiz <span class="quiz">naranja</span>{{% ex "https://maps.app.goo.gl/tW5xrsJtV8xPYkig6" "https://maps.app.goo.gl/5nqBJifRTkBTzrzt9" "https://maps.app.goo.gl/ktnXS7swUwAQ2zhn8" %}}. Eslovenia es el lugar donde más a menudo verás pequeños hitos blancos con el número de carretera{{% ex "https://maps.app.goo.gl/rvRWmDMvbSqpR3uG7" %}}; en {{% goto "../croatia/" "Croacia" %}} y {{% goto "../serbia/" "Serbia" %}} aparecen con menor frecuencia.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/europe/slovenia/baskagrapa3.jpg" width="95%">
+<img src="/rule/europe/slovenia/baskagrapa3.jpg" width="95%" alt="Baskagrapa3">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/routesign.png" width="300px" style="margin:15px"/>
-<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-105.svg" width="130px" />
+<img src="/rule/europe/slovenia/routesign.png" width="300px" style="margin:15px" alt="Routesign" />
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-105.svg" width="130px" alt="Slovenia road sign III 105" />
 </div>
 
 {{% notice tip %}}
@@ -60,8 +60,8 @@ Los países ex yugoslavos emplean señales turísticas en forma de lápiz <span 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px">
-<img src="/rule/europe/slovenia/sign-behind.png" width="145px" style="margin:10px">
+<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="Slovenia road sign III 29 %2840%29">
+<img src="/rule/europe/slovenia/sign-behind.png" width="145px" style="margin:10px" alt="Sign behind">
 </div>
 
 
@@ -70,7 +70,7 @@ No es raro que las casas exhiban flores de color rojo intenso{{% ex "https://map
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/house.jpg" width="90%" />
+<img src="/rule/europe/slovenia/house.jpg" width="90%" alt="House" />
 </div>
 
 
@@ -78,9 +78,9 @@ No es raro que las casas exhiban flores de color rojo intenso{{% ex "https://map
 La señal de paso de peatones no muestra cinturón, a diferencia de {{% goto "../croatia/" "Croacia" %}} o {{% goto "../hungary/" "Hungría" %}}. De izquierda a derecha: <span class="quiz">Eslovenia</span>, <span class="quiz">Croacia</span>, <span class="quiz">Hungría</span>.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px">
-<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px">
-<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px">
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-6.svg" width="150px" style="margin:10px" alt="Slovenia road sign III 6">
+<img src="/rule/europe/croatia/r/HR_road_sign_C02.svg" width="147px" style="margin:10px" alt="HR road sign C02">
+<img src="/rule/europe/hungary/r/Hungary_road_sign_E-038.svg" width="147px" style="margin:10px" alt="Hungary road sign E 038">
 </div>
 
 {{% notice tip %}}
@@ -88,8 +88,8 @@ En la época yugoslava Eslovenia era la región más industrializada y hoy manti
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" />
-<img src="./r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" />
+<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="Slovenia road sign III 107 %28L%29" />
+<img src="./r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="Slovenia road sign III 107.1 %28L%29" />
 </div>
 
 
@@ -138,17 +138,17 @@ Las macetas con flores dan pistas adicionales.
 {{% tabs %}}
 {{% tab "Casa de Cerknica" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/cerknica_udovic_r_hisa.jpg" width="370px" >
+<img src="/rule/europe/slovenia/cerknica_udovic_r_hisa.jpg" width="370px" alt="Cerknica udovic r hisa">
 </div>
 {{% /tab %}}
 {{% tab "Casa de Tržič" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/trzic2_kurnikovahisa.jpg" width="370px" >
+<img src="/rule/europe/slovenia/trzic2_kurnikovahisa.jpg" width="370px" alt="Trzic2 kurnikovahisa">
 </div>
 {{% /tab %}}
 {{% tab "Casa de Gorišnica" %}}
 <div class="googlemap-if unclickable">
-<img src="/rule/europe/slovenia/gorisnica_dominkovadomacija.jpg" width="550px" >
+<img src="/rule/europe/slovenia/gorisnica_dominkovadomacija.jpg" width="550px" alt="Gorisnica dominkovadomacija">
 </div>
 {{% /tab %}}
 {{% tab "Terreno cárstico" %}}

@@ -40,7 +40,7 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./google-map.png" width="80%">
+<img src="./google-map.png" width="80%" alt="Google map">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

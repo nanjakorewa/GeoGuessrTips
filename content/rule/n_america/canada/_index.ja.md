@@ -42,13 +42,13 @@ sc: [
 {{% /notice %}}
 <div class="googlemap-if unclickable">
 <div class="googlemap-if" style="margin:5px;">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
-<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
-<img src="./r/sp-on.svg" width="66px" style="margin:5px">
-<img src="./canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px">
-<img src="../usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px">
-<img src="../usa/r/sp-oregon.png" width="66px" style="margin:5px">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
+<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
+<img src="./r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
+<img src="./canada-sp-nu.png" width="66px" style="margin:5px 40px 7px 7px" alt="Canada sp nu">
+<img src="../usa/r/MUTCD_R2-1.svg" width="66px" style="margin:5px 7px 7px 40px" alt="MUTCD R2 1">
+<img src="../usa/r/sp-oregon.png" width="66px" style="margin:5px" alt="Sp oregon">
 </div>
 
 </div>
@@ -56,33 +56,33 @@ sc: [
 {{% notice tip %}}カナダはYEILDやONEWAYの看板に文字が無い。左がカナダ・右がアメリカ。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px">
-<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px">
+<img src="../canada/r/CA-MUTCDC_RA-002.svg" width="100px" style="margin-right:100px" alt="CA MUTCDC RA 002">
+<img src="../usa/r/MUTCD_R1-2.svg" width="100px" style="margin-left:100px" alt="MUTCD R1 2">
 </div>
 <div class="googlemap-if unclickable">
-<img src="../canada/r/oneway.svg" width="100px" style="margin-right:100px">
-<img src="../usa/r/oneway.svg" width="100px" style="margin-left:100px">
+<img src="../canada/r/oneway.svg" width="100px" style="margin-right:100px" alt="Oneway">
+<img src="../usa/r/oneway.svg" width="100px" style="margin-left:100px" alt="Oneway">
 </div>
 
 {{% notice tip %}}こういう感じのポストが多い。どこかにCANADA POSTと書いてあるはず。
 {{% /notice %}}
 <div class="googlemap-if no-margin unclickable">
-<img src="./canadapostcommunitymailboxes9.jpg" width="80%" />
-<img src="./canadapostcommunitymailboxes5.jpg" width="250px" />
-<img src="./canadapostmailbox.jpg" width="250px" />
+<img src="./canadapostcommunitymailboxes9.jpg" width="80%" alt="Canadapostcommunitymailboxes9" />
+<img src="./canadapostcommunitymailboxes5.jpg" width="250px" alt="Canadapostcommunitymailboxes5" />
+<img src="./canadapostmailbox.jpg" width="250px" alt="Canadapostmailbox" />
 </div>
 
 {{% notice tip %}}チェッカーボードのような看板がある{{% ex "https://goo.gl/maps/H4Cp8txV2x2FRdxa6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./opeongo_road_signs.jpg" width="90%" />
+<img src="./opeongo_road_signs.jpg" width="90%" alt="Opeongo road signs" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px">
-<img src="./Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px">
-<img src="./Ontario_Wa-8R.svg" width="130px" style="margin-right:20px">
+<img src="./CA-QC_road_sign_D-280.svg" width="130px" style="margin-right:20px" alt="CA QC road sign D 280">
+<img src="./Ontario_Wa-8LR.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8LR">
+<img src="./Ontario_Wa-8R.svg" width="130px" style="margin-right:20px" alt="Ontario Wa 8R">
 </div>
 
 {{% notice tip %}}TDと書かれた銀行はトロント・ドミニオン銀行の系列。RBCはRoyal Bank of Canadaの略。それぞれ国内２位と１位の資産規模。
@@ -92,8 +92,8 @@ sc: [
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px">
-<img src="./RBC_Royal_Bank.svg" width="100px" style="margin-left:100px">
+<img src="./Toronto-Dominion_Bank_logo.svg" width="130px" style="margin-right:100px" alt="Toronto Dominion Bank logo">
+<img src="./RBC_Royal_Bank.svg" width="100px" style="margin-left:100px" alt="RBC Royal Bank">
 </div>
 
 {{% /tab %}}
@@ -156,7 +156,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800">
+<img src="./1073px-Canada_Map_3_-_Terrain_-_DPLA_-_9d3a2bcd16e310769d57247c939b852b.jpg" width="800" alt="1073px Canada Map 3 Terrain DPLA 9d3a2bcd16e310769d57247c939b852b">
 </div>
 
 {{% /tab %}}
@@ -191,20 +191,20 @@ sc: [
 {{% notice tip %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px">
-<img src="./r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px">
-<img src="./r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px">
+<img src="./r/Nunavut_Stop_Sign_SVG.svg" width="100px" style="margin:40px" alt="Nunavut Stop Sign SVG">
+<img src="./r/CA-QC_road_sign_P-010-fr.svg" width="100px" style="margin:40px" alt="CA QC road sign P 010 fr">
+<img src="./r/New_Brunswick_stop_sign.svg" width="100px" style="margin:40px" alt="New Brunswick stop sign">
 </div>
 
 {{% /tab %}}
 {{% tab "速度表記" %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px">
-<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px">
-<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px">
-<img src="./r/sp-on.svg" width="66px" style="margin:5px">
-<img src="./canada-sp-nu.png" width="66px" style="margin:5px">
+<img src="./r/CA-ON_road_sign_Rb-001-050.svg" width="66px" style="margin:5px" alt="CA ON road sign Rb 001 050">
+<img src="./r/canada-sp-bc.png" width="66px" style="margin:5px" alt="Canada sp bc">
+<img src="./CA-QC_road_sign_P-070-4-40.svg" width="66px" style="margin:5px" alt="CA QC road sign P 070 4 40">
+<img src="./r/sp-on.svg" width="66px" style="margin:5px" alt="Sp on">
+<img src="./canada-sp-nu.png" width="66px" style="margin:5px" alt="Canada sp nu">
 </div>
 
 
@@ -261,7 +261,7 @@ sc: [
 細い、濃い赤色の反射板があるボラードは<span class="quiz">ケベック</span>州{{% ex "https://goo.gl/maps/goHrTyUv3ALQ8DLt5" "https://goo.gl/maps/RYguMToduYg11Cfe8" %}}。{{% goto "../usa/" "アメリカ" %}}にも似たようなボラードがある{{% ex "https://goo.gl/maps/rwavRhfvq2uFVUPCA" %}}点にのみ注意。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./a20_ouest_km143.jpg" width="90%">
+<img src="./a20_ouest_km143.jpg" width="90%" alt="A20 ouest km143">
 </div>
 {{% /tab %}}
 {{% tab "オンタリオ" %}}
@@ -286,14 +286,14 @@ sc: [
 {{% tab "小麦" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-45-23.png" width="80%" />
+<img src="2023-04-29-19-45-23.png" width="80%" alt="2023 04 29 19 45 23" />
 </div>
 
 {{% /tab %}}
 {{% tab "コーン" %}}
 
 <div class="googlemap-if">
-<img src="2023-04-29-19-35-46.png" width="80%" />
+<img src="2023-04-29-19-35-46.png" width="80%" alt="2023 04 29 19 35 46" />
 </div>
 
 {{% notice note %}}

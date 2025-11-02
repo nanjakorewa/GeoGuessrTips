@@ -48,7 +48,7 @@ Hay muchos bolardos en las intersecciones y cruces de carreteras.{{% ex "https:/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="/rule/asia/russia/intersection.jpg" width="90%">
+<img src="/rule/asia/russia/intersection.jpg" width="90%" alt="Intersection">
 </div>
 
 <div class="googlemap-if no-margin" style="font-size: 0.8em;" >
@@ -63,7 +63,7 @@ Gazprom es la empresa de producción y suministro de gas natural más grande del
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/russia/Gazprom_Avia_Logo.svg" width="400px">
+<img src="/rule/asia/russia/Gazprom_Avia_Logo.svg" width="400px" alt="Gazprom Avia Logo">
 </div>
 
 {{% notice tip %}}
@@ -111,14 +111,14 @@ tubería a lo largo de la cerca
 {{% tabs %}}
 {{% tab "Especies de árboles dominantes" %}}
 <div class="googlemap-if unclickable-area" >
-<img src="/rule/asia/russia/2023-04-23-19-40-50.png"/>
+<img src="/rule/asia/russia/2023-04-23-19-40-50.png" alt="2023 04 23 19 40 50" />
 <div class="description-wide">
 Tenga en cuenta que la distribución real no es tan simple como ésta, sino que tiene una gradación.(Fuente: “Prólogo: Desarrollo regional de la circulación y la convivencia desde la perspectiva del espacio territorial nacional” Ministerio del Ambiente, <a href="https://www.env.go.jp/policy/hakusyo/h10/zuhyou_h10_2_1_1.html">Enlace fuente</a>, disponible el 1 de abril de 2023)
 </div>
 </div>
 
 <div class="googlemap-if unclickable-area" >
-<img src="/rule/asia/russia/2023-04-23-19-56-08.png"/>
+<img src="/rule/asia/russia/2023-04-23-19-56-08.png" alt="2023 04 23 19 56 08" />
 <div class="description-wide">
 Balashov, I., et al. "Sistema de información Vega-Les. Características actuales y evolución futura". Serie de conferencias del IOP: Ciencias de la Tierra y el Medio Ambiente. vol. 507. No. 1. Publicaciones IOP, 2020.
 </div>
@@ -216,7 +216,7 @@ Se dice que el abedul Betula abunda en la península de Kamchatka.Si el color de
 en la zona roja <span class="quiz">suelo negro</span>(Imagen de Naciones Unidas, dominio público).
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="/rule/asia/russia/2023-04-27-21-39-12.png" />
+<img src="/rule/asia/russia/2023-04-27-21-39-12.png" alt="2023 04 27 21 39 12" />
 </div>
 
 <div class="googlemap-if">

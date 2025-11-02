@@ -59,7 +59,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./phonenumber.jpg" width="90%">
+<img src="./phonenumber.jpg" width="90%" alt="Phonenumber">
 </div>
 
 
@@ -80,7 +80,7 @@ Dで始まる道路番号の黄色いプレートがある{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="aubisque_mountain_france_940395.jpg" width="550">
+<img src="aubisque_mountain_france_940395.jpg" width="550" alt="Aubisque mountain france 940395">
 </div>
 
 {{% notice tip %}}
@@ -88,7 +88,7 @@ Dで始まる道路番号の黄色いプレートがある{{% ex "https://maps.a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./licence.jpg" width="95%">
+<img src="./licence.jpg" width="95%" alt="Licence">
 </div>
 
 
@@ -103,10 +103,10 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./arrow.png" width="85%">
+<img src="./arrow.png" width="85%" alt="Arrow">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./r/xcv.png" width="150px">
+<img src="./r/xcv.png" width="150px" alt="Xcv">
 </div>
 
 {{% notice tip %}}
@@ -123,32 +123,32 @@ By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/2
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-24-12-29-20.png" width="320px"/>
+<img src="2023-07-24-12-29-20.png" width="320px" alt="2023 07 24 12 29 20" />
 </div>
 
 {{% notice tip %}}
 フランスでは四角い立方体型のポストが多い{{% ex "https://maps.app.goo.gl/JBkFvM98iRSs6BkN8" "https://maps.app.goo.gl/c1Z7EjdXNrXNKs2Q6" "https://maps.app.goo.gl/5UjoHPnf3EJy7mTi9" "https://maps.app.goo.gl/Mxxf9FdVmqfhc6Ht5" "https://maps.app.goo.gl/QDAQmkk26UNFsjdo6" "https://maps.app.goo.gl/56BHETHsr6h6XR7q9" "https://maps.app.goo.gl/UB36DVZdJMma5bJe7" "https://maps.app.goo.gl/NMKRXFQ63s2wVyGR9" "https://maps.app.goo.gl/TmNad2DmfwMHS4UA8" %}}。{{% goto "../portugal/" "ポルトガル" %}}でも似たようなポストが散見される{{% ex "https://maps.app.goo.gl/KeN6v6JTzJ29kGJ28" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./mailboxes_post_france_letter.jpg" width="500px">
-<img src="./chatroux_sur_boite_aux.jpg" width="500px">
+<img src="./mailboxes_post_france_letter.jpg" width="500px" alt="Mailboxes post france letter">
+<img src="./chatroux_sur_boite_aux.jpg" width="500px" alt="Chatroux sur boite aux">
 </div>
 
 {{% notice tip %}}
 速度制限などの赤い規制標識に白い縁がある{{% ex "https://maps.app.goo.gl/hHeYy3a9Gwp9Nd3o7" "https://maps.app.goo.gl/LF2GebgrjVJHeujc8" %}}。ちなみに青色の『右側通行せよ』の看板が四角いのはフランスだけ{{% ex "https://maps.app.goo.gl/9UxniwyZePeifExQ7"  "https://maps.app.goo.gl/AyFtAdEf3MjhAyNj9" "https://maps.app.goo.gl/JtXaUAEMJXbF6KeY6" "https://maps.app.goo.gl/M6wUds5xJrKXmeJz7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/s1.png" width="100px" style="margin:10px;">
-<img src="./r/s2.png" width="100px" style="margin:10px;">
-<img src="./r/s3.png" width="100px" style="margin:10px;">
-<img src="./r/s4.png" width="95px" style="margin:8px 10px 10px 100px;">
+<img src="./r/s1.png" width="100px" style="margin:10px;" alt="S1">
+<img src="./r/s2.png" width="100px" style="margin:10px;" alt="S2">
+<img src="./r/s3.png" width="100px" style="margin:10px;" alt="S3">
+<img src="./r/s4.png" width="95px" style="margin:8px 10px 10px 100px;" alt="S4">
 </div>
 
 {{% notice tip %}}
 ふたつの□がくっついた中央線はフランスでしか見ない{{% ex "https://maps.app.goo.gl/VKhUaqMUgf9osPt99" "https://maps.app.goo.gl/x4YS9dTA2nk42XqU7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="roadline.png" width="90%">
+<img src="roadline.png" width="90%" alt="Roadline">
 </div>
 
 
@@ -202,7 +202,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Bassigny-localisation.jpg" width="90%">
+<img src="./Bassigny-localisation.jpg" width="90%" alt="Bassigny localisation">
 </div>
 
 {{% /tab %}}
@@ -213,7 +213,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./corsica_mountains_mountain_landscape.jpg">
+<img src="./corsica_mountains_mountain_landscape.jpg" alt="Corsica mountains mountain landscape">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -246,7 +246,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="../spain/pinus_pinea_pompeii.jpg" width="90%">
+<img src="../spain/pinus_pinea_pompeii.jpg" width="90%" alt="Pinus pinea pompeii">
 </div>
 {{% /tab %}}
 {{% tab "ダンチク" %}}
@@ -256,7 +256,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="arundo_donax_habitus_2009december13.jpg" width="60%">
+<img src="arundo_donax_habitus_2009december13.jpg" width="60%" alt="Arundo donax habitus 2009december13">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -285,7 +285,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% tabs %}}
 {{% tab "市外局番①" %}}
 <div class="googlemap-if">
-<p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click"/></p>
+<p><img src="./800px-Carte_indicatifs_téléphoniques_français.svg.png" width="60%" class="no-click" alt="800px Carte indicatifs téléphoniques français.svg" /></p>
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a></p>
 </div>
 
@@ -295,7 +295,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 {{% /tab %}}
 {{% tab "市外局番②" %}}
 <div class="googlemap-if">
-<p><img src="./clip/FR-area-code.png" width="60%" class="no-click"/></p>
+<p><img src="./clip/FR-area-code.png" width="60%" class="no-click" alt="FR area code" /></p>
 <p>CC BY 3.0. <a href="https://en.wikipedia.org/wiki/Telephone_numbers_in_France">Telephone numbers in France. (2023, March 30). In Wikipedia.</a>を加工しています</p>
 </div>
 {{% notice info %}}
@@ -328,7 +328,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 西海岸の海沿い、特に離島について白壁で平屋の家が多い{{% ex "https://maps.app.goo.gl/QimqAJD4P657jTA28" "https://maps.app.goo.gl/aTgWzzyrjjFcdZm87" %}}。窓のシャッターに色が付いていることが多い{{% ex "https://maps.app.goo.gl/ekqrbhxKqtuHAMsW7" "https://maps.app.goo.gl/L1wRU7cPbYt4sQ2b7" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./960px-Stockrosen_01.jpg" width="600px">
+<img src="./960px-Stockrosen_01.jpg" width="600px" alt="960px Stockrosen 01">
 </div>
 {{% /tab %}}
 {{% tab "Luberon周辺" %}}
@@ -336,7 +336,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 薄い板状の白い岩を積み重ねた石垣などがある{{% ex "https://maps.app.goo.gl/6TUoWPJmZXvtFHTF7" "https://maps.app.goo.gl/57wvji9nu8kh5r4R7" "https://maps.app.goo.gl/AhMfiMnEpxZnZe896" "https://maps.app.goo.gl/qHsixk8rN9AtJezw6" "https://maps.app.goo.gl/WWca5kgzyAL8ZxLWA" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./stone_houses_village_luberon.jpg" width="600px">
+<img src="./stone_houses_village_luberon.jpg" width="600px" alt="Stone houses village luberon">
 </div>
 {{% /tab %}}
 {{% tab "ブルターニュ半島・ピレネー山脈周辺" %}}
@@ -344,7 +344,7 @@ Système Uはフランスのスーパーマーケット組合 {{% by "https://en
 Slateという素材が手に入りやすい地域は黒い屋根が多い{{% ref "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%8B%E3%83%A5" "ブルターニュ" %}}。たとえば北西のブルターニュは黒い屋根と石壁や石造りの家が多く感じる{{% ex "https://goo.gl/maps/bVD4uy4Z8d2XgJBVA" %}}。Wikipedia{{% ref "https://fr.wikipedia.org/wiki/Ardoise#R.C3.A9partition_g.C3.A9ographique_des_diff.C3.A9rents_bassins" "Ardoise" %}}に基づくならばSlateが多く生産されていた北西の半島部分・中央のCorrèze付近{{% ex "https://goo.gl/maps/gez9ghkt7HKxdD4f8" %}}・ピレネー山脈付近は黒い屋根が多い。細かい地域は『<a href="https://drive.google.com/file/d/1xgyIFSG1jM2V92cXNUs1K5ZkIAFEKIqt/view">France Tips for Geoguessr</a>』の図を見る。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bretagne_finistere_crozon_2005.jpg" width="600px">
+<img src="./bretagne_finistere_crozon_2005.jpg" width="600px" alt="Bretagne finistere crozon 2005">
 </div>
 {{% /tab %}}
 {{% tab "スイス周辺" %}}
@@ -352,7 +352,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 木の板で作られた家が見つかる{{% ex "https://maps.app.goo.gl/CaiPqBqKeWya1M9E9" "https://maps.app.goo.gl/wC6jew26i2k6QZum8" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./france_houses_houses_france.jpg" width="600px">
+<img src="./france_houses_houses_france.jpg" width="600px" alt="France houses houses france">
 </div>
 {{% /tab %}}
 {{% tab "ベルギー周辺" %}}
@@ -360,7 +360,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 レンガの家が見つかる{{% ex "https://maps.app.goo.gl/sdhnnPMNWekVVPfN8" %}}。写真はAubyの町。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./auby_town_hall_france.jpg" width="600px">
+<img src="./auby_town_hall_france.jpg" width="600px" alt="Auby town hall france">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -403,7 +403,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% /notice %}}
 
 <div class="googlemap-if unclickable" style="pointer-events: none;">
-<img src="./Map-of-France-with-the-various-types-of-farming.png">
+<img src="./Map-of-France-with-the-various-types-of-farming.png" alt="Map of France with the various types of farming">
 </div>
 
 {{% /tab %}}
@@ -444,7 +444,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-07-24-12-29-20.png" width="320px"/>
+<img src="2023-07-24-12-29-20.png" width="320px" alt="2023 07 24 12 29 20" />
 </div>
 
 
@@ -482,21 +482,21 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% notice tip %}}小さい島だが2500m超の山が連なり内陸の道路は険しい山が見える。写真はD27道路{{% ex "https://maps.app.goo.gl/Hxm2crynhhezEh4r6" "https://maps.app.goo.gl/Tea7jn3cAhudXzdR6" %}}？島の東海岸付近以外は平野がほぼ無く、4割の地域が自然公園であり手つかずの自然が残されている。山がち・植林でない森・農業の様子もないならこの島を考えてみる{{% ex "https://maps.app.goo.gl/YoyDz1XdcxPSyEAn9" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corsica_coast_coastal_road_1.jpg" width="95%">
+<img src="./corsica_coast_coastal_road_1.jpg" width="95%" alt="Corsica coast coastal road 1">
 </div>
 {{% /tab %}}
 {{% tab "Noirmoutier島" %}}
 {{% notice tip %}}ノワールムティエ（Noirmoutier）島はラムサール条約に登録されている湿地であり辺り一面が平坦でフランスではかなり珍しい景色をしている{{% ex "https://maps.app.goo.gl/mfVUwHbhG74FyK7L7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%A0%E3%83%86%E3%82%A3%E3%82%A8%E5%B3%B6" "ノワールムティエ島" %}}。水路が多く浮草がたくさん浮かんでいる。オレロン島{{% ex "https://goo.gl/maps/sPAv85hLL5sS4JEJ6" %}}やレ島{{% ex "https://goo.gl/maps/1Dedmn3Ct5YcGbJp6" %}}のような他の西側の島にも似た景色がある。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./salt_marshes_salt_noirmoutier.jpg">
+<img src="./salt_marshes_salt_noirmoutier.jpg" alt="Salt marshes salt noirmoutier">
 </div>
 {{% /tab %}}
 {{% tab "Porquerolles島" %}}
 {{% notice tip %}}舗装されていない道や黄色い看板が多い{{% ex "https://goo.gl/maps/qT9bdCE1x4hJMr5Q6" "https://goo.gl/maps/QrrKgEzm6z3TRyyW9" "https://goo.gl/maps/FtaX127xsrFMr9bZ6" %}}。地中海性気候で周りの木も暖かい感じ{{% ref "https://en.wikipedia.org/wiki/Porquerolles" "Porquerolles" %}}。
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" />
+<img src="./tree_twisted_tortuous_porquerolles.jpg" width="90%" alt="Tree twisted tortuous porquerolles" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -517,14 +517,14 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% notice tip %}}カルスト地形の入り江{{% ex "https://maps.app.goo.gl/uR3K6rFGTZE6RnwA6" "https://maps.app.goo.gl/sDU5UCTWdxAMKP5n8" "https://maps.app.goo.gl/mXTxwmUmEZ1C3e3M6" "https://maps.app.goo.gl/QH7S2smMtFMiEjq86" "https://maps.app.goo.gl/Y5hBvEe9zmYMvm69A" %}}。Marseille郊外はこんな感じのカルスト地形が多い。穴あき電柱やチリ電柱も多いので注意。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./vudeniolon2.jpg" width="95%">
+<img src="./vudeniolon2.jpg" width="95%" alt="Vudeniolon2">
 </div>
 {{% /tab %}}
 {{% tab "Col de la Bonette峠" %}}
 {{% notice tip %}}D64道路が走っている{{% ex "https://maps.app.goo.gl/koNaB65Uo5hv3WB18" "https://maps.app.goo.gl/PTfNt1QboL5G2S499" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./high_alps_pass_road.jpg" width="95%">
+<img src="./high_alps_pass_road.jpg" width="95%" alt="High alps pass road">
 </div>
 {{% /tab %}}
 {{% tab "Aiguille de la Grande Sassière山" %}}
@@ -549,7 +549,7 @@ Slateという素材が手に入りやすい地域は黒い屋根が多い{{% re
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./avenue_sign_street_signs.jpg" width="80%">
+<img src="./avenue_sign_street_signs.jpg" width="80%" alt="Avenue sign street signs">
 </div>
 
 {{% /tab %}}

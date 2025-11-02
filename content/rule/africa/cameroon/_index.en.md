@@ -30,7 +30,7 @@ License plates are often <span class="quiz">orange</span>{{% ref "https://en.wik
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%">
+<img src="/rule/africa/cameroon/Binam_Voyages.jpg" width="95%" alt="Binam Voyages">
 </div>
 
 {{% notice tip %}}
@@ -38,7 +38,7 @@ The northwest region was British Cameroon, and the southeast was {{% goto "../..
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/africa/cameroon/Hotel_Le_Manoir.jpg" width="95%">
+<img src="/rule/africa/cameroon/Hotel_Le_Manoir.jpg" width="95%" alt="Hotel Le Manoir">
 </div>
 
 {{% /tab %}}

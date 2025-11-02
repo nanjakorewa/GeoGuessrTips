@@ -42,12 +42,12 @@ Los postes y logotipos de Chubu Electric Power aparecen en Aichi, Gifu, Mie, la 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px">
+<img src="/rule/asia/japan/pole/pole-chubu.png" width="220px" alt="Pole chubu">
 </div>
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em">
-<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power.svg" width="120px" style="margin-right:2em" alt="CHUBU Electric Power">
+<img src="/rule/asia/japan/chubu/CHUBU_Electric_Power_logo.svg" width="230px" alt="CHUBU Electric Power logo">
 </div>
 
 {{% /tab %}}
@@ -67,7 +67,7 @@ La llanura de Nōbi cubre buena parte de Aichi y ofrece un paisaje extenso y lla
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg">
+<img src="/rule/asia/japan/chubu/nobi_plain_nagoya_from.jpg" alt="Nobi plain nagoya from">
 </div>
 
 {{% /tab %}}
@@ -90,7 +90,7 @@ Se pueden ver bandas espirales como las de la imagen derecha{{% ref "https://www
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px">
+<img src="/rule/asia/japan/pole/pole-hokuriku.png" width="420px" alt="Pole hokuriku">
 </div>
 
 {{% /tab %}}
