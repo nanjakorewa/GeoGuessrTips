@@ -22,6 +22,7 @@ sc: [
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
+        <li>ギリシャ系の住民が多い南キプロスのみが追加されている(2025年11月現在)</li>
         <li>ドメインは<span class="quiz">.cy</span></li>
         <li>白色の独特なボラードが見つかる</li>
         <li><span class="quiz">左側</span>通行</li>
@@ -33,7 +34,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/tkMJ73XJHjJbBAFt8" "https://maps.app.goo.gl/nXf1LafKXNeYZkEE6" %}}。なおかつ左側通行なので左に標識がある。
+白色の独特なボラードが見つかる{{% ex "https://maps.app.goo.gl/fb1Y6dmpDNka3zBd6" "https://maps.app.goo.gl/83LjnjpRREKH3eBYA" %}}。ただしボラードには稀に例外もある{{% ex "https://maps.app.goo.gl/6wo9CrFwkPPvC1P48" %}}。また、左側通行なので左に標識がある。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -42,7 +43,7 @@ sc: [
 
 
 {{% notice tip %}}
-英語・ギリシャ語・トルコ語の表記がある{{% ex "https://maps.app.goo.gl/idhPux9SZCvyn9pm6" "https://maps.app.goo.gl/SW7Z8RpPnFdEK4Re9" "https://maps.app.goo.gl/WLigFsCWd3EGtvmVA" %}}。キプロス自体は紛争状態であり、1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}。
+英語・ギリシャ語の表記がある{{% ex "https://maps.app.goo.gl/9qWshcxeGzChojnz5" "https://maps.app.goo.gl/2cqFkNyjNGyTWnW29" %}}。キプロス自体は紛争状態であり1974年から南北に分断された状態になっている{{% ref "https://www.library.metro.tokyo.lg.jp/search/research_guide/olympic_paralympic/area_studies/index/cyprus/index.html" "キプロス共和国" %}}が、南側のギリシャ系が多い地域のみストリートビューが追加されている。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -52,7 +53,7 @@ sc: [
 
 
 {{% notice tip %}}
-うしろのナンバープレートが黄色のものがいる{{% ex "https://maps.app.goo.gl/QFA52i8Qvq2L8tFx8" "https://maps.app.goo.gl/AeXhmgkaGxJ6nZAy9" %}}。標識や道路標示も{{% goto "../../europe/united-kingdom/" "イギリス" %}}のものが使われていることがある。
+うしろのナンバープレートが黄色のものがいる{{% ex "https://maps.app.goo.gl/fj5uZ3Zn4MSzGmth6" %}}。標識や道路標示も{{% goto "../../europe/united-kingdom/" "イギリス" %}}のものが使われていることがある。
 {{% /notice %}}
 
 {{% lb 50 %}}
@@ -65,6 +66,25 @@ sc: [
 
 Public Domain
 {{% /lb %}}
+
+
+{{% notice tip %}}
+電柱に感電注意のプレートや黄色のプレートが付いていることがある{{% ex "https://maps.app.goo.gl/QKN4itLNmsG7gcZp8" "https://maps.app.goo.gl/Hdz1khi2iwWedwwr8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="Sba GeoGuessr guide image showing Road To Pafos">
+</div>
+
+
+{{% notice tip %}}
+{{% goto "../../europe/greece/" "ギリシャ" %}}と違う点として、シェブロンは赤白のものが多い{{% ex "https://maps.app.goo.gl/WiTzWEZi5MBgNsiz7" "https://maps.app.goo.gl/PmhNnecSkiS7cRth9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="5aaa9a47-b640-44a0-aa61-50078ab368f4.png" width="80%">
+</div>
+
 
 {{% /tab %}}
 {{% /tabs  %}}

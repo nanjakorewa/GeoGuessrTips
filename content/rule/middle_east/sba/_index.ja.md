@@ -66,5 +66,14 @@ sc: [
 Public Domain
 {{% /lb %}}
 
+{{% notice tip %}}
+電柱に感電注意のプレートや黄色のプレートが付いていることがある{{% ex "https://maps.app.goo.gl/QKN4itLNmsG7gcZp8" "https://maps.app.goo.gl/Hdz1khi2iwWedwwr8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./971px-Dirt_road_in_British_Controlled_area_of_Ypsonas_Village_Limassol_12.jpg" width="90%" alt="Sba GeoGuessr guide image showing Road To Pafos">
+</div>
+
+
 {{% /tab %}}
 {{% /tabs  %}}
