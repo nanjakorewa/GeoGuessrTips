@@ -123,11 +123,11 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Public_Force_of_Costa_Rica_emblem.svg.png" width="300px" alt="コスタリカの警察" />
+<img src="Public_Force_of_Costa_Rica_emblem.svg.png" width="200px" alt="コスタリカの警察" />
 </div>
 
 {{% /tab %}}
-{{% tab "タラマンカ山脈" %}}
+{{% tab "リモン港" %}}
 
 {{% notice tip %}}
 リモン港へ高速道路が伸びており、コンテナを運ぶトラックが見受けられる{{% ex "https://maps.app.goo.gl/1NejKE6FDLpDWy5b8" "https://maps.app.goo.gl/3UB82dhRQLpf4aUN8" "https://maps.app.goo.gl/wNxaiswn1kFPrBBx7" %}}。
