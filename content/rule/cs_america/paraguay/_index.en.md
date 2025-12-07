@@ -11,7 +11,6 @@ flag: "PY.svg"
 no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
-is_unofficial: true
 sc_title: "Commonly Confused Regions"
 sc: [
     ["../brazil/", "Brazil"],

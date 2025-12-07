@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" "https://maps.app.goo.gl/AyD13efLNon3uhFJ6" %}}。
+火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" "https://maps.app.goo.gl/AyD13efLNon3uhFJ6" %}}。カリブプレートとココスプレートの間に位置しており、火山が多い国。
 {{% /notice %}}
 
 <div class="googlemap-if">
