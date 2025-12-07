@@ -32,7 +32,7 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-{{% goto "../brazil/" "ブラジル" %}}と同じく仕切りのある電柱が見つかる{{% ex "https://maps.app.goo.gl/1Bx5Nvo7A3YqhWLN8" %}}。一方で、道路にかかるアーチ状の看板もパラグアイ以外はほとんど見かけない{{% ex "https://maps.app.goo.gl/BxkXcTq2bVZQEgfY9" "https://maps.app.goo.gl/MxLPEo3QtHZkJySs5" "https://maps.app.goo.gl/YxPURwUJrdtWY8357" %}}。
+{{% goto "../brazil/" "ブラジル" %}}と同じく仕切りのある電柱が見つかる{{% ex "https://maps.app.goo.gl/1Bx5Nvo7A3YqhWLN8" %}}。一方で、道路にかかるアーチ状の看板はパラグアイ以外はほとんど見かけない{{% ex "https://maps.app.goo.gl/BxkXcTq2bVZQEgfY9" "https://maps.app.goo.gl/MxLPEo3QtHZkJySs5" "https://maps.app.goo.gl/YxPURwUJrdtWY8357" %}}。
 {{% /notice %}}
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg#/media/File:En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/En_la_cabecera_del_Puente_Remanso_-_Ruta_9_-_panoramio.jpg" alt="Wikimedia Commons photo showing En La Cabecera Del Puente Remanso Ruta 9 Panoramio" width="95%"></a></p><p>By Diego Fernando Quint…, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=57731220">Link</a></p>
