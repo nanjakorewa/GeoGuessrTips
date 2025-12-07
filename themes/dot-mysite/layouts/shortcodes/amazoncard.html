@@ -1,0 +1,28 @@
+{{- $url := .Get "url" -}}
+{{- $title := .Get "title" | default "Amazon item" -}}
+{{- $img := .Get "image" -}}
+{{- $price := .Get "price" -}}
+{{- $tagline := .Get "tagline" -}}
+{{- $badge := .Get "badge" -}}
+{{- $placeholder := "data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='320' viewBox='0 0 320 320'><rect width='320' height='320' fill='%23f3f4f6'/><text x='160' y='190' text-anchor='middle' font-size='86' font-family='Arial, sans-serif' font-weight='800' fill='%23999'>?</text></svg>" | safeURL -}}
+
+<div class="amazon-card">
+  <a class="amazon-card__image" href="{{ $url }}" target="_blank" rel="noopener noreferrer sponsored">
+    <img src="{{ if $img }}{{ $img }}{{ else }}{{ $placeholder }}{{ end }}" alt="{{ $title }}" class="no-lightbox">
+    {{- with $badge -}}
+      <span class="amazon-card__badge">{{ . }}</span>
+    {{- end -}}
+  </a>
+  <div class="amazon-card__body">
+    <h3 class="amazon-card__title">
+      <a href="{{ $url }}" target="_blank" rel="noopener noreferrer sponsored">{{ $title }}</a>
+    </h3>
+    {{- with $tagline -}}
+      <p class="amazon-card__tagline">{{ . }}</p>
+    {{- end -}}
+    {{- with $price -}}
+      <p class="amazon-card__meta">価格: {{ . }}</p>
+    {{- end -}}
+    <a class="amazon-card__cta" href="{{ $url }}" target="_blank" rel="noopener noreferrer sponsored">Amazonで見る</a>
+  </div>
+</div>

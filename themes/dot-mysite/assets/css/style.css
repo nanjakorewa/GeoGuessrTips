@@ -1137,6 +1137,127 @@ li.dontshowarea {
   text-decoration: none;
 }
 
+.amazon-card {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  gap: 14px;
+  align-items: stretch;
+  border: 1px solid #e5e7eb;
+  border-radius: 10px;
+  padding: 14px;
+  background: linear-gradient(145deg, #ffffff 0%, #f7f8fa 100%);
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
+  margin: 1.5rem 0;
+}
+
+.amazon-card__image {
+  position: relative;
+  display: block;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #fff;
+  border: 1px solid #eceef1;
+  min-height: 140px;
+}
+
+.amazon-card__image img {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-height: 240px;
+  object-fit: contain;
+  padding: 8px;
+  transition: transform 0.2s ease;
+}
+
+.amazon-card__image:hover img {
+  transform: scale(1.02);
+}
+
+.amazon-card__badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  background: #ff9900;
+  color: #111;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 4px 8px;
+  border-radius: 6px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.amazon-card__body {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.amazon-card__title {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.35;
+}
+
+.amazon-card__title a {
+  color: #1a1f36;
+  text-decoration: none;
+}
+
+.amazon-card__title a:hover {
+  color: #c45500;
+  text-decoration: underline;
+}
+
+.amazon-card__tagline {
+  margin: 0;
+  color: #4b5563;
+  font-size: 0.95rem;
+}
+
+.amazon-card__meta {
+  margin: 0;
+  color: #111827;
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.amazon-card__cta {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 14px;
+  margin-top: auto;
+  width: fit-content;
+  background: linear-gradient(90deg, #ffb347, #ffcc33);
+  color: #111;
+  font-weight: 700;
+  text-decoration: none;
+  border-radius: 8px;
+  box-shadow: 0 8px 20px rgba(255, 153, 0, 0.2);
+  transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.amazon-card__cta:hover {
+  transform: translateY(-1px);
+  box-shadow: 0 12px 24px rgba(255, 153, 0, 0.25);
+}
+
+.amazon-card__cta:active {
+  transform: translateY(0);
+}
+
+@media (max-width: 640px) {
+  .amazon-card {
+    grid-template-columns: 1fr;
+  }
+
+  .amazon-card__image {
+    max-width: 240px;
+    justify-self: center;
+  }
+}
+
 .floating-share-group {
   position: fixed;
   right: 24px;
