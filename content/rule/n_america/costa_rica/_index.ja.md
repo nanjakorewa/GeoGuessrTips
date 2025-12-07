@@ -58,14 +58,6 @@ sc: [
 </div>
 
 {{% notice tip %}}
-火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" %}}。国内のいろいろな場所で歩いている。流石に場所の特定まではできなさそう。
-{{% /notice %}}
-
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1718907192354!6m8!1m7!1sLyK4tVfngidC-ng-3gSiEA!2m2!1d10.04577082160527!2d-84.26301217300175!3f203.0279562875457!4f4.393129302166031!5f0.4000000000000002" width="90%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-
-{{% notice tip %}}
 国営通信会社 ICE（Instituto Costarricense de Electricidad）のkölbiの看板が見つかる{{% ex "https://maps.app.goo.gl/NAQT92R3yMtMcy177" "https://maps.app.goo.gl/wBVeygBQ4F7jt92g8" %}}{{% ref "https://es.wikipedia.org/wiki/K%C3%B6lbi" "Kölbi" %}}。プリペイドのチャージなどができるスポットに看板がある。
 {{% /notice %}}
 
