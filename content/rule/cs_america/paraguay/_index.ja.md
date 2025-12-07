@@ -60,6 +60,17 @@ CC0
 {{% /tabs %}}
 
 
+<div class="image-row-booth">
+    <h2>パラグアイ関連グッズ</h2>
+    <div class="image-item-lg">
+        <a href="https://amzn.to/3MlK0JA" target="_blank">
+            <img src="82105.jpg" class="knowbook">
+        </a>
+        <!-- <div class="caption">商品タイトル1</div>-->
+    </div>
+</div>
+
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

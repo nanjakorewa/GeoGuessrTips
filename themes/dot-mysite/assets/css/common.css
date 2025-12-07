@@ -2330,6 +2330,14 @@ table.compare-table tr td {
   padding-bottom: 0;
 }
 
+
+.image-item-lg img.knowbook {
+  width: 180px !important;
+  height: 225px !important;
+  object-fit: contain !important;
+}
+
+
 .sidebar-search {
   margin-bottom: 1.5rem;
 }

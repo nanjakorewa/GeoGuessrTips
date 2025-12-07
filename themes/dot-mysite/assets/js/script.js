@@ -179,6 +179,10 @@
     if ($img.closest('.flag-list').length) {
       return false;
     }
+    // Images in the booth row should follow their links instead of opening the lightbox
+    if ($img.closest('.image-row-booth').length) {
+      return false;
+    }
     return true;
   }
 
