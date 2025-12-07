@@ -50,7 +50,7 @@ sc: [
 
 
 {{% notice tip %}}
-火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" %}}。国内のいろいろな場所で歩いている。流石に場所の特定まではできなさそう。
+火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" "https://maps.app.goo.gl/AyD13efLNon3uhFJ6" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -63,6 +63,62 @@ sc: [
 
 <div class="googlemap-if unclickable">
 <img src="kolbi-costa-rica-logo.png.webp" width="300px" alt="kölbi" />
+</div>
+
+{{% /tab %}}
+{{% /tabs  %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">南部に行くほどタラマンカ山脈が広がり高い山が多くなる
+            <ul>
+                <li>南部{{% ex "https://maps.app.goo.gl/oR2tT57RFYZEE48h9" "https://maps.app.goo.gl/zgw4EaaiyjNKNwgC9" "https://maps.app.goo.gl/1ZjQ1y5Sd1ubJKHE6" %}}</li>
+                <li>北部{{% ex "https://maps.app.goo.gl/QCNZbDL8A8MhgVMZ6" "https://maps.app.goo.gl/z7sGQjKvTqfpSrs16" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "タラマンカ山脈" %}}
+
+{{% notice tip %}}
+山脈内部には道はなく、山脈の両サイドに道がある。熱帯雨林や雲霧林が広がり、周りの道沿いも緑が多い{{% ex "https://maps.app.goo.gl/Ne1YFSjZkkZbXzh16" "https://maps.app.goo.gl/kJKrKj46yQuopjMy8" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./Costaricabasemap.png" width="90%" alt="Topographic maps of Costa Rica" />
+</div>
+{{% /tab %}}
+{{% /tabs  %}}
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>コスタリカ最大の港Puerto Limónにつながる道ではコンテナを運ぶトラックが多い</li>
+        <li>国境を超えるPaso Canoas{{% ex "https://maps.app.goo.gl/CVCNpnFQUDbHDJzZ9" %}}・Peñas Blancas{{% ex "https://maps.app.goo.gl/42rpjYKw4YqvPEmu9" %}}でもトラックの渋滞が多い</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "タラマンカ山脈" %}}
+
+{{% notice tip %}}
+リモン港へ高速道路が伸びており、コンテナを運ぶトラックが見受けられる{{% ex "https://maps.app.goo.gl/1NejKE6FDLpDWy5b8" "https://maps.app.goo.gl/3UB82dhRQLpf4aUN8" "https://maps.app.goo.gl/wNxaiswn1kFPrBBx7" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="dock_container_export_cargo_0.jpg" width="90%" alt="コンテナの例" />
+</div>
+
+{{% /tab %}}
+{{% tab "国境" %}}
+
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:Nicaragua-Costa_Rica_border.jpg#/media/File:Nicaragua-Costa_Rica_border.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Nicaragua-Costa_Rica_border.jpg" alt="Nicaragua-Costa Rica border.jpg" height="719" width="1280"></a></p><p>By Brian Johnson &amp; Dane Kantner - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/danebrian/6806375700/">https://www.flickr.com/photos/danebrian/6806375700/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=141535714">Link</a></p>
 </div>
 
 {{% /tab %}}
