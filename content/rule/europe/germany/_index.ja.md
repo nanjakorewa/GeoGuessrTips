@@ -176,6 +176,12 @@ products:
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/3Kscu3P" 
+    title="現代ドイツを知るための67章【第3版】(エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="文化、生活から国民性、さらに移民、ジェンダー、環境問題まで、世間に断片として氾濫している情報を整理、有機的につなげ全体像を示す。最新のドイツの実情を鳥瞰的に把握するとともに、今後ドイツがどこへ向かうのかを理解するための好個の一冊。EUの最新動向の他、「日本のなかのドイツ」の部を加えた第3版。"
+>}} 
 
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

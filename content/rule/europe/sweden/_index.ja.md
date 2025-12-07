@@ -171,6 +171,12 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/4iJuIdQ" 
+    title="スウェーデンを知るための64章【第2版】(エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="スウェーデンの地理・歴史・言語・文学などを専門の執筆陣が懇切に記述。現代の政治・外交・軍事・教育・福祉だけでなく、映画・アニメ・スポーツなど市民の暮らしも具体的に紹介。2020年以降のコロナ事情やNATOとの関係にも触れ、スウェーデンの全貌を明らかにする。"
+>}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

@@ -160,6 +160,14 @@ Fortlevと書かれたタンクがある{{% ref "https://www.fortlev.com.br/cate
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/4rNcoog" 
+    title="食文化からブラジルを知るための55章 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="世界の中で最も劇的に多人種・多民族的な国となったブラジルは自然環境や生物群系も多様で、世界に類を見ないほど多様な食文化がある。シュラスコやフェイジョアーダといった代表的な料理だけでなく、基層の食文化と移民の食文化、ブラジルの食習慣や酒場文化までを網羅した究極の入門書！"
+>}} 
+
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

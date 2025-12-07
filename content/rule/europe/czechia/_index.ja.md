@@ -149,6 +149,12 @@ sc: [
 {{% /tabs %}}
 
 
+{{< amazoncard
+    url="https://amzn.to/48Wri3Z" 
+    title="チェコを知るための60章 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="プラハ城をはじめ数々の歴史遺産が現代に息づくチェコ。チェコスロヴァキア独立運動から社会主義化・崩壊への道、EU加盟から現在の政治動向までを明解に描き出し、特に個性あふれるチェコの芸術・文学等に焦点をあて大幅にグレードアップしたチェコ理解の必読書！"
+>}} 
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>

@@ -105,6 +105,14 @@ plonk itによるとこの山の形の電柱もウルグアイの特徴らしい
 {{% /tab %}}
 {{% /tabs %}}
 
+
+{{< amazoncard
+    url="https://amzn.to/4a7dULD" 
+    title="ウルグアイを知るための60章 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="サッカー強豪国、牛肉の産地としても知られる南米の国ウルグアイ。1980~90年代には多国間交渉ウルグアイ・ラウンドの舞台になり、近年は「世界一貧しい大統領」が話題を呼んだ。諸分野の専門家が結集し、国の全体像を提示する初めてのウルグアイ入門書。"
+>}} 
+
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

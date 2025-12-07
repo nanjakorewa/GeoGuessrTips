@@ -98,6 +98,13 @@ By <a href="//commons.wikimedia.org/w/index.php?title=User:A._L._(loading)&amp;a
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/3XZhwbj" 
+    title="ロシア極東・シベリアを知るための70章 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="「エリア・スタディーズ」シリーズの1冊。広大なロシアの国土のうち、おもにウラル山脈以東、沿海州までの自治共和国・自治州を網羅的に紹介する待望の書。小辞典の役割も果たす。今般のウクライナ戦争でもこの地の一部から多くの若者が戦場に赴き斃れた。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

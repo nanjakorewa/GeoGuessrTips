@@ -142,6 +142,14 @@ POCZTA（ポスト、赤い）
 {{% /tabs %}}
 
 
+{{< amazoncard
+    url="https://amzn.to/4rGoFuD" 
+    title="ポーランドの歴史を知るための56章【第2版】 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="ポーランドの歴史を知るための簡便な1冊で、その執筆陣には今日第一線で活躍するわが国のポーランド史研究者が顔をそろえた。どの章、どのコラムからも読め、十分ポーランド史の概略を掴むことができる、待望の第2版。"
+>}} 
+
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

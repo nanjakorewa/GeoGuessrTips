@@ -53,6 +53,13 @@ Googleカーに黒色の４本のゴムが見える。
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/3KMTe11" 
+    title="ドミニカ共和国を知るための60章【第2版】(エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="カリブ海の島国ドミニカ共和国。野球が盛んで米国MLBの外国人選手では最多、来日選手の活躍や日本選手の現地冬季リーグ派遣なども定着している。近年力の入る観光産業はコロナ禍からも驚くべき早さで復活を遂げた。最新事情を拾い上げ、ドミニカ共和国を広く深く紹介する12年ぶりの改訂版。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
