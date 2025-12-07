@@ -91,6 +91,14 @@ Keke-napepと呼ばれる小型タクシーが町を走っている{{% ex "https
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/3KNNnbL" 
+    title="ナイジェリアを知るための56章　(エリアスタディーズ)"
+    price="¥2,640"
+    tagline="アフリカ西部のナイジェリアは2億超の人口を擁し、GDPもアフリカ最大を誇る。独立以降複雑な地域間の対立や政治的不安定を経て潜在力を十分に発揮してきたとはいえないが、今後の世界経済に対していよいよ存在感を増すであろう「アフリカの巨人」の実像を紹介。"
+>}} 
+
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <h4 class="section-title">植生と標高</h2>

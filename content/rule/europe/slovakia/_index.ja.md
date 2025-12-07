@@ -159,6 +159,12 @@ sc: [
 {{% /tab %}}
 {{% /tabs  %}}
 
+{{< amazoncard
+    url="https://amzn.to/3XBkwud" 
+    title="スロヴァキアを知るための64章　(エリアスタディーズ)"
+    price="¥2,200"
+    tagline="山地や農業に適した平地が広がるスロヴァキアはポーランドやウクライナなど様々な国と接し、地域によって生活が大きく異なる。村や小都市では民俗文化が花開き、現在でも古き良き文化が色濃く残る。チェコスロヴァキア解体から30年。スロヴァキアが最もよく、深くわかる決定版誕生！"
+>}} 
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>

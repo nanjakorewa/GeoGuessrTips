@@ -100,8 +100,6 @@ sc: [
 </div>
 
 
-
-
 {{% notice tip %}}
 シェブロンの色や枠がバルト三国で異なる。下の図は左から<span class="quiz">エストニア</span>・<span class="quiz">ラトビア</span>・<span class="quiz">リトアニア</span>{{% ref "https://www.reddit.com/r/geoguessr/comments/wquv61/how_to_tell_baltic_countries_apart_20_expanded/" "How to tell Baltic countries apart 2.0: Expanded edition" %}}。
 {{% /notice %}}
@@ -122,3 +120,11 @@ sc: [
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+
+{{< amazoncard
+    url="https://amzn.to/3MszO1S" 
+    title="ラトヴィアを知るための47章　(エリアスタディーズ)"
+    price="¥2,200"
+    tagline="バルト三国の一つラトヴィアは日本との関係が意外に深い。バルチック艦隊の母港リエパーヤがラトヴィアにあることを知る人も多いだろう。日本文学の紹介も早くから盛んで、俳句を好む人も多い。本書は、ラトヴィアの基本的情報収めた格好の案内所なる内容となっている。"
+>}} 

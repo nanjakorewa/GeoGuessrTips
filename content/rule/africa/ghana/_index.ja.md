@@ -90,6 +90,13 @@ sc: [
 {{% /tabs %}}
 
 
+{{< amazoncard
+    url="https://amzn.to/4ptvbTW" 
+    title="ガーナを知るための57章【第2版】(エリアスタディーズ)"
+    price="¥2,640"
+    tagline="チョコレートの原料はカカオで、日本はその約8割をガーナより輸入。また、黄熱病の研究の野口英世博士など日本とつながりのあるガーナは2008年選挙により平和裏に政権交代が行われた。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
