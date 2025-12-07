@@ -324,6 +324,17 @@ sc: [
 </div>
 
 {{% /tab %}}
+{{% tab "ドラゴンフルーツ" %}}
+{{% notice tip %}}
+ドラゴンフルーツはBình Thuận省の大規模な農園の生産が多く{{% ex "https://maps.app.goo.gl/XDAnqjVmGzpWxAHv7" "https://maps.app.goo.gl/r9Y95fNUxbFEw9RD8" "https://maps.app.goo.gl/fpLx9MSW9rLjmcCR9" %}}、2024年には約4億4200万米ドルを超える輸出をしておりベトナム輸出の主力商品となっている{{% ref "https://wkvetter.com/?p=64947" "ドラゴンフルーツ、輸出トップから急転" %}}。ただし写真はマレーシアのもの。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:HL_Dragon_Fruit_Eco_Farm_(230625)_02.jpg#/media/File:HL_Dragon_Fruit_Eco_Farm_(230625)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/HL_Dragon_Fruit_Eco_Farm_%28230625%29_02.jpg" alt="File:HL Dragon Fruit Eco Farm (230625) 02.jpg" height="720" width="960"></a></p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:*angys*" class="mw-redirect" title="User:*angys*">*angys*</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=136682390">Link</a></p>
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">

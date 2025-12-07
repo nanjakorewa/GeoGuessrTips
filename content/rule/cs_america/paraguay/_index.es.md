@@ -24,7 +24,6 @@ sc: [
         <li>El dominio del país es <span class="quiz">.py</span>.</li>
         <li class="no-evidence">Las señales de control de acceso suelen ser negras y abundan los postes rojos y blancos.</li>
         <li class="no-evidence">El relieve es casi completamente llano y hay muy pocas montañas.</li>
-        <li class="no-evidence">La cobertura oficial de Google se limita prácticamente a los tramos fronterizos transitados desde el lado paraguayo.</li>
     </ul>
 </div>
 

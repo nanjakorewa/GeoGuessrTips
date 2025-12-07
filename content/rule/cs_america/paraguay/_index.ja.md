@@ -24,7 +24,6 @@ sc: [
         <li>ドメインは<span class="quiz">.py</span></li>
         <li class="no-evidence">アスンシオンの通り看板は黒いことが多い</li>
         <li class="no-evidence">全体的に平坦で山がほぼ無い</li>
-        <li class="no-evidence">Google公式のカバレッジは国境ギリギリでパラグアイ側の道路を走った場合を除いて無い</li>
     </ul>
 </div>
 

@@ -22,10 +22,11 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>ドメインは<span class="quiz">.co.cr</span></li>
-        <li>後ろのナンバープレートが<span class="quiz">白</span>背景に<span class="quiz">青</span>文字</li>
-        <li><span class="quiz">徒歩</span>での撮影ばかりでありサン・ホセ周辺が多い</li>
+        <li>車は<span class="quiz">右</span>側通行</li>
+        <li>ナンバープレートが<span class="quiz">白</span>背景に<span class="quiz">青</span>文字</li>
         <li>とまれが「<span class="quiz">ALTO</span>」はコスタリカ・{{% goto "../mexico/" "メキシコ" %}}・{{% goto "../guatemala/" "グアテマラ" %}}・{{% goto "../panama/" "パナマ" %}}のどれか</li>
-        <li>暗い色の砂浜の上を歩いている</li>
+        <li>火山があり黒っぽい土のエリアが多い</li>
+        <li>標識の棒はシルバーで裏側にクロスがあることも{{% ex "https://maps.app.goo.gl/QPrsf8ez8ghpRqL46" %}}</li>
     </ul>
 </div>
 
@@ -33,37 +34,44 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-後ろのナンバープレートが白背景に青文字が多い{{% ex "https://goo.gl/maps/s64SxiuWMRpySiP36" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/gGGogQKkGbfVVv4E7" "https://goo.gl/maps/AeiypzDff9piNJtd6" %}}
+ナンバープレートは白背景に青文字が多い{{% ex "https://maps.app.goo.gl/6qm7FryjH3q7ktks8" "https://maps.app.goo.gl/EfMZBMZ29XMmEBhK6" "https://maps.app.goo.gl/6SBvmDEkP8TW2YDm8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="450px" alt="Costa Rica GeoGuessr guide image showing Car" />
-</div>
-
-
-{{% lb %}}
-![](2023-05-08-00-31-54.png)
-
-By Zcarstvnz - This file has been extracted from another file, <a href="https://creativecommons.org/licenses/by-sa/4.0/deed.ja">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=92156353">Wikimedia Commons(Link)</a>
-{{% /lb %}}
-
-
-{{% notice tip %}}
-少し黒い色の砂浜の上を歩いている{{% ex "https://goo.gl/maps/bgvHTPim84tpDgVE9" "https://goo.gl/maps/ErpF9xwi6YTwUBWp8" "https://goo.gl/maps/KUxVKAC39XEUrwCe8" "https://goo.gl/maps/3PrEtxerg9emYpE3A" "https://goo.gl/maps/EVoeDKB99iX2fNrU9" "https://goo.gl/maps/ox5mvmcrrJNtxqQz9" "https://goo.gl/maps/ik2xgcXVJtEjDdzZ8" %}}
-{{% /notice %}}
-
-<div class="googlemap-if unclickable">
-<img src="beach.png" width="85%" alt="Costa Rica GeoGuessr guide image showing Beach" />
+<img src="./car.jpg" width="70%" alt="Costa Rica GeoGuessr guide image showing Car" />
 </div>
 
 
 {{% notice tip %}}
-火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌の森を歩いている{{% ex "https://goo.gl/maps/UKV26kpZ8pjHvVkT7" "https://goo.gl/maps/aYpeGc3Y3wmyV8Vo9" "https://goo.gl/maps/aFSZofb14GS42cHh6" "https://goo.gl/maps/fEbjVCbJgmBbeU6c9" "https://goo.gl/maps/4agyXkga9cRC8G2y8" %}}。国内のいろいろな場所で歩いている。流石に場所の特定まではできなさそう。
+灰色の□やコの形{{% ex "https://maps.app.goo.gl/AjXGEiE6wx7biJ2k6" %}}のポールを使った標識が多い。標識の裏にクロスがあることもある{{% ex "https://maps.app.goo.gl/HWwnq4wCBAZp8Ca6A" "https://maps.app.goo.gl/DFpDbRrEHbs6jU3w6" "https://maps.app.goo.gl/rk9BkaUopCo7t3Rt5" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./00.jpg" width="90%" alt="Costa Rica image" />
+</div>
+
+
+{{% notice tip %}}
+火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" %}}。国内のいろいろな場所で歩いている。流石に場所の特定まではできなさそう。
 {{% /notice %}}
 
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1718907192354!6m8!1m7!1sLyK4tVfngidC-ng-3gSiEA!2m2!1d10.04577082160527!2d-84.26301217300175!3f203.0279562875457!4f4.393129302166031!5f0.4000000000000002" width="95%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1718907192354!6m8!1m7!1sLyK4tVfngidC-ng-3gSiEA!2m2!1d10.04577082160527!2d-84.26301217300175!3f203.0279562875457!4f4.393129302166031!5f0.4000000000000002" width="90%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
+{{% notice tip %}}
+火山灰による肥沃な土地が広がっており、かなり黒っぽい土壌が多い{{% ex "https://maps.app.goo.gl/2LPtFiqPudbRS9uu7" "https://maps.app.goo.gl/iJhM4hiwxPHCN1xX6" %}}。国内のいろいろな場所で歩いている。流石に場所の特定まではできなさそう。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1718907192354!6m8!1m7!1sLyK4tVfngidC-ng-3gSiEA!2m2!1d10.04577082160527!2d-84.26301217300175!3f203.0279562875457!4f4.393129302166031!5f0.4000000000000002" width="90%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+国営通信会社 ICE（Instituto Costarricense de Electricidad）のkölbiの看板が見つかる{{% ex "https://maps.app.goo.gl/NAQT92R3yMtMcy177" "https://maps.app.goo.gl/wBVeygBQ4F7jt92g8" %}}{{% ref "https://es.wikipedia.org/wiki/K%C3%B6lbi" "Kölbi" %}}。プリペイドのチャージなどができるスポットに看板がある。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="kolbi-costa-rica-logo.png.webp" width="300px" alt="kölbi" />
+</div>
 
 {{% /tab %}}
 {{% /tabs  %}}

@@ -2446,7 +2446,7 @@ window.JSMaps.maps.world = {
             "abbreviation": "PY",
             "textX": 0,
             "textY": 0,
-			"color": "#666666",
+			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
             "url": "./cs_america/paraguay/",

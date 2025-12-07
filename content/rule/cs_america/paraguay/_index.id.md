@@ -24,7 +24,6 @@ sc: [
         <li>Domainnya adalah <span class="quiz">.py</span></li>
         <li class="no-evidence">Papan nama jalan di Asunción sering berwarna hitam</li>
         <li class="no-evidence">Secara keseluruhan datar, hampir tidak ada gunung</li>
-        <li class="no-evidence">Cakupan resmi Google terbatas pada area yang mendekati perbatasan Paraguay</li>
     </ul>
 </div>
 

@@ -44,7 +44,7 @@ sc: [
 
 
 {{% notice info %}}
-{{% goto "../../n_america/mexico/" "メキシコ" %}}のチワワ州の看板にもクロスがあることをついでに覚えておくといつか役に立つかも{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}（チワワクロス？）。
+{{% goto "../../n_america/mexico/" "メキシコ" %}}のチワワ州の看板にもクロスがあることをついでに覚えておくといつか役に立つかも{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}（チワワクロス？）。また{{% goto "../../n_america/costa_rica/" "コスタリカ" %}}にもクロスのある標識が見つかる。
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
 <img src="./road-sign-example.jpg" width="85%" alt="Colombia GeoGuessr guide image showing Road Sign Example" />

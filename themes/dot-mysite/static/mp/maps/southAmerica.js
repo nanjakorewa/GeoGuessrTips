@@ -102,7 +102,7 @@ window.JSMaps.maps.southAmerica = {
 			"abbreviation": "PY",
 			"textX": 235,
 			"textY": 367,
-			"color": "#666666",
+			"color": "#5E90B3",
 			"hoverColor": "#FFC259",
 			"selectedColor": "#E06026",
 			"url": "./paraguay/",

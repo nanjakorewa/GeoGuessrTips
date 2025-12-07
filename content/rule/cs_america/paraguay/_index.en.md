@@ -24,7 +24,6 @@ sc: [
         <li>The country domain is <span class="quiz">.py</span>.</li>
         <li class="no-evidence">Access-control signs are often black, and red-and-white poles are common.</li>
         <li class="no-evidence">Terrain is generally flat with very few mountains.</li>
-        <li class="no-evidence">Google’s official coverage is limited to border areas when driving on the Paraguayan side.</li>
     </ul>
 </div>
 
