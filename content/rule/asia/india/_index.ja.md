@@ -177,6 +177,13 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/4iIaGQR" 
+    title="インド北東部を知るための45章　(エリアスタディーズ)"
+    price="¥1,760"
+    tagline="アッサム州はじめ8つの州からなるインド北東部は、民族的・文化的・宗教的に際だった特徴を持つとともに、近年開発の重点地域となり、日本とも縁深い。本書は地理から政治まで網羅し、この地域の多様性と複雑な歴史が織りなす魅力を紐解き、インド北東部の独自性を深く探る。"
+>}} 
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

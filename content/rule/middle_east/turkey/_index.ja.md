@@ -159,6 +159,13 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/49XKaRa" 
+    title="トルコを知るための53章　(エリアスタディーズ)"
+    price="¥1,760"
+    tagline="ヒッタイト誕生からアレクサンドロスの東征、イスラム圏の浸透、オスマン帝国の興亡、共和国による世俗主義の選択、EUとアジアをつなぐ現在まで、アナトリアの歴史は波乱に富みながらも多彩な文化をたたえてきた。その歴史と文化、政治、経済を1冊に凝縮。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
