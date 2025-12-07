@@ -70,6 +70,13 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/48yfyEV" 
+    title="現代ベトナムを知るための63章【第3版】 (エリア・スタディーズ39)"
+    price="¥2,200"
+    tagline="ベトナムのいまがわかる本書が10年振りに全面改訂。第3版はコロナ禍以降の政府や市民の動き、ベトナムの多様性、社会問題に焦点を当て大幅にボリュームアップ。ベトナムと緊密な関係性を結び、人的交流が盛んな日本にとっても直視すべき論点がここにある。"
+>}} 
+
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
@@ -201,6 +208,7 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs %}}
+
 
 <div class="main-desciption area-description">
     <h4 class="section-title">農業</h4>

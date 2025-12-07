@@ -101,6 +101,14 @@ maps: [
 {{% /tab %}}
 {{% /tabs %}}
 
+
+{{< amazoncard
+    url="https://amzn.to/48qvQzz" 
+    title="台湾を知るための72章【第2版】 (エリア・スタディーズ147)"
+    price="¥2,200"
+    tagline="現在、国際社会においてその存在感を増す一方で、地域情勢の変動で耳目を集める台湾。本書は旧版をバージョンアップし、この地に関する基本的な知識を提供するとともに、最新の情報を盛り込む、台湾入門書である。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

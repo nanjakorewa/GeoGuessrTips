@@ -60,15 +60,12 @@ CC0
 {{% /tabs %}}
 
 
-<div class="image-row-booth">
-    <h2>パラグアイ関連グッズ</h2>
-    <div class="image-item-lg">
-        <a href="https://amzn.to/3MlK0JA" target="_blank">
-            <img src="82105.jpg" class="knowbook">
-        </a>
-        <!-- <div class="caption">商品タイトル1</div>-->
-    </div>
-</div>
+{{< amazoncard
+    url="https://amzn.to/48E7Doi" 
+    title="パラグアイを知るための50章 (エリアスタディーズ86)"
+    price="¥2,480"
+    tagline="南米大陸内陸の小国、パラグアイ。ブラジルとアルゼンチンという大国に接しながらも、先住民グアラニーのアイデンティティを取り込みつつ独自の発展を模索している。実は意外に深い日本とのつながりをはじめ、パラグアイの魅力を様々な角度から紹介する。"
+>}} 
 
 
 <div class="main-desciption area-description">
