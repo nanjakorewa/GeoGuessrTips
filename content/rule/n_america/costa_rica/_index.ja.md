@@ -60,11 +60,11 @@ sc: [
 </div>
 
 {{% notice tip %}}
-黄色の消火栓が多い{{% ex "https://maps.app.goo.gl/kswMjnivBa3MTuQr5" "https://maps.app.goo.gl/AsALzAzFX9ntWd6C8" "https://maps.app.goo.gl/5mCw5UqULA1iTtwv7" %}}{{% ref "https://es.wikipedia.org/wiki/K%C3%B6lbi" "Kölbi" %}}。プリペイドのチャージなどができるスポットに看板がある。
+黄色の消火栓が多い{{% ex "https://maps.app.goo.gl/kswMjnivBa3MTuQr5" "https://maps.app.goo.gl/AsALzAzFX9ntWd6C8" "https://maps.app.goo.gl/5mCw5UqULA1iTtwv7" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="fire_hydrant_fire_fighting.jpg" width="400px" />
+<img src="fire_hydrant_fire_fighting.jpg" width="350px" />
 </div>
 
 {{% notice tip %}}
