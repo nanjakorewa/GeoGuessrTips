@@ -136,7 +136,12 @@ SDN BHD、BHDはマレーシアでは～会社、～公開会社の意味
 {{% /tab %}}
 {{% /tabs %}}
 
-
+{{< amazoncard
+    url="https://amzn.to/3KDtDaD" 
+    title="マレーシアを知るための58章 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="マレーシアは、インドシナ半島南部に位置するマレー半島部と南シナ海をはさむボルネオ島の、民族構成や社会構造など異なった2つの地域を主たる領土としている。本書では異なる要素を内包しつつそれを結び付けて成り立っている魅力に溢れるこの国を紹介する。"
+>}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

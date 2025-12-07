@@ -112,6 +112,13 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/4a3oYta" 
+    title="ラオスを知るための60章【第2版】 (エリア・スタディーズ)"
+    price="¥2,640"
+    tagline="豊かな自然とゆったりと流れる時間、そこに暮らす人々の温かさが魅力の国、ラオス。しかし、近年町並みは目まぐるしく変化し、それによってさまざまな社会問題や意識の変化が生まれている――。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">

@@ -67,10 +67,15 @@ import_jquery_36: true
 <iframe src="https://www.google.com/maps/embed?pb=!4v1692461958189!6m8!1m7!1sufcExAzNyVK6kTioAmKXyw!2m2!1d38.12472280191126!2d128.3102625946252!3f112.39219960263972!4f-8.431733233949728!5f1.7427477120226769" width="400" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-
 {{% /tab %}}
 {{% /tabs %}}
 
+{{< amazoncard
+    url="https://amzn.to/4pruASK" 
+    title="現代韓国を知るための61章【第3版】 (エリア・スタディーズ147)"
+    price="¥2,200"
+    tagline="大きく動き変わろうとする東アジア、なかでも昨今緊張する日韓関係。そもそも韓国とは何か、その国土から、成り立ちの歴史、経済の変遷を説き、社会問題や文化事象に触れ、今の韓国を理解する手引きとなる1冊。"
+>}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
