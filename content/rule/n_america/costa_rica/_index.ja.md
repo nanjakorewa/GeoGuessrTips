@@ -72,6 +72,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
+        <li>Guanacaste(最も北西の州)は降水量が他の地域よりも少なく乾いた地形も多い</li>
         <li class="no-evidence">南部に行くほどタラマンカ山脈が広がり高い山が多くなる
             <ul>
                 <li>南部{{% ex "https://maps.app.goo.gl/oR2tT57RFYZEE48h9" "https://maps.app.goo.gl/zgw4EaaiyjNKNwgC9" "https://maps.app.goo.gl/1ZjQ1y5Sd1ubJKHE6" %}}</li>
@@ -83,6 +84,16 @@ sc: [
 
 
 {{% tabs %}}
+{{% tab "Guanacaste" %}}
+
+{{% notice tip %}}
+降水量が他よりも少なく熱帯雨林も少ない{{% ex "https://maps.app.goo.gl/BTrCm5ZxsiKYiX9K9" "https://maps.app.goo.gl/hHua3Eef25piVpLs9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./pampa_guanacasteca.jpg" width="90%" alt="Topographic maps of Costa Rica" />
+</div>
+{{% /tab %}}
 {{% tab "タラマンカ山脈" %}}
 
 {{% notice tip %}}
@@ -98,12 +109,24 @@ sc: [
 <div class="main-desciption city-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
+        <li>コスタリカ公共警察の交番に相当する建物には地名が書いてある。</li>
         <li>コスタリカ最大の港Puerto Limónにつながる道ではコンテナを運ぶトラックが多い</li>
         <li>国境を超えるPaso Canoas{{% ex "https://maps.app.goo.gl/CVCNpnFQUDbHDJzZ9" %}}・Peñas Blancas{{% ex "https://maps.app.goo.gl/42rpjYKw4YqvPEmu9" %}}でもトラックの渋滞が多い</li>
     </ul>
 </div>
 
 {{% tabs %}}
+{{% tab "コスタリカ公共警察" %}}
+
+{{% notice tip %}}
+交番に地名が書いてある{{% ex "https://maps.app.goo.gl/H24x3cDG9vD5Kin99" "https://maps.app.goo.gl/cuVTRXvuAzF9qmi66" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="Public_Force_of_Costa_Rica_emblem.svg.png" width="300px" alt="コスタリカの警察" />
+</div>
+
+{{% /tab %}}
 {{% tab "タラマンカ山脈" %}}
 
 {{% notice tip %}}
@@ -117,7 +140,7 @@ sc: [
 {{% /tab %}}
 {{% tab "国境" %}}
 
-<div class="googlemap-if unclickable">
+<div class="googlemap-if unclickable no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Nicaragua-Costa_Rica_border.jpg#/media/File:Nicaragua-Costa_Rica_border.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Nicaragua-Costa_Rica_border.jpg" alt="Nicaragua-Costa Rica border.jpg" height="719" width="1280"></a></p><p>By Brian Johnson &amp; Dane Kantner - <a rel="nofollow" class="external free" href="https://www.flickr.com/photos/danebrian/6806375700/">https://www.flickr.com/photos/danebrian/6806375700/</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=141535714">Link</a></p>
 </div>
 
