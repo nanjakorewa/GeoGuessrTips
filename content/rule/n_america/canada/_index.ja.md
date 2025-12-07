@@ -118,6 +118,14 @@ sc: [
 {{% /tab %}}
 {{% /tabs %}}
 
+
+{{< amazoncard
+    url="https://amzn.to/4a1KxKt" 
+    title="ケベックを知るための56章【第2版】 (エリア・スタディーズ)"
+    price="¥2,200"
+    tagline="英語の大海・北アメリカに根を張るフランス語圏・ケベック州。多文化主義を前面に出すカナダの中では多民族化のペースが遅いが、州内多数派のフランス系も全国的にはマイノリティという複雑さがある。多様性を担保しつつフランス語圏として歩み続けるケベックの姿を、多彩な角度から描く。"
+>}} 
+
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">

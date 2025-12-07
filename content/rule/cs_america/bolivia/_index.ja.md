@@ -127,7 +127,6 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /tab %}}
 {{% /tabs %}}
 
-
 {{< amazoncard
     url="https://amzn.to/4oHiync" 
     title="ボリビアを知るための65章【第3版】 (エリア・スタディーズ)"
