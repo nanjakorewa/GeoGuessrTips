@@ -16,6 +16,7 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../mexico/", "メキシコ"],
     ["../guatemala/", "グアテマラ"],
+    ["../../asia/philippines/", "フィリピン"],
     ["../../oceania/pitcairn/", "ピトケアン諸島"],
     ]
 ---
@@ -44,8 +45,9 @@ sc: [
 
 
 {{% notice tip %}}
-灰色の□やコの形{{% ex "https://maps.app.goo.gl/AjXGEiE6wx7biJ2k6" %}}のポールを使った標識が多い。標識の裏にクロスがあることもある{{% ex "https://maps.app.goo.gl/HWwnq4wCBAZp8Ca6A" "https://maps.app.goo.gl/DFpDbRrEHbs6jU3w6" "https://maps.app.goo.gl/rk9BkaUopCo7t3Rt5" %}}
+灰色の□やコの形{{% ex "https://maps.app.goo.gl/AjXGEiE6wx7biJ2k6" %}}のポールを使った標識が多い。標識の裏にクロスがあることも多い{{% ex "https://maps.app.goo.gl/HWwnq4wCBAZp8Ca6A" "https://maps.app.goo.gl/DFpDbRrEHbs6jU3w6" "https://maps.app.goo.gl/rk9BkaUopCo7t3Rt5" %}}
 {{% /notice %}}
+
 <div class="googlemap-if unclickable">
 <img src="./00.jpg" width="90%" alt="Costa Rica image" />
 </div>
@@ -65,6 +67,15 @@ sc: [
 
 <div class="googlemap-if unclickable">
 <img src="fire_hydrant_fire_fighting.jpg" width="350px" />
+</div>
+
+
+{{% notice tip %}}
+メキシコよりも南の地域では、高い位置にカゴがあるゴミ捨て場が家の前に設置されている{{% ex "https://maps.app.goo.gl/3jzCzF5X9jLmy3bk9" "https://maps.app.goo.gl/hHi7cRVt5Xx2tAdv8" "https://maps.app.goo.gl/c8zxWm8G671sqf1G8" %}}。このようにすることで野良犬にゴミを荒らされなくなるようだ{{% ref "https://www.youtube.com/watch?v=lCnzpiobh6A" "Donde depositar la basura que sacamos de la casa? Basurero o Canasto de Basura, tipos y modelos." %}}。
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="cs.png" width="350px" />
 </div>
 
 {{% notice tip %}}
