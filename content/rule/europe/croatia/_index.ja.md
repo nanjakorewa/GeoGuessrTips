@@ -13,7 +13,7 @@ dont_show_usda: true
 plonkit: true
 sc_title: "間違えやすい地域"
 sc: [
-    ["../italy/", "イタリア"],
+    ["../bosnah/", "ボスニア・ヘルツェゴビナ"],
     ["../serbia/", "セルビア"],
     ["../montenegro/", "モンテネグロ"],
     ["../greece/", "ギリシャ"],
@@ -59,6 +59,12 @@ sc: [
 {{% notice tip %}}
 道端に以下の2つの特徴的な形をした<span class="quiz">青</span>色の消火栓がある{{% ex "https://maps.app.goo.gl/AMmHBiaDFtHiP4HH6" "https://maps.app.goo.gl/g2qqL7da2hxLLmpp8" "https://goo.gl/maps/eYjfXEc6J9LdLNzQ9" "https://goo.gl/maps/4bZdWCQskrcwxcjZ7" %}}{{% by %}}。
 {{% /notice %}}
+
+{{% notice info %}}
+<span class="quiz">青</span>色の消火栓があるのはクロアチアか{{% goto "../bosnah/" "ボスニア・ヘルツェゴビナ" %}}がほとんど。
+{{% /notice %}}
+
+
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/khianti/9721208374/" title="Fire Hydrant"><img src="https://live.staticflickr.com/5537/9721208374_cea45cc06b_w.jpg" width="400" height="300" alt="Image from live.staticflickr.com showing 9721208374 cea45cc06b W"/></a>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/enjoythevieweu/19634605133/in/photolist-KnNTBE-j7kkQ7-fP2JyW-TjEWVE-5tA7Xm-2mVquNr-8oXmDw-5pRahN-2pu3vZ-5pLNcZ-vV3u3H-yKGD4-yKGUG-yKGC9-yKGCM-yKGBN-yKGUk-yKGTX-yKGVn-yKGV1-yKGTq-6tzUdb-2o3BeQt-J6WkYY-5pR6Hs-ecTwKC-27f3Ymt-2ht24qe-9kUEq9-iQJ4fU-5Ry88-xKKFq-xKL1p-xKKZS-xKCTp-xKKEJ-xKKFN-yKGST-xKKGP-yKGCz-pdE4E8-xKKZg-27YGGSy" title="Croatia fire hydrant"><img src="https://live.staticflickr.com/3830/19634605133_4666909443_w.jpg" width="400" height="267" alt="Image from live.staticflickr.com showing 19634605133 4666909443 W"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
