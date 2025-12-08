@@ -33,7 +33,7 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/RUvCRg5FxA4AUTDY7" "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/rtbkvmdEHU1m4nvY7" %}}とボラード{{% ex "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}}がある。
+周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/RUvCRg5FxA4AUTDY7" "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/rtbkvmdEHU1m4nvY7" %}}とボラード{{% ex "https://maps.app.goo.gl/vu22VXL2JQzefvXn7" "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}}がある。周辺国のボラード・ガードレール・横断歩道標識が混ざって出現するので注意。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="./m2_neum_dscn1154.jpg" width="95%" alt="Bosnah GeoGuessr guide image showing m2 Neum dscn1154">
@@ -75,8 +75,10 @@ sc: [
                         <li>スルプスカ共和国の国章が見つかる{{% ex "https://maps.app.goo.gl/oHLeo6kxdrjWQbhKA" %}}</li>
                         <li>赤・青・白の横縞の三色旗を掲げている家が見つかる{{% ex "https://maps.app.goo.gl/ctoXTty8nME3FVqSA" "https://maps.app.goo.gl/nZ1R29J3m6hfz7AL7" %}}</li>
                         <li>市外局番が065 / 066{{% ex "https://maps.app.goo.gl/yGFGmnuk77JhdsWm9" %}}</li>
+                        <li>でかい標識を見かける頻度が高い{{% ex "https://maps.app.goo.gl/2nvFtD9u6kttWvJs5" "https://maps.app.goo.gl/9zkUKJLDQ2Fg8BGu6" %}}</li>
                     </ul>
                 </li>
+                <li>2言語看板の片方の言語がスプレーで塗りつぶされていたり破壊されていることがある{{% ex "https://maps.app.goo.gl/aHFfJjLQyQSoWCQM6" "https://maps.app.goo.gl/4kVnatPx2oi6HZKX9" %}}。{{% goto "../france/" "フランス" %}}のコルシカ島でも似たような現象が見られる。</li>
             </ul>
         </li>
         <li>ディナル・アルプス山脈が国を遮り、南部は標高が高く険しい地形が多い
