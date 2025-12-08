@@ -76,7 +76,12 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 label = "最近の更新"
 
 [[params.recent_update.items]]
-title = "コスタリカ・パラグアイ・ボスニア・ヘルツェゴビナを追記しました"
+title = "ボスニア・ヘルツェゴビナのページの内容を追加しました"
+link = "https://geopinning.space/rule/europe/bosnah/"
+date = "2025-11-07"
+
+[[params.recent_update.items]]
+title = "コスタリカ・パラグアイのページの内容を追加しました"
 link = "https://geopinning.space/rule/n_america/costa_rica/"
 date = "2025-11-06"
 

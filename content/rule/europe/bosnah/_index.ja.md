@@ -40,7 +40,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-{{% goto "../slovenia/" "スロベニア" %}}に似たマイルストーンの看板が見つかる。
+{{% goto "../slovenia/" "スロベニア" %}}に似たマイルストーンの看板が見つかる。道路番号も描いてある{{% ex "https://maps.app.goo.gl/DhFzxtMKkSKuwvjF6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="b235671b-10bb-40cd-b1cc-7ab46cf95599.png" width="150px" />
@@ -65,14 +65,16 @@ sc: [
                 <li>クロアチア人およびボシュニャク人が主体のボスニア・ヘルツェゴビナ連邦
                     <ul>
                         <li>家の表札などは<b>ラテン文字</b>がメイン{{% ex "https://maps.app.goo.gl/1SMj5TdsdYDTA2BU9" "https://maps.app.goo.gl/fiPmpYmGztg8PHWn8" "https://maps.app.goo.gl/szeSL8KugWactQHn6" %}}</li>
-                        <li>青・黄色の旗を掲げている家が見つかる{{% ex "https://maps.app.goo.gl/8zd6C6ezQV5Wmfun6" %}}</li>
+                        <li>青・黄色の旗を掲げている家が見つかる{{% ex "https://maps.app.goo.gl/EmEcJ5MELy3FkgAAA" "https://maps.app.goo.gl/8zd6C6ezQV5Wmfun6" %}}</li>
+                        <li>市外局番が061 / 062 / 063{{% ex "https://maps.app.goo.gl/SGYfkhFaVDp7Gy387" %}}</li>
                     </ul>
                 </li>
                 <li>セルビア人が主体のスルプスカ共和国
                     <ul>
                         <li>家の表札などは<b>キリル文字</b>がメイン{{% ex "https://maps.app.goo.gl/Z9UGA6ZuBhrFjtuW9" "https://maps.app.goo.gl/YT1MC5ifuRueeR2L8" "https://maps.app.goo.gl/nDxxDvaLNy6Fet1H8" %}}</li>
                         <li>スルプスカ共和国の国章が見つかる{{% ex "https://maps.app.goo.gl/oHLeo6kxdrjWQbhKA" %}}</li>
-                        <li>赤・青・白の横縞の三色旗を掲げている家が見つかる{{% ex "https://maps.app.goo.gl/nZ1R29J3m6hfz7AL7" %}}</li>
+                        <li>赤・青・白の横縞の三色旗を掲げている家が見つかる{{% ex "https://maps.app.goo.gl/ctoXTty8nME3FVqSA" "https://maps.app.goo.gl/nZ1R29J3m6hfz7AL7" %}}</li>
+                        <li>市外局番が065 / 066{{% ex "https://maps.app.goo.gl/yGFGmnuk77JhdsWm9" %}}</li>
                     </ul>
                 </li>
             </ul>
