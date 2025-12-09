@@ -128,3 +128,36 @@ sc: [
 
 {{% /tab %}}
 {{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Bjelašnica山は標高1500mあたりに森林限界があり木が生えていない</li>
+        <li>同国でアドリア海に面する唯一の自治体であるNeumがある</li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "Bjelašnica山" %}}
+{{% notice tip %}}
+Bjelašnica山は標高1500mあたりに森林限界があり、標高が高いエリアには木が生えていない{{% ex "https://maps.app.goo.gl/3rXapuH1oZSRR4DV7" "https://maps.app.goo.gl/PtqqFentQPyyi331A" "https://maps.app.goo.gl/kvakpdgyrBqEcjoD6" %}}{{% ref "https://en.wikipedia.org/wiki/Bjela%C5%A1nica#Climate_and_vegetation" "Bjelašnica" %}}。気候区分としてはアルプス ツンドラ気候（ET）に属している。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/126673189@N06/21062769101/in/photolist-98dfA8-bPgtRK-bNTL3K-AqoQdK-bUuTYA-bWtaBJ-yqmsi-9xkXwM-2bKMLs-RxByTY-zpMaNi-2488tCV-RysTet-x6vz9T-xYXwXo-y6fcrp-wRRMC-wRRMz-2bFhjr-pihdah-3bvNvv-3bvP7F-3bvPtV-3bAizb-2bKMXq" title="Bjelasnica"><img src="https://live.staticflickr.com/637/21062769101_4bd5024d35_c.jpg" width="800" height="481" alt="Bjelasnica"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% /tab %}}
+{{% tab "Neum" %}}
+{{% notice tip %}}
+海に面しているが大きな港があるわけではない。通り看板にNeumと書かれているので、見つけたら簡単にピンポイントできる{{% ex "https://maps.app.goo.gl/u78q4wwzMTrRE9NV9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="1280px-Neum-Bosnia.Herzegovina.jpg" width="85%">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
