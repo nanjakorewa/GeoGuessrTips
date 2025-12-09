@@ -48,7 +48,7 @@ sc: [
 
 
 {{% notice tip %}}
-{{% goto "../croatia/" "クロアチア" %}}平野部に見られるレンガ造りの家がよく見つかる。青色の消火栓も一般的なのでクロアチアと間違えないようにしたい。
+{{% goto "../croatia/" "クロアチア" %}}平野部に見られるレンガ造りの家がよく見つかる{{% ex "https://maps.app.goo.gl/c5wsxMHcCW5Cnbyy5" "https://maps.app.goo.gl/VU6dZyWCfyKbBhwg7" %}}。クロアチアでは平野部にレンガ造りの家が多いが、ボスニア・ヘルツェゴヴィナでは山岳部でもレンガ造りの家が見つかる。青色の消火栓も一般的なのでクロアチアと間違えないようにしたい。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="house.png" width="70%" />
@@ -60,7 +60,7 @@ sc: [
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
-        <li>デイトン合意（ボスニア・ヘルツェゴヴィナ和平一般枠組み合意）で定められた二つの行政区分がある
+        <li>デイトン合意（ボスニア・ヘルツェゴヴィナ和平一般枠組み合意）で定められた二つの行政区分がある{{% ref "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F" "デイトン合意" %}}
             <ul>
                 <li>クロアチア人およびボシュニャク人が主体のボスニア・ヘルツェゴビナ連邦
                     <ul>
@@ -86,6 +86,11 @@ sc: [
                 <li>北部平野{{% ex "https://maps.app.goo.gl/JFkHZAFxU3EHZsWV7" "https://maps.app.goo.gl/Be8bvpAKP2GnoG9C9" "https://maps.app.goo.gl/EyPK4Tnf2GwwwRwLA" %}}</li>
                 <li>ディナル・アルプス山脈{{% ex "https://maps.app.goo.gl/ZsvbxwYn9QmUmj7W8" "https://maps.app.goo.gl/wwTJijisUmjAeCpb6" "https://maps.app.goo.gl/gtnF9T1mHLZMiRzV7" %}}</li>
                 <li>南部{{% ex "https://maps.app.goo.gl/EwKFMYhbrshuQdZh7" "https://maps.app.goo.gl/4hQGa8CV9CFRHky76" %}}、ネレトヴァ川の河口近くは地中海性気候っぽさを感じる{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%AC%E3%83%88%E3%83%B4%E3%82%A1%E5%B7%9D" "ネレトヴァ川" %}}</li>
+            </ul>
+        </li>
+        <li>川沿いを走る鉄道が多い
+            <ul>
+                <li>サラエボより南西の路線{{% ex "https://maps.app.goo.gl/pknJc9DQrtmbdbLu5" "https://maps.app.goo.gl/5tBABHPSGgMxPSgV6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -124,6 +129,16 @@ sc: [
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_topographic_map.svg#/media/File:Bosnia_and_Herzegovina_topographic_map.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bosnia_and_Herzegovina_topographic_map.svg" alt="Bosnia and Herzegovina topographic map.svg" height="549" width="600"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:DzWiki" title="User:DzWiki">DzWiki</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14548527">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "鉄道" %}}
+{{% notice tip %}}
+Dobojを中心に国を横断するような鉄道網になっており、多くの路線が川沿いを走っている。急峻なカルスト地形の山々の間を走っていたらサラエボより南西の路線を考えてみる。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png#/media/File:Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png" alt="File:Railway map of Croatia and Bosnia and Herzegovina.png" height="1080" width="1114"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, using<a href="//commons.wikimedia.org/wiki/File:Croatia_location_map.svg" title="File:Croatia location map.svg">this file</a> by <a href="//commons.wikimedia.org/wiki/User:NordNordWest" title="User:NordNordWest">NordNordWest</a> as background<a href="//commons.wikimedia.org/w/index.php?title=File:H%C5%BD_logo.gif&amp;action=edit&amp;redlink=1" class="new" title="File:HŽ logo.gif (page does not exist)">Logo of the Hrvatske Željeznice (HŽ)</a><a href="//commons.wikimedia.org/wiki/File:Logo_%C5%BDRS.png" title="File:Logo ŽRS.png">Logo of the Željeznice Republike Srpske (ŽRS)</a><a href="//commons.wikimedia.org/wiki/File:Logo_ZFBH.jpg" title="File:Logo ZFBH.jpg">Logo of the Željeznice Federacije Bosne i Hercegovine (ŽFBH)</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58111883">Link</a></p>
 </div>
 
 {{% /tab %}}
