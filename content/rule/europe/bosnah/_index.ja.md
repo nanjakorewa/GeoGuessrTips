@@ -1,7 +1,7 @@
 ---
 title: "ボスニア・ヘルツェゴビナ"
 date: 2023-02-26
-lastmod: 2025-03-01
+lastmod: 2025-11-07
 weight: 1
 draft: false
 keywords: [""]
