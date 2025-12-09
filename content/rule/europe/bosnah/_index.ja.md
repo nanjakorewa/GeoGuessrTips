@@ -66,7 +66,7 @@ sc: [
                     <ul>
                         <li>家の表札などは<b>ラテン文字</b>がメイン{{% ex "https://maps.app.goo.gl/1SMj5TdsdYDTA2BU9" "https://maps.app.goo.gl/fiPmpYmGztg8PHWn8" "https://maps.app.goo.gl/szeSL8KugWactQHn6" %}}</li>
                         <li>青・黄色の旗を掲げている家が見つかる{{% ex "https://maps.app.goo.gl/EmEcJ5MELy3FkgAAA" "https://maps.app.goo.gl/8zd6C6ezQV5Wmfun6" %}}</li>
-                        <li>市外局番が061 / 062 / 063{{% ex "https://maps.app.goo.gl/SGYfkhFaVDp7Gy387" %}}</li>
+                        <li>市外局番が061 / 062 / 063{{% ex "https://maps.app.goo.gl/SGYfkhFaVDp7Gy387" "https://maps.app.goo.gl/85gGx3L9niyiwCWw9" %}}</li>
                     </ul>
                 </li>
                 <li>セルビア人が主体のスルプスカ共和国
