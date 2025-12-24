@@ -46,6 +46,11 @@ sc: [
 アルバニアでは貯水タンクが屋根の上にあることが多い{{% ex "https://maps.app.goo.gl/771Zx1ktEmsZRF7j9" "https://maps.app.goo.gl/kC49MYU6fuHG3bPe6" %}}。多くの家庭ではタンクを屋根に置いており、ポンプで揚水している{{% ref "https://openjicareport.jica.go.jp/pdf/11808011_02.pdf" "アルバニア共和国ティラナ首都圏下水システム改善計画調査事前調査報告書 調査対象地域の概要" %}}。
 {{% /notice %}}
 
+
+{{% notice note %}}
+1990年代初頭に共産主義体制が崩壊した後、水道が24時間安定して供給されないために住民は「水が出る時間帯」に水を確保しておく必要があった{{% ref "https://www.tiranatimes.com/tiranas-water-deposits-a-danger-from-above/" "Tirana’s water deposits: a danger from above" %}}。ただし地震に対する危険性もあり現在は減りつつあるという。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <img src="./house.jpg" width="95%" alt="Albania GeoGuessr guide image showing House">
 </div>
