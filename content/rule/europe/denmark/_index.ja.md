@@ -72,6 +72,11 @@ sc: [
 {{% notice tip %}}
 家の前に旗を揚げるポールがあり、祝日や誕生日に旗を揚げることがある{{% ex "https://maps.app.goo.gl/H8EUtVvjRG9WN7AXA" "https://maps.app.goo.gl/N9rpu6NoVyxbM8bJ7" "https://maps.app.goo.gl/5x8oKSpKQ5Li6hP67" "https://maps.app.goo.gl/mm1STHyENuP6TSdSA" "https://maps.app.goo.gl/PckYsMgpz4ShSmir9" "https://maps.app.goo.gl/Z58g6R6Cgho4PszA6" %}}{{% ref "https://theslowroad.org/quirks-of-denmark/" "Quirks of Denmark" %}}。掲げられる旗も極端に細い{{% ex "https://maps.app.goo.gl/4bAes6SYNwc6xpML7" "https://maps.app.goo.gl/jqNCM2covDMA4guQ7" %}}。
 {{% /notice %}}
+
+{{% notice note %}}
+日常的にVimpelと呼ばれる、非常に細長い三角形のペナントを掲げる習慣がある{{% ref "https://en.wikipedia.org/wiki/Household_pennant" "Household pennant" %}}{{% ref "https://denmark.dk/people-and-culture/dannebrog-800-years" "800 years of Dannebrog | The story of the Danish flag" %}}。
+{{% /notice %}}
+
 <div class="googlemap-if">
 <img src="./denmark_home_afternoon_nature.jpg" width="95%" alt="Denmark GeoGuessr guide image showing Denmark Home Afternoon Nature">
 </div>
