@@ -32,6 +32,16 @@ sc: [
 
 {{% tabs %}}
 {{% tab "w-etf" %}}
+
+
+{{% notice tip %}}
+急峻なカルスト地形が広がる国であり、幹線道路・鉄道・川は谷に沿って存在する{{% ex "https://maps.app.goo.gl/oMumB1NqGks19b2NA" "https://maps.app.goo.gl/vRfSM3B6E5sXWPvx8" "https://maps.app.goo.gl/9xUAGyFH1TzUHWJv6" %}}。大規模なトンネルを使った直線道路はコストや地形的に難しく、谷や川に沿って蛇行している道が多い{{% ref "https://en.wikipedia.org/wiki/Drina" "ドリナ川の蛇行率" %}}。緑色の美しい色の川が多い{{% ex "https://maps.app.goo.gl/tcTfe9Vfk4opn7jS9" "https://maps.app.goo.gl/UpMAdd4snR22pnQZA" %}}。
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Vrbas_kanjon.JPG#/media/File:Vrbas_kanjon.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Vrbas_kanjon.JPG" alt="Vrbas kanjon.JPG" width="90%"></a></p>
+<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Darko_Gavric&amp;action=edit&amp;redlink=1" class="new" title="User:Darko Gavric (page does not exist)">Darko Gavric</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42283599">Link</a></p>
+</div>
+
 {{% notice tip %}}
 周辺国にもある角張ったガードレール{{% ex "https://maps.app.goo.gl/RUvCRg5FxA4AUTDY7" "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/rtbkvmdEHU1m4nvY7" %}}とボラード{{% ex "https://maps.app.goo.gl/vu22VXL2JQzefvXn7" "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}}がある。周辺国のボラード・ガードレール・横断歩道標識が混ざって出現するので注意。
 {{% /notice %}}
@@ -40,7 +50,7 @@ sc: [
 </div>
 
 {{% notice tip %}}
-{{% goto "../slovenia/" "スロベニア" %}}に似たマイルストーンの看板が見つかる。道路番号も描いてある{{% ex "https://maps.app.goo.gl/DhFzxtMKkSKuwvjF6" %}}。
+{{% goto "../slovenia/" "スロベニア" %}}に似たマイルストーンの看板が見つかる。道路番号も描いてある{{% ex "https://maps.app.goo.gl/FDtsU5XKQRMpBraV8" "https://maps.app.goo.gl/DhFzxtMKkSKuwvjF6" "https://maps.app.goo.gl/gaMMquFtzEQrCP1A6" %}}。
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="b235671b-10bb-40cd-b1cc-7ab46cf95599.png" width="150px" />
