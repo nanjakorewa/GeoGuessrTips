@@ -223,8 +223,36 @@ Google Carが<span class="quiz">黒</span>色{{% ex "https://maps.app.goo.gl/4VC
 {{% tab "Biblioteca Península Haush" %}}
 {{% notice tip %}}外すと大ダメージ確定なので景色だけ覚えておく{{% ex "https://maps.app.goo.gl/LbFE4Yjvr1YPZiJd9" "https://maps.app.goo.gl/Jz4ts4HbR51ESfSe9" %}}。2022年時点では周辺には隠者が数人住んでいるだけらしい{{% ref "https://fmfuego.com.ar/interes-general/inauguraran-la-biblioteca-haush-en-puerto-espaniol.htm" "Inaugurarán la Biblioteca Haush en Puerto Español" %}}。{{% /notice %}}
 <div class="googlemap-if">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0iQ6CiRKCmA?si=4t_OQOspdeiDqH73&amp;start=726" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- YouTube Shorts embed (sidebar) -->
+<div class="yt-shorts">
+  <iframe
+    src="https://www.youtube.com/embed/rf0dXNX45pw?rel=0&modestbranding=1&playsinline=1"
+    title="YouTube Shorts"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    referrerpolicy="strict-origin-when-cross-origin">
+  </iframe>
 </div>
+
+<style>
+  /* Sidebar-friendly 9:16 responsive container */
+  .yt-shorts{
+    width: 100%;
+    max-width: 360px;   /* 必要なら調整（サイドバー幅に合わせる） */
+    aspect-ratio: 9 / 16;
+    position: relative;
+  }
+  .yt-shorts iframe{
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
+</style>
+</div>
+
+
 {{% /tab %}}
 {{% tab "タクシー" %}}
 <div class="googlemap-if">
