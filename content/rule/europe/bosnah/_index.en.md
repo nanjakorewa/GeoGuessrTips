@@ -33,6 +33,14 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
+A country of steep karst terrain: towns and roads hug trunk routes, railways, and rivers{{% ex "https://maps.app.goo.gl/oMumB1NqGks19b2NA" "https://maps.app.goo.gl/vRfSM3B6E5sXWPvx8" "https://maps.app.goo.gl/9xUAGyFH1TzUHWJv6" %}}. Large tunnels for straight highways are costly and tricky, so many roads meander along the valley floor{{% ref "https://en.wikipedia.org/wiki/Drina" "Drina River meanders" %}}. You often see beautiful green rivers{{% ex "https://maps.app.goo.gl/tcTfe9Vfk4opn7jS9" "https://maps.app.goo.gl/UpMAdd4snR22pnQZA" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Vrbas_kanjon.JPG#/media/File:Vrbas_kanjon.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Vrbas_kanjon.JPG" alt="Vrbas kanjon.JPG" width="90%"></a></p>
+<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Darko_Gavric&amp;action=edit&amp;redlink=1" class="new" title="User:Darko Gavric (page does not exist)">Darko Gavric</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=42283599">Link</a></p>
+</div>
+
+{{% notice tip %}}
 Boxy guardrails{{% ex "https://maps.app.goo.gl/RUvCRg5FxA4AUTDY7" "https://maps.app.goo.gl/BiRv7XFRYuoUJAzZ8" "https://maps.app.goo.gl/rtbkvmdEHU1m4nvY7" %}} and bollards{{% ex "https://maps.app.goo.gl/vu22VXL2JQzefvXn7" "https://maps.app.goo.gl/Cc4WhhEKFDVMsYwr8" "https://maps.app.goo.gl/8sF2i9THGZNZiX646" %}} also appear in neighbouring countries. Because bollards, guardrails, and crosswalk signs from surrounding countries mix together, stay alert.
 {{% /notice %}}
 <div class="googlemap-if">
@@ -88,6 +96,11 @@ Brick houses like those in the plains of {{% goto "../croatia/" "Croatia" %}} sh
                 <li>Southern areas{{% ex "https://maps.app.goo.gl/EwKFMYhbrshuQdZh7" "https://maps.app.goo.gl/4hQGa8CV9CFRHky76" %}}; near the Neretva river mouth you can feel a Mediterranean climate{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%AC%E3%83%88%E3%83%B4%E3%82%A1%E5%B7%9D" "Neretva River" %}}</li>
             </ul>
         </li>
+        <li>Many railways run along rivers
+            <ul>
+                <li>Lines southwest of Sarajevo{{% ex "https://maps.app.goo.gl/pknJc9DQrtmbdbLu5" "https://maps.app.goo.gl/5tBABHPSGgMxPSgV6" %}}</li>
+            </ul>
+        </li>
     </ul>
 </div>
 
@@ -124,6 +137,16 @@ The Dinaric Alps spread across the south and include areas over 2,000 m in eleva
 
 <p><a href="https://commons.wikimedia.org/wiki/File:Bosnia_and_Herzegovina_topographic_map.svg#/media/File:Bosnia_and_Herzegovina_topographic_map.svg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Bosnia_and_Herzegovina_topographic_map.svg" alt="Bosnia and Herzegovina topographic map.svg" height="549" width="600"></a></p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:DzWiki" title="User:DzWiki">DzWiki</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14548527">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "Railways" %}}
+{{% notice tip %}}
+Rail lines cross the country via Doboj, with many stretches tracking river valleys. For dramatic karst valleys, check the line southwest of Sarajevo.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png#/media/File:Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Railway_map_of_Croatia_and_Bosnia_and_Herzegovina.png" alt="File:Railway map of Croatia and Bosnia and Herzegovina.png" height="1080" width="1114"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dörrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, using<a href="//commons.wikimedia.org/wiki/File:Croatia_location_map.svg" title="File:Croatia location map.svg">this file</a> by <a href="//commons.wikimedia.org/wiki/User:NordNordWest" title="User:NordNordWest">NordNordWest</a> as background<a href="//commons.wikimedia.org/w/index.php?title=File:H%C5%BD_logo.gif&amp;action=edit&amp;redlink=1" class="new" title="File:HŽ logo.gif (page does not exist)">Logo of the Hrvatske Željeznice (HŽ)</a><a href="//commons.wikimedia.org/wiki/File:Logo_%C5%BDRS.png" title="File:Logo ŽRS.png">Logo of the Željeznice Republike Srpske (ŽRS)</a><a href="//commons.wikimedia.org/wiki/File:Logo_ZFBH.jpg" title="File:Logo ZFBH.jpg">Logo of the Željeznice Federacije Bosne i Hercegovine (ŽFBH)</a>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58111883">Link</a></p>
 </div>
 
 {{% /tab %}}

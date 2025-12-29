@@ -17,6 +17,12 @@
             </button>
           </div>
           {{ end }}
+          <div class="mt-2 mb-3 text-center">
+            {{ partial "youtube-subscribe.html" . }}
+            <div class="mt-2">
+              {{ partial "twitch-follow.html" . }}
+            </div>
+          </div>
           <div id="option-area">
             <!--<p><b>{{ i18n "display_setting" | safeHTML }}</b></p>
             <p>

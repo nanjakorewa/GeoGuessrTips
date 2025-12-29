@@ -2448,6 +2448,56 @@ table.compare-table tr td {
   color: rgba(255, 255, 255, 0.85);
 }
 
+.subscribe-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 32px;
+  padding: 0 14px;
+  border-radius: 2px;
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: #cc0000;
+  color: #ffffff;
+  border: 1px solid #cc0000;
+  transition: background 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.subscribe-button:hover,
+.subscribe-button:focus {
+  background: #b40000;
+  border-color: #b40000;
+  color: #ffffff;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.15);
+  text-decoration: none;
+}
+
+.subscribe-button:focus {
+  outline: 2px solid #ffffff;
+  outline-offset: 2px;
+}
+
+.youtube-subscribe {
+  display: inline-block;
+  transform: scale(1.2);
+  transform-origin: top center;
+}
+
+.twitch-follow-link {
+  min-width: 130px;
+  background: #9146ff;
+  border-color: #9146ff;
+}
+
+.twitch-follow-link:hover,
+.twitch-follow-link:focus {
+  background: #7b2cff;
+  border-color: #7b2cff;
+}
+
 section.section-updates {
   padding-bottom: 0 !important;
 }
