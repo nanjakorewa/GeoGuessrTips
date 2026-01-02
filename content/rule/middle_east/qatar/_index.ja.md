@@ -74,4 +74,11 @@ By <a href="//commons.wikimedia.org/wiki/User:Nima_Farid" class="mw-redirect" ti
 
 
 {{% /tab %}}
+{{% tab "関連動画" %}}
+
+<div class="googlemap-if no-margin">
+{{% yshort "https://www.youtube.com/shorts/-Ea621Y--JQ" %}}
+</div>
+
+{{% /tab %}}
 {{% /tabs  %}}

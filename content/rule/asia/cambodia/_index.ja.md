@@ -96,18 +96,6 @@ products:
 </div>
 
 {{% /tab %}}
-{{% tab "w-bollard" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1684254045514!6m8!1m7!1sErF7a24_8RyWGg6U3ijWKw!2m2!1d13.65262687825233!2d103.4924319634894!3f271.81491037276805!4f-16.097221250085084!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691944135005!6m8!1m7!1s9hoObewX_doWZ9po1Ckb5A!2m2!1d11.3991074139315!2d105.3399754115344!3f225.58918200222195!4f-11.519781482054654!5f0.6782675877063269" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "電柱" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685044814257!6m8!1m7!1si-78QwO_iKOMXyiMLwNzew!2m2!1d13.76922262904847!2d107.1069109919508!3f103.00534981500141!4f28.146258250937777!5f3.278551436969423" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1685044835167!6m8!1m7!1suH6OG4Ha9xwaFAPfBThrJQ!2m2!1d12.41728366552385!2d107.2859087365276!3f20.129394367842494!4f15.107400733079174!5f1.8063258670895346" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "言語" %}}
 {{% notice note %}}
 クメール語が公用語となっている
@@ -132,6 +120,13 @@ products:
 <tr><td><span class="quiz">タイ</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
+{{% /tab %}}
+{{% tab "関連動画" %}}
+
+<div class="googlemap-if no-margin">
+{{% yshort "https://www.youtube.com/shorts/f2Eb2JmyIak" %}}
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

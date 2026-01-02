@@ -1,0 +1,9 @@
+{{ $_hugo_config := `{ "version": 1 }` }}
+{{ $url := .Get 0 }}
+{{ $id := $url }}
+{{ if in $url "http" }}
+  {{ $id = replaceRE "^https?://(www\\.)?youtube\\.com/shorts/([^\\?&/]+).*$" "$2" $url }}
+{{ end }}
+<div class="youtube-area">
+  <iframe width="315" height="560" src="https://www.youtube.com/embed/{{ $id }}" title="YouTube shorts player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>

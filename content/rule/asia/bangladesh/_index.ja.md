@@ -84,25 +84,6 @@ sc: [
 
 
 {{% /tab %}}
-{{% tab "w-road" %}}
-{{% notice tip %}}
-<span class="quiz">黒と白の縞</span>模様のポールの標識がある。
-{{% /notice %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680636944258!6m8!1m7!1smJsoGdfYYvgB3ENtAEcrDA!2m2!1d24.95523765493552!2d90.06311100033894!3f104.90316314976357!4f-6.4727045617172365!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-viecle" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679241582191!6m8!1m7!1s6iXV90VDdr7OJA-SkG_2Vw!2m2!1d22.71565999752092!2d90.34815033393228!3f122.80913832733765!4f-5.318716883276579!5f2.895806465883662" width="595" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
-{{% tab "w-plant" %}}
-<div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1680636883546!6m8!1m7!1sPg9qU6trE5lkww7uEB-1nA!2m2!1d24.95523837209997!2d90.06248002367622!3f109.9835643660783!4f-16.711091103752253!5f2.776743398340463" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1679316439962!6m8!1m7!1sdmYvG2XkifNSiDi7PAQ0Mw!2m2!1d23.38225915977607!2d90.21923277387768!3f1.1454390496104359!4f-7.479103567159129!5f0.7588358809536506" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-{{% /tab %}}
 {{% tab "言語" %}}
 {{% notice note %}}
 バングラディシュでは主にベンガル語が使用されている
@@ -168,10 +149,9 @@ sc: [
 {{% notice tip %}}
 シタクンダ郡の海沿～チッタゴン沿岸にChittagong Ship Breaking Yardがある。道は少ないが、海沿いからは大量の船を見ることができる{{% ex "https://maps.app.goo.gl/TjLLHMsiLwuPmM7v6" "https://maps.app.goo.gl/Y29XGoc2uAArdGCU9" %}}。SHIP BREAKINGと名のついた会社が道沿いにみつかることが多い{{% ex "https://maps.app.goo.gl/3ExLLNR8z7yXBL4v5" "https://maps.app.goo.gl/ZpaGL9C4DUPeYiL67" "https://maps.app.goo.gl/DNTAkdvEv6NLCoiQ8" %}}。鉄リサイクル関係の会社もチッタゴン付近に多いイメージ。
 {{% /notice %}}
-<div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Jafrabad_Chittagong_shipbreaking_(1).JPG#/media/File:Jafrabad_Chittagong_shipbreaking_(1).JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Jafrabad_Chittagong_shipbreaking_%281%29.JPG" alt="Wikimedia Commons photo showing Jafrabad Chittagong Shipbreaking (1)" height="360" width="640"></a></p>
-<p>By <a rel="nofollow" class="external text" href="https://www.flickr.com/people/55035375@N03">Stéphane M. Grueso</a> from Madrid, Spain - <a rel="nofollow" class="external text" href="https://www.flickr.com/photos/stephanemgrueso/5481426109/">Shipwreck-7</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0" title="Creative Commons Attribution-Share Alike 2.0">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=16109046">Link</a></p>
-</div>
+
+{{% yshort "https://www.youtube.com/shorts/QPDOPwJctJM" %}}
+
 {{% /tab %}}
 {{% tab "Dhaka Bank" %}}
 

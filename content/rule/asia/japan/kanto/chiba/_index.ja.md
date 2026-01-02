@@ -19,7 +19,6 @@ flag: "Chiba.svg"
     {{% corp "asia/japan" "kanto/chiba" %}}
 </div>
 
-
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
     <ul class="rule-list">
@@ -35,6 +34,13 @@ flag: "Chiba.svg"
 
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Uchibo_Line_;_209_series_train_runs_while_looking_out_over_the_Keiyo_Kombinat_aside.JPG#/media/File:Uchibo_Line_;_209_series_train_runs_while_looking_out_over_the_Keiyo_Kombinat_aside.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Uchibo_Line_%3B_209_series_train_runs_while_looking_out_over_the_Keiyo_Kombinat_aside.JPG" alt="Wikimedia Commons photo showing Uchibo Line ; 209 Series Train Runs While Looking Out Over The Keiyo Kombinat Aside" height="428" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Nanashinodensyaku" title="User:Nanashinodensyaku">Nanashinodensyaku</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=35874896">Link</a></p>
+</div>
+
+{{% /tab %}}
+{{% tab "関連動画" %}}
+
+<div class="googlemap-if no-margin">
+{{% yshort "https://www.youtube.com/shorts/7R2-9mik5xo" %}}
 </div>
 
 {{% /tab %}}
