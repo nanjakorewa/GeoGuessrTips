@@ -139,6 +139,13 @@ CC0
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4eO4TCo8cI4ABfzTTtsaye?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 </div>
 {{% /tab %}}
+{{% tab "関連動画" %}}
+
+<div class="googlemap-if no-margin">
+{{% yshort "https://www.youtube.com/shorts/r_StV8Z5DLg" %}}
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 

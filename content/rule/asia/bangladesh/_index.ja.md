@@ -109,6 +109,13 @@ sc: [
 </table>
 </div>
 {{% /tab %}}
+{{% tab "関連動画" %}}
+
+<div class="googlemap-if no-margin">
+{{% yshort "https://www.youtube.com/shorts/QPDOPwJctJM" %}}
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
 
 <div class="main-desciption area-description">
@@ -149,8 +156,11 @@ sc: [
 {{% notice tip %}}
 シタクンダ郡の海沿～チッタゴン沿岸にChittagong Ship Breaking Yardがある。道は少ないが、海沿いからは大量の船を見ることができる{{% ex "https://maps.app.goo.gl/TjLLHMsiLwuPmM7v6" "https://maps.app.goo.gl/Y29XGoc2uAArdGCU9" %}}。SHIP BREAKINGと名のついた会社が道沿いにみつかることが多い{{% ex "https://maps.app.goo.gl/3ExLLNR8z7yXBL4v5" "https://maps.app.goo.gl/ZpaGL9C4DUPeYiL67" "https://maps.app.goo.gl/DNTAkdvEv6NLCoiQ8" %}}。鉄リサイクル関係の会社もチッタゴン付近に多いイメージ。
 {{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Chittagong_Ship_breaking_yard.JPG#/media/File:Chittagong_Ship_breaking_yard.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Chittagong_Ship_breaking_yard.JPG" alt="Chittagong Ship breaking yard.JPG" width="90%"></a></p>
+<p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Ctg4Rahat&amp;action=edit&amp;redlink=1" class="new" title="User:Ctg4Rahat (page does not exist)">Ctg4Rahat</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=38246216">Link</a></p>
+</div>
 
-{{% yshort "https://www.youtube.com/shorts/QPDOPwJctJM" %}}
 
 {{% /tab %}}
 {{% tab "Dhaka Bank" %}}
