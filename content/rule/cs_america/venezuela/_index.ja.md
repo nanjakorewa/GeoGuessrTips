@@ -33,4 +33,11 @@ is_unofficial: true
 </div>
 
 {{% /tab %}}
+{{% tab "関連動画" %}}
+
+<div class="googlemap-if no-margin">
+{{% yshort "https://www.youtube.com/shorts/as5Jf4Z337M" %}}
+</div>
+
+{{% /tab %}}
 {{% /tabs %}}
