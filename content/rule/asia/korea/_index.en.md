@@ -1,5 +1,6 @@
----
-title: "Korea"
+﻿---
+title: "Republic of Korea"
+title_suffix: "(Korea)"
 date: 2023-02-26
 lastmod: 2023-05-01
 weight: 2
@@ -11,14 +12,19 @@ flag: "KR.svg"
 jetro_detail: true
 plonkit: false
 dont_show_usda: true
+import_jquery_36: true
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li><span class="quiz">Right-side</span> driving</li>
+        <li>Language is Korean</li>
+        <li>Cars drive on the <span class="quiz">right</span></li>
+        <li>Like {{% goto "../taiwan/" "Taiwan" %}}, utility poles have yellow-and-black <b>diagonal</b> stripes</li>
+        <li>Warning signs are orange</li>
     </ul>
-    {{% rd europe croatia verysmall %}}
+    {{% rd asia korea verysmall %}}
+    {{% corp "asia/korea" "" %}}
 </div>
 
 
@@ -26,9 +32,154 @@ dont_show_usda: true
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
+Korean is used, and utility poles have <b>diagonal</b> yellow-and-black stripes.
 {{% /notice %}}
 <div class="googlemap-if">
-？
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/marioaprea/33183839158/in/photolist-SykRgU-29NLAdC-Mqf4Kb-21ReMLF-25u6Lqw-MD3hqs-qWc2A5-S1LX3L-2aYcMBn-H2r87v-23vhGsC-2a1aUVj-28cYKtj-26BjrkU-2dUSvHX-EXfXjo-2bAJ6XU-D17FY6-28fh7zZ-GeD1Lr-21KjekK-KtnNbs-WRK8Ao-GEqvcZ-pkdS35-26ku5ke-Q2TNbH-23pkjfy-2a6aFL4-L4H7mU-G5xpAj-277aZhd-oSQC2w-MCL3en-Z1hJUj-HXjGad-21RgVZj-2bU8FzH-2adUKdJ-2e5bucb-Z3KE7Z-27um1zx-nA1fpu-22jtCab-NM1RcN-216Dysc-26Bq3fU-FNKXnC-i7XJF-FtXU81" title="Seoul shop"><img src="https://live.staticflickr.com/7862/33183839158_b272d89ed8_z.jpg" width="640" height="427" alt="Image from live.staticflickr.com showing 33183839158 b272d89ed8 Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+{{% notice tip %}}
+Many pine trees{{% ex "https://goo.gl/maps/3zTkaxuoTkprerHk6" "https://goo.gl/maps/ZesPrE19f3cJ8rDu9" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./republic_korea_stone_wall.jpg" width="90%" alt="Korea GeoGuessr guide image showing Republic Korea Stone Wall">
+</div>
+
+{{% notice tip %}}
+Distinctive bollards{{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./korean_roadside_in_mountainous.jpg" width="90%" alt="Korea GeoGuessr guide image showing Korean Roadside In Mountainous">
+</div>
+
+
+{{% notice tip %}}
+Warning signs are orange{{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./korean_sign_traffic_signs.jpg" width="95%" alt="Korea GeoGuessr guide image showing Korean Sign Traffic Signs">
+</div>
+
+
+{{% /tab %}}
+{{% tab "Bollard" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1692461958189!6m8!1m7!1sufcExAzNyVK6kTioAmKXyw!2m2!1d38.12472280191126!2d128.3102625946252!3f112.39219960263972!4f-8.431733233949728!5f1.7427477120226769" width="400" height="290" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
+{{< amazoncard
+    url="https://amzn.to/4pruASK" 
+    title="Understanding Modern Korea (3rd ed.)"
+    price="¥2,200"
+    tagline="East Asia is changing rapidly, and Korea is at the center of current tensions. This book explains what Korea is, its geography, historical formation, economic shifts, social issues, and culture."
+>}} 
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>Mountain ranges in the northeast and southwest; roads sometimes run between hills
+            <ul>
+                <li>Northeast{{% ex "https://maps.app.goo.gl/G9mZDscuinWoM53g9" "https://maps.app.goo.gl/ZcjUEECHQDx5LRMfA" %}}</li>
+                <li>Southwest{{% ex "https://maps.app.goo.gl/a6b4a89cxPoEFvGV9" "https://maps.app.goo.gl/5e3nzMpb918AuPoE7" %}}</li>
+            </ul>
+        </li>
+        <li>Jeju Island is volcanic and has the highest peak in the center</li>
+        <li>Ondol floors were more common in the north, wood floors in the south{{% ref "https://www.konest.com/contents/korean_life_detail.html?id=22698" "Hanok - traditional Korean houses (JP)" %}}</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Elevation" %}}
+{{% notice tip %}}
+There are mountain ranges inland in the northeast and southwest
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><img src="./topolgraphic.png" width="500px" alt="Korea GeoGuessr guide image showing Topolgraphic"><p>
+<p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2665772">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Jeju" %}}
+{{% notice tip %}}
+An oval-shaped volcanic island; like the volcanic {{% goto "../../africa/canary_islands/" "Canary Islands" %}}, the soil is often dark, and it has many pampas-grass fields like Kyushu. There is only one highest peak in the center, so you won’t see a tall mountain flanking a road. Smaller hills (tens of meters to about 100m) are common{{% ex "https://maps.app.goo.gl/ssfJcs8rsZddQpwBA" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./1080px-Jeju_Island_3D_2012.jpg" width="600px" alt="Korea GeoGuessr guide image showing 1080px Jeju Island 3D 2012">
+<img src="./jeju_island_korea_road.jpg" width="600px" alt="Korea GeoGuessr guide image showing Jeju Island Korea Road">
+</div>
+{{% /tab %}}
+{{% tab "Hanok" %}}
+{{% notice tip %}}
+It is hard to see inside homes, so this is not very useful. The images below show ondol floors, but I have not seen them in Street View.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./960px-Korea-Seoul-Namsangol-03.jpg" width="350px" alt="Korea GeoGuessr guide image showing 960px Korea Seoul Namsangol 03">
+<img src="./477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px" alt="Korea GeoGuessr guide image showing 477px Korea Gangneung Seongyojang 02">
+</div>
+
+{{% notice tip %}}
+A southern-style house; in practice you almost never see inside the walls.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1696591748017!6m8!1m7!1s1E9Hu_WLNHa4V4tWmToBNQ!2m2!1d34.90975647767016!2d126.8577613753698!3f45.073992309286695!4f-1.68103061875901!5f0.6420795713657415" width="550" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>Area codes help narrow down the region{{% ref "https://colnect.com/en/phonecards/phonecard/60989-Telephone_Area_Code-Maps-Korea_Telecom-Korea_South" "Phonecard › Telephone Area Code" %}}. The numbers on the map are the area codes.</li>
+    </ul>
+</div>
+
+{{% map southKoreaNumber 95 %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>Udo (U Island) lies east of Jeju; it feels similar to Jeju{{% ex "https://maps.app.goo.gl/f3UtUoxF6taAgRP17" %}}. It is fertile, so agriculture and livestock are common and there is little untouched forest.</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Udo" %}}
+{{% notice tip %}}
+Aside from the southeast area with almost no roads, most of the island is farmland. Like Jeju, the soil is dark and black stone walls are common, but there is little forest and no tall mountains{{% ex "https://maps.app.goo.gl/V4yAFVSjnbBf1JKbA" "https://maps.app.goo.gl/kYEQHvdxcrT731FW7" "https://maps.app.goo.gl/BuNwwejxvTr4YZN88" %}}.
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<img src="./jeju_island_nature_korea.jpg" alt="Korea GeoGuessr guide image showing Jeju Island Nature Korea">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">Representative companies</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">Company</th>
+                <th scope="col" class="col-width-1">Code</th>
+                <th scope="col" class="col-width-7">Description</th>
+                <th scope="col" class="col-width-05">Earnings</th>
+                <th scope="col" class="col-width-05">Dividend history</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>POSCO</td>
+                <td>{{% nasdaq "PKX" %}}</td>
+                <td>Korea's largest steelmaker; crude steel production ranked 6th globally (as of 2016). After normalization of Japan–Korea relations in 1965, it expanded with Japanese financial aid and technical support from Nippon Steel.</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "PKX" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>

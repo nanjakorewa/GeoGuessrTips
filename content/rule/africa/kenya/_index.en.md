@@ -15,6 +15,7 @@ sc_title: "Similar Regions"
 sc: [
     ["../nigeria/", "Nigeria"],
     ["../senegal/", "Senegal"],
+    ["../rwanda/", "Rwanda"],
     ["../../cs_america/curacao/", "Curacao"],
     ]
 ---
@@ -23,8 +24,10 @@ sc: [
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
         <li>Cars drive on the <span class="quiz">left side</span> of the road.</li>
-        <li>The back license plate of the car is <span class="quiz">larger yellow</span>.</li>
+        <li>The rear license plate is <span class="quiz">large and yellow</span>.</li>
         <li>The domain is <span class="quiz">.ke</span>.</li>
+        <li>Languages are <span class="quiz">English</span> and Swahili.</li>
+        <li>Road signs look similar to {{% goto "../../europe/united-kingdom/" "the UK" %}}.</li>
         <li>Distinctive Google Car.</li>
     </ul>
 </div>
@@ -32,36 +35,93 @@ sc: [
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-The car is <span class="quiz">on the left side</span> of the road and the back license plate of the car is <span class="quiz">large yellow</span>{{% ex "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}.
+Cars drive on the <span class="quiz">left side</span> of the road, and the rear license plate is <span class="quiz">large and yellow</span>{{% ex "https://maps.app.goo.gl/nNop8SSnJC7MnnqD9" "https://maps.app.goo.gl/sr2UU8U2UUZXNRwL9" "https://maps.app.goo.gl/eZFd7HH9zsEZjw956" "https://maps.app.goo.gl/8icpzm6jeKQFk2MK9" "https://maps.app.goo.gl/59D3a5zrycuc64sv9" "https://goo.gl/maps/ThbKzSX5DNMFNpaR8" %}}. Motorcycles may not have a front plate, but they usually have a <span class="quiz">large yellow</span> plate on the rear{{% ex "https://maps.app.goo.gl/mghxev8i5t5feqfH8" "https://maps.app.goo.gl/RzyrkmBq96HF1Mkb9" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691999031048!6m8!1m7!1snoD__qTK73KSPwSsPRVGdQ!2m2!1d-2.075259901465407!2d37.45373699945315!3f127.79717617921!4f-8.046265341484869!5f2.04356627114321" width="600" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
-{{% lb 50 %}}
-![](/rule/africa/kenya/lp-kenya.png)
 
-By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyanmagazine.co.ke/wp-content/uploads/2022/08/20220830_191002.jpg">Original</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125713405">Link</a>
+{{% lb 50 %}}
+![](lp-kenya.png)
+
+By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyanmagazine.co.ke/wp-content/uploads/2022/08/20220830_191002.jpg">Original image</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125713405">Link</a> modified
 {{% /lb %}}
 
+
 {{% notice tip %}}
-According to JETRO and others, STEERS (fast food) {{% ex "https://goo.gl/maps/edbjb8SkbTxGjXsg9" %}}, Safaricom (telecom) {{% ex "https://goo.gl/maps/vQLYCbnaWJSWLxNU 8" "https://goo.gl/maps/YaW8mCgZShWcfTo27" %}}, Java (coffee brand?) These are some of the larger local companies. You might see them when walking around {{% ref "https://www.jetro.go.jp/ext_images/_Reports/01/550ee35766919b1d/20160137_09franchise.pdf" "JETRO - Kenyan companies" %}}?
+According to JETRO, STEERS (fast food) {{% ex "https://goo.gl/maps/edbjb8SkbTxGjXsg9" %}}, Safaricom (telecom) {{% ex "https://goo.gl/maps/vQLYCbnaWJSWLxNU8" "https://goo.gl/maps/YaW8mCgZShWcfTo27" %}}, and Java (coffee brand?) are major local companies. Safaricom in particular is easy to spot while walking around{{% ref "https://www.jetro.go.jp/ext_images/_Reports/01/550ee35766919b1d/20160137_09franchise.pdf" "JETRO - Kenyan companies" %}}?
 {{% /notice %}}
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/datakid23/15722287490/in/photolist-EPuBj-M3Wgn-fd8tC6-4ZKpL5-pXjQjf-HDkBuP-HWVuJL-5w1fkR-HWVvkf-K3j2B9-HrtGPr-HWWfHC-TEkyr5-HWVv2u-Hrqwu5-HrtGXH-Jdy4kY-JjsZqG-JqSeZo-L4QEWc-JjsYSY-K3j2BQ-L8Hdmo-JqSeD3-HruCQx-LbzxxM-JNCVaQ-aoNEuB-JqT1Kf-Jdy4eq-aoNECi-27gwcpf-aoNEAX-GDvemT-27DWe1n-HrqwGu-nqNTrs-GDvHhn-Gb1AUp-F1Z7Ae-SDnB7L-27DWe7e-ag5aVW-Hqxr45-bvmi4E-H9Jkhs-E4gFmC-cgugG7-KnUhTx-KnUjDM" title="SafariCom"><img src="https://live.staticflickr.com/7505/15722287490_d019f2509c_z.jpg" width="640" height="360" alt="Image from live.staticflickr.com showing 15722287490 d019f2509c Z"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+
 {{% notice tip %}}
-Google Car is unique and several types exist. You can see the roof of the car {{% ex "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}, it has a black part called a snorkel (Vehicle snorkel) {{% ex "https://goo.gl/maps/AVG4e4 xmBvV2zWWWw8" %}}, side mirrors can be seen {{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}. In rare cases, Google Car is mosaic or {{% ex "https://goo.gl/maps/w1JyoUimwnwk6AbL8" %}} not shown {{% ex "https://goo.gl/maps/CKy6drok6MeSJxXD9" "https ://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}.
+Because it was once a {{% goto "../../europe/united-kingdom/" "British" %}} protectorate, road signs look similar to the UK. You do not see signs that often in cities.
 {{% /notice %}}
 <div class="googlemap-if">
-<iframe src="https://www.google.com/maps/embed?pb=!4v1681157131804!6m8!1m7!1sGOyh4xXRk_aRcxwYznvcwQ!2m2!1d-1.312968146095767!2d36.82981472799747!3f150.67865147779287!4f-20.34512092537844!5f1.3473814785954303" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<iframe src="https://www.google.com/maps/embed?pb=!4v1691900712224!6m8!1m7!1sPx04A8yDcWhGRszKlP-5JQ!2m2!1d0.006519696753752837!2d37.07153199464223!3f125.96459081419796!4f-43.08072906549327!5f0.4000000000000002"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/afdbprojects/49749049608/in/photolist-3KooLz-5nf1eq-3KsHqm-9HK8VH-3KsJT1-2iN9TdC-e1tiav-dnQRUw-ehbvw2-kNkcKk-cYKRFq-7Au2WC-fTqZ6J-9xut1w-99cPJd-9QQeG-8DxSxH-bmjQqk-EidXH-nmDJmM-8UPoD8-cT1atU-2eDRsZN-9vvcKJ-2ex2sEu-3WKWmz-3WQdAo-4qcuMo-bqfLyE-5MQXmm-DeCik-8CLnV2-4JpbNK-7Ce8YL-3WKWSK-29CfGA-8TQPrv-3KoEbZ-3WQe5o-3WQfuG-XWq4-6AcE4P-3KsKh7-3KsK5q-a6YieQ-2jqtRVi-akQmDZ-4nbiKx-b1nVWP-b1owHT" title="The Nairobi-Thika Highway, Kenya"><img src="https://live.staticflickr.com/65535/49749049608_c6154ec2a9_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 49749049608 c6154ec2a9 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+
+{{% notice tip %}}
+Google Cars are distinctive and come in several types. You may see the roof{{% ex "https://maps.app.goo.gl/7BtwomvBcBZGBWF38" "https://maps.app.goo.gl/BpXBaPvnw6Av77uG6" "https://goo.gl/maps/68CahPSGpjN1gWEP9" %}}, a black part called a snorkel (vehicle snorkel){{% ex "https://maps.app.goo.gl/tRTEKWnQCoqNSgw17" "https://maps.app.goo.gl/PzwK9emZPdSg6qGw5" "https://goo.gl/maps/AVG4e4xmBvV2zWWw8" "https://maps.app.goo.gl/ADPLGyswN8q8z9L26" %}}, or the side mirrors{{% ex "https://goo.gl/maps/UinADfvy1qPLJvMZ9" %}}. Some are black{{% ex "https://maps.app.goo.gl/2qc6tPpUKx9yJKvf9" %}}. In rare cases the Google car is not visible{{% ex "https://maps.app.goo.gl/ctDApK8V6uDwgxqU6" "https://goo.gl/maps/CKy6drok6MeSJxXD9" "https://goo.gl/maps/8a5dM3zL1fGsVv8o7" "https://goo.gl/maps/rA76vccWSB9YcMYbA" %}}, so watch out.
+{{% /notice %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1706661584779!6m8!1m7!1sNKDg-2MfNl-12qbEN5-Y1Q!2m2!1d0.2511892980565865!2d37.92610937796032!3f209.33301176809235!4f-14.499122211949398!5f0.4000000000000002" width="70%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+
 {{% /tab %}}
 {{% tab "Bollard" %}}
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689602344627!6m8!1m7!1skDJpJQE9Q3f5-Fu3WcGH_Q!2m2!1d-1.896337136460409!2d36.29041041792873!3f340.1124427594091!4f0.2480216390300427!5f2.950964112637595"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>Vegetation varies by location
+            <ul>
+                <li>East coast: thin, palm-like trees</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Vegetation" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./vegitation.jpg" width="90%" alt="Kenya GeoGuessr guide image showing Vegitation" />
+</div>
+
+{{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 'A review of Kenya’s national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.' (2014)." %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "East coast" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694924718412!6m8!1m7!1s57gQl4murZAHOYv_irM2IQ!2m2!1d-3.872518787254868!2d39.78164550750251!3f201.9618370086089!4f-7.606157894095659!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694924807359!6m8!1m7!1s810FgmQL0CUm6OpPSvuYZQ!2m2!1d-4.424506753838949!2d39.50188631452412!3f90.71852339945418!4f2.7050358541516317!5f0.7820865974627469" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "Northwest" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694925053890!6m8!1m7!1sRoPwIx9bSo6DftrZMzIWQQ!2m2!1d3.515174464846655!2d35.22271852414578!3f232.62532757736392!4f3.918786919933595!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1694925093290!6m8!1m7!1s8rxI0-wKb44vShiCfYwJjA!2m2!1d3.982079956011404!2d35.48063603389876!3f188.16585448349875!4f6.136168804688722!5f0.4000000000000002" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice tip %}}
+Many trees with flat tops?
+{{% /notice %}}
+
 {{% /tab %}}
 {{% /tabs %}}
