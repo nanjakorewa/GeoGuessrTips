@@ -178,6 +178,9 @@
   <link rel="shortcut icon" type="image/png" href="{{ "images/icon-128x128.png" | absURL }}">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+  <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com">
+  <link rel="dns-prefetch" href="https://www.clarity.ms">
   <title>{{ $seo.Get "title" | htmlEscape }}</title>
   <meta name="description" content="{{ $seo.Get "description" | htmlEscape }}">
   <meta name="robots" content="{{ $seo.Get "robots" }}">
@@ -276,7 +279,7 @@
   <link rel="icon" href="{{ `images/icon-16x16.png` | absURL }}" type="image/x-icon">
   
   {{ "<!-- fonts -->" | safeHTML }}
-  <link href="https://fonts.googleapis.com/css?family=M+PLUS+1p" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap" rel="stylesheet">
   <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
   
   <style>
@@ -299,9 +302,16 @@
     --primary-hover:#36575A;
     --font-family:{{ replace .Site.Params.font_family ' ' '+' | title }};
   }
-  
+
   body {
     background: var(--body-color);
+    font-display: swap;
+  }
+
+  /* Ensure fonts use swap for better CLS */
+  @font-face {
+    font-family: 'M PLUS 1p';
+    font-display: swap;
   }
   </style>
   

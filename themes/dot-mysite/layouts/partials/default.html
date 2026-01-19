@@ -90,9 +90,9 @@
           {{ if .Params.flag }}
           {{ $flag_path := print "flags/" .Params.flag }}
             {{ if (eq .Page.Lang "ja" )}}
-            <div class="content unclickable {{ if not .Params.flag_height }}top-flagarea{{ end }}" {{ if .Params.flag_height }}style="height:{{ .Params.flag_height }};"{{ end }}><img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" width="680px" height="500px"/></div>
+            <div class="content unclickable {{ if not .Params.flag_height }}top-flagarea{{ end }}" {{ if .Params.flag_height }}style="height:{{ .Params.flag_height }};"{{ end }}><img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" width="680" height="500" loading="eager" decoding="async"/></div>
             {{ else }}
-            <div class="content unclickable {{ if not .Params.flag_height }}top-flagarea{{ end }}" {{ if .Params.flag_height }}style="height:{{ .Params.flag_height }};"{{ end }}><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" width="680px" height="500px"/></div>
+            <div class="content unclickable {{ if not .Params.flag_height }}top-flagarea{{ end }}" {{ if .Params.flag_height }}style="height:{{ .Params.flag_height }};"{{ end }}><img src="{{ $flag_path | absURL }}" alt="national flag of {{ .Title }}" width="680" height="500" loading="eager" decoding="async"/></div>
             {{ end }}
           {{ end }}
 
@@ -107,6 +107,7 @@
             </ul>
           </div>
           {{ end }}
+
           {{ if .Params.add_flagindex }}
             <div class="bg-light p-4">
               {{ if in .Permalink "/rule/" }}
@@ -206,6 +207,37 @@
                   {{ end }}
               </ul>
           </div>
+
+          <!-- same_region_area - Internal link optimization for SEO -->
+          {{ if .Parent }}
+            {{ $currentPage := . }}
+            {{ $siblings := .Parent.Pages.ByWeight }}
+            {{ $siblingCount := 0 }}
+            {{ range $siblings }}
+              {{ if and .Params.flag (ne .Permalink $currentPage.Permalink) }}
+                {{ $siblingCount = add $siblingCount 1 }}
+              {{ end }}
+            {{ end }}
+            {{ if gt $siblingCount 0 }}
+          <div class="main-information same-region-area">
+              {{ if (eq .Page.Lang "ja") }}
+              <h4 class="section-title"><i class="fas fa-globe"></i> {{ .Parent.Title }}の国</h4>
+              {{ else }}
+              <h4 class="section-title"><i class="fas fa-globe"></i> Countries in {{ .Parent.Title }}</h4>
+              {{ end }}
+              <ul class="info-list">
+              {{ $count := 0 }}
+              {{ range $siblings }}
+                {{ if and .Params.flag (ne .Permalink $currentPage.Permalink) (lt $count 12) }}
+                  <li><a href="{{ .RelPermalink }}">{{ .Title }}</a></li>
+                  {{ $count = add $count 1 }}
+                {{ end }}
+              {{ end }}
+              </ul>
+          </div>
+            {{ end }}
+          {{ end }}
+
           {{ end }}
           <!-- /main information -->
         </div>
@@ -375,7 +407,7 @@
 <li data-nav-id="{{.Permalink}}" title="{{.Title}}" class="{{ if .Params.is_pref }}flag-ispref{{ end }} {{ if .Params.is_unofficial }}unofficial-area dontshowarea{{ end }}">
   {{ $flag_path := print "flags/" .Params.flag }}
   <a href="{{.Permalink}}" class="flag-link">
-    {{ if .Params.flag }}<img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" class="flag-img-link" oncontextmenu="return false;"/>{{ end }}<br/>
+    {{ if .Params.flag }}<img src="{{ $flag_path | absURL }}" alt="{{ .Title }}の国旗" class="flag-img-link" oncontextmenu="return false;" loading="lazy" decoding="async"/>{{ end }}<br/>
     {{safeHTML .Params.Pre}}{{or .Params.menuTitle .LinkTitle .Title}}{{safeHTML .Params.Post}}<br/>
     {{ if .Params.is_has_distinctive_googlecar }}<i class="fas fa-car-alt i-googlecar"></i>{{ end }}{{ if .Params.is_has_many_trekker }}<i class="fas fa-hiking i-googlecar"></i>{{ end }}{{ if .Params.is_has_distinctive_bollard }}<i class="fas fa-magic i-bollard"></i>{{ end }}{{ if .Params.is_unofficial }}<i class="fa fa-question-circle"></i>{{ end }}
   </a>

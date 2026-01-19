@@ -21,6 +21,12 @@ ignoreFiles = [ "\\.clip$" ]
   priority = 0.5
   filename = "sitemap.xml"
 
+# SEO: Custom sitemap priorities by section
+[params.sitemap]
+  homePriority = 1.0
+  sectionPriority = 0.8
+  pagePriority = 0.6
+
 [module]
   [[module.imports]]
   path = "github.com/gethugothemes/hugo-modules/search"

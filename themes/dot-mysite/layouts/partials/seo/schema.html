@@ -117,3 +117,85 @@
     <script type="application/ld+json">{{ jsonify (dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $items) | safeJS }}</script>
   {{- end }}
 {{- end }}
+
+{{/* FAQ Schema - Auto-generated for country pages with flag parameter */}}
+{{- $lang := $page.Lang | default $site.Language.Lang -}}
+{{- if $page.Params.flag }}
+  {{- $faqScratch := newScratch -}}
+  {{- $faqScratch.Set "questions" (slice) -}}
+  {{- $countryName := $page.Title -}}
+  {{- $questionText := "" -}}
+  {{- $answerText := $seo.description -}}
+  {{- if eq $lang "ja" }}
+    {{- $questionText = printf "GeoGuessrで%sを見分けるには？" $countryName -}}
+  {{- else if eq $lang "en" }}
+    {{- $questionText = printf "How to identify %s in GeoGuessr?" $countryName -}}
+  {{- else if eq $lang "id" }}
+    {{- $questionText = printf "Bagaimana cara mengenali %s di GeoGuessr?" $countryName -}}
+  {{- else if eq $lang "es" }}
+    {{- $questionText = printf "¿Cómo identificar %s en GeoGuessr?" $countryName -}}
+  {{- else if eq $lang "pt" }}
+    {{- $questionText = printf "Como identificar %s no GeoGuessr?" $countryName -}}
+  {{- else }}
+    {{- $questionText = printf "How to identify %s in GeoGuessr?" $countryName -}}
+  {{- end }}
+  {{- $qaItem := dict "@type" "Question" "name" $questionText "acceptedAnswer" (dict "@type" "Answer" "text" $answerText) -}}
+  {{- $faqScratch.Add "questions" (slice $qaItem) -}}
+  {{- $faqData := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" ($faqScratch.Get "questions") -}}
+  <script type="application/ld+json">{{ jsonify $faqData | safeJS }}</script>
+{{- end }}
+
+{{/* FAQ Schema - Custom FAQ from frontmatter */}}
+{{- with $page.Params.faq }}
+  {{- $customFaqScratch := newScratch -}}
+  {{- $customFaqScratch.Set "questions" (slice) -}}
+  {{- range . }}
+    {{- $qaItem := dict "@type" "Question" "name" .question "acceptedAnswer" (dict "@type" "Answer" "text" .answer) -}}
+    {{- $customFaqScratch.Add "questions" (slice $qaItem) -}}
+  {{- end }}
+  {{- $customFaqData := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" ($customFaqScratch.Get "questions") -}}
+  <script type="application/ld+json">{{ jsonify $customFaqData | safeJS }}</script>
+{{- end }}
+
+{{/* HowTo Schema - Auto-generated for country pages with flag parameter */}}
+{{- if $page.Params.flag }}
+  {{- $howtoScratch := newScratch -}}
+  {{- $howtoScratch.Set "steps" (slice) -}}
+  {{- $countryName := $page.Title -}}
+  {{- $howtoName := "" -}}
+  {{- if eq $lang "ja" }}
+    {{- $howtoName = printf "GeoGuessrで%sを見分ける方法" $countryName -}}
+  {{- else if eq $lang "en" }}
+    {{- $howtoName = printf "How to identify %s in GeoGuessr" $countryName -}}
+  {{- else if eq $lang "id" }}
+    {{- $howtoName = printf "Cara mengenali %s di GeoGuessr" $countryName -}}
+  {{- else if eq $lang "es" }}
+    {{- $howtoName = printf "Cómo identificar %s en GeoGuessr" $countryName -}}
+  {{- else if eq $lang "pt" }}
+    {{- $howtoName = printf "Como identificar %s no GeoGuessr" $countryName -}}
+  {{- else }}
+    {{- $howtoName = printf "How to identify %s in GeoGuessr" $countryName -}}
+  {{- end }}
+  {{- $stepIndex := 1 -}}
+  {{- $stepText1 := "" -}}
+  {{- $stepText2 := "" -}}
+  {{- $stepText3 := "" -}}
+  {{- if eq $lang "ja" }}
+    {{- $stepText1 = "ストリートビューの風景を観察する" -}}
+    {{- $stepText2 = "看板、標識、言語などの特徴を確認する" -}}
+    {{- $stepText3 = "地形や植生から地域を絞り込む" -}}
+  {{- else }}
+    {{- $stepText1 = "Observe the Street View landscape" -}}
+    {{- $stepText2 = "Check signs, road markers, and language" -}}
+    {{- $stepText3 = "Narrow down the region from terrain and vegetation" -}}
+  {{- end }}
+  {{- $step1 := dict "@type" "HowToStep" "position" 1 "name" $stepText1 "text" $stepText1 -}}
+  {{- $step2 := dict "@type" "HowToStep" "position" 2 "name" $stepText2 "text" $stepText2 -}}
+  {{- $step3 := dict "@type" "HowToStep" "position" 3 "name" $stepText3 "text" $stepText3 -}}
+  {{- $howtoScratch.Add "steps" (slice $step1 $step2 $step3) -}}
+  {{- $howtoData := dict "@context" "https://schema.org" "@type" "HowTo" "name" $howtoName "description" $seo.description "step" ($howtoScratch.Get "steps") -}}
+  {{- with $seo.image }}
+    {{- $howtoData = merge $howtoData (dict "image" .) -}}
+  {{- end }}
+  <script type="application/ld+json">{{ jsonify $howtoData | safeJS }}</script>
+{{- end }}
