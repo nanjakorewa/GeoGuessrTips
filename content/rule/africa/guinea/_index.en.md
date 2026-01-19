@@ -34,7 +34,7 @@ CC0
 {{% /lb %}}
 
 {{% notice tip %}}
-One of Africa窶冱 leading <span class="quiz">bauxite</span> producers{{% ex "https://maps.app.goo.gl/oFWJApk89apmnfp1A" "https://maps.app.goo.gl/3auuzVSYRPKHZM7P8" %}}; major mines are in the northwest and soils often look reddish. Export structure shown below (2019).
+One of Africa's leading <span class="quiz">bauxite</span> producers{{% ex "https://maps.app.goo.gl/oFWJApk89apmnfp1A" "https://maps.app.goo.gl/3auuzVSYRPKHZM7P8" %}}; major mines are in the northwest and soils often look reddish. Export structure shown below (2019).
 {{% /notice %}}
 
 <div class="googlemap-if">

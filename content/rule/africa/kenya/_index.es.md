@@ -92,7 +92,7 @@ El Google Car en Kenia es distintivo y tiene varias variantes. Puede verse el te
 </div>
 
 {{% notice tip %}}
-Referencia: {{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 縲拶 review of Kenya窶冱 national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.縲・(2014)." %}}
+Referencia: {{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. A review of Kenya's national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon. (2014)." %}}
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Costa Este" %}}

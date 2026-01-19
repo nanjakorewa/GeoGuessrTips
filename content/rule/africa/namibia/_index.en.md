@@ -100,10 +100,10 @@ Namibia has a very high income disparity, with a Gini coefficient of 0.58{{% ref
                 <li><span style="color:#9D3500">笆</span> Areas with dark brownish soil {{% ex "https://maps.app.goo.gl/QuFYYeY8U3TnWDSE9" "https://maps.app.goo.gl/ZSL9nh6AGv1iay5G7" %}}</li>
             </ul>
         </li>
-        <li>Railways run from the most important port, Walvis Bay, and Lﾃｼderitz窶杯he only port until the end of apartheid窶杷or container transport.
+        <li>Railways run from the most important port, Walvis Bay, and Luderitz - the only port until the end of apartheid - for container transport.
             <ul>
                 <li>Walvis Bay {{% ex "https://maps.app.goo.gl/z21NtccVNu2cYMAB6" %}} (Soil is elevated where the track runs)</li>
-                <li>Lﾃｼderitz {{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
+                <li>Luderitz {{% ex "https://maps.app.goo.gl/YbtgXiN1RwrARDoB6" "https://maps.app.goo.gl/TdSb5JHUqDUWA7qK6" %}}</li>
             </ul>
         </li>
     </ul>
@@ -134,7 +134,7 @@ Green areas indicate over 80% coverage, while light green areas show visible gro
 {{% tab "Railways" %}}
 
 {{% notice tip %}}
-Railways run primarily from the most important port, Walvis Bay (railway lines appear as black and white lines on the island map). Until Walvis Bay was incorporated after the end of apartheid, Lﾃｼderitz was the only port along the Namibian coast that could accommodate large ships. Thinking of this in historical context might make it easier to remember.
+Railways run primarily from the most important port, Walvis Bay (railway lines appear as black and white lines on the island map). Until Walvis Bay was incorporated after the end of apartheid, Luderitz was the only port along the Namibian coast that could accommodate large ships. Thinking of this in historical context might make it easier to remember.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">

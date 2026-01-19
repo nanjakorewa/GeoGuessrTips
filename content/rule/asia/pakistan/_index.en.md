@@ -54,7 +54,7 @@ Utility poles are often metal lattice towers or styles reminiscent of Chile{{% e
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:Northern_resident.jpg#/media/File:Northern_resident.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Northern_resident.jpg" alt="Wikimedia Commons photo showing Northern Resident" width="90%"></a></p><p>B盻殃 <a href="//commons.wikimedia.org/w/index.php?title=User:Mahanoor_Masood&amp;action=edit&amp;redlink=1" class="new" title="User:Mahanoor Masood (page does not exist)">Mahanoor Masood</a> 窶・<span class="int-own-work" lang="vi">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48639051">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Northern_resident.jpg#/media/File:Northern_resident.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/54/Northern_resident.jpg" alt="Wikimedia Commons photo showing Northern Resident" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Mahanoor_Masood&amp;action=edit&amp;redlink=1" class="new" title="User:Mahanoor Masood (page does not exist)">Mahanoor Masood</a> - <span class="int-own-work" lang="vi">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=48639051">Link</a></p>
 </div>
 
 

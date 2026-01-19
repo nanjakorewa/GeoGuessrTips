@@ -24,7 +24,7 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Konflik sipil berlangsung sejak akhir 1980窶疎n{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2%E5%86%85%E6%88%A6" "Perang Saudara Somalia (JP)" %}}. Untuk kisah dan foto langsung, lihat misalnya 窶廳ojima Teacher Goes to Africa窶・
+Konflik sipil berlangsung sejak akhir 1980-an{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2%E5%86%85%E6%88%A6" "Perang Saudara Somalia (JP)" %}}. Untuk kisah dan foto langsung, lihat misalnya 'Ojima Teacher Goes to Africa'.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

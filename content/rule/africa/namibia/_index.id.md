@@ -133,7 +133,7 @@ Jalur kereta menghubungkan pelabuhan utama Walvis Bay (ditunjukkan oleh garis hi
     <ul class="rule-list">
         <li>Pterocarpus angolensis (Angola karlin) tumbuh alami di sepanjang koridor Caprivi di timur laut</li>
         <li>Colophospermum mopane hanya tumbuh di bagian barat laut Namibia{{% ex "https://maps.app.goo.gl/RXZAuphynLFVYrsP9" %}}</li>
-        <li>Pohon palem 窶徇eledak窶・tersebar di utara dekat Angola dan pesisir barat laut{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
+        <li>Pohon palem "meledak" tersebar di utara dekat Angola dan pesisir barat laut{{% ex "https://maps.app.goo.gl/g9BpJEytnusX7Nws8" %}}</li>
         <li>Aloe dichotoma hanya tumbuh dari {{% goto "../south-africa/" "Afrika Selatan" %}} hingga barat daya Namibia</li>
     </ul>
 </div>

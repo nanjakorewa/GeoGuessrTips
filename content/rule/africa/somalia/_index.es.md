@@ -24,7 +24,7 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-El conflicto civil continﾃｺa desde finales de la dﾃｩcada de 1980{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2%E5%86%85%E6%88%A6" "Guerra Civil Somalﾃｭ (JP)" %}}. Para relatos y fotos en primera persona, vﾃｩase, por ejemplo, 窶廳ojima Teacher Goes to Africa窶・
+El conflicto civil contin?a desde finales de la d?cada de 1980{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2%E5%86%85%E6%88%A6" "Guerra Civil Somal? (JP)" %}}. Para relatos y fotos en primera persona, v?ase, por ejemplo, 'Ojima Teacher Goes to Africa'.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

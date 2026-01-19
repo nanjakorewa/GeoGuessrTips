@@ -86,7 +86,7 @@ Google Car di Kenya memiliki beberapa ciri khas, termasuk atap yang terlihat {{%
 <div class="googlemap-if unclickable no-margin">
 <img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Kenya GeoGuessr guide image showing Vegitation" />
 </div>
-{{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 縲拶 review of Kenya窶冱 national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.縲・(2014)." %}}
+{{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. A review of Kenya's national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon. (2014)." %}}
 {{% /notice %}}
 {{% /tab %}}
 {{% tab "Pesisir Timur" %}}

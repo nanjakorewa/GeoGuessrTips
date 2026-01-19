@@ -24,7 +24,7 @@ is_unofficial: true
 {{% tabs %}}
 {{% tab "w-etf" %}}
 {{% notice tip %}}
-Civil conflict has continued since the late 1980s{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2%E5%86%85%E6%88%A6" "Somali Civil War (JP)" %}}. For first窶蘇and accounts and photos, see travelogues such as 窶廳ojima Teacher Goes to Africa窶・
+Civil conflict has continued since the late 1980s{{% ref "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2%E5%86%85%E6%88%A6" "Somali Civil War (JP)" %}}. For first-hand accounts and photos, see travelogues such as 'Ojima Teacher Goes to Africa'.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">

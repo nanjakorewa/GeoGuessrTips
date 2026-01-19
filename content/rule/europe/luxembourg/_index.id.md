@@ -29,7 +29,7 @@ sc: [
         <li>Bollard tidak memiliki reflektor oranye, melainkan garis <span class="quiz">abu-abu</span></li>
         <li>Rambu jalan sering memuat bahasa Prancis berdampingan dengan bahasa lain</li>
         <li class="no-evidence">Papan chevron biasanya menampilkan <span class="quiz">panah putih di atas latar abu-abu gelap</span></li>
-        <li class="no-evidence">Dibanding Belanda, medan lebih bergelombang, kanal lebih sedikit, rumah berwarna lebih terang, dan jalur sepeda khusus tidak sebanyak di Belanda {{% goto "../../../architecture/houses/europe-1/#繝ｫ繧ｯ繧ｻ繝ｳ繝悶Ν繧ｰ" "Gaya rumah 窶ｺ Luxembourg (JP)" %}}</li>
+        <li class="no-evidence">Dibanding Belanda, medan lebih bergelombang, kanal lebih sedikit, rumah berwarna lebih terang, dan jalur sepeda khusus tidak sebanyak di Belanda {{% goto "../../../architecture/houses/europe-1/#繝ｫ繧ｯ繧ｻ繝ｳ繝悶Ν繧ｰ" "Gaya rumah Luxembourg (JP)" %}}</li>
     </ul>
     {{% rd europe luxembourg verysmall %}}
     {{% corp "europe/luxembourg" "" %}}
