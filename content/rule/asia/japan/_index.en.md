@@ -34,24 +34,24 @@ The area code is a gradation from Sapporo (`011`) to Tokyo (`03`) to Osaka (`06`
 {{% tab "w-road" %}}
 
 {{% notice tip %}}
-IC・JCTを対象に、起点から終点方向に連番で付番（１、２、３…）。追加になったIC・JCTは、枝番で付番（例：地図内の「3-1」、「5-1」）。画像出典：{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf99/3.pdf" "web" "高速道路ナンバリング検討委員会 高速道路ナンバリングの実現に向けた提言参考資料"%}}
+Expressway exit numbers (IC/JCT) follow a consistent system. The numbering shifts when you cross prefectural borders, which helps you narrow down the region{{% by "https://www.mlit.go.jp/road/ir/ir-council/numbering/pdf99/3.pdf" "web" "Japan Expressway Numbering" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
 <img src="/rule/asia/japan/2023-04-14-22-35-16.png" class="no-click" width="90%" alt="Japan GeoGuessr guide image showing 2023 04 14 22 35 16" />
 </div>
 
 {{% notice tip %}}
-作成者不明
+Use the interactive map for a quick overview of prefecture-specific tips.
 {{% /notice %}}
 <div class="googlemap-if">
 <iframe src="https://widgets.scribblemaps.com/sm/?d=true&z=true&l=true&id=3cptmvLxxV&s" allow="geolocation" allowfullscreen width="720" height="550" frameborder="0" title="Japan Prefecture Tips" loading="lazy" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
 
 {{% /tab %}}
-{{% tab "🎵" %}}
+{{% tab "Music" %}}
 
 {{% notice tip %}}
-<span class="quiz">千葉県長生郡長柄町</span>
+A short playlist of Japanese music to set the mood.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -78,9 +78,9 @@ IC・JCTを対象に、起点から終点方向に連番で付番（１、２、
         <li><a href="./okinawa/" class="area-link">Okinawa</a>
             <ul>
                 <li>Many one-story buildings.</li>
-                <li>Many buildings have <span class="quiz">flat white buildings</span>.</li>
+                <li>Many buildings are <span class="quiz">flat, white structures</span>.</li>
                 <li>There is a <span class="quiz">water tank</span> on the roof.</li>
-                <li>It is written "石敢當" on the wall, etc.</li>
+                <li>Walls often have Japanese warning text painted on them (e.g., no dumping).</li>
             </ul>
         </li>
     </ul>

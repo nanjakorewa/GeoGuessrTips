@@ -19,28 +19,33 @@ sc: [
 products:
   - title: "LEUCHTTURM1917 - Notebook Hardcover Medium A5"
     url: https://amzn.to/4kH8fxU
+    description: "A German notebook brand founded in 1917, known for durable hardcovers and high-quality paper."
     company_name: "LEUCHTTURM1917"
     company_url: "http://www.leuchtturm1917.jp/index.html"
   - title: "WMF Stainless Frying Pan"
     url: https://amzn.to/4mytQu1
+    description: "A premium German kitchenware maker founded in 1853, now part of the SEB Group."
     company_name: "WMF"
     company_url: "https://shop.wmf.co.jp/shop/"
   - title: "Zwilling Henckels Kitchen Shears"
     url: https://amzn.to/44VfWf3
+    description: "A German cutlery manufacturer founded in 1731 with a long heritage in blades and kitchen tools."
     company_name: "Zwilling J.A. Henckels AG"
     company_url: "https://www.zwilling.com/jp/"
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
-    <ul class="rule-list">
+        <ul class="rule-list">
         <li>The country-code domain is <span class="quiz">.de</span></li>
-        <li><span class="quiz">Einbahnstraße</span> marks a one-way street</li>
-        <li>German uses the Eszett character <span class="quiz">ß</span></li>
+        <li><span class="quiz">Einbahnstrasse</span> marks a one-way street</li>
+        <li>German uses the Eszett character <span class="quiz">&szlig;</span></li>
         <li>Bollards carry <span class="quiz">white</span> or <span class="quiz">orange</span> reflectors</li>
-        <li>Bus and tram stops display a green <span class="quiz">“H” (Haltestelle)</span> symbol</li>
+        <li>Bus and tram stops display a green <span class="quiz">H</span> (Haltestelle) symbol</li>
+        <li>Company names often include <span class="quiz">GmbH</span> on signs</li>
         <li>Legacy coverage featured square blur and mostly Gen2 imagery{{% by "neckoluv" "twitch" %}}; new Street View refreshes began rolling out after July 2023{{% ref "https://virtualstreets.org/index.php/2023/06/08/google-to-update-street-view-in-germany-this-year/" "Google to update Street View in Germany this year" %}}</li>
-        <li class="no-evidence">Urban areas rarely show exposed utility poles{{% ref "https://shizen-hatch.net/2022/03/17/telephone-pole/" "電柱の整備状況と地中化に向けた国内外の取り組み" %}}</li>
+        <li class="no-evidence">Some town signs include QR codes that link to local information</li>
+        <li class="no-evidence">Urban areas rarely show exposed utility poles{{% ref "https://shizen-hatch.net/2022/03/17/telephone-pole/" "??????????????????????????????????????" %}}</li>
     </ul>
     {{% rd europe germany verysmall %}}
     {{% corp "europe/germany" "" %}}
@@ -50,7 +55,7 @@ products:
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-An <span class="quiz">Einbahnstraße</span> sign means you are in Germany{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}, while the shorter <b>EINBAHN</b> indicates {{% goto "../austria/" "Austria" %}}. No-parking zones allow short stops and use arrowed signs{{% ex "https://goo.gl/maps/hqpXZohCSRdPsmkg6" "https://goo.gl/maps/jErDcP5ZEDAtdyp28" "https://goo.gl/maps/byvBdT99cUgVzss79" %}}. Watch for the Eszett <span class="quiz">ß</span> in German text.
+An <span class="quiz">Einbahnstrasse</span> sign means you are in Germany{{% ex "https://goo.gl/maps/8s3zDJtsXGoH4wFm9" "https://goo.gl/maps/ptnyNtWURetNQkjt8" %}}, while the shorter <b>EINBAHN</b> indicates {{% goto "../austria/" "Austria" %}}. No-parking zones allow short stops and use arrowed signs{{% ex "https://goo.gl/maps/hqpXZohCSRdPsmkg6" "https://goo.gl/maps/jErDcP5ZEDAtdyp28" "https://goo.gl/maps/byvBdT99cUgVzss79" %}}. Watch for the Eszett <span class="quiz">&szlig;</span> in German text.
 {{% /notice %}}
 
 <div class="googlemap-if">
@@ -104,16 +109,181 @@ Older Gen2 imagery produces boxy blur and muted colors. Newer updates offer shar
 </div>
 
 {{% /tab %}}
+{{% tab "Commercial" %}}
+{{% notice tip %}}
+Look for the green pharmacy sign marked <span class="quiz">Apotheke</span>{{% ref "https://de.wikipedia.org/wiki/Apotheke" "Apotheke" %}}.
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="./c/apotheke.jpg" width="500px" alt="Germany GeoGuessr guide image showing Apotheke">
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Germany GeoGuessr guide image showing Deutsche Apotheke Logo">
+</div>
+
+{{% notice tip %}}
+Deutsche Post and DHL branding is widespread; DHL is a major global logistics group{{% ref "https://en.wikipedia.org/wiki/DHL_Group" "DHL Group" %}}.
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Germany GeoGuessr guide image showing Deutsche Post Ag Technischer 0">
+<img src="./c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Germany GeoGuessr guide image showing Dhl Rad Tu Darmstadt">
+</div>
+
+{{% notice tip %}}
+Aral gas stations are common across Germany{{% ref "https://en.wikipedia.org/wiki/Aral_AG" "Aral AG" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="Aral.jpg" width="90%" alt="Germany GeoGuessr guide image showing Aral">
+</div>
+
+{{% /tab %}}
+{{% tab "w-bollard" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679315413839!6m8!1m7!1sCAoSLEFGMVFpcE5iN3A2QTBpaW5vcGZHWjVFUXM0eHIteURHbUJhbHA0NzdvX2l4!2m2!1d50.7327359391176!2d6.82996892026819!3f340.44893574166593!4f-7.7953259871863025!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "@2023Google" %}}
+
+{{% notice tip %}}
+Germany saw a Street View refresh in 2023. When you see a 2023 Google copyright watermark, the coverage is newer and often clearer than the older Gen2 imagery.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<img src="./copyright.jpg" width="400px" alt="Germany GeoGuessr guide image showing Copyright">
+</div>
+
+{{% /tab %}}
 {{% tab "Roads" %}}
 
 {{% notice tip %}}
-Autobahn junction plates use yellow shielding with “A###” numbering{{% ex "https://goo.gl/maps/tbUG1zs2p5K45aeD9" %}}. Local roads carry “L” or “B” prefixes.
+Autobahn junction plates use yellow shielding with <span class="quiz">A###</span> numbering{{% ex "https://goo.gl/maps/tbUG1zs2p5K45aeD9" %}}. Local roads carry <span class="quiz">B</span>, <span class="quiz">L</span>, or <span class="quiz">K</span> prefixes.
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="./autobahn.jpg" width="95%" alt="Germany GeoGuessr guide image showing Autobahn">
 </div>
 
+{{% /tab %}}
+{{% /tabs %}}
+
+{{< amazoncard
+    url="https://amzn.to/3Kscu3P" 
+    title="67 Ways to Know Germany, 3rd Edition (Area Studies)"
+    price="JPY 2,200"
+    tagline="A concise Germany area-studies guide covering history, society, economy, and culture in short chapters, updated for recent years."
+>}} 
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li class="no-evidence">Brick villages with orange tiles are more common in the north</li>
+        <li class="no-evidence">Large prefabricated housing blocks hint at former East Germany</li>
+        <li class="no-evidence">Central Germany can show small-town landscapes and gentle hills</li>
+        <li class="no-evidence">Slate roofs cluster around the Trier/Burgen area{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}</li>
+        <li>Fachhallenhaus-style farmhouses appear in northern Germany near the {{% goto "../netherlands/" "Netherlands" %}}{{% ref "https://en.wikipedia.org/wiki/Low_German_house" "Low German house" %}}</li>
+        <li class="no-evidence">The German Timber-Frame Road links traditional half-timbered towns{{% ref "https://en.wikipedia.org/wiki/German_Timber-Frame_Road" "German Timber-Frame Road" %}}
+            <ul>
+                <li>North{{% ex "https://maps.app.goo.gl/L4oKBRiv6M5yeq6u8" "https://maps.app.goo.gl/i27QV7aWrXFm9peu6" %}}</li>
+                <li>South{{% ex "https://maps.app.goo.gl/8f9nqrA44JDHyrZq6" "https://maps.app.goo.gl/sHzSEUP7XoJd8xD27" "https://maps.app.goo.gl/sUqh5JB7BFqPE2Et6" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Village houses" %}}
+
+{{% notice tip %}}
+Example village: Stellichte{{% ex "https://goo.gl/maps/9rK6VkLzAaN7efsG8" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./stellichte_germany_village_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Stellichte Germany Village Town"></p>
+</div>
+{{% /tab %}}
+{{% tab "Prefab housing" %}}
+
+{{% notice tip %}}
+Example town: Hoyerswerda{{% ex "https://goo.gl/maps/aaHQ3A1HjsXDo1m87" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%82%A4%E3%82%A8%E3%83%AB%E3%82%B9%E3%83%B4%E3%82%A7%E3%83%AB%E3%83%80" "Hoyerswerda" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Hy hufelandstr36 46wohnhaus"></p>
+</div>
+{{% /tab %}}
+{{% tab "Central Germany town" %}}
+
+{{% notice tip %}}
+Example town: Burglauer{{% ex "https://goo.gl/maps/xomxhZ4wN97RjXJbA" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./burglauer_germany_landscape_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Burglauer Germany Landscape Town"></p>
+</div>
+{{% /tab %}}
+{{% tab "Slate-roof towns" %}}
+
+{{% notice tip %}}
+Slate roofs are common around Trier and Burgen, close to the Fell Exhibition Slate Mine{{% ref "https://en.wikipedia.org/wiki/Fell_Exhibition_Slate_Mine" "Fell Exhibition Slate Mine" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><img src="./house-example.jpg" width="90%" alt="Germany GeoGuessr guide image showing House Example"></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Wikimedia Commons photo showing Trier Heiligkreuz, Am Kiewelsberg 20220705 (2)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Fachhallenhaus" %}}
+
+{{% notice tip %}}
+Northern Germany has Fachhallenhaus farmhouses, sometimes resembling {{% goto "../belgium/" "Belgium" %}} or Dutch styles{{% ex "https://maps.app.goo.gl/sgqwsM8k16KBxSA26" "https://maps.app.goo.gl/2SSuuoSZXsTxbEzY6" "https://maps.app.goo.gl/HBS8t7ARSW5fPMiQA" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin unclickable">
+<p><img src="./winsenmuseum_groode_hus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Winsenmuseum Groode Hus"></p>
+</div>
+{{% /tab %}}
+{{% tab "German Timber-Frame Road" %}}
+
+{{% notice tip %}}
+This route highlights historic half-timbered towns and preservation districts.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:GesamtkarteMitneuerRouteDetail2016.jpg#/media/File:GesamtkarteMitneuerRouteDetail2016.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/GesamtkarteMitneuerRouteDetail2016.jpg" alt="Wikimedia Commons photo showing GesamtkarteMitneuerRouteDetail2016" height="720" width="574"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Deutsche_Fachwerkstra%C3%9Fe&amp;action=edit&amp;redlink=1" class="new" title="User:Deutsche Fachwerkstrasse (page does not exist)">Deutsche Fachwerkstrasse</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=49334857">Link</a></p>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption city-description">
+    <ul class="rule-list">
+        <li>German place-name suffixes can hint at region{{% ref "https://tobiaskauer.org/projects/end/?ach" "Suffixes of German towns and villages" %}}</li>
+        <li>North-south differences show in climate and landscape</li>
+        <li>Telephone area codes provide rough regional hints</li>
+        <li class="no-evidence">Industrial density clusters in specific regions</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Place-name suffixes" %}}
+
+{{% notice tip %}}
+Use suffix maps to estimate region quickly.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin" style="pointer-events:none;">
+<blockquote class="reddit-embed-bq" style="height:500px" data-embed-height="740"><a href="https://www.reddit.com/r/MapPorn/comments/9xpzd8/german_name_place_endings_eg_burg_vs_dorf_vs/">German name place endings (e.g., \"-burg\" vs \"-dorf\" vs \"-inghausen\", etc.) [1536x1572] [x-post /r/DataArt]</a><br> by<a href="https://www.reddit.com/user/jmerlinb/">u/jmerlinb</a> in<a href="https://www.reddit.com/r/MapPorn/">MapPorn</a></blockquote><script async="" src="https://embed.reddit.com/widgets.js" charset="UTF-8"></script>
+</div>
+{{% /tab %}}
+{{% tab "Topography" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Deutschland_topo.jpg#/media/File:Deutschland_topo.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Deutschland_topo.jpg" alt="Wikimedia Commons photo showing Deutschland Topo" height="720" width="546"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Botaurus-stellaris" title="User:Botaurus-stellaris">Botaurus-stellaris</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="http://creativecommons.org/licenses/by-sa/3.0/" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1376564">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Area codes" %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Karte_Telefonvorwahlen_Deutschland.png#/media/File:Karte_Telefonvorwahlen_Deutschland.png"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Karte_Telefonvorwahlen_Deutschland.png" alt="Wikimedia Commons photo showing Karte Telefonvorwahlen Deutschland" width="90%"></a></p><p>By <a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Maximilian Dorrbecker</a> (<a href="https://de.wikipedia.org/wiki/User:Chumwa" class="extiw" title="de:User:Chumwa">Chumwa</a>) - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/2.5" title="Creative Commons Attribution-Share Alike 2.5">CC BY-SA 2.5</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=76218560">Link</a></p>
+</div>
 {{% /tab %}}
 {{% /tabs %}}
 
@@ -241,15 +411,15 @@ Industrial density varies: GfK maps highlight clusters of manufacturing employee
             <tr>
                 <td>BASF</td>
                 <td>-</td>
+                <td>Germany's largest chemical company; its name comes from Badische Anilin- und Sodafabrik.</td>
                 <td>{{% corplink "https://www.basf.com/global/en/investors" %}}</td>
-                <td>-</td>
                 <td>-</td>
             </tr>
             <tr>
                 <td>Hapag-Lloyd</td>
                 <td>-</td>
+                <td>One of the world's major container shipping lines, headquartered in Germany.</td>
                 <td>{{% corplink "https://www.hapag-lloyd.com/en/company/ir.html" %}}</td>
-                <td>-</td>
                 <td>-</td>
             </tr>
         </tbody>
