@@ -215,3 +215,52 @@
   {{- end }}
   <script type="application/ld+json">{{ jsonify $howtoData | safeJS }}</script>
 {{- end }}
+
+{{/* VideoObject Schema - from frontmatter */}}
+{{- $videoItems := slice -}}
+{{- with $page.Params.videos }}
+  {{- range . }}
+    {{- $title := (.title | default "" | plainify | strings.TrimSpace) -}}
+    {{- $desc := (.description | default "" | plainify | strings.TrimSpace) -}}
+    {{- $date := (.uploadDate | default "" | strings.TrimSpace) -}}
+    {{- $thumb := (.thumbnailUrl | default "" | strings.TrimSpace) -}}
+    {{- $embed := (.embedUrl | default "" | strings.TrimSpace) -}}
+    {{- $contentUrl := (.contentUrl | default "" | strings.TrimSpace) -}}
+    {{- $id := (.id | default "" | strings.TrimSpace) -}}
+    {{- $isShort := (.short | default false) -}}
+    {{- if $id -}}
+      {{- if not $embed -}}
+        {{- $embed = printf "https://www.youtube.com/embed/%s" $id -}}
+      {{- end -}}
+      {{- if not $contentUrl -}}
+        {{- if $isShort -}}
+          {{- $contentUrl = printf "https://www.youtube.com/shorts/%s" $id -}}
+        {{- else -}}
+          {{- $contentUrl = printf "https://www.youtube.com/watch?v=%s" $id -}}
+        {{- end -}}
+      {{- end -}}
+      {{- if not $thumb -}}
+        {{- $thumb = printf "https://i.ytimg.com/vi/%s/hqdefault.jpg" $id -}}
+      {{- end -}}
+    {{- end -}}
+    {{- if and $title $desc $date $thumb $embed $contentUrl -}}
+      {{- $videoItems = $videoItems | append (dict
+        "@type" "VideoObject"
+        "name" $title
+        "description" $desc
+        "thumbnailUrl" (slice $thumb)
+        "uploadDate" $date
+        "embedUrl" $embed
+        "contentUrl" $contentUrl
+      ) -}}
+    {{- end -}}
+  {{- end }}
+{{- end }}
+{{- if gt (len $videoItems) 0 -}}
+  {{- if eq (len $videoItems) 1 -}}
+    {{- $videoSingle := merge (dict "@context" "https://schema.org") (index $videoItems 0) -}}
+    <script type="application/ld+json">{{ jsonify $videoSingle | safeJS }}</script>
+  {{- else -}}
+    <script type="application/ld+json">{{ jsonify (dict "@context" "https://schema.org" "@graph" $videoItems) | safeJS }}</script>
+  {{- end }}
+{{- end }}
