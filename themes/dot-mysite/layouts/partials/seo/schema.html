@@ -125,7 +125,15 @@
   {{- $faqScratch.Set "questions" (slice) -}}
   {{- $countryName := $page.Title -}}
   {{- $questionText := "" -}}
-  {{- $answerText := $seo.description -}}
+  {{- $answerText := "" -}}
+  {{- if $seo.description -}}
+    {{- $answerText = $seo.description -}}
+  {{- else if $page.Summary -}}
+    {{- $answerText = ($page.Summary | plainify) -}}
+  {{- else if $page.Plain -}}
+    {{- $answerText = ($page.Plain | plainify) -}}
+  {{- end -}}
+  {{- $answerText = ($answerText | strings.TrimSpace) -}}
   {{- if eq $lang "ja" }}
     {{- $questionText = printf "GeoGuessrで%sを見分けるには？" $countryName -}}
   {{- else if eq $lang "en" }}
@@ -139,10 +147,12 @@
   {{- else }}
     {{- $questionText = printf "How to identify %s in GeoGuessr?" $countryName -}}
   {{- end }}
-  {{- $qaItem := dict "@type" "Question" "name" $questionText "acceptedAnswer" (dict "@type" "Answer" "text" $answerText) -}}
-  {{- $faqScratch.Add "questions" (slice $qaItem) -}}
-  {{- $faqData := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" ($faqScratch.Get "questions") -}}
-  <script type="application/ld+json">{{ jsonify $faqData | safeJS }}</script>
+  {{- if $answerText -}}
+    {{- $qaItem := dict "@type" "Question" "name" $questionText "acceptedAnswer" (dict "@type" "Answer" "text" $answerText) -}}
+    {{- $faqScratch.Add "questions" (slice $qaItem) -}}
+    {{- $faqData := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" ($faqScratch.Get "questions") -}}
+    <script type="application/ld+json">{{ jsonify $faqData | safeJS }}</script>
+  {{- end }}
 {{- end }}
 
 {{/* FAQ Schema - Custom FAQ from frontmatter */}}
@@ -150,11 +160,17 @@
   {{- $customFaqScratch := newScratch -}}
   {{- $customFaqScratch.Set "questions" (slice) -}}
   {{- range . }}
-    {{- $qaItem := dict "@type" "Question" "name" .question "acceptedAnswer" (dict "@type" "Answer" "text" .answer) -}}
-    {{- $customFaqScratch.Add "questions" (slice $qaItem) -}}
+    {{- $questionText := (.question | default "" | plainify | strings.TrimSpace) -}}
+    {{- $answerText := (.answer | default "" | plainify | strings.TrimSpace) -}}
+    {{- if and $questionText $answerText -}}
+      {{- $qaItem := dict "@type" "Question" "name" $questionText "acceptedAnswer" (dict "@type" "Answer" "text" $answerText) -}}
+      {{- $customFaqScratch.Add "questions" (slice $qaItem) -}}
+    {{- end -}}
   {{- end }}
-  {{- $customFaqData := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" ($customFaqScratch.Get "questions") -}}
-  <script type="application/ld+json">{{ jsonify $customFaqData | safeJS }}</script>
+  {{- if gt (len ($customFaqScratch.Get "questions")) 0 -}}
+    {{- $customFaqData := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" ($customFaqScratch.Get "questions") -}}
+    <script type="application/ld+json">{{ jsonify $customFaqData | safeJS }}</script>
+  {{- end }}
 {{- end }}
 
 {{/* HowTo Schema - Auto-generated for country pages with flag parameter */}}
