@@ -189,6 +189,33 @@ body.lightbox-open {
   text-decoration: underline;
 }
 
+.sister-sites {
+  margin-top: 0.5rem;
+  font-size: 0.85rem;
+  color: rgba(59, 83, 95, 0.6);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.25rem;
+  flex-wrap: wrap;
+}
+
+.sister-sites a {
+  color: rgba(59, 83, 95, 0.7);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+.sister-sites a:hover,
+.sister-sites a:focus {
+  color: var(--primary-color);
+  text-decoration: underline;
+}
+
+.sister-sites .dot {
+  user-select: none;
+}
+
 li a:hover {
   text-decoration: underline;
 }
