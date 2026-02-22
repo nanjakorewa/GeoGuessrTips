@@ -20,4 +20,4 @@ Sou uma profissional que trabalha principalmente na região de Kansai. Gosto de 
 ## Outros sites que criei
 
 - [https://k-dm.work/](https://k-dm.work/)
-- [https://nanjakorewa.github.io/MemoryRecipes/ja/](https://nanjakorewa.github.io/MemoryRecipes/ja/)
+- [https://nanja-recipe.pages.dev/](https://nanja-recipe.pages.dev/)

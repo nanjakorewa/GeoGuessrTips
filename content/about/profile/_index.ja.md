@@ -20,4 +20,4 @@ sections: [""]
 ## 作成した他のページ
 
 - [https://k-dm.work/](https://k-dm.work/)
-- [https://nanjakorewa.github.io/MemoryRecipes/ja/](https://nanjakorewa.github.io/MemoryRecipes/ja/)
+- [https://nanja-recipe.pages.dev/](https://nanja-recipe.pages.dev/)
