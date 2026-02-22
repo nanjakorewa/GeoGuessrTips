@@ -140,7 +140,7 @@ Eslovaquia utiliza a veces fuentes muy gruesas en algunos de sus carteles circul
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./r/Dopravn%c3%a1_zna%c4%8dka_B31a.svg" width="120px" style="margin-right:10px;" alt="R GeoGuessr guide image showing Dopravn%c3%a1 zna%c4%8dka B31a">
+<img src="/rule/europe/slovakia/r/Dopravn%c3%a1_zna%c4%8dka_B31a.svg" width="120px" style="margin-right:10px;" alt="R GeoGuessr guide image showing Dopravn%c3%a1 zna%c4%8dka B31a">
 <img src="/rule/europe/slovakia/r/Dopravná_značka_B25.svg" width="120px" alt="R GeoGuessr guide image showing Dopravná Značka B25">
 </div>
 

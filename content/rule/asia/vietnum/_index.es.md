@@ -337,7 +337,7 @@ En el centro de Vietnam se pueden encontrar plantaciones de acacia gracias a un 
 </div>
 
 {{% tabs %}}
-{{% tab "Logotipo por ciudad" %}}![](2025-06-30-18-02-50.png)
+{{% tab "Logotipo por ciudad" %}}![](/rule/asia/vietnum/2025-06-30-18-02-50.png)
 {{% notice tip %}}
 El logotipo de cada ciudad a veces se adjunta al nombre de la calle, para que puedas saber de qué ciudad se trata.La imagen es la ciudad de Hanoi.{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8E%E3%82%A4" "Hanoi" %}}.
 {{% /notice %}}

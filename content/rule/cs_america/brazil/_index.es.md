@@ -89,7 +89,7 @@ Tiene el logo de Petrobras, la petrolera más grande de Sudamérica.{{% ex "http
 
 <div class="googlemap-if unclickable">
 <img src="/rule/cs_america/brazil/cmp/Petrobras_horizontal_logo.svg" width="360px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Petrobras Horizontal Logo">
-<img src="./cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Banco Ita%C3%BA Logo">
+<img src="/rule/cs_america/brazil/cmp/Banco_Ita%C3%BA_logo.svg" width="70px" style="margin:10px" alt="Cmp GeoGuessr guide image showing Banco Ita%C3%BA Logo">
 </div>
 
 

@@ -44,7 +44,7 @@ sc: [
 English signs are common{{% ex "https://maps.app.goo.gl/v4jw2xg95foSzkJ46" "https://maps.app.goo.gl/7Xru3uqLsT6bMgB27" "https://maps.app.goo.gl/HpQ743VkvHbrLphi6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./road-sign1.jpg" width="90%" alt="Philippines GeoGuessr guide image showing Road sign1">
+<img src="/rule/asia/philippines/road-sign1.jpg" width="90%" alt="Philippines GeoGuessr guide image showing Road sign1">
 </div>
 
 {{% notice tip %}}
@@ -57,7 +57,7 @@ In Asia, concrete roads are common in the Philippines and {{% goto "../thai/" "T
 
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road">
+<img src="/rule/asia/philippines/road.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road">
 </div>
 
 
@@ -65,11 +65,11 @@ In Asia, concrete roads are common in the Philippines and {{% goto "../thai/" "T
 Tricycles (motorbike + sidecar) are common taxis, and there are also pedicabs. Colorful <span class="quiz">jeepneys</span> are a major transport mode{{% ex "https://maps.app.goo.gl/vNjGz7z491mui2D19" %}}. Public transport plates are <span class="quiz">yellow</span>. Below: tricycle (right) and jeepney (left).
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="80%" alt="Philippines GeoGuessr guide image showing Car">
+<img src="/rule/asia/philippines/car.jpg" width="80%" alt="Philippines GeoGuessr guide image showing Car">
 </div>
 
 {{% lb %}}
-![](2023-05-02-11-44-19.png)
+![](/rule/asia/philippines/2023-05-02-11-44-19.png)
 
 By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativecommons.org/licenses/by-sa/2.0/deed.ja">CC BY-SA 2.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=1738757">Link(Wikimedia commons)</a>
 {{% /lb %}}
@@ -79,11 +79,11 @@ By Christian Razukas from Honolulu, Hawaii - Flickr, <a href="https://creativeco
 Private cars are often white or pale green{{% ex "https://maps.app.goo.gl/LS65WsfDF2v1gf8TA" %}}. Right-side driving, distinctive vehicles, and yellow/white/pale green plates point to the Philippines.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car-blar-image.png" width="400px" alt="Philippines GeoGuessr guide image showing Car Blar Image">
+<img src="/rule/asia/philippines/car-blar-image.png" width="400px" alt="Philippines GeoGuessr guide image showing Car Blar Image">
 </div>
 
 {{% lb 50 %}}
-![](private-licence-plate-cc0.png)
+![](/rule/asia/philippines/private-licence-plate-cc0.png)
 
 CC0 image edited
 {{% /lb %}}
@@ -93,7 +93,7 @@ You may see signs for <span class="quiz">Jollibee</span>, the major fast-food ch
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="Philippines GeoGuessr guide image showing 09976jfmaharlika Highway Plaridel Bustos" />
+<img src="/rule/asia/philippines/09976jfmaharlika_highway_plaridel_bustos.jpg" width="90%" alt="Philippines GeoGuessr guide image showing 09976jfmaharlika Highway Plaridel Bustos" />
 </div>
 
 {{% notice tip %}}
@@ -101,11 +101,11 @@ In Asia, red-and-white chevrons are mostly seen in the Philippines and {{% goto 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./arrow.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Arrow">
+<img src="/rule/asia/philippines/arrow.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Arrow">
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="R GeoGuessr guide image showing Philippines Road Sign Hm 1B R">
+<img src="/rule/asia/philippines/r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="R GeoGuessr guide image showing Philippines Road Sign Hm 1B R">
 </div>
 
 
@@ -189,7 +189,7 @@ Stray dogs are common in rural areas, and there are water buffalo too.
 {{% tabs %}}
 {{% tab "Tagalog" %}}
 <div class="googlemap-if unclickable">
-<img src="./fri03sep2004_chinatown_to_gastown.jpg" alt="Philippines GeoGuessr guide image showing fri03sep2004 Chinatown To Gastown">
+<img src="/rule/asia/philippines/fri03sep2004_chinatown_to_gastown.jpg" alt="Philippines GeoGuessr guide image showing fri03sep2004 Chinatown To Gastown">
 </div>
 
 {{% notice tip %}}
@@ -243,8 +243,8 @@ In my experience, about 80% are in the mountains around Baguio. Rarely seen outs
 {{% tabs %}}
 {{% tab "North" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/n1.jpg" width="500px" alt="Bike GeoGuessr guide image showing n1" />
-<img src="bike/n2.jpg" width="500px" alt="Bike GeoGuessr guide image showing n2" />
+<img src="/rule/asia/philippines/bike/n1.jpg" width="500px" alt="Bike GeoGuessr guide image showing n1" />
+<img src="/rule/asia/philippines/bike/n2.jpg" width="500px" alt="Bike GeoGuessr guide image showing n2" />
 </div>
 
 {{% notice tip %}}
@@ -254,9 +254,9 @@ Stepped roofs.
 {{% /tab %}}
 {{% tab "South" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="bike/s1.jpg" width="500px" alt="Bike GeoGuessr guide image showing s1" />
-<img src="bike/s2.jpg" width="500px" alt="Bike GeoGuessr guide image showing s2" />
-<img src="bike/s3.jpg" width="500px" alt="Bike GeoGuessr guide image showing s3" />
+<img src="/rule/asia/philippines/bike/s1.jpg" width="500px" alt="Bike GeoGuessr guide image showing s1" />
+<img src="/rule/asia/philippines/bike/s2.jpg" width="500px" alt="Bike GeoGuessr guide image showing s2" />
+<img src="/rule/asia/philippines/bike/s3.jpg" width="500px" alt="Bike GeoGuessr guide image showing s3" />
 </div>
 
 {{% notice tip %}}
@@ -311,23 +311,23 @@ This style of tuk-tuk is common. Rear seat covers are often used to hide legs{{%
 {{% tabs %}}
 {{% tab "Oil palm" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-07.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 07" />
+<img src="/rule/asia/philippines/2023-05-01-19-06-07.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 07" />
 </div>
 
 {{% /tab %}}
 {{% tab "Sugarcane" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-13-28.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 13 28" />
+<img src="/rule/asia/philippines/2023-05-01-19-13-28.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 13 28" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./agriculture_sugar_cane_crop.jpg" width="400px" alt="Philippines GeoGuessr guide image showing Agriculture Sugar Cane Crop">
+<img src="/rule/asia/philippines/agriculture_sugar_cane_crop.jpg" width="400px" alt="Philippines GeoGuessr guide image showing Agriculture Sugar Cane Crop">
 </div>
 
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-08-10.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 08 10" />
+<img src="/rule/asia/philippines/2023-05-01-19-08-10.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 08 10" />
 </div>
 
 <div class="googlemap-if">
@@ -336,7 +336,7 @@ This style of tuk-tuk is common. Rear seat covers are often used to hide legs{{%
 {{% /tab %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-01-19-06-44.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 44" />
+<img src="/rule/asia/philippines/2023-05-01-19-06-44.png" width="550px" alt="Philippines GeoGuessr guide image showing 2023 05 01 19 06 44" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -365,7 +365,7 @@ City names are often written directly on the sign.
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./road-sign3.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road sign3">
+<img src="/rule/asia/philippines/road-sign3.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Road sign3">
 </div>
 
 {{% /tab %}}
@@ -374,7 +374,7 @@ City names are often written directly on the sign.
 Signs for BDO Unibank, Bank of the Philippine Islands, Metrobank, and others often include location{{% ex "https://maps.app.goo.gl/aGYK9bU5YD7gy3Th9" %}}. Many normal shops also include addresses.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="Philippines GeoGuessr guide image showing 960px 9853Photos Taken During 2020 Coronavirus Pandemic Meycauayan, Bulacan 10">
+<img src="/rule/asia/philippines/960px-9853Photos_taken_during_2020_coronavirus_pandemic_Meycauayan,_Bulacan_10.jpg" width="95%" alt="Philippines GeoGuessr guide image showing 960px 9853Photos Taken During 2020 Coronavirus Pandemic Meycauayan, Bulacan 10">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -405,7 +405,7 @@ Islands between the main island and Taiwan{{% ex "https://maps.app.goo.gl/5CepKw
 The Google car is visible{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "https://maps.app.goo.gl/JdBzu82bx3beqHqJA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./corregidor_dn_st_86.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Corregidor Dn St 86">
+<img src="/rule/asia/philippines/corregidor_dn_st_86.jpg" width="95%" alt="Philippines GeoGuessr guide image showing Corregidor Dn St 86">
 </div>
 {{% /tab %}}
 {{% tab "Mount Pinatubo" %}}
@@ -413,7 +413,7 @@ The Google car is visible{{% ex "https://maps.app.goo.gl/rqcYwdYJjHmwQKB86" "htt
 
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./trekking_mountains_mountain_hiking.jpg" width="500px" alt="Philippines GeoGuessr guide image showing Trekking Mountains Mountain Hiking">
+<img src="/rule/asia/philippines/trekking_mountains_mountain_hiking.jpg" width="500px" alt="Philippines GeoGuessr guide image showing Trekking Mountains Mountain Hiking">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

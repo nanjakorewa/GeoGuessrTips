@@ -64,7 +64,7 @@ An <span class="quiz">Einbahnstrasse</span> sign means you are in Germany{{% ex 
 
 <div class="googlemap-if unclickable">
 <img src="/rule/europe/germany/r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="R GeoGuessr guide image showing Zeichen 220 20 Einbahnstraße, rechtsweisend, Stvo 2017">
-<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="R GeoGuessr guide image showing Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, Stvo 2017">
+<img src="/rule/europe/germany/r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="R GeoGuessr guide image showing Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, Stvo 2017">
 <img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Germany GeoGuessr guide image showing Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, Stvo 1992">
 </div>
 
@@ -77,7 +77,7 @@ Orange background signs with arrows and road numbers are widespread{{% ex "https
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
+<img src="/rule/europe/germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
 <img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
@@ -89,7 +89,7 @@ Bollards typically have white bodies with orange or white reflectors{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard-de.svg" width="180px" alt="R GeoGuessr guide image showing Bollard De" />
+<img src="/rule/europe/germany/r/bollard-de.svg" width="180px" alt="R GeoGuessr guide image showing Bollard De" />
 </div>
 
 {{% notice tip %}}
@@ -97,7 +97,7 @@ Bus and tram stops bear green “H” circles marked Haltestelle{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bus-stop-board.jpg" width="60%" alt="Germany GeoGuessr guide image showing Bus Stop Board">
+<img src="/rule/europe/germany/bus-stop-board.jpg" width="60%" alt="Germany GeoGuessr guide image showing Bus Stop Board">
 </div>
 
 {{% notice tip %}}
@@ -105,7 +105,7 @@ Older Gen2 imagery produces boxy blur and muted colors. Newer updates offer shar
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rd2.jpg" width="95%" alt="Germany GeoGuessr guide image showing rd2">
+<img src="/rule/europe/germany/rd2.jpg" width="95%" alt="Germany GeoGuessr guide image showing rd2">
 </div>
 
 {{% /tab %}}
@@ -114,19 +114,19 @@ Older Gen2 imagery produces boxy blur and muted colors. Newer updates offer shar
 Look for the green pharmacy sign marked <span class="quiz">Apotheke</span>{{% ref "https://de.wikipedia.org/wiki/Apotheke" "Apotheke" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./c/apotheke.jpg" width="500px" alt="Germany GeoGuessr guide image showing Apotheke">
+<img src="/rule/europe/germany/c/apotheke.jpg" width="500px" alt="Germany GeoGuessr guide image showing Apotheke">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Germany GeoGuessr guide image showing Deutsche Apotheke Logo">
+<img src="/rule/europe/germany/c/Deutsche_Apotheke_Logo.svg" width="150px" alt="Germany GeoGuessr guide image showing Deutsche Apotheke Logo">
 </div>
 
 {{% notice tip %}}
 Deutsche Post and DHL branding is widespread; DHL is a major global logistics group{{% ref "https://en.wikipedia.org/wiki/DHL_Group" "DHL Group" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Germany GeoGuessr guide image showing Deutsche Post Ag Technischer 0">
-<img src="./c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Germany GeoGuessr guide image showing Dhl Rad Tu Darmstadt">
+<img src="/rule/europe/germany/c/deutsche_post_ag_technischer_0.jpg" width="500px" alt="Germany GeoGuessr guide image showing Deutsche Post Ag Technischer 0">
+<img src="/rule/europe/germany/c/dhl_rad_tu_darmstadt.jpg" width="500px" alt="Germany GeoGuessr guide image showing Dhl Rad Tu Darmstadt">
 </div>
 
 {{% notice tip %}}
@@ -134,7 +134,7 @@ Aral gas stations are common across Germany{{% ref "https://en.wikipedia.org/wik
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="Aral.jpg" width="90%" alt="Germany GeoGuessr guide image showing Aral">
+<img src="/rule/europe/germany/Aral.jpg" width="90%" alt="Germany GeoGuessr guide image showing Aral">
 </div>
 
 {{% /tab %}}
@@ -150,7 +150,7 @@ Germany saw a Street View refresh in 2023. When you see a 2023 Google copyright 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<img src="./copyright.jpg" width="400px" alt="Germany GeoGuessr guide image showing Copyright">
+<img src="/rule/europe/germany/copyright.jpg" width="400px" alt="Germany GeoGuessr guide image showing Copyright">
 </div>
 
 {{% /tab %}}
@@ -161,7 +161,7 @@ Autobahn junction plates use yellow shielding with <span class="quiz">A###</span
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./autobahn.jpg" width="95%" alt="Germany GeoGuessr guide image showing Autobahn">
+<img src="/rule/europe/germany/autobahn.jpg" width="95%" alt="Germany GeoGuessr guide image showing Autobahn">
 </div>
 
 {{% /tab %}}
@@ -199,7 +199,7 @@ Example village: Stellichte{{% ex "https://goo.gl/maps/9rK6VkLzAaN7efsG8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./stellichte_germany_village_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Stellichte Germany Village Town"></p>
+<p><img src="/rule/europe/germany/stellichte_germany_village_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Stellichte Germany Village Town"></p>
 </div>
 {{% /tab %}}
 {{% tab "Prefab housing" %}}
@@ -209,7 +209,7 @@ Example town: Hoyerswerda{{% ex "https://goo.gl/maps/aaHQ3A1HjsXDo1m87" %}}{{% r
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Hy hufelandstr36 46wohnhaus"></p>
+<p><img src="/rule/europe/germany/hy_hufelandstr36_46wohnhaus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Hy hufelandstr36 46wohnhaus"></p>
 </div>
 {{% /tab %}}
 {{% tab "Central Germany town" %}}
@@ -219,7 +219,7 @@ Example town: Burglauer{{% ex "https://goo.gl/maps/xomxhZ4wN97RjXJbA" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./burglauer_germany_landscape_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Burglauer Germany Landscape Town"></p>
+<p><img src="/rule/europe/germany/burglauer_germany_landscape_town.jpg" width="600px" alt="Germany GeoGuessr guide image showing Burglauer Germany Landscape Town"></p>
 </div>
 {{% /tab %}}
 {{% tab "Slate-roof towns" %}}
@@ -229,7 +229,7 @@ Slate roofs are common around Trier and Burgen, close to the Fell Exhibition Sla
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><img src="./house-example.jpg" width="90%" alt="Germany GeoGuessr guide image showing House Example"></p>
+<p><img src="/rule/europe/germany/house-example.jpg" width="90%" alt="Germany GeoGuessr guide image showing House Example"></p>
 <p><a href="https://commons.wikimedia.org/wiki/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg#/media/File:Trier-Heiligkreuz,_Am_Kiewelsberg_20220705_(2).jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Trier-Heiligkreuz%2C_Am_Kiewelsberg_20220705_%282%29.jpg" alt="Wikimedia Commons photo showing Trier Heiligkreuz, Am Kiewelsberg 20220705 (2)" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:P170" title="User:P170">P170</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=128484741">Link</a></p>
 </div>
 {{% /tab %}}
@@ -240,7 +240,7 @@ Northern Germany has Fachhallenhaus farmhouses, sometimes resembling {{% goto ".
 {{% /notice %}}
 
 <div class="googlemap-if no-margin unclickable">
-<p><img src="./winsenmuseum_groode_hus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Winsenmuseum Groode Hus"></p>
+<p><img src="/rule/europe/germany/winsenmuseum_groode_hus.jpg" width="600px" alt="Germany GeoGuessr guide image showing Winsenmuseum Groode Hus"></p>
 </div>
 {{% /tab %}}
 {{% tab "German Timber-Frame Road" %}}
@@ -302,7 +302,7 @@ Use suffix maps to estimate region quickly.
 Expect evergreen forests, logging clearings, and mossy shoulders{{% ex "https://goo.gl/maps/kr76eG25s3p3187i7" "https://goo.gl/maps/iJHnDTBqmdGpSfmT6" "https://goo.gl/maps/QJbscND6g9aCX57QA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./harz_forest.jpg" width="95%" alt="Germany GeoGuessr guide image showing Harz Forest">
+<img src="/rule/europe/germany/harz_forest.jpg" width="95%" alt="Germany GeoGuessr guide image showing Harz Forest">
 </div>
 {{% /tab %}}
 {{% tab "Sylt Island" %}}

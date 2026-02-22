@@ -42,14 +42,14 @@ Korean is used, and utility poles have <b>diagonal</b> yellow-and-black stripes.
 Many pine trees{{% ex "https://goo.gl/maps/3zTkaxuoTkprerHk6" "https://goo.gl/maps/ZesPrE19f3cJ8rDu9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./republic_korea_stone_wall.jpg" width="90%" alt="Korea GeoGuessr guide image showing Republic Korea Stone Wall">
+<img src="/rule/asia/korea/republic_korea_stone_wall.jpg" width="90%" alt="Korea GeoGuessr guide image showing Republic Korea Stone Wall">
 </div>
 
 {{% notice tip %}}
 Distinctive bollards{{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_roadside_in_mountainous.jpg" width="90%" alt="Korea GeoGuessr guide image showing Korean Roadside In Mountainous">
+<img src="/rule/asia/korea/korean_roadside_in_mountainous.jpg" width="90%" alt="Korea GeoGuessr guide image showing Korean Roadside In Mountainous">
 </div>
 
 
@@ -57,7 +57,7 @@ Distinctive bollards{{% ex "https://maps.app.goo.gl/wSNZjAnmg6bjpiVPA" %}}
 Warning signs are orange{{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./korean_sign_traffic_signs.jpg" width="95%" alt="Korea GeoGuessr guide image showing Korean Sign Traffic Signs">
+<img src="/rule/asia/korea/korean_sign_traffic_signs.jpg" width="95%" alt="Korea GeoGuessr guide image showing Korean Sign Traffic Signs">
 </div>
 
 
@@ -97,7 +97,7 @@ Warning signs are orange{{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 There are mountain ranges inland in the northeast and southwest
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><img src="./topolgraphic.png" width="500px" alt="Korea GeoGuessr guide image showing Topolgraphic"><p>
+<p><img src="/rule/asia/korea/topolgraphic.png" width="500px" alt="Korea GeoGuessr guide image showing Topolgraphic"><p>
 <p>By <a href="//commons.wikimedia.org/wiki/User:Sadalmelik" title="User:Sadalmelik">Sadalmelik</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2665772">Link</a></p>
 </div>
 {{% /tab %}}
@@ -107,8 +107,8 @@ An oval-shaped volcanic island; like the volcanic {{% goto "../../africa/canary_
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./1080px-Jeju_Island_3D_2012.jpg" width="600px" alt="Korea GeoGuessr guide image showing 1080px Jeju Island 3D 2012">
-<img src="./jeju_island_korea_road.jpg" width="600px" alt="Korea GeoGuessr guide image showing Jeju Island Korea Road">
+<img src="/rule/asia/korea/1080px-Jeju_Island_3D_2012.jpg" width="600px" alt="Korea GeoGuessr guide image showing 1080px Jeju Island 3D 2012">
+<img src="/rule/asia/korea/jeju_island_korea_road.jpg" width="600px" alt="Korea GeoGuessr guide image showing Jeju Island Korea Road">
 </div>
 {{% /tab %}}
 {{% tab "Hanok" %}}
@@ -117,8 +117,8 @@ It is hard to see inside homes, so this is not very useful. The images below sho
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./960px-Korea-Seoul-Namsangol-03.jpg" width="350px" alt="Korea GeoGuessr guide image showing 960px Korea Seoul Namsangol 03">
-<img src="./477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px" alt="Korea GeoGuessr guide image showing 477px Korea Gangneung Seongyojang 02">
+<img src="/rule/asia/korea/960px-Korea-Seoul-Namsangol-03.jpg" width="350px" alt="Korea GeoGuessr guide image showing 960px Korea Seoul Namsangol 03">
+<img src="/rule/asia/korea/477px-Korea-Gangneung-Seongyojang-02.jpg" width="250px" alt="Korea GeoGuessr guide image showing 477px Korea Gangneung Seongyojang 02">
 </div>
 
 {{% notice tip %}}
@@ -153,7 +153,7 @@ A southern-style house; in practice you almost never see inside the walls.
 Aside from the southeast area with almost no roads, most of the island is farmland. Like Jeju, the soil is dark and black stone walls are common, but there is little forest and no tall mountains{{% ex "https://maps.app.goo.gl/V4yAFVSjnbBf1JKbA" "https://maps.app.goo.gl/kYEQHvdxcrT731FW7" "https://maps.app.goo.gl/BuNwwejxvTr4YZN88" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./jeju_island_nature_korea.jpg" alt="Korea GeoGuessr guide image showing Jeju Island Nature Korea">
+<img src="/rule/asia/korea/jeju_island_nature_korea.jpg" alt="Korea GeoGuessr guide image showing Jeju Island Nature Korea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

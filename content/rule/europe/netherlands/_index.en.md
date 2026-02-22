@@ -74,7 +74,7 @@ Roadside bollards are <span class="quiz">white</span>. Larger roads often displa
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bollard.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
+<img src="/rule/europe/netherlands/road.png" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Blue-and-white poles mark locations where cyclists cross the carriageway.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./fietsers_crossing_sign.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
+<img src="/rule/europe/netherlands/fietsers_crossing_sign.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
 </div>
 
 {{% /tab %}}

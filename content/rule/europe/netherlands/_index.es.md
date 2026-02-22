@@ -74,7 +74,7 @@ Los bolardos laterales son <span class="quiz">blancos</span>. En carreteras prin
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bollard.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
+<img src="/rule/europe/netherlands/bollard.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Los postes azules y blancos señalan cruces ciclistas.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./fietsers_crossing_sign.jpg" width="95%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
+<img src="/rule/europe/netherlands/fietsers_crossing_sign.jpg" width="95%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
 </div>
 
 {{% /tab %}}

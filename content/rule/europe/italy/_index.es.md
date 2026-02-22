@@ -96,7 +96,7 @@ La parte trasera de los carteles suele ser <span class="quiz">negra o gris</span
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
+<img src="/rule/europe/italy/sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
 </div>
 
 {{% notice tip %}}
@@ -104,7 +104,7 @@ Las tiendas Tabacchi muestran un letrero “T” negra{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
+<img src="/rule/europe/italy/tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Las viñas y olivares dominan los paisajes rurales{{% ex "https://goo.gl/maps/dV
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
+<img src="/rule/europe/italy/vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Alamedas de pinos y cipreses escoltan muchas carreteras toscanas{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
+<img src="/rule/europe/italy/pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
 </div>
 
 {{% notice tip %}}
@@ -128,7 +128,7 @@ Alamedas de pinos y cipreses escoltan muchas carreteras toscanas{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
+<img src="/rule/europe/italy/via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
 </div>
 
 {{% /tab %}}
@@ -139,7 +139,7 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
+<img src="/rule/europe/italy/vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
 </div>
 
 {{% /tab %}}
@@ -157,12 +157,12 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% tabs %}}
 {{% tab "Cipreses" %}}
 <div class="googlemap-if no-margin">
-<img src="./cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
+<img src="/rule/europe/italy/cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
 </div>
 {{% /tab %}}
 {{% tab "Pinos" %}}
 <div class="googlemap-if no-margin">
-<img src="./pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
+<img src="/rule/europe/italy/pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -183,7 +183,7 @@ Piemonte, Toscana, Veneto y Sicilia están cubiertas de viñedos{{% ex "https://
 {{% /tab %}}
 {{% tab "Viñedos" %}}
 <div class="googlemap-if">
-<img src="./vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
+<img src="/rule/europe/italy/vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

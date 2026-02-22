@@ -72,7 +72,7 @@ sc: [
 
 {{% notice tip %}}Las paradas de autobús a menudo lucen los colores nacionales (blanco, verde y rojo). {{% ex "https://maps.app.goo.gl/fxDgMHesok5YBz757" "https://maps.app.goo.gl/FWDuAZ1d4TQW4GT97" "https://maps.app.goo.gl/rWYn5pCjJxdF3Qci9" %}}{{% /notice %}}
 <div class="googlemap-if">
-<img src="./bulgaria-busstop.png" width="90%" alt="Bulgaria GeoGuessr guide image showing Bulgaria Busstop">
+<img src="/rule/europe/bulgaria/bulgaria-busstop.png" width="90%" alt="Bulgaria GeoGuessr guide image showing Bulgaria Busstop">
 </div>
 
 {{% notice note %}}Los tranvías solo circulan en Sofía. {{% ex "https://maps.app.goo.gl/TADYrGAgs1k8jZ1RA" "https://maps.app.goo.gl/4M6GPjtzdMugyNhx8" %}}{{% /notice %}}
@@ -81,13 +81,13 @@ sc: [
 {{% tab "w-trash" %}}
 {{% notice tip %}}Las filas de contenedores metálicos brillantes son una buena pista. {{% ex "https://maps.app.goo.gl/su9FpsxH18tEXqwv8" "https://maps.app.goo.gl/D8Mq2pu8EXA1Wcab9" "https://maps.app.goo.gl/ZxcmnmMXjdp5rYxJ7" "https://maps.app.goo.gl/3qk7Aq7CePKus6db8" %}}{{% /notice %}}
 <div class="googlemap-if">
-<img src="./trash.jpg" width="90%" alt="Bulgaria GeoGuessr guide image showing Trash">
+<img src="/rule/europe/bulgaria/trash.jpg" width="90%" alt="Bulgaria GeoGuessr guide image showing Trash">
 </div>
 {{% /tab %}}
 {{% tab "w-utility" %}}
 {{% notice tip %}}Fíjate en los avisos en cirílico sobre franjas negras; son muy propios de Bulgaria.{{% /notice %}}
 <div class="googlemap-if">
-<img src="./utility.jpg" width="90%" alt="Bulgaria GeoGuessr guide image showing Utility">
+<img src="/rule/europe/bulgaria/utility.jpg" width="90%" alt="Bulgaria GeoGuessr guide image showing Utility">
 </div>
 {{% /tab %}}
 {{% tab "w-food" %}}

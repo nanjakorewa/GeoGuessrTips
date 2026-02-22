@@ -48,9 +48,9 @@ Nomor jalan berbentuk heksagonal berwarna kuning {{% ex "https://maps.app.goo.gl
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="../../../../rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
+<img src="/rule/asia/malaysia/../../../../rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
 <img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysia GeoGuessr guide image showing Malaysian Public Works Department" />
-<img src="../../../../rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
+<img src="/rule/asia/malaysia/../../../../rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
 </div>
 
 {{% notice tip %}}

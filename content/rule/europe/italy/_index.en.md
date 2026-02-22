@@ -96,7 +96,7 @@ The backs of traffic signs are usually <span class="quiz">black or gray</span>{{
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
+<img src="/rule/europe/italy/sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
 </div>
 
 {{% notice tip %}}
@@ -104,7 +104,7 @@ Italian Tabacchi shops sport a black “T” logo letting you know cigarettes an
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
+<img src="/rule/europe/italy/tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Look for vineyards with tight row spacing, olive groves, and white-gravel should
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
+<img src="/rule/europe/italy/vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Mediterranean pine belts and cypress alleys line many Tuscan roads{{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
+<img src="/rule/europe/italy/pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
 </div>
 
 {{% notice tip %}}
@@ -128,7 +128,7 @@ Mediterranean pine belts and cypress alleys line many Tuscan roads{{% ex "https:
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
+<img src="/rule/europe/italy/via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
 </div>
 
 {{% notice tip %}}
@@ -136,7 +136,7 @@ Italian route markers for tunnels/bridges show squared corners with rounded bord
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./bridge-marker.jpg" width="200px" alt="Italy GeoGuessr guide image showing Bridge Marker">
+<img src="/rule/europe/italy/bridge-marker.jpg" width="200px" alt="Italy GeoGuessr guide image showing Bridge Marker">
 </div>
 
 {{% /tab %}}
@@ -147,7 +147,7 @@ Italy’s vast vineyards appear throughout Piedmont, Tuscany, Veneto, and Sicily
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
+<img src="/rule/europe/italy/vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
 </div>
 
 {{% /tab %}}
@@ -170,7 +170,7 @@ Cypress-lined drives are common in Tuscany and Lazio{{% ex "https://goo.gl/maps/
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
+<img src="/rule/europe/italy/cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
 </div>
 {{% /tab %}}
 {{% tab "Pines" %}}
@@ -180,7 +180,7 @@ Stone pine (Pinus pinea) groves dominate coastal dunes{{% ex "https://goo.gl/map
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
+<img src="/rule/europe/italy/pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -207,7 +207,7 @@ Etna, Europe’s largest active volcano, leaves <span class="quiz">dark lava soi
 Rolling vineyards and olive groves distinguish central Italy{{% ex "https://goo.gl/maps/g5URF4cgk97Tr2UDA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
+<img src="/rule/europe/italy/vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
 </div>
 {{% /tab %}}
 {{% tab "Solar" %}}
@@ -215,7 +215,7 @@ Rolling vineyards and olive groves distinguish central Italy{{% ex "https://goo.
 Solar arrays and greenhouse complexes appear across Puglia and Sicily{{% ex "https://goo.gl/maps/br6s6b1byyCsCnXHA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./solar.jpg" width="95%" alt="Italy GeoGuessr guide image showing Solar">
+<img src="/rule/europe/italy/solar.jpg" width="95%" alt="Italy GeoGuessr guide image showing Solar">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

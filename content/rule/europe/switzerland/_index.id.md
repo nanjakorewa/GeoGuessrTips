@@ -96,7 +96,7 @@ Plat nomornya khas, tetapi mozaiknya kuat dan sulit dipahami.Kebanyakan mobil ti
 </div>
 
 {{% lb 50 %}}
-![](Swiss_licence_plate_2007_from_Sankt_Gallen_canton.jpg)
+![](/rule/europe/switzerland/Swiss_licence_plate_2007_from_Sankt_Gallen_canton.jpg)
 
 Oleh Krokodyl - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC OLEH 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2717225">Link</a>
 {{% /lb %}}

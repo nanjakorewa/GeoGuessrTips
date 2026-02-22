@@ -52,7 +52,7 @@ Plat nomor bagian atas memiliki warna seperti hijau atau biru.{{% ex "https://ma
 </div>
 
 {{% lb 50 small %}}
-![](plat nomor.jpg)
+![](/rule/n_america/panama/plat nomor.jpg)
 
 Oleh <a href="//commons.wikimedia.org/w/index.php?title=User:Alloyblue&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Alloyblue (page does not exist)">Paduan biru</a> - <span class="int-own-work" lang="en">pekerjaan sendiri</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=122526911">Link</a>
 {{% /lb %}}

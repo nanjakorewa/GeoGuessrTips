@@ -91,7 +91,7 @@ Pipeline signage at midstream sites often lists the destination{{% ex "https://m
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oil_pipeline.jpg" width="90%" alt="Oman GeoGuessr guide image showing Oil Pipeline">
+<img src="/rule/middle_east/oman/oil_pipeline.jpg" width="90%" alt="Oman GeoGuessr guide image showing Oil Pipeline">
 </div>
 
 {{% notice tip %}}
@@ -99,7 +99,7 @@ There are several domestic energy companies. For example, Oman Oil Marketing (OO
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="gas_station_oman.jpg" width="90%" alt="Oman GeoGuessr guide image showing Gas Station Oman">
+<img src="/rule/middle_east/oman/gas_station_oman.jpg" width="90%" alt="Oman GeoGuessr guide image showing Gas Station Oman">
 </div>
 
 {{% /tab %}}
@@ -110,7 +110,7 @@ Agricultural activity differs between regions. Coastal plains in the north grow 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="oman_farmland.jpg" width="90%" alt="Oman GeoGuessr guide image showing Oman Farmland">
+<img src="/rule/middle_east/oman/oman_farmland.jpg" width="90%" alt="Oman GeoGuessr guide image showing Oman Farmland">
 </div>
 
 {{% /tab %}}

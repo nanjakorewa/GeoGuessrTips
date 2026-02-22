@@ -44,11 +44,11 @@ Utility poles similar to those in {{% goto "../../europe/portugal/" "Portugal" %
 Thin black license plates are used{{% ex "https://maps.app.goo.gl/CYKexTLEiPvU7nVt8" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./downtown_sao_tome_africa.jpg" width="95%" alt="Saotome GeoGuessr guide image showing Downtown Sao Tome Africa">
+<img src="/rule/africa/saotome/downtown_sao_tome_africa.jpg" width="95%" alt="Saotome GeoGuessr guide image showing Downtown Sao Tome Africa">
 </div>
 
 {{% lb 50 %}}
-![](./СанТомеІПрінсіпі1.gif)
+![](/rule/africa/saotome/СанТомеІПрінсіпі1.gif)
 
 Public Domain
 {{% /lb %}}
@@ -74,7 +74,7 @@ Public Domain
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./market_sao_tome_africa.jpg" width="600px" alt="Saotome GeoGuessr guide image showing Market Sao Tome Africa">
+<img src="/rule/africa/saotome/market_sao_tome_africa.jpg" width="600px" alt="Saotome GeoGuessr guide image showing Market Sao Tome Africa">
 </div>
 
 {{% /tab %}}

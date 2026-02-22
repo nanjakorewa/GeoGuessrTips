@@ -50,7 +50,7 @@ You often see <span class="quiz">red-and-white triangular flags</span> or colorf
 Tiled roofs{{% ex "https://maps.app.goo.gl/U2HCP3pi4acVz8Sh7" "https://maps.app.goo.gl/ZYHgQLzqLhZ3z5h8A" %}} and corrugated metal roofs{{% ex "https://maps.app.goo.gl/K28C4C6htnALA5ti7" "https://maps.app.goo.gl/nvEZz49vQTwt8MNY9" %}} are common. The farther north you go, the more metal roofs.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house.jpg" alt="Indonesia GeoGuessr guide image showing House">
+<img src="/rule/asia/indonesia/house.jpg" alt="Indonesia GeoGuessr guide image showing House">
 </div>
 
 {{% notice tip %}}
@@ -61,16 +61,16 @@ Signs for <span class="quiz">Alfamart, Bank Mandiri, and BRI</span> can appear e
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px" alt="C GeoGuessr guide image showing 1280px Alfamart logo.svg">
-<img src="./c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px" alt="C GeoGuessr guide image showing Bank Mandiri Logo 2016">
-<img src="./c/BRI_2020.svg" width="170px" style="margin:10px" alt="C GeoGuessr guide image showing Bri 2020">
+<img src="/rule/asia/indonesia/c/1280px-Alfamart_logo.svg.png" width="190px" style="margin:10px" alt="C GeoGuessr guide image showing 1280px Alfamart logo.svg">
+<img src="/rule/asia/indonesia/c/Bank_Mandiri_logo_2016.svg" width="190px" style="margin:10px" alt="C GeoGuessr guide image showing Bank Mandiri Logo 2016">
+<img src="/rule/asia/indonesia/c/BRI_2020.svg" width="170px" style="margin:10px" alt="C GeoGuessr guide image showing Bri 2020">
 </div>
 
 {{% notice tip %}}
 Cigarettes are commonly sold roadside{{% ex "https://goo.gl/maps/famuKArJo35iqqTf6" "https://goo.gl/maps/r1YhkdzHhBrUChEVA" "https://goo.gl/maps/2NxrDJLbyFLVCvML9" %}}. Even without a cigarette image, "18+" indicates a tobacco ad.
 {{% /notice %}}
 <div class="googlemap-if" style="pointer-events:none;">
-<img src="./adv.jpg" width="95%" alt="Indonesia GeoGuessr guide image showing Adv">
+<img src="/rule/asia/indonesia/adv.jpg" width="95%" alt="Indonesia GeoGuessr guide image showing Adv">
 </div>
 
 {{% notice tip %}}
@@ -78,11 +78,11 @@ Most plates are <span class="quiz">black</span> and, with blur, can look split i
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="ll.jpg" class="resolution-small" width="50%" alt="Indonesia GeoGuessr guide image showing Ll" />
+<img src="/rule/asia/indonesia/ll.jpg" class="resolution-small" width="50%" alt="Indonesia GeoGuessr guide image showing Ll" />
 
 CC0
 
-<img src="ll2.jpg" class="resolution-small" width="50%" alt="Indonesia GeoGuessr guide image showing ll2" />
+<img src="/rule/asia/indonesia/ll2.jpg" class="resolution-small" width="50%" alt="Indonesia GeoGuessr guide image showing ll2" />
 
 CC0
 {{% /lb %}}
@@ -151,7 +151,7 @@ Nippon Indosari Corpindo Tbk is an Indonesian bread maker{{% ref "https://www.sa
     <h2>Indonesia goods</h2>
     <div class="image-item-lg">
         <a href="https://nanjakorewa.booth.pm/items/7092425" target="_blank">
-            <img src="d9491b6c-4492-40e2-8a0f-5f271e21d003.png" alt="Indonesia GeoGuessr guide image showing d9491b6c 4492 40e2 8a0f 5f271e21d003">
+            <img src="/rule/asia/indonesia/d9491b6c-4492-40e2-8a0f-5f271e21d003.png" alt="Indonesia GeoGuessr guide image showing d9491b6c 4492 40e2 8a0f 5f271e21d003">
         </a>
         <!-- <div class="caption">Product title 1</div>-->
     </div>
@@ -237,7 +237,7 @@ Sometimes abbreviated as "KAB". This sign is from the Cepu area{{% ref "https://
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-08-12-02-14-06.png" width="95%" alt="Indonesia GeoGuessr guide image showing 2023 08 12 02 14 06" />
+<img src="/rule/asia/indonesia/2023-08-12-02-14-06.png" width="95%" alt="Indonesia GeoGuessr guide image showing 2023 08 12 02 14 06" />
 </div>
 
 {{% /tab %}}
@@ -309,7 +309,7 @@ On Java, reddish tile roofs are common.
 {{% tabs %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-47-26.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 47 26" />
+<img src="/rule/asia/indonesia/2023-06-29-00-47-26.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 47 26" />
 </div>
 
 {{% notice tip %}}
@@ -319,7 +319,7 @@ Java is most likely (over 50%), but rice appears nationwide. If you see large pa
 {{% /tab %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-49-42.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 49 42" />
+<img src="/rule/asia/indonesia/2023-06-29-00-49-42.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 49 42" />
 </div>
 
 {{% notice tip %}}
@@ -333,7 +333,7 @@ If you see rice paddies and corn together, go to Java.
 {{% /tab %}}
 {{% tab "Oil palm" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-06-29-00-50-42.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 50 42" />
+<img src="/rule/asia/indonesia/2023-06-29-00-50-42.png" width="90%" alt="Indonesia GeoGuessr guide image showing 2023 06 29 00 50 42" />
 </div>
 
 {{% notice tip %}}
@@ -378,14 +378,14 @@ You often see the mountain in the background{{% ex "https://maps.app.goo.gl/CRYv
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./ternate_city_indonesia_2010.jpg" alt="Indonesia GeoGuessr guide image showing Ternate City Indonesia 2010">
+<img src="/rule/asia/indonesia/ternate_city_indonesia_2010.jpg" alt="Indonesia GeoGuessr guide image showing Ternate City Indonesia 2010">
 </div>
 
 {{% /tab %}}
 {{% tab "Area code" %}}
 
 <div class="googlemap-if unclickable">
-<img src="tlp.png" width="90%" alt="Indonesia GeoGuessr guide image showing Tlp" />
+<img src="/rule/asia/indonesia/tlp.png" width="90%" alt="Indonesia GeoGuessr guide image showing Tlp" />
 </div>
 
 {{% /tab %}}

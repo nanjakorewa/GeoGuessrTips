@@ -93,7 +93,7 @@ Los templos determinan el espíritu de las ciudades: estupas budistas rodeadas d
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Bouddhanath_Stupa.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Bouddhanath Stupa">
+<img src="/rule/asia/nepal/Bouddhanath_Stupa.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Bouddhanath Stupa">
 </div>
 
 {{% notice tip %}}
@@ -101,7 +101,7 @@ Los autobuses suelen ser blancos con franjas azules{{% ex "https://maps.app.goo.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./Nepal bus.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Nepal Bus">
+<img src="/rule/asia/nepal/Nepal bus.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Nepal Bus">
 </div>
 
 
@@ -112,7 +112,7 @@ El 57 % del territorio es forestal; el sur posee llanuras agrícolas. Presta a
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./Nepal_subdivision_by_ecological_region.png" width="70%" alt="Nepal GeoGuessr guide image showing Nepal Subdivision By Ecological Region">
+<img src="/rule/asia/nepal/Nepal_subdivision_by_ecological_region.png" width="70%" alt="Nepal GeoGuessr guide image showing Nepal Subdivision By Ecological Region">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -130,12 +130,12 @@ El 57 % del territorio es forestal; el sur posee llanuras agrícolas. Presta a
 {{% tabs %}}
 {{% tab "Código del poste" %}}
 <div class="googlemap-if no-margin">
-<img src="./Taipower_power_lines_pole_ID.jpg" width="80%" alt="Nepal GeoGuessr guide image showing Taipower Power Lines Pole Id">
+<img src="/rule/asia/nepal/Taipower_power_lines_pole_ID.jpg" width="80%" alt="Nepal GeoGuessr guide image showing Taipower Power Lines Pole Id">
 </div>
 {{% /tab %}}
 {{% tab "Prefijos" %}}
 <div class="googlemap-if">
-<img src="./Telephone_area_codes_in_Taiwan.svg" width="70%" alt="Nepal GeoGuessr guide image showing Telephone Area Codes In Taiwan">
+<img src="/rule/asia/nepal/Telephone_area_codes_in_Taiwan.svg" width="70%" alt="Nepal GeoGuessr guide image showing Telephone Area Codes In Taiwan">
 </div>
 {{% /tab %}}
 {{% tab "Palmeras y té" %}}
@@ -143,7 +143,7 @@ El 57 % del territorio es forestal; el sur posee llanuras agrícolas. Presta a
 <img src="/rule/asia/nepal/areca_catechu_sankyo_garden.jpg" width="50%" alt="Nepal GeoGuessr guide image showing Areca Catechu Sankyo Garden">
 </div>
 <div class="googlemap-if unclickable">
-<img src="./antu_dada.jpg" width="70%" alt="Nepal GeoGuessr guide image showing Antu Dada">
+<img src="/rule/asia/nepal/antu_dada.jpg" width="70%" alt="Nepal GeoGuessr guide image showing Antu Dada">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

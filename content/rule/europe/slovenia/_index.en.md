@@ -60,7 +60,7 @@ If “ZONE” is written as <span class="quiz">CONA</span> you are in Slovenia. 
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 29 %2840%29">
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 29 %2840%29">
 <img src="/rule/europe/slovenia/sign-behind.png" width="145px" style="margin:10px" alt="Slovenia GeoGuessr guide image showing Sign Behind">
 </div>
 
@@ -88,8 +88,8 @@ Slovenia was the most industrialised part of Yugoslavia and still has the highes
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107 %28L%29" />
-<img src="./r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107.1 %28L%29" />
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107 %28L%29" />
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107.1 %28L%29" />
 </div>
 
 

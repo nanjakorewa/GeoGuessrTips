@@ -58,9 +58,9 @@ Tanda jalan hitam-putih dengan dua bahasa {{% ex "https://maps.app.goo.gl/dZtZXy
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="../../../../rule/asia/hongkong/r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="R GeoGuessr guide image showing Wan King Path Sign">
-<img src="../../../../rule/asia/hongkong/r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 417">
-<img src="../../../../rule/asia/hongkong/r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 422">
+<img src="/rule/asia/hongkong/../../../../rule/asia/hongkong/r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="R GeoGuessr guide image showing Wan King Path Sign">
+<img src="/rule/asia/hongkong/../../../../rule/asia/hongkong/r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 417">
+<img src="/rule/asia/hongkong/../../../../rule/asia/hongkong/r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 422">
 </div>
 
 {{% notice note %}}

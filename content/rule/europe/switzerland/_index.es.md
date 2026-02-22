@@ -96,7 +96,7 @@ La matrícula es distintiva, pero el mosaico es fuerte y difícil de entender.La
 </div>
 
 {{% lb 50 %}}
-![](Suiza_licencia_plate_2007_from_Sankt_Gallen_canton.jpg)
+![](/rule/europe/switzerland/Suiza_licencia_plate_2007_from_Sankt_Gallen_canton.jpg)
 
 Por Krokodyl- <span class="int-own-work" lang="en">propio trabajo</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC POR 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=2717225">Enlace</a>
 {{% /lb %}}

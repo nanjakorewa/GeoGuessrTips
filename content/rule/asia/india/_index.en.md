@@ -54,7 +54,7 @@ Distinctive pole shapes that are rare elsewhere{{% ex "https://maps.app.goo.gl/s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="pole.jpg" width="90%" alt="India GeoGuessr guide image showing Pole" />
+<img src="/rule/asia/india/pole.jpg" width="90%" alt="India GeoGuessr guide image showing Pole" />
 </div>
 
 <div class="googlemap-if no-margin">
@@ -65,7 +65,7 @@ Distinctive pole shapes that are rare elsewhere{{% ex "https://maps.app.goo.gl/s
 Wiring on poles is often messy.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./delhi_road_india_chaos.jpg" width="80%" alt="India GeoGuessr guide image showing Delhi Road India Chaos">
+<img src="/rule/asia/india/delhi_road_india_chaos.jpg" width="80%" alt="India GeoGuessr guide image showing Delhi Road India Chaos">
 </div>
 
 {{% notice tip %}}
@@ -145,7 +145,7 @@ There are bollards similar to {{% goto "../cambodia/" "Cambodia" %}}{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./bollard.jpg" width="80%" alt="India GeoGuessr guide image showing Bollard">
+<img src="/rule/asia/india/bollard.jpg" width="80%" alt="India GeoGuessr guide image showing Bollard">
 </div>
 
 {{% /tab %}}
@@ -159,7 +159,7 @@ Plates come in several colors: white, yellow, black, etc. Some look like EU plat
 </div>
 
 {{% lb 50 small %}}
-![](lc.png)
+![](/rule/asia/india/lc.png)
 
 Self-made; approximate shape, not exact.
 {{% /lb %}}
@@ -219,7 +219,7 @@ Around Ahmedabad. Stepwells are also common around Ahmedabad.
 You can often spot a triangular ▷ shape in the script.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./shambhunath_pundit_hospital_kolkata.jpg" alt="India GeoGuessr guide image showing Shambhunath Pundit Hospital Kolkata">
+<img src="/rule/asia/india/shambhunath_pundit_hospital_kolkata.jpg" alt="India GeoGuessr guide image showing Shambhunath Pundit Hospital Kolkata">
 </div>
 {{% /tab %}}
 {{% tab "Kannada" %}}
@@ -227,7 +227,7 @@ You can often spot a triangular ▷ shape in the script.
 Many speakers in Karnataka and around Bengaluru{{% ref "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%B3%E3%83%8A%E3%83%80%E8%AA%9E#/media/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%AB:Kannadaspeakers.png" "Kannada" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="panchayath.jpg" alt="India GeoGuessr guide image showing Panchayath">
+<img src="/rule/asia/india/panchayath.jpg" alt="India GeoGuessr guide image showing Panchayath">
 </div>
 {{% /tab %}}
 {{% tab "Hindi" %}}
@@ -235,7 +235,7 @@ Many speakers in Karnataka and around Bengaluru{{% ref "https://ja.wikipedia.org
 Hindi/Hindustani is a natural language spoken in regions that include Delhi.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./baba_bateshwar_sewa_sansthan.jpg" alt="India GeoGuessr guide image showing Baba Bateshwar Sewa Sansthan">
+<img src="/rule/asia/india/baba_bateshwar_sewa_sansthan.jpg" alt="India GeoGuessr guide image showing Baba Bateshwar Sewa Sansthan">
 </div>
 {{% /tab %}}
 {{% tab "Tamil" %}}
@@ -243,7 +243,7 @@ Hindi/Hindustani is a natural language spoken in regions that include Delhi.
 Common along the Sri Lanka coastline{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFdn4e7A" "https://maps.app.goo.gl/88LuATkR7wBsDZXw6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./wcc_chennai2.jpg" alt="India GeoGuessr guide image showing Wcc chennai2">
+<img src="/rule/asia/india/wcc_chennai2.jpg" alt="India GeoGuessr guide image showing Wcc chennai2">
 </div>
 {{% /tab %}}
 {{% tab "Telugu" %}}
@@ -251,7 +251,7 @@ Common along the Sri Lanka coastline{{% ex "https://maps.app.goo.gl/zMwHrUYqtVFd
 Telugu (తెలుగు) is the official language of Andhra Pradesh and Telangana. The letters often contain shapes like "tsu", "✓", or "m" around the characters{{% ref "https://ja.wikipedia.org/wiki/%E3%83%86%E3%83%AB%E3%82%B0%E8%AA%9E" "Telugu" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./apsrtc_bus_stop_zahirabad.jpg" alt="India GeoGuessr guide image showing Apsrtc Bus Stop Zahirabad">
+<img src="/rule/asia/india/apsrtc_bus_stop_zahirabad.jpg" alt="India GeoGuessr guide image showing Apsrtc Bus Stop Zahirabad">
 </div>
 {{% /tab %}}
 {{% tab "Malayalam" %}}
@@ -259,7 +259,7 @@ Telugu (తెలుగు) is the official language of Andhra Pradesh and Telan
 Used in Kerala and {{% goto "../lakshadweep/" "Lakshadweep" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%A9%E3%83%A4%E3%83%BC%E3%83%A9%E3%83%A0%E8%AA%9E" "Malayalam" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./thirunelli_temple_frontview.jpg" alt="India GeoGuessr guide image showing Thirunelli Temple Frontview">
+<img src="/rule/asia/india/thirunelli_temple_frontview.jpg" alt="India GeoGuessr guide image showing Thirunelli Temple Frontview">
 </div>
 {{% /tab %}}
 {{% tab "Tibetan" %}}
@@ -337,7 +337,7 @@ State abbreviations are written on plates. They can often be seen on the sides o
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./india_kerala_traffic_transport.jpg" width="90%" alt="India GeoGuessr guide image showing India Kerala Traffic Transport">
+<img src="/rule/asia/india/india_kerala_traffic_transport.jpg" width="90%" alt="India GeoGuessr guide image showing India Kerala Traffic Transport">
 </div>
 
 {{% /tab %}}
@@ -346,7 +346,7 @@ State abbreviations are written on plates. They can often be seen on the sides o
 Seen nationwide, but more common in the north{{% by "https://youtu.be/3KSsNoeen_U?t=155" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2)" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="auto_rickshaw_vehicles_automobiles.jpg" alt="India GeoGuessr guide image showing Auto Rickshaw Vehicles Automobiles">
+<img src="/rule/asia/india/auto_rickshaw_vehicles_automobiles.jpg" alt="India GeoGuessr guide image showing Auto Rickshaw Vehicles Automobiles">
 </div>
 {{% /tab %}}
 {{% tab "Yellow/yellow" %}}
@@ -354,7 +354,7 @@ Seen nationwide, but more common in the north{{% by "https://youtu.be/3KSsNoeen_
 If it is yellow, try the <span class="quiz">south</span>?
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="rickshaw_india_car_710154.jpg" alt="India GeoGuessr guide image showing Rickshaw India Car 710154">
+<img src="/rule/asia/india/rickshaw_india_car_710154.jpg" alt="India GeoGuessr guide image showing Rickshaw India Car 710154">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -373,7 +373,7 @@ There are many houses with red-painted walls or concrete walls with flat tiles, 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./house/village_asia_house_india.jpg" alt="House GeoGuessr guide image showing Village Asia House India">
+<img src="/rule/asia/india/house/village_asia_house_india.jpg" alt="House GeoGuessr guide image showing Village Asia House India">
 </div>
 
 {{% /tab %}}
@@ -382,7 +382,7 @@ There are many houses with red-painted walls or concrete walls with flat tiles, 
 The old city of Jodhpur has many blue-painted walls, and blue buildings can be spotted{{% ex "https://maps.app.goo.gl/V3SUFqmVi7QM2V579" "https://maps.app.goo.gl/L8H9BHk3ZJY8zKYc9" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%83%89%E3%83%97%E3%83%AB" "Jodhpur" %}}. But they also appear in the south{{% ex "https://maps.app.goo.gl/MvLJ2PyfBuwdCY1k7" %}}, so it is hard to localize.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./house/city_blue_city_dzodhpur.jpg" alt="House GeoGuessr guide image showing City Blue City Dzodhpur">
+<img src="/rule/asia/india/house/city_blue_city_dzodhpur.jpg" alt="House GeoGuessr guide image showing City Blue City Dzodhpur">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -416,7 +416,7 @@ The west coast has the highest rainfall, so steep roofs are used. Some houses ap
 Like Goa, it is rainy and has tall palm trees{{% ex "https://maps.app.goo.gl/aHTmvXeGD1bsM5pq8" %}}. Traditional Kerala architecture often uses two-story buildings{{% ex "https://maps.app.goo.gl/i8FxivqpAVPrqfFXA" %}}{{% ref "https://www.jstage.jst.go.jp/article/jusokennen/19/0/19_9122/_article/-char/ja/" "Traditional architecture in India and Nepal (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="machukuzhy_sunnys_home.jpg" witdh="95%" alt="India GeoGuessr guide image showing Machukuzhy Sunnys Home">
+<img src="/rule/asia/india/machukuzhy_sunnys_home.jpg" witdh="95%" alt="India GeoGuessr guide image showing Machukuzhy Sunnys Home">
 </div>
 {{% /tab %}}
 {{% tab "Assam" %}}
@@ -425,7 +425,7 @@ In high-rainfall regions like Kerala or Assam, tall trees like these are common{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="arecanut_trees_assam.jpg" alt="India GeoGuessr guide image showing Arecanut Trees Assam">
+<img src="/rule/asia/india/arecanut_trees_assam.jpg" alt="India GeoGuessr guide image showing Arecanut Trees Assam">
 </div>
 {{% notice tip %}}
 Assam is prone to earthquakes and floods, so light materials like bamboo and stilt houses may appear{{% ex "https://maps.app.goo.gl/dBsJWBBTFJ6XejR58" "https://maps.app.goo.gl/Ta4g7onPCodbiGg48" "https://maps.app.goo.gl/BYZ4UmGJKqXrLGdHA" %}}{{% ref "https://kaken.nii.ac.jp/ja/file/KAKENHI-PROJECT-17K06694/17K06694seika.pdf" "Comparative study on bungalow industrialization and reproduction (JP)" %}}. Heavy materials like brick can fail in earthquakes.
@@ -459,7 +459,7 @@ Assam is prone to earthquakes and floods, so light materials like bamboo and sti
 A <span class="quiz">square hole near the top</span> suggests a Panjab city{{% ex "https://maps.app.goo.gl/WzBkzoYxnfaL8zsT8" %}}
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="pole2.jpg" alt="India GeoGuessr guide image showing pole2">
+<img src="/rule/asia/india/pole2.jpg" alt="India GeoGuessr guide image showing pole2">
 </div>
 {{% /tab %}}
 {{% tab "Uttar Pradesh" %}}
@@ -467,7 +467,7 @@ A <span class="quiz">square hole near the top</span> suggests a Panjab city{{% e
 Yellow rectangular stickers can appear{{% ex "https://maps.app.goo.gl/n8SAL2DoJua6JGMo6" %}}{{% by "https://youtu.be/AVri-VWkqfI?t=1183" "youtube" "THE INDIA GEOGUESSR GUIDE" %}}? They may be torn or covered.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./flood_water_street_disaster.jpg" width="600" alt="India GeoGuessr guide image showing Flood Water Street Disaster">
+<img src="/rule/asia/india/flood_water_street_disaster.jpg" width="600" alt="India GeoGuessr guide image showing Flood Water Street Disaster">
 </div>
 {{% /tab %}}
 {{% tab "Gujarat" %}}
@@ -476,7 +476,7 @@ Yellow rectangular stickers can appear{{% ex "https://maps.app.goo.gl/n8SAL2DoJu
 Poles with holes (holy poles) appear{{% ex "https://maps.app.goo.gl/cstGEuPUV8Xe6xHe7" %}}{{% by "https://youtu.be/3KSsNoeen_U?t=855" "youtube" "Tips and Metas for Geoguessr's NEWEST Country!! (feat. Duskden2) - zi8gzag" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./telnargaam.jpg" width="600" alt="India GeoGuessr guide image showing Telnargaam" />
+<img src="/rule/asia/india/telnargaam.jpg" width="600" alt="India GeoGuessr guide image showing Telnargaam" />
 </div>
 {{% /tab %}}
 {{% tab "Telangana・Andhra Pradesh" %}}
@@ -535,7 +535,7 @@ Reddish soil: southeast; dark soil: inland south of Delhi; light sandy soil: nor
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="2023-04-26-09-05-08.png" style="max-width:60%;" alt="India GeoGuessr guide image showing 2023 04 26 09 05 08" />
+<img src="/rule/asia/india/2023-04-26-09-05-08.png" style="max-width:60%;" alt="India GeoGuessr guide image showing 2023 04 26 09 05 08" />
 <p>By <a href="http://nroer.in/gstudio/resources/images/show/35270/">National Council of Educational Research and Training(NCERT)</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=27703297">Wikimedia Commons</a></p>
 </div>
 
@@ -594,7 +594,7 @@ Even with red soil, if the area is mountainous and heavily forested, consider Ne
 Tibetan script appears in town{{% ex "https://maps.app.goo.gl/X5QPA4Z8GHhkgqZQ7" "https://maps.app.goo.gl/pMm2fBCz1VfnYxAaA" %}}, and mountains are visible in all directions{{% ex "https://maps.app.goo.gl/YJMVt3qx2yBeSAyR8" %}}. Outside summer, access is only by air, and the town has an airport.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./view_leh.jpg" width="90%" alt="India GeoGuessr guide image showing View Leh">
+<img src="/rule/asia/india/view_leh.jpg" width="90%" alt="India GeoGuessr guide image showing View Leh">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

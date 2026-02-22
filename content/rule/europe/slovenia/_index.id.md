@@ -61,7 +61,7 @@ Notasi "ZONA" adalah "<span class="quiz">KONA</span>' Kemudian Slovenia dikonfir
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 29 %2840%29">
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-29_%2840%29.svg" width="147px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 29 %2840%29">
 <img src="/rule/europe/slovenia/sign-behind.png" width="145px" style="margin:10px" alt="Slovenia GeoGuessr guide image showing Sign Behind">
 </div>
 
@@ -89,8 +89,8 @@ Industri telah berkembang pesat karena merupakan kawasan industri paling maju di
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107 %28L%29" />
-<img src=".//r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107.1 %28L%29" />
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-107_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107 %28L%29" />
+<img src="/rule/europe/slovenia/r/Slovenia_road_sign_III-107.1_%28L%29.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Slovenia Road Sign Iii 107.1 %28L%29" />
 </div>
 
 

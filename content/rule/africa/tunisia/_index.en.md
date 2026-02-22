@@ -47,7 +47,7 @@ Distinctive mesh-patterned utility poles can be found{{% ex "https://maps.app.go
 Many buildings are dominated by light blue and white{{% ex "https://goo.gl/maps/gfWnhkR9ns2F9GsY8" "https://goo.gl/maps/q5fwXZf7dRHvbinv6" "https://goo.gl/maps/hzudgBEzD51yW6BH7" "https://goo.gl/maps/i4d6SuA9LzbFp7SdA" %}}. Curbs and chevrons also often use the blue-and-white combination{{% ex "https://goo.gl/maps/mnT52prUXvG1MXzD8" "https://goo.gl/maps/xtoNoSnyR2UQs7xB7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./house.png" width="90%" alt="Tunisia GeoGuessr guide image showing House">
+<img src="/rule/africa/tunisia/house.png" width="90%" alt="Tunisia GeoGuessr guide image showing House">
 </div>
 
 
@@ -57,12 +57,12 @@ There are <span class="quiz">black</span> license plates, though other colors ex
 
 
 <div class="googlemap-if unclickable">
-<img src="./car.png" width="95%" alt="Tunisia GeoGuessr guide image showing Car">
+<img src="/rule/africa/tunisia/car.png" width="95%" alt="Tunisia GeoGuessr guide image showing Car">
 </div>
 
 
 {{% lb 50 %}}
-![](2023-05-28-23-08-36.png)
+![](/rule/africa/tunisia/2023-05-28-23-08-36.png)
 
 CC0
 {{% /lb %}}

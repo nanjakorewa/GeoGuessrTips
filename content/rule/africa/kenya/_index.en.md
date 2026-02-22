@@ -42,7 +42,7 @@ Cars drive on the <span class="quiz">left side</span> of the road, and the rear 
 
 
 {{% lb 50 %}}
-![](lp-kenya.png)
+![](/rule/africa/kenya/lp-kenya.png)
 
 By kenyanmagazine - <a rel="nofollow" class="external free" href="https://kenyanmagazine.co.ke/wp-content/uploads/2022/08/20220830_191002.jpg">Original image</a>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=125713405">Link</a> modified
 {{% /lb %}}
@@ -96,7 +96,7 @@ Google Cars are distinctive and come in several types. You may see the roof{{% e
 {{% tabs %}}
 {{% tab "Vegetation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="90%" alt="Kenya GeoGuessr guide image showing Vegitation" />
+<img src="/rule/africa/kenya/vegitation.jpg" width="90%" alt="Kenya GeoGuessr guide image showing Vegitation" />
 </div>
 
 {{% notice tip %}}{{% ref "https://repository.maseno.ac.ke/bitstream/handle/123456789/3354/WP155Russell.pdf?sequence=1" "Ongugo, Paul O., et al. 'A review of Kenya’s national policies relevant to climate change adaptation and mitigation: Insights from Mount Elgon.' (2014)." %}}

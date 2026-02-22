@@ -50,31 +50,31 @@ Many major Mexican companies end with -MEX (PEMEX, CEMEX, CINEMEX). OXXO is a ma
 </div>
 
 <div class="googlemap-if">
-<img src="./c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="Mexico GeoGuessr guide image showing Oxxo Logo">
-<img src="./c/Logo_de_Petr%C3%B3leos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="Mexico GeoGuessr guide image showing Logo De Petroleos Mexicanos (2019)">
-<img src="./c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="Mexico GeoGuessr guide image showing Comex">
+<img src="/rule/n_america/mexico/c/Oxxo_Logo.svg" width="160px" style="margin:10px" alt="Mexico GeoGuessr guide image showing Oxxo Logo">
+<img src="/rule/n_america/mexico/c/Logo_de_Petr%C3%B3leos_Mexicanos_(2019).svg" width="250px" style="margin:10px" alt="Mexico GeoGuessr guide image showing Logo De Petroleos Mexicanos (2019)">
+<img src="/rule/n_america/mexico/c/Comex.png" width="180px" style="margin:30px 0 0 10px" alt="Mexico GeoGuessr guide image showing Comex">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">Octagonal</span> utility poles are distinctive{{% ex "https://maps.app.goo.gl/bsde6FgabHDDxeBKA" "https://maps.app.goo.gl/2r1h6b5RaUfWDMTW8" "https://maps.app.goo.gl/KzddnjrWnkGvxGSz8" "https://maps.app.goo.gl/cJSkqkmTMod4Zv8cA" "https://goo.gl/maps/YrP6VkNFZPzpfrKr7" "https://goo.gl/maps/3NRukzePTTET5LMw7" %}}. Colombia can have similar poles, so double-check other clues.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./pole.png" width="90%" alt="Mexico GeoGuessr guide image showing Pole">
+<img src="/rule/n_america/mexico/pole.png" width="90%" alt="Mexico GeoGuessr guide image showing Pole">
 </div>
 
 {{% notice tip %}}
 <span class="quiz">ALTO</span> stop signs appear in Mexico, Guatemala, Panama, and Costa Rica{{% ex "https://maps.app.goo.gl/i4Msa25mVtCBAJxr7" "https://goo.gl/maps/BWWNLyK8SGH6sJrr5" "https://goo.gl/maps/Pu2vZTAoaHYXHZHAA" %}}. Mexico also uses white/orange directional arrows in some regions{{% ex "https://maps.app.goo.gl/9EzSAyMz3xcRVD5k9" "https://maps.app.goo.gl/jSirkndzbABnynKC8" "https://goo.gl/maps/FsRy7A1Ndn3n2vFN6" "https://maps.app.goo.gl/2zMwM7NvnHWdKomd9" "https://goo.gl/maps/xzwaZgyV8NYSsNJa6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="Mexico GeoGuessr guide image showing Alto Stop Sign">
-<img src="./r/arrow.png" width="90px" style="margin-left:20px" alt="Mexico GeoGuessr guide image showing Arrow">
+<img src="/rule/n_america/mexico/r/Alto_stop_sign.svg" width="90px" style="margin-right:20px" alt="Mexico GeoGuessr guide image showing Alto Stop Sign">
+<img src="/rule/n_america/mexico/r/arrow.png" width="90px" style="margin-left:20px" alt="Mexico GeoGuessr guide image showing Arrow">
 </div>
 
 {{% notice tip %}}
 White-and-orange bollards often appear along highways{{% ex "https://maps.app.goo.gl/XPDGtA3y2TRQWiRh8" "https://maps.app.goo.gl/dcASzGaFqffTCHn38" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<p><div class="unclickable"><img src="./bollard.png" width="90%" alt="Mexico GeoGuessr guide image showing Bollard"></div></p>
+<p><div class="unclickable"><img src="/rule/n_america/mexico/bollard.png" width="90%" alt="Mexico GeoGuessr guide image showing Bollard"></div></p>
 <p>By <a href="https://en.wikipedia.org/wiki/User:Cdw1952" class="extiw" title="wikipedia:User:Cdw1952">Cdw1952</a> at <a href="https://en.wikipedia.org/wiki/" class="extiw" title="wikipedia:">English Wikipedia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=72669295">Link</a></p>
 </div>
 
@@ -82,7 +82,7 @@ White-and-orange bollards often appear along highways{{% ex "https://maps.app.go
 Grupo Modelo and Corona branding is a useful commercial clue{{% ex "https://maps.app.goo.gl/TdTohN8oujw4QT9r8" "https://maps.app.goo.gl/KuMEB3eeR4zQ9AP77" "https://maps.app.goo.gl/i2b1zjJpPya6FNyQ6" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./bottle_beer_beach_drink.jpg" width="90%" alt="Mexico GeoGuessr guide image showing Bottle Beer Beach Drink">
+<img src="/rule/n_america/mexico/bottle_beer_beach_drink.jpg" width="90%" alt="Mexico GeoGuessr guide image showing Bottle Beer Beach Drink">
 </div>
 
 {{% /tab %}}
@@ -182,7 +182,7 @@ Area code map for Mexico.
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Mexico GeoGuessr guide image showing Map Of Wind Energy In Mexico Data From Inegi Marco Geoestadistico Nacional">
+<img src="/rule/n_america/mexico/Map-of-wind-energy-in-Mexico-Data-from-INEGI-Marco-Geoestadistico-Nacional.png" alt="Mexico GeoGuessr guide image showing Map Of Wind Energy In Mexico Data From Inegi Marco Geoestadistico Nacional">
 </div>
 
 {{% notice tip %}}

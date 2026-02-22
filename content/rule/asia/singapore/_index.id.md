@@ -43,9 +43,9 @@ Bahkan untuk rambu segitiga atau lingkaran, tetap menggunakan papan berbentuk pe
 </div>
 
 <div class="googlemap-if unclickable" style="background-color:#222; padding-top:25px;margin-bottom:0;border-radius:20px;">
-<img src="../../../../rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Mandatory Give Way" />
-<img src="../../../../rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Mandatory Stop" />
-<img src="../../../../rule/asia/singapore/r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Prohibitory Speed Limit 50" />
+<img src="/rule/asia/singapore/../../../../rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Give_way.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Mandatory Give Way" />
+<img src="/rule/asia/singapore/../../../../rule/asia/singapore/r/Singapore_road_sign_-_Mandatory_-_Stop.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Mandatory Stop" />
+<img src="/rule/asia/singapore/../../../../rule/asia/singapore/r/Singapore_road_sign_-_Prohibitory_-_Speed_limit_50.svg" class="margin-ten-px width150" alt="R GeoGuessr guide image showing Singapore Road Sign Prohibitory Speed Limit 50" />
 </div>
 
 {{% notice tip %}}

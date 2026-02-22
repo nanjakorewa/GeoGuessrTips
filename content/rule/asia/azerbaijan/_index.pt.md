@@ -57,7 +57,7 @@ As placas veiculares trazem, com frequência, a bandeira nacional no canto super
 
 
 {{% lb 50 %}}
-![](AzƏrbaycan_Respublikasİ_avtomobil_dövlət_qeydiyyat_nişanı_-_Ali_RƏHbƏrlik.svg)
+![](/rule/asia/azerbaijan/AzƏrbaycan_Respublikasİ_avtomobil_dövlət_qeydiyyat_nişanı_-_Ali_RƏHbƏrlik.svg)
 
 CC0
 {{% /lb %}}

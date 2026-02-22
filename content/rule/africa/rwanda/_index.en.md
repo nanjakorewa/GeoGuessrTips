@@ -50,10 +50,10 @@ sc: [
 </div>
 
 {{% lb 50 %}}
-![](2023-05-22-19-49-47.png)
+![](/rule/africa/rwanda/2023-05-22-19-49-47.png)
 {{% /lb %}}
 {{% lb 50 %}}
-![](2023-05-22-19-50-24.png)
+![](/rule/africa/rwanda/2023-05-22-19-50-24.png)
 {{% /lb %}}
 
 {{% notice tip %}}MTN and airtel, Rwanda’s mobile carriers, set up umbrella kiosks in many places{{% ex "https://maps.app.goo.gl/h1UEax3LcZENDM5U9" "https://maps.app.goo.gl/wdb8vjUUVTStK96F9" "https://goo.gl/maps/F16NsV6qzHpeSFZr9" %}}. Their logos also appear around town{{% ex "https://maps.app.goo.gl/NXTC4LaLemnRpetk6" %}}. These kiosks serve like ATMs for mobile money{{% ref "https://www.watch.impress.co.jp/docs/series/suzukij/1237778.html" "Rwanda and cashless payments (JP)" %}}. They also operate in {{% goto "../uganda/" "Uganda" %}} and {{% goto "../ghana/" "Ghana" %}}.
@@ -111,7 +111,7 @@ sc: [
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./home_st_jean_view.jpg" width="90%" alt="Rwanda GeoGuessr guide image showing Home St Jean View">
+<img src="/rule/africa/rwanda/home_st_jean_view.jpg" width="90%" alt="Rwanda GeoGuessr guide image showing Home St Jean View">
 </div>
 
 {{% /tab %}}

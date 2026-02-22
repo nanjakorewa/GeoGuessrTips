@@ -26,7 +26,7 @@ is_unofficial: true
 Agriculture has expanded since the late 2000s and the food self-sufficiency rate exceeds 140%. Farms and center-pivot irrigation can be found{{% ref "https://www.zm.emb-japan.go.jp/files/000190562.pdf" "Zambia agriculture overview (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="960px-Grain_Silos_and_weighing_bridge.jpg" width="90%" alt="Zambia GeoGuessr guide image showing 960px Grain Silos And Weighing Bridge">
+<img src="/rule/africa/zambia/960px-Grain_Silos_and_weighing_bridge.jpg" width="90%" alt="Zambia GeoGuessr guide image showing 960px Grain Silos And Weighing Bridge">
 </div>
 
 {{% notice tip %}}

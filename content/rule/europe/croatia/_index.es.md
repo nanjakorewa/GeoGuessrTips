@@ -69,7 +69,7 @@ Hasta 2016 las matrículas eran blancas sin la franja azul de la UE, por lo que 
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./plates.jpg" alt="Croatia GeoGuessr guide image showing Plates" width="80%">
+<img src="/rule/europe/croatia/plates.jpg" alt="Croatia GeoGuessr guide image showing Plates" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Las barreras rojas y blancas de perfil marcado también están presentes en Serb
 El damero nacional aparece en escudos municipales y otros elementos urbanos.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./checker_pattern.jpg" alt="Croatia GeoGuessr guide image showing Checker Pattern" width="80%">
+<img src="/rule/europe/croatia/checker_pattern.jpg" alt="Croatia GeoGuessr guide image showing Checker Pattern" width="80%">
 </div>
 
 {{% /tab %}}

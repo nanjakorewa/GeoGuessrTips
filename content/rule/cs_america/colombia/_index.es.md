@@ -63,7 +63,7 @@ Las matrículas (delantera y trasera) son <span class="quiz">amarillas</span>{{%
 </div>
 
 {{% lb 50 %}}
-![Matrícula de Colombia](./matrícula.png)
+![Matrícula de Colombia](/rule/cs_america/colombia/matrícula.png)
 
 Autor desconocido
 {{% /lb %}}

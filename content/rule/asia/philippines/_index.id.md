@@ -100,7 +100,7 @@ Di Asia, chevron merah-putih kemungkinan besar hanya ditemukan di Filipina dan {
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="../../../../rule/asia/philippines/r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="R GeoGuessr guide image showing Philippines Road Sign Hm 1B R">
+<img src="/rule/asia/philippines/../../../../rule/asia/philippines/r/Philippines_road_sign_HM_1B_R.svg" width="100px" alt="R GeoGuessr guide image showing Philippines Road Sign Hm 1B R">
 </div>
 
 {{% /tab %}}
@@ -166,8 +166,8 @@ Berdasarkan pengalaman, sekitar 80% ditemukan di daerah pegunungan sekitar Bagui
 {{% tabs %}}
 {{% tab "Bagian Utara" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="../../../../rule/asia/philippines/bike/n1.jpg" width="500px" alt="Bike GeoGuessr guide image showing n1" />
-<img src="../../../../rule/asia/philippines/bike/n2.jpg" width="500px" alt="Bike GeoGuessr guide image showing n2" />
+<img src="/rule/asia/philippines/../../../../rule/asia/philippines/bike/n1.jpg" width="500px" alt="Bike GeoGuessr guide image showing n1" />
+<img src="/rule/asia/philippines/../../../../rule/asia/philippines/bike/n2.jpg" width="500px" alt="Bike GeoGuessr guide image showing n2" />
 </div>
 
 {{% notice tip %}}
@@ -176,9 +176,9 @@ Atapnya memiliki undakan.
 {{% /tab %}}
 {{% tab "Bagian Selatan" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="../../../../rule/asia/philippines/bike/s1.jpg" width="500px" alt="Bike GeoGuessr guide image showing s1" />
-<img src="../../../../rule/asia/philippines/bike/s2.jpg" width="500px" alt="Bike GeoGuessr guide image showing s2" />
-<img src="../../../../rule/asia/philippines/bike/s3.jpg" width="500px" alt="Bike GeoGuessr guide image showing s3" />
+<img src="/rule/asia/philippines/../../../../rule/asia/philippines/bike/s1.jpg" width="500px" alt="Bike GeoGuessr guide image showing s1" />
+<img src="/rule/asia/philippines/../../../../rule/asia/philippines/bike/s2.jpg" width="500px" alt="Bike GeoGuessr guide image showing s2" />
+<img src="/rule/asia/philippines/../../../../rule/asia/philippines/bike/s3.jpg" width="500px" alt="Bike GeoGuessr guide image showing s3" />
 </div>
 
 {{% notice tip %}}

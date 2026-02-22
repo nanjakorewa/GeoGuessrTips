@@ -67,7 +67,7 @@ A menudo veo patrones en los que las raíces están endurecidas con hormigón.{{
 </div>
 
 {{% lb %}}
-![](lc-pequeño.png)
+![](/rule/cs_america/peru/lc-pequeño.png)
 
 CC0
 {{% /lb %}}

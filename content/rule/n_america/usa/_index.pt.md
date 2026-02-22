@@ -86,8 +86,8 @@ Muitas grandes empresas têm sede nos EUA. Até serviços de recolha de lixo, el
 <img src="/rule/n_america/usa/w/Waste_Management_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Waste Management Logo" />
 <img src="/rule/n_america/usa/w/Republic_Services_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Republic Services Logo" />
 <img src="/rule/n_america/usa/w/Chevron_Logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Chevron Logo" />
-<img src="./w/Citgo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Citgo" />
-<img src="./w/Target_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Target Logo" />
+<img src="/rule/n_america/usa/w/Citgo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Citgo" />
+<img src="/rule/n_america/usa/w/Target_logo.svg" width="220px" style="margin:10px" alt="W GeoGuessr guide image showing Target Logo" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

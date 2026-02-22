@@ -29,7 +29,7 @@ is_unofficial: true
 Formerly one of the territories of {{% goto "../../europe/france/" "France" %}} as part of French Equatorial Africa {{% ref "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E8%B5%A4%E9%81%93%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB" "French Equatorial Africa" %}}. You may spot French utility poles, but there are very few photos.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="1280px-Opération_Sangaris_3.jpg" width="90%" alt="Central African Republic GeoGuessr guide image showing Opération Sangaris 3" />
+<img src="/rule/africa/car/1280px-Opération_Sangaris_3.jpg" width="90%" alt="Central African Republic GeoGuessr guide image showing Opération Sangaris 3" />
 </div>
 {{% /tab %}}
 {{% /tabs %}}

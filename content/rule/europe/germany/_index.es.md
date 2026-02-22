@@ -59,7 +59,7 @@ Una señal de <span class="quiz">Einbahnstraße</span> confirma que estás en Al
 
 <div class="googlemap-if unclickable">
 <img src="/rule/europe/germany/r/Zeichen_220-20_-_Einbahnstraße,_rechtsweisend,_StVO_2017.svg" width="250px" style="margin:5px" alt="R GeoGuessr guide image showing Zeichen 220 20 Einbahnstraße, rechtsweisend, Stvo 2017">
-<img src="./r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="R GeoGuessr guide image showing Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, Stvo 2017">
+<img src="/rule/europe/germany/r/Zeichen_283-21_-_Absolutes_Haltverbot_%28Anfang%29,_Aufstellung_links,_StVO_2017.svg" width="100px" alt="R GeoGuessr guide image showing Zeichen 283 21 Absolutes Haltverbot %28Anfang%29, Aufstellung links, Stvo 2017">
 <img src="/rule/europe/germany/Zeichen_286-30_-_Eingeschränktes_Halteverbot_(Mitte),_Rechtsaufstellung,_StVO_1992.svg" width="100px" alt="Germany GeoGuessr guide image showing Zeichen 286 30 Eingeschränktes Halteverbot (Mitte), Rechtsaufstellung, Stvo 1992">
 </div>
 
@@ -72,7 +72,7 @@ Los carteles direccionales amarillos o naranjas con números de carretera abunda
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
+<img src="/rule/europe/germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="250px" style="margin:10px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
 <img src="/rule/europe/germany/rs3.svg" width="250px" style="margin:10px" alt="Germany GeoGuessr guide image showing rs3">
 </div>
 <div class="googlemap-if unclickable no-margin">
@@ -84,7 +84,7 @@ Los bolardos presentan cuerpo blanco y reflectores blancos o naranjas{{% ex "htt
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/bollard-de.svg" width="180px" alt="R GeoGuessr guide image showing Bollard De" />
+<img src="/rule/europe/germany/r/bollard-de.svg" width="180px" alt="R GeoGuessr guide image showing Bollard De" />
 </div>
 
 {{% notice tip %}}
@@ -92,7 +92,7 @@ Las paradas de transporte público se marcan con el círculo verde “H” de Ha
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./bus-stop-board.jpg" width="60%" alt="Germany GeoGuessr guide image showing Bus Stop Board">
+<img src="/rule/europe/germany/bus-stop-board.jpg" width="60%" alt="Germany GeoGuessr guide image showing Bus Stop Board">
 </div>
 
 {{% notice tip %}}
@@ -100,7 +100,7 @@ El viejo Gen2 produce desenfoques cuadrados y colores apagados; los despliegues 
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./rd2.jpg" width="95%" alt="Germany GeoGuessr guide image showing rd2">
+<img src="/rule/europe/germany/rd2.jpg" width="95%" alt="Germany GeoGuessr guide image showing rd2">
 </div>
 
 {{% /tab %}}
@@ -111,7 +111,7 @@ Los cruces de autopista usan escudos amarillos con la nomenclatura “A###”{{%
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./autobahn.jpg" width="95%" alt="Germany GeoGuessr guide image showing Autobahn">
+<img src="/rule/europe/germany/autobahn.jpg" width="95%" alt="Germany GeoGuessr guide image showing Autobahn">
 </div>
 
 {{% /tab %}}
@@ -132,7 +132,7 @@ Los cruces de autopista usan escudos amarillos con la nomenclatura “A###”{{%
 Esperar pinares y claros de tala{{% ex "https://goo.gl/maps/kr76eG25s3p3187i7" "https://goo.gl/maps/iJHnDTBqmdGpSfmT6" "https://goo.gl/maps/QJbscND6g9aCX57QA" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./harz_forest.jpg" width="95%" alt="Germany GeoGuessr guide image showing Harz Forest">
+<img src="/rule/europe/germany/harz_forest.jpg" width="95%" alt="Germany GeoGuessr guide image showing Harz Forest">
 </div>
 {{% /tab %}}
 {{% tab "Isla de Sylt" %}}

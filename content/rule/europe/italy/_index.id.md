@@ -96,7 +96,7 @@ Bagian belakang rambu umumnya <span class="quiz">hitam atau abu-abu</span>{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
+<img src="/rule/europe/italy/sign-back.jpg" width="90%" alt="Italy GeoGuessr guide image showing Sign Back">
 </div>
 
 {{% notice tip %}}
@@ -104,7 +104,7 @@ Toko Tabacchi mudah dikenali lewat logo “T” warna hitam{{% ex "https://goo.g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
+<img src="/rule/europe/italy/tabacchi.jpg" width="90%" alt="Italy GeoGuessr guide image showing Tabacchi">
 </div>
 
 {{% notice tip %}}
@@ -112,7 +112,7 @@ Deretan kebun anggur, pepohonan zaitun, dan bahu jalan berbatu putih sering terl
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
+<img src="/rule/europe/italy/vineyard.jpg" width="90%" alt="Italy GeoGuessr guide image showing Vineyard">
 </div>
 
 {{% notice tip %}}
@@ -120,7 +120,7 @@ Pinus payung dan pohon cemara berjajar di banyak jalan pedesaan{{% ex "https://g
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
+<img src="/rule/europe/italy/pinus.jpg" width="90%" alt="Italy GeoGuessr guide image showing Pinus">
 </div>
 
 {{% notice tip %}}
@@ -128,7 +128,7 @@ Nama jalan dimulai dengan “Via” atau “Vico/Vicolo”; jalan provinsi pakai
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
+<img src="/rule/europe/italy/via-signs.jpg" width="90%" alt="Italy GeoGuessr guide image showing Via Signs">
 </div>
 
 {{% /tab %}}
@@ -139,7 +139,7 @@ Perbukitan Piemonte, Toscana, Veneto, hingga Sisilia dipenuhi kebun anggur{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
+<img src="/rule/europe/italy/vineyard2.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard2">
 </div>
 
 {{% /tab %}}
@@ -162,7 +162,7 @@ Deretan cemara mudah ditemukan di Toscana dan Lazio{{% ex "https://goo.gl/maps/U
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
+<img src="/rule/europe/italy/cypress_lane.jpg" width="95%" alt="Italy GeoGuessr guide image showing Cypress Lane">
 </div>
 {{% /tab %}}
 {{% tab "Pinus" %}}
@@ -172,7 +172,7 @@ Pinus payung menghiasi pesisir Mediterania{{% ex "https://goo.gl/maps/uWJ5Fq86rv
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
+<img src="/rule/europe/italy/pinea.jpg" width="95%" alt="Italy GeoGuessr guide image showing Pinea">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -196,7 +196,7 @@ Lava hitam Etna tampak jelas di bahu jalan{{% ex "https://maps.app.goo.gl/wSUh6q
 {{% /tab %}}
 {{% tab "Vineyard" %}}
 <div class="googlemap-if">
-<img src="./vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
+<img src="/rule/europe/italy/vineyard3.jpg" width="95%" alt="Italy GeoGuessr guide image showing vineyard3">
 </div>
 {{% /tab %}}
 {{% /tabs %}}

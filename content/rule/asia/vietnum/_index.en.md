@@ -327,7 +327,7 @@ In central Vietnam, acacia plantations are found as a result of a large-scale re
 </div>
 
 {{% tabs %}}
-{{% tab "City Logos" %}}![](2025-06-30-18-02-50.png)
+{{% tab "City Logos" %}}![](/rule/asia/vietnum/2025-06-30-18-02-50.png)
 {{% notice tip %}}
 Some cities have logos included on street name signs, which can help identify the city. The image shows Hanoi {{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8E%E3%82%A4" "Hanoi" %}}.
 {{% /notice %}}

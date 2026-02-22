@@ -46,11 +46,11 @@ Hong Kong was governed by the British colonial administration from 1841 to 1997{
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./hongkong-car.jpg" width="95%" alt="Hongkong GeoGuessr guide image showing Hongkong Car">
+<img src="/rule/asia/hongkong/hongkong-car.jpg" width="95%" alt="Hongkong GeoGuessr guide image showing Hongkong Car">
 </div>
 
 {{% lb 50 %}}
-![](2023-04-28-17-06-33.png)
+![](/rule/asia/hongkong/2023-04-28-17-06-33.png)
 
 By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5951198">Wikimedia Commons</a>, modified
 {{% /lb %}}
@@ -59,13 +59,13 @@ By Woodennature - Own work, <a href="https://creativecommons.org/licenses/by-sa/
 Bilingual black-and-white street signs{{% ex "https://maps.app.goo.gl/dZtZXyqezD1w72G5A" "https://maps.app.goo.gl/Wf86TERhQz4STbY29" %}}. Some signs look similar to those in {{% goto "../../europe/united-kingdom/" "the UK" %}} or {{% goto "../nepal/" "Nepal" %}}{{% ex "https://maps.app.goo.gl/fJK8iAgPuYm8bxp38" "https://maps.app.goo.gl/ecvBzm9KsMMC9zzAA" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./hk_syp_western_street_0.jpg" width="90%" alt="Hongkong GeoGuessr guide image showing Hk Syp Western Street 0">
+<img src="/rule/asia/hongkong/hk_syp_western_street_0.jpg" width="90%" alt="Hongkong GeoGuessr guide image showing Hk Syp Western Street 0">
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="./r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="R GeoGuessr guide image showing Wan King Path Sign">
-<img src="./r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 417">
-<img src="./r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 422">
+<img src="/rule/asia/hongkong/r/Wan_King_Path_sign.jpg" width="240px" style="margin:20px" alt="R GeoGuessr guide image showing Wan King Path Sign">
+<img src="/rule/asia/hongkong/r/Hong_Kong_road_sign_417.svg" width="110px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 417">
+<img src="/rule/asia/hongkong/r/Hong_Kong_road_sign_422.svg" width="106px" style="margin:10px" alt="R GeoGuessr guide image showing Hong Kong Road Sign 422">
 </div>
 
 {{% notice note %}}
@@ -73,8 +73,8 @@ Examples of signs in {{% goto "../../europe/united-kingdom/" "the UK" %}}
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 502">
-<img src="./uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 618.1B">
+<img src="/rule/asia/hongkong/uk/UK_traffic_sign_502.svg" width="120px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 502">
+<img src="/rule/asia/hongkong/uk/UK_traffic_sign_618.1B.svg" width="105px" style="margin:10px" alt="Uk GeoGuessr guide image showing Uk Traffic Sign 618.1B">
 </div>
 
 {{% notice tip %}}
@@ -82,8 +82,8 @@ Street View also covers underdeveloped areas{{% ex "https://maps.app.goo.gl/JNm6
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./road/entrance_victorias_harbour_seen.jpg" width="303px" alt="Road GeoGuessr guide image showing Entrance Victorias Harbour Seen">
-<img src="./road/hongkong2006_56.jpg" width="340px" alt="Road GeoGuessr guide image showing hongkong2006 56">
+<img src="/rule/asia/hongkong/road/entrance_victorias_harbour_seen.jpg" width="303px" alt="Road GeoGuessr guide image showing Entrance Victorias Harbour Seen">
+<img src="/rule/asia/hongkong/road/hongkong2006_56.jpg" width="340px" alt="Road GeoGuessr guide image showing hongkong2006 56">
 </div>
 <div class="googlemap-if no-margin">
 <p><a href="https://commons.wikimedia.org/wiki/File:Fu_Tei_Ha_Tsuen_01.jpg#/media/File:Fu_Tei_Ha_Tsuen_01.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Fu_Tei_Ha_Tsuen_01.jpg" alt="Wikimedia Commons photo showing Fu Tei Ha Tsuen 01" width="643px"></a></p>

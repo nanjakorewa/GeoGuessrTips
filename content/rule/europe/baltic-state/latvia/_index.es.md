@@ -73,7 +73,7 @@ Dentro de los países bálticos, solo Letonia usa <span class="quiz">cinco</span
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing 2023 05 14%20035914" />
+<img src="/rule/europe/baltic-state/latvia/r/2023-05-14%20035914.png" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing 2023 05 14%20035914" />
 <img src="/rule/europe/baltic-state/latvia/r/Latvia_road_sign_535.svg" width="120px" class="margin-ten-px" alt="R GeoGuessr guide image showing Latvia Road Sign 535" />
 </div>
 

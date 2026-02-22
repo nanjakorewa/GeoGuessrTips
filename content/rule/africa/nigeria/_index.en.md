@@ -42,7 +42,7 @@ Segmented utility poles appear{{% ex "https://maps.app.goo.gl/pojYCUYFLgrpnwNy6"
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./road.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Road">
+<img src="/rule/africa/nigeria/road.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Road">
 </div>
 
 
@@ -51,7 +51,7 @@ Nigeria drives on the <span class="quiz">right</span>. License plates vary; they
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](./НІГЕРІЯ_НОМЕР_2012.gif)
+![](/rule/africa/nigeria/НІГЕРІЯ_НОМЕР_2012.gif)
 
 By <a href="//commons.wikimedia.org/w/index.php?title=User:Phedmose&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Phedmose (page does not exist)">Pharm Ede Moses</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=47463054">Link</a>
 {{% /lb %}}
@@ -67,7 +67,7 @@ Small taxis called <span class="quiz">Keke-napep</span> run in towns{{% ex "http
 Single-story houses with metal roofs like this are common{{% ex "https://maps.app.goo.gl/7HeyaGY6udvq88Qd6" "https://maps.app.goo.gl/rkexHDbYoRkGvXmB8" "https://maps.app.goo.gl/68fdWw1ryGnP4MwcA" "https://maps.app.goo.gl/Rs9chhraNPo674JKA" "https://maps.app.goo.gl/nupZV4G31mkRsn36A" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Honda's Place , Ota , Ogun State Nigeria">
+<img src="/rule/africa/nigeria/Honda's_Place_,_Ota_,_Ogun_State_Nigeria.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Honda's Place , Ota , Ogun State Nigeria">
 </div>
 
 
@@ -133,7 +133,7 @@ Seven Up seems to be popular{{% by "https://www.ide.go.jp/Japanese/Data/Africa_f
 {{% tabs %}}
 {{% tab "Vegetation and elevation" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./vegitation.jpg" width="100%" alt="Nigeria GeoGuessr guide image showing Vegitation" />
+<img src="/rule/africa/nigeria/vegitation.jpg" width="100%" alt="Nigeria GeoGuessr guide image showing Vegitation" />
 </div>
 
 {{% notice tip %}}
@@ -215,7 +215,7 @@ The Sudan Zone (gray) has almost no grass.
 {{% tabs %}}
 {{% tab "State names" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="./Political_map_of_Nigeria.svg" alt="Nigeria GeoGuessr guide image showing Political Map Of Nigeria">
+<img src="/rule/africa/nigeria/Political_map_of_Nigeria.svg" alt="Nigeria GeoGuessr guide image showing Political Map Of Nigeria">
 </div>
 {{% /tab %}}
 {{% /tabs %}}
@@ -238,7 +238,7 @@ The Sudan Zone (gray) has almost no grass.
 {{% tabs %}}
 {{% tab "Oil palm" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-44-28.png" width="97%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 44 28" />
+<img src="/rule/africa/nigeria/2023-05-10-15-44-28.png" width="97%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 44 28" />
 </div>
 
 {{% notice tip %}}
@@ -247,7 +247,7 @@ Oil palms are only found in coastal areas
 {{% /tab %}}
 {{% tab "Millet" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-53-56.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 53 56" />
+<img src="/rule/africa/nigeria/2023-05-10-15-53-56.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 53 56" />
 </div>
 
 {{% notice tip %}}
@@ -255,13 +255,13 @@ Millet is easier to identify at higher image quality{{% ex "https://maps.app.goo
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="fodder_barn_crop_residue.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Fodder Barn Crop Residue" />
+<img src="/rule/africa/nigeria/fodder_barn_crop_residue.jpg" width="90%" alt="Nigeria GeoGuessr guide image showing Fodder Barn Crop Residue" />
 </div>
 
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable no-margin">
-<img src="2023-05-10-15-49-07.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 49 07" />
+<img src="/rule/africa/nigeria/2023-05-10-15-49-07.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 10 15 49 07" />
 </div>
 
 {{% notice tip %}}
@@ -270,7 +270,7 @@ Rice is common in the central area
 {{% /tab %}}
 {{% tab "Corn" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-19-08-43-21.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 19 08 43 21" />
+<img src="/rule/africa/nigeria/2023-05-19-08-43-21.png" width="90%" alt="Nigeria GeoGuessr guide image showing 2023 05 19 08 43 21" />
 </div>
 
 {{% notice tip %}}

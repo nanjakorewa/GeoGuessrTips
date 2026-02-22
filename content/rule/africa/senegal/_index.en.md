@@ -43,11 +43,11 @@ License plates are often fully <span class="quiz">blue</span> or only the left s
 {{% /notice %}}
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./car.png" width="90%" alt="Senegal GeoGuessr guide image showing Car">
+<img src="/rule/africa/senegal/car.png" width="90%" alt="Senegal GeoGuessr guide image showing Car">
 </div>
 
 {{% lb 50 %}}
-![](2023-05-13-14-45-53.png)
+![](/rule/africa/senegal/2023-05-13-14-45-53.png)
 
 By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php?curid=112447343">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -56,8 +56,8 @@ By BasilLeaf - Own work, CC0, <a href="https://commons.wikimedia.org/w/index.php
 There are utility poles{{% ex "https://maps.app.goo.gl/RQH5CAecC1NTwaix9" "https://maps.app.goo.gl/cbM26qhvAKLT3KmM6" %}} and bollards{{% ex "https://maps.app.goo.gl/FysAh8ZqfYedmFhf7" %}} in the same style as {{% goto "../../europe/france/" "France" %}}. Street names may include "RUE". Senegal was a French colony until independence in 1960{{% ref "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%88%86%E5%89%B2" "Scramble for Africa (JP)" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Joseph Gomis À Dakar">
-<img src="./640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Mohamed V À Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Joseph-Gomis_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Joseph Gomis À Dakar">
+<img src="/rule/africa/senegal/640px-Panneau_de_la_rue_Mohamed_V_à_Dakar.jpg" width="350" alt="Senegal GeoGuessr guide image showing 640px Panneau De La Rue Mohamed V À Dakar">
 </div>
 
 <div class="googlemap-if no-margin">
@@ -68,14 +68,14 @@ There are utility poles{{% ex "https://maps.app.goo.gl/RQH5CAecC1NTwaix9" "https
 Thatched-roof houses can be found in rural areas{{% ex "https://maps.app.goo.gl/KqWL3cyn1y4AV35ZA" "https://maps.app.goo.gl/AwDdjQdVGNwjhKRr6" "https://maps.app.goo.gl/uak7feCphivakSFN9" "https://maps.app.goo.gl/cZeowYe8w2HLa8gJA" "https://maps.app.goo.gl/G8tpJAvt5q6UdQnw7" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="Senegal GeoGuessr guide image showing 960px A l'entrée De Ndoussoudji">
+<img src="/rule/africa/senegal/960px-A_l'entrée_de_Ndoussoudji.jpg" width="90%" alt="Senegal GeoGuessr guide image showing 960px A l'entrée De Ndoussoudji">
 </div>
 
 {{% notice tip %}}
 In savanna zones like Senegal, {{% goto "../botswana/" "Botswana" %}}, and {{% goto "../madagascar/" "Madagascar" %}}, baobab trees can appear{{% ex "https://maps.app.goo.gl/x4JLyv1HUNxqwyKT9" "https://maps.app.goo.gl/Tc2Ej1t8ASYqMrjx5" %}}.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./960px-Senegal_011.jpg" width="80%" alt="Senegal GeoGuessr guide image showing 960px Senegal 011">
+<img src="/rule/africa/senegal/960px-Senegal_011.jpg" width="80%" alt="Senegal GeoGuessr guide image showing 960px Senegal 011">
 </div>
 
 {{% notice tip %}}
@@ -121,7 +121,7 @@ Thatched-roof houses or tin-roof houses are sometimes found in rural areas{{% ex
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./seleki_houses.jpg" width="500px" alt="Senegal GeoGuessr guide image showing Seleki Houses" />
+<img src="/rule/africa/senegal/seleki_houses.jpg" width="500px" alt="Senegal GeoGuessr guide image showing Seleki Houses" />
 </div>
 {{% /tab %}}
 {{% tab "🥜" %}}
@@ -150,7 +150,7 @@ Burn marks along the roadside are common; it seems peanuts are often roasted and
 {{% tab "Climate" %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-05-13-15-20-11.png" width="90%" alt="Senegal GeoGuessr guide image showing 2023 05 13 15 20 11">
+<img src="/rule/africa/senegal/2023-05-13-15-20-11.png" width="90%" alt="Senegal GeoGuessr guide image showing 2023 05 13 15 20 11">
 </div>
 
 {{% notice tip %}}

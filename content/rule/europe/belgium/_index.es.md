@@ -90,21 +90,21 @@ Los paneles suplementarios suelen ser azules. {{% ex "https://maps.app.goo.gl/F2
 <img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GIII_Vervormd_wegdek.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Giii Vervormd Wegdek">
 <img src="/rule/europe/belgium/sub/Belgian_traffic_sign_GII_10.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Traffic Sign Gii 10">
 <img src="/rule/europe/belgium/sub/Belgian_road_sign_B0.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Road Sign B0">
-<img src="./sub/Belgian_road_sign_A23.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Road Sign A23">
+<img src="/rule/europe/belgium/sub/Belgian_road_sign_A23.svg" width="90px" style="margin:10px" alt="Sub GeoGuessr guide image showing Belgian Road Sign A23">
 </div>
 
 {{% notice tip %}}
 Es habitual que las barreras tengan base blanca y reflector negro rectangular. {{% ex "https://maps.app.goo.gl/FCsHZMfyRzFhUXye7" "https://maps.app.goo.gl/FYHzbVNdyuYsw5nC8" "https://maps.app.goo.gl/T1KkUNzz9guoPeFZ7" %}} A veces tanto la barrera como el reflector son blancos. {{% ex "https://maps.app.goo.gl/5KvhViFUrTkFLuXG8" %}} Los ojos de gato aparecen en varios colores. {{% ex "https://maps.app.goo.gl/vDYgZyZfVDrFoHSb8" "https://maps.app.goo.gl/1XrSfq6pWoeSJmMF6" "https://maps.app.goo.gl/cFr162vB6jK6QuVh7" %}}
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./guardrail2.jpg" width="95%" alt="Belgium GeoGuessr guide image showing guardrail2" />
+<img src="/rule/europe/belgium/guardrail2.jpg" width="95%" alt="Belgium GeoGuessr guide image showing guardrail2" />
 </div>
 
 {{% notice tip %}}
 Muchos municipios colocan escudos en las señales de calle. {{% ex "https://maps.app.goo.gl/nSYZo4gG5hPujPKo9" "https://maps.app.goo.gl/exzaB9vXqjBDN4sx5" %}} El escudo te orienta sobre si estás en la zona neerlandófona, francófona o germanófona.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./street_shield.jpg" width="80%" alt="Belgium GeoGuessr guide image showing Street Shield" />
+<img src="/rule/europe/belgium/street_shield.jpg" width="80%" alt="Belgium GeoGuessr guide image showing Street Shield" />
 </div>
 
 {{% notice tip %}}

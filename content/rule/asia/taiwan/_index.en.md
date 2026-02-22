@@ -57,11 +57,11 @@ Hi-Life and Family Mart often show store names in Japanese style{{% ref "https:/
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./hilife.jpg" width="90%" alt="Taiwan GeoGuessr guide image showing Hilife">
+<img src="/rule/asia/taiwan/hilife.jpg" width="90%" alt="Taiwan GeoGuessr guide image showing Hilife">
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./ok-logo.png" width="500px" alt="Taiwan GeoGuessr guide image showing Ok Logo" >
+<img src="/rule/asia/taiwan/ok-logo.png" width="500px" alt="Taiwan GeoGuessr guide image showing Ok Logo" >
 </div>
 
 {{% notice tip %}}
@@ -69,7 +69,7 @@ Roads often use <span class="quiz">red</span> or <b>yellow</b> lines{{% ex "http
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road.jpg" width="90%" alt="Taiwan GeoGuessr guide image showing Road">
+<img src="/rule/asia/taiwan/road.jpg" width="90%" alt="Taiwan GeoGuessr guide image showing Road">
 </div>
 
 
@@ -86,7 +86,7 @@ Distinctive road signs appear.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tw_fw6_photo.jpg" alt="Taiwan GeoGuessr guide image showing Tw fw6 Photo">
+<img src="/rule/asia/taiwan/tw_fw6_photo.jpg" alt="Taiwan GeoGuessr guide image showing Tw fw6 Photo">
 </div>
 
 {{% /tab %}}
@@ -96,7 +96,7 @@ Very long, large buildings may be semiconductor factories{{% ex "https://maps.ap
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./tsmc_factory_hsinchu.jpg" alt="Taiwan GeoGuessr guide image showing Tsmc Factory Hsinchu">
+<img src="/rule/asia/taiwan/tsmc_factory_hsinchu.jpg" alt="Taiwan GeoGuessr guide image showing Tsmc Factory Hsinchu">
 </div>
 
 {{% /tab %}}

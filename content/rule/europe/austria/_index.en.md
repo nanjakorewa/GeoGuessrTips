@@ -63,7 +63,7 @@ Being part of the German-speaking world, Austria shares many traits with {{% got
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./s/Hinweiszeichen_13a_groÁEsvg" width="280px" alt="S GeoGuessr guide image showing Hinweiszeichen 13a Groáesvg">
+<img src="/rule/europe/austria/s/Hinweiszeichen_13a_groÁEsvg" width="280px" alt="S GeoGuessr guide image showing Hinweiszeichen 13a Groáesvg">
 <img src="/rule/europe/austria/s/Hinweiszeichen_14a.svg" width="200px" style="margin:90px 0 0 20px" alt="S GeoGuessr guide image showing Hinweiszeichen 14a">
 </div>
 
@@ -84,7 +84,7 @@ Unlike {{% goto "../slovenia/" "Slovenia" %}} or {{% goto "../germany/" "Germany
 
 <div class="googlemap-if" style="background-color:#eee; margin:10px 100px 0 100px;padding-top:35px;border-radius:10px;">
 <img src="/rule/europe/germany/r/route-sign.svg" width="150px" alt="R GeoGuessr guide image showing Route Sign">
-<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
+<img src="/rule/europe/austria/../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
 </div>
 </div>
 

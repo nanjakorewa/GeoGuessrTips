@@ -74,7 +74,7 @@ Bollard tepi jalan berwarna <span class="quiz">putih</span>. Di jalan besar seri
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./bollard.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
+<img src="/rule/europe/netherlands/bollard.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Bollard">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Tiang biru-putih menandai lokasi penyeberangan sepeda.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./fietsers_crossing_sign.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
+<img src="/rule/europe/netherlands/fietsers_crossing_sign.jpg" width="90%" alt="Netherlands GeoGuessr guide image showing Fietsers Crossing Sign">
 </div>
 
 {{% /tab %}}

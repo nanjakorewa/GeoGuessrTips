@@ -65,10 +65,10 @@ Per Maret 2024, tidak ada cakupan Google Street View di jalan raya, sehingga tid
 </div>
 
 <div class="googlemap-if no-margin">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign C27">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign D3">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign B13 L1">
-<img src="../../../../rule/asia/nepal/r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign A22 40">
+<img src="/rule/asia/nepal/../../../../rule/asia/nepal/r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign C27">
+<img src="/rule/asia/nepal/../../../../rule/asia/nepal/r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign D3">
+<img src="/rule/asia/nepal/../../../../rule/asia/nepal/r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign B13 L1">
+<img src="/rule/asia/nepal/../../../../rule/asia/nepal/r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign A22 40">
 </div>
 
 {{% /tab %}}

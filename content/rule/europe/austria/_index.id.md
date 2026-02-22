@@ -84,7 +84,7 @@ Di {{% goto "../slovenia/" "Slovenia" %}} dan {{% goto "../germany/" "Jerman" %}
 
 <div class="googlemap-if" style="background-color:#eee; margin:10px 100px 0 100px;padding-top:35px;border-radius:10px;">
 <img src="/rule/europe/germany/r/route-sign.svg" width="150px" alt="R GeoGuessr guide image showing Route Sign">
-<img src="../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
+<img src="/rule/europe/austria/../germany/r/Zeichen_415-10_-_Wegweiser_auf_Bundesstraßen_%28linksweisend%29,_einzeilig;_StVO_1992.svg" width="150px" style="margin:40px" alt="R GeoGuessr guide image showing Zeichen 415 10 Wegweiser Auf Bundesstraßen %28linksweisend%29, einzeilig; Stvo 1992">
 </div>
 </div>
 

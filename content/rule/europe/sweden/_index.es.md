@@ -95,7 +95,7 @@ Los cheurones suecos usan los colores de la bandera (amarillo y azul). Noruega y
 <div class="googlemap-if unclickable" style="background-color:#ccc; padding-top:25px;margin-bottom:0;border-radius:20px;">
 <img src="/rule/europe/sweden/r/Swedish_road_sign_X1.png" width="78px" style="margin: 10px" alt="R GeoGuessr guide image showing Swedish Road Sign X1">
 <img src="/rule/europe/norway/r/NO_road_sign_366.svg" width="90px" style="margin: 10px" alt="R GeoGuessr guide image showing No Road Sign 366">
-<img src="../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px" alt="R GeoGuessr guide image showing Finland Road Sign 631">
+<img src="/rule/europe/sweden/../finland/r/Finland_road_sign_631.svg" width="90px" style="margin: 10px" alt="R GeoGuessr guide image showing Finland Road Sign 631">
 </div>
 
 
@@ -119,7 +119,7 @@ Ten en cuenta que las {{% goto "../aland_islands/" "Islas Åland" %}} usan sueco
 Los nombres que terminan en <span class="quiz">gatan</span> o <span class="quiz">vägen</span> apuntan a Suecia; fuera del país son poco comunes.
 {{% /notice %}}
 <div class="googlemap-if no-margin">
-<img src="./streetname.jpg" width="90%" alt="Sweden GeoGuessr guide image showing Streetname">
+<img src="/rule/europe/sweden/streetname.jpg" width="90%" alt="Sweden GeoGuessr guide image showing Streetname">
 </div>
 
 {{% notice tip %}}

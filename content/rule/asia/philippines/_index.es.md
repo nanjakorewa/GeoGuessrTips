@@ -83,7 +83,7 @@ La mayoría de los turismos normales son de color blanco o verde claro.{{% ex "h
 </div>
 
 {{% lb 50 %}}
-![](placa-de-licencia-privada-cc0.png)
+![](/rule/asia/philippines/placa-de-licencia-privada-cc0.png)
 
 Procesar imágenes CC0
 {{% /lb %}}

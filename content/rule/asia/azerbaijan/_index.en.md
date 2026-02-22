@@ -57,7 +57,7 @@ License plates often feature a small national flag in the upper-left corner.
 
 
 {{% lb 50 %}}
-![](AzƏrbaycan_Respublikasİ_avtomobil_dövlət_qeydiyyat_nişanı_-_Ali_RƏHbƏrlik.svg)
+![](/rule/asia/azerbaijan/AzƏrbaycan_Respublikasİ_avtomobil_dövlət_qeydiyyat_nişanı_-_Ali_RƏHbƏrlik.svg)
 
 CC0
 {{% /lb %}}

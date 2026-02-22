@@ -38,7 +38,7 @@ sc: [
 Portuguese street plates often use "Rua" and blue-and-white tiles, which stand out from {{% goto "../spain/" "Spain" %}}{{% ex "https://maps.app.goo.gl/Ca77rdPFx57Q8mnQ7" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./ruaseixo.jpg" width="80%" alt="Portugal GeoGuessr guide image showing Ruaseixo">
+<img src="/rule/europe/portugal/ruaseixo.jpg" width="80%" alt="Portugal GeoGuessr guide image showing Ruaseixo">
 </div>
 
 
@@ -46,10 +46,10 @@ Portuguese street plates often use "Rua" and blue-and-white tiles, which stand o
 License plates have a <span class="quiz">yellow band on the right</span>{{% ex "https://maps.app.goo.gl/5pSZeVPDXLF97bak8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./car.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Car" />
+<img src="/rule/europe/portugal/car.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Car" />
 </div>
 {{% lb 50 %}}
-![](2023-04-12-06-00-36.png)
+![](/rule/europe/portugal/2023-04-12-06-00-36.png)
 
 <a href="//commons.wikimedia.org/wiki/User:Willtron" title="User:Willtron">by Willtron</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=4614860">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -58,7 +58,7 @@ License plates have a <span class="quiz">yellow band on the right</span>{{% ex "
 Some utility poles have partitions and holes{{% ex "https://maps.app.goo.gl/F3S8Z9NacfsTSGoUA" "https://maps.app.goo.gl/fhcRFZBCRgbxDvF39" "https://maps.app.goo.gl/1yxwjaHKHCaChWSM8" "https://goo.gl/maps/5fqryqiiLsJbQuxu7" "https://goo.gl/maps/PKqwLhHVAXwn1qrx9" %}}. Similar holes also appear in {{% goto "../belgium/" "Belgium" %}} and {{% goto "../france/" "France" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./up.png" width="90%" alt="Portugal GeoGuessr guide image showing Up">
+<img src="/rule/europe/portugal/up.png" width="90%" alt="Portugal GeoGuessr guide image showing Up">
 </div>
 
 
@@ -67,14 +67,14 @@ Only Portugal uses yellow chevrons on a black background in warmer parts of Euro
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./r/xv-portugal.png" width="140px" style="margin:10px" alt="Portugal GeoGuessr guide image showing Xv Portugal">
+<img src="/rule/europe/portugal/r/xv-portugal.png" width="140px" style="margin:10px" alt="Portugal GeoGuessr guide image showing Xv Portugal">
 </div>
 
 {{% notice tip %}}
 Old cobblestone streets and sidewalks appear in many towns{{% ex "https://goo.gl/maps/LD7yi2GXFjGRShUn6" "https://goo.gl/maps/uDqRaDfKWrvNeJZW6" "https://goo.gl/maps/ncWNxF3cF7evXUNW8" %}}.
 {{% /notice %}}
 <div class="googlemap-if unclickable">
-<img src="./street.png" width="90%" alt="Portugal GeoGuessr guide image showing Street">
+<img src="/rule/europe/portugal/street.png" width="90%" alt="Portugal GeoGuessr guide image showing Street">
 </div>
 
 {{% notice tip %}}
@@ -82,7 +82,7 @@ Road signs often show route prefixes like <span class="quiz">A</span> or <span c
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./roadsign.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Roadsign">
+<img src="/rule/europe/portugal/roadsign.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Roadsign">
 </div>
 
 
@@ -99,16 +99,16 @@ In {{% goto "../spain/" "Spain" %}}, similar signs often say "DE CAZA"{{% ex "ht
 <table style="width:480px">
 <tr>
 <td style="width:120px">
-<img src="./nh1.png" width="30px" alt="Portugal GeoGuessr guide image showing nh1">
+<img src="/rule/europe/portugal/nh1.png" width="30px" alt="Portugal GeoGuessr guide image showing nh1">
 </td>
 <td style="width:120px">
-<img src="./nh2.png" width="30px" alt="Portugal GeoGuessr guide image showing nh2">
+<img src="/rule/europe/portugal/nh2.png" width="30px" alt="Portugal GeoGuessr guide image showing nh2">
 </td>
 <td style="width:120px">
-<img src="./nh3.png" width="30px" alt="Portugal GeoGuessr guide image showing nh3">
+<img src="/rule/europe/portugal/nh3.png" width="30px" alt="Portugal GeoGuessr guide image showing nh3">
 </td>
 <td style="width:120px">
-<img src="./nh4.png" width="30px" alt="Portugal GeoGuessr guide image showing nh4">
+<img src="/rule/europe/portugal/nh4.png" width="30px" alt="Portugal GeoGuessr guide image showing nh4">
 </td>
 </tr>
 <tr>
@@ -133,7 +133,7 @@ In {{% goto "../spain/" "Spain" %}}, similar signs often say "DE CAZA"{{% ex "ht
 </div>
 
 <div class="googlemap-if unclickable no-margin">
-<img src="nohunting.png" width="60%" alt="Portugal GeoGuessr guide image showing Nohunting">
+<img src="/rule/europe/portugal/nohunting.png" width="60%" alt="Portugal GeoGuessr guide image showing Nohunting">
 </div>
 
 
@@ -143,7 +143,7 @@ Portugal produces roughly half of the world's cork oak{{% ex "https://maps.app.g
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="./cork_oak_cork_bark.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Cork Oak Cork Bark">
+<img src="/rule/europe/portugal/cork_oak_cork_bark.jpg" width="90%" alt="Portugal GeoGuessr guide image showing Cork Oak Cork Bark">
 </div>
 
 
@@ -185,7 +185,7 @@ Northern Portugal has rugged hills and cooler climates{{% ex "https://maps.app.g
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="antigo_troco_do_ip5.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Antigo Troco Do ip5">
+<img src="/rule/europe/portugal/antigo_troco_do_ip5.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Antigo Troco Do ip5">
 </div>
 
 {{% notice tip %}}
@@ -193,7 +193,7 @@ Pinus pinaster forests are common in the north{{% ex "https://maps.app.goo.gl/9e
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="pins_de_la_paloumere.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Pins De La Paloumere">
+<img src="/rule/europe/portugal/pins_de_la_paloumere.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Pins De La Paloumere">
 </div>
 
 
@@ -205,7 +205,7 @@ Southern Portugal, especially Alentejo, is flatter and drier{{% ex "https://maps
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="en122_alentejo.jpg" width="95%" alt="Portugal GeoGuessr guide image showing en122 Alentejo">
+<img src="/rule/europe/portugal/en122_alentejo.jpg" width="95%" alt="Portugal GeoGuessr guide image showing en122 Alentejo">
 </div>
 
 {{% /tab %}}
@@ -216,7 +216,7 @@ Madeira and Azores use the same poles and plates as mainland Portugal.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="madeira_banana_shrub_road.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Madeira Banana Shrub Road">
+<img src="/rule/europe/portugal/madeira_banana_shrub_road.jpg" width="95%" alt="Portugal GeoGuessr guide image showing Madeira Banana Shrub Road">
 </div>
 
 {{% /tab %}}
@@ -251,7 +251,7 @@ High-elevation roads and rocky slopes mark Serra da Estrela{{% ex "https://maps.
 
 
 <div class="googlemap-if no-margin">
-<img src="./city/cantaromagro.jpg" alt="City GeoGuessr guide image showing Cantaromagro">
+<img src="/rule/europe/portugal/city/cantaromagro.jpg" alt="City GeoGuessr guide image showing Cantaromagro">
 </div>
 
 {{% /tab %}}
@@ -263,8 +263,8 @@ Berlengas is about 30 km offshore and feels isolated.
 
 
 <div class="googlemap-if no-margin">
-<img src="./city/berlenga_fort.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Fort">
-<img src="./city/berlenga_island_bay.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Island Bay">
+<img src="/rule/europe/portugal/city/berlenga_fort.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Fort">
+<img src="/rule/europe/portugal/city/berlenga_island_bay.jpg" width="310px" alt="City GeoGuessr guide image showing Berlenga Island Bay">
 </div>
 
 {{% /tab %}}
@@ -275,7 +275,7 @@ Lisbon's historic yellow trams (Carris) are distinctive.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./city/lisbon_old_town_tram_0.jpg" width="95%" alt="City GeoGuessr guide image showing Lisbon Old Town Tram 0">
+<img src="/rule/europe/portugal/city/lisbon_old_town_tram_0.jpg" width="95%" alt="City GeoGuessr guide image showing Lisbon Old Town Tram 0">
 </div>
 
 {{% /tab %}}

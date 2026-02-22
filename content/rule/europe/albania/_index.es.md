@@ -86,7 +86,7 @@ Albania fue protectorado de {{% goto "../italy/" "Italia" %}} {{% ref "https://j
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Road Sign %CF%8075b">
+<img src="/rule/europe/albania/r/Road-sign-%CF%8075b.svg" width="120px" style="margin:10px" alt="R GeoGuessr guide image showing Road Sign %CF%8075b">
 <img src="/rule/europe/albania/sign-bg.png" width="120px" style="margin:10px" alt="Albania GeoGuessr guide image showing Sign Bg">
 </div>
 

@@ -86,7 +86,7 @@ Los números en <span class="quiz">rojo</span> con texto <span class="quiz">blan
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="2023-06-11-00-04-53.png" width="80%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 04 53"/>
+<img src="/rule/europe/czechia/2023-06-11-00-04-53.png" width="80%" alt="Czechia GeoGuessr guide image showing 2023 06 11 00 04 53"/>
 </div>
 
 {{% /tab %}}

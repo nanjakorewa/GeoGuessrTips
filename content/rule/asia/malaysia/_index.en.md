@@ -47,13 +47,13 @@ Yellow hexagonal route numbers{{% ex "https://maps.app.goo.gl/ZA6iiKkwtvp2v5hU6"
 
 
 <div class="googlemap-if unclickable no-margin">
-<img src="road.jpg" width="80%" alt="Malaysia GeoGuessr guide image showing Road" />
+<img src="/rule/asia/malaysia/road.jpg" width="80%" alt="Malaysia GeoGuessr guide image showing Road" />
 </div>
 
 <div class="googlemap-if unclickable">
-<img src="./r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
-<img src="Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysia GeoGuessr guide image showing Malaysian Public Works Department" />
-<img src="./r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
+<img src="/rule/asia/malaysia/r/Jkr-ft1.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr ft1" />
+<img src="/rule/asia/malaysia/Malaysian_Public_Works_Department.png" width="102px" style="margin:10px" alt="Malaysia GeoGuessr guide image showing Malaysian Public Works Department" />
+<img src="/rule/asia/malaysia/r/Jkr-k602.svg" width="100px" style="margin:10px" alt="R GeoGuessr guide image showing Jkr k602" />
 </div>
 
 
@@ -64,14 +64,14 @@ Yellow hexagonal route numbers{{% ex "https://maps.app.goo.gl/ZA6iiKkwtvp2v5hU6"
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./langkawi_road.jpg" alt="Malaysia GeoGuessr guide image showing Langkawi Road" />
+<img src="/rule/asia/malaysia/langkawi_road.jpg" alt="Malaysia GeoGuessr guide image showing Langkawi Road" />
 </div>
 
 {{% notice tip %}}
 Stop signs say <span class="quiz">berhenti</span>{{% ex "https://goo.gl/maps/4REZ41crzJ78Gvku7" "https://maps.app.goo.gl/fWQbsbNztk11KAWM6" %}}.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing 960px Kampung Kenangan Dato' Onn 2 1"/>
+<img src="/rule/asia/malaysia/960px-Kampung_Kenangan_Dato'_Onn_2_1.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing 960px Kampung Kenangan Dato' Onn 2 1"/>
 </div>
 
 {{% notice tip %}}
@@ -87,7 +87,7 @@ Depending on the mosaic, the license plate may look split into two{{% ex "https:
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="2023-05-04-12-38-44.png" width="50%" alt="Malaysia GeoGuessr guide image showing 2023 05 04 12 38 44" />
+<img src="/rule/asia/malaysia/2023-05-04-12-38-44.png" width="50%" alt="Malaysia GeoGuessr guide image showing 2023 05 04 12 38 44" />
 
 By Slleong - Own work, <a href="https://creativecommons.org/licenses/by-sa/3.0/deed.ja">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=9529171">Wikimedia Commons(Link)</a>
 {{% /lb %}}
@@ -97,7 +97,7 @@ Asphalt roads are common and concrete roads are rare. Concrete roads usually app
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./road-surface.png" width="90%" alt="Malaysia GeoGuessr guide image showing Road Surface">
+<img src="/rule/asia/malaysia/road-surface.png" width="90%" alt="Malaysia GeoGuessr guide image showing Road Surface">
 </div>
 
 
@@ -115,7 +115,7 @@ Petronas Gas (PGB), run by the national oil and gas company Petronas, appears on
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="Malaysia GeoGuessr guide image showing 640px Tasik Y Recreational Park 5">
+<img src="/rule/asia/malaysia/640px-Tasik_Y_Recreational_Park_5.jpg" width="600" alt="Malaysia GeoGuessr guide image showing 640px Tasik Y Recreational Park 5">
 </div>
 
 
@@ -165,12 +165,12 @@ Common in the northern peninsula (Terengganu, Kelantan, Kedah, Perlis) and the s
 {{% /notice %}}
 
 <div class="googlemap-if">
-<img src="./signboard_with_islamic_calligraphy.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing Signboard With Islamic Calligraphy">
+<img src="/rule/asia/malaysia/signboard_with_islamic_calligraphy.jpg" width="95%" alt="Malaysia GeoGuessr guide image showing Signboard With Islamic Calligraphy">
 </div>
 {{% /tab %}}
 {{% tab "Oil palm" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-32.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 32" />
+<img src="/rule/asia/malaysia/2023-05-11-14-03-32.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 32" />
 </div>
 
 {{% notice tip %}}
@@ -185,7 +185,7 @@ Large palm plantations often surround red <span style="color: red;">●</span> p
 {{% /tab %}}
 {{% tab "Rice" %}}
 <div class="googlemap-if unclickable">
-<img src="2023-05-11-14-03-53.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 53" />
+<img src="/rule/asia/malaysia/2023-05-11-14-03-53.png" width="90%" alt="Malaysia GeoGuessr guide image showing 2023 05 11 14 03 53" />
 </div>
 
 {{% notice tip %}}
@@ -214,7 +214,7 @@ Located at Malaysia’s easternmost area{{% ex "https://goo.gl/maps/RB8M8NmTHae4
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="./mabul_island_semporna_sabah.jpg" wdith="90%" alt="Malaysia GeoGuessr guide image showing Mabul Island Semporna Sabah" />
+<img src="/rule/asia/malaysia/mabul_island_semporna_sabah.jpg" wdith="90%" alt="Malaysia GeoGuessr guide image showing Mabul Island Semporna Sabah" />
 </div>
 {{% /tab %}}
 {{% tab "Tioman Island" %}}

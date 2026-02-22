@@ -69,7 +69,7 @@ Until 2016, Croatian plates were white without the EU blue strip, so you still s
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="./plates.jpg" alt="Croatia GeoGuessr guide image showing Plates" width="80%">
+<img src="/rule/europe/croatia/plates.jpg" alt="Croatia GeoGuessr guide image showing Plates" width="80%">
 </div>
 
 {{% notice tip %}}
@@ -84,7 +84,7 @@ Guardrails with red-and-white stripes and a prominent profile are shared with Se
 Checkerboard motifs inspired by the national flag appear on municipal logos and road furniture.
 {{% /notice %}}
 <div class="googlemap-if">
-<img src="./checker_pattern.jpg" alt="Croatia GeoGuessr guide image showing Checker Pattern" width="80%">
+<img src="/rule/europe/croatia/checker_pattern.jpg" alt="Croatia GeoGuessr guide image showing Checker Pattern" width="80%">
 </div>
 
 {{% /tab %}}

@@ -64,7 +64,7 @@ The license plate is <span class="quiz">Both front and back are yellow</span>{{%
 </div>
 
 {{% lb 50 %}}
-![Colombia license plate](./license plate.png)
+![Colombia license plate](/rule/cs_america/colombia/license plate.png)
 
 self-made
 {{% /lb %}}

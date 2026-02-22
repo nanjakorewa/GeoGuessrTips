@@ -57,7 +57,7 @@ Las matrículas suelen incluir una pequeña bandera nacional en la esquina super
 
 
 {{% lb 50 %}}
-![](AzƏrbaycan_Respublikasİ_avtomobil_dövlət_qeydiyyat_nişanı_-_Ali_RƏHbƏrlik.svg)
+![](/rule/asia/azerbaijan/AzƏrbaycan_Respublikasİ_avtomobil_dövlət_qeydiyyat_nişanı_-_Ali_RƏHbƏrlik.svg)
 
 CC0
 {{% /lb %}}
