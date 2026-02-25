@@ -1,0 +1,98 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+
+interface Props {
+  lang: Language;
+  title: string;
+  permalink: string;
+  flag?: string;
+}
+
+const { lang, title, permalink, flag } = Astro.props;
+
+const socialLinks = [
+  { icon: "ti-game", link: "https://www.twitch.tv/nanjakorewa" },
+  { icon: "ti-youtube", link: "https://www.youtube.com/@nanjakorewa" },
+  { icon: "ti-twitter-alt", link: "https://x.com/nanjakorewa" },
+  { icon: "ti-github", link: "https://github.com/nanjakorewa/GeoGuessrTips" },
+  { icon: "ti-location-pin", link: "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82" },
+];
+
+const aboutUrl = lang === "ja" ? "/about/" : `/${lang}/about/`;
+---
+
+<footer class="section pb-4">
+  <div class="container apply-bg">
+    <div class="row align-items-center">
+      <div class="col-md-12 text-md-center text-center">
+        <ul class="list-inline">
+          {socialLinks.map((s) => (
+            <li class="list-inline-item">
+              <a class="text-color d-inline-block p-2" href={s.link}>
+                <i class={s.icon}></i>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+    <div class="text-center">
+      <p class="footer-meta__text mb-0">
+        <span class="footer-meta__brand">&copy; 2021-2025 nanja.</span>
+        <a class="footer-meta__link" href={aboutUrl}>{t("footer_privacy_link", lang)}</a>
+      </p>
+      <div class="sister-sites">
+        <a href="https://k-dm.work/" target="_blank" rel="noopener">K_DM</a>
+        <span class="dot">&middot;</span>
+        <a href="https://nanja-webtools.pages.dev/" target="_blank" rel="noopener">Webtools</a>
+        <span class="dot">&middot;</span>
+        <a href="https://geopinning.space/" target="_blank" rel="noopener">Geogesser's Notes</a>
+        <span class="dot">&middot;</span>
+        <a href="https://nanja-recipe.pages.dev/" target="_blank" rel="noopener">Nanja Recipe</a>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script is:inline src="/scripts/script.js"></script>
+
+<script is:inline>
+const toggleLink = document.getElementById("toggle-link");
+if (toggleLink) {
+  toggleLink.addEventListener("click", function (event) {
+    event.preventDefault();
+    document.querySelectorAll("li.unofficial-area").forEach(function(li) {
+      li.classList.toggle("dontshowarea");
+    });
+  });
+}
+</script>
+
+{flag && (
+  <script is:inline defer>
+    d3.csv('https://docs.google.com/spreadsheets/d/1wRzEFe1kQKQl8flRhe0V5gJTRD-XVO_Ux-Nd8rtGAmU/export?format=csv&range=A3:D', function(error, data){
+      if (!data || !data[0]) return;
+      let media = data[0].StreamSetting;
+      if (media==="youtube"){
+        var areaTitle = document.getElementById("streaming-status-area");
+        if(areaTitle) areaTitle.className = areaTitle.className.replace("streaming-status-area-title", "");
+        var ytTitle = document.getElementById("youtube-button-streaming");
+        if(ytTitle) ytTitle.className = ytTitle.className.replace("streaming-status-area", "");
+        var stTitle = document.getElementById("streaming-title");
+        if(stTitle) stTitle.innerHTML = data[0].StreamingTitle;
+      }
+      else if (media==="twitch"){
+        var areaTitle = document.getElementById("streaming-status-area");
+        if(areaTitle) areaTitle.className = areaTitle.className.replace("streaming-status-area-title", "");
+        var twTitle = document.getElementById("twitch-button-streaming");
+        if(twTitle) twTitle.className = twTitle.className.replace("streaming-status-area-img", "");
+        var stTitle = document.getElementById("streaming-title");
+        if(stTitle) stTitle.innerHTML = data[0].StreamingTitle;
+      }
+    });
+  </script>
+)}
+
+<script is:inline async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<script is:inline async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>

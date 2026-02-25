@@ -1,0 +1,92 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { getLanguageName, LANGUAGES } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+
+interface Props {
+  lang: Language;
+  isHome?: boolean;
+  translations?: { lang: Language; url: string }[];
+}
+
+const { lang, isHome = false, translations = [] } = Astro.props;
+
+interface MenuItem {
+  name: string;
+  url: string;
+}
+
+const menuItems: Record<Language, MenuItem[]> = {
+  ja: [
+    { name: "SNSリンク", url: "https://nanjakorewa.github.io/MyPortfolio/" },
+    { name: "トップに戻る", url: "/" },
+  ],
+  en: [{ name: "Toppage", url: "/en/" }],
+  id: [{ name: "Toppage", url: "/id/" }],
+  es: [{ name: "Toppage", url: "/es/" }],
+  pt: [{ name: "Página inicial", url: "/pt/" }],
+};
+
+const items = menuItems[lang] || menuItems.ja;
+---
+
+<nav class={`navbar navbar-expand-md navbar-light site-navbar ${isHome ? "home-navbar" : ""}`}>
+  <div class="container">
+    <a class="navbar-brand px-2" href={lang === "ja" ? "/" : `/${lang}/`}>
+      {isHome ? "GeoGuessrの攻略めも" : "GeoGuessrの攻略めも"}
+    </a>
+    <button
+      class="navbar-toggler border-0"
+      type="button"
+      data-toggle="collapse"
+      data-target="#navigation"
+      aria-controls="navigation"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse text-center" id="navigation">
+      <ul class="navbar-nav ml-auto">
+        <li class="nav-item">
+          <a class="nav-link text-dark" href="#" data-search-trigger>
+            <i class="fas fa-search"></i>
+            <span class="d-none d-md-inline ml-1">{t("search_input_placeholder", lang)}</span>
+            <kbd class="d-none d-md-inline ml-1" style="font-size:0.7em;padding:2px 6px;border:1px solid #ccc;border-radius:3px;background:#f5f5f5;">Ctrl+K</kbd>
+          </a>
+        </li>
+        {items.map((item) => (
+          <li class="nav-item">
+            <a class="nav-link text-dark" href={item.url}>{item.name}</a>
+          </li>
+        ))}
+      </ul>
+
+      {translations.length > 0 && (
+        <select
+          class={`lang-list ${!isHome ? "dark" : ""}`}
+          id="select-language"
+        >
+          {translations.map(({ lang: tLang, url }) => (
+            <option
+              value={url}
+              selected={tLang === lang}
+            >
+              {getLanguageName(tLang)}
+            </option>
+          ))}
+        </select>
+      )}
+    </div>
+  </div>
+</nav>
+
+<script is:inline>
+  const selectLang = document.getElementById("select-language");
+  if (selectLang) {
+    selectLang.addEventListener("change", function () {
+      window.location.href = this.value;
+    });
+  }
+</script>

@@ -1,0 +1,42 @@
+---
+import DefaultLayout from "@layouts/DefaultLayout.astro";
+import { getCollection, render } from "astro:content";
+import { extractLangFromId, extractSlugFromId, buildUrl, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import type { Language } from "@lib/i18n-utils";
+
+export async function getStaticPaths() {
+  const allCollections = ["rule", "quiz", "about", "web"] as const;
+  const otherLangs = LANGUAGES.filter((l) => l !== DEFAULT_LANG);
+  const paths = [];
+
+  for (const collectionName of allCollections) {
+    for (const lang of otherLangs) {
+      const entries = await getCollection(collectionName, (entry) => {
+        return extractLangFromId(entry.id) === lang && !entry.data.draft;
+      });
+
+      for (const entry of entries) {
+        const slug = extractSlugFromId(entry.id);
+        const fullSlug = slug ? `${collectionName}/${slug}` : collectionName;
+
+        paths.push({
+          params: { lang, slug: fullSlug },
+          props: { entry, lang: lang as Language, collection: collectionName },
+        });
+      }
+    }
+  }
+
+  return paths;
+}
+
+const { entry, lang, collection } = Astro.props;
+const rendered = await render(entry);
+const Content = rendered.Content;
+const bodyText = (entry.body ?? "").trim();
+const hasContent = bodyText.length > 0;
+---
+
+<DefaultLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
+  <Content />
+</DefaultLayout>

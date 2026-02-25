@@ -1,0 +1,587 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import { buildContentTree, getSiblingCountries } from "@lib/content-tree";
+import { getCollection } from "astro:content";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Sidebar from "@components/navigation/Sidebar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+interface Props {
+  entry: any;
+  lang: Language;
+  collection: string;
+  hasContent?: boolean;
+}
+
+const { entry, lang, collection, hasContent = true } = Astro.props;
+const data = entry.data;
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+const isHome = false;
+
+// --- SEO title computation ---
+let seoTitle = "";
+if (data.seo_title) {
+  seoTitle = data.seo_title;
+} else if (data.flag) {
+  const flagTitleTemplates: Record<Language, string> = {
+    ja: "GeoGuessrで%sを見分けるには？",
+    en: "How to identify %s in GeoGuessr?",
+    id: "Cara membedakan %s di GeoGuessr",
+    es: "¿Cómo identificar %s en GeoGuessr?",
+    pt: "Como identificar %s no GeoGuessr?",
+  };
+  seoTitle = (flagTitleTemplates[lang] || flagTitleTemplates.ja).replace("%s", data.title);
+} else if (data.subtitle) {
+  seoTitle = data.subtitle;
+} else {
+  seoTitle = data.title ? `${data.title} | ${siteTitle}` : siteTitle;
+}
+
+// --- SEO description ---
+let seoDescription = "";
+if (data.seo_description) {
+  seoDescription = data.seo_description;
+} else if (data.description) {
+  seoDescription = data.description;
+} else if (data.flag) {
+  const flagDescTemplates: Record<Language, string> = {
+    ja: "%sをGeoGuessrで見分けるためのヒントや特徴をまとめたメモです。ストリートビューで気付いたポイントを記録しています。",
+    en: "Notes that summarise tips and distinctive features to help identify %s while playing GeoGuessr.",
+    id: "Catatan yang merangkum kiat dan ciri khas untuk membantu membedakan %s saat bermain GeoGuessr.",
+    es: "Notas que reúnen consejos y rasgos distintivos para identificar %s mientras juegas GeoGuessr.",
+    pt: "Notas que reúnem dicas e características distintivas para identificar %s ao jogar GeoGuessr.",
+  };
+  seoDescription = (flagDescTemplates[lang] || flagDescTemplates.ja).replace("%s", data.title);
+} else {
+  const defaultDescs: Record<Language, string> = {
+    ja: "GeoGuessr（ジオゲッサー）のプレイで気付いた特徴や攻略ヒントを国・地域ごとにまとめた個人メモです。",
+    en: "Personal notes that collect strategies, observations, and distinctive clues for GeoGuessr.",
+    id: "Catatan pribadi berisi strategi, pengamatan, dan petunjuk khas GeoGuessr.",
+    es: "Notas personales con estrategias, observaciones y pistas distintivas de GeoGuessr.",
+    pt: "Notas pessoais que reúnem estratégias, observações e pistas distintivas de GeoGuessr.",
+  };
+  seoDescription = defaultDescs[lang] || defaultDescs.ja;
+}
+// Truncate to 180 chars
+seoDescription = seoDescription.replace(/\s+/g, " ").trim().slice(0, 180);
+
+// --- OG Image ---
+let ogImage = "";
+if (data.sumnail_mk) {
+  ogImage = `${site}/sns/OP-MKnora.jpg`;
+} else if (data.og_image) {
+  ogImage = data.og_image.startsWith("http") ? data.og_image : `${site}/${data.og_image.replace(/^\//, "")}`;
+} else if (data.social_image) {
+  ogImage = data.social_image.startsWith("http") ? data.social_image : `${site}/${data.social_image.replace(/^\//, "")}`;
+} else if (data.card_image) {
+  if (data.card_image.startsWith("http")) {
+    ogImage = data.card_image;
+  } else {
+    const normalized = data.card_image.replace(/^\//, "");
+    const path = normalized.startsWith("bg/") ? normalized : `bg/${normalized}`;
+    ogImage = `${site}/${path}`;
+  }
+} else if (data.flag) {
+  ogImage = `${site}/flags/${data.flag.replace(".svg", ".png")}`;
+} else {
+  ogImage = `${site}/images/icon-512x512.png`;
+}
+
+// --- Canonical URL ---
+const currentSlug = extractSlugFromId(entry.id);
+const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
+
+// --- OG Type ---
+const ogType = "article";
+
+// --- Translation URLs ---
+const allEntries = await getCollection(collection);
+const translationUrls: { lang: Language; url: string }[] = [];
+for (const tLang of LANGUAGES) {
+  const translationId = entry.id.replace(/\.(ja|en|id|es|pt)$/, `.${tLang}`);
+  const found = allEntries.find((e: any) => e.id === translationId);
+  if (found) {
+    translationUrls.push({
+      lang: tLang,
+      url: `${site}${buildUrl(collection, currentSlug, tLang)}`,
+    });
+  }
+}
+
+// --- Sidebar tree ---
+const sectionEntries = await getCollection(collection as any);
+const tree = buildContentTree(
+  sectionEntries.map((e: any) => ({ id: e.id, data: e.data })),
+  collection,
+  lang
+);
+
+// Find current section's subtree for sidebar
+const currentUrl = buildUrl(collection, currentSlug, lang);
+
+// --- Child tree for section pages (when no content) ---
+import type { TreeNode } from "@lib/content-tree";
+
+const isRuleSection = collection === "rule";
+let sectionChildTree: TreeNode[] = [];
+
+if (!hasContent) {
+  // Find the current node in the tree and get its children
+  function findNodeByUrl(nodes: TreeNode[], url: string): TreeNode | null {
+    for (const n of nodes) {
+      if (n.url === url) return n;
+      const found = findNodeByUrl(n.children, url);
+      if (found) return found;
+    }
+    return null;
+  }
+  const currentNode = findNodeByUrl(tree, currentUrl);
+  if (currentNode && currentNode.children.length > 0) {
+    sectionChildTree = currentNode.children;
+  } else if (currentSlug === "") {
+    // Root of collection: the tree's root nodes are siblings of the root _index entry,
+    // not its children. Use all root nodes except the current one as children to display.
+    sectionChildTree = tree.filter(n => n.url !== currentUrl);
+  } else {
+    sectionChildTree = tree;
+  }
+}
+
+// Recursive HTML builder for section pages (flag grid or page list)
+function renderSectionTree(nodes: TreeNode[], useFlags: boolean): string {
+  let html = "";
+  for (const node of nodes) {
+    const unofficialClass = node.isUnofficial ? " unofficial-area dontshowarea" : "";
+    if (useFlags) {
+      html += `<li class="${unofficialClass}">`;
+      html += `<a href="${node.url}" class="flag-link">`;
+      if (node.flag) {
+        html += `<img src="/flags/${node.flag}" alt="${node.title}" class="flag-img-link" loading="lazy" decoding="async"/>`;
+      }
+      html += `<br/>${node.title}<br/>`;
+      if (node.hasGooglecar) html += '<i class="fas fa-car-alt i-googlecar"></i>';
+      if (node.hasTrekker) html += '<i class="fas fa-hiking i-googlecar"></i>';
+      if (node.hasBollard) html += '<i class="fas fa-magic i-bollard"></i>';
+      if (node.isUnofficial) html += '<i class="fa fa-question-circle"></i>';
+      html += "</a>";
+      if (node.children.length > 0) {
+        html += '<ul class="flag-list">' + renderSectionTree(node.children, true) + "</ul>";
+      }
+      html += "</li>";
+    } else {
+      html += `<li class="sidelist no-dot${unofficialClass}">`;
+      html += `<a href="${node.url}">${node.title}`;
+      if (node.hasGooglecar) html += '<i class="fas fa-car-alt i-googlecar"></i>';
+      if (node.hasTrekker) html += '<i class="fas fa-hiking i-googlecar"></i>';
+      if (node.hasBollard) html += '<i class="fas fa-magic i-bollard"></i>';
+      if (node.isUnofficial) html += '<i class="fa fa-question-circle"></i>';
+      html += "</a>";
+      if (node.children.length > 0) {
+        html += "<ul>" + renderSectionTree(node.children, false) + "</ul>";
+      }
+      html += "</li>";
+    }
+  }
+  return html;
+}
+
+const sectionTreeHtml = !hasContent
+  ? renderSectionTree(sectionChildTree, isRuleSection)
+  : "";
+
+// --- Sibling countries ---
+const siblings = data.flag
+  ? getSiblingCountries(
+      sectionEntries.map((e: any) => ({ id: e.id, data: e.data })),
+      entry.id,
+      collection,
+      lang
+    )
+  : [];
+
+// --- Parent title for "Countries in ..." ---
+const slugParts = currentSlug.split("/");
+let parentTitle = "";
+if (slugParts.length >= 2) {
+  const parentSlug = slugParts.slice(0, -1).join("/");
+  const parentEntry = sectionEntries.find((e: any) => {
+    const eSlug = extractSlugFromId(e.id);
+    return eSlug === parentSlug && extractLangFromId(e.id) === lang;
+  });
+  if (parentEntry) {
+    parentTitle = (parentEntry as any).data.title;
+  }
+}
+
+// --- Breadcrumbs ---
+interface Crumb { name: string; url: string }
+const crumbs: Crumb[] = [];
+crumbs.push({ name: t("toppage", lang), url: lang === DEFAULT_LANG ? "/" : `/${lang}/` });
+let crumbPath = lang === DEFAULT_LANG ? "" : `/${lang}`;
+const pathSegments = currentSlug ? currentSlug.split("/") : [];
+// Add collection
+crumbs.push({ name: collection, url: `${crumbPath}/${collection}/` });
+// Add intermediate segments
+for (let i = 0; i < pathSegments.length; i++) {
+  const segSlug = pathSegments.slice(0, i + 1).join("/");
+  const segEntry = sectionEntries.find((e: any) => {
+    const eSlug = extractSlugFromId(e.id);
+    return eSlug === segSlug && extractLangFromId(e.id) === lang;
+  });
+  const segName = segEntry ? (segEntry as any).data.title : pathSegments[i];
+  crumbs.push({ name: segName, url: buildUrl(collection, segSlug, lang) });
+}
+
+// --- Dates ---
+const publishedTime = data.date ? new Date(data.date) : undefined;
+const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
+
+// --- Conditional features ---
+const needsJQuery36 = !!data.import_jquery_36;
+const needsJSMaps = !!data.mapName || !!data.map_index;
+
+// --- Flag path ---
+const flagPath = data.flag ? `/flags/${data.flag}` : "";
+
+// --- Share URL ---
+const shareText = encodeURIComponent(`${data.title} | ${siteTitle}`);
+const shareURL = `https://twitter.com/intent/tweet?url=${encodeURIComponent(canonical)}&text=${shareText}`;
+const chatGptPrompt = encodeURIComponent(
+  `${canonical}のURLに載っている情報のほかに、${data.title}をGeoGuessrで当てるうえでヒントになる情報があれば教えてください。`
+);
+
+// --- Last modified display ---
+const lastmodDisplay = modifiedTime
+  ? modifiedTime.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" })
+  : "";
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={seoTitle}
+    description={seoDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={ogImage}
+    ogType={ogType}
+    noindex={!!data.noindex}
+    publishedTime={publishedTime}
+    modifiedTime={modifiedTime}
+    flag={data.flag}
+    translations={translationUrls}
+    pageData={data}
+    usePolishFont={!!data.use_polish_font}
+    needsJQuery36={needsJQuery36}
+    needsJSMaps={needsJSMaps}
+  />
+</head>
+<body>
+  {/* Header */}
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} translations={translationUrls} />
+  </header>
+
+  {/* Main content */}
+  <section class="single section-sm pb-0">
+    <div class="container">
+      <div class="row">
+        {/* Sidebar */}
+        <div class="col-lg-3">
+          <Sidebar lang={lang} tree={tree} currentUrl={currentUrl} bgf={!!data.bgf} />
+        </div>
+
+        {/* Content */}
+        <div class="col-lg-9">
+          <ol class="breadcrumb article-breadcrumb">
+            {crumbs.map((crumb, i) =>
+              i === crumbs.length - 1
+                ? <li>{crumb.name}</li>
+                : <li><a href={crumb.url}>{crumb.name}</a></li>
+            )}
+          </ol>
+
+          <div class="article-surface">
+            <h1 class="mb-5">
+              {data.title_prefix && <span class="small-title">{data.title_prefix}</span>}
+              {data.title}
+              {data.title_suffix && <span class="small-title">{data.title_suffix}</span>}
+              <span style="font-size:0.5em">
+                {data.is_has_distinctive_googlecar && <i class="fas fa-car-alt i-googlecar"></i>}
+                {data.is_has_many_trekker && <i class="fas fa-hiking i-googlecar"></i>}
+                {data.is_has_distinctive_bollard && <i class="fas fa-magic i-bollard"></i>}
+                {data.is_unofficial && <i class="fa fa-question-circle"></i>}
+              </span>
+            </h1>
+
+            {/* Flag display */}
+            {data.flag && (
+              <div
+                class={`content unclickable ${!data.flag_height ? "top-flagarea" : ""}`}
+                style={data.flag_height ? `height:${data.flag_height};` : undefined}
+              >
+                <img
+                  src={flagPath}
+                  alt={lang === "ja" ? `${data.title}の国旗` : `national flag of ${data.title}`}
+                  width="680"
+                  height="500"
+                  loading="eager"
+                  decoding="async"
+                />
+              </div>
+            )}
+
+            {/* SC area (shortcut links) */}
+            {data.sc && (
+              <div class="sc_area">
+                <ul>
+                  <li class="sc-title">
+                    <button class="button-sc bg-white-button" role="button">
+                      <i class="far fa-question-circle link-title-button"></i>{data.sc_title}
+                    </button>
+                  </li>
+                  {data.sc.map((item: [string, string]) => (
+                    <li>
+                      <a href={item[0]}>
+                        <button class="button-sc bg-black-button" role="button">{item[1]}</button>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {/* Map links */}
+            {data.maps && (
+              <div class="sc_area">
+                <ul>
+                  <li class="sc-title">
+                    <button class="button-sc bg-white-button" role="button">
+                      <i class="fas fa-map-marked-alt link-title-button"></i>{data.map_title}
+                    </button>
+                  </li>
+                  {data.maps.map((item: [string, string]) => (
+                    <li>
+                      <a href={item[0]}>
+                        <button class="button-sc bg-black-button" role="button">{item[1]}</button>
+                      </a>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            )}
+
+            {/* JSMaps: mapName (individual country pages) */}
+            {data.mapName && (
+              <div class="map-container">
+                <div class="container">
+                  <div class="jsmaps-wrapper" id="world-map"></div>
+                </div>
+              </div>
+            )}
+
+            {/* JSMaps: map_index (section index pages) */}
+            {data.map_index && (
+              <div class={`areamap-container ${data.additional_map_class || ""}`}>
+                <div class="container">
+                  <div class="jsmaps-wrapper" id="world-map"></div>
+                </div>
+              </div>
+            )}
+
+            {/* JSMaps init + library scripts */}
+            {data.mapName && (
+              <Fragment>
+                <script is:inline define:vars={{ mapName: data.mapName }}>
+                  $(function() {
+                    $('#world-map').JSMaps({
+                      map: mapName,
+                      stateClickAction: 'text',
+                      textPosition: 'right',
+                      displayAbbreviations: true,
+                      disableTooltip: true,
+                      selectElement: false,
+                      pinSize: 0,
+                    });
+                  });
+                </script>
+                <script is:inline src="/mp/jsmaps/jsmaps-libs.js"></script>
+                <script is:inline src="/mp/jsmaps/jsmaps-panzoom.js"></script>
+                <script is:inline src="/mp/jsmaps/jsmaps.min.js"></script>
+                <script is:inline src={`/mp/maps/${data.mapName}.js`}></script>
+              </Fragment>
+            )}
+            {data.map_index && !data.mapName && (
+              <Fragment>
+                <script is:inline define:vars={{ mapIndex: data.map_index }}>
+                  $(function() {
+                    $('#world-map').JSMaps({
+                      map: mapIndex,
+                      stateClickAction: 'url',
+                      disableTooltip: false,
+                      selectElement: false,
+                      displayAbbreviations: true,
+                      hrefTarget: "_self",
+                      pinSize: 0,
+                    });
+                  });
+                </script>
+                <script is:inline src="/mp/jsmaps/jsmaps-libs.js"></script>
+                <script is:inline src="/mp/jsmaps/jsmaps-panzoom.js"></script>
+                <script is:inline src="/mp/jsmaps/jsmaps.min.js"></script>
+                <script is:inline src={`/mp/maps/${data.map_index}.js`}></script>
+              </Fragment>
+            )}
+
+            {/* Main content or child page listing */}
+            {hasContent ? (
+              <div class="content" data-pagefind-body>
+                <slot />
+
+                {/* Related sites (country pages with flag) */}
+                {data.flag && !data.no_rel_site && (
+                  <div class="main-information">
+                    <h4 class="section-title"><Fragment set:html={t("rel-site", lang)} /></h4>
+                    <ul class="info-list">
+                      <li><a href={`https://ja.wikipedia.org/wiki/${data.title}`}>{data.title} (wikipedia)</a></li>
+                      {data.plonkit && (
+                        <li>
+                          <a href={`https://www.plonkit.net/${data.plonkit_url || currentSlug.split("/").pop()}`}>plonk it</a>
+                        </li>
+                      )}
+                    </ul>
+                  </div>
+                )}
+
+                {/* Sibling countries */}
+                {siblings.length > 0 && (
+                  <div class="main-information same-region-area">
+                    <h4 class="section-title">
+                      <i class="fas fa-globe"></i>
+                      {lang === "ja"
+                        ? ` ${parentTitle}の国`
+                        : ` Countries in ${parentTitle}`}
+                    </h4>
+                    <ul class="info-list">
+                      {siblings.map((s) => (
+                        <li><a href={s.url}>{s.title}</a></li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
+              </div>
+            ) : (
+              <div class="p-4">
+                {isRuleSection ? (
+                  <ul class="flag-list">
+                    <Fragment set:html={sectionTreeHtml} />
+                  </ul>
+                ) : (
+                  <ul class="page-list">
+                    <Fragment set:html={sectionTreeHtml} />
+                  </ul>
+                )}
+              </div>
+            )}
+
+            {/* Last modified */}
+            {lastmodDisplay && (
+              <p class="post-meta border-bottom pb-3 mb-0 mt-3">Updated on {lastmodDisplay}</p>
+            )}
+
+            {/* Hidden SEO text */}
+            <div class="msg-to-gpt">
+              geoguessr（ジオゲッサー）のプレイログを記録したページです。
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* Floating share buttons */}
+  <div class="floating-share-group">
+    <button
+      class="floating-action floating-copy-url"
+      type="button"
+      data-tooltip={t("floating_copy_tooltip", lang)}
+      data-success-tooltip={t("floating_copy_success", lang)}
+      aria-label={t("floating_copy_aria", lang)}
+    >
+      <i class="fas fa-link"></i>
+    </button>
+
+    <a
+      class="floating-action floating-share-x"
+      href={shareURL}
+      target="_blank"
+      rel="noopener"
+      aria-label={t("floating_share_aria", lang)}
+      data-tooltip={t("floating_share_tooltip", lang)}
+    >
+      <i class="fab fa-twitter"></i>
+    </a>
+
+    <a
+      class="floating-action floating-chatgpt"
+      href={`https://chat.openai.com/?q=${chatGptPrompt}`}
+      target="_blank"
+      rel="noopener"
+      aria-label={t("floating_ask_gpt", lang)}
+      data-tooltip={t("floating_ask_gpt", lang)}
+    >
+      <i class="fas fa-comments"></i>
+    </a>
+  </div>
+
+  <script is:inline>
+    (() => {
+      const copyBtn = document.querySelector(".floating-copy-url");
+      if (!copyBtn) return;
+      const tooltipAttr = "data-tooltip";
+      const successAttr = "data-success-tooltip";
+      const defaultMessage = copyBtn.getAttribute(tooltipAttr) || "";
+      const successMessage = copyBtn.getAttribute(successAttr) || defaultMessage;
+      let resetTimer = null;
+      const resetTooltip = () => {
+        copyBtn.setAttribute(tooltipAttr, defaultMessage);
+        copyBtn.classList.remove("is-success");
+      };
+      const showSuccess = () => {
+        copyBtn.setAttribute(tooltipAttr, successMessage);
+        copyBtn.classList.add("is-success");
+        if (resetTimer) clearTimeout(resetTimer);
+        resetTimer = setTimeout(resetTooltip, 2000);
+      };
+      copyBtn.addEventListener("click", async () => {
+        try {
+          if (navigator.clipboard?.writeText) {
+            await navigator.clipboard.writeText(window.location.href);
+          } else {
+            const ta = document.createElement("textarea");
+            ta.value = window.location.href;
+            ta.style.position = "fixed";
+            ta.style.opacity = "0";
+            document.body.appendChild(ta);
+            ta.select();
+            document.execCommand("copy");
+            document.body.removeChild(ta);
+          }
+          showSuccess();
+        } catch (err) {
+          console.error("Failed to copy URL", err);
+        }
+      });
+    })();
+  </script>
+
+  <Footer lang={lang} title={data.title} permalink={canonical} flag={data.flag} />
+  <SearchModal lang={lang} />
+</body>
+</html>

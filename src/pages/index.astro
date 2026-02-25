@@ -1,0 +1,194 @@
+---
+import { getCollection } from "astro:content";
+import { extractLangFromId, extractSlugFromId, buildUrl, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import type { Language } from "@lib/i18n-utils";
+
+const lang: Language = "ja";
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+
+// Translation URLs for homepage
+const translationUrls: { lang: Language; url: string }[] = LANGUAGES.map((l) => ({
+  lang: l,
+  url: l === DEFAULT_LANG ? `${site}/` : `${site}/${l}/`,
+}));
+
+// Gather top-level section pages (type: docs, depth 1) for topic cards
+const allCollections = ["rule", "quiz", "about", "web"] as const;
+interface TopicCard {
+  title: string;
+  description: string;
+  url: string;
+  cardImage: string;
+  weight: number;
+  isRule: boolean;
+}
+
+const topicCards: TopicCard[] = [];
+for (const col of allCollections) {
+  const entries = await getCollection(col);
+  // Only include section pages with type: "docs" (matches Hugo behavior)
+  const sectionEntries = entries.filter((e: any) => {
+    if (extractLangFromId(e.id) !== lang) return false;
+    if (e.data.draft) return false;
+    if (e.data.type !== "docs") return false;
+    return true;
+  });
+
+  for (const entry of sectionEntries) {
+    const slug = extractSlugFromId(entry.id);
+    const url = buildUrl(col, slug, lang);
+    const cardImageRaw = entry.data.card_image || entry.data.bg || "";
+    let cardImage = "";
+    if (cardImageRaw) {
+      if (cardImageRaw.startsWith("http")) {
+        cardImage = cardImageRaw;
+      } else {
+        const normalized = cardImageRaw.replace(/^\//, "");
+        cardImage = normalized.startsWith("bg/") ? `/${normalized}` : `/bg/${normalized}`;
+      }
+    }
+
+    const isRule = col === "rule";
+    topicCards.push({
+      title: entry.data.title,
+      description: entry.data.description || "",
+      url,
+      cardImage,
+      weight: entry.data.weight ?? 99,
+      isRule,
+    });
+  }
+}
+
+const ruleCards = topicCards.filter((c) => c.isRule).sort((a, b) => a.weight - b.weight);
+const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight - b.weight);
+
+// Recent updates
+const recentUpdates = [
+  { title: "ボスニア・ヘルツェゴビナのページの内容を追加しました", link: "/rule/europe/bosnah/", date: "2025-11-07" },
+  { title: "コスタリカ・パラグアイのページの内容を追加しました", link: "/rule/n_america/costa_rica/", date: "2025-11-06" },
+  { title: "「ボリビア」を「ボリビア多民族国」へと表記変更しました", link: "/rule/cs_america/bolivia/", date: "2025-11-06" },
+  { title: "ネパールの攻略メモを大幅に追記", link: "/rule/asia/nepal/", date: "2025-08-14" },
+  { title: "ベトナムのページに道路写真の例を追加", link: "/rule/asia/vietnum/", date: "2025-06-28" },
+];
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={siteTitle}
+    description="GeoGuessr（ジオゲッサー）のプレイで気付いた特徴や攻略ヒントを国・地域ごとにまとめた個人メモです。地理クイズの練習や配信前の下調べに役立つ情報を整理しています。"
+    lang={lang}
+    canonical={`${site}/`}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    translations={translationUrls}
+  />
+</head>
+<body>
+  <header class="banner hero-surface">
+    <Navbar lang={lang} isHome={true} translations={translationUrls} />
+    <div class="container section">
+      <div class="row">
+        <div class="col-lg-8 text-center mx-auto">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {/* Topics section */}
+  <section class="section" style="margin-bottom:0px;padding-bottom:0px;">
+    <div class="container">
+      {ruleCards.length > 0 && (
+        <div class="row justify-content-center mb-4">
+          <div class="col-12">
+            <h2 class="section-title text-left" style="margin-bottom:1.5rem;">{t("homepage_rule_section_title", lang)}</h2>
+          </div>
+          {ruleCards.map((card) => (
+            <div class="col-lg-4 col-sm-6 mb-3">
+              <a
+                href={card.url}
+                class={`px-3 py-2 shadow d-block match-height apply-bg ${card.cardImage ? "card-with-image" : ""}`}
+                style={card.cardImage ? `--card-bg-image: url('${card.cardImage}');` : undefined}
+              >
+                <h3 class="mb-3 mt-0">
+                  {card.weight === 1 && <i class="fas fa-map-marker-alt" style="margin-right:0.2em; color:rgb(188, 57, 57);"></i>}
+                  {card.title}
+                </h3>
+                <p class="mb-0">{card.description}</p>
+              </a>
+            </div>
+          ))}
+        </div>
+      )}
+
+      <div class="row justify-content-center">
+        {otherCards.length > 0 && (
+          <>
+            <div class="col-12">
+              <h2 class="section-title text-left" style="margin-bottom:1.5rem;">{t("homepage_other_section_title", lang)}</h2>
+            </div>
+            {otherCards.map((card) => (
+              <div class="col-lg-4 col-sm-6 mb-3">
+                <a
+                  href={card.url}
+                  class={`px-3 py-2 shadow d-block match-height apply-bg ${card.cardImage ? "card-with-image" : ""}`}
+                  style={card.cardImage ? `--card-bg-image: url('${card.cardImage}');` : undefined}
+                >
+                  <h3 class="mb-3 mt-0">{card.title}</h3>
+                  <p class="mb-0">{card.description}</p>
+                </a>
+              </div>
+            ))}
+          </>
+        )}
+        <div class="col-lg-4 col-sm-6 mb-3">
+          <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 shadow d-block match-height apply-bg card-with-image" style="--card-bg-image: url('/bg/default.jpg');">
+            <h3 class="mb-3 mt-0">BOOTH</h3>
+            <p class="mb-0">{t("homepage_booth_caption", lang)}</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  {/* Updates + Milestone (Japanese only) */}
+  <section class="section section-updates pt-0 pb-5">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-xl-9 col-lg-10">
+          <div class="update-milestone-card">
+            <div class="update-milestone-card__updates">
+              <div class="update-milestone-card__label">最近の更新</div>
+              <ul class="update-milestone-card__list">
+                {recentUpdates.map((item) => (
+                  <li class="update-milestone-card__item">
+                    <a href={item.link}>{item.title}</a>
+                    <span class="update-milestone-card__date">@{item.date}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+            <div class="update-milestone-card__divider" aria-hidden="true"></div>
+            <div class="update-milestone-card__milestone">
+              <div class="update-milestone-card__milestone-badge">Milestone</div>
+              <h3 class="update-milestone-card__title">サイト累計50万アクセスを突破しました</h3>
+              <p class="update-milestone-card__text">いつもご覧いただきありがとうございます。</p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <Footer lang={lang} title={siteTitle} permalink={`${site}/`} />
+  <SearchModal lang={lang} />
+</body>
+</html>

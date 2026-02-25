@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg34422"
+   viewBox="0 0 300 300"
+   height="300"
+   width="300">
+  <defs
+     id="defs34424">
+    <clipPath
+       id="clipPath33370"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         id="path33372"
+         d="m 41.102,362.126 59.528,0 0,59.529 -59.528,0 0,-59.529 z" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata34427">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-239.93786,-358.13863)"
+     id="layer1">
+    <path
+       id="path33364"
+       style="fill:#12298c;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       d="m 239.93786,658.13863 300,0 0,-300 -300,0 0,300 z" />
+    <g
+       id="g33366"
+       transform="matrix(5.0396452,0,0,-5.0396452,32.798363,2483.1251)">
+      <g
+         clip-path="url(#clipPath33370)"
+         id="g33368">
+        <g
+           transform="translate(71.213,394.053)"
+           id="g33374">
+          <path
+             id="path33376"
+             style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 -12.796,0 0,-4.329 8.389,0 c -0.96,-3.736 -4.353,-6.498 -8.389,-6.498 -4.782,0 -8.656,3.878 -8.656,8.662 0,4.781 3.874,8.661 8.656,8.661 2.199,0 4.192,-0.824 5.719,-2.167 l 5.517,0 c -2.241,3.878 -6.427,6.494 -11.236,6.494 -7.171,0 -12.987,-5.812 -12.987,-12.988 0,-7.176 5.816,-12.985 12.987,-12.985 7.176,0 12.992,5.809 12.992,12.985 C 0.196,-1.426 0.116,-0.706 0,0" />
+        </g>
+        <g
+           transform="translate(91.9711,403.2511)"
+           id="g33378">
+          <path
+             id="path33380"
+             style="fill:#fff100;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             d="m 0,0 0,-14.069 c 0,-3.291 -2.665,-5.956 -5.952,-5.956 -3.287,0 -5.954,2.665 -5.954,5.956 l 0,14.069 -4.328,0 0,-14.069 c 0,-5.678 4.602,-10.282 10.282,-10.282 5.678,0 10.281,4.604 10.281,10.282 L 4.329,0 0,0 Z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

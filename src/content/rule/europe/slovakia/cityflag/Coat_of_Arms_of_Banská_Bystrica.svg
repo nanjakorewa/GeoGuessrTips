@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="500" height="580" viewBox="0 0 500 580">
+  <defs>
+    <clipPath id="clip-path">
+      <use xlink:href="#border"/>
+    </clipPath>
+  </defs>
+  <title>Coat of Arms of Banská Bystrica</title>
+  <g id="coa_banska_bystrica">
+    <path id="field" d="M500,330V0H0V330C0,468.071,111.929,580,250,580S500,468.071,500,330Z" fill="#fafafa"/>
+    <g id="coa">
+      <g clip-path="url(#clip-path)" fill="#cc3026" stroke="#111" stroke-width=".8">
+        <rect y="507.5" width="500" height="72.5"/>
+        <rect y="362.5" width="500" height="72.5"/>
+        <rect y="217.5" width="500" height="72.5"/>
+        <rect y="72.5" width="500" height="72.5"/>
+      </g>
+    </g>
+    <path id="border" d="M497,330V3H3V330C3,466.414,113.586,577,250,577S497,466.414,497,330Z" fill="none" stroke="#111" stroke-width="6"/>
+  </g>
+</svg>

@@ -1,0 +1,215 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { getLocale, getHreflang, LANGUAGES, DEFAULT_LANG, buildUrl, extractLangFromId, extractSlugFromId } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import Schema from "./Schema.astro";
+
+interface Props {
+  title: string;
+  description: string;
+  lang: Language;
+  canonical: string;
+  ogImage: string;
+  ogType: "website" | "article";
+  noindex?: boolean;
+  publishedTime?: Date;
+  modifiedTime?: Date;
+  flag?: string;
+  /** All available translation URLs for hreflang */
+  translations?: { lang: Language; url: string }[];
+  /** frontmatter data for schema */
+  pageData?: Record<string, any>;
+  usePolishFont?: boolean;
+  needsJQuery36?: boolean;
+  needsJSMaps?: boolean;
+}
+
+const {
+  title,
+  description,
+  lang,
+  canonical,
+  ogImage,
+  ogType,
+  noindex = false,
+  publishedTime,
+  modifiedTime,
+  flag,
+  translations: translationUrls = [],
+  pageData = {},
+  usePolishFont = false,
+  needsJQuery36 = false,
+  needsJSMaps = false,
+} = Astro.props;
+
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+const locale = getLocale(lang);
+const robots = noindex ? "noindex, nofollow" : "index, follow";
+const twitterCard = ogImage ? "summary_large_image" : "summary";
+const imageAlt = title || siteTitle;
+---
+
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="format-detection" content="telephone=no" />
+<meta name="referrer" content="strict-origin-when-cross-origin" />
+
+<link rel="icon" href="/favicon.ico" />
+<link rel="apple-touch-icon" sizes="180x180" href="/images/icon-512x512.png" />
+<link rel="shortcut icon" type="image/png" href="/images/icon-128x128.png" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+<link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+<link rel="dns-prefetch" href="https://www.clarity.ms" />
+
+<title>{title}</title>
+<meta name="description" content={description} />
+<meta name="robots" content={robots} />
+<meta name="generator" content={Astro.generator} />
+<link rel="canonical" href={canonical} />
+
+{/* hreflang */}
+{translationUrls.map(({ lang: tLang, url }) => (
+  <link rel="alternate" hreflang={getHreflang(tLang)} href={url} />
+))}
+<link rel="alternate" hreflang="x-default" href={canonical} />
+
+{/* Open Graph */}
+<meta property="og:site_name" content={siteTitle} />
+<meta property="og:type" content={ogType} />
+<meta property="og:title" content={title} />
+<meta property="og:description" content={description} />
+<meta property="og:url" content={canonical} />
+<meta property="og:image" content={ogImage} />
+<meta property="og:image:secure_url" content={ogImage} />
+<meta property="og:image:alt" content={imageAlt} />
+<meta property="og:locale" content={locale} />
+{translationUrls
+  .filter(({ lang: tLang }) => tLang !== lang)
+  .map(({ lang: tLang }) => (
+    <meta property="og:locale:alternate" content={getLocale(tLang)} />
+  ))}
+{modifiedTime && (
+  <meta property="og:updated_time" content={modifiedTime.toISOString()} />
+)}
+{ogType === "article" && publishedTime && (
+  <meta property="article:published_time" content={publishedTime.toISOString()} />
+)}
+{ogType === "article" && modifiedTime && (
+  <meta property="article:modified_time" content={modifiedTime.toISOString()} />
+)}
+
+{/* Twitter Card */}
+<meta name="twitter:card" content={twitterCard} />
+<meta name="twitter:title" content={title} />
+<meta name="twitter:description" content={description} />
+<meta name="twitter:image" content={ogImage} />
+<meta name="twitter:image:alt" content={imageAlt} />
+<meta name="twitter:site" content="@nanjakorewa" />
+<meta name="twitter:creator" content="@nanjakorewa" />
+
+<meta name="keywords" content="GeoGuessr, ジオゲッサー, 地理クイズ, 世界の国, 地理クイズ攻略" />
+<meta name="author" content="nanja" />
+<meta name="theme-color" content="#446E72" />
+<meta name="msapplication-TileColor" content="#446E72" />
+
+{/* JSON-LD structured data */}
+<Schema
+  title={title}
+  description={description}
+  lang={lang}
+  canonical={canonical}
+  ogImage={ogImage}
+  ogType={ogType}
+  publishedTime={publishedTime}
+  modifiedTime={modifiedTime}
+  flag={flag}
+  pageData={pageData}
+/>
+
+{/* CSS */}
+<link rel="stylesheet" href="/plugins/bootstrap/bootstrap.min.css" />
+<link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css" />
+<link rel="icon" href="/images/icon-16x16.png" type="image/x-icon" />
+<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap" rel="stylesheet" />
+<link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet" />
+
+<style is:inline>
+:root{
+  --primary-color:#446E72;
+  --body-color:#E6E4E0;
+  --text-color:#2B2721;
+  --text-color-dark:#1F1B16;
+  --white-color:#ffffff;
+  --light-color:#D4D9D8;
+  --accent-soft:#C9D3D2;
+  --accent-muted:#DEE4E3;
+  --secondary-color:#2B2721;
+  --neutral-soft:#D8D5D0;
+  --border-soft:rgba(43, 39, 33, 0.16);
+  --surface-color:#FFFFFF;
+  --surface-alt:#F5F3F1;
+  --shadow-soft:0 10px 24px rgba(43, 39, 33, 0.08);
+  --shadow-accent:0 18px 34px rgba(68, 110, 114, 0.18);
+  --primary-hover:#36575A;
+  --font-family:M PLUS 1p;
+}
+body {
+  background: var(--body-color);
+  font-display: swap;
+}
+@font-face {
+  font-family: 'M PLUS 1p';
+  font-display: swap;
+}
+</style>
+
+<link rel="stylesheet" href="/styles/style.css" />
+<link rel="stylesheet" href="/styles/common.css" />
+
+{/* JS */}
+{needsJSMaps && (
+  <link href="/mp/jsmaps/jsmaps.css" rel="stylesheet" type="text/css" />
+)}
+{needsJQuery36 || needsJSMaps ? (
+  <script is:inline src="https://code.jquery.com/jquery-3.6.0.min.js" integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4=" crossorigin="anonymous"></script>
+) : (
+  <script is:inline src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+)}
+<script is:inline src="/plugins/jquery/jquery-ui.js"></script>
+<script is:inline src="/plugins/bootstrap/bootstrap.min.js"></script>
+<script is:inline src="/plugins/match-height/jquery.matchHeight-min.js"></script>
+<script is:inline defer src="/custom.js"></script>
+
+{/* Analytics */}
+<script is:inline>
+(function(c,l,a,r,i,t,y){c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i+"?ref=bwt";y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);})(window, document, "clarity", "script", "gpnb8ov9hi");
+</script>
+<script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-XR9E0W2YP0"></script>
+<script is:inline>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+gtag('config', 'G-XR9E0W2YP0');
+</script>
+<script is:inline async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3422749596492644" crossorigin="anonymous"></script>
+
+{usePolishFont && (
+  <Fragment>
+    <link href="https://db.onlinewebfonts.com/c/0a8c122cb58b382103d4963a79da3c30?family=Drogowskaz" rel="stylesheet" />
+    <style is:inline>{`
+      @font-face {
+        font-family: "Drogowskaz";
+        src: url("https://geopinning.space/rule/europe/poland/Drogowskaz.otf") format("opentype");
+        unicode-range: U+0000-007F, U+0041-005A, U+0061-007A;
+      }
+      body { font-family: "Drogowskaz"; }
+      .polish-font { font-family: "Drogowskaz" !important; }
+      button { font-family: "Drogowskaz" !important; font-size: 1.3em !important; }
+    `}</style>
+  </Fragment>
+)}

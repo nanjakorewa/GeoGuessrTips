@@ -5,9 +5,13 @@ themes/dot-mysite/static/mp/
 イラスト*.clip
 イラスト*.png
 イラスト*.jpg
-public
 __pycache__
 resources
+
+## Astro / Node.js
+node_modules/
+dist/
+.astro/
 
 ## for MacOS
 # General

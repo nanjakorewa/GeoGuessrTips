@@ -1,0 +1,243 @@
+---
+import type { Language } from "@lib/i18n-utils";
+
+interface Props {
+  title: string;
+  description: string;
+  lang: Language;
+  canonical: string;
+  ogImage: string;
+  ogType: "website" | "article";
+  publishedTime?: Date;
+  modifiedTime?: Date;
+  flag?: string;
+  pageData?: Record<string, any>;
+}
+
+const {
+  title,
+  description,
+  lang,
+  canonical,
+  ogImage,
+  ogType,
+  publishedTime,
+  modifiedTime,
+  flag,
+  pageData = {},
+} = Astro.props;
+
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+const orgName = "nanja";
+const orgUrl = site;
+const orgLogo = `${site}/images/icon-512x512.png`;
+
+const languageCodeMap: Record<Language, string> = {
+  ja: "ja-JP", en: "en-US", id: "id", es: "es", pt: "pt",
+};
+const languageCode = languageCodeMap[lang] || "en-US";
+
+const socialLinks = [
+  "https://www.twitch.tv/nanjakorewa",
+  "https://www.youtube.com/@nanjakorewa",
+  "https://x.com/nanjakorewa",
+  "https://github.com/nanjakorewa/GeoGuessrTips",
+  "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82",
+];
+
+// Organization schema
+const orgSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  name: orgName,
+  url: orgUrl,
+  logo: { "@type": "ImageObject", url: orgLogo },
+  sameAs: socialLinks,
+};
+
+// WebSite schema
+const websiteSchema: Record<string, any> = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  name: siteTitle,
+  url: site,
+  inLanguage: languageCode,
+  description,
+  sameAs: socialLinks,
+};
+
+// Page/Article schema
+const pageType = ogType === "article" ? "Article" : "WebPage";
+const pageSchema: Record<string, any> = {
+  "@context": "https://schema.org",
+  "@type": pageType,
+  name: title,
+  headline: title,
+  description,
+  url: canonical,
+  inLanguage: languageCode,
+  mainEntityOfPage: canonical,
+  isPartOf: { "@type": "WebSite", name: siteTitle, url: site },
+  author: { "@type": "Organization", name: orgName, url: orgUrl },
+  publisher: { "@type": "Organization", name: orgName, url: orgUrl },
+};
+if (ogImage) pageSchema.image = [ogImage];
+if (publishedTime && pageType === "Article") {
+  pageSchema.datePublished = publishedTime.toISOString();
+}
+if (modifiedTime && pageType === "Article") {
+  pageSchema.dateModified = modifiedTime.toISOString();
+}
+
+// BreadcrumbList schema
+const breadcrumbItems: { name: string; item: string }[] = [];
+const urlPath = new URL(canonical).pathname.replace(/\/$/, "");
+const segments = urlPath.split("/").filter(Boolean);
+// Remove lang prefix for non-ja
+let pathSegments = segments;
+if (["en", "id", "es", "pt"].includes(segments[0])) {
+  pathSegments = segments.slice(1);
+}
+let currentPath = lang === "ja" ? "" : `/${lang}`;
+breadcrumbItems.push({ name: siteTitle, item: `${site}${currentPath}/` });
+for (const seg of pathSegments) {
+  currentPath += `/${seg}`;
+  breadcrumbItems.push({ name: seg, item: `${site}${currentPath}/` });
+}
+// Replace last item name with actual page title
+if (breadcrumbItems.length > 1) {
+  breadcrumbItems[breadcrumbItems.length - 1].name = pageData.title || title;
+}
+const breadcrumbSchema = breadcrumbItems.length > 1
+  ? {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      itemListElement: breadcrumbItems.map((item, i) => ({
+        "@type": "ListItem",
+        position: i + 1,
+        name: item.name,
+        item: item.item,
+      })),
+    }
+  : null;
+
+// FAQ Schema (auto-generated for country pages with flag)
+let faqSchema: Record<string, any> | null = null;
+if (flag && description) {
+  const countryName = pageData.title || title;
+  const questionTemplates: Record<Language, string> = {
+    ja: `GeoGuessrで${countryName}を見分けるには？`,
+    en: `How to identify ${countryName} in GeoGuessr?`,
+    id: `Bagaimana cara mengenali ${countryName} di GeoGuessr?`,
+    es: `¿Cómo identificar ${countryName} en GeoGuessr?`,
+    pt: `Como identificar ${countryName} no GeoGuessr?`,
+  };
+  faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: [
+      {
+        "@type": "Question",
+        name: questionTemplates[lang],
+        acceptedAnswer: { "@type": "Answer", text: description },
+      },
+    ],
+  };
+}
+
+// Custom FAQ from frontmatter
+let customFaqSchema: Record<string, any> | null = null;
+if (pageData.faq && Array.isArray(pageData.faq) && pageData.faq.length > 0) {
+  const questions = pageData.faq
+    .filter((f: any) => f.question && f.answer)
+    .map((f: any) => ({
+      "@type": "Question",
+      name: f.question.trim(),
+      acceptedAnswer: { "@type": "Answer", text: f.answer.trim() },
+    }));
+  if (questions.length > 0) {
+    customFaqSchema = {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      mainEntity: questions,
+    };
+  }
+}
+
+// HowTo Schema (auto for country pages with flag)
+let howtoSchema: Record<string, any> | null = null;
+if (flag) {
+  const countryName = pageData.title || title;
+  const howtoNames: Record<Language, string> = {
+    ja: `GeoGuessrで${countryName}を見分ける方法`,
+    en: `How to identify ${countryName} in GeoGuessr`,
+    id: `Cara mengenali ${countryName} di GeoGuessr`,
+    es: `Cómo identificar ${countryName} en GeoGuessr`,
+    pt: `Como identificar ${countryName} no GeoGuessr`,
+  };
+  const steps = lang === "ja"
+    ? ["ストリートビューの風景を観察する", "看板、標識、言語などの特徴を確認する", "地形や植生から地域を絞り込む"]
+    : ["Observe the Street View landscape", "Check signs, road markers, and language", "Narrow down the region from terrain and vegetation"];
+  howtoSchema = {
+    "@context": "https://schema.org",
+    "@type": "HowTo",
+    name: howtoNames[lang],
+    description,
+    step: steps.map((text, i) => ({
+      "@type": "HowToStep",
+      position: i + 1,
+      name: text,
+      text,
+    })),
+  };
+  if (ogImage) howtoSchema.image = ogImage;
+}
+
+// VideoObject Schema from frontmatter
+let videoSchemas: Record<string, any>[] = [];
+if (pageData.videos && Array.isArray(pageData.videos)) {
+  for (const v of pageData.videos) {
+    const vid = v.id || "";
+    const isShort = v.short || false;
+    const embedUrl = v.embedUrl || (vid ? `https://www.youtube.com/embed/${vid}` : "");
+    const contentUrl = v.contentUrl || (vid
+      ? (isShort ? `https://www.youtube.com/shorts/${vid}` : `https://www.youtube.com/watch?v=${vid}`)
+      : "");
+    const thumbnailUrl = v.thumbnailUrl || (vid ? `https://i.ytimg.com/vi/${vid}/hqdefault.jpg` : "");
+    if (v.title && v.description && v.uploadDate && thumbnailUrl && embedUrl && contentUrl) {
+      videoSchemas.push({
+        "@type": "VideoObject",
+        name: v.title,
+        description: v.description,
+        thumbnailUrl: [thumbnailUrl],
+        uploadDate: v.uploadDate,
+        embedUrl,
+        contentUrl,
+      });
+    }
+  }
+}
+---
+
+<script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(websiteSchema)} />
+<script type="application/ld+json" set:html={JSON.stringify(pageSchema)} />
+{breadcrumbSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(breadcrumbSchema)} />
+)}
+{faqSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+)}
+{customFaqSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(customFaqSchema)} />
+)}
+{howtoSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(howtoSchema)} />
+)}
+{videoSchemas.length === 1 && (
+  <script type="application/ld+json" set:html={JSON.stringify({ "@context": "https://schema.org", ...videoSchemas[0] })} />
+)}
+{videoSchemas.length > 1 && (
+  <script type="application/ld+json" set:html={JSON.stringify({ "@context": "https://schema.org", "@graph": videoSchemas })} />
+)}

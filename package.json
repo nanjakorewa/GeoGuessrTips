@@ -1,0 +1,31 @@
+{
+  "name": "geoguessrtips",
+  "version": "1.0.0",
+  "description": "ジオゲッサーのめもを記録するリポジトリ。[GeoGuessrのめも](https://geopinning.space/)のソースコードと画像です。",
+  "scripts": {
+    "dev": "node scripts/copy-content-assets.js && astro dev",
+    "build": "node scripts/copy-content-assets.js && astro build && npx pagefind --site dist",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanjakorewa/GeoGuessrTips.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/nanjakorewa/GeoGuessrTips/issues"
+  },
+  "homepage": "https://github.com/nanjakorewa/GeoGuessrTips#readme",
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "astro": "^5.17.3",
+    "unist-util-visit": "^5.1.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.4.0"
+  }
+}

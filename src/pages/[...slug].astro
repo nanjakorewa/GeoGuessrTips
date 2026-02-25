@@ -1,0 +1,40 @@
+---
+import DefaultLayout from "@layouts/DefaultLayout.astro";
+import { getCollection, render } from "astro:content";
+import { extractLangFromId, extractSlugFromId, buildUrl } from "@lib/i18n-utils";
+
+export async function getStaticPaths() {
+  const allCollections = ["rule", "quiz", "about", "web"] as const;
+  const paths = [];
+
+  for (const collectionName of allCollections) {
+    const entries = await getCollection(collectionName, (entry) => {
+      return extractLangFromId(entry.id) === "ja" && !entry.data.draft;
+    });
+
+    for (const entry of entries) {
+      const slug = extractSlugFromId(entry.id);
+      const fullSlug = slug ? `${collectionName}/${slug}` : collectionName;
+
+      paths.push({
+        params: { slug: fullSlug },
+        props: { entry, lang: "ja" as const, collection: collectionName },
+      });
+    }
+  }
+
+  return paths;
+}
+
+const { entry, lang, collection } = Astro.props;
+const rendered = await render(entry);
+const Content = rendered.Content;
+// Check if entry has actual markdown body content
+// entry.body may be undefined in some Astro versions, so also check rendered HTML
+const bodyText = (entry.body ?? "").trim();
+const hasContent = bodyText.length > 0;
+---
+
+<DefaultLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
+  <Content />
+</DefaultLayout>
