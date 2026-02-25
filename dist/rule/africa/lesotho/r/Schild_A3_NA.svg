@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="722.38"
+   height="602"
+   id="svg2"
+   sodipodi:docname="NAM_road_A1_orig.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1366"
+     inkscape:window-height="715"
+     id="namedview10"
+     showgrid="false"
+     inkscape:zoom="0.5544093"
+     inkscape:cx="352.66852"
+     inkscape:cy="287.11888"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata10">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs4" />
+  <path
+     d="M 0,240.592 361.19,0 722.38,240.592 601.911,602 120.469,602 z"
+     id="background"
+     style="fill:#00579d;stroke:none" />
+  <path
+     d="M 13.092,245.084 361.19,13.019 709.288,245.084 593.982,591 128.398,591 z"
+     id="border"
+     style="fill:none;stroke:#ffffff;stroke-width:20;stroke-linejoin:miter" />
+  <g
+     aria-label="A"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:157.32235718px;line-height:1.25;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift';letter-spacing:0px;word-spacing:0px;fill:#ffe200;fill-opacity:1;stroke:none;stroke-width:0.99993008"
+     id="text3725">
+    <path
+       d="M 312.1425,206 353.00944,94.000002 h 13.98079 L 407.85717,206 H 390.0355 l -8.60357,-25.27298 H 338.95182 L 330.04099,206 Z m 31.80246,-40.2524 h 32.41701 q -3.5336,-10.37037 -5.60768,-16.2085 -1.99725,-5.91496 -3.53361,-10.44719 -1.45953,-4.53224 -2.99588,-9.21811 -1.53635,-4.68587 -4.07133,-12.6749 -2.68862,8.2963 -4.30178,13.28944 -1.61317,4.91632 -3.14952,9.52538 -1.45954,4.60905 -3.45679,10.29355 -1.92044,5.6845 -5.30042,15.44033 z"
+       style="fill:#ffe200;fill-opacity:1;stroke-width:0.99993008"
+       id="path16" />
+  </g>
+  <g
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+     id="flowRoot3727" />
+  <g
+     aria-label="3"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:382.79119873px;line-height:1.25;font-family:'DIN 1451 Mittelschrift';-inkscape-font-specification:'DIN 1451 Mittelschrift';letter-spacing:0px;word-spacing:0px;fill:#ffe200;fill-opacity:1;stroke:none;stroke-width:9.5697794"
+     id="text4542">
+    <path
+       d="M 342.43013,406.58399 V 372.1926 h 13.45751 q 19.43861,0 30.6532,-10.84077 11.40149,-11.02768 11.40149,-27.84956 0,-16.63496 -11.77531,-28.03646 -11.77532,-11.4015 -28.03647,-11.4015 -12.33604,0 -23.36372,8.22403 -11.02767,8.22403 -14.20514,24.67209 h -39.06414 q 2.24292,-28.7841 24.11136,-50.27872 21.86844,-21.68154 51.02637,-21.68154 36.4474,0 58.31584,24.11136 22.05535,23.92445 22.05535,53.64311 0,15.70042 -6.16802,30.6532 -6.16802,14.76587 -22.9899,25.60663 17.1957,11.02768 24.67209,27.10192 7.47639,16.07424 7.47639,32.5223 0,38.12959 -23.92445,60.74567 -23.92445,22.61608 -58.68967,22.61608 -27.66264,0 -49.9049,-17.75642 -22.05535,-17.94334 -27.47574,-52.14783 h 39.06414 q 5.42039,14.01823 14.57896,22.61608 9.15858,8.41094 25.98046,8.41094 16.26115,0 28.78411,-11.40149 12.52295,-11.58841 12.52295,-31.77466 0,-20.37317 -12.52295,-31.77466 -12.33605,-11.58841 -29.53175,-11.58841 z"
+       style="fill:#ffe200;fill-opacity:1;stroke-width:9.5697794"
+       id="path20" />
+  </g>
+</svg>

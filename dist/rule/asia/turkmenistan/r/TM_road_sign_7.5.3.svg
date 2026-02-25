@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="600"
+   height="300"
+   id="svg2"
+   version="1.1"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="RU_road_sign_8.5.3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title3006">7.5.3 Hepdäniň</title>
+  <defs
+     id="defs4">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="235.113"
+     inkscape:cy="196.22213"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:object-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-object-midpoints="true"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>7.5.3 Hepdäniň</dc:title>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/3.0/" />
+        <dc:description>ГОСТ Р 52290-2004
+Размеры и пропорции по типоразмеру I</dc:description>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-sa/3.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-752.36218)">
+    <rect
+       y="752.36218"
+       x="0"
+       height="300"
+       width="600"
+       id="rect5622"
+       style="opacity:1;color:#000000;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       rx="45"
+       ry="45" />
+    <rect
+       y="762.36212"
+       x="10"
+       height="280"
+       width="580"
+       id="rect9537"
+       style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.54299997999999980;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;opacity:1"
+       rx="35"
+       ry="35" />
+    <g
+       id="g1331"
+       transform="matrix(1.1032364,0,0,1.1032364,-30.97092,-100.50095)"
+       style="fill:#000000">
+      <g
+         aria-label="-ÇARŞENBE"
+         id="text1221"
+         style="font-size:74.5279px;line-height:125%;font-family:'Russian Road Sign';letter-spacing:0px;word-spacing:0px;stroke-width:6.11509">
+        <path
+           d="m 121.91569,951.10598 h 14.60747 v -6.78204 h -14.60747 z"
+           style="font-weight:bold"
+           id="path1333" />
+        <path
+           d="m 163.65135,919.28257 c -11.4773,0 -16.99236,9.83768 -16.99236,21.9112 0,11.32824 4.84431,20.64423 14.90558,21.76215 l -1.04339,3.80092 c 0,0 3.87545,0.5217 3.87545,4.17356 0,3.13018 -3.35376,6.26035 -3.35376,6.26035 l 3.13017,1.56508 c 3.13018,-3.65186 5.0679,-5.73864 5.0679,-8.71976 0,-3.80092 -3.72639,-5.36601 -3.72639,-5.36601 l 0.29811,-1.71414 c 6.63298,-0.74528 10.58296,-5.21695 12.96785,-11.32824 l -7.00562,-2.60848 c -1.56509,5.21695 -4.24809,7.30374 -8.12354,7.30374 -5.73865,0 -9.91221,-5.73865 -9.91221,-15.12917 0,-9.39051 4.17356,-15.12916 9.91221,-15.12916 3.87545,0 6.55845,2.08678 8.12354,7.30373 l 7.00562,-2.60847 c -2.60847,-6.78204 -7.2292,-11.4773 -15.12916,-11.4773 z"
+           style="font-weight:bold"
+           id="path1335" />
+        <path
+           d="m 201.21337,947.45412 5.21695,-17.73764 5.21696,17.73764 z m 1.04339,-27.12816 -13.56408,41.73562 h 7.82543 l 2.60848,-8.34712 h 14.60747 l 2.60848,8.34712 h 7.82542 l -13.56407,-41.73562 z"
+           style="font-weight:bold"
+           id="path1337" />
+        <path
+           d="m 236.6886,920.32596 v 41.73562 h 7.30373 v -16.69425 h 4.17357 c 4.69525,0 5.73864,2.90659 7.60184,6.4094 1.93773,3.7264 3.27923,8.12355 4.91884,10.28485 h 8.86882 c -4.69525,-2.08678 -6.78204,-17.73764 -13.56407,-19.30272 4.17356,-1.56509 7.82542,-5.21695 7.82542,-10.9556 0,-4.17357 -2.60847,-11.4773 -13.04238,-11.4773 z m 7.30373,6.26034 h 4.69526 c 4.17356,0 7.82543,1.78867 7.82543,6.26035 0,4.47167 -3.65187,6.26034 -7.82543,6.26034 h -4.69526 z"
+           style="font-weight:bold"
+           id="path1339" />
+        <path
+           d="m 281.85244,955.80124 c 0,0 6.4094,6.78204 15.27822,7.30374 l -0.96886,3.65186 c 0,0 3.87545,0.5217 3.87545,4.17356 0,3.13018 -3.35376,6.26035 -3.35376,6.26035 l 3.13017,1.56508 c 3.13017,-3.65186 5.0679,-5.73864 5.0679,-8.71976 0,-3.80092 -3.72639,-5.36601 -3.72639,-5.36601 l 0.29811,-1.78867 c 8.34712,-1.41603 12.8188,-8.19807 12.8188,-12.8188 0,-6.26034 -4.54621,-10.4339 -11.84994,-11.99899 -5.73865,-1.19245 -10.9556,-1.8632 -10.9556,-5.8877 0,-2.01226 1.56508,-6.11129 7.82543,-6.11129 5.44053,0 9.24146,4.17356 9.24146,4.17356 l 4.84431,-5.21695 c 0,0 -6.78204,-5.73865 -14.08577,-5.73865 -8.86882,0 -15.12917,5.73865 -15.12917,13.04238 0,3.2047 1.41603,9.98674 13.04239,11.70088 9.31598,1.3415 9.39051,4.84432 9.39051,6.48393 v 0.0745 c 0,1.56508 -1.78867,5.73865 -8.19807,5.73865 -7.30373,0 -11.40277,-4.91885 -11.40277,-4.91885 z"
+           style="font-weight:bold"
+           id="path1341" />
+        <path
+           d="m 325.74941,962.06158 h 26.60646 v -6.26034 h -19.30273 v -12.52069 h 15.12917 v -6.26034 H 333.05314 V 927.108 h 18.78103 v -6.78204 h -26.08476 z"
+           style="font-weight:bold"
+           id="path1343" />
+        <path
+           d="m 365.39823,962.06158 h 7.30373 v -30.25832 l 15.65086,30.25832 h 8.34713 v -41.73562 h -7.30374 v 29.73663 l -15.65086,-29.73663 h -8.34712 z"
+           style="font-weight:bold"
+           id="path1345" />
+        <path
+           d="m 409.74228,920.32596 v 41.73562 h 16.24708 c 7.75091,0 13.48955,-5.73864 13.48955,-12.52068 0,-4.69526 -3.13017,-7.82543 -7.30373,-9.39052 3.65187,-1.56508 5.96223,-5.21695 5.96223,-8.34712 0,-5.51507 -4.39714,-11.4773 -12.22257,-11.4773 z m 7.30374,6.26034 h 8.34712 c 2.60848,0 5.21695,1.71415 5.21695,5.36601 0,3.13017 -2.08678,5.36601 -5.21695,5.36601 h -8.34712 z m 0,16.69425 h 8.86882 c 4.17356,0 6.26034,3.27923 6.26034,6.26035 0,2.98111 -2.08678,6.26034 -6.26034,6.26034 h -8.86882 z"
+           style="font-weight:bold"
+           id="path1347" />
+        <path
+           d="m 451.47785,962.06158 h 26.60646 v -6.26034 h -19.30273 v -12.52069 h 15.12917 v -6.26034 H 458.78158 V 927.108 h 18.78103 v -6.78204 h -26.08476 z"
+           style="font-weight:bold"
+           id="path1349" />
+      </g>
+      <g
+         aria-label="DUŞENBE-"
+         id="text1094"
+         style="font-size:74.5279px;line-height:125%;font-family:'Russian Road Sign';letter-spacing:0px;word-spacing:0px;stroke-width:6.11509">
+        <path
+           d="M 158.95607,840.32596 H 144.8703 v 41.73562 h 14.08577 c 11.4773,0 18.03575,-8.79429 18.03575,-20.86781 0,-12.07352 -6.55845,-20.86781 -18.03575,-20.86781 z m -0.5217,6.26034 c 5.73865,0 10.95561,4.69526 10.95561,14.60747 0,9.91221 -5.21696,14.60747 -10.95561,14.60747 h -6.26034 V 846.5863 Z"
+           id="path1352" />
+        <path
+           d="m 188.69265,840.32596 v 28.17155 c 0,0.52169 0.5217,14.08577 15.12917,14.08577 14.60747,0 15.12916,-13.56408 15.12916,-14.08577 v -28.17155 h -7.30373 v 28.69324 c 0,5.73865 -4.69526,7.82543 -7.82543,7.82543 -3.13018,0 -7.82543,-2.08678 -7.82543,-7.82543 v -28.69324 z"
+           id="path1354" />
+        <path
+           d="m 232.29143,875.80124 c 0,0 6.4094,6.78204 15.27822,7.30374 l -0.96887,3.65186 c 0,0 3.87545,0.5217 3.87545,4.17356 0,3.13018 -3.35375,6.26035 -3.35375,6.26035 l 3.13017,1.56508 c 3.13017,-3.65186 5.0679,-5.73864 5.0679,-8.71976 0,-3.80092 -3.7264,-5.36601 -3.7264,-5.36601 l 0.29811,-1.78867 c 8.34713,-1.41603 12.8188,-8.19807 12.8188,-12.8188 0,-6.26034 -4.5462,-10.4339 -11.84993,-11.99899 -5.73865,-1.19245 -10.9556,-1.8632 -10.9556,-5.8877 0,-2.01226 1.56508,-6.11129 7.82543,-6.11129 5.44053,0 9.24145,4.17356 9.24145,4.17356 l 4.84432,-5.21695 c 0,0 -6.78204,-5.73865 -14.08577,-5.73865 -8.86882,0 -15.12917,5.73865 -15.12917,13.04238 0,3.2047 1.41603,9.98674 13.04238,11.70088 9.31599,1.3415 9.39052,4.84432 9.39052,6.48393 v 0.0745 c 0,1.56508 -1.78867,5.73865 -8.19807,5.73865 -7.30373,0 -11.40277,-4.91885 -11.40277,-4.91885 z"
+           id="path1356" />
+        <path
+           d="m 276.1884,882.06158 h 26.60646 v -6.26034 h -19.30273 v -12.52069 h 15.12916 v -6.26034 H 283.49213 V 847.108 h 18.78103 v -6.78204 H 276.1884 Z"
+           id="path1358" />
+        <path
+           d="m 315.8372,882.06158 h 7.30374 v -30.25832 l 15.65086,30.25832 h 8.34712 v -41.73562 h -7.30373 v 29.73663 l -15.65086,-29.73663 h -8.34713 z"
+           id="path1360" />
+        <path
+           d="m 360.18125,840.32596 v 41.73562 h 16.24709 c 7.7509,0 13.48955,-5.73864 13.48955,-12.52068 0,-4.69526 -3.13017,-7.82543 -7.30374,-9.39052 3.65187,-1.56508 5.96223,-5.21695 5.96223,-8.34712 0,-5.51507 -4.39714,-11.4773 -12.22257,-11.4773 z m 7.30374,6.26034 h 8.34712 c 2.60848,0 5.21696,1.71415 5.21696,5.36601 0,3.13017 -2.08678,5.36601 -5.21696,5.36601 h -8.34712 z m 0,16.69425 h 8.86882 c 4.17356,0 6.26034,3.27923 6.26034,6.26035 0,2.98111 -2.08678,6.26034 -6.26034,6.26034 h -8.86882 z"
+           id="path1362" />
+        <path
+           d="m 401.91684,882.06158 h 26.60646 v -6.26034 h -19.30273 v -12.52069 h 15.12916 v -6.26034 H 409.22057 V 847.108 h 18.78103 v -6.78204 h -26.08476 z"
+           id="path1364" />
+        <path
+           d="m 440.52225,871.10598 h 14.60747 v -6.78204 h -14.60747 z"
+           id="path1366" />
+      </g>
+    </g>
+  </g>
+</svg>

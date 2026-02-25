@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="e5.svg"
+   id="svg6943"
+   version="1.1"
+   viewBox="0 0 26.13413 20.132292"
+   height="20.132292mm"
+   width="26.13413mm">
+  <defs
+     id="defs6937" />
+  <sodipodi:namedview
+     inkscape:window-maximized="0"
+     inkscape:window-y="0"
+     inkscape:window-x="96"
+     inkscape:window-height="1030"
+     inkscape:window-width="1424"
+     showgrid="false"
+     inkscape:document-rotation="0"
+     inkscape:current-layer="layer1"
+     inkscape:document-units="mm"
+     inkscape:cy="72.687855"
+     inkscape:cx="36.948537"
+     inkscape:zoom="4.3901235"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata6940">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(52.472303,-43.802894)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <g
+       style="opacity:1;fill:#e3000f;fill-opacity:1"
+       id="g6931"
+       transform="matrix(3.3333333,0,0,3.3333333,-13.115794,-258.35101)">
+      <path
+         sodipodi:nodetypes="sssssssss"
+         id="path6927"
+         d="m -11.232422,90.666016 c -0.304212,0 -0.554687,0.238162 -0.554687,0.535156 v 4.929687 c 0,0.297 0.250476,0.535157 0.554687,0.535157 h 6.6911773 c 0.3042105,0 0.5546875,-0.238109 0.5546875,-0.535157 v -4.929687 c 0,-0.297043 -0.2504759,-0.535156 -0.5546875,-0.535156 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#e3000f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.0396875;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1" />
+      <path
+         sodipodi:nodetypes="ssssssssssssssssss"
+         transform="matrix(0.26458333,0,0,0.26458333,-11.787951,90.665673)"
+         d="m 2.0957031,0.15429688 c -1.0692964,0 -1.94140622,0.83372393 -1.94140622,1.86914062 V 20.654297 c 0,1.035439 0.87210982,1.867187 1.94140622,1.867187 H 27.390759 c 1.069296,0 1.943359,-0.831748 1.943359,-1.867187 V 2.0234375 c 0,-1.03541669 -0.874063,-1.86914062 -1.943359,-1.86914062 z m 0.1113281,0.7890625 H 27.351696 c 0.639308,0 1.158203,0.48809962 1.158203,1.09375002 V 20.583984 c 0,0.605745 -0.517004,1.09375 -1.158203,1.09375 H 2.2070312 c -0.6392881,0 -1.1582031,-0.487891 -1.1582031,-1.09375 V 2.0371094 c 0,-0.605503 0.5170403,-1.09375002 1.1582031,-1.09375002 z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.310335;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;paint-order:stroke fill markers;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate;stop-color:#000000;stop-opacity:1"
+         id="path6929" />
+    </g>
+    <g
+       style="font-style:normal;font-weight:normal;font-size:22.2119px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:-0.79375px;text-anchor:middle;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.555297"
+       id="text6935"
+       aria-label="A1">
+      <path
+         id="path7660"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.555297"
+         d="m -43.742101,55.81497 1.554833,-5.286432 1.554833,5.286432 z m 0.310966,-8.085132 -4.042566,12.438665 h 2.33225 l 0.777416,-2.487733 h 4.353533 l 0.777416,2.487733 h 2.33225 l -4.042566,-12.438665 z" />
+      <path
+         id="path7662"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Russian Road Sign';-inkscape-font-specification:'Russian Road Sign';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.555297"
+         d="m -35.912428,50.617386 0.732993,0.955111 1.665892,-1.043959 v 9.639965 h 2.176766 V 47.729838 h -1.865799 z" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,342 @@
+{
+  "$ref": "#/definitions/rule",
+  "definitions": {
+    "rule": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "subtitle": {
+          "type": "string"
+        },
+        "date": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "lastmod": {
+          "anyOf": [
+            {
+              "type": "string",
+              "format": "date-time"
+            },
+            {
+              "type": "string",
+              "format": "date"
+            },
+            {
+              "type": "integer",
+              "format": "unix-time"
+            }
+          ]
+        },
+        "weight": {
+          "type": "number",
+          "default": 99
+        },
+        "draft": {
+          "type": "boolean",
+          "default": false
+        },
+        "keywords": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "sections": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "description": {
+          "type": "string"
+        },
+        "type": {
+          "type": "string"
+        },
+        "card_image": {
+          "type": "string"
+        },
+        "bg": {
+          "type": "string"
+        },
+        "flag": {
+          "type": "string"
+        },
+        "flag_height": {
+          "type": "string"
+        },
+        "title_prefix": {
+          "type": "string"
+        },
+        "title_suffix": {
+          "type": "string"
+        },
+        "additional_icon": {
+          "type": "string"
+        },
+        "jetro_detail": {
+          "type": "boolean",
+          "default": false
+        },
+        "jogmec_detail": {
+          "type": "boolean",
+          "default": false
+        },
+        "plonkit": {
+          "type": "boolean",
+          "default": false
+        },
+        "plonkit_url": {
+          "type": "string"
+        },
+        "dont_show_usda": {
+          "type": "boolean",
+          "default": false
+        },
+        "no_jetro": {
+          "type": "boolean",
+          "default": false
+        },
+        "no_detaile_info": {
+          "type": "boolean",
+          "default": false
+        },
+        "no_rel_site": {
+          "type": "boolean",
+          "default": false
+        },
+        "is_has_distinctive_googlecar": {
+          "type": "boolean",
+          "default": false
+        },
+        "is_has_many_trekker": {
+          "type": "boolean",
+          "default": false
+        },
+        "is_has_distinctive_bollard": {
+          "type": "boolean",
+          "default": false
+        },
+        "is_unofficial": {
+          "type": "boolean",
+          "default": false
+        },
+        "is_pref": {
+          "type": "boolean",
+          "default": false
+        },
+        "hidden": {
+          "type": "boolean",
+          "default": false
+        },
+        "sc_title": {
+          "type": "string"
+        },
+        "sc": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "map_title": {
+          "type": "string"
+        },
+        "maps": {
+          "type": "array",
+          "items": {
+            "type": "array",
+            "minItems": 2,
+            "maxItems": 2,
+            "items": [
+              {
+                "type": "string"
+              },
+              {
+                "type": "string"
+              }
+            ]
+          }
+        },
+        "mapName": {
+          "type": "string"
+        },
+        "map_index": {
+          "type": "string"
+        },
+        "additional_map_class": {
+          "type": "string"
+        },
+        "add_rule_link": {
+          "type": "boolean",
+          "default": false
+        },
+        "add_flagindex": {
+          "type": "boolean",
+          "default": false
+        },
+        "import_jquery_36": {
+          "type": "boolean",
+          "default": false
+        },
+        "use_polish_font": {
+          "type": "boolean",
+          "default": false
+        },
+        "sumnail_mk": {
+          "type": "boolean",
+          "default": false
+        },
+        "seo_title": {
+          "type": "string"
+        },
+        "seo_description": {
+          "type": "string"
+        },
+        "og_image": {
+          "type": "string"
+        },
+        "social_image": {
+          "type": "string"
+        },
+        "image_alt": {
+          "type": "string"
+        },
+        "canonical": {
+          "type": "string"
+        },
+        "robots": {
+          "type": "string"
+        },
+        "noindex": {
+          "type": "boolean",
+          "default": false
+        },
+        "faq": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "question": {
+                "type": "string"
+              },
+              "answer": {
+                "type": "string"
+              }
+            },
+            "required": [
+              "question",
+              "answer"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "videos": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": {
+                "type": "string"
+              },
+              "title": {
+                "type": "string"
+              },
+              "description": {
+                "type": "string"
+              },
+              "uploadDate": {
+                "type": "string"
+              },
+              "thumbnailUrl": {
+                "type": "string"
+              },
+              "embedUrl": {
+                "type": "string"
+              },
+              "contentUrl": {
+                "type": "string"
+              },
+              "short": {
+                "type": "boolean",
+                "default": false
+              }
+            },
+            "required": [
+              "title"
+            ],
+            "additionalProperties": false
+          }
+        },
+        "page_no": {
+          "type": "string"
+        },
+        "menuTitle": {
+          "type": "string"
+        },
+        "Pre": {
+          "type": "string"
+        },
+        "Post": {
+          "type": "string"
+        },
+        "head": {
+          "type": "string"
+        },
+        "bgf": {
+          "type": "boolean",
+          "default": false
+        },
+        "author": {
+          "type": "string"
+        },
+        "authors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

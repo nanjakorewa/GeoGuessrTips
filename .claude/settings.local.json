@@ -1,0 +1,18 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips log --oneline --all)",
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips branch -a)",
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips show-branch feat/astro main)",
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips diff main..feat/astro --name-status)",
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips log feat/astro..main --oneline)",
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips log --oneline feat/astro)",
+      "Bash(git -C /c/Users/nanja-win-ms/workspace/GeoGuessrTips status)",
+      "Bash(xargs -I {} bash -c 'echo \"\"File: {}\"\"; head -30 \"\"{}\"\"')",
+      "Bash(for lang in ja en id es pt)",
+      "Bash(do echo -n \"$lang: \")",
+      "Bash(find \"c:/Users/nanja-win-ms/workspace/GeoGuessrTips/content\" -name \"*.$lang.md\")",
+      "Bash(done)"
+    ]
+  }
+}

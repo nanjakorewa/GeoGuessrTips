@@ -1,0 +1,377 @@
+---
+title: "繧ｳ繝ｭ繝ｳ繝薙い"
+date: 2023-02-26
+lastmod: 2023-07-01
+weight: 2
+draft: false
+keywords: [""]
+sections: [""]
+bg: "bg/city.jpg"
+flag: "CO.svg"
+jetro_detail: true
+jogmec_detail: true
+plonkit: true
+map_title: "邱ｴ鄙堤畑繝槭ャ繝"
+maps: [
+    ["https://www.geoguessr.com/maps/64ae284d987ca44485196743", "mx vs co"],
+    ]
+sc_title: "髢馴＆縺医ｄ縺吶＞蝨ｰ蝓"
+sc: [
+    ["../brazil/", "繝悶Λ繧ｸ繝ｫ"],
+    ["../ecuador/", "繧ｨ繧ｯ繧｢繝峨Ν"],
+    ["../../n_america/mexico/", "繝｡繧ｭ繧ｷ繧ｳ"],
+    ]
+---
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
+    <ul class="rule-list">
+        <li>繝峨Γ繧､繝ｳ縺ｯ<span class="quiz">.co</span></li>
+        <li>險隱槭ｯ<span class="quiz">繧ｹ繝壹う繝ｳ</span>隱</li>
+        <li>霍ｯ蛛ｴ蟶ｯ縺ｯ<span class="quiz">逋ｽ</span>縺ｧ荳ｭ螟ｮ邱壹ｯ<span class="quiz">鮟濶ｲ</span></li>
+        <li>繝翫Φ繝舌ｼ繝励Ξ繝ｼ繝医ｯ<span class="quiz">蜑榊ｾ悟ｱ縺ｫ鮟濶ｲ</span></li>
+        <li>讓呵ｭ倥ｮ閭碁擇縺ｫ縺ｯ<span class="quiz">繧ｯ繝ｭ繧ｹ</span>縺悟ｭ伜惠縺吶ｋ{{% by %}}</li>
+    </ul>
+    {{% rd cs_america colombia verysmall %}}
+    {{% corp "cs_america/colombia" "" %}}
+</div>
+
+{{% tabs %}}
+{{% tab "w-etf" %}}
+{{% notice tip %}}
+讓呵ｭ倥ｮ閭碁擇縺ｫ縺ｯ<span class="quiz">繧ｯ繝ｭ繧ｹｼ医＞繧上ｆ繧九さ繝ｭ繝ｳ繝薙い繧ｯ繝ｭ繧ｹｼ</span>縺悟ｭ伜惠縺吶ｋ縲ょｾ後ｍ縺九ｉ隕九ｋ縺ｨ縺ｯ縺｣縺阪ｊ縺ｨ繧ｯ繝ｭ繧ｹ縺瑚ｦ九∴縺ｦ{{% ex "https://goo.gl/maps/umFvBZ3iCPzbUSHw8" "https://maps.app.goo.gl/LKsQoKCVRoey12zX7" "https://goo.gl/maps/mondUTCSrV49gDxf7" "https://goo.gl/maps/RVAVywD43tw816wSA" "https://goo.gl/maps/6otRk7NoBRaqDkVS7" "https://goo.gl/maps/9rK7bxQje3Uq8V1P6" "https://goo.gl/maps/xmHuJRTwretWByu88" %}}縲∝燕縺九ｉ隕九ｋ縺ｨ繝阪ず縺鯉ｼ斐▽隕九∴繧宮{% ex "https://maps.app.goo.gl/1HmKUtG9pEmAq2fF9" "https://maps.app.goo.gl/hcU1fFzbteDvtMBM7" "https://maps.app.goo.gl/quCFXSw8k2NeraSA7" "https://goo.gl/maps/N6eBR3bpaCM4A9d5A" "https://goo.gl/maps/dksE8cbz5hb5x63c9" "https://goo.gl/maps/hn38pxPFVNJkPbVg6" "https://goo.gl/maps/ix3caJieyYEuBegU8" %}}{{% imref %}}縲ゅ昴ｼ繝ｫ繧陬城擇縺ｯ逋ｽ縺悟､壹＞蜊ｰ雎｡縲
+{{% /notice %}}
+
+
+{{% notice info %}}
+{{% goto "../../n_america/mexico/" "繝｡繧ｭ繧ｷ繧ｳ" %}}縺ｮ繝√Ρ繝ｯ蟾槭ｮ逵区攸縺ｫ繧ゅけ繝ｭ繧ｹ縺後≠繧九％縺ｨ繧偵▽縺縺ｧ縺ｫ隕壹∴縺ｦ縺翫￥縺ｨ縺縺､縺句ｽｹ縺ｫ遶九▽縺九ｂ{{% ex "https://maps.app.goo.gl/Q42ircfBVPragi7P8" "https://maps.app.goo.gl/JQ3Ppn81P2GvPDqo6" %}}ｼ医メ繝ｯ繝ｯ繧ｯ繝ｭ繧ｹｼ滂ｼ峨
+{{% /notice %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-sign-example.jpg" width="85%" />
+</div>
+
+<div class="googlemap-if unclickable no-margin">
+<img src="./road-sign.jpg" width="85%" />
+</div>
+
+
+{{% notice tip %}}
+繝翫Φ繝舌ｼ繝励Ξ繝ｼ繝医ｯ<span class="quiz">蜑榊ｾ悟ｱ縺ｫ鮟濶ｲ</span>{{% ex "https://goo.gl/maps/mtDDAubUDqPy2FSx6" "https://maps.app.goo.gl/UtsivYwGPVzLtixu7" "https://maps.app.goo.gl/Ri92tiH3x2t1gtY76" "https://goo.gl/maps/yG6qp4yawxfFwJ8g9" %}}縺狗區濶ｲ縲ゅヰ繧､繧ｯ繧ょｾ後ｍ縺ｫ<span class="quiz">鮟濶ｲ</span>繝翫Φ繝舌ｼ縺御ｻ倥＞縺ｦ縺繧宮{% ex "https://maps.app.goo.gl/CKaBrxdTKRwKQt3B7" "https://goo.gl/maps/ioKuh671aisPUg956" %}}縲{{% goto "../peru/" "繝壹Ν繝ｼ" %}}縺ｫ繧るｻ濶ｲ縺繧ゅｮ縺後≠繧九′繧ｳ繝ｭ繝ｳ繝薙い縺ｯ縺吶％縺励が繝ｬ繝ｳ繧ｸ濶ｲ縺ｫ霑代＞縲
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./lp.jpg" width="95%">
+</div>
+
+{{% lb 50 %}}
+![繧ｳ繝ｭ繝ｳ繝薙い縺ｮ繝翫Φ繝舌ｼ繝励Ξ繝ｼ繝](./licenceplate.png)
+
+閾ｪ菴
+{{% /lb %}}
+
+{{% notice tip %}}
+驕鍋ｫｯ縺ｮ譛牙絢驩邱壹′蠑ｵ繧峨ｌ縺滓惠縺ｮ譟ｵ繧ょ､壹￥隕九ｉ繧後ｋ{{% ex "https://maps.app.goo.gl/TjLgE6QJ2uantEWf6" "https://maps.app.goo.gl/opfmbc998ESrUaFr7" "https://goo.gl/maps/n3QDSqGcSp4GUaT97" "https://goo.gl/maps/ejLs1vMSsRVZx3hD6" "https://goo.gl/maps/NwVVi6XCWesP7vhdA" "https://goo.gl/maps/8GFMAjWhKx7Qj5BF8" "https://goo.gl/maps/GJVWJoqLDYXLf3i68" "https://goo.gl/maps/qkD6pmXHQU97cUa68" %}}縲
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="./roadside.jpg" width="95%">
+</div>
+
+
+{{% /tab %}}
+{{% tab "w-road" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679138005508!6m8!1m7!1sIS7P4fzaicRfinbA0j5TRw!2m2!1d3.396441393668646!2d-76.52339001433994!3f136.71002847658113!4f-4.691034225921541!5f2.908818923327662" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679137921739!6m8!1m7!1sTVla3KChW9nZzIzHjNIHlA!2m2!1d2.516340478781876!2d-76.50260350297357!3f38.38964881780703!4f2.329973697644803!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "w-viecle" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679138121122!6m8!1m7!1s8SXbik_yGaQLNRhtJ09C9w!2m2!1d3.409759690878096!2d-76.34769438237707!3f257.9149055646081!4f-17.67114175853544!5f3.310312940442755" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1679813576129!6m8!1m7!1slrDq90ex1FOkTtQRvay6uQ!2m2!1d2.457006309841755!2d-76.59672523907327!3f38.54073997962945!4f-8.688211803202734!5f3.325193203789971" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% tab "youtube" %}}
+<div class="googlemap-if youtube-short">
+<iframe width="300" height="533" src="https://www.youtube.com/embed/HPA9Df2Pt5k" title="遘ｻ蜍輔○縺壹↓蝗ｽ繧貞ｽ薙※繧峨ｌ繧具ｼ溘ヱ繝ｼ繝3 #geoguesser #繧ｸ繧ｪ繧ｲ繝繧ｵ繝ｼ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="image-row-booth">
+    <h2>繧ｳ繝ｭ繝ｳ繝薙い髢｢騾｣繧ｰ繝繧ｺ</h2>
+    <div class="image-item-lg">
+        <a href="https://nanjakorewa.booth.pm/items/7090759" target="_blank">
+            <img src="b48f3e0a-6902-4008-8323-b15de46b33cd.png" alt="逕ｻ蜒3">
+        </a>
+        <!-- <div class="caption">蝠蜩√ち繧､繝医Ν1</div>-->
+    </div>
+</div>
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <ul class="rule-list">
+        <li>讀咲函縺ｮ蛻蟶
+            <ul>
+                <li>繝｡繧ｿ蟾晄ｵ∝沺ｽ槫漉譚ｱ縺ｮ繧ｨ繝ｪ繧｢{{% color "#DBB522" %}}繧｢繝槭だ繝ｳ縺ｫ霑代￥縺ｪ繧雁悄繧りｵ､縺上↑繧宮{% ex "https://maps.app.goo.gl/dnZU9hzFGR53qcP69" %}}</li>
+                <li>蛹玲擲縺ｮ蜀髯ｸ{{% color "#BDAA60" %}}繝｡繧ｿ蟾昴ｈ繧雁圏縺ｯ譬鬢翫′蟆代↑縺蝨溷｣鶏{% ref "https://en.wikipedia.org/wiki/Meta_River" "Meta River" %}}縲ょｨ菴鍋噪縺ｫ蟷ｳ蝮ｦ縺ｧ縺ゅｊ繧ｵ繝舌Φ繝翫ｮ繧医≧縺ｪ蝨ｰ蝓溘ｂ縺ゅｋ縲りレ縺ｮ鬮倥＞譛ｨ縺ｯ閧ｲ縺溘↑縺к{% ex "https://maps.app.goo.gl/mFGBzyfSbAWnYdEH6" "https://maps.app.goo.gl/QFp8cLMk7XLgSc5JA" %}}縲</li>
+                <li>譛蛹励ｮ豬ｷ豐ｿ縺к{% color "#FFF4CE" %}}遐よｼ縺後≠繧九お繝ｪ繧｢{{% ex "https://maps.app.goo.gl/oYEpDuVgXBMZHi4z5" %}}</li>
+                <li>蛹励ｮ豬ｷ豐ｿ縺к{% color "#FFD37F" %}}逋ｽ縺遐ゅ′隕九∴縺溘ｊ陦嶺ｸｭ縺ｮ驕楢ｷｯ縺ｮ隗偵↓遐ゅ′縺溘∪縺｣縺ｦ縺繧九％縺ｨ縺後≠繧宮{% ex "https://maps.app.goo.gl/kHgoHB4fA9Dmq6xw7" "https://maps.app.goo.gl/ntuZu5v7CPgBsBGSA" %}}
+            </ul>
+        </li>
+    </ul>
+</div>
+
+
+{{% tabs %}}
+{{% tab "讀咲函" %}}
+<div class="googlemap-if unclickable no-margin">
+<img src="./pone.0043943.g001.png" width="80%" />
+</div>
+
+{{% notice tip %}}{{% ref "https://doi.org/10.1371/journal.pone.0043943" "Sﾃ｡nchez-Cuervo, A. M., Aide, T. M., Clark, M. L., & Etter, A. (2012). Land Cover Change in Colombia: Surprising Forest Recovery Trends between 2001 and 2010. PLOS ONE, 7(8), e43943. https://doi.org/10.1371/journal.pone.0043943" %}}
+{{% /notice %}}
+
+{{% /tab %}}
+{{% tab "繝｡繧ｿ蟾昴ｈ繧雁漉譚ｱ" %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1724643610859!6m8!1m7!1sBIcNt4xsnUfokjXCybOgHg!2m2!1d4.602275365601597!2d-71.32989609669042!3f286.654692572383!4f0.7336775861570146!5f0.7820865974627469" width="50%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1724643692274!6m8!1m7!1sVt5r5LBc2uuz28unKhKePw!2m2!1d5.142917721291913!2d-70.85523539217012!3f64.50154964757415!4f-6.841048431238178!5f0.7820865974627469" width="50%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "蛹玲擲縺ｮ蜀髯ｸ" %}}
+
+{{% notice tip %}}繧｢繝ｳ繝繧ｹ譚ｱ螻ｱ閼医ｮ譚ｱ蛛ｴ縲ょｹｳ蝮ｦ縺ｪ蝨溷慍縺悟ｺ縺後▲縺ｦ縺縺ｦ縲√Γ繧ｿ蟾晄ｲｿ縺縺ｯ譬鬢翫′蟆代↑縺蝨溷｣後〒讀咲黄繧ょｰ代↑縺縲
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698477978676!6m8!1m7!1sJ7PxXLjpjpVyDVlXzarldg!2m2!1d5.83751805366215!2d-71.56842506393753!3f96.78577479284539!4f-4.90967899975233!5f0.4000000000000002" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1695093011695!6m8!1m7!1sYS6llO69H9wDnK4lXZMVjg!2m2!1d4.62827564681296!2d-71.51255306646532!3f98.38560507105616!4f9.95777762781087!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% notice info %}}荳九ｮ蝗ｳ縺ｮ譚ｱ縺ｮ蟷ｳ蝮ｦ縺ｪ繧ｨ繝ｪ繧｢繧呈欠縺励※縺繧
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Mapa_de_Colombia_(relieve).svg#/media/File:Mapa_de_Colombia_(relieve).svg"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Mapa_de_Colombia_%28relieve%29.svg" alt="Mapa de Colombia (relieve).svg" height="720" width="638"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Milenioscuro" title="User:Milenioscuro">Milenioscuro</a> - <span class="int-own-work" lang="en">Own work</span><a rel="nofollow" class="external text" href="http://www.demis.nl/home/pages/Gallery/examples.htm">Demis</a><a rel="nofollow" class="external text" href="http://mapascolombia.igac.gov.co/wps/portal/mapasdecolombia/">Instituto Geogrﾃ｡fico Agustﾃｭn Codazzi</a> - <a rel="nofollow" class="external text" href="http://190.254.22.44/mapas_de_colombia/IGAC/Oficial_F2004.pdf">Mapa oficial de la Repﾃｺblica de Colombia</a><a rel="nofollow" class="external text" href="https://web.archive.org/web/20090419184417/http://www.state.gov/g/oes/ocns/opa/convention/c16065.htm">U.S. Department of State</a> - <a rel="nofollow" class="external text" href="http://www.law.fsu.edu/library/collection/LimitsinSeas/numerical.html">Limits in the Seas</a><a rel="nofollow" class="external text" href="http://www.lablaa.org/blaavirtual/geografia/ctemc/ctemc02.htm">Biblioteca Luis ﾃ］gel Arango - La territorializaciﾃｳn del Mar Caribe</a><a rel="nofollow" class="external text" href="http://www.armada.mil.co/index.php?idcategoria=17895">Armada Nacional de Colombia - Tratados Limﾃｭtrofes Marﾃｭtimos de la Repﾃｺblica de Colombia</a>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=5996689">Link</a></p>
+</div>
+
+
+{{% /tab %}}
+{{% tab "譛蛹励ｮ豬ｷ豐ｿ縺" %}}
+
+{{% notice tip %}}遐よｼ縺ｫ霑代＞蝨溷｣後′蠎縺後▲縺ｦ縺繧九
+{{% /notice %}}
+
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698478231917!6m8!1m7!1sXYa1y5q7TWzM83XW_5REOQ!2m2!1d12.22138283185131!2d-72.00399523440888!3f159.2251834180408!4f8.102522936338175!5f0.4466155912658266" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!4v1698478274621!6m8!1m7!1s7UcHWQsa0hieX278UgxqWQ!2m2!1d11.99291092021987!2d-72.13943591872511!3f198.742220149102!4f-0.7741004515764303!5f0.7820865974627469" width="50%" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+
+{{% /tab %}}
+{{% tab "蛹励ｮ豬ｷ豐ｿ縺" %}}
+{{% notice tip %}}蜀咏悄縺ｯ諱舌ｉ縺上ヰ繝ｩ繝ｳ繧ｭ繝ｼ繧ｸ繝｣蜻ｨ霎ｺ縺ｮ驕楢ｷｯ{{% ref "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%83%B3%E3%82%AD%E3%83%BC%E3%82%B8%E3%83%A3" "繝舌Λ繝ｳ繧ｭ繝ｼ繧ｸ繝｣" %}}縲
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./barranquilla_autopista_al_mar.jpg">
+</div>
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">霎ｲ讌ｭ</h4>
+    <ul class="rule-list">
+        <li>蟷ｳ蝮ｦ縺ｪ蝨ｰ蝓溘↑繧峨ｰ霎ｲ讌ｭ繧偵＠縺ｦ縺繧九′蟷ｳ蝮ｦ縺ｪ蝨ｰ蝓溘′蟆代↑縺縺ｮ縺ｧ蠖ｹ縺ｫ遶九▽繧ｿ繧､繝溘Φ繧ｰ縺ｯ縺昴％縺ｾ縺ｧ螟壹￥縺ｪ縺к{% ref "https://ipad.fas.usda.gov/rssiws/al/nsa_cropprod.aspx" "USDA - Northern South America - Crop Production Maps" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "繧｢繝悶Λ繝､繧ｷ" %}}
+{{% notice tip %}}
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Palm_Oil.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+襍､<span style="color:red">笳</span>縺悟､壹＞Meta逵鶏{% ex "https://maps.app.goo.gl/z5E2jQZ5XwDzgYKx8" "https://maps.app.goo.gl/62tmUSsudPqCvyf48" %}}繧Тantander逵悟圏驛ｨ{{% ex "https://maps.app.goo.gl/NGpuwhXAoRxjNYVd8" "https://maps.app.goo.gl/Be4i5M7nS9vYZXKL6" %}}縺ｪ縺ｩ縺ｫ莠ｺ蟾･逧縺ｪ繝励Λ繝ｳ繝繝ｼ繧ｷ繝ｧ繝ｳ縺後≠繧九ゆｾ句､悶ｂ縺ゅｋ{{% ex "https://maps.app.goo.gl/VpmPXVeaEf6C8M4k8" %}}縲
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "繧ｵ繝医え繧ｭ繝" %}}
+<div class="googlemap-if no-margin">
+<img src="./agriculture_sugar_cane_crop.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+Valle del Cauca逵悟捉繧翫ｮ蟷ｳ蝮ｦ縺ｪ繧ｨ繝ｪ繧｢{{% ex "https://maps.app.goo.gl/5Z6bNezN6m5KHsmYA" "https://maps.app.goo.gl/Sr3izseKbcSKhmDt9" %}}縲ゅさ繝ｭ繝ｳ繝薙い縺ｯ繧ｵ繝医え繧ｭ繝薙ｒ逕ｨ縺縺溘ヰ繧､繧ｪ繧ｨ繧ｿ繝弱ｼ繝ｫ縺ｮ逕溽肇縺ｧ譛牙錐縺ｧ縺ゅｊ縲√し繝医え繧ｭ繝薙ｮ80%縺ｯValle del Cauca逵檎肇縺{{% ref "https://news.mongabay.com/2017/03/colombias-cane-industry-efficient-but-potentially-damaging/" "Colombia窶冱 cane industry efficient but potentially damaging" %}}縲
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "繧ｳ繝繝医Φ" %}}
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Cotton.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+隕九◆縺薙→縺ｪ縺縺代←縲∬ｦ九▽縺代◆縺ｪ繧欝olima{{% ex "https://maps.app.goo.gl/NutA4CKiU1YJ6oQE9" "https://maps.app.goo.gl/ReXs9CBYXA1ap1oK6" "https://maps.app.goo.gl/vSDWTrUAG43CvDUR9" %}}縺気ordoba{{% ex "https://maps.app.goo.gl/wdDdnqh9z2ULrBrb7" "https://maps.app.goo.gl/p3Jp1aqoJ8L9U7yk6" "https://maps.app.goo.gl/GFqX2UAsyMBnGcuPA" %}}縲
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% tab "繧ｳ繝｡" %}}
+<div class="googlemap-if no-margin">
+<img src="./Colombia_Rice.jpg" width="90%">
+</div>
+
+{{% notice tip %}}
+邏50%縺卦olima{{% ex "https://maps.app.goo.gl/4LiWNSs1KafdmKjg8" "https://maps.app.goo.gl/Dj7qwjAegnrjapqi7" "https://maps.app.goo.gl/eDzgYtYwfuY83JMHA" %}}縺縺代←逕ｰ繧薙⊂閾ｪ菴薙Ξ繧｢縲ょ漉蛛ｴ縺ｫ螟壹＞縺悟圏譚ｱ縺ｮNorte de Santander逵後↓豬√ｌ繧句ｷ晄ｲｿ縺縺ｮ蟷ｳ蝮ｦ縺ｪ繧ｨ繝ｪ繧｢縺ｧ繧ゅ≠繧雁ｾ励ｋ{{% ex "https://maps.app.goo.gl/UhoEvu7s8ffe5ure8" "https://maps.app.goo.gl/39NQhnLV3RGxpVpVA" %}}縲
+{{% /notice %}}
+
+
+{{% /tab %}}
+{{% /tabs %}}
+
+<div class="main-desciption area-description">
+    <ul class="rule-list">
+        <li>Buenaventura縺ｸ縺ｮ驕薙ｯ繧ｳ繝ｳ繝繝翫ｒ遨阪ｓ縺繝医Λ繝繧ｯ縺悟､壹￥隕九ｉ繧後ｋ</li>
+        <li>髮ｻ譟ｱ縺ｫ鮟濶ｲ縺ｨ鮟偵ｮ繝ｩ繧､繝ｳ縺後≠繧九→<span class="quiz">Antioquia</span>逵後°繧</li>
+        <li>繝懊Λ繝ｼ繝峨↓驕楢ｷｯ逡ｪ蜿ｷ縺梧嶌縺九ｌ縺ｦ縺繧宮{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "縲触eoGuessr縲第ｰ励▼縺阪↓縺上＞驕楢ｷｯ逡ｪ蜿ｷ繧定ｪｭ縺ｿ蜿悶ｋ - 迢舌ｮ縺繧狗･樒､ｾ-GeoGuessr縺ｨ縺昴ｮ莉" %}}</li>
+        <li>{{% goto "../../n_america/sapd/" "繧ｵ繝ｳ繝ｻ繧｢繝ｳ繝峨Ξ繧ｹ繝ｻ繝励Ο繝薙ョ繝ｳ繧ｷ繧｢繝ｻ繧､繝ｻ繧ｵ繝ｳ繧ｿ繝ｻ繧ｫ繧ｿ繝ｪ繝ｼ繝願ｫｸ蟲ｶ" %}}縺ｯGoogle Car縺檎音蠕ｴ逧</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Buenaventura縺ｸ縺ｮ驕" %}}
+{{% notice tip %}}Buenaventura縺ｯ繧ｳ繝ｭ繝ｳ繝薙い縺ｮ荳ｻ隕∵ｸｯ縺ｧ縺ゅｊ繧ｳ繝ｭ繝ｳ繝薙い縺ｫ縺翫￠繧区ｵｷ荳願ｼｸ蜃ｺ蜈･縺ｮ邏60ｼ繧貞頃繧√※縺繧九ゅ◎縺ｮ縺溘ａ貂ｯ縺ｸ邯壹￥驕薙ｯ繧ｳ繝ｳ繝繝翫ｒ遨阪ｓ縺繝医Λ繝繧ｯ縺悟､壹＞蜊ｰ雎｡{{% ex "https://maps.app.goo.gl/noR9PSVsCZvTEtgj6" "https://maps.app.goo.gl/fEAFR3KLouXZZDam9" "https://maps.app.goo.gl/sh53HT2txRDVmKnX8" "https://maps.app.goo.gl/bHNE9CD9ytEhHx927" %}}縲{{% goto "https://x.com/one_line_japan" "ONE" %}}縺ｮ繧ｳ繝ｳ繝繝翫ｂ隕九▽縺九ｋ{{% ex "https://maps.app.goo.gl/FxAnM5UQXLj9qTCE9" %}}縲
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./aahus_port_container_loading.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Antioquia" %}}
+{{% notice tip %}}Medellﾃｭn繧剃ｸｭ蠢縺ｨ縺励◆蝣ｴ謇縺ｫ髮ｻ譟ｱ縺ｫ鮟濶ｲ縺ｨ鮟偵ｮ繝ｩ繧､繝ｳ縺後≠繧宮{% ex "https://maps.app.goo.gl/QZVcAQAsEd9QMms97" "https://maps.app.goo.gl/31b8AiKyXpmDrwoW9" "https://goo.gl/maps/FwAgZsF3RCocvdvu9" "https://goo.gl/maps/aZ8QFFzfcmVPDiSEA" "https://goo.gl/maps/7bP4UyS2HYaVBypF6" %}}
+{{% /notice %}}
+<div class="googlemap-if unclickable">
+<img src="ar236201.jpg" width="95%" />
+</div>
+{{% /tab %}}
+{{% tab "繝懊Λ繝ｼ繝" %}}
+{{% notice tip %}}繝懊Λ繝ｼ繝峨↓驕楢ｷｯ逡ｪ蜿ｷ縺梧嶌縺九ｌ縺ｦ縺繧宮{% ref "https://ninfox3.blogspot.com/2023/06/geoguessr.html" "縲触eoGuessr縲第ｰ励▼縺阪↓縺上＞驕楢ｷｯ逡ｪ蜿ｷ繧定ｪｭ縺ｿ蜿悶ｋ - 迢舌ｮ縺繧狗･樒､ｾ-GeoGuessr縺ｨ縺昴ｮ莉" %}}縲
+{{% /notice %}}
+
+<div class="googlemap-if">
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/jimmysoda/7384049646/" title="Colombia: Ruta Nacional 62, tramo 06, km 00"><img src="https://live.staticflickr.com/5349/7384049646_4bd46ab073_z.jpg" width="640" height="480" alt="Colombia: Ruta Nacional 62, tramo 06, km 00"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+</div>
+
+<div class="googlemap-if unclickable">
+<img src="./r/bollard.png" width="70px">
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+
+
+<div class="main-desciption city-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>繧ｿ繧ｯ繧ｷ繝ｼ繧繝医Λ繝繧ｯ縺ｮ螻区ｹ縺ｾ縺溘ｯ蛛ｴ髱｢縺ｫ繧ｵ繧､繝峨励Ξ繝ｼ繝医′縺ゅｊ<span class="quiz">驛ｽ蟶ょ錐</span>縺梧嶌縺縺ｦ縺ゅｋ</li>
+        <li>Tierra Bomba蟲ｶ縺ｮBocachica縺ｨ縺縺逕ｺ繧呈ｭｩ縺縺ｦ縺繧宮{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}</li>
+        <li>{{% goto "../brazil/" "繝悶Λ繧ｸ繝ｫ" %}}縺ｨ{{% goto "../peru/" "繝壹Ν繝ｼ" %}}縺ｮ蝗ｽ蠅莉倩ｿ代↓Leticia縺ｨ縺縺逕ｺ縺後≠繧絵oogle Car縺瑚ｦ九∴繧宮{% ref "https://www.plonkit.net/colombia" "plonkit" %}}</li>
+        <li>Gorgona蟲ｶ繧呈ｭｩ縺縺ｦ縺繧</li>
+        <li>莉悶ｮ逕ｺ縺後ｉ髮｢繧後◆蝣ｴ謇縺ｫ縺ゅｋSanta Rosalﾃｭa縺ｨ縺縺逕ｺ縺ｫ繧上★縺九↓繧ｹ繝医Μ繝ｼ繝医ン繝･繝ｼ縺後≠繧</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "繧ｵ繧､繝峨励Ξ繝ｼ繝" %}}
+{{% notice tip %}}繧ｹ繝繝繧ｫ繝ｼ縺ｫCARTAGENA縺ｨ譖ｸ縺九ｌ縺ｦ縺繧九ゅヨ繝ｩ繝繧ｯ縺ｮ螻区ｹ縺ｮ荳翫ｄ蛛ｴ髱｢縺ｫ繧よ嶌縺縺ｦ縺ゅｋ縺九ｂ{{% ex "https://maps.app.goo.gl/T35xx5AZiNMwhgj7A" "https://maps.app.goo.gl/kvSm7DqPk8vJcVxn6" %}}縲
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="./colombia_kartagena_south_america.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Bocachica" %}}
+{{% notice tip %}}隕∝｡槭ｮ縺ゅｋ髮｢蟲ｶ縺ｫ縺ゅｋ逕ｺ繧呈ｭｩ縺縺ｦ縺繧九ゆｸ邱偵↓豁ｩ縺縺ｦ縺上ｌ繧倶ｺｺ縺後＞繧宮{% ex "https://maps.app.goo.gl/tnvL8SjqQd4CHDqG6" "https://maps.app.goo.gl/yDRbRuG9E8VQ8Kbo8" %}}縲
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg#/media/File:Fuerte_de_San_Fernando_Cartagena_(2009)_02.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/Fuerte_de_San_Fernando_Cartagena_%282009%29_02.jpg" alt="Fuerte de San Fernando Cartagena (2009) 02.jpg" width="95%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Zandcee&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Zandcee (page does not exist)">Zandcee</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=97982081">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Leticia" %}}
+{{% notice tip %}}
+髯ｸ霍ｯ縺ｧ縺､縺ｪ縺後▲縺ｦ縺繧九ヶ繝ｩ繧ｸ繝ｫ縺ｮTabatinga縺ｨ邨梧ｸ育噪縺ｪ邨舌ｳ莉倥″縺悟ｼｷ縺к{% ref "https://en.wikipedia.org/wiki/Leticia,_Amazonas" "Leticia" %}}縲る崕譟ｱ繧ゅヶ繝ｩ繧ｸ繝ｫ縺ｫ縺ゅｋ繧医≧縺ｪ莉募繧翫ｮ縺ゅｋ髮ｻ譟ｱ縺瑚ｦ九ｉ繧後ｋ{{% ex "https://maps.app.goo.gl/btJCW9V9cdduzALK9" "https://maps.app.goo.gl/ZJboFDpNJfAQFJVm6" %}}縲りｦｳ蜈牙慍縺ｨ縺励※譬縺医※縺翫ｊ繧ｿ繧ｯ繧ｷ繝ｼ繧隕ｳ蜈牙ｮ｢縺悟､壹￥隕九▽縺九ｋ縲ら音蠕ｴ逧縺ｪGoogle Car縺瑚ｦ九ｉ繧後ｋ{{% ex "https://maps.app.goo.gl/7B17hRfCuapvnBad8" %}}縲
+{{% /notice %}}
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Leticia_Town_photograph.jpg#/media/File:Leticia_Town_photograph.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/8/8d/Leticia_Town_photograph.jpg" alt="Leticia Town photograph.jpg" height="521" width="840"></a></p><p>By Sascha Grabow <a rel="nofollow" class="external text" href="http://www.saschagrabow.com">www.saschagrabow.com</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=14129358">Link</a></p>
+</div>
+{{% /tab %}}
+{{% tab "Gorgona" %}}
+{{% notice tip %}}繧ｴ繝ｫ繧ｴ繝雁ｳｶ縺ｨ縺縺髮｢蟲ｶ縺後≠繧宮{% ex "https://maps.app.goo.gl/dPGaqM6CvXdLqwDp8" %}}縲
+{{% /notice %}}
+<div class="googlemap-if">
+<img src="hotel_in_gorgona.jpg">
+</div>
+{{% /tab %}}
+{{% tab "Santa Rosalﾃｭa" %}}
+<div class="googlemap-if">
+<iframe src="https://www.google.com/maps/embed?pb=!4v1722605929321!6m8!1m7!1sN34ZpOe8i46jyOiU0yY-sA!2m2!1d5.141897815010507!2d-70.85717884186371!3f252.56210245552822!4f-1.7194538988717767!5f0.4000000000000002" width="600" height="400" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+</div>
+{{% /tab %}}
+{{% /tabs %}}
+
+{{% imgref %}}
+<li>笳縺ｨ繧ゅ↓蜉蟾･縺ゅｊ繝ｻ讓呵ｭ倬Κ蛻縺ｮ縺ｿ蛻繧雁ｺ縺</li>
+<li>By <a href="//commons.wikimedia.org/wiki/User:EEIM" title="User:EEIM">EEIM</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/3.0" title="Creative Commons Attribution-Share Alike 3.0">CC BY-SA 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=63840438">Link</a></li>
+<li>By hfb21, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=52811696">Link</a></li>
+{{% /imgref %}}
+
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">莉｣陦ｨ逧縺ｪ莨∵･ｭ縺ｮ隱ｬ譏</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">莨∵･ｭ蜷</th>
+                <th scope="col" class="col-width-1">繧ｳ繝ｼ繝</th>
+                <th scope="col" class="col-width-7">隱ｬ譏</th>
+                <th scope="col" class="col-width-05">豎ｺ邂</th>
+                <th scope="col" class="col-width-05">驟榊ｽ灘ｱ･豁ｴ</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>Ecopetrol</td>
+                <td>{{% nasdaq "EC" %}}</td>
+                <td>繧ｳ繝ｭ繝ｳ繝薙い譛螟ｧ縺ｮ遏ｳ豐ｹ莨夂､ｾ縲</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "EC" %}}</td>
+            </tr>
+            <tr>
+                <td>Tecnoglass</td>
+                <td>{{% nasdaq "TGLS" %}}</td>
+                <td>蟒ｺ遽臥畑繧ｬ繝ｩ繧ｹ繝ｻ遯薙ｻ繧｢繝ｫ繝溯｣ｽ蜩√Γ繝ｼ繧ｫ繝ｼ縲ゅさ繝ｭ繝ｳ繝薙い縺ｮ莨∵･ｭ縺縺悟｣ｲ荳翫ｮｼ吝牡霑代￥縺ｯ繧｢繝｡繝ｪ繧ｫ蟶ょｴ縺ｫ繧医ｋ縲</td>
+                <td>{{% corplink "https://investors.tecnoglass.com/overview/default.aspx" %}}</td>
+                <td>{{% dividend "nasdaq" "TGLS" %}}</td>
+            </tr>
+            <tr>
+                <td>Bancolombia</td>
+                <td>{{% nasdaq "CIB" %}}</td>
+                <td>繧ｳ繝ｭ繝ｳ繝薙い繧繝壹Ν繝ｼ縲√げ繧｢繝繝槭Λ縺ｧ莠区･ｭ繧偵☆繧矩橿陦後</td>
+                <td>-</td>
+                <td>{{% dividend "nasdaq" "CIB" %}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
