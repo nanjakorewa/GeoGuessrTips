@@ -130,12 +130,12 @@ products:
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/4pkD4ef" 
     title="カンボジアを知るための60章【第3版】 (エリア・スタディーズ)"
     price="¥2,200"
     tagline="「アンコール遺跡」「貧困」「戦争」といった、固定したイメージで語られることの多かったカンボジアはいまグローバルな国に変貌した。新進気鋭な研究者を新たに執筆陣に迎え、豊富な資料とともに、経済・文化・社会に関する最新の情報を盛り込む、最新のカンボジア入門書。"
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">
@@ -234,4 +234,4 @@ Siem Reapにはアンコールワットやバイヨン寺院がある{{% ex "htt
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}

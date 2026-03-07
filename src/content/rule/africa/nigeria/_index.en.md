@@ -91,12 +91,12 @@ Seven Up seems to be popular{{% by "https://www.ide.go.jp/Japanese/Data/Africa_f
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/3KNNnbL" 
     title="Nigeria in 56 Chapters (Area Studies)"
     price="¥2,640"
     tagline="Nigeria in West Africa has a population of over 200 million and the largest GDP in Africa. Despite complex regional conflict and political instability since independence, it has not fully realized its potential, but its presence as the 'giant of Africa' is set to grow in the global economy."
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

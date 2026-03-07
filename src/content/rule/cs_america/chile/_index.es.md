@@ -246,7 +246,7 @@ Puerto Toro es la comunidad habitada más al sur.{{% ex "https://maps.app.goo.gl
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">Descripción de empresas representativas</h4>

@@ -309,4 +309,4 @@ Estaba caminando por un lugar turístico y vi "Koh Lipe" escrito en él.{{% ex "
 {{% /tabs %}}
 
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}

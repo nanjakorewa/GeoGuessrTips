@@ -127,12 +127,12 @@ Yacimientos Petrolíferos Fiscales Bolivianos (YPFB) は資源の探索と生産
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/4oHiync" 
     title="ボリビアを知るための65章【第3版】 (エリア・スタディーズ)"
     price="¥2,200"
     tagline="アンデスの山々やウユニ塩湖、アマゾンといった多様で豊かな自然を抱える国、ボリビア。この国の複雑な地形と自然は多様な文化をも生み出した。2006年のエボ・モラレス政権以降、民族の多様性に光が当てられ、2009年に国名を「ボリビア多民族国」と変更した。"
->}} 
+ %}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

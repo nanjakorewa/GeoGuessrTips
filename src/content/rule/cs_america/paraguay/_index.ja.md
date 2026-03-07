@@ -60,12 +60,12 @@ CC0
 {{% /tabs %}}
 
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/48E7Doi" 
     title="パラグアイを知るための50章 (エリアスタディーズ86)"
     price="¥2,480"
     tagline="南米大陸内陸の小国、パラグアイ。ブラジルとアルゼンチンという大国に接しながらも、先住民グアラニーのアイデンティティを取り込みつつ独自の発展を模索している。実は意外に深い日本とのつながりをはじめ、パラグアイの魅力を様々な角度から紹介する。"
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

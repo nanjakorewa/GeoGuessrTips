@@ -70,12 +70,12 @@ Warning signs are orange{{% ex "https://maps.app.goo.gl/4XtRNPAMgjEJrE7R9" %}}
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/4pruASK" 
     title="Understanding Modern Korea (3rd ed.)"
     price="¥2,200"
     tagline="East Asia is changing rapidly, and Korea is at the center of current tensions. This book explains what Korea is, its geography, historical formation, economic shifts, social issues, and culture."
->}} 
+ %}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

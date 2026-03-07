@@ -1,9 +1,9 @@
 ## Hugo (legacy, no longer used)
-themes/
-content/
-archetypes/
-i18n/
-config.toml
+/themes/
+/content/
+/archetypes/
+/i18n/
+/config.toml
 
 ## Astro / Node.js
 node_modules/

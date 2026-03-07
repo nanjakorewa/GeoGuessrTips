@@ -60,12 +60,12 @@ CC0
 {{% /tabs %}}
 
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/48E7Doi" 
     title="50 capítulos para conocer Paraguay (Area Studies 86)"
     price="¥2,480"
     tagline="Paraguay, pequeño país interior de Sudamérica, limita con los gigantes Brasil y Argentina mientras integra la identidad guaraní en su propio camino de desarrollo. Este libro explora sus lazos inesperados con Japón y muestra sus atractivos desde múltiples ángulos."
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

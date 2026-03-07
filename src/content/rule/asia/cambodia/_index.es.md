@@ -228,4 +228,4 @@ En Siem Reap, donde se ubica Angkor Wat, la normativa prohíbe edificios altos{{
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}

@@ -308,4 +308,4 @@ Public Domain
 {{% /tabs %}}
 
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}

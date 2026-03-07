@@ -60,12 +60,12 @@ CC0
 {{% /tabs %}}
 
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/48E7Doi" 
     title="50 Chapters to Understand Paraguay (Area Studies 86)"
     price="¥2,480"
     tagline="A small inland nation of South America, Paraguay borders the giants Brazil and Argentina while blending Guaraní identity into its own path of development. This book explores Paraguay’s unexpected ties with Japan and its charms from many angles."
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

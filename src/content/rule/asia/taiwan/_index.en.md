@@ -102,12 +102,12 @@ Very long, large buildings may be semiconductor factories{{% ex "https://maps.ap
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/48qvQzz"
     title="72 Chapters to Know Taiwan, 2nd Edition (Area Studies 147)"
     price="JPY 2,200"
     tagline="A concise area-studies book that introduces Taiwan's history, politics, economy, and culture across 72 short chapters. The second edition updates the latest social and political context with a focus on contemporary Taiwan."
->}} 
+ %}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

@@ -60,12 +60,12 @@ CC0
 {{% /tabs %}}
 
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/48E7Doi" 
     title="50 capítulos para conhecer o Paraguai (Area Studies 86)"
     price="¥2,480"
     tagline="Pequeno país sem saída para o mar na América do Sul, o Paraguai faz fronteira com os gigantes Brasil e Argentina, enquanto incorpora a identidade guarani ao seu próprio caminho de desenvolvimento. O livro explora laços inesperados com o Japão e apresenta seus encantos por diversos ângulos."
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

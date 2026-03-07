@@ -136,12 +136,12 @@ SDN BHD / BHD mean company / public company in Malaysia
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/3KDtDaD" 
     title="Malaysia in 58 Chapters (Area Studies)"
     price="¥2,200"
     tagline="Malaysia consists of two main regions: the Malay Peninsula in the south of Indochina and the Borneo side across the South China Sea. This book introduces the country’s rich appeal formed by combining diverse elements."
->}} 
+ %}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>

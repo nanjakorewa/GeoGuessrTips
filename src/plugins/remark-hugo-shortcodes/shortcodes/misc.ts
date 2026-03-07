@@ -158,10 +158,13 @@ export function corpHandler(args: string[], lang: Language): string {
   return `<h4 class="section-title">${heading}</h4>\n<div class="sign-area">\n${images}\n</div>`;
 }
 
-/** amazoncard: {{< amazoncard url="..." title="..." image="..." price="..." tagline="..." badge="..." >}} */
+/** amazoncard: {{% amazoncard url="..." title="..." image="..." price="..." tagline="..." badge="..." %}} */
 export function amazoncardHandler(rawArgs: string): string {
+  // Normalize smart quotes (U+201C/U+201D) back to ASCII quotes
+  // remark-smartypants converts " to \u201C/\u201D which breaks param extraction
+  const normalized = rawArgs.replace(/[\u201C\u201D]/g, '"');
   const get = (key: string): string => {
-    const m = rawArgs.match(new RegExp(`${key}="([^"]*)"`));
+    const m = normalized.match(new RegExp(`${key}="([^"]*)"`));
     return m ? m[1] : "";
   };
   const url = get("url");

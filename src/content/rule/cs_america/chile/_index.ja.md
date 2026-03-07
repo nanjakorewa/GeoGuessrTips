@@ -238,7 +238,7 @@ Santiago de Chile付近にある木や草がまばらに生えた山が印象的
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

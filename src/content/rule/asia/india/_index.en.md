@@ -177,12 +177,12 @@ Self-made; approximate shape, not exact.
 </div>
 {{% /tab %}}
 {{% /tabs %}}
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/4iIaGQR" 
     title="Northeast India in 45 Chapters (Area Studies)"
     price="¥1,760"
     tagline="Northeast India, made up of eight states including Assam, has distinct ethnic, cultural, and religious features and has become a development focus in recent years. This book covers everything from geography to politics and explores the region’s diversity and complex history."
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

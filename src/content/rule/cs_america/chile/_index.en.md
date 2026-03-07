@@ -246,7 +246,7 @@ Puerto Toro is the southernmost inhabited community.{{% ex "https://maps.app.goo
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">Description of representative companies</h4>

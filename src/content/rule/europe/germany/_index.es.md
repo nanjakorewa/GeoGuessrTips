@@ -217,7 +217,7 @@ La densidad industrial varía mucho; GfK publicó un mapa con empleados manufact
 <li>Crédito del poste derecho: By <a href="//commons.wikimedia.org/w/index.php?title=User:Ralf_Krebs&amp;amp;action=edit&amp;amp;redlink=1" class="new" title="User:Ralf Krebs (page does not exist)">Ralf Krebs</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by/3.0" title="Creative Commons Attribution 3.0">CC BY 3.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=124966897">Link</a></li>
 {{% /imgref %}}
 
-{{< amazon-links >}}
+{{%  amazon-links  %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">Empresas representativas</h4>

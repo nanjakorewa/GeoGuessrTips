@@ -2,18 +2,17 @@
  * Remark plugin that transforms Hugo shortcode syntax into HTML.
  *
  * Processing strategy:
- * 1. Work on raw text content (before markdown parsing finalizes)
+ * 1. Work on text/html nodes in the AST after markdown parsing
  * 2. Process innermost shortcodes first, then outer containers
  * 3. Multiple passes to handle nesting (tabs > tab > notice)
  *
- * Since remark processes the AST after parsing, shortcodes that span
- * across markdown block boundaries need special handling. We operate
- * on the raw markdown string by hooking into the remark pipeline
- * at the earliest stage possible.
+ * IMPORTANT: All shortcodes must use {{% %}} syntax (not {{< >}})
+ * because remarkParse treats < and > as HTML, breaking the shortcode.
  */
 import type { Plugin } from "unified";
 import type { Root } from "mdast";
 import type { VFile } from "vfile";
+import { visit } from "unist-util-visit";
 import type { Language } from "../../lib/i18n-utils.ts";
 import {
   processBlockShortcode,
@@ -81,8 +80,9 @@ function processAllShortcodes(text: string, lang: Language): string {
   resetQuizState();
 
   // --- Pass 0: Named-param shortcodes (custom regex) ---
+  // amazoncard uses named params: {{% amazoncard url="..." title="..." %}}
   result = result.replace(
-    /\{\{<\s*amazoncard([\s\S]*?)>\}\}/g,
+    /\{\{%\s*amazoncard([\s\S]*?)%\}\}/g,
     (_match, rawArgs) => amazoncardHandler(rawArgs)
   );
 
@@ -161,25 +161,69 @@ function processAllShortcodes(text: string, lang: Language): string {
 /**
  * The remark plugin.
  *
- * We use a "beforeParse" approach: instead of walking the AST,
- * we pre-process the raw markdown string before remark parses it.
- * This is done by modifying the VFile contents.
+ * Walks the AST and processes shortcodes found in text and html nodes.
+ * Since {{% %}} syntax doesn't conflict with markdown parsing,
+ * shortcode text survives remarkParse intact in text nodes.
  */
+
 const remarkHugoShortcodes: Plugin<[], Root> = function () {
-  // Hook into the parser phase by modifying the file before parsing
-  const self = this;
-  const originalParse = self.parse;
-
-  self.parse = function (file: VFile) {
+  return function (tree: Root, file: VFile) {
     const lang = getLanguageFromVFile(file);
-    const raw = String(file);
-    const processed = processAllShortcodes(raw, lang);
 
-    // Update the file contents with processed shortcodes
-    file.value = processed;
+    // Process html nodes containing shortcodes
+    visit(tree, "html", (node: any) => {
+      if (/\{\{%/.test(node.value)) {
+        node.value = processAllShortcodes(node.value, lang);
+      }
+    });
 
-    // Call the original parser
-    return originalParse.call(this, file);
+    // Process text nodes within paragraphs
+    // Shortcodes in text nodes need to be converted to html nodes
+    visit(tree, "paragraph", (node: any, index: number | undefined, parent: any) => {
+      // Reassemble paragraph text from children
+      let raw = "";
+      let hasShortcode = false;
+      for (const child of node.children) {
+        if (child.type === "text") {
+          raw += child.value;
+          if (/\{\{%/.test(child.value)) hasShortcode = true;
+        } else if (child.type === "html") {
+          raw += child.value;
+          if (/\{\{%/.test(child.value)) hasShortcode = true;
+        } else if (child.type === "link") {
+          const linkText = child.children?.map((c: any) => c.value || "").join("") || "";
+          // If link text equals URL (autolink), restore as plain URL
+          if (linkText === child.url) {
+            raw += linkText;
+          } else {
+            raw += `[${linkText}](${child.url || ""})`;
+          }
+        } else if (child.type === "strong") {
+          const text = child.children?.map((c: any) => c.value || "").join("") || "";
+          raw += `**${text}**`;
+        } else if (child.type === "emphasis") {
+          const text = child.children?.map((c: any) => c.value || "").join("") || "";
+          raw += `*${text}*`;
+        } else if (child.type === "image") {
+          raw += `![${child.alt || ""}](${child.url || ""})`;
+        } else if (child.type === "inlineCode") {
+          raw += `\`${child.value}\``;
+        }
+      }
+
+      if (!hasShortcode) return;
+
+      const processed = processAllShortcodes(raw, lang);
+      if (processed === raw) return;
+
+      // Replace paragraph with processed HTML
+      if (parent && index !== undefined) {
+        parent.children[index] = {
+          type: "html",
+          value: processed,
+        };
+      }
+    });
   };
 };
 

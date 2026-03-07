@@ -60,12 +60,12 @@ CC0
 {{% /tabs %}}
 
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/48E7Doi" 
     title="50 Bab untuk Mengenal Paraguay (Area Studies 86)"
     price="¥2,480"
     tagline="Paraguay, negara kecil tanpa laut di Amerika Selatan, berbatasan dengan raksasa Brasil dan Argentina sambil memadukan identitas Guarani dalam jalur pembangunannya sendiri. Buku ini menggali keterkaitan tak terduga dengan Jepang serta pesonanya dari berbagai sudut."
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

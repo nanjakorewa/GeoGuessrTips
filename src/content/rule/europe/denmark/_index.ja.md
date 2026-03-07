@@ -115,12 +115,12 @@ public domain
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/4iEthgC" 
     title="デンマークを知るための70章【第2版】 (エリア・スタディーズ)"
     price="¥2,200"
     tagline="2009年の初版以来、約14年ぶりの改訂版。様変わりした政治・経済面はもちろん、教育・福祉・言語・文化といった項目もボリュームアップ。余裕をもって仕事と生活を楽しむデンマークの人々のライフスタイルと日本はどこが異なるのか。旅行ガイドでは分からないデンマークの真の姿がここにある！"
->}} 
+ %}} 
 
 
 <div class="main-desciption area-description">

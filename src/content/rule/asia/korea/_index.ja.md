@@ -70,12 +70,12 @@ import_jquery_36: true
 {{% /tab %}}
 {{% /tabs %}}
 
-{{< amazoncard
+{{%  amazoncard
     url="https://amzn.to/4pruASK" 
     title="現代韓国を知るための61章【第3版】 (エリア・スタディーズ147)"
     price="¥2,200"
     tagline="大きく動き変わろうとする東アジア、なかでも昨今緊張する日韓関係。そもそも韓国とは何か、その国土から、成り立ちの歴史、経済の変遷を説き、社会問題や文化事象に触れ、今の韓国を理解する手引きとなる1冊。"
->}} 
+ %}} 
 
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
