@@ -1,18 +1,29 @@
+## Hugo (legacy, no longer used)
+themes/
+content/
+archetypes/
+i18n/
+config.toml
+
 ## local build files
 iframe/
 MEMO.md
-themes/dot-mysite/static/mp/
 イラスト*.clip
 イラスト*.png
 イラスト*.jpg
 __pycache__
 resources
-public
 
 ## Astro / Node.js
 node_modules/
 dist/
 .astro/
+
+## Generated content assets (copied by scripts/copy-content-assets.js)
+public/rule/
+public/about/
+public/quiz/
+public/web/
 
 ## for MacOS
 # General

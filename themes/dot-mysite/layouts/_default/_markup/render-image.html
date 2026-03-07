@@ -1,4 +1,0 @@
-{{- $src := .Destination -}}
-{{- $alt := .Text | default .Title | default "Image" -}}
-{{- $title := .Title -}}
-<img src="{{ $src }}" alt="{{ $alt }}"{{ with $title }} title="{{ . }}"{{ end }} loading="lazy" decoding="async">
