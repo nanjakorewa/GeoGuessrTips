@@ -5,15 +5,6 @@ archetypes/
 i18n/
 config.toml
 
-## local build files
-iframe/
-MEMO.md
-イラスト*.clip
-イラスト*.png
-イラスト*.jpg
-__pycache__
-resources
-
 ## Astro / Node.js
 node_modules/
 dist/
@@ -25,20 +16,37 @@ public/about/
 public/quiz/
 public/web/
 
-## for MacOS
-# General
+## Hugo build output (legacy, remaining in public/)
+public/categories/
+public/tags/
+public/ja/
+public/en/
+public/es/
+public/id/
+public/pt/
+public/index.html
+public/index.xml
+public/sitemap.xml
+public/searchindex.json
+
+## local build files
+iframe/
+MEMO.md
+イラスト*.clip
+イラスト*.png
+イラスト*.jpg
+__pycache__
+resources
+
+## Editor / tools
+.codegpt
+
+## macOS
 .DS_Store
 .AppleDouble
 .LSOverride
-
-# Icon must end with two \r
 Icon
-
-
-# Thumbnails
 ._*
-
-# Files that might appear in the root of a volume
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
@@ -46,37 +54,23 @@ Icon
 .Trashes
 .VolumeIcon.icns
 .com.apple.timemachine.donotpresent
-
-# Directories potentially created on remote AFP share
 .AppleDB
 .AppleDesktop
 Network Trash Folder
 Temporary Items
 .apdisk
 
-## for Windows
-# Windows thumbnail cache files
+## Windows
 Thumbs.db
 Thumbs.db:encryptable
 ehthumbs.db
 ehthumbs_vista.db
-
-# Dump file
 *.stackdump
-
-# Folder config file
 [Dd]esktop.ini
-
-# Recycle Bin used on file shares
 $RECYCLE.BIN/
-
-# Windows Installer files
 *.cab
 *.msi
 *.msix
 *.msm
 *.msp
-
-# Windows shortcuts
 *.lnk
-.codegpt
