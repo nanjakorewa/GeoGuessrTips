@@ -9,6 +9,7 @@
 node_modules/
 dist/
 .astro/
+.claude/
 
 ## Generated content assets (copied by scripts/copy-content-assets.js)
 public/rule/
