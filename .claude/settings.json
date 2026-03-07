@@ -1,0 +1,36 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build)",
+      "Bash(ls \"c:\\\\Users\\\\nanja-win-ms\\\\workspace\\\\GeoGuessrTips\\\\src\\\\content\\\\rule\\\\asia\\\\vietnum\\\\2025-06-30\"*)",
+      "Bash(ls \"c:/Users/nanja-win-ms/workspace/GeoGuessrTips/dist/\"sitemap*)",
+      "Bash(git add public/styles/common.css src/components/search/SearchModal.astro src/i18n/translations.ts src/styles/common.css)",
+      "Bash(git add -f public/styles/common.css)",
+      "Bash(git add src/components/search/SearchModal.astro src/i18n/translations.ts src/styles/common.css)",
+      "Bash(git commit:*)",
+      "Read(//c/Users/nanja-win-ms/workspace/GeoGuessrTips/**)",
+      "Bash(ls -d src/content/*/)",
+      "Bash(ls src/content/about/*.png src/content/about/*.svg src/content/about/*.jpg)",
+      "Bash(git rm -r --cached public/rule/ public/about/ public/quiz/ public/web/)",
+      "Bash(git rm -r --cached themes/ archetypes/ i18n/ config.toml)",
+      "Bash(git rm -r --cached content/)",
+      "Bash(git add .gitignore)",
+      "Bash(git add -u content/ themes/ archetypes/ i18n/ config.toml public/rule/ public/about/ public/quiz/ public/web/)",
+      "Bash(git push origin feat/astro)",
+      "Bash(gh pr:*)",
+      "Bash(gh auth status)",
+      "Bash(node -e \":*)",
+      "Bash(npx astro --version)",
+      "Bash(while read f)",
+      "Bash(do)",
+      "Bash(sed -i 's/{{</{{% /g; s/>}}/ %}}/g' \"$f\")",
+      "Bash(node --input-type=module -e \":*)",
+      "Bash(xxd)",
+      "Bash(npx astro preview)",
+      "Bash(git add src/plugins/remark-hugo-shortcodes/index.ts)"
+    ],
+    "additionalDirectories": [
+      "\\tmp"
+    ]
+  }
+}

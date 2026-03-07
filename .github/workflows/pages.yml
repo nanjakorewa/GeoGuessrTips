@@ -1,4 +1,4 @@
-﻿name: Deploy Hugo site to GitHub Pages
+name: Deploy Astro site to GitHub Pages
 
 on:
   push:
@@ -20,29 +20,26 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          fetch-depth: 0  # submodule 取得なし（テーマはローカルフォルダ）
+          node-version: 22
+          cache: npm
 
-      - name: Setup Hugo (extended)
-        uses: peaceiris/actions-hugo@v3
-        with:
-          hugo-version: 'latest'
-          extended: true
+      - name: Install dependencies
+        run: npm ci
 
-      - name: Build
-        run: |
-          hugo --minify
-        env:
-          HUGO_ENV: production
+      - name: Build (Astro + Pagefind)
+        run: npm run build
 
-      # （独自ドメインを使う場合のみ有効化）
-      # - name: Add CNAME
-      #   run: echo "geopinning.space" > ./public/CNAME
+      - name: Add CNAME
+        run: echo "geopinning.space" > ./dist/CNAME
 
       - name: Upload artifact for Pages
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./public
+          path: ./dist
 
   deploy:
     needs: build

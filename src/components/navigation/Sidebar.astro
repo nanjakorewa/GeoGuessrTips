@@ -1,0 +1,74 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import type { TreeNode } from "@lib/content-tree";
+
+interface Props {
+  lang: Language;
+  tree: TreeNode[];
+  currentUrl: string;
+  bgf?: boolean;
+}
+
+const { lang, tree, currentUrl, bgf = false } = Astro.props;
+const baseUrl = lang === "ja" ? "/" : `/${lang}/`;
+
+function isExpanded(node: TreeNode, currentUrl: string): boolean {
+  if (node.url === currentUrl) return true;
+  return node.children.some((child) => isExpanded(child, currentUrl));
+}
+
+function renderTreeNode(node: TreeNode, currentUrl: string): string {
+  const isActive = node.url === currentUrl;
+  const expanded = isExpanded(node, currentUrl);
+  const unofficialClass = node.isUnofficial ? " unofficial-area dontshowarea" : "";
+  const activeClass = isActive ? " active" : "";
+
+  let icons = "";
+  if (node.hasGooglecar) icons += '<i class="fas fa-car-alt i-googlecar"></i>';
+  if (node.hasTrekker) icons += '<i class="fas fa-hiking i-googlecar"></i>';
+  if (node.hasBollard) icons += '<i class="fas fa-magic i-bollard"></i>';
+  if (node.additionalIcon) icons += node.additionalIcon;
+  if (node.isUnofficial) icons += '<i class="fa fa-question-circle"></i>';
+
+  const titleText = node.title + (node.pageNo || "") + icons + (node.quizSuffix ? `『${node.quizSuffix}』` : "");
+
+  let html = `<li class="sidelist${activeClass} no-dot${unofficialClass}">`;
+  html += `<a href="${node.url}">${titleText}</a>`;
+
+  if (node.children.length > 0 && expanded) {
+    html += "<ul>";
+    for (const child of node.children) {
+      if (!child) continue;
+      html += renderTreeNode(child, currentUrl);
+    }
+    html += "</ul>";
+  }
+
+  html += "</li>";
+  return html;
+}
+
+const treeHtml = tree.map((node) => renderTreeNode(node, currentUrl)).join("");
+---
+
+<div class={`sidebar apply-bg2 ${bgf ? "opacity-09" : ""}`}>
+  <div id="option-area">
+    <p class="mobile-noshow"><b><Fragment set:html={t("display_meaning", lang)} /></b></p>
+    <p class="mobile-noshow"><i class="fas fa-car-alt i-googlecar"></i> <Fragment set:html={t("has_unique_googlecar", lang)} /></p>
+    <p class="mobile-noshow" style="margin-bottom:5px"><i class="fas fa-hiking i-googlecar"></i> <Fragment set:html={t("has_trekker", lang)} /></p>
+    <p class="mobile-noshow" style="margin-bottom:5px"><i class="fa fa-question-circle"></i><u><a href="#" id="toggle-link"><Fragment set:html={t("is_has_no_official_coverage", lang)} /></a></u></p>
+
+    <p class="streaming-status-area-title streaming-status-disp" id="streaming-status-area" style="margin-top: 0.4em;"><b><Fragment set:html={t("streaming_status", lang)} /></b></p>
+    <p>
+      <a href="https://www.youtube.com/@nanjakorewa"><img class="streaming-status-area-img streaming-status-disp" id="youtube-button-streaming" src="/sns/youtube.png" width="110" height="19" alt="YouTube" /></a>
+      <a href="https://www.twitch.tv/nanjakorewa"><img class="streaming-status-area-img streaming-status-disp" id="twitch-button-streaming" src="/sns/twitch.png" width="110" height="19" alt="Twitch" /></a>
+    </p>
+    <p class="streaming-status-area-streming-title streaming-status-disp" id="streaming-title"></p>
+  </div>
+
+  <ul class="list-styled">
+    <a class="back-btn" href={baseUrl}></a>
+    <Fragment set:html={treeHtml} />
+  </ul>
+</div>

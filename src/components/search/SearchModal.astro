@@ -1,0 +1,373 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+
+interface Props {
+  lang: Language;
+}
+
+const { lang } = Astro.props;
+---
+
+<div class="search-modal" id="search-modal" aria-hidden="true">
+  <div class="search-modal-overlay" data-close-search></div>
+  <div class="search-wrapper">
+    <div class="search-wrapper-header">
+      <label class="search-label" for="search-input">
+        <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>
+      </label>
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder={t("search_input_placeholder", lang)}
+        autocomplete="off"
+        autofocus
+      />
+      <button class="search-close-btn" data-close-search aria-label="Close">&times;</button>
+    </div>
+    <div class="search-wrapper-body">
+      <div id="search-results"></div>
+      <div class="search-initial-message" id="search-initial">
+        {t("search_initial_message", lang)}
+      </div>
+    </div>
+    <div class="search-wrapper-footer">
+      <span class="search-hint"><kbd>↑</kbd><kbd>↓</kbd> {t("search_navigate", lang)}</span>
+      <span class="search-hint"><kbd>Enter</kbd> {t("search_select", lang)}</span>
+      <span class="search-hint"><kbd>Esc</kbd> {t("search_close", lang)}</span>
+    </div>
+  </div>
+</div>
+
+<style is:inline>
+.search-modal {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 9999;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 10vh;
+}
+.search-modal[aria-hidden="false"] {
+  display: flex;
+}
+.search-modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  backdrop-filter: blur(2px);
+}
+.search-wrapper {
+  position: relative;
+  width: 90%;
+  max-width: 640px;
+  max-height: 70vh;
+  background: #fff;
+  border-radius: 3px;
+  box-shadow: 0 25px 50px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  z-index: 1;
+}
+.search-wrapper-header {
+  display: flex;
+  align-items: center;
+  padding: 12px 16px;
+  border-bottom: 1px solid #e0e0e0;
+  gap: 10px;
+}
+.search-label {
+  display: flex;
+  align-items: center;
+  color: #888;
+  flex-shrink: 0;
+}
+.search-input {
+  flex: 1;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  background: transparent;
+  font-family: inherit;
+  color: #2B2721;
+}
+.search-input::placeholder {
+  color: #999;
+}
+.search-close-btn {
+  background: none;
+  border: none;
+  font-size: 24px;
+  cursor: pointer;
+  color: #888;
+  padding: 0 4px;
+  line-height: 1;
+}
+.search-close-btn:hover {
+  color: #333;
+}
+.search-wrapper-body {
+  flex: 1;
+  overflow-y: auto;
+  padding: 8px 0;
+  min-height: 100px;
+  max-height: calc(70vh - 120px);
+}
+.search-initial-message {
+  padding: 24px 16px;
+  text-align: center;
+  color: #666;
+  font-size: 14px;
+}
+.search-wrapper-footer {
+  display: flex;
+  gap: 16px;
+  padding: 8px 16px;
+  border-top: 1px solid #e0e0e0;
+  background: #f5f3f1;
+  font-size: 12px;
+  color: #666;
+}
+.search-hint {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.search-hint kbd {
+  display: inline-block;
+  padding: 2px 6px;
+  border: 1px solid #bbb;
+  border-radius: 2px;
+  background: #fff;
+  font-size: 12px;
+  font-family: inherit;
+  color: #333;
+  box-shadow: 0 1px 0 rgba(0,0,0,0.1);
+  min-width: 20px;
+  text-align: center;
+  line-height: 1.4;
+}
+
+/* Search results */
+.search-result-item {
+  padding: 10px 16px;
+  cursor: pointer;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.1s;
+}
+.search-result-item:hover,
+.search-result-item.selected {
+  background: #f0f6f6;
+}
+.search-result-item a {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+.search-result-item-title {
+  font-weight: 600;
+  color: var(--primary-color, #446E72);
+  font-size: 15px;
+  margin-bottom: 4px;
+}
+.search-result-item-excerpt {
+  font-size: 13px;
+  color: #444;
+  line-height: 1.5;
+}
+.search-result-item-excerpt mark {
+  background: #fef3cd;
+  padding: 0 2px;
+  border-radius: 2px;
+}
+.search-result-item-url {
+  font-size: 11px;
+  color: #999;
+  margin-top: 2px;
+}
+.search-no-results {
+  padding: 24px 16px;
+  text-align: center;
+  color: #888;
+}
+.search-result-count {
+  padding: 6px 16px;
+  font-size: 12px;
+  color: #888;
+  border-bottom: 1px solid #f0f0f0;
+}
+
+@media (max-width: 768px) {
+  .search-modal {
+    padding-top: 5vh;
+  }
+  .search-wrapper {
+    width: 95%;
+    max-height: 80vh;
+  }
+  .search-wrapper-body {
+    max-height: calc(80vh - 120px);
+  }
+  .search-wrapper-footer {
+    flex-wrap: wrap;
+    gap: 8px;
+  }
+}
+</style>
+
+<script is:inline define:vars={{ lang }}>
+(function() {
+  const modal = document.getElementById("search-modal");
+  const input = document.getElementById("search-input");
+  const resultsEl = document.getElementById("search-results");
+  const initialEl = document.getElementById("search-initial");
+  let pagefind = null;
+  let selectedIndex = -1;
+  let debounceTimer = null;
+
+  // Open modal
+  function openModal() {
+    modal.setAttribute("aria-hidden", "false");
+    document.body.style.overflow = "hidden";
+    input.value = "";
+    resultsEl.innerHTML = "";
+    initialEl.style.display = "block";
+    selectedIndex = -1;
+    setTimeout(() => input.focus(), 50);
+    initPagefind();
+  }
+
+  // Close modal
+  function closeModal() {
+    modal.setAttribute("aria-hidden", "true");
+    document.body.style.overflow = "";
+    input.value = "";
+    resultsEl.innerHTML = "";
+  }
+
+  // Initialize Pagefind (lazy load)
+  async function initPagefind() {
+    if (pagefind) return;
+    try {
+      pagefind = await import("/pagefind/pagefind.js");
+      await pagefind.options({
+        language: lang === "ja" ? "ja" : lang,
+      });
+    } catch (e) {
+      console.warn("Pagefind not available:", e);
+    }
+  }
+
+  // Search
+  async function performSearch(query) {
+    if (!pagefind || !query.trim()) {
+      resultsEl.innerHTML = "";
+      initialEl.style.display = query.trim() ? "none" : "block";
+      return;
+    }
+    initialEl.style.display = "none";
+    selectedIndex = -1;
+
+    try {
+      const search = await pagefind.search(query);
+      if (search.results.length === 0) {
+        resultsEl.innerHTML = '<div class="search-no-results">' +
+          (lang === "ja" ? "該当する結果が見つかりません" : "No results found") +
+          '</div>';
+        return;
+      }
+
+      // Load first 20 results
+      const loaded = await Promise.all(
+        search.results.slice(0, 20).map(r => r.data())
+      );
+
+      let html = '<div class="search-result-count">' + search.results.length + ' results</div>';
+      loaded.forEach((result, i) => {
+        html += '<div class="search-result-item" data-index="' + i + '">';
+        html += '<a href="' + result.url + '">';
+        html += '<div class="search-result-item-title">' + (result.meta?.title || result.url) + '</div>';
+        if (result.excerpt) {
+          html += '<div class="search-result-item-excerpt">' + result.excerpt + '</div>';
+        }
+        html += '<div class="search-result-item-url">' + result.url + '</div>';
+        html += '</a></div>';
+      });
+
+      resultsEl.innerHTML = html;
+    } catch (e) {
+      console.error("Search error:", e);
+    }
+  }
+
+  // Keyboard navigation
+  function updateSelection() {
+    const items = resultsEl.querySelectorAll(".search-result-item");
+    items.forEach((item, i) => {
+      item.classList.toggle("selected", i === selectedIndex);
+    });
+    if (selectedIndex >= 0 && items[selectedIndex]) {
+      items[selectedIndex].scrollIntoView({ block: "nearest" });
+    }
+  }
+
+  // Event listeners
+  input.addEventListener("input", function() {
+    clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => performSearch(this.value), 200);
+  });
+
+  input.addEventListener("keydown", function(e) {
+    const items = resultsEl.querySelectorAll(".search-result-item");
+    if (e.key === "ArrowDown") {
+      e.preventDefault();
+      selectedIndex = Math.min(selectedIndex + 1, items.length - 1);
+      updateSelection();
+    } else if (e.key === "ArrowUp") {
+      e.preventDefault();
+      selectedIndex = Math.max(selectedIndex - 1, -1);
+      updateSelection();
+    } else if (e.key === "Enter" && selectedIndex >= 0) {
+      e.preventDefault();
+      const link = items[selectedIndex]?.querySelector("a");
+      if (link) window.location.href = link.href;
+    } else if (e.key === "Escape") {
+      closeModal();
+    }
+  });
+
+  // Close buttons
+  document.querySelectorAll("[data-close-search]").forEach(el => {
+    el.addEventListener("click", closeModal);
+  });
+
+  // Ctrl+K / Cmd+K shortcut
+  document.addEventListener("keydown", function(e) {
+    if ((e.ctrlKey || e.metaKey) && e.key === "k") {
+      e.preventDefault();
+      if (modal.getAttribute("aria-hidden") === "false") {
+        closeModal();
+      } else {
+        openModal();
+      }
+    }
+  });
+
+  // Search trigger buttons
+  document.querySelectorAll("[data-search-trigger]").forEach(el => {
+    el.addEventListener("click", function(e) {
+      e.preventDefault();
+      openModal();
+    });
+  });
+})();
+</script>

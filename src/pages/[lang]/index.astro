@@ -1,0 +1,177 @@
+---
+import { getCollection } from "astro:content";
+import { extractLangFromId, extractSlugFromId, buildUrl, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import type { Language } from "@lib/i18n-utils";
+
+export function getStaticPaths() {
+  return LANGUAGES
+    .filter((l) => l !== DEFAULT_LANG)
+    .map((lang) => ({ params: { lang } }));
+}
+
+const { lang } = Astro.params as { lang: Language };
+const site = "https://geopinning.space";
+
+const homeTitles: Record<Language, string> = {
+  ja: "GeoGuessrの攻略めも",
+  en: "My GeoGuessr Tips",
+  id: "Kiat Geogesser Saya",
+  es: "Notas de GeoGuessr",
+  pt: "Minhas dicas de GeoGuessr",
+};
+
+const homeDescs: Record<Language, string> = {
+  ja: "GeoGuessr（ジオゲッサー）のプレイで気付いた特徴や攻略ヒントを国・地域ごとにまとめた個人メモです。",
+  en: "Personal notes that collect strategies, observations, and distinctive clues for GeoGuessr, organised by country and region.",
+  id: "Catatan pribadi berisi strategi, pengamatan, dan petunjuk khas GeoGuessr yang disusun per negara.",
+  es: "Notas personales con estrategias, observaciones y pistas distintivas de GeoGuessr organizadas por país.",
+  pt: "Notas pessoais que reúnem estratégias, observações e pistas distintivas de GeoGuessr, organizadas por país e região.",
+};
+
+const siteTitle = homeTitles[lang];
+
+const translationUrls: { lang: Language; url: string }[] = LANGUAGES.map((l) => ({
+  lang: l,
+  url: l === DEFAULT_LANG ? `${site}/` : `${site}/${l}/`,
+}));
+
+// Gather top-level section pages for topic cards
+const allCollections = ["rule", "quiz", "about", "web"] as const;
+interface TopicCard {
+  title: string;
+  description: string;
+  url: string;
+  cardImage: string;
+  weight: number;
+  isRule: boolean;
+}
+
+const topicCards: TopicCard[] = [];
+for (const col of allCollections) {
+  const entries = await getCollection(col);
+  // Only include section pages with type: "docs" (matches Hugo behavior)
+  const sectionEntries = entries.filter((e: any) => {
+    if (extractLangFromId(e.id) !== lang) return false;
+    if (e.data.draft) return false;
+    if (e.data.type !== "docs") return false;
+    return true;
+  });
+
+  for (const entry of sectionEntries) {
+    const slug = extractSlugFromId(entry.id);
+    const url = buildUrl(col, slug, lang);
+    const cardImageRaw = entry.data.card_image || entry.data.bg || "";
+    let cardImage = "";
+    if (cardImageRaw) {
+      if (cardImageRaw.startsWith("http")) {
+        cardImage = cardImageRaw;
+      } else {
+        const normalized = cardImageRaw.replace(/^\//, "");
+        cardImage = normalized.startsWith("bg/") ? `/${normalized}` : `/bg/${normalized}`;
+      }
+    }
+
+    topicCards.push({
+      title: entry.data.title,
+      description: entry.data.description || "",
+      url,
+      cardImage,
+      weight: entry.data.weight ?? 99,
+      isRule: col === "rule",
+    });
+  }
+}
+
+const ruleCards = topicCards.filter((c) => c.isRule).sort((a, b) => a.weight - b.weight);
+const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight - b.weight);
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={siteTitle}
+    description={homeDescs[lang]}
+    lang={lang}
+    canonical={`${site}/${lang}/`}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    translations={translationUrls}
+  />
+</head>
+<body>
+  <header class="banner hero-surface">
+    <Navbar lang={lang} isHome={true} translations={translationUrls} />
+    <div class="container section">
+      <div class="row">
+        <div class="col-lg-8 text-center mx-auto">
+        </div>
+      </div>
+    </div>
+  </header>
+
+  {/* Topics section */}
+  <section class="section" style="margin-bottom:0px;padding-bottom:0px;">
+    <div class="container">
+      {ruleCards.length > 0 && (
+        <div class="row justify-content-center mb-4">
+          <div class="col-12">
+            <h2 class="section-title text-left" style="margin-bottom:1.5rem;">{t("homepage_rule_section_title", lang)}</h2>
+          </div>
+          {ruleCards.map((card) => (
+            <div class="col-lg-4 col-sm-6 mb-3">
+              <a
+                href={card.url}
+                class={`px-3 py-2 shadow d-block match-height apply-bg ${card.cardImage ? "card-with-image" : ""}`}
+                style={card.cardImage ? `--card-bg-image: url('${card.cardImage}');` : undefined}
+              >
+                <h3 class="mb-3 mt-0">
+                  {card.weight === 1 && <i class="fas fa-map-marker-alt" style="margin-right:0.2em; color:rgb(188, 57, 57);"></i>}
+                  {card.title}
+                </h3>
+                <p class="mb-0">{card.description}</p>
+              </a>
+            </div>
+          ))}
+        </div>
+      )}
+
+      <div class="row justify-content-center">
+        {otherCards.length > 0 && (
+          <>
+            <div class="col-12">
+              <h2 class="section-title text-left" style="margin-bottom:1.5rem;">{t("homepage_other_section_title", lang)}</h2>
+            </div>
+            {otherCards.map((card) => (
+              <div class="col-lg-4 col-sm-6 mb-3">
+                <a
+                  href={card.url}
+                  class={`px-3 py-2 shadow d-block match-height apply-bg ${card.cardImage ? "card-with-image" : ""}`}
+                  style={card.cardImage ? `--card-bg-image: url('${card.cardImage}');` : undefined}
+                >
+                  <h3 class="mb-3 mt-0">{card.title}</h3>
+                  <p class="mb-0">{card.description}</p>
+                </a>
+              </div>
+            ))}
+          </>
+        )}
+        <div class="col-lg-4 col-sm-6 mb-3">
+          <a href="https://nanjakorewa.booth.pm/" class="px-3 py-2 shadow d-block match-height apply-bg card-with-image" style="--card-bg-image: url('/bg/default.jpg');">
+            <h3 class="mb-3 mt-0">BOOTH</h3>
+            <p class="mb-0">{t("homepage_booth_caption", lang)}</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <Footer lang={lang} title={siteTitle} permalink={`${site}/${lang}/`} />
+  <SearchModal lang={lang} />
+</body>
+</html>

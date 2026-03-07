@@ -1,0 +1,28 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+
+interface Props {
+  title: string;
+  description?: string;
+  lang: Language;
+}
+
+const { title, description = "", lang } = Astro.props;
+const siteTitle = t("page-title", lang);
+const fullTitle = title ? `${title} | ${siteTitle}` : siteTitle;
+---
+
+<!doctype html>
+<html lang={lang}>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+  </head>
+  <body>
+    <slot />
+  </body>
+</html>
