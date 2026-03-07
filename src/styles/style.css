@@ -419,7 +419,7 @@ pre {
   right: 0 !important;
   max-height: 200px;
   overflow: hidden;
-  border-radius: 0 0 10px 10px;
+  border-radius: 0 0 2px 2px;
   z-index: 9999;
   box-shadow: 0px 13px 20px 0px rgba(0, 0, 0, .07)
 }
@@ -481,7 +481,7 @@ pre {
 /* /navigation */
 .form-control {
   height: 30px;
-  border-radius: 10px;
+  border-radius: 2px;
   border: 0;
   padding: 0 20px;
 }
@@ -560,7 +560,7 @@ textarea.form-control {
   content: '';
   height: 8px;
   width: 8px;
-  border-radius: 30%;
+  border-radius: 2px;
   background: var(--primary-color);
   opacity: .3;
   left: 0;
@@ -967,7 +967,7 @@ a:has(> img.no-click) {
     padding: 10px 20px;
     width:200px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 2px;
     font-size: 1.1em !important;
   }
   .radiobutton:checked + label {
@@ -995,7 +995,7 @@ a:has(> img.no-click) {
     padding: 10px 20px;
     width:100px;
     text-align: center;
-    border-radius: 5px;
+    border-radius: 2px;
     font-size: 0.9em !important;
   }
   .radiobutton:checked + label {
@@ -1062,7 +1062,7 @@ li.dontshowarea {
 
 .amazon-box {
   border: 2px solid #ddd;
-  border-radius: 8px;
+  border-radius: 2px;
   padding: 1rem;
   background-color: #f9f9f9;
   margin: 2rem 15px;
@@ -1143,7 +1143,7 @@ li.dontshowarea {
   gap: 14px;
   align-items: stretch;
   border: 1px solid #e5e7eb;
-  border-radius: 10px;
+  border-radius: 2px;
   padding: 14px;
   background: linear-gradient(145deg, #ffffff 0%, #f7f8fa 100%);
   box-shadow: 0 6px 18px rgba(0, 0, 0, 0.05);
@@ -1154,7 +1154,7 @@ li.dontshowarea {
   position: relative;
   display: block;
   overflow: hidden;
-  border-radius: 8px;
+  border-radius: 2px;
   background: #fff;
   border: 1px solid #eceef1;
   min-height: 140px;
@@ -1183,7 +1183,7 @@ li.dontshowarea {
   font-size: 12px;
   font-weight: 700;
   padding: 4px 8px;
-  border-radius: 6px;
+  border-radius: 2px;
   box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
 }
 
@@ -1233,7 +1233,7 @@ li.dontshowarea {
   color: #111;
   font-weight: 700;
   text-decoration: none;
-  border-radius: 8px;
+  border-radius: 2px;
   box-shadow: 0 8px 20px rgba(255, 153, 0, 0.2);
   transition: transform 0.15s ease, box-shadow 0.15s ease;
 }
@@ -1298,7 +1298,7 @@ li.dontshowarea {
   background: rgba(32, 40, 43, 0.9);
   color: #fff;
   padding: 0.4rem 0.65rem;
-  border-radius: 6px;
+  border-radius: 2px;
   font-size: 0.78rem;
   white-space: nowrap;
   opacity: 0;

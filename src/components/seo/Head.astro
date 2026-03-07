@@ -135,7 +135,7 @@ const imageAlt = title || siteTitle;
 <link rel="stylesheet" href="/plugins/bootstrap/bootstrap.min.css" />
 <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css" />
 <link rel="icon" href="/images/icon-16x16.png" type="image/x-icon" />
-<link href="https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap" rel="stylesheet" />
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet" />
 <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet" />
 
 <style is:inline>
@@ -156,15 +156,16 @@ const imageAlt = title || siteTitle;
   --shadow-soft:0 10px 24px rgba(43, 39, 33, 0.08);
   --shadow-accent:0 18px 34px rgba(68, 110, 114, 0.18);
   --primary-hover:#36575A;
-  --font-family:M PLUS 1p;
+  --font-family:'Inter', sans-serif;
+  --font-family-ja:'Noto Sans JP', sans-serif;
 }
 body {
   background: var(--body-color);
-  font-display: swap;
+  font-family: var(--font-family);
 }
-@font-face {
-  font-family: 'M PLUS 1p';
-  font-display: swap;
+:root[lang="ja"] body,
+html[lang="ja"] body {
+  font-family: var(--font-family-ja);
 }
 </style>
 

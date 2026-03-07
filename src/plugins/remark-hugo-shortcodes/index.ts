@@ -60,6 +60,7 @@ import {
   minkabuHandler,
   nasdaqHandler,
   ahrefsHandler,
+  amazoncardHandler,
 } from "./shortcodes/misc.ts";
 
 function getLanguageFromVFile(vfile: VFile): Language {
@@ -78,6 +79,12 @@ function processAllShortcodes(text: string, lang: Language): string {
 
   // Reset per-page state
   resetQuizState();
+
+  // --- Pass 0: Named-param shortcodes (custom regex) ---
+  result = result.replace(
+    /\{\{<\s*amazoncard([\s\S]*?)>\}\}/g,
+    (_match, rawArgs) => amazoncardHandler(rawArgs)
+  );
 
   // --- Pass 1: Inline (self-closing) shortcodes ---
   // These appear inside block shortcodes and must be resolved first.

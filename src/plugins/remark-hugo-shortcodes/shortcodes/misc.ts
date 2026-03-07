@@ -158,6 +158,37 @@ export function corpHandler(args: string[], lang: Language): string {
   return `<h4 class="section-title">${heading}</h4>\n<div class="sign-area">\n${images}\n</div>`;
 }
 
+/** amazoncard: {{< amazoncard url="..." title="..." image="..." price="..." tagline="..." badge="..." >}} */
+export function amazoncardHandler(rawArgs: string): string {
+  const get = (key: string): string => {
+    const m = rawArgs.match(new RegExp(`${key}="([^"]*)"`));
+    return m ? m[1] : "";
+  };
+  const url = get("url");
+  const title = get("title") || "Amazon item";
+  const img = get("image");
+  const price = get("price");
+  const tagline = get("tagline");
+  const badge = get("badge");
+  const placeholder = `data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='320' height='320' viewBox='0 0 320 320'><rect width='320' height='320' fill='%23f3f4f6'/><text x='160' y='190' text-anchor='middle' font-size='86' font-family='Arial, sans-serif' font-weight='800' fill='%23999'>?</text></svg>`;
+  const imgSrc = img || placeholder;
+
+  return `<div class="amazon-card">
+  <a class="amazon-card__image" href="${url}" target="_blank" rel="noopener noreferrer sponsored">
+    <img src="${imgSrc}" alt="${title}" class="no-lightbox">
+    ${badge ? `<span class="amazon-card__badge">${badge}</span>` : ""}
+  </a>
+  <div class="amazon-card__body">
+    <h3 class="amazon-card__title">
+      <a href="${url}" target="_blank" rel="noopener noreferrer sponsored">${title}</a>
+    </h3>
+    ${tagline ? `<p class="amazon-card__tagline">${tagline}</p>` : ""}
+    ${price ? `<p class="amazon-card__meta">価格: ${price}</p>` : ""}
+    <a class="amazon-card__cta" href="${url}" target="_blank" rel="noopener noreferrer sponsored">Amazonで見る</a>
+  </div>
+</div>`;
+}
+
 /** ahref: {{% ahref "text" "url" "class?" %}} */
 export function ahrefHandler(args: string[]): string {
   const text = args[0] || "";

@@ -168,7 +168,7 @@ sc: [
                 <li>EVN SPC(南部)：『山+▽』の形{{% ex "https://maps.app.goo.gl/mXhiF8DZs8FCcYof6" %}}、平行して低い電柱（光ファイバー線）も並んで立っていることが多い{{% ex "https://maps.app.goo.gl/kCUdWRCRbvsKemMd7" %}}
                     <ul>
                         <li>『山+▽』の▽の下がとがっていない場合{{% ex "https://maps.app.goo.gl/zA56cRWSgSqEhR3EA" "https://maps.app.goo.gl/oHpcFiBvYfdWqozSA" "https://maps.app.goo.gl/DER6GdceYWJexGnL7" %}}や上部まで穴が空いた電柱がある場合{{% ex "https://maps.app.goo.gl/m6EkioKPNVtVEqAm7" "https://maps.app.goo.gl/tL3Rmn3wFufvKjJb6" "https://maps.app.goo.gl/x4sjwKwPk6yC5uARA" %}}は北部の紅河デルタを考えてみる</li>
-                    <ul>
+                    </ul>
                 </li>
             </ul>
         </li>
@@ -298,7 +298,7 @@ sc: [
 
 {{% /tab %}}
 {{% tab "コーヒー" %}}
-{{% notice tip %}}5
+{{% notice tip %}}
 標高が少し高い地域ではコーヒーの生産が盛ん{{% ex "https://maps.app.goo.gl/LPDDk2NN6EDxyb4K6" %}}{{% ref "https://beta.vietbiz.jp/vietnam-coffee-industry/" "【画像出典】ベトナムのコーヒー産業の動向とポテンシャル - VietViz" %}}。
 {{% /notice %}}
 
@@ -355,7 +355,7 @@ sc: [
 </div>
 
 {{% tabs %}}
-{{% tab "都市ごとのロゴ" %}}![](2025-06-30-18-02-50.png)
+{{% tab "都市ごとのロゴ" %}}
 {{% notice tip %}}
 都市ごとのロゴが通り名についていることがあり、都市が判断できる。画像はハノイ市{{% ref "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%8E%E3%82%A4" "ハノイ" %}}。
 {{% /notice %}}

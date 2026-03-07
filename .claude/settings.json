@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm run build)",
+      "Bash(ls \"c:\\\\Users\\\\nanja-win-ms\\\\workspace\\\\GeoGuessrTips\\\\src\\\\content\\\\rule\\\\asia\\\\vietnum\\\\2025-06-30\"*)"
+    ]
+  }
+}
