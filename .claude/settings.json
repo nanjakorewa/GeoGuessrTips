@@ -26,7 +26,8 @@
       "Bash(sed -i 's/{{</{{% /g; s/>}}/ %}}/g' \"$f\")",
       "Bash(node --input-type=module -e \":*)",
       "Bash(xxd)",
-      "Bash(npx astro preview)"
+      "Bash(npx astro preview)",
+      "Bash(git add src/plugins/remark-hugo-shortcodes/index.ts)"
     ],
     "additionalDirectories": [
       "\\tmp"
