@@ -145,7 +145,7 @@ export const translations: Record<string, Record<Language, string>> = {
     ja: "トップページ",
     en: "Home",
     id: "Beranda",
-    es: "Home",
+    es: "Inicio",
     pt: "Início",
   },
   "page-title": {
@@ -243,15 +243,15 @@ export const translations: Record<string, Record<Language, string>> = {
     ja: "特徴的なGoogleCar",
     en: "Unique Google Car",
     id: "GoogleCar yang khas",
-    es: "distinctive GoogleCar",
-    pt: "Google Car exclusivo",
+    es: "Google Car único",
+    pt: "Google Car único",
   },
   has_trekker: {
     ja: "トレッカーが多い",
     en: "Many Trekker",
     id: "banyak trekker",
-    es: "Many Trekker",
-    pt: "Muitos Trekker",
+    es: "Muchos trekkers",
+    pt: "Muitos trekkers",
   },
   bib: {
     ja: "参考文献",
@@ -420,27 +420,6 @@ export const translations: Record<string, Record<Language, string>> = {
     id: "Tanya ChatGPT",
     es: "Preguntar a ChatGPT",
     pt: "Perguntar ao ChatGPT",
-  },
-  toppage: {
-    ja: "トップページ",
-    en: "Home",
-    id: "Beranda",
-    es: "Inicio",
-    pt: "Início",
-  },
-  has_unique_googlecar: {
-    ja: "特徴的なGoogleCar",
-    en: "Unique Google Car",
-    id: "GoogleCar yang khas",
-    es: "Google Car único",
-    pt: "Google Car único",
-  },
-  has_trekker: {
-    ja: "トレッカーが多い",
-    en: "Many Trekker",
-    id: "banyak trekker",
-    es: "Muchos trekkers",
-    pt: "Muitos trekkers",
   },
 };
 
