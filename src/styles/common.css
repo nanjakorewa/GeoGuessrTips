@@ -1521,6 +1521,11 @@ h3.section-title {
   border-left: solid 7px var(--primary-color);
 }
 
+h4.section-title {
+  margin-top: 1.8em;
+  margin-bottom: 0.3em;
+}
+
 h3.section-title:first-letter {
   font-size: 1.2em;
 }
