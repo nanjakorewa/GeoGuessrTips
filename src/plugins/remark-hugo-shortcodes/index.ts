@@ -64,6 +64,7 @@ import {
   nasdaqHandler,
   ahrefsHandler,
   amazoncardHandler,
+  amazonLinksHandler,
 } from "./shortcodes/misc.ts";
 
 function getLanguageFromVFile(vfile: VFile): Language {
@@ -128,6 +129,7 @@ function processAllShortcodes(text: string, lang: Language): string {
   result = processInlineShortcode(result, "title", titleHandler);
   result = processInlineShortcode(result, "pixiv-embed", pixivEmbedHandler);
   result = processInlineShortcode(result, "map", mapHandler);
+  result = processInlineShortcode(result, "amazon-links", amazonLinksHandler);
   result = processInlineShortcode(result, "dividend", dividendHandler);
   result = processInlineShortcode(result, "minkabu", minkabuHandler);
   result = processInlineShortcode(result, "nasdaq", nasdaqHandler);

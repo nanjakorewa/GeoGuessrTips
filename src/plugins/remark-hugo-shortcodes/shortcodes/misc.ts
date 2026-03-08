@@ -192,6 +192,16 @@ export function amazoncardHandler(rawArgs: string): string {
 </div>`;
 }
 
+/**
+ * amazon-links: {{% amazon-links %}}
+ * Originally a Hugo shortcode that displayed country-specific Amazon book/guide links.
+ * The original template is no longer available.
+ * TODO: Re-implement with country-specific Amazon affiliate data if needed.
+ */
+export function amazonLinksHandler(_args: string[]): string {
+  return "";
+}
+
 /** ahref: {{% ahref "text" "url" "class?" %}} */
 export function ahrefHandler(args: string[]): string {
   const text = args[0] || "";
