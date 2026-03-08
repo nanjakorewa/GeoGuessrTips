@@ -149,7 +149,13 @@ const quizCollection = defineCollection({
     quiz_options: z.array(z.string()).optional(),
     quiz_answer: z.number().optional(),
     quiz_map_url: z.string().optional(),
+    quiz_question: z.string().optional(),
+    quiz_image: z.string().optional(),
     quiz_hint: z.string().optional(),
+    quiz_group: z.string().optional(),
+    quiz_group_title: z.string().optional(),
+    quiz_group_description: z.string().optional(),
+    quiz_group_icon: z.string().optional(),
   }),
 });
 

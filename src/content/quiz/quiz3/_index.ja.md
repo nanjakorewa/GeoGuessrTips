@@ -8,6 +8,8 @@ draft: false
 keywords: [""]
 sections: [""]
 pagetype: "quiz"
+quiz_group: "beginner"
+quiz_question: "ここはどこ？"
 difficulty: 1
 quiz_options: ["日本", "韓国", "マレーシア"]
 quiz_answer: 2

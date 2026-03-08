@@ -8,6 +8,8 @@ draft: false
 keywords: [""]
 sections: [""]
 pagetype: "quiz"
+quiz_group: "beginner"
+quiz_question: "ここはどこ？"
 difficulty: 3
 quiz_options: ["シェットランド諸島（イギリス）", "カナリア諸島（スペイン）", "マダガスカル島（マダガスカル）"]
 quiz_answer: 2

@@ -1,0 +1,340 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import { generateDescription } from "@lib/seo-utils";
+import { getCollection } from "astro:content";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+interface Props {
+  entry: any;
+  lang: Language;
+  collection: string;
+  hasContent?: boolean;
+}
+
+const { entry, lang, collection, hasContent = false } = Astro.props;
+const data = entry.data;
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+
+// --- SEO ---
+const seoTitle = `${data.title} | ${siteTitle}`;
+const seoDescription = data.description || generateDescription(entry, lang, collection);
+const ogImage = `${site}/images/icon-512x512.png`;
+const currentSlug = extractSlugFromId(entry.id);
+const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
+
+// --- Translation URLs ---
+const allEntries = await getCollection(collection);
+const translationUrls: { lang: Language; url: string }[] = [];
+for (const tLang of LANGUAGES) {
+  const translationId = entry.id.replace(/\.(ja|en|id|es|pt)$/, `.${tLang}`);
+  const found = allEntries.find((e: any) => e.id === translationId);
+  if (found) {
+    translationUrls.push({ lang: tLang, url: `${site}${buildUrl(collection, currentSlug, tLang)}` });
+  }
+}
+
+// --- Breadcrumbs ---
+interface Crumb { name: string; url: string }
+const hubUrl = lang === DEFAULT_LANG ? "/quiz/" : `/${lang}/quiz/`;
+const crumbs: Crumb[] = [
+  { name: t("toppage", lang), url: lang === DEFAULT_LANG ? "/" : `/${lang}/` },
+  { name: lang === "ja" ? "クイズ" : "Quiz", url: hubUrl },
+  { name: data.title, url: buildUrl(collection, currentSlug, lang) },
+];
+
+// --- Dates ---
+const publishedTime = data.date ? new Date(data.date) : undefined;
+const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
+
+// --- Quiz entries (filtered by group) ---
+const groupId = data.quiz_group || "";
+const quizEntries = allEntries
+  .filter((e: any) => extractLangFromId(e.id) === lang && e.data.pagetype === "quiz" && e.data.quiz_group === groupId)
+  .sort((a: any, b: any) => (a.data.weight || 99) - (b.data.weight || 99));
+
+const difficultyLabels: Record<string, string[]> = {
+  ja: ["", "初級", "中級", "上級"],
+  en: ["", "Easy", "Medium", "Hard"],
+  es: ["", "Fácil", "Medio", "Difícil"],
+  id: ["", "Mudah", "Sedang", "Sulit"],
+  pt: ["", "Fácil", "Médio", "Difícil"],
+};
+const diffStars = ["", "\u2605", "\u2605\u2605", "\u2605\u2605\u2605"];
+const diffColors = ["", "#4a9e5c", "#c49a2a", "#c0392b"];
+
+const quizCards = quizEntries.map((e: any, i: number) => {
+  const slug = extractSlugFromId(e.id);
+  const num = slug.replace("quiz", "");
+  const url = buildUrl(collection, slug, lang);
+  const diff = e.data.difficulty || 1;
+  const suffix = e.data.quiz_suffix || "";
+  const options = e.data.quiz_options || [];
+  const diffName = (difficultyLabels[lang] || difficultyLabels.en)[diff] || "";
+  return { num, url, diff, suffix, options, diffName, stars: diffStars[diff], color: diffColors[diff], title: e.data.title };
+});
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={seoTitle}
+    description={seoDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={ogImage}
+    ogType="website"
+    publishedTime={publishedTime}
+    modifiedTime={modifiedTime}
+    translations={translationUrls}
+    pageData={data}
+    breadcrumbs={crumbs}
+    collection={collection}
+  />
+  <style>
+    .qi-container {
+      max-width: 960px;
+      margin: 0 auto;
+      padding: 2rem 1rem 3rem;
+    }
+
+    /* Hero */
+    .qi-hero {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+    .qi-hero-icon {
+      font-size: 2.5rem;
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+    .qi-hero h1 {
+      font-size: 1.8rem;
+      font-weight: 800;
+      color: var(--text-color);
+      margin: 0 0 0.5rem;
+    }
+    .qi-hero-desc {
+      font-size: 0.95rem;
+      color: rgba(100,100,100,0.7);
+      margin: 0;
+    }
+    .qi-hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 1.5rem;
+      margin-top: 1rem;
+      font-size: 0.85rem;
+      color: var(--text-color);
+    }
+    .qi-hero-stat {
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .qi-hero-stat strong {
+      color: var(--primary-color);
+      font-weight: 700;
+    }
+
+    /* Grid */
+    .qi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 1rem;
+    }
+
+    /* Card */
+    .qi-card {
+      display: flex;
+      flex-direction: column;
+      background: var(--surface-color, #fff);
+      border: 1px solid var(--border-soft);
+      border-radius: 16px;
+      overflow: hidden;
+      text-decoration: none;
+      color: var(--text-color);
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      position: relative;
+    }
+    .qi-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 32px rgba(68, 110, 114, 0.15);
+      border-color: var(--primary-color);
+    }
+
+    /* Card top band */
+    .qi-card-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 0.9rem 1.1rem 0.7rem;
+      background: linear-gradient(135deg, rgba(68, 110, 114, 0.06) 0%, rgba(68, 110, 114, 0.02) 100%);
+      border-bottom: 1px solid var(--border-soft);
+    }
+    .qi-card-num {
+      font-size: 1.3rem;
+      font-weight: 800;
+      color: var(--primary-color);
+      letter-spacing: 0.02em;
+    }
+    .qi-card-diff {
+      font-size: 0.75rem;
+      font-weight: 600;
+      padding: 0.15em 0.6em;
+      border-radius: 20px;
+      white-space: nowrap;
+    }
+    .qi-card-diff[data-diff="1"] {
+      background: rgba(74, 158, 92, 0.1);
+      color: #3d8b50;
+      border: 1px solid rgba(74, 158, 92, 0.25);
+    }
+    .qi-card-diff[data-diff="2"] {
+      background: rgba(196, 154, 42, 0.1);
+      color: #9a7b20;
+      border: 1px solid rgba(196, 154, 42, 0.25);
+    }
+    .qi-card-diff[data-diff="3"] {
+      background: rgba(192, 57, 43, 0.1);
+      color: #a33025;
+      border: 1px solid rgba(192, 57, 43, 0.25);
+    }
+    [data-theme="dark"] .qi-card-diff[data-diff="1"] { color: #6bc77e; }
+    [data-theme="dark"] .qi-card-diff[data-diff="2"] { color: #d4b44a; }
+    [data-theme="dark"] .qi-card-diff[data-diff="3"] { color: #e06050; }
+
+    /* Card body */
+    .qi-card-body {
+      padding: 0.9rem 1.1rem 1rem;
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+    .qi-card-theme {
+      font-size: 0.82rem;
+      font-weight: 600;
+      color: var(--primary-color);
+      display: flex;
+      align-items: center;
+      gap: 0.3rem;
+    }
+    .qi-card-options {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.35rem;
+      margin-top: auto;
+    }
+    .qi-card-option {
+      font-size: 0.78rem;
+      padding: 0.2em 0.55em;
+      border-radius: 6px;
+      background: var(--surface-alt, #f5f3f1);
+      color: var(--text-color);
+      font-weight: 500;
+      border: 1px solid var(--border-soft);
+    }
+
+    /* Card arrow indicator */
+    .qi-card-arrow {
+      position: absolute;
+      right: 1rem;
+      bottom: 1rem;
+      color: rgba(68, 110, 114, 0.3);
+      font-size: 0.85rem;
+      transition: all 0.25s;
+    }
+    .qi-card:hover .qi-card-arrow {
+      color: var(--primary-color);
+      transform: translateX(3px);
+    }
+
+    /* Breadcrumb */
+    .qi-breadcrumb {
+      font-size: 0.82rem;
+      color: rgba(100,100,100,0.7);
+      margin-bottom: 1.5rem;
+    }
+    .qi-breadcrumb a { color: rgba(100,100,100,0.7); text-decoration: none; }
+    .qi-breadcrumb a:hover { color: var(--primary-color); }
+
+    @media (max-width: 640px) {
+      .qi-container { padding: 1.2rem 0.75rem 2rem; }
+      .qi-hero h1 { font-size: 1.4rem; }
+      .qi-grid { grid-template-columns: 1fr; gap: 0.8rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="qi-container">
+    {/* Breadcrumb */}
+    <nav class="qi-breadcrumb">
+      {crumbs.map((c, i) =>
+        i === crumbs.length - 1
+          ? <span>{c.name}</span>
+          : <><a href={c.url}>{c.name}</a> <span>/</span> </>
+      )}
+    </nav>
+
+    {/* Hero */}
+    <div class="qi-hero">
+      <span class="qi-hero-icon" aria-hidden="true">🌍</span>
+      <h1>{data.title}</h1>
+      {data.description && <p class="qi-hero-desc">{data.description}</p>}
+      <div class="qi-hero-stats">
+        <span class="qi-hero-stat">
+          <strong>{quizCards.length}</strong>
+          {lang === "ja" ? "問" : "quizzes"}
+        </span>
+        <span class="qi-hero-stat">
+          <strong>{quizCards.filter(q => q.diff === 1).length}</strong>
+          {(difficultyLabels[lang] || difficultyLabels.en)[1]}
+        </span>
+        <span class="qi-hero-stat">
+          <strong>{quizCards.filter(q => q.diff === 2).length}</strong>
+          {(difficultyLabels[lang] || difficultyLabels.en)[2]}
+        </span>
+        <span class="qi-hero-stat">
+          <strong>{quizCards.filter(q => q.diff === 3).length}</strong>
+          {(difficultyLabels[lang] || difficultyLabels.en)[3]}
+        </span>
+      </div>
+    </div>
+
+    {/* Card Grid */}
+    <div class="qi-grid">
+      {quizCards.map((q) => (
+        <a class="qi-card" href={q.url}>
+          <div class="qi-card-top">
+            <span class="qi-card-num">Q{q.num}</span>
+            <span class="qi-card-diff" data-diff={q.diff}>{q.diffName} {q.stars}</span>
+          </div>
+          <div class="qi-card-body">
+            {q.suffix && <span class="qi-card-theme">{q.suffix}</span>}
+            <div class="qi-card-options">
+              {q.options.map((opt: string, i: number) => (
+                <span class="qi-card-option">{String.fromCharCode(65 + i)}. {opt}</span>
+              ))}
+            </div>
+          </div>
+          <i class="fas fa-chevron-right qi-card-arrow"></i>
+        </a>
+      ))}
+    </div>
+  </main>
+
+  <Footer lang={lang} title={data.title} permalink={canonical} translations={translationUrls} />
+  <SearchModal lang={lang} />
+</body>
+</html>

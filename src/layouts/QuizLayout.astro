@@ -65,7 +65,11 @@ const correctAnswer = data.quiz_answer || 1;
 const mapUrl = data.quiz_map_url || "";
 const difficulty = data.difficulty || 1;
 const hint = data.quiz_hint || "";
+const question = data.quiz_question || (lang === "ja" ? "ここはどこ？" : "Where is this?");
+const quizImage = data.quiz_image || "";
 const quizNum = currentSlug.replace("quiz", "");
+// Build quiz image URL (relative to the quiz content directory)
+const quizImageUrl = quizImage ? `/quiz/quiz${quizNum}/${quizImage}` : "";
 
 // --- Prev / Next quiz ---
 const quizEntries = allEntries
@@ -205,20 +209,44 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
       position: absolute;
       top: 0;
       left: 0;
-      width: 180px;
-      height: 64px;
-      background: linear-gradient(135deg, rgba(30,34,38,0.92) 50%, transparent 100%);
-      border-radius: 0 0 20px 0;
+      width: 100%;
+      height: 66px;
+      background: rgba(22, 25, 29, 0.88);
       display: flex;
       align-items: center;
-      padding-left: 1.1rem;
+      padding: 0 1.1rem;
+      gap: 0.8rem;
       z-index: 10;
       pointer-events: none;
       color: #fff;
-      font-size: 1.4rem;
+      text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    }
+    .quiz-map-overlay-num {
+      font-size: 1.3rem;
       font-weight: 800;
-      letter-spacing: 0.08em;
-      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      letter-spacing: 0.05em;
+      flex-shrink: 0;
+    }
+    .quiz-map-overlay-q {
+      font-size: 1rem;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    /* Quiz image (e.g. map for quiz7) */
+    .quiz-image-wrapper {
+      margin-bottom: 1.2rem;
+      border-radius: 14px;
+      overflow: hidden;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.06);
+      border: 1px solid var(--border-soft);
+    }
+    .quiz-image-wrapper img {
+      display: block;
+      width: 100%;
+      height: auto;
     }
 
     /* Hint */
@@ -433,7 +461,9 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
       .quiz-container { padding: 1rem 0.75rem 2rem; }
       .quiz-header-title { font-size: 1.3rem; }
       .quiz-map-wrapper iframe { height: 320px; }
-      .quiz-map-overlay { width: 140px; height: 48px; font-size: 1.1rem; }
+      .quiz-map-overlay { height: 44px; }
+      .quiz-map-overlay-num { font-size: 1.1rem; }
+      .quiz-map-overlay-q { font-size: 0.88rem; }
       .quiz-option-btn { padding: 0.85rem 1rem; font-size: 0.95rem; }
     }
   </style>
@@ -472,8 +502,18 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
     {/* Map */}
     {mapUrl && (
       <div class="quiz-map-wrapper">
-        <div class="quiz-map-overlay">Q{quizNum}</div>
+        <div class="quiz-map-overlay">
+          <span class="quiz-map-overlay-num">Q{quizNum}</span>
+          <span class="quiz-map-overlay-q">{question}</span>
+        </div>
         <iframe src={mapUrl} allowfullscreen loading="lazy"></iframe>
+      </div>
+    )}
+
+    {/* Quiz image */}
+    {quizImageUrl && (
+      <div class="quiz-image-wrapper">
+        <img src={quizImageUrl} alt={`Quiz ${quizNum}`} />
       </div>
     )}
 

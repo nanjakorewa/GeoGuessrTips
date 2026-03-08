@@ -1,0 +1,307 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import { generateDescription } from "@lib/seo-utils";
+import { getCollection } from "astro:content";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+interface Props {
+  entry: any;
+  lang: Language;
+  collection: string;
+  hasContent?: boolean;
+}
+
+const { entry, lang, collection, hasContent = false } = Astro.props;
+const data = entry.data;
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+
+// --- SEO ---
+const seoTitle = `${data.title} | ${siteTitle}`;
+const seoDescription = data.description || generateDescription(entry, lang, collection);
+const ogImage = `${site}/images/icon-512x512.png`;
+const currentSlug = extractSlugFromId(entry.id);
+const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
+
+// --- Translation URLs ---
+const allEntries = await getCollection(collection);
+const translationUrls: { lang: Language; url: string }[] = [];
+for (const tLang of LANGUAGES) {
+  const translationId = entry.id.replace(/\.(ja|en|id|es|pt)$/, `.${tLang}`);
+  const found = allEntries.find((e: any) => e.id === translationId);
+  if (found) {
+    translationUrls.push({ lang: tLang, url: `${site}${buildUrl(collection, currentSlug, tLang)}` });
+  }
+}
+
+// --- Breadcrumbs ---
+interface Crumb { name: string; url: string }
+const crumbs: Crumb[] = [
+  { name: t("toppage", lang), url: lang === DEFAULT_LANG ? "/" : `/${lang}/` },
+  { name: data.title, url: buildUrl(collection, currentSlug, lang) },
+];
+
+// --- Dates ---
+const publishedTime = data.date ? new Date(data.date) : undefined;
+const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
+
+// --- Discover quiz groups (quiz-index pages) ---
+const groupEntries = allEntries
+  .filter((e: any) => extractLangFromId(e.id) === lang && e.data.pagetype === "quiz-index")
+  .sort((a: any, b: any) => (a.data.weight || 99) - (b.data.weight || 99));
+
+// Count quizzes per group
+const quizEntries = allEntries.filter((e: any) => extractLangFromId(e.id) === lang && e.data.pagetype === "quiz");
+
+const difficultyLabels: Record<string, string[]> = {
+  ja: ["", "初級", "中級", "上級"],
+  en: ["", "Easy", "Medium", "Hard"],
+  es: ["", "Fácil", "Medio", "Difícil"],
+  id: ["", "Mudah", "Sedang", "Sulit"],
+  pt: ["", "Fácil", "Médio", "Difícil"],
+};
+
+const groups = groupEntries.map((g: any) => {
+  const gSlug = extractSlugFromId(g.id);
+  const gUrl = buildUrl(collection, gSlug, lang);
+  const groupId = g.data.quiz_group || "";
+  const groupQuizzes = quizEntries.filter((e: any) => e.data.quiz_group === groupId);
+  const count = groupQuizzes.length;
+  const diffs = [0, 0, 0, 0];
+  groupQuizzes.forEach((e: any) => { diffs[e.data.difficulty || 1]++; });
+  return {
+    title: g.data.title,
+    description: g.data.description || "",
+    icon: g.data.quiz_group_icon || "🌍",
+    url: gUrl,
+    count,
+    diffs,
+  };
+});
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={seoTitle}
+    description={seoDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={ogImage}
+    ogType="website"
+    publishedTime={publishedTime}
+    modifiedTime={modifiedTime}
+    translations={translationUrls}
+    pageData={data}
+    breadcrumbs={crumbs}
+    collection={collection}
+  />
+  <style>
+    .qh-container {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2rem 1rem 3rem;
+    }
+
+    /* Hero */
+    .qh-hero {
+      text-align: center;
+      margin-bottom: 2.5rem;
+    }
+    .qh-hero-icon {
+      font-size: 3rem;
+      margin-bottom: 0.5rem;
+      display: block;
+    }
+    .qh-hero h1 {
+      font-size: 2rem;
+      font-weight: 800;
+      color: var(--text-color);
+      margin: 0 0 0.5rem;
+    }
+    .qh-hero-desc {
+      font-size: 1rem;
+      color: rgba(100,100,100,0.7);
+      margin: 0;
+    }
+
+    /* Group cards */
+    .qh-groups {
+      display: flex;
+      flex-direction: column;
+      gap: 1.2rem;
+    }
+    .qh-group {
+      display: flex;
+      align-items: stretch;
+      background: var(--surface-color, #fff);
+      border: 1px solid var(--border-soft);
+      border-radius: 18px;
+      overflow: hidden;
+      text-decoration: none;
+      color: var(--text-color);
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .qh-group:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 12px 36px rgba(68, 110, 114, 0.14);
+      border-color: var(--primary-color);
+    }
+
+    /* Icon area */
+    .qh-group-icon {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      width: 100px;
+      min-height: 120px;
+      background: linear-gradient(135deg, rgba(68, 110, 114, 0.08) 0%, rgba(68, 110, 114, 0.03) 100%);
+      font-size: 2.5rem;
+      flex-shrink: 0;
+      border-right: 1px solid var(--border-soft);
+    }
+
+    /* Body */
+    .qh-group-body {
+      flex: 1;
+      padding: 1.2rem 1.4rem;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      gap: 0.4rem;
+    }
+    .qh-group-title {
+      font-size: 1.2rem;
+      font-weight: 700;
+      color: var(--text-color);
+      margin: 0;
+    }
+    .qh-group-desc {
+      font-size: 0.88rem;
+      color: rgba(100,100,100,0.7);
+      margin: 0;
+    }
+    .qh-group-meta {
+      display: flex;
+      align-items: center;
+      gap: 1rem;
+      margin-top: 0.3rem;
+      font-size: 0.82rem;
+    }
+    .qh-group-count {
+      font-weight: 700;
+      color: var(--primary-color);
+    }
+    .qh-group-diff {
+      display: flex;
+      gap: 0.5rem;
+    }
+    .qh-diff-tag {
+      padding: 0.1em 0.5em;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 0.75rem;
+    }
+    .qh-diff-tag[data-diff="1"] {
+      background: rgba(74, 158, 92, 0.1);
+      color: #3d8b50;
+    }
+    .qh-diff-tag[data-diff="2"] {
+      background: rgba(196, 154, 42, 0.1);
+      color: #9a7b20;
+    }
+    .qh-diff-tag[data-diff="3"] {
+      background: rgba(192, 57, 43, 0.1);
+      color: #a33025;
+    }
+    [data-theme="dark"] .qh-diff-tag[data-diff="1"] { color: #6bc77e; }
+    [data-theme="dark"] .qh-diff-tag[data-diff="2"] { color: #d4b44a; }
+    [data-theme="dark"] .qh-diff-tag[data-diff="3"] { color: #e06050; }
+
+    /* Arrow */
+    .qh-group-arrow {
+      display: flex;
+      align-items: center;
+      padding: 0 1.2rem;
+      color: rgba(68, 110, 114, 0.3);
+      font-size: 1rem;
+      transition: all 0.25s;
+    }
+    .qh-group:hover .qh-group-arrow {
+      color: var(--primary-color);
+      transform: translateX(3px);
+    }
+
+    /* Breadcrumb */
+    .qh-breadcrumb {
+      font-size: 0.82rem;
+      color: rgba(100,100,100,0.7);
+      margin-bottom: 1.5rem;
+    }
+    .qh-breadcrumb a { color: rgba(100,100,100,0.7); text-decoration: none; }
+    .qh-breadcrumb a:hover { color: var(--primary-color); }
+
+    @media (max-width: 640px) {
+      .qh-container { padding: 1.2rem 0.75rem 2rem; }
+      .qh-hero h1 { font-size: 1.5rem; }
+      .qh-group-icon { width: 72px; min-height: 90px; font-size: 2rem; }
+      .qh-group-body { padding: 0.9rem 1rem; }
+      .qh-group-title { font-size: 1.05rem; }
+      .qh-group-arrow { padding: 0 0.8rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="qh-container">
+    <nav class="qh-breadcrumb">
+      {crumbs.map((c, i) =>
+        i === crumbs.length - 1
+          ? <span>{c.name}</span>
+          : <><a href={c.url}>{c.name}</a> <span>/</span> </>
+      )}
+    </nav>
+
+    <div class="qh-hero">
+      <span class="qh-hero-icon" aria-hidden="true">🧩</span>
+      <h1>{data.title}</h1>
+      {data.description && <p class="qh-hero-desc">{data.description}</p>}
+    </div>
+
+    <div class="qh-groups">
+      {groups.map((g: any) => (
+        <a class="qh-group" href={g.url}>
+          <div class="qh-group-icon">{g.icon}</div>
+          <div class="qh-group-body">
+            <h2 class="qh-group-title">{g.title}</h2>
+            {g.description && <p class="qh-group-desc">{g.description}</p>}
+            <div class="qh-group-meta">
+              <span class="qh-group-count">
+                {g.count}{lang === "ja" ? "問" : " quizzes"}
+              </span>
+              <div class="qh-group-diff">
+                {g.diffs[1] > 0 && <span class="qh-diff-tag" data-diff="1">{(difficultyLabels[lang] || difficultyLabels.en)[1]} {g.diffs[1]}</span>}
+                {g.diffs[2] > 0 && <span class="qh-diff-tag" data-diff="2">{(difficultyLabels[lang] || difficultyLabels.en)[2]} {g.diffs[2]}</span>}
+                {g.diffs[3] > 0 && <span class="qh-diff-tag" data-diff="3">{(difficultyLabels[lang] || difficultyLabels.en)[3]} {g.diffs[3]}</span>}
+              </div>
+            </div>
+          </div>
+          <div class="qh-group-arrow"><i class="fas fa-chevron-right"></i></div>
+        </a>
+      ))}
+    </div>
+  </main>
+
+  <Footer lang={lang} title={data.title} permalink={canonical} translations={translationUrls} />
+  <SearchModal lang={lang} />
+</body>
+</html>
