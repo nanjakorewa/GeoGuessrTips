@@ -860,7 +860,7 @@ h2[id] {
 .main-information .section-title {
   color: var(--secondary-color);
   font-weight: 600;
-  margin-bottom: 1.25rem;
+  margin-bottom: 0.25rem;
 }
 
 .main-information a {
@@ -1599,7 +1599,7 @@ h3.section-title {
 }
 
 h4.section-title {
-  margin-top: 1.8em;
+  margin-top: 0.3em;
   margin-bottom: 0.3em;
 }
 
