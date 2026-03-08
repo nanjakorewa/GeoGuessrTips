@@ -94,30 +94,6 @@ if (toggleLink) {
 }
 </script>
 
-{flag && (
-  <script is:inline defer>
-    d3.csv('https://docs.google.com/spreadsheets/d/1wRzEFe1kQKQl8flRhe0V5gJTRD-XVO_Ux-Nd8rtGAmU/export?format=csv&range=A3:D', function(error, data){
-      if (!data || !data[0]) return;
-      let media = data[0].StreamSetting;
-      if (media==="youtube"){
-        var areaTitle = document.getElementById("streaming-status-area");
-        if(areaTitle) areaTitle.className = areaTitle.className.replace("streaming-status-area-title", "");
-        var ytTitle = document.getElementById("youtube-button-streaming");
-        if(ytTitle) ytTitle.className = ytTitle.className.replace("streaming-status-area", "");
-        var stTitle = document.getElementById("streaming-title");
-        if(stTitle) stTitle.innerHTML = data[0].StreamingTitle;
-      }
-      else if (media==="twitch"){
-        var areaTitle = document.getElementById("streaming-status-area");
-        if(areaTitle) areaTitle.className = areaTitle.className.replace("streaming-status-area-title", "");
-        var twTitle = document.getElementById("twitch-button-streaming");
-        if(twTitle) twTitle.className = twTitle.className.replace("streaming-status-area-img", "");
-        var stTitle = document.getElementById("streaming-title");
-        if(stTitle) stTitle.innerHTML = data[0].StreamingTitle;
-      }
-    });
-  </script>
-)}
 
 <script is:inline async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <script is:inline async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
