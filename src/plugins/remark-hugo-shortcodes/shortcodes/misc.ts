@@ -155,7 +155,8 @@ export function corpHandler(args: string[], lang: Language): string {
     })
     .join("\n");
 
-  return `<h4 class="section-title">${heading}</h4>\n<div class="sign-area">\n${images}\n</div>`;
+  const detailBtn = `<a href="#corp-desc" class="btn-corp-detail">&#9662; 詳細</a>`;
+  return `<h4 class="section-title">${heading} ${detailBtn}</h4>\n<div class="sign-area">\n${images}\n</div>`;
 }
 
 /** amazoncard: {{% amazoncard url="..." title="..." image="..." price="..." tagline="..." badge="..." %}} */

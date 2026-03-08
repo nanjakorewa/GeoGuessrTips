@@ -1602,6 +1602,24 @@ ul.flag-list li {
   }
 }
 
+a.btn-corp-detail {
+  font-size: 0.65em;
+  font-weight: normal;
+  padding: 2px 8px;
+  margin-left: 6px;
+  border: 1px solid #888;
+  border-radius: 3px;
+  color: #aaa;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+a.btn-corp-detail:hover {
+  color: #fff;
+  border-color: #bbb;
+  background: rgba(255, 255, 255, 0.1);
+}
+
 a.flag-link {
   max-width: 100px;
   height: 120px;
