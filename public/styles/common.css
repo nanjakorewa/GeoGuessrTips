@@ -860,7 +860,7 @@ h2[id] {
 .main-information .section-title {
   color: var(--secondary-color);
   font-weight: 600;
-  margin-bottom: 0.25rem;
+  margin-bottom: 1.25rem;
 }
 
 .main-information a {
@@ -1599,7 +1599,7 @@ h3.section-title {
 }
 
 h4.section-title {
-  margin-top: 0.3em;
+  margin-top: 0.9em;
   margin-bottom: 0.3em;
 }
 
@@ -2370,12 +2370,14 @@ div.sign-area {
   margin-bottom: 0;
   background-color: #ffffff;
   border-radius: 6px;
-  padding: 0.5em;
+  padding: 1em 0.5em;
 }
 
 div.sign-area a {
   /* pointer-events: none; */
-  margin: 0.5em;
+  margin: 0.3em 0.5em;
+  display: inline-flex;
+  align-items: center;
 }
 
 div.sign-area-clickable a {
@@ -2385,21 +2387,21 @@ div.sign-area-clickable a {
 }
 
 div.sign-area img {
+  max-height: 4em;
+  max-width: 6.5em;
+  min-width: 2.5em;
+}
+
+div.sign-area img.small {
   max-height: 3em;
   max-width: 5em;
   min-width: 2em;
 }
 
-div.sign-area img.small {
-  max-height: 2.2em;
+div.sign-area img.verysmall {
+  max-height: 2.4em;
   max-width: 4em;
   min-width: 1.8em;
-}
-
-div.sign-area img.verysmall {
-  max-height: 1.8em;
-  max-width: 3em;
-  min-width: 1.5em;
 }
 
 div.corp-area {
@@ -2802,6 +2804,11 @@ table.compare-table tr td {
   display: none !important;
 }
 
+/* Toggle: set .hide-merchandise on <html> to hide booth/merch sections */
+.hide-merchandise .image-row-booth {
+  display: none !important;
+}
+
 .image-row-booth {
   display: flex;
   flex-wrap: wrap;
@@ -3131,18 +3138,18 @@ section.section-updates {
   }
 
   div.sign-area img {
-    max-height: 2.5em;
-    max-width: 4em;
+    max-height: 3.2em;
+    max-width: 5em;
   }
 
   div.sign-area img.small {
-    max-height: 1.8em;
-    max-width: 3em;
+    max-height: 2.4em;
+    max-width: 4em;
   }
 
   div.sign-area img.verysmall {
-    max-height: 1.5em;
-    max-width: 2.5em;
+    max-height: 2em;
+    max-width: 3.2em;
   }
 
   div.corp-area img {

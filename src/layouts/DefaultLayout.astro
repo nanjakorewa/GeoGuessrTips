@@ -5,6 +5,7 @@ import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, D
 import { buildContentTree, getSiblingCountries } from "@lib/content-tree";
 import { generateDescription } from "@lib/seo-utils";
 import { getCollection } from "astro:content";
+import { siteConfig } from "@config/site";
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Sidebar from "@components/navigation/Sidebar.astro";
@@ -201,8 +202,9 @@ const crumbs: Crumb[] = [];
 crumbs.push({ name: t("toppage", lang), url: lang === DEFAULT_LANG ? "/" : `/${lang}/` });
 let crumbPath = lang === DEFAULT_LANG ? "" : `/${lang}`;
 const pathSegments = currentSlug ? currentSlug.split("/") : [];
-// Add collection
-crumbs.push({ name: collection, url: `${crumbPath}/${collection}/` });
+// Add collection (with translated display name)
+const collectionDisplayName = t(`breadcrumb_${collection}`, lang) || collection;
+crumbs.push({ name: collectionDisplayName, url: `${crumbPath}/${collection}/` });
 // Add intermediate segments
 for (let i = 0; i < pathSegments.length; i++) {
   const segSlug = pathSegments.slice(0, i + 1).join("/");
@@ -239,7 +241,7 @@ const lastmodDisplay = modifiedTime
 ---
 
 <!DOCTYPE html>
-<html lang={lang}>
+<html lang={lang} class:list={[{ "hide-merchandise": !siteConfig.showMerchandise }]}>
 <head>
   <Head
     title={seoTitle}

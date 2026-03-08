@@ -15,6 +15,7 @@ const { lang, title, permalink, flag, translations = [] } = Astro.props;
 
 const aboutUrl = lang === "ja" ? "/about/" : `/${lang}/about/`;
 const topUrl = lang === "ja" ? "/" : `/${lang}/`;
+const contactUrl = `https://nanjakorewa.github.io/MyPortfolio/contact/?lang=${lang}`;
 ---
 
 <footer class="site-footer">
@@ -31,6 +32,7 @@ const topUrl = lang === "ja" ? "/" : `/${lang}/`;
         <h4 class="footer-heading">SITE</h4>
         <ul class="footer-links">
           <li><a href={aboutUrl}>{t("footer_privacy_link", lang)}</a></li>
+          <li><a href={contactUrl} target="_blank" rel="noopener">{t("footer_contact_link", lang)}</a></li>
           <li><a href={topUrl}>Top</a></li>
         </ul>
       </div>

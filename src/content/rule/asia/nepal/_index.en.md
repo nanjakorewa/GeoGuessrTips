@@ -13,21 +13,21 @@ jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
 is_has_distinctive_googlecar: true
-sc_title: "Regiones que se confunden fácilmente"
+sc_title: "Easily Confused Regions"
 sc: [
     ["../india/", "India"],
     ["../srilanka/", "Sri Lanka"],
-    ["../bhutan/", "Bután"],
+    ["../bhutan/", "Bhutan"],
     ]
 ---
 
 <div class="main-desciption country-description">
     <h2 class="section-title">{{% i18n "how-to-distinguish" %}}</h2>
     <ul class="rule-list">
-        <li>El dominio nacional es <span class="quiz">.np</span></li>
-        <li>Circulación por el <span class="quiz">lado izquierdo</span></li>
-        <li>Las matrículas son mayoritariamente de fondo <span class="quiz">rojo</span></li>
-        <li>Carreteras con línea lateral amarilla y bolardos blancos y negros</li>
+        <li>The domain is .np</li>
+        <li>Vehicles drive on the <span class="quiz">left</span> side of the road</li>
+        <li>License plates often have a <span class="quiz">red</span> background</li>
+        <li>Black-and-white bollards and yellow road edge lines can be seen</li>
     </ul>
     {{% rd asia nepal verysmall %}}
 </div>
@@ -36,16 +36,17 @@ sc: [
 {{% tab "w-etf" %}}
 
 {{% notice tip %}}
-Los rótulos utilizan escritura devanagari; a diferencia de India, muchos números también se escriben en este alfabeto{{% ex "https://maps.app.goo.gl/am3DLRSxEGwNTEhp8" "https://maps.app.goo.gl/UURgDuo1c7TMfyB19" %}}.
+Signs are written in Nepali using Devanagari script. While it can be hard to distinguish from Hindi, in Nepal the numbers are also often written in Devanagari script{{% ex "https://maps.app.goo.gl/am3DLRSxEGwNTEhp8" "https://maps.app.goo.gl/UURgDuo1c7TMfyB19" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/kmc3.jpg" width="90%" alt="Nepal GeoGuessr guide image showing kmc3">
+
+<img src="kmc3.jpg" width="90%" alt="Nepal GeoGuessr guide image showing kmc3">
 </div>
 
 
 {{% notice tip %}}
-Las matrículas suelen ser <span class="quiz">rojas</span>{{% ex "https://maps.app.goo.gl/NEFXXZt1gqLjxx4D7" "https://maps.app.goo.gl/MfyXFzhiugrGbHeM8" %}}.
+License plates often have a <span class="quiz">red</span> background{{% ex "https://maps.app.goo.gl/NEFXXZt1gqLjxx4D7" "https://maps.app.goo.gl/MfyXFzhiugrGbHeM8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
@@ -53,60 +54,139 @@ Las matrículas suelen ser <span class="quiz">rojas</span>{{% ex "https://maps.a
 </div>
 
 {{% lb 50 %}}
-![](/rule/asia/nepal/Nepal_License_Plate_-_Private_Car_-_Light_Vehicle_-_Front_-_1983-2019.png)
+![](Nepal_License_Plate_-_Private_Car_-_Light_Vehicle_-_Front_-_1983-2019.png)
 
 CC0
 {{% /lb %}}
 
 
 {{% notice tip %}}
-Abundan los pinos del Himalaya (Pinus roxburghii){{% ex "https://maps.app.goo.gl/JU4LEPppxb9WKs7v7" "https://maps.app.goo.gl/Shp7L9MKjMy5XgiJA" "https://maps.app.goo.gl/g2SWFAdp8YGjZfz6A" %}}{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=135652" "Pinus roxburghii - iNaturalist" %}}.
+Pinus roxburghii (Himalayan pine) trees are commonly found{{% ex "https://maps.app.goo.gl/JU4LEPppxb9WKs7v7" "https://maps.app.goo.gl/Shp7L9MKjMy5XgiJA" "https://maps.app.goo.gl/g2SWFAdp8YGjZfz6A" %}}{{% ref "https://www.inaturalist.org/observations?subview=map&taxon_id=135652" "Pinus roxburghii - iNaturalist" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/dalhousie3.jpg" width="80%" alt="Nepal GeoGuessr guide image showing dalhousie3">
+<img src="dalhousie3.jpg" width="80%" alt="Nepal GeoGuessr guide image showing dalhousie3">
 </div>
 
 {{% notice tip %}}
-Los bolardos blancos y negros y el borde amarillo son característicos{{% ex "https://maps.app.goo.gl/JiwYkAt8PF9T9SZe9" "https://maps.app.goo.gl/B4DEekbhcLG8qqCx8" %}}.
+Black-and-white bollards and yellow road edge lines can be seen{{% ex "https://maps.app.goo.gl/JiwYkAt8PF9T9SZe9" "https://maps.app.goo.gl/B4DEekbhcLG8qqCx8" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<p><a href="https://commons.wikimedia.org/wiki/File:B.P._Koirala_Highway6.jpg#/media/File:B.P._Koirala_Highway6.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/B.P._Koirala_Highway6.jpg" alt="Wikimedia Commons photo showing B.P. Koirala Highway6" width="90%"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Janak_Bhatta" title="User:Janak Bhatta">Janak Bhatta</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58570500">Link</a></p>
+<p><a href="https://commons.wikimedia.org/wiki/File:B.P._Koirala_Highway6.jpg#/media/File:B.P._Koirala_Highway6.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/6/68/B.P._Koirala_Highway6.jpg" alt="Wikimedia Commons photo showing B.P. Koirala Highway6" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Janak_Bhatta" title="User:Janak Bhatta">Janak Bhatta</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=58570500">Link</a></p>
 </div>
 
 
 {{% notice tip %}}
-La herencia británica se aprecia en ciertas señales{{% ex "https://maps.app.goo.gl/EEKJKFs1MJXSmnKd7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "Gurkha War" %}}. Al igual que en Reino Unido, se circula por la izquierda.
+Due to the influence of having been a protectorate of {{% goto "../../europe/united-kingdom/" "the United Kingdom" %}}, road signs similar to British ones can be found{{% ex "https://maps.app.goo.gl/EEKJKFs1MJXSmnKd7" %}}{{% ref "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AB%E3%82%AB%E6%88%A6%E4%BA%89" "Gurkha War" %}}.
+Like the UK, vehicles drive on the <span class="quiz">left</span> side.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/eriktorner/13256285354/in/photolist-mcpVN3-s4uXGm-2jz9MC2-a8qGbo-2gxxCUg-CZhtzD-Cy4gAc-PBdihg-PMmEkB-PyDhob-LQZu9H-CMdfRH-PBdjE6-BX66mz-VKyi4X-gy1x6i-xiMJAV-gy1bvo-HgJFPv-gy38eN-cYK2Lh-gy1fdm-yiw1j5-71KjPZ-cYK1km-JdpRy7-HWL1jh-2mSawwH-cYKRrU-q5vC5A-gxZPyS-gy46vK-gy3ceb-9TswQs-oEyNEE-cYKzb5-cYJYLq-cYK2qd-JdimVN-yg5bVp-y4hcTS-yizfLA-y4ei3s-gy3J1J-gy1XdX-gxZM8Q-gxZWuW-HGeifp-8nBjA5-24yVfef" title="Traffic signs, Kathmandu, Nepal."><img src="https://live.staticflickr.com/3739/13256285354_981d45fcba_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 13256285354 981d45fcba C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
 
+<div class="googlemap-if no-margin">
+<img src="./r/Nepal_road_sign_C27.svg" width="176px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign C27">
+<img src="./r/Nepal_road_sign_D3.svg" width="160px" style="margin:10px" alt="R GeoGuessr guide image showing Nepal Road Sign D3">
+<img src="./r/Nepal_road_sign_B13-L1.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign B13 L1">
+<img src="./r/Nepal_road_sign_A22-40.svg" width="100px" style="margin:14px" alt="R GeoGuessr guide image showing Nepal Road Sign A22 40">
+</div>
+
+
+{{% notice tip %}}
+Many people wear a traditional outfit called Kurta Suruwal{{% ref "https://nepali-japanese.com/f_nepal/wear.html" "Nepali Traditional Clothing" %}}. Men often wear a black hat called a Topi{{% ex "https://maps.app.goo.gl/eKdF9brhpSgsKJgA9" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<p><a href="https://commons.wikimedia.org/wiki/File:Janakpur_Visit8.JPG#/media/File:Janakpur_Visit8.JPG"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Janakpur_Visit8.JPG" alt="Wikimedia Commons photo showing Janakpur Visit8" width="90%"></a></p><p>By <a href="//commons.wikimedia.org/w/index.php?title=User:Damauli&amp;action=edit&amp;redlink=1" class="new" title="User:Damauli (page does not exist)">Damauli</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=37118606">Link</a></p>
+</div>
+
+
 
 {{% /tab %}}
-{{% tab "Topografía" %}}
+{{% /tabs  %}}
+
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-area" %}}</h2>
+    <h4 class="section-title">Terrain and Place Names</h4>
+    <ul class="rule-list">
+        <li>Names of Nepali districts sometimes appear on signs (though the town name is often shown while the district name is omitted)
+            <ul>
+                <li>Kailali {{% ex "https://maps.app.goo.gl/NnVCnZwYB8qk1oFU8" "https://maps.app.goo.gl/eYTNzE9xBZZNMMn97" %}}</li>
+                <li>Jhapa {{% ex "https://maps.app.goo.gl/LWhBYrL5dUA1kr5UA" %}}</li>
+            </ul>
+        </li>
+        <li>Flat plains extend along the southern border, while mountain ranges spread across the north
+            <ul>
+                <li>Plains {{% ex "https://maps.app.goo.gl/L6un1yGggR5oob5x6" "https://maps.app.goo.gl/NMWpMjz6QGVTYpyc6" "https://maps.app.goo.gl/kAiuzuKQUyTDvVUA6" %}}</li>
+                <li>Mountain areas {{% ex "https://maps.app.goo.gl/QUdYnf4LF6tz5gRa8" %}}</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Districts" %}}
 {{% notice tip %}}
-El Himalaya se alinea con la frontera norte, mientras que al sur se extienden llanuras fértiles.
+Combined with the poor image quality, district names can be hard to read.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<img src="/rule/asia/nepal/Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Chure Range Chure Hills Chure Region Nepal">
+<img src="./SAHAMATI_working_area_2012-2013.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Sahamati Working Area 2012 2013">
 </div>
 
+
 {{% /tab %}}
-{{% tab "Vegetación" %}}
+{{% tab "Terrain" %}}
 {{% notice tip %}}
-Las palmeras areca se concentran en las llanuras del extremo oriental. Las plantaciones de té también se ubican en el este.
+The Himalayan mountain range runs along the northern border, while flat plains extend along the southern border.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
-<p><a href="https://commons.wikimedia.org/wiki/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg#/media/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg" alt="Wikimedia Commons photo showing अन्तु डाडा Antu Dada" height="425" width="640"></a></p><p>Por <a href="//commons.wikimedia.org/wiki/User:Hari_gurung77" title="User:Hari gurung77">Hari gurung77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59062347">Link</a></p>
+<img src="./Chure_Range_Chure_Hills_Chure_Region_Nepal.jpg" width="90%" alt="Nepal GeoGuessr guide image showing Chure Range Chure Hills Chure Region Nepal">
 </div>
 
+
+{{% /tab %}}
+{{% /tabs %}}
+
+
+<div class="main-desciption area-description">
+    <h4 class="section-title">Vegetation</h4>
+    <ul class="rule-list">
+        <li>Tall palms like areca palms are more common in the plains of the far east</li>
+        <li>Tea plantations are more common in the eastern region</li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "Areca Palms" %}}
 {{% notice tip %}}
-El cultivo de café se concentra en el centro del país, aunque los mapas de Street View lo muestran de forma irregular{{% ref "https://library.sweetmarias.com/coffee-producing-countries/asia/nepal-coffee-overview/" "Nepal Coffee Overview" %}}{{% ref "https://blog.tirakita.com/2013/08/%E3%81%88%EF%BC%9F%E3%81%93%E3%81%93%E3%81%8C%E8%BE%B2%E5%9C%92%EF%BC%9F%E3%80%80%E3%81%9F%E3%81%A0%E3%81%AE%E5%B1%B1%E3%81%AE%E4%B8%AD%E3%81%A0%E3%81%91%E3%81%A9%EF%BC%9F-%E3%83%8D%E3%83%91.shtml" "¿Esta es la plantación? Viaje a una finca cafetera en Nepal" %}}.
+This is based on playing the map dozens of times, so there is no official source{{% ex "https://maps.app.goo.gl/nRnLGmjsGrK57SGe7" "https://maps.app.goo.gl/PibWXK2qv8Y3bJqj8" %}}.
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<img src="./areca_catechu_sankyo_garden.jpg" width="50%" alt="Nepal GeoGuessr guide image showing Areca Catechu Sankyo Garden">
+</div>
+
+
+{{% /tab %}}
+{{% tab "Tea Plantations" %}}
+{{% notice tip %}}
+Tea plantations are mostly in the eastern part of the country, particularly east of the town of Dharan (धरान){{% ex "https://maps.app.goo.gl/7XojkabcdQZA4JUp8" "https://maps.app.goo.gl/86vtKxEaL2bJZtbz7" "https://maps.app.goo.gl/E2rFwNCGdRemaker6" %}}
+{{% /notice %}}
+
+<div class="googlemap-if unclickable">
+<p><a href="https://commons.wikimedia.org/wiki/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg#/media/File:%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/%E0%A4%85%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%81_%E0%A4%A1%E0%A4%BE%E0%A4%A1%E0%A4%BE_antu_dada.jpg" alt="Wikimedia Commons photo showing अन्तु डाडा Antu Dada" height="425" width="640"></a></p><p>By <a href="//commons.wikimedia.org/wiki/User:Hari_gurung77" title="User:Hari gurung77">Hari gurung77</a> - <span class="int-own-work" lang="en">Own work</span>, <a href="https://creativecommons.org/licenses/by-sa/4.0" title="Creative Commons Attribution-Share Alike 4.0">CC BY-SA 4.0</a>, <a href="https://commons.wikimedia.org/w/index.php?curid=59062347">Link</a></p>
+</div>
+
+
+{{% /tab %}}
+{{% tab "Coffee" %}}
+{{% notice tip %}}
+Coffee is reportedly grown mostly in the central region{{% ref "https://library.sweetmarias.com/coffee-producing-countries/asia/nepal-coffee-overview/" "Nepal Coffee Overview" %}}, but it is very hard to identify due to the poor image quality. Moreover, some suggest that the coffee is not grown in neat plantations{{% ref "https://blog.tirakita.com/2013/08/%E3%81%88%EF%BC%9F%E3%81%93%E3%81%93%E3%81%8C%E8%BE%B2%E5%9C%92%EF%BC%9F%E3%80%80%E3%81%9F%E3%81%A0%E3%81%AE%E5%B1%B1%E3%81%AE%E4%B8%AD%E3%81%A0%E3%81%91%E3%81%A9%EF%BC%9F-%E3%83%8D%E3%83%91.shtml" "Is this really a farm? Visiting a coffee plantation in Nepal" %}}.
 {{% /notice %}}
 
 <div class="googlemap-if unclickable">
@@ -119,18 +199,18 @@ El cultivo de café se concentra en el centro del país, aunque los mapas de Str
 <div class="main-desciption area-description">
     <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
     <ul class="rule-list">
-        <li>Namche Bazaar (नाम्चे बजार) aparece en Street View como base de los trekkings al Himalaya{{% ex "https://maps.app.goo.gl/y76kixzaKfVDn1s17" "https://maps.app.goo.gl/vQeiU8gnXyiWr17S8" %}}{{% ref "https://en.wikipedia.org/wiki/Namche_Bazaar" "Namche Bazaar" %}}. Verás tiendas de equipamiento, banderas de oración y la altitud indicada en los carteles.</li>
+        <li>There is Street View coverage in Namche Bazaar (नाम्चे बजार), a base camp for Himalayan trekking</li>
     </ul>
 </div>
 
 {{% tabs %}}
 {{% tab "नाम्चे बजार" %}}
 {{% notice tip %}}
-El pueblo sirve como centro logístico: abundan mochilas de alta montaña y banderas budistas{{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}.
+There is Street View coverage in Namche Bazaar (नाम्चे बजार), a base camp for Himalayan trekking{{% ex "https://maps.app.goo.gl/y76kixzaKfVDn1s17" "https://maps.app.goo.gl/vQeiU8gnXyiWr17S8" %}}{{% ref "https://en.wikipedia.org/wiki/Namche_Bazaar" "Namche Bazaar" %}}. On the trekking trails, prayer flags similar to those in {{% goto "../bhutan/" "Bhutan" %}} can be seen{{% ex "https://maps.app.goo.gl/jBQhxBWyGswFMNWn6" "https://maps.app.goo.gl/hyfCfD6XSiY6GqNW9" %}}. Shops sell mountaineering gear and signs display the current altitude. People around are also carrying trekking backpacks.
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
-<img src="/rule/asia/nepal/1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="Nepal GeoGuessr guide image showing 1230px A Night View Of Namche Bazaar In Nepal, Photographed On The Route To The Everest Base Camp trek, December 1, 2023">
+<img src="1230px-A_night_view_of_Namche_Bazaar_in_Nepal,_photographed_on_the_route_to_the_Everest_Base_Camp_trek,_December_1,_2023.jpg" width="90%" alt="Nepal GeoGuessr guide image showing 1230px A Night View Of Namche Bazaar In Nepal, Photographed On The Route To The Everest Base Camp trek, December 1, 2023">
 </div>
 
 {{% /tab %}}
