@@ -10,23 +10,7 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" title="Kumamoto" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kumamoto.svg" alt="Image from geopinning.space showing Kumamoto" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kumamoto/" class="flag-link">Kumamoto</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" title="Kagoshima" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">
-            <img src="https://geopinning.space/flags/Kagoshima.svg" alt="Image from geopinning.space showing Kagoshima" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/kagoshima/" class="flag-link">Kagoshima</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" title="Okinawa" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">
-            <img src="https://geopinning.space/flags/OKINAWA.svg" alt="Image from geopinning.space showing Okinawa" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/okinawa/" class="flag-link">Okinawa</a></p>
-    </li>
-</ul>
+
 
 <div class="main-desciption country-description">
     <h2 class="section-title">Overview</h2>

@@ -176,7 +176,7 @@
     if (!$img || !$img.length) {
       return false;
     }
-    if ($img.closest('.flag-list').length) {
+    if ($img.closest('.flag-list, .flag-list-japan').length) {
       return false;
     }
     // Images in the booth row should follow their links instead of opening the lightbox

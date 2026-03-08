@@ -87,43 +87,7 @@ There are white guardrails
 {{% /tab %}}
 {{% /tabs %}}
 
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/tohoku/" title="東北" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/tohoku/" class="flag-link">Tohoku / Hokkaido</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/" title="関東">
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/" class="flag-link">Kanto</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/chubu/" title="中部" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/chubu/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/chubu/" class="flag-link">Chubu</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kinki/" title="近畿">
-        <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kinki/" class="flag-link">Kinki</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/chugoku/" title="中国" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/chugoku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/chugoku/" class="flag-link">Chugoku</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/shikoku/" title="四国" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/shikoku/" class="flag-link">Shikoku</a></p>
-    </li>
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kyusyu/" title="九州" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/" class="flag-link">
-            <img src="https://geopinning.space/flags/JP.svg" alt="Image from geopinning.space showing Jp" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kyusyu/" class="flag-link">Kyushu</a></p>
-    </li>
-</ul>
+
 
 
 <div class="image-row-booth">

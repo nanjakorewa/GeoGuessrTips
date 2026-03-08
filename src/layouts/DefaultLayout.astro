@@ -102,32 +102,28 @@ const tree = buildContentTree(
 // Find current section's subtree for sidebar
 const currentUrl = buildUrl(collection, currentSlug, lang);
 
-// --- Child tree for section pages (when no content) ---
+// --- Child tree for section pages ---
 import type { TreeNode } from "@lib/content-tree";
 
 const isRuleSection = collection === "rule";
 let sectionChildTree: TreeNode[] = [];
 
-if (!hasContent) {
-  // Find the current node in the tree and get its children
-  function findNodeByUrl(nodes: TreeNode[], url: string): TreeNode | null {
-    for (const n of nodes) {
-      if (n.url === url) return n;
-      const found = findNodeByUrl(n.children, url);
-      if (found) return found;
-    }
-    return null;
+// Always build the child tree (needed for pages with content that also have children)
+function findNodeByUrl(nodes: TreeNode[], url: string): TreeNode | null {
+  for (const n of nodes) {
+    if (n.url === url) return n;
+    const found = findNodeByUrl(n.children, url);
+    if (found) return found;
   }
-  const currentNode = findNodeByUrl(tree, currentUrl);
-  if (currentNode && currentNode.children.length > 0) {
-    sectionChildTree = currentNode.children;
-  } else if (currentSlug === "") {
-    // Root of collection: the tree's root nodes are siblings of the root _index entry,
-    // not its children. Use all root nodes except the current one as children to display.
-    sectionChildTree = tree.filter(n => n.url !== currentUrl);
-  } else {
-    sectionChildTree = tree;
-  }
+  return null;
+}
+const currentNode = findNodeByUrl(tree, currentUrl);
+if (currentNode && currentNode.children.length > 0) {
+  sectionChildTree = currentNode.children;
+} else if (currentSlug === "") {
+  sectionChildTree = tree.filter(n => n.url !== currentUrl);
+} else if (!hasContent) {
+  sectionChildTree = tree;
 }
 
 // Recursive HTML builder for section pages (flag grid or page list)
@@ -168,7 +164,7 @@ function renderSectionTree(nodes: TreeNode[], useFlags: boolean): string {
   return html;
 }
 
-const sectionTreeHtml = !hasContent
+const sectionTreeHtml = sectionChildTree.length > 0
   ? renderSectionTree(sectionChildTree, isRuleSection)
   : "";
 
@@ -431,8 +427,24 @@ const lastmodDisplay = modifiedTime
             {/* Table of Contents (only for pages with content) */}
             {hasContent && <TableOfContents />}
 
-            {/* Main content or child page listing */}
-            {hasContent ? (
+            {/* Auto-generated child page flag grid (for section pages with children) */}
+            {sectionChildTree.length > 0 && isRuleSection && (
+              <div class="p-4">
+                <ul class="flag-list">
+                  <Fragment set:html={sectionTreeHtml} />
+                </ul>
+              </div>
+            )}
+            {sectionChildTree.length > 0 && !isRuleSection && !hasContent && (
+              <div class="p-4">
+                <ul class="page-list">
+                  <Fragment set:html={sectionTreeHtml} />
+                </ul>
+              </div>
+            )}
+
+            {/* Main content */}
+            {hasContent && (
               <div class="content" data-pagefind-body>
                 <slot />
 
@@ -466,18 +478,6 @@ const lastmodDisplay = modifiedTime
                       ))}
                     </ul>
                   </div>
-                )}
-              </div>
-            ) : (
-              <div class="p-4">
-                {isRuleSection ? (
-                  <ul class="flag-list">
-                    <Fragment set:html={sectionTreeHtml} />
-                  </ul>
-                ) : (
-                  <ul class="page-list">
-                    <Fragment set:html={sectionTreeHtml} />
-                  </ul>
                 )}
               </div>
             )}

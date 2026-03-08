@@ -1549,8 +1549,8 @@ ul.flag-list li {
   }
 
   ul.flag-list-japan li::before {
-    content: "" !important;
-    width: 0;
+    content: none !important;
+    display: none !important;
   }
 
   ul.flag-list-japan li p {

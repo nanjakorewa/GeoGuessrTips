@@ -10,13 +10,7 @@ no_jetro: true
 flag: "JP.svg"
 ---
 
-<ul class="flag-list-japan">
-    <li data-nav-id="https://geopinning.space/rule/asia/japan/kanto/chiba/" title="千葉" class="">
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">
-            <img src="https://geopinning.space/flags/Osaka.svg" alt="Image from geopinning.space showing Osaka" class="flag-img-link" oncontextmenu="return false;"></a></p>
-        <p><a href="https://geopinning.space/rule/asia/japan/kanto/chiba/" class="flag-link">千葉</a></p>
-    </li>
-</ul>
+
 
 <div class="main-desciption country-description">
     <h2 class="section-title">関東</h2>
