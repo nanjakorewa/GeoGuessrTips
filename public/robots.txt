@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://localhost:1313/sitemap.xml
+Sitemap: https://geopinning.space/sitemap-index.xml
