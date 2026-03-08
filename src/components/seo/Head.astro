@@ -71,16 +71,27 @@ const imageAlt = title || siteTitle;
 
 // --- Dynamic keywords ---
 const baseKeywords = ["GeoGuessr"];
-if (lang === "ja") baseKeywords.push("ジオゲッサー", "地理クイズ");
+const langKeywords: Record<Language, string[]> = {
+  ja: ["ジオゲッサー", "地理クイズ", "攻略"],
+  en: ["geography quiz", "tips", "guide"],
+  id: ["kuis geografi", "tips", "panduan"],
+  es: ["quiz de geografía", "consejos", "guía"],
+  pt: ["quiz de geografia", "dicas", "guia"],
+};
+baseKeywords.push(...(langKeywords[lang] || langKeywords.en));
 if (flag && pageData.title) {
   baseKeywords.push(pageData.title);
-  if (lang === "ja") {
-    baseKeywords.push(`${pageData.title} GeoGuessr`, `${pageData.title} 見分け方`);
-  } else {
-    baseKeywords.push(`${pageData.title} GeoGuessr`, `identify ${pageData.title}`);
-  }
+  const identifyTemplates: Record<Language, string> = {
+    ja: `${pageData.title} 見分け方`,
+    en: `identify ${pageData.title}`,
+    id: `mengenali ${pageData.title}`,
+    es: `identificar ${pageData.title}`,
+    pt: `identificar ${pageData.title}`,
+  };
+  baseKeywords.push(`${pageData.title} GeoGuessr`, identifyTemplates[lang] || identifyTemplates.en);
 }
-if (collection === "quiz") baseKeywords.push(lang === "ja" ? "クイズ" : "quiz");
+const quizKeywords: Record<Language, string> = { ja: "クイズ", en: "quiz", id: "kuis", es: "quiz", pt: "quiz" };
+if (collection === "quiz") baseKeywords.push(quizKeywords[lang] || "quiz");
 const keywords = baseKeywords.join(", ");
 ---
 
@@ -105,7 +116,7 @@ const keywords = baseKeywords.join(", ");
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Inter:wght@400;500;700&display=swap" as="style" />
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Inter:wght@400;500;700&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'" />
 <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
 <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
 <link rel="dns-prefetch" href="https://www.clarity.ms" />
@@ -120,7 +131,7 @@ const keywords = baseKeywords.join(", ");
 {translationUrls.map(({ lang: tLang, url }) => (
   <link rel="alternate" hreflang={getHreflang(tLang)} href={url} />
 ))}
-<link rel="alternate" hreflang="x-default" href={canonical} />
+<link rel="alternate" hreflang="x-default" href={translationUrls.find(t => t.lang === "ja")?.url || canonical} />
 
 {/* Open Graph */}
 <meta property="og:site_name" content={siteTitle} />
@@ -191,7 +202,7 @@ const keywords = baseKeywords.join(", ");
 <link rel="stylesheet" href="/plugins/bootstrap/bootstrap.min.css" />
 <link rel="stylesheet" href="/plugins/themify-icons/themify-icons.css" />
 <link rel="icon" href="/images/icon-16x16.png" type="image/x-icon" />
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet" />
+<noscript><link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Inter:wght@400;500;700&display=swap" rel="stylesheet" /></noscript>
 <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet" />
 
 <style is:inline>

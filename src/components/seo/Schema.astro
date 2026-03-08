@@ -205,9 +205,14 @@ if (flag) {
     es: `Cómo identificar ${countryName} en GeoGuessr`,
     pt: `Como identificar ${countryName} no GeoGuessr`,
   };
-  const steps = lang === "ja"
-    ? ["ストリートビューの風景を観察する", "看板、標識、言語などの特徴を確認する", "地形や植生から地域を絞り込む"]
-    : ["Observe the Street View landscape", "Check signs, road markers, and language", "Narrow down the region from terrain and vegetation"];
+  const stepsMap: Record<Language, string[]> = {
+    ja: ["ストリートビューの風景を観察する", "看板、標識、言語などの特徴を確認する", "地形や植生から地域を絞り込む"],
+    en: ["Observe the Street View landscape", "Check signs, road markers, and language", "Narrow down the region from terrain and vegetation"],
+    id: ["Amati pemandangan Street View", "Periksa rambu, penanda jalan, dan bahasa", "Persempit wilayah dari medan dan vegetasi"],
+    es: ["Observa el paisaje de Street View", "Comprueba señales, marcadores viales e idioma", "Reduce la región según el terreno y la vegetación"],
+    pt: ["Observe a paisagem do Street View", "Verifique placas, sinalizações e idioma", "Restrinja a região pelo terreno e vegetação"],
+  };
+  const steps = stepsMap[lang] || stepsMap.en;
   howtoSchema = {
     "@context": "https://schema.org",
     "@type": "HowTo",
