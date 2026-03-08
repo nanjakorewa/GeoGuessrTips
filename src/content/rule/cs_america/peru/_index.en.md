@@ -111,7 +111,7 @@ There is a black and white bollard on the roadside{{% ex "https://maps.app.goo.g
 
 {{% notice tip %}}
 long box embedded in the wall{{% ex "https://maps.app.goo.gl/1PLN3XUQsWPPtnoa6" "https://maps.app.goo.gl/KJw4WK2uzF8AYCZ99" "https://maps.app.goo.gl/mgsNuVcYrRLWHhhw5" "https://maps.app.goo.gl/L9pzJu7aW5H322sJ9" %}}
-{{% /lb %}}
+{{% /notice %}}
 
 
 <div class="googlemap-if no-margin">
@@ -121,11 +121,11 @@ long box embedded in the wall{{% ex "https://maps.app.goo.gl/1PLN3XUQsWPPtnoa6" 
 
 {{% notice tip %}}
 Orange and black stripes are painted diagonally on the guardrails and curbs of sharp curves.{{% ex "https://maps.app.goo.gl/rFkq3QZm8MHJ99zr6" "https://maps.app.goo.gl/323HYVWtD73WQRhs9" "https://maps.app.goo.gl/CBrJZ751L9DXeLDRA" "https://maps.app.goo.gl/6KKmEdoJPcWqgLH88" "https://maps.app.goo.gl/WQTNDyuuJQ44mfW47" "https://maps.app.goo.gl/Yi5948wqgjyoXWxR6" %}}
-{{% /lb %}}
+{{% /notice %}}
 
 {{% notice note %}}
 on the other hand{{% goto "../ecuador/" "ecuador" %}}has many double guardrails
-{{% /lb %}}
+{{% /notice %}}
 
 <div class="googlemap-if no-margin">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/kike_sarmiento/5454642910/in/photolist-9j1tiq-4JUvNR-HGZRR-HZPqdv-9XNado-9FQMYJ-7Qjskb-9sca3S-8T1jVK-JxQ1Sa-o2HmeL-pFU4Jb-AmZaEj-6a8ZHV-7k6hHo-5VrKR7-TspZzo-QBDeWe-YaCoN2-2kekAHo-p3rAQH-2nVyKrb-219gxFY-2pDHs2c-2eCdg8Q-pKs4Fd-4mxkpz-bB6UFp-p3cNcK-bCnkka-223PFyq-dhnA22-s5iRMz-SkoJnS-2jAH6xX-2o4E2hv-QWYBG4-26hGraQ-4q3ToR-2jKATRc-4szFLi-MVRiNx-braXyg-2odZuMB-276nEhP-xM1quu-2nyFwy1-2pzeGMt-261z2Jf-2nyAhkR" title="4-nasca-ica_011"><img src="https://live.staticflickr.com/5094/5454642910_295b817351_c.jpg" width="90%" alt="Image from live.staticflickr.com showing 5454642910 295b817351 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -164,7 +164,7 @@ Although there are several variations of bollards, the white with yellow paint d
 
 {{% notice tip %}}
 You can see black and white Google Cars.However, since black Google Cars are also used in Asia, it can be confusing to fly to South America based on the color alone.The one on the right is Indonesia, not Peru.
-{{% /lb %}}
+{{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689164645139!6m8!1m7!1szQDgI-2g9EZX7W2bfK0a6Q!2m2!1d-4.917720938064438!2d-80.84123537673362!3f277.2642709679733!4f-31.950433040985388!5f2.5783706818300063"width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

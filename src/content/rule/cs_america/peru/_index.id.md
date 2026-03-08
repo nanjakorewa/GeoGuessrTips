@@ -153,7 +153,7 @@ Bollard dengan desain putih dan cat kuning jarang ditemukan di luar Peru.
 {{% tab "Google Car" %}}
 {{% notice tip %}}
 Google Car dengan warna hitam atau putih sering terlihat. Namun, warna ini juga digunakan di Asia, jadi perhatikan untuk tidak langsung mengira berada di Amerika Selatan. Gambar di kanan berasal dari Indonesia.
-{{% /lb %}}
+{{% /notice %}}
 
 <div class="googlemap-if">
 <iframe src="https://www.google.com/maps/embed?pb=!4v1689164645139!6m8!1m7!1szQDgI-2g9EZX7W2bfK0a6Q!2m2!1d-4.917720938064438!2d-80.84123537673362!3f277.2642709679733!4f-31.950433040985388!5f2.5783706818300063" width="295" height="295" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
