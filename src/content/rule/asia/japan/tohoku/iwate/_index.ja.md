@@ -10,11 +10,17 @@ is_pref: true
 flag: "Iwate.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>南部鉄器に代表される<span class="quiz">鋳物産業</span>が盛んで、奥州市水沢区は日本有数の鋳物の街<a href="https://ja.wikipedia.org/wiki/南部鉄器" target="_blank"><sup>[参]</sup></a></li>
+        <li>三陸海岸沿いは<span class="quiz">水産加工業</span>が集積し、わかめ養殖は全国1位<a href="https://ja.wikipedia.org/wiki/岩手県#水産業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>南部鉄器に代表される<span class="quiz">鋳物産業</span>が盛んで、奥州市水沢区は日本有数の鋳物の街<a href="https://ja.wikipedia.org/wiki/南部鉄器" target="_blank"><sup>[参]</sup></a></li>
-        <li>三陸海岸沿いは<span class="quiz">水産加工業</span>が集積し、わかめ養殖は全国1位<a href="https://ja.wikipedia.org/wiki/岩手県#水産業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "tohoku/iwate" %}}
 </div>

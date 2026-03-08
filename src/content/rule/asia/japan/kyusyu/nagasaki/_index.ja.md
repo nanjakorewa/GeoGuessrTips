@@ -10,11 +10,17 @@ is_pref: true
 flag: "Nagasaki.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">造船業</span>が基幹産業で、三菱重工業長崎造船所は日本最大級の造船所の一つ<a href="https://ja.wikipedia.org/wiki/三菱重工業長崎造船所" target="_blank"><sup>[参]</sup></a></li>
+        <li><span class="quiz">水産業</span>が盛んで、漁業生産額は全国上位。特にあじ・さばの水揚げ量が多い<a href="https://ja.wikipedia.org/wiki/長崎県#水産業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">造船業</span>が基幹産業で、三菱重工業長崎造船所は日本最大級の造船所の一つ<a href="https://ja.wikipedia.org/wiki/三菱重工業長崎造船所" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">水産業</span>が盛んで、漁業生産額は全国上位。特にあじ・さばの水揚げ量が多い<a href="https://ja.wikipedia.org/wiki/長崎県#水産業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kyusyu/nagasaki" %}}
 </div>

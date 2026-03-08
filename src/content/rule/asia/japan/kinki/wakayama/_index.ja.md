@@ -10,11 +10,17 @@ is_pref: true
 flag: "Wakayama.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">みかん・梅・柿</span>の生産量がいずれも全国1位の果樹王国<a href="https://ja.wikipedia.org/wiki/和歌山県#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>有田地域は<span class="quiz">有田みかん</span>の産地で、急斜面の段々畑が特徴的な風景<a href="https://ja.wikipedia.org/wiki/有田みかん" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">みかん・梅・柿</span>の生産量がいずれも全国1位の果樹王国<a href="https://ja.wikipedia.org/wiki/和歌山県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>有田地域は<span class="quiz">有田みかん</span>の産地で、急斜面の段々畑が特徴的な風景<a href="https://ja.wikipedia.org/wiki/有田みかん" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kinki/wakayama" %}}
 </div>

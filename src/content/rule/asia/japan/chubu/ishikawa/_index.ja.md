@@ -10,12 +10,17 @@ is_pref: true
 flag: "Ishikawa.svg"
 ---
 
-<div class="main-desciption country-description">
-    <h2 class="section-title">全域</h2>
-    <ul class="rule-list">
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
         <li>金沢市は加賀藩の城下町で、<span class="quiz">金箔</span>の国内生産シェア約99%を誇る<a href="https://ja.wikipedia.org/wiki/金沢市#伝統工芸" target="_blank"><sup>[参]</sup></a></li>
         <li>繊維・機械工業が盛んで、<span class="quiz">織機・繊維機械</span>メーカーが集積<a href="https://ja.wikipedia.org/wiki/石川県#産業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
+</div>
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list"></ul>
     {{% corp "asia/japan" "chubu/ishikawa" %}}
 </div>
 

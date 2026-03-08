@@ -10,11 +10,17 @@ is_pref: true
 flag: "Ibaraki.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>日立市は<span class="quiz">日立製作所</span>の創業地で、電機・重工業の企業城下町<a href="https://ja.wikipedia.org/wiki/日立市#工業" target="_blank"><sup>[参]</sup></a></li>
+        <li>鹿島臨海工業地帯は<span class="quiz">石油化学・鉄鋼</span>のコンビナートが立地<a href="https://ja.wikipedia.org/wiki/鹿島臨海工業地帯" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>日立市は<span class="quiz">日立製作所</span>の創業地で、電機・重工業の企業城下町<a href="https://ja.wikipedia.org/wiki/日立市#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>鹿島臨海工業地帯は<span class="quiz">石油化学・鉄鋼</span>のコンビナートが立地<a href="https://ja.wikipedia.org/wiki/鹿島臨海工業地帯" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kanto/ibaraki" %}}
 </div>

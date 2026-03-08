@@ -10,11 +10,17 @@ is_pref: true
 flag: "Yamagata.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">さくらんぼ</span>の生産量は全国の約7割を占め、「果樹王国」として知られる<a href="https://ja.wikipedia.org/wiki/山形県#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>天童市は将棋駒の生産量が全国の約9割を占める<span class="quiz">将棋駒の産地</span><a href="https://ja.wikipedia.org/wiki/天童市#将棋駒" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">さくらんぼ</span>の生産量は全国の約7割を占め、「果樹王国」として知られる<a href="https://ja.wikipedia.org/wiki/山形県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>天童市は将棋駒の生産量が全国の約9割を占める<span class="quiz">将棋駒の産地</span><a href="https://ja.wikipedia.org/wiki/天童市#将棋駒" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "tohoku/yamagata" %}}
 </div>

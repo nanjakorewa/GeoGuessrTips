@@ -10,11 +10,17 @@ is_pref: true
 flag: "Tottori.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">二十世紀梨</span>の生産量は全国1位で、鳥取県を代表する特産品<a href="https://ja.wikipedia.org/wiki/二十世紀_(ナシ)" target="_blank"><sup>[参]</sup></a></li>
+        <li>鳥取砂丘周辺では<span class="quiz">らっきょう</span>の栽培が盛んで、砂地を活かした農業が特徴<a href="https://ja.wikipedia.org/wiki/鳥取県#農林水産業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">二十世紀梨</span>の生産量は全国1位で、鳥取県を代表する特産品<a href="https://ja.wikipedia.org/wiki/二十世紀_(ナシ)" target="_blank"><sup>[参]</sup></a></li>
-        <li>鳥取砂丘周辺では<span class="quiz">らっきょう</span>の栽培が盛んで、砂地を活かした農業が特徴<a href="https://ja.wikipedia.org/wiki/鳥取県#農林水産業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "chugoku/tottori" %}}
 </div>

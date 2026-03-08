@@ -10,11 +10,17 @@ is_pref: true
 flag: "Nara.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">靴下</span>の生産量は全国の約6割を占め、広陵町・大和高田市が主産地<a href="https://ja.wikipedia.org/wiki/広陵町#産業" target="_blank"><sup>[参]</sup></a></li>
+        <li>吉野地方は<span class="quiz">吉野杉・吉野桧</span>の林業が盛んで、500年以上の歴史を持つ<a href="https://ja.wikipedia.org/wiki/吉野杉" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">靴下</span>の生産量は全国の約6割を占め、広陵町・大和高田市が主産地<a href="https://ja.wikipedia.org/wiki/広陵町#産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>吉野地方は<span class="quiz">吉野杉・吉野桧</span>の林業が盛んで、500年以上の歴史を持つ<a href="https://ja.wikipedia.org/wiki/吉野杉" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kinki/nara" %}}
 </div>

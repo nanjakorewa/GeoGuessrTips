@@ -1992,6 +1992,54 @@ ul.rule-list li i {
   list-style: none;
 }
 
+/* Prefecture Tips Box */
+.pref-tips {
+  position: relative;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-top: 3px solid var(--primary-color);
+  border-radius: 0 0 6px 6px;
+  padding: 1.2rem 1.2rem 0.8rem;
+  margin: 0.5rem 0 1.5rem;
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+.pref-tips .pref-tips-title {
+  position: absolute;
+  top: -3px;
+  left: 16px;
+  transform: translateY(-100%);
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 0.82em;
+  font-weight: 600;
+  padding: 0.2rem 0.9rem;
+  border-radius: 6px 6px 0 0;
+  line-height: 1.6;
+}
+
+.pref-tips ul {
+  margin: 0;
+  padding-left: 1.4em;
+}
+
+.pref-tips ul li {
+  margin-bottom: 0.15rem;
+  color: var(--text-color);
+}
+
+.pref-tips a[target="_blank"] sup {
+  font-size: 0.8em;
+  opacity: 0.7;
+}
+
+[data-theme="dark"] .pref-tips {
+  background: var(--surface-alt);
+  border-color: rgba(200, 200, 200, 0.15);
+  border-top-color: var(--primary-color);
+}
+
 /*
 .content ul.rule-list li.no-evidence::before {
   font-family: "Font Awesome 5 Free";

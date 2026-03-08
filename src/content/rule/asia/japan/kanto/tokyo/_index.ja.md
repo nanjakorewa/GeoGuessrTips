@@ -10,11 +10,17 @@ is_pref: true
 flag: "Tokyo.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>日本の首都で人口約1,400万人。日本企業の本社が最も集中する<span class="quiz">経済の中心地</span><a href="https://ja.wikipedia.org/wiki/東京都" target="_blank"><sup>[参]</sup></a></li>
+        <li>大田区は中小の<span class="quiz">町工場</span>が密集する日本有数のものづくりエリア<a href="https://ja.wikipedia.org/wiki/大田区#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>日本の首都で人口約1,400万人。日本企業の本社が最も集中する<span class="quiz">経済の中心地</span><a href="https://ja.wikipedia.org/wiki/東京都" target="_blank"><sup>[参]</sup></a></li>
-        <li>大田区は中小の<span class="quiz">町工場</span>が密集する日本有数のものづくりエリア<a href="https://ja.wikipedia.org/wiki/大田区#工業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kanto/tokyo" %}}
 </div>

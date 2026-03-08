@@ -10,11 +10,17 @@ is_pref: true
 flag: "Saga.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">有田焼・伊万里焼</span>は日本を代表する磁器で、400年以上の歴史を持つ伝統産業<a href="https://ja.wikipedia.org/wiki/有田焼" target="_blank"><sup>[参]</sup></a></li>
+        <li>佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観<a href="https://ja.wikipedia.org/wiki/佐賀県#農業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">有田焼・伊万里焼</span>は日本を代表する磁器で、400年以上の歴史を持つ伝統産業<a href="https://ja.wikipedia.org/wiki/有田焼" target="_blank"><sup>[参]</sup></a></li>
-        <li>佐賀平野は<span class="quiz">米作</span>が盛んで、クリークと呼ばれる水路網が特徴的な景観<a href="https://ja.wikipedia.org/wiki/佐賀県#農業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kyusyu/saga" %}}
 </div>

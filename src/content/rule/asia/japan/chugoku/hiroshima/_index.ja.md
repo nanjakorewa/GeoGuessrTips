@@ -10,11 +10,17 @@ is_pref: true
 flag: "Hiroshima.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>瀬戸内海沿岸に<span class="quiz">造船・自動車・鉄鋼</span>の重工業が集積する工業県<a href="https://ja.wikipedia.org/wiki/広島県#工業" target="_blank"><sup>[参]</sup></a></li>
+        <li>呉市は<span class="quiz">造船</span>の街として知られ、戦艦大和を建造した歴史を持つ<a href="https://ja.wikipedia.org/wiki/呉市#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>瀬戸内海沿岸に<span class="quiz">造船・自動車・鉄鋼</span>の重工業が集積する工業県<a href="https://ja.wikipedia.org/wiki/広島県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>呉市は<span class="quiz">造船</span>の街として知られ、戦艦大和を建造した歴史を持つ<a href="https://ja.wikipedia.org/wiki/呉市#工業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "chugoku/hiroshima" %}}
 </div>

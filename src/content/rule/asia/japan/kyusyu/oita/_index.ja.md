@@ -10,11 +10,17 @@ is_pref: true
 flag: "Oita.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>別府・湯布院を中心に<span class="quiz">温泉</span>の源泉数・湧出量ともに日本一<a href="https://ja.wikipedia.org/wiki/大分県#温泉" target="_blank"><sup>[参]</sup></a></li>
+        <li>大分市の臨海工業地帯には<span class="quiz">鉄鋼・石油化学</span>のコンビナートが立地し、「新産業都市」として発展<a href="https://ja.wikipedia.org/wiki/大分県#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>別府・湯布院を中心に<span class="quiz">温泉</span>の源泉数・湧出量ともに日本一<a href="https://ja.wikipedia.org/wiki/大分県#温泉" target="_blank"><sup>[参]</sup></a></li>
-        <li>大分市の臨海工業地帯には<span class="quiz">鉄鋼・石油化学</span>のコンビナートが立地し、「新産業都市」として発展<a href="https://ja.wikipedia.org/wiki/大分県#工業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kyusyu/oita" %}}
 </div>

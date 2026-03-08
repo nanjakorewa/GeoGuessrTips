@@ -10,11 +10,17 @@ is_pref: true
 flag: "Saitama.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>東京のベッドタウンとして人口約730万人を擁し、<span class="quiz">都道府県別人口5位</span><a href="https://ja.wikipedia.org/wiki/埼玉県#人口" target="_blank"><sup>[参]</sup></a></li>
+        <li>川口市は<span class="quiz">鋳物</span>の街として知られ、江戸時代から続く金属加工産業が集積<a href="https://ja.wikipedia.org/wiki/川口市#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>東京のベッドタウンとして人口約730万人を擁し、<span class="quiz">都道府県別人口5位</span><a href="https://ja.wikipedia.org/wiki/埼玉県#人口" target="_blank"><sup>[参]</sup></a></li>
-        <li>川口市は<span class="quiz">鋳物</span>の街として知られ、江戸時代から続く金属加工産業が集積<a href="https://ja.wikipedia.org/wiki/川口市#工業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kanto/saitama" %}}
 </div>

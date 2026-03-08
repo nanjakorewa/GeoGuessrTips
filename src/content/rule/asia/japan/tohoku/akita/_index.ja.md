@@ -10,11 +10,17 @@ is_pref: true
 flag: "Akita.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>かつて日本最大の<span class="quiz">銅鉱山（小坂鉱山）</span>を擁し、現在も非鉄金属リサイクル産業が集積<a href="https://ja.wikipedia.org/wiki/小坂鉱山" target="_blank"><sup>[参]</sup></a></li>
+        <li>米の銘柄「<span class="quiz">あきたこまち</span>」の産地で、米の産出額は全国3位<a href="https://ja.wikipedia.org/wiki/秋田県#農業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>かつて日本最大の<span class="quiz">銅鉱山（小坂鉱山）</span>を擁し、現在も非鉄金属リサイクル産業が集積<a href="https://ja.wikipedia.org/wiki/小坂鉱山" target="_blank"><sup>[参]</sup></a></li>
-        <li>米の銘柄「<span class="quiz">あきたこまち</span>」の産地で、米の産出額は全国3位<a href="https://ja.wikipedia.org/wiki/秋田県#農業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "tohoku/akita" %}}
 </div>

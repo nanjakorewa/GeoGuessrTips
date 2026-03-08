@@ -10,11 +10,17 @@ is_pref: true
 flag: "Mie.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>四日市市は<span class="quiz">石油化学コンビナート</span>が立地する工業都市<a href="https://ja.wikipedia.org/wiki/四日市コンビナート" target="_blank"><sup>[参]</sup></a></li>
+        <li>伊勢志摩地域は<span class="quiz">真珠養殖</span>の発祥地で、ミキモトが御木本幸吉により創業された<a href="https://ja.wikipedia.org/wiki/ミキモト" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>四日市市は<span class="quiz">石油化学コンビナート</span>が立地する工業都市<a href="https://ja.wikipedia.org/wiki/四日市コンビナート" target="_blank"><sup>[参]</sup></a></li>
-        <li>伊勢志摩地域は<span class="quiz">真珠養殖</span>の発祥地で、ミキモトが御木本幸吉により創業された<a href="https://ja.wikipedia.org/wiki/ミキモト" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kinki/mie" %}}
 </div>

@@ -10,11 +10,17 @@ is_pref: true
 flag: "Shimane.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>石見地方は<span class="quiz">石州瓦</span>の産地で、赤褐色の瓦屋根が特徴的な景観を形成<a href="https://ja.wikipedia.org/wiki/石州瓦" target="_blank"><sup>[参]</sup></a></li>
+        <li>安来市は<span class="quiz">特殊鋼（安来鋼）</span>の産地で、日本刀の原料「玉鋼」の製造技術を今に伝える<a href="https://ja.wikipedia.org/wiki/安来鋼" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>石見地方は<span class="quiz">石州瓦</span>の産地で、赤褐色の瓦屋根が特徴的な景観を形成<a href="https://ja.wikipedia.org/wiki/石州瓦" target="_blank"><sup>[参]</sup></a></li>
-        <li>安来市は<span class="quiz">特殊鋼（安来鋼）</span>の産地で、日本刀の原料「玉鋼」の製造技術を今に伝える<a href="https://ja.wikipedia.org/wiki/安来鋼" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "chugoku/shimane" %}}
 </div>

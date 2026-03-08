@@ -10,11 +10,17 @@ is_pref: true
 flag: "Fukushima.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>会津地方は<span class="quiz">漆器・酒造</span>が盛んで、会津塗は400年以上の歴史を持つ伝統工芸<a href="https://ja.wikipedia.org/wiki/会津塗" target="_blank"><sup>[参]</sup></a></li>
+        <li>いわき市周辺は<span class="quiz">化学・製造業</span>の工場が集積する工業地帯<a href="https://ja.wikipedia.org/wiki/福島県#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>会津地方は<span class="quiz">漆器・酒造</span>が盛んで、会津塗は400年以上の歴史を持つ伝統工芸<a href="https://ja.wikipedia.org/wiki/会津塗" target="_blank"><sup>[参]</sup></a></li>
-        <li>いわき市周辺は<span class="quiz">化学・製造業</span>の工場が集積する工業地帯<a href="https://ja.wikipedia.org/wiki/福島県#工業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "tohoku/fukushima" %}}
 </div>

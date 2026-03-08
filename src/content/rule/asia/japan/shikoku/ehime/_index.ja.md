@@ -10,11 +10,17 @@ is_pref: true
 flag: "Ehime.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">みかん</span>の生産量は全国トップクラスで、宇和島・八幡浜地域が主産地<a href="https://ja.wikipedia.org/wiki/愛媛県#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>四国中央市は<span class="quiz">紙・パルプ</span>産業の集積地で、紙製品出荷額は全国トップクラス<a href="https://ja.wikipedia.org/wiki/四国中央市#産業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">みかん</span>の生産量は全国トップクラスで、宇和島・八幡浜地域が主産地<a href="https://ja.wikipedia.org/wiki/愛媛県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>四国中央市は<span class="quiz">紙・パルプ</span>産業の集積地で、紙製品出荷額は全国トップクラス<a href="https://ja.wikipedia.org/wiki/四国中央市#産業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "shikoku/ehime" %}}
 </div>

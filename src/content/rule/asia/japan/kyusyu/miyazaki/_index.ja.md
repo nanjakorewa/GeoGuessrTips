@@ -10,11 +10,17 @@ is_pref: true
 flag: "Miyazaki.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">畜産業</span>が盛んで、宮崎牛・地鶏・豚の生産額はいずれも全国トップクラス<a href="https://ja.wikipedia.org/wiki/宮崎県#農畜産業" target="_blank"><sup>[参]</sup></a></li>
+        <li>温暖な気候を活かした<span class="quiz">マンゴー・きんかん</span>などの熱帯果樹栽培が特徴<a href="https://ja.wikipedia.org/wiki/宮崎県#農畜産業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">畜産業</span>が盛んで、宮崎牛・地鶏・豚の生産額はいずれも全国トップクラス<a href="https://ja.wikipedia.org/wiki/宮崎県#農畜産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>温暖な気候を活かした<span class="quiz">マンゴー・きんかん</span>などの熱帯果樹栽培が特徴<a href="https://ja.wikipedia.org/wiki/宮崎県#農畜産業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kyusyu/miyazaki" %}}
 </div>

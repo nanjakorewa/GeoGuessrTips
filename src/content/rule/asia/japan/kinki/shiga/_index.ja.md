@@ -10,11 +10,17 @@ is_pref: true
 flag: "Shiga.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>琵琶湖を中心とした県で、湖東・湖南地域に<span class="quiz">製造業</span>の工場が集積<a href="https://ja.wikipedia.org/wiki/滋賀県#工業" target="_blank"><sup>[参]</sup></a></li>
+        <li>信楽町は<span class="quiz">信楽焼</span>（たぬきの置物で有名）の産地<a href="https://ja.wikipedia.org/wiki/信楽焼" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>琵琶湖を中心とした県で、湖東・湖南地域に<span class="quiz">製造業</span>の工場が集積<a href="https://ja.wikipedia.org/wiki/滋賀県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li>信楽町は<span class="quiz">信楽焼</span>（たぬきの置物で有名）の産地<a href="https://ja.wikipedia.org/wiki/信楽焼" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kinki/shiga" %}}
 </div>

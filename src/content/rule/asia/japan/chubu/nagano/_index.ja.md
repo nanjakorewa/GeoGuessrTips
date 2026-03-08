@@ -10,12 +10,17 @@ is_pref: true
 flag: "Nagano.svg"
 ---
 
-<div class="main-desciption country-description">
-    <h2 class="section-title">全域</h2>
-    <ul class="rule-list">
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
         <li>諏訪湖周辺は「<span class="quiz">東洋のスイス</span>」と呼ばれ、精密機器・時計産業が集積<a href="https://ja.wikipedia.org/wiki/諏訪地域#精密機器産業" target="_blank"><sup>[参]</sup></a></li>
         <li><span class="quiz">味噌</span>の生産量は全国1位で、信州味噌は全国シェア約5割<a href="https://ja.wikipedia.org/wiki/信州味噌" target="_blank"><sup>[参]</sup></a></li>
     </ul>
+</div>
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list"></ul>
     {{% corp "asia/japan" "chubu/nagano" %}}
 </div>
 

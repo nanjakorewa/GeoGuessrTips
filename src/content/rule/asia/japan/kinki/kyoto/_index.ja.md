@@ -10,11 +10,17 @@ is_pref: true
 flag: "Kyoto.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>伝統工芸と先端産業が共存し、<span class="quiz">西陣織・京友禅・清水焼</span>などの伝統産業が今も盛ん<a href="https://ja.wikipedia.org/wiki/京都府#伝統産業" target="_blank"><sup>[参]</sup></a></li>
+        <li>京都南部は<span class="quiz">精密機器・電子部品</span>メーカーが集積する「京都モデル」の産業クラスター<a href="https://ja.wikipedia.org/wiki/京都府#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>伝統工芸と先端産業が共存し、<span class="quiz">西陣織・京友禅・清水焼</span>などの伝統産業が今も盛ん<a href="https://ja.wikipedia.org/wiki/京都府#伝統産業" target="_blank"><sup>[参]</sup></a></li>
-        <li>京都南部は<span class="quiz">精密機器・電子部品</span>メーカーが集積する「京都モデル」の産業クラスター<a href="https://ja.wikipedia.org/wiki/京都府#工業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kinki/kyoto" %}}
 </div>

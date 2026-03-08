@@ -10,12 +10,17 @@ is_pref: true
 flag: "Fukui.svg"
 ---
 
-<div class="main-desciption country-description">
-    <h2 class="section-title">全域</h2>
-    <ul class="rule-list">
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
         <li>鯖江市は<span class="quiz">眼鏡フレーム</span>の国内生産シェア約96%を誇る一大産地<a href="https://ja.wikipedia.org/wiki/鯖江市#眼鏡産業" target="_blank"><sup>[参]</sup></a></li>
         <li>越前市は<span class="quiz">越前和紙</span>の産地で、1500年の歴史を持つ伝統工芸<a href="https://ja.wikipedia.org/wiki/越前和紙" target="_blank"><sup>[参]</sup></a></li>
     </ul>
+</div>
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list"></ul>
     {{% corp "asia/japan" "chubu/fukui" %}}
 </div>
 

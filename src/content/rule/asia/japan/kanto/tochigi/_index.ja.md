@@ -10,11 +10,17 @@ is_pref: true
 flag: "Tochigi.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">いちご</span>の生産量が54年連続日本一で、「とちおとめ」「とちあいか」が主力品種<a href="https://ja.wikipedia.org/wiki/栃木県#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>宇都宮市は<span class="quiz">餃子</span>の街として知られ、市内に多数の餃子専門店がある<a href="https://ja.wikipedia.org/wiki/宇都宮餃子" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">いちご</span>の生産量が54年連続日本一で、「とちおとめ」「とちあいか」が主力品種<a href="https://ja.wikipedia.org/wiki/栃木県#農業" target="_blank"><sup>[参]</sup></a></li>
-        <li>宇都宮市は<span class="quiz">餃子</span>の街として知られ、市内に多数の餃子専門店がある<a href="https://ja.wikipedia.org/wiki/宇都宮餃子" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kanto/tochigi" %}}
 </div>

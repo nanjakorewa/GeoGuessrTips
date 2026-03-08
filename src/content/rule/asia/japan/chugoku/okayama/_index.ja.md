@@ -10,11 +10,17 @@ is_pref: true
 flag: "Okayama.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>倉敷市水島地区は<span class="quiz">石油化学・鉄鋼・自動車</span>のコンビナートが立地する西日本有数の工業地帯<a href="https://ja.wikipedia.org/wiki/水島コンビナート" target="_blank"><sup>[参]</sup></a></li>
+        <li>備前市は<span class="quiz">備前焼</span>の産地で、釉薬を使わない素朴な焼き物として千年以上の歴史を持つ<a href="https://ja.wikipedia.org/wiki/備前焼" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>倉敷市水島地区は<span class="quiz">石油化学・鉄鋼・自動車</span>のコンビナートが立地する西日本有数の工業地帯<a href="https://ja.wikipedia.org/wiki/水島コンビナート" target="_blank"><sup>[参]</sup></a></li>
-        <li>備前市は<span class="quiz">備前焼</span>の産地で、釉薬を使わない素朴な焼き物として千年以上の歴史を持つ<a href="https://ja.wikipedia.org/wiki/備前焼" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "chugoku/okayama" %}}
 </div>

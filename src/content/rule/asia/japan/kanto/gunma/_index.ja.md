@@ -10,11 +10,17 @@ is_pref: true
 flag: "Gunma.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>自動車産業が盛んで、<span class="quiz">SUBARU</span>（旧・富士重工業）の発祥地かつ主力工場所在地<a href="https://ja.wikipedia.org/wiki/群馬県#工業" target="_blank"><sup>[参]</sup></a></li>
+        <li><span class="quiz">こんにゃく</span>の生産量は全国の約9割を占める<a href="https://ja.wikipedia.org/wiki/群馬県#農業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>自動車産業が盛んで、<span class="quiz">SUBARU</span>（旧・富士重工業）の発祥地かつ主力工場所在地<a href="https://ja.wikipedia.org/wiki/群馬県#工業" target="_blank"><sup>[参]</sup></a></li>
-        <li><span class="quiz">こんにゃく</span>の生産量は全国の約9割を占める<a href="https://ja.wikipedia.org/wiki/群馬県#農業" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kanto/gunma" %}}
 </div>

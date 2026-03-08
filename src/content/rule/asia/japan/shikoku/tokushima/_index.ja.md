@@ -10,11 +10,17 @@ is_pref: true
 flag: "Tokushima.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">藍染め（阿波藍）</span>は江戸時代から続く伝統産業で、吉野川流域が主産地<a href="https://ja.wikipedia.org/wiki/阿波藍" target="_blank"><sup>[参]</sup></a></li>
+        <li>鳴門市は<span class="quiz">鳴門金時（さつまいも）</span>や鳴門わかめの産地として知られる<a href="https://ja.wikipedia.org/wiki/鳴門金時" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li><span class="quiz">藍染め（阿波藍）</span>は江戸時代から続く伝統産業で、吉野川流域が主産地<a href="https://ja.wikipedia.org/wiki/阿波藍" target="_blank"><sup>[参]</sup></a></li>
-        <li>鳴門市は<span class="quiz">鳴門金時（さつまいも）</span>や鳴門わかめの産地として知られる<a href="https://ja.wikipedia.org/wiki/鳴門金時" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "shikoku/tokushima" %}}
 </div>

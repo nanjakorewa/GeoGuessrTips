@@ -10,12 +10,17 @@ is_pref: true
 flag: "Niigata.svg"
 ---
 
-<div class="main-desciption country-description">
-    <h2 class="section-title">全域</h2>
-    <ul class="rule-list">
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
         <li>米の産出額は全国1位で、<span class="quiz">コシヒカリ</span>の最大産地<a href="https://ja.wikipedia.org/wiki/新潟県#農業" target="_blank"><sup>[参]</sup></a></li>
         <li>燕三条地域は<span class="quiz">金属洋食器・刃物</span>の一大産地で、金属洋食器の国内シェア約9割<a href="https://ja.wikipedia.org/wiki/燕市#金属洋食器" target="_blank"><sup>[参]</sup></a></li>
     </ul>
+</div>
+
+<div class="main-desciption country-description">
+    <h2 class="section-title">全域</h2>
+    <ul class="rule-list"></ul>
     {{% corp "asia/japan" "chubu/niigata" %}}
 </div>
 
