@@ -723,6 +723,18 @@ h2[id] {
   background: rgba(90, 145, 150, 0.15);
 }
 
+/* Sidebar flag icons */
+.sidebar-flag {
+  display: inline-block;
+  width: 18px;
+  height: 13px;
+  margin-right: 0.55em;
+  vertical-align: -1px;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.1);
+  object-fit: cover;
+}
+
 /* Sidebar sub-list items */
 .sidebar .list-styled li.sidelist li.sidelist > a {
   font-size: 0.85rem;

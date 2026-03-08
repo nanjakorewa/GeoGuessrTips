@@ -31,7 +31,11 @@ function renderTreeNode(node: TreeNode, currentUrl: string): string {
   if (node.additionalIcon) icons += node.additionalIcon;
   if (node.isUnofficial) icons += '<i class="fa fa-question-circle"></i>';
 
-  const titleText = node.title + (node.pageNo || "") + icons + (node.quizSuffix ? `『${node.quizSuffix}』` : "");
+  const flagIcon = node.flag
+    ? `<img class="sidebar-flag" src="/flags/${node.flag}" alt="" width="20" height="14" loading="lazy" />`
+    : "";
+
+  const titleText = flagIcon + node.title + (node.pageNo || "") + icons + (node.quizSuffix ? `『${node.quizSuffix}』` : "");
 
   let html = `<li class="sidelist${activeClass} no-dot${unofficialClass}">`;
   html += `<a href="${node.url}">${titleText}</a>`;
