@@ -145,6 +145,20 @@ html[lang="ja"] body {
   background: var(--surface-color);
   border-color: var(--border-soft);
 }
+/* Dark mode: code-tabs active tab (background: primary, text must be white) */
+[data-theme="dark"] .code-tabs .nav-tabs .nav-item.active {
+  background: var(--primary-color);
+}
+[data-theme="dark"] .code-tabs .nav-tabs .nav-item.active .nav-link {
+  color: #fff !important;
+}
+[data-theme="dark"] .code-tabs .nav-tabs .nav-item {
+  background-color: var(--surface-alt);
+  border-right-color: var(--border-soft);
+}
+[data-theme="dark"] .code-tabs .nav-tabs .nav-item .nav-link {
+  color: var(--text-color);
+}
 
 /* Dark mode: notice boxes */
 [data-theme="dark"] div.notices.note p {

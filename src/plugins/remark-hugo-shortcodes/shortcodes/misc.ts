@@ -244,15 +244,15 @@ export function dividendHandler(args: string[]): string {
   const market = args[0] || "";
   const ticker = args[1] || "";
   if (market === "tokyo") {
-    return `<a href="https://irbank.net/${ticker}/dividend" target="_blank" rel="noopener noreferrer">配当金の推移 <i class="fas fa-external-link-alt"></i></a>`;
+    return `<a href="https://irbank.net/${ticker}/dividend" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>`;
   }
-  return `<a href="https://www.nasdaq.com/market-activity/stocks/${ticker}/dividend-history" target="_blank" rel="noopener noreferrer">Dividend History <i class="fas fa-external-link-alt"></i></a>`;
+  return `<a href="https://www.nasdaq.com/market-activity/stocks/${ticker}/dividend-history" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>`;
 }
 
 /** minkabu: {{% minkabu "code" %}} */
 export function minkabuHandler(args: string[]): string {
   const code = args[0] || "";
-  return `<a href="https://minkabu.jp/stock/${code}/settlement" target="_blank" rel="noopener noreferrer">みんかぶ <i class="fas fa-external-link-alt"></i></a>`;
+  return `<a href="https://minkabu.jp/stock/${code}/settlement" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>`;
 }
 
 /** nasdaq: {{% nasdaq "market" "ticker" %}} */
@@ -260,9 +260,9 @@ export function nasdaqHandler(args: string[]): string {
   const market = args[0] || "";
   const ticker = args[1] || "";
   if (market === "tokyo") {
-    return `<a href="https://www.google.com/finance/quote/${ticker}:TYO" target="_blank" rel="noopener noreferrer">Google Finance <i class="fas fa-external-link-alt"></i></a>`;
+    return `<a href="https://www.google.com/finance/quote/${ticker}:TYO" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>`;
   }
-  return `<a href="https://www.nasdaq.com/market-activity/stocks/${ticker}" target="_blank" rel="noopener noreferrer">NASDAQ <i class="fas fa-external-link-alt"></i></a>`;
+  return `<a href="https://www.nasdaq.com/market-activity/stocks/${ticker}" target="_blank" rel="noopener noreferrer"><i class="fas fa-external-link-alt"></i></a>`;
 }
 
 /** ahrefs: {{% ahrefs %}}...{{% /ahrefs %}} → link list wrapper */
