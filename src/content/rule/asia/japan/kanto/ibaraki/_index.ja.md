@@ -13,7 +13,46 @@ flag: "Ibaraki.svg"
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
-        <li>茨城県の特徴は現在調査中です。</li>
+        <li>日立市は<span class="quiz">日立製作所</span>の創業地で、電機・重工業の企業城下町<a href="https://ja.wikipedia.org/wiki/日立市#工業" target="_blank"><sup>[参]</sup></a></li>
+        <li>鹿島臨海工業地帯は<span class="quiz">石油化学・鉄鋼</span>のコンビナートが立地<a href="https://ja.wikipedia.org/wiki/鹿島臨海工業地帯" target="_blank"><sup>[参]</sup></a></li>
     </ul>
     {{% corp "asia/japan" "kanto/ibaraki" %}}
+</div>
+
+<div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
+    <h4 class="mb-4">代表的な企業の説明</h4>
+    <table class="table table-striped table-bordered">
+        <thead class="table-light">
+            <tr>
+                <th scope="col" class="col-width-2">企業名</th>
+                <th scope="col" class="col-width-1">コード</th>
+                <th scope="col" class="col-width-7">説明</th>
+                <th scope="col" class="col-width-05">決算</th>
+                <th scope="col" class="col-width-05">配当履歴</th>
+            </tr>
+        </thead>
+        <tbody class="corp-desc">
+            <tr>
+                <td>日立製作所</td>
+                <td>{{% minkabu 6501 %}}</td>
+                <td>日立市の銅山用モーター修理工場から創業した総合電機メーカー。売上高10兆円超の日本最大級の製造業。<a href="https://ja.wikipedia.org/wiki/日立製作所" target="_blank"><sup>[参]</sup></a></td>
+                <td>{{% corplink "https://www.hitachi.co.jp/IR/" %}}</td>
+                <td>{{% dividend "tokyo" "6501" %}}</td>
+            </tr>
+            <tr>
+                <td>ケーズホールディングス</td>
+                <td>{{% minkabu 8282 %}}</td>
+                <td>水戸市に本社を置く家電量販店チェーン。「がんばらない経営」で知られ、全国に500店舗以上を展開。<a href="https://ja.wikipedia.org/wiki/ケーズホールディングス" target="_blank"><sup>[参]</sup></a></td>
+                <td>{{% corplink "https://www.ksdenki.co.jp/kshd/ir/" %}}</td>
+                <td>{{% dividend "tokyo" "8282" %}}</td>
+            </tr>
+            <tr>
+                <td>カスミ</td>
+                <td>非上場（イオン傘下）</td>
+                <td>つくば市に本社を置くスーパーマーケットチェーン。茨城県を中心に北関東で約190店舗展開。現在はユナイテッド・スーパーマーケット・ホールディングス傘下。<a href="https://ja.wikipedia.org/wiki/カスミ" target="_blank"><sup>[参]</sup></a></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
 </div>
