@@ -680,9 +680,74 @@ h2[id] {
 .sidebar {
   background: #FFFFFF;
   border: 1px solid var(--border-soft);
-  border-radius: 3px;
-  box-shadow: var(--shadow-soft);
-  padding: 22px 18px;
+  border-radius: 8px;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.04);
+  padding: 1.25rem 1rem;
+}
+
+/* Sidebar navigation tree */
+.sidebar ul.list-styled {
+  padding-left: 0;
+}
+
+.sidebar .list-styled li.sidelist {
+  list-style: none;
+}
+
+.sidebar .list-styled li.sidelist > a {
+  display: block;
+  padding: 0.4rem 0.6rem;
+  margin: 0 -0.3rem;
+  border-radius: 6px;
+  font-size: 0.92rem;
+  font-weight: 500;
+  color: var(--text-color);
+  text-decoration: none;
+  transition: background 0.15s ease, color 0.15s ease;
+  line-height: 1.5;
+}
+
+.sidebar .list-styled li.sidelist > a:hover {
+  background: var(--accent-muted);
+  color: var(--primary-color);
+  text-decoration: none;
+}
+
+.sidebar .list-styled li.sidelist.active > a {
+  background: rgba(68, 110, 114, 0.08);
+  color: var(--primary-color);
+  font-weight: 600;
+}
+
+[data-theme="dark"] .sidebar .list-styled li.sidelist.active > a {
+  background: rgba(90, 145, 150, 0.15);
+}
+
+/* Sidebar sub-list items */
+.sidebar .list-styled li.sidelist li.sidelist > a {
+  font-size: 0.85rem;
+  padding: 0.3rem 0.5rem 0.3rem 0.75rem;
+}
+
+/* Sidebar top-level category headings (first children: アジア, ヨーロッパ, etc.) */
+.sidebar .list-styled > li.sidelist > a {
+  font-size: 1rem;
+  font-weight: 600;
+  padding: 0.45rem 0.6rem;
+  margin-top: 0.15rem;
+}
+
+/* Sidebar option area (icon legend) */
+.sidebar #option-area {
+  padding-bottom: 0.75rem;
+  margin-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border-soft);
+  font-size: 0.82rem;
+  line-height: 1.6;
+}
+
+.sidebar #option-area p {
+  margin-bottom: 0.2rem;
 }
 
 @media (max-width: 991.98px) {
@@ -1791,10 +1856,15 @@ ul.list-styled {
 }
 
 ul.list-styled li {
-  padding: 0rem 0rem 0rem 1.75rem;
+  padding: 0;
   margin: 0;
   border-radius: 2px;
   transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Hide default square bullets in sidebar navigation */
+.sidebar ul.list-styled li::before {
+  display: none !important;
 }
 
 ul.list-styled li a {
@@ -2073,8 +2143,29 @@ a.snsl-twitch {
   color: rgb(134, 0, 211);
 }
 
-div.content ul>li {
-  margin-bottom: 0.2em !important;
+/* Content bullet lists — improved readability */
+div.content ul > li,
+.article-surface ul > li {
+  margin-bottom: 0.35em !important;
+  line-height: 1.7;
+}
+
+.content ul li::before,
+.article-surface ul li::before {
+  height: 6px !important;
+  width: 6px !important;
+  border-radius: 50% !important;
+  background: var(--primary-color) !important;
+  opacity: 0.5 !important;
+  top: 11px !important;
+}
+
+.content ul li ul li::before,
+.article-surface ul li ul li::before {
+  height: 5px !important;
+  width: 5px !important;
+  border-radius: 1px !important;
+  opacity: 0.3 !important;
 }
 
 span.quiz {
