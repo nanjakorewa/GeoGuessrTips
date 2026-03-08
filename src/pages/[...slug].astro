@@ -1,5 +1,6 @@
 ---
 import DefaultLayout from "@layouts/DefaultLayout.astro";
+import QuizLayout from "@layouts/QuizLayout.astro";
 import { getCollection, render } from "astro:content";
 import { extractLangFromId, extractSlugFromId, buildUrl } from "@lib/i18n-utils";
 
@@ -29,12 +30,17 @@ export async function getStaticPaths() {
 const { entry, lang, collection } = Astro.props;
 const rendered = await render(entry);
 const Content = rendered.Content;
-// Check if entry has actual markdown body content
-// entry.body may be undefined in some Astro versions, so also check rendered HTML
 const bodyText = (entry.body ?? "").trim();
 const hasContent = bodyText.length > 0;
+const useQuizLayout = entry.data.pagetype === "quiz";
 ---
 
-<DefaultLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
-  <Content />
-</DefaultLayout>
+{useQuizLayout ? (
+  <QuizLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
+    <Content />
+  </QuizLayout>
+) : (
+  <DefaultLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
+    <Content />
+  </DefaultLayout>
+)}

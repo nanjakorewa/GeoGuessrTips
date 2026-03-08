@@ -1,5 +1,6 @@
 ---
 import DefaultLayout from "@layouts/DefaultLayout.astro";
+import QuizLayout from "@layouts/QuizLayout.astro";
 import { getCollection, render } from "astro:content";
 import { extractLangFromId, extractSlugFromId, buildUrl, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
 import type { Language } from "@lib/i18n-utils";
@@ -35,8 +36,15 @@ const rendered = await render(entry);
 const Content = rendered.Content;
 const bodyText = (entry.body ?? "").trim();
 const hasContent = bodyText.length > 0;
+const useQuizLayout = entry.data.pagetype === "quiz";
 ---
 
-<DefaultLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
-  <Content />
-</DefaultLayout>
+{useQuizLayout ? (
+  <QuizLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
+    <Content />
+  </QuizLayout>
+) : (
+  <DefaultLayout entry={entry} lang={lang} collection={collection} hasContent={hasContent}>
+    <Content />
+  </DefaultLayout>
+)}

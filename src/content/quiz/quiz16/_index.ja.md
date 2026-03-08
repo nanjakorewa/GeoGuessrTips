@@ -8,17 +8,11 @@ draft: false
 keywords: [""]
 sections: [""]
 pagetype: "quiz"
+difficulty: 2
+quiz_options: ["ノルウェー", "スウェーデン", "フィンランド"]
+quiz_answer: 2
+quiz_map_url: "https://www.google.com/maps/embed?pb=!4v1718785632566!6m8!1m7!1sbon5eyy656ZLEsKgYogHbQ!2m2!1d56.11679388584265!2d15.52100342985536!3f295.1083688320057!4f-7.645816948843461!5f0.7820865974627469"
 ---
 
-{{% qb %}}
-
-{{% quiz "ノルウェー" "スウェーデン" "フィンランド" 2 %}}
-{{% quizif "https://www.google.com/maps/embed?pb=!4v1718785632566!6m8!1m7!1sbon5eyy656ZLEsKgYogHbQ!2m2!1d56.11679388584265!2d15.52100342985536!3f295.1083688320057!4f-7.645816948843461!5f0.7820865974627469" %}}
-{{% maru%}}
-
-<div class="googlemap-if ansarea transparent-area">
-{{% notice tip %}}
 白の短い破線の路側帯は{{% goto "../../rule/europe/sweden/" "スウェーデン" %}}の特徴です。
 国によって道路の線の長さ・細さ・色がわずかに異なり、それによって国を絞り込むことができます。
-{{% /notice %}}
-</div>

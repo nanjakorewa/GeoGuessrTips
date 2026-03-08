@@ -229,6 +229,7 @@ const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
 // --- Conditional features ---
 const needsJQuery36 = !!data.import_jquery_36;
 const needsJSMaps = !!data.mapName || !!data.map_index;
+const isQuizPage = data.pagetype === "quiz";
 
 // --- Flag path ---
 const flagPath = data.flag ? `/flags/${data.flag}` : "";
@@ -277,16 +278,18 @@ const lastmodDisplay = modifiedTime
   </header>
 
   {/* Main content */}
-  <section class="single section-sm pb-0">
-    <div class="container">
+  <section class={`single section-sm pb-0${isQuizPage ? " quiz-page" : ""}`}>
+    <div class={isQuizPage ? "container-lg" : "container"}>
       <div class="row">
-        {/* Sidebar */}
-        <div class="col-lg-3">
-          <Sidebar lang={lang} tree={tree} currentUrl={currentUrl} bgf={!!data.bgf} />
-        </div>
+        {/* Sidebar (hidden for quiz pages) */}
+        {!isQuizPage && (
+          <div class="col-lg-3">
+            <Sidebar lang={lang} tree={tree} currentUrl={currentUrl} bgf={!!data.bgf} />
+          </div>
+        )}
 
         {/* Content */}
-        <div class="col-lg-9">
+        <div class={isQuizPage ? "col-lg-8 offset-lg-2" : "col-lg-9"}>
           <ol class="breadcrumb article-breadcrumb">
             {crumbs.map((crumb, i) =>
               i === crumbs.length - 1
@@ -296,10 +299,11 @@ const lastmodDisplay = modifiedTime
           </ol>
 
           <div class="article-surface">
-            <h1 class="mb-5">
+            <h1 class={isQuizPage ? "mb-3 quiz-page-title" : "mb-5"}>
               {data.title_prefix && <span class="small-title">{data.title_prefix}</span>}
               {data.title}
               {data.title_suffix && <span class="small-title">{data.title_suffix}</span>}
+              {isQuizPage && data.quiz_suffix && <span class="quiz-suffix">{data.quiz_suffix}</span>}
               <span style="font-size:0.5em">
                 {data.is_has_distinctive_googlecar && <i class="fas fa-car-alt i-googlecar"></i>}
                 {data.is_has_many_trekker && <i class="fas fa-hiking i-googlecar"></i>}

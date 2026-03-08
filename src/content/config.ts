@@ -145,6 +145,11 @@ const quizCollection = defineCollection({
     ...baseFields,
     quiz_suffix: z.string().optional(),
     pagetype: z.string().optional(),
+    difficulty: z.number().optional(),
+    quiz_options: z.array(z.string()).optional(),
+    quiz_answer: z.number().optional(),
+    quiz_map_url: z.string().optional(),
+    quiz_hint: z.string().optional(),
   }),
 });
 

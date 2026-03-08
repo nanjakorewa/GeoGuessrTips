@@ -1,0 +1,587 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
+import { t } from "@i18n/translations";
+import { generateDescription } from "@lib/seo-utils";
+import { getCollection } from "astro:content";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+
+interface Props {
+  entry: any;
+  lang: Language;
+  collection: string;
+  hasContent?: boolean;
+}
+
+const { entry, lang, collection, hasContent = true } = Astro.props;
+const data = entry.data;
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+
+// --- SEO ---
+const seoTitle = data.quiz_suffix
+  ? `${data.title} - ${data.quiz_suffix} | ${siteTitle}`
+  : `${data.title} | ${siteTitle}`;
+const seoDescription = generateDescription(entry, lang, collection);
+const ogImage = `${site}/images/icon-512x512.png`;
+const currentSlug = extractSlugFromId(entry.id);
+const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
+
+// --- Translation URLs ---
+const allEntries = await getCollection(collection);
+const translationUrls: { lang: Language; url: string }[] = [];
+for (const tLang of LANGUAGES) {
+  const translationId = entry.id.replace(/\.(ja|en|id|es|pt)$/, `.${tLang}`);
+  const found = allEntries.find((e: any) => e.id === translationId);
+  if (found) {
+    translationUrls.push({ lang: tLang, url: `${site}${buildUrl(collection, currentSlug, tLang)}` });
+  }
+}
+
+// --- Breadcrumbs ---
+interface Crumb { name: string; url: string }
+const crumbs: Crumb[] = [
+  { name: t("toppage", lang), url: lang === DEFAULT_LANG ? "/" : `/${lang}/` },
+  { name: t("breadcrumb_quiz", lang) || "Quiz", url: `${lang === DEFAULT_LANG ? "" : `/${lang}`}/quiz/` },
+];
+if (currentSlug) {
+  crumbs.push({ name: data.title, url: buildUrl(collection, currentSlug, lang) });
+}
+
+// --- Dates ---
+const publishedTime = data.date ? new Date(data.date) : undefined;
+const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
+
+// --- Share ---
+const shareText = encodeURIComponent(`${data.title} | ${siteTitle}`);
+const shareURL = `https://twitter.com/intent/tweet?url=${encodeURIComponent(canonical)}&text=${shareText}`;
+
+// --- Quiz Data ---
+const options = data.quiz_options || [];
+const correctAnswer = data.quiz_answer || 1;
+const mapUrl = data.quiz_map_url || "";
+const difficulty = data.difficulty || 1;
+const hint = data.quiz_hint || "";
+const quizNum = currentSlug.replace("quiz", "");
+
+// --- Prev / Next quiz ---
+const quizEntries = allEntries
+  .filter((e: any) => extractLangFromId(e.id) === lang && e.data.pagetype === "quiz")
+  .sort((a: any, b: any) => (a.data.weight || 99) - (b.data.weight || 99));
+const currentIndex = quizEntries.findIndex((e: any) => e.id === entry.id);
+const prevQuiz = currentIndex > 0 ? quizEntries[currentIndex - 1] : null;
+const nextQuiz = currentIndex < quizEntries.length - 1 ? quizEntries[currentIndex + 1] : null;
+const prevUrl = prevQuiz ? buildUrl(collection, extractSlugFromId(prevQuiz.id), lang) : "";
+const nextUrl = nextQuiz ? buildUrl(collection, extractSlugFromId(nextQuiz.id), lang) : "";
+const totalQuizzes = quizEntries.length;
+
+// --- Last modified ---
+const lastmodDisplay = modifiedTime
+  ? modifiedTime.toLocaleDateString("en-GB", { day: "2-digit", month: "short", year: "numeric" })
+  : "";
+
+// Difficulty labels
+const difficultyLabels = ["", "\u2605", "\u2605\u2605", "\u2605\u2605\u2605"];
+const difficultyNames: Record<string, string[]> = {
+  ja: ["", "\u521D\u7D1A", "\u4E2D\u7D1A", "\u4E0A\u7D1A"],
+  en: ["", "Easy", "Medium", "Hard"],
+};
+const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "";
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={seoTitle}
+    description={seoDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={ogImage}
+    ogType="article"
+    publishedTime={publishedTime}
+    modifiedTime={modifiedTime}
+    translations={translationUrls}
+    pageData={data}
+    breadcrumbs={crumbs}
+    collection={collection}
+  />
+  <style>
+    /* ===== Quiz Page Styles ===== */
+    .quiz-container {
+      max-width: 720px;
+      margin: 0 auto;
+      padding: 1.5rem 1rem 3rem;
+    }
+
+    /* Header */
+    .quiz-header {
+      text-align: center;
+      margin-bottom: 2rem;
+    }
+    .quiz-header-number {
+      font-size: 0.85rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
+      margin-bottom: 0.3rem;
+    }
+    .quiz-header-title {
+      font-size: 1.6rem;
+      font-weight: 800;
+      margin: 0 0 0.5rem;
+      color: var(--text-color);
+    }
+    .quiz-header-meta {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.8rem;
+      font-size: 0.85rem;
+    }
+    .quiz-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.3rem;
+      padding: 0.2em 0.7em;
+      border-radius: 20px;
+      font-weight: 600;
+      font-size: 0.82rem;
+    }
+    .quiz-badge-theme {
+      background: rgba(68, 110, 114, 0.08);
+      border: 1px solid rgba(68, 110, 114, 0.2);
+      color: var(--primary-color);
+    }
+    .quiz-badge-diff {
+      background: rgba(200, 160, 50, 0.1);
+      border: 1px solid rgba(200, 160, 50, 0.3);
+      color: #9a7b20;
+    }
+    [data-theme="dark"] .quiz-badge-diff {
+      color: #d4b44a;
+    }
+    .quiz-progress {
+      display: flex;
+      justify-content: center;
+      gap: 4px;
+      margin-top: 1rem;
+    }
+    .quiz-progress-dot {
+      width: 8px;
+      height: 8px;
+      border-radius: 50%;
+      background: var(--border-soft);
+      transition: background 0.2s;
+    }
+    .quiz-progress-dot.is-current {
+      background: var(--primary-color);
+      transform: scale(1.3);
+    }
+    .quiz-progress-dot.is-done {
+      background: rgba(68, 110, 114, 0.4);
+    }
+
+    /* Map area */
+    .quiz-map-wrapper {
+      position: relative;
+      border-radius: 16px;
+      overflow: hidden;
+      box-shadow: 0 4px 24px rgba(0,0,0,0.1);
+      margin-bottom: 1.5rem;
+      background: #1a1d21;
+    }
+    .quiz-map-wrapper iframe {
+      display: block;
+      width: 100%;
+      height: 450px;
+      border: 0;
+    }
+    .quiz-map-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 180px;
+      height: 64px;
+      background: linear-gradient(135deg, rgba(30,34,38,0.92) 50%, transparent 100%);
+      border-radius: 0 0 20px 0;
+      display: flex;
+      align-items: center;
+      padding-left: 1.1rem;
+      z-index: 10;
+      pointer-events: none;
+      color: #fff;
+      font-size: 1.4rem;
+      font-weight: 800;
+      letter-spacing: 0.08em;
+      text-shadow: 0 2px 8px rgba(0,0,0,0.3);
+    }
+
+    /* Hint */
+    .quiz-hint {
+      background: rgba(68, 110, 114, 0.06);
+      border: 1px solid rgba(68, 110, 114, 0.15);
+      border-radius: 10px;
+      padding: 0.7rem 1rem;
+      margin-bottom: 1.2rem;
+      font-size: 0.9rem;
+      color: var(--text-color);
+    }
+    .quiz-hint::before {
+      content: "\f0eb";
+      font-family: "Font Awesome 5 Free";
+      font-weight: 900;
+      margin-right: 0.5rem;
+      color: var(--primary-color);
+    }
+
+    /* Options */
+    .quiz-options {
+      display: flex;
+      flex-direction: column;
+      gap: 0.7rem;
+      margin-bottom: 1.5rem;
+    }
+    .quiz-option-btn {
+      display: flex;
+      align-items: center;
+      gap: 0.9rem;
+      background: var(--surface-color, #fff);
+      border: 2px solid var(--border-soft);
+      border-radius: 14px;
+      padding: 1rem 1.3rem;
+      cursor: pointer;
+      transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+      font-size: 1.05rem;
+      font-weight: 600;
+      color: var(--text-color);
+      text-align: left;
+    }
+    .quiz-option-btn:hover:not(.is-locked) {
+      border-color: var(--primary-color);
+      transform: translateX(4px);
+      box-shadow: 0 4px 16px rgba(68, 110, 114, 0.12);
+    }
+    .quiz-option-index {
+      flex-shrink: 0;
+      width: 36px;
+      height: 36px;
+      border-radius: 50%;
+      background: rgba(68, 110, 114, 0.08);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 800;
+      font-size: 0.9rem;
+      color: var(--primary-color);
+      transition: all 0.25s;
+    }
+    .quiz-option-btn.is-correct {
+      background: var(--primary-color);
+      border-color: var(--primary-color);
+      color: #fff;
+      animation: qCorrectPulse 0.5s ease;
+    }
+    .quiz-option-btn.is-correct .quiz-option-index {
+      background: rgba(255,255,255,0.25);
+      color: #fff;
+    }
+    .quiz-option-btn.is-incorrect {
+      background: rgba(179, 64, 64, 0.06);
+      border-color: rgba(179, 64, 64, 0.4);
+      color: rgba(140, 40, 40, 0.85);
+      animation: qShake 0.4s ease;
+    }
+    .quiz-option-btn.is-incorrect .quiz-option-index {
+      background: rgba(179, 64, 64, 0.12);
+      color: rgba(140, 40, 40, 0.85);
+    }
+    @keyframes qCorrectPulse {
+      0% { transform: scale(1); }
+      40% { transform: scale(1.03); }
+      100% { transform: scale(1); }
+    }
+    @keyframes qShake {
+      0%, 100% { transform: translateX(0); }
+      20% { transform: translateX(-6px); }
+      40% { transform: translateX(6px); }
+      60% { transform: translateX(-4px); }
+      80% { transform: translateX(4px); }
+    }
+
+    /* Explanation */
+    .quiz-explanation {
+      opacity: 0;
+      max-height: 0;
+      overflow: hidden;
+      transition: opacity 0.5s ease, max-height 0.5s ease;
+    }
+    .quiz-explanation.is-visible {
+      opacity: 1;
+      max-height: 3000px;
+    }
+    .quiz-explanation-inner {
+      background: var(--surface-alt, #f5f3f1);
+      border-radius: 14px;
+      padding: 1.5rem;
+      margin-top: 0.5rem;
+    }
+    .quiz-explanation-label {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--primary-color);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 0.6rem;
+    }
+    .quiz-explanation-inner .content {
+      font-size: 0.95rem;
+      line-height: 1.75;
+    }
+
+    /* Full-screen overlay */
+    .quiz-overlay {
+      position: fixed;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      opacity: 0;
+      pointer-events: none;
+      z-index: 5000;
+      transition: opacity 0.3s ease;
+    }
+    .quiz-overlay.is-visible {
+      opacity: 1;
+      pointer-events: auto;
+    }
+    .quiz-overlay-bg {
+      position: absolute;
+      inset: 0;
+      backdrop-filter: blur(6px);
+      -webkit-backdrop-filter: blur(6px);
+    }
+    .quiz-overlay.is-correct .quiz-overlay-bg { background: rgba(68, 110, 114, 0.45); }
+    .quiz-overlay.is-miss .quiz-overlay-bg { background: rgba(89, 30, 30, 0.4); }
+    .quiz-overlay-content {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+    }
+    .quiz-overlay-icon {
+      font-size: clamp(3rem, 10vw, 6rem);
+      display: block;
+      animation: qOverlayPop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+    }
+    .quiz-overlay-text {
+      color: #fff;
+      font-size: clamp(1.4rem, 4vw, 2.2rem);
+      font-weight: 800;
+      letter-spacing: 0.15em;
+      margin-top: 0.5rem;
+      text-shadow: 0 4px 16px rgba(0,0,0,0.4);
+    }
+    @keyframes qOverlayPop {
+      0% { transform: scale(0.3); opacity: 0; }
+      100% { transform: scale(1); opacity: 1; }
+    }
+
+    /* Navigation */
+    .quiz-nav {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border-soft);
+    }
+    .quiz-nav a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: var(--primary-color);
+      background: rgba(68, 110, 114, 0.06);
+      border: 1px solid rgba(68, 110, 114, 0.15);
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    .quiz-nav a:hover {
+      background: rgba(68, 110, 114, 0.12);
+      transform: translateY(-1px);
+    }
+    .quiz-nav-spacer { flex: 1; }
+
+    /* Breadcrumb */
+    .quiz-breadcrumb {
+      font-size: 0.82rem;
+      color: rgba(100,100,100,0.7);
+      margin-bottom: 1rem;
+    }
+    .quiz-breadcrumb a { color: rgba(100,100,100,0.7); text-decoration: none; }
+    .quiz-breadcrumb a:hover { color: var(--primary-color); }
+
+    @media (max-width: 640px) {
+      .quiz-container { padding: 1rem 0.75rem 2rem; }
+      .quiz-header-title { font-size: 1.3rem; }
+      .quiz-map-wrapper iframe { height: 320px; }
+      .quiz-map-overlay { width: 140px; height: 48px; font-size: 1.1rem; }
+      .quiz-option-btn { padding: 0.85rem 1rem; font-size: 0.95rem; }
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="quiz-container">
+    {/* Breadcrumb */}
+    <nav class="quiz-breadcrumb">
+      {crumbs.map((c, i) =>
+        i === crumbs.length - 1
+          ? <span>{c.name}</span>
+          : <><a href={c.url}>{c.name}</a> <span>/</span> </>
+      )}
+    </nav>
+
+    {/* Header */}
+    <div class="quiz-header">
+      <div class="quiz-header-number">Question {quizNum}</div>
+      <h1 class="quiz-header-title">{data.title}</h1>
+      <div class="quiz-header-meta">
+        {data.quiz_suffix && <span class="quiz-badge quiz-badge-theme">{data.quiz_suffix}</span>}
+        {difficulty > 0 && <span class="quiz-badge quiz-badge-diff">{diffLabel} {difficultyLabels[difficulty]}</span>}
+      </div>
+      {/* Progress dots */}
+      <div class="quiz-progress">
+        {quizEntries.map((_: any, i: number) =>
+          <div class={`quiz-progress-dot${i === currentIndex ? " is-current" : i < currentIndex ? " is-done" : ""}`} />
+        )}
+      </div>
+    </div>
+
+    {/* Map */}
+    {mapUrl && (
+      <div class="quiz-map-wrapper">
+        <div class="quiz-map-overlay">Q{quizNum}</div>
+        <iframe src={mapUrl} allowfullscreen loading="lazy"></iframe>
+      </div>
+    )}
+
+    {/* Hint */}
+    {hint && <div class="quiz-hint">{hint}</div>}
+
+    {/* Options */}
+    {options.length > 0 && (
+      <div class="quiz-options" id="quiz-options" data-correct={correctAnswer}>
+        {options.map((opt: string, i: number) => (
+          <button class="quiz-option-btn" data-index={i + 1} type="button">
+            <span class="quiz-option-index">{String.fromCharCode(65 + i)}</span>
+            <span>{opt}</span>
+          </button>
+        ))}
+      </div>
+    )}
+
+    {/* Explanation (hidden until correct) */}
+    <div class="quiz-explanation" id="quiz-explanation">
+      <div class="quiz-explanation-inner">
+        <div class="quiz-explanation-label">{lang === "ja" ? "\u89E3\u8AAC" : "Explanation"}</div>
+        {hasContent && (
+          <div class="content">
+            <slot />
+          </div>
+        )}
+      </div>
+    </div>
+
+    {/* Prev / Next navigation */}
+    <nav class="quiz-nav">
+      {prevUrl
+        ? <a href={prevUrl}><i class="fas fa-chevron-left"></i> {lang === "ja" ? "\u524D\u306E\u554F\u984C" : "Previous"}</a>
+        : <span class="quiz-nav-spacer" />
+      }
+      {nextUrl
+        ? <a href={nextUrl}>{lang === "ja" ? "\u6B21\u306E\u554F\u984C" : "Next"} <i class="fas fa-chevron-right"></i></a>
+        : <span class="quiz-nav-spacer" />
+      }
+    </nav>
+
+    {lastmodDisplay && <p style="font-size:0.8rem;color:rgba(100,100,100,0.5);margin-top:1rem;">Updated on {lastmodDisplay}</p>}
+  </main>
+
+  {/* Quiz interaction script */}
+  <script is:inline>
+  (function(){
+    var container = document.getElementById('quiz-options');
+    if (!container) return;
+    var correct = parseInt(container.dataset.correct, 10);
+    var buttons = container.querySelectorAll('.quiz-option-btn');
+    var explanation = document.getElementById('quiz-explanation');
+    var locked = false;
+
+    function createOverlay(cls, icon, text) {
+      var el = document.createElement('div');
+      el.className = 'quiz-overlay ' + cls;
+      el.innerHTML = '<div class="quiz-overlay-bg"></div><div class="quiz-overlay-content"><span class="quiz-overlay-icon">' + icon + '</span><span class="quiz-overlay-text">' + text + '</span></div>';
+      document.body.appendChild(el);
+      return el;
+    }
+
+    function flash(el) {
+      el.classList.add('is-visible');
+      setTimeout(function(){ el.classList.remove('is-visible'); }, 900);
+    }
+
+    buttons.forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        if (locked) return;
+        var idx = parseInt(btn.dataset.index, 10);
+        var isCorrect = idx === correct;
+
+        // Lock all buttons
+        locked = true;
+        buttons.forEach(function(b){ b.classList.add('is-locked'); });
+
+        if (isCorrect) {
+          btn.classList.add('is-correct');
+          flash(createOverlay('is-correct', '\u{1F389}', '\u6B63\u89E3\uFF01'));
+          if (explanation) {
+            setTimeout(function(){
+              explanation.classList.add('is-visible');
+              explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }, 500);
+          }
+        } else {
+          btn.classList.add('is-incorrect');
+          // Show correct answer
+          buttons.forEach(function(b) {
+            if (parseInt(b.dataset.index, 10) === correct) b.classList.add('is-correct');
+          });
+          flash(createOverlay('is-miss', '\u{1F6AB}', '\u306F\u305A\u308C'));
+          // Also reveal explanation on wrong answer
+          if (explanation) {
+            setTimeout(function(){
+              explanation.classList.add('is-visible');
+              explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+            }, 600);
+          }
+        }
+      });
+    });
+  })();
+  </script>
+
+  <Footer lang={lang} title={data.title} permalink={canonical} translations={translationUrls} />
+  <SearchModal lang={lang} />
+</body>
+</html>

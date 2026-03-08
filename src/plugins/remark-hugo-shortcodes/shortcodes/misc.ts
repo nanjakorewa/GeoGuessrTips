@@ -3,6 +3,7 @@
  */
 import type { Language } from "../../../lib/i18n-utils.ts";
 import { t } from "../../../i18n/translations.ts";
+
 import fs from "node:fs";
 import path from "node:path";
 
@@ -22,7 +23,7 @@ export function qbHandler(): string {
   return `<h4 class="section-title">ここはどこ？</h4>`;
 }
 
-/** quizif: {{% quizif "url" "margin?" %}} → blurred iframe embed */
+/** quizif: {{% quizif "url" "margin?" %}} → blurred iframe embed with overlay to hide location info */
 export function quizifHandler(args: string[]): string {
   const url = args[0] || "";
   const hasMargin = args[1] === "margin";

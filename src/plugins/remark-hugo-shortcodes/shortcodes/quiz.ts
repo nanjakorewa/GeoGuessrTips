@@ -17,121 +17,230 @@ export function resetQuizState(): void {
   styleInjected = false;
 }
 
+/** Get current quiz counter (used by quizif overlay) */
+export function getQuizCounter(): number {
+  return quizCounter;
+}
+
 const QUIZ_CSS = `<style>
+/* --- Quiz block --- */
 .quizbutton.quiz-block {
   position: relative;
-  padding-bottom: 1.5rem;
+  padding-bottom: 1rem;
 }
 .quizbutton .radiobox {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.85rem;
+  gap: 0.75rem;
+  justify-content: center;
 }
 .quizbutton .quiz-option {
   display: none;
 }
 .quizbutton .quizlabel {
   flex: 1 1 28%;
-  min-width: 180px;
-  background: rgba(230, 228, 224, 0.88);
-  border: 1px solid var(--border-soft);
-  border-radius: 14px;
-  padding: 0.85rem 1.1rem;
+  min-width: 160px;
+  max-width: 240px;
+  background: var(--surface-color, #fff);
+  border: 2px solid var(--border-soft);
+  border-radius: 12px;
+  padding: 0.9rem 1.2rem;
   text-align: center;
-  font-weight: 600;
-  color: var(--secondary-color);
+  font-size: 1.05em;
+  font-weight: 700;
+  color: var(--text-color);
   cursor: pointer;
-  transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease, border-color 0.2s ease;
+  user-select: none;
+  transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
 }
-.quizbutton .quizlabel:hover,
-.quizbutton .quizlabel:focus-within {
-  transform: translateY(-2px);
-  box-shadow: 0 12px 22px rgba(68, 110, 114, 0.16);
-  border-color: rgba(68, 110, 114, 0.45);
+.quizbutton .quizlabel:hover {
+  transform: translateY(-3px);
+  border-color: var(--primary-color);
+  box-shadow: 0 8px 24px rgba(68, 110, 114, 0.18);
 }
 .quizbutton .quiz-option:checked + .quizlabel {
   border-color: var(--primary-color);
-  box-shadow: 0 16px 30px rgba(68, 110, 114, 0.24);
 }
+/* correct */
 .quizbutton .quizlabel.is-correct {
   background: var(--primary-color);
   color: #fff;
   border-color: var(--primary-color);
-  box-shadow: 0 16px 28px rgba(68, 110, 114, 0.28);
+  transform: scale(1.04);
+  box-shadow: 0 8px 28px rgba(68, 110, 114, 0.35);
+  animation: quizCorrectPulse 0.5s ease;
 }
+@keyframes quizCorrectPulse {
+  0% { transform: scale(1); }
+  40% { transform: scale(1.08); }
+  100% { transform: scale(1.04); }
+}
+/* incorrect */
 .quizbutton .quizlabel.is-incorrect {
-  background: rgba(179, 64, 64, 0.12);
-  border-color: rgba(179, 64, 64, 0.35);
-  color: rgba(89, 23, 23, 0.92);
+  background: rgba(179, 64, 64, 0.08);
+  border-color: rgba(179, 64, 64, 0.4);
+  color: rgba(140, 40, 40, 0.85);
+  animation: quizShake 0.4s ease;
 }
-.quiz-success {
+@keyframes quizShake {
+  0%, 100% { transform: translateX(0); }
+  20% { transform: translateX(-6px); }
+  40% { transform: translateX(6px); }
+  60% { transform: translateX(-4px); }
+  80% { transform: translateX(4px); }
+}
+
+/* --- iframe overlay (hides location info) --- */
+.quiz-iframe-blur {
+  position: relative;
+}
+.quiz-iframe-overlay {
   position: absolute;
-  inset: auto 0 0 0;
+  top: 0;
+  left: 0;
+  width: 200px;
+  height: 68px;
+  background: linear-gradient(135deg, rgba(30,34,38,0.93) 55%, transparent 100%);
+  border-radius: 0 0 18px 0;
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 0.75rem;
-  padding: 0.75rem 1.5rem;
-  border-radius: 12px;
-  background: rgba(68, 110, 114, 0.9);
+  padding-left: 1.2rem;
+  z-index: 10;
+  pointer-events: none;
   color: #fff;
-  font-weight: 700;
-  opacity: 0;
-  pointer-events: none;
-  transform: translateY(12px);
-  transition: opacity 0.3s ease, transform 0.3s ease;
+  font-size: 1.5rem;
+  font-weight: 800;
+  letter-spacing: 0.1em;
+  text-shadow: 0 2px 8px rgba(0,0,0,0.3);
 }
-.quiz-success.is-visible {
-  opacity: 1;
-  transform: translateY(0);
-}
-.quiz-balloons {
-  position: absolute;
-  inset: auto 0 100% 0;
-  display: flex;
-  justify-content: center;
-  gap: 0.6rem;
-  pointer-events: none;
-}
-.quiz-balloon {
-  font-size: 1.6rem;
-  opacity: 0;
-  transform: translateY(15px) scale(0.85);
-}
-.quiz-show-balloons .quiz-balloon {
-  animation: quizBalloonRise 1.6s ease-out forwards;
-}
-.quiz-show-balloons .quiz-balloon:nth-child(2) { animation-delay: 0.1s; }
-.quiz-show-balloons .quiz-balloon:nth-child(3) { animation-delay: 0.2s; }
-.quiz-show-balloons .quiz-balloon:nth-child(4) { animation-delay: 0.3s; }
-@keyframes quizBalloonRise {
-  0% { opacity: 0; transform: translateY(20px) scale(0.75); }
-  20% { opacity: 1; }
-  100% { opacity: 0; transform: translateY(-80px) scale(1.05); }
-}
+
+/* --- Full-screen overlays --- */
 .quiz-overlay {
   position: fixed;
   inset: 0;
-  background: rgba(43, 39, 33, 0.55);
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
-  color: #fff;
-  font-size: clamp(2.4rem, 8vw, 5rem);
-  font-weight: 800;
   opacity: 0;
   pointer-events: none;
-  transition: opacity 0.25s ease;
   z-index: 5000;
+  transition: opacity 0.3s ease;
 }
-.quiz-overlay.quiz-miss { background: rgba(59, 12, 19, 0.55); }
-.quiz-overlay.quiz-success { background: rgba(34, 89, 74, 0.55); }
-.quiz-overlay.is-visible { opacity: 1; pointer-events: auto; }
-.quiz-overlay span { text-shadow: 0 6px 18px rgba(0,0,0,0.5); letter-spacing: 0.2em; }
+.quiz-overlay.is-visible {
+  opacity: 1;
+  pointer-events: auto;
+}
+.quiz-overlay-bg {
+  position: absolute;
+  inset: 0;
+  backdrop-filter: blur(6px);
+  -webkit-backdrop-filter: blur(6px);
+}
+.quiz-overlay.quiz-correct .quiz-overlay-bg {
+  background: rgba(68, 110, 114, 0.45);
+}
+.quiz-overlay.quiz-miss .quiz-overlay-bg {
+  background: rgba(89, 30, 30, 0.4);
+}
+.quiz-overlay-content {
+  position: relative;
+  z-index: 1;
+  text-align: center;
+}
+.quiz-overlay-icon {
+  font-size: clamp(3rem, 10vw, 6rem);
+  line-height: 1;
+  display: block;
+  animation: quizOverlayPop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+}
+.quiz-overlay-text {
+  color: #fff;
+  font-size: clamp(1.4rem, 4vw, 2.2rem);
+  font-weight: 800;
+  letter-spacing: 0.15em;
+  margin-top: 0.6rem;
+  text-shadow: 0 4px 16px rgba(0,0,0,0.4);
+}
+@keyframes quizOverlayPop {
+  0% { transform: scale(0.3); opacity: 0; }
+  100% { transform: scale(1); opacity: 1; }
+}
+
+/* --- Quiz page layout --- */
+.quiz-page-title {
+  font-size: 1.8rem;
+}
+.quiz-suffix {
+  display: inline-block;
+  margin-left: 0.6rem;
+  font-size: 0.5em;
+  font-weight: 600;
+  color: var(--primary-color);
+  background: rgba(68, 110, 114, 0.08);
+  border: 1px solid rgba(68, 110, 114, 0.2);
+  border-radius: 6px;
+  padding: 0.15em 0.6em;
+  vertical-align: middle;
+  position: relative;
+  top: -0.15em;
+}
+
+/* --- Transparent area (answer reveal) --- */
+.transparent-area {
+  opacity: 0;
+  display: none !important;
+}
+.transparent-area-revealed {
+  animation: quizReveal 0.5s ease forwards;
+}
+@keyframes quizReveal {
+  0% { opacity: 0; transform: translateY(12px); }
+  100% { opacity: 1; transform: translateY(0); }
+}
+
+@media (max-width: 640px) {
+  .quizbutton .quizlabel {
+    min-width: 100px;
+    max-width: none;
+    flex: 1 1 100%;
+    padding: 0.75rem 0.8rem;
+    font-size: 0.95em;
+  }
+  .quiz-iframe-overlay {
+    width: 160px;
+    height: 52px;
+    font-size: 1.1rem;
+  }
+}
 </style>`;
 
 const QUIZ_JS = `<script>
 (function(){
+  /* Inject iframe overlays to hide Google Maps location info */
+  document.querySelectorAll('.quiz-iframe-blur').forEach(function(el, i) {
+    var overlay = document.createElement('div');
+    overlay.className = 'quiz-iframe-overlay';
+    overlay.textContent = 'Q' + (i + 1);
+    el.insertBefore(overlay, el.firstChild);
+  });
+  /* Overlay helpers */
+  function getOrCreateOverlay(id, cls, icon, text) {
+    var el = document.getElementById(id);
+    if (!el) {
+      el = document.createElement('div');
+      el.id = id;
+      el.className = 'quiz-overlay ' + cls;
+      el.innerHTML = '<div class="quiz-overlay-bg"></div><div class="quiz-overlay-content"><span class="quiz-overlay-icon">' + icon + '</span><span class="quiz-overlay-text">' + text + '</span></div>';
+      document.body.appendChild(el);
+    }
+    return el;
+  }
+  function flashOverlay(el, duration) {
+    el.classList.add('is-visible');
+    setTimeout(function(){ el.classList.remove('is-visible'); }, duration || 900);
+  }
+  /* Quiz interaction */
   document.addEventListener('change', function(e) {
     var radio = e.target;
     if (!radio.classList.contains('quiz-option')) return;
@@ -139,22 +248,6 @@ const QUIZ_JS = `<script>
     if (!root) return;
     var labels = root.querySelectorAll('.quizlabel');
     var correctRadio = root.querySelector('input.quiz-option[data-correct="true"]');
-    var missOverlay = document.getElementById('quiz-miss-overlay');
-    var successOverlay = document.getElementById('quiz-success-overlay');
-    if (!missOverlay) {
-      missOverlay = document.createElement('div');
-      missOverlay.id = 'quiz-miss-overlay';
-      missOverlay.className = 'quiz-overlay quiz-miss';
-      missOverlay.innerHTML = '<span>はずれ</span>';
-      document.body.appendChild(missOverlay);
-    }
-    if (!successOverlay) {
-      successOverlay = document.createElement('div');
-      successOverlay.id = 'quiz-success-overlay';
-      successOverlay.className = 'quiz-overlay quiz-success';
-      successOverlay.innerHTML = '<span>正解！</span>';
-      document.body.appendChild(successOverlay);
-    }
     labels.forEach(function(l){ l.classList.remove('is-correct','is-incorrect'); });
     var isCorrect = radio.dataset.correct === 'true';
     var label = radio.nextElementSibling;
@@ -168,13 +261,9 @@ const QUIZ_JS = `<script>
         el.classList.remove('transparent-area');
         el.classList.add('transparent-area-revealed');
       });
-      successOverlay.classList.add('is-visible');
-      setTimeout(function(){ successOverlay.classList.remove('is-visible'); }, 650);
-      root.classList.add('quiz-show-balloons');
-      setTimeout(function(){ root.classList.remove('quiz-show-balloons'); }, 1800);
+      flashOverlay(getOrCreateOverlay('quiz-correct-overlay','quiz-correct','\\u{1F389}','\\u6B63\\u89E3\\uFF01'), 900);
     } else {
-      missOverlay.classList.add('is-visible');
-      setTimeout(function(){ missOverlay.classList.remove('is-visible'); }, 650);
+      flashOverlay(getOrCreateOverlay('quiz-miss-overlay','quiz-miss','\\u{1F6AB}','\\u306F\\u305A\\u308C'), 900);
     }
   });
 })();
