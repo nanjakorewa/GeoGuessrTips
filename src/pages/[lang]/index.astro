@@ -106,7 +106,7 @@ const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight -
 </head>
 <body>
   <header class="banner hero-surface">
-    <Navbar lang={lang} isHome={true} translations={translationUrls} />
+    <Navbar lang={lang} isHome={true} />
     <div class="container section">
       <div class="row">
         <div class="col-lg-8 text-center mx-auto">
@@ -171,7 +171,7 @@ const otherCards = topicCards.filter((c) => !c.isRule).sort((a, b) => a.weight -
     </div>
   </section>
 
-  <Footer lang={lang} title={siteTitle} permalink={`${site}/${lang}/`} />
+  <Footer lang={lang} title={siteTitle} permalink={`${site}/${lang}/`} translations={translationUrls} />
   <SearchModal lang={lang} />
 </body>
 </html>

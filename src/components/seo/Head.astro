@@ -56,12 +56,22 @@ const imageAlt = title || siteTitle;
 <meta name="format-detection" content="telephone=no" />
 <meta name="referrer" content="strict-origin-when-cross-origin" />
 
+{/* Early theme detection — runs before paint to prevent flash */}
+<script is:inline>
+(function(){
+  var saved = localStorage.getItem("theme");
+  var theme = saved || (window.matchMedia("(prefers-color-scheme: dark)").matches ? "dark" : "light");
+  document.documentElement.setAttribute("data-theme", theme);
+})();
+</script>
+
 <link rel="icon" href="/favicon.ico" />
 <link rel="apple-touch-icon" sizes="180x180" href="/images/icon-512x512.png" />
 <link rel="shortcut icon" type="image/png" href="/images/icon-128x128.png" />
 
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700&family=Inter:wght@400;500;700&display=swap" as="style" />
 <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
 <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
 <link rel="dns-prefetch" href="https://www.clarity.ms" />
@@ -116,6 +126,15 @@ const imageAlt = title || siteTitle;
 <meta name="author" content="nanja" />
 <meta name="theme-color" content="#446E72" />
 <meta name="msapplication-TileColor" content="#446E72" />
+<script is:inline>
+(function(){
+  var theme = document.documentElement.getAttribute("data-theme");
+  if (theme === "dark") {
+    var m = document.querySelector('meta[name="theme-color"]');
+    if (m) m.setAttribute("content", "#1A1D21");
+  }
+})();
+</script>
 
 {/* JSON-LD structured data */}
 <Schema
@@ -158,6 +177,24 @@ const imageAlt = title || siteTitle;
   --primary-hover:#36575A;
   --font-family:'Inter', sans-serif;
   --font-family-ja:'Noto Sans JP', sans-serif;
+}
+[data-theme="dark"]{
+  --primary-color:#5A9196;
+  --body-color:#1A1D21;
+  --text-color:#D8D5D0;
+  --text-color-dark:#E6E4E0;
+  --white-color:#23272B;
+  --light-color:#2A2E33;
+  --accent-soft:#2C3338;
+  --accent-muted:#252A2E;
+  --secondary-color:#D8D5D0;
+  --neutral-soft:#2A2E33;
+  --border-soft:rgba(200, 200, 200, 0.12);
+  --surface-color:#22262A;
+  --surface-alt:#1E2226;
+  --shadow-soft:0 10px 24px rgba(0, 0, 0, 0.25);
+  --shadow-accent:0 18px 34px rgba(90, 145, 150, 0.15);
+  --primary-hover:#6BA5AA;
 }
 body {
   background: var(--body-color);

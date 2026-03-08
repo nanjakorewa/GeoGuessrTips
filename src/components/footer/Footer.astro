@@ -1,5 +1,6 @@
 ---
 import type { Language } from "@lib/i18n-utils";
+import { getLanguageName } from "@lib/i18n-utils";
 import { t } from "@i18n/translations";
 
 interface Props {
@@ -7,50 +8,72 @@ interface Props {
   title: string;
   permalink: string;
   flag?: string;
+  translations?: { lang: Language; url: string }[];
 }
 
-const { lang, title, permalink, flag } = Astro.props;
-
-const socialLinks = [
-  { icon: "ti-game", link: "https://www.twitch.tv/nanjakorewa" },
-  { icon: "ti-youtube", link: "https://www.youtube.com/@nanjakorewa" },
-  { icon: "ti-twitter-alt", link: "https://x.com/nanjakorewa" },
-  { icon: "ti-github", link: "https://github.com/nanjakorewa/GeoGuessrTips" },
-  { icon: "ti-location-pin", link: "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82" },
-];
+const { lang, title, permalink, flag, translations = [] } = Astro.props;
 
 const aboutUrl = lang === "ja" ? "/about/" : `/${lang}/about/`;
+const topUrl = lang === "ja" ? "/" : `/${lang}/`;
 ---
 
-<footer class="section pb-4">
-  <div class="container apply-bg">
-    <div class="row align-items-center">
-      <div class="col-md-12 text-md-center text-center">
-        <ul class="list-inline">
-          {socialLinks.map((s) => (
-            <li class="list-inline-item">
-              <a class="text-color d-inline-block p-2" href={s.link}>
-                <i class={s.icon}></i>
-              </a>
-            </li>
-          ))}
+<footer class="site-footer">
+  <div class="container">
+    <div class="footer-grid">
+      {/* Brand */}
+      <div class="footer-col footer-brand-col">
+        <a class="footer-brand" href={topUrl}>GeoGuessrの攻略めも</a>
+        <p class="footer-brand-desc">GeoGuessr Tips &amp; Notes</p>
+      </div>
+
+      {/* Site */}
+      <div class="footer-col">
+        <h4 class="footer-heading">SITE</h4>
+        <ul class="footer-links">
+          <li><a href={aboutUrl}>{t("footer_privacy_link", lang)}</a></li>
+          <li><a href={topUrl}>Top</a></li>
         </ul>
       </div>
-    </div>
-    <div class="text-center">
-      <p class="footer-meta__text mb-0">
-        <span class="footer-meta__brand">&copy; 2021-2025 nanja.</span>
-        <a class="footer-meta__link" href={aboutUrl}>{t("footer_privacy_link", lang)}</a>
-      </p>
-      <div class="sister-sites">
-        <a href="https://k-dm.work/" target="_blank" rel="noopener">K_DM</a>
-        <span class="dot">&middot;</span>
-        <a href="https://nanja-webtools.pages.dev/" target="_blank" rel="noopener">Webtools</a>
-        <span class="dot">&middot;</span>
-        <a href="https://geopinning.space/" target="_blank" rel="noopener">Geogesser's Notes</a>
-        <span class="dot">&middot;</span>
-        <a href="https://nanja-recipe.pages.dev/" target="_blank" rel="noopener">Nanja Recipe</a>
+
+      {/* Connect */}
+      <div class="footer-col">
+        <h4 class="footer-heading">CONNECT</h4>
+        <ul class="footer-links">
+          <li><a href="https://www.youtube.com/@nanjakorewa" target="_blank" rel="noopener"><i class="fab fa-youtube"></i> YouTube</a></li>
+          <li><a href="https://x.com/nanjakorewa" target="_blank" rel="noopener"><i class="fab fa-twitter"></i> X / Twitter</a></li>
+          <li><a href="https://github.com/nanjakorewa/GeoGuessrTips" target="_blank" rel="noopener"><i class="fab fa-github"></i> GitHub</a></li>
+        </ul>
       </div>
+
+      {/* Sister Sites */}
+      <div class="footer-col">
+        <h4 class="footer-heading">SISTER SITES</h4>
+        <ul class="footer-links">
+          <li><a href="https://nanja-webtools.pages.dev/" target="_blank" rel="noopener">Webtools</a></li>
+          <li><a href="https://geopinning.space/">Geogesser's Notes</a></li>
+          <li><a href="https://nanja-recipe.pages.dev/" target="_blank" rel="noopener">Nanja Recipe</a></li>
+        </ul>
+      </div>
+
+      {/* Language */}
+      {translations.length > 0 && (
+        <div class="footer-col">
+          <h4 class="footer-heading">LANGUAGE</h4>
+          <ul class="footer-links footer-lang-links">
+            {translations.map(({ lang: tLang, url }) => (
+              <li>
+                <a href={url} class:list={[{ "is-current": tLang === lang }]}>
+                  {getLanguageName(tLang)}
+                </a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )}
+    </div>
+
+    <div class="footer-bottom">
+      <p>&copy; 2021-2026 nanja.</p>
     </div>
   </div>
 </footer>

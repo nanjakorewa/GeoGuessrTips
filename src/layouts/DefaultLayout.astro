@@ -3,12 +3,14 @@ import type { Language } from "@lib/i18n-utils";
 import { t } from "@i18n/translations";
 import { getLocale, buildUrl, extractLangFromId, extractSlugFromId, LANGUAGES, DEFAULT_LANG } from "@lib/i18n-utils";
 import { buildContentTree, getSiblingCountries } from "@lib/content-tree";
+import { generateDescription } from "@lib/seo-utils";
 import { getCollection } from "astro:content";
 import Head from "@components/seo/Head.astro";
 import Navbar from "@components/navigation/Navbar.astro";
 import Sidebar from "@components/navigation/Sidebar.astro";
 import Footer from "@components/footer/Footer.astro";
 import SearchModal from "@components/search/SearchModal.astro";
+import TableOfContents from "@components/TableOfContents.astro";
 
 interface Props {
   entry: any;
@@ -43,32 +45,7 @@ if (data.seo_title) {
 }
 
 // --- SEO description ---
-let seoDescription = "";
-if (data.seo_description) {
-  seoDescription = data.seo_description;
-} else if (data.description) {
-  seoDescription = data.description;
-} else if (data.flag) {
-  const flagDescTemplates: Record<Language, string> = {
-    ja: "%sをGeoGuessrで見分けるためのヒントや特徴をまとめたメモです。ストリートビューで気付いたポイントを記録しています。",
-    en: "Notes that summarise tips and distinctive features to help identify %s while playing GeoGuessr.",
-    id: "Catatan yang merangkum kiat dan ciri khas untuk membantu membedakan %s saat bermain GeoGuessr.",
-    es: "Notas que reúnen consejos y rasgos distintivos para identificar %s mientras juegas GeoGuessr.",
-    pt: "Notas que reúnem dicas e características distintivas para identificar %s ao jogar GeoGuessr.",
-  };
-  seoDescription = (flagDescTemplates[lang] || flagDescTemplates.ja).replace("%s", data.title);
-} else {
-  const defaultDescs: Record<Language, string> = {
-    ja: "GeoGuessr（ジオゲッサー）のプレイで気付いた特徴や攻略ヒントを国・地域ごとにまとめた個人メモです。",
-    en: "Personal notes that collect strategies, observations, and distinctive clues for GeoGuessr.",
-    id: "Catatan pribadi berisi strategi, pengamatan, dan petunjuk khas GeoGuessr.",
-    es: "Notas personales con estrategias, observaciones y pistas distintivas de GeoGuessr.",
-    pt: "Notas pessoais que reúnem estratégias, observações e pistas distintivas de GeoGuessr.",
-  };
-  seoDescription = defaultDescs[lang] || defaultDescs.ja;
-}
-// Truncate to 180 chars
-seoDescription = seoDescription.replace(/\s+/g, " ").trim().slice(0, 180);
+const seoDescription = generateDescription(entry, lang, collection);
 
 // --- OG Image ---
 let ogImage = "";
@@ -285,7 +262,7 @@ const lastmodDisplay = modifiedTime
 <body>
   {/* Header */}
   <header class="shadow-bottom sticky-top bg-white">
-    <Navbar lang={lang} isHome={false} translations={translationUrls} />
+    <Navbar lang={lang} isHome={false} />
   </header>
 
   {/* Main content */}
@@ -439,6 +416,9 @@ const lastmodDisplay = modifiedTime
               </Fragment>
             )}
 
+            {/* Table of Contents (only for pages with content) */}
+            {hasContent && <TableOfContents />}
+
             {/* Main content or child page listing */}
             {hasContent ? (
               <div class="content" data-pagefind-body>
@@ -581,7 +561,7 @@ const lastmodDisplay = modifiedTime
     })();
   </script>
 
-  <Footer lang={lang} title={data.title} permalink={canonical} flag={data.flag} />
+  <Footer lang={lang} title={data.title} permalink={canonical} flag={data.flag} translations={translationUrls} />
   <SearchModal lang={lang} />
 </body>
 </html>

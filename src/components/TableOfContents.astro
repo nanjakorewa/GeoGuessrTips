@@ -1,0 +1,228 @@
+---
+// TableOfContents.astro
+// Client-side ToC auto-generated from h2/h3 headings in the rendered content.
+// Only displays when 3+ headings are found.
+---
+
+<nav class="toc-wrapper" id="toc-nav" aria-label="Table of Contents" style="display:none;">
+  <button class="toc-toggle" id="toc-toggle" type="button" aria-expanded="false">
+    <span class="toc-toggle-label">
+      <svg class="toc-icon" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true">
+        <rect x="1" y="2" width="14" height="1.5" rx="0.75" fill="currentColor"/>
+        <rect x="1" y="7" width="10" height="1.5" rx="0.75" fill="currentColor"/>
+        <rect x="1" y="12" width="12" height="1.5" rx="0.75" fill="currentColor"/>
+      </svg>
+      Contents
+    </span>
+    <svg class="toc-chevron" id="toc-chevron" width="14" height="14" viewBox="0 0 14 14" fill="none" aria-hidden="true">
+      <path d="M3.5 5.25L7 8.75L10.5 5.25" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+    </svg>
+  </button>
+  <ol class="toc-list" id="toc-list"></ol>
+</nav>
+
+<style>
+  .toc-wrapper {
+    border: 1px solid var(--accent-muted, #DEE4E3);
+    border-radius: 6px;
+    margin-bottom: 1.5rem;
+    background: #f8fafa;
+    overflow: hidden;
+  }
+
+  .toc-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.65rem 1rem;
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 0.92rem;
+    font-weight: 600;
+    color: var(--primary-color, #446E72);
+    transition: background 0.15s ease;
+  }
+
+  .toc-toggle:hover {
+    background: var(--accent-muted, #DEE4E3);
+  }
+
+  .toc-toggle-label {
+    display: flex;
+    align-items: center;
+    gap: 0.45rem;
+  }
+
+  .toc-icon {
+    flex-shrink: 0;
+  }
+
+  .toc-chevron {
+    transition: transform 0.2s ease;
+    flex-shrink: 0;
+  }
+
+  .toc-chevron.is-open {
+    transform: rotate(180deg);
+  }
+
+  .toc-list {
+    list-style: none;
+    margin: 0;
+    padding: 0 1rem 0.75rem 1rem;
+    display: none;
+  }
+
+  .toc-list.is-open {
+    display: block;
+  }
+
+  .toc-list li {
+    margin: 0;
+    padding: 0;
+  }
+
+  .toc-list > li > a {
+    display: block;
+    padding: 0.3rem 0;
+    color: var(--text-color, #2B2721);
+    text-decoration: none;
+    font-size: 0.88rem;
+    border-bottom: 1px solid transparent;
+    transition: color 0.15s ease;
+  }
+
+  .toc-list > li > a:hover {
+    color: var(--primary-color, #446E72);
+  }
+
+  /* Nested h3 items */
+  .toc-list .toc-sub {
+    list-style: none;
+    margin: 0;
+    padding: 0 0 0 1rem;
+  }
+
+  .toc-list .toc-sub li a {
+    display: block;
+    padding: 0.2rem 0;
+    color: var(--text-color, #2B2721);
+    opacity: 0.78;
+    text-decoration: none;
+    font-size: 0.82rem;
+    transition: color 0.15s ease, opacity 0.15s ease;
+  }
+
+  .toc-list .toc-sub li a:hover {
+    color: var(--primary-color, #446E72);
+    opacity: 1;
+  }
+
+  /* Desktop: expanded by default */
+  @media (min-width: 992px) {
+    .toc-list.is-desktop-open {
+      display: block;
+    }
+  }
+</style>
+
+<script is:inline>
+  (() => {
+    const MIN_HEADINGS = 3;
+    const contentEl = document.querySelector('[data-pagefind-body]');
+    if (!contentEl) return;
+
+    const headings = contentEl.querySelectorAll('h2, h3');
+    if (headings.length < MIN_HEADINGS) return;
+
+    // Ensure headings have IDs for linking
+    const usedIds = new Set();
+    headings.forEach((h) => {
+      if (!h.id) {
+        let base = h.textContent.trim()
+          .toLowerCase()
+          .replace(/[^\w\u3000-\u9fff\uf900-\ufaff\u{20000}-\u{2fa1f}]+/gu, '-')
+          .replace(/^-+|-+$/g, '');
+        if (!base) base = 'heading';
+        let id = base;
+        let n = 1;
+        while (usedIds.has(id) || document.getElementById(id)) {
+          id = base + '-' + (++n);
+        }
+        h.id = id;
+      }
+      usedIds.add(h.id);
+    });
+
+    // Build nested list
+    const tocList = document.getElementById('toc-list');
+    let currentH2Li = null;
+    let currentSubUl = null;
+
+    headings.forEach((h) => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = '#' + h.id;
+      a.textContent = h.textContent.trim();
+
+      if (h.tagName === 'H2') {
+        li.appendChild(a);
+        tocList.appendChild(li);
+        currentH2Li = li;
+        currentSubUl = null;
+      } else {
+        // H3 - nest under current H2
+        if (!currentSubUl) {
+          currentSubUl = document.createElement('ol');
+          currentSubUl.className = 'toc-sub';
+          if (currentH2Li) {
+            currentH2Li.appendChild(currentSubUl);
+          } else {
+            // H3 before any H2 - append at top level
+            tocList.appendChild(li);
+            li.appendChild(a);
+            return;
+          }
+        }
+        li.appendChild(a);
+        currentSubUl.appendChild(li);
+      }
+    });
+
+    // Show the nav
+    const nav = document.getElementById('toc-nav');
+    nav.style.display = '';
+
+    // Toggle logic
+    const toggle = document.getElementById('toc-toggle');
+    const chevron = document.getElementById('toc-chevron');
+    const isDesktop = window.matchMedia('(min-width: 992px)').matches;
+
+    if (isDesktop) {
+      tocList.classList.add('is-open', 'is-desktop-open');
+      chevron.classList.add('is-open');
+      toggle.setAttribute('aria-expanded', 'true');
+    }
+
+    toggle.addEventListener('click', () => {
+      const open = tocList.classList.toggle('is-open');
+      tocList.classList.remove('is-desktop-open');
+      chevron.classList.toggle('is-open', open);
+      toggle.setAttribute('aria-expanded', String(open));
+    });
+
+    // Smooth scroll
+    tocList.addEventListener('click', (e) => {
+      const link = e.target.closest('a');
+      if (!link) return;
+      const target = document.querySelector(link.getAttribute('href'));
+      if (target) {
+        e.preventDefault();
+        target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        history.replaceState(null, '', link.getAttribute('href'));
+      }
+    });
+  })();
+</script>

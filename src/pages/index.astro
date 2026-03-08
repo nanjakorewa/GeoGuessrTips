@@ -94,7 +94,7 @@ const recentUpdates = [
 </head>
 <body>
   <header class="banner hero-surface">
-    <Navbar lang={lang} isHome={true} translations={translationUrls} />
+    <Navbar lang={lang} isHome={true} />
     <div class="container section">
       <div class="row">
         <div class="col-lg-8 text-center mx-auto">
@@ -188,7 +188,7 @@ const recentUpdates = [
     </div>
   </section>
 
-  <Footer lang={lang} title={siteTitle} permalink={`${site}/`} />
+  <Footer lang={lang} title={siteTitle} permalink={`${site}/`} translations={translationUrls} />
   <SearchModal lang={lang} />
 </body>
 </html>

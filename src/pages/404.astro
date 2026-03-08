@@ -1,0 +1,148 @@
+---
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import SearchModal from "@components/search/SearchModal.astro";
+import type { Language } from "@lib/i18n-utils";
+import { DEFAULT_LANG } from "@lib/i18n-utils";
+
+const site = "https://geopinning.space";
+const siteTitle = "GeoGuessrの攻略めも";
+
+// Detect language from the URL prefix; default to ja
+const pathname = Astro.url.pathname;
+const langMatch = pathname.match(/^\/(en|id|es|pt)(\/|$)/);
+const lang: Language = langMatch ? (langMatch[1] as Language) : DEFAULT_LANG;
+const homeUrl = lang === DEFAULT_LANG ? "/" : `/${lang}/`;
+
+const messages: Record<Language, { heading: string; code: string; body: string; link: string }> = {
+  ja: {
+    heading: "ページが見つかりません",
+    code: "404",
+    body: "お探しのページは移動または削除された可能性があります。",
+    link: "トップページへ戻る",
+  },
+  en: {
+    heading: "Page not found",
+    code: "404",
+    body: "The page you are looking for may have been moved or deleted.",
+    link: "Back to homepage",
+  },
+  id: {
+    heading: "Halaman tidak ditemukan",
+    code: "404",
+    body: "Halaman yang Anda cari mungkin telah dipindahkan atau dihapus.",
+    link: "Kembali ke beranda",
+  },
+  es: {
+    heading: "Pagina no encontrada",
+    code: "404",
+    body: "La pagina que buscas pudo haber sido movida o eliminada.",
+    link: "Volver al inicio",
+  },
+  pt: {
+    heading: "Pagina nao encontrada",
+    code: "404",
+    body: "A pagina que voce procura pode ter sido movida ou excluida.",
+    link: "Voltar ao inicio",
+  },
+};
+
+const msg = messages[lang] || messages.ja;
+const title = `${msg.code} - ${msg.heading} | ${siteTitle}`;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={title}
+    description={msg.body}
+    lang={lang}
+    canonical={`${site}${homeUrl}`}
+    ogImage={`${site}/images/icon-512x512.png`}
+    ogType="website"
+    noindex={true}
+  />
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+  <style is:inline>
+    .notfound-wrapper {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      min-height: 60vh;
+      padding: 3rem 1.5rem;
+    }
+    .notfound-code {
+      font-size: 7rem;
+      font-weight: 700;
+      line-height: 1;
+      color: var(--primary-color, #446E72);
+      margin: 0;
+    }
+    .notfound-heading {
+      font-size: 1.5rem;
+      font-weight: 600;
+      color: var(--text-color, #2B2721);
+      margin: 0.5rem 0 0.75rem;
+    }
+    .notfound-body {
+      font-size: 1rem;
+      color: var(--text-color, #2B2721);
+      margin-bottom: 1.5rem;
+      max-width: 480px;
+    }
+    .notfound-home-link {
+      display: inline-block;
+      padding: 0.65rem 1.8rem;
+      background: var(--primary-color, #446E72);
+      color: #fff;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 500;
+      transition: background 0.2s;
+      margin-bottom: 2.5rem;
+    }
+    .notfound-home-link:hover {
+      background: var(--primary-hover, #36575A);
+      color: #fff;
+      text-decoration: none;
+    }
+    .notfound-search {
+      width: 100%;
+      max-width: 520px;
+    }
+  </style>
+</head>
+<body>
+  <header class="shadow-bottom sticky-top bg-white">
+    <Navbar lang={lang} isHome={false} />
+  </header>
+
+  <main class="notfound-wrapper">
+    <p class="notfound-code">{msg.code}</p>
+    <h1 class="notfound-heading">{msg.heading}</h1>
+    <p class="notfound-body">{msg.body}</p>
+    <a href={homeUrl} class="notfound-home-link">{msg.link}</a>
+    <div class="notfound-search" id="notfound-search"></div>
+  </main>
+
+  <Footer lang={lang} title={siteTitle} permalink={`${site}${homeUrl}`} />
+  <SearchModal lang={lang} />
+
+  <script is:inline>
+    window.addEventListener('DOMContentLoaded', function () {
+      if (typeof PagefindUI !== 'undefined') {
+        new PagefindUI({
+          element: '#notfound-search',
+          showSubResults: false,
+          showImages: false,
+        });
+      }
+    });
+  </script>
+  <script is:inline src="/pagefind/pagefind-ui.js"></script>
+</body>
+</html>
