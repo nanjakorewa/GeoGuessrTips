@@ -4,6 +4,17 @@ import { getLocale, getHreflang, LANGUAGES, DEFAULT_LANG, buildUrl, extractLangF
 import { t } from "@i18n/translations";
 import Schema from "./Schema.astro";
 
+interface BreadcrumbItem {
+  name: string;
+  url: string;
+}
+
+interface SectionChild {
+  title: string;
+  url: string;
+  flag?: string;
+}
+
 interface Props {
   title: string;
   description: string;
@@ -19,6 +30,12 @@ interface Props {
   translations?: { lang: Language; url: string }[];
   /** frontmatter data for schema */
   pageData?: Record<string, any>;
+  /** Pre-resolved breadcrumb items from layout */
+  breadcrumbs?: BreadcrumbItem[];
+  /** Collection name (rule, quiz, about, web) */
+  collection?: string;
+  /** Children for section/index pages (ItemList schema) */
+  sectionChildren?: SectionChild[];
   usePolishFont?: boolean;
   needsJQuery36?: boolean;
   needsJSMaps?: boolean;
@@ -37,6 +54,9 @@ const {
   flag,
   translations: translationUrls = [],
   pageData = {},
+  breadcrumbs = [],
+  collection = "",
+  sectionChildren = [],
   usePolishFont = false,
   needsJQuery36 = false,
   needsJSMaps = false,
@@ -48,6 +68,20 @@ const locale = getLocale(lang);
 const robots = noindex ? "noindex, nofollow" : "index, follow";
 const twitterCard = ogImage ? "summary_large_image" : "summary";
 const imageAlt = title || siteTitle;
+
+// --- Dynamic keywords ---
+const baseKeywords = ["GeoGuessr"];
+if (lang === "ja") baseKeywords.push("ジオゲッサー", "地理クイズ");
+if (flag && pageData.title) {
+  baseKeywords.push(pageData.title);
+  if (lang === "ja") {
+    baseKeywords.push(`${pageData.title} GeoGuessr`, `${pageData.title} 見分け方`);
+  } else {
+    baseKeywords.push(`${pageData.title} GeoGuessr`, `identify ${pageData.title}`);
+  }
+}
+if (collection === "quiz") baseKeywords.push(lang === "ja" ? "クイズ" : "quiz");
+const keywords = baseKeywords.join(", ");
 ---
 
 <meta charset="utf-8" />
@@ -122,7 +156,7 @@ const imageAlt = title || siteTitle;
 <meta name="twitter:site" content="@nanjakorewa" />
 <meta name="twitter:creator" content="@nanjakorewa" />
 
-<meta name="keywords" content="GeoGuessr, ジオゲッサー, 地理クイズ, 世界の国, 地理クイズ攻略" />
+<meta name="keywords" content={keywords} />
 <meta name="author" content="nanja" />
 <meta name="theme-color" content="#446E72" />
 <meta name="msapplication-TileColor" content="#446E72" />
@@ -148,6 +182,9 @@ const imageAlt = title || siteTitle;
   modifiedTime={modifiedTime}
   flag={flag}
   pageData={pageData}
+  breadcrumbs={breadcrumbs}
+  collection={collection}
+  sectionChildren={sectionChildren}
 />
 
 {/* CSS */}

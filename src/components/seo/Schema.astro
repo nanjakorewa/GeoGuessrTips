@@ -1,6 +1,17 @@
 ---
 import type { Language } from "@lib/i18n-utils";
 
+interface BreadcrumbItem {
+  name: string;
+  url: string;
+}
+
+interface SectionChild {
+  title: string;
+  url: string;
+  flag?: string;
+}
+
 interface Props {
   title: string;
   description: string;
@@ -12,6 +23,9 @@ interface Props {
   modifiedTime?: Date;
   flag?: string;
   pageData?: Record<string, any>;
+  breadcrumbs?: BreadcrumbItem[];
+  collection?: string;
+  sectionChildren?: SectionChild[];
 }
 
 const {
@@ -25,6 +39,9 @@ const {
   modifiedTime,
   flag,
   pageData = {},
+  breadcrumbs = [],
+  collection = "",
+  sectionChildren = [],
 } = Astro.props;
 
 const site = "https://geopinning.space";
@@ -46,7 +63,7 @@ const socialLinks = [
   "https://www.geoguessr.com/user/63c2671a563ddfcf1b8cda82",
 ];
 
-// Organization schema
+// --- Organization schema ---
 const orgSchema = {
   "@context": "https://schema.org",
   "@type": "Organization",
@@ -56,7 +73,7 @@ const orgSchema = {
   sameAs: socialLinks,
 };
 
-// WebSite schema
+// --- WebSite schema with SearchAction (sitelinks search box) ---
 const websiteSchema: Record<string, any> = {
   "@context": "https://schema.org",
   "@type": "WebSite",
@@ -65,9 +82,17 @@ const websiteSchema: Record<string, any> = {
   inLanguage: languageCode,
   description,
   sameAs: socialLinks,
+  potentialAction: {
+    "@type": "SearchAction",
+    target: {
+      "@type": "EntryPoint",
+      urlTemplate: `${site}/?q={search_term_string}`,
+    },
+    "query-input": "required name=search_term_string",
+  },
 };
 
-// Page/Article schema
+// --- Page/Article schema (enhanced) ---
 const pageType = ogType === "article" ? "Article" : "WebPage";
 const pageSchema: Record<string, any> = {
   "@context": "https://schema.org",
@@ -77,10 +102,15 @@ const pageSchema: Record<string, any> = {
   description,
   url: canonical,
   inLanguage: languageCode,
-  mainEntityOfPage: canonical,
+  mainEntityOfPage: { "@type": "WebPage", "@id": canonical },
   isPartOf: { "@type": "WebSite", name: siteTitle, url: site },
   author: { "@type": "Organization", name: orgName, url: orgUrl },
-  publisher: { "@type": "Organization", name: orgName, url: orgUrl },
+  publisher: {
+    "@type": "Organization",
+    name: orgName,
+    url: orgUrl,
+    logo: { "@type": "ImageObject", url: orgLogo },
+  },
 };
 if (ogImage) pageSchema.image = [ogImage];
 if (publishedTime && pageType === "Article") {
@@ -89,41 +119,44 @@ if (publishedTime && pageType === "Article") {
 if (modifiedTime && pageType === "Article") {
   pageSchema.dateModified = modifiedTime.toISOString();
 }
+// articleSection from collection name
+if (pageType === "Article" && collection) {
+  const sectionNames: Record<string, Record<Language, string>> = {
+    rule: { ja: "国と地域の判定", en: "Country & Region Guide", id: "Panduan Negara", es: "Guía de países", pt: "Guia de países" },
+    quiz: { ja: "クイズ", en: "Quiz", id: "Kuis", es: "Quiz", pt: "Quiz" },
+    about: { ja: "このサイトについて", en: "About", id: "Tentang", es: "Acerca de", pt: "Sobre" },
+    web: { ja: "外部リソース", en: "External Resources", id: "Sumber Daya", es: "Recursos", pt: "Recursos" },
+  };
+  pageSchema.articleSection = sectionNames[collection]?.[lang] || collection;
+}
+// about: country entity for country pages
+if (flag && pageData.title) {
+  pageSchema.about = {
+    "@type": "Country",
+    name: pageData.title,
+  };
+}
 
-// BreadcrumbList schema
-const breadcrumbItems: { name: string; item: string }[] = [];
-const urlPath = new URL(canonical).pathname.replace(/\/$/, "");
-const segments = urlPath.split("/").filter(Boolean);
-// Remove lang prefix for non-ja
-let pathSegments = segments;
-if (["en", "id", "es", "pt"].includes(segments[0])) {
-  pathSegments = segments.slice(1);
+// --- BreadcrumbList schema (using pre-resolved titles from layout) ---
+let breadcrumbSchema: Record<string, any> | null = null;
+if (breadcrumbs.length > 1) {
+  breadcrumbSchema = {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    itemListElement: breadcrumbs.map((item, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: item.name,
+      item: `${site}${item.url}`,
+    })),
+  };
 }
-let currentPath = lang === "ja" ? "" : `/${lang}`;
-breadcrumbItems.push({ name: siteTitle, item: `${site}${currentPath}/` });
-for (const seg of pathSegments) {
-  currentPath += `/${seg}`;
-  breadcrumbItems.push({ name: seg, item: `${site}${currentPath}/` });
-}
-// Replace last item name with actual page title
-if (breadcrumbItems.length > 1) {
-  breadcrumbItems[breadcrumbItems.length - 1].name = pageData.title || title;
-}
-const breadcrumbSchema = breadcrumbItems.length > 1
-  ? {
-      "@context": "https://schema.org",
-      "@type": "BreadcrumbList",
-      itemListElement: breadcrumbItems.map((item, i) => ({
-        "@type": "ListItem",
-        position: i + 1,
-        name: item.name,
-        item: item.item,
-      })),
-    }
-  : null;
 
-// FAQ Schema (auto-generated for country pages with flag)
+// --- FAQ Schema (consolidated: auto-generated + custom frontmatter) ---
 let faqSchema: Record<string, any> | null = null;
+const faqQuestions: Record<string, any>[] = [];
+
+// Auto-generated FAQ for country pages
 if (flag && description) {
   const countryName = pageData.title || title;
   const questionTemplates: Record<Language, string> = {
@@ -133,39 +166,35 @@ if (flag && description) {
     es: `¿Cómo identificar ${countryName} en GeoGuessr?`,
     pt: `Como identificar ${countryName} no GeoGuessr?`,
   };
-  faqSchema = {
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    mainEntity: [
-      {
-        "@type": "Question",
-        name: questionTemplates[lang],
-        acceptedAnswer: { "@type": "Answer", text: description },
-      },
-    ],
-  };
+  faqQuestions.push({
+    "@type": "Question",
+    name: questionTemplates[lang],
+    acceptedAnswer: { "@type": "Answer", text: description },
+  });
 }
 
-// Custom FAQ from frontmatter
-let customFaqSchema: Record<string, any> | null = null;
-if (pageData.faq && Array.isArray(pageData.faq) && pageData.faq.length > 0) {
-  const questions = pageData.faq
-    .filter((f: any) => f.question && f.answer)
-    .map((f: any) => ({
-      "@type": "Question",
-      name: f.question.trim(),
-      acceptedAnswer: { "@type": "Answer", text: f.answer.trim() },
-    }));
-  if (questions.length > 0) {
-    customFaqSchema = {
-      "@context": "https://schema.org",
-      "@type": "FAQPage",
-      mainEntity: questions,
-    };
+// Custom FAQ from frontmatter (merged into same FAQPage)
+if (pageData.faq && Array.isArray(pageData.faq)) {
+  for (const f of pageData.faq) {
+    if (f.question && f.answer) {
+      faqQuestions.push({
+        "@type": "Question",
+        name: f.question.trim(),
+        acceptedAnswer: { "@type": "Answer", text: f.answer.trim() },
+      });
+    }
   }
 }
 
-// HowTo Schema (auto for country pages with flag)
+if (faqQuestions.length > 0) {
+  faqSchema = {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    mainEntity: faqQuestions,
+  };
+}
+
+// --- HowTo Schema (auto for country pages with flag) ---
 let howtoSchema: Record<string, any> | null = null;
 if (flag) {
   const countryName = pageData.title || title;
@@ -194,7 +223,7 @@ if (flag) {
   if (ogImage) howtoSchema.image = ogImage;
 }
 
-// VideoObject Schema from frontmatter
+// --- VideoObject Schema from frontmatter ---
 let videoSchemas: Record<string, any>[] = [];
 if (pageData.videos && Array.isArray(pageData.videos)) {
   for (const v of pageData.videos) {
@@ -218,6 +247,24 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
     }
   }
 }
+
+// --- ItemList Schema for section/index pages (country listings) ---
+let itemListSchema: Record<string, any> | null = null;
+if (sectionChildren.length > 0) {
+  itemListSchema = {
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    name: title,
+    numberOfItems: sectionChildren.length,
+    itemListElement: sectionChildren.map((child, i) => ({
+      "@type": "ListItem",
+      position: i + 1,
+      name: child.title,
+      url: `${site}${child.url}`,
+      ...(child.flag ? { image: `${site}/flags/${child.flag}` } : {}),
+    })),
+  };
+}
 ---
 
 <script type="application/ld+json" set:html={JSON.stringify(orgSchema)} />
@@ -229,9 +276,6 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
 {faqSchema && (
   <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
 )}
-{customFaqSchema && (
-  <script type="application/ld+json" set:html={JSON.stringify(customFaqSchema)} />
-)}
 {howtoSchema && (
   <script type="application/ld+json" set:html={JSON.stringify(howtoSchema)} />
 )}
@@ -240,4 +284,7 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
 )}
 {videoSchemas.length > 1 && (
   <script type="application/ld+json" set:html={JSON.stringify({ "@context": "https://schema.org", "@graph": videoSchemas })} />
+)}
+{itemListSchema && (
+  <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
 )}

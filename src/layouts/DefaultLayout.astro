@@ -172,6 +172,13 @@ const sectionTreeHtml = !hasContent
   ? renderSectionTree(sectionChildTree, isRuleSection)
   : "";
 
+// --- Section children for ItemList schema ---
+const sectionChildrenForSchema = sectionChildTree.map((node) => ({
+  title: node.title,
+  url: node.url,
+  flag: node.flag,
+}));
+
 // --- Sibling countries ---
 const siblings = data.flag
   ? getSiblingCountries(
@@ -256,6 +263,9 @@ const lastmodDisplay = modifiedTime
     flag={data.flag}
     translations={translationUrls}
     pageData={data}
+    breadcrumbs={crumbs}
+    collection={collection}
+    sectionChildren={sectionChildrenForSchema}
     usePolishFont={!!data.use_polish_font}
     needsJQuery36={needsJQuery36}
     needsJSMaps={needsJSMaps}
