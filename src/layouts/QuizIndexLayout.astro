@@ -44,7 +44,7 @@ interface Crumb { name: string; url: string }
 const hubUrl = lang === DEFAULT_LANG ? "/quiz/" : `/${lang}/quiz/`;
 const crumbs: Crumb[] = [
   { name: t("toppage", lang), url: lang === DEFAULT_LANG ? "/" : `/${lang}/` },
-  { name: lang === "ja" ? "クイズ" : "Quiz", url: hubUrl },
+  { name: t("breadcrumb_quiz", lang), url: hubUrl },
   { name: data.title, url: buildUrl(collection, currentSlug, lang) },
 ];
 
@@ -59,11 +59,11 @@ const quizEntries = allEntries
   .sort((a: any, b: any) => (a.data.weight || 99) - (b.data.weight || 99));
 
 const difficultyLabels: Record<string, string[]> = {
-  ja: ["", "初級", "中級", "上級"],
-  en: ["", "Easy", "Medium", "Hard"],
-  es: ["", "Fácil", "Medio", "Difícil"],
-  id: ["", "Mudah", "Sedang", "Sulit"],
-  pt: ["", "Fácil", "Médio", "Difícil"],
+  ja: ["", t("quiz_diff_easy", "ja"), t("quiz_diff_medium", "ja"), t("quiz_diff_hard", "ja")],
+  en: ["", t("quiz_diff_easy", "en"), t("quiz_diff_medium", "en"), t("quiz_diff_hard", "en")],
+  es: ["", t("quiz_diff_easy", "es"), t("quiz_diff_medium", "es"), t("quiz_diff_hard", "es")],
+  id: ["", t("quiz_diff_easy", "id"), t("quiz_diff_medium", "id"), t("quiz_diff_hard", "id")],
+  pt: ["", t("quiz_diff_easy", "pt"), t("quiz_diff_medium", "pt"), t("quiz_diff_hard", "pt")],
 };
 const diffStars = ["", "\u2605", "\u2605\u2605", "\u2605\u2605\u2605"];
 const diffColors = ["", "#4a9e5c", "#c49a2a", "#c0392b"];
@@ -295,7 +295,7 @@ const quizCards = quizEntries.map((e: any, i: number) => {
       <div class="qi-hero-stats">
         <span class="qi-hero-stat">
           <strong>{quizCards.length}</strong>
-          {lang === "ja" ? "問" : "quizzes"}
+          {t("quiz_count_unit", lang)}
         </span>
         <span class="qi-hero-stat">
           <strong>{quizCards.filter(q => q.diff === 1).length}</strong>

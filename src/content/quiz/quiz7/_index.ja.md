@@ -15,6 +15,7 @@ quiz_options: ["A", "B", "C"]
 quiz_answer: 1
 quiz_map_url: "https://www.google.com/maps/embed?pb=!4v1718605655847!6m8!1m7!1sAF89idKYMgLG7zhNOfWSoA!2m2!1d22.18761081340289!2d113.5494184252053!3f155.185725396147!4f3.2624217912323275!5f0.4000000000000002"
 quiz_image: "map.jpg"
+quiz_hint: "地図を開いたとき、真上はいつも北を向いている。"
 ---
 
 コンパスを北に合わせて真下を向くことで、道の角度が地図と一致しているか確認できます！

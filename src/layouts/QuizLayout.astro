@@ -65,7 +65,7 @@ const correctAnswer = data.quiz_answer || 1;
 const mapUrl = data.quiz_map_url || "";
 const difficulty = data.difficulty || 1;
 const hint = data.quiz_hint || "";
-const question = data.quiz_question || (lang === "ja" ? "ここはどこ？" : "Where is this?");
+const question = data.quiz_question || t("quiz_default_question", lang);
 const quizImage = data.quiz_image || "";
 const quizNum = currentSlug.replace("quiz", "");
 // Build quiz image URL (relative to the quiz content directory)
@@ -89,11 +89,8 @@ const lastmodDisplay = modifiedTime
 
 // Difficulty labels
 const difficultyLabels = ["", "\u2605", "\u2605\u2605", "\u2605\u2605\u2605"];
-const difficultyNames: Record<string, string[]> = {
-  ja: ["", "\u521D\u7D1A", "\u4E2D\u7D1A", "\u4E0A\u7D1A"],
-  en: ["", "Easy", "Medium", "Hard"],
-};
-const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "";
+const diffLabelKeys = ["", "quiz_diff_easy", "quiz_diff_medium", "quiz_diff_hard"];
+const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
 ---
 
 <!DOCTYPE html>
@@ -312,33 +309,86 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
       background: var(--primary-color);
       border-color: var(--primary-color);
       color: #fff;
-      animation: qCorrectPulse 0.5s ease;
+      animation: qCorrectPulse 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+      box-shadow: 0 0 0 0 rgba(68, 110, 114, 0.4);
     }
     .quiz-option-btn.is-correct .quiz-option-index {
       background: rgba(255,255,255,0.25);
       color: #fff;
     }
+    .quiz-option-btn.is-correct .quiz-option-index::after {
+      content: "\2713";
+      position: absolute;
+      font-size: 1.1rem;
+      font-weight: 900;
+    }
+    .quiz-option-btn.is-correct .quiz-option-index span { visibility: hidden; }
+    .quiz-option-btn.is-correct::after {
+      content: "";
+      position: absolute;
+      inset: 0;
+      border-radius: 14px;
+      box-shadow: 0 0 20px 4px rgba(68, 110, 114, 0.35);
+      animation: qGlow 1.5s ease-out forwards;
+      pointer-events: none;
+    }
     .quiz-option-btn.is-incorrect {
-      background: rgba(179, 64, 64, 0.06);
-      border-color: rgba(179, 64, 64, 0.4);
+      background: rgba(179, 64, 64, 0.08);
+      border-color: rgba(179, 64, 64, 0.5);
       color: rgba(140, 40, 40, 0.85);
-      animation: qShake 0.4s ease;
+      animation: qShake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97);
     }
     .quiz-option-btn.is-incorrect .quiz-option-index {
-      background: rgba(179, 64, 64, 0.12);
+      background: rgba(179, 64, 64, 0.15);
       color: rgba(140, 40, 40, 0.85);
+    }
+    .quiz-option-btn.is-incorrect .quiz-option-index::after {
+      content: "\2717";
+      position: absolute;
+      font-size: 1.1rem;
+      font-weight: 900;
+    }
+    .quiz-option-btn.is-incorrect .quiz-option-index span { visibility: hidden; }
+    .quiz-option-btn.is-reveal-correct {
+      background: var(--primary-color);
+      border-color: var(--primary-color);
+      color: #fff;
+      animation: qRevealBounce 0.6s cubic-bezier(0.34, 1.56, 0.64, 1);
+    }
+    .quiz-option-btn.is-reveal-correct .quiz-option-index {
+      background: rgba(255,255,255,0.25);
+      color: #fff;
+    }
+    .quiz-option-btn {
+      position: relative;
+      overflow: visible;
+    }
+    .quiz-option-index {
+      position: relative;
     }
     @keyframes qCorrectPulse {
       0% { transform: scale(1); }
-      40% { transform: scale(1.03); }
+      30% { transform: scale(1.05); }
+      60% { transform: scale(0.98); }
       100% { transform: scale(1); }
+    }
+    @keyframes qGlow {
+      0% { box-shadow: 0 0 20px 4px rgba(68, 110, 114, 0.35); }
+      100% { box-shadow: 0 0 0 0 rgba(68, 110, 114, 0); }
     }
     @keyframes qShake {
       0%, 100% { transform: translateX(0); }
-      20% { transform: translateX(-6px); }
-      40% { transform: translateX(6px); }
-      60% { transform: translateX(-4px); }
-      80% { transform: translateX(4px); }
+      15% { transform: translateX(-10px); }
+      30% { transform: translateX(8px); }
+      45% { transform: translateX(-6px); }
+      60% { transform: translateX(5px); }
+      75% { transform: translateX(-3px); }
+      90% { transform: translateX(2px); }
+    }
+    @keyframes qRevealBounce {
+      0% { transform: scale(0.95); opacity: 0.7; }
+      50% { transform: scale(1.04); }
+      100% { transform: scale(1); opacity: 1; }
     }
 
     /* Explanation */
@@ -382,7 +432,7 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
       opacity: 0;
       pointer-events: none;
       z-index: 5000;
-      transition: opacity 0.3s ease;
+      transition: opacity 0.35s ease;
     }
     .quiz-overlay.is-visible {
       opacity: 1;
@@ -391,32 +441,97 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
     .quiz-overlay-bg {
       position: absolute;
       inset: 0;
-      backdrop-filter: blur(6px);
-      -webkit-backdrop-filter: blur(6px);
+      backdrop-filter: blur(8px);
+      -webkit-backdrop-filter: blur(8px);
     }
-    .quiz-overlay.is-correct .quiz-overlay-bg { background: rgba(68, 110, 114, 0.45); }
-    .quiz-overlay.is-miss .quiz-overlay-bg { background: rgba(89, 30, 30, 0.4); }
+    .quiz-overlay.is-correct .quiz-overlay-bg { background: rgba(68, 110, 114, 0.5); }
+    .quiz-overlay.is-miss .quiz-overlay-bg { background: rgba(89, 30, 30, 0.45); }
     .quiz-overlay-content {
       position: relative;
       z-index: 1;
       text-align: center;
     }
     .quiz-overlay-icon {
-      font-size: clamp(3rem, 10vw, 6rem);
+      font-size: clamp(4rem, 12vw, 7rem);
       display: block;
-      animation: qOverlayPop 0.4s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+      animation: qOverlayPop 0.5s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
     }
     .quiz-overlay-text {
       color: #fff;
-      font-size: clamp(1.4rem, 4vw, 2.2rem);
+      font-size: clamp(1.6rem, 5vw, 2.6rem);
       font-weight: 800;
       letter-spacing: 0.15em;
-      margin-top: 0.5rem;
-      text-shadow: 0 4px 16px rgba(0,0,0,0.4);
+      margin-top: 0.6rem;
+      text-shadow: 0 4px 20px rgba(0,0,0,0.5);
+      animation: qTextSlideUp 0.5s 0.15s ease both;
     }
     @keyframes qOverlayPop {
-      0% { transform: scale(0.3); opacity: 0; }
-      100% { transform: scale(1); opacity: 1; }
+      0% { transform: scale(0.2) rotate(-10deg); opacity: 0; }
+      60% { transform: scale(1.15) rotate(3deg); opacity: 1; }
+      100% { transform: scale(1) rotate(0deg); opacity: 1; }
+    }
+    @keyframes qTextSlideUp {
+      0% { transform: translateY(20px); opacity: 0; }
+      100% { transform: translateY(0); opacity: 1; }
+    }
+
+    /* Confetti particle */
+    .quiz-confetti {
+      position: fixed;
+      z-index: 5001;
+      pointer-events: none;
+      width: 10px;
+      height: 10px;
+      border-radius: 2px;
+    }
+
+    /* Ring expansion from correct button */
+    .quiz-ring {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      width: 40px;
+      height: 40px;
+      margin-top: -20px;
+      margin-left: -20px;
+      border-radius: 50%;
+      border: 3px solid var(--primary-color);
+      pointer-events: none;
+      animation: qRingExpand 0.8s ease-out forwards;
+      z-index: 10;
+    }
+    @keyframes qRingExpand {
+      0% { transform: scale(0.5); opacity: 1; }
+      100% { transform: scale(12); opacity: 0; }
+    }
+
+    /* Red vignette flash for wrong answers */
+    .quiz-vignette {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 4999;
+      animation: qVignetteFlash 0.6s ease-out forwards;
+    }
+    @keyframes qVignetteFlash {
+      0% { box-shadow: inset 0 0 120px 40px rgba(179, 40, 40, 0.5); }
+      100% { box-shadow: inset 0 0 0 0 rgba(179, 40, 40, 0); }
+    }
+
+    /* Miss screen shake */
+    @keyframes qScreenShake {
+      0%, 100% { transform: translate(0, 0); }
+      10% { transform: translate(-8px, -4px); }
+      20% { transform: translate(8px, 2px); }
+      30% { transform: translate(-6px, 4px); }
+      40% { transform: translate(6px, -2px); }
+      50% { transform: translate(-4px, 2px); }
+      60% { transform: translate(4px, -2px); }
+      70% { transform: translate(-2px, 2px); }
+      80% { transform: translate(2px, -1px); }
+    }
+    .quiz-screen-shake {
+      animation: qScreenShake 0.5s ease-in-out;
     }
 
     /* Navigation */
@@ -461,7 +576,7 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
       .quiz-container { padding: 1rem 0.75rem 2rem; }
       .quiz-header-title { font-size: 1.3rem; }
       .quiz-map-wrapper iframe { height: 320px; }
-      .quiz-map-overlay { height: 44px; }
+      .quiz-map-overlay { height: 54px; }
       .quiz-map-overlay-num { font-size: 1.1rem; }
       .quiz-map-overlay-q { font-size: 0.88rem; }
       .quiz-option-btn { padding: 0.85rem 1rem; font-size: 0.95rem; }
@@ -485,7 +600,7 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
 
     {/* Header */}
     <div class="quiz-header">
-      <div class="quiz-header-number">Question {quizNum}</div>
+      <div class="quiz-header-number">{t("quiz_question_label", lang)} {quizNum}</div>
       <h1 class="quiz-header-title">{data.title}</h1>
       <div class="quiz-header-meta">
         {data.quiz_suffix && <span class="quiz-badge quiz-badge-theme">{data.quiz_suffix}</span>}
@@ -522,10 +637,10 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
 
     {/* Options */}
     {options.length > 0 && (
-      <div class="quiz-options" id="quiz-options" data-correct={correctAnswer}>
+      <div class="quiz-options" id="quiz-options" data-correct={correctAnswer} data-text-correct={t("quiz_correct", lang)} data-text-miss={t("quiz_miss", lang)}>
         {options.map((opt: string, i: number) => (
           <button class="quiz-option-btn" data-index={i + 1} type="button">
-            <span class="quiz-option-index">{String.fromCharCode(65 + i)}</span>
+            <span class="quiz-option-index"><span>{String.fromCharCode(65 + i)}</span></span>
             <span>{opt}</span>
           </button>
         ))}
@@ -535,7 +650,7 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
     {/* Explanation (hidden until correct) */}
     <div class="quiz-explanation" id="quiz-explanation">
       <div class="quiz-explanation-inner">
-        <div class="quiz-explanation-label">{lang === "ja" ? "\u89E3\u8AAC" : "Explanation"}</div>
+        <div class="quiz-explanation-label">{t("quiz_explanation", lang)}</div>
         {hasContent && (
           <div class="content">
             <slot />
@@ -547,16 +662,16 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
     {/* Prev / Next navigation */}
     <nav class="quiz-nav">
       {prevUrl
-        ? <a href={prevUrl}><i class="fas fa-chevron-left"></i> {lang === "ja" ? "\u524D\u306E\u554F\u984C" : "Previous"}</a>
+        ? <a href={prevUrl}><i class="fas fa-chevron-left"></i> {t("quiz_prev", lang)}</a>
         : <span class="quiz-nav-spacer" />
       }
       {nextUrl
-        ? <a href={nextUrl}>{lang === "ja" ? "\u6B21\u306E\u554F\u984C" : "Next"} <i class="fas fa-chevron-right"></i></a>
+        ? <a href={nextUrl}>{t("quiz_next", lang)} <i class="fas fa-chevron-right"></i></a>
         : <span class="quiz-nav-spacer" />
       }
     </nav>
 
-    {lastmodDisplay && <p style="font-size:0.8rem;color:rgba(100,100,100,0.5);margin-top:1rem;">Updated on {lastmodDisplay}</p>}
+    {lastmodDisplay && <p style="font-size:0.8rem;color:rgba(100,100,100,0.5);margin-top:1rem;">{t("quiz_updated_on", lang)} {lastmodDisplay}</p>}
   </main>
 
   {/* Quiz interaction script */}
@@ -565,6 +680,8 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
     var container = document.getElementById('quiz-options');
     if (!container) return;
     var correct = parseInt(container.dataset.correct, 10);
+    var textCorrect = container.dataset.textCorrect || '正解！';
+    var textMiss = container.dataset.textMiss || 'はずれ';
     var buttons = container.querySelectorAll('.quiz-option-btn');
     var explanation = document.getElementById('quiz-explanation');
     var locked = false;
@@ -577,9 +694,72 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
       return el;
     }
 
-    function flash(el) {
+    function flash(el, duration) {
       el.classList.add('is-visible');
-      setTimeout(function(){ el.classList.remove('is-visible'); }, 900);
+      setTimeout(function(){ el.classList.remove('is-visible'); }, duration || 1200);
+    }
+
+    // Confetti burst for correct answers (improved physics)
+    function spawnConfetti() {
+      var colors = ['#446E72', '#5A9196', '#FFD700', '#FF6B6B', '#48BB78', '#9F7AEA', '#F6AD55', '#63B3ED', '#FC8181', '#68D391'];
+      var count = 55;
+      for (var i = 0; i < count; i++) {
+        (function(idx) {
+          setTimeout(function() {
+            var p = document.createElement('div');
+            p.className = 'quiz-confetti';
+            var color = colors[Math.floor(Math.random() * colors.length)];
+            var left = 20 + Math.random() * 60; // cluster more toward center
+            var size = 6 + Math.random() * 10;
+            var duration = 1.5 + Math.random() * 2;
+            var drift = (Math.random() - 0.5) * 300;
+            var startY = -10 - Math.random() * 40;
+            var rotation = Math.floor(Math.random() * 1080);
+            var shape = Math.random();
+            var radius = shape > 0.6 ? '50%' : shape > 0.3 ? '2px' : '0';
+            p.style.cssText = 'left:' + left + '%;top:' + startY + 'px;width:' + size + 'px;height:' + (size * (0.5 + Math.random() * 0.8)) + 'px;background:' + color + ';border-radius:' + radius + ';opacity:1;';
+            document.body.appendChild(p);
+            // Animate with JS for more natural movement
+            var startTime = performance.now();
+            var startLeft = parseFloat(p.style.left);
+            function animate(now) {
+              var elapsed = (now - startTime) / 1000;
+              var progress = elapsed / duration;
+              if (progress >= 1) { p.remove(); return; }
+              var y = startY + elapsed * elapsed * 220; // gravity
+              var x = drift * Math.sin(elapsed * 3) * 0.3 + drift * progress;
+              var rot = rotation * progress;
+              var opacity = progress > 0.75 ? 1 - (progress - 0.75) / 0.25 : 1;
+              p.style.transform = 'translateX(' + x + 'px) translateY(' + y + 'px) rotate(' + rot + 'deg)';
+              p.style.opacity = opacity;
+              requestAnimationFrame(animate);
+            }
+            requestAnimationFrame(animate);
+          }, idx * 25);
+        })(i);
+      }
+    }
+
+    // Ring expansion from button
+    function spawnRing(btn) {
+      var ring = document.createElement('div');
+      ring.className = 'quiz-ring';
+      btn.appendChild(ring);
+      setTimeout(function(){ ring.remove(); }, 900);
+    }
+
+    // Red vignette flash
+    function flashVignette() {
+      var v = document.createElement('div');
+      v.className = 'quiz-vignette';
+      document.body.appendChild(v);
+      setTimeout(function(){ v.remove(); }, 700);
+    }
+
+    // Screen shake for wrong answers
+    function shakeScreen() {
+      document.body.classList.add('quiz-screen-shake');
+      setTimeout(function(){ document.body.classList.remove('quiz-screen-shake'); }, 500);
     }
 
     buttons.forEach(function(btn) {
@@ -594,26 +774,32 @@ const diffLabel = (difficultyNames[lang] || difficultyNames.en)[difficulty] || "
 
         if (isCorrect) {
           btn.classList.add('is-correct');
-          flash(createOverlay('is-correct', '\u{1F389}', '\u6B63\u89E3\uFF01'));
+          spawnRing(btn);
+          spawnConfetti();
+          flash(createOverlay('is-correct', '\u{1F389}', textCorrect), 1600);
           if (explanation) {
             setTimeout(function(){
               explanation.classList.add('is-visible');
               explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-            }, 500);
+            }, 800);
           }
         } else {
           btn.classList.add('is-incorrect');
-          // Show correct answer
-          buttons.forEach(function(b) {
-            if (parseInt(b.dataset.index, 10) === correct) b.classList.add('is-correct');
-          });
-          flash(createOverlay('is-miss', '\u{1F6AB}', '\u306F\u305A\u308C'));
+          shakeScreen();
+          flashVignette();
+          // Show correct answer after shake with bounce
+          setTimeout(function() {
+            buttons.forEach(function(b) {
+              if (parseInt(b.dataset.index, 10) === correct) b.classList.add('is-reveal-correct');
+            });
+          }, 500);
+          flash(createOverlay('is-miss', '\u{274C}', textMiss), 1400);
           // Also reveal explanation on wrong answer
           if (explanation) {
             setTimeout(function(){
               explanation.classList.add('is-visible');
               explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-            }, 600);
+            }, 800);
           }
         }
       });
