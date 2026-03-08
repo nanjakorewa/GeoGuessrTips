@@ -127,14 +127,17 @@ if (currentNode && currentNode.children.length > 0) {
 }
 
 // Recursive HTML builder for section pages (flag grid or page list)
-function renderSectionTree(nodes: TreeNode[], useFlags: boolean): string {
+function renderSectionTree(nodes: TreeNode[], useFlags: boolean, parentFlag?: string): string {
   let html = "";
   for (const node of nodes) {
     const unofficialClass = node.isUnofficial ? " unofficial-area dontshowarea" : "";
+    const prefClass = node.isPref ? " flag-ispref" : "";
+    // 子を持つノードで親と同じフラグの場合は冗長なので非表示
+    const hasOwnFlag = node.flag && node.flag !== parentFlag;
     if (useFlags) {
-      html += `<li class="${unofficialClass}">`;
+      html += `<li class="${unofficialClass}${prefClass}">`;
       html += `<a href="${node.url}" class="flag-link">`;
-      if (node.flag) {
+      if (hasOwnFlag) {
         html += `<img src="/flags/${node.flag}" alt="${node.title}" class="flag-img-link" loading="lazy" decoding="async"/>`;
       }
       html += `<br/>${node.title}<br/>`;
@@ -144,7 +147,7 @@ function renderSectionTree(nodes: TreeNode[], useFlags: boolean): string {
       if (node.isUnofficial) html += '<i class="fa fa-question-circle"></i>';
       html += "</a>";
       if (node.children.length > 0) {
-        html += '<ul class="flag-list">' + renderSectionTree(node.children, true) + "</ul>";
+        html += '<ul class="flag-list">' + renderSectionTree(node.children, true, node.flag) + "</ul>";
       }
       html += "</li>";
     } else {
@@ -156,7 +159,7 @@ function renderSectionTree(nodes: TreeNode[], useFlags: boolean): string {
       if (node.isUnofficial) html += '<i class="fa fa-question-circle"></i>';
       html += "</a>";
       if (node.children.length > 0) {
-        html += "<ul>" + renderSectionTree(node.children, false) + "</ul>";
+        html += "<ul>" + renderSectionTree(node.children, false, node.flag) + "</ul>";
       }
       html += "</li>";
     }
@@ -165,7 +168,7 @@ function renderSectionTree(nodes: TreeNode[], useFlags: boolean): string {
 }
 
 const sectionTreeHtml = sectionChildTree.length > 0
-  ? renderSectionTree(sectionChildTree, isRuleSection)
+  ? renderSectionTree(sectionChildTree, isRuleSection, data.flag)
   : "";
 
 // --- Section children for ItemList schema ---

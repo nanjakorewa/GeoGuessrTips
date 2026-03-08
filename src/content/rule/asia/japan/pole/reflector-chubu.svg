@@ -1,0 +1,12 @@
+<svg width="100" height="200" viewBox="0 0 100 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <pattern id="chubuStripe" width="30" height="30" patternUnits="userSpaceOnUse" patternTransform="rotate(45)">
+      <rect width="15" height="30" fill="#FFD700"/>
+      <rect x="15" width="15" height="30" fill="#000"/>
+    </pattern>
+  </defs>
+  <rect width="100" height="200" fill="#333" rx="4"/>
+  <rect x="5" y="25" width="90" height="150" fill="url(#chubuStripe)"/>
+  <rect x="5" y="10" width="90" height="12" fill="#FFD700"/>
+  <rect x="5" y="178" width="90" height="12" fill="#FFD700"/>
+</svg>

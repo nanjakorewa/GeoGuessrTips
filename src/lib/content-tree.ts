@@ -13,6 +13,7 @@ export interface TreeNode {
   hasGooglecar?: boolean;
   hasTrekker?: boolean;
   hasBollard?: boolean;
+  isPref?: boolean;
   additionalIcon?: string;
   quizSuffix?: string;
   pageNo?: string;
@@ -49,6 +50,7 @@ export function buildContentTree(
       hasGooglecar: entry.data.is_has_distinctive_googlecar,
       hasTrekker: entry.data.is_has_many_trekker,
       hasBollard: entry.data.is_has_distinctive_bollard,
+      isPref: entry.data.is_pref,
       additionalIcon: entry.data.additional_icon,
       quizSuffix: entry.data.quiz_suffix,
       pageNo: entry.data.page_no,

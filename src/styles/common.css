@@ -1562,13 +1562,42 @@ ul.flag-list li {
 
 @media (min-width: 800px) {
   .flag-ispref {
-    font-size: 0.9em;
-    padding: 5px;
-    margin-right: 3px;
-    max-width: 90px !important;
+    font-size: 0.8em;
+    padding: 3px 2px;
+    margin-right: 2px;
+    max-width: 80px !important;
+
+    a.flag-link {
+      max-width: 75px;
+      height: 90px;
+      inline-size: 80px;
+    }
 
     img {
-      width: 80px !important;
+      width: 60px !important;
+    }
+  }
+
+  /* ネストされた都道府県リスト（地域配下）をコンパクトに */
+  ul.flag-list ul.flag-list {
+    background: rgba(251, 251, 251, 0.08);
+    gap: 0;
+    padding: 4px 0;
+  }
+}
+
+@media (max-width: 799px) {
+  .flag-ispref {
+    font-size: 0.75em;
+    padding: 2px 1px;
+
+    a.flag-link {
+      height: auto;
+      inline-size: 60px;
+    }
+
+    img {
+      width: 36px !important;
     }
   }
 }

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 400" width="200" height="400">
+  <defs>
+    <linearGradient id="pole-grad-kanto" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#5a5a5a"/>
+      <stop offset="35%" stop-color="#787878"/>
+      <stop offset="65%" stop-color="#787878"/>
+      <stop offset="100%" stop-color="#5a5a5a"/>
+    </linearGradient>
+  </defs>
+  <rect x="50" y="0" width="100" height="400" rx="6" fill="url(#pole-grad-kanto)"/>
+  <!-- リフレクター背景 -->
+  <rect x="52" y="65" width="96" height="230" rx="2" fill="#3a3a3a" stroke="#555" stroke-width="1.5"/>
+  <!-- 関東: 標準的な4本の黄色い縦縞 -->
+  <rect x="58" y="72" width="18" height="216" rx="1" fill="#d4a030"/>
+  <rect x="80" y="72" width="18" height="216" rx="1" fill="#d4a030"/>
+  <rect x="102" y="72" width="18" height="216" rx="1" fill="#d4a030"/>
+  <rect x="124" y="72" width="18" height="216" rx="1" fill="#d4a030"/>
+  <!-- ラベル -->
+  <text x="100" y="385" text-anchor="middle" font-size="15" fill="#ccc" font-family="sans-serif">関東</text>
+</svg>
