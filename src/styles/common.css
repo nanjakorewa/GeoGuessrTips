@@ -1995,21 +1995,22 @@ ul.rule-list li i {
 /* Prefecture Tips Box */
 .pref-tips {
   position: relative;
+  overflow: visible;
   background: #fff;
   border: 1px solid #e0e0e0;
   border-top: 3px solid var(--primary-color);
   border-radius: 0 0 6px 6px;
   padding: 1.2rem 1.2rem 0.8rem;
-  margin: 0.5rem 0 1.5rem;
+  margin: 2rem 0 1.5rem;
   font-size: 0.88em;
   line-height: 1.5;
 }
 
 .pref-tips .pref-tips-title {
   position: absolute;
-  top: -3px;
+  top: 0;
   left: 16px;
-  transform: translateY(-100%);
+  transform: translateY(calc(-100% - 2px));
   background: var(--primary-color);
   color: #fff;
   font-size: 0.82em;
