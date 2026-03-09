@@ -26,6 +26,7 @@ interface Props {
   breadcrumbs?: BreadcrumbItem[];
   collection?: string;
   sectionChildren?: SectionChild[];
+  autoVideoIds?: string[];
 }
 
 const {
@@ -42,6 +43,7 @@ const {
   breadcrumbs = [],
   collection = "",
   sectionChildren = [],
+  autoVideoIds = [],
 } = Astro.props;
 
 const site = "https://geopinning.space";
@@ -248,6 +250,28 @@ if (pageData.videos && Array.isArray(pageData.videos)) {
         uploadDate: v.uploadDate,
         embedUrl,
         contentUrl,
+      });
+    }
+  }
+}
+
+// Auto-generate VideoObject from extracted YouTube IDs (if no manual videos defined)
+if (videoSchemas.length === 0 && autoVideoIds.length > 0) {
+  const uploadDate = publishedTime
+    ? publishedTime.toISOString().split("T")[0]
+    : modifiedTime
+      ? modifiedTime.toISOString().split("T")[0]
+      : "";
+  if (uploadDate) {
+    for (const vid of autoVideoIds) {
+      videoSchemas.push({
+        "@type": "VideoObject",
+        name: title,
+        description,
+        thumbnailUrl: [`https://i.ytimg.com/vi/${vid}/hqdefault.jpg`],
+        uploadDate,
+        embedUrl: `https://www.youtube.com/embed/${vid}`,
+        contentUrl: `https://www.youtube.com/watch?v=${vid}`,
       });
     }
   }

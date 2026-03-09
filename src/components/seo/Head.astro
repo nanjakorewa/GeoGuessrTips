@@ -36,6 +36,8 @@ interface Props {
   collection?: string;
   /** Children for section/index pages (ItemList schema) */
   sectionChildren?: SectionChild[];
+  /** Auto-extracted YouTube video IDs from content */
+  autoVideoIds?: string[];
   usePolishFont?: boolean;
   needsJQuery36?: boolean;
   needsJSMaps?: boolean;
@@ -57,6 +59,7 @@ const {
   breadcrumbs = [],
   collection = "",
   sectionChildren = [],
+  autoVideoIds = [],
   usePolishFont = false,
   needsJQuery36 = false,
   needsJSMaps = false,
@@ -196,6 +199,7 @@ const keywords = baseKeywords.join(", ");
   breadcrumbs={breadcrumbs}
   collection={collection}
   sectionChildren={sectionChildren}
+  autoVideoIds={autoVideoIds}
 />
 
 {/* CSS */}

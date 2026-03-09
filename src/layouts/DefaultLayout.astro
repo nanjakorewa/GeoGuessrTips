@@ -222,6 +222,20 @@ for (let i = 0; i < pathSegments.length; i++) {
   crumbs.push({ name: segName, url: buildUrl(collection, segSlug, lang) });
 }
 
+// --- Auto-extract YouTube video IDs from raw markdown ---
+const rawBody = entry.body ?? "";
+const autoVideoIds: string[] = [];
+const ytIdRegex = /\{\{%\s*(?:youtube|youtube-desc)\s+"([^"]+)"\s*%\}\}/g;
+const ysIdRegex = /\{\{%\s*yshort\s+"([^"]+)"\s*%\}\}/g;
+let _m: RegExpExecArray | null;
+while ((_m = ytIdRegex.exec(rawBody)) !== null) autoVideoIds.push(_m[1]);
+while ((_m = ysIdRegex.exec(rawBody)) !== null) {
+  let id = _m[1];
+  const shortMatch = id.match(/shorts\/([^?/]+)/);
+  if (shortMatch) id = shortMatch[1];
+  autoVideoIds.push(id);
+}
+
 // --- Dates ---
 const publishedTime = data.date ? new Date(data.date) : undefined;
 const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
@@ -266,6 +280,7 @@ const lastmodDisplay = modifiedTime
     breadcrumbs={crumbs}
     collection={collection}
     sectionChildren={sectionChildrenForSchema}
+    autoVideoIds={autoVideoIds}
     usePolishFont={!!data.use_polish_font}
     needsJQuery36={needsJQuery36}
     needsJSMaps={needsJSMaps}
