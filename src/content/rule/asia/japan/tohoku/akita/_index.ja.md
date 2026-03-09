@@ -59,6 +59,13 @@ flag: "Akita.svg"
                 <td>{{% corplink "https://www.tdk.com/ja/ir" %}}</td>
                 <td>{{% dividend "tokyo" "6762" %}}</td>
             </tr>
+            <tr>
+                <td>ニプロ</td>
+                <td>{{% minkabu 8086 %}}</td>
+                <td>ディスポーザブル医療器具大手であり人工透析むけの人工腎臓を製造している。ダイアライザや人工肺などの生産拠点が秋田県大館市にある。</td>
+                <td>{{% corplink "https://www.nipro.co.jp/ir/library/" %}}</td>
+                <td>{{% dividend "tokyo" "8086" %}}</td>
+            </tr>
         </tbody>
     </table>
 </div>
