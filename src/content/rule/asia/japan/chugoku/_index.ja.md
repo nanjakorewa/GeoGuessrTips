@@ -16,6 +16,7 @@ flag: "JP.svg"
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
         <li>石州瓦を用いた家が東広島を中心に山陰地方にあり屋根が<span class="quiz">赤</span>色っぽい</li>
+        <li>電柱にオレンジ色の昇降表示札（矢印）が見られる</li>
     </ul>
 </div>
 
@@ -32,6 +33,16 @@ flag: "JP.svg"
 <div class="googlemap-if">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/p39GXc3C0Co?si=VasSAla-Mtp063zt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
+</div>
+
+{{% /tab %}}
+{{% tab "昇降表示札" %}}
+{{% notice tip %}}
+中国電力の管轄エリアではオレンジ色の昇降表示札（矢印マーク）が電柱に取り付けられていることがある。この矢印は作業員が電柱に昇る際の目印として使用されている。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="climbing-marker.png" alt="Chugoku GeoGuessr guide image showing Orange climbing marker on utility pole">
 </div>
 
 {{% /tab %}}

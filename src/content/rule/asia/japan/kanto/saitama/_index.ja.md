@@ -21,9 +21,23 @@ flag: "Saitama.svg"
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+        <li>消防水利施設のマーキングがオレンジ色の線で示されている</li>
     </ul>
     {{% corp "asia/japan" "kanto/saitama" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "消防水利マーキング" %}}
+{{% notice tip %}}
+埼玉の消防水利施設のマーキング方法は他の県と異なり、オレンジ色の線が引かれている{{% ref "https://www.city.ageo.lg.jp/site/shoubou/05612016062701.html" "上尾市 - 消防水利標識の設置" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="fire-hydrant-marking.png" alt="Saitama GeoGuessr guide image showing Orange fire hydrant marking on road">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
