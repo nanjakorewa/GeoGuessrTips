@@ -20,9 +20,24 @@ flag: "Nagano.svg"
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
-    <ul class="rule-list"></ul>
+    <ul class="rule-list">
+        <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>
+    </ul>
     {{% corp "asia/japan" "chubu/nagano" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "ダイヤマーク標示" %}}
+{{% notice tip %}}
+この横断歩道前ダイヤマーク標示を使用するのは長野県の他に<a href="../aichi/">愛知県</a>・<a href="../../chugoku/yamaguchi/">山口県</a>・<a href="../../kyusyu/kagoshima/">鹿児島県</a>である。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="diamond-marking.svg" width="120px" alt="Nagano GeoGuessr guide image showing Diamond crosswalk marking">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>

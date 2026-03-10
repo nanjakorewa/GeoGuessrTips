@@ -17,6 +17,7 @@ flag: "Kagoshima.svg"
     <ul class="rule-list">
         <li>茶の生産は2023年時点で日本一であり、茶畑が多い</li>
         <li>克灰袋（こくはいぶくろ）の捨て場所が街中にある</li>
+        <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/kagoshima" %}}
 </div>
@@ -39,6 +40,16 @@ flag: "Kagoshima.svg"
 
 <div class="googlemap-if">
 <img src="540px-Kouhaibukuro.jpg" width="60%" alt="Kagoshima GeoGuessr guide image showing 540px Kouhaibukuro">
+</div>
+
+{{% /tab %}}
+{{% tab "ダイヤマーク標示" %}}
+{{% notice tip %}}
+この横断歩道前ダイヤマーク標示を使用するのは鹿児島県の他に<a href="../../chubu/nagano/">長野県</a>・<a href="../../chubu/aichi/">愛知県</a>・<a href="../../chugoku/yamaguchi/">山口県</a>である。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="diamond-marking.svg" width="120px" alt="Kagoshima GeoGuessr guide image showing Diamond crosswalk marking">
 </div>
 
 {{% /tab %}}

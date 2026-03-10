@@ -16,6 +16,7 @@ flag: "Yamaguchi.svg"
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
         <li>ガードレールが<span class="quiz">夏みかん</span>の色なら山口県</li>
+        <li>横断歩道前のダイヤマーク標示が他県と異なる形状をしている</li>
     </ul>
     {{% corp "asia/japan" "chugoku/yamaguchi" %}}
 </div>
@@ -29,6 +30,19 @@ flag: "Yamaguchi.svg"
 <div class="googlemap-if">
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/kuruman/5051148788/in/photolist-8Gmsyd-piGbi7-PkWtpL-2f6Z7-22TBLQK-Y4rrzf-8GmZph-C6R7xS-27AhkYz-MKUSWc-8Giu8K-arctvq-274LNiV-8GiRPc-8G3X9d-7JHbNc-4mFn7y-cy2ufQ-pdTwT-8GiuFH-24Kfu3j-pN6r55-pzUGKT-cNzf5L-saJqaP-CTf1fW-82fAQ8-hXVudp-dFJRJN-4mBmhZ-27qFRkw-zK2bQz-8GiQoR-8GiSbT-KTP3zo-2a2DZKp-8Gn7xN-25Gd7iX-Ba2Ut3-21joiRG-2aq3zDG-8GnrHW-aEL78F-29PkGEm-26QptVA-296VoY-des4ps-MdcWwD-KmZZXo-8GiSyM" title="角島散歩 (7)"><img src="https://live.staticflickr.com/4078/5051148788_95a3bf26e9_c.jpg" width="800" height="600" alt="Image from live.staticflickr.com showing 5051148788 95a3bf26e9 C"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 </div>
+{{% /tab %}}
+{{% /tabs %}}
+
+{{% tabs %}}
+{{% tab "ダイヤマーク標示" %}}
+{{% notice tip %}}
+この横断歩道前ダイヤマーク標示を使用するのは山口県の他に<a href="../../chubu/nagano/">長野県</a>・<a href="../../chubu/aichi/">愛知県</a>・<a href="../../kyusyu/kagoshima/">鹿児島県</a>である。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="diamond-marking.svg" width="120px" alt="Yamaguchi GeoGuessr guide image showing Diamond crosswalk marking">
+</div>
+
 {{% /tab %}}
 {{% /tabs %}}
 

@@ -22,11 +22,15 @@ flag: "Aichi.svg"
 {{% tabs %}}
 {{% tab "横断歩道の道路標示" %}}
 {{% notice tip %}}
-♢の線に切れ目がない{{% ex "https://maps.app.goo.gl/Kq6rMXEsvVwRVNaK9" "https://maps.app.goo.gl/W2g7huWrdGiDAG4WA" %}}。岐阜・三重・静岡はあることが多い。
+♢の線に切れ目がない{{% ex "https://maps.app.goo.gl/Kq6rMXEsvVwRVNaK9" "https://maps.app.goo.gl/W2g7huWrdGiDAG4WA" %}}。岐阜・三重・静岡はあることが多い。この横断歩道前ダイヤマーク標示を使用するのは愛知県の他に<a href="../nagano/">長野県</a>・<a href="../../chugoku/yamaguchi/">山口県</a>・<a href="../../kyusyu/kagoshima/">鹿児島県</a>である。
 {{% /notice %}}
 
 <div class="googlemap-if">
 <img src="aichi_pref_r_281.jpg" alt="Aichi GeoGuessr guide image showing Aichi Pref R 281">
+</div>
+
+<div class="googlemap-if">
+<img src="diamond-marking.svg" width="120px" alt="Aichi GeoGuessr guide image showing Diamond crosswalk marking">
 </div>
 
 {{% /tab %}}
