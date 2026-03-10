@@ -18,6 +18,39 @@ flag: "Ibaraki.svg"
     </ul>
 </div>
 
+
+<div class="main-desciption area-description">
+    <h2 class="section-title">{{% i18n "narrow-down-the-city" %}}</h2>
+    <ul class="rule-list">
+        <li>鹿島市～神栖市の海沿いには石油化学系の企業が集中している
+            <ul>
+                <li><a href="https://www.mcgc.com/ir/">三菱ケミカルグループ</a>({{% minkabu 4188 %}}>){{% ex "https://maps.app.goo.gl/6u8o8ZsKP1AX4oMx6" %}}：エチレン・プロピレンを生成</li>
+                <li><a href="https://www.shinetsu.co.jp/ir/">信越化学工業</a>（{{% minkabu 4063 %}}）：鹿島塩ビモノマーから塩化ビニルモノマーを受け塩化ビニル樹脂を生成</li>
+                <li><a href="https://www.kao.com/jp/investor-relations/">花王</a>（{{% minkabu 4452 %}}）：エチレンオキサイド由来の界面活性剤原料の供給先</li>
+                <li><a href="https://www.adeka.co.jp/ir/">ADEKA</a>（{{% minkabu 4401 %}}）：界面活性剤原料の供給先</li>
+                <li><a href="https://www.toho-chem.co.jp/">東邦化学工業</a>（{{% minkabu 4409 %}}）：界面活性剤原料の供給先</li>
+                <li><a href="https://www.nicca.co.jp/ir/">日華化学</a>（{{% minkabu 4463 %}}）：界面活性剤原料の供給先</li>
+                <li><a href="https://www.agc.com/ir/">AGC</a>（{{% minkabu 5201 %}}）：プロピレンからプロピレンオキサイドを生成</li>
+                <li><a href="https://www.kuraray.co.jp/ir">クラレ</a>（{{% minkabu 3405 %}}）：B-B留分のC4留分ラフィネートからイソプレン等を生成</li>
+                <li><a href="https://www.mgc.co.jp/ir/">三菱ガス化学</a>（{{% minkabu 4182 %}}）：ビスフェノールAからポリカーボネートを生成</li>
+            </ul>
+        </li>
+    </ul>
+</div>
+
+{{% tabs %}}
+{{% tab "石油化学" %}}
+{{% notice tip %}}
+三菱ケミカルコンビナートが構成され、三菱ケミカルが生成するエチレンやプロピレンを材料として使用する企業が集中して立地している{{% ex "https://maps.app.goo.gl/ob3VjhDziU3RXkba6" %}}{{% ref "https://www.jpca.or.jp/files/trends/kakusha.pdf" "JPCA石油化学工業協会" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="2026-03-10-21-19-46.png" />
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
