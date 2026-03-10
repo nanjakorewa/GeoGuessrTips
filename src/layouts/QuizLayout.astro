@@ -71,16 +71,31 @@ const quizNum = currentSlug.replace("quiz", "");
 // Build quiz image URL (relative to the quiz content directory)
 const quizImageUrl = quizImage ? `/quiz/quiz${quizNum}/${quizImage}` : "";
 
-// --- Prev / Next quiz ---
-const quizEntries = allEntries
+// --- Group-aware quiz entries ---
+const quizGroup = data.quiz_group || "";
+const allQuizEntries = allEntries
   .filter((e: any) => extractLangFromId(e.id) === lang && e.data.pagetype === "quiz")
   .sort((a: any, b: any) => (a.data.weight || 99) - (b.data.weight || 99));
+
+// Filter by group for numbering, progress, and navigation
+const quizEntries = quizGroup
+  ? allQuizEntries.filter((e: any) => e.data.quiz_group === quizGroup)
+  : allQuizEntries;
 const currentIndex = quizEntries.findIndex((e: any) => e.id === entry.id);
 const prevQuiz = currentIndex > 0 ? quizEntries[currentIndex - 1] : null;
 const nextQuiz = currentIndex < quizEntries.length - 1 ? quizEntries[currentIndex + 1] : null;
 const prevUrl = prevQuiz ? buildUrl(collection, extractSlugFromId(prevQuiz.id), lang) : "";
 const nextUrl = nextQuiz ? buildUrl(collection, extractSlugFromId(nextQuiz.id), lang) : "";
 const totalQuizzes = quizEntries.length;
+const groupQuizNum = currentIndex + 1; // 1-based index within group
+
+// --- Quiz group index URL (for "back to list" link) ---
+const quizGroupIndexEntry = quizGroup
+  ? allEntries.find((e: any) => extractLangFromId(e.id) === lang && e.data.pagetype === "quiz-index" && e.data.quiz_group === quizGroup)
+  : null;
+const quizGroupIndexUrl = quizGroupIndexEntry
+  ? buildUrl(collection, extractSlugFromId(quizGroupIndexEntry.id), lang)
+  : (lang === "ja" ? "/quiz/" : `/${lang}/quiz/`);
 
 // --- Last modified ---
 const lastmodDisplay = modifiedTime
@@ -234,16 +249,49 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
 
     /* Quiz image (e.g. map for quiz7) */
     .quiz-image-wrapper {
+      position: relative;
       margin-bottom: 1.2rem;
       border-radius: 14px;
       overflow: hidden;
       box-shadow: 0 2px 12px rgba(0,0,0,0.06);
       border: 1px solid var(--border-soft);
+      background: #1a1d21;
     }
     .quiz-image-wrapper img {
       display: block;
       width: 100%;
       height: auto;
+      max-height: 450px;
+      object-fit: contain;
+    }
+    .quiz-image-overlay {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 56px;
+      background: rgba(22, 25, 29, 0.88);
+      display: flex;
+      align-items: center;
+      padding: 0 1.1rem;
+      gap: 0.8rem;
+      z-index: 10;
+      pointer-events: none;
+      color: #fff;
+      text-shadow: 0 1px 4px rgba(0,0,0,0.3);
+    }
+    .quiz-image-overlay-num {
+      font-size: 1.3rem;
+      font-weight: 800;
+      letter-spacing: 0.05em;
+      flex-shrink: 0;
+    }
+    .quiz-image-overlay-q {
+      font-size: 1rem;
+      font-weight: 600;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
     }
 
     /* Hint */
@@ -421,7 +469,69 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       line-height: 1.75;
     }
 
-    /* Full-screen overlay */
+    /* Dynamic element styles moved to <style is:global> below */
+
+    /* Navigation */
+    .quiz-nav {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      margin-top: 2rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--border-soft);
+    }
+    .quiz-nav-prev { justify-self: start; }
+    .quiz-nav-next { justify-self: end; }
+    .quiz-nav a {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.4rem;
+      padding: 0.6rem 1.2rem;
+      border-radius: 10px;
+      font-weight: 600;
+      font-size: 0.9rem;
+      color: var(--primary-color);
+      background: rgba(68, 110, 114, 0.06);
+      border: 1px solid rgba(68, 110, 114, 0.15);
+      text-decoration: none;
+      transition: all 0.2s;
+    }
+    .quiz-nav a:hover {
+      background: rgba(68, 110, 114, 0.12);
+      transform: translateY(-1px);
+    }
+    .quiz-nav-list {
+      justify-self: center;
+      font-size: 0.82rem !important;
+      padding: 0.4rem 0.8rem !important;
+      opacity: 0.8;
+    }
+
+    /* Breadcrumb */
+    .quiz-breadcrumb {
+      font-size: 0.82rem;
+      color: rgba(100,100,100,0.7);
+      margin-bottom: 1rem;
+    }
+    .quiz-breadcrumb a { color: rgba(100,100,100,0.7); text-decoration: none; }
+    .quiz-breadcrumb a:hover { color: var(--primary-color); }
+
+    @media (max-width: 640px) {
+      .quiz-container { padding: 1rem 0.75rem 2rem; }
+      .quiz-header-title { font-size: 1.3rem; }
+      .quiz-map-wrapper iframe { height: 320px; }
+      .quiz-map-overlay { height: 54px; }
+      .quiz-map-overlay-num { font-size: 1.1rem; }
+      .quiz-map-overlay-q { font-size: 0.88rem; }
+      .quiz-option-btn { padding: 0.85rem 1rem; font-size: 0.95rem; }
+      .quiz-image-overlay { height: 46px; }
+      .quiz-image-overlay-num { font-size: 1.1rem; }
+      .quiz-image-overlay-q { font-size: 0.85rem; }
+      .quiz-image-wrapper img { max-height: 350px; }
+    }
+  </style>
+  <style is:global>
+    /* Styles for dynamically created elements (JS createElement) */
     .quiz-overlay {
       position: fixed;
       inset: 0;
@@ -474,8 +584,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       0% { transform: translateY(20px); opacity: 0; }
       100% { transform: translateY(0); opacity: 1; }
     }
-
-    /* Confetti particle */
     .quiz-confetti {
       position: fixed;
       z-index: 5001;
@@ -484,8 +592,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       height: 10px;
       border-radius: 2px;
     }
-
-    /* Ring expansion from correct button */
     .quiz-ring {
       position: absolute;
       top: 50%;
@@ -504,8 +610,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       0% { transform: scale(0.5); opacity: 1; }
       100% { transform: scale(12); opacity: 0; }
     }
-
-    /* Red vignette flash for wrong answers */
     .quiz-vignette {
       position: fixed;
       inset: 0;
@@ -517,8 +621,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
       0% { box-shadow: inset 0 0 120px 40px rgba(179, 40, 40, 0.5); }
       100% { box-shadow: inset 0 0 0 0 rgba(179, 40, 40, 0); }
     }
-
-    /* Miss screen shake */
     @keyframes qScreenShake {
       0%, 100% { transform: translate(0, 0); }
       10% { transform: translate(-8px, -4px); }
@@ -532,54 +634,6 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     }
     .quiz-screen-shake {
       animation: qScreenShake 0.5s ease-in-out;
-    }
-
-    /* Navigation */
-    .quiz-nav {
-      display: flex;
-      justify-content: space-between;
-      align-items: center;
-      margin-top: 2rem;
-      padding-top: 1.5rem;
-      border-top: 1px solid var(--border-soft);
-    }
-    .quiz-nav a {
-      display: inline-flex;
-      align-items: center;
-      gap: 0.4rem;
-      padding: 0.6rem 1.2rem;
-      border-radius: 10px;
-      font-weight: 600;
-      font-size: 0.9rem;
-      color: var(--primary-color);
-      background: rgba(68, 110, 114, 0.06);
-      border: 1px solid rgba(68, 110, 114, 0.15);
-      text-decoration: none;
-      transition: all 0.2s;
-    }
-    .quiz-nav a:hover {
-      background: rgba(68, 110, 114, 0.12);
-      transform: translateY(-1px);
-    }
-    .quiz-nav-spacer { flex: 1; }
-
-    /* Breadcrumb */
-    .quiz-breadcrumb {
-      font-size: 0.82rem;
-      color: rgba(100,100,100,0.7);
-      margin-bottom: 1rem;
-    }
-    .quiz-breadcrumb a { color: rgba(100,100,100,0.7); text-decoration: none; }
-    .quiz-breadcrumb a:hover { color: var(--primary-color); }
-
-    @media (max-width: 640px) {
-      .quiz-container { padding: 1rem 0.75rem 2rem; }
-      .quiz-header-title { font-size: 1.3rem; }
-      .quiz-map-wrapper iframe { height: 320px; }
-      .quiz-map-overlay { height: 54px; }
-      .quiz-map-overlay-num { font-size: 1.1rem; }
-      .quiz-map-overlay-q { font-size: 0.88rem; }
-      .quiz-option-btn { padding: 0.85rem 1rem; font-size: 0.95rem; }
     }
   </style>
 </head>
@@ -600,7 +654,7 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
 
     {/* Header */}
     <div class="quiz-header">
-      <div class="quiz-header-number">{t("quiz_question_label", lang)} {quizNum}</div>
+      <div class="quiz-header-number">{t("quiz_question_label", lang)} {groupQuizNum}</div>
       <h1 class="quiz-header-title">{data.title}</h1>
       <div class="quiz-header-meta">
         {data.quiz_suffix && <span class="quiz-badge quiz-badge-theme">{data.quiz_suffix}</span>}
@@ -618,7 +672,7 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     {mapUrl && (
       <div class="quiz-map-wrapper">
         <div class="quiz-map-overlay">
-          <span class="quiz-map-overlay-num">Q{quizNum}</span>
+          <span class="quiz-map-overlay-num">Q{groupQuizNum}</span>
           <span class="quiz-map-overlay-q">{question}</span>
         </div>
         <iframe src={mapUrl} allowfullscreen loading="lazy"></iframe>
@@ -628,7 +682,11 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
     {/* Quiz image */}
     {quizImageUrl && (
       <div class="quiz-image-wrapper">
-        <img src={quizImageUrl} alt={`Quiz ${quizNum}`} />
+        <div class="quiz-image-overlay">
+          <span class="quiz-image-overlay-num">Q{groupQuizNum}</span>
+          <span class="quiz-image-overlay-q">{question}</span>
+        </div>
+        <img src={quizImageUrl} alt={`Quiz ${groupQuizNum}`} />
       </div>
     )}
 
@@ -661,14 +719,13 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
 
     {/* Prev / Next navigation */}
     <nav class="quiz-nav">
-      {prevUrl
-        ? <a href={prevUrl}><i class="fas fa-chevron-left"></i> {t("quiz_prev", lang)}</a>
-        : <span class="quiz-nav-spacer" />
-      }
-      {nextUrl
-        ? <a href={nextUrl}>{t("quiz_next", lang)} <i class="fas fa-chevron-right"></i></a>
-        : <span class="quiz-nav-spacer" />
-      }
+      <div class="quiz-nav-prev">
+        {prevUrl && <a href={prevUrl}><i class="fas fa-chevron-left"></i> {t("quiz_prev", lang)}</a>}
+      </div>
+      <a href={quizGroupIndexUrl} class="quiz-nav-list"><i class="fas fa-th-list"></i> {t("quiz_back_to_list", lang)}</a>
+      <div class="quiz-nav-next">
+        {nextUrl && <a href={nextUrl}>{t("quiz_next", lang)} <i class="fas fa-chevron-right"></i></a>}
+      </div>
     </nav>
 
     {lastmodDisplay && <p style="font-size:0.8rem;color:rgba(100,100,100,0.5);margin-top:1rem;">{t("quiz_updated_on", lang)} {lastmodDisplay}</p>}
@@ -787,20 +844,18 @@ const diffLabel = difficulty > 0 ? t(diffLabelKeys[difficulty], lang) : "";
           btn.classList.add('is-incorrect');
           shakeScreen();
           flashVignette();
-          // Show correct answer after shake with bounce
+          // Show correct answer after shake finishes (0.5s)
           setTimeout(function() {
             buttons.forEach(function(b) {
               if (parseInt(b.dataset.index, 10) === correct) b.classList.add('is-reveal-correct');
             });
-          }, 500);
-          flash(createOverlay('is-miss', '\u{274C}', textMiss), 1400);
-          // Also reveal explanation on wrong answer
-          if (explanation) {
-            setTimeout(function(){
-              explanation.classList.add('is-visible');
-              explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
-            }, 800);
-          }
+            if (explanation) {
+              setTimeout(function(){
+                explanation.classList.add('is-visible');
+                explanation.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+              }, 300);
+            }
+          }, 550);
         }
       });
     });

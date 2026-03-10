@@ -505,6 +505,13 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "Siguiente",
     pt: "Próximo",
   },
+  quiz_back_to_list: {
+    ja: "一覧に戻る",
+    en: "Back to list",
+    id: "Kembali ke daftar",
+    es: "Volver a la lista",
+    pt: "Voltar à lista",
+  },
   quiz_updated_on: {
     ja: "最終更新",
     en: "Updated on",

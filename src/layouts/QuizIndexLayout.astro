@@ -70,7 +70,7 @@ const diffColors = ["", "#4a9e5c", "#c49a2a", "#c0392b"];
 
 const quizCards = quizEntries.map((e: any, i: number) => {
   const slug = extractSlugFromId(e.id);
-  const num = slug.replace("quiz", "");
+  const num = i + 1;
   const url = buildUrl(collection, slug, lang);
   const diff = e.data.difficulty || 1;
   const suffix = e.data.quiz_suffix || "";
