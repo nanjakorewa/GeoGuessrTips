@@ -19,6 +19,19 @@ flag: "Toyama.svg"
     {{% corp "asia/japan" "chubu/toyama" %}}
 </div>
 
+{{% tabs %}}
+{{% tab "アルミ産業" %}}
+{{% notice tip %}}
+富山県は豊富な水力発電を背景にアルミ産業が発展し、高岡市・射水市・小矢部市・砺波市を中心に三協立山アルミ・ヤマダアルミ建材・北陸アルミニウム・広瀬アルミなど多数のアルミ関連工場が集積している。富山県西部でアルミ工場や建材工場が見えたら富山の可能性が高い。
+{{% /notice %}}
+
+<div class="googlemap-if">
+<img src="toyama-map.png" width="90%" alt="Toyama GeoGuessr guide image showing Aluminum factory map in Toyama">
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
+
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
     <table class="table table-striped table-bordered">
