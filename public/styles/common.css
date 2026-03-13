@@ -1562,15 +1562,62 @@ ul.flag-list li {
 
 @media (min-width: 800px) {
   .flag-ispref {
-    font-size: 0.9em;
-    padding: 5px;
-    margin-right: 3px;
-    max-width: 90px !important;
+    font-size: 0.8em;
+    padding: 3px 2px;
+    margin-right: 2px;
+    max-width: 80px !important;
+
+    a.flag-link {
+      max-width: 75px;
+      height: 90px;
+      inline-size: 80px;
+    }
 
     img {
-      width: 80px !important;
+      width: 60px !important;
     }
   }
+
+  /* ネストされた都道府県リスト（地域配下）をコンパクトに */
+  ul.flag-list ul.flag-list {
+    background: rgba(251, 251, 251, 0.08);
+    gap: 0;
+    padding: 4px 0;
+  }
+}
+
+@media (max-width: 799px) {
+  .flag-ispref {
+    font-size: 0.75em;
+    padding: 2px 1px;
+
+    a.flag-link {
+      height: auto;
+      inline-size: 60px;
+    }
+
+    img {
+      width: 36px !important;
+    }
+  }
+}
+
+a.btn-corp-detail {
+  font-size: 0.65em;
+  font-weight: normal;
+  padding: 2px 8px;
+  margin-left: 6px;
+  border: 1px solid #888;
+  border-radius: 3px;
+  color: #aaa;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+a.btn-corp-detail:hover {
+  color: #fff;
+  border-color: #bbb;
+  background: rgba(255, 255, 255, 0.1);
 }
 
 a.flag-link {
@@ -1943,6 +1990,55 @@ ul.rule-list li i {
 
 .content ul.rule-list li.no-evidence {
   list-style: none;
+}
+
+/* Prefecture Tips Box */
+.pref-tips {
+  position: relative;
+  overflow: visible;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-top: 3px solid var(--primary-color);
+  border-radius: 0 0 6px 6px;
+  padding: 1.2rem 1.2rem 0.8rem;
+  margin: 2rem 0 1.5rem;
+  font-size: 0.88em;
+  line-height: 1.5;
+}
+
+.pref-tips .pref-tips-title {
+  position: absolute;
+  top: 0;
+  left: 16px;
+  transform: translateY(calc(-100% - 2px));
+  background: var(--primary-color);
+  color: #fff;
+  font-size: 0.82em;
+  font-weight: 600;
+  padding: 0.2rem 0.9rem;
+  border-radius: 6px 6px 0 0;
+  line-height: 1.6;
+}
+
+.pref-tips ul {
+  margin: 0;
+  padding-left: 1.4em;
+}
+
+.pref-tips ul li {
+  margin-bottom: 0.15rem;
+  color: var(--text-color);
+}
+
+.pref-tips a[target="_blank"] sup {
+  font-size: 0.8em;
+  opacity: 0.7;
+}
+
+[data-theme="dark"] .pref-tips {
+  background: var(--surface-alt);
+  border-color: rgba(200, 200, 200, 0.15);
+  border-top-color: var(--primary-color);
 }
 
 /*
@@ -3226,6 +3322,65 @@ section.section-updates {
   }
 }
 
+/* ===== Corp Grid: stylish company list for combinat/industrial area pages ===== */
+.corp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.6rem;
+  margin: 1rem 0;
+  padding: 0;
+  list-style: none;
+}
+.corp-grid li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.5rem;
+  padding: 0.55rem 0.8rem;
+  background: var(--surface-color, #fff);
+  border: 1px solid var(--border-soft);
+  border-radius: 10px;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  transition: all 0.2s ease;
+}
+.corp-grid li::before {
+  content: none !important;
+}
+.corp-grid li:hover {
+  border-color: var(--primary-color);
+  box-shadow: 0 2px 8px rgba(68, 110, 114, 0.1);
+}
+.corp-grid .cg-name {
+  font-weight: 700;
+  color: var(--text-color-dark);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.corp-grid .cg-name a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+.corp-grid .cg-name a:hover {
+  text-decoration: underline;
+}
+.corp-grid .cg-code {
+  font-size: 0.78rem;
+  color: rgba(100, 100, 100, 0.6);
+  flex-shrink: 0;
+}
+.corp-grid .cg-desc {
+  flex-basis: 100%;
+  font-size: 0.82rem;
+  color: var(--text-color);
+  opacity: 0.75;
+}
+@media (max-width: 640px) {
+  .corp-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* 10. Floating share buttons: reduce size on very small screens */
 @media (max-width: 400px) {
   .floating-share-group {
@@ -3242,53 +3397,4 @@ section.section-updates {
   .floating-action i {
     font-size: 1rem;
   }
-}
-
-/* Prefecture Tips Box */
-.pref-tips {
-  position: relative;
-  overflow: visible;
-  background: #fff;
-  border: 1px solid #e0e0e0;
-  border-top: 3px solid var(--primary-color);
-  border-radius: 0 0 6px 6px;
-  padding: 1.2rem 1.2rem 0.8rem;
-  margin: 2rem 0 1.5rem;
-  font-size: 0.88em;
-  line-height: 1.5;
-}
-
-.pref-tips .pref-tips-title {
-  position: absolute;
-  top: 0;
-  left: 16px;
-  transform: translateY(calc(-100% - 2px));
-  background: var(--primary-color);
-  color: #fff;
-  font-size: 0.82em;
-  font-weight: 600;
-  padding: 0.2rem 0.9rem;
-  border-radius: 6px 6px 0 0;
-  line-height: 1.6;
-}
-
-.pref-tips ul {
-  margin: 0;
-  padding-left: 1.4em;
-}
-
-.pref-tips ul li {
-  margin-bottom: 0.15rem;
-  color: var(--text-color);
-}
-
-.pref-tips a[target="_blank"] sup {
-  font-size: 0.8em;
-  opacity: 0.7;
-}
-
-[data-theme="dark"] .pref-tips {
-  background: var(--surface-alt);
-  border-color: rgba(200, 200, 200, 0.15);
-  border-top-color: var(--primary-color);
 }

@@ -982,8 +982,12 @@ div.container-corp tbody.corp-desc {
   font-size: 0.9em;
 }
 
-li.dontshowarea {
-  display: none !important;
+li.unofficial-area {
+  opacity: 0.4;
+  transition: opacity 0.2s;
+}
+li.unofficial-area:hover {
+  opacity: 1;
 }
 
 .amazon-box {

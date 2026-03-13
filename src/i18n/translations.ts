@@ -107,7 +107,7 @@ export const translations: Record<string, Record<Language, string>> = {
     pt: "Páginas relacionadas",
   },
   "rule-of-distinguish": {
-    ja: "の国の判別ルール",
+    ja: "の国や地域の判別ルール",
     en: "How to identify countries and regions",
     id: "Cara mengidentifikasi negara dan wilayah",
     es: "How to identify countries and regions in ",
@@ -303,7 +303,7 @@ export const translations: Record<string, Record<Language, string>> = {
     pt: "Status da transmissão",
   },
   is_has_no_official_coverage: {
-    ja: "出題されない地域も表示する",
+    ja: "Geoguessrの公式マップでは出題されない場所",
     en: "no official coverage",
     id: "tidak ada liputan resmi",
     es: "sin cobertura oficial",

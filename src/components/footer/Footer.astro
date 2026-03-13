@@ -82,17 +82,6 @@ const contactUrl = `https://nanjakorewa.github.io/MyPortfolio/contact/?lang=${la
 
 <script is:inline src="/scripts/script.js"></script>
 
-<script is:inline>
-const toggleLink = document.getElementById("toggle-link");
-if (toggleLink) {
-  toggleLink.addEventListener("click", function (event) {
-    event.preventDefault();
-    document.querySelectorAll("li.unofficial-area").forEach(function(li) {
-      li.classList.toggle("dontshowarea");
-    });
-  });
-}
-</script>
 
 
 <script is:inline async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

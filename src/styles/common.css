@@ -3322,6 +3322,65 @@ section.section-updates {
   }
 }
 
+/* ===== Corp Grid: stylish company list for combinat/industrial area pages ===== */
+.corp-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 0.6rem;
+  margin: 1rem 0;
+  padding: 0;
+  list-style: none;
+}
+.corp-grid li {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.15rem 0.5rem;
+  padding: 0.55rem 0.8rem;
+  background: var(--surface-color, #fff);
+  border: 1px solid var(--border-soft);
+  border-radius: 10px;
+  font-size: 0.88rem;
+  line-height: 1.5;
+  transition: all 0.2s ease;
+}
+.corp-grid li::before {
+  content: none !important;
+}
+.corp-grid li:hover {
+  border-color: var(--primary-color);
+  box-shadow: 0 2px 8px rgba(68, 110, 114, 0.1);
+}
+.corp-grid .cg-name {
+  font-weight: 700;
+  color: var(--text-color-dark);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.corp-grid .cg-name a {
+  color: var(--primary-color);
+  text-decoration: none;
+}
+.corp-grid .cg-name a:hover {
+  text-decoration: underline;
+}
+.corp-grid .cg-code {
+  font-size: 0.78rem;
+  color: rgba(100, 100, 100, 0.6);
+  flex-shrink: 0;
+}
+.corp-grid .cg-desc {
+  flex-basis: 100%;
+  font-size: 0.82rem;
+  color: var(--text-color);
+  opacity: 0.75;
+}
+@media (max-width: 640px) {
+  .corp-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* 10. Floating share buttons: reduce size on very small screens */
 @media (max-width: 400px) {
   .floating-share-group {

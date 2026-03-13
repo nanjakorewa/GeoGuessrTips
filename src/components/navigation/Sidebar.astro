@@ -21,7 +21,7 @@ function isExpanded(node: TreeNode, currentUrl: string): boolean {
 function renderTreeNode(node: TreeNode, currentUrl: string): string {
   const isActive = node.url === currentUrl;
   const expanded = isExpanded(node, currentUrl);
-  const unofficialClass = node.isUnofficial ? " unofficial-area dontshowarea" : "";
+  const unofficialClass = node.isUnofficial ? " unofficial-area" : "";
   const activeClass = isActive ? " active" : "";
 
   let icons = "";
@@ -61,7 +61,7 @@ const treeHtml = tree.map((node) => renderTreeNode(node, currentUrl)).join("");
     <p class="mobile-noshow"><b><Fragment set:html={t("display_meaning", lang)} /></b></p>
     <p class="mobile-noshow"><i class="fas fa-car-alt i-googlecar"></i> <Fragment set:html={t("has_unique_googlecar", lang)} /></p>
     <p class="mobile-noshow" style="margin-bottom:5px"><i class="fas fa-hiking i-googlecar"></i> <Fragment set:html={t("has_trekker", lang)} /></p>
-    <p class="mobile-noshow" style="margin-bottom:5px"><i class="fa fa-question-circle"></i><u><a href="#" id="toggle-link"><Fragment set:html={t("is_has_no_official_coverage", lang)} /></a></u></p>
+    <p class="mobile-noshow" style="margin-bottom:5px"><i class="fa fa-question-circle"></i><Fragment set:html={t("is_has_no_official_coverage", lang)} /></p>
 
     <p class="streaming-status-area-title streaming-status-disp" id="streaming-status-area" style="margin-top: 0.4em;"><b><Fragment set:html={t("streaming_status", lang)} /></b></p>
     <p>

@@ -120,7 +120,7 @@ export function getSiblingCountries(
   collection: string,
   lang: Language,
   maxCount: number = 12
-): Array<{ title: string; url: string }> {
+): Array<{ title: string; url: string; isUnofficial: boolean }> {
   const currentSlug = extractSlugFromId(currentEntryId);
   const currentParts = currentSlug.split("/");
   if (currentParts.length < 2) return [];
@@ -143,6 +143,7 @@ export function getSiblingCountries(
     .map((e) => ({
       title: e.data.title,
       url: buildUrl(collection, extractSlugFromId(e.id), lang),
+      isUnofficial: !!e.data.is_unofficial,
     }));
 
   return siblings;

@@ -130,7 +130,7 @@ if (currentNode && currentNode.children.length > 0) {
 function renderSectionTree(nodes: TreeNode[], useFlags: boolean, parentFlag?: string): string {
   let html = "";
   for (const node of nodes) {
-    const unofficialClass = node.isUnofficial ? " unofficial-area dontshowarea" : "";
+    const unofficialClass = node.isUnofficial ? " unofficial-area" : "";
     const prefClass = node.isPref ? " flag-ispref" : "";
     // 子を持つノードで親と同じフラグの場合は冗長なので非表示
     const hasOwnFlag = node.flag && node.flag !== parentFlag;
@@ -498,12 +498,18 @@ const lastmodDisplay = modifiedTime
                     <h4 class="section-title">
                       <i class="fas fa-globe"></i>
                       {lang === "ja"
-                        ? ` ${parentTitle}の国`
-                        : ` Countries in ${parentTitle}`}
+                        ? ` ${parentTitle}の国や地域`
+                        : lang === "es"
+                          ? ` Países y territorios en ${parentTitle}`
+                          : lang === "pt"
+                            ? ` Países e territórios em ${parentTitle}`
+                            : lang === "id"
+                              ? ` Negara dan wilayah di ${parentTitle}`
+                              : ` Countries and territories in ${parentTitle}`}
                     </h4>
                     <ul class="info-list">
                       {siblings.map((s) => (
-                        <li><a href={s.url}>{s.title}</a></li>
+                        <li class={s.isUnofficial ? "unofficial-area" : ""}><a href={s.url}>{s.title}</a></li>
                       ))}
                     </ul>
                   </div>
