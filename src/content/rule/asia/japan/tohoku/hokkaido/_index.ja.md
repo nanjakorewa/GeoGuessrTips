@@ -87,7 +87,7 @@ no_jetro: true
 {{% tab "砂箱" %}}
 
 {{% notice tip %}}
-交差点付近に<span class="quiz">砂箱が</span>あることも。路面が滑りにくくなるようにするための砂が入っている。ご当地砂箱もあるらしい（<a href="https://tokukita.jp/gotouchineta/hokkaido-sunabako.html">出典</a>）。
+交差点付近に<span class="quiz">砂箱が</span>あることも。路面が滑りにくくなるようにするための砂が入っている{{% ex "https://maps.app.goo.gl/iG6wBTWHZM6AxMYV7" %}}。ご当地砂箱もあるらしい（<a href="https://tokukita.jp/gotouchineta/hokkaido-sunabako.html">出典</a>）。
 {{% /notice %}}
 
 
