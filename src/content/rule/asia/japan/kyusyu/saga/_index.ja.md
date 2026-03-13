@@ -30,7 +30,7 @@ flag: "Saga.svg"
 {{% tabs %}}
 {{% tab "擁壁" %}}
 {{% notice tip %}}
-擁壁の形が６角形の地域は全国的に珍しく、佐賀や宮崎以外ではほとんど見つからない{{% ex "https://maps.app.goo.gl/3wjzufrCPLTqnwYT9" %}}。
+擁壁の形が６角形の地域は全国的に珍しく、佐賀や宮崎以外ではほとんど見つからない{{% ex "https://maps.app.goo.gl/7rbsDangkVB33EPy5" "https://maps.app.goo.gl/3wjzufrCPLTqnwYT9" %}}。
 {{% /notice %}}
 
 <div class="googlemap-if no-margin">
