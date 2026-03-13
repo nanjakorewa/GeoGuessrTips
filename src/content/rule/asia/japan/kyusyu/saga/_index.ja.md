@@ -21,9 +21,35 @@ flag: "Saga.svg"
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">
+        <li>佐賀と{{% goto "../miyazaki/" "宮崎" %}}では六角形の擁壁が見られる</li>
+        <li>佐賀～{{% goto "../fukuoka/" "福岡" %}}の平野部では日本で最大規模のクリークが広がっている</li>
     </ul>
     {{% corp "asia/japan" "kyusyu/saga" %}}
 </div>
+
+{{% tabs %}}
+{{% tab "擁壁" %}}
+{{% notice tip %}}
+擁壁の形が６角形の地域は全国的に珍しく、佐賀や宮崎以外ではほとんど見つからない{{% ex "https://maps.app.goo.gl/3wjzufrCPLTqnwYT9" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<img src="sagablock.png">
+</div>
+
+{{% /tab %}}
+{{% tab "クリーク" %}}
+{{% notice tip %}}
+佐賀平野には<span class="quiz">クリーク</span>と呼ばれる水路網が広がっており、特徴的な景観を形成している{{% ex "https://maps.app.goo.gl/JWzTr2M1seWFQLQX9" "https://maps.app.goo.gl/24CgrLFQLGAnqopt5" %}}。
+{{% /notice %}}
+
+<div class="googlemap-if no-margin">
+<a href="https://commons.wikimedia.org/wiki/File:Creek_in_wheat_fields_in_Honjo,_Saga.jpg#/media/File:Creek_in_wheat_fields_in_Honjo,_Saga.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/0/02/Creek_in_wheat_fields_in_Honjo%2C_Saga.jpg" alt="Creek in wheat fields in Honjo, Saga.jpg" width="90%"></a>
+<br><small>By <a href="https://commons.wikimedia.org/wiki/User:Peka">Peka</a> - Own work, <a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a></small>
+</div>
+
+{{% /tab %}}
+{{% /tabs %}}
 
 <div class="container-corp mt-5" id="corp-desc" style="padding-top:50px">
     <h4 class="mb-4">代表的な企業の説明</h4>
