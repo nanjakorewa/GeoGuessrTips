@@ -243,6 +243,19 @@ while ((_m = iframeEmbedRegex.exec(rawBody)) !== null) autoVideoIds.push(_m[1]);
 // Deduplicate
 const uniqueVideoIds = [...new Set(autoVideoIds)];
 
+// --- Auto-extract rule-list items for FAQ answer ---
+const ruleListMatch = rawBody.match(/<ul\s+class="rule-list">([\s\S]*?)<\/ul>/);
+const ruleListItems: string[] = [];
+if (ruleListMatch) {
+  const liRegex = /<li[^>]*>([\s\S]*?)<\/li>/g;
+  let liMatch: RegExpExecArray | null;
+  while ((liMatch = liRegex.exec(ruleListMatch[1])) !== null) {
+    // Strip HTML tags and trim
+    const text = liMatch[1].replace(/<[^>]+>/g, "").replace(/\s+/g, " ").trim();
+    if (text) ruleListItems.push(text);
+  }
+}
+
 // --- Dates ---
 const publishedTime = data.date ? new Date(data.date) : undefined;
 const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
@@ -288,6 +301,7 @@ const lastmodDisplay = modifiedTime
     collection={collection}
     sectionChildren={sectionChildrenForSchema}
     autoVideoIds={uniqueVideoIds}
+    ruleListItems={ruleListItems}
     usePolishFont={!!data.use_polish_font}
     needsJQuery36={needsJQuery36}
     needsJSMaps={needsJSMaps}

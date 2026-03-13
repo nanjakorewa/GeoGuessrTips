@@ -27,6 +27,7 @@ interface Props {
   collection?: string;
   sectionChildren?: SectionChild[];
   autoVideoIds?: string[];
+  ruleListItems?: string[];
 }
 
 const {
@@ -44,6 +45,7 @@ const {
   collection = "",
   sectionChildren = [],
   autoVideoIds = [],
+  ruleListItems = [],
 } = Astro.props;
 
 const site = "https://geopinning.space";
@@ -158,8 +160,8 @@ if (breadcrumbs.length > 1) {
 let faqSchema: Record<string, any> | null = null;
 const faqQuestions: Record<string, any>[] = [];
 
-// Auto-generated FAQ for country pages
-if (flag && description) {
+// Auto-generated FAQ for country pages (using rule-list summary)
+if (flag) {
   const countryName = pageData.title || title;
   const questionTemplates: Record<Language, string> = {
     ja: `GeoGuessrで${countryName}を見分けるには？`,
@@ -168,11 +170,17 @@ if (flag && description) {
     es: `¿Cómo identificar ${countryName} en GeoGuessr?`,
     pt: `Como identificar ${countryName} no GeoGuessr?`,
   };
-  faqQuestions.push({
-    "@type": "Question",
-    name: questionTemplates[lang],
-    acceptedAnswer: { "@type": "Answer", text: description },
-  });
+  // Prefer rule-list items as answer, fall back to description
+  const answerText = ruleListItems.length > 0
+    ? ruleListItems.map((item) => `- ${item}`).join("\n")
+    : description || "";
+  if (answerText) {
+    faqQuestions.push({
+      "@type": "Question",
+      name: questionTemplates[lang],
+      acceptedAnswer: { "@type": "Answer", text: answerText },
+    });
+  }
 }
 
 // Custom FAQ from frontmatter (merged into same FAQPage)
