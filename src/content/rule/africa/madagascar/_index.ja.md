@@ -18,6 +18,7 @@ features:
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%80%E3%82%AC%E3%82%B9%E3%82%AB%E3%83%AB"
   - text: '<span class="quiz">バオバブ</span>の木が象徴的な景観を形成しており、8種のうち6種がマダガスカル固有種である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AA%E3%83%90%E3%83%96"
+  - text: '日本で消費されるバニラの7割以上はマダガスカルから輸入されている'
 ---
 
 <div class="main-desciption country-description">

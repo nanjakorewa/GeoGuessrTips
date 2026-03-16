@@ -21,8 +21,6 @@ sc: [
 features:
   - text: '<span class="quiz">マサイマラ国立保護区</span>があり、ヌーの大移動で知られる野生動物の宝庫である'
     ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B5%E3%82%A4%E3%83%9E%E3%83%A9%E5%9B%BD%E7%AB%8B%E4%BF%9D%E8%AD%B7%E5%8C%BA"
-  - text: '長距離走の強豪国であり、<span class="quiz">マラソン</span>や中長距離走で多くのオリンピックメダリストを輩出している'
-    ref: "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%8B%E3%82%A2#%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84"
 ---
 
 <div class="main-desciption country-description">
