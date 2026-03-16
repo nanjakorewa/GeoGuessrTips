@@ -11,6 +11,13 @@ is_pref: true
 flag: "Kumamoto.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">阿蘇山</span>は世界最大級のカルデラを持つ活火山で、広大な草原が広がる<a href="https://ja.wikipedia.org/wiki/阿蘇山" target="_blank"><sup>[参]</sup></a></li>
+        <li>TSMCの工場進出により<span class="quiz">半導体産業</span>の集積が急速に進んでいる<a href="https://ja.wikipedia.org/wiki/Japan_Advanced_Semiconductor_Manufacturing" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

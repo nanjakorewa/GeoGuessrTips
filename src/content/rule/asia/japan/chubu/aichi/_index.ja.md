@@ -11,6 +11,14 @@ is_pref: true
 flag: "Aichi.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">トヨタ自動車</span>の本社がある豊田市を中心に、製造品出荷額等が全国1位の<span class="quiz">工業県</span><a href="https://ja.wikipedia.org/wiki/愛知県#工業" target="_blank"><sup>[参]</sup></a></li>
+        <li>名古屋市は日本三大都市圏の一つである<span class="quiz">中京圏</span>の中心都市<a href="https://ja.wikipedia.org/wiki/中京圏" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">

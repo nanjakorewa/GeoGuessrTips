@@ -11,6 +11,13 @@ is_pref: true
 flag: "Yamanashi.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">ぶどう・もも</span>の生産量が全国1位で、甲府盆地を中心に果樹栽培が盛ん<a href="https://ja.wikipedia.org/wiki/山梨県#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>日本一の<span class="quiz">富士山</span>（標高3,776m）の北麓に位置し、富士五湖を有する<a href="https://ja.wikipedia.org/wiki/富士山" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

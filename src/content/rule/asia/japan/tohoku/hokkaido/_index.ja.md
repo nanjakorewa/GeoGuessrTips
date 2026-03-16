@@ -12,6 +12,13 @@ flag: "Flag_of_Hokkaido_Prefecture.png"
 no_jetro: true
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>日本最大の面積を持つ都道府県で、<span class="quiz">酪農</span>と農業が盛ん。生乳生産量は全国の約半分を占める<a href="https://ja.wikipedia.org/wiki/北海道#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>冬季は豪雪地帯となり、道路には<span class="quiz">矢羽根付きポール</span>（固定式視線誘導柱）が多く設置されている<a href="https://ja.wikipedia.org/wiki/固定式視線誘導柱" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption area-description">
     <h2 class="section-title">全域</h2>

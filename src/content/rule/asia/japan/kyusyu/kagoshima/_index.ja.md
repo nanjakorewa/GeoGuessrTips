@@ -11,6 +11,13 @@ is_pref: true
 flag: "Kagoshima.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>活火山の<span class="quiz">桜島</span>が県のシンボルで、火山灰が日常的に降る地域がある<a href="https://ja.wikipedia.org/wiki/桜島" target="_blank"><sup>[参]</sup></a></li>
+        <li><span class="quiz">茶</span>と<span class="quiz">サツマイモ</span>の生産が盛んで、畜産（黒豚・黒牛）も全国有数<a href="https://ja.wikipedia.org/wiki/鹿児島県#農業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

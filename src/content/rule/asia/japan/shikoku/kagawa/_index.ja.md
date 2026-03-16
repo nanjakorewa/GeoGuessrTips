@@ -11,6 +11,13 @@ is_pref: true
 flag: "Kagawa.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>「<span class="quiz">うどん県</span>」を自称するほど讃岐うどんの文化が根付き、うどん店の密度は日本一<a href="https://ja.wikipedia.org/wiki/讃岐うどん" target="_blank"><sup>[参]</sup></a></li>
+        <li>日本で最も面積が小さい都道府県で、<span class="quiz">ため池</span>の密度が全国最高<a href="https://ja.wikipedia.org/wiki/香川県#地理" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

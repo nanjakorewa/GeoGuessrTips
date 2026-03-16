@@ -11,6 +11,14 @@ is_pref: true
 flag: "OKINAWA.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>亜熱帯気候に属し、<span class="quiz">サンゴ礁</span>の海に囲まれた日本最南端の県<a href="https://ja.wikipedia.org/wiki/沖縄県" target="_blank"><sup>[参]</sup></a></li>
+        <li>1972年までアメリカ統治下にあった歴史から、<span class="quiz">米軍基地</span>が多数存在する<a href="https://ja.wikipedia.org/wiki/沖縄県#米軍基地" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">

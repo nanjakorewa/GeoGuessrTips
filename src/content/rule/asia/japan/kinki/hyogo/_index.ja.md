@@ -11,6 +11,13 @@ is_pref: true
 flag: "Hyogo.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>神戸港は日本有数の国際貿易港で、<span class="quiz">神戸ビーフ</span>は世界的に有名な和牛ブランド<a href="https://ja.wikipedia.org/wiki/神戸ビーフ" target="_blank"><sup>[参]</sup></a></li>
+        <li>播磨地区は<span class="quiz">鉄鋼・重化学工業</span>が集積し、姫路城は世界遺産に登録されている<a href="https://ja.wikipedia.org/wiki/兵庫県#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

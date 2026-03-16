@@ -11,6 +11,13 @@ is_pref: true
 flag: "Gifu.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>白川郷の<span class="quiz">合掌造り</span>集落はユネスコ世界遺産に登録されている<a href="https://ja.wikipedia.org/wiki/白川郷・五箇山の合掌造り集落" target="_blank"><sup>[参]</sup></a></li>
+        <li><span class="quiz">刃物</span>の産地として有名で、関市は日本一の刃物生産量を誇る<a href="https://ja.wikipedia.org/wiki/関市#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

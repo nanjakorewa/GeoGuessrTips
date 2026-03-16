@@ -11,6 +11,13 @@ is_pref: true
 flag: "Shizuoka.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">茶</span>の生産量が全国1位で、牧之原台地を中心に広大な茶畑が広がる<a href="https://ja.wikipedia.org/wiki/静岡県#農業" target="_blank"><sup>[参]</sup></a></li>
+        <li>浜松市は<span class="quiz">楽器</span>（ヤマハ・河合楽器）と<span class="quiz">オートバイ</span>（スズキ・ヤマハ発動機）の一大生産拠点<a href="https://ja.wikipedia.org/wiki/浜松市#工業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

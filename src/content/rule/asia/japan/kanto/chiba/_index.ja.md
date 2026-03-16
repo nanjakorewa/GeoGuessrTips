@@ -11,6 +11,13 @@ is_pref: true
 flag: "Chiba.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>成田国際空港があり、日本の<span class="quiz">空の玄関口</span>として国際物流の要<a href="https://ja.wikipedia.org/wiki/成田国際空港" target="_blank"><sup>[参]</sup></a></li>
+        <li><span class="quiz">落花生</span>の生産量が全国1位で、全国の約8割を占める<a href="https://ja.wikipedia.org/wiki/千葉県#農業" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>

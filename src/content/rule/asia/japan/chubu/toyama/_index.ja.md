@@ -10,6 +10,14 @@ is_pref: true
 flag: "Toyama.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li>「<span class="quiz">くすりの富山</span>」として知られ、江戸時代から続く配置薬業（置き薬）が有名<a href="https://ja.wikipedia.org/wiki/富山の売薬" target="_blank"><sup>[参]</sup></a></li>
+        <li><span class="quiz">黒部ダム</span>をはじめとする水力発電が豊富で、アルミ産業など電力多消費型産業が発達<a href="https://ja.wikipedia.org/wiki/黒部ダム" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
+
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
     <ul class="rule-list">

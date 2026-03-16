@@ -11,6 +11,13 @@ is_pref: true
 flag: "Kanagawa.svg"
 ---
 
+<div class="pref-tips">
+    <div class="pref-tips-title">県の特徴</div>
+    <ul>
+        <li><span class="quiz">横浜港</span>は幕末の開港以来、日本を代表する国際貿易港<a href="https://ja.wikipedia.org/wiki/横浜港" target="_blank"><sup>[参]</sup></a></li>
+        <li>京浜工業地帯の中核を担い、自動車・石油化学などの<span class="quiz">重工業</span>が集積<a href="https://ja.wikipedia.org/wiki/京浜工業地帯" target="_blank"><sup>[参]</sup></a></li>
+    </ul>
+</div>
 
 <div class="main-desciption country-description">
     <h2 class="section-title">全域</h2>
