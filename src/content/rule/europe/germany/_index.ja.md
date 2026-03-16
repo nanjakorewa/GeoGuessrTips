@@ -32,6 +32,11 @@ products:
     description: "1731年に創業したドイツのゾーリンゲンに本拠を置く刃物などのメーカー。"
     company_name: "Zwilling J.A. Henckels AG"
     company_url: "https://www.zwilling.com/jp/"
+features:
+  - text: 'EU最大の経済大国であり、<span class="quiz">アウトバーン</span>と呼ばれる速度無制限区間を含む高速道路網が有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A6%E3%83%88%E3%83%90%E3%83%BC%E3%83%B3"
+  - text: '1989年に<span class="quiz">ベルリンの壁</span>が崩壊し東西ドイツが統一された歴史を持ち、16の<span class="quiz">連邦州</span>からなる連邦共和国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%AA%E3%83%B3%E3%81%AE%E5%A3%81%E5%B4%A9%E5%A3%8A"
 ---
 
 <div class="main-desciption country-description">

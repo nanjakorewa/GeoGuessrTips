@@ -13,6 +13,11 @@ jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
 flag_height: "600px"
+features:
+  - text: '世界で最も<span class="quiz">言語</span>の多様性が高く800以上の言語が話されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%97%E3%82%A2%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2"
+  - text: 'ニューギニア島の東半分を占め<span class="quiz">熱帯雨林</span>が国土の大部分を覆う'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AE%E3%83%8B%E3%82%A2%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

@@ -12,6 +12,11 @@ flag_height: "380px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '<span class="quiz">2011年</span>にスーダンから独立した世界で最も新しい国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
+  - text: '<span class="quiz">白ナイル川</span>が流れ、世界最大級の湿地帯であるスッドが広がっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%83%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,11 @@ sc: [
     ["../../europe/macedonia/", "北マケドニア"],
     ["../../europe/greece/", "ギリシャ"],
     ]
+features:
+  - text: 'アジアとヨーロッパにまたがり<span class="quiz">ボスポラス海峡</span>が両大陸を隔てている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B9%E3%83%9D%E3%83%A9%E3%82%B9%E6%B5%B7%E5%B3%A1"
+  - text: '<span class="quiz">カッパドキア</span>の奇岩群や<span class="quiz">パムッカレ</span>の石灰棚など多くの世界遺産がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%83%E3%83%91%E3%83%89%E3%82%AD%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

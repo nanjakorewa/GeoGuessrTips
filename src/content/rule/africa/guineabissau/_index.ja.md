@@ -12,6 +12,11 @@ no_detaile_info: true
 flag_height: "320px"
 jetro_detail: false
 is_unofficial: true
+features:
+  - text: '旧<span class="quiz">ポルトガル</span>植民地であり、公用語はポルトガル語である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2%E3%83%93%E3%82%B5%E3%82%A6"
+  - text: '<span class="quiz">カシューナッツ</span>の生産が主要な産業であり、輸出の大部分を占める'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2%E3%83%93%E3%82%B5%E3%82%A6#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

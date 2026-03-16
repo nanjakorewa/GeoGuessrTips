@@ -18,6 +18,11 @@ sc: [
     ["../croatia/", "クロアチア地中海側"],
     ["../../middle_east/turkey/", "トルコ西海岸沿い"],
     ]
+features:
+  - text: '西洋文明の発祥地であり、<span class="quiz">民主主義</span>・<span class="quiz">哲学</span>・オリンピックの起源となった古代ギリシャの歴史を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8F%A4%E4%BB%A3%E3%82%AE%E3%83%AA%E3%82%B7%E3%82%A2"
+  - text: '約<span class="quiz">6,000</span>の島々を持ち、<span class="quiz">サントリーニ島</span>やミコノス島など白壁と青い屋根の景観で知られるエーゲ海の島々が有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%AA%E3%83%BC%E3%83%8B%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

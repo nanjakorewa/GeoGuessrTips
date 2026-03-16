@@ -16,6 +16,11 @@ sc: [
     ["../bulgaria/", "ブルガリア"],
     ["../hungary/", "ハンガリー"],
     ]
+features:
+  - text: '<span class="quiz">ドラキュラ</span>伝説の舞台として知られる<span class="quiz">トランシルヴァニア</span>地方があり、中世の城塞都市が多く残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%AB%E3%83%B4%E3%82%A1%E3%83%8B%E3%82%A2"
+  - text: 'スラヴ語圏に囲まれながら<span class="quiz">ラテン語</span>系のルーマニア語を話す独自の文化を持ち、<span class="quiz">ドナウ・デルタ</span>はヨーロッパ最大の湿地帯'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%8A%E3%82%A6%E3%83%BB%E3%83%87%E3%83%AB%E3%82%BF"
 ---
 
 <div class="main-desciption country-description">

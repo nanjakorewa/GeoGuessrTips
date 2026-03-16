@@ -18,6 +18,11 @@ sc: [
     ["../madeira_islands/", "マデイラ諸島"],
     ["../ceuta/", "セウタ"],
     ]
+features:
+  - text: '<span class="quiz">スペイン</span>領の諸島であり、アフリカ大陸の北西沖に位置する火山群島である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%AA%E3%82%A2%E8%AB%B8%E5%B3%B6"
+  - text: '<span class="quiz">テイデ山</span>（標高3,718m）はスペイン最高峰であり、世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%87%E5%B1%B1"
 ---
 
 <div class="main-desciption country-description">

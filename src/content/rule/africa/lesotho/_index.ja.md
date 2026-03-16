@@ -16,6 +16,11 @@ sc: [
     ["../eswatini/", "エスワティニ"],
     ["../south-africa/", "南アフリカ"],
     ]
+features:
+  - text: '国土全体が<span class="quiz">標高1,400m以上</span>にあり、「天空の王国」と呼ばれる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%BD%E3%83%88"
+  - text: '四方を<span class="quiz">南アフリカ共和国</span>に完全に囲まれた内陸国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%BD%E3%83%88#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

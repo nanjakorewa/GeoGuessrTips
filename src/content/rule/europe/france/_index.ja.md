@@ -20,6 +20,11 @@ sc: [
     ["../luxembourg/", "ルクセンブルグ"],
     ["../../n_america/saint-pierre-miquelon/", "サンピエール島"],
     ]
+features:
+  - text: 'EU最大の<span class="quiz">農業</span>国であり、<span class="quiz">ワイン</span>・チーズの生産量は世界有数で「美食の国」として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%BE%B2%E6%A5%AD"
+  - text: '年間約<span class="quiz">9000万人</span>の外国人観光客が訪れる世界最大の<span class="quiz">観光</span>大国で、<span class="quiz">エッフェル塔</span>やルーヴル美術館がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E3%81%AE%E8%A6%B3%E5%85%89"
 ---
 
 <div class="main-desciption country-description">

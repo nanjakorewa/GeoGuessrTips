@@ -12,6 +12,11 @@ flag_height: "600px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '<span class="quiz">ウラン</span>の主要産出国であり、フランスの原子力発電を支える重要な供給源となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB#%E7%B5%8C%E6%B8%88"
+  - text: '国土の約80%が<span class="quiz">サハラ砂漠</span>に覆われており、人口の大部分は南部のニジェール川沿いに集中している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,11 @@ sc: [
     ["../brazil/", "ブラジル"],
     ["../peru/", "ペルー"],
     ]
+features:
+  - text: '南米第2位の面積を持ち、<span class="quiz">パンパ</span>と呼ばれる大草原で牧畜が盛ん'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%BC%E3%83%B3%E3%83%81%E3%83%B3"
+  - text: '<span class="quiz">タンゴ</span>発祥の地であり、ブエノスアイレスは「南米のパリ」と呼ばれる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%B3%E3%82%B4"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,11 @@ sc: [
     ["../taiwan/", "台湾"],
     ["../hongkong/", "香港"],
     ]
+features:
+  - text: 'かつて<span class="quiz">ポルトガル</span>の植民地であり1999年に中国へ返還された'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA"
+  - text: '世界最大級の<span class="quiz">カジノ</span>産業を持ち「東洋のラスベガス」と呼ばれる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AB%E3%82%AA#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

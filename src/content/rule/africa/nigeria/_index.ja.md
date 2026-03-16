@@ -17,6 +17,11 @@ sc: [
     ["../senegal/", "セネガル"],
     ["../saotome/", "サントメ・プリンシペ"],
     ]
+features:
+  - text: '人口約2億人を超える<span class="quiz">アフリカ最大</span>の人口を持つ国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+  - text: '<span class="quiz">アフリカ最大の産油国</span>であり、OPECの加盟国として石油輸出が主要産業となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%A4%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

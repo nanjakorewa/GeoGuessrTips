@@ -19,6 +19,11 @@ sc: [
     ["../botswana/", "ボツワナ"],
     ["../../middle_east/oman/", "オマーン"],
     ]
+features:
+  - text: '世界最古の砂漠とされる<span class="quiz">ナミブ砂漠</span>があり、国名の由来にもなっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9F%E3%83%96%E7%A0%82%E6%BC%A0"
+  - text: '人口密度がアフリカで最も低い国の一つであり、<span class="quiz">ダイヤモンド</span>やウランの産出国として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%83%9F%E3%83%93%E3%82%A2#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

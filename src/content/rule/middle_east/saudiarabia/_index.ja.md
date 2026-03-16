@@ -14,6 +14,11 @@ dont_show_usda: true
 plonkit: false
 is_has_many_trekker: false
 is_unofficial: true
+features:
+  - text: 'イスラム教の二大聖地<span class="quiz">メッカ</span>と<span class="quiz">メディナ</span>がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%83%E3%82%AB"
+  - text: '世界最大の<span class="quiz">原油</span>輸出国であり国営のサウジアラムコは世界最大級の企業である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B8%E3%82%A2%E3%83%A9%E3%83%A0%E3%82%B3"
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../falkland_islands/", "フォークランド諸島"],
     ]
+features:
+  - text: '南大西洋にある<span class="quiz">イギリス</span>の海外領土で、定住者はいない'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%83%BB%E3%82%B5%E3%82%A6%E3%82%B9%E3%82%B5%E3%83%B3%E3%83%89%E3%82%A6%E3%82%A3%E3%83%83%E3%83%81%E8%AB%B8%E5%B3%B6"
+  - text: 'かつて<span class="quiz">捕鯨</span>基地として使われ、グリトビケンには廃墟が残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%88%E3%83%93%E3%82%B1%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../antarctica/", "南極大陸"],
     ]
+features:
+  - text: '世界最大の島で、面積の約<span class="quiz">80%が氷床</span>に覆われている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+  - text: '<span class="quiz">デンマーク</span>の自治領であり、先住民族イヌイットの文化が残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89#%E6%AD%B4%E5%8F%B2"
 ---
 
 <div class="main-desciption country-description">

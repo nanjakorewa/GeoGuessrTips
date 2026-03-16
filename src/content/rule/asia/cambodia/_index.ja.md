@@ -28,6 +28,11 @@ products:
   - title: "レオビール 330ml×24本"
     url: https://amzn.to/3HaNFra
     description: "タイのビールだが隣国のカンボジアでも多く流通している。道端でもよく見つかる。"
+features:
+  - text: '<span class="quiz">アンコール・ワット</span>を含むアンコール遺跡群が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%AF%E3%83%83%E3%83%88"
+  - text: '国土の中央を<span class="quiz">メコン川</span>が流れ<span class="quiz">トンレサップ湖</span>は東南アジア最大の湖である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%AC%E3%82%B5%E3%83%83%E3%83%97%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

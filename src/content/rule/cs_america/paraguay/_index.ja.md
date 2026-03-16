@@ -15,6 +15,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../brazil/", "ブラジル"],
     ]
+features:
+  - text: '南米の<span class="quiz">内陸国</span>で、スペイン語と先住民の<span class="quiz">グアラニー語</span>が公用語である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B0%E3%82%A2%E3%82%A4"
+  - text: 'ブラジルとの国境にある<span class="quiz">イタイプダム</span>は世界最大級の水力発電所である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%82%A4%E3%83%97%E3%83%80%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,11 @@ sc: [
     ["../spain/", "スペイン"],
     ["../italy/", "イタリア西部"],
     ]
+features:
+  - text: '<span class="quiz">ピレネー山脈</span>に位置する小国で、国家元首がフランス大統領とスペインの<span class="quiz">ウルヘル司教</span>の共同統治'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
+  - text: '消費税が無く<span class="quiz">免税</span>ショッピングで知られ、<span class="quiz">スキーリゾート</span>が主要な観光産業'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%89%E3%83%A9"
 ---
 
 <div class="main-desciption country-description">

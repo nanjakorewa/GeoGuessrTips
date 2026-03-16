@@ -18,6 +18,11 @@ sc: [
     ["../montenegro/", "モンテネグロ"],
     ["../greece/", "ギリシャ"],
     ]
+features:
+  - text: 'ヨーロッパ最後の<span class="quiz">鎖国状態</span>だった共産主義国家で、国中に約17万もの<span class="quiz">トーチカ</span>（コンクリート製防御陣地）が残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%88%E3%83%BC%E3%83%81%E3%82%AB"
+  - text: '国土の約70%が<span class="quiz">山岳地帯</span>であり、世界遺産の<span class="quiz">ベラト</span>とジロカストラの歴史地区がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%88%E3%81%A8%E3%82%B8%E3%83%AD%E3%82%AB%E3%82%B9%E3%83%88%E3%83%A9%E3%81%AE%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA%E7%BE%A4"
 ---
 
 <div class="main-desciption country-description">

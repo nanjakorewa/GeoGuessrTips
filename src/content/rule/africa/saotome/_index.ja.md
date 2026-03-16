@@ -17,6 +17,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../nigeria/", "ナイジェリア"],
     ]
+features:
+  - text: 'ギニア湾に浮かぶ<span class="quiz">火山島</span>からなるアフリカ最小の国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A1%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%9A"
+  - text: '旧<span class="quiz">ポルトガル</span>植民地であり、かつてはカカオの世界最大の生産地だった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%88%E3%83%A1%E3%83%BB%E3%83%97%E3%83%AA%E3%83%B3%E3%82%B7%E3%83%9A#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,11 @@ sc: [
     ["../montenegro/", "モンテネグロ"],
     ["../bulgaria/", "ブルガリア"],
     ]
+features:
+  - text: '<span class="quiz">ボスニア・ヘルツェゴビナ連邦</span>と<span class="quiz">スルプスカ共和国</span>の2つの構成体からなり、1995年の<span class="quiz">デイトン合意</span>で現在の国家体制が成立した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A4%E3%83%88%E3%83%B3%E5%90%88%E6%84%8F"
+  - text: '首都<span class="quiz">サラエボ</span>は1984年の冬季オリンピック開催地であり、オスマン帝国時代の<span class="quiz">バシチャルシヤ</span>旧市街が残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%A9%E3%82%A8%E3%83%9C"
 ---
 
 <div class="main-desciption country-description">

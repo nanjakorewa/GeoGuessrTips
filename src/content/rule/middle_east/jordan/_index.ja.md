@@ -18,6 +18,11 @@ sc: [
     ["../palestine/", "ヨルダン川西岸地区"],
     ["../../cs_america/argentina/", "アルゼンチン"],
     ]
+features:
+  - text: '古代都市<span class="quiz">ペトラ</span>が世界遺産に登録されており新・世界七不思議の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%A9"
+  - text: '国土の約80%が<span class="quiz">砂漠</span>であり水資源が極めて乏しい'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

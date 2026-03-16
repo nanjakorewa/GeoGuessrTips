@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '英語とフランス語の<span class="quiz">二言語</span>が公用語であり、「アフリカの縮図」と呼ばれるほど多様な地形と文化を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1%E3%83%AB%E3%83%BC%E3%83%B3"
+  - text: '<span class="quiz">カメルーン山</span>（標高4,095m）は西アフリカ最高峰の活火山である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A1%E3%83%AB%E3%83%BC%E3%83%B3%E5%B1%B1"
 ---
 
 <div class="main-desciption country-description">

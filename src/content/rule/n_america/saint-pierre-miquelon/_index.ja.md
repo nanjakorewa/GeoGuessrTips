@@ -18,6 +18,11 @@ sc: [
     ["../../europe/aland_islands/", "オーランド諸島"],
     ["../../europe/france/", "フランス"],
     ]
+features:
+  - text: '北米大陸に残る唯一の<span class="quiz">フランス海外領土</span>で、カナダのニューファンドランド島南方に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E5%B3%B6%E3%83%BB%E3%83%9F%E3%82%AF%E3%83%AD%E3%83%B3%E5%B3%B6"
+  - text: 'かつて<span class="quiz">タラ漁</span>の基地として栄えたが漁業資源の枯渇により衰退した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%94%E3%82%A8%E3%83%BC%E3%83%AB%E5%B3%B6%E3%83%BB%E3%83%9F%E3%82%AF%E3%83%AD%E3%83%B3%E5%B3%B6#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

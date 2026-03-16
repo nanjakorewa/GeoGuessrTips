@@ -18,6 +18,11 @@ sc: [
     ["../mongolia/", "モンゴル"],
     ["../russia/", "ロシア"],
     ]
+features:
+  - text: '中央アジアに位置し<span class="quiz">天山山脈</span>が国土の大部分を占める山岳国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AB%E3%82%AE%E3%82%B9"
+  - text: '<span class="quiz">イシク・クル湖</span>は世界第2位の透明度を持つ山岳湖である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%B7%E3%82%AF%E3%83%BB%E3%82%AF%E3%83%AB%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

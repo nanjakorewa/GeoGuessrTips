@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '<span class="quiz">カカオ</span>の生産量が世界第1位であり、世界の約40%を占める'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%88%E3%82%B8%E3%83%9C%E3%83%AF%E3%83%BC%E3%83%AB#%E7%B5%8C%E6%B8%88"
+  - text: '最大都市<span class="quiz">アビジャン</span>は西アフリカ最大級の経済都市で、旧首都でもある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%93%E3%82%B8%E3%83%A3%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

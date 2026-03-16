@@ -17,6 +17,11 @@ sc: [
     ["../iceland/", "アイスランド"],
     ["../svalbard/", "スヴァールバル諸島"],
     ]
+features:
+  - text: '<span class="quiz">デンマーク</span>の自治領で、名前は古ノルド語で「<span class="quiz">羊の島</span>」を意味し、人口より羊の数が多い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AB%B8%E5%B3%B6"
+  - text: '独自の言語<span class="quiz">フェロー語</span>を持ち、18の島からなる群島で<span class="quiz">海底トンネル</span>で島同士が結ばれている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AD%E3%83%BC%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

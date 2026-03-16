@@ -11,6 +11,11 @@ flag: "MV.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '約1200の<span class="quiz">サンゴ礁</span>の島々からなるインド洋の島嶼国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%96"
+  - text: '国土の平均海抜が約<span class="quiz">1.5メートル</span>と世界で最も低い国の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%87%E3%82%A3%E3%83%96#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

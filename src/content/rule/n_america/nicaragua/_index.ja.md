@@ -13,6 +13,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '中米最大の面積を持ち、<span class="quiz">太平洋</span>とカリブ海の両方に面している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2"
+  - text: '中米最大の湖である<span class="quiz">ニカラグア湖</span>があり淡水サメが生息する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%AB%E3%83%A9%E3%82%B0%E3%82%A2%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

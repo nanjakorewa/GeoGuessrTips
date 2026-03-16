@@ -15,6 +15,11 @@ plonkit: false
 is_has_many_trekker: false
 is_unofficial: true
 flag_height: "400px"
+features:
+  - text: '世界有数の<span class="quiz">石油</span>埋蔵量を持ち国民所得が非常に高い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%88"
+  - text: '<span class="quiz">クウェートタワー</span>は国のシンボル的建造物である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%88%E3%83%BB%E3%82%BF%E3%83%AF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

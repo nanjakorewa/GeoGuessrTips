@@ -21,6 +21,11 @@ sc: [
     ["../ecuador/", "エクアドル"],
     ["../../n_america/mexico/", "メキシコ"],
     ]
+features:
+  - text: '南米唯一の太平洋とカリブ海の両方に面する国で、<span class="quiz">コーヒー</span>の主要生産国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2"
+  - text: '国名はクリストファー・<span class="quiz">コロンブス</span>に由来する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2#%E5%9B%BD%E5%90%8D"
 ---
 
 <div class="main-desciption country-description">

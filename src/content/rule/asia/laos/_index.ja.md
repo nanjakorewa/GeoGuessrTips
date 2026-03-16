@@ -17,6 +17,11 @@ sc: [
     ["../cambodia/", "カンボジア"],
     ["../../n_america/guatemala/", "グアテマラ"],
     ]
+features:
+  - text: '東南アジア唯一の<span class="quiz">内陸国</span>であり<span class="quiz">メコン川</span>が国土を縦断している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AA%E3%82%B9"
+  - text: '世界遺産の<span class="quiz">ルアンパバーン</span>は仏教寺院が数多く残る古都である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%A2%E3%83%B3%E3%83%91%E3%83%90%E3%83%BC%E3%83%B3%E3%81%AE%E7%94%BA"
 ---
 
 <div class="main-desciption country-description">

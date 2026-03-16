@@ -19,6 +19,11 @@ sc: [
     ]
 additional_link:
     - ["Finland Doc for Geoguessr", "https://docs.google.com/presentation/d/1PeARCQFbP0Q7Uxuws3ELYcktA6j0Whbq9Mqz8xQARHM/edit#slide=id.g14913b7a907_1_0"]
+features:
+  - text: '国土に約<span class="quiz">18万8千</span>の湖があり「<span class="quiz">千の湖の国</span>」と呼ばれ、サウナ発祥の地でもある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
+  - text: '教育水準の高さで世界的に知られ、<span class="quiz">Nokia</span>の本社があり携帯電話産業の先駆者となった国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%82%AD%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

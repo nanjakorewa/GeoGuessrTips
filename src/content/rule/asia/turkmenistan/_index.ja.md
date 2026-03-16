@@ -13,6 +13,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '国土の約80%を<span class="quiz">カラクム砂漠</span>が占めている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%A9%E3%82%AF%E3%83%A0%E7%A0%82%E6%BC%A0"
+  - text: '「<span class="quiz">地獄の門</span>」と呼ばれるダルヴァザの天然ガスクレーターが有名である'
+    ref: "https://ja.wikipedia.org/wiki/%E5%9C%B0%E7%8D%84%E3%81%AE%E9%96%80_(%E3%83%88%E3%83%AB%E3%82%AF%E3%83%A1%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3)"
 ---
 
 <div class="main-desciption country-description">

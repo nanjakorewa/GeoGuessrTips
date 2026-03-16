@@ -14,6 +14,11 @@ sc_title: "関連する地域"
 sc: [
     ["../../asia/chagos-around/", "チャゴス諸島"],
     ]
+features:
+  - text: 'インド系・アフリカ系・中国系など多民族が共存する<span class="quiz">多文化</span>国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%B7%E3%83%A3%E3%82%B9"
+  - text: '絶滅した<span class="quiz">ドードー</span>の生息地として知られ、国章にも描かれている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%BC%E3%83%89%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

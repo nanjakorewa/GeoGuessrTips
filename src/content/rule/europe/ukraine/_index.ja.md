@@ -16,6 +16,11 @@ sc: [
     ["../poland/", "ポーランド"],
     ["../serbia/", "セルビア"],
     ]
+features:
+  - text: 'ヨーロッパ最大の国土面積を持ち（ロシアを除く）、「<span class="quiz">ヨーロッパのパンかご</span>」と呼ばれる肥沃な<span class="quiz">黒土</span>地帯が広がる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A"
+  - text: '<span class="quiz">チェルノブイリ</span>原子力発電所事故の跡地があり、首都<span class="quiz">キーウ</span>の聖ソフィア大聖堂は世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%BC%E3%82%A6"
 ---
 
 <div class="main-desciption country-description">

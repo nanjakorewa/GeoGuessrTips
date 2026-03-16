@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "350px"
 is_unofficial: true
+features:
+  - text: '国土の約<span class="quiz">90%</span>が砂漠であり、アフリカ最大の石油埋蔵量を持つ国の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%93%E3%82%A2"
+  - text: '古代ローマの遺跡<span class="quiz">レプティス・マグナ</span>が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%97%E3%83%86%E3%82%A3%E3%82%B9%E3%83%BB%E3%83%9E%E3%82%B0%E3%83%8A"
 ---
 
 <div class="main-desciption country-description">

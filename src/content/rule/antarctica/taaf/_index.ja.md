@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '<span class="quiz">フランス</span>が管理する南インド洋および南極周辺の無人島群である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E5%8D%97%E6%96%B9%E3%83%BB%E5%8D%97%E6%A5%B5%E5%9C%B0%E5%9F%9F"
+  - text: '<span class="quiz">ケルゲレン諸島</span>を含み数種のペンギンやアザラシの繁殖地となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B1%E3%83%AB%E3%82%B2%E3%83%AC%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

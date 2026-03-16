@@ -17,6 +17,11 @@ sc: [
     ["../singapore/", "シンガポール"],
 ]
 flag_height: "380px"
+features:
+  - text: '<span class="quiz">マレー半島</span>とボルネオ島北部から構成される多民族国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AC%E3%83%BC%E3%82%B7%E3%82%A2"
+  - text: '首都クアラルンプールの<span class="quiz">ペトロナスツインタワー</span>は世界で最も高いツインタワーである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%88%E3%83%AD%E3%83%8A%E3%82%B9%E3%83%84%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%AF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

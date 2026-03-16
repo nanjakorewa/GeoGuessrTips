@@ -17,6 +17,11 @@ sc: [
     ["../rdc/", "コンゴ共和国"],
     ["../../europe/france/", "フランス"],
     ]
+features:
+  - text: 'アフリカ大陸で<span class="quiz">2番目</span>に面積が大きい国であり、コンゴ川流域に広大な熱帯雨林が広がる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '世界最大の<span class="quiz">コバルト</span>産出国であり、レアメタルの供給源として重要な役割を担っている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E6%B0%91%E4%B8%BB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -19,6 +19,11 @@ sc: [
     ["../guam/", "グアム"],
     ["../northern_mariana_islands/", "北マリアナ諸島"],
     ]
+features:
+  - text: 'アメリカ合衆国唯一の<span class="quiz">南半球</span>に位置する領土である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
+  - text: '<span class="quiz">ポリネシア</span>文化が色濃く残り伝統的な村落共同体が維持されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%82%B5%E3%83%A2%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

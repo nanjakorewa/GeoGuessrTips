@@ -18,6 +18,11 @@ sc_title: "関連する地域"
 sc: [
     ["../../africa/mauritius/", "モーリシャス"],
     ]
+features:
+  - text: '<span class="quiz">インド洋</span>のほぼ中央に位置する環礁群で構成されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: '米軍の<span class="quiz">ディエゴガルシア基地</span>が置かれている戦略的要衝である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AC%E3%83%AB%E3%82%B7%E3%82%A2%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

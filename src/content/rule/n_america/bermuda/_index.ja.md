@@ -13,6 +13,11 @@ jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
 is_has_many_trekker: true
+features:
+  - text: '北大西洋に浮かぶイギリスの海外領土で、<span class="quiz">サンゴ礁</span>に囲まれた約150の島々からなる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6"
+  - text: '雨水を集めるために屋根が<span class="quiz">白い石灰岩</span>の階段状に造られている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%9F%E3%83%A5%E3%83%BC%E3%83%80%E8%AB%B8%E5%B3%B6#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

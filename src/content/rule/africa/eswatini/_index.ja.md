@@ -16,6 +16,11 @@ sc: [
     ["../south-africa/", "南アフリカ"],
     ["../lesotho/", "レソト"],
     ]
+features:
+  - text: 'アフリカに残る数少ない<span class="quiz">絶対君主制</span>の国家であり、2018年にスワジランドから国名を変更した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%AF%E3%83%86%E3%82%A3%E3%83%8B"
+  - text: '国土は標高によって<span class="quiz">ハイベルト</span>・ミドルベルト・ローベルトの3地域に分かれている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B9%E3%83%AF%E3%83%86%E3%82%A3%E3%83%8B#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

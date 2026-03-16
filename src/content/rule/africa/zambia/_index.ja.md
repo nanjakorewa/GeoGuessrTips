@@ -11,6 +11,11 @@ flag: "ZM.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: 'ジンバブエとの国境にある<span class="quiz">ヴィクトリアの滝</span>は世界三大瀑布の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%81%AE%E6%BB%9D"
+  - text: '<span class="quiz">銅</span>の産出で知られるカッパーベルトがあり、銅の輸出が経済の中心となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%83%93%E3%82%A2#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

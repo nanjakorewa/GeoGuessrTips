@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '<span class="quiz">フランス</span>の海外領土であり世界有数の<span class="quiz">ニッケル</span>産出地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2"
+  - text: '周囲のサンゴ礁は<span class="quiz">世界遺産</span>に登録されており生物多様性が豊かである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%AB%E3%83%AC%E3%83%89%E3%83%8B%E3%82%A2%E3%81%AE%E3%83%A9%E3%82%B0%E3%83%BC%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

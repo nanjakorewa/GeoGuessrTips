@@ -21,6 +21,11 @@ products:
   - title: "FRUITYエキストラバージン オリーブオイル"
     url: https://amzn.to/3FaXRiR
     description: "アタカマ砂漠周辺（<a href='https://maps.app.goo.gl/qcUjzPs4yBtAF3sG6' target='_blank'>ここ？</a>）で生産しているオリーブだけを使ったオリーブオイル。"
+features:
+  - text: '南北約4300kmに及ぶ細長い国土で、世界で最も乾燥した<span class="quiz">アタカマ砂漠</span>がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%82%AB%E3%83%9E%E7%A0%82%E6%BC%A0"
+  - text: '世界最大の<span class="quiz">銅</span>の生産国であり、鉱業が経済の柱である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%AA#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

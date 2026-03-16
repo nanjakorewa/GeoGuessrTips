@@ -11,6 +11,11 @@ flag: "ZW.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '2000年代に世界最悪の<span class="quiz">ハイパーインフレーション</span>を経験し、自国通貨が廃止された'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%B3%E3%83%90%E3%83%96%E3%82%A8#%E7%B5%8C%E6%B8%88"
+  - text: '世界遺産の<span class="quiz">グレート・ジンバブエ</span>遺跡があり、国名の由来にもなっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%82%B8%E3%83%B3%E3%83%90%E3%83%96%E3%82%A8%E9%81%BA%E8%B7%A1"
 ---
 
 <div class="main-desciption country-description">

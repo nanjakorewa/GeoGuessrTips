@@ -16,6 +16,11 @@ sc: [
     ["../slovakia", "スロバキア"],
     ["../slovenia", "スロベニア"],
     ]
+features:
+  - text: '首都<span class="quiz">プラハ</span>は「<span class="quiz">百塔の街</span>」と呼ばれ、歴史地区全体がユネスコ世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8F"
+  - text: '国民一人当たりの<span class="quiz">ビール</span>消費量が世界一で、<span class="quiz">ピルスナー</span>ビール発祥の地であるプルゼニがある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AB%E3%82%BC%E3%83%8B"
 ---
 
 <div class="main-desciption country-description">

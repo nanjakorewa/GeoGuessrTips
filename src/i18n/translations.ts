@@ -99,6 +99,13 @@ export const translations: Record<string, Record<Language, string>> = {
     es: "large",
     pt: "grande",
   },
+  "country-features": {
+    ja: "この国・地域の特徴",
+    en: "Country / Region Features",
+    id: "Karakteristik Negara / Wilayah",
+    es: "Características del país / región",
+    pt: "Características do país / região",
+  },
   "rel-site": {
     ja: "関連ページ",
     en: "Related Pages",

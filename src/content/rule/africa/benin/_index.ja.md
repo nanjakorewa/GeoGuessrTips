@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '<span class="quiz">ブードゥー教</span>発祥の地とされ、現在も国民の約17%が信仰している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%83%89%E3%82%A5%E3%83%BC%E6%95%99"
+  - text: '旧フランス植民地で公用語は<span class="quiz">フランス語</span>、かつてはダホメ王国として知られていた'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8A%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

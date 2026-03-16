@@ -17,6 +17,11 @@ sc: [
     ["../namibia/", "ナミビア"],
     ["../south-africa/", "南アフリカ"],
     ]
+features:
+  - text: '国土の約<span class="quiz">70%</span>が<span class="quiz">カラハリ砂漠</span>に覆われている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%84%E3%83%AF%E3%83%8A"
+  - text: '<span class="quiz">ダイヤモンド</span>の産出量が世界有数であり、独立後の経済成長を支えている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%84%E3%83%AF%E3%83%8A#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -21,6 +21,11 @@ sc: [
     ["../../cs_america/peru/", "ペルー"],
     ["../malaysia/", "マレーシア"],
     ]
+features:
+  - text: '約<span class="quiz">1万7000</span>の島々からなる世界最大の<span class="quiz">島嶼国家</span>である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2"
+  - text: '世界最大の<span class="quiz">ムスリム</span>人口を擁する国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%83%8D%E3%82%B7%E3%82%A2%E3%81%AE%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

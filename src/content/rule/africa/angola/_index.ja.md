@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '公用語は<span class="quiz">ポルトガル語</span>で、旧ポルトガル植民地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9"
+  - text: '<span class="quiz">石油</span>と<span class="quiz">ダイヤモンド</span>が主要な輸出品で、サブサハラアフリカ有数の産油国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%82%B4%E3%83%A9#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

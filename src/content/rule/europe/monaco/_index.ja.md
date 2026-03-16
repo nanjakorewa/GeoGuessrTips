@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../italy/", "イタリア"],
     ]
+features:
+  - text: 'バチカンに次いで世界で2番目に小さい国で、面積はわずか約<span class="quiz">2km²</span>しかない<span class="quiz">都市国家</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3"
+  - text: '<span class="quiz">F1モナコグランプリ</span>の開催地であり、<span class="quiz">カジノ</span>で有名な高級リゾート国家で所得税がない'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%82%B3%E3%82%B0%E3%83%A9%E3%83%B3%E3%83%97%E3%83%AA"
 ---
 
 <div class="main-desciption country-description">

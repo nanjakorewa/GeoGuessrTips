@@ -19,6 +19,11 @@ sc: [
     ["../oman/", "オマーン"],
     ["../lebanon/", "レバノン"],
     ]
+features:
+  - text: '7つの首長国から構成され<span class="quiz">ドバイ</span>は世界有数の商業・観光都市である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%90%E3%82%A4"
+  - text: '世界一高い超高層ビル<span class="quiz">ブルジュ・ハリファ</span>がドバイにある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%B8%E3%83%A5%E3%83%BB%E3%83%8F%E3%83%AA%E3%83%95%E3%82%A1"
 ---
 
 <div class="main-desciption country-description">

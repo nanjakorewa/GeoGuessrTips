@@ -20,6 +20,11 @@ sc: [
     ["../luxembourg/", "ルクセンブルグ"],
     ["../portugal/", "ポルトガル"],
     ]
+features:
+  - text: '<span class="quiz">EU</span>本部や<span class="quiz">NATO</span>本部が置かれる首都ブリュッセルを擁し、ヨーロッパの政治的中心地'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AA%E3%83%A5%E3%83%83%E3%82%BB%E3%83%AB"
+  - text: 'オランダ語圏の<span class="quiz">フランデレン</span>とフランス語圏のワロンに分かれ、<span class="quiz">チョコレート</span>とビールの生産で世界的に有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%82%AE%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

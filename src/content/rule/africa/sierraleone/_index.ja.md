@@ -11,6 +11,11 @@ flag: "SL.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '国名は<span class="quiz">ポルトガル語</span>で「ライオンの山」を意味し、フリータウン半島の山々に由来する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A8%E3%83%A9%E3%83%AC%E3%82%AA%E3%83%8D"
+  - text: '<span class="quiz">ダイヤモンド</span>の産出国として知られ、紛争ダイヤモンドが内戦の資金源となった歴史がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%A8%E3%83%A9%E3%83%AC%E3%82%AA%E3%83%8D%E5%86%85%E6%88%A6"
 ---
 
 <div class="main-desciption country-description">

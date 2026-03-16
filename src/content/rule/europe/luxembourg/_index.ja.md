@@ -19,6 +19,11 @@ sc: [
     ["../germany/", "ドイツ"],
     ["../france/", "フランス"],
     ]
+features:
+  - text: '<span class="quiz">ルクセンブルク語</span>・フランス語・ドイツ語の<span class="quiz">3つの公用語</span>を持つ多言語国家'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF%E8%AA%9E"
+  - text: '一人当たりGDPが世界最高水準の<span class="quiz">金融</span>立国で、EU主要機関の一部が置かれている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%82%AF%E3%82%BB%E3%83%B3%E3%83%96%E3%83%AB%E3%82%AF"
 ---
 
 <div class="main-desciption country-description">

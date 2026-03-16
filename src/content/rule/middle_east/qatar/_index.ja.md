@@ -18,6 +18,11 @@ sc: [
     ["../oman/", "オマーン"],
     ["../united_arab_emirates/", "アラブ首長国連邦"],
     ]
+features:
+  - text: '世界最大級の<span class="quiz">天然ガス</span>埋蔵量を持ち一人当たりGDPが世界最高水準である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%83%BC%E3%83%AB"
+  - text: '2022年に中東初の<span class="quiz">FIFAワールドカップ</span>が開催された'
+    ref: "https://ja.wikipedia.org/wiki/2022_FIFA%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%AB%E3%83%83%E3%83%97"
 ---
 
 <div class="main-desciption country-description">

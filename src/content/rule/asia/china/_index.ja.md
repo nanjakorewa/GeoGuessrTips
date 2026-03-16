@@ -17,6 +17,11 @@ sc: [
     ["../macau/", "澳門"],
     ["../hongkong/", "香港"],
     ]
+features:
+  - text: '世界最大の<span class="quiz">人口</span>を有する国の一つであり56の民族で構成される多民族国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E8%8F%AF%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '<span class="quiz">万里の長城</span>は世界遺産に登録されており全長は約2万kmに及ぶ'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B8%87%E9%87%8C%E3%81%AE%E9%95%B7%E5%9F%8E"
 ---
 
 <div class="main-desciption country-description">

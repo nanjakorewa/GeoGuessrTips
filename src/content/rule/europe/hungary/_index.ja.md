@@ -16,6 +16,11 @@ sc: [
     ["../serbia/", "セルビア"],
     ["../croatia/", "クロアチア"],
     ]
+features:
+  - text: '国土の大部分が<span class="quiz">大平原</span>（プスタ）で、<span class="quiz">ドナウ川</span>が首都ブダペストを二分して流れる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%B9%E3%82%BF"
+  - text: '<span class="quiz">マジャル人</span>の国で、ヨーロッパでは珍しく<span class="quiz">ウラル語族</span>に属するハンガリー語を話す'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%AA%E3%83%BC%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

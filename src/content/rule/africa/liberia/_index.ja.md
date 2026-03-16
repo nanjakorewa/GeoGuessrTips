@@ -11,6 +11,11 @@ flag: "LR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: 'アメリカの解放奴隷によって建国され、国名は<span class="quiz">自由（Liberty）</span>に由来する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%99%E3%83%AA%E3%82%A2"
+  - text: '世界最大規模の<span class="quiz">便宜置籍船</span>（リベリア船籍）の登録国として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E4%BE%BF%E5%AE%9C%E7%BD%AE%E7%B1%8D%E8%88%B9"
 ---
 
 <div class="main-desciption country-description">

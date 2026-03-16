@@ -17,6 +17,11 @@ sc: [
     ["../united-kingdom/", "イギリス"],
     ["../spain/", "スペイン"],
     ]
+features:
+  - text: 'イベリア半島南端に位置する<span class="quiz">イギリス</span>の海外領土で、面積はわずか約<span class="quiz">6.5km²</span>しかない'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB"
+  - text: '<span class="quiz">ジブラルタルの岩</span>（ザ・ロック）が街のシンボルで、野生の<span class="quiz">バーバリーマカク</span>（サル）がヨーロッパ唯一の野生霊長類として生息する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%96%E3%83%A9%E3%83%AB%E3%82%BF%E3%83%AB%E3%81%AE%E5%B2%A9"
 ---
 
 <div class="main-desciption country-description">

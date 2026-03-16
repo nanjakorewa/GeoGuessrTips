@@ -13,6 +13,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '中米に位置し、<span class="quiz">バナナ</span>の輸出で知られ「バナナ共和国」の語源となった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%82%B8%E3%83%A5%E3%83%A9%E3%82%B9"
+  - text: 'マヤ文明の遺跡<span class="quiz">コパン</span>が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%91%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

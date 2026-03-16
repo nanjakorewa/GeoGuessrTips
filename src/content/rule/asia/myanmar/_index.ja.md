@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '2006年に首都が<span class="quiz">ヤンゴン</span>から<span class="quiz">ネピドー</span>に移転された'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%94%E3%83%89%E3%83%BC"
+  - text: '<span class="quiz">シュエダゴン・パゴダ</span>は高さ約100mの黄金の仏塔でミャンマー最大の聖地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A5%E3%82%A8%E3%83%80%E3%82%B4%E3%83%B3%E3%83%BB%E3%83%91%E3%82%B4%E3%83%80"
 ---
 
 <div class="main-desciption country-description">

@@ -11,6 +11,11 @@ flag: "GA.svg"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
+features:
+  - text: '国土の約<span class="quiz">85%</span>が熱帯雨林に覆われており、生物多様性が非常に豊かである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%9C%E3%83%B3"
+  - text: '<span class="quiz">石油</span>と<span class="quiz">マンガン</span>の輸出が経済の中心であり、アフリカの中では比較的所得が高い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%9C%E3%83%B3#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

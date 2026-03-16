@@ -18,6 +18,11 @@ sc: [
     ["../italy/", "イタリア"],
     ["../balearic-islands/", "バレアレス諸島"],
     ]
+features:
+  - text: 'EU最小の加盟国で、<span class="quiz">マルタ語</span>はアラビア語に起源を持つ唯一のEU公用語である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%82%BF%E8%AA%9E"
+  - text: '<span class="quiz">マルタ騎士団</span>の本拠地であった歴史を持ち、首都<span class="quiz">バレッタ</span>の街全体が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%83%83%E3%82%BF"
 ---
 
 

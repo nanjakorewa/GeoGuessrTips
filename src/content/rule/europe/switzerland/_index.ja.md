@@ -18,6 +18,11 @@ sc: [
     ["../liechtenstein/", "リヒテンシュタイン"],
     ["../../asia/japan/", "日本"],
     ]
+features:
+  - text: '<span class="quiz">永世中立国</span>であり、<span class="quiz">ドイツ語</span>・フランス語・イタリア語・ロマンシュ語の4つの公用語を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A4%E3%82%B9"
+  - text: '<span class="quiz">赤十字</span>国際委員会や多くの国際機関の本部が<span class="quiz">ジュネーヴ</span>に置かれ、精密時計産業でも世界的に有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%8D%E3%83%BC%E3%83%B4"
 ---
 
 <div class="main-desciption country-description">

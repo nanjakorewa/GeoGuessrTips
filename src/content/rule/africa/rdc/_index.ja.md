@@ -16,6 +16,11 @@ sc: [
     ["../rddc/", "コンゴ民主共和国"],
     ["../../europe/france/", "フランス"],
     ]
+features:
+  - text: '首都<span class="quiz">ブラザヴィル</span>はコンゴ川を挟んでコンゴ民主共和国の首都キンシャサと向かい合っている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B6%E3%83%B4%E3%82%A3%E3%83%AB"
+  - text: '旧<span class="quiz">フランス</span>植民地であり、石油輸出が経済の中心となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%B3%E3%82%B4%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

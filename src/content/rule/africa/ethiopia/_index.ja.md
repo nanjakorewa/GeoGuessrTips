@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "350px"
 is_unofficial: true
+features:
+  - text: 'アフリカ最古の独立国の一つであり、独自の<span class="quiz">ゲエズ文字</span>（エチオピア文字）を使用する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%A8%E3%82%BA%E6%96%87%E5%AD%97"
+  - text: '<span class="quiz">コーヒー</span>発祥の地とされ、独自の暦（エチオピア暦）を使用している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%81%E3%82%AA%E3%83%94%E3%82%A2#%E6%96%87%E5%8C%96"
 ---
 
 <div class="main-desciption country-description">

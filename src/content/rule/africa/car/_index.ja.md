@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '公用語は<span class="quiz">フランス語</span>と<span class="quiz">サンゴ語</span>で、旧フランス領赤道アフリカの一部だった'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '2022年に法定通貨として<span class="quiz">ビットコイン</span>を採用した世界で2番目の国である'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B8%AD%E5%A4%AE%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

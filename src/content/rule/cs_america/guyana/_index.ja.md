@@ -11,6 +11,11 @@ flag: "GY.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '南米大陸で唯一<span class="quiz">英語</span>を公用語とする国で、旧イギリス植民地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%82%A4%E3%82%A2%E3%83%8A"
+  - text: '世界最大級の単一落差を持つ<span class="quiz">カイエトゥール滝</span>がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%A4%E3%82%A8%E3%83%88%E3%82%A5%E3%83%BC%E3%83%AB%E6%BB%9D"
 ---
 
 <div class="main-desciption country-description">

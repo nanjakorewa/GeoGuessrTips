@@ -18,6 +18,11 @@ sc: [
     ["../india/", "インド本土の降水量が多い地域"],
     ["../lakshadweep/", "ラクシャドウィープ"],
     ]
+features:
+  - text: '<span class="quiz">ベンガル湾</span>に位置するインドの連邦直轄領で約570の島々からなる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%80%E3%83%9E%E3%83%B3%E3%83%BB%E3%83%8B%E3%82%B3%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
+  - text: '先住民族の<span class="quiz">センチネル族</span>は外部との接触を拒否している世界でも稀な部族である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%B3%E3%83%81%E3%83%8D%E3%83%AB%E6%97%8F"
 ---
 
 <div class="main-desciption country-description">

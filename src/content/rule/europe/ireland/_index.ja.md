@@ -17,6 +17,11 @@ sc: [
     ["../mannin/", "マン島"],
     ["../malta/", "マルタ"],
     ]
+features:
+  - text: '「<span class="quiz">エメラルドの島</span>」と呼ばれる緑豊かな国で、<span class="quiz">ギネスビール</span>発祥の地として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8D%E3%82%B9_(%E3%83%93%E3%83%BC%E3%83%AB)"
+  - text: '<span class="quiz">ケルト文化</span>の中心地であり、アイルランド語（<span class="quiz">ゲール語</span>）と英語の二言語が公用語となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%AB%E3%83%A9%E3%83%B3%E3%83%89%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

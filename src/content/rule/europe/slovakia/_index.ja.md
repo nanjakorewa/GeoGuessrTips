@@ -16,6 +16,11 @@ sc: [
     ["../czechia", "チェコ"],
     ["../bulgaria/", "ブルガリア"],
     ]
+features:
+  - text: '1993年にチェコスロバキアから平和的に分離した「<span class="quiz">ビロード離婚</span>」で誕生した国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%AD%E3%83%BC%E3%83%89%E9%9B%A2%E5%A9%9A"
+  - text: '国土の北部に<span class="quiz">タトラ山脈</span>がそびえ、<span class="quiz">スピシュ城</span>などの中世の城が数多く残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%88%E3%83%A9%E5%B1%B1%E8%84%88"
 ---
 
 <div class="main-desciption country-description">

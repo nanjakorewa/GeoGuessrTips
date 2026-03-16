@@ -19,6 +19,9 @@ sc: [
     ["../ecuador/", "エクアドル"],
     ["../../asia/", "東南アジアの田舎"],
     ]
+features:
+  - text: 'インカ帝国の中心地であり、<span class="quiz">マチュ・ピチュ</span>などの遺跡が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%81%E3%83%A5%E3%83%BB%E3%83%94%E3%83%81%E3%83%A5"
 ---
 
 <div class="main-desciption country-description">

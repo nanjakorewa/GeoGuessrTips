@@ -19,6 +19,11 @@ sc: [
     ["../guam/", "グアム"],
     ["../../n_america/puerto-rico/", "プエルトリコ"],
     ]
+features:
+  - text: '日本統治時代の名残で<span class="quiz">日本語</span>由来の地名や建造物が残っている'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8C%97%E3%83%9E%E3%83%AA%E3%82%A2%E3%83%8A%E8%AB%B8%E5%B3%B6"
+  - text: '<span class="quiz">サイパン島</span>が主島であり太平洋戦争の激戦地でもあった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A4%E3%83%91%E3%83%B3%E3%81%AE%E6%88%A6%E3%81%84"
 ---
 
 <div class="main-desciption country-description">

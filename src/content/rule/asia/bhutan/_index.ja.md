@@ -18,6 +18,11 @@ sc: [
     ["../nepal/", "ネパール"],
     ["../../cs_america/peru/", "ペルー"],
     ]
+features:
+  - text: '国民の幸福度を測る<span class="quiz">国民総幸福量（GNH）</span>という独自の指標を採用している'
+    ref: "https://ja.wikipedia.org/wiki/%E5%9B%BD%E6%B0%91%E7%B7%8F%E5%B9%B8%E7%A6%8F%E9%87%8F"
+  - text: '<span class="quiz">ヒマラヤ山脈</span>の東端に位置し国土の大部分が山岳地帯である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%BC%E3%82%BF%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

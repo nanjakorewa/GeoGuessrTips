@@ -15,6 +15,11 @@ sc: [
     ["../../europe/spain/", "スペイン本土"],
     ["../ceuta/", "セウタ"],
     ]
+features:
+  - text: 'アフリカ大陸北岸に位置する<span class="quiz">スペイン</span>の自治都市である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%AA%E3%83%A3"
+  - text: '<span class="quiz">モロッコ</span>との国境にフェンスが設置されており、ヨーロッパとアフリカの境界に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AA%E3%83%AA%E3%83%A3#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

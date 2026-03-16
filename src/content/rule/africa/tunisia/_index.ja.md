@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../middle_east/jordan/", "ヨルダン"],
     ]
+features:
+  - text: 'アフリカ大陸の<span class="quiz">最北端</span>に位置し、地中海に面した北アフリカの国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A5%E3%83%8B%E3%82%B8%E3%82%A2"
+  - text: '古代<span class="quiz">カルタゴ</span>の遺跡が世界遺産に登録されており、フェニキア文明の中心地だった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AB%E3%82%BF%E3%82%B4"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,11 @@ sc: [
     ["../svalbard/", "スヴァールバル諸島"],
     ["../united-kingdom/", "イギリス北部"],
     ]
+features:
+  - text: '複雑に入り組んだ<span class="quiz">フィヨルド</span>海岸線が特徴で、<span class="quiz">北海油田</span>からの石油・天然ガス収入により世界有数の裕福な国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%AB%E3%82%A6%E3%82%A7%E3%83%BC"
+  - text: '冬季には北部で<span class="quiz">オーロラ</span>が観測でき、<span class="quiz">ノーベル平和賞</span>の授賞式がオスロで行われる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E5%B9%B3%E5%92%8C%E8%B3%9E"
 ---
 
 <div class="main-desciption country-description">

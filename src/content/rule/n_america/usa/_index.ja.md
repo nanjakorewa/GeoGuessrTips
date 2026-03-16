@@ -23,6 +23,11 @@ maps: [
     ["https://www.geoguessr.com/maps/5fb4a16924491b00010c608d", "US State-Specific Clues"],
     ["https://www.geoguessr.com/maps/5ab6b56818399e27583294d0", "United States (no blurry)"],
     ]
+features:
+  - text: '50の州と1つの連邦直轄地からなり、世界最大の<span class="quiz">GDP</span>を持つ国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD"
+  - text: '国土は北米大陸の中央部と<span class="quiz">アラスカ</span>・ハワイの飛び地から構成される'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E5%90%88%E8%A1%86%E5%9B%BD#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

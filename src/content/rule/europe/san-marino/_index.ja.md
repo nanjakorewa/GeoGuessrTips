@@ -19,6 +19,11 @@ sc: [
     ["../italy/", "イタリア"],
     ["../croatia/", "クロアチア"],
     ]
+features:
+  - text: '世界最古の<span class="quiz">共和国</span>とされ、301年に聖マリノによって建国されたと伝えられる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%9E%E3%83%AA%E3%83%8E"
+  - text: 'イタリアに完全に囲まれた国で、<span class="quiz">ティターノ山</span>の山頂に3つの塔が立つ景観がシンボルとなっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%82%BF%E3%83%BC%E3%83%8E%E5%B1%B1"
 ---
 
 <div class="main-desciption country-description">

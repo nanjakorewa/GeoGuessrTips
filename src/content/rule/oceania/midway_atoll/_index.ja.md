@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../n_america/usa/region4/", "北西ハワイ諸島のターン島"],
     ]
+features:
+  - text: '1942年の<span class="quiz">ミッドウェー海戦</span>の舞台となった太平洋戦争の重要な戦場である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E6%B5%B7%E6%88%A6"
+  - text: '現在は<span class="quiz">国立野生生物保護区</span>に指定されアホウドリの繁殖地となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%83%E3%83%89%E3%82%A6%E3%82%A7%E3%83%BC%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

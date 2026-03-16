@@ -19,6 +19,11 @@ sc: [
     ["../../asia/philippines/", "フィリピン"],
     ["../../oceania/pitcairn/", "ピトケアン諸島"],
     ]
+features:
+  - text: '中米に位置し<span class="quiz">軍隊を持たない</span>国として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB"
+  - text: '国土の約25%が<span class="quiz">国立公園や自然保護区</span>に指定されており生物多様性が豊か'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B9%E3%82%BF%E3%83%AA%E3%82%AB#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

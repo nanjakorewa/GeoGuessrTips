@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド本土"],
     ]
+features:
+  - text: 'インドの<span class="quiz">連邦直轄領</span>であり36の島々から構成される<span class="quiz">サンゴ礁</span>の群島である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
+  - text: '住民の大多数が<span class="quiz">イスラム教</span>を信仰しておりインド本土とは文化的に異なる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%AF%E3%82%B7%E3%83%A3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%97%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,11 @@ sc: [
     ["../thai/", "タイ"],
     ["../vietnum/", "ベトナム"],
     ]
+features:
+  - text: '約<span class="quiz">7641</span>の島々から構成される東南アジアの群島国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3"
+  - text: 'アジアで唯一の<span class="quiz">カトリック</span>が多数派を占める国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%AA%E3%83%94%E3%83%B3#%E5%AE%97%E6%95%99"
 ---
 
 <div class="main-desciption country-description">

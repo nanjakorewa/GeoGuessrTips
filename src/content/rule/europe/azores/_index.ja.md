@@ -18,6 +18,11 @@ sc: [
     ["../../africa/madeira_islands/", "マデイラ諸島"],
     ["../../africa/canary_islands/", "カナリア諸島"],
     ]
+features:
+  - text: '大西洋の中央に位置するポルトガル領の<span class="quiz">火山群島</span>で、9つの島からなり<span class="quiz">アジサイ</span>の花が至る所に咲く'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BD%E3%83%BC%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: '<span class="quiz">大西洋中央海嶺</span>上に位置し、サンミゲル島には欧州唯一の<span class="quiz">茶</span>のプランテーションがある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%9F%E3%82%B2%E3%83%AB%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

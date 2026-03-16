@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+features:
+  - text: 'エクアドル本土から約1000km離れた<span class="quiz">火山</span>群島で、独自の生態系が発達している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'ダーウィンが<span class="quiz">進化論</span>の着想を得た地として知られ、世界初の世界遺産の一つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%A9%E3%83%91%E3%82%B4%E3%82%B9%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
 ---
 
 <div class="main-desciption country-description">

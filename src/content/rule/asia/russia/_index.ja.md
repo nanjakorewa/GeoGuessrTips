@@ -21,6 +21,11 @@ sc: [
     ["../../europe/ukraine/", "ウクライナ"],
     ["../kyrgyzstan/", "キルギスタン"],
     ]
+features:
+  - text: '世界最大の<span class="quiz">国土面積</span>を持ち11の<span class="quiz">標準時</span>にまたがっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%B7%E3%82%A2"
+  - text: '<span class="quiz">シベリア鉄道</span>は全長約9300kmで世界最長の鉄道路線である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%99%E3%83%AA%E3%82%A2%E9%89%84%E9%81%93"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,11 @@ sc: [
     ["../melilla/", "メリリャ"],
     ["../canary_islands/", "カナリア諸島"],
     ]
+features:
+  - text: 'アフリカ大陸北端に位置する<span class="quiz">スペイン</span>の自治都市で、ジブラルタル海峡に面している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A6%E3%82%BF"
+  - text: '<span class="quiz">モロッコ</span>と陸上国境を接しており、EUの域外国境の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A6%E3%82%BF#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

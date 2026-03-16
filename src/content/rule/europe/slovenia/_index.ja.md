@@ -17,6 +17,11 @@ sc: [
     ["../croatia/", "クロアチア"],
     ["../montenegro/", "モンテネグロ"],
     ]
+features:
+  - text: '国土の約<span class="quiz">60%</span>が森林に覆われ、<span class="quiz">ポストイナ鍾乳洞</span>はヨーロッパ最大級のカルスト洞窟'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%B9%E3%83%88%E3%82%A4%E3%83%8A%E9%8D%BE%E4%B9%B3%E6%B4%9E"
+  - text: '旧ユーゴスラビア構成国の中で最も早くEUに加盟し、<span class="quiz">ブレッド湖</span>の湖上教会は国の象徴的な景観'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

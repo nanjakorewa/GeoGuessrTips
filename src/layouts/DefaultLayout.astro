@@ -489,6 +489,20 @@ const lastmodDisplay = modifiedTime
             {/* Main content */}
             {hasContent && (
               <div class="content" data-pagefind-body>
+                {/* Country/region features card (from frontmatter) */}
+                {data.features && data.features.length > 0 && data.flag && !data.is_pref && (
+                  <div class="pref-tips">
+                    <div class="pref-tips-title">{t("country-features", lang)}</div>
+                    <ul>
+                      {data.features.map((f: {text: string, ref?: string}) => (
+                        <li>
+                          <Fragment set:html={f.text} />
+                          {f.ref && <a href={f.ref} target="_blank"><sup>[参]</sup></a>}
+                        </li>
+                      ))}
+                    </ul>
+                  </div>
+                )}
                 <slot />
 
                 {/* Related sites (country pages with flag) */}

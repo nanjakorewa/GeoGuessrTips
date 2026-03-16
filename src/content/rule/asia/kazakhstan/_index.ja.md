@@ -18,6 +18,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../middle_east/oman/", "オマーン"],
     ]
+features:
+  - text: '世界最大の<span class="quiz">内陸国</span>であり国土面積は世界第9位である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%B6%E3%83%95%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: '2019年に首都が<span class="quiz">ヌルスルタン</span>から<span class="quiz">アスタナ</span>に再び改名された'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%BF%E3%83%8A"
 ---
 
 <div class="main-desciption country-description">

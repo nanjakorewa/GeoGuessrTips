@@ -15,6 +15,11 @@ sc_title: "関連ページ"
 sc: [
     ["../../europe/united-kingdom/", "イギリス"],
     ]
+features:
+  - text: '「世界で最も<span class="quiz">孤立した有人島</span>」と呼ばれるイギリス海外領土である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%A3"
+  - text: '人口は約<span class="quiz">250人</span>程度で、空港がなく船でしかアクセスできない'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%AA%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%80%E3%82%AF%E3%83%BC%E3%83%8B%E3%83%A3#%E4%BA%BA%E5%8F%A3"
 ---
 
 <div class="main-desciption country-description">

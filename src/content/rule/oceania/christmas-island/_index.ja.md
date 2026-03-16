@@ -20,6 +20,11 @@ sc: [
     ["../australia/", "オーストラリア"],
     ["../cocos_islands/", "ココス諸島"],
     ]
+features:
+  - text: '毎年数千万匹の<span class="quiz">クリスマスアカガニ</span>が産卵のため海へ大移動する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E3%82%A2%E3%82%AB%E3%82%AC%E3%83%8B"
+  - text: 'インド洋に浮かぶ<span class="quiz">オーストラリア</span>の外部領土である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%9E%E3%82%B9%E5%B3%B6_(%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2)"
 ---
 
 <div class="main-desciption country-description">

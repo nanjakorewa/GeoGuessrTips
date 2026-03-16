@@ -11,6 +11,11 @@ flag: "TG.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '旧<span class="quiz">フランス</span>植民地であり、南北に細長い国土を持つ西アフリカの国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%B4"
+  - text: '<span class="quiz">リン鉱石</span>の輸出が主要産業であり、ロメ港は西アフリカの重要な貿易拠点となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%BC%E3%82%B4#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

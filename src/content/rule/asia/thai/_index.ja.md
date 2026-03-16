@@ -29,6 +29,11 @@ products:
   - title: "Roi Thai グリーンカレー 250ml"
     url: https://amzn.to/4dIlJHd
     description: "具になるものを炒めてこれをかけて少し煮込むといい感じのグリーンカレーになる（一部のカルディ店舗にも売っている気がするが最寄りには無かった）。レビューに甘すぎとあるが、別にそんなことはないと思う。"
+features:
+  - text: '東南アジアで唯一<span class="quiz">植民地化</span>されなかった国として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD"
+  - text: '仏教国であり国内には約<span class="quiz">4万</span>の仏教寺院が存在する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%82%A4%E7%8E%8B%E5%9B%BD#%E5%AE%97%E6%95%99"
 ---
 
 <div class="main-desciption country-description">

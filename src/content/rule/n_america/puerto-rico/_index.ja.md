@@ -18,6 +18,11 @@ sc: [
     ["../../oceania/guam/", "グアム"],
     ["../../oceania/northern_mariana_islands/", "北マリアナ諸島"],
     ]
+features:
+  - text: 'カリブ海に位置する<span class="quiz">アメリカの自治領</span>で、スペイン語と英語が公用語'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3"
+  - text: '16世紀にスペインが建設した<span class="quiz">サン・フアン</span>の旧市街は世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%83%95%E3%82%A2%E3%83%B3_(%E3%83%97%E3%82%A8%E3%83%AB%E3%83%88%E3%83%AA%E3%82%B3)"
 ---
 
 <div class="main-desciption country-description">

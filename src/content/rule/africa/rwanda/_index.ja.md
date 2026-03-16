@@ -17,6 +17,11 @@ sc: [
     ["../uganda/", "ウガンダ"],
     ["../kenya/", "ケニア"],
     ]
+features:
+  - text: '「<span class="quiz">千の丘の国</span>」と呼ばれ、国土全体が起伏に富んだ丘陵地帯となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AF%E3%83%B3%E3%83%80"
+  - text: '1994年の<span class="quiz">ジェノサイド</span>後に急速な経済成長を遂げ、ICT立国として注目されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%AF%E3%83%B3%E3%83%80#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,11 @@ sc: [
     ["../finland/", "フィンランド"],
     ["../../n_america/saint-pierre-miquelon/", "サンピエール島およびミクロン島"],
     ]
+features:
+  - text: 'フィンランドの<span class="quiz">自治領</span>でありながら公用語は<span class="quiz">スウェーデン語</span>のみという独自の地位を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: '非武装地帯として国際的に認められており、<span class="quiz">バルト海</span>に浮かぶ約6,700の島々からなる群島'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

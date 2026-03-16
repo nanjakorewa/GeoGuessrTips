@@ -17,6 +17,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../rwanda/", "ルワンダ"],
     ]
+features:
+  - text: '<span class="quiz">ヴィクトリア湖</span>に面し、白ナイル川の源流がある「アフリカの真珠」と呼ばれる国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%AC%E3%83%B3%E3%83%80"
+  - text: '絶滅危惧種の<span class="quiz">マウンテンゴリラ</span>の生息地として知られ、ブウィンディ原生国立公園が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%87%E3%82%A3%E5%8E%9F%E7%94%9F%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
 ---
 
 <div class="main-desciption country-description">

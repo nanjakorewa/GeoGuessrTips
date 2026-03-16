@@ -15,6 +15,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../reunion/", "レユニオン"],
     ]
+features:
+  - text: '1957年にサブサハラアフリカで最初に<span class="quiz">独立</span>を達成した国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%8A"
+  - text: '<span class="quiz">金</span>と<span class="quiz">カカオ</span>の主要産出国であり、旧称は「ゴールドコースト」である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%BC%E3%83%8A#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

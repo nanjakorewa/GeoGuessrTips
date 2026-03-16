@@ -13,6 +13,11 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_has_many_trekker: true
+features:
+  - text: '公用語は<span class="quiz">ダリー語</span>と<span class="quiz">パシュトー語</span>の2つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%82%AC%E3%83%8B%E3%82%B9%E3%82%BF%E3%83%B3"
+  - text: '首都は<span class="quiz">カーブル</span>であり国内最大の都市でもある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%96%E3%83%AB"
 ---
 
 <div class="main-desciption country-description">

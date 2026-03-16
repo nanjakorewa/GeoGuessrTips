@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+features:
+  - text: '活火山<span class="quiz">ヤスール山</span>は世界で最もアクセスしやすい活火山の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A4%E3%82%B9%E3%83%BC%E3%83%AB%E5%B1%B1"
+  - text: '<span class="quiz">バンジージャンプ</span>の起源とされるナゴール（ランドダイビング）の儀式がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8A%E3%82%B4%E3%83%BC%E3%83%AB"
 ---
 
 <div class="main-desciption country-description">

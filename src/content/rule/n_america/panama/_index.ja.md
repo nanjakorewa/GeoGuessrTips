@@ -18,6 +18,11 @@ sc: [
     ["../../africa/senegal/", "セネガル"],
     ["../../africa/kenya/", "ケニア"],
     ]
+features:
+  - text: '太平洋と大西洋を結ぶ<span class="quiz">パナマ運河</span>が通る交通の要衝である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E%E9%81%8B%E6%B2%B3"
+  - text: '通貨は<span class="quiz">米ドル</span>（バルボアと等価）が使用されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%8A%E3%83%9E#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

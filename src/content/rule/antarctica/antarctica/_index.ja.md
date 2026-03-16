@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../n_america/greenland/", "グリーンランド"],
     ]
+features:
+  - text: '地球上の<span class="quiz">淡水</span>の約70%が南極の氷床に閉じ込められている'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E5%A4%A7%E9%99%B8"
+  - text: '<span class="quiz">南極条約</span>により軍事利用が禁止され科学研究のために国際的に管理されている'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E6%A5%B5%E6%9D%A1%E7%B4%84"
 ---
 
 <div class="main-desciption country-description">

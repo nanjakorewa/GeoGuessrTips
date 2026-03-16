@@ -16,6 +16,11 @@ sc: [
     ["../../asia/russia/", "ロシア"],
     ["../ukraine/", "ウクライナ"],
     ]
+features:
+  - text: 'ヨーロッパ最後の<span class="quiz">独裁国家</span>とも呼ばれ、1994年から<span class="quiz">ルカシェンコ</span>大統領が権力を握り続けている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AC%E3%82%AF%E3%82%B5%E3%83%B3%E3%83%89%E3%83%AB%E3%83%BB%E3%83%AB%E3%82%AB%E3%82%B7%E3%82%A7%E3%83%B3%E3%82%B3"
+  - text: '国土の約40%が<span class="quiz">森林</span>に覆われ、ヨーロッパ最大の原生林<span class="quiz">ベラヴェシュスカヤ・プーシャ</span>がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%A9%E3%83%B4%E3%82%A7%E3%82%B7%E3%83%A5%E3%82%B9%E3%82%AB%E3%83%A4%E3%83%BB%E3%83%97%E3%83%BC%E3%82%B7%E3%83%A3"
 ---
 
 <div class="main-desciption country-description">

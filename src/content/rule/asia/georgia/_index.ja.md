@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '<span class="quiz">コーカサス山脈</span>の南側に位置しヨーロッパとアジアの境界にある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2"
+  - text: '世界最古の<span class="quiz">ワイン</span>発祥地の一つとされ約8000年の歴史を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%82%A2%E3%81%AE%E3%83%AF%E3%82%A4%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

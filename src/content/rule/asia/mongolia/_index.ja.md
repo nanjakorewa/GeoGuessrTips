@@ -15,6 +15,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../kyrgyzstan/", "キルギスタン"],
     ]
+features:
+  - text: '遊牧民の伝統的な移動式住居である<span class="quiz">ゲル</span>が現在でも広く使用されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B2%E3%83%AB_(%E5%AE%B6%E5%B1%8B)"
+  - text: '<span class="quiz">チンギス・ハン</span>が建国したモンゴル帝国は史上最大の陸上帝国であった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B4%E3%83%AB%E5%B8%9D%E5%9B%BD"
 ---
 
 <div class="main-desciption country-description">

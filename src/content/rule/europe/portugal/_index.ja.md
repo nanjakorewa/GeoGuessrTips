@@ -17,6 +17,11 @@ sc: [
     ["../../africa/madeira_islands/", "マデイラ諸島"],
     ["../belgium/", "ベルギー"],
     ]
+features:
+  - text: '大航海時代に<span class="quiz">ヴァスコ・ダ・ガマ</span>がインド航路を発見するなど、海洋探検の先駆者となった国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A1%E3%82%B9%E3%82%B3%E3%83%BB%E3%83%80%E3%83%BB%E3%82%AC%E3%83%9E"
+  - text: '<span class="quiz">アズレージョ</span>と呼ばれる装飾タイルが街中に見られ、<span class="quiz">ファド</span>は国民的な音楽としてユネスコ無形文化遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

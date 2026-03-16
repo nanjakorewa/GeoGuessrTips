@@ -17,6 +17,11 @@ sc: [
     ["../hungary/", "ハンガリー"],
     ["../slovakia/", "スロバキア"],
     ]
+features:
+  - text: '<span class="quiz">キリル文字</span>発祥の地とされ、EU加盟国で唯一キリル文字を公式に使用する国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%AB%E6%96%87%E5%AD%97"
+  - text: '世界の<span class="quiz">バラ油</span>生産量の約85%を占める<span class="quiz">バラの谷</span>（カザンラク周辺）があり、香水産業の原料供給地として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%A9%E3%81%AE%E8%B0%B7"
 ---
 
 <div class="main-desciption country-description">

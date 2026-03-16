@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 is_has_many_trekker: true
 plonkit: true
+features:
+  - text: '<span class="quiz">ナイル川</span>流域に人口が集中しており、国土の大部分は砂漠である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%B8%E3%83%97%E3%83%88"
+  - text: '<span class="quiz">ギザの三大ピラミッド</span>や<span class="quiz">スフィンクス</span>など古代エジプト文明の遺跡が多数存在する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%B6%E3%81%AE%E4%B8%89%E5%A4%A7%E3%83%94%E3%83%A9%E3%83%9F%E3%83%83%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

@@ -15,6 +15,9 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../argentina/", "アルゼンチン"],
     ]
+features:
+  - text: '南米で最も面積が小さい国の一つで、国土全体が<span class="quiz">パンパ</span>と呼ばれる草原地帯に覆われている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%82%B0%E3%82%A2%E3%82%A4"
 ---
 
 <div class="main-desciption country-description">

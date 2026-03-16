@@ -12,6 +12,11 @@ flag_height: "340px"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
+features:
+  - text: '<span class="quiz">モルドバ</span>から事実上独立した未承認国家で、<span class="quiz">ドニエストル川</span>東岸に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E6%B2%BF%E3%83%89%E3%83%8B%E3%82%A8%E3%82%B9%E3%83%88%E3%83%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '旧<span class="quiz">ソ連</span>の雰囲気が色濃く残り、独自の通貨・軍隊・憲法を持つがどの<span class="quiz">国連</span>加盟国からも承認されていない'
+    ref: "https://ja.wikipedia.org/wiki/%E6%B2%BF%E3%83%89%E3%83%8B%E3%82%A8%E3%82%B9%E3%83%88%E3%83%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
 ---
 
 <div class="main-desciption country-description">

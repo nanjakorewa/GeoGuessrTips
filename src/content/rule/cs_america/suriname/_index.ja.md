@@ -11,6 +11,11 @@ flag: "SR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '南米で唯一<span class="quiz">オランダ語</span>を公用語とする国で、1975年にオランダから独立した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%8A%E3%83%A0"
+  - text: '首都<span class="quiz">パラマリボ</span>の歴史地区はオランダ植民地時代の建築が残り世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%83%9E%E3%83%AA%E3%83%9C%E5%B8%82%E8%A1%97%E6%AD%B4%E5%8F%B2%E5%9C%B0%E5%8C%BA"
 ---
 
 <div class="main-desciption country-description">

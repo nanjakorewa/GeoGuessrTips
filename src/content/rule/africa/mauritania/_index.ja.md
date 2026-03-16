@@ -11,6 +11,11 @@ flag: "MR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '国土のほとんどが<span class="quiz">サハラ砂漠</span>に覆われており、農業はセネガル川沿岸に限られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%BF%E3%83%8B%E3%82%A2"
+  - text: '<span class="quiz">鉄鉱石</span>の輸出が主要産業であり、世界最長の貨物列車が鉱山から港まで運行している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%BC%E3%83%AA%E3%82%BF%E3%83%8B%E3%82%A2#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

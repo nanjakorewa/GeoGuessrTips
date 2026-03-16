@@ -23,6 +23,11 @@ sc: [
     ["../../asia/indonesia/", "インドネシア"],
     ["../../asia/thai/", "タイ"],
     ]
+features:
+  - text: '南米最大の面積と人口を持ち、公用語は南米で唯一の<span class="quiz">ポルトガル語</span>である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%A9%E3%82%B8%E3%83%AB"
+  - text: '国土の約60%を<span class="quiz">アマゾン熱帯雨林</span>が占め、世界最大の生物多様性を有する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%9E%E3%82%BE%E3%83%B3%E7%86%B1%E5%B8%AF%E9%9B%A8%E6%9E%97"
 ---
 
 <div class="main-desciption country-description">

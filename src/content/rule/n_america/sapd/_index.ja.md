@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../cs_america/colombia/", "コロンビア"],
     ]
+features:
+  - text: 'カリブ海に浮かぶ<span class="quiz">コロンビア</span>領の諸島で、中米ニカラグアの東方に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E3%83%BB%E3%83%97%E3%83%AD%E3%83%93%E3%83%87%E3%83%B3%E3%82%B7%E3%82%A2%E3%83%BB%E3%82%A4%E3%83%BB%E3%82%B5%E3%83%B3%E3%82%BF%E3%83%BB%E3%82%AB%E3%82%BF%E3%83%AA%E3%83%BC%E3%83%8A%E7%9C%8C"
+  - text: '世界有数の<span class="quiz">サンゴ礁</span>の海に囲まれておりダイビングスポットとして知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%83%BB%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AC%E3%82%B9%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

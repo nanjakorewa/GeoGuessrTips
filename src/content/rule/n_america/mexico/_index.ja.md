@@ -21,6 +21,11 @@ sc: [
     ["../panama/", "パナマ"],
     ["../usa/", "アメリカ"],
     ]
+features:
+  - text: '<span class="quiz">アステカ文明</span>やマヤ文明が栄えた歴史を持つラテンアメリカ第2位の人口大国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3"
+  - text: '世界有数の<span class="quiz">銀</span>の生産国であり、鉱業が重要な産業である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%AD%E3%82%B7%E3%82%B3#%E9%89%B1%E6%A5%AD"
 ---
 
 <div class="main-desciption country-description">

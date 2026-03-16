@@ -24,6 +24,11 @@ products:
   - title: "Barnes Naturals マヌカハニー"
     url: https://amzn.to/3HiHb9F
     description: "マヌカの花から採取された蜂蜜。希少なため偽造品も多い。"
+features:
+  - text: '先住民<span class="quiz">マオリ</span>の文化が色濃く残り<span class="quiz">ハカ</span>は世界的に有名である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AA%E3%83%AA"
+  - text: '人口よりも<span class="quiz">羊</span>の数が多く世界有数の乳製品輸出国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%BC%E3%83%A9%E3%83%B3%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

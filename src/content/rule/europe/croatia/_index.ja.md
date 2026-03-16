@@ -18,6 +18,11 @@ sc: [
     ["../montenegro/", "モンテネグロ"],
     ["../greece/", "ギリシャ"],
     ]
+features:
+  - text: 'アドリア海沿岸の<span class="quiz">ダルマチア</span>地方は世界的な観光地で、<span class="quiz">ドゥブロヴニク</span>旧市街は「アドリア海の真珠」と呼ばれる世界遺産'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%82%A5%E3%83%96%E3%83%AD%E3%83%B4%E3%83%8B%E3%82%AF"
+  - text: '<span class="quiz">ネクタイ</span>の発祥地とされ、クロアチア語で「クロアチア人」を意味する言葉がネクタイの語源になったとされる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%82%AF%E3%82%BF%E3%82%A4"
 ---
 
 <div class="main-desciption country-description">

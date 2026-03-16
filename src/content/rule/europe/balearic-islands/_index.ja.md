@@ -17,6 +17,11 @@ sc: [
     ["../malta/", "マルタ"],
     ["../italy/", "イタリア"],
     ]
+features:
+  - text: 'スペイン東部の地中海に浮かぶ群島で、<span class="quiz">マヨルカ島</span>・メノルカ島・<span class="quiz">イビサ島</span>などからなるリゾート地'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%AC%E3%82%A2%E3%83%AC%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: 'イビサ島は<span class="quiz">クラブミュージック</span>の聖地として世界的に知られ、島全体が<span class="quiz">ユネスコ世界遺産</span>に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%93%E3%82%B5%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

@@ -20,6 +20,11 @@ sc: [
     ["../northern_mariana_islands/", "北マリアナ諸島"],
     ["../../cs_america/colombia/", "コロンビアの離島"],
     ]
+features:
+  - text: '<span class="quiz">アメリカ合衆国</span>の非自治的編入地域であり米軍基地が島の約3割を占める'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%A0"
+  - text: '日本から約3時間半で行ける<span class="quiz">リゾート</span>地として人気が高い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%A0"
 ---
 
 <div class="main-desciption country-description">

@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../puerto-rico/", "プエルトリコ"],
     ]
+features:
+  - text: 'カリブ海の<span class="quiz">イスパニョーラ島</span>の東側3分の2を占める'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '主要産業は<span class="quiz">観光</span>と砂糖・タバコなどの農業である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9F%E3%83%8B%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

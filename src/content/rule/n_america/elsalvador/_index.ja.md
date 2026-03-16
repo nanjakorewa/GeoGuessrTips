@@ -14,6 +14,11 @@ dont_show_usda: true
 is_has_distinctive_googlecar: false
 is_unofficial: true
 flag_height: "400px"
+features:
+  - text: '中米で最も面積が小さく、<span class="quiz">太平洋</span>側のみに面している唯一の中米の国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%AB"
+  - text: '国土の多くが<span class="quiz">火山</span>地帯にあり、20以上の火山が存在する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AB%E3%82%B5%E3%83%AB%E3%83%90%E3%83%89%E3%83%AB#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

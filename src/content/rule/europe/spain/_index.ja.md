@@ -20,6 +20,11 @@ sc: [
     ["../portugal/", "ポルトガル"],
     ["../balearic-islands/", "バレアレス諸島"],
     ]
+features:
+  - text: '<span class="quiz">フラメンコ</span>や<span class="quiz">闘牛</span>で知られる情熱の国で、ガウディの<span class="quiz">サグラダ・ファミリア</span>など独創的な建築が多い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B0%E3%83%A9%E3%83%80%E3%83%BB%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%82%A2"
+  - text: 'カスティーリャ語（スペイン語）のほか<span class="quiz">カタルーニャ語</span>・バスク語・ガリシア語など複数の地域言語が公用語として認められている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%9A%E3%82%A4%E3%83%B3%E3%81%AE%E8%A8%80%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

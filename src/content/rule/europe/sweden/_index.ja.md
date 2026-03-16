@@ -19,6 +19,11 @@ sc: [
     ["../aland_islands/", "オーランド諸島"],
     ["../baltic-state/estonia/", "エストニア"]
     ]
+features:
+  - text: '<span class="quiz">IKEA</span>・<span class="quiz">Volvo</span>・H&Mなどの世界的企業を生んだ北欧最大の国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%A6%E3%82%A7%E3%83%BC%E3%83%87%E3%83%B3"
+  - text: '<span class="quiz">ノーベル賞</span>の授賞式（平和賞を除く）がストックホルムで行われ、福祉国家の模範とされる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8E%E3%83%BC%E3%83%99%E3%83%AB%E8%B3%9E"
 ---
 
 <div class="main-desciption country-description">

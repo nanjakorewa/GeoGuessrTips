@@ -17,6 +17,11 @@ sc: [
     ["../madagascar/", "マダガスカル"],
     ["../zanzibar/", "ザンジバル"],
     ]
+features:
+  - text: 'アフリカ最高峰の<span class="quiz">キリマンジャロ</span>山があり、標高5,895mの独立峰として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%AA%E3%83%9E%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%AD"
+  - text: '<span class="quiz">セレンゲティ</span>国立公園はヌーの大移動で世界的に有名な野生動物の宝庫である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AC%E3%83%B3%E3%82%B2%E3%83%86%E3%82%A3%E5%9B%BD%E7%AB%8B%E5%85%AC%E5%9C%92"
 ---
 
 <div class="main-desciption country-description">

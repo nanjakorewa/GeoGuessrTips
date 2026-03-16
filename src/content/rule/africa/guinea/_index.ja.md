@@ -11,6 +11,11 @@ flag: "GN.svg"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
+features:
+  - text: '世界最大級の<span class="quiz">ボーキサイト</span>埋蔵量を持ち、主要な輸出品である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%83%8B%E3%82%A2#%E7%B5%8C%E6%B8%88"
+  - text: '西アフリカの主要河川である<span class="quiz">ニジェール川</span>の源流がこの国にある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8B%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%AB%E5%B7%9D"
 ---
 
 <div class="main-desciption country-description">

@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '国名は現地語で「<span class="quiz">高潔な人々の国</span>」を意味する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AD%E3%83%8A%E3%83%95%E3%82%A1%E3%82%BD"
+  - text: '旧フランス植民地で公用語は<span class="quiz">フランス語</span>、<span class="quiz">綿花</span>が主要な輸出品である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%82%AD%E3%83%8A%E3%83%95%E3%82%A1%E3%82%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

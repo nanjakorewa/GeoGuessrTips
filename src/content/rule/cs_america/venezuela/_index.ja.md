@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '世界最大の確認<span class="quiz">石油</span>埋蔵量を持つ国で、経済は石油産業に大きく依存している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%8D%E3%82%BA%E3%82%A8%E3%83%A9"
+  - text: '落差979mの世界最大の滝である<span class="quiz">エンジェルフォール</span>がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%B3%E3%82%B8%E3%82%A7%E3%83%AB%E3%83%95%E3%82%A9%E3%83%BC%E3%83%AB"
 ---
 
 <div class="main-desciption country-description">

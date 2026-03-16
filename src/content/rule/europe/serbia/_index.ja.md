@@ -20,6 +20,11 @@ sc: [
     ["../ukraine/", "ウクライナ"],
     ["../bosnah/", "ボスニア・ヘルツェゴビナ"],
     ]
+features:
+  - text: '<span class="quiz">ニコラ・テスラ</span>の出身地域であり、首都<span class="quiz">ベオグラード</span>はドナウ川とサヴァ川の合流点に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%82%AA%E3%82%B0%E3%83%A9%E3%83%BC%E3%83%89"
+  - text: '<span class="quiz">キリル文字</span>とラテン文字の両方が日常的に使われ、<span class="quiz">正教会</span>の文化が色濃く残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%AB%E3%83%93%E3%82%A2%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

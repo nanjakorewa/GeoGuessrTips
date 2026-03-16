@@ -14,6 +14,11 @@ dont_show_usda: true
 is_has_distinctive_googlecar: false
 is_unofficial: true
 flag_height: "400px"
+features:
+  - text: 'カリブ海最大の島で、<span class="quiz">社会主義</span>体制の国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90"
+  - text: 'アメリカの経済制裁の影響で<span class="quiz">1950年代のクラシックカー</span>が現役で走っている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%90#%E4%BA%A4%E9%80%9A"
 ---
 
 <div class="main-desciption country-description">

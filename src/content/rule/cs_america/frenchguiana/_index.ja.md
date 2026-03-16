@@ -11,6 +11,11 @@ flag: "FR.svg"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '南米大陸に位置する<span class="quiz">フランス</span>の海外県で、EUの領域の一部である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%B3%E3%82%B9%E9%A0%98%E3%82%AE%E3%82%A2%E3%83%8A"
+  - text: '<span class="quiz">クールー</span>にある宇宙センターからアリアンロケットが打ち上げられる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AE%E3%82%A2%E3%83%8A%E5%AE%87%E5%AE%99%E3%82%BB%E3%83%B3%E3%82%BF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

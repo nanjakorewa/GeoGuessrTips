@@ -18,6 +18,11 @@ sc: [
     ["../kenya/", "ケニア"],
     ["../nigeria/", "ナイジェリア"],
     ]
+features:
+  - text: '首都<span class="quiz">ダカール</span>はかつてパリ・ダカール・ラリーの終着点として世界的に知られていた'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%80%E3%82%AB%E3%83%BC%E3%83%AB%E3%83%BB%E3%83%A9%E3%83%AA%E3%83%BC"
+  - text: '<span class="quiz">落花生</span>の生産が主要産業であり、国の輸出の大きな割合を占めている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%83%8D%E3%82%AC%E3%83%AB#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

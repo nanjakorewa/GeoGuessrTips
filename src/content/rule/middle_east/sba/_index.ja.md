@@ -17,6 +17,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/greece/", "ギリシャ"],
     ]
+features:
+  - text: 'キプロス島にある<span class="quiz">イギリス</span>の海外軍事基地領域である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
+  - text: '<span class="quiz">アクロティリ</span>と<span class="quiz">デケリア</span>の2つの基地から構成されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%83%AD%E3%83%86%E3%82%A3%E3%83%AA%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%82%B1%E3%83%AA%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

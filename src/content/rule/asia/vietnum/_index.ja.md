@@ -17,6 +17,11 @@ sc: [
     ["../cambodia/", "カンボジア"],
     ["../thai/", "タイ"],
     ]
+features:
+  - text: '南北に細長い国土を持ち<span class="quiz">ハロン湾</span>は世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%83%B3%E6%B9%BE"
+  - text: '世界第2位の<span class="quiz">コーヒー</span>生産国でありロブスタ種の生産量は世界一である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%88%E3%83%8A%E3%83%A0%E3%81%AE%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

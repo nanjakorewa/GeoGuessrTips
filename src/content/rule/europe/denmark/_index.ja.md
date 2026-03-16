@@ -19,6 +19,11 @@ sc: [
     ["../netherlands/", "オランダ"],
     ["../france/", "フランス"],
     ]
+features:
+  - text: '世界最古の君主制国家の一つであり、<span class="quiz">レゴ</span>ブロックの発祥地として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%B4"
+  - text: '<span class="quiz">風力発電</span>の先進国で電力の約半分を風力で賄い、自治領として<span class="quiz">グリーンランド</span>とフェロー諸島を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%A9%E3%83%B3%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

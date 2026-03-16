@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '国土の<span class="quiz">80%以上</span>がサハラ砂漠に覆われており、アフリカ大陸で最大の面積を持つ国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2"
+  - text: '公用語は<span class="quiz">アラビア語</span>と<span class="quiz">ベルベル語</span>で、旧宗主国フランスの影響でフランス語も広く使われる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B8%E3%82%A7%E3%83%AA%E3%82%A2#%E8%A8%80%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

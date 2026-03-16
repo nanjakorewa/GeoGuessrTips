@@ -18,6 +18,11 @@ sc: [
     ["../../oceania/new-zealand/", "ニュージーランド"],
     ["../../n_america/costa_rica/", "コスタリカ"],
     ]
+features:
+  - text: 'カリブ海に位置する<span class="quiz">フランス</span>の海外県で、EUの最外縁地域の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC%E3%82%AF"
+  - text: '活火山である<span class="quiz">プレー山</span>の1902年の噴火で約3万人が犠牲になった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%AC%E3%83%BC%E5%B1%B1"
 ---
 
 <div class="main-desciption country-description">

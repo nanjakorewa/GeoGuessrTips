@@ -13,6 +13,11 @@ jetro_detail: false
 dont_show_usda: true
 plonkit: false
 is_unofficial: true
+features:
+  - text: '<span class="quiz">モカコーヒー</span>発祥の地でありコーヒー栽培の歴史が長い'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%AB_(%E3%82%A4%E3%82%A8%E3%83%A1%E3%83%B3)"
+  - text: '首都<span class="quiz">サナア</span>旧市街は世界遺産に登録された独特な建築様式を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%8A%E3%82%A2"
 ---
 
 <div class="main-desciption country-description">

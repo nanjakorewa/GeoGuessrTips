@@ -25,6 +25,11 @@ sc: [
     ["../aani/", "アンダマン諸島"],
     ["../lakshadweep/", "ラクシャドウィープ"],
     ]
+features:
+  - text: '公用語は<span class="quiz">ヒンディー語</span>と英語であり22の指定言語が憲法で認められている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%89%E3%81%AE%E5%85%AC%E7%94%A8%E8%AA%9E"
+  - text: '世界遺産の<span class="quiz">タージ・マハル</span>はムガル帝国第5代皇帝が建てた霊廟である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%9E%E3%83%8F%E3%83%AB"
 ---
 
 <div class="main-desciption country-description">

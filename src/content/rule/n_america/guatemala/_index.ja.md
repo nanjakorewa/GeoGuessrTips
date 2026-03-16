@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../asia/laos/", "ラオス"],
     ]
+features:
+  - text: '<span class="quiz">マヤ文明</span>の中心地であり、ティカル遺跡などが残る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9"
+  - text: '中米最大の人口を持ち、先住民族の<span class="quiz">マヤ系住民</span>が人口の約4割を占める'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A2%E3%83%86%E3%83%9E%E3%83%A9#%E4%BD%8F%E6%B0%91"
 ---
 
 <div class="main-desciption country-description">

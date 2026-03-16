@@ -15,6 +15,11 @@ sc_title: "関連ページ"
 sc: [
     ["../tanzania/", "タンザニア"],
     ]
+features:
+  - text: '<span class="quiz">タンザニア</span>連合共和国の一部であり、高度な自治権を持つ島嶼地域である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%82%B8%E3%83%90%E3%83%AB"
+  - text: '「<span class="quiz">スパイスの島</span>」と呼ばれ、クローブやナツメグなどの香辛料の産地として歴史的に知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%B3%E3%82%B8%E3%83%90%E3%83%AB#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,11 @@ sc: [
     ["../jersey/", "ジャージー"],
     ["../ireland/", "アイルランド"],
     ]
+features:
+  - text: 'イギリスとアイルランドの間のアイリッシュ海に位置する<span class="quiz">イギリス王室属領</span>で、世界最古のオートバイレース<span class="quiz">TTレース</span>で有名'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%B3%E5%B3%B6TT%E3%83%AC%E3%83%BC%E3%82%B9"
+  - text: '三本の足が回転する<span class="quiz">トリスケリオン</span>が島の紋章であり、独自の議会<span class="quiz">ティンワルド</span>は世界最古の継続する議会とされる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A3%E3%83%B3%E3%83%AF%E3%83%AB%E3%83%89"
 ---
 
 

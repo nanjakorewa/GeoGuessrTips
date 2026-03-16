@@ -17,6 +17,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../europe/greece/", "ギリシャ"],
     ]
+features:
+  - text: '地中海東部に位置し<span class="quiz">ギリシャ系</span>と<span class="quiz">トルコ系</span>の住民で南北に分断されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%97%E3%83%AD%E3%82%B9"
+  - text: '古代から銅の産地として知られ英語の<span class="quiz">copper</span>の語源となった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%97%E3%83%AD%E3%82%B9%E3%81%AE%E6%AD%B4%E5%8F%B2"
 ---
 
 <div class="main-desciption country-description">

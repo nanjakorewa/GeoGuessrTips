@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '国名の由来である<span class="quiz">チャド湖</span>は過去数十年で大幅に縮小している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89%E6%B9%96"
+  - text: '公用語は<span class="quiz">フランス語</span>と<span class="quiz">アラビア語</span>で、南部はサバナ気候、北部はサハラ砂漠が広がる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

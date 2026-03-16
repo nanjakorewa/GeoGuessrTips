@@ -22,6 +22,11 @@ sc: [
     ["../../europe/finland/", "フィンランド"],
     ["../../europe/sweden/", "スウェーデン"],
     ]
+features:
+  - text: '世界第2位の面積を持ち、<span class="quiz">英語とフランス語</span>が公用語である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80"
+  - text: '国土の大部分が<span class="quiz">針葉樹林（タイガ）</span>とツンドラに覆われている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%8A%E3%83%80#%E5%9C%B0%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

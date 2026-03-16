@@ -18,6 +18,11 @@ sc: [
     ["../../n_america/greenland/", "グリーンランド"],
     ["../norway/", "ノルウェー"],
     ]
+features:
+  - text: '北極圏に位置する<span class="quiz">ノルウェー</span>領の群島で、<span class="quiz">ホッキョクグマ</span>の生息数が人口を上回る'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%90%E3%83%AB%E8%AB%B8%E5%B3%B6"
+  - text: '世界の農作物種子を保存する<span class="quiz">スヴァールバル世界種子貯蔵庫</span>があり、最北の定住地<span class="quiz">ロングイェールビーン</span>がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%B4%E3%82%A1%E3%83%BC%E3%83%AB%E3%83%90%E3%83%AB%E4%B8%96%E7%95%8C%E7%A8%AE%E5%AD%90%E8%B2%AF%E8%94%B5%E5%BA%AB"
 ---
 
 <div class="main-desciption country-description">

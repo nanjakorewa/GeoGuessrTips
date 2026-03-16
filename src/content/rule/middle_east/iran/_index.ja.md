@@ -15,6 +15,11 @@ plonkit: false
 is_has_many_trekker: false
 is_unofficial: true
 flag_height: "400px"
+features:
+  - text: '世界有数の<span class="quiz">石油</span>埋蔵量を持ちOPEC加盟国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%A9%E3%83%B3"
+  - text: '<span class="quiz">ペルシア語</span>が公用語でありアラビア文字を使用する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9A%E3%83%AB%E3%82%B7%E3%82%A2%E8%AA%9E"
 ---
 
 <div class="main-desciption country-description">

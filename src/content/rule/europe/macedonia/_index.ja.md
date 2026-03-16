@@ -18,6 +18,11 @@ sc: [
     ["../../middle_east/turkey/", "トルコ"],
     ["../bosnah/", "ボスニア・ヘルツェゴビナ"],
     ]
+features:
+  - text: 'ギリシャとの国名論争を経て2019年に<span class="quiz">北マケドニア</span>共和国に改名した内陸国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B1%E3%83%89%E3%83%8B%E3%82%A2%E5%91%BC%E7%A7%B0%E5%95%8F%E9%A1%8C"
+  - text: '<span class="quiz">オフリド湖</span>はヨーロッパ最古の湖の一つで、湖畔の町と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%95%E3%83%AA%E3%83%89%E6%B9%96"
 ---
 
 

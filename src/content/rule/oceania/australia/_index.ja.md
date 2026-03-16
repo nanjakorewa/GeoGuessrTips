@@ -25,6 +25,11 @@ sc: [
     ["../christmas-island/", "クリスマス島"],
     ["../cocos_islands/", "ココス諸島"],
     ]
+features:
+  - text: '世界最大の<span class="quiz">サンゴ礁</span>であるグレート・バリア・リーフが北東沿岸に広がる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%AC%E3%83%BC%E3%83%88%E3%83%BB%E3%83%90%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%95"
+  - text: '<span class="quiz">コアラ</span>や<span class="quiz">カンガルー</span>など固有の有袋類が多く生息する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E3%81%AE%E5%8B%95%E7%89%A9%E7%9B%B8"
 ---
 
 <div class="main-desciption country-description">

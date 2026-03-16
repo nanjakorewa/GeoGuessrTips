@@ -11,6 +11,11 @@ flag: "ML.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_many_trekker: true
+features:
+  - text: '<span class="quiz">トンブクトゥ</span>はかつてイスラム学問の中心地として栄え、世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%88%E3%83%B3%E3%83%96%E3%82%AF%E3%83%88%E3%82%A5"
+  - text: '国土の北部は<span class="quiz">サハラ砂漠</span>が広がり、<span class="quiz">ニジェール川</span>が国を貫流している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AA%E5%85%B1%E5%92%8C%E5%9B%BD"
 ---
 
 <div class="main-desciption country-description">

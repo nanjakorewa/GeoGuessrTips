@@ -17,6 +17,11 @@ sc: [
     ["../macedonia/", "北マケドニア"],
     ["../serbia/", "セルビア"],
     ]
+features:
+  - text: '国名は「<span class="quiz">黒い山</span>」を意味し、2006年にセルビアから独立したヨーロッパで最も新しい独立国の一つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%83%86%E3%83%8D%E3%82%B0%E3%83%AD"
+  - text: '<span class="quiz">コトル</span>湾はヨーロッパ最南端のフィヨルドのような地形で、旧市街と共にユネスコ<span class="quiz">世界遺産</span>に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%88%E3%83%AB"
 ---
 
 

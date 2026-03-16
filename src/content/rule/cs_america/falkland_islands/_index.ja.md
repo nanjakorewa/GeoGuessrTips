@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../sgssi/", "サウスジョージア・サウスサンドウィッチ諸島"],
     ]
+features:
+  - text: '南大西洋に位置する<span class="quiz">イギリス</span>の海外領土で、アルゼンチンも領有権を主張している'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E8%AB%B8%E5%B3%B6"
+  - text: '1982年にイギリスとアルゼンチンの間で<span class="quiz">フォークランド紛争</span>が起きた'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%89%E7%B4%9B%E4%BA%89"
 ---
 
 <div class="main-desciption country-description">

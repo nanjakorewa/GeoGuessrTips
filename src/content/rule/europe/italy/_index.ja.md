@@ -18,6 +18,11 @@ sc: [
     ["../albania/", "アルバニア"],
     ["../greece/", "ギリシャ"],
     ]
+features:
+  - text: '<span class="quiz">ローマ帝国</span>の中心地であり、国内にユネスコ世界遺産の登録数が<span class="quiz">世界最多</span>の59件ある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E3%81%AE%E4%B8%96%E7%95%8C%E9%81%BA%E7%94%A3"
+  - text: 'ブーツ型の<span class="quiz">半島</span>国家で、<span class="quiz">ピザ</span>・パスタなどのイタリア料理は世界中で親しまれている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%BF%E3%83%AA%E3%82%A2%E6%96%99%E7%90%86"
 ---
 
 <div class="main-desciption country-description">

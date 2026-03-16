@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_distinctive_googlecar: true
+features:
+  - text: 'カリブ海に位置する<span class="quiz">アメリカの非法人領土</span>で、セント・トーマス島・セント・クロイ島・セント・ジョン島が主な島'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6"
+  - text: '1917年にデンマークから<span class="quiz">2500万ドル</span>で購入された旧デンマーク領西インド諸島'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E9%A0%98%E3%83%B4%E3%82%A1%E3%83%BC%E3%82%B8%E3%83%B3%E8%AB%B8%E5%B3%B6#%E6%AD%B4%E5%8F%B2"
 ---
 
 <div class="main-desciption country-description">

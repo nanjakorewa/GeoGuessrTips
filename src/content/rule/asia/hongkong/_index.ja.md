@@ -20,6 +20,11 @@ sc: [
     ["../japan/", "日本"],
     ["../singapore/", "シンガポール"],
     ]
+features:
+  - text: '中国の<span class="quiz">特別行政区</span>であり「一国二制度」のもとで高度な自治権を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E9%A6%99%E6%B8%AF"
+  - text: '<span class="quiz">ヴィクトリア・ハーバー</span>を挟んで香港島と九龍半島が向かい合う世界有数の港湾都市である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%B4%E3%82%A3%E3%82%AF%E3%83%88%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%8F%E3%83%BC%E3%83%90%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

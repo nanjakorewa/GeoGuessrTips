@@ -20,6 +20,11 @@ sc: [
     ["../../oceania/australia/", "オーストラリア"],
     ["../botswana/", "ボツワナ"],
     ]
+features:
+  - text: '<span class="quiz">11</span>の公用語を持つ多民族・多言語国家であり、「虹の国」と呼ばれている'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD"
+  - text: '<span class="quiz">喜望峰</span>があり、金やダイヤモンドの産出でアフリカ最大の経済大国となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E5%8D%97%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E5%85%B1%E5%92%8C%E5%9B%BD#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

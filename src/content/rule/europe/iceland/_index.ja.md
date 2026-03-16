@@ -17,6 +17,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../faroe_islands/", "フェロー諸島"],
     ]
+features:
+  - text: '<span class="quiz">火山</span>と<span class="quiz">氷河</span>が共存する島国で、国土の約11%が氷河に覆われ30以上の活火山がある'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%82%B9%E3%83%A9%E3%83%B3%E3%83%89"
+  - text: '世界最古の<span class="quiz">議会</span>とされる<span class="quiz">アルシング</span>が930年に設立され、地熱エネルギーで国内電力の大部分を賄う'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%B3%E3%82%B0"
 ---
 
 <div class="main-desciption country-description">

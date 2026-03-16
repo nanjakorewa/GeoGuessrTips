@@ -11,6 +11,11 @@ flag: "CW.svg"
 no_detaile_info: true
 jetro_detail: false
 is_has_distinctive_googlecar: true
+features:
+  - text: 'カリブ海に浮かぶ<span class="quiz">オランダ</span>の構成国で、パピアメント語が広く話されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%83%A9%E3%82%BD%E3%83%BC"
+  - text: 'カラフルな建物が並ぶ<span class="quiz">ウィレムスタット</span>の歴史地区は世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%AC%E3%83%A0%E3%82%B9%E3%82%BF%E3%83%83%E3%83%88"
 ---
 
 <div class="main-desciption country-description">

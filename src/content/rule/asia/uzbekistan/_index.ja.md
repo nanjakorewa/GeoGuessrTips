@@ -13,6 +13,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: 'シルクロードの要衝であった<span class="quiz">サマルカンド</span>は世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%9E%E3%83%AB%E3%82%AB%E3%83%B3%E3%83%89"
+  - text: '世界に2つしかない<span class="quiz">二重内陸国</span>の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%BA%E3%83%99%E3%82%AD%E3%82%B9%E3%82%BF%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

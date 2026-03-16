@@ -13,6 +13,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_unofficial: true
+features:
+  - text: '<span class="quiz">カスピ海</span>に面しており石油や天然ガスの産出国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BC%E3%83%AB%E3%83%90%E3%82%A4%E3%82%B8%E3%83%A3%E3%83%B3"
+  - text: '首都<span class="quiz">バクー</span>は世界遺産に登録された旧市街を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%AF%E3%83%BC"
 ---
 
 <div class="main-desciption country-description">

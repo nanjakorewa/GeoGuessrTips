@@ -20,6 +20,11 @@ sc: [
     ["../peru/", "ペルー"],
     ["../../n_america/usa/", "アメリカ"],
     ]
+features:
+  - text: '南米の内陸国で、首都ラパスは標高約3600mの世界で最も高い<span class="quiz">首都</span>である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%91%E3%82%B9"
+  - text: '<span class="quiz">ウユニ塩湖</span>は世界最大の塩原として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%A6%E3%83%8B%E5%A1%A9%E6%B9%96"
 ---
 
 <div class="main-desciption country-description">

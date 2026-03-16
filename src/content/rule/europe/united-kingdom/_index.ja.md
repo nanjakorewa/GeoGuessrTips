@@ -23,6 +23,11 @@ sc: [
     ["../gibraltar/", "ジブラルタル"],
     ["../shetland/", "シェットランド諸島"],
     ]
+features:
+  - text: '<span class="quiz">イングランド</span>・スコットランド・ウェールズ・北アイルランドの4つの<span class="quiz">カントリー</span>からなる連合王国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9"
+  - text: '<span class="quiz">産業革命</span>発祥の地であり、<span class="quiz">ロンドン</span>は世界有数の金融センターとして機能している'
+    ref: "https://ja.wikipedia.org/wiki/%E7%94%A3%E6%A5%AD%E9%9D%A9%E5%91%BD"
 ---
 
 <div class="main-desciption country-description">

@@ -17,6 +17,11 @@ sc: [
     ["../liechtenstein/", "リヒテンシュタイン"],
     ["../switzerland/", "スイス"],
     ]
+features:
+  - text: '音楽の都<span class="quiz">ウィーン</span>を首都に持ち、<span class="quiz">モーツァルト</span>やシュトラウスなど多くの作曲家を輩出した音楽大国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%83%BC%E3%83%B3"
+  - text: '国土の約62%が<span class="quiz">アルプス山脈</span>に覆われ、<span class="quiz">ハプスブルク家</span>の本拠地として約640年にわたりヨーロッパに君臨した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%97%E3%82%B9%E3%83%96%E3%83%AB%E3%82%AF%E5%AE%B6"
 ---
 
 <div class="main-desciption country-description">

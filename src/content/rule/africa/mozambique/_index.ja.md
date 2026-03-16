@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '旧<span class="quiz">ポルトガル</span>植民地であり、アフリカで唯一ポルトガル語を公用語とする大陸国家である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%82%AF"
+  - text: '国旗に<span class="quiz">AK-47</span>が描かれている世界で唯一の国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%82%B6%E3%83%B3%E3%83%93%E3%83%BC%E3%82%AF%E3%81%AE%E5%9B%BD%E6%97%97"
 ---
 
 <div class="main-desciption country-description">

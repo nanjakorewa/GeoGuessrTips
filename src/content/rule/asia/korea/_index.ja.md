@@ -13,6 +13,11 @@ jetro_detail: true
 plonkit: false
 dont_show_usda: true
 import_jquery_36: true
+features:
+  - text: '文字体系として<span class="quiz">ハングル</span>を使用しており世宗大王が15世紀に制定した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%82%B0%E3%83%AB"
+  - text: '北緯38度線付近の<span class="quiz">軍事境界線</span>により朝鮮半島は南北に分断されている'
+    ref: "https://ja.wikipedia.org/wiki/%E8%BB%8D%E4%BA%8B%E5%A2%83%E7%95%8C%E7%B7%9A_(%E6%9C%9D%E9%AE%AE%E5%8D%8A%E5%B3%B6)"
 ---
 
 <div class="main-desciption country-description">

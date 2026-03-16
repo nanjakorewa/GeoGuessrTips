@@ -21,6 +21,11 @@ sc: [
     ["../../asia/indonesia/", "インドネシア"],
     ["../australia/", "オーストラリア"],
     ]
+features:
+  - text: '27の<span class="quiz">サンゴ礁</span>の島からなり人が住むのは2島のみである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
+  - text: '住民の多くは<span class="quiz">マレー系</span>であり独自の文化が残っている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B3%E3%82%B3%E3%82%B9%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

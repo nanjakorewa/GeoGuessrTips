@@ -12,6 +12,11 @@ flag_height: "340px"
 no_detaile_info: true
 jetro_detail: false
 is_unofficial: true
+features:
+  - text: 'ヨーロッパ最貧国の一つとされ、公用語は<span class="quiz">ルーマニア語</span>で旧ソ連構成国の中では唯一の<span class="quiz">ロマンス語</span>圏'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AB%E3%83%89%E3%83%90"
+  - text: '世界有数の<span class="quiz">ワイン</span>生産国で、<span class="quiz">ミレシュティ・ミチ</span>は世界最大のワインセラーとしてギネス記録に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%AC%E3%82%B7%E3%83%A5%E3%83%86%E3%82%A3%E3%83%BB%E3%83%9F%E3%83%81"
 ---
 
 <div class="main-desciption country-description">

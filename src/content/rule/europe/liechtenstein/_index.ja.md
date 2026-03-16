@@ -15,6 +15,11 @@ sc: [
     ["../switzerland/", "スイス"],
     ["../austria/", "オーストリア"],
     ]
+features:
+  - text: '世界で6番目に小さい国で、<span class="quiz">スイス</span>と<span class="quiz">オーストリア</span>に挟まれたアルプスの小国'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
+  - text: '<span class="quiz">立憲君主制</span>の公国で、一人当たりGDPが世界トップクラスの裕福な国であり<span class="quiz">スイスフラン</span>を通貨として使用する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AA%E3%83%92%E3%83%86%E3%83%B3%E3%82%B7%E3%83%A5%E3%82%BF%E3%82%A4%E3%83%B3"
 ---
 
 <div class="main-desciption country-description">

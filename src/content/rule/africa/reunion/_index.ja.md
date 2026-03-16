@@ -20,6 +20,11 @@ sc: [
     ["../../cs_america/martinique/", "マルティニーク"],
     ["../ghana/", "ガーナ"],
     ]
+features:
+  - text: 'インド洋に浮かぶ<span class="quiz">フランス</span>の海外県であり、ユーロが通貨として使用されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A6%E3%83%8B%E3%82%AA%E3%83%B3"
+  - text: '活火山である<span class="quiz">ピトン・ドゥ・ラ・フルネーズ</span>があり、世界で最も活発な火山の一つとして知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%88%E3%83%B3%E3%83%BB%E3%83%89%E3%82%A5%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%95%E3%83%AB%E3%83%8D%E3%83%BC%E3%82%BA"
 ---
 
 <div class="main-desciption country-description">

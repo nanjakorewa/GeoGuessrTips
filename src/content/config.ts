@@ -97,6 +97,16 @@ const ruleCollection = defineCollection({
     robots: z.string().optional(),
     noindex: z.boolean().optional().default(false),
 
+    // Country/region feature highlights
+    features: z
+      .array(
+        z.object({
+          text: z.string(),
+          ref: z.string().optional(),
+        })
+      )
+      .optional(),
+
     // Structured data: FAQ
     faq: z
       .array(

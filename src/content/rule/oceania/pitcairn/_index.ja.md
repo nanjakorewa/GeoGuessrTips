@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../../n_america/costa_rica/", "コスタリカ"],
     ]
+features:
+  - text: '<span class="quiz">バウンティ号</span>の反乱者の子孫が住む世界で最も人口の少ない地域の一つである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%A6%E3%83%B3%E3%83%86%E3%82%A3%E5%8F%B7%E3%81%AE%E5%8F%8D%E4%B9%B1"
+  - text: 'イギリスの<span class="quiz">海外領土</span>であり住民は約50人程度しかいない'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%94%E3%83%88%E3%82%B1%E3%82%A2%E3%83%B3%E8%AB%B8%E5%B3%B6"
 ---
 
 <div class="main-desciption country-description">

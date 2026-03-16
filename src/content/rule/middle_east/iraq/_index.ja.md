@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 dont_show_usda: true
 is_has_many_trekker: true
+features:
+  - text: '<span class="quiz">チグリス川</span>と<span class="quiz">ユーフラテス川</span>に挟まれたメソポタミア文明発祥の地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%BD%E3%83%9D%E3%82%BF%E3%83%9F%E3%82%A2"
+  - text: '首都<span class="quiz">バグダード</span>はかつてアッバース朝の首都として繁栄した'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%82%B0%E3%83%80%E3%83%BC%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

@@ -12,6 +12,11 @@ no_detaile_info: true
 jetro_detail: false
 flag_height: "450px"
 is_unofficial: true
+features:
+  - text: '<span class="quiz">マラケシュ</span>の旧市街や<span class="quiz">フェズ</span>のメディナなど複数の世界遺産を持つ'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3"
+  - text: '<span class="quiz">リン鉱石</span>の埋蔵量が世界最大であり、主要な輸出品である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%AD%E3%83%83%E3%82%B3#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

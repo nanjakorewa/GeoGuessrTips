@@ -21,6 +21,11 @@ sc: [
     ["../../asia/kazakhstan/", "カザフスタン"],
     ["../israel/", "イスラエル"],
     ]
+features:
+  - text: '<span class="quiz">乳香</span>の産地として古代から知られ交易で栄えた'
+    ref: "https://ja.wikipedia.org/wiki/%E4%B9%B3%E9%A6%99"
+  - text: 'アラビア半島南東部に位置し<span class="quiz">ホルムズ海峡</span>に面する戦略的要地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%AB%E3%83%A0%E3%82%BA%E6%B5%B7%E5%B3%A1"
 ---
 
 <div class="main-desciption country-description">

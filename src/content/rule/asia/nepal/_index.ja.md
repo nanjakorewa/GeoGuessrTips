@@ -19,6 +19,11 @@ sc: [
     ["../srilanka/", "スリランカ"],
     ["../bhutan/", "ブータン"],
     ]
+features:
+  - text: '世界最高峰の<span class="quiz">エベレスト</span>（標高8848m）が中国との国境に位置する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%99%E3%83%AC%E3%82%B9%E3%83%88"
+  - text: '国旗が世界で唯一<span class="quiz">四角形でない</span>形状（二重三角形）をしている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%AE%E5%9B%BD%E6%97%97"
 ---
 
 <div class="main-desciption country-description">

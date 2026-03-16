@@ -19,6 +19,11 @@ sc: [
     ["../ireland/", "アイルランド"],
     ["../france/", "フランス"],
     ]
+features:
+  - text: 'フランス北西部の海岸近くに位置する<span class="quiz">イギリス王室属領</span>で、独自の議会と法制度を持つ<span class="quiz">タックスヘイブン</span>'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC"
+  - text: '<span class="quiz">ジャージー牛</span>の原産地として知られ、面積は約<span class="quiz">116km²</span>のチャンネル諸島最大の島'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%BC%E7%A7%8D"
 ---
 
 <div class="main-desciption country-description">

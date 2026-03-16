@@ -19,6 +19,11 @@ sc: [
     ["../india/", "インド"],
     ["../thai/", "タイ"],
     ]
+features:
+  - text: 'インド南東の<span class="quiz">インド洋</span>に浮かぶ島国で「インド洋の真珠」と呼ばれる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%AA%E3%83%A9%E3%83%B3%E3%82%AB"
+  - text: '<span class="quiz">セイロン茶</span>の産地として世界的に有名で紅茶の輸出量は世界上位である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%A4%E3%83%AD%E3%83%B3%E8%8C%B6"
 ---
 
 <div class="main-desciption country-description">

@@ -18,6 +18,9 @@ sc: [
     ["../jordan/", "ヨルダン"],
     ["../../asia/india/", "インド"],
     ]
+features:
+  - text: '国旗の中央に描かれた<span class="quiz">レバノン杉</span>は国のシンボルである'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%90%E3%83%8E%E3%83%B3%E6%9D%89"
 ---
 
 <div class="main-desciption country-description">

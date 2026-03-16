@@ -18,6 +18,11 @@ sc: [
     ["../colombia/", "コロンビア"],
     ["../../asia/india/", "インド"],
     ]
+features:
+  - text: '国名はスペイン語で「<span class="quiz">赤道</span>」を意味し、赤道が国土を横断する'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB"
+  - text: '世界有数の<span class="quiz">バナナ</span>輸出国であり、石油も主要な輸出品である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%AF%E3%82%A2%E3%83%89%E3%83%AB#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

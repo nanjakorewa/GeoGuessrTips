@@ -16,6 +16,11 @@ sc_title: "間違えやすい地域"
 sc: [
     ["../india/", "インド"],
     ]
+features:
+  - text: '世界最大級の<span class="quiz">デルタ地帯</span>を持ち国土の大部分が低地である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%B3%E3%82%B0%E3%83%A9%E3%83%87%E3%82%B7%E3%83%A5"
+  - text: '人口密度が非常に高く<span class="quiz">ダッカ</span>は世界有数の人口過密都市である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%80%E3%83%83%E3%82%AB"
 ---
 
 <div class="main-desciption country-description">

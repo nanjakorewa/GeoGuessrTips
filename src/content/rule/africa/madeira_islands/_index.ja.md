@@ -17,6 +17,11 @@ sc: [
     ["../../europe/azores/", "アゾレス諸島"],
     ["../../europe/portugal/", "ポルトガル"],
     ]
+features:
+  - text: '<span class="quiz">ポルトガル</span>領の自治地域であり、大西洋上の火山島群である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%87%E3%82%A4%E3%83%A9%E8%AB%B8%E5%B3%B6"
+  - text: 'サッカー選手<span class="quiz">クリスティアーノ・ロナウド</span>の出身地として知られる'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AA%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%E3%83%BC%E3%83%8E%E3%83%BB%E3%83%AD%E3%83%8A%E3%82%A6%E3%83%89"
 ---
 
 <div class="main-desciption country-description">

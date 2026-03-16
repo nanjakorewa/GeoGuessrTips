@@ -12,6 +12,11 @@ flag_height: "450px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: 'アフリカ大陸の最東端「<span class="quiz">アフリカの角</span>」に位置する国である'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%95%E3%83%AA%E3%82%AB%E3%81%AE%E8%A7%92"
+  - text: '世界で最も多くの<span class="quiz">ラクダ</span>を飼育しており、遊牧が伝統的な生活様式となっている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%9E%E3%83%AA%E3%82%A2#%E7%B5%8C%E6%B8%88"
 ---
 
 <div class="main-desciption country-description">

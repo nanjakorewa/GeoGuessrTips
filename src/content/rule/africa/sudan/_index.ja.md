@@ -12,6 +12,11 @@ flag_height: "380px"
 no_detaile_info: true
 jetro_detail: true
 is_unofficial: true
+features:
+  - text: '南スーダン独立前はアフリカ大陸で<span class="quiz">最大</span>の面積を持つ国だった'
+    ref: "https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%80%E3%83%B3"
+  - text: '古代<span class="quiz">ヌビア</span>文明の地であり、メロエのピラミッド群が世界遺産に登録されている'
+    ref: "https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%AD%E3%82%A8"
 ---
 
 <div class="main-desciption country-description">
