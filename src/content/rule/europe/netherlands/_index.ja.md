@@ -21,8 +21,6 @@ sc: [
 features:
   - text: '国土の約<span class="quiz">26%</span>が海面より低く、<span class="quiz">干拓</span>と堤防で国土を広げてきた「低地の国」'
     ref: "https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%A9%E3%83%B3%E3%83%80"
-  - text: '<span class="quiz">チューリップ</span>と風車で知られ、<span class="quiz">ゴッホ</span>・レンブラントなど多くの画家を輩出した芸術の国'
-    ref: "https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A3%E3%83%B3%E3%82%BB%E3%83%B3%E3%83%88%E3%83%BB%E3%83%95%E3%82%A1%E3%83%B3%E3%83%BB%E3%82%B4%E3%83%83%E3%83%9B"
 ---
 
 <div class="main-desciption country-description">
