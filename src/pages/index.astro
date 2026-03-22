@@ -19,7 +19,7 @@ const translationUrls: { lang: Language; url: string }[] = LANGUAGES.map((l) => 
 }));
 
 // Gather top-level section pages (type: docs, depth 1) for topic cards
-const allCollections = ["rule", "quiz", "about", "web"] as const;
+const allCollections = ["rule", "quiz", "about", "web", "industry"] as const;
 interface TopicCard {
   title: string;
   description: string;

@@ -1,0 +1,714 @@
+---
+import type { Language } from "@lib/i18n-utils";
+import { buildUrl, extractLangFromId, extractSlugFromId, DEFAULT_LANG } from "@lib/i18n-utils";
+import Head from "@components/seo/Head.astro";
+import Navbar from "@components/navigation/Navbar.astro";
+import Footer from "@components/footer/Footer.astro";
+import { getCollection } from "astro:content";
+
+interface Props {
+  entry: any;
+  lang: Language;
+  collection: string;
+  hasContent?: boolean;
+}
+
+const { entry, lang, collection, hasContent = true } = Astro.props;
+const data = entry.data;
+const site = "https://geopinning.space";
+
+// SEO
+const seoTitle = data.seo_title || data.subtitle || (data.title ? `${data.title} | 世界の産業地帯` : "世界の産業地帯");
+const seoDescription = data.description || "";
+const ogImage = data.og_image || `${site}/images/icon-512x512.png`;
+const currentSlug = extractSlugFromId(entry.id);
+const canonical = `${site}${buildUrl(collection, currentSlug, lang)}`;
+
+// JSMaps
+const needsJSMaps = !!data.mapName || !!data.map_index;
+
+// Breadcrumbs
+interface Crumb { name: string; url: string; }
+const crumbs: Crumb[] = [];
+const topUrl = lang === DEFAULT_LANG ? "/" : `/${lang}/`;
+const industryTopUrl = lang === DEFAULT_LANG ? "/industry/" : `/${lang}/industry/`;
+crumbs.push({ name: "トップ", url: topUrl });
+crumbs.push({ name: "世界の産業地帯", url: industryTopUrl });
+
+if (currentSlug) {
+  const allEntries = await getCollection(collection as any);
+  const pathSegments = currentSlug.split("/");
+  for (let i = 0; i < pathSegments.length; i++) {
+    const segSlug = pathSegments.slice(0, i + 1).join("/");
+    const segEntry = allEntries.find((e: any) => {
+      const eSlug = extractSlugFromId(e.id);
+      return eSlug === segSlug && extractLangFromId(e.id) === lang;
+    });
+    const segName = segEntry ? (segEntry as any).data.title : pathSegments[i];
+    const segUrl = buildUrl(collection, segSlug, lang);
+    if (segUrl !== industryTopUrl) {
+      crumbs.push({ name: segName, url: segUrl });
+    }
+  }
+}
+
+// Dates
+const publishedTime = data.date ? new Date(data.date) : undefined;
+const modifiedTime = data.lastmod ? new Date(data.lastmod) : publishedTime;
+const lastmodDisplay = modifiedTime
+  ? modifiedTime.toLocaleDateString("ja-JP", { year: "numeric", month: "long", day: "numeric" })
+  : "";
+
+// Is map page (has JSMaps map)
+const isMapPage = !!data.mapName;
+---
+
+<!DOCTYPE html>
+<html lang={lang}>
+<head>
+  <Head
+    title={seoTitle}
+    description={seoDescription}
+    lang={lang}
+    canonical={canonical}
+    ogImage={ogImage}
+    ogType="article"
+    noindex={!!data.noindex}
+    publishedTime={publishedTime}
+    modifiedTime={modifiedTime}
+    breadcrumbs={crumbs}
+    collection={collection}
+    needsJSMaps={needsJSMaps}
+  />
+  <style is:global>
+    /* ============================================
+       Industry Section — Modern Design System
+       ============================================ */
+    :root {
+      --ind-bg:        #f8fafc;
+      --ind-surface:   #ffffff;
+      --ind-border:    #e2e8f0;
+      --ind-text:      #0f172a;
+      --ind-muted:     #64748b;
+      --ind-primary:   #1e3a5f;
+      --ind-accent:    #e07b20;
+      --ind-accent-lt: #fef3e2;
+      --ind-map-bg:    #1a2535;
+      --ind-radius:    8px;
+      --ind-shadow:    0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.06);
+      --ind-shadow-md: 0 4px 6px -1px rgba(0,0,0,.1), 0 2px 4px -1px rgba(0,0,0,.06);
+    }
+
+    /* Override body for industry pages */
+    body.industry-body {
+      background: var(--ind-bg);
+      color: var(--ind-text);
+      font-family: 'Hiragino Sans', 'Hiragino Kaku Gothic ProN', 'Noto Sans JP', system-ui, sans-serif;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* Dark mode support */
+    [data-theme="dark"] body.industry-body,
+    [data-theme="dark"] .ind-article p,
+    [data-theme="dark"] .ind-article li {
+      --ind-bg:        #1a1d21;
+      --ind-surface:   #22262a;
+      --ind-border:    #2a2e33;
+      --ind-text:      #d8d5d0;
+      --ind-muted:     #8a9bb0;
+      --ind-accent-lt: #2d2012;
+      background: var(--ind-bg);
+      color: var(--ind-text);
+    }
+    [data-theme="dark"] .ind-breadcrumb {
+      background: #22262a;
+      border-bottom-color: #2a2e33;
+    }
+    [data-theme="dark"] .stat-card {
+      background: #22262a;
+      border-color: #2a2e33;
+    }
+    [data-theme="dark"] .ind-article .table th {
+      background: #1e3a5f;
+    }
+    [data-theme="dark"] .ind-article .table td {
+      border-bottom-color: #2a2e33;
+    }
+    [data-theme="dark"] .ind-article .table-striped tr:nth-child(even) td {
+      background: #1e2226;
+    }
+    [data-theme="dark"] .process-step {
+      background: #22262a;
+      border-color: #2a2e33;
+    }
+
+    /* ---- Breadcrumb ---- */
+    .ind-breadcrumb {
+      background: var(--ind-surface);
+      border-bottom: 1px solid var(--ind-border);
+      padding: 0.6rem 1.5rem;
+      font-size: 0.8rem;
+      color: var(--ind-muted);
+    }
+    .ind-breadcrumb ol {
+      list-style: none;
+      margin: 0;
+      padding: 0;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0.25rem;
+      max-width: 1100px;
+      margin: 0 auto;
+    }
+    .ind-breadcrumb li + li::before {
+      content: "›";
+      margin-right: 0.25rem;
+      color: var(--ind-border);
+    }
+    .ind-breadcrumb a { color: var(--ind-muted); text-decoration: none; }
+    .ind-breadcrumb a:hover { color: var(--ind-primary); }
+
+    /* ---- Map section (full-width) ---- */
+    .ind-map-section {
+      background: var(--ind-map-bg);
+      padding: 1rem 0 0;
+    }
+    .ind-map-header {
+      text-align: center;
+      color: rgba(255,255,255,0.7);
+      font-size: 0.8rem;
+      padding: 0.5rem 1rem;
+      letter-spacing: 0.05em;
+    }
+    /* Compact clamp: always overflow:hidden, height controlled by JS */
+    .ind-map-clamp {
+      position: relative;
+      height: 440px;
+      overflow: hidden;
+    }
+    .ind-map-clamp-fade {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      height: 90px;
+      background: linear-gradient(to bottom, transparent, var(--ind-map-bg));
+      pointer-events: none;
+    }
+    .ind-map-clamp.is-open .ind-map-clamp-fade {
+      display: none;
+    }
+    .ind-map-expand-wrap {
+      text-align: center;
+      padding: 0.5rem 0 0.75rem;
+    }
+    .ind-map-expand-btn {
+      background: rgba(255,255,255,0.08);
+      border: 1px solid rgba(255,255,255,0.22);
+      color: rgba(255,255,255,0.75);
+      padding: 0.35rem 1.4rem;
+      border-radius: 20px;
+      font-size: 0.78rem;
+      cursor: pointer;
+      letter-spacing: 0.04em;
+      transition: background 0.2s, color 0.2s;
+    }
+    .ind-map-expand-btn:hover {
+      background: rgba(255,255,255,0.18);
+      color: #fff;
+    }
+    .ind-map-wrapper {
+      max-width: 760px;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+    .ind-map-wrapper #world-map {
+      width: 100%;
+      background: transparent;
+    }
+    /* JSMaps: SVG and wrapper sizing */
+    .ind-map-wrapper .jsmaps-wrapper {
+      width: 100% !important;
+    }
+    .ind-map-wrapper .jsmaps {
+      position: relative !important;
+      width: 100% !important;
+    }
+    .ind-map-wrapper .jsmaps svg,
+    .ind-map-wrapper #world-map svg {
+      width: 100% !important;
+      height: auto !important;
+      display: block;
+    }
+    /* Hide JSMaps country description text box */
+    .ind-map-wrapper .jsmaps-text,
+    .ind-map-wrapper .jsmaps-state-info,
+    .ind-map-wrapper .jsmaps-info {
+      display: none !important;
+    }
+    .ind-map-legend {
+      display: flex;
+      gap: 1.5rem;
+      justify-content: center;
+      padding: 0.75rem 1rem 1rem;
+      font-size: 0.78rem;
+      color: rgba(255,255,255,0.6);
+    }
+    .ind-map-legend span {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.35rem;
+    }
+
+    /* ---- Page hero (for detail pages without map) ---- */
+    .ind-hero {
+      background: linear-gradient(135deg, var(--ind-primary) 0%, #2d5282 100%);
+      color: #fff;
+      padding: 2.5rem 1.5rem 2rem;
+    }
+    .ind-hero-inner {
+      max-width: 860px;
+      margin: 0 auto;
+    }
+    .ind-hero h1 {
+      font-size: clamp(1.5rem, 4vw, 2.2rem);
+      font-weight: 700;
+      margin: 0 0 0.5rem;
+      line-height: 1.25;
+      color: #fff !important;
+    }
+    .ind-hero-sub {
+      font-size: 0.95rem;
+      color: rgba(255, 255, 255, 0.82) !important;
+      margin: 0;
+    }
+    .ind-hero-meta {
+      margin-top: 1rem;
+      font-size: 0.78rem;
+      color: rgba(255, 255, 255, 0.6) !important;
+    }
+
+    /* ---- Map page title ---- */
+    .ind-map-title {
+      max-width: 760px;
+      margin: 1.5rem auto 0;
+      padding: 0 1rem;
+      color: #fff;
+    }
+    .ind-map-title h1 {
+      font-size: clamp(1.3rem, 3vw, 1.9rem);
+      font-weight: 700;
+      margin: 0 0 0.25rem;
+      color: #fff !important;
+    }
+    .ind-map-title p {
+      font-size: 0.88rem;
+      color: rgba(255, 255, 255, 0.75) !important;
+      margin: 0;
+    }
+
+    /* ---- Main layout ---- */
+    .ind-main {
+      max-width: 860px;
+      margin: 0 auto;
+      padding: 2.5rem 1.5rem 4rem;
+    }
+
+    /* ---- Article typography ---- */
+    .ind-article h2 {
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--ind-primary);
+      border-left: 4px solid var(--ind-accent);
+      padding-left: 0.75rem;
+      margin: 2.5rem 0 1rem;
+    }
+    .ind-article h3 {
+      font-size: 1.1rem;
+      font-weight: 600;
+      color: var(--ind-text);
+      margin: 1.75rem 0 0.75rem;
+    }
+    .ind-article h4 {
+      font-size: 0.95rem;
+      font-weight: 600;
+      color: var(--ind-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin: 1.5rem 0 0.5rem;
+    }
+    .ind-article p {
+      line-height: 1.8;
+      color: var(--ind-text);
+      margin: 0 0 1rem;
+    }
+    .ind-article ul, .ind-article ol {
+      padding-left: 1.5rem;
+      line-height: 1.8;
+      margin: 0 0 1rem;
+    }
+    .ind-article li { margin: 0.2rem 0; }
+    .ind-article a { color: var(--ind-primary); }
+    .ind-article a:hover { color: var(--ind-accent); }
+    .ind-article strong { color: var(--ind-text); }
+
+    /* ---- Code blocks (for ASCII diagrams etc.) ---- */
+    .ind-article pre {
+      background: #1a2535;
+      color: #e2e8f0;
+      border-radius: var(--ind-radius);
+      padding: 1rem 1.25rem;
+      overflow-x: auto;
+      font-size: 0.82rem;
+      line-height: 1.6;
+      margin: 1rem 0 1.5rem;
+    }
+    .ind-article code {
+      font-family: 'SFMono-Regular', 'Consolas', 'Liberation Mono', monospace;
+    }
+    .ind-article :not(pre) > code {
+      background: var(--ind-accent-lt);
+      color: #92400e;
+      border-radius: 3px;
+      padding: 0.1em 0.35em;
+      font-size: 0.88em;
+    }
+
+    /* ---- Data table ---- */
+    .ind-article .table {
+      font-size: 0.88rem;
+      border-collapse: collapse;
+      width: 100%;
+      margin: 1rem 0 1.5rem;
+    }
+    .ind-article .table th {
+      background: var(--ind-primary);
+      color: #fff;
+      padding: 0.55rem 0.75rem;
+      text-align: left;
+      font-weight: 600;
+      font-size: 0.82rem;
+    }
+    .ind-article .table td {
+      padding: 0.55rem 0.75rem;
+      border-bottom: 1px solid var(--ind-border);
+      vertical-align: top;
+    }
+    .ind-article .table tr:last-child td { border-bottom: none; }
+    .ind-article .table-striped tr:nth-child(even) td { background: #f8fafc; }
+
+    /* ---- Tabs (reuse notice shortcode styles if available) ---- */
+    .ind-article .tab-nav {
+      display: flex;
+      gap: 0;
+      border-bottom: 2px solid var(--ind-border);
+      margin: 1.5rem 0 0;
+      overflow-x: auto;
+    }
+    .ind-article .tab-btn {
+      padding: 0.55rem 1rem;
+      font-size: 0.85rem;
+      font-weight: 500;
+      background: none;
+      border: none;
+      border-bottom: 2px solid transparent;
+      margin-bottom: -2px;
+      cursor: pointer;
+      color: var(--ind-muted);
+      white-space: nowrap;
+    }
+    .ind-article .tab-btn.active {
+      color: var(--ind-accent);
+      border-bottom-color: var(--ind-accent);
+    }
+
+    /* ---- Notice boxes ---- */
+    .ind-article .notices {
+      border-left: 4px solid;
+      padding: 0.75rem 1rem;
+      margin: 1rem 0;
+      border-radius: 0 var(--ind-radius) var(--ind-radius) 0;
+      font-size: 0.9rem;
+    }
+    .ind-article .notices.tip {
+      border-color: #10b981;
+      background: #ecfdf5;
+      color: #065f46;
+    }
+    .ind-article .notices.warning {
+      border-color: var(--ind-accent);
+      background: var(--ind-accent-lt);
+      color: #92400e;
+    }
+    .ind-article .notices.note {
+      border-color: #3b82f6;
+      background: #eff6ff;
+      color: #1e40af;
+    }
+
+    /* ---- Corp link buttons ---- */
+    .ind-article .col-width-05 { width: 6%; }
+    .ind-article .col-width-1  { width: 10%; }
+    .ind-article .col-width-2  { width: 18%; }
+    .ind-article .col-width-7  { width: 56%; }
+
+    /* ---- Stat cards (for key metrics) ---- */
+    .stat-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 1rem;
+      margin: 1rem 0 1.5rem;
+    }
+    .stat-card {
+      background: var(--ind-surface);
+      border: 1px solid var(--ind-border);
+      border-radius: var(--ind-radius);
+      padding: 1rem 1.25rem;
+      box-shadow: var(--ind-shadow);
+    }
+    .stat-card__label {
+      font-size: 0.75rem;
+      font-weight: 600;
+      color: var(--ind-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin: 0 0 0.25rem;
+    }
+    .stat-card__value {
+      font-size: 1.6rem;
+      font-weight: 700;
+      color: var(--ind-primary);
+      line-height: 1.2;
+      margin: 0;
+    }
+    .stat-card__unit {
+      font-size: 0.8rem;
+      color: var(--ind-muted);
+      margin: 0;
+    }
+
+    /* ---- Process flow diagram ---- */
+    .process-flow {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0;
+      align-items: center;
+      margin: 1rem 0 1.5rem;
+      overflow-x: auto;
+      padding-bottom: 0.5rem;
+    }
+    .process-step {
+      background: var(--ind-surface);
+      border: 1px solid var(--ind-border);
+      border-radius: var(--ind-radius);
+      padding: 0.6rem 0.9rem;
+      text-align: center;
+      min-width: 110px;
+      box-shadow: var(--ind-shadow);
+      flex-shrink: 0;
+    }
+    .process-step__label {
+      font-size: 0.7rem;
+      font-weight: 600;
+      color: var(--ind-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.04em;
+      display: block;
+      margin-bottom: 0.2rem;
+    }
+    .process-step__name {
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--ind-primary);
+    }
+    .process-step__temp {
+      font-size: 0.72rem;
+      color: var(--ind-muted);
+    }
+    .process-arrow {
+      padding: 0 0.4rem;
+      color: var(--ind-muted);
+      font-size: 1.2rem;
+      flex-shrink: 0;
+    }
+
+    /* ---- References ---- */
+    .ind-article .references-section {
+      margin: 2.5rem 0 0;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--ind-border);
+    }
+    .ind-article .references-title {
+      font-size: 1rem;
+      font-weight: 600;
+      color: var(--ind-muted);
+      text-transform: uppercase;
+      letter-spacing: 0.05em;
+      margin: 0 0 1rem;
+    }
+    .ind-article .references-list {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+    }
+    .ind-article .ref-item {
+      font-size: 0.82rem;
+      line-height: 1.6;
+      color: var(--ind-muted);
+      padding: 0.4rem 0;
+      border-bottom: 1px solid var(--ind-border);
+      display: flex;
+      gap: 0.5rem;
+    }
+    .ind-article .ref-item:last-child { border-bottom: none; }
+    .ind-article .ref-num {
+      font-weight: 700;
+      color: var(--ind-accent);
+      flex-shrink: 0;
+    }
+    .ind-article .cite-num a {
+      color: var(--ind-accent);
+      text-decoration: none;
+      font-size: 0.8em;
+    }
+    .ind-article .cite-num a:hover { text-decoration: underline; }
+
+    /* ---- Container-corp table overrides ---- */
+    .ind-article .container-corp { margin-top: 2rem; }
+    .ind-article .container-corp h4 {
+      font-size: 1.1rem;
+      font-weight: 700;
+      color: var(--ind-primary);
+      border-left: 4px solid var(--ind-accent);
+      padding-left: 0.75rem;
+      margin-bottom: 1rem;
+    }
+
+    /* ---- Responsive ---- */
+    @media (max-width: 640px) {
+      .ind-hero { padding: 1.75rem 1rem 1.5rem; }
+      .ind-main { padding: 1.5rem 1rem 3rem; }
+      .stat-grid { grid-template-columns: repeat(2, 1fr); }
+      .process-flow { flex-wrap: nowrap; }
+    }
+  </style>
+</head>
+<body class="industry-body">
+
+  <header class="shadow-bottom sticky-top" style="background: var(--surface-color, #fff);">
+    <Navbar lang={lang} />
+  </header>
+
+  {/* Breadcrumb */}
+  <nav class="ind-breadcrumb" aria-label="パンくずリスト">
+    <ol>
+      {crumbs.map((crumb, i) =>
+        i === crumbs.length - 1
+          ? <li>{crumb.name}</li>
+          : <li><a href={crumb.url}>{crumb.name}</a></li>
+      )}
+    </ol>
+  </nav>
+
+  {/* MAP SECTION (only when mapName is present) */}
+  {isMapPage && (
+    <section class="ind-map-section">
+      <div class="ind-map-title">
+        <h1>{data.title}</h1>
+        {data.subtitle && <p>{data.subtitle}</p>}
+      </div>
+      <div class="ind-map-header">
+        ★ クリックで各コンビナートの詳細へ
+      </div>
+      <div class="ind-map-clamp" id="ind-map-clamp">
+        <div class="ind-map-wrapper">
+          <div id="world-map"></div>
+        </div>
+        <div class="ind-map-clamp-fade"></div>
+      </div>
+      <div class="ind-map-expand-wrap">
+        <button class="ind-map-expand-btn" id="ind-map-expand-btn">地図を全体表示 ▼</button>
+      </div>
+      <div class="ind-map-legend">
+        <span><span style="color:#e74c3c; font-size:1rem;">★</span> 解説ページあり</span>
+        <span><span style="color:rgba(255,255,255,0.3); font-size:1rem;">☆</span> 準備中</span>
+      </div>
+    </section>
+  )}
+
+  {/* HERO (for detail pages without map) */}
+  {!isMapPage && (
+    <div class="ind-hero">
+      <div class="ind-hero-inner">
+        <h1>{data.title}</h1>
+        {data.subtitle && <p class="ind-hero-sub">{data.subtitle}</p>}
+        {lastmodDisplay && <p class="ind-hero-meta">最終更新: {lastmodDisplay}</p>}
+      </div>
+    </div>
+  )}
+
+  {/* MAIN CONTENT */}
+  <main>
+    <div class="ind-main">
+      <article class="ind-article" data-pagefind-body>
+        {!isMapPage && hasContent && (
+          <slot />
+        )}
+        {isMapPage && hasContent && (
+          <slot />
+        )}
+      </article>
+    </div>
+  </main>
+
+  <Footer lang={lang} title={data.title} permalink={canonical} />
+
+  {/* JSMaps initialization */}
+  {data.mapName && (
+    <Fragment>
+      <script is:inline define:vars={{ mapName: data.mapName }}>
+        $(function() {
+          $('#world-map').JSMaps({
+            map: mapName,
+            stateClickAction: 'text',
+            displayAbbreviations: false,
+            disableTooltip: true,
+            selectElement: false,
+            pinSize: 0,
+          });
+        });
+      </script>
+      <script is:inline src="/mp/jsmaps/jsmaps-libs.js"></script>
+      <script is:inline src="/mp/jsmaps/jsmaps-panzoom.js"></script>
+      <script is:inline src="/mp/jsmaps/jsmaps.min.js"></script>
+      <script is:inline src={`/mp/maps/${data.mapName}.js`}></script>
+    </Fragment>
+  )}
+
+  {/* Map expand/collapse toggle */}
+  {isMapPage && (
+    <script is:inline>
+      (function() {
+        var btn = document.getElementById('ind-map-expand-btn');
+        var clamp = document.getElementById('ind-map-clamp');
+        if (!btn || !clamp) return;
+        btn.addEventListener('click', function() {
+          var isOpen = clamp.classList.contains('is-open');
+          if (isOpen) {
+            clamp.classList.remove('is-open');
+            clamp.style.height = '440px';
+            btn.textContent = '地図を全体表示 ▼';
+          } else {
+            var wrapper = clamp.querySelector('.ind-map-wrapper');
+            var fullH = wrapper ? wrapper.scrollHeight : 900;
+            clamp.style.height = fullH + 'px';
+            clamp.classList.add('is-open');
+            btn.textContent = '地図を縮小 ▲';
+          }
+        });
+      })();
+    </script>
+  )}
+
+</body>
+</html>

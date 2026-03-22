@@ -34,6 +34,7 @@ import { refHandler } from "./shortcodes/ref.ts";
 import { lbHandler } from "./shortcodes/lb.ts";
 import { rdHandler } from "./shortcodes/rd.ts";
 import { resetQuizState, quizHandler } from "./shortcodes/quiz.ts";
+import { resetCitationState, citeHandler, referencesHandler } from "./shortcodes/cite.ts";
 import {
   colorHandler,
   maruHandler,
@@ -83,6 +84,7 @@ function processAllShortcodes(text: string, lang: Language): string {
 
   // Reset per-page state
   resetQuizState();
+  resetCitationState();
 
   // --- Pass 0: Named-param shortcodes (custom regex) ---
   // amazoncard uses named params: {{% amazoncard url="..." title="..." %}}
@@ -94,6 +96,7 @@ function processAllShortcodes(text: string, lang: Language): string {
   // --- Pass 1: Inline (self-closing) shortcodes ---
   // These appear inside block shortcodes and must be resolved first.
 
+  result = processInlineShortcode(result, "cite", citeHandler);
   result = processInlineShortcode(result, "i18n", (args) =>
     i18nHandler(args, lang)
   );
@@ -152,6 +155,7 @@ function processAllShortcodes(text: string, lang: Language): string {
     imgrefHandler(args, inner, lang)
   );
   result = processBlockShortcode(result, "ahrefs", ahrefsHandler);
+  result = processBlockShortcode(result, "references", referencesHandler);
 
   // --- Pass 3: tab (inside tabs) ---
   result = processBlockShortcode(result, "tab", (args, inner) =>

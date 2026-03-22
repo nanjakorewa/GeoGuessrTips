@@ -183,6 +183,24 @@ const webCollection = defineCollection({
   schema: z.object({
     ...baseFields,
     sumnail_mk: z.boolean().optional().default(false),
+    mapName: z.string().optional(),
+    map_index: z.string().optional(),
+    additional_map_class: z.string().optional(),
+    import_jquery_36: z.boolean().optional().default(false),
+  }),
+});
+
+// --- Industry zone pages (content/industry/) ---
+const industryCollection = defineCollection({
+  loader: glob({ pattern: mdPattern, base: "src/content/industry", generateId }),
+  schema: z.object({
+    ...baseFields,
+    mapName: z.string().optional(),
+    map_index: z.string().optional(),
+    additional_map_class: z.string().optional(),
+    noindex: z.boolean().optional().default(false),
+    seo_title: z.string().optional(),
+    og_image: z.string().optional(),
   }),
 });
 
@@ -191,4 +209,5 @@ export const collections = {
   quiz: quizCollection,
   about: aboutCollection,
   web: webCollection,
+  industry: industryCollection,
 };
