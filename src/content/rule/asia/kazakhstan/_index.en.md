@@ -46,7 +46,7 @@ Some license plates feature the light-blue national flag on the left side.
 {{% /notice %}}
 
 {{% lb 50 small %}}
-<img src="/rule/asia/kazakhstan/КазасE�E�ан2012-01.gif" class="resolution-small" width="50%" alt="Kazakhstan GeoGuessr guide image showing КазасE�E�ан2012 01" />
+<img src="/rule/asia/kazakhstan/Казахстан2012-01.gif" class="resolution-small" width="50%" alt="Kazakhstan GeoGuessr guide image showing Казахстан2012 01" />
 {{% /lb %}}
 
 {{% /tab %}}

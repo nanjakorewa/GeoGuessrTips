@@ -92,7 +92,7 @@ A lo largo de los caminos se ven con frecuencia cercas de madera con alambre de 
 {{% /tab %}}
 {{% tab "youtube" %}}
 <div class="googlemap-if youtube-short">
-<iframe width="300" height="533" src="https://www.youtube.com/embed/HPA9Df2Pt5k" title="移動せずに国を当てられる？パーチE #geoguesser #ジオゲチE��ー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/HPA9Df2Pt5k" title="移動せずに国を当てられる？パーチェ #geoguesser #ジオゲッサー" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 </div>
 {{% /tab %}}
 {{% /tabs %}}

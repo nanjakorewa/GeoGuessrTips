@@ -53,9 +53,9 @@ El idioma oficial es el lao, por lo que las señales de alto y otros avisos tien
 <tr>
     <th>Idioma</th> <th>Escritura</th>
 </tr>
-<tr><td><span class="quiz">Jemer</span></td><td>ភោខE��ីយដ្ឋានជប៉ុខE/td></tr>
-<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ກE/td></tr>
-<tr><td><span class="quiz">Tailandés</span></td><td>ร้านอาหารญี่ปุ่กE/td></tr>
+<tr><td><span class="quiz">Jemer</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">Tailandés</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
 
@@ -95,17 +95,17 @@ El lao es el idioma oficial del país.
     <th>Idioma</th> <th>Escritura</th>
 </tr>
 <tr><td><span class="quiz">Japonés</span></td><td>日本料理レストラン</td></tr>
-<tr><td><span class="quiz">Cingalés</span></td><td>ජපනශEඁE��න්ශE��</td></tr>
-<tr><td><span class="quiz">Asamés</span></td><td>জাপানীঁEৰুE��্টুৰুE��্ঁE/td></tr>
-<tr><td><span class="quiz">Canarés</span></td><td>ಜಪಾನೀಸುEರುE��್ಟೋರುE��ಟುE/td></tr>
-<tr><td><span class="quiz">Guyaratí</span></td><td>જાપાનીઁEરુE��્ટોરન્ઁE/td></tr>
-<tr><td><span class="quiz">Tamil</span></td><td>ஜப்பானிய உணவகமுE/td></tr>
-<tr><td><span class="quiz">Telugú</span></td><td>జపనీసుEరుE��్టారుE��టుE/td></tr>
-<tr><td><span class="quiz">Bengalí</span></td><td>জাপানি রুE��্তোরা</td></tr>
-<tr><td><span class="quiz">Hindi</span></td><td>जापानी रुE��्टोरुE��ँE/td></tr>
-<tr><td><span class="quiz">Jemer</span></td><td>ភោខE��ីយដ្ឋានជប៉ុខE/td></tr>
-<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ກE/td></tr>
-<tr><td><span class="quiz">Tailandés</span></td><td>ร้านอาหารญี่ปุ่กE/td></tr>
+<tr><td><span class="quiz">Cingalés</span></td><td>ජපන් අවන්හල</td></tr>
+<tr><td><span class="quiz">Asamés</span></td><td>জাপানীজ ৰেষ্টুৰেণ্ট</td></tr>
+<tr><td><span class="quiz">Canarés</span></td><td>ಜಪಾನೀಸ್ ರೆಸ್ಟೋರೆಂಟ್</td></tr>
+<tr><td><span class="quiz">Guyaratí</span></td><td>જાપાનીઝ રેસ્ટોરન્ટ</td></tr>
+<tr><td><span class="quiz">Tamil</span></td><td>ஜப்பானிய உணவகம்</td></tr>
+<tr><td><span class="quiz">Telugú</span></td><td>జపనీస్ రెస్టారెంట్</td></tr>
+<tr><td><span class="quiz">Bengalí</span></td><td>জাপানি রেস্তোরা</td></tr>
+<tr><td><span class="quiz">Hindi</span></td><td>जापानी रेस्टोरेंट</td></tr>
+<tr><td><span class="quiz">Jemer</span></td><td>ភោជនីយដ្ឋានជប៉ុន</td></tr>
+<tr><td><span class="quiz">Lao</span></td><td>ຮ້ານອາຫານຍີ່ປຸ່ນ</td></tr>
+<tr><td><span class="quiz">Tailandés</span></td><td>ร้านอาหารญี่ปุ่น</td></tr>
 </table>
 </div>
 {{% /tab %}}

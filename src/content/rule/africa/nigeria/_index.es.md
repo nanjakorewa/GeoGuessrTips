@@ -49,7 +49,7 @@ Las matrículas varían por estado; el fondo puede verse de un <span class="quiz
 {{% /notice %}}
 
 {{% lb 50 %}}
-![](/rule/africa/nigeria/НЁE�ЕРЁE�_НОМЕР_2012.gif)
+![](/rule/africa/nigeria/НІГЕРІЯ_НОМЕР_2012.gif)
 
 CC BY‑SA 4.0
 {{% /lb %}}
