@@ -12,21 +12,21 @@ mapName: "japan"
   // コンビナートマーカー設定
   // 座標は japan.js の SVG座標系（645.8 × 700.4）に基づく
   var pins = [
-    { x: 462, y: 168, label: '室蘭', url: '/industry/japan/muroran/', ready: false,
+    { x: 462, y: 168, label: '室蘭', url: '/industry/japan-combinat/muroran/', ready: false,
       industry: '製鉄' },
-    { x: 472, y: 428, label: '鹿島', url: '/industry/japan/kashima/', ready: true,
+    { x: 472, y: 428, label: '鹿島', url: '/industry/japan-combinat/kashima/', ready: true,
       industry: '鉄鋼・石油化学' },
-    { x: 441, y: 456, label: '京葉', url: '/industry/japan/keiyo/', ready: true,
+    { x: 441, y: 456, label: '京葉', url: '/industry/japan-combinat/keiyo/', ready: true,
       industry: '石油精製・石油化学・製鉄' },
-    { x: 299, y: 487, label: '四日市', url: '/industry/japan/yokkaichi/', ready: false,
+    { x: 299, y: 487, label: '四日市', url: '/industry/japan-combinat/yokkaichi/', ready: false,
       industry: '石油化学' },
-    { x: 252, y: 478, label: '堺・阪神', url: '/industry/japan/hanshin/', ready: false,
+    { x: 252, y: 478, label: '堺・阪神', url: '/industry/japan-combinat/hanshin/', ready: false,
       industry: '石油精製・製鉄' },
-    { x: 207, y: 489, label: '水島', url: '/industry/japan/mizushima/', ready: true,
+    { x: 207, y: 489, label: '水島', url: '/industry/japan-combinat/mizushima/', ready: true,
       industry: '石油化学・製鉄・自動車' },
-    { x: 147, y: 505, label: '周南', url: '/industry/japan/shunan/', ready: false,
+    { x: 147, y: 505, label: '周南', url: '/industry/japan-combinat/shunan/', ready: false,
       industry: '石油化学・化学' },
-    { x: 118, y: 542, label: '大分', url: '/industry/japan/oita/', ready: false,
+    { x: 118, y: 542, label: '大分', url: '/industry/japan-combinat/oita/', ready: false,
       industry: '石油精製・鉄鋼' },
   ];
 
@@ -140,9 +140,9 @@ mapName: "japan"
 
 | コンビナート | 所在地 | 主な産業 | 詳細 |
 |------------|--------|---------|------|
-| **京葉コンビナート** | 千葉県（市原・千葉・君津） | 石油精製・石油化学・製鉄・発電 | [詳細 →](/industry/japan/keiyo/) |
-| **鹿島コンビナート** | 茨城県（鹿嶋・神栖） | 鉄鋼・石油化学・電力 | [詳細 →](/industry/japan/kashima/) |
-| **水島コンビナート** | 岡山県倉敷市 | 石油精製・石油化学・製鉄・自動車 | [詳細 →](/industry/japan/mizushima/) |
+| **京葉コンビナート** | 千葉県（市原・千葉・君津） | 石油精製・石油化学・製鉄・発電 | [詳細 →](/industry/japan-combinat/keiyo/) |
+| **鹿島コンビナート** | 茨城県（鹿嶋・神栖） | 鉄鋼・石油化学・電力 | [詳細 →](/industry/japan-combinat/kashima/) |
+| **水島コンビナート** | 岡山県倉敷市 | 石油精製・石油化学・製鉄・自動車 | [詳細 →](/industry/japan-combinat/mizushima/) |
 | 四日市コンビナート | 三重県四日市市 | 石油化学・化学 | 準備中 |
 | 堺・阪神コンビナート | 大阪府〜兵庫県 | 石油精製・製鉄 | 準備中 |
 | 周南コンビナート | 山口県周南市 | 石油化学・化学・製鉄 | 準備中 |

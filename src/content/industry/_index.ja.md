@@ -28,6 +28,11 @@ card_image: "pipeline.jpg"
     <p class="stat-card__unit">（京葉・鹿島・水島）</p>
   </div>
   <div class="stat-card">
+    <p class="stat-card__label">半導体集積地</p>
+    <p class="stat-card__value">5</p>
+    <p class="stat-card__unit">地域（九州・東北・三重・北海道・関東）</p>
+  </div>
+  <div class="stat-card">
     <p class="stat-card__label">掲載企業数</p>
     <p class="stat-card__value">15+</p>
     <p class="stat-card__unit">（上場企業中心）</p>
@@ -37,8 +42,9 @@ card_image: "pipeline.jpg"
 ## 掲載コンテンツ
 
 | 国・地域 | コンテンツ |
-|---------|-----------|
-| [🇯🇵 日本のコンビナート](/industry/japan/) | 全国主要8地区の分布マップ + 3地区の詳細解説 |
+| ------- | --------- |
+| [🇯🇵 日本のコンビナート](/industry/japan-combinat/) | 全国主要8地区の分布マップ + 3地区の詳細解説 |
+| [🇯🇵 日本の半導体産業集積地](/industry/japan-semiconductor/) | 九州・東北・三重・北海道・関東の5地域を解説 |
 
 ---
 
