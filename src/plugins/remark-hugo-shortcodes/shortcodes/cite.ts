@@ -78,11 +78,21 @@ export function referencesHandler(_args: string[], inner: string): string {
       const numBadge = num
         ? `<span class="ref-num">[${num}]</span> `
         : "";
-      // Convert bare URLs to links
-      const linkedText = item.text.replace(
-        /(https?:\/\/[^\s<]+)/g,
-        '<a href="$1" target="_blank" rel="noopener noreferrer">$1</a>'
-      );
+      // Convert URLs to links; supports bare URLs and <url> syntax.
+      // PDF URLs get a badge instead of full URL text.
+      const urlRegex = /<(https?:\/\/[^>]+)>|(https?:\/\/[^\s<]+)/g;
+      const linkedText = item.text.replace(urlRegex, (_match, bracketUrl, bareUrl) => {
+        const url = bracketUrl ?? bareUrl;
+        const lower = url.toLowerCase();
+        const isPdf =
+          lower.endsWith(".pdf") ||
+          lower.includes(".pdf?") ||
+          lower.includes(".pdf#");
+        if (isPdf) {
+          return `<a href="${url}" target="_blank" rel="noopener noreferrer" class="ref-pdf-badge">PDF</a>`;
+        }
+        return `<a href="${url}" target="_blank" rel="noopener noreferrer">${url}</a>`;
+      });
       return `<li id="ref-${item.key}" class="ref-item">${numBadge}<span class="ref-text">${linkedText}</span></li>`;
     })
     .join("\n");

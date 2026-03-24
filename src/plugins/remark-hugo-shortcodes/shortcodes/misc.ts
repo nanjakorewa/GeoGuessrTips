@@ -7,6 +7,26 @@ import { t } from "../../../i18n/translations.ts";
 import fs from "node:fs";
 import path from "node:path";
 
+/** timeline: {{% timeline %}}...markdown table...{{% /timeline %}}
+ *  Wraps a markdown table in a styled timeline container. */
+export function timelineHandler(_args: string[], inner: string): string {
+  return `<div class="timeline-table">\n\n${inner.trim()}\n\n</div>`;
+}
+
+/** mermaid: {{% mermaid %}}...diagram source...{{% /mermaid %}}
+ *  Wraps Mermaid diagram source in a render container.
+ *  Mermaid JS is loaded conditionally by the layout when this element is detected. */
+export function mermaidHandler(_args: string[], inner: string): string {
+  // HTML-escape & and < so remark/browser don't mangle the diagram source.
+  // Collapse blank lines to prevent CommonMark HTML-block termination.
+  const escaped = inner
+    .trim()
+    .replace(/\n{2,}/g, "\n")
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;");
+  return `<div class="mermaid-wrap"><div class="mermaid">${escaped}</div></div>`;
+}
+
 /** color: {{% color "#FF0000" %}} → colored square */
 export function colorHandler(args: string[]): string {
   const color = args[0] || "#000";

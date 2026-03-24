@@ -38,6 +38,8 @@ import { resetCitationState, citeHandler, referencesHandler } from "./shortcodes
 import {
   colorHandler,
   maruHandler,
+  timelineHandler,
+  mermaidHandler,
   qbHandler,
   quizifHandler,
   youtubeHandler,
@@ -156,6 +158,8 @@ function processAllShortcodes(text: string, lang: Language): string {
   );
   result = processBlockShortcode(result, "ahrefs", ahrefsHandler);
   result = processBlockShortcode(result, "references", referencesHandler);
+  result = processBlockShortcode(result, "timeline", timelineHandler);
+  result = processBlockShortcode(result, "mermaid", mermaidHandler);
 
   // --- Pass 3: tab (inside tabs) ---
   result = processBlockShortcode(result, "tab", (args, inner) =>

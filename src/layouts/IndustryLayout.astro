@@ -185,6 +185,7 @@ const isMapPage = !!data.mapName;
       position: relative;
       height: 440px;
       overflow: hidden;
+      transition: height 0.5s ease;
     }
     .ind-map-clamp-fade {
       position: absolute;
@@ -218,7 +219,7 @@ const isMapPage = !!data.mapName;
       color: #fff;
     }
     .ind-map-wrapper {
-      max-width: 760px;
+      max-width: 900px;
       margin: 0 auto;
       padding: 0 1rem;
     }
@@ -290,7 +291,7 @@ const isMapPage = !!data.mapName;
 
     /* ---- Map page title ---- */
     .ind-map-title {
-      max-width: 760px;
+      max-width: 900px;
       margin: 1.5rem auto 0;
       padding: 0 1rem;
       color: #fff;
@@ -309,7 +310,7 @@ const isMapPage = !!data.mapName;
 
     /* ---- Main layout ---- */
     .ind-main {
-      max-width: 860px;
+      max-width: 1040px;
       margin: 0 auto;
       padding: 2.5rem 1.5rem 4rem;
     }
@@ -374,28 +375,63 @@ const isMapPage = !!data.mapName;
       font-size: 0.88em;
     }
 
-    /* ---- Data table ---- */
+    /* ---- Data table (markdown-generated and Bootstrap .table) ---- */
+    .ind-article table,
     .ind-article .table {
       font-size: 0.88rem;
       border-collapse: collapse;
       width: 100%;
       margin: 1rem 0 1.5rem;
+      border-radius: var(--ind-radius);
+      overflow: hidden;
+      box-shadow: var(--ind-shadow);
     }
+    .ind-article table th,
     .ind-article .table th {
       background: var(--ind-primary);
       color: #fff;
-      padding: 0.55rem 0.75rem;
+      padding: 0.6rem 0.85rem;
       text-align: left;
       font-weight: 600;
       font-size: 0.82rem;
+      letter-spacing: 0.02em;
     }
+    .ind-article table td,
     .ind-article .table td {
-      padding: 0.55rem 0.75rem;
+      padding: 0.55rem 0.85rem;
       border-bottom: 1px solid var(--ind-border);
       vertical-align: top;
+      line-height: 1.6;
     }
+    .ind-article table tr:last-child td,
     .ind-article .table tr:last-child td { border-bottom: none; }
-    .ind-article .table-striped tr:nth-child(even) td { background: #f8fafc; }
+    .ind-article table tr:nth-child(even) td { background: rgba(0,0,0,0.02); }
+    .ind-article .table-striped tr:nth-child(even) td { background: rgba(0,0,0,0.02); }
+    .ind-article table tr:hover td { background: rgba(30,58,95,0.04); transition: background 0.15s; }
+    [data-theme="dark"] .ind-article table tr:nth-child(even) td { background: rgba(255,255,255,0.03); }
+    [data-theme="dark"] .ind-article table tr:hover td { background: rgba(255,255,255,0.05); }
+    [data-theme="dark"] .ind-article .table-striped tr:nth-child(even) td { background: #1e2226; }
+
+    /* ---- Timeline table ---- */
+    .timeline-table table {
+      box-shadow: none;
+      border-left: 3px solid var(--ind-accent);
+      border-radius: 0;
+    }
+    .timeline-table table th {
+      background: var(--ind-primary);
+      font-size: 0.78rem;
+      padding: 0.4rem 0.85rem;
+    }
+    .timeline-table table td:first-child {
+      font-weight: 700;
+      color: var(--ind-accent);
+      white-space: nowrap;
+      min-width: 3.5rem;
+      font-size: 0.9rem;
+    }
+    .timeline-table table tr:hover td { background: rgba(224,123,32,0.06); }
+    [data-theme="dark"] .timeline-table table tr:hover td { background: rgba(224,123,32,0.1); }
 
     /* ---- Tabs (reuse notice shortcode styles if available) ---- */
     .ind-article .tab-nav {
@@ -572,6 +608,23 @@ const isMapPage = !!data.mapName;
       font-size: 0.8em;
     }
     .ind-article .cite-num a:hover { text-decoration: underline; }
+    .ind-article .ref-pdf-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 0.2em;
+      background: #dc2626;
+      color: #fff !important;
+      font-size: 0.7em;
+      font-weight: 700;
+      padding: 0.1em 0.45em;
+      border-radius: 3px;
+      text-decoration: none !important;
+      letter-spacing: 0.04em;
+      vertical-align: middle;
+      margin-left: 0.25em;
+    }
+    .ind-article .ref-pdf-badge::before { content: "↓ "; }
+    .ind-article .ref-pdf-badge:hover { background: #b91c1c; }
 
     /* ---- Container-corp table overrides ---- */
     .ind-article .container-corp { margin-top: 2rem; }
@@ -582,6 +635,31 @@ const isMapPage = !!data.mapName;
       border-left: 4px solid var(--ind-accent);
       padding-left: 0.75rem;
       margin-bottom: 1rem;
+    }
+
+    /* ---- Mermaid diagrams ---- */
+    .mermaid-wrap {
+      margin: 1.5rem 0;
+      overflow-x: auto;
+    }
+    .mermaid-wrap .mermaid {
+      min-height: 120px;
+      display: flex;
+      justify-content: center;
+    }
+    .mermaid-wrap svg {
+      max-width: 100%;
+      height: auto;
+    }
+    /* Loading placeholder before Mermaid renders */
+    .mermaid:not([data-processed]) {
+      background: rgba(30,58,95,0.04);
+      border-radius: var(--ind-radius);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: var(--ind-muted);
+      font-size: 0.82rem;
     }
 
     /* ---- Responsive ---- */
@@ -662,6 +740,36 @@ const isMapPage = !!data.mapName;
   </main>
 
   <Footer lang={lang} title={data.title} permalink={canonical} />
+
+  {/* Mermaid: load only when diagrams exist on the page */}
+  <script is:inline>
+    (function() {
+      if (!document.querySelector('.mermaid')) return;
+      var s = document.createElement('script');
+      s.type = 'module';
+      s.textContent = [
+        'import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs";',
+        'mermaid.initialize({',
+        '  startOnLoad: true,',
+        '  theme: "base",',
+        '  themeVariables: {',
+        '    primaryColor: "#1e3a5f",',
+        '    primaryTextColor: "#ffffff",',
+        '    primaryBorderColor: "#2d5282",',
+        '    lineColor: "#e07b20",',
+        '    secondaryColor: "#f0f4f8",',
+        '    tertiaryColor: "#fef3e2",',
+        '    edgeLabelBackground: "#ffffff",',
+        '    clusterBkg: "#f0f4f8",',
+        '    fontFamily: "Hiragino Sans, Hiragino Kaku Gothic ProN, Noto Sans JP, system-ui, sans-serif",',
+        '    fontSize: "13px"',
+        '  },',
+        '  flowchart: { htmlLabels: true, curve: "basis" }',
+        '});',
+      ].join('\n');
+      document.head.appendChild(s);
+    })();
+  </script>
 
   {/* JSMaps initialization */}
   {data.mapName && (
