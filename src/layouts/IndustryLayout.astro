@@ -667,6 +667,25 @@ const isMapPage = !!data.mapName;
       .stat-grid { grid-template-columns: repeat(2, 1fr); }
       .process-flow { flex-wrap: nowrap; }
     }
+
+    .ind-disclaimer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      padding: 0.6rem 1rem;
+      font-size: 0.78rem;
+      color: #4b5563;
+      background: rgba(255,255,255,0.95);
+      border-top: 1px solid #e5e7eb;
+      text-align: center;
+      backdrop-filter: blur(4px);
+    }
+    .ind-disclaimer a {
+      color: var(--ind-accent);
+      text-decoration: underline;
+    }
   </style>
 </head>
 <body class="industry-body">
@@ -738,6 +757,10 @@ const isMapPage = !!data.mapName;
   </main>
 
   <Footer lang={lang} title={data.title} permalink={canonical} />
+
+  <aside class="ind-disclaimer">
+    このページは開発中のコンテンツであり、間違った内容を含んでいる場合があります。そのような内容を見つけた場合は<a href="https://github.com/nanjakorewa/GeoGuessrTips/issues">こちら</a>にご報告いただけると大変助かります。
+  </aside>
 
   {/* Mermaid: load only when diagrams exist on the page */}
   <script is:inline>
